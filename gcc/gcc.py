@@ -19,7 +19,7 @@ class GCCPlugin(Magics):
     
     @staticmethod
     def compile(file_path, args):
-        subprocess.check_output([compiler, file_path + ext, args, "-o", file_path + ".out"], stderr=subprocess.STDOUT)
+        subprocess.check_output([compiler, file_path + ext, f"{args[i]+',' for i in range(len(args))}"+ "-o", file_path + ".out"], stderr=subprocess.STDOUT)
     
     def run_gcc(self, file_path):
         
@@ -31,8 +31,8 @@ class GCCPlugin(Magics):
     @cell_magic
     def gcc(self, line, cell):
         #try:
-        #args = 
-        print(line)
+        args = line.split()
+        print(args)
         #except SystemExit as e:
         #    self.argparser.print_help()
         #    return
@@ -42,7 +42,7 @@ class GCCPlugin(Magics):
             with open(file_path + ext, "w") as f:
                 f.write(cell)
             try:
-                self.compile(file_path, line)
+                self.compile(file_path, args)
                 self.run_gcc(file_path)
             except subprocess.CalledProcessError as e:
                 helper.print_out(e.output.decode("utf8"))
