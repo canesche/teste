@@ -22,10 +22,10 @@ class GCCPlugin(Magics):
 
         string = ""
         for i in args:
-            string += i + ","
+            string += i + " "
         #tam = len(args)
         #if tam == 1:
-        subprocess.check_output([compiler, file_path + ext, string + "-o", file_path + ".out"], stderr=subprocess.STDOUT)
+        subprocess.check_output([compiler, file_path + ext, string ,"-o", file_path + ".out"], stderr=subprocess.STDOUT)
         #elif tam == 2:
         #    subprocess.check_output([compiler, file_path + ext, args[0], args[1], "-o", file_path + ".out"], stderr=subprocess.STDOUT)
 
