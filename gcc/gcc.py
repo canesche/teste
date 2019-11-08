@@ -30,11 +30,12 @@ class GCCPlugin(Magics):
 
     @cell_magic
     def gcc(self, line, cell):
-        try:
-            args = self.argparser.parse_args(line.split())
-        except SystemExit as e:
-            self.argparser.print_help()
-            return
+        #try:
+        args = line.split()
+        print(args)
+        #except SystemExit as e:
+        #    self.argparser.print_help()
+        #    return
 
         with tempfile.TemporaryDirectory() as tmp_dir:
             file_path = os.path.join(tmp_dir, str(uuid.uuid4()))
