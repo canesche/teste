@@ -27,7 +27,6 @@ class GCCPlugin(Magics):
         output = output.decode('utf8')
             
         helper.print_out(output)
-        return None
 
     @cell_magic
     def gcc(self, line, cell):
@@ -44,8 +43,7 @@ class GCCPlugin(Magics):
                 f.write(cell)
             try:
                 self.compile(file_path)
-                output = self.run_gcc(file_path)
+                self.run_gcc(file_path)
             except subprocess.CalledProcessError as e:
                 helper.print_out(e.output.decode("utf8"))
                 output = None
-        return output
