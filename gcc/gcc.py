@@ -19,9 +19,12 @@ class GCCPlugin(Magics):
     
     @staticmethod
     def compile(file_path, args):
+        tam = len(args)
+        if tam == 1:
+            subprocess.check_output([compiler, file_path + ext, args[0], "-o", file_path + ".out"], stderr=subprocess.STDOUT)
+        elif tam == 2:
+            subprocess.check_output([compiler, file_path + ext, args[0], args[1], "-o", file_path + ".out"], stderr=subprocess.STDOUT)
 
-        print(subprocess.check_output([compiler, file_path + ext, f"{(args[i]+',') for i in range(len(args))} ", "-o", file_path + ".out"], stderr=subprocess.STDOUT))
-    
     def run_gcc(self, file_path):
         
         output = subprocess.check_output([file_path + ".out"], stderr=subprocess.STDOUT)
