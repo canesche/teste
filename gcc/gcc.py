@@ -45,4 +45,3 @@ class GCCPlugin(Magics):
                 self.run_gcc(file_path)
             except subprocess.CalledProcessError as e:
                 helper.print_out(e.output.decode("utf8"))
-                output = None
