@@ -33,6 +33,7 @@ class GCCPlugin(Magics):
     def gcc(self, line, cell):
         try:
             args = self.argparser.parse_args(line.split())
+            print("args: "+args)
         except SystemExit as e:
             self.argparser.print_help()
             return
