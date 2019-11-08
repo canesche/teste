@@ -21,7 +21,7 @@ class GCCPlugin(Magics):
     @staticmethod
     def compile(file_path):
         subprocess.check_output(
-            [compiler, '-std=c99', file_path + ext, "-o", file_path + ".out", '-Wall'], stderr=subprocess.STDOUT)
+            [compiler, file_path + ext, "-o", file_path + ".out"], stderr=subprocess.STDOUT)
     
     def run(self, file_path, timeit=False):
         if timeit:
