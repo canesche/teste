@@ -18,8 +18,8 @@ class GCCPlugin(Magics):
         self.argparser = helper.get_argparser()
     
     @staticmethod
-    def compile(file_path):
-        subprocess.check_output([compiler, file_path + ext, "-o", file_path + ".out"], stderr=subprocess.STDOUT)
+    def compile(file_path, args):
+        subprocess.check_output([compiler, file_path + ext, args, "-o", file_path + ".out"], stderr=subprocess.STDOUT)
     
     def run_gcc(self, file_path):
         
@@ -42,7 +42,7 @@ class GCCPlugin(Magics):
             with open(file_path + ext, "w") as f:
                 f.write(cell)
             try:
-                self.compile(file_path)
+                self.compile(file_path, args)
                 self.run_gcc(file_path)
             except subprocess.CalledProcessError as e:
                 helper.print_out(e.output.decode("utf8"))
