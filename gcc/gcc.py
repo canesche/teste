@@ -44,23 +44,6 @@ class GCCPlugin(Magics):
         helper.print_out(output)
         return None
 
-    '''
-    @cell_magic
-    def gcc(self, line='', cell=None):
-
-        with tempfile.TemporaryDirectory() as tmp_dir:
-            file_path = os.path.join(tmp_dir, str(uuid.uuid4()))
-            with open(file_path + ext, "w") as f:
-                f.write(cell)
-            try:
-                self.compile(file_path)
-                output = self.run_gcc(file_path, timeit=False)
-            except subprocess.CalledProcessError as e:
-                helper.print_out(e.output.decode("utf8"))
-                output = None
-        return output
-    '''
-    
     @cell_magic
     def gcc(self, line, cell):
         try:
@@ -75,7 +58,7 @@ class GCCPlugin(Magics):
                 f.write(cell)
             try:
                 self.compile(file_path)
-                output = self.run(file_path, timeit=args.timeit)
+                output = self.run_gcc(file_path, timeit=args.timeit)
             except subprocess.CalledProcessError as e:
                 helper.print_out(e.output.decode("utf8"))
                 output = None
