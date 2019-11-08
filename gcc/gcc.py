@@ -19,7 +19,7 @@ class GCCPlugin(Magics):
     
     @staticmethod
     def compile(file_path, args):
-        subprocess.check_output([compiler, file_path + ext, args, "-o", file_path + ".out"], stderr=subprocess.STDOUT)
+        subprocess.check_output([compiler, file_path + ext, args[0], "-o", file_path + ".out"], stderr=subprocess.STDOUT)
     
     def run_gcc(self, file_path):
         
