@@ -21,7 +21,6 @@ class GCCPlugin(Magics):
     def compile(file_path, args):
         tam = len(args)
         if tam == 0:
-            print(tam)
             subprocess.check_output([compiler, file_path + ext, "-o", file_path + ".out"], stderr=subprocess.STDOUT)
         elif tam == 1:
             subprocess.check_output([compiler, file_path + ext, args[0], "-o", file_path + ".out"], stderr=subprocess.STDOUT)
@@ -39,13 +38,7 @@ class GCCPlugin(Magics):
 
     @cell_magic
     def gcc(self, line, cell):
-        #try:
         args = line.split()
-        print(args)
-        #except SystemExit as e:
-        #    self.argparser.print_help()
-        #    return
-
         with tempfile.TemporaryDirectory() as tmp_dir:
             file_path = os.path.join(tmp_dir, str(uuid.uuid4()))
             with open(file_path + ext, "w") as f:
