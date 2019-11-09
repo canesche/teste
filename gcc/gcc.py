@@ -27,6 +27,8 @@ class GCCPlugin(Magics):
             subprocess.check_output([compiler, file_path + ext, args[0], "-o", file_path + ".out"], stderr=subprocess.STDOUT)
         elif tam == 2:
             subprocess.check_output([compiler, file_path + ext, args[0], args[1], "-o", file_path + ".out"], stderr=subprocess.STDOUT)
+        elif tam == 3:
+            subprocess.check_output([compiler, file_path + ext, args[0], args[1], args[2], "-o", file_path + ".out"], stderr=subprocess.STDOUT)
 
     def run_gcc(self, file_path):
         
