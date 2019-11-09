@@ -24,8 +24,6 @@ class GCCPlugin(Magics):
         # adding flags: -O3, -unroll-loops, ...
         for flag in flags:
             args.append(flag)
-
-        #subprocess.check_output([compiler, file_path + ext, args[0], "-o", file_path + ".out"], stderr=subprocess.STDOUT)
         
         subprocess.check_output(args, stderr=subprocess.STDOUT)
 
