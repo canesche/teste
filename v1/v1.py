@@ -20,20 +20,16 @@ class NVCCPlugin(Magics):
 
     @staticmethod
     def compile(file_path, line):
-
         subprocess.check_output([compiler, file_path + ext, "-o", file_path + ".out", '-Wno-deprecated-gpu-targets'], stderr=subprocess.STDOUT)
 
-    def run(self, file_path, timeit=False):
-        
+    def run(self, file_path):
         output = subprocess.check_output([file_path + ".out"], stderr=subprocess.STDOUT)
         output = output.decode('utf8')
             
         helper.print_out(output)
     
     def run_nvprof(self, file_path):
-        
         output = subprocess.check_output(["nvprof", file_path + ".out"], stderr=subprocess.STDOUT)
-    
         output = output.decode('utf8')
             
         helper.print_out(output)
@@ -52,17 +48,17 @@ class NVCCPlugin(Magics):
                 f.write(cell)
             try:
                 self.compile(file_path, line)
-                self.run(file_path, timeit=args.timeit)
+                self.run(file_path)
             except subprocess.CalledProcessError as e:
                 helper.print_out(e.output.decode("utf8"))
     
+    
+    @magic_arguments()
+    @argument('-m', '--metrics', type=str, help='metrics')
     @cell_magic
     def gpu(self, line, cell):
-        try:
-            args = self.argparser.parse_args(line.split())
-        except SystemExit as e:
-            self.argparser.print_help()
-            return
+        
+        print(line)
 
         with tempfile.TemporaryDirectory() as tmp_dir:
             file_path = os.path.join(tmp_dir, str(uuid.uuid4()))
@@ -70,7 +66,7 @@ class NVCCPlugin(Magics):
                 f.write(cell)
             try:
                 self.compile(file_path, line)
-                self.run(file_path, timeit=args.timeit)
+                self.run(file_path)
             except subprocess.CalledProcessError as e:
                 helper.print_out(e.output.decode("utf8"))
     
