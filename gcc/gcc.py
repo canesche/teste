@@ -18,16 +18,16 @@ class GCCPlugin(Magics):
         self.argparser = helper.get_argparser()
     
     @staticmethod
-    def compile(file_path, args):
-        tam = len(args)
-        if tam == 0:
-            subprocess.check_output([compiler, file_path + ext, "-o", file_path + ".out"], stderr=subprocess.STDOUT)
-        elif tam == 1:
-            subprocess.check_output([compiler, file_path + ext, args[0], "-o", file_path + ".out"], stderr=subprocess.STDOUT)
-        elif tam == 2:
-            subprocess.check_output([compiler, file_path + ext, args[0], args[1], "-o", file_path + ".out"], stderr=subprocess.STDOUT)
-        elif tam == 3:
-            subprocess.check_output([compiler, file_path + ext, args[0], args[1], args[2], "-o", file_path + ".out"], stderr=subprocess.STDOUT)
+    def compile(file_path, flags):
+        args = [compiler, file_path + ext, "-o", file_path + ".out"]
+
+        # adding flags: -O3, -unroll-loops, ...
+        for flag in flags:
+            args.append(flag)
+
+        #subprocess.check_output([compiler, file_path + ext, args[0], "-o", file_path + ".out"], stderr=subprocess.STDOUT)
+        
+        subprocess.check_output(args, stderr=subprocess.STDOUT)
 
     def run_gcc(self, file_path):
         
