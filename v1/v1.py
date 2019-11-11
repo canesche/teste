@@ -20,8 +20,7 @@ class NVCCPlugin(Magics):
 
     @staticmethod
     def compile(file_path, flags):
-        #args = [compiler, file_path + ext, "-o", file_path + ".out",'-Wno-deprecated-gpu-targets', '-arch=sm_37']
-        args = [compiler, file_path + ext, "-o", file_path + ".out",'-Wno-deprecated-gpu-targets']
+        args = [compiler,'-arch=sm_37', file_path + ext, "-o", file_path + ".out",'-Wno-deprecated-gpu-targets']
 
         # adding flags: -O3, -unroll-loops, ...
         for flag in flags:
@@ -54,9 +53,6 @@ class NVCCPlugin(Magics):
             except subprocess.CalledProcessError as e:
                 helper.print_out(e.output.decode("utf8"))
     
-    
-    @magic_arguments()
-    @argument('-m', '--metrics', type=str, help='metrics')
     @cell_magic
     def gpu(self, line, cell):
         args = line.split()
