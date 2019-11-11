@@ -34,7 +34,7 @@ class NVCCPlugin(Magics):
         helper.print_out(output)
     
     def run_nvprof(self, file_path):
-        args = ["nvprof", "--metrics all", file_path + ".out"]
+        args = ["nvprof", file_path + ".out"]
         output = subprocess.check_output(args, stderr=subprocess.STDOUT)
         output = output.decode('utf8')
         helper.print_out(output)
