@@ -27,7 +27,7 @@ class CPlugin(Magics):
         
         subprocess.check_output(args, stderr=subprocess.STDOUT)
 
-    def run_gcc(self, file_path):
+    def run_cpp(self, file_path):
         
         output = subprocess.check_output([file_path + ".out"], stderr=subprocess.STDOUT)
         output = output.decode('utf8')
@@ -35,7 +35,7 @@ class CPlugin(Magics):
         helper.print_out(output)
 
     @cell_magic
-    def gcc(self, line, cell):
+    def cpp(self, line, cell):
         args = line.split()
         with tempfile.TemporaryDirectory() as tmp_dir:
             file_path = os.path.join(tmp_dir, str(uuid.uuid4()))
@@ -43,6 +43,6 @@ class CPlugin(Magics):
                 f.write(cell)
             try:
                 self.compile(file_path, args)
-                self.run_gcc(file_path)
+                self.run_cpp(file_path)
             except subprocess.CalledProcessError as e:
                 helper.print_out(e.output.decode("utf8"))
