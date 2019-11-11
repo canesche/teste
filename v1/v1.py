@@ -31,29 +31,23 @@ class NVCCPlugin(Magics):
     def run(self, file_path):
         output = subprocess.check_output([file_path + ".out"], stderr=subprocess.STDOUT)
         output = output.decode('utf8')
-            
         helper.print_out(output)
     
     def run_nvprof(self, file_path):
         output = subprocess.check_output(["nvprof", file_path + ".out"], stderr=subprocess.STDOUT)
         output = output.decode('utf8')
-            
         helper.print_out(output)
 
     @cell_magic
     def cu(self, line, cell):
-        try:
-            args = self.argparser.parse_args(line.split())
-        except SystemExit as e:
-            self.argparser.print_help()
-            return
+        args = line.split()
 
         with tempfile.TemporaryDirectory() as tmp_dir:
             file_path = os.path.join(tmp_dir, str(uuid.uuid4()))
             with open(file_path + ext, "w") as f:
                 f.write(cell)
             try:
-                self.compile(file_path, line)
+                self.compile(file_path, args)
                 self.run(file_path)
             except subprocess.CalledProcessError as e:
                 helper.print_out(e.output.decode("utf8"))
@@ -63,30 +57,28 @@ class NVCCPlugin(Magics):
     @argument('-m', '--metrics', type=str, help='metrics')
     @cell_magic
     def gpu(self, line, cell):
-        
-        print(line)
+        args = line.split()
 
         with tempfile.TemporaryDirectory() as tmp_dir:
             file_path = os.path.join(tmp_dir, str(uuid.uuid4()))
             with open(file_path + ext, "w") as f:
                 f.write(cell)
             try:
-                self.compile(file_path, line)
+                self.compile(file_path, args)
                 self.run(file_path)
             except subprocess.CalledProcessError as e:
                 helper.print_out(e.output.decode("utf8"))
     
     @cell_magic
     def nvprof(self, line='', cell=None):
-
-        print(line)
+        args = line.split()
 
         with tempfile.TemporaryDirectory() as tmp_dir:
             file_path = os.path.join(tmp_dir, str(uuid.uuid4()))
             with open(file_path + ext, "w") as f:
                 f.write(cell)
             try:
-                self.compile(file_path, line)
+                self.compile(file_path, args)
                 self.run_nvprof(file_path)
             except subprocess.CalledProcessError as e:
                 helper.print_out(e.output.decode("utf8"))
