@@ -35,8 +35,15 @@ class CPlugin(Magics):
         helper.print_out(output)
 
     @cell_magic
+    def scanf(self, line):
+        return line.split()
+
+    @cell_magic
     def gcc(self, line, cell):
         args = line.split()
+        teste = ''
+        print(scanf(teste))
+
         with tempfile.TemporaryDirectory() as tmp_dir:
             file_path = os.path.join(tmp_dir, str(uuid.uuid4()))
             with open(file_path + ext, "w") as f:
