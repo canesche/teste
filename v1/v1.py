@@ -19,8 +19,14 @@ class NVCCPlugin(Magics):
         self.argparser = helper.get_argparser()
 
     @staticmethod
-    def compile(file_path, line):
-        subprocess.check_output([compiler, file_path + ext, "-o", file_path + ".out", '-Wno-deprecated-gpu-targets'], stderr=subprocess.STDOUT)
+    def compile(file_path, flags):
+        args = [compiler, file_path + ext, "-o", file_path + ".out",'-Wno-deprecated-gpu-targets']
+
+        # adding flags: -O3, -unroll-loops, ...
+        for flag in flags:
+            args.append(flag)
+        
+        subprocess.check_output(args, stderr=subprocess.STDOUT)
 
     def run(self, file_path):
         output = subprocess.check_output([file_path + ".out"], stderr=subprocess.STDOUT)
