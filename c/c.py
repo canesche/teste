@@ -23,26 +23,23 @@ class CPlugin(Magics):
 
         # adding flags: -O3, -unroll-loops, ...
         for flag in flags:
+            if flag == "<":
+                break
             args.append(flag)
         
         subprocess.check_output(args, stderr=subprocess.STDOUT)
 
     def run_gcc(self, file_path):
-        
-        output = subprocess.check_output([file_path + ".out"], stderr=subprocess.STDOUT)
+        args = [file_path + ".out", "< 10"]
+
+        output = subprocess.check_output(args, stderr=subprocess.STDOUT)
         output = output.decode('utf8')
             
         helper.print_out(output)
 
     @cell_magic
-    def scanf(self, line):
-        return line.split()
-
-    @cell_magic
     def gcc(self, line, cell):
         args = line.split()
-        teste = ''
-        print(scanf(teste))
 
         with tempfile.TemporaryDirectory() as tmp_dir:
             file_path = os.path.join(tmp_dir, str(uuid.uuid4()))
