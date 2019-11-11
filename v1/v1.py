@@ -20,7 +20,8 @@ class NVCCPlugin(Magics):
 
     @staticmethod
     def compile(file_path, flags):
-        args = [compiler, file_path + ext, "-o", file_path + ".out",'-Wno-deprecated-gpu-targets', '-arch=sm_37']
+        #args = [compiler, file_path + ext, "-o", file_path + ".out",'-Wno-deprecated-gpu-targets', '-arch=sm_37']
+        args = [compiler, file_path + ext, "-o", file_path + ".out",'-Wno-deprecated-gpu-targets']
 
         # adding flags: -O3, -unroll-loops, ...
         for flag in flags:
