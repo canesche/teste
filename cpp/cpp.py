@@ -7,14 +7,14 @@ from IPython.core.magic import Magics, cell_magic, magics_class
 from IPython.core.magic_arguments import argument, magic_arguments, parse_argstring
 from common import helper
 
-compiler = '/usr/bin/gcc'
-ext = '.c'
+compiler = '/usr/bin/g++'
+ext = '.cpp'
 
 @magics_class
-class GCCPlugin(Magics):
+class CPPPlugin(Magics):
     
     def __init__(self, shell):
-        super(GCCPlugin, self).__init__(shell)
+        super(CPPPlugin, self).__init__(shell)
         self.argparser = helper.get_argparser()
     
     @staticmethod
