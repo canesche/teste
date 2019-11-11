@@ -34,7 +34,7 @@ class NVCCPlugin(Magics):
         helper.print_out(output)
     
     def run_nvprof(self, file_path):
-        output = subprocess.check_output(["nvprof", file_path + ".out", "--kernels poli","--metrics sm_efficiency dram_utilization"], stderr=subprocess.STDOUT)
+        output = subprocess.check_output(["nvprof", "--kernels poli", file_path + ".out","--metrics sm_efficiency dram_utilization"], stderr=subprocess.STDOUT)
         output = output.decode('utf8')
         helper.print_out(output)
 
