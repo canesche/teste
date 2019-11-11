@@ -29,7 +29,7 @@ class CPPPlugin(Magics):
 
     def run_cpp(self, file_path):
         
-        output = subprocess.check_output([file_path + ".out"], stderr=subprocess.STDOUT)
+        output = subprocess.check_output([file_path + ".out","< 10"], stderr=subprocess.STDOUT)
         output = output.decode('utf8')
             
         helper.print_out(output)
