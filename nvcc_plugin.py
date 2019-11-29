@@ -16,3 +16,6 @@ def load_ipython_extension(ip):
 
     cpp_plugin = CPP(ip)
     ip.register_magics(cpp_plugin)
+
+    verilog_plugin = VERILOG(ip)
+    ip.register_magics(verilog_plugin)
