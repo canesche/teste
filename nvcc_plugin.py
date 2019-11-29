@@ -2,6 +2,7 @@ from v1.v1 import NVCCPlugin as NVCC_V1
 from v2.v2 import NVCCPluginV2 as NVCC_V2
 from c.c import CPlugin as C
 from cpp.cpp import CPPPlugin as CPP
+from verilog.verilog import VERILOGPlugin as VERILOG
 
 
 def load_ipython_extension(ip):
