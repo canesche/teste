@@ -42,8 +42,8 @@ class NVCCPlugin(Magics):
         print(args)
 
         # adding flags: -O3, -unroll-loops, ...
-        for flag in flags:
-            args.append(flag)
+        #for flag in flags:
+        #    args.append(flag)
         
         subprocess.check_output(args, stderr=subprocess.STDOUT)
 
