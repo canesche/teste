@@ -28,6 +28,17 @@ class NVCCPlugin(Magics):
             args.append(flag)
         
         subprocess.check_output(args, stderr=subprocess.STDOUT)
+    
+    @staticmethod
+    def compile_ptx(file_path, flags):
+        args = [compiler,'-arch=sm_37', file_path + ext, '--ptx']
+        print(args)
+
+        # adding flags: -O3, -unroll-loops, ...
+        for flag in flags:
+            args.append(flag)
+        
+        subprocess.check_output(args, stderr=subprocess.STDOUT)
 
     def run(self, file_path):
         output = subprocess.check_output([file_path + ".out"], stderr=subprocess.STDOUT)
@@ -64,40 +75,37 @@ class NVCCPlugin(Magics):
     def gpu(self, line, cell):
         args = line.split()
 
-        with tempfile.TemporaryDirectory() as tmp_dir:
-            file_path = os.path.join(tmp_dir, str(uuid.uuid4()))
-            with open(file_path + ext, "w") as f:
-                f.write(cell)
-            try:
-                self.compile(file_path, args)
-                self.run(file_path)
-            except subprocess.CalledProcessError as e:
-                helper.print_out(e.output.decode("utf8"))
+        file_path = os.path.join('/content/code')
+        with open(file_path + ext, "w") as f:
+            f.write(cell)
+        try:
+            self.compile(file_path, args)
+            self.run(file_path)
+        except subprocess.CalledProcessError as e:
+            helper.print_out(e.output.decode("utf8"))
     
     @cell_magic
     def nvprof(self, line='', cell=None):
         args = line.split()
 
-        with tempfile.TemporaryDirectory() as tmp_dir:
-            file_path = os.path.join('/content/nvprof_code') #os.path.join(tmp_dir, str(uuid.uuid4()))
-            with open(file_path + ext, "w") as f:
-                f.write(cell)
-            try:
-                self.compile(file_path, args)
-                self.run_nvprof(file_path)
-            except subprocess.CalledProcessError as e:
-                helper.print_out(e.output.decode("utf8"))
+        file_path = os.path.join('/content/code')
+        with open(file_path + ext, "w") as f:
+            f.write(cell)
+        try:
+            self.compile(file_path, args)
+            self.run_nvprof(file_path)
+        except subprocess.CalledProcessError as e:
+            helper.print_out(e.output.decode("utf8"))
     
     @cell_magic
     def ptx(self, line='', cell=None):
         args = line.split()
 
-        with tempfile.TemporaryDirectory() as tmp_dir:
-            file_path = os.path.join(tmp_dir, str(uuid.uuid4()))
-            with open(file_path + ext, "w") as f:
-                f.write(cell)
-            try:
-                self.compile(file_path, args)
-                self.run_ptx(file_path)
-            except subprocess.CalledProcessError as e:
-                helper.print_out(e.output.decode("utf8"))
+        file_path = os.path.join('/content/code')
+        with open(file_path + ext, "w") as f:
+            f.write(cell)
+        try:
+            self.compile_ptx(file_path, args)
+            self.run_ptx(file_path)
+        except subprocess.CalledProcessError as e:
+            helper.print_out(e.output.decode("utf8"))
