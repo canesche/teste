@@ -39,6 +39,7 @@ class NVCCPlugin(Magics):
             arch = flags[0]
 
         args = [compiler,'-arch=sm_'+arch, file_path + ext, '--ptx']
+        print(args)
 
         # adding flags: -O3, -unroll-loops, ...
         for flag in flags:
