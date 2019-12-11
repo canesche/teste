@@ -20,7 +20,7 @@ class NVCCPlugin(Magics):
 
     @staticmethod
     def compile(file_path, flags):
-        args = [compiler,'-arch=sm_37', file_path + ext, "-o", file_path + ".out",'-Wno-deprecated-gpu-targets', '-ptx']
+        args = [compiler,'-arch=sm_37', file_path + ext, "-o", file_path + ".out",'-Wno-deprecated-gpu-targets']
         print(args)
 
         # adding flags: -O3, -unroll-loops, ...
@@ -79,7 +79,7 @@ class NVCCPlugin(Magics):
         args = line.split()
 
         with tempfile.TemporaryDirectory() as tmp_dir:
-            file_path = os.path.join(tmp_dir, str(uuid.uuid4()))
+            file_path = os.path.join('/content/nvprof_code') #os.path.join(tmp_dir, str(uuid.uuid4()))
             with open(file_path + ext, "w") as f:
                 f.write(cell)
             try:
