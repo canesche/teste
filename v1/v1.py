@@ -32,6 +32,8 @@ class NVCCPlugin(Magics):
     @staticmethod
     def compile_ptx(file_path, flags):
 
+        print(flags)
+
         arch = '37'
         if (len(flags) > 0):
             arch = flags[0]
