@@ -20,7 +20,7 @@ class NVCCPlugin(Magics):
 
     @staticmethod
     def compile(file_path, flags):
-        args = [compiler,'-arch=sm_37', file_path + ext, "-o", file_path + ".out",'-Wno-deprecated-gpu-targets']
+        args = [compiler,'-arch=sm_37', '-ptx', file_path + ext, "-o", file_path + ".out",'-Wno-deprecated-gpu-targets']
 
         # adding flags: -O3, -unroll-loops, ...
         for flag in flags:
@@ -35,6 +35,12 @@ class NVCCPlugin(Magics):
     
     def run_nvprof(self, file_path):
         args = ["nvprof", file_path + ".out"]
+        output = subprocess.check_output(args, stderr=subprocess.STDOUT)
+        output = output.decode('utf8')
+        helper.print_out(output)
+
+    def run_ptx(self, file_path):
+        args = ["cat", file_path + ".ptx"]
         output = subprocess.check_output(args, stderr=subprocess.STDOUT)
         output = output.decode('utf8')
         helper.print_out(output)
@@ -78,5 +84,19 @@ class NVCCPlugin(Magics):
             try:
                 self.compile(file_path, args)
                 self.run_nvprof(file_path)
+            except subprocess.CalledProcessError as e:
+                helper.print_out(e.output.decode("utf8"))
+    
+    @cell_magic
+    def ptx(self, line='', cell=None):
+        args = line.split()
+
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            file_path = os.path.join(tmp_dir, str(uuid.uuid4()))
+            with open(file_path + ext, "w") as f:
+                f.write(cell)
+            try:
+                self.compile(file_path, args)
+                self.run_ptx(file_path)
             except subprocess.CalledProcessError as e:
                 helper.print_out(e.output.decode("utf8"))
