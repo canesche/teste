@@ -31,19 +31,11 @@ class NVCCPlugin(Magics):
     
     @staticmethod
     def compile_ptx(file_path, flags):
-
-        print(flags)
-
         arch = '37'
         if (len(flags) > 0):
             arch = flags[0]
 
         args = [compiler,'-arch=sm_'+arch, file_path + ext, '--ptx']
-        print(args)
-
-        # adding flags: -O3, -unroll-loops, ...
-        #for flag in flags:
-        #    args.append(flag)
         
         subprocess.check_output(args, stderr=subprocess.STDOUT)
 
