@@ -1,0 +1,2 @@
+struct cpumask | dummy int 
+function noop_send_IPI_mask_allbutself void | cpumask const struct cpumask * | vector int

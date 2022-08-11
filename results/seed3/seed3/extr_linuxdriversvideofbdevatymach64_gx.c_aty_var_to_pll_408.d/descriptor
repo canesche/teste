@@ -1,0 +1,4 @@
+struct TYPE_2__ | program_bits int | post_divider short | period_in_ps int | locationAddr long 
+struct aty_pll | ics2595 struct TYPE_2__ 
+struct fb_info | dummy int 
+function aty_var_to_pll_408 int | info const struct fb_info * | vclk_per int | bpp int | pll union aty_pll *

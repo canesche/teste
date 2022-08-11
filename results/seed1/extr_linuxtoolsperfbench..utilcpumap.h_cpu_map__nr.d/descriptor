@@ -1,2 +1,0 @@
-struct cpu_map | nr int 
-function cpu_map__nr int | map const struct cpu_map *

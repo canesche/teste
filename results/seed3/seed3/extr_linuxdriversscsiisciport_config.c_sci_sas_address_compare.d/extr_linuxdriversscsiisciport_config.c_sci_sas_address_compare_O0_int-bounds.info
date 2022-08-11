@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversscsiisciport_config.c_sci_sas_address_compare.d/extr_linuxdriversscsiisciport_config.c_sci_sas_address_compare_O0::sci_sas_address_compare(62)"
+  }
+]

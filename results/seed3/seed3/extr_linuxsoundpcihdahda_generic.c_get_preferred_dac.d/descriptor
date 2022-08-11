@@ -1,0 +1,3 @@
+struct hda_gen_spec | preferred_dacs long * 
+struct hda_codec | spec struct hda_gen_spec * 
+function get_preferred_dac const long | codec struct hda_codec * | pin const long

@@ -1,2 +1,0 @@
-struct sk_buff | len int 
-function codel_skb_len_func int | skb const struct sk_buff *

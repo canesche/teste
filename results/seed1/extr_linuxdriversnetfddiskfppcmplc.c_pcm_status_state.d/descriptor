@@ -1,5 +1,0 @@
-struct s_smc | y struct s_phy * 
-struct s_phy | mib struct fddi_mib_p * 
-struct TYPE_2__ | R_val int 
-struct fddi_mib_p | fddiPORTMy_Type int | fddiPORTConnectState int | fddiPORTNeighborType int | fddiPORTPCMState int | fddiPORTMacIndicated struct TYPE_2__ 
-function pcm_status_state void | smc struct s_smc * | np int | type int * | state int * | remote int * | mac int *

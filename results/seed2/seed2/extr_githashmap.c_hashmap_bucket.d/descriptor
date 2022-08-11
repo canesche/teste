@@ -1,0 +1,2 @@
+struct hashmap | tablesize int 
+function hashmap_bucket int | map const struct hashmap * | hash unsigned int

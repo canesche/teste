@@ -1,0 +1,3 @@
+struct TYPE_5__ | prev struct TYPE_5__ * | next int 
+struct TYPE_6__ | last struct TYPE_5__ * | first long 
+function block_take_last struct TYPE_5__ * | b struct TYPE_6__ *

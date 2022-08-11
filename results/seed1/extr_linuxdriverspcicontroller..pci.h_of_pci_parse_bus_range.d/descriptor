@@ -1,3 +1,0 @@
-struct resource | dummy int 
-struct device_node | dummy int 
-function of_pci_parse_bus_range int | node struct device_node * | res struct resource *

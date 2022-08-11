@@ -1,3 +1,0 @@
-struct TYPE_2__ | put int | cur int 
-struct nouveau_channel | dma struct TYPE_2__ 
-function WIND_RING void | chan struct nouveau_channel *

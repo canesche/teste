@@ -1,0 +1,3 @@
+struct delta_ipc_ctx | ipc_buf struct TYPE_2__ * 
+struct TYPE_2__ | vaddr void * | size int 
+function is_valid_data int | ctx struct delta_ipc_ctx * | data void * | size int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxblockbfq-iosched.c_bfq_bfqq_budget_left.d/extr_linuxblockbfq-iosched.c_bfq_bfqq_budget_left_O0::bfq_bfqq_budget_left(62)"
+  }
+]

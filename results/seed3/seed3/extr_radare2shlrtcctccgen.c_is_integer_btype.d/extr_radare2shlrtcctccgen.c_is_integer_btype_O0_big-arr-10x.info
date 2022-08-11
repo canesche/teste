@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_radare2shlrtcctccgen.c_is_integer_btype.d/extr_radare2shlrtcctccgen.c_is_integer_btype_O0::is_integer_btype(63)"
+  }
+]

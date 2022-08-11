@@ -1,0 +1,4 @@
+struct ad7793_state | chip_info struct TYPE_2__ * 
+struct ad7793_platform_data | current_source_direction long | exitation_current long | clock_src long | refsel long | bias_voltage long 
+struct TYPE_2__ | flags int 
+function ad7793_check_platform_data int | st struct ad7793_state * | pdata const struct ad7793_platform_data *

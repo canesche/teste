@@ -1,0 +1,3 @@
+struct acpi_parse_object | dummy int 
+struct acpi_walk_state | dummy int 
+function acpi_ds_dump_method_stack void | status int | walk_state struct acpi_walk_state * | op union acpi_parse_object *

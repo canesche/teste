@@ -1,0 +1,4 @@
+struct TYPE_2__ | h_total unsigned long | pix_clk_khz unsigned long 
+struct dc_stream_state | timing struct TYPE_2__ 
+struct bw_fixed | value int 
+function compute_pstate_blackout_duration unsigned long | blackout_duration struct bw_fixed | stream const struct dc_stream_state *

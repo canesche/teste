@@ -1,0 +1,1 @@
+function add_byte long | p_buffer long ** | value int | used long * | avail long *

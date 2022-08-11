@@ -1,0 +1,2 @@
+struct vc_data | vc_itcolor int | vc_ulcolor int | vc_halfcolor int 
+function vgacon_build_attr int | c struct vc_data * | color int | intensity int | blink int | underline int | reverse int | italic int

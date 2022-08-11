@@ -1,1 +1,0 @@
-function ossl_statem_fatal void | s int * | al int | func int | reason int | file const char * | line int

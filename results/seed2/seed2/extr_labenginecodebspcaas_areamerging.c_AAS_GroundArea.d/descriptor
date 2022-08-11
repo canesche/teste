@@ -1,0 +1,3 @@
+struct TYPE_4__ | faceflags int | frontarea struct TYPE_5__ * | next struct TYPE_4__ ** 
+struct TYPE_5__ | tmpfaces struct TYPE_4__ * 
+function AAS_GroundArea int | tmparea struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct ieee80211_cipher_scheme | cipher long | hdr_len long | pn_len long | pn_off long | key_idx_off long | key_idx_shift int | key_idx_mask long 
+function ieee80211_cs_valid int | cs const struct ieee80211_cipher_scheme *

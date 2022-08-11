@@ -1,0 +1,2 @@
+struct dc_bios | bios_size long | bios int * 
+function bios_get_image int * | bp struct dc_bios * | offset long | size long

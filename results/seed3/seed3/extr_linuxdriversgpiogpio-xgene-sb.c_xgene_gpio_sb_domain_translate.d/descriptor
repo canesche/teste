@@ -1,0 +1,4 @@
+struct xgene_gpio_sb | nirq long 
+struct irq_fwspec | param_count int | param long * 
+struct irq_domain | host_data struct xgene_gpio_sb * 
+function xgene_gpio_sb_domain_translate int | d struct irq_domain * | fwspec struct irq_fwspec * | hwirq unsigned long * | type unsigned int *

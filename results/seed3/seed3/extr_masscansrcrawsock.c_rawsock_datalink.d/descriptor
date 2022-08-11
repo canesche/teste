@@ -1,0 +1,2 @@
+struct Adapter | link_type int | ring long 
+function rawsock_datalink int | adapter struct Adapter *

@@ -1,0 +1,2 @@
+struct led_classdev_flash | dummy int 
+function aat1290_led_flash_timeout_set int | fled_cdev struct led_classdev_flash * | timeout int

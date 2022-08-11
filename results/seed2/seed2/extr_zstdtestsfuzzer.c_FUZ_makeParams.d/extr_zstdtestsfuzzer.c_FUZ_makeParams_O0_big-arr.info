@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_zstdtestsfuzzer.c_FUZ_makeParams.d/extr_zstdtestsfuzzer.c_FUZ_makeParams_O0::FUZ_makeParams(65)"
+  }
+]

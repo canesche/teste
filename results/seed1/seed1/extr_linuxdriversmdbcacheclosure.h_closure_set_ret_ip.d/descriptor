@@ -1,0 +1,2 @@
+struct closure | dummy int 
+function closure_set_ret_ip void | cl struct closure *

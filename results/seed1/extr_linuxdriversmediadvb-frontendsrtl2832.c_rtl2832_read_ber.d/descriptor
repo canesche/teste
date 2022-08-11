@@ -1,3 +1,0 @@
-struct rtl2832_dev | post_bit_error long | post_bit_error_prev long 
-struct dvb_frontend | demodulator_priv struct rtl2832_dev * 
-function rtl2832_read_ber int | fe struct dvb_frontend * | ber long *

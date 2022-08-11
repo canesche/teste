@@ -1,2 +1,0 @@
-struct mic_device | family int | smpt_ops int * | intr_ops int * | ops int * 
-function mic_ops_init void | mdev struct mic_device *

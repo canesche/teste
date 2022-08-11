@@ -1,4 +1,0 @@
-struct TYPE_3__ | efuse_cmd_construct_state int 
-struct TYPE_4__ | efuse_state_set struct TYPE_3__ 
-struct halmac_adapter | halmac_state struct TYPE_4__ 
-function halmac_query_efuse_curr_state_88xx enum halmac_efuse_cmd_construct_state | halmac_adapter struct halmac_adapter *

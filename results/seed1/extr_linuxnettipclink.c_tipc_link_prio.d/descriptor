@@ -1,2 +1,0 @@
-struct tipc_link | priority int 
-function tipc_link_prio int | l struct tipc_link *

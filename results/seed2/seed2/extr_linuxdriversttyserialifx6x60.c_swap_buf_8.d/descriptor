@@ -1,0 +1,1 @@
+function swap_buf_8 void | buf unsigned char * | len int | end void *

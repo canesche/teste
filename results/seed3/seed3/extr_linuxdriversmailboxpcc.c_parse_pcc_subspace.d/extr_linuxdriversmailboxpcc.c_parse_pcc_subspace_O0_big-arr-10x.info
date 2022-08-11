@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmailboxpcc.c_parse_pcc_subspace.d/extr_linuxdriversmailboxpcc.c_parse_pcc_subspace_O0::parse_pcc_subspace(67)"
+  }
+]

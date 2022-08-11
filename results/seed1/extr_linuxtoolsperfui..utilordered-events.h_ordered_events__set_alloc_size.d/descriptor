@@ -1,2 +1,0 @@
-struct ordered_events | max_alloc_size int 
-function ordered_events__set_alloc_size void | oe struct ordered_events * | size int

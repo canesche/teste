@@ -1,0 +1,2 @@
+struct ubifs_lprops | free int | dirty int 
+function get_heap_comp_val int | lprops struct ubifs_lprops * | cat int

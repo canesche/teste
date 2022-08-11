@@ -1,0 +1,2 @@
+struct TYPE_3__ | cqrdata long | nqrdata long | qrdata int * 
+function qr_code_data_list_init void | _qrlist struct TYPE_3__ *

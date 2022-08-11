@@ -1,0 +1,2 @@
+struct TYPE_2__ | DR unsigned long 
+function CRC_CalcBlockCRC unsigned long | pBuffer unsigned long [] | BufferLength unsigned long

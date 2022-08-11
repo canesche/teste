@@ -1,0 +1,1 @@
+function dtrace_add_128 void | addend1 long * | addend2 long * | sum long *

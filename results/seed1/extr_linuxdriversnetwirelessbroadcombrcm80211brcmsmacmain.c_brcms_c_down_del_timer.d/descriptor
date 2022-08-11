@@ -1,2 +1,0 @@
-struct brcms_c_info | dummy int 
-function brcms_c_down_del_timer int | wlc struct brcms_c_info *

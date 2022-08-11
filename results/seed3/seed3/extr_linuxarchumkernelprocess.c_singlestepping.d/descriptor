@@ -1,0 +1,3 @@
+struct TYPE_2__ | singlestep_syscall long 
+struct task_struct | ptrace int | thread struct TYPE_2__ 
+function singlestepping int | t void *

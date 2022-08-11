@@ -1,3 +1,0 @@
-struct net_bridge_vlan_group | dummy int 
-struct net_bridge | dummy int 
-function br_vlan_group struct net_bridge_vlan_group * | br const struct net_bridge *

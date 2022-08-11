@@ -1,0 +1,2 @@
+struct TYPE_3__ | pidsuspended int 
+function get_task_pidsuspended int | task struct TYPE_3__ *

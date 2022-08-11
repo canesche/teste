@@ -1,0 +1,2 @@
+struct seqbuf | pos int 
+function seqbuf_seek void | seqbuf struct seqbuf * | offset long

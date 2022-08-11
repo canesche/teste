@@ -1,0 +1,2 @@
+struct TYPE_3__ | ValuesCount unsigned long | Values long * | InputSteppingDelta unsigned long 
+function MMixerGetVolumeControlIndex unsigned long | VolumeData struct TYPE_3__ * | Value long

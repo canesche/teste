@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function nfs_fscache_release_super_cookie void | sb struct super_block *

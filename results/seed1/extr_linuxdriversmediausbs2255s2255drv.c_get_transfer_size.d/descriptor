@@ -1,2 +1,0 @@
-struct s2255_mode | format long | scale int | color int 
-function get_transfer_size int | mode struct s2255_mode *

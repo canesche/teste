@@ -1,0 +1,6 @@
+struct TYPE_10__ | scsi_sense_tail unsigned long | scsi_sense struct TYPE_8__ * 
+struct TYPE_9__ | MSC_BOT_ClassData struct TYPE_10__ 
+struct TYPE_11__ | pClassData long 
+struct TYPE_7__ | ASC int 
+struct TYPE_8__ | Skey int | w struct TYPE_7__ 
+function SCSI_SenseCode void | pdev struct TYPE_11__ * | lun int | sKey int | ASC int

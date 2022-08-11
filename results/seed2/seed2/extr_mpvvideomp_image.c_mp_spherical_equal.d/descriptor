@@ -1,0 +1,2 @@
+struct mp_spherical_params | ref_angles long * | type long 
+function mp_spherical_equal int | p1 const struct mp_spherical_params * | p2 const struct mp_spherical_params *

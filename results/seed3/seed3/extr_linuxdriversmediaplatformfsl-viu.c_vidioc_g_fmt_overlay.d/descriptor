@@ -1,0 +1,5 @@
+struct viu_fh | win int 
+struct TYPE_2__ | win int 
+struct v4l2_format | fmt struct TYPE_2__ 
+struct file | dummy int 
+function vidioc_g_fmt_overlay int | file struct file * | priv void * | f struct v4l2_format *

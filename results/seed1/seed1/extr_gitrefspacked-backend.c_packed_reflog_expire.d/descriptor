@@ -1,0 +1,3 @@
+struct ref_store | dummy int 
+struct object_id | dummy int 
+function packed_reflog_expire int | ref_store struct ref_store * | refname const char * | oid const struct object_id * | flags unsigned int | prepare_fn int | should_prune_fn int | cleanup_fn int | policy_cb_data void *

@@ -1,2 +1,0 @@
-struct TYPE_3__ | flags int 
-function EVP_CIPHER_CTX_test_flags int | ctx const struct TYPE_3__ * | flags int

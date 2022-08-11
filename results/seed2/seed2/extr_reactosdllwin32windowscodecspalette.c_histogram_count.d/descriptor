@@ -1,0 +1,2 @@
+struct histogram | data long *** 
+function histogram_count unsigned int | h struct histogram * | r_min int | r_max int | g_min int | g_max int | b_min int | b_max int

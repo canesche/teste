@@ -1,0 +1,2 @@
+struct sis190_private | cur_rx long | cur_tx long | dirty_rx long | dirty_tx long 
+function sis190_init_ring_indexes void | tp struct sis190_private *

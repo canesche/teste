@@ -1,2 +1,0 @@
-struct ctlr_info | dummy int 
-function figure_external_status int | h struct ctlr_info * | raid_ctlr_position int | i int | nphysicals int | nlocal_logicals int

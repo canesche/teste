@@ -1,0 +1,3 @@
+struct SmackMatches | m_ids unsigned long * 
+struct SMACK | m_match struct SmackMatches * 
+function smack_next_match unsigned long | smack struct SMACK * | current_state unsigned int *

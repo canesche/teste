@@ -1,0 +1,2 @@
+struct se_cmd | prot_op int 
+function qla_tgt_ref_mask_check int | se_cmd struct se_cmd *

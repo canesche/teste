@@ -1,0 +1,3 @@
+struct TYPE_5__ | nlevels unsigned long | levels struct TYPE_4__ * 
+struct TYPE_4__ | group_offset unsigned long 
+function bitmap_info_ngroups unsigned long | binfo const struct TYPE_5__ *

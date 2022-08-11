@@ -1,2 +1,0 @@
-struct netlink_callback | dummy int 
-function seg6_genl_dumphmac_done int | cb struct netlink_callback *

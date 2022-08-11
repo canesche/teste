@@ -1,0 +1,2 @@
+struct brcm_rateset | count unsigned long | rates int * 
+function brcms_set_basic_rate void | rs struct brcm_rateset * | rate int | is_br int

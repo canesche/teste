@@ -1,5 +1,0 @@
-struct tx_mgmt_hdr | cookie long 
-struct tx_frame_hdr | cookie long 
-struct sk_buff | data long 
-struct ath9k_htc_priv | mgmt_ep long | data_bk_ep long | data_be_ep long | data_vi_ep long | data_vo_ep long | cab_ep long 
-function check_cookie int | priv struct ath9k_htc_priv * | skb struct sk_buff * | cookie long | epid long

@@ -1,2 +1,0 @@
-struct spk_synth | dummy int 
-function get_index unsigned char | synth struct spk_synth *

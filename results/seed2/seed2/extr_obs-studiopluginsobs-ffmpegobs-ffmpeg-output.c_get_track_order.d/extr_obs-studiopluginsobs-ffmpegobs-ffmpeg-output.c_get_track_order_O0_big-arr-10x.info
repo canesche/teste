@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 6,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 178,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_obs-studiopluginsobs-ffmpegobs-ffmpeg-output.c_get_track_order.d/extr_obs-studiopluginsobs-ffmpegobs-ffmpeg-output.c_get_track_order_O0::get_track_order(60)"
+  }
+]

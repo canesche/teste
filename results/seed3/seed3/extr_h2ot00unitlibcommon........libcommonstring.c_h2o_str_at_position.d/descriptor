@@ -1,0 +1,1 @@
+function h2o_str_at_position int | buf char * | src const char * | src_len unsigned long | lineno int | column int

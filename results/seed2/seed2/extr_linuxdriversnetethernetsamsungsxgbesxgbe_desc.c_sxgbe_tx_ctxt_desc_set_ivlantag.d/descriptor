@@ -1,0 +1,2 @@
+struct sxgbe_tx_ctxt_desc | ivlan_tag_valid int | ivlan_tag int | ivlan_tag_ctl int 
+function sxgbe_tx_ctxt_desc_set_ivlantag void | p struct sxgbe_tx_ctxt_desc * | is_ivlanvalid int | ivlan_tag int | ivlan_ctl int

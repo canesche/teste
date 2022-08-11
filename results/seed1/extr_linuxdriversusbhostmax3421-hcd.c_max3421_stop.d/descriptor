@@ -1,2 +1,0 @@
-struct usb_hcd | dummy int 
-function max3421_stop void | hcd struct usb_hcd *

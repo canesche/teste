@@ -1,2 +1,0 @@
-struct intel_pt_pkt | type int 
-function intel_pt_get_exstop_ip int | packet struct intel_pt_pkt *

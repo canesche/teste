@@ -1,2 +1,0 @@
-struct device | dummy int 
-function pmsg_devnode char * | dev struct device * | mode int *

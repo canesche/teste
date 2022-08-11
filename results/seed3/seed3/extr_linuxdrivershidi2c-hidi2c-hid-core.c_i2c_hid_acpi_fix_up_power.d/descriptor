@@ -1,0 +1,2 @@
+struct device | dummy int 
+function i2c_hid_acpi_fix_up_power void | dev struct device *

@@ -1,0 +1,3 @@
+struct usb_hcd | hcd_priv long 
+struct fotg210_hcd | dummy int 
+function hcd_to_fotg210 struct fotg210_hcd * | hcd struct usb_hcd *

@@ -1,0 +1,7 @@
+struct ddb_regmap | dummy int 
+struct ddb_io | port struct TYPE_6__ * 
+struct ddb_info | regmap const struct ddb_regmap * 
+struct TYPE_6__ | lnr unsigned long | dev struct TYPE_5__ * 
+struct TYPE_5__ | link struct TYPE_4__ * 
+struct TYPE_4__ | info struct ddb_info * 
+function io_regmap const struct ddb_regmap * | io struct ddb_io * | link int

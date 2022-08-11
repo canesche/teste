@@ -1,0 +1,3 @@
+struct net | dummy int 
+struct TCP_Server_Info | dummy int 
+function cifs_net_ns struct net * | srv struct TCP_Server_Info *

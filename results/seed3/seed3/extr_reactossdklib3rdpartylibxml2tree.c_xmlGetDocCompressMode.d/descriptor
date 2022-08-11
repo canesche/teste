@@ -1,0 +1,2 @@
+struct TYPE_3__ | compression int 
+function xmlGetDocCompressMode int | doc const struct TYPE_3__ *

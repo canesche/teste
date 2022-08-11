@@ -1,0 +1,2 @@
+struct dmcu | cached_wait_loop_number unsigned int 
+function dce_get_psr_wait_loop void | dmcu struct dmcu * | psr_wait_loop_number unsigned int *

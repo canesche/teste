@@ -1,2 +1,0 @@
-struct xfs_dir2_sf_entry | name long * | namelen unsigned long 
-function xfs_dir3_sfe_get_ftype long | sfep struct xfs_dir2_sf_entry *

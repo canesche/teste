@@ -1,0 +1,2 @@
+struct TYPE_3__ | mbidx int | mv int * | col_mv int * 
+function store_mvs void | h struct TYPE_3__ *

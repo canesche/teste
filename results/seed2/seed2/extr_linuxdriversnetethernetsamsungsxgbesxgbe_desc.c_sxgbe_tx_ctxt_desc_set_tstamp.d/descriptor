@@ -1,0 +1,2 @@
+struct sxgbe_tx_ctxt_desc | tstamp_hi void * | tstamp_lo void * | ostc long 
+function sxgbe_tx_ctxt_desc_set_tstamp void | p struct sxgbe_tx_ctxt_desc * | ostc_enable long | tstamp int

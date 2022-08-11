@@ -1,2 +1,0 @@
-struct device | dummy int 
-function tas6424_is_writable_reg int | dev struct device * | reg unsigned int

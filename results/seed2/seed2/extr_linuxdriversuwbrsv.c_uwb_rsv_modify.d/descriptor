@@ -1,0 +1,2 @@
+struct uwb_rsv | dummy int 
+function uwb_rsv_modify int | rsv struct uwb_rsv * | max_mas int | min_mas int | max_interval int

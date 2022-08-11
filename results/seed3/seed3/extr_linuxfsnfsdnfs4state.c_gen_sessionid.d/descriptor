@@ -1,0 +1,5 @@
+struct nfsd4_sessionid | reserved long | sequence long | clientid int 
+struct TYPE_2__ | data long 
+struct nfsd4_session | se_sessionid struct TYPE_2__ | se_client struct nfs4_client * 
+struct nfs4_client | cl_clientid int 
+function gen_sessionid void | ses struct nfsd4_session *

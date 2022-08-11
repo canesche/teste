@@ -1,0 +1,5 @@
+struct led_flash_setting | min int | max int | step int | val int 
+struct led_classdev_flash | timeout struct led_flash_setting 
+struct aat1290_led_config_data | max_flash_tm int 
+struct aat1290_led | fled_cdev struct led_classdev_flash 
+function aat1290_init_flash_timeout void | led struct aat1290_led * | cfg struct aat1290_led_config_data *

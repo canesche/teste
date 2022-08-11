@@ -1,0 +1,3 @@
+struct i2c_adapter | dummy int 
+struct dvb_frontend | dummy int 
+function drx39xxj_attach struct dvb_frontend * | i2c struct i2c_adapter *

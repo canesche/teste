@@ -1,0 +1,3 @@
+struct TYPE_6__ | DMATDLAR int 
+struct TYPE_5__ | Buffer1Addr int | Buffer2NextDescAddr int | Status int 
+function ETH_DMATxDescChainInit void | DMATxDescTab struct TYPE_5__ * | TxBuff int * | TxBuffCount int

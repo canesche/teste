@@ -1,0 +1,3 @@
+struct venc_vpu_ipi_msg_enc | is_key_frm int | bs_size int | state int 
+struct venc_vpu_inst | is_key_frm int | bs_size int | state int 
+function handle_enc_encode_msg void | vpu struct venc_vpu_inst * | data void *

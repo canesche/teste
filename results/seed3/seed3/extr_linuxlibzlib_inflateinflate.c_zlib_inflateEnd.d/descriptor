@@ -1,0 +1,2 @@
+struct TYPE_3__ | state int * 
+function zlib_inflateEnd int | strm struct TYPE_3__ *

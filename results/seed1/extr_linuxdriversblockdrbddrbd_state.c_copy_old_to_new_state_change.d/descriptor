@@ -1,6 +1,0 @@
-struct drbd_state_change | n_connections unsigned int | n_devices unsigned int | peer_devices struct drbd_peer_device_state_change * | devices struct drbd_device_state_change * | connections struct drbd_connection_state_change * | resource struct drbd_resource_state_change * 
-struct drbd_resource_state_change | susp_fen int * | susp_nod int * | susp int * | role int * 
-struct drbd_peer_device_state_change | resync_susp_dependency int * | resync_susp_peer int * | resync_susp_user int * | repl_state int * | disk_state int * 
-struct drbd_device_state_change | disk_state int * 
-struct drbd_connection_state_change | cstate int * | peer_role int * 
-function copy_old_to_new_state_change void | state_change struct drbd_state_change *

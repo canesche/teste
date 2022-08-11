@@ -1,2 +1,0 @@
-struct mt9v022_datafmt | code long 
-function mt9v022_find_datafmt const struct mt9v022_datafmt * | code long | fmt const struct mt9v022_datafmt * | n int

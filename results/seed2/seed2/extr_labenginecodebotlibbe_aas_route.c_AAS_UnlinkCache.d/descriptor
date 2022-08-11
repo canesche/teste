@@ -1,0 +1,5 @@
+struct TYPE_8__ | time_prev struct TYPE_6__ * | time_next struct TYPE_7__ * 
+struct TYPE_9__ | oldestcache struct TYPE_7__ * | newestcache struct TYPE_6__ * 
+struct TYPE_7__ | time_prev struct TYPE_6__ * 
+struct TYPE_6__ | time_next struct TYPE_7__ * 
+function AAS_UnlinkCache void | cache struct TYPE_8__ *

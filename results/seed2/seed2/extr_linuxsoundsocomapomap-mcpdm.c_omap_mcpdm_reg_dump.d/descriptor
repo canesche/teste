@@ -1,0 +1,2 @@
+struct omap_mcpdm | dummy int 
+function omap_mcpdm_reg_dump void | mcpdm struct omap_mcpdm *

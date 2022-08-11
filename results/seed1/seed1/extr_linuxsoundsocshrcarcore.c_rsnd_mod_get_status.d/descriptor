@@ -1,0 +1,3 @@
+struct rsnd_mod | status int 
+struct rsnd_dai_stream | dummy int 
+function rsnd_mod_get_status int * | io struct rsnd_dai_stream * | mod struct rsnd_mod * | type enum rsnd_mod_type

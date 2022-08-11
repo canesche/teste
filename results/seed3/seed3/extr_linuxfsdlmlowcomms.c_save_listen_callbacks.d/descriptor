@@ -1,0 +1,4 @@
+struct socket | sk struct sock * 
+struct sock | sk_error_report int | sk_write_space int | sk_state_change int | sk_data_ready int 
+struct TYPE_2__ | sk_error_report int | sk_write_space int | sk_state_change int | sk_data_ready int 
+function save_listen_callbacks void | sock struct socket *

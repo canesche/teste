@@ -1,0 +1,6 @@
+struct TYPE_4__ | bdHTInfoLen long | bdHTInfoBuf int 
+struct ieee80211_network | bssht struct TYPE_4__ 
+struct ieee80211_device | pHTInfo struct TYPE_5__ * 
+struct TYPE_6__ | OptMode int 
+struct TYPE_5__ | CurrentOpMode int | bCurrentHTSupport long 
+function HTUpdateSelfAndPeerSetting void | ieee struct ieee80211_device * | pNetwork struct ieee80211_network *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 14,
+    phantoms: 8,
+    exit: true,
+    halt: false,
+    edges: 28,
+    static: {
+      instructions: 63,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 63,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_reactosdllwin32mmdrvmidi.c_GetMidiLength.d/extr_reactosdllwin32mmdrvmidi.c_GetMidiLength_O0::GetMidiLength(64)"
+  }
+]

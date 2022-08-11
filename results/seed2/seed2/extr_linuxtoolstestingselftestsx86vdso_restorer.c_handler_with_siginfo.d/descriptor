@@ -1,0 +1,1 @@
+function handler_with_siginfo void | sig int | info int * | ctx_void void *

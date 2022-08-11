@@ -1,0 +1,2 @@
+struct TYPE_3__ | vidWidth int | buffWidth int | vidHeight int | buffHeight int 
+function SwapVidAndBuff void | config struct TYPE_3__ *

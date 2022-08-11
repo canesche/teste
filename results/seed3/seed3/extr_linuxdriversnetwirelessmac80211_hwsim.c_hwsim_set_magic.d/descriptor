@@ -1,0 +1,3 @@
+struct ieee80211_vif | drv_priv long 
+struct hwsim_vif_priv | magic int 
+function hwsim_set_magic void | vif struct ieee80211_vif *

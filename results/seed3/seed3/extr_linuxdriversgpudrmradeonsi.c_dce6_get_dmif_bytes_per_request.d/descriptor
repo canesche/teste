@@ -1,0 +1,2 @@
+struct dce6_wm_params | dummy int 
+function dce6_get_dmif_bytes_per_request int | wm struct dce6_wm_params *

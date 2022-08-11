@@ -1,3 +1,0 @@
-struct ib_port_modify | dummy int 
-struct ib_device | dummy int 
-function hns_roce_modify_port int | ib_dev struct ib_device * | port_num int | mask int | props struct ib_port_modify *

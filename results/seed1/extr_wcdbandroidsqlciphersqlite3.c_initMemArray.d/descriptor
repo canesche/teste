@@ -1,2 +1,0 @@
-struct TYPE_3__ | szMalloc long | flags int | db int * 
-function initMemArray void | p struct TYPE_3__ * | N int | db int * | flags int

@@ -1,2 +1,0 @@
-struct TYPE_3__ | expect int 
-function OSSL_STORE_LOADER_set_expect int | loader struct TYPE_3__ * | expect_function int

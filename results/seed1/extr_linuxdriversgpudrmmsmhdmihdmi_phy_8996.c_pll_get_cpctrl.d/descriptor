@@ -1,1 +1,0 @@
-function pll_get_cpctrl int | frac_start long | ref_clk unsigned long | gen_ssc int

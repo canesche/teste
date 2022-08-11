@@ -1,0 +1,2 @@
+struct pci_dev | no_msi int 
+function quirk_pcie_mch void | pdev struct pci_dev *

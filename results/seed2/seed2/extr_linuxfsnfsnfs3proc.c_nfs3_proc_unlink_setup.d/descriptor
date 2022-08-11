@@ -1,0 +1,4 @@
+struct rpc_message | rpc_proc int * 
+struct inode | dummy int 
+struct dentry | dummy int 
+function nfs3_proc_unlink_setup void | msg struct rpc_message * | dentry struct dentry * | inode struct inode *

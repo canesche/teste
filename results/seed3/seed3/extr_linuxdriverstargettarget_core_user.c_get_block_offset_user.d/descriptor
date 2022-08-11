@@ -1,0 +1,2 @@
+struct tcmu_dev | data_off unsigned long 
+function get_block_offset_user unsigned long | dev struct tcmu_dev * | dbi int | remaining int

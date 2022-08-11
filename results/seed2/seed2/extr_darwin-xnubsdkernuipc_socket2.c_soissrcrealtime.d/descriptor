@@ -1,0 +1,2 @@
+struct socket | so_traffic_class long 
+function soissrcrealtime int | so struct socket *

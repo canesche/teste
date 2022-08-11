@@ -1,1 +1,0 @@
-function hpi6000_send_data_check_adr short | address int | length_in_dwords int

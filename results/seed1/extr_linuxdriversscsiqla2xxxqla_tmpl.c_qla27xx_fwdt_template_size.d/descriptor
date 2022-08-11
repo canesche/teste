@@ -1,2 +1,0 @@
-struct qla27xx_fwdt_template | template_size int 
-function qla27xx_fwdt_template_size int | p void *

@@ -1,0 +1,4 @@
+struct dvb_frontend_tune_settings | min_delay_ms int | max_drift int | step_size int 
+struct dtv_frontend_properties | delivery_system long 
+struct dvb_frontend | dtv_property_cache struct dtv_frontend_properties 
+function mn88443x_get_tune_settings int | fe struct dvb_frontend * | s struct dvb_frontend_tune_settings *

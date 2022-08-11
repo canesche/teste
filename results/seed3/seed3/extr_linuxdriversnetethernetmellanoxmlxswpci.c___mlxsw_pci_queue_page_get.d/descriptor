@@ -1,0 +1,3 @@
+struct TYPE_2__ | mapaddr long 
+struct mlxsw_pci_queue | mem_item struct TYPE_2__ 
+function __mlxsw_pci_queue_page_get long | q struct mlxsw_pci_queue * | page_index int

@@ -1,0 +1,4 @@
+struct msm_ringbuffer | seqno long | memptrs struct TYPE_2__ * 
+struct msm_gpu | nr_rings int | rb struct msm_ringbuffer ** 
+struct TYPE_2__ | fence long 
+function msm_gpu_active int | gpu struct msm_gpu *

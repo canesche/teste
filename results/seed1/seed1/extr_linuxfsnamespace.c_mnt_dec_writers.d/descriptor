@@ -1,0 +1,2 @@
+struct mount | mnt_writers int 
+function mnt_dec_writers void | mnt struct mount *

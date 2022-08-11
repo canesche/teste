@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 21,
+    static: {
+      instructions: 46,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 46,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxsoundsoccodecstscs42xx.c_sample_rate_to_pll_freq_out.d/extr_linuxsoundsoccodecstscs42xx.c_sample_rate_to_pll_freq_out_O0::sample_rate_to_pll_freq_out(61)"
+  }
+]

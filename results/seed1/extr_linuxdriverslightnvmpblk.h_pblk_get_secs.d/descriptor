@@ -1,3 +1,0 @@
-struct TYPE_2__ | bi_size unsigned int 
-struct bio | bi_iter struct TYPE_2__ 
-function pblk_get_secs unsigned int | bio struct bio *

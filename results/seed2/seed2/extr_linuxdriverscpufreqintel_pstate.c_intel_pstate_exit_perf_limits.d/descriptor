@@ -1,0 +1,2 @@
+struct cpufreq_policy | dummy int 
+function intel_pstate_exit_perf_limits void | policy struct cpufreq_policy *

@@ -1,0 +1,2 @@
+struct dvb_frontend | dummy int 
+function or51132_init int | fe struct dvb_frontend *

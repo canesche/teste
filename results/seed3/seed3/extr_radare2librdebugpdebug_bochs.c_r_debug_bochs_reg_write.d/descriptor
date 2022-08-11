@@ -1,0 +1,1 @@
+function r_debug_bochs_reg_write int | dbg int * | type int | buf const int * | size int

@@ -1,0 +1,2 @@
+struct wined3d_format | id long 
+function is_stencil_view_format int | format const struct wined3d_format *

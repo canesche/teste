@@ -1,2 +1,0 @@
-struct bnx2x | dummy int 
-function bnx2x_iov_init_dmae void | bp struct bnx2x *

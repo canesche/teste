@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 100,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 689,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_FFmpeglibavcodecilbcdec.c_get_lsp_poly.d/extr_FFmpeglibavcodecilbcdec.c_get_lsp_poly_O0::get_lsp_poly(62)"
+  }
+]

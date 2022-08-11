@@ -1,0 +1,2 @@
+struct graphics_object_id | type long | id int 
+function get_basic_signal_type enum signal_type | encoder struct graphics_object_id | downstream struct graphics_object_id

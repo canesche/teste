@@ -1,0 +1,2 @@
+struct ltc3589 | dummy int 
+function ltc3589_parse_regulators_dt int | ltc3589 struct ltc3589 *

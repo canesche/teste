@@ -1,0 +1,2 @@
+struct TYPE_4__ | state int | nextSibling struct TYPE_4__ * | parent struct TYPE_4__ * | firstChild struct TYPE_4__ * 
+function TREEVIEW_GetNextListItem struct TYPE_4__ * | infoPtr const int * | tvItem const struct TYPE_4__ *

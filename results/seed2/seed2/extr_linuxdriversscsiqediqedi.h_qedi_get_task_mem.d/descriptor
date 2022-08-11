@@ -1,0 +1,2 @@
+struct qed_iscsi_tid | blocks void ** | num_tids_per_block unsigned long | size unsigned long 
+function qedi_get_task_mem void * | info struct qed_iscsi_tid * | tid unsigned long

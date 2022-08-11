@@ -1,3 +1,0 @@
-struct inode | dummy int 
-struct dax_device | inode struct inode 
-function dax_inode struct inode * | dax_dev struct dax_device *

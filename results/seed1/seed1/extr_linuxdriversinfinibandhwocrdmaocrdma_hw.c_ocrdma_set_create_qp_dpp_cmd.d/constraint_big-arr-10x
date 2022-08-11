@@ -1,0 +1,1 @@
+value(enable_dpp_cq) == 10, value(dpp_cq_id) == 10, length(cmd) == 100, length(pd) == 100, length(qp) == 100

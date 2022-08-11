@@ -1,2 +1,0 @@
-struct scsi_device | inquiry_len int 
-function slave_alloc int | sdev struct scsi_device *

@@ -1,0 +1,2 @@
+struct dasd_ccw_req | retries long | status int 
+function dasd_fba_handle_terminated_request void | cqr struct dasd_ccw_req *

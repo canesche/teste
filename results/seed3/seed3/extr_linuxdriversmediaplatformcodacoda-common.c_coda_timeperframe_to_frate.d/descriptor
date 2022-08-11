@@ -1,0 +1,2 @@
+struct v4l2_fract | numerator int | denominator int 
+function coda_timeperframe_to_frate int | timeperframe struct v4l2_fract *

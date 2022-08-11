@@ -1,0 +1,2 @@
+struct query_stat | max_time double | sum_time double | t int 
+function update_query_stat void | S struct query_stat * | query_time double

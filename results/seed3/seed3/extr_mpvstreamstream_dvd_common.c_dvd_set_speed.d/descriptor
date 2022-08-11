@@ -1,0 +1,1 @@
+function dvd_set_speed void | stream int * | device char * | speed unsigned int

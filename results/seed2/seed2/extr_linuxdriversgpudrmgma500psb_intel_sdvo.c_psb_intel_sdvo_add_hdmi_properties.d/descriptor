@@ -1,0 +1,2 @@
+struct psb_intel_sdvo_connector | dummy int 
+function psb_intel_sdvo_add_hdmi_properties void | connector struct psb_intel_sdvo_connector *

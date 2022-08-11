@@ -1,0 +1,2 @@
+struct usb_serial_port | sysrq long 
+function usb_serial_handle_break int | port struct usb_serial_port *

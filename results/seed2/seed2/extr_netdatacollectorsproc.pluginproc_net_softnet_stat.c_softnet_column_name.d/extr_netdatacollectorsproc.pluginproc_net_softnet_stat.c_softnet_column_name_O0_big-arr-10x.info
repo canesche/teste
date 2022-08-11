@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_netdatacollectorsproc.pluginproc_net_softnet_stat.c_softnet_column_name.d/extr_netdatacollectorsproc.pluginproc_net_softnet_stat.c_softnet_column_name_O0::softnet_column_name(59)"
+  }
+]

@@ -1,1 +1,0 @@
-function ia64_mca_wakeup_int_handler int | wakeup_irq int | arg void *

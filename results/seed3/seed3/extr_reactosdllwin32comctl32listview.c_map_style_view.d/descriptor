@@ -1,0 +1,2 @@
+struct TYPE_3__ | dwStyle int | uView int 
+function map_style_view void | infoPtr struct TYPE_3__ *

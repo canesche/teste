@@ -1,0 +1,2 @@
+struct Qdisc | dummy int 
+function fq_codel_leaf struct Qdisc * | sch struct Qdisc * | arg unsigned long

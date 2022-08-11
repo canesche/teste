@@ -1,0 +1,3 @@
+struct page | s_mem void * 
+struct kmem_cache | size unsigned int 
+function index_to_obj void * | cache struct kmem_cache * | page struct page * | idx unsigned int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | size int | used int 
+function Z_AvailableZoneMemory int | zone struct TYPE_3__ *

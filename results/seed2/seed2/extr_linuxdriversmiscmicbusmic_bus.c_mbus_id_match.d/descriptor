@@ -1,0 +1,4 @@
+struct mbus_device_id | device long | vendor long 
+struct TYPE_2__ | device long | vendor long 
+struct mbus_device | id struct TYPE_2__ 
+function mbus_id_match int | dev const struct mbus_device * | id const struct mbus_device_id *

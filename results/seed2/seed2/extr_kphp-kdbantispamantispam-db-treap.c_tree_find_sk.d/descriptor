@@ -1,0 +1,2 @@
+struct TYPE_3__ | x int | data int * | right struct TYPE_3__ * | left struct TYPE_3__ * 
+function tree_find_sk int * | V struct TYPE_3__ * | x int

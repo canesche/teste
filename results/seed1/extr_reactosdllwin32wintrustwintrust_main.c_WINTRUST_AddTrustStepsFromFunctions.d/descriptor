@@ -1,3 +1,0 @@
-struct wintrust_step | error_index int | func long 
-struct TYPE_3__ | pfnFinalPolicy long | pfnCertificateTrust long | pfnSignatureTrust long | pfnObjectTrust long | pfnInitialize long 
-function WINTRUST_AddTrustStepsFromFunctions unsigned long | steps struct wintrust_step * | psPfns const struct TYPE_3__ *

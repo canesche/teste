@@ -1,0 +1,4 @@
+struct TYPE_4__ | admin_dcbx_version int | admin_ets_willing int | admin_pfc_willing int | overwrite_settings int | admin_ets_enable int | admin_pfc_enable int | admin_tc_supported_tx_enable int | admin_ets_configuration_tx_enable int | admin_pfc_tx_enable int | admin_application_priority_tx_enable int | admin_ets_reco_valid int | admin_app_priority_willing int | admin_configuration_bw_precentage int * | admin_recommendation_bw_precentage int * | admin_recommendation_ets_pg int * | admin_pfc_bitmap int | admin_default_priority long | admin_priority_app_table struct TYPE_3__ * | admin_configuration_ets_pg long * 
+struct bnx2x | dcbx_config_params struct TYPE_4__ 
+struct TYPE_3__ | valid long 
+function bnx2x_dcbx_init_params void | bp struct bnx2x *

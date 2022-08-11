@@ -1,0 +1,2 @@
+struct vc_data | dummy int 
+function sticon_switch int | conp struct vc_data *

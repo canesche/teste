@@ -1,0 +1,1 @@
+function drm_get_connector_force_name const char * | force enum drm_connector_force

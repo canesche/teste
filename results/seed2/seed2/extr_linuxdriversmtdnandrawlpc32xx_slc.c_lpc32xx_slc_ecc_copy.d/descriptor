@@ -1,0 +1,1 @@
+function lpc32xx_slc_ecc_copy void | spare long * | ecc const int * | count int

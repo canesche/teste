@@ -1,0 +1,4 @@
+struct TYPE_3__ | cookie long 
+struct TYPE_4__ | ike struct TYPE_3__ 
+struct pf_app_state | u struct TYPE_4__ 
+function pf_ike_compare int | a struct pf_app_state * | b struct pf_app_state *

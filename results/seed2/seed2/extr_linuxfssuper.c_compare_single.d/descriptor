@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function compare_single int | s struct super_block * | p void *

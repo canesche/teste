@@ -1,0 +1,3 @@
+struct list_lru_one | dummy int 
+struct list_lru_node | lru struct list_lru_one 
+function list_lru_from_memcg_idx struct list_lru_one * | nlru struct list_lru_node * | idx int

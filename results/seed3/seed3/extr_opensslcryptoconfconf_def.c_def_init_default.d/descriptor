@@ -1,0 +1,2 @@
+struct TYPE_3__ | data int * | meth_data void * | meth int * 
+function def_init_default int | conf struct TYPE_3__ *

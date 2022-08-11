@@ -1,0 +1,2 @@
+struct pkt_file | buf_start long | cur_addr long | buf_len long 
+function remainder_len int | pfile struct pkt_file *

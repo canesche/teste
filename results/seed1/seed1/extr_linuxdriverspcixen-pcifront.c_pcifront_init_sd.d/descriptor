@@ -1,0 +1,4 @@
+struct TYPE_2__ | domain unsigned int | node int 
+struct pcifront_sd | pdev struct pcifront_device * | sd struct TYPE_2__ 
+struct pcifront_device | dummy int 
+function pcifront_init_sd void | sd struct pcifront_sd * | domain unsigned int | bus unsigned int | pdev struct pcifront_device *

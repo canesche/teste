@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 57,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 113,
+    static: {
+      instructions: 234,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 234,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriverss390cryptozcrypt_msgtype6.c_speed_idx_cca.d/extr_linuxdriverss390cryptozcrypt_msgtype6.c_speed_idx_cca_O0::speed_idx_cca(63)"
+  }
+]

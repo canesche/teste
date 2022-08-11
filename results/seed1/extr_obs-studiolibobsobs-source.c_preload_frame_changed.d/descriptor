@@ -1,4 +1,0 @@
-struct obs_source_frame | width long | height long | format long 
-struct TYPE_5__ | async_preload_frame struct TYPE_4__ * 
-struct TYPE_4__ | width long | height long | format long 
-function preload_frame_changed int | source struct TYPE_5__ * | in const struct obs_source_frame *

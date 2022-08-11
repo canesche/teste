@@ -1,0 +1,1 @@
+function add_deltas void | deltas int * | ref const int * | stride int

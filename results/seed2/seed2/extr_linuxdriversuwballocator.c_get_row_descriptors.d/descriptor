@@ -1,0 +1,3 @@
+struct uwb_rsv_row_info | free_rows int | avail int * 
+struct uwb_rsv_alloc_info | bm unsigned char * | ri struct uwb_rsv_row_info 
+function get_row_descriptors void | ai struct uwb_rsv_alloc_info *

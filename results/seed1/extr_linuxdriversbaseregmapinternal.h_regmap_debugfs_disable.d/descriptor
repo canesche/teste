@@ -1,2 +1,0 @@
-struct regmap | dummy int 
-function regmap_debugfs_disable void | map struct regmap *

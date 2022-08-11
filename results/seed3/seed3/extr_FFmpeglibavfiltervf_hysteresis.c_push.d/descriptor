@@ -1,0 +1,2 @@
+struct TYPE_3__ | map int * | xy int * | index unsigned long 
+function push void | s struct TYPE_3__ * | x int | y int | w int

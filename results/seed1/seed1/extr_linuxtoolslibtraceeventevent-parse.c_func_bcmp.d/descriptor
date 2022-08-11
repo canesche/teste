@@ -1,0 +1,2 @@
+struct func_map | addr long 
+function func_bcmp int | a const void * | b const void *

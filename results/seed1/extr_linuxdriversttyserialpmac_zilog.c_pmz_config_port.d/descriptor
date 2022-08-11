@@ -1,2 +1,0 @@
-struct uart_port | dummy int 
-function pmz_config_port void | port struct uart_port * | flags int

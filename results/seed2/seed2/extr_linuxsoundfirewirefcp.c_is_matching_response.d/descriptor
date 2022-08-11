@@ -1,0 +1,2 @@
+struct fcp_transaction | response_buffer long * | response_match_bytes unsigned int 
+function is_matching_response int | transaction struct fcp_transaction * | response const void * | length unsigned long

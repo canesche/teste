@@ -1,0 +1,3 @@
+struct TYPE_6__ | think int | nextthink int | activator struct TYPE_6__ * | client long 
+struct TYPE_7__ | time int 
+function Use_LuaMover void | ent struct TYPE_6__ * | other struct TYPE_6__ * | activator struct TYPE_6__ *

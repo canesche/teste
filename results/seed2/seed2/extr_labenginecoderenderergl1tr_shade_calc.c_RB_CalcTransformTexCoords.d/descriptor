@@ -1,0 +1,3 @@
+struct TYPE_4__ | matrix float ** | translate float * 
+struct TYPE_5__ | numVertexes int 
+function RB_CalcTransformTexCoords void | tmi const struct TYPE_4__ * | st float *

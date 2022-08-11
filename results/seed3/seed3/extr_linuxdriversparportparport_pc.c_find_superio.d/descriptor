@@ -1,0 +1,3 @@
+struct superio_struct | io long 
+struct parport | base long 
+function find_superio struct superio_struct * | p struct parport *

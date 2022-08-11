@@ -1,4 +1,0 @@
-struct tc_configuration | path struct TYPE_2__ * 
-struct ixgbe_dcb_config | tc_config struct tc_configuration * 
-struct TYPE_2__ | bwg_id int 
-function ixgbe_dcb_unpack_bwgid void | cfg struct ixgbe_dcb_config * | direction int | bwgid int *

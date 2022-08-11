@@ -1,2 +1,0 @@
-struct ina2xx_chip_info | shunt_resistor_uohm unsigned int 
-function set_shunt_resistor int | chip struct ina2xx_chip_info * | val unsigned int

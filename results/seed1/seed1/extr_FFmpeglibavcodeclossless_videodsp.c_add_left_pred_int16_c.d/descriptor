@@ -1,0 +1,1 @@
+function add_left_pred_int16_c int | dst int * | src const int * | mask unsigned int | w int | acc unsigned int

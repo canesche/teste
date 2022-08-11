@@ -1,0 +1,4 @@
+struct mlx5_lag | dummy int 
+struct TYPE_2__ | lag struct mlx5_lag * 
+struct mlx5_core_dev | priv struct TYPE_2__ 
+function mlx5_lag_dev_get struct mlx5_lag * | dev struct mlx5_core_dev *

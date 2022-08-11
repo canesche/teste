@@ -1,2 +1,0 @@
-struct crop_filter_data | width int 
-function crop_filter_width int | data void *

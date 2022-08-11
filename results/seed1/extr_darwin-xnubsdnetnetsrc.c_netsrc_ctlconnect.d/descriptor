@@ -1,2 +1,0 @@
-struct sockaddr_ctl | dummy int 
-function netsrc_ctlconnect int | kctl int | sac struct sockaddr_ctl * | uinfo void **

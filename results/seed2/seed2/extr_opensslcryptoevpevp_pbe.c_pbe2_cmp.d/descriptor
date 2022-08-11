@@ -1,0 +1,2 @@
+struct TYPE_4__ | pbe_type int | pbe_nid int 
+function pbe2_cmp int | pbe1 const struct TYPE_4__ * | pbe2 const struct TYPE_4__ *

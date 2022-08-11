@@ -1,0 +1,3 @@
+struct resource_pool | clk_src_count int | clock_sources struct clock_source ** 
+struct clock_source | dummy int 
+function find_matching_clock_source int | pool const struct resource_pool * | clock_source struct clock_source *

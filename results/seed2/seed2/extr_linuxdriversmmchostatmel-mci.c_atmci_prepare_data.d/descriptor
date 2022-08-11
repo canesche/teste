@@ -1,0 +1,3 @@
+struct mmc_data | blocks int | blksz int | flags int | sg_len int | sg int | error int 
+struct atmel_mci | need_reset int | pio_offset long | data_chan int * | data struct mmc_data * | sg_len int | sg int 
+function atmci_prepare_data int | host struct atmel_mci * | data struct mmc_data *

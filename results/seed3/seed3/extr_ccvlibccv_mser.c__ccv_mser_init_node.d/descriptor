@@ -1,0 +1,3 @@
+struct TYPE_4__ | x int | y int 
+struct TYPE_5__ | root int | point struct TYPE_4__ | shortcut struct TYPE_5__ * | next struct TYPE_5__ * | prev struct TYPE_5__ * 
+function _ccv_mser_init_node void | node struct TYPE_5__ * | x int | y int

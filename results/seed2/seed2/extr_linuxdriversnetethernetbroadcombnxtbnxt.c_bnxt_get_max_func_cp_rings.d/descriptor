@@ -1,0 +1,3 @@
+struct TYPE_2__ | max_cp_rings unsigned int 
+struct bnxt | hw_resc struct TYPE_2__ 
+function bnxt_get_max_func_cp_rings unsigned int | bp struct bnxt *

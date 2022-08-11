@@ -1,3 +1,0 @@
-struct RTPMessage | dummy int 
-struct JitterBuffer | top unsigned int | bottom unsigned int | size unsigned int | capacity long | queue struct RTPMessage ** 
-function jbuf_read struct RTPMessage * | q struct JitterBuffer * | success int *

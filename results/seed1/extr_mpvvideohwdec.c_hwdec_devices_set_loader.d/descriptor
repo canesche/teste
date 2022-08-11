@@ -1,2 +1,0 @@
-struct mp_hwdec_devices | load_api void (*)(void *) | load_api_ctx void * 
-function hwdec_devices_set_loader void | devs struct mp_hwdec_devices * | load_api void (*)(void *) | load_api_ctx void *

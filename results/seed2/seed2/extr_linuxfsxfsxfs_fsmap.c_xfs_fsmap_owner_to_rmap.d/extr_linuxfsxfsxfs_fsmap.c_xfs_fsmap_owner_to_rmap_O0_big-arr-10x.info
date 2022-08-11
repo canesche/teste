@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxfsxfsxfs_fsmap.c_xfs_fsmap_owner_to_rmap.d/extr_linuxfsxfsxfs_fsmap.c_xfs_fsmap_owner_to_rmap_O0::xfs_fsmap_owner_to_rmap(86)"
+  }
+]

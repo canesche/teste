@@ -1,0 +1,2 @@
+struct TYPE_3__ | dma_low long | dma_ptr long 
+function via_get_dma int * | dev_priv struct TYPE_3__ *

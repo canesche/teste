@@ -1,0 +1,2 @@
+struct TYPE_3__ | read_ahead long | read_pos long 
+function mf_position long | mf const struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct hfi1_opcode_stats | dummy int 
+function inc_opstats void | tlen int | stats struct hfi1_opcode_stats *

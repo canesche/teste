@@ -1,2 +1,0 @@
-struct TYPE_3__ | ptr char * | asize long | size long 
-function git_buf_clear void | buf struct TYPE_3__ *

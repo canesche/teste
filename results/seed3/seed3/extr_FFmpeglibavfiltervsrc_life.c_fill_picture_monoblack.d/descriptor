@@ -1,0 +1,4 @@
+struct TYPE_8__ | priv struct TYPE_6__ * 
+struct TYPE_7__ | linesize int * | data long ** 
+struct TYPE_6__ | buf_idx unsigned long | h int | w int | buf long ** 
+function fill_picture_monoblack void | ctx struct TYPE_8__ * | picref struct TYPE_7__ *

@@ -1,2 +1,0 @@
-struct cm_rep_msg | offset26 int 
-function cm_rep_set_failover void | rep_msg struct cm_rep_msg * | failover int

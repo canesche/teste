@@ -1,3 +1,0 @@
-struct rtllib_device | bTxEnableFwCalcDur int | bTxUseDriverAssingedRate long | bTxDisableRateFallBack long | pHTInfo struct rt_hi_throughput * 
-struct rt_hi_throughput | bAcceptAddbaReq int | bRegShortGI20MHz int | bRegShortGI40MHz int | bRegBW40MHz int | bRegSuppCCK int | nAMSDU_MaxSize unsigned long | bAMPDUEnable int | AMPDU_Factor int | SelfMimoPs int | bRegRT2RTAggregation int | bRegRxReorderEnable int | RxReorderWinSize int | RxReorderPendingTime int | MPDU_Density long | bAMSDU_Support long 
-function HTUpdateDefaultSetting void | ieee struct rtllib_device *

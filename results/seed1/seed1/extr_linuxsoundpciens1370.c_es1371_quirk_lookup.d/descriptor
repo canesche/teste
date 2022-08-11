@@ -1,0 +1,4 @@
+struct es1371_quirk | vid unsigned short | did long | rev long 
+struct ensoniq | rev long | pci struct TYPE_2__ * 
+struct TYPE_2__ | vendor unsigned short | device long 
+function es1371_quirk_lookup int | ensoniq struct ensoniq * | list struct es1371_quirk *

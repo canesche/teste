@@ -1,0 +1,2 @@
+struct kvm_vcpu_hv_stimer | config int 
+function stimer_get_config int | stimer struct kvm_vcpu_hv_stimer * | pconfig int *

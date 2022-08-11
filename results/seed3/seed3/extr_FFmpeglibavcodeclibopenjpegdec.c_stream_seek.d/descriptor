@@ -1,0 +1,2 @@
+struct TYPE_2__ | size long | pos int 
+function stream_seek int | nb_bytes long | user_data void *

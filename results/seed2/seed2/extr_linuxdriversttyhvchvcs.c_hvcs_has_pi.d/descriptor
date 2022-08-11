@@ -1,0 +1,2 @@
+struct hvcs_struct | p_partition_ID int | p_unit_address int 
+function hvcs_has_pi int | hvcsd struct hvcs_struct *

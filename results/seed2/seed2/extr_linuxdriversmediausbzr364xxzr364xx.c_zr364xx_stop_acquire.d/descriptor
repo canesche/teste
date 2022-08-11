@@ -1,0 +1,2 @@
+struct zr364xx_camera | b_acquire long 
+function zr364xx_stop_acquire int | cam struct zr364xx_camera *

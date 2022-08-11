@@ -1,0 +1,1 @@
+function __qcom_scm_set_cold_boot_addr int | entry void * | cpus const int *

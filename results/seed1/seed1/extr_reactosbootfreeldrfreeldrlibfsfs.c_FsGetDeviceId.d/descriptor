@@ -1,0 +1,2 @@
+struct TYPE_2__ | DeviceId unsigned long 
+function FsGetDeviceId unsigned long | FileId unsigned long

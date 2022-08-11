@@ -1,0 +1,3 @@
+struct ieee80211_sta | drv_priv long 
+struct hwsim_sta_priv | magic long 
+function hwsim_clear_sta_magic void | sta struct ieee80211_sta *

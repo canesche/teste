@@ -1,0 +1,1 @@
+function _glfwSplitBPP void | bpp int | red int * | green int * | blue int *

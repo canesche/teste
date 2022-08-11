@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_darwin-xnuosfmkconsolevideo_console.c_vc_update_color.d/extr_darwin-xnuosfmkconsolevideo_console.c_vc_update_color_O0::vc_update_color(69)"
+  }
+]

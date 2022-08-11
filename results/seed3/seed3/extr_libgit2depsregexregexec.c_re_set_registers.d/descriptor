@@ -1,0 +1,3 @@
+struct re_registers | num_regs unsigned int | end int * | start int * 
+struct re_pattern_buffer | regs_allocated int 
+function re_set_registers void | bufp struct re_pattern_buffer * | regs struct re_registers * | num_regs unsigned int | starts int * | ends int *

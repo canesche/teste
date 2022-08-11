@@ -1,0 +1,2 @@
+struct net_device | ethtool_ops int * 
+function xgene_enet_set_ethtool_ops void | ndev struct net_device *

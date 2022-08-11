@@ -1,0 +1,2 @@
+struct vfp_single | exponent int | significand int 
+function vfp_single_type int | s struct vfp_single *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | dwFileAttributes int 
+function is_file_data int | data const struct TYPE_3__ *

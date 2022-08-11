@@ -1,0 +1,2 @@
+struct kimage | entry long * 
+function kimage_terminate void | image struct kimage *

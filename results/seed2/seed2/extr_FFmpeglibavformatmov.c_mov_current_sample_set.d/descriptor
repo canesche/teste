@@ -1,0 +1,3 @@
+struct TYPE_5__ | current_sample int | current_index int | current_index_range struct TYPE_4__ * | index_ranges struct TYPE_4__ * 
+struct TYPE_4__ | end int | start int 
+function mov_current_sample_set void | sc struct TYPE_5__ * | current_sample int

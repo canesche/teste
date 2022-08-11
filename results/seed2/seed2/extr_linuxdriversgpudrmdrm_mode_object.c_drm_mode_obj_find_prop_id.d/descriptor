@@ -1,0 +1,5 @@
+struct TYPE_3__ | id long 
+struct drm_property | base struct TYPE_3__ 
+struct drm_mode_object | properties struct TYPE_4__ * 
+struct TYPE_4__ | count int | properties struct drm_property ** 
+function drm_mode_obj_find_prop_id struct drm_property * | obj struct drm_mode_object * | prop_id long

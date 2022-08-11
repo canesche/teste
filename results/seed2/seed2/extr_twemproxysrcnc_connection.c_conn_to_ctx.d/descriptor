@@ -1,0 +1,5 @@
+struct server_pool | ctx struct context * | owner struct server_pool * 
+struct server | ctx struct context * | owner struct server * 
+struct context | dummy int 
+struct conn | owner struct server_pool * | client long | proxy long 
+function conn_to_ctx struct context * | conn struct conn *

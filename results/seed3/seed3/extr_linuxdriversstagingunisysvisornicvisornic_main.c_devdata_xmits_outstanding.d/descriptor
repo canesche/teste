@@ -1,0 +1,3 @@
+struct TYPE_2__ | sent_xmit long | got_xmit_done long 
+struct visornic_devdata | chstat struct TYPE_2__ 
+function devdata_xmits_outstanding unsigned long | devdata struct visornic_devdata *

@@ -1,0 +1,4 @@
+struct TYPE_3__ | trailers_bytes_sent unsigned long | trailers_buf struct TYPE_4__ * 
+struct Curl_easy | state struct TYPE_3__ 
+struct TYPE_4__ | size_used unsigned long 
+function Curl_trailers_left unsigned long | raw void *

@@ -1,3 +1,0 @@
-struct v4l2_fmtdesc | index long | pixelformat int 
-struct file | dummy int 
-function skeleton_enum_fmt_vid_cap int | file struct file * | priv void * | f struct v4l2_fmtdesc *

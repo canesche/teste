@@ -1,0 +1,3 @@
+struct mv88e6xxx_chip | info struct TYPE_2__ * 
+struct TYPE_2__ | pvt int 
+function mv88e6xxx_has_pvt int | chip struct mv88e6xxx_chip *

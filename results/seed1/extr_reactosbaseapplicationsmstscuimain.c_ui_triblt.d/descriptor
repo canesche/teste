@@ -1,1 +1,0 @@
-function ui_triblt void | opcode int | x int | y int | cx int | cy int | src void * | srcx int | srcy int | brush int * | bgcolour int | fgcolour int

@@ -1,0 +1,2 @@
+struct ata_port | dummy int 
+function sata_dwc_dev_select void | ap struct ata_port * | device unsigned int

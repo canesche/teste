@@ -1,3 +1,0 @@
-struct TYPE_2__ | bandwidth_overhead int 
-struct cmp_connection | resources struct TYPE_2__ 
-function get_overhead_id int | c struct cmp_connection *

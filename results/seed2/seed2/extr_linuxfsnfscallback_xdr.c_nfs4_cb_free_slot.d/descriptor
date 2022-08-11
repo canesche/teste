@@ -1,0 +1,2 @@
+struct cb_process_state | dummy int 
+function nfs4_cb_free_slot void | cps struct cb_process_state *

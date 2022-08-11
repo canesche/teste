@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function intel_fbdev_initial_config_async void | dev struct drm_device *

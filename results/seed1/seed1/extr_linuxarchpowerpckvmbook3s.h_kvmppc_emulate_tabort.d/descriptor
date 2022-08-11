@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function kvmppc_emulate_tabort void | vcpu struct kvm_vcpu * | ra_val int

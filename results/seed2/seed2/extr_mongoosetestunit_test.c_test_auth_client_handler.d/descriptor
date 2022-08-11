@@ -1,0 +1,2 @@
+struct mg_connection | dummy int 
+function test_auth_client_handler void | nc struct mg_connection * | ev int | ev_data void *

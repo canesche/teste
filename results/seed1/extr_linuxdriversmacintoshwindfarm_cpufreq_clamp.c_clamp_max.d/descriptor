@@ -1,2 +1,0 @@
-struct wf_control | dummy int 
-function clamp_max int | ct struct wf_control *

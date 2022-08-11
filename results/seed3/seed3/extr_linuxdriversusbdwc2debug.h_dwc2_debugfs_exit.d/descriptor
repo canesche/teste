@@ -1,0 +1,2 @@
+struct dwc2_hsotg | dummy int 
+function dwc2_debugfs_exit void | hsotg struct dwc2_hsotg *

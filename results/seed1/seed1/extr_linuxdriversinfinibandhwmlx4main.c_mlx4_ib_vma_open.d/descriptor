@@ -1,0 +1,2 @@
+struct vm_area_struct | vm_ops int * 
+function mlx4_ib_vma_open void | area struct vm_area_struct *

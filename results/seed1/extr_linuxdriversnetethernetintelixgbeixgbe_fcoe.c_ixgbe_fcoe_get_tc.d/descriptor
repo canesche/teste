@@ -1,2 +1,0 @@
-struct ixgbe_adapter | dummy int 
-function ixgbe_fcoe_get_tc int | adapter struct ixgbe_adapter *

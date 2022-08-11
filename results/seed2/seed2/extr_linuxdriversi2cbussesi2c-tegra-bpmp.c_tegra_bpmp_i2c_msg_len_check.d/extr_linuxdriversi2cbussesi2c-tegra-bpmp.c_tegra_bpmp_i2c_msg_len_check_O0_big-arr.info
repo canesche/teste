@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6140,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversi2cbussesi2c-tegra-bpmp.c_tegra_bpmp_i2c_msg_len_check.d/extr_linuxdriversi2cbussesi2c-tegra-bpmp.c_tegra_bpmp_i2c_msg_len_check_O0::tegra_bpmp_i2c_msg_len_check(66)"
+  }
+]

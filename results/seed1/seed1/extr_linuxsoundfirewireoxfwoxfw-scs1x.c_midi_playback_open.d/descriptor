@@ -1,0 +1,2 @@
+struct snd_rawmidi_substream | dummy int 
+function midi_playback_open int | stream struct snd_rawmidi_substream *

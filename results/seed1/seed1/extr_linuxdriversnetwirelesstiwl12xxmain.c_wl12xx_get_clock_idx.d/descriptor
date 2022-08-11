@@ -1,0 +1,2 @@
+struct wl12xx_clock | freq long | xtal int | hw_idx int 
+function wl12xx_get_clock_idx int | table const struct wl12xx_clock * | freq long | xtal int

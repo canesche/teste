@@ -1,0 +1,3 @@
+struct TYPE_2__ | blocking_io long | high_precision long 
+struct shtc1_data | nonblocking_wait_time int | setup struct TYPE_2__ | command int 
+function shtc1_select_command void | data struct shtc1_data *

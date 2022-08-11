@@ -1,0 +1,3 @@
+struct ib_smp | dummy int 
+struct ib_device | dummy int 
+function subn_trap_repress int | smp struct ib_smp * | ibdev struct ib_device * | port int

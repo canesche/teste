@@ -1,0 +1,2 @@
+struct rq | dummy int 
+function cpu_of int | rq struct rq *

@@ -1,2 +1,0 @@
-struct uart_port | dummy int 
-function sunhv_set_mctrl void | port struct uart_port * | mctrl unsigned int

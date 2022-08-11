@@ -1,0 +1,3 @@
+struct amdgpu_clock_voltage_dependency_table | count long | entries struct TYPE_2__ * 
+struct TYPE_2__ | clk unsigned long 
+function btc_get_max_clock_from_voltage_dependency_table void | table struct amdgpu_clock_voltage_dependency_table * | max_clock unsigned long *

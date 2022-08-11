@@ -1,0 +1,2 @@
+struct sdhci_host | private void * 
+function sdhci_priv void * | host struct sdhci_host *

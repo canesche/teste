@@ -1,0 +1,2 @@
+struct dentry | dummy int 
+function dpu_dbg_debugfs_register int | debugfs_root struct dentry *

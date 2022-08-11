@@ -1,0 +1,3 @@
+struct input_polled_devres | polldev void * 
+struct device | dummy int 
+function devm_input_polldev_match int | dev struct device * | res void * | data void *

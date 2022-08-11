@@ -1,0 +1,1 @@
+function pthread_mutex_init int | mutex int *__restrict | attr const int *__restrict

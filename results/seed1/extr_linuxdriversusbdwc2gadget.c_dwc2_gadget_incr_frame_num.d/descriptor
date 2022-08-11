@@ -1,2 +1,0 @@
-struct dwc2_hsotg_ep | frame_overrun int | target_frame int | interval long 
-function dwc2_gadget_incr_frame_num void | hs_ep struct dwc2_hsotg_ep *

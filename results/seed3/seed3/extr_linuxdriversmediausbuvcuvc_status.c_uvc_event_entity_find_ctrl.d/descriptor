@@ -1,0 +1,4 @@
+struct uvc_entity | ncontrols unsigned int | controls struct uvc_control * 
+struct TYPE_2__ | selector long 
+struct uvc_control | info struct TYPE_2__ 
+function uvc_event_entity_find_ctrl struct uvc_control * | entity struct uvc_entity * | selector long

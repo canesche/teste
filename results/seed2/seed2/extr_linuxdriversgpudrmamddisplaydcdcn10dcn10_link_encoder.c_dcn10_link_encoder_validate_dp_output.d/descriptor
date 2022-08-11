@@ -1,0 +1,8 @@
+struct TYPE_7__ | IS_YCBCR_CAPABLE long 
+struct TYPE_8__ | bits struct TYPE_7__ 
+struct TYPE_9__ | flags struct TYPE_8__ 
+struct TYPE_10__ | features struct TYPE_9__ 
+struct dcn10_link_encoder | base struct TYPE_10__ 
+struct TYPE_6__ | Y_ONLY long 
+struct dc_crtc_timing | pixel_encoding long | display_color_depth long | flags struct TYPE_6__ 
+function dcn10_link_encoder_validate_dp_output int | enc10 const struct dcn10_link_encoder * | crtc_timing const struct dc_crtc_timing *

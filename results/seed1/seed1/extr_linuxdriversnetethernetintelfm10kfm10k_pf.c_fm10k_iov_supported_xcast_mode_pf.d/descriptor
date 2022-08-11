@@ -1,0 +1,2 @@
+struct fm10k_vf_info | vf_flags int 
+function fm10k_iov_supported_xcast_mode_pf int | vf_info struct fm10k_vf_info * | mode int

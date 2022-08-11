@@ -1,3 +1,0 @@
-struct ms_info | err_code long 
-struct rtsx_chip | ms_card struct ms_info 
-function ms_check_err_code int | chip struct rtsx_chip * | err_code long

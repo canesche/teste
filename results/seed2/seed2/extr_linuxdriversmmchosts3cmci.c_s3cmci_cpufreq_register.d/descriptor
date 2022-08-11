@@ -1,0 +1,2 @@
+struct s3cmci_host | dummy int 
+function s3cmci_cpufreq_register int | host struct s3cmci_host *

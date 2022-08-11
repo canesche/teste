@@ -1,0 +1,2 @@
+struct SiS_Private | VirtualRomBase unsigned char * | ChipType long 
+function SiSDetermineROMLayout661 int | SiS_Pr struct SiS_Private *

@@ -1,0 +1,2 @@
+struct disassemble_info | dummy int 
+function KdbpMemoryError void | Status int | Addr int | Ignored struct disassemble_info *

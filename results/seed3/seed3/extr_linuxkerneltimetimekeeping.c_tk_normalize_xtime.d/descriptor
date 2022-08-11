@@ -1,0 +1,4 @@
+struct TYPE_3__ | xtime_nsec int | shift int 
+struct TYPE_4__ | xtime_nsec int | shift int 
+struct timekeeper | raw_sec int | tkr_raw struct TYPE_3__ | xtime_sec int | tkr_mono struct TYPE_4__ 
+function tk_normalize_xtime void | tk struct timekeeper *

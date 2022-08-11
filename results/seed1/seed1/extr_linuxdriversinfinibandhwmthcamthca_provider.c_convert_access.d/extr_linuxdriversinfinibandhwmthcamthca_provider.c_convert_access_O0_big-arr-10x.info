@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversinfinibandhwmthcamthca_provider.c_convert_access.d/extr_linuxdriversinfinibandhwmthcamthca_provider.c_convert_access_O0::convert_access(70)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | count int | symbols long * 
+function rc_direct void | rc struct TYPE_3__ * | value int | bit_count int

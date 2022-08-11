@@ -1,0 +1,1 @@
+function amdgpu_vm_map_gart unsigned long | pages_addr const unsigned long * | addr unsigned long

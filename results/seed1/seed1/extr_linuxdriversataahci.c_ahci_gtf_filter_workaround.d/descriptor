@@ -1,0 +1,2 @@
+struct ata_host | dummy int 
+function ahci_gtf_filter_workaround void | host struct ata_host *

@@ -1,0 +1,2 @@
+struct edid | extensions int 
+function drm_find_edid_extension int * | edid const struct edid * | ext_id int

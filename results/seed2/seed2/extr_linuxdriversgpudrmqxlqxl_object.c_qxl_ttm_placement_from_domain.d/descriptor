@@ -1,0 +1,4 @@
+struct TYPE_3__ | num_busy_placement long | num_placement long | busy_placement struct TYPE_4__ * | placement struct TYPE_4__ * 
+struct qxl_bo | placements struct TYPE_4__ * | placement struct TYPE_3__ 
+struct TYPE_4__ | lpfn long | fpfn long | flags long 
+function qxl_ttm_placement_from_domain void | qbo struct qxl_bo * | domain long | pinned int

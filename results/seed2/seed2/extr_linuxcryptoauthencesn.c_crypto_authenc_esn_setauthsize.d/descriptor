@@ -1,0 +1,2 @@
+struct crypto_aead | dummy int 
+function crypto_authenc_esn_setauthsize int | authenc_esn struct crypto_aead * | authsize unsigned int

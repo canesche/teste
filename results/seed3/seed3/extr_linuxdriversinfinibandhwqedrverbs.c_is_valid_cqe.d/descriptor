@@ -1,0 +1,4 @@
+struct rdma_cqe_requester | flags int 
+struct rdma_cqe | req struct rdma_cqe_requester 
+struct qedr_cq | pbl_toggle int 
+function is_valid_cqe int | cq struct qedr_cq * | cqe union rdma_cqe *

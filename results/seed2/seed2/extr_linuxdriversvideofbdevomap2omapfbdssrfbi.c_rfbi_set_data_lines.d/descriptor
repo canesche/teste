@@ -1,0 +1,3 @@
+struct omap_dss_device | dummy int 
+struct TYPE_2__ | data_lines int 
+function rfbi_set_data_lines void | dssdev struct omap_dss_device * | data_lines int

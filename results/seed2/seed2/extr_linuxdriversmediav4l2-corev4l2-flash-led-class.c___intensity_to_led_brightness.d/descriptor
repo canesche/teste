@@ -1,0 +1,2 @@
+struct v4l2_ctrl | minimum long | step long 
+function __intensity_to_led_brightness enum led_brightness | ctrl struct v4l2_ctrl * | intensity int

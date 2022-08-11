@@ -1,4 +1,0 @@
-struct sst_algo_control | max int 
-struct snd_kcontrol | private_value long 
-struct snd_ctl_elem_info | count int | type int 
-function sst_algo_bytes_ctl_info int | kcontrol struct snd_kcontrol * | uinfo struct snd_ctl_elem_info *

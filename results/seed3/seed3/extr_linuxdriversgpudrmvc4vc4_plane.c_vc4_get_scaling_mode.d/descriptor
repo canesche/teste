@@ -1,0 +1,1 @@
+function vc4_get_scaling_mode enum vc4_scaling_mode | src long | dst long

@@ -1,0 +1,2 @@
+struct link_encoder | dummy int 
+function virtual_link_encoder_connect_dig_be_to_fe void | enc struct link_encoder * | engine enum engine_id | connect int

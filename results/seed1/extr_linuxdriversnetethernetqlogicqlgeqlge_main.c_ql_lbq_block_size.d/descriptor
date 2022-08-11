@@ -1,2 +1,0 @@
-struct ql_adapter | lbq_buf_order unsigned int 
-function ql_lbq_block_size unsigned int | qdev struct ql_adapter *

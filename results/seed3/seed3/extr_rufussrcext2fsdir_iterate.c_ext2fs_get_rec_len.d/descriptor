@@ -1,0 +1,3 @@
+struct ext2_dir_entry | rec_len unsigned int 
+struct TYPE_3__ | blocksize int 
+function ext2fs_get_rec_len int | fs struct TYPE_3__ * | dirent struct ext2_dir_entry * | rec_len unsigned int *

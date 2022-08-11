@@ -1,2 +1,0 @@
-struct pci_dn | dummy int 
-function pnv_pci_cfg_check int | pdn struct pci_dn *

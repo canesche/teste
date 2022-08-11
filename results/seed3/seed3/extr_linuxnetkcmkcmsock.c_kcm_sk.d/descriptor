@@ -1,0 +1,3 @@
+struct sock | dummy int 
+struct kcm_sock | dummy int 
+function kcm_sk struct kcm_sock * | sk const struct sock *

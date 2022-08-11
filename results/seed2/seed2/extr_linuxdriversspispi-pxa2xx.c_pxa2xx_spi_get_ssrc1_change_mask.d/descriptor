@@ -1,0 +1,2 @@
+struct driver_data | ssp_type int 
+function pxa2xx_spi_get_ssrc1_change_mask int | drv_data const struct driver_data *

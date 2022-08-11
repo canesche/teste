@@ -1,4 +1,0 @@
-struct kyrofb_info | palette int * 
-struct TYPE_2__ | bits_per_pixel int 
-struct fb_info | var struct TYPE_2__ | par struct kyrofb_info * 
-function kyrofb_setcolreg int | regno int | red int | green int | blue int | transp int | info struct fb_info *

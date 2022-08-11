@@ -1,0 +1,3 @@
+struct inbuf_t | inputstate int | cs struct cardstate * | tail long | head long 
+struct cardstate | dummy int 
+function gigaset_inbuf_init void | inbuf struct inbuf_t * | cs struct cardstate *

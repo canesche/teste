@@ -1,2 +1,0 @@
-struct TYPE_3__ | cur_w int | width long | cur_x long | cur_h int | height long | cur_y long | bpp2 int | curbits int * | curmask int * 
-function put_cursor void | dst int * | stride int | c struct TYPE_3__ * | dx int | dy int

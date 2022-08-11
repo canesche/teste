@@ -1,0 +1,2 @@
+struct TYPE_3__ | count int * 
+function getCount int | ctx struct TYPE_3__ *

@@ -1,0 +1,6 @@
+struct rhashtable_compare_arg | key long 
+struct TYPE_4__ | v64 long 
+struct TYPE_5__ | locator_match struct TYPE_4__ 
+struct TYPE_6__ | ip struct TYPE_5__ 
+struct ila_map | xp struct TYPE_6__ 
+function ila_cmpfn int | arg struct rhashtable_compare_arg * | obj const void *

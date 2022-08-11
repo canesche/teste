@@ -1,0 +1,2 @@
+struct samsung_pwm_chip | dummy int 
+function pwm_samsung_parse_dt int | chip struct samsung_pwm_chip *

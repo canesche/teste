@@ -1,0 +1,2 @@
+struct TYPE_3__ | IsWindows int | IsNT int | VerMajor int | VerMinor int | ServicePack int | IsBeta long 
+function IsSupportedWinVer int | v struct TYPE_3__ *

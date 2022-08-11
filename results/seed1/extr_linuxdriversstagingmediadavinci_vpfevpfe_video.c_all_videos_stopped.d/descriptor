@@ -1,5 +1,0 @@
-struct vpfe_pipeline | input_num int | output_num int | outputs struct TYPE_3__ ** | inputs struct TYPE_4__ ** 
-struct vpfe_video_device | pipe struct vpfe_pipeline 
-struct TYPE_4__ | started long 
-struct TYPE_3__ | started long 
-function all_videos_stopped int | video struct vpfe_video_device *

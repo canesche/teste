@@ -1,2 +1,0 @@
-struct spu_context | object_id int 
-function spufs_object_id_set int | data void * | id int

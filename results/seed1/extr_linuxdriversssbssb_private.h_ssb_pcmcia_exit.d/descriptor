@@ -1,2 +1,0 @@
-struct ssb_bus | dummy int 
-function ssb_pcmcia_exit void | bus struct ssb_bus *

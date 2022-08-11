@@ -1,0 +1,3 @@
+struct iwl_fw_dbg_conf_tlv | usniffer int 
+struct iwl_fw | dbg_conf_tlv struct iwl_fw_dbg_conf_tlv ** 
+function iwl_fw_dbg_conf_usniffer int | fw const struct iwl_fw * | id unsigned long

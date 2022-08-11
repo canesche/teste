@@ -1,4 +1,0 @@
-struct TYPE_3__ | lane_count long 
-struct link_training_settings | lane_settings struct TYPE_4__ * | link_settings struct TYPE_3__ 
-struct TYPE_4__ | VOLTAGE_SWING long 
-function is_max_vs_reached int | lt_settings const struct link_training_settings *

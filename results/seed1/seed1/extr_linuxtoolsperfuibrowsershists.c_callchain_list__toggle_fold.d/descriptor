@@ -1,0 +1,2 @@
+struct callchain_list | unfolded int | has_children int 
+function callchain_list__toggle_fold int | cl struct callchain_list *

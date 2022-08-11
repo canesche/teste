@@ -1,0 +1,3 @@
+struct float64_components | i int * | f64 int 
+struct roundingData | dummy int 
+function float64_mnf int | roundData struct roundingData * | rFm int

@@ -1,3 +1,0 @@
-struct nfc_digital_dev | poll_tech_count long | poll_techs struct digital_poll_tech * 
-struct digital_poll_tech | poll_func int | rf_tech int 
-function digital_add_poll_tech void | ddev struct nfc_digital_dev * | rf_tech int | poll_func int

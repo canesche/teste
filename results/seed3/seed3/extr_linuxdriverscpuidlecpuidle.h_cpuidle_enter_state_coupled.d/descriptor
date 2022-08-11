@@ -1,0 +1,3 @@
+struct cpuidle_driver | dummy int 
+struct cpuidle_device | dummy int 
+function cpuidle_enter_state_coupled int | dev struct cpuidle_device * | drv struct cpuidle_driver * | next_state int

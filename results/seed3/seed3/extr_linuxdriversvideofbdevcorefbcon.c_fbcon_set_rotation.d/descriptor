@@ -1,0 +1,3 @@
+struct fbcon_ops | rotate int 
+struct fb_info | fbcon_par struct fbcon_ops * 
+function fbcon_set_rotation void | info struct fb_info *

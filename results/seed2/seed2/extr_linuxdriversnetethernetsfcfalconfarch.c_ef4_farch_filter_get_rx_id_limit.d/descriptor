@@ -1,0 +1,4 @@
+struct ef4_nic | filter_state struct ef4_farch_filter_state * 
+struct ef4_farch_filter_state | table struct TYPE_2__ * 
+struct TYPE_2__ | size unsigned int 
+function ef4_farch_filter_get_rx_id_limit unsigned int | efx struct ef4_nic *

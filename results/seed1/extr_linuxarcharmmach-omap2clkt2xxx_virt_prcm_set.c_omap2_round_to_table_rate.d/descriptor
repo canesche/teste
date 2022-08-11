@@ -1,3 +1,0 @@
-struct prcm_config | mpu_speed long | flags int | xtal_speed long 
-struct clk_hw | dummy int 
-function omap2_round_to_table_rate long | hw struct clk_hw * | rate unsigned long | parent_rate unsigned long *

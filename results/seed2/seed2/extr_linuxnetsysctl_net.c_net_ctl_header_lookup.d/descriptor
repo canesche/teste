@@ -1,0 +1,6 @@
+struct ctl_table_set | dummy int 
+struct ctl_table_root | dummy int 
+struct TYPE_6__ | nsproxy struct TYPE_5__ * 
+struct TYPE_5__ | net_ns struct TYPE_4__ * 
+struct TYPE_4__ | sysctls struct ctl_table_set 
+function net_ctl_header_lookup struct ctl_table_set * | root struct ctl_table_root *

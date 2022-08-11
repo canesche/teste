@@ -1,0 +1,3 @@
+struct TYPE_2__ | db_page_size int | unmapped_db long 
+struct ocrdma_dev | nic_info struct TYPE_2__ 
+function ocrdma_get_db_addr long | dev struct ocrdma_dev * | pdid int

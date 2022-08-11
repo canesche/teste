@@ -1,0 +1,2 @@
+struct cxgbit_np | dummy int 
+function cxgbit_np_hashfn int | cnp const struct cxgbit_np *

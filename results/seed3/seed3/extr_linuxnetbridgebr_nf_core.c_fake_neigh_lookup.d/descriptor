@@ -1,0 +1,4 @@
+struct sk_buff | dummy int 
+struct neighbour | dummy int 
+struct dst_entry | dummy int 
+function fake_neigh_lookup struct neighbour * | dst const struct dst_entry * | skb struct sk_buff * | daddr const void *

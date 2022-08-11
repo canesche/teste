@@ -1,0 +1,2 @@
+struct bpf_insn | dummy int 
+function __bpf_prog_ret1 unsigned int | ctx const void * | insn const struct bpf_insn *

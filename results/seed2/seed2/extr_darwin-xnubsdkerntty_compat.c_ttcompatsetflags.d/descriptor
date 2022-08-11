@@ -1,0 +1,3 @@
+struct tty | t_flags int 
+struct termios | c_iflag int | c_oflag int | c_lflag int | c_cflag int 
+function ttcompatsetflags void | tp struct tty * | t struct termios *

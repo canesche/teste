@@ -1,0 +1,2 @@
+struct cmac | offset int 
+function macidx int | mac const struct cmac *

@@ -1,0 +1,2 @@
+struct scsi_cmnd | device int * 
+function aac_probe_container_callback1 int | scsicmd struct scsi_cmnd *

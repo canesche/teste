@@ -1,3 +1,0 @@
-struct vcpu_vmx | nmsrs int | guest_msrs struct TYPE_2__ * 
-struct TYPE_2__ | index unsigned long 
-function __find_msr_index int | vmx struct vcpu_vmx * | msr long

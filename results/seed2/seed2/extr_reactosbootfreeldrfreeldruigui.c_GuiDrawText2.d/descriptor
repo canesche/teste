@@ -1,0 +1,1 @@
+function GuiDrawText2 int | X int | Y int | MaxNumChars int | Text int | Attr int

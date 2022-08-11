@@ -1,0 +1,2 @@
+struct orangefs_khandle | u long * 
+function ORANGEFS_khandle_cmp int | kh1 const struct orangefs_khandle * | kh2 const struct orangefs_khandle *

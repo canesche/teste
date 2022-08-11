@@ -1,0 +1,2 @@
+struct hash_table | dummy int 
+function hash_table_destroy void | ht struct hash_table *

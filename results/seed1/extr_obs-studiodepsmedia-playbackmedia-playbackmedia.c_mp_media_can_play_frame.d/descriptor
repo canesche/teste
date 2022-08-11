@@ -1,3 +1,0 @@
-struct mp_decode | frame_pts long | frame_ready long 
-struct TYPE_3__ | next_pts_ns long 
-function mp_media_can_play_frame int | m struct TYPE_3__ * | d struct mp_decode *

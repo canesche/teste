@@ -1,0 +1,3 @@
+struct sis_laptop | device long | subvendor long | subdevice long 
+struct pci_dev | device long | subsystem_vendor long | subsystem_device long 
+function sis_short_ata40 int | dev struct pci_dev *

@@ -1,0 +1,4 @@
+struct scsi_device | handler_data struct hp_sw_dh_data * 
+struct request | rq_flags int 
+struct hp_sw_dh_data | path_state long 
+function hp_sw_prep_fn int | sdev struct scsi_device * | req struct request *

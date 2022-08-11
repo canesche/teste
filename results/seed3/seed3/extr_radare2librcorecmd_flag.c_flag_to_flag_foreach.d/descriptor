@@ -1,0 +1,3 @@
+struct flag_to_flag_t | next long | offset long 
+struct TYPE_3__ | offset long 
+function flag_to_flag_foreach int | fi struct TYPE_3__ * | user void *

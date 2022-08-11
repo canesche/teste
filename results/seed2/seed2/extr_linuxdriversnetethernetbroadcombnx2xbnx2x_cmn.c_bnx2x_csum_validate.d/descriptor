@@ -1,0 +1,6 @@
+struct TYPE_2__ | status_flags int | type_error_flags int 
+struct eth_rx_cqe | fast_path_cqe struct TYPE_2__ 
+struct sk_buff | ip_summed int 
+struct bnx2x_fastpath | dummy int 
+struct bnx2x_eth_q_stats | hw_csum_err int 
+function bnx2x_csum_validate void | skb struct sk_buff * | cqe union eth_rx_cqe * | fp struct bnx2x_fastpath * | qstats struct bnx2x_eth_q_stats *

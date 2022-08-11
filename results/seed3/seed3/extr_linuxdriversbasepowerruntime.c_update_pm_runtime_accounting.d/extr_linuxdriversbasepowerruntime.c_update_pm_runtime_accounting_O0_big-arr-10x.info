@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversbasepowerruntime.c_update_pm_runtime_accounting.d/extr_linuxdriversbasepowerruntime.c_update_pm_runtime_accounting_O0::update_pm_runtime_accounting(65)"
+  }
+]

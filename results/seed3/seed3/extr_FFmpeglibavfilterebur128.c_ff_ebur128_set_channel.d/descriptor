@@ -1,0 +1,3 @@
+struct TYPE_5__ | channels unsigned int | d struct TYPE_4__ * 
+struct TYPE_4__ | channel_map int * 
+function ff_ebur128_set_channel int | st struct TYPE_5__ * | channel_number unsigned int | value int

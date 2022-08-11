@@ -1,0 +1,2 @@
+struct ashmem_range | pgend unsigned long | pgstart unsigned long 
+function range_size unsigned long | range struct ashmem_range *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | cBuffers unsigned long | pBuffers int * | ulVersion int 
+function init_sec_buffer_desc void | desc struct TYPE_3__ * | buffers int * | buffer_count unsigned long

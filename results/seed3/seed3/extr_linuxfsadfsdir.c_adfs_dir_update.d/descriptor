@@ -1,0 +1,3 @@
+struct super_block | dummy int 
+struct object_info | dummy int 
+function adfs_dir_update int | sb struct super_block * | obj struct object_info * | wait int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 224,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_FFmpeglibavcodecrv34dsp.c_rv34_inv_transform_dc_noround_c.d/extr_FFmpeglibavcodecrv34dsp.c_rv34_inv_transform_dc_noround_c_O0::rv34_inv_transform_dc_noround_c(61)"
+  }
+]

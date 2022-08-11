@@ -1,3 +1,0 @@
-struct kern_ipc_perm | security struct ipc_security_struct * 
-struct ipc_security_struct | sid int 
-function selinux_ipc_getsecid void | ipcp struct kern_ipc_perm * | secid int *

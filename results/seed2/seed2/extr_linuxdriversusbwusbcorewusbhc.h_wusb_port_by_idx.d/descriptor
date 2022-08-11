@@ -1,0 +1,3 @@
+struct wusbhc | port struct wusb_port * 
+struct wusb_port | dummy int 
+function wusb_port_by_idx struct wusb_port * | wusbhc struct wusbhc * | port_idx unsigned long

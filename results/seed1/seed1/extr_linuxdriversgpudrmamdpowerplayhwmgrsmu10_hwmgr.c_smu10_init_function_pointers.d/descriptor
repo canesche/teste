@@ -1,0 +1,2 @@
+struct pp_hwmgr | pptable_func int * | hwmgr_func int * 
+function smu10_init_function_pointers int | hwmgr struct pp_hwmgr *

@@ -1,0 +1,3 @@
+struct ata_ering_entry | err_mask long 
+struct ata_ering | cursor unsigned long | ring struct ata_ering_entry * 
+function ata_ering_top struct ata_ering_entry * | ering struct ata_ering *

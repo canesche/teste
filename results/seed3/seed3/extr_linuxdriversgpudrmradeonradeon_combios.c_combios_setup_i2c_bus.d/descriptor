@@ -1,0 +1,3 @@
+struct radeon_i2c_bus_rec | mask_clk_reg int | mask_data_reg int | a_clk_reg int | a_data_reg int | en_clk_reg int | en_data_reg int | y_clk_reg int | y_data_reg int | mask_clk_mask int | mask_data_mask int | a_clk_mask int | a_data_mask int | en_clk_mask int | en_data_mask int | y_clk_mask int | y_data_mask int | hw_capable int | mm_i2c int | i2c_id int | valid int | hpd int 
+struct radeon_device | family int 
+function combios_setup_i2c_bus struct radeon_i2c_bus_rec | rdev struct radeon_device * | ddc enum radeon_combios_ddc | clk_mask void * | data_mask void *

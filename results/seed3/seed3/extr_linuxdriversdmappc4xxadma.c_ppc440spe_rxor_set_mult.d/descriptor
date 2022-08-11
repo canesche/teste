@@ -1,0 +1,4 @@
+struct xor_cb | ops struct TYPE_2__ * 
+struct ppc440spe_adma_desc_slot | hw_desc struct xor_cb * 
+struct TYPE_2__ | h unsigned long 
+function ppc440spe_rxor_set_mult void | desc struct ppc440spe_adma_desc_slot * | xor_arg_no unsigned long | idx unsigned long | mult unsigned long

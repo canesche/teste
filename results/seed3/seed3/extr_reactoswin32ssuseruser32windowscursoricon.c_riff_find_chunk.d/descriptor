@@ -1,0 +1,2 @@
+struct TYPE_4__ | data unsigned char * | data_size int 
+function riff_find_chunk void | chunk_id long | chunk_type long | parent_chunk const struct TYPE_4__ * | chunk struct TYPE_4__ *

@@ -1,3 +1,0 @@
-struct TYPE_5__ | core_params struct TYPE_4__ * 
-struct TYPE_4__ | phy_type int 
-function dwc_otg_get_param_phy_type int | core_if struct TYPE_5__ *

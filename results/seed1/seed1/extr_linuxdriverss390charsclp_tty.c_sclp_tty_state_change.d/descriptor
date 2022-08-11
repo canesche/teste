@@ -1,0 +1,2 @@
+struct sclp_register | dummy int 
+function sclp_tty_state_change void | reg struct sclp_register *

@@ -1,0 +1,4 @@
+struct ra_tex_gl | target int | texture int 
+struct ra_tex | priv struct ra_tex_gl * 
+struct ra | dummy int 
+function ra_gl_get_raw_tex void | ra struct ra * | tex struct ra_tex * | out_texture int * | out_target int *

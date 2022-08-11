@@ -1,0 +1,5 @@
+struct TYPE_3__ | scn int | c int 
+struct esca_entry | sigp_ctrl struct TYPE_3__ | sda int 
+struct TYPE_4__ | scn int | c int 
+struct bsca_entry | sigp_ctrl struct TYPE_4__ | sda int 
+function sca_copy_entry void | d struct esca_entry * | s struct bsca_entry *

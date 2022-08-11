@@ -1,0 +1,4 @@
+struct TYPE_8__ | next struct TYPE_8__ * 
+struct TYPE_9__ | head struct TYPE_10__ * | tail struct TYPE_10__ * 
+struct TYPE_10__ | stat struct TYPE_8__ * | next struct TYPE_10__ * 
+function new_case_block struct TYPE_10__ * | ctx int * | case_list1 struct TYPE_9__ * | default_clausule struct TYPE_10__ * | case_list2 struct TYPE_9__ *

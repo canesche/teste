@@ -1,0 +1,2 @@
+struct thermal_zone_device | dummy int 
+function int3400_thermal_get_temp int | thermal struct thermal_zone_device * | temp int *

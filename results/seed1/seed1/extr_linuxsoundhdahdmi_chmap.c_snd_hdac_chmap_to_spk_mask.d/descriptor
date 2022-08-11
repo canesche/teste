@@ -1,0 +1,2 @@
+struct channel_map_table | map char | spk_mask int 
+function snd_hdac_chmap_to_spk_mask int | c unsigned char

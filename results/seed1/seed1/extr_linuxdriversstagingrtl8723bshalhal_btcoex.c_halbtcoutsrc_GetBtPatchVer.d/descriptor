@@ -1,0 +1,3 @@
+struct TYPE_4__ | btRealFwVer int 
+struct TYPE_5__ | btInfo struct TYPE_4__ 
+function halbtcoutsrc_GetBtPatchVer int | pBtCoexist struct TYPE_5__ *

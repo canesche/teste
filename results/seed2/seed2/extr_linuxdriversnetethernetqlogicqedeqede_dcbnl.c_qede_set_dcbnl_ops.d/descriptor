@@ -1,0 +1,2 @@
+struct net_device | dcbnl_ops int * 
+function qede_set_dcbnl_ops void | dev struct net_device *

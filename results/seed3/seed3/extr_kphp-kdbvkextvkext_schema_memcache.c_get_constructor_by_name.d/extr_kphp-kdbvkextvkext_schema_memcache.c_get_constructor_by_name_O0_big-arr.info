@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_kphp-kdbvkextvkext_schema_memcache.c_get_constructor_by_name.d/extr_kphp-kdbvkextvkext_schema_memcache.c_get_constructor_by_name_O0::get_constructor_by_name(62)"
+  }
+]

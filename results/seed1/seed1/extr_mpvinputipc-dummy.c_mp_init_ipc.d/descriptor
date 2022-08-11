@@ -1,0 +1,4 @@
+struct mpv_global | dummy int 
+struct mp_ipc_ctx | dummy int 
+struct mp_client_api | dummy int 
+function mp_init_ipc struct mp_ipc_ctx * | client_api struct mp_client_api * | global struct mpv_global *

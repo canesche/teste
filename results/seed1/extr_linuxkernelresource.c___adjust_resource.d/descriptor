@@ -1,2 +1,0 @@
-struct resource | start long | end long | sibling struct resource * | child struct resource * | parent struct resource * 
-function __adjust_resource int | res struct resource * | start long | size long

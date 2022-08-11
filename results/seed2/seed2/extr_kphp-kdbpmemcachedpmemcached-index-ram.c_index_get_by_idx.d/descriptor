@@ -1,0 +1,2 @@
+struct index_entry | dummy int 
+function index_get_by_idx struct index_entry * | idx int

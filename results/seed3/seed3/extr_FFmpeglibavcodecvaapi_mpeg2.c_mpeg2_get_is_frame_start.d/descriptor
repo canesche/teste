@@ -1,0 +1,2 @@
+struct TYPE_3__ | picture_structure long | first_field long 
+function mpeg2_get_is_frame_start int | s const struct TYPE_3__ *

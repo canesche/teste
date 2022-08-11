@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediausbem28xxem28xx-video.c_em28xx_v4l2_create_entities.d/extr_linuxdriversmediausbem28xxem28xx-video.c_em28xx_v4l2_create_entities_O0::em28xx_v4l2_create_entities(61)"
+  }
+]

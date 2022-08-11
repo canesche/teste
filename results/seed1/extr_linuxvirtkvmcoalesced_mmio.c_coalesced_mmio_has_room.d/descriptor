@@ -1,4 +1,0 @@
-struct kvm_coalesced_mmio_ring | first int | last int 
-struct kvm_coalesced_mmio_dev | kvm struct TYPE_2__ * 
-struct TYPE_2__ | coalesced_mmio_ring struct kvm_coalesced_mmio_ring * 
-function coalesced_mmio_has_room int | dev struct kvm_coalesced_mmio_dev *

@@ -1,3 +1,0 @@
-struct sched_dl_entity | dl_overrun long | dl_non_contending long | dl_yielded long | dl_throttled long | dl_density long | dl_bw long | flags long | dl_period long | dl_deadline long | dl_runtime long 
-struct task_struct | dl struct sched_dl_entity 
-function __dl_clear_params void | p struct task_struct *

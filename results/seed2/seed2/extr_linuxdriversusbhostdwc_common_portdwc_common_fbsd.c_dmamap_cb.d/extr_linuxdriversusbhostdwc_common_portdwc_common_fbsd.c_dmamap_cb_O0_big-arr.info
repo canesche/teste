@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversusbhostdwc_common_portdwc_common_fbsd.c_dmamap_cb.d/extr_linuxdriversusbhostdwc_common_portdwc_common_fbsd.c_dmamap_cb_O0::dmamap_cb(64)"
+  }
+]

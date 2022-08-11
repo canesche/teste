@@ -1,0 +1,3 @@
+struct inode_smack | smk_flags int 
+struct inode | i_security struct inode_smack * 
+function smk_inode_transmutable int | isp const struct inode *

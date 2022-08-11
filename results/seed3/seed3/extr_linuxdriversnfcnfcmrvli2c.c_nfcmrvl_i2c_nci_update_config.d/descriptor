@@ -1,0 +1,2 @@
+struct nfcmrvl_private | dummy int 
+function nfcmrvl_i2c_nci_update_config void | priv struct nfcmrvl_private * | param const void *

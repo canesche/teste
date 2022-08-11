@@ -1,0 +1,2 @@
+struct cgroup | root int * 
+function cgroup_on_dfl int | cgrp const struct cgroup *

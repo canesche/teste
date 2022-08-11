@@ -1,0 +1,4 @@
+struct sym_tcb | usrtags int | usr_width int | usr_period int | usrflags int 
+struct Tekram_target | flags int | sync_index int 
+struct TYPE_3__ | max_tags_index int | target struct Tekram_target * 
+function sym_Tekram_setup_target void | tp struct sym_tcb * | target int | nvram struct TYPE_3__ *

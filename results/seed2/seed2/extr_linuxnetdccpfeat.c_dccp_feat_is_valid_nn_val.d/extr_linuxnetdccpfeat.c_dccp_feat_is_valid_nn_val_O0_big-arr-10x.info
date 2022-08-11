@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxnetdccpfeat.c_dccp_feat_is_valid_nn_val.d/extr_linuxnetdccpfeat.c_dccp_feat_is_valid_nn_val_O0::dccp_feat_is_valid_nn_val(67)"
+  }
+]

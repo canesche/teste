@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct file | dummy int 
+function v9fs_cache_inode_set_cookie void | inode struct inode * | file struct file *

@@ -1,0 +1,1 @@
+function LZ4_putPositionOnHash void | p const int * | h unsigned long | tableBase void * | tableType const int | srcBase const int *

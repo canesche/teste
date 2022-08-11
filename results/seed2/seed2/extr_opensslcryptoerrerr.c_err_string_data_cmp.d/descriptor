@@ -1,0 +1,2 @@
+struct TYPE_4__ | error long 
+function err_string_data_cmp int | a const struct TYPE_4__ * | b const struct TYPE_4__ *

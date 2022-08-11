@@ -1,2 +1,0 @@
-struct ceph_inode_info | dummy int 
-function ceph_fscache_inode_init void | ci struct ceph_inode_info *

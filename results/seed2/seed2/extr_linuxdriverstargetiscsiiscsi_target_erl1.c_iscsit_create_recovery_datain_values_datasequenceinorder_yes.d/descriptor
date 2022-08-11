@@ -1,0 +1,7 @@
+struct iscsi_datain_req | begrun long | next_burst_len long | read_data_done int 
+struct iscsi_conn | sess struct TYPE_6__ * | conn_ops struct TYPE_4__ * 
+struct iscsi_cmd | pdu_send_order long | pdu_start long | seq_no long | conn struct iscsi_conn * 
+struct TYPE_6__ | sess_ops struct TYPE_5__ * 
+struct TYPE_5__ | MaxBurstLength long | DataPDUInOrder int 
+struct TYPE_4__ | MaxRecvDataSegmentLength long 
+function iscsit_create_recovery_datain_values_datasequenceinorder_yes int | cmd struct iscsi_cmd * | dr struct iscsi_datain_req *

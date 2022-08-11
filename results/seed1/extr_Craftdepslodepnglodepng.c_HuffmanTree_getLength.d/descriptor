@@ -1,2 +1,0 @@
-struct TYPE_3__ | lengths int * 
-function HuffmanTree_getLength unsigned int | tree const struct TYPE_3__ * | index unsigned int

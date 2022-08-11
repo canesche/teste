@@ -1,2 +1,0 @@
-struct vnic_dev | intr_mode int 
-function vnic_dev_set_intr_mode void | vdev struct vnic_dev * | intr_mode enum vnic_dev_intr_mode

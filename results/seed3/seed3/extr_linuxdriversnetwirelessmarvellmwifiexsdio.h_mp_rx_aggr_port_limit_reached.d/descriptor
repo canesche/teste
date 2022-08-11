@@ -1,0 +1,3 @@
+struct TYPE_2__ | start_port int 
+struct sdio_mmc_card | curr_rd_port int | mp_end_port int | mp_agg_pkt_limit int | max_ports int | mpa_rx struct TYPE_2__ | supports_sdio_new_mode long 
+function mp_rx_aggr_port_limit_reached int | card struct sdio_mmc_card *

@@ -1,0 +1,3 @@
+struct pasemi_mac_rxring | dummy int 
+struct pasemi_mac | rx struct pasemi_mac_rxring * 
+function rx_ring struct pasemi_mac_rxring * | mac const struct pasemi_mac *

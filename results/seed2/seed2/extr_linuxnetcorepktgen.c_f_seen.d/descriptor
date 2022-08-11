@@ -1,0 +1,3 @@
+struct pktgen_dev | flows struct TYPE_2__ * 
+struct TYPE_2__ | flags int 
+function f_seen int | pkt_dev const struct pktgen_dev * | flow int

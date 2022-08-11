@@ -1,0 +1,3 @@
+struct TYPE_5__ | K3RR int | K3LR int | K2RR int | K2LR int | K1RR int | K1LR int | K0RR int | K0LR int 
+struct TYPE_4__ | CRYP_Key3Right int | CRYP_Key3Left int | CRYP_Key2Right int | CRYP_Key2Left int | CRYP_Key1Right int | CRYP_Key1Left int | CRYP_Key0Right int | CRYP_Key0Left int 
+function CRYP_KeyInit void | CRYP_KeyInitStruct struct TYPE_4__ *

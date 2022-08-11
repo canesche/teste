@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 14,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 26,
+    static: {
+      instructions: 66,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 66,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetwirelessathath5kbase.c_ath5k_is_standard_channel.d/extr_linuxdriversnetwirelessathath5kbase.c_ath5k_is_standard_channel_O0::ath5k_is_standard_channel(62)"
+  }
+]

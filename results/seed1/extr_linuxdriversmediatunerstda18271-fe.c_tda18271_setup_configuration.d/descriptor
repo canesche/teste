@@ -1,4 +1,0 @@
-struct tda18271_priv | output_opt int | small_i2c int | config int | role int | gate int 
-struct tda18271_config | output_opt int | small_i2c int | config int | role int | gate int 
-struct dvb_frontend | tuner_priv struct tda18271_priv * 
-function tda18271_setup_configuration int | fe struct dvb_frontend * | cfg struct tda18271_config *

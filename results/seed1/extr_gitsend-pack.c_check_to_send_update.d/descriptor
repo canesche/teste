@@ -1,3 +1,0 @@
-struct send_pack_args | send_mirror int 
-struct ref | status int | peer_ref int 
-function check_to_send_update int | ref const struct ref * | args const struct send_pack_args *

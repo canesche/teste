@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function tiny_spi_of_probe int | pdev struct platform_device *

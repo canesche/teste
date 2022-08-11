@@ -1,0 +1,6 @@
+struct mlx5_ib_dev | mdev struct TYPE_6__ * 
+struct TYPE_4__ | mgmt_class long 
+struct ib_mad | mad_hdr struct TYPE_4__ 
+struct TYPE_6__ | port_caps struct TYPE_5__ * 
+struct TYPE_5__ | has_smi int 
+function can_do_mad_ifc int | dev struct mlx5_ib_dev * | port_num int | in_mad struct ib_mad *

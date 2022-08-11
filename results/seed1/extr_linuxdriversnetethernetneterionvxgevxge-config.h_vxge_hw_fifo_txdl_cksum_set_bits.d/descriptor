@@ -1,2 +1,0 @@
-struct vxge_hw_fifo_txd | control_1 int 
-function vxge_hw_fifo_txdl_cksum_set_bits void | txdlh void * | cksum_bits int

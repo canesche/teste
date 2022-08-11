@@ -1,0 +1,2 @@
+struct extent_status | es_pblk int 
+function ext4_es_clear_referenced void | es struct extent_status *

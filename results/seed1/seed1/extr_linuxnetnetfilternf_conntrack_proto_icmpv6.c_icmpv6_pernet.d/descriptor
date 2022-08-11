@@ -1,0 +1,5 @@
+struct nf_icmp_net | dummy int 
+struct TYPE_3__ | icmpv6 struct nf_icmp_net 
+struct TYPE_4__ | nf_ct_proto struct TYPE_3__ 
+struct net | ct struct TYPE_4__ 
+function icmpv6_pernet struct nf_icmp_net * | net struct net *

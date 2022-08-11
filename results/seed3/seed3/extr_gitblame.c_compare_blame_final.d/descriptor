@@ -1,0 +1,2 @@
+struct blame_entry | lno long 
+function compare_blame_final int | p1 const void * | p2 const void *

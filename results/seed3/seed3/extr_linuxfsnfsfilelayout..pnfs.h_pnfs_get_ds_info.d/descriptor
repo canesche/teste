@@ -1,0 +1,3 @@
+struct pnfs_ds_commit_info | dummy int 
+struct inode | dummy int 
+function pnfs_get_ds_info struct pnfs_ds_commit_info * | inode struct inode *

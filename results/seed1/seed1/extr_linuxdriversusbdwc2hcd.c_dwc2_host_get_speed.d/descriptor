@@ -1,0 +1,4 @@
+struct urb | dev struct TYPE_2__ * 
+struct dwc2_hsotg | dummy int 
+struct TYPE_2__ | speed int 
+function dwc2_host_get_speed int | hsotg struct dwc2_hsotg * | context void *

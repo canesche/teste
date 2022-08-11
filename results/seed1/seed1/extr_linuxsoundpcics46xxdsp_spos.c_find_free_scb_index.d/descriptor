@@ -1,0 +1,3 @@
+struct dsp_spos_instance | nscb int | scb_highest_frag_index int | scbs struct TYPE_2__ * 
+struct TYPE_2__ | deleted long 
+function find_free_scb_index int | ins struct dsp_spos_instance *

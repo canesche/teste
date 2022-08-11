@@ -1,0 +1,2 @@
+struct intel_vgpu | scan_nonprivbb int 
+function vgpu_scan_nonprivbb_get int | data void * | val int *

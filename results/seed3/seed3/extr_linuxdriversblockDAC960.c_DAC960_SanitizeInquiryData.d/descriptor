@@ -1,0 +1,3 @@
+struct TYPE_6__ | PeripheralDeviceType int | VendorIdentification unsigned char * | ProductIdentification unsigned char * | ProductRevisionLevel unsigned char * 
+struct TYPE_5__ | PeripheralDeviceType int | PageLength int | ProductSerialNumber unsigned char * 
+function DAC960_SanitizeInquiryData void | InquiryStandardData struct TYPE_6__ * | InquiryUnitSerialNumber struct TYPE_5__ * | Vendor unsigned char * | Model unsigned char * | Revision unsigned char * | SerialNumber unsigned char *

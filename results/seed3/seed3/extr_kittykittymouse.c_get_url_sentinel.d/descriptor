@@ -1,0 +1,3 @@
+struct TYPE_5__ | xnum int | cpu_cells struct TYPE_4__ * 
+struct TYPE_4__ | ch int 
+function get_url_sentinel int | line struct TYPE_5__ * | url_start int

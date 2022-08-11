@@ -1,3 +1,0 @@
-struct drm_crtc_state | dummy int 
-struct drm_crtc | dummy int 
-function vmw_sou_crtc_atomic_enable void | crtc struct drm_crtc * | old_state struct drm_crtc_state *

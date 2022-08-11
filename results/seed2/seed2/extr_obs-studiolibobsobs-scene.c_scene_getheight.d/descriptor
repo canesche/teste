@@ -1,0 +1,4 @@
+struct TYPE_5__ | cy int | custom_size long 
+struct TYPE_4__ | base_height int 
+struct TYPE_6__ | video struct TYPE_4__ 
+function scene_getheight int | data void *

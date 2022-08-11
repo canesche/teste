@@ -1,0 +1,2 @@
+struct TYPE_3__ | digests int 
+function ENGINE_get_digests int | e const struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function pb1550_map_pci_irq int | d const struct pci_dev * | slot int | pin int

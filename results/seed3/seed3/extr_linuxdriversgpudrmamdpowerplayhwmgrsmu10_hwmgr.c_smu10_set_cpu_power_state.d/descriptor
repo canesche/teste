@@ -1,0 +1,2 @@
+struct pp_hwmgr | dummy int 
+function smu10_set_cpu_power_state int | hwmgr struct pp_hwmgr *

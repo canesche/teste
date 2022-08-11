@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversspispi-axi-spi-engine.c_spi_engine_get_config.d/extr_linuxdriversspispi-axi-spi-engine.c_spi_engine_get_config_O0::spi_engine_get_config(67)"
+  }
+]

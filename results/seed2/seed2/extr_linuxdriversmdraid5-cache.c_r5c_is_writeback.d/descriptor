@@ -1,0 +1,2 @@
+struct r5l_log | r5c_journal_mode long 
+function r5c_is_writeback int | log struct r5l_log *

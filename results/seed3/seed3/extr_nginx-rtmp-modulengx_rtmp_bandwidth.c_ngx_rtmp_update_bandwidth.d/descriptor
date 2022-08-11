@@ -1,0 +1,3 @@
+struct TYPE_4__ | intl_end long | bandwidth int | intl_bytes int | bytes int 
+struct TYPE_5__ | sec long 
+function ngx_rtmp_update_bandwidth void | bw struct TYPE_4__ * | bytes long

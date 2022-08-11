@@ -1,2 +1,0 @@
-struct TYPE_4__ | word long | doc_id long | position int 
-function cmp_pair int | X struct TYPE_4__ * | Y struct TYPE_4__ *

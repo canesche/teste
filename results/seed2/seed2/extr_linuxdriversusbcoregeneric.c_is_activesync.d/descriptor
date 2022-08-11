@@ -1,0 +1,2 @@
+struct usb_interface_descriptor | bInterfaceClass long | bInterfaceSubClass int | bInterfaceProtocol int 
+function is_activesync int | desc struct usb_interface_descriptor *

@@ -1,0 +1,2 @@
+struct zcc_magazine | zcc_magazine_capacity int | zcc_magazine_index long 
+function zcache_mag_init void | mag struct zcc_magazine * | count int

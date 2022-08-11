@@ -1,2 +1,0 @@
-struct gss_krb5_enctype | etype int 
-function get_gss_krb5_enctype const struct gss_krb5_enctype * | etype int

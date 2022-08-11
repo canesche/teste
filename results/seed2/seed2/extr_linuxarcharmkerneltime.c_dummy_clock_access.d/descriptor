@@ -1,0 +1,2 @@
+struct timespec64 | tv_nsec long | tv_sec long 
+function dummy_clock_access void | ts struct timespec64 *

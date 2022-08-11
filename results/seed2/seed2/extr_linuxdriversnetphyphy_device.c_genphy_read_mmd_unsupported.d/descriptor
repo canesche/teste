@@ -1,0 +1,2 @@
+struct phy_device | dummy int 
+function genphy_read_mmd_unsupported int | phdev struct phy_device * | devad int | regnum int

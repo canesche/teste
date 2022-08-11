@@ -1,4 +1,0 @@
-struct TYPE_4__ | ldSpanMap struct TYPE_3__ * 
-struct MR_DRV_RAID_MAP_ALL | raidMap struct TYPE_4__ 
-struct TYPE_3__ | dataArmMap int * 
-function MR_LdDataArmGet int | ld unsigned long | armIdx unsigned long | map struct MR_DRV_RAID_MAP_ALL *

@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct cpts | dummy int 
+function cpts_can_timestamp int | cpts struct cpts * | skb struct sk_buff *

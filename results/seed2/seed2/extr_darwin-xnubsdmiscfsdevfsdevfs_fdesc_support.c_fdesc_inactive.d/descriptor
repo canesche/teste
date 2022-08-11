@@ -1,0 +1,3 @@
+struct vnop_inactive_args | a_vp struct vnode * 
+struct vnode | v_type int 
+function fdesc_inactive int | ap struct vnop_inactive_args *

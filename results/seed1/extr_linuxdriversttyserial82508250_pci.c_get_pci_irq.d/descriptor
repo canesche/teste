@@ -1,3 +1,0 @@
-struct pciserial_board | flags int 
-struct pci_dev | irq int 
-function get_pci_irq int | dev struct pci_dev * | board const struct pciserial_board *

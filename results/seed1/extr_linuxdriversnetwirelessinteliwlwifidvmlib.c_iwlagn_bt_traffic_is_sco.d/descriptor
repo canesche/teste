@@ -1,2 +1,0 @@
-struct iwl_bt_uart_msg | frame3 int 
-function iwlagn_bt_traffic_is_sco int | uart_msg struct iwl_bt_uart_msg *

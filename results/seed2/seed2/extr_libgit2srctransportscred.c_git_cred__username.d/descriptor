@@ -1,0 +1,7 @@
+struct TYPE_8__ | username const char * 
+struct TYPE_9__ | username const char * 
+struct TYPE_10__ | username const char * 
+struct TYPE_11__ | username const char * 
+struct TYPE_12__ | username const char * 
+struct TYPE_13__ | credtype int 
+function git_cred__username const char * | cred struct TYPE_13__ *

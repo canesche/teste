@@ -1,0 +1,1 @@
+value(dst_linesize) == 10, value(src_linesize) == 10, value(w) == 10, value(h) == 10, length(ldst) == 100, length(lsrc) == 100, length(s) == 100

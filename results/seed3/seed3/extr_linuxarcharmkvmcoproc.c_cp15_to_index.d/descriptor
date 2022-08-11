@@ -1,0 +1,2 @@
+struct coproc_reg | Op1 int | CRn int | Op2 int | CRm int | is_64bit long 
+function cp15_to_index int | reg const struct coproc_reg *

@@ -1,0 +1,3 @@
+struct ath6kl_sta | aid unsigned long 
+struct ath6kl | sta_list struct ath6kl_sta * 
+function ath6kl_find_sta_by_aid struct ath6kl_sta * | ar struct ath6kl * | aid unsigned long

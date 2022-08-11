@@ -1,3 +1,0 @@
-struct spi_mem | spi struct TYPE_2__ * 
-struct TYPE_2__ | mode int 
-function spi_check_buswidth_req int | mem struct spi_mem * | buswidth int | tx int

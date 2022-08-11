@@ -1,0 +1,2 @@
+struct ocfs2_cached_dealloc_ctxt | c_global_allocator int * 
+function ocfs2_dealloc_has_cluster int | c struct ocfs2_cached_dealloc_ctxt *

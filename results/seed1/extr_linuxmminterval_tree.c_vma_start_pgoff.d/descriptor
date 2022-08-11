@@ -1,2 +1,0 @@
-struct vm_area_struct | vm_pgoff unsigned long 
-function vma_start_pgoff unsigned long | v struct vm_area_struct *

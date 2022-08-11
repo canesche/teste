@@ -1,0 +1,2 @@
+struct xhci_hcd | dummy int 
+function xhci_dbc_init int | xhci struct xhci_hcd *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | buffer int * | end int * | rptr int * 
+function av_fifo_peek2 int * | f const struct TYPE_3__ * | offs int

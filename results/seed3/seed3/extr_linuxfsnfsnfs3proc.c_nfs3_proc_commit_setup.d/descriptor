@@ -1,0 +1,4 @@
+struct rpc_message | rpc_proc int * 
+struct rpc_clnt | dummy int 
+struct nfs_commit_data | dummy int 
+function nfs3_proc_commit_setup void | data struct nfs_commit_data * | msg struct rpc_message * | clnt struct rpc_clnt **

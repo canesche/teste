@@ -1,2 +1,0 @@
-struct device_node | dummy int 
-function match_of_node struct device_node * | index int | dev_type enum maxim_device_type

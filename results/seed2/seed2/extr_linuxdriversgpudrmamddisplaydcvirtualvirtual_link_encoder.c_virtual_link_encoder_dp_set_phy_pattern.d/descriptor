@@ -1,0 +1,3 @@
+struct link_encoder | dummy int 
+struct encoder_set_dp_phy_pattern_param | dummy int 
+function virtual_link_encoder_dp_set_phy_pattern void | enc struct link_encoder * | param const struct encoder_set_dp_phy_pattern_param *

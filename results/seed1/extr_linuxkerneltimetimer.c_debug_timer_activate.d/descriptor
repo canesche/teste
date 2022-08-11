@@ -1,2 +1,0 @@
-struct timer_list | dummy int 
-function debug_timer_activate void | timer struct timer_list *

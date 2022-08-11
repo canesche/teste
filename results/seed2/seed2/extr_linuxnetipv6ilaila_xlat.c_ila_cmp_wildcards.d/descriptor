@@ -1,0 +1,4 @@
+struct TYPE_2__ | ifindex int 
+struct ila_map | xp struct TYPE_2__ 
+struct ila_addr | dummy int 
+function ila_cmp_wildcards int | ila struct ila_map * | iaddr struct ila_addr * | ifindex int

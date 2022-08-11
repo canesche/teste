@@ -1,0 +1,3 @@
+struct sdhci_pci_slot | host struct TYPE_2__ * 
+struct TYPE_2__ | caps int 
+function ricoh_mmc_probe_slot int | slot struct sdhci_pci_slot *

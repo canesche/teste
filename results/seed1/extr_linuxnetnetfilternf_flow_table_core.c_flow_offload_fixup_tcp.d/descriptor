@@ -1,3 +1,0 @@
-struct ip_ct_tcp | seen struct TYPE_2__ * | state int 
-struct TYPE_2__ | td_maxwin long 
-function flow_offload_fixup_tcp void | tcp struct ip_ct_tcp *

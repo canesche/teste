@@ -1,0 +1,2 @@
+struct TYPE_3__ | queued unsigned long 
+function ff_framequeue_queued_frames unsigned long | fq const struct TYPE_3__ *

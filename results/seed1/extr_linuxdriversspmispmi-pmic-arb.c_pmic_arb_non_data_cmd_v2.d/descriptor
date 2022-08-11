@@ -1,2 +1,0 @@
-struct spmi_controller | dummy int 
-function pmic_arb_non_data_cmd_v2 int | ctrl struct spmi_controller * | opc int | sid int

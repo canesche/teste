@@ -1,3 +1,0 @@
-struct TYPE_2__ | count int 
-struct intel_pt_decoder | packet struct TYPE_2__ | have_last_ip long 
-function intel_pt_have_ip int | decoder struct intel_pt_decoder *

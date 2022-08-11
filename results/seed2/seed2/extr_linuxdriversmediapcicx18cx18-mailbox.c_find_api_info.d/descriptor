@@ -1,0 +1,2 @@
+struct cx18_api_info | cmd long 
+function find_api_info const struct cx18_api_info * | cmd long

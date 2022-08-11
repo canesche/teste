@@ -1,0 +1,3 @@
+struct irq_data | dummy int 
+struct cpumask | dummy int 
+function mobiveil_msi_set_affinity int | irq_data struct irq_data * | mask const struct cpumask * | force int

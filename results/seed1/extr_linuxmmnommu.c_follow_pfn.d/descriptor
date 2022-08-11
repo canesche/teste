@@ -1,2 +1,0 @@
-struct vm_area_struct | vm_flags int 
-function follow_pfn int | vma struct vm_area_struct * | address unsigned long | pfn unsigned long *

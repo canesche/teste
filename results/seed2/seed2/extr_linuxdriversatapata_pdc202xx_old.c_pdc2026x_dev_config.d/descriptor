@@ -1,0 +1,2 @@
+struct ata_device | max_sectors int 
+function pdc2026x_dev_config void | adev struct ata_device *

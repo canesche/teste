@@ -1,0 +1,3 @@
+struct ntc_data | n_comp int | comp struct TYPE_2__ * 
+struct TYPE_2__ | ohm unsigned int 
+function lookup_comp void | data struct ntc_data * | ohm unsigned int | i_low int * | i_high int *

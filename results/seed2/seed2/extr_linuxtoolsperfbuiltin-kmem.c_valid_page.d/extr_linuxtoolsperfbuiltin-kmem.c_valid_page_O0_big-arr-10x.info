@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxtoolsperfbuiltin-kmem.c_valid_page.d/extr_linuxtoolsperfbuiltin-kmem.c_valid_page_O0::valid_page(62)"
+  }
+]

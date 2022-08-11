@@ -1,1 +1,0 @@
-function rpcrt4_ncalrpc_authorize int | conn int * | first_time int | in_buffer unsigned char * | in_size unsigned int | out_buffer unsigned char * | out_size unsigned int *

@@ -1,2 +1,0 @@
-struct hidma_dev | dummy int 
-function hidma_free_msis void | dmadev struct hidma_dev *

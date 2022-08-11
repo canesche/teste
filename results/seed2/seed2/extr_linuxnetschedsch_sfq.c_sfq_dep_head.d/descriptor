@@ -1,0 +1,4 @@
+struct sfq_sched_data | dep struct sfq_head * | slots struct TYPE_2__ * 
+struct sfq_head | dummy int 
+struct TYPE_2__ | dep struct sfq_head 
+function sfq_dep_head struct sfq_head * | q struct sfq_sched_data * | val unsigned long

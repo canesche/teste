@@ -1,2 +1,0 @@
-struct TYPE_3__ | cmd char * | arg char * 
-function conf_ssl_get_cmd void | cmd const struct TYPE_3__ * | idx unsigned long | cmdstr char ** | arg char **

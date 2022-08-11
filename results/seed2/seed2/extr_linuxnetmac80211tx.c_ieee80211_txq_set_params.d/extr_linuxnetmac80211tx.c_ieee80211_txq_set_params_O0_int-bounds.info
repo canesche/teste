@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxnetmac80211tx.c_ieee80211_txq_set_params.d/extr_linuxnetmac80211tx.c_ieee80211_txq_set_params_O0::ieee80211_txq_set_params(67)"
+  }
+]

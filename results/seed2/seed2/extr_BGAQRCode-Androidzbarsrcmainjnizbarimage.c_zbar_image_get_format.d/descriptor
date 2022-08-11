@@ -1,0 +1,2 @@
+struct TYPE_3__ | format unsigned long 
+function zbar_image_get_format unsigned long | img const struct TYPE_3__ *

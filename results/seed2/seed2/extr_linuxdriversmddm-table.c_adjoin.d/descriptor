@@ -1,0 +1,3 @@
+struct dm_target | begin long | len long 
+struct dm_table | num_targets int | targets struct dm_target * 
+function adjoin int | table struct dm_table * | ti struct dm_target *

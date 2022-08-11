@@ -1,2 +1,0 @@
-struct TYPE_3__ | if_mtu int 
-function ifnet_set_mtu int | interface struct TYPE_3__ * | mtu int

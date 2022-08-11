@@ -1,1 +1,0 @@
-value(dictSize) == 255, length(LZ4_streamDecode) == 65025, length(dictionary) == 65025

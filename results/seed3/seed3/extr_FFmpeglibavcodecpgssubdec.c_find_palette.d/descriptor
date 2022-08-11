@@ -1,0 +1,3 @@
+struct TYPE_6__ | id int 
+struct TYPE_5__ | count int | palette struct TYPE_6__ * 
+function find_palette struct TYPE_6__ * | id int | palettes struct TYPE_5__ *

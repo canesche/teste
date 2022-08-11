@@ -1,0 +1,2 @@
+struct device | fwnode void * 
+function arm_smmu_match_node int | dev struct device * | data void *

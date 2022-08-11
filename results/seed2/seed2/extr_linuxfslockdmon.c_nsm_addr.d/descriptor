@@ -1,0 +1,3 @@
+struct sockaddr | dummy int 
+struct nsm_handle | sm_addr int 
+function nsm_addr struct sockaddr * | nsm const struct nsm_handle *

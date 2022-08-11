@@ -1,2 +1,0 @@
-struct radeon_device | family long | pll_errata int 
-function r100_errata void | rdev struct radeon_device *

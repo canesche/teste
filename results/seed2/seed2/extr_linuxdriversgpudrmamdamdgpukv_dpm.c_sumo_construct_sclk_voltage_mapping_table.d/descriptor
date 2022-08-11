@@ -1,0 +1,5 @@
+struct sumo_sclk_voltage_mapping_table | num_max_dpm_entries unsigned long | entries struct TYPE_4__ * 
+struct amdgpu_device | dummy int 
+struct TYPE_5__ | ulSupportedSCLK unsigned long | usVoltageIndex int 
+struct TYPE_4__ | sclk_frequency unsigned long | vid_2bit int 
+function sumo_construct_sclk_voltage_mapping_table void | adev struct amdgpu_device * | sclk_voltage_mapping_table struct sumo_sclk_voltage_mapping_table * | table struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | iSysErrno int 
+function sqlite3_system_errno int | db struct TYPE_3__ *

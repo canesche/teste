@@ -1,0 +1,3 @@
+struct TYPE_4__ | nChannels int | nSamplesPerSec int | nAvgBytesPerSec int | nBlockAlign int | wBitsPerSample int | cbSize long | wFormatTag int 
+struct TYPE_5__ | lpWaveFormat struct TYPE_4__ * | wfxRef struct TYPE_4__ 
+function WAVE_mciDefaultFmt void | wmw struct TYPE_5__ *

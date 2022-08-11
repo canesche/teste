@@ -1,0 +1,2 @@
+struct TYPE_3__ | DR int 
+function SPI_I2S_ReceiveData16 int | SPIx struct TYPE_3__ *

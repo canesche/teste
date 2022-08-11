@@ -1,0 +1,2 @@
+struct rxe_bth | flags int 
+function __bth_mig int | arg void *

@@ -1,0 +1,2 @@
+struct fis_image_desc | dummy int 
+function redboot_checksum int | img struct fis_image_desc *

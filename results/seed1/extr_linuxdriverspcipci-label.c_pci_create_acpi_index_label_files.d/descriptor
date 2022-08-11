@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function pci_create_acpi_index_label_files int | pdev struct pci_dev *

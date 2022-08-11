@@ -1,0 +1,2 @@
+struct tcf_proto | dummy int 
+function mall_init int | tp struct tcf_proto *

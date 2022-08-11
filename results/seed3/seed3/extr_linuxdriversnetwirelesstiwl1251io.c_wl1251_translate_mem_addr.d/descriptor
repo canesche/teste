@@ -1,0 +1,2 @@
+struct wl1251 | physical_mem_addr int | virtual_mem_addr int 
+function wl1251_translate_mem_addr int | wl struct wl1251 * | addr int

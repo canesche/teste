@@ -1,0 +1,2 @@
+struct hfi1_devdata | icode long 
+function ns_to_cclock int | dd struct hfi1_devdata * | ns int

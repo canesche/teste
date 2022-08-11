@@ -1,2 +1,0 @@
-struct rme96 | wcreg int 
-function snd_rme96_getattenuation int | rme96 struct rme96 *

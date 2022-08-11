@@ -1,0 +1,2 @@
+struct lua_obs_timer | next struct lua_obs_timer * | p_prev_next struct lua_obs_timer ** 
+function lua_obs_timer_remove void | timer struct lua_obs_timer *

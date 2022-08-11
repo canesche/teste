@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmamddisplaydcvirtualvirtual_stream_encoder.c_virtual_stream_encoder_stop_dp_info_packets.d/extr_linuxdriversgpudrmamddisplaydcvirtualvirtual_stream_encoder.c_virtual_stream_encoder_stop_dp_info_packets_O0::virtual_stream_encoder_stop_dp_info_packets(61)"
+  }
+]

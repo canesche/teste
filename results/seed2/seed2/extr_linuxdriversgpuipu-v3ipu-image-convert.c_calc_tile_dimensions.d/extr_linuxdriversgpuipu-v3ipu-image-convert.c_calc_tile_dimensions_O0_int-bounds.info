@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpuipu-v3ipu-image-convert.c_calc_tile_dimensions.d/extr_linuxdriversgpuipu-v3ipu-image-convert.c_calc_tile_dimensions_O0::calc_tile_dimensions(70)"
+  }
+]

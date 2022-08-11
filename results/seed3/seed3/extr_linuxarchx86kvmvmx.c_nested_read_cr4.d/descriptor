@@ -1,0 +1,2 @@
+struct vmcs12 | guest_cr4 unsigned long | cr4_guest_host_mask unsigned long | cr4_read_shadow unsigned long 
+function nested_read_cr4 unsigned long | fields struct vmcs12 *

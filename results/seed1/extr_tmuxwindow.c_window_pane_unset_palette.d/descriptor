@@ -1,2 +1,0 @@
-struct window_pane | flags int | palette long * 
-function window_pane_unset_palette void | wp struct window_pane * | n int

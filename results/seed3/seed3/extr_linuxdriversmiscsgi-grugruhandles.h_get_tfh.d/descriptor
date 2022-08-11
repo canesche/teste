@@ -1,0 +1,2 @@
+struct gru_tlb_fault_handle | dummy int 
+function get_tfh struct gru_tlb_fault_handle * | base void * | ctxnum int

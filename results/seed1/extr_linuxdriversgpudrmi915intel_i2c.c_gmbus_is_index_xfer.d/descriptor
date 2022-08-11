@@ -1,2 +1,0 @@
-struct i2c_msg | addr long | flags int | len int 
-function gmbus_is_index_xfer int | msgs struct i2c_msg * | i int | num int

@@ -1,2 +1,0 @@
-struct net | dev_base_seq long 
-function dev_base_seq_inc void | net struct net *

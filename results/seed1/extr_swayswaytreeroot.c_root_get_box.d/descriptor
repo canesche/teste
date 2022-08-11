@@ -1,3 +1,0 @@
-struct wlr_box | height int | width int | y int | x int 
-struct sway_root | height int | width int | y int | x int 
-function root_get_box void | root struct sway_root * | box struct wlr_box *

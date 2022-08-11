@@ -1,0 +1,4 @@
+struct sumo_vid_mapping_table | num_entries unsigned long | entries struct TYPE_2__ * 
+struct radeon_device | dummy int 
+struct TYPE_2__ | vid_2bit unsigned long | vid_7bit unsigned long 
+function sumo_convert_vid2_to_vid7 unsigned long | rdev struct radeon_device * | vid_mapping_table struct sumo_vid_mapping_table * | vid_2bit unsigned long

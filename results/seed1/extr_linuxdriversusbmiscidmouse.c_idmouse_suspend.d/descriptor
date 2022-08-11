@@ -1,2 +1,0 @@
-struct usb_interface | dummy int 
-function idmouse_suspend int | intf struct usb_interface * | message int

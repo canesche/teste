@@ -1,0 +1,2 @@
+struct color | red long | green long | blue long 
+function is_gray int | c struct color

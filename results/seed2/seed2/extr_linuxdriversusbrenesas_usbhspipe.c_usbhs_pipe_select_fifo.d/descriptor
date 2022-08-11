@@ -1,0 +1,3 @@
+struct usbhs_pipe | fifo struct usbhs_fifo * 
+struct usbhs_fifo | pipe struct usbhs_pipe * 
+function usbhs_pipe_select_fifo void | pipe struct usbhs_pipe * | fifo struct usbhs_fifo *

@@ -1,0 +1,4 @@
+struct dm_cache_policy_type | name const char * | real struct TYPE_2__ * 
+struct dm_cache_policy | private struct dm_cache_policy_type * 
+struct TYPE_2__ | name const char * 
+function dm_cache_policy_get_name const char * | p struct dm_cache_policy *

@@ -1,0 +1,2 @@
+struct mmp_overlay | dmafetch_id int 
+function overlay_set_fetch void | overlay struct mmp_overlay * | fetch_id int

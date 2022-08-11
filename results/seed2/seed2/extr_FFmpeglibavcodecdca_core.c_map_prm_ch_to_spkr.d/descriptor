@@ -1,0 +1,2 @@
+struct TYPE_3__ | audio_mode unsigned long | ext_audio_mask int | xxch_core_mask unsigned int | xxch_mask_nbits int | xxch_spkr_mask unsigned int 
+function map_prm_ch_to_spkr int | s struct TYPE_3__ * | ch int

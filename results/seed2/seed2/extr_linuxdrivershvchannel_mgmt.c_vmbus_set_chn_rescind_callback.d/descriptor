@@ -1,0 +1,2 @@
+struct vmbus_channel | chn_rescind_callback void (*)(struct vmbus_channel *) 
+function vmbus_set_chn_rescind_callback void | channel struct vmbus_channel * | chn_rescind_cb void (*)(struct vmbus_channel *)

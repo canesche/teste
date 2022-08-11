@@ -1,0 +1,1 @@
+function hfi1_get_16b_padding int | hdr_size int | payload int

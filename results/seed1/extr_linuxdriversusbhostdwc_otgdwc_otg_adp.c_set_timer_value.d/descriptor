@@ -1,3 +1,0 @@
-struct TYPE_4__ | probe_timer_values int * 
-struct TYPE_5__ | adp struct TYPE_4__ 
-function set_timer_value int | core_if struct TYPE_5__ * | val int

@@ -1,0 +1,2 @@
+struct mlx4_bitmap | max int | reserved_top int 
+function mlx4_bitmap_masked_value int | bitmap struct mlx4_bitmap * | obj int

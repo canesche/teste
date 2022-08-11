@@ -1,1 +1,0 @@
-value(header_length) == 255, length(skb) == 65025, length(rxdesc) == 65025

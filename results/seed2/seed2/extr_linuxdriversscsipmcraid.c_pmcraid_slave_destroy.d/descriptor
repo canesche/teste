@@ -1,0 +1,3 @@
+struct scsi_device | hostdata int * 
+struct pmcraid_resource_entry | scsi_dev int * 
+function pmcraid_slave_destroy void | scsi_dev struct scsi_device *

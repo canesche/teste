@@ -1,0 +1,4 @@
+struct vm_area_struct | dummy int 
+struct snd_pcm_substream | dummy int 
+struct file | dummy int 
+function snd_pcm_mmap_control int | substream struct snd_pcm_substream * | file struct file * | area struct vm_area_struct *

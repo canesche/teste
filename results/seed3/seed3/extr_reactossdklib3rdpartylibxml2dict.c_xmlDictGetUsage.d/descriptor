@@ -1,0 +1,3 @@
+struct TYPE_5__ | strings struct TYPE_4__ * 
+struct TYPE_4__ | next struct TYPE_4__ * | size long 
+function xmlDictGetUsage unsigned long | dict struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct module | dummy int 
+function mod_tree_remove_init void | mod struct module *

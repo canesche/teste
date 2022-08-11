@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function sn_startup_irq unsigned int | data struct irq_data *

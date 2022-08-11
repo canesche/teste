@@ -1,0 +1,4 @@
+struct stream | recorder struct recorder * | decoder struct decoder * | socket int 
+struct recorder | dummy int 
+struct decoder | dummy int 
+function stream_init void | stream struct stream * | socket int | decoder struct decoder * | recorder struct recorder *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | u32 int 
+function LZ4_read32 int | ptr const void *

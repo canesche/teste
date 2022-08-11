@@ -1,0 +1,4 @@
+struct reiserfs_security_handle | dummy int 
+struct qstr | dummy int 
+struct inode | dummy int 
+function reiserfs_security_init int | dir struct inode * | inode struct inode * | qstr const struct qstr * | sec struct reiserfs_security_handle *

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function snd_gusmax_match int | pdev struct device * | dev unsigned int

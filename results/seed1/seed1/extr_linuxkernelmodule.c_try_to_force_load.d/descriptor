@@ -1,0 +1,2 @@
+struct module | dummy int 
+function try_to_force_load int | mod struct module * | reason const char *

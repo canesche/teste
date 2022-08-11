@@ -1,2 +1,0 @@
-struct LED_871x | bLedOn int | bLedBlinkInProgress int | bLedWPSBlinkInProgress int | bLedNoLinkBlinkInProgress int | bLedLinkBlinkInProgress int | bLedScanBlinkInProgress int | BlinkingLedState int | BlinkTimes long | CurrLedState int 
-function ResetLedStatus void | pLed struct LED_871x *

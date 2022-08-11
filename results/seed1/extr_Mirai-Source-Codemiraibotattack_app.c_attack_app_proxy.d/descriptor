@@ -1,3 +1,0 @@
-struct attack_target | dummy int 
-struct attack_option | dummy int 
-function attack_app_proxy void | targs_len int | targs struct attack_target * | opts_len int | opts struct attack_option *

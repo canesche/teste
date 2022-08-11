@@ -1,0 +1,2 @@
+struct gfs2_glock | dummy int 
+function freeze_go_demote_ok int | gl const struct gfs2_glock *

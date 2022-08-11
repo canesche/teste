@@ -1,0 +1,6 @@
+struct urb | dev struct TYPE_6__ * 
+struct dwc2_hsotg | dummy int 
+struct TYPE_6__ | ttport int | tt struct TYPE_5__ * 
+struct TYPE_5__ | hub struct TYPE_4__ * 
+struct TYPE_4__ | devnum int 
+function dwc2_host_hub_info void | hsotg struct dwc2_hsotg * | context void * | hub_addr int * | hub_port int *

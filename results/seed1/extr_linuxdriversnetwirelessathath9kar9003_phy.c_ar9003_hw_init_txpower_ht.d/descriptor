@@ -1,2 +1,0 @@
-struct ath_hw | tx_power int * 
-function ar9003_hw_init_txpower_ht void | ah struct ath_hw * | rate_array int * | ss_offset int | ds_offset int | ts_offset int | is_40 int

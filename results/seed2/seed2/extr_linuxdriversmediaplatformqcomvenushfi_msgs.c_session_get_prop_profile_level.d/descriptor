@@ -1,0 +1,5 @@
+struct hfi_profile_level | level int | profile int 
+struct TYPE_3__ | size int 
+struct TYPE_4__ | hdr struct TYPE_3__ 
+struct hfi_msg_session_property_info_pkt | data int * | shdr struct TYPE_4__ 
+function session_get_prop_profile_level unsigned int | pkt struct hfi_msg_session_property_info_pkt * | profile_level struct hfi_profile_level *

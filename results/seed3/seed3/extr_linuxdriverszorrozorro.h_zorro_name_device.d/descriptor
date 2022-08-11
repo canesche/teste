@@ -1,0 +1,2 @@
+struct zorro_dev | dummy int 
+function zorro_name_device void | dev struct zorro_dev *

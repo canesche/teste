@@ -1,0 +1,2 @@
+struct databuffer | header long 
+function databuffer_reset void | db struct databuffer *

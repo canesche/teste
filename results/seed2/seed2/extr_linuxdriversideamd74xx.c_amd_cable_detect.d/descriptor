@@ -1,0 +1,2 @@
+struct TYPE_3__ | channel int 
+function amd_cable_detect int | hwif struct TYPE_3__ *

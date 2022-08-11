@@ -1,0 +1,2 @@
+struct intel_iommu | flags int 
+function ir_pre_enabled int | iommu struct intel_iommu *

@@ -1,4 +1,0 @@
-struct sk_buff | dummy int 
-struct macb_dma_desc | dummy int 
-struct macb | dummy int 
-function gem_ptp_do_rxstamp void | bp struct macb * | skb struct sk_buff * | desc struct macb_dma_desc *

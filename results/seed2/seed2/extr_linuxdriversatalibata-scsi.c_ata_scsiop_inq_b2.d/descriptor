@@ -1,0 +1,2 @@
+struct ata_scsi_args | dummy int 
+function ata_scsiop_inq_b2 unsigned int | args struct ata_scsi_args * | rbuf int *

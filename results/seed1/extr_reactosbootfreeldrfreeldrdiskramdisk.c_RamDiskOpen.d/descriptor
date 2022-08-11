@@ -1,1 +1,0 @@
-function RamDiskOpen int | Path int * | OpenMode int | FileId int *

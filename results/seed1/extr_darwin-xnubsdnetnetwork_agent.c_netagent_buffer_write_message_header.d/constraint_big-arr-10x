@@ -1,1 +1,0 @@
-length(buffer) == 100, length(message_type) == 100, length(flags) == 100, length(message_id) == 100, length(error) == 100, length(payload_length) == 100

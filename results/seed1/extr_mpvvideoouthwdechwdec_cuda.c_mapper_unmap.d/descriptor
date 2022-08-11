@@ -1,2 +1,0 @@
-struct ra_hwdec_mapper | dummy int 
-function mapper_unmap void | mapper struct ra_hwdec_mapper *

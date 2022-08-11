@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 294,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_emscriptensystemliblibcmuslsrcregexregexec.c_tre_tag_order.d/extr_emscriptensystemliblibcmuslsrcregexregexec.c_tre_tag_order_O0::tre_tag_order(64)"
+  }
+]

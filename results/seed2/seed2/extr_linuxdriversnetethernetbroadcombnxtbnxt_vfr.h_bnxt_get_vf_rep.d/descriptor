@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct bnxt | dummy int 
+function bnxt_get_vf_rep struct net_device * | bp struct bnxt * | cfa_code int

@@ -1,0 +1,4 @@
+struct TYPE_3__ | auth_type int 
+struct TYPE_4__ | connect struct TYPE_3__ 
+struct wireless_dev | wext struct TYPE_4__ 
+function cfg80211_set_auth_alg int | wdev struct wireless_dev * | auth_alg int

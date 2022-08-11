@@ -1,0 +1,2 @@
+struct wlr_box | height int | width int | x int | y int 
+function resize_box void | box struct wlr_box * | edge enum wlr_edges | thickness int

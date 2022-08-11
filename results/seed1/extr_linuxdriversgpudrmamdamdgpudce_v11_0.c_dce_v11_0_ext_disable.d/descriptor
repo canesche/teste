@@ -1,2 +1,0 @@
-struct drm_encoder | dummy int 
-function dce_v11_0_ext_disable void | encoder struct drm_encoder *

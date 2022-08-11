@@ -1,0 +1,4 @@
+struct xfs_dir3_leaf_hdr | dummy int 
+struct xfs_dir3_icleaf_hdr | count int | stale int | magic long 
+struct xfs_dir2_leaf_hdr | dummy int 
+function xfs_dir3_leaf_size unsigned long | hdr struct xfs_dir3_icleaf_hdr * | counts int

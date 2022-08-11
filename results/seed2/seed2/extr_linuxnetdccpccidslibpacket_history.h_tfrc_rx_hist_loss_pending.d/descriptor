@@ -1,0 +1,2 @@
+struct tfrc_rx_hist | loss_count long 
+function tfrc_rx_hist_loss_pending int | h const struct tfrc_rx_hist *

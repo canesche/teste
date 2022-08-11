@@ -1,0 +1,2 @@
+struct ltq_mfp_pin | func unsigned int * 
+function match_mux int | mfp const struct ltq_mfp_pin * | mux unsigned int

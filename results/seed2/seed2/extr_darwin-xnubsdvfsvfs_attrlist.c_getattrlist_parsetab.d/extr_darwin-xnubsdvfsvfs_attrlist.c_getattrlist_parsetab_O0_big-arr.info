@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 18,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 29,
+    static: {
+      instructions: 85,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15325,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_darwin-xnubsdvfsvfs_attrlist.c_getattrlist_parsetab.d/extr_darwin-xnubsdvfsvfs_attrlist.c_getattrlist_parsetab_O0::getattrlist_parsetab(72)"
+  }
+]

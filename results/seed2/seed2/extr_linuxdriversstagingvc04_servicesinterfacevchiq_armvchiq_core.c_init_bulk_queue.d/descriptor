@@ -1,0 +1,2 @@
+struct TYPE_3__ | remove long | remote_notify long | process long | remote_insert long | local_insert long 
+function init_bulk_queue void | queue struct TYPE_3__ *

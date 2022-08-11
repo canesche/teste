@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverspowersupplyrt9455_charger.c_rt9455_is_writeable_reg.d/extr_linuxdriverspowersupplyrt9455_charger.c_rt9455_is_writeable_reg_O0::rt9455_is_writeable_reg(65)"
+  }
+]

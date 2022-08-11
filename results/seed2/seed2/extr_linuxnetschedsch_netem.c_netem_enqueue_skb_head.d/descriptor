@@ -1,0 +1,3 @@
+struct sk_buff | next struct sk_buff * 
+struct qdisc_skb_head | qlen int | head struct sk_buff * | tail struct sk_buff * 
+function netem_enqueue_skb_head void | qh struct qdisc_skb_head * | skb struct sk_buff *

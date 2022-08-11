@@ -1,0 +1,2 @@
+struct cb_desc | bUseShortPreamble long | bUseShortGI long 
+function _rtl92e_query_is_short int | TxHT int | TxRate int | tcb_desc struct cb_desc *

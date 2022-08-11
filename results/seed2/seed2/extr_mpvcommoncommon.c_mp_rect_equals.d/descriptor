@@ -1,0 +1,2 @@
+struct mp_rect | x0 long | y0 long | x1 long | y1 long 
+function mp_rect_equals int | rc1 struct mp_rect * | rc2 struct mp_rect *

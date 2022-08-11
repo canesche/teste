@@ -1,0 +1,3 @@
+struct vmci_queue | kernel_if struct TYPE_2__ * 
+struct TYPE_2__ | mutex int * | host long 
+function qp_cleanup_queue_mutex void | produce_q struct vmci_queue * | consume_q struct vmci_queue *

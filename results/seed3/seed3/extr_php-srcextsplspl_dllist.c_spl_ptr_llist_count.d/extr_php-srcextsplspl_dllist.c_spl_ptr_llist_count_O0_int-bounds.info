@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_php-srcextsplspl_dllist.c_spl_ptr_llist_count.d/extr_php-srcextsplspl_dllist.c_spl_ptr_llist_count_O0::spl_ptr_llist_count(64)"
+  }
+]

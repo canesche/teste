@@ -1,0 +1,6 @@
+struct TYPE_2__ | ofdm_index int * 
+struct rtl_priv | dm struct TYPE_2__ 
+struct rtl_phy | current_channel int 
+struct rtl_hal | macphymode long | interfaceindex int 
+struct rtl_efuse | internal_pa_5g int * | eeprom_thermalmeter int 
+function rtl92d_bandtype_5G void | rtlhal struct rtl_hal * | ofdm_index int * | internal_pa int * | thermalvalue int | delta int | rf int | rtlefuse struct rtl_efuse * | rtlpriv struct rtl_priv * | rtlphy struct rtl_phy * | index_mapping int [5][INDEX_MAPPING_NUM] | index_mapping_pa int [8][INDEX_MAPPING_NUM]

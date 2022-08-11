@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessbroadcombrcm80211brcmsmacphyphy_n.c_wlc_phy_ofdm_to_mcs_powers_nphy.d/extr_linuxdriversnetwirelessbroadcombrcm80211brcmsmacphyphy_n.c_wlc_phy_ofdm_to_mcs_powers_nphy_O0::wlc_phy_ofdm_to_mcs_powers_nphy(63)"
+  }
+]

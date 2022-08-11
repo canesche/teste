@@ -1,0 +1,2 @@
+struct irq_desc | dummy int 
+function register_irq_proc void | irq unsigned int | desc struct irq_desc *

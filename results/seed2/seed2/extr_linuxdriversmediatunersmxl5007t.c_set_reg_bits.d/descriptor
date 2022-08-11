@@ -1,0 +1,2 @@
+struct reg_pair_t | reg long | val long 
+function set_reg_bits void | reg_pair struct reg_pair_t * | reg long | mask long | val long

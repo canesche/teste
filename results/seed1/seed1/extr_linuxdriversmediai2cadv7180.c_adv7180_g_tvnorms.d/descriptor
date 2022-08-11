@@ -1,0 +1,2 @@
+struct v4l2_subdev | dummy int 
+function adv7180_g_tvnorms int | sd struct v4l2_subdev * | norm int *

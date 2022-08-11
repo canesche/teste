@@ -1,0 +1,2 @@
+struct bpf_map | name const char * 
+function bpf_map__name const char * | map struct bpf_map *

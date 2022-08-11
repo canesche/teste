@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetethernethisiliconhns3hns3_ethtool.c_hns3_get_stats_tqps.d/extr_linuxdriversnetethernethisiliconhns3hns3_ethtool.c_hns3_get_stats_tqps_O0::hns3_get_stats_tqps(76)"
+  }
+]

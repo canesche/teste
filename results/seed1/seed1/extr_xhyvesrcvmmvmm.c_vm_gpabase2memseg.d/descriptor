@@ -1,0 +1,4 @@
+struct vm_memory_segment | gpa long | len int 
+struct vm | num_mem_segs int | mem_segs struct TYPE_2__ * 
+struct TYPE_2__ | gpa long | len int 
+function vm_gpabase2memseg int | vm struct vm * | gpabase long | seg struct vm_memory_segment *

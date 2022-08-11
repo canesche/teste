@@ -1,0 +1,2 @@
+struct max732x_chip | mask_group_a unsigned int 
+function is_group_a int | chip struct max732x_chip * | off unsigned int

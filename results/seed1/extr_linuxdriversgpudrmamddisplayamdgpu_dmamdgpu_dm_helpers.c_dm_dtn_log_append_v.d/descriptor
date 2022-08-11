@@ -1,2 +1,0 @@
-struct dc_context | dummy int 
-function dm_dtn_log_append_v void | ctx struct dc_context * | pMsg const char *

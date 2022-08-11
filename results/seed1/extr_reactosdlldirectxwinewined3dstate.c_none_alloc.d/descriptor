@@ -1,2 +1,0 @@
-struct wined3d_shader_backend_ops | dummy int 
-function none_alloc void * | shader_backend const struct wined3d_shader_backend_ops * | shader_priv void *

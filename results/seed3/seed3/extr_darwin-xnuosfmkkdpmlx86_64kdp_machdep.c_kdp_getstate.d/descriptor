@@ -1,0 +1,5 @@
+struct TYPE_7__ | gs int | fs int | cs int | rip int | rflags int | rsp int | r15 int | r14 int | r13 int | r12 int | r11 int | r10 int | r9 int | r8 int | rbp int | rsi int | rdi int | rdx int | rcx int | rbx int | rax int 
+struct TYPE_6__ | cs int | rip int | rflags int | rsp int 
+struct TYPE_8__ | gs int | fs int | isf struct TYPE_6__ | r15 int | r14 int | r13 int | r12 int | r11 int | r10 int | r9 int | r8 int | rbp int | rsi int | rdi int | rdx int | rcx int | rbx int | rax int 
+struct TYPE_9__ | saved_state long 
+function kdp_getstate void | state struct TYPE_7__ *

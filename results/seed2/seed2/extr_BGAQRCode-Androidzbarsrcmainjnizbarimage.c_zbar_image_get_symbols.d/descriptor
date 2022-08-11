@@ -1,0 +1,2 @@
+struct TYPE_3__ | syms const int * 
+function zbar_image_get_symbols const int * | img const struct TYPE_3__ *

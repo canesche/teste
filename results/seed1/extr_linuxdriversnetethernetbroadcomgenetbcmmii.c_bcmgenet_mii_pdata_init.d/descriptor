@@ -1,6 +1,0 @@
-struct unimac_mdio_pdata | phy_mask int 
-struct device | platform_data struct bcmgenet_platform_data * 
-struct bcmgenet_priv | pdev struct TYPE_2__ * 
-struct bcmgenet_platform_data | phy_interface long | phy_address int | mdio_enabled long 
-struct TYPE_2__ | dev struct device 
-function bcmgenet_mii_pdata_init void | priv struct bcmgenet_priv * | ppd struct unimac_mdio_pdata *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | rx_pause long | tx_pause long 
+struct mlxsw_sp_port | link struct TYPE_2__ 
+function mlxsw_sp_port_is_pause_en int | mlxsw_sp_port const struct mlxsw_sp_port *

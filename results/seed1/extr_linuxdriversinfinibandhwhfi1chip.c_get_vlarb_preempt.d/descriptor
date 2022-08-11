@@ -1,3 +1,0 @@
-struct ib_vl_weight_elem | vl int | weight long 
-struct hfi1_devdata | dummy int 
-function get_vlarb_preempt void | dd struct hfi1_devdata * | nelems unsigned int | vl struct ib_vl_weight_elem *

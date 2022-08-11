@@ -1,5 +1,0 @@
-struct dsa_switch | priv struct dsa_loop_priv * 
-struct dsa_loop_priv | ports struct TYPE_4__ * 
-struct TYPE_4__ | mib struct TYPE_3__ * 
-struct TYPE_3__ | val int 
-function dsa_loop_get_ethtool_stats void | ds struct dsa_switch * | port int | data int *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | v_lflag int | v_type int | v_data int * | v_tag int | v_op int | v_mount int * 
+function vn_set_dead void | vp struct TYPE_3__ *

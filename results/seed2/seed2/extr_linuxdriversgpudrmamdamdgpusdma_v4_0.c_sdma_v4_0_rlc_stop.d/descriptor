@@ -1,0 +1,2 @@
+struct amdgpu_device | dummy int 
+function sdma_v4_0_rlc_stop void | adev struct amdgpu_device *

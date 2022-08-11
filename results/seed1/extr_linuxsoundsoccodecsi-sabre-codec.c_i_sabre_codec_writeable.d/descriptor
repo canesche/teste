@@ -1,2 +1,0 @@
-struct device | dummy int 
-function i_sabre_codec_writeable int | dev struct device * | reg unsigned int

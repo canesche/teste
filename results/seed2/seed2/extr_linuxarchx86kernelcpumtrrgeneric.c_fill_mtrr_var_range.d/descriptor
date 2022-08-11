@@ -1,0 +1,3 @@
+struct mtrr_var_range | mask_hi void * | mask_lo void * | base_hi void * | base_lo void * 
+struct TYPE_2__ | var_ranges struct mtrr_var_range * 
+function fill_mtrr_var_range void | index unsigned int | base_lo void * | base_hi void * | mask_lo void * | mask_hi void *

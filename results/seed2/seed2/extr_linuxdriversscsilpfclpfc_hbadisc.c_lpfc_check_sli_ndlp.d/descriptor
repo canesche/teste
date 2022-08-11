@@ -1,0 +1,10 @@
+struct lpfc_vport | dummy int 
+struct lpfc_sli_ring | ringno long 
+struct lpfc_nodelist | nlp_type int | nlp_flag int | nlp_rpi long | nlp_DID int | vport struct lpfc_vport * 
+struct TYPE_5__ | ndlp struct lpfc_nodelist * 
+struct TYPE_6__ | remoteID int 
+struct TYPE_7__ | elsreq64 struct TYPE_6__ 
+struct TYPE_8__ | ulpCommand int | ulpContext volatile long | un struct TYPE_7__ 
+struct lpfc_iocbq | context1 int * | context_un struct TYPE_5__ | vport struct lpfc_vport * | iocb struct TYPE_8__ 
+struct lpfc_hba | dummy int 
+function lpfc_check_sli_ndlp int | phba struct lpfc_hba * | pring struct lpfc_sli_ring * | iocb struct lpfc_iocbq * | ndlp struct lpfc_nodelist *

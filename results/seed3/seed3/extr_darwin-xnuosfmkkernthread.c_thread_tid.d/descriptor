@@ -1,0 +1,2 @@
+struct TYPE_4__ | thread_id int 
+function thread_tid int | thread struct TYPE_4__ *

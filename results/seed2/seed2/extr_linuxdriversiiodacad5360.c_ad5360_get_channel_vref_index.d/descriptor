@@ -1,0 +1,3 @@
+struct ad5360_state | chip_info struct TYPE_2__ * 
+struct TYPE_2__ | channels_per_group unsigned int | num_vrefs unsigned int 
+function ad5360_get_channel_vref_index unsigned int | st struct ad5360_state * | channel unsigned int

@@ -1,9 +1,0 @@
-struct vega12_single_dpm_table | count long | dpm_levels struct TYPE_7__ * 
-struct TYPE_6__ | dcef_table struct vega12_single_dpm_table 
-struct vega12_hwmgr | dpm_table struct TYPE_6__ | smu_features struct TYPE_5__ * 
-struct pp_hwmgr | backend long 
-struct pp_clock_levels_with_latency | num_levels int | data struct TYPE_8__ * 
-struct TYPE_8__ | clocks_in_khz int | latency_in_us long 
-struct TYPE_7__ | value int 
-struct TYPE_5__ | enabled int 
-function vega12_get_dcefclocks int | hwmgr struct pp_hwmgr * | clocks struct pp_clock_levels_with_latency *

@@ -1,0 +1,2 @@
+struct ttm_mem_type_manager | dummy int 
+function ttm_bo_man_takedown int | man struct ttm_mem_type_manager *

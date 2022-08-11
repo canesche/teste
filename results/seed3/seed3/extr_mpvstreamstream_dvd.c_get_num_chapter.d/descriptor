@@ -1,0 +1,6 @@
+struct TYPE_11__ | nr_of_srpts int | title struct TYPE_10__ * 
+struct TYPE_12__ | vts_ptt_srpt struct TYPE_9__ * 
+struct TYPE_10__ | vts_ttn int 
+struct TYPE_9__ | nr_of_srpts int | title struct TYPE_8__ * 
+struct TYPE_8__ | nr_of_ptts int 
+function get_num_chapter int | vts_file struct TYPE_12__ * | tt_srpt struct TYPE_11__ * | title_no int

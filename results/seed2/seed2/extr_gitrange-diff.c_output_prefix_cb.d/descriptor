@@ -1,0 +1,2 @@
+struct diff_options | dummy int 
+function output_prefix_cb struct strbuf * | opt struct diff_options * | data void *

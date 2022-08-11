@@ -1,0 +1,2 @@
+struct TYPE_3__ | frame_start_found int | state int 
+function h261_find_frame_end int | pc struct TYPE_3__ * | avctx int * | buf const int * | buf_size int

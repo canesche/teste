@@ -1,0 +1,2 @@
+struct vivid_rds_gen | dyn_pty int | compressed int | art_head int | mono_stereo int 
+function vivid_get_di int | rds const struct vivid_rds_gen * | grp unsigned int

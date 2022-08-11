@@ -1,0 +1,2 @@
+struct TYPE_3__ | name const char * 
+function ossl_provider_name const char * | prov struct TYPE_3__ *

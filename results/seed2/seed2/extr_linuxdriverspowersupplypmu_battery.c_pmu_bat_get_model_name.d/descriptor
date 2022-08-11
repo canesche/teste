@@ -1,0 +1,2 @@
+struct pmu_battery_info | flags int 
+function pmu_bat_get_model_name char * | pbi struct pmu_battery_info *

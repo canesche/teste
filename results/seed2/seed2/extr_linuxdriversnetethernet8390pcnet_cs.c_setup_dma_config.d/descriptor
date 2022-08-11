@@ -1,0 +1,4 @@
+struct pcmcia_device | priv struct net_device * 
+struct net_device | dummy int 
+struct TYPE_2__ | tx_start_page int | stop_page int | block_output int | block_input int | get_8390_hdr int | rx_start_page long 
+function setup_dma_config int | link struct pcmcia_device * | start_pg int | stop_pg int

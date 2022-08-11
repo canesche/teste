@@ -1,3 +1,0 @@
-struct xhci_trb | dummy int 
-struct xhci_segment | dma long | trbs union xhci_trb * 
-function xhci_trb_virt_to_dma long | seg struct xhci_segment * | trb union xhci_trb *

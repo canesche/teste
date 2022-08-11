@@ -1,0 +1,2 @@
+struct bitstr | cur long * | end long * | bit long 
+function nf_h323_error_boundary int | bs struct bitstr * | bytes unsigned long | bits unsigned long

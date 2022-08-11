@@ -1,0 +1,1 @@
+function spiffs_fflush_cache int | fs int * | fh int

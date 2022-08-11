@@ -1,0 +1,3 @@
+struct TYPE_5__ | TupleDataLen int | TupleData long 
+struct TYPE_6__ | data void ** | type void * 
+function parse_funce int | tuple struct TYPE_5__ * | f struct TYPE_6__ *

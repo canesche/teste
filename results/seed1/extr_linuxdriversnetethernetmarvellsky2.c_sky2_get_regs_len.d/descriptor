@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function sky2_get_regs_len int | dev struct net_device *

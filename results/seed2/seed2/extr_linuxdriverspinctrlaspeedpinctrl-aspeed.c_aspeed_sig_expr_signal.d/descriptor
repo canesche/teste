@@ -1,0 +1,2 @@
+struct aspeed_sig_expr | signal const char * 
+function aspeed_sig_expr_signal const char * | expr const struct aspeed_sig_expr *

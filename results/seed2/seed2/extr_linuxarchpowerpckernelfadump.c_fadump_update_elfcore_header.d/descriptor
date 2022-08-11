@@ -1,0 +1,4 @@
+struct elfhdr | dummy int 
+struct elf_phdr | p_type long | p_memsz int | p_filesz int | p_paddr int | p_offset int 
+struct TYPE_2__ | cpu_notes_buf_size int | cpu_notes_buf int 
+function fadump_update_elfcore_header void | bufp char *

@@ -1,0 +1,1 @@
+function THDiskFile_reverseMemory void | dst void * | src const void * | blockSize unsigned long | numBlocks unsigned long

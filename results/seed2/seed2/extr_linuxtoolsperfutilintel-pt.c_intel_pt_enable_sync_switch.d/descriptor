@@ -1,0 +1,5 @@
+struct intel_pt_queue | sync_switch int 
+struct TYPE_2__ | nr_queues unsigned int | queue_array struct auxtrace_queue * 
+struct intel_pt | sync_switch int | queues struct TYPE_2__ 
+struct auxtrace_queue | priv struct intel_pt_queue * 
+function intel_pt_enable_sync_switch void | pt struct intel_pt *

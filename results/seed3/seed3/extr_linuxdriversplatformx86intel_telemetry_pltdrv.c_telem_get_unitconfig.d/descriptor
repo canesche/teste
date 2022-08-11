@@ -1,0 +1,3 @@
+struct telemetry_unit_config | dummy int 
+struct TYPE_2__ | ioss_config struct telemetry_unit_config | pss_config struct telemetry_unit_config 
+function telem_get_unitconfig int | telem_unit enum telemetry_unit | unit_config struct telemetry_unit_config **

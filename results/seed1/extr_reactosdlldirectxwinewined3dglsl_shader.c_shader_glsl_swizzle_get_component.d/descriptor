@@ -1,1 +1,0 @@
-function shader_glsl_swizzle_get_component unsigned int | swizzle int | component_idx unsigned int

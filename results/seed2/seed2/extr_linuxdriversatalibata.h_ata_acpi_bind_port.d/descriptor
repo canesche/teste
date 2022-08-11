@@ -1,0 +1,2 @@
+struct ata_port | dummy int 
+function ata_acpi_bind_port void | ap struct ata_port *

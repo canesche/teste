@@ -1,2 +1,0 @@
-struct usba_udc | dummy int 
-function usba_cleanup_debugfs void | udc struct usba_udc *

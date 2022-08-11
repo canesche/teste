@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxfscifsreaddir.c_cifs_fill_common_info.d/extr_linuxfscifsreaddir.c_cifs_fill_common_info_O0::cifs_fill_common_info(79)"
+  }
+]

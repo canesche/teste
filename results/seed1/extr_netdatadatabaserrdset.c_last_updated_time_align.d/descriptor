@@ -1,3 +1,0 @@
-struct TYPE_4__ | tv_sec int | tv_usec long 
-struct TYPE_5__ | update_every int | last_updated struct TYPE_4__ 
-function last_updated_time_align void | st struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct object_entry | type_ int | type_valid long 
+function oe_type enum object_type | e const struct object_entry *

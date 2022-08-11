@@ -1,2 +1,0 @@
-struct snd_emux | dummy int 
-function snd_emux_proc_free void | emu struct snd_emux *

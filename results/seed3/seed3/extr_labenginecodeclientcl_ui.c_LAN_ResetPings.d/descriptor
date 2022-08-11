@@ -1,0 +1,3 @@
+struct TYPE_3__ | ping int 
+struct TYPE_4__ | favoriteServers struct TYPE_3__ * | globalServers struct TYPE_3__ * | localServers struct TYPE_3__ * 
+function LAN_ResetPings void | source int

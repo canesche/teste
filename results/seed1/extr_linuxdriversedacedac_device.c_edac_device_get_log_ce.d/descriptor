@@ -1,2 +1,0 @@
-struct edac_device_ctl_info | log_ce int 
-function edac_device_get_log_ce int | edac_dev struct edac_device_ctl_info *

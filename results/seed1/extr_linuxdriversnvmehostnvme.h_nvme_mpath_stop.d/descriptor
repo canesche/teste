@@ -1,2 +1,0 @@
-struct nvme_ctrl | dummy int 
-function nvme_mpath_stop void | ctrl struct nvme_ctrl *

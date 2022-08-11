@@ -1,0 +1,3 @@
+struct rdma_ah_attr | dummy int 
+struct ib_ah | dummy int 
+function bnxt_re_modify_ah int | ib_ah struct ib_ah * | ah_attr struct rdma_ah_attr *

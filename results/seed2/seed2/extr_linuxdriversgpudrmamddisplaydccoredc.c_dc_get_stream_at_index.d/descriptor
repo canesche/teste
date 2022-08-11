@@ -1,0 +1,4 @@
+struct dc_stream_state | dummy int 
+struct dc | current_state struct TYPE_2__ * 
+struct TYPE_2__ | stream_count unsigned long | streams struct dc_stream_state ** 
+function dc_get_stream_at_index struct dc_stream_state * | dc struct dc * | i unsigned long

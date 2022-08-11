@@ -1,2 +1,0 @@
-struct halmac_adapter | dummy int 
-function halmac_interface_integration_tuning_8822b_sdio enum halmac_ret_status | halmac_adapter struct halmac_adapter *

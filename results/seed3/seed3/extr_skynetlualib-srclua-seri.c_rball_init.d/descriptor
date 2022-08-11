@@ -1,0 +1,2 @@
+struct read_block | buffer char * | len int | ptr long 
+function rball_init void | rb struct read_block * | buffer char * | size int

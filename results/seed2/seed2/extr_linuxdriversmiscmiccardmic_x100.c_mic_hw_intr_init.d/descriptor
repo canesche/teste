@@ -1,0 +1,3 @@
+struct TYPE_2__ | num_intr long 
+struct mic_driver | intr_info struct TYPE_2__ 
+function mic_hw_intr_init void | mdrv struct mic_driver *

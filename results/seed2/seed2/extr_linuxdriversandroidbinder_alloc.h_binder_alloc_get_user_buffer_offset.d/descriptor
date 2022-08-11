@@ -1,0 +1,2 @@
+struct binder_alloc | user_buffer_offset int 
+function binder_alloc_get_user_buffer_offset int | alloc struct binder_alloc *

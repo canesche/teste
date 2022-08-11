@@ -1,0 +1,2 @@
+struct hwcontext_fns | av_hwdevice_type int 
+function hwdec_get_hwcontext_fns const struct hwcontext_fns * | av_hwdevice_type int

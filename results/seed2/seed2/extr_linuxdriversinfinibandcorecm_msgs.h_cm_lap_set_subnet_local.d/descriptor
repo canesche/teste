@@ -1,0 +1,2 @@
+struct cm_lap_msg | offset62 int | offset61 int 
+function cm_lap_set_subnet_local void | lap_msg struct cm_lap_msg * | subnet_local int

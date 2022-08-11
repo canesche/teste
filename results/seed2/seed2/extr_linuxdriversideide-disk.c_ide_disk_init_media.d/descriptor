@@ -1,0 +1,2 @@
+struct gendisk | dummy int 
+function ide_disk_init_media int | drive int * | disk struct gendisk *

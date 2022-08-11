@@ -1,0 +1,2 @@
+struct meson_pmx_bank | first unsigned int | reg int | offset int 
+function meson_pmx_calc_reg_and_offset int | bank struct meson_pmx_bank * | pin unsigned int | reg unsigned int * | offset unsigned int *

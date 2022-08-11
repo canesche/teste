@@ -1,2 +1,0 @@
-struct ddcb_queue | ddcb_next long | ddcb_act long 
-function queue_empty int | queue struct ddcb_queue *

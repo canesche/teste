@@ -1,9 +1,0 @@
-struct TYPE_7__ | sival_int int 
-struct TYPE_8__ | size_equivalent struct TYPE_7__ 
-struct TYPE_11__ | sigev_notify_attributes int | sigev_notify_function int | sigev_value struct TYPE_8__ | sigev_signo int | sigev_notify int 
-struct user_aiocb | aio_sigevent struct TYPE_11__ | aio_lio_opcode int | aio_reqprio int | aio_nbytes int | aio_buf int | aio_offset int | aio_fildes int 
-struct TYPE_9__ | sival_int int 
-struct TYPE_10__ | size_equivalent struct TYPE_9__ 
-struct TYPE_12__ | sigev_notify_attributes int | sigev_notify_function int | sigev_value struct TYPE_10__ | sigev_signo int | sigev_notify int 
-struct user64_aiocb | aio_sigevent struct TYPE_12__ | aio_lio_opcode int | aio_reqprio int | aio_nbytes int | aio_buf int | aio_offset int | aio_fildes int 
-function do_munge_aiocb_user64_to_user void | my_aiocbp struct user64_aiocb * | the_user_aiocbp struct user_aiocb *

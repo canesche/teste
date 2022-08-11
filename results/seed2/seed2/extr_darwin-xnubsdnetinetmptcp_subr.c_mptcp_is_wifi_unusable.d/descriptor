@@ -1,0 +1,3 @@
+struct mptses | mpte_flags int 
+struct TYPE_2__ | sa_wifi_status int 
+function mptcp_is_wifi_unusable int | mpte struct mptses *

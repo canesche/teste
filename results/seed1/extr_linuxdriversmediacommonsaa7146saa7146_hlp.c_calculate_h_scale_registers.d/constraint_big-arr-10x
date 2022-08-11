@@ -1,1 +1,0 @@
-value(in_x) == 10, value(out_x) == 10, value(flip_lr) == 10, length(hps_ctrl) == 100, length(hps_v_gain) == 100, length(hps_h_prescale) == 100, length(hps_h_scale) == 100, length(dev) == 100

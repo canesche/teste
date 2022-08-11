@@ -1,0 +1,3 @@
+struct TYPE_4__ | p const unsigned long * | len int 
+struct TYPE_5__ | num int | buf struct TYPE_4__ 
+function coap_parseOption int | option struct TYPE_5__ * | running_delta int * | buf const unsigned long ** | buflen unsigned long

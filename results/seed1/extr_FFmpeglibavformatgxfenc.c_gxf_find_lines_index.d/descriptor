@@ -1,5 +1,0 @@
-struct TYPE_9__ | height long | index int 
-struct TYPE_8__ | codecpar struct TYPE_6__ * | priv_data struct TYPE_7__ * 
-struct TYPE_7__ | lines_index int 
-struct TYPE_6__ | height long 
-function gxf_find_lines_index int | st struct TYPE_8__ *

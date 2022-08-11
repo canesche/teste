@@ -1,2 +1,0 @@
-struct TYPE_3__ | reseed_count long | fail long 
-function reset_hook_ctx void | ctx struct TYPE_3__ *

@@ -1,5 +1,0 @@
-struct pasid_table | dummy int 
-struct device_domain_info | pasid_table struct pasid_table * 
-struct TYPE_2__ | iommu struct device_domain_info * 
-struct device | archdata struct TYPE_2__ 
-function intel_pasid_get_table struct pasid_table * | dev struct device *

@@ -1,0 +1,2 @@
+struct kmem_cache | dummy int 
+function stat void | s const struct kmem_cache * | si enum stat_item

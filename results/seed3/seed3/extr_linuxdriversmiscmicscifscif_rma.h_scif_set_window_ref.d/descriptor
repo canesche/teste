@@ -1,0 +1,2 @@
+struct scif_window | ref_count int 
+function scif_set_window_ref void | window struct scif_window * | nr_pages int

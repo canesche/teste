@@ -1,0 +1,3 @@
+struct TYPE_5__ | chs long | ch1 long | ch2 long | ch3 long 
+struct TYPE_4__ | modifiers int | ch long 
+function get_sc int | event_keystroke struct TYPE_4__ * | sc int * | ec int *

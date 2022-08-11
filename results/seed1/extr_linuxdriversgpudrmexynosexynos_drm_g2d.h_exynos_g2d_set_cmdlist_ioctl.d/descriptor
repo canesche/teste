@@ -1,3 +1,0 @@
-struct drm_file | dummy int 
-struct drm_device | dummy int 
-function exynos_g2d_set_cmdlist_ioctl int | dev struct drm_device * | data void * | file_priv struct drm_file *

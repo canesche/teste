@@ -1,0 +1,4 @@
+struct TYPE_4__ | flags int 
+struct TYPE_5__ | uv struct TYPE_4__ 
+struct TYPE_6__ | sn struct TYPE_5__ 
+function xpc_partition_engaged_uv int | partid short

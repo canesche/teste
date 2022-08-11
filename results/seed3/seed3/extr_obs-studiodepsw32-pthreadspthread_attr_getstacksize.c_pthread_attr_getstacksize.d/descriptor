@@ -1,0 +1,1 @@
+function pthread_attr_getstacksize int | attr const int * | stacksize unsigned long *

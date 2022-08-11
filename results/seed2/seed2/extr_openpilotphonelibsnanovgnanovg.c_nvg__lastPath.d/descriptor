@@ -1,0 +1,3 @@
+struct TYPE_5__ | cache struct TYPE_4__ * 
+struct TYPE_4__ | npaths int | paths int * 
+function nvg__lastPath int * | ctx struct TYPE_5__ *

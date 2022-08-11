@@ -1,0 +1,3 @@
+struct TYPE_5__ | partitions_count int | partitions struct TYPE_4__ * 
+struct TYPE_4__ | body_sid int | essence_length long | essence_offset long 
+function mxf_essence_container_end long | mxf struct TYPE_5__ * | body_sid int

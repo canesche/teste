@@ -1,0 +1,2 @@
+struct ab3100 | dummy int 
+function ab3100_setup_debugfs void | ab3100 struct ab3100 *

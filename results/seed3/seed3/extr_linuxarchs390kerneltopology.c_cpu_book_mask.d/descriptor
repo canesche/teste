@@ -1,0 +1,3 @@
+struct cpumask | dummy int 
+struct TYPE_2__ | book_mask const struct cpumask 
+function cpu_book_mask const struct cpumask * | cpu int

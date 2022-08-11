@@ -1,0 +1,3 @@
+struct rlimit64 | rlim_cur long | rlim_max long 
+struct rlimit | rlim_cur long | rlim_max long 
+function rlim_to_rlim64 void | rlim const struct rlimit * | rlim64 struct rlimit64 *

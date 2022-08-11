@@ -1,0 +1,2 @@
+struct mpoa_client | dev_num int | next struct mpoa_client * 
+function find_mpc_by_itfnum struct mpoa_client * | itf int

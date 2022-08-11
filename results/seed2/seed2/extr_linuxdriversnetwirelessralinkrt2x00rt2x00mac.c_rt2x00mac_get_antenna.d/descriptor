@@ -1,0 +1,6 @@
+struct antenna_setup | rx int | tx int 
+struct link_ant | flags int | active struct antenna_setup 
+struct TYPE_2__ | ant struct link_ant 
+struct rt2x00_dev | link struct TYPE_2__ 
+struct ieee80211_hw | priv struct rt2x00_dev * 
+function rt2x00mac_get_antenna int | hw struct ieee80211_hw * | tx_ant int * | rx_ant int *

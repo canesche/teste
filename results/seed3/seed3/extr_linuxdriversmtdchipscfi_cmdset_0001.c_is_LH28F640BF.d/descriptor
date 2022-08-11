@@ -1,0 +1,2 @@
+struct cfi_private | mfr long | id long 
+function is_LH28F640BF int | cfi struct cfi_private *

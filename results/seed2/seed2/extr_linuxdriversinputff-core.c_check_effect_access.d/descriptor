@@ -1,0 +1,3 @@
+struct file | dummy int 
+struct ff_device | max_effects int | effect_owners struct file ** 
+function check_effect_access int | ff struct ff_device * | effect_id int | file struct file *

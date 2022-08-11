@@ -1,0 +1,5 @@
+struct nfs4_label | dummy int 
+struct inode | dummy int 
+struct iattr | dummy int 
+struct dentry | dummy int 
+function nfs4_label_init_security struct nfs4_label * | dir struct inode * | dentry struct dentry * | sattr struct iattr * | l struct nfs4_label *

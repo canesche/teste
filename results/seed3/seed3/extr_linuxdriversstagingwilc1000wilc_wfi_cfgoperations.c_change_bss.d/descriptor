@@ -1,0 +1,4 @@
+struct wiphy | dummy int 
+struct net_device | dummy int 
+struct bss_parameters | dummy int 
+function change_bss int | wiphy struct wiphy * | dev struct net_device * | params struct bss_parameters *

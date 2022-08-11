@@ -1,0 +1,4 @@
+struct ifnet | dummy int 
+struct TYPE_4__ | rcvif struct ifnet * 
+struct TYPE_5__ | m_pkthdr struct TYPE_4__ 
+function mbuf_pkthdr_setrcvif int | mbuf struct TYPE_5__ * | ifnet long

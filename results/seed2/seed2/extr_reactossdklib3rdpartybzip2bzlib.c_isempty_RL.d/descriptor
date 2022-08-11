@@ -1,0 +1,2 @@
+struct TYPE_3__ | state_in_ch int | state_in_len long 
+function isempty_RL int | s struct TYPE_3__ *

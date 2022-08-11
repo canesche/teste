@@ -1,2 +1,0 @@
-struct net | dummy int 
-function ip4_frags_ns_ctl_register int | net struct net *

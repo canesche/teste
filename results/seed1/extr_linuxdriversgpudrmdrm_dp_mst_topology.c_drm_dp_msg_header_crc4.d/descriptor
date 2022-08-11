@@ -1,1 +1,0 @@
-function drm_dp_msg_header_crc4 int | data const int * | num_nibbles unsigned long

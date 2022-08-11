@@ -1,2 +1,0 @@
-struct linux_prom_translation | virt long 
-function cmp_ptrans int | a const void * | b const void *

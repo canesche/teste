@@ -1,0 +1,5 @@
+struct esas2r_sg_context | cur_offset int | adapter long 
+struct esas2r_flash_img | dummy int 
+struct TYPE_2__ | header_buff_phys long 
+struct esas2r_adapter | save_offset int | firmware struct TYPE_2__ 
+function get_physaddr_fm_api_header int | sgc struct esas2r_sg_context * | addr long *

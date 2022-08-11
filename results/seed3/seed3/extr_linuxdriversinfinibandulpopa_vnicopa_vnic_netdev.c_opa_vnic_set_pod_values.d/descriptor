@@ -1,0 +1,5 @@
+struct TYPE_6__ | eth_mtu int 
+struct TYPE_4__ | eth_link_status int | config_state int | max_smac_ent int | max_mac_tbl_ent int 
+struct TYPE_5__ | vesw struct TYPE_6__ | vport struct TYPE_4__ 
+struct opa_vnic_adapter | info struct TYPE_5__ 
+function opa_vnic_set_pod_values void | adapter struct opa_vnic_adapter *

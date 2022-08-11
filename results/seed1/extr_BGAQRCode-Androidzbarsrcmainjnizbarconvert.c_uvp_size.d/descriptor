@@ -1,5 +1,0 @@
-struct TYPE_9__ | width unsigned long | height unsigned long 
-struct TYPE_7__ | xsub2 unsigned long | ysub2 unsigned long 
-struct TYPE_8__ | yuv struct TYPE_7__ 
-struct TYPE_10__ | group long | p struct TYPE_8__ 
-function uvp_size unsigned long | img const struct TYPE_9__ * | fmt const struct TYPE_10__ *

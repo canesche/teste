@@ -1,0 +1,2 @@
+struct brcms_c_info | dummy int 
+function brcms_c_ps_allowed int | wlc struct brcms_c_info *

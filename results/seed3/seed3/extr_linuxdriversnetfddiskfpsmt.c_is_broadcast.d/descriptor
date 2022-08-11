@@ -1,0 +1,2 @@
+struct fddi_addr | a int * 
+function is_broadcast int | addr const struct fddi_addr *

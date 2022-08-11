@@ -1,2 +1,0 @@
-struct i2c_adapter | dummy int 
-function ivtv_functionality int | adap struct i2c_adapter *

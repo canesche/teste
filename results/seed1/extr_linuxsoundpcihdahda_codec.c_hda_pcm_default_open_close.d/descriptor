@@ -1,4 +1,0 @@
-struct snd_pcm_substream | dummy int 
-struct hda_pcm_stream | dummy int 
-struct hda_codec | dummy int 
-function hda_pcm_default_open_close int | hinfo struct hda_pcm_stream * | codec struct hda_codec * | substream struct snd_pcm_substream *

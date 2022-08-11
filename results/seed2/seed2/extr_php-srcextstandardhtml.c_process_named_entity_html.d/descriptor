@@ -1,0 +1,1 @@
+function process_named_entity_html int | buf const char ** | start const char ** | length unsigned long *

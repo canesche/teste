@@ -1,5 +1,0 @@
-struct nvt_dev | rdev struct TYPE_4__ * 
-struct device | dummy int 
-struct TYPE_3__ | parent struct device * 
-struct TYPE_4__ | dev struct TYPE_3__ 
-function nvt_get_dev struct device * | nvt const struct nvt_dev *

@@ -1,0 +1,2 @@
+struct vsoc_device_region | region_begin_offset long | region_end_offset long 
+function vsoc_device_region_size long | r struct vsoc_device_region *

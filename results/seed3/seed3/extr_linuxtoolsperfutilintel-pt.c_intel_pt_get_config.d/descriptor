@@ -1,0 +1,3 @@
+struct perf_event_attr | type long | config int 
+struct intel_pt | pmu_type long 
+function intel_pt_get_config int | pt struct intel_pt * | attr struct perf_event_attr * | config int *

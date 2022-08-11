@@ -1,0 +1,4 @@
+struct TYPE_2__ | uartclk int 
+struct uart_8250_port | port struct TYPE_2__ 
+struct pcmcia_device | dummy int 
+function quirk_setup_brainboxes_0104 void | link struct pcmcia_device * | uart struct uart_8250_port *

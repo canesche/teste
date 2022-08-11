@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function batadv_debugfs_add_meshif int | dev struct net_device *

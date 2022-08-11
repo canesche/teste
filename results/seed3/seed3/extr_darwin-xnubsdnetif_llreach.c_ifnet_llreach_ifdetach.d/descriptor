@@ -1,0 +1,2 @@
+struct ifnet | dummy int 
+function ifnet_llreach_ifdetach void | ifp struct ifnet *

@@ -1,0 +1,2 @@
+struct ipvl_port | flags int 
+function ipvlan_clear_private void | port struct ipvl_port *

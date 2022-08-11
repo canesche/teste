@@ -1,0 +1,2 @@
+struct ilist | tail int | head int | nr_elts long 
+function l_init void | l struct ilist *

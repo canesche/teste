@@ -1,0 +1,4 @@
+struct inode | i_link const char * 
+struct dentry | dummy int 
+struct delayed_call | dummy int 
+function simple_get_link const char * | dentry struct dentry * | inode struct inode * | done struct delayed_call *

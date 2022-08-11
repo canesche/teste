@@ -1,2 +1,0 @@
-struct svc_rqst | dummy int 
-function svc_rdma_release_rqst void | rqstp struct svc_rqst *

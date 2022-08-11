@@ -1,0 +1,3 @@
+struct TYPE_2__ | state long 
+struct res_fs_rule | com struct TYPE_2__ 
+function remove_fs_rule_ok int | res struct res_fs_rule *

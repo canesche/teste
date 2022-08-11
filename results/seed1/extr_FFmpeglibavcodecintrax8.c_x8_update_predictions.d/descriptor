@@ -1,2 +1,0 @@
-struct TYPE_3__ | prediction_table int * | mb_x int | mb_y int 
-function x8_update_predictions void | w struct TYPE_3__ *const | orient const int | est_run const int

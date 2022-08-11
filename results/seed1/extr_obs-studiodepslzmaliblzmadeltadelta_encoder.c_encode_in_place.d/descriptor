@@ -1,2 +1,0 @@
-struct TYPE_3__ | distance unsigned long | pos int | history long * 
-function encode_in_place void | coder struct TYPE_3__ * | buffer long * | size unsigned long

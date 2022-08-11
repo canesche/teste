@@ -1,0 +1,2 @@
+struct snd_soc_dapm_route | sink const char * | source const char * | control const char * | connected int (*)(struct snd_soc_dapm_widget *, struct snd_soc_dapm_widget *) 
+function hdac_hdmi_fill_route void | route struct snd_soc_dapm_route * | sink const char * | control const char * | src const char * | handler int (*)(struct snd_soc_dapm_widget *, struct snd_soc_dapm_widget *)

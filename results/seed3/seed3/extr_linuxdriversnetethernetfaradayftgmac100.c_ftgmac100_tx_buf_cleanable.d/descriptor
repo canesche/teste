@@ -1,0 +1,2 @@
+struct ftgmac100 | tx_pointer long | tx_clean_pointer long 
+function ftgmac100_tx_buf_cleanable int | priv struct ftgmac100 *

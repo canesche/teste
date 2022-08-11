@@ -1,0 +1,2 @@
+struct TYPE_3__ | format int 
+function gs_cubetexture_get_color_format enum gs_color_format | cubetex const struct TYPE_3__ *

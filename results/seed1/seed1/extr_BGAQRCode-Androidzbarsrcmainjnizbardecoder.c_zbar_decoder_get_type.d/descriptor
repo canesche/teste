@@ -1,0 +1,2 @@
+struct TYPE_3__ | type int 
+function zbar_decoder_get_type int | dcode const struct TYPE_3__ *

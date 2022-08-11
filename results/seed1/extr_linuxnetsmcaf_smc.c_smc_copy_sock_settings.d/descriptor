@@ -1,2 +1,0 @@
-struct sock | sk_flags unsigned long | sk_err int | sk_bound_dev_if int | sk_rcvlowat int | sk_priority int | sk_mark int | sk_rcvtimeo int | sk_sndtimeo int | sk_rcvbuf int | sk_sndbuf int | sk_type int 
-function smc_copy_sock_settings void | nsk struct sock * | osk struct sock * | mask unsigned long

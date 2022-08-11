@@ -1,0 +1,2 @@
+struct jme_adapter | dummy int 
+function reg_dbg void | jme const struct jme_adapter * | msg const char * | val int | reg int

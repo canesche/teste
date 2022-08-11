@@ -1,2 +1,0 @@
-struct TYPE_3__ | key_length int 
-function blake2s_param_set_key_length void | P struct TYPE_3__ * | keylen int

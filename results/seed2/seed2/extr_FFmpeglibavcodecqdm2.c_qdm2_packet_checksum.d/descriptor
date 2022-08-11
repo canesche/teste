@@ -1,0 +1,1 @@
+function qdm2_packet_checksum int | data const long * | length int | value int

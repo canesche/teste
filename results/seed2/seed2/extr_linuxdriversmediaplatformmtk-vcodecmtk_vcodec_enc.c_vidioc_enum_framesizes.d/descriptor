@@ -1,0 +1,4 @@
+struct v4l2_frmsizeenum | index long | pixel_format long | stepwise int | type int 
+struct file | dummy int 
+struct TYPE_2__ | fourcc long | stepwise int 
+function vidioc_enum_framesizes int | file struct file * | fh void * | fsize struct v4l2_frmsizeenum *

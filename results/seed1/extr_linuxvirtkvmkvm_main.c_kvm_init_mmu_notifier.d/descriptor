@@ -1,2 +1,0 @@
-struct kvm | dummy int 
-function kvm_init_mmu_notifier int | kvm struct kvm *

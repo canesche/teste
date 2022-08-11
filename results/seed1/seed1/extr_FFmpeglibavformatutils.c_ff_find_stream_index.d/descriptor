@@ -1,0 +1,3 @@
+struct TYPE_5__ | nb_streams int | streams struct TYPE_4__ ** 
+struct TYPE_4__ | id int 
+function ff_find_stream_index int | s struct TYPE_5__ * | id int

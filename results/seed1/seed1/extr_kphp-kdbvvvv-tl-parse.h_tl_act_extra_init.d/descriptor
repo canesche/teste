@@ -1,0 +1,2 @@
+struct tl_act_extra | size int | act int (*)(struct tl_act_extra *) | dup long | free long | flags long 
+function tl_act_extra_init struct tl_act_extra * | buf void * | size int | act int (*)(struct tl_act_extra *)

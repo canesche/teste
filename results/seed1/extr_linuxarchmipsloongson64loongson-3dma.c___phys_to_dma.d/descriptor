@@ -1,2 +1,0 @@
-struct device | dummy int 
-function __phys_to_dma long | dev struct device * | paddr int

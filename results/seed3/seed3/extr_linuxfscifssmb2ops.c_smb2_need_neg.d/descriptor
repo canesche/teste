@@ -1,0 +1,2 @@
+struct TCP_Server_Info | max_read long 
+function smb2_need_neg int | server struct TCP_Server_Info *

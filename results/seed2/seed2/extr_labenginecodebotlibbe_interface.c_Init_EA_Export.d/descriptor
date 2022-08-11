@@ -1,0 +1,2 @@
+struct TYPE_3__ | EA_ResetInput int | EA_EndRegular int | EA_GetInput int | EA_View int | EA_Move int | EA_DelayedJump int | EA_Jump int | EA_SelectWeapon int | EA_MoveRight int | EA_MoveLeft int | EA_MoveBack int | EA_MoveForward int | EA_MoveDown int | EA_MoveUp int | EA_Crouch int | EA_Respawn int | EA_Use int | EA_Attack int | EA_Talk int | EA_Gesture int | EA_Action int | EA_SayTeam int | EA_Say int | EA_Command int 
+function Init_EA_Export void | ea struct TYPE_3__ *

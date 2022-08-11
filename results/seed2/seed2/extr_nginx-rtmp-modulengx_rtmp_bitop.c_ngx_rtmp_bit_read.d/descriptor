@@ -1,0 +1,2 @@
+struct TYPE_3__ | pos int * | last int * | err int | offs int 
+function ngx_rtmp_bit_read int | br struct TYPE_3__ * | n int

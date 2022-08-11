@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct dentry | dummy int 
+function bad_inode_link int | old_dentry struct dentry * | dir struct inode * | dentry struct dentry *

@@ -1,0 +1,4 @@
+struct iio_dev | dummy int 
+struct bmc150_accel_data | interrupts struct TYPE_2__ * 
+struct TYPE_2__ | info int * 
+function bmc150_accel_interrupts_setup void | indio_dev struct iio_dev * | data struct bmc150_accel_data *

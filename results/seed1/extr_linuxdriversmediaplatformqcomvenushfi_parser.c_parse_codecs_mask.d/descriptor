@@ -1,2 +1,0 @@
-struct hfi_codec_mask_supported | video_domains int | codecs int 
-function parse_codecs_mask void | codecs int * | domain int * | data void *

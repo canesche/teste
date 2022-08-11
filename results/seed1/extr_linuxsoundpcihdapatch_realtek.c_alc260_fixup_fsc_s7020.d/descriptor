@@ -1,4 +1,0 @@
-struct hda_fixup | dummy int 
-struct hda_codec | spec struct alc_spec * 
-struct alc_spec | init_amp int 
-function alc260_fixup_fsc_s7020 void | codec struct hda_codec * | fix const struct hda_fixup * | action int

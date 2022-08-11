@@ -1,1 +1,0 @@
-function hpet_set_alarm_time int | hrs unsigned char | min unsigned char | sec unsigned char

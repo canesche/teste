@@ -1,0 +1,2 @@
+struct vpdma_dtd | xfer_length_height int 
+function dtd_get_line_length int | dtd struct vpdma_dtd *

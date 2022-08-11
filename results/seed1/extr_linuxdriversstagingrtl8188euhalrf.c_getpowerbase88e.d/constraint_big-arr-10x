@@ -1,1 +1,0 @@
-value(channel) == 10, length(pwr_level_ofdm) == 100, length(pwr_level_bw20) == 100, length(pwr_level_bw40) == 100, length(ofdmbase) == 100, length(mcs_base) == 100, length(adapt) == 100

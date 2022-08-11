@@ -1,0 +1,5 @@
+struct TYPE_10__ | x float | y float 
+struct TYPE_7__ | value float | fract float 
+struct TYPE_8__ | value float | fract float 
+struct TYPE_9__ | y struct TYPE_7__ | x struct TYPE_8__ 
+function convert_fixed_to_float struct TYPE_10__ * | pt struct TYPE_9__ * | count int | emsquare unsigned int

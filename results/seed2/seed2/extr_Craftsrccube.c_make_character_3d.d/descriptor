@@ -1,0 +1,4 @@
+struct TYPE_6__ | member_0 int | member_1 int | member_2 int 
+struct TYPE_5__ | member_0 int | member_1 int | member_2 int 
+struct TYPE_4__ | member_0 int | member_1 int | member_2 int 
+function make_character_3d void | data float * | x float | y float | z float | n float | face int | c char

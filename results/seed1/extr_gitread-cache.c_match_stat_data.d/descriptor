@@ -1,5 +1,0 @@
-struct TYPE_4__ | sec unsigned int 
-struct TYPE_3__ | sec unsigned int 
-struct stat_data | sd_uid unsigned int | sd_gid unsigned int | sd_ino unsigned int | sd_size unsigned int | sd_ctime struct TYPE_4__ | sd_mtime struct TYPE_3__ 
-struct stat | st_size long | st_ino long | st_gid long | st_uid long | st_ctime long | st_mtime long 
-function match_stat_data int | sd const struct stat_data * | st struct stat *

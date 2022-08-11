@@ -1,0 +1,2 @@
+struct dpaa2_eth_priv | rx_buf_align unsigned int 
+function dpaa2_eth_buf_raw_size unsigned int | priv struct dpaa2_eth_priv *

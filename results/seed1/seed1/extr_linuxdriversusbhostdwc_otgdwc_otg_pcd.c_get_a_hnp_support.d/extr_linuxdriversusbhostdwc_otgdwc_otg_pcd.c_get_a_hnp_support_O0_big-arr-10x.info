@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversusbhostdwc_otgdwc_otg_pcd.c_get_a_hnp_support.d/extr_linuxdriversusbhostdwc_otgdwc_otg_pcd.c_get_a_hnp_support_O0::get_a_hnp_support(64)"
+  }
+]

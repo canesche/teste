@@ -1,0 +1,4 @@
+struct qed_vf_queue | cids struct TYPE_2__ * 
+struct qed_queue_cid | dummy int 
+struct TYPE_2__ | p_cid struct qed_queue_cid * | b_is_tx int 
+function qed_iov_get_vf_rx_queue_cid struct qed_queue_cid * | p_queue struct qed_vf_queue *

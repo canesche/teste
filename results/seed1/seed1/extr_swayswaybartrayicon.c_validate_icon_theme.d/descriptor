@@ -1,0 +1,2 @@
+struct icon_theme | directories long | comment long | name long 
+function validate_icon_theme int | theme struct icon_theme *

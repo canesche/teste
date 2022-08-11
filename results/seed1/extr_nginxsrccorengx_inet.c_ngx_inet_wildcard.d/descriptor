@@ -1,4 +1,0 @@
-struct TYPE_2__ | s_addr int 
-struct sockaddr_in | sin_addr struct TYPE_2__ 
-struct sockaddr | sa_family int 
-function ngx_inet_wildcard int | sa struct sockaddr *

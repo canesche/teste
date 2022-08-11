@@ -1,2 +1,0 @@
-struct options_array_item | index int 
-function options_array_item_index int | a struct options_array_item *

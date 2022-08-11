@@ -1,2 +1,0 @@
-struct isci_host | tci_tail int | tci_pool unsigned long * 
-function isci_tci_free void | ihost struct isci_host * | tci unsigned long

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediapcibt8xxdvb-bt8xx.c_advbt771_samsung_tdtc9251dh0_tuner_calc_regs.d/extr_linuxdriversmediapcibt8xxdvb-bt8xx.c_advbt771_samsung_tdtc9251dh0_tuner_calc_regs_O0::advbt771_samsung_tdtc9251dh0_tuner_calc_regs(66)"
+  }
+]

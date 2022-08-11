@@ -1,0 +1,2 @@
+struct ext2_ext_attr_header | h_magic long | h_blocks int 
+function check_ext_attr_header int | header struct ext2_ext_attr_header *

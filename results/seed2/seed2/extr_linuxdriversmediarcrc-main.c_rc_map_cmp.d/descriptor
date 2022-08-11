@@ -1,0 +1,2 @@
+struct rc_map_table | scancode const unsigned int 
+function rc_map_cmp int | key const void * | elt const void *

@@ -1,2 +1,0 @@
-struct echoaudio | dummy int 
-function bx_num int | chip const struct echoaudio *

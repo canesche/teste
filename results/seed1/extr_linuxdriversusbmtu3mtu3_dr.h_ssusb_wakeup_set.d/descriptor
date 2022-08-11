@@ -1,2 +1,0 @@
-struct ssusb_mtk | dummy int 
-function ssusb_wakeup_set void | ssusb struct ssusb_mtk * | enable int

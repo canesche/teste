@@ -1,0 +1,2 @@
+struct TYPE_3__ | callback_arg void * | callback int * 
+function ASYNC_WAIT_CTX_get_callback int | ctx struct TYPE_3__ * | callback int ** | callback_arg void **

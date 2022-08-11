@@ -1,3 +1,0 @@
-struct clk | parent struct TYPE_2__ * 
-struct TYPE_2__ | rate int 
-function div3_recalc unsigned long | clk struct clk *

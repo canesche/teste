@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxnetsctpstream_sched_rr.c_sctp_sched_rr_set.d/extr_linuxnetsctpstream_sched_rr.c_sctp_sched_rr_set_O0::sctp_sched_rr_set(64)"
+  }
+]

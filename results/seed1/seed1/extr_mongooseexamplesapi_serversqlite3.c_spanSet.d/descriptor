@@ -1,0 +1,3 @@
+struct TYPE_6__ | n unsigned long | z int * 
+struct TYPE_7__ | zEnd int * | zStart int * 
+function spanSet void | pOut struct TYPE_7__ * | pStart struct TYPE_6__ * | pEnd struct TYPE_6__ *

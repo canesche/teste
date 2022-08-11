@@ -1,2 +1,0 @@
-struct proc_dir_entry | dummy int 
-function cardu_proc_setup void | sock unsigned int | base struct proc_dir_entry *

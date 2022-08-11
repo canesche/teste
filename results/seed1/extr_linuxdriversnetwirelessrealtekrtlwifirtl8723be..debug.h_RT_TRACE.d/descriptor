@@ -1,2 +1,0 @@
-struct rtl_priv | dummy int 
-function RT_TRACE void | rtlpriv struct rtl_priv * | comp int | level int | fmt const char *

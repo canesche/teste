@@ -1,0 +1,2 @@
+struct xfs_sb | sb_bad_features2 long | sb_features2 long 
+function xfs_sb_has_mismatched_features2 int | sbp struct xfs_sb *

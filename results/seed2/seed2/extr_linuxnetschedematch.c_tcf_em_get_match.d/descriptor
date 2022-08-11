@@ -1,0 +1,3 @@
+struct tcf_ematch_tree | matches struct tcf_ematch * 
+struct tcf_ematch | dummy int 
+function tcf_em_get_match struct tcf_ematch * | tree struct tcf_ematch_tree * | index int

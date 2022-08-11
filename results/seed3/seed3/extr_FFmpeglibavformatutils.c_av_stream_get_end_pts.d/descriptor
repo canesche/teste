@@ -1,0 +1,4 @@
+struct TYPE_7__ | internal struct TYPE_6__ * 
+struct TYPE_6__ | priv_pts struct TYPE_5__ * 
+struct TYPE_5__ | val int 
+function av_stream_get_end_pts int | st const struct TYPE_7__ *

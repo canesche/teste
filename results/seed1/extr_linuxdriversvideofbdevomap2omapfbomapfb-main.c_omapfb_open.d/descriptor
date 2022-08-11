@@ -1,2 +1,0 @@
-struct fb_info | dummy int 
-function omapfb_open int | fbi struct fb_info * | user int

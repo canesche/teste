@@ -1,0 +1,2 @@
+struct cs_blob | csb_mem_kaddr int 
+function csblob_get_addr int | blob struct cs_blob *

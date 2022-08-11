@@ -1,0 +1,2 @@
+struct stp_policy_node | first_master unsigned int | last_master unsigned int | first_channel unsigned int | last_channel unsigned int 
+function stp_policy_node_get_ranges void | policy_node struct stp_policy_node * | mstart unsigned int * | mend unsigned int * | cstart unsigned int * | cend unsigned int *

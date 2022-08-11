@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 13,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 19,
+    static: {
+      instructions: 70,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 122,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_libgit2srcxdiffxutils.c_xdl_num_out.d/extr_libgit2srcxdiffxutils.c_xdl_num_out_O0::xdl_num_out(60)"
+  }
+]

@@ -1,2 +1,0 @@
-struct wm831x_irq_data | reg int 
-function irq_data_to_status_reg int | irq_data struct wm831x_irq_data *

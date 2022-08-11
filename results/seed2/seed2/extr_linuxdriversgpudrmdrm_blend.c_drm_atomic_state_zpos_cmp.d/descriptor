@@ -1,0 +1,4 @@
+struct drm_plane_state | zpos long | plane struct TYPE_3__ * 
+struct TYPE_4__ | id int 
+struct TYPE_3__ | base struct TYPE_4__ 
+function drm_atomic_state_zpos_cmp int | a const void * | b const void *

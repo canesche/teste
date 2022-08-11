@@ -1,0 +1,2 @@
+struct gfs2_inode | i_no_addr long | i_no_formal_ino long 
+function gfs2_check_inum int | ip const struct gfs2_inode * | no_addr long | no_formal_ino long

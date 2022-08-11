@@ -1,0 +1,3 @@
+struct qman_fq | dummy int 
+struct dpaa_priv | egress_fqs struct qman_fq ** 
+function dpaa_tx_fq_to_id int | priv const struct dpaa_priv * | tx_fq struct qman_fq *

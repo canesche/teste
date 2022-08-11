@@ -1,0 +1,4 @@
+struct update_callback_data | flags int 
+struct diff_filepair | status long | two struct TYPE_2__ * 
+struct TYPE_2__ | mode int 
+function fix_unmerged_status int | p struct diff_filepair * | data struct update_callback_data *

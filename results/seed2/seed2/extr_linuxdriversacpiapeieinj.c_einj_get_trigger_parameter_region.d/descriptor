@@ -1,0 +1,4 @@
+struct acpi_generic_address | space_id long | address int 
+struct acpi_whea_header | action long | instruction long | register_region struct acpi_generic_address 
+struct acpi_einj_trigger | entry_count int 
+function einj_get_trigger_parameter_region struct acpi_generic_address * | trigger_tab struct acpi_einj_trigger * | param1 int | param2 int

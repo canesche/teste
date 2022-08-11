@@ -1,0 +1,2 @@
+struct device | dummy int 
+function sdhci_acpi_byt_defer int | dev struct device *

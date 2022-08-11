@@ -1,4 +1,0 @@
-struct halmac_cfg_para_state_set | process_status int 
-struct TYPE_2__ | cfg_para_state_set struct halmac_cfg_para_state_set 
-struct halmac_adapter | halmac_state struct TYPE_2__ 
-function halmac_query_cfg_para_status_88xx enum halmac_ret_status | halmac_adapter struct halmac_adapter * | process_status enum halmac_cmd_process_status * | data int * | size int *

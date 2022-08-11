@@ -1,2 +1,0 @@
-struct xlgmac_ring | dma_desc_count unsigned int | cur unsigned int | dirty unsigned int 
-function xlgmac_tx_avail_desc unsigned int | ring struct xlgmac_ring *

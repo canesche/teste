@@ -1,4 +1,0 @@
-struct node | next struct TYPE_4__ * | prev struct TYPE_3__ * 
-struct TYPE_4__ | prev struct TYPE_3__ * 
-struct TYPE_3__ | next struct TYPE_4__ * 
-function remque void | element void *

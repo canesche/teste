@@ -1,0 +1,2 @@
+struct cfg80211_ssid | ssid_len int | ssid long * 
+function mwifiex_is_hidden_ssid int | ssid struct cfg80211_ssid *

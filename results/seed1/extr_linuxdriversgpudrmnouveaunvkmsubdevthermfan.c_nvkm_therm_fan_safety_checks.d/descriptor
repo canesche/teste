@@ -1,4 +1,0 @@
-struct nvkm_therm | fan struct TYPE_3__ * 
-struct TYPE_4__ | min_duty int | max_duty int 
-struct TYPE_3__ | bios struct TYPE_4__ 
-function nvkm_therm_fan_safety_checks void | therm struct nvkm_therm *

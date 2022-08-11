@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 22,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetmellanoxmlx4cmd.c_mlx4_closing_cmd_fatal_error.d/extr_linuxdriversnetethernetmellanoxmlx4cmd.c_mlx4_closing_cmd_fatal_error_O0::mlx4_closing_cmd_fatal_error(73)"
+  }
+]

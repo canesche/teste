@@ -1,0 +1,2 @@
+struct aspeed_pwm_tacho_data | clk_freq unsigned long | type_pwm_clock_unit unsigned long * | type_pwm_clock_division_h unsigned long * | type_pwm_clock_division_l unsigned long * | type_fan_tach_unit unsigned long * | type_fan_tach_clock_division unsigned long * 
+function aspeed_get_fan_tach_ch_measure_period unsigned long | priv struct aspeed_pwm_tacho_data * | type unsigned long

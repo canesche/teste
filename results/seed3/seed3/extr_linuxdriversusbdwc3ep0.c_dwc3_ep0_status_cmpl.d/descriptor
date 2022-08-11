@@ -1,0 +1,3 @@
+struct usb_request | dummy int 
+struct usb_ep | dummy int 
+function dwc3_ep0_status_cmpl void | ep struct usb_ep * | req struct usb_request *

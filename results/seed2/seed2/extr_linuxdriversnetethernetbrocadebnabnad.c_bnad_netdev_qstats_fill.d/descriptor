@@ -1,0 +1,11 @@
+struct rtnl_link_stats64 | tx_bytes int | tx_packets int | rx_bytes int | rx_packets int 
+struct bnad | num_rx int | num_rxp_per_rx int | num_tx int | num_txq_per_tx int | tx_info struct TYPE_16__ * | rx_info struct TYPE_13__ * 
+struct TYPE_16__ | tcb struct TYPE_15__ ** 
+struct TYPE_15__ | txq struct TYPE_14__ * 
+struct TYPE_14__ | tx_bytes long | tx_packets long 
+struct TYPE_13__ | rx_ctrl struct TYPE_12__ * 
+struct TYPE_12__ | ccb struct TYPE_11__ * 
+struct TYPE_11__ | rcb struct TYPE_10__ ** 
+struct TYPE_10__ | rxq struct TYPE_9__ * 
+struct TYPE_9__ | rx_bytes long | rx_packets long 
+function bnad_netdev_qstats_fill void | bnad struct bnad * | stats struct rtnl_link_stats64 *

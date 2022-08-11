@@ -1,0 +1,3 @@
+struct seq_file | dummy int 
+struct pinctrl_dev | dummy int 
+function pinconf_generic_dump_pins void | pctldev struct pinctrl_dev * | s struct seq_file * | gname const char * | pin unsigned int

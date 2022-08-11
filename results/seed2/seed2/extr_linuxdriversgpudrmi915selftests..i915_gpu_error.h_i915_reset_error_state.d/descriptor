@@ -1,0 +1,2 @@
+struct drm_i915_private | dummy int 
+function i915_reset_error_state void | i915 struct drm_i915_private *

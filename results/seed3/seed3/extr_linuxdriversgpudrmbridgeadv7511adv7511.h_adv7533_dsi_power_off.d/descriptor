@@ -1,0 +1,2 @@
+struct adv7511 | dummy int 
+function adv7533_dsi_power_off void | adv struct adv7511 *

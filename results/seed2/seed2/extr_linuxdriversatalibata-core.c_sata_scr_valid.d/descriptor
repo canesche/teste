@@ -1,0 +1,4 @@
+struct ata_port | flags int | ops struct TYPE_2__ * 
+struct ata_link | ap struct ata_port * 
+struct TYPE_2__ | scr_read long 
+function sata_scr_valid int | link struct ata_link *

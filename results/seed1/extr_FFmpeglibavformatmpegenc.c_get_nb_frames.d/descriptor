@@ -1,3 +1,0 @@
-struct TYPE_5__ | size long | unwritten_size long | next struct TYPE_5__ * 
-struct TYPE_4__ | premux_packet struct TYPE_5__ * 
-function get_nb_frames int | ctx int * | stream struct TYPE_4__ * | len int

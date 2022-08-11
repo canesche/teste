@@ -1,7 +1,0 @@
-struct red_stats | prob_drop int | prob_mark int | pdrop int 
-struct TYPE_3__ | red struct red_stats 
-struct mlxsw_sp_qdisc | tclass_num unsigned long | xstats_base struct TYPE_3__ 
-struct mlxsw_sp_port_xstats | wred_drop int * | ecn int | tail_drop int * 
-struct TYPE_4__ | xstats struct mlxsw_sp_port_xstats 
-struct mlxsw_sp_port | periodic_hw_stats struct TYPE_4__ 
-function mlxsw_sp_qdisc_get_red_xstats int | mlxsw_sp_port struct mlxsw_sp_port * | mlxsw_sp_qdisc struct mlxsw_sp_qdisc * | xstats_ptr void *

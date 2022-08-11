@@ -1,0 +1,4 @@
+struct TYPE_4__ | val int 
+struct TYPE_6__ | val struct TYPE_4__ 
+struct TYPE_5__ | type_info long 
+function get_onemethod_val void | type void * | res int *

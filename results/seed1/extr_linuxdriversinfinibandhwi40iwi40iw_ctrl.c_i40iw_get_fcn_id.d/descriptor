@@ -1,2 +1,0 @@
-struct i40iw_sc_dev | fcn_id_array int * 
-function i40iw_get_fcn_id unsigned long | dev struct i40iw_sc_dev *

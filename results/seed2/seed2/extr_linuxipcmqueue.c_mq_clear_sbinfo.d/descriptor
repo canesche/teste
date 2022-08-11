@@ -1,0 +1,4 @@
+struct ipc_namespace | mq_mnt struct TYPE_4__ * 
+struct TYPE_4__ | mnt_sb struct TYPE_3__ * 
+struct TYPE_3__ | s_fs_info int * 
+function mq_clear_sbinfo void | ns struct ipc_namespace *

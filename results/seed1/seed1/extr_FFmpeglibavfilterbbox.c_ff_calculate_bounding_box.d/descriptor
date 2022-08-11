@@ -1,0 +1,2 @@
+struct TYPE_3__ | x1 int | y1 int | x2 int | y2 int 
+function ff_calculate_bounding_box int | bbox struct TYPE_3__ * | data const int * | linesize int | w int | h int | min_val int

@@ -1,0 +1,4 @@
+struct TYPE_5__ | pfile_in_zip_read struct TYPE_6__ * 
+struct TYPE_4__ | total_out long 
+struct TYPE_6__ | stream struct TYPE_4__ 
+function unztell long | file int *

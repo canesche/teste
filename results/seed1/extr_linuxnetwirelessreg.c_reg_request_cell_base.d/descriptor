@@ -1,2 +1,0 @@
-struct regulatory_request | initiator long | user_reg_hint_type long 
-function reg_request_cell_base int | request struct regulatory_request *

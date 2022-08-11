@@ -1,5 +1,0 @@
-struct vme_master_resource | number unsigned int | parent struct TYPE_3__ * 
-struct fake_driver | masters struct TYPE_4__ * 
-struct TYPE_4__ | enabled int | vme_base unsigned long long | size unsigned long long | dwidth int | cycle int | aspace int 
-struct TYPE_3__ | driver_priv struct fake_driver * 
-function __fake_master_get int | image struct vme_master_resource * | enabled int * | vme_base unsigned long long * | size unsigned long long * | aspace int * | cycle int * | dwidth int *

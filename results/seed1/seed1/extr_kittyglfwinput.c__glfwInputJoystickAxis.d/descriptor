@@ -1,0 +1,2 @@
+struct TYPE_3__ | axes float * 
+function _glfwInputJoystickAxis void | js struct TYPE_3__ * | axis int | value float

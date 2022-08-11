@@ -1,0 +1,2 @@
+struct codegen_context | seen int 
+function bpf_set_seen_register void | ctx struct codegen_context * | i int

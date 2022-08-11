@@ -1,2 +1,0 @@
-struct TYPE_3__ | right_edge int | width int | rows unsigned long | buf int * | stride unsigned long 
-function detect_right_edge void | ans struct TYPE_3__ *

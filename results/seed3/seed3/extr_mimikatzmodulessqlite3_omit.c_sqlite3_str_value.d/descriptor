@@ -1,0 +1,2 @@
+struct TYPE_3__ | nChar unsigned long | zText char * 
+function sqlite3_str_value char * | p struct TYPE_3__ *

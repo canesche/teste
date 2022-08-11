@@ -1,0 +1,2 @@
+struct tfrc_loss_hist | counter long 
+function tfrc_lh_is_initialised int | lh struct tfrc_loss_hist *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetintele1000ephy.c_e1000_get_phy_addr_for_bm_page.d/extr_linuxdriversnetethernetintele1000ephy.c_e1000_get_phy_addr_for_bm_page_O0::e1000_get_phy_addr_for_bm_page(61)"
+  }
+]

@@ -1,3 +1,0 @@
-struct switchdev_obj_port_vlan | dummy int 
-struct dsa_switch | dummy int 
-function mt7530_port_vlan_prepare int | ds struct dsa_switch * | port int | vlan const struct switchdev_obj_port_vlan *

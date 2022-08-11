@@ -1,0 +1,2 @@
+struct xfs_inode | i_pdquot int * | i_gdquot int * | i_udquot int * 
+function xfs_inode_dquot int * | ip struct xfs_inode * | type int

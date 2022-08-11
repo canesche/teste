@@ -1,4 +1,0 @@
-struct ccu_sdm_internal | table_size unsigned int | table struct TYPE_2__ * 
-struct ccu_common | features int 
-struct TYPE_2__ | rate unsigned long 
-function ccu_sdm_helper_has_rate int | common struct ccu_common * | sdm struct ccu_sdm_internal * | rate unsigned long

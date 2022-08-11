@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function drm_core_get_reg_ofs int | dev struct drm_device *

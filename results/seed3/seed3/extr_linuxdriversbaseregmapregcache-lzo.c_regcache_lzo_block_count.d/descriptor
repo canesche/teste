@@ -1,0 +1,2 @@
+struct regmap | dummy int 
+function regcache_lzo_block_count int | map struct regmap *

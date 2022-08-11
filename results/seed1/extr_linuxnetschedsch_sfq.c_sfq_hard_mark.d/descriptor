@@ -1,2 +1,0 @@
-struct sfq_sched_data | flags int 
-function sfq_hard_mark int | q const struct sfq_sched_data *

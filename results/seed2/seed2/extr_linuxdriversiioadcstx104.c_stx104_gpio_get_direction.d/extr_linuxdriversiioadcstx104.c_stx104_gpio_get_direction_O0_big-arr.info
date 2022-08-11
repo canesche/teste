@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversiioadcstx104.c_stx104_gpio_get_direction.d/extr_linuxdriversiioadcstx104.c_stx104_gpio_get_direction_O0::stx104_gpio_get_direction(62)"
+  }
+]

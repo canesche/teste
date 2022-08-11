@@ -1,0 +1,3 @@
+struct cal_fmt | code long 
+struct cal_ctx | num_active_fmt unsigned int | active_fmt struct cal_fmt ** 
+function find_format_by_code const struct cal_fmt * | ctx struct cal_ctx * | code long

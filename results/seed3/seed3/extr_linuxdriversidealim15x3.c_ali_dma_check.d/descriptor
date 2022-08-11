@@ -1,0 +1,3 @@
+struct ide_cmd | tf_flags int 
+struct TYPE_3__ | media long 
+function ali_dma_check int | drive struct TYPE_3__ * | cmd struct ide_cmd *

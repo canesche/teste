@@ -1,4 +1,0 @@
-struct TYPE_3__ | dim int | flags int 
-struct TYPE_4__ | flags int * | compat struct TYPE_3__ 
-struct xt_set_info_v0 | u struct TYPE_4__ 
-function compat_flags void | info struct xt_set_info_v0 *

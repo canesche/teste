@@ -1,5 +1,0 @@
-struct TYPE_6__ | bg_channels int | a_channels int | a struct TYPE_5__ * | bg struct TYPE_4__ * 
-struct libipw_device | freq_band int | geo struct TYPE_6__ 
-struct TYPE_5__ | freq int | channel int 
-struct TYPE_4__ | freq int | channel int 
-function libipw_freq_to_channel int | ieee struct libipw_device * | freq int

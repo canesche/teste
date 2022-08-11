@@ -1,6 +1,0 @@
-struct TYPE_12__ | NumberOfNamedEntries int | NumberOfIdEntries int 
-struct TYPE_10__ | Id long 
-struct TYPE_8__ | OffsetToDirectory int 
-struct TYPE_9__ | s2 struct TYPE_8__ 
-struct TYPE_11__ | u struct TYPE_10__ | u2 struct TYPE_9__ 
-function find_entry_by_id const struct TYPE_12__ * | dir const struct TYPE_12__ * | id long | root const void *

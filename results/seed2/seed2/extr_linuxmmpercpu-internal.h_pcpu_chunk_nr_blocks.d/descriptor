@@ -1,0 +1,2 @@
+struct pcpu_chunk | nr_pages int 
+function pcpu_chunk_nr_blocks int | chunk struct pcpu_chunk *

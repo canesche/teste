@@ -1,2 +1,0 @@
-struct tpm_chip | dummy int 
-function tpm_ibmvtpm_req_canceled int | chip struct tpm_chip * | status long

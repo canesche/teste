@@ -1,2 +1,0 @@
-struct bfi_ioc_image_hdr | md5sum long * 
-function bfa_ioc_fwver_md5_check int | fwhdr_1 struct bfi_ioc_image_hdr * | fwhdr_2 struct bfi_ioc_image_hdr *

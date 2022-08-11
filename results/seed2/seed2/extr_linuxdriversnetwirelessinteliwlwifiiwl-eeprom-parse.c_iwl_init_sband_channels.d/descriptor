@@ -1,0 +1,4 @@
+struct iwl_nvm_data | channels struct ieee80211_channel * 
+struct ieee80211_supported_band | n_channels int | channels struct ieee80211_channel * 
+struct ieee80211_channel | band int 
+function iwl_init_sband_channels int | data struct iwl_nvm_data * | sband struct ieee80211_supported_band * | n_channels int | band enum nl80211_band

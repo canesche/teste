@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxnet9ptrans_xen.c_p9_xen_cancel.d/extr_linuxnet9ptrans_xen.c_p9_xen_cancel_O0::p9_xen_cancel(62)"
+  }
+]

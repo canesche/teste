@@ -1,0 +1,2 @@
+struct agp_bridge_data | dummy int 
+function agp_generic_type_to_mask_type int | bridge struct agp_bridge_data * | type int

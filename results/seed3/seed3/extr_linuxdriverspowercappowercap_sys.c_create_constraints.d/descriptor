@@ -1,0 +1,12 @@
+struct powercap_zone_constraint_ops | get_min_time_window_us long | get_max_time_window_us long | get_min_power_uw long | get_max_power_uw long | get_name long | set_time_window_us int | get_time_window_us int | set_power_limit_uw int | get_power_limit_uw int 
+struct powercap_zone_constraint | ops const struct powercap_zone_constraint_ops * | id int 
+struct powercap_zone | zone_attr_count int | zone_dev_attrs int ** | const_id_cnt int | constraints struct powercap_zone_constraint * 
+struct TYPE_15__ | attr int 
+struct TYPE_14__ | attr int 
+struct TYPE_13__ | attr int 
+struct TYPE_12__ | attr int 
+struct TYPE_11__ | attr int 
+struct TYPE_10__ | attr int 
+struct TYPE_9__ | attr int 
+struct TYPE_16__ | min_time_window_attr struct TYPE_15__ | max_time_window_attr struct TYPE_14__ | min_power_attr struct TYPE_13__ | max_power_attr struct TYPE_12__ | name_attr struct TYPE_11__ | time_window_attr struct TYPE_10__ | power_limit_attr struct TYPE_9__ 
+function create_constraints int | power_zone struct powercap_zone * | nr_constraints int | const_ops const struct powercap_zone_constraint_ops *

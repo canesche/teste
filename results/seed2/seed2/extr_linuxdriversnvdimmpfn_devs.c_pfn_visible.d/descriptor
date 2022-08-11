@@ -1,0 +1,4 @@
+struct kobject | dummy int 
+struct attribute | mode int 
+struct TYPE_2__ | attr struct attribute 
+function pfn_visible int | kobj struct kobject * | a struct attribute * | n int

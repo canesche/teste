@@ -1,1 +1,0 @@
-function tcpm_copy_vdos int | dest_vdo int * | src_vdo const int * | nr_vdo unsigned int

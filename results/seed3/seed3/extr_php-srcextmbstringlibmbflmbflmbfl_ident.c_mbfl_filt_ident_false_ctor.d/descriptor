@@ -1,0 +1,2 @@
+struct TYPE_3__ | flag int | status long 
+function mbfl_filt_ident_false_ctor void | filter struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | __def int 
+function posix_spawnattr_setsigdefault int | attr struct TYPE_3__ *__restrict | def const int *__restrict

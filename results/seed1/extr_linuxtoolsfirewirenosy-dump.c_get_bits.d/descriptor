@@ -1,2 +1,0 @@
-struct link_packet | dummy int 
-function get_bits unsigned int | packet struct link_packet * | offset int | width int

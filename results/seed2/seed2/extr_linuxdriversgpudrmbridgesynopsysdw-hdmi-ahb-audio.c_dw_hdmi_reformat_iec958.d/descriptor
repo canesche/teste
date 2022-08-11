@@ -1,0 +1,2 @@
+struct snd_dw_hdmi | buf_src int * | buf_dst int * 
+function dw_hdmi_reformat_iec958 void | dw struct snd_dw_hdmi * | offset unsigned long | bytes unsigned long

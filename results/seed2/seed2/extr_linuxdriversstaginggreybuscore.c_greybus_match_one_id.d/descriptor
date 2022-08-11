@@ -1,0 +1,4 @@
+struct greybus_bundle_id | match_flags int | vendor long | product long | class long 
+struct gb_bundle | class long | intf struct TYPE_2__ * 
+struct TYPE_2__ | vendor_id long | product_id long 
+function greybus_match_one_id int | bundle struct gb_bundle * | id const struct greybus_bundle_id *

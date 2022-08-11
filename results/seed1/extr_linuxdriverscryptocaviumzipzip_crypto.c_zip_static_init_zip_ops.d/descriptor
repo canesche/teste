@@ -1,2 +1,0 @@
-struct zip_operation | speed int | ccode int | lzs_flag int | begin_file int | end_file int | csum int | compcode long | history_len long | format int | flush int 
-function zip_static_init_zip_ops void | zip_ops struct zip_operation * | lzs_flag int

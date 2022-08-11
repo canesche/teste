@@ -1,3 +1,0 @@
-struct rev_info | rev_input_given int 
-struct all_refs_cb | all_flags unsigned int | wt int * | all_revs struct rev_info * 
-function init_all_refs_cb void | cb struct all_refs_cb * | revs struct rev_info * | flags unsigned int

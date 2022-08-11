@@ -1,0 +1,2 @@
+struct pl022 | dummy int 
+function pl022_dma_probe int | pl022 struct pl022 *

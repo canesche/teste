@@ -1,0 +1,2 @@
+struct dm_arg_set | argc int 
+function at_least_one_arg int | as struct dm_arg_set * | error char **

@@ -1,3 +1,0 @@
-struct TYPE_6__ | Eflags int | Cs int | Eip int | Edi int | Esi int | Ebp int | Esp int | Ebx int | Edx int | Ecx int | Eax int | Ds long | Es long | Fs long | Gs long 
-struct TYPE_5__ | EFlags int | SegCs int | Eip int | Edi int | Esi int | Ebp int | HardwareEsp int | Ebx int | Edx int | Ecx int | Eax int | SegDs void * | SegEs void * | SegFs void * | SegGs void * 
-function MpsIRQTrapFrameToTrapFrame int | IrqTrapFrame struct TYPE_6__ * | TrapFrame struct TYPE_5__ *

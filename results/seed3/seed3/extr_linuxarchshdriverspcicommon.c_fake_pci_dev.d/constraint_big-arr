@@ -1,0 +1,1 @@
+value(top_bus) == 255, value(busnr) == 255, value(devfn) == 255, length(hose) == 65025

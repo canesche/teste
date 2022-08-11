@@ -1,0 +1,3 @@
+struct platform_device | dummy int 
+struct max8997_platform_data | dummy int 
+function max8997_pmic_dt_parse_pdata int | pdev struct platform_device * | pdata struct max8997_platform_data *

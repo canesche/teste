@@ -1,2 +1,0 @@
-struct oid_par_priv | type_of_oid long | information_buf_len int | bytes_rw int * | information_buf long 
-function oid_rt_supported_wireless_mode_hdl int | poid_par_priv struct oid_par_priv *

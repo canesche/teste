@@ -1,0 +1,2 @@
+struct pushpull | buf char * | buflen unsigned int | ofs unsigned int | reserve unsigned int 
+function init_pushpull void | pp struct pushpull * | buf char * | buflen unsigned int | ofs unsigned int | reserve unsigned int

@@ -1,0 +1,2 @@
+struct mips_perf_event | cntr_mask int | event_id int 
+function mipspmu_perf_event_encode unsigned int | pev const struct mips_perf_event *

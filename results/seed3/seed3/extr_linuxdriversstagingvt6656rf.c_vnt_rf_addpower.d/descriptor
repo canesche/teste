@@ -1,0 +1,2 @@
+struct vnt_private | current_rssi int | rf_type long 
+function vnt_rf_addpower int | priv struct vnt_private *

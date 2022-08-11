@@ -1,0 +1,2 @@
+struct mwifiex_uap_bss_param | bcast_ssid_ctl int | radio_ctl int | dtim_period int | beacon_period int | auth_mode int | rts_threshold int | frag_threshold int | retry_limit int | qos_info int 
+function mwifiex_set_sys_config_invalid_data void | config struct mwifiex_uap_bss_param *

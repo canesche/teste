@@ -1,0 +1,2 @@
+struct wiphy | bands long * 
+function is_band_valid int | wiphy struct wiphy * | b enum nl80211_band

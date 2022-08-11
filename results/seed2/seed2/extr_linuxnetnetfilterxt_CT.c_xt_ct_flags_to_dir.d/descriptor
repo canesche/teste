@@ -1,0 +1,2 @@
+struct xt_ct_target_info_v1 | flags int 
+function xt_ct_flags_to_dir int | info const struct xt_ct_target_info_v1 *

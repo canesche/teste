@@ -1,2 +1,0 @@
-struct device | dummy int 
-function rt5682_readable_register int | dev struct device * | reg unsigned int

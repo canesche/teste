@@ -1,0 +1,2 @@
+struct grep_pat | dummy int 
+function pcre1match int | p struct grep_pat * | line const char * | eol const char * | match int * | eflags int

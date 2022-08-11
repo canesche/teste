@@ -1,0 +1,2 @@
+struct qeth_card | recovery_task long 
+function qeth_is_recovery_task int | card const struct qeth_card *

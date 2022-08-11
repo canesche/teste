@@ -1,4 +1,0 @@
-struct TYPE_4__ | board_rev int | boardflags_lo int 
-struct TYPE_3__ | vendor long | type int 
-struct ssb_bus | sprom struct TYPE_4__ | boardinfo struct TYPE_3__ 
-function b43legacy_sprom_fixup void | bus struct ssb_bus *

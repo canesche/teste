@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetfaradayftgmac100.c_ftgmac100_rx_packet_error.d/extr_linuxdriversnetethernetfaradayftgmac100.c_ftgmac100_rx_packet_error_O0::ftgmac100_rx_packet_error(70)"
+  }
+]

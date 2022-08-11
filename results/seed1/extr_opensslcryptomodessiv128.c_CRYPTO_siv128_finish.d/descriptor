@@ -1,2 +1,0 @@
-struct TYPE_3__ | final_ret int 
-function CRYPTO_siv128_finish int | ctx struct TYPE_3__ *

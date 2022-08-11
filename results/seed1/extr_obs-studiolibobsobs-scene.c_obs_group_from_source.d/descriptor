@@ -1,5 +1,0 @@
-struct TYPE_7__ | data int * 
-struct TYPE_6__ | id long 
-struct TYPE_8__ | context struct TYPE_7__ | info struct TYPE_6__ 
-struct TYPE_9__ | id long 
-function obs_group_from_source int * | source const struct TYPE_8__ *

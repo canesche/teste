@@ -1,0 +1,2 @@
+struct ipu_soc | id int 
+function ipu_get_num int | ipu struct ipu_soc *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | planenum int 
+struct TYPE_6__ | entitynum long | numsides int | original_sides struct TYPE_5__ * 
+function BrushExists int | brush struct TYPE_6__ *

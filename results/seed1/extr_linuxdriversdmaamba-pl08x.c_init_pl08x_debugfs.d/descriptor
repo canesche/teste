@@ -1,2 +1,0 @@
-struct pl08x_driver_data | dummy int 
-function init_pl08x_debugfs void | pl08x struct pl08x_driver_data *

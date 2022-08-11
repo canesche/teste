@@ -1,0 +1,1 @@
+function _RpcXcvData int | hXcv int | pszDataName const int * | pInputData int * | cbInputData int | pOutputData int * | cbOutputData int | pcbOutputNeeded int * | pdwStatus int *

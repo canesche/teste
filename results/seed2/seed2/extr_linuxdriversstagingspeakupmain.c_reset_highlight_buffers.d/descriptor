@@ -1,0 +1,4 @@
+struct vc_data | vc_num int 
+struct TYPE_3__ | highsize long * 
+struct TYPE_4__ | ht struct TYPE_3__ 
+function reset_highlight_buffers void | vc struct vc_data *

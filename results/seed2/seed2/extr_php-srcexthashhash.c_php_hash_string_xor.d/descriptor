@@ -1,0 +1,1 @@
+function php_hash_string_xor void | out unsigned char * | in const unsigned char * | xor_with const unsigned char * | length const unsigned long

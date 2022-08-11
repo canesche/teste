@@ -1,3 +1,0 @@
-struct msm_dsi_host | mode struct drm_display_mode * 
-struct drm_display_mode | clock int 
-function dsi_get_pclk_rate int | msm_host struct msm_dsi_host * | is_dual_dsi int

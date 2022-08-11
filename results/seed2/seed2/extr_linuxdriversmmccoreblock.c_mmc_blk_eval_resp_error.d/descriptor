@@ -1,0 +1,4 @@
+struct TYPE_4__ | resp int * | error int 
+struct TYPE_3__ | sbc int 
+struct mmc_blk_request | stop struct TYPE_4__ | mrq struct TYPE_3__ 
+function mmc_blk_eval_resp_error void | brq struct mmc_blk_request *

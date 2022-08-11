@@ -1,0 +1,4 @@
+struct file | dummy int 
+struct dnotify_struct | dn_owner long | dn_fd int | dn_next struct dnotify_struct * | dn_filp struct file * | dn_mask int 
+struct dnotify_mark | dn struct dnotify_struct * 
+function attach_dn int | dn struct dnotify_struct * | dn_mark struct dnotify_mark * | id long | fd int | filp struct file * | mask int

@@ -1,0 +1,2 @@
+struct fb_cvt_data | flags int | f_refresh int | vtotal int | htotal int | hperiod int 
+function fb_cvt_pixclock int | cvt struct fb_cvt_data *

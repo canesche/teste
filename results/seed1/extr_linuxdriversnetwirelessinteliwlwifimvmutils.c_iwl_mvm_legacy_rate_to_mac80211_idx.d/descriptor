@@ -1,1 +1,0 @@
-function iwl_mvm_legacy_rate_to_mac80211_idx int | rate_n_flags int | band enum nl80211_band

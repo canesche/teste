@@ -1,0 +1,4 @@
+struct TYPE_4__ | opcode long | rt int 
+struct TYPE_3__ | func long | rs int 
+struct mips_instruction | i_format struct TYPE_4__ | r_format struct TYPE_3__ 
+function is_end_of_function_marker int | ip union mips_instruction *

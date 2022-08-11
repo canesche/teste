@@ -1,0 +1,2 @@
+struct buf | len unsigned long | size unsigned long | start char * 
+function append void | b struct buf * | c char

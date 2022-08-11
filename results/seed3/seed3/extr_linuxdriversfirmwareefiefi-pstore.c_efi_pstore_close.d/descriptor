@@ -1,0 +1,2 @@
+struct pstore_info | data int * 
+function efi_pstore_close int | psi struct pstore_info *

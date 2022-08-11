@@ -1,0 +1,2 @@
+struct sti_plane | desc int 
+function sti_mixer_get_plane_mask int | plane struct sti_plane *

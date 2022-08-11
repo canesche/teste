@@ -1,2 +1,0 @@
-struct gb_sdio_host | queued_events int 
-function _gb_queue_event void | host struct gb_sdio_host * | event int

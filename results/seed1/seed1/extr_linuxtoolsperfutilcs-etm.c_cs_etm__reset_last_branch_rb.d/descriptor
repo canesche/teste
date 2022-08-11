@@ -1,0 +1,3 @@
+struct cs_etm_queue | last_branch_rb struct TYPE_2__ * | last_branch_pos long 
+struct TYPE_2__ | nr long 
+function cs_etm__reset_last_branch_rb void | etmq struct cs_etm_queue *

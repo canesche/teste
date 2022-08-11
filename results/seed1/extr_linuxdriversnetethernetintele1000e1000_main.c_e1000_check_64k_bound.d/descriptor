@@ -1,3 +1,0 @@
-struct e1000_hw | mac_type long 
-struct e1000_adapter | hw struct e1000_hw 
-function e1000_check_64k_bound int | adapter struct e1000_adapter * | start void * | len unsigned long

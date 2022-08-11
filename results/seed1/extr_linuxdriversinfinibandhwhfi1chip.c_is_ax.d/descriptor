@@ -1,2 +1,0 @@
-struct hfi1_devdata | revision int 
-function is_ax int | dd struct hfi1_devdata *

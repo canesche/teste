@@ -1,0 +1,4 @@
+struct TYPE_6__ | feat struct TYPE_4__ * 
+struct TYPE_5__ | framedone_irq int 
+struct TYPE_4__ | no_framedone_tv long 
+function dispc_mgr_get_framedone_irq int | channel enum omap_channel

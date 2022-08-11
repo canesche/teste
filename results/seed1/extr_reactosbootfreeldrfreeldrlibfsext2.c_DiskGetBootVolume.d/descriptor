@@ -1,1 +1,0 @@
-function DiskGetBootVolume int | DriveNumber long * | StartSector long * | SectorCount long * | FsType int *

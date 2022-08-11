@@ -1,0 +1,2 @@
+struct fuse_conn | blocked long | initialized int 
+function fuse_block_alloc int | fc struct fuse_conn * | for_background int

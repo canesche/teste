@@ -1,3 +1,0 @@
-struct cx88_core | boardnr int 
-struct cx8802_driver | core struct cx88_core * 
-function cx8802_blackbird_advise_release int | drv struct cx8802_driver *

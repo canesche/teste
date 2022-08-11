@@ -1,0 +1,2 @@
+struct TYPE_3__ | colortype long 
+function lodepng_is_greyscale_type unsigned int | info const struct TYPE_3__ *

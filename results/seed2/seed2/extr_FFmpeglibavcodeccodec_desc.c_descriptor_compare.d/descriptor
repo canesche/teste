@@ -1,0 +1,2 @@
+struct TYPE_2__ | id int 
+function descriptor_compare int | key const void * | member const void *

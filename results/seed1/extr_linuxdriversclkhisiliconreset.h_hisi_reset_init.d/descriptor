@@ -1,3 +1,0 @@
-struct platform_device | dummy int 
-struct hisi_reset_controller | dummy int 
-function hisi_reset_init struct hisi_reset_controller * | pdev struct platform_device *

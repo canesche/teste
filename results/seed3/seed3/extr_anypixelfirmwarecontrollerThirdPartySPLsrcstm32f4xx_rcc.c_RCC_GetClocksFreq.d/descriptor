@@ -1,0 +1,3 @@
+struct TYPE_5__ | CFGR int | PLLCFGR int 
+struct TYPE_4__ | SYSCLK_Frequency int | HCLK_Frequency int | PCLK1_Frequency int | PCLK2_Frequency int 
+function RCC_GetClocksFreq void | RCC_Clocks struct TYPE_4__ *

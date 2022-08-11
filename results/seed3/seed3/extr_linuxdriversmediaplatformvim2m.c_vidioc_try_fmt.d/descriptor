@@ -1,0 +1,5 @@
+struct vim2m_fmt | depth int 
+struct TYPE_3__ | height int | width int | bytesperline int | sizeimage int | field int 
+struct TYPE_4__ | pix struct TYPE_3__ 
+struct v4l2_format | fmt struct TYPE_4__ 
+function vidioc_try_fmt int | f struct v4l2_format * | fmt struct vim2m_fmt *

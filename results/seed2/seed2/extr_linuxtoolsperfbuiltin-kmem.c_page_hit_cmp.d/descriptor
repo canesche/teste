@@ -1,0 +1,2 @@
+struct page_stat | nr_alloc long 
+function page_hit_cmp int | a void * | b void *

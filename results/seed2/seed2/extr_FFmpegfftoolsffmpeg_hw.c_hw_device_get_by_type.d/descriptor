@@ -1,0 +1,2 @@
+struct TYPE_4__ | type int 
+function hw_device_get_by_type struct TYPE_4__ * | type enum AVHWDeviceType

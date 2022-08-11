@@ -1,2 +1,0 @@
-struct crypto_tfm | dummy int 
-function crypto_rng_init_tfm int | tfm struct crypto_tfm *

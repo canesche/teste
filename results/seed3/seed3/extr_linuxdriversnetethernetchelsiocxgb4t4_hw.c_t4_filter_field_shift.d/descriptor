@@ -1,0 +1,4 @@
+struct TYPE_3__ | vlan_pri_map unsigned int 
+struct TYPE_4__ | tp struct TYPE_3__ 
+struct adapter | params struct TYPE_4__ 
+function t4_filter_field_shift int | adap const struct adapter * | filter_sel int

@@ -1,0 +1,3 @@
+struct ad5755_state | chip_info struct TYPE_2__ * 
+struct TYPE_2__ | has_voltage_out int 
+function ad5755_is_valid_mode int | st struct ad5755_state * | mode enum ad5755_mode

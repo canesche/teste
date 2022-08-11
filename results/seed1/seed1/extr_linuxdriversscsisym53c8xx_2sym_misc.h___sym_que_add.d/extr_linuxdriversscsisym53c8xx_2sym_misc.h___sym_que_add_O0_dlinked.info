@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversscsisym53c8xx_2sym_misc.h___sym_que_add.d/extr_linuxdriversscsisym53c8xx_2sym_misc.h___sym_que_add_O0::__sym_que_add(64)"
+  }
+]

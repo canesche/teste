@@ -1,0 +1,3 @@
+struct TYPE_4__ | ticklen unsigned long | tick unsigned char * 
+struct TYPE_5__ | ext struct TYPE_4__ 
+function SSL_SESSION_get0_ticket void | s const struct TYPE_5__ * | tick const unsigned char ** | len unsigned long *

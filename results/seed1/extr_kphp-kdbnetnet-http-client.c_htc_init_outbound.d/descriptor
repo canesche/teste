@@ -1,2 +1,0 @@
-struct connection | dummy int 
-function htc_init_outbound int | c struct connection *

@@ -1,2 +1,0 @@
-struct key_binding | key long 
-function key_bindings_cmp int | bd1 struct key_binding * | bd2 struct key_binding *

@@ -1,4 +1,0 @@
-struct snd_timer_id | card int | subdevice int | device int | dev_sclass int | dev_class int 
-struct snd_timer | tmr_subdevice int | tmr_device int | card struct TYPE_2__ * | tmr_class int 
-struct TYPE_2__ | number int 
-function snd_timer_user_copy_id void | id struct snd_timer_id * | timer struct snd_timer *

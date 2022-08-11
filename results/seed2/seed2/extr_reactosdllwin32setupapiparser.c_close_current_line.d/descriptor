@@ -1,0 +1,3 @@
+struct parser | line struct line * 
+struct line | nb_fields int | key_field int | first_field int 
+function close_current_line void | parser struct parser *

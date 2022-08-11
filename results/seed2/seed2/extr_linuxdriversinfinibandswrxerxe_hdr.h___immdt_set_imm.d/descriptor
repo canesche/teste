@@ -1,0 +1,2 @@
+struct rxe_immdt | imm int 
+function __immdt_set_imm void | arg void * | imm int

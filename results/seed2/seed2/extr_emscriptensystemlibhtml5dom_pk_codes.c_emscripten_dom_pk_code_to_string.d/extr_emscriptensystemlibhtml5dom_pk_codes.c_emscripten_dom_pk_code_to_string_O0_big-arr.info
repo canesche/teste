@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_emscriptensystemlibhtml5dom_pk_codes.c_emscripten_dom_pk_code_to_string.d/extr_emscriptensystemlibhtml5dom_pk_codes.c_emscripten_dom_pk_code_to_string_O0::emscripten_dom_pk_code_to_string(212)"
+  }
+]

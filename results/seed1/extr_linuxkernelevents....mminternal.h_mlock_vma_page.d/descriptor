@@ -1,2 +1,0 @@
-struct page | dummy int 
-function mlock_vma_page void | page struct page *

@@ -1,0 +1,4 @@
+struct scpi_opp | freq unsigned long 
+struct scpi_clk | info struct TYPE_2__ * 
+struct TYPE_2__ | count int | opps struct scpi_opp * 
+function __scpi_dvfs_round_rate long | clk struct scpi_clk * | rate unsigned long

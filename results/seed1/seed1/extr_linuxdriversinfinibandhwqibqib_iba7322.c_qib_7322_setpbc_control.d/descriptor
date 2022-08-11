@@ -1,0 +1,2 @@
+struct qib_pportdata | delay_mult unsigned long | hw_pidx long 
+function qib_7322_setpbc_control int | ppd struct qib_pportdata * | plen int | srate unsigned long | vl unsigned long

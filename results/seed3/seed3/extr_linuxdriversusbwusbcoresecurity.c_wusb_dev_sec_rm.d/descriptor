@@ -1,0 +1,2 @@
+struct wusb_dev | dummy int 
+function wusb_dev_sec_rm void | wusb_dev struct wusb_dev *

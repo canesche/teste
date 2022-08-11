@@ -1,4 +1,0 @@
-struct nfs_commit_info | dummy int 
-struct list_head | dummy int 
-struct inode | dummy int 
-function pnfs_commit_list int | inode struct inode * | mds_pages struct list_head * | how int | cinfo struct nfs_commit_info *

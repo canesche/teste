@@ -1,0 +1,2 @@
+struct led_classdev | dummy int 
+function wacom_led_readonly_brightness_set void | cdev struct led_classdev * | brightness enum led_brightness

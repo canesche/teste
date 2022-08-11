@@ -1,0 +1,1 @@
+function cfg80211_bss_type_match int | capability int | band enum nl80211_band | bss_type enum ieee80211_bss_type

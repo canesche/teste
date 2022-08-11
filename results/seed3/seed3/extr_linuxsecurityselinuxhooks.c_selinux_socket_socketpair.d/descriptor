@@ -1,0 +1,4 @@
+struct socket | sk struct TYPE_2__ * 
+struct sk_security_struct | sid int | peer_sid int 
+struct TYPE_2__ | sk_security struct sk_security_struct * 
+function selinux_socket_socketpair int | socka struct socket * | sockb struct socket *

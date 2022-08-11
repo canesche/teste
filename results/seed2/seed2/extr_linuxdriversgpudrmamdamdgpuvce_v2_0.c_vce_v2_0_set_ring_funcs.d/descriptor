@@ -1,0 +1,4 @@
+struct TYPE_4__ | num_rings int | ring struct TYPE_3__ * 
+struct amdgpu_device | vce struct TYPE_4__ 
+struct TYPE_3__ | me int | funcs int * 
+function vce_v2_0_set_ring_funcs void | adev struct amdgpu_device *

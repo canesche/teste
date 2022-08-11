@@ -1,0 +1,4 @@
+struct TYPE_3__ | num_macs_set int 
+struct TYPE_4__ | exact_match struct TYPE_3__ 
+struct bnx2x_mcast_obj | registry struct TYPE_4__ 
+function bnx2x_mcast_get_registry_size_exact int | o struct bnx2x_mcast_obj *

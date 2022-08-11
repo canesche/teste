@@ -1,0 +1,3 @@
+struct sock | dummy int 
+struct sk_buff | dummy int 
+function dummy_ipv6_icmp_error void | sk struct sock * | skb struct sk_buff * | err int | port int | info int | payload int *

@@ -1,2 +1,0 @@
-struct vgic_irq | owner void * | config int | line_level int 
-function vgic_validate_injection int | irq struct vgic_irq * | level int | owner void *

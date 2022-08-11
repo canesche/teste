@@ -1,0 +1,2 @@
+struct TYPE_3__ | max_buffer_size unsigned long 
+function get_max_buffer_size int | ctx struct TYPE_3__ *

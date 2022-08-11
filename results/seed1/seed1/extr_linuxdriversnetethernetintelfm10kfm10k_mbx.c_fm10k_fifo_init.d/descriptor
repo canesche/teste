@@ -1,0 +1,2 @@
+struct fm10k_mbx_fifo | tail long | head long | size int | buffer int * 
+function fm10k_fifo_init void | fifo struct fm10k_mbx_fifo * | buffer int * | size int

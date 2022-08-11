@@ -1,0 +1,2 @@
+struct TYPE_2__ | HKCUkey long | HKLMkey long 
+function REG_GetHKEYFromHUSKEY long | hUSKey void * | which long

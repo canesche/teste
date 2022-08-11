@@ -1,0 +1,2 @@
+struct Scsi_Host | dummy int 
+function wd33c93_write_info int | instance struct Scsi_Host * | buf char * | len int

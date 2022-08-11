@@ -1,4 +1,0 @@
-struct net_device | dummy int 
-struct iw_request_info | dummy int 
-struct iw_param | dummy int 
-function cfg80211_wext_giwauth int | dev struct net_device * | info struct iw_request_info * | data struct iw_param * | extra char *

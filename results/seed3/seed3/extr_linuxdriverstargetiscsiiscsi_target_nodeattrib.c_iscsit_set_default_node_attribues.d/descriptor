@@ -1,0 +1,5 @@
+struct TYPE_2__ | default_erl int 
+struct iscsi_portal_group | tpg_attrib struct TYPE_2__ 
+struct iscsi_node_attrib | default_erl int | random_r2t_offsets int | random_datain_seq_offsets int | random_datain_pdu_offsets int | nopin_response_timeout int | nopin_timeout int | dataout_timeout_retries int | dataout_timeout int 
+struct iscsi_node_acl | node_attrib struct iscsi_node_attrib 
+function iscsit_set_default_node_attribues void | acl struct iscsi_node_acl * | tpg struct iscsi_portal_group *

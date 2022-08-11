@@ -1,2 +1,0 @@
-struct i810fb_par | dummy int 
-function i810_delete_i2c_busses void | par struct i810fb_par *

@@ -1,0 +1,5 @@
+struct scb | platform_data struct TYPE_6__ * | io_ctx struct TYPE_4__ * 
+struct TYPE_6__ | dev struct TYPE_5__ * 
+struct TYPE_5__ | qfrozen int 
+struct TYPE_4__ | result int 
+function ahc_freeze_scb void | scb struct scb *

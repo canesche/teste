@@ -1,1 +1,0 @@
-function get_mmio_spte_generation unsigned int | spte unsigned int

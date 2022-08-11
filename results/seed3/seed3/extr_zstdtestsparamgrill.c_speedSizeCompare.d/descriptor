@@ -1,0 +1,2 @@
+struct TYPE_4__ | cSpeed long | cSize long 
+function speedSizeCompare int | r1 const struct TYPE_4__ | r2 const struct TYPE_4__

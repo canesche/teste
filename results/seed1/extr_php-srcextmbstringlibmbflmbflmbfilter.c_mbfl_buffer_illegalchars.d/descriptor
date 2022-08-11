@@ -1,4 +1,0 @@
-struct TYPE_7__ | filter2 struct TYPE_6__ * | filter1 struct TYPE_5__ * 
-struct TYPE_6__ | num_illegalchar long 
-struct TYPE_5__ | num_illegalchar long 
-function mbfl_buffer_illegalchars unsigned long | convd struct TYPE_7__ *

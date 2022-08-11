@@ -1,0 +1,2 @@
+struct via82xx | dummy int 
+function snd_via686_free_gameport void | chip struct via82xx *

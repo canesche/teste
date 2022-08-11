@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function pcie_aspm_powersave_config_link void | pdev struct pci_dev *

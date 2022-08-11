@@ -1,2 +1,0 @@
-struct mlx5e_priv | dummy int 
-function mlx5e_grp_2819_get_num_stats int | priv struct mlx5e_priv *

@@ -1,0 +1,4 @@
+struct sigmatel_spec | gpio_led int 
+struct hda_fixup | dummy int 
+struct hda_codec | spec struct sigmatel_spec * 
+function stac92hd71bxx_fixup_hp_dv4 void | codec struct hda_codec * | fix const struct hda_fixup * | action int

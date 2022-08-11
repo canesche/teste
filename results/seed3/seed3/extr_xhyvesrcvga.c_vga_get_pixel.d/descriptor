@@ -1,0 +1,4 @@
+struct TYPE_4__ | dac_palette_rgb int * 
+struct TYPE_3__ | atc_color_plane_enb unsigned long | atc_mode int | atc_palette int * | atc_color_select_45 unsigned long | atc_color_select_67 unsigned long 
+struct vga_softc | gc_width int | vga_ram int * | vga_dac struct TYPE_4__ | vga_atc struct TYPE_3__ 
+function vga_get_pixel int | sc struct vga_softc * | x int | y int

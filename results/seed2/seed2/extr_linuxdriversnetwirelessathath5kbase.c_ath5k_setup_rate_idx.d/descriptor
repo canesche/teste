@@ -1,0 +1,4 @@
+struct ieee80211_supported_band | band unsigned long | n_bitrates unsigned long | bitrates struct TYPE_2__ * 
+struct ath5k_hw | rate_idx int ** 
+struct TYPE_2__ | hw_value unsigned long | hw_value_short int 
+function ath5k_setup_rate_idx void | ah struct ath5k_hw * | b struct ieee80211_supported_band *

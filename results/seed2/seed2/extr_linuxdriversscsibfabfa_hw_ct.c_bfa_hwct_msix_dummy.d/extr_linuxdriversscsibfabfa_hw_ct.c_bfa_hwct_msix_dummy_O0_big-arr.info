@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversscsibfabfa_hw_ct.c_bfa_hwct_msix_dummy.d/extr_linuxdriversscsibfabfa_hw_ct.c_bfa_hwct_msix_dummy_O0::bfa_hwct_msix_dummy(62)"
+  }
+]

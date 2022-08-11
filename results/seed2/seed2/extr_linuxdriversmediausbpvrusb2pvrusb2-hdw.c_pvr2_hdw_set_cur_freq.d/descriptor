@@ -1,0 +1,2 @@
+struct pvr2_hdw | input_val long | freqSelector int | freqDirty int | freqValRadio unsigned long | freqValTelevision unsigned long | freqSlotTelevision long | freqSlotRadio long 
+function pvr2_hdw_set_cur_freq void | hdw struct pvr2_hdw * | val unsigned long

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriverscharpcmciacm4000_cs.c_calc_baudv.d/extr_linuxdriverscharpcmciacm4000_cs.c_calc_baudv_O0::calc_baudv(60)"
+  }
+]

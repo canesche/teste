@@ -1,6 +1,0 @@
-struct TYPE_3__ | delivery_system long | modulation int | rolloff int | pilot int 
-struct TYPE_4__ | dtv_property_cache struct TYPE_3__ 
-struct firedtv | type long | voltage int | tone int | fe struct TYPE_4__ | avc_data long 
-struct dtv_frontend_properties | frequency int | symbol_rate int | fec_inner int 
-struct avc_command_frame | operand int * | opcode int 
-function avc_tuner_tuneqpsk int | fdtv struct firedtv * | p struct dtv_frontend_properties *

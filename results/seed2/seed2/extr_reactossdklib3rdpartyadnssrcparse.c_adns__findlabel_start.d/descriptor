@@ -1,0 +1,2 @@
+struct TYPE_3__ | serv int | dglen int | max int | cbyte int | dmend_r int * | namelen long | dgram const int * | qu int | ads int 
+function adns__findlabel_start void | fls struct TYPE_3__ * | ads int | serv int | qu int | dgram const int * | dglen int | max int | dmbegin int | dmend_rlater int *

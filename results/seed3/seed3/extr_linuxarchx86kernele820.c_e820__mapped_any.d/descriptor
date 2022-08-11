@@ -1,0 +1,3 @@
+struct e820_entry | type int | addr long | size long 
+struct TYPE_2__ | nr_entries int | entries struct e820_entry * 
+function e820__mapped_any int | start long | end long | type enum e820_type

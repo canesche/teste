@@ -1,0 +1,2 @@
+struct TYPE_3__ | items int | stack void ** 
+function raxStackPeek void * | ts struct TYPE_3__ *

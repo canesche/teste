@@ -1,0 +1,5 @@
+struct wl_surface | dummy int 
+struct wl_pointer | dummy int 
+struct TYPE_2__ | current int * 
+struct swaybar_seat | pointer struct TYPE_2__ 
+function wl_pointer_leave void | data void * | wl_pointer struct wl_pointer * | serial int | surface struct wl_surface *

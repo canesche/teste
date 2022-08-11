@@ -1,2 +1,0 @@
-struct ff_callbacks | frame_free void * | frame_initialize void * | initialize int | format int | frame void * | opaque void * 
-function ff_demuxer_set_callbacks void | callbacks struct ff_callbacks * | frame void * | format int | initialize int | frame_initialize void * | frame_free void * | opaque void *

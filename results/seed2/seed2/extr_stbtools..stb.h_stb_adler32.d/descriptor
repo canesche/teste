@@ -1,0 +1,1 @@
+function stb_adler32 int | adler32 int | buffer long * | buflen int

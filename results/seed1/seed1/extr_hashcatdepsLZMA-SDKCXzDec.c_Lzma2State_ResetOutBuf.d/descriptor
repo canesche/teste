@@ -1,0 +1,5 @@
+struct TYPE_6__ | dicBufSize unsigned long | dic int * 
+struct TYPE_7__ | decoder struct TYPE_6__ 
+struct TYPE_9__ | decoder struct TYPE_7__ | outBufMode long 
+struct TYPE_8__ | p long 
+function Lzma2State_ResetOutBuf int | p struct TYPE_8__ * | outBuf int * | outBufSize unsigned long

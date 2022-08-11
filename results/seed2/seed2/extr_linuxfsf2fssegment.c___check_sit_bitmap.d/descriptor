@@ -1,0 +1,2 @@
+struct f2fs_sb_info | dummy int 
+function __check_sit_bitmap void | sbi struct f2fs_sb_info * | start int | end int

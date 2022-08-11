@@ -1,0 +1,4 @@
+struct TYPE_3__ | ox_id void * | rx_id void * 
+struct TYPE_4__ | ex_id struct TYPE_3__ 
+struct fcpio_tag | u struct TYPE_4__ 
+function fcpio_tag_exid_enc void | tag struct fcpio_tag * | ox_id void * | rx_id void *

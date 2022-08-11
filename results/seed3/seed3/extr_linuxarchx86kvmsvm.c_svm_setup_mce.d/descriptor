@@ -1,0 +1,3 @@
+struct TYPE_2__ | mcg_cap int 
+struct kvm_vcpu | arch struct TYPE_2__ 
+function svm_setup_mce void | vcpu struct kvm_vcpu *

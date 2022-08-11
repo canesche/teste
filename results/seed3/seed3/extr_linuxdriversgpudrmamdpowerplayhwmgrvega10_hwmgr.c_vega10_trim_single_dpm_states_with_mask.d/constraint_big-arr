@@ -1,0 +1,1 @@
+value(low_limit) == 255, value(high_limit) == 255, value(disable_dpm_mask) == 255, length(hwmgr) == 65025, length(dpm_table) == 65025

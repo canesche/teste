@@ -1,0 +1,2 @@
+struct annotated_source | sizeof_sym_hist int | histograms long 
+function annotated_source__histogram struct sym_hist * | src struct annotated_source * | idx int

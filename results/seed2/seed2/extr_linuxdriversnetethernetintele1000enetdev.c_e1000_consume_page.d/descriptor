@@ -1,0 +1,3 @@
+struct sk_buff | truesize int | data_len int | len int 
+struct e1000_buffer | page int * 
+function e1000_consume_page void | bi struct e1000_buffer * | skb struct sk_buff * | length long

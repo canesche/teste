@@ -1,0 +1,4 @@
+struct TYPE_4__ | policy_bydst struct TYPE_3__ * 
+struct net | xfrm struct TYPE_4__ 
+struct TYPE_3__ | sbits6 int | dbits6 int | sbits4 int | dbits4 int 
+function __get_hash_thresh void | net struct net * | family unsigned short | dir int | dbits int * | sbits int *

@@ -1,0 +1,2 @@
+struct asd_sas_phy | dummy int 
+function hisi_sas_port_deformed void | sas_phy struct asd_sas_phy *

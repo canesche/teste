@@ -1,0 +1,2 @@
+struct pkcs7_parse_context | raw_issuer_size unsigned long | raw_issuer const void * 
+function pkcs7_sig_note_issuer int | context void * | hdrlen unsigned long | tag unsigned char | value const void * | vlen unsigned long

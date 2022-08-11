@@ -1,0 +1,2 @@
+struct usb_device | dummy int 
+function usb_port_suspend int | udev struct usb_device * | msg int

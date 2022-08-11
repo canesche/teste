@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxfsf2fsfile.c_f2fs_ioc_setproject.d/extr_linuxfsf2fsfile.c_f2fs_ioc_setproject_O0::f2fs_ioc_setproject(64)"
+  }
+]

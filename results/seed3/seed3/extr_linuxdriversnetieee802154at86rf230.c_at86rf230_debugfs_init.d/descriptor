@@ -1,0 +1,2 @@
+struct at86rf230_local | dummy int 
+function at86rf230_debugfs_init int | lp struct at86rf230_local *

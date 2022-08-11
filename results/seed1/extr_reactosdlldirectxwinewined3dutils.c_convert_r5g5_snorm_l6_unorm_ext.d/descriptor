@@ -1,1 +1,0 @@
-function convert_r5g5_snorm_l6_unorm_ext void | src const unsigned char * | dst unsigned char * | src_row_pitch unsigned int | src_slice_pitch unsigned int | dst_row_pitch unsigned int | dst_slice_pitch unsigned int | width unsigned int | height unsigned int | depth unsigned int

@@ -1,0 +1,2 @@
+struct dc_state | val int | name char * 
+function dc_state_str char * | state unsigned char

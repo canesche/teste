@@ -1,0 +1,1 @@
+function lan78xx_wakeframe_crc16 int | buf const int * | len int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | st_mode int 
+function iso9660_get_posix_filemode_from_rock int | rr const struct TYPE_3__ *

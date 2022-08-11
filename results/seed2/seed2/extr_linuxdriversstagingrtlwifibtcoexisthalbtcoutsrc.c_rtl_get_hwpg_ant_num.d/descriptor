@@ -1,0 +1,4 @@
+struct TYPE_3__ | ant_num long 
+struct TYPE_4__ | btc_info struct TYPE_3__ 
+struct rtl_priv | btcoexist struct TYPE_4__ 
+function rtl_get_hwpg_ant_num int | rtlpriv struct rtl_priv *

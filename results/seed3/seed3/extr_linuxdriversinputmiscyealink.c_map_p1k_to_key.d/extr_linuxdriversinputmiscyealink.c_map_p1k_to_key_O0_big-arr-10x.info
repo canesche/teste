@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversinputmiscyealink.c_map_p1k_to_key.d/extr_linuxdriversinputmiscyealink.c_map_p1k_to_key_O0::map_p1k_to_key(80)"
+  }
+]

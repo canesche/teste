@@ -1,0 +1,2 @@
+struct TYPE_4__ | thr_uid long | thr_discrim long 
+function prof_tdata_comp int | a const struct TYPE_4__ * | b const struct TYPE_4__ *

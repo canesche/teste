@@ -1,0 +1,4 @@
+struct wl_output | dummy int 
+struct TYPE_2__ | y void * | x void * 
+struct _GLFWmonitor | heightMM void * | widthMM void * | wl struct TYPE_2__ 
+function geometry void | data void * | output struct wl_output * | x void * | y void * | physicalWidth void * | physicalHeight void * | subpixel void * | make const char * | model const char * | transform void *

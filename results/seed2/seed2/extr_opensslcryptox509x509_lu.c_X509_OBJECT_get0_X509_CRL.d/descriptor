@@ -1,0 +1,3 @@
+struct TYPE_4__ | crl int * 
+struct TYPE_5__ | type long | data struct TYPE_4__ 
+function X509_OBJECT_get0_X509_CRL int * | a struct TYPE_5__ *

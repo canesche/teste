@@ -1,2 +1,0 @@
-struct index_state | dummy int 
-function scan_subtree_for_deletion void | repo_id const char * | istate struct index_state * | worktree const char * | path const char * | ignore_list int * | fset int * | is_readonly int | scanned_dirs int ** | changeset int *

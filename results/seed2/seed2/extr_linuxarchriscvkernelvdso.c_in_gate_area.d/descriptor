@@ -1,0 +1,2 @@
+struct mm_struct | dummy int 
+function in_gate_area int | mm struct mm_struct * | addr unsigned long

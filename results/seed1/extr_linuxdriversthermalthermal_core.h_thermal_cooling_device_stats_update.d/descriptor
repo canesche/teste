@@ -1,2 +1,0 @@
-struct thermal_cooling_device | dummy int 
-function thermal_cooling_device_stats_update void | cdev struct thermal_cooling_device * | new_state unsigned long

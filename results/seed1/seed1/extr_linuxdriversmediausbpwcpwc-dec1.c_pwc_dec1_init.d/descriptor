@@ -1,0 +1,3 @@
+struct pwc_dec1_private | version int 
+struct pwc_device | release int | dec1 struct pwc_dec1_private 
+function pwc_dec1_init void | pdev struct pwc_device * | cmd const unsigned char *

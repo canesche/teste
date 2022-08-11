@@ -1,0 +1,2 @@
+struct clk_hisi_phase | phase_num int | phase_regvals long * | phase_degrees int * 
+function hisi_phase_regval_to_degrees int | phase struct clk_hisi_phase * | regval long

@@ -1,2 +1,0 @@
-struct dvb_frontend | dummy int 
-function lg216x_read_signal_strength int | fe struct dvb_frontend * | strength long *

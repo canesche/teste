@@ -1,0 +1,2 @@
+struct device | dummy int 
+function __brcms_dbg void | dev struct device * | level int | func const char * | fmt const char *

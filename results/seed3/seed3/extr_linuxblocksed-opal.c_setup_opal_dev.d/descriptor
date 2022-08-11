@@ -1,0 +1,3 @@
+struct opal_step | dummy int 
+struct opal_dev | prev_data int * | hsn long | tsn long | steps const struct opal_step * 
+function setup_opal_dev void | dev struct opal_dev * | steps const struct opal_step *

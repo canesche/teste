@@ -1,0 +1,2 @@
+struct TYPE_5__ | as_uint32 int * 
+function fe25519_sub void | out struct TYPE_5__ * | baseValue const struct TYPE_5__ * | valueToSubstract const struct TYPE_5__ *

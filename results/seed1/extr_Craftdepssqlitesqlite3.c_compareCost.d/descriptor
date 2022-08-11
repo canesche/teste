@@ -1,3 +1,0 @@
-struct TYPE_5__ | nOBSat long | nRow long 
-struct TYPE_6__ | rCost long | plan struct TYPE_5__ 
-function compareCost int | pProbe const struct TYPE_6__ * | pBaseline const struct TYPE_6__ *

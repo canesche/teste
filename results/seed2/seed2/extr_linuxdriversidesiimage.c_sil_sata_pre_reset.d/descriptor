@@ -1,0 +1,2 @@
+struct TYPE_3__ | media long | special_flags int 
+function sil_sata_pre_reset void | drive struct TYPE_3__ *

@@ -1,2 +1,0 @@
-struct _Locale_ctype | dummy int 
-function _Locale_ctype_destroy void | lctype struct _Locale_ctype *

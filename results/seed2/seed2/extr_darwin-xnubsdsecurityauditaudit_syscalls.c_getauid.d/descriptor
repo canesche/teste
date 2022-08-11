@@ -1,0 +1,2 @@
+struct getauid_args | dummy int 
+function getauid int | p int | uap struct getauid_args * | retval int *

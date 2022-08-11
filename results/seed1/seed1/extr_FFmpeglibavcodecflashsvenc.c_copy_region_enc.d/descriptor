@@ -1,0 +1,1 @@
+function copy_region_enc int | sptr int * | dptr int * | dx int | dy int | h int | w int | stride int | pfptr int *

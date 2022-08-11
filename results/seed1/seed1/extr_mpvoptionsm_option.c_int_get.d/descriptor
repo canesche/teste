@@ -1,0 +1,3 @@
+struct TYPE_2__ | int64 int 
+struct mpv_node | u struct TYPE_2__ | format int 
+function int_get int | opt const int * | ta_parent void * | dst struct mpv_node * | src void *

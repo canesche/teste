@@ -1,0 +1,3 @@
+struct its_node | cmd_base struct its_cmd_block * 
+struct its_cmd_block | dummy int 
+function its_cmd_ptr_to_offset int | its struct its_node * | ptr struct its_cmd_block *

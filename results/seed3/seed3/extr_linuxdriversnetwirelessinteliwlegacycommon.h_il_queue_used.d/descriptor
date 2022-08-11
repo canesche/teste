@@ -1,0 +1,2 @@
+struct il_queue | write_ptr int | read_ptr int 
+function il_queue_used int | q const struct il_queue * | i int

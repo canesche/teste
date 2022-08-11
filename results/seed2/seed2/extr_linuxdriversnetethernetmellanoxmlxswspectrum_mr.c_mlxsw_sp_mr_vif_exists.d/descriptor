@@ -1,0 +1,2 @@
+struct mlxsw_sp_mr_vif | dev int 
+function mlxsw_sp_mr_vif_exists int | vif const struct mlxsw_sp_mr_vif *

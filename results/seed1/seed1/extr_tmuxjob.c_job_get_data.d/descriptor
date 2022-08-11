@@ -1,0 +1,2 @@
+struct job | data void * 
+function job_get_data void * | job struct job *

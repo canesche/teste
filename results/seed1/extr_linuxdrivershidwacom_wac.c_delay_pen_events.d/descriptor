@@ -1,3 +1,0 @@
-struct wacom_wac | shared struct TYPE_2__ * 
-struct TYPE_2__ | touch_down long 
-function delay_pen_events int | wacom struct wacom_wac *

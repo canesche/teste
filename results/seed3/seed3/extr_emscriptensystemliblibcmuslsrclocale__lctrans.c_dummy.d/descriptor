@@ -1,0 +1,2 @@
+struct __locale_map | dummy int 
+function dummy const char * | msg const char * | lm const struct __locale_map *

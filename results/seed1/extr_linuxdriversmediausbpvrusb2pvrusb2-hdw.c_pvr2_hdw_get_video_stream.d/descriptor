@@ -1,3 +1,0 @@
-struct pvr2_stream | dummy int 
-struct pvr2_hdw | vid_stream struct pvr2_stream * 
-function pvr2_hdw_get_video_stream struct pvr2_stream * | hp struct pvr2_hdw *

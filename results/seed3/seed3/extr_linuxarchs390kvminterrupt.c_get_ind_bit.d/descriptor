@@ -1,0 +1,1 @@
+function get_ind_bit unsigned long | addr int | bit_nr unsigned long | swap int

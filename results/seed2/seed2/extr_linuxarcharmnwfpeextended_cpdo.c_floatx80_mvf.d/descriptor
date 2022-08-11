@@ -1,0 +1,2 @@
+struct roundingData | dummy int 
+function floatx80_mvf int | roundData struct roundingData * | rFm int

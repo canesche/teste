@@ -1,0 +1,4 @@
+struct TYPE_7__ | internal struct TYPE_6__ * 
+struct TYPE_6__ | avctx struct TYPE_5__ * 
+struct TYPE_5__ | time_base int 
+function av_stream_get_codec_timebase int | st const struct TYPE_7__ *

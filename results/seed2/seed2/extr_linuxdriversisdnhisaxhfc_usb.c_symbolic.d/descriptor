@@ -1,0 +1,2 @@
+struct hfcusb_symbolic_list | name const char * | num const int 
+function symbolic const char * | list struct hfcusb_symbolic_list [] | num const int

@@ -1,9 +1,0 @@
-struct TYPE_10__ | height int | width int | left int | top int 
-struct TYPE_11__ | win struct TYPE_10__ 
-struct TYPE_8__ | height int | width int | left int | top int 
-struct TYPE_9__ | win struct TYPE_8__ 
-struct TYPE_12__ | ycbcr struct TYPE_11__ | bayer struct TYPE_9__ 
-struct v4l2_rect | height int | width int | left int | top int 
-struct vpfe_isif_device | isif_cfg struct TYPE_12__ | formats struct TYPE_7__ * | crop struct v4l2_rect 
-struct TYPE_7__ | code long 
-function isif_set_image_window int | isif struct vpfe_isif_device *

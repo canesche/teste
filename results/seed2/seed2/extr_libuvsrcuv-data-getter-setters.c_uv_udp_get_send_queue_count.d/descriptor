@@ -1,0 +1,2 @@
+struct TYPE_3__ | send_queue_count unsigned long 
+function uv_udp_get_send_queue_count unsigned long | handle const struct TYPE_3__ *

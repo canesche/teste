@@ -1,2 +1,0 @@
-struct dmi_system_id | dummy int 
-function video_disable_backlight_sysfs_if int | d const struct dmi_system_id *

@@ -1,0 +1,2 @@
+struct skcipher_walk | flags int 
+function skcipher_walk_atomise void | walk struct skcipher_walk *

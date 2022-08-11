@@ -1,3 +1,0 @@
-struct TYPE_3__ | flags int | csrActiveConfig int 
-struct TYPE_4__ | bootArgs long 
-function csr_get_active_config int | config int *

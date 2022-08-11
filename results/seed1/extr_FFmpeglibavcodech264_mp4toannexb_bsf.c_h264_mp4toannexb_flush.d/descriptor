@@ -1,3 +1,0 @@
-struct TYPE_5__ | priv_data struct TYPE_4__ * 
-struct TYPE_4__ | extradata_parsed int | new_idr int | idr_pps_seen long | idr_sps_seen long 
-function h264_mp4toannexb_flush void | ctx struct TYPE_5__ *

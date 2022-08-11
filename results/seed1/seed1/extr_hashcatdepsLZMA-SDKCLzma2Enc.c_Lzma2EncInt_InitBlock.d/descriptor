@@ -1,0 +1,2 @@
+struct TYPE_3__ | needInitProp void * | needInitState void * | srcPos long 
+function Lzma2EncInt_InitBlock void | p struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct vlan_parent | vlp_flags int 
+function vlan_parent_flags_set_detaching void | vlp struct vlan_parent *

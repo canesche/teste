@@ -1,0 +1,4 @@
+struct priv | cmd_speed int 
+struct mp_filter_command | type long | speed int 
+struct mp_filter | priv struct priv * 
+function command int | f struct mp_filter * | cmd struct mp_filter_command *

@@ -1,0 +1,2 @@
+struct snd_uart16550 | buff_in_count long 
+function snd_uart16550_buffer_can_write int | uart struct snd_uart16550 * | Num int

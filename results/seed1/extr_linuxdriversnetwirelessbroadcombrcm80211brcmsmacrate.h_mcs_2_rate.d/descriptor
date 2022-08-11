@@ -1,2 +1,0 @@
-struct TYPE_2__ | phy_rate_20 int | phy_rate_40 int | phy_rate_20_sgi int | phy_rate_40_sgi int 
-function mcs_2_rate int | mcs unsigned long | is40 int | sgi int

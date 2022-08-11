@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxsecurityapparmorincludefile.h_aa_map_file_to_perms.d/extr_linuxsecurityapparmorincludefile.h_aa_map_file_to_perms_O0::aa_map_file_to_perms(71)"
+  }
+]

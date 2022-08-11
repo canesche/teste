@@ -1,0 +1,4 @@
+struct TYPE_3__ | config int 
+struct TYPE_4__ | exclude_guest long | exclude_host long 
+struct perf_event | hw struct TYPE_3__ | attr struct TYPE_4__ 
+function amd_core_hw_config int | event struct perf_event *

@@ -1,2 +1,0 @@
-struct TYPE_3__ | sf_idx int * 
-function ff_sfdelta_can_replace int | sce const struct TYPE_3__ * | nextband const unsigned long * | prev_sf int | new_sf int | band int

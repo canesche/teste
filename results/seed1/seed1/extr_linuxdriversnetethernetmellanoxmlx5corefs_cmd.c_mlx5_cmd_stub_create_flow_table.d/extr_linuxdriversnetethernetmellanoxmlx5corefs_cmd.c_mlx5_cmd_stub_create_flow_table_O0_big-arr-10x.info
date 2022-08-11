@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetmellanoxmlx5corefs_cmd.c_mlx5_cmd_stub_create_flow_table.d/extr_linuxdriversnetethernetmellanoxmlx5corefs_cmd.c_mlx5_cmd_stub_create_flow_table_O0::mlx5_cmd_stub_create_flow_table(73)"
+  }
+]

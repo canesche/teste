@@ -1,0 +1,6 @@
+struct asd_sas_port | phy_mask int | ha struct TYPE_4__ * 
+struct asd_ha_struct | dummy int 
+struct TYPE_5__ | conn_mask int | nexus int 
+struct TYPE_6__ | clear_nexus struct TYPE_5__ 
+struct TYPE_4__ | lldd_ha struct asd_ha_struct * 
+function asd_clear_nexus_port int | port struct asd_sas_port *

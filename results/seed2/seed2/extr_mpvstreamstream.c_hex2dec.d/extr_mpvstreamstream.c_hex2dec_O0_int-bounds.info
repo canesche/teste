@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_mpvstreamstream.c_hex2dec.d/extr_mpvstreamstream.c_hex2dec_O0::hex2dec(60)"
+  }
+]

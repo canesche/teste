@@ -1,0 +1,2 @@
+struct caam_hash_state | buflen_1 int | buflen_0 int | current_buf long 
+function current_buflen int * | state struct caam_hash_state *

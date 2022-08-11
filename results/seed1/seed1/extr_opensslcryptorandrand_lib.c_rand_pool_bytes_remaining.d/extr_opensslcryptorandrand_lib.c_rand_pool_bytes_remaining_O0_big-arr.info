@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_opensslcryptorandrand_lib.c_rand_pool_bytes_remaining.d/extr_opensslcryptorandrand_lib.c_rand_pool_bytes_remaining_O0::rand_pool_bytes_remaining(63)"
+  }
+]

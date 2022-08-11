@@ -1,0 +1,4 @@
+struct MEGASAS_REQUEST_DESCRIPTOR_UNION | dummy int 
+struct megasas_instance | ctrl_context struct fusion_context * 
+struct fusion_context | req_frames_desc int * 
+function megasas_get_request_descriptor union MEGASAS_REQUEST_DESCRIPTOR_UNION * | instance struct megasas_instance * | index int

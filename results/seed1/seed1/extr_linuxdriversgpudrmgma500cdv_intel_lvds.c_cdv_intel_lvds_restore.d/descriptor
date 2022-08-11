@@ -1,0 +1,2 @@
+struct drm_connector | dummy int 
+function cdv_intel_lvds_restore void | connector struct drm_connector *

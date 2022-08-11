@@ -1,0 +1,2 @@
+struct deflect_struc | next struct deflect_struc * | rule int 
+function getruleptr int * | idx int

@@ -1,2 +1,0 @@
-struct pcie_link_state | aspm_default int 
-function policy_to_aspm_state int | link struct pcie_link_state *

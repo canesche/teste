@@ -1,4 +1,0 @@
-struct mode_tree_data | line_size unsigned long | current unsigned long | height int | offset int | line_list struct TYPE_4__ * 
-struct TYPE_4__ | item struct TYPE_3__ * 
-struct TYPE_3__ | tag long 
-function mode_tree_set_current void | mtd struct mode_tree_data * | tag long

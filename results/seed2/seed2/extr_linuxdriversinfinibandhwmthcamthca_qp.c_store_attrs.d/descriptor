@@ -1,0 +1,3 @@
+struct mthca_sqp | send_psn int | qkey int | pkey_index int 
+struct ib_qp_attr | sq_psn int | qkey int | pkey_index int 
+function store_attrs void | sqp struct mthca_sqp * | attr const struct ib_qp_attr * | attr_mask int

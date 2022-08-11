@@ -1,0 +1,2 @@
+struct TYPE_4__ | node long | off long 
+function rangepoint_cmp int | point1 const struct TYPE_4__ * | point2 const struct TYPE_4__ *

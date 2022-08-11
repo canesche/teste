@@ -1,0 +1,2 @@
+struct resource | sibling struct resource * | parent struct resource * | child struct resource * 
+function next_resource struct resource * | p struct resource * | sibling_only int

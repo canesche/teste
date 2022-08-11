@@ -1,0 +1,2 @@
+struct rocker_world_ops | mode long 
+function rocker_world_ops_find struct rocker_world_ops * | mode long

@@ -1,4 +1,0 @@
-struct bnad | dummy int 
-struct bna_cq_entry | valid long 
-struct bna_ccb | q_depth int | sw_q long 
-function bnad_cq_cleanup void | bnad struct bnad * | ccb struct bna_ccb *

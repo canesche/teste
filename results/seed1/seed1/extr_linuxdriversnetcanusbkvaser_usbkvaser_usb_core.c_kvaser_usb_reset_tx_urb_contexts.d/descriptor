@@ -1,0 +1,4 @@
+struct kvaser_usb_net_priv | tx_contexts struct TYPE_4__ * | active_tx_contexts long | dev struct TYPE_3__ * 
+struct TYPE_4__ | echo_index int 
+struct TYPE_3__ | max_tx_urbs int 
+function kvaser_usb_reset_tx_urb_contexts void | priv struct kvaser_usb_net_priv *

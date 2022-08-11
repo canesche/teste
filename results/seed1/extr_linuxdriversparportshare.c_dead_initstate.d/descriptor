@@ -1,3 +1,0 @@
-struct parport_state | dummy int 
-struct pardevice | dummy int 
-function dead_initstate void | d struct pardevice * | s struct parport_state *

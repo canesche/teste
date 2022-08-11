@@ -1,2 +1,0 @@
-struct mbfl_identify_vtbl | encoding int 
-function mbfl_identify_filter_get_vtbl const struct mbfl_identify_vtbl * | encoding enum mbfl_no_encoding

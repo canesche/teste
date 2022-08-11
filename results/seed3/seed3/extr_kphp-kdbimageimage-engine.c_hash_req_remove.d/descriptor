@@ -1,0 +1,2 @@
+struct forth_request | prog_id long long | hnext struct forth_request * 
+function hash_req_remove int | R struct forth_request *

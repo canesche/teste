@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxarchx86kvmx86.h_vcpu_clear_mmio_info.d/extr_linuxarchx86kvmx86.h_vcpu_clear_mmio_info_O0::vcpu_clear_mmio_info(66)"
+  }
+]

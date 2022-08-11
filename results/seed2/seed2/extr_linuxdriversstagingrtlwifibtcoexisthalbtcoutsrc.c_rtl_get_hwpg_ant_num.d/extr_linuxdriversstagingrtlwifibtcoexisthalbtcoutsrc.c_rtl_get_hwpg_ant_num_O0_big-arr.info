@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversstagingrtlwifibtcoexisthalbtcoutsrc.c_rtl_get_hwpg_ant_num.d/extr_linuxdriversstagingrtlwifibtcoexisthalbtcoutsrc.c_rtl_get_hwpg_ant_num_O0::rtl_get_hwpg_ant_num(67)"
+  }
+]

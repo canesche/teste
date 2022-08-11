@@ -1,0 +1,2 @@
+struct yyguts_t | yy_start_stack int * | yy_start_stack_depth long | yy_start_stack_ptr long | yy_start long | yy_init long | yy_c_buf_p int * | yy_buffer_stack_max long | yy_buffer_stack_top long | yy_buffer_stack int * 
+function yy_init_globals int | yyscanner long

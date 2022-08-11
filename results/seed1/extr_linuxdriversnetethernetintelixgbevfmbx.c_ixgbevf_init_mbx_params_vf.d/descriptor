@@ -1,4 +1,0 @@
-struct TYPE_2__ | rsts long | acks long | reqs long | msgs_rx long | msgs_tx long 
-struct ixgbe_mbx_info | stats struct TYPE_2__ | size int | udelay int | timeout long 
-struct ixgbe_hw | mbx struct ixgbe_mbx_info 
-function ixgbevf_init_mbx_params_vf int | hw struct ixgbe_hw *

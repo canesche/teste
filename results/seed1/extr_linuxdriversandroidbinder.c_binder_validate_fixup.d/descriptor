@@ -1,3 +1,0 @@
-struct binder_buffer_object | flags int | parent_offset long | parent int 
-struct binder_buffer | data long 
-function binder_validate_fixup int | b struct binder_buffer * | objects_start long * | buffer struct binder_buffer_object * | fixup_offset long | last_obj struct binder_buffer_object * | last_min_offset long

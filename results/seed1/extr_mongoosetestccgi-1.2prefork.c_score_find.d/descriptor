@@ -1,3 +1,0 @@
-struct score_board | maxproc int | proc struct TYPE_2__ * 
-struct TYPE_2__ | pid long 
-function score_find int | scb struct score_board * | pid long

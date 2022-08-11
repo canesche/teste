@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6483,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_gitshallow.c_update_refstatus.d/extr_gitshallow.c_update_refstatus_O0::update_refstatus(61)"
+  }
+]

@@ -1,2 +1,0 @@
-struct cache_set | bucket_bits int 
-function bucket_to_sector int | c struct cache_set * | b unsigned long

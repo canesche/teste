@@ -1,0 +1,1 @@
+function debug_fcp_opcode const char * | opcode unsigned int | data const int * | length int

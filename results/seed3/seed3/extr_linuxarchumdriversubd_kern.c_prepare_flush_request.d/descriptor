@@ -1,0 +1,6 @@
+struct TYPE_2__ | fd int | file int * 
+struct ubd | fd int | cow struct TYPE_2__ 
+struct request | rq_disk struct gendisk * 
+struct io_thread_req | op int | fds int * | req struct request * 
+struct gendisk | private_data struct ubd * 
+function prepare_flush_request void | req struct request * | io_req struct io_thread_req *

@@ -1,2 +1,0 @@
-struct packed_git | dummy int 
-function pack_entry_hash unsigned int | p struct packed_git * | base_offset long

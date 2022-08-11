@@ -1,3 +1,0 @@
-struct TYPE_2__ | task long | mmap_data long | mmap2 long | mmap long | comm long 
-struct perf_event | attr struct TYPE_2__ 
-function perf_event_task_match int | event struct perf_event *

@@ -1,2 +1,0 @@
-struct bstp_timer | latched long | active long | value long 
-function bstp_timer_stop void | t struct bstp_timer *

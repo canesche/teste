@@ -1,2 +1,0 @@
-struct brcmf_sdio_dev | dummy int 
-function brcmf_sdiod_freezer_detach void | sdiodev struct brcmf_sdio_dev *

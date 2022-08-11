@@ -1,0 +1,2 @@
+struct bcm2835_i2c_dev | msg_buf_remaining long | msg_buf int * | num_msgs long | curr_msg int * 
+function bcm2835_i2c_finish_transfer void | i2c_dev struct bcm2835_i2c_dev *

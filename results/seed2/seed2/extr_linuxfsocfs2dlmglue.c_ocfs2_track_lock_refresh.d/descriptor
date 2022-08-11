@@ -1,0 +1,2 @@
+struct ocfs2_lock_res | dummy int 
+function ocfs2_track_lock_refresh void | lockres struct ocfs2_lock_res *

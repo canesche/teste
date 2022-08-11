@@ -1,0 +1,2 @@
+struct TYPE_3__ | frame_idx long | field_order_cnt long * | bottom_is_reference void * | top_is_reference void * | is_long_term void * | surface int 
+function vdpau_h264_clear_rf void | rf struct TYPE_3__ *

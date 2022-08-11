@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 19,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_FFmpeglibavfiltervf_edgedetect.c_get_rounded_direction.d/extr_FFmpeglibavfiltervf_edgedetect.c_get_rounded_direction_O0::get_rounded_direction(64)"
+  }
+]

@@ -1,3 +1,0 @@
-struct TYPE_5__ | chunk_count int | chunks struct TYPE_4__ * 
-struct TYPE_4__ | p int | q int 
-function find_chunk struct TYPE_4__ * | p int | q int

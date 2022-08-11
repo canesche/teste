@@ -1,0 +1,2 @@
+struct TYPE_3__ | dwBuildNumber int 
+function GetBuildNumber int | bLocal int | osvi struct TYPE_3__ * | pBuf102 int

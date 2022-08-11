@@ -1,0 +1,1 @@
+function log_callback_null void | ptr void * | level int | fmt const char * | vl int

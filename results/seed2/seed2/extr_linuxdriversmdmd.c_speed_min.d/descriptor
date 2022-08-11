@@ -1,0 +1,2 @@
+struct mddev | sync_speed_min int 
+function speed_min int | mddev struct mddev *

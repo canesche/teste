@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 251,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_nginxsrccorengx_string.c_ngx_filename_cmp.d/extr_nginxsrccorengx_string.c_ngx_filename_cmp_O0::ngx_filename_cmp(64)"
+  }
+]

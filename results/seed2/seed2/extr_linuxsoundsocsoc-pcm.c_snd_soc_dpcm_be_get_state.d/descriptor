@@ -1,0 +1,3 @@
+struct snd_soc_pcm_runtime | dpcm struct TYPE_2__ * 
+struct TYPE_2__ | state int 
+function snd_soc_dpcm_be_get_state enum snd_soc_dpcm_state | be struct snd_soc_pcm_runtime * | stream int

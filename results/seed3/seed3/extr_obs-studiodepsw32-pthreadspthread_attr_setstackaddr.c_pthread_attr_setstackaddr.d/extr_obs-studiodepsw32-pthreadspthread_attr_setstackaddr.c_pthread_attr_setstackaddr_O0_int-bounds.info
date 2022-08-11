@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_obs-studiodepsw32-pthreadspthread_attr_setstackaddr.c_pthread_attr_setstackaddr.d/extr_obs-studiodepsw32-pthreadspthread_attr_setstackaddr.c_pthread_attr_setstackaddr_O0::pthread_attr_setstackaddr(101)"
+  }
+]

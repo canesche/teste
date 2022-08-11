@@ -1,2 +1,0 @@
-struct pci_dev | dev_flags int 
-function quirk_no_ata_d3 void | pdev struct pci_dev *

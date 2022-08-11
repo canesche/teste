@@ -1,0 +1,2 @@
+struct phy | dummy int 
+function ufs_qcom_phy_qmp_14nm_exit int | generic_phy struct phy *

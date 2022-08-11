@@ -1,2 +1,0 @@
-struct kernfs_node | parent struct kernfs_node * 
-function kernfs_depth unsigned long | from struct kernfs_node * | to struct kernfs_node *

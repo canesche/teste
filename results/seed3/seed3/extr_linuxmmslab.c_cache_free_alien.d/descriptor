@@ -1,0 +1,2 @@
+struct kmem_cache | dummy int 
+function cache_free_alien int | cachep struct kmem_cache * | objp void *

@@ -1,3 +1,0 @@
-struct qed_mcp_iscsi_stats | dummy int 
-struct qed_dev | dummy int 
-function qed_get_protocol_stats_iscsi void | cdev struct qed_dev * | stats struct qed_mcp_iscsi_stats *

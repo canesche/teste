@@ -1,0 +1,2 @@
+struct dpu_encoder_phys_ops | get_line_count int | handle_post_kickoff int | prepare_idle_pc int | restore int | irq_control int | hw_reset int | needs_single_flush int | trigger_start int | wait_for_vblank int | wait_for_tx_complete int | prepare_for_kickoff int | wait_for_commit_done int | control_vblank_irq int | get_hw_resources int | destroy int | disable int | enable int | mode_fixup int | mode_set int | is_master int 
+function dpu_encoder_phys_cmd_init_ops void | ops struct dpu_encoder_phys_ops *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | tstamp int 
+function timer_start void | timer struct TYPE_3__ * | tstamp int

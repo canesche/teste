@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversscsifnicvnic_wq_copy.h_vnic_wq_copy_desc_in_use.d/extr_linuxdriversscsifnicvnic_wq_copy.h_vnic_wq_copy_desc_in_use_O0::vnic_wq_copy_desc_in_use(63)"
+  }
+]

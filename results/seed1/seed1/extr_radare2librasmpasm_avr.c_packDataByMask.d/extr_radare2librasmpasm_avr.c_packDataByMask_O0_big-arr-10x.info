@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 8,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 279,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_radare2librasmpasm_avr.c_packDataByMask.d/extr_radare2librasmpasm_avr.c_packDataByMask_O0::packDataByMask(60)"
+  }
+]

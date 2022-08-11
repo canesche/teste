@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 13,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 70,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 70,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversttynozomi.c_ntty_tiocmget.d/extr_linuxdriversttynozomi.c_ntty_tiocmget_O0::ntty_tiocmget(70)"
+  }
+]

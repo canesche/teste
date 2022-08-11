@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_The-Art-Of-Programming-By-Julyebookcodec1.2：字符串是否包含问题.c_partion1.d/extr_The-Art-Of-Programming-By-Julyebookcodec1.2：字符串是否包含问题.c_partion1_O0::partion1(60)"
+  }
+]

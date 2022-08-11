@@ -1,0 +1,1 @@
+function dtrace_getarg int | arg int | aframes int | mstate int * | vstate int *

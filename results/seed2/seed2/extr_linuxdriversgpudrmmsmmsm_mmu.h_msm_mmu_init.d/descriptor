@@ -1,0 +1,4 @@
+struct msm_mmu_funcs | dummy int 
+struct msm_mmu | funcs const struct msm_mmu_funcs * | dev struct device * 
+struct device | dummy int 
+function msm_mmu_init void | mmu struct msm_mmu * | dev struct device * | funcs const struct msm_mmu_funcs *

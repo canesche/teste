@@ -1,0 +1,3 @@
+struct cxd2880_spi_device | dummy int 
+struct cxd2880_spi | user struct cxd2880_spi_device * | flags long | write_read int | write int | read int * 
+function cxd2880_spi_device_create_spi int | spi struct cxd2880_spi * | spi_device struct cxd2880_spi_device *

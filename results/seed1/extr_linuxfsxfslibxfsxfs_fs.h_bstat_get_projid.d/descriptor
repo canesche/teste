@@ -1,2 +1,0 @@
-struct xfs_bstat | bs_projid_lo int | bs_projid_hi long 
-function bstat_get_projid int | bs struct xfs_bstat *

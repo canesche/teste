@@ -1,4 +1,0 @@
-struct mtd_blktrans_dev | dummy int 
-struct hd_geometry | cylinders int | sectors int | heads int 
-struct INFTLrecord | cylinders int | sectors int | heads int 
-function inftl_getgeo int | dev struct mtd_blktrans_dev * | geo struct hd_geometry *

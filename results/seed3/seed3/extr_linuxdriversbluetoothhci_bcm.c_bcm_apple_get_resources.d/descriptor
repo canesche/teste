@@ -1,0 +1,2 @@
+struct bcm_device | dummy int 
+function bcm_apple_get_resources int | dev struct bcm_device *

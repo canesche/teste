@@ -1,0 +1,3 @@
+struct fifo | num long | rindex unsigned long | size int | buf int * 
+struct ps2kbd_softc | fifo struct fifo 
+function fifo_get int | sc struct ps2kbd_softc * | val int *

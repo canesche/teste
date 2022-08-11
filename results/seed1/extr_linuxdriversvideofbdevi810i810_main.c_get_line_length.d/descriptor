@@ -1,2 +1,0 @@
-struct i810fb_par | dummy int 
-function get_line_length int | par struct i810fb_par * | xres_virtual int | bpp int

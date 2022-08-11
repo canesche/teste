@@ -1,0 +1,2 @@
+struct TYPE_2__ | numVertexes int 
+function RB_CalcScaleTexCoords void | scale float const[2] | st float *

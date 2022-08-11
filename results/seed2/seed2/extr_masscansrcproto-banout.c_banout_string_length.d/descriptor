@@ -1,0 +1,2 @@
+struct BannerOutput | protocol unsigned int | length int | next struct BannerOutput * 
+function banout_string_length unsigned int | banout const struct BannerOutput * | proto unsigned int

@@ -1,0 +1,2 @@
+struct nstat_provider | nstat_provider_id long | next struct nstat_provider * 
+function nstat_find_provider_by_id struct nstat_provider * | id long

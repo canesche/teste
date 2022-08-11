@@ -1,0 +1,3 @@
+struct TYPE_4__ | think int | nextthink long 
+struct TYPE_5__ | time long 
+function SP_trigger_always void | ent struct TYPE_4__ *

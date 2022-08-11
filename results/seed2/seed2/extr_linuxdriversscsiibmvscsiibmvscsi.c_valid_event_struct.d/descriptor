@@ -1,0 +1,3 @@
+struct srp_event_struct | dummy int 
+struct event_pool | size int | events struct srp_event_struct * 
+function valid_event_struct int | pool struct event_pool * | evt struct srp_event_struct *

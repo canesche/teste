@@ -1,3 +1,0 @@
-struct brcmf_if | ndev struct TYPE_2__ * 
-struct TYPE_2__ | name char * 
-function brcmf_ifname char * | ifp struct brcmf_if *

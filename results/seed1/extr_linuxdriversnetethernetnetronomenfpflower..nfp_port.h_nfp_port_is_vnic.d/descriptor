@@ -1,2 +1,0 @@
-struct nfp_port | type long 
-function nfp_port_is_vnic int | port const struct nfp_port *

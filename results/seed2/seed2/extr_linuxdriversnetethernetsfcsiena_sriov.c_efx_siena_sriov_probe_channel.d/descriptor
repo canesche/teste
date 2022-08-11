@@ -1,0 +1,4 @@
+struct siena_nic_data | vfdi_channel struct efx_channel * 
+struct efx_channel | efx struct TYPE_2__ * 
+struct TYPE_2__ | nic_data struct siena_nic_data * 
+function efx_siena_sriov_probe_channel int | channel struct efx_channel *

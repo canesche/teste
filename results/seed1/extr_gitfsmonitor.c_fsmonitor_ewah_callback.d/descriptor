@@ -1,3 +1,0 @@
-struct index_state | cache struct cache_entry ** 
-struct cache_entry | ce_flags int 
-function fsmonitor_ewah_callback void | pos unsigned long | is void *

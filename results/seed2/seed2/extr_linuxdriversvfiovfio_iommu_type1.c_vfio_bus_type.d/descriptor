@@ -1,0 +1,3 @@
+struct device | bus struct bus_type * 
+struct bus_type | dummy int 
+function vfio_bus_type int | dev struct device * | data void *

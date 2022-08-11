@@ -1,0 +1,2 @@
+struct TYPE_2__ | sent_begin int | size unsigned long | sent_end int | s const char * 
+function ngx_http_lua_clfactory_getS const char * | L int * | ud void * | size unsigned long *

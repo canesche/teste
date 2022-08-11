@@ -1,0 +1,4 @@
+struct TYPE_7__ | source struct TYPE_6__ * | is_group long 
+struct TYPE_5__ | data int * 
+struct TYPE_6__ | context struct TYPE_5__ 
+function obs_sceneitem_group_get_scene int * | item const struct TYPE_7__ *

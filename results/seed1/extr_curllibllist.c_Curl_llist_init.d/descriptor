@@ -1,2 +1,0 @@
-struct curl_llist | tail int * | head int * | dtor int | size long 
-function Curl_llist_init void | l struct curl_llist * | dtor int

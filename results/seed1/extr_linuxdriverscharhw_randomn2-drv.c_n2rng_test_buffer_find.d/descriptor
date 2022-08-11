@@ -1,2 +1,0 @@
-struct n2rng | test_buffer long * 
-function n2rng_test_buffer_find int | np struct n2rng * | val long

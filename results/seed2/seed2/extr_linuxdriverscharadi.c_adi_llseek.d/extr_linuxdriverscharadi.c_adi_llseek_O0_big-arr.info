@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverscharadi.c_adi_llseek.d/extr_linuxdriverscharadi.c_adi_llseek_O0::adi_llseek(68)"
+  }
+]

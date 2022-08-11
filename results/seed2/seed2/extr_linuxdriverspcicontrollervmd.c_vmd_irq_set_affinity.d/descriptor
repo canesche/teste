@@ -1,0 +1,3 @@
+struct irq_data | dummy int 
+struct cpumask | dummy int 
+function vmd_irq_set_affinity int | data struct irq_data * | dest const struct cpumask * | force int

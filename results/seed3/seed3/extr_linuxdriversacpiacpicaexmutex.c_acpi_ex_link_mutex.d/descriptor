@@ -1,0 +1,4 @@
+struct TYPE_2__ | prev union acpi_operand_object * | next union acpi_operand_object * 
+struct acpi_operand_object | mutex struct TYPE_2__ 
+struct acpi_thread_state | acquired_mutex_list union acpi_operand_object * 
+function acpi_ex_link_mutex void | obj_desc union acpi_operand_object * | thread struct acpi_thread_state *

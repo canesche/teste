@@ -1,0 +1,1 @@
+function spc_modesense_write_protect void | buf unsigned char * | type int

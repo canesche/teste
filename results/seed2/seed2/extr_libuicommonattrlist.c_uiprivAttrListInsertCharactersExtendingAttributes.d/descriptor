@@ -1,0 +1,3 @@
+struct TYPE_3__ | first struct attr * 
+struct attr | start unsigned long | end unsigned long | next struct attr * 
+function uiprivAttrListInsertCharactersExtendingAttributes void | alist struct TYPE_3__ * | start unsigned long | count unsigned long

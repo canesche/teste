@@ -1,0 +1,2 @@
+struct ad_sigma_delta | comm int 
+function ad_sd_set_comm void | sigma_delta struct ad_sigma_delta * | comm int

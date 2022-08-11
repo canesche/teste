@@ -1,0 +1,1 @@
+value(max_identity_len) == 10, value(max_psk_len) == 10, length(ssl) == 100, length(hint) == 100, length(identity) == 100, length(psk) == 100

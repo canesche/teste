@@ -1,0 +1,2 @@
+struct timespec | dummy int 
+function cdf_timespec_to_timestamp int | t int * | ts const struct timespec *

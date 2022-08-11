@@ -1,0 +1,2 @@
+struct ssb_bus | dummy int 
+function ssb_watchdog_register int | bus struct ssb_bus *

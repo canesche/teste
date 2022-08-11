@@ -1,0 +1,2 @@
+struct htb_class | cmode long | buffer int 
+function htb_hiwater int | cl const struct htb_class *

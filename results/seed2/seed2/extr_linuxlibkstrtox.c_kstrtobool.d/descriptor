@@ -1,0 +1,1 @@
+function kstrtobool int | s const char * | res int *

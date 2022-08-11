@@ -1,0 +1,4 @@
+struct kvm_vcpu | run struct TYPE_4__ * 
+struct TYPE_3__ | sel2 int | sel1 void * | fc void * | ar void * | addr int 
+struct TYPE_4__ | s390_stsi struct TYPE_3__ | exit_reason int 
+function insert_stsi_usr_data void | vcpu struct kvm_vcpu * | addr int | ar void * | fc void * | sel1 void * | sel2 int

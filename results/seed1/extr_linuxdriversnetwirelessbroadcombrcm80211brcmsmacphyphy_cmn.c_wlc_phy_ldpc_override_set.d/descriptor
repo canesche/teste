@@ -1,2 +1,0 @@
-struct brcms_phy_pub | dummy int 
-function wlc_phy_ldpc_override_set void | ppi struct brcms_phy_pub * | ldpc int

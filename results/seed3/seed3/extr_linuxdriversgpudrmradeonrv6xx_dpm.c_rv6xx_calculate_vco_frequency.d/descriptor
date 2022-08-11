@@ -1,0 +1,2 @@
+struct atom_clock_dividers | fb_div int | ref_div int 
+function rv6xx_calculate_vco_frequency int | ref_clock int | dividers struct atom_clock_dividers * | fb_divider_scale int

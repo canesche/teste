@@ -1,0 +1,8 @@
+struct TYPE_5__ | mad long 
+struct ib_mad_send_wr_private | send_buf struct TYPE_5__ 
+struct TYPE_8__ | mad struct TYPE_7__ * 
+struct ib_mad_recv_wc | recv_buf struct TYPE_8__ 
+struct ib_mad_hdr | mgmt_class long 
+struct TYPE_6__ | mgmt_class long 
+struct TYPE_7__ | mad_hdr struct TYPE_6__ 
+function rcv_has_same_class int | wr const struct ib_mad_send_wr_private * | rwc const struct ib_mad_recv_wc *

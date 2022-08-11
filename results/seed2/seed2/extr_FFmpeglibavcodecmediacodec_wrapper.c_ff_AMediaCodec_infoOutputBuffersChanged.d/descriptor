@@ -1,0 +1,2 @@
+struct TYPE_3__ | INFO_OUTPUT_BUFFERS_CHANGED long 
+function ff_AMediaCodec_infoOutputBuffersChanged int | codec struct TYPE_3__ * | idx long

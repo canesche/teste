@@ -1,0 +1,2 @@
+struct usb_hcd | dummy int 
+function xhci_try_enable_msi int | hcd struct usb_hcd *

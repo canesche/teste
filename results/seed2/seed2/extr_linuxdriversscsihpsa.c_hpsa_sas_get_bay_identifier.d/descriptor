@@ -1,0 +1,2 @@
+struct sas_rphy | dummy int 
+function hpsa_sas_get_bay_identifier int | rphy struct sas_rphy *

@@ -1,0 +1,2 @@
+struct i2c_engine | dummy int 
+function dal_i2c_engine_setup_i2c_engine int | engine struct i2c_engine *

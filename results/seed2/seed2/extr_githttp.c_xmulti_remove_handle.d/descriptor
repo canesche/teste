@@ -1,0 +1,2 @@
+struct active_request_slot | dummy int 
+function xmulti_remove_handle void | slot struct active_request_slot *

@@ -1,0 +1,2 @@
+struct mt76_dev | queue_ops int * 
+function mt76_dma_attach int | dev struct mt76_dev *

@@ -1,0 +1,2 @@
+struct wl_registry | dummy int 
+function registryHandleGlobalRemove void | data void * | registry struct wl_registry * | name int

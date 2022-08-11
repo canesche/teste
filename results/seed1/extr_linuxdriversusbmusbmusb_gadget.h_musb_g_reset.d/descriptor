@@ -1,2 +1,0 @@
-struct musb | dummy int 
-function musb_g_reset void | musb struct musb *

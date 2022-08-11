@@ -1,2 +1,0 @@
-struct atm_dev | dummy int 
-function atm_proc_dev_register int | dev struct atm_dev *

@@ -1,0 +1,3 @@
+struct efx_rx_queue | buffer struct efx_rx_buffer * 
+struct efx_rx_buffer | dummy int 
+function efx_rx_buffer struct efx_rx_buffer * | rx_queue struct efx_rx_queue * | index unsigned int

@@ -1,0 +1,5 @@
+struct pl08x_bus_data | buswidth long 
+struct pl08x_lli_build_data | dstbus struct pl08x_bus_data | srcbus struct pl08x_bus_data 
+struct pl08x_driver_data | vd struct TYPE_2__ * 
+struct TYPE_2__ | ftdmac020 long 
+function pl08x_choose_master_bus void | pl08x struct pl08x_driver_data * | bd struct pl08x_lli_build_data * | mbus struct pl08x_bus_data ** | sbus struct pl08x_bus_data ** | cctl int

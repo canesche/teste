@@ -1,0 +1,4 @@
+struct inode | i_sb struct TYPE_2__ * 
+struct ceph_fs_client | dummy int 
+struct TYPE_2__ | s_fs_info long 
+function ceph_inode_to_client struct ceph_fs_client * | inode struct inode *

@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct mlxsw_tx_info | dummy int 
+function mlxsw_i2c_skb_transmit int | bus_priv void * | skb struct sk_buff * | tx_info const struct mlxsw_tx_info *

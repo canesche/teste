@@ -1,0 +1,2 @@
+struct irq_info | dummy int 
+function evtchn_fifo_bind_to_cpu void | info struct irq_info * | cpu unsigned int

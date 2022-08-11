@@ -1,0 +1,2 @@
+struct TYPE_3__ | speed long | multi_count int | data_pid_start void * | ep_is_in long 
+function set_pid_isoc void | hc struct TYPE_3__ *

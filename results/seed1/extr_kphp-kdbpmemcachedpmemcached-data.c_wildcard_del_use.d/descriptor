@@ -1,4 +1,0 @@
-struct wildcard_entry | prev_use struct TYPE_4__ * | next_use struct TYPE_3__ * 
-struct TYPE_4__ | next_use struct TYPE_3__ * 
-struct TYPE_3__ | prev_use struct TYPE_4__ * 
-function wildcard_del_use void | entry struct wildcard_entry *

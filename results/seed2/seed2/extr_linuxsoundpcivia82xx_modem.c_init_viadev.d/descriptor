@@ -1,0 +1,3 @@
+struct via82xx_modem | port long | devs struct TYPE_2__ * 
+struct TYPE_2__ | reg_offset unsigned int | direction int | port long 
+function init_viadev void | chip struct via82xx_modem * | idx int | reg_offset unsigned int | direction int

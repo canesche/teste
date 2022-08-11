@@ -1,0 +1,2 @@
+struct hid_usage | type long | code unsigned int 
+function match_keycode int | usage struct hid_usage * | cur_idx unsigned int | keycode unsigned int

@@ -1,0 +1,3 @@
+struct v4l2_mbus_config | flags unsigned long 
+struct soc_camera_subdev_desc | flags int 
+function soc_camera_apply_board_flags unsigned long | ssdd struct soc_camera_subdev_desc * | cfg const struct v4l2_mbus_config *

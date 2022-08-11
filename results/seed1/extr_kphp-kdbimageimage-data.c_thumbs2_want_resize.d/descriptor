@@ -1,2 +1,0 @@
-struct thumb2 | width int | max_height int 
-function thumbs2_want_resize int | width int | height int | u struct thumb2 *

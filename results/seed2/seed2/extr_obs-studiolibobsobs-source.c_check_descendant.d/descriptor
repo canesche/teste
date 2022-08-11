@@ -1,0 +1,2 @@
+struct descendant_info | exists int | target int * 
+function check_descendant void | parent int * | child int * | param void *

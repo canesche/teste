@@ -1,3 +1,0 @@
-struct TYPE_2__ | flags int 
-struct uart_port | rs485 struct TYPE_2__ 
-function atmel_uart_is_half_duplex int | port struct uart_port *

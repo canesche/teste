@@ -1,0 +1,2 @@
+struct device_node | dummy int 
+function set_smp_ops_by_method int | node struct device_node *

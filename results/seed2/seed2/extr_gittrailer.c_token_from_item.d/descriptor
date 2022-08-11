@@ -1,0 +1,3 @@
+struct TYPE_2__ | key const char * | name const char * 
+struct arg_item | conf struct TYPE_2__ 
+function token_from_item const char * | item struct arg_item * | tok char *

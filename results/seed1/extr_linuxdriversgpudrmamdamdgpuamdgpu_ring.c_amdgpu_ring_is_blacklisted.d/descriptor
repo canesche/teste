@@ -1,2 +1,0 @@
-struct amdgpu_ring | idx int 
-function amdgpu_ring_is_blacklisted int | ring struct amdgpu_ring * | blacklist int * | num_blacklist int

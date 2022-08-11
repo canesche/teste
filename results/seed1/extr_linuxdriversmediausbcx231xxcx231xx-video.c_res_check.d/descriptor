@@ -1,2 +1,0 @@
-struct cx231xx_fh | stream_on int 
-function res_check int | fh struct cx231xx_fh *

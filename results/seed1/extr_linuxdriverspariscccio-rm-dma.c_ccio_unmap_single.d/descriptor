@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function ccio_unmap_single void | dev struct pci_dev * | dma_addr int | size unsigned long | direction int

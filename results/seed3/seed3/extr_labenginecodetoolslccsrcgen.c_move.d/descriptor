@@ -1,0 +1,3 @@
+struct TYPE_4__ | copy int 
+struct TYPE_5__ | x struct TYPE_4__ 
+function move int | p struct TYPE_5__ *

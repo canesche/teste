@@ -1,0 +1,2 @@
+struct irq_data | irq unsigned int 
+function disable_lasat_irq void | d struct irq_data *

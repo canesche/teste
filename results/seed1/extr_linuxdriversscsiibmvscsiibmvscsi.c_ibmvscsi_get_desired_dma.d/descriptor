@@ -1,3 +1,0 @@
-struct viosrp_iu | dummy int 
-struct vio_dev | dummy int 
-function ibmvscsi_get_desired_dma unsigned long | vdev struct vio_dev *

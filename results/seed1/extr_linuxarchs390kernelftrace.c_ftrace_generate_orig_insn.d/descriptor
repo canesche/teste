@@ -1,2 +1,0 @@
-struct ftrace_insn | opc int | disp int 
-function ftrace_generate_orig_insn void | insn struct ftrace_insn *

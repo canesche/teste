@@ -1,2 +1,0 @@
-struct gb_spi_transfer_response | dummy int 
-function calc_rx_xfer_size unsigned long | rx_size unsigned long | tx_xfer_size unsigned long * | len unsigned long | data_max unsigned long

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_reactosdllwin32jscriptlex.c_is_endline.d/extr_reactosdllwin32jscriptlex.c_is_endline_O0::is_endline(62)"
+  }
+]

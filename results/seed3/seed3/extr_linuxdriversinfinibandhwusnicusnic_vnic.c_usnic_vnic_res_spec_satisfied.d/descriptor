@@ -1,0 +1,3 @@
+struct usnic_vnic_res_spec | resources struct TYPE_2__ * 
+struct TYPE_2__ | type long | cnt long 
+function usnic_vnic_res_spec_satisfied int | min_spec const struct usnic_vnic_res_spec * | res_spec struct usnic_vnic_res_spec *

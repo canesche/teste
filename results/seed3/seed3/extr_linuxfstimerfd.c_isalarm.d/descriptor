@@ -1,0 +1,2 @@
+struct timerfd_ctx | clockid long 
+function isalarm int | ctx struct timerfd_ctx *

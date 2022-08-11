@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmediai2cs5c73m3s5c73m3-core.c_s5c73m3_oif_get_pad_code.d/extr_linuxdriversmediai2cs5c73m3s5c73m3-core.c_s5c73m3_oif_get_pad_code_O0::s5c73m3_oif_get_pad_code(65)"
+  }
+]

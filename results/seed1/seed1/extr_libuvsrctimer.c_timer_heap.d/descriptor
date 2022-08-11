@@ -1,0 +1,3 @@
+struct TYPE_3__ | timer_heap int 
+struct heap | dummy int 
+function timer_heap struct heap * | loop const struct TYPE_3__ *

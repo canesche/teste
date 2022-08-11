@@ -1,0 +1,3 @@
+struct pvr2_ctrl | hdw struct TYPE_2__ * 
+struct TYPE_2__ | input_dirty long 
+function ctrl_cleardirty_input void | cptr struct pvr2_ctrl *

@@ -1,0 +1,2 @@
+struct sta_info | dummy int 
+function rate_control_add_sta_debugfs void | sta struct sta_info *

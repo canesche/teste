@@ -1,0 +1,4 @@
+struct ixgbe_ipsec | num_rx_sa unsigned long | num_tx_sa unsigned long | tx_tbl struct TYPE_4__ * | rx_tbl struct TYPE_3__ * 
+struct TYPE_4__ | used int 
+struct TYPE_3__ | used int 
+function ixgbe_ipsec_find_empty_idx int | ipsec struct ixgbe_ipsec * | rxtable int

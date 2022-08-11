@@ -1,0 +1,2 @@
+struct acpi_battery | state long | capacity_now long | full_charge_capacity long | design_capacity long 
+function acpi_battery_is_charged int | battery struct acpi_battery *

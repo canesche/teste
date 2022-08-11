@@ -1,2 +1,0 @@
-struct TYPE_3__ | lLineSize int 
-function TRACKBAR_SetLineSize int | infoPtr struct TYPE_3__ * | lLineSize int

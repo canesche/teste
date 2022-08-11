@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags unsigned long 
+function ASN1_SCTX_get_flags unsigned long | p struct TYPE_3__ *

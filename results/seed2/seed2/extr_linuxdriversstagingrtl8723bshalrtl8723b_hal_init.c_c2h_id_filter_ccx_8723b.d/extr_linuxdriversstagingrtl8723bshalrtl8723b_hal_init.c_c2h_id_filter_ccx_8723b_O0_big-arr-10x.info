@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversstagingrtl8723bshalrtl8723b_hal_init.c_c2h_id_filter_ccx_8723b.d/extr_linuxdriversstagingrtl8723bshalrtl8723b_hal_init.c_c2h_id_filter_ccx_8723b_O0::c2h_id_filter_ccx_8723b(64)"
+  }
+]

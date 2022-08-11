@@ -1,2 +1,0 @@
-struct kvm_ioapic | base_address long 
-function ioapic_in_range int | ioapic struct kvm_ioapic * | addr long

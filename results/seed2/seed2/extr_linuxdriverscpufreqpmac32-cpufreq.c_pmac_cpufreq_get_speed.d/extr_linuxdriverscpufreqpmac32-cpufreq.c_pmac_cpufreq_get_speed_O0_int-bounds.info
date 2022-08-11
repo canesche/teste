@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverscpufreqpmac32-cpufreq.c_pmac_cpufreq_get_speed.d/extr_linuxdriverscpufreqpmac32-cpufreq.c_pmac_cpufreq_get_speed_O0::pmac_cpufreq_get_speed(61)"
+  }
+]

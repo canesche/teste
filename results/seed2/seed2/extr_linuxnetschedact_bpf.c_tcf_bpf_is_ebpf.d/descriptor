@@ -1,0 +1,2 @@
+struct tcf_bpf | bpf_ops int 
+function tcf_bpf_is_ebpf int | prog const struct tcf_bpf *

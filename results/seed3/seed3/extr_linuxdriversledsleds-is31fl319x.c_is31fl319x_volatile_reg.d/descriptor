@@ -1,0 +1,2 @@
+struct device | dummy int 
+function is31fl319x_volatile_reg int | dev struct device * | reg unsigned int

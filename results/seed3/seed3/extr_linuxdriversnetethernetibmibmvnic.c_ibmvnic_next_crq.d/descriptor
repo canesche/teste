@@ -1,0 +1,5 @@
+struct TYPE_2__ | first int 
+struct ibmvnic_crq | generic struct TYPE_2__ 
+struct ibmvnic_crq_queue | cur unsigned long | size unsigned long | msgs union ibmvnic_crq * 
+struct ibmvnic_adapter | crq struct ibmvnic_crq_queue 
+function ibmvnic_next_crq union ibmvnic_crq * | adapter struct ibmvnic_adapter *

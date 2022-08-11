@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function rockchip_drm_fbdev_init int | dev struct drm_device *

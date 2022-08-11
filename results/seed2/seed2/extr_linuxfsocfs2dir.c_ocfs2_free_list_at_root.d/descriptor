@@ -1,0 +1,2 @@
+struct ocfs2_dir_lookup_result | dl_prev_leaf_bh int * 
+function ocfs2_free_list_at_root int | res struct ocfs2_dir_lookup_result *

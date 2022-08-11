@@ -1,4 +1,0 @@
-struct map | dso struct TYPE_3__ * 
-struct TYPE_4__ | show_kernel_path long 
-struct TYPE_3__ | long_name char * | name char * 
-function get_dsoname const char * | map struct map *

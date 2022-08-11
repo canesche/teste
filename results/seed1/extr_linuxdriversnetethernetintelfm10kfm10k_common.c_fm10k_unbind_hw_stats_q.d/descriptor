@@ -1,2 +1,0 @@
-struct fm10k_hw_stats_q | tx_stats_idx long | rx_stats_idx long 
-function fm10k_unbind_hw_stats_q void | q struct fm10k_hw_stats_q * | idx long | count long

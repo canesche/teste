@@ -1,2 +1,0 @@
-struct dwc2_hsotg | dummy int 
-function dwc2_hsotg_core_init_disconnected void | dwc2 struct dwc2_hsotg * | reset int

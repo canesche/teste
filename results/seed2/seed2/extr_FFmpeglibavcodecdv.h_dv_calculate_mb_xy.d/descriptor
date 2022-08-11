@@ -1,0 +1,4 @@
+struct TYPE_8__ | buf int * | sys struct TYPE_6__ * 
+struct TYPE_7__ | mb_coordinates int * 
+struct TYPE_6__ | height int 
+function dv_calculate_mb_xy void | s struct TYPE_8__ * | work_chunk struct TYPE_7__ * | m int | mb_x int * | mb_y int *

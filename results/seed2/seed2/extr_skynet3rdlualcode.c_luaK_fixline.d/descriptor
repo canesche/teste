@@ -1,0 +1,4 @@
+struct TYPE_7__ | pc int | f struct TYPE_6__ * 
+struct TYPE_6__ | sp struct TYPE_5__ * 
+struct TYPE_5__ | lineinfo int * 
+function luaK_fixline void | fs struct TYPE_7__ * | line int

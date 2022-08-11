@@ -1,0 +1,2 @@
+struct fsg_lun | filp int * 
+function fsg_lun_is_open int | curlun struct fsg_lun *

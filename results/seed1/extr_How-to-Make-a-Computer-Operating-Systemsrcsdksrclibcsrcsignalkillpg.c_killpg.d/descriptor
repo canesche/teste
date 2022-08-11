@@ -1,1 +1,0 @@
-function killpg int | pgrp int | signal int

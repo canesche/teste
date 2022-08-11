@@ -1,0 +1,2 @@
+struct nvdimm_drvdata | nslabel_size int 
+function sizeof_namespace_label unsigned int | ndd struct nvdimm_drvdata *

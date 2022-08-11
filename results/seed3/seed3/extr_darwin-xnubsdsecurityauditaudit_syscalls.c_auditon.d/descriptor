@@ -1,0 +1,2 @@
+struct auditon_args | dummy int 
+function auditon int | p int | uap struct auditon_args * | retval int *

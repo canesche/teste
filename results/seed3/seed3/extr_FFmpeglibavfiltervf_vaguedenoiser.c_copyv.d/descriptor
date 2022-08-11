@@ -1,0 +1,1 @@
+function copyv void | p1 const float * | stride1 const int | p2 float * | length const int

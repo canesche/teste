@@ -1,2 +1,0 @@
-struct xyarray | max_x int 
-function xyarray__max_x int | xy struct xyarray *

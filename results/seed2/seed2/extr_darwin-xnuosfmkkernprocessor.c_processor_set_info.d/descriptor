@@ -1,0 +1,8 @@
+struct TYPE_14__ | base_priority void * 
+struct TYPE_13__ | max_priority void * 
+struct TYPE_12__ | quantum int | base_priority void * 
+struct TYPE_11__ | max_priority void * 
+struct TYPE_10__ | base_priority void * 
+struct TYPE_9__ | max_priority void * 
+struct TYPE_8__ | default_policy int | processor_count int 
+function processor_set_info int | pset long | flavor int | host int ** | info long | count long *

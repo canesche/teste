@@ -1,1 +1,0 @@
-function ssl_check_allowed_versions int | min_version int | max_version int

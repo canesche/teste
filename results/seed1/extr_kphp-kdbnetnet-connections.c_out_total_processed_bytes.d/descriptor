@@ -1,5 +1,0 @@
-struct TYPE_6__ | total_bytes int 
-struct TYPE_5__ | total_bytes int 
-struct TYPE_4__ | total_bytes int 
-struct connection | flags int | Out struct TYPE_6__ | out struct TYPE_5__ | out_p struct TYPE_4__ | crypto long 
-function out_total_processed_bytes int | c struct connection *

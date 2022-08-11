@@ -1,2 +1,0 @@
-struct s3cmci_host | dummy int 
-function s3cmci_debugfs_remove void | host struct s3cmci_host *

@@ -1,3 +1,0 @@
-struct link_encoder | preferred_engine int | output_signals int | transmitter int | connector int | hpd_source int | id int | ctx int | funcs int * 
-struct encoder_init_data | transmitter int | connector int | hpd_source int | encoder int | ctx int 
-function virtual_link_encoder_construct int | enc struct link_encoder * | init_data const struct encoder_init_data *

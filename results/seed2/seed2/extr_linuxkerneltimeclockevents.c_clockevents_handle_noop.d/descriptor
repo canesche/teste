@@ -1,0 +1,2 @@
+struct clock_event_device | dummy int 
+function clockevents_handle_noop void | dev struct clock_event_device *

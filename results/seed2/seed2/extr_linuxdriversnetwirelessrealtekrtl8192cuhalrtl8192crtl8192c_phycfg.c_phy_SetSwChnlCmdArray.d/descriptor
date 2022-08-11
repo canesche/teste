@@ -1,0 +1,2 @@
+struct TYPE_3__ | msDelay long | Para2 long | Para1 long | CmdID int 
+function phy_SetSwChnlCmdArray int | CmdTable struct TYPE_3__ * | CmdTableIdx long | CmdTableSz long | CmdID int | Para1 long | Para2 long | msDelay long

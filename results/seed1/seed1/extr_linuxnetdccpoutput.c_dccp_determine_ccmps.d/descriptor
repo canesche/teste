@@ -1,0 +1,4 @@
+struct dccp_sock | dccps_hc_tx_ccid struct ccid * 
+struct ccid | ccid_ops struct TYPE_2__ * 
+struct TYPE_2__ | ccid_ccmps int 
+function dccp_determine_ccmps int | dp const struct dccp_sock *

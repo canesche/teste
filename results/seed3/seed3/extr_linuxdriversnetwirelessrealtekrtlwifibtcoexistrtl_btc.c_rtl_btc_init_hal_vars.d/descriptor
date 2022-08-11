@@ -1,0 +1,2 @@
+struct rtl_priv | dummy int 
+function rtl_btc_init_hal_vars void | rtlpriv struct rtl_priv *

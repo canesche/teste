@@ -1,0 +1,3 @@
+struct TYPE_2__ | mmucfg int 
+struct kvm_vcpu | arch struct TYPE_2__ 
+function has_feature int | vcpu const struct kvm_vcpu * | ftr enum vcpu_ftr

@@ -1,2 +1,0 @@
-struct snd_pcm_substream | dummy int 
-function snd_solo_pcm_prepare int | ss struct snd_pcm_substream *

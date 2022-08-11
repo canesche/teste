@@ -1,0 +1,2 @@
+struct asd_seq_data | tc_index_array void ** 
+function asd_tc_index_find void * | seq struct asd_seq_data * | index int

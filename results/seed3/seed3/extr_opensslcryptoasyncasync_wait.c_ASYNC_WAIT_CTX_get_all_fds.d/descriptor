@@ -1,0 +1,3 @@
+struct fd_lookup_st | next struct fd_lookup_st * | fd int | del long 
+struct TYPE_3__ | fds struct fd_lookup_st * 
+function ASYNC_WAIT_CTX_get_all_fds int | ctx struct TYPE_3__ * | fd int * | numfds unsigned long *

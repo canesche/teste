@@ -1,3 +1,0 @@
-struct TYPE_4__ | samples float | rate long 
-struct TYPE_5__ | speed float 
-function S_AdpcmMemoryNeeded int | info const struct TYPE_4__ *

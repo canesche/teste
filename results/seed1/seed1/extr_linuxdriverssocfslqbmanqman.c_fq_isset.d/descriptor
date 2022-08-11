@@ -1,0 +1,2 @@
+struct qman_fq | flags int 
+function fq_isset int | fq struct qman_fq * | mask int

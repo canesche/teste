@@ -1,2 +1,0 @@
-struct connectdata | dummy int 
-function Curl_sasl_cleanup void | conn struct connectdata * | authused unsigned int

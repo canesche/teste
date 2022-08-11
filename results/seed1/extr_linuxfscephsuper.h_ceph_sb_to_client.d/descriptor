@@ -1,3 +1,0 @@
-struct super_block | s_fs_info long 
-struct ceph_fs_client | dummy int 
-function ceph_sb_to_client struct ceph_fs_client * | sb struct super_block *

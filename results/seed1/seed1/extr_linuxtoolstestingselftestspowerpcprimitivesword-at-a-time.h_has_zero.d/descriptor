@@ -1,0 +1,2 @@
+struct word_at_a_time | one_bits unsigned long | high_bits unsigned long 
+function has_zero unsigned long | a unsigned long | bits unsigned long * | c const struct word_at_a_time *

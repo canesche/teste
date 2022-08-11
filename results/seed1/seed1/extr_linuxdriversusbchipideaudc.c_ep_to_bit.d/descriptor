@@ -1,0 +1,2 @@
+struct ci_hdrc | hw_ep_max int 
+function ep_to_bit int | ci struct ci_hdrc * | n int

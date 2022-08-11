@@ -1,0 +1,4 @@
+struct TYPE_7__ | client struct TYPE_6__ * 
+struct TYPE_6__ | db struct TYPE_5__ * 
+struct TYPE_5__ | id int 
+function RM_GetSelectedDb int | ctx struct TYPE_7__ *

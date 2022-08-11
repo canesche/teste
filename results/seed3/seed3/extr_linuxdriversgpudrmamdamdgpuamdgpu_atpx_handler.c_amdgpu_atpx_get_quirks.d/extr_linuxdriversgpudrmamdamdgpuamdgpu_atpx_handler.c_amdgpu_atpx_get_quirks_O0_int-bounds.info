@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmamdamdgpuamdgpu_atpx_handler.c_amdgpu_atpx_get_quirks.d/extr_linuxdriversgpudrmamdamdgpuamdgpu_atpx_handler.c_amdgpu_atpx_get_quirks_O0::amdgpu_atpx_get_quirks(66)"
+  }
+]

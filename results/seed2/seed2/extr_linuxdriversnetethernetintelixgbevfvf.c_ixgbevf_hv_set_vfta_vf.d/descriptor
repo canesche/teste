@@ -1,0 +1,2 @@
+struct ixgbe_hw | dummy int 
+function ixgbevf_hv_set_vfta_vf int | hw struct ixgbe_hw * | vlan int | vind int | vlan_on int

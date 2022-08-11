@@ -1,0 +1,2 @@
+struct ud | user_opaque_data void * 
+function ud_get_user_opaque_data void * | u const struct ud *

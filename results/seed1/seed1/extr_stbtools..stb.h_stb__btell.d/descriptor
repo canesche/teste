@@ -1,0 +1,2 @@
+struct TYPE_3__ | buffer long | indata long 
+function stb__btell unsigned int | s struct TYPE_3__ *

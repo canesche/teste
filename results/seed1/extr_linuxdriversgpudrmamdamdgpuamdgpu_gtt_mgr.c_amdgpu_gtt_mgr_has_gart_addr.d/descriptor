@@ -1,4 +1,0 @@
-struct ttm_mem_reg | mm_node struct amdgpu_gtt_node * 
-struct TYPE_2__ | start long 
-struct amdgpu_gtt_node | node struct TYPE_2__ 
-function amdgpu_gtt_mgr_has_gart_addr int | mem struct ttm_mem_reg *

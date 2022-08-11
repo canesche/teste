@@ -1,0 +1,2 @@
+struct fman_cfg | dummy int 
+function is_init_done int | cfg struct fman_cfg *

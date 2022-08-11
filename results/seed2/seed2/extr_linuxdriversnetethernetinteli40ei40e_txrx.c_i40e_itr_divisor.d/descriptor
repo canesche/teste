@@ -1,0 +1,7 @@
+struct i40e_q_vector | vsi struct TYPE_10__ * 
+struct TYPE_10__ | back struct TYPE_9__ * 
+struct TYPE_6__ | link_speed int 
+struct TYPE_7__ | link_info struct TYPE_6__ 
+struct TYPE_8__ | phy struct TYPE_7__ 
+struct TYPE_9__ | hw struct TYPE_8__ 
+function i40e_itr_divisor unsigned int | q_vector struct i40e_q_vector *

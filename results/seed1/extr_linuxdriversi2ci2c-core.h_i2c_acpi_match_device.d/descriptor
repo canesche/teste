@@ -1,3 +1,0 @@
-struct i2c_client | dummy int 
-struct acpi_device_id | dummy int 
-function i2c_acpi_match_device const struct acpi_device_id * | matches const struct acpi_device_id * | client struct i2c_client *

@@ -1,0 +1,9 @@
+struct TYPE_8__ | tcr int | ttbr int * | mair int * 
+struct TYPE_7__ | tcr int | ttbr int * | nmrr int | prrr int 
+struct TYPE_6__ | vtcr int | vttbr int 
+struct io_pgtable_cfg | arm_lpae_s1_cfg struct TYPE_8__ | arm_v7s_cfg struct TYPE_7__ | arm_lpae_s2_cfg struct TYPE_6__ 
+struct arm_smmu_cfg | cbndx unsigned long | cbar long | fmt long | asid long 
+struct arm_smmu_domain | smmu struct TYPE_5__ * | cfg struct arm_smmu_cfg 
+struct arm_smmu_cb | tcr int * | ttbr int * | mair int * | cfg struct arm_smmu_cfg * 
+struct TYPE_5__ | cbs struct arm_smmu_cb * 
+function arm_smmu_init_context_bank void | smmu_domain struct arm_smmu_domain * | pgtbl_cfg struct io_pgtable_cfg *

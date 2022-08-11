@@ -1,0 +1,3 @@
+struct TYPE_4__ | min_digit_duration int | min_gap_duration int | state int | indication_state_ack int 
+struct TYPE_5__ | recv struct TYPE_4__ 
+function capidtmf_recv_enable void | p_state struct TYPE_5__ * | min_digit_duration void * | min_gap_duration void *

@@ -1,0 +1,2 @@
+struct slabinfo | alloc_fastpath unsigned long | free_fastpath unsigned long | alloc_slowpath unsigned long | free_slowpath unsigned long 
+function slab_activity unsigned long | s struct slabinfo *

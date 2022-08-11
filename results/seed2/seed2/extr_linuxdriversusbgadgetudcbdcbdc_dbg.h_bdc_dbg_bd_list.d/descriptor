@@ -1,0 +1,3 @@
+struct bdc_ep | dummy int 
+struct bdc | dummy int 
+function bdc_dbg_bd_list void | bdc struct bdc * | ep struct bdc_ep *

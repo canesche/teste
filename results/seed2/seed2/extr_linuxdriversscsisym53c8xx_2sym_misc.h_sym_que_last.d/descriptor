@@ -1,0 +1,2 @@
+struct sym_quehead | blink struct sym_quehead * 
+function sym_que_last struct sym_quehead * | head struct sym_quehead *

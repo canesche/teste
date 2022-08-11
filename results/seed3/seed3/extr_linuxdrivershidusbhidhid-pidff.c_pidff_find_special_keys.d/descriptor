@@ -1,0 +1,3 @@
+struct hid_field | maxusage int | usage struct TYPE_2__ * 
+struct TYPE_2__ | hid const int 
+function pidff_find_special_keys int | keys int * | fld struct hid_field * | usagetable const int * | count int

@@ -1,0 +1,2 @@
+struct wil_status_ring | swhead int | size int | desc_rdy_pol long 
+function wil_sring_advance_swhead void | sring struct wil_status_ring *

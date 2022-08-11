@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_gitpack-bitmap-write.c_bitmap_writer_show_progress.d/extr_gitpack-bitmap-write.c_bitmap_writer_show_progress_O0::bitmap_writer_show_progress(63)"
+  }
+]

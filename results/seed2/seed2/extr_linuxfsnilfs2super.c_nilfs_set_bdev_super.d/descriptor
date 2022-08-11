@@ -1,0 +1,3 @@
+struct super_block | s_bdev struct TYPE_2__ * | s_dev int 
+struct TYPE_2__ | bd_dev int 
+function nilfs_set_bdev_super int | s struct super_block * | data void *

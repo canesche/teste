@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function rtl8723be_resume void | hw struct ieee80211_hw *

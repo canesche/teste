@@ -1,0 +1,2 @@
+struct TYPE_3__ | tunnel_interface_index unsigned long 
+function necp_get_ifnet_from_result_parameter int * | result_parameter struct TYPE_3__ *

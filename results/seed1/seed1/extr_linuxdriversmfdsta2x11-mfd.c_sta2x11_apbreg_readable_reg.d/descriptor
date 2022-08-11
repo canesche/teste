@@ -1,0 +1,2 @@
+struct device | dummy int 
+function sta2x11_apbreg_readable_reg int | dev struct device * | reg unsigned int

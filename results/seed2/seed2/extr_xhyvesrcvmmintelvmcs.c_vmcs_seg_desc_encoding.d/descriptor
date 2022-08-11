@@ -1,0 +1,1 @@
+function vmcs_seg_desc_encoding int | seg int | base int * | lim int * | acc int *

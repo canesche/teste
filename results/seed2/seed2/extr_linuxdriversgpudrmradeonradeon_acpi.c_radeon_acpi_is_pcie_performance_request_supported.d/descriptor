@@ -1,0 +1,4 @@
+struct TYPE_2__ | pcie_dev_rdy long | pcie_perf_req long 
+struct radeon_atcs | functions struct TYPE_2__ 
+struct radeon_device | atcs struct radeon_atcs 
+function radeon_acpi_is_pcie_performance_request_supported int | rdev struct radeon_device *

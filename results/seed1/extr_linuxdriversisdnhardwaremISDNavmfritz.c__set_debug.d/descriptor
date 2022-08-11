@@ -1,5 +1,0 @@
-struct TYPE_4__ | debug void * 
-struct TYPE_5__ | dch struct TYPE_4__ 
-struct fritzcard | bch struct TYPE_6__ * | isac struct TYPE_5__ 
-struct TYPE_6__ | debug void * 
-function _set_debug void | card struct fritzcard *

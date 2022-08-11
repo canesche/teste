@@ -1,0 +1,5 @@
+struct smb_rqst | rq_nvec int | rq_npages int | rq_pagesz int | rq_offset int | rq_tailsz long | rq_iov struct kvec * 
+struct kvec | iov_len int 
+struct TCP_Server_Info | vals struct TYPE_2__ * 
+struct TYPE_2__ | header_preamble_size long 
+function smb_rqst_len unsigned long | server struct TCP_Server_Info * | rqst struct smb_rqst *

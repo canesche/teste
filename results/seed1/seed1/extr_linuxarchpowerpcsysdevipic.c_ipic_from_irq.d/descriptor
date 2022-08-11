@@ -1,0 +1,2 @@
+struct ipic | dummy int 
+function ipic_from_irq struct ipic * | virq unsigned int

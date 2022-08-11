@@ -1,0 +1,4 @@
+struct TYPE_4__ | regs struct TYPE_3__ * 
+struct task_struct | thread struct TYPE_4__ 
+struct TYPE_3__ | trap unsigned long 
+function set_user_trap int | task struct task_struct * | trap unsigned long

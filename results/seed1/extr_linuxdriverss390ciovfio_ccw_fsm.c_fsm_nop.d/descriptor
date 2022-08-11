@@ -1,2 +1,0 @@
-struct vfio_ccw_private | dummy int 
-function fsm_nop void | private struct vfio_ccw_private * | event enum vfio_ccw_event

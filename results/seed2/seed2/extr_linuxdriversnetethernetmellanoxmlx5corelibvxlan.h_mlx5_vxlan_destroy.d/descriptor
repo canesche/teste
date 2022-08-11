@@ -1,0 +1,2 @@
+struct mlx5_vxlan | dummy int 
+function mlx5_vxlan_destroy void | vxlan struct mlx5_vxlan *

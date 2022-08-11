@@ -1,2 +1,0 @@
-struct device | parent const void * 
-function fpga_mgr_dev_match int | dev struct device * | data const void *

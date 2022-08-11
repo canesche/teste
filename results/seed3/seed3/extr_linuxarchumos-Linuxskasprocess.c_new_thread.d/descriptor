@@ -1,0 +1,2 @@
+struct TYPE_3__ | JB_IP unsigned long | JB_SP int 
+function new_thread void | stack void * | buf struct TYPE_3__ ** | handler void (*)(void)

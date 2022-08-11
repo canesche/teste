@@ -1,0 +1,4 @@
+struct r_bin_te_obj_t | section_header struct TYPE_4__ * | header struct TYPE_3__ * 
+struct TYPE_4__ | VirtualAddress long | VirtualSize int | PointerToRawData long 
+struct TYPE_3__ | NumberOfSections int 
+function r_bin_te_vaddr_to_paddr long | bin struct r_bin_te_obj_t * | vaddr long

@@ -1,0 +1,2 @@
+struct intel_pt_pkt | type int 
+function intel_pt_get_pad int | packet struct intel_pt_pkt *

@@ -1,2 +1,0 @@
-struct mtd_info | dummy int 
-function s5pc110_chip_probe int | mtd struct mtd_info *

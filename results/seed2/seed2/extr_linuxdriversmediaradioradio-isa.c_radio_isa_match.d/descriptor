@@ -1,0 +1,3 @@
+struct radio_isa_driver | io_params long * | probe long 
+struct device | platform_data struct radio_isa_driver * 
+function radio_isa_match int | pdev struct device * | dev unsigned int

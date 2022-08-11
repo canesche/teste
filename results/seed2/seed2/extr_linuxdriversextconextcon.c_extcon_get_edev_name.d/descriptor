@@ -1,0 +1,2 @@
+struct extcon_dev | name const char * 
+function extcon_get_edev_name const char * | edev struct extcon_dev *

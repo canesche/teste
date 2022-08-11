@@ -1,2 +1,0 @@
-struct pci_channel | dummy int 
-function pci_fixup_pcic int | chan struct pci_channel *

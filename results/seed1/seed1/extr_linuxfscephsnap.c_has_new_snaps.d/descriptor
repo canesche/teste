@@ -1,0 +1,2 @@
+struct ceph_snap_context | num_snaps long | snaps long * | seq long 
+function has_new_snaps int | o struct ceph_snap_context * | n struct ceph_snap_context *

@@ -1,0 +1,2 @@
+struct regulator_dev | dummy int 
+function of_parse_coupled_regulator struct regulator_dev * | rdev struct regulator_dev * | index int

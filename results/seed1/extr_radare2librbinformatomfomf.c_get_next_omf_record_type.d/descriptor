@@ -1,3 +1,0 @@
-struct TYPE_6__ | type long 
-struct TYPE_5__ | next struct TYPE_5__ * 
-function get_next_omf_record_type struct TYPE_5__ * | tmp struct TYPE_5__ * | type long

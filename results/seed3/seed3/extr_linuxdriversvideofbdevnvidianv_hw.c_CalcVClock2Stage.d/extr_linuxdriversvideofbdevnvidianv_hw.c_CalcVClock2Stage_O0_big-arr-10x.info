@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 108,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversvideofbdevnvidianv_hw.c_CalcVClock2Stage.d/extr_linuxdriversvideofbdevnvidianv_hw.c_CalcVClock2Stage_O0::CalcVClock2Stage(65)"
+  }
+]

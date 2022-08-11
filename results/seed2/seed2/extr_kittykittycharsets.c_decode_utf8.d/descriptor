@@ -1,0 +1,1 @@
+function decode_utf8 int | state int * | codep int * | byte unsigned long

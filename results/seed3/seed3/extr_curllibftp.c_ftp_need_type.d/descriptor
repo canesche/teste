@@ -1,0 +1,4 @@
+struct TYPE_3__ | transfertype char 
+struct TYPE_4__ | ftpc struct TYPE_3__ 
+struct connectdata | proto struct TYPE_4__ 
+function ftp_need_type int | conn struct connectdata * | ascii_wanted int

@@ -1,8 +1,0 @@
-struct intel_pt_state | flags int | to_ip int | from_ip int 
-struct intel_pt_queue | last_branch_pos int | pt struct TYPE_6__ * | last_branch_rb struct branch_stack * | state struct intel_pt_state * 
-struct branch_stack | nr long | entries struct branch_entry * 
-struct TYPE_4__ | abort int | in_tx int | mispred int 
-struct branch_entry | flags struct TYPE_4__ | to int | from int 
-struct TYPE_5__ | last_branch_sz int 
-struct TYPE_6__ | synth_opts struct TYPE_5__ | mispred_all int 
-function intel_pt_update_last_branch_rb void | ptq struct intel_pt_queue *

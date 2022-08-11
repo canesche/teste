@@ -1,2 +1,0 @@
-struct hdac_chmap | dummy int 
-function nvhdmi_chmap_validate int | chmap struct hdac_chmap * | ca int | chs int | map unsigned char *

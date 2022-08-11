@@ -1,2 +1,0 @@
-struct TYPE_3__ | conv_form int 
-function EC_KEY_get_conv_form int | key const struct TYPE_3__ *

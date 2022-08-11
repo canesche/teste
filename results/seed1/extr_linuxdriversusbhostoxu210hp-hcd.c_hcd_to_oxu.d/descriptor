@@ -1,3 +1,0 @@
-struct usb_hcd | hcd_priv long 
-struct oxu_hcd | dummy int 
-function hcd_to_oxu struct oxu_hcd * | hcd struct usb_hcd *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | orientation int | req_orientation int 
+function setorientation int | img struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct squashfs_page_actor | dummy int 
+function squashfs_finish_page void | actor struct squashfs_page_actor *

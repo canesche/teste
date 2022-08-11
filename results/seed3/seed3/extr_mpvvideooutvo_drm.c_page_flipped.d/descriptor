@@ -1,0 +1,2 @@
+struct priv | pflip_happening int 
+function page_flipped void | fd int | frame unsigned int | sec unsigned int | usec unsigned int | data void *

@@ -1,3 +1,0 @@
-struct ide_taskfile | command int | nsect int 
-struct TYPE_3__ | mult_req int 
-function ide_tf_set_setmult_cmd void | drive struct TYPE_3__ * | tf struct ide_taskfile *

@@ -1,0 +1,2 @@
+struct i915_vma | dummy int 
+function vma_print_allocator void | vma struct i915_vma * | reason const char *

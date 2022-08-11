@@ -1,0 +1,4 @@
+struct pci230_private | ao_bipolar long 
+struct pci230_board | ao_bits int 
+struct comedi_device | private struct pci230_private * | board_ptr struct pci230_board * 
+function pci230_ao_mangle_datum unsigned short | dev struct comedi_device * | datum unsigned short

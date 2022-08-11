@@ -1,0 +1,2 @@
+struct TCP_Server_Info | echo_credits int | oplock_credits int | credits int 
+function smb2_get_credits_field int * | server struct TCP_Server_Info * | optype const int

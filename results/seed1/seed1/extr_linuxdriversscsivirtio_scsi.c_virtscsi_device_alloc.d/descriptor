@@ -1,0 +1,2 @@
+struct scsi_device | sdev_bflags int 
+function virtscsi_device_alloc int | sdevice struct scsi_device *

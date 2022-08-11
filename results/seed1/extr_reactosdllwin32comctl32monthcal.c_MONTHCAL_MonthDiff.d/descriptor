@@ -1,2 +1,0 @@
-struct TYPE_4__ | wYear int | wMonth int 
-function MONTHCAL_MonthDiff int | left const struct TYPE_4__ * | right const struct TYPE_4__ *

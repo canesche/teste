@@ -1,0 +1,2 @@
+struct TYPE_3__ | pid int 
+function uv_process_get_pid int | proc const struct TYPE_3__ *

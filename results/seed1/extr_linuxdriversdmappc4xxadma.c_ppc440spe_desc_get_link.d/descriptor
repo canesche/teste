@@ -1,4 +1,0 @@
-struct ppc440spe_adma_desc_slot | hw_next struct TYPE_2__ * 
-struct ppc440spe_adma_chan | dummy int 
-struct TYPE_2__ | phys int 
-function ppc440spe_desc_get_link int | desc struct ppc440spe_adma_desc_slot * | chan struct ppc440spe_adma_chan *

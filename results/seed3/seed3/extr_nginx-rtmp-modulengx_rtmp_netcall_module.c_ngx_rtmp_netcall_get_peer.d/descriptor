@@ -1,0 +1,5 @@
+struct sockaddr | dummy int 
+struct TYPE_6__ | url struct TYPE_5__ * 
+struct TYPE_7__ | name int * | socklen int | sockaddr struct sockaddr * 
+struct TYPE_5__ | host int | socklen int | sockaddr int 
+function ngx_rtmp_netcall_get_peer int | pc struct TYPE_7__ * | data void *

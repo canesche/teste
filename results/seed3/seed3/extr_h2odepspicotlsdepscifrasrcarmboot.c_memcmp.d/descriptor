@@ -1,0 +1,1 @@
+function memcmp int | va const void * | vb const void * | len unsigned long

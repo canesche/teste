@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsoundsocrockchiprockchip_i2s.c_rockchip_i2s_rd_reg.d/extr_linuxsoundsocrockchiprockchip_i2s.c_rockchip_i2s_rd_reg_O0::rockchip_i2s_rd_reg(72)"
+  }
+]

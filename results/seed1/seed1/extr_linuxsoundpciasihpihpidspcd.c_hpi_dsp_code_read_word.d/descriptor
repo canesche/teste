@@ -1,0 +1,4 @@
+struct dsp_code | word_count int | block_length int | pvt struct TYPE_4__ * 
+struct TYPE_4__ | firmware struct TYPE_3__ * 
+struct TYPE_3__ | data long 
+function hpi_dsp_code_read_word short | dsp_code struct dsp_code * | pword int *

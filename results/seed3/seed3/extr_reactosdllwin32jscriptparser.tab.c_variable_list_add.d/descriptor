@@ -1,0 +1,3 @@
+struct TYPE_6__ | tail struct TYPE_7__ * 
+struct TYPE_7__ | next struct TYPE_7__ * 
+function variable_list_add struct TYPE_6__ * | ctx int * | list struct TYPE_6__ * | decl struct TYPE_7__ *

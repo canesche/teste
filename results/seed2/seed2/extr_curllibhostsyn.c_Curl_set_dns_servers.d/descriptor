@@ -1,0 +1,2 @@
+struct Curl_easy | dummy int 
+function Curl_set_dns_servers int | data struct Curl_easy * | servers char *

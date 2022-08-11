@@ -1,0 +1,3 @@
+struct fb_info | bl_dev struct backlight_device * 
+struct backlight_device | dummy int 
+function ssd1307fb_check_fb int | bdev struct backlight_device * | info struct fb_info *

@@ -1,0 +1,3 @@
+struct fb_videomode | yres int | xres int 
+struct fb_var_screeninfo | yres int | xres int 
+function radeon_compare_modes int | var const struct fb_var_screeninfo * | mode const struct fb_videomode *

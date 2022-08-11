@@ -1,0 +1,3 @@
+struct TYPE_2__ | width int 
+struct window_capture | capture struct TYPE_2__ 
+function wc_width int | data void *

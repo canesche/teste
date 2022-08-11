@@ -1,0 +1,2 @@
+struct TYPE_3__ | bus_type int 
+function mptscsih_get_tm_timeout int | ioc struct TYPE_3__ *

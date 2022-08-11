@@ -1,0 +1,2 @@
+struct rmi_function | dummy int 
+function rmi_f03_commit_buttons void | fn struct rmi_function *

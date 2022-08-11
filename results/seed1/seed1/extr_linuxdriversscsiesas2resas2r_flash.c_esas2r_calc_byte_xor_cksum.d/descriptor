@@ -1,0 +1,1 @@
+function esas2r_calc_byte_xor_cksum int | addr int * | len int | seed int

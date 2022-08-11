@@ -1,2 +1,0 @@
-struct uverbs_object_tree_def | dummy int 
-function mlx5_ib_get_flow_trees int | root const struct uverbs_object_tree_def **

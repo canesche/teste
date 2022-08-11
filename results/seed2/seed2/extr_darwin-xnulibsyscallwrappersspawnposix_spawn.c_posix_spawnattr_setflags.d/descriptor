@@ -1,0 +1,2 @@
+struct TYPE_2__ | psa_flags short 
+function posix_spawnattr_setflags int | attr int ** | flags short

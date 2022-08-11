@@ -1,0 +1,3 @@
+struct ath_btcoex_hw | tx_prio int * 
+struct ath_hw | btcoex_hw struct ath_btcoex_hw 
+function ath9k_hw_btcoex_set_concur_txprio void | ah struct ath_hw * | stomp_txprio int *

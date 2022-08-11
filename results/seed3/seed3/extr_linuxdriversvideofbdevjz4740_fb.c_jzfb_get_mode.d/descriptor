@@ -1,0 +1,5 @@
+struct jzfb | pdata struct TYPE_2__ * 
+struct fb_videomode | xres long | yres long 
+struct fb_var_screeninfo | xres long | yres long 
+struct TYPE_2__ | num_modes unsigned long | modes struct fb_videomode * 
+function jzfb_get_mode struct fb_videomode * | jzfb struct jzfb * | var struct fb_var_screeninfo *

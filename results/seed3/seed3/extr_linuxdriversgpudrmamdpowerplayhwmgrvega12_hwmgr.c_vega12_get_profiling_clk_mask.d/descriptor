@@ -1,0 +1,5 @@
+struct vega12_single_dpm_table | count long 
+struct TYPE_2__ | soc_table struct vega12_single_dpm_table | mem_table struct vega12_single_dpm_table | gfx_table struct vega12_single_dpm_table 
+struct vega12_hwmgr | dpm_table struct TYPE_2__ 
+struct pp_hwmgr | backend long 
+function vega12_get_profiling_clk_mask int | hwmgr struct pp_hwmgr * | level enum amd_dpm_forced_level | sclk_mask long * | mclk_mask long * | soc_mask long *

@@ -1,3 +1,0 @@
-struct TYPE_5__ | Context int 
-struct TYPE_4__ | Speed int 
-function GetInterfaceSpeed int | Interface struct TYPE_5__ * | Speed int *

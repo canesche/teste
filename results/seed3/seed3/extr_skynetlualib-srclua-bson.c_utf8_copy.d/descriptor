@@ -1,0 +1,1 @@
+function utf8_copy int | s const char * | d char * | limit unsigned long

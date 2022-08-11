@@ -1,0 +1,4 @@
+struct TYPE_5__ | interval int | scans int | preempts int | latency int | latency_min int | latency_max int 
+struct TYPE_6__ | count int 
+struct TYPE_7__ | enqueues int | dequeues int | escalates int | scan_limit int | scan_interval int | scan_pauses int | threshold struct TYPE_5__ | queue struct TYPE_6__ 
+function timer_sysctl_get int | oid int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | numVertexes int | xyz long ** | normal long ** | smoothingGroup long * | st long *** | color long * 
+function PicoFindSurfaceVertexNum int | surface struct TYPE_3__ * | xyz long * | normal long * | numSTs int | st long ** | numColors int | color long * | smoothingGroup long

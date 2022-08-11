@@ -1,0 +1,2 @@
+struct iio_dev | dummy int 
+function iio_buffer_free_sysfs_and_mask void | indio_dev struct iio_dev *

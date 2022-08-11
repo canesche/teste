@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 140023,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_gitblame.c_blame_merge.d/extr_gitblame.c_blame_merge_O0::blame_merge(61)"
+  }
+]

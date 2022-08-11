@@ -1,3 +1,0 @@
-struct TYPE_5__ | iter struct TYPE_4__ * 
-struct TYPE_4__ | varname const char * | next struct TYPE_4__ * 
-function CGI_next_name const char * | v struct TYPE_5__ *

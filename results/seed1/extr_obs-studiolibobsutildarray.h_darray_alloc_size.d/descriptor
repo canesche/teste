@@ -1,2 +1,0 @@
-struct darray | num const unsigned long 
-function darray_alloc_size unsigned long | element_size const unsigned long | da const struct darray *

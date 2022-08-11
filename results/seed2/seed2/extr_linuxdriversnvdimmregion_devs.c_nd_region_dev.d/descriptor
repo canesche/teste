@@ -1,0 +1,3 @@
+struct device | dummy int 
+struct nd_region | dev struct device 
+function nd_region_dev struct device * | nd_region struct nd_region *

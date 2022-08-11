@@ -1,0 +1,7 @@
+struct qxl_device | rom struct TYPE_3__ * 
+struct drm_qxl_clientcap | index int 
+struct drm_file | dummy int 
+struct drm_device | pdev struct TYPE_4__ * | dev_private struct qxl_device * 
+struct TYPE_4__ | revision int 
+struct TYPE_3__ | client_capabilities int * 
+function qxl_clientcap_ioctl int | dev struct drm_device * | data void * | file_priv struct drm_file *

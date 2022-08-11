@@ -1,2 +1,0 @@
-struct pp_hwmgr | chip_id int 
-function smu8_translate_firmware_enum_to_arg int | hwmgr struct pp_hwmgr * | firmware_enum enum smu8_scratch_entry

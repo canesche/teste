@@ -1,2 +1,0 @@
-struct node | next_sibling struct node * | children struct node * | parent struct node * 
-function add_child void | parent struct node * | child struct node *

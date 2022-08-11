@@ -1,0 +1,1 @@
+function timelib_hms_to_decimal_hour void | hour int | min int | sec int | h double *

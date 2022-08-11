@@ -1,0 +1,3 @@
+struct rtsx_usb_sdmmc | power_mode int | mmc struct mmc_host * 
+struct mmc_host | f_min int | f_max int | ocr_avail int | caps int | caps2 int | max_current_330 int | max_current_180 int | max_segs int | max_seg_size int | max_blk_size int | max_blk_count int | max_req_size int | ops int * 
+function rtsx_usb_init_host void | host struct rtsx_usb_sdmmc *

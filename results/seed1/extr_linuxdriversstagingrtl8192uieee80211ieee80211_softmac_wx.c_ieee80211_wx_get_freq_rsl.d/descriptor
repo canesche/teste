@@ -1,6 +1,0 @@
-struct iw_freq | m int | e int 
-struct iwreq_data | freq struct iw_freq 
-struct iw_request_info | dummy int 
-struct TYPE_2__ | channel int 
-struct ieee80211_device | current_network struct TYPE_2__ 
-function ieee80211_wx_get_freq int | ieee struct ieee80211_device * | a struct iw_request_info * | wrqu union iwreq_data * | b char *

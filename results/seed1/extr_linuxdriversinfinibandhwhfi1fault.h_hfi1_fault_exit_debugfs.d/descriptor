@@ -1,2 +1,0 @@
-struct hfi1_ibdev | dummy int 
-function hfi1_fault_exit_debugfs void | ibd struct hfi1_ibdev *

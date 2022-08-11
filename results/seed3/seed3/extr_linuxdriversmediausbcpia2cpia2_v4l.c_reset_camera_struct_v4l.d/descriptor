@@ -1,0 +1,6 @@
+struct TYPE_6__ | stream_mode int 
+struct TYPE_5__ | flicker_mode_req int 
+struct TYPE_7__ | height int | width int 
+struct TYPE_8__ | camera_state struct TYPE_6__ | flicker_control struct TYPE_5__ | roi struct TYPE_7__ 
+struct camera_data | pixelformat int | params struct TYPE_8__ | num_frames int | frame_size int | height int | width int 
+function reset_camera_struct_v4l void | cam struct camera_data *

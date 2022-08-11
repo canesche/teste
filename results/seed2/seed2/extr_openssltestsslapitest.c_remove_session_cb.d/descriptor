@@ -1,0 +1,1 @@
+function remove_session_cb void | ctx int * | sess int *

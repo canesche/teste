@@ -1,0 +1,1 @@
+function halveImage void | components int | width int | height int | datain const int * | dataout int *

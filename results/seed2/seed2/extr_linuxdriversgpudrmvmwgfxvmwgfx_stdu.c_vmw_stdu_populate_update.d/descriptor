@@ -1,0 +1,5 @@
+struct TYPE_4__ | h void * | w void * | y void * | x void * 
+struct TYPE_5__ | stid int | rect struct TYPE_4__ 
+struct TYPE_6__ | size int | id int 
+struct vmw_stdu_update | body struct TYPE_5__ | header struct TYPE_6__ 
+function vmw_stdu_populate_update void | cmd void * | unit int | left void * | right void * | top void * | bottom void *

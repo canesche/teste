@@ -1,3 +1,0 @@
-struct TYPE_2__ | rev int 
-struct rt2x00_dev | chip struct TYPE_2__ 
-function rt2x00_rev int | rt2x00dev struct rt2x00_dev *

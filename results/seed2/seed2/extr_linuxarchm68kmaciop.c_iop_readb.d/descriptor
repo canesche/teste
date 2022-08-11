@@ -1,0 +1,2 @@
+struct mac_iop | ram_addr_lo int | ram_addr_hi int | ram_data int 
+function iop_readb int | iop volatile struct mac_iop * | addr int

@@ -1,2 +1,0 @@
-struct kvm_vcpu | dummy int 
-function kvm_mips_irq_clear_cb int | vcpu struct kvm_vcpu * | priority unsigned int | cause int

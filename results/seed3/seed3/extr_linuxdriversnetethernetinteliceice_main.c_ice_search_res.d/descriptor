@@ -1,0 +1,2 @@
+struct ice_res_tracker | search_hint int | list int * | num_entries int 
+function ice_search_res int | res struct ice_res_tracker * | needed int | id int

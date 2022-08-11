@@ -1,0 +1,2 @@
+struct user_namespace | level long | parent struct user_namespace * 
+function in_userns int | ancestor const struct user_namespace * | child const struct user_namespace *

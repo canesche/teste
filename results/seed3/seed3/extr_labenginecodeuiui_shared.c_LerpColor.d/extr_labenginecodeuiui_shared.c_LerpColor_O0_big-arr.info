@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 167,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_labenginecodeuiui_shared.c_LerpColor.d/extr_labenginecodeuiui_shared.c_LerpColor_O0::LerpColor(61)"
+  }
+]

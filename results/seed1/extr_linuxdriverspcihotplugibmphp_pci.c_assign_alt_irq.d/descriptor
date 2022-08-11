@@ -1,2 +1,0 @@
-struct pci_func | irq int * 
-function assign_alt_irq void | cur_func struct pci_func * | class_code int

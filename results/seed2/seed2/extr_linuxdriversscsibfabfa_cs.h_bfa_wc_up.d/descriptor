@@ -1,0 +1,2 @@
+struct bfa_wc_s | wc_count int 
+function bfa_wc_up void | wc struct bfa_wc_s *

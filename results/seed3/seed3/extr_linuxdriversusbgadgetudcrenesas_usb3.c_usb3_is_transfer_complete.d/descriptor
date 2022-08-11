@@ -1,0 +1,5 @@
+struct usb_request | actual int | length int | zero int 
+struct renesas_usb3_request | req struct usb_request 
+struct TYPE_2__ | maxpacket int 
+struct renesas_usb3_ep | ep struct TYPE_2__ 
+function usb3_is_transfer_complete int | usb3_ep struct renesas_usb3_ep * | usb3_req struct renesas_usb3_request *

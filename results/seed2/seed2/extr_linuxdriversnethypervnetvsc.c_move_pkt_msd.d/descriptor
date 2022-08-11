@@ -1,0 +1,4 @@
+struct sk_buff | dummy int 
+struct multi_send_data | count long | pkt struct hv_netvsc_packet * | skb struct sk_buff * 
+struct hv_netvsc_packet | dummy int 
+function move_pkt_msd void | msd_send struct hv_netvsc_packet ** | msd_skb struct sk_buff ** | msdp struct multi_send_data *

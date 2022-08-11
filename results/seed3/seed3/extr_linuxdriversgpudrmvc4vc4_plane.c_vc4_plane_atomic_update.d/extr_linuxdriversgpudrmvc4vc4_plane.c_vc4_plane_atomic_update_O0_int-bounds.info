@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmvc4vc4_plane.c_vc4_plane_atomic_update.d/extr_linuxdriversgpudrmvc4vc4_plane.c_vc4_plane_atomic_update_O0::vc4_plane_atomic_update(63)"
+  }
+]

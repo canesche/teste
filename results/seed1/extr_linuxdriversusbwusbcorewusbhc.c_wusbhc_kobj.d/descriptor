@@ -1,6 +1,0 @@
-struct TYPE_5__ | controller struct TYPE_4__ * 
-struct TYPE_6__ | self struct TYPE_5__ 
-struct wusbhc | usb_hcd struct TYPE_6__ 
-struct kobject | dummy int 
-struct TYPE_4__ | kobj struct kobject 
-function wusbhc_kobj struct kobject * | wusbhc struct wusbhc *

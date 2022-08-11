@@ -1,0 +1,2 @@
+struct TYPE_3__ | BlockBaseNumber long | GpeCount long | EventInfo int * 
+function AcpiEvLowGetGpeInfo int * | GpeNumber long | GpeBlock struct TYPE_3__ *

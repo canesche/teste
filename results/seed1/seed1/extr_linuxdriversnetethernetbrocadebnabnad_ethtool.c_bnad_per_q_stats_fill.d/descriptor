@@ -1,0 +1,10 @@
+struct bnad | num_rx int | num_rxp_per_rx int | num_tx int | num_txq_per_tx int | tx_info struct TYPE_7__ * | rx_info struct TYPE_12__ * 
+struct bna_tcb | hw_consumer_index int * | consumer_index int | producer_index int | txq struct TYPE_8__ * 
+struct bna_rcb | consumer_index int | producer_index int | rxq struct TYPE_9__ * 
+struct TYPE_12__ | rx_ctrl struct TYPE_11__ * | rx int 
+struct TYPE_11__ | ccb struct TYPE_10__ * | rx_complete int | rx_keep_poll int | rx_schedule int | rx_poll_ctr int | rx_intr_ctr int 
+struct TYPE_10__ | rcb struct bna_rcb ** | hw_producer_index int * | producer_index int 
+struct TYPE_9__ | rxbuf_map_failed int | rxbuf_alloc_failed int | rx_packets_with_error int | rx_bytes int | rx_packets int 
+struct TYPE_8__ | tx_bytes int | tx_packets int 
+struct TYPE_7__ | tcb struct bna_tcb ** | tx int 
+function bnad_per_q_stats_fill int | bnad struct bnad * | buf int * | bi int

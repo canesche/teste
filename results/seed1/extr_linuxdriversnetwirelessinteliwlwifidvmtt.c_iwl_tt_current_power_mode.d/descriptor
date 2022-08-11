@@ -1,3 +1,0 @@
-struct iwl_tt_mgmt | tt_power_mode int 
-struct iwl_priv | thermal_throttle struct iwl_tt_mgmt 
-function iwl_tt_current_power_mode int | priv struct iwl_priv *

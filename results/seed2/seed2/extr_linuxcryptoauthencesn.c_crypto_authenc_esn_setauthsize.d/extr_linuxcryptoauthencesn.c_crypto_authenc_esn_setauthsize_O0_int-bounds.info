@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxcryptoauthencesn.c_crypto_authenc_esn_setauthsize.d/extr_linuxcryptoauthencesn.c_crypto_authenc_esn_setauthsize_O0::crypto_authenc_esn_setauthsize(63)"
+  }
+]

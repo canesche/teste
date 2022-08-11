@@ -1,0 +1,6 @@
+struct sockaddr | dummy int 
+struct TYPE_4__ | dst_addr int 
+struct TYPE_5__ | addr struct TYPE_4__ 
+struct TYPE_6__ | route struct TYPE_5__ 
+struct rdma_id_private | id struct TYPE_6__ 
+function cma_dst_addr struct sockaddr * | id_priv struct rdma_id_private *

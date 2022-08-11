@@ -1,0 +1,2 @@
+struct pack_window | inuse_cnt int 
+function unuse_pack void | w_cursor struct pack_window **

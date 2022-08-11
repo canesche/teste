@@ -1,0 +1,5 @@
+struct TYPE_9__ | valid int | data int | not_found long | no_cacheable long | len int 
+struct TYPE_10__ | connection struct TYPE_7__ * 
+struct TYPE_8__ | data int | len int 
+struct TYPE_7__ | addr_text struct TYPE_8__ 
+function ngx_http_variable_remote_addr int | r struct TYPE_10__ * | v struct TYPE_9__ * | data unsigned long

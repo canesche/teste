@@ -1,0 +1,2 @@
+struct TYPE_3__ | objectHandle long * 
+function MF_AddHandle int | ht struct TYPE_3__ * | htlen int | hobj long

@@ -1,0 +1,2 @@
+struct cpuidle_driver | dummy int 
+function __cpuidle_unset_driver void | drv struct cpuidle_driver *

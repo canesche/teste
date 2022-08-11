@@ -1,0 +1,2 @@
+struct module | dummy int 
+function module_disable_nx void | mod const struct module *

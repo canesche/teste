@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_labenginecodeq3_uiui_qmenu.c_Menu_AdjustCursor.d/extr_labenginecodeq3_uiui_qmenu.c_Menu_AdjustCursor_O0::Menu_AdjustCursor(71)"
+  }
+]

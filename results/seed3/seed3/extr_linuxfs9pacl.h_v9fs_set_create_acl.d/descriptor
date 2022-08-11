@@ -1,0 +1,4 @@
+struct posix_acl | dummy int 
+struct p9_fid | dummy int 
+struct inode | dummy int 
+function v9fs_set_create_acl int | inode struct inode * | fid struct p9_fid * | dacl struct posix_acl * | acl struct posix_acl *

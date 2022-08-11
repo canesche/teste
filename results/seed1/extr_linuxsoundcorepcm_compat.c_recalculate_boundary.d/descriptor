@@ -1,2 +1,0 @@
-struct snd_pcm_runtime | buffer_size int 
-function recalculate_boundary int | runtime struct snd_pcm_runtime *

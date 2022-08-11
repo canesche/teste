@@ -1,0 +1,3 @@
+struct TYPE_2__ | brightness int 
+struct backlight_device | props struct TYPE_2__ 
+function s6e3ha2_get_brightness int | bl_dev struct backlight_device *

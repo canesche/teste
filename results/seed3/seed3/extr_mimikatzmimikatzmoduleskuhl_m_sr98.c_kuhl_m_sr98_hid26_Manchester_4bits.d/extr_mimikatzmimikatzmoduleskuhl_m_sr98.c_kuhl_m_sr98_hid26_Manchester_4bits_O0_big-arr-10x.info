@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 82,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_mimikatzmimikatzmoduleskuhl_m_sr98.c_kuhl_m_sr98_hid26_Manchester_4bits.d/extr_mimikatzmimikatzmoduleskuhl_m_sr98.c_kuhl_m_sr98_hid26_Manchester_4bits_O0::kuhl_m_sr98_hid26_Manchester_4bits(61)"
+  }
+]

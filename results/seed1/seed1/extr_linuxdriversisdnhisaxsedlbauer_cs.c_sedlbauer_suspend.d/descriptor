@@ -1,0 +1,3 @@
+struct pcmcia_device | priv struct TYPE_2__ * 
+struct TYPE_2__ | stop int 
+function sedlbauer_suspend int | link struct pcmcia_device *

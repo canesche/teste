@@ -1,0 +1,2 @@
+struct TYPE_3__ | x509err int | alert int 
+function ssl_x509err2alert int | x509err int

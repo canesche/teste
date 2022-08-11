@@ -1,1 +1,0 @@
-value(payload_len) == 255, value(len) == 255, value(plcp_signal) == 255, value(short_preamble) == 255, length(dur) == 65025, length(plcp) == 65025

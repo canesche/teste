@@ -1,0 +1,2 @@
+struct drm_panel | dummy int 
+function rpi_touchscreen_noop int | panel struct drm_panel *

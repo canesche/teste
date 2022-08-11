@@ -1,2 +1,0 @@
-struct fiemap_extent_info | fi_flags int 
-function fiemap_check_flags int | fieinfo struct fiemap_extent_info * | fs_flags int

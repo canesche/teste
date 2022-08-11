@@ -1,0 +1,2 @@
+struct xgbe_phy_data | sfp_speed int 
+function xgbe_phy_valid_speed_sfp_mode int | phy_data struct xgbe_phy_data * | speed int

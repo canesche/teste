@@ -1,3 +1,0 @@
-struct rxe_queue | buf struct TYPE_2__ * 
-struct TYPE_2__ | consumer_index unsigned int 
-function consumer_index unsigned int | q struct rxe_queue *

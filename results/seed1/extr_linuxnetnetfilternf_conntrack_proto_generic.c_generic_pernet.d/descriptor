@@ -1,5 +1,0 @@
-struct nf_generic_net | dummy int 
-struct TYPE_3__ | generic struct nf_generic_net 
-struct TYPE_4__ | nf_ct_proto struct TYPE_3__ 
-struct net | ct struct TYPE_4__ 
-function generic_pernet struct nf_generic_net * | net struct net *

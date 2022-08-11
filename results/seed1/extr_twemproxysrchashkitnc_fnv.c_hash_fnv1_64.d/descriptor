@@ -1,1 +1,0 @@
-function hash_fnv1_64 int | key const char * | key_length unsigned long

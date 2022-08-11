@@ -1,0 +1,4 @@
+struct serio_device_id | type long | proto long | extra long | id long 
+struct TYPE_2__ | type long | proto long | extra long | id long 
+struct serio | id struct TYPE_2__ 
+function serio_match_port int | ids const struct serio_device_id * | serio struct serio *

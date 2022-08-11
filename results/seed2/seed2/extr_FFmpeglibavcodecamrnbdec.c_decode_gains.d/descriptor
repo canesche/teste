@@ -1,0 +1,5 @@
+struct TYPE_8__ | subframe struct TYPE_7__ * 
+struct TYPE_10__ | pitch_gain double * | frame struct TYPE_8__ 
+struct TYPE_9__ | p_gain unsigned long | fixed_gain unsigned long 
+struct TYPE_7__ | p_gain int 
+function decode_gains void | p struct TYPE_10__ * | amr_subframe const struct TYPE_9__ * | mode const enum Mode | subframe const int | fixed_gain_factor float *

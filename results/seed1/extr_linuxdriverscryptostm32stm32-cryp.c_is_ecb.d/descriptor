@@ -1,2 +1,0 @@
-struct stm32_cryp | flags int 
-function is_ecb int | cryp struct stm32_cryp *

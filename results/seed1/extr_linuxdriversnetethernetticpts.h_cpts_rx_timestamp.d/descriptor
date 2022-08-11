@@ -1,3 +1,0 @@
-struct sk_buff | dummy int 
-struct cpts | dummy int 
-function cpts_rx_timestamp void | cpts struct cpts * | skb struct sk_buff *

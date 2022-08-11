@@ -1,0 +1,2 @@
+struct TYPE_3__ | b_bufsize int 
+function buf_setsize void | bp struct TYPE_3__ * | bufsize int

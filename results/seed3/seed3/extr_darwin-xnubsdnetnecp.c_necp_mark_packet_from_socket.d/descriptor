@@ -1,0 +1,7 @@
+struct TYPE_7__ | necp_skip_policy_id long | necp_app_id int | necp_route_rule_id long | necp_last_interface_index long | necp_policy_id long 
+struct TYPE_8__ | necp_mtag struct TYPE_7__ 
+struct mbuf | m_flags int | m_pkthdr struct TYPE_8__ 
+struct TYPE_5__ | result long | route_rule_id long 
+struct TYPE_6__ | app_id int | results struct TYPE_5__ | policy_id long 
+struct inpcb | inp_policyresult struct TYPE_6__ 
+function necp_mark_packet_from_socket int | packet struct mbuf * | inp struct inpcb * | policy_id long | route_rule_id long | skip_policy_id long

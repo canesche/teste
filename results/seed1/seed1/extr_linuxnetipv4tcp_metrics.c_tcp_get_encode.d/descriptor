@@ -1,0 +1,2 @@
+struct tcp_metrics_block | dummy int 
+function tcp_get_encode struct tcp_metrics_block * | tm struct tcp_metrics_block * | depth int

@@ -1,2 +1,0 @@
-struct call_entry | dummy int 
-function set_expected_seq void | expected struct call_entry *

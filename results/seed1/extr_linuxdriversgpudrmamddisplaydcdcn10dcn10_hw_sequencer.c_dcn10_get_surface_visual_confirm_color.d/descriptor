@@ -1,5 +1,0 @@
-struct tg_color | color_g_y void * | color_b_cb void * | color_r_cr void * 
-struct TYPE_3__ | format int 
-struct TYPE_4__ | scl_data struct TYPE_3__ 
-struct pipe_ctx | plane_res struct TYPE_4__ 
-function dcn10_get_surface_visual_confirm_color void | pipe_ctx const struct pipe_ctx * | color struct tg_color *

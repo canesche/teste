@@ -1,0 +1,4 @@
+struct nvme_fc_queue | hctx struct blk_mq_hw_ctx * 
+struct nvme_fc_ctrl | queues struct nvme_fc_queue * 
+struct blk_mq_hw_ctx | driver_data struct nvme_fc_queue * 
+function __nvme_fc_init_hctx void | hctx struct blk_mq_hw_ctx * | ctrl struct nvme_fc_ctrl * | qidx unsigned int

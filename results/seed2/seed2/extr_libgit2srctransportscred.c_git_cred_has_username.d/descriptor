@@ -1,0 +1,2 @@
+struct TYPE_3__ | credtype long 
+function git_cred_has_username int | cred struct TYPE_3__ *

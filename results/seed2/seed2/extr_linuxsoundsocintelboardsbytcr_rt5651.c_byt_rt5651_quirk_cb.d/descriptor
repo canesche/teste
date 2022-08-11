@@ -1,0 +1,2 @@
+struct dmi_system_id | driver_data long 
+function byt_rt5651_quirk_cb int | id const struct dmi_system_id *

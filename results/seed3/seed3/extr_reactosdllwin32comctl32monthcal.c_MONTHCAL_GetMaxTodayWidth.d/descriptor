@@ -1,0 +1,3 @@
+struct TYPE_4__ | left long | right long 
+struct TYPE_5__ | todayrect struct TYPE_4__ 
+function MONTHCAL_GetMaxTodayWidth long | infoPtr const struct TYPE_5__ *

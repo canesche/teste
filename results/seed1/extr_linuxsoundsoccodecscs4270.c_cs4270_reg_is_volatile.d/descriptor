@@ -1,2 +1,0 @@
-struct device | dummy int 
-function cs4270_reg_is_volatile int | dev struct device * | reg unsigned int

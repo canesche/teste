@@ -1,0 +1,1 @@
+function reverse_memcmp int | cs const void * | ct const void * | count unsigned long

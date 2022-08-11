@@ -1,0 +1,2 @@
+struct kvm_mmu | last_nonleaf_level unsigned int 
+function is_last_gpte int | mmu struct kvm_mmu * | level unsigned int | gpte unsigned int

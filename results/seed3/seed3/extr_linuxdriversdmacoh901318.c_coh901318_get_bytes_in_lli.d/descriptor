@@ -1,0 +1,2 @@
+struct coh901318_lli | control int | virt_link_addr struct coh901318_lli * 
+function coh901318_get_bytes_in_lli int | in_lli struct coh901318_lli *

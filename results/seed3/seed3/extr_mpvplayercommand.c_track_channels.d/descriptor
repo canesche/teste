@@ -1,0 +1,5 @@
+struct track | stream struct TYPE_6__ * 
+struct TYPE_6__ | codec struct TYPE_5__ * 
+struct TYPE_4__ | num int 
+struct TYPE_5__ | channels struct TYPE_4__ 
+function track_channels int | track struct track *

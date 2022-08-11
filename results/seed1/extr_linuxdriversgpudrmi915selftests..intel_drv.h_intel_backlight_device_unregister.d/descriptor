@@ -1,2 +1,0 @@
-struct intel_connector | dummy int 
-function intel_backlight_device_unregister void | connector struct intel_connector *

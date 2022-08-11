@@ -1,0 +1,3 @@
+struct page | dummy int 
+struct kmem_cache | dummy int 
+function slab_destroy_debugcheck void | cachep struct kmem_cache * | page struct page *

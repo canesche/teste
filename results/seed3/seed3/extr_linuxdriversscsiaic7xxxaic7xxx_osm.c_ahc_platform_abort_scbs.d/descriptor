@@ -1,0 +1,2 @@
+struct ahc_softc | dummy int 
+function ahc_platform_abort_scbs int | ahc struct ahc_softc * | target int | channel char | lun int | tag int | role int | status int

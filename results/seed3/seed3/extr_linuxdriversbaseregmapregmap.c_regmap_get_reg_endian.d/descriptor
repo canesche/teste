@@ -1,0 +1,3 @@
+struct regmap_config | reg_format_endian int 
+struct regmap_bus | reg_format_endian_default int 
+function regmap_get_reg_endian enum regmap_endian | bus const struct regmap_bus * | config const struct regmap_config *

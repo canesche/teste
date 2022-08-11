@@ -1,0 +1,2 @@
+struct TYPE_3__ | vendor int 
+function sr_vendor_init void | cd struct TYPE_3__ *

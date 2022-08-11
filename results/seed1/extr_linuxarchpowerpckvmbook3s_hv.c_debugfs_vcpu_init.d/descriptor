@@ -1,2 +1,0 @@
-struct kvm_vcpu | dummy int 
-function debugfs_vcpu_init void | vcpu struct kvm_vcpu * | id unsigned int

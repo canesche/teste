@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverscryptoqatqat_commonqat_algs.c_qat_alg_validate_key.d/extr_linuxdriverscryptoqatqat_commonqat_algs.c_qat_alg_validate_key_O0::qat_alg_validate_key(68)"
+  }
+]

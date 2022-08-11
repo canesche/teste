@@ -1,0 +1,4 @@
+struct stv090x_state | modulation int | srate int | internal struct TYPE_2__ * 
+struct stv090x_short_frame_crloop | crl_2 int | crl_5 int | crl_10 int | crl_20 int | crl_30 int 
+struct TYPE_2__ | dev_ver int 
+function stv090x_optimize_carloop_short int | state struct stv090x_state *

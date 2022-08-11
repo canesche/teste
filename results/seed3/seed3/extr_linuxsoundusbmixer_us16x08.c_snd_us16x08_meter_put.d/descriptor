@@ -1,0 +1,7 @@
+struct usb_mixer_elem_info | private_data struct snd_us16x08_meter_store * 
+struct snd_us16x08_meter_store | comp_active_index int | comp_index int 
+struct snd_kcontrol | private_data struct usb_mixer_elem_info * 
+struct TYPE_3__ | value int * 
+struct TYPE_4__ | integer struct TYPE_3__ 
+struct snd_ctl_elem_value | value struct TYPE_4__ 
+function snd_us16x08_meter_put int | kcontrol struct snd_kcontrol * | ucontrol struct snd_ctl_elem_value *

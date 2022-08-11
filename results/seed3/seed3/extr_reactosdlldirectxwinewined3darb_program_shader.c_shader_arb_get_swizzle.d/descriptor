@@ -1,0 +1,2 @@
+struct wined3d_shader_src_param | swizzle int 
+function shader_arb_get_swizzle void | param const struct wined3d_shader_src_param * | fixup long | swizzle_str char *

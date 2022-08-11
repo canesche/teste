@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessrealtekrtlwifirtl8723aephy.c__rtl8723e_phy_dbm_to_txpwr_idx.d/extr_linuxdriversnetwirelessrealtekrtlwifirtl8723aephy.c__rtl8723e_phy_dbm_to_txpwr_idx_O0::_rtl8723e_phy_dbm_to_txpwr_idx(69)"
+  }
+]

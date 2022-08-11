@@ -1,0 +1,2 @@
+struct ahc_softc | channel char | instruction_ram_size int | bugs int | flags int | features int | chip int 
+function ahc_aic7892_setup int | ahc struct ahc_softc *

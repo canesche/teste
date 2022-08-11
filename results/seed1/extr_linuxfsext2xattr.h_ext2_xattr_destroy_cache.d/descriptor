@@ -1,2 +1,0 @@
-struct mb_cache | dummy int 
-function ext2_xattr_destroy_cache void | cache struct mb_cache *

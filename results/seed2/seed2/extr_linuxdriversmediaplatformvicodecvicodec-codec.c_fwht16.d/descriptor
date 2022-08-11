@@ -1,0 +1,1 @@
+function fwht16 void | block const long * | output_block long * | stride int | intra int

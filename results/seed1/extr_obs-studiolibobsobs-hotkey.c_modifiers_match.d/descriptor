@@ -1,3 +1,0 @@
-struct TYPE_4__ | modifiers int 
-struct TYPE_5__ | key struct TYPE_4__ 
-function modifiers_match int | binding struct TYPE_5__ * | modifiers_ int | strict_modifiers int

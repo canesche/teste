@@ -1,0 +1,5 @@
+struct sas_phy_data | enable long 
+struct sas_phy | negotiated_linkrate int | hostdata struct sas_phy_data * 
+struct asd_sas_phy | phy struct sas_phy * 
+struct hisi_sas_phy | port int * | phy_type long | phy_attached long | sas_phy struct asd_sas_phy 
+function hisi_sas_phy_disconnected void | phy struct hisi_sas_phy *

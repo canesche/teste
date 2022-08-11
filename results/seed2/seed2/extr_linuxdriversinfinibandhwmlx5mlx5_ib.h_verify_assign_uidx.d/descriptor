@@ -1,0 +1,1 @@
+function verify_assign_uidx int | cqe_version long | cmd_uidx int | user_index int *

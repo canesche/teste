@@ -1,0 +1,2 @@
+struct WriteThis | readptr char * | sizeleft long 
+function read_callback unsigned long | ptr void * | size unsigned long | nmemb unsigned long | userp void *

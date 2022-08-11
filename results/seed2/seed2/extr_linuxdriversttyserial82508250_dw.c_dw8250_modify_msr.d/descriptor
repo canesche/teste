@@ -1,0 +1,3 @@
+struct uart_port | private_data struct dw8250_data * 
+struct dw8250_data | msr_mask_on int | msr_mask_off int 
+function dw8250_modify_msr int | p struct uart_port * | offset int | value int

@@ -1,0 +1,2 @@
+struct i915_vma | flags int 
+function i915_vma_unset_ggtt_write void | vma struct i915_vma *

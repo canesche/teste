@@ -1,0 +1,3 @@
+struct region_devres | parent long | start long | n long 
+struct device | dummy int 
+function devm_region_match int | dev struct device * | res void * | match_data void *

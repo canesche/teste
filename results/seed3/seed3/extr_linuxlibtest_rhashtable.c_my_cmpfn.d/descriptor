@@ -1,0 +1,5 @@
+struct test_obj_val | id int 
+struct TYPE_2__ | id int 
+struct test_obj_rhl | value struct TYPE_2__ 
+struct rhashtable_compare_arg | key struct test_obj_val * 
+function my_cmpfn int | arg struct rhashtable_compare_arg * | obj const void *

@@ -1,0 +1,3 @@
+struct trace_event_file | filter struct event_filter * 
+struct event_filter | dummy int 
+function event_filter struct event_filter * | file struct trace_event_file *

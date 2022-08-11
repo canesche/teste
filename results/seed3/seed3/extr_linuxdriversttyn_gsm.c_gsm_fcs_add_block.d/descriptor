@@ -1,0 +1,1 @@
+function gsm_fcs_add_block unsigned long | fcs unsigned long | c unsigned long * | len int

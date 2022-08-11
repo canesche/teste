@@ -1,0 +1,2 @@
+struct TYPE_3__ | Reserved long | CodePage long | Size int | OffsetToData long 
+function InitializeDataEntry int | ImageBase long | DataEntry struct TYPE_3__ * | Data long | Size int

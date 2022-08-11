@@ -1,0 +1,2 @@
+struct mn | mnctr_mode_shift int 
+function reg_to_mnctr_mode int | mn struct mn * | val int

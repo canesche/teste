@@ -1,2 +1,0 @@
-struct rb_node | rb_right struct rb_node * | rb_left struct rb_node * 
-function rb_left_deepest_node struct rb_node * | node const struct rb_node *

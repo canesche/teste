@@ -1,0 +1,3 @@
+struct rproc | dummy int 
+struct device | driver_data struct rproc * | type int * | parent struct device * 
+function rproc_get_by_child struct rproc * | dev struct device *

@@ -1,0 +1,5 @@
+struct pcl818_board | is_818 long | ai_range_type int * 
+struct comedi_subdevice | range_table int * 
+struct comedi_device | board_ptr struct pcl818_board * 
+struct comedi_devconfig | options int * 
+function pcl818_set_ai_range_table void | dev struct comedi_device * | s struct comedi_subdevice * | it struct comedi_devconfig *

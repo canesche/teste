@@ -1,0 +1,3 @@
+struct TYPE_5__ | operands struct TYPE_4__ * 
+struct TYPE_4__ | type int | offset int | offset_sign int | reg int | regs int * 
+function oples int | a int * | data int * | op const struct TYPE_5__ *

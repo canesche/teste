@@ -1,0 +1,3 @@
+struct vpfe_ipipeif_device | formats struct v4l2_mbus_framefmt * 
+struct v4l2_mbus_framefmt | code int 
+function ipipeif_get_data_shift int | ipipeif struct vpfe_ipipeif_device *

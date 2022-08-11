@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function restore_fp int | tsk struct task_struct *

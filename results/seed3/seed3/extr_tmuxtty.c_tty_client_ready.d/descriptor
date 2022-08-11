@@ -1,0 +1,6 @@
+struct window_pane | window long | layout_cell int * 
+struct TYPE_4__ | flags int | term int * 
+struct client | flags int | session struct TYPE_5__ * | tty struct TYPE_4__ 
+struct TYPE_6__ | window long 
+struct TYPE_5__ | curw struct TYPE_6__ * 
+function tty_client_ready int | c struct client * | wp struct window_pane *

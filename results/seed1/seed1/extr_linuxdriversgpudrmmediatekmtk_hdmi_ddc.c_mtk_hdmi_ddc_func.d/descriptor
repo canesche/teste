@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function mtk_hdmi_ddc_func int | adapter struct i2c_adapter *

@@ -1,0 +1,3 @@
+struct mpoa_client | next struct mpoa_client * | mpoad_vcc struct atm_vcc * 
+struct atm_vcc | dummy int 
+function find_mpc_by_vcc struct mpoa_client * | vcc struct atm_vcc *

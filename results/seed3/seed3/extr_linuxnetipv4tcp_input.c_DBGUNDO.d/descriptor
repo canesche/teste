@@ -1,0 +1,2 @@
+struct sock | dummy int 
+function DBGUNDO void | sk struct sock * | msg const char *

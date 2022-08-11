@@ -1,0 +1,3 @@
+struct aat1290_led_config_data | max_mm_current long | max_brightness int 
+struct aat1290_led | mm_current_scale long * 
+function aat1290_led_validate_mm_current void | led struct aat1290_led * | cfg struct aat1290_led_config_data *

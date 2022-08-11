@@ -1,0 +1,2 @@
+struct block_list | num int 
+function compare_num int | p1 const void * | p2 const void *

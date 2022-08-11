@@ -1,0 +1,2 @@
+struct cpu_rmap | dummy int 
+function debug_print_rmap void | rmap const struct cpu_rmap * | prefix const char *

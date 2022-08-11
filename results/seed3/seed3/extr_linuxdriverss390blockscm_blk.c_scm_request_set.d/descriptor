@@ -1,0 +1,5 @@
+struct scm_request | aob struct TYPE_4__ * | request struct request ** 
+struct request | dummy int 
+struct TYPE_3__ | msb_count unsigned long 
+struct TYPE_4__ | request struct TYPE_3__ 
+function scm_request_set void | scmrq struct scm_request * | req struct request *

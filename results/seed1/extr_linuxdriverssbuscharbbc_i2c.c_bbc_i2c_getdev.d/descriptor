@@ -1,4 +1,0 @@
-struct platform_device | dummy int 
-struct bbc_i2c_bus | devs struct TYPE_2__ * 
-struct TYPE_2__ | device struct platform_device * 
-function bbc_i2c_getdev struct platform_device * | bp struct bbc_i2c_bus * | index int

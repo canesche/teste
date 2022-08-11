@@ -1,0 +1,4 @@
+struct TYPE_4__ | on_time_scan long | on_time_rf long | tx_time long | rx_time long 
+struct TYPE_3__ | on_time_scan int | on_time_rf int | tx_time int | rx_time int 
+struct iwl_mvm | radio_stats struct TYPE_4__ | accu_radio_stats struct TYPE_3__ 
+function iwl_mvm_accu_radio_stats void | mvm struct iwl_mvm *

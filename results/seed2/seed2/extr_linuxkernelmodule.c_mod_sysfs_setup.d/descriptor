@@ -1,0 +1,4 @@
+struct module | dummy int 
+struct load_info | dummy int 
+struct kernel_param | dummy int 
+function mod_sysfs_setup int | mod struct module * | info const struct load_info * | kparam struct kernel_param * | num_params unsigned int

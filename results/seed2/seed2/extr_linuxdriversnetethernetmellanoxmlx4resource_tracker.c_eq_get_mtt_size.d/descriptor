@@ -1,0 +1,2 @@
+struct mlx4_eq_context | log_eq_size int | log_page_size int 
+function eq_get_mtt_size int | eqc struct mlx4_eq_context *

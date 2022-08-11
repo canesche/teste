@@ -1,0 +1,1 @@
+function _glfwPlatformSetWindowTitle void | window int * | title const char *

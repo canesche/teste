@@ -1,2 +1,0 @@
-struct target | cpu_list long | system_wide long 
-function target__has_cpu int | target struct target *

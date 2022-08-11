@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_timescaledbtslsrccontinuous_aggsinsert.c_update_cache_entry.d/extr_timescaledbtslsrccontinuous_aggsinsert.c_update_cache_entry_O0::update_cache_entry(65)"
+  }
+]

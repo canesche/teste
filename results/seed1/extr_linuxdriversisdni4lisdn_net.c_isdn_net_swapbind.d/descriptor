@@ -1,4 +1,0 @@
-struct TYPE_5__ | next long | local struct TYPE_4__ * 
-struct TYPE_6__ | netdev struct TYPE_5__ * 
-struct TYPE_4__ | pre_device int | pre_channel int 
-function isdn_net_swapbind void | drvidx int

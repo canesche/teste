@@ -1,0 +1,3 @@
+struct inflate_state | mode long | bits long 
+struct TYPE_3__ | state int * 
+function zlib_inflateSyncPacket int | strm struct TYPE_3__ *

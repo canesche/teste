@@ -1,0 +1,2 @@
+struct adapter | flags int 
+function t4_intr_handler int | adap struct adapter *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | userdata void * 
+function zbar_image_set_userdata void | img struct TYPE_3__ * | userdata void *

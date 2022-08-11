@@ -1,0 +1,5 @@
+struct ffmpeg_mux | num_audio_streams int | audio_streams struct TYPE_4__ ** | video_stream struct TYPE_3__ * 
+struct ffm_packet_info | type long | index unsigned long 
+struct TYPE_4__ | id int 
+struct TYPE_3__ | id int 
+function get_index int | ffm struct ffmpeg_mux * | info struct ffm_packet_info *

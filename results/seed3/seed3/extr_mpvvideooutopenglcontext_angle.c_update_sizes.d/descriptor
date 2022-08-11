@@ -1,0 +1,4 @@
+struct ra_ctx | vo struct TYPE_2__ * | priv struct priv * 
+struct priv | sc_width int | sc_height int 
+struct TYPE_2__ | dwidth int | dheight int 
+function update_sizes void | ctx struct ra_ctx *

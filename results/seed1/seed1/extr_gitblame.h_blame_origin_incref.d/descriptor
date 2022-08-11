@@ -1,0 +1,2 @@
+struct blame_origin | refcnt int 
+function blame_origin_incref struct blame_origin * | o struct blame_origin *

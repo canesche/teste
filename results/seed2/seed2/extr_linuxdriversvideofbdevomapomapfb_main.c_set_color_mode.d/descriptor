@@ -1,0 +1,5 @@
+struct omapfb_plane_struct | color_mode int | fbdev struct TYPE_4__ * 
+struct fb_var_screeninfo | nonstd int | bits_per_pixel int 
+struct TYPE_4__ | panel struct TYPE_3__ * 
+struct TYPE_3__ | bpp int 
+function set_color_mode int | plane struct omapfb_plane_struct * | var struct fb_var_screeninfo *

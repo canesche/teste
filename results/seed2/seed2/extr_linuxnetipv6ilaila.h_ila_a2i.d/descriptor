@@ -1,0 +1,3 @@
+struct in6_addr | dummy int 
+struct ila_addr | dummy int 
+function ila_a2i struct ila_addr * | addr struct in6_addr *

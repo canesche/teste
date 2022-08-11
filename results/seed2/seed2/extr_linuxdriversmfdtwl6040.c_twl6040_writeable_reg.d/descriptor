@@ -1,0 +1,2 @@
+struct device | dummy int 
+function twl6040_writeable_reg int | dev struct device * | reg unsigned int

@@ -1,2 +1,0 @@
-struct swap_cluster_info | data long | flags int 
-function cluster_set_null void | info struct swap_cluster_info *

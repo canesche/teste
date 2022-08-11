@@ -1,3 +1,0 @@
-struct TYPE_2__ | ctl_addr unsigned long 
-struct ide_hw | io_ports_array unsigned long * | io_ports struct TYPE_2__ 
-function pmac_ide_init_ports void | hw struct ide_hw * | base unsigned long

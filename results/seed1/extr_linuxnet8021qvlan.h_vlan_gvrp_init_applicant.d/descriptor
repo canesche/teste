@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function vlan_gvrp_init_applicant int | dev struct net_device *

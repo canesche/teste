@@ -1,0 +1,1 @@
+function verify_utf8 int | state int * | str const char * | len int

@@ -1,2 +1,0 @@
-struct pvr2_hdw | name const char * 
-function pvr2_hdw_get_driver_name const char * | hdw struct pvr2_hdw *

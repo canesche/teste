@@ -1,0 +1,4 @@
+struct TYPE_3__ | nr_segments int | handle int | sector_number long 
+struct TYPE_4__ | rw struct TYPE_3__ 
+struct blkif_request | operation int | u struct TYPE_4__ 
+function blkif_setup_extra_req void | first struct blkif_request * | second struct blkif_request *

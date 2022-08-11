@@ -1,0 +1,2 @@
+struct diff_options | output_prefix long 
+function graph_setup_line_prefix void | diffopt struct diff_options *

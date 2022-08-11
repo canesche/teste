@@ -1,0 +1,1 @@
+function NtfsFileFlagsToAttributes int | NtfsAttributes int | FileAttributes int *

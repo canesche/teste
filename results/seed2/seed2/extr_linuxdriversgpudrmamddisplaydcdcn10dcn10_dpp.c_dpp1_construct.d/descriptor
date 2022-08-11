@@ -1,0 +1,7 @@
+struct dcn_dpp_shift | dummy int 
+struct dcn_dpp_registers | dummy int 
+struct dcn_dpp_mask | dummy int 
+struct TYPE_2__ | caps int * | funcs int * | inst int | ctx struct dc_context * 
+struct dcn10_dpp | lb_pixel_depth_supported int | lb_memory_size int | lb_bits_per_entry int | tf_mask const struct dcn_dpp_mask * | tf_shift const struct dcn_dpp_shift * | tf_regs const struct dcn_dpp_registers * | base struct TYPE_2__ 
+struct dc_context | dummy int 
+function dpp1_construct void | dpp struct dcn10_dpp * | ctx struct dc_context * | inst int | tf_regs const struct dcn_dpp_registers * | tf_shift const struct dcn_dpp_shift * | tf_mask const struct dcn_dpp_mask *

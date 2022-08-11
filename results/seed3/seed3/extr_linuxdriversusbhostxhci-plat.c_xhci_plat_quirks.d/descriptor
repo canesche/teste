@@ -1,0 +1,3 @@
+struct xhci_hcd | quirks int 
+struct device | dummy int 
+function xhci_plat_quirks void | dev struct device * | xhci struct xhci_hcd *

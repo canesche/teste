@@ -1,0 +1,1 @@
+function IcmpApiEchoSend int * | dest_ip int * | ttl int | data int * | size int | timeout int

@@ -1,0 +1,2 @@
+struct bitstr | bit unsigned int | cur int * 
+function get_bitmap unsigned int | bs struct bitstr * | b unsigned int

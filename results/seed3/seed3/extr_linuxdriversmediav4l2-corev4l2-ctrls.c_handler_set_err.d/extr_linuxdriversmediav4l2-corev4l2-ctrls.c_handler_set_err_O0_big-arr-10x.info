@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmediav4l2-corev4l2-ctrls.c_handler_set_err.d/extr_linuxdriversmediav4l2-corev4l2-ctrls.c_handler_set_err_O0::handler_set_err(61)"
+  }
+]

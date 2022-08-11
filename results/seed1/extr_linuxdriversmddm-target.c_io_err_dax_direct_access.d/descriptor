@@ -1,2 +1,0 @@
-struct dm_target | dummy int 
-function io_err_dax_direct_access long | ti struct dm_target * | pgoff int | nr_pages long | kaddr void ** | pfn int *

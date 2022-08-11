@@ -1,0 +1,5 @@
+struct TYPE_6__ | x float | y float 
+struct TYPE_5__ | x float | y float 
+struct TYPE_4__ | x float | y float 
+struct scroll_filter_data | offset struct TYPE_6__ | scroll_speed struct TYPE_5__ | size_i struct TYPE_4__ 
+function scroll_filter_tick void | data void * | seconds float

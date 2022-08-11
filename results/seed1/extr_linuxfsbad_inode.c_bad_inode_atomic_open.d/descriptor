@@ -1,4 +1,0 @@
-struct inode | dummy int 
-struct file | dummy int 
-struct dentry | dummy int 
-function bad_inode_atomic_open int | inode struct inode * | dentry struct dentry * | file struct file * | open_flag unsigned int | create_mode int

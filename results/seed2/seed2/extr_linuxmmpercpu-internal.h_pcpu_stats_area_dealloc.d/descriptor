@@ -1,0 +1,2 @@
+struct pcpu_chunk | dummy int 
+function pcpu_stats_area_dealloc void | chunk struct pcpu_chunk *

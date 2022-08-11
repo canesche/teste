@@ -1,0 +1,2 @@
+struct TYPE_3__ | oob int | bit long | readcount long 
+function MSG_BeginReadingOOB void | msg struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct atmel_lcdfb_info | dummy int 
+function exit_backlight void | sinfo struct atmel_lcdfb_info *

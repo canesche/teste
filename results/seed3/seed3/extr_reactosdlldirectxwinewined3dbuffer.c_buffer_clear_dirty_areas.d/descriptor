@@ -1,0 +1,2 @@
+struct wined3d_buffer | modified_areas long 
+function buffer_clear_dirty_areas void | This struct wined3d_buffer *

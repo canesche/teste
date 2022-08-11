@@ -1,0 +1,2 @@
+struct compress | dummy int 
+function compress_init int | c struct compress *

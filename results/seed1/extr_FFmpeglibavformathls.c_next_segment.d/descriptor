@@ -1,3 +1,0 @@
-struct segment | dummy int 
-struct playlist | cur_seq_no int | start_seq_no int | n_segments int | segments struct segment ** 
-function next_segment struct segment * | pls struct playlist *

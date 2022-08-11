@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversofof_private.h_of_property_notify.d/extr_linuxdriversofof_private.h_of_property_notify_O0::of_property_notify(63)"
+  }
+]

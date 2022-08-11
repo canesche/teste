@@ -1,0 +1,2 @@
+struct pp_hwmgr | workload_prority int * | workload_setting unsigned long * 
+function hwmgr_init_workload_prority void | hwmgr struct pp_hwmgr *

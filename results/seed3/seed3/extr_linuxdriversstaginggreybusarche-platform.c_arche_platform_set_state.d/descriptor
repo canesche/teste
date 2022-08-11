@@ -1,0 +1,2 @@
+struct arche_platform_drvdata | state int 
+function arche_platform_set_state void | arche_pdata struct arche_platform_drvdata * | state enum arche_platform_state

@@ -1,0 +1,4 @@
+struct TYPE_7__ | cpl_in_use int | new_cpl_coords int * | new_cpl_leak int | new_snr_offsets long | channel_in_cpl long * | num_rematrixing_bands long | new_rematrixing_strategy long | new_cpl_strategy long 
+struct TYPE_6__ | extended_bsi_2 long | extended_bsi_1 long | audio_production_info long | eac3_info_metadata long | eac3_mixing_metadata long 
+struct TYPE_5__ | channel_mode long | num_blocks int | cpl_on int | bitstream_id int | fbw_channels int | num_cpl_subbands int | num_cpl_bands int | exp_strategy long ** | channels int | frame_bits int | frame_bits_fixed int | eac3 long | blocks struct TYPE_7__ * | use_frame_exp_strategy long | lfe_on long | has_surround long | has_center long | options struct TYPE_6__ 
+function count_frame_bits void | s struct TYPE_5__ *

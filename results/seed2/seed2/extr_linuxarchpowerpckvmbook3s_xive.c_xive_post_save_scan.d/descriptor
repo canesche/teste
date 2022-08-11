@@ -1,0 +1,4 @@
+struct kvmppc_xive_src_block | irq_state struct TYPE_2__ * 
+struct kvmppc_xive | max_sbid unsigned long | saved_src_count long | src_blocks struct kvmppc_xive_src_block ** 
+struct TYPE_2__ | in_queue int 
+function xive_post_save_scan void | xive struct kvmppc_xive *

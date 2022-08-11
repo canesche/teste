@@ -1,3 +1,0 @@
-struct ssif_info | intf struct ipmi_smi * 
-struct ipmi_smi | dummy int 
-function ssif_start_processing int | send_info void * | intf struct ipmi_smi *

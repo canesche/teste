@@ -1,0 +1,1 @@
+function ext2fs_clear_bit64 int | nr int | addr void *

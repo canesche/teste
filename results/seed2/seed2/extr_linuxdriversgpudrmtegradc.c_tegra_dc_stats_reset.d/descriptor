@@ -1,0 +1,2 @@
+struct tegra_dc_stats | overflow long | underflow long | vblank long | frames long 
+function tegra_dc_stats_reset void | stats struct tegra_dc_stats *

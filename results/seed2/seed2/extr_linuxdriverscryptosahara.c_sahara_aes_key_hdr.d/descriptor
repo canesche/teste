@@ -1,0 +1,2 @@
+struct sahara_dev | flags int 
+function sahara_aes_key_hdr int | dev struct sahara_dev *

@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function altr_a10sr_gpio_direction_input int | gc struct gpio_chip * | nr unsigned int

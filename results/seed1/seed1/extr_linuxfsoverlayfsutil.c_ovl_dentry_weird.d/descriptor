@@ -1,0 +1,2 @@
+struct dentry | d_flags int 
+function ovl_dentry_weird int | dentry struct dentry *

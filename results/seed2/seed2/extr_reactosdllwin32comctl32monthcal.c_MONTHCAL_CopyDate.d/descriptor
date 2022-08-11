@@ -1,0 +1,2 @@
+struct TYPE_4__ | wDayOfWeek int | wDay int | wMonth int | wYear int 
+function MONTHCAL_CopyDate void | from const struct TYPE_4__ * | to struct TYPE_4__ *

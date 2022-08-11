@@ -1,0 +1,3 @@
+struct xt_mtchk_param | matchinfo struct ebt_pkttype_info * 
+struct ebt_pkttype_info | invert int 
+function ebt_pkttype_mt_check int | par const struct xt_mtchk_param *

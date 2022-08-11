@@ -1,2 +1,0 @@
-struct TYPE_3__ | size unsigned long 
-function xmlHashComputeKey unsigned long | table struct TYPE_3__ * | name const int * | name2 const int * | name3 const int *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | fwd int ** | res int | y0 long | x0 long 
+function qr_aff_project void | _p long * | _aff const struct TYPE_3__ * | _u int | _v int

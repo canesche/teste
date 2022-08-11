@@ -1,4 +1,0 @@
-struct TYPE_7__ | g int * | q int * | p int * 
-struct TYPE_5__ | dsa struct TYPE_7__ * 
-struct TYPE_6__ | pkey struct TYPE_5__ 
-function dsa_missing_parameters int | pkey const struct TYPE_6__ *

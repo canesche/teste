@@ -1,0 +1,4 @@
+struct TYPE_3__ | invoke_used int * 
+struct TYPE_4__ | dss1 struct TYPE_3__ 
+struct PStack | prot struct TYPE_4__ 
+function free_invoke_id void | p struct PStack * | id unsigned char

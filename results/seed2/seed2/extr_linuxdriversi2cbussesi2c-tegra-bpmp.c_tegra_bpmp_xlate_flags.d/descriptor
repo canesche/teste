@@ -1,0 +1,1 @@
+function tegra_bpmp_xlate_flags int | flags int | out int *

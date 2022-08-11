@@ -1,2 +1,0 @@
-struct module | dummy int 
-function apply_r_mips_none int | me struct module * | location int * | v int

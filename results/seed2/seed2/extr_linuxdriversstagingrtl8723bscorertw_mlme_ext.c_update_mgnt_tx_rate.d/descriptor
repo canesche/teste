@@ -1,0 +1,3 @@
+struct mlme_ext_priv | tx_rate int 
+struct adapter | mlmeextpriv struct mlme_ext_priv 
+function update_mgnt_tx_rate void | padapter struct adapter * | rate int

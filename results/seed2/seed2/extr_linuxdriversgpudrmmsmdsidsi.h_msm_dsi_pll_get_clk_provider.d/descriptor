@@ -1,0 +1,3 @@
+struct msm_dsi_pll | dummy int 
+struct clk | dummy int 
+function msm_dsi_pll_get_clk_provider int | pll struct msm_dsi_pll * | byte_clk_provider struct clk ** | pixel_clk_provider struct clk **

@@ -1,3 +1,0 @@
-struct ifbifconf32 | dummy int 
-struct bridge_softc | dummy int 
-function bridge_ioctl_gifs32 int | sc struct bridge_softc * | arg void *

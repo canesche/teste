@@ -1,2 +1,0 @@
-struct devfreq_event_dev | dummy int 
-function rockchip_dfi_set_event int | edev struct devfreq_event_dev *

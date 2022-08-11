@@ -1,0 +1,2 @@
+struct ceph_inode_info | dummy int 
+function ceph_disable_fscache_readpage void | ci struct ceph_inode_info *

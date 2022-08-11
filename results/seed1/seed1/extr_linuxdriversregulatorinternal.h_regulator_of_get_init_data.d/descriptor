@@ -1,0 +1,6 @@
+struct regulator_init_data | dummy int 
+struct regulator_desc | dummy int 
+struct regulator_config | dummy int 
+struct device_node | dummy int 
+struct device | dummy int 
+function regulator_of_get_init_data struct regulator_init_data * | dev struct device * | desc const struct regulator_desc * | config struct regulator_config * | node struct device_node **

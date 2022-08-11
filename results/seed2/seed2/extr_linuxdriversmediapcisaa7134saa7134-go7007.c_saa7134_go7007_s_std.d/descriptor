@@ -1,0 +1,2 @@
+struct v4l2_subdev | dummy int 
+function saa7134_go7007_s_std int | sd struct v4l2_subdev * | norm int

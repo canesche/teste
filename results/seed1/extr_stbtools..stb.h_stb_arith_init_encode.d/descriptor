@@ -1,2 +1,0 @@
-struct TYPE_3__ | range_high int | pending_ffs int | output int * | range_low long 
-function stb_arith_init_encode void | a struct TYPE_3__ * | out int *

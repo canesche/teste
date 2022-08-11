@@ -1,0 +1,2 @@
+struct TYPE_11__ | used unsigned short | indx long 
+function cns11643_inv_wctomb int | conv int | r unsigned char * | wc int | n unsigned long

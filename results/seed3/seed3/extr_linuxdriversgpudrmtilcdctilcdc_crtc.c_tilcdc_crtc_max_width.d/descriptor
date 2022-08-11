@@ -1,0 +1,4 @@
+struct tilcdc_drm_private | rev int 
+struct drm_device | dev_private struct tilcdc_drm_private * 
+struct drm_crtc | dev struct drm_device * 
+function tilcdc_crtc_max_width int | crtc struct drm_crtc *

@@ -1,0 +1,1 @@
+function copy_src_mask void | dst int * | width int | mask int | src const int *

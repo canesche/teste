@@ -1,5 +1,0 @@
-struct sd | bridge int 
-struct TYPE_4__ | bulk_size int 
-struct TYPE_3__ | width int 
-struct gspca_dev | cam struct TYPE_4__ | pixfmt struct TYPE_3__ 
-function sd_isoc_init int | gspca_dev struct gspca_dev *

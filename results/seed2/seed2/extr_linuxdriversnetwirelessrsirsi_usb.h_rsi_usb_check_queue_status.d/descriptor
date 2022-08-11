@@ -1,0 +1,2 @@
+struct rsi_hw | dummy int 
+function rsi_usb_check_queue_status int | adapter struct rsi_hw * | q_num int

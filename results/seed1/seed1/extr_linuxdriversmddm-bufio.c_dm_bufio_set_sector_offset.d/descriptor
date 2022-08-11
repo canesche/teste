@@ -1,0 +1,2 @@
+struct dm_bufio_client | start int 
+function dm_bufio_set_sector_offset void | c struct dm_bufio_client * | start int

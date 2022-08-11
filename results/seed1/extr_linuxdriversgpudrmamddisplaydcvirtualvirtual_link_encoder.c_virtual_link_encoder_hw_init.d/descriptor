@@ -1,2 +1,0 @@
-struct link_encoder | dummy int 
-function virtual_link_encoder_hw_init void | enc struct link_encoder *

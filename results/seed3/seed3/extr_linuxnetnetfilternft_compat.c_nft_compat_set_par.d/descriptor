@@ -1,0 +1,2 @@
+struct xt_action_param | hotdrop int | targinfo const void * | target void * 
+function nft_compat_set_par void | par struct xt_action_param * | xt void * | xt_info const void *

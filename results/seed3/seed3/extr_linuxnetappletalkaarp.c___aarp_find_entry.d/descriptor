@@ -1,0 +1,5 @@
+struct net_device | dummy int 
+struct atalk_addr | s_net long | s_node long 
+struct TYPE_2__ | s_net long | s_node long 
+struct aarp_entry | next struct aarp_entry * | dev struct net_device * | target_addr struct TYPE_2__ 
+function __aarp_find_entry struct aarp_entry * | list struct aarp_entry * | dev struct net_device * | sat struct atalk_addr *

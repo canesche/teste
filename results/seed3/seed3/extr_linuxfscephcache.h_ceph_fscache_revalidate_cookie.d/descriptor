@@ -1,0 +1,2 @@
+struct ceph_inode_info | dummy int 
+function ceph_fscache_revalidate_cookie void | ci struct ceph_inode_info *

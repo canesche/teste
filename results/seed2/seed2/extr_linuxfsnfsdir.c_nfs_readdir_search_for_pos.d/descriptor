@@ -1,0 +1,5 @@
+struct nfs_cache_array | size long | eof_index long | array struct TYPE_5__ * 
+struct TYPE_7__ | current_index long | cache_entry_index unsigned int | eof int | dir_cookie int * | ctx struct TYPE_6__ * 
+struct TYPE_6__ | pos long 
+struct TYPE_5__ | cookie int 
+function nfs_readdir_search_for_pos int | array struct nfs_cache_array * | desc struct TYPE_7__ *

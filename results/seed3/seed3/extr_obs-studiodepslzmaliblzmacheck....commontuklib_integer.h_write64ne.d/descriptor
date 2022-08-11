@@ -1,0 +1,1 @@
+function write64ne void | buf int * | num int

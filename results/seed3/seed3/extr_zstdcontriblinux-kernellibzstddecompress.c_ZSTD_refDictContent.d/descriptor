@@ -1,0 +1,2 @@
+struct TYPE_3__ | dictEnd const char * | previousDstEnd const char * | vBase const char * | base const void * 
+function ZSTD_refDictContent unsigned long | dctx struct TYPE_3__ * | dict const void * | dictSize unsigned long

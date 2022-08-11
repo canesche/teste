@@ -1,0 +1,4 @@
+struct regmap_irq_chip_data | chip struct TYPE_2__ * 
+struct regmap_irq | dummy int 
+struct TYPE_2__ | irqs const struct regmap_irq * 
+function irq_to_regmap_irq const struct regmap_irq * | data struct regmap_irq_chip_data * | irq int

@@ -1,2 +1,0 @@
-struct ahash_request | dummy int 
-function dcp_sha_noimport int | req struct ahash_request * | in const void *

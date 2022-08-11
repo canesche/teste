@@ -1,2 +1,0 @@
-struct ice_hw | num_tx_sched_layers long 
-function ice_sched_get_qgrp_layer long | hw struct ice_hw *

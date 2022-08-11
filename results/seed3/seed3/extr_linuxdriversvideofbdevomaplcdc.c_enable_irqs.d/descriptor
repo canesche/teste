@@ -1,0 +1,2 @@
+struct TYPE_2__ | irq_mask int 
+function enable_irqs void | mask int

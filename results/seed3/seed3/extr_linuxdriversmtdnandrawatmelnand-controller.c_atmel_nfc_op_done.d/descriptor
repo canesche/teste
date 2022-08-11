@@ -1,0 +1,2 @@
+struct atmel_nfc_op | errors int | wait int 
+function atmel_nfc_op_done int | op struct atmel_nfc_op * | status int

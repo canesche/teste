@@ -1,2 +1,0 @@
-struct disassemble_info | dummy int 
-function symbol_at_address int | addr int | info struct disassemble_info *

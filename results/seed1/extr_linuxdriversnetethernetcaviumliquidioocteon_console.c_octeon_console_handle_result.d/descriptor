@@ -1,3 +1,0 @@
-struct octeon_device | console struct octeon_console * 
-struct octeon_console | waiting long 
-function octeon_console_handle_result void | oct struct octeon_device * | console_num unsigned long

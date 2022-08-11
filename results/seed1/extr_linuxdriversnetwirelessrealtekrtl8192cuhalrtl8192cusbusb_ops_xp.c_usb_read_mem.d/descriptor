@@ -1,2 +1,0 @@
-struct intf_hdl | dummy int 
-function usb_read_mem void | pintfhdl struct intf_hdl * | addr int | cnt int | rmem int *

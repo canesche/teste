@@ -1,0 +1,3 @@
+struct bfa_ioc | attr struct TYPE_2__ * 
+struct TYPE_2__ | pwwn int 
+function bfa_ioc_get_pwwn int | ioc struct bfa_ioc *

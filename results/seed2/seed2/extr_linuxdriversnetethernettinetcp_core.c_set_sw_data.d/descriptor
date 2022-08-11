@@ -1,0 +1,2 @@
+struct knav_dma_desc | sw_data int * 
+function set_sw_data void | index int | data int | desc struct knav_dma_desc *

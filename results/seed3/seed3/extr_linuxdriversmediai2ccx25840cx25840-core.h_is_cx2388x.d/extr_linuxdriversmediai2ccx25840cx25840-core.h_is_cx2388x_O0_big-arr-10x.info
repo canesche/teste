@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmediai2ccx25840cx25840-core.h_is_cx2388x.d/extr_linuxdriversmediai2ccx25840cx25840-core.h_is_cx2388x_O0::is_cx2388x(64)"
+  }
+]

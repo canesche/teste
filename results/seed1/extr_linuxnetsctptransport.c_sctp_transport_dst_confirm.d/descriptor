@@ -1,2 +1,0 @@
-struct sctp_transport | dst_pending_confirm int 
-function sctp_transport_dst_confirm void | t struct sctp_transport *

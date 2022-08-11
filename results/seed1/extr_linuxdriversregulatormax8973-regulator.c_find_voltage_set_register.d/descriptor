@@ -1,2 +1,0 @@
-struct max8973_chip | lru_index int * | curr_vout_val int * 
-function find_voltage_set_register int | tps struct max8973_chip * | req_vsel int | vout_reg int * | gpio_val int *

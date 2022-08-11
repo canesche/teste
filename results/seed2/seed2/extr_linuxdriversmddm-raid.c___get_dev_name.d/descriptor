@@ -1,0 +1,2 @@
+struct dm_dev | name const char * 
+function __get_dev_name const char * | dev struct dm_dev *

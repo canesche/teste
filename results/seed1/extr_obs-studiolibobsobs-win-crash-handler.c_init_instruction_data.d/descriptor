@@ -1,7 +1,0 @@
-struct TYPE_9__ | Mode void * | Offset int 
-struct TYPE_8__ | Mode void * | Offset int 
-struct TYPE_7__ | Mode void * | Offset int 
-struct TYPE_10__ | AddrStack struct TYPE_9__ | AddrPC struct TYPE_8__ | AddrFrame struct TYPE_7__ 
-struct TYPE_6__ | Esp int | Ebp int | Eip int 
-struct stack_trace | frame struct TYPE_10__ | image_type int | context struct TYPE_6__ | instruction_ptr int 
-function init_instruction_data void | trace struct stack_trace *

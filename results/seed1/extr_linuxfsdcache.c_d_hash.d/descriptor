@@ -1,2 +1,0 @@
-struct hlist_bl_head | dummy int 
-function d_hash struct hlist_bl_head * | hash unsigned int

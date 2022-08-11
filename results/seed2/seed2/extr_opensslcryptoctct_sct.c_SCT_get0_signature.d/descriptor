@@ -1,0 +1,2 @@
+struct TYPE_3__ | sig unsigned char * | sig_len unsigned long 
+function SCT_get0_signature unsigned long | sct const struct TYPE_3__ * | sig unsigned char **

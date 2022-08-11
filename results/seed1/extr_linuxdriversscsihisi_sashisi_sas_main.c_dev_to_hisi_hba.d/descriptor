@@ -1,5 +1,0 @@
-struct hisi_hba | dummy int 
-struct domain_device | port struct TYPE_4__ * 
-struct TYPE_4__ | ha struct TYPE_3__ * 
-struct TYPE_3__ | lldd_ha struct hisi_hba * 
-function dev_to_hisi_hba struct hisi_hba * | device struct domain_device *

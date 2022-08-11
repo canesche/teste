@@ -1,0 +1,1 @@
+function cmdq_wqe_size_from_bdlen unsigned int | len enum bufdesc_len

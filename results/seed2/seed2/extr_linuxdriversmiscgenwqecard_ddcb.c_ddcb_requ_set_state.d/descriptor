@@ -1,0 +1,2 @@
+struct ddcb_requ | req_state int 
+function ddcb_requ_set_state void | req struct ddcb_requ * | new_state enum genwqe_requ_state

@@ -1,0 +1,3 @@
+struct usb_otg | state int | gadget struct usb_gadget * 
+struct usb_gadget | dummy int 
+function twl4030_set_peripheral int | otg struct usb_otg * | gadget struct usb_gadget *

@@ -1,2 +1,0 @@
-struct mga_device | dummy int 
-function mgag200_modeset_fini void | mdev struct mga_device *

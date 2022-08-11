@@ -1,0 +1,1 @@
+function get_backup_ptr long * | elem_size long | element long *

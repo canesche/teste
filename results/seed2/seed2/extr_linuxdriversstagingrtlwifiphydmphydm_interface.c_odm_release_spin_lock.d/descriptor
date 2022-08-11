@@ -1,0 +1,2 @@
+struct phy_dm_struct | dummy int 
+function odm_release_spin_lock void | dm struct phy_dm_struct * | type enum rt_spinlock_type

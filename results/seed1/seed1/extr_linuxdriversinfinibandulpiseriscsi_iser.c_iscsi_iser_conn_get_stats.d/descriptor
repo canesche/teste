@@ -1,0 +1,4 @@
+struct iscsi_stats | custom_length long | tmfrsp_pdus int | tmfcmd_pdus int | r2t_pdus int | datain_pdus int | scsirsp_pdus int | dataout_pdus int | scsicmd_pdus int | rxdata_octets int | txdata_octets int 
+struct iscsi_conn | tmfrsp_pdus_cnt int | tmfcmd_pdus_cnt int | r2t_pdus_cnt int | datain_pdus_cnt int | scsirsp_pdus_cnt int | dataout_pdus_cnt int | scsicmd_pdus_cnt int | rxdata_octets int | txdata_octets int 
+struct iscsi_cls_conn | dd_data struct iscsi_conn * 
+function iscsi_iser_conn_get_stats void | cls_conn struct iscsi_cls_conn * | stats struct iscsi_stats *

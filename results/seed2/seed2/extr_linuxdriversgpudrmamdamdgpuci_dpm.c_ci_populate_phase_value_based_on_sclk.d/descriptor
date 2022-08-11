@@ -1,0 +1,4 @@
+struct amdgpu_phase_shedding_limits_table | count unsigned int | entries struct TYPE_2__ * 
+struct amdgpu_device | dummy int 
+struct TYPE_2__ | sclk long 
+function ci_populate_phase_value_based_on_sclk void | adev struct amdgpu_device * | limits const struct amdgpu_phase_shedding_limits_table * | sclk long | phase_shedding long *

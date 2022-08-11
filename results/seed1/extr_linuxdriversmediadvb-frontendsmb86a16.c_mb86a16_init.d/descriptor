@@ -1,2 +1,0 @@
-struct dvb_frontend | dummy int 
-function mb86a16_init int | fe struct dvb_frontend *

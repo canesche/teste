@@ -1,0 +1,2 @@
+struct sbridge_pvt | dummy int 
+function knl_get_memory_type enum mem_type | pvt struct sbridge_pvt *

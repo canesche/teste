@@ -1,0 +1,1 @@
+function intel_dp_rate_limit_len int | rates const int * | len int | max_rate int

@@ -1,0 +1,3 @@
+struct of_phandle_args | dummy int 
+struct clk_hw | dummy int 
+function si53351_of_clk_get struct clk_hw * | clkspec struct of_phandle_args * | data void *

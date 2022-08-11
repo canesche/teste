@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversvideofbdevclps711x-fb.c_clps711x_fb_blank.d/extr_linuxdriversvideofbdevclps711x-fb.c_clps711x_fb_blank_O0::clps711x_fb_blank(61)"
+  }
+]

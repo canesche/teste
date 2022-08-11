@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxfsxfslibxfsxfs_dir2_leaf.c_xfs_dir3_leaf_size.d/extr_linuxfsxfslibxfsxfs_dir2_leaf.c_xfs_dir3_leaf_size_O0::xfs_dir3_leaf_size(71)"
+  }
+]

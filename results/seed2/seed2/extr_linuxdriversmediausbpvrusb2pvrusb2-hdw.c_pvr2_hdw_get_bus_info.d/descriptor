@@ -1,0 +1,2 @@
+struct pvr2_hdw | bus_info const char * 
+function pvr2_hdw_get_bus_info const char * | hdw struct pvr2_hdw *

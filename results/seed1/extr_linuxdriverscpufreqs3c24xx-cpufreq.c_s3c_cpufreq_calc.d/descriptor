@@ -1,5 +1,0 @@
-struct TYPE_5__ | fclk unsigned long | hclk unsigned long | pclk unsigned long | hclk_tns int 
-struct TYPE_6__ | h_divisor unsigned long | p_divisor unsigned long 
-struct TYPE_4__ | frequency unsigned long 
-struct s3c_cpufreq_config | freq struct TYPE_5__ | divs struct TYPE_6__ | pll struct TYPE_4__ 
-function s3c_cpufreq_calc void | cfg struct s3c_cpufreq_config *

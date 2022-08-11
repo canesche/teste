@@ -1,0 +1,12 @@
+struct TYPE_16__ | size int 
+struct TYPE_13__ | width int | y long | x long | height long 
+struct TYPE_12__ | den int | num long 
+struct TYPE_14__ | width int | crop struct TYPE_13__ | frame_rate struct TYPE_12__ | height long 
+struct TYPE_15__ | video struct TYPE_14__ 
+struct TYPE_11__ | bitrate int | encoding int 
+struct vchiq_mmal_port | current_buffer struct TYPE_16__ | es struct TYPE_15__ | format struct TYPE_11__ 
+struct bcm2835_codec_q_data | bytesperline int | crop_width int | sizeimage int | crop_height long | height long | fmt struct TYPE_9__ * 
+struct bcm2835_codec_ctx | bitrate int | dev struct TYPE_10__ * 
+struct TYPE_10__ | role long 
+struct TYPE_9__ | flags int | depth int | mmal_fmt int 
+function setup_mmal_port_format void | ctx struct bcm2835_codec_ctx * | q_data struct bcm2835_codec_q_data * | port struct vchiq_mmal_port *

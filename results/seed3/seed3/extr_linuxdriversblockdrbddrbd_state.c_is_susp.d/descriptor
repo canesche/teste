@@ -1,0 +1,2 @@
+struct drbd_state | susp_fen long | susp_nod long | susp long 
+function is_susp int | s union drbd_state

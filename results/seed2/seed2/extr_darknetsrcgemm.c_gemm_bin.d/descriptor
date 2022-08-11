@@ -1,0 +1,1 @@
+function gemm_bin void | M int | N int | K int | ALPHA float | A char * | lda int | B float * | ldb int | C float * | ldc int

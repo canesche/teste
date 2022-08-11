@@ -1,0 +1,3 @@
+struct tree_balance | tb_sb struct super_block * 
+struct super_block | dummy int 
+function sb_from_tb struct super_block * | tb struct tree_balance *

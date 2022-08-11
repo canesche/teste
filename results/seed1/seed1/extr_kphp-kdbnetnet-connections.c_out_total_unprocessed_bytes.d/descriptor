@@ -1,0 +1,4 @@
+struct TYPE_4__ | unprocessed_bytes int 
+struct TYPE_3__ | total_bytes int 
+struct connection | flags int | Out struct TYPE_4__ | out struct TYPE_3__ | crypto long 
+function out_total_unprocessed_bytes int | c struct connection *

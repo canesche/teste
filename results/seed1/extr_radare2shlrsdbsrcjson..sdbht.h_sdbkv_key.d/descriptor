@@ -1,3 +1,0 @@
-struct TYPE_4__ | key long 
-struct TYPE_5__ | base struct TYPE_4__ 
-function sdbkv_key char * | kv const struct TYPE_5__ *

@@ -1,0 +1,1 @@
+function strntokc int | dstTokenStart char * | tokenSize unsigned long | parsestr char * | delims const char * | context char **

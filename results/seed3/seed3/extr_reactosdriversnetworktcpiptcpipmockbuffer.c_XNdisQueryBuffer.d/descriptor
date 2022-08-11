@@ -1,0 +1,3 @@
+struct TYPE_5__ | ByteCount int 
+struct TYPE_4__ | MappedSystemVa int 
+function XNdisQueryBuffer int | Buffer struct TYPE_4__ * | VirtualAddress int * | Length int *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 106,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmradeonr200.c_r200_get_vtx_size_1.d/extr_linuxdriversgpudrmradeonr200.c_r200_get_vtx_size_1_O0::r200_get_vtx_size_1(61)"
+  }
+]

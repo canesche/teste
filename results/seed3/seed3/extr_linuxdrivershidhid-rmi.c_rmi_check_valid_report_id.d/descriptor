@@ -1,0 +1,5 @@
+struct hid_report | maxfield int | field struct TYPE_4__ ** 
+struct hid_device | report_enum struct TYPE_3__ * 
+struct TYPE_4__ | application unsigned int 
+struct TYPE_3__ | report_id_hash struct hid_report ** 
+function rmi_check_valid_report_id int | hdev struct hid_device * | type unsigned int | id unsigned int | report struct hid_report **

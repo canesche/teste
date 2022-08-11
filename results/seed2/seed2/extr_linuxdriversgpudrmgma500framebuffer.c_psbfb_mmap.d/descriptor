@@ -1,0 +1,6 @@
+struct vm_area_struct | vm_pgoff unsigned long | vm_flags int | vm_private_data void * | vm_ops int * | vm_file struct TYPE_2__ * 
+struct psb_framebuffer | addr_space long 
+struct psb_fbdev | pfb struct psb_framebuffer 
+struct fb_info | par struct psb_fbdev * 
+struct TYPE_2__ | f_mapping long 
+function psbfb_mmap int | info struct fb_info * | vma struct vm_area_struct *

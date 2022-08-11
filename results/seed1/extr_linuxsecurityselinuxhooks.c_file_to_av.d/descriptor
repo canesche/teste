@@ -1,2 +1,0 @@
-struct file | f_mode int | f_flags int 
-function file_to_av int | file struct file *

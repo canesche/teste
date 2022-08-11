@@ -1,0 +1,2 @@
+struct cs_hash | cs_type int 
+function cs_hash_type int | cs_hash const struct cs_hash *const

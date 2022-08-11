@@ -1,2 +1,0 @@
-struct radix_tree_root | gfp_mask int 
-function root_gfp_mask int | root const struct radix_tree_root *

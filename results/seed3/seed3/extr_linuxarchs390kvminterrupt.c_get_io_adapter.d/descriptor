@@ -1,0 +1,4 @@
+struct s390_io_adapter | dummy int 
+struct TYPE_2__ | adapters struct s390_io_adapter ** 
+struct kvm | arch struct TYPE_2__ 
+function get_io_adapter struct s390_io_adapter * | kvm struct kvm * | id unsigned int

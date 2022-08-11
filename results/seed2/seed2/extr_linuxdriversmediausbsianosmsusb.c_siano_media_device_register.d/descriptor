@@ -1,0 +1,2 @@
+struct smsusb_device_t | dummy int 
+function siano_media_device_register void * | dev struct smsusb_device_t * | board_id int

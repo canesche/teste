@@ -1,0 +1,2 @@
+struct shader_none_priv | ffp_proj_control int 
+function shader_none_has_ffp_proj_control int | shader_priv void *

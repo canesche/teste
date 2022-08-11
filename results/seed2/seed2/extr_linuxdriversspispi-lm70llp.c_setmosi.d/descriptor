@@ -1,0 +1,2 @@
+struct spi_device | dummy int 
+function setmosi void | s struct spi_device * | is_on int

@@ -1,0 +1,3 @@
+struct TYPE_5__ | ext2_sb struct TYPE_4__ * 
+struct TYPE_4__ | s_inodes_per_group int 
+function ext2_group_of_ino int | fs struct TYPE_5__ * | ino int

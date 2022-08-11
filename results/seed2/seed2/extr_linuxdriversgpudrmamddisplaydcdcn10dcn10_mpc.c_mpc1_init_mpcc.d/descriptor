@@ -1,0 +1,4 @@
+struct TYPE_3__ | enable int 
+struct TYPE_4__ | overlap_only int | global_alpha int | global_gain int 
+struct mpcc | mpcc_id int | dpp_id int | sm_cfg struct TYPE_3__ | blnd_cfg struct TYPE_4__ | mpcc_bot int * 
+function mpc1_init_mpcc void | mpcc struct mpcc * | mpcc_inst int

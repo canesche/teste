@@ -1,0 +1,3 @@
+struct comedi_device | dummy int 
+struct comedi_cmd | scan_begin_src int | scan_begin_arg int | convert_arg int | chanlist_len int 
+function ai_scan_counter_6xxx int | dev struct comedi_device * | cmd struct comedi_cmd *

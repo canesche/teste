@@ -1,2 +1,0 @@
-struct netcp_packet | psdata_len int 
-function netcp_align_psdata int | p_info struct netcp_packet * | byte_align unsigned int

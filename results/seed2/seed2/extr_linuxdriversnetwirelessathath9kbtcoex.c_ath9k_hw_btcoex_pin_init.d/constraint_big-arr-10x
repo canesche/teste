@@ -1,0 +1,1 @@
+length(wlanactive_gpio) == 100, length(btactive_gpio) == 100, length(btpriority_gpio) == 100, length(ah) == 100

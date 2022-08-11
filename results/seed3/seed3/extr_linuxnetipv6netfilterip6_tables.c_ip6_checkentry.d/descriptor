@@ -1,0 +1,2 @@
+struct ip6t_ip6 | flags int | invflags int 
+function ip6_checkentry int | ipv6 const struct ip6t_ip6 *

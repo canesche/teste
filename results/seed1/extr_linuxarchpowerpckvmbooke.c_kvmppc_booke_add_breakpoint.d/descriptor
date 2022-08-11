@@ -1,2 +1,0 @@
-struct debug_reg | dbcr0 int | iac2 void * | iac1 void * 
-function kvmppc_booke_add_breakpoint int | dbg_reg struct debug_reg * | addr void * | index int

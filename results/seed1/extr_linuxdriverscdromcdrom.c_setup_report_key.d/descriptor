@@ -1,2 +1,0 @@
-struct packet_command | cmd unsigned int * | buflen int | data_direction int 
-function setup_report_key void | cgc struct packet_command * | agid unsigned int | type unsigned int

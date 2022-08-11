@@ -1,2 +1,0 @@
-struct Decorr | value int | samplesA int * 
-function reverse_mono_decorr void | dpp struct Decorr *

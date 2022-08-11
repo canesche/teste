@@ -1,3 +1,0 @@
-struct iwl_mvm_scan_params | n_scan_plans int | scan_plans struct TYPE_2__ * 
-struct TYPE_2__ | iterations int 
-function iwl_mvm_is_regular_scan int | params struct iwl_mvm_scan_params *

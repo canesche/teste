@@ -1,0 +1,2 @@
+struct snd_pcm_hardware | rates int | rate_max int 
+function wm8776_adc_hardware_filter void | channel unsigned int | hardware struct snd_pcm_hardware *

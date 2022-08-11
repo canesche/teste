@@ -1,3 +1,0 @@
-struct rpcrdma_regbuf | rg_device struct ib_device * 
-struct ib_device | dummy int 
-function rdmab_device struct ib_device * | rb struct rpcrdma_regbuf *

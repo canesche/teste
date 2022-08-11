@@ -1,3 +1,0 @@
-struct dm_target | dummy int 
-struct dm_dev | dummy int 
-function count_device int | ti struct dm_target * | dev struct dm_dev * | start int | len int | data void *

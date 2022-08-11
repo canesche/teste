@@ -1,0 +1,2 @@
+struct vec4 | w long | x long | y long | z long 
+function vec4_to_bgra int | src const struct vec4 *

@@ -1,2 +1,0 @@
-struct drm_dp_aux_msg | request int 
-function drm_dp_i2c_msg_write_status_update void | msg struct drm_dp_aux_msg *

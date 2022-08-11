@@ -1,0 +1,2 @@
+struct devfreq_cooling_device | freq_table_size int | freq_table unsigned long * 
+function freq_get_state unsigned long | dfc struct devfreq_cooling_device * | freq unsigned long

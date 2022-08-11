@@ -1,0 +1,2 @@
+struct vm_area_struct | vm_private_data void * 
+function set_vma_private_data void | vma struct vm_area_struct * | value unsigned long

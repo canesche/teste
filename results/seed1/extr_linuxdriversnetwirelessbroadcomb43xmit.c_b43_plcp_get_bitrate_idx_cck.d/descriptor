@@ -1,2 +1,0 @@
-struct b43_plcp_hdr6 | raw int * 
-function b43_plcp_get_bitrate_idx_cck int | plcp struct b43_plcp_hdr6 *

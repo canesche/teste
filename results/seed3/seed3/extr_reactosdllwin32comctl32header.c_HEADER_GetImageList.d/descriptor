@@ -1,0 +1,2 @@
+struct TYPE_3__ | himl int 
+function HEADER_GetImageList int | infoPtr const struct TYPE_3__ *

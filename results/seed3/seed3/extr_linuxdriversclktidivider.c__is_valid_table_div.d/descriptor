@@ -1,0 +1,2 @@
+struct clk_div_table | div int 
+function _is_valid_table_div int | table const struct clk_div_table * | div unsigned int

@@ -1,0 +1,3 @@
+struct snd_cs46xx | ac97_bus int * 
+struct snd_ac97_bus | private_data struct snd_cs46xx * 
+function snd_cs46xx_mixer_free_ac97_bus void | bus struct snd_ac97_bus *

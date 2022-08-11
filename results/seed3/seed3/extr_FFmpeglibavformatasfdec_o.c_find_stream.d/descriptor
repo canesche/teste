@@ -1,0 +1,4 @@
+struct TYPE_7__ | nb_streams int | asf_st struct TYPE_5__ ** 
+struct TYPE_6__ | streams int ** | priv_data struct TYPE_7__ * 
+struct TYPE_5__ | stream_index long | index unsigned long 
+function find_stream int * | s struct TYPE_6__ * | st_num long

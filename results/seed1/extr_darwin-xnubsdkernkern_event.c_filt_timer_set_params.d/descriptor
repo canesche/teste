@@ -1,3 +1,0 @@
-struct knote | kn_sdata int | kn_ext int * 
-struct filt_timer_params | interval int | leeway int | deadline int 
-function filt_timer_set_params void | kn struct knote * | params struct filt_timer_params *

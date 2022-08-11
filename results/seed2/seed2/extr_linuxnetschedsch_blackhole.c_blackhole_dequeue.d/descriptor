@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct Qdisc | dummy int 
+function blackhole_dequeue struct sk_buff * | sch struct Qdisc *

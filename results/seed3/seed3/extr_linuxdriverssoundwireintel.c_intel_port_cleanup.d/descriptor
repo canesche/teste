@@ -1,0 +1,4 @@
+struct sdw_cdns_dma_data | nr_ports int | port struct TYPE_4__ ** 
+struct TYPE_4__ | assigned int | pdi struct TYPE_3__ * 
+struct TYPE_3__ | assigned int 
+function intel_port_cleanup void | dma struct sdw_cdns_dma_data *

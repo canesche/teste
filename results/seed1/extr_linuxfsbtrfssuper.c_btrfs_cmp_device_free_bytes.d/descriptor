@@ -1,2 +1,0 @@
-struct btrfs_device_info | max_avail long 
-function btrfs_cmp_device_free_bytes int | dev_info1 const void * | dev_info2 const void *

@@ -1,0 +1,3 @@
+struct wined3d_shader_resource_info | type int 
+struct wined3d_context | rev_tex_unit_map unsigned long * | fixed_function_usage_map unsigned int 
+function context_unit_free_for_vs int | context const struct wined3d_context * | ps_resource_info const struct wined3d_shader_resource_info * | unit unsigned long

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmmsmdispmdp4mdp4_kms.h_pipe2flush.d/extr_linuxdriversgpudrmmsmdispmdp4mdp4_kms.h_pipe2flush_O0::pipe2flush(68)"
+  }
+]

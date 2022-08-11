@@ -1,0 +1,7 @@
+struct TYPE_8__ | sie_block struct TYPE_7__ * 
+struct kvm_vcpu | run struct TYPE_6__ * | arch struct TYPE_8__ 
+struct TYPE_10__ | gprs int * 
+struct TYPE_9__ | regs struct TYPE_10__ 
+struct TYPE_7__ | ipb int 
+struct TYPE_6__ | s struct TYPE_9__ 
+function kvm_s390_get_base_disp_rs int | vcpu struct kvm_vcpu * | ar int *

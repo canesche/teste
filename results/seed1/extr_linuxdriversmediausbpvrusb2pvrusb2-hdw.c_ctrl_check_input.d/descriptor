@@ -1,3 +1,0 @@
-struct pvr2_ctrl | hdw struct TYPE_2__ * 
-struct TYPE_2__ | input_allowed_mask int 
-function ctrl_check_input int | cptr struct pvr2_ctrl * | v int

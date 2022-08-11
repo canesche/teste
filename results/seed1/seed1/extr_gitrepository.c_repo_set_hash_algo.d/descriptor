@@ -1,0 +1,2 @@
+struct repository | hash_algo int * 
+function repo_set_hash_algo void | repo struct repository * | hash_algo int

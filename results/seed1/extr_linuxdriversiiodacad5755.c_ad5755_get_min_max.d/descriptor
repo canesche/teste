@@ -1,3 +1,0 @@
-struct iio_chan_spec | channel unsigned long 
-struct ad5755_state | ctrl int * 
-function ad5755_get_min_max void | st struct ad5755_state * | chan const struct iio_chan_spec * | min int * | max int *

@@ -1,0 +1,2 @@
+struct zbud_header | dummy int 
+function handle_to_zbud_header struct zbud_header * | handle unsigned long

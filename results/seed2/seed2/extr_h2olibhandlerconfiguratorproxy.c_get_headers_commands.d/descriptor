@@ -1,0 +1,4 @@
+struct proxy_configurator_t | vars struct TYPE_4__ * 
+struct TYPE_3__ | headers_cmds int * 
+struct TYPE_4__ | conf struct TYPE_3__ 
+function get_headers_commands int ** | _self int *

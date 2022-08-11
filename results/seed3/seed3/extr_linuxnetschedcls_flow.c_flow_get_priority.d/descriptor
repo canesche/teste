@@ -1,0 +1,2 @@
+struct sk_buff | priority int 
+function flow_get_priority int | skb const struct sk_buff *

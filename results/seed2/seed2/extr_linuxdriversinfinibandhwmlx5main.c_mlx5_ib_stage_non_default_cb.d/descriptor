@@ -1,0 +1,3 @@
+struct TYPE_2__ | query_port int | get_port_immutable int 
+struct mlx5_ib_dev | ib_dev struct TYPE_2__ 
+function mlx5_ib_stage_non_default_cb int | dev struct mlx5_ib_dev *

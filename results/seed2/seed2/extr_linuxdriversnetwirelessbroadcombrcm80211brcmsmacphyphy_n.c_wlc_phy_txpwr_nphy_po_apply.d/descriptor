@@ -1,0 +1,1 @@
+function wlc_phy_txpwr_nphy_po_apply void | srom_max unsigned long * | pwr_offset unsigned long | rate_start unsigned long | rate_end unsigned long

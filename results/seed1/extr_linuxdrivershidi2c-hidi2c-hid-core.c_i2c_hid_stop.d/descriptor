@@ -1,2 +1,0 @@
-struct hid_device | claimed long 
-function i2c_hid_stop void | hid struct hid_device *

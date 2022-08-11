@@ -1,0 +1,3 @@
+struct act8865_regulator_data | id int 
+struct act8865_platform_data | num_regulators int | regulators struct act8865_regulator_data * 
+function act8865_get_regulator_data struct act8865_regulator_data * | id int | pdata struct act8865_platform_data *

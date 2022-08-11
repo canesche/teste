@@ -1,0 +1,1 @@
+function m4x4_scale_for_vec3 void | matrix int * | scale int *const

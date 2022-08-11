@@ -1,3 +1,0 @@
-struct gss_api_mech | gm_pf_num int | gm_pfs struct TYPE_2__ * 
-struct TYPE_2__ | qop long | service long | pseudoflavor int 
-function gss_svc_to_pseudoflavor int | gm struct gss_api_mech * | qop long | service long

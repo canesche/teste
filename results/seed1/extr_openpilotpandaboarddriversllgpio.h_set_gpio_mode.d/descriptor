@@ -1,2 +1,0 @@
-struct TYPE_3__ | MODER int 
-function set_gpio_mode void | GPIO struct TYPE_3__ * | pin int | mode int

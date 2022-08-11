@@ -1,2 +1,0 @@
-struct b43_wldev | dummy int 
-function b43_nphy_tx_cal_radio_setup_rev19 void | dev struct b43_wldev *

@@ -1,0 +1,2 @@
+struct rpc_server | inbound_packet_num int | packet_num int | out_buf int | out_rptr int | out_wptr int | in_bytes long 
+function rpc_server_clean void | server struct rpc_server *

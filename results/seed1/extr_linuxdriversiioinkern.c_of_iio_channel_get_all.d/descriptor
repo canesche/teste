@@ -1,3 +1,0 @@
-struct iio_channel | dummy int 
-struct device | dummy int 
-function of_iio_channel_get_all struct iio_channel * | dev struct device *

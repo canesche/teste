@@ -1,0 +1,2 @@
+struct timeval | tv_sec long | tv_usec long 
+function php_openssl_compare_timeval int | a struct timeval | b struct timeval

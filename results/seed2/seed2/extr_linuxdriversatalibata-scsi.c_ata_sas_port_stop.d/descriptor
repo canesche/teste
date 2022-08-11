@@ -1,0 +1,2 @@
+struct ata_port | dummy int 
+function ata_sas_port_stop void | ap struct ata_port *

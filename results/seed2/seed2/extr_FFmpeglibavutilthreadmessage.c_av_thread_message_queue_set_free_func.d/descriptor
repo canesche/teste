@@ -1,0 +1,1 @@
+function av_thread_message_queue_set_free_func void | mq int * | free_func void (*)(void *)

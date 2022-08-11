@@ -1,3 +1,0 @@
-struct super_block | s_fs_info struct btrfs_fs_info * 
-struct btrfs_fs_info | dummy int 
-function btrfs_sb struct btrfs_fs_info * | sb struct super_block *

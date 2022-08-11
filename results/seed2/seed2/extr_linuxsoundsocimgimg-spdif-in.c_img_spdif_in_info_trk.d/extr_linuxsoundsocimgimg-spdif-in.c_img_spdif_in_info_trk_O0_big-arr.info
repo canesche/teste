@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxsoundsocimgimg-spdif-in.c_img_spdif_in_info_trk.d/extr_linuxsoundsocimgimg-spdif-in.c_img_spdif_in_info_trk_O0::img_spdif_in_info_trk(68)"
+  }
+]

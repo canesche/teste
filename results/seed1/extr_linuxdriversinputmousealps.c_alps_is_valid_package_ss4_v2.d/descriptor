@@ -1,2 +1,0 @@
-struct psmouse | pktcnt int | packet int * 
-function alps_is_valid_package_ss4_v2 int | psmouse struct psmouse *

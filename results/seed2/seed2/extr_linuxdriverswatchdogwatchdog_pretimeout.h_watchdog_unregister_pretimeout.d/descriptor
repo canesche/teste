@@ -1,0 +1,2 @@
+struct watchdog_device | dummy int 
+function watchdog_unregister_pretimeout void | wdd struct watchdog_device *

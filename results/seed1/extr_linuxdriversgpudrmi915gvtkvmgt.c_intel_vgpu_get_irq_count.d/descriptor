@@ -1,2 +1,0 @@
-struct intel_vgpu | dummy int 
-function intel_vgpu_get_irq_count int | vgpu struct intel_vgpu * | type int

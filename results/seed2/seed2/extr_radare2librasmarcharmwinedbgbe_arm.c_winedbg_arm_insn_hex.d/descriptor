@@ -1,0 +1,2 @@
+struct winedbg_arm_insn | str_hex char * 
+function winedbg_arm_insn_hex char * | arminsn struct winedbg_arm_insn *

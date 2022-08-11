@@ -1,0 +1,4 @@
+struct TYPE_3__ | rel_reg long 
+struct instruction | src struct TYPE_4__ * | dst struct TYPE_3__ | has_predicate long 
+struct TYPE_4__ | rel_reg long 
+function instrlen unsigned int | instr const struct instruction * | srcs unsigned int | dsts unsigned int

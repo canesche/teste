@@ -1,4 +1,0 @@
-struct sched_dl_entity | flags int | dl_period int | dl_deadline int | dl_runtime int 
-struct task_struct | rt_priority int | dl struct sched_dl_entity 
-struct sched_attr | sched_flags int | sched_period int | sched_deadline int | sched_runtime int | sched_priority int 
-function __getparam_dl void | p struct task_struct * | attr struct sched_attr *

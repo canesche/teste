@@ -1,3 +1,0 @@
-struct usb_serial_port | dummy int 
-struct tty_struct | dummy int 
-function navman_write int | tty struct tty_struct * | port struct usb_serial_port * | buf const unsigned char * | count int

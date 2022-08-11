@@ -1,2 +1,0 @@
-struct zoran | JPEG_min_missed int | JPEG_max_missed long | JPEG_missed long | END_event_missed long | JPEG_1 long | JPEG_0 long | JPEG_out long | JPEG_in long | IRQ1_out long | IRQ1_in long | field_counter long | intr_counter_JPEGRepIRQ long | intr_counter_CodRepIRQ long | intr_counter_GIRQ0 long | intr_counter_GIRQ1 long 
-function clear_interrupt_counters void | zr struct zoran *

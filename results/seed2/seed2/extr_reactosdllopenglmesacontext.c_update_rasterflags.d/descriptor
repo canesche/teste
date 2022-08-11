@@ -1,0 +1,10 @@
+struct TYPE_18__ | DrawBuffer long | ColorMask long | IndexMask long | SWmasking long | SWLogicOpEnabled long | BlendEnabled long | AlphaEnabled long 
+struct TYPE_15__ | X long | Width long | Y long | Height long 
+struct TYPE_14__ | Enabled long 
+struct TYPE_13__ | Enabled long 
+struct TYPE_12__ | Enabled long 
+struct TYPE_11__ | Test long 
+struct TYPE_19__ | RasterMask int | Color struct TYPE_18__ | Visual struct TYPE_17__ * | Buffer struct TYPE_16__ * | Viewport struct TYPE_15__ | Stencil struct TYPE_14__ | Scissor struct TYPE_13__ | Fog struct TYPE_12__ | Depth struct TYPE_11__ 
+struct TYPE_17__ | RGBAflag long | BackAlphaEnabled long | FrontAlphaEnabled long 
+struct TYPE_16__ | Width long | Height long 
+function update_rasterflags void | ctx struct TYPE_19__ *

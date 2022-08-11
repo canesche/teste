@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetmellanoxmlx4main.c_choose_log_fs_mgm_entry_size.d/extr_linuxdriversnetethernetmellanoxmlx4main.c_choose_log_fs_mgm_entry_size_O0::choose_log_fs_mgm_entry_size(62)"
+  }
+]

@@ -1,0 +1,6 @@
+struct TYPE_6__ | crtc_w int | crtc_h int | plane struct TYPE_5__ * 
+struct intel_plane_state | base struct TYPE_6__ 
+struct drm_mode_config | cursor_width int | cursor_height int 
+struct TYPE_5__ | dev struct TYPE_4__ * 
+struct TYPE_4__ | mode_config struct drm_mode_config 
+function intel_cursor_size_ok int | plane_state const struct intel_plane_state *

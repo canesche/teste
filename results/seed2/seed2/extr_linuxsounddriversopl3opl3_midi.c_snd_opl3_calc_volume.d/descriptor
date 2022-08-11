@@ -1,0 +1,2 @@
+struct snd_midi_channel | gm_volume int | gm_expression int 
+function snd_opl3_calc_volume void | volbyte unsigned char * | vel int | chan struct snd_midi_channel *

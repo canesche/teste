@@ -1,3 +1,0 @@
-struct TYPE_4__ | magic1 int | magic2 int | posguid int | lcid int | lcid2 int | varflags int | helpstring int | NameOffset int | helpfile int | CustomDataOffset int | res44 int | res48 int | dispatchpos int | nimpinfos long | nametablechars long | nametablecount long | helpcontext long | helpstringcontext long | nrtypeinfos long | flags long | version long 
-struct TYPE_5__ | typelib_header struct TYPE_4__ 
-function ctl2_init_header void | typelib struct TYPE_5__ *

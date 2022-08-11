@@ -1,2 +1,0 @@
-struct index_item | item_id long long | extra int 
-function get_idx_item struct index_item * | item_id long long

@@ -1,0 +1,3 @@
+struct TYPE_5__ | length long | data int 
+struct TYPE_6__ | message struct TYPE_5__ | buffer int 
+function fail_message struct TYPE_5__ * | connection struct TYPE_6__ *

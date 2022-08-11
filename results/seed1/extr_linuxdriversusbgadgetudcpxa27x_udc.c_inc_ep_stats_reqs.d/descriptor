@@ -1,3 +1,0 @@
-struct TYPE_2__ | out_ops int | in_ops int 
-struct pxa_ep | stats struct TYPE_2__ 
-function inc_ep_stats_reqs void | ep struct pxa_ep * | is_in int

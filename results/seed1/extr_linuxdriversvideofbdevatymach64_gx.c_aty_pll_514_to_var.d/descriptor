@@ -1,5 +1,0 @@
-struct TYPE_2__ | m int | n int 
-struct aty_pll | ibm514 struct TYPE_2__ 
-struct fb_info | par long 
-struct atyfb_par | ref_clk_per int 
-function aty_pll_514_to_var int | info const struct fb_info * | pll const union aty_pll *

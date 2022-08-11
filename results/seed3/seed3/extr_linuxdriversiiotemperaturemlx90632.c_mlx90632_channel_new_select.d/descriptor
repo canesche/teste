@@ -1,0 +1,1 @@
+function mlx90632_channel_new_select int | perform_ret int | channel_new int * | channel_old int *

@@ -1,0 +1,1 @@
+value(RxBuffCount) == 255, length(RxBuff) == 65025, length(DMARxDescTab) == 65025

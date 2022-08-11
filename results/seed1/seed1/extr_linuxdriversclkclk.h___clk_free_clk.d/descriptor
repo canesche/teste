@@ -1,0 +1,2 @@
+struct clk | dummy int 
+function __clk_free_clk void | clk struct clk *

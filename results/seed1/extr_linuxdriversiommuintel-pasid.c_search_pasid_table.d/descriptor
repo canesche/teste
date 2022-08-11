@@ -1,4 +1,0 @@
-struct pasid_table_opaque | segment long | bus long | devfn long | pasid_table long * 
-struct device_domain_info | bus long | devfn long | pasid_table long | iommu struct TYPE_2__ * 
-struct TYPE_2__ | segment long 
-function search_pasid_table int | info struct device_domain_info * | opaque void *

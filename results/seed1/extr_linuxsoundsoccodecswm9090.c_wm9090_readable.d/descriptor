@@ -1,2 +1,0 @@
-struct device | dummy int 
-function wm9090_readable int | dev struct device * | reg unsigned int

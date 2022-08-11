@@ -1,0 +1,3 @@
+struct TYPE_2__ | initial_tsn int | sinit_max_instreams int | sinit_num_ostreams int | peer_vtag int | peer_ttag int | my_vtag int | my_ttag int 
+struct sctp_association | state int | c struct TYPE_2__ | rwnd int 
+function sctp_tietags_populate void | new_asoc struct sctp_association * | asoc const struct sctp_association *

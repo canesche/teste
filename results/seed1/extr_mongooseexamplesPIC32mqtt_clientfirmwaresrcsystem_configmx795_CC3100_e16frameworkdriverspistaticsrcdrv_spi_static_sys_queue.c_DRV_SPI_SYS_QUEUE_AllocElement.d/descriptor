@@ -1,4 +1,0 @@
-struct TYPE_6__ | pNext struct TYPE_6__ * 
-struct TYPE_5__ | numAlloc long | maxElements long | numReserved long | pNext int * | pQueueManager struct TYPE_4__ * 
-struct TYPE_4__ | numReserveElements long | numFreeElements long | pFreeElementTail int * | pFreeElementHead struct TYPE_6__ * 
-function DRV_SPI_SYS_QUEUE_AllocElement int | queue long | element void **

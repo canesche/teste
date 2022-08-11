@@ -1,1 +1,0 @@
-function extend_address_range void | start long * | stop long * | estart long | len int

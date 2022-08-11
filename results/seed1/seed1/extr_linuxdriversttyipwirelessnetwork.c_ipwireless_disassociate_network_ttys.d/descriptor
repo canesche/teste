@@ -1,0 +1,2 @@
+struct ipw_network | associated_ttys int *** 
+function ipwireless_disassociate_network_ttys void | network struct ipw_network * | channel_idx unsigned int

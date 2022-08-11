@@ -1,0 +1,3 @@
+struct ifbrparam | ifbrp_cexceeded int 
+struct bridge_softc | sc_brtexceeded int 
+function bridge_ioctl_grte int | sc struct bridge_softc * | arg void *

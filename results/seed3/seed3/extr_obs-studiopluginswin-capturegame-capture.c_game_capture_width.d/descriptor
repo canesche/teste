@@ -1,0 +1,2 @@
+struct game_capture | cx int | active long 
+function game_capture_width int | data void *

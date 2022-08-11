@@ -1,0 +1,2 @@
+struct ata_taskfile | hob_feature int | feature int | hob_nsect int | nsect int | hob_lbal int | lbal int | hob_lbam int | lbam int | hob_lbah int | lbah int 
+function pdc_prep_lba48 unsigned int | tf struct ata_taskfile * | buf int * | i unsigned int

@@ -1,0 +1,6 @@
+struct pci_dev | devfn int | bus struct TYPE_4__ * 
+struct bnx2x_sriov | offset int | stride int 
+struct bnx2x | vfdb struct TYPE_3__ * | pdev struct pci_dev * 
+struct TYPE_4__ | number int 
+struct TYPE_3__ | sriov struct bnx2x_sriov 
+function bnx2x_vf_bus int | bp struct bnx2x * | vfid int

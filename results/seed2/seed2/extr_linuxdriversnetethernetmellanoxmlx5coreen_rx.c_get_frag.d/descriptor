@@ -1,0 +1,5 @@
+struct mlx5e_wqe_frag_info | dummy int 
+struct TYPE_3__ | log_num_frags unsigned long 
+struct TYPE_4__ | info struct TYPE_3__ | frags struct mlx5e_wqe_frag_info * 
+struct mlx5e_rq | wqe struct TYPE_4__ 
+function get_frag struct mlx5e_wqe_frag_info * | rq struct mlx5e_rq * | ix unsigned long

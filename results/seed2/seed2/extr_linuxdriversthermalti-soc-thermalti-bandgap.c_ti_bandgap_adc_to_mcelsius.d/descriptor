@@ -1,0 +1,3 @@
+struct ti_bandgap_data | adc_start_val int | adc_end_val int | conv_table int * 
+struct ti_bandgap | conf struct ti_bandgap_data * 
+function ti_bandgap_adc_to_mcelsius int | bgp struct ti_bandgap * | adc_val int | t int *

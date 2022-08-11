@@ -1,0 +1,2 @@
+struct macvlan_port | flags int 
+function macvlan_addr_change int | port const struct macvlan_port *

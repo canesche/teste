@@ -1,2 +1,0 @@
-struct pll_value | POD unsigned int | OD unsigned int | M unsigned int | N unsigned int 
-function sm750_format_pll_reg unsigned int | pPLL struct pll_value *

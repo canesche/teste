@@ -1,2 +1,0 @@
-struct TYPE_3__ | depth int 
-function sdb_foreach_end int | s struct TYPE_3__ * | result int

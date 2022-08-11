@@ -1,0 +1,2 @@
+struct TYPE_3__ | wrapping_value int * 
+function json_array_get_wrapping_value int * | array const struct TYPE_3__ *

@@ -1,0 +1,3 @@
+struct dc_link | dummy int 
+struct dc | links struct dc_link ** 
+function dc_get_link_at_index struct dc_link * | dc struct dc * | link_index unsigned long

@@ -1,0 +1,3 @@
+struct m_group_data | dummy int 
+struct m_config_data | group_index int | num_gdata int | gdata struct m_group_data * 
+function m_config_gdata struct m_group_data * | data struct m_config_data * | group_index int

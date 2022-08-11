@@ -1,0 +1,6 @@
+struct TYPE_7__ | funcs int * 
+struct TYPE_6__ | funcs int * 
+struct TYPE_5__ | funcs int * | num_types int 
+struct TYPE_8__ | illegal_inst_irq struct TYPE_7__ | trap_irq_1 struct TYPE_6__ | trap_irq struct TYPE_5__ 
+struct amdgpu_device | sdma struct TYPE_8__ 
+function si_dma_set_irq_funcs void | adev struct amdgpu_device *

@@ -1,0 +1,4 @@
+struct n2_request_context | dummy int 
+struct TYPE_2__ | reqsize int 
+struct crypto_tfm | crt_ablkcipher struct TYPE_2__ 
+function n2_cipher_cra_init int | tfm struct crypto_tfm *

@@ -1,0 +1,3 @@
+struct nvkm_disp_oclass | dummy int 
+struct nvkm_disp | dummy int 
+function nv04_disp_root const struct nvkm_disp_oclass * | disp struct nvkm_disp *

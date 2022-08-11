@@ -1,0 +1,3 @@
+struct U2 | dummy int 
+struct U0 | dummy int 
+function func_33 int | p_34 union U2 * | p_35 int | p_36 union U0 | p_37 int | p_38 union U2 *

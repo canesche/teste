@@ -1,0 +1,3 @@
+struct TYPE_2__ | no_addr long | no_formal_ino long 
+struct gfs2_dirent | de_inum struct TYPE_2__ 
+function gfs2_dirent_sentinel int | dent const struct gfs2_dirent *

@@ -1,0 +1,2 @@
+struct cxl_context | master int 
+function cxl_set_master void | ctx struct cxl_context *

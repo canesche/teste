@@ -1,0 +1,2 @@
+struct mlxsw_sp | dummy int 
+function mlxsw_sp_mp_hash_init int | mlxsw_sp struct mlxsw_sp *

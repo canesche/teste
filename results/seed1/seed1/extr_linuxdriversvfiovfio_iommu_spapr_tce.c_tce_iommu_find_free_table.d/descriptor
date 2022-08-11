@@ -1,0 +1,2 @@
+struct tce_container | tables int * 
+function tce_iommu_find_free_table int | container struct tce_container *

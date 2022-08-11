@@ -1,2 +1,0 @@
-struct timeval | tv_sec long | tv_usec long 
-function tv_leq int | a const struct timeval * | b const struct timeval *

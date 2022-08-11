@@ -1,0 +1,3 @@
+struct TYPE_5__ | vals int * 
+struct TYPE_6__ | strategy int | targetLength int | minMatch int | searchLog int | hashLog int | chainLog int | windowLog int 
+function cParamsToPVals struct TYPE_5__ | c struct TYPE_6__

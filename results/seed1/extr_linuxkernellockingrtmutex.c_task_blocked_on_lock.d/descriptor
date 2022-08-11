@@ -1,4 +1,0 @@
-struct task_struct | pi_blocked_on struct TYPE_2__ * 
-struct rt_mutex | dummy int 
-struct TYPE_2__ | lock struct rt_mutex * 
-function task_blocked_on_lock struct rt_mutex * | p struct task_struct *

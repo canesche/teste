@@ -1,0 +1,3 @@
+struct nforce2_smbus | blockops long 
+struct i2c_adapter | algo_data long 
+function nforce2_func int | adapter struct i2c_adapter *

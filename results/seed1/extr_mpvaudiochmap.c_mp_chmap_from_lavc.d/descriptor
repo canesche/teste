@@ -1,2 +1,0 @@
-struct mp_chmap | num unsigned long | speaker int * 
-function mp_chmap_from_lavc void | dst struct mp_chmap * | src unsigned long long

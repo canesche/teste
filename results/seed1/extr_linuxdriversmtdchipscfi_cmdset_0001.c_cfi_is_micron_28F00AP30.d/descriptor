@@ -1,3 +1,0 @@
-struct flchip | dummy int 
-struct cfi_private | mfr long | id long 
-function cfi_is_micron_28F00AP30 int | cfi struct cfi_private * | chip struct flchip *

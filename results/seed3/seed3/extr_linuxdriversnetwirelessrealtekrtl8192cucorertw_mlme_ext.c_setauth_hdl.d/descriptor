@@ -1,0 +1,5 @@
+struct setauth_parm | mode int 
+struct mlme_ext_info | auth_algo int 
+struct mlme_ext_priv | mlmext_info struct mlme_ext_info 
+struct TYPE_3__ | mlmeextpriv struct mlme_ext_priv 
+function setauth_hdl int | padapter struct TYPE_3__ * | pbuf unsigned char *

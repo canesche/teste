@@ -1,0 +1,4 @@
+struct fimc_is | sensor struct TYPE_4__ * 
+struct TYPE_4__ | drvdata struct TYPE_3__ * 
+struct TYPE_3__ | id int 
+function fimc_is_hw_get_sensor_max_framerate int | is struct fimc_is *

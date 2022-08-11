@@ -1,3 +1,0 @@
-struct ath6kl_mbox_info | gmbox_sz int | gmbox_addr int | block_size int | htc_ext_sz int | htc_ext_addr int | htc_addr int 
-struct ath6kl | mbox_info struct ath6kl_mbox_info 
-function ath6kl_sdio_set_mbox_info void | ar struct ath6kl *

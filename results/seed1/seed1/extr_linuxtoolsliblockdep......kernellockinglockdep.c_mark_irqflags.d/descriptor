@@ -1,0 +1,3 @@
+struct task_struct | dummy int 
+struct held_lock | dummy int 
+function mark_irqflags int | curr struct task_struct * | hlock struct held_lock *

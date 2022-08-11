@@ -1,0 +1,4 @@
+struct TYPE_2__ | request_type int | cdb int * 
+struct ipr_ioarcb | cmd_pkt struct TYPE_2__ | res_handle int 
+struct ipr_cmnd | ioarcb struct ipr_ioarcb 
+function ipr_build_ioa_service_action void | ipr_cmd struct ipr_cmnd * | res_handle int | sa_code int

@@ -1,3 +1,0 @@
-struct drm_encoder | dummy int 
-struct drm_display_mode | flags int 
-function vc4_dpi_encoder_mode_valid enum drm_mode_status | encoder struct drm_encoder * | mode const struct drm_display_mode *

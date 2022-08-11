@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessrealtekrtlwifirtl8723bephy.c__rtl8723be_get_rate_section_index.d/extr_linuxdriversnetwirelessrealtekrtlwifirtl8723bephy.c__rtl8723be_get_rate_section_index_O0::_rtl8723be_get_rate_section_index(77)"
+  }
+]

@@ -1,0 +1,2 @@
+struct rblist | nr_entries long | entries int 
+function rblist__init void | rblist struct rblist *

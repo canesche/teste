@@ -1,0 +1,2 @@
+struct TYPE_2__ | size long | priority long | dir_id long 
+function cmp_storage_binlog_file int | x const void * | y const void *

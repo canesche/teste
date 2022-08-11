@@ -1,0 +1,2 @@
+struct TYPE_3__ | SDIO_Argument int | SDIO_CmdIndex int | SDIO_CPSM int | SDIO_Wait int | SDIO_Response int 
+function SDIO_CmdStructInit void | SDIO_CmdInitStruct struct TYPE_3__ *

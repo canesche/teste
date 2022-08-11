@@ -1,0 +1,4 @@
+struct inode | dummy int 
+struct f2fs_dentry_ptr | filename int | dentry int | bitmap int | nr_bitmap int | max int | inode struct inode * 
+struct f2fs_dentry_block | filename int | dentry int | dentry_bitmap int 
+function make_dentry_ptr_block void | inode struct inode * | d struct f2fs_dentry_ptr * | t struct f2fs_dentry_block *

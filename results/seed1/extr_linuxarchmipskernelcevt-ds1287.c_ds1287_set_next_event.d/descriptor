@@ -1,2 +1,0 @@
-struct clock_event_device | dummy int 
-function ds1287_set_next_event int | delta unsigned long | evt struct clock_event_device *

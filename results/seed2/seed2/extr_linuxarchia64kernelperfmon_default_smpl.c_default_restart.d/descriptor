@@ -1,0 +1,6 @@
+struct task_struct | dummy int 
+struct pt_regs | dummy int 
+struct TYPE_5__ | reset_ovfl_pmds int | mask_monitoring long 
+struct TYPE_6__ | bits struct TYPE_5__ 
+struct TYPE_7__ | hdr_count unsigned long | hdr_cur_offs int 
+function default_restart int | task struct task_struct * | ctrl struct TYPE_6__ * | buf void * | regs struct pt_regs *

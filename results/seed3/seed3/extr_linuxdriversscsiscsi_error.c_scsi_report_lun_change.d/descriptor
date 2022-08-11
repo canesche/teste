@@ -1,0 +1,3 @@
+struct scsi_device | sdev_target struct TYPE_2__ * 
+struct TYPE_2__ | expecting_lun_change int 
+function scsi_report_lun_change void | sdev struct scsi_device *

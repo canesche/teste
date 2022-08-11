@@ -1,3 +1,0 @@
-struct TYPE_4__ | phase float | frequency float | amplitude float 
-struct TYPE_5__ | shaderTime float 
-function RB_CalcTurbulentFactors void | wf const struct TYPE_4__ * | amplitude float * | now float *

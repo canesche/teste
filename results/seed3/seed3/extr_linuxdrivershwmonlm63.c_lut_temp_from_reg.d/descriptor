@@ -1,0 +1,2 @@
+struct lm63_data | temp8 int * | lut_temp_highres long 
+function lut_temp_from_reg int | data struct lm63_data * | nr int

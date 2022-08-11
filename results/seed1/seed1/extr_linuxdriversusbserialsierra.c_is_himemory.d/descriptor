@@ -1,0 +1,2 @@
+struct sierra_iface_info | ifaceinfo long * | infolen int 
+function is_himemory int | ifnum const long | himemorylist const struct sierra_iface_info *

@@ -1,0 +1,1 @@
+function xor8_buf int | buf void * | offset unsigned long | len int

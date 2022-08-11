@@ -1,0 +1,2 @@
+struct TYPE_3__ | modifiers unsigned int 
+function zbar_decoder_get_modifiers unsigned int | dcode const struct TYPE_3__ *

@@ -1,0 +1,9 @@
+struct xmit_priv | tx_bytes int 
+struct TYPE_6__ | psta struct sta_info * 
+struct xmit_frame | frame_tag int | attrib struct TYPE_6__ 
+struct stainfo_stats | tx_bytes int | tx_pkts int 
+struct sta_info | sta_stats struct stainfo_stats 
+struct TYPE_5__ | NumTxOkInPeriod int 
+struct mlme_priv | LinkDetectInfo struct TYPE_5__ 
+struct TYPE_7__ | mlmepriv struct mlme_priv | xmitpriv struct xmit_priv 
+function rtw_count_tx_stats void | padapter struct TYPE_7__ * | pxmitframe struct xmit_frame * | sz int

@@ -1,0 +1,1 @@
+function __is_kernel_percpu_address int | addr unsigned long | can_addr unsigned long *

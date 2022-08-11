@@ -1,0 +1,2 @@
+struct process | dummy int 
+function macho_read_wine_loader_dbg_info int | pcs struct process *

@@ -1,0 +1,3 @@
+struct pvrdma_qp_cap | max_inline_data int | max_recv_sge int | max_send_sge int | max_recv_wr int | max_send_wr int 
+struct ib_qp_cap | max_inline_data int | max_recv_sge int | max_send_sge int | max_recv_wr int | max_send_wr int 
+function pvrdma_qp_cap_to_ib void | dst struct ib_qp_cap * | src const struct pvrdma_qp_cap *

@@ -1,0 +1,5 @@
+struct nf_nat_range2 | dummy int 
+struct nf_nat_l3proto | dummy int 
+struct nf_conntrack_tuple | dummy int 
+struct nf_conn | dummy int 
+function unknown_unique_tuple void | l3proto const struct nf_nat_l3proto * | tuple struct nf_conntrack_tuple * | range const struct nf_nat_range2 * | maniptype enum nf_nat_manip_type | ct const struct nf_conn *

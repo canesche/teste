@@ -1,0 +1,2 @@
+struct gb_operation | flags int 
+function gb_operation_is_incoming int | operation struct gb_operation *

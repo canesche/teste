@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_darwin-xnubsddevdtracedtrace.c_dtrace_aggregate_max.d/extr_darwin-xnubsddevdtracedtrace.c_dtrace_aggregate_max_O0::dtrace_aggregate_max(63)"
+  }
+]

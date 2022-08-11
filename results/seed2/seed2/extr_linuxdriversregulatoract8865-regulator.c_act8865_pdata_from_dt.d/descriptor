@@ -1,0 +1,3 @@
+struct device | dummy int 
+struct act8865_platform_data | dummy int 
+function act8865_pdata_from_dt int | dev struct device * | pdata struct act8865_platform_data * | type unsigned long

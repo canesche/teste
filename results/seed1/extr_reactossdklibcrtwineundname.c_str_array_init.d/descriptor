@@ -1,2 +1,0 @@
-struct array | elts int * | alloc long | max long | num long | start long 
-function str_array_init void | a struct array *

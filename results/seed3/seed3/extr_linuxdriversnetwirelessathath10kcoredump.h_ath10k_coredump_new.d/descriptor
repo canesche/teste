@@ -1,0 +1,3 @@
+struct ath10k_fw_crash_data | dummy int 
+struct ath10k | dummy int 
+function ath10k_coredump_new struct ath10k_fw_crash_data * | ar struct ath10k *

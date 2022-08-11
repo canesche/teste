@@ -1,3 +1,0 @@
-struct ethtool_wolinfo | dummy int 
-struct efx_nic | dummy int 
-function efx_ef10_get_wol_vf void | efx struct efx_nic * | wol struct ethtool_wolinfo *

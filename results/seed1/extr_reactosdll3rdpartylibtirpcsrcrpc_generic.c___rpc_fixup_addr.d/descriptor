@@ -1,2 +1,0 @@
-struct netbuf | dummy int 
-function __rpc_fixup_addr int | new struct netbuf * | svc const struct netbuf *

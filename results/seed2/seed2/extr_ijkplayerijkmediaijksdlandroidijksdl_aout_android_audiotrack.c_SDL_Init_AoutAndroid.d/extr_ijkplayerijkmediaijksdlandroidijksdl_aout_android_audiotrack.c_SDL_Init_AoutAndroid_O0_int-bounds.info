@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_ijkplayerijkmediaijksdlandroidijksdl_aout_android_audiotrack.c_SDL_Init_AoutAndroid.d/extr_ijkplayerijkmediaijksdlandroidijksdl_aout_android_audiotrack.c_SDL_Init_AoutAndroid_O0::SDL_Init_AoutAndroid(61)"
+  }
+]

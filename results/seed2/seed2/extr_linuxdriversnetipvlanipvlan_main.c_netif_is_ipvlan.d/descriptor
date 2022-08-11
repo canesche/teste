@@ -1,0 +1,2 @@
+struct net_device | netdev_ops int * 
+function netif_is_ipvlan int | dev const struct net_device *

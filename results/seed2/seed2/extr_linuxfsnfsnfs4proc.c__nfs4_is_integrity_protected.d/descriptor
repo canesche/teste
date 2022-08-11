@@ -1,0 +1,4 @@
+struct nfs_client | cl_rpcclient struct TYPE_4__ * 
+struct TYPE_4__ | cl_auth struct TYPE_3__ * 
+struct TYPE_3__ | au_flavor long 
+function _nfs4_is_integrity_protected int | clp struct nfs_client *

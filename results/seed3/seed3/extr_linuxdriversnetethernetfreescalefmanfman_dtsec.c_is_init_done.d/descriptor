@@ -1,0 +1,2 @@
+struct dtsec_cfg | dummy int 
+function is_init_done int | dtsec_drv_params struct dtsec_cfg *

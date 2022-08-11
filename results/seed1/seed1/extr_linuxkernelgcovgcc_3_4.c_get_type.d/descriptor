@@ -1,0 +1,3 @@
+struct type_info | dummy int 
+struct gcov_iterator | type unsigned long | type_info struct type_info * 
+function get_type struct type_info * | iter struct gcov_iterator *

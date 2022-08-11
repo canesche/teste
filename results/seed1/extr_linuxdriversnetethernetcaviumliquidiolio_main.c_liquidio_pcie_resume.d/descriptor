@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function liquidio_pcie_resume void | pdev struct pci_dev *

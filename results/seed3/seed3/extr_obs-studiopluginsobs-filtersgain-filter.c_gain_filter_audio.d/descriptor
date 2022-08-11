@@ -1,0 +1,3 @@
+struct obs_audio_data | frames unsigned long | data long * 
+struct gain_data | channels unsigned long | multiple float 
+function gain_filter_audio struct obs_audio_data * | data void * | audio struct obs_audio_data *

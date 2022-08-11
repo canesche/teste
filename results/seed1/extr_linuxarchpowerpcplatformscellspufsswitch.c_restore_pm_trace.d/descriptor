@@ -1,3 +1,0 @@
-struct spu_state | dummy int 
-struct spu | dummy int 
-function restore_pm_trace void | csa struct spu_state * | spu struct spu *

@@ -1,0 +1,2 @@
+struct hdmi_core_data | dummy int 
+function hdmi4_cec_set_phys_addr void | core struct hdmi_core_data * | pa int

@@ -1,0 +1,4 @@
+struct thermal_zone_device | devdata struct mlxsw_thermal * 
+struct mlxsw_thermal | trips struct TYPE_2__ * 
+struct TYPE_2__ | type int 
+function mlxsw_thermal_get_trip_type int | tzdev struct thermal_zone_device * | trip int | p_type enum thermal_trip_type *

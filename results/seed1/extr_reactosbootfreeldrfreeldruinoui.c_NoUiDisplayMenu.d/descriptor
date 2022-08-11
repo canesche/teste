@@ -1,1 +1,0 @@
-function NoUiDisplayMenu int | MenuHeader int | MenuFooter int | ShowBootOptions int | MenuItemList int [] | MenuItemCount int | DefaultMenuItem int | MenuTimeOut int | SelectedMenuItem int * | CanEscape int | KeyPressFilter int

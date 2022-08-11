@@ -1,0 +1,3 @@
+struct TYPE_4__ | num long 
+struct TYPE_5__ | params struct TYPE_4__ 
+function gs_shader_get_num_params int | shader const struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct fb_info | pseudo_palette long 
+function fm2fb_setcolreg int | regno int | red int | green int | blue int | transp int | info struct fb_info *

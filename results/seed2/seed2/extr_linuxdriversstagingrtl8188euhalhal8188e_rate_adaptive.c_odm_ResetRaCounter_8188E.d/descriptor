@@ -1,0 +1,2 @@
+struct odm_ra_info | DecisionRate unsigned long | NscUp int | NscDown int 
+function odm_ResetRaCounter_8188E void | pRaInfo struct odm_ra_info *

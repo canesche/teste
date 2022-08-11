@@ -1,0 +1,3 @@
+struct TYPE_2__ | sysctl_udp_wmem_min void * | sysctl_udp_rmem_min void * 
+struct net | ipv4 struct TYPE_2__ 
+function __udp_sysctl_init void | net struct net *

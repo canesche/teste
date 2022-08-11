@@ -1,2 +1,0 @@
-struct uart_port | dummy int 
-function sunzilog_release_port void | port struct uart_port *

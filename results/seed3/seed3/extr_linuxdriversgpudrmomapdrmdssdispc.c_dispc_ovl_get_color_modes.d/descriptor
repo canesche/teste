@@ -1,0 +1,3 @@
+struct dispc_device | feat struct TYPE_2__ * 
+struct TYPE_2__ | supported_color_modes const int ** 
+function dispc_ovl_get_color_modes const int * | dispc struct dispc_device * | plane enum omap_plane_id

@@ -1,0 +1,5 @@
+struct TYPE_6__ | quantum long | memory_limit long | limit long 
+struct TYPE_5__ | wiphy struct TYPE_4__ * 
+struct ieee80211_local | fq struct TYPE_6__ | hw struct TYPE_5__ 
+struct TYPE_4__ | txq_quantum long | txq_memory_limit long | txq_limit long 
+function ieee80211_txq_set_params void | local struct ieee80211_local *

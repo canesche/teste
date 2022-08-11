@@ -1,0 +1,3 @@
+struct TYPE_4__ | elem_size int 
+struct TYPE_5__ | opt struct TYPE_4__ 
+function next_kv int * | ht struct TYPE_5__ * | kv int *

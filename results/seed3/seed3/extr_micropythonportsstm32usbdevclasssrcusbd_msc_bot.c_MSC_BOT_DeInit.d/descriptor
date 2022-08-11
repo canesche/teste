@@ -1,0 +1,4 @@
+struct TYPE_6__ | bot_state int 
+struct TYPE_5__ | MSC_BOT_ClassData struct TYPE_6__ 
+struct TYPE_7__ | pClassData long 
+function MSC_BOT_DeInit void | pdev struct TYPE_7__ *

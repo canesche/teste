@@ -1,0 +1,2 @@
+struct net | dummy int 
+function recent_proc_net_exit void | net struct net *

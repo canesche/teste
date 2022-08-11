@@ -1,0 +1,2 @@
+struct TYPE_4__ | table int * | trans int * 
+function build_fixed_trees void | lt struct TYPE_4__ * | dt struct TYPE_4__ *

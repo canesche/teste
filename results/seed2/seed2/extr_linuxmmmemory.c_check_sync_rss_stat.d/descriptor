@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function check_sync_rss_stat void | task struct task_struct *

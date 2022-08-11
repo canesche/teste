@@ -1,0 +1,2 @@
+struct cnic_dev | dummy int 
+function cnic_cm_stop_bnx2_hw void | dev struct cnic_dev *

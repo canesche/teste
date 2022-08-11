@@ -1,0 +1,3 @@
+struct soc_tplg | dummy int 
+struct snd_soc_tplg_channel | id int | shift int 
+function tplc_chan_get_shift int | tplg struct soc_tplg * | chan struct snd_soc_tplg_channel * | map int

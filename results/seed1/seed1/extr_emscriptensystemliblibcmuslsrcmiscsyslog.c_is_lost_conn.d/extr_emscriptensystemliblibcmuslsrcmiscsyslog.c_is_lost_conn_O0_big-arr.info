@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_emscriptensystemliblibcmuslsrcmiscsyslog.c_is_lost_conn.d/extr_emscriptensystemliblibcmuslsrcmiscsyslog.c_is_lost_conn_O0::is_lost_conn(64)"
+  }
+]

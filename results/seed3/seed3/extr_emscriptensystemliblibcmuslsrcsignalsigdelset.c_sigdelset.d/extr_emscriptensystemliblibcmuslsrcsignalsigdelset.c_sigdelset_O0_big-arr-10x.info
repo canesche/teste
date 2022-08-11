@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4006a0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_emscriptensystemliblibcmuslsrcsignalsigdelset.c_sigdelset.d/extr_emscriptensystemliblibcmuslsrcsignalsigdelset.c_sigdelset_O0::sigdelset(66)"
+  }
+]

@@ -1,0 +1,1 @@
+function make_decode_table int | nsyms int | nbits int | length int * | table int *

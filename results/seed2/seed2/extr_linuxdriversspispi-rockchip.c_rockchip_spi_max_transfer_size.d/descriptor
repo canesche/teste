@@ -1,0 +1,2 @@
+struct spi_device | dummy int 
+function rockchip_spi_max_transfer_size unsigned long | spi struct spi_device *

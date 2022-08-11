@@ -1,2 +1,0 @@
-struct dispc_device | dummy int 
-function dispc_wb_get_framedone_irq int | dispc struct dispc_device *

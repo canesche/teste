@@ -1,0 +1,2 @@
+struct vnop_pathconf_args | a_name int | a_retval int * 
+function devs_vnop_pathconf int | ap struct vnop_pathconf_args *

@@ -1,0 +1,3 @@
+struct scatterlist | dummy int 
+struct pci_dev | dummy int 
+function ccio_unmap_sg void | dev struct pci_dev * | sglist struct scatterlist * | nents int | direction int

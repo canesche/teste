@@ -1,0 +1,5 @@
+struct TYPE_4__ | log_rq_mtu_frames int | log_sq_size int 
+struct TYPE_3__ | params struct TYPE_4__ 
+struct mlx5e_priv | channels struct TYPE_3__ 
+struct ethtool_ringparam | rx_max_pending int | tx_max_pending int | rx_pending int | tx_pending int 
+function mlx5e_ethtool_get_ringparam void | priv struct mlx5e_priv * | param struct ethtool_ringparam *

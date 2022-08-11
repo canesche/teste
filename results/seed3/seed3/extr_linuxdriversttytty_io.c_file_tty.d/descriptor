@@ -1,0 +1,4 @@
+struct tty_struct | dummy int 
+struct tty_file_private | tty struct tty_struct * 
+struct file | private_data long 
+function file_tty struct tty_struct * | file struct file *

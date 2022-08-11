@@ -1,0 +1,6 @@
+struct TYPE_5__ | first unsigned int | last unsigned int 
+struct TYPE_4__ | first unsigned int | last unsigned int 
+struct Source | port struct TYPE_5__ | ip struct TYPE_4__ 
+struct Masscan | nic struct TYPE_6__ * 
+struct TYPE_6__ | src struct Source 
+function get_sources void | masscan const struct Masscan * | nic_index unsigned int | src_ip unsigned int * | src_ip_mask unsigned int * | src_port unsigned int * | src_port_mask unsigned int *

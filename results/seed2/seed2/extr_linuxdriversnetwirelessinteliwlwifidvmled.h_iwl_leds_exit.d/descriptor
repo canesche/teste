@@ -1,0 +1,2 @@
+struct iwl_priv | dummy int 
+function iwl_leds_exit void | priv struct iwl_priv *

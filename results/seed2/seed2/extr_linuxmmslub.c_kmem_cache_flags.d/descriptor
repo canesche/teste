@@ -1,0 +1,1 @@
+function kmem_cache_flags int | object_size unsigned int | flags int | name const char * | ctor void (*)(void *)

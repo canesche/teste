@@ -1,0 +1,4 @@
+struct zone_entry | l2p_table unsigned long * 
+struct xd_info | zone struct zone_entry * 
+struct rtsx_chip | xd_card struct xd_info 
+function xd_set_l2p_tbl void | chip struct rtsx_chip * | zone_no int | log_off unsigned long | phy_off unsigned long

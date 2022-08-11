@@ -1,0 +1,3 @@
+struct clk | core struct TYPE_2__ * 
+struct TYPE_2__ | enable_count unsigned int 
+function __clk_get_enable_count unsigned int | clk struct clk *

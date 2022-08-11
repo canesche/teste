@@ -1,0 +1,2 @@
+struct device | dummy int 
+function vpfe_resume int | dev struct device *

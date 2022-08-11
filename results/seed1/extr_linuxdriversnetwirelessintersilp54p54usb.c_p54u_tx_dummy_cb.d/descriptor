@@ -1,2 +1,0 @@
-struct urb | dummy int 
-function p54u_tx_dummy_cb void | urb struct urb *

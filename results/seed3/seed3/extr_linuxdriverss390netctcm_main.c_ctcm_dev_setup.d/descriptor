@@ -1,0 +1,2 @@
+struct net_device | tx_queue_len int | flags int | min_mtu int | max_mtu int | type int 
+function ctcm_dev_setup void | dev struct net_device *

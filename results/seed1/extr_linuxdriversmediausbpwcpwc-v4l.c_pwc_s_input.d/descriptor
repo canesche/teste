@@ -1,2 +1,0 @@
-struct file | dummy int 
-function pwc_s_input int | file struct file * | fh void * | i unsigned int

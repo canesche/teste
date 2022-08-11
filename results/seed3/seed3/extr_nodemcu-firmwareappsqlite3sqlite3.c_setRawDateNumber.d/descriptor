@@ -1,0 +1,2 @@
+struct TYPE_3__ | s double | rawS int | validJD int | iJD long 
+function setRawDateNumber void | p struct TYPE_3__ * | r double

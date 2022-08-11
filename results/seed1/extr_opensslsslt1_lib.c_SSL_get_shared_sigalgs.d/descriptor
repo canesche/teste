@@ -1,4 +1,0 @@
-struct TYPE_7__ | hash int | sig int | sigandhash int | sigalg int 
-struct TYPE_6__ | cert struct TYPE_5__ * 
-struct TYPE_5__ | shared_sigalgslen long | shared_sigalgs struct TYPE_7__ ** 
-function SSL_get_shared_sigalgs int | s struct TYPE_6__ * | idx int | psign int * | phash int * | psignhash int * | rsig unsigned char * | rhash unsigned char *

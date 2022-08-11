@@ -1,4 +1,0 @@
-struct iwl_tt_restriction | tx_stream int 
-struct iwl_tt_mgmt | state int | restriction struct iwl_tt_restriction * | advanced_tt int 
-struct iwl_priv | thermal_throttle struct iwl_tt_mgmt 
-function iwl_tx_ant_restriction enum iwl_antenna_ok | priv struct iwl_priv *

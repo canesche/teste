@@ -1,0 +1,2 @@
+struct page_stat | order long 
+function page_order_cmp int | a void * | b void *

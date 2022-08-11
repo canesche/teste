@@ -1,0 +1,2 @@
+struct graph_symbol | continued_up int | continued_right int | continued_down int 
+function graph_symbol_forks int | symbol const struct graph_symbol *

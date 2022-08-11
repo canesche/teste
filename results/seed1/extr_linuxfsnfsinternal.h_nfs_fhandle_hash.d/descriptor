@@ -1,2 +1,0 @@
-struct nfs_fh | dummy int 
-function nfs_fhandle_hash int | fh const struct nfs_fh *

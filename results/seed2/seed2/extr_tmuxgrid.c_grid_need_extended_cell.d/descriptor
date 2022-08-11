@@ -1,0 +1,4 @@
+struct grid_cell_entry | flags int 
+struct TYPE_2__ | size int | width int 
+struct grid_cell | attr int | fg int | bg int | data struct TYPE_2__ 
+function grid_need_extended_cell int | gce const struct grid_cell_entry * | gc const struct grid_cell *

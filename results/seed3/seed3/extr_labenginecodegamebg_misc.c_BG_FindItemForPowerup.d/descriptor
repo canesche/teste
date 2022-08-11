@@ -1,0 +1,2 @@
+struct TYPE_4__ | giType long | giTag long 
+function BG_FindItemForPowerup struct TYPE_4__ * | pw long

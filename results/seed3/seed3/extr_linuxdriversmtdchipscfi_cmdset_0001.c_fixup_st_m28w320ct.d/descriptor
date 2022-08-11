@@ -1,0 +1,5 @@
+struct mtd_info | priv struct map_info * 
+struct map_info | fldrv_priv struct cfi_private * 
+struct cfi_private | cfiq struct TYPE_2__ * 
+struct TYPE_2__ | BufWriteTimeoutMax long | BufWriteTimeoutTyp long 
+function fixup_st_m28w320ct void | mtd struct mtd_info *

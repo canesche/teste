@@ -1,0 +1,4 @@
+struct TYPE_6__ | entry struct TYPE_5__ * 
+struct TYPE_7__ | picture_number unsigned long | b_code int | f_code int | rc_context struct TYPE_6__ 
+struct TYPE_5__ | b_code int | f_code int 
+function ff_get_2pass_fcode void | s struct TYPE_7__ *

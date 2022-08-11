@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 22,
+    static: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactosdriversfilesystemsbtrfszstdzstd_compress.c_ZSTD_isUpdateAuthorized.d/extr_reactosdriversfilesystemsbtrfszstdzstd_compress.c_ZSTD_isUpdateAuthorized_O0::ZSTD_isUpdateAuthorized(83)"
+  }
+]

@@ -1,3 +1,0 @@
-struct TYPE_4__ | op1_def int | op2_def int | result_def int 
-struct TYPE_5__ | ops struct TYPE_4__ * 
-function is_defined_by_op int | ssa struct TYPE_5__ * | op int | check int

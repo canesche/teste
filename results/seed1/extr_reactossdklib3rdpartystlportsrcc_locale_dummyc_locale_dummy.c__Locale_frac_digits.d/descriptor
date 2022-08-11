@@ -1,2 +1,0 @@
-struct _Locale_monetary | dummy int 
-function _Locale_frac_digits char | lmon struct _Locale_monetary *

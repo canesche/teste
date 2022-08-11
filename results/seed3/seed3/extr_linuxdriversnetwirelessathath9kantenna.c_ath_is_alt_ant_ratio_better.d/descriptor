@@ -1,0 +1,2 @@
+struct ath_ant_comb | ant_ratio2 int | low_rssi_thresh int 
+function ath_is_alt_ant_ratio_better int | antcomb struct ath_ant_comb * | alt_ratio int | maxdelta int | mindelta int | main_rssi_avg int | alt_rssi_avg int | pkt_count int

@@ -1,0 +1,4 @@
+struct TYPE_2__ | info int 
+struct snd_pcm_runtime | hw struct TYPE_2__ 
+struct snd_pcm_audio_tstamp_config | type_requested long 
+function is_link_time_supported int | runtime struct snd_pcm_runtime * | ts struct snd_pcm_audio_tstamp_config *

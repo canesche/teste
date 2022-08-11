@@ -1,0 +1,2 @@
+struct ad5398_chip_info | max_uA unsigned int | min_uA unsigned int | current_level unsigned int 
+function ad5398_calc_current int | chip struct ad5398_chip_info * | selector unsigned int

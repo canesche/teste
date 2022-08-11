@@ -1,0 +1,2 @@
+struct oom_control | memcg int * 
+function is_memcg_oom int | oc struct oom_control *

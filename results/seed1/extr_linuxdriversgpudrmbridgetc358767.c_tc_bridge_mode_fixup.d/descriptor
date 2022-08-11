@@ -1,3 +1,0 @@
-struct drm_display_mode | flags int 
-struct drm_bridge | dummy int 
-function tc_bridge_mode_fixup int | bridge struct drm_bridge * | mode const struct drm_display_mode * | adj struct drm_display_mode *

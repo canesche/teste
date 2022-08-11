@@ -1,0 +1,2 @@
+struct svc_serv | dummy int 
+function __svc_init_bc void | serv struct svc_serv *

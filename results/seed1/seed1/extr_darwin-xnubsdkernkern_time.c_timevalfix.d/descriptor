@@ -1,0 +1,2 @@
+struct timeval | tv_usec int | tv_sec int 
+function timevalfix void | t1 struct timeval *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | end int | size int | start int | data void ** 
+function rb_write void * | b struct TYPE_3__ * | p void *

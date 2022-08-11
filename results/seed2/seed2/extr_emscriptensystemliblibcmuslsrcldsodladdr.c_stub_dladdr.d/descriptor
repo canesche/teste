@@ -1,0 +1,1 @@
+function stub_dladdr int | addr const void * | info int *

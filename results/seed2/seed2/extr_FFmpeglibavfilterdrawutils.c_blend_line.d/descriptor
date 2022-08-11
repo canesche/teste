@@ -1,0 +1,1 @@
+function blend_line void | dst int * | src unsigned int | alpha unsigned int | dx int | w int | hsub unsigned int | left int | right int

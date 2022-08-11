@@ -1,3 +1,0 @@
-struct TYPE_7__ | handle_notifications void (*)(struct TYPE_6__ *, void *, void *) | notification_context void * 
-struct TYPE_6__ | ptr long 
-function BIO_dgram_sctp_notification_cb int | b struct TYPE_6__ * | handle_notifications void (*)(struct TYPE_6__ *, void *, void *) | context void *

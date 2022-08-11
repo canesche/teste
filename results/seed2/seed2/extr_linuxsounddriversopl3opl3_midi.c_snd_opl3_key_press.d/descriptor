@@ -1,0 +1,2 @@
+struct snd_midi_channel | dummy int 
+function snd_opl3_key_press void | p void * | note int | vel int | chan struct snd_midi_channel *

@@ -1,0 +1,3 @@
+struct spu_state | spu_chnlcnt_RW long * | spu_chnldata_RW long * 
+struct spu | dummy int 
+function set_llr_event void | csa struct spu_state * | spu struct spu *

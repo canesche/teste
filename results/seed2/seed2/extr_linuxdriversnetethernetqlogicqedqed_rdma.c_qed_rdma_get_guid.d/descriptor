@@ -1,0 +1,3 @@
+struct TYPE_2__ | hw_mac_addr int * 
+struct qed_hwfn | hw_info struct TYPE_2__ 
+function qed_rdma_get_guid void | p_hwfn struct qed_hwfn * | guid int *

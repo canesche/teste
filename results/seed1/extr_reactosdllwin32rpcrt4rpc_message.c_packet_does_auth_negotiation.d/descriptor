@@ -1,3 +1,0 @@
-struct TYPE_4__ | ptype int 
-struct TYPE_5__ | common struct TYPE_4__ 
-function packet_does_auth_negotiation int | Header const struct TYPE_5__ *

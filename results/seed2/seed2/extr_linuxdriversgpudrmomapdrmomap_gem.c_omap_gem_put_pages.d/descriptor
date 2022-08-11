@@ -1,0 +1,2 @@
+struct drm_gem_object | dummy int 
+function omap_gem_put_pages int | obj struct drm_gem_object *

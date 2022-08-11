@@ -1,0 +1,3 @@
+struct TYPE_4__ | ObjPool struct TYPE_3__ * 
+struct TYPE_3__ | NextIndex unsigned long 
+function _SlRemoveFromList void | ListIndex unsigned long * | ItemIndex unsigned long

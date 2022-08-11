@@ -1,0 +1,5 @@
+struct commit_list | item struct TYPE_4__ * | next struct commit_list * 
+struct commit | parents struct commit_list * 
+struct TYPE_3__ | flags int 
+struct TYPE_4__ | object struct TYPE_3__ 
+function has_unshown_parent int | commit struct commit *

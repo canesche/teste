@@ -1,2 +1,0 @@
-struct pfi_kif | dummy int 
-function pfi_kif_match int | rule_kif struct pfi_kif * | packet_kif struct pfi_kif *

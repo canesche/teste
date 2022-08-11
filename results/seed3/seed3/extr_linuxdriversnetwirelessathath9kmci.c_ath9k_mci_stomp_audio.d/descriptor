@@ -1,0 +1,6 @@
+struct ath_mci_profile | num_a2dp int | num_sco int 
+struct ath_btcoex | stomp_audio long | mci struct ath_mci_profile 
+struct ath_softc | btcoex struct ath_btcoex | sc_ah struct ath_hw * 
+struct TYPE_2__ | avgbrssi int 
+struct ath_hw | stats struct TYPE_2__ 
+function ath9k_mci_stomp_audio void | sc struct ath_softc *

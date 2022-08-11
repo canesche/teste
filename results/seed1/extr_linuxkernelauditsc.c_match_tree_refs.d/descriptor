@@ -1,3 +1,0 @@
-struct audit_tree | dummy int 
-struct audit_context | dummy int 
-function match_tree_refs int | ctx struct audit_context * | tree struct audit_tree *

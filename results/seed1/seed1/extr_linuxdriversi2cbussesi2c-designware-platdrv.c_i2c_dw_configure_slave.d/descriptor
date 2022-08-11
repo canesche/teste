@@ -1,0 +1,2 @@
+struct dw_i2c_dev | functionality int | slave_cfg int | mode int 
+function i2c_dw_configure_slave void | dev struct dw_i2c_dev *

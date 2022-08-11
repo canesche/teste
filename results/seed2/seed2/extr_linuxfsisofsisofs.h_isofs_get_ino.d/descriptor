@@ -1,0 +1,1 @@
+function isofs_get_ino unsigned long | block unsigned long | offset unsigned long | bufbits unsigned long

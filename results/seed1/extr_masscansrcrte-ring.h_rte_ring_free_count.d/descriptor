@@ -1,4 +1,0 @@
-struct TYPE_4__ | tail int | mask int 
-struct TYPE_3__ | tail int 
-struct rte_ring | prod struct TYPE_4__ | cons struct TYPE_3__ 
-function rte_ring_free_count unsigned int | r const struct rte_ring *

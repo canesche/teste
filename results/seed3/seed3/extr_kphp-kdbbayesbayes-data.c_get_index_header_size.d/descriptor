@@ -1,0 +1,2 @@
+struct TYPE_3__ | user_cnt int 
+function get_index_header_size long long | header struct TYPE_3__ *

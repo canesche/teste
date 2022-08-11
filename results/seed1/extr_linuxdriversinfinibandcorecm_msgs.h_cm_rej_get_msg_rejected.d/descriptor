@@ -1,2 +1,0 @@
-struct cm_rej_msg | offset8 int 
-function cm_rej_get_msg_rejected int | rej_msg struct cm_rej_msg *

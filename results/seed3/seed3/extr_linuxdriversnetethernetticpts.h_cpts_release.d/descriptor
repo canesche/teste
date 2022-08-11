@@ -1,0 +1,2 @@
+struct cpts | dummy int 
+function cpts_release void | cpts struct cpts *

@@ -1,2 +1,0 @@
-struct xgbe_prv_data | dummy int 
-function xgbe_debugfs_init void | pdata struct xgbe_prv_data *

@@ -1,0 +1,2 @@
+struct omfs_sb_info | s_block_shift int 
+function clus_to_blk int | sbi struct omfs_sb_info * | block int

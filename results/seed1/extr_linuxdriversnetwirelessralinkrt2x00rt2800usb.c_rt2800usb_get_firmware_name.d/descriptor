@@ -1,2 +1,0 @@
-struct rt2x00_dev | dummy int 
-function rt2800usb_get_firmware_name char * | rt2x00dev struct rt2x00_dev *

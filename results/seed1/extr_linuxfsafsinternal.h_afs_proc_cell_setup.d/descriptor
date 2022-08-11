@@ -1,2 +1,0 @@
-struct afs_cell | dummy int 
-function afs_proc_cell_setup int | cell struct afs_cell *

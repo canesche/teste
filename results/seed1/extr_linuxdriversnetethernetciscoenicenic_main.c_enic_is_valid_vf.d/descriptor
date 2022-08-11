@@ -1,2 +1,0 @@
-struct enic | dummy int 
-function enic_is_valid_vf int | enic struct enic * | vf int

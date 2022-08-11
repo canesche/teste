@@ -1,0 +1,2 @@
+struct intel_gvt_gtt_entry | val64 int 
+function gen8_gtt_clear_64k_splited void | e struct intel_gvt_gtt_entry *

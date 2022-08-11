@@ -1,2 +1,0 @@
-struct fb_info | dummy int 
-function XGIfb_release int | info struct fb_info * | user int

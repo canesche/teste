@@ -1,0 +1,1 @@
+function mem_cmp int | dst const void * | src const void * | cnt long

@@ -1,0 +1,3 @@
+struct ath10k_htc_ep | eid int | tx_credit_flow_enabled int | htc struct ath10k_htc * | max_tx_queue_depth long | max_ep_message_len long | service_id int 
+struct ath10k_htc | endpoint struct ath10k_htc_ep * 
+function ath10k_htc_reset_endpoint_states void | htc struct ath10k_htc *

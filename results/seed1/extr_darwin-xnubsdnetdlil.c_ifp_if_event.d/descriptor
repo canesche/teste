@@ -1,3 +1,0 @@
-struct kev_msg | dummy int 
-struct ifnet | dummy int 
-function ifp_if_event void | ifp struct ifnet * | e const struct kev_msg *

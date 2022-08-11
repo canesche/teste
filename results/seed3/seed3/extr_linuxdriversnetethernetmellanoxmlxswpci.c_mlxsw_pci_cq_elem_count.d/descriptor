@@ -1,0 +1,4 @@
+struct TYPE_3__ | v long 
+struct TYPE_4__ | cq struct TYPE_3__ 
+struct mlxsw_pci_queue | u struct TYPE_4__ 
+function mlxsw_pci_cq_elem_count int | q const struct mlxsw_pci_queue *

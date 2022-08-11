@@ -1,0 +1,3 @@
+struct ref_iterator_vtable | dummy int 
+struct ref_iterator | ordered int | flags long | oid int * | refname int * | vtable struct ref_iterator_vtable * 
+function base_ref_iterator_init void | iter struct ref_iterator * | vtable struct ref_iterator_vtable * | ordered int

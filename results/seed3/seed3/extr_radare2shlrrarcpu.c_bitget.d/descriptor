@@ -1,0 +1,2 @@
+struct TYPE_3__ | bits int | out int * 
+function bitget int | bb struct TYPE_3__ * | bit int

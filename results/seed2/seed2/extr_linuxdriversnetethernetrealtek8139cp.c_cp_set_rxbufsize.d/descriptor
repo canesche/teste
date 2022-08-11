@@ -1,0 +1,3 @@
+struct cp_private | rx_buf_sz long | dev struct TYPE_2__ * 
+struct TYPE_2__ | mtu unsigned int 
+function cp_set_rxbufsize void | cp struct cp_private *

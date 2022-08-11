@@ -1,2 +1,0 @@
-struct snd_soc_dai | dummy int 
-function cq93vc_set_dai_sysclk int | codec_dai struct snd_soc_dai * | clk_id int | freq unsigned int | dir int

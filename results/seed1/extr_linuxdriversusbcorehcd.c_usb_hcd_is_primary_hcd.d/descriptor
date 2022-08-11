@@ -1,2 +1,0 @@
-struct usb_hcd | primary_hcd struct usb_hcd * 
-function usb_hcd_is_primary_hcd int | hcd struct usb_hcd *

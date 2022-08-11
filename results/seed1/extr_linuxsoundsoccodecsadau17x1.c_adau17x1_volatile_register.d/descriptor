@@ -1,2 +1,0 @@
-struct device | dummy int 
-function adau17x1_volatile_register int | dev struct device * | reg unsigned int

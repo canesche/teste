@@ -1,0 +1,2 @@
+struct gameport | dummy int 
+function fm801_gp_open int | gameport struct gameport * | mode int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_BGAQRCode-Androidzbarsrcmainjnilibiconv-1.15toolscjk_tab_to_h.c_byte_col_uhc_1.d/extr_BGAQRCode-Androidzbarsrcmainjnilibiconv-1.15toolscjk_tab_to_h.c_byte_col_uhc_1_O0::byte_col_uhc_1(59)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | predecessor_offset int | idom int | loop_header int | level int | children int | next_child int | predecessors_count long | successors_count long | successors_storage int | successors int | flags long 
+function initialize_block void | block struct TYPE_3__ *

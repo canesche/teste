@@ -1,0 +1,4 @@
+struct hda_fixup | dummy int 
+struct hda_codec | spec struct conexant_spec * 
+struct conexant_spec | parse_flags int 
+function cxt_fixup_headset_mic void | codec struct hda_codec * | fix const struct hda_fixup * | action int

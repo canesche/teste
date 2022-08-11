@@ -1,0 +1,1 @@
+function scalarproduct_and_madd_int16_c int | v1 int * | v2 const int * | v3 const int * | order int | mul int

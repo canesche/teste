@@ -1,0 +1,2 @@
+struct pp_hwmgr | dummy int 
+function smu7_reset_asic_tasks int | hwmgr struct pp_hwmgr *

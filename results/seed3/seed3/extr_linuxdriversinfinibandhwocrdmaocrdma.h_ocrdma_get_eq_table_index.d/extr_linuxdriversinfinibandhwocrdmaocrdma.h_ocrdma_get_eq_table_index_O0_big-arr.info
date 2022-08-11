@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversinfinibandhwocrdmaocrdma.h_ocrdma_get_eq_table_index.d/extr_linuxdriversinfinibandhwocrdmaocrdma.h_ocrdma_get_eq_table_index_O0::ocrdma_get_eq_table_index(67)"
+  }
+]

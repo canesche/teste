@@ -1,0 +1,2 @@
+struct TYPE_4__ | MftId long | Next struct TYPE_4__ * 
+function FindInCache struct TYPE_4__ * | MftId long

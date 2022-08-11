@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 182,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverssnioc3.c_crc16_byte.d/extr_linuxdriverssnioc3.c_crc16_byte_O0::crc16_byte(60)"
+  }
+]

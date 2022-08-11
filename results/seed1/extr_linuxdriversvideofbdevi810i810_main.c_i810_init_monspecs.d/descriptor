@@ -1,3 +1,0 @@
-struct TYPE_2__ | vfmax int | vfmin int | hfmin long | hfmax long 
-struct fb_info | monspecs struct TYPE_2__ 
-function i810_init_monspecs void | info struct fb_info *

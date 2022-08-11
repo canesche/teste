@@ -1,0 +1,3 @@
+struct i2c_client | dummy int 
+struct gpio_desc | dummy int 
+function mlx90614_probe_wakeup struct gpio_desc * | client struct i2c_client *

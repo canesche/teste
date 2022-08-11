@@ -1,2 +1,0 @@
-struct ahd_softc | saved_dst_mode void * | saved_src_mode void * | dst_mode void * | src_mode void * 
-function ahd_known_modes void | ahd struct ahd_softc * | src void * | dst void *

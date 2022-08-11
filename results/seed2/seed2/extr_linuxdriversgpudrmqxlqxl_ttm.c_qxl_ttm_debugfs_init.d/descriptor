@@ -1,0 +1,2 @@
+struct qxl_device | dummy int 
+function qxl_ttm_debugfs_init int | qdev struct qxl_device *

@@ -1,0 +1,2 @@
+struct imxdma_engine | devtype long 
+function is_imx27_dma int | imxdma struct imxdma_engine *

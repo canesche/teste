@@ -1,2 +1,0 @@
-struct file | dummy int 
-function cobalt_g_output int | file struct file * | priv_fh void * | i unsigned int *

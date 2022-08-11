@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct ethtool_eeprom | dummy int 
+function igbvf_set_eeprom int | netdev struct net_device * | eeprom struct ethtool_eeprom * | bytes int *

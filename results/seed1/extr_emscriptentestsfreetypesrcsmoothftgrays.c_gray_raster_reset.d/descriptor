@@ -1,2 +1,0 @@
-struct TYPE_2__ | buffer char * | buffer_size long | band_size int | worker int * 
-function gray_raster_reset void | raster long | pool_base char * | pool_size long

@@ -1,0 +1,3 @@
+struct kvm_vcpu | dummy int 
+struct kvm_async_pf | dummy int 
+function kvm_async_page_present_sync void | vcpu struct kvm_vcpu * | work struct kvm_async_pf *

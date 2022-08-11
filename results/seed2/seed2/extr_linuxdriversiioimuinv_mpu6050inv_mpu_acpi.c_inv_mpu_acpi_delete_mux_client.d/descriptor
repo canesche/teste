@@ -1,0 +1,2 @@
+struct i2c_client | dummy int 
+function inv_mpu_acpi_delete_mux_client void | client struct i2c_client *

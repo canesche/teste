@@ -1,2 +1,0 @@
-struct dlm_lkb | lkb_exflags int 
-function force_blocking_asts int | lkb struct dlm_lkb *

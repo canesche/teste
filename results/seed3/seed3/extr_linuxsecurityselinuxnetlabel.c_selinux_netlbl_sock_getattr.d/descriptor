@@ -1,0 +1,5 @@
+struct sock | sk_security struct sk_security_struct * 
+struct sk_security_struct | nlbl_secattr struct netlbl_lsm_secattr * 
+struct TYPE_2__ | secid long 
+struct netlbl_lsm_secattr | flags int | attr struct TYPE_2__ 
+function selinux_netlbl_sock_getattr struct netlbl_lsm_secattr * | sk const struct sock * | sid long

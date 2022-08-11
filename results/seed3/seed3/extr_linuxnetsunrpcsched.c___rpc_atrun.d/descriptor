@@ -1,0 +1,2 @@
+struct rpc_task | tk_status int 
+function __rpc_atrun void | task struct rpc_task *

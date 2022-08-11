@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 110011,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversdmacoh901318.c_coh901318_get_bytes_in_lli.d/extr_linuxdriversdmacoh901318.c_coh901318_get_bytes_in_lli_O0::coh901318_get_bytes_in_lli(62)"
+  }
+]

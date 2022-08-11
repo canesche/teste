@@ -1,0 +1,7 @@
+struct hnae3_knic_private_info | num_tqps int | tqp struct TYPE_5__ ** | num_desc int 
+struct TYPE_4__ | kinfo struct hnae3_knic_private_info 
+struct hclge_vport | alloc_tqps int | nic struct TYPE_4__ | back struct hclge_dev * 
+struct hclge_dev | num_tqps int | htqp struct TYPE_6__ * 
+struct TYPE_5__ | tqp_index int | desc_num int | handle struct TYPE_4__ * 
+struct TYPE_6__ | alloced int | q struct TYPE_5__ 
+function hclge_assign_tqp int | vport struct hclge_vport *

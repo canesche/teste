@@ -1,0 +1,9 @@
+struct TYPE_6__ | bits long 
+struct TYPE_7__ | size struct TYPE_6__ 
+struct mlxsw_afk_element_inst | type long | info struct TYPE_10__ * | item struct TYPE_7__ 
+struct mlxsw_afk_block | instances_count int | instances struct mlxsw_afk_element_inst * 
+struct mlxsw_afk | blocks_count int | blocks struct mlxsw_afk_block * 
+struct TYPE_8__ | bits long 
+struct TYPE_9__ | size struct TYPE_8__ 
+struct TYPE_10__ | type long | item struct TYPE_9__ 
+function mlxsw_afk_blocks_check int | mlxsw_afk struct mlxsw_afk *

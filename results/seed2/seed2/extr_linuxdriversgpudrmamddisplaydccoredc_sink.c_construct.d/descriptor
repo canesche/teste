@@ -1,0 +1,5 @@
+struct dc_sink_init_data | link struct dc_link * | converter_disable_audio int | dongle_max_pix_clk int | sink_signal int 
+struct dc_sink | sink_id int | dc_container_id int * | converter_disable_audio int | dongle_max_pix_clk int | ctx struct TYPE_2__ * | link struct dc_link * | sink_signal int 
+struct dc_link | ctx struct TYPE_2__ * 
+struct TYPE_2__ | dc_sink_id_count int 
+function construct int | sink struct dc_sink * | init_params const struct dc_sink_init_data *

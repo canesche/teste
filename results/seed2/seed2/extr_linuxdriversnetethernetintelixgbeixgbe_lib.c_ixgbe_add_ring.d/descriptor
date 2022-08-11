@@ -1,0 +1,3 @@
+struct ixgbe_ring_container | next_update long | count int | ring struct ixgbe_ring * 
+struct ixgbe_ring | next struct ixgbe_ring * 
+function ixgbe_add_ring void | ring struct ixgbe_ring * | head struct ixgbe_ring_container *

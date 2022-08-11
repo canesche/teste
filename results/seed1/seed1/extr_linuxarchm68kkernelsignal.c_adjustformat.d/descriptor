@@ -1,0 +1,2 @@
+struct pt_regs | format int 
+function adjustformat void | regs struct pt_regs *

@@ -1,0 +1,7 @@
+struct TYPE_9__ | length int 
+struct TYPE_8__ | length int 
+struct TYPE_7__ | length int 
+struct TYPE_10__ | blue struct TYPE_9__ | green struct TYPE_8__ | red struct TYPE_7__ 
+struct TYPE_6__ | visual int 
+struct fb_info | var struct TYPE_10__ | fix struct TYPE_6__ 
+function s1d13xxxfb_setup_pseudocolour void | info struct fb_info *

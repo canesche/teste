@@ -1,0 +1,2 @@
+struct TYPE_2__ | sortedShaders int ** 
+function R_DecomposeSort void | sort unsigned int | entityNum int * | shader int ** | fogNum int * | dlightMap int *

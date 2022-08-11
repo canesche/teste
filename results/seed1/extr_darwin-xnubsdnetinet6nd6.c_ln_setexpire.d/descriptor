@@ -1,2 +1,0 @@
-struct llinfo_nd6 | ln_expire int 
-function ln_setexpire void | ln struct llinfo_nd6 * | expiry int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | hash int 
+function ngx_http_upstream_chash_get_server_index int | servers struct TYPE_3__ * | n int | hash int

@@ -1,2 +1,0 @@
-struct pcie_port | dummy int 
-function dw_pcie_allocate_domains int | pp struct pcie_port *

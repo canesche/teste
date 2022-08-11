@@ -1,0 +1,3 @@
+struct dispc_device | feat struct TYPE_2__ * 
+struct TYPE_2__ | num_ovls int 
+function dispc_get_num_ovls int | dispc struct dispc_device *

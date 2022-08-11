@@ -1,0 +1,6 @@
+struct device | dummy int 
+struct TYPE_5__ | dev struct TYPE_4__ * 
+struct TYPE_6__ | chan struct TYPE_5__ 
+struct axi_dma_chan | vc struct TYPE_6__ 
+struct TYPE_4__ | device struct device 
+function chan2dev struct device * | chan struct axi_dma_chan *

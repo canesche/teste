@@ -1,3 +1,0 @@
-struct gcov_iterator | info struct gcov_info * 
-struct gcov_info | dummy int 
-function gcov_iter_get_info struct gcov_info * | iter struct gcov_iterator *

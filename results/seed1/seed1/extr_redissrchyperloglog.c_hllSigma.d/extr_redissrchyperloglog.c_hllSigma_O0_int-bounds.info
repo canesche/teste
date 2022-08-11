@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 122,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_redissrchyperloglog.c_hllSigma.d/extr_redissrchyperloglog.c_hllSigma_O0::hllSigma(58)"
+  }
+]

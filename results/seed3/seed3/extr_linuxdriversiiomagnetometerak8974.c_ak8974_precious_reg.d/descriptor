@@ -1,0 +1,2 @@
+struct device | dummy int 
+function ak8974_precious_reg int | dev struct device * | reg unsigned int

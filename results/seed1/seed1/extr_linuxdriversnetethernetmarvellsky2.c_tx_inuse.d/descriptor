@@ -1,0 +1,2 @@
+struct sky2_port | tx_prod int | tx_cons int | tx_ring_size int 
+function tx_inuse int | sky2 const struct sky2_port *

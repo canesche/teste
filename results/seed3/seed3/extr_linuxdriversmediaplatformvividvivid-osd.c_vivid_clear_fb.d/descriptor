@@ -1,0 +1,4 @@
+struct TYPE_3__ | length int 
+struct TYPE_4__ | green struct TYPE_3__ 
+struct vivid_dev | display_height unsigned int | display_width unsigned int | display_byte_stride int | fb_defined struct TYPE_4__ | video_vbase void * 
+function vivid_clear_fb void | dev struct vivid_dev *

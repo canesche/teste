@@ -1,2 +1,0 @@
-struct aa_caps | dummy int 
-function aa_free_cap_rules void | caps struct aa_caps *

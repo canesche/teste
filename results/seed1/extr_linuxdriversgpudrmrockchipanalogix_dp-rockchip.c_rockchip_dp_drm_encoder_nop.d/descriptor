@@ -1,2 +1,0 @@
-struct drm_encoder | dummy int 
-function rockchip_dp_drm_encoder_nop void | encoder struct drm_encoder *

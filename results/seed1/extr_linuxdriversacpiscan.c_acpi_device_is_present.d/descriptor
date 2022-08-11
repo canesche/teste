@@ -1,3 +1,0 @@
-struct TYPE_2__ | functional long | present long 
-struct acpi_device | status struct TYPE_2__ 
-function acpi_device_is_present int | adev const struct acpi_device *

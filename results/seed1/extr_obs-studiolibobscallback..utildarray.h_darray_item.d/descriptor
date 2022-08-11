@@ -1,2 +1,0 @@
-struct darray | array long 
-function darray_item void * | element_size const unsigned long | da const struct darray * | idx unsigned long

@@ -1,0 +1,2 @@
+struct mmc_card | dummy int 
+function mmc_align_data_size unsigned int | card struct mmc_card * | sz unsigned int

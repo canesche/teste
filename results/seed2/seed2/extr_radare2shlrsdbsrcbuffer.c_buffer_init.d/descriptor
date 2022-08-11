@@ -1,0 +1,2 @@
+struct TYPE_3__ | x char * | fd int | n int | p long | op int 
+function buffer_init void | s struct TYPE_3__ * | op int | fd int | buf char * | len int

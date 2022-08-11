@@ -1,1 +1,0 @@
-function tasks_lock_block_signals void | old_sigset int *

@@ -1,0 +1,4 @@
+struct ib_user_mad_hdr_old | dummy int 
+struct ib_user_mad_hdr | dummy int 
+struct ib_umad_file | use_pkey_index long 
+function hdr_size int | file struct ib_umad_file *

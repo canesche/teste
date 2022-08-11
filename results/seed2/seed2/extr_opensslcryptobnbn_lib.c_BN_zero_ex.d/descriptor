@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int | top long | neg long 
+function BN_zero_ex void | a struct TYPE_3__ *

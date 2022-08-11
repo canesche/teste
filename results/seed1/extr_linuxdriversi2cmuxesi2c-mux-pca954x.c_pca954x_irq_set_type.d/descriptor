@@ -1,2 +1,0 @@
-struct irq_data | dummy int 
-function pca954x_irq_set_type int | idata struct irq_data * | type unsigned int

@@ -1,0 +1,4 @@
+struct sdhci_pci_slot | host struct TYPE_4__ * 
+struct TYPE_4__ | mmc struct TYPE_3__ * 
+struct TYPE_3__ | caps int 
+function mfd_sdio_probe_slot int | slot struct sdhci_pci_slot *

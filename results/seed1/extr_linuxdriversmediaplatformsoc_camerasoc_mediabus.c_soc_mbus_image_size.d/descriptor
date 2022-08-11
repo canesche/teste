@@ -1,2 +1,0 @@
-struct soc_mbus_pixelfmt | layout long | packing int 
-function soc_mbus_image_size int | mf const struct soc_mbus_pixelfmt * | bytes_per_line int | height int

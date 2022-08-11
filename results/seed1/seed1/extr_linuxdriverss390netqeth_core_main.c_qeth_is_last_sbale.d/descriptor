@@ -1,0 +1,2 @@
+struct qdio_buffer_element | eflags int 
+function qeth_is_last_sbale int | sbale struct qdio_buffer_element *

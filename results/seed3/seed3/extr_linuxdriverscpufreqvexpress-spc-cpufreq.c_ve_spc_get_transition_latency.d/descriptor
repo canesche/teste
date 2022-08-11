@@ -1,0 +1,2 @@
+struct device | dummy int 
+function ve_spc_get_transition_latency int | cpu_dev struct device *

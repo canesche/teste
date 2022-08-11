@@ -1,0 +1,2 @@
+struct b43_wldev | dummy int 
+function b43_bluetooth_coext_disable void | dev struct b43_wldev *

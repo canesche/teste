@@ -1,0 +1,4 @@
+struct audio_output | planes unsigned long | mixes struct audio_mix * 
+struct TYPE_2__ | num int 
+struct audio_mix | buffer float ** | inputs struct TYPE_2__ 
+function clamp_audio_output void | audio struct audio_output * | bytes unsigned long

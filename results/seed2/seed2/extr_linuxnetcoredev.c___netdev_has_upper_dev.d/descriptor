@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function __netdev_has_upper_dev int | upper_dev struct net_device * | data void *

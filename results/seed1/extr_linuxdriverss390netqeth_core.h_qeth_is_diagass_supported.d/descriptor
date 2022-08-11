@@ -1,3 +1,0 @@
-struct TYPE_2__ | diagass_support int 
-struct qeth_card | info struct TYPE_2__ 
-function qeth_is_diagass_supported int | card struct qeth_card * | cmd enum qeth_diags_cmds

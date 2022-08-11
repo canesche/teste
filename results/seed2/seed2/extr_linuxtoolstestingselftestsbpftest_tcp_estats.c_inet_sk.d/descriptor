@@ -1,0 +1,3 @@
+struct sock | dummy int 
+struct inet_sock | dummy int 
+function inet_sk struct inet_sock * | sk const struct sock *

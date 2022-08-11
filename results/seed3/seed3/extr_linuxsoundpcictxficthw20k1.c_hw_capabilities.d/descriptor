@@ -1,0 +1,3 @@
+struct hw | model long 
+struct capabilities | digit_io_switch int | mic_source_switch long | output_switch long | dedicated_mic long 
+function hw_capabilities struct capabilities | hw struct hw *

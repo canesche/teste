@@ -1,0 +1,3 @@
+struct process | dummy int 
+struct module | dummy int 
+function macho_load_module struct module * | pcs struct process * | name const int * | addr unsigned long

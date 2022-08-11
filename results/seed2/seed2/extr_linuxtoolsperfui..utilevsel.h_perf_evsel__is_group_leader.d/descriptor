@@ -1,0 +1,2 @@
+struct perf_evsel | leader const struct perf_evsel * 
+function perf_evsel__is_group_leader int | evsel const struct perf_evsel *

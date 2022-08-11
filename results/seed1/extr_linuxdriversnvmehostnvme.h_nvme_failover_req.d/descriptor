@@ -1,2 +1,0 @@
-struct request | dummy int 
-function nvme_failover_req void | req struct request *

@@ -1,0 +1,2 @@
+struct spu | dummy int 
+function resource_allocation_enable_get int | spu struct spu *

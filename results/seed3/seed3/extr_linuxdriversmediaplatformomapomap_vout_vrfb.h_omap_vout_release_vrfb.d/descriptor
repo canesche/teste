@@ -1,0 +1,2 @@
+struct omap_vout_device | dummy int 
+function omap_vout_release_vrfb void | vout struct omap_vout_device *

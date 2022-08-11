@@ -1,0 +1,2 @@
+struct super_block | s_blocksize int 
+function adfs_calczonecheck unsigned char | sb struct super_block * | map unsigned char *

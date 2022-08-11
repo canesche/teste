@@ -1,0 +1,4 @@
+struct adapter | dummy int 
+struct TYPE_3__ | bBtCtrlAggBufSize int 
+struct TYPE_4__ | btInfo struct TYPE_3__ 
+function hal_btcoex_IsBTCoexCtrlAMPDUSize int | padapter struct adapter *

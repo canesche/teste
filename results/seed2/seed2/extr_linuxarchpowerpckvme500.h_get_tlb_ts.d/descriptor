@@ -1,0 +1,2 @@
+struct kvm_book3e_206_tlb_entry | mas1 int 
+function get_tlb_ts unsigned int | tlbe const struct kvm_book3e_206_tlb_entry *

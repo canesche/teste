@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function ppp_nl_get_size unsigned long | dev const struct net_device *

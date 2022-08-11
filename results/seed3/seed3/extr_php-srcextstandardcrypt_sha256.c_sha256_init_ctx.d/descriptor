@@ -1,0 +1,2 @@
+struct sha256_ctx | H int * | buflen long | total long * 
+function sha256_init_ctx void | ctx struct sha256_ctx *

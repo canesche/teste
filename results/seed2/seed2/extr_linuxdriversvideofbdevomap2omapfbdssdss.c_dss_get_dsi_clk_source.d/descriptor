@@ -1,0 +1,2 @@
+struct TYPE_2__ | dsi_clk_source int * 
+function dss_get_dsi_clk_source enum omap_dss_clk_source | dsi_module int

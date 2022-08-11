@@ -1,0 +1,2 @@
+struct mlx5_eswitch | dummy int 
+function mlx5_eswitch_enable_sriov int | esw struct mlx5_eswitch * | nvfs int | mode int

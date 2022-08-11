@@ -1,2 +1,0 @@
-struct uart_8250_port | dummy int 
-function serial8250_release_dma void | p struct uart_8250_port *

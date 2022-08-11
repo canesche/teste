@@ -1,0 +1,2 @@
+struct isdnhdlc_vars | dstpos int | crc int 
+function check_frame int | hdlc struct isdnhdlc_vars *

@@ -1,0 +1,2 @@
+struct cpuinfo_x86 | x86_model int 
+function cpu_has_tjmax int | c struct cpuinfo_x86 *

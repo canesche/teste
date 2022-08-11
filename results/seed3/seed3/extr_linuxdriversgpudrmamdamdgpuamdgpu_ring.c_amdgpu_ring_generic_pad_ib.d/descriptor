@@ -1,0 +1,4 @@
+struct amdgpu_ring | funcs struct TYPE_2__ * 
+struct amdgpu_ib | length_dw int | ptr int * 
+struct TYPE_2__ | align_mask int | nop int 
+function amdgpu_ring_generic_pad_ib void | ring struct amdgpu_ring * | ib struct amdgpu_ib *

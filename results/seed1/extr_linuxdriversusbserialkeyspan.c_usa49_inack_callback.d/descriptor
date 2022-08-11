@@ -1,2 +1,0 @@
-struct urb | dummy int 
-function usa49_inack_callback void | urb struct urb *

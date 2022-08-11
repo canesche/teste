@@ -1,4 +1,0 @@
-struct kobject | dummy int 
-struct device | class struct TYPE_2__ * 
-struct TYPE_2__ | dev_kobj struct kobject * 
-function device_to_dev_kobj struct kobject * | dev struct device *

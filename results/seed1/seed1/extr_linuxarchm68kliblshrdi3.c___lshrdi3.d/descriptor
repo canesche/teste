@@ -1,0 +1,3 @@
+struct TYPE_3__ | high int | low int 
+struct TYPE_4__ | ll int | s struct TYPE_3__ 
+function __lshrdi3 int | u int | b int

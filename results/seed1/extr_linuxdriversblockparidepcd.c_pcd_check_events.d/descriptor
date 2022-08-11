@@ -1,3 +1,0 @@
-struct pcd_unit | changed int 
-struct cdrom_device_info | handle struct pcd_unit * 
-function pcd_check_events unsigned int | cdi struct cdrom_device_info * | clearing unsigned int | slot_nr int

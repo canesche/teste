@@ -1,0 +1,2 @@
+struct mm_iommu_table_group_mem_t | ua unsigned long | hpas unsigned long * | entries const long | pageshift unsigned int 
+function mm_iommu_ua_to_hpa long | mem struct mm_iommu_table_group_mem_t * | ua unsigned long | pageshift unsigned int | hpa unsigned long *

@@ -1,4 +1,0 @@
-struct TYPE_7__ | connection struct TYPE_6__ * 
-struct TYPE_5__ | len unsigned long 
-struct TYPE_6__ | addr_text struct TYPE_5__ 
-function ngx_rtmp_log_var_remote_addr_getlen unsigned long | s struct TYPE_7__ * | op int *

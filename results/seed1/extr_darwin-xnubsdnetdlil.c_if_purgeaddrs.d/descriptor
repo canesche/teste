@@ -1,2 +1,0 @@
-struct ifnet | dummy int 
-function if_purgeaddrs void | ifp struct ifnet *

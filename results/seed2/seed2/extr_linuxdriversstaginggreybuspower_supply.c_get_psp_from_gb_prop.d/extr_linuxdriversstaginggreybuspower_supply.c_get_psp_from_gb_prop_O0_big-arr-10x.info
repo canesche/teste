@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversstaginggreybuspower_supply.c_get_psp_from_gb_prop.d/extr_linuxdriversstaginggreybuspower_supply.c_get_psp_from_gb_prop_O0::get_psp_from_gb_prop(185)"
+  }
+]

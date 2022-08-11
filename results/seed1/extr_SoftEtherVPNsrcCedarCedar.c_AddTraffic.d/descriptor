@@ -1,4 +1,0 @@
-struct TYPE_7__ | UnicastCount long | UnicastBytes long | BroadcastCount long | BroadcastBytes long 
-struct TYPE_6__ | UnicastCount long | UnicastBytes long | BroadcastCount long | BroadcastBytes long 
-struct TYPE_8__ | Send struct TYPE_7__ | Recv struct TYPE_6__ 
-function AddTraffic void | dst struct TYPE_8__ * | diff struct TYPE_8__ *

@@ -1,3 +1,0 @@
-struct dwc2_core_params | power_down long 
-struct dwc2_hsotg | params struct dwc2_core_params 
-function dwc2_set_s3c6400_params void | hsotg struct dwc2_hsotg *

@@ -1,0 +1,2 @@
+struct lcd_device | dummy int 
+function jornada_lcd_get_power int | ld struct lcd_device *

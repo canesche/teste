@@ -1,0 +1,6 @@
+struct acpi_resource_fixed_dma | request_lines int | channels int 
+struct TYPE_3__ | fixed_dma struct acpi_resource_fixed_dma 
+struct acpi_resource | type long | data struct TYPE_3__ 
+struct TYPE_4__ | slave_id int | chan_id int 
+struct acpi_dma_parser_data | index long | dma_spec struct TYPE_4__ | n int 
+function acpi_dma_parse_fixed_dma int | res struct acpi_resource * | data void *

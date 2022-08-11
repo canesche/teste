@@ -1,0 +1,1 @@
+function tls_dump_gets int | bio int * | buf char * | size int

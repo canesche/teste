@@ -1,0 +1,2 @@
+struct TYPE_3__ | MultiByteTable long * | UniDefaultChar long 
+function NLS_IsDefaultCharForMB int | CodePageTable struct TYPE_3__ * | Char unsigned long

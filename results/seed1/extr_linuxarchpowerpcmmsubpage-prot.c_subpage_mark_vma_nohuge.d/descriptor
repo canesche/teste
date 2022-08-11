@@ -1,2 +1,0 @@
-struct mm_struct | dummy int 
-function subpage_mark_vma_nohuge void | mm struct mm_struct * | addr unsigned long | len unsigned long

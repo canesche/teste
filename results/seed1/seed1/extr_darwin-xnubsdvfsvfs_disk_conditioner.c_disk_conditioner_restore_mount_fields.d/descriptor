@@ -1,0 +1,3 @@
+struct saved_mount_fields | mnt_ioscale int | mnt_ioqueue_depth int | mnt_segwritecnt int | mnt_segreadcnt int | mnt_maxwritecnt int | mnt_maxreadcnt int 
+struct TYPE_3__ | mnt_ioscale int | mnt_ioqueue_depth int | mnt_segwritecnt int | mnt_segreadcnt int | mnt_maxwritecnt int | mnt_maxreadcnt int 
+function disk_conditioner_restore_mount_fields void | mp struct TYPE_3__ * | mnt_fields struct saved_mount_fields *

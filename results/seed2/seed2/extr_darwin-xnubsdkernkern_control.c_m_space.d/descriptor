@@ -1,0 +1,2 @@
+struct mbuf | m_len long | m_next struct mbuf * 
+function m_space int | m struct mbuf *

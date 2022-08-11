@@ -1,0 +1,2 @@
+struct cacheinfo | level unsigned int | type int 
+function ci_leaf_init void | this_leaf struct cacheinfo * | type enum cache_type | level unsigned int

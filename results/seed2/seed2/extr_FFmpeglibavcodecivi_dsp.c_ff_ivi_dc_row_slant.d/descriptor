@@ -1,0 +1,1 @@
+function ff_ivi_dc_row_slant void | in const int * | out int * | pitch int | blk_size int

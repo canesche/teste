@@ -1,0 +1,2 @@
+struct TYPE_2__ | pos long | size long 
+function null_buf_write int | opaque void * | buf int * | buf_size int

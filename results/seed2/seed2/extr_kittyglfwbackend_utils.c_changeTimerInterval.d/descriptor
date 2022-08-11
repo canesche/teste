@@ -1,0 +1,3 @@
+struct TYPE_5__ | timers_count unsigned long | timers struct TYPE_4__ * 
+struct TYPE_4__ | id long | interval double 
+function changeTimerInterval void | eld struct TYPE_5__ * | timer_id long | interval double

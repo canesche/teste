@@ -1,0 +1,3 @@
+struct gpmi_nand_data | dma_chans struct dma_chan ** 
+struct dma_chan | dummy int 
+function get_dma_chan struct dma_chan * | this struct gpmi_nand_data *

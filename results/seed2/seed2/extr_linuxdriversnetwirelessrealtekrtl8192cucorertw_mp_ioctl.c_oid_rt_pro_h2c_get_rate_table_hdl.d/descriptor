@@ -1,0 +1,2 @@
+struct oid_par_priv | dummy int 
+function oid_rt_pro_h2c_get_rate_table_hdl int | poid_par_priv struct oid_par_priv *

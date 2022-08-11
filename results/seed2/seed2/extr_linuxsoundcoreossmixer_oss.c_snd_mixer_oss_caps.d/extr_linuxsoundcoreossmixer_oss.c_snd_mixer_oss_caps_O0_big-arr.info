@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxsoundcoreossmixer_oss.c_snd_mixer_oss_caps.d/extr_linuxsoundcoreossmixer_oss.c_snd_mixer_oss_caps_O0::snd_mixer_oss_caps(64)"
+  }
+]

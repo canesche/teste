@@ -1,3 +1,0 @@
-struct TYPE_2__ | dsp_dram_offset long | dram_offset long | dsp_iram_offset long | iram_offset long 
-struct sst_dsp | addr struct TYPE_2__ 
-function sst_dsp_get_offset long | dsp struct sst_dsp * | offset long | type enum sst_mem_type

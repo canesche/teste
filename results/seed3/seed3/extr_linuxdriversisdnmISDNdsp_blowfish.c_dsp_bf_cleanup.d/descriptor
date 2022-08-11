@@ -1,0 +1,2 @@
+struct dsp | bf_enable long 
+function dsp_bf_cleanup void | dsp struct dsp *

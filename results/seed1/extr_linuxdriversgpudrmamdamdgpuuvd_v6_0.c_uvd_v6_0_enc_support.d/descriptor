@@ -1,3 +1,0 @@
-struct TYPE_2__ | fw_version long 
-struct amdgpu_device | asic_type long | uvd struct TYPE_2__ 
-function uvd_v6_0_enc_support int | adev struct amdgpu_device *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | level int 
+function tx4939_irq_set_pri int | irc_irq int | new_pri int

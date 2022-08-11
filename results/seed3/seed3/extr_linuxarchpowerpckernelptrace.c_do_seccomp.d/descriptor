@@ -1,0 +1,2 @@
+struct pt_regs | dummy int 
+function do_seccomp int | regs struct pt_regs *

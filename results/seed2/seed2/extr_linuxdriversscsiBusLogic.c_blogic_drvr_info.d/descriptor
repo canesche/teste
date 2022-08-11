@@ -1,0 +1,3 @@
+struct blogic_adapter | full_model const char * 
+struct Scsi_Host | hostdata long 
+function blogic_drvr_info const char * | host struct Scsi_Host *

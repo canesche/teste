@@ -1,0 +1,1 @@
+function beforeunload_callback const char * | eventType int | reserved const void * | userData void *

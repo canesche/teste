@@ -1,0 +1,2 @@
+struct TYPE_3__ | user_stop_count int 
+function get_thread_userstop int | th struct TYPE_3__ *

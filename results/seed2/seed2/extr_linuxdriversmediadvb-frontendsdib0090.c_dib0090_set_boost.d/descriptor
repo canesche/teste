@@ -1,0 +1,2 @@
+struct dib0090_state | bb_1_def int 
+function dib0090_set_boost void | state struct dib0090_state * | onoff int

@@ -1,0 +1,2 @@
+struct clk_hw | dummy int 
+function bcm2835_vpu_clock_is_on int | hw struct clk_hw *

@@ -1,2 +1,0 @@
-struct sdhci_host | dummy int 
-function esdhc_writel_fixup int | host struct sdhci_host * | spec_reg int | value int | old_value int

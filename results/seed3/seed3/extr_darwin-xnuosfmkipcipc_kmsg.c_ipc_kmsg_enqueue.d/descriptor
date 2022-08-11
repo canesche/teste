@@ -1,0 +1,3 @@
+struct TYPE_7__ | ikmq_base struct TYPE_6__ * 
+struct TYPE_6__ | ikm_next struct TYPE_6__ * | ikm_prev struct TYPE_6__ * 
+function ipc_kmsg_enqueue void | queue struct TYPE_7__ * | kmsg struct TYPE_6__ *

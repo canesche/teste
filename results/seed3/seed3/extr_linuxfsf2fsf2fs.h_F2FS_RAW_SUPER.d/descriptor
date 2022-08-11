@@ -1,0 +1,3 @@
+struct f2fs_super_block | dummy int 
+struct f2fs_sb_info | raw_super long 
+function F2FS_RAW_SUPER struct f2fs_super_block * | sbi struct f2fs_sb_info *

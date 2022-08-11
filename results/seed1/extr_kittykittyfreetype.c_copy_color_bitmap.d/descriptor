@@ -1,2 +1,0 @@
-struct TYPE_4__ | top unsigned long | bottom unsigned long | left unsigned long | right unsigned long 
-function copy_color_bitmap void | src int * | dest int * | src_rect struct TYPE_4__ * | dest_rect struct TYPE_4__ * | src_stride unsigned long | dest_stride unsigned long

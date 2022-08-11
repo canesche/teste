@@ -1,2 +1,0 @@
-struct cardstate | dummy int 
-function gigaset_brkchars int | cs struct cardstate * | buf unsigned char const[6]

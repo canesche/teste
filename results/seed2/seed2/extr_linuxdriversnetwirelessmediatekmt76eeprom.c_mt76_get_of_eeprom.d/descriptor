@@ -1,0 +1,2 @@
+struct mt76_dev | dummy int 
+function mt76_get_of_eeprom int | dev struct mt76_dev * | len int

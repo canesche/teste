@@ -1,0 +1,4 @@
+struct dwc2_qtd | dummy int 
+struct dwc2_hsotg | dummy int 
+struct dwc2_host_chan | dummy int 
+function dwc2_halt_status_ok int | hsotg struct dwc2_hsotg * | chan struct dwc2_host_chan * | chnum int | qtd struct dwc2_qtd *

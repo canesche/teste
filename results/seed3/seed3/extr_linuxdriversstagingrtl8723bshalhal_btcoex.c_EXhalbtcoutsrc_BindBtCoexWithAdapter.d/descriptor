@@ -1,0 +1,6 @@
+struct TYPE_9__ | btdmAntPos int 
+struct TYPE_8__ | bBtCtrlAggBufSize int | aggBufSize int | bIncreaseScanDevNum int 
+struct TYPE_7__ | bProfileNotified int 
+struct TYPE_10__ | cntBind int 
+struct TYPE_11__ | bBinded int | boardInfo struct TYPE_9__ | btInfo struct TYPE_8__ | stackInfo struct TYPE_7__ | Adapter void * | statistics struct TYPE_10__ 
+function EXhalbtcoutsrc_BindBtCoexWithAdapter int | padapter void *

@@ -1,0 +1,2 @@
+struct ip6t_entry | dummy int 
+function get_entry struct ip6t_entry * | base const void * | offset unsigned int

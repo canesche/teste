@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetethernetmellanoxmlx5corefpgaipsec.h_mlx5_fpga_ipsec_delete_sa_ctx.d/extr_linuxdriversnetethernetmellanoxmlx5corefpgaipsec.h_mlx5_fpga_ipsec_delete_sa_ctx_O0::mlx5_fpga_ipsec_delete_sa_ctx(60)"
+  }
+]

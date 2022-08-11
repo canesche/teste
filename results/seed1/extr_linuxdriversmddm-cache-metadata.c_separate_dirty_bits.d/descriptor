@@ -1,2 +1,0 @@
-struct dm_cache_metadata | version int 
-function separate_dirty_bits int | cmd struct dm_cache_metadata *

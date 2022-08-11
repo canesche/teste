@@ -1,0 +1,6 @@
+struct pci_dev | msi_cap int 
+struct intel_gvt_device_info | max_support_vgpus int | mmio_size int | gtt_start_offset int | gtt_entry_size int | gtt_entry_size_shift int | gmadr_bytes_in_cmd int | max_surface_size int | msi_cap_offset int | mmio_bar long | cfg_space_size int 
+struct intel_gvt | dev_priv struct TYPE_4__ * | device_info struct intel_gvt_device_info 
+struct TYPE_3__ | pdev struct pci_dev * 
+struct TYPE_4__ | drm struct TYPE_3__ 
+function init_device_info void | gvt struct intel_gvt *

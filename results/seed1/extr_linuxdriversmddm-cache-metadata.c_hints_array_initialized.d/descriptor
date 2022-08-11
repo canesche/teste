@@ -1,2 +1,0 @@
-struct dm_cache_metadata | policy_hint_size long | hint_root long 
-function hints_array_initialized int | cmd struct dm_cache_metadata *

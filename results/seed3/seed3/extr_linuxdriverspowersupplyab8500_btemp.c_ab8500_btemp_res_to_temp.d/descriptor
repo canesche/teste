@@ -1,0 +1,3 @@
+struct abx500_res_to_temp | resist int | temp int 
+struct ab8500_btemp | dummy int 
+function ab8500_btemp_res_to_temp int | di struct ab8500_btemp * | tbl const struct abx500_res_to_temp * | tbl_size int | res int

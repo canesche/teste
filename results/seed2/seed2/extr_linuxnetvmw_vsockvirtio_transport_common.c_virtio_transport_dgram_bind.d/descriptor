@@ -1,0 +1,3 @@
+struct vsock_sock | dummy int 
+struct sockaddr_vm | dummy int 
+function virtio_transport_dgram_bind int | vsk struct vsock_sock * | addr struct sockaddr_vm *

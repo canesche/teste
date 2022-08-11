@@ -1,2 +1,0 @@
-struct mem_cgroup | dummy int 
-function memcg_wb_domain_exit void | memcg struct mem_cgroup *

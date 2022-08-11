@@ -1,0 +1,2 @@
+struct cm_rep_msg | offset27 int 
+function cm_rep_set_srq void | rep_msg struct cm_rep_msg * | srq int

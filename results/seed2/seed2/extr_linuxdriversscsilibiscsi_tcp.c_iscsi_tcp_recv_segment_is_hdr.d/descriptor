@@ -1,0 +1,4 @@
+struct TYPE_3__ | done long 
+struct TYPE_4__ | segment struct TYPE_3__ 
+struct iscsi_tcp_conn | in struct TYPE_4__ 
+function iscsi_tcp_recv_segment_is_hdr int | tcp_conn struct iscsi_tcp_conn *

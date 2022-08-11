@@ -1,0 +1,4 @@
+struct pop3_conn | state int 
+struct TYPE_2__ | pop3c struct pop3_conn 
+struct connectdata | proto struct TYPE_2__ 
+function state void | conn struct connectdata * | newstate int

@@ -1,0 +1,2 @@
+struct capincci | dummy int 
+function capincci_free_minor void | np struct capincci *

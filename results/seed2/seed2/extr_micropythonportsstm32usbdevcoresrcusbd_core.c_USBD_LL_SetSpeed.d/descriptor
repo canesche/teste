@@ -1,0 +1,2 @@
+struct TYPE_3__ | dev_speed int 
+function USBD_LL_SetSpeed int | pdev struct TYPE_3__ * | speed int

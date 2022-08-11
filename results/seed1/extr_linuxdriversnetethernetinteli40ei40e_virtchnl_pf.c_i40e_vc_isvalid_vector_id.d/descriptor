@@ -1,5 +1,0 @@
-struct i40e_vf | pf struct i40e_pf * 
-struct TYPE_3__ | num_msix_vectors_vf long 
-struct TYPE_4__ | func_caps struct TYPE_3__ 
-struct i40e_pf | hw struct TYPE_4__ 
-function i40e_vc_isvalid_vector_id int | vf struct i40e_vf * | vector_id long

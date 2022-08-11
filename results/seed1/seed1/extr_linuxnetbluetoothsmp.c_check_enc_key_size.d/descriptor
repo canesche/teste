@@ -1,0 +1,6 @@
+struct smp_chan | enc_key_size long 
+struct l2cap_conn | hcon struct TYPE_2__ * | smp struct l2cap_chan * 
+struct l2cap_chan | data struct smp_chan * 
+struct hci_dev | le_max_key_size long 
+struct TYPE_2__ | hdev struct hci_dev * 
+function check_enc_key_size int | conn struct l2cap_conn * | max_key_size long

@@ -1,0 +1,2 @@
+struct TYPE_3__ | len unsigned long | data char * 
+function ngx_http_script_variables_count unsigned long | value struct TYPE_3__ *

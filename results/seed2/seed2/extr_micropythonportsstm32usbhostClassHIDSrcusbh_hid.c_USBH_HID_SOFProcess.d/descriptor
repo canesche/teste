@@ -1,0 +1,4 @@
+struct TYPE_6__ | Timer long | pActiveClass struct TYPE_5__ * 
+struct TYPE_7__ | state long | timer long | poll long 
+struct TYPE_5__ | pData struct TYPE_7__ * 
+function USBH_HID_SOFProcess int | phost struct TYPE_6__ *

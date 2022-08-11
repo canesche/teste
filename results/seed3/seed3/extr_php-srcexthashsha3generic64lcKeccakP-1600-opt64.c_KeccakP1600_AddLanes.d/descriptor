@@ -1,0 +1,1 @@
+function KeccakP1600_AddLanes void | state void * | data const unsigned char * | laneCount unsigned int

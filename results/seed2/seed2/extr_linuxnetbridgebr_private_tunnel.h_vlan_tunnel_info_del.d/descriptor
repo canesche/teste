@@ -1,0 +1,3 @@
+struct net_bridge_vlan_group | dummy int 
+struct net_bridge_vlan | dummy int 
+function vlan_tunnel_info_del void | vg struct net_bridge_vlan_group * | vlan struct net_bridge_vlan *

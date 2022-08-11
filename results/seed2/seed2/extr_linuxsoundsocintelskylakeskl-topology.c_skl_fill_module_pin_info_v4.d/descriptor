@@ -1,0 +1,4 @@
+struct TYPE_2__ | instance_id int | module_id int 
+struct skl_module_pin | in_use int | is_dynamic int | pin_state int | id struct TYPE_2__ 
+struct skl_dfw_v4_module_pin | instance_id int | module_id int 
+function skl_fill_module_pin_info_v4 void | dfw_pin struct skl_dfw_v4_module_pin * | m_pin struct skl_module_pin * | is_dynamic int | max_pin int

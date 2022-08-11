@@ -1,0 +1,1 @@
+function intra_pred_dc_128 void | d int * | top int * | left int * | stride int

@@ -1,0 +1,2 @@
+struct TYPE_4__ | signum long | flags int | loop long 
+function uv__signal_compare int | w1 struct TYPE_4__ * | w2 struct TYPE_4__ *

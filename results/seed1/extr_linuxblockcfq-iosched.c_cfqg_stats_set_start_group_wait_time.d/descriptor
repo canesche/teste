@@ -1,2 +1,0 @@
-struct cfq_group | dummy int 
-function cfqg_stats_set_start_group_wait_time void | cfqg struct cfq_group * | curr_cfqg struct cfq_group *

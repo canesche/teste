@@ -1,0 +1,2 @@
+struct uart_port | dummy int 
+function sunzilog_config_port void | port struct uart_port * | flags int

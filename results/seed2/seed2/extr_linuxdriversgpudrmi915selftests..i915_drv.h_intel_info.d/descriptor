@@ -1,0 +1,3 @@
+struct intel_device_info | dummy int 
+struct drm_i915_private | info const struct intel_device_info 
+function intel_info const struct intel_device_info * | dev_priv const struct drm_i915_private *

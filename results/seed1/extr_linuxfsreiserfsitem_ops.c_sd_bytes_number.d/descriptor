@@ -1,2 +1,0 @@
-struct item_head | dummy int 
-function sd_bytes_number int | ih struct item_head * | block_size int

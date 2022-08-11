@@ -1,0 +1,2 @@
+struct snd_pcm_chmap | max_channels int | channel_mask unsigned int 
+function valid_chmap_channels int | info const struct snd_pcm_chmap * | ch int

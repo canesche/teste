@@ -1,2 +1,0 @@
-struct mbcs_soft | mmr_base long 
-function mbcs_pioaddr long | soft struct mbcs_soft * | offset long

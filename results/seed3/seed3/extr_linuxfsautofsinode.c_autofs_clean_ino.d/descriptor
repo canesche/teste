@@ -1,0 +1,2 @@
+struct autofs_info | last_used int | gid int | uid int 
+function autofs_clean_ino void | ino struct autofs_info *

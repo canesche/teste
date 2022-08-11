@@ -1,0 +1,3 @@
+struct TYPE_3__ | lsp_pow_m_table1 float * | lsp_pow_m_table2 float * | lsp_pow_e_table float * 
+function pow_m1_4 float | s struct TYPE_3__ * | x float
+struct  | f float | v unsigned int 

@@ -1,0 +1,3 @@
+struct img_ir_priv_hw | ct_quirks int * 
+struct img_ir_priv | hw struct img_ir_priv_hw 
+function img_ir_probe_hw_caps void | priv struct img_ir_priv *

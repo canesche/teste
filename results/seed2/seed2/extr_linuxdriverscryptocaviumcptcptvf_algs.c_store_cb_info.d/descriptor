@@ -1,0 +1,3 @@
+struct cpt_request_info | callback_arg void * | callback void * 
+struct ablkcipher_request | base int 
+function store_cb_info void | req struct ablkcipher_request * | req_info struct cpt_request_info *

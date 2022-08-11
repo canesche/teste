@@ -1,0 +1,4 @@
+struct viadev | substream int * 
+struct snd_pcm_substream | runtime struct TYPE_2__ * 
+struct TYPE_2__ | private_data struct viadev * 
+function snd_via82xx_pcm_close int | substream struct snd_pcm_substream *

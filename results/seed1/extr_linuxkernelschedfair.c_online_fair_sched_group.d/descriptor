@@ -1,2 +1,0 @@
-struct task_group | dummy int 
-function online_fair_sched_group void | tg struct task_group *

@@ -1,0 +1,9 @@
+struct TYPE_11__ | gamma_wd int 
+struct TYPE_12__ | alaw struct TYPE_11__ | data_sz int 
+struct TYPE_10__ | width int | height int | top long | left long 
+struct TYPE_13__ | config_params struct TYPE_12__ | win struct TYPE_10__ | hd_pol void * | vd_pol void * | fid_pol void * | frm_fmt int | pix_fmt int 
+struct TYPE_8__ | width int | height int | top long | left long 
+struct TYPE_9__ | bt656_enable int | win struct TYPE_8__ | buf_type int | pix_order int | hd_pol void * | vd_pol void * | fid_pol void * | frm_fmt int | pix_fmt int 
+struct TYPE_14__ | bayer struct TYPE_13__ | ycbcr struct TYPE_9__ | if_type int 
+struct vpfe_ccdc | ccdc_cfg struct TYPE_14__ 
+function vpfe_ccdc_config_defaults void | ccdc struct vpfe_ccdc *

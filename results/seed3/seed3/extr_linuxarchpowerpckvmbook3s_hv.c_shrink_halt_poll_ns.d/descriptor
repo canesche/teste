@@ -1,0 +1,2 @@
+struct kvmppc_vcore | halt_poll_ns int 
+function shrink_halt_poll_ns void | vc struct kvmppc_vcore *

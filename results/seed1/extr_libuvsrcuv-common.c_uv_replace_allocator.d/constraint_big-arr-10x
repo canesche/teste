@@ -1,1 +1,0 @@
-length(malloc_func) == 100, length(realloc_func) == 100, length(calloc_func) == 100, length(free_func) == 100

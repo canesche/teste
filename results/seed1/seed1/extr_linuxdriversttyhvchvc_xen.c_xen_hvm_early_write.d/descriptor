@@ -1,0 +1,1 @@
+function xen_hvm_early_write void | vtermno int | str const char * | len int

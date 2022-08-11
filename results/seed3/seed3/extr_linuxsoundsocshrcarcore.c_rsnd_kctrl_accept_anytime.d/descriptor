@@ -1,0 +1,2 @@
+struct rsnd_dai_stream | dummy int 
+function rsnd_kctrl_accept_anytime int | io struct rsnd_dai_stream *

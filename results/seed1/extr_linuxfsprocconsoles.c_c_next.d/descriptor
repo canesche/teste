@@ -1,3 +1,0 @@
-struct seq_file | dummy int 
-struct console | next void * 
-function c_next void * | m struct seq_file * | v void * | pos int *

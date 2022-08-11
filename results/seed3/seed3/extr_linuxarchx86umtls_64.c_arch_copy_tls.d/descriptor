@@ -1,0 +1,6 @@
+struct TYPE_6__ | gp int * 
+struct TYPE_7__ | regs struct TYPE_6__ 
+struct TYPE_5__ | fs int 
+struct TYPE_8__ | regs struct TYPE_7__ | arch struct TYPE_5__ 
+struct task_struct | thread struct TYPE_8__ 
+function arch_copy_tls int | t struct task_struct *

@@ -1,0 +1,2 @@
+struct inode | i_blkbits int 
+function logical_to_blk int | inode struct inode * | offset int

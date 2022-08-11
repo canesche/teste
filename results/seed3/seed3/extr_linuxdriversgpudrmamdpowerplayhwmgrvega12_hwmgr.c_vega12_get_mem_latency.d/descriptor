@@ -1,0 +1,2 @@
+struct pp_hwmgr | dummy int 
+function vega12_get_mem_latency int | hwmgr struct pp_hwmgr * | clock int

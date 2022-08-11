@@ -1,2 +1,0 @@
-struct llist_item | next struct llist_item * 
-function llist_item_put void | item struct llist_item *

@@ -1,0 +1,2 @@
+struct pt_regs | dummy int 
+function decode_frame_pointer struct pt_regs * | bp unsigned long *

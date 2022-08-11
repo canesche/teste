@@ -1,0 +1,2 @@
+struct clk_hw | dummy int 
+function clk_pxa3xx_ac97_get_rate unsigned long | hw struct clk_hw * | parent_rate unsigned long

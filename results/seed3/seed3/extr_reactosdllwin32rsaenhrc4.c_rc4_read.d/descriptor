@@ -1,0 +1,3 @@
+struct TYPE_4__ | x unsigned char | y unsigned char | buf unsigned char * 
+struct TYPE_5__ | rc4 struct TYPE_4__ 
+function rc4_read unsigned long | buf unsigned char * | len unsigned long | prng struct TYPE_5__ *

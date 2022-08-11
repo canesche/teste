@@ -1,0 +1,4 @@
+struct xattr_handler | dummy int 
+struct inode | dummy int 
+struct dentry | dummy int 
+function sockfs_security_xattr_set int | handler const struct xattr_handler * | dentry struct dentry * | inode struct inode * | suffix const char * | value const void * | size unsigned long | flags int

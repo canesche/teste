@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmamddisplayamdgpu_dmamdgpu_dm_color.c___is_lut_linear.d/extr_linuxdriversgpudrmamddisplayamdgpu_dmamdgpu_dm_color.c___is_lut_linear_O0::__is_lut_linear(63)"
+  }
+]

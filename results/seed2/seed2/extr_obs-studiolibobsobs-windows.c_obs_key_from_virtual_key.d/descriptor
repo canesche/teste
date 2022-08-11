@@ -1,0 +1,4 @@
+struct TYPE_5__ | vk_codes int * 
+struct TYPE_4__ | platform_context struct TYPE_5__ * 
+struct TYPE_6__ | hotkeys struct TYPE_4__ 
+function obs_key_from_virtual_key int | code int

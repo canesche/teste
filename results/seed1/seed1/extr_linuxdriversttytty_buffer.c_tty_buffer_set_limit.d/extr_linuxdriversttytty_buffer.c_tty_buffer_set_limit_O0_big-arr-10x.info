@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversttytty_buffer.c_tty_buffer_set_limit.d/extr_linuxdriversttytty_buffer.c_tty_buffer_set_limit_O0::tty_buffer_set_limit(65)"
+  }
+]

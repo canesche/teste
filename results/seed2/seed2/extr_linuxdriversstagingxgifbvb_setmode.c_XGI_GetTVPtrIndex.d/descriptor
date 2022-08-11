@@ -1,0 +1,2 @@
+struct vb_device_info | TVInfo int 
+function XGI_GetTVPtrIndex unsigned short | pVBInfo struct vb_device_info *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | sid_kind int | sid_authcount int | sid_authority int * | sid_authorities int * 
+function nfs4_sid2wkid const char * | sp struct TYPE_3__ *

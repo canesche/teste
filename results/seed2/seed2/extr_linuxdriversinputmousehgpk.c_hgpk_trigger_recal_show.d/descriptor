@@ -1,0 +1,2 @@
+struct psmouse | dummy int 
+function hgpk_trigger_recal_show int | psmouse struct psmouse * | data void * | buf char *

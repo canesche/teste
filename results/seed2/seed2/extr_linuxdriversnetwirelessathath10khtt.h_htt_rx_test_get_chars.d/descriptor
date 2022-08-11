@@ -1,0 +1,2 @@
+struct htt_rx_test | num_ints int | payload int * 
+function htt_rx_test_get_chars int * | rx_test struct htt_rx_test *

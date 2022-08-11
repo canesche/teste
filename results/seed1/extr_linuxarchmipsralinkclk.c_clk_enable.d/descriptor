@@ -1,2 +1,0 @@
-struct clk | dummy int 
-function clk_enable int | clk struct clk *

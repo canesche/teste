@@ -1,0 +1,2 @@
+struct kvm | dummy int 
+function kvm_is_ucontrol int | kvm struct kvm *

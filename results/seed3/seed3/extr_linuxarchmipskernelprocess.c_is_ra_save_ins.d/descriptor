@@ -1,0 +1,3 @@
+struct TYPE_2__ | opcode long | rs int | rt int | simmediate int 
+struct mips_instruction | i_format struct TYPE_2__ 
+function is_ra_save_ins int | ip union mips_instruction * | poff int *

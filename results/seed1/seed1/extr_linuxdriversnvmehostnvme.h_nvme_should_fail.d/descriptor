@@ -1,0 +1,2 @@
+struct request | dummy int 
+function nvme_should_fail void | req struct request *

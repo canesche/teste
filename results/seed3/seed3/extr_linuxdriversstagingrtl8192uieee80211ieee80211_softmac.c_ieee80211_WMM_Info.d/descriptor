@@ -1,0 +1,2 @@
+struct ieee80211_device | dummy int 
+function ieee80211_WMM_Info void | ieee struct ieee80211_device * | tag_p int **

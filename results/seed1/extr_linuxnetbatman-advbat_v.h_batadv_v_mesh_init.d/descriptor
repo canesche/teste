@@ -1,2 +1,0 @@
-struct batadv_priv | dummy int 
-function batadv_v_mesh_init int | bat_priv struct batadv_priv *

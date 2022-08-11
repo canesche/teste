@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriverss390netqeth_core_main.c_qeth_compute_cq_notification.d/extr_linuxdriverss390netqeth_core_main.c_qeth_compute_cq_notification_O0::qeth_compute_cq_notification(68)"
+  }
+]

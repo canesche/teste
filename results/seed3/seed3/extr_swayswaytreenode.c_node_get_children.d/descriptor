@@ -1,0 +1,4 @@
+struct sway_node | type int | sway_workspace struct TYPE_4__ * | sway_container struct TYPE_3__ * 
+struct TYPE_4__ | tiling int * 
+struct TYPE_3__ | children int * 
+function node_get_children int * | node struct sway_node *

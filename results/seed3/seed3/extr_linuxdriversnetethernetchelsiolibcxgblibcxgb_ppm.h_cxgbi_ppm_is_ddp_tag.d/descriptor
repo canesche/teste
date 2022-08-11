@@ -1,0 +1,3 @@
+struct TYPE_2__ | no_ddp_mask int 
+struct cxgbi_ppm | tformat struct TYPE_2__ 
+function cxgbi_ppm_is_ddp_tag int | ppm struct cxgbi_ppm * | tag int

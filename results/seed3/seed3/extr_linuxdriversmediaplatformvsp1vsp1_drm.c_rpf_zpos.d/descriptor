@@ -1,0 +1,6 @@
+struct TYPE_6__ | index unsigned long 
+struct vsp1_rwpf | entity struct TYPE_6__ 
+struct vsp1_device | drm struct TYPE_5__ * 
+struct TYPE_5__ | inputs struct TYPE_4__ * 
+struct TYPE_4__ | zpos unsigned int 
+function rpf_zpos unsigned int | vsp1 struct vsp1_device * | rpf struct vsp1_rwpf *

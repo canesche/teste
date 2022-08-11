@@ -1,2 +1,0 @@
-struct dma_buf | dummy int 
-function vmw_prime_dmabuf_vunmap void | dma_buf struct dma_buf * | vaddr void *

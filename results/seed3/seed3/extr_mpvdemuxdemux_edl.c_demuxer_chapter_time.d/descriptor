@@ -1,0 +1,3 @@
+struct demuxer | num_chapters int | chapters struct TYPE_2__ * 
+struct TYPE_2__ | pts double 
+function demuxer_chapter_time double | demuxer struct demuxer * | n int

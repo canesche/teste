@@ -1,2 +1,0 @@
-struct TYPE_3__ | if_eflags int 
-function ifnet_get_fastlane_capable int | interface struct TYPE_3__ * | capable int *

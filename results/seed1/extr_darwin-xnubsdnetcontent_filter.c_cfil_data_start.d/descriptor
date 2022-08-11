@@ -1,2 +1,0 @@
-struct mbuf | m_flags int | m_next struct mbuf * 
-function cfil_data_start struct mbuf * | m struct mbuf *

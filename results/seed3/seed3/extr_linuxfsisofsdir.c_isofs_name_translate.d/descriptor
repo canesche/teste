@@ -1,0 +1,3 @@
+struct iso_directory_record | name char * | name_len int * 
+struct inode | dummy int 
+function isofs_name_translate int | de struct iso_directory_record * | new char * | inode struct inode *

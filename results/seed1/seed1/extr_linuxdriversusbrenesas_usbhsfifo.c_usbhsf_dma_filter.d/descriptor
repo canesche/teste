@@ -1,0 +1,4 @@
+struct TYPE_2__ | slave_id long 
+struct sh_dmae_slave | shdma_slave struct TYPE_2__ 
+struct dma_chan | private struct sh_dmae_slave * 
+function usbhsf_dma_filter int | chan struct dma_chan * | param void *

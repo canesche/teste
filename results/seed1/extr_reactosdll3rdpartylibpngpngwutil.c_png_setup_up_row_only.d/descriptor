@@ -1,2 +1,0 @@
-struct TYPE_3__ | prev_row long * | try_row long * | row_buf long * 
-function png_setup_up_row_only void | png_ptr struct TYPE_3__ * | row_bytes unsigned long

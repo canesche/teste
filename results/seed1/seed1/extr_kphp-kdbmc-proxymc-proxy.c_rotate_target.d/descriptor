@@ -1,0 +1,3 @@
+struct connection | next struct connection * | prev struct connection * 
+struct conn_target | last_conn struct connection * | first_conn struct connection * 
+function rotate_target void | S struct conn_target * | c struct connection *

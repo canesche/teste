@@ -1,2 +1,0 @@
-struct tty_acs_entry | key int 
-function tty_acs_cmp int | key const void * | value const void *

@@ -1,0 +1,4 @@
+struct uwb_rsv_col_set_info | start_col int | interval int | safe_mas_per_col int | unsafe_mas_per_col int 
+struct uwb_rsv_col_info | max_avail_safe int | max_avail_unsafe int | highest_mas int * | csi struct uwb_rsv_col_set_info 
+struct uwb_rsv_alloc_info | safe_allocated_mases int | unsafe_allocated_mases int | total_allocated_mases int | interval int | ci struct uwb_rsv_col_info * 
+function uwb_rsv_find_best_column_set int | ai struct uwb_rsv_alloc_info * | interval int | num_safe_mas int | num_unsafe_mas int

@@ -1,4 +1,0 @@
-struct TYPE_6__ | ifaces int * 
-struct TYPE_7__ | coclass struct TYPE_6__ 
-struct TYPE_8__ | defined int | details struct TYPE_7__ 
-function type_coclass_define struct TYPE_8__ * | coclass struct TYPE_8__ * | ifaces int *

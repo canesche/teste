@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetwirelessbroadcombrcm80211brcmsmacphyphy_n.c_wlc_phy_txpwr_nphy_srom_convert.d/extr_linuxdriversnetwirelessbroadcombrcm80211brcmsmacphyphy_n.c_wlc_phy_txpwr_nphy_srom_convert_O0::wlc_phy_txpwr_nphy_srom_convert(65)"
+  }
+]

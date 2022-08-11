@@ -1,0 +1,2 @@
+struct st_tick_function | func long | arg long 
+function php_compare_tick_functions int | elem1 void * | elem2 void *

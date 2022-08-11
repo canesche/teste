@@ -1,0 +1,2 @@
+struct dm_region_hash | prime int | shift int | mask unsigned int 
+function rh_hash unsigned int | rh struct dm_region_hash * | region int

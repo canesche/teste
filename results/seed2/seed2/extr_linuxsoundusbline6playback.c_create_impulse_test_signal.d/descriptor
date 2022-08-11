@@ -1,0 +1,3 @@
+struct urb | transfer_buffer_length int | transfer_buffer unsigned char * 
+struct snd_line6_pcm | prev_fbuf unsigned char * | impulse_count long | impulse_volume unsigned char | impulse_period long 
+function create_impulse_test_signal void | line6pcm struct snd_line6_pcm * | urb_out struct urb * | bytes_per_frame int

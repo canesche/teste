@@ -1,2 +1,0 @@
-struct line | type long 
-function stage_diff_done int | line struct line * | end struct line *

@@ -1,2 +1,0 @@
-struct ahc_softc | dummy int 
-function ahc_dmamap_destroy void | ahc struct ahc_softc * | dmat int | map int

@@ -1,0 +1,2 @@
+struct map_replace | idx int 
+function map_replace_compar int | p1 const void * | p2 const void *

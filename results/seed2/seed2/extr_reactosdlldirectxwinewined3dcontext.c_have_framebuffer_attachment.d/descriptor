@@ -1,0 +1,3 @@
+struct wined3d_rendertarget_view | format struct TYPE_2__ * 
+struct TYPE_2__ | id long 
+function have_framebuffer_attachment int | rt_count unsigned int | rts struct wined3d_rendertarget_view *const * | ds const struct wined3d_rendertarget_view *

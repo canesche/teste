@@ -1,5 +1,0 @@
-struct TYPE_3__ | mode int | output_mode int | range long | size long 
-struct TYPE_4__ | i struct TYPE_3__ 
-struct nv50_wndw_atom | xlut struct TYPE_4__ 
-struct nv50_wndw | dummy int 
-function wndwc37e_ilut void | wndw struct nv50_wndw * | asyw struct nv50_wndw_atom *

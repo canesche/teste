@@ -1,3 +1,0 @@
-struct TYPE_5__ | style int | page_size unsigned long | top_item unsigned long | nb_items unsigned long | height unsigned long | items struct TYPE_4__ * 
-struct TYPE_4__ | height unsigned long 
-function LISTBOX_GetCurrentPageSize unsigned long | descr const struct TYPE_5__ *

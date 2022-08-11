@@ -1,0 +1,2 @@
+struct bpf_insn_pos | pos int | begin int 
+function pos_get_cnt int | pos struct bpf_insn_pos *

@@ -1,0 +1,2 @@
+struct swap_cluster_info | data unsigned int 
+function cluster_count unsigned int | info struct swap_cluster_info *

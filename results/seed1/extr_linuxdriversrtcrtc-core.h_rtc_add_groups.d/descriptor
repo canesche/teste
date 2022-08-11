@@ -1,3 +1,0 @@
-struct rtc_device | dummy int 
-struct attribute_group | dummy int 
-function rtc_add_groups int | rtc struct rtc_device * | grps const struct attribute_group **

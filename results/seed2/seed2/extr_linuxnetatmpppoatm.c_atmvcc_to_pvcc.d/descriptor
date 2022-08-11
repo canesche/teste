@@ -1,0 +1,3 @@
+struct pppoatm_vcc | dummy int 
+struct atm_vcc | user_back long 
+function atmvcc_to_pvcc struct pppoatm_vcc * | atmvcc const struct atm_vcc *

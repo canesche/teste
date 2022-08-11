@@ -1,0 +1,1 @@
+function keyring_find_key int | name const char * | name_len int | key unsigned char **

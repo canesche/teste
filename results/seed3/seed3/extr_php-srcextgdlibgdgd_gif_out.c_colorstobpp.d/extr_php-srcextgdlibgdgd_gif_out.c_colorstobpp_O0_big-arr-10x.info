@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_php-srcextgdlibgdgd_gif_out.c_colorstobpp.d/extr_php-srcextgdlibgdgd_gif_out.c_colorstobpp_O0::colorstobpp(61)"
+  }
+]

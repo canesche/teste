@@ -1,2 +1,0 @@
-struct net | dummy int 
-function recent_proc_net_init int | net struct net *

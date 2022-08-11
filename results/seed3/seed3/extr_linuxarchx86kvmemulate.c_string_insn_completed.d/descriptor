@@ -1,0 +1,2 @@
+struct x86_emulate_ctxt | b int | rep_prefix long | eflags int 
+function string_insn_completed int | ctxt struct x86_emulate_ctxt *

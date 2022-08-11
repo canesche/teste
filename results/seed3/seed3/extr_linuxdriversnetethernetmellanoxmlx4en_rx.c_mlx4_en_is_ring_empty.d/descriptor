@@ -1,0 +1,2 @@
+struct mlx4_en_rx_ring | prod long | cons long 
+function mlx4_en_is_ring_empty int | ring const struct mlx4_en_rx_ring *

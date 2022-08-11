@@ -1,0 +1,2 @@
+struct aic7770_identity | full_id int | id_mask int 
+function aic7770_find_device struct aic7770_identity * | id int

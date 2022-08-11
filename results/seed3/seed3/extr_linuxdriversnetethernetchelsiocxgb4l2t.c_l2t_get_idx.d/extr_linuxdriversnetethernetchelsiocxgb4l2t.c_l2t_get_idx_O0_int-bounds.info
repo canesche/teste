@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetethernetchelsiocxgb4l2t.c_l2t_get_idx.d/extr_linuxdriversnetethernetchelsiocxgb4l2t.c_l2t_get_idx_O0::l2t_get_idx(63)"
+  }
+]

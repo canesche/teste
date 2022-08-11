@@ -1,0 +1,4 @@
+struct ftmac100_txdes | dummy int 
+struct ftmac100 | tx_clean_pointer unsigned long | descs struct TYPE_2__ * 
+struct TYPE_2__ | txdes struct ftmac100_txdes * 
+function ftmac100_current_clean_txdes struct ftmac100_txdes * | priv struct ftmac100 *

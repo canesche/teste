@@ -1,0 +1,2 @@
+struct btrfs_disk_key | objectid long | type long 
+function btrfs_comp_keys_type int | k1 const struct btrfs_disk_key * | k2 const struct btrfs_disk_key *

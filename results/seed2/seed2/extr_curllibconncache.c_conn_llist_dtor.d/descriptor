@@ -1,0 +1,2 @@
+struct connectdata | bundle int * 
+function conn_llist_dtor void | user void * | element void *

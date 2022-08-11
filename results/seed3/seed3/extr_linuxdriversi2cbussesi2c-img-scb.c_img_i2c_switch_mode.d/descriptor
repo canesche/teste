@@ -1,0 +1,2 @@
+struct img_i2c | mode int | line_status long | int_enable int 
+function img_i2c_switch_mode void | i2c struct img_i2c * | mode enum img_i2c_mode

@@ -1,0 +1,2 @@
+struct TYPE_3__ | cpx_max_key_len unsigned long | cpx_key_len long | cpx_flags long 
+function cpx_init void | cpx struct TYPE_3__ * | key_len unsigned long

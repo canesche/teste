@@ -1,0 +1,3 @@
+struct TYPE_5__ | a struct TYPE_4__ * 
+struct TYPE_4__ | iParent int | nChild int | truthProb int 
+function markTermAsChild void | pWC struct TYPE_5__ * | iChild int | iParent int

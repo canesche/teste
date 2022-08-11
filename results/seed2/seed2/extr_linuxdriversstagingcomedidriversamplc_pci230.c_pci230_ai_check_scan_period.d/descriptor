@@ -1,0 +1,2 @@
+struct comedi_cmd | chanlist_len unsigned int | convert_arg unsigned int | scan_begin_arg unsigned int 
+function pci230_ai_check_scan_period int | cmd struct comedi_cmd *

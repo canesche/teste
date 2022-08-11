@@ -1,9 +1,0 @@
-struct TYPE_8__ | data int | address_hi int | address_lo int 
-struct TYPE_7__ | pin int | irqchip int 
-struct kvm_kernel_irq_routing_entry | msi struct TYPE_8__ | set int | irqchip struct TYPE_7__ 
-struct TYPE_9__ | data int | address_hi int | address_lo int 
-struct TYPE_6__ | pin int | irqchip int 
-struct TYPE_10__ | msi struct TYPE_9__ | irqchip struct TYPE_6__ 
-struct kvm_irq_routing_entry | type int | u struct TYPE_10__ 
-struct kvm | dummy int 
-function kvm_set_routing_entry int | kvm struct kvm * | e struct kvm_kernel_irq_routing_entry * | ue const struct kvm_irq_routing_entry *

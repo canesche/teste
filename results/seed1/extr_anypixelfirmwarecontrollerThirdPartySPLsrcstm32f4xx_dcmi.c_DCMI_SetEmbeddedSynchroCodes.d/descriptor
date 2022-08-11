@@ -1,3 +1,0 @@
-struct TYPE_5__ | ESCR int 
-struct TYPE_4__ | DCMI_FrameStartCode int | DCMI_FrameEndCode long | DCMI_LineEndCode long | DCMI_LineStartCode long 
-function DCMI_SetEmbeddedSynchroCodes void | DCMI_CodesInitStruct struct TYPE_4__ *

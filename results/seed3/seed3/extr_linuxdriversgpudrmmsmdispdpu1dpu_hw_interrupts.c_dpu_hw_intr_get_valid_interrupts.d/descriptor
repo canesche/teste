@@ -1,0 +1,2 @@
+struct dpu_hw_intr | dummy int 
+function dpu_hw_intr_get_valid_interrupts int | intr struct dpu_hw_intr * | mask int *

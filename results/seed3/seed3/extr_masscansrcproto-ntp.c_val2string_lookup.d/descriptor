@@ -1,0 +1,2 @@
+struct Val2String | string const char * | value unsigned int 
+function val2string_lookup const char * | list const struct Val2String * | val unsigned int

@@ -1,0 +1,2 @@
+struct ref | status int | next struct ref * 
+function push_had_errors int | ref struct ref *

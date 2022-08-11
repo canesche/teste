@@ -1,0 +1,3 @@
+struct TYPE_5__ | numBlocks long | indexCacheLen long | indexCache struct TYPE_4__ * 
+struct TYPE_4__ | firstOffset long | lastOffset long | firstSector long 
+function BlockChainStream_GetSectorOfOffset long | This struct TYPE_5__ * | offset long

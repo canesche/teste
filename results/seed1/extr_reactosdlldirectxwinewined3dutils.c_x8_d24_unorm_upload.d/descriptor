@@ -1,1 +1,0 @@
-function x8_d24_unorm_upload void | src const int * | dst int * | src_row_pitch unsigned int | src_slice_pitch unsigned int | dst_row_pitch unsigned int | dst_slice_pitch unsigned int | width unsigned int | height unsigned int | depth unsigned int

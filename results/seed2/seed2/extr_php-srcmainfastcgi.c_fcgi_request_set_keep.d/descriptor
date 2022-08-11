@@ -1,0 +1,2 @@
+struct TYPE_3__ | keep int 
+function fcgi_request_set_keep void | req struct TYPE_3__ * | new_value int

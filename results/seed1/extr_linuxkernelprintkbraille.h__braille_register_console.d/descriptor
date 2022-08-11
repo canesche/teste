@@ -1,3 +1,0 @@
-struct console_cmdline | dummy int 
-struct console | dummy int 
-function _braille_register_console int | console struct console * | c struct console_cmdline *

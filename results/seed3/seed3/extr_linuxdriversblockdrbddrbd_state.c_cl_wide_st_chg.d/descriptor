@@ -1,0 +1,3 @@
+struct drbd_state | conn long | role long | disk long 
+struct drbd_device | dummy int 
+function cl_wide_st_chg int | device struct drbd_device * | os union drbd_state | ns union drbd_state

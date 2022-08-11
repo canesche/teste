@@ -1,0 +1,2 @@
+struct TYPE_3__ | codeword_lengths int * | codewords void ** | sparse int 
+function add_entry void | c struct TYPE_3__ * | huff_code void * | symbol int | count int | len int | values void **

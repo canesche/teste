@@ -1,0 +1,2 @@
+struct vpfe_ipipe_gamma_entry | slope long | offset long 
+function ipipe_validate_gamma_entry int | table struct vpfe_ipipe_gamma_entry * | size int

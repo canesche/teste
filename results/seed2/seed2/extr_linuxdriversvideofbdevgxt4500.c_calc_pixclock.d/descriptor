@@ -1,0 +1,2 @@
+struct gxt4500_par | refclk_ps int | pll_m int | pll_pd1 int | pll_pd2 int | pll_n int 
+function calc_pixclock int | par struct gxt4500_par *

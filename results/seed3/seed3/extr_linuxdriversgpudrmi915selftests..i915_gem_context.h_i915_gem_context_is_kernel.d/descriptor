@@ -1,0 +1,2 @@
+struct i915_gem_context | file_priv int 
+function i915_gem_context_is_kernel int | ctx struct i915_gem_context *

@@ -1,0 +1,2 @@
+struct samsung_pll_rate_table | mdiv int | pdiv int 
+function samsung_pll35xx_mp_change int | rate const struct samsung_pll_rate_table * | pll_con int

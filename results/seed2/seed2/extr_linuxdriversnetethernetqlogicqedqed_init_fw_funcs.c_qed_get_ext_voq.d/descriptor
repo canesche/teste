@@ -1,0 +1,2 @@
+struct qed_hwfn | dummy int 
+function qed_get_ext_voq long | p_hwfn struct qed_hwfn * | port_id long | tc long | max_phys_tcs_per_port long

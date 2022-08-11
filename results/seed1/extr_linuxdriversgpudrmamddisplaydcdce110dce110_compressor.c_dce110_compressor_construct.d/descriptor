@@ -1,7 +1,0 @@
-struct TYPE_5__ | FBC_SUPPORT int | DUMMY_BACKEND int | CLK_GATING_DISABLED int 
-struct TYPE_6__ | bits struct TYPE_5__ | raw long 
-struct TYPE_8__ | lpt_channels_num int | is_enabled int | funcs int * | attached_inst long | dram_channels_num long | channel_interleave_size long | raw_size long | banks_num long | min_compress_ratio int | preferred_requested_size long | allocated_size long | memory_bus_width int | embedded_panel_v_size long | embedded_panel_h_size long | ctx struct dc_context * | options struct TYPE_6__ 
-struct dce110_compressor | base struct TYPE_8__ 
-struct TYPE_7__ | vram_width int 
-struct dc_context | asic_id struct TYPE_7__ 
-function dce110_compressor_construct void | compressor struct dce110_compressor * | ctx struct dc_context *

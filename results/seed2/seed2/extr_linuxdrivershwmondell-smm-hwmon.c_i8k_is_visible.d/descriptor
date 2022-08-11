@@ -1,0 +1,3 @@
+struct kobject | dummy int 
+struct attribute | mode int 
+function i8k_is_visible int | kobj struct kobject * | attr struct attribute * | index int

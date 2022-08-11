@@ -1,7 +1,0 @@
-struct bnad_rx_info | rx_ctrl struct TYPE_6__ * 
-struct bnad | dummy int 
-struct bna_ccb | id unsigned long | ctrl struct TYPE_6__ * | cq struct TYPE_5__ * 
-struct TYPE_6__ | ccb struct bna_ccb * 
-struct TYPE_5__ | rx struct TYPE_4__ * 
-struct TYPE_4__ | priv long 
-function bnad_cb_ccb_setup void | bnad struct bnad * | ccb struct bna_ccb *

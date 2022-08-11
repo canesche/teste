@@ -1,0 +1,2 @@
+struct TYPE_3__ | headers_in int 
+function ngx_http_process_header_line int | r struct TYPE_3__ * | h int * | offset int

@@ -1,0 +1,2 @@
+struct team_port | priority long | index long 
+function team_queue_override_port_has_gt_prio_than int | port struct team_port * | cur struct team_port *

@@ -1,0 +1,4 @@
+struct most_video_dev | ctrl_input unsigned int 
+struct file | dummy int 
+struct comp_fh | mdev struct most_video_dev * 
+function vidioc_s_input int | file struct file * | priv void * | index unsigned int

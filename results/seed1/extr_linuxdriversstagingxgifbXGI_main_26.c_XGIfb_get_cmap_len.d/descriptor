@@ -1,2 +1,0 @@
-struct fb_var_screeninfo | bits_per_pixel int 
-function XGIfb_get_cmap_len int | var const struct fb_var_screeninfo *

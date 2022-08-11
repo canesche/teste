@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_anypixelfirmwarecontrollerThirdPartySPLsrcstm32f4xx_fsmc.c_FSMC_NANDStructInit.d/extr_anypixelfirmwarecontrollerThirdPartySPLsrcstm32f4xx_fsmc.c_FSMC_NANDStructInit_O0::FSMC_NANDStructInit(72)"
+  }
+]

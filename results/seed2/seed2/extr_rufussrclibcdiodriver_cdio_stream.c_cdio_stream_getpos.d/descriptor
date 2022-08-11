@@ -1,0 +1,2 @@
+struct TYPE_3__ | position int | is_open int 
+function cdio_stream_getpos int | p_obj struct TYPE_3__ * | i_offset int *

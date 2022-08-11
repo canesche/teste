@@ -1,0 +1,3 @@
+struct tree_entry | name const char * 
+struct line | data long 
+function tree_path const char * | line const struct line *

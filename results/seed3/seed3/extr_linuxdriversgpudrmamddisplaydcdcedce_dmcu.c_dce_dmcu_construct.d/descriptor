@@ -1,0 +1,7 @@
+struct dmcu | cached_wait_loop_number long | funcs int * | ctx struct dc_context * 
+struct dce_dmcu_shift | dummy int 
+struct dce_dmcu_registers | dummy int 
+struct dce_dmcu_mask | dummy int 
+struct dce_dmcu | dmcu_mask const struct dce_dmcu_mask * | dmcu_shift const struct dce_dmcu_shift * | regs const struct dce_dmcu_registers * | base struct dmcu 
+struct dc_context | dummy int 
+function dce_dmcu_construct void | dmcu_dce struct dce_dmcu * | ctx struct dc_context * | regs const struct dce_dmcu_registers * | dmcu_shift const struct dce_dmcu_shift * | dmcu_mask const struct dce_dmcu_mask *

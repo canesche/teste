@@ -1,0 +1,3 @@
+struct vma_to_fileoffset_map | vma unsigned int | size unsigned int | guard_val unsigned int | offset unsigned int | guard_ptr long | next struct vma_to_fileoffset_map * 
+struct spu | local_store long 
+function vma_map_lookup unsigned int | map struct vma_to_fileoffset_map * | vma unsigned int | aSpu const struct spu * | grd_val int *

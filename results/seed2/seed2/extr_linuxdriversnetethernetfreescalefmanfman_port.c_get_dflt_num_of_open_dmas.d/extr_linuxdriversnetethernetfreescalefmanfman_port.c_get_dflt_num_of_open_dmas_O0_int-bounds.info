@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetfreescalefmanfman_port.c_get_dflt_num_of_open_dmas.d/extr_linuxdriversnetethernetfreescalefmanfman_port.c_get_dflt_num_of_open_dmas_O0::get_dflt_num_of_open_dmas(66)"
+  }
+]

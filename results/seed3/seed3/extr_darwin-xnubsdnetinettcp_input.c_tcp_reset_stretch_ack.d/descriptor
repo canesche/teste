@@ -1,0 +1,2 @@
+struct tcpcb | t_flags int | rcv_waitforss long | t_flagsext int | rcv_unackwin long | rcv_by_unackwin long 
+function tcp_reset_stretch_ack void | tp struct tcpcb *

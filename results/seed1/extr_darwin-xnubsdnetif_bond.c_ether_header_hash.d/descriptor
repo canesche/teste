@@ -1,2 +1,0 @@
-struct ether_header | ether_type int | ether_dhost int * 
-function ether_header_hash int | eh_p struct ether_header *

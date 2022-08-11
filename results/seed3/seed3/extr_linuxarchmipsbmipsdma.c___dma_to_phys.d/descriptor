@@ -1,0 +1,3 @@
+struct device | dummy int 
+struct bmips_dma_range | size long | parent_addr long | child_addr long 
+function __dma_to_phys long | dev struct device * | dma_addr long

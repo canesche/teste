@@ -1,0 +1,1 @@
+function memmove void * | Dest void * | Src const void * | Count int

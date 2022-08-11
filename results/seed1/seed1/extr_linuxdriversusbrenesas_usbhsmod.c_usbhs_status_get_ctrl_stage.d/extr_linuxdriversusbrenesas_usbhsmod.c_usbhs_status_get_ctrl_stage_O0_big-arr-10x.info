@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversusbrenesas_usbhsmod.c_usbhs_status_get_ctrl_stage.d/extr_linuxdriversusbrenesas_usbhsmod.c_usbhs_status_get_ctrl_stage_O0::usbhs_status_get_ctrl_stage(62)"
+  }
+]

@@ -1,0 +1,4 @@
+struct TYPE_6__ | priv struct TYPE_7__ * 
+struct TYPE_7__ | nr_of_channels int | audio_streams struct TYPE_5__ * 
+struct TYPE_5__ | id int | language int 
+function dvd_lang_from_aid int | stream struct TYPE_6__ * | id int

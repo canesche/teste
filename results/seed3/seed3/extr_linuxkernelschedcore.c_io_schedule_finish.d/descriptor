@@ -1,0 +1,2 @@
+struct TYPE_2__ | in_iowait int 
+function io_schedule_finish void | token int

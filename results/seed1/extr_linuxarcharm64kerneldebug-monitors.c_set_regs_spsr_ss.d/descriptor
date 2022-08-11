@@ -1,2 +1,0 @@
-struct pt_regs | pstate int 
-function set_regs_spsr_ss void | regs struct pt_regs *

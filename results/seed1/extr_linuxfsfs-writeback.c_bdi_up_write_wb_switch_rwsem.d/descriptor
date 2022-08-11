@@ -1,2 +1,0 @@
-struct backing_dev_info | dummy int 
-function bdi_up_write_wb_switch_rwsem void | bdi struct backing_dev_info *

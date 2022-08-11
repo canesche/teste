@@ -1,0 +1,2 @@
+struct TYPE_3__ | blocksize int * | previous_blocksize int | valid_extradata long 
+function av_vorbis_parse_reset void | s struct TYPE_3__ *

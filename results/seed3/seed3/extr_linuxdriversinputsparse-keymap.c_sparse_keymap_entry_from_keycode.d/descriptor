@@ -1,0 +1,3 @@
+struct key_entry | type long | keycode unsigned int 
+struct input_dev | keycode struct key_entry * 
+function sparse_keymap_entry_from_keycode struct key_entry * | dev struct input_dev * | keycode unsigned int

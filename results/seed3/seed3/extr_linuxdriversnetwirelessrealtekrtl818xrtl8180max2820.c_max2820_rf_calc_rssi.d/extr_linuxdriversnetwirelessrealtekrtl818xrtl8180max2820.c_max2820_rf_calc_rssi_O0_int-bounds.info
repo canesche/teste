@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetwirelessrealtekrtl818xrtl8180max2820.c_max2820_rf_calc_rssi.d/extr_linuxdriversnetwirelessrealtekrtl818xrtl8180max2820.c_max2820_rf_calc_rssi_O0::max2820_rf_calc_rssi(61)"
+  }
+]

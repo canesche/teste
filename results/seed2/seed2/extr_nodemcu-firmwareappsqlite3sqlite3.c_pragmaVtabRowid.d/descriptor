@@ -1,0 +1,2 @@
+struct TYPE_2__ | iRowid int 
+function pragmaVtabRowid int | pVtabCursor int * | p int *

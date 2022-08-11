@@ -1,0 +1,1 @@
+function noop_apic_icr_write void | low int | id int

@@ -1,0 +1,4 @@
+struct TYPE_2__ | field int | code int | height int | width int 
+struct v4l2_subdev_format | format struct TYPE_2__ 
+struct imx258_mode | height int | width int 
+function imx258_update_pad_format void | mode const struct imx258_mode * | fmt struct v4l2_subdev_format *

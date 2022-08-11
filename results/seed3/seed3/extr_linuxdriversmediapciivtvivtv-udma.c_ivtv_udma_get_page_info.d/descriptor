@@ -1,0 +1,2 @@
+struct ivtv_dma_page_info | uaddr unsigned long | offset unsigned long | tail int | first unsigned long | last unsigned long | page_count unsigned long 
+function ivtv_udma_get_page_info void | dma_page struct ivtv_dma_page_info * | first unsigned long | size unsigned long

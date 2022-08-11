@@ -1,3 +1,0 @@
-struct window_pane | xoff long | sx long | yoff long | sy long 
-struct mouse_event | lx long | ly long | x long | y long | statusat long 
-function cmd_mouse_at int | wp struct window_pane * | m struct mouse_event * | xp long * | yp long * | last int

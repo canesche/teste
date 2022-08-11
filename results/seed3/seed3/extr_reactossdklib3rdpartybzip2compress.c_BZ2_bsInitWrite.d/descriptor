@@ -1,0 +1,2 @@
+struct TYPE_3__ | bsBuff long | bsLive long 
+function BZ2_bsInitWrite void | s struct TYPE_3__ *

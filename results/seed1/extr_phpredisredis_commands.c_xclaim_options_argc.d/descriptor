@@ -1,3 +1,0 @@
-struct TYPE_4__ | time int | type int * 
-struct TYPE_5__ | retrycount int | justid long | force long | idle struct TYPE_4__ 
-function xclaim_options_argc int | opt struct TYPE_5__ *

@@ -1,2 +1,0 @@
-struct drm_encoder | dummy int 
-function mga_encoder_commit void | encoder struct drm_encoder *

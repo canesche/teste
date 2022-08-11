@@ -1,3 +1,0 @@
-struct rproc | priv struct q6v5_wcss * 
-struct q6v5_wcss | mem_reloc int | mem_size int | mem_region void * 
-function q6v5_wcss_da_to_va void * | rproc struct rproc * | da int | len int

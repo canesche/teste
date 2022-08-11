@@ -1,0 +1,3 @@
+struct TYPE_2__ | ws_row long 
+struct perf_top | winsize struct TYPE_2__ | print_entries long 
+function perf_top__update_print_entries void | top struct perf_top *

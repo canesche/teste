@@ -1,2 +1,0 @@
-struct macb | caps int 
-function macb_is_gem int | bp struct macb *

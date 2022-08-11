@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_obs-studiodepsmedia-playbackmedia-playbackmedia.c_mp_media_ready_to_start.d/extr_obs-studiodepsmedia-playbackmedia-playbackmedia.c_mp_media_ready_to_start_O0::mp_media_ready_to_start(67)"
+  }
+]

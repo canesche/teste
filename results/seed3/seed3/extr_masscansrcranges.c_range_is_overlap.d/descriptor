@@ -1,0 +1,2 @@
+struct Range | begin int | end int 
+function range_is_overlap int | lhs struct Range | rhs struct Range

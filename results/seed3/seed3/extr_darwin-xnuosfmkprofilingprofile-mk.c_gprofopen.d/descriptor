@@ -1,0 +1,2 @@
+struct TYPE_3__ | io_error int 
+function gprofopen int | dev int | flags int | ior struct TYPE_3__ *

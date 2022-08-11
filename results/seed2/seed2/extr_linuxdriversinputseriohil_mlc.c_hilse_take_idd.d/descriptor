@@ -1,0 +1,3 @@
+struct TYPE_4__ | idd int * 
+struct TYPE_5__ | ipacket int * | ddi int | di_scratch struct TYPE_4__ 
+function hilse_take_idd int | mlc struct TYPE_5__ * | unused int

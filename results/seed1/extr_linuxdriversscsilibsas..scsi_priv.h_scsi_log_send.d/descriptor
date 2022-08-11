@@ -1,2 +1,0 @@
-struct scsi_cmnd | dummy int 
-function scsi_log_send void | cmd struct scsi_cmnd *

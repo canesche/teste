@@ -1,0 +1,3 @@
+struct TYPE_5__ | ctx struct TYPE_4__ * | info_callback int * 
+struct TYPE_4__ | info_callback int * 
+function get_callback int * | s struct TYPE_5__ *

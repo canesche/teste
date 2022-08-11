@@ -1,0 +1,2 @@
+struct ac97_codec_id | id int | mask unsigned int 
+function look_for_codec_id const struct ac97_codec_id * | table const struct ac97_codec_id * | id unsigned int

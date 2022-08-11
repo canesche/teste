@@ -1,0 +1,2 @@
+struct stream | demuxer char * 
+function s_open int | stream struct stream *

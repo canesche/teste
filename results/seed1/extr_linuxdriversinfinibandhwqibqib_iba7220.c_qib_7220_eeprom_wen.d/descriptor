@@ -1,2 +1,0 @@
-struct qib_devdata | dummy int 
-function qib_7220_eeprom_wen int | dd struct qib_devdata * | wen int

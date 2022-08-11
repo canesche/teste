@@ -1,1 +1,0 @@
-function ngx_rstrncmp long | s1 long * | s2 long * | n unsigned long

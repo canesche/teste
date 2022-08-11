@@ -1,2 +1,0 @@
-struct TYPE_3__ | state int 
-function islpci_get_state int | priv struct TYPE_3__ *

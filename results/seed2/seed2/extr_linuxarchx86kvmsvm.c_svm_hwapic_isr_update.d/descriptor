@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function svm_hwapic_isr_update void | vcpu struct kvm_vcpu * | max_isr int

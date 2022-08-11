@@ -1,0 +1,3 @@
+struct TYPE_2__ | nprim unsigned int 
+struct policydb | p_classes struct TYPE_2__ 
+function policydb_class_isvalid int | p struct policydb * | class unsigned int

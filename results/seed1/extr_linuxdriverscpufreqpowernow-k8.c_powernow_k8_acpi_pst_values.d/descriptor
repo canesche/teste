@@ -1,4 +1,0 @@
-struct TYPE_4__ | states struct TYPE_3__ * | state_count int 
-struct powernow_k8_data | irt int | rvo int | exttype int | plllock int | vidmvs int | vstable int | acpi_data struct TYPE_4__ 
-struct TYPE_3__ | control int 
-function powernow_k8_acpi_pst_values void | data struct powernow_k8_data * | index unsigned int

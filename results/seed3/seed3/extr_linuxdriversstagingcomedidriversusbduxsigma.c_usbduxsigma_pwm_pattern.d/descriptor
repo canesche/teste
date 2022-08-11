@@ -1,0 +1,5 @@
+struct usbduxsigma_private | pwm_buf_sz int | pwm_urb struct TYPE_2__ * 
+struct comedi_subdevice | dummy int 
+struct comedi_device | private struct usbduxsigma_private * 
+struct TYPE_2__ | transfer_buffer long 
+function usbduxsigma_pwm_pattern void | dev struct comedi_device * | s struct comedi_subdevice * | chan unsigned int | value unsigned int | sign unsigned int

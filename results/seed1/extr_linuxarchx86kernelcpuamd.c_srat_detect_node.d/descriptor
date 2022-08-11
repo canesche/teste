@@ -1,2 +1,0 @@
-struct cpuinfo_x86 | dummy int 
-function srat_detect_node void | c struct cpuinfo_x86 *

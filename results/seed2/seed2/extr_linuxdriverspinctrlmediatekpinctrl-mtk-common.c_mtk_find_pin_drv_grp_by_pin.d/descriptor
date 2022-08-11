@@ -1,0 +1,4 @@
+struct mtk_pinctrl | devdata struct TYPE_2__ * 
+struct mtk_pin_drv_grp | pin unsigned long 
+struct TYPE_2__ | n_pin_drv_grps int | pin_drv_grp struct mtk_pin_drv_grp * 
+function mtk_find_pin_drv_grp_by_pin const struct mtk_pin_drv_grp * | pctl struct mtk_pinctrl * | pin unsigned long

@@ -1,0 +1,2 @@
+struct ieee80211_channel | flags int 
+function is_ht40_allowed int | chan struct ieee80211_channel *

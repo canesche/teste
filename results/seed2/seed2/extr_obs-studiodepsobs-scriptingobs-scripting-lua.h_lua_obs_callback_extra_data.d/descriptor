@@ -1,0 +1,2 @@
+struct lua_obs_callback | dummy int 
+function lua_obs_callback_extra_data void * | cb struct lua_obs_callback *

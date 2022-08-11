@@ -1,0 +1,3 @@
+struct TYPE_4__ | dataStart int | SectorsPerCluster int 
+struct TYPE_5__ | FatInfo struct TYPE_4__ 
+function ClusterToSector int | DeviceExt struct TYPE_5__ * | Cluster int

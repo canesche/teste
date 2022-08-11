@@ -1,0 +1,3 @@
+struct synquacer_i2c | msg_ptr long | msg struct TYPE_2__ * 
+struct TYPE_2__ | len long 
+function is_msgend int | i2c struct synquacer_i2c *

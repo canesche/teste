@@ -1,0 +1,4 @@
+struct TYPE_3__ | addr long 
+struct TYPE_4__ | buf struct TYPE_3__ 
+struct ef4_tx_queue | txd struct TYPE_4__ 
+function ef4_tx_desc int * | tx_queue struct ef4_tx_queue * | index unsigned int

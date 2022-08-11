@@ -1,0 +1,2 @@
+struct TYPE_2__ | callback void (*)() | count long 
+function button_del_callback int | callback void (*)(void)

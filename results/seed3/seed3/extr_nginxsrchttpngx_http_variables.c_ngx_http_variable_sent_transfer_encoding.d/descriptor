@@ -1,0 +1,3 @@
+struct TYPE_5__ | len int | valid int | not_found int | data int * | no_cacheable long 
+struct TYPE_6__ | chunked long 
+function ngx_http_variable_sent_transfer_encoding int | r struct TYPE_6__ * | v struct TYPE_5__ * | data unsigned long

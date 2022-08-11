@@ -1,0 +1,4 @@
+struct drm_display_mode | vsync_start int | vdisplay int | vtotal int | vsync_end int | hsync_start int | hdisplay int | htotal int | hsync_end int 
+struct atmel_hlcdc_dc | desc struct TYPE_2__ * 
+struct TYPE_2__ | max_spw int | max_hpw int | max_vpw int 
+function atmel_hlcdc_dc_mode_valid enum drm_mode_status | dc struct atmel_hlcdc_dc * | mode const struct drm_display_mode *

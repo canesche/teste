@@ -1,0 +1,3 @@
+struct TYPE_2__ | def_char long 
+struct sbcs_table | cp2uni long * | info struct TYPE_2__ 
+function is_valid_sbcs_mapping int | table const struct sbcs_table * | flags int | wch long | ch unsigned char

@@ -1,0 +1,2 @@
+struct TYPE_3__ | texture int * 
+function gs_shader_set_texture void | param struct TYPE_3__ * | val int *

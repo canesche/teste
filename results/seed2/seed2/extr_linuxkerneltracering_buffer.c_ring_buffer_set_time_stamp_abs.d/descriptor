@@ -1,0 +1,2 @@
+struct ring_buffer | time_stamp_abs int 
+function ring_buffer_set_time_stamp_abs void | buffer struct ring_buffer * | abs int

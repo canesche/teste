@@ -1,2 +1,0 @@
-struct mlx5_ib_dev | dummy int 
-function mlx5_ib_register_vport_reps void | dev struct mlx5_ib_dev *

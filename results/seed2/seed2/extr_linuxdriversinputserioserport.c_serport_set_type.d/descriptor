@@ -1,0 +1,4 @@
+struct tty_struct | disc_data struct serport * 
+struct TYPE_2__ | proto unsigned long | id unsigned long | extra unsigned long 
+struct serport | id struct TYPE_2__ 
+function serport_set_type void | tty struct tty_struct * | type unsigned long

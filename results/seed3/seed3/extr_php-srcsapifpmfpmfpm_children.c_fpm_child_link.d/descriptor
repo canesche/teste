@@ -1,0 +1,4 @@
+struct fpm_worker_pool_s | children struct fpm_child_s * | running_children int 
+struct fpm_child_s | prev struct fpm_child_s * | next struct fpm_child_s * | wp struct fpm_worker_pool_s * 
+struct TYPE_2__ | running_children int 
+function fpm_child_link void | child struct fpm_child_s *

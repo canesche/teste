@@ -1,0 +1,2 @@
+struct TYPE_3__ | crop_x unsigned int | crop_y unsigned int | crop_w unsigned int | crop_h unsigned int 
+function zbar_image_get_crop void | img const struct TYPE_3__ * | x unsigned int * | y unsigned int * | w unsigned int * | h unsigned int *

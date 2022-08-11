@@ -1,2 +1,0 @@
-struct device | dummy int 
-function wm8350_precious int | dev struct device * | reg unsigned int

@@ -1,0 +1,4 @@
+struct owl_pinctrl | soc struct TYPE_2__ * 
+struct owl_gpio_port | pins unsigned int 
+struct TYPE_2__ | nports unsigned int | ports struct owl_gpio_port * 
+function owl_gpio_get_port const struct owl_gpio_port * | pctrl struct owl_pinctrl * | pin unsigned int *

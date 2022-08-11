@@ -1,2 +1,0 @@
-struct socket | dummy int 
-function sock_no_socketpair int | sock1 struct socket * | sock2 struct socket *

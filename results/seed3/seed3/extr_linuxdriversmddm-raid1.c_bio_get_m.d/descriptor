@@ -1,0 +1,3 @@
+struct mirror | dummy int 
+struct bio | bi_next long 
+function bio_get_m struct mirror * | bio struct bio *

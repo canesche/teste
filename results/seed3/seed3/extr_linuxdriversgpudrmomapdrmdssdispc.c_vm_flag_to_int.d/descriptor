@@ -1,0 +1,1 @@
+function vm_flag_to_int int | flags enum display_flags | high enum display_flags | low enum display_flags

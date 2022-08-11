@@ -1,3 +1,0 @@
-struct crypto_alg | cra_flags int | cra_type int * 
-struct kpp_alg | base struct crypto_alg 
-function kpp_prepare_alg void | alg struct kpp_alg *

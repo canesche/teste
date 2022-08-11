@@ -1,0 +1,4 @@
+struct mpv_global | config struct TYPE_2__ * 
+struct m_config | dummy int 
+struct TYPE_2__ | root struct m_config * 
+function mp_get_root_config struct m_config * | global struct mpv_global *

@@ -1,0 +1,2 @@
+struct fq_flow | next int * 
+function fq_flow_is_throttled int | f const struct fq_flow *

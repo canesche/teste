@@ -1,2 +1,0 @@
-struct TYPE_3__ | base int * | previousDstEnd int * | phase long | expected int 
-function ZSTD_resetDCtx unsigned long | dctx struct TYPE_3__ *

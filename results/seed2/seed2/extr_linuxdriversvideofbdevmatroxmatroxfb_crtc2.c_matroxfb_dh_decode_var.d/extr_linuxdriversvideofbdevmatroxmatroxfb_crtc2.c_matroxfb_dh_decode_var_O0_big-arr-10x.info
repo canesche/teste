@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversvideofbdevmatroxmatroxfb_crtc2.c_matroxfb_dh_decode_var.d/extr_linuxdriversvideofbdevmatroxmatroxfb_crtc2.c_matroxfb_dh_decode_var_O0::matroxfb_dh_decode_var(77)"
+  }
+]

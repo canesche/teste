@@ -1,3 +1,0 @@
-struct TYPE_4__ | Y unsigned long | X unsigned long 
-struct TYPE_5__ | VirtualY unsigned long | ScreenBufferSize struct TYPE_4__ | Buffer int * 
-function ConioCoordToPointer int * | Buff struct TYPE_5__ * | X unsigned long | Y unsigned long

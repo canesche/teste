@@ -1,0 +1,3 @@
+struct snd_dma_buffer | dummy int 
+struct azx | dummy int 
+function mark_pages_wc void | chip struct azx * | buf struct snd_dma_buffer * | on int

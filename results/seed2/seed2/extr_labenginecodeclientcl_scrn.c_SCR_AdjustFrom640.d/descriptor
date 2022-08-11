@@ -1,0 +1,3 @@
+struct TYPE_3__ | vidWidth double | vidHeight double 
+struct TYPE_4__ | glconfig struct TYPE_3__ 
+function SCR_AdjustFrom640 void | x float * | y float * | w float * | h float *

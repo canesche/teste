@@ -1,0 +1,3 @@
+struct TYPE_4__ | name const char * | filter struct TYPE_3__ * 
+struct TYPE_3__ | name const char * 
+function default_filter_name const char * | filter_ctx void *

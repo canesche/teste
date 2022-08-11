@@ -1,2 +1,0 @@
-struct sdhci_pci_slot | dummy int 
-function sdhci_pci_add_own_cd void | slot struct sdhci_pci_slot *

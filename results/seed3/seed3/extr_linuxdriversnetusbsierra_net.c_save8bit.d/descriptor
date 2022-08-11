@@ -1,0 +1,2 @@
+struct param | is_present int | byte int 
+function save8bit const int * | p struct param * | datap const int *

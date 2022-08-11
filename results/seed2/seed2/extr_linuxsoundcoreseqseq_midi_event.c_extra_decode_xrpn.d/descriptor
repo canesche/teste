@@ -1,0 +1,5 @@
+struct TYPE_3__ | channel int | param int | value int 
+struct TYPE_4__ | control struct TYPE_3__ 
+struct snd_seq_event | type long | data struct TYPE_4__ 
+struct snd_midi_event | lastcmd unsigned char | nostat long 
+function extra_decode_xrpn int | dev struct snd_midi_event * | buf unsigned char * | count int | ev struct snd_seq_event *

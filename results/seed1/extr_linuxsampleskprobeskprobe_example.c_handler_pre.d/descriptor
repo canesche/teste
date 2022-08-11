@@ -1,3 +1,0 @@
-struct pt_regs | dummy int 
-struct kprobe | dummy int 
-function handler_pre int | p struct kprobe * | regs struct pt_regs *

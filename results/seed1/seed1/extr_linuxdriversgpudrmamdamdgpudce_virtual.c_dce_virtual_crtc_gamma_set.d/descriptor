@@ -1,0 +1,3 @@
+struct drm_modeset_acquire_ctx | dummy int 
+struct drm_crtc | dummy int 
+function dce_virtual_crtc_gamma_set int | crtc struct drm_crtc * | red int * | green int * | blue int * | size int | ctx struct drm_modeset_acquire_ctx *

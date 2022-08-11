@@ -1,0 +1,2 @@
+struct drm_panel | dummy int 
+function s6e8aa0_disable int | panel struct drm_panel *

@@ -1,0 +1,2 @@
+struct cx231xx | dummy int 
+function cx231xx_config int | dev struct cx231xx *

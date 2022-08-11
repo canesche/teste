@@ -1,2 +1,0 @@
-struct comedi_async | buf_read_alloc_count unsigned int | buf_read_count unsigned int 
-function comedi_buf_read_n_allocated unsigned int | async struct comedi_async *

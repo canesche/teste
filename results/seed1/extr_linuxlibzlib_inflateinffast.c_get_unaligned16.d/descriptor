@@ -1,2 +1,0 @@
-struct uu | b unsigned char * | us unsigned short 
-function get_unaligned16 unsigned short | p const unsigned short *

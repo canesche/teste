@@ -1,0 +1,3 @@
+struct TYPE_4__ | encoding int * | flag int | status int 
+struct TYPE_5__ | filter_list_size int | filter_list struct TYPE_4__ ** | strict int 
+function mbfl_encoding_detector_judge const int * | identd struct TYPE_5__ *

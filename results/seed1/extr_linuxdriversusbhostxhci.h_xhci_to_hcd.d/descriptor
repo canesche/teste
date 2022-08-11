@@ -1,3 +1,0 @@
-struct xhci_hcd | main_hcd struct usb_hcd * 
-struct usb_hcd | dummy int 
-function xhci_to_hcd struct usb_hcd * | xhci struct xhci_hcd *

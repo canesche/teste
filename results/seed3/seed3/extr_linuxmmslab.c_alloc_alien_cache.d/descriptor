@@ -1,0 +1,2 @@
+struct alien_cache | dummy int 
+function alloc_alien_cache struct alien_cache ** | node int | limit int | gfp int

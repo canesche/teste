@@ -1,0 +1,2 @@
+struct vm_area_struct | vm_flags int 
+function invalid_mkclean_vma int | vma struct vm_area_struct * | arg void *

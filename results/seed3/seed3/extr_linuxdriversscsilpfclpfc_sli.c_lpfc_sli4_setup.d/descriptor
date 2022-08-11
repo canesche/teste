@@ -1,0 +1,6 @@
+struct lpfc_sli_ring | prt struct TYPE_6__ * | num_mask int 
+struct TYPE_5__ | els_wq struct TYPE_4__ * 
+struct lpfc_hba | sli4_hba struct TYPE_5__ 
+struct TYPE_6__ | lpfc_sli_rcv_unsol_event void * | type void * | rctl int | profile long 
+struct TYPE_4__ | pring struct lpfc_sli_ring * 
+function lpfc_sli4_setup int | phba struct lpfc_hba *

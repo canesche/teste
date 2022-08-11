@@ -1,0 +1,2 @@
+struct TYPE_3__ | nRemaining int 
+function sqlite3_backup_remaining int | p struct TYPE_3__ *

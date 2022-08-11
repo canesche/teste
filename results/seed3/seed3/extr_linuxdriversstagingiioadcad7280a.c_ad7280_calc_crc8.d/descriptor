@@ -1,0 +1,1 @@
+function ad7280_calc_crc8 unsigned char | crc_tab unsigned char * | val unsigned int

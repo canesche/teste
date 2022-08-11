@@ -1,4 +1,0 @@
-struct sk_buff | dummy int 
-struct net_bridge_port | dummy int 
-struct net_bridge | dummy int 
-function br_multicast_rcv int | br struct net_bridge * | port struct net_bridge_port * | skb struct sk_buff * | vid int

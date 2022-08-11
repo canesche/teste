@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxsoundhdahdmi_chmap.c_hdmi_chmap_cea_alloc_validate_get_type.d/extr_linuxsoundhdahdmi_chmap.c_hdmi_chmap_cea_alloc_validate_get_type_O0::hdmi_chmap_cea_alloc_validate_get_type(64)"
+  }
+]

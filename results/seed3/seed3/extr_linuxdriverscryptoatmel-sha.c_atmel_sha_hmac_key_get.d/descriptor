@@ -1,0 +1,2 @@
+struct atmel_sha_hmac_key | keylen unsigned int | buffer int * | keydup int * | valid int 
+function atmel_sha_hmac_key_get int | hkey const struct atmel_sha_hmac_key * | key const int ** | keylen unsigned int *

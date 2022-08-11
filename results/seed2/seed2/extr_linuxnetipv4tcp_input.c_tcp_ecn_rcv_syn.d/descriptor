@@ -1,0 +1,3 @@
+struct tcphdr | cwr int | ece int 
+struct tcp_sock | ecn_flags int 
+function tcp_ecn_rcv_syn void | tp struct tcp_sock * | th const struct tcphdr *

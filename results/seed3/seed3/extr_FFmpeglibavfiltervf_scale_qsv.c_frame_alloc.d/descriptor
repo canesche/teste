@@ -1,0 +1,5 @@
+struct TYPE_10__ | NumFrameActual int | mids int 
+struct TYPE_11__ | Type int 
+struct TYPE_12__ | nb_mem_ids_out int | mem_ids_out int | nb_mem_ids_in int | mem_ids_in int 
+struct TYPE_9__ | priv struct TYPE_12__ * 
+function frame_alloc int | pthis struct TYPE_9__ * | req struct TYPE_11__ * | resp struct TYPE_10__ *

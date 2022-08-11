@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 161,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverspcmciasoc_common.c_calc_speed.d/extr_linuxdriverspcmciasoc_common.c_calc_speed_O0::calc_speed(61)"
+  }
+]

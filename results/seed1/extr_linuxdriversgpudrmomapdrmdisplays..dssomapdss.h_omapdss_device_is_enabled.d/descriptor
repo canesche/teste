@@ -1,2 +1,0 @@
-struct omap_dss_device | state long 
-function omapdss_device_is_enabled int | dssdev struct omap_dss_device *

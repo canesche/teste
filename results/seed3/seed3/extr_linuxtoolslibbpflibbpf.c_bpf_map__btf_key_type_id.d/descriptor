@@ -1,0 +1,2 @@
+struct bpf_map | btf_key_type_id int 
+function bpf_map__btf_key_type_id int | map const struct bpf_map *

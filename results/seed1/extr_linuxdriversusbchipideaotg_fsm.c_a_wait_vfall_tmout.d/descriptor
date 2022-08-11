@@ -1,3 +1,0 @@
-struct TYPE_2__ | a_wait_vfall_tmout int 
-struct ci_hdrc | fsm struct TYPE_2__ 
-function a_wait_vfall_tmout int | ci struct ci_hdrc *

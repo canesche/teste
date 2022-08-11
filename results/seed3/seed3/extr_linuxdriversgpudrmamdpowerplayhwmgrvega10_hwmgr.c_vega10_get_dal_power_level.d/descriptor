@@ -1,0 +1,5 @@
+struct pp_hwmgr | pptable long 
+struct phm_clock_and_voltage_limits | mclk int | sclk int 
+struct phm_ppt_v2_information | max_clock_voltage_on_ac struct phm_clock_and_voltage_limits 
+struct amd_pp_simple_clock_info | memory_max_clock int | engine_max_clock int 
+function vega10_get_dal_power_level int | hwmgr struct pp_hwmgr * | info struct amd_pp_simple_clock_info *

@@ -1,2 +1,0 @@
-struct adapter | dummy int 
-function hal_btcoex_SetDBG void | padapter struct adapter * | pDbgModule unsigned long *

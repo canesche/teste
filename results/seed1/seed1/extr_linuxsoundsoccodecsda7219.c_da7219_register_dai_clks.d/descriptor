@@ -1,0 +1,2 @@
+struct snd_soc_component | dummy int 
+function da7219_register_dai_clks void | component struct snd_soc_component *

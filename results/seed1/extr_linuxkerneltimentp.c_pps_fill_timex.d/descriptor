@@ -1,2 +1,0 @@
-struct timex | stbcnt long | errcnt long | calcnt long | jitcnt long | stabil long | shift long | jitter long | ppsfreq long 
-function pps_fill_timex void | txc struct timex *

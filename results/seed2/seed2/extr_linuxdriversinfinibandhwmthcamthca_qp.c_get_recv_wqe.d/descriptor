@@ -1,0 +1,6 @@
+struct TYPE_8__ | wqe_shift int 
+struct TYPE_5__ | buf void * 
+struct TYPE_7__ | page_list struct TYPE_6__ * | direct struct TYPE_5__ 
+struct mthca_qp | rq struct TYPE_8__ | queue struct TYPE_7__ | is_direct long 
+struct TYPE_6__ | buf void * 
+function get_recv_wqe void * | qp struct mthca_qp * | n int

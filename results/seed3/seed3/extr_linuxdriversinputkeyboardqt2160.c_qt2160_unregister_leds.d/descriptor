@@ -1,0 +1,2 @@
+struct qt2160_data | dummy int 
+function qt2160_unregister_leds void | qt2160 struct qt2160_data *

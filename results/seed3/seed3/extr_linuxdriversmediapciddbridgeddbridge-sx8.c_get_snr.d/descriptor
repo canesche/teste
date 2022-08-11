@@ -1,0 +1,8 @@
+struct TYPE_5__ | signal_to_noise long 
+struct TYPE_6__ | dvbs2_signal_info struct TYPE_5__ 
+struct sx8 | signal_info struct TYPE_6__ 
+struct TYPE_7__ | len int | stat struct TYPE_8__ * 
+struct dtv_frontend_properties | cnr struct TYPE_7__ 
+struct dvb_frontend | dtv_property_cache struct dtv_frontend_properties | demodulator_priv struct sx8 * 
+struct TYPE_8__ | svalue int | scale int 
+function get_snr int | fe struct dvb_frontend *

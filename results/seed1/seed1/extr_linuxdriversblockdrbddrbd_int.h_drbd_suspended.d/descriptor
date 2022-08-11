@@ -1,0 +1,3 @@
+struct drbd_resource | susp_nod long | susp_fen long | susp long 
+struct drbd_device | resource struct drbd_resource * 
+function drbd_suspended int | device struct drbd_device *

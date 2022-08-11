@@ -1,0 +1,2 @@
+struct regmap_config | val_bits int | reg_bits int | pad_bits long 
+function regmap_sdw_config_check int | config const struct regmap_config *

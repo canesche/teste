@@ -1,0 +1,2 @@
+struct kobject | dummy int 
+function bch_stats_release void | k struct kobject *

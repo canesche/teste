@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6138,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_darknetsrcstb_image_write.h_stbiw__zlib_countm.d/extr_darknetsrcstb_image_write.h_stbiw__zlib_countm_O0::stbiw__zlib_countm(60)"
+  }
+]

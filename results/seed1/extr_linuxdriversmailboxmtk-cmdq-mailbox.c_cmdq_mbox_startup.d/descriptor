@@ -1,2 +1,0 @@
-struct mbox_chan | dummy int 
-function cmdq_mbox_startup int | chan struct mbox_chan *

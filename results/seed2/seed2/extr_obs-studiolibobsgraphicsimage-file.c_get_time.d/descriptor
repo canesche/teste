@@ -1,0 +1,4 @@
+struct TYPE_6__ | frames struct TYPE_5__ * 
+struct TYPE_7__ | gif struct TYPE_6__ 
+struct TYPE_5__ | frame_delay long 
+function get_time unsigned long long | image struct TYPE_7__ * | i int

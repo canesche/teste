@@ -1,0 +1,3 @@
+struct TYPE_2__ | disable_bgt int 
+struct ubi_device | dbg struct TYPE_2__ 
+function ubi_dbg_is_bgt_disabled int | ubi const struct ubi_device *

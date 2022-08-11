@@ -1,2 +1,0 @@
-struct dlm_lkb | lkb_sbflags int 
-function is_altmode int | lkb struct dlm_lkb *

@@ -1,0 +1,6 @@
+struct snd_pcm_substream | stream unsigned long 
+struct dmaengine_pcm | chan struct TYPE_4__ ** 
+struct device | dummy int 
+struct TYPE_4__ | device struct TYPE_3__ * 
+struct TYPE_3__ | dev struct device * 
+function dmaengine_dma_dev struct device * | pcm struct dmaengine_pcm * | substream struct snd_pcm_substream *

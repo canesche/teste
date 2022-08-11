@@ -1,0 +1,4 @@
+struct max8998_irq_data | dummy int 
+struct max8998_dev | dummy int 
+struct irq_data | hwirq unsigned long 
+function irq_to_max8998_irq struct max8998_irq_data * | max8998 struct max8998_dev * | data struct irq_data *

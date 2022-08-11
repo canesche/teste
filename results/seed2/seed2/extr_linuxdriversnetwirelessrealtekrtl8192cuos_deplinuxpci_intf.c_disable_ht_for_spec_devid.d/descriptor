@@ -1,0 +1,2 @@
+struct pci_device_id | dummy int 
+function disable_ht_for_spec_devid void | pdid const struct pci_device_id *

@@ -1,0 +1,2 @@
+struct klp_object | name int 
+function klp_is_module int | obj struct klp_object *

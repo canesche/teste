@@ -1,2 +1,0 @@
-struct pt_regs | cr_ifs long 
-function in_syscall int | pt struct pt_regs *

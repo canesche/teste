@@ -1,0 +1,3 @@
+struct snd_hwdep | dummy int 
+struct file | dummy int 
+function snd_hdspm_hwdep_dummy_op int | hw struct snd_hwdep * | file struct file *

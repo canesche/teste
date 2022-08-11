@@ -1,0 +1,2 @@
+struct ipmmu_vmsa_device | root struct ipmmu_vmsa_device * 
+function ipmmu_is_root int | mmu struct ipmmu_vmsa_device *

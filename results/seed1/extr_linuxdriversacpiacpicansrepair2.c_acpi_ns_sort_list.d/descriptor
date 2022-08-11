@@ -1,4 +1,0 @@
-struct TYPE_4__ | value long 
-struct TYPE_3__ | elements union acpi_operand_object ** 
-struct acpi_operand_object | integer struct TYPE_4__ | package struct TYPE_3__ 
-function acpi_ns_sort_list void | elements union acpi_operand_object ** | count int | index int | sort_direction long

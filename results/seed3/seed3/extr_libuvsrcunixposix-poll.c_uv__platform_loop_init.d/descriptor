@@ -1,0 +1,2 @@
+struct TYPE_3__ | poll_fds_iterating long | poll_fds_size long | poll_fds_used long | poll_fds int * 
+function uv__platform_loop_init int | loop struct TYPE_3__ *

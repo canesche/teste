@@ -1,0 +1,3 @@
+struct cached_dev | dummy int 
+struct bio | dummy int 
+function bch_data_verify void | dc struct cached_dev * | bio struct bio *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_radare2shlrzipzipzip_utf-8.c__zip_unicode_to_utf8_len.d/extr_radare2shlrzipzipzip_utf-8.c__zip_unicode_to_utf8_len_O0::_zip_unicode_to_utf8_len(62)"
+  }
+]

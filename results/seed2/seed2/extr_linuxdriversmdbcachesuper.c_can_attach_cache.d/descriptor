@@ -1,0 +1,5 @@
+struct TYPE_4__ | block_size long | bucket_size long | nr_in_set long 
+struct cache_set | sb struct TYPE_4__ 
+struct TYPE_3__ | block_size long | bucket_size long | nr_in_set long 
+struct cache | sb struct TYPE_3__ 
+function can_attach_cache int | ca struct cache * | c struct cache_set *

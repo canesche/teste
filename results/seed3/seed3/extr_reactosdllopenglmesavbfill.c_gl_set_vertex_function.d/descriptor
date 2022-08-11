@@ -1,0 +1,8 @@
+struct TYPE_14__ | Vertex3fv void * | Vertex4f int | Vertex3f void * | Vertex2f void * 
+struct TYPE_13__ | Vertex3fv void * | Vertex4f int | Vertex3f void * | Vertex2f void * 
+struct TYPE_12__ | Enabled long 
+struct TYPE_10__ | Enabled long 
+struct TYPE_15__ | RenderMode long | Exec struct TYPE_14__ | API struct TYPE_13__ | CompileFlag int | Light struct TYPE_12__ | VB struct TYPE_11__ * | Texture struct TYPE_10__ | NeedNormals long | Visual struct TYPE_9__ * 
+struct TYPE_11__ | TexCoordSize int 
+struct TYPE_9__ | RGBAflag long 
+function gl_set_vertex_function void | ctx struct TYPE_15__ *

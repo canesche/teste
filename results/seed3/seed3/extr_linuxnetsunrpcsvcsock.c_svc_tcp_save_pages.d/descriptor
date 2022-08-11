@@ -1,0 +1,3 @@
+struct svc_sock | sk_datalen unsigned int | sk_pages int ** 
+struct svc_rqst | rq_pages int ** 
+function svc_tcp_save_pages void | svsk struct svc_sock * | rqstp struct svc_rqst *

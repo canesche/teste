@@ -1,2 +1,0 @@
-struct xenbus_device | dummy int 
-function pvcalls_back_remove int | dev struct xenbus_device *

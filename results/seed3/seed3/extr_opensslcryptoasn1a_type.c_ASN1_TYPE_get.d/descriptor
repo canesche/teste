@@ -1,0 +1,3 @@
+struct TYPE_4__ | ptr int * 
+struct TYPE_5__ | type long | value struct TYPE_4__ 
+function ASN1_TYPE_get int | a const struct TYPE_5__ *

@@ -1,0 +1,4 @@
+struct ip_tunnel_key | dummy int 
+struct bnxt_tc_l2_key | dummy int 
+struct bnxt | dummy int 
+function bnxt_tc_resolve_tunnel_hdrs int | bp struct bnxt * | tun_key struct ip_tunnel_key * | l2_info struct bnxt_tc_l2_key *

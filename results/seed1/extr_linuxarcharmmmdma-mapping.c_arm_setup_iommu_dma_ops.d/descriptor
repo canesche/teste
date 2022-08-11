@@ -1,3 +1,0 @@
-struct iommu_ops | dummy int 
-struct device | dummy int 
-function arm_setup_iommu_dma_ops int | dev struct device * | dma_base int | size int | iommu const struct iommu_ops *

@@ -1,0 +1,4 @@
+struct TYPE_7__ | operands struct TYPE_6__ * 
+struct TYPE_5__ | value long 
+struct TYPE_6__ | type int | imm struct TYPE_5__ 
+function convert_shll_to_xtl int | inst struct TYPE_7__ *

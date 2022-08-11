@@ -1,0 +1,2 @@
+struct TYPE_3__ | MixerId int 
+function SndMixerGetSelection int | Mixer struct TYPE_3__ *

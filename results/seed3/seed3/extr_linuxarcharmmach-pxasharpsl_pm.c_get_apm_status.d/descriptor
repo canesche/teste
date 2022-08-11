@@ -1,0 +1,3 @@
+struct TYPE_4__ | charge_mode long | machinfo struct TYPE_3__ * 
+struct TYPE_3__ | status_high_acin int | status_low_acin int | status_high_noac int | status_low_noac int 
+function get_apm_status int | voltage int

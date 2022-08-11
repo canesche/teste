@@ -1,4 +1,0 @@
-struct TYPE_2__ | cap int 
-struct ieee80211_sta | bandwidth long | vht_cap struct TYPE_2__ 
-struct ath10k | dummy int 
-function ath10k_mac_get_phymode_vht enum wmi_phy_mode | ar struct ath10k * | sta struct ieee80211_sta *

@@ -1,0 +1,2 @@
+struct net_device | flags unsigned int | gflags unsigned int 
+function rtnl_dev_get_flags unsigned int | dev const struct net_device *

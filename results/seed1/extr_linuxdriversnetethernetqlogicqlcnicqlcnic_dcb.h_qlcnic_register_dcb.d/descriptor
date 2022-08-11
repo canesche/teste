@@ -1,2 +1,0 @@
-struct qlcnic_adapter | dummy int 
-function qlcnic_register_dcb int | adapter struct qlcnic_adapter *

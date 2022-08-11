@@ -1,0 +1,2 @@
+struct gpio_device | dummy int 
+function gpiochip_sysfs_register int | gdev struct gpio_device *

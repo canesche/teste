@@ -1,0 +1,2 @@
+struct TYPE_3__ | start unsigned char * | rptr unsigned char * | ilen int | avail_in int 
+function dns_read_iterator_init void | B struct TYPE_3__ * | in unsigned char * | ilen int

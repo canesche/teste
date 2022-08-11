@@ -1,3 +1,0 @@
-struct rc_scancode_filter | dummy int 
-struct rc_dev | dummy int 
-function wbcir_set_wakeup_filter int | rc struct rc_dev * | filter struct rc_scancode_filter *

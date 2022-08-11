@@ -1,0 +1,2 @@
+struct intel_dvo_device | dummy int 
+function ns2501_detect enum drm_connector_status | dvo struct intel_dvo_device *

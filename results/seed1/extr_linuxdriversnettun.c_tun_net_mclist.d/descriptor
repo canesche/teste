@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function tun_net_mclist void | dev struct net_device *

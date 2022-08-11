@@ -1,0 +1,2 @@
+struct TYPE_3__ | eff_masking_curve_cb long * | band_masking_cb long * 
+function update_band_masking void | c struct TYPE_3__ * | band1 int | band2 int | f int | spectrum1 long | spectrum2 long | channel int | arg long *

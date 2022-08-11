@@ -1,0 +1,2 @@
+struct mlx5_wq_cyc | cur_sz long | sz long 
+function mlx5_wq_cyc_is_full int | wq struct mlx5_wq_cyc *

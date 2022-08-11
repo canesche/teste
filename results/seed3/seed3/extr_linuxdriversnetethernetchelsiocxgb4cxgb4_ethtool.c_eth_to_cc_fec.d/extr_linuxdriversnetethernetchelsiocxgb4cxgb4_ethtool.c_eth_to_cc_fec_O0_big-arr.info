@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetethernetchelsiocxgb4cxgb4_ethtool.c_eth_to_cc_fec.d/extr_linuxdriversnetethernetchelsiocxgb4cxgb4_ethtool.c_eth_to_cc_fec_O0::eth_to_cc_fec(67)"
+  }
+]

@@ -1,2 +1,0 @@
-struct bfa_iocpf | dummy int 
-function bfa_iocpf_sm_initfail_entry void | iocpf struct bfa_iocpf *

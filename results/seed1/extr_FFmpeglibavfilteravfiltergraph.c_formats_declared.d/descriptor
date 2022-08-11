@@ -1,4 +1,0 @@
-struct TYPE_7__ | nb_inputs int | nb_outputs int | outputs struct TYPE_6__ ** | inputs struct TYPE_5__ ** 
-struct TYPE_6__ | type long | in_channel_layouts long | in_samplerates long | in_formats int 
-struct TYPE_5__ | type long | out_channel_layouts long | out_samplerates long | out_formats int 
-function formats_declared int | f struct TYPE_7__ *

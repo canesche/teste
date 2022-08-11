@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmi915intel_cdclk.c_skl_calc_voltage_level.d/extr_linuxdriversgpudrmi915intel_cdclk.c_skl_calc_voltage_level_O0::skl_calc_voltage_level(61)"
+  }
+]

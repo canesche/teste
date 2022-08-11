@@ -1,0 +1,2 @@
+struct gr_udc | dummy int 
+function gr_dbgprint_devreq void | dev struct gr_udc * | type int | request int | value int | index int | length int

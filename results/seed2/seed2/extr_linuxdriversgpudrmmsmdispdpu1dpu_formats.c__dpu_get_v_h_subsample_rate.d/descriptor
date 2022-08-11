@@ -1,0 +1,1 @@
+function _dpu_get_v_h_subsample_rate void | chroma_sample enum dpu_chroma_samp_type | v_sample int * | h_sample int *

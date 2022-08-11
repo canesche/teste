@@ -1,0 +1,5 @@
+struct atl1e_tpd_desc | dummy int 
+struct TYPE_4__ | real_page_size int 
+struct TYPE_3__ | count int 
+struct atl1e_adapter | num_rx_queues int | rx_ring struct TYPE_4__ | tx_ring struct TYPE_3__ 
+function atl1e_cal_ring_size void | adapter struct atl1e_adapter * | ring_size long *

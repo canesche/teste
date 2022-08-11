@@ -1,0 +1,3 @@
+struct ttm_mem_reg | mm_node struct nouveau_mem * 
+struct nouveau_mem | dummy int 
+function nouveau_mem struct nouveau_mem * | reg struct ttm_mem_reg *

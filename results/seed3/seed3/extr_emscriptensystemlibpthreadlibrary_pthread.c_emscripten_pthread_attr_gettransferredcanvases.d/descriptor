@@ -1,0 +1,2 @@
+struct TYPE_3__ | _a_transferredcanvases long 
+function emscripten_pthread_attr_gettransferredcanvases int | a const struct TYPE_3__ * | str const char **

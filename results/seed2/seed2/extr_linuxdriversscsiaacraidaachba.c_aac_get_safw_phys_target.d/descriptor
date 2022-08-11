@@ -1,0 +1,4 @@
+struct aac_dev | safw_phys_luns struct TYPE_4__ * 
+struct TYPE_4__ | lun struct TYPE_3__ * 
+struct TYPE_3__ | level2 int * 
+function aac_get_safw_phys_target int | dev struct aac_dev * | lun int

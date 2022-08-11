@@ -1,0 +1,2 @@
+struct mwifiex_private | dummy int 
+function mwifiex_get_center_freq_index int | priv struct mwifiex_private * | band int | pri_chan int | chan_bw int

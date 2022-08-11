@@ -1,0 +1,3 @@
+struct TYPE_5__ | Context struct TYPE_4__ * 
+struct TYPE_4__ | State long 
+function GetInterfaceConnectionStatus int | Interface struct TYPE_5__ * | Result int *

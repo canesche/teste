@@ -1,0 +1,1 @@
+function mp_builtin_open int | n_args unsigned long | args const int * | kwargs int *

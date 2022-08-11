@@ -1,2 +1,0 @@
-struct sk_buff | cb long 
-function wil_skb_rxstatus void * | skb struct sk_buff *

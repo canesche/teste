@@ -1,0 +1,4 @@
+struct TYPE_4__ | fraction long | cur_tick long 
+struct TYPE_3__ | tv_nsec long | tv_sec long 
+struct snd_seq_timer | tick struct TYPE_4__ | cur_time struct TYPE_3__ 
+function seq_timer_reset void | tmr struct snd_seq_timer *

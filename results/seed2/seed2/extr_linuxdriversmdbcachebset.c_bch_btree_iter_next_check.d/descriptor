@@ -1,0 +1,2 @@
+struct btree_iter | dummy int 
+function bch_btree_iter_next_check void | iter struct btree_iter *

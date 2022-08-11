@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxarchx86eventsamdcore.c_amd_has_nb.d/extr_linuxarchx86eventsamdcore.c_amd_has_nb_O0::amd_has_nb(62)"
+  }
+]

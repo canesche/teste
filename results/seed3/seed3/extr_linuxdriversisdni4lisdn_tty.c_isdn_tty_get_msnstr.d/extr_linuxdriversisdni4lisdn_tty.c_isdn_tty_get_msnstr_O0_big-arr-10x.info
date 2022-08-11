@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversisdni4lisdn_tty.c_isdn_tty_get_msnstr.d/extr_linuxdriversisdni4lisdn_tty.c_isdn_tty_get_msnstr_O0::isdn_tty_get_msnstr(62)"
+  }
+]

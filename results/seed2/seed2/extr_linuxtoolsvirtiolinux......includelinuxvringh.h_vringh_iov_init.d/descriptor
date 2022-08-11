@@ -1,0 +1,3 @@
+struct vringh_iov | max_num unsigned int | iov struct iovec * | consumed long | i long | used long 
+struct iovec | dummy int 
+function vringh_iov_init void | iov struct vringh_iov * | iovec struct iovec * | num unsigned int

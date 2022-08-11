@@ -1,3 +1,0 @@
-struct trace_array | function_pids int * 
-struct ftrace_ops | flags int | private struct trace_array * 
-function ftrace_pids_enabled int | ops struct ftrace_ops *

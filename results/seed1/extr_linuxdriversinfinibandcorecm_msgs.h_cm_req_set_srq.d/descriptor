@@ -1,2 +1,0 @@
-struct cm_req_msg | offset51 int 
-function cm_req_set_srq void | req_msg struct cm_req_msg * | srq int

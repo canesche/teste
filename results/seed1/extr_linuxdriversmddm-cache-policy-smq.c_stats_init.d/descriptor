@@ -1,2 +1,0 @@
-struct stats | hit_threshold unsigned int | hits unsigned int | misses unsigned int 
-function stats_init void | s struct stats * | nr_levels unsigned int

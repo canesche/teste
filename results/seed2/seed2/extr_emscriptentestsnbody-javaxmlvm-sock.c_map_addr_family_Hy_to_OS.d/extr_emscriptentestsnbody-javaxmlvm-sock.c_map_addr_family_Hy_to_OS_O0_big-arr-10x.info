@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_emscriptentestsnbody-javaxmlvm-sock.c_map_addr_family_Hy_to_OS.d/extr_emscriptentestsnbody-javaxmlvm-sock.c_map_addr_family_Hy_to_OS_O0::map_addr_family_Hy_to_OS(66)"
+  }
+]

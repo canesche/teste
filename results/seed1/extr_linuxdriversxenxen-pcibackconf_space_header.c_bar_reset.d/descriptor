@@ -1,3 +1,0 @@
-struct pci_dev | dummy int 
-struct pci_bar_info | which long 
-function bar_reset void | dev struct pci_dev * | offset int | data void *

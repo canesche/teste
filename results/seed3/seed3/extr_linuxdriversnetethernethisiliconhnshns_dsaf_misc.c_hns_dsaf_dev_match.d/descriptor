@@ -1,0 +1,2 @@
+struct device | fwnode void * 
+function hns_dsaf_dev_match int | dev struct device * | fwnode void *

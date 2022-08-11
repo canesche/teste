@@ -1,0 +1,4 @@
+struct ubi_volume | eba_tbl struct TYPE_4__ * 
+struct TYPE_4__ | entries struct TYPE_3__ * 
+struct TYPE_3__ | pnum long 
+function ubi_eba_is_mapped int | vol struct ubi_volume * | lnum int

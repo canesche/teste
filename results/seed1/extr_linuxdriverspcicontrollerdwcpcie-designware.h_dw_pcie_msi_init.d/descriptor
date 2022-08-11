@@ -1,2 +1,0 @@
-struct pcie_port | dummy int 
-function dw_pcie_msi_init void | pp struct pcie_port *

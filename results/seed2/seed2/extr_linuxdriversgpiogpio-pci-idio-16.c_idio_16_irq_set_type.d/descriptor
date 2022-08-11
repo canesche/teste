@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function idio_16_irq_set_type int | data struct irq_data * | flow_type unsigned int

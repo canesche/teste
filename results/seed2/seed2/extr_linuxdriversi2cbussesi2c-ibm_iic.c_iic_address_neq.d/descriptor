@@ -1,0 +1,2 @@
+struct i2c_msg | addr long | flags int 
+function iic_address_neq int | p1 const struct i2c_msg * | p2 const struct i2c_msg *

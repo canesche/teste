@@ -1,2 +1,0 @@
-struct nvmet_async_event | event_type int | event_info int | log_page int 
-function nvmet_async_event_result int | aen struct nvmet_async_event *

@@ -1,4 +1,0 @@
-struct snd_usb_caiaqdev | midi_receive_substream struct snd_rawmidi_substream * 
-struct snd_rawmidi_substream | rmidi struct TYPE_2__ * 
-struct TYPE_2__ | private_data struct snd_usb_caiaqdev * 
-function snd_usb_caiaq_midi_input_trigger void | substream struct snd_rawmidi_substream * | up int

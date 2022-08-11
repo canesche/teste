@@ -1,0 +1,2 @@
+struct trace_iterator | dummy int 
+function wakeup_trace_close void | iter struct trace_iterator *

@@ -1,2 +1,0 @@
-struct inode | dummy int 
-function jfs_init_acl int | tid int | inode struct inode * | dir struct inode *

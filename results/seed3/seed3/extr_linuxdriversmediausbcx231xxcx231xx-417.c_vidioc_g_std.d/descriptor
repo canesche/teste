@@ -1,0 +1,5 @@
+struct file | private_data struct cx231xx_fh * 
+struct cx231xx_fh | dev struct cx231xx * 
+struct TYPE_2__ | id int 
+struct cx231xx | encodernorm struct TYPE_2__ 
+function vidioc_g_std int | file struct file * | fh0 void * | norm int *

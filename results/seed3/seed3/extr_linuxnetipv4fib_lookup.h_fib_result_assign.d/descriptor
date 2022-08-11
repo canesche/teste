@@ -1,0 +1,3 @@
+struct fib_result | fi struct fib_info * 
+struct fib_info | dummy int 
+function fib_result_assign void | res struct fib_result * | fi struct fib_info *

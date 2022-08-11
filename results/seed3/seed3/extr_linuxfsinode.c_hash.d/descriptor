@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function hash unsigned long | sb struct super_block * | hashval unsigned long

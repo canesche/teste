@@ -1,0 +1,4 @@
+struct TYPE_3__ | context_lost_counter int 
+struct TYPE_4__ | omap4 struct TYPE_3__ 
+struct omap_hwmod | prcm struct TYPE_4__ 
+function _omap4_get_context_lost int | oh struct omap_hwmod *

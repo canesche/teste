@@ -1,0 +1,8 @@
+struct ieee80211_tx_info | band unsigned long 
+struct ieee80211_rate | dummy int 
+struct ieee80211_hw | wiphy struct TYPE_5__ * 
+struct ath5k_buf | rates struct TYPE_6__ * 
+struct TYPE_6__ | idx unsigned long 
+struct TYPE_5__ | bands struct TYPE_4__ ** 
+struct TYPE_4__ | bitrates struct ieee80211_rate * 
+function ath5k_get_rate struct ieee80211_rate * | hw const struct ieee80211_hw * | info const struct ieee80211_tx_info * | bf struct ath5k_buf * | idx int

@@ -1,0 +1,3 @@
+struct pwc_device | dummy int 
+struct TYPE_2__ | alternate long 
+function pwc_get_fps_Nala unsigned int | pdev struct pwc_device * | index unsigned int | size unsigned int

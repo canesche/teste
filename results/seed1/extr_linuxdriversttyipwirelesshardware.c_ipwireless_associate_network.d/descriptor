@@ -1,3 +1,0 @@
-struct ipw_network | dummy int 
-struct ipw_hardware | network struct ipw_network * 
-function ipwireless_associate_network void | hw struct ipw_hardware * | network struct ipw_network *

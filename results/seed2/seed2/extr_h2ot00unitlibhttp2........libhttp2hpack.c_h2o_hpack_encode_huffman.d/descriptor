@@ -1,0 +1,2 @@
+struct TYPE_3__ | nbits int | code long 
+function h2o_hpack_encode_huffman unsigned long | _dst int * | src const int * | len unsigned long

@@ -1,3 +1,0 @@
-struct TYPE_4__ | left int | x int | right int | flags int | y long | bottom long | top long 
-struct TYPE_5__ | columns int | separation int | width int | height int | generic struct TYPE_4__ | top long | curvalue long | oldvalue long 
-function ScrollList_Init void | l struct TYPE_5__ *

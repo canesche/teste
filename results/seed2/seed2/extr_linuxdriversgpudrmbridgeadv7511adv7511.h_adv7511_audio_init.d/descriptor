@@ -1,0 +1,3 @@
+struct device | dummy int 
+struct adv7511 | dummy int 
+function adv7511_audio_init int | dev struct device * | adv7511 struct adv7511 *

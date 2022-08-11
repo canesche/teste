@@ -1,3 +1,0 @@
-struct sk_buff | dummy int 
-struct ftmac100_txdes | txdes3 long 
-function ftmac100_txdes_get_skb struct sk_buff * | txdes struct ftmac100_txdes *

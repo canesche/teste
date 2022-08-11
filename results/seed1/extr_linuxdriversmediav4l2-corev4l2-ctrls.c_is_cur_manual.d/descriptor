@@ -1,3 +1,0 @@
-struct TYPE_2__ | val long 
-struct v4l2_ctrl | manual_mode_value long | cur struct TYPE_2__ | is_auto long 
-function is_cur_manual int | master const struct v4l2_ctrl *

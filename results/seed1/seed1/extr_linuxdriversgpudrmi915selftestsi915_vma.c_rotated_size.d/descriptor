@@ -1,0 +1,2 @@
+struct intel_rotation_plane_info | width unsigned int | height unsigned int 
+function rotated_size unsigned int | a const struct intel_rotation_plane_info * | b const struct intel_rotation_plane_info *

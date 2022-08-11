@@ -1,0 +1,3 @@
+struct tid_info | ntids unsigned int | tid_tab struct t3c_tid_entry * 
+struct t3c_tid_entry | client long 
+function lookup_tid struct t3c_tid_entry * | t const struct tid_info * | tid unsigned int

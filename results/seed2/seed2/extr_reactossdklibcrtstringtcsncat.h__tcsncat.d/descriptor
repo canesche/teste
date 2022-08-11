@@ -1,0 +1,1 @@
+function _tcsncat long * | dst long * | src const long * | n unsigned long

@@ -1,0 +1,4 @@
+struct TYPE_6__ | len unsigned long | data int * 
+struct TYPE_7__ | method_name struct TYPE_6__ | connection struct TYPE_5__ * 
+struct TYPE_5__ | fd long 
+function ngx_http_lua_ffi_req_get_method_name int | r struct TYPE_7__ * | name int ** | len unsigned long *

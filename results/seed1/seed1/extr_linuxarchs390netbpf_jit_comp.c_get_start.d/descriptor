@@ -1,0 +1,2 @@
+struct bpf_jit | seen_reg long * 
+function get_start int | jit struct bpf_jit * | start int

@@ -1,0 +1,2 @@
+struct ufs_hba | dummy int 
+function ufs_qcom_clk_scale_up_pre_change int | hba struct ufs_hba *

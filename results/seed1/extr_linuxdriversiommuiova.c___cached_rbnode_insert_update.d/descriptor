@@ -1,3 +1,0 @@
-struct iova_domain | dma_32bit_pfn long | cached_node int * | cached32_node int * 
-struct iova | pfn_hi long | node int 
-function __cached_rbnode_insert_update void | iovad struct iova_domain * | new struct iova *

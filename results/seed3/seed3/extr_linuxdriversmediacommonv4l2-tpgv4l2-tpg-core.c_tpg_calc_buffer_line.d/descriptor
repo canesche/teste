@@ -1,0 +1,3 @@
+struct TYPE_2__ | top long 
+struct tpg_data | buf_height int | compose struct TYPE_2__ 
+function tpg_calc_buffer_line unsigned int | tpg const struct tpg_data * | y unsigned int | field unsigned int

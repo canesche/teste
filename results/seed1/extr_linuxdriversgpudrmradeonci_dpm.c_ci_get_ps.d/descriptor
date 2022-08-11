@@ -1,3 +1,0 @@
-struct radeon_ps | ps_priv struct ci_ps * 
-struct ci_ps | dummy int 
-function ci_get_ps struct ci_ps * | rps struct radeon_ps *

@@ -1,2 +1,0 @@
-struct TYPE_4__ | m_nextpkt struct TYPE_4__ * 
-function mbuf_setnextpkt void | mbuf struct TYPE_4__ * | nextpkt struct TYPE_4__ *

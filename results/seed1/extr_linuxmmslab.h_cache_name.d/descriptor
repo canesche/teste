@@ -1,2 +1,0 @@
-struct kmem_cache | name const char * 
-function cache_name const char * | s struct kmem_cache *

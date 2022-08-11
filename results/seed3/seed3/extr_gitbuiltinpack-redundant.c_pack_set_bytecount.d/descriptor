@@ -1,0 +1,3 @@
+struct pack_list | next struct pack_list * | pack struct TYPE_2__ * 
+struct TYPE_2__ | index_size long | pack_size long 
+function pack_set_bytecount int | pl struct pack_list *

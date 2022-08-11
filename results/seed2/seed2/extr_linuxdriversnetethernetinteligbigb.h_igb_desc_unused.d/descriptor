@@ -1,0 +1,2 @@
+struct igb_ring | next_to_clean long | next_to_use long | count int 
+function igb_desc_unused int | ring struct igb_ring *

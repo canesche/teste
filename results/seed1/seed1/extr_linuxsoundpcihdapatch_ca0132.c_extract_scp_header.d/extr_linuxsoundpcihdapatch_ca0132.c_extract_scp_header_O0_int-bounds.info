@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 17,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 26,
+    static: {
+      instructions: 68,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 68,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxsoundpcihdapatch_ca0132.c_extract_scp_header.d/extr_linuxsoundpcihdapatch_ca0132.c_extract_scp_header_O0::extract_scp_header(65)"
+  }
+]

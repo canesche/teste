@@ -1,0 +1,2 @@
+struct intel_forcewake_range | start long | end long 
+function fw_range_cmp int | offset long | entry const struct intel_forcewake_range *

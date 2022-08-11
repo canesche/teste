@@ -1,0 +1,3 @@
+struct skl_debug | dummy int 
+struct skl | dummy int 
+function skl_debugfs_init struct skl_debug * | skl struct skl *

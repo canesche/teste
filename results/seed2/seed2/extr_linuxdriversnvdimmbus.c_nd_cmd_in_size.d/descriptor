@@ -1,0 +1,6 @@
+struct nvdimm | dummy int 
+struct nd_cmd_vendor_hdr | in_length long 
+struct nd_cmd_set_config_hdr | in_length long 
+struct nd_cmd_pkg | nd_size_in long 
+struct nd_cmd_desc | in_num int | in_sizes long * 
+function nd_cmd_in_size long | nvdimm struct nvdimm * | cmd int | desc const struct nd_cmd_desc * | idx int | buf void *

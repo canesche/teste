@@ -1,1 +1,0 @@
-function spum_ns2_ctx_max_payload unsigned int | cipher_alg enum spu_cipher_alg | cipher_mode enum spu_cipher_mode | blocksize unsigned int

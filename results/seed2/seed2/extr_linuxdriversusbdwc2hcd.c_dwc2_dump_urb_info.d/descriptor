@@ -1,0 +1,3 @@
+struct usb_hcd | dummy int 
+struct urb | dummy int 
+function dwc2_dump_urb_info void | hcd struct usb_hcd * | urb struct urb * | fn_name char *

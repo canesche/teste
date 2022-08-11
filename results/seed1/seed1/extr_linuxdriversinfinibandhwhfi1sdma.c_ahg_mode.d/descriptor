@@ -1,0 +1,3 @@
+struct sdma_txreq | descp struct TYPE_2__ * 
+struct TYPE_2__ | qw int * 
+function ahg_mode int | tx struct sdma_txreq *

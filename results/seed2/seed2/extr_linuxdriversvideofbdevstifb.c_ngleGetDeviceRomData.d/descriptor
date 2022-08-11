@@ -1,0 +1,2 @@
+struct stifb_info | dummy int 
+function ngleGetDeviceRomData void | fb struct stifb_info *

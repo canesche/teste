@@ -1,0 +1,7 @@
+struct vpfe_ipipe_otfdpc_3_0_cfg | act_adj_shf long | det_thr long | det_slp long | det_thr_min long | det_thr_max long | corr_thr long | corr_slp long | corr_thr_min long | corr_thr_max long 
+struct TYPE_5__ | r long | gr long | gb long | b long 
+struct TYPE_4__ | r long | gr long | gb long | b long 
+struct vpfe_ipipe_otfdpc_2_0_cfg | corr_thr struct TYPE_5__ | det_thr struct TYPE_4__ 
+struct TYPE_6__ | dpc_3_0 struct vpfe_ipipe_otfdpc_3_0_cfg | dpc_2_0 struct vpfe_ipipe_otfdpc_2_0_cfg 
+struct vpfe_ipipe_otfdpc | en int | alg long | alg_cfg struct TYPE_6__ 
+function ipipe_validate_otfdpc_params int | dpc_param struct vpfe_ipipe_otfdpc *

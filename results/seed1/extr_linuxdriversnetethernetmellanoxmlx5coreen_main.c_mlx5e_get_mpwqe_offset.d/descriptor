@@ -1,2 +1,0 @@
-struct mlx5e_rq | dummy int 
-function mlx5e_get_mpwqe_offset int | rq struct mlx5e_rq * | wqe_ix int

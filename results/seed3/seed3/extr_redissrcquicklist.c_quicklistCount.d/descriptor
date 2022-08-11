@@ -1,0 +1,2 @@
+struct TYPE_3__ | count unsigned long 
+function quicklistCount unsigned long | ql const struct TYPE_3__ *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetethernetintele1000e82571.c_e1000e_get_laa_state_82571.d/extr_linuxdriversnetethernetintele1000e82571.c_e1000e_get_laa_state_82571_O0::e1000e_get_laa_state_82571(68)"
+  }
+]

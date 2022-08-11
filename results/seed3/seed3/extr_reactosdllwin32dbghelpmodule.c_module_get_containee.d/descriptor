@@ -1,0 +1,4 @@
+struct process | lmodules const struct module * 
+struct TYPE_2__ | BaseOfImage long | ImageSize long 
+struct module | module struct TYPE_2__ | next const struct module * 
+function module_get_containee struct module * | pcs const struct process * | outter const struct module *

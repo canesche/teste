@@ -1,0 +1,4 @@
+struct iwl_trans | cfg struct TYPE_4__ * 
+struct TYPE_4__ | base_params struct TYPE_3__ * 
+struct TYPE_3__ | max_tfd_queue_size int 
+function iwl_queue_dec_wrap int | trans struct iwl_trans * | index int

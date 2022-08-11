@@ -1,0 +1,2 @@
+struct TYPE_3__ | neighbor_discovery_context void * | neighbor_discovery int 
+function ccv_nnc_stream_context_set_neighbor_discovery void | stream_context struct TYPE_3__ *const | discovery int | context void *const

@@ -1,0 +1,3 @@
+struct wined3d_const_bo_address | dummy int 
+struct wined3d_bo_address | dummy int 
+function wined3d_const_bo_address struct wined3d_const_bo_address * | data struct wined3d_bo_address *

@@ -1,0 +1,2 @@
+struct file | dummy int 
+function hung_up_tty_poll int | filp struct file * | wait int *

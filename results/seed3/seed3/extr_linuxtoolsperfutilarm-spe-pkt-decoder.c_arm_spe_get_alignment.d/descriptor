@@ -1,0 +1,2 @@
+struct arm_spe_pkt | type int 
+function arm_spe_get_alignment int | buf const unsigned char * | len unsigned long | packet struct arm_spe_pkt *

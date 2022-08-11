@@ -1,0 +1,2 @@
+struct TYPE_3__ | Action long | Flags int | EventCode long 
+function GetPowerActionFromPolicy long | Policy struct TYPE_3__ *

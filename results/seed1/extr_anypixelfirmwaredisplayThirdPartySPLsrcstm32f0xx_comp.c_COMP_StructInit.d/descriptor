@@ -1,2 +1,0 @@
-struct TYPE_3__ | COMP_Mode int | COMP_Hysteresis int | COMP_OutputPol int | COMP_Output int | COMP_InvertingInput int 
-function COMP_StructInit void | COMP_InitStruct struct TYPE_3__ *

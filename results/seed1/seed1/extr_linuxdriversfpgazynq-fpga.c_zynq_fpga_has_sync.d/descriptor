@@ -1,0 +1,1 @@
+function zynq_fpga_has_sync int | buf const int * | count unsigned long

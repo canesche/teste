@@ -1,0 +1,1 @@
+function dss_pll_get_clkout_idx_for_src unsigned int | src enum dss_clk_source

@@ -1,0 +1,2 @@
+struct nfsd4_layout_seg | offset long | length long 
+function layout_update_len void | lo struct nfsd4_layout_seg * | end long

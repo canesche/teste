@@ -1,0 +1,4 @@
+struct rftype | flags int 
+struct kernfs_open_file | kn struct TYPE_2__ * 
+struct TYPE_2__ | priv struct rftype * 
+function is_cpu_list int | of struct kernfs_open_file *

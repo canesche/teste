@@ -1,0 +1,2 @@
+struct ssb_bus | dummy int 
+function ssb_pcmcia_switch_segment int | bus struct ssb_bus * | seg int

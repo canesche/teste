@@ -1,0 +1,2 @@
+struct mmio_rb_range | mr_end long | mr_base long 
+function mmio_rb_range_compare int | a struct mmio_rb_range * | b struct mmio_rb_range *

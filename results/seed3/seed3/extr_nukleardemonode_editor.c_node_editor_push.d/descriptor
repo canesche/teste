@@ -1,0 +1,3 @@
+struct node_editor | end struct node * | begin struct node * 
+struct node | next struct node * | prev struct node * 
+function node_editor_push void | editor struct node_editor * | node struct node *

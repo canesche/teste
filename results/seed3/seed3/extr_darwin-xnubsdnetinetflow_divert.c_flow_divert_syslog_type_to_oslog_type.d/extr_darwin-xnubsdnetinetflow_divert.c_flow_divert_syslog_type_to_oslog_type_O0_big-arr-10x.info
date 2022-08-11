@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_darwin-xnubsdnetinetflow_divert.c_flow_divert_syslog_type_to_oslog_type.d/extr_darwin-xnubsdnetinetflow_divert.c_flow_divert_syslog_type_to_oslog_type_O0::flow_divert_syslog_type_to_oslog_type(69)"
+  }
+]

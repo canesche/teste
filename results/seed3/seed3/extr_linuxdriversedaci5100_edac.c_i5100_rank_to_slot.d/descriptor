@@ -1,0 +1,3 @@
+struct mem_ctl_info | pvt_info struct i5100_priv * 
+struct i5100_priv | dimm_numrank int ** | dimm_csmap int ** 
+function i5100_rank_to_slot int | mci const struct mem_ctl_info * | chan int | rank int

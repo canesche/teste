@@ -1,0 +1,2 @@
+struct TYPE_3__ | ready int * | ready_num unsigned long | leftover int | leftover_bits int | need_s int 
+function search_for_golomb void | l struct TYPE_3__ * | r int | bits int

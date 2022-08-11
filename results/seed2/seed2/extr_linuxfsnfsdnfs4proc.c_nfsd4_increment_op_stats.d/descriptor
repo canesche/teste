@@ -1,0 +1,2 @@
+struct TYPE_2__ | nfs4_opcount int * 
+function nfsd4_increment_op_stats void | opnum unsigned long

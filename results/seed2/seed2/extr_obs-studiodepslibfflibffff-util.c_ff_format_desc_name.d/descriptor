@@ -1,0 +1,2 @@
+struct ff_format_desc | name const char * 
+function ff_format_desc_name const char * | format_desc const struct ff_format_desc *

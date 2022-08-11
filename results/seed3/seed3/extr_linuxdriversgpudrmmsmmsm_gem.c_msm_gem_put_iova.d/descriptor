@@ -1,0 +1,3 @@
+struct msm_gem_address_space | dummy int 
+struct drm_gem_object | dummy int 
+function msm_gem_put_iova void | obj struct drm_gem_object * | aspace struct msm_gem_address_space *

@@ -1,0 +1,2 @@
+struct btrfs_dev_replace | replace_state int | is_valid int 
+function btrfs_dev_replace_is_ongoing int | dev_replace struct btrfs_dev_replace *

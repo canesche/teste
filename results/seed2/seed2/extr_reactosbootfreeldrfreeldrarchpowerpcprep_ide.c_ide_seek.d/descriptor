@@ -1,0 +1,2 @@
+struct TYPE_2__ | seek_sector long long | sectors long long | seek_head long long | heads long long | seek_cylinder long long | seekto long long 
+function ide_seek void | extension void * | low int | high int

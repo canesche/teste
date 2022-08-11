@@ -1,2 +1,0 @@
-struct TYPE_3__ | post_handshake_auth int 
-function init_post_handshake_auth int | s struct TYPE_3__ * | context unsigned int

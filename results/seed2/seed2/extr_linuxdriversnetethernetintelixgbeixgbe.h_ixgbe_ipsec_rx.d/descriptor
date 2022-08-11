@@ -1,0 +1,4 @@
+struct ixgbe_adv_rx_desc | dummy int 
+struct sk_buff | dummy int 
+struct ixgbe_ring | dummy int 
+function ixgbe_ipsec_rx void | rx_ring struct ixgbe_ring * | rx_desc union ixgbe_adv_rx_desc * | skb struct sk_buff *

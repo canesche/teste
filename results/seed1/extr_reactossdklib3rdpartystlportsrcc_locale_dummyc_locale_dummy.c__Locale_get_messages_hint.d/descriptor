@@ -1,3 +1,0 @@
-struct _Locale_name_hint | dummy int 
-struct _Locale_messages | dummy int 
-function _Locale_get_messages_hint struct _Locale_name_hint * | messages struct _Locale_messages *

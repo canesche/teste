@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversvideofbdevomap2omapfbdisplayspanel-sony-acx565akm.c_get_cabc_mode.d/extr_linuxdriversvideofbdevomap2omapfbdisplayspanel-sony-acx565akm.c_get_cabc_mode_O0::get_cabc_mode(61)"
+  }
+]

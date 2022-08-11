@@ -1,0 +1,4 @@
+struct TYPE_6__ | string const char * 
+struct TYPE_7__ | value struct TYPE_6__ | index long | type int 
+struct TYPE_8__ | data long | ptr long 
+function json_set_token_error void | token struct TYPE_7__ * | json struct TYPE_8__ * | errtype const char *

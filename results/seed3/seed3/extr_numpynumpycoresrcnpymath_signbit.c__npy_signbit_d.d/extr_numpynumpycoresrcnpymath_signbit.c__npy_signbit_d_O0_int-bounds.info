@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_numpynumpycoresrcnpymath_signbit.c__npy_signbit_d.d/extr_numpynumpycoresrcnpymath_signbit.c__npy_signbit_d_O0::_npy_signbit_d(59)"
+  }
+]

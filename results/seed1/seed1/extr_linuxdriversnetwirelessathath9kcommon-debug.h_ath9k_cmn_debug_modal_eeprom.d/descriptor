@@ -1,0 +1,3 @@
+struct dentry | dummy int 
+struct ath_hw | dummy int 
+function ath9k_cmn_debug_modal_eeprom void | debugfs_phy struct dentry * | ah struct ath_hw *

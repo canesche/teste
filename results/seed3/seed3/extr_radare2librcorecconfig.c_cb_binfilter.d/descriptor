@@ -1,0 +1,4 @@
+struct TYPE_6__ | i_value int 
+struct TYPE_5__ | bin struct TYPE_4__ * 
+struct TYPE_4__ | filter int 
+function cb_binfilter int | user void * | data void *

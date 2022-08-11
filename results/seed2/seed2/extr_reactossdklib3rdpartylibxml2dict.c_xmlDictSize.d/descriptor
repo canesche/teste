@@ -1,0 +1,3 @@
+struct TYPE_5__ | nbElems int | subdict struct TYPE_4__ * 
+struct TYPE_4__ | nbElems int 
+function xmlDictSize int | dict struct TYPE_5__ *

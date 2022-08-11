@@ -1,0 +1,3 @@
+struct TYPE_6__ | tag long 
+struct TYPE_5__ | script_count unsigned long | scripts struct TYPE_6__ * 
+function usp10_script_cache_get_script struct TYPE_6__ * | script_cache struct TYPE_5__ * | tag long

@@ -1,0 +1,2 @@
+struct vctrl_voltage_table | ctrl int 
+function vctrl_cmp_ctrl_uV int | a const void * | b const void *

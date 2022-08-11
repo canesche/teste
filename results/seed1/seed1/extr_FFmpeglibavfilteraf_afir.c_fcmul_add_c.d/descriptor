@@ -1,0 +1,1 @@
+function fcmul_add_c void | sum float * | t const float * | c const float * | len int

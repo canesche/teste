@@ -1,0 +1,7 @@
+struct TYPE_3__ | capabilities int 
+struct vpbe_output | num_modes int | modes struct TYPE_4__ * | output struct TYPE_3__ 
+struct vpbe_device | current_out_index int | cfg struct vpbe_config * 
+struct vpbe_config | outputs struct vpbe_output * 
+struct v4l2_enum_dv_timings | index int | timings int 
+struct TYPE_4__ | timings_type long | dv_timings int 
+function vpbe_enum_dv_timings int | vpbe_dev struct vpbe_device * | timings struct v4l2_enum_dv_timings *

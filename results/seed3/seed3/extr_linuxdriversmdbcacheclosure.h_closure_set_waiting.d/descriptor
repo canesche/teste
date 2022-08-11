@@ -1,0 +1,2 @@
+struct closure | dummy int 
+function closure_set_waiting void | cl struct closure * | f unsigned long

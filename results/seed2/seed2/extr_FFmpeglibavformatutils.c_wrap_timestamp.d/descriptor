@@ -1,0 +1,2 @@
+struct TYPE_3__ | pts_wrap_behavior long | pts_wrap_reference long | pts_wrap_bits unsigned long long 
+function wrap_timestamp long | st const struct TYPE_3__ * | timestamp long

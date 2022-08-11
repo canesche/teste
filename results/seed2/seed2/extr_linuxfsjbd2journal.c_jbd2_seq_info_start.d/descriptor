@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function jbd2_seq_info_start void * | seq struct seq_file * | pos long *

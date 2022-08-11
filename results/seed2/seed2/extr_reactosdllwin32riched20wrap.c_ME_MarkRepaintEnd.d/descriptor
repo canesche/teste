@@ -1,0 +1,1 @@
+function ME_MarkRepaintEnd void | para int * | repaint_start int ** | repaint_end int **

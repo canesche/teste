@@ -1,3 +1,0 @@
-struct mem_ctl_info | pvt_info struct i5100_priv * 
-struct i5100_priv | ranksperchan int 
-function i5100_csrow_to_rank int | mci const struct mem_ctl_info * | csrow int

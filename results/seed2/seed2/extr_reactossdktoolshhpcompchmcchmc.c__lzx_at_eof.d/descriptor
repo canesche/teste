@@ -1,0 +1,2 @@
+struct chmcLzxInfo | done long | todo long | eof long | error long 
+function _lzx_at_eof int | arg void *

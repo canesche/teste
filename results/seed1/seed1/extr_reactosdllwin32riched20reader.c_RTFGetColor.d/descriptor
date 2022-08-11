@@ -1,0 +1,3 @@
+struct TYPE_6__ | rtfCNum int | rtfNextColor struct TYPE_6__ * 
+struct TYPE_5__ | colorList struct TYPE_6__ * 
+function RTFGetColor struct TYPE_6__ * | info const struct TYPE_5__ * | num int

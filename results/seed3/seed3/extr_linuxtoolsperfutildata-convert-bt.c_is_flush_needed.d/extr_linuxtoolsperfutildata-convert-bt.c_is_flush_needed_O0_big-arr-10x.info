@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxtoolsperfutildata-convert-bt.c_is_flush_needed.d/extr_linuxtoolsperfutildata-convert-bt.c_is_flush_needed_O0::is_flush_needed(62)"
+  }
+]

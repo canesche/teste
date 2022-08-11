@@ -1,0 +1,3 @@
+struct TYPE_2__ | read_status_mask int | ignore_status_mask int 
+struct uart_sunzilog_port | curregs int * | parity_mask int | port struct TYPE_2__ 
+function sunzilog_convert_to_zs void | up struct uart_sunzilog_port * | cflag unsigned int | iflag unsigned int | brg int

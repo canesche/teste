@@ -1,0 +1,2 @@
+struct cr_regs | cam int 
+function iotlb_cr_valid int | cr struct cr_regs *

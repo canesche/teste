@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxtoolsperfbench..utilevsel.h_perf_evsel__group_idx.d/extr_linuxtoolsperfbench..utilevsel.h_perf_evsel__group_idx_O0::perf_evsel__group_idx(63)"
+  }
+]

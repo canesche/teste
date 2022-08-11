@@ -1,0 +1,3 @@
+struct TYPE_5__ | bank_count long | bank_bitmap struct TYPE_6__ * 
+struct TYPE_6__ | first_page long | last_page long | bitmapwords unsigned long | bitmap int * 
+function hibernate_page_bitmap struct TYPE_6__ * | list struct TYPE_5__ * | page long

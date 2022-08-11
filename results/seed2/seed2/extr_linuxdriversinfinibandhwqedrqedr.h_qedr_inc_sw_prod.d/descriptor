@@ -1,0 +1,2 @@
+struct qedr_qp_hwq_info | prod int | max_wr int 
+function qedr_inc_sw_prod void | info struct qedr_qp_hwq_info *

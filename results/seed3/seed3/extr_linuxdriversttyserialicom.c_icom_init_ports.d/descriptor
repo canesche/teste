@@ -1,0 +1,3 @@
+struct icom_port | port int | status void * | imbed_modem void * 
+struct icom_adapter | subsystem_id long | version long | numb_ports int | port_info struct icom_port * 
+function icom_init_ports int | icom_adapter struct icom_adapter *

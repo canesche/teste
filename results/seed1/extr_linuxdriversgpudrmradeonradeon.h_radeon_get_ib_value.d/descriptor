@@ -1,4 +1,0 @@
-struct TYPE_2__ | ptr int * 
-struct radeon_cs_parser | ib struct TYPE_2__ | chunk_ib struct radeon_cs_chunk * 
-struct radeon_cs_chunk | kdata int * 
-function radeon_get_ib_value int | p struct radeon_cs_parser * | idx int

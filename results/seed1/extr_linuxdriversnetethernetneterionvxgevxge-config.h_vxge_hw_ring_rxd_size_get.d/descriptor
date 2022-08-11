@@ -1,2 +1,0 @@
-struct vxge_hw_ring_rxd_1 | dummy int 
-function vxge_hw_ring_rxd_size_get int | buf_mode int

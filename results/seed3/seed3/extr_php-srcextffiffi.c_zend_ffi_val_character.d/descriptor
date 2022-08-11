@@ -1,0 +1,2 @@
+struct TYPE_3__ | ch char | kind void * 
+function zend_ffi_val_character void | val struct TYPE_3__ * | str const char * | str_len unsigned long

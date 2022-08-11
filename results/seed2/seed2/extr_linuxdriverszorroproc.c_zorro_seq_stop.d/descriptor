@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function zorro_seq_stop void | m struct seq_file * | v void *

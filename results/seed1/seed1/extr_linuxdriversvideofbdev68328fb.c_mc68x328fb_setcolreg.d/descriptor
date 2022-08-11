@@ -1,0 +1,8 @@
+struct TYPE_11__ | length int | offset int 
+struct TYPE_10__ | length int | offset int 
+struct TYPE_9__ | length int | offset int 
+struct TYPE_8__ | length int | offset int 
+struct TYPE_12__ | bits_per_pixel int | transp struct TYPE_11__ | blue struct TYPE_10__ | green struct TYPE_9__ | red struct TYPE_8__ | grayscale long 
+struct TYPE_7__ | visual int 
+struct fb_info | pseudo_palette long | var struct TYPE_12__ | fix struct TYPE_7__ 
+function mc68x328fb_setcolreg int | regno int | red int | green int | blue int | transp int | info struct fb_info *

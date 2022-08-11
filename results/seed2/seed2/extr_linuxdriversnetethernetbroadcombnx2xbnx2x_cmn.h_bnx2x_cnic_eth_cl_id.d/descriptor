@@ -1,0 +1,2 @@
+struct bnx2x | pf_num int | cnic_base_cl_id long 
+function bnx2x_cnic_eth_cl_id long | bp struct bnx2x * | cl_idx long

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 42,
+    phantoms: 40,
+    exit: true,
+    halt: false,
+    edges: 83,
+    static: {
+      instructions: 130,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 130,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_BGAQRCode-Androidzbarsrcmainjnilibiconv-1.15libhkscs2008.h_hkscs2008_wctomb.d/extr_BGAQRCode-Androidzbarsrcmainjnilibiconv-1.15libhkscs2008.h_hkscs2008_wctomb_O0::hkscs2008_wctomb(107)"
+  }
+]

@@ -1,0 +1,2 @@
+struct inpcb | inp_nw_activity int 
+function in_stat_set_activity_bitmap int | int * | int

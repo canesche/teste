@@ -1,0 +1,2 @@
+struct bbc_beep_info | clock_freq unsigned int 
+function bbc_count_to_reg unsigned int | info struct bbc_beep_info * | count unsigned int

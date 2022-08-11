@@ -1,5 +1,0 @@
-struct wined3d_sm4_data | dummy int 
-struct TYPE_3__ | component_count int | register_size int | register_idx int 
-struct TYPE_4__ | indexable_temp struct TYPE_3__ 
-struct wined3d_shader_instruction | declaration struct TYPE_4__ 
-function shader_sm4_read_dcl_indexable_temp void | ins struct wined3d_shader_instruction * | opcode int | opcode_token int | tokens const int * | token_count unsigned int | priv struct wined3d_sm4_data *

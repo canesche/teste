@@ -1,0 +1,2 @@
+struct ef4_nic | dummy int 
+function dummy_rx_push_rss_config int | efx struct ef4_nic * | user int | rx_indir_table const int *

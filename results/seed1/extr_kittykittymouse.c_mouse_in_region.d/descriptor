@@ -1,4 +1,0 @@
-struct TYPE_7__ | callback_os_window struct TYPE_5__ * 
-struct TYPE_6__ | left long | right long | top long | bottom long 
-struct TYPE_5__ | mouse_y long | mouse_x long 
-function mouse_in_region int | r struct TYPE_6__ *

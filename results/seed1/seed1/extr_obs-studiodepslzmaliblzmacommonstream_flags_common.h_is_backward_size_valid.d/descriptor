@@ -1,0 +1,2 @@
+struct TYPE_3__ | backward_size int 
+function is_backward_size_valid int | options const struct TYPE_3__ *

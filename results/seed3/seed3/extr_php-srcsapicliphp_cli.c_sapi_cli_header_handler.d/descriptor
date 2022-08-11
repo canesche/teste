@@ -1,0 +1,1 @@
+function sapi_cli_header_handler int | h int * | op int | s int *

@@ -1,0 +1,2 @@
+struct ubifs_info | key_fmt int 
+function key_max_inode_size unsigned long long | c const struct ubifs_info *

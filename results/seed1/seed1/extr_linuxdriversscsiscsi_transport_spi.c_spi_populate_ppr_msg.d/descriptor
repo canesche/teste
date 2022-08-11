@@ -1,0 +1,1 @@
+function spi_populate_ppr_msg int | msg unsigned char * | period int | offset int | width int | options int

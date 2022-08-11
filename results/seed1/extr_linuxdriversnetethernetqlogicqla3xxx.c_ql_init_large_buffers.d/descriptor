@@ -1,4 +1,0 @@
-struct ql_rcv_buf_cb | buf_phy_addr_low int | buf_phy_addr_high int 
-struct ql3_adapter | num_large_buffers int | lrg_buf_skb_check long | lrg_buf_index long | lrg_buf struct ql_rcv_buf_cb * | lrg_buf_q_virt_addr struct bufq_addr_element * 
-struct bufq_addr_element | addr_low int | addr_high int 
-function ql_init_large_buffers void | qdev struct ql3_adapter *

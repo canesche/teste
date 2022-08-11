@@ -1,0 +1,2 @@
+struct item | item_id long long | str long | len long | extra long | rates long | rates_len long | mask long 
+function create_item int | C struct item * | item_id long long

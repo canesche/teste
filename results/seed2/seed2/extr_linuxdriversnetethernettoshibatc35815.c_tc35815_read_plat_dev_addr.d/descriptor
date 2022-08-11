@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function tc35815_read_plat_dev_addr int | dev struct net_device *

@@ -1,0 +1,4 @@
+struct TYPE_4__ | length long 
+struct msgqueue_entry | msg struct TYPE_4__ | next struct msgqueue_entry * 
+struct TYPE_5__ | qe struct msgqueue_entry * 
+function msgqueue_msglength int | msgq struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct acpi_resource | dummy int 
+function acpi_db_resource_callback int | resource struct acpi_resource * | context void *

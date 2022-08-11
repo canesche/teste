@@ -1,0 +1,2 @@
+struct TYPE_3__ | state long | pos long 
+function XzUnpacker_IsBlockFinished int | p const struct TYPE_3__ *

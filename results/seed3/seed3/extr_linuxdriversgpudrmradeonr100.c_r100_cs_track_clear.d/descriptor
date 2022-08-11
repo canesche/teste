@@ -1,0 +1,9 @@
+struct radeon_device | family long 
+struct TYPE_10__ | pitch int | cpp int | offset long | robj int * 
+struct TYPE_8__ | robj int * 
+struct r100_cs_track | cb_dirty int | zb_dirty int | tex_dirty int | aa_dirty int | num_cb int | num_texture int | maxy int | separate_cube int | aaresolve int | z_enabled int | vtx_size int | immd_dwords int | num_arrays int | max_indx int | textures struct TYPE_12__ * | arrays struct TYPE_11__ * | zb struct TYPE_10__ | cb struct TYPE_9__ * | aa struct TYPE_8__ 
+struct TYPE_12__ | pitch int | width int | height int | width_11 int | height_11 int | num_levels int | tex_coord_type int | txdepth int | cpp int | enabled int | lookup_disable int | roundup_w int | roundup_h int | cube_info struct TYPE_7__ * | robj int * | compress_format int 
+struct TYPE_11__ | esize int | robj int * 
+struct TYPE_9__ | pitch int | cpp int | offset long | robj int * 
+struct TYPE_7__ | width int | height int | offset long | robj int * 
+function r100_cs_track_clear void | rdev struct radeon_device * | track struct r100_cs_track *

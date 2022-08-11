@@ -1,2 +1,0 @@
-struct xvid_context | twopassbuffer long * 
-function xvid_ff_2pass_destroy int | ref struct xvid_context * | param int *

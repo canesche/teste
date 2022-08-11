@@ -1,2 +1,0 @@
-struct sk_buff | dummy int 
-function dn_dev_veri_pkt void | skb struct sk_buff *

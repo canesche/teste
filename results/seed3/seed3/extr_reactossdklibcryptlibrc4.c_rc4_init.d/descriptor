@@ -1,0 +1,2 @@
+struct TYPE_3__ | state unsigned int * | y long | x long 
+function rc4_init void | a4i struct TYPE_3__ * | key const unsigned char * | keyLen unsigned int

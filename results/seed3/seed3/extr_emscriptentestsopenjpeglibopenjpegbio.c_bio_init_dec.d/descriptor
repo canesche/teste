@@ -1,0 +1,2 @@
+struct TYPE_3__ | start unsigned char * | end unsigned char * | bp unsigned char * | ct long | buf long 
+function bio_init_dec void | bio struct TYPE_3__ * | bp unsigned char * | len int

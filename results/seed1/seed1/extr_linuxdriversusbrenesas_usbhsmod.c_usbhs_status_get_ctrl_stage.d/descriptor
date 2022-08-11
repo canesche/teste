@@ -1,0 +1,2 @@
+struct usbhs_irq_state | intsts0 long 
+function usbhs_status_get_ctrl_stage int | irq_state struct usbhs_irq_state *

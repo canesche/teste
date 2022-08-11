@@ -1,0 +1,2 @@
+struct module | dummy int 
+function mod_sysfs_fini void | mod struct module *

@@ -1,0 +1,4 @@
+struct TYPE_7__ | OpenInfo struct TYPE_6__ * | Height int | Width int 
+struct TYPE_5__ | Height int | Width int 
+struct TYPE_6__ | New struct TYPE_5__ 
+function LoadBlankCanvas int | Info struct TYPE_7__ *

@@ -1,3 +1,0 @@
-struct mlx4_en_dev | pndev void ** 
-struct mlx4_dev | dummy int 
-function mlx4_en_get_netdev void * | dev struct mlx4_dev * | ctx void * | port unsigned long

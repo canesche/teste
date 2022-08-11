@@ -1,2 +1,0 @@
-struct platform_device | dummy int 
-function ab8500_sysctrl_remove int | pdev struct platform_device *

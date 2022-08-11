@@ -1,0 +1,2 @@
+struct vm_area_struct | dummy int 
+function genwqe_vma_open void | vma struct vm_area_struct *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 16,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 30,
+    static: {
+      instructions: 68,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 68,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdrivershwmonhwmon.c_is_string_attr.d/extr_linuxdrivershwmonhwmon.c_is_string_attr_O0::is_string_attr(76)"
+  }
+]

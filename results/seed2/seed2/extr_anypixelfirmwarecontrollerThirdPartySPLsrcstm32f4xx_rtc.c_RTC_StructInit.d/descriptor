@@ -1,0 +1,2 @@
+struct TYPE_3__ | RTC_SynchPrediv void * | RTC_AsynchPrediv void * | RTC_HourFormat int 
+function RTC_StructInit void | RTC_InitStruct struct TYPE_3__ *

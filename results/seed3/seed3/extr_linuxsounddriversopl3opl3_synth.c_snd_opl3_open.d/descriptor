@@ -1,0 +1,3 @@
+struct snd_hwdep | dummy int 
+struct file | dummy int 
+function snd_opl3_open int | hw struct snd_hwdep * | file struct file *

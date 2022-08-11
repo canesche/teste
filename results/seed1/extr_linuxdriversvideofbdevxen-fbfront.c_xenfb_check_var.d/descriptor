@@ -1,6 +1,0 @@
-struct xenfb_info | page struct TYPE_3__ * | feature_resize int 
-struct fb_var_screeninfo | xres int | yres int | bits_per_pixel int | xres_virtual int | yres_virtual int 
-struct TYPE_4__ | line_length int | smem_len int 
-struct fb_info | fix struct TYPE_4__ | par struct xenfb_info * 
-struct TYPE_3__ | depth int 
-function xenfb_check_var int | var struct fb_var_screeninfo * | info struct fb_info *

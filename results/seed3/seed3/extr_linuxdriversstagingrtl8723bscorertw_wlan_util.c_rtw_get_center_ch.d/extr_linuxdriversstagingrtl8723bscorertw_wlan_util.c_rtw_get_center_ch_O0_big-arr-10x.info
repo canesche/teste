@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversstagingrtl8723bscorertw_wlan_util.c_rtw_get_center_ch.d/extr_linuxdriversstagingrtl8723bscorertw_wlan_util.c_rtw_get_center_ch_O0::rtw_get_center_ch(64)"
+  }
+]

@@ -1,0 +1,4 @@
+struct S5 | dummy int 
+struct S2 | f0 int 
+struct S0 | dummy int 
+function func_11 int | p_12 const struct S2 | p_13 const struct S5 | p_14 int | p_15 int | p_16 struct S0

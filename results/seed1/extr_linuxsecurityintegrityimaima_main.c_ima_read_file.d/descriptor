@@ -1,2 +1,0 @@
-struct file | dummy int 
-function ima_read_file int | file struct file * | read_id enum kernel_read_file_id

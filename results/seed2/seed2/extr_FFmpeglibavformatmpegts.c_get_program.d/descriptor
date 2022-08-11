@@ -1,0 +1,3 @@
+struct Program | id unsigned int 
+struct TYPE_3__ | nb_prg int | prg struct Program * 
+function get_program struct Program * | ts struct TYPE_3__ * | programid unsigned int

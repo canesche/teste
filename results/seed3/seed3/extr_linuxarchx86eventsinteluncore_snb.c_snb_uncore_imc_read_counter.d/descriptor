@@ -1,0 +1,4 @@
+struct hw_perf_event | event_base long 
+struct perf_event | hw struct hw_perf_event 
+struct intel_uncore_box | io_addr long 
+function snb_uncore_imc_read_counter int | box struct intel_uncore_box * | event struct perf_event *

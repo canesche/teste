@@ -1,0 +1,2 @@
+struct whitelist | dummy int 
+function icl_whitelist_build void | w struct whitelist *

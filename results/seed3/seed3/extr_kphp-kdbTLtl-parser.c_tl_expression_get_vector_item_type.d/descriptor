@@ -1,0 +1,3 @@
+struct tl_token | text char * | next struct tl_token * 
+struct tl_expression | right struct tl_token * 
+function tl_expression_get_vector_item_type char * | E struct tl_expression *

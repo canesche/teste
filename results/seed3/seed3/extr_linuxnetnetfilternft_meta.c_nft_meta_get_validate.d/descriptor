@@ -1,0 +1,4 @@
+struct nft_expr | dummy int 
+struct nft_data | dummy int 
+struct nft_ctx | dummy int 
+function nft_meta_get_validate int | ctx const struct nft_ctx * | expr const struct nft_expr * | data const struct nft_data **

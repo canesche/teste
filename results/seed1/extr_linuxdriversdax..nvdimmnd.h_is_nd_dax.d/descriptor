@@ -1,2 +1,0 @@
-struct device | dummy int 
-function is_nd_dax int | dev struct device *

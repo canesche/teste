@@ -1,4 +1,0 @@
-struct xfs_trans | dummy int 
-struct xfs_mount | dummy int 
-struct xfs_dquot | dummy int 
-function xfs_trans_reserve_quota_bydquots int | tp struct xfs_trans * | mp struct xfs_mount * | udqp struct xfs_dquot * | gdqp struct xfs_dquot * | pdqp struct xfs_dquot * | nblks long | nions long | flags int

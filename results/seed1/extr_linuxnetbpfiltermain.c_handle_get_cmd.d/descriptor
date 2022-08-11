@@ -1,2 +1,0 @@
-struct mbox_request | cmd int 
-function handle_get_cmd int | cmd struct mbox_request *

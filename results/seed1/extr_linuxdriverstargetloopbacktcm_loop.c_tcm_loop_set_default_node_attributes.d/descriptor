@@ -1,2 +1,0 @@
-struct se_node_acl | dummy int 
-function tcm_loop_set_default_node_attributes void | se_acl struct se_node_acl *

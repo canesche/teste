@@ -1,3 +1,0 @@
-struct stream_filter | dummy int 
-struct lf_to_crlf_filter | has_held int | held char 
-function lf_to_crlf_filter_fn int | filter struct stream_filter * | input const char * | isize_p unsigned long * | output char * | osize_p unsigned long *

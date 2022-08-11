@@ -1,2 +1,0 @@
-struct net_bridge_vlan_group | dummy int 
-function vlan_tunnel_init int | vg struct net_bridge_vlan_group *

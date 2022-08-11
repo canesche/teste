@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct emac_instance | dummy int 
+function emac_rx_csum void | dev struct emac_instance * | skb struct sk_buff * | ctrl int

@@ -1,0 +1,2 @@
+struct btt | sector_size long | lbasize long 
+function btt_meta_size long | btt struct btt *

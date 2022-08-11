@@ -1,3 +1,0 @@
-struct TYPE_2__ | chk_gen int 
-struct ubi_device | dbg struct TYPE_2__ 
-function ubi_dbg_chk_gen int | ubi const struct ubi_device *

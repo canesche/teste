@@ -1,0 +1,6 @@
+struct module | dummy int 
+struct dma_chan | device struct TYPE_6__ * 
+struct TYPE_6__ | dev struct TYPE_5__ * 
+struct TYPE_5__ | driver struct TYPE_4__ * 
+struct TYPE_4__ | owner struct module * 
+function dma_chan_to_owner struct module * | chan struct dma_chan *

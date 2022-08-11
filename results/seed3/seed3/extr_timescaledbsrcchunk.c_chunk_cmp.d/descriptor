@@ -1,0 +1,3 @@
+struct TYPE_3__ | hypertable_id long 
+struct TYPE_4__ | table_id long | fd struct TYPE_3__ 
+function chunk_cmp int | ch1 const void * | ch2 const void *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_darwin-xnubsdnetnecp.c_necp_socket_should_use_flow_divert.d/extr_darwin-xnubsdnetnecp.c_necp_socket_should_use_flow_divert_O0::necp_socket_should_use_flow_divert(68)"
+  }
+]

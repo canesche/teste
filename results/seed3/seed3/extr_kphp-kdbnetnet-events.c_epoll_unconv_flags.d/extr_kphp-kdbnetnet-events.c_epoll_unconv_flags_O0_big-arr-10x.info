@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_kphp-kdbnetnet-events.c_epoll_unconv_flags.d/extr_kphp-kdbnetnet-events.c_epoll_unconv_flags_O0::epoll_unconv_flags(68)"
+  }
+]

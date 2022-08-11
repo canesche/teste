@@ -1,0 +1,2 @@
+struct rpc_server | dummy int 
+function rpc_server_get struct rpc_server * | fd int

@@ -1,2 +1,0 @@
-struct sense_info | skey char | asc char | ascq char 
-function _scsih_normalize_sense void | sense_buffer char * | data struct sense_info *

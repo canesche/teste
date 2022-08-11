@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsoundpcictxficthw20k1.c_hw_capabilities.d/extr_linuxsoundpcictxficthw20k1.c_hw_capabilities_O0::hw_capabilities(64)"
+  }
+]

@@ -1,0 +1,2 @@
+struct vio_driver_state | dr_state int 
+function all_drings_registered int | vio struct vio_driver_state *

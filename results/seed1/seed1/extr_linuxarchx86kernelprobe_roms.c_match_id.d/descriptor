@@ -1,0 +1,4 @@
+struct pci_driver | id_table struct pci_device_id * 
+struct pci_device_id | vendor unsigned short | device unsigned short 
+struct pci_dev | vendor unsigned short | device unsigned short | driver struct pci_driver * 
+function match_id int | pdev struct pci_dev * | vendor unsigned short | device unsigned short

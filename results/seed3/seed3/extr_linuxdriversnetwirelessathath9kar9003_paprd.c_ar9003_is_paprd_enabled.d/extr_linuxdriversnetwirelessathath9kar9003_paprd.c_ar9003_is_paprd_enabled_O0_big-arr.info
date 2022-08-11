@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetwirelessathath9kar9003_paprd.c_ar9003_is_paprd_enabled.d/extr_linuxdriversnetwirelessathath9kar9003_paprd.c_ar9003_is_paprd_enabled_O0::ar9003_is_paprd_enabled(66)"
+  }
+]

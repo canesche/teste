@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function pnfs_layoutcommit_inode int | inode struct inode * | sync int

@@ -1,0 +1,2 @@
+struct dw_pcie_ep | dummy int 
+function dw_pcie_ep_raise_legacy_irq int | ep struct dw_pcie_ep * | func_no int

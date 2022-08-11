@@ -1,0 +1,4 @@
+struct nfp_prog | insns int 
+struct TYPE_2__ | prev int * 
+struct nfp_insn_meta | l struct TYPE_2__ 
+function nfp_meta_has_prev int | nfp_prog struct nfp_prog * | meta struct nfp_insn_meta *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 6,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 162,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_numpynumpycoresrcumathreduction.c_count_axes.d/extr_numpynumpycoresrcumathreduction.c_count_axes_O0::count_axes(62)"
+  }
+]

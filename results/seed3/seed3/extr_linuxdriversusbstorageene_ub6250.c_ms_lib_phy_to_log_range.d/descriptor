@@ -1,0 +1,1 @@
+function ms_lib_phy_to_log_range void | PhyBlock int | LogStart int * | LogEnde int *

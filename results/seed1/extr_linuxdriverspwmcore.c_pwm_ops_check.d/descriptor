@@ -1,2 +1,0 @@
-struct pwm_ops | apply long | disable long | enable long | config long 
-function pwm_ops_check int | ops const struct pwm_ops *

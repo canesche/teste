@@ -1,3 +1,0 @@
-struct diag204_x_info_blk_hdr | phys_cpus int 
-struct diag204_info_blk_hdr | phys_cpus int 
-function info_blk_hdr__pcpus int | type enum diag204_format | hdr void *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | tv_sec int | tv_usec int 
+struct TYPE_5__ | usec_since_last_update int | last_collected_time struct TYPE_4__ 
+function rrdset_update_last_collected_time int | st struct TYPE_5__ *

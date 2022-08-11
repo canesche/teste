@@ -1,4 +1,0 @@
-struct em28xx_v4l2 | sensor_xres unsigned int 
-struct TYPE_2__ | max_range_640_480 long 
-struct em28xx | board struct TYPE_2__ | is_webcam long | v4l2 struct em28xx_v4l2 * 
-function norm_maxw unsigned int | dev struct em28xx *

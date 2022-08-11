@@ -1,0 +1,2 @@
+struct TYPE_3__ | outBufSize unsigned long | outBuf int * 
+function XzUnpacker_SetOutBuf void | p struct TYPE_3__ * | outBuf int * | outBufSize unsigned long

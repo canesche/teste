@@ -1,0 +1,2 @@
+struct clk_hw | dummy int 
+function clk_corediv_round_rate long | hwclk struct clk_hw * | rate unsigned long | parent_rate unsigned long *

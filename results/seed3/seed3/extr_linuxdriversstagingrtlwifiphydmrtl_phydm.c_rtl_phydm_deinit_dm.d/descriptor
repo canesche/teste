@@ -1,0 +1,2 @@
+struct rtl_priv | dummy int 
+function rtl_phydm_deinit_dm int | rtlpriv struct rtl_priv *

@@ -1,0 +1,2 @@
+struct ieee80211_mcs_info | rx_mask long * 
+function ieee80211_mcs_to_chains int | mcs const struct ieee80211_mcs_info *

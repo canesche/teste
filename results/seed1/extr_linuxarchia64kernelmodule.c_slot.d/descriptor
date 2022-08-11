@@ -1,2 +1,0 @@
-struct insn | dummy int 
-function slot int | insn const struct insn *

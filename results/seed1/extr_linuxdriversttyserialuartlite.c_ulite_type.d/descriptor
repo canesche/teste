@@ -1,2 +1,0 @@
-struct uart_port | type long 
-function ulite_type const char * | port struct uart_port *

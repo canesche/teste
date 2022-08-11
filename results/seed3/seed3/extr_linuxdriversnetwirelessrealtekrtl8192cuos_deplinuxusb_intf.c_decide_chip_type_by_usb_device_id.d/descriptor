@@ -1,0 +1,3 @@
+struct usb_device_id | dummy int 
+struct TYPE_3__ | chip_type int 
+function decide_chip_type_by_usb_device_id void | padapter struct TYPE_3__ * | pdid const struct usb_device_id *

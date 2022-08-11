@@ -1,0 +1,4 @@
+struct nfs4_slot | privileged int 
+struct nfs4_sequence_res | sr_slot struct nfs4_slot * 
+struct nfs4_sequence_args | sa_slot struct nfs4_slot * | sa_privileged long 
+function nfs4_sequence_attach_slot void | args struct nfs4_sequence_args * | res struct nfs4_sequence_res * | slot struct nfs4_slot *

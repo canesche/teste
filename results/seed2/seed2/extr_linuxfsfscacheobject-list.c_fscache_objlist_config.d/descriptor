@@ -1,0 +1,2 @@
+struct fscache_objlist_data | config int 
+function fscache_objlist_config void | data struct fscache_objlist_data *

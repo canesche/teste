@@ -1,3 +1,0 @@
-struct scmi_power_info | num_domains int 
-struct scmi_handle | power_priv struct scmi_power_info * 
-function scmi_power_num_domains_get int | handle const struct scmi_handle *

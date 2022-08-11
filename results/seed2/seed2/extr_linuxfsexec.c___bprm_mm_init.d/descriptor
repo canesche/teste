@@ -1,0 +1,2 @@
+struct linux_binprm | p int 
+function __bprm_mm_init int | bprm struct linux_binprm *

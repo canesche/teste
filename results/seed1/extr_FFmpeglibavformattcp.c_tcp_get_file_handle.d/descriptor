@@ -1,3 +1,0 @@
-struct TYPE_4__ | priv_data struct TYPE_5__ * 
-struct TYPE_5__ | fd int 
-function tcp_get_file_handle int | h struct TYPE_4__ *

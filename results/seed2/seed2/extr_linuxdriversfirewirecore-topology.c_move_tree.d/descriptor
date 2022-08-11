@@ -1,0 +1,2 @@
+struct fw_node | port_count int | ports struct fw_node ** 
+function move_tree void | node0 struct fw_node * | node1 struct fw_node * | port int

@@ -1,0 +1,3 @@
+struct mthca_ah | av struct TYPE_2__ * 
+struct TYPE_2__ | g_slid int 
+function mthca_ah_grh_present int | ah struct mthca_ah *

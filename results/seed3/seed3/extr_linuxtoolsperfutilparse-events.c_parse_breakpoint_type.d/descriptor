@@ -1,0 +1,2 @@
+struct perf_event_attr | bp_type int 
+function parse_breakpoint_type int | type const char * | attr struct perf_event_attr *

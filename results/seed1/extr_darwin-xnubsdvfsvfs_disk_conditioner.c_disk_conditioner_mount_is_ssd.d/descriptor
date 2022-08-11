@@ -1,4 +1,0 @@
-struct TYPE_4__ | is_ssd int | enabled int 
-struct _disk_conditioner_info_t | dcinfo struct TYPE_4__ 
-struct TYPE_5__ | mnt_kern_flag int | mnt_disk_conditioner_info struct _disk_conditioner_info_t * 
-function disk_conditioner_mount_is_ssd int | mp struct TYPE_5__ *

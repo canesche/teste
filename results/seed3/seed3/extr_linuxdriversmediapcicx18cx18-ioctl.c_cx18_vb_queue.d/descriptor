@@ -1,0 +1,5 @@
+struct videobuf_queue | dummy int 
+struct cx18_stream | vb_type int | vbuf_q struct videobuf_queue 
+struct cx18_open_id | type unsigned long | cx struct cx18 * 
+struct cx18 | streams struct cx18_stream * 
+function cx18_vb_queue struct videobuf_queue * | id struct cx18_open_id *

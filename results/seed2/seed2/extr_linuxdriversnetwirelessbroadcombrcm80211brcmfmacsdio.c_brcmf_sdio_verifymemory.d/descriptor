@@ -1,0 +1,2 @@
+struct brcmf_sdio_dev | dummy int 
+function brcmf_sdio_verifymemory int | sdiodev struct brcmf_sdio_dev * | ram_addr int | ram_data int * | ram_sz int

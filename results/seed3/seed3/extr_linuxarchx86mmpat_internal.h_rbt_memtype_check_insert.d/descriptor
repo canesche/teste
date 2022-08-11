@@ -1,0 +1,2 @@
+struct memtype | dummy int 
+function rbt_memtype_check_insert int | new struct memtype * | new_type enum page_cache_mode *

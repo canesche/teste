@@ -1,0 +1,2 @@
+struct pxa_mbus_pixelfmt | packing long | bits_per_sample int 
+function pxa_camera_packing_supported int | fmt const struct pxa_mbus_pixelfmt *

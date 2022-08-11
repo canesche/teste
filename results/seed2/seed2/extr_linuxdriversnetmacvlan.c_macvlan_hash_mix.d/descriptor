@@ -1,0 +1,2 @@
+struct macvlan_dev | dummy int 
+function macvlan_hash_mix int | vlan const struct macvlan_dev *

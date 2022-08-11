@@ -1,0 +1,2 @@
+struct vmbus_channel | sc_creation_callback void (*)(struct vmbus_channel *) 
+function vmbus_set_sc_create_callback void | primary_channel struct vmbus_channel * | sc_cr_cb void (*)(struct vmbus_channel *)

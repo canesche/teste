@@ -1,4 +1,0 @@
-struct mal_regs | dummy int 
-struct mal_instance | dummy int 
-struct emac_ethtool_regs_subhdr | dummy int 
-function mal_get_regs_len int | mal struct mal_instance *

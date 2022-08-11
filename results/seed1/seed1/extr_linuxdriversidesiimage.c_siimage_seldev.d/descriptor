@@ -1,0 +1,3 @@
+struct TYPE_4__ | host_flags int | channel int | hwif_data long 
+struct TYPE_5__ | dn int | hwif struct TYPE_4__ * 
+function siimage_seldev unsigned long | drive struct TYPE_5__ * | r int

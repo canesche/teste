@@ -1,2 +1,0 @@
-struct mlxsw_sp_rif_ipip_lb | ul_vr_id int 
-function mlxsw_sp_ipip_lb_ul_vr_id int | lb_rif const struct mlxsw_sp_rif_ipip_lb *

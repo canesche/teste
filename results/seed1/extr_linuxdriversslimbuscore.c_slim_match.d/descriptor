@@ -1,4 +1,0 @@
-struct slim_device_id | manf_id long | prod_code long 
-struct TYPE_2__ | manf_id long | prod_code long 
-struct slim_device | e_addr struct TYPE_2__ 
-function slim_match const struct slim_device_id * | id const struct slim_device_id * | sbdev const struct slim_device *

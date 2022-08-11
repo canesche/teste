@@ -1,0 +1,2 @@
+struct message_header | present int 
+function restore_present2 void | p void * | val int

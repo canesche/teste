@@ -1,0 +1,1 @@
+function backward_scale_cpu void | x_norm float * | delta float * | batch int | n int | size int | scale_updates float *

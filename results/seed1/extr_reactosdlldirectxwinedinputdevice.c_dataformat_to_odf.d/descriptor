@@ -1,2 +1,0 @@
-struct TYPE_3__ | dwNumObjs int | dwObjSize int | rgodf long 
-function dataformat_to_odf int * | df struct TYPE_3__ * | idx int

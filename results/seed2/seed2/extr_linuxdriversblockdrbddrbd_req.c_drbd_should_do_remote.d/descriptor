@@ -1,0 +1,2 @@
+struct drbd_dev_state | pdsk long | conn long 
+function drbd_should_do_remote int | s union drbd_dev_state

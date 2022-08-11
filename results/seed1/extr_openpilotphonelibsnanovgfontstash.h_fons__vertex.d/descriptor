@@ -1,2 +1,0 @@
-struct TYPE_3__ | verts float * | nverts int | tcoords float * | colors unsigned int * 
-function fons__vertex void | stash struct TYPE_3__ * | x float | y float | s float | t float | c unsigned int

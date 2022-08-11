@@ -1,0 +1,1 @@
+function NeoNdisShutdownEx void | MiniportAdapterContext int | ShutdownAction int

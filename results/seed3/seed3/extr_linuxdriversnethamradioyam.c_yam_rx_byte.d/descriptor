@@ -1,0 +1,3 @@
+struct yam_port | rx_len long | rx_crcl unsigned char | rx_crch int | rx_buf unsigned char * 
+struct net_device | dummy int 
+function yam_rx_byte void | dev struct net_device * | yp struct yam_port * | rxb unsigned char

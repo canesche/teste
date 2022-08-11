@@ -1,0 +1,2 @@
+struct fb_info | pseudo_palette int * 
+function mbxfb_setcolreg int | regno long | red long | green long | blue long | trans long | info struct fb_info *

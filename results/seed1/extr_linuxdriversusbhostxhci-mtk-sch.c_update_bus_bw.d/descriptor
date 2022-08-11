@@ -1,3 +1,0 @@
-struct mu3h_sch_ep_info | esit int | offset int | num_budget_microframes int 
-struct mu3h_sch_bw_info | bus_bw int * 
-function update_bus_bw void | sch_bw struct mu3h_sch_bw_info * | sch_ep struct mu3h_sch_ep_info * | bw_cost int

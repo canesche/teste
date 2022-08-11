@@ -1,2 +1,0 @@
-struct vnop_lookup_args | a_vpp int ** 
-function dead_lookup int | ap struct vnop_lookup_args *

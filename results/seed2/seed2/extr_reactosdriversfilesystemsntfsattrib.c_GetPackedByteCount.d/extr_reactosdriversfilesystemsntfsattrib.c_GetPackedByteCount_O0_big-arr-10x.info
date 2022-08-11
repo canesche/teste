@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 9,
+    exit: true,
+    halt: false,
+    edges: 21,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_reactosdriversfilesystemsntfsattrib.c_GetPackedByteCount.d/extr_reactosdriversfilesystemsntfsattrib.c_GetPackedByteCount_O0::GetPackedByteCount(65)"
+  }
+]

@@ -1,0 +1,2 @@
+struct snd_wss | dummy int 
+function snd_wss_get_format unsigned char | chip struct snd_wss * | format int | channels int

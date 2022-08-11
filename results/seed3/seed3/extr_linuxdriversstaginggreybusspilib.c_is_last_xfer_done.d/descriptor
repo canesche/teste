@@ -1,0 +1,3 @@
+struct spi_transfer | len long 
+struct gb_spilib | tx_xfer_offset long | last_xfer_size long | rx_xfer_offset long | last_xfer struct spi_transfer * 
+function is_last_xfer_done int | spi struct gb_spilib *

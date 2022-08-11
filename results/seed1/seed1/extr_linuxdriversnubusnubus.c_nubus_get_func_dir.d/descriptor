@@ -1,0 +1,4 @@
+struct nubus_rsrc | board struct TYPE_2__ * | directory int 
+struct nubus_dir | mask int | done long | base int | ptr int 
+struct TYPE_2__ | lanes int 
+function nubus_get_func_dir int | fres const struct nubus_rsrc * | dir struct nubus_dir *

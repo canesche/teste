@@ -1,0 +1,4 @@
+struct TYPE_2__ | method int 
+struct ib_sa_mad | mad_hdr struct TYPE_2__ 
+struct mcast_req | sa_mad struct ib_sa_mad 
+function build_leave_mad void | req struct mcast_req *

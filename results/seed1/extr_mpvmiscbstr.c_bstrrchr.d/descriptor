@@ -1,2 +1,0 @@
-struct bstr | len int | start int * 
-function bstrrchr int | str struct bstr | c int

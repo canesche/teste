@@ -1,0 +1,6 @@
+struct TYPE_5__ | ss_family unsigned short 
+struct TYPE_6__ | src_addr struct TYPE_5__ 
+struct TYPE_7__ | addr struct TYPE_6__ 
+struct TYPE_8__ | route struct TYPE_7__ 
+struct rdma_id_private | id struct TYPE_8__ 
+function cma_family unsigned short | id_priv struct rdma_id_private *

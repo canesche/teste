@@ -1,0 +1,1 @@
+function kauth_cred_hash int | datap const int * | data_len int | start_key int

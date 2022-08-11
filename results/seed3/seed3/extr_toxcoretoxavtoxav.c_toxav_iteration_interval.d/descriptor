@@ -1,0 +1,2 @@
+struct TYPE_3__ | interval int | calls long 
+function toxav_iteration_interval int | av const struct TYPE_3__ *

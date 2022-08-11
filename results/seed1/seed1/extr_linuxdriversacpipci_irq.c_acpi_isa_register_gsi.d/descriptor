@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function acpi_isa_register_gsi int | dev struct pci_dev *

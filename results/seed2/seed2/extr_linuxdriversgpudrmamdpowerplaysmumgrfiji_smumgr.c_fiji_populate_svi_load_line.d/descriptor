@@ -1,0 +1,5 @@
+struct pp_hwmgr | smu_backend long 
+struct TYPE_2__ | SviLoadLineTrimVddC int | SviLoadLineOffsetVddC long | SviLoadLineVddC int | SviLoadLineEn int 
+struct fiji_smumgr | power_tune_table struct TYPE_2__ | power_tune_defaults struct fiji_pt_defaults * 
+struct fiji_pt_defaults | SviLoadLineVddC int | SviLoadLineEn int 
+function fiji_populate_svi_load_line int | hwmgr struct pp_hwmgr *

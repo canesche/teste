@@ -1,0 +1,3 @@
+struct TYPE_2__ | virtual_cfg_space long 
+struct intel_vgpu | cfg_space struct TYPE_2__ 
+function intel_vgpu_get_bar_gpa int | vgpu struct intel_vgpu * | bar int

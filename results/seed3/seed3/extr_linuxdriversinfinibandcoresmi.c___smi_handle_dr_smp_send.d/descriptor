@@ -1,0 +1,1 @@
+function __smi_handle_dr_smp_send enum smi_action | is_switch int | port_num int | hop_ptr unsigned long * | hop_cnt unsigned long | initial_path const unsigned long * | return_path const unsigned long * | direction unsigned long | dr_dlid_is_permissive int | dr_slid_is_permissive int

@@ -1,3 +1,0 @@
-struct soc_pcmcia_socket | dummy int 
-struct pcmcia_state | vs_Xv long | vs_3v long 
-function cmx255_pcmcia_socket_state void | skt struct soc_pcmcia_socket * | state struct pcmcia_state *

@@ -1,2 +1,0 @@
-struct xfs_dir2_sf_hdr | dummy int 
-function xfs_dir2_sf_hdr_size int | i8count int

@@ -1,0 +1,2 @@
+struct erofs_sb_info | dummy int 
+function xattrblock_addr int | sbi struct erofs_sb_info * | xattr_id unsigned int

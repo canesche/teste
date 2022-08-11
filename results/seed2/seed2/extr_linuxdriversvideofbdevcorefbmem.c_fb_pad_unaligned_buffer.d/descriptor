@@ -1,0 +1,1 @@
+function fb_pad_unaligned_buffer void | dst int * | d_pitch int | src int * | idx int | height int | shift_high int | shift_low int | mod int

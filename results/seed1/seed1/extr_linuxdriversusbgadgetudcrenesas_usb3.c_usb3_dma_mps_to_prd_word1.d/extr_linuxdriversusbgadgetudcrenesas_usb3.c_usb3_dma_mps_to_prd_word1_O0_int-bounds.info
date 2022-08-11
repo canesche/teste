@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversusbgadgetudcrenesas_usb3.c_usb3_dma_mps_to_prd_word1.d/extr_linuxdriversusbgadgetudcrenesas_usb3.c_usb3_dma_mps_to_prd_word1_O0::usb3_dma_mps_to_prd_word1(71)"
+  }
+]

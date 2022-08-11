@@ -1,1 +1,0 @@
-function smbus_write void | offset int | data int

@@ -1,0 +1,2 @@
+struct mon_reader_bin | b_cnt unsigned int | b_in unsigned int | b_size long 
+function mon_buff_area_shrink void | rp struct mon_reader_bin * | size unsigned int

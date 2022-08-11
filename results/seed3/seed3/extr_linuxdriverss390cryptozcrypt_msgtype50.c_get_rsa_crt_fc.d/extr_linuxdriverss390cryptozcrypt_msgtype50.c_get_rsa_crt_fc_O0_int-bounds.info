@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriverss390cryptozcrypt_msgtype50.c_get_rsa_crt_fc.d/extr_linuxdriverss390cryptozcrypt_msgtype50.c_get_rsa_crt_fc_O0::get_rsa_crt_fc(65)"
+  }
+]

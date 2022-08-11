@@ -1,0 +1,2 @@
+struct usb_hcd | dummy int 
+function xhci_rcar_start void | hcd struct usb_hcd *

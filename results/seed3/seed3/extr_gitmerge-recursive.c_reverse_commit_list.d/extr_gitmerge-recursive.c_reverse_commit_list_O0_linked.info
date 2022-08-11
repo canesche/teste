@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 130011,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_gitmerge-recursive.c_reverse_commit_list.d/extr_gitmerge-recursive.c_reverse_commit_list_O0::reverse_commit_list(60)"
+  }
+]

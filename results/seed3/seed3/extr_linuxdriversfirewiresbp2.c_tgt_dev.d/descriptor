@@ -1,0 +1,4 @@
+struct sbp2_target | unit struct TYPE_2__ * 
+struct device | dummy int 
+struct TYPE_2__ | device const struct device 
+function tgt_dev const struct device * | tgt const struct sbp2_target *

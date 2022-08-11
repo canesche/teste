@@ -1,0 +1,2 @@
+struct bintime | frac int | sec int 
+function bintime2nsclock void | _bt const struct bintime * | secs int * | nanosecs int *

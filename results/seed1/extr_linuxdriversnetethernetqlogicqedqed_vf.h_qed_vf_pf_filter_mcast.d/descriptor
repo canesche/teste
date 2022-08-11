@@ -1,3 +1,0 @@
-struct qed_hwfn | dummy int 
-struct qed_filter_mcast | dummy int 
-function qed_vf_pf_filter_mcast void | p_hwfn struct qed_hwfn * | p_filter_cmd struct qed_filter_mcast *

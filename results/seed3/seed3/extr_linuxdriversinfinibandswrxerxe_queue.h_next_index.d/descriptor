@@ -1,0 +1,3 @@
+struct rxe_queue | buf struct TYPE_2__ * 
+struct TYPE_2__ | index_mask int 
+function next_index int | q struct rxe_queue * | index int

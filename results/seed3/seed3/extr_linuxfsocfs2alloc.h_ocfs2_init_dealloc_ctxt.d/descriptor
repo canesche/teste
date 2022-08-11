@@ -1,0 +1,2 @@
+struct ocfs2_cached_dealloc_ctxt | c_global_allocator int * | c_first_suballocator int * 
+function ocfs2_init_dealloc_ctxt void | c struct ocfs2_cached_dealloc_ctxt *

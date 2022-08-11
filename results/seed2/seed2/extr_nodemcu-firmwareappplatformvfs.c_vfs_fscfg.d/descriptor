@@ -1,0 +1,1 @@
+function vfs_fscfg int | name const char * | phys_addr int * | phys_size int *

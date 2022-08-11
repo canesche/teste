@@ -1,2 +1,0 @@
-struct tl_var | flags int 
-function tl_var_check_used void | v struct tl_var *

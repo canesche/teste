@@ -1,0 +1,2 @@
+struct TYPE_3__ | peer int * 
+function SSL_SESSION_get0_peer int * | s struct TYPE_3__ *

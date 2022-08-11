@@ -1,0 +1,4 @@
+struct TYPE_5__ | context void * | func int 
+struct TYPE_6__ | graph_exec_symbol_new struct TYPE_5__ 
+struct TYPE_7__ | hooks struct TYPE_6__ 
+function ccv_nnc_graph_exec_symbol_new_hook void * | graph struct TYPE_7__ *const | hook int | context void *

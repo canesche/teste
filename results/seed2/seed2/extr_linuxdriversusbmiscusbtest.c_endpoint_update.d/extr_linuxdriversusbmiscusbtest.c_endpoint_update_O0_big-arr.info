@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversusbmiscusbtest.c_endpoint_update.d/extr_linuxdriversusbmiscusbtest.c_endpoint_update_O0::endpoint_update(64)"
+  }
+]

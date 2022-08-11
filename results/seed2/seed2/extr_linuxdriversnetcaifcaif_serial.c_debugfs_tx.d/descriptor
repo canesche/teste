@@ -1,0 +1,2 @@
+struct ser_device | dummy int 
+function debugfs_tx void | ser struct ser_device * | data const int * | size int

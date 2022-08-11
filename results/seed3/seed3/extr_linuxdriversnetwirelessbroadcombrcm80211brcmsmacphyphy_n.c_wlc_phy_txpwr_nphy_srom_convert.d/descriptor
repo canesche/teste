@@ -1,0 +1,1 @@
+function wlc_phy_txpwr_nphy_srom_convert void | srom_max int * | pwr_offset int * | tmp_max_pwr int | rate_start int | rate_end int

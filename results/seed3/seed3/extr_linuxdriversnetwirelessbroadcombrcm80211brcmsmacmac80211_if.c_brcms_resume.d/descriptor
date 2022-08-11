@@ -1,0 +1,2 @@
+struct bcma_device | dummy int 
+function brcms_resume int | pdev struct bcma_device *

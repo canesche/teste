@@ -1,5 +1,0 @@
-struct wined3d_state | viewports struct TYPE_2__ * | render_states long * 
-struct wined3d_context | dummy int 
-struct TYPE_2__ | height float 
-function get_pointsize void | context const struct wined3d_context * | state const struct wined3d_state * | out_pointsize float * | out_att float *
-struct  | d long | f float 

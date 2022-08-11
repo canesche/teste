@@ -1,2 +1,0 @@
-struct kmem_cache | dummy int 
-function alternate_node_alloc void * | cachep struct kmem_cache * | flags int

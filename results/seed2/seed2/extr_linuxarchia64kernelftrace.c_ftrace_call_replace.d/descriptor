@@ -1,0 +1,2 @@
+struct ftrace_call_insn | imm39_l unsigned long | imm39_h unsigned long | imm20 unsigned long | i unsigned long 
+function ftrace_call_replace unsigned char * | ip unsigned long | addr unsigned long

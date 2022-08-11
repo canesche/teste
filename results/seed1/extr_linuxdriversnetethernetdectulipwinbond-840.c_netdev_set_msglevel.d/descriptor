@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function netdev_set_msglevel void | dev struct net_device * | value int

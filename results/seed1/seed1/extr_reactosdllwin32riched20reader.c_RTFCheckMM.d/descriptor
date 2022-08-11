@@ -1,0 +1,2 @@
+struct TYPE_3__ | rtfMajor int | rtfMinor int 
+function RTFCheckMM int | info const struct TYPE_3__ * | major int | minor int

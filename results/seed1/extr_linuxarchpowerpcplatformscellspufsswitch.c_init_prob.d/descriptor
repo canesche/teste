@@ -1,3 +1,0 @@
-struct TYPE_2__ | mb_stat_R int | spu_runcntl_RW int 
-struct spu_state | spu_chnlcnt_RW int * | prob struct TYPE_2__ 
-function init_prob void | csa struct spu_state *

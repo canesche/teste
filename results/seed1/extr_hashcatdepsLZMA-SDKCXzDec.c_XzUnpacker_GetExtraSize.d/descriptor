@@ -1,2 +1,0 @@
-struct TYPE_3__ | state long | pos long | padSize long 
-function XzUnpacker_GetExtraSize long | p const struct TYPE_3__ *

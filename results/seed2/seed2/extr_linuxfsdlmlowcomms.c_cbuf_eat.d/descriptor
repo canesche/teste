@@ -1,0 +1,2 @@
+struct cbuf | len int | base int | mask int 
+function cbuf_eat void | cb struct cbuf * | n int

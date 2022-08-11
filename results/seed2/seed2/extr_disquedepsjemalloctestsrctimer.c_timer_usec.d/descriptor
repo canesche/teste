@@ -1,0 +1,4 @@
+struct TYPE_6__ | tv_sec int | tv_usec long 
+struct TYPE_5__ | tv_sec int | tv_usec long 
+struct TYPE_7__ | tv0 struct TYPE_6__ | tv1 struct TYPE_5__ 
+function timer_usec long | timer const struct TYPE_7__ *

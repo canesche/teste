@@ -1,0 +1,2 @@
+struct bh1770_chip | lux_corr int 
+function bh1770_lux_adjusted_to_raw int | chip struct bh1770_chip * | adjusted int

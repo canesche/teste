@@ -1,0 +1,3 @@
+struct TYPE_5__ | output_id long 
+struct TYPE_6__ | mir struct TYPE_5__ 
+function _glfwPlatformIsSameMonitor int | first struct TYPE_6__ * | second struct TYPE_6__ *

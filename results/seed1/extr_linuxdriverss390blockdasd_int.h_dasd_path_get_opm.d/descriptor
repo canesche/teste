@@ -1,2 +1,0 @@
-struct dasd_device | opm int 
-function dasd_path_get_opm int | device struct dasd_device *

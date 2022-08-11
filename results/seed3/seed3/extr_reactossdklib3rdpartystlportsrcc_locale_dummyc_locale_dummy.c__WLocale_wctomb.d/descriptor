@@ -1,0 +1,2 @@
+struct _Locale_codecvt | dummy int 
+function _WLocale_wctomb unsigned long | lcodecvt struct _Locale_codecvt * | to char * | n unsigned long | c const long | st int *

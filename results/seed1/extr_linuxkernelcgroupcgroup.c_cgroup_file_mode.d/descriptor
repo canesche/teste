@@ -1,2 +1,0 @@
-struct cftype | flags int | write long | write_s64 long | write_u64 long | seq_show long | read_s64 long | read_u64 long 
-function cgroup_file_mode int | cft const struct cftype *

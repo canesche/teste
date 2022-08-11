@@ -1,2 +1,0 @@
-struct object | flags int 
-function is_our_ref int | o struct object *

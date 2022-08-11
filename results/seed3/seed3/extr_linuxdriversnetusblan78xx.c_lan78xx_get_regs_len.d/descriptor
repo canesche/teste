@@ -1,0 +1,2 @@
+struct net_device | phydev int 
+function lan78xx_get_regs_len int | netdev struct net_device *

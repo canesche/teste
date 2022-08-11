@@ -1,0 +1,6 @@
+struct ocrdma_mqe | dummy int 
+struct TYPE_6__ | tag int 
+struct TYPE_4__ | va void * 
+struct TYPE_5__ | sq struct TYPE_4__ 
+struct ocrdma_dev | mqe_ctx struct TYPE_6__ | mq struct TYPE_5__ 
+function ocrdma_get_mqe_rsp void * | dev struct ocrdma_dev *

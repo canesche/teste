@@ -1,0 +1,2 @@
+struct cacheinfo | level int 
+function cache_leaves_are_shared int | this_leaf struct cacheinfo * | sib_leaf struct cacheinfo *

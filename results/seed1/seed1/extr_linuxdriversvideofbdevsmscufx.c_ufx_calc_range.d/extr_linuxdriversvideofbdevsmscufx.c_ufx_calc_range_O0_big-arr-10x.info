@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversvideofbdevsmscufx.c_ufx_calc_range.d/extr_linuxdriversvideofbdevsmscufx.c_ufx_calc_range_O0::ufx_calc_range(61)"
+  }
+]

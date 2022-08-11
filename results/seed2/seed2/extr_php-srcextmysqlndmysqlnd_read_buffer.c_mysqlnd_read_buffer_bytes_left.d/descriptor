@@ -1,0 +1,2 @@
+struct TYPE_3__ | len unsigned long 
+function mysqlnd_read_buffer_bytes_left unsigned long | buffer const struct TYPE_3__ *const

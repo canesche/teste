@@ -1,0 +1,3 @@
+struct mv88e6xxx_chip | ports struct TYPE_2__ * 
+struct TYPE_2__ | cmode int 
+function mv88e6390_serdes_get_lane int | chip struct mv88e6xxx_chip * | port int

@@ -1,0 +1,4 @@
+struct qed_fcoe_cb_ops | dummy int 
+struct TYPE_2__ | fcoe struct qed_fcoe_cb_ops * 
+struct qed_dev | ops_cookie void * | protocol_ops struct TYPE_2__ 
+function qed_register_fcoe_ops void | cdev struct qed_dev * | ops struct qed_fcoe_cb_ops * | cookie void *

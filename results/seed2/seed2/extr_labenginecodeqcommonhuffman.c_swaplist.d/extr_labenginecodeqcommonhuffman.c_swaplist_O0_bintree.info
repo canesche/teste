@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 62,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 62,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_labenginecodeqcommonhuffman.c_swaplist.d/extr_labenginecodeqcommonhuffman.c_swaplist_O0::swaplist(63)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 10,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 331,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriverss390netqeth_l3_main.c_qeth_l3_fill_netmask.d/extr_linuxdriverss390netqeth_l3_main.c_qeth_l3_fill_netmask_O0::qeth_l3_fill_netmask(62)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 21,
+    static: {
+      instructions: 64,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9716,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_emscriptentestsnbody-javaxmlvm-number.c_addHighPrecision.d/extr_emscriptentestsnbody-javaxmlvm-number.c_addHighPrecision_O0::addHighPrecision(62)"
+  }
+]

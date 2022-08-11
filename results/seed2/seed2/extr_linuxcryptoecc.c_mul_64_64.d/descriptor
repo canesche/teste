@@ -1,0 +1,2 @@
+struct TYPE_3__ | m_low int | m_high int 
+function mul_64_64 struct TYPE_3__ | left int | right int

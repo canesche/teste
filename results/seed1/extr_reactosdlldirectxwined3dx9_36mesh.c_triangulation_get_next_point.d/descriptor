@@ -1,8 +1,0 @@
-struct TYPE_4__ | count int | items unsigned long * 
-struct triangulation | last_on_top long | vertex_stack struct TYPE_4__ 
-struct point2d_index | vertex int | outline struct outline * 
-struct outline | count int | items struct TYPE_6__ * 
-struct TYPE_5__ | items struct point2d_index * 
-struct glyphinfo | ordered_vertices struct TYPE_5__ 
-struct TYPE_6__ | pos int 
-function triangulation_get_next_point int * | t struct triangulation * | glyph struct glyphinfo * | on_top long

@@ -1,0 +1,2 @@
+struct usb_endpoint_descriptor | bmAttributes int 
+function RT_usb_endpoint_xfer_bulk int | epd const struct usb_endpoint_descriptor *

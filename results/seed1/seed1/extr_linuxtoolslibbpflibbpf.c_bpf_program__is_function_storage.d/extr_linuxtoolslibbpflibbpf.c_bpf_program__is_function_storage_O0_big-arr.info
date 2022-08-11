@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxtoolslibbpflibbpf.c_bpf_program__is_function_storage.d/extr_linuxtoolslibbpflibbpf.c_bpf_program__is_function_storage_O0::bpf_program__is_function_storage(65)"
+  }
+]

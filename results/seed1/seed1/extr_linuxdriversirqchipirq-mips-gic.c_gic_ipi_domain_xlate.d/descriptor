@@ -1,0 +1,3 @@
+struct irq_domain | dummy int 
+struct device_node | dummy int 
+function gic_ipi_domain_xlate int | d struct irq_domain * | ctrlr struct device_node * | intspec const int * | intsize unsigned int | out_hwirq long * | out_type unsigned int *

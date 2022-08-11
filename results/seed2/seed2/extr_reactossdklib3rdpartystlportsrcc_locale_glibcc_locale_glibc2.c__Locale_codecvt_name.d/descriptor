@@ -1,0 +1,2 @@
+struct _Locale_codecvt | dummy int 
+function _Locale_codecvt_name const char * | __loc const struct _Locale_codecvt * | buf char *

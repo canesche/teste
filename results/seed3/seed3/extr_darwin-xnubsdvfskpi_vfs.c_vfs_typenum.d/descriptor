@@ -1,0 +1,3 @@
+struct TYPE_5__ | mnt_vtable struct TYPE_4__ * 
+struct TYPE_4__ | vfc_typenum int 
+function vfs_typenum int | mp struct TYPE_5__ *

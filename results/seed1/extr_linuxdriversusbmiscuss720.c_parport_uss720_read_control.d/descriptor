@@ -1,3 +1,0 @@
-struct parport_uss720_private | reg int * 
-struct parport | private_data struct parport_uss720_private * 
-function parport_uss720_read_control unsigned char | pp struct parport *

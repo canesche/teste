@@ -1,0 +1,1 @@
+function GetFATSizeSectors int | DskSize int | ReservedSecCnt int | SecPerClus int | NumFATs int | BytesPerSect int

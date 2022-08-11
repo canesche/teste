@@ -1,0 +1,2 @@
+struct TYPE_3__ | t_procflags int 
+function task_clear_exec_copy_flag void | task struct TYPE_3__ *

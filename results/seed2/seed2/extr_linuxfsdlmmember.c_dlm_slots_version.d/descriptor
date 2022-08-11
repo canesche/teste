@@ -1,0 +1,2 @@
+struct dlm_header | h_version int 
+function dlm_slots_version int | h struct dlm_header *

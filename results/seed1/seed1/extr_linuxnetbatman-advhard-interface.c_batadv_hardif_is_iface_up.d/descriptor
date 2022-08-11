@@ -1,0 +1,3 @@
+struct batadv_hard_iface | net_dev struct TYPE_2__ * 
+struct TYPE_2__ | flags int 
+function batadv_hardif_is_iface_up int | hard_iface const struct batadv_hard_iface *

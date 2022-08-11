@@ -1,1 +1,0 @@
-function set_preferred_offline_state void | cpu int | state enum cpu_state_vals

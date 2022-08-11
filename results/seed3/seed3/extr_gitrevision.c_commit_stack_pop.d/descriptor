@@ -1,0 +1,3 @@
+struct commit_stack | nr int | items struct commit ** 
+struct commit | dummy int 
+function commit_stack_pop struct commit * | stack struct commit_stack *

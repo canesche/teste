@@ -1,0 +1,3 @@
+struct scb | sg_list_phys int | sg_list struct ahc_dma_seg * 
+struct ahc_dma_seg | dummy int 
+function ahc_sg_bus_to_virt struct ahc_dma_seg * | scb struct scb * | sg_busaddr int

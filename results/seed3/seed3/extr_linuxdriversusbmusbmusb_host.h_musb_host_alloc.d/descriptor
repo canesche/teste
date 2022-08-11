@@ -1,0 +1,2 @@
+struct musb | dummy int 
+function musb_host_alloc int | musb struct musb *

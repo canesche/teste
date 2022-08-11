@@ -1,0 +1,3 @@
+struct dmaengine_desc_callback | callback_param int | callback_result int | callback int 
+struct dma_async_tx_descriptor | callback_param int | callback_result int | callback int 
+function dmaengine_desc_get_callback void | tx struct dma_async_tx_descriptor * | cb struct dmaengine_desc_callback *

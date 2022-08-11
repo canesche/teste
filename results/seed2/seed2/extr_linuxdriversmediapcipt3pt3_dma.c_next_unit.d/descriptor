@@ -1,0 +1,3 @@
+struct pt3_adapter | num_bufs int | buffer struct TYPE_2__ * 
+struct TYPE_2__ | data int * 
+function next_unit int * | adap struct pt3_adapter * | idx int * | ofs int *

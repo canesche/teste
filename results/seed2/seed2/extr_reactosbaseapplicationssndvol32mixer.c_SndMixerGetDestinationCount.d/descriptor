@@ -1,0 +1,3 @@
+struct TYPE_4__ | cDestinations long 
+struct TYPE_5__ | Caps struct TYPE_4__ | hmx long 
+function SndMixerGetDestinationCount int | Mixer struct TYPE_5__ *

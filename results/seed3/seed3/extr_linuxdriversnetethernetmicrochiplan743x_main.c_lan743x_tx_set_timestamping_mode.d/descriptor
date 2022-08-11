@@ -1,0 +1,2 @@
+struct lan743x_tx | ts_flags int 
+function lan743x_tx_set_timestamping_mode void | tx struct lan743x_tx * | enable_timestamping int | enable_onestep_sync int

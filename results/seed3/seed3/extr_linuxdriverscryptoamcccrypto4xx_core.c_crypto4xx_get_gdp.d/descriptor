@@ -1,0 +1,3 @@
+struct crypto4xx_device | gdr struct ce_gd * | gdr_pa long 
+struct ce_gd | dummy int 
+function crypto4xx_get_gdp struct ce_gd * | dev struct crypto4xx_device * | gd_dma long * | idx int

@@ -1,2 +1,0 @@
-struct psmouse | dummy int 
-function focaltech_init int | psmouse struct psmouse *

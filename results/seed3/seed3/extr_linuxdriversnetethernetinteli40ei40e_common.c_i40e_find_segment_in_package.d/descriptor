@@ -1,0 +1,3 @@
+struct i40e_package_header | segment_count unsigned long | segment_offset int * 
+struct i40e_generic_seg_header | type unsigned long 
+function i40e_find_segment_in_package struct i40e_generic_seg_header * | segment_type unsigned long | pkg_hdr struct i40e_package_header *

@@ -1,0 +1,2 @@
+struct loopback_test | mask int 
+function device_enabled int | t struct loopback_test * | dev_idx int

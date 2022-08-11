@@ -1,4 +1,0 @@
-struct mlme_ext_info | state int 
-struct mlme_ext_priv | mlmext_info struct mlme_ext_info 
-struct adapter | mlmeextpriv struct mlme_ext_priv 
-function is_client_associated_to_ap int | padapter struct adapter *

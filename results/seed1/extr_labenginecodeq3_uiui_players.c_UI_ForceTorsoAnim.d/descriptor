@@ -1,2 +1,0 @@
-struct TYPE_3__ | torsoAnim int | torsoAnimationTimer int 
-function UI_ForceTorsoAnim void | pi struct TYPE_3__ * | anim int

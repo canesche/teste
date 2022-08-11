@@ -1,5 +1,0 @@
-struct TYPE_7__ | image_base int 
-struct TYPE_9__ | art struct TYPE_7__ 
-struct TYPE_8__ | o struct TYPE_6__ * 
-struct TYPE_6__ | bin_obj struct TYPE_9__ * 
-function baddr int | bf struct TYPE_8__ *

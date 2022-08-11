@@ -1,1 +1,0 @@
-function obtain_tcp_info int | fd int | rtt int * | mss int * | cwnd_size int * | cwnd_avail int *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | u16 int 
+function LZ4_read16 int | ptr const void *

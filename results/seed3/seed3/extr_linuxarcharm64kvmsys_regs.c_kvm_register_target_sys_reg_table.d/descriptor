@@ -1,0 +1,2 @@
+struct kvm_sys_reg_target_table | dummy int 
+function kvm_register_target_sys_reg_table void | target unsigned int | table struct kvm_sys_reg_target_table *

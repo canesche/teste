@@ -1,0 +1,2 @@
+struct cnic_dev | dummy int 
+function cnic_disable_bnx2x_int_sync void | dev struct cnic_dev *

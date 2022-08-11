@@ -1,0 +1,2 @@
+struct _Locale_messages | dummy int 
+function _Locale_messages_destroy void | lmes struct _Locale_messages *

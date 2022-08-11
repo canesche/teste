@@ -1,0 +1,2 @@
+struct arc4context | state int * | y long | x long 
+function arcfour_init void | parc4ctx struct arc4context * | key int * | key_len int

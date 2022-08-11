@@ -1,2 +1,0 @@
-struct dentry | dummy int 
-function bad_inode_listxattr int | dentry struct dentry * | buffer char * | buffer_size unsigned long

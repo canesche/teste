@@ -1,2 +1,0 @@
-struct backtrace_location | filename int * 
-function count_backtrace_i void | mrb int * | loc struct backtrace_location * | data void *

@@ -1,1 +1,0 @@
-function ngx_spinlock void | lock int * | value int | spin int

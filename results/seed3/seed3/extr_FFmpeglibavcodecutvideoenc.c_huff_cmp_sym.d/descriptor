@@ -1,0 +1,2 @@
+struct TYPE_2__ | sym int 
+function huff_cmp_sym int | a const void * | b const void *

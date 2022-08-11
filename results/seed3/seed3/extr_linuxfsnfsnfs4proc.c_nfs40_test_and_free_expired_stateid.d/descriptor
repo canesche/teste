@@ -1,0 +1,3 @@
+struct rpc_cred | dummy int 
+struct nfs_server | dummy int 
+function nfs40_test_and_free_expired_stateid int | server struct nfs_server * | stateid int * | cred struct rpc_cred *

@@ -1,4 +1,0 @@
-struct tcmsg | dummy int 
-struct sk_buff | dummy int 
-struct Qdisc | dummy int 
-function sfb_dump_class int | sch struct Qdisc * | cl unsigned long | skb struct sk_buff * | tcm struct tcmsg *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | ce_flags int | parent struct TYPE_3__ * 
+function get_class_entry_rank long | ce struct TYPE_3__ *

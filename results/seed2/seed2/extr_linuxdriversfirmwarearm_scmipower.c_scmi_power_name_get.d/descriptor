@@ -1,0 +1,4 @@
+struct scmi_power_info | dom_info struct power_dom_info * 
+struct scmi_handle | power_priv struct scmi_power_info * 
+struct power_dom_info | name char * 
+function scmi_power_name_get char * | handle const struct scmi_handle * | domain int

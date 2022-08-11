@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversvideofbdevmmpfbmmpfb.c_mmpfb_check_var.d/extr_linuxdriversvideofbdevmmpfbmmpfb.c_mmpfb_check_var_O0::mmpfb_check_var(65)"
+  }
+]

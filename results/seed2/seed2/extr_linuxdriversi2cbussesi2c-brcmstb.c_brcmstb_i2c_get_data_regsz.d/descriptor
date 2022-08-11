@@ -1,0 +1,2 @@
+struct brcmstb_i2c_dev | data_regsz int 
+function brcmstb_i2c_get_data_regsz int | dev struct brcmstb_i2c_dev *

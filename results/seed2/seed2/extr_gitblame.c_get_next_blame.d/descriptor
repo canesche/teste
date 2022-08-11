@@ -1,0 +1,2 @@
+struct blame_entry | next void * 
+function get_next_blame void * | p const void *

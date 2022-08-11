@@ -1,0 +1,4 @@
+struct TYPE_3__ | base int 
+struct brcmstb_gpio_bank | parent_priv struct TYPE_4__ * | gc struct TYPE_3__ 
+struct TYPE_4__ | gpio_base int 
+function brcmstb_gpio_hwirq_to_offset int | hwirq int | bank struct brcmstb_gpio_bank *

@@ -1,0 +1,2 @@
+struct ieee80211_local | dummy int 
+function ieee80211_mod_tpt_led_trig void | local struct ieee80211_local * | types_on unsigned int | types_off unsigned int

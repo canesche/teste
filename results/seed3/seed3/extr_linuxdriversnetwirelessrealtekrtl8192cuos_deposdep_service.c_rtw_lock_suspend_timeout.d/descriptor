@@ -1,0 +1,1 @@
+function rtw_lock_suspend_timeout void | timeout_ms int

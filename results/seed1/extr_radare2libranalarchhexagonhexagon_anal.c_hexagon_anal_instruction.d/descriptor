@@ -1,5 +1,0 @@
-struct TYPE_10__ | instruction int | ops struct TYPE_8__ * 
-struct TYPE_9__ | jump int | addr int | fail int | size int | type void * 
-struct TYPE_7__ | imm int 
-struct TYPE_8__ | op struct TYPE_7__ 
-function hexagon_anal_instruction int | hi struct TYPE_10__ * | op struct TYPE_9__ *

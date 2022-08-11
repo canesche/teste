@@ -1,0 +1,2 @@
+struct drm_panel | dummy int 
+function ld9040_enable int | panel struct drm_panel *

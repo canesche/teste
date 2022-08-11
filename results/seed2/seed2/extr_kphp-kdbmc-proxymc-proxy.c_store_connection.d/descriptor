@@ -1,0 +1,2 @@
+struct connection | unreliability int | ready int | flags int | status int | fd int 
+function store_connection void | c struct connection *

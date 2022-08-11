@@ -1,0 +1,4 @@
+struct bpf_verifier_env | seen_direct_write int | prog struct TYPE_2__ * 
+struct bpf_call_arg_meta | pkt_access int 
+struct TYPE_2__ | type int 
+function may_access_direct_pkt_data int | env struct bpf_verifier_env * | meta const struct bpf_call_arg_meta * | t enum bpf_access_type

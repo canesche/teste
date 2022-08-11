@@ -1,0 +1,2 @@
+struct rpc_buffer | rptr long | wptr long 
+function buffer_check_len_rptr int | buf struct rpc_buffer * | x int

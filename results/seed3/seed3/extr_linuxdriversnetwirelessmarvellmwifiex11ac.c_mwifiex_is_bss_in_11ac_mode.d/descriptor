@@ -1,0 +1,5 @@
+struct mwifiex_bssdescriptor | bcn_vht_cap int | bcn_vht_oper struct ieee80211_vht_operation * 
+struct TYPE_2__ | bss_descriptor struct mwifiex_bssdescriptor 
+struct mwifiex_private | curr_bss_params struct TYPE_2__ 
+struct ieee80211_vht_operation | chan_width long 
+function mwifiex_is_bss_in_11ac_mode int | priv struct mwifiex_private *

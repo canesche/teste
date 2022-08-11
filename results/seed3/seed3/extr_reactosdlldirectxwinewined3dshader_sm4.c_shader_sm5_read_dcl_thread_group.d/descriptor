@@ -1,0 +1,5 @@
+struct wined3d_sm4_data | dummy int 
+struct TYPE_3__ | z int | y int | x int 
+struct TYPE_4__ | thread_group_size struct TYPE_3__ 
+struct wined3d_shader_instruction | declaration struct TYPE_4__ 
+function shader_sm5_read_dcl_thread_group void | ins struct wined3d_shader_instruction * | opcode int | opcode_token int | tokens const int * | token_count unsigned int | priv struct wined3d_sm4_data *

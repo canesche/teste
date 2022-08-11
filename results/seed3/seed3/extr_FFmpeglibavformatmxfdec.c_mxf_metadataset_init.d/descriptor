@@ -1,0 +1,2 @@
+struct TYPE_2__ | duration int | pix_fmt int 
+function mxf_metadataset_init int | ctx int * | type enum MXFMetadataSetType

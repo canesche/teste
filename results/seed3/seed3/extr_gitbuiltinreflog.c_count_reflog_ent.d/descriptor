@@ -1,0 +1,4 @@
+struct object_id | dummy int 
+struct TYPE_2__ | expire_total long | recno int 
+struct expire_reflog_policy_cb | cmd struct TYPE_2__ 
+function count_reflog_ent int | ooid struct object_id * | noid struct object_id * | email const char * | timestamp long | tz int | message const char * | cb_data void *

@@ -1,3 +1,0 @@
-struct TYPE_5__ | data long 
-struct TYPE_4__ | size int 
-function _io_malloc_set_sz void | desc struct TYPE_5__ * | sz int

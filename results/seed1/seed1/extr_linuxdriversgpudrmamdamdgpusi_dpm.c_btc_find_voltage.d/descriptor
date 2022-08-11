@@ -1,0 +1,3 @@
+struct atom_voltage_table | count unsigned int | entries struct TYPE_2__ * 
+struct TYPE_2__ | value long 
+function btc_find_voltage long | table struct atom_voltage_table * | voltage long

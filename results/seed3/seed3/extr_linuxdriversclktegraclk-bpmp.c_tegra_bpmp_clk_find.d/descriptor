@@ -1,0 +1,2 @@
+struct tegra_bpmp_clk_info | id unsigned int 
+function tegra_bpmp_clk_find const struct tegra_bpmp_clk_info * | clocks const struct tegra_bpmp_clk_info * | num_clocks unsigned int | id unsigned int

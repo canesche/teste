@@ -1,0 +1,2 @@
+struct nvkm_therm | dummy int 
+function nvkm_therm_fan_init int | therm struct nvkm_therm *

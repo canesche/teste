@@ -1,0 +1,2 @@
+struct zcc_magazine | dummy int 
+function zcache_swap_magazines void | a struct zcc_magazine ** | b struct zcc_magazine **

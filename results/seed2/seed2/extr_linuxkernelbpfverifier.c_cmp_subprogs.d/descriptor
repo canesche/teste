@@ -1,0 +1,2 @@
+struct bpf_subprog_info | start int 
+function cmp_subprogs int | a const void * | b const void *

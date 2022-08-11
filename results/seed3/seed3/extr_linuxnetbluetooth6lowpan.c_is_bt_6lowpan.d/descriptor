@@ -1,0 +1,2 @@
+struct hci_conn | type long 
+function is_bt_6lowpan int | hcon struct hci_conn *

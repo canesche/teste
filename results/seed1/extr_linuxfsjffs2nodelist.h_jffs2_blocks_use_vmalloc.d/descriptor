@@ -1,3 +1,0 @@
-struct jffs2_sb_info | flash_size int | sector_size int 
-struct jffs2_eraseblock | dummy int 
-function jffs2_blocks_use_vmalloc int | c struct jffs2_sb_info *

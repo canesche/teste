@@ -1,0 +1,4 @@
+struct bnad_rx_unmap_q | reuse_pi int | alloc_order int | type int | map_size long 
+struct bnad | dummy int 
+struct bna_rcb | unmap_q struct bnad_rx_unmap_q * 
+function bnad_rxq_alloc_uninit void | bnad struct bnad * | rcb struct bna_rcb *

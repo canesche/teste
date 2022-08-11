@@ -1,1 +1,0 @@
-function crypto_aead_aes256gcm_decrypt_detached int | m unsigned char * | nsec unsigned char * | c const unsigned char * | clen unsigned long long | mac const unsigned char * | ad const unsigned char * | adlen unsigned long long | npub const unsigned char * | k const unsigned char *

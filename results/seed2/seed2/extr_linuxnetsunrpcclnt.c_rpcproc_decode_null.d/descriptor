@@ -1,0 +1,3 @@
+struct xdr_stream | dummy int 
+struct rpc_rqst | dummy int 
+function rpcproc_decode_null int | rqstp struct rpc_rqst * | xdr struct xdr_stream * | obj void *

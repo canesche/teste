@@ -1,0 +1,3 @@
+struct macio_chip | type int | of_node struct device_node * 
+struct device_node | parent struct device_node * 
+function macio_find struct macio_chip * | child struct device_node * | type int

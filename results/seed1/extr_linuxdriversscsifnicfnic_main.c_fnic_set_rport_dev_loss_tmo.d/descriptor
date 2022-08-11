@@ -1,2 +1,0 @@
-struct fc_rport | dev_loss_tmo int 
-function fnic_set_rport_dev_loss_tmo void | rport struct fc_rport * | timeout int

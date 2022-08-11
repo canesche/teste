@@ -1,2 +1,0 @@
-struct sdhci_acpi_host | private long 
-function sdhci_acpi_priv void * | c struct sdhci_acpi_host *

@@ -1,4 +1,0 @@
-struct TYPE_6__ | TCPHeader struct TYPE_5__ * 
-struct TYPE_7__ | TypeL3 long | TypeL4 long | TypeL7 long | L4 struct TYPE_6__ 
-struct TYPE_5__ | Flag int 
-function IsMostHighestPriorityPacket int | s int * | p struct TYPE_7__ *

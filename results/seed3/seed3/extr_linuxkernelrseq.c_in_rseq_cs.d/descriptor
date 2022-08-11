@@ -1,0 +1,2 @@
+struct rseq_cs | start_ip unsigned long | post_commit_offset unsigned long 
+function in_rseq_cs int | ip unsigned long | rseq_cs struct rseq_cs *

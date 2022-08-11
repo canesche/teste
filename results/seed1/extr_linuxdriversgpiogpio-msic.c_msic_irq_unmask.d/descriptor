@@ -1,2 +1,0 @@
-struct irq_data | dummy int 
-function msic_irq_unmask void | data struct irq_data *

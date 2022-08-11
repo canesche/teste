@@ -1,3 +1,0 @@
-struct genl_ops | cmd long 
-struct genl_family | n_ops int | ops const struct genl_ops * 
-function genl_get_cmd const struct genl_ops * | cmd long | family const struct genl_family *

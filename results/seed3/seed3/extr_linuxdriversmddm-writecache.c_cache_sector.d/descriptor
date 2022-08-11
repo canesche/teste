@@ -1,0 +1,3 @@
+struct wc_entry | index long 
+struct dm_writecache | start_sector int | metadata_sectors int | block_size_bits int 
+function cache_sector int | wc struct dm_writecache * | e struct wc_entry *

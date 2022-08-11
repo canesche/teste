@@ -1,3 +1,0 @@
-struct wlr_output | data struct sway_output * 
-struct sway_output | dummy int 
-function output_from_wlr_output struct sway_output * | output struct wlr_output *

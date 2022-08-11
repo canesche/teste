@@ -1,0 +1,4 @@
+struct TYPE_5__ | port_speed long 
+struct TYPE_6__ | b struct TYPE_5__ 
+struct TYPE_7__ | frame_usecs int * | flags struct TYPE_6__ 
+function init_hcd_usecs void | _hcd struct TYPE_7__ *

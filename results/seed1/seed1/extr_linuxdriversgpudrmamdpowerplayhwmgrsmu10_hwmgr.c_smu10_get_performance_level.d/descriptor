@@ -1,0 +1,8 @@
+struct TYPE_8__ | vdd_dep_on_fclk struct TYPE_7__ * 
+struct smu10_hwmgr | gfx_max_freq_limit int | clock_vol_info struct TYPE_8__ | gfx_min_freq_limit int 
+struct pp_hwmgr | backend long 
+struct pp_hw_power_state | dummy int 
+struct TYPE_9__ | nonLocalMemoryWidth long | nonLocalMemoryFreq long | coreClock int | memory_clock int 
+struct TYPE_7__ | count int | entries struct TYPE_6__ * 
+struct TYPE_6__ | clk int 
+function smu10_get_performance_level int | hwmgr struct pp_hwmgr * | state const struct pp_hw_power_state * | designation int | index long | level struct TYPE_9__ *

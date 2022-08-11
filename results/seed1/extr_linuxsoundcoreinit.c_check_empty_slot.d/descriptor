@@ -1,2 +1,0 @@
-struct module | dummy int 
-function check_empty_slot int | module struct module * | slot int

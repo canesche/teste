@@ -1,0 +1,2 @@
+struct in_device | dummy int 
+function devinet_sysctl_unregister void | idev struct in_device *

@@ -1,0 +1,2 @@
+struct acpi_buffer | length long | pointer int 
+function acpi_ut_validate_buffer int | buffer struct acpi_buffer *

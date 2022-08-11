@@ -1,3 +1,0 @@
-struct svc_rqst | dummy int 
-struct nfsd4_op | dummy int 
-function nfsd4_copy_rsize int | rqstp struct svc_rqst * | op struct nfsd4_op *

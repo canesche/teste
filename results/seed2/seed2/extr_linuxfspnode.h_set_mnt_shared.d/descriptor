@@ -1,0 +1,3 @@
+struct TYPE_2__ | mnt_flags int 
+struct mount | mnt struct TYPE_2__ 
+function set_mnt_shared void | mnt struct mount *

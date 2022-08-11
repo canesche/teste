@@ -1,0 +1,2 @@
+struct page | dummy int 
+function set_page_memtype void | pg struct page * | memtype enum page_cache_mode

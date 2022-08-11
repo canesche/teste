@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxfsnotifymark.c_fsnotify_compare_groups.d/extr_linuxfsnotifymark.c_fsnotify_compare_groups_O0::fsnotify_compare_groups(61)"
+  }
+]

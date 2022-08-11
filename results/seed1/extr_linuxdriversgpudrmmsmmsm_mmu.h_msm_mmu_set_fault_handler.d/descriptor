@@ -1,2 +1,0 @@
-struct msm_mmu | handler int (*)(void *, unsigned long, int) | arg void * 
-function msm_mmu_set_fault_handler void | mmu struct msm_mmu * | arg void * | handler int (*)(void *, unsigned long, int)

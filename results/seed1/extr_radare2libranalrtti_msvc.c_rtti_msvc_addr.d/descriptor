@@ -1,2 +1,0 @@
-struct TYPE_3__ | word_size int 
-function rtti_msvc_addr long | context struct TYPE_3__ * | col_addr long | col_base long | addr long

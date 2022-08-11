@@ -1,0 +1,2 @@
+struct brcmf_pub | iflist int * 
+function brcmf_get_first_free_bsscfgidx int | drvr struct brcmf_pub *

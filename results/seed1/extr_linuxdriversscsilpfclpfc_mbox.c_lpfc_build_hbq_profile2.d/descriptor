@@ -1,5 +1,0 @@
-struct lpfc_hbq_init | seqlenoff int | maxlen int | seqlenbcnt int 
-struct TYPE_3__ | seqlenoff int | maxlen int | seqlenbcnt int 
-struct TYPE_4__ | profile2 struct TYPE_3__ 
-struct config_hbq_var | profiles struct TYPE_4__ 
-function lpfc_build_hbq_profile2 void | hbqmb struct config_hbq_var * | hbq_desc struct lpfc_hbq_init *

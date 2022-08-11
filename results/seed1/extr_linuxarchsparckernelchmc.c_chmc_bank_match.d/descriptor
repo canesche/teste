@@ -1,2 +1,0 @@
-struct chmc_bank_info | valid long | um unsigned long | uk unsigned long | lm unsigned long | lk unsigned long 
-function chmc_bank_match int | bp struct chmc_bank_info * | phys_addr unsigned long

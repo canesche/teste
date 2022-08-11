@@ -1,0 +1,2 @@
+struct pn533 | poll_mod_count long 
+function pn533_poll_reset_mod_list void | dev struct pn533 *

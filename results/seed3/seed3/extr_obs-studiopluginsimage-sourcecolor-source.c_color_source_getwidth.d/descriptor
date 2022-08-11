@@ -1,0 +1,2 @@
+struct color_source | width int 
+function color_source_getwidth int | data void *

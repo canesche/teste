@@ -1,0 +1,3 @@
+struct i2c_board_info | dummy int 
+struct ef4_nic | dummy int 
+function ef4_init_lm87 int | efx struct ef4_nic * | info const struct i2c_board_info * | reg_values const int *

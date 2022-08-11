@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function bad_inode_permission int | inode struct inode * | mask int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400600,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxtoolstestingselfteststimersadjtick.c_llabs.d/extr_linuxtoolstestingselfteststimersadjtick.c_llabs_O0::llabs(60)"
+  }
+]

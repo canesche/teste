@@ -1,2 +1,0 @@
-struct xfs_da_geometry | blklog int 
-function xfs_dir2_byte_to_db int | geo struct xfs_da_geometry * | by int

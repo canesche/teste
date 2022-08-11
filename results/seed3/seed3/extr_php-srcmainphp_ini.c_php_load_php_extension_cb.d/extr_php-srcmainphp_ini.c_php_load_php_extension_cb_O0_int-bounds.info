@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_php-srcmainphp_ini.c_php_load_php_extension_cb.d/extr_php-srcmainphp_ini.c_php_load_php_extension_cb_O0::php_load_php_extension_cb(60)"
+  }
+]

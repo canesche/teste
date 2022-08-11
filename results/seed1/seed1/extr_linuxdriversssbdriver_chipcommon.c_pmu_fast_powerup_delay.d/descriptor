@@ -1,0 +1,4 @@
+struct ssb_chipcommon | dev struct TYPE_2__ * 
+struct ssb_bus | chip_id int 
+struct TYPE_2__ | bus struct ssb_bus * 
+function pmu_fast_powerup_delay int | cc struct ssb_chipcommon *

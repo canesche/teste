@@ -1,3 +1,0 @@
-struct platform_device | dummy int 
-struct plat_stmmacenet_data | dummy int 
-function stmmac_remove_config_dt void | pdev struct platform_device * | plat struct plat_stmmacenet_data *

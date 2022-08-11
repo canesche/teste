@@ -1,0 +1,3 @@
+struct scsi_cmnd | host_scribble long 
+struct gdth_cmndinfo | dummy int 
+function gdth_cmnd_priv struct gdth_cmndinfo * | cmd struct scsi_cmnd *

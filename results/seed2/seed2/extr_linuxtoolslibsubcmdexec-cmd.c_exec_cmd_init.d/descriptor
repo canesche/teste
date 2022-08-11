@@ -1,0 +1,2 @@
+struct TYPE_2__ | exec_name const char * | prefix const char * | exec_path const char * | exec_path_env const char * 
+function exec_cmd_init void | exec_name const char * | prefix const char * | exec_path const char * | exec_path_env const char *

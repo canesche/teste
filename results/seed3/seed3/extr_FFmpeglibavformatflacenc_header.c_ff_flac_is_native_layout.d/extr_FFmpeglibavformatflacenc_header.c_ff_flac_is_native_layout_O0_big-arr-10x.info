@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_FFmpeglibavformatflacenc_header.c_ff_flac_is_native_layout.d/extr_FFmpeglibavformatflacenc_header.c_ff_flac_is_native_layout_O0::ff_flac_is_native_layout(69)"
+  }
+]

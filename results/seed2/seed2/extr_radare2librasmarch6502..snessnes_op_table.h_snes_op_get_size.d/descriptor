@@ -1,0 +1,2 @@
+struct TYPE_3__ | len int 
+function snes_op_get_size int | M_flag int | X_flag int | op struct TYPE_3__ *

@@ -1,4 +1,0 @@
-struct sk_buff | dummy int 
-struct rtllib_rx_stats | dummy int 
-struct rtllib_device | dummy int 
-function rtllib_rx_Master int | ieee struct rtllib_device * | skb struct sk_buff * | rx_stats struct rtllib_rx_stats *

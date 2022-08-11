@@ -1,0 +1,2 @@
+struct color_fixup_desc | x_source long 
+function is_complex_fixup int | fixup struct color_fixup_desc

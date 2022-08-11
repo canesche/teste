@@ -1,0 +1,2 @@
+struct ath6kl | dummy int 
+function check_device_tree int | ar struct ath6kl *

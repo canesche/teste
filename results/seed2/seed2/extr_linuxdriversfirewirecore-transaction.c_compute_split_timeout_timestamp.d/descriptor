@@ -1,0 +1,2 @@
+struct fw_card | split_timeout_cycles unsigned int 
+function compute_split_timeout_timestamp int | card struct fw_card * | request_timestamp int

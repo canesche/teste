@@ -1,0 +1,2 @@
+struct iwl_scale_tbl_info | expected_tpt int * 
+function get_expected_tpt int | tbl struct iwl_scale_tbl_info * | rs_index int

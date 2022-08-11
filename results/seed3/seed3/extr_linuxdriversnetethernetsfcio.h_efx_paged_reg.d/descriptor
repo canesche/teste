@@ -1,0 +1,2 @@
+struct efx_nic | vi_stride unsigned int 
+function efx_paged_reg unsigned int | efx struct efx_nic * | page unsigned int | reg unsigned int

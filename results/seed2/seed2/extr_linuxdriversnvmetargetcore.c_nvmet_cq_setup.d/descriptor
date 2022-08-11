@@ -1,0 +1,3 @@
+struct nvmet_ctrl | cqs struct nvmet_cq ** 
+struct nvmet_cq | qid unsigned long | size unsigned long 
+function nvmet_cq_setup void | ctrl struct nvmet_ctrl * | cq struct nvmet_cq * | qid unsigned long | size unsigned long

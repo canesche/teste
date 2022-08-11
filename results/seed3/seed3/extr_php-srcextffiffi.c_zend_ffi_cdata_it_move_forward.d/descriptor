@@ -1,0 +1,2 @@
+struct TYPE_2__ | key int 
+function zend_ffi_cdata_it_move_forward void | it int *

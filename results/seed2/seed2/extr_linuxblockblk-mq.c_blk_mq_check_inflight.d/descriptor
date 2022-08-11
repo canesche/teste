@@ -1,0 +1,5 @@
+struct request | part struct TYPE_2__ * 
+struct mq_inflight | inflight int * | part struct TYPE_2__ * 
+struct blk_mq_hw_ctx | dummy int 
+struct TYPE_2__ | partno long 
+function blk_mq_check_inflight void | hctx struct blk_mq_hw_ctx * | rq struct request * | priv void * | reserved int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | type int 
+function device_get_texture_type enum gs_texture_type | texture const struct TYPE_3__ *

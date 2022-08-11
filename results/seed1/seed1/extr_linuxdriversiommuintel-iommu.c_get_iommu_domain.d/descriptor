@@ -1,0 +1,3 @@
+struct intel_iommu | domains struct dmar_domain *** 
+struct dmar_domain | dummy int 
+function get_iommu_domain struct dmar_domain * | iommu struct intel_iommu * | did int

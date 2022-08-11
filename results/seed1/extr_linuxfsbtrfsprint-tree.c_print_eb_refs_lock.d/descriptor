@@ -1,2 +1,0 @@
-struct extent_buffer | dummy int 
-function print_eb_refs_lock void | eb struct extent_buffer *

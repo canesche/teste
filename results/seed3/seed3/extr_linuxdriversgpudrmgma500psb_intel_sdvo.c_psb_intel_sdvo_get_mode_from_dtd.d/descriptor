@@ -1,0 +1,5 @@
+struct TYPE_4__ | sync_off_width_high int | v_sync_off_width int | v_sync_off_high int | dtd_flags int | h_sync_width long | h_sync_off long 
+struct TYPE_3__ | h_high int | v_high int | clock int | v_blank long | v_active long | h_blank long | h_active long 
+struct psb_intel_sdvo_dtd | part2 struct TYPE_4__ | part1 struct TYPE_3__ 
+struct drm_display_mode | clock int | flags int | vtotal long | vdisplay long | vsync_end long | vsync_start long | htotal long | hdisplay long | hsync_end long | hsync_start long 
+function psb_intel_sdvo_get_mode_from_dtd void | mode struct drm_display_mode * | dtd const struct psb_intel_sdvo_dtd *

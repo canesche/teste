@@ -1,0 +1,3 @@
+struct pixcir_i2c_ts_data | dummy int 
+struct device | dummy int 
+function pixcir_parse_dt int | dev struct device * | tsdata struct pixcir_i2c_ts_data *

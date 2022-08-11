@@ -1,0 +1,2 @@
+struct tpm_chip | dummy int 
+function vtpm_proxy_tpm_op_cancel void | chip struct tpm_chip *

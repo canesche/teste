@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxnetvmw_vsockvirtio_transport_common.c_virtio_transport_set_buffer_size.d/extr_linuxnetvmw_vsockvirtio_transport_common.c_virtio_transport_set_buffer_size_O0::virtio_transport_set_buffer_size(64)"
+  }
+]

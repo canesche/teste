@@ -1,0 +1,2 @@
+struct bpf_map | dummy int 
+function fd_array_map_lookup_elem void * | map struct bpf_map * | key void *

@@ -1,0 +1,2 @@
+struct file_operations | unlocked_ioctl long | poll long | write long | read long | llseek long | release int 
+function __full_proxy_fops_init void | proxy_fops struct file_operations * | real_fops const struct file_operations *

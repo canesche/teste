@@ -1,0 +1,2 @@
+struct TYPE_3__ | ticket_appdata_len unsigned long | ticket_appdata void * 
+function SSL_SESSION_get0_ticket_appdata int | ss struct TYPE_3__ * | data void ** | len unsigned long *

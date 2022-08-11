@@ -1,0 +1,2 @@
+struct platform_device | id int 
+function nouveau_platform_name int | platformdev struct platform_device *

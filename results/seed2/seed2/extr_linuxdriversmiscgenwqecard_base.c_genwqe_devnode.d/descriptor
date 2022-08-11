@@ -1,0 +1,2 @@
+struct device | dummy int 
+function genwqe_devnode char * | dev struct device * | mode int *

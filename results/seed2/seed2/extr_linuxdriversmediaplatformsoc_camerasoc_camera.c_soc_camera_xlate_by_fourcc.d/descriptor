@@ -1,0 +1,4 @@
+struct soc_camera_format_xlate | host_fmt struct TYPE_2__ * 
+struct soc_camera_device | num_user_formats unsigned int | user_formats const struct soc_camera_format_xlate * 
+struct TYPE_2__ | fourcc unsigned int 
+function soc_camera_xlate_by_fourcc const struct soc_camera_format_xlate * | icd struct soc_camera_device * | fourcc unsigned int

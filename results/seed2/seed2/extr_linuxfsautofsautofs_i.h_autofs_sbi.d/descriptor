@@ -1,0 +1,3 @@
+struct super_block | s_magic long | s_fs_info long 
+struct autofs_sb_info | dummy int 
+function autofs_sbi struct autofs_sb_info * | sb struct super_block *

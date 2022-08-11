@@ -1,3 +1,0 @@
-struct TYPE_2__ | tcam_valid_entries long 
-struct niu | clas struct TYPE_2__ 
-function tcam_get_valid_entry_cnt long | np struct niu *

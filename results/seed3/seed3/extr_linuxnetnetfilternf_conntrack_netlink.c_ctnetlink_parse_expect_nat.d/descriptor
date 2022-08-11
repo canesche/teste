@@ -1,0 +1,3 @@
+struct nlattr | dummy int 
+struct nf_conntrack_expect | dummy int 
+function ctnetlink_parse_expect_nat int | attr const struct nlattr * | exp struct nf_conntrack_expect * | u3 int

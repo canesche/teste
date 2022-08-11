@@ -1,4 +1,0 @@
-struct TYPE_2__ | efi_nextents int 
-struct xfs_efi_log_item | efi_format struct TYPE_2__ 
-struct xfs_efi_log_format | dummy int 
-function xfs_efi_item_sizeof int | efip struct xfs_efi_log_item *

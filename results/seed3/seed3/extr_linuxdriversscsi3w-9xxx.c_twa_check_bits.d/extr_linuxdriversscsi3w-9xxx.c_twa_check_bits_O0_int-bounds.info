@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversscsi3w-9xxx.c_twa_check_bits.d/extr_linuxdriversscsi3w-9xxx.c_twa_check_bits_O0::twa_check_bits(63)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_2__ | grefs_per_grant_frame unsigned int 
+function gnttab_frames unsigned int | frames unsigned int | align unsigned int

@@ -1,0 +1,2 @@
+struct bug_entry | dummy int 
+function module_find_bug struct bug_entry * | bugaddr unsigned long

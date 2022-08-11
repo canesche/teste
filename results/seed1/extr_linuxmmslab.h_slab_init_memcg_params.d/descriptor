@@ -1,2 +1,0 @@
-struct kmem_cache | dummy int 
-function slab_init_memcg_params void | s struct kmem_cache *

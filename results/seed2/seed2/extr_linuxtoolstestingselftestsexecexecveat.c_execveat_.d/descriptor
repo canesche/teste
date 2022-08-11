@@ -1,0 +1,1 @@
+function execveat_ int | fd int | path const char * | argv char ** | envp char ** | flags int

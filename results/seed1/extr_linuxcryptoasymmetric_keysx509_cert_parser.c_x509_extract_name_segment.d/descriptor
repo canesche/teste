@@ -1,2 +1,0 @@
-struct x509_parse_context | last_oid int | cn_size unsigned long | o_size unsigned long | email_size unsigned long | data int | email_offset int | o_offset int | cn_offset int 
-function x509_extract_name_segment int | context void * | hdrlen unsigned long | tag unsigned char | value const void * | vlen unsigned long

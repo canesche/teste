@@ -1,0 +1,2 @@
+struct uart_port | dummy int 
+function sbd_type const char * | uport struct uart_port *

@@ -1,0 +1,4 @@
+struct TYPE_2__ | dev struct device * 
+struct pxa_camera_dev | v4l2_dev struct TYPE_2__ 
+struct device | dummy int 
+function pcdev_to_dev struct device * | pcdev struct pxa_camera_dev *

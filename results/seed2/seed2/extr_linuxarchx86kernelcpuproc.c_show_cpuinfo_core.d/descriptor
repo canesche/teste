@@ -1,0 +1,3 @@
+struct seq_file | dummy int 
+struct cpuinfo_x86 | dummy int 
+function show_cpuinfo_core void | m struct seq_file * | c struct cpuinfo_x86 * | cpu unsigned int

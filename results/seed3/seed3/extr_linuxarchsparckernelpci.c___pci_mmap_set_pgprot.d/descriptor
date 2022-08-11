@@ -1,0 +1,3 @@
+struct vm_area_struct | dummy int 
+struct pci_dev | dummy int 
+function __pci_mmap_set_pgprot void | dev struct pci_dev * | vma struct vm_area_struct * | mmap_state enum pci_mmap_state

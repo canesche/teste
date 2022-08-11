@@ -1,0 +1,2 @@
+struct lanai_dev | base long 
+function sram_addr long | lanai const struct lanai_dev * | offset int

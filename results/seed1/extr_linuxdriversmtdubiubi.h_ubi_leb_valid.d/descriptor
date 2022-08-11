@@ -1,2 +1,0 @@
-struct ubi_volume | reserved_pebs int 
-function ubi_leb_valid int | vol struct ubi_volume * | lnum int

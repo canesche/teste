@@ -1,0 +1,2 @@
+struct TYPE_3__ | magic long | title char * | check_ready long | flush void * | connected void * | alarm void * | wakeup void * | init_outbound void * | writer long | parse_execute int | reader long | close long | free_buffers long | init_accepted void * | accept long | run long 
+function check_conn_functions int | type struct TYPE_3__ *

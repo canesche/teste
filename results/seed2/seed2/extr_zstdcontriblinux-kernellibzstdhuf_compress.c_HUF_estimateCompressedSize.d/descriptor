@@ -1,0 +1,2 @@
+struct TYPE_3__ | nbBits const unsigned int 
+function HUF_estimateCompressedSize unsigned long | CTable struct TYPE_3__ * | count const unsigned int * | maxSymbolValue unsigned int

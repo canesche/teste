@@ -1,0 +1,1 @@
+function access_flags_to_smbopen_mode int | access_flags const int

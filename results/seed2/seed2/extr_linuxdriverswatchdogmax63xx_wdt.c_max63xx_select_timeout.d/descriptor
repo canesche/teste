@@ -1,0 +1,2 @@
+struct max63xx_timeout | twd int | tdelay long 
+function max63xx_select_timeout struct max63xx_timeout * | table struct max63xx_timeout * | value int

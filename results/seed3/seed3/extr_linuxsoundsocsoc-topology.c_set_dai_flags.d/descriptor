@@ -1,0 +1,2 @@
+struct snd_soc_dai_driver | symmetric_rates int | symmetric_channels int | symmetric_samplebits int 
+function set_dai_flags void | dai_drv struct snd_soc_dai_driver * | flag_mask unsigned int | flags unsigned int

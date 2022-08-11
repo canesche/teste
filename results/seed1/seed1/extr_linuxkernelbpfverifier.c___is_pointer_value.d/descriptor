@@ -1,0 +1,2 @@
+struct bpf_reg_state | type long 
+function __is_pointer_value int | allow_ptr_leaks int | reg const struct bpf_reg_state *

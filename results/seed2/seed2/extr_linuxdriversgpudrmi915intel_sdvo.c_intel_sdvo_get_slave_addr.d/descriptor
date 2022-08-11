@@ -1,0 +1,5 @@
+struct sdvo_device_mapping | slave_addr int 
+struct intel_sdvo | port long 
+struct TYPE_2__ | sdvo_mappings struct sdvo_device_mapping * 
+struct drm_i915_private | vbt struct TYPE_2__ 
+function intel_sdvo_get_slave_addr int | dev_priv struct drm_i915_private * | sdvo struct intel_sdvo *

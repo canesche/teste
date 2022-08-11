@@ -1,0 +1,5 @@
+struct TYPE_9__ | valid int | not_found int | data int | no_cacheable long | len long 
+struct TYPE_7__ | data int | len long 
+struct TYPE_8__ | content_type struct TYPE_7__ 
+struct TYPE_10__ | headers_out struct TYPE_8__ 
+function ngx_http_variable_sent_content_type int | r struct TYPE_10__ * | v struct TYPE_9__ * | data unsigned long

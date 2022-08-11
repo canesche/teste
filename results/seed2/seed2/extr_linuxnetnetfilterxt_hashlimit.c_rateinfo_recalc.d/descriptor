@@ -1,0 +1,3 @@
+struct TYPE_2__ | prev unsigned long | interval unsigned long | prev_window int | current_rate unsigned long | rate unsigned long | credit unsigned long | credit_cap unsigned long 
+struct dsthash_ent | rateinfo struct TYPE_2__ 
+function rateinfo_recalc void | dh struct dsthash_ent * | now unsigned long | mode int | revision int

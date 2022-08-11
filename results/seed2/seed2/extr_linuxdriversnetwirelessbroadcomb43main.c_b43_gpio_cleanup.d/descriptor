@@ -1,0 +1,3 @@
+struct b43_wldev | dev struct TYPE_2__ * 
+struct TYPE_2__ | bus_type int 
+function b43_gpio_cleanup void | dev struct b43_wldev *

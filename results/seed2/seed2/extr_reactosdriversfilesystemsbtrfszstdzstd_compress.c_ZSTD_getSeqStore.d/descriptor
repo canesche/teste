@@ -1,0 +1,2 @@
+struct TYPE_3__ | seqStore const int 
+function ZSTD_getSeqStore const int * | ctx const struct TYPE_3__ *

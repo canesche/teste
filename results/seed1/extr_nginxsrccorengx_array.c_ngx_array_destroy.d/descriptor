@@ -1,4 +1,0 @@
-struct TYPE_5__ | last int * 
-struct TYPE_6__ | d struct TYPE_5__ 
-struct TYPE_7__ | size int | nalloc int | elts long | pool struct TYPE_6__ * 
-function ngx_array_destroy void | a struct TYPE_7__ *

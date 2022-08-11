@@ -1,0 +1,2 @@
+struct idx_entry | offset long 
+function compare_entries int | e1 const void * | e2 const void *

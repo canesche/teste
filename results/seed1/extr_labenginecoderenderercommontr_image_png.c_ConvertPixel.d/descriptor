@@ -1,2 +1,0 @@
-struct PNG_Chunk_IHDR | ColourType int | BitDepth int 
-function ConvertPixel int | IHDR struct PNG_Chunk_IHDR * | OutPtr int * | DecompPtr int * | HasTransparentColour int | TransparentColour int * | OutPal int *

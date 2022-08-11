@@ -1,0 +1,1 @@
+function get_instr_extra_regcount unsigned int | instr enum WINED3D_SHADER_INSTRUCTION_HANDLER | param unsigned int

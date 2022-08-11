@@ -1,1 +1,0 @@
-function TcpipAcquireSpinLock int | SpinLock int | Irql int *

@@ -1,3 +1,0 @@
-struct clock_event_device | features int 
-struct TYPE_2__ | evtdev struct clock_event_device * 
-function __tick_broadcast_oneshot_control int | state enum tick_broadcast_state

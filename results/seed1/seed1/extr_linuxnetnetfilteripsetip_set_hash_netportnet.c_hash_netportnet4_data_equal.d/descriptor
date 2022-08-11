@@ -1,0 +1,2 @@
+struct hash_netportnet4_elem | ipcmp long | ccmp long | port long | proto long 
+function hash_netportnet4_data_equal int | ip1 const struct hash_netportnet4_elem * | ip2 const struct hash_netportnet4_elem * | multi int *

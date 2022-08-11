@@ -1,0 +1,2 @@
+struct TYPE_2__ | rdft_vdata double ** | rdft_vlen int * 
+function lum double | priv void * | x double | y double | plane int

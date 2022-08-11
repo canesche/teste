@@ -1,0 +1,2 @@
+struct TYPE_3__ | stickyKeys int | keys long * 
+function setStickyKeys void | window struct TYPE_3__ * | enabled int

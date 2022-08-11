@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 68,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 68,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxarchmipslasatinterrupt.c_ls1bit32.d/extr_linuxarchmipslasatinterrupt.c_ls1bit32_O0::ls1bit32(60)"
+  }
+]

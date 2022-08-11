@@ -1,2 +1,0 @@
-struct device | dummy int 
-function wl1251_resume int | dev struct device *

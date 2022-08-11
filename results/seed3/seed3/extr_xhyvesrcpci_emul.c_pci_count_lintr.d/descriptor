@@ -1,0 +1,4 @@
+struct slotinfo | si_intpins struct TYPE_3__ * 
+struct TYPE_4__ | slotinfo struct slotinfo * 
+struct TYPE_3__ | ii_count long 
+function pci_count_lintr int | bus int

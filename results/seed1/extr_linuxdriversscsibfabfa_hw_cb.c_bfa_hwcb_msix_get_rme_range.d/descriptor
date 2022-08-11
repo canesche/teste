@@ -1,2 +1,0 @@
-struct bfa_s | dummy int 
-function bfa_hwcb_msix_get_rme_range void | bfa struct bfa_s * | start int * | end int *

@@ -1,0 +1,2 @@
+struct inode | i_fop int * | i_op int * 
+function fuse_init_dir void | inode struct inode *

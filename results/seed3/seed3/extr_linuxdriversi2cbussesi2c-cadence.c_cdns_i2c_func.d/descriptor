@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function cdns_i2c_func int | adap struct i2c_adapter *

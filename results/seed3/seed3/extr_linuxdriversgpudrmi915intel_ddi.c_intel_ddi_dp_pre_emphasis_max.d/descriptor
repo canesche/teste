@@ -1,0 +1,2 @@
+struct intel_encoder | dummy int 
+function intel_ddi_dp_pre_emphasis_max int | encoder struct intel_encoder * | voltage_swing int

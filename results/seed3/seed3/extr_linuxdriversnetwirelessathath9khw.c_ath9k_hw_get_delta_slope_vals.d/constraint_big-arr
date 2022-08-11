@@ -1,0 +1,1 @@
+value(coef_scaled) == 255, length(coef_mantissa) == 65025, length(coef_exponent) == 65025, length(ah) == 65025

@@ -1,0 +1,4 @@
+struct wl_output | dummy int 
+struct TYPE_2__ | done int 
+struct _GLFWmonitor | wl struct TYPE_2__ 
+function done void | data void * | output struct wl_output *

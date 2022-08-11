@@ -1,0 +1,4 @@
+struct TYPE_6__ | len int | data int 
+struct TYPE_5__ | len int | data int 
+struct TYPE_7__ | desc struct TYPE_5__ 
+function uri_bbf_detect_objects_intro int | context const void * | parsed const void * | buf struct TYPE_6__ *

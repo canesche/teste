@@ -1,2 +1,0 @@
-struct heap_entry | value long | global_id int 
-function cmp_value_desc_global_asc int | p struct heap_entry * | value long | global_id int

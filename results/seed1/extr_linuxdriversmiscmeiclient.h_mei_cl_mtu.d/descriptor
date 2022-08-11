@@ -1,4 +1,0 @@
-struct mei_cl | me_cl struct TYPE_4__ * 
-struct TYPE_3__ | max_msg_length unsigned long 
-struct TYPE_4__ | props struct TYPE_3__ 
-function mei_cl_mtu unsigned long | cl const struct mei_cl *

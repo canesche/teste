@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_opensslcryptosiphashsiphash.c_siphash_adjust_hash_size.d/extr_opensslcryptosiphashsiphash.c_siphash_adjust_hash_size_O0::siphash_adjust_hash_size(61)"
+  }
+]

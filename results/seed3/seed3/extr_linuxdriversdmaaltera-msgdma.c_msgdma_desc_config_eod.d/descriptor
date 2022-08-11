@@ -1,0 +1,2 @@
+struct msgdma_extended_desc | control int 
+function msgdma_desc_config_eod void | desc struct msgdma_extended_desc *

@@ -1,1 +1,0 @@
-function CRYPT_CountSerializedBytes int | handle void * | buffer const void * | size long

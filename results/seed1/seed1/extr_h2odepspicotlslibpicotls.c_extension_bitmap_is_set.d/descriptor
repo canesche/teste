@@ -1,0 +1,2 @@
+struct st_ptls_extension_bitmap_t | bits int * 
+function extension_bitmap_is_set int | bitmap struct st_ptls_extension_bitmap_t * | id int

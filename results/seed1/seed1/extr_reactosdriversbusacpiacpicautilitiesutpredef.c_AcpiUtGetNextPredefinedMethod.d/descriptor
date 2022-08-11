@@ -1,0 +1,3 @@
+struct TYPE_5__ | ExpectedBtypes int 
+struct TYPE_6__ | Info struct TYPE_5__ 
+function AcpiUtGetNextPredefinedMethod const struct TYPE_6__ * | ThisName const struct TYPE_6__ *

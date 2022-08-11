@@ -1,0 +1,6 @@
+struct fman_sp_int_context_data_copy | ext_buf_offset int | size int | int_context_offset long 
+struct fman_sp_buffer_offsets | prs_result_offset int | time_stamp_offset int | hash_result_offset int | data_offset int 
+struct fman_sp_buf_margins | start_margins int 
+struct fman_prs_result | dummy int 
+struct fman_buffer_prefix_content | priv_data_size int | data_align int | pass_prs_result long | pass_hash_result long | pass_time_stamp long 
+function fman_sp_build_buffer_struct int | int_context_data_copy struct fman_sp_int_context_data_copy * | buffer_prefix_content struct fman_buffer_prefix_content * | buf_margins struct fman_sp_buf_margins * | buffer_offsets struct fman_sp_buffer_offsets * | internal_buf_offset long *

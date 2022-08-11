@@ -1,0 +1,3 @@
+struct TYPE_3__ | data_writes long | data_reads long 
+struct TYPE_4__ | p struct TYPE_3__ 
+function access_data long | data long * | val long

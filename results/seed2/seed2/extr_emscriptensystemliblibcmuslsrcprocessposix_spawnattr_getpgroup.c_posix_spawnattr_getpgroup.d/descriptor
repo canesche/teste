@@ -1,0 +1,2 @@
+struct TYPE_3__ | __pgrp int 
+function posix_spawnattr_getpgroup int | attr const struct TYPE_3__ *__restrict | pgrp int *__restrict

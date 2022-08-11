@@ -1,5 +1,0 @@
-struct TYPE_6__ | next struct TYPE_6__ * 
-struct TYPE_7__ | patches struct TYPE_6__ * | colorModBrushes struct TYPE_8__ * | brushes struct TYPE_8__ * 
-struct TYPE_8__ | nextColorModBrush struct TYPE_8__ * | next struct TYPE_8__ * | opaque long 
-struct TYPE_9__ | patches struct TYPE_6__ * | colorModBrushes struct TYPE_8__ * | lastBrush struct TYPE_8__ * | brushes struct TYPE_8__ * 
-function MoveBrushesToWorld void | ent struct TYPE_7__ *

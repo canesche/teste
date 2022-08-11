@@ -1,0 +1,3 @@
+struct spi_controller | transfer_one_message int | transfer_one int | transfer int | mem_ops struct TYPE_2__ * 
+struct TYPE_2__ | exec_op int 
+function spi_controller_check_ops int | ctlr struct spi_controller *

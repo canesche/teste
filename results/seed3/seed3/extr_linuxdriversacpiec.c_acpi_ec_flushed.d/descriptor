@@ -1,0 +1,2 @@
+struct acpi_ec | reference_count int 
+function acpi_ec_flushed int | ec struct acpi_ec *

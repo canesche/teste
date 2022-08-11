@@ -1,0 +1,1 @@
+value(sense_key) == 255, value(sense_code) == 255, value(a_sense_code) == 255, value(bit_pointer) == 255, value(field_pointer) == 255, length(sense_data) == 65025

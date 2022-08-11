@@ -1,0 +1,3 @@
+struct TYPE_3__ | zFar double 
+struct TYPE_4__ | viewParms struct TYPE_3__ 
+function MakeSkyVec void | s float | t float | axis int | outSt float [2] | outXYZ float *

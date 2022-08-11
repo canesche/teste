@@ -1,0 +1,3 @@
+struct nlattr | dummy int 
+struct nf_conn | dummy int 
+function ctnetlink_setup_nat int | ct struct nf_conn * | cda const struct nlattr *const[]

@@ -1,3 +1,0 @@
-struct tipc_link | inputq struct sk_buff_head * 
-struct sk_buff_head | dummy int 
-function tipc_link_inputq struct sk_buff_head * | l struct tipc_link *

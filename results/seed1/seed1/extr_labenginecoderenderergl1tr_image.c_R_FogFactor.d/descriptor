@@ -1,0 +1,2 @@
+struct TYPE_2__ | fogTable float * 
+function R_FogFactor float | s float | t float

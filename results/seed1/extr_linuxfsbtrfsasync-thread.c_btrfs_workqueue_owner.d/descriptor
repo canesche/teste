@@ -1,3 +1,0 @@
-struct btrfs_fs_info | dummy int 
-struct __btrfs_workqueue | fs_info struct btrfs_fs_info * 
-function btrfs_workqueue_owner struct btrfs_fs_info * | wq const struct __btrfs_workqueue *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | rx_errors long | tx_errors long | tx_packets long | rx_packets long 
+struct dpaa_percpu_priv | stats struct TYPE_2__ | tx_frag_skbuffs long | tx_confirm long | in_interrupt long 
+function copy_stats void | percpu_priv struct dpaa_percpu_priv * | num_cpus int | crr_cpu int | bp_count long * | data long *

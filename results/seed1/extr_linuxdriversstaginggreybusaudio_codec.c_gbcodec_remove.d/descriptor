@@ -1,2 +1,0 @@
-struct snd_soc_codec | dummy int 
-function gbcodec_remove int | codec struct snd_soc_codec *

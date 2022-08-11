@@ -1,0 +1,2 @@
+struct TYPE_2__ | poll void (*)(void *) | poll_arg void * 
+function mod_lwip_register_poll void | poll void (*)(void *) | poll_arg void *

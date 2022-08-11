@@ -1,0 +1,2 @@
+struct usb_usbvision | isoc_measure_bandwidth_count int | isoc_packet_size int | isoc_packet_count int | used_bandwidth int | isoc_data_count int | isoc_skip_count int 
+function usbvision_measure_bandwidth int | usbvision struct usb_usbvision *

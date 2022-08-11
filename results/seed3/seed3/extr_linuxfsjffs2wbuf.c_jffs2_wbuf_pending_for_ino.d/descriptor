@@ -1,0 +1,3 @@
+struct jffs2_sb_info | wbuf_inodes struct jffs2_inodirty * 
+struct jffs2_inodirty | ino long | next struct jffs2_inodirty * 
+function jffs2_wbuf_pending_for_ino int | c struct jffs2_sb_info * | ino long

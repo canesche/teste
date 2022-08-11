@@ -1,0 +1,2 @@
+struct rtllib_device | dummy int 
+function rtllib_WMM_Info void | ieee struct rtllib_device * | tag_p int **

@@ -1,0 +1,2 @@
+struct xfs_sb | sb_uquotino long | sb_gquotino long | sb_pquotino long 
+function xfs_is_quota_inode int | sbp struct xfs_sb * | ino long

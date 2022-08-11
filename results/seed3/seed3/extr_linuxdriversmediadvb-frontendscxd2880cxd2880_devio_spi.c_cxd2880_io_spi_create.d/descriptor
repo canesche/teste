@@ -1,0 +1,3 @@
+struct cxd2880_spi | dummy int 
+struct cxd2880_io | slave_select int | i2c_address_demod long | i2c_address_sys long | if_object struct cxd2880_spi * | write_reg int | write_regs int | read_regs int 
+function cxd2880_io_spi_create int | io struct cxd2880_io * | spi struct cxd2880_spi * | slave_select int

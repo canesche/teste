@@ -1,2 +1,0 @@
-struct uart_port | dummy int 
-function mpsc_request_port int | port struct uart_port *

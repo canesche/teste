@@ -1,0 +1,3 @@
+struct ttm_buffer_object | dummy int 
+struct file | dummy int 
+function virtio_gpu_verify_access int | bo struct ttm_buffer_object * | filp struct file *

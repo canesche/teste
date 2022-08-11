@@ -1,2 +1,0 @@
-struct genwqe_dev | is_privileged int 
-function genwqe_is_privileged int | cd struct genwqe_dev *

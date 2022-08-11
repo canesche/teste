@@ -1,0 +1,2 @@
+struct dwc2_host_chan | speed long | multi_count int | data_pid_start void * | ep_is_in long 
+function dwc2_set_pid_isoc void | chan struct dwc2_host_chan *

@@ -1,0 +1,1 @@
+function Lzma86_GetUnpackSize int | src const int * | srcLen long | unpackSize int *

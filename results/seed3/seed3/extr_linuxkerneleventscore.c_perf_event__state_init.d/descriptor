@@ -1,0 +1,3 @@
+struct TYPE_2__ | disabled long 
+struct perf_event | attr struct TYPE_2__ | state int 
+function perf_event__state_init void | event struct perf_event *

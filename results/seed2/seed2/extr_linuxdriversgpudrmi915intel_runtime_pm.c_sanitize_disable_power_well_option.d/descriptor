@@ -1,0 +1,2 @@
+struct drm_i915_private | dummy int 
+function sanitize_disable_power_well_option int | dev_priv const struct drm_i915_private * | disable_power_well int

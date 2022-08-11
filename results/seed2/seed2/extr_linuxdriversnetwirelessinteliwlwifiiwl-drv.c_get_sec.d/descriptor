@@ -1,0 +1,4 @@
+struct iwl_firmware_pieces | img struct TYPE_2__ * 
+struct fw_sec | dummy int 
+struct TYPE_2__ | sec struct fw_sec * 
+function get_sec struct fw_sec * | pieces struct iwl_firmware_pieces * | type enum iwl_ucode_type | sec int

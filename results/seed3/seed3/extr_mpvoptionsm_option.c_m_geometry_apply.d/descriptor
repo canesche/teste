@@ -1,0 +1,2 @@
+struct m_geometry | w double | h double | x int | y int | y_sign long | y_per long | x_sign long | x_per long | xy_valid long | h_per long | w_per long | wh_valid long 
+function m_geometry_apply void | xpos int * | ypos int * | widw int * | widh int * | scrw int | scrh int | gm struct m_geometry *

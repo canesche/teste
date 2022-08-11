@@ -1,0 +1,2 @@
+struct venus_caps | cap_bufs_mode_dynamic int 
+function fill_buf_mode void | cap struct venus_caps * | data const void * | num unsigned int

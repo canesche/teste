@@ -1,0 +1,2 @@
+struct alloc_stat | pingpong long 
+function pingpong_cmp int | a void * | b void *

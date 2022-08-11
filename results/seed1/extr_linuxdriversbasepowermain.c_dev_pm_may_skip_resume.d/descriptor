@@ -1,4 +1,0 @@
-struct TYPE_3__ | must_resume int 
-struct device | power struct TYPE_3__ 
-struct TYPE_4__ | event long 
-function dev_pm_may_skip_resume int | dev struct device *

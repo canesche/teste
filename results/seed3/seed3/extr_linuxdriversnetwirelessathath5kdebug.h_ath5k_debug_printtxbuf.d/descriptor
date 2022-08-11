@@ -1,0 +1,3 @@
+struct ath5k_hw | dummy int 
+struct ath5k_buf | dummy int 
+function ath5k_debug_printtxbuf void | ah struct ath5k_hw * | bf struct ath5k_buf *

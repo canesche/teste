@@ -1,0 +1,2 @@
+struct TYPE_3__ | width int | difseg_size int | pix_fmt int 
+function dv_calc_mb_coordinates void | d const struct TYPE_3__ * | chan int | seq int | slot int | tbl int *

@@ -1,0 +1,4 @@
+struct regmap | dummy int 
+struct pl111_drm_dev_private | dummy int 
+struct device | dummy int 
+function pl111_vexpress_clcd_init int | dev struct device * | priv struct pl111_drm_dev_private * | map struct regmap *

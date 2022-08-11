@@ -1,2 +1,0 @@
-struct efx_nic | dummy int 
-function efx_ef10_set_wol int | efx struct efx_nic * | type long

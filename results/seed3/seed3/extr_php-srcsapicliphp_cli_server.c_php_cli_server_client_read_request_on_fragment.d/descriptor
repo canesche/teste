@@ -1,0 +1,1 @@
+function php_cli_server_client_read_request_on_fragment int | parser int * | at const char * | length unsigned long

@@ -1,0 +1,3 @@
+struct TYPE_2__ | posted int | siga_mode int | sigb_mode int | sigb void * | siga void * 
+struct nfp_cpp_explicit | cmd struct TYPE_2__ 
+function nfp_cpp_explicit_set_posted int | expl struct nfp_cpp_explicit * | posted int | siga void * | siga_mode enum nfp_cpp_explicit_signal_mode | sigb void * | sigb_mode enum nfp_cpp_explicit_signal_mode

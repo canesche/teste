@@ -1,0 +1,5 @@
+struct ctrl_queue | index int | buf long 
+struct catc | stats_buf char * | stats_vals int * | netdev struct TYPE_4__ * 
+struct TYPE_3__ | rx_errors int | rx_frame_errors int | tx_errors int | tx_aborted_errors int | collisions int 
+struct TYPE_4__ | stats struct TYPE_3__ 
+function catc_stats_done void | catc struct catc * | q struct ctrl_queue *

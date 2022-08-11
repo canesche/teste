@@ -1,0 +1,4 @@
+struct net_device | priv_flags int 
+struct TYPE_2__ | flags int 
+struct cfg80211_registered_device | wiphy struct TYPE_2__ 
+function nl80211_valid_4addr int | rdev struct cfg80211_registered_device * | netdev struct net_device * | use_4addr int | iftype enum nl80211_iftype

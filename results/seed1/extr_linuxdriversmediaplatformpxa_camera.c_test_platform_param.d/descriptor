@@ -1,2 +1,0 @@
-struct pxa_camera_dev | platform_flags int | width_flags int 
-function test_platform_param int | pcdev struct pxa_camera_dev * | buswidth unsigned char | flags unsigned long *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmediausbau0828au0828-video.c_au0828_analog_create_entities.d/extr_linuxdriversmediausbau0828au0828-video.c_au0828_analog_create_entities_O0::au0828_analog_create_entities(61)"
+  }
+]

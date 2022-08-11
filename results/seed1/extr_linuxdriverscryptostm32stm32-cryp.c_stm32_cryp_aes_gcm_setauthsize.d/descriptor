@@ -1,2 +1,0 @@
-struct crypto_aead | dummy int 
-function stm32_cryp_aes_gcm_setauthsize int | tfm struct crypto_aead * | authsize unsigned int

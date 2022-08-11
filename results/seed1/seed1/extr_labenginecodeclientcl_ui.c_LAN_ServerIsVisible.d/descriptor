@@ -1,0 +1,5 @@
+struct TYPE_8__ | favoriteServers struct TYPE_7__ * | globalServers struct TYPE_6__ * | localServers struct TYPE_5__ * 
+struct TYPE_7__ | visible int 
+struct TYPE_6__ | visible int 
+struct TYPE_5__ | visible int 
+function LAN_ServerIsVisible int | source int | n int

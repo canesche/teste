@@ -1,0 +1,2 @@
+struct vnic_wq_copy | to_clean_index long | to_use_index long 
+function is_ack_index_in_range int | wq struct vnic_wq_copy * | request_out long

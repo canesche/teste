@@ -1,0 +1,3 @@
+struct ifnet_demux_desc | dummy int 
+struct ifnet | dummy int 
+function pflogaddproto int | ifp struct ifnet * | pf int | d const struct ifnet_demux_desc * | cnt int

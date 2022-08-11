@@ -1,0 +1,2 @@
+struct thermal_cooling_device | dummy int 
+function ath10k_thermal_get_max_throttle_state int | cdev struct thermal_cooling_device * | state unsigned long *

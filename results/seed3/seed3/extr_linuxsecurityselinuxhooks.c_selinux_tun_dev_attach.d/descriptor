@@ -1,0 +1,4 @@
+struct tun_security_struct | sid int 
+struct sock | sk_security struct sk_security_struct * 
+struct sk_security_struct | sclass int | sid int 
+function selinux_tun_dev_attach int | sk struct sock * | security void *

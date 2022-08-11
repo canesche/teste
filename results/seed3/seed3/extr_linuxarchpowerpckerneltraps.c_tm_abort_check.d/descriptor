@@ -1,0 +1,2 @@
+struct pt_regs | dummy int 
+function tm_abort_check int | regs struct pt_regs * | reason int

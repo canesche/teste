@@ -1,0 +1,2 @@
+struct tegra_xusb_port | dummy int 
+function tegra210_hsic_port_enable int | port struct tegra_xusb_port *

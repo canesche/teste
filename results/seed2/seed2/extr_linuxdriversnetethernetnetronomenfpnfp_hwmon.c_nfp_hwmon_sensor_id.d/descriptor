@@ -1,0 +1,1 @@
+function nfp_hwmon_sensor_id int | type enum hwmon_sensor_types | channel int

@@ -1,2 +1,0 @@
-struct intel_engine_cs | unpark int * | park int * | cancel_requests int | submit_request int 
-function i9xx_set_default_submission void | engine struct intel_engine_cs *

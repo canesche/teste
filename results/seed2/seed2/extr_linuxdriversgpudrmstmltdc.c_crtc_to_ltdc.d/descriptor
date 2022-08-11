@@ -1,0 +1,4 @@
+struct ltdc_device | dummy int 
+struct drm_crtc | dev struct TYPE_2__ * 
+struct TYPE_2__ | dev_private long 
+function crtc_to_ltdc struct ltdc_device * | crtc struct drm_crtc *

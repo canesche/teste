@@ -1,0 +1,2 @@
+struct mg_iface | dummy int 
+function mg_socket_if_free void | iface struct mg_iface *

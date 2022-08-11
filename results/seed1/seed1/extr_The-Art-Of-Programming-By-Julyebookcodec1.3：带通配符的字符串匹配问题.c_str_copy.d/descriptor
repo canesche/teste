@@ -1,0 +1,1 @@
+function str_copy void | a char * | b const char * | len int

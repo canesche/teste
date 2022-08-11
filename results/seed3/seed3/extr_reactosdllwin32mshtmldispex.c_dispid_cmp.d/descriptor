@@ -1,0 +1,2 @@
+struct TYPE_2__ | id int 
+function dispid_cmp int | p1 const void * | p2 const void *

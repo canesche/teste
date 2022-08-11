@@ -1,0 +1,2 @@
+struct TYPE_3__ | mb_intra int | dct_error_sum int ** | dct_offset long ** | dct_count int * 
+function denoise_dct_c void | s struct TYPE_3__ * | block int *

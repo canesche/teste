@@ -1,0 +1,2 @@
+struct ohci_hcd | dummy int 
+function quirk_nec int | ohci struct ohci_hcd *

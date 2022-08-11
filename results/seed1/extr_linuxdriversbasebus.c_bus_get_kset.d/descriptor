@@ -1,4 +1,0 @@
-struct kset | dummy int 
-struct bus_type | p struct TYPE_2__ * 
-struct TYPE_2__ | subsys struct kset 
-function bus_get_kset struct kset * | bus struct bus_type *

@@ -1,3 +1,0 @@
-struct pvr2_ctrl | hdw struct TYPE_2__ * 
-struct TYPE_2__ | master_state int 
-function ctrl_masterstate_get int | cptr struct pvr2_ctrl * | vp int *

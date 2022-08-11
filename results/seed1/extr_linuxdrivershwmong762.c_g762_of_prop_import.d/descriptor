@@ -1,2 +1,0 @@
-struct i2c_client | dummy int 
-function g762_of_prop_import int | client struct i2c_client *

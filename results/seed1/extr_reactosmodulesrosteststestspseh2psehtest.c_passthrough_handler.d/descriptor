@@ -1,3 +1,0 @@
-struct _EXCEPTION_RECORD | dummy int 
-struct _CONTEXT | dummy int 
-function passthrough_handler int | e struct _EXCEPTION_RECORD * | f void * | c struct _CONTEXT * | d void *

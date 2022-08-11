@@ -1,0 +1,2 @@
+struct c4iw_ep_common | state int 
+function __state_set void | epc struct c4iw_ep_common * | new enum c4iw_ep_state

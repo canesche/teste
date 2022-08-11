@@ -1,2 +1,0 @@
-struct i2c_adapter | dummy int 
-function lme2510_i2c_func int | adapter struct i2c_adapter *

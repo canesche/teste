@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediausbdvb-usbcxusb.c_bluebird_fx2_identify_state.d/extr_linuxdriversmediausbdvb-usbcxusb.c_bluebird_fx2_identify_state_O0::bluebird_fx2_identify_state(68)"
+  }
+]

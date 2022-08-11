@@ -1,3 +1,0 @@
-struct xgbe_prv_data | phy_data struct xgbe_phy_data * 
-struct xgbe_phy_data | cur_mode int 
-function xgbe_phy_cur_mode enum xgbe_mode | pdata struct xgbe_prv_data *

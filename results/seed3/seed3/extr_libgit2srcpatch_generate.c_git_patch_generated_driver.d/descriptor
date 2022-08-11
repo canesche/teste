@@ -1,0 +1,3 @@
+struct TYPE_4__ | driver int * 
+struct TYPE_5__ | ofile struct TYPE_4__ 
+function git_patch_generated_driver int * | patch struct TYPE_5__ *

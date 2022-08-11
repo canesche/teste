@@ -1,2 +1,0 @@
-struct echoaudio | non_audio_spdif long | professional_spdif long 
-function set_spdif_bits int | chip struct echoaudio * | control_reg int | rate int

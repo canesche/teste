@@ -1,0 +1,3 @@
+struct TYPE_3__ | translations const char ** 
+struct TYPE_4__ | hotkeys struct TYPE_3__ 
+function obs_get_hotkey_translation const char * | key unsigned long | def const char *

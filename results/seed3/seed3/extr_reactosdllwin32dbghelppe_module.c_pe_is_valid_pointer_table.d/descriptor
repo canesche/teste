@@ -1,0 +1,3 @@
+struct TYPE_4__ | NumberOfSymbols long | PointerToSymbolTable long 
+struct TYPE_5__ | FileHeader struct TYPE_4__ 
+function pe_is_valid_pointer_table int | nthdr const struct TYPE_5__ * | mapping const void * | sz int

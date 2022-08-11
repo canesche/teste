@@ -1,2 +1,0 @@
-struct ath9k_htc_priv | dummy int 
-function ath9k_htc_start_btcoex void | priv struct ath9k_htc_priv *

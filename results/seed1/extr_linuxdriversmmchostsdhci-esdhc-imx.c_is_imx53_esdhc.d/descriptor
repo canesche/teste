@@ -1,2 +1,0 @@
-struct pltfm_imx_data | socdata int * 
-function is_imx53_esdhc int | data struct pltfm_imx_data *

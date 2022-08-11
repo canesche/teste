@@ -1,0 +1,2 @@
+struct TYPE_3__ | p_aio_total_count int 
+function aio_get_process_count int | procp struct TYPE_3__ *

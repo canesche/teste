@@ -1,3 +1,0 @@
-struct meson_sm_cmd | index unsigned int | smc_id long 
-struct meson_sm_chip | cmd struct meson_sm_cmd * 
-function meson_sm_get_cmd long | chip const struct meson_sm_chip * | cmd_index unsigned int

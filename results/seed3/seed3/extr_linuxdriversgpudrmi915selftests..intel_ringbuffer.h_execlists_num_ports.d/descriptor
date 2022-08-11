@@ -1,0 +1,2 @@
+struct intel_engine_execlists | port_mask unsigned int 
+function execlists_num_ports unsigned int | execlists const struct intel_engine_execlists *const

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_opensslcryptomodesocb128.c_ocb_ntz.d/extr_opensslcryptomodesocb128.c_ocb_ntz_O0::ocb_ntz(62)"
+  }
+]

@@ -1,2 +1,0 @@
-struct cx231xx | dummy int 
-function cx231xx_v4l2_create_entities void | dev struct cx231xx *

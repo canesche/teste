@@ -1,0 +1,3 @@
+struct TYPE_4__ | ulpWord long * 
+struct TYPE_5__ | ulpStatus long | un struct TYPE_4__ 
+function lpfc_error_lost_link int | iocbp struct TYPE_5__ *

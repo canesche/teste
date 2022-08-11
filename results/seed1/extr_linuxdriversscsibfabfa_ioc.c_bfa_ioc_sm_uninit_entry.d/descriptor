@@ -1,2 +1,0 @@
-struct bfa_ioc_s | dummy int 
-function bfa_ioc_sm_uninit_entry void | ioc struct bfa_ioc_s *

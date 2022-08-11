@@ -1,0 +1,2 @@
+struct capi_ctr | owner int | proc_show int | reset_ctr int * | load_firmware int * | driver_name int 
+function diva_os_set_controller_struct void | ctrl struct capi_ctr *

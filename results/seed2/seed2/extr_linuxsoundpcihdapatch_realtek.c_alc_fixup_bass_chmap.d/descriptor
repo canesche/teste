@@ -1,0 +1,7 @@
+struct hda_fixup | dummy int 
+struct hda_codec | spec struct alc_spec * 
+struct TYPE_6__ | pcm_rec struct TYPE_5__ ** 
+struct alc_spec | gen struct TYPE_6__ 
+struct TYPE_5__ | stream struct TYPE_4__ * 
+struct TYPE_4__ | chmap int 
+function alc_fixup_bass_chmap void | codec struct hda_codec * | fix const struct hda_fixup * | action int

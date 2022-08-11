@@ -1,2 +1,0 @@
-struct xfs_dir2_data_entry | dummy int 
-function xfs_dir2_data_get_ftype int | dep struct xfs_dir2_data_entry *

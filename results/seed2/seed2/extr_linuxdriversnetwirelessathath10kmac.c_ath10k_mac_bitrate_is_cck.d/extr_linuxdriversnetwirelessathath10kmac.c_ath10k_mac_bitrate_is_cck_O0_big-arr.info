@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessathath10kmac.c_ath10k_mac_bitrate_is_cck.d/extr_linuxdriversnetwirelessathath10kmac.c_ath10k_mac_bitrate_is_cck_O0::ath10k_mac_bitrate_is_cck(60)"
+  }
+]

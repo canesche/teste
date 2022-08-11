@@ -1,0 +1,2 @@
+struct spu | dummy int 
+function mfc_sdr_setup void | spu struct spu *

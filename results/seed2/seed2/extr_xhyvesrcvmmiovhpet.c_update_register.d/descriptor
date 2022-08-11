@@ -1,0 +1,1 @@
+function update_register void | regptr int * | data int | mask int

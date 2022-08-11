@@ -1,2 +1,0 @@
-struct TYPE_3__ | length int | buf char * 
-function strbuf_string char * | s struct TYPE_3__ * | len int *

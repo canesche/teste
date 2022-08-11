@@ -1,1 +1,0 @@
-function tps65010_set_gpio_out_value int | gpio unsigned int | value unsigned int

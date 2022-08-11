@@ -1,0 +1,3 @@
+struct clcd_board | dummy int 
+struct amba_device | dummy int 
+function clcdfb_of_get_board struct clcd_board * | dev struct amba_device *

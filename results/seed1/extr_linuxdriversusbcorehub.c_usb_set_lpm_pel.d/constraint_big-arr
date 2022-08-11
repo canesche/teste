@@ -1,1 +1,0 @@
-value(udev_exit_latency) == 255, value(hub_exit_latency) == 255, value(port_to_port_exit_latency) == 255, length(udev) == 65025, length(udev_lpm_params) == 65025, length(hub) == 65025, length(hub_lpm_params) == 65025

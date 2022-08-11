@@ -1,0 +1,2 @@
+struct context_entry | lo unsigned long long 
+function context_clear_pasid_enable void | context struct context_entry *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | type int 
+function X509_OBJECT_get_type int | a const struct TYPE_3__ *

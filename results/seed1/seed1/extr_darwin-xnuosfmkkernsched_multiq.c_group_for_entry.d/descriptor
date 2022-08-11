@@ -1,0 +1,2 @@
+struct TYPE_3__ | sched_pri int 
+function group_for_entry int | entry struct TYPE_3__ *

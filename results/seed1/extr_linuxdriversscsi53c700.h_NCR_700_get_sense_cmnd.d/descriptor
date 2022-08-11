@@ -1,3 +1,0 @@
-struct scsi_device | hostdata struct NCR_700_Device_Parameters * 
-struct NCR_700_Device_Parameters | cmnd char * 
-function NCR_700_get_sense_cmnd char * | SDp struct scsi_device *

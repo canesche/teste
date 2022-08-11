@@ -1,0 +1,4 @@
+struct uart_driver | tty_driver struct tty_driver * 
+struct tty_driver | dummy int 
+struct console | index int | data struct uart_driver * 
+function uart_console_device struct tty_driver * | co struct console * | index int *

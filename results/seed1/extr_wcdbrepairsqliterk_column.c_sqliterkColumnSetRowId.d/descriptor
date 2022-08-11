@@ -1,2 +1,0 @@
-struct TYPE_3__ | rowid int 
-function sqliterkColumnSetRowId void | column struct TYPE_3__ * | rowid int

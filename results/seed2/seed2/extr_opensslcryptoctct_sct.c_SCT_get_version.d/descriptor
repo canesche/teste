@@ -1,0 +1,2 @@
+struct TYPE_3__ | version int 
+function SCT_get_version int | sct const struct TYPE_3__ *

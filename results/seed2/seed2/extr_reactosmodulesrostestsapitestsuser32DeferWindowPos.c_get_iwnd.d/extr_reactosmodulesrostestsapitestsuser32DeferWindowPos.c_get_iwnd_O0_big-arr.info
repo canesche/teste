@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_reactosmodulesrostestsapitestsuser32DeferWindowPos.c_get_iwnd.d/extr_reactosmodulesrostestsapitestsuser32DeferWindowPos.c_get_iwnd_O0::get_iwnd(65)"
+  }
+]

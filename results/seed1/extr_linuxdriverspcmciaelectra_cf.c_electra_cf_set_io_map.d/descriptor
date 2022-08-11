@@ -1,3 +1,0 @@
-struct pcmcia_socket | dummy int 
-struct pccard_io_map | dummy int 
-function electra_cf_set_io_map int | s struct pcmcia_socket * | io struct pccard_io_map *

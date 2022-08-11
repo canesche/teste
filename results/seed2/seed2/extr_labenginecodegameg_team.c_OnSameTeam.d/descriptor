@@ -1,0 +1,5 @@
+struct TYPE_9__ | client struct TYPE_8__ * 
+struct TYPE_10__ | integer long 
+struct TYPE_7__ | sessionTeam long 
+struct TYPE_8__ | sess struct TYPE_7__ 
+function OnSameTeam int | ent1 struct TYPE_9__ * | ent2 struct TYPE_9__ *

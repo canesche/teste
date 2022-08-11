@@ -1,2 +1,0 @@
-struct vc_data | dummy int 
-function vgacon_putc void | vc struct vc_data * | c int | ypos int | xpos int

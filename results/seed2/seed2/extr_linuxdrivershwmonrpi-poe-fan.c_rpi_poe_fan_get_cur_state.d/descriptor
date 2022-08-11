@@ -1,0 +1,3 @@
+struct thermal_cooling_device | devdata struct rpi_poe_fan_ctx * 
+struct rpi_poe_fan_ctx | rpi_poe_fan_state unsigned long 
+function rpi_poe_fan_get_cur_state int | cdev struct thermal_cooling_device * | state unsigned long *

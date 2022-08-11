@@ -1,0 +1,3 @@
+struct mlx5_cmd_layout | dummy int 
+struct mlx5_cmd | log_stride int | cmd_buf struct mlx5_cmd_layout * 
+function get_inst struct mlx5_cmd_layout * | cmd struct mlx5_cmd * | idx int

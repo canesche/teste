@@ -1,0 +1,4 @@
+struct TYPE_2__ | module_id long | instance_id long 
+struct skl_module_pin | id struct TYPE_2__ 
+struct skl_module_inst_id | module_id long | instance_id long 
+function skl_get_queue_index int | mpin struct skl_module_pin * | id struct skl_module_inst_id | max int

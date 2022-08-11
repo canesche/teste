@@ -1,0 +1,2 @@
+struct TYPE_3__ | num unsigned long 
+function gs_indexbuffer_get_num_indices unsigned long | ib const struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct i2c_child_t | fan_mask unsigned char 
+function envctrl_i2c_fan_status int | pchild struct i2c_child_t * | data unsigned char | bufdata char *

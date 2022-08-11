@@ -1,0 +1,2 @@
+struct TYPE_3__ | halted int 
+function jq_halted int | jq struct TYPE_3__ *

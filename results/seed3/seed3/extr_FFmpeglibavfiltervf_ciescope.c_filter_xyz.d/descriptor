@@ -1,0 +1,4 @@
+struct TYPE_8__ | priv struct TYPE_6__ * 
+struct TYPE_7__ | linesize int * | data long * 
+struct TYPE_6__ | log2lin double * 
+function filter_xyz void | ctx struct TYPE_8__ * | in struct TYPE_7__ * | cx double * | cy double * | x int | y int

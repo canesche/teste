@@ -1,2 +1,0 @@
-struct ieee802_11_elems | wmm_info int * | wmm_info_len int | wmm_param int * | wmm_param_len int 
-function is_uapsd_supported int | elems struct ieee802_11_elems *

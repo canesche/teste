@@ -1,1 +1,0 @@
-function broken_session_ticket_cb int | s int * | key_name unsigned char * | iv unsigned char * | ctx int * | hctx int * | enc int

@@ -1,0 +1,2 @@
+struct ufs_hba | spm_lvl int | rpm_lvl int 
+function ufs_hisi_set_pm_lvl void | hba struct ufs_hba *

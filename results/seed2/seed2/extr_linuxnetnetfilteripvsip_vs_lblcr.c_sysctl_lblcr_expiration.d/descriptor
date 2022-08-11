@@ -1,0 +1,2 @@
+struct ip_vs_service | dummy int 
+function sysctl_lblcr_expiration int | svc struct ip_vs_service *

@@ -1,0 +1,4 @@
+struct TYPE_3__ | head int 
+struct TYPE_4__ | sq struct TYPE_3__ 
+struct ocrdma_dev | mq struct TYPE_4__ 
+function ocrdma_mq_inc_head void | dev struct ocrdma_dev *

@@ -1,0 +1,4 @@
+struct mxser_board | vector long | info struct TYPE_4__ * | ports struct TYPE_3__ * 
+struct TYPE_4__ | nports int 
+struct TYPE_3__ | ioaddr long 
+function mxser_overlapping_vector int | brd struct mxser_board *

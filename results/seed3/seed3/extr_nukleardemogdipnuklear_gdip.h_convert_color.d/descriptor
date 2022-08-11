@@ -1,0 +1,2 @@
+struct nk_color | a int | r int | g int | b int 
+function convert_color int | c struct nk_color

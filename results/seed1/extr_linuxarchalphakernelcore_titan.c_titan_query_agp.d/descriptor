@@ -1,5 +1,0 @@
-struct TYPE_6__ | apctl_v_agp_present int 
-struct TPAchipPCTL | pctl_r_bits struct TYPE_6__ | pctl_q_whole int 
-struct TYPE_5__ | csr int 
-struct TYPE_7__ | pctl struct TYPE_5__ 
-function titan_query_agp int | port struct TYPE_7__ *

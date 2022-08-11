@@ -1,0 +1,2 @@
+struct super_block | s_maxbytes long 
+function nfs_super_set_maxbytes void | sb struct super_block * | maxfilesize long

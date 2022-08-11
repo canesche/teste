@@ -1,3 +1,0 @@
-struct intel_pt_queue | last_branch_rb struct TYPE_2__ * | last_branch_pos long 
-struct TYPE_2__ | nr long 
-function intel_pt_reset_last_branch_rb void | ptq struct intel_pt_queue *

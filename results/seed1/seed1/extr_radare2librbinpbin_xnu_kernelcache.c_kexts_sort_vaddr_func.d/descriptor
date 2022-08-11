@@ -1,0 +1,3 @@
+struct TYPE_3__ | size int 
+struct TYPE_4__ | vaddr int | text_range struct TYPE_3__ 
+function kexts_sort_vaddr_func int | a const void * | b const void *

@@ -1,2 +1,0 @@
-struct imx_media_pixfmt | fourcc unsigned long | codes unsigned long * | bayer int 
-function enum_format int | fourcc unsigned long * | code unsigned long * | index unsigned long | cs_sel enum codespace_sel | allow_non_mbus int | allow_bayer int

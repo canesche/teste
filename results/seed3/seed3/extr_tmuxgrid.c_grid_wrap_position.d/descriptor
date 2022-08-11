@@ -1,0 +1,3 @@
+struct grid | linedata struct TYPE_2__ * 
+struct TYPE_2__ | flags int | cellused unsigned long 
+function grid_wrap_position void | gd struct grid * | px unsigned long | py unsigned long | wx unsigned long * | wy unsigned long *

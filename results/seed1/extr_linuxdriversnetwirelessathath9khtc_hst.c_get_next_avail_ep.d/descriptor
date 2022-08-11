@@ -1,2 +1,0 @@
-struct htc_endpoint | service_id long 
-function get_next_avail_ep struct htc_endpoint * | endpoint struct htc_endpoint *

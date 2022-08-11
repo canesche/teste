@@ -1,0 +1,2 @@
+struct TYPE_3__ | dev_state int | dev_old_state int 
+function USBD_LL_Suspend int | pdev struct TYPE_3__ *

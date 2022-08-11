@@ -1,0 +1,2 @@
+struct typec_altmode | svid long | mode long 
+function typec_match_altmode struct typec_altmode * | altmodes struct typec_altmode ** | n unsigned long | svid long | mode long

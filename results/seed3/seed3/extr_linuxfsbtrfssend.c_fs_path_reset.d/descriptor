@@ -1,0 +1,2 @@
+struct fs_path | buf_len int | start long * | end long * | buf long * | reversed long 
+function fs_path_reset void | p struct fs_path *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | RefType int | pUnknown int * | lpVtbl int * 
+function InitD3D9BaseObject int | pBaseObject struct TYPE_3__ * | RefType enum REF_TYPE | pUnknown int *

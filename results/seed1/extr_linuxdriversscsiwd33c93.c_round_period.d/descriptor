@@ -1,2 +1,0 @@
-struct sx_period | period_ns int 
-function round_period int | period unsigned int | sx_table const struct sx_period *

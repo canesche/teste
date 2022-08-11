@@ -1,0 +1,2 @@
+struct comedi_lrange | dummy int 
+function opt_ai_range_lkup const struct comedi_lrange * | ispgl int | x int

@@ -1,0 +1,5 @@
+struct TYPE_6__ | dcr_action int 
+struct TYPE_7__ | dts_cred struct TYPE_6__ 
+struct TYPE_9__ | cpu_id unsigned long 
+struct TYPE_8__ | cpuc_dtrace_flags int 
+function dtrace_priv_proc_relaxed int | state struct TYPE_7__ *

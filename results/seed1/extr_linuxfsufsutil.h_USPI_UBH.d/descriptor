@@ -1,3 +1,0 @@
-struct ufs_buffer_head | dummy int 
-struct ufs_sb_private_info | s_ubh struct ufs_buffer_head 
-function USPI_UBH struct ufs_buffer_head * | spi struct ufs_sb_private_info *

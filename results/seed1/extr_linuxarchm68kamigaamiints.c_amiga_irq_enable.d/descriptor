@@ -1,3 +1,0 @@
-struct irq_data | irq int 
-struct TYPE_2__ | intena int 
-function amiga_irq_enable void | data struct irq_data *

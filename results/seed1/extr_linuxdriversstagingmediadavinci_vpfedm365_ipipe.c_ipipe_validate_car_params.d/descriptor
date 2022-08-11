@@ -1,4 +1,0 @@
-struct TYPE_4__ | shft long | gain_min long 
-struct TYPE_3__ | shft long | gain_min long 
-struct vpfe_ipipe_car | en int | hpf_shft long | gain2 struct TYPE_4__ | gain1 struct TYPE_3__ 
-function ipipe_validate_car_params int | car struct vpfe_ipipe_car *

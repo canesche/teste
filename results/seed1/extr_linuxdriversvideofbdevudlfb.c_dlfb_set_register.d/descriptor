@@ -1,1 +1,0 @@
-function dlfb_set_register char * | buf char * | reg void * | val void *

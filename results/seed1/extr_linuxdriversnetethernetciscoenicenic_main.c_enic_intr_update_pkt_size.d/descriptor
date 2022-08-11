@@ -1,2 +1,0 @@
-struct vnic_rx_bytes_counter | small_pkt_bytes_cnt int | large_pkt_bytes_cnt int 
-function enic_intr_update_pkt_size void | pkt_size struct vnic_rx_bytes_counter * | pkt_len long

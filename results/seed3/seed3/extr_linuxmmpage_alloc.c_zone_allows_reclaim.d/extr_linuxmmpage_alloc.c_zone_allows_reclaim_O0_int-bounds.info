@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxmmpage_alloc.c_zone_allows_reclaim.d/extr_linuxmmpage_alloc.c_zone_allows_reclaim_O0::zone_allows_reclaim(61)"
+  }
+]

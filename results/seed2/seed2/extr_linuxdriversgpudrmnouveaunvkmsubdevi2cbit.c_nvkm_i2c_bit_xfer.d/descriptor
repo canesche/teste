@@ -1,0 +1,3 @@
+struct nvkm_i2c_bus | dummy int 
+struct i2c_msg | dummy int 
+function nvkm_i2c_bit_xfer int | bus struct nvkm_i2c_bus * | msgs struct i2c_msg * | num int

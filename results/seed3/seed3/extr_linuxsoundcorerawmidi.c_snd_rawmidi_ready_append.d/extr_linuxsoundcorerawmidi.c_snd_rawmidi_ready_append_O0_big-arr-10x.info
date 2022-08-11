@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsoundcorerawmidi.c_snd_rawmidi_ready_append.d/extr_linuxsoundcorerawmidi.c_snd_rawmidi_ready_append_O0::snd_rawmidi_ready_append(63)"
+  }
+]

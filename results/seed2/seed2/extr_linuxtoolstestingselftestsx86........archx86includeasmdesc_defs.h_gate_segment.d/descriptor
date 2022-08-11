@@ -1,0 +1,2 @@
+struct TYPE_3__ | segment unsigned long 
+function gate_segment unsigned long | g const struct TYPE_3__ *

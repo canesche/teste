@@ -1,0 +1,3 @@
+struct TYPE_2__ | rs int | rt int | opcode long 
+struct mips_instruction | i_format struct TYPE_2__ 
+function is_sp_move_ins int | ip union mips_instruction *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_mongooseexamplesnRF51httprttSyscallsRTT_Syscalls_KEIL.c__sys_istty.d/extr_mongooseexamplesnRF51httprttSyscallsRTT_Syscalls_KEIL.c__sys_istty_O0::_sys_istty(60)"
+  }
+]

@@ -1,3 +1,0 @@
-struct TYPE_5__ | next struct TYPE_5__ * | prev struct TYPE_5__ * 
-struct TYPE_6__ | head struct TYPE_5__ * | tail struct TYPE_5__ * 
-function listIndex struct TYPE_5__ * | list struct TYPE_6__ * | index long

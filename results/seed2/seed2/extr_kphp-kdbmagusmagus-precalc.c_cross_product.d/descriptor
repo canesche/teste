@@ -1,0 +1,2 @@
+struct TYPE_4__ | fid long | val float 
+function cross_product float | a struct TYPE_4__ * | b struct TYPE_4__ *

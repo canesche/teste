@@ -1,0 +1,2 @@
+struct search_index_pair | crc long | idx long 
+function sip_cmp int | a struct search_index_pair * | b struct search_index_pair *

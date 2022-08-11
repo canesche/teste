@@ -1,0 +1,3 @@
+struct ktermios | c_iflag int | c_oflag int | c_cflag int | c_lflag int | c_cc long * | c_line long 
+struct tty_struct | termios_locked struct ktermios | termios struct ktermios 
+function unset_locked_termios void | tty struct tty_struct * | old struct ktermios *

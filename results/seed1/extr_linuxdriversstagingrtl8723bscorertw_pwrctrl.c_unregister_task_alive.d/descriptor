@@ -1,2 +1,0 @@
-struct pwrctrl_priv | alives int 
-function unregister_task_alive void | pwrctrl struct pwrctrl_priv * | tag int

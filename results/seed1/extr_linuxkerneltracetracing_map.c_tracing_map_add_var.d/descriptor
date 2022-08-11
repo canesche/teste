@@ -1,2 +1,0 @@
-struct tracing_map | n_vars long 
-function tracing_map_add_var int | map struct tracing_map *

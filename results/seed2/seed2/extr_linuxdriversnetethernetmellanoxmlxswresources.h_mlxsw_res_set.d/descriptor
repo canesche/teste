@@ -1,0 +1,2 @@
+struct mlxsw_res | valid int * | values int * 
+function mlxsw_res_set void | res struct mlxsw_res * | res_id enum mlxsw_res_id | value int

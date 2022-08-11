@@ -1,2 +1,0 @@
-struct TYPE_2__ | jfs_flag int | ext2_flag unsigned long 
-function jfs_map_ext2 long | flags unsigned long | from int

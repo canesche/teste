@@ -1,0 +1,7 @@
+struct pf_state | timeout long | state_key struct TYPE_8__ * 
+struct TYPE_6__ | grev1_state struct pf_state * 
+struct TYPE_5__ | pptp_state int * 
+struct TYPE_7__ | pptp struct TYPE_6__ | grev1 struct TYPE_5__ 
+struct pf_app_state | u struct TYPE_7__ 
+struct TYPE_8__ | app_state struct pf_app_state * 
+function pf_pptp_unlink void | s struct pf_state *

@@ -1,0 +1,2 @@
+struct hash_ipportnet4_elem | nomatch long 
+function hash_ipportnet4_do_data_match int | elem const struct hash_ipportnet4_elem *

@@ -1,0 +1,2 @@
+struct pvr2_buffer | id int 
+function pvr2_buffer_get_id int | bp struct pvr2_buffer *

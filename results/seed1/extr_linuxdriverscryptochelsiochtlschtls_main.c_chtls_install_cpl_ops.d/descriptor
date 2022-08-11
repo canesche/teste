@@ -1,2 +1,0 @@
-struct sock | sk_prot int * 
-function chtls_install_cpl_ops void | sk struct sock *

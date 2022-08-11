@@ -1,0 +1,4 @@
+struct net_device | dcbnl_ops int * 
+struct TYPE_2__ | dcb_ops int | netdev struct net_device * 
+struct hnae3_handle | flags int | kinfo struct TYPE_2__ 
+function hns3_dcbnl_setup void | handle struct hnae3_handle *

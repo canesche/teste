@@ -1,0 +1,1 @@
+function comedi_isadma_disable_on_sample unsigned int | dma_chan unsigned int | size unsigned int

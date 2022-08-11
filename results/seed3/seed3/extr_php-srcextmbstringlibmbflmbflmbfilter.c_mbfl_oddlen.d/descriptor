@@ -1,0 +1,3 @@
+struct TYPE_4__ | val unsigned char * | len unsigned long | encoding struct TYPE_5__ * 
+struct TYPE_5__ | flag int | mblen_table unsigned char * 
+function mbfl_oddlen unsigned long | string struct TYPE_4__ *

@@ -1,0 +1,1 @@
+function storedxtencodedblock void | blkaddr int * | srccolors int [4][4][4] | bestcolor int *[2] | numxpixels int | numypixels int | type int | haveAlpha long

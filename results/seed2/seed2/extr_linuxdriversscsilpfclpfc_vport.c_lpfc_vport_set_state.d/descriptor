@@ -1,0 +1,3 @@
+struct lpfc_vport | port_state int | fc_vport struct fc_vport * 
+struct fc_vport | vport_last_state int | vport_state int 
+function lpfc_vport_set_state void | vport struct lpfc_vport * | new_state enum fc_vport_state

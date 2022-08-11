@@ -1,3 +1,0 @@
-struct diag204_x_cpu_info | dummy int 
-struct diag204_cpu_info | dummy int 
-function cpu_info__size int | type enum diag204_format

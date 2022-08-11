@@ -1,2 +1,0 @@
-struct bucket | last_gc long | gen long 
-function bucket_gc_gen long | b struct bucket *

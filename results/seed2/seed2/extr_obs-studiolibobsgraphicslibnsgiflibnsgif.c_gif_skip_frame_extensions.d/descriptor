@@ -1,0 +1,2 @@
+struct TYPE_3__ | gif_data unsigned char * | buffer_position int | buffer_size int 
+function gif_skip_frame_extensions int | gif struct TYPE_3__ *

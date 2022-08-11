@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversregulatorqcom_spmi-regulator.c_spmi_regulator_of_map_mode.d/extr_linuxdriversregulatorqcom_spmi-regulator.c_spmi_regulator_of_map_mode_O0::spmi_regulator_of_map_mode(63)"
+  }
+]

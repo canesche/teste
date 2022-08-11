@@ -1,0 +1,2 @@
+struct TYPE_3__ | index int | children struct TYPE_3__ ** 
+function color_tree_get int | tree struct TYPE_3__ * | r unsigned char | g unsigned char | b unsigned char | a unsigned char

@@ -1,2 +1,0 @@
-struct device | dummy int 
-function brcmf_pcie_tx_ctlpkt int | dev struct device * | msg unsigned char * | len int

@@ -1,2 +1,0 @@
-struct clk_hw | dummy int 
-function clk_nodrv_prepare_enable int | hw struct clk_hw *

@@ -1,2 +1,0 @@
-struct l2cap_chan | scid int 
-function l2cap_valid_mtu int | chan struct l2cap_chan * | mtu int

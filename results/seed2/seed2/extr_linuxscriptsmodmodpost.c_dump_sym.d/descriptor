@@ -1,0 +1,2 @@
+struct symbol | kernel long | vmlinux long 
+function dump_sym int | sym struct symbol *

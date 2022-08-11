@@ -1,0 +1,3 @@
+struct nlmsghdr | dummy int 
+struct net_device | needs_free_netdev int | features int | min_mtu int | mtu int | flags int | ethtool_ops int * | netdev_ops int * | priv_flags int | type int 
+function nlmon_setup void | dev struct net_device *

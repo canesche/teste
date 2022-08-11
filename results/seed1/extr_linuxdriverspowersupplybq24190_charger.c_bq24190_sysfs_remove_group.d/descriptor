@@ -1,2 +1,0 @@
-struct bq24190_dev_info | dummy int 
-function bq24190_sysfs_remove_group void | bdi struct bq24190_dev_info *

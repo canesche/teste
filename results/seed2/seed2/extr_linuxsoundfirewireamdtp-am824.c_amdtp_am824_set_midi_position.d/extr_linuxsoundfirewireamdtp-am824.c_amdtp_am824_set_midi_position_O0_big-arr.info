@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxsoundfirewireamdtp-am824.c_amdtp_am824_set_midi_position.d/extr_linuxsoundfirewireamdtp-am824.c_amdtp_am824_set_midi_position_O0::amdtp_am824_set_midi_position(63)"
+  }
+]

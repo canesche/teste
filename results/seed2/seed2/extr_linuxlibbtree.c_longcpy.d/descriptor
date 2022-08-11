@@ -1,0 +1,1 @@
+function longcpy unsigned long * | dest unsigned long * | src const unsigned long * | n unsigned long

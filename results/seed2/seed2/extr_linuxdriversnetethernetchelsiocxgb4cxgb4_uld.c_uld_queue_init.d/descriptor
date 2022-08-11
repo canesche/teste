@@ -1,0 +1,5 @@
+struct sge_uld_rxq_info | nciq int | nrxq long | rspq_id long 
+struct cxgb4_lld_info | nciq int | ciq_ids long | nrxq long | rxq_ids long 
+struct TYPE_2__ | uld_rxq_info struct sge_uld_rxq_info ** 
+struct adapter | sge struct TYPE_2__ 
+function uld_queue_init void | adap struct adapter * | uld_type unsigned int | lli struct cxgb4_lld_info *

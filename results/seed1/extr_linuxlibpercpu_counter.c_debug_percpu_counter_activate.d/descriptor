@@ -1,2 +1,0 @@
-struct percpu_counter | dummy int 
-function debug_percpu_counter_activate void | fbc struct percpu_counter *

@@ -1,0 +1,4 @@
+struct vc_data | vc_num int | vc_attr int | vc_y int | vc_x int | vc_pos int 
+struct TYPE_3__ | highsize int * | highbuf int ** | ry int * | rx int * | rpos int * 
+struct TYPE_4__ | ht struct TYPE_3__ 
+function update_color_buffer void | vc struct vc_data * | ic const int * | len int

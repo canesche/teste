@@ -1,0 +1,2 @@
+struct bpf_jit | seen_reg int * 
+function reg_set_seen void | jit struct bpf_jit * | b1 unsigned long

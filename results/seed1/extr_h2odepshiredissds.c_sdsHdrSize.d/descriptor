@@ -1,6 +1,0 @@
-struct sdshdr8 | dummy int 
-struct sdshdr64 | dummy int 
-struct sdshdr5 | dummy int 
-struct sdshdr32 | dummy int 
-struct sdshdr16 | dummy int 
-function sdsHdrSize int | type char

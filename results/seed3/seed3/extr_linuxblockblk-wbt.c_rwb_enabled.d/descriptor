@@ -1,0 +1,2 @@
+struct rq_wb | wb_normal long 
+function rwb_enabled int | rwb struct rq_wb *

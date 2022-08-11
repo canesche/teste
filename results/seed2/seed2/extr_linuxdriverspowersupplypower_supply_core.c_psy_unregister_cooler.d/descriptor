@@ -1,0 +1,2 @@
+struct power_supply | dummy int 
+function psy_unregister_cooler void | psy struct power_supply *

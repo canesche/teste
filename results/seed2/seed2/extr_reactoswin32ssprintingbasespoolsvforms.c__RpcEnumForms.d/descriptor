@@ -1,0 +1,1 @@
+function _RpcEnumForms int | hPrinter int | Level int | pForm int * | cbBuf int | pcbNeeded int * | pcReturned int *

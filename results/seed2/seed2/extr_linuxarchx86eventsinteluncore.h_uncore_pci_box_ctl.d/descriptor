@@ -1,0 +1,4 @@
+struct intel_uncore_box | pmu struct TYPE_4__ * 
+struct TYPE_4__ | type struct TYPE_3__ * 
+struct TYPE_3__ | box_ctl int 
+function uncore_pci_box_ctl unsigned int | box struct intel_uncore_box *

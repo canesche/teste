@@ -1,4 +1,0 @@
-struct TYPE_5__ | idx int 
-struct TYPE_6__ | type long | opt_subexp int | opr struct TYPE_5__ 
-struct TYPE_7__ | token struct TYPE_6__ 
-function mark_opt_subexp int | extra void * | node struct TYPE_7__ *

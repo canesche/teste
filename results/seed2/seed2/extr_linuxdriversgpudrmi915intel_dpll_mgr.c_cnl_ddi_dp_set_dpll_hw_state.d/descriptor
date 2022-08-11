@@ -1,0 +1,2 @@
+struct intel_dpll_hw_state | cfgcr0 int 
+function cnl_ddi_dp_set_dpll_hw_state int | clock int | dpll_hw_state struct intel_dpll_hw_state *

@@ -1,0 +1,2 @@
+struct uasm_reloc | lab int | type int | addr int * 
+function uasm_r_mips_pc16 void | rel struct uasm_reloc ** | addr int * | lid int

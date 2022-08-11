@@ -1,2 +1,0 @@
-struct nd_namespace_blk | lbasize int 
-function nsblk_meta_size int | nsblk struct nd_namespace_blk *

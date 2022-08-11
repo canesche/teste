@@ -1,0 +1,5 @@
+struct TYPE_3__ | reg struct mwifiex_pcie_card_reg * 
+struct pcie_service_card | txbd_wrptr int | txbd_rdptr int | dev struct TYPE_4__ * | pcie struct TYPE_3__ 
+struct mwifiex_pcie_card_reg | tx_mask int | tx_rollover_ind int 
+struct TYPE_4__ | device int 
+function mwifiex_pcie_txbd_not_full int | card struct pcie_service_card *

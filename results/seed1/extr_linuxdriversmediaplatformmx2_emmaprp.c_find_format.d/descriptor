@@ -1,5 +1,0 @@
-struct TYPE_3__ | pixelformat long 
-struct TYPE_4__ | pix struct TYPE_3__ 
-struct v4l2_format | fmt struct TYPE_4__ 
-struct emmaprp_fmt | fourcc long 
-function find_format struct emmaprp_fmt * | f struct v4l2_format *

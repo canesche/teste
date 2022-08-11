@@ -1,2 +1,0 @@
-struct aoa_codec | gpio int * | soundbus_dev int * 
-function layout_remove_codec void | codec struct aoa_codec *

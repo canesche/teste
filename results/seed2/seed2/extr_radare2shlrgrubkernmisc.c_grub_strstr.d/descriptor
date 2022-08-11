@@ -1,0 +1,1 @@
+function grub_strstr char * | haystack const char * | needle const char *

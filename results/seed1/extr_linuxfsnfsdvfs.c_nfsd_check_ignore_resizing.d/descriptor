@@ -1,2 +1,0 @@
-struct iattr | ia_valid int | ia_size long 
-function nfsd_check_ignore_resizing void | iap struct iattr *

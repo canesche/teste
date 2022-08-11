@@ -1,0 +1,3 @@
+struct mmp_clk_mix | div_flags int | div_table struct clk_div_table * 
+struct clk_div_table | div unsigned int | val unsigned int 
+function _get_div unsigned int | mix struct mmp_clk_mix * | val unsigned int

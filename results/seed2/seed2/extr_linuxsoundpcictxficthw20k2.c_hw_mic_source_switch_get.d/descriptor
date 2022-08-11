@@ -1,0 +1,3 @@
+struct hw20k2 | mic_source int 
+struct hw | dummy int 
+function hw_mic_source_switch_get int | hw struct hw *

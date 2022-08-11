@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetsfcmcdi_port.c_mcdi_fec_caps_to_ethtool.d/extr_linuxdriversnetethernetsfcmcdi_port.c_mcdi_fec_caps_to_ethtool_O0::mcdi_fec_caps_to_ethtool(71)"
+  }
+]

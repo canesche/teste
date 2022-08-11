@@ -1,0 +1,2 @@
+struct sge_txq | in_use unsigned int | pidx long | size long 
+function txq_advance void | q struct sge_txq * | n unsigned int

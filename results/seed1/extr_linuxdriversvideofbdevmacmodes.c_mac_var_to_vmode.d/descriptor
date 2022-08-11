@@ -1,4 +1,0 @@
-struct mode_map | vmode int | mode struct fb_videomode * 
-struct fb_videomode | xres long | yres long | pixclock long | vmode int 
-struct fb_var_screeninfo | bits_per_pixel int | xres long | yres long | xres_virtual long | yres_virtual long | pixclock long | vmode int 
-function mac_var_to_vmode int | var const struct fb_var_screeninfo * | vmode int * | cmode int *

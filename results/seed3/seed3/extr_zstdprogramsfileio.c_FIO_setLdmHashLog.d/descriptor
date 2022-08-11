@@ -1,0 +1,2 @@
+struct TYPE_3__ | ldmHashLog int 
+function FIO_setLdmHashLog void | prefs struct TYPE_3__ *const | ldmHashLog int

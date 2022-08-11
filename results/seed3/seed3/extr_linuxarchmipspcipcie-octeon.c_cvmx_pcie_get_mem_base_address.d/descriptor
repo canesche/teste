@@ -1,0 +1,3 @@
+struct TYPE_2__ | io int | did int | subdid int | upper long 
+struct cvmx_pcie_address | u64 long | mem struct TYPE_2__ 
+function cvmx_pcie_get_mem_base_address long | pcie_port int

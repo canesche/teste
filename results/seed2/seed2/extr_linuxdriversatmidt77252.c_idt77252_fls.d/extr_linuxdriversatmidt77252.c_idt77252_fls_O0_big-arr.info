@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 46,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 46,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversatmidt77252.c_idt77252_fls.d/extr_linuxdriversatmidt77252.c_idt77252_fls_O0::idt77252_fls(61)"
+  }
+]

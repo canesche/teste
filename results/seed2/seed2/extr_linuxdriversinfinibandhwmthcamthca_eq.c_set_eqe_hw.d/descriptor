@@ -1,0 +1,2 @@
+struct mthca_eqe | owner int 
+function set_eqe_hw void | eqe struct mthca_eqe *

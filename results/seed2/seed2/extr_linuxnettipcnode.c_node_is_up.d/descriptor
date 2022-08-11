@@ -1,0 +1,2 @@
+struct tipc_node | active_links long * 
+function node_is_up int | n struct tipc_node *

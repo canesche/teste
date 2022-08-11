@@ -1,0 +1,2 @@
+struct snd_compr_caps | codecs int * | max_fragments int | min_fragments int | max_fragment_size int | min_fragment_size int | num_codecs int 
+function sst_cdev_caps int | caps struct snd_compr_caps *

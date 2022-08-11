@@ -1,2 +1,0 @@
-struct usb_device | dummy int 
-function usb_autoresume_device int | udev struct usb_device *

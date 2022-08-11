@@ -1,0 +1,5 @@
+struct ngene_channel | number int | dev struct TYPE_4__ * 
+struct i2c_adapter | dummy int 
+struct TYPE_4__ | channel struct TYPE_3__ * 
+struct TYPE_3__ | i2c_adapter struct i2c_adapter 
+function i2c_adapter_from_chan struct i2c_adapter * | chan struct ngene_channel *

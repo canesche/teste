@@ -1,0 +1,2 @@
+struct ceph_hobject_id | hash_reverse_bits int | is_max long 
+function hoid_get_bitwise_key int | hoid const struct ceph_hobject_id *

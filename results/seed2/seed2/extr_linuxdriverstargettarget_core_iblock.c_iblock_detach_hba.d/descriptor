@@ -1,0 +1,2 @@
+struct se_hba | dummy int 
+function iblock_detach_hba void | hba struct se_hba *

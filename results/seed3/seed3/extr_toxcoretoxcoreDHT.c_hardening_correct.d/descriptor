@@ -1,0 +1,2 @@
+struct TYPE_3__ | send_nodes_ok int | testing_requests int | routes_requests_ok long 
+function hardening_correct long | h const struct TYPE_3__ *

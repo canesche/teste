@@ -1,0 +1,2 @@
+struct vm_area_struct | dummy int 
+function adjust_range_if_pmd_sharing_possible void | vma struct vm_area_struct * | start unsigned long * | end unsigned long *

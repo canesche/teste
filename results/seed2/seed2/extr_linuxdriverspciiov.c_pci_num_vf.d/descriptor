@@ -1,0 +1,3 @@
+struct pci_dev | sriov struct TYPE_2__ * | is_physfn int 
+struct TYPE_2__ | num_VFs int 
+function pci_num_vf int | dev struct pci_dev *

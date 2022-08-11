@@ -1,0 +1,3 @@
+struct st_h2o_evloop_socket_t | _flags int | _next_pending struct st_h2o_evloop_socket_t * | loop struct TYPE_2__ * 
+struct TYPE_2__ | _pending_as_client struct st_h2o_evloop_socket_t * | _pending_as_server struct st_h2o_evloop_socket_t * 
+function link_to_pending void | sock struct st_h2o_evloop_socket_t *

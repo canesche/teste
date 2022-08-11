@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function mtk_hdmi_phy_remove int | pdev struct platform_device *

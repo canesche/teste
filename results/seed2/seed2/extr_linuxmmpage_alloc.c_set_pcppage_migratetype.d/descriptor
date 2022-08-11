@@ -1,0 +1,2 @@
+struct page | index int 
+function set_pcppage_migratetype void | page struct page * | migratetype int

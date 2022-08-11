@@ -1,2 +1,0 @@
-struct drm_gem_object | dummy int 
-function msm_gem_put_pages void | obj struct drm_gem_object *

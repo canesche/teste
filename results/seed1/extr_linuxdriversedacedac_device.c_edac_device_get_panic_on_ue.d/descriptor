@@ -1,2 +1,0 @@
-struct edac_device_ctl_info | panic_on_ue int 
-function edac_device_get_panic_on_ue int | edac_dev struct edac_device_ctl_info *

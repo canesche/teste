@@ -1,0 +1,2 @@
+struct hci_dev | dummy int 
+function btqcomsmd_close int | hdev struct hci_dev *

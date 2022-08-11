@@ -1,0 +1,3 @@
+struct TYPE_2__ | num_pages unsigned long 
+struct qxl_bo | tbo struct TYPE_2__ 
+function qxl_bo_size unsigned long | bo struct qxl_bo *

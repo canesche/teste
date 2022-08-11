@@ -1,0 +1,3 @@
+struct freq_table | frequency unsigned int 
+struct cpufreq_cooling_device | max_level unsigned long | freq_table struct freq_table * 
+function get_level unsigned long | cpufreq_cdev struct cpufreq_cooling_device * | freq unsigned int

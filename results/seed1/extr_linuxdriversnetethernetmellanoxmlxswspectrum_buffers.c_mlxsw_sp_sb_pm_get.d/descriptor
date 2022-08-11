@@ -1,5 +1,0 @@
-struct mlxsw_sp_sb_pm | dummy int 
-struct mlxsw_sp | sb struct TYPE_4__ * 
-struct TYPE_4__ | ports struct TYPE_3__ * 
-struct TYPE_3__ | pms struct mlxsw_sp_sb_pm ** 
-function mlxsw_sp_sb_pm_get struct mlxsw_sp_sb_pm * | mlxsw_sp struct mlxsw_sp * | local_port unsigned long | pool unsigned long | dir enum mlxsw_reg_sbxx_dir

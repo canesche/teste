@@ -1,0 +1,1 @@
+length(freeFunc) == 65025, length(mallocFunc) == 65025, length(mallocAtomicFunc) == 65025, length(reallocFunc) == 65025, length(strdupFunc) == 65025

@@ -1,0 +1,3 @@
+struct i2c_client | dummy int 
+struct completion | dummy int 
+function elan_smbus_finish_fw_update int | client struct i2c_client * | fw_completion struct completion *

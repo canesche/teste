@@ -1,0 +1,4 @@
+struct udp_socket | dummy int 
+struct udp_message | dummy int 
+struct process_id | dummy int 
+function send_error_wrong_pid void | u struct udp_socket * | msg struct udp_message * | remote_pid struct process_id * | pid struct process_id *

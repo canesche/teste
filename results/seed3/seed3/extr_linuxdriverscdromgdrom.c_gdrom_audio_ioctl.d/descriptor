@@ -1,0 +1,2 @@
+struct cdrom_device_info | dummy int 
+function gdrom_audio_ioctl int | cdi struct cdrom_device_info * | cmd unsigned int | arg void *

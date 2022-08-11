@@ -1,0 +1,4 @@
+struct TYPE_5__ | lpVtbl int * 
+struct TYPE_6__ | doc_host struct TYPE_7__ * | IHTMLWindow2_iface struct TYPE_5__ 
+struct TYPE_7__ | html_window struct TYPE_6__ 
+function IEHTMLWindow_Init void | doc_host struct TYPE_7__ *

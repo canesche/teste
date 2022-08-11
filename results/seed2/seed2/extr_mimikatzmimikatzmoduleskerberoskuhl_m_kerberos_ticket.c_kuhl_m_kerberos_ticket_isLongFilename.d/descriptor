@@ -1,0 +1,4 @@
+struct TYPE_7__ | ServiceName struct TYPE_6__ * | ClientName struct TYPE_5__ * 
+struct TYPE_6__ | NameType long | NameCount int 
+struct TYPE_5__ | NameType long | NameCount int 
+function kuhl_m_kerberos_ticket_isLongFilename int | ticket struct TYPE_7__ *

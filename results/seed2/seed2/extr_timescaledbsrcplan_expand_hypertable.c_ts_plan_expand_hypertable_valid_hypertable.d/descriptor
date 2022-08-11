@@ -1,0 +1,3 @@
+struct TYPE_6__ | rowMarks long | resultRelation long 
+struct TYPE_5__ | inh int 
+function ts_plan_expand_hypertable_valid_hypertable int | ht int * | parse struct TYPE_6__ * | rti int | rte struct TYPE_5__ *

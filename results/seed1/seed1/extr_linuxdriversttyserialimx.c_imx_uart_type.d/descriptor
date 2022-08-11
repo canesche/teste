@@ -1,0 +1,4 @@
+struct uart_port | dummy int 
+struct TYPE_2__ | type long 
+struct imx_port | port struct TYPE_2__ 
+function imx_uart_type const char * | port struct uart_port *

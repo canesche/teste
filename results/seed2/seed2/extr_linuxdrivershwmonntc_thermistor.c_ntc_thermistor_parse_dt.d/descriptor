@@ -1,0 +1,3 @@
+struct ntc_thermistor_platform_data | dummy int 
+struct device | dummy int 
+function ntc_thermistor_parse_dt struct ntc_thermistor_platform_data * | dev struct device *

@@ -1,0 +1,2 @@
+struct esp | dummy int 
+function zorro_esp_dma_invalidate void | esp struct esp *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | u int 
+struct opal_resp_tok | pos const int * | len int | stored struct TYPE_2__ | type int | width int 
+function response_parse_tiny int | tok struct opal_resp_tok * | pos const int *

@@ -1,3 +1,0 @@
-struct diag204_x_info_blk_hdr | npar int 
-struct diag204_info_blk_hdr | npar int 
-function info_blk_hdr__npar int | type enum diag204_format | hdr void *

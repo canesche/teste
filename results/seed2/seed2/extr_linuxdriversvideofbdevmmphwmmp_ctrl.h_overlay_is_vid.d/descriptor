@@ -1,0 +1,2 @@
+struct mmp_overlay | dmafetch_id int 
+function overlay_is_vid int | overlay struct mmp_overlay *

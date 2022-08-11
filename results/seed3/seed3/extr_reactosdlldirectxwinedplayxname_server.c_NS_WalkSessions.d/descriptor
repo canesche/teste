@@ -1,0 +1,4 @@
+struct TYPE_6__ | present struct TYPE_5__ * 
+struct TYPE_4__ | lpQNext struct TYPE_5__ * 
+struct TYPE_5__ | next struct TYPE_4__ | data int * 
+function NS_WalkSessions int * | lpNSInfo int

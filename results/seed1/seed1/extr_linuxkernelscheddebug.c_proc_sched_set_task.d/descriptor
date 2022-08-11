@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function proc_sched_set_task void | p struct task_struct *

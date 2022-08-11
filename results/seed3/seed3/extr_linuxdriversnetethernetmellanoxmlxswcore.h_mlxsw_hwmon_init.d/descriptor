@@ -1,0 +1,4 @@
+struct mlxsw_hwmon | dummy int 
+struct mlxsw_core | dummy int 
+struct mlxsw_bus_info | dummy int 
+function mlxsw_hwmon_init int | mlxsw_core struct mlxsw_core * | mlxsw_bus_info const struct mlxsw_bus_info * | p_hwmon struct mlxsw_hwmon **

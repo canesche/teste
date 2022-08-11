@@ -1,3 +1,0 @@
-struct nfs_server | dummy int 
-struct nfs4_label | dummy int 
-function nfs4_label_alloc struct nfs4_label * | server struct nfs_server * | flags int

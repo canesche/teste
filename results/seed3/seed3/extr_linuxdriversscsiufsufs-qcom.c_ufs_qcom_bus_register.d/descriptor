@@ -1,0 +1,2 @@
+struct ufs_qcom_host | dummy int 
+function ufs_qcom_bus_register int | host struct ufs_qcom_host *

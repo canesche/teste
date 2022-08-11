@@ -1,0 +1,4 @@
+struct TYPE_2__ | width_div int 
+struct mmp_clk_mix | div_flags int | div_table struct clk_div_table * | reg_info struct TYPE_2__ 
+struct clk_div_table | div int 
+function _get_maxdiv unsigned int | mix struct mmp_clk_mix *

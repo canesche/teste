@@ -1,2 +1,0 @@
-struct vpdma_dtd | max_width_height int 
-function dtd_get_max_width int | dtd struct vpdma_dtd *

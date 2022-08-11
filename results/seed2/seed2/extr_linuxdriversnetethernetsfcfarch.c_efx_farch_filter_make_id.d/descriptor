@@ -1,0 +1,2 @@
+struct efx_farch_filter_spec | type unsigned long | flags int 
+function efx_farch_filter_make_id unsigned int | spec const struct efx_farch_filter_spec * | index unsigned int

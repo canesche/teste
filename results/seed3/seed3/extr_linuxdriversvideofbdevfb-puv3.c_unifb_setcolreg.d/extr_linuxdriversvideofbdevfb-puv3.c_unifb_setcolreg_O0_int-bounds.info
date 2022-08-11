@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversvideofbdevfb-puv3.c_unifb_setcolreg.d/extr_linuxdriversvideofbdevfb-puv3.c_unifb_setcolreg_O0::unifb_setcolreg(79)"
+  }
+]

@@ -1,2 +1,0 @@
-struct mlx5_eswitch | dummy int 
-function mlx5_eswitch_cleanup void | esw struct mlx5_eswitch *

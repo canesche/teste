@@ -1,0 +1,3 @@
+struct nfsd4_exchange_id | flags int 
+struct nfs4_client | cl_exchange_flags int 
+function nfsd4_set_ex_flags void | new struct nfs4_client * | clid struct nfsd4_exchange_id *

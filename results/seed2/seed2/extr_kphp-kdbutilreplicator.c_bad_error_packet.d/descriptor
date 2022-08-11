@@ -1,0 +1,2 @@
+struct repl_error | error_message int * 
+function bad_error_packet int | E struct repl_error * | len int

@@ -1,0 +1,2 @@
+struct nalias | encoding_index long 
+function compare_by_index int | arg1 const void * | arg2 const void *

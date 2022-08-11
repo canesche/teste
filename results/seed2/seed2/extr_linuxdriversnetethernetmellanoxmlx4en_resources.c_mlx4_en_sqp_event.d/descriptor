@@ -1,0 +1,2 @@
+struct mlx4_qp | dummy int 
+function mlx4_en_sqp_event void | qp struct mlx4_qp * | event enum mlx4_event

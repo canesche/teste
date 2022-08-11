@@ -1,2 +1,0 @@
-struct optimized_kprobe | dummy int 
-function arch_check_optimized_kprobe int | op struct optimized_kprobe *

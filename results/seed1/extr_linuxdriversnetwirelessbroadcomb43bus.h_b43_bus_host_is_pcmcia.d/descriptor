@@ -1,2 +1,0 @@
-struct b43_bus_dev | dummy int 
-function b43_bus_host_is_pcmcia int | dev struct b43_bus_dev *

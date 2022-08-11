@@ -1,0 +1,3 @@
+struct page | dummy int 
+struct kmem_cache | dummy int 
+function slab_pad_check int | s struct kmem_cache * | page struct page *

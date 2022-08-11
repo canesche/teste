@@ -1,4 +1,0 @@
-struct snd_soc_pcm_stream | rates int 
-struct snd_soc_dai | driver struct TYPE_2__ * 
-struct TYPE_2__ | capture struct snd_soc_pcm_stream | playback struct snd_soc_pcm_stream 
-function snd_soc_dai_stream_valid int | dai struct snd_soc_dai * | stream int

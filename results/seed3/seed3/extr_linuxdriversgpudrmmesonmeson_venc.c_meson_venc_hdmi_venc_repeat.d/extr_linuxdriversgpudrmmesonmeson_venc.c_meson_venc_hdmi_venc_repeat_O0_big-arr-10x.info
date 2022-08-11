@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 13,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 26,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmmesonmeson_venc.c_meson_venc_hdmi_venc_repeat.d/extr_linuxdriversgpudrmmesonmeson_venc.c_meson_venc_hdmi_venc_repeat_O0::meson_venc_hdmi_venc_repeat(60)"
+  }
+]

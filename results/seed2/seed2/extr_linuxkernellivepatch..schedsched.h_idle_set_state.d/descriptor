@@ -1,0 +1,3 @@
+struct rq | dummy int 
+struct cpuidle_state | dummy int 
+function idle_set_state void | rq struct rq * | idle_state struct cpuidle_state *

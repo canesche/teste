@@ -1,0 +1,6 @@
+struct thread_struct | debugreg6 unsigned long | ptrace_dr7 unsigned long | ptrace_bps struct perf_event ** 
+struct task_struct | thread struct thread_struct 
+struct TYPE_3__ | address unsigned long 
+struct TYPE_4__ | info struct TYPE_3__ 
+struct perf_event | hw struct TYPE_4__ 
+function ptrace_get_debugreg unsigned long | tsk struct task_struct * | n int

@@ -1,0 +1,3 @@
+struct xmit_priv | dummy int 
+struct TYPE_3__ | xmitpriv struct xmit_priv 
+function rtl8192cu_init_xmit_priv int | padapter struct TYPE_3__ *

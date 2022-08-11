@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxnetipv4netfilterip_tables.c_icmp_type_code_match.d/extr_linuxnetipv4netfilterip_tables.c_icmp_type_code_match_O0::icmp_type_code_match(64)"
+  }
+]

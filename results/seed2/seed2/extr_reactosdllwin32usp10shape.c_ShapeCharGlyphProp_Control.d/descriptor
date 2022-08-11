@@ -1,0 +1,5 @@
+struct TYPE_8__ | fClusterStart int | fZeroWidth int | uJustification int | fDiacritic long 
+struct TYPE_10__ | sva struct TYPE_8__ 
+struct TYPE_7__ | wgDefault const long 
+struct TYPE_9__ | sfp struct TYPE_7__ 
+function ShapeCharGlyphProp_Control void | hdc int | psc struct TYPE_9__ * | psa int * | pwcChars const int * | cChars const int | pwGlyphs const long * | cGlyphs const int | pwLogClust long * | pCharProp int * | pGlyphProp struct TYPE_10__ *

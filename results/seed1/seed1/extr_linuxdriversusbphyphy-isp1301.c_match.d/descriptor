@@ -1,0 +1,4 @@
+struct device_node | dummy int 
+struct device | driver int * | of_node struct device_node * 
+struct TYPE_2__ | driver int 
+function match int | dev struct device * | data void *

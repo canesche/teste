@@ -1,0 +1,2 @@
+struct TYPE_3__ | size long | depth long | indexes int * 
+function BN_STACK_init void | st struct TYPE_3__ *

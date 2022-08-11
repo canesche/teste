@@ -1,0 +1,2 @@
+struct adapter | dummy int 
+function CheckFwRsvdPageContent void | Adapter struct adapter *

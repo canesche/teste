@@ -1,0 +1,5 @@
+struct rocker_port | wpriv struct ofdpa_port * 
+struct ofdpa_port | dummy int 
+struct ofdpa | rocker struct TYPE_2__ * 
+struct TYPE_2__ | ports struct rocker_port ** 
+function ofdpa_port_get struct ofdpa_port * | ofdpa const struct ofdpa * | port_index int

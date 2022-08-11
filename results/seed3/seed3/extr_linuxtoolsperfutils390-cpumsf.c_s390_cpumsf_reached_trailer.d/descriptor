@@ -1,0 +1,2 @@
+struct hws_trailer_entry | dummy int 
+function s390_cpumsf_reached_trailer int | entry_sz unsigned long | pos unsigned long

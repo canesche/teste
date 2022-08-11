@@ -1,4 +1,0 @@
-struct brcms_c_info | bandstate struct brcms_band ** | pub struct TYPE_2__ * 
-struct brcms_band | bandtype long | mimo_cap_40 int 
-struct TYPE_2__ | _nbands unsigned long 
-function brcms_c_update_mimo_band_bwcap void | wlc struct brcms_c_info * | bwcap long

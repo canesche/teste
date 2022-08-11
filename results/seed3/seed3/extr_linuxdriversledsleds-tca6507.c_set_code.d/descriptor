@@ -1,0 +1,2 @@
+struct tca6507_chip | reg_file int * | reg_set int 
+function set_code void | tca struct tca6507_chip * | reg int | bank int | new int

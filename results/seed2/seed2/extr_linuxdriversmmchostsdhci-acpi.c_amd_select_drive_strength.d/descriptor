@@ -1,0 +1,2 @@
+struct mmc_card | dummy int 
+function amd_select_drive_strength int | card struct mmc_card * | max_dtr unsigned int | host_drv int | card_drv int | drv_type int *

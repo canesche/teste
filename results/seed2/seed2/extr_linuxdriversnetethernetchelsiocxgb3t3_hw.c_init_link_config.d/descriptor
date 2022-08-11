@@ -1,0 +1,2 @@
+struct link_config | supported unsigned int | requested_fc int | fc int | advertising int | autoneg int | duplex int | requested_duplex int | speed int | requested_speed int 
+function init_link_config void | lc struct link_config * | caps unsigned int

@@ -1,0 +1,3 @@
+struct mapped_device | disk struct gendisk * 
+struct gendisk | dummy int 
+function dm_disk struct gendisk * | md struct mapped_device *

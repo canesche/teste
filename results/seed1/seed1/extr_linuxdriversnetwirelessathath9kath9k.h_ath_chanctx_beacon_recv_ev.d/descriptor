@@ -1,0 +1,2 @@
+struct ath_softc | dummy int 
+function ath_chanctx_beacon_recv_ev void | sc struct ath_softc * | ev enum ath_chanctx_event

@@ -1,2 +1,0 @@
-struct comedi_device | iobase unsigned long 
-function pcmuio_asic_iobase unsigned long | dev struct comedi_device * | asic int

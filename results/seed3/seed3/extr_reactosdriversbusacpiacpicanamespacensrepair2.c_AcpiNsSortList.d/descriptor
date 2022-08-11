@@ -1,0 +1,4 @@
+struct TYPE_6__ | Value long 
+struct TYPE_5__ | Elements struct TYPE_7__ ** 
+struct TYPE_7__ | Integer struct TYPE_6__ | Package struct TYPE_5__ 
+function AcpiNsSortList void | Elements struct TYPE_7__ ** | Count int | Index int | SortDirection long

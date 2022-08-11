@@ -1,0 +1,8 @@
+struct pp_hwmgr | pstate_mclk int | pstate_sclk int | pptable long 
+struct phm_ppt_v2_information | vdd_dep_on_mclk struct TYPE_10__ * | vdd_dep_on_socclk struct TYPE_9__ * | vdd_dep_on_sclk struct TYPE_8__ * 
+struct TYPE_10__ | count unsigned long | entries struct TYPE_7__ * 
+struct TYPE_9__ | count long 
+struct TYPE_8__ | count unsigned long | entries struct TYPE_6__ * 
+struct TYPE_7__ | clk int 
+struct TYPE_6__ | clk int 
+function vega10_get_profiling_clk_mask int | hwmgr struct pp_hwmgr * | level enum amd_dpm_forced_level | sclk_mask unsigned long * | mclk_mask unsigned long * | soc_mask unsigned long *

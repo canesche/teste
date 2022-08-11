@@ -1,0 +1,7 @@
+struct TYPE_9__ | len int | data long 
+struct TYPE_11__ | send struct TYPE_9__ 
+struct TYPE_12__ | conf struct TYPE_11__ * | check_data struct TYPE_13__ * 
+struct TYPE_10__ | last int * | end int | pos int * | start int 
+struct TYPE_8__ | start int * | last int * | end int * | pos int * 
+struct TYPE_13__ | recv struct TYPE_10__ | send struct TYPE_8__ 
+function ngx_http_upstream_check_ajp_init int | peer struct TYPE_12__ *

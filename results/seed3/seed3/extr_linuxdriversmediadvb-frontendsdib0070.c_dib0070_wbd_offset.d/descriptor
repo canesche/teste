@@ -1,0 +1,6 @@
+struct TYPE_4__ | frequency int 
+struct dvb_frontend | dtv_property_cache struct TYPE_4__ | tuner_priv struct dib0070_state * 
+struct dib0070_wbd_gain_cfg | freq int | wbd_gain_val int 
+struct dib0070_state | wbd_gain_current int | wbd_offset_3_3 int * | cfg struct TYPE_3__ * 
+struct TYPE_3__ | wbd_gain struct dib0070_wbd_gain_cfg * 
+function dib0070_wbd_offset int | fe struct dvb_frontend *

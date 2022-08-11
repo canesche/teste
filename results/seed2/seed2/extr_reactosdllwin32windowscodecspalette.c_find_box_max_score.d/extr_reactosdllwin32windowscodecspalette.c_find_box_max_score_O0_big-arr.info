@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 8,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5366,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_reactosdllwin32windowscodecspalette.c_find_box_max_score.d/extr_reactosdllwin32windowscodecspalette.c_find_box_max_score_O0::find_box_max_score(61)"
+  }
+]

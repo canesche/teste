@@ -1,0 +1,4 @@
+struct TYPE_3__ | use_cts_prot int | use_short_preamble int | use_short_slot int 
+struct TYPE_4__ | bss_conf struct TYPE_3__ 
+struct ieee80211_sub_if_data | vif struct TYPE_4__ 
+function ieee80211_reset_erp_info int | sdata struct ieee80211_sub_if_data *

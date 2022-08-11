@@ -1,0 +1,6 @@
+struct stm32_pinctrl | match_data struct TYPE_3__ * 
+struct TYPE_4__ | number long 
+struct stm32_desc_pin | pin struct TYPE_4__ | functions struct stm32_desc_function * 
+struct stm32_desc_function | num long | name long 
+struct TYPE_3__ | npins int | pins struct stm32_desc_pin * 
+function stm32_pctrl_is_function_valid int | pctl struct stm32_pinctrl * | pin_num long | fnum long

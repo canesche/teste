@@ -1,2 +1,0 @@
-struct mg_connection | dummy int 
-function mg_null_if_sock_set void | c struct mg_connection * | sock int

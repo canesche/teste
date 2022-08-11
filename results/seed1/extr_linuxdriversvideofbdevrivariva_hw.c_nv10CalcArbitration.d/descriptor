@@ -1,3 +1,0 @@
-struct TYPE_5__ | pclk_khz int | mclk_khz int | nvclk_khz int | mem_page_miss int | mem_latency int | memory_width int | enable_video int | gr_during_vid int | pix_bpp int | mem_aligned int | enable_mp int | memory_type long 
-struct TYPE_6__ | valid int | graphics_lwm int | graphics_burst_size int | video_lwm int | video_burst_size int 
-function nv10CalcArbitration void | fifo struct TYPE_6__ * | arb struct TYPE_5__ *

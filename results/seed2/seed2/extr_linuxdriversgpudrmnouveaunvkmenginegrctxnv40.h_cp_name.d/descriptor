@@ -1,0 +1,2 @@
+struct nvkm_grctx | ucode int * | mode long | ctxprog_label int * | ctxprog_len int 
+function cp_name void | ctx struct nvkm_grctx * | name int

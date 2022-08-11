@@ -1,2 +1,0 @@
-struct pci_bus | dummy int 
-function ia64_pci_get_legacy_mem char * | bus struct pci_bus *

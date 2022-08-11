@@ -1,0 +1,2 @@
+struct window_data | evicted long | dirty long | age long 
+function window_sum void | wd struct window_data * | w struct window_data * | size int

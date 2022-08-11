@@ -1,0 +1,3 @@
+struct sockopt | dummy int 
+struct socket | dummy int 
+function pru_socheckopt_null int | so struct socket * | sopt struct sockopt *

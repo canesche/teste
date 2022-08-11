@@ -1,0 +1,1 @@
+function memihash_cont unsigned int | hash_seed unsigned int | buf const void * | len unsigned long

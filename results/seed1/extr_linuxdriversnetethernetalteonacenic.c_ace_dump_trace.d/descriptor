@@ -1,2 +1,0 @@
-struct ace_private | dummy int 
-function ace_dump_trace void | ap struct ace_private *

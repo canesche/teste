@@ -1,0 +1,2 @@
+struct devlog_info | nentries long 
+function devlog_get_idx void * | dinfo struct devlog_info * | pos long

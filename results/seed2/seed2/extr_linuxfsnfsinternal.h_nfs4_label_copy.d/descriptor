@@ -1,0 +1,2 @@
+struct nfs4_label | dummy int 
+function nfs4_label_copy struct nfs4_label * | dst struct nfs4_label * | src struct nfs4_label *

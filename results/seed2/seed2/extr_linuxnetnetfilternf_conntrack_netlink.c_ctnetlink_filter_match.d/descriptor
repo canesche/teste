@@ -1,0 +1,3 @@
+struct nf_conn | dummy int 
+struct ctnetlink_filter | dummy int 
+function ctnetlink_filter_match int | ct struct nf_conn * | data void *

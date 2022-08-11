@@ -1,0 +1,1 @@
+function memwritereg void | adr unsigned long | off int | data int

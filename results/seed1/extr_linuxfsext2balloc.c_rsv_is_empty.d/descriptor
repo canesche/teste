@@ -1,2 +1,0 @@
-struct ext2_reserve_window | _rsv_end long 
-function rsv_is_empty int | rsv struct ext2_reserve_window *

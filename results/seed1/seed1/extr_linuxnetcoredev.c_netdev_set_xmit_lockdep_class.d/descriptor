@@ -1,0 +1,1 @@
+function netdev_set_xmit_lockdep_class void | lock int * | dev_type unsigned short

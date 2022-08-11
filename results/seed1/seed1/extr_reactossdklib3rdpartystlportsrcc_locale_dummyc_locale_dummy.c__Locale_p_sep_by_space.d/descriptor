@@ -1,0 +1,2 @@
+struct _Locale_monetary | dummy int 
+function _Locale_p_sep_by_space int | lmon struct _Locale_monetary *

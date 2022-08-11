@@ -1,0 +1,2 @@
+struct scif_endpt | dummy int 
+function scif_rma_tc_can_cache int | ep struct scif_endpt * | cur_bytes unsigned long

@@ -1,0 +1,1 @@
+value(crc32_length) == 10, value(crc32_seed) == 10, value(complement) == 10, length(crc32_packet) == 100

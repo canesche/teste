@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetwirelessrndis_wlan.c_rndis_akm_suite_to_key_mgmt.d/extr_linuxdriversnetwirelessrndis_wlan.c_rndis_akm_suite_to_key_mgmt_O0::rndis_akm_suite_to_key_mgmt(66)"
+  }
+]

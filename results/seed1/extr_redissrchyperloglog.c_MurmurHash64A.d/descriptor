@@ -1,1 +1,0 @@
-function MurmurHash64A int | key const void * | len int | seed unsigned int

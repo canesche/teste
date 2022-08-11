@@ -1,2 +1,0 @@
-struct TYPE_3__ | notify int 
-function sqliterkBtreeSetNotify void | btree struct TYPE_3__ * | notify int *

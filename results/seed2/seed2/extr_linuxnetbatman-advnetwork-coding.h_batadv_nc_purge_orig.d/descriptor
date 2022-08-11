@@ -1,0 +1,3 @@
+struct batadv_priv | dummy int 
+struct batadv_orig_node | dummy int 
+function batadv_nc_purge_orig void | bat_priv struct batadv_priv * | orig_node struct batadv_orig_node * | to_purge int (*)(struct batadv_priv *, struct batadv_nc_node *)

@@ -1,0 +1,1 @@
+function tcpci_to_typec_cc enum typec_cc_status | cc unsigned int | sink int

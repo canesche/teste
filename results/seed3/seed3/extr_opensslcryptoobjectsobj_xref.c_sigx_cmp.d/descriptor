@@ -1,0 +1,2 @@
+struct TYPE_4__ | hash_id int | pkey_id int 
+function sigx_cmp int | a const struct TYPE_4__ *const * | b const struct TYPE_4__ *const *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | overlay_caps int * 
+function dss_feat_get_overlay_caps enum omap_overlay_caps | plane enum omap_plane

@@ -1,3 +1,0 @@
-struct scsi_ctrl_blk | next struct scsi_ctrl_blk * 
-struct initio_host | last_done int * | first_done struct scsi_ctrl_blk * 
-function initio_find_done_scb struct scsi_ctrl_blk * | host struct initio_host *

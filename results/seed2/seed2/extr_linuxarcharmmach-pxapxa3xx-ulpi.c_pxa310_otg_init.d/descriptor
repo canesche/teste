@@ -1,0 +1,2 @@
+struct pxa3xx_u2d_platform_data | dummy int 
+function pxa310_otg_init int | pdata struct pxa3xx_u2d_platform_data *

@@ -1,3 +1,0 @@
-struct TYPE_5__ | num_chats unsigned int | chats struct TYPE_4__ * 
-struct TYPE_4__ | status long 
-function groupnumber_not_valid int | g_c const struct TYPE_5__ * | groupnumber int

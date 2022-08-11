@@ -1,0 +1,6 @@
+struct TYPE_6__ | ivor int * 
+struct kvm_vcpu | arch struct TYPE_6__ 
+struct TYPE_4__ | ivor_low int * | features int 
+struct TYPE_5__ | e struct TYPE_4__ 
+struct kvm_sregs | u struct TYPE_5__ 
+function kvmppc_get_sregs_ivor int | vcpu struct kvm_vcpu * | sregs struct kvm_sregs *

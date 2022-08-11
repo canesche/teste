@@ -1,0 +1,3 @@
+struct tty_struct | driver_data struct hvc_struct * 
+struct hvc_struct | n_outbuf int 
+function hvc_chars_in_buffer int | tty struct tty_struct *

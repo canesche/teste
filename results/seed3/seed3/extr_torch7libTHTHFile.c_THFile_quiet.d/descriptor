@@ -1,0 +1,2 @@
+struct TYPE_3__ | isQuiet int 
+function THFile_quiet void | self struct TYPE_3__ *

@@ -1,0 +1,1 @@
+function btrfs_bg_flags_to_raid_index enum btrfs_raid_types | flags int

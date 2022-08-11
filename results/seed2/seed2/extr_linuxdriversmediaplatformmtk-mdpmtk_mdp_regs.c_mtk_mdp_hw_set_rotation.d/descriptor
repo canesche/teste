@@ -1,0 +1,9 @@
+struct TYPE_11__ | vflip struct TYPE_7__ * | hflip struct TYPE_12__ * | rotate struct TYPE_10__ * 
+struct TYPE_9__ | vsi struct TYPE_8__ * 
+struct mtk_mdp_ctx | ctrls struct TYPE_11__ | vpu struct TYPE_9__ 
+struct mdp_config_misc | vflip int | hflip int | orientation int 
+struct TYPE_12__ | val int 
+struct TYPE_10__ | val int 
+struct TYPE_8__ | misc struct mdp_config_misc 
+struct TYPE_7__ | val int 
+function mtk_mdp_hw_set_rotation void | ctx struct mtk_mdp_ctx *

@@ -1,0 +1,2 @@
+struct net_device | ifindex int 
+function neigh_ifindex_filtered int | dev struct net_device * | filter_idx int

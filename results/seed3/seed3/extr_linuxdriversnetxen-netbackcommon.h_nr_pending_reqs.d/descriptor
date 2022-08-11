@@ -1,0 +1,2 @@
+struct xenvif_queue | pending_cons long | pending_prod long 
+function nr_pending_reqs long | queue struct xenvif_queue *

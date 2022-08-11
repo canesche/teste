@@ -1,2 +1,0 @@
-struct amdgpu_device | dummy int 
-function amdgpu_get_pcie_lane_support int | adev struct amdgpu_device * | asic_lanes int | default_lanes int

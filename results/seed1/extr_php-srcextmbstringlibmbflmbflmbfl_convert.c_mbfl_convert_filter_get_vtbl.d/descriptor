@@ -1,3 +1,0 @@
-struct mbfl_convert_vtbl | from long | to long 
-struct TYPE_6__ | no_encoding long | output_filter const struct mbfl_convert_vtbl * | input_filter const struct mbfl_convert_vtbl * 
-function mbfl_convert_filter_get_vtbl const struct mbfl_convert_vtbl * | from const struct TYPE_6__ * | to const struct TYPE_6__ *

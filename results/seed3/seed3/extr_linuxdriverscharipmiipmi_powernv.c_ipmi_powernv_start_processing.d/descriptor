@@ -1,0 +1,2 @@
+struct ipmi_smi_powernv | intf int 
+function ipmi_powernv_start_processing int | send_info void * | intf int

@@ -1,2 +1,0 @@
-struct extended_attribute | namelen int 
-function ea_data char * | ea struct extended_attribute *

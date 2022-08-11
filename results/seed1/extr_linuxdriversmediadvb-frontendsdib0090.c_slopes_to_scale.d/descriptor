@@ -1,2 +1,0 @@
-struct slope | range int | slope int 
-function slopes_to_scale int | slopes const struct slope * | num unsigned long | val int

@@ -1,2 +1,0 @@
-struct TYPE_3__ | score int | reached int | called int | type int | fail void * | jump void * | end void * | start void * 
-function initBB void | bb struct TYPE_3__ * | start void * | end void * | jump void * | fail void * | type int | score int | reached int | called int

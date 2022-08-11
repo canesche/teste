@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 14,
+    phantoms: 8,
+    exit: true,
+    halt: false,
+    edges: 25,
+    static: {
+      instructions: 114,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 143720,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversvideofbdevacornfb.c_acornfb_adjust_timing.d/extr_linuxdriversvideofbdevacornfb.c_acornfb_adjust_timing_O0::acornfb_adjust_timing(72)"
+  }
+]

@@ -1,0 +1,2 @@
+struct page | dummy int 
+function btrfs_readpage_io_failed_hook int | page struct page * | failed_mirror int

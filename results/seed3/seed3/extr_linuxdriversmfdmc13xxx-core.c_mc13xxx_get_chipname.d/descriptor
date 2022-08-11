@@ -1,0 +1,3 @@
+struct mc13xxx | variant struct TYPE_2__ * 
+struct TYPE_2__ | name const char * 
+function mc13xxx_get_chipname const char * | mc13xxx struct mc13xxx *

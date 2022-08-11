@@ -1,0 +1,2 @@
+struct TYPE_3__ | xkey unsigned int * 
+function rc2_ecb_decrypt void | cipher const unsigned char * | plain unsigned char * | rc2 struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct cmd_desc | dummy int 
+function typhoon_num_free int | lastWrite int | lastRead int | ringSize int

@@ -1,0 +1,2 @@
+struct utmpx | dummy int 
+function updwtmpx void | f const char * | u const struct utmpx *

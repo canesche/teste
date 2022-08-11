@@ -1,0 +1,3 @@
+struct rx_desc_819x_usb | dummy int 
+struct ieee80211_rx_stats | RxBufShift long | RxDrvInfoSize long 
+function get_rxpacket_shiftbytes_819xusb long | pstats struct ieee80211_rx_stats *

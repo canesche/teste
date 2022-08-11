@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 18,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 29,
+    static: {
+      instructions: 69,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 80,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_darwin-xnubsdnetinet6in6.c_in6_mask2len.d/extr_darwin-xnubsdnetinet6in6.c_in6_mask2len_O0::in6_mask2len(63)"
+  }
+]

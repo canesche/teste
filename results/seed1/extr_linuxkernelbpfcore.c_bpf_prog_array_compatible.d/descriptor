@@ -1,3 +1,0 @@
-struct bpf_prog | type long | jited long | kprobe_override long 
-struct bpf_array | owner_prog_type long | owner_jited long 
-function bpf_prog_array_compatible int | array struct bpf_array * | fp const struct bpf_prog *

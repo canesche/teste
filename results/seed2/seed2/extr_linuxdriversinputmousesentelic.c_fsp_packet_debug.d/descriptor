@@ -1,0 +1,2 @@
+struct psmouse | dummy int 
+function fsp_packet_debug void | psmouse struct psmouse * | packet unsigned char []

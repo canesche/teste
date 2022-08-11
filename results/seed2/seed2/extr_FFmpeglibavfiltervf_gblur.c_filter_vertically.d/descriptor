@@ -1,0 +1,4 @@
+struct TYPE_5__ | height int | width int 
+struct TYPE_7__ | priv struct TYPE_6__ * 
+struct TYPE_6__ | boundaryscaleV float | steps int | nuV float | buffer float * 
+function filter_vertically int | ctx struct TYPE_7__ * | arg void * | jobnr int | nb_jobs int

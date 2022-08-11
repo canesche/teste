@@ -1,0 +1,3 @@
+struct threads | last_match struct thread * 
+struct thread | dummy int 
+function __threads__set_last_match void | threads struct threads * | th struct thread *

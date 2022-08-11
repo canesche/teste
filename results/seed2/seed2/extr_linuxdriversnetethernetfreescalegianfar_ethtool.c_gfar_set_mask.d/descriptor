@@ -1,0 +1,3 @@
+struct filer_table | index unsigned long | fe struct TYPE_2__ * 
+struct TYPE_2__ | ctrl int | prop int 
+function gfar_set_mask void | mask int | tab struct filer_table *

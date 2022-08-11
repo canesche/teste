@@ -1,0 +1,4 @@
+struct sprd_pinctrl_soc_info | npins int | pins struct sprd_pin * 
+struct sprd_pinctrl | info struct sprd_pinctrl_soc_info * 
+struct sprd_pin | number unsigned int 
+function sprd_pinctrl_get_pin_by_id struct sprd_pin * | sprd_pctl struct sprd_pinctrl * | id unsigned int

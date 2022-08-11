@@ -1,0 +1,2 @@
+struct netns_ipvs | dummy int 
+function sysctl_nat_icmp_send int | ipvs struct netns_ipvs *

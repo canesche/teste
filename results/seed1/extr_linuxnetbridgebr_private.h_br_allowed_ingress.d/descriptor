@@ -1,4 +1,0 @@
-struct sk_buff | dummy int 
-struct net_bridge_vlan_group | dummy int 
-struct net_bridge | dummy int 
-function br_allowed_ingress int | br const struct net_bridge * | vg struct net_bridge_vlan_group * | skb struct sk_buff * | vid int *

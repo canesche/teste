@@ -1,0 +1,5 @@
+struct usb_interface | dummy int 
+struct usb_driver | dummy int 
+struct snd_usb_audio_quirk | dummy int 
+struct snd_usb_audio | dummy int 
+function ignore_interface_quirk int | chip struct snd_usb_audio * | iface struct usb_interface * | driver struct usb_driver * | quirk const struct snd_usb_audio_quirk *

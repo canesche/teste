@@ -1,4 +1,0 @@
-struct TYPE_6__ | i_value int 
-struct TYPE_5__ | print struct TYPE_4__ * 
-struct TYPE_4__ | datezone int 
-function cb_timezone int | user void * | data void *

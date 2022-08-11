@@ -1,0 +1,3 @@
+struct compstat | bytes_out int | in_count int | inc_packets int | inc_bytes int | comp_packets int | comp_bytes int | unc_packets int | unc_bytes int 
+struct bsd_db | bytes_out int | in_count int | incomp_count int | incomp_bytes int | comp_count int | comp_bytes int | uncomp_count int | uncomp_bytes int 
+function bsd_comp_stats void | state void * | stats struct compstat *

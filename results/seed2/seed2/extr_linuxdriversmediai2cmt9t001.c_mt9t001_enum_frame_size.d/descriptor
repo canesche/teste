@@ -1,0 +1,4 @@
+struct v4l2_subdev_pad_config | dummy int 
+struct v4l2_subdev_frame_size_enum | index int | code long | min_width int | max_width int | min_height int | max_height int 
+struct v4l2_subdev | dummy int 
+function mt9t001_enum_frame_size int | subdev struct v4l2_subdev * | cfg struct v4l2_subdev_pad_config * | fse struct v4l2_subdev_frame_size_enum *

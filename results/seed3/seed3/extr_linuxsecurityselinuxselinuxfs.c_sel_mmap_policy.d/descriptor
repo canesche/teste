@@ -1,0 +1,3 @@
+struct vm_area_struct | vm_flags int | vm_ops int * 
+struct file | dummy int 
+function sel_mmap_policy int | filp struct file * | vma struct vm_area_struct *

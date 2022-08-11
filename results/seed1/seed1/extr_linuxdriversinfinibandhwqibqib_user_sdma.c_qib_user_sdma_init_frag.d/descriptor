@@ -1,0 +1,4 @@
+struct qib_user_sdma_pkt | addr struct TYPE_2__ * 
+struct page | dummy int 
+struct TYPE_2__ | dma_length void * | addr int | kvaddr void * | page struct page * | dma_mapped void * | put_page void * | last_desc void * | first_desc void * | length void * | offset void * 
+function qib_user_sdma_init_frag void | pkt struct qib_user_sdma_pkt * | i int | offset void * | len void * | first_desc void * | last_desc void * | put_page void * | dma_mapped void * | page struct page * | kvaddr void * | dma_addr int | dma_length void *

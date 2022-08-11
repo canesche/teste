@@ -1,0 +1,1 @@
+function acpi_unregister_ioapic int | handle int | gsi_base int

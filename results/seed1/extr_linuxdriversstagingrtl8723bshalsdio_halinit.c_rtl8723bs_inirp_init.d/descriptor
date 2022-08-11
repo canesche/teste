@@ -1,2 +1,0 @@
-struct adapter | dummy int 
-function rtl8723bs_inirp_init int | padapter struct adapter *

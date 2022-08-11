@@ -1,0 +1,2 @@
+struct sha512 | h int * | len long 
+function sha512_init void | s struct sha512 *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | dst_port void * | src_port void * | bigger_ack_num long | seq_num void * 
+function add_tcp_session int | src_prt void * | dst_prt void * | seq void *

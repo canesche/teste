@@ -1,0 +1,2 @@
+struct at91_adc_state | current_sample_rate int 
+function at91_adc_get_sample_freq unsigned int | st struct at91_adc_state *

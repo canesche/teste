@@ -1,0 +1,3 @@
+struct proto | val int | code int 
+struct TYPE_3__ | State int | Width int | Param int 
+function FillTable void | T struct TYPE_3__ * | Size int | P struct proto * | State int

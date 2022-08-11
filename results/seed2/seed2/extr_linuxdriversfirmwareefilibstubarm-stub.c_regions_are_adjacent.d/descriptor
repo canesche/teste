@@ -1,0 +1,2 @@
+struct TYPE_4__ | phys_addr long | num_pages int 
+function regions_are_adjacent int | left struct TYPE_4__ * | right struct TYPE_4__ *

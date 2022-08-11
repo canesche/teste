@@ -1,0 +1,3 @@
+struct rv6xx_sclk_stepping | vco_frequency int | post_divider int 
+struct radeon_device | dummy int 
+function rv6xx_next_vco_step struct rv6xx_sclk_stepping | rdev struct radeon_device * | cur struct rv6xx_sclk_stepping * | increasing_vco int | step_size int

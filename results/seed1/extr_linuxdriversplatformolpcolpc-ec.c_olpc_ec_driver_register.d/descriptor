@@ -1,2 +1,0 @@
-struct olpc_ec_driver | dummy int 
-function olpc_ec_driver_register void | drv struct olpc_ec_driver * | arg void *

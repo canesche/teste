@@ -1,0 +1,2 @@
+struct drm_encoder | dummy int 
+function udl_encoder_prepare void | encoder struct drm_encoder *

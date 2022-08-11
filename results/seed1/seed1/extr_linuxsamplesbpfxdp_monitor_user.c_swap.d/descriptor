@@ -1,0 +1,2 @@
+struct stats_record | dummy int 
+function swap void | a struct stats_record ** | b struct stats_record **

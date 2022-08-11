@@ -1,0 +1,2 @@
+struct sfp_bus | netdev int * | upstream int * | upstream_ops int * 
+function sfp_upstream_clear void | bus struct sfp_bus *

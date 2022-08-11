@@ -1,0 +1,2 @@
+struct au1550_spi | irq_callback int * | txrx_bufs int * | tx_word int * | rx_word int * | usedma long 
+function au1550_spi_bits_handlers_set void | hw struct au1550_spi * | bpw int

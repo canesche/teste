@@ -1,3 +1,0 @@
-struct TYPE_5__ | coalition struct TYPE_4__ ** 
-struct TYPE_4__ | id long 
-function task_coalition_ids void | task struct TYPE_5__ * | ids long [COALITION_NUM_TYPES]

@@ -1,2 +1,0 @@
-struct TYPE_4__ | pll_obj int * | pll_next struct TYPE_4__ * | pll_prev struct TYPE_4__ * 
-function pyll_add void | self int * | ref struct TYPE_4__ * | last struct TYPE_4__ **

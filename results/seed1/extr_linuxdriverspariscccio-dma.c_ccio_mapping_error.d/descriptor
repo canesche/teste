@@ -1,2 +1,0 @@
-struct device | dummy int 
-function ccio_mapping_error int | dev struct device * | dma_addr long

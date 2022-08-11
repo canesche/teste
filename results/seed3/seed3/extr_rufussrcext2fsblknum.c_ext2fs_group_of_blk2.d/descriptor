@@ -1,0 +1,3 @@
+struct TYPE_5__ | super struct TYPE_4__ * 
+struct TYPE_4__ | s_first_data_block int | s_blocks_per_group int 
+function ext2fs_group_of_blk2 int | fs struct TYPE_5__ * | blk int

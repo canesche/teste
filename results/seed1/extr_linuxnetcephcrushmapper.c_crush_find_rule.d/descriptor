@@ -1,4 +1,0 @@
-struct crush_map | max_rules unsigned long | rules struct TYPE_4__ ** 
-struct TYPE_3__ | ruleset int | type int | min_size int | max_size int 
-struct TYPE_4__ | mask struct TYPE_3__ 
-function crush_find_rule int | map const struct crush_map * | ruleset int | type int | size int

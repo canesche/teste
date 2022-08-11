@@ -1,0 +1,4 @@
+struct morus640_state | s struct TYPE_2__ * 
+struct morus640_block | words int * 
+struct TYPE_2__ | words int * 
+function crypto_morus640_core void | state const struct morus640_state * | blk struct morus640_block *

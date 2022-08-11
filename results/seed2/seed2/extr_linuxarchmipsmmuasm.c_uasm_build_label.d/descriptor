@@ -1,0 +1,2 @@
+struct uasm_label | lab int | addr int * 
+function uasm_build_label void | lab struct uasm_label ** | addr int * | lid int

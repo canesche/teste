@@ -1,0 +1,3 @@
+struct output | dummy int 
+struct host1x | dummy int 
+function host1x_debug_show_mlocks void | host struct host1x * | o struct output *

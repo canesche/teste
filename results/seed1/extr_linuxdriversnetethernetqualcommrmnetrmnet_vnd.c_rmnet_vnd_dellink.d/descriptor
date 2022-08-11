@@ -1,3 +1,0 @@
-struct rmnet_port | nr_rmnet_devs int 
-struct rmnet_endpoint | egress_dev int * 
-function rmnet_vnd_dellink int | id long | port struct rmnet_port * | ep struct rmnet_endpoint *

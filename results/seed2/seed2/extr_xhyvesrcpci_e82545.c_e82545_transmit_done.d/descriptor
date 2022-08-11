@@ -1,0 +1,6 @@
+struct TYPE_5__ | data int 
+struct TYPE_4__ | data int 
+struct TYPE_6__ | upper struct TYPE_5__ | lower struct TYPE_4__ 
+struct e1000_tx_udesc | td struct TYPE_6__ 
+struct e82545_softc | esc_txdesc union e1000_tx_udesc * 
+function e82545_transmit_done void | sc struct e82545_softc * | head int | tail int | dsize int | tdwb int *

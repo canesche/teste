@@ -1,0 +1,4 @@
+struct unpack_trees_options | cache_bottom int | src_index struct index_state * 
+struct index_state | cache_nr int | cache struct cache_entry ** 
+struct cache_entry | ce_flags int 
+function next_cache_entry struct cache_entry * | o struct unpack_trees_options *

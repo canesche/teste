@@ -1,0 +1,3 @@
+struct vnet_port | q_index int | vp struct vnet * 
+struct vnet | q_used long * | nports int 
+function sunvnet_port_add_txq_common void | port struct vnet_port *

@@ -1,4 +1,0 @@
-struct sigmatel_spec | eapd_switch long 
-struct hda_fixup | dummy int 
-struct hda_codec | spec struct sigmatel_spec * 
-function stac9205_fixup_eapd void | codec struct hda_codec * | fix const struct hda_fixup * | action int

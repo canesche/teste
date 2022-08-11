@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function gpiochip_irqchip_init_valid_mask int | gpiochip struct gpio_chip *

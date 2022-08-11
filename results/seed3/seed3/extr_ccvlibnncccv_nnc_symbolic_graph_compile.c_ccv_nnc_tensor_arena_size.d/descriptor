@@ -1,0 +1,3 @@
+struct TYPE_5__ | buffer_size int | buffers struct TYPE_4__ * 
+struct TYPE_4__ | size long 
+function ccv_nnc_tensor_arena_size int | tensor_arena const struct TYPE_5__ *const

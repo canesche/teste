@@ -1,0 +1,4 @@
+struct qed_hwfn | p_cxt_mngr struct TYPE_4__ * 
+struct TYPE_4__ | conn_cfg struct TYPE_3__ * 
+struct TYPE_3__ | cid_count int | cids_per_vf int 
+function qed_cxt_get_proto_cid_count int | p_hwfn struct qed_hwfn * | type enum protocol_type | vf_cid int *

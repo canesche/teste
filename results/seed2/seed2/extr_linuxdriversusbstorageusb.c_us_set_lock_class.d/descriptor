@@ -1,0 +1,3 @@
+struct usb_interface | dummy int 
+struct mutex | dummy int 
+function us_set_lock_class void | mutex struct mutex * | intf struct usb_interface *

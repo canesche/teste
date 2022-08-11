@@ -1,0 +1,6 @@
+struct stv0299_state | config struct TYPE_2__ * 
+struct dvb_frontend_tune_settings | step_size int | max_drift int | min_delay_ms int 
+struct dtv_frontend_properties | symbol_rate int 
+struct dvb_frontend | dtv_property_cache struct dtv_frontend_properties | demodulator_priv struct stv0299_state * 
+struct TYPE_2__ | min_delay_ms int 
+function stv0299_get_tune_settings int | fe struct dvb_frontend * | fesettings struct dvb_frontend_tune_settings *

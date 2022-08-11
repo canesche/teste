@@ -1,2 +1,0 @@
-struct sock | dummy int 
-function dn_enter_memory_pressure void | sk struct sock *

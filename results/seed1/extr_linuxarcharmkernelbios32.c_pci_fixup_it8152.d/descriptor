@@ -1,3 +1,0 @@
-struct pci_dev | class int | resource struct TYPE_2__ * 
-struct TYPE_2__ | flags long | end long | start long 
-function pci_fixup_it8152 void | dev struct pci_dev *

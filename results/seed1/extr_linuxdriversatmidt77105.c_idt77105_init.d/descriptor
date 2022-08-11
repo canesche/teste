@@ -1,2 +1,0 @@
-struct atm_dev | phy int * 
-function idt77105_init int | dev struct atm_dev *

@@ -1,0 +1,3 @@
+struct TYPE_3__ | confSize unsigned long | confBuf int * 
+struct TYPE_4__ | info struct TYPE_3__ 
+function libfdk_extra_data int | data void * | extra_data int ** | size unsigned long *

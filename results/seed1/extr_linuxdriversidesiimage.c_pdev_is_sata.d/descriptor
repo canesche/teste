@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function pdev_is_sata int | pdev struct pci_dev *

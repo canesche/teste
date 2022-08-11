@@ -1,0 +1,3 @@
+struct TYPE_2__ | id long 
+struct md_node_info | ds_port struct TYPE_2__ 
+function ds_port_node_match int | a_node_info union md_node_info * | b_node_info union md_node_info *

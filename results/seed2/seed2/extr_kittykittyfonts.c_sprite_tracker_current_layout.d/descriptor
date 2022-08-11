@@ -1,0 +1,3 @@
+struct TYPE_3__ | xnum unsigned int | ynum unsigned int | z unsigned int 
+struct TYPE_4__ | sprite_tracker struct TYPE_3__ 
+function sprite_tracker_current_layout void | data long | x unsigned int * | y unsigned int * | z unsigned int *

@@ -1,0 +1,4 @@
+struct TYPE_4__ | sack_episodes int | rst_drop int | rxmit_drop int 
+struct TYPE_3__ | sack_episodes int | rst_drop int | rxmit_drop int 
+struct if_tcp_ecn_stat | ecn_client_success int | ecn_server_success int | ecn_off_conn int | ecn_client_setup int | ecn_server_setup int | ecn_total_conn int | ecn_off struct TYPE_4__ | ecn_on struct TYPE_3__ 
+function nstat_ifnet_normalize_counter void | if_st struct if_tcp_ecn_stat *

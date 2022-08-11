@@ -1,3 +1,0 @@
-struct bdisp_frame | field int | fmt struct TYPE_2__ * 
-struct TYPE_2__ | pixelformat int 
-function bdisp_fmt_to_str const char * | frame struct bdisp_frame

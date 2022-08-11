@@ -1,2 +1,0 @@
-struct qmi_elem_info | tlv_type long 
-function skip_to_next_elem struct qmi_elem_info * | ei_array struct qmi_elem_info * | level int

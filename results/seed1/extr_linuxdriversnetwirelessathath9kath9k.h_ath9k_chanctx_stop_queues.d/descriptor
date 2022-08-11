@@ -1,3 +1,0 @@
-struct ath_softc | dummy int 
-struct ath_chanctx | dummy int 
-function ath9k_chanctx_stop_queues void | sc struct ath_softc * | ctx struct ath_chanctx *

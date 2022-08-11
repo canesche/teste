@@ -1,0 +1,3 @@
+struct mlx5_accel_esp_xfrm_attrs | dummy int 
+struct mlx5_accel_esp_xfrm | dummy int 
+function mlx5_fpga_esp_modify_xfrm int | xfrm struct mlx5_accel_esp_xfrm * | attrs const struct mlx5_accel_esp_xfrm_attrs *

@@ -1,2 +1,0 @@
-struct pqi_scsi_dev | in_reset int 
-function pqi_device_reset_done void | device struct pqi_scsi_dev *

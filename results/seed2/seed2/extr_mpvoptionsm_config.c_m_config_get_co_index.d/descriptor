@@ -1,0 +1,3 @@
+struct m_config_option | dummy int 
+struct m_config | opts struct m_config_option * 
+function m_config_get_co_index struct m_config_option * | config struct m_config * | index int

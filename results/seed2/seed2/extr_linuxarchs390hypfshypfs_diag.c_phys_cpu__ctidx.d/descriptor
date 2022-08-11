@@ -1,0 +1,3 @@
+struct diag204_x_phys_cpu | ctidx int 
+struct diag204_phys_cpu | ctidx int 
+function phys_cpu__ctidx int | type enum diag204_format | hdr void *

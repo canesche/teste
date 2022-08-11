@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmmchostsdhci-of-esdhc.c_esdhc_writeb_fixup.d/extr_linuxdriversmmchostsdhci-of-esdhc.c_esdhc_writeb_fixup_O0::esdhc_writeb_fixup(69)"
+  }
+]

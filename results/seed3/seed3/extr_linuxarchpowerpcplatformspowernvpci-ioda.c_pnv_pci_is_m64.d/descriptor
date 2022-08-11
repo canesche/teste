@@ -1,0 +1,4 @@
+struct resource | start long 
+struct TYPE_2__ | m64_base long | m64_size long 
+struct pnv_phb | ioda struct TYPE_2__ 
+function pnv_pci_is_m64 int | phb struct pnv_phb * | r struct resource *

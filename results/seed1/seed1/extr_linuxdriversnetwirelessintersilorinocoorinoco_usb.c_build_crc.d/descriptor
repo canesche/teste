@@ -1,0 +1,2 @@
+struct ezusb_packet | dummy int 
+function build_crc int | data struct ezusb_packet *

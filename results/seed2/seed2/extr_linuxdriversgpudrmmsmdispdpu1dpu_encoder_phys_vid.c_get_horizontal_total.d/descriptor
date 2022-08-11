@@ -1,0 +1,2 @@
+struct intf_timing_params | hsync_pulse_width long | h_front_porch long | h_back_porch long | xres long 
+function get_horizontal_total long | timing const struct intf_timing_params *

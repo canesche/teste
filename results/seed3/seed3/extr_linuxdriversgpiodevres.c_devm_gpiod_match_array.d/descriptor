@@ -1,0 +1,3 @@
+struct gpio_descs | dummy int 
+struct device | dummy int 
+function devm_gpiod_match_array int | dev struct device * | res void * | data void *

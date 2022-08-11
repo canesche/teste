@@ -1,2 +1,0 @@
-struct smscore_device_t | led_state int 
-function smscore_led_state int | core struct smscore_device_t * | led int

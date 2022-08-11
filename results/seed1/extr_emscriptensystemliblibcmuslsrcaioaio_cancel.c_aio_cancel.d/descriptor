@@ -1,2 +1,0 @@
-struct aiocb | __err long 
-function aio_cancel int | fd int | cb struct aiocb *

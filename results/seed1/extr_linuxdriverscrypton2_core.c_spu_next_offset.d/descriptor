@@ -1,2 +1,0 @@
-struct spu_queue | q_type long 
-function spu_next_offset unsigned long | q struct spu_queue * | off unsigned long

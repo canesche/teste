@@ -1,0 +1,3 @@
+struct pp_hwmgr | dummy int 
+struct amd_pp_simple_clock_info | dummy int 
+function vega12_get_dal_power_level int | hwmgr struct pp_hwmgr * | info struct amd_pp_simple_clock_info *

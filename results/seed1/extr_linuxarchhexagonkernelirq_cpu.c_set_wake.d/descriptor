@@ -1,2 +1,0 @@
-struct irq_data | dummy int 
-function set_wake int | data struct irq_data * | on unsigned int

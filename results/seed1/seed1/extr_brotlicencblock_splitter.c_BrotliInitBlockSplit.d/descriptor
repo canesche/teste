@@ -1,0 +1,2 @@
+struct TYPE_3__ | lengths_alloc_size long | types_alloc_size long | lengths long | types long | num_blocks long | num_types long 
+function BrotliInitBlockSplit void | self struct TYPE_3__ *

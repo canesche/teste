@@ -1,0 +1,4 @@
+struct TYPE_2__ | msg_num int | cmd int | addr_width long | data_len long | msg struct i2c_msg * 
+struct mlxcpld_i2c_priv | xfer struct TYPE_2__ 
+struct i2c_msg | flags int | len long 
+function mlxcpld_i2c_set_transf_data void | priv struct mlxcpld_i2c_priv * | msgs struct i2c_msg * | num int | comm_len long

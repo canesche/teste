@@ -1,0 +1,2 @@
+struct blame_entry | s_lno long | next struct blame_entry * 
+function blame_merge struct blame_entry * | list1 struct blame_entry * | list2 struct blame_entry *

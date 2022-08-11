@@ -1,0 +1,2 @@
+struct batadv_tt_common_entry | flags int 
+function batadv_tt_local_valid int | entry_ptr const void * | data_ptr const void * | flags int *

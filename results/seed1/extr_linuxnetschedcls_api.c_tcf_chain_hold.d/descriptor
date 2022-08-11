@@ -1,2 +1,0 @@
-struct tcf_chain | refcnt int 
-function tcf_chain_hold void | chain struct tcf_chain *

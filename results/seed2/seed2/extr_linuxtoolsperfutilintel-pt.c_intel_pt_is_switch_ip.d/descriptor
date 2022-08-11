@@ -1,0 +1,3 @@
+struct intel_pt_queue | flags int | pt struct intel_pt * 
+struct intel_pt | switch_ip long 
+function intel_pt_is_switch_ip int | ptq struct intel_pt_queue * | ip long

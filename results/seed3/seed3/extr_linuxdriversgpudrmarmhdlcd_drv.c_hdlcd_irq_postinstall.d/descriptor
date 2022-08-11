@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function hdlcd_irq_postinstall int | drm struct drm_device *

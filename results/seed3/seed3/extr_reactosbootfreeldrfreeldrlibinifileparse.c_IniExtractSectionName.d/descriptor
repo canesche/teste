@@ -1,0 +1,1 @@
+function IniExtractSectionName int | SectionName char * | SectionNameLine char * | LineLength unsigned long

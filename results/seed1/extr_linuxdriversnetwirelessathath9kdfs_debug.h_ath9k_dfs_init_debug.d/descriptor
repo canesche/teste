@@ -1,2 +1,0 @@
-struct ath_softc | dummy int 
-function ath9k_dfs_init_debug void | sc struct ath_softc *

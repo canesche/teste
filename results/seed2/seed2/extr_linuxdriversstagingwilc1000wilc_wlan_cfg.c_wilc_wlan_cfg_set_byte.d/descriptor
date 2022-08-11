@@ -1,0 +1,1 @@
+function wilc_wlan_cfg_set_byte int | frame int * | offset int | id int | val8 int

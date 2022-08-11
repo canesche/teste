@@ -1,0 +1,2 @@
+struct adau1977 | sysclk unsigned int 
+function adau1977_lookup_mcs int | adau1977 struct adau1977 * | rate unsigned int | fs unsigned int

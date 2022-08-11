@@ -1,0 +1,2 @@
+struct wilc | dummy int 
+function _wilc_spi_deinit int | wilc struct wilc *

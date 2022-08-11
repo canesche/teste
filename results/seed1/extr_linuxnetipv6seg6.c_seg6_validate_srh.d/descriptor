@@ -1,3 +1,0 @@
-struct sr6_tlv | len int 
-struct ipv6_sr_hdr | type long | hdrlen int | segments_left int | first_segment int 
-function seg6_validate_srh int | srh struct ipv6_sr_hdr * | len int

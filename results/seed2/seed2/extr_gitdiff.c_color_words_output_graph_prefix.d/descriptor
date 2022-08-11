@@ -1,0 +1,4 @@
+struct TYPE_3__ | ptr char * 
+struct TYPE_4__ | text struct TYPE_3__ 
+struct diff_words_data | last_minus long | current_plus char * | plus struct TYPE_4__ 
+function color_words_output_graph_prefix int | diff_words struct diff_words_data *

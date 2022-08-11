@@ -1,7 +1,0 @@
-struct dce_transform_shift | dummy int 
-struct dce_transform_registers | dummy int 
-struct dce_transform_mask | dummy int 
-struct TYPE_2__ | funcs int * | inst int | ctx struct dc_context * 
-struct dce_transform | prescaler_on int | lb_pixel_depth_supported int | lb_memory_size int | lb_bits_per_entry int | xfm_mask const struct dce_transform_mask * | xfm_shift const struct dce_transform_shift * | regs const struct dce_transform_registers * | base struct TYPE_2__ 
-struct dc_context | dummy int 
-function dce_transform_construct void | xfm_dce struct dce_transform * | ctx struct dc_context * | inst int | regs const struct dce_transform_registers * | xfm_shift const struct dce_transform_shift * | xfm_mask const struct dce_transform_mask *

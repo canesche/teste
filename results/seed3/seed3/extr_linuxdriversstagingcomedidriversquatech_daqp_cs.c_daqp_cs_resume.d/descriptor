@@ -1,0 +1,4 @@
+struct pcmcia_device | priv struct comedi_device * 
+struct daqp_private | stop long 
+struct comedi_device | private struct daqp_private * 
+function daqp_cs_resume int | link struct pcmcia_device *

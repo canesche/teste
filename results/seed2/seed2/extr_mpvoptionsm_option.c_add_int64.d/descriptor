@@ -1,0 +1,3 @@
+struct TYPE_5__ | flags int | min long | max long | type struct TYPE_4__ * 
+struct TYPE_4__ | size int 
+function add_int64 void | opt const struct TYPE_5__ * | val void * | add double | wrap int

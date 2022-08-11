@@ -1,2 +1,0 @@
-struct ipv6hdr | priority int | flow_lbl int * 
-function lowpan_iphc_tf_set_dscp void | hdr struct ipv6hdr * | tf const int *

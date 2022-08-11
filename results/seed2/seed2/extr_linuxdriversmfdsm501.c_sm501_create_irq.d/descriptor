@@ -1,0 +1,3 @@
+struct sm501_devdata | irq int 
+struct resource | end int | start int | parent int * | flags int 
+function sm501_create_irq void | sm struct sm501_devdata * | res struct resource *

@@ -1,3 +1,0 @@
-struct mode_info | mode long 
-struct card_info | nmodes int | modes struct mode_info * 
-function mode_defined int | mode long

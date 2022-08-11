@@ -1,0 +1,2 @@
+struct m_thread_info | id long 
+function find_thread_info struct m_thread_info * | id long

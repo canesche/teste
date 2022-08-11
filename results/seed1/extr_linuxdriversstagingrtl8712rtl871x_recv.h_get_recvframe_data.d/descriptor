@@ -1,4 +1,0 @@
-struct TYPE_3__ | rx_data int * 
-struct TYPE_4__ | hdr struct TYPE_3__ 
-struct recv_frame | u struct TYPE_4__ 
-function get_recvframe_data int * | precvframe union recv_frame *

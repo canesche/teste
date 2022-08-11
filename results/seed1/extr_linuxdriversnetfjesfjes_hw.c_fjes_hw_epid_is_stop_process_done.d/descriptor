@@ -1,6 +1,0 @@
-struct fjes_hw | ep_shm_info struct TYPE_8__ * 
-struct TYPE_7__ | info struct TYPE_6__ * 
-struct TYPE_8__ | tx struct TYPE_7__ 
-struct TYPE_5__ | rx_status int 
-struct TYPE_6__ | v1i struct TYPE_5__ 
-function fjes_hw_epid_is_stop_process_done int | hw struct fjes_hw * | src_epid int

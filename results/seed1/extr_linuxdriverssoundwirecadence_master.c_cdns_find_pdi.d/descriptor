@@ -1,3 +1,0 @@
-struct sdw_cdns_pdi | assigned int 
-struct sdw_cdns | dummy int 
-function cdns_find_pdi struct sdw_cdns_pdi * | cdns struct sdw_cdns * | num unsigned int | pdi struct sdw_cdns_pdi *

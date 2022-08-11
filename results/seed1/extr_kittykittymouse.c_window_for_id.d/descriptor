@@ -1,5 +1,0 @@
-struct TYPE_7__ | id long 
-struct TYPE_8__ | num_windows unsigned int | windows struct TYPE_7__ * 
-struct TYPE_9__ | callback_os_window struct TYPE_6__ * 
-struct TYPE_6__ | active_tab int | tabs struct TYPE_8__ * 
-function window_for_id struct TYPE_7__ * | window_id long

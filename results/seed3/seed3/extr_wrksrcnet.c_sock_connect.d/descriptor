@@ -1,0 +1,1 @@
+function sock_connect int | c int * | host char *

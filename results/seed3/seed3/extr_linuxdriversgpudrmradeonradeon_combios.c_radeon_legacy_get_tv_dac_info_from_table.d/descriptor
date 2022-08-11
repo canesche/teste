@@ -1,0 +1,3 @@
+struct radeon_encoder_tv_dac | ps2_tvdac_adj int | pal_tvdac_adj int | ntsc_tvdac_adj int 
+struct radeon_device | family unsigned long | flags int 
+function radeon_legacy_get_tv_dac_info_from_table void | rdev struct radeon_device * | tv_dac struct radeon_encoder_tv_dac *

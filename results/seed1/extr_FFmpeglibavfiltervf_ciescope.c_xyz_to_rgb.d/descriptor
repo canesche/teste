@@ -1,1 +1,0 @@
-function xyz_to_rgb void | m double const[3][3] | xc double | yc double | zc double | r double *const | g double *const | b double *const

@@ -1,0 +1,2 @@
+struct extent_info | fofs unsigned int | len unsigned int | blk int 
+function set_extent_info void | ei struct extent_info * | fofs unsigned int | blk int | len unsigned int

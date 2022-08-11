@@ -1,0 +1,3 @@
+struct kvaser_usb_dev_card_data | ctrlmode_supported int 
+struct kvaser_usb | cfg int * | card_data struct kvaser_usb_dev_card_data 
+function kvaser_usb_leaf_init_card int | dev struct kvaser_usb *

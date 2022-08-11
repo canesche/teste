@@ -1,0 +1,1 @@
+function cache_is_valid_disk int | node_id int | server_id int | disk_id int

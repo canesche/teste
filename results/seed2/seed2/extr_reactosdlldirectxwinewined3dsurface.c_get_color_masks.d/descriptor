@@ -1,0 +1,2 @@
+struct wined3d_format | red_size unsigned int | red_offset unsigned int | green_size unsigned int | green_offset unsigned int | blue_size unsigned int | blue_offset unsigned int 
+function get_color_masks void | format const struct wined3d_format * | masks unsigned int *

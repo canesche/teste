@@ -1,0 +1,3 @@
+struct wrapper_priv_data | dwc_otg_hcd int * 
+struct usb_hcd | hcd_priv long 
+function hcd_to_dwc_otg_hcd int * | hcd struct usb_hcd *

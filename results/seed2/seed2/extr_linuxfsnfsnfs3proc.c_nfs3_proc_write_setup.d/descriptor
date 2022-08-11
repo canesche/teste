@@ -1,0 +1,4 @@
+struct rpc_message | rpc_proc int * 
+struct rpc_clnt | dummy int 
+struct nfs_pgio_header | dummy int 
+function nfs3_proc_write_setup void | hdr struct nfs_pgio_header * | msg struct rpc_message * | clnt struct rpc_clnt **

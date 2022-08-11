@@ -1,2 +1,0 @@
-struct ef4_link_state | up long | fd long | fc long | speed long 
-function ef4_link_state_equal int | left const struct ef4_link_state * | right const struct ef4_link_state *

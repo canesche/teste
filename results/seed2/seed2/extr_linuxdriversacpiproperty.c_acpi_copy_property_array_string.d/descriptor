@@ -1,0 +1,3 @@
+struct TYPE_2__ | pointer char * 
+struct acpi_object | type long | string struct TYPE_2__ 
+function acpi_copy_property_array_string int | items const union acpi_object * | val char ** | nval unsigned long

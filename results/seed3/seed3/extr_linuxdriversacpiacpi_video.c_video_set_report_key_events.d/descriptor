@@ -1,0 +1,2 @@
+struct dmi_system_id | driver_data long 
+function video_set_report_key_events int | id const struct dmi_system_id *

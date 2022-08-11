@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmediapcibt8xxbttv-driver.c_check_alloc_btres_lock.d/extr_linuxdriversmediapcibt8xxbttv-driver.c_check_alloc_btres_lock_O0::check_alloc_btres_lock(74)"
+  }
+]

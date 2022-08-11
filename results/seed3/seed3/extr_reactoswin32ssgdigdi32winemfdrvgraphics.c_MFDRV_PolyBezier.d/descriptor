@@ -1,0 +1,1 @@
+function MFDRV_PolyBezier int | dev int | pts const int * | count int

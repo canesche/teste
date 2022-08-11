@@ -1,2 +1,0 @@
-struct ovs_key_ct_labels | ct_labels_32 long * 
-function labels_nonzero int | labels const struct ovs_key_ct_labels *

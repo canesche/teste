@@ -1,2 +1,0 @@
-struct utf8_data | size int | width int | data char * 
-function status_prompt_space int | ud const struct utf8_data *

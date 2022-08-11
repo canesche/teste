@@ -1,0 +1,5 @@
+struct ovl_layer | dummy int 
+struct ovl_entry | lowerstack struct TYPE_2__ * | numlower long 
+struct dentry | d_fsdata struct ovl_entry * 
+struct TYPE_2__ | layer struct ovl_layer * 
+function ovl_layer_lower struct ovl_layer * | dentry struct dentry *

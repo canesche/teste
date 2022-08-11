@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct nfc_digital_dev | dummy int 
+function st95hf_tg_send_cmd int | ddev struct nfc_digital_dev * | skb struct sk_buff * | timeout int | cb int | arg void *

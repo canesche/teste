@@ -1,3 +1,0 @@
-struct irq_domain | dummy int 
-struct device_node | dummy int 
-function mmp_irq_domain_xlate int | d struct irq_domain * | node struct device_node * | intspec const unsigned long * | intsize unsigned int | out_hwirq unsigned long * | out_type unsigned int *

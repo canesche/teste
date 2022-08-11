@@ -1,0 +1,2 @@
+struct bp_busy_slots | pinned int 
+function fetch_this_slot void | slots struct bp_busy_slots * | weight int

@@ -1,0 +1,2 @@
+struct tipc_media | type_id long 
+function media_find_id struct tipc_media * | type long

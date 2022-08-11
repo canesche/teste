@@ -1,3 +1,0 @@
-struct grid | hsize int | sy int | linedata struct TYPE_2__ * 
-struct TYPE_2__ | flags int | cellused int 
-function grid_unwrap_position void | gd struct grid * | px int * | py int * | wx int | wy int

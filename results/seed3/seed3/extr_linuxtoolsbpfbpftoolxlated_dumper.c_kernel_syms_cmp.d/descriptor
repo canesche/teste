@@ -1,0 +1,2 @@
+struct kernel_sym | address int 
+function kernel_syms_cmp int | sym_a const void * | sym_b const void *

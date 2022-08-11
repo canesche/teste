@@ -1,0 +1,5 @@
+struct iscsi_task | hdr_max int | hdr struct iscsi_hdr * | dd_data struct iscsi_iser_task * 
+struct TYPE_2__ | iscsi_header int 
+struct iscsi_iser_task | desc struct TYPE_2__ 
+struct iscsi_hdr | dummy int 
+function iscsi_iser_pdu_alloc int | task struct iscsi_task * | opcode int

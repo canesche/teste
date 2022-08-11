@@ -1,0 +1,2 @@
+struct TYPE_3__ | ver int | t int | tkl int | code int | id int * 
+function coap_parseHeader int | hdr struct TYPE_3__ * | buf const int * | buflen unsigned long

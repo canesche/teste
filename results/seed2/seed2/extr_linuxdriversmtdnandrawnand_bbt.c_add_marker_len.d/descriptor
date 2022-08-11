@@ -1,0 +1,2 @@
+struct nand_bbt_descr | options int | len int 
+function add_marker_len int | td struct nand_bbt_descr *

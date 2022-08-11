@@ -1,0 +1,4 @@
+struct fc_disc | priv void * 
+struct TYPE_2__ | disc_recv_req long | disc_stop_final long | disc_stop long | disc_start long 
+struct fc_lport | disc struct fc_disc | tt struct TYPE_2__ 
+function fc_disc_config void | lport struct fc_lport * | priv void *

@@ -1,0 +1,2 @@
+struct gfar_priv_rx_q | next_to_clean long | next_to_use long | rx_ring_size int 
+function gfar_rxbd_unused int | rxq struct gfar_priv_rx_q *

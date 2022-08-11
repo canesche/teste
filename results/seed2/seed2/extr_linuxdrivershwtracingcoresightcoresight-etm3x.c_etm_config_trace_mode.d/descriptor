@@ -1,0 +1,2 @@
+struct etm_config | mode int | enable_ctrl2 int | addr_val int * | addr_acctype int * | addr_type void ** | enable_ctrl1 int 
+function etm_config_trace_mode void | config struct etm_config *

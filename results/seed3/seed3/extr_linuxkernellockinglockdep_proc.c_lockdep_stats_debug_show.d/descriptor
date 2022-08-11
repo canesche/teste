@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function lockdep_stats_debug_show void | m struct seq_file *

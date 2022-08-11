@@ -1,0 +1,2 @@
+struct mlx5_core_dev | dummy int 
+function mlx5_clock_get_ptp_index int | mdev struct mlx5_core_dev *

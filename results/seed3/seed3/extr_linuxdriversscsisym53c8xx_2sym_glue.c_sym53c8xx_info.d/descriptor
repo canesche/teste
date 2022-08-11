@@ -1,0 +1,2 @@
+struct Scsi_Host | dummy int 
+function sym53c8xx_info const char * | host struct Scsi_Host *

@@ -1,0 +1,2 @@
+struct ubifs_info | nnode_sz int | pnode_sz int | ltab_sz int | lsave_sz int 
+function get_lpt_node_len int | c const struct ubifs_info * | node_type int

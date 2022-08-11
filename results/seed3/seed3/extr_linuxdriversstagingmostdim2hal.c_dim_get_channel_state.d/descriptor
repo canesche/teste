@@ -1,0 +1,4 @@
+struct TYPE_2__ | level int 
+struct dim_channel | done_sw_buffers_number int | state struct TYPE_2__ 
+struct dim_ch_state_t | ready int | done_buffers int 
+function dim_get_channel_state struct dim_ch_state_t * | ch struct dim_channel * | state_ptr struct dim_ch_state_t *

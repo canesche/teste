@@ -1,0 +1,2 @@
+struct packet_writer | dest_fd int | use_sideband long 
+function packet_writer_init void | writer struct packet_writer * | dest_fd int

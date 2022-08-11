@@ -1,0 +1,4 @@
+struct TYPE_2__ | bss_cnt int 
+struct mlme_ext_priv | sitesurvey_res struct TYPE_2__ 
+struct adapter | mlmeextpriv struct mlme_ext_priv 
+function halbtcoutsrc_GetWifiScanAPNum int | padapter struct adapter *

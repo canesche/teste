@@ -1,0 +1,4 @@
+struct TYPE_7__ | len int | valid int | data int * | not_found long | no_cacheable long 
+struct TYPE_8__ | connection struct TYPE_6__ * 
+struct TYPE_6__ | type long 
+function ngx_stream_variable_protocol int | s struct TYPE_8__ * | v struct TYPE_7__ * | data unsigned long

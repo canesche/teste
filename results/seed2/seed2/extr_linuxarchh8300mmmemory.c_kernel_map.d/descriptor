@@ -1,0 +1,1 @@
+function kernel_map unsigned long | paddr unsigned long | size unsigned long | nocacheflag int | memavailp unsigned long *

@@ -1,0 +1,2 @@
+struct ath_hw | dummy int 
+function ath9k_hw_get_btcoex_scheme enum ath_btcoex_scheme | ah struct ath_hw *

@@ -1,0 +1,4 @@
+struct mtk_drm_private | ddp_comp struct mtk_ddp_comp ** 
+struct mtk_ddp_comp | id unsigned long 
+struct drm_device | dev_private struct mtk_drm_private * 
+function mtk_ddp_comp_register int | drm struct drm_device * | comp struct mtk_ddp_comp *

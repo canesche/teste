@@ -1,0 +1,3 @@
+struct r_bin_mz_obj_t | dos_header struct TYPE_2__ * 
+struct TYPE_2__ | header_paragraphs int 
+function r_bin_mz_la_to_pa long | bin const struct r_bin_mz_obj_t * | la long

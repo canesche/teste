@@ -1,3 +1,0 @@
-struct TYPE_4__ | e_magic long | e_lfanew int 
-struct TYPE_3__ | Signature long 
-function is_pe_hdr int | pe_hdr unsigned char *

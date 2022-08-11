@@ -1,0 +1,2 @@
+struct cma | order_per_bit unsigned int 
+function cma_bitmap_aligned_mask unsigned long | cma const struct cma * | align_order unsigned int

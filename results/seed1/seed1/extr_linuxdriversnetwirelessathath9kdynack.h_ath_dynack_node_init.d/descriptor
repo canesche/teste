@@ -1,0 +1,3 @@
+struct ath_node | dummy int 
+struct ath_hw | dummy int 
+function ath_dynack_node_init void | ah struct ath_hw * | an struct ath_node *

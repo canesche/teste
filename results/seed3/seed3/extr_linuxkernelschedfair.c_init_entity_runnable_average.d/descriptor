@@ -1,0 +1,2 @@
+struct sched_entity | dummy int 
+function init_entity_runnable_average void | se struct sched_entity *

@@ -1,0 +1,4 @@
+struct TYPE_7__ | current unsigned long | nb_items unsigned long | item struct TYPE_6__ * 
+struct TYPE_6__ | nb_stream_info int | current int | stream_info struct TYPE_5__ * 
+struct TYPE_5__ | id int 
+function set_frag_stream void | frag_index struct TYPE_7__ * | id int

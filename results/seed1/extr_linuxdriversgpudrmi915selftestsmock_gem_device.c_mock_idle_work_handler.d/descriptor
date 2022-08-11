@@ -1,2 +1,0 @@
-struct work_struct | dummy int 
-function mock_idle_work_handler void | work struct work_struct *

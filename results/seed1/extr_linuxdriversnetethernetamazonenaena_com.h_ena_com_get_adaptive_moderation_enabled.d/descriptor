@@ -1,2 +1,0 @@
-struct ena_com_dev | adaptive_coalescing int 
-function ena_com_get_adaptive_moderation_enabled int | ena_dev struct ena_com_dev *

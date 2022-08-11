@@ -1,0 +1,4 @@
+struct ioctl_arg | dummy int 
+struct client | device struct TYPE_2__ * 
+struct TYPE_2__ | max_speed int 
+function ioctl_get_speed int | client struct client * | arg union ioctl_arg *

@@ -1,2 +1,0 @@
-struct v4l2_ctrl | id int 
-function adv748x_csi2_s_ctrl int | ctrl struct v4l2_ctrl *

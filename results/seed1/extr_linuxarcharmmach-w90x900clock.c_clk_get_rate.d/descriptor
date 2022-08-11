@@ -1,2 +1,0 @@
-struct clk | dummy int 
-function clk_get_rate unsigned long | clk struct clk *

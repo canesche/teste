@@ -1,2 +1,0 @@
-struct mlxsw_sp_acl_tcam_group | id int 
-function mlxsw_sp_acl_tcam_group_id int | group struct mlxsw_sp_acl_tcam_group *

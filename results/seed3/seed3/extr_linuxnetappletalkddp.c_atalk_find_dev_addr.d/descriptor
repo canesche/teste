@@ -1,0 +1,4 @@
+struct net_device | atalk_ptr struct atalk_iface * 
+struct atalk_addr | dummy int 
+struct atalk_iface | address struct atalk_addr 
+function atalk_find_dev_addr struct atalk_addr * | dev struct net_device *

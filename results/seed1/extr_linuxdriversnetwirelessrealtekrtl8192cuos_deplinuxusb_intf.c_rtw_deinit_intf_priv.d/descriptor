@@ -1,2 +1,0 @@
-struct dvobj_priv | dummy int 
-function rtw_deinit_intf_priv int | dvobj struct dvobj_priv *

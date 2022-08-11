@@ -1,0 +1,3 @@
+struct opa_vnic_vema_port | dummy int 
+struct opa_vnic_ctrl_port | num_ports int 
+function vema_get_port struct opa_vnic_vema_port * | cport struct opa_vnic_ctrl_port * | port_num int

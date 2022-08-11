@@ -1,0 +1,2 @@
+struct ArcProto | dummy int 
+function arcnet_unregister_proto void | proto struct ArcProto *

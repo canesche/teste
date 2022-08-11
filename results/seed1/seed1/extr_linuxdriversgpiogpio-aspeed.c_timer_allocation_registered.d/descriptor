@@ -1,0 +1,2 @@
+struct aspeed_gpio | offset_timer long * 
+function timer_allocation_registered int | gpio struct aspeed_gpio * | offset unsigned int

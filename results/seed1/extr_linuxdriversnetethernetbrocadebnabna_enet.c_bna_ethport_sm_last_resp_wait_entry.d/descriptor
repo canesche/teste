@@ -1,2 +1,0 @@
-struct bna_ethport | dummy int 
-function bna_ethport_sm_last_resp_wait_entry void | ethport struct bna_ethport *

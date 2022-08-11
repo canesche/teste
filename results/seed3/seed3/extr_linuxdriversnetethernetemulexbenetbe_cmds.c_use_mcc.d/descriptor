@@ -1,0 +1,4 @@
+struct TYPE_3__ | created int 
+struct TYPE_4__ | q struct TYPE_3__ 
+struct be_adapter | mcc_obj struct TYPE_4__ 
+function use_mcc int | adapter struct be_adapter *

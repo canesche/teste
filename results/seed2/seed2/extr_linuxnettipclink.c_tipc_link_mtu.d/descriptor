@@ -1,0 +1,2 @@
+struct tipc_link | mtu int 
+function tipc_link_mtu int | l struct tipc_link *

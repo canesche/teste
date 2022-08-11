@@ -1,3 +1,0 @@
-struct TYPE_2__ | height int 
-struct window_capture | capture struct TYPE_2__ 
-function wc_height int | data void *

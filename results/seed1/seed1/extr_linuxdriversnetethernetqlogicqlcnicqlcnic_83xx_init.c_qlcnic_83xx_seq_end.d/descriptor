@@ -1,0 +1,4 @@
+struct qlcnic_adapter | ahw struct TYPE_4__ * 
+struct TYPE_3__ | seq_end int 
+struct TYPE_4__ | reset struct TYPE_3__ 
+function qlcnic_83xx_seq_end void | p_dev struct qlcnic_adapter *

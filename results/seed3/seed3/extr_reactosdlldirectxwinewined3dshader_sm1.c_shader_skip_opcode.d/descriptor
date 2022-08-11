@@ -1,0 +1,4 @@
+struct wined3d_sm1_opcode_info | param_count unsigned int 
+struct TYPE_2__ | major int 
+struct wined3d_sm1_data | shader_version struct TYPE_2__ 
+function shader_skip_opcode unsigned int | priv const struct wined3d_sm1_data * | opcode_info const struct wined3d_sm1_opcode_info * | opcode_token unsigned int

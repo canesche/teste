@@ -1,4 +1,0 @@
-struct TYPE_3__ | value int 
-struct TYPE_4__ | control struct TYPE_3__ 
-struct snd_seq_event | data struct TYPE_4__ 
-function songpos_decode void | ev struct snd_seq_event * | buf unsigned char *

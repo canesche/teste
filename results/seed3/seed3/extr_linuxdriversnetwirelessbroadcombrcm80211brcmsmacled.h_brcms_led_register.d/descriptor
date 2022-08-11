@@ -1,0 +1,2 @@
+struct brcms_info | dummy int 
+function brcms_led_register int | wl struct brcms_info *

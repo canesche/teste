@@ -1,0 +1,4 @@
+struct scif_mmu_notif | dummy int 
+struct scif_endpt | dummy int 
+struct mm_struct | dummy int 
+function scif_add_mmu_notifier struct scif_mmu_notif * | mm struct mm_struct * | ep struct scif_endpt *

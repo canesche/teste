@@ -1,3 +1,0 @@
-struct scq_info | dummy int 
-struct idt77252_dev | dummy int 
-function clear_scd void | card struct idt77252_dev * | scq struct scq_info * | class int

@@ -1,0 +1,2 @@
+struct TYPE_4__ | Address long | SourceLine long 
+function CompareSymEntry int | SymEntry1 struct TYPE_4__ *const | SymEntry2 struct TYPE_4__ *const

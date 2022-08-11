@@ -1,0 +1,3 @@
+struct snd_hwdep | dummy int 
+struct file | dummy int 
+function snd_emu10k1_fx8010_release int | hw struct snd_hwdep * | file struct file *

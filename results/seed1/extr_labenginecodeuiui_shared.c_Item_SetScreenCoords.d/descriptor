@@ -1,6 +1,0 @@
-struct TYPE_10__ | h long | w long 
-struct TYPE_8__ | h int | w int | y long | x long 
-struct TYPE_7__ | h int | w int | y long | x long 
-struct TYPE_9__ | border long | rectClient struct TYPE_8__ | rect struct TYPE_7__ | borderSize long 
-struct TYPE_11__ | textRect struct TYPE_10__ | window struct TYPE_9__ 
-function Item_SetScreenCoords void | item struct TYPE_11__ * | x float | y float

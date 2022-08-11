@@ -1,0 +1,2 @@
+struct btf_verifier_env | visit_states long * 
+function env_type_is_resolved int | env const struct btf_verifier_env * | type_id unsigned long

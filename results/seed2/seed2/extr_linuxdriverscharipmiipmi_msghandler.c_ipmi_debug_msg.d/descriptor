@@ -1,0 +1,1 @@
+function ipmi_debug_msg void | title const char * | data unsigned char * | len unsigned int

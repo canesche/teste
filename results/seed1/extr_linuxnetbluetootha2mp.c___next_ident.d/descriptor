@@ -1,2 +1,0 @@
-struct amp_mgr | ident long 
-function __next_ident int | mgr struct amp_mgr *

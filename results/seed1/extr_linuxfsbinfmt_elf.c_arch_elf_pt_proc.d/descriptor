@@ -1,5 +1,0 @@
-struct file | dummy int 
-struct elfhdr | dummy int 
-struct elf_phdr | dummy int 
-struct arch_elf_state | dummy int 
-function arch_elf_pt_proc int | ehdr struct elfhdr * | phdr struct elf_phdr * | elf struct file * | is_interp int | state struct arch_elf_state *

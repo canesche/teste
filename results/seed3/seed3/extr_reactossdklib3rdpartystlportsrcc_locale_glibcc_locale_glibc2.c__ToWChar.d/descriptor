@@ -1,0 +1,1 @@
+function _ToWChar char * | buf const char * | wbuf char * | wbufSize unsigned long

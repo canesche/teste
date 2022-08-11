@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxnetwirelesschan.c_cfg80211_get_start_freq.d/extr_linuxnetwirelesschan.c_cfg80211_get_start_freq_O0::cfg80211_get_start_freq(62)"
+  }
+]

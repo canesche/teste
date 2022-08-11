@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 134,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxsoundsocintelatomsst-mfld-platform-pcm.c_sst_get_stream_mapping.d/extr_linuxsoundsocintelatomsst-mfld-platform-pcm.c_sst_get_stream_mapping_O0::sst_get_stream_mapping(63)"
+  }
+]

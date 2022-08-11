@@ -1,0 +1,1 @@
+function __rap_reg_write int | dbg int * | type int | buf const int * | size int

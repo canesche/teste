@@ -1,0 +1,3 @@
+struct TYPE_2__ | priv long * 
+struct request | elv struct TYPE_2__ 
+function rq_get_domain_token int | rq struct request *

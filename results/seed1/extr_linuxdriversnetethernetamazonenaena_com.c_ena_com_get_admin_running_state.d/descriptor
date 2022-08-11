@@ -1,3 +1,0 @@
-struct TYPE_2__ | running_state int 
-struct ena_com_dev | admin_queue struct TYPE_2__ 
-function ena_com_get_admin_running_state int | ena_dev struct ena_com_dev *

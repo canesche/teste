@@ -1,0 +1,1 @@
+function TEXT_numToHexString int | buf int * | value int | bufSize int | minLen int | padChar int

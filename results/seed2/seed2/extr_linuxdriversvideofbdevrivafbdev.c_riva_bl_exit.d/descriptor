@@ -1,0 +1,2 @@
+struct fb_info | dummy int 
+function riva_bl_exit void | info struct fb_info *

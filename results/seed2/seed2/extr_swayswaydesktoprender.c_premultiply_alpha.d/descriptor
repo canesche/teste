@@ -1,0 +1,1 @@
+function premultiply_alpha void | color float [4] | opacity float

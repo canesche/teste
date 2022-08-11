@@ -1,6 +1,0 @@
-struct TYPE_8__ | cons unsigned long 
-struct qedr_qp | sq struct TYPE_8__ | wqe_wr_id struct TYPE_7__ * 
-struct TYPE_7__ | opcode long | mr struct TYPE_6__ * 
-struct TYPE_5__ | completed int 
-struct TYPE_6__ | info struct TYPE_5__ 
-function qedr_chk_if_fmr void | qp struct qedr_qp *

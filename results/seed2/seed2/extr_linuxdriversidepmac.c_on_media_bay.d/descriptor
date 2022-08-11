@@ -1,0 +1,3 @@
+struct TYPE_5__ | mdev struct TYPE_4__ * 
+struct TYPE_4__ | media_bay int * 
+function on_media_bay int | pmif struct TYPE_5__ *

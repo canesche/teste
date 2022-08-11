@@ -1,0 +1,2 @@
+struct TYPE_4__ | length int | blocks int * 
+function BigInt_Copy void | dst struct TYPE_4__ * | src const struct TYPE_4__ *

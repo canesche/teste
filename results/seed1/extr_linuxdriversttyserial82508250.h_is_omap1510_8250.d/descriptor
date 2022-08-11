@@ -1,2 +1,0 @@
-struct uart_8250_port | dummy int 
-function is_omap1510_8250 int | pt struct uart_8250_port *

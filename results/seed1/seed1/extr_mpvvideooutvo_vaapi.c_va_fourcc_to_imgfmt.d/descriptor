@@ -1,0 +1,2 @@
+struct fmtentry | va long | mp int 
+function va_fourcc_to_imgfmt enum mp_imgfmt | fourcc long

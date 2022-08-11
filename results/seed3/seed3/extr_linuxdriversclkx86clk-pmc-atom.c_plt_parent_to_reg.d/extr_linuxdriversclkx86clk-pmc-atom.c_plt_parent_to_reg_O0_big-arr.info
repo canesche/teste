@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversclkx86clk-pmc-atom.c_plt_parent_to_reg.d/extr_linuxdriversclkx86clk-pmc-atom.c_plt_parent_to_reg_O0::plt_parent_to_reg(62)"
+  }
+]

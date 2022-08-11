@@ -1,0 +1,2 @@
+struct TYPE_3__ | sfp int 
+function get_cache_font_properties void | sfp int * | sc struct TYPE_3__ *

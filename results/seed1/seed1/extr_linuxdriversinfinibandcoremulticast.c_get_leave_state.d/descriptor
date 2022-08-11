@@ -1,0 +1,3 @@
+struct TYPE_2__ | join_state int 
+struct mcast_group | rec struct TYPE_2__ | members int * 
+function get_leave_state int | group struct mcast_group *

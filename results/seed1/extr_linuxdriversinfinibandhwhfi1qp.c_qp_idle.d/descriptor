@@ -1,2 +1,0 @@
-struct rvt_qp | s_last long | s_acked long | s_cur long | s_tail long | s_head long 
-function qp_idle int | qp struct rvt_qp *

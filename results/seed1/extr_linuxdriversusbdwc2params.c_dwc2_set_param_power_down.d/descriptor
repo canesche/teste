@@ -1,4 +1,0 @@
-struct TYPE_4__ | power_down int 
-struct TYPE_3__ | power_optimized long | hibernation long 
-struct dwc2_hsotg | params struct TYPE_4__ | hw_params struct TYPE_3__ 
-function dwc2_set_param_power_down void | hsotg struct dwc2_hsotg *

@@ -1,2 +1,0 @@
-struct rtllib_device | dummy int 
-function HTIOTActIsDisableMCSTwoSpatialStream int | ieee struct rtllib_device *

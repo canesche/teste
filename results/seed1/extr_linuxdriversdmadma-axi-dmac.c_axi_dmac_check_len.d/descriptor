@@ -1,2 +1,0 @@
-struct axi_dmac_chan | max_length unsigned int | align_mask unsigned int 
-function axi_dmac_check_len int | chan struct axi_dmac_chan * | len unsigned int

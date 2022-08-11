@@ -1,2 +1,0 @@
-struct nfs_server | caps int | flags int 
-function nfs_init_server_aclclient void | server struct nfs_server *

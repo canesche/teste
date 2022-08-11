@@ -1,2 +1,0 @@
-struct ff_format_desc | video_codec int 
-function ff_format_desc_video int | format_desc const struct ff_format_desc *

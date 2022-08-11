@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function nfs3_have_delegation int | inode struct inode * | flags int

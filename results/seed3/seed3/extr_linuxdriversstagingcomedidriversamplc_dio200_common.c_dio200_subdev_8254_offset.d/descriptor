@@ -1,0 +1,5 @@
+struct dio200_board | is_pcie long 
+struct comedi_subdevice | private struct comedi_8254 * 
+struct comedi_device | mmio unsigned int | iobase unsigned int | board_ptr struct dio200_board * 
+struct comedi_8254 | mmio unsigned int | iobase unsigned int 
+function dio200_subdev_8254_offset unsigned int | dev struct comedi_device * | s struct comedi_subdevice *

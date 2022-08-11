@@ -1,3 +1,0 @@
-struct TYPE_2__ | total_entries int 
-struct gasket_page_table | extended_flag int | config struct TYPE_2__ 
-function gasket_components_to_dev_address int | pg_tbl struct gasket_page_table * | is_simple int | page_index int | offset int

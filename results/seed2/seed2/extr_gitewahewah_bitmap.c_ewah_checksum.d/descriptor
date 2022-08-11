@@ -1,0 +1,2 @@
+struct ewah_bitmap | buffer_size int | bit_size long | buffer long 
+function ewah_checksum int | self struct ewah_bitmap *

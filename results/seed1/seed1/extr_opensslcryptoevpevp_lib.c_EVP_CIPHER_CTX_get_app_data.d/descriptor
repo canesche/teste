@@ -1,0 +1,2 @@
+struct TYPE_3__ | app_data void * 
+function EVP_CIPHER_CTX_get_app_data void * | ctx const struct TYPE_3__ *

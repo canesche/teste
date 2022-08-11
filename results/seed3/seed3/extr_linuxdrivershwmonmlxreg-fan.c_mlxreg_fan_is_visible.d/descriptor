@@ -1,0 +1,4 @@
+struct TYPE_4__ | connected int 
+struct mlxreg_fan | pwm struct TYPE_4__ | tacho struct TYPE_3__ * 
+struct TYPE_3__ | connected int 
+function mlxreg_fan_is_visible int | data const void * | type enum hwmon_sensor_types | attr int | channel int

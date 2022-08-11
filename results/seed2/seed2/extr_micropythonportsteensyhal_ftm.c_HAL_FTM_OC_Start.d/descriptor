@@ -1,0 +1,1 @@
+function HAL_FTM_OC_Start void | hftm int * | channel int

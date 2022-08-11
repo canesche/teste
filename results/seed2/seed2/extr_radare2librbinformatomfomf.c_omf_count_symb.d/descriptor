@@ -1,0 +1,1 @@
+function omf_count_symb int | total_size int | ct int | buf const int * | bits int

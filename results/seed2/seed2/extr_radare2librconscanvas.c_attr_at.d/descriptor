@@ -1,0 +1,3 @@
+struct TYPE_5__ | attrslen int | attrs struct TYPE_4__ * | color int 
+struct TYPE_4__ | loc int | a const char * 
+function attr_at const char ** | c struct TYPE_5__ * | loc int

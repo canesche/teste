@@ -1,0 +1,2 @@
+struct intel_wait | seqno long 
+function intel_wait_check_seqno int | wait const struct intel_wait * | seqno long

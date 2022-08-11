@@ -1,0 +1,3 @@
+struct snd_kcontrol | private_value long 
+struct sigmadsp_control | kcontrol int * 
+function sigmadsp_control_free void | kcontrol struct snd_kcontrol *

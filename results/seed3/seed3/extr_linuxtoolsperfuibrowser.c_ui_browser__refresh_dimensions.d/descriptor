@@ -1,0 +1,2 @@
+struct ui_browser | y int | x long | extra_title_lines long | rows long | height long | width long 
+function ui_browser__refresh_dimensions void | browser struct ui_browser *

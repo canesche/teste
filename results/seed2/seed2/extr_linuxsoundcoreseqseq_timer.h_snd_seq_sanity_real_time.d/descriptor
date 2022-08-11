@@ -1,0 +1,2 @@
+struct TYPE_3__ | tv_nsec int | tv_sec int 
+function snd_seq_sanity_real_time void | tm struct TYPE_3__ *

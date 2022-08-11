@@ -1,3 +1,0 @@
-struct crypto_alg | cra_flags int | cra_type int * 
-struct akcipher_alg | base struct crypto_alg 
-function akcipher_prepare_alg void | alg struct akcipher_alg *

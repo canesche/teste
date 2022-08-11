@@ -1,2 +1,0 @@
-struct TYPE_3__ | Layer_nb long | Msg_length long | Msg_offset long | CSn_Id long | Class_Id long | last_byte long | Id long 
-function jpt_init_msg_header void | header struct TYPE_3__ *

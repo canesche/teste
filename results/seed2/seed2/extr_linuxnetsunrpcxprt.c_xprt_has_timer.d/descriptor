@@ -1,0 +1,2 @@
+struct rpc_xprt | idle_timeout long 
+function xprt_has_timer int | xprt const struct rpc_xprt *

@@ -1,0 +1,3 @@
+struct PStack | next struct PStack * 
+struct IsdnCardState | stlist struct PStack * 
+function HiSax_addlist void | cs struct IsdnCardState * | st struct PStack *

@@ -1,0 +1,4 @@
+struct dbg_attn_block_type_data | dummy int 
+struct dbg_attn_block | per_type_data const struct dbg_attn_block_type_data * 
+struct TYPE_2__ | ptr long 
+function qed_get_block_attn_data const struct dbg_attn_block_type_data * | block_id enum block_id | attn_type enum dbg_attn_type

@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int | buffer_pos long | buffer_data_size long | has_ungotten long 
+function fpurge int | stream struct TYPE_3__ *

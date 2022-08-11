@@ -1,2 +1,0 @@
-struct kvm_io_range | addr long | len long 
-function kvm_io_bus_cmp int | r1 const struct kvm_io_range * | r2 const struct kvm_io_range *

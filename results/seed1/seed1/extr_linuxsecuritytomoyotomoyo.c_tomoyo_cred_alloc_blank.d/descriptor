@@ -1,0 +1,2 @@
+struct cred | security int * 
+function tomoyo_cred_alloc_blank int | new struct cred * | gfp int

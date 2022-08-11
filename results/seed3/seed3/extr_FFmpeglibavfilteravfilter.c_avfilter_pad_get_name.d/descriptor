@@ -1,0 +1,2 @@
+struct TYPE_3__ | name const char * 
+function avfilter_pad_get_name const char * | pads const struct TYPE_3__ * | pad_idx int

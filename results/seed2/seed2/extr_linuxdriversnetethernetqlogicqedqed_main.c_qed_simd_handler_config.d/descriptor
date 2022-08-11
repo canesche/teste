@@ -1,0 +1,4 @@
+struct qed_hwfn | simd_proto_handler struct TYPE_2__ * 
+struct qed_dev | num_hwfns int | hwfns struct qed_hwfn * 
+struct TYPE_2__ | func void (*)(void *) | token void * 
+function qed_simd_handler_config void | cdev struct qed_dev * | token void * | index int | handler void (*)(void *)

@@ -1,2 +1,0 @@
-struct TYPE_3__ | length int | pattern_bytes long * | variant_bool_array int * 
-function node_pattern_match int | node const struct TYPE_3__ * | b long * | buf_size int

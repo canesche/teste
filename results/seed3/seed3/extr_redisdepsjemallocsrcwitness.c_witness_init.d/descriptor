@@ -1,0 +1,2 @@
+struct TYPE_3__ | name const char * | opaque void * | comp int * | rank int 
+function witness_init void | witness struct TYPE_3__ * | name const char * | rank int | comp int * | opaque void *

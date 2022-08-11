@@ -1,0 +1,2 @@
+struct ring_buffer | aux_nr_pages int 
+function rb_has_aux int | rb struct ring_buffer *

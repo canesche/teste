@@ -1,2 +1,0 @@
-struct cmac | dummy int 
-function pm3393_loopback_disable int | cmac struct cmac *

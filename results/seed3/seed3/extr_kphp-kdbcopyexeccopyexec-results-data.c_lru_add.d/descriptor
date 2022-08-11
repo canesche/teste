@@ -1,0 +1,2 @@
+struct TYPE_4__ | next struct TYPE_4__ * | prev struct TYPE_4__ * 
+function lru_add void | T struct TYPE_4__ *

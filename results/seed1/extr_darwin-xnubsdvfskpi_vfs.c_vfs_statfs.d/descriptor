@@ -1,3 +1,0 @@
-struct vfsstatfs | dummy int 
-struct TYPE_3__ | mnt_vfsstat struct vfsstatfs 
-function vfs_statfs struct vfsstatfs * | mp struct TYPE_3__ *

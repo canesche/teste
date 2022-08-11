@@ -1,0 +1,3 @@
+struct TYPE_6__ | type long 
+struct TYPE_5__ | num_dimensions int | dimensions struct TYPE_6__ * 
+function ts_hyperspace_get_dimension struct TYPE_6__ * | hs struct TYPE_5__ * | type long | n long

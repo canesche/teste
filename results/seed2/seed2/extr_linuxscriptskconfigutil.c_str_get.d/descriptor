@@ -1,0 +1,2 @@
+struct gstr | s const char * 
+function str_get const char * | gs struct gstr *

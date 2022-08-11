@@ -1,0 +1,1 @@
+function add_hfyu_left_pred_bgr32_c void | dst long * | src const long * | w long | left long *

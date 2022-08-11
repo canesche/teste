@@ -1,0 +1,2 @@
+struct job | status int 
+function job_get_status int | job struct job *

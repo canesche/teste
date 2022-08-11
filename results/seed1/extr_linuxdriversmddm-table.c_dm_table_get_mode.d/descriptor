@@ -1,2 +1,0 @@
-struct dm_table | mode int 
-function dm_table_get_mode int | t struct dm_table *

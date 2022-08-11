@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function efuse_re_pg_section void | hw struct ieee80211_hw * | section_idx int

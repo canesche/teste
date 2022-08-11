@@ -1,0 +1,2 @@
+struct svc_rqst | dummy int 
+function svc_printk void | rqstp struct svc_rqst * | fmt const char *

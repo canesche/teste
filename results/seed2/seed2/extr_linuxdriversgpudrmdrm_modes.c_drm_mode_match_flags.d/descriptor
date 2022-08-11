@@ -1,0 +1,2 @@
+struct drm_display_mode | flags int 
+function drm_mode_match_flags int | mode1 const struct drm_display_mode * | mode2 const struct drm_display_mode *

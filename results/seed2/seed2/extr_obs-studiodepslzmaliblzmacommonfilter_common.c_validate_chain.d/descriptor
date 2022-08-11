@@ -1,0 +1,3 @@
+struct TYPE_4__ | id long 
+struct TYPE_5__ | id long | non_last_ok int | last_ok int | changes_size long 
+function validate_chain int | filters const struct TYPE_4__ * | count unsigned long *

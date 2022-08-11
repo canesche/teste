@@ -1,2 +1,0 @@
-struct TYPE_3__ | flagRepeatTable long | hufTableX4 int * | dictEnd int * | vBase int * | base int * | previousDstEnd int * | stage int | expected int 
-function ZSTDv06_decompressBegin unsigned long | dctx struct TYPE_3__ *

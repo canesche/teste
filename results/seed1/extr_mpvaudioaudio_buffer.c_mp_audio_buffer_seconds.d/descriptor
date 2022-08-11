@@ -1,2 +1,0 @@
-struct mp_audio_buffer | num_samples double | srate long 
-function mp_audio_buffer_seconds double | ab struct mp_audio_buffer *

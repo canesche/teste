@@ -1,0 +1,3 @@
+struct trace_array | dummy int 
+struct dentry | dummy int 
+function ftrace_init_tracefs void | tr struct trace_array * | d struct dentry *

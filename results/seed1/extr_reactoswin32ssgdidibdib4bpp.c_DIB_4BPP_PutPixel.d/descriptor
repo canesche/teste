@@ -1,2 +1,0 @@
-struct TYPE_3__ | lDelta int | pvScan0 long 
-function DIB_4BPP_PutPixel int | SurfObj struct TYPE_3__ * | x int | y int | c int

@@ -1,0 +1,4 @@
+struct TYPE_5__ | pos int 
+struct TYPE_6__ | fdset struct TYPE_5__ 
+struct TYPE_7__ | io struct TYPE_6__ 
+function rioFdsetTell int | r struct TYPE_7__ *

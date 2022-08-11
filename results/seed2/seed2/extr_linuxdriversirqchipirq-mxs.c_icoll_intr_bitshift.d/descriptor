@@ -1,0 +1,2 @@
+struct irq_data | hwirq int 
+function icoll_intr_bitshift int | d struct irq_data * | bit int

@@ -1,0 +1,3 @@
+struct mlx5_ib_qp | has_rq int 
+struct ib_qp_init_attr | qp_type long | srq long 
+function get_rx_type int | qp struct mlx5_ib_qp * | attr struct ib_qp_init_attr *

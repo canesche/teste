@@ -1,1 +1,0 @@
-function is_spillable_regtype int | type enum bpf_reg_type

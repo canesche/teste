@@ -1,0 +1,2 @@
+struct ao | format int 
+function set_format int | ao struct ao *

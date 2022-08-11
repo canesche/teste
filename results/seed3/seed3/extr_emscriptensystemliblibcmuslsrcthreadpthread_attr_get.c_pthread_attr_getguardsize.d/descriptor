@@ -1,0 +1,2 @@
+struct TYPE_3__ | _a_guardsize unsigned long 
+function pthread_attr_getguardsize int | a const struct TYPE_3__ *__restrict | size unsigned long *__restrict

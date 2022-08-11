@@ -1,3 +1,0 @@
-struct agp_controller | prev struct agp_controller * | next struct agp_controller * 
-struct TYPE_2__ | controllers struct agp_controller * 
-function agp_insert_controller int | controller struct agp_controller *

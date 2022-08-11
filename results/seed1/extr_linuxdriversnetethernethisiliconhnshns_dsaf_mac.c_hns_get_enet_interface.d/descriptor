@@ -1,2 +1,0 @@
-struct hns_mac_cb | max_speed int | phy_if unsigned long 
-function hns_get_enet_interface enum mac_mode | mac_cb const struct hns_mac_cb *

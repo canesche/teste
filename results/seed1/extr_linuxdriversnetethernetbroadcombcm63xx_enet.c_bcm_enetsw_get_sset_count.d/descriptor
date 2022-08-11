@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function bcm_enetsw_get_sset_count int | netdev struct net_device * | string_set int

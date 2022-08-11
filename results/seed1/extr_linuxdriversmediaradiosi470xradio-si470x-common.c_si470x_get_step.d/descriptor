@@ -1,2 +1,0 @@
-struct si470x_device | registers int * 
-function si470x_get_step unsigned int | radio struct si470x_device *

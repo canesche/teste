@@ -1,0 +1,3 @@
+struct TYPE_5__ | data long 
+struct TYPE_4__ | offset long | size long 
+function __write int | io int * | fd struct TYPE_5__ * | buf const int * | count int

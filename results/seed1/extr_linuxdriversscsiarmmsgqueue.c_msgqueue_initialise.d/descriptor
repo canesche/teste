@@ -1,3 +1,0 @@
-struct TYPE_5__ | entries struct TYPE_4__ * | free struct TYPE_4__ * | qe int * 
-struct TYPE_4__ | next struct TYPE_4__ * 
-function msgqueue_initialise void | msgq struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct ef4_nic | timer_quantum_ns unsigned int 
+function ef4_usecs_to_ticks unsigned int | efx struct ef4_nic * | usecs unsigned int

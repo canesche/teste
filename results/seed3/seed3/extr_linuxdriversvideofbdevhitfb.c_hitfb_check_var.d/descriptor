@@ -1,0 +1,9 @@
+struct TYPE_12__ | length int | offset int 
+struct TYPE_11__ | length int | offset int 
+struct TYPE_10__ | offset int | length int 
+struct TYPE_9__ | offset int | length int 
+struct fb_var_screeninfo | xres int | xres_virtual int | yres int | bits_per_pixel int | yres_virtual int | transp struct TYPE_12__ | blue struct TYPE_11__ | green struct TYPE_10__ | red struct TYPE_9__ | yoffset long | xoffset long 
+struct TYPE_8__ | smem_len int 
+struct TYPE_7__ | xres int | yres int | bits_per_pixel int 
+struct fb_info | fix struct TYPE_8__ | var struct TYPE_7__ 
+function hitfb_check_var int | var struct fb_var_screeninfo * | info struct fb_info *

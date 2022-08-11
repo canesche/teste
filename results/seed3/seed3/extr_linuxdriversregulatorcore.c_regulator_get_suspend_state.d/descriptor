@@ -1,0 +1,4 @@
+struct regulator_state | dummy int 
+struct regulator_dev | constraints struct TYPE_2__ * 
+struct TYPE_2__ | state_disk struct regulator_state | state_mem struct regulator_state | state_standby struct regulator_state 
+function regulator_get_suspend_state struct regulator_state * | rdev struct regulator_dev * | state int

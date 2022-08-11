@@ -1,0 +1,2 @@
+struct sctp_association | need_ecne long 
+function sctp_do_ecn_cwr_work void | asoc struct sctp_association * | lowest_tsn int

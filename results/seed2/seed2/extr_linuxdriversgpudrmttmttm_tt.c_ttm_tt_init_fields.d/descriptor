@@ -1,0 +1,3 @@
+struct ttm_tt | sg int | swap_storage int * | state int | page_flags int | caching_state int | num_pages int | bdev int 
+struct ttm_buffer_object | sg int | num_pages int | bdev int 
+function ttm_tt_init_fields void | ttm struct ttm_tt * | bo struct ttm_buffer_object * | page_flags int

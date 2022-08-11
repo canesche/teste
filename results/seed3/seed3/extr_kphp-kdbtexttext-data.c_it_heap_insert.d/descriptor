@@ -1,0 +1,2 @@
+struct iterator | x int 
+function it_heap_insert void | H struct iterator ** | HN int | cur struct iterator *

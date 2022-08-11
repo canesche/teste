@@ -1,0 +1,2 @@
+struct TYPE_3__ | segment_pending int | count long | segments long | data void ** | write unsigned long 
+function diva_data_q_get_segment4write void * | q struct TYPE_3__ *

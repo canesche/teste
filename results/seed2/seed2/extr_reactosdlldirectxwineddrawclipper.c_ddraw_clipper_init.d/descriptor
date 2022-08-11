@@ -1,0 +1,3 @@
+struct TYPE_2__ | lpVtbl int * 
+struct ddraw_clipper | ref int | IDirectDrawClipper_iface struct TYPE_2__ 
+function ddraw_clipper_init int | clipper struct ddraw_clipper *

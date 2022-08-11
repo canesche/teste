@@ -1,0 +1,3 @@
+struct ab8500_fg_avg_cap | time_stamps long * | samples long * | avg int | sum long | nbr_samples long | pos long 
+struct ab8500_fg | avg_cap struct ab8500_fg_avg_cap 
+function ab8500_fg_clear_cap_samples void | di struct ab8500_fg *

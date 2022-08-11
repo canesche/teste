@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessrealtekrtlwifirtl8192detrx.c__rtl92d_evm_db_to_percentage.d/extr_linuxdriversnetwirelessrealtekrtlwifirtl8192detrx.c__rtl92d_evm_db_to_percentage_O0::_rtl92d_evm_db_to_percentage(62)"
+  }
+]

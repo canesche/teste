@@ -1,3 +1,0 @@
-struct kvm_vcpu | dummy int 
-struct kvm_mmu | direct_map int | nx int | shadow_root_level int | root_level long | update_pte int | invlpg int | sync_page int | gva_to_gpa int | page_fault int 
-function nonpaging_init_context void | vcpu struct kvm_vcpu * | context struct kvm_mmu *

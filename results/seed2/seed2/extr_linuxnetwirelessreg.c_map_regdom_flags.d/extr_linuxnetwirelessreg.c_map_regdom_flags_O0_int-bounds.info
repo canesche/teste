@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 9,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxnetwirelessreg.c_map_regdom_flags.d/extr_linuxnetwirelessreg.c_map_regdom_flags_O0::map_regdom_flags(79)"
+  }
+]

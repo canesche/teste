@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversiioadcqcom-spmi-vadc.c_vadc_hw_settle_time_from_dt.d/extr_linuxdriversiioadcqcom-spmi-vadc.c_vadc_hw_settle_time_from_dt_O0::vadc_hw_settle_time_from_dt(62)"
+  }
+]

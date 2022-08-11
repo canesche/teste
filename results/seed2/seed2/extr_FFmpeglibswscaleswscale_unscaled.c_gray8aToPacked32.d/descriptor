@@ -1,0 +1,1 @@
+function gray8aToPacked32 void | src const unsigned long * | dst unsigned long * | num_pixels int | palette const unsigned long *

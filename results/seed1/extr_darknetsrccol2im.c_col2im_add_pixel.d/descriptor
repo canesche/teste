@@ -1,1 +1,0 @@
-function col2im_add_pixel void | im float * | height int | width int | channels int | row int | col int | channel int | pad int | val float

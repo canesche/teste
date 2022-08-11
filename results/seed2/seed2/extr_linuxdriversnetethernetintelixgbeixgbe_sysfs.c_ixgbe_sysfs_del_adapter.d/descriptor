@@ -1,0 +1,2 @@
+struct ixgbe_adapter | dummy int 
+function ixgbe_sysfs_del_adapter void | adapter struct ixgbe_adapter *

@@ -1,2 +1,0 @@
-struct adf_hw_device_data | dummy int 
-function get_num_aes int | self struct adf_hw_device_data *

@@ -1,0 +1,1 @@
+function lowpass_line_c void | dstp int * | width int | srcp const int * | mref int | pref int | clip_max int

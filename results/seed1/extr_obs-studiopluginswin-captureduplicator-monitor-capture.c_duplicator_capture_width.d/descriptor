@@ -1,2 +1,0 @@
-struct duplicator_capture | rot int | height int | width int 
-function duplicator_capture_width int | data void *

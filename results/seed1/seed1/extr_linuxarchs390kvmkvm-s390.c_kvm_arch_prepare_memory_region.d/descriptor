@@ -1,0 +1,5 @@
+struct kvm_userspace_memory_region | userspace_addr int | memory_size int | guest_phys_addr long 
+struct kvm_memory_slot | dummy int 
+struct TYPE_2__ | mem_limit long 
+struct kvm | arch struct TYPE_2__ 
+function kvm_arch_prepare_memory_region int | kvm struct kvm * | memslot struct kvm_memory_slot * | mem const struct kvm_userspace_memory_region * | change enum kvm_mr_change

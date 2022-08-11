@@ -1,2 +1,0 @@
-struct pnfs_layout_segment | dummy int 
-function pnfs_lseg_no_merge int | lseg struct pnfs_layout_segment * | old struct pnfs_layout_segment *

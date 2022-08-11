@@ -1,0 +1,2 @@
+struct ipmi_addr | addr_type long 
+function is_lan_addr int | addr struct ipmi_addr *

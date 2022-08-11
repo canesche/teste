@@ -1,0 +1,1 @@
+function spiffs_hash int | fs int * | name const int *

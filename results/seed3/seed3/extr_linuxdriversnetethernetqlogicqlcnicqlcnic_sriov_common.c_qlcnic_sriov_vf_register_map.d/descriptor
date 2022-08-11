@@ -1,0 +1,2 @@
+struct qlcnic_hardware_context | ext_reg_tbl int * | reg_tbl int * | hw_ops int * 
+function qlcnic_sriov_vf_register_map void | ahw struct qlcnic_hardware_context *

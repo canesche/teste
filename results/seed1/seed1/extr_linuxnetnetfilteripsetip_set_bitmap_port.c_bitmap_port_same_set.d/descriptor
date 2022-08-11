@@ -1,0 +1,3 @@
+struct ip_set | timeout long | extensions long | data struct bitmap_port * 
+struct bitmap_port | first_port long | last_port long 
+function bitmap_port_same_set int | a const struct ip_set * | b const struct ip_set *

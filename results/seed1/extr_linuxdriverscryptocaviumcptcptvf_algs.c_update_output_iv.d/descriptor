@@ -1,3 +1,0 @@
-struct cpt_request_info | rlen int | out struct TYPE_2__ * 
-struct TYPE_2__ | size unsigned long | vptr void * 
-function update_output_iv void | req_info struct cpt_request_info * | iv int * | enc_iv_len unsigned long | argcnt unsigned long *

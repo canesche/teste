@@ -1,3 +1,0 @@
-struct TYPE_4__ | Read int 
-struct TYPE_5__ | vt struct TYPE_4__ 
-function SecToRead_CreateVTable void | p struct TYPE_5__ *

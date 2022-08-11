@@ -1,0 +1,2 @@
+struct bridge_softc | sc_flags int 
+function bridge_in_bsd_mode int | sc const struct bridge_softc *

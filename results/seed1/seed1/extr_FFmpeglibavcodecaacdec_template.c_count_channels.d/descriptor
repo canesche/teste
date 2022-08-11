@@ -1,0 +1,1 @@
+function count_channels int | layout int (*)[3] | tags int

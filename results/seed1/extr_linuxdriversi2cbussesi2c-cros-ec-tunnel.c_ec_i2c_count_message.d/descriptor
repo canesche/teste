@@ -1,4 +1,0 @@
-struct i2c_msg | flags int | len long 
-struct ec_params_i2c_passthru_msg | dummy int 
-struct ec_params_i2c_passthru | dummy int 
-function ec_i2c_count_message int | i2c_msgs struct i2c_msg const[] | num int

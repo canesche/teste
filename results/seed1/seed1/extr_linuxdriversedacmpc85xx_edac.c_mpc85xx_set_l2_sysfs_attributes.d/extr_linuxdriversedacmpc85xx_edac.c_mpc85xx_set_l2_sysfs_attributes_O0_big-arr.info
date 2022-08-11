@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversedacmpc85xx_edac.c_mpc85xx_set_l2_sysfs_attributes.d/extr_linuxdriversedacmpc85xx_edac.c_mpc85xx_set_l2_sysfs_attributes_O0::mpc85xx_set_l2_sysfs_attributes(63)"
+  }
+]

@@ -1,0 +1,1 @@
+function ff_mjpeg_build_huffman_codes void | huff_size int * | huff_code int * | bits_table const int * | val_table const int *

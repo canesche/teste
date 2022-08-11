@@ -1,0 +1,2 @@
+struct bpf_insn | code long | imm long 
+function probe_prog_length unsigned long | fp const struct bpf_insn *

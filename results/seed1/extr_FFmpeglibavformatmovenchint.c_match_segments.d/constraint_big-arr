@@ -1,1 +1,0 @@
-value(h_len) == 255, value(n_pos) == 255, value(n_len) == 255, length(haystack) == 65025, length(needle) == 65025, length(match_h_offset_ptr) == 65025, length(match_n_offset_ptr) == 65025, length(match_len_ptr) == 65025

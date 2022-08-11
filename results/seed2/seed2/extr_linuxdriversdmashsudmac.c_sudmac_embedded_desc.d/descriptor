@@ -1,0 +1,3 @@
+struct shdma_desc | dummy int 
+struct sudmac_desc | shdma_desc struct shdma_desc 
+function sudmac_embedded_desc struct shdma_desc * | buf void * | i int

@@ -1,0 +1,3 @@
+struct TYPE_2__ | mem_usage int 
+struct image_source | if2 struct TYPE_2__ 
+function image_source_get_memory_usage int | data void *

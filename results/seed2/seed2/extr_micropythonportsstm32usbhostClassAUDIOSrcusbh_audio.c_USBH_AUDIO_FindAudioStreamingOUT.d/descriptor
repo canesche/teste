@@ -1,0 +1,9 @@
+struct TYPE_13__ | Itf_Desc struct TYPE_12__ * 
+struct TYPE_14__ | CfgDesc struct TYPE_13__ 
+struct TYPE_16__ | device struct TYPE_14__ | pActiveClass struct TYPE_10__ * 
+struct TYPE_17__ | stream_out struct TYPE_15__ * 
+struct TYPE_15__ | Ep int | EpSize long | valid int | Poll int | AltSettings int | interface int 
+struct TYPE_12__ | bInterfaceClass long | bInterfaceSubClass long | Ep_Desc struct TYPE_11__ * | bAlternateSetting int | bInterfaceNumber int 
+struct TYPE_11__ | bEndpointAddress int | wMaxPacketSize long | bInterval int 
+struct TYPE_10__ | pData struct TYPE_17__ * 
+function USBH_AUDIO_FindAudioStreamingOUT int | phost struct TYPE_16__ *

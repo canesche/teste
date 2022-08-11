@@ -1,0 +1,2 @@
+struct TYPE_3__ | size int | sndChunk long 
+function decodeMuLaw void | chunk struct TYPE_3__ * | to short *

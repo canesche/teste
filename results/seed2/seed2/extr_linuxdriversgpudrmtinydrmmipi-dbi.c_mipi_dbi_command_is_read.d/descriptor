@@ -1,0 +1,2 @@
+struct mipi_dbi | read_commands long * 
+function mipi_dbi_command_is_read int | mipi struct mipi_dbi * | cmd long

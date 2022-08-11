@@ -1,0 +1,2 @@
+struct uart_port | type long 
+function digicolor_uart_type const char * | port struct uart_port *

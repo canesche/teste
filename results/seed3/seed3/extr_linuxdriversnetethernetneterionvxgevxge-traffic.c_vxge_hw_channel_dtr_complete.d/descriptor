@@ -1,0 +1,3 @@
+struct __vxge_hw_channel | compl_index unsigned long | length unsigned long | stats struct TYPE_2__ * | work_arr int ** 
+struct TYPE_2__ | total_compl_cnt int 
+function vxge_hw_channel_dtr_complete void | channel struct __vxge_hw_channel *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxsoundpciemu10k1p16v.c_snd_p16v_volume_info.d/extr_linuxsoundpciemu10k1p16v.c_snd_p16v_volume_info_O0::snd_p16v_volume_info(68)"
+  }
+]

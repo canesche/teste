@@ -1,0 +1,3 @@
+struct TYPE_2__ | rate_bytes_ps int 
+struct tbf_sched_data | peak struct TYPE_2__ 
+function tbf_peak_present int | q const struct tbf_sched_data *

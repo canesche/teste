@@ -1,0 +1,2 @@
+struct TYPE_3__ | mnt_lflag int 
+function vnode_iterate_clear void | mp struct TYPE_3__ *

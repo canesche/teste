@@ -1,0 +1,3 @@
+struct klist_node | n_klist long 
+struct klist | dummy int 
+function knode_klist struct klist * | knode struct klist_node *

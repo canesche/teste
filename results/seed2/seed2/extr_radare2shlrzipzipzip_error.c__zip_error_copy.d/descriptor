@@ -1,0 +1,2 @@
+struct zip_error | sys_err int | zip_err int 
+function _zip_error_copy void | dst struct zip_error * | src const struct zip_error *

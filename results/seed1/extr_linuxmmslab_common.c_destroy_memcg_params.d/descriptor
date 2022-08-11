@@ -1,2 +1,0 @@
-struct kmem_cache | dummy int 
-function destroy_memcg_params void | s struct kmem_cache *

@@ -1,0 +1,2 @@
+struct message_header | present int 
+function get_present2 int | p void *

@@ -1,1 +1,0 @@
-function Crc32Next int | buf void * | pos int | len int | last_crc32 int

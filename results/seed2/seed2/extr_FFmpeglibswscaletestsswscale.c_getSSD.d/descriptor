@@ -1,0 +1,1 @@
+function getSSD int | src1 const int * | src2 const int * | stride1 int | stride2 int | w int | h int

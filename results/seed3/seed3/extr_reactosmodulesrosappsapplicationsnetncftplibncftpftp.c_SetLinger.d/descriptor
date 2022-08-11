@@ -1,0 +1,2 @@
+struct TYPE_3__ | errNo int 
+function SetLinger int | cip struct TYPE_3__ *const | sockfd int | onoff int

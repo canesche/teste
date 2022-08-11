@@ -1,0 +1,2 @@
+struct stack | limit long | bound int | mem_end long 
+function stack_init void | s struct stack *

@@ -1,3 +1,0 @@
-struct TYPE_2__ | mfc_control_RW int | spu_lslr_RW int 
-struct spu_state | priv2 struct TYPE_2__ 
-function init_priv2 void | csa struct spu_state *

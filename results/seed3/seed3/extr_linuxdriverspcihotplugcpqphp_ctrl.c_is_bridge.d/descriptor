@@ -1,0 +1,2 @@
+struct pci_func | config_space int * 
+function is_bridge int | func struct pci_func *

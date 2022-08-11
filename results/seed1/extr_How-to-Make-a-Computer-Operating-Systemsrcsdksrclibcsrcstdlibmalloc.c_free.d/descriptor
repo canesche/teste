@@ -1,2 +1,0 @@
-struct malloc_header | size int | used long 
-function free void | v_addr void *

@@ -1,2 +1,0 @@
-struct scsi_device | dummy int 
-function scsi_dh_add_device void | sdev struct scsi_device *

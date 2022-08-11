@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 46,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_FFmpeglibavfilteraf_superequalizer.c_process_param.d/extr_FFmpeglibavfilteraf_superequalizer.c_process_param_O0::process_param(65)"
+  }
+]

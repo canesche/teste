@@ -1,2 +1,0 @@
-struct l2tp_session | priv void * 
-function l2tp_session_priv void * | session struct l2tp_session *

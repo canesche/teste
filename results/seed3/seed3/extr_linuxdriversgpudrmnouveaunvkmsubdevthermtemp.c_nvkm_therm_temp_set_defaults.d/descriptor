@@ -1,0 +1,7 @@
+struct TYPE_9__ | temp int | hysteresis int 
+struct TYPE_8__ | temp int | hysteresis int 
+struct TYPE_7__ | temp int | hysteresis int 
+struct TYPE_6__ | temp int | hysteresis int 
+struct TYPE_10__ | thrs_shutdown struct TYPE_9__ | thrs_critical struct TYPE_8__ | thrs_down_clock struct TYPE_7__ | thrs_fan_boost struct TYPE_6__ | offset_constant long 
+struct nvkm_therm | bios_sensor struct TYPE_10__ 
+function nvkm_therm_temp_set_defaults void | therm struct nvkm_therm *

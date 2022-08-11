@@ -1,0 +1,2 @@
+struct mm_struct | dummy int 
+function do_migrate_pages int | mm struct mm_struct * | from const int * | to const int * | flags int

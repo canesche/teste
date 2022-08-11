@@ -1,0 +1,2 @@
+struct xfs_sb | sb_blocklog int | sb_dirblklog int 
+function xfs_dir2_dirblock_bytes unsigned int | sbp struct xfs_sb *

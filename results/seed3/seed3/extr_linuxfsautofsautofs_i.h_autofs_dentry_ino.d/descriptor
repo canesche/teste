@@ -1,0 +1,3 @@
+struct dentry | d_fsdata long 
+struct autofs_info | dummy int 
+function autofs_dentry_ino struct autofs_info * | dentry struct dentry *

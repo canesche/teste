@@ -1,0 +1,2 @@
+struct omap_vout_device | rotation int | mirror int 
+function calc_rotation int | vout const struct omap_vout_device *

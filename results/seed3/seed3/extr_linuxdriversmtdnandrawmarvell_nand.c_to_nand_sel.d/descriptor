@@ -1,0 +1,3 @@
+struct marvell_nand_chip_sel | dummy int 
+struct marvell_nand_chip | selected_die unsigned long | sels struct marvell_nand_chip_sel * 
+function to_nand_sel struct marvell_nand_chip_sel * | nand struct marvell_nand_chip *

@@ -1,4 +1,0 @@
-struct resource_pool | audio_count int | audios struct audio ** 
-struct resource_context | is_audio_acquired int * | is_stream_enc_acquired int * 
-struct audio | dummy int 
-function find_first_free_audio struct audio * | res_ctx struct resource_context * | pool const struct resource_pool * | id enum engine_id

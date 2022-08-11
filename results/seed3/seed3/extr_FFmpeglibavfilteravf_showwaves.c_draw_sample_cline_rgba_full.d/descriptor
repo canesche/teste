@@ -1,0 +1,1 @@
+function draw_sample_cline_rgba_full void | buf int * | height int | linesize int | prev_y int * | color int const[4] | h int

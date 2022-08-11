@@ -1,0 +1,2 @@
+struct pci_dev | dev_flags int 
+function quirk_intel_no_flr void | dev struct pci_dev *

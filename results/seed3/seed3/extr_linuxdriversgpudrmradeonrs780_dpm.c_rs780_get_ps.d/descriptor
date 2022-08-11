@@ -1,0 +1,3 @@
+struct radeon_ps | ps_priv struct igp_ps * 
+struct igp_ps | dummy int 
+function rs780_get_ps struct igp_ps * | rps struct radeon_ps *

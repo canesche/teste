@@ -1,0 +1,4 @@
+struct TYPE_6__ | f struct TYPE_5__ * 
+struct TYPE_7__ | dc_val int ** | b8_stride int | mb_stride int | cur_pic struct TYPE_6__ 
+struct TYPE_5__ | linesize int * 
+function put_dc void | s struct TYPE_7__ * | dest_y int * | dest_cb int * | dest_cr int * | mb_x int | mb_y int

@@ -1,0 +1,2 @@
+struct rtsx_ucr | cmd_idx int | cmd_buf int * 
+function rtsx_usb_add_cmd void | ucr struct rtsx_ucr * | cmd_type int | reg_addr int | mask int | data int

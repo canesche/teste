@@ -1,0 +1,4 @@
+struct ddraw | dummy int 
+struct TYPE_2__ | lpVtbl int * 
+struct d3d_light | ref int | ddraw struct ddraw * | IDirect3DLight_iface struct TYPE_2__ 
+function d3d_light_init void | light struct d3d_light * | ddraw struct ddraw *

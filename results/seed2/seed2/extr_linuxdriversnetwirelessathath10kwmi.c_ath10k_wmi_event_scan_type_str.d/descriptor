@@ -1,0 +1,1 @@
+function ath10k_wmi_event_scan_type_str const char * | type enum wmi_scan_event_type | reason enum wmi_scan_completion_reason

@@ -1,0 +1,2 @@
+struct mbuf | m_len unsigned int | m_next struct mbuf * 
+function m_length2 unsigned int | m0 struct mbuf * | last struct mbuf **

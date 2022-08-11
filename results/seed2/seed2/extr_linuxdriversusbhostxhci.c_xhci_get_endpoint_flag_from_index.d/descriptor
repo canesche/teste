@@ -1,0 +1,1 @@
+function xhci_get_endpoint_flag_from_index unsigned int | ep_index unsigned int

@@ -1,3 +1,0 @@
-struct TYPE_5__ | tail struct TYPE_6__ * | head struct TYPE_6__ * 
-struct TYPE_6__ | next struct TYPE_6__ * 
-function sei_message_append void | sei struct TYPE_5__ * | msg struct TYPE_6__ *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmdraid5.c_stripe_hash_locks_hash.d/extr_linuxdriversmdraid5.c_stripe_hash_locks_hash_O0::stripe_hash_locks_hash(63)"
+  }
+]

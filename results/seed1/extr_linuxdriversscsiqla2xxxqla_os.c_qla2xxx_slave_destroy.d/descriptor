@@ -1,2 +1,0 @@
-struct scsi_device | hostdata int * 
-function qla2xxx_slave_destroy void | sdev struct scsi_device *

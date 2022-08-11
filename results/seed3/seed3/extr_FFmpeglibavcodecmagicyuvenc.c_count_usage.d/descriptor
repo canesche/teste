@@ -1,0 +1,2 @@
+struct TYPE_3__ | prob int 
+function count_usage void | src unsigned long * | width int | height int | counts struct TYPE_3__ *

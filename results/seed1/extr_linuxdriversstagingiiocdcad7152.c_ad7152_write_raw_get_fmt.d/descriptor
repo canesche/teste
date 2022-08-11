@@ -1,3 +1,0 @@
-struct iio_dev | dummy int 
-struct iio_chan_spec | dummy int 
-function ad7152_write_raw_get_fmt int | indio_dev struct iio_dev * | chan const struct iio_chan_spec * | mask long

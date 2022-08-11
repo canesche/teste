@@ -1,2 +1,0 @@
-struct net_bridge_port | dummy int 
-function br_sysfs_addif int | p struct net_bridge_port *

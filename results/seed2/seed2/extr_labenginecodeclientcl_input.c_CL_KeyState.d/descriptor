@@ -1,0 +1,2 @@
+struct TYPE_3__ | msec int | downtime void * | active long 
+function CL_KeyState float | key struct TYPE_3__ *

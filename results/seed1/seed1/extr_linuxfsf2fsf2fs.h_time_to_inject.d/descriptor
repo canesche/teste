@@ -1,0 +1,2 @@
+struct f2fs_sb_info | dummy int 
+function time_to_inject int | sbi struct f2fs_sb_info * | type int

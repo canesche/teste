@@ -1,2 +1,0 @@
-struct vxge_hw_ring_rxd_1 | host_control long 
-function vxge_hw_ring_rxd_private_get void * | rxdh void *

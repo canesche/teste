@@ -1,2 +1,0 @@
-struct sctp_transport | state int 
-function sctp_trans_score int | trans const struct sctp_transport *

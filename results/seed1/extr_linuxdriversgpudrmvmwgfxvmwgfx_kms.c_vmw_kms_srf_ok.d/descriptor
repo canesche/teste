@@ -1,2 +1,0 @@
-struct vmw_private | texture_max_width long | texture_max_height long 
-function vmw_kms_srf_ok int | dev_priv struct vmw_private * | width long | height long

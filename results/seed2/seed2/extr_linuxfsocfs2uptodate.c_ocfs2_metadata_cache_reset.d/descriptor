@@ -1,0 +1,2 @@
+struct ocfs2_caching_info | ci_last_trans long | ci_created_trans long | ci_num_cached long | ci_flags int 
+function ocfs2_metadata_cache_reset void | ci struct ocfs2_caching_info * | clear int

@@ -1,0 +1,2 @@
+struct bpf_map | map_flags int 
+function stack_map_use_build_id int | map struct bpf_map *

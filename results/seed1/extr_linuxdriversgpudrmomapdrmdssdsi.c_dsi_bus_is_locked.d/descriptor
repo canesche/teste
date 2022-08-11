@@ -1,3 +1,0 @@
-struct TYPE_2__ | count long 
-struct dsi_data | bus_lock struct TYPE_2__ 
-function dsi_bus_is_locked int | dsi struct dsi_data *

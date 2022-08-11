@@ -1,2 +1,0 @@
-struct scsi_device | sector_size int 
-function scu_bg_blk_size int | sdp struct scsi_device *

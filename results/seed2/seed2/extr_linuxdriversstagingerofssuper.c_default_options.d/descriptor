@@ -1,0 +1,2 @@
+struct erofs_sb_info | dummy int 
+function default_options void | sbi struct erofs_sb_info *

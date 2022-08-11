@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5122,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxnetdecnetdn_neigh.c_dn_find_slot.d/extr_linuxnetdecnetdn_neigh.c_dn_find_slot_O0::dn_find_slot(60)"
+  }
+]

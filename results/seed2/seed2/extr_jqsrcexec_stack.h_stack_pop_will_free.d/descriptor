@@ -1,0 +1,2 @@
+struct stack | limit long 
+function stack_pop_will_free int | s struct stack * | p long

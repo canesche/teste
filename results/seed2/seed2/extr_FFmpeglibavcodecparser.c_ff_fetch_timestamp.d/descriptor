@@ -1,0 +1,2 @@
+struct TYPE_3__ | dts long | pts long | pos int | offset long | cur_offset long | cur_frame_offset long * | frame_offset long | next_frame_offset long | cur_frame_end long * | cur_frame_dts long * | cur_frame_pts long * | cur_frame_pos int * 
+function ff_fetch_timestamp void | s struct TYPE_3__ * | off int | remove int | fuzzy int

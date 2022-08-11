@@ -1,0 +1,3 @@
+struct rza1_swio_pin | port unsigned int | pin unsigned int | func unsigned int | input int 
+struct rza1_swio_entry | npins unsigned int | pins struct rza1_swio_pin * 
+function rza1_pinmux_get_swio int | port unsigned int | pin unsigned int | func unsigned int | table const struct rza1_swio_entry *

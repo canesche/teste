@@ -1,0 +1,3 @@
+struct igb_ring_container | count int | ring struct igb_ring * 
+struct igb_ring | dummy int 
+function igb_add_ring void | ring struct igb_ring * | head struct igb_ring_container *

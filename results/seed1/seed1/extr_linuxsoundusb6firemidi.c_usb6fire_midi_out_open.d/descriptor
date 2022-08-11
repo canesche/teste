@@ -1,0 +1,2 @@
+struct snd_rawmidi_substream | dummy int 
+function usb6fire_midi_out_open int | alsa_sub struct snd_rawmidi_substream *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_php-srcextmbstringlibmbflfiltersmbfilter_tl_jisx0201_jisx0208.c_mbfl_filt_tl_jisx0201_jisx0208_cleanup.d/extr_php-srcextmbstringlibmbflfiltersmbfilter_tl_jisx0201_jisx0208.c_mbfl_filt_tl_jisx0201_jisx0208_cleanup_O0::mbfl_filt_tl_jisx0201_jisx0208_cleanup(62)"
+  }
+]

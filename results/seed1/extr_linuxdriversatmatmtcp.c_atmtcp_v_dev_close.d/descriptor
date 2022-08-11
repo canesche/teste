@@ -1,2 +1,0 @@
-struct atm_dev | dummy int 
-function atmtcp_v_dev_close void | dev struct atm_dev *

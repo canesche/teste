@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversclkat91clk-smd.c_at91sam9x5_clk_smd_round_rate.d/extr_linuxdriversclkat91clk-smd.c_at91sam9x5_clk_smd_round_rate_O0::at91sam9x5_clk_smd_round_rate(63)"
+  }
+]

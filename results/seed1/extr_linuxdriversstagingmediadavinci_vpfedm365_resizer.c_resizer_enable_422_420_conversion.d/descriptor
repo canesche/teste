@@ -1,3 +1,0 @@
-struct resizer_params | rsz_rsc_param struct TYPE_2__ * 
-struct TYPE_2__ | cen int | yen int 
-function resizer_enable_422_420_conversion void | param struct resizer_params * | index int | en int

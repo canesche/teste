@@ -1,0 +1,2 @@
+struct TYPE_3__ | max unsigned long | data unsigned long * | count int 
+function stats_correct void | stats struct TYPE_3__ * | expected int

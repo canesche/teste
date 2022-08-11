@@ -1,3 +1,0 @@
-struct kv_ps | dummy int 
-struct amdgpu_ps | ps_priv struct kv_ps * 
-function kv_get_ps struct kv_ps * | rps struct amdgpu_ps *

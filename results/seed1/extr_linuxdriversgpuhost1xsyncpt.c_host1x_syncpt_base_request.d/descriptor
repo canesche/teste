@@ -1,4 +1,0 @@
-struct host1x_syncpt_base | requested int 
-struct host1x | info struct TYPE_2__ * | bases struct host1x_syncpt_base * 
-struct TYPE_2__ | nb_bases unsigned int 
-function host1x_syncpt_base_request struct host1x_syncpt_base * | host struct host1x *

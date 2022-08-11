@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_obs-studiopluginsobs-filtersnoise-gate-filter.c_ms_to_secf.d/extr_obs-studiopluginsobs-filtersnoise-gate-filter.c_ms_to_secf_O0::ms_to_secf(60)"
+  }
+]

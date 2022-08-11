@@ -1,0 +1,2 @@
+struct ref | next int * | valid long 
+function invalidate_refs int | data void * | ref_ void *

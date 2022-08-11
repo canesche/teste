@@ -1,0 +1,4 @@
+struct view | table struct TYPE_4__ * 
+struct TYPE_4__ | num_cols unsigned long | columns struct TYPE_3__ * 
+struct TYPE_3__ | type int 
+function count_key_columns unsigned long | view const struct view *

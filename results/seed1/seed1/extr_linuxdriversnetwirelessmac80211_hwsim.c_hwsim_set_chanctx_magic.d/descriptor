@@ -1,0 +1,3 @@
+struct ieee80211_chanctx_conf | drv_priv long 
+struct hwsim_chanctx_priv | magic int 
+function hwsim_set_chanctx_magic void | c struct ieee80211_chanctx_conf *

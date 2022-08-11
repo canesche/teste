@@ -1,0 +1,2 @@
+struct dist_t | from long | to long 
+function find_dist int | a const struct dist_t * | b const struct dist_t *

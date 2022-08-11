@@ -1,3 +1,0 @@
-struct acpi_processor | dummy int 
-struct acpi_device | dummy int 
-function acpi_pss_perf_exit void | pr struct acpi_processor * | device struct acpi_device *

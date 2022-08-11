@@ -1,0 +1,2 @@
+struct d3dx_const_param_eval_output | table long | register_index int 
+function compare_const_set int | a const void * | b const void *

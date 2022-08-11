@@ -1,0 +1,2 @@
+struct item | rates_len int | rates long * 
+function get_hash_item_unsafe long long | I const struct item *

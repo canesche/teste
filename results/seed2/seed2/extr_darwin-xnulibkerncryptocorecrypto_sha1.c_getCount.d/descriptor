@@ -1,0 +1,3 @@
+struct TYPE_4__ | b64 int * 
+struct TYPE_5__ | c struct TYPE_4__ 
+function getCount int | ctx struct TYPE_5__ *

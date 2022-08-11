@@ -1,2 +1,0 @@
-struct intel_uc_fw | path int * 
-function intel_uc_fw_is_selected int | uc_fw struct intel_uc_fw *

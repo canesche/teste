@@ -1,0 +1,3 @@
+struct obs_hotkey_internal_find_pair_forward | id long | idx unsigned long | found int 
+struct TYPE_3__ | pair_id long 
+function find_pair_id_helper int | idx unsigned long | pair struct TYPE_3__ * | data void *

@@ -1,2 +1,0 @@
-struct md5 | h int * | len long 
-function md5_init void | s struct md5 *

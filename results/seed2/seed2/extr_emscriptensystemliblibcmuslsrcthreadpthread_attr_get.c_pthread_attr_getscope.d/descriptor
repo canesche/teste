@@ -1,0 +1,1 @@
+function pthread_attr_getscope int | a const int *__restrict | scope int *__restrict

@@ -1,0 +1,3 @@
+struct be_res_desc_hdr | desc_type long | desc_len int 
+struct be_port_res_desc | dummy int 
+function be_get_port_desc struct be_port_res_desc * | buf int * | desc_count int

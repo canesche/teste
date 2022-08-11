@@ -1,0 +1,5 @@
+struct TYPE_8__ | chip_info struct TYPE_7__ * 
+struct TYPE_6__ | lvds_chip_name long 
+struct TYPE_5__ | tmds_chip_name long 
+struct TYPE_7__ | lvds_chip_info struct TYPE_6__ | tmds_chip_info struct TYPE_5__ 
+function viafb_get_device_support_state void | support_state int *

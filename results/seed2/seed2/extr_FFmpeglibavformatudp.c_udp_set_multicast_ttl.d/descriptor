@@ -1,0 +1,2 @@
+struct sockaddr | dummy int 
+function udp_set_multicast_ttl int | sockfd int | mcastTTL int | addr struct sockaddr *

@@ -1,0 +1,2 @@
+struct acpi_resource_gpio | pin_config long | io_restriction int 
+function acpi_gpio_to_gpiod_flags enum gpiod_flags | agpio const struct acpi_resource_gpio *

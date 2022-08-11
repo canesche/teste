@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function rtl8192_data_hard_stop void | dev struct net_device *

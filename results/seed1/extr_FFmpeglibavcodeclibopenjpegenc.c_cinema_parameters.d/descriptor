@@ -1,2 +1,0 @@
-struct TYPE_3__ | cp_tdx int | cp_tdy int | tp_flag char | tp_on int | cblockw_init int | cblockh_init int | csty int | roi_compno int | subsampling_dx int | subsampling_dy int | irreversible int | tcp_mct int | prog_order int | image_offset_y0 long | image_offset_x0 long | cp_ty0 long | cp_tx0 long | tile_size_on long 
-function cinema_parameters void | p struct TYPE_3__ *

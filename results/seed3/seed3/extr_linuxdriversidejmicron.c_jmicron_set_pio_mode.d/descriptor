@@ -1,0 +1,1 @@
+function jmicron_set_pio_mode void | hwif int * | drive int *

@@ -1,0 +1,2 @@
+struct notifier_block | dummy int 
+function lasat_panic_display int | this struct notifier_block * | event unsigned long | ptr void *

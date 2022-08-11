@@ -1,1 +1,0 @@
-length(freeFunc) == 100, length(mallocFunc) == 100, length(reallocFunc) == 100, length(strdupFunc) == 100

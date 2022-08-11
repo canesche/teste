@@ -1,0 +1,2 @@
+struct ath10k | dummy int 
+function ath10k_wmi_tlv_iter_parse int | ar struct ath10k * | tag unsigned long | len unsigned long | ptr const void * | data void *

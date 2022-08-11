@@ -1,0 +1,2 @@
+struct device | of_node const void * 
+function fpga_bridge_of_node_match int | dev struct device * | data const void *

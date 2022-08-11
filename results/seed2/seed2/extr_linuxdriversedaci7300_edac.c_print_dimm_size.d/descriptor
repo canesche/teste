@@ -1,0 +1,2 @@
+struct i7300_pvt | dummy int 
+function print_dimm_size void | pvt struct i7300_pvt *

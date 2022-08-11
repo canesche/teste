@@ -1,3 +1,0 @@
-struct nvme_nvm_id20_addrf | grp_len unsigned long long | pu_len unsigned long long | chk_len unsigned long long | lba_len unsigned long long 
-struct nvm_addrf | ch_len unsigned long long | lun_len unsigned long long | chk_len unsigned long long | sec_len unsigned long long | sec_offset unsigned long long | chk_offset unsigned long long | lun_offset unsigned long long | ch_offset unsigned long long | ch_mask unsigned long long | lun_mask unsigned long long | chk_mask unsigned long long | sec_mask unsigned long long 
-function nvme_nvm_set_addr_20 void | dst struct nvm_addrf * | src struct nvme_nvm_id20_addrf *

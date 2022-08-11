@@ -1,2 +1,0 @@
-struct tipc_link | peer_bearer_id int | bearer_id int 
-function tipc_link_id int | l struct tipc_link *

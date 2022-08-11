@@ -1,2 +1,0 @@
-struct hfi1_ctxtdata | rcvhdrtail_kvaddr long 
-function clear_rcvhdrtail void | rcd const struct hfi1_ctxtdata *

@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function befs_dump_inode void | sb const struct super_block * | inode int *

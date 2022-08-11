@@ -1,0 +1,3 @@
+struct lua_obs_timer | dummy int 
+struct lua_obs_callback | dummy int 
+function lua_obs_timer_cb struct lua_obs_callback * | timer struct lua_obs_timer *

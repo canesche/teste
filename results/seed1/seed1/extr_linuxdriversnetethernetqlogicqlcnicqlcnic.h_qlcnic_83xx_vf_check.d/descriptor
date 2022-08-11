@@ -1,0 +1,3 @@
+struct qlcnic_adapter | pdev struct TYPE_2__ * 
+struct TYPE_2__ | device unsigned short 
+function qlcnic_83xx_vf_check int | adapter struct qlcnic_adapter *

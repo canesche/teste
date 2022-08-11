@@ -1,0 +1,3 @@
+struct sock | sk_user_data struct fou * 
+struct fou | dummy int 
+function fou_from_sock struct fou * | sk struct sock *

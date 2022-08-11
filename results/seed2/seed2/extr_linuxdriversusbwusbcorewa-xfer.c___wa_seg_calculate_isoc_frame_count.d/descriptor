@@ -1,0 +1,5 @@
+struct wa_xfer | seg_size long | is_inbound long | wa struct TYPE_4__ * | urb struct TYPE_3__ * 
+struct usb_iso_packet_descriptor | length long | offset long 
+struct TYPE_4__ | quirks int 
+struct TYPE_3__ | number_of_packets int | iso_frame_desc struct usb_iso_packet_descriptor * 
+function __wa_seg_calculate_isoc_frame_count int | xfer struct wa_xfer * | isoc_frame_offset int | total_size int *

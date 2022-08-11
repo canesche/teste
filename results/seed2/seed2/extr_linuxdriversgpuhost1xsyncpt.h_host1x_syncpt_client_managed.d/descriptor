@@ -1,0 +1,2 @@
+struct host1x_syncpt | client_managed int 
+function host1x_syncpt_client_managed int | sp struct host1x_syncpt *

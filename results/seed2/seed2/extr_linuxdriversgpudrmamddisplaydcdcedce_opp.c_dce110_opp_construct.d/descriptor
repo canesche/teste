@@ -1,0 +1,7 @@
+struct dce_opp_shift | dummy int 
+struct dce_opp_registers | dummy int 
+struct dce_opp_mask | dummy int 
+struct TYPE_2__ | inst int | ctx struct dc_context * | funcs int * 
+struct dce110_opp | opp_mask const struct dce_opp_mask * | opp_shift const struct dce_opp_shift * | regs const struct dce_opp_registers * | base struct TYPE_2__ 
+struct dc_context | dummy int 
+function dce110_opp_construct void | opp110 struct dce110_opp * | ctx struct dc_context * | inst int | regs const struct dce_opp_registers * | opp_shift const struct dce_opp_shift * | opp_mask const struct dce_opp_mask *

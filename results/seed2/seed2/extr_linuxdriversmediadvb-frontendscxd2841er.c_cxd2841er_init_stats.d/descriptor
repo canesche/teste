@@ -1,0 +1,13 @@
+struct TYPE_11__ | len int | stat struct TYPE_20__ * 
+struct TYPE_19__ | len int | stat struct TYPE_18__ * 
+struct TYPE_17__ | len int | stat struct TYPE_16__ * 
+struct TYPE_15__ | len int | stat struct TYPE_14__ * 
+struct TYPE_13__ | len int | stat struct TYPE_12__ * 
+struct dtv_frontend_properties | post_bit_count struct TYPE_11__ | post_bit_error struct TYPE_19__ | block_error struct TYPE_17__ | cnr struct TYPE_15__ | strength struct TYPE_13__ 
+struct dvb_frontend | dtv_property_cache struct dtv_frontend_properties 
+struct TYPE_20__ | scale void * 
+struct TYPE_18__ | scale void * 
+struct TYPE_16__ | scale void * 
+struct TYPE_14__ | scale void * 
+struct TYPE_12__ | scale int 
+function cxd2841er_init_stats void | fe struct dvb_frontend *

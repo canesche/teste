@@ -1,0 +1,3 @@
+struct ath10k_pci | dummy int 
+struct ath10k | drv_priv long 
+function ath10k_pci_priv struct ath10k_pci * | ar struct ath10k *

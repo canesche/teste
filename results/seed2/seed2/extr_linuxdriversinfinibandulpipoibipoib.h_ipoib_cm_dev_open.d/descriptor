@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function ipoib_cm_dev_open int | dev struct net_device *

@@ -1,0 +1,2 @@
+struct ef4_tx_queue | insert_count unsigned int | ptr_mask unsigned int 
+function ef4_tx_queue_get_insert_index unsigned int | tx_queue const struct ef4_tx_queue *

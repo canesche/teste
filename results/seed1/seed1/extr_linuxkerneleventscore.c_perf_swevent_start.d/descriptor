@@ -1,0 +1,3 @@
+struct TYPE_2__ | state long 
+struct perf_event | hw struct TYPE_2__ 
+function perf_swevent_start void | event struct perf_event * | flags int

@@ -1,0 +1,2 @@
+struct vhost_dev | mm int 
+function vhost_dev_has_owner int | dev struct vhost_dev *

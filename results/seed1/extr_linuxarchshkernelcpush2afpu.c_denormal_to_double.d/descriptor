@@ -1,2 +1,0 @@
-struct sh_fpu_hard_struct | fpul unsigned long | fp_regs unsigned long * 
-function denormal_to_double void | fpu struct sh_fpu_hard_struct * | n int

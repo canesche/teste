@@ -1,0 +1,2 @@
+struct wined3d_gl_info | quirks int | supported long * 
+function use_nv_clip int | gl_info const struct wined3d_gl_info *

@@ -1,0 +1,2 @@
+struct SRFBandMap | m_RF_max long 
+function SearchMap4 int | Map struct SRFBandMap [] | Frequency long | pRFBand int *

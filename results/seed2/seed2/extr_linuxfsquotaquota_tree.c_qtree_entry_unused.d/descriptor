@@ -1,0 +1,2 @@
+struct qtree_mem_dqinfo | dqi_entry_size int 
+function qtree_entry_unused int | info struct qtree_mem_dqinfo * | disk char *

@@ -1,0 +1,3 @@
+struct rocker | msix_entries struct TYPE_2__ * 
+struct TYPE_2__ | vector int 
+function rocker_msix_vector int | rocker const struct rocker * | vector unsigned int

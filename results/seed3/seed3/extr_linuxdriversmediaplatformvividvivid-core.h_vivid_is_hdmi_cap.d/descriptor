@@ -1,0 +1,2 @@
+struct vivid_dev | input_type long * | input unsigned long 
+function vivid_is_hdmi_cap int | dev const struct vivid_dev *

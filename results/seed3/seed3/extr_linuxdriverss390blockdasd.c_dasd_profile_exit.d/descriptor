@@ -1,0 +1,2 @@
+struct dasd_profile | dummy int 
+function dasd_profile_exit void | profile struct dasd_profile *

@@ -1,0 +1,2 @@
+struct slot_rmap_walk_iterator | rmap int 
+function slot_rmap_walk_okay int | iterator struct slot_rmap_walk_iterator *

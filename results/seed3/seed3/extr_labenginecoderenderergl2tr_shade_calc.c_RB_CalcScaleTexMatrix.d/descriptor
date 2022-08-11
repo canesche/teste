@@ -1,0 +1,1 @@
+function RB_CalcScaleTexMatrix void | scale float const[2] | matrix float *

@@ -1,0 +1,2 @@
+struct i2c_hid_desc | dummy int 
+function i2c_hid_get_dmi_i2c_hid_desc_override struct i2c_hid_desc * | i2c_name int *

@@ -1,0 +1,2 @@
+struct expbuf_t | end unsigned long | start unsigned long 
+function expbuf_size unsigned long | buf struct expbuf_t *

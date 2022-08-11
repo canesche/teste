@@ -1,0 +1,3 @@
+struct view | dummy int 
+struct line | dummy int 
+function help_select void | view struct view * | line struct line *

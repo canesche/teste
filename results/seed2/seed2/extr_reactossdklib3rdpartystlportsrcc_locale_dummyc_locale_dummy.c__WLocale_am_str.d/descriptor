@@ -1,0 +1,2 @@
+struct _Locale_time | dummy int 
+function _WLocale_am_str const char * | ltime struct _Locale_time * | buf char * | bufSize unsigned long

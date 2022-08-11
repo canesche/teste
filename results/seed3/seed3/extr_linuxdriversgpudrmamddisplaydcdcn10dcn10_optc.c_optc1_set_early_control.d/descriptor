@@ -1,0 +1,2 @@
+struct timing_generator | dummy int 
+function optc1_set_early_control void | optc struct timing_generator * | early_cntl int

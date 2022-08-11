@@ -1,0 +1,2 @@
+struct resource | flags unsigned int 
+function get_irq_flags unsigned int | res struct resource *

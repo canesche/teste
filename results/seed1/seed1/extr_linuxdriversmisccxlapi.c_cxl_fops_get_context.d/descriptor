@@ -1,0 +1,3 @@
+struct file | private_data struct cxl_context * 
+struct cxl_context | dummy int 
+function cxl_fops_get_context struct cxl_context * | file struct file *

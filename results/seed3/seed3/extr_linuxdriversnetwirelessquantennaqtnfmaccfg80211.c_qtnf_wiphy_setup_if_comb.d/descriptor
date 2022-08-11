@@ -1,0 +1,5 @@
+struct wiphy | n_iface_combinations unsigned long | interface_modes int | iface_combinations struct ieee80211_iface_combination * 
+struct qtnf_mac_info | n_if_comb unsigned long | radar_detect_widths int | if_comb struct ieee80211_iface_combination * 
+struct ieee80211_iface_combination | n_limits unsigned long | limits struct TYPE_2__ * | radar_detect_widths int 
+struct TYPE_2__ | types int 
+function qtnf_wiphy_setup_if_comb int | wiphy struct wiphy * | mac_info struct qtnf_mac_info *

@@ -1,4 +1,0 @@
-struct crypto_alg | cra_flags int | cra_type int * 
-struct TYPE_2__ | digestsize int | statesize int | base struct crypto_alg 
-struct ahash_alg | halg struct TYPE_2__ 
-function ahash_prepare_alg int | alg struct ahash_alg *

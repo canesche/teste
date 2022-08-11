@@ -1,0 +1,2 @@
+struct patch | dummy int 
+function to_be_deleted int | patch struct patch *

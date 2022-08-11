@@ -1,0 +1,3 @@
+struct TYPE_5__ | size long | n unsigned int | e struct TYPE_4__ * 
+struct TYPE_4__ | h long | val int 
+function qhtbl_get int * | ht struct TYPE_5__ * | h long

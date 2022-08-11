@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmamddisplaydcdmldml1_display_rq_dlg_calc.c_get_blk256_size.d/extr_linuxdriversgpudrmamddisplaydcdmldml1_display_rq_dlg_calc.c_get_blk256_size_O0::get_blk256_size(63)"
+  }
+]

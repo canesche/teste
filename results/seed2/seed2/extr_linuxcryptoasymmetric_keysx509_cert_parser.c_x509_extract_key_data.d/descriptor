@@ -1,0 +1,4 @@
+struct x509_parse_context | last_oid long | key_size unsigned long | key const void * | cert struct TYPE_4__ * 
+struct TYPE_4__ | pub struct TYPE_3__ * 
+struct TYPE_3__ | pkey_algo char * 
+function x509_extract_key_data int | context void * | hdrlen unsigned long | tag unsigned char | value const void * | vlen unsigned long

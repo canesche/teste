@@ -1,0 +1,3 @@
+struct TYPE_5__ | nrec int | recs struct TYPE_4__ ** 
+struct TYPE_4__ | size long | ptr char * 
+function is_eol_crlf int | file struct TYPE_5__ * | i int

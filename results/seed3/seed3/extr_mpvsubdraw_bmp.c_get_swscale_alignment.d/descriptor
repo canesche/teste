@@ -1,0 +1,3 @@
+struct TYPE_2__ | chroma_xs int | chroma_ys int | bpp int * 
+struct mp_image | num_planes int | fmt struct TYPE_2__ 
+function get_swscale_alignment void | img const struct mp_image * | out_xstep int * | out_ystep int *

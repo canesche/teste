@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversstagingrtlwifiphydmrtl_phydm.c_rtl_phydm_deinit_dm.d/extr_linuxdriversstagingrtlwifiphydmrtl_phydm.c_rtl_phydm_deinit_dm_O0::rtl_phydm_deinit_dm(61)"
+  }
+]

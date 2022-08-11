@@ -1,0 +1,2 @@
+struct TYPE_3__ | QuadPart int | HighPart long | LowPart int 
+function DeltaTimeToSeconds int | DeltaTime struct TYPE_3__

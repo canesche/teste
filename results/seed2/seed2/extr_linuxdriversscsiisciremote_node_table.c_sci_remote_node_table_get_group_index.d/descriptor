@@ -1,0 +1,2 @@
+struct sci_remote_node_table | remote_node_groups unsigned long ** | group_array_size unsigned long 
+function sci_remote_node_table_get_group_index unsigned long | remote_node_table struct sci_remote_node_table * | group_table_index unsigned long

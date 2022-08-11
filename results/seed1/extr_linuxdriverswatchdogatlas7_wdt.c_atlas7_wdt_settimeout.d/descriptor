@@ -1,2 +1,0 @@
-struct watchdog_device | timeout unsigned int 
-function atlas7_wdt_settimeout int | wdd struct watchdog_device * | to unsigned int

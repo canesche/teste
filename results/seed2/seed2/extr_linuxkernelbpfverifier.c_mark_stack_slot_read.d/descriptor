@@ -1,0 +1,6 @@
+struct bpf_verifier_state | parent struct bpf_verifier_state * | frame struct TYPE_6__ ** 
+struct bpf_verifier_env | dummy int 
+struct TYPE_6__ | allocated_stack int | stack struct TYPE_5__ * 
+struct TYPE_4__ | live int 
+struct TYPE_5__ | spilled_ptr struct TYPE_4__ 
+function mark_stack_slot_read void | env struct bpf_verifier_env * | state const struct bpf_verifier_state * | parent struct bpf_verifier_state * | slot int | frameno int

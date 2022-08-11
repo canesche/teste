@@ -1,0 +1,2 @@
+struct IsdnCardState | dummy int 
+function DC_Close_W6692 void | cs struct IsdnCardState *

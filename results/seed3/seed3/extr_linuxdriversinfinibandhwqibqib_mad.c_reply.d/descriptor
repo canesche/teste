@@ -1,0 +1,2 @@
+struct ib_smp | mgmt_class long | status int | method int 
+function reply int | smp struct ib_smp *

@@ -1,0 +1,2 @@
+struct owl_padinfo | dummy int 
+function owl_pad_pinconf_val2arg int | padinfo const struct owl_padinfo * | param unsigned int | arg int *

@@ -1,1 +1,0 @@
-function capidtmf_goertzel_loop void | buffer long * | coeffs long * | sample short * | count long

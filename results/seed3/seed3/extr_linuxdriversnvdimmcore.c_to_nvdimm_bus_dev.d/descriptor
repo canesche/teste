@@ -1,0 +1,3 @@
+struct device | dummy int 
+struct nvdimm_bus | dev struct device 
+function to_nvdimm_bus_dev struct device * | nvdimm_bus struct nvdimm_bus *

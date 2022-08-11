@@ -1,0 +1,1 @@
+value(fw_vercnt) == 255, value(srv_vercnt) == 255, length(buf) == 65025, length(fw_version) == 65025, length(srv_version) == 65025, length(nego_fw_version) == 65025, length(nego_srv_version) == 65025, length(icmsghdrp) == 65025

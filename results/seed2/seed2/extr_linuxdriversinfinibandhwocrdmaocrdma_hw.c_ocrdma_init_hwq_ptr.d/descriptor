@@ -1,0 +1,4 @@
+struct TYPE_4__ | tail long | head long 
+struct TYPE_3__ | tail long | head long 
+struct ocrdma_qp | rq struct TYPE_4__ | sq struct TYPE_3__ 
+function ocrdma_init_hwq_ptr void | qp struct ocrdma_qp *

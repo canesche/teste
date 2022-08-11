@@ -1,0 +1,4 @@
+struct wined3d_shader_reg_maps | usesmova int 
+struct wined3d_gl_info | supported int * 
+struct arb_vshader_private | rel_offset long 
+function need_rel_addr_const int | shader_data const struct arb_vshader_private * | reg_maps const struct wined3d_shader_reg_maps * | gl_info const struct wined3d_gl_info *

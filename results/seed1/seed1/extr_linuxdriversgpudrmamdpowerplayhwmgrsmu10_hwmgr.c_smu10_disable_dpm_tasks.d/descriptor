@@ -1,0 +1,2 @@
+struct pp_hwmgr | dummy int 
+function smu10_disable_dpm_tasks int | hwmgr struct pp_hwmgr *

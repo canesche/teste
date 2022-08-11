@@ -1,0 +1,2 @@
+struct pinctrl | dummy int 
+function pinctrl_dt_free_maps void | p struct pinctrl *

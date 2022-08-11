@@ -1,3 +1,0 @@
-struct nd_namespace_io | dummy int 
-struct device | dummy int 
-function devm_nsio_disable void | dev struct device * | nsio struct nd_namespace_io *

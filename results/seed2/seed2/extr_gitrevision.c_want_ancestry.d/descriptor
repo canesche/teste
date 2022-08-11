@@ -1,0 +1,3 @@
+struct TYPE_2__ | name long 
+struct rev_info | children struct TYPE_2__ | rewrite_parents long 
+function want_ancestry int | revs const struct rev_info *

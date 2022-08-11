@@ -1,2 +1,0 @@
-struct kernel_ipmi_msg | netfn long | cmd long 
-function is_maintenance_mode_cmd int | msg struct kernel_ipmi_msg *

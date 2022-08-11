@@ -1,4 +1,0 @@
-struct TYPE_2__ | level void * | max void * 
-struct intel_panel | backlight struct TYPE_2__ 
-struct intel_connector | panel struct intel_panel 
-function dcs_setup_backlight int | connector struct intel_connector * | unused enum pipe

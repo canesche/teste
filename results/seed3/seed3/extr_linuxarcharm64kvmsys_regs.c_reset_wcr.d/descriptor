@@ -1,0 +1,5 @@
+struct sys_reg_desc | reg unsigned long | val int 
+struct TYPE_3__ | dbg_wcr int * 
+struct TYPE_4__ | vcpu_debug_state struct TYPE_3__ 
+struct kvm_vcpu | arch struct TYPE_4__ 
+function reset_wcr void | vcpu struct kvm_vcpu * | rd const struct sys_reg_desc *

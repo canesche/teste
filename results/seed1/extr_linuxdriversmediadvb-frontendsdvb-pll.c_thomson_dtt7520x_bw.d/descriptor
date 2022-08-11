@@ -1,3 +1,0 @@
-struct TYPE_2__ | bandwidth_hz int 
-struct dvb_frontend | dtv_property_cache struct TYPE_2__ 
-function thomson_dtt7520x_bw void | fe struct dvb_frontend * | buf int *

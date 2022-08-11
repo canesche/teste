@@ -1,0 +1,2 @@
+struct mlx5_core_dev | dummy int 
+function mlx5_cleanup_mkey_table void | dev struct mlx5_core_dev *

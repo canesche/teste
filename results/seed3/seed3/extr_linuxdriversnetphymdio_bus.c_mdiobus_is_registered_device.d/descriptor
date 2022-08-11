@@ -1,0 +1,2 @@
+struct mii_bus | mdio_map int * 
+function mdiobus_is_registered_device int | bus struct mii_bus * | addr int

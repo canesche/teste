@@ -1,3 +1,0 @@
-struct gs_shader_param_info | name int | type int 
-struct TYPE_3__ | name int | type int 
-function gs_shader_get_param_info void | param const struct TYPE_3__ * | info struct gs_shader_param_info *

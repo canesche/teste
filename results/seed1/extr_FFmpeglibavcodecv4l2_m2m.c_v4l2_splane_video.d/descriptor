@@ -1,2 +1,0 @@
-struct v4l2_capability | capabilities int 
-function v4l2_splane_video int | cap struct v4l2_capability *

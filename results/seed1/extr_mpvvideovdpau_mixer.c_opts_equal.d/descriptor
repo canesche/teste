@@ -1,2 +1,0 @@
-struct mp_vdpau_mixer_opts | deint long | chroma_deint long | pullup long | hqscaling long | sharpen long | denoise long 
-function opts_equal int | a const struct mp_vdpau_mixer_opts * | b const struct mp_vdpau_mixer_opts *

@@ -1,0 +1,2 @@
+struct window | sy void * | sx void * 
+function window_resize void | w struct window * | sx void * | sy void *

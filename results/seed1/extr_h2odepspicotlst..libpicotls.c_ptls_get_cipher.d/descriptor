@@ -1,2 +1,0 @@
-struct TYPE_3__ | cipher_suite int * 
-function ptls_get_cipher int * | tls struct TYPE_3__ *

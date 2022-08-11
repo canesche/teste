@@ -1,0 +1,2 @@
+struct TYPE_2__ | key int 
+function cmp_id_key int | id const void * | k const void *

@@ -1,0 +1,2 @@
+struct rtl_hal | state int 
+function set_hal_stop void | rtlhal struct rtl_hal *

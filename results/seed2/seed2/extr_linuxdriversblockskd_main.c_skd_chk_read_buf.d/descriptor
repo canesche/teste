@@ -1,0 +1,3 @@
+struct skd_special_context | data_buf unsigned char * 
+struct skd_device | dummy int 
+function skd_chk_read_buf int | skdev struct skd_device * | skspcl struct skd_special_context *

@@ -1,0 +1,3 @@
+struct rdma_cm_id | context long 
+struct iser_conn | state int 
+function iser_connect_error void | cma_id struct rdma_cm_id *

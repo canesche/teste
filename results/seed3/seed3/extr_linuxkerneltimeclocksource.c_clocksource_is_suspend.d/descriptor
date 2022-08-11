@@ -1,0 +1,2 @@
+struct clocksource | dummy int 
+function clocksource_is_suspend int | cs struct clocksource *

@@ -1,0 +1,2 @@
+struct wil_rx_status_compressed | length int 
+function wil_rx_status_get_length int | msg void *

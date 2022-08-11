@@ -1,0 +1,2 @@
+struct sk_buff | len long | peeked long 
+function is_sg_request int | skb const struct sk_buff *

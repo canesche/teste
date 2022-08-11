@@ -1,2 +1,0 @@
-struct TYPE_3__ | if_capenable int 
-function ifnet_capabilities_enabled int | ifp struct TYPE_3__ *

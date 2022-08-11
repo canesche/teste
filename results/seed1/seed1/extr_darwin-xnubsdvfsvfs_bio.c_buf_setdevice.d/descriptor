@@ -1,0 +1,3 @@
+struct TYPE_6__ | b_dev int 
+struct TYPE_5__ | v_type long | v_rdev int 
+function buf_setdevice int | bp struct TYPE_6__ * | vp struct TYPE_5__ *

@@ -1,0 +1,5 @@
+struct TYPE_4__ | vgic_lr long * 
+struct TYPE_5__ | vgic_v2 struct TYPE_4__ 
+struct TYPE_6__ | vgic_cpu struct TYPE_5__ 
+struct kvm_vcpu | arch struct TYPE_6__ 
+function vgic_v2_clear_lr void | vcpu struct kvm_vcpu * | lr int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | v_specflags int 
+function vnode_ismountedon int | vp struct TYPE_3__ *

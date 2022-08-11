@@ -1,2 +1,0 @@
-struct equiv_cpu_entry | installed_cpu long | equiv_cpu int 
-function find_equiv_id int | equiv_table struct equiv_cpu_entry * | sig long

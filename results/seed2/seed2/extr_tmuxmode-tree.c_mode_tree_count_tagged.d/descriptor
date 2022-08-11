@@ -1,0 +1,4 @@
+struct mode_tree_item | tagged long 
+struct mode_tree_data | line_size unsigned long | line_list struct TYPE_2__ * 
+struct TYPE_2__ | item struct mode_tree_item * 
+function mode_tree_count_tagged unsigned long | mtd struct mode_tree_data *

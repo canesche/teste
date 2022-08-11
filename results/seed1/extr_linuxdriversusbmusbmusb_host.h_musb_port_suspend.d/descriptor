@@ -1,2 +1,0 @@
-struct musb | dummy int 
-function musb_port_suspend int | musb struct musb * | do_suspend int

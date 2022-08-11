@@ -1,4 +1,0 @@
-struct TYPE_6__ | i_value int 
-struct TYPE_5__ | parser struct TYPE_4__ * 
-struct TYPE_4__ | minval int 
-function cb_asmvarsubmin int | user void * | data void *

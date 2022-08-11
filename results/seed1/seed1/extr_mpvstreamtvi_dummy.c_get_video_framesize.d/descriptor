@@ -1,0 +1,2 @@
+struct TYPE_3__ | width int | height int 
+function get_video_framesize int | priv struct TYPE_3__ *

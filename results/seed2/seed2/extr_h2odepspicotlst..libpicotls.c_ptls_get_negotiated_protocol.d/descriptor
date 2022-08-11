@@ -1,0 +1,2 @@
+struct TYPE_3__ | negotiated_protocol const char * 
+function ptls_get_negotiated_protocol const char * | tls struct TYPE_3__ *

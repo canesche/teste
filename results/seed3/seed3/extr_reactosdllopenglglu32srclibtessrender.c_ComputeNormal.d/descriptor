@@ -1,0 +1,3 @@
+struct TYPE_5__ | coords double * 
+struct TYPE_4__ | cacheCount int | cache struct TYPE_5__ * 
+function ComputeNormal int | tess struct TYPE_4__ * | norm double [3] | check int

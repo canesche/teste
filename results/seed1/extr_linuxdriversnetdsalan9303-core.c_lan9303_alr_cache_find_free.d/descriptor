@@ -1,3 +1,0 @@
-struct lan9303_alr_cache_entry | port_map long 
-struct lan9303 | alr_cache struct lan9303_alr_cache_entry * 
-function lan9303_alr_cache_find_free struct lan9303_alr_cache_entry * | chip struct lan9303 *

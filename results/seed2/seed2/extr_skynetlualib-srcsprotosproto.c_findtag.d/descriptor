@@ -1,0 +1,3 @@
+struct sproto_type | base long | n int | f struct field * 
+struct field | tag int 
+function findtag struct field * | st const struct sproto_type * | tag int

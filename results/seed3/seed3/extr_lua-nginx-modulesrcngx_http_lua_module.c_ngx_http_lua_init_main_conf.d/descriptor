@@ -1,0 +1,3 @@
+struct TYPE_4__ | load_resty_core int | max_pending_timers int | max_running_timers int | cycle int 
+struct TYPE_5__ | cycle int 
+function ngx_http_lua_init_main_conf char * | cf struct TYPE_5__ * | conf void *

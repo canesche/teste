@@ -1,0 +1,2 @@
+struct slabinfo | slabs unsigned long | order unsigned long 
+function slab_size unsigned long | s struct slabinfo *

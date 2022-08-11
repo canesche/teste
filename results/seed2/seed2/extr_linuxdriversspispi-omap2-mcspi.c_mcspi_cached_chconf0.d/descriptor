@@ -1,0 +1,3 @@
+struct spi_device | controller_state struct omap2_mcspi_cs * 
+struct omap2_mcspi_cs | chconf0 int 
+function mcspi_cached_chconf0 int | spi const struct spi_device *

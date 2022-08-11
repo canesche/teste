@@ -1,2 +1,0 @@
-struct pcmcia_socket | dummy int 
-function bcm63xx_pcmcia_suspend int | sock struct pcmcia_socket *

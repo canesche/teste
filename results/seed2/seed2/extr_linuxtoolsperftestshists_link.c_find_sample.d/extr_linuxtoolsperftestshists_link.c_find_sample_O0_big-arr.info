@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 3587,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxtoolsperftestshists_link.c_find_sample.d/extr_linuxtoolsperftestshists_link.c_find_sample_O0::find_sample(65)"
+  }
+]

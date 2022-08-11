@@ -1,0 +1,1 @@
+function ath6kl_dbg void | dbg_mask enum ATH6K_DEBUG_MASK | fmt const char *

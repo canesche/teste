@@ -1,0 +1,2 @@
+struct octeon_device | priv_flags int 
+function lio_set_priv_flag void | octdev struct octeon_device * | flag int | val int

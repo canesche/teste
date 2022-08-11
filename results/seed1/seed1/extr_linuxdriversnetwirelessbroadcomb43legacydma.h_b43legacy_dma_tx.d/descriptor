@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct b43legacy_wldev | dummy int 
+function b43legacy_dma_tx int | dev struct b43legacy_wldev * | skb struct sk_buff *

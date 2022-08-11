@@ -1,3 +1,0 @@
-struct i40e_vsi | type long 
-struct i40e_pf | num_alloc_vsi int | vsi struct i40e_vsi ** 
-function i40e_find_vsi_by_type struct i40e_vsi * | pf struct i40e_pf * | type long

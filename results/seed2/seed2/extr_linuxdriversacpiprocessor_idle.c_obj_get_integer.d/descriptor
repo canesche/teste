@@ -1,0 +1,3 @@
+struct TYPE_2__ | value int 
+struct acpi_object | type long | integer struct TYPE_2__ 
+function obj_get_integer int | obj union acpi_object * | value int *

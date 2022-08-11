@@ -1,0 +1,2 @@
+struct friends_gather_extra | query_type int | list_id long 
+function friends_use_preget_query int | extra void *

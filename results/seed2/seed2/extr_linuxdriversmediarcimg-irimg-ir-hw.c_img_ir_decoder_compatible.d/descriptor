@@ -1,0 +1,5 @@
+struct TYPE_4__ | ct_quirks int * 
+struct img_ir_priv | hw struct TYPE_4__ 
+struct TYPE_3__ | code_type unsigned int 
+struct img_ir_decoder | control struct TYPE_3__ 
+function img_ir_decoder_compatible int | priv struct img_ir_priv * | dec const struct img_ir_decoder *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | pos unsigned int | buf unsigned char * 
+function ff_dsd2pcm_translate void | s struct TYPE_3__ * | samples unsigned long | lsbf int | src const unsigned char * | src_stride int | dst float * | dst_stride int

@@ -1,0 +1,3 @@
+struct cppi_descriptor | next struct cppi_descriptor * 
+struct cppi_channel | freelist struct cppi_descriptor * 
+function cppi_bd_alloc struct cppi_descriptor * | c struct cppi_channel *

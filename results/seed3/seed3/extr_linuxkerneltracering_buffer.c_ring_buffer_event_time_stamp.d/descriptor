@@ -1,0 +1,2 @@
+struct ring_buffer_event | time_delta long | array int * 
+function ring_buffer_event_time_stamp int | event struct ring_buffer_event *

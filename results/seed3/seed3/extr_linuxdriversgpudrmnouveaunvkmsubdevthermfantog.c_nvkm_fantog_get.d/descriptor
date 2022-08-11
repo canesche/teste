@@ -1,0 +1,3 @@
+struct nvkm_therm | fan long 
+struct nvkm_fantog | percent int 
+function nvkm_fantog_get int | therm struct nvkm_therm *

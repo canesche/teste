@@ -1,0 +1,2 @@
+struct net | dummy int 
+function nfs_fs_proc_net_exit void | net struct net *

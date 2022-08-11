@@ -1,0 +1,3 @@
+struct mp_cmd_def | args struct TYPE_2__ * | vararg long 
+struct TYPE_2__ | type int 
+function is_vararg int | m const struct mp_cmd_def * | i int

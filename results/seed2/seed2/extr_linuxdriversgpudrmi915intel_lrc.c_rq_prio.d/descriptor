@@ -1,0 +1,4 @@
+struct TYPE_3__ | priority int 
+struct TYPE_4__ | attr struct TYPE_3__ 
+struct i915_request | sched struct TYPE_4__ 
+function rq_prio int | rq const struct i915_request *

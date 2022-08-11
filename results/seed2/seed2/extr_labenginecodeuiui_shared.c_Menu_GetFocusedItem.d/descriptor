@@ -1,0 +1,4 @@
+struct TYPE_7__ | itemCount int | items struct TYPE_8__ ** 
+struct TYPE_6__ | flags int 
+struct TYPE_8__ | window struct TYPE_6__ 
+function Menu_GetFocusedItem struct TYPE_8__ * | menu struct TYPE_7__ *

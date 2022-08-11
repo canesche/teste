@@ -1,3 +1,0 @@
-struct TYPE_2__ | set_state_action int 
-struct qib_pportdata | sdma_state struct TYPE_2__ 
-function qib_7220_sdma_init_early void | ppd struct qib_pportdata *

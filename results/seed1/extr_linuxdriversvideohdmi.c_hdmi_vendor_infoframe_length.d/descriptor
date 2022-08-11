@@ -1,2 +1,0 @@
-struct hdmi_vendor_infoframe | s3d_struct long | vic long 
-function hdmi_vendor_infoframe_length int | frame const struct hdmi_vendor_infoframe *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | p_flag int 
+function pgsignal_filt int | p struct TYPE_3__ * | arg void *

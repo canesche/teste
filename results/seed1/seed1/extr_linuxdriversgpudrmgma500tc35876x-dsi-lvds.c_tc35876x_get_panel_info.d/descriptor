@@ -1,0 +1,3 @@
+struct panel_info | height_mm int | width_mm int 
+struct drm_device | dummy int 
+function tc35876x_get_panel_info int | dev struct drm_device * | pipe int | pi struct panel_info *

@@ -1,3 +1,0 @@
-struct timechart | all_data struct per_pid * 
-struct per_pid | ppid long | pid long | next struct per_pid * 
-function sort_pids void | tchart struct timechart *

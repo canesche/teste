@@ -1,0 +1,2 @@
+struct cpuinfo_x86 | dummy int 
+function table_lookup_model const char * | c struct cpuinfo_x86 *

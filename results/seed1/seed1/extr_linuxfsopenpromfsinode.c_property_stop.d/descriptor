@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function property_stop void | f struct seq_file * | v void *

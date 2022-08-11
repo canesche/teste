@@ -1,0 +1,2 @@
+struct drm_connector | dummy int 
+function dce_virtual_dpms int | connector struct drm_connector * | mode int

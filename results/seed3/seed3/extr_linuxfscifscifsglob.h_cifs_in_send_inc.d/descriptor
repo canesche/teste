@@ -1,0 +1,2 @@
+struct TCP_Server_Info | dummy int 
+function cifs_in_send_inc void | server struct TCP_Server_Info *

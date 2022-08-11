@@ -1,0 +1,3 @@
+struct rt_mutex_waiter | dummy int 
+struct rt_mutex | dummy int 
+function rt_mutex_top_waiter struct rt_mutex_waiter * | lock struct rt_mutex *

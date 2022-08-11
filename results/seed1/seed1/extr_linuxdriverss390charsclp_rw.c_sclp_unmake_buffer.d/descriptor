@@ -1,0 +1,2 @@
+struct sclp_buffer | sccb void * 
+function sclp_unmake_buffer void * | buffer struct sclp_buffer *

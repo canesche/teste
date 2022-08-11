@@ -1,2 +1,0 @@
-struct nfs_client | dummy int 
-function pnfs_destroy_all_layouts void | clp struct nfs_client *

@@ -1,0 +1,2 @@
+struct ef4_nic | dummy int 
+function falcon_a1_mem_map_size unsigned int | efx struct ef4_nic *

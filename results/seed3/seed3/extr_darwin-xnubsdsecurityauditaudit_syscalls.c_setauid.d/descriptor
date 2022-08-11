@@ -1,0 +1,2 @@
+struct setauid_args | dummy int 
+function setauid int | p int | uap struct setauid_args * | retval int *

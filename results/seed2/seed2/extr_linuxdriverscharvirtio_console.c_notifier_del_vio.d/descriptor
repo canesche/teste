@@ -1,0 +1,2 @@
+struct hvc_struct | irq_requested long 
+function notifier_del_vio void | hp struct hvc_struct * | data int

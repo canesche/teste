@@ -1,2 +1,0 @@
-struct rio_dev | pef int 
-function rio_is_switch int | rdev struct rio_dev *

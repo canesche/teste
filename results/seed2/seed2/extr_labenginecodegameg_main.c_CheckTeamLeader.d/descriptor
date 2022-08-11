@@ -1,0 +1,6 @@
+struct TYPE_6__ | svFlags int 
+struct TYPE_10__ | r struct TYPE_6__ 
+struct TYPE_9__ | maxclients int | clients struct TYPE_8__ * 
+struct TYPE_7__ | sessionTeam int | teamLeader void * 
+struct TYPE_8__ | sess struct TYPE_7__ 
+function CheckTeamLeader void | team int

@@ -1,0 +1,3 @@
+struct regulator_dev | desc struct TYPE_2__ * 
+struct TYPE_2__ | volt_table int * 
+function tps65910_get_voltage_vdd3 int | dev struct regulator_dev *

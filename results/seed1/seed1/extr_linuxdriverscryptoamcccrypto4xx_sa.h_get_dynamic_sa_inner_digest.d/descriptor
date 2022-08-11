@@ -1,0 +1,4 @@
+struct TYPE_3__ | key_size int 
+struct TYPE_4__ | bf struct TYPE_3__ 
+struct dynamic_sa_ctl | sa_contents struct TYPE_4__ 
+function get_dynamic_sa_inner_digest int * | cts struct dynamic_sa_ctl *

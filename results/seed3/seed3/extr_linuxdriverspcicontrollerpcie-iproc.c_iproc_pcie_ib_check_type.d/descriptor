@@ -1,0 +1,2 @@
+struct iproc_pcie_ib_map | type int 
+function iproc_pcie_ib_check_type int | ib_map const struct iproc_pcie_ib_map * | type enum iproc_pcie_ib_map_type

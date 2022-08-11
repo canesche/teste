@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_gitunpack-trees.c_setup_collided_checkout_detection.d/extr_gitunpack-trees.c_setup_collided_checkout_detection_O0::setup_collided_checkout_detection(66)"
+  }
+]

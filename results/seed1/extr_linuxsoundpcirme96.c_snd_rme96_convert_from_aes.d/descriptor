@@ -1,2 +1,0 @@
-struct snd_aes_iec958 | status int * 
-function snd_rme96_convert_from_aes int | aes struct snd_aes_iec958 *

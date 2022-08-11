@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmradeonevergreen_cs.c_evergreen_cs_get_num_banks.d/extr_linuxdriversgpudrmradeonevergreen_cs.c_evergreen_cs_get_num_banks_O0::evergreen_cs_get_num_banks(65)"
+  }
+]

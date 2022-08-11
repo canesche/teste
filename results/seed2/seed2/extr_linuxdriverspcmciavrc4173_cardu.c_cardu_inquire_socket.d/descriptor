@@ -1,0 +1,2 @@
+struct TYPE_3__ | cap int 
+function cardu_inquire_socket int | sock unsigned int | cap int *

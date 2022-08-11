@@ -1,0 +1,2 @@
+struct iommu_map_table | flags int 
+function clear_flush void | iommu struct iommu_map_table *

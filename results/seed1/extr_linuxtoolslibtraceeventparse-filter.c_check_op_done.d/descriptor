@@ -1,5 +1,0 @@
-struct TYPE_6__ | right int * 
-struct TYPE_5__ | right int * 
-struct TYPE_4__ | right int * 
-struct filter_arg | type int | num struct TYPE_6__ | op struct TYPE_5__ | exp struct TYPE_4__ 
-function check_op_done int | arg struct filter_arg *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | nargs int | core_num_dims int * | core_num_dim_ix int | core_dim_flags int * | core_dim_sizes int * 
+function _initialize_variable_parts int | ufunc struct TYPE_3__ * | op_core_num_dims int [] | core_dim_sizes int [] | core_dim_flags int []

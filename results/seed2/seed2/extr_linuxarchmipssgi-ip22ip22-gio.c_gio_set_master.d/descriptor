@@ -1,0 +1,3 @@
+struct gio_device | slotno int 
+struct TYPE_2__ | giopar int 
+function gio_set_master void | dev struct gio_device *

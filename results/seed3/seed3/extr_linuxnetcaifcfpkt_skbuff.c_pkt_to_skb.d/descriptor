@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct cfpkt | skb struct sk_buff 
+function pkt_to_skb struct sk_buff * | pkt struct cfpkt *

@@ -1,0 +1,1 @@
+value(hPrinter) == 10, value(Level) == 10, value(cbBuf) == 10, value(dwClientMajorVersion) == 10, value(dwClientMinorVersion) == 10, length(pEnvironment) == 100, length(pDriver) == 100, length(pcbNeeded) == 100, length(pdwServerMaxVersion) == 100, length(pdwServerMinVersion) == 100

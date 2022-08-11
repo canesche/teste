@@ -1,0 +1,2 @@
+struct kx_odr_map | odr_bits int | val int | val2 int 
+function kxcjk1013_convert_odr_value int | map const struct kx_odr_map * | map_size unsigned long | odr_bits int | val int * | val2 int *

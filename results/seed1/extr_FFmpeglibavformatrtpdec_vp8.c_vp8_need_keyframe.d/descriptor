@@ -1,2 +1,0 @@
-struct TYPE_3__ | sequence_ok int | sequence_dirty long 
-function vp8_need_keyframe int | vp8 struct TYPE_3__ *

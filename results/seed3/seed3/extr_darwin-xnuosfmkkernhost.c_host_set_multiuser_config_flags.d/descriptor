@@ -1,0 +1,1 @@
+function host_set_multiuser_config_flags int | host_priv int | multiuser_config int

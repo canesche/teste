@@ -1,0 +1,4 @@
+struct TYPE_4__ | in_set int | fread_func_set int 
+struct TYPE_3__ | in int | fread_func int 
+struct Curl_easy | set struct TYPE_4__ | state struct TYPE_3__ 
+function Curl_init_CONNECT void | data struct Curl_easy *

@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function pcie_aspm_create_sysfs_dev_files void | pdev struct pci_dev *

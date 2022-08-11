@@ -1,0 +1,4 @@
+struct task_struct | dummy int 
+struct lockdep_map | dummy int 
+struct held_lock | dummy int 
+function validate_chain int | curr struct task_struct * | lock struct lockdep_map * | hlock struct held_lock * | chain_head int | chain_key int

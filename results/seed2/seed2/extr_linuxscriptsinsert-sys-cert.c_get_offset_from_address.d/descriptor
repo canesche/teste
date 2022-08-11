@@ -1,0 +1,3 @@
+struct TYPE_5__ | e_shoff int | e_shnum unsigned int 
+struct TYPE_4__ | sh_size unsigned int | sh_addr unsigned long | sh_offset unsigned long 
+function get_offset_from_address unsigned long | hdr struct TYPE_5__ * | addr unsigned long

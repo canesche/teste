@@ -1,2 +1,0 @@
-struct se_cmd | dummy int 
-function vhost_scsi_write_pending_status int | se_cmd struct se_cmd *

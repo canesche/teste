@@ -1,0 +1,2 @@
+struct bnx2x_raw_obj | state int | pstate unsigned long * | wait_comp int | set_pending int | clear_pending int | check_pending int | obj_type int | rdata_mapping int | rdata void * | cl_id void * | cid int | func_id void * 
+function bnx2x_init_raw_obj void | raw struct bnx2x_raw_obj * | cl_id void * | cid int | func_id void * | rdata void * | rdata_mapping int | state int | pstate unsigned long * | type int

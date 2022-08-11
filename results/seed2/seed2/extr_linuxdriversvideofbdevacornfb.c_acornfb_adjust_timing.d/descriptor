@@ -1,0 +1,5 @@
+struct fb_var_screeninfo | xres int | xres_virtual int | bits_per_pixel int | yres int | accel_flags int | yres_virtual int | vmode int | yoffset int | hsync_len int | vsync_len int | xoffset long 
+struct TYPE_3__ | smem_len int | smem_start long 
+struct fb_info | fix struct TYPE_3__ 
+struct TYPE_4__ | vram_half_sam int | screen_end long | using_vram long 
+function acornfb_adjust_timing int | info struct fb_info * | var struct fb_var_screeninfo * | fontht int

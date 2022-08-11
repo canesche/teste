@@ -1,2 +1,0 @@
-struct dm_region_hash | region_shift int 
-function dm_rh_region_to_sector int | rh struct dm_region_hash * | region int

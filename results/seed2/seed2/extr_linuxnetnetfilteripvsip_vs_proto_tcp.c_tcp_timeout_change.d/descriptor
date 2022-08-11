@@ -1,0 +1,2 @@
+struct ip_vs_proto_data | tcp_state_table int 
+function tcp_timeout_change void | pd struct ip_vs_proto_data * | flags int

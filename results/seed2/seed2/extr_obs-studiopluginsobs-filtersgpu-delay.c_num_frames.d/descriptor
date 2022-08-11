@@ -1,0 +1,3 @@
+struct frame | dummy int 
+struct circlebuf | size int 
+function num_frames unsigned long | buf struct circlebuf *

@@ -1,3 +1,0 @@
-struct irqaction | dummy int 
-struct irq_desc | dummy int 
-function irq_thread_check_affinity void | desc struct irq_desc * | action struct irqaction *

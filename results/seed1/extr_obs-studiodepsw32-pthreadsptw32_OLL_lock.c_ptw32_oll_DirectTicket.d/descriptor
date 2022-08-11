@@ -1,4 +1,0 @@
-struct TYPE_6__ | rootPtr int * 
-struct TYPE_7__ | snziNodeOrRoot struct TYPE_6__ 
-struct TYPE_8__ | proxyRoot int 
-function ptw32_oll_DirectTicket struct TYPE_7__ | csnziPtr struct TYPE_8__ *

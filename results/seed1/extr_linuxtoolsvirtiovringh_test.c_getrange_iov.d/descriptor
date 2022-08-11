@@ -1,3 +1,0 @@
-struct vringh_range | offset long | end_incl long | start long 
-struct vringh | dummy int 
-function getrange_iov int | vrh struct vringh * | addr long | r struct vringh_range *

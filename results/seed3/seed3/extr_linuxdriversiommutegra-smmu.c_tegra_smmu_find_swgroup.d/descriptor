@@ -1,0 +1,4 @@
+struct tegra_smmu_swgroup | swgroup unsigned int 
+struct tegra_smmu | soc struct TYPE_2__ * 
+struct TYPE_2__ | num_swgroups unsigned int | swgroups struct tegra_smmu_swgroup * 
+function tegra_smmu_find_swgroup const struct tegra_smmu_swgroup * | smmu struct tegra_smmu * | swgroup unsigned int

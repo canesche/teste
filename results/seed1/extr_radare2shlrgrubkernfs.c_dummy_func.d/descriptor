@@ -1,2 +1,0 @@
-struct grub_dirhook_info | dummy int 
-function dummy_func int | filename const char * | info const struct grub_dirhook_info * | closure void *

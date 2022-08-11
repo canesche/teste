@@ -1,1 +1,0 @@
-function ZSTD_compressBlock_btopt2 void | ctx int * | src const void * | srcSize unsigned long

@@ -1,0 +1,2 @@
+struct qedf_ctx | flogi_failed int 
+function qedf_get_login_failures int | cookie void *

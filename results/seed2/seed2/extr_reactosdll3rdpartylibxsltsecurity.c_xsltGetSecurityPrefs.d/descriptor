@@ -1,0 +1,2 @@
+struct TYPE_3__ | writeNet int * | readNet int * | createDir int * | createFile int * | readFile int * 
+function xsltGetSecurityPrefs int * | sec struct TYPE_3__ * | option int

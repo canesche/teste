@@ -1,0 +1,2 @@
+struct TYPE_3__ | reportedMessageBuffer char * | reportedMessageBufferSize long | errorMessageBuffer const char * | errorMessageBufferSize long | portableErrorCode long | reportedErrorCode long 
+function swapMessageBuffer const char * | ptBuffers struct TYPE_3__ * | message const char *

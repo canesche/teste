@@ -1,0 +1,2 @@
+struct TYPE_3__ | faceflags int 
+function AAS_KeepFace int | face struct TYPE_3__ *

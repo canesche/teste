@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_labenginecodeuiui_shared.c_UI_SelectForKey.d/extr_labenginecodeuiui_shared.c_UI_SelectForKey_O0::UI_SelectForKey(73)"
+  }
+]

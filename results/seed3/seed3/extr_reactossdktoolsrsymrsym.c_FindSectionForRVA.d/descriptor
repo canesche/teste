@@ -1,0 +1,3 @@
+struct TYPE_5__ | VirtualSize long 
+struct TYPE_6__ | VirtualAddress long | Misc struct TYPE_5__ 
+function FindSectionForRVA struct TYPE_6__ * | RVA long | NumberOfSections unsigned int | SectionHeaders struct TYPE_6__ *

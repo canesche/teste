@@ -1,0 +1,3 @@
+struct transport_container | dummy int 
+struct device | dummy int 
+function anon_transport_dummy_function int | tc struct transport_container * | dev struct device * | cdev struct device *

@@ -1,1 +1,0 @@
-function socfpga_a10_fpga_get_cd_ratio unsigned int | cfg_width unsigned int | encrypt int | compress int

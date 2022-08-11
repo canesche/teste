@@ -1,2 +1,0 @@
-struct TYPE_3__ | onDisconnect int * 
-function redisAsyncSetDisconnectCallback int | ac struct TYPE_3__ * | fn int *

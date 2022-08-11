@@ -1,0 +1,5 @@
+struct rxe_phys_buf | size int | addr int 
+struct rxe_mem | max_buf int | page_shift int | length int | state int | va void * | iova void * | map struct rxe_map ** 
+struct rxe_map | buf struct rxe_phys_buf * 
+struct rxe_dev | dummy int 
+function rxe_mem_map_pages int | rxe struct rxe_dev * | mem struct rxe_mem * | page void ** | num_pages int | iova void *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | lpVtbl int * 
+struct TYPE_5__ | IProvideClassInfo2_iface struct TYPE_4__ 
+function WebBrowser_ClassInfo_Init void | This struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct pci_dev | irq long 
+function interrupt_read int | dev struct pci_dev * | offset int | value long * | data void *

@@ -1,0 +1,5 @@
+struct mlx4_port_cap | trans_code int | wavelength int | vendor_oui int | trans_type int | default_sense int | suggested_type int | supported_port_types int | def_mac int | max_tc_eth int | eth_mtu int | max_port_width int | max_pkeys int | max_gids int | ib_mtu int | max_vl int 
+struct TYPE_4__ | trans_code int * | wavelength int * | vendor_oui int * | trans_type int * | default_sense int * | suggested_type int * | supported_type int * | def_mac int * | max_tc_eth int | eth_mtu_cap int * | port_width_cap int * | pkey_table_len int * | gid_table_len int * | ib_mtu_cap int * | vl_cap int * 
+struct TYPE_3__ | pkey_phys_table_len int * | gid_phys_table_len int * 
+struct mlx4_dev | caps struct TYPE_4__ | phys_caps struct TYPE_3__ 
+function _mlx4_dev_port int | dev struct mlx4_dev * | port int | port_cap struct mlx4_port_cap *

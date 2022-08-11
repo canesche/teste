@@ -1,2 +1,0 @@
-struct shash_desc | dummy int 
-function null_init int | desc struct shash_desc *

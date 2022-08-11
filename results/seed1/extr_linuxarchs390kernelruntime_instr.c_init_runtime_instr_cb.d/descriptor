@@ -1,2 +1,0 @@
-struct runtime_instr_cb | rla int | s int | k int | ps int | pc int | v int | key int 
-function init_runtime_instr_cb void | cb struct runtime_instr_cb *

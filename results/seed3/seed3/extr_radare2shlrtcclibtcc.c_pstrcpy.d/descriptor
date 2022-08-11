@@ -1,0 +1,1 @@
+function pstrcpy char * | buf char * | buf_size int | s const char *

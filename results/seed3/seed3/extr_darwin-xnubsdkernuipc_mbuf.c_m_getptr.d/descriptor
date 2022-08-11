@@ -1,0 +1,2 @@
+struct mbuf | m_len int | m_next struct mbuf * 
+function m_getptr struct mbuf * | m struct mbuf * | loc int | off int *

@@ -1,0 +1,1 @@
+function punycode_set_key int | cry int * | key const int * | keylen int | mode int | direction int

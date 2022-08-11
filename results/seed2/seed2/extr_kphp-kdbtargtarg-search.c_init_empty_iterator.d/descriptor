@@ -1,0 +1,2 @@
+struct TYPE_3__ | pos int | jump_to int 
+function init_empty_iterator void | I struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct pkt_attrib | encrypt long | icv_len long | pktlen long | iv_len long | hdrlen long 
+function rtw_calculate_wlan_pkt_size_by_attribue long | pattrib struct pkt_attrib *

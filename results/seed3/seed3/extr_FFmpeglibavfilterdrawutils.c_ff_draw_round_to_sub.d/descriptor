@@ -1,0 +1,2 @@
+struct TYPE_3__ | vsub_max unsigned int | hsub_max unsigned int 
+function ff_draw_round_to_sub int | draw struct TYPE_3__ * | sub_dir int | round_dir int | value int

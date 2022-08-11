@@ -1,2 +1,0 @@
-struct FsmInst | dummy int 
-function l1_ignore void | fi struct FsmInst * | event int | arg void *

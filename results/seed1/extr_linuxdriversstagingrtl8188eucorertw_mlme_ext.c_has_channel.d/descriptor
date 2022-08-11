@@ -1,2 +1,0 @@
-struct rt_channel_info | ChannelNum int 
-function has_channel int | channel_set struct rt_channel_info * | chanset_size int | chan int

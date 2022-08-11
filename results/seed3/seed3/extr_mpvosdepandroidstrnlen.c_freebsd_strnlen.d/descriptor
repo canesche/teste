@@ -1,0 +1,1 @@
+function freebsd_strnlen unsigned long | s const char * | maxlen unsigned long

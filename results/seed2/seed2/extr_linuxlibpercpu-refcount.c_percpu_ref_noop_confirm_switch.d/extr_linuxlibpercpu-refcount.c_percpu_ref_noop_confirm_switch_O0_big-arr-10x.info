@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxlibpercpu-refcount.c_percpu_ref_noop_confirm_switch.d/extr_linuxlibpercpu-refcount.c_percpu_ref_noop_confirm_switch_O0::percpu_ref_noop_confirm_switch(61)"
+  }
+]

@@ -1,0 +1,2 @@
+struct iio_dev | dummy int 
+function iio_disable_all_buffers void | indio_dev struct iio_dev *

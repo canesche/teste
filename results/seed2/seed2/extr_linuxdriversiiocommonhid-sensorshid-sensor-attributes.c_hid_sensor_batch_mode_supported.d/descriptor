@@ -1,0 +1,3 @@
+struct TYPE_2__ | index long | report_id long 
+struct hid_sensor_common | report_latency struct TYPE_2__ 
+function hid_sensor_batch_mode_supported int | st struct hid_sensor_common *

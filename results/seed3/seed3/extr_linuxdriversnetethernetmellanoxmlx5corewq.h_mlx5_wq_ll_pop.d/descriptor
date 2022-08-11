@@ -1,0 +1,2 @@
+struct mlx5_wq_ll | cur_sz int | tail_next int * 
+function mlx5_wq_ll_pop void | wq struct mlx5_wq_ll * | ix int | next_tail_next int *

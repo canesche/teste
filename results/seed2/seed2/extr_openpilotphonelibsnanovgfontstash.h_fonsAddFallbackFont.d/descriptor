@@ -1,0 +1,3 @@
+struct TYPE_5__ | fonts struct TYPE_4__ ** 
+struct TYPE_4__ | nfallbacks long | fallbacks int * 
+function fonsAddFallbackFont int | stash struct TYPE_5__ * | base int | fallback int

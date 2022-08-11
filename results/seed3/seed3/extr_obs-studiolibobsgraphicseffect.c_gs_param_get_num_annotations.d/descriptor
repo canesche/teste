@@ -1,0 +1,3 @@
+struct TYPE_4__ | num unsigned long 
+struct TYPE_5__ | annotations struct TYPE_4__ 
+function gs_param_get_num_annotations unsigned long | param const struct TYPE_5__ *

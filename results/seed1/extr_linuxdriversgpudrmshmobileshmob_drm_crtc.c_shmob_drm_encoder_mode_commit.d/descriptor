@@ -1,2 +1,0 @@
-struct drm_encoder | dummy int 
-function shmob_drm_encoder_mode_commit void | encoder struct drm_encoder *

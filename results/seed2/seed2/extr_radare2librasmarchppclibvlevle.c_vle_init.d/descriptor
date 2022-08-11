@@ -1,0 +1,2 @@
+struct TYPE_3__ | options int | inc long | end const int * | pos const int * 
+function vle_init int | handle struct TYPE_3__ * | buffer const int * | size const int

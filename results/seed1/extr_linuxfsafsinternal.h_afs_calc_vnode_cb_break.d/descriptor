@@ -1,2 +1,0 @@
-struct afs_vnode | cb_break unsigned int | cb_s_break unsigned int | cb_v_break unsigned int 
-function afs_calc_vnode_cb_break unsigned int | vnode struct afs_vnode *

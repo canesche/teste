@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 192,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxcryptoansi_cprng.c_xor_vectors.d/extr_linuxcryptoansi_cprng.c_xor_vectors_O0::xor_vectors(61)"
+  }
+]

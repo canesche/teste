@@ -1,0 +1,4 @@
+struct svc_req | rq_xprt struct TYPE_2__ * 
+struct rpc_msg | dummy int 
+struct TYPE_2__ | xp_auth int * 
+function _svcauth_none enum auth_stat | rqst struct svc_req * | msg struct rpc_msg *

@@ -1,0 +1,2 @@
+struct isku_device | actual_profile int 
+function isku_profile_activated void | isku struct isku_device * | new_profile int

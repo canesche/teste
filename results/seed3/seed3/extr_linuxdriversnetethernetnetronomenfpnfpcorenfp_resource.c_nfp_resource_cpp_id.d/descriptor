@@ -1,0 +1,2 @@
+struct nfp_resource | cpp_id int 
+function nfp_resource_cpp_id int | res struct nfp_resource *

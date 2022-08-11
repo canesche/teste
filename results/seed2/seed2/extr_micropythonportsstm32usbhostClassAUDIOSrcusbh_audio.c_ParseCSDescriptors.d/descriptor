@@ -1,0 +1,4 @@
+struct TYPE_5__ | MixerUnitDesc int ** | SelectorUnitDesc int ** | FeatureUnitDesc int ** | OutputTerminalDesc int ** | InputTerminalDesc int ** | HeaderDesc int * 
+struct TYPE_7__ | ASNum unsigned long | as_desc struct TYPE_6__ * | MixerUnitNum int | cs_desc struct TYPE_5__ | SelectorUnitNum int | FeatureUnitNum int | OutputTerminalNum int | InputTerminalNum int 
+struct TYPE_6__ | FormatTypeDesc int * | GeneralDesc int * 
+function ParseCSDescriptors int | class_desc struct TYPE_7__ * | ac_subclass long | pdesc long *

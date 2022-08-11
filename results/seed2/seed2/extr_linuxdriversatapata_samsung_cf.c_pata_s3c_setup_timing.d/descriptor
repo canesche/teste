@@ -1,0 +1,3 @@
+struct s3c_ide_info | dummy int 
+struct ata_timing | setup int | act8b int | rec8b int 
+function pata_s3c_setup_timing unsigned long | info struct s3c_ide_info * | ata const struct ata_timing *

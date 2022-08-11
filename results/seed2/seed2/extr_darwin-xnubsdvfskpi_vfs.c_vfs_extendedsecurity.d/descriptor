@@ -1,0 +1,2 @@
+struct TYPE_3__ | mnt_kern_flag int 
+function vfs_extendedsecurity int | mp struct TYPE_3__ *

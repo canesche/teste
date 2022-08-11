@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function svm_patch_hypercall void | vcpu struct kvm_vcpu * | hypercall unsigned char *

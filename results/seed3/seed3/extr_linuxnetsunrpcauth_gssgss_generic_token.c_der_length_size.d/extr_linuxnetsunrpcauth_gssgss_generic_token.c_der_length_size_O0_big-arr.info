@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxnetsunrpcauth_gssgss_generic_token.c_der_length_size.d/extr_linuxnetsunrpcauth_gssgss_generic_token.c_der_length_size_O0::der_length_size(61)"
+  }
+]

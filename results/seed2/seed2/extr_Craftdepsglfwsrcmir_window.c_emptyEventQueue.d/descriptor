@@ -1,0 +1,3 @@
+struct TYPE_4__ | tqh_first int * 
+struct TYPE_5__ | head struct TYPE_4__ 
+function emptyEventQueue int | queue struct TYPE_5__ *

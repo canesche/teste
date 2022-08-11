@@ -1,0 +1,2 @@
+struct gma_clock_t | dot int | m int | p1 int 
+function mrst_lvds_clock void | refclk int | clock struct gma_clock_t *

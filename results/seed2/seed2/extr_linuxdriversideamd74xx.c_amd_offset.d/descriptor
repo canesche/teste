@@ -1,0 +1,2 @@
+struct pci_dev | vendor long 
+function amd_offset int | dev struct pci_dev *

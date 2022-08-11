@@ -1,0 +1,6 @@
+struct skl_module_res | cps long 
+struct skl_module_cfg | res_idx unsigned long | module struct TYPE_3__ * 
+struct TYPE_4__ | mcps int 
+struct skl | resource struct TYPE_4__ 
+struct TYPE_3__ | resources struct skl_module_res * 
+function skl_tplg_free_pipe_mcps void | skl struct skl * | mconfig struct skl_module_cfg *

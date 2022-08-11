@@ -1,0 +1,2 @@
+struct TYPE_3__ | sum double 
+function cl_perf_timer__sum double | t const struct TYPE_3__ *

@@ -1,0 +1,4 @@
+struct net_device | ml_priv struct lbs_private * 
+struct lbs_private | wol_criteria int 
+struct ethtool_wolinfo | wolopts int 
+function lbs_ethtool_set_wol int | dev struct net_device * | wol struct ethtool_wolinfo *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_FFmpeglibavformatmov.c_mov_current_sample_dec.d/extr_FFmpeglibavformatmov.c_mov_current_sample_dec_O0::mov_current_sample_dec(65)"
+  }
+]

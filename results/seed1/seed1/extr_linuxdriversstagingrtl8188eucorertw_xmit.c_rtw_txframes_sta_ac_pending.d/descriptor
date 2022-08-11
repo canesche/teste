@@ -1,0 +1,6 @@
+struct tx_servq | qcnt int 
+struct TYPE_2__ | be_q struct tx_servq | vo_q struct tx_servq | vi_q struct tx_servq | bk_q struct tx_servq 
+struct sta_info | sta_xmitpriv struct TYPE_2__ 
+struct pkt_attrib | priority int | psta struct sta_info * 
+struct adapter | dummy int 
+function rtw_txframes_sta_ac_pending int | padapter struct adapter * | pattrib struct pkt_attrib *

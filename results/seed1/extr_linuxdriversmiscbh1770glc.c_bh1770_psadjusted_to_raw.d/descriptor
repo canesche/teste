@@ -1,2 +1,0 @@
-struct bh1770_chip | prox_coef int | prox_const int 
-function bh1770_psadjusted_to_raw int | chip struct bh1770_chip * | ps int

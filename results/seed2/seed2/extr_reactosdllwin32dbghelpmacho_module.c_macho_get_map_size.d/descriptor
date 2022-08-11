@@ -1,0 +1,2 @@
+struct image_section_map | dummy int 
+function macho_get_map_size unsigned int | ism const struct image_section_map *

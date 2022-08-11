@@ -1,0 +1,3 @@
+struct hal_data_8188e | Index24G_CCK_Base unsigned long ** | Index24G_BW40_Base unsigned long ** | OFDM_24G_Diff unsigned long ** | BW20_24G_Diff unsigned long ** 
+struct adapter | HalData struct hal_data_8188e * 
+function get_tx_power_index void | adapt struct adapter * | channel unsigned long | cck_pwr unsigned long * | ofdm_pwr unsigned long * | bw20_pwr unsigned long * | bw40_pwr unsigned long *

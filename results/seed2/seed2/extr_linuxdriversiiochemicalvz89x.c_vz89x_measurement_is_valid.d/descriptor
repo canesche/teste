@@ -1,0 +1,3 @@
+struct vz89x_data | buffer long * | chip struct TYPE_2__ * 
+struct TYPE_2__ | read_size int 
+function vz89x_measurement_is_valid int | data struct vz89x_data *

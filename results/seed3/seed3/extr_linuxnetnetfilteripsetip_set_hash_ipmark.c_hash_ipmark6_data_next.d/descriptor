@@ -1,0 +1,2 @@
+struct hash_ipmark6_elem | dummy int 
+function hash_ipmark6_data_next void | next struct hash_ipmark6_elem * | d const struct hash_ipmark6_elem *

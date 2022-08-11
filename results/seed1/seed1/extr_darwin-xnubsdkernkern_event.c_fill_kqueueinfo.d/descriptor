@@ -1,0 +1,8 @@
+struct vinfo_stat | vst_blksize int | vst_ino int | vst_mode int | vst_size int 
+struct kqworkloop | kqwl_dynamicid int 
+struct kqueue_info | kq_state int | kq_stat struct vinfo_stat 
+struct kqueue | kq_state int | kq_count int 
+struct kevent_qos_s | dummy int 
+struct kevent64_s | dummy int 
+struct kevent | dummy int 
+function fill_kqueueinfo int | kq struct kqueue * | kinfo struct kqueue_info *

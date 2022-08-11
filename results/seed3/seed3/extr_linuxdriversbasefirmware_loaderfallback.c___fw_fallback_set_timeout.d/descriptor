@@ -1,0 +1,2 @@
+struct TYPE_2__ | loading_timeout int 
+function __fw_fallback_set_timeout void | timeout int

@@ -1,2 +1,0 @@
-struct hfi1_16b_header | lrh int * 
-function hfi1_16B_get_becn int | hdr struct hfi1_16b_header *

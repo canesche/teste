@@ -1,0 +1,2 @@
+struct dirstack | num_dirs int | dirs const int ** 
+function peek_dir const int * | dirstack struct dirstack *

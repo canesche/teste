@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediatunerstda18271-fe.c_tda18271_get_if_frequency.d/extr_linuxdriversmediatunerstda18271-fe.c_tda18271_get_if_frequency_O0::tda18271_get_if_frequency(63)"
+  }
+]

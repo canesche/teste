@@ -1,0 +1,4 @@
+struct demangle_component | dummy int 
+struct d_saved_scope | container const struct demangle_component * 
+struct d_print_info | next_saved_scope int | saved_scopes struct d_saved_scope * 
+function d_get_saved_scope struct d_saved_scope * | dpi struct d_print_info * | container const struct demangle_component *

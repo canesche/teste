@@ -1,0 +1,2 @@
+struct lanai_buffer | start long | end long 
+function lanai_buf_size unsigned long | buf const struct lanai_buffer *

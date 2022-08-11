@@ -1,0 +1,4 @@
+struct TYPE_7__ | FSMC_TCLRSetupTime int | FSMC_TARSetupTime int | FSMC_AttributeSpaceTimingStruct struct TYPE_6__ * | FSMC_CommonSpaceTimingStruct struct TYPE_5__ * | FSMC_ECCPageSize int | FSMC_ECC int | FSMC_MemoryDataWidth int | FSMC_Waitfeature int | FSMC_Bank int 
+struct TYPE_6__ | FSMC_SetupTime int | FSMC_WaitSetupTime int | FSMC_HoldSetupTime int | FSMC_HiZSetupTime int 
+struct TYPE_5__ | FSMC_SetupTime int | FSMC_WaitSetupTime int | FSMC_HoldSetupTime int | FSMC_HiZSetupTime int 
+function FSMC_NANDStructInit void | FSMC_NANDInitStruct struct TYPE_7__ *

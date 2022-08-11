@@ -1,0 +1,2 @@
+struct image_writer_opts | format long 
+function image_writer_high_depth int | opts const struct image_writer_opts *

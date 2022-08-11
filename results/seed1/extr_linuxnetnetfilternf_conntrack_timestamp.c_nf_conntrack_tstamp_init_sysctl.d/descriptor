@@ -1,2 +1,0 @@
-struct net | dummy int 
-function nf_conntrack_tstamp_init_sysctl int | net struct net *

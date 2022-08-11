@@ -1,0 +1,3 @@
+struct led_classdev | dummy int 
+struct nasgpio_led | led_cdev struct led_classdev 
+function get_classdev_for_led_nr struct led_classdev * | nr int

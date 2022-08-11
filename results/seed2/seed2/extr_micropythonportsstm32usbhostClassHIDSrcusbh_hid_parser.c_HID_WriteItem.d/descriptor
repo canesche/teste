@@ -1,0 +1,2 @@
+struct TYPE_3__ | data int * | shift int | physical_min int | physical_max int | count long | size int | resolution int 
+function HID_WriteItem int | ri struct TYPE_3__ * | value int | ndx int

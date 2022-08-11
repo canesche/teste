@@ -1,2 +1,0 @@
-struct in_device | dummy int 
-function devinet_sysctl_register int | idev struct in_device *

@@ -1,0 +1,4 @@
+struct TYPE_4__ | netdev struct TYPE_3__ * 
+struct nfp_net | dp struct TYPE_4__ 
+struct TYPE_3__ | name const char * 
+function nfp_net_name const char * | nn struct nfp_net *

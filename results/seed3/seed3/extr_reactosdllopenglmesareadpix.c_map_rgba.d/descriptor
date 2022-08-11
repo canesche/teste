@@ -1,0 +1,3 @@
+struct TYPE_4__ | MapRtoRsize int | MapGtoGsize int | MapBtoBsize int | MapAtoAsize int | MapRtoR int * | MapGtoG int * | MapBtoB int * | MapAtoA int * 
+struct TYPE_5__ | Pixel struct TYPE_4__ 
+function map_rgba void | ctx struct TYPE_5__ * | n unsigned long | red int [] | green int [] | blue int [] | alpha int []

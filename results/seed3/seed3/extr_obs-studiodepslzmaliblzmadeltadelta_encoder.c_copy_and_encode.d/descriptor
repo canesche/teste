@@ -1,0 +1,2 @@
+struct TYPE_3__ | distance unsigned long | pos int | history long * 
+function copy_and_encode void | coder struct TYPE_3__ * | in const long *__restrict | out long *__restrict | size unsigned long

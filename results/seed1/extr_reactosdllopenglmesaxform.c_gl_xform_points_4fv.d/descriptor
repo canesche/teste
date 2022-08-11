@@ -1,1 +1,0 @@
-function gl_xform_points_4fv void | n unsigned long | q float [][4] | m float const[16] | p float [][4]

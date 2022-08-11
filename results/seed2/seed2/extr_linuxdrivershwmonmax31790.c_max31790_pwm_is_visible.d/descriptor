@@ -1,0 +1,2 @@
+struct max31790_data | fan_config int * 
+function max31790_pwm_is_visible int | _data const void * | attr int | channel int

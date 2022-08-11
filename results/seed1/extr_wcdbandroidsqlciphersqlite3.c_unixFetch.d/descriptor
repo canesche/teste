@@ -1,1 +1,0 @@
-function unixFetch int | fd int * | iOff int | nAmt int | pp void **

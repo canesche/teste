@@ -1,0 +1,3 @@
+struct list_head | dummy int 
+struct device | dummy int 
+function devm_of_pci_get_host_bridge_resources int | dev struct device * | busno unsigned char | bus_max unsigned char | resources struct list_head * | io_base int *

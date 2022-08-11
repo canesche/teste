@@ -1,3 +1,0 @@
-struct TYPE_2__ | persistent_fid long | volatile_fid long 
-struct cifsFileInfo | fid struct TYPE_2__ 
-function smb2_compare_fids int | ob1 struct cifsFileInfo * | ob2 struct cifsFileInfo *

@@ -1,0 +1,2 @@
+struct vsock_sock | dummy int 
+function vmci_transport_notify_pkt_socket_destruct void | vsk struct vsock_sock *

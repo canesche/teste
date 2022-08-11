@@ -1,2 +1,0 @@
-struct TYPE_3__ | field_tag int 
-function TIFFFieldTag int | fip const struct TYPE_3__ *

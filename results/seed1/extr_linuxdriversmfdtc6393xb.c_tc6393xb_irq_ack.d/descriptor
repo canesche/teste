@@ -1,2 +1,0 @@
-struct irq_data | dummy int 
-function tc6393xb_irq_ack void | data struct irq_data *

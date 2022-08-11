@@ -1,0 +1,2 @@
+struct v4l2_ctrl | is_ptr long | flags int 
+function user_flags int | ctrl const struct v4l2_ctrl *

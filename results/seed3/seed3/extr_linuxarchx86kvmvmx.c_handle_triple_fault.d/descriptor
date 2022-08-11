@@ -1,0 +1,3 @@
+struct kvm_vcpu | mmio_needed long | run struct TYPE_2__ * 
+struct TYPE_2__ | exit_reason int 
+function handle_triple_fault int | vcpu struct kvm_vcpu *

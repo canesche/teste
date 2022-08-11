@@ -1,0 +1,2 @@
+struct mlxsw_sp_mr_vif | vif_flags int 
+function mlxsw_sp_mr_vif4_is_regular int | vif const struct mlxsw_sp_mr_vif *

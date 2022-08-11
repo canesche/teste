@@ -1,0 +1,2 @@
+struct TYPE_3__ | vTotal long | hTotal long | dotClock long 
+function calculateRefreshRate int | mi const struct TYPE_3__ *

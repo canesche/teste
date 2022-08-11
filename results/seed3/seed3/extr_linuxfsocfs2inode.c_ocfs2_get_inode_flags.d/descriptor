@@ -1,0 +1,3 @@
+struct TYPE_2__ | i_flags unsigned int 
+struct ocfs2_inode_info | ip_attr int | vfs_inode struct TYPE_2__ 
+function ocfs2_get_inode_flags void | oi struct ocfs2_inode_info *

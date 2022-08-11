@@ -1,0 +1,1 @@
+value(crc32_length) == 255, value(crc32_seed) == 255, value(complement) == 255, length(crc32_packet) == 65025

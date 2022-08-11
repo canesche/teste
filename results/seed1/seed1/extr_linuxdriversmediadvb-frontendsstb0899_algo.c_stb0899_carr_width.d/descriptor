@@ -1,0 +1,3 @@
+struct stb0899_internal | srate int | rolloff int 
+struct stb0899_state | internal struct stb0899_internal 
+function stb0899_carr_width long | state struct stb0899_state *

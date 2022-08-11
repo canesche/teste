@@ -1,0 +1,2 @@
+struct osd_state | dummy int 
+function osd_set_external void | osd struct osd_state * | id void * | res_x int | res_y int | text char *

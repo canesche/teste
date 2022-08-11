@@ -1,2 +1,0 @@
-struct platform_device | dummy int 
-function dw_pcm_register int | pdev struct platform_device *

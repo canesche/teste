@@ -1,0 +1,4 @@
+struct snd_soc_component | dev struct TYPE_2__ * 
+struct adau1761_platform_data | lineout_mode int 
+struct TYPE_2__ | platform_data struct adau1761_platform_data * 
+function adau1761_get_lineout_mode enum adau1761_output_mode | component struct snd_soc_component *

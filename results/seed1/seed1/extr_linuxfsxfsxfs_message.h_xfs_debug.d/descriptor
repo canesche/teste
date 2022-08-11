@@ -1,0 +1,2 @@
+struct xfs_mount | dummy int 
+function xfs_debug void | mp const struct xfs_mount * | fmt const char *

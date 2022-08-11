@@ -1,2 +1,0 @@
-struct uart_8250_port | dummy int 
-function omap_8250_rx_dma_flush void | p struct uart_8250_port *

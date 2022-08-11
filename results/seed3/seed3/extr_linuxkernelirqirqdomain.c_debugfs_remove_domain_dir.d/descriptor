@@ -1,0 +1,2 @@
+struct irq_domain | dummy int 
+function debugfs_remove_domain_dir void | d struct irq_domain *

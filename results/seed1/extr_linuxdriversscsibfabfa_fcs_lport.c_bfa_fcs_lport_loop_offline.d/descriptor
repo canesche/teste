@@ -1,2 +1,0 @@
-struct bfa_fcs_lport_s | dummy int 
-function bfa_fcs_lport_loop_offline void | port struct bfa_fcs_lport_s *

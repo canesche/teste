@@ -1,0 +1,2 @@
+struct snd_ac97 | dummy int 
+function snd_soc_ac97_free_gpio void | ac97 struct snd_ac97 *

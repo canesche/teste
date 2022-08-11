@@ -1,2 +1,0 @@
-struct speedtab | sp_speed int | sp_code int 
-function ttcompatspeedtab int | speed int | table struct speedtab *

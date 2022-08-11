@@ -1,2 +1,0 @@
-struct console | dummy int 
-function pdc_console_setup int | co struct console * | options char *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | state int * 
+function TigerDigest void | digest_str unsigned char * | digest_len unsigned int | context struct TYPE_3__ *

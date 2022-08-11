@@ -1,2 +1,0 @@
-struct chipset_bus_clock_list_entry | xfer_speed long | ultra_settings long 
-function pci_bus_clock_list_ultra long | speed long | chipset_table struct chipset_bus_clock_list_entry *

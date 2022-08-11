@@ -1,0 +1,2 @@
+struct bna_ioceth | dummy int 
+function bna_ioceth_sm_ioc_disable_wait_entry void | ioceth struct bna_ioceth *

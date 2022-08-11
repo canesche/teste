@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversinputtouchscreenelants_i2c.c_elants_i2c_calculate_checksum.d/extr_linuxdriversinputtouchscreenelants_i2c.c_elants_i2c_calculate_checksum_O0::elants_i2c_calculate_checksum(62)"
+  }
+]

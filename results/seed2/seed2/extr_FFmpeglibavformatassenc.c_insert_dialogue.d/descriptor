@@ -1,0 +1,3 @@
+struct TYPE_6__ | last_added_dialogue struct TYPE_5__ * | cache_size int | dialogue_cache struct TYPE_5__ * 
+struct TYPE_5__ | readorder long | next struct TYPE_5__ * | prev struct TYPE_5__ * 
+function insert_dialogue void | ass struct TYPE_6__ * | dialogue struct TYPE_5__ *

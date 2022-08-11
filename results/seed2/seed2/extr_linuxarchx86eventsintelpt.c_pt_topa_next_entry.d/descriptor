@@ -1,0 +1,4 @@
+struct topa_entry | dummy int 
+struct pt_buffer | nr_pages int | topa_index struct topa_entry ** | first struct TYPE_2__ * | last struct TYPE_2__ * 
+struct TYPE_2__ | last int 
+function pt_topa_next_entry unsigned int | buf struct pt_buffer * | pg unsigned int

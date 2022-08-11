@@ -1,0 +1,5 @@
+struct obs_source_frame | prev_frame int 
+struct async_frame | used int | frame struct obs_source_frame * 
+struct TYPE_4__ | num unsigned long | array struct async_frame * 
+struct TYPE_5__ | async_cache struct TYPE_4__ 
+function remove_async_frame void | source struct TYPE_5__ * | frame struct obs_source_frame *

@@ -1,4 +1,0 @@
-struct pktq | hi_prec int | q struct TYPE_4__ * 
-struct TYPE_3__ | qlen long 
-struct TYPE_4__ | skblist struct TYPE_3__ 
-function brcmu_pktq_mlen int | pq struct pktq * | prec_bmp int

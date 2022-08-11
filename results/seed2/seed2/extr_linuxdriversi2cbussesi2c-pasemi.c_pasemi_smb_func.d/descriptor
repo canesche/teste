@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function pasemi_smb_func int | adapter struct i2c_adapter *

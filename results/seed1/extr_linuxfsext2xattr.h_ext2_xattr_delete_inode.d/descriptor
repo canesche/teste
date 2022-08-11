@@ -1,2 +1,0 @@
-struct inode | dummy int 
-function ext2_xattr_delete_inode void | inode struct inode *

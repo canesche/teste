@@ -1,0 +1,3 @@
+struct grub_env_var | prevp struct TYPE_2__ ** | next struct TYPE_2__ * 
+struct TYPE_2__ | prevp struct TYPE_2__ ** 
+function grub_env_remove void | var struct grub_env_var *

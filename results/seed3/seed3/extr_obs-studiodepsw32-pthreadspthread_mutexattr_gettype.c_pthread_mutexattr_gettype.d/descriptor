@@ -1,0 +1,2 @@
+struct TYPE_3__ | kind int 
+function pthread_mutexattr_gettype int | attr struct TYPE_3__ *const * | kind int *

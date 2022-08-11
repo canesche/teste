@@ -1,2 +1,0 @@
-struct rq | dummy int 
-function update_idle_core void | rq struct rq *

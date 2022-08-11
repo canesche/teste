@@ -1,0 +1,2 @@
+struct dell_wmi_event | type int | length int 
+function dell_wmi_aio_event_check int | buffer int * | length int

@@ -1,0 +1,2 @@
+struct TYPE_2__ | deltaFindState long | deltaNbBits long 
+function FSE_buildCTable_rle unsigned long | ct int * | symbolValue unsigned long

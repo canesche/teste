@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmi915gvtgtt.c_gen8_gtt_set_pfn.d/extr_linuxdriversgpudrmi915gvtgtt.c_gen8_gtt_set_pfn_O0::gen8_gtt_set_pfn(69)"
+  }
+]

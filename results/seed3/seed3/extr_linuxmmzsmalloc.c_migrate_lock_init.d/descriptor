@@ -1,0 +1,2 @@
+struct zspage | dummy int 
+function migrate_lock_init void | zspage struct zspage *

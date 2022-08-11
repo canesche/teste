@@ -1,2 +1,0 @@
-struct mvpp2_cls_flow_entry | data int * 
-function mvpp2_cls_flow_hek_num_get int | fe struct mvpp2_cls_flow_entry *

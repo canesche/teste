@@ -1,0 +1,1 @@
+function stbtt__CompareUTF8toUTF16_bigendian_prefix long | s1 const int * | len1 long | s2 const int * | len2 long

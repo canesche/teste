@@ -1,0 +1,3 @@
+struct snd_soc_dai | dummy int 
+struct TYPE_2__ | master int | fmt int 
+function pxa2xx_i2s_set_dai_fmt int | cpu_dai struct snd_soc_dai * | fmt unsigned int

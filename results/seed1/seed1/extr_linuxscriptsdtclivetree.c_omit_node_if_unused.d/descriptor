@@ -1,0 +1,2 @@
+struct node | omit_if_unused int 
+function omit_node_if_unused struct node * | node struct node *

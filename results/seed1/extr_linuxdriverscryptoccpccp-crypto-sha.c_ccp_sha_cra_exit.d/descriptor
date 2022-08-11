@@ -1,2 +1,0 @@
-struct crypto_tfm | dummy int 
-function ccp_sha_cra_exit void | tfm struct crypto_tfm *

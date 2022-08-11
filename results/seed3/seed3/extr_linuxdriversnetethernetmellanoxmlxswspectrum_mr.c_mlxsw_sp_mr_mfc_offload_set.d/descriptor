@@ -1,0 +1,3 @@
+struct mlxsw_sp_mr_route | mfc struct TYPE_2__ * 
+struct TYPE_2__ | mfc_flags int 
+function mlxsw_sp_mr_mfc_offload_set void | mr_route struct mlxsw_sp_mr_route * | offload int

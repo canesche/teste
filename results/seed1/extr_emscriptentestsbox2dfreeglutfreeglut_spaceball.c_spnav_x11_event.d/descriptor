@@ -1,7 +1,0 @@
-struct TYPE_10__ | press int | bnum int 
-struct TYPE_9__ | period int | data int * | x int 
-struct TYPE_13__ | type int | button struct TYPE_10__ | motion struct TYPE_9__ 
-struct TYPE_11__ | s int * 
-struct TYPE_12__ | message_type int | data struct TYPE_11__ 
-struct TYPE_14__ | type long | xclient struct TYPE_12__ 
-function spnav_x11_event int | xev const struct TYPE_14__ * | event struct TYPE_13__ *

@@ -1,0 +1,4 @@
+struct meson_pinctrl | data struct TYPE_2__ * 
+struct meson_bank | first unsigned int | last unsigned int 
+struct TYPE_2__ | num_banks int | banks struct meson_bank * 
+function meson_get_bank int | pc struct meson_pinctrl * | pin unsigned int | bank struct meson_bank **

@@ -1,0 +1,2 @@
+struct cmdQ | processed unsigned int | cleaned unsigned int | in_use unsigned int | size int 
+function enough_free_Tx_descs int | q const struct cmdQ *

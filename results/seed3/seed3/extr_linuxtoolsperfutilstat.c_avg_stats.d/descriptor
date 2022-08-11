@@ -1,0 +1,2 @@
+struct stats | mean double 
+function avg_stats double | stats struct stats *

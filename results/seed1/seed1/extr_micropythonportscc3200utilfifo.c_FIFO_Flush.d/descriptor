@@ -1,0 +1,2 @@
+struct TYPE_3__ | uiElementsMax long | uiLast long | uiFirst long | uiElementCount long 
+function FIFO_Flush void | fifo struct TYPE_3__ *

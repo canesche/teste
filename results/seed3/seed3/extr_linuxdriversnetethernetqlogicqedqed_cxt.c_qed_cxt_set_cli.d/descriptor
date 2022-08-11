@@ -1,0 +1,4 @@
+struct TYPE_4__ | val long 
+struct TYPE_3__ | val long 
+struct qed_ilt_client_cfg | active int | last struct TYPE_4__ | first struct TYPE_3__ 
+function qed_cxt_set_cli struct qed_ilt_client_cfg * | p_cli struct qed_ilt_client_cfg *

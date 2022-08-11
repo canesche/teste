@@ -1,2 +1,0 @@
-struct TYPE_3__ | flags int 
-function aarch64_sys_ins_reg_has_xt int | sys_ins_reg const struct TYPE_3__ *

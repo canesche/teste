@@ -1,2 +1,0 @@
-struct ufs_qcom_host | dummy int 
-function ufs_qcom_update_bus_bw_vote int | host struct ufs_qcom_host *

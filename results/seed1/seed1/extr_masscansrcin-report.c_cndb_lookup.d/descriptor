@@ -1,0 +1,3 @@
+struct CNDB_Entry | ip unsigned int | name const char * | next struct CNDB_Entry * 
+struct TYPE_2__ | entries struct CNDB_Entry ** 
+function cndb_lookup const char * | ip unsigned int

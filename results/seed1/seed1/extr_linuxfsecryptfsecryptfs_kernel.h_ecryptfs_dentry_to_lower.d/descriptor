@@ -1,0 +1,4 @@
+struct TYPE_2__ | dentry struct dentry * 
+struct ecryptfs_dentry_info | lower_path struct TYPE_2__ 
+struct dentry | d_fsdata long 
+function ecryptfs_dentry_to_lower struct dentry * | dentry struct dentry *

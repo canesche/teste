@@ -1,0 +1,4 @@
+struct se_session | se_node_acl long | sess_bin_isid long 
+struct se_device | dev_reserved_node_acl long | dev_reservation_flags int | dev_res_bin_isid long 
+struct se_cmd | t_task_cdb int * | se_sess struct se_session * | se_dev struct se_device * 
+function target_scsi2_reservation_check int | cmd struct se_cmd *

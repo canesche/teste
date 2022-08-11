@@ -1,0 +1,3 @@
+struct mlxsw_sp_acl_tcam_region | dummy int 
+struct mlxsw_sp | dummy int 
+function mlxsw_sp1_acl_tcam_region_associate int | mlxsw_sp struct mlxsw_sp * | region struct mlxsw_sp_acl_tcam_region *

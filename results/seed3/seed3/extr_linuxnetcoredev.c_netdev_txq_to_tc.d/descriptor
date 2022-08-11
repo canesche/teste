@@ -1,0 +1,3 @@
+struct netdev_tc_txq | offset unsigned int | count unsigned int 
+struct net_device | tc_to_txq struct netdev_tc_txq * | num_tc long 
+function netdev_txq_to_tc int | dev struct net_device * | txq unsigned int

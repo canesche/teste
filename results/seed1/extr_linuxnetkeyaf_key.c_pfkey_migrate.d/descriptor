@@ -1,4 +1,0 @@
-struct sock | dummy int 
-struct sk_buff | dummy int 
-struct sadb_msg | dummy int 
-function pfkey_migrate int | sk struct sock * | skb struct sk_buff * | hdr const struct sadb_msg * | ext_hdrs void *const *

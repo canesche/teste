@@ -1,1 +1,0 @@
-function av_dv_codec_profile2 const int * | width int | height int | pix_fmt enum AVPixelFormat | frame_rate int

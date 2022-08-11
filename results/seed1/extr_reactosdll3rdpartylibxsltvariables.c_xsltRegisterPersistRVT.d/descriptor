@@ -1,3 +1,0 @@
-struct TYPE_6__ | prev int * | next void * | psvi int 
-struct TYPE_5__ | persistRVT struct TYPE_6__ * 
-function xsltRegisterPersistRVT int | ctxt struct TYPE_5__ * | RVT struct TYPE_6__ *

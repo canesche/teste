@@ -1,0 +1,2 @@
+struct sisusb_usb_data | numobufs int | urbstatus int * 
+function sisusb_free_outbuf void | sisusb struct sisusb_usb_data * | index int

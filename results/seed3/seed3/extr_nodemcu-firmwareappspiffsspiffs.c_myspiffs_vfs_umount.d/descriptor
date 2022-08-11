@@ -1,0 +1,2 @@
+struct vfs_vol | dummy int 
+function myspiffs_vfs_umount int | vol const struct vfs_vol *

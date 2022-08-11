@@ -1,0 +1,2 @@
+struct uart_port | dummy int 
+function qe_uart_type const char * | port struct uart_port *

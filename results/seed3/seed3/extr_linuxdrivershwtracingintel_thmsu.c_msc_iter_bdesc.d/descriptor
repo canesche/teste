@@ -1,0 +1,5 @@
+struct msc_iter | block unsigned long | win struct TYPE_4__ * 
+struct msc_block_desc | dummy int 
+struct TYPE_4__ | block struct TYPE_3__ * 
+struct TYPE_3__ | bdesc struct msc_block_desc * 
+function msc_iter_bdesc struct msc_block_desc * | iter struct msc_iter *

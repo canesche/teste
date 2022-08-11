@@ -1,2 +1,0 @@
-struct TYPE_3__ | dtat_name long | dtat_data long | dtat_class long 
-function dtrace_badattr int | a const struct TYPE_3__ *

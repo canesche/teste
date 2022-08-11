@@ -1,0 +1,4 @@
+struct proc_dir_entry | parent struct TYPE_2__ * 
+struct net | dummy int 
+struct TYPE_2__ | data struct net * 
+function PDE_NET struct net * | pde struct proc_dir_entry *

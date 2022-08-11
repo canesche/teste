@@ -1,0 +1,3 @@
+struct vnic_wq | to_use struct TYPE_2__ * 
+struct TYPE_2__ | desc void * 
+function vnic_wq_next_desc void * | wq struct vnic_wq *

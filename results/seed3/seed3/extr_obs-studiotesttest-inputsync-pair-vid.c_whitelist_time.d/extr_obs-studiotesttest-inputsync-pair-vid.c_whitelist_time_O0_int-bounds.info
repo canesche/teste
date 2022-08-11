@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_obs-studiotesttest-inputsync-pair-vid.c_whitelist_time.d/extr_obs-studiotesttest-inputsync-pair-vid.c_whitelist_time_O0::whitelist_time(63)"
+  }
+]

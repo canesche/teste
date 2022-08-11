@@ -1,0 +1,6 @@
+struct TYPE_8__ | c_depth long 
+struct dc_stream_state | clamping struct TYPE_8__ | ctx struct TYPE_7__ * 
+struct TYPE_7__ | dc struct TYPE_6__ * 
+struct TYPE_5__ | disable_dp_clk_share long 
+struct TYPE_6__ | caps struct TYPE_5__ 
+function is_dp_and_hdmi_sharable int | stream1 struct dc_stream_state * | stream2 struct dc_stream_state *

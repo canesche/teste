@@ -1,2 +1,0 @@
-struct snd_ymfpci | dummy int 
-function snd_ymfpci_free_gameport void | chip struct snd_ymfpci *

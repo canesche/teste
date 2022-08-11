@@ -1,2 +1,0 @@
-struct inode | dummy int 
-function nfs_have_layout int | inode struct inode *

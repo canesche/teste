@@ -1,0 +1,3 @@
+struct TYPE_2__ | saved_end_io int 
+struct request | flush struct TYPE_2__ | end_io int | rq_flags int | biotail int | bio int 
+function blk_flush_restore_request void | rq struct request *

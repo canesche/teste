@@ -1,0 +1,1 @@
+function lpStringToInt64 int | s const char * | slen unsigned long | value int *

@@ -1,0 +1,7 @@
+struct TYPE_11__ | bin struct TYPE_10__ * 
+struct TYPE_13__ | binb struct TYPE_11__ 
+struct TYPE_12__ | code_from long | code_to long 
+struct TYPE_10__ | cur struct TYPE_9__ * 
+struct TYPE_9__ | o struct TYPE_8__ * 
+struct TYPE_8__ | bin_obj long 
+function is_valid_offset int | anal struct TYPE_13__ * | addr long | hasperm int

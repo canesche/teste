@@ -1,0 +1,3 @@
+struct snd_card | dummy int 
+struct snd_ac97 | dummy int 
+function olpc_quirks int | card struct snd_card * | ac97 struct snd_ac97 *

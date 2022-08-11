@@ -1,0 +1,2 @@
+struct wined3d_context | dummy int 
+function arbfp_alloc_context_data int | context struct wined3d_context *

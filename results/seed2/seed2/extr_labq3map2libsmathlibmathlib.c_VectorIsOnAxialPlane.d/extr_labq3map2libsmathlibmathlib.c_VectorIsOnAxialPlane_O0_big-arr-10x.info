@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_labq3map2libsmathlibmathlib.c_VectorIsOnAxialPlane.d/extr_labq3map2libsmathlibmathlib.c_VectorIsOnAxialPlane_O0::VectorIsOnAxialPlane(63)"
+  }
+]

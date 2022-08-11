@@ -1,6 +1,0 @@
-struct dwc_otg_pcd | otg_dev struct TYPE_6__ * 
-struct device | dummy int 
-struct TYPE_5__ | platformdev struct TYPE_4__ * 
-struct TYPE_6__ | os_dep struct TYPE_5__ 
-struct TYPE_4__ | dev struct device 
-function dwc_otg_pcd_to_dev struct device * | pcd struct dwc_otg_pcd *

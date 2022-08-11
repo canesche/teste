@@ -1,0 +1,2 @@
+struct TYPE_2__ | psa_pgroup int 
+function posix_spawnattr_getpgroup int | attr int *const *__restrict | pgroup int *__restrict

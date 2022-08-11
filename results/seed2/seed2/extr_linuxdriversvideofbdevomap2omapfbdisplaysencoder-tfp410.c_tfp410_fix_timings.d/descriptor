@@ -1,0 +1,2 @@
+struct omap_video_timings | de_level int | sync_pclk_edge void * | data_pclk_edge void * 
+function tfp410_fix_timings void | timings struct omap_video_timings *

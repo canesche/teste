@@ -1,0 +1,2 @@
+struct TYPE_3__ | Type int 
+function AcpiEvIsNotifyObject int | Node struct TYPE_3__ *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmamdamdgpuamdgpu_display.c_amdgpu_display_crtc_idx_to_irq_type.d/extr_linuxdriversgpudrmamdamdgpuamdgpu_display.c_amdgpu_display_crtc_idx_to_irq_type_O0::amdgpu_display_crtc_idx_to_irq_type(70)"
+  }
+]

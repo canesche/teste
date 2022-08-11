@@ -1,0 +1,4 @@
+struct the_nilfs | ns_sbp struct nilfs_super_block ** | ns_sbh struct buffer_head ** 
+struct nilfs_super_block | dummy int 
+struct buffer_head | dummy int 
+function nilfs_swap_super_block void | nilfs struct the_nilfs *

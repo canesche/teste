@@ -1,0 +1,2 @@
+struct esp_algorithm | dummy int 
+function esp_algorithm_lookup const struct esp_algorithm * | idx int

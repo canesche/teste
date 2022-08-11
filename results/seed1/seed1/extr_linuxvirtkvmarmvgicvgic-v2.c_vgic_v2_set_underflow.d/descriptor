@@ -1,0 +1,5 @@
+struct vgic_v2_cpu_if | vgic_hcr int 
+struct TYPE_3__ | vgic_v2 struct vgic_v2_cpu_if 
+struct TYPE_4__ | vgic_cpu struct TYPE_3__ 
+struct kvm_vcpu | arch struct TYPE_4__ 
+function vgic_v2_set_underflow void | vcpu struct kvm_vcpu *

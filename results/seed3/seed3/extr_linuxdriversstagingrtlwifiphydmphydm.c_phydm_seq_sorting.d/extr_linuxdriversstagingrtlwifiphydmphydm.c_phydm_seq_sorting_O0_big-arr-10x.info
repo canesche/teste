@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 14,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 80,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 1778,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversstagingrtlwifiphydmphydm.c_phydm_seq_sorting.d/extr_linuxdriversstagingrtlwifiphydmphydm.c_phydm_seq_sorting_O0::phydm_seq_sorting(63)"
+  }
+]

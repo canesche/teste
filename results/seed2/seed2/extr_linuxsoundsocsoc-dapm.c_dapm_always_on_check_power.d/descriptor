@@ -1,0 +1,2 @@
+struct snd_soc_dapm_widget | connected int 
+function dapm_always_on_check_power int | w struct snd_soc_dapm_widget *

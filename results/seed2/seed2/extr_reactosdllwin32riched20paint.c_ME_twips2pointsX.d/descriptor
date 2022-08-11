@@ -1,0 +1,4 @@
+struct TYPE_5__ | cx int 
+struct TYPE_7__ | editor struct TYPE_6__ * | dpi struct TYPE_5__ 
+struct TYPE_6__ | nZoomNumerator int | nZoomDenominator int 
+function ME_twips2pointsX int | c const struct TYPE_7__ * | x int

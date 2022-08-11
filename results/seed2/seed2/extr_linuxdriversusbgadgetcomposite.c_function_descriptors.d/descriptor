@@ -1,0 +1,3 @@
+struct usb_function | fs_descriptors struct usb_descriptor_header ** | hs_descriptors struct usb_descriptor_header ** | ss_descriptors struct usb_descriptor_header ** | ssp_descriptors struct usb_descriptor_header ** 
+struct usb_descriptor_header | dummy int 
+function function_descriptors struct usb_descriptor_header ** | f struct usb_function * | speed enum usb_device_speed

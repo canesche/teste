@@ -1,0 +1,1 @@
+function iterate_diffusion_matrix void | xres int | yres int | x int | y int | convert_buf short * | pixel short | error short

@@ -1,0 +1,1 @@
+value(padded_buflen) == 10, value(blocksize) == 10, length(unpadded_buflen_p) == 100, length(buf) == 100

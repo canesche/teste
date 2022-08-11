@@ -1,0 +1,2 @@
+struct devlink_sb | egress_pools_count long | ingress_pools_count long 
+function devlink_sb_pool_count long | devlink_sb struct devlink_sb *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverspinctrlpinctrl-artpec6.c_artpec6_pconf_drive_mA_to_field.d/extr_linuxdriverspinctrlpinctrl-artpec6.c_artpec6_pconf_drive_mA_to_field_O0::artpec6_pconf_drive_mA_to_field(69)"
+  }
+]

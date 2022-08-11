@@ -1,2 +1,0 @@
-struct kvm_book3e_206_tlb_entry | mas2 int 
-function get_tlb_eaddr int | tlbe const struct kvm_book3e_206_tlb_entry *

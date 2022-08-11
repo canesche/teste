@@ -1,0 +1,7 @@
+struct pf_state | state_key struct TYPE_6__ * 
+struct TYPE_5__ | pptp_state struct pf_state * 
+struct TYPE_7__ | grev1_state int * 
+struct TYPE_8__ | grev1 struct TYPE_5__ | pptp struct TYPE_7__ 
+struct pf_app_state | u struct TYPE_8__ 
+struct TYPE_6__ | app_state struct pf_app_state * 
+function pf_grev1_unlink void | s struct pf_state *

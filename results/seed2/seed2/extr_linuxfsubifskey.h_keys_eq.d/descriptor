@@ -1,0 +1,3 @@
+struct ubifs_key | u32 long * 
+struct ubifs_info | dummy int 
+function keys_eq int | c const struct ubifs_info * | key1 const union ubifs_key * | key2 const union ubifs_key *

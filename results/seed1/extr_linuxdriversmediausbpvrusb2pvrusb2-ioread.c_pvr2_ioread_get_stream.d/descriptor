@@ -1,3 +1,0 @@
-struct pvr2_stream | dummy int 
-struct pvr2_ioread | stream struct pvr2_stream * 
-function pvr2_ioread_get_stream struct pvr2_stream * | cp struct pvr2_ioread *

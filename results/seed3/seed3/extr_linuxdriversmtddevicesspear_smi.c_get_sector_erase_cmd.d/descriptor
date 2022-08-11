@@ -1,0 +1,2 @@
+struct spear_snor_flash | erase_cmd int 
+function get_sector_erase_cmd int | flash struct spear_snor_flash * | offset int

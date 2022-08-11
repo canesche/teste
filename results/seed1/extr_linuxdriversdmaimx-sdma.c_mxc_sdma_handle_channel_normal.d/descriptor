@@ -1,5 +1,0 @@
-struct sdma_channel | status int | desc struct TYPE_3__ * 
-struct TYPE_4__ | status int | count long 
-struct sdma_buffer_descriptor | mode struct TYPE_4__ 
-struct TYPE_3__ | num_bd int | chn_real_count long | bd struct sdma_buffer_descriptor * 
-function mxc_sdma_handle_channel_normal void | data struct sdma_channel *

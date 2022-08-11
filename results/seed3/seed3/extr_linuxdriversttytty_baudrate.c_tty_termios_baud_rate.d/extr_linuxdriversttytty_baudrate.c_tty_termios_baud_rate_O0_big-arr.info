@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversttytty_baudrate.c_tty_termios_baud_rate.d/extr_linuxdriversttytty_baudrate.c_tty_termios_baud_rate_O0::tty_termios_baud_rate(66)"
+  }
+]

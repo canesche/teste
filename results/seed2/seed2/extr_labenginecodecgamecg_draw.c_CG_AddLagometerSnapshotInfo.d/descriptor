@@ -1,0 +1,3 @@
+struct TYPE_4__ | ping int | snapFlags int 
+struct TYPE_5__ | snapshotSamples int * | snapshotCount int | snapshotFlags int * 
+function CG_AddLagometerSnapshotInfo void | snap struct TYPE_4__ *

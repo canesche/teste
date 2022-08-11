@@ -1,0 +1,4 @@
+struct virtio_device_id | device long | vendor long 
+struct TYPE_2__ | device long | vendor long 
+struct virtio_device | id struct TYPE_2__ 
+function virtio_id_match int | dev const struct virtio_device * | id const struct virtio_device_id *

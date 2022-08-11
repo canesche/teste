@@ -1,0 +1,3 @@
+struct TYPE_2__ | txkey long 
+struct chtls_sock | tlshws struct TYPE_2__ 
+function is_tls_tx int | csk struct chtls_sock *

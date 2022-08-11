@@ -1,0 +1,3 @@
+struct mlxsw_sp_rif | dummy int 
+struct mlxsw_sp_nexthop | rif struct mlxsw_sp_rif * 
+function mlxsw_sp_nexthop_rif struct mlxsw_sp_rif * | nh struct mlxsw_sp_nexthop *

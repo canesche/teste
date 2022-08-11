@@ -1,0 +1,1 @@
+function pmac_cpufreq_get_speed unsigned int | cpu unsigned int

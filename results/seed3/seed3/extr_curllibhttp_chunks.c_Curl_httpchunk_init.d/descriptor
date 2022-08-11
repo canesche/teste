@@ -1,0 +1,3 @@
+struct Curl_chunker | state int | dataleft long | hexindex long 
+struct connectdata | chunk struct Curl_chunker 
+function Curl_httpchunk_init void | conn struct connectdata *

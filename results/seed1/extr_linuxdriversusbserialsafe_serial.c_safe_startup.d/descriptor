@@ -1,7 +1,0 @@
-struct usb_serial | interface struct TYPE_8__ * | dev struct TYPE_6__ * 
-struct usb_interface_descriptor | bInterfaceClass long | bInterfaceSubClass long | bInterfaceProtocol int 
-struct TYPE_8__ | cur_altsetting struct TYPE_7__ * 
-struct TYPE_7__ | desc struct usb_interface_descriptor 
-struct TYPE_5__ | bDeviceClass long 
-struct TYPE_6__ | descriptor struct TYPE_5__ 
-function safe_startup int | serial struct usb_serial *

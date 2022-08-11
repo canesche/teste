@@ -1,0 +1,3 @@
+struct ocrdma_qp | id unsigned long 
+struct ocrdma_dev | qp_tbl struct ocrdma_qp ** 
+function ocrdma_add_qpn_map int | dev struct ocrdma_dev * | qp struct ocrdma_qp *

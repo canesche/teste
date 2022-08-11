@@ -1,0 +1,1 @@
+function armada_3700_pm_dvfs_update_regs void | load_level unsigned int | reg unsigned int * | offset unsigned int *

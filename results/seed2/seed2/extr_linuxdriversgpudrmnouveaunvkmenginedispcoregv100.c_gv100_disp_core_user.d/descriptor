@@ -1,0 +1,2 @@
+struct nv50_disp_chan | dummy int 
+function gv100_disp_core_user int | chan struct nv50_disp_chan * | psize int *

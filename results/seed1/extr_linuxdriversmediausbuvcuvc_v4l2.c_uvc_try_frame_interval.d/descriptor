@@ -1,2 +1,0 @@
-struct uvc_frame | bFrameIntervalType int | dwFrameInterval long * 
-function uvc_try_frame_interval long | frame struct uvc_frame * | interval long

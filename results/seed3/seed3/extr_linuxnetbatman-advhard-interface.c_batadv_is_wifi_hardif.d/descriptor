@@ -1,0 +1,2 @@
+struct batadv_hard_iface | wifi_flags long 
+function batadv_is_wifi_hardif int | hard_iface struct batadv_hard_iface *

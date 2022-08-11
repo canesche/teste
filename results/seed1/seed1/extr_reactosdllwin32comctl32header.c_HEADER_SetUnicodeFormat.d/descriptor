@@ -1,0 +1,2 @@
+struct TYPE_3__ | nNotifyFormat long 
+function HEADER_SetUnicodeFormat int | infoPtr struct TYPE_3__ * | wParam long

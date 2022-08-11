@@ -1,2 +1,0 @@
-struct TYPE_3__ | bottom int | right int | top int | left int 
-function element_from_margin_id int * | rc struct TYPE_3__ * | id int

@@ -1,0 +1,2 @@
+struct net_device | tx_queue_len int | max_mtu int | min_mtu int | priv_flags int | watchdog_timeo int | netdev_ops int * 
+function qcauart_netdev_setup void | dev struct net_device *

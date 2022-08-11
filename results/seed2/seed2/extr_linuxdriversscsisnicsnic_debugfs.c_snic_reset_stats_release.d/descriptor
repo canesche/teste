@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct file | private_data int * 
+function snic_reset_stats_release int | inode struct inode * | filp struct file *

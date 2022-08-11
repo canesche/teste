@@ -1,1 +1,0 @@
-function necp_policy_condition_get_flags_from_buffer int | buffer int * | length int

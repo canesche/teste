@@ -1,0 +1,2 @@
+struct kmem_cache | object_size unsigned long 
+function slab_ksize unsigned long | s const struct kmem_cache *

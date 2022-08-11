@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmamdamdgpusi_dpm.c_si_calculate_adjusted_tdp_limits.d/extr_linuxdriversgpudrmamdamdgpusi_dpm.c_si_calculate_adjusted_tdp_limits_O0::si_calculate_adjusted_tdp_limits(71)"
+  }
+]

@@ -1,0 +1,4 @@
+struct TYPE_3__ | necp_last_interface_index int 
+struct TYPE_4__ | necp_mtag struct TYPE_3__ 
+struct mbuf | m_flags int | m_pkthdr struct TYPE_4__ 
+function necp_get_last_interface_index_from_packet int | packet struct mbuf *

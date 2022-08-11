@@ -1,0 +1,2 @@
+struct zoran_jpg_settings | VerDcm int | HorDcm int | TmpDcm int 
+function zoran_v4l2_calc_bufsize int | settings struct zoran_jpg_settings *

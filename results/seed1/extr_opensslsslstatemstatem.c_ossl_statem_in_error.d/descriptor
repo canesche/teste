@@ -1,3 +1,0 @@
-struct TYPE_4__ | state long 
-struct TYPE_5__ | statem struct TYPE_4__ 
-function ossl_statem_in_error int | s const struct TYPE_5__ *

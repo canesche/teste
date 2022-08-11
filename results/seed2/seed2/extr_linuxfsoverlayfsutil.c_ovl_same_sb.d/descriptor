@@ -1,0 +1,5 @@
+struct super_block | s_fs_info struct ovl_fs * 
+struct ovl_fs | numlowerfs int | lower_fs struct TYPE_4__ * | upper_mnt struct TYPE_3__ * 
+struct TYPE_4__ | sb struct super_block * 
+struct TYPE_3__ | mnt_sb struct super_block * 
+function ovl_same_sb struct super_block * | sb struct super_block *

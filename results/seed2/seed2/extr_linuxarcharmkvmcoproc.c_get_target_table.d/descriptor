@@ -1,0 +1,3 @@
+struct kvm_coproc_target_table | num unsigned long | table const struct coproc_reg * 
+struct coproc_reg | dummy int 
+function get_target_table const struct coproc_reg * | target unsigned int | num unsigned long *

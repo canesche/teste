@@ -1,0 +1,2 @@
+struct TYPE_3__ | ambientColor void ** 
+function PicoSetShaderAmbientColor void | shader struct TYPE_3__ * | color void **

@@ -1,2 +1,0 @@
-struct TYPE_3__ | type int 
-function sqlite3_value_type int | pVal struct TYPE_3__ *

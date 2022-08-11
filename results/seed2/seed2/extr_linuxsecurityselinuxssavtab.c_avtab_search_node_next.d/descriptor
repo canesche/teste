@@ -1,0 +1,3 @@
+struct TYPE_2__ | source_type long | target_type long | target_class long | specified int 
+struct avtab_node | key struct TYPE_2__ | next struct avtab_node * 
+function avtab_search_node_next struct avtab_node * | node struct avtab_node * | specified int

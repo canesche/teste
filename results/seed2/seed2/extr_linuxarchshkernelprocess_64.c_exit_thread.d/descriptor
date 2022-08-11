@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function exit_thread void | tsk struct task_struct *

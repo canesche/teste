@@ -1,0 +1,4 @@
+struct nfs_fattr | dummy int 
+struct nfs4_label | dummy int 
+struct inode | dummy int 
+function nfs_setsecurity void | inode struct inode * | fattr struct nfs_fattr * | label struct nfs4_label *

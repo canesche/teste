@@ -1,4 +1,0 @@
-struct aac_dev | hba_map struct TYPE_2__ ** 
-struct aac_ciss_identify_pd | current_queue_depth_limit int 
-struct TYPE_2__ | devtype long | qd_limit int | safw_identify_resp struct aac_ciss_identify_pd * 
-function aac_set_safw_target_qd void | dev struct aac_dev * | bus int | target int

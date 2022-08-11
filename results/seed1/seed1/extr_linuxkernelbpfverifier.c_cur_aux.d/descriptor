@@ -1,0 +1,3 @@
+struct bpf_verifier_env | insn_idx unsigned long | insn_aux_data struct bpf_insn_aux_data * 
+struct bpf_insn_aux_data | dummy int 
+function cur_aux struct bpf_insn_aux_data * | env struct bpf_verifier_env *

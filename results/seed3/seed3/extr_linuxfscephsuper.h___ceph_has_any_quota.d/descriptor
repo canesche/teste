@@ -1,0 +1,2 @@
+struct ceph_inode_info | i_max_bytes long | i_max_files long 
+function __ceph_has_any_quota int | ci struct ceph_inode_info *

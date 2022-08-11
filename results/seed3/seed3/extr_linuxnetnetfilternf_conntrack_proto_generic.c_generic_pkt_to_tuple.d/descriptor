@@ -1,0 +1,8 @@
+struct sk_buff | dummy int 
+struct TYPE_7__ | all long 
+struct TYPE_8__ | u struct TYPE_7__ 
+struct TYPE_5__ | all long 
+struct TYPE_6__ | u struct TYPE_5__ 
+struct nf_conntrack_tuple | dst struct TYPE_8__ | src struct TYPE_6__ 
+struct net | dummy int 
+function generic_pkt_to_tuple int | skb const struct sk_buff * | dataoff unsigned int | net struct net * | tuple struct nf_conntrack_tuple *

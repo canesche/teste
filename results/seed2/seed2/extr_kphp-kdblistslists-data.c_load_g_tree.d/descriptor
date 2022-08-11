@@ -1,0 +1,3 @@
+struct TYPE_4__ | root int * | DA int | IA int | N int 
+struct TYPE_5__ | g_tree int 
+function load_g_tree void | LX struct TYPE_4__ *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | buff_for_parsing char * | err int | amount_of_read_chars long | state int 
+function init_state_struct void | state struct TYPE_3__ * | buff_for_parsing char *

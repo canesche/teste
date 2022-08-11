@@ -1,4 +1,0 @@
-struct batadv_ogm_packet | ttl int 
-struct TYPE_2__ | ogm_buff unsigned char * 
-struct batadv_hard_iface | bat_iv struct TYPE_2__ 
-function batadv_iv_ogm_primary_iface_set void | hard_iface struct batadv_hard_iface *

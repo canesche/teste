@@ -1,0 +1,3 @@
+struct TYPE_2__ | size int | in_use int 
+struct t4_wq | sq struct TYPE_2__ 
+function t4_sq_avail int | wq struct t4_wq *

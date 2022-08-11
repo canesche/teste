@@ -1,0 +1,2 @@
+struct iovec | iov_len unsigned long | iov_base long 
+function iov_tail unsigned long | iov struct iovec *

@@ -1,2 +1,0 @@
-struct qlcnic_hardware_context | pci_func int | fw_hal_version int 
-function qlcnic_get_cmd_signature int | ahw struct qlcnic_hardware_context *

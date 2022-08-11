@@ -1,0 +1,8 @@
+struct ucma_multicast | id int | uid int 
+struct TYPE_6__ | id int | uid int 
+struct ucma_event | resp struct TYPE_6__ | mc struct ucma_multicast * | ctx struct ucma_context * 
+struct ucma_context | id int | uid int 
+struct TYPE_4__ | private_data long 
+struct TYPE_5__ | ud struct TYPE_4__ 
+struct rdma_cm_event | event int | param struct TYPE_5__ 
+function ucma_set_event_context void | ctx struct ucma_context * | event struct rdma_cm_event * | uevent struct ucma_event *

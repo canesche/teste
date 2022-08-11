@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 4857,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_h2olibcommontime.c_emit_digits.d/extr_h2olibcommontime.c_emit_digits_O0::emit_digits(60)"
+  }
+]

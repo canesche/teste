@@ -1,0 +1,6 @@
+struct ieee80211_hw | wiphy struct TYPE_4__ * 
+struct b43_phy | radio_ver int | radio_rev int | type long | supports_2ghz int | supports_5ghz int 
+struct b43_wldev | phy struct b43_phy | wl struct TYPE_3__ * 
+struct TYPE_4__ | bands int ** 
+struct TYPE_3__ | hw struct ieee80211_hw * 
+function b43_setup_bands int | dev struct b43_wldev * | have_2ghz_phy int | have_5ghz_phy int

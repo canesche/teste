@@ -1,2 +1,0 @@
-struct Curl_easy | dummy int 
-function Curl_set_dns_interface int | data struct Curl_easy * | interf const char *

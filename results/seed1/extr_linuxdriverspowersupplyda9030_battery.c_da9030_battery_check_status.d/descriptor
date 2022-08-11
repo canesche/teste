@@ -1,3 +1,0 @@
-struct power_supply_propval | intval int 
-struct da9030_charger | is_on long | chdet long 
-function da9030_battery_check_status void | charger struct da9030_charger * | val union power_supply_propval *

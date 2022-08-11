@@ -1,2 +1,0 @@
-struct drm_gem_object | dummy int 
-function drm_gem_cma_prime_vunmap void | obj struct drm_gem_object * | vaddr void *

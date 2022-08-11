@@ -1,0 +1,2 @@
+struct snd_pcm_substream | stream long 
+function mst_audio_shutdown void | substream struct snd_pcm_substream * | priv void *

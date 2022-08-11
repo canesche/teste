@@ -1,0 +1,2 @@
+struct file | dummy int 
+function dcmi_g_input int | file struct file * | priv void * | i unsigned int *

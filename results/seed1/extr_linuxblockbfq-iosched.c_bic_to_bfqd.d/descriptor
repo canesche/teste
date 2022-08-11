@@ -1,6 +1,0 @@
-struct TYPE_6__ | q struct TYPE_5__ * 
-struct bfq_io_cq | icq struct TYPE_6__ 
-struct bfq_data | dummy int 
-struct TYPE_5__ | elevator struct TYPE_4__ * 
-struct TYPE_4__ | elevator_data struct bfq_data * 
-function bic_to_bfqd struct bfq_data * | bic struct bfq_io_cq *

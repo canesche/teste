@@ -1,0 +1,1 @@
+function bcd2000_dump_buffer void | prefix const char * | buf const char * | len int

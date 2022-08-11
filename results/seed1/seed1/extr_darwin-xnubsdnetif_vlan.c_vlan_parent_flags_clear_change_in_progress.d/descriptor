@@ -1,0 +1,2 @@
+struct TYPE_3__ | vlp_flags int 
+function vlan_parent_flags_clear_change_in_progress void | vlp struct TYPE_3__ *

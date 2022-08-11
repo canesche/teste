@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessathath9keeprom.c_ath9k_hw_get_lower_upper_index.d/extr_linuxdriversnetwirelessathath9keeprom.c_ath9k_hw_get_lower_upper_index_O0::ath9k_hw_get_lower_upper_index(63)"
+  }
+]

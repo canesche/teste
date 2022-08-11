@@ -1,3 +1,0 @@
-struct bman_portal | config const struct bm_portal_config * 
-struct bm_portal_config | dummy int 
-function bman_get_bm_portal_config const struct bm_portal_config * | portal const struct bman_portal *

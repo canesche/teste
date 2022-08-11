@@ -1,0 +1,1 @@
+function get_extra_physical_size int | image_width_roundup int | bytespp int

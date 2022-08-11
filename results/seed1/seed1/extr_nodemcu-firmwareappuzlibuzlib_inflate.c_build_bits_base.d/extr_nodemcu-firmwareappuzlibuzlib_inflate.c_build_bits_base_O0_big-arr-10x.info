@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 10,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 58,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 993,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_nodemcu-firmwareappuzlibuzlib_inflate.c_build_bits_base.d/extr_nodemcu-firmwareappuzlibuzlib_inflate.c_build_bits_base_O0::build_bits_base(62)"
+  }
+]

@@ -1,0 +1,2 @@
+struct goldfish_mmc_host | dummy int 
+function goldfish_mmc_cover_is_open int | host struct goldfish_mmc_host *

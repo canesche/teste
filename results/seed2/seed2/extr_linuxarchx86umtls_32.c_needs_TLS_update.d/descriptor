@@ -1,0 +1,5 @@
+struct uml_tls_struct | flushed long 
+struct TYPE_3__ | tls_array struct uml_tls_struct * 
+struct TYPE_4__ | arch struct TYPE_3__ 
+struct task_struct | thread struct TYPE_4__ 
+function needs_TLS_update int | task struct task_struct *

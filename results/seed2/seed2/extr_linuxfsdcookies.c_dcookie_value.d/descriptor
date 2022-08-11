@@ -1,0 +1,3 @@
+struct TYPE_2__ | dentry long 
+struct dcookie_struct | path struct TYPE_2__ 
+function dcookie_value unsigned long | dcs struct dcookie_struct *

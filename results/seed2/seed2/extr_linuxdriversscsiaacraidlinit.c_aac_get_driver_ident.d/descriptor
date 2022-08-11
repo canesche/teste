@@ -1,0 +1,2 @@
+struct aac_driver_ident | dummy int 
+function aac_get_driver_ident struct aac_driver_ident * | devtype int

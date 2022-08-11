@@ -1,0 +1,3 @@
+struct temac_local | tx_bd_tail int | tx_bd_v struct cdmac_bd * 
+struct cdmac_bd | app0 long 
+function temac_check_tx_bd_space int | lp struct temac_local * | num_frag int

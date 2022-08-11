@@ -1,5 +1,0 @@
-struct TYPE_8__ | litlength_repeatMode void * | matchlength_repeatMode void * | offcode_repeatMode void * 
-struct TYPE_6__ | repeatMode int 
-struct TYPE_7__ | fse struct TYPE_8__ | huf struct TYPE_6__ 
-struct TYPE_9__ | entropy struct TYPE_7__ | rep int * 
-function ZSTD_reset_compressedBlockState void | bs struct TYPE_9__ *

@@ -1,0 +1,6 @@
+struct TYPE_8__ | contenttype char * | wouldredirect char * | conn_primary_ip char * | conn_local_ip char * | conn_scheme char * 
+struct TYPE_7__ | str char ** | private_data long 
+struct TYPE_6__ | most_recent_ftp_entrypath char * 
+struct TYPE_5__ | url char * 
+struct Curl_easy | info struct TYPE_8__ | set struct TYPE_7__ | state struct TYPE_6__ | change struct TYPE_5__ 
+function getinfo_char int | data struct Curl_easy * | info int | param_charp const char **

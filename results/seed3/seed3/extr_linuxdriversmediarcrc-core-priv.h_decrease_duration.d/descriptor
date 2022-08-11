@@ -1,0 +1,2 @@
+struct ir_raw_event | duration unsigned int 
+function decrease_duration void | ev struct ir_raw_event * | duration unsigned int

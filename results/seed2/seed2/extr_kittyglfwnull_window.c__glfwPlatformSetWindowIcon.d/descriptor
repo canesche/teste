@@ -1,0 +1,1 @@
+function _glfwPlatformSetWindowIcon void | window int * | count int | images const int *

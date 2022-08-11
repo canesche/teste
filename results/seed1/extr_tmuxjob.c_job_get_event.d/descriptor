@@ -1,3 +1,0 @@
-struct job | event struct bufferevent * 
-struct bufferevent | dummy int 
-function job_get_event struct bufferevent * | job struct job *

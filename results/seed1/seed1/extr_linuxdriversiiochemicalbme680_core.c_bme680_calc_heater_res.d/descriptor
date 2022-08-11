@@ -1,0 +1,3 @@
+struct bme680_calib | par_gh3 int | par_gh1 int | par_gh2 int | res_heat_range int | res_heat_val int 
+struct bme680_data | bme680 struct bme680_calib 
+function bme680_calc_heater_res int | data struct bme680_data * | temp int

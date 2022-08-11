@@ -1,0 +1,3 @@
+struct cx23885_dev | board unsigned long 
+struct TYPE_2__ | portc long 
+function encoder_on_portc int | dev struct cx23885_dev *

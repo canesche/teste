@@ -1,2 +1,0 @@
-struct ti_bandgap | dummy int 
-function ti_thermal_register_cpu_cooling int | bgp struct ti_bandgap * | id int

@@ -1,1 +1,0 @@
-function rd_read_file int | fd int | ptr void * | len int

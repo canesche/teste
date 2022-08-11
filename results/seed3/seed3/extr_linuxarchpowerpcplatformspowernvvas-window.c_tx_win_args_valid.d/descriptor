@@ -1,0 +1,2 @@
+struct vas_tx_win_attr | tc_mode long | wcreds_max long | rsvd_txbuf_count long | user_win long 
+function tx_win_args_valid int | cop enum vas_cop_type | attr struct vas_tx_win_attr *

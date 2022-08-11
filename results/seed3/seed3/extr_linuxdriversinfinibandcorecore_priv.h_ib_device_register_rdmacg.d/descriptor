@@ -1,0 +1,2 @@
+struct ib_device | dummy int 
+function ib_device_register_rdmacg int | device struct ib_device *

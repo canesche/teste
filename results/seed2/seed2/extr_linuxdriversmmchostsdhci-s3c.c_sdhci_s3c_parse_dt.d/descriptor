@@ -1,0 +1,4 @@
+struct sdhci_host | dummy int 
+struct s3c_sdhci_platdata | dummy int 
+struct device | dummy int 
+function sdhci_s3c_parse_dt int | dev struct device * | host struct sdhci_host * | pdata struct s3c_sdhci_platdata *

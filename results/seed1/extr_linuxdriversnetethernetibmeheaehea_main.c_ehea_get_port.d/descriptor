@@ -1,3 +1,0 @@
-struct ehea_port | logical_port_id int 
-struct ehea_adapter | port struct ehea_port ** 
-function ehea_get_port struct ehea_port * | adapter struct ehea_adapter * | logical_port int

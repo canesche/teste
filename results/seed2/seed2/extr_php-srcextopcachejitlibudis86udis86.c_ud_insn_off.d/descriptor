@@ -1,0 +1,2 @@
+struct ud | insn_offset int 
+function ud_insn_off int | u const struct ud *

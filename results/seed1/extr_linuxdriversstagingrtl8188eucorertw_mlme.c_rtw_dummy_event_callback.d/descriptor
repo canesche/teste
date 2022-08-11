@@ -1,2 +1,0 @@
-struct adapter | dummy int 
-function rtw_dummy_event_callback void | adapter struct adapter * | pbuf int *

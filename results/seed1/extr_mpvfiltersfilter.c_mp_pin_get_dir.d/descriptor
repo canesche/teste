@@ -1,2 +1,0 @@
-struct mp_pin | dir int 
-function mp_pin_get_dir enum mp_pin_dir | p struct mp_pin *

@@ -1,2 +1,0 @@
-struct amd64_pvt | ext_model long | dclr0 int | dclr1 long 
-function k8_early_channel_count int | pvt struct amd64_pvt *

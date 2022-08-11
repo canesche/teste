@@ -1,5 +1,0 @@
-struct TYPE_2__ | value long | disabled int | fixed long 
-struct iwreq_data | rts struct TYPE_2__ 
-struct iw_request_info | dummy int 
-struct ieee80211_device | rts long 
-function ieee80211_wx_get_rts int | ieee struct ieee80211_device * | info struct iw_request_info * | wrqu union iwreq_data * | extra char *

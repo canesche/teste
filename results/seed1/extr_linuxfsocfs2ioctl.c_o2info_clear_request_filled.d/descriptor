@@ -1,2 +1,0 @@
-struct ocfs2_info_request | ir_flags int 
-function o2info_clear_request_filled void | req struct ocfs2_info_request *

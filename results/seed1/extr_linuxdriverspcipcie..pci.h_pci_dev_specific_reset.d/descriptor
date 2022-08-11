@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function pci_dev_specific_reset int | dev struct pci_dev * | probe int

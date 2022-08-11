@@ -1,2 +1,0 @@
-struct sk_buff | dummy int 
-function _rtw_skb_clone struct sk_buff * | skb struct sk_buff *

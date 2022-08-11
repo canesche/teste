@@ -1,0 +1,1 @@
+function __gluMultMatrixVecd void | matrix int const[16] | in int const[4] | out int [4]

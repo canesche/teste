@@ -1,0 +1,2 @@
+struct adapter | dummy int 
+function Efuse_Write1ByteToFakeContent int | padapter struct adapter * | Offset unsigned long | Value void *

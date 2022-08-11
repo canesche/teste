@@ -1,1 +1,0 @@
-function pca955x_ledsel int | oldval int | led_num int | state int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | i int | type int 
+function XMLRPC_SetValueBoolean void | value struct TYPE_3__ * | val int

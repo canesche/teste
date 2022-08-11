@@ -1,0 +1,2 @@
+struct vgic_irq | config long | hw long 
+function vgic_irq_is_mapped_level int | irq struct vgic_irq *

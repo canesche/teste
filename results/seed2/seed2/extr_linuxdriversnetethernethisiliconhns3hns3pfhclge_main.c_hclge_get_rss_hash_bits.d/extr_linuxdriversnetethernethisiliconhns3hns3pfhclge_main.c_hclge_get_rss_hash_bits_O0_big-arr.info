@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernethisiliconhns3hns3pfhclge_main.c_hclge_get_rss_hash_bits.d/extr_linuxdriversnetethernethisiliconhns3hns3pfhclge_main.c_hclge_get_rss_hash_bits_O0::hclge_get_rss_hash_bits(73)"
+  }
+]

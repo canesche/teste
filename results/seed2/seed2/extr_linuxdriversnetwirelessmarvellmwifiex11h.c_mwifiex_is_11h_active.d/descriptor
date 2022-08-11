@@ -1,0 +1,3 @@
+struct TYPE_2__ | is_11h_active int 
+struct mwifiex_private | state_11h struct TYPE_2__ 
+function mwifiex_is_11h_active int | priv struct mwifiex_private *

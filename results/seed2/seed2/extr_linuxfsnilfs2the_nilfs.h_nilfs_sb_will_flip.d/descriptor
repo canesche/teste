@@ -1,0 +1,2 @@
+struct the_nilfs | ns_sbwcount int 
+function nilfs_sb_will_flip int | nilfs struct the_nilfs *

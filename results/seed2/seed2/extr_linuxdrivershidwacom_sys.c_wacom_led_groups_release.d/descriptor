@@ -1,0 +1,3 @@
+struct TYPE_2__ | count long | groups int * 
+struct wacom | led struct TYPE_2__ 
+function wacom_led_groups_release void | data void *

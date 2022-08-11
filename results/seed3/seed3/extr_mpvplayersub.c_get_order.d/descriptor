@@ -1,0 +1,3 @@
+struct track | dummy int 
+struct MPContext | current_track struct track *** 
+function get_order int | mpctx struct MPContext * | track struct track *

@@ -1,0 +1,1 @@
+function hangcheck_action_to_str const char * | a const enum intel_engine_hangcheck_action

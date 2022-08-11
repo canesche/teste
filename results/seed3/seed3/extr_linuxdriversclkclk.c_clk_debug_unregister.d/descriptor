@@ -1,0 +1,2 @@
+struct clk_core | dummy int 
+function clk_debug_unregister void | core struct clk_core *

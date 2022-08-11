@@ -1,2 +1,0 @@
-struct tlb_client_info | load_history int | tx_bytes int | prev void * | next void * | tx_slave int * 
-function tlb_init_table_entry void | entry struct tlb_client_info * | save_load int

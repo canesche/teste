@@ -1,0 +1,4 @@
+struct mxser_port | type long | rx_trigger int | rx_high_water int | rx_low_water int | xmit_fifo_size int | board struct TYPE_3__ * 
+struct TYPE_4__ | type long | rx_trigger int | rx_low_water int | rx_high_water int | xmit_fifo_size int 
+struct TYPE_3__ | chip_flag long 
+function process_txrx_fifo void | info struct mxser_port *

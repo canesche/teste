@@ -1,0 +1,2 @@
+struct nfp_prog | prog_len unsigned int 
+function nfp_prog_current_offset unsigned int | nfp_prog struct nfp_prog *

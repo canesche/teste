@@ -1,0 +1,4 @@
+struct qlcnic_vf_info | rx_ctx_id int 
+struct TYPE_2__ | arg int * 
+struct qlcnic_cmd_args | req struct TYPE_2__ 
+function qlcnic_sriov_validate_del_rx_ctx int | vf struct qlcnic_vf_info * | cmd struct qlcnic_cmd_args *

@@ -1,0 +1,4 @@
+struct i40e_pf | iwarp_base_vector unsigned long | msix_entries int * | num_iwarp_msix int | cinst struct i40e_client_instance * 
+struct TYPE_2__ | msix_entries int * | msix_count int 
+struct i40e_client_instance | lan_info struct TYPE_2__ | client int 
+function i40e_client_update_msix_info void | pf struct i40e_pf *

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function __qcom_scm_set_warm_boot_addr int | dev struct device * | entry void * | cpus const int *

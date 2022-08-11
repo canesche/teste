@@ -1,2 +1,0 @@
-struct NCR5380_hostdata | dummy int 
-function NCR5380_dma_residual_none int | hostdata struct NCR5380_hostdata *

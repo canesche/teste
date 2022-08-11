@@ -1,0 +1,2 @@
+struct curl_pushheaders | dummy int 
+function curl_pushheader_byname char * | h struct curl_pushheaders * | header const char *

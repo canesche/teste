@@ -1,0 +1,3 @@
+struct TYPE_5__ | userstatus long | numfriends unsigned long | friendlist struct TYPE_4__ * 
+struct TYPE_4__ | userstatus_sent long 
+function m_set_userstatus int | m struct TYPE_5__ * | status long

@@ -1,3 +1,0 @@
-struct TYPE_2__ | ci_array long * 
-struct ocfs2_caching_info | ci_num_cached int | ci_cache struct TYPE_2__ 
-function ocfs2_search_cache_array int | ci struct ocfs2_caching_info * | item long

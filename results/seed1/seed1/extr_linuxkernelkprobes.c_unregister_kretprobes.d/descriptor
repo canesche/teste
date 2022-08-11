@@ -1,0 +1,2 @@
+struct kretprobe | dummy int 
+function unregister_kretprobes void | rps struct kretprobe ** | num int

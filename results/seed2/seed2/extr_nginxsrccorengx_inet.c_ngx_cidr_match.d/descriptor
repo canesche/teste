@@ -1,0 +1,8 @@
+struct TYPE_9__ | s_addr int 
+struct sockaddr_in | sin_addr struct TYPE_9__ 
+struct sockaddr | sa_family unsigned long 
+struct TYPE_7__ | mask int | addr int 
+struct TYPE_8__ | in struct TYPE_7__ 
+struct TYPE_10__ | family unsigned long | u struct TYPE_8__ 
+struct TYPE_11__ | nelts unsigned long | elts struct TYPE_10__ * 
+function ngx_cidr_match int | sa struct sockaddr * | cidrs struct TYPE_11__ *

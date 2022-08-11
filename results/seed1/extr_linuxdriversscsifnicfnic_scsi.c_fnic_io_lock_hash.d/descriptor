@@ -1,4 +1,0 @@
-struct scsi_cmnd | request struct TYPE_2__ * 
-struct fnic | io_req_lock int * 
-struct TYPE_2__ | tag int 
-function fnic_io_lock_hash int * | fnic struct fnic * | sc struct scsi_cmnd *

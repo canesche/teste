@@ -1,0 +1,4 @@
+struct sched_dl_entity | dl_bw long 
+struct TYPE_2__ | this_bw long | running_bw long | bw_ratio long | extra_bw long 
+struct rq | dl struct TYPE_2__ 
+function grub_reclaim long | delta long | rq struct rq * | dl_se struct sched_dl_entity *

@@ -1,0 +1,2 @@
+struct cb_desc | bUseShortPreamble long | bUseShortGI long 
+function QueryIsShort int | TxHT int | TxRate int | tcb_desc struct cb_desc *

@@ -1,0 +1,2 @@
+struct ud | vendor unsigned int 
+function ud_set_vendor void | u struct ud * | v unsigned int

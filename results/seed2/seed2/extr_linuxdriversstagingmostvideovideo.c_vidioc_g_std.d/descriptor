@@ -1,0 +1,2 @@
+struct file | dummy int 
+function vidioc_g_std int | file struct file * | priv void * | norm int *

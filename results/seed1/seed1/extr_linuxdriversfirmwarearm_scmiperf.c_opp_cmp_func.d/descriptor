@@ -1,0 +1,2 @@
+struct scmi_opp | perf int 
+function opp_cmp_func int | opp1 const void * | opp2 const void *

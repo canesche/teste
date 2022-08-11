@@ -1,0 +1,2 @@
+struct TYPE_3__ | cur_index_buffer int * 
+function device_load_indexbuffer void | device struct TYPE_3__ * | ib int *

@@ -1,3 +1,0 @@
-struct fb_var_screeninfo | bits_per_pixel long | xres long | xres_virtual long | yres long | xoffset long | yoffset long 
-struct atafb_par | next_line int 
-function ext_decode_var int | var struct fb_var_screeninfo * | par struct atafb_par *

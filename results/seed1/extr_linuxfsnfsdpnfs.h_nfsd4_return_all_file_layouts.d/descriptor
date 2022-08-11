@@ -1,3 +1,0 @@
-struct nfs4_file | dummy int 
-struct nfs4_client | dummy int 
-function nfsd4_return_all_file_layouts void | clp struct nfs4_client * | fp struct nfs4_file *

@@ -1,0 +1,2 @@
+struct guc_policy | policy_flags long | fault_time int | preemption_time int | execution_quantum int 
+function guc_policy_init void | policy struct guc_policy *

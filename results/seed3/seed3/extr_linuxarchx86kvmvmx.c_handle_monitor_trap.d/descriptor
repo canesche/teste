@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function handle_monitor_trap int | vcpu struct kvm_vcpu *

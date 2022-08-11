@@ -1,0 +1,1 @@
+function armpmu_map_cache_event int | cache_map unsigned int const (*)[PERF_COUNT_HW_CACHE_MAX][PERF_COUNT_HW_CACHE_OP_MAX][PERF_COUNT_HW_CACHE_RESULT_MAX] | config int

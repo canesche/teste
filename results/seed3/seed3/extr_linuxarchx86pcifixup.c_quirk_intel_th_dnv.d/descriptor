@@ -1,0 +1,3 @@
+struct resource | end int | start int | flags int 
+struct pci_dev | resource struct resource * 
+function quirk_intel_th_dnv void | dev struct pci_dev *

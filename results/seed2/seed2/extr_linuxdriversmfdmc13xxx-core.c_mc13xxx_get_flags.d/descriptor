@@ -1,0 +1,2 @@
+struct mc13xxx | flags int 
+function mc13xxx_get_flags int | mc13xxx struct mc13xxx *

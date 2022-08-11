@@ -1,0 +1,5 @@
+struct metapath | mp_bh struct buffer_head ** 
+struct gfs2_meta_header | dummy int 
+struct gfs2_dinode | dummy int 
+struct buffer_head | b_data long 
+function metaptr1 int * | height unsigned int | mp const struct metapath *

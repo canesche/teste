@@ -1,0 +1,3 @@
+struct snd_ac97 | num long | private_data struct fm801 * 
+struct fm801 | ac97_sec int * | ac97 int * 
+function snd_fm801_mixer_free_ac97 void | ac97 struct snd_ac97 *

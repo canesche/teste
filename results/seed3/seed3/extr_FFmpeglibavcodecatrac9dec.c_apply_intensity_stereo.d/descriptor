@@ -1,0 +1,3 @@
+struct TYPE_5__ | cpe_base_channel unsigned long | q_unit_cnt int | stereo_q_unit int | is_signs int * | channel struct TYPE_4__ * 
+struct TYPE_4__ | coeffs float * 
+function apply_intensity_stereo void | s int * | b struct TYPE_5__ * | stereo const int

@@ -1,2 +1,0 @@
-struct wm_adsp | dummy int 
-function wm_adsp_debugfs_save_binname void | dsp struct wm_adsp * | s const char *

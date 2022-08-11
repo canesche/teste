@@ -1,0 +1,3 @@
+struct apei_exec_context | value int | ip int 
+struct acpi_whea_header | dummy int 
+function erst_exec_goto int | ctx struct apei_exec_context * | entry struct acpi_whea_header *

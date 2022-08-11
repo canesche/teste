@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function i2c_gpio_fault_injector_init void | pdev struct platform_device *

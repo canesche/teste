@@ -1,3 +1,0 @@
-struct cpufreq_frequency_table | frequency unsigned long 
-struct clk_rate_round_data | arg struct cpufreq_frequency_table * 
-function clk_rate_table_iter long | pos unsigned int | rounder struct clk_rate_round_data *

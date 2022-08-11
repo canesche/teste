@@ -1,2 +1,0 @@
-struct ata_device | dummy int 
-function zpodd_zpready int | dev struct ata_device *

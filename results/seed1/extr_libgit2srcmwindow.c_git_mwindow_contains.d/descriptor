@@ -1,3 +1,0 @@
-struct TYPE_4__ | len long 
-struct TYPE_5__ | offset long | window_map struct TYPE_4__ 
-function git_mwindow_contains int | win struct TYPE_5__ * | offset long

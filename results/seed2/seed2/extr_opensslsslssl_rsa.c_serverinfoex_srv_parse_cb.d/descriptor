@@ -1,0 +1,1 @@
+function serverinfoex_srv_parse_cb int | s int * | ext_type unsigned int | context unsigned int | in const unsigned char * | inlen unsigned long | x int * | chainidx unsigned long | al int * | arg void *

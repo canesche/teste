@@ -1,0 +1,2 @@
+struct sha256_state | state int * | length long | curlen long 
+function SHA256_Init void | md struct sha256_state *

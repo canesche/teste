@@ -1,0 +1,2 @@
+struct factors_request | rate int | k int | p int | n int | m long 
+function sun4i_get_pll1_factors void | req struct factors_request *

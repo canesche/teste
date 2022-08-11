@@ -1,0 +1,2 @@
+struct drm_connector | dummy int 
+function dce_virtual_force void | connector struct drm_connector *

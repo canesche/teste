@@ -1,0 +1,2 @@
+struct scsi_qla_host | dummy int 
+function eeprom_no_data_bits int | ha struct scsi_qla_host *

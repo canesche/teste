@@ -1,0 +1,2 @@
+struct v4l2_ctrl_handler | error int 
+function handler_set_err int | hdl struct v4l2_ctrl_handler * | err int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | channelLimit unsigned long 
+function enet_host_channel_limit void | host struct TYPE_3__ * | channelLimit unsigned long

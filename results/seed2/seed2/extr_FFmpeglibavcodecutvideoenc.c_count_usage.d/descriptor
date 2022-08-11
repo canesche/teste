@@ -1,0 +1,1 @@
+function count_usage void | src unsigned long * | width int | height int | counts int *

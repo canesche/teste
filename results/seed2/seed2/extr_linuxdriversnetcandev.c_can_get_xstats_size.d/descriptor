@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct can_device_stats | dummy int 
+function can_get_xstats_size unsigned long | dev const struct net_device *

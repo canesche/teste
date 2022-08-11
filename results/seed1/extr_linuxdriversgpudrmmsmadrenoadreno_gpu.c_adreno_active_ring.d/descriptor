@@ -1,3 +1,0 @@
-struct msm_ringbuffer | dummy int 
-struct msm_gpu | rb struct msm_ringbuffer ** 
-function adreno_active_ring struct msm_ringbuffer * | gpu struct msm_gpu *

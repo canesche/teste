@@ -1,2 +1,0 @@
-struct btrfs_fs_info | dummy int 
-function btrfs_free_ref_cache void | fs_info struct btrfs_fs_info *

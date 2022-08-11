@@ -1,0 +1,3 @@
+struct TYPE_2__ | tx_errors int | tx_fifo_errors int | tx_dropped int | collisions int 
+struct net_device | stats struct TYPE_2__ 
+function nb8800_tx_error void | dev struct net_device * | report int

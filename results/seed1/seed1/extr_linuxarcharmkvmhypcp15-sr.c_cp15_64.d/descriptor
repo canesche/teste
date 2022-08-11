@@ -1,0 +1,2 @@
+struct kvm_cpu_context | cp15 long 
+function cp15_64 int * | ctxt struct kvm_cpu_context * | idx int

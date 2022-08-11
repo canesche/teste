@@ -1,0 +1,4 @@
+struct TYPE_5__ | words_cnt const long | words_progress_restored long * | words_progress_rejected long * | words_progress_done long * 
+struct TYPE_6__ | salts_cnt unsigned long | salts_shown int * 
+struct TYPE_7__ | status_ctx struct TYPE_5__ * | hashes struct TYPE_6__ * 
+function status_get_progress_ignore long | hashcat_ctx const struct TYPE_7__ *

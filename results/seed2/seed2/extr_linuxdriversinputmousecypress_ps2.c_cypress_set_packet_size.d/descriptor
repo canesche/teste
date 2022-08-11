@@ -1,0 +1,3 @@
+struct psmouse | private struct cytp_data * 
+struct cytp_data | pkt_size unsigned int 
+function cypress_set_packet_size void | psmouse struct psmouse * | n unsigned int

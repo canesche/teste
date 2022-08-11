@@ -1,3 +1,0 @@
-struct vmx | cap struct TYPE_2__ * 
-struct TYPE_2__ | set int 
-function vmx_getcap int | arg void * | vcpu int | type int | retval int *

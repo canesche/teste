@@ -1,0 +1,2 @@
+struct TYPE_3__ | stacklen int | stacksize int | stack unsigned int * 
+function yxml_pushstackc int | x struct TYPE_3__ * | ch unsigned int

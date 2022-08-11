@@ -1,0 +1,2 @@
+struct cache_set | bucket_bits unsigned long 
+function sector_to_bucket unsigned long | c struct cache_set * | s unsigned long

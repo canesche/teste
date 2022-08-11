@@ -1,0 +1,2 @@
+struct TYPE_3__ | backoff int | n2count int | t1 int | rtt int 
+function ax25_calculate_t1 void | ax25 struct TYPE_3__ *

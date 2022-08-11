@@ -1,2 +1,0 @@
-struct clocksource | dummy int 
-function clocksource_is_watchdog int | cs struct clocksource *

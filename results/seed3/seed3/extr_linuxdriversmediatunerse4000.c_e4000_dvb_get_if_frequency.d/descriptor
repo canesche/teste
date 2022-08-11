@@ -1,0 +1,2 @@
+struct dvb_frontend | dummy int 
+function e4000_dvb_get_if_frequency int | fe struct dvb_frontend * | frequency long *

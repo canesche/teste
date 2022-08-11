@@ -1,2 +1,0 @@
-struct device_node | dummy int 
-function of_get_pci_domain_nr int | node struct device_node *

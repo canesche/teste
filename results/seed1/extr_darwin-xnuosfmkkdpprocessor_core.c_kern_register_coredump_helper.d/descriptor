@@ -1,1 +1,0 @@
-function kern_register_coredump_helper int | kern_coredump_config_vers int | kc_callbacks int * | refcon void * | core_description const char * | is64bit int | mh_magic int | cpu_type int | cpu_subtype int

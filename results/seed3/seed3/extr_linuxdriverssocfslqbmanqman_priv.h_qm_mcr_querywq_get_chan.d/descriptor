@@ -1,0 +1,2 @@
+struct qm_mcr_querywq | channel_wq int 
+function qm_mcr_querywq_get_chan int | wq const struct qm_mcr_querywq *

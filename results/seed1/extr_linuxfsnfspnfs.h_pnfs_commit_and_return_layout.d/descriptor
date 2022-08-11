@@ -1,2 +1,0 @@
-struct inode | dummy int 
-function pnfs_commit_and_return_layout int | inode struct inode *

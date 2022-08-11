@@ -1,0 +1,3 @@
+struct TYPE_5__ | numpeers unsigned long | group struct TYPE_4__ * 
+struct TYPE_4__ | peer_number long 
+function get_peer_index int | g struct TYPE_5__ * | peer_number long

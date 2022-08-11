@@ -1,1 +1,0 @@
-value(column_size) == 255, value(batch_size) == 255, length(column_data) == 65025, length(data) == 65025, length(context) == 65025, length(stream_context) == 65025

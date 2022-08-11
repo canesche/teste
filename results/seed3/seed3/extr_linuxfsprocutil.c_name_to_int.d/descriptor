@@ -1,0 +1,2 @@
+struct qstr | name char * | len int 
+function name_to_int unsigned int | qstr const struct qstr *

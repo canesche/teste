@@ -1,0 +1,1 @@
+function mma9551_read_accel_scale int | val int * | val2 int *

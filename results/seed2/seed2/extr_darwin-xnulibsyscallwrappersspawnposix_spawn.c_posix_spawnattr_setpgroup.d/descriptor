@@ -1,0 +1,2 @@
+struct TYPE_2__ | psa_pgroup int 
+function posix_spawnattr_setpgroup int | attr int ** | pgroup int

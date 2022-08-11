@@ -1,3 +1,0 @@
-struct mlx5_core_dev | dummy int 
-struct mlx5_accel_esp_xfrm | dummy int 
-function mlx5_accel_esp_create_hw_context void * | mdev struct mlx5_core_dev * | xfrm struct mlx5_accel_esp_xfrm * | saddr int const[4] | daddr int const[4] | spi const int | is_ipv6 int

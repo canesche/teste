@@ -1,0 +1,2 @@
+struct adapter | flags int | use_bd int 
+function t4_use_ldst unsigned int | adap struct adapter *

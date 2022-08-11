@@ -1,2 +1,0 @@
-struct adreno_gpu | revn int 
-function adreno_is_a430 int | gpu struct adreno_gpu *

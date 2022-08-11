@@ -1,0 +1,2 @@
+struct radeon_ring | idx long 
+function radeon_test_sync_possible int | ringA struct radeon_ring * | ringB struct radeon_ring *

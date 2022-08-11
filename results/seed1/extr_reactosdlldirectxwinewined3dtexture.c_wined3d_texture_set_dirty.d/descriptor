@@ -1,2 +1,0 @@
-struct wined3d_texture | flags int 
-function wined3d_texture_set_dirty void | texture struct wined3d_texture *

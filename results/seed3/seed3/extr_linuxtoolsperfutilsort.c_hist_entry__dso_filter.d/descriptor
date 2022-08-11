@@ -1,0 +1,5 @@
+struct TYPE_4__ | map struct TYPE_3__ * 
+struct hist_entry | ms struct TYPE_4__ 
+struct dso | dummy int 
+struct TYPE_3__ | dso const struct dso * 
+function hist_entry__dso_filter int | he struct hist_entry * | type int | arg const void *

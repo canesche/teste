@@ -1,4 +1,0 @@
-struct clk_hw | dummy int 
-struct clk | core struct TYPE_2__ * 
-struct TYPE_2__ | hw struct clk_hw * 
-function __clk_get_hw struct clk_hw * | clk struct clk *

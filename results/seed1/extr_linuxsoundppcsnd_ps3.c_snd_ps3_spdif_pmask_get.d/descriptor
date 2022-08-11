@@ -1,3 +1,0 @@
-struct snd_kcontrol | dummy int 
-struct snd_ctl_elem_value | dummy int 
-function snd_ps3_spdif_pmask_get int | kcontrol struct snd_kcontrol * | ucontrol struct snd_ctl_elem_value *

@@ -1,0 +1,4 @@
+struct knote | kn_data int | kn_fp struct TYPE_4__ * | kn_vnode_use_ofst long 
+struct TYPE_4__ | f_fglob struct TYPE_3__ * 
+struct TYPE_3__ | fg_offset long 
+function filt_spec_common void | kn struct knote * | selres int

@@ -1,0 +1,7 @@
+struct TYPE_8__ | global_alpha struct TYPE_7__ * 
+struct TYPE_6__ | vsi struct TYPE_5__ * 
+struct mtk_mdp_ctx | ctrls struct TYPE_8__ | vpu struct TYPE_6__ 
+struct mdp_config_misc | alpha int 
+struct TYPE_7__ | val int 
+struct TYPE_5__ | misc struct mdp_config_misc 
+function mtk_mdp_hw_set_global_alpha void | ctx struct mtk_mdp_ctx *

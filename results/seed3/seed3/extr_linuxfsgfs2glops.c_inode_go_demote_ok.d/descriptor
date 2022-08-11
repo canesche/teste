@@ -1,0 +1,4 @@
+struct gfs2_sbd | sd_jindex long | sd_rindex long 
+struct TYPE_2__ | ln_sbd struct gfs2_sbd * 
+struct gfs2_glock | gl_object long | gl_name struct TYPE_2__ 
+function inode_go_demote_ok int | gl const struct gfs2_glock *

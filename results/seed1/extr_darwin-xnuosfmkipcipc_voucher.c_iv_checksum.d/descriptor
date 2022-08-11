@@ -1,2 +1,0 @@
-struct TYPE_3__ | iv_table_size long | iv_table unsigned long * 
-function iv_checksum unsigned long | voucher struct TYPE_3__ * | emptyp int *

@@ -1,2 +1,0 @@
-struct uart_port | type int 
-function siu_type_name const char * | port struct uart_port *

@@ -1,0 +1,3 @@
+struct smu7_hwmgr | mem_latency_high long | mem_latency_low long 
+struct pp_hwmgr | backend long 
+function smu7_get_mem_latency long | hwmgr struct pp_hwmgr * | clk long

@@ -1,2 +1,0 @@
-struct sas_phy | dummy int 
-function hpsa_sas_phy_setup int | phy struct sas_phy *

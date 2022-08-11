@@ -1,0 +1,4 @@
+struct TYPE_4__ | vaddr int * 
+struct falcon | firmware struct TYPE_4__ | ops struct TYPE_3__ * 
+struct TYPE_3__ | free int | alloc int 
+function falcon_init int | falcon struct falcon *

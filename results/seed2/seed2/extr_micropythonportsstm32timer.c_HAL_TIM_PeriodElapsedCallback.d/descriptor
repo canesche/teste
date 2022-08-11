@@ -1,0 +1,1 @@
+function HAL_TIM_PeriodElapsedCallback void | htim int *

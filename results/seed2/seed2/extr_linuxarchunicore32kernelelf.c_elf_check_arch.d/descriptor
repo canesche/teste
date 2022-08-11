@@ -1,0 +1,2 @@
+struct elf32_hdr | e_machine long | e_entry int 
+function elf_check_arch int | x const struct elf32_hdr *

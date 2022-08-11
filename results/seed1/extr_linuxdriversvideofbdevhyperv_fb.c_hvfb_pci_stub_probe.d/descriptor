@@ -1,3 +1,0 @@
-struct pci_device_id | dummy int 
-struct pci_dev | dummy int 
-function hvfb_pci_stub_probe int | pdev struct pci_dev * | ent const struct pci_device_id *

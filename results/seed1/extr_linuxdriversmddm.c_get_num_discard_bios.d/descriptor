@@ -1,2 +1,0 @@
-struct dm_target | num_discard_bios int 
-function get_num_discard_bios unsigned int | ti struct dm_target *

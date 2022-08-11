@@ -1,0 +1,1 @@
+function add_left_pred_c int | dst int * | src const int * | w int | acc int

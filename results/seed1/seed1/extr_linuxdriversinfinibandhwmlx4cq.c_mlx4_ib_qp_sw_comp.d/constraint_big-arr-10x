@@ -1,0 +1,1 @@
+value(num_entries) == 10, value(is_send) == 10, length(npolled) == 100, length(qp) == 100, length(wc) == 100

@@ -1,0 +1,5 @@
+struct TYPE_3__ | dstride long | sstride long 
+struct st_fdma_hw_node | generic struct TYPE_3__ | saddr int | control int | daddr int 
+struct TYPE_4__ | dev_addr int 
+struct st_fdma_chan | cfg struct TYPE_4__ 
+function fill_hw_node void | hw_node struct st_fdma_hw_node * | fchan struct st_fdma_chan * | direction enum dma_transfer_direction

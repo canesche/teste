@@ -1,1 +1,0 @@
-function v4l2_rot_to_dss_rot int | v4l2_rotation int | rotation enum dss_rotation * | mirror int

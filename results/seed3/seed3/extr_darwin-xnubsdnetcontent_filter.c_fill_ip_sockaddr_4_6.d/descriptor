@@ -1,0 +1,5 @@
+struct TYPE_2__ | s_addr int 
+struct sockaddr_in | sin_len int | sin_addr struct TYPE_2__ | sin_port int | sin_family int 
+struct sockaddr_in_4_6 | sin struct sockaddr_in 
+struct in_addr | s_addr int 
+function fill_ip_sockaddr_4_6 void | sin46 union sockaddr_in_4_6 * | ip struct in_addr | port int

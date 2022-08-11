@@ -1,0 +1,2 @@
+struct cm_req_msg | primary_offset95 int 
+function cm_req_set_primary_local_ack_timeout void | req_msg struct cm_req_msg * | local_ack_timeout int

@@ -1,0 +1,5 @@
+struct mmio_hpte_cache_entry | dummy int 
+struct TYPE_3__ | index unsigned int | entry struct mmio_hpte_cache_entry * 
+struct TYPE_4__ | mmio_cache struct TYPE_3__ 
+struct kvm_vcpu | arch struct TYPE_4__ 
+function next_mmio_cache_entry struct mmio_hpte_cache_entry * | vcpu struct kvm_vcpu *

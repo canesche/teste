@@ -1,0 +1,4 @@
+struct TYPE_3__ | hv_vapic int 
+struct TYPE_4__ | hyperv struct TYPE_3__ 
+struct kvm_vcpu | arch struct TYPE_4__ 
+function kvm_hv_vapic_assist_page_enabled int | vcpu struct kvm_vcpu *

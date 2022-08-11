@@ -1,3 +1,0 @@
-struct TYPE_5__ | player_count int | players struct TYPE_4__ * 
-struct TYPE_4__ | id int 
-function find_player struct TYPE_4__ * | id int

@@ -1,0 +1,2 @@
+struct btf_sec_info | len long | off long 
+function btf_sec_info_cmp int | a const void * | b const void *

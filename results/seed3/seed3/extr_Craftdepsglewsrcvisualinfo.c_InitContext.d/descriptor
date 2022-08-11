@@ -1,0 +1,2 @@
+struct TYPE_3__ | cmap long | wnd long | ctx int * | vi int * | dpy int * 
+function InitContext void | ctx struct TYPE_3__ *

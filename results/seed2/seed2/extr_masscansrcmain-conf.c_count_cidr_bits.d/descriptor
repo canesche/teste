@@ -1,0 +1,2 @@
+struct Range | begin unsigned int | end unsigned int 
+function count_cidr_bits unsigned int | range struct Range

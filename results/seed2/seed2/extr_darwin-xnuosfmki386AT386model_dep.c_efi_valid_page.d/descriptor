@@ -1,0 +1,3 @@
+struct TYPE_3__ | efiRuntimeServicesPageStart long | efiRuntimeServicesPageCount long 
+struct TYPE_4__ | bootArgs long 
+function efi_valid_page int | ppn long

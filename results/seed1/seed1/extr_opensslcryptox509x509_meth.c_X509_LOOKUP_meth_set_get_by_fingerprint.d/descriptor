@@ -1,0 +1,2 @@
+struct TYPE_3__ | get_by_fingerprint int 
+function X509_LOOKUP_meth_set_get_by_fingerprint int | method struct TYPE_3__ * | get_by_fingerprint int

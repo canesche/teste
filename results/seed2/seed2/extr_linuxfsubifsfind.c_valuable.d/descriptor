@@ -1,0 +1,5 @@
+struct ubifs_lpt_heap | max_cnt int | cnt int 
+struct ubifs_lprops | flags int | dirty long | free long 
+struct TYPE_2__ | empty_lebs int | taken_empty_lebs int 
+struct ubifs_info | freeable_cnt int | lsave_cnt int | lst struct TYPE_2__ | dark_wm long | lpt_heap struct ubifs_lpt_heap * 
+function valuable int | c struct ubifs_info * | lprops const struct ubifs_lprops *

@@ -1,0 +1,4 @@
+struct vpbe_device | current_sd_index int | cfg struct vpbe_config * 
+struct encoder_config_info | dummy int 
+struct vpbe_config | ext_encoders struct encoder_config_info * | venc struct encoder_config_info 
+function vpbe_current_encoder_info struct encoder_config_info * | vpbe_dev struct vpbe_device *

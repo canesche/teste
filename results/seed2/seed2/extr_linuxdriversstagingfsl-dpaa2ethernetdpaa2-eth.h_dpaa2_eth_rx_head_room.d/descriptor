@@ -1,0 +1,2 @@
+struct dpaa2_eth_priv | tx_data_offset unsigned int 
+function dpaa2_eth_rx_head_room unsigned int | priv struct dpaa2_eth_priv *

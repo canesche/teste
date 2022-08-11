@@ -1,0 +1,2 @@
+struct TYPE_5__ | next struct TYPE_5__ * | prev struct TYPE_5__ * 
+function tlist_insert void | L struct TYPE_5__ * | T struct TYPE_5__ *

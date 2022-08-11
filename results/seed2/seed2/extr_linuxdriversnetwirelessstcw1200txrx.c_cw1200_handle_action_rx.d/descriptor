@@ -1,0 +1,6 @@
+struct sk_buff | data long 
+struct TYPE_3__ | category long 
+struct TYPE_4__ | action struct TYPE_3__ 
+struct ieee80211_mgmt | u struct TYPE_4__ 
+struct cw1200_common | dummy int 
+function cw1200_handle_action_rx int | priv struct cw1200_common * | skb struct sk_buff *

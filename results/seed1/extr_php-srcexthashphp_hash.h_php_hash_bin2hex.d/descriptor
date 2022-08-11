@@ -1,1 +1,0 @@
-function php_hash_bin2hex void | out char * | in const unsigned char * | in_len unsigned long

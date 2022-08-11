@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversscsihisi_sashisi_sas_main.c_hisi_sas_get_ata_protocol.d/extr_linuxdriversscsihisi_sashisi_sas_main.c_hisi_sas_get_ata_protocol_O0::hisi_sas_get_ata_protocol(115)"
+  }
+]

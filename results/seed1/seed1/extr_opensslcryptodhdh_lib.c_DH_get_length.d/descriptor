@@ -1,0 +1,2 @@
+struct TYPE_3__ | length long 
+function DH_get_length long | dh const struct TYPE_3__ *

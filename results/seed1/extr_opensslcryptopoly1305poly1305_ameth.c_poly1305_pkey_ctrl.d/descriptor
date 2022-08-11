@@ -1,1 +1,0 @@
-function poly1305_pkey_ctrl int | pkey int * | op int | arg1 long | arg2 void *

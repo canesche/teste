@@ -1,0 +1,2 @@
+struct fc_exch | esb_stat int | did void * | sid void * | oid void * 
+function fc_exch_set_addr void | ep struct fc_exch * | orig_id void * | resp_id void *

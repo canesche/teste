@@ -1,0 +1,3 @@
+struct TYPE_4__ | ip long 
+struct TYPE_5__ | len unsigned long 
+function ngx_stream_script_copy_len_code unsigned long | e struct TYPE_4__ *

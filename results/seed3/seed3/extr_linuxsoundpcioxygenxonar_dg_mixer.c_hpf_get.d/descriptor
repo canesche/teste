@@ -1,0 +1,7 @@
+struct snd_kcontrol | private_data struct oxygen * 
+struct TYPE_3__ | item int * 
+struct TYPE_4__ | enumerated struct TYPE_3__ 
+struct snd_ctl_elem_value | value struct TYPE_4__ 
+struct oxygen | model_data struct dg * 
+struct dg | cs4245_shadow int * 
+function hpf_get int | ctl struct snd_kcontrol * | value struct snd_ctl_elem_value *

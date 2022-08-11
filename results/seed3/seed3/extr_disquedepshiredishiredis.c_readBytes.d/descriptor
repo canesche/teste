@@ -1,0 +1,2 @@
+struct TYPE_3__ | len unsigned int | pos unsigned int | buf char * 
+function readBytes char * | r struct TYPE_3__ * | bytes unsigned int

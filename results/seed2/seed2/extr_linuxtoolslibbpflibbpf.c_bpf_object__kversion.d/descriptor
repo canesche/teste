@@ -1,0 +1,2 @@
+struct bpf_object | kern_version unsigned int 
+function bpf_object__kversion unsigned int | obj struct bpf_object *

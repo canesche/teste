@@ -1,2 +1,0 @@
-struct ocfs2_super | s_clustersize_bits int 
-function ocfs2_xattr_buckets_per_cluster int | osb struct ocfs2_super *

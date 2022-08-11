@@ -1,0 +1,5 @@
+struct ps3fb_par | pan_offset int 
+struct fb_var_screeninfo | yoffset int | xoffset int 
+struct TYPE_2__ | line_length int 
+struct fb_info | fix struct TYPE_2__ | par struct ps3fb_par * 
+function ps3fb_pan_display int | var struct fb_var_screeninfo * | info struct fb_info *

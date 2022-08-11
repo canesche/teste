@@ -1,2 +1,0 @@
-struct gasket_dev | dummy int 
-function apex_get_status int | gasket_dev struct gasket_dev *

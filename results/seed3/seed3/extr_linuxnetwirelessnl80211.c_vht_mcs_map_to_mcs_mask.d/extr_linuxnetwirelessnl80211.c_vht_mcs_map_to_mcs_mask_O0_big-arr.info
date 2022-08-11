@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxnetwirelessnl80211.c_vht_mcs_map_to_mcs_mask.d/extr_linuxnetwirelessnl80211.c_vht_mcs_map_to_mcs_mask_O0::vht_mcs_map_to_mcs_mask(66)"
+  }
+]

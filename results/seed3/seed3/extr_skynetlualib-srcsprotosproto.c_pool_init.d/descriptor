@@ -1,0 +1,2 @@
+struct pool | current_used long | current int * | header int * 
+function pool_init void | p struct pool *

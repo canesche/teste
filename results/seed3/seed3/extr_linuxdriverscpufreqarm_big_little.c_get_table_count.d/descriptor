@@ -1,0 +1,2 @@
+struct cpufreq_frequency_table | frequency long 
+function get_table_count int | table struct cpufreq_frequency_table *

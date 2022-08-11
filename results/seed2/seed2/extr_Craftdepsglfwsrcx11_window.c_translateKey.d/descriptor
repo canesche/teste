@@ -1,0 +1,3 @@
+struct TYPE_3__ | publicKeys int * 
+struct TYPE_4__ | x11 struct TYPE_3__ 
+function translateKey int | scancode int

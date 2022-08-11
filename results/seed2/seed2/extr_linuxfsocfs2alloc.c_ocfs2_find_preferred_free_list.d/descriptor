@@ -1,0 +1,3 @@
+struct ocfs2_per_slot_free_list | f_inode_type int | f_slot int | f_next_suballocator struct ocfs2_per_slot_free_list * 
+struct ocfs2_cached_dealloc_ctxt | c_first_suballocator struct ocfs2_per_slot_free_list * 
+function ocfs2_find_preferred_free_list struct ocfs2_per_slot_free_list * | type int | preferred_slot int | real_slot int * | ctxt struct ocfs2_cached_dealloc_ctxt *

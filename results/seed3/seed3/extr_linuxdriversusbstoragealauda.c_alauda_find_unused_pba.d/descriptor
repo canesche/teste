@@ -1,0 +1,2 @@
+struct alauda_media_info | zonesize unsigned int | zoneshift unsigned int | pba_to_lba long ** 
+function alauda_find_unused_pba long | info struct alauda_media_info * | zone unsigned int

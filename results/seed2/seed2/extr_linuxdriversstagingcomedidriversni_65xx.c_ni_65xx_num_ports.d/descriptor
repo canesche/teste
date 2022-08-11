@@ -1,0 +1,3 @@
+struct ni_65xx_board | num_dio_ports unsigned int | num_di_ports unsigned int | num_do_ports unsigned int 
+struct comedi_device | board_ptr struct ni_65xx_board * 
+function ni_65xx_num_ports unsigned int | dev struct comedi_device *

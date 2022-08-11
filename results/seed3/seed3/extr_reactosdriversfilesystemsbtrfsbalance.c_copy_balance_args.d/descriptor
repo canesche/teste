@@ -1,0 +1,3 @@
+struct TYPE_5__ | flags int | usage_start long | stripes_end int | stripes_start int | limit_end long | limit_start long | convert int | vrange_end int | vrange_start int | drange_end int | drange_start int | devid int | usage_end int | profiles int 
+struct TYPE_6__ | usage_start long | limit_start long | flags int | stripes_end int | stripes_start int | limit long | limit_end void * | convert int | vrange_end int | vrange_start int | drange_end int | drange_start int | devid int | usage int | usage_end int | profiles int 
+function copy_balance_args void | opts struct TYPE_5__ * | args struct TYPE_6__ *

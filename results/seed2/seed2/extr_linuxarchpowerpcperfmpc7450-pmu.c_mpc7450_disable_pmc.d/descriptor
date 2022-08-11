@@ -1,0 +1,1 @@
+function mpc7450_disable_pmc void | pmc unsigned int | mmcr unsigned long []

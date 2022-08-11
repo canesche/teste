@@ -1,0 +1,2 @@
+struct fb_info | dummy int 
+function XGIfb_open int | info struct fb_info * | user int

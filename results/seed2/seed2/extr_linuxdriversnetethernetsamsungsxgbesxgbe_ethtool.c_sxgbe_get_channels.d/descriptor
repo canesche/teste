@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct ethtool_channels | tx_count int | rx_count int | max_tx int | max_rx int 
+function sxgbe_get_channels void | dev struct net_device * | channel struct ethtool_channels *

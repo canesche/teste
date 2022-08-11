@@ -1,0 +1,2 @@
+struct ixgbe_ring | next_to_clean long | next_to_use long | count long 
+function ixgbe_desc_unused long | ring struct ixgbe_ring *

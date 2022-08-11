@@ -1,0 +1,5 @@
+struct SiS_Private | SiS_VBType int | SiS_IF_DEF_LVDS long | SiS_VBInfo int | SiS_LCDResInfo unsigned short | SiS_SetFlag int | SiS_LCDInfo int | SiS_TVMode int | SiS_ModeType long | SiS_CHSOverScan long | SiS_IF_DEF_CH70xx long | SiS_RefIndex struct TYPE_6__ * | SiS_EModeIDTable struct TYPE_5__ * | SiS_SModeIDTable struct TYPE_4__ * 
+struct TYPE_6__ | Ext_CRT2CRTC unsigned short | Ext_CRT2CRTC_NS unsigned short 
+struct TYPE_5__ | Ext_RESINFO unsigned short 
+struct TYPE_4__ | St_CRT2CRTC unsigned short 
+function SiS_GetCRT2Ptr void | SiS_Pr struct SiS_Private * | ModeNo unsigned short | ModeIdIndex unsigned short | RefreshRateTableIndex unsigned short | CRT2Index unsigned short * | ResIndex unsigned short *

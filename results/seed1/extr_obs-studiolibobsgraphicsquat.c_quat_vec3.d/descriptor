@@ -1,3 +1,0 @@
-struct vec3 | w float | m int 
-struct quat | m int 
-function quat_vec3 void | v struct vec3 * | q const struct quat *

@@ -1,0 +1,4 @@
+struct key_payload | dummy int 
+struct key_type | dummy int 
+struct key | dummy int 
+function restrict_link_reject int | keyring struct key * | type const struct key_type * | payload const union key_payload * | restriction_key struct key *

@@ -1,0 +1,9 @@
+struct sumo_vid_mapping_table | num_entries unsigned long | entries struct TYPE_10__ * 
+struct amdgpu_clock_voltage_dependency_table | count unsigned long | entries struct TYPE_9__ * 
+struct TYPE_6__ | vddc_dependency_on_sclk struct amdgpu_clock_voltage_dependency_table 
+struct TYPE_7__ | dyn_state struct TYPE_6__ 
+struct TYPE_8__ | dpm struct TYPE_7__ 
+struct amdgpu_device | pm struct TYPE_8__ 
+struct TYPE_10__ | vid_7bit unsigned long | vid_2bit unsigned long 
+struct TYPE_9__ | v unsigned long 
+function kv_convert_vid7_to_vid2 unsigned long | adev struct amdgpu_device * | vid_mapping_table struct sumo_vid_mapping_table * | vid_7bit unsigned long

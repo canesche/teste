@@ -1,0 +1,2 @@
+struct afu | irqpoll_weight int 
+function afu_is_irqpoll_enabled int | afu struct afu *

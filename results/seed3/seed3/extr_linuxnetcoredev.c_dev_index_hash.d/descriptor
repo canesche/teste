@@ -1,0 +1,3 @@
+struct net | dev_index_head struct hlist_head * 
+struct hlist_head | dummy int 
+function dev_index_hash struct hlist_head * | net struct net * | ifindex int

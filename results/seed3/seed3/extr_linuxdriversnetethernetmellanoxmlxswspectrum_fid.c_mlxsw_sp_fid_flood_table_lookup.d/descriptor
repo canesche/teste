@@ -1,0 +1,4 @@
+struct mlxsw_sp_flood_table | packet_type int 
+struct mlxsw_sp_fid_family | nr_flood_tables int | flood_tables const struct mlxsw_sp_flood_table * 
+struct mlxsw_sp_fid | fid_family struct mlxsw_sp_fid_family * 
+function mlxsw_sp_fid_flood_table_lookup const struct mlxsw_sp_flood_table * | fid const struct mlxsw_sp_fid * | packet_type enum mlxsw_sp_flood_type

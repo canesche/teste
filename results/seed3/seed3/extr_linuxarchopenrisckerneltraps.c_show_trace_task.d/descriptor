@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function show_trace_task void | tsk struct task_struct *

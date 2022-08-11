@@ -1,0 +1,4 @@
+struct mode_tree_data | current unsigned long | line_list struct TYPE_4__ * 
+struct TYPE_4__ | item struct TYPE_3__ * 
+struct TYPE_3__ | itemdata void * 
+function mode_tree_get_current void * | mtd struct mode_tree_data *

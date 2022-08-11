@@ -1,0 +1,2 @@
+struct table_value | val_len int | val unsigned long * 
+function toggle_obf void | id unsigned long

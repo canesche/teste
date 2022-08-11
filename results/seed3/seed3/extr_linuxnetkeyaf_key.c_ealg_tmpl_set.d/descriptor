@@ -1,0 +1,4 @@
+struct xfrm_tmpl | ealgos unsigned int 
+struct TYPE_2__ | sadb_alg_id unsigned int 
+struct xfrm_algo_desc | desc struct TYPE_2__ 
+function ealg_tmpl_set int | t const struct xfrm_tmpl * | d const struct xfrm_algo_desc *

@@ -1,2 +1,0 @@
-struct hdsp | control_register int 
-function hdsp_ad_gain int | hdsp struct hdsp *

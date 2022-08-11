@@ -1,0 +1,2 @@
+struct parport | dummy int 
+function parport_ieee1284_ecp_write_data unsigned long | port struct parport * | buffer const void * | len unsigned long | flags int

@@ -1,0 +1,1 @@
+function l1oip_ulaw_to_alaw int | data int * | len int | result int *

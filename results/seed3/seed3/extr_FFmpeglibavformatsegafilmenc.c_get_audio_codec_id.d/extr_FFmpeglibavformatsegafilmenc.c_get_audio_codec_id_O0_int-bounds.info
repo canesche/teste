@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_FFmpeglibavformatsegafilmenc.c_get_audio_codec_id.d/extr_FFmpeglibavformatsegafilmenc.c_get_audio_codec_id_O0::get_audio_codec_id(62)"
+  }
+]

@@ -1,0 +1,2 @@
+struct xive_cpu | dummy int 
+function xive_spapr_teardown_cpu void | cpu unsigned int | xc struct xive_cpu *

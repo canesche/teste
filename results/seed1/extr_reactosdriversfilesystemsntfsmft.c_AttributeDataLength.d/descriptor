@@ -1,4 +1,0 @@
-struct TYPE_6__ | ValueLength int 
-struct TYPE_5__ | DataSize int 
-struct TYPE_7__ | Resident struct TYPE_6__ | NonResident struct TYPE_5__ | IsNonResident long 
-function AttributeDataLength int | AttrRecord struct TYPE_7__ *

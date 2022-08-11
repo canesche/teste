@@ -1,0 +1,2 @@
+struct batadv_tvlv_tt_change | dummy int 
+function batadv_tt_len int | changes_num int

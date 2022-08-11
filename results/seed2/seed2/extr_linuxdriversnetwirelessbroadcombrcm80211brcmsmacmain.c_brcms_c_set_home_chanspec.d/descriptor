@@ -1,0 +1,5 @@
+struct brcms_c_info | home_chanspec long | bsscfg struct TYPE_6__ * | pub struct TYPE_4__ * 
+struct TYPE_6__ | current_bss struct TYPE_5__ * 
+struct TYPE_5__ | chanspec long 
+struct TYPE_4__ | associated long 
+function brcms_c_set_home_chanspec void | wlc struct brcms_c_info * | chanspec long

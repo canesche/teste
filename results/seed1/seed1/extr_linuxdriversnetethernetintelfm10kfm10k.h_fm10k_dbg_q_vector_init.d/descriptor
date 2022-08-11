@@ -1,0 +1,2 @@
+struct fm10k_q_vector | dummy int 
+function fm10k_dbg_q_vector_init void | q_vector struct fm10k_q_vector *

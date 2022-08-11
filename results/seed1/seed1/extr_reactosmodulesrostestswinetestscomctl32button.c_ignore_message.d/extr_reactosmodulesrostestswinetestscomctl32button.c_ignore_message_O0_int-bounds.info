@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 10,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 19,
+    static: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactosmodulesrostestswinetestscomctl32button.c_ignore_message.d/extr_reactosmodulesrostestswinetestscomctl32button.c_ignore_message_O0::ignore_message(70)"
+  }
+]

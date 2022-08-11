@@ -1,0 +1,2 @@
+struct wilc | dummy int 
+function sdio_deinit int | wilc struct wilc *

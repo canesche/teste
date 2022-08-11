@@ -1,0 +1,2 @@
+struct TYPE_3__ | init int 
+function ENGINE_set_init_function int | e struct TYPE_3__ * | init_f int

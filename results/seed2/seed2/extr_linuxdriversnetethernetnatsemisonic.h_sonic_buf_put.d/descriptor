@@ -1,0 +1,1 @@
+function sonic_buf_put void | base void * | bitmode int | offset int | val int

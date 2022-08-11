@@ -1,0 +1,3 @@
+struct lm3530_platform_data | als_vmax long | als_vmin int | als_avrg_time int | als_input_mode int | als1_resistor_sel int | als2_resistor_sel int 
+struct lm3530_als_data | zones int * | config int | imp_sel int 
+function lm3530_als_configure void | pdata struct lm3530_platform_data * | als struct lm3530_als_data *

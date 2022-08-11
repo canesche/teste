@@ -1,2 +1,0 @@
-struct host1x | debug_op int * | intr_op int * | syncpt_op int * | cdma_pb_op int * | cdma_op int * | channel_op int * 
-function host1x01_init int | host struct host1x *

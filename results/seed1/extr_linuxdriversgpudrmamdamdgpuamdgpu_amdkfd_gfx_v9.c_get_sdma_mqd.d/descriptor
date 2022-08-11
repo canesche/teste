@@ -1,2 +1,0 @@
-struct v9_sdma_mqd | dummy int 
-function get_sdma_mqd struct v9_sdma_mqd * | mqd void *

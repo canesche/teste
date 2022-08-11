@@ -1,0 +1,3 @@
+struct TYPE_4__ | u_joliet_level int 
+struct TYPE_5__ | env long 
+function cdio_get_joliet_level int | p_cdio const struct TYPE_5__ *

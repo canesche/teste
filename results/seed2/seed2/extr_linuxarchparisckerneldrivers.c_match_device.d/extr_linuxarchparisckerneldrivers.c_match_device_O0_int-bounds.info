@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxarchparisckerneldrivers.c_match_device.d/extr_linuxarchparisckerneldrivers.c_match_device_O0::match_device(68)"
+  }
+]

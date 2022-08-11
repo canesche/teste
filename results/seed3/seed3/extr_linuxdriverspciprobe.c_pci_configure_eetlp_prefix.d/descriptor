@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function pci_configure_eetlp_prefix void | dev struct pci_dev *

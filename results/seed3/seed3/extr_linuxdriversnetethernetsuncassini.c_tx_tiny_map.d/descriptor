@@ -1,0 +1,3 @@
+struct cas | tx_tiny_dvma long * | tx_tiny_use struct TYPE_2__ ** 
+struct TYPE_2__ | used int | nbufs int 
+function tx_tiny_map long | cp struct cas * | ring const int | entry const int | tentry const int

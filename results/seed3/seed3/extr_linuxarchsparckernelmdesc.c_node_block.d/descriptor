@@ -1,0 +1,3 @@
+struct mdesc_hdr | dummy int 
+struct mdesc_elem | dummy int 
+function node_block struct mdesc_elem * | mdesc struct mdesc_hdr *

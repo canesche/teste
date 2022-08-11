@@ -1,2 +1,0 @@
-struct TYPE_3__ | c char | nextMap int ** | counter long 
-function initTrieNode void | p struct TYPE_3__ * | c char

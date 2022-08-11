@@ -1,0 +1,2 @@
+struct sc_data | load_coeff_v int 
+function sc_set_vs_coeffs void | sc struct sc_data * | addr void * | src_h unsigned int | dst_h unsigned int

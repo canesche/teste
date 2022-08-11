@@ -1,0 +1,3 @@
+struct mlxsw_sp_fid | fid_family struct TYPE_2__ * 
+struct TYPE_2__ | rif_type int 
+function mlxsw_sp_fid_rif_type enum mlxsw_sp_rif_type | fid const struct mlxsw_sp_fid *

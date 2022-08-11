@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetwirelessmediatekmt76mt76x2_mac_common.c_mt76x2_rx_get_sta_wcid.d/extr_linuxdriversnetwirelessmediatekmt76mt76x2_mac_common.c_mt76x2_rx_get_sta_wcid_O0::mt76x2_rx_get_sta_wcid(67)"
+  }
+]

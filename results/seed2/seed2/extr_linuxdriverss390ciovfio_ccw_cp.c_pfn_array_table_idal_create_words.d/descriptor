@@ -1,0 +1,3 @@
+struct pfn_array_table | pat_nr int | pat_pa struct pfn_array * 
+struct pfn_array | pa_nr int | pa_pfn unsigned long * | pa_iova int 
+function pfn_array_table_idal_create_words void | pat struct pfn_array_table * | idaws unsigned long *

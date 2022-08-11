@@ -1,0 +1,2 @@
+struct xhci_hcd | dummy int 
+function xhci_debugfs_init void | xhci struct xhci_hcd *

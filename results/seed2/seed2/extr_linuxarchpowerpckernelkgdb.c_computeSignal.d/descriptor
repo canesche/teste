@@ -1,0 +1,2 @@
+struct hard_trap_info | tt unsigned int | signo int 
+function computeSignal int | tt unsigned int

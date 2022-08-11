@@ -1,0 +1,3 @@
+struct tid_info | natids unsigned int | atid_tab struct TYPE_2__ * 
+struct TYPE_2__ | data void * 
+function lookup_atid void * | t const struct tid_info * | atid unsigned int

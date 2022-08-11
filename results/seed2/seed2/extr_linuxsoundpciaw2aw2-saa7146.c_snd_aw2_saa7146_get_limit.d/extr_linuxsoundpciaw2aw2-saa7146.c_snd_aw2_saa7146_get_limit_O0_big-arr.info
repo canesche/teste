@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxsoundpciaw2aw2-saa7146.c_snd_aw2_saa7146_get_limit.d/extr_linuxsoundpciaw2aw2-saa7146.c_snd_aw2_saa7146_get_limit_O0::snd_aw2_saa7146_get_limit(60)"
+  }
+]

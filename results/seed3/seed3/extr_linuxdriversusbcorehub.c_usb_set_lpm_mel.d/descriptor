@@ -1,0 +1,7 @@
+struct usb_hub | descriptor struct TYPE_6__ * 
+struct usb_device | dummy int 
+struct usb3_lpm_parameters | mel int 
+struct TYPE_4__ | bHubHdrDecLat int 
+struct TYPE_5__ | ss struct TYPE_4__ 
+struct TYPE_6__ | u struct TYPE_5__ 
+function usb_set_lpm_mel void | udev struct usb_device * | udev_lpm_params struct usb3_lpm_parameters * | udev_exit_latency unsigned int | hub struct usb_hub * | hub_lpm_params struct usb3_lpm_parameters * | hub_exit_latency unsigned int

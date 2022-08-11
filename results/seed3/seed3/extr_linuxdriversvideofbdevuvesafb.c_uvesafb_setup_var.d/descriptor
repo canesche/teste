@@ -1,0 +1,10 @@
+struct vbe_mode_ib | y_res int | bytes_per_scan_line int | bits_per_pixel int | red_len int | green_len int | blue_len int | rsvd_len long | rsvd_off long | blue_off long | green_off long | red_off long | x_res int 
+struct uvesafb_par | ypan long 
+struct TYPE_10__ | length long | offset long 
+struct TYPE_9__ | length int | offset long 
+struct TYPE_8__ | length int | offset long 
+struct TYPE_7__ | length int | offset long 
+struct fb_var_screeninfo | yres int | yres_virtual int | bits_per_pixel int | transp struct TYPE_10__ | blue struct TYPE_9__ | green struct TYPE_8__ | red struct TYPE_7__ | yoffset long | xoffset long | xres_virtual int | xres int | sync int | vmode int 
+struct TYPE_6__ | smem_len int 
+struct fb_info | fix struct TYPE_6__ | par struct uvesafb_par * 
+function uvesafb_setup_var void | var struct fb_var_screeninfo * | info struct fb_info * | mode struct vbe_mode_ib *

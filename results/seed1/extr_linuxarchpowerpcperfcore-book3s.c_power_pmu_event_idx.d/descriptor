@@ -1,3 +1,0 @@
-struct TYPE_2__ | idx int 
-struct perf_event | hw struct TYPE_2__ 
-function power_pmu_event_idx int | event struct perf_event *

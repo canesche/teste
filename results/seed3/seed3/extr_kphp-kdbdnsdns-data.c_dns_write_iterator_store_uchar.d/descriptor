@@ -1,0 +1,2 @@
+struct TYPE_3__ | avail_out int | wptr unsigned char * 
+function dns_write_iterator_store_uchar int | B struct TYPE_3__ * | x unsigned char

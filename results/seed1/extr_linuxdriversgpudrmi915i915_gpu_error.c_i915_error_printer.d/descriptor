@@ -1,3 +1,0 @@
-struct drm_printer | arg struct drm_i915_error_state_buf * | printfn int 
-struct drm_i915_error_state_buf | dummy int 
-function i915_error_printer struct drm_printer | e struct drm_i915_error_state_buf *

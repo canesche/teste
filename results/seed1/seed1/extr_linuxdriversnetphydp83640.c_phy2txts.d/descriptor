@@ -1,0 +1,2 @@
+struct phy_txts | sec_lo int | sec_hi int | ns_lo int | ns_hi int 
+function phy2txts int | p struct phy_txts *

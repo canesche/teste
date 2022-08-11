@@ -1,0 +1,1 @@
+function ipvlan_get_v6_hash int | iaddr const void *

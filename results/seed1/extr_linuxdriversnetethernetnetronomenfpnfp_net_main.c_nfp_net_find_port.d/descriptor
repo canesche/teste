@@ -1,3 +1,0 @@
-struct nfp_eth_table_port | index unsigned int 
-struct nfp_eth_table | count int | ports struct nfp_eth_table_port * 
-function nfp_net_find_port struct nfp_eth_table_port * | eth_tbl struct nfp_eth_table * | index unsigned int

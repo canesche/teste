@@ -1,0 +1,7 @@
+struct mv_cesa_tdma_desc | flags int | next_dma int | next struct TYPE_5__ * 
+struct TYPE_6__ | first struct TYPE_5__ * | last struct mv_cesa_tdma_desc * 
+struct mv_cesa_req | chain struct TYPE_6__ 
+struct TYPE_4__ | last struct mv_cesa_tdma_desc * | first struct TYPE_5__ * 
+struct mv_cesa_engine | chain struct TYPE_4__ 
+struct TYPE_5__ | flags int | cur_dma int 
+function mv_cesa_tdma_chain void | engine struct mv_cesa_engine * | dreq struct mv_cesa_req *

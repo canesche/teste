@@ -1,0 +1,2 @@
+struct TYPE_4__ | pos long * | len long 
+function qr_finder_lines_are_crossing int | _hline const struct TYPE_4__ * | _vline const struct TYPE_4__ *

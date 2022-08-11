@@ -1,3 +1,0 @@
-struct twl4030_bci_platform_data | dummy int 
-struct device | dummy int 
-function twl4030_bci_parse_dt const struct twl4030_bci_platform_data * | dev struct device *

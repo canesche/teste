@@ -1,0 +1,3 @@
+struct TYPE_2__ | dac_channels_pcm int | update_center_lfe_mix long 
+struct oxygen | model struct TYPE_2__ 
+function upmix_item_count unsigned int | chip struct oxygen *

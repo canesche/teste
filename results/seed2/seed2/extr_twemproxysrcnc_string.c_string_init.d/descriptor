@@ -1,0 +1,2 @@
+struct string | data int * | len long 
+function string_init void | str struct string *

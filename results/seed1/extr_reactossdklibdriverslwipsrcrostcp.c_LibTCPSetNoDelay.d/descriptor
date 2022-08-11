@@ -1,2 +1,0 @@
-struct TYPE_3__ | flags int 
-function LibTCPSetNoDelay void | pcb struct TYPE_3__ * | Set long

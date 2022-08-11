@@ -1,1 +1,0 @@
-function hpi_aesebu_transmitter_get_channel_status int | h_control int | index int | pw_data int *

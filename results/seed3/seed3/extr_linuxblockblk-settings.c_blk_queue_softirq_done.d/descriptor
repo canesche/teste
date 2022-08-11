@@ -1,0 +1,2 @@
+struct request_queue | softirq_done_fn int * 
+function blk_queue_softirq_done void | q struct request_queue * | fn int *

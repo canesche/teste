@@ -1,2 +1,0 @@
-struct hashmap | do_count_items long 
-function hashmap_disable_item_counting void | map struct hashmap *

@@ -1,0 +1,3 @@
+struct TYPE_6__ | deformatted int * 
+struct TYPE_5__ | n unsigned long 
+function get_formstr_data int * | format struct TYPE_6__ * | str struct TYPE_5__ *

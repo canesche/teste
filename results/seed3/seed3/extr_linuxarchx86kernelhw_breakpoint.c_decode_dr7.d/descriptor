@@ -1,0 +1,1 @@
+function decode_dr7 int | dr7 unsigned long | bpnum int | len unsigned int * | type unsigned int *

@@ -1,0 +1,1 @@
+function pxPortInitialiseStack int * | pxTopOfStack int * | pxCode long | pvParameters void *

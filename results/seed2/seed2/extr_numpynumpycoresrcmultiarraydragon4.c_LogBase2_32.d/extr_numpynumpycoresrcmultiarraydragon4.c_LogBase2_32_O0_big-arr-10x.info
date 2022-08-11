@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_numpynumpycoresrcmultiarraydragon4.c_LogBase2_32.d/extr_numpynumpycoresrcmultiarraydragon4.c_LogBase2_32_O0::LogBase2_32(63)"
+  }
+]

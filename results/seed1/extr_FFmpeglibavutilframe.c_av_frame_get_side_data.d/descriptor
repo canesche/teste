@@ -1,3 +1,0 @@
-struct TYPE_6__ | nb_side_data int | side_data struct TYPE_5__ ** 
-struct TYPE_5__ | type int 
-function av_frame_get_side_data struct TYPE_5__ * | frame const struct TYPE_6__ * | type enum AVFrameSideDataType

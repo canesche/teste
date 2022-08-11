@@ -1,0 +1,3 @@
+struct TYPE_2__ | ctcam int 
+struct mlxsw_sp_acl_erp | key struct TYPE_2__ 
+function mlxsw_sp_acl_erp_is_ctcam_erp int | erp const struct mlxsw_sp_acl_erp *

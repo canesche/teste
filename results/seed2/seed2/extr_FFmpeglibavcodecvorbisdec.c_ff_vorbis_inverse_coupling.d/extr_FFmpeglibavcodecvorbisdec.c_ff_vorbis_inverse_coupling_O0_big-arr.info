@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8426,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_FFmpeglibavcodecvorbisdec.c_ff_vorbis_inverse_coupling.d/extr_FFmpeglibavcodecvorbisdec.c_ff_vorbis_inverse_coupling_O0::ff_vorbis_inverse_coupling(60)"
+  }
+]

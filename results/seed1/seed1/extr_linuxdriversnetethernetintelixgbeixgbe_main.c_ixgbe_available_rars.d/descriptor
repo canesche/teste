@@ -1,0 +1,5 @@
+struct ixgbe_mac_addr | state int | pool long 
+struct TYPE_2__ | num_rar_entries int 
+struct ixgbe_hw | mac struct TYPE_2__ 
+struct ixgbe_adapter | hw struct ixgbe_hw | mac_table struct ixgbe_mac_addr * 
+function ixgbe_available_rars int | adapter struct ixgbe_adapter * | pool long

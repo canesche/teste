@@ -1,2 +1,0 @@
-struct dc_bios | dummy int 
-function bios_parser_get_ss_entry_number int | dcb struct dc_bios * | signal enum as_signal_type

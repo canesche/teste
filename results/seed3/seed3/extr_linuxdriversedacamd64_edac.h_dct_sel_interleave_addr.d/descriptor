@@ -1,0 +1,2 @@
+struct amd64_pvt | fam int | model int | dct_sel_hi int | dct_sel_lo int 
+function dct_sel_interleave_addr int | pvt struct amd64_pvt *

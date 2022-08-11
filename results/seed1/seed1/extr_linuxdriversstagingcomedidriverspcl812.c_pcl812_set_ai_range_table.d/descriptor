@@ -1,0 +1,6 @@
+struct pcl812_private | range_correction int 
+struct pcl812_board | board_type int | rangelist_ai int * 
+struct comedi_subdevice | range_table int * 
+struct comedi_device | private struct pcl812_private * | board_ptr struct pcl812_board * 
+struct comedi_devconfig | options int * 
+function pcl812_set_ai_range_table void | dev struct comedi_device * | s struct comedi_subdevice * | it struct comedi_devconfig *

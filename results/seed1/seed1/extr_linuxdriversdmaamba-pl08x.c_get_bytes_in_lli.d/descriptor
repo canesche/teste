@@ -1,0 +1,2 @@
+struct pl08x_phy_chan | pl080s long | ftdmac020 long 
+function get_bytes_in_lli int | ch struct pl08x_phy_chan * | llis_va const int *

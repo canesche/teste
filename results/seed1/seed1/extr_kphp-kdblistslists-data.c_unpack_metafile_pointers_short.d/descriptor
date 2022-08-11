@@ -1,0 +1,3 @@
+struct TYPE_5__ | o_tree int 
+struct TYPE_6__ | A long | N long | root int * 
+function unpack_metafile_pointers_short void | L struct TYPE_5__ *

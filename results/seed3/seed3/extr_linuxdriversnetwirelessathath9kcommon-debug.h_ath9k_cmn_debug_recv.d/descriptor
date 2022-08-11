@@ -1,0 +1,3 @@
+struct dentry | dummy int 
+struct ath_rx_stats | dummy int 
+function ath9k_cmn_debug_recv void | debugfs_phy struct dentry * | rxstats struct ath_rx_stats *

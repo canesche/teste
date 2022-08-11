@@ -1,0 +1,3 @@
+struct TYPE_3__ | colorsPerLed int | values void ** 
+struct TYPE_4__ | buffer struct TYPE_3__ * 
+function ws2812_set_pixel int | pixel int | color int

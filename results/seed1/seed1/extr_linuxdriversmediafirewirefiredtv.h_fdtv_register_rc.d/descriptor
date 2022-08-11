@@ -1,0 +1,3 @@
+struct firedtv | dummy int 
+struct device | dummy int 
+function fdtv_register_rc int | fdtv struct firedtv * | dev struct device *

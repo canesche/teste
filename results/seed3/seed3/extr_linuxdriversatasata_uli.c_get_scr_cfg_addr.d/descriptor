@@ -1,0 +1,4 @@
+struct uli_priv | scr_cfg_addr unsigned int * 
+struct ata_port | port_no unsigned long | host struct TYPE_2__ * 
+struct TYPE_2__ | private_data struct uli_priv * 
+function get_scr_cfg_addr unsigned int | ap struct ata_port * | sc_reg unsigned int

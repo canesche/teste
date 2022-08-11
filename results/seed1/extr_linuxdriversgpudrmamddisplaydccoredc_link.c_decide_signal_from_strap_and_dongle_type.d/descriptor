@@ -1,2 +1,0 @@
-struct audio_support | hdmi_audio_native int | hdmi_audio_on_dongle int 
-function decide_signal_from_strap_and_dongle_type enum signal_type | dongle_type enum display_dongle_type | audio_support struct audio_support *

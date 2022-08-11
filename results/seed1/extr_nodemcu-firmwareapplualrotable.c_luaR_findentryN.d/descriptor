@@ -1,4 +1,0 @@
-struct TYPE_6__ | numkey long 
-struct TYPE_7__ | type long | id struct TYPE_6__ 
-struct TYPE_8__ | value const int | key struct TYPE_7__ 
-function luaR_findentryN const int * | rotable struct TYPE_8__ * | numkey long | ppos unsigned int *

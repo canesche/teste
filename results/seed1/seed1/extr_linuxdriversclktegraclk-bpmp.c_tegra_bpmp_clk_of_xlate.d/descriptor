@@ -1,0 +1,5 @@
+struct clk_hw | dummy int 
+struct tegra_bpmp_clk | id unsigned int | hw struct clk_hw 
+struct tegra_bpmp | num_clocks unsigned int | clocks struct tegra_bpmp_clk ** 
+struct of_phandle_args | args unsigned int * 
+function tegra_bpmp_clk_of_xlate struct clk_hw * | clkspec struct of_phandle_args * | data void *

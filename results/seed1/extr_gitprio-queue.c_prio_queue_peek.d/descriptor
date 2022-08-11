@@ -1,3 +1,0 @@
-struct prio_queue | nr int | array struct TYPE_2__ * | compare int 
-struct TYPE_2__ | data void * 
-function prio_queue_peek void * | queue struct prio_queue *

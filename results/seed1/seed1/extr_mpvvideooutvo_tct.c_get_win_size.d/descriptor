@@ -1,0 +1,4 @@
+struct vo | priv struct priv * 
+struct priv | opts struct TYPE_2__ * 
+struct TYPE_2__ | width int | height int 
+function get_win_size void | vo struct vo * | out_width int * | out_height int *

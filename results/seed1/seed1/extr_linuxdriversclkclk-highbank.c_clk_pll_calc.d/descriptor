@@ -1,0 +1,1 @@
+function clk_pll_calc void | rate unsigned long | ref_freq unsigned long | pdivq int * | pdivf int *

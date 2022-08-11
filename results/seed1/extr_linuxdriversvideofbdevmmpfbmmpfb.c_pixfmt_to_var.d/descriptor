@@ -1,6 +1,0 @@
-struct TYPE_8__ | offset int | length int 
-struct TYPE_7__ | offset int | length int 
-struct TYPE_6__ | offset int | length int 
-struct TYPE_5__ | offset int | length int 
-struct fb_var_screeninfo | bits_per_pixel int | transp struct TYPE_8__ | blue struct TYPE_7__ | green struct TYPE_6__ | red struct TYPE_5__ 
-function pixfmt_to_var void | var struct fb_var_screeninfo * | pix_fmt int

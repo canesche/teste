@@ -1,0 +1,2 @@
+struct srp_cmd | buf_fmt int 
+function srp_cmd_direction int | cmd struct srp_cmd *

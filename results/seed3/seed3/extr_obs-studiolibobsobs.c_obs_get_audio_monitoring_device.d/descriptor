@@ -1,0 +1,3 @@
+struct TYPE_3__ | monitoring_device_name char * | monitoring_device_id char * 
+struct TYPE_4__ | audio struct TYPE_3__ 
+function obs_get_audio_monitoring_device void | name const char ** | id const char **

@@ -1,3 +1,0 @@
-struct TYPE_4__ | connection long 
-struct TYPE_5__ | offset int 
-function ngx_rtmp_eval_connection_str void | ctx void * | e struct TYPE_5__ * | ret int *

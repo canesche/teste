@@ -1,0 +1,1 @@
+function to_ib_mig_state enum ib_mig_state | mlx5_mig_state int

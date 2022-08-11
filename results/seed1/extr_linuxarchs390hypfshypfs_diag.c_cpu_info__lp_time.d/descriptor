@@ -1,3 +1,0 @@
-struct diag204_x_cpu_info | lp_time int 
-struct diag204_cpu_info | lp_time int 
-function cpu_info__lp_time int | type enum diag204_format | hdr void *

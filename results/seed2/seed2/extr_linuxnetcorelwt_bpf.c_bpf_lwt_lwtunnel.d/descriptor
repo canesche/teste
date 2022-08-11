@@ -1,0 +1,3 @@
+struct lwtunnel_state | data long 
+struct bpf_lwt | dummy int 
+function bpf_lwt_lwtunnel struct bpf_lwt * | lwt struct lwtunnel_state *

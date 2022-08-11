@@ -1,0 +1,2 @@
+struct TYPE_3__ | count int | array int * 
+function ptrlist_count int | list struct TYPE_3__ *

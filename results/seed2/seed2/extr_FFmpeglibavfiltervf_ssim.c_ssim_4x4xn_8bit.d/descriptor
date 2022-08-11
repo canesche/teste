@@ -1,0 +1,1 @@
+function ssim_4x4xn_8bit void | main const int * | main_stride int | ref const int * | ref_stride int | sums int (*)[4] | width int

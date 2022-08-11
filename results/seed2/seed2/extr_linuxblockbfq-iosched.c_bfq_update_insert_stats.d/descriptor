@@ -1,0 +1,3 @@
+struct request_queue | dummy int 
+struct bfq_queue | dummy int 
+function bfq_update_insert_stats void | q struct request_queue * | bfqq struct bfq_queue * | idle_timer_disabled int | cmd_flags unsigned int

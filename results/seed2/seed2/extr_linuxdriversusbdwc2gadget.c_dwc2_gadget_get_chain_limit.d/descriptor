@@ -1,0 +1,2 @@
+struct dwc2_hsotg_ep | isochronous int | dir_in long 
+function dwc2_gadget_get_chain_limit unsigned int | hs_ep struct dwc2_hsotg_ep *

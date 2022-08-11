@@ -1,0 +1,3 @@
+struct scatterlist | dummy int 
+struct artpec6_crypto_walk | offset long | sg struct scatterlist * 
+function artpec6_crypto_walk_init void | awalk struct artpec6_crypto_walk * | sg struct scatterlist *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | u8 long * 
+struct TYPE_5__ | last_byte_ int | last_byte_bits_ unsigned long | available_out_ int | next_out_ long * | tiny_buf_ struct TYPE_4__ 
+function InjectBytePaddingBlock void | s struct TYPE_5__ *

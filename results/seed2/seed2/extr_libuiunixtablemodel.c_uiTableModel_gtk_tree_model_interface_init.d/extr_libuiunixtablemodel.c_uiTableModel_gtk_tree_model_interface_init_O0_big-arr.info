@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_libuiunixtablemodel.c_uiTableModel_gtk_tree_model_interface_init.d/extr_libuiunixtablemodel.c_uiTableModel_gtk_tree_model_interface_init_O0::uiTableModel_gtk_tree_model_interface_init(76)"
+  }
+]

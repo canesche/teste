@@ -1,0 +1,3 @@
+struct TYPE_2__ | size int | nsid int 
+struct vmw_escape_header | body struct TYPE_2__ | cmd int 
+function fill_escape void | header struct vmw_escape_header * | size int

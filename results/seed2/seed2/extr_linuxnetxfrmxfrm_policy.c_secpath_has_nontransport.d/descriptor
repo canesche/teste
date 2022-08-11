@@ -1,0 +1,4 @@
+struct sec_path | len int | xvec struct TYPE_4__ ** 
+struct TYPE_3__ | mode long 
+struct TYPE_4__ | props struct TYPE_3__ 
+function secpath_has_nontransport int | sp const struct sec_path * | k int | idxp int *

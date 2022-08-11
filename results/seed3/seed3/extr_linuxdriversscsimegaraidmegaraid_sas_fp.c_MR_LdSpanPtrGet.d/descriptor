@@ -1,0 +1,6 @@
+struct MR_LD_SPAN | dummy int 
+struct TYPE_6__ | ldSpanMap struct TYPE_5__ * 
+struct MR_DRV_RAID_MAP_ALL | raidMap struct TYPE_6__ 
+struct TYPE_5__ | spanBlock struct TYPE_4__ * 
+struct TYPE_4__ | span struct MR_LD_SPAN 
+function MR_LdSpanPtrGet struct MR_LD_SPAN * | ld unsigned long | span unsigned long | map struct MR_DRV_RAID_MAP_ALL *

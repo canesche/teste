@@ -1,2 +1,0 @@
-struct input_mt_pos | x int | y int 
-function ektf2127_parse_coordinates void | buf const int * | touch_count unsigned int | touches struct input_mt_pos *

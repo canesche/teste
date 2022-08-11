@@ -1,0 +1,4 @@
+struct megasas_instance | ctrl_context struct fusion_context * 
+struct megasas_cmd_fusion | dummy int 
+struct fusion_context | cmd_list struct megasas_cmd_fusion ** 
+function megasas_get_cmd_fusion struct megasas_cmd_fusion * | instance struct megasas_instance * | blk_tag unsigned long

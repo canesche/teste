@@ -1,0 +1,2 @@
+struct ehea_cqe | type int | status int | header_length long 
+function ehea_check_cqe int | cqe struct ehea_cqe * | rq_num int *

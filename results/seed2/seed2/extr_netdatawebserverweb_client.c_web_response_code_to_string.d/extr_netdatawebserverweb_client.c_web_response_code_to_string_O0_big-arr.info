@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 13,
+    phantoms: 8,
+    exit: true,
+    halt: false,
+    edges: 24,
+    static: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_netdatawebserverweb_client.c_web_response_code_to_string.d/extr_netdatawebserverweb_client.c_web_response_code_to_string_O0::web_response_code_to_string(59)"
+  }
+]

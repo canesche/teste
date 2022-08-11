@@ -1,6 +1,0 @@
-struct TYPE_10__ | layers struct TYPE_11__ * 
-struct TYPE_8__ | strides int 
-struct TYPE_7__ | strides int 
-struct TYPE_9__ | pool struct TYPE_8__ | convolutional struct TYPE_7__ 
-struct TYPE_11__ | type int | net struct TYPE_9__ 
-function _ccv_convnet_derive_scale int | convnet struct TYPE_10__ * | scan int

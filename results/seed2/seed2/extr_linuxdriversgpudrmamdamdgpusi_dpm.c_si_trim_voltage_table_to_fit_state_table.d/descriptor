@@ -1,0 +1,3 @@
+struct atom_voltage_table | count unsigned int | entries int * 
+struct amdgpu_device | dummy int 
+function si_trim_voltage_table_to_fit_state_table void | adev struct amdgpu_device * | max_voltage_steps unsigned int | voltage_table struct atom_voltage_table *

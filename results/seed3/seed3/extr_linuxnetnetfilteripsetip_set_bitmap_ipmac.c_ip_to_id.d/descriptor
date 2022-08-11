@@ -1,0 +1,2 @@
+struct bitmap_ipmac | first_ip long 
+function ip_to_id long | m const struct bitmap_ipmac * | ip long

@@ -1,2 +1,0 @@
-struct TYPE_3__ | rndx long | wndx long 
-function av_fifo_size int | f const struct TYPE_3__ *

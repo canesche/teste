@@ -1,0 +1,3 @@
+struct input_param | type long | num int 
+struct input_ctx | param_list_len unsigned long | param_list struct input_param * 
+function input_get int | ictx struct input_ctx * | validx unsigned long | minval int | defval int

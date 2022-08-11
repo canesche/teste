@@ -1,0 +1,2 @@
+struct tracing_map | n_keys unsigned int | key_idx unsigned int * 
+function is_key int | map struct tracing_map * | field_idx unsigned int

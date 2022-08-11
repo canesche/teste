@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxarcharckernelsetup.c_uboot_arg_invalid.d/extr_linuxarcharckernelsetup.c_uboot_arg_invalid_O0::uboot_arg_invalid(63)"
+  }
+]

@@ -1,0 +1,3 @@
+struct TYPE_5__ | channel_in_cpl long * | num_cpl_channels int | cpl_in_use int | new_cpl_strategy int | new_cpl_leak int | new_snr_offsets int | end_freq int * 
+struct TYPE_4__ | num_blocks int | fbw_channels int | cpl_on long | start_freq int * | bandwidth_code int | blocks struct TYPE_5__ * 
+function ff_ac3_compute_coupling_strategy void | s struct TYPE_4__ *

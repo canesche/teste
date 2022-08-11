@@ -1,3 +1,0 @@
-struct mipi_dsi_host | dummy int 
-struct mipi_dsi_device | dummy int 
-function intel_dsi_host_attach int | host struct mipi_dsi_host * | dsi struct mipi_dsi_device *

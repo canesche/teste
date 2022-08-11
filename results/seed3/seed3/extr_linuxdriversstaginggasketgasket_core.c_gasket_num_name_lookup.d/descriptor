@@ -1,0 +1,2 @@
+struct gasket_num_name | snn_name const char * | snn_num unsigned long 
+function gasket_num_name_lookup const char * | num unsigned long | table const struct gasket_num_name *

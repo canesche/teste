@@ -1,0 +1,2 @@
+struct socket | so_traffic_class long 
+function soissrcbesteffort int | so struct socket *

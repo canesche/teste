@@ -1,0 +1,2 @@
+struct nvenc_data | header_size unsigned long | header int * 
+function nvenc_extra_data int | data void * | header int ** | size unsigned long *

@@ -1,0 +1,2 @@
+struct parser | end const char * 
+function is_eol int | parser const struct parser * | ptr const char *

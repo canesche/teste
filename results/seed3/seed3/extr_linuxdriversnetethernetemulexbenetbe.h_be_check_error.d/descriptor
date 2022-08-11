@@ -1,0 +1,2 @@
+struct be_adapter | err_flags int 
+function be_check_error int | adapter struct be_adapter * | err_type int

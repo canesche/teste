@@ -1,0 +1,1 @@
+function binary_search_with_guess int | key const long | arr const long * | len int | guess int

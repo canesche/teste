@@ -1,0 +1,2 @@
+struct spi_device | dummy int 
+function spi_imx_cleanup void | spi struct spi_device *

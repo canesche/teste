@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct file | dummy int 
+function pxa3xx_gcu_open int | inode struct inode * | file struct file *

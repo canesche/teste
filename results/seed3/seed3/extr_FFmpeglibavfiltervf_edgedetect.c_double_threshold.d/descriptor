@@ -1,0 +1,1 @@
+function double_threshold void | low int | high int | w int | h int | dst int * | dst_linesize int | src const int * | src_linesize int

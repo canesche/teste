@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 54,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 54,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_FFmpeglibavcodecmpegvideo_enc.c_update_duplicate_context_after_me.d/extr_FFmpeglibavcodecmpegvideo_enc.c_update_duplicate_context_after_me_O0::update_duplicate_context_after_me(64)"
+  }
+]

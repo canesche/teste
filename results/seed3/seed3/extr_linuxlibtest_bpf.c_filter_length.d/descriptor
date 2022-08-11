@@ -1,0 +1,5 @@
+struct sock_filter | code long | k long 
+struct TYPE_4__ | len int 
+struct TYPE_5__ | insns struct sock_filter * | ptr struct TYPE_4__ 
+struct TYPE_6__ | u struct TYPE_5__ | fill_helper long 
+function filter_length int | which int

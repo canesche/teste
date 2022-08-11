@@ -1,4 +1,0 @@
-struct scsi_qla_host | hw struct TYPE_2__ * 
-struct qla27xx_fwdt_template | firmware_version int * 
-struct TYPE_2__ | fw_major_version int | fw_minor_version int | fw_subminor_version int | fw_attributes_h int | fw_attributes int | fw_attributes_ext int * 
-function qla27xx_firmware_info void | tmp struct qla27xx_fwdt_template * | vha struct scsi_qla_host *

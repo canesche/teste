@@ -1,0 +1,2 @@
+struct face_array | count int | items int * 
+function add_face int * | array struct face_array *

@@ -1,2 +1,0 @@
-struct phy_dm_struct | dummy int 
-function phydm_config_cck_rx_antenna_init void | dm struct phy_dm_struct *

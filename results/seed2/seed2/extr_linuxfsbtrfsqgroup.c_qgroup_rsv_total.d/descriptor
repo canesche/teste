@@ -1,0 +1,3 @@
+struct TYPE_2__ | values long * 
+struct btrfs_qgroup | rsv struct TYPE_2__ 
+function qgroup_rsv_total int | qgroup const struct btrfs_qgroup *

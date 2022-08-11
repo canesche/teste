@@ -1,0 +1,3 @@
+struct TYPE_4__ | width int | height int 
+struct TYPE_5__ | dirtyRect int * | params struct TYPE_4__ 
+function fonsValidateTexture int | stash struct TYPE_5__ * | dirty int *

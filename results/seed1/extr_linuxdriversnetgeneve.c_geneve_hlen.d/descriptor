@@ -1,2 +1,0 @@
-struct genevehdr | opt_len int 
-function geneve_hlen int | gh struct genevehdr *

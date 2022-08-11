@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_jqsrcjv.c_jvp_clamp_slice_params.d/extr_jqsrcjv.c_jvp_clamp_slice_params_O0::jvp_clamp_slice_params(60)"
+  }
+]

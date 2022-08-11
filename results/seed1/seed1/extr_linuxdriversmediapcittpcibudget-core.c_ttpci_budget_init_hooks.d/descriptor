@@ -1,0 +1,4 @@
+struct budget | dvb_frontend struct TYPE_4__ * | read_fe_status long 
+struct TYPE_3__ | read_status long 
+struct TYPE_4__ | ops struct TYPE_3__ 
+function ttpci_budget_init_hooks void | budget struct budget *

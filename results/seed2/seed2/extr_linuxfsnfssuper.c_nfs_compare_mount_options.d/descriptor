@@ -1,0 +1,5 @@
+struct super_block | s_flags int | s_fs_info struct nfs_server * 
+struct rpc_clnt | cl_auth struct TYPE_2__ * 
+struct nfs_server | nfs_client long | flags int | wsize long | rsize long | acregmin long | acregmax long | acdirmin long | acdirmax long | client struct rpc_clnt * 
+struct TYPE_2__ | au_flavor long 
+function nfs_compare_mount_options int | s const struct super_block * | b const struct nfs_server * | flags int

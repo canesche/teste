@@ -1,4 +1,0 @@
-struct TYPE_4__ | computed int | wdiff int 
-struct TYPE_3__ | period int 
-struct hist_entry | diff struct TYPE_4__ | stat struct TYPE_3__ 
-function compute_wdiff int | he struct hist_entry * | pair struct hist_entry *

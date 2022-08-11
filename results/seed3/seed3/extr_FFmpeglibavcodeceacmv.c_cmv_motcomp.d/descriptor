@@ -1,0 +1,1 @@
+function cmv_motcomp void | dst unsigned char * | dst_stride int | src const unsigned char * | src_stride int | x int | y int | xoffset int | yoffset int | width int | height int

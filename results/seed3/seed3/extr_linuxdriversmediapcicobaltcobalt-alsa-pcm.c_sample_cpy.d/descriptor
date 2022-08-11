@@ -1,0 +1,1 @@
+function sample_cpy void | dst int * | src const int * | len int | is_s32 int

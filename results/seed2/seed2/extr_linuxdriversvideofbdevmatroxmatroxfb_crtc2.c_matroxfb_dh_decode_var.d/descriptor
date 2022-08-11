@@ -1,0 +1,8 @@
+struct TYPE_6__ | len_usable unsigned int 
+struct matroxfb_dh_fb_info | video struct TYPE_6__ 
+struct TYPE_10__ | offset int | length int 
+struct TYPE_9__ | length int | offset long 
+struct TYPE_8__ | length int | offset int 
+struct TYPE_7__ | offset int | length int 
+struct fb_var_screeninfo | bits_per_pixel int | yres_virtual int | yres int | xres_virtual int | xres int | xoffset int | yoffset int | left_margin int | right_margin int | hsync_len int | transp struct TYPE_10__ | blue struct TYPE_9__ | green struct TYPE_8__ | red struct TYPE_7__ 
+function matroxfb_dh_decode_var int | m2info struct matroxfb_dh_fb_info * | var struct fb_var_screeninfo * | visual int * | video_cmap_len int * | mode int *

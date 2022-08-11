@@ -1,0 +1,2 @@
+struct psmouse | dummy int 
+function psmouse_smbus_process_byte int | psmouse struct psmouse *

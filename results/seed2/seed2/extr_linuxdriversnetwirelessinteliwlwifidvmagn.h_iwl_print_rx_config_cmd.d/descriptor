@@ -1,0 +1,2 @@
+struct iwl_priv | dummy int 
+function iwl_print_rx_config_cmd void | priv struct iwl_priv * | ctxid enum iwl_rxon_context_id

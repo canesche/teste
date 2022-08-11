@@ -1,0 +1,1 @@
+function riscv_base_pmu_handle_irq int | irq_num int | dev void *

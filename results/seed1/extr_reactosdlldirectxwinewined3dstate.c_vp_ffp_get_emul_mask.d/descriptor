@@ -1,2 +1,0 @@
-struct wined3d_gl_info | dummy int 
-function vp_ffp_get_emul_mask int | gl_info const struct wined3d_gl_info *

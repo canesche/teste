@@ -1,0 +1,5 @@
+struct agp_bridge_data | dev struct TYPE_4__ * 
+struct TYPE_6__ | major_version int | minor_version int 
+struct TYPE_5__ | tlb_flush int | cleanup int | fetch_size int | configure int | num_aperture_sizes int | size_type int | aperture_sizes int | agp_enable int 
+struct TYPE_4__ | device long 
+function sis_get_driver void | bridge struct agp_bridge_data *

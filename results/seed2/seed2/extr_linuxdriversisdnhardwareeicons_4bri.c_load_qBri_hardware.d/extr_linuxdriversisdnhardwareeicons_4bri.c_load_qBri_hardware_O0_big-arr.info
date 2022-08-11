@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversisdnhardwareeicons_4bri.c_load_qBri_hardware.d/extr_linuxdriversisdnhardwareeicons_4bri.c_load_qBri_hardware_O0::load_qBri_hardware(60)"
+  }
+]

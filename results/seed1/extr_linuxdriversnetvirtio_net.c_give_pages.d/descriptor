@@ -1,3 +1,0 @@
-struct receive_queue | pages struct page * 
-struct page | private long 
-function give_pages void | rq struct receive_queue * | page struct page *

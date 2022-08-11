@@ -1,0 +1,2 @@
+struct wl1271 | dummy int 
+function wl18xx_calc_tx_blocks int | wl struct wl1271 * | len int | spare_blks int

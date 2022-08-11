@@ -1,0 +1,1 @@
+function meson_gpio_irq_channel_to_reg unsigned int | channel unsigned int

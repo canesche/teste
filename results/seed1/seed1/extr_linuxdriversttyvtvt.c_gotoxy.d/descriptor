@@ -1,0 +1,2 @@
+struct vc_data | vc_x int | vc_cols int | vc_top int | vc_bottom int | vc_rows int | vc_y int | vc_size_row int | vc_need_wrap long | vc_origin long | vc_pos long | vc_decom long 
+function gotoxy void | vc struct vc_data * | new_x int | new_y int

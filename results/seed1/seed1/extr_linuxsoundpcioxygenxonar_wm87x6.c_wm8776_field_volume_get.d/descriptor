@@ -1,0 +1,5 @@
+struct snd_kcontrol | private_value int 
+struct TYPE_3__ | value int * 
+struct TYPE_4__ | integer struct TYPE_3__ 
+struct snd_ctl_elem_value | value struct TYPE_4__ 
+function wm8776_field_volume_get int | ctl struct snd_kcontrol * | value struct snd_ctl_elem_value *

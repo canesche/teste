@@ -1,0 +1,3 @@
+struct dpu_rm | hw_mdp struct dpu_hw_mdp * 
+struct dpu_hw_mdp | dummy int 
+function dpu_rm_get_mdp struct dpu_hw_mdp * | rm struct dpu_rm *

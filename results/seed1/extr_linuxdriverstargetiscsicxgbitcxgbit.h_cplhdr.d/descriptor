@@ -1,2 +1,0 @@
-struct sk_buff | data void * 
-function cplhdr void * | skb struct sk_buff *

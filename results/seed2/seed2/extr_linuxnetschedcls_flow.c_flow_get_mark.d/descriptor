@@ -1,0 +1,2 @@
+struct sk_buff | mark int 
+function flow_get_mark int | skb const struct sk_buff *

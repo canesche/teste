@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 9,
+    exit: true,
+    halt: false,
+    edges: 21,
+    static: {
+      instructions: 64,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 64,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmediausbdvb-usbcinergyT2-fe.c_compute_tps.d/extr_linuxdriversmediausbdvb-usbcinergyT2-fe.c_compute_tps_O0::compute_tps(81)"
+  }
+]

@@ -1,0 +1,3 @@
+struct rhashtable_compare_arg | key long 
+struct net_bridge_vlan | vid long 
+function br_vlan_cmp int | arg struct rhashtable_compare_arg * | ptr const void *

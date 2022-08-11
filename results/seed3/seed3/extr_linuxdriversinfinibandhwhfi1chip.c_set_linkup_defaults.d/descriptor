@@ -1,0 +1,2 @@
+struct hfi1_pportdata | sm_trap_qp int | sa_qp int 
+function set_linkup_defaults void | ppd struct hfi1_pportdata *

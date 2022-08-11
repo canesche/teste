@@ -1,0 +1,2 @@
+struct pvr2_hdw | serial_number unsigned long 
+function pvr2_hdw_get_sn unsigned long | hdw struct pvr2_hdw *

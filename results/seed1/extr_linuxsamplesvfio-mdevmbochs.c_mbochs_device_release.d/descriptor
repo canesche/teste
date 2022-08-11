@@ -1,2 +1,0 @@
-struct device | dummy int 
-function mbochs_device_release void | dev struct device *

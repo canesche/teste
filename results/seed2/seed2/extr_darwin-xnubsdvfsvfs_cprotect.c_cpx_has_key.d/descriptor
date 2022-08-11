@@ -1,0 +1,2 @@
+struct cpx | cpx_key_len long 
+function cpx_has_key int | cpx const struct cpx *

@@ -1,0 +1,5 @@
+struct TYPE_4__ | sec long 
+struct stat_data | sd_mtime struct TYPE_4__ 
+struct TYPE_3__ | sec long 
+struct index_state | timestamp struct TYPE_3__ 
+function is_racy_stat int | istate const struct index_state * | sd const struct stat_data *

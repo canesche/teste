@@ -1,0 +1,5 @@
+struct user_regset | n int 
+struct fpu | initialized long 
+struct TYPE_2__ | fpu struct fpu 
+struct task_struct | thread struct TYPE_2__ 
+function regset_fpregs_active int | target struct task_struct * | regset const struct user_regset *

@@ -1,0 +1,2 @@
+struct lev_cache_set_new_local_copy_long | dummy int 
+function cache_set_new_local_copy_long int | E struct lev_cache_set_new_local_copy_long * | local_url_len int

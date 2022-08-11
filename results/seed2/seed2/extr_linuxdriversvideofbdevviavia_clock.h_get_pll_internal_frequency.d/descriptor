@@ -1,0 +1,2 @@
+struct via_pll_config | divisor int | multiplier int 
+function get_pll_internal_frequency int | ref_freq int | pll struct via_pll_config

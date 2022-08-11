@@ -1,0 +1,2 @@
+struct sctp_ulpevent | msg_flags int 
+function sctp_ulpevent_is_notification int | event const struct sctp_ulpevent *

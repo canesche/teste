@@ -1,0 +1,1 @@
+function get_reg_field_value_ex int | reg_value int | mask int | shift int

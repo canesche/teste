@@ -1,0 +1,3 @@
+struct bpf_verifier_env | subprog_cnt int | subprog_info struct TYPE_2__ * 
+struct TYPE_2__ | start int 
+function adjust_subprog_starts void | env struct bpf_verifier_env * | off int | len int

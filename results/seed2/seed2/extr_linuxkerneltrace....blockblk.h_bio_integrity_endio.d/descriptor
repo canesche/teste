@@ -1,0 +1,2 @@
+struct bio | dummy int 
+function bio_integrity_endio int | bio struct bio *

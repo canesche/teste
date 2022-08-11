@@ -1,0 +1,1 @@
+function emscripten_atomic_cas_u64 long | addr void * | oldVal long | newVal long

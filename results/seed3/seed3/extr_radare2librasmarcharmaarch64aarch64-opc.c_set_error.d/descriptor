@@ -1,0 +1,2 @@
+struct TYPE_3__ | kind int | index int | error const char * 
+function set_error void | mismatch_detail struct TYPE_3__ * | kind enum aarch64_operand_error_kind | idx int | error const char *

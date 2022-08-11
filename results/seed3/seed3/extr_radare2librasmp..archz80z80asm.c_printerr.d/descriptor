@@ -1,0 +1,1 @@
+function printerr void | error int | fmt const char *

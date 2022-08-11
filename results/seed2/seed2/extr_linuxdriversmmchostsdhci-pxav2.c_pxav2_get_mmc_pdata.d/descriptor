@@ -1,0 +1,3 @@
+struct sdhci_pxa_platdata | dummy int 
+struct device | dummy int 
+function pxav2_get_mmc_pdata struct sdhci_pxa_platdata * | dev struct device *

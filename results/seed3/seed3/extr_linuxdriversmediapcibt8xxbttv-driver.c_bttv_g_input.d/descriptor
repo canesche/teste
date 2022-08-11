@@ -1,0 +1,4 @@
+struct file | dummy int 
+struct bttv_fh | btv struct bttv * 
+struct bttv | input unsigned int 
+function bttv_g_input int | file struct file * | priv void * | i unsigned int *

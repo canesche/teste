@@ -1,0 +1,3 @@
+struct sirfsoc_gpio_chip | sgpio_bank struct sirfsoc_gpio_bank * 
+struct sirfsoc_gpio_bank | dummy int 
+function sirfsoc_gpio_to_bank struct sirfsoc_gpio_bank * | sgpio struct sirfsoc_gpio_chip * | offset unsigned int

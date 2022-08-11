@@ -1,0 +1,3 @@
+struct bus_type | p struct TYPE_2__ * 
+struct TYPE_2__ | drivers_autoprobe int 
+function store_drivers_autoprobe unsigned long | bus struct bus_type * | buf const char * | count unsigned long

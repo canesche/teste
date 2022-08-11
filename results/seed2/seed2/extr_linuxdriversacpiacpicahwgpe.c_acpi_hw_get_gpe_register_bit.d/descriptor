@@ -1,0 +1,3 @@
+struct acpi_gpe_event_info | gpe_number int | register_info struct TYPE_2__ * 
+struct TYPE_2__ | base_gpe_number int 
+function acpi_hw_get_gpe_register_bit int | gpe_event_info struct acpi_gpe_event_info *

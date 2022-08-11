@@ -1,0 +1,2 @@
+struct obs_scene_item | scale_filter long 
+function scale_filter_enabled int | item const struct obs_scene_item *

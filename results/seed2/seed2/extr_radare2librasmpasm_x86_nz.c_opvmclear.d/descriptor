@@ -1,0 +1,3 @@
+struct TYPE_5__ | operands_count int | operands struct TYPE_4__ * 
+struct TYPE_4__ | type int | regs int * 
+function opvmclear int | a int * | data int * | op const struct TYPE_5__ *

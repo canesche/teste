@@ -1,2 +1,0 @@
-struct perf_event | cpu long | group_index long 
-function perf_event_groups_less int | left struct perf_event * | right struct perf_event *

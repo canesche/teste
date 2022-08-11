@@ -1,0 +1,4 @@
+struct snd_soundfont | samples struct snd_sf_sample * 
+struct TYPE_2__ | sample int 
+struct snd_sf_sample | v struct TYPE_2__ | next struct snd_sf_sample * 
+function find_sample struct snd_sf_sample * | sf struct snd_soundfont * | sample_id int

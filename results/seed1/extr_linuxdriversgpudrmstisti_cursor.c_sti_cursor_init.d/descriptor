@@ -1,2 +1,0 @@
-struct sti_cursor | clut unsigned short * 
-function sti_cursor_init void | cursor struct sti_cursor *

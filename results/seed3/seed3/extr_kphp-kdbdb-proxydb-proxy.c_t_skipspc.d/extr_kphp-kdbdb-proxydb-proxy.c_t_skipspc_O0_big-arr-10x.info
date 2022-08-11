@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 14,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 24,
+    static: {
+      instructions: 61,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 61,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_kphp-kdbdb-proxydb-proxy.c_t_skipspc.d/extr_kphp-kdbdb-proxydb-proxy.c_t_skipspc_O0::t_skipspc(59)"
+  }
+]

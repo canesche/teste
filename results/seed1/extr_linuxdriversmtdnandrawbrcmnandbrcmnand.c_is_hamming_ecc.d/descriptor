@@ -1,3 +1,0 @@
-struct brcmnand_controller | nand_version int 
-struct brcmnand_cfg | sector_size_1k long | spare_area_size int | ecc_level int 
-function is_hamming_ecc int | ctrl struct brcmnand_controller * | cfg struct brcmnand_cfg *

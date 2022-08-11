@@ -1,0 +1,2 @@
+struct ra_format | pixel_size int | num_components int | component_size long * | component_depth long * | ordered int 
+function ra_format_is_regular int | fmt const struct ra_format *

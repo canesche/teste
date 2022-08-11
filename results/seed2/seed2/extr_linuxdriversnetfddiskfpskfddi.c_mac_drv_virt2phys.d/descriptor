@@ -1,0 +1,3 @@
+struct TYPE_2__ | SharedMemDMA unsigned long | SharedMemAddr long 
+struct s_smc | os struct TYPE_2__ 
+function mac_drv_virt2phys unsigned long | smc struct s_smc * | virt void *

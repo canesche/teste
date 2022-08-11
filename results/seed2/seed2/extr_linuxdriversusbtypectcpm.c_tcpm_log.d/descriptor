@@ -1,0 +1,2 @@
+struct tcpm_port | dummy int 
+function tcpm_log void | port const struct tcpm_port * | fmt const char *

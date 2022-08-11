@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversstagingmt7621-pci....pcipci.h_devm_of_pci_get_host_bridge_resources.d/extr_linuxdriversstagingmt7621-pci....pcipci.h_devm_of_pci_get_host_bridge_resources_O0::devm_of_pci_get_host_bridge_resources(66)"
+  }
+]

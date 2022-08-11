@@ -1,0 +1,2 @@
+struct fwtty_peer | state int 
+function peer_set_state void | peer struct fwtty_peer * | new int

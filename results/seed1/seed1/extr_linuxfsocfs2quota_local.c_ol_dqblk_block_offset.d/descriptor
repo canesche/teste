@@ -1,0 +1,2 @@
+struct super_block | s_blocksize_bits int 
+function ol_dqblk_block_offset unsigned int | sb struct super_block * | off int

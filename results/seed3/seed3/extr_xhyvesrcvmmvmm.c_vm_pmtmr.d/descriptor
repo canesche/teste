@@ -1,0 +1,3 @@
+struct vpmtmr | dummy int 
+struct vm | vpmtmr struct vpmtmr * 
+function vm_pmtmr struct vpmtmr * | vm struct vm *

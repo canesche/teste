@@ -1,0 +1,5 @@
+struct image | tex struct TYPE_6__ * 
+struct TYPE_5__ | format struct TYPE_4__ * 
+struct TYPE_6__ | params struct TYPE_5__ 
+struct TYPE_4__ | luminance_alpha long 
+function get_tex_swizzle const char * | img struct image *

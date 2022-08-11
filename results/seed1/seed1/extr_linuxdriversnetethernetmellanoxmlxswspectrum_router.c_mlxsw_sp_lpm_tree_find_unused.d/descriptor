@@ -1,0 +1,5 @@
+struct mlxsw_sp_lpm_tree | ref_count long 
+struct mlxsw_sp | router struct TYPE_4__ * 
+struct TYPE_3__ | tree_count int | trees struct mlxsw_sp_lpm_tree * 
+struct TYPE_4__ | lpm struct TYPE_3__ 
+function mlxsw_sp_lpm_tree_find_unused struct mlxsw_sp_lpm_tree * | mlxsw_sp struct mlxsw_sp *

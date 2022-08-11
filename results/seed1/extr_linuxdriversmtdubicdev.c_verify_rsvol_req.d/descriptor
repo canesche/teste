@@ -1,3 +1,0 @@
-struct ubi_rsvol_req | bytes long | vol_id long 
-struct ubi_device | vtbl_slots long 
-function verify_rsvol_req int | ubi const struct ubi_device * | req const struct ubi_rsvol_req *

@@ -1,2 +1,0 @@
-struct mpoa_client | eg_ops int * | in_ops int * 
-function atm_mpoa_init_cache void | mpc struct mpoa_client *

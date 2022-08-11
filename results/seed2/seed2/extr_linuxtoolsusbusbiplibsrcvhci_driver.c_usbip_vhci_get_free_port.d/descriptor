@@ -1,0 +1,3 @@
+struct TYPE_4__ | nports int | idev struct TYPE_3__ * 
+struct TYPE_3__ | status long | port int | hub int 
+function usbip_vhci_get_free_port int | speed int

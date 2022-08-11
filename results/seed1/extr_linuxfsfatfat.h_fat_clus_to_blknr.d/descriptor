@@ -1,2 +1,0 @@
-struct msdos_sb_info | sec_per_clus int | data_start int 
-function fat_clus_to_blknr int | sbi struct msdos_sb_info * | clus int

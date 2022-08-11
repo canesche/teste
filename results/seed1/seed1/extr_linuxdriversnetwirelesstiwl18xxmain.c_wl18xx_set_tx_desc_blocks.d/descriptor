@@ -1,0 +1,4 @@
+struct TYPE_2__ | total_mem_blocks int 
+struct wl1271_tx_hw_descr | wl18xx_mem struct TYPE_2__ 
+struct wl1271 | dummy int 
+function wl18xx_set_tx_desc_blocks void | wl struct wl1271 * | desc struct wl1271_tx_hw_descr * | blks int | spare_blks int

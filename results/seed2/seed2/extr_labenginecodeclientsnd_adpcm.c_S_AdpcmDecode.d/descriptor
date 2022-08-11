@@ -1,0 +1,2 @@
+struct adpcm_state | sample int | index int 
+function S_AdpcmDecode void | indata char const[] | outdata short * | len int | state struct adpcm_state *

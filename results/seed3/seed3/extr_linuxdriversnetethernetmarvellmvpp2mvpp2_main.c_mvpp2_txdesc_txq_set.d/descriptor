@@ -1,0 +1,6 @@
+struct TYPE_6__ | phys_txq unsigned int 
+struct TYPE_5__ | phys_txq unsigned int 
+struct mvpp2_tx_desc | pp22 struct TYPE_6__ | pp21 struct TYPE_5__ 
+struct mvpp2_port | priv struct TYPE_4__ * 
+struct TYPE_4__ | hw_version long 
+function mvpp2_txdesc_txq_set void | port struct mvpp2_port * | tx_desc struct mvpp2_tx_desc * | txq unsigned int

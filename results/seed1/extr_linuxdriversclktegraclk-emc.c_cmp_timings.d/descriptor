@@ -1,2 +1,0 @@
-struct emc_timing | rate long 
-function cmp_timings int | _a const void * | _b const void *

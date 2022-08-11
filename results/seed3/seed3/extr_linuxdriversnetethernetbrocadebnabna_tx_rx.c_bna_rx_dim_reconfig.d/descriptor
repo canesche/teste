@@ -1,0 +1,3 @@
+struct TYPE_2__ | dim_vector int ** 
+struct bna | rx_mod struct TYPE_2__ 
+function bna_rx_dim_reconfig void | bna struct bna * | vector int const[][BNA_BIAS_T_MAX]

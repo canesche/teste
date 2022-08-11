@@ -1,0 +1,3 @@
+struct TYPE_5__ | len int | valid int | not_found long | no_cacheable long | data int * 
+struct TYPE_6__ | pipeline long 
+function ngx_http_variable_pipe int | r struct TYPE_6__ * | v struct TYPE_5__ * | data unsigned long

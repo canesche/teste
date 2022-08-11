@@ -1,2 +1,0 @@
-struct rtsx_chip | dummy int 
-function xd_cleanup_work void | chip struct rtsx_chip *

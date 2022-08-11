@@ -1,0 +1,2 @@
+struct TYPE_3__ | dict const char * | dictSize unsigned long 
+function ZBUFF_decompressWithDictionary unsigned long | zbc struct TYPE_3__ * | src const void * | srcSize unsigned long

@@ -1,0 +1,3 @@
+struct discovery_state | state int 
+struct hci_dev | discovery struct discovery_state 
+function hci_discovery_active int | hdev struct hci_dev *

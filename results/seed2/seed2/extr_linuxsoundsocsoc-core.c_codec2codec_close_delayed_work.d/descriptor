@@ -1,0 +1,2 @@
+struct work_struct | dummy int 
+function codec2codec_close_delayed_work void | work struct work_struct *

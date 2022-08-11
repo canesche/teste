@@ -1,0 +1,2 @@
+struct grep_pat | dummy int 
+function free_pcre1_regexp void | p struct grep_pat *

@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function idle_thread_get struct task_struct * | cpu unsigned int

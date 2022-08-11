@@ -1,0 +1,2 @@
+struct ath6kl | ctrl_ep unsigned long | tx_pending int * 
+function is_ctrl_ep_empty int | ar struct ath6kl *

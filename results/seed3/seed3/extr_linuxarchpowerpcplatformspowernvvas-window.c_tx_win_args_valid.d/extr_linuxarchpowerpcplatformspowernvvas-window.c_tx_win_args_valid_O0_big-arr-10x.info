@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxarchpowerpcplatformspowernvvas-window.c_tx_win_args_valid.d/extr_linuxarchpowerpcplatformspowernvvas-window.c_tx_win_args_valid_O0::tx_win_args_valid(67)"
+  }
+]

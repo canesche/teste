@@ -1,0 +1,4 @@
+struct msix_entry | dummy int 
+struct mic_irq_info | num_vectors int | msix_entries struct msix_entry * | mic_msi_map int * 
+struct mic_device | irq_info struct mic_irq_info 
+function mic_get_available_vector struct msix_entry * | mdev struct mic_device *

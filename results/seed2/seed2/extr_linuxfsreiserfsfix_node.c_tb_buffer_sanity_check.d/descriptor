@@ -1,0 +1,3 @@
+struct super_block | dummy int 
+struct buffer_head | dummy int 
+function tb_buffer_sanity_check void | sb struct super_block * | bh struct buffer_head * | descr const char * | level int

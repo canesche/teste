@@ -1,3 +1,0 @@
-struct drm_encoder | dummy int 
-struct drm_connector | dummy int 
-function sil164_encoder_get_modes int | encoder struct drm_encoder * | connector struct drm_connector *

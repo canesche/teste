@@ -1,0 +1,2 @@
+struct tee_shm | size unsigned long | paddr long 
+function tee_shm_get_pa int | shm struct tee_shm * | offs unsigned long | pa long *

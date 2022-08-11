@@ -1,0 +1,3 @@
+struct TYPE_2__ | expires unsigned long 
+struct rxrpc_call | ack_at unsigned long | ack_lost_at unsigned long | resend_at unsigned long | ping_at unsigned long | expect_rx_by unsigned long | expect_req_by unsigned long | expect_term_by unsigned long | timer struct TYPE_2__ 
+function rxrpc_start_call_timer void | call struct rxrpc_call *

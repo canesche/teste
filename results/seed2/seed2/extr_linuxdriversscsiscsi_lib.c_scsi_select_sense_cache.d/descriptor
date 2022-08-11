@@ -1,0 +1,2 @@
+struct kmem_cache | dummy int 
+function scsi_select_sense_cache struct kmem_cache * | unchecked_isa_dma int

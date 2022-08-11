@@ -1,0 +1,2 @@
+struct waitq | dummy int 
+function waitq_is_global int | waitq struct waitq *

@@ -1,0 +1,6 @@
+struct TYPE_7__ | address_length int | minimum int 
+struct TYPE_5__ | interrupts int * 
+struct TYPE_6__ | io struct TYPE_7__ | irq struct TYPE_5__ 
+struct acpi_resource | type int | data struct TYPE_6__ 
+struct TYPE_8__ | io_base int | irq int | io_length int 
+function fujitsu_walk_resources int | res struct acpi_resource * | data void *

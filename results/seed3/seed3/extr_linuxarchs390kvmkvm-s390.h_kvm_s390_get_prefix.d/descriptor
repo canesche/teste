@@ -1,0 +1,4 @@
+struct TYPE_4__ | sie_block struct TYPE_3__ * 
+struct kvm_vcpu | arch struct TYPE_4__ 
+struct TYPE_3__ | prefix int 
+function kvm_s390_get_prefix int | vcpu struct kvm_vcpu *

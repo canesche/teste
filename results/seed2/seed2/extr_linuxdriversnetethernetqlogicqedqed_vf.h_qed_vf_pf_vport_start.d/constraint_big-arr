@@ -1,0 +1,1 @@
+value(vport_id) == 255, value(mtu) == 255, value(inner_vlan_removal) == 255, value(max_buffers_per_cqe) == 255, value(only_untagged) == 255, length(p_hwfn) == 65025

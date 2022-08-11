@@ -1,3 +1,0 @@
-struct aoedev | ntargets int | targets struct TYPE_2__ ** 
-struct TYPE_2__ | taint long 
-function count_targets int | d struct aoedev * | untainted int *

@@ -1,3 +1,0 @@
-struct rb_root | rb_node struct rb_node * 
-struct rb_node | rb_right struct rb_node * 
-function rb_last struct rb_node * | root const struct rb_root *

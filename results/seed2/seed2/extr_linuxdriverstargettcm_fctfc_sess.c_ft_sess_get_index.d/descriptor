@@ -1,0 +1,3 @@
+struct se_session | fabric_sess_ptr struct ft_sess * 
+struct ft_sess | port_id int 
+function ft_sess_get_index int | se_sess struct se_session *

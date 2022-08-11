@@ -1,0 +1,2 @@
+struct spu | dummy int 
+function resource_allocation_groupID_set void | spu struct spu * | id int

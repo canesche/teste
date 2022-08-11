@@ -1,0 +1,2 @@
+struct TYPE_3__ | SoundList int | SoundInfo int | ClearSoundBuffer int | RegisterSound int | BeginRegistration int | DisableSounds int | Update int | UpdateEntityPosition int | Respatialize int | StopLoopingSound int | AddRealLoopingSound int | AddLoopingSound int | ClearLoopingSounds int | StopAllSounds int | RawSamples int | StopBackgroundTrack int | StartBackgroundTrack int | StartLocalSound int | StartSound int | Shutdown int 
+function S_ValidSoundInterface int | si struct TYPE_3__ *

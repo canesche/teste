@@ -1,3 +1,0 @@
-struct TYPE_2__ | get_smu_clock_info int 
-struct bios_parser | cmd_tbl struct TYPE_2__ 
-function init_get_smu_clock_info void | bp struct bios_parser *

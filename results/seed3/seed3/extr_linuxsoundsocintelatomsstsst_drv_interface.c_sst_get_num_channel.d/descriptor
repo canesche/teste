@@ -1,0 +1,7 @@
+struct TYPE_8__ | num_chan int 
+struct TYPE_7__ | num_chan int 
+struct TYPE_6__ | num_chan int 
+struct TYPE_9__ | aac_params struct TYPE_8__ | mp3_params struct TYPE_7__ | pcm_params struct TYPE_6__ 
+struct TYPE_10__ | uc struct TYPE_9__ 
+struct snd_sst_params | codec int | sparams struct TYPE_10__ 
+function sst_get_num_channel int | str_param struct snd_sst_params *

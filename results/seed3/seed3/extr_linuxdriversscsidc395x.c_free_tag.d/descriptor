@@ -1,0 +1,3 @@
+struct ScsiReqBlk | tag_number int 
+struct DeviceCtlBlk | tag_mask int 
+function free_tag void | dcb struct DeviceCtlBlk * | srb struct ScsiReqBlk *

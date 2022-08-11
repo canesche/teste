@@ -1,3 +1,0 @@
-struct sumo_ps | dummy int 
-struct radeon_ps | ps_priv struct sumo_ps * 
-function sumo_get_ps struct sumo_ps * | rps struct radeon_ps *

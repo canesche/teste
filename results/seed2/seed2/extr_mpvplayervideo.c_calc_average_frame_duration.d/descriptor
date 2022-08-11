@@ -1,0 +1,3 @@
+struct MPContext | num_past_frames int | past_frames struct TYPE_2__ * 
+struct TYPE_2__ | approx_duration double 
+function calc_average_frame_duration double | mpctx struct MPContext *

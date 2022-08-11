@@ -1,0 +1,2 @@
+struct bna_rxf | dummy int 
+function bna_rxf_sm_last_resp_wait_entry void | rxf struct bna_rxf *

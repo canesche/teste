@@ -1,0 +1,3 @@
+struct TYPE_4__ | url int * 
+struct TYPE_5__ | dict struct TYPE_4__ 
+function data_has_dict int | data const struct TYPE_5__ *

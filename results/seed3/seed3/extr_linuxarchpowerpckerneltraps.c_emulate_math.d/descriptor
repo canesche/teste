@@ -1,0 +1,2 @@
+struct pt_regs | dummy int 
+function emulate_math int | regs struct pt_regs *

@@ -1,0 +1,2 @@
+struct TYPE_5__ | u64 int * 
+function ef4_masked_compare_oword int | a const struct TYPE_5__ * | b const struct TYPE_5__ * | mask const struct TYPE_5__ *

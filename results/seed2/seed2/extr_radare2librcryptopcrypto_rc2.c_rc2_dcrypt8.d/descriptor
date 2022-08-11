@@ -1,0 +1,2 @@
+struct rc2_state | ekey long * 
+function rc2_dcrypt8 void | state struct rc2_state * | inbuf const int * | outbuf int *

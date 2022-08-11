@@ -1,0 +1,2 @@
+struct TYPE_3__ | host_flags int | channel int | hwif_data long 
+function siimage_selreg unsigned long | hwif struct TYPE_3__ * | r int

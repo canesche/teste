@@ -1,0 +1,1 @@
+function eia608_parse_midrowchange int | cc_data int | chan int * | style int * | underline int *

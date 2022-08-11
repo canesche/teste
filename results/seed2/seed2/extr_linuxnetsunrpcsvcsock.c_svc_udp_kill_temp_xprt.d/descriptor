@@ -1,0 +1,2 @@
+struct svc_xprt | dummy int 
+function svc_udp_kill_temp_xprt void | xprt struct svc_xprt *

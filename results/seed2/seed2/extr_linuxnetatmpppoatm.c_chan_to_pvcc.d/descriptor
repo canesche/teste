@@ -1,0 +1,3 @@
+struct pppoatm_vcc | dummy int 
+struct ppp_channel | private long 
+function chan_to_pvcc struct pppoatm_vcc * | chan const struct ppp_channel *

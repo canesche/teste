@@ -1,0 +1,3 @@
+struct kone_device | actual_profile int | profiles struct TYPE_2__ * | actual_dpi int 
+struct TYPE_2__ | startup_dpi int 
+function kone_profile_activated void | kone struct kone_device * | new_profile int

@@ -1,0 +1,1 @@
+function efi_utf16_to_utf8 int * | dst int * | src const int * | n int

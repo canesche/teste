@@ -1,0 +1,2 @@
+struct device | release long 
+function ata_is_ata_dev int | dev const struct device *

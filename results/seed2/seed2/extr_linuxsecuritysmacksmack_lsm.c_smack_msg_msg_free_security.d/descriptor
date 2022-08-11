@@ -1,0 +1,2 @@
+struct msg_msg | security int * 
+function smack_msg_msg_free_security void | msg struct msg_msg *

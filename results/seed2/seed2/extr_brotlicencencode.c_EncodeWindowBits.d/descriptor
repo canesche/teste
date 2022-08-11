@@ -1,0 +1,1 @@
+function EncodeWindowBits void | lgwin int | large_window long | last_bytes int * | last_bytes_bits int *

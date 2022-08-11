@@ -1,3 +1,0 @@
-struct TYPE_2__ | caps int 
-struct drm_i915_private | vgpu struct TYPE_2__ 
-function intel_vgpu_has_full_48bit_ppgtt int | dev_priv struct drm_i915_private *

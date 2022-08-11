@@ -1,2 +1,0 @@
-struct AVAESCTR | counter const int * 
-function av_aes_ctr_get_iv const int * | a struct AVAESCTR *

@@ -1,0 +1,4 @@
+struct TYPE_8__ | dwCaps int 
+struct TYPE_6__ | dwCaps4 long 
+struct TYPE_7__ | u1 struct TYPE_6__ | dwCaps3 long | dwCaps2 long | dwCaps int 
+function DDRAW_Convert_DDSCAPS_1_To_2 void | pIn const struct TYPE_8__ * | pOut struct TYPE_7__ *

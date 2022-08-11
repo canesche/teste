@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_kphp-kdbrpc-proxyrpc-proxy.c___udp_get_host.d/extr_kphp-kdbrpc-proxyrpc-proxy.c___udp_get_host_O0::__udp_get_host(62)"
+  }
+]

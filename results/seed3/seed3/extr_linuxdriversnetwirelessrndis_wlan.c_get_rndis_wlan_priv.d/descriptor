@@ -1,0 +1,3 @@
+struct usbnet | driver_priv long 
+struct rndis_wlan_private | dummy int 
+function get_rndis_wlan_priv struct rndis_wlan_private * | dev struct usbnet *

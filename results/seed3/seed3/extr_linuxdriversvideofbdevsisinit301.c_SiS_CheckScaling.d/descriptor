@@ -1,0 +1,2 @@
+struct SiS_Private | SiS_VBInfo int | UsePanelScaler int | SiS_LCDInfo int 
+function SiS_CheckScaling void | SiS_Pr struct SiS_Private * | resinfo unsigned short | nonscalingmodes const unsigned char *

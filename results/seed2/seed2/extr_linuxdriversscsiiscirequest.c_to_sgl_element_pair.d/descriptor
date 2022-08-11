@@ -1,0 +1,4 @@
+struct scu_sgl_element_pair | dummy int 
+struct isci_request | sg_table struct scu_sgl_element_pair * | tc struct TYPE_2__ * 
+struct TYPE_2__ | sgl_pair_cd struct scu_sgl_element_pair | sgl_pair_ab struct scu_sgl_element_pair 
+function to_sgl_element_pair struct scu_sgl_element_pair * | ireq struct isci_request * | idx int

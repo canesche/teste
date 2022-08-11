@@ -1,2 +1,0 @@
-struct gpio_chip | dummy int 
-function acpi_gpiochip_remove void | chip struct gpio_chip *

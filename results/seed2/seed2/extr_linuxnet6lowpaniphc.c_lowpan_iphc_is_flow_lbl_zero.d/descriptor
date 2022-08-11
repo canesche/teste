@@ -1,0 +1,2 @@
+struct ipv6hdr | flow_lbl int * 
+function lowpan_iphc_is_flow_lbl_zero int | hdr const struct ipv6hdr *

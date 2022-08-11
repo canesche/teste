@@ -1,0 +1,2 @@
+struct TYPE_2__ | mp_format int | subtype const int * 
+function format_to_subtype const int * | format int

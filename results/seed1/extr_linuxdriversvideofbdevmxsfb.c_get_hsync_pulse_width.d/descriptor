@@ -1,3 +1,0 @@
-struct mxsfb_info | devdata struct TYPE_2__ * 
-struct TYPE_2__ | hs_wdth_shift unsigned int | hs_wdth_mask unsigned int 
-function get_hsync_pulse_width unsigned int | host struct mxsfb_info * | val unsigned int

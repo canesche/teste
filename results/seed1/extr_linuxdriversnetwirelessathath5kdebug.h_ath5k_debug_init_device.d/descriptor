@@ -1,2 +1,0 @@
-struct ath5k_hw | dummy int 
-function ath5k_debug_init_device void | ah struct ath5k_hw *

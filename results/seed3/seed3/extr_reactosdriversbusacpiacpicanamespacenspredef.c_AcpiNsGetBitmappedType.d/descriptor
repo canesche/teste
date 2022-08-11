@@ -1,0 +1,3 @@
+struct TYPE_4__ | Type int 
+struct TYPE_5__ | Common struct TYPE_4__ 
+function AcpiNsGetBitmappedType int | ReturnObject struct TYPE_5__ *

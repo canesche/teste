@@ -1,0 +1,2 @@
+struct mlxsw_afk_key_info | blocks_count unsigned int 
+function mlxsw_afk_key_info_blocks_count_get unsigned int | key_info const struct mlxsw_afk_key_info *

@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function lowpan_dev_debugfs_init int | dev struct net_device *

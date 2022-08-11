@@ -1,0 +1,2 @@
+struct gpio | en int 
+function dal_gpio_get_enum int | gpio const struct gpio *

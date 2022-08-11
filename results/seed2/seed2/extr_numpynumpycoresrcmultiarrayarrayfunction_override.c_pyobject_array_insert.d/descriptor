@@ -1,0 +1,1 @@
+function pyobject_array_insert void | array int ** | length int | index int | item int *

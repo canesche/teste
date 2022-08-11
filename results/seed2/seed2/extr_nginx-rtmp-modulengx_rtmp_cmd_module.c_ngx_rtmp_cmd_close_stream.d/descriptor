@@ -1,0 +1,1 @@
+function ngx_rtmp_cmd_close_stream int | s int * | v int *

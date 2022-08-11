@@ -1,0 +1,1 @@
+value(hypertable_id) == 10, value(hypertable_partition_colno) == 10, value(hypertable_partition_col_interval) == 10, length(hypertable_oid) == 100, length(hypertable_partition_coltype) == 100, length(src) == 100

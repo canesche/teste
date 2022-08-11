@@ -1,0 +1,2 @@
+struct se_cmd | alua_nonop_delay int | se_cmd_flags int 
+function core_alua_state_nonoptimized void | cmd struct se_cmd * | cdb unsigned char * | nonop_delay_msecs int

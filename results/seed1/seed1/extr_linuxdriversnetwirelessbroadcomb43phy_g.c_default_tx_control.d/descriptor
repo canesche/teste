@@ -1,0 +1,3 @@
+struct b43_phy | radio_ver int | radio_rev int 
+struct b43_wldev | phy struct b43_phy 
+function default_tx_control int | dev struct b43_wldev *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | tqe_prev long | tqe_next long 
+struct TYPE_5__ | sl_flags int | sl_link struct TYPE_4__ 
+function slab_is_detached int | sp struct TYPE_5__ *

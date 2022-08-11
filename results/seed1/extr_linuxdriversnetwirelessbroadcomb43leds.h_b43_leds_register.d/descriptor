@@ -1,2 +1,0 @@
-struct b43_wldev | dummy int 
-function b43_leds_register void | dev struct b43_wldev *

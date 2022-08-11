@@ -1,0 +1,4 @@
+struct TYPE_5__ | Xmm0 int 
+struct TYPE_6__ | s struct TYPE_5__ 
+struct TYPE_7__ | u struct TYPE_6__ 
+function set_float_reg void | context struct TYPE_7__ * | reg int | val int

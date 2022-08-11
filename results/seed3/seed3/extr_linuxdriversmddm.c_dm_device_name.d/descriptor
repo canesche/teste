@@ -1,0 +1,2 @@
+struct mapped_device | name const char * 
+function dm_device_name const char * | md struct mapped_device *

@@ -1,2 +1,0 @@
-struct adf_accel_dev | dummy int 
-function adf_vf_int_noop int | accel_dev struct adf_accel_dev *

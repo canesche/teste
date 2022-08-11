@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function lpc32xx_gpio_dir_in_always int | chip struct gpio_chip * | pin unsigned int

@@ -1,2 +1,0 @@
-struct qib_flash | if_length int | if_csum int 
-function flash_csum int | ifp struct qib_flash * | adjust int

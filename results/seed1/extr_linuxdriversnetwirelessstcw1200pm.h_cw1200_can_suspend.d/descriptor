@@ -1,2 +1,0 @@
-struct cw1200_common | dummy int 
-function cw1200_can_suspend int | priv struct cw1200_common *

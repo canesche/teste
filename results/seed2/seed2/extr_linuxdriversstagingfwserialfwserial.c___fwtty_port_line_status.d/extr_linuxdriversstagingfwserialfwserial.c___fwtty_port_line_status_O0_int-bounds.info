@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversstagingfwserialfwserial.c___fwtty_port_line_status.d/extr_linuxdriversstagingfwserialfwserial.c___fwtty_port_line_status_O0::__fwtty_port_line_status(69)"
+  }
+]

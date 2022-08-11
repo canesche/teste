@@ -1,0 +1,2 @@
+struct TYPE_3__ | I2C_AcknowledgedAddress int | I2C_Ack int | I2C_OwnAddress1 long | I2C_Mode int | I2C_DigitalFilter long | I2C_AnalogFilter int | I2C_Timing long 
+function I2C_StructInit void | I2C_InitStruct struct TYPE_3__ *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | xout int | poly int | reflect int | size int | crc int 
+struct TYPE_4__ | xout int | poly int | reflect int | size int | crc int 
+function crc_init_preset void | ctx struct TYPE_4__ * | preset enum CRC_PRESETS

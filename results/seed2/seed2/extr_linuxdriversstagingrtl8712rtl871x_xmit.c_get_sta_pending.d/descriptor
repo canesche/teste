@@ -1,0 +1,8 @@
+struct tx_servq | dummy int 
+struct TYPE_3__ | be_q struct tx_servq | vo_q struct tx_servq | vi_q struct tx_servq | bk_q struct tx_servq 
+struct sta_info | sta_xmitpriv struct TYPE_3__ 
+struct hw_xmit | accnt int 
+struct __queue | dummy int 
+struct TYPE_4__ | be_pending struct __queue | vo_pending struct __queue | vi_pending struct __queue | bk_pending struct __queue | hwxmits struct hw_xmit * 
+struct _adapter | xmitpriv struct TYPE_4__ 
+function get_sta_pending struct tx_servq * | padapter struct _adapter * | ppstapending struct __queue ** | psta struct sta_info * | up int

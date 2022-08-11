@@ -1,0 +1,2 @@
+struct ndis_80211_bssid_ex | dummy int 
+function check_bssid_list_item int | bssid struct ndis_80211_bssid_ex * | bssid_len int | buf void * | len int

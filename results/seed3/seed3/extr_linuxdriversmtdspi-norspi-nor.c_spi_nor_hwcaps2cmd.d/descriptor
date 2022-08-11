@@ -1,0 +1,1 @@
+function spi_nor_hwcaps2cmd int | hwcaps long | table int const[][2] | size unsigned long

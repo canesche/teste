@@ -1,0 +1,2 @@
+struct i40e_vsi | xdp_prog int 
+function i40e_enabled_xdp_vsi int | vsi struct i40e_vsi *

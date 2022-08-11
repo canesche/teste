@@ -1,0 +1,2 @@
+struct news_item | weight long 
+function compare_weight int | a const void * | b const void *

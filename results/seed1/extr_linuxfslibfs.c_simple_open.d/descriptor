@@ -1,3 +1,0 @@
-struct inode | i_private long 
-struct file | private_data long 
-function simple_open int | inode struct inode * | file struct file *

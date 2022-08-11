@@ -1,0 +1,4 @@
+struct TYPE_4__ | args int | name struct demangle_component * 
+struct TYPE_3__ | s_extended_operator struct TYPE_4__ 
+struct demangle_component | u struct TYPE_3__ | type int | d_printing long 
+function cplus_demangle_fill_extended_operator int | p struct demangle_component * | args int | name struct demangle_component *

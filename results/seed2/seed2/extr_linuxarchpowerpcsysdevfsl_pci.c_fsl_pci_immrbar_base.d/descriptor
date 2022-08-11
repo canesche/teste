@@ -1,0 +1,2 @@
+struct pci_controller | dummy int 
+function fsl_pci_immrbar_base int | hose struct pci_controller *

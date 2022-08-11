@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdrivershidhid-wiimote-core.c_wiiproto_keep_rumble.d/extr_linuxdrivershidhid-wiimote-core.c_wiiproto_keep_rumble_O0::wiiproto_keep_rumble(65)"
+  }
+]

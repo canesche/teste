@@ -1,3 +1,0 @@
-struct ieee80211_vif | type long 
-struct ath9k_vif_iter_data | beacons int | nbcnvifs int | primary_beacon_vif struct ieee80211_vif * 
-function ath9k_vif_iter_set_beacon void | iter_data struct ath9k_vif_iter_data * | vif struct ieee80211_vif *

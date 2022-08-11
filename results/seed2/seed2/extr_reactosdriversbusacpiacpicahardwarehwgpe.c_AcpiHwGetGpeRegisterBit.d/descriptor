@@ -1,0 +1,3 @@
+struct TYPE_5__ | GpeNumber int | RegisterInfo struct TYPE_4__ * 
+struct TYPE_4__ | BaseGpeNumber int 
+function AcpiHwGetGpeRegisterBit int | GpeEventInfo struct TYPE_5__ *

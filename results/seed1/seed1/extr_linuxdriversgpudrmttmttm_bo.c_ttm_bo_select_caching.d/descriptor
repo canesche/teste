@@ -1,0 +1,2 @@
+struct ttm_mem_type_manager | default_caching int 
+function ttm_bo_select_caching int | man struct ttm_mem_type_manager * | cur_placement int | proposed_placement int

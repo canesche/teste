@@ -1,2 +1,0 @@
-struct TYPE_3__ | dwFlags int | dwFourCC long 
-function format_is_compressed int | format const struct TYPE_3__ *

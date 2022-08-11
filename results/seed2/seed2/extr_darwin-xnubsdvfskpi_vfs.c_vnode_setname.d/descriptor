@@ -1,0 +1,2 @@
+struct TYPE_3__ | v_name char * 
+function vnode_setname void | vp struct TYPE_3__ * | name char *

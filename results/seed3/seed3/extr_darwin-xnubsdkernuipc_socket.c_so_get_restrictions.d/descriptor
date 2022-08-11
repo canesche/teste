@@ -1,0 +1,2 @@
+struct socket | so_restrictions int 
+function so_get_restrictions int | so struct socket *

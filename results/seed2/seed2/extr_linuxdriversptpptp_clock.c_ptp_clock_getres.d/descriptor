@@ -1,0 +1,3 @@
+struct timespec64 | tv_nsec int | tv_sec long 
+struct posix_clock | dummy int 
+function ptp_clock_getres int | pc struct posix_clock * | tp struct timespec64 *

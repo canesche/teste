@@ -1,0 +1,2 @@
+struct mlx5_eswitch | dummy int 
+function mlx5_eswitch_disable_sriov void | esw struct mlx5_eswitch *

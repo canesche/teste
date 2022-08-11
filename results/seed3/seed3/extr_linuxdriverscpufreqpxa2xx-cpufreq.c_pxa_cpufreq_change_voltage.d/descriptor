@@ -1,0 +1,2 @@
+struct pxa_freqs | dummy int 
+function pxa_cpufreq_change_voltage int | pxa_freq const struct pxa_freqs *

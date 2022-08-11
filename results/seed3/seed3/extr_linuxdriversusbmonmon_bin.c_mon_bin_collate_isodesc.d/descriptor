@@ -1,0 +1,4 @@
+struct usb_iso_packet_descriptor | actual_length unsigned int | offset unsigned int 
+struct urb | iso_frame_desc struct usb_iso_packet_descriptor * 
+struct mon_reader_bin | dummy int 
+function mon_bin_collate_isodesc unsigned int | rp const struct mon_reader_bin * | urb struct urb * | ndesc unsigned int

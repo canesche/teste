@@ -1,0 +1,3 @@
+struct vfio_irq_info | count long 
+struct mdev_device | dummy int 
+function mbochs_get_irq_info int | mdev struct mdev_device * | irq_info struct vfio_irq_info *

@@ -1,0 +1,5 @@
+struct dma_chan | dev struct TYPE_4__ * 
+struct device | dummy int 
+struct TYPE_3__ | parent struct device * 
+struct TYPE_4__ | device struct TYPE_3__ 
+function chan2parent struct device * | chan struct dma_chan *

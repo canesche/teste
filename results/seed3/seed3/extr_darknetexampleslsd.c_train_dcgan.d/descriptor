@@ -1,0 +1,1 @@
+function train_dcgan void | cfg char * | weight char * | acfg char * | aweight char * | clear int | display int | train_images char * | maxbatch int

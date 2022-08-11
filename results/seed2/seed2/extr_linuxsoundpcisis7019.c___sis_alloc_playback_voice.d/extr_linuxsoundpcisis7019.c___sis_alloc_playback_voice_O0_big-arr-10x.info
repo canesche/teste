@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxsoundpcisis7019.c___sis_alloc_playback_voice.d/extr_linuxsoundpcisis7019.c___sis_alloc_playback_voice_O0::__sis_alloc_playback_voice(63)"
+  }
+]

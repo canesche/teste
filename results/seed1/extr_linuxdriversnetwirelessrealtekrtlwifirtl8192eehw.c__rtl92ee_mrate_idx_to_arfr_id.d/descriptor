@@ -1,2 +1,0 @@
-struct ieee80211_hw | dummy int 
-function _rtl92ee_mrate_idx_to_arfr_id int | hw struct ieee80211_hw * | rate_index int

@@ -1,0 +1,2 @@
+struct cb_data | remaining_bytes int | paused long | response_received long | easy_handle int * 
+function reset_data void | data struct cb_data * | curl int *

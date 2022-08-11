@@ -1,0 +1,3 @@
+struct usb_ftdi | command_head int | command struct u132_command * 
+struct u132_command | follows int | header int | length int | address char | width char | buffer int * 
+function fill_buffer_with_all_queued_commands int | ftdi struct usb_ftdi * | buf char * | command_size int | total_size int

@@ -1,0 +1,3 @@
+struct posix_acl | dummy int 
+struct inode | dummy int 
+function nfs3_proc_setacls int | inode struct inode * | acl struct posix_acl * | dfacl struct posix_acl *

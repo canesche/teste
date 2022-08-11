@@ -1,1 +1,0 @@
-function lfe_fir_float_c void | pcm_samples float * | lfe_samples const float * | filter_coeff const float * | npcmblocks int | dec_select int

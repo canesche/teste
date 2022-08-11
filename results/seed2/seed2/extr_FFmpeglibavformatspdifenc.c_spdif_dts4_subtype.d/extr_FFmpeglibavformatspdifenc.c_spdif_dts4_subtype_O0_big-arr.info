@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_FFmpeglibavformatspdifenc.c_spdif_dts4_subtype.d/extr_FFmpeglibavformatspdifenc.c_spdif_dts4_subtype_O0::spdif_dts4_subtype(60)"
+  }
+]

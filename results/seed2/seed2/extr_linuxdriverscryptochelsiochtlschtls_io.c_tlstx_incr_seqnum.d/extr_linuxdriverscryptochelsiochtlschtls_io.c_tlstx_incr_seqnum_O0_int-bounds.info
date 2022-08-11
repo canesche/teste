@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverscryptochelsiochtlschtls_io.c_tlstx_incr_seqnum.d/extr_linuxdriverscryptochelsiochtlschtls_io.c_tlstx_incr_seqnum_O0::tlstx_incr_seqnum(62)"
+  }
+]

@@ -1,0 +1,5 @@
+struct TYPE_2__ | h_nodeid int 
+struct dlm_message | m_lkid int | m_header struct TYPE_2__ 
+struct dlm_lkb | lkb_remid int | lkb_nodeid int 
+struct dlm_ls | ls_stub_lkb struct dlm_lkb 
+function setup_stub_lkb void | ls struct dlm_ls * | ms struct dlm_message *

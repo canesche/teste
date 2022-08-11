@@ -1,0 +1,4 @@
+struct host1x_syncpt | dummy int 
+struct host1x | syncpt struct host1x_syncpt * | info struct TYPE_2__ * 
+struct TYPE_2__ | nb_pts unsigned int 
+function host1x_syncpt_get struct host1x_syncpt * | host struct host1x * | id unsigned int

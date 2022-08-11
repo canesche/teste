@@ -1,0 +1,3 @@
+struct TYPE_4__ | ECCR2 long 
+struct TYPE_3__ | ECCR3 long 
+function FSMC_GetECC long | FSMC_Bank long

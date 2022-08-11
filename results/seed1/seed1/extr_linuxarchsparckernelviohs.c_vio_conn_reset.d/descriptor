@@ -1,0 +1,2 @@
+struct vio_driver_state | dummy int 
+function vio_conn_reset void | vio struct vio_driver_state *

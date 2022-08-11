@@ -1,4 +1,0 @@
-struct TYPE_4__ | feature_index long | funcindex_clientid long | params long * 
-struct TYPE_3__ | sub_id long 
-struct hidpp_report | fap struct TYPE_4__ | rap struct TYPE_3__ 
-function hidpp_match_error int | question struct hidpp_report * | answer struct hidpp_report *

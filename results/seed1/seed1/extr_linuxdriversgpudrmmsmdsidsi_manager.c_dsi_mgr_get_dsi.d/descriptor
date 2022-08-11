@@ -1,0 +1,3 @@
+struct msm_dsi | dummy int 
+struct TYPE_2__ | dsi struct msm_dsi ** 
+function dsi_mgr_get_dsi struct msm_dsi * | id int

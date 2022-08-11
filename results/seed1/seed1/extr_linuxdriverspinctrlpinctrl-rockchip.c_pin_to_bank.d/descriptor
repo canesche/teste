@@ -1,0 +1,4 @@
+struct rockchip_pinctrl | ctrl struct TYPE_2__ * 
+struct rockchip_pin_bank | pin_base unsigned int | nr_pins unsigned int 
+struct TYPE_2__ | pin_banks struct rockchip_pin_bank * 
+function pin_to_bank struct rockchip_pin_bank * | info struct rockchip_pinctrl * | pin unsigned int

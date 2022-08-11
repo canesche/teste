@@ -1,0 +1,4 @@
+struct TYPE_2__ | first_sendbuf unsigned int | last_sendbuf unsigned int 
+struct qib_pportdata | sdma_state struct TYPE_2__ 
+struct qib_devdata | num_pports unsigned int | pport struct qib_pportdata * 
+function is_sdma_buf struct qib_pportdata * | dd struct qib_devdata * | i unsigned int

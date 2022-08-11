@@ -1,0 +1,2 @@
+struct PM4_MES_TYPE_3_HEADER | u32All unsigned int | opcode unsigned int | count unsigned long | type int 
+function pm_build_pm4_header unsigned int | opcode unsigned int | packet_size unsigned long

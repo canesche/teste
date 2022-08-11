@@ -1,2 +1,0 @@
-struct LumaCoefficients | cr int 
-function ff_get_luma_coefficients const struct LumaCoefficients * | csp enum AVColorSpace

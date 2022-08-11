@@ -1,0 +1,3 @@
+struct TYPE_6__ | ctxlen int | interhunkctxlen int 
+struct TYPE_7__ | i1 long | chg1 long | chg2 long | ignore long | next struct TYPE_7__ * 
+function xdl_get_hunk struct TYPE_7__ * | xscr struct TYPE_7__ ** | xecfg const struct TYPE_6__ *

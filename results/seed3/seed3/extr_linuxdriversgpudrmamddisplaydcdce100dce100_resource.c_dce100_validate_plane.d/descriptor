@@ -1,0 +1,3 @@
+struct dc_plane_state | format long 
+struct dc_caps | dummy int 
+function dce100_validate_plane enum dc_status | plane_state const struct dc_plane_state * | caps struct dc_caps *

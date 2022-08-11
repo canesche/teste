@@ -1,0 +1,4 @@
+struct TYPE_2__ | handler_priv struct mmc_gpio * 
+struct mmc_host | slot struct TYPE_2__ 
+struct mmc_gpio | cd_gpio long 
+function mmc_can_gpio_cd int | host struct mmc_host *

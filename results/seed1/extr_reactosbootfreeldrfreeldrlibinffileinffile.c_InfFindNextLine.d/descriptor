@@ -1,3 +1,0 @@
-struct TYPE_6__ | Next int * 
-struct TYPE_5__ | Line int * | Section int | Inf int 
-function InfFindNextLine int | ContextIn struct TYPE_5__ * | ContextOut struct TYPE_5__ *

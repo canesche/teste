@@ -1,0 +1,4 @@
+struct TYPE_4__ | raid_disks int | near_copies int 
+struct r10conf | cluster_sync_low long | cluster_sync_high long | mddev struct TYPE_3__ * | geo struct TYPE_4__ 
+struct TYPE_3__ | chunk_sectors int 
+function raid10_set_cluster_sync_high void | conf struct r10conf *

@@ -1,0 +1,3 @@
+struct etmv4_config | addr_type int * 
+struct etmv4_drvdata | nr_addr_cmp int | config struct etmv4_config 
+function etm4_get_next_comparator int | drvdata struct etmv4_drvdata * | type int

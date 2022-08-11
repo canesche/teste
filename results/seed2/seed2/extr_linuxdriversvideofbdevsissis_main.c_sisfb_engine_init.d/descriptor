@@ -1,0 +1,2 @@
+struct sis_video_info | caps int | engineok int 
+function sisfb_engine_init void | ivideo struct sis_video_info *

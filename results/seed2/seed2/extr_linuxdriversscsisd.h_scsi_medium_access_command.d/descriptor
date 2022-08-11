@@ -1,0 +1,2 @@
+struct scsi_cmnd | cmnd int * 
+function scsi_medium_access_command int | scmd struct scsi_cmnd *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | name const char * 
+function av_get_sample_fmt_name const char * | sample_fmt enum AVSampleFormat

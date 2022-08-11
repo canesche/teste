@@ -1,0 +1,2 @@
+struct xvtc_device | dummy int 
+function xvtc_put void | xvtc struct xvtc_device *

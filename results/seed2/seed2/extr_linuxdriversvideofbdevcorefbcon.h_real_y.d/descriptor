@@ -1,0 +1,2 @@
+struct display | vrows int | yscroll long 
+function real_y int | p struct display * | ypos int

@@ -1,3 +1,0 @@
-struct iwch_listen_ep | dummy int 
-struct iw_cm_id | provider_data struct iwch_listen_ep * 
-function to_listen_ep struct iwch_listen_ep * | cm_id struct iw_cm_id *

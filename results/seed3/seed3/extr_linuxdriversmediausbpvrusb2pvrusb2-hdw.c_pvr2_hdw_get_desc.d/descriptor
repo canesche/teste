@@ -1,0 +1,3 @@
+struct pvr2_hdw | hdw_desc struct TYPE_2__ * 
+struct TYPE_2__ | description const char * 
+function pvr2_hdw_get_desc const char * | hdw struct pvr2_hdw *

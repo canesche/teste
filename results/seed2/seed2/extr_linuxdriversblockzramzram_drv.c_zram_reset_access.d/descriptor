@@ -1,0 +1,2 @@
+struct zram | dummy int 
+function zram_reset_access void | zram struct zram * | index int

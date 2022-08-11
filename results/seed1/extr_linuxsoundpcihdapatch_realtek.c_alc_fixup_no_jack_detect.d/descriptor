@@ -1,3 +1,0 @@
-struct hda_fixup | dummy int 
-struct hda_codec | no_jack_detect int 
-function alc_fixup_no_jack_detect void | codec struct hda_codec * | fix const struct hda_fixup * | action int

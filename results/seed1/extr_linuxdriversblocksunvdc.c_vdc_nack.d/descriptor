@@ -1,2 +1,0 @@
-struct vdc_port | dummy int 
-function vdc_nack int | port struct vdc_port * | msgbuf void *

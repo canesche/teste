@@ -1,0 +1,2 @@
+struct ifnet | dummy int 
+function ifnet_mbuf_packetpreamblelen int | ifp struct ifnet *

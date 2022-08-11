@@ -1,2 +1,0 @@
-struct hlist_head | dummy int 
-function unix_sockets_unbound struct hlist_head * | addr void *

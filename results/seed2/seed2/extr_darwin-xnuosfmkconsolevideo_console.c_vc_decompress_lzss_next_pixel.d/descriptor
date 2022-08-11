@@ -1,0 +1,2 @@
+struct TYPE_3__ | row_start int * | col int | width long | row long | height long | bytes_per_row long | clut long * 
+function vc_decompress_lzss_next_pixel int | next_data int | state struct TYPE_3__ *

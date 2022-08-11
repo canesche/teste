@@ -1,2 +1,0 @@
-struct sha256 | h int * | len long 
-function sha256_init void | s struct sha256 *

@@ -1,0 +1,2 @@
+struct dummy_systimer_pcm | base_time unsigned long | rate unsigned long | frac_pos long | frac_buffer_size long | frac_period_rest unsigned long | frac_period_size long | elapsed int 
+function dummy_systimer_update void | dpcm struct dummy_systimer_pcm *

@@ -1,0 +1,1 @@
+function NeoNdisReturnNetBufferLists void | MiniportAdapterContext int | NetBufferLists int | ReturnFlags int

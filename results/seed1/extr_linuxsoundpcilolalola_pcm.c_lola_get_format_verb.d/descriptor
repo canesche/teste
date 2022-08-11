@@ -1,3 +1,0 @@
-struct snd_pcm_substream | runtime struct TYPE_2__ * 
-struct TYPE_2__ | format int | channels unsigned int 
-function lola_get_format_verb unsigned int | substream struct snd_pcm_substream *

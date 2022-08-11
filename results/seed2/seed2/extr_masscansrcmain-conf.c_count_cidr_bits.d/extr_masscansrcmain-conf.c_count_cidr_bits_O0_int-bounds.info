@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 842,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_masscansrcmain-conf.c_count_cidr_bits.d/extr_masscansrcmain-conf.c_count_cidr_bits_O0::count_cidr_bits(60)"
+  }
+]

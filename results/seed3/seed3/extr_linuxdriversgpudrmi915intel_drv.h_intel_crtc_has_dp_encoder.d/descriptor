@@ -1,0 +1,2 @@
+struct intel_crtc_state | output_types int 
+function intel_crtc_has_dp_encoder int | crtc_state const struct intel_crtc_state *

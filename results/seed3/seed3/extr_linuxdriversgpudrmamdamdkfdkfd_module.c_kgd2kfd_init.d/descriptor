@@ -1,0 +1,2 @@
+struct kgd2kfd_calls | dummy int 
+function kgd2kfd_init int | interface_version unsigned int | g2f const struct kgd2kfd_calls **

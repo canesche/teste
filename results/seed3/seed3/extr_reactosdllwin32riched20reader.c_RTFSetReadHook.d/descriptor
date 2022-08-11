@@ -1,0 +1,2 @@
+struct TYPE_3__ | readHook int 
+function RTFSetReadHook void | info struct TYPE_3__ * | f int

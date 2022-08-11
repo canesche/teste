@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int 
+function upl_clear_dirty void | upl struct TYPE_3__ * | value long

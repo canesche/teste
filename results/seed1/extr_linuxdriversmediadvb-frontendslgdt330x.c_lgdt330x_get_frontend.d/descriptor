@@ -1,4 +1,0 @@
-struct lgdt330x_state | current_frequency int 
-struct dvb_frontend | demodulator_priv struct lgdt330x_state * 
-struct dtv_frontend_properties | frequency int 
-function lgdt330x_get_frontend int | fe struct dvb_frontend * | p struct dtv_frontend_properties *

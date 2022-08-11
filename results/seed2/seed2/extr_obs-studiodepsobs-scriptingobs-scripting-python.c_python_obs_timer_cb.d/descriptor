@@ -1,0 +1,3 @@
+struct python_obs_timer | dummy int 
+struct python_obs_callback | dummy int 
+function python_obs_timer_cb struct python_obs_callback * | timer struct python_obs_timer *

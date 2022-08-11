@@ -1,0 +1,2 @@
+struct sdma_engine | descq_tail int | sdma_shift int 
+function add_gen int | sde struct sdma_engine * | qw1 int

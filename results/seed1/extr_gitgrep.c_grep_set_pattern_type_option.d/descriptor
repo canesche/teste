@@ -1,2 +1,0 @@
-struct grep_opt | extended_regexp_option int | fixed int | pcre1 int 
-function grep_set_pattern_type_option void | pattern_type enum grep_pattern_type | opt struct grep_opt *

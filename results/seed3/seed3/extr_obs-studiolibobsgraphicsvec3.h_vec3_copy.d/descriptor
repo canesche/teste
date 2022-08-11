@@ -1,0 +1,2 @@
+struct vec3 | m int 
+function vec3_copy void | dst struct vec3 * | v const struct vec3 *

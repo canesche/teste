@@ -1,0 +1,3 @@
+struct i40e_rx_buffer | pagecnt_bias int | page_offset int | page int | dma int 
+struct i40e_ring | next_to_alloc unsigned long | count unsigned long | rx_bi struct i40e_rx_buffer * 
+function i40e_reuse_rx_page void | rx_ring struct i40e_ring * | old_buff struct i40e_rx_buffer *

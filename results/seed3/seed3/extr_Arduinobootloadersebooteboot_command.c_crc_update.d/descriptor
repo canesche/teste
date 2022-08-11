@@ -1,0 +1,1 @@
+function crc_update int | crc int | data const int * | length unsigned long

@@ -1,0 +1,2 @@
+struct sq_threshold_params | upper_threshold long * 
+function ath6kl_wmi_get_upper_threshold long | rssi long | sq_thresh struct sq_threshold_params * | size unsigned long

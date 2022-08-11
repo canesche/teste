@@ -1,0 +1,4 @@
+struct nvmefc_ls_req | dummy int 
+struct nvme_fc_remote_port | dummy int 
+struct nvme_fc_local_port | dummy int 
+function fcloop_ls_abort void | localport struct nvme_fc_local_port * | remoteport struct nvme_fc_remote_port * | lsreq struct nvmefc_ls_req *

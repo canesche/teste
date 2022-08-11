@@ -1,3 +1,0 @@
-struct TYPE_2__ | adapter_deliver int | adapter_intr int | adapter_enable_int int 
-struct aac_dev | a_ops struct TYPE_2__ 
-function aac_rx_select_comm int | dev struct aac_dev * | comm int

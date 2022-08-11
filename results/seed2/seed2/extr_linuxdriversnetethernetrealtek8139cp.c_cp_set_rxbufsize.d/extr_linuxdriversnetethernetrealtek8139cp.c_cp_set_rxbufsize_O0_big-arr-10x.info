@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetrealtek8139cp.c_cp_set_rxbufsize.d/extr_linuxdriversnetethernetrealtek8139cp.c_cp_set_rxbufsize_O0::cp_set_rxbufsize(66)"
+  }
+]

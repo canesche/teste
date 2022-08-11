@@ -1,2 +1,0 @@
-struct nand_op_instr | type long 
-function nand_instr_is_data int | instr const struct nand_op_instr *

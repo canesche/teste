@@ -1,0 +1,3 @@
+struct mp_user_filter | error_eof_sent int | last_out_pts int | last_in_pts int 
+struct mp_filter | priv struct mp_user_filter * 
+function reset_user void | f struct mp_filter *

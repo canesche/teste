@@ -1,4 +1,0 @@
-struct TYPE_7__ | syms struct TYPE_6__ ** 
-struct TYPE_5__ | wildcard long 
-struct TYPE_6__ | x struct TYPE_5__ 
-function notarget int | p struct TYPE_7__ *

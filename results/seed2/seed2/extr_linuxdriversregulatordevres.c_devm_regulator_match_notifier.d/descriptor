@@ -1,0 +1,3 @@
+struct regulator_notifier_match | regulator long | nb long 
+struct device | dummy int 
+function devm_regulator_match_notifier int | dev struct device * | res void * | data void *

@@ -1,2 +1,0 @@
-struct pci_dev | device int 
-function is_ivb_ioat int | pdev struct pci_dev *

@@ -1,3 +1,0 @@
-struct TYPE_2__ | gtk_cipher long | ptk_cipher int 
-struct rsi_common | secinfo struct TYPE_2__ 
-function rsi_is_cipher_wep int | common struct rsi_common *

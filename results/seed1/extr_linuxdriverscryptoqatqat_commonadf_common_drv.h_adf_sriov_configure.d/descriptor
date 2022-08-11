@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function adf_sriov_configure int | pdev struct pci_dev * | numvfs int

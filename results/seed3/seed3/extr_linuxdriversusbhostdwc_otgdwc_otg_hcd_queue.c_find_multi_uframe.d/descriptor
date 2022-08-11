@@ -1,0 +1,3 @@
+struct TYPE_5__ | usecs unsigned short | frame_usecs int * 
+struct TYPE_6__ | frame_usecs unsigned short * 
+function find_multi_uframe int | _hcd struct TYPE_6__ * | _qh struct TYPE_5__ *

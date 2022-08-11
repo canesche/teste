@@ -1,0 +1,2 @@
+struct codeview_type_parse | num unsigned long | table const void * | offset int * 
+function codeview_jump_to_type const void * | ctp const struct codeview_type_parse * | idx unsigned long

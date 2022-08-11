@@ -1,0 +1,2 @@
+struct io | eof int 
+function io_eof int | io struct io *

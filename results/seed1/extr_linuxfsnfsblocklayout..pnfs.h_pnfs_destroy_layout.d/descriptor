@@ -1,2 +1,0 @@
-struct nfs_inode | dummy int 
-function pnfs_destroy_layout void | nfsi struct nfs_inode *

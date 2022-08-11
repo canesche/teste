@@ -1,0 +1,7 @@
+struct TYPE_4__ | numRiocb int | numCiocb int 
+struct TYPE_5__ | sli3 struct TYPE_4__ 
+struct lpfc_sli_ring | iotag_max int | num_mask int | prt struct TYPE_6__ * | sli struct TYPE_5__ 
+struct lpfc_sli | sli3_ring struct lpfc_sli_ring * 
+struct lpfc_hba | cfg_multi_ring_type int | cfg_multi_ring_rctl int | sli struct lpfc_sli 
+struct TYPE_6__ | lpfc_sli_rcv_unsol_event int * | type int | rctl int | profile long 
+function lpfc_extra_ring_setup int | phba struct lpfc_hba *

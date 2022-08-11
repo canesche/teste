@@ -1,0 +1,3 @@
+struct cw1200_common | debug struct TYPE_2__ * 
+struct TYPE_2__ | ba_cnt int | ba_acc int | ba_cnt_rx int | ba_acc_rx int 
+function cw1200_debug_ba void | priv struct cw1200_common * | ba_cnt int | ba_acc int | ba_cnt_rx int | ba_acc_rx int

@@ -1,2 +1,0 @@
-struct net_device | needs_free_netdev int | hard_header_len int | mtu int | addr_len long | type int | netdev_ops int * 
-function lapbeth_setup void | dev struct net_device *

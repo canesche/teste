@@ -1,0 +1,3 @@
+struct TYPE_6__ | x int | y int | w int | h int 
+struct TYPE_5__ | sx int | sy int | w int | h int 
+function update_seek void | can struct TYPE_5__ * | n struct TYPE_6__ * | force int

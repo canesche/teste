@@ -1,2 +1,0 @@
-struct pvc_device | ether long | main long 
-function pvc_is_used int | pvc struct pvc_device *

@@ -1,0 +1,2 @@
+struct falcon_spi_device | size long 
+function falcon_spi_present int | spi const struct falcon_spi_device *

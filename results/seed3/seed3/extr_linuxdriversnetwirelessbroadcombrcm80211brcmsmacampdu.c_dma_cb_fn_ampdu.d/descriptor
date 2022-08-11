@@ -1,0 +1,3 @@
+struct ieee80211_tx_info | flags int | rate_driver_data struct ieee80211_sta ** 
+struct ieee80211_sta | dummy int 
+function dma_cb_fn_ampdu void | txi void * | arg_a void *

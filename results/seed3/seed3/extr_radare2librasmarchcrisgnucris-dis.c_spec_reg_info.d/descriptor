@@ -1,0 +1,2 @@
+struct cris_spec_reg | number unsigned int | applicable_version int | warning int | name int * 
+function spec_reg_info const struct cris_spec_reg * | sreg unsigned int | distype enum cris_disass_family

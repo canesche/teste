@@ -1,0 +1,4 @@
+struct TYPE_3__ | state int 
+struct TYPE_4__ | tcp struct TYPE_3__ 
+struct nf_conn | proto struct TYPE_4__ 
+function tcp_can_early_drop int | ct const struct nf_conn *

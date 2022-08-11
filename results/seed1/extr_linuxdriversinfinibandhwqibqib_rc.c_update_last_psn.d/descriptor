@@ -1,2 +1,0 @@
-struct rvt_qp | s_last_psn int 
-function update_last_psn void | qp struct rvt_qp * | psn int

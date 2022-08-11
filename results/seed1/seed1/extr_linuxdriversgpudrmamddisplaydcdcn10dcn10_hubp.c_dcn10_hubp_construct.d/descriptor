@@ -1,0 +1,7 @@
+struct dcn_mi_shift | dummy int 
+struct dcn_mi_registers | dummy int 
+struct dcn_mi_mask | dummy int 
+struct TYPE_2__ | opp_id int | mpcc_id int | inst int | ctx struct dc_context * | funcs int * 
+struct dcn10_hubp | base struct TYPE_2__ | hubp_mask const struct dcn_mi_mask * | hubp_shift const struct dcn_mi_shift * | hubp_regs const struct dcn_mi_registers * 
+struct dc_context | dummy int 
+function dcn10_hubp_construct void | hubp1 struct dcn10_hubp * | ctx struct dc_context * | inst int | hubp_regs const struct dcn_mi_registers * | hubp_shift const struct dcn_mi_shift * | hubp_mask const struct dcn_mi_mask *

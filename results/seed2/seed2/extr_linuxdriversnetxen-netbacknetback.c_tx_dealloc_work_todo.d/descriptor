@@ -1,0 +1,2 @@
+struct xenvif_queue | dealloc_cons long | dealloc_prod long 
+function tx_dealloc_work_todo int | queue struct xenvif_queue *

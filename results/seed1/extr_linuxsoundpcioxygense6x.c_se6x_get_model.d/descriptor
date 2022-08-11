@@ -1,3 +1,0 @@
-struct pci_device_id | dummy int 
-struct oxygen | model int 
-function se6x_get_model int | chip struct oxygen * | pci_id const struct pci_device_id *

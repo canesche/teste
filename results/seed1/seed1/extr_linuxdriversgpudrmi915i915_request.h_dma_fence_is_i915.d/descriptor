@@ -1,0 +1,2 @@
+struct dma_fence | ops int * 
+function dma_fence_is_i915 int | fence const struct dma_fence *

@@ -1,0 +1,5 @@
+struct mlxsw_res | dummy int 
+struct mlxsw_i2c | core struct mlxsw_core * 
+struct mlxsw_core | dummy int 
+struct mlxsw_config_profile | dummy int 
+function mlxsw_i2c_init int | bus_priv void * | mlxsw_core struct mlxsw_core * | profile const struct mlxsw_config_profile * | resources struct mlxsw_res *

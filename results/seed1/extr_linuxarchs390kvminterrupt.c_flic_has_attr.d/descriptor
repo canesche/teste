@@ -1,3 +1,0 @@
-struct kvm_device_attr | group int 
-struct kvm_device | dummy int 
-function flic_has_attr int | dev struct kvm_device * | attr struct kvm_device_attr *

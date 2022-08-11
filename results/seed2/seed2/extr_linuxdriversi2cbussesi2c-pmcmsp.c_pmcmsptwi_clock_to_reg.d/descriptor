@@ -1,0 +1,2 @@
+struct pmcmsptwi_clock | filter int | clock int 
+function pmcmsptwi_clock_to_reg int | clock const struct pmcmsptwi_clock *

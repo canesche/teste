@@ -1,2 +1,0 @@
-struct index | c char | color long 
-function find_color int | index struct index * | len int | c char | color long *

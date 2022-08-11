@@ -1,0 +1,3 @@
+struct openpic | src struct TYPE_2__ * 
+struct TYPE_2__ | ivpr int 
+function read_IRQreg_ivpr int | opp struct openpic * | n_IRQ int

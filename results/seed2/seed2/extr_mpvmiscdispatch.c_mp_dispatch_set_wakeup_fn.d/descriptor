@@ -1,0 +1,2 @@
+struct mp_dispatch_queue | wakeup_fn void (*)(void *) | wakeup_ctx void * 
+function mp_dispatch_set_wakeup_fn void | queue struct mp_dispatch_queue * | wakeup_fn void (*)(void *) | wakeup_ctx void *

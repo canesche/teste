@@ -1,0 +1,2 @@
+struct oxygen | dummy int 
+function generic_cleanup void | chip struct oxygen *

@@ -1,0 +1,1 @@
+value(ipv4_dst) == 10, length(priv) == 100, length(cmd) == 100, length(rule_list_h) == 100, length(spec_l2) == 100

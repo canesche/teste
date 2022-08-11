@@ -1,0 +1,4 @@
+struct smu7_hwmgr | voltage_control long 
+struct pp_hwmgr | backend long 
+struct TYPE_3__ | SVI2Enable int 
+function ci_populate_smc_svi2_config int | hwmgr struct pp_hwmgr * | table struct TYPE_3__ *

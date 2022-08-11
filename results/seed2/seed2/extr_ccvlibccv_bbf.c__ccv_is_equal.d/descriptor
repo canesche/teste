@@ -1,0 +1,3 @@
+struct TYPE_3__ | width double | x int | y int 
+struct TYPE_4__ | rect struct TYPE_3__ 
+function _ccv_is_equal int | _r1 const void * | _r2 const void * | data void *

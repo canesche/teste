@@ -1,0 +1,3 @@
+struct fb_info | dummy int 
+struct TYPE_2__ | tt_shiftmode int 
+function tt_setcolreg int | regno unsigned int | red unsigned int | green unsigned int | blue unsigned int | transp unsigned int | info struct fb_info *

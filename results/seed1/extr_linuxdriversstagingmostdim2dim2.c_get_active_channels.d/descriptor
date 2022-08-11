@@ -1,4 +1,0 @@
-struct dim_channel | dummy int 
-struct dim2_hdm | hch struct TYPE_2__ * 
-struct TYPE_2__ | ch struct dim_channel | is_initialized long 
-function get_active_channels struct dim_channel ** | dev struct dim2_hdm * | buffer struct dim_channel **

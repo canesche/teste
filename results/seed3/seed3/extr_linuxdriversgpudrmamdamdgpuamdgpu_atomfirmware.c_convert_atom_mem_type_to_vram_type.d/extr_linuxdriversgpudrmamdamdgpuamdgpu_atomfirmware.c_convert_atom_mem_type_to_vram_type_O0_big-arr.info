@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmamdamdgpuamdgpu_atomfirmware.c_convert_atom_mem_type_to_vram_type.d/extr_linuxdriversgpudrmamdamdgpuamdgpu_atomfirmware.c_convert_atom_mem_type_to_vram_type_O0::convert_atom_mem_type_to_vram_type(77)"
+  }
+]

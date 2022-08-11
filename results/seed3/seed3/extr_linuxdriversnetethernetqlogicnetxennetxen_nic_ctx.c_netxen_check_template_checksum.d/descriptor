@@ -1,0 +1,3 @@
+struct TYPE_2__ | md_template int * | md_template_size int 
+struct netxen_adapter | mdump struct TYPE_2__ 
+function netxen_check_template_checksum int | adapter struct netxen_adapter *

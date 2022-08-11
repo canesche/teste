@@ -1,0 +1,3 @@
+struct jsonsl_jpr_component_st | ptype long 
+struct TYPE_3__ | ncomponents int | match_type long 
+function jsonsl__match_continue int | jpr struct TYPE_3__ * | component const struct jsonsl_jpr_component_st * | prlevel unsigned int | chtype unsigned int

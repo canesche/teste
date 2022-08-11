@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmsun4isun6i_mipi_dsi.c_sun6i_dsi_get_video_start_delay.d/extr_linuxdriversgpudrmsun4isun6i_mipi_dsi.c_sun6i_dsi_get_video_start_delay_O0::sun6i_dsi_get_video_start_delay(64)"
+  }
+]

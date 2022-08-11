@@ -1,0 +1,3 @@
+struct exynos_drm_ipp_formats | type unsigned int | fourcc long | modifier long 
+struct exynos_drm_ipp | num_formats int | formats const struct exynos_drm_ipp_formats * 
+function __ipp_format_get const struct exynos_drm_ipp_formats * | ipp struct exynos_drm_ipp * | fourcc long | mod long | type unsigned int

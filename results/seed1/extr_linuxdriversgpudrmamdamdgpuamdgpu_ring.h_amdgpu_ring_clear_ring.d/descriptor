@@ -1,3 +1,0 @@
-struct amdgpu_ring | buf_mask int | funcs struct TYPE_2__ * | ring int * 
-struct TYPE_2__ | nop int 
-function amdgpu_ring_clear_ring void | ring struct amdgpu_ring *

@@ -1,0 +1,3 @@
+struct socket | dummy int 
+struct mbuf | dummy int 
+function pru_rcvoob_notsupp int | so struct socket * | m struct mbuf * | flags int

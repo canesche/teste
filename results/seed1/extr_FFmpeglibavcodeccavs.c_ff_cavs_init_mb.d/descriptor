@@ -1,2 +1,0 @@
-struct TYPE_3__ | mbx int | flags int | mb_width int | mv void ** | pred_mode_Y int * | top_pred_Y int * | top_mv void *** 
-function ff_cavs_init_mb void | h struct TYPE_3__ *

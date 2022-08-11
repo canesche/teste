@@ -1,0 +1,4 @@
+struct TYPE_6__ | buffer struct TYPE_5__ * 
+struct TYPE_7__ | written int | data int * 
+struct TYPE_5__ | encoded struct TYPE_7__ 
+function readerinput_get_utf8_convlen int | readerinput struct TYPE_6__ *

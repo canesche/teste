@@ -1,0 +1,5 @@
+struct drm_encoder | dummy int 
+struct drm_display_mode | flags int 
+struct drm_crtc_state | mode struct drm_display_mode 
+struct drm_connector_state | dummy int 
+function sun4i_hdmi_atomic_check int | encoder struct drm_encoder * | crtc_state struct drm_crtc_state * | conn_state struct drm_connector_state *

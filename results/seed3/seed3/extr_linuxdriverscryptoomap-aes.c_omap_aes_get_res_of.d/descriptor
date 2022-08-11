@@ -1,0 +1,4 @@
+struct resource | dummy int 
+struct omap_aes_dev | dummy int 
+struct device | dummy int 
+function omap_aes_get_res_of int | dd struct omap_aes_dev * | dev struct device * | res struct resource *

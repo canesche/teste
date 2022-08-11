@@ -1,4 +1,0 @@
-struct pp_hwmgr | dummy int 
-struct phm_clock_voltage_dependency_table | count long | entries struct TYPE_2__ * 
-struct TYPE_2__ | clk unsigned long | v unsigned long 
-function iceland_get_dependency_volt_by_clk int | hwmgr struct pp_hwmgr * | allowed_clock_voltage_table struct phm_clock_voltage_dependency_table * | clock unsigned long | vol unsigned long *

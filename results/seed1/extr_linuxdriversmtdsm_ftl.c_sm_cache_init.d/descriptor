@@ -1,2 +1,0 @@
-struct sm_ftl | cache_data_invalid_bitmap int | cache_clean int | cache_zone int | cache_block int 
-function sm_cache_init void | ftl struct sm_ftl *

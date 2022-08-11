@@ -1,0 +1,2 @@
+struct flow_offload | timeout long 
+function nf_flow_has_expired int | flow const struct flow_offload *

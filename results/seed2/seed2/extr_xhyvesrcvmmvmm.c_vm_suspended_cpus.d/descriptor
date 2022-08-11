@@ -1,0 +1,2 @@
+struct vm | suspended_cpus int 
+function vm_suspended_cpus int | vm struct vm *

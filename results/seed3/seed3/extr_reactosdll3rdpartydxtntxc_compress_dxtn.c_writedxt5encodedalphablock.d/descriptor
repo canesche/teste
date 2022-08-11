@@ -1,0 +1,1 @@
+function writedxt5encodedalphablock void | blkaddr int * | alphabase1 int | alphabase2 int | alphaenc int [16]

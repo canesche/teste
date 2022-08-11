@@ -1,0 +1,2 @@
+struct fuse_file_info | dummy int 
+function ff_flush int | path const char * | fi struct fuse_file_info *

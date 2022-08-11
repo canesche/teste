@@ -1,0 +1,3 @@
+struct TYPE_6__ | pNextACMInst struct TYPE_6__ * 
+struct TYPE_7__ | hModule long | lpDrvProc long | pACMInstList struct TYPE_6__ * | pNextACMLocalDrv struct TYPE_7__ * 
+function MSACM_GetNumberOfModuleRefs unsigned int | hModule long | lpDrvProc long | found struct TYPE_6__ **

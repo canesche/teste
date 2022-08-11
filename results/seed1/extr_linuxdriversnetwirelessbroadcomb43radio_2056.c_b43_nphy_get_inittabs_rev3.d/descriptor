@@ -1,4 +1,0 @@
-struct b43_phy | rev int | radio_rev int 
-struct b43_wldev | phy struct b43_phy 
-struct b2056_inittabs_pts | dummy int 
-function b43_nphy_get_inittabs_rev3 const struct b2056_inittabs_pts * | dev struct b43_wldev *

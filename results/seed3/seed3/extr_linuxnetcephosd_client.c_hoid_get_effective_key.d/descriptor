@@ -1,0 +1,2 @@
+struct ceph_hobject_id | key_len unsigned long | oid_len unsigned long | oid void * | key void * 
+function hoid_get_effective_key void | hoid const struct ceph_hobject_id * | pkey void ** | pkey_len unsigned long *

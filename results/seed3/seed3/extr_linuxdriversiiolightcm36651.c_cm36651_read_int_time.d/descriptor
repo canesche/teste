@@ -1,0 +1,3 @@
+struct iio_chan_spec | type int | address unsigned long 
+struct cm36651_data | ps_int_time int | cs_int_time int * 
+function cm36651_read_int_time int | cm36651 struct cm36651_data * | chan const struct iio_chan_spec * | val2 int *

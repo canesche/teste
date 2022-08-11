@@ -1,2 +1,0 @@
-struct hash_net4_elem | ip long | cidr long 
-function hash_net4_data_equal int | ip1 const struct hash_net4_elem * | ip2 const struct hash_net4_elem * | multi int *

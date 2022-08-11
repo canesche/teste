@@ -1,0 +1,1 @@
+function cdio_log_set_handler int | new_handler int

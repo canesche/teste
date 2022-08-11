@@ -1,0 +1,2 @@
+struct TYPE_3__ | timestamp int 
+function SCT_get_timestamp int | sct const struct TYPE_3__ *

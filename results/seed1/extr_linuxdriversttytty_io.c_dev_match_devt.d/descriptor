@@ -1,2 +1,0 @@
-struct device | devt const int 
-function dev_match_devt int | dev struct device * | data const void *

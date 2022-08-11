@@ -1,6 +1,0 @@
-struct pp_hwmgr | pptable long | smu_backend long 
-struct polaris10_smumgr | bif_sclk_table int * 
-struct phm_ppt_v1_pcie_table | count int | entries struct TYPE_2__ * 
-struct phm_ppt_v1_information | pcie_table struct phm_ppt_v1_pcie_table * 
-struct TYPE_2__ | pcie_sclk int 
-function polaris10_update_bif_smc_table int | hwmgr struct pp_hwmgr *

@@ -1,0 +1,3 @@
+struct property | next struct property * 
+struct node | proplist struct property * 
+function add_property void | node struct node * | prop struct property *

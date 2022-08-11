@@ -1,2 +1,0 @@
-struct tep_handle | long_size int 
-function tep_get_long_size int | pevent struct tep_handle *

@@ -1,0 +1,5 @@
+struct skl_module_cfg | pipe struct TYPE_4__ * 
+struct TYPE_3__ | mem int 
+struct skl | resource struct TYPE_3__ 
+struct TYPE_4__ | memory_pages long 
+function skl_tplg_alloc_pipe_mem void | skl struct skl * | mconfig struct skl_module_cfg *

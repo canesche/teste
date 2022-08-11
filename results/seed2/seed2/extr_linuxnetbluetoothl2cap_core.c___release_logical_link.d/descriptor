@@ -1,0 +1,2 @@
+struct l2cap_chan | hs_hcon int * | hs_hchan int * 
+function __release_logical_link void | chan struct l2cap_chan *

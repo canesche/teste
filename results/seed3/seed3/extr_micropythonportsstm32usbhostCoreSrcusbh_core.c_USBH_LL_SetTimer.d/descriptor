@@ -1,0 +1,2 @@
+struct TYPE_3__ | Timer int 
+function USBH_LL_SetTimer void | phost struct TYPE_3__ * | time int

@@ -1,0 +1,2 @@
+struct pnp_dev | card_link int * 
+function card_remove void | dev struct pnp_dev *

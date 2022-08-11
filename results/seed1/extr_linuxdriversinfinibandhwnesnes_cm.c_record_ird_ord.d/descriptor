@@ -1,2 +1,0 @@
-struct nes_cm_node | ord_size long | ird_size long 
-function record_ird_ord void | cm_node struct nes_cm_node * | conn_ird long | conn_ord long

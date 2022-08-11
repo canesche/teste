@@ -1,2 +1,0 @@
-struct texture_stage_op | carg0 int | carg1 int | carg2 int | aarg0 int | aarg1 int | aarg2 int | cop long 
-function op_reads_texture int | op const struct texture_stage_op *

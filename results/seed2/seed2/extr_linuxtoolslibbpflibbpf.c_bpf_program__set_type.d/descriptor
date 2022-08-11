@@ -1,0 +1,2 @@
+struct bpf_program | type int 
+function bpf_program__set_type void | prog struct bpf_program * | type enum bpf_prog_type

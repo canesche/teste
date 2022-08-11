@@ -1,0 +1,2 @@
+struct name_entry | pathlen int 
+function tree_entry_len int | ne const struct name_entry *

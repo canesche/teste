@@ -1,0 +1,2 @@
+struct dso | symtab_type unsigned long 
+function dso__symtab_origin char | dso const struct dso *

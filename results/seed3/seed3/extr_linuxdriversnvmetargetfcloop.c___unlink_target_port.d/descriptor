@@ -1,0 +1,4 @@
+struct fcloop_tport | dummy int 
+struct fcloop_nport | tport struct fcloop_tport * | rport struct TYPE_2__ * 
+struct TYPE_2__ | targetport int * 
+function __unlink_target_port struct fcloop_tport * | nport struct fcloop_nport *

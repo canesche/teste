@@ -1,0 +1,2 @@
+struct cyttsp_xydata | touch12_id int | touch34_id int 
+function cyttsp_extract_track_ids void | xy_data struct cyttsp_xydata * | ids int *

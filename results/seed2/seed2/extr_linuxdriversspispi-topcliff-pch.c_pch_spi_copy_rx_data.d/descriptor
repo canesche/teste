@@ -1,0 +1,3 @@
+struct pch_spi_data | bpw_len int | pkt_rx_buff int * | cur_trans struct TYPE_2__ * 
+struct TYPE_2__ | rx_buf int * 
+function pch_spi_copy_rx_data void | data struct pch_spi_data * | bpw int

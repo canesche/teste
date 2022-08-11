@@ -1,6 +1,0 @@
-struct TYPE_4__ | numerator int | denominator int 
-struct TYPE_6__ | readbuffers int | timeperframe struct TYPE_4__ | capability int 
-struct TYPE_5__ | capture struct TYPE_6__ 
-struct v4l2_streamparm | type long | parm struct TYPE_5__ 
-struct file | dummy int 
-function sur40_ioctl_parm int | file struct file * | priv void * | p struct v4l2_streamparm *

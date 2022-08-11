@@ -1,0 +1,2 @@
+struct rb_node | dummy int 
+function dummy_rotate void | old struct rb_node * | new struct rb_node *

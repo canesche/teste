@@ -1,0 +1,3 @@
+struct TYPE_2__ | p_u8 long * 
+struct v4l2_ctrl | p_new struct TYPE_2__ 
+function hgt_hue_areas_try_ctrl int | ctrl struct v4l2_ctrl *

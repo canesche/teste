@@ -1,0 +1,2 @@
+struct mei_nfc_if_version | vendor_id long | radio_type long 
+function mei_nfc_radio_name const char * | ver struct mei_nfc_if_version *

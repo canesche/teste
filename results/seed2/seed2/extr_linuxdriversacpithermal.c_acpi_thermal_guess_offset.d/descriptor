@@ -1,0 +1,5 @@
+struct TYPE_4__ | valid long 
+struct TYPE_5__ | temperature int | flags struct TYPE_4__ 
+struct TYPE_6__ | critical struct TYPE_5__ 
+struct acpi_thermal | kelvin_offset int | trips struct TYPE_6__ 
+function acpi_thermal_guess_offset void | tz struct acpi_thermal *

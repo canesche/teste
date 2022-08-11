@@ -1,2 +1,0 @@
-struct TYPE_3__ | buffer unsigned char * | entropy long 
-function rand_pool_detach unsigned char * | pool struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct bfa_s | dummy int 
+function bfa_hwct_msix_getvecs void | bfa struct bfa_s * | msix_vecs_bmap int * | num_vecs int * | max_vec_bit int *

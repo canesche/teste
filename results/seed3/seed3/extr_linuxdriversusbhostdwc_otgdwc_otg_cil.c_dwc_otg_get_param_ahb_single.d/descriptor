@@ -1,0 +1,3 @@
+struct TYPE_5__ | core_params struct TYPE_4__ * 
+struct TYPE_4__ | ahb_single int 
+function dwc_otg_get_param_ahb_single int | core_if struct TYPE_5__ *

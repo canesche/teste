@@ -1,3 +1,0 @@
-struct apei_exec_context | dummy int 
-struct acpi_whea_header | dummy int 
-function apei_exec_noop int | ctx struct apei_exec_context * | entry struct acpi_whea_header *

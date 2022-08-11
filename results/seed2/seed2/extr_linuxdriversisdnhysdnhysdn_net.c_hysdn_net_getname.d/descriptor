@@ -1,0 +1,3 @@
+struct net_device | name char * 
+struct TYPE_3__ | netif struct net_device * 
+function hysdn_net_getname char * | card struct TYPE_3__ *

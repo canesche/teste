@@ -1,0 +1,3 @@
+struct acpi_gpio_mapping | dummy int 
+struct acpi_device | driver_gpios const struct acpi_gpio_mapping * 
+function acpi_dev_add_driver_gpios int | adev struct acpi_device * | gpios const struct acpi_gpio_mapping *

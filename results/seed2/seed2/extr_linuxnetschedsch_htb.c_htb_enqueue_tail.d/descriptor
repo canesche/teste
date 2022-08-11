@@ -1,0 +1,4 @@
+struct sk_buff | next struct sk_buff * 
+struct qdisc_skb_head | qlen int | head struct sk_buff * | tail struct sk_buff * 
+struct Qdisc | dummy int 
+function htb_enqueue_tail void | skb struct sk_buff * | sch struct Qdisc * | qh struct qdisc_skb_head *

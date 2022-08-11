@@ -1,0 +1,2 @@
+struct iowa_bus | dummy int 
+function iowa_pio_find_bus struct iowa_bus * | port unsigned long

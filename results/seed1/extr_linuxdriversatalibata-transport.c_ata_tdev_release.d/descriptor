@@ -1,2 +1,0 @@
-struct device | dummy int 
-function ata_tdev_release void | dev struct device *

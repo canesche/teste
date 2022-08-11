@@ -1,0 +1,3 @@
+struct rchan_buf | dummy int 
+struct dentry | dummy int 
+function create_buf_file_default_callback struct dentry * | filename const char * | parent struct dentry * | mode int | buf struct rchan_buf * | is_global int *

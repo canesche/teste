@@ -1,0 +1,3 @@
+struct TYPE_4__ | planes struct TYPE_3__ * 
+struct TYPE_3__ | dist float | normal float * 
+function AAS_PlaneEqual int | normal float * | dist float | planenum int

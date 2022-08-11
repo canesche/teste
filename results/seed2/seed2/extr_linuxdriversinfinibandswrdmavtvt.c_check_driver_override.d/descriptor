@@ -1,0 +1,2 @@
+struct rvt_dev_info | ibdev int 
+function check_driver_override int | rdi struct rvt_dev_info * | offset unsigned long | func void *

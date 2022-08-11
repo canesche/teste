@@ -1,0 +1,4 @@
+struct stfsm | info struct TYPE_2__ * 
+struct seq_rw_config | cmd long | flags int 
+struct TYPE_2__ | flags int 
+function stfsm_search_seq_rw_configs struct seq_rw_config * | fsm struct stfsm * | cfgs struct seq_rw_config []

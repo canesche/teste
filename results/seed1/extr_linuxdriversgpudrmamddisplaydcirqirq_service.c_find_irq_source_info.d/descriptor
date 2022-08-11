@@ -1,3 +1,0 @@
-struct irq_source_info | dummy int 
-struct irq_service | info const struct irq_source_info * 
-function find_irq_source_info const struct irq_source_info * | irq_service struct irq_service * | source enum dc_irq_source

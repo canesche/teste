@@ -1,0 +1,2 @@
+struct ib_mad_hdr | tid int | attr_id int | method int | class_version int | mgmt_class int | base_version int 
+function cm_format_mad_hdr void | hdr struct ib_mad_hdr * | attr_id int | tid int

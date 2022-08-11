@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriverspcihotplugcpqphp_nvram.c_add_byte.d/extr_linuxdriverspcihotplugcpqphp_nvram.c_add_byte_O0::add_byte(62)"
+  }
+]

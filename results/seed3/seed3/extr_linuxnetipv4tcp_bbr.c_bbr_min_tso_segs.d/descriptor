@@ -1,0 +1,2 @@
+struct sock | sk_pacing_rate int 
+function bbr_min_tso_segs int | sk struct sock *

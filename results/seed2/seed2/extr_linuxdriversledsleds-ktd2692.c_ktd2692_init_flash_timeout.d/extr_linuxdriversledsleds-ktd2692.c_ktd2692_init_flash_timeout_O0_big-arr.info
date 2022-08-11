@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversledsleds-ktd2692.c_ktd2692_init_flash_timeout.d/extr_linuxdriversledsleds-ktd2692.c_ktd2692_init_flash_timeout_O0::ktd2692_init_flash_timeout(66)"
+  }
+]

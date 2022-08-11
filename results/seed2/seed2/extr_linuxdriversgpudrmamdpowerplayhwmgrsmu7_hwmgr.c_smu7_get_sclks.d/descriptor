@@ -1,0 +1,9 @@
+struct TYPE_5__ | vddc_dependency_on_sclk struct phm_clock_voltage_dependency_table * 
+struct pp_hwmgr | pp_table_version long | dyn_state struct TYPE_5__ | pptable long 
+struct phm_ppt_v1_information | vdd_dep_on_sclk struct phm_ppt_v1_clock_voltage_dependency_table * 
+struct phm_ppt_v1_clock_voltage_dependency_table | count int | entries struct TYPE_4__ * 
+struct phm_clock_voltage_dependency_table | count int | entries struct TYPE_6__ * 
+struct amd_pp_clocks | clock int * | count int 
+struct TYPE_6__ | clk int 
+struct TYPE_4__ | clk int 
+function smu7_get_sclks int | hwmgr struct pp_hwmgr * | clocks struct amd_pp_clocks *

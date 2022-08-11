@@ -1,0 +1,3 @@
+struct TYPE_4__ | cacheval long | cachelen long | bytes int | position const int * 
+struct TYPE_5__ | rb struct TYPE_4__ 
+function ff_opus_rc_dec_raw_init void | rc struct TYPE_5__ * | rightend const int * | bytes int

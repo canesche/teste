@@ -1,0 +1,3 @@
+struct scsi_qla_host | response_ptr long 
+struct response | signature int 
+function qla4xxx_init_response_q_entries void | ha struct scsi_qla_host *

@@ -1,2 +1,0 @@
-struct i2c_client | dummy int 
-function tas5086_i2c_remove int | i2c struct i2c_client *

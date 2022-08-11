@@ -1,0 +1,2 @@
+struct cvmx_usb_pipe | pid_toggle long 
+function cvmx_usb_get_data_pid int | pipe struct cvmx_usb_pipe *

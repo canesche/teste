@@ -1,0 +1,1 @@
+function DIB_1BPP_TransparentBlt int | DestSurf int * | SourceSurf int * | DestRect int * | SourceRect int * | ColorTranslation int * | iTransColor int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | code unsigned long | hz int 
+function setup_hazard_table void | init_table struct TYPE_3__ [] | table int [] | size int

@@ -1,0 +1,2 @@
+struct TYPE_2__ | size unsigned long | init int (*)(struct perf_evsel *) | fini void (*)(struct perf_evsel *) 
+function perf_evsel__object_config int | object_size unsigned long | init int (*)(struct perf_evsel *) | fini void (*)(struct perf_evsel *)

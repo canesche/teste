@@ -1,0 +1,3 @@
+struct set_vf_state_cookie | state int | vf struct TYPE_2__ * 
+struct TYPE_2__ | state int 
+function bnx2x_set_vf_state void | cookie void *

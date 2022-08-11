@@ -1,0 +1,2 @@
+struct socket_address | dummy int 
+function mg_resolve_from_hosts_file int | name const char * | usa union socket_address *

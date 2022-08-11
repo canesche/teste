@@ -1,0 +1,2 @@
+struct virtio_crypto | crypto_services unsigned int | cipher_algo_l unsigned int | cipher_algo_h unsigned int | hash_algo unsigned int | mac_algo_l unsigned int | mac_algo_h unsigned int | aead_algo unsigned int 
+function virtcrypto_algo_is_supported int | vcrypto struct virtio_crypto * | service unsigned int | algo unsigned int

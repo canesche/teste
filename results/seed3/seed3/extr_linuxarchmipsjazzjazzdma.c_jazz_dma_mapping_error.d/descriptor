@@ -1,0 +1,2 @@
+struct device | dummy int 
+function jazz_dma_mapping_error int | dev struct device * | dma_addr long

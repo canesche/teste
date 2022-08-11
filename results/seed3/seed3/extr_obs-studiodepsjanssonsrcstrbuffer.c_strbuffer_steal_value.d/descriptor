@@ -1,0 +1,2 @@
+struct TYPE_3__ | value char * 
+function strbuffer_steal_value char * | strbuff struct TYPE_3__ *

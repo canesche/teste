@@ -1,0 +1,4 @@
+struct op_system_config | enable_user int | enable_kernel int | enable_pal int 
+struct op_register_config | mux_select int | proc_mode int | freq int | reset_values int | need_reset int 
+struct op_counter_config | event unsigned long | count unsigned long | enabled int 
+function common_reg_setup void | reg struct op_register_config * | ctr struct op_counter_config * | sys struct op_system_config * | cbox1_ofs int | cbox2_ofs int

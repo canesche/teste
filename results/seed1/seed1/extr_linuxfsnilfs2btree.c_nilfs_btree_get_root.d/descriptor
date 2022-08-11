@@ -1,0 +1,4 @@
+struct nilfs_btree_node | dummy int 
+struct TYPE_2__ | u_data long 
+struct nilfs_bmap | b_u struct TYPE_2__ 
+function nilfs_btree_get_root struct nilfs_btree_node * | btree const struct nilfs_bmap *

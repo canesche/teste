@@ -1,2 +1,0 @@
-struct dc | hwss int 
-function dcn10_hw_sequencer_construct void | dc struct dc *

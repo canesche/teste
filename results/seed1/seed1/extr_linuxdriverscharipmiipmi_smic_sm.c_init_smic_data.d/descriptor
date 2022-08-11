@@ -1,0 +1,3 @@
+struct si_sm_io | dummy int 
+struct si_sm_data | smic_timeout int | truncated long | error_retries long | read_pos long | orig_write_count long | write_count long | write_pos long | io struct si_sm_io * | state int 
+function init_smic_data unsigned int | smic struct si_sm_data * | io struct si_sm_io *

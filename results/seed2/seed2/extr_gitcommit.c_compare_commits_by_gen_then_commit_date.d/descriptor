@@ -1,0 +1,2 @@
+struct commit | generation long | date long 
+function compare_commits_by_gen_then_commit_date int | a_ const void * | b_ const void * | unused void *

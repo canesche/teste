@@ -1,0 +1,2 @@
+struct TYPE_3__ | tif_curstrip int 
+function TIFFCurrentStrip int | tif struct TYPE_3__ *

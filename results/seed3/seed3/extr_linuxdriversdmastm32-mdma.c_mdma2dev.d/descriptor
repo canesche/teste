@@ -1,0 +1,4 @@
+struct TYPE_2__ | dev struct device * 
+struct stm32_mdma_device | ddev struct TYPE_2__ 
+struct device | dummy int 
+function mdma2dev struct device * | mdma_dev struct stm32_mdma_device *

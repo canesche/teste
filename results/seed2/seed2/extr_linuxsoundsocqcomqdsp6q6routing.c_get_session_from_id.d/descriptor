@@ -1,0 +1,3 @@
+struct session_data | fedai_id int 
+struct msm_routing_data | sessions struct session_data * 
+function get_session_from_id struct session_data * | data struct msm_routing_data * | fedai_id int

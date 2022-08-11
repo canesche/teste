@@ -1,0 +1,3 @@
+struct mg_dns_resource_record | rtype int 
+struct mg_dns_message | num_answers int | answers struct mg_dns_resource_record * 
+function mg_dns_next_record struct mg_dns_resource_record * | msg struct mg_dns_message * | query int | prev struct mg_dns_resource_record *

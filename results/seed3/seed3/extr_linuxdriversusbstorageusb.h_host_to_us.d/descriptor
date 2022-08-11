@@ -1,0 +1,3 @@
+struct us_data | dummy int 
+struct Scsi_Host | hostdata long 
+function host_to_us struct us_data * | host struct Scsi_Host *

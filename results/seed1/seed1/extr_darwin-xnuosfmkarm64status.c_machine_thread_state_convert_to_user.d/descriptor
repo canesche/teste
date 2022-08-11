@@ -1,0 +1,1 @@
+function machine_thread_state_convert_to_user int | thread int | flavor int | tstate int | count int *

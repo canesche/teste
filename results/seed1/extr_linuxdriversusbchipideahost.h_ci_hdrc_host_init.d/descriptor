@@ -1,2 +1,0 @@
-struct ci_hdrc | dummy int 
-function ci_hdrc_host_init int | ci struct ci_hdrc *

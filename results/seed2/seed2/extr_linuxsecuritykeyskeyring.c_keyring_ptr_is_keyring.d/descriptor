@@ -1,0 +1,2 @@
+struct assoc_array_ptr | dummy int 
+function keyring_ptr_is_keyring int | x const struct assoc_array_ptr *

@@ -1,2 +1,0 @@
-struct comedi_8254 | divisor int | next_div int | divisor1 int | next_div1 int | divisor2 int | next_div2 int 
-function comedi_8254_update_divisors void | i8254 struct comedi_8254 *

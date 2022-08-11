@@ -1,2 +1,0 @@
-struct TYPE_3__ | ifv_flags int 
-function ifvlan_flags_set_detaching void | ifv struct TYPE_3__ *

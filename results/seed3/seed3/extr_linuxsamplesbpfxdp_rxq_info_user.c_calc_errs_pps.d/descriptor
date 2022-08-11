@@ -1,0 +1,2 @@
+struct datarec | issue double 
+function calc_errs_pps double | r struct datarec * | p struct datarec * | period_ double

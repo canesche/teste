@@ -1,0 +1,4 @@
+struct wmi_start_scan_arg | scan_req_id int | dwell_time_active int | dwell_time_passive int | min_rest_time int | max_rest_time int | max_scan_time int | probe_delay int | notify_scan_events int | n_bssids int | bssids struct TYPE_2__ * | scan_ctrl_flags int | idle_time long | probe_spacing_time long | repeat_probe_time long | scan_priority int 
+struct ath10k | dummy int 
+struct TYPE_2__ | bssid char * 
+function ath10k_wmi_start_scan_init void | ar struct ath10k * | arg struct wmi_start_scan_arg *

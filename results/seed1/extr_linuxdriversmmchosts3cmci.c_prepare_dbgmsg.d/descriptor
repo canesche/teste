@@ -1,3 +1,0 @@
-struct s3cmci_host | dummy int 
-struct mmc_command | dummy int 
-function prepare_dbgmsg void | host struct s3cmci_host * | cmd struct mmc_command * | stop int

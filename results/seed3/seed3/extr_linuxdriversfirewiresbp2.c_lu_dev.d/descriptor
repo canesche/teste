@@ -1,0 +1,5 @@
+struct sbp2_logical_unit | tgt struct TYPE_4__ * 
+struct device | dummy int 
+struct TYPE_4__ | unit struct TYPE_3__ * 
+struct TYPE_3__ | device const struct device 
+function lu_dev const struct device * | lu const struct sbp2_logical_unit *

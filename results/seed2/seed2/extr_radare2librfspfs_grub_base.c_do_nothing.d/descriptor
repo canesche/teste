@@ -1,0 +1,2 @@
+struct grub_dirhook_info | dummy int 
+function do_nothing int | a const char * | b const struct grub_dirhook_info * | c void *

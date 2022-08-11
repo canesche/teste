@@ -1,0 +1,4 @@
+struct TYPE_2__ | res_id int 
+struct res_mtt | order int | com struct TYPE_2__ 
+struct mlx4_dev | dummy int 
+function check_mtt_range int | dev struct mlx4_dev * | slave int | start int | size int | mtt struct res_mtt *

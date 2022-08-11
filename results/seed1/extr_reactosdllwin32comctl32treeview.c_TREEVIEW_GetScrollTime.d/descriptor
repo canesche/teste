@@ -1,2 +1,0 @@
-struct TYPE_3__ | uScrollTime int 
-function TREEVIEW_GetScrollTime int | infoPtr const struct TYPE_3__ *

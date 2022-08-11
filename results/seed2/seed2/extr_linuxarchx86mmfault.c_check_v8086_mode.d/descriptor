@@ -1,0 +1,3 @@
+struct task_struct | dummy int 
+struct pt_regs | dummy int 
+function check_v8086_mode void | regs struct pt_regs * | address unsigned long | tsk struct task_struct *

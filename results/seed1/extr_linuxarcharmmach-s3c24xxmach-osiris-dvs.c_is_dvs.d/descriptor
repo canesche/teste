@@ -1,2 +1,0 @@
-struct s3c_freq | armclk long | hclk long 
-function is_dvs int | f struct s3c_freq *

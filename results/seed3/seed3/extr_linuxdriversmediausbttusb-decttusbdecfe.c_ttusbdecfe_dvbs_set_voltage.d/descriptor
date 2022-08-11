@@ -1,0 +1,3 @@
+struct ttusbdecfe_state | voltage int 
+struct dvb_frontend | demodulator_priv long 
+function ttusbdecfe_dvbs_set_voltage int | fe struct dvb_frontend * | voltage enum fe_sec_voltage

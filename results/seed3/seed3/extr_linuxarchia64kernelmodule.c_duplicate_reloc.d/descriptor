@@ -1,0 +1,2 @@
+struct TYPE_3__ | r_info long | r_addend long 
+function duplicate_reloc int | rela const struct TYPE_3__ * | num unsigned int

@@ -1,2 +1,0 @@
-struct TYPE_3__ | ipv4 long 
-function compute_elision_location void | address const struct TYPE_3__ * | values long const[8] | index int * | count int *

@@ -1,0 +1,2 @@
+struct pp_hw_power_state | magic long 
+function cast_const_smu10_ps const struct smu10_power_state * | hw_ps const struct pp_hw_power_state *

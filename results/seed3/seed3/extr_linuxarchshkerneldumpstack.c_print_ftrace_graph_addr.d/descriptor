@@ -1,0 +1,3 @@
+struct thread_info | dummy int 
+struct stacktrace_ops | dummy int 
+function print_ftrace_graph_addr void | addr unsigned long | data void * | ops const struct stacktrace_ops * | tinfo struct thread_info * | graph int *

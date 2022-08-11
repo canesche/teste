@@ -1,0 +1,2 @@
+struct net_device | flags int | min_mtu int | tx_queue_len int | needs_free_netdev int | netdev_ops int * | addr_len long | hard_header_len long | max_mtu long | mtu int | type int | features int 
+function gprs_setup void | dev struct net_device *

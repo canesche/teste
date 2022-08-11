@@ -1,2 +1,0 @@
-struct ref_store | dummy int 
-function packed_pack_refs int | ref_store struct ref_store * | flags unsigned int

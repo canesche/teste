@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmi915intel_dsi_vbt.c_intel_dsi_seq_port_to_port.d/extr_linuxdriversgpudrmi915intel_dsi_vbt.c_intel_dsi_seq_port_to_port_O0::intel_dsi_seq_port_to_port(64)"
+  }
+]

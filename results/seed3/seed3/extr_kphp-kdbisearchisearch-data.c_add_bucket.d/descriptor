@@ -1,0 +1,2 @@
+struct TYPE_3__ | prev_bucket int | next_bucket int 
+function add_bucket void | x int | bucket int

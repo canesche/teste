@@ -1,0 +1,5 @@
+struct TYPE_3__ | channels unsigned int 
+struct snd_pcm_plugin | src_format struct TYPE_3__ | extra_data long 
+struct rate_priv | channels struct TYPE_4__ * | pos long 
+struct TYPE_4__ | last_S2 long | last_S1 long 
+function rate_init void | plugin struct snd_pcm_plugin *

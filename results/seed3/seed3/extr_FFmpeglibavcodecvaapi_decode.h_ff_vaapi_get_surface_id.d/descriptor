@@ -1,0 +1,2 @@
+struct TYPE_3__ | data int * 
+function ff_vaapi_get_surface_id unsigned long | pic struct TYPE_3__ *

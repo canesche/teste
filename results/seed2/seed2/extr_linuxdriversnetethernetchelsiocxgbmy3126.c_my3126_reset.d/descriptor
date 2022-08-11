@@ -1,0 +1,2 @@
+struct cphy | dummy int 
+function my3126_reset int | cphy struct cphy * | wait int

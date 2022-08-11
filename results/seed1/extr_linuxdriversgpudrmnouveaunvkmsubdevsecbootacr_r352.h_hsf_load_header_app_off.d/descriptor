@@ -1,2 +1,0 @@
-struct hsf_load_header | apps unsigned long * 
-function hsf_load_header_app_off unsigned long | hdr const struct hsf_load_header * | app unsigned long

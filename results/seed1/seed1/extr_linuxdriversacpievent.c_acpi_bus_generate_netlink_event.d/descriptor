@@ -1,0 +1,1 @@
+function acpi_bus_generate_netlink_event int | device_class const char * | bus_id const char * | type int | data int

@@ -1,2 +1,0 @@
-struct nfp_net | vxlan_ports long * | vxlan_usecnt int * 
-function nfp_net_find_vxlan_idx int | nn struct nfp_net * | port long

@@ -1,2 +1,0 @@
-struct IsdnCardState | dummy int 
-function dummywr void | cs struct IsdnCardState * | chan int | off int | value int

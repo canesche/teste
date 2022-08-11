@@ -1,0 +1,2 @@
+struct nilfs_bmap | b_nchildren_per_block int 
+function nilfs_btree_nchildren_per_block int | btree const struct nilfs_bmap *

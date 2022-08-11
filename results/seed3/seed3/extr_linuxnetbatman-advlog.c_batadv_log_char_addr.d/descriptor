@@ -1,0 +1,2 @@
+struct batadv_priv_debug_log | log_buff char * 
+function batadv_log_char_addr char * | debug_log struct batadv_priv_debug_log * | idx unsigned long

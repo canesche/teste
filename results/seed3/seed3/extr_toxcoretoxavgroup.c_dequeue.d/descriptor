@@ -1,0 +1,2 @@
+struct TYPE_3__ | top unsigned int | bottom unsigned int | size unsigned int | capacity long | queue int ** 
+function dequeue int * | q struct TYPE_3__ * | success int *

@@ -1,0 +1,4 @@
+struct TYPE_6__ | objects int 
+struct TYPE_5__ | owner struct TYPE_6__ * 
+struct TYPE_7__ | own_cache int | rc struct TYPE_5__ 
+function odb_cache int * | odb struct TYPE_7__ *

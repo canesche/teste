@@ -1,0 +1,2 @@
+struct s390_operand | shift int | bits int | flags int 
+function extract_operand unsigned int | code unsigned char * | operand const struct s390_operand *

@@ -1,3 +1,0 @@
-struct TYPE_3__ | P int * 
-struct TYPE_4__ | s struct TYPE_3__ 
-function BF_set_key void | key const char * | expanded int * | initial int * | flags unsigned char

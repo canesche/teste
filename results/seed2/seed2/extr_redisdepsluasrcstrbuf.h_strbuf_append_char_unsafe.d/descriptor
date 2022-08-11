@@ -1,0 +1,2 @@
+struct TYPE_3__ | buf char * | length int 
+function strbuf_append_char_unsafe void | s struct TYPE_3__ * | c const char

@@ -1,0 +1,2 @@
+struct atpic | intr_raised int | acnt long * | request int | aeoi int | rotate int | lowprio int | service int 
+function vatpic_pin_accepted void | atpic struct atpic * | pin int

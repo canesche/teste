@@ -1,0 +1,1 @@
+function smbus_read unsigned int | offset int

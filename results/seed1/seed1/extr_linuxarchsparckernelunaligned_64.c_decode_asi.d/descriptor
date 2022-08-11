@@ -1,0 +1,2 @@
+struct pt_regs | tstate int 
+function decode_asi int | insn unsigned int | regs struct pt_regs *

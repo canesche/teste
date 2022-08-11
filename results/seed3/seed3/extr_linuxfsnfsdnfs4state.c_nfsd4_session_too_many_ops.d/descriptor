@@ -1,0 +1,5 @@
+struct svc_rqst | rq_argp struct nfsd4_compoundargs * 
+struct TYPE_2__ | maxops long 
+struct nfsd4_session | se_fchannel struct TYPE_2__ 
+struct nfsd4_compoundargs | opcnt long 
+function nfsd4_session_too_many_ops int | rqstp struct svc_rqst * | session struct nfsd4_session *

@@ -1,0 +1,5 @@
+struct stmmac_tx_queue | mss long | dirty_tx long | cur_tx long 
+struct stmmac_rx_queue | dirty_rx long | cur_rx long 
+struct stmmac_priv | tx_queue struct stmmac_tx_queue * | rx_queue struct stmmac_rx_queue * | plat struct TYPE_2__ * 
+struct TYPE_2__ | rx_queues_to_use unsigned long | tx_queues_to_use unsigned long 
+function stmmac_reset_queues_param void | priv struct stmmac_priv *

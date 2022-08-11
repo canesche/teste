@@ -1,3 +1,0 @@
-struct i2c_timings | bus_freq_hz int 
-struct dw_i2c_dev | functionality int | master_cfg int | mode int | timings struct i2c_timings 
-function i2c_dw_configure_master void | dev struct dw_i2c_dev *

@@ -1,0 +1,4 @@
+struct file | dummy int 
+struct autofs_sb_info | dummy int 
+struct autofs_dev_ioctl | ver_minor int | ver_major int 
+function autofs_dev_ioctl_version int | fp struct file * | sbi struct autofs_sb_info * | param struct autofs_dev_ioctl *

@@ -1,0 +1,6 @@
+struct ieee80211_hw | wiphy struct TYPE_3__ * 
+struct b43legacy_phy | possible_phymodes int 
+struct b43legacy_wldev | phy struct b43legacy_phy | wl struct TYPE_4__ * 
+struct TYPE_4__ | hw struct ieee80211_hw * 
+struct TYPE_3__ | bands int ** 
+function b43legacy_setup_modes int | dev struct b43legacy_wldev * | have_bphy int | have_gphy int

@@ -1,0 +1,1 @@
+value(port_id) == 255, value(tc) == 255, value(max_phys_tcs_per_port) == 255, length(p_hwfn) == 65025

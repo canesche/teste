@@ -1,0 +1,4 @@
+struct led_flash_setting | max int | step int | val int | min int 
+struct led_classdev_flash | timeout struct led_flash_setting 
+struct ktd2692_led_config_data | flash_max_timeout int 
+function ktd2692_init_flash_timeout void | fled_cdev struct led_classdev_flash * | cfg struct ktd2692_led_config_data *

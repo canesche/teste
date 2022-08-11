@@ -1,0 +1,2 @@
+struct pstack | top int | entries void ** 
+function pstack__peek void * | pstack struct pstack *

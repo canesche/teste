@@ -1,3 +1,0 @@
-struct kvm_ioapic | ioregsel int | id int | redirtbl struct TYPE_2__ * 
-struct TYPE_2__ | bits int 
-function ioapic_read_indirect unsigned long | ioapic struct kvm_ioapic * | addr unsigned long | length unsigned long

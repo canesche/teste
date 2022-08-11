@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_xhyvesrcpci_emul.c_pci_msix_enabled.d/extr_xhyvesrcpci_emul.c_pci_msix_enabled_O0::pci_msix_enabled(66)"
+  }
+]

@@ -1,0 +1,2 @@
+struct inode | i_fop int * | i_size long 
+function configfs_init_bin_file void | inode struct inode *

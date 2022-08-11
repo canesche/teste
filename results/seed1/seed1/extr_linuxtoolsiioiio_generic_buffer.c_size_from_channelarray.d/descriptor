@@ -1,0 +1,2 @@
+struct iio_channel_info | bytes int | location int 
+function size_from_channelarray int | channels struct iio_channel_info * | num_channels int

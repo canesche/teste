@@ -1,0 +1,2 @@
+struct TYPE_3__ | w int | h int | data float * 
+function draw_box void | a struct TYPE_3__ | x1 int | y1 int | x2 int | y2 int | r float | g float | b float

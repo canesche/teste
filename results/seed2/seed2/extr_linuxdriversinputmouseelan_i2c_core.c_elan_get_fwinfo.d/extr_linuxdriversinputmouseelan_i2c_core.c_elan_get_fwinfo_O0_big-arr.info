@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversinputmouseelan_i2c_core.c_elan_get_fwinfo.d/extr_linuxdriversinputmouseelan_i2c_core.c_elan_get_fwinfo_O0::elan_get_fwinfo(65)"
+  }
+]

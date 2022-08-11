@@ -1,3 +1,0 @@
-struct TYPE_5__ | bpnum unsigned long | bp struct TYPE_4__ * 
-struct TYPE_4__ | enable int 
-function mrb_debug_enable_break_all int | mrb int * | dbg struct TYPE_5__ *

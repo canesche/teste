@@ -1,0 +1,3 @@
+struct mwifiex_adapter | priv_num unsigned long | priv struct TYPE_2__ ** 
+struct TYPE_2__ | bss_type unsigned long 
+function mwifiex_get_intf_num unsigned long | adapter struct mwifiex_adapter * | bss_type unsigned long

@@ -1,0 +1,3 @@
+struct kev_msg | dummy int 
+struct ifnet | dummy int 
+function ifproto_media_event void | ifp struct ifnet * | protocol int | event const struct kev_msg *

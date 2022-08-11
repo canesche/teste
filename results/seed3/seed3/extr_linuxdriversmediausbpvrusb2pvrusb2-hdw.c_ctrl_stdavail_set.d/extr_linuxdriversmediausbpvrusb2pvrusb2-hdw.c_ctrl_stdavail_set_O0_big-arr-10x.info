@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmediausbpvrusb2pvrusb2-hdw.c_ctrl_stdavail_set.d/extr_linuxdriversmediausbpvrusb2pvrusb2-hdw.c_ctrl_stdavail_set_O0::ctrl_stdavail_set(69)"
+  }
+]

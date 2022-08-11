@@ -1,0 +1,2 @@
+struct device | dummy int 
+function sdma_pcm_platform_register int | dev struct device * | txdmachan char * | rxdmachan char *

@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function pcibios_plat_dev_init int | dev struct pci_dev *

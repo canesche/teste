@@ -1,2 +1,0 @@
-struct vbva_buffer | data_offset long | free_offset long | data_len long 
-function vbva_buffer_available long | vbva const struct vbva_buffer *

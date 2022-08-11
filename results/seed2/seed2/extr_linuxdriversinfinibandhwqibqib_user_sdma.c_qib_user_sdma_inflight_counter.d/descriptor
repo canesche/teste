@@ -1,0 +1,2 @@
+struct qib_user_sdma_queue | counter int 
+function qib_user_sdma_inflight_counter int | pq struct qib_user_sdma_queue *

@@ -1,0 +1,3 @@
+struct arizona_priv | dai struct arizona_dai_priv * 
+struct arizona_dai_priv | constraint int | clk int 
+function arizona_init_dai int | priv struct arizona_priv * | id int

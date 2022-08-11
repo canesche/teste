@@ -1,0 +1,2 @@
+struct TYPE_3__ | w int | h int | inputs int | c int 
+function resize_avgpool_layer void | l struct TYPE_3__ * | w int | h int

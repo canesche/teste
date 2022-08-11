@@ -1,0 +1,2 @@
+struct TYPE_3__ | pix_fmt long 
+function count_pixfmts int | map const struct TYPE_3__ *

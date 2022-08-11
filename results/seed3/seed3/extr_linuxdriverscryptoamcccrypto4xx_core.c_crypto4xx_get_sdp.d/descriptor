@@ -1,0 +1,3 @@
+struct crypto4xx_device | sdr struct ce_sd * | sdr_pa long 
+struct ce_sd | dummy int 
+function crypto4xx_get_sdp struct ce_sd * | dev struct crypto4xx_device * | sd_dma long * | idx int

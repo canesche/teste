@@ -1,2 +1,0 @@
-struct i2c_client | dummy int 
-function nau8825_i2c_remove int | client struct i2c_client *

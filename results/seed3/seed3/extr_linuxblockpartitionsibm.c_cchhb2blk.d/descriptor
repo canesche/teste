@@ -1,0 +1,3 @@
+struct vtoc_cchhb | hh int | cc int | b int 
+struct hd_geometry | heads int | sectors int 
+function cchhb2blk int | ptr struct vtoc_cchhb * | geo struct hd_geometry *

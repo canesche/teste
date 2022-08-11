@@ -1,0 +1,2 @@
+struct hfi1_devdata | revision int 
+function is_bx int | dd struct hfi1_devdata *

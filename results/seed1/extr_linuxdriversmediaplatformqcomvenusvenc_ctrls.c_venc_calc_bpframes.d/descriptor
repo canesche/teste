@@ -1,1 +1,0 @@
-function venc_calc_bpframes int | gop_size int | conseq_b int | bf int * | pf int *

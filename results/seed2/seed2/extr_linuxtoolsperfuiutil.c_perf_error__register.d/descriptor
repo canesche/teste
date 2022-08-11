@@ -1,0 +1,2 @@
+struct perf_error_ops | dummy int 
+function perf_error__register int | eops struct perf_error_ops *

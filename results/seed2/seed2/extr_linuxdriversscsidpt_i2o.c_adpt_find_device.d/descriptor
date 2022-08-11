@@ -1,0 +1,4 @@
+struct adpt_device | tid long | scsi_lun long | next_lun struct adpt_device * 
+struct TYPE_5__ | channel struct TYPE_4__ * 
+struct TYPE_4__ | device struct adpt_device ** 
+function adpt_find_device struct adpt_device * | pHba struct TYPE_5__ * | chan unsigned long | id unsigned long | lun long

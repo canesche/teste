@@ -1,0 +1,3 @@
+struct TYPE_2__ | cbm_idx_mult unsigned int | cbm_idx_offset unsigned int 
+struct rdt_resource | cache struct TYPE_2__ 
+function cbm_idx unsigned int | r struct rdt_resource * | closid unsigned int

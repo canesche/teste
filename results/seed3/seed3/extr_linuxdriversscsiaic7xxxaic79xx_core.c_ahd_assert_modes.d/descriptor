@@ -1,0 +1,2 @@
+struct ahd_softc | dummy int 
+function ahd_assert_modes void | ahd struct ahd_softc * | srcmode int | dstmode int | file const char * | line int

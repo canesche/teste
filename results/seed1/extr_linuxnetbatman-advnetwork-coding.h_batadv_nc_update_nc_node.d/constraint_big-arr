@@ -1,1 +1,0 @@
-value(is_single_hop_neigh) == 255, length(bat_priv) == 65025, length(orig_node) == 65025, length(orig_neigh_node) == 65025, length(ogm_packet) == 65025

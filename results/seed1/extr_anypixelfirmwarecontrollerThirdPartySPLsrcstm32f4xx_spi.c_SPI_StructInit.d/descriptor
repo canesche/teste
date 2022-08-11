@@ -1,2 +1,0 @@
-struct TYPE_3__ | SPI_CRCPolynomial int | SPI_FirstBit int | SPI_BaudRatePrescaler int | SPI_NSS int | SPI_CPHA int | SPI_CPOL int | SPI_DataSize int | SPI_Mode int | SPI_Direction int 
-function SPI_StructInit void | SPI_InitStruct struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct cpuid_core_info | pkg long | core long | cpu long 
+function __compare int | t1 const void * | t2 const void *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 205,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 205,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_Craftsrccube.c_make_character.d/extr_Craftsrccube.c_make_character_O0::make_character(62)"
+  }
+]

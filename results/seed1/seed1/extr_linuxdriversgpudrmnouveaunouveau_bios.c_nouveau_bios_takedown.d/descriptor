@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function nouveau_bios_takedown void | dev struct drm_device *

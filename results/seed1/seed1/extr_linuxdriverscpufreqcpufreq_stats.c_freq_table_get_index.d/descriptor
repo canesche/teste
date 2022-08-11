@@ -1,0 +1,2 @@
+struct cpufreq_stats | max_state int | freq_table unsigned int * 
+function freq_table_get_index int | stats struct cpufreq_stats * | freq unsigned int

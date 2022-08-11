@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversideide-probe.c_ide_disk_init_mult_count.d/extr_linuxdriversideide-probe.c_ide_disk_init_mult_count_O0::ide_disk_init_mult_count(68)"
+  }
+]

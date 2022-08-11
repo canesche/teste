@@ -1,4 +1,0 @@
-struct net_device | dummy int 
-struct igb_adapter | netdev struct net_device * 
-struct e1000_hw | back struct igb_adapter * 
-function igb_get_hw_dev struct net_device * | hw struct e1000_hw *

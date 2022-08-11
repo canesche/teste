@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 8,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 122,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 122,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_mpvvideooutvo_tct.c_rgb_to_x256.d/extr_mpvvideooutvo_tct.c_rgb_to_x256_O0::rgb_to_x256(61)"
+  }
+]

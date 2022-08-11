@@ -1,0 +1,2 @@
+struct sclp_buffer | htab unsigned short 
+function sclp_set_htab void | buffer struct sclp_buffer * | htab unsigned short

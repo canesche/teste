@@ -1,0 +1,2 @@
+struct TYPE_3__ | len unsigned long | data char * 
+function ngx_http_grpc_validate_header_name int | r int * | s struct TYPE_3__ *

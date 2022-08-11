@@ -1,0 +1,2 @@
+struct calling_interface_token | tokenID int 
+function dell_smbios_find_token struct calling_interface_token * | tokenid int

@@ -1,0 +1,4 @@
+struct slotinfo | si_funcs struct TYPE_2__ * 
+struct businfo | slotinfo struct slotinfo * 
+struct TYPE_2__ | fi_devi int * 
+function pci_emul_is_mfdev int | bus int | slot int

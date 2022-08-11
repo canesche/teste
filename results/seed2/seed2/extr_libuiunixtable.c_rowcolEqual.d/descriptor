@@ -1,0 +1,2 @@
+struct rowcol | row long | col long 
+function rowcolEqual int | a long | b long

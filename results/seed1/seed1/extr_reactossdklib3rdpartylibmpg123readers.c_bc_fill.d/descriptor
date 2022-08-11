@@ -1,0 +1,2 @@
+struct bufferchain | pos long | size long 
+function bc_fill unsigned long | bc struct bufferchain *

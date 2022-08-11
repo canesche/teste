@@ -1,2 +1,0 @@
-struct i2c_client | dummy int 
-function m41t80_remove int | client struct i2c_client *

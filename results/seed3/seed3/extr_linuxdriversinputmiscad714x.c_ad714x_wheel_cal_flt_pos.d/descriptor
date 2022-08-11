@@ -1,0 +1,6 @@
+struct ad714x_wheel_plat | end_stage long | start_stage long | max_coord int 
+struct ad714x_wheel_drv | pre_highest_stage long | highest_stage long | flt_pos int | abs_pos int 
+struct ad714x_chip | sw struct TYPE_4__ * | hw struct TYPE_3__ * 
+struct TYPE_4__ | wheel struct ad714x_wheel_drv * 
+struct TYPE_3__ | wheel struct ad714x_wheel_plat * 
+function ad714x_wheel_cal_flt_pos void | ad714x struct ad714x_chip * | idx int

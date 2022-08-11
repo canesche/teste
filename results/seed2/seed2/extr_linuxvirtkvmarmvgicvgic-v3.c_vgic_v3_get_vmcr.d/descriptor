@@ -1,0 +1,9 @@
+struct vgic_vmcr | fiqen int | grpen1 long | grpen0 long | pmr long | bpr long | abpr long | eoim long | cbpr long | ackctl long 
+struct vgic_v3_cpu_if | vgic_vmcr long 
+struct TYPE_6__ | vgic_v3 struct vgic_v3_cpu_if 
+struct TYPE_7__ | vgic_cpu struct TYPE_6__ 
+struct kvm_vcpu | kvm struct TYPE_10__ * | arch struct TYPE_7__ 
+struct TYPE_8__ | vgic_model long 
+struct TYPE_9__ | vgic struct TYPE_8__ 
+struct TYPE_10__ | arch struct TYPE_9__ 
+function vgic_v3_get_vmcr void | vcpu struct kvm_vcpu * | vmcrp struct vgic_vmcr *

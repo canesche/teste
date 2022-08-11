@@ -1,4 +1,0 @@
-struct pnfs_layout_segment | dummy int 
-struct nfs_page | dummy int 
-struct nfs_commit_info | dummy int 
-function pnfs_mark_request_commit int | req struct nfs_page * | lseg struct pnfs_layout_segment * | cinfo struct nfs_commit_info * | ds_commit_idx int

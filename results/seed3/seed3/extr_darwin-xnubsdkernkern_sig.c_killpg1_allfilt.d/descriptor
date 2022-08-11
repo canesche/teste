@@ -1,0 +1,3 @@
+struct killpg1_filtargs | curproc struct TYPE_3__ * | posix long 
+struct TYPE_3__ | p_pid int | p_flag int 
+function killpg1_allfilt int | p struct TYPE_3__ * | arg void *

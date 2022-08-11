@@ -1,7 +1,0 @@
-struct si_mc_reg_table | last unsigned long | num_entries unsigned long | mc_reg_table_entry struct TYPE_7__ * | mc_reg_address struct TYPE_5__ * 
-struct atom_mc_reg_table | last long | num_entries unsigned long | mc_reg_table_entry struct TYPE_8__ * | mc_reg_address struct TYPE_6__ * 
-struct TYPE_8__ | mc_data int * | mclk_max int 
-struct TYPE_7__ | mc_data int * | mclk_max int 
-struct TYPE_6__ | s1 int 
-struct TYPE_5__ | s1 int 
-function si_copy_vbios_mc_reg_table int | table struct atom_mc_reg_table * | si_table struct si_mc_reg_table *

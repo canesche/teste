@@ -1,2 +1,0 @@
-struct sockbuf | sb_waiters long | sb_flags int 
-function sb_notify int | sb struct sockbuf *

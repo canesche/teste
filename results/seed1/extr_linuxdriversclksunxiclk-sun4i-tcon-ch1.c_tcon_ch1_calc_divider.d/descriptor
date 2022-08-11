@@ -1,1 +1,0 @@
-function tcon_ch1_calc_divider unsigned long | rate unsigned long | parent_rate unsigned long | div int * | half int *

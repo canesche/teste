@@ -1,0 +1,1 @@
+function qed_calc_crc32c long | crc32_packet long * | crc32_length long | crc32_seed long | complement long

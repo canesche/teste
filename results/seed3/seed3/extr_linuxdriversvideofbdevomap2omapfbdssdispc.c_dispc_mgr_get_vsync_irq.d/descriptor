@@ -1,0 +1,2 @@
+struct TYPE_2__ | vsync_irq int 
+function dispc_mgr_get_vsync_irq int | channel enum omap_channel

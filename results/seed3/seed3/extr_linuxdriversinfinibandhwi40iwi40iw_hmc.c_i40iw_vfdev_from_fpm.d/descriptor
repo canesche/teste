@@ -1,0 +1,3 @@
+struct i40iw_vfdev | pmf_index long 
+struct i40iw_sc_dev | vf_dev struct i40iw_vfdev ** 
+function i40iw_vfdev_from_fpm struct i40iw_vfdev * | dev struct i40iw_sc_dev * | hmc_fn_id long

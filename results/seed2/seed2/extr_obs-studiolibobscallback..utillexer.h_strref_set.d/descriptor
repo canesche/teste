@@ -1,0 +1,2 @@
+struct strref | array const char * | len unsigned long 
+function strref_set void | dst struct strref * | array const char * | len unsigned long

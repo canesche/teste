@@ -1,0 +1,3 @@
+struct usb_otg | host struct usb_bus * 
+struct usb_bus | dummy int 
+function mv_otg_set_host int | otg struct usb_otg * | host struct usb_bus *

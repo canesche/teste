@@ -1,4 +1,0 @@
-struct sway_output | dummy int 
-struct sway_container | outputs struct TYPE_2__ * 
-struct TYPE_2__ | length int | items struct sway_output ** 
-function container_get_effective_output struct sway_output * | con struct sway_container *

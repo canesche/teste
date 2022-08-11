@@ -1,0 +1,2 @@
+struct TYPE_3__ | linesize int * | height int | data long * 
+function gif_fill void | picture struct TYPE_3__ * | color int

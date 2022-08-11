@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function team_close int | dev struct net_device *

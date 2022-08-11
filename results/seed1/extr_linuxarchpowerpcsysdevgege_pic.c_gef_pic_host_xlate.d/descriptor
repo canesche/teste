@@ -1,3 +1,0 @@
-struct irq_domain | dummy int 
-struct device_node | dummy int 
-function gef_pic_host_xlate int | h struct irq_domain * | ct struct device_node * | intspec const unsigned int * | intsize unsigned int | out_hwirq unsigned int * | out_flags unsigned int *

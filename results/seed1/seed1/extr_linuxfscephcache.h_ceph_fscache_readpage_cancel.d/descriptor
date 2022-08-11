@@ -1,0 +1,3 @@
+struct page | dummy int 
+struct inode | dummy int 
+function ceph_fscache_readpage_cancel void | inode struct inode * | page struct page *

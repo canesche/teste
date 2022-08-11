@@ -1,0 +1,6 @@
+struct vb_device_info | TVInfo unsigned short | VBInfo int 
+struct SiS_TVData | dummy int 
+struct TYPE_6__ | Ext_ModeFlag unsigned short 
+struct TYPE_5__ | Ext_CRT2CRTC unsigned short 
+struct TYPE_4__ | MASK int | CAP unsigned short | DATAPTR const struct SiS_TVData * 
+function XGI_GetTVPtr const struct SiS_TVData * | ModeIdIndex unsigned short | RefreshRateTableIndex unsigned short | pVBInfo struct vb_device_info *

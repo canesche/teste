@@ -1,0 +1,2 @@
+struct packed_git | next void * 
+function set_next_packed_git void | p void * | next void *

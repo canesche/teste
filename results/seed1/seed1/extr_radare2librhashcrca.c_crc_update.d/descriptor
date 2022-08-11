@@ -1,0 +1,2 @@
+struct TYPE_3__ | crc int | size int | poly int | reflect long 
+function crc_update void | ctx struct TYPE_3__ * | data const int * | sz int

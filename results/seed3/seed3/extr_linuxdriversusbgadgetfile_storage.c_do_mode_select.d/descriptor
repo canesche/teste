@@ -1,0 +1,4 @@
+struct fsg_lun | sense_data int 
+struct fsg_dev | curlun struct fsg_lun * 
+struct fsg_buffhd | dummy int 
+function do_mode_select int | fsg struct fsg_dev * | bh struct fsg_buffhd *

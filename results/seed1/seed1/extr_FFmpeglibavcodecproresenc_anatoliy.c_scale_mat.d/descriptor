@@ -1,0 +1,1 @@
+function scale_mat void | src const int * | dst int * | scale int

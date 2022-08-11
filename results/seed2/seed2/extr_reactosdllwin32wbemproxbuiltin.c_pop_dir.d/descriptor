@@ -1,0 +1,2 @@
+struct dirstack | num_dirs unsigned long | dirs int ** | len_dirs long * 
+function pop_dir int * | dirstack struct dirstack * | len long *

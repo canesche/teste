@@ -1,2 +1,0 @@
-struct cik_mqd | dummy int 
-function get_mqd struct cik_mqd * | mqd void *

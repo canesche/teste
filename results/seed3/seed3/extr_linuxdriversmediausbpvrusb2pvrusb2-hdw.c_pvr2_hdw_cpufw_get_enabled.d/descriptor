@@ -1,0 +1,2 @@
+struct pvr2_hdw | fw_buffer int * 
+function pvr2_hdw_cpufw_get_enabled int | hdw struct pvr2_hdw *

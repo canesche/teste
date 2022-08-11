@@ -1,0 +1,5 @@
+struct TYPE_9__ | input struct TYPE_8__ * 
+struct TYPE_8__ | buffer struct TYPE_7__ * 
+struct TYPE_6__ | cur int 
+struct TYPE_7__ | utf16 struct TYPE_6__ 
+function reader_get_cur int | reader struct TYPE_9__ *

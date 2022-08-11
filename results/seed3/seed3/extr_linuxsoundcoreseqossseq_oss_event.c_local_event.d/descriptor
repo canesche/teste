@@ -1,0 +1,4 @@
+struct evrec | dummy int 
+struct snd_seq_event | dummy int 
+struct seq_oss_devinfo | dummy int 
+function local_event int | dp struct seq_oss_devinfo * | q union evrec * | ev struct snd_seq_event *

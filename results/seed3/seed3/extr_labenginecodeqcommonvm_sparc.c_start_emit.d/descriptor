@@ -1,0 +1,2 @@
+struct func_info | saved_icount int | force_emit long | insn_index long 
+function start_emit void | fp struct func_info *const | i_count int

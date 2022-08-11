@@ -1,0 +1,2 @@
+struct timeval | tv_usec int | tv_sec int 
+function net_update_uptime_with_time void | tvp const struct timeval *

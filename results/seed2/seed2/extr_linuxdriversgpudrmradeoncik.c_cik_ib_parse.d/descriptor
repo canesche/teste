@@ -1,0 +1,3 @@
+struct radeon_ib | dummy int 
+struct radeon_device | dummy int 
+function cik_ib_parse int | rdev struct radeon_device * | ib struct radeon_ib *

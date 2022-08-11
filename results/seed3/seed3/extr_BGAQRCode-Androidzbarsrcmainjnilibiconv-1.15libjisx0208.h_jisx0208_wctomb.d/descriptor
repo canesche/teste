@@ -1,0 +1,2 @@
+struct TYPE_9__ | used unsigned short | indx unsigned short 
+function jisx0208_wctomb int | conv int | r unsigned char * | wc int | n unsigned long

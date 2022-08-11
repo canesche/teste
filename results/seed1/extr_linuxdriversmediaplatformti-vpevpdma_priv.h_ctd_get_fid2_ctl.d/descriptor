@@ -1,2 +1,0 @@
-struct vpdma_ctd | fid_ctl int 
-function ctd_get_fid2_ctl int | ctd struct vpdma_ctd *

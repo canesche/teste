@@ -1,0 +1,2 @@
+struct TYPE_3__ | assume_utf8 int 
+function pdo_odbc_sqltype_is_unicode int | S struct TYPE_3__ * | sqltype int

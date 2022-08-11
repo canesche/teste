@@ -1,2 +1,0 @@
-struct __sk_buff | dummy int 
-function do_nop int | skb struct __sk_buff *

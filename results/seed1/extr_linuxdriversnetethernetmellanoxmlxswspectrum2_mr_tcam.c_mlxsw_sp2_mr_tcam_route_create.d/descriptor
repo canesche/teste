@@ -1,4 +1,0 @@
-struct mlxsw_sp_mr_route_key | dummy int 
-struct mlxsw_sp | dummy int 
-struct mlxsw_afa_block | dummy int 
-function mlxsw_sp2_mr_tcam_route_create int | mlxsw_sp struct mlxsw_sp * | priv void * | route_priv void * | key struct mlxsw_sp_mr_route_key * | afa_block struct mlxsw_afa_block * | prio enum mlxsw_sp_mr_route_prio

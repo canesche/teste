@@ -1,0 +1,1 @@
+value(accessMode) == 10, value(denyMode) == 10, length(newAccessMode) == 100, length(newDenyMode) == 100, length(delegated) == 100, length(nofp) == 100

@@ -1,0 +1,3 @@
+struct htb_class | filter_cnt int 
+struct Qdisc | dummy int 
+function htb_unbind_filter void | sch struct Qdisc * | arg unsigned long

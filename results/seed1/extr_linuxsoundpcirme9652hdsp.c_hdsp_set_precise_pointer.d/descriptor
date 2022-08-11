@@ -1,2 +1,0 @@
-struct hdsp | precise_ptr int 
-function hdsp_set_precise_pointer int | hdsp struct hdsp * | precise int

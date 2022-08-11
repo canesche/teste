@@ -1,2 +1,0 @@
-struct vpdma_dtd | xfer_length_height int 
-function dtd_get_xfer_height int | dtd struct vpdma_dtd *

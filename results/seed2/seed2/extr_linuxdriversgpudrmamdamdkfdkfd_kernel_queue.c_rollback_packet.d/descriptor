@@ -1,0 +1,6 @@
+struct kernel_queue | pending_wptr int | wptr_kernel int * | queue struct TYPE_7__ * | wptr64_kernel int * | pending_wptr64 int | dev struct TYPE_6__ * 
+struct TYPE_8__ | queue_size int 
+struct TYPE_7__ | properties struct TYPE_8__ 
+struct TYPE_6__ | device_info struct TYPE_5__ * 
+struct TYPE_5__ | doorbell_size int 
+function rollback_packet void | kq struct kernel_queue *

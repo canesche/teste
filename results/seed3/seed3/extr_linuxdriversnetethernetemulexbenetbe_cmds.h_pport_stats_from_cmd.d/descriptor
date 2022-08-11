@@ -1,0 +1,5 @@
+struct lancer_pport_stats | dummy int 
+struct lancer_cmd_resp_pport_stats | pport_stats struct lancer_pport_stats 
+struct TYPE_2__ | va struct lancer_cmd_resp_pport_stats * 
+struct be_adapter | stats_cmd struct TYPE_2__ 
+function pport_stats_from_cmd struct lancer_pport_stats * | adapter struct be_adapter *

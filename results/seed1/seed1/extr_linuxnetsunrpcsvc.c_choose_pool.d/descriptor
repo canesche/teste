@@ -1,0 +1,3 @@
+struct svc_serv | sv_nrpools unsigned long | sv_pools struct svc_pool * 
+struct svc_pool | dummy int 
+function choose_pool struct svc_pool * | serv struct svc_serv * | pool struct svc_pool * | state unsigned int *

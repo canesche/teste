@@ -1,0 +1,2 @@
+struct testlist_alias_t | dummy int 
+function tinytest_set_aliases void | aliases const struct testlist_alias_t *

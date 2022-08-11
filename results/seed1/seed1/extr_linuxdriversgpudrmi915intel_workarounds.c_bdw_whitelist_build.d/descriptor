@@ -1,0 +1,2 @@
+struct whitelist | dummy int 
+function bdw_whitelist_build void | w struct whitelist *

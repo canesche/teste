@@ -1,2 +1,0 @@
-struct crypto_aead | dummy int 
-function crypto_morus640_setauthsize int | tfm struct crypto_aead * | authsize unsigned int

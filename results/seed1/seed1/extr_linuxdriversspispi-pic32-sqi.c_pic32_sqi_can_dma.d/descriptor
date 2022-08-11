@@ -1,0 +1,4 @@
+struct spi_transfer | dummy int 
+struct spi_master | dummy int 
+struct spi_device | dummy int 
+function pic32_sqi_can_dma int | master struct spi_master * | spi struct spi_device * | x struct spi_transfer *

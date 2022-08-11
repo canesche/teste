@@ -1,2 +1,0 @@
-struct radeon_ps | vclk long | dclk long 
-function trinity_uvd_clocks_zero int | rps struct radeon_ps *

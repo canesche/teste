@@ -1,0 +1,5 @@
+struct f2fs_sb_info | blocks_per_seg int | sb struct TYPE_6__ * 
+struct TYPE_6__ | s_bdi struct TYPE_5__ * 
+struct TYPE_4__ | dirty_exceeded long 
+struct TYPE_5__ | wb struct TYPE_4__ 
+function nr_pages_to_skip int | sbi struct f2fs_sb_info * | type int

@@ -1,0 +1,2 @@
+struct tipc_link | abort_limit int 
+function tipc_link_set_abort_limit void | l struct tipc_link * | limit int

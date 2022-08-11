@@ -1,0 +1,4 @@
+struct TYPE_7__ | mnt_vtable struct TYPE_5__ * 
+struct TYPE_6__ | v_mount struct TYPE_7__ * 
+struct TYPE_5__ | vfc_vfsflags int 
+function vnode_vfs64bitready int | vp struct TYPE_6__ *

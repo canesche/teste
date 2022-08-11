@@ -1,0 +1,1 @@
+function pstore_set_kmsg_bytes void | bytes int

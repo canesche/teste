@@ -1,0 +1,2 @@
+struct vmballoon_batch_page | pages int * 
+function vmballoon_batch_set_pa void | batch struct vmballoon_batch_page * | idx int | pa int

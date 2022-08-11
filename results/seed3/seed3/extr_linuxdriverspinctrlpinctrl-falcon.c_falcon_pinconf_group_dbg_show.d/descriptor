@@ -1,0 +1,3 @@
+struct seq_file | dummy int 
+struct pinctrl_dev | dummy int 
+function falcon_pinconf_group_dbg_show void | pctrldev struct pinctrl_dev * | s struct seq_file * | selector unsigned int

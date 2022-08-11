@@ -1,0 +1,2 @@
+struct TYPE_3__ | pending_block_hint int 
+function thread_set_pending_block_hint void | thread struct TYPE_3__ * | block_hint int

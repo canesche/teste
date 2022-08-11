@@ -1,2 +1,0 @@
-struct drm_crtc | dummy int 
-function vmw_stdu_crtc_helper_prepare void | crtc struct drm_crtc *

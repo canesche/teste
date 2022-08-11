@@ -1,2 +1,0 @@
-struct mtk_vcodec_ctx | state int 
-function m2mops_venc_job_abort void | priv void *

@@ -1,0 +1,2 @@
+struct e1000_ring | next_to_clean long | next_to_use long | count int 
+function e1000_desc_unused int | ring struct e1000_ring *

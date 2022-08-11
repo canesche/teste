@@ -1,0 +1,2 @@
+struct sockaddr_vm | svm_cid long | svm_port long 
+function vsock_addr_equals_addr int | addr const struct sockaddr_vm * | other const struct sockaddr_vm *

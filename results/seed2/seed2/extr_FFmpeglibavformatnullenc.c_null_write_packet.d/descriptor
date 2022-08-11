@@ -1,0 +1,2 @@
+struct AVFormatContext | dummy int 
+function null_write_packet int | s struct AVFormatContext * | pkt int *

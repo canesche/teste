@@ -1,0 +1,1 @@
+function cpufreq_set_cur_state int | cpu unsigned int | state int

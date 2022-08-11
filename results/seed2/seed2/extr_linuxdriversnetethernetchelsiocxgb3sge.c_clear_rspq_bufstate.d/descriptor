@@ -1,0 +1,2 @@
+struct sge_rspq | rx_recycle_buf long | pg_skb int * 
+function clear_rspq_bufstate void | q struct sge_rspq *const

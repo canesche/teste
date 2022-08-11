@@ -1,5 +1,0 @@
-struct net_device | dummy int 
-struct mlxsw_sp_span_entry | to_dev const struct net_device * | ref_count long 
-struct TYPE_2__ | entries_count int | entries struct mlxsw_sp_span_entry * 
-struct mlxsw_sp | span struct TYPE_2__ 
-function mlxsw_sp_span_entry_find_by_port struct mlxsw_sp_span_entry * | mlxsw_sp struct mlxsw_sp * | to_dev const struct net_device *

@@ -1,0 +1,2 @@
+struct layer2 | next_id int | tei int | sapi int 
+function l2_newid int | l2 struct layer2 *

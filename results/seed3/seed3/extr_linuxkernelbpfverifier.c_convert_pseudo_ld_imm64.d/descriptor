@@ -1,0 +1,4 @@
+struct bpf_verifier_env | prog struct TYPE_2__ * 
+struct bpf_insn | code int | src_reg long 
+struct TYPE_2__ | len int | insnsi struct bpf_insn * 
+function convert_pseudo_ld_imm64 void | env struct bpf_verifier_env *

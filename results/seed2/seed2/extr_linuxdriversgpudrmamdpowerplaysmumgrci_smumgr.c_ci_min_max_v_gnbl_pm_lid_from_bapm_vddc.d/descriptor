@@ -1,0 +1,4 @@
+struct pp_hwmgr | smu_backend long 
+struct TYPE_2__ | BapmVddCVidHiSidd int * | BapmVddCVidLoSidd int * | GnbLPMLMaxVid int | GnbLPMLMinVid int 
+struct ci_smumgr | power_tune_table struct TYPE_2__ 
+function ci_min_max_v_gnbl_pm_lid_from_bapm_vddc int | hwmgr struct pp_hwmgr *

@@ -1,3 +1,0 @@
-struct uniphier_pinctrl_priv | dummy int 
-struct device | dummy int 
-function uniphier_pinctrl_pm_init int | dev struct device * | priv struct uniphier_pinctrl_priv *

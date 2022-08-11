@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_reactosmodulesrostestswinetestsoleaut32vartest.c_IsValidVariantCopyIndVT.d/extr_reactosmodulesrostestswinetestsoleaut32vartest.c_IsValidVariantCopyIndVT_O0::IsValidVariantCopyIndVT(69)"
+  }
+]

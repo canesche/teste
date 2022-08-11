@@ -1,0 +1,5 @@
+struct vxge_hw_ring_rxd_1 | control_0 int 
+struct __vxge_hw_ring | stats struct TYPE_4__ * 
+struct TYPE_3__ | usage_cnt long 
+struct TYPE_4__ | common_stats struct TYPE_3__ 
+function vxge_hw_ring_rxd_post_post void | ring struct __vxge_hw_ring * | rxdh void *

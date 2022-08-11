@@ -1,0 +1,1 @@
+function kfd_gtt_sa_calc_cpu_addr int * | start_addr void * | bit_num unsigned int | chunk_size unsigned int

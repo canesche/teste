@@ -1,0 +1,2 @@
+struct zone | dummy int 
+function zone_statistics void | preferred_zone struct zone * | z struct zone *

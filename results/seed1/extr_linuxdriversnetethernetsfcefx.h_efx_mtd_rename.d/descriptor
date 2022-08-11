@@ -1,2 +1,0 @@
-struct efx_nic | dummy int 
-function efx_mtd_rename void | efx struct efx_nic *

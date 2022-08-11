@@ -1,0 +1,2 @@
+struct mlx5_wq_cyc | cur_sz int | wqe_ctr int 
+function mlx5_wq_cyc_push_n void | wq struct mlx5_wq_cyc * | n long

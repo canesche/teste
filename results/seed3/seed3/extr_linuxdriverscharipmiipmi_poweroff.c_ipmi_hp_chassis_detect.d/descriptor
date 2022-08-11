@@ -1,0 +1,2 @@
+struct ipmi_user | dummy int 
+function ipmi_hp_chassis_detect int | user struct ipmi_user *

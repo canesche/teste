@@ -1,0 +1,4 @@
+struct TYPE_2__ | vendor long | coreid long 
+struct ssb_device | devtypedata void * | id struct TYPE_2__ | bus struct ssb_bus * 
+struct ssb_bus | nr_devices int | devices struct ssb_device * 
+function ssb_set_devtypedata void | dev struct ssb_device * | data void *

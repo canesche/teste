@@ -1,3 +1,0 @@
-struct request_queue | mq_map unsigned long * | queue_hw_ctx struct blk_mq_hw_ctx ** 
-struct blk_mq_hw_ctx | dummy int 
-function blk_mq_map_queue struct blk_mq_hw_ctx * | q struct request_queue * | cpu int

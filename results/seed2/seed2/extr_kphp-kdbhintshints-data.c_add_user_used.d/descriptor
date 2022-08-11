@@ -1,0 +1,2 @@
+struct TYPE_4__ | next_used struct TYPE_4__ * | prev_used struct TYPE_4__ * 
+function add_user_used void | u struct TYPE_4__ *

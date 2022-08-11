@@ -1,0 +1,2 @@
+struct wmt_i2c_dev | cmd_status int 
+function wmt_check_status int | i2c_dev struct wmt_i2c_dev *

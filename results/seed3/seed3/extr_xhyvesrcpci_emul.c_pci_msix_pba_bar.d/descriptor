@@ -1,0 +1,3 @@
+struct TYPE_2__ | pba_bar int | table int * 
+struct pci_devinst | pi_msix struct TYPE_2__ 
+function pci_msix_pba_bar int | pi struct pci_devinst *

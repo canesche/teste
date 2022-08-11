@@ -1,0 +1,1 @@
+function tegra_dsi_get_format int | format enum mipi_dsi_pixel_format | fmt enum tegra_dsi_format *

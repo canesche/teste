@@ -1,0 +1,2 @@
+struct mac_iop | status_ctrl int 
+function iop_bypass void | iop volatile struct mac_iop *

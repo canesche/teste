@@ -1,0 +1,2 @@
+struct htc_packet | buf_len unsigned long | endpoint int | buf_start int * | buf int * | pkt_cntxt void * 
+function set_htc_rxpkt_info void | packet struct htc_packet * | context void * | buf int * | len unsigned long | eid enum htc_endpoint_id

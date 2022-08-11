@@ -1,2 +1,0 @@
-struct radeon_encoder | dummy int 
-function radeon_legacy_backlight_init void | encoder struct radeon_encoder *

@@ -1,0 +1,2 @@
+struct ashmem_range | purged long 
+function range_on_lru int | range struct ashmem_range *

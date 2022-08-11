@@ -1,0 +1,4 @@
+struct link_qual | tx_failed long | tx_success long | rx_failed long | rx_success long 
+struct TYPE_2__ | qual struct link_qual 
+struct rt2x00_dev | link struct TYPE_2__ 
+function rt2x00link_reset_qual void | rt2x00dev struct rt2x00_dev *

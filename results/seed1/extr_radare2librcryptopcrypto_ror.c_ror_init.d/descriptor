@@ -1,2 +1,0 @@
-struct ror_state | key_size int | key int * 
-function ror_init int | state struct ror_state *const | key const int * | keylen int

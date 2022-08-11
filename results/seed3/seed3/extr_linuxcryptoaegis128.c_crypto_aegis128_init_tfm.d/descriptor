@@ -1,0 +1,2 @@
+struct crypto_aead | dummy int 
+function crypto_aegis128_init_tfm int | tfm struct crypto_aead *

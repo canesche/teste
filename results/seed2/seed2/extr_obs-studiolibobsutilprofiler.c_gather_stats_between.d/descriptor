@@ -1,0 +1,3 @@
+struct TYPE_5__ | num unsigned long | array struct TYPE_4__ * 
+struct TYPE_4__ | time_delta double | count long 
+function gather_stats_between void | entries struct TYPE_5__ * | calls double | lower_bound double | upper_bound double | min_ double | max_ double | median double * | percent double * | lower double * | higher double *

@@ -1,0 +1,2 @@
+struct utf8_table | lmask long | shift int | cval long | cmask long 
+function utf8_wctomb int | s int * | wc long | maxlen int

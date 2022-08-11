@@ -1,0 +1,2 @@
+struct regulatory_request | dummy int 
+function reg_ignore_cell_hint enum reg_request_treatment | pending_request struct regulatory_request *

@@ -1,2 +1,0 @@
-struct edt_ft5x06_ts_data | dummy int 
-function edt_ft5x06_ts_prepare_debugfs void | tsdata struct edt_ft5x06_ts_data * | debugfs_name const char *

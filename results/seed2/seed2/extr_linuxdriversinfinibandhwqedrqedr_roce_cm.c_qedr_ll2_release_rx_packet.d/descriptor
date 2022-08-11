@@ -1,0 +1,1 @@
+function qedr_ll2_release_rx_packet void | cxt void * | connection_handle int | cookie void * | rx_buf_addr int | b_last_packet int

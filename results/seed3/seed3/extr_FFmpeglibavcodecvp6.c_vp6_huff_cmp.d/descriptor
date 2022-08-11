@@ -1,0 +1,2 @@
+struct TYPE_2__ | count int | sym int 
+function vp6_huff_cmp int | va const void * | vb const void *

@@ -1,0 +1,2 @@
+struct pmac_i2c_pf_inst | quirks int | scratch int * | buffer const int * 
+function pmac_i2c_do_apply_rmw void | inst struct pmac_i2c_pf_inst * | len int | mask const int * | val const int *

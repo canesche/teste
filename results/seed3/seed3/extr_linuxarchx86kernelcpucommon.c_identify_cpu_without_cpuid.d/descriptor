@@ -1,0 +1,2 @@
+struct cpuinfo_x86 | dummy int 
+function identify_cpu_without_cpuid void | c struct cpuinfo_x86 *

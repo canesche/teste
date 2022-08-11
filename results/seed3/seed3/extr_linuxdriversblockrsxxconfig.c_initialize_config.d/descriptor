@@ -1,0 +1,5 @@
+struct TYPE_4__ | latency long | count long | mode int 
+struct TYPE_6__ | cache_order int | intr_coal struct TYPE_4__ | vendor_id int | stripe_size void * | block_size void * 
+struct TYPE_5__ | version int 
+struct rsxx_card_cfg | data struct TYPE_6__ | hdr struct TYPE_5__ 
+function initialize_config void | cfg struct rsxx_card_cfg *

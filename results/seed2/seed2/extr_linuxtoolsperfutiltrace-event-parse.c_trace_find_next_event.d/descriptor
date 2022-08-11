@@ -1,0 +1,3 @@
+struct tep_handle | nr_events int | events struct event_format ** 
+struct event_format | dummy int 
+function trace_find_next_event struct event_format * | pevent struct tep_handle * | event struct event_format *

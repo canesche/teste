@@ -1,0 +1,4 @@
+struct TYPE_3__ | funcs int * 
+struct optc | min_h_blank int | min_v_blank int | min_v_blank_interlace int | min_h_sync_width int | min_v_sync_width int | tg_mask struct TYPE_4__ * | max_v_total long | max_h_total long | base struct TYPE_3__ 
+struct TYPE_4__ | OTG_V_TOTAL long | OTG_H_TOTAL long 
+function dcn10_timing_generator_init void | optc1 struct optc *

@@ -1,0 +1,2 @@
+struct mlxsw_sx | ports int ** 
+function mlxsw_sx_port_created int | mlxsw_sx struct mlxsw_sx * | local_port unsigned long

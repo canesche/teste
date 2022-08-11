@@ -1,0 +1,2 @@
+struct gb_operation_msg_hdr | pad int * 
+function gb_message_cport_pack void | header struct gb_operation_msg_hdr * | cport_id int

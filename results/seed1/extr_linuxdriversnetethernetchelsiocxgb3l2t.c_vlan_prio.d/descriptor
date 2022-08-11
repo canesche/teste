@@ -1,2 +1,0 @@
-struct l2t_entry | vlan int 
-function vlan_prio unsigned int | e const struct l2t_entry *

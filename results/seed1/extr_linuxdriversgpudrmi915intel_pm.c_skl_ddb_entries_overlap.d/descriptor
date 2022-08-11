@@ -1,2 +1,0 @@
-struct skl_ddb_entry | start long | end long 
-function skl_ddb_entries_overlap int | a const struct skl_ddb_entry * | b const struct skl_ddb_entry *

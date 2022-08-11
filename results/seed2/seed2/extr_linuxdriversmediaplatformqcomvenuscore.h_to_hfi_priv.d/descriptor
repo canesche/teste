@@ -1,0 +1,2 @@
+struct venus_core | priv void * 
+function to_hfi_priv void * | core struct venus_core *

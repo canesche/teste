@@ -1,3 +1,0 @@
-struct TYPE_4__ | Length int | Buffer int * 
-struct TYPE_5__ | PathNameU struct TYPE_4__ 
-function vfatFCBIsRoot int | FCB struct TYPE_5__ *

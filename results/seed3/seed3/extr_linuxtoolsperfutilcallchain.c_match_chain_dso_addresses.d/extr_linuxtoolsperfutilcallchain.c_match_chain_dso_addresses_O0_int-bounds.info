@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxtoolsperfutilcallchain.c_match_chain_dso_addresses.d/extr_linuxtoolsperfutilcallchain.c_match_chain_dso_addresses_O0::match_chain_dso_addresses(68)"
+  }
+]

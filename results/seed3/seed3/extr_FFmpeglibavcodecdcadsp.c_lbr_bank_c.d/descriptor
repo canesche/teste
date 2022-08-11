@@ -1,0 +1,1 @@
+function lbr_bank_c void | output float [32][4] | input float ** | coeff const float * | ofs int | len int

@@ -1,0 +1,3 @@
+struct scb | io_ctx struct TYPE_2__ * 
+struct TYPE_2__ | sc_data_direction int 
+function ahc_get_transfer_dir int | scb struct scb *

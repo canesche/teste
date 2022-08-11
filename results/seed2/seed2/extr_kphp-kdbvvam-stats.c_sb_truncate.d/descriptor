@@ -1,0 +1,2 @@
+struct TYPE_3__ | buff char * | size int | pos int 
+function sb_truncate void | sb struct TYPE_3__ *

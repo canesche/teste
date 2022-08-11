@@ -1,0 +1,3 @@
+struct sec_platform_data | dummy int 
+struct device | dummy int 
+function sec_pmic_i2c_parse_dt_pdata struct sec_platform_data * | dev struct device *

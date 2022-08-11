@@ -1,0 +1,4 @@
+struct scsi_ctrl_blk | opcode long | tagmsg long | target unsigned long | next struct scsi_ctrl_blk * 
+struct initio_host | act_tags long * | max_tags long * | targets struct TYPE_2__ * | first_pending struct scsi_ctrl_blk * 
+struct TYPE_2__ | flags int 
+function initio_find_first_pend_scb struct scsi_ctrl_blk * | host struct initio_host *

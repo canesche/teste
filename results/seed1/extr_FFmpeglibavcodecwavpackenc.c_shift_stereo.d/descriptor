@@ -1,1 +1,0 @@
-function shift_stereo void | left int * | right int * | nb_samples int | shift int

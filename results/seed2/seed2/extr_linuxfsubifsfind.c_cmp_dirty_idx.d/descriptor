@@ -1,0 +1,2 @@
+struct ubifs_lprops | dirty int | free int 
+function cmp_dirty_idx int | a const struct ubifs_lprops ** | b const struct ubifs_lprops **

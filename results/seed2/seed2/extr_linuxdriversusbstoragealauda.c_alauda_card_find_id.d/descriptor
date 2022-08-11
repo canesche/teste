@@ -1,0 +1,2 @@
+struct alauda_card_info | id unsigned char 
+function alauda_card_find_id struct alauda_card_info * | id unsigned char

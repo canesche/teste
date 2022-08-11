@@ -1,0 +1,2 @@
+struct hda_codec | dummy int 
+function snd_hda_codec_proc_new int | codec struct hda_codec *

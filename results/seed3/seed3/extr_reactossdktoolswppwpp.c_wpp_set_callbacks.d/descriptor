@@ -1,0 +1,2 @@
+struct wpp_callbacks | dummy int 
+function wpp_set_callbacks void | callbacks const struct wpp_callbacks *

@@ -1,2 +1,0 @@
-struct lbs_private | mesh_channel long 
-function lbs_mesh_get_channel int | priv struct lbs_private *

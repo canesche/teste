@@ -1,0 +1,3 @@
+struct mlxsw_sp_nexthop_group | priv struct fib_info * 
+struct fib_info | dummy int 
+function mlxsw_sp_nexthop4_group_fi struct fib_info * | nh_grp const struct mlxsw_sp_nexthop_group *

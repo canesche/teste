@@ -1,0 +1,2 @@
+struct sprd_dma_desc | dummy int 
+function sprd_dma_check_trans_done int | sdesc struct sprd_dma_desc * | int_type enum sprd_dma_int_type | req_mode enum sprd_dma_req_mode

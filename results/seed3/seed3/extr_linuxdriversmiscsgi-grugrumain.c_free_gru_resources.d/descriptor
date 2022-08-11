@@ -1,0 +1,3 @@
+struct gru_thread_state | ts_dsr_map int | ts_cbr_map int 
+struct gru_state | gs_dsr_map int | gs_cbr_map int | gs_active_contexts int 
+function free_gru_resources void | gru struct gru_state * | gts struct gru_thread_state *

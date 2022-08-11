@@ -1,2 +1,0 @@
-struct dsu_pmu | num_counters long 
-function dsu_pmu_counter_valid int | dsu_pmu struct dsu_pmu * | idx long

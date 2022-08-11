@@ -1,0 +1,2 @@
+struct ssb_bus | dummy int 
+function ssb_gpio_irq_chipco_domain_init int | bus struct ssb_bus *

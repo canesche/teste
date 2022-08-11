@@ -1,0 +1,2 @@
+struct hw | chip_type int 
+function daio_device_index unsigned int | type enum DAIOTYP | hw struct hw *

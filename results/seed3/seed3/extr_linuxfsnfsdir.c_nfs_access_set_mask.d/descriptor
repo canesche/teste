@@ -1,0 +1,2 @@
+struct nfs_access_entry | mask int 
+function nfs_access_set_mask void | entry struct nfs_access_entry * | access_result int

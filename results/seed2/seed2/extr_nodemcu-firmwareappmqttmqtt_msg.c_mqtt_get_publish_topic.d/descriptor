@@ -1,0 +1,1 @@
+function mqtt_get_publish_topic const char * | buffer int * | buffer_length int *

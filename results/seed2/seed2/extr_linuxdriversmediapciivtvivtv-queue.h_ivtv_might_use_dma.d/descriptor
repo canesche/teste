@@ -1,0 +1,2 @@
+struct ivtv_stream | dma long 
+function ivtv_might_use_dma int | s struct ivtv_stream *

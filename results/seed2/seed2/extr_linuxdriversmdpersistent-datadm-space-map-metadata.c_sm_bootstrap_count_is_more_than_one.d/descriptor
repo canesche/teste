@@ -1,0 +1,2 @@
+struct dm_space_map | dummy int 
+function sm_bootstrap_count_is_more_than_one int | sm struct dm_space_map * | b int | result int *

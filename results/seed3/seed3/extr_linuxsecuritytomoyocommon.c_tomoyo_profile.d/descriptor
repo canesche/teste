@@ -1,0 +1,3 @@
+struct tomoyo_profile | dummy int 
+struct tomoyo_policy_namespace | profile_ptr struct tomoyo_profile ** 
+function tomoyo_profile struct tomoyo_profile * | ns const struct tomoyo_policy_namespace * | profile const unsigned long

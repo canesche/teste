@@ -1,0 +1,6 @@
+struct TYPE_11__ | var_info struct TYPE_8__ * 
+struct TYPE_10__ | var long 
+struct TYPE_9__ | var long 
+struct TYPE_12__ | opcode long | op1_type long | op2_type long | extended_value long | op1 struct TYPE_10__ | op2 struct TYPE_9__ 
+struct TYPE_8__ | type long 
+function opline_supports_assign_contraction int | ssa struct TYPE_11__ * | opline struct TYPE_12__ * | src_var int | cv_var long

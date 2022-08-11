@@ -1,3 +1,0 @@
-struct rq | dummy int 
-struct cpuidle_state | dummy int 
-function idle_get_state struct cpuidle_state * | rq struct rq *

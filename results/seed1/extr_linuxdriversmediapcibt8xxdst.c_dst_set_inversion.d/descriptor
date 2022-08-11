@@ -1,2 +1,0 @@
-struct dst_state | inversion int | tx_tuna int * 
-function dst_set_inversion int | state struct dst_state * | inversion enum fe_spectral_inversion

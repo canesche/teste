@@ -1,0 +1,2 @@
+struct madera | type int | num_micbias int | num_childbias int * 
+function madera_set_micbias_info void | madera struct madera *

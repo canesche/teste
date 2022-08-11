@@ -1,0 +1,3 @@
+struct super_block | s_fs_info struct ecryptfs_sb_info * 
+struct ecryptfs_sb_info | dummy int 
+function ecryptfs_set_superblock_private void | sb struct super_block * | sb_info struct ecryptfs_sb_info *

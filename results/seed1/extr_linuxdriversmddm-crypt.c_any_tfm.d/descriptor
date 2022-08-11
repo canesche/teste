@@ -1,4 +1,0 @@
-struct crypto_skcipher | dummy int 
-struct TYPE_2__ | tfms struct crypto_skcipher ** 
-struct crypt_config | cipher_tfm struct TYPE_2__ 
-function any_tfm struct crypto_skcipher * | cc struct crypt_config *

@@ -1,0 +1,2 @@
+struct adf_etr_ring_data | dummy int 
+function adf_ring_debugfs_add int | ring struct adf_etr_ring_data * | name const char *

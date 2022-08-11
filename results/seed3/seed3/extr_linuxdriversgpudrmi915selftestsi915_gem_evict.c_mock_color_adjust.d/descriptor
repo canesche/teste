@@ -1,0 +1,2 @@
+struct drm_mm_node | dummy int 
+function mock_color_adjust void | node const struct drm_mm_node * | color unsigned long | start int * | end int *

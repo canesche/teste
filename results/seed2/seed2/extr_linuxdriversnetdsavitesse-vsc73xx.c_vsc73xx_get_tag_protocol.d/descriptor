@@ -1,0 +1,2 @@
+struct dsa_switch | dummy int 
+function vsc73xx_get_tag_protocol enum dsa_tag_protocol | ds struct dsa_switch * | port int

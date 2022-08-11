@@ -1,0 +1,3 @@
+struct tty_struct | dummy int 
+struct inode | dummy int 
+function tty_paranoia_check int | tty struct tty_struct * | inode struct inode * | routine const char *

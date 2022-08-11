@@ -1,0 +1,2 @@
+struct atafb_par | dummy int 
+function ext_set_par void | par struct atafb_par *

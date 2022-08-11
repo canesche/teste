@@ -1,0 +1,4 @@
+struct wiphy | bands struct ieee80211_supported_band ** 
+struct ieee80211_supported_band | n_channels int | channels struct ieee80211_channel * 
+struct ieee80211_channel | center_freq int 
+function ieee80211_get_channel struct ieee80211_channel * | wiphy struct wiphy * | freq int

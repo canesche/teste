@@ -1,3 +1,0 @@
-struct vmci_transport_send_notify_data | dummy int 
-struct sock | dummy int 
-function vmci_transport_notify_pkt_send_pre_enqueue int | sk struct sock * | data struct vmci_transport_send_notify_data *

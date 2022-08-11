@@ -1,0 +1,4 @@
+struct platform_device | dummy int 
+struct bbc_i2c_bus | devs struct TYPE_2__ * 
+struct TYPE_2__ | client_claimed int | device struct platform_device * 
+function set_device_claimage void | bp struct bbc_i2c_bus * | op struct platform_device * | val int

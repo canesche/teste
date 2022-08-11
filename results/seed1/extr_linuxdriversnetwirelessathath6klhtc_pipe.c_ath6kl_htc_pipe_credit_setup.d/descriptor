@@ -1,3 +1,0 @@
-struct htc_target | dummy int 
-struct ath6kl_htc_credit_info | dummy int 
-function ath6kl_htc_pipe_credit_setup int | target struct htc_target * | info struct ath6kl_htc_credit_info *

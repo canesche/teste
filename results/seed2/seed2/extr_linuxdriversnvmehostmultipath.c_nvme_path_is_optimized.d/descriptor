@@ -1,0 +1,3 @@
+struct nvme_ns | ana_state long | ctrl struct TYPE_2__ * 
+struct TYPE_2__ | state long 
+function nvme_path_is_optimized int | ns struct nvme_ns *

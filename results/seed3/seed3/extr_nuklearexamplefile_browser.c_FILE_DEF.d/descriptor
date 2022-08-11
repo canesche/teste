@@ -1,0 +1,2 @@
+struct file | type int | suffix const char * | group int 
+function FILE_DEF struct file | type enum file_types | suffix const char * | group enum file_groups

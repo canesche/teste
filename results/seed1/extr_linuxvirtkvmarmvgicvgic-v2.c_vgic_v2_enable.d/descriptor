@@ -1,5 +1,0 @@
-struct TYPE_4__ | vgic_hcr int | vgic_vmcr long 
-struct TYPE_5__ | vgic_v2 struct TYPE_4__ 
-struct TYPE_6__ | vgic_cpu struct TYPE_5__ 
-struct kvm_vcpu | arch struct TYPE_6__ 
-function vgic_v2_enable void | vcpu struct kvm_vcpu *

@@ -1,0 +1,2 @@
+struct news_gather_extra | user_mode int 
+function news_use_preget_query int | extra void *

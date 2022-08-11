@@ -1,2 +1,0 @@
-struct arm_lpae_io_pgtable | pg_shift int 
-function iopte_to_paddr int | pte int | data struct arm_lpae_io_pgtable *

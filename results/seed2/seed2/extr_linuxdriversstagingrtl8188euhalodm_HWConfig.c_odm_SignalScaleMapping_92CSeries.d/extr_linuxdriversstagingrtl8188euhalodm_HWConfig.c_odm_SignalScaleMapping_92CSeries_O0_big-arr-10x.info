@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversstagingrtl8188euhalodm_HWConfig.c_odm_SignalScaleMapping_92CSeries.d/extr_linuxdriversstagingrtl8188euhalodm_HWConfig.c_odm_SignalScaleMapping_92CSeries_O0::odm_SignalScaleMapping_92CSeries(62)"
+  }
+]

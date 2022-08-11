@@ -1,0 +1,2 @@
+struct dc_info_packet | sb unsigned long * | valid long 
+function patch_gamut_packet_checksum void | gamut_packet struct dc_info_packet *

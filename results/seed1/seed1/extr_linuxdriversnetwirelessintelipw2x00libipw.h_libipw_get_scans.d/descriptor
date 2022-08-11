@@ -1,0 +1,2 @@
+struct libipw_device | scans int 
+function libipw_get_scans int | ieee struct libipw_device *

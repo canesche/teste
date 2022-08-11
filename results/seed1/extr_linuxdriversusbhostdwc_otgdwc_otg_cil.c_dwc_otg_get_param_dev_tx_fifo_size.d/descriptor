@@ -1,3 +1,0 @@
-struct TYPE_5__ | core_params struct TYPE_4__ * 
-struct TYPE_4__ | dev_tx_fifo_size int * 
-function dwc_otg_get_param_dev_tx_fifo_size int | core_if struct TYPE_5__ * | fifo_num int

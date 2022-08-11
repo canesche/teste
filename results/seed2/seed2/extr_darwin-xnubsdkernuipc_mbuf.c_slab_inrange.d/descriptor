@@ -1,0 +1,2 @@
+struct TYPE_3__ | sl_len unsigned long | sl_base long 
+function slab_inrange int | sp struct TYPE_3__ * | buf void *

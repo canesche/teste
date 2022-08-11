@@ -1,0 +1,2 @@
+struct lola | granularity int 
+function check_gran_clock_compatibility int | chip struct lola * | val unsigned int | freq unsigned int

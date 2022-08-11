@@ -1,0 +1,2 @@
+struct socket | so_flags1 int 
+function soisthrottled int | so struct socket *

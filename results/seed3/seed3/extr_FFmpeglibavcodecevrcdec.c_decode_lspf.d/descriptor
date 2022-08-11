@@ -1,0 +1,3 @@
+struct TYPE_4__ | lsp int * 
+struct TYPE_5__ | bitrate unsigned long | lspf float * | frame struct TYPE_4__ 
+function decode_lspf int | e struct TYPE_5__ *

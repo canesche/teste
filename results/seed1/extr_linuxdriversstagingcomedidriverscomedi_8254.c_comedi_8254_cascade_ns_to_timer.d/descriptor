@@ -1,2 +1,0 @@
-struct comedi_8254 | next_div1 int | next_div2 int | osc_base unsigned int 
-function comedi_8254_cascade_ns_to_timer void | i8254 struct comedi_8254 * | nanosec unsigned int * | flags unsigned int

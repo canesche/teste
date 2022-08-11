@@ -1,0 +1,3 @@
+struct TYPE_5__ | transparency unsigned long | frame struct TYPE_4__ * 
+struct TYPE_4__ | palette_has_changed int | data long * 
+function cdg_load_palette void | cc struct TYPE_5__ * | data int * | low int

@@ -1,0 +1,2 @@
+struct gru_control_block_status | istatus int 
+function gru_get_cb_status int | cb void *

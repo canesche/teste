@@ -1,3 +1,0 @@
-struct mlxfw_dev | dummy int 
-struct firmware | dummy int 
-function mlxfw_firmware_flash int | mlxfw_dev struct mlxfw_dev * | firmware const struct firmware *

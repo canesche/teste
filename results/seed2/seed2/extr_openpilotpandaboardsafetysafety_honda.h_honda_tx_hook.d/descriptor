@@ -1,0 +1,2 @@
+struct TYPE_3__ | RIR int | RDLR int | RDTR int 
+function honda_tx_hook int | to_send struct TYPE_3__ *

@@ -1,0 +1,1 @@
+function sycc_to_rgb void | offset int | upb int | y int | cb int | cr int | out_r int * | out_g int * | out_b int *

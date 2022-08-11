@@ -1,0 +1,2 @@
+struct TYPE_3__ | edges int | mb_x int | mb_y int | mb_width int | chroma_orient int | prediction_table int * | raw_orient long 
+function x8_get_prediction_chroma void | w struct TYPE_3__ *const

@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function r128_driver_irq_postinstall int | dev struct drm_device *

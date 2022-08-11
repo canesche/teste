@@ -1,0 +1,3 @@
+struct fb_info | pseudo_palette long 
+struct fb_image | data unsigned char * | width int 
+function mb86290fb_imageblit8 void | cmd int * | step int | dx int | dy int | width int | height int | fgcolor int | bgcolor int | image const struct fb_image * | info struct fb_info *

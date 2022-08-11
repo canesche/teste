@@ -1,0 +1,1 @@
+function maskedmerge16 void | bbsrc const int * | oosrc const int * | mmsrc const int * | ddst int * | blinesize int | olinesize int | mlinesize int | dlinesize int | w int | h int | half int | shift int

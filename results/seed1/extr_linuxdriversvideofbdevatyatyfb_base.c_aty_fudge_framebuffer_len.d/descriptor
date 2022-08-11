@@ -1,4 +1,0 @@
-struct TYPE_2__ | smem_len int 
-struct fb_info | fix struct TYPE_2__ | par long 
-struct atyfb_par | bus_type long | aux_start int 
-function aty_fudge_framebuffer_len void | info struct fb_info *

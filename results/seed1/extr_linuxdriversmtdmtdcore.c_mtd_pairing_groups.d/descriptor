@@ -1,3 +1,0 @@
-struct mtd_info | pairing struct TYPE_2__ * 
-struct TYPE_2__ | ngroups int 
-function mtd_pairing_groups int | mtd struct mtd_info *

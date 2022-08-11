@@ -1,0 +1,2 @@
+struct TYPE_3__ | data unsigned char * | length int 
+function ASN1_BIT_STRING_check int | a const struct TYPE_3__ * | flags const unsigned char * | flags_len int

@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct ieee80211_device | mgmt_queue_tail unsigned long | mgmt_queue_head unsigned long | mgmt_queue_ring struct sk_buff ** 
+function dequeue_mgmt struct sk_buff * | ieee struct ieee80211_device *

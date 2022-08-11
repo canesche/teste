@@ -1,0 +1,2 @@
+struct exception_table_entry | handler long 
+function ex_fixup_handler int | x const struct exception_table_entry *

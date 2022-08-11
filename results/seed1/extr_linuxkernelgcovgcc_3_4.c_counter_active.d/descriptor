@@ -1,2 +1,0 @@
-struct gcov_info | ctr_mask int 
-function counter_active int | info struct gcov_info * | type unsigned int

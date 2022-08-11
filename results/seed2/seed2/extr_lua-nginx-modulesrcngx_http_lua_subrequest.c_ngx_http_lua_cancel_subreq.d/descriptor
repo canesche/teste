@@ -1,0 +1,5 @@
+struct TYPE_8__ | parent int | connection struct TYPE_6__ * | main struct TYPE_7__ * 
+struct TYPE_9__ | next struct TYPE_9__ * 
+struct TYPE_7__ | posted_requests struct TYPE_9__ * | subrequests int | count int 
+struct TYPE_6__ | data int 
+function ngx_http_lua_cancel_subreq void | r struct TYPE_8__ *

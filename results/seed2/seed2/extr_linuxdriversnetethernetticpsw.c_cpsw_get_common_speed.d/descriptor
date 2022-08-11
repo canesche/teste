@@ -1,0 +1,5 @@
+struct TYPE_4__ | slaves int 
+struct cpsw_common | slaves struct TYPE_6__ * | data struct TYPE_4__ 
+struct TYPE_6__ | phy struct TYPE_5__ * 
+struct TYPE_5__ | speed long | link long 
+function cpsw_get_common_speed int | cpsw struct cpsw_common *

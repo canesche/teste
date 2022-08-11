@@ -1,2 +1,0 @@
-struct hash_ipport4_elem | ip long | port long | proto long 
-function hash_ipport4_data_equal int | ip1 const struct hash_ipport4_elem * | ip2 const struct hash_ipport4_elem * | multi int *

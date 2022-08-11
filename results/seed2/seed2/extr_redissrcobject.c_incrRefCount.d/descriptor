@@ -1,0 +1,2 @@
+struct TYPE_3__ | refcount long 
+function incrRefCount void | o struct TYPE_3__ *

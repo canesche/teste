@@ -1,6 +1,0 @@
-struct TYPE_4__ | numerator int | denominator int 
-struct TYPE_5__ | readbuffers int | timeperframe struct TYPE_4__ 
-struct TYPE_6__ | capture struct TYPE_5__ 
-struct v4l2_streamparm | parm struct TYPE_6__ 
-struct file | dummy int 
-function stk_vidioc_g_parm int | filp struct file * | priv void * | sp struct v4l2_streamparm *

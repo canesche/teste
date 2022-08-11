@@ -1,2 +1,0 @@
-struct qed_hwfn | dummy int 
-function qed_vf_get_fw_version void | p_hwfn struct qed_hwfn * | fw_major int * | fw_minor int * | fw_rev int * | fw_eng int *

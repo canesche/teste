@@ -1,2 +1,0 @@
-struct bcma_drv_cc | dummy int 
-function bcma_gpio_unregister int | cc struct bcma_drv_cc *

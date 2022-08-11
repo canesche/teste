@@ -1,0 +1,3 @@
+struct TYPE_4__ | devices_cnt int 
+struct TYPE_5__ | opencl_ctx struct TYPE_4__ * 
+function status_get_device_info_cnt int | hashcat_ctx const struct TYPE_5__ *

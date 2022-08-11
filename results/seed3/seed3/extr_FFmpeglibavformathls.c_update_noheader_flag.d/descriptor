@@ -1,0 +1,4 @@
+struct playlist | has_noheader_flag long 
+struct TYPE_5__ | ctx_flags int | priv_data struct TYPE_4__ * 
+struct TYPE_4__ | n_playlists int | playlists struct playlist ** 
+function update_noheader_flag void | s struct TYPE_5__ *

@@ -1,2 +1,0 @@
-struct blogic_byte_count | units unsigned int | billions int 
-function blogic_addcount void | bytecount struct blogic_byte_count * | amount unsigned int

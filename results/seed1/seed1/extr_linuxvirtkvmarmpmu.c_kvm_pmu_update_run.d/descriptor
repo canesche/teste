@@ -1,0 +1,7 @@
+struct TYPE_7__ | irq_level long 
+struct TYPE_8__ | pmu struct TYPE_7__ 
+struct kvm_vcpu | arch struct TYPE_8__ | run struct TYPE_6__ * 
+struct kvm_sync_regs | device_irq_level int 
+struct TYPE_5__ | regs struct kvm_sync_regs 
+struct TYPE_6__ | s struct TYPE_5__ 
+function kvm_pmu_update_run void | vcpu struct kvm_vcpu *

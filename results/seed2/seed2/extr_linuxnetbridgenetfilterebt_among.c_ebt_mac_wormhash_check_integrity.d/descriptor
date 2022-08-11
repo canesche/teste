@@ -1,0 +1,2 @@
+struct ebt_mac_wormhash | table long * | poolsize long 
+function ebt_mac_wormhash_check_integrity int | wh const struct ebt_mac_wormhash *

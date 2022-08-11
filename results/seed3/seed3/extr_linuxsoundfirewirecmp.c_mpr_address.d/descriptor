@@ -1,0 +1,2 @@
+struct cmp_connection | direction long 
+function mpr_address long | c struct cmp_connection *

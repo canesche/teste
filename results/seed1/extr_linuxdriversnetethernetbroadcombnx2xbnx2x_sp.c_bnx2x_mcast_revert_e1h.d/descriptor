@@ -1,3 +1,0 @@
-struct bnx2x_mcast_ramrod_params | dummy int 
-struct bnx2x | dummy int 
-function bnx2x_mcast_revert_e1h void | bp struct bnx2x * | p struct bnx2x_mcast_ramrod_params * | old_num_bins int | cmd enum bnx2x_mcast_cmd

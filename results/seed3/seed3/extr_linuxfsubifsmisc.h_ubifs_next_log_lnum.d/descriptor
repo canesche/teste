@@ -1,0 +1,2 @@
+struct ubifs_info | log_last int 
+function ubifs_next_log_lnum int | c const struct ubifs_info * | lnum int

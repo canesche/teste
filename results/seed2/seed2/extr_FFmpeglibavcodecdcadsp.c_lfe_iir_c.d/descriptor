@@ -1,0 +1,1 @@
+function lfe_iir_c void | output float * | input const float * | iir float const[5][4] | hist float [5][2] | factor int

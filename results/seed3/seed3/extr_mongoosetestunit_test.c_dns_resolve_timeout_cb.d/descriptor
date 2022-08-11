@@ -1,0 +1,2 @@
+struct mg_dns_message | dummy int 
+function dns_resolve_timeout_cb void | msg struct mg_dns_message * | data void * | e enum mg_resolve_err

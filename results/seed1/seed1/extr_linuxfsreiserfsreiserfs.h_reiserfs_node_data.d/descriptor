@@ -1,0 +1,3 @@
+struct buffer_head | b_data void * 
+struct block_head | dummy int 
+function reiserfs_node_data void * | bh const struct buffer_head *

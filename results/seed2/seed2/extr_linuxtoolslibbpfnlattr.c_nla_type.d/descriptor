@@ -1,0 +1,2 @@
+struct nlattr | nla_type int 
+function nla_type int | nla const struct nlattr *

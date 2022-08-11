@@ -1,3 +1,0 @@
-struct sk_buff | dummy int 
-struct scm_cookie | dummy int 
-function unix_secdata_eq int | scm struct scm_cookie * | skb struct sk_buff *

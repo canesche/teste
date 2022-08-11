@@ -1,3 +1,0 @@
-struct usb_hcd | hcd_priv long 
-struct uhci_hcd | dummy int 
-function hcd_to_uhci struct uhci_hcd * | hcd struct usb_hcd *

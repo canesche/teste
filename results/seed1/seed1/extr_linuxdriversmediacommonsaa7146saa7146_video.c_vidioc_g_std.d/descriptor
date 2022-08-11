@@ -1,0 +1,6 @@
+struct saa7146_vv | standard struct TYPE_2__ * 
+struct saa7146_fh | dev struct saa7146_dev * 
+struct saa7146_dev | vv_data struct saa7146_vv * 
+struct file | dummy int 
+struct TYPE_2__ | id int 
+function vidioc_g_std int | file struct file * | fh void * | norm int *

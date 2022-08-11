@@ -1,2 +1,0 @@
-struct TYPE_3__ | fpmask int * 
-function qr_sampling_grid_fp_mask_rect void | _grid struct TYPE_3__ * | _dim int | _u int | _v int | _w int | _h int

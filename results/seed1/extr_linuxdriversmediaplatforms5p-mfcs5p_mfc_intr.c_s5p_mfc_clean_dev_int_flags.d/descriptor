@@ -1,2 +1,0 @@
-struct s5p_mfc_dev | int_err long | int_type long | int_cond long 
-function s5p_mfc_clean_dev_int_flags void | dev struct s5p_mfc_dev *

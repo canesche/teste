@@ -1,2 +1,0 @@
-struct clock_event_device | dummy int 
-function ckevt_dc21285_set_next_event int | delta unsigned long | c struct clock_event_device *

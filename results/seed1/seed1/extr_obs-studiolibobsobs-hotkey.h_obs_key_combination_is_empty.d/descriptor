@@ -1,0 +1,2 @@
+struct TYPE_3__ | key long | modifiers int 
+function obs_key_combination_is_empty int | combo struct TYPE_3__

@@ -1,2 +1,0 @@
-struct il_scale_tbl_info | expected_tpt int * 
-function il4965_get_expected_tpt int | tbl struct il_scale_tbl_info * | rs_idx int

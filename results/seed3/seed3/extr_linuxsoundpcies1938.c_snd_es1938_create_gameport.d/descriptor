@@ -1,0 +1,2 @@
+struct es1938 | dummy int 
+function snd_es1938_create_gameport int | chip struct es1938 *

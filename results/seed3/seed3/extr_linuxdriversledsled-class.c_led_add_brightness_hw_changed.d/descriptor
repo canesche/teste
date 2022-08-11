@@ -1,0 +1,2 @@
+struct led_classdev | dummy int 
+function led_add_brightness_hw_changed int | led_cdev struct led_classdev *

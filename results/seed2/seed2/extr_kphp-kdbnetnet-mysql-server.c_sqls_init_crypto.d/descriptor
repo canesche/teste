@@ -1,0 +1,2 @@
+struct connection | dummy int 
+function sqls_init_crypto int | c struct connection * | init_buff char * | init_len int

@@ -1,0 +1,2 @@
+struct monitor_map | sense int | vmode int 
+function mac_map_monitor_sense int | sense int

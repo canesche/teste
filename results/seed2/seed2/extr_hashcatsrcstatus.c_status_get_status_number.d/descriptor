@@ -1,0 +1,3 @@
+struct TYPE_4__ | devices_status int 
+struct TYPE_5__ | status_ctx struct TYPE_4__ * 
+function status_get_status_number int | hashcat_ctx const struct TYPE_5__ *

@@ -1,0 +1,5 @@
+struct TYPE_9__ | friendlist struct TYPE_8__ * 
+struct TYPE_8__ | file_receiving struct TYPE_6__ * | file_sending struct TYPE_7__ * 
+struct TYPE_7__ | status long 
+struct TYPE_6__ | status long 
+function break_files void | m const struct TYPE_9__ * | friendnumber unsigned long

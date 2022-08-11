@@ -1,0 +1,2 @@
+struct php_crypt_extended_data | old_rawkey0 int | old_rawkey1 int | de_keysl int * | en_keysl int * | de_keysr int * | en_keysr int * 
+function des_setkey int | key const char * | data struct php_crypt_extended_data *

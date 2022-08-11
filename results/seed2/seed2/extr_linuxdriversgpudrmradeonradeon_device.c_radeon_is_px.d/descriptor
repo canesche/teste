@@ -1,0 +1,3 @@
+struct radeon_device | flags int 
+struct drm_device | dev_private struct radeon_device * 
+function radeon_is_px int | dev struct drm_device *

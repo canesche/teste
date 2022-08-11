@@ -1,1 +1,0 @@
-function _ccv_nnc_set_bitmask int | input_size const int | output_size const int | input_bitmasks const int *const | input_bitmask_size const int | output_bitmasks const int *const | output_bitmask_size const int

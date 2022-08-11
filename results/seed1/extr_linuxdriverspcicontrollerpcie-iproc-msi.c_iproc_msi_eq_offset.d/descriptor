@@ -1,2 +1,0 @@
-struct iproc_msi | nr_eq_region int 
-function iproc_msi_eq_offset unsigned int | msi struct iproc_msi * | eq unsigned int

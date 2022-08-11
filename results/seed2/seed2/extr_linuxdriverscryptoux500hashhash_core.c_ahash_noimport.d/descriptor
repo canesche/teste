@@ -1,0 +1,2 @@
+struct ahash_request | dummy int 
+function ahash_noimport int | req struct ahash_request * | in const void *

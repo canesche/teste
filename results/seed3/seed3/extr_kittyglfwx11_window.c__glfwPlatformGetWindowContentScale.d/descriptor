@@ -1,0 +1,3 @@
+struct TYPE_3__ | contentScaleX float | contentScaleY float 
+struct TYPE_4__ | x11 struct TYPE_3__ 
+function _glfwPlatformGetWindowContentScale void | window int * | xscale float * | yscale float *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | code int 
+struct TYPE_5__ | i struct TYPE_4__ 
+function sizei int | i const struct TYPE_5__ *

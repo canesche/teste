@@ -1,0 +1,2 @@
+struct il_lq_sta | dummy int 
+function il4965_rs_dbgfs_set_mcs void | lq_sta struct il_lq_sta * | rate_n_flags int * | idx int

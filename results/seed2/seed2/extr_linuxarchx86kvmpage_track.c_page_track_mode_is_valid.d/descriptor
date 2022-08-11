@@ -1,0 +1,1 @@
+function page_track_mode_is_valid int | mode enum kvm_page_track_mode

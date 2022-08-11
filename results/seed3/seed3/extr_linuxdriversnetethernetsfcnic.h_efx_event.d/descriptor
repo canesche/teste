@@ -1,0 +1,4 @@
+struct TYPE_3__ | addr long 
+struct TYPE_4__ | buf struct TYPE_3__ 
+struct efx_channel | eventq_mask unsigned int | eventq struct TYPE_4__ 
+function efx_event int * | channel struct efx_channel * | index unsigned int

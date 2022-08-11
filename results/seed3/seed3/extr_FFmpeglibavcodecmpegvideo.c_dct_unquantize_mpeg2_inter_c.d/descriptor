@@ -1,0 +1,3 @@
+struct TYPE_4__ | permutated int * 
+struct TYPE_5__ | block_last_index int * | intra_scantable struct TYPE_4__ | inter_matrix long * | alternate_scan long | q_scale_type long 
+function dct_unquantize_mpeg2_inter_c void | s struct TYPE_5__ * | block int * | n int | qscale int

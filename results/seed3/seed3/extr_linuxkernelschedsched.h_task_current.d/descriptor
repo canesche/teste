@@ -1,0 +1,3 @@
+struct task_struct | dummy int 
+struct rq | curr struct task_struct * 
+function task_current int | rq struct rq * | p struct task_struct *

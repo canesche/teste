@@ -1,0 +1,4 @@
+struct point2d_index | vertex unsigned long | outline struct TYPE_4__ * 
+struct TYPE_4__ | items struct TYPE_3__ * 
+struct TYPE_3__ | pos int 
+function get_indexed_point int * | pt_idx struct point2d_index *

@@ -1,0 +1,1 @@
+function mat_translate void | matrix float * | dx float | dy float | dz float

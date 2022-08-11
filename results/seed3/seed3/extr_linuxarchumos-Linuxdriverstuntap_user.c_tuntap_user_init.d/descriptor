@@ -1,0 +1,2 @@
+struct tuntap_data | dev void * 
+function tuntap_user_init int | data void * | dev void *

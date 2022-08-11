@@ -1,0 +1,3 @@
+struct TYPE_6__ | tag long 
+struct TYPE_5__ | language_count unsigned long | languages struct TYPE_6__ * 
+function usp10_script_get_language struct TYPE_6__ * | script struct TYPE_5__ * | tag long

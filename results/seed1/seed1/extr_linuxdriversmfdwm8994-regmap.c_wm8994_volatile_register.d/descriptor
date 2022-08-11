@@ -1,0 +1,2 @@
+struct device | dummy int 
+function wm8994_volatile_register int | dev struct device * | reg unsigned int

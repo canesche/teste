@@ -1,4 +1,0 @@
-struct thermal_zone_device | devdata struct mlxsw_thermal * 
-struct mlxsw_thermal | trips struct TYPE_2__ * 
-struct TYPE_2__ | temp int 
-function mlxsw_thermal_set_trip_temp int | tzdev struct thermal_zone_device * | trip int | temp int

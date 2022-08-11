@@ -1,2 +1,0 @@
-struct acpiphp_slot | flags int 
-function acpiphp_get_power_status int | slot struct acpiphp_slot *

@@ -1,0 +1,3 @@
+struct sock | dummy int 
+struct raw_sock | dummy int 
+function raw_sk struct raw_sock * | sk const struct sock *

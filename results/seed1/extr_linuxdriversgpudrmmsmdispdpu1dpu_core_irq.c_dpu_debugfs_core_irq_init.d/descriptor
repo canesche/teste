@@ -1,3 +1,0 @@
-struct dpu_kms | dummy int 
-struct dentry | dummy int 
-function dpu_debugfs_core_irq_init int | dpu_kms struct dpu_kms * | parent struct dentry *

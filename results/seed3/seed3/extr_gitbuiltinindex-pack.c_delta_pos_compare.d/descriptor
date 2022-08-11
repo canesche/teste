@@ -1,0 +1,2 @@
+struct ref_delta_entry | obj_no int 
+function delta_pos_compare int | _a const void * | _b const void *

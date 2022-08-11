@@ -1,0 +1,2 @@
+struct TYPE_3__ | last_type int | second_last_type long 
+function InitBlockTypeCodeCalculator void | self struct TYPE_3__ *

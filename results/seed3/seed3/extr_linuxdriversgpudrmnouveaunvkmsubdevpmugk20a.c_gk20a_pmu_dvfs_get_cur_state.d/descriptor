@@ -1,0 +1,6 @@
+struct nvkm_clk | pstate int 
+struct TYPE_5__ | device struct TYPE_4__ * 
+struct TYPE_6__ | subdev struct TYPE_5__ 
+struct gk20a_pmu | base struct TYPE_6__ 
+struct TYPE_4__ | clk struct nvkm_clk * 
+function gk20a_pmu_dvfs_get_cur_state void | pmu struct gk20a_pmu * | state int *

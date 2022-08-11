@@ -1,0 +1,4 @@
+struct TYPE_4__ | auth struct TYPE_3__ * 
+struct ceph_client | monc struct TYPE_4__ 
+struct TYPE_3__ | global_id int 
+function ceph_client_gid int | client struct ceph_client *

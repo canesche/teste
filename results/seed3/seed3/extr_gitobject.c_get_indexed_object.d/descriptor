@@ -1,0 +1,4 @@
+struct object | dummy int 
+struct TYPE_4__ | parsed_objects struct TYPE_3__ * 
+struct TYPE_3__ | obj_hash struct object ** 
+function get_indexed_object struct object * | idx unsigned int

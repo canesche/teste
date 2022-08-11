@@ -1,2 +1,0 @@
-struct in_addr | s_addr int 
-function inet_netof int | in struct in_addr

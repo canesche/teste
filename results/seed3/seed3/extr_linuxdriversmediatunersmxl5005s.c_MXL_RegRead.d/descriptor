@@ -1,0 +1,4 @@
+struct mxl5005s_state | TunerRegs struct TYPE_2__ * 
+struct dvb_frontend | tuner_priv struct mxl5005s_state * 
+struct TYPE_2__ | Reg_Num long | Reg_Val long 
+function MXL_RegRead int | fe struct dvb_frontend * | RegNum long | RegVal long *

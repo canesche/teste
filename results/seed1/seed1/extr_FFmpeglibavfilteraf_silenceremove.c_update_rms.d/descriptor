@@ -1,0 +1,2 @@
+struct TYPE_3__ | sum double | window_current double * | window_end double * | window double * 
+function update_rms void | s struct TYPE_3__ * | sample double

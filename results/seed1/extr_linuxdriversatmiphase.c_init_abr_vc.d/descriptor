@@ -1,3 +1,0 @@
-struct TYPE_5__ | icr int | tbe int | frtt int | rif int | rdf int | nrm int | trm int | cdf int | adtf int | mcr long | pcr int | class_type int 
-struct TYPE_6__ | LineRate int 
-function init_abr_vc void | dev struct TYPE_6__ * | srv_p struct TYPE_5__ *

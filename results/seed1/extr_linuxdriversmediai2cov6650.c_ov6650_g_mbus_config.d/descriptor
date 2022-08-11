@@ -1,3 +1,0 @@
-struct v4l2_subdev | dummy int 
-struct v4l2_mbus_config | flags int | type int 
-function ov6650_g_mbus_config int | sd struct v4l2_subdev * | cfg struct v4l2_mbus_config *

@@ -1,0 +1,4 @@
+struct iwl_trans_config | command_groups_size int | command_groups struct iwl_hcmd_arr * 
+struct iwl_hcmd_arr | size int | arr struct TYPE_2__ * 
+struct TYPE_2__ | cmd_id long 
+function iwl_cmd_groups_verify_sorted int | trans const struct iwl_trans_config *

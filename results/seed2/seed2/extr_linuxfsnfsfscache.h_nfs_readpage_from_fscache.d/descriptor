@@ -1,0 +1,4 @@
+struct page | dummy int 
+struct nfs_open_context | dummy int 
+struct inode | dummy int 
+function nfs_readpage_from_fscache int | ctx struct nfs_open_context * | inode struct inode * | page struct page *

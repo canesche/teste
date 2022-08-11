@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxarchmipstxx9genericirq_tx4939.c_tx4939_irq_set_pri.d/extr_linuxarchmipstxx9genericirq_tx4939.c_tx4939_irq_set_pri_O0::tx4939_irq_set_pri(64)"
+  }
+]

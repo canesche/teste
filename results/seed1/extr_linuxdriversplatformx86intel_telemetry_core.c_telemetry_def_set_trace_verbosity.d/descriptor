@@ -1,1 +1,0 @@
-function telemetry_def_set_trace_verbosity int | telem_unit enum telemetry_unit | verbosity int

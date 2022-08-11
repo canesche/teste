@@ -1,0 +1,3 @@
+struct uvc_frame | wWidth int 
+struct uvc_format | fcc int | bpp int 
+function uvc_v4l2_get_bytesperline int | format const struct uvc_format * | frame const struct uvc_frame *

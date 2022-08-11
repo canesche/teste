@@ -1,0 +1,2 @@
+struct request | dummy int 
+function virtblk_scsi_request_done void | req struct request *

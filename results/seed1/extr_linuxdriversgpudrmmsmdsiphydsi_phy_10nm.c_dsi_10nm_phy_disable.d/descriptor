@@ -1,2 +1,0 @@
-struct msm_dsi_phy | dummy int 
-function dsi_10nm_phy_disable void | phy struct msm_dsi_phy *

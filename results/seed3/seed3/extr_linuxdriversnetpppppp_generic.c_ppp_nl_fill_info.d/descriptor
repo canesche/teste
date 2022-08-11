@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct net_device | dummy int 
+function ppp_nl_fill_info int | skb struct sk_buff * | dev const struct net_device *

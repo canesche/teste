@@ -1,0 +1,1 @@
+function build_table_color void | romtable unsigned int const[16][8] | p0004 unsigned char [16][1024] | p8004 unsigned char [16][256]

@@ -1,0 +1,1 @@
+function AMF_EncodeInt24 char * | output char * | outend char * | nVal int

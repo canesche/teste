@@ -1,0 +1,3 @@
+struct device_attribute | dummy int 
+struct device | dummy int 
+function il3945_show_channels int | d struct device * | attr struct device_attribute * | buf char *

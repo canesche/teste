@@ -1,0 +1,2 @@
+struct pmc_dev | dummy int 
+function pmc_core_dbgfs_unregister void | pmcdev struct pmc_dev *

@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function copy_seccomp void | p struct task_struct *

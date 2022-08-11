@@ -1,3 +1,0 @@
-struct ivtv_stream | dummy int 
-struct ivtv | output_mode int | streams struct ivtv_stream * 
-function ivtv_get_output_stream struct ivtv_stream * | itv struct ivtv *

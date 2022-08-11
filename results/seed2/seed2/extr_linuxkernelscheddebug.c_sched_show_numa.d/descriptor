@@ -1,0 +1,3 @@
+struct task_struct | dummy int 
+struct seq_file | dummy int 
+function sched_show_numa void | p struct task_struct * | m struct seq_file *

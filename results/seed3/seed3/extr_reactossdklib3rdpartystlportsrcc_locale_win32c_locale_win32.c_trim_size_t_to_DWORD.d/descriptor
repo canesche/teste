@@ -1,0 +1,1 @@
+function trim_size_t_to_DWORD long | n unsigned long

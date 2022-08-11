@@ -1,0 +1,2 @@
+struct dpu_kms | dummy int 
+function dpu_debugfs_vbif_destroy void | dpu_kms struct dpu_kms *

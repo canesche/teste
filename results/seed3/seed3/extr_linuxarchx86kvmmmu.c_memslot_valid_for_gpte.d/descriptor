@@ -1,0 +1,2 @@
+struct kvm_memory_slot | flags int | dirty_bitmap long 
+function memslot_valid_for_gpte int | slot struct kvm_memory_slot * | no_dirty_log int

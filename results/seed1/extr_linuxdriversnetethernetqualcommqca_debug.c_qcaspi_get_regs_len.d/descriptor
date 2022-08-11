@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function qcaspi_get_regs_len int | dev struct net_device *

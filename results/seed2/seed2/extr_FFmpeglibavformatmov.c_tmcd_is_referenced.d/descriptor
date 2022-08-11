@@ -1,0 +1,5 @@
+struct TYPE_9__ | nb_streams int | streams struct TYPE_8__ ** 
+struct TYPE_8__ | codecpar struct TYPE_6__ * | priv_data struct TYPE_7__ * 
+struct TYPE_7__ | timecode_track int 
+struct TYPE_6__ | codec_type long 
+function tmcd_is_referenced int | s struct TYPE_9__ * | tmcd_id int

@@ -1,2 +1,0 @@
-struct buffer | ptr int * 
-function write_length void | b struct buffer * | v int | off int

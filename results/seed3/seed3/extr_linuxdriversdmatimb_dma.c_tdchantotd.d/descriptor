@@ -1,0 +1,4 @@
+struct TYPE_2__ | chan_id int 
+struct timb_dma_chan | chan struct TYPE_2__ 
+struct timb_dma | dummy int 
+function tdchantotd struct timb_dma * | td_chan struct timb_dma_chan *

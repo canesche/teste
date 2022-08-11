@@ -1,0 +1,5 @@
+struct pp_hwmgr | pptable long | smu_backend long 
+struct phm_ppt_v1_information | cac_dtp_table struct TYPE_2__ * 
+struct fiji_smumgr | power_tune_defaults int * 
+struct TYPE_2__ | usPowerTuneDataSetID int 
+function fiji_initialize_power_tune_defaults void | hwmgr struct pp_hwmgr *

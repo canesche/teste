@@ -1,0 +1,3 @@
+struct TYPE_7__ | channel_layout long | sample_rate long | format long 
+struct TYPE_6__ | in_ch_layout long | in_sample_rate long | in_sample_fmt long | out_ch_layout long | out_sample_rate long | out_sample_fmt long 
+function config_changed int | s struct TYPE_6__ * | out const struct TYPE_7__ * | in const struct TYPE_7__ *

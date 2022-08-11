@@ -1,0 +1,4 @@
+struct netdev_queue | dummy int 
+struct fm10k_ring | queue_index unsigned long | netdev struct TYPE_2__ * 
+struct TYPE_2__ | _tx struct netdev_queue * 
+function txring_txq struct netdev_queue * | ring const struct fm10k_ring *

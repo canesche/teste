@@ -1,0 +1,4 @@
+struct qlink_mac_address | dummy int 
+struct qlink_acl_data | dummy int 
+struct cfg80211_acl_data | n_acl_entries int 
+function qtnf_cmd_acl_data_size unsigned long | acl const struct cfg80211_acl_data *

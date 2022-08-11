@@ -1,0 +1,4 @@
+struct TYPE_2__ | field int | code int | height int | width int 
+struct v4l2_subdev_format | format struct TYPE_2__ 
+struct ov13858_mode | height int | width int 
+function ov13858_update_pad_format void | mode const struct ov13858_mode * | fmt struct v4l2_subdev_format *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | compressionLevel unsigned int | base int * 
+struct TYPE_5__ | internal_donotuse struct TYPE_4__ 
+function LZ4_resetStreamHC void | LZ4_streamHCPtr struct TYPE_5__ * | compressionLevel int

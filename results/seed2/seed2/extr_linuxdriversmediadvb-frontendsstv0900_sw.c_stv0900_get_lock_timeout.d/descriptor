@@ -1,0 +1,1 @@
+function stv0900_get_lock_timeout void | demod_timeout int * | fec_timeout int * | srate int | algo enum fe_stv0900_search_algo

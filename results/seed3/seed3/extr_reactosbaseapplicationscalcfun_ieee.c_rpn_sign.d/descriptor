@@ -1,0 +1,3 @@
+struct TYPE_4__ | i long | f long 
+struct TYPE_5__ | base long 
+function rpn_sign void | c struct TYPE_4__ *

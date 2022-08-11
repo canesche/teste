@@ -1,2 +1,0 @@
-struct TYPE_2__ | lines_in_hunk unsigned long | final_start_line_number unsigned long 
-function hunk_byfinalline_search_cmp int | key const void * | entry const void *

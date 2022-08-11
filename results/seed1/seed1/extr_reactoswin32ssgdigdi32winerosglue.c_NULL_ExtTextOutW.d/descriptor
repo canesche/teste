@@ -1,0 +1,1 @@
+function NULL_ExtTextOutW int | dev int | x int | y int | fuOptions int | lprc const int * | lpString int | cwc int | lpDx const int *

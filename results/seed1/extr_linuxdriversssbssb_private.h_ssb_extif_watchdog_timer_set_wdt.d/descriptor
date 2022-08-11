@@ -1,2 +1,0 @@
-struct bcm47xx_wdt | dummy int 
-function ssb_extif_watchdog_timer_set_wdt int | wdt struct bcm47xx_wdt * | ticks int

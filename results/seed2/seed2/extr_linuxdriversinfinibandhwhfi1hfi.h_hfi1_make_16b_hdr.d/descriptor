@@ -1,0 +1,2 @@
+struct hfi1_16b_header | lrh int * 
+function hfi1_make_16b_hdr void | hdr struct hfi1_16b_header * | slid int | dlid int | len int | pkey int | becn int | fecn int | l4 int | sc int

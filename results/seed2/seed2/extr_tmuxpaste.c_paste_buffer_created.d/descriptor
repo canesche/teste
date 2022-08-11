@@ -1,0 +1,2 @@
+struct paste_buffer | created int 
+function paste_buffer_created int | pb struct paste_buffer *

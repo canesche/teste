@@ -1,3 +1,0 @@
-struct TYPE_4__ | file_nbr long 
-struct TYPE_5__ | fd_space long | fd_count long 
-function spiffs_fd_return int | fs struct TYPE_5__ * | f int

@@ -1,0 +1,1 @@
+function get_gl_format_type int | format enum gs_color_format

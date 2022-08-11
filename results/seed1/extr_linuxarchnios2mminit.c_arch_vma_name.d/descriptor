@@ -1,2 +1,0 @@
-struct vm_area_struct | vm_start long 
-function arch_vma_name const char * | vma struct vm_area_struct *

@@ -1,0 +1,4 @@
+struct nfsd4_op | status long | opnum unsigned long 
+struct nfsd4_compoundargs | minorversion long | opcnt int | ops struct nfsd4_op * 
+struct TYPE_2__ | op_flags int 
+function nfs41_check_op_ordering int | args struct nfsd4_compoundargs *

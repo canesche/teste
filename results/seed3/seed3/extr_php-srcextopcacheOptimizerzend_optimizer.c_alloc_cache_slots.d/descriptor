@@ -1,0 +1,2 @@
+struct TYPE_3__ | cache_size int 
+function alloc_cache_slots int | op_array struct TYPE_3__ * | num int

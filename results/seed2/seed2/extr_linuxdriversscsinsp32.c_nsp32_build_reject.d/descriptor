@@ -1,0 +1,5 @@
+struct scsi_cmnd | device struct TYPE_5__ * 
+struct TYPE_6__ | msgout_len int | msgoutbuf int * 
+struct TYPE_5__ | host struct TYPE_4__ * 
+struct TYPE_4__ | hostdata long 
+function nsp32_build_reject void | SCpnt struct scsi_cmnd *

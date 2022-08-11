@@ -1,0 +1,2 @@
+struct patch | crlf_in_old int | ws_rule int 
+function check_old_for_crlf void | patch struct patch * | line const char * | len int

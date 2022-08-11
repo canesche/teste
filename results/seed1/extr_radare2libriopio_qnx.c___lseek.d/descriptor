@@ -1,1 +1,0 @@
-function __lseek int | io int * | fd int * | offset int | whence int

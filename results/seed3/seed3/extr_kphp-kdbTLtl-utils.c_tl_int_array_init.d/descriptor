@@ -1,0 +1,2 @@
+struct tl_int_array | buff int * | size int | pos long 
+function tl_int_array_init void | a struct tl_int_array * | buff int * | size int

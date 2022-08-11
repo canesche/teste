@@ -1,3 +1,0 @@
-struct TYPE_4__ | HitMinZ long | HitMaxZ long | HitFlag int 
-struct TYPE_5__ | Select struct TYPE_4__ 
-function gl_update_hitflag void | ctx struct TYPE_5__ * | z long

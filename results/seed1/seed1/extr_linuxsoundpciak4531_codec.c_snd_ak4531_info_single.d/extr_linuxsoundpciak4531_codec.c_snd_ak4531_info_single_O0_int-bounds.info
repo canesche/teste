@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxsoundpciak4531_codec.c_snd_ak4531_info_single.d/extr_linuxsoundpciak4531_codec.c_snd_ak4531_info_single_O0::snd_ak4531_info_single(68)"
+  }
+]

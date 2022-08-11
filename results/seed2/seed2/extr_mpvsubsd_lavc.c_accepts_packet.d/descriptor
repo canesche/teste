@@ -1,0 +1,4 @@
+struct sub | pts double | endpts double | valid int 
+struct sd_lavc_priv | current_pts double | subs struct sub * 
+struct sd | priv struct sd_lavc_priv * 
+function accepts_packet int | sd struct sd * | min_pts double

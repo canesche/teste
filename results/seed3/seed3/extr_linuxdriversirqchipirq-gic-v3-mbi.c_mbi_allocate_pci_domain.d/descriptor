@@ -1,0 +1,2 @@
+struct irq_domain | dummy int 
+function mbi_allocate_pci_domain int | nexus_domain struct irq_domain * | pci_domain struct irq_domain **

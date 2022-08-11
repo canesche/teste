@@ -1,0 +1,1 @@
+function snd_pcm_rate_mask_sanitize unsigned int | rates unsigned int

@@ -1,0 +1,4 @@
+struct TYPE_4__ | cfi_tail_drop_cnt long 
+struct TYPE_3__ | cfi_tail_drop_cnt long 
+struct cfil_info | cfi_rcv struct TYPE_4__ | cfi_snd struct TYPE_3__ 
+function cfil_info_buffer_threshold_exceeded int | cfil_info struct cfil_info *

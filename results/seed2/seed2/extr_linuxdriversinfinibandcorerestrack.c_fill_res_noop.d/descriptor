@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct rdma_restrack_entry | dummy int 
+function fill_res_noop int | msg struct sk_buff * | entry struct rdma_restrack_entry *

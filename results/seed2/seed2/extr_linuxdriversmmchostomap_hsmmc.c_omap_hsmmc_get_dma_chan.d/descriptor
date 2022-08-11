@@ -1,0 +1,4 @@
+struct omap_hsmmc_host | rx_chan struct dma_chan * | tx_chan struct dma_chan * 
+struct mmc_data | flags int 
+struct dma_chan | dummy int 
+function omap_hsmmc_get_dma_chan struct dma_chan * | host struct omap_hsmmc_host * | data struct mmc_data *

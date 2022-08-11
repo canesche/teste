@@ -1,0 +1,2 @@
+struct dlm_lkb | lkb_grmode int | lkb_highbast int 
+function lock_requires_bast int | gr struct dlm_lkb * | high int | cw int

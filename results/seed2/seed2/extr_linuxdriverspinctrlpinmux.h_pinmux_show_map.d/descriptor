@@ -1,0 +1,3 @@
+struct seq_file | dummy int 
+struct pinctrl_map | dummy int 
+function pinmux_show_map void | s struct seq_file * | map const struct pinctrl_map *

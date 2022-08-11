@@ -1,2 +1,0 @@
-struct amdgpu_device | dummy int 
-function soc15_program_aspm void | adev struct amdgpu_device *

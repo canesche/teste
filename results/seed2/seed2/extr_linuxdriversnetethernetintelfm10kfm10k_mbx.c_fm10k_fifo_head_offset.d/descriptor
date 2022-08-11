@@ -1,0 +1,2 @@
+struct fm10k_mbx_fifo | head int | size int 
+function fm10k_fifo_head_offset int | fifo struct fm10k_mbx_fifo * | offset int

@@ -1,0 +1,3 @@
+struct TYPE_5__ | left long | right long | font_idx long 
+struct TYPE_4__ | first_symbol_font_idx long 
+function in_symbol_maps long | fg struct TYPE_4__ * | ch long

@@ -1,2 +1,0 @@
-struct sk_buff | dummy int 
-function net_mpls_features int | skb struct sk_buff * | features int | type int

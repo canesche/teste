@@ -1,0 +1,6 @@
+struct b43_wl | hw struct TYPE_8__ * 
+struct TYPE_6__ | chan struct TYPE_5__ * 
+struct TYPE_7__ | chandef struct TYPE_6__ 
+struct TYPE_8__ | conf struct TYPE_7__ 
+struct TYPE_5__ | band int 
+function b43_current_band enum nl80211_band | wl struct b43_wl *

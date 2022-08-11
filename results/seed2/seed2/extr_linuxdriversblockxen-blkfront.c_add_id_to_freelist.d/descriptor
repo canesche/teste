@@ -1,0 +1,6 @@
+struct blkfront_ring_info | shadow_free unsigned long | shadow struct TYPE_8__ * 
+struct TYPE_5__ | id unsigned long 
+struct TYPE_6__ | rw struct TYPE_5__ 
+struct TYPE_7__ | u struct TYPE_6__ 
+struct TYPE_8__ | request int * | req struct TYPE_7__ 
+function add_id_to_freelist int | rinfo struct blkfront_ring_info * | id unsigned long

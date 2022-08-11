@@ -1,4 +1,0 @@
-struct TYPE_3__ | single_ant_path int 
-struct TYPE_4__ | btc_info struct TYPE_3__ 
-struct rtl_priv | btcoexist struct TYPE_4__ 
-function rtl_get_hwpg_single_ant_path int | rtlpriv struct rtl_priv *

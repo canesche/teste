@@ -1,0 +1,2 @@
+struct ics932s401_data | regs int * 
+function calculate_cpu_freq int | data struct ics932s401_data *

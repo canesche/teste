@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxfsnotifyinotifyinotify_user.c_inotify_arg_to_mask.d/extr_linuxfsnotifyinotifyinotify_user.c_inotify_arg_to_mask_O0::inotify_arg_to_mask(68)"
+  }
+]

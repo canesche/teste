@@ -1,2 +1,0 @@
-struct rpc_buffer | sptr int | wptr int | rptr int 
-function buffer_clear void | buf struct rpc_buffer *

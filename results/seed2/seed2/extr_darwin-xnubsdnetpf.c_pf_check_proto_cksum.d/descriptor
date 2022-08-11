@@ -1,0 +1,7 @@
+struct udphdr | dummy int 
+struct ip | dummy int 
+struct TYPE_6__ | pb_csum_flags int * | pb_csum_data int * | pb_packet_len unsigned int 
+struct TYPE_9__ | icps_checksum int 
+struct TYPE_8__ | tcps_rcvbadsum int 
+struct TYPE_7__ | udps_badsum int 
+function pf_check_proto_cksum int | pbuf struct TYPE_6__ * | off int | len int | p int | af int

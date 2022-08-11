@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversstagingmt7621-pci....pcipci.h_pcie_aspm_powersave_config_link.d/extr_linuxdriversstagingmt7621-pci....pcipci.h_pcie_aspm_powersave_config_link_O0::pcie_aspm_powersave_config_link(60)"
+  }
+]

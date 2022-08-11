@@ -1,0 +1,2 @@
+struct dasd_device | state long | target long 
+function _wait_for_device int | device struct dasd_device *

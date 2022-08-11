@@ -1,0 +1,3 @@
+struct vm_area_struct | dummy int 
+struct device | dummy int 
+function arch_dma_mmap int | dev struct device * | vma struct vm_area_struct * | cpu_addr void * | handle int | size unsigned long | attrs unsigned long

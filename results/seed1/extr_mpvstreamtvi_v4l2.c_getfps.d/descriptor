@@ -1,5 +1,0 @@
-struct TYPE_8__ | numerator double | denominator long 
-struct TYPE_7__ | frameperiod struct TYPE_8__ 
-struct TYPE_9__ | standard struct TYPE_7__ | tv_param struct TYPE_6__ * 
-struct TYPE_6__ | fps long 
-function getfps double | priv struct TYPE_9__ *

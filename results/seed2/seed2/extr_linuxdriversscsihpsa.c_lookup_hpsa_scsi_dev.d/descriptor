@@ -1,0 +1,3 @@
+struct hpsa_scsi_dev_t | bus int | target int | lun int 
+struct ctlr_info | ndevices int | dev struct hpsa_scsi_dev_t ** 
+function lookup_hpsa_scsi_dev struct hpsa_scsi_dev_t * | h struct ctlr_info * | bus int | target int | lun int

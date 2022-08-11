@@ -1,0 +1,1 @@
+function ccv_nnc_stream_context_wait_signal void | stream const int *const | signal const int *const

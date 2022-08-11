@@ -1,6 +1,0 @@
-struct view_column_data | commit_title int | ref struct TYPE_2__ * | id int | date int * | author int 
-struct view | dummy int 
-struct reference | title int | ref struct TYPE_2__ * | time int | author int 
-struct line | data struct reference * 
-struct TYPE_2__ | id int 
-function refs_get_column_data int | view struct view * | line const struct line * | column_data struct view_column_data *

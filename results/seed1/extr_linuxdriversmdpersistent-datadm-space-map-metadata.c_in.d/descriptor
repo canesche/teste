@@ -1,2 +1,0 @@
-struct sm_metadata | recursion_count int 
-function in void | smm struct sm_metadata *

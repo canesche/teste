@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriverscryptochelsiochtlschtls_cm.c_select_rcv_wscale.d/extr_linuxdriverscryptochelsiochtlschtls_cm.c_select_rcv_wscale_O0::select_rcv_wscale(61)"
+  }
+]

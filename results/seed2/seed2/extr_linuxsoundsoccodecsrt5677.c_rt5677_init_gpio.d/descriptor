@@ -1,0 +1,2 @@
+struct i2c_client | dummy int 
+function rt5677_init_gpio void | i2c struct i2c_client *

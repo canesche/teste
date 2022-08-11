@@ -1,0 +1,2 @@
+struct pp_hwmgr | dummy int 
+function iceland_populate_temperature_scaler int | hwmgr struct pp_hwmgr *

@@ -1,0 +1,2 @@
+struct kvm_pmc | dummy int 
+function amd_pmc_is_enabled int | pmc struct kvm_pmc *

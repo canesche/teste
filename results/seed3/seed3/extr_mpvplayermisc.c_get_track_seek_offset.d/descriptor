@@ -1,0 +1,5 @@
+struct track | type long | selected long 
+struct MPOpts | audio_delay double | subs_rend struct TYPE_2__ * 
+struct MPContext | opts struct MPOpts * 
+struct TYPE_2__ | sub_delay double 
+function get_track_seek_offset double | mpctx struct MPContext * | track struct track *

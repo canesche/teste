@@ -1,0 +1,3 @@
+struct tda_state | IF int 
+struct dvb_frontend | tuner_priv struct tda_state * 
+function get_if_frequency int | fe struct dvb_frontend * | frequency int *

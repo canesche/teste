@@ -1,0 +1,4 @@
+struct TYPE_4__ | policy_count unsigned int * | policy_bydst struct TYPE_3__ * 
+struct net | xfrm struct TYPE_4__ 
+struct TYPE_3__ | hmask unsigned int 
+function xfrm_bydst_should_resize int | net struct net * | dir int | total int *

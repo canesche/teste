@@ -1,2 +1,0 @@
-struct ethtool_rx_flow_spec | flow_type int 
-function i40e_flow_str const char * | fsp struct ethtool_rx_flow_spec *

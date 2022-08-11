@@ -1,0 +1,3 @@
+struct ath10k_ce | dummy int 
+struct ath10k | ce_priv long 
+function ath10k_ce_priv struct ath10k_ce * | ar struct ath10k *

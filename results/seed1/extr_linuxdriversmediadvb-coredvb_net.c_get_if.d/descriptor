@@ -1,2 +1,0 @@
-struct dvb_net | state int * 
-function get_if int | dvbnet struct dvb_net *

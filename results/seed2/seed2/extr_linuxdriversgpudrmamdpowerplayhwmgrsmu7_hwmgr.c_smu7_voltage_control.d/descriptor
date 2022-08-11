@@ -1,0 +1,3 @@
+struct smu7_hwmgr | voltage_control long 
+struct pp_hwmgr | backend long 
+function smu7_voltage_control int | hwmgr const struct pp_hwmgr *

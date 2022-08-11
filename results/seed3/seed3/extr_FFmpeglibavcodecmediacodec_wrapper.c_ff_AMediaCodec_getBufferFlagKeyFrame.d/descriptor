@@ -1,0 +1,2 @@
+struct TYPE_3__ | BUFFER_FLAG_KEY_FRAME int 
+function ff_AMediaCodec_getBufferFlagKeyFrame int | codec struct TYPE_3__ *

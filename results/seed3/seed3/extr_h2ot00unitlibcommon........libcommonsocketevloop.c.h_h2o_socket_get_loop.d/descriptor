@@ -1,0 +1,2 @@
+struct st_h2o_evloop_socket_t | loop int * 
+function h2o_socket_get_loop int * | _sock int *

@@ -1,3 +1,0 @@
-struct TYPE_4__ | id long | next struct TYPE_4__ * 
-struct TYPE_5__ | focusedWindowId long | windowListHead struct TYPE_4__ * 
-function _glfwWindowForId struct TYPE_4__ * | id int

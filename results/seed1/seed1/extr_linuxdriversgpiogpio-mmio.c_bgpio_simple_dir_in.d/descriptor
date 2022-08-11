@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function bgpio_simple_dir_in int | gc struct gpio_chip * | gpio unsigned int

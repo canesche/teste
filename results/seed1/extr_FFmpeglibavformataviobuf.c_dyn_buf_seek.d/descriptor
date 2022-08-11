@@ -1,2 +1,0 @@
-struct TYPE_2__ | pos int | size long 
-function dyn_buf_seek int | opaque void * | offset int | whence int

@@ -1,2 +1,0 @@
-struct tpm_chip | dummy int 
-function tpm_add_ppi void | chip struct tpm_chip *

@@ -1,1 +1,0 @@
-function emscripten_atomic_exchange_u8 int | addr void * | newVal int

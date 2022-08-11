@@ -1,4 +1,0 @@
-struct cf_token | dummy int 
-struct TYPE_2__ | array struct cf_token * 
-struct cf_def | params struct TYPE_2__ 
-function cf_def_getparam struct cf_token * | cfd const struct cf_def * | idx unsigned long

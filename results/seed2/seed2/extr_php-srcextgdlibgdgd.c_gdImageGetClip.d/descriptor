@@ -1,0 +1,2 @@
+struct TYPE_3__ | cx1 int | cy1 int | cx2 int | cy2 int 
+function gdImageGetClip void | im struct TYPE_3__ * | x1P int * | y1P int * | x2P int * | y2P int *

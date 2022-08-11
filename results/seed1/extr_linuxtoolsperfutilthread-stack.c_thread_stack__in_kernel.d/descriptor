@@ -1,4 +1,0 @@
-struct thread_stack | cnt int | stack struct TYPE_4__ * 
-struct TYPE_4__ | cp struct TYPE_3__ * 
-struct TYPE_3__ | in_kernel int 
-function thread_stack__in_kernel int | ts struct thread_stack *

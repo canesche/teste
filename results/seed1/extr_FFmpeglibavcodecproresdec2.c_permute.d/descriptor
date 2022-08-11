@@ -1,1 +1,0 @@
-function permute void | dst unsigned long * | src const unsigned long * | permutation unsigned long const[64]

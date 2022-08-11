@@ -1,2 +1,0 @@
-struct TYPE_3__ | Status int 
-function ETH_SetDMARxDescOwnBit void | DMARxDesc struct TYPE_3__ *

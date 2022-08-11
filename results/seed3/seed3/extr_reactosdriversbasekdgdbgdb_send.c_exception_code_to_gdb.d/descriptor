@@ -1,0 +1,1 @@
+function exception_code_to_gdb char * | code int | out char *

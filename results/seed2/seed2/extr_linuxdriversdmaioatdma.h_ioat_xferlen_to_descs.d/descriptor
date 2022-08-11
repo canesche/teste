@@ -1,0 +1,2 @@
+struct ioatdma_chan | xfercap_log unsigned long 
+function ioat_xferlen_to_descs int | ioat_chan struct ioatdma_chan * | len unsigned long

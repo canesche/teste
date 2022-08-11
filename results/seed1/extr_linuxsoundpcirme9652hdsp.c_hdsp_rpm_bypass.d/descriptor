@@ -1,2 +1,0 @@
-struct hdsp | control_register int 
-function hdsp_rpm_bypass int | hdsp struct hdsp *

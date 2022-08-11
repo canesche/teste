@@ -1,2 +1,0 @@
-struct memstick_dev | dummy int 
-function memstick_dummy_check int | card struct memstick_dev *

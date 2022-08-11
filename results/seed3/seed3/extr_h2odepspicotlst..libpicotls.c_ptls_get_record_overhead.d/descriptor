@@ -1,0 +1,6 @@
+struct TYPE_9__ | aead struct TYPE_8__ * 
+struct TYPE_10__ | enc struct TYPE_9__ 
+struct TYPE_11__ | traffic_protection struct TYPE_10__ 
+struct TYPE_8__ | algo struct TYPE_7__ * 
+struct TYPE_7__ | tag_size unsigned long 
+function ptls_get_record_overhead unsigned long | tls struct TYPE_11__ *

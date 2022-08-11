@@ -1,0 +1,1 @@
+function sum_delta_flipped void | dst long * | dst_linesize int | src const long * | src_linesize int | bytewidth int | height int

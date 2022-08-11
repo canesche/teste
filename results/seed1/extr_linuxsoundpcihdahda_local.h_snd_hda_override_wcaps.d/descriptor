@@ -1,3 +1,0 @@
-struct TYPE_2__ | start_nid long | num_nodes long 
-struct hda_codec | core struct TYPE_2__ | wcaps int * 
-function snd_hda_override_wcaps void | codec struct hda_codec * | nid long | val int

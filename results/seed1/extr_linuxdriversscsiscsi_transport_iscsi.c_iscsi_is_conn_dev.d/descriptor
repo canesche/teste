@@ -1,2 +1,0 @@
-struct device | release long 
-function iscsi_is_conn_dev int | dev const struct device *

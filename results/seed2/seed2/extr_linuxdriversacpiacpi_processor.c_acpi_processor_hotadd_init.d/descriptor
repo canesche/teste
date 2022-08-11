@@ -1,0 +1,2 @@
+struct acpi_processor | dummy int 
+function acpi_processor_hotadd_init int | pr struct acpi_processor *

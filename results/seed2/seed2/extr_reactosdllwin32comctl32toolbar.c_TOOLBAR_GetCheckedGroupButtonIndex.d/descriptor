@@ -1,0 +1,3 @@
+struct TYPE_5__ | fsStyle int | fsState int 
+struct TYPE_4__ | nNumButtons int | buttons struct TYPE_5__ * 
+function TOOLBAR_GetCheckedGroupButtonIndex int | infoPtr const struct TYPE_4__ * | nIndex int

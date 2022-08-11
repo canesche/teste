@@ -1,0 +1,3 @@
+struct special_params | clk_src unsigned int 
+struct snd_bebob | maudio_special_quirk struct special_params * 
+function special_clk_get int | bebob struct snd_bebob * | id unsigned int *

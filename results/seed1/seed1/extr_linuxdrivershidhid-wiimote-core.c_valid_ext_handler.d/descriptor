@@ -1,0 +1,2 @@
+struct wiimod_ops | flags int | in_ext int 
+function valid_ext_handler int | ops const struct wiimod_ops * | len unsigned long

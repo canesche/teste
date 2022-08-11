@@ -1,0 +1,2 @@
+struct python_obs_callback | dummy int 
+function python_obs_callback_extra_data void * | cb struct python_obs_callback *

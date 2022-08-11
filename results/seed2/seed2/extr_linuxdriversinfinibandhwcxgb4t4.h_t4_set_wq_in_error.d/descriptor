@@ -1,0 +1,2 @@
+struct t4_wq | qp_errp int * | srqidxp long * 
+function t4_set_wq_in_error void | wq struct t4_wq * | srqidx long

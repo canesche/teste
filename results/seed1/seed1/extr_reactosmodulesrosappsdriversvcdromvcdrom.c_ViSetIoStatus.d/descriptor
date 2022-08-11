@@ -1,0 +1,3 @@
+struct TYPE_4__ | Status int | Information int 
+struct TYPE_5__ | IoStatus struct TYPE_4__ 
+function ViSetIoStatus int | Status int | Information int | Irp struct TYPE_5__ *

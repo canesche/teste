@@ -1,4 +1,0 @@
-struct TYPE_5__ | pos unsigned long 
-struct TYPE_7__ | buffer char * | marks struct TYPE_6__ * | state struct TYPE_5__ 
-struct TYPE_6__ | pos unsigned long 
-function mpc_input_buffer_get char | i struct TYPE_7__ *

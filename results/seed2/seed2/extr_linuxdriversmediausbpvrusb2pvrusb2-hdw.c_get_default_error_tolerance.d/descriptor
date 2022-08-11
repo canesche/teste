@@ -1,0 +1,2 @@
+struct pvr2_hdw | unit_number int 
+function get_default_error_tolerance unsigned int | hdw struct pvr2_hdw *

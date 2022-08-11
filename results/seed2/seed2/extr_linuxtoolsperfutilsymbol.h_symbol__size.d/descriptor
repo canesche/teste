@@ -1,0 +1,2 @@
+struct symbol | end unsigned long | start unsigned long 
+function symbol__size unsigned long | sym const struct symbol *

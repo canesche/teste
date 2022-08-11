@@ -1,0 +1,2 @@
+struct stat | st_dev long | st_ino long 
+function same_st int | st1 struct stat * | st2 struct stat *

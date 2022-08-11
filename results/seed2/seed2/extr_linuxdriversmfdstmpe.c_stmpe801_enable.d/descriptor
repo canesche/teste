@@ -1,0 +1,2 @@
+struct stmpe | dummy int 
+function stmpe801_enable int | stmpe struct stmpe * | blocks unsigned int | enable int

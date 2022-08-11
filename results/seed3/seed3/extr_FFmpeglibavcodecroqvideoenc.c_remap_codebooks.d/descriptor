@@ -1,0 +1,5 @@
+struct TYPE_10__ | cb4x4 struct TYPE_7__ * | quake3_compat long 
+struct TYPE_8__ | usedCB2 long * | usedCB4 long * 
+struct TYPE_9__ | i2f4 int * | f2i4 int * | numCB4 int | i2f2 int * | f2i2 int * | numCB2 int | codebooks struct TYPE_8__ 
+struct TYPE_7__ | idx unsigned long * 
+function remap_codebooks void | enc struct TYPE_10__ * | tempData struct TYPE_9__ *

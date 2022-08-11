@@ -1,0 +1,3 @@
+struct TYPE_2__ | actual long | length long 
+struct dwc3_request | request struct TYPE_2__ 
+function dwc3_gadget_ep_request_completed int | req struct dwc3_request *

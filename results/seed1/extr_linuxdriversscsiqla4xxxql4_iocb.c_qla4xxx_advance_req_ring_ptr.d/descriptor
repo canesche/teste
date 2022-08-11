@@ -1,2 +1,0 @@
-struct scsi_qla_host | request_in int | request_ptr int | request_ring int 
-function qla4xxx_advance_req_ring_ptr void | ha struct scsi_qla_host *

@@ -1,0 +1,2 @@
+struct kvm_stat_data | offset int | kvm long 
+function vm_stat_get_per_vm int | data void * | val int *

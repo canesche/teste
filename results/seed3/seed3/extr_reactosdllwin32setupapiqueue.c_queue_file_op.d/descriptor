@@ -1,0 +1,3 @@
+struct file_op_queue | count int | tail struct file_op * | head struct file_op * 
+struct file_op | next struct file_op * 
+function queue_file_op void | queue struct file_op_queue * | op struct file_op *

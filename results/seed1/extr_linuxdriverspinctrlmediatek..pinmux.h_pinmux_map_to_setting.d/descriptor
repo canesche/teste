@@ -1,3 +1,0 @@
-struct pinctrl_setting | dummy int 
-struct pinctrl_map | dummy int 
-function pinmux_map_to_setting int | map const struct pinctrl_map * | setting struct pinctrl_setting *

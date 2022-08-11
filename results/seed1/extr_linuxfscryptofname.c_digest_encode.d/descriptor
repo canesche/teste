@@ -1,1 +1,0 @@
-function digest_encode int | src const char * | len int | dst char *

@@ -1,0 +1,5 @@
+struct snd_kcontrol | dummy int 
+struct TYPE_3__ | value long * 
+struct TYPE_4__ | integer struct TYPE_3__ 
+struct snd_ctl_elem_value | value struct TYPE_4__ 
+function wm_coeff_get_acked int | kcontrol struct snd_kcontrol * | ucontrol struct snd_ctl_elem_value *

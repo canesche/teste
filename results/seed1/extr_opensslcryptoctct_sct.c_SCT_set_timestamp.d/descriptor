@@ -1,2 +1,0 @@
-struct TYPE_3__ | validation_status int | timestamp int 
-function SCT_set_timestamp void | sct struct TYPE_3__ * | timestamp int

@@ -1,0 +1,10 @@
+struct smu7_power_state | performance_level_count unsigned long | performance_levels struct TYPE_6__ * 
+struct TYPE_10__ | count unsigned long | dpm_levels struct TYPE_9__ * 
+struct TYPE_8__ | count unsigned long | dpm_levels struct TYPE_7__ * 
+struct smu7_dpm_table | pcie_speed_table struct TYPE_10__ | sclk_table struct TYPE_8__ 
+struct smu7_hwmgr | dpm_table struct smu7_dpm_table 
+struct pp_hwmgr | backend long 
+struct TYPE_9__ | value int 
+struct TYPE_7__ | value unsigned long 
+struct TYPE_6__ | engine_clock unsigned long 
+function smu7_get_maximum_link_speed int | hwmgr struct pp_hwmgr * | smu7_ps const struct smu7_power_state *

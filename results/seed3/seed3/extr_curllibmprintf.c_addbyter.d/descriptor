@@ -1,0 +1,2 @@
+struct nsprintf | length long | max long | buffer unsigned char * 
+function addbyter int | output int | data int *

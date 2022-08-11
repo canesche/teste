@@ -1,0 +1,1 @@
+function xge_set_desc_bits unsigned long long | pos int | len int | val unsigned long long

@@ -1,0 +1,2 @@
+struct kvm_sregs | dummy int 
+function compare_sregs void | left struct kvm_sregs * | right struct kvm_sregs *

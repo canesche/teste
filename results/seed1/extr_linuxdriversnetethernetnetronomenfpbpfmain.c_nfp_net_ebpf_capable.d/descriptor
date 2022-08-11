@@ -1,2 +1,0 @@
-struct nfp_net | dummy int 
-function nfp_net_ebpf_capable int | nn struct nfp_net *

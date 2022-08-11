@@ -1,2 +1,0 @@
-struct device | dummy int 
-function mmc35240_is_readable_reg int | dev struct device * | reg unsigned int

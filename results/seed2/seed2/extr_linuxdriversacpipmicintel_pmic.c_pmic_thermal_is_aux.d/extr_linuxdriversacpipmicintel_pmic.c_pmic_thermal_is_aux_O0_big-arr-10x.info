@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 8,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversacpipmicintel_pmic.c_pmic_thermal_is_aux.d/extr_linuxdriversacpipmicintel_pmic.c_pmic_thermal_is_aux_O0::pmic_thermal_is_aux(60)"
+  }
+]

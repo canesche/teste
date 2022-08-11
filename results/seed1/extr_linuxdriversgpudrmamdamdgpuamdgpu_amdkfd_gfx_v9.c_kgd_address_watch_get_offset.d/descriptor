@@ -1,2 +1,0 @@
-struct kgd_dev | dummy int 
-function kgd_address_watch_get_offset int | kgd struct kgd_dev * | watch_point_id unsigned int | reg_offset unsigned int

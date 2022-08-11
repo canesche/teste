@@ -1,0 +1,2 @@
+struct ath10k | dummy int 
+function ath10k_dbg_dump void | ar struct ath10k * | mask enum ath10k_debug_mask | msg const char * | prefix const char * | buf const void * | len unsigned long

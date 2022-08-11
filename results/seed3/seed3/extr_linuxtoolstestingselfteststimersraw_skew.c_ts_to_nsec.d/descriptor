@@ -1,0 +1,2 @@
+struct timespec | tv_sec int | tv_nsec unsigned long long 
+function ts_to_nsec unsigned long long | ts struct timespec

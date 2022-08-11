@@ -1,0 +1,2 @@
+struct pch_thermal_device | psv_trip_id int 
+function pch_wpt_add_acpi_psv_trip void | ptd struct pch_thermal_device * | nr_trips int *

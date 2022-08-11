@@ -1,0 +1,3 @@
+struct bmi_target_info | type void * | version void * 
+struct ath10k | dummy int 
+function ath10k_snoc_hif_get_target_info int | ar struct ath10k * | target_info struct bmi_target_info *

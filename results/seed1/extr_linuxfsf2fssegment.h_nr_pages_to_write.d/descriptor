@@ -1,3 +1,0 @@
-struct writeback_control | sync_mode long | nr_to_write long 
-struct f2fs_sb_info | dummy int 
-function nr_pages_to_write long | sbi struct f2fs_sb_info * | type int | wbc struct writeback_control *

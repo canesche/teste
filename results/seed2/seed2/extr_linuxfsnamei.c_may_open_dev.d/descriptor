@@ -1,0 +1,4 @@
+struct path | mnt struct TYPE_4__ * 
+struct TYPE_4__ | mnt_flags int | mnt_sb struct TYPE_3__ * 
+struct TYPE_3__ | s_iflags int 
+function may_open_dev int | path const struct path *

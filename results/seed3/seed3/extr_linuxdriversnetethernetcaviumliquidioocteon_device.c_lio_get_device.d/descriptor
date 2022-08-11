@@ -1,0 +1,2 @@
+struct octeon_device | dummy int 
+function lio_get_device struct octeon_device * | octeon_id unsigned long

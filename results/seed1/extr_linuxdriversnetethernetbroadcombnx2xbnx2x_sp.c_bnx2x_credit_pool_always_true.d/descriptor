@@ -1,2 +1,0 @@
-struct bnx2x_credit_pool_obj | dummy int 
-function bnx2x_credit_pool_always_true int | o struct bnx2x_credit_pool_obj * | cnt int

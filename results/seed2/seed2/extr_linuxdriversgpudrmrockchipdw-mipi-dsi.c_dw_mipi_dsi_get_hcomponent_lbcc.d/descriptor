@@ -1,0 +1,3 @@
+struct dw_mipi_dsi | lane_mbps int 
+struct drm_display_mode | clock int 
+function dw_mipi_dsi_get_hcomponent_lbcc int | dsi struct dw_mipi_dsi * | mode struct drm_display_mode * | hcomponent int

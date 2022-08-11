@@ -1,0 +1,3 @@
+struct tioca_kernel | ca_gfxgart_base int | ca_gfxgart long 
+struct agp_bridge_data | gatt_bus_addr int | gatt_table_real int * | gatt_table int * | dev_private_data long 
+function sgi_tioca_create_gatt_table int | bridge struct agp_bridge_data *

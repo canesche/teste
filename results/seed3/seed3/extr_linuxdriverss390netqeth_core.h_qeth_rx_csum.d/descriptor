@@ -1,0 +1,6 @@
+struct sk_buff | ip_summed int 
+struct TYPE_6__ | rx_csum int 
+struct TYPE_5__ | performance_stats long 
+struct qeth_card | perf_stats struct TYPE_6__ | options struct TYPE_5__ | dev struct TYPE_4__ * 
+struct TYPE_4__ | features int 
+function qeth_rx_csum void | card struct qeth_card * | skb struct sk_buff * | flags int

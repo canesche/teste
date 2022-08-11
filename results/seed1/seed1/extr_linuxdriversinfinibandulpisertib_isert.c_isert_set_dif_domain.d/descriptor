@@ -1,0 +1,8 @@
+struct se_cmd | prot_type long | reftag_seed int | se_dev struct TYPE_6__ * 
+struct TYPE_7__ | apptag_check_mask int | app_escape int | ref_escape int | ref_remap int | ref_tag int | pi_interval int | bg_type int 
+struct TYPE_8__ | dif struct TYPE_7__ 
+struct ib_sig_domain | sig struct TYPE_8__ | sig_type int 
+struct ib_sig_attrs | dummy int 
+struct TYPE_5__ | block_size int 
+struct TYPE_6__ | dev_attrib struct TYPE_5__ 
+function isert_set_dif_domain void | se_cmd struct se_cmd * | sig_attrs struct ib_sig_attrs * | domain struct ib_sig_domain *

@@ -1,0 +1,1 @@
+function r_read_le32 int | src const void *

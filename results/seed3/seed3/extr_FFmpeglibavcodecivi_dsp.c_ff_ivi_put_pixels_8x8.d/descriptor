@@ -1,0 +1,1 @@
+function ff_ivi_put_pixels_8x8 void | in const int * | out int * | pitch int | flags const int *

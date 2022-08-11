@@ -1,0 +1,2 @@
+struct max77693_led_device | fled_mask int 
+function max77693_fled_used int | led struct max77693_led_device * | fled_id int

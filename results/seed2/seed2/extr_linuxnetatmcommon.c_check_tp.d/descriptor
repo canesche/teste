@@ -1,0 +1,2 @@
+struct atm_trafprm | traffic_class long | min_pcr long | max_pcr long | pcr int 
+function check_tp int | tp const struct atm_trafprm *

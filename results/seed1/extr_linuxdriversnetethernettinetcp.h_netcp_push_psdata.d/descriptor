@@ -1,2 +1,0 @@
-struct netcp_packet | psdata_len long | psdata int * 
-function netcp_push_psdata int * | p_info struct netcp_packet * | bytes unsigned int

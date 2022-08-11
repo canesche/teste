@@ -1,0 +1,2 @@
+struct il_channel_info | flags int 
+function il_is_channel_passive int | ch const struct il_channel_info *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | sdtr_period_tbl long * | min_sdtr_index long | max_sdtr_index long 
+function AscGetSynPeriodIndex const long | asc_dvc struct TYPE_3__ * | syn_time const long

@@ -1,4 +1,0 @@
-struct ubi_wl_entry | pnum int 
-struct ubi_device | fm struct TYPE_2__ * 
-struct TYPE_2__ | used_blocks int | e struct ubi_wl_entry ** 
-function ubi_find_fm_block struct ubi_wl_entry * | ubi const struct ubi_device * | pnum int

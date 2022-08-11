@@ -1,5 +1,0 @@
-struct sas_ha_struct | lldd_ha struct pm8001_hba_info * 
-struct pm8001_hba_info | dummy int 
-struct domain_device | port struct TYPE_2__ * 
-struct TYPE_2__ | ha struct sas_ha_struct * 
-function pm8001_find_ha_by_dev struct pm8001_hba_info * | dev struct domain_device *

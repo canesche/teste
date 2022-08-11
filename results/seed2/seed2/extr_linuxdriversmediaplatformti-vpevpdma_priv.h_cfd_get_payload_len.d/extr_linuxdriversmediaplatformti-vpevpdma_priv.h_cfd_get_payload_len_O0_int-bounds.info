@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediaplatformti-vpevpdma_priv.h_cfd_get_payload_len.d/extr_linuxdriversmediaplatformti-vpevpdma_priv.h_cfd_get_payload_len_O0::cfd_get_payload_len(62)"
+  }
+]

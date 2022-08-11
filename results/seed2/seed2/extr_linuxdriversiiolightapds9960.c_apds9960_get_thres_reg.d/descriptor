@@ -1,0 +1,2 @@
+struct iio_chan_spec | type int 
+function apds9960_get_thres_reg int | chan const struct iio_chan_spec * | dir enum iio_event_direction | reg int *

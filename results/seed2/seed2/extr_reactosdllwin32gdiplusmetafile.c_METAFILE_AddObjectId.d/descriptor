@@ -1,0 +1,2 @@
+struct TYPE_3__ | next_object_id int 
+function METAFILE_AddObjectId int | metafile struct TYPE_3__ *

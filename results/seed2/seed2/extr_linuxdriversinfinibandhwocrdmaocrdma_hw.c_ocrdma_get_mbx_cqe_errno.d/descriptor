@@ -1,0 +1,1 @@
+function ocrdma_get_mbx_cqe_errno int | cqe_status int

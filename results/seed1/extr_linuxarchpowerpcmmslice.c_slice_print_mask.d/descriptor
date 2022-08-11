@@ -1,2 +1,0 @@
-struct slice_mask | dummy int 
-function slice_print_mask void | label const char * | mask const struct slice_mask *

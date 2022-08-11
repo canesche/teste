@@ -1,0 +1,2 @@
+struct device_driver | dummy int 
+function module_remove_driver void | drv struct device_driver *

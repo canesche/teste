@@ -1,0 +1,3 @@
+struct perf_mmap | cpu int 
+struct perf_evlist | nr_mmaps int | mmap struct perf_mmap * 
+function get_md struct perf_mmap * | evlist struct perf_evlist * | cpu int

@@ -1,0 +1,2 @@
+struct ci_hw_ep | dir long | num int 
+function _usb_addr int | ep struct ci_hw_ep *

@@ -1,0 +1,4 @@
+struct sas_phy | minimum_linkrate void * | maximum_linkrate void * | minimum_linkrate_hw void * | maximum_linkrate_hw void * | negotiated_linkrate void * 
+struct TYPE_2__ | linkrate void * | phy struct sas_phy * 
+struct pm8001_phy | sas_phy struct TYPE_2__ 
+function pm8001_get_lrate_mode void | phy struct pm8001_phy * | link_rate int

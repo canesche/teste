@@ -1,4 +1,0 @@
-struct TYPE_3__ | TupleDataLen int | TupleData int * 
-struct pcmcia_device | dummy int 
-struct net_device | dev_addr int * 
-function pcmcia_osi_mac int | p_dev struct pcmcia_device * | tuple struct TYPE_3__ * | priv void *

@@ -1,3 +1,0 @@
-struct spu_state | dummy int 
-struct spu | dummy int 
-function reset_switch_active void | csa struct spu_state * | spu struct spu *

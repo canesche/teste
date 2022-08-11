@@ -1,0 +1,3 @@
+struct ib_mad_mgmt_method_table | agent struct ib_mad_agent_private ** 
+struct ib_mad_agent_private | dummy int 
+function remove_methods_mad_agent void | method struct ib_mad_mgmt_method_table * | agent struct ib_mad_agent_private *

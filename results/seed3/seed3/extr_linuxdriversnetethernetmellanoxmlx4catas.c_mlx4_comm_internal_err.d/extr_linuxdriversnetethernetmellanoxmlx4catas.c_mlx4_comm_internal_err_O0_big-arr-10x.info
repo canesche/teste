@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetethernetmellanoxmlx4catas.c_mlx4_comm_internal_err.d/extr_linuxdriversnetethernetmellanoxmlx4catas.c_mlx4_comm_internal_err_O0::mlx4_comm_internal_err(62)"
+  }
+]

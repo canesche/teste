@@ -1,0 +1,3 @@
+struct tcf_proto | dummy int 
+struct netlink_ext_ack | dummy int 
+function mall_delete int | tp struct tcf_proto * | arg void * | last int * | extack struct netlink_ext_ack *

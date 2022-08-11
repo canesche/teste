@@ -1,0 +1,2 @@
+struct intel_pt_pkt | type int 
+function intel_pt_get_psb int | buf const unsigned char * | len unsigned long | packet struct intel_pt_pkt *

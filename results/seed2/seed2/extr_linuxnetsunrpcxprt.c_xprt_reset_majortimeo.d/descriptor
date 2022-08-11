@@ -1,0 +1,5 @@
+struct rpc_timeout | to_retries long | to_increment int | to_maxval long | to_exponential long 
+struct rpc_rqst | rq_majortimeo long | rq_timeout long | rq_task struct TYPE_4__ * 
+struct TYPE_4__ | tk_client struct TYPE_3__ * 
+struct TYPE_3__ | cl_timeout struct rpc_timeout * 
+function xprt_reset_majortimeo void | req struct rpc_rqst *

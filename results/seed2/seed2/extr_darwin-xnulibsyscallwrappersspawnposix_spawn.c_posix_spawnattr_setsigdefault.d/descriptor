@@ -1,0 +1,2 @@
+struct TYPE_2__ | psa_sigdefault int 
+function posix_spawnattr_setsigdefault int | attr int **__restrict | sigdefault const int *__restrict

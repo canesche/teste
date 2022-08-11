@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmamddisplaydci2cauxi2c_sw_engine.c_dal_i2c_sw_engine_get_channel_status.d/extr_linuxdriversgpudrmamddisplaydci2cauxi2c_sw_engine.c_dal_i2c_sw_engine_get_channel_status_O0::dal_i2c_sw_engine_get_channel_status(66)"
+  }
+]

@@ -1,0 +1,5 @@
+struct dmz_target | dev struct TYPE_2__ * 
+struct dm_target | private struct dmz_target * 
+struct block_device | dummy int 
+struct TYPE_2__ | bdev struct block_device * 
+function dmz_prepare_ioctl int | ti struct dm_target * | bdev struct block_device **

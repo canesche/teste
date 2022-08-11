@@ -1,2 +1,0 @@
-struct icp_qat_uof_strtable | table_len unsigned int | strings long 
-function qat_uclo_get_string char * | str_table struct icp_qat_uof_strtable * | str_offset unsigned int

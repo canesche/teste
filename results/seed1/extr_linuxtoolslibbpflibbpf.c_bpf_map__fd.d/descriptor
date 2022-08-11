@@ -1,2 +1,0 @@
-struct bpf_map | fd int 
-function bpf_map__fd int | map struct bpf_map *

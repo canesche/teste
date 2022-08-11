@@ -1,0 +1,9 @@
+struct TYPE_9__ | face struct TYPE_8__ * | format int | surfaceFlags long | sid int 
+struct TYPE_6__ | size int | id int 
+struct vmw_surface_define | body struct TYPE_9__ | header struct TYPE_6__ 
+struct TYPE_7__ | id int 
+struct vmw_surface | num_sizes int | sizes struct drm_vmw_size * | mip_levels int * | format int | flags long | res struct TYPE_7__ 
+struct drm_vmw_size | depth int | height int | width int 
+struct TYPE_10__ | depth int | height int | width int 
+struct TYPE_8__ | numMipLevels int 
+function vmw_surface_define_encode void | srf const struct vmw_surface * | cmd_space void *

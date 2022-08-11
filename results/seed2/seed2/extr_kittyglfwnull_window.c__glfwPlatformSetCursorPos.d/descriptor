@@ -1,0 +1,1 @@
+function _glfwPlatformSetCursorPos void | window int * | x double | y double

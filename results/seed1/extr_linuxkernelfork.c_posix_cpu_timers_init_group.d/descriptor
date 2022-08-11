@@ -1,2 +1,0 @@
-struct signal_struct | dummy int 
-function posix_cpu_timers_init_group void | sig struct signal_struct *

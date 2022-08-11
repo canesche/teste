@@ -1,3 +1,0 @@
-struct TYPE_2__ | nports long 
-struct adapter | params struct TYPE_2__ 
-function interfaces_get_idx void * | adapter struct adapter * | pos long

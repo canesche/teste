@@ -1,0 +1,5 @@
+struct TYPE_6__ | info char * 
+struct TYPE_9__ | ctx struct TYPE_8__ * | srp_ctx struct TYPE_6__ 
+struct TYPE_7__ | info char * 
+struct TYPE_8__ | srp_ctx struct TYPE_7__ 
+function SSL_get_srp_userinfo char * | s struct TYPE_9__ *

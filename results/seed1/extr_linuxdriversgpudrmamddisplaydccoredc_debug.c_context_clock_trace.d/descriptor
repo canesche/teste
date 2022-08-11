@@ -1,3 +1,0 @@
-struct dc_state | dummy int 
-struct dc | dummy int 
-function context_clock_trace void | dc struct dc * | context struct dc_state *

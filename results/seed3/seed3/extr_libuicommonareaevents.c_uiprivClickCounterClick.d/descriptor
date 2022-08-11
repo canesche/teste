@@ -1,0 +1,2 @@
+struct TYPE_3__ | curButton int | count int | rectX0 int | rectY0 int | rectX1 int | rectY1 int | prevTime unsigned long 
+function uiprivClickCounterClick int | c struct TYPE_3__ * | button int | x int | y int | time unsigned long | maxTime unsigned long | xdist int | ydist int

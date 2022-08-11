@@ -1,0 +1,2 @@
+struct d0_locking_features | supported_features int 
+function check_mbrenabled int | data const void *

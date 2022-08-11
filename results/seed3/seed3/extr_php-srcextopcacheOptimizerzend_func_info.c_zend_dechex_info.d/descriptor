@@ -1,0 +1,2 @@
+struct TYPE_3__ | num_args int 
+function zend_dechex_info int | call_info const struct TYPE_3__ * | ssa const int *

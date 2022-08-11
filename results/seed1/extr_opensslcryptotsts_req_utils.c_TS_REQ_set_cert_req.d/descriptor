@@ -1,2 +1,0 @@
-struct TYPE_3__ | cert_req int 
-function TS_REQ_set_cert_req int | a struct TYPE_3__ * | cert_req int

@@ -1,2 +1,0 @@
-struct iwl_priv | dummy int 
-function iwl_beacon_time_mask_high int | priv struct iwl_priv * | tsf_bits int

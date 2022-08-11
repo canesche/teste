@@ -1,0 +1,2 @@
+struct brcmf_pciedev_info | idxbuf int * 
+function brcmf_pcie_write_idx void | devinfo struct brcmf_pciedev_info * | mem_offset int | value int

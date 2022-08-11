@@ -1,0 +1,2 @@
+struct dsp_image_seg | chip_addr long 
+function is_hci_prog_list_seg int | p const struct dsp_image_seg *

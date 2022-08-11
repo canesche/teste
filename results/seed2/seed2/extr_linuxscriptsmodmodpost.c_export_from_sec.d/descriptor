@@ -1,0 +1,2 @@
+struct elf_info | export_sec unsigned int | export_unused_sec unsigned int | export_gpl_sec unsigned int | export_unused_gpl_sec unsigned int | export_gpl_future_sec unsigned int 
+function export_from_sec enum export | elf struct elf_info * | sec unsigned int

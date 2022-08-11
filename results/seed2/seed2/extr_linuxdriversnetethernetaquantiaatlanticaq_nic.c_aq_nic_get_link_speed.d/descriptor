@@ -1,0 +1,3 @@
+struct TYPE_2__ | mbps unsigned int 
+struct aq_nic_s | link_status struct TYPE_2__ 
+function aq_nic_get_link_speed unsigned int | self struct aq_nic_s *

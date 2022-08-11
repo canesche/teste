@@ -1,2 +1,0 @@
-struct ieee80211_key | dummy int 
-function ieee80211_debugfs_key_remove void | key struct ieee80211_key *

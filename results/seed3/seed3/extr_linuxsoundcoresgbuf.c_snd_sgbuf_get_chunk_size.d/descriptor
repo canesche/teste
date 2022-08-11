@@ -1,0 +1,4 @@
+struct snd_sg_buf | table struct TYPE_2__ * 
+struct snd_dma_buffer | private_data struct snd_sg_buf * 
+struct TYPE_2__ | addr unsigned int 
+function snd_sgbuf_get_chunk_size unsigned int | dmab struct snd_dma_buffer * | ofs unsigned int | size unsigned int

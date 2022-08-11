@@ -1,1 +1,0 @@
-function scsi_sanitize_inquiry_string void | s unsigned char * | len int

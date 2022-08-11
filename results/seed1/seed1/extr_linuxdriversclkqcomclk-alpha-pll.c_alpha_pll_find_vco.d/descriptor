@@ -1,0 +1,3 @@
+struct pll_vco | min_freq unsigned long | max_freq unsigned long 
+struct clk_alpha_pll | num_vco int | vco_table struct pll_vco * 
+function alpha_pll_find_vco const struct pll_vco * | pll const struct clk_alpha_pll * | rate unsigned long

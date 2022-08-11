@@ -1,0 +1,2 @@
+struct be_adapter | mc_type long 
+function be_is_mc int | adapter struct be_adapter *

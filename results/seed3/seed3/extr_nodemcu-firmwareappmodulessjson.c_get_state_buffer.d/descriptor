@@ -1,0 +1,3 @@
+struct jsonsl_state_st | pos_begin unsigned long 
+struct TYPE_3__ | min_available unsigned long | buffer const char * 
+function get_state_buffer const char * | ctx struct TYPE_3__ * | state struct jsonsl_state_st *

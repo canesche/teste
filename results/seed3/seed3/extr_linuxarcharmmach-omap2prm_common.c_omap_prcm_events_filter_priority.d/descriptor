@@ -1,0 +1,2 @@
+struct TYPE_2__ | nr_regs int | priority_mask unsigned long * 
+function omap_prcm_events_filter_priority void | events unsigned long * | priority_events unsigned long *

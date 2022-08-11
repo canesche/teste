@@ -1,0 +1,2 @@
+struct Range | begin long 
+function range_compare int | lhs const void * | rhs const void *

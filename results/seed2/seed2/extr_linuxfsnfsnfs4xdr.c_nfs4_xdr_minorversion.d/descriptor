@@ -1,0 +1,2 @@
+struct nfs4_sequence_args | dummy int 
+function nfs4_xdr_minorversion int | args const struct nfs4_sequence_args *

@@ -1,2 +1,0 @@
-struct TYPE_3__ | shininess float 
-function PicoGetShaderShininess float | shader struct TYPE_3__ *

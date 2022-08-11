@@ -1,0 +1,3 @@
+struct sxgbe_rx_ctxt_desc | ptp_msgtype long | tstamp_dropped long 
+struct sxgbe_extra_stats | rx_ptp_resv_msg_type int | rx_ptp_signal int | rx_ptp_mgmt int | rx_ptp_announce int | rx_ptp_type_pdelay_follow_up int | rx_ptp_type_pdelay_resp int | rx_ptp_type_pdelay_req int | rx_ptp_type_delay_resp int | rx_ptp_type_delay_req int | rx_ptp_type_follow_up int | rx_ptp_type_sync int | rx_msg_type_no_ptp int | timestamp_dropped int 
+function sxgbe_rx_ctxt_wbstatus void | p struct sxgbe_rx_ctxt_desc * | x struct sxgbe_extra_stats *

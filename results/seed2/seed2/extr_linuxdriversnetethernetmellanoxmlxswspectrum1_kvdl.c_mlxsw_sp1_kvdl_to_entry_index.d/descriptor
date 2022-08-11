@@ -1,0 +1,2 @@
+struct mlxsw_sp1_kvdl_part_info | start_index unsigned int | alloc_size unsigned int 
+function mlxsw_sp1_kvdl_to_entry_index unsigned int | info const struct mlxsw_sp1_kvdl_part_info * | kvdl_index unsigned int

@@ -1,4 +1,0 @@
-struct nvkm_msgqueue | dummy int 
-function init_gen_cmdline void | queue struct nvkm_msgqueue * | buf void *
-struct  | reserved int | freq_hz int | trace_size int | trace_dma_base int | trace_dma_base1 int | trace_dma_offset int | trace_dma_idx int | secure_mode int | raise_priv_sec int | gc6_ctx struct (anonymous at /home/seed1/extr_linuxdriversgpudrmnouveaunvkmfalconmsgqueue_0137c63d.c_init_gen_cmdline.c:33:3) | pad int 
-struct  | dma_base int | dma_base1 int | dma_offset int | fb_size int | dma_idx int 

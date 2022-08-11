@@ -1,0 +1,5 @@
+struct TYPE_8__ | DebugData struct TYPE_7__ * 
+struct TYPE_9__ | machine struct TYPE_8__ 
+struct TYPE_6__ | ds64 int 
+struct TYPE_7__ | uds struct TYPE_6__ 
+function find_debug_state64 int * | thread struct TYPE_9__ *

@@ -1,0 +1,1 @@
+function da9150_gpadc_read_scale int | channel int | val int * | val2 int *

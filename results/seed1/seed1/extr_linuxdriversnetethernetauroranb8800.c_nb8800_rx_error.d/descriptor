@@ -1,0 +1,3 @@
+struct TYPE_2__ | rx_errors int | rx_frame_errors int | rx_fifo_errors int | rx_crc_errors int | rx_length_errors int 
+struct net_device | stats struct TYPE_2__ 
+function nb8800_rx_error void | dev struct net_device * | report int

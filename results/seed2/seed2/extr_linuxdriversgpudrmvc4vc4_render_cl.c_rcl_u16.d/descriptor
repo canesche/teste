@@ -1,0 +1,3 @@
+struct vc4_rcl_setup | next_offset long | rcl struct TYPE_2__ * 
+struct TYPE_2__ | vaddr long 
+function rcl_u16 void | setup struct vc4_rcl_setup * | val int

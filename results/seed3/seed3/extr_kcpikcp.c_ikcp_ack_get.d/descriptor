@@ -1,0 +1,2 @@
+struct TYPE_3__ | acklist int * 
+function ikcp_ack_get void | kcp const struct TYPE_3__ * | p int | sn int * | ts int *

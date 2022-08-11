@@ -1,0 +1,2 @@
+struct rxf_desc | dummy int 
+function bdx_rx_fifo_size_to_packets int | rx_size int

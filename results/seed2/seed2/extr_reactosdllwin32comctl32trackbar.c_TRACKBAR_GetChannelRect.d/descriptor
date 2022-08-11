@@ -1,0 +1,4 @@
+struct TYPE_8__ | top int | bottom int | right int | left int 
+struct TYPE_6__ | top int | bottom int | right int | left int 
+struct TYPE_7__ | rcChannel struct TYPE_6__ 
+function TRACKBAR_GetChannelRect int | infoPtr const struct TYPE_7__ * | lprc struct TYPE_8__ *

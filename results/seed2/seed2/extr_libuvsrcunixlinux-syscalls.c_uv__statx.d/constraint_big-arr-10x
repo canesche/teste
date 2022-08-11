@@ -1,0 +1,1 @@
+value(dirfd) == 10, value(flags) == 10, value(mask) == 10, length(path) == 100, length(statxbuf) == 100

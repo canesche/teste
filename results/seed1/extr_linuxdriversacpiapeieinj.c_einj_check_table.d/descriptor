@@ -1,4 +1,0 @@
-struct TYPE_2__ | length int 
-struct acpi_table_einj | header_length int | entries int | header struct TYPE_2__ 
-struct acpi_einj_entry | dummy int 
-function einj_check_table int | einj_tab struct acpi_table_einj *

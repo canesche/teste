@@ -1,2 +1,0 @@
-struct dma_tx_state | residue int 
-function dma_set_residue void | state struct dma_tx_state * | residue int

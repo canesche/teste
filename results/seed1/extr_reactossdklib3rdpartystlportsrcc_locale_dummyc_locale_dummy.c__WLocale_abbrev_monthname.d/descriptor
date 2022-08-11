@@ -1,2 +1,0 @@
-struct _Locale_time | dummy int 
-function _WLocale_abbrev_monthname const int * | ltime struct _Locale_time * | n int | buf int * | bufSize unsigned long

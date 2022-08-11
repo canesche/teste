@@ -1,0 +1,7 @@
+struct sitesurvey_ctrl | last_tx_pkts long | last_rx_pkts long | traffic_busy int 
+struct registry_priv | busy_thresh long 
+struct mlme_priv | sitesurveyctrl struct sitesurvey_ctrl 
+struct TYPE_4__ | rx_pkts long 
+struct TYPE_3__ | tx_pkts long 
+struct _adapter | recvpriv struct TYPE_4__ | xmitpriv struct TYPE_3__ | registrypriv struct registry_priv | mlmepriv struct mlme_priv 
+function _r8712_sitesurvey_ctrl_handler void | adapter struct _adapter *

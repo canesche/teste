@@ -1,0 +1,4 @@
+struct gdIOCtx | dummy int 
+struct TYPE_4__ | dp struct TYPE_3__ * 
+struct TYPE_3__ | pos long 
+function dynamicTell long | ctx struct gdIOCtx *

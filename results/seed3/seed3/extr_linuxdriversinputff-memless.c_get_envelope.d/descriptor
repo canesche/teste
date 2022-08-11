@@ -1,0 +1,6 @@
+struct ff_envelope | dummy int 
+struct TYPE_5__ | envelope const struct ff_envelope 
+struct TYPE_4__ | envelope const struct ff_envelope 
+struct TYPE_6__ | constant struct TYPE_5__ | periodic struct TYPE_4__ 
+struct ff_effect | type int | u struct TYPE_6__ 
+function get_envelope const struct ff_envelope * | effect const struct ff_effect *

@@ -1,0 +1,2 @@
+struct omap_hsmmc_host | dummy int 
+function omap_hsmmc_context_restore int | host struct omap_hsmmc_host *

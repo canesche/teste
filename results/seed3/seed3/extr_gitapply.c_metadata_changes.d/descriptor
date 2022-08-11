@@ -1,0 +1,2 @@
+struct patch | is_rename long | is_copy long | is_new long | old_mode long | new_mode long | is_delete long 
+function metadata_changes int | patch struct patch *

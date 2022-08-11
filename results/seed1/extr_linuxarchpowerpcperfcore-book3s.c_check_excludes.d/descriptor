@@ -1,4 +1,0 @@
-struct TYPE_3__ | exclude_user int | exclude_kernel int | exclude_hv int 
-struct perf_event | attr struct TYPE_3__ 
-struct TYPE_4__ | flags int 
-function check_excludes int | ctrs struct perf_event ** | cflags unsigned int [] | n_prev int | n_new int

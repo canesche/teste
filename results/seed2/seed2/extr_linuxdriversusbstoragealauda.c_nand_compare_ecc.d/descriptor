@@ -1,0 +1,1 @@
+function nand_compare_ecc int | data unsigned char * | ecc unsigned char *

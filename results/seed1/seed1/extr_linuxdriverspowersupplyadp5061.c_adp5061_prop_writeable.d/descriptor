@@ -1,0 +1,2 @@
+struct power_supply | dummy int 
+function adp5061_prop_writeable int | psy struct power_supply * | psp enum power_supply_property

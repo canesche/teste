@@ -1,0 +1,2 @@
+struct fb_info | dummy int 
+function wmt_ge_sync int | p struct fb_info *

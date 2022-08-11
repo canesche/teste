@@ -1,7 +1,0 @@
-struct TYPE_5__ | start_idx unsigned int | count unsigned int 
-struct TYPE_6__ | buffer struct TYPE_5__ 
-struct wined3d_view_desc | format_id long | u struct TYPE_6__ 
-struct wined3d_format | byte_count unsigned int 
-struct TYPE_4__ | structure_byte_stride unsigned int 
-struct wined3d_buffer | desc struct TYPE_4__ 
-function get_buffer_view_range void | buffer const struct wined3d_buffer * | desc const struct wined3d_view_desc * | view_format const struct wined3d_format * | offset unsigned int * | size unsigned int *

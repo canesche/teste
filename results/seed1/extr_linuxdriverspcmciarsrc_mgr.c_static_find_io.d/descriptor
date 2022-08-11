@@ -1,3 +1,0 @@
-struct resource | dummy int 
-struct pcmcia_socket | io_offset unsigned int 
-function static_find_io int | s struct pcmcia_socket * | attr unsigned int | base unsigned int * | num unsigned int | align unsigned int | parent struct resource **

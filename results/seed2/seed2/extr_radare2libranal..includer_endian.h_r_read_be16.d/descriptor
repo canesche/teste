@@ -1,0 +1,1 @@
+function r_read_be16 int | src const void *

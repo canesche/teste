@@ -1,0 +1,6 @@
+struct ad714x_wheel_plat | end_stage int | start_stage int | max_coord int 
+struct ad714x_wheel_drv | highest_stage int | abs_pos int 
+struct ad714x_chip | sensor_val int * | sw struct TYPE_4__ * | hw struct TYPE_3__ * 
+struct TYPE_4__ | wheel struct ad714x_wheel_drv * 
+struct TYPE_3__ | wheel struct ad714x_wheel_plat * 
+function ad714x_wheel_cal_abs_pos void | ad714x struct ad714x_chip * | idx int

@@ -1,0 +1,2 @@
+struct vsock_sock | dummy int 
+function virtio_transport_stream_is_active int | vsk struct vsock_sock *

@@ -1,0 +1,3 @@
+struct spi_transfer | len long 
+struct spi_device | dummy int 
+function sc18is602_check_transfer int | spi struct spi_device * | t struct spi_transfer * | tlen int

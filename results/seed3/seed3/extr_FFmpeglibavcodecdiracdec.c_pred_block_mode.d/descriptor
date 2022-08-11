@@ -1,0 +1,2 @@
+struct TYPE_3__ | ref int 
+function pred_block_mode int | block struct TYPE_3__ * | stride int | x int | y int | refmask int

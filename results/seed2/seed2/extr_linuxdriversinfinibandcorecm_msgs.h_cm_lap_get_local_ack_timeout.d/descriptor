@@ -1,0 +1,2 @@
+struct cm_lap_msg | offset63 int 
+function cm_lap_get_local_ack_timeout int | lap_msg struct cm_lap_msg *

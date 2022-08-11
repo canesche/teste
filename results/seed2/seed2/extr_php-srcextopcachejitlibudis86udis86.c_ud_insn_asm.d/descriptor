@@ -1,0 +1,2 @@
+struct ud | asm_buf const char * 
+function ud_insn_asm const char * | u const struct ud *

@@ -1,0 +1,4 @@
+struct TYPE_6__ | vertexOffset long | indexOffset long | numSurfaces long | numBatches long | vao struct TYPE_4__ * 
+struct TYPE_5__ | vertexCommitSize int | indexCommitSize int | numSurfaces long 
+struct TYPE_4__ | vertexesSize long | indexesSize long 
+function VaoCache_CheckAdd void | endSurface int * | recycleVertexBuffer int * | recycleIndexBuffer int * | numVerts int | numIndexes int

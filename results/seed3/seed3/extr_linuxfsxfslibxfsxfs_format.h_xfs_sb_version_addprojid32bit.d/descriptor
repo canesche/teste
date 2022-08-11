@@ -1,0 +1,2 @@
+struct xfs_sb | sb_features2 int | sb_versionnum int 
+function xfs_sb_version_addprojid32bit void | sbp struct xfs_sb *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | expectedDataSize int 
+function Lzma2Enc_SetDataSize void | pp long | expectedDataSiize int

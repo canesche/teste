@@ -1,2 +1,0 @@
-struct dmz_metadata | nr_chunks unsigned int 
-function dmz_nr_chunks unsigned int | zmd struct dmz_metadata *

@@ -1,0 +1,2 @@
+struct isci_port | phy_table long * 
+function sci_port_get_phys unsigned long | iport struct isci_port *

@@ -1,2 +1,0 @@
-struct crypto4xx_device | pdr_head int | pdr_tail int 
-function crypto4xx_get_pd_from_pdr_nolock int | dev struct crypto4xx_device *

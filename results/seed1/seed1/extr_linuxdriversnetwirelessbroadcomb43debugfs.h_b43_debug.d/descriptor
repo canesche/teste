@@ -1,0 +1,2 @@
+struct b43_wldev | dummy int 
+function b43_debug int | dev struct b43_wldev * | feature enum b43_dyndbg

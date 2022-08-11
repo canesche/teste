@@ -1,0 +1,2 @@
+struct opt3001 | int_time int 
+function opt3001_get_int_time int | opt struct opt3001 * | val int * | val2 int *

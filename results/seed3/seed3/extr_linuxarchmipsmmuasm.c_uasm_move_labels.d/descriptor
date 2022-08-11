@@ -1,0 +1,2 @@
+struct uasm_label | lab long | addr int * 
+function uasm_move_labels void | lab struct uasm_label * | first int * | end int * | off long

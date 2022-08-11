@@ -1,2 +1,0 @@
-struct t4_srq | pending_cidx long | size long | in_use int | pending_in_use int 
-function t4_srq_consume_pending_wr void | srq struct t4_srq *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversclkclk-versaclock5.c_vc5_regmap_is_writeable.d/extr_linuxdriversclkclk-versaclock5.c_vc5_regmap_is_writeable_O0::vc5_regmap_is_writeable(61)"
+  }
+]

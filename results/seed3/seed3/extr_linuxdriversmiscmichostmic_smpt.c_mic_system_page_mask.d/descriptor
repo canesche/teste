@@ -1,0 +1,4 @@
+struct mic_device | smpt struct TYPE_4__ * 
+struct TYPE_3__ | page_shift unsigned long long 
+struct TYPE_4__ | info struct TYPE_3__ 
+function mic_system_page_mask unsigned long long | mdev struct mic_device *

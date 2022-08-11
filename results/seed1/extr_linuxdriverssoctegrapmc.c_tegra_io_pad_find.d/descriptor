@@ -1,4 +1,0 @@
-struct tegra_pmc | soc struct TYPE_2__ * 
-struct tegra_io_pad_soc | id int 
-struct TYPE_2__ | num_io_pads unsigned int | io_pads const struct tegra_io_pad_soc * 
-function tegra_io_pad_find const struct tegra_io_pad_soc * | pmc struct tegra_pmc * | id enum tegra_io_pad

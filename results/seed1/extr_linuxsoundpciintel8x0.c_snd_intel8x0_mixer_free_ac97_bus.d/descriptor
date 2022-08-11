@@ -1,3 +1,0 @@
-struct snd_ac97_bus | private_data struct intel8x0 * 
-struct intel8x0 | ac97_bus int * 
-function snd_intel8x0_mixer_free_ac97_bus void | bus struct snd_ac97_bus *

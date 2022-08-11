@@ -1,0 +1,4 @@
+struct ubifs_info | dummy int 
+struct ubifs_idx_node | branches long 
+struct ubifs_branch | key long 
+function ubifs_idx_key void * | c const struct ubifs_info * | idx const struct ubifs_idx_node *

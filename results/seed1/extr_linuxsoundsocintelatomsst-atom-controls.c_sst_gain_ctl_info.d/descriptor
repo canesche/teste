@@ -1,6 +1,0 @@
-struct sst_gain_mixer_control | max int | min int | stereo long 
-struct snd_kcontrol | private_value long 
-struct TYPE_3__ | max int | min int 
-struct TYPE_4__ | integer struct TYPE_3__ 
-struct snd_ctl_elem_info | count int | value struct TYPE_4__ | type int 
-function sst_gain_ctl_info int | kcontrol struct snd_kcontrol * | uinfo struct snd_ctl_elem_info *

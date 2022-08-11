@@ -1,0 +1,1 @@
+value(dst_linesize) == 10, value(src_linesize) == 10, value(width) == 10, value(height) == 10, value(log2_scale) == 10, length(dst) == 100, length(src) == 100, length(dither) == 100

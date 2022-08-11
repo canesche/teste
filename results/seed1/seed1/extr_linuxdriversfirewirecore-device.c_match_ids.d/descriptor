@@ -1,0 +1,2 @@
+struct ieee1394_device_id | vendor_id int | model_id int | specifier_id int | version int | match_flags int 
+function match_ids int | id_table const struct ieee1394_device_id * | id int *

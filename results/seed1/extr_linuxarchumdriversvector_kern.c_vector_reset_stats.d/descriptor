@@ -1,3 +1,0 @@
-struct TYPE_2__ | sg_linearized long | sg_ok long | tx_flow_control_xoff long | tx_flow_control_xon long | tx_kicks long | tx_restart_queue long | tx_timeout_count long | rx_encaps_errors long | tx_queue_running_average long | tx_queue_max long | rx_queue_running_average long | rx_queue_max long 
-struct vector_private | estats struct TYPE_2__ 
-function vector_reset_stats void | vp struct vector_private *

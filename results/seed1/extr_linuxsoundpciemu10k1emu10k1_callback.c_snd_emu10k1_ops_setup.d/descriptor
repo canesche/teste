@@ -1,2 +1,0 @@
-struct snd_emux | ops int 
-function snd_emu10k1_ops_setup void | emux struct snd_emux *

@@ -1,1 +1,0 @@
-function dummy_log int | prio int | tag const char * | msg const char *

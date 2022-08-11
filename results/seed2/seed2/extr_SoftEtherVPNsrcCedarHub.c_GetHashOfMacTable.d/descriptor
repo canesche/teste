@@ -1,0 +1,2 @@
+struct TYPE_2__ | VlanId long | MacAddress long * 
+function GetHashOfMacTable long | p void *

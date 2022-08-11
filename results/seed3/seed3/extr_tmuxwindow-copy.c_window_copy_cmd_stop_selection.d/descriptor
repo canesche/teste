@@ -1,0 +1,4 @@
+struct window_mode_entry | data struct window_copy_mode_data * 
+struct window_copy_mode_data | lineflag int | cursordrag int 
+struct window_copy_cmd_state | wme struct window_mode_entry * 
+function window_copy_cmd_stop_selection enum window_copy_cmd_action | cs struct window_copy_cmd_state *

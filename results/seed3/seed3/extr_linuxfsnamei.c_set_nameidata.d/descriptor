@@ -1,0 +1,4 @@
+struct nameidata | dfd int | saved struct nameidata * | total_link_count int | name struct filename * | internal int | stack int 
+struct filename | dummy int 
+struct TYPE_2__ | nameidata struct nameidata * 
+function set_nameidata void | p struct nameidata * | dfd int | name struct filename *

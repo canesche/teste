@@ -1,2 +1,0 @@
-struct ath_hw | dummy int 
-function ath9k_hw_ar9300_get_spur_channel int | ah struct ath_hw * | i int | is2GHz int

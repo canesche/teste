@@ -1,0 +1,2 @@
+struct TYPE_3__ | bLength int 
+function USBH_GetNextDesc struct TYPE_3__ * | pbuf int * | ptr int *

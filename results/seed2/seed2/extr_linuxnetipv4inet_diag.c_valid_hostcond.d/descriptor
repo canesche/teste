@@ -1,0 +1,5 @@
+struct inet_diag_hostcond | family int | prefix_len int 
+struct inet_diag_bc_op | dummy int 
+struct in_addr | dummy int 
+struct in6_addr | dummy int 
+function valid_hostcond int | op const struct inet_diag_bc_op * | len int | min_len int *

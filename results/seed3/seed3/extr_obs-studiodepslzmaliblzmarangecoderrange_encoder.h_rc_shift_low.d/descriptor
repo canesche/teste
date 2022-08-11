@@ -1,0 +1,2 @@
+struct TYPE_3__ | low int | cache_size long | cache int 
+function rc_shift_low int | rc struct TYPE_3__ * | out long * | out_pos unsigned long * | out_size unsigned long

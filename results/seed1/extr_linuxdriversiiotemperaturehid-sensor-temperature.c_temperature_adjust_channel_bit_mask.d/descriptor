@@ -1,3 +1,0 @@
-struct TYPE_2__ | sign char | realbits int | storagebits int 
-struct iio_chan_spec | scan_type struct TYPE_2__ 
-function temperature_adjust_channel_bit_mask void | channels struct iio_chan_spec * | channel int | size int

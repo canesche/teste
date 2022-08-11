@@ -1,0 +1,2 @@
+struct ibuf | max unsigned long | wpos unsigned long 
+function ibuf_left unsigned long | buf struct ibuf *

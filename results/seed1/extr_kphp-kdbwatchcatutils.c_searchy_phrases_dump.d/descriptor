@@ -1,3 +1,0 @@
-struct TYPE_6__ | minus_flag int | type int | words int | H int * 
-struct TYPE_7__ | next struct TYPE_7__ * | type int | words int | H int * 
-function searchy_phrases_dump struct TYPE_6__ * | dest struct TYPE_6__ * | cur struct TYPE_7__ * | minus_flag int | dest_words_buf int * | src_words_buf int *

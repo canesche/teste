@@ -1,0 +1,2 @@
+struct tty3270 | esc_par long * 
+function tty3270_getpar int | tp struct tty3270 * | ix int

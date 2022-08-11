@@ -1,0 +1,2 @@
+struct dma_buf | dummy int 
+function tegra_gem_prime_kmap void * | buf struct dma_buf * | page unsigned long

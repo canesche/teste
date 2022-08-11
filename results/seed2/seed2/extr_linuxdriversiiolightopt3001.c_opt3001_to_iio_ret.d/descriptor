@@ -1,0 +1,2 @@
+struct opt3001 | dummy int 
+function opt3001_to_iio_ret void | opt struct opt3001 * | exponent int | mantissa int | val int * | val2 int *

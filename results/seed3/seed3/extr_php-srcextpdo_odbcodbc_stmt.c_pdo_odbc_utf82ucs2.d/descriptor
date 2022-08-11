@@ -1,0 +1,1 @@
+function pdo_odbc_utf82ucs2 int | stmt int * | is_unicode int | buf const char * | buflen int | outlen int *

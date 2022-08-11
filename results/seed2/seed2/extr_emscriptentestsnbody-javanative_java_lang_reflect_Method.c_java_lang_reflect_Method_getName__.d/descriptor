@@ -1,0 +1,4 @@
+struct TYPE_7__ | name_ struct TYPE_9__ * 
+struct TYPE_8__ | java_lang_reflect_Method struct TYPE_7__ 
+struct TYPE_9__ | fields struct TYPE_8__ 
+function java_lang_reflect_Method_getName__ struct TYPE_9__ * | me struct TYPE_9__ *

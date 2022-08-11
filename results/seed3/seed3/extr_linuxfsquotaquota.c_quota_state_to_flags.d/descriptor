@@ -1,0 +1,3 @@
+struct qc_state | s_state struct TYPE_2__ * 
+struct TYPE_2__ | flags int 
+function quota_state_to_flags int | state struct qc_state *

@@ -1,0 +1,2 @@
+struct vnic_dev | priv void * 
+function vnic_dev_priv void * | vdev struct vnic_dev *

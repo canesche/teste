@@ -1,0 +1,2 @@
+struct fib6_info | dst_host long | dst_nopolicy long | dst_nocount long 
+function fib6_info_dst_flags unsigned short | rt struct fib6_info *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | eba1 void * | eba0 void * 
+struct chan_param_mem | pp struct TYPE_2__ 
+function ipu_ch_param_set_buffer void | params union chan_param_mem * | buf0 void * | buf1 void *

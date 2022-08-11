@@ -1,3 +1,0 @@
-struct wbsd_host | num_sg long | cur_sg struct TYPE_2__ * | remain int | offset long 
-struct TYPE_2__ | length int 
-function wbsd_next_sg int | host struct wbsd_host *

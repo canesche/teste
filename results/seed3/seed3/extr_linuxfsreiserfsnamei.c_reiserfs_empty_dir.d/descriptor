@@ -1,0 +1,2 @@
+struct inode | i_size long 
+function reiserfs_empty_dir int | inode struct inode *

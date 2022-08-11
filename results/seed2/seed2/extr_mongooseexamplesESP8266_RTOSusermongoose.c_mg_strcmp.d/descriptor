@@ -1,0 +1,2 @@
+struct mg_str | len unsigned long | p long * 
+function mg_strcmp int | str1 const struct mg_str | str2 const struct mg_str

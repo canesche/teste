@@ -1,0 +1,1 @@
+value(is_capture_cert) == 255, value(is_capture_html) == 255, value(is_capture_heartbleed) == 255, value(is_capture_ticketbleed) == 255, length(tcpcon) == 65025

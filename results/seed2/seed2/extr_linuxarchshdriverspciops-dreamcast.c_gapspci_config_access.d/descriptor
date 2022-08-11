@@ -1,0 +1,1 @@
+function gapspci_config_access int | bus unsigned char | devfn unsigned int

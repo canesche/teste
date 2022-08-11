@@ -1,4 +1,0 @@
-struct TYPE_3__ | tcam_sz int | tcam_top int 
-struct niu | parent struct TYPE_4__ * | clas struct TYPE_3__ 
-struct TYPE_4__ | num_ports int 
-function tcam_get_index int | np struct niu * | idx int

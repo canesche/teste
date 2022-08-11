@@ -1,0 +1,2 @@
+struct TYPE_3__ | str int * | len int | start long 
+function reader_init_cstrvalue void | str int * | len int | v struct TYPE_3__ *

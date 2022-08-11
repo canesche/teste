@@ -1,0 +1,4 @@
+struct list_head | prev struct TYPE_4__ * | next struct TYPE_3__ * 
+struct TYPE_4__ | next struct TYPE_3__ * 
+struct TYPE_3__ | prev struct TYPE_4__ * 
+function list_del void | entry struct list_head *

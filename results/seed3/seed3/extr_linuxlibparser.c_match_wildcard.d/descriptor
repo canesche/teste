@@ -1,0 +1,1 @@
+function match_wildcard int | pattern const char * | str const char *

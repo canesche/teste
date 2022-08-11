@@ -1,0 +1,5 @@
+struct ath_btcoex_hw | scheme long | btpriority_gpio void * | wlanactive_gpio void * | btactive_gpio void * 
+struct ath_hw | dev struct TYPE_2__ * | btcoex_hw struct ath_btcoex_hw 
+struct ath9k_platform_data | bt_priority_pin void * | wlan_active_pin void * | bt_active_pin void * 
+struct TYPE_2__ | platform_data struct ath9k_platform_data * 
+function ath9k_hw_btcoex_pin_init void | ah struct ath_hw * | wlanactive_gpio void * | btactive_gpio void * | btpriority_gpio void *

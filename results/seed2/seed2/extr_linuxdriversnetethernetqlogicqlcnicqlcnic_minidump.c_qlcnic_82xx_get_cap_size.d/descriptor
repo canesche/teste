@@ -1,0 +1,2 @@
+struct qlcnic_82xx_dump_template_hdr | cap_sizes int * 
+function qlcnic_82xx_get_cap_size int | t_hdr void * | index int

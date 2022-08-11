@@ -1,0 +1,2 @@
+struct fontlist | len double 
+function getErrorCnt unsigned int | item struct fontlist *

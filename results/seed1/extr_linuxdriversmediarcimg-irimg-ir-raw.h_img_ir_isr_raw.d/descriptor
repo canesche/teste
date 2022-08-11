@@ -1,2 +1,0 @@
-struct img_ir_priv | dummy int 
-function img_ir_isr_raw void | priv struct img_ir_priv * | irq_status int

@@ -1,0 +1,3 @@
+struct TYPE_5__ | crypto_connections_length long | crypto_connections struct TYPE_4__ * 
+struct TYPE_4__ | status long 
+function crypt_connection_id_not_valid int | c const struct TYPE_5__ * | crypt_connection_id int

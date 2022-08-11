@@ -1,0 +1,4 @@
+struct usb_interface | cur_altsetting struct TYPE_4__ * 
+struct TYPE_3__ | bInterfaceNumber int 
+struct TYPE_4__ | desc struct TYPE_3__ 
+function interface_to_InterfaceNumber int | interface struct usb_interface *

@@ -1,0 +1,4 @@
+struct vb_device_info | VGAHDE unsigned short | HDE unsigned short | VGAVDE unsigned short | VDE unsigned short 
+struct TYPE_4__ | Ext_RESINFO unsigned short 
+struct TYPE_3__ | HTotal unsigned short | VTotal unsigned short 
+function XGI_GetLVDSResInfo void | ModeIdIndex unsigned short | pVBInfo struct vb_device_info *

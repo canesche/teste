@@ -1,0 +1,3 @@
+struct mvneta_bm_pool | dummy int 
+struct mvneta_bm | dummy int 
+function mvneta_bm_bufs_free void | priv struct mvneta_bm * | bm_pool struct mvneta_bm_pool * | port_map int

@@ -1,0 +1,2 @@
+struct TYPE_2__ | start_paddr unsigned long | size unsigned long | nid int 
+function paddr_to_nid int | paddr unsigned long

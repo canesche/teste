@@ -1,0 +1,1 @@
+function del_arg void | argc int | argv char ** | index int

@@ -1,3 +1,0 @@
-struct nvkm_object | dummy int 
-struct nvkm_notify | types int | index long | size long 
-function nvkm_fifo_cevent_ctor int | object struct nvkm_object * | data void * | size long | notify struct nvkm_notify *

@@ -1,0 +1,2 @@
+struct MPT3SAS_ADAPTER | reply void * | reply_dma long 
+function mpt3sas_base_get_reply_virt_addr void * | ioc struct MPT3SAS_ADAPTER * | phys_addr void *

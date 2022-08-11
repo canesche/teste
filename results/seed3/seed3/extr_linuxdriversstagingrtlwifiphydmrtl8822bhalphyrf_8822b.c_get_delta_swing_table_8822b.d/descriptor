@@ -1,0 +1,5 @@
+struct rtl_phy | current_channel int 
+struct rtl_priv | phy struct rtl_phy 
+struct dm_rf_calibration_struct | delta_swing_table_idx_2ga_p int * | delta_swing_table_idx_2ga_n int * | delta_swing_table_idx_2gb_p int * | delta_swing_table_idx_2gb_n int * | delta_swing_table_idx_5ga_p int ** | delta_swing_table_idx_5ga_n int ** | delta_swing_table_idx_5gb_p int ** | delta_swing_table_idx_5gb_n int ** 
+struct phy_dm_struct | adapter long | rf_calibrate_info struct dm_rf_calibration_struct 
+function get_delta_swing_table_8822b void | dm_void void * | temperature_up_a int ** | temperature_down_a int ** | temperature_up_b int ** | temperature_down_b int **

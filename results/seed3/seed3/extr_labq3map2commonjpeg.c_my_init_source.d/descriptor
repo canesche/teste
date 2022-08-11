@@ -1,0 +1,3 @@
+struct TYPE_5__ | src int 
+struct TYPE_4__ | start_of_file int 
+function my_init_source void | cinfo struct TYPE_5__ *

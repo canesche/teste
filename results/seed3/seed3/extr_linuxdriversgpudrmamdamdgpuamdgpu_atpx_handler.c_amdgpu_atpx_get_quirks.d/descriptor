@@ -1,0 +1,4 @@
+struct pci_dev | vendor long | device long | subsystem_vendor long | subsystem_device long 
+struct amdgpu_px_quirk | chip_device long | chip_vendor long | subsys_vendor long | subsys_device long | px_quirk_flags int 
+struct TYPE_2__ | quirks int 
+function amdgpu_atpx_get_quirks void | pdev struct pci_dev *

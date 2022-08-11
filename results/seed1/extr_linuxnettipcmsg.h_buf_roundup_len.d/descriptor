@@ -1,2 +1,0 @@
-struct sk_buff | len int 
-function buf_roundup_len int | skb struct sk_buff *

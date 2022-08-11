@@ -1,2 +1,0 @@
-struct counter | meta long | timezone int 
-function copy_ancestor void | dst struct counter * | src struct counter *

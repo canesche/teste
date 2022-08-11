@@ -1,3 +1,0 @@
-struct TYPE_4__ | tso_segsz int | csum_flags int 
-struct TYPE_5__ | m_flags int | m_pkthdr struct TYPE_4__ 
-function mbuf_get_tso_requested int | mbuf struct TYPE_5__ * | request int * | value int *

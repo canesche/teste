@@ -1,0 +1,2 @@
+struct hv_ring_buffer_info | priv_read_index long | ring_datasize long 
+function hv_pkt_iter_bytes_read long | rbi const struct hv_ring_buffer_info * | start_read_index long

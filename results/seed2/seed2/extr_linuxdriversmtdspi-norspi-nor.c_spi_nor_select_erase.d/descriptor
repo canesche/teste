@@ -1,0 +1,4 @@
+struct mtd_info | erasesize long 
+struct spi_nor | erase_opcode int | mtd struct mtd_info 
+struct flash_info | sector_size long 
+function spi_nor_select_erase int | nor struct spi_nor * | info const struct flash_info *

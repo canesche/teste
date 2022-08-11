@@ -1,0 +1,2 @@
+struct bson | buffer int | ptr int | cap int | size long 
+function bson_create void | b struct bson *

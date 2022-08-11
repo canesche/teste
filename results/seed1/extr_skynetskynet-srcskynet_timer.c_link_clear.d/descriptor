@@ -1,4 +1,0 @@
-struct timer_node | dummy int 
-struct TYPE_2__ | next struct timer_node * 
-struct link_list | head struct TYPE_2__ | tail struct TYPE_2__ * 
-function link_clear struct timer_node * | list struct link_list *

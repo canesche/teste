@@ -1,0 +1,3 @@
+struct TYPE_5__ | nTracks unsigned long | tracks struct TYPE_6__ * 
+struct TYPE_6__ | wStatus long | dwEventPulse int 
+function MIDI_mciFindNextEvent struct TYPE_6__ * | wmm struct TYPE_5__ * | hiPulse int *

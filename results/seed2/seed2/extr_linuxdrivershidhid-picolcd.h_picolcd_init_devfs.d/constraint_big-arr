@@ -1,0 +1,1 @@
+length(data) == 65025, length(eeprom_r) == 65025, length(eeprom_w) == 65025, length(flash_r) == 65025, length(flash_w) == 65025, length(reset) == 65025

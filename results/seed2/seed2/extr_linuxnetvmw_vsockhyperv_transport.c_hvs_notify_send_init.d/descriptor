@@ -1,0 +1,3 @@
+struct vsock_transport_send_notify_data | dummy int 
+struct vsock_sock | dummy int 
+function hvs_notify_send_init int | vsk struct vsock_sock * | d struct vsock_transport_send_notify_data *

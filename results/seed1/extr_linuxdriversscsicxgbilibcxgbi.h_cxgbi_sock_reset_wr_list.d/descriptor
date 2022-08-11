@@ -1,2 +1,0 @@
-struct cxgbi_sock | wr_pending_tail int * | wr_pending_head int 
-function cxgbi_sock_reset_wr_list void | csk struct cxgbi_sock *

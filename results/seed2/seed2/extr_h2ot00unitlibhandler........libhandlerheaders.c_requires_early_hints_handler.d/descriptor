@@ -1,0 +1,3 @@
+struct st_headers_filter_t | cmds struct TYPE_2__ * 
+struct TYPE_2__ | cmd long | when long 
+function requires_early_hints_handler int | self struct st_headers_filter_t *

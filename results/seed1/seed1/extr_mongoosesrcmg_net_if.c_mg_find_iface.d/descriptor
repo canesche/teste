@@ -1,0 +1,4 @@
+struct mg_mgr | num_ifaces int | ifaces struct mg_iface ** 
+struct mg_iface_vtable | dummy int 
+struct mg_iface | vtable const struct mg_iface_vtable * 
+function mg_find_iface struct mg_iface * | mgr struct mg_mgr * | vtable const struct mg_iface_vtable * | from struct mg_iface *

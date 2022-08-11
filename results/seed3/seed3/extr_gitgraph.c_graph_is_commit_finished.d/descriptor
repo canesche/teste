@@ -1,0 +1,2 @@
+struct git_graph | state long 
+function graph_is_commit_finished int | graph const struct git_graph *

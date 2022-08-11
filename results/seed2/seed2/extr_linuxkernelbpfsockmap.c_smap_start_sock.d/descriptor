@@ -1,0 +1,3 @@
+struct sock | sk_data_ready long | sk_write_space int 
+struct smap_psock | save_data_ready long | strp_enabled int | save_write_space int 
+function smap_start_sock void | psock struct smap_psock * | sk struct sock *

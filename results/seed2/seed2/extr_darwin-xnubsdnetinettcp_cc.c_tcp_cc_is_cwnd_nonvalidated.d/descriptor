@@ -1,0 +1,5 @@
+struct tcpcb | t_pipeack int | t_flagsext int | snd_cwnd int | t_inpcb struct TYPE_4__ * 
+struct TYPE_3__ | sb_cc long 
+struct socket | so_snd struct TYPE_3__ 
+struct TYPE_4__ | inp_socket struct socket * 
+function tcp_cc_is_cwnd_nonvalidated int | tp struct tcpcb *

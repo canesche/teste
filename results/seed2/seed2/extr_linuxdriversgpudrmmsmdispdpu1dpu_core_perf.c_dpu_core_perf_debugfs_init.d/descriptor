@@ -1,0 +1,3 @@
+struct dpu_core_perf | dummy int 
+struct dentry | dummy int 
+function dpu_core_perf_debugfs_init int | perf struct dpu_core_perf * | parent struct dentry *

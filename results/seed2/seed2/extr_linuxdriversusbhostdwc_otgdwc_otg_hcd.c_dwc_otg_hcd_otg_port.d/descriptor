@@ -1,0 +1,2 @@
+struct TYPE_3__ | otg_port int 
+function dwc_otg_hcd_otg_port int | hcd struct TYPE_3__ *

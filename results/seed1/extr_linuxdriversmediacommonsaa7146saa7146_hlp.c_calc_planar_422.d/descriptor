@@ -1,6 +1,0 @@
-struct saa7146_vv | vflip long 
-struct saa7146_video_dma | pitch int | prot_addr long | base_even long | base_odd long 
-struct saa7146_buf | pt struct TYPE_4__ * | fmt struct TYPE_3__ * 
-struct TYPE_4__ | offset long 
-struct TYPE_3__ | height int | width int 
-function calc_planar_422 int | vv struct saa7146_vv * | buf struct saa7146_buf * | vdma2 struct saa7146_video_dma * | vdma3 struct saa7146_video_dma *

@@ -1,0 +1,2 @@
+struct btf | fd int 
+function btf__fd int | btf const struct btf *

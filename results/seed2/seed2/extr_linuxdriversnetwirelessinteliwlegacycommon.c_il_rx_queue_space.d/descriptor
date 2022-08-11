@@ -1,0 +1,2 @@
+struct il_rx_queue | read int | write int 
+function il_rx_queue_space int | q const struct il_rx_queue *

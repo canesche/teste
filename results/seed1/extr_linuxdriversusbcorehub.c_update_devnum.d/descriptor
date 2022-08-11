@@ -1,2 +1,0 @@
-struct usb_device | devnum int | wusb int 
-function update_devnum void | udev struct usb_device * | devnum int

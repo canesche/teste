@@ -1,5 +1,0 @@
-struct TYPE_6__ | out struct TYPE_8__ * | in struct TYPE_8__ * 
-struct TYPE_9__ | priv struct TYPE_7__ * 
-struct TYPE_8__ | height int | linesize const int * | width int | data long * 
-struct TYPE_7__ | lut unsigned long ** 
-function apply_lut16_p int | ctx struct TYPE_9__ * | arg void * | jobnr int | nb_jobs int

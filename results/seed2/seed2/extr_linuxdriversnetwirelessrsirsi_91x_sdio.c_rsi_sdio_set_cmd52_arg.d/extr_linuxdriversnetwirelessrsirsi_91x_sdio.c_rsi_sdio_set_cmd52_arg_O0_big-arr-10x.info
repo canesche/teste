@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessrsirsi_91x_sdio.c_rsi_sdio_set_cmd52_arg.d/extr_linuxdriversnetwirelessrsirsi_91x_sdio.c_rsi_sdio_set_cmd52_arg_O0::rsi_sdio_set_cmd52_arg(66)"
+  }
+]

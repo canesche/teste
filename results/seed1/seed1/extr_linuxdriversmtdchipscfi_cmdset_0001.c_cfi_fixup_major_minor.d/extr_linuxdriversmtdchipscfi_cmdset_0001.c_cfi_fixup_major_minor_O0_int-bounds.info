@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmtdchipscfi_cmdset_0001.c_cfi_fixup_major_minor.d/extr_linuxdriversmtdchipscfi_cmdset_0001.c_cfi_fixup_major_minor_O0::cfi_fixup_major_minor(65)"
+  }
+]

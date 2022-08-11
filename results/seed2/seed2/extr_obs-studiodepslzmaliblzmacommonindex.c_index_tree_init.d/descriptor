@@ -1,0 +1,2 @@
+struct TYPE_3__ | count long | rightmost int * | leftmost int * | root int * 
+function index_tree_init void | tree struct TYPE_3__ *

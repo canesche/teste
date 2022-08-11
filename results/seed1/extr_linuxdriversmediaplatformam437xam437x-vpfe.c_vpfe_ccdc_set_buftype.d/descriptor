@@ -1,5 +1,0 @@
-struct TYPE_5__ | buf_type int 
-struct TYPE_4__ | buf_type int 
-struct TYPE_6__ | if_type long | ycbcr struct TYPE_5__ | bayer struct TYPE_4__ 
-struct vpfe_ccdc | ccdc_cfg struct TYPE_6__ 
-function vpfe_ccdc_set_buftype int | ccdc struct vpfe_ccdc * | buf_type enum ccdc_buftype

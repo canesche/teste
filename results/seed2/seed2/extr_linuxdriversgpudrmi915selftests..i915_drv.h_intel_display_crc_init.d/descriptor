@@ -1,0 +1,2 @@
+struct drm_i915_private | dummy int 
+function intel_display_crc_init void | dev_priv struct drm_i915_private *

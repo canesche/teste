@@ -1,0 +1,3 @@
+struct radeon_encoder_primary_dac | ps2_pdac_adj int 
+struct radeon_device | family unsigned long 
+function radeon_legacy_get_primary_dac_info_from_table void | rdev struct radeon_device * | p_dac struct radeon_encoder_primary_dac *

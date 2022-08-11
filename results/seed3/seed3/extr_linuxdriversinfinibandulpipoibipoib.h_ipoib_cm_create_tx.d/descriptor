@@ -1,0 +1,5 @@
+struct net_device | dummy int 
+struct ipoib_path | dummy int 
+struct ipoib_neigh | dummy int 
+struct ipoib_cm_tx | dummy int 
+function ipoib_cm_create_tx struct ipoib_cm_tx * | dev struct net_device * | path struct ipoib_path * | neigh struct ipoib_neigh *

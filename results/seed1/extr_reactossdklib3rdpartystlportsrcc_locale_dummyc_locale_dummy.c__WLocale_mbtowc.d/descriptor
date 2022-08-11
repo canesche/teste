@@ -1,2 +1,0 @@
-struct _Locale_codecvt | dummy int 
-function _WLocale_mbtowc unsigned long | lcodecvt struct _Locale_codecvt * | to char * | from const char * | n unsigned long | st int *

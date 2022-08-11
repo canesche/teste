@@ -1,0 +1,3 @@
+struct mmci_host | variant struct TYPE_2__ * 
+struct TYPE_2__ | fifohalfsize int 
+function mmci_qcom_get_rx_fifocnt int | host struct mmci_host * | status int | r int

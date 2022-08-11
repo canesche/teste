@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxfsxfslibxfsxfs_dir2.h_xfs_dir2_byte_to_dataptr.d/extr_linuxfsxfslibxfsxfs_dir2.h_xfs_dir2_byte_to_dataptr_O0::xfs_dir2_byte_to_dataptr(64)"
+  }
+]

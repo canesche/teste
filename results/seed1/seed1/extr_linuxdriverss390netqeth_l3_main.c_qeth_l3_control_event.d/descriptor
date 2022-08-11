@@ -1,0 +1,3 @@
+struct qeth_ipa_cmd | dummy int 
+struct qeth_card | dummy int 
+function qeth_l3_control_event int | card struct qeth_card * | cmd struct qeth_ipa_cmd *

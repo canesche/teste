@@ -1,0 +1,3 @@
+struct pvr2_ctrl | hdw struct TYPE_2__ * 
+struct TYPE_2__ | std_mask_cur int 
+function ctrl_stdcur_get int | cptr struct pvr2_ctrl * | vp int *

@@ -1,0 +1,3 @@
+struct AVCodecParserContext | dummy int 
+struct TYPE_3__ | parser struct AVCodecParserContext * 
+function av_stream_get_parser struct AVCodecParserContext * | st const struct TYPE_3__ *

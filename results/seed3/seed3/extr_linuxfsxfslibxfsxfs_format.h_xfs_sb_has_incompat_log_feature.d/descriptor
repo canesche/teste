@@ -1,0 +1,2 @@
+struct xfs_sb | sb_features_log_incompat int 
+function xfs_sb_has_incompat_log_feature int | sbp struct xfs_sb * | feature int

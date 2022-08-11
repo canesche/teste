@@ -1,0 +1,3 @@
+struct solo_enc_dev | ch int | solo_dev struct solo_dev * 
+struct solo_dev | motion_mask int 
+function solo_is_motion_on int | solo_enc struct solo_enc_dev *

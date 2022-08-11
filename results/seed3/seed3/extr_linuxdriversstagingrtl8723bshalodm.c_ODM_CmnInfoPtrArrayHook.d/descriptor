@@ -1,0 +1,2 @@
+struct TYPE_3__ | pODM_StaInfo int * 
+function ODM_CmnInfoPtrArrayHook void | pDM_Odm struct TYPE_3__ * | CmnInfo int | Index unsigned long | pValue void *

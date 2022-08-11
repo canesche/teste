@@ -1,0 +1,4 @@
+struct TYPE_7__ | requested_options_conn long | requested_options long | adapter struct TYPE_6__ * | appl struct TYPE_5__ * 
+struct TYPE_6__ | requested_options_table long * | manufacturer_features int 
+struct TYPE_5__ | Id int 
+function get_b1_facilities int | plci struct TYPE_7__ * | b1_resource unsigned long

@@ -1,0 +1,2 @@
+struct TYPE_3__ | log_id int * 
+function CTLOG_get0_log_id void | log const struct TYPE_3__ * | log_id const int ** | log_id_len unsigned long *

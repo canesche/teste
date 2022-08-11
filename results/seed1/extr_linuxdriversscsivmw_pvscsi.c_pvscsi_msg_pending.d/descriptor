@@ -1,3 +1,0 @@
-struct pvscsi_adapter | rings_state struct PVSCSIRingsState * 
-struct PVSCSIRingsState | msgProdIdx long | msgConsIdx long 
-function pvscsi_msg_pending int | adapter const struct pvscsi_adapter *

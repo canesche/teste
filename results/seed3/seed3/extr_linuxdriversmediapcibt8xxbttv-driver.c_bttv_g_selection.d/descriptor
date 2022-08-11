@@ -1,0 +1,8 @@
+struct v4l2_selection | type long | target int | r int 
+struct file | dummy int 
+struct bttv_fh | do_crop int | btv struct bttv * 
+struct bttv | tvnorm unsigned long | crop struct TYPE_4__ * 
+struct TYPE_5__ | bounds int | defrect int 
+struct TYPE_6__ | cropcap struct TYPE_5__ 
+struct TYPE_4__ | rect int 
+function bttv_g_selection int | file struct file * | f void * | sel struct v4l2_selection *

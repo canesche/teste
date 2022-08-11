@@ -1,0 +1,4 @@
+struct window_pane | ictx struct TYPE_2__ * 
+struct evbuffer | dummy int 
+struct TYPE_2__ | since_ground struct evbuffer * 
+function input_pending struct evbuffer * | wp struct window_pane *

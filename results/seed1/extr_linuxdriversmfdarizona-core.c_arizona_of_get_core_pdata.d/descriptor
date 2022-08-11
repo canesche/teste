@@ -1,2 +1,0 @@
-struct arizona | dummy int 
-function arizona_of_get_core_pdata int | arizona struct arizona *

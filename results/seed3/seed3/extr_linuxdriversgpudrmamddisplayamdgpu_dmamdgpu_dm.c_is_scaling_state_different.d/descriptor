@@ -1,0 +1,2 @@
+struct dm_connector_state | scaling long | underscan_hborder long | underscan_vborder long | underscan_enable long 
+function is_scaling_state_different int | dm_state const struct dm_connector_state * | old_dm_state const struct dm_connector_state *

@@ -1,2 +1,0 @@
-struct branch | opcode int | delta unsigned long 
-function paravirt_patch_jmp unsigned int | insnbuf void * | target const void * | addr unsigned long | len unsigned int

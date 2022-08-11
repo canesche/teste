@@ -1,0 +1,2 @@
+struct TYPE_2__ | i2 int | facing int 
+function R_AddEdgeDef void | i1 int | i2 int | facing int

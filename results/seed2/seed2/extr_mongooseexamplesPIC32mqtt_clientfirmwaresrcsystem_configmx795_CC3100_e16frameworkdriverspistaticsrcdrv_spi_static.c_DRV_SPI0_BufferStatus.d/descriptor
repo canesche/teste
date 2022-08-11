@@ -1,0 +1,2 @@
+struct TYPE_2__ | status int 
+function DRV_SPI0_BufferStatus int | bufferHandle long

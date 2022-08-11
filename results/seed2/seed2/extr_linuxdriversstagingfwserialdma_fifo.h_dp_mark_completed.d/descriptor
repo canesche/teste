@@ -1,0 +1,2 @@
+struct dma_pending | data int 
+function dp_mark_completed void | dp struct dma_pending *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | num int | flags int | ptr int * | init long 
+function fd_new int | bi struct TYPE_3__ *

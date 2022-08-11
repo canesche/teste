@@ -1,0 +1,3 @@
+struct TYPE_4__ | typecnt int | charcnt int | leapcnt int | ttisstdcnt int | ttisgmtcnt int 
+struct TYPE_5__ | _bit32 struct TYPE_4__ 
+function skip_32bit_types void | tzf const unsigned char ** | tz struct TYPE_5__ *

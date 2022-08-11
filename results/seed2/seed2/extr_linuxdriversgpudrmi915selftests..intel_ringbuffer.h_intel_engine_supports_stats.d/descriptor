@@ -1,0 +1,2 @@
+struct intel_engine_cs | flags int 
+function intel_engine_supports_stats int | engine const struct intel_engine_cs *

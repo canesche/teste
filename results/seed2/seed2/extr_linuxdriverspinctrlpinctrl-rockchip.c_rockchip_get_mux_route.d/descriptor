@@ -1,0 +1,5 @@
+struct rockchip_pinctrl | ctrl struct rockchip_pin_ctrl * 
+struct rockchip_pin_ctrl | niomux_routes int | iomux_routes struct rockchip_mux_route_data * 
+struct rockchip_pin_bank | bank_num long | drvdata struct rockchip_pinctrl * 
+struct rockchip_mux_route_data | bank_num long | pin int | func int | route_val int | route_offset int 
+function rockchip_get_mux_route int | bank struct rockchip_pin_bank * | pin int | mux int | reg int * | value int *

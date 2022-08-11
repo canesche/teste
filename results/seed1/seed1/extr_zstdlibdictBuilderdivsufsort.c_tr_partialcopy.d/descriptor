@@ -1,0 +1,1 @@
+function tr_partialcopy void | ISA int * | SA const int * | first int * | a int * | b int * | last int * | depth int

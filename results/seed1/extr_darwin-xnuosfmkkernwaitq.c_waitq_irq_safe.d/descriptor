@@ -1,2 +1,0 @@
-struct waitq | waitq_irq int 
-function waitq_irq_safe int | waitq struct waitq *

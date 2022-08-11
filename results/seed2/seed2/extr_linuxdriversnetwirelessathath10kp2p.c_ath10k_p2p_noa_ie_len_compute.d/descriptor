@@ -1,0 +1,3 @@
+struct wmi_p2p_noa_info | num_descriptors int | ctwindow_oppps int 
+struct ieee80211_p2p_noa_desc | dummy int 
+function ath10k_p2p_noa_ie_len_compute unsigned long | noa const struct wmi_p2p_noa_info *

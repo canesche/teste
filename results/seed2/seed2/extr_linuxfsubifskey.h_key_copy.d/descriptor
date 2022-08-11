@@ -1,0 +1,3 @@
+struct ubifs_key | u64 int * 
+struct ubifs_info | dummy int 
+function key_copy void | c const struct ubifs_info * | from const union ubifs_key * | to union ubifs_key *

@@ -1,0 +1,2 @@
+struct nfs4_stid | sc_type long 
+function nfs4_unhash_stid void | s struct nfs4_stid *

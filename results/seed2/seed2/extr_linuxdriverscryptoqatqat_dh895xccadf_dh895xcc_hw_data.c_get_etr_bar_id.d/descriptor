@@ -1,0 +1,2 @@
+struct adf_hw_device_data | dummy int 
+function get_etr_bar_id int | self struct adf_hw_device_data *

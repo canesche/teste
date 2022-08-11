@@ -1,3 +1,0 @@
-struct pxad_desc_sw | nb_desc int | first void * | hw_desc struct pxad_desc_hw ** | cyclic long 
-struct pxad_desc_hw | dcmd int | ddadr void * | dtadr void * | dsadr void * 
-function set_updater_desc void | sw_desc struct pxad_desc_sw * | flags unsigned long

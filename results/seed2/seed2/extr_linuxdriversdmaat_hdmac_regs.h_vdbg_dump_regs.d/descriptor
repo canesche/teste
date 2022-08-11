@@ -1,0 +1,2 @@
+struct at_dma_chan | dummy int 
+function vdbg_dump_regs void | atchan struct at_dma_chan *

@@ -1,0 +1,4 @@
+struct TYPE_2__ | id long 
+struct xdp_mem_allocator | mem struct TYPE_2__ 
+struct rhashtable_compare_arg | key long 
+function xdp_mem_id_cmp int | arg struct rhashtable_compare_arg * | ptr const void *

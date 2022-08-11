@@ -1,0 +1,2 @@
+struct dmi_header | length int 
+function dmi_entry_length unsigned long | dh const struct dmi_header *

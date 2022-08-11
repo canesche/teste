@@ -1,0 +1,2 @@
+struct txpower_info_2g | index_cck_base int ** | index_bw40_base int ** | bw20_diff int ** | ofdm_diff int ** | bw40_diff int ** | cck_diff int ** 
+function set_24g_base void | pwrinfo24g struct txpower_info_2g * | rfpath unsigned long

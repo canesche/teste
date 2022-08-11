@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function ohci_pxa_of_init int | pdev struct platform_device *

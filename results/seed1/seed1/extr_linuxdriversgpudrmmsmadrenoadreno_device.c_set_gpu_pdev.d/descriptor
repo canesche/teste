@@ -1,0 +1,4 @@
+struct platform_device | dummy int 
+struct msm_drm_private | gpu_pdev struct platform_device * 
+struct drm_device | dev_private struct msm_drm_private * 
+function set_gpu_pdev void | dev struct drm_device * | pdev struct platform_device *

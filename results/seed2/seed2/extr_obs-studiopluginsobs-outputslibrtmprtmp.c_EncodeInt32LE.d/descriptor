@@ -1,0 +1,1 @@
+function EncodeInt32LE int | output char * | nVal int

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function device_pm_add void | dev struct device *

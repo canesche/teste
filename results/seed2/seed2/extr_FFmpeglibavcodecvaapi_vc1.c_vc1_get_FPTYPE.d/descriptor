@@ -1,0 +1,3 @@
+struct TYPE_5__ | pict_type int 
+struct TYPE_4__ | bi_type int | s struct TYPE_5__ 
+function vc1_get_FPTYPE int | v const struct TYPE_4__ *

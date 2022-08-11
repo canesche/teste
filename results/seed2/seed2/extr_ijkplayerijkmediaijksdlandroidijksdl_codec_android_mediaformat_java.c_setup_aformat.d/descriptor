@@ -1,0 +1,3 @@
+struct TYPE_5__ | func_setBuffer int | func_setInt32 int | func_getInt32 int | func_delete int | opaque struct TYPE_4__ * 
+struct TYPE_4__ | android_media_format int 
+function setup_aformat void | aformat struct TYPE_5__ * | android_media_format int

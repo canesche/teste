@@ -1,0 +1,2 @@
+struct ubi_device | vtbl_slots int 
+function idx2vol_id int | ubi const struct ubi_device * | idx int

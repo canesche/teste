@@ -1,2 +1,0 @@
-struct TYPE_3__ | HASH_HMACKeyType int | HASH_DataType int | HASH_AlgoMode int | HASH_AlgoSelection int 
-function HASH_StructInit void | HASH_InitStruct struct TYPE_3__ *

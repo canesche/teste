@@ -1,0 +1,4 @@
+struct TYPE_7__ | huff_lsbs int | codebook int | huff_offset int 
+struct TYPE_6__ | substream struct TYPE_5__ * 
+struct TYPE_5__ | quant_step_size int * | channel_params struct TYPE_7__ * 
+function calculate_sign_huff int | m struct TYPE_6__ * | substr unsigned int | ch unsigned int

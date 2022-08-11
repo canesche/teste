@@ -1,0 +1,2 @@
+struct sym_quehead | flink struct sym_quehead * | blink struct sym_quehead * 
+function __sym_que_del void | blink struct sym_quehead * | flink struct sym_quehead *

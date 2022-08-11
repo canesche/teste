@@ -1,0 +1,2 @@
+struct irq_data | irq int 
+function ixp4xx_irq_ack void | d struct irq_data *

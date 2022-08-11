@@ -1,5 +1,0 @@
-struct TYPE_4__ | speed long 
-struct dummy | ep struct TYPE_6__ * | gadget struct TYPE_4__ 
-struct TYPE_5__ | maxpacket int 
-struct TYPE_6__ | ep struct TYPE_5__ 
-function dummy_udc_update_ep0 void | dum struct dummy *

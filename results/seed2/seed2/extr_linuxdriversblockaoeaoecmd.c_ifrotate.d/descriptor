@@ -1,0 +1,3 @@
+struct aoetgt | ifp struct aoeif * | ifs struct aoeif * 
+struct aoeif | nd int * 
+function ifrotate struct aoeif * | t struct aoetgt *

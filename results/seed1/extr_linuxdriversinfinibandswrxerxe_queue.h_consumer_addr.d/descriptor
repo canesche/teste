@@ -1,3 +1,0 @@
-struct rxe_queue | index_mask int | log2_elem_size int | buf struct TYPE_2__ * 
-struct TYPE_2__ | data void * | consumer_index int 
-function consumer_addr void * | q struct rxe_queue *

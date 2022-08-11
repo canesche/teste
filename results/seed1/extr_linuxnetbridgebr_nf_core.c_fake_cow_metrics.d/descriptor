@@ -1,2 +1,0 @@
-struct dst_entry | dummy int 
-function fake_cow_metrics int * | dst struct dst_entry * | old unsigned long

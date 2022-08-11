@@ -1,0 +1,4 @@
+struct mmc_host | caps int | caps2 int 
+struct TYPE_2__ | raw_card_type unsigned int | hs_max_dtr unsigned int | hs200_max_dtr unsigned int | strobe_support long 
+struct mmc_card | mmc_avail_type unsigned int | ext_csd struct TYPE_2__ | host struct mmc_host * 
+function mmc_select_card_type void | card struct mmc_card *

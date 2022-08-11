@@ -1,0 +1,2 @@
+struct TYPE_3__ | rot float 
+function obs_sceneitem_get_rot float | item const struct TYPE_3__ *

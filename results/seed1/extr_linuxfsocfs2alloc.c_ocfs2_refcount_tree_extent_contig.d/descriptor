@@ -1,3 +1,0 @@
-struct ocfs2_extent_tree | dummy int 
-struct ocfs2_extent_rec | dummy int 
-function ocfs2_refcount_tree_extent_contig enum ocfs2_contig_type | et struct ocfs2_extent_tree * | ext struct ocfs2_extent_rec * | insert_rec struct ocfs2_extent_rec *

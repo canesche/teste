@@ -1,2 +1,0 @@
-struct Scsi_Host | dummy int 
-function scsi_autopm_put_host void | h struct Scsi_Host *

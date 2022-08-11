@@ -1,0 +1,2 @@
+struct grub_nilfs2_btree_node | bn_level int 
+function grub_nilfs2_btree_get_level int | node struct grub_nilfs2_btree_node *

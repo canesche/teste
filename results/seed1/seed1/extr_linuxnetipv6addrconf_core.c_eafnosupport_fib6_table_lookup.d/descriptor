@@ -1,0 +1,5 @@
+struct net | dummy int 
+struct flowi6 | dummy int 
+struct fib6_table | dummy int 
+struct fib6_info | dummy int 
+function eafnosupport_fib6_table_lookup struct fib6_info * | net struct net * | table struct fib6_table * | oif int | fl6 struct flowi6 * | flags int

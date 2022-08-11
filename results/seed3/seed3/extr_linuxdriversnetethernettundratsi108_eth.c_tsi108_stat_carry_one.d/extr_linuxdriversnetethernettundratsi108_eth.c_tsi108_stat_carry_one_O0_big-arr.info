@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetethernettundratsi108_eth.c_tsi108_stat_carry_one.d/extr_linuxdriversnetethernettundratsi108_eth.c_tsi108_stat_carry_one_O0::tsi108_stat_carry_one(62)"
+  }
+]

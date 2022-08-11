@@ -1,0 +1,2 @@
+struct ftrace_event_field | filter_type long 
+function is_function_field int | field struct ftrace_event_field *

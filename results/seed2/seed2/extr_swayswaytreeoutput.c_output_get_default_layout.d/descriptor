@@ -1,0 +1,3 @@
+struct sway_output | height long | width long 
+struct TYPE_2__ | default_layout long | default_orientation long 
+function output_get_default_layout enum sway_container_layout | output struct sway_output *

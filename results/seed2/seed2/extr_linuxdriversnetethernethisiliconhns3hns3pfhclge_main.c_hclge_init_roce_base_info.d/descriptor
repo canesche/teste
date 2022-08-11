@@ -1,0 +1,7 @@
+struct TYPE_6__ | num_vectors long | roce_io_base int | netdev int | base_vector int 
+struct TYPE_5__ | netdev int 
+struct hnae3_handle | numa_node_mask int | ae_algo int | pdev int | rinfo struct TYPE_6__ | kinfo struct TYPE_5__ 
+struct hclge_vport | back struct TYPE_8__ * | roce struct hnae3_handle | nic struct hnae3_handle 
+struct TYPE_7__ | io_base int 
+struct TYPE_8__ | num_roce_msi long | num_msi_left long | hw struct TYPE_7__ | roce_base_vector int 
+function hclge_init_roce_base_info int | vport struct hclge_vport *

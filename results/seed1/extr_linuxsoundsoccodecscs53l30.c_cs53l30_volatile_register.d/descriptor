@@ -1,2 +1,0 @@
-struct device | dummy int 
-function cs53l30_volatile_register int | dev struct device * | reg unsigned int

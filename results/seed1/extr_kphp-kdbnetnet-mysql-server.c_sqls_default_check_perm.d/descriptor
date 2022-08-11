@@ -1,2 +1,0 @@
-struct connection | remote_ip int | our_ip int 
-function sqls_default_check_perm int | c struct connection *

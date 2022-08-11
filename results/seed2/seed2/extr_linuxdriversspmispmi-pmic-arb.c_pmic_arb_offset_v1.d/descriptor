@@ -1,0 +1,2 @@
+struct spmi_pmic_arb | channel int 
+function pmic_arb_offset_v1 int | pmic_arb struct spmi_pmic_arb * | sid int | addr int | ch_type enum pmic_arb_channel

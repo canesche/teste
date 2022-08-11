@@ -1,0 +1,4 @@
+struct TYPE_2__ | buffer long 
+struct zd_usb_interrupt | read_regs struct TYPE_2__ 
+struct usb_int_regs | dummy int 
+function get_read_regs struct usb_int_regs * | intr struct zd_usb_interrupt *

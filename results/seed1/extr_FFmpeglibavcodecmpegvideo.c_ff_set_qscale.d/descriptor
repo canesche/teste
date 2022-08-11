@@ -1,2 +1,0 @@
-struct TYPE_3__ | qscale int | chroma_qscale unsigned long | chroma_qscale_table unsigned long * | c_dc_scale_table int * | c_dc_scale int | y_dc_scale_table int * | y_dc_scale int 
-function ff_set_qscale void | s struct TYPE_3__ * | qscale int

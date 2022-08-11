@@ -1,0 +1,4 @@
+struct cx_device_id | part_num long | mfg_num long 
+struct TYPE_2__ | part_num long | mfg_num long 
+struct cx_dev | cx_id struct TYPE_2__ 
+function cx_device_match const struct cx_device_id * | ids const struct cx_device_id * | cx_device struct cx_dev *

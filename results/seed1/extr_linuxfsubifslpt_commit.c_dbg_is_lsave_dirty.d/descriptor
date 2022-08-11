@@ -1,2 +1,0 @@
-struct ubifs_info | lsave_lnum int | lsave_offs int | lpt_drty_flgs int 
-function dbg_is_lsave_dirty int | c struct ubifs_info * | lnum int | offs int

@@ -1,0 +1,2 @@
+struct nlattr | dummy int 
+function ovs_ct_free_action void | a const struct nlattr *

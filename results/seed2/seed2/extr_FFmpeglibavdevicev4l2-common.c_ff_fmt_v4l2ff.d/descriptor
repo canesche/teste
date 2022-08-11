@@ -1,0 +1,2 @@
+struct TYPE_2__ | codec_id long | v4l2_fmt long | ff_fmt int 
+function ff_fmt_v4l2ff enum AVPixelFormat | v4l2_fmt long | codec_id enum AVCodecID

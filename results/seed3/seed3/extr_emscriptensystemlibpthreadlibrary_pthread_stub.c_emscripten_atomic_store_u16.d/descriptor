@@ -1,0 +1,1 @@
+function emscripten_atomic_store_u16 int | addr void * | val int

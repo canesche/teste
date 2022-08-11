@@ -1,2 +1,0 @@
-struct TYPE_3__ | parserOptions int | xinclude int 
-function xsltSetCtxtParseOptions int | ctxt struct TYPE_3__ * | options int

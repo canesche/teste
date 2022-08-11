@@ -1,0 +1,3 @@
+struct at91_udc | ep struct at91_ep * 
+struct at91_ep | maxpacket int 
+function at91sam9263_udc_init int | udc struct at91_udc *

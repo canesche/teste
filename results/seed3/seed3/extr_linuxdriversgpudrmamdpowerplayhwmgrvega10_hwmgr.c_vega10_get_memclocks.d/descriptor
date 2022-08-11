@@ -1,0 +1,10 @@
+struct TYPE_8__ | count unsigned long | entries struct TYPE_7__ * 
+struct vega10_hwmgr | mclk_latency_table struct TYPE_8__ 
+struct pp_hwmgr | backend struct vega10_hwmgr * | pptable long 
+struct pp_clock_levels_with_latency | num_levels unsigned long | data struct TYPE_6__ * 
+struct phm_ppt_v2_information | vdd_dep_on_mclk struct phm_ppt_v1_clock_voltage_dependency_table * 
+struct phm_ppt_v1_clock_voltage_dependency_table | count unsigned long | entries struct TYPE_5__ * 
+struct TYPE_7__ | frequency int | latency int 
+struct TYPE_6__ | clocks_in_khz int | latency_in_us int 
+struct TYPE_5__ | clk int 
+function vega10_get_memclocks void | hwmgr struct pp_hwmgr * | clocks struct pp_clock_levels_with_latency *

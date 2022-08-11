@@ -1,0 +1,2 @@
+struct fib6_info | dummy int 
+function mlxsw_sp_rt6_release void | rt struct fib6_info *

@@ -1,0 +1,4 @@
+struct ifacepsredirect_data | dummy int 
+struct guid_index | data_offset int 
+struct TYPE_3__ | ifaceps_section long 
+function get_ifaceps_data struct ifacepsredirect_data * | actctx struct TYPE_3__ * | index struct guid_index *

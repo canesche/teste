@@ -1,0 +1,2 @@
+struct pll_rate_tbl | mode int | m int | n unsigned int | p int 
+function pll_calc_rate unsigned long | rtbl struct pll_rate_tbl * | prate unsigned long | index int | pll_rate unsigned long *

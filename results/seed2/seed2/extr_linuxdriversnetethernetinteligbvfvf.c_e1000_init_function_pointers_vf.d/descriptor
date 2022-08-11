@@ -1,0 +1,6 @@
+struct TYPE_7__ | init_params int 
+struct TYPE_8__ | ops struct TYPE_7__ 
+struct TYPE_5__ | init_params int 
+struct TYPE_6__ | ops struct TYPE_5__ 
+struct e1000_hw | mbx struct TYPE_8__ | mac struct TYPE_6__ 
+function e1000_init_function_pointers_vf void | hw struct e1000_hw *

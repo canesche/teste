@@ -1,0 +1,5 @@
+struct gl_video | num_dr_buffers int | dr_buffers struct dr_buffer * 
+struct dr_buffer | buf struct TYPE_4__ * 
+struct TYPE_3__ | size unsigned long 
+struct TYPE_4__ | params struct TYPE_3__ | data int * 
+function gl_find_dr_buffer struct dr_buffer * | p struct gl_video * | ptr int *

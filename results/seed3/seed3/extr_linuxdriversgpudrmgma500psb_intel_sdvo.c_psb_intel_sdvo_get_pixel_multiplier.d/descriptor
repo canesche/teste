@@ -1,0 +1,2 @@
+struct drm_display_mode | clock int 
+function psb_intel_sdvo_get_pixel_multiplier int | mode struct drm_display_mode *

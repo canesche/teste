@@ -1,0 +1,2 @@
+struct pmbus_data | dummy int 
+function pmbus_regulator_register int | data struct pmbus_data *

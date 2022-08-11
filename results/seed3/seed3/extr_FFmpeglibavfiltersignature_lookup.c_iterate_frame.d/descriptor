@@ -1,0 +1,2 @@
+struct TYPE_4__ | prev struct TYPE_4__ * | next struct TYPE_4__ * 
+function iterate_frame int | frr double | a struct TYPE_4__ ** | b struct TYPE_4__ ** | fcount int | bcount int * | dir int

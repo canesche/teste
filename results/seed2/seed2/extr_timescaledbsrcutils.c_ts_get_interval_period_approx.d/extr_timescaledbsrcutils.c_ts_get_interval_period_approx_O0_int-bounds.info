@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_timescaledbsrcutils.c_ts_get_interval_period_approx.d/extr_timescaledbsrcutils.c_ts_get_interval_period_approx_O0::ts_get_interval_period_approx(67)"
+  }
+]

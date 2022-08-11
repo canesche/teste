@@ -1,0 +1,2 @@
+struct TYPE_2__ | NetworkAddress long | SubnetMask long | GatewayAddress long | Metric long 
+function CmpL3Table int | p1 void * | p2 void *

@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct file | f_mode int 
+function eisa_eeprom_open int | inode struct inode * | file struct file *

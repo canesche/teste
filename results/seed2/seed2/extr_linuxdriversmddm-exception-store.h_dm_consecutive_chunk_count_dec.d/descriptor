@@ -1,0 +1,2 @@
+struct dm_exception | dummy int 
+function dm_consecutive_chunk_count_dec void | e struct dm_exception *

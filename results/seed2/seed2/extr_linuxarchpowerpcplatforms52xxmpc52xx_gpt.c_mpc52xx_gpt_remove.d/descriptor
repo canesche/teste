@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function mpc52xx_gpt_remove int | ofdev struct platform_device *

@@ -1,0 +1,17 @@
+struct TYPE_33__ | left int | top int | right int | bottom int 
+struct TYPE_32__ | top int | right int | bottom int | left long 
+struct TYPE_31__ | left int | top int | right int | bottom int 
+struct TYPE_30__ | left int | top int | right int | bottom int 
+struct TYPE_29__ | left int | top int | right int | bottom int 
+struct TYPE_28__ | left int | top int | right int | bottom int 
+struct TYPE_27__ | left int | top int | right int | bottom int 
+struct TYPE_26__ | left int | top int | right int | bottom int 
+struct TYPE_25__ | left int | top int | right int | bottom int 
+struct TYPE_23__ | left int | right int | bottom int | top int 
+struct TYPE_22__ | left int | top int | right int | bottom int 
+struct TYPE_21__ | left int | top int | right int | bottom int 
+struct TYPE_20__ | left int | top int | right int | bottom int 
+struct TYPE_19__ | left int | top int | right int | bottom int 
+struct TYPE_18__ | left int | top int | right int | bottom int 
+struct TYPE_24__ | cxEdge int | cySizeFrame int | cyEdge int | cyCaption int | cyBorder int | cyMenu int | rcDialogButton struct TYPE_23__ | rcDialogClient struct TYPE_22__ | rcDialogFrame struct TYPE_21__ | rcDialogCaption struct TYPE_20__ | rcDialogCaptionButtons struct TYPE_19__ | rcDesktop struct TYPE_18__ | rcActiveClient struct TYPE_33__ | rcActiveScroll struct TYPE_32__ | cxScrollbar long | rcActiveFrame struct TYPE_31__ | rcActiveMenuBar struct TYPE_30__ | rcActiveCaption struct TYPE_29__ | rcActiveCaptionButtons struct TYPE_28__ | rcInactiveCaption struct TYPE_27__ | rcInactiveFrame struct TYPE_26__ | rcInactiveCaptionButtons struct TYPE_25__ 
+function CalculateItemSize int | pPreviewData struct TYPE_24__ *

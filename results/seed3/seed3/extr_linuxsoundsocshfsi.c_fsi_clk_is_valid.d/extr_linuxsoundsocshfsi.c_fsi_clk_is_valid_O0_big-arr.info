@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsoundsocshfsi.c_fsi_clk_is_valid.d/extr_linuxsoundsocshfsi.c_fsi_clk_is_valid_O0::fsi_clk_is_valid(63)"
+  }
+]

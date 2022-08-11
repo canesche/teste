@@ -1,2 +1,0 @@
-struct tl_tree | dummy int 
-function tl_tree_inc_ref_nat_const void | x struct tl_tree *

@@ -1,3 +1,0 @@
-struct TYPE_4__ | FileAttributes int 
-struct TYPE_5__ | Entry struct TYPE_4__ 
-function NtfsFCBIsDirectory int | Fcb struct TYPE_5__ *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_zstdlibcompressfse_compress.c_FSE_buildCTable_rle.d/extr_zstdlibcompressfse_compress.c_FSE_buildCTable_rle_O0::FSE_buildCTable_rle(67)"
+  }
+]

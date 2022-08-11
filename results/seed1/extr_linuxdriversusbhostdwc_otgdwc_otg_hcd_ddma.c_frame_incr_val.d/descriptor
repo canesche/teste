@@ -1,2 +1,0 @@
-struct TYPE_3__ | dev_speed long | interval int 
-function frame_incr_val int | qh struct TYPE_3__ *

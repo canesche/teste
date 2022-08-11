@@ -1,0 +1,1 @@
+function r_cmd_is_object_descriptor int | name const char * | name_len long

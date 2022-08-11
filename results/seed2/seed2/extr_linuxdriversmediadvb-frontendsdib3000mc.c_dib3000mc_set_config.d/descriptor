@@ -1,0 +1,4 @@
+struct dvb_frontend | demodulator_priv struct dib3000mc_state * 
+struct dib3000mc_state | cfg struct dib3000mc_config * 
+struct dib3000mc_config | dummy int 
+function dib3000mc_set_config void | fe struct dvb_frontend * | cfg struct dib3000mc_config *

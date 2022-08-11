@@ -1,0 +1,3 @@
+struct snd_ac97_bus | private_data struct fm801 * 
+struct fm801 | ac97_bus int * 
+function snd_fm801_mixer_free_ac97_bus void | bus struct snd_ac97_bus *

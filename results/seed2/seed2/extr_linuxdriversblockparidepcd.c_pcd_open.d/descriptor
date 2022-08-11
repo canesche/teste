@@ -1,0 +1,3 @@
+struct pcd_unit | present int 
+struct cdrom_device_info | handle struct pcd_unit * 
+function pcd_open int | cdi struct cdrom_device_info * | purpose int

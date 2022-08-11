@@ -1,0 +1,2 @@
+struct TYPE_3__ | state int * | count long * 
+function SHA1Init void | context struct TYPE_3__ *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | buffer struct TYPE_4__ * 
+struct TYPE_4__ | opaque void * 
+function av_buffer_get_opaque void * | buf const struct TYPE_5__ *

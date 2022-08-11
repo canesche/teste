@@ -1,0 +1,4 @@
+struct ieee80211_supported_band | n_channels int | channels struct TYPE_2__ * 
+struct ath10k | low_5ghz_chan long | high_5ghz_chan long 
+struct TYPE_2__ | center_freq long | flags int 
+function ath10k_mac_update_channel_list void | ar struct ath10k * | band struct ieee80211_supported_band *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | bufend unsigned long | buf int * | bufbeg long 
+function qp_lookahead_eol int | st struct TYPE_3__ * | ateof int | n unsigned long

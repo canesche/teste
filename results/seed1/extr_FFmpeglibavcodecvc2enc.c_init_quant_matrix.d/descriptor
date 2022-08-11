@@ -1,2 +1,0 @@
-struct TYPE_3__ | wavelet_depth int | quant_matrix long | custom_quant_matrix int | wavelet_idx unsigned long | quant void *** 
-function init_quant_matrix void | s struct TYPE_3__ *

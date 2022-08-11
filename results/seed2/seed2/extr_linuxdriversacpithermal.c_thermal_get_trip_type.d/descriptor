@@ -1,0 +1,12 @@
+struct thermal_zone_device | devdata struct acpi_thermal * 
+struct TYPE_14__ | valid long 
+struct TYPE_15__ | flags struct TYPE_14__ 
+struct TYPE_12__ | valid long 
+struct TYPE_13__ | flags struct TYPE_12__ 
+struct TYPE_10__ | valid long 
+struct TYPE_11__ | flags struct TYPE_10__ 
+struct TYPE_18__ | active struct TYPE_17__ * | passive struct TYPE_15__ | hot struct TYPE_13__ | critical struct TYPE_11__ 
+struct acpi_thermal | trips struct TYPE_18__ 
+struct TYPE_16__ | valid long 
+struct TYPE_17__ | flags struct TYPE_16__ 
+function thermal_get_trip_type int | thermal struct thermal_zone_device * | trip int | type enum thermal_trip_type *

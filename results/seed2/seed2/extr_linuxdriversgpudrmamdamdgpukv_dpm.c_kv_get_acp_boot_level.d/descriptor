@@ -1,0 +1,7 @@
+struct amdgpu_clock_voltage_dependency_table | count unsigned long | entries struct TYPE_8__ * 
+struct TYPE_5__ | acp_clock_voltage_dependency_table struct amdgpu_clock_voltage_dependency_table 
+struct TYPE_6__ | dyn_state struct TYPE_5__ 
+struct TYPE_7__ | dpm struct TYPE_6__ 
+struct amdgpu_device | pm struct TYPE_7__ 
+struct TYPE_8__ | clk long 
+function kv_get_acp_boot_level unsigned long | adev struct amdgpu_device *

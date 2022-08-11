@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversttyserialserial_mctrl_gpio.h_mctrl_gpio_disable_ms.d/extr_linuxdriversttyserialserial_mctrl_gpio.h_mctrl_gpio_disable_ms_O0::mctrl_gpio_disable_ms(61)"
+  }
+]

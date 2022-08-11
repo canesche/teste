@@ -1,2 +1,0 @@
-struct ctlr_info | hba_inquiry_data int * 
-function is_scsi_rev_5 int | h struct ctlr_info *

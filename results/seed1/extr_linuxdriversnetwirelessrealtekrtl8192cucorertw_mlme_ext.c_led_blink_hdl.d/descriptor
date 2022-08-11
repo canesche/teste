@@ -1,2 +1,0 @@
-struct LedBlink_param | dummy int 
-function led_blink_hdl int | padapter int * | pbuf unsigned char *

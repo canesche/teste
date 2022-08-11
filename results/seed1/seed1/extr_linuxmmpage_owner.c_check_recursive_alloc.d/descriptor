@@ -1,0 +1,2 @@
+struct stack_trace | nr_entries int | entries unsigned long * 
+function check_recursive_alloc int | trace struct stack_trace * | ip unsigned long

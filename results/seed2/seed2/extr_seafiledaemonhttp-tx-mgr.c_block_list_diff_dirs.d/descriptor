@@ -1,0 +1,1 @@
+function block_list_diff_dirs int | n int | basedir const char * | dirs int *[] | data void * | recurse int *

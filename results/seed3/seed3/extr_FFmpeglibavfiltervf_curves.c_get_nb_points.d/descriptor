@@ -1,0 +1,2 @@
+struct keypoint | next struct keypoint * 
+function get_nb_points int | d const struct keypoint *

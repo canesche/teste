@@ -1,0 +1,3 @@
+struct TYPE_4__ | cy void * | cx void * 
+struct TYPE_5__ | cbStruct int | dwUser void * | dwFlags void * | dvaspect void * | sizel struct TYPE_4__ | polesite int | pstg int | poleobj int | cp void * | clsid int 
+function fill_reobject_struct void | reobj struct TYPE_5__ * | cp void * | poleobj int | pstg int | polesite int | sizel_cx void * | sizel_cy void * | aspect void * | flags void * | user void *

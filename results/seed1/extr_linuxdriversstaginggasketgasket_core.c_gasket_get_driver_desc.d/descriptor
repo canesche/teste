@@ -1,4 +1,0 @@
-struct gasket_driver_desc | dummy int 
-struct gasket_dev | internal_desc struct TYPE_2__ * 
-struct TYPE_2__ | driver_desc const struct gasket_driver_desc * 
-function gasket_get_driver_desc const struct gasket_driver_desc * | dev struct gasket_dev *

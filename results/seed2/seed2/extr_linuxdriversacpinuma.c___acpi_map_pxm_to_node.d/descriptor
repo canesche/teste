@@ -1,0 +1,1 @@
+function __acpi_map_pxm_to_node void | pxm int | node int

@@ -1,0 +1,3 @@
+struct scu_remote_node_context | dummy int 
+struct isci_host | remote_node_entries unsigned long | remote_node_context_table union scu_remote_node_context * | device_table long * 
+function sci_rnc_by_id union scu_remote_node_context * | ihost struct isci_host * | id unsigned long

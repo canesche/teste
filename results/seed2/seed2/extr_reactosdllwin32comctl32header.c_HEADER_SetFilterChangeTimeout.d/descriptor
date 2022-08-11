@@ -1,0 +1,2 @@
+struct TYPE_3__ | filter_change_timeout long 
+function HEADER_SetFilterChangeTimeout long | infoPtr struct TYPE_3__ * | timeout long

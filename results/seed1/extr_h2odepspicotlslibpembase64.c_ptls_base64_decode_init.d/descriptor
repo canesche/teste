@@ -1,2 +1,0 @@
-struct TYPE_3__ | nbo int | status int | v long | nbc long 
-function ptls_base64_decode_init void | state struct TYPE_3__ *

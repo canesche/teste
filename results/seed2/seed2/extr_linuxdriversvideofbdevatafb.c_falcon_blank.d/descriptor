@@ -1,0 +1,3 @@
+struct TYPE_4__ | VDB int | VSS int | HBE int | HSS int | VFT int | HHT int 
+struct TYPE_3__ | vdb int | vss int | hbe int | hss int 
+function falcon_blank int | blank_mode int

@@ -1,0 +1,2 @@
+struct thread_map | nr int 
+function thread_map__nr int | threads struct thread_map *

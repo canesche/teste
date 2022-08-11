@@ -1,0 +1,3 @@
+struct TYPE_6__ | parent struct TYPE_6__ * | right struct TYPE_6__ * | left struct TYPE_6__ * 
+struct TYPE_7__ | tree struct TYPE_6__ * 
+function swap void | huff struct TYPE_7__ * | node1 struct TYPE_6__ * | node2 struct TYPE_6__ *

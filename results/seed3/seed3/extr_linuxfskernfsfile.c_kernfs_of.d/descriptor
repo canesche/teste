@@ -1,0 +1,4 @@
+struct seq_file | private struct kernfs_open_file * 
+struct kernfs_open_file | dummy int 
+struct file | private_data long 
+function kernfs_of struct kernfs_open_file * | file struct file *

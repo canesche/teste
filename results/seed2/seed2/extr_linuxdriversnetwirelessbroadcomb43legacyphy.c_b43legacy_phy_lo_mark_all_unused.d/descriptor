@@ -1,0 +1,4 @@
+struct b43legacy_phy | _lo_pairs struct b43legacy_lopair * 
+struct b43legacy_wldev | phy struct b43legacy_phy 
+struct b43legacy_lopair | used long 
+function b43legacy_phy_lo_mark_all_unused void | dev struct b43legacy_wldev *

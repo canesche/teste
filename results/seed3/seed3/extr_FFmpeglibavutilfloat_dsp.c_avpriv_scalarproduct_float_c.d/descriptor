@@ -1,0 +1,1 @@
+function avpriv_scalarproduct_float_c float | v1 const float * | v2 const float * | len int

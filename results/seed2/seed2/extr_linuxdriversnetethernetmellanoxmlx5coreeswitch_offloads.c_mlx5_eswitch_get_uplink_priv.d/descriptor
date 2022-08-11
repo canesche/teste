@@ -1,0 +1,5 @@
+struct mlx5_eswitch_rep | rep_if struct TYPE_2__ * 
+struct mlx5_esw_offload | vport_reps struct mlx5_eswitch_rep * 
+struct mlx5_eswitch | offloads struct mlx5_esw_offload 
+struct TYPE_2__ | priv void * 
+function mlx5_eswitch_get_uplink_priv void * | esw struct mlx5_eswitch * | rep_type unsigned long

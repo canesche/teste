@@ -1,0 +1,2 @@
+struct hci_chan | dummy int 
+function amp_disconnect_logical_link void | hchan struct hci_chan *

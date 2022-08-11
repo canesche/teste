@@ -1,0 +1,4 @@
+struct sk_buff | dummy int 
+struct net_bridge_port | dummy int 
+struct net_bridge | dummy int 
+function br_multicast_count void | br struct net_bridge * | p const struct net_bridge_port * | skb const struct sk_buff * | type int | dir int

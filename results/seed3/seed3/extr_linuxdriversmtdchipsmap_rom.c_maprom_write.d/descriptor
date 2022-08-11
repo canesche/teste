@@ -1,0 +1,2 @@
+struct mtd_info | dummy int 
+function maprom_write int | mtd struct mtd_info * | to int | len unsigned long | retlen unsigned long * | buf const int *

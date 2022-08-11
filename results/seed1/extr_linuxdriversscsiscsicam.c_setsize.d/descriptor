@@ -1,1 +1,0 @@
-function setsize int | capacity unsigned long | cyls unsigned int * | hds unsigned int * | secs unsigned int *

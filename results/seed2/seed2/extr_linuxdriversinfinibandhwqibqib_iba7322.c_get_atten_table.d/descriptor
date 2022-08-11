@@ -1,0 +1,2 @@
+struct txdds_ent | dummy int 
+function get_atten_table const struct txdds_ent * | txdds const struct txdds_ent * | atten unsigned int

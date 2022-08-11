@@ -1,0 +1,2 @@
+struct hdsp | use_midi_tasklet int 
+function hdsp_set_use_midi_tasklet int | hdsp struct hdsp * | use_tasklet int

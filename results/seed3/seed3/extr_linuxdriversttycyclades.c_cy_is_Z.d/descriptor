@@ -1,0 +1,2 @@
+struct cyclades_card | num_chips unsigned int 
+function cy_is_Z int | card struct cyclades_card *

@@ -1,3 +1,0 @@
-struct drm_device | dev_private struct amdgpu_device * 
-struct amdgpu_device | flags int 
-function amdgpu_device_is_px int | dev struct drm_device *

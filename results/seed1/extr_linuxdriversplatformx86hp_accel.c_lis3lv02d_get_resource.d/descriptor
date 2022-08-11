@@ -1,4 +1,0 @@
-struct acpi_resource_extended_irq | interrupts int * 
-struct TYPE_2__ | extended_irq struct acpi_resource_extended_irq 
-struct acpi_resource | type long | data struct TYPE_2__ 
-function lis3lv02d_get_resource int | resource struct acpi_resource * | context void *

@@ -1,0 +1,2 @@
+struct usb_ep | dummy int 
+function dwc3_gadget_ep0_disable int | ep struct usb_ep *

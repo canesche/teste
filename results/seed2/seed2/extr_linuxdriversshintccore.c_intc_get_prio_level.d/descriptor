@@ -1,0 +1,1 @@
+function intc_get_prio_level unsigned int | irq unsigned int

@@ -1,0 +1,4 @@
+struct vm | vcpu struct TYPE_2__ * 
+struct vlapic | dummy int 
+struct TYPE_2__ | vlapic struct vlapic * 
+function vm_lapic struct vlapic * | vm struct vm * | cpu int

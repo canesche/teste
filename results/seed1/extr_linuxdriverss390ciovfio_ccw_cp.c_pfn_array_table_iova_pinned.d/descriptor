@@ -1,3 +1,0 @@
-struct pfn_array_table | pat_nr int | pat_pa struct pfn_array * 
-struct pfn_array | pa_nr int | pa_iova_pfn unsigned long * 
-function pfn_array_table_iova_pinned int | pat struct pfn_array_table * | iova unsigned long

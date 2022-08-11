@@ -1,0 +1,4 @@
+struct TYPE_2__ | bp int | ctx struct dc_context * | funcs int * 
+struct dce110_timing_generator | min_h_blank int | min_h_front_porch int | min_h_back_porch int | max_v_total long | max_h_total long | base struct TYPE_2__ | controller_id int 
+struct dc_context | dc_bios int 
+function dce110_timing_generator_v_construct void | tg110 struct dce110_timing_generator * | ctx struct dc_context *

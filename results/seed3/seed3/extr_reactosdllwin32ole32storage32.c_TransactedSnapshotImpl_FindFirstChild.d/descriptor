@@ -1,0 +1,4 @@
+struct TYPE_6__ | entries struct TYPE_7__ * 
+struct TYPE_5__ | leftChild unsigned long | rightChild unsigned long | dirRootEntry unsigned long 
+struct TYPE_7__ | parent unsigned long | data struct TYPE_5__ | read long 
+function TransactedSnapshotImpl_FindFirstChild unsigned long | This struct TYPE_6__ * | parent unsigned long

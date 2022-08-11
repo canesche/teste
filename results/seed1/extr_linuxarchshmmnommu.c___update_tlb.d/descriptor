@@ -1,2 +1,0 @@
-struct vm_area_struct | dummy int 
-function __update_tlb void | vma struct vm_area_struct * | address unsigned long | pte int

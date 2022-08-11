@@ -1,0 +1,2 @@
+struct TYPE_3__ | eM11 int | eM22 int | eDy long | eDx long | eM21 long | eM12 long 
+function SetXForm2 void | pxform struct TYPE_3__ *

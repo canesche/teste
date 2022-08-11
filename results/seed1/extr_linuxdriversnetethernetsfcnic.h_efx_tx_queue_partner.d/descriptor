@@ -1,2 +1,0 @@
-struct efx_tx_queue | queue int 
-function efx_tx_queue_partner struct efx_tx_queue * | tx_queue struct efx_tx_queue *

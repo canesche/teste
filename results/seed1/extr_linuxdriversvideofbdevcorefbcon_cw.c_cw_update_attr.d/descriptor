@@ -1,3 +1,0 @@
-struct TYPE_2__ | height int | width int 
-struct vc_data | vc_font struct TYPE_2__ 
-function cw_update_attr void | dst int * | src int * | attribute int | vc struct vc_data *

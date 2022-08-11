@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversstagingrtlwifibtcoexisthalbtc8822b1ant.c_ex_btc8822b1ant_pre_load_firmware.d/extr_linuxdriversstagingrtlwifibtcoexisthalbtc8822b1ant.c_ex_btc8822b1ant_pre_load_firmware_O0::ex_btc8822b1ant_pre_load_firmware(60)"
+  }
+]

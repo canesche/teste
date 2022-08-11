@@ -1,0 +1,3 @@
+struct vm_area_struct | dummy int 
+struct vdso_image | dummy int 
+function vdso_fix_landing void | image const struct vdso_image * | new_vma struct vm_area_struct *

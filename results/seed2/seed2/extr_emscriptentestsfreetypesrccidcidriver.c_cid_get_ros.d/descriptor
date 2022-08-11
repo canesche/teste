@@ -1,0 +1,3 @@
+struct TYPE_4__ | registry char * | ordering char * | supplement int 
+struct TYPE_5__ | cid struct TYPE_4__ 
+function cid_get_ros int | face struct TYPE_5__ * | registry const char ** | ordering const char ** | supplement int *

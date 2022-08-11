@@ -1,0 +1,3 @@
+struct udphdr | dummy int 
+struct ip_tunnel_encap | dummy int 
+function fou_encap_hlen unsigned long | e struct ip_tunnel_encap *

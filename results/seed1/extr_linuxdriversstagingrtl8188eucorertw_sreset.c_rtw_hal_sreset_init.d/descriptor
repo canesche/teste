@@ -1,4 +1,0 @@
-struct sreset_priv | Wifi_Error_Status int 
-struct adapter | HalData struct TYPE_2__ * 
-struct TYPE_2__ | srestpriv struct sreset_priv 
-function rtw_hal_sreset_init void | padapter struct adapter *

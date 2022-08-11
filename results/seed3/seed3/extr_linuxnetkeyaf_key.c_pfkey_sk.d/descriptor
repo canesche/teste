@@ -1,0 +1,3 @@
+struct sock | dummy int 
+struct pfkey_sock | dummy int 
+function pfkey_sk struct pfkey_sock * | sk struct sock *

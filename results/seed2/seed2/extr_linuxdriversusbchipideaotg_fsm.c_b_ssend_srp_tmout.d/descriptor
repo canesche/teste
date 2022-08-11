@@ -1,0 +1,4 @@
+struct TYPE_4__ | b_ssend_srp int | otg struct TYPE_3__ * 
+struct ci_hdrc | fsm struct TYPE_4__ 
+struct TYPE_3__ | state long 
+function b_ssend_srp_tmout int | ci struct ci_hdrc *

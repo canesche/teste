@@ -1,4 +1,0 @@
-struct zram | dummy int 
-struct bio_vec | dummy int 
-struct bio | dummy int 
-function write_to_bdev int | zram struct zram * | bvec struct bio_vec * | index int | parent struct bio * | pentry unsigned long *

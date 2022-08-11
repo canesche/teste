@@ -1,0 +1,4 @@
+struct TYPE_4__ | numFrames int 
+struct TYPE_5__ | name const char * | anim struct TYPE_4__ 
+struct TYPE_6__ | objects struct TYPE_5__ * 
+function ASE_GetSurfaceName const char * | which int

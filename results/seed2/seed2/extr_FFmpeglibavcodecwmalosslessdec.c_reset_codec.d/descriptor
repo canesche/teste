@@ -1,0 +1,4 @@
+struct TYPE_7__ | mclms_recent int | mclms_order int | num_channels int | cdlms_ttl int * | transient int * | transient_pos long * | samples_per_frame int | channel struct TYPE_6__ * | cdlms struct TYPE_5__ ** 
+struct TYPE_6__ | transient_counter int 
+struct TYPE_5__ | order int | recent int 
+function reset_codec void | s struct TYPE_7__ *

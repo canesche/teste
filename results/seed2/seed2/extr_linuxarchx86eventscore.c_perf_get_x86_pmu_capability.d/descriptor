@@ -1,0 +1,3 @@
+struct x86_pmu_capability | events_mask unsigned int | events_mask_len int | bit_width_fixed int | bit_width_gp int | num_counters_fixed int | num_counters_gp int | version int 
+struct TYPE_2__ | events_mask_len int | events_maskl long | cntval_bits int | num_counters_fixed int | num_counters int | version int 
+function perf_get_x86_pmu_capability void | cap struct x86_pmu_capability *

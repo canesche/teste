@@ -1,0 +1,7 @@
+struct bnxt_ring_struct | fw_ring_id int 
+struct TYPE_4__ | coal_bufs int | coal_ticks int 
+struct bnxt_cp_ring_info | rx_ring_coal struct TYPE_4__ | cp_ring_struct struct bnxt_ring_struct 
+struct TYPE_5__ | coal_bufs int | coal_ticks int 
+struct bnxt | cp_nr_rings int | rx_coal struct TYPE_5__ | bnapi struct TYPE_6__ ** 
+struct TYPE_6__ | cp_ring struct bnxt_cp_ring_info 
+function bnxt_init_cp_rings void | bp struct bnxt *

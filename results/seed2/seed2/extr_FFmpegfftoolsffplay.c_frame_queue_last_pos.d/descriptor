@@ -1,0 +1,4 @@
+struct TYPE_7__ | serial long | pos int 
+struct TYPE_6__ | rindex unsigned long | pktq struct TYPE_5__ * | rindex_shown long | queue struct TYPE_7__ * 
+struct TYPE_5__ | serial long 
+function frame_queue_last_pos int | f struct TYPE_6__ *

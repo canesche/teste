@@ -1,0 +1,3 @@
+struct bitmap_page | pending int 
+struct bitmap_counts | chunkshift unsigned long | bp struct bitmap_page * 
+function md_bitmap_set_pending void | bitmap struct bitmap_counts * | offset unsigned long

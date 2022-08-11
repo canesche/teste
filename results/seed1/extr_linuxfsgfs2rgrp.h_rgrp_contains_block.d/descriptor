@@ -1,2 +1,0 @@
-struct gfs2_rgrpd | rd_data0 long | rd_data long 
-function rgrp_contains_block int | rgd struct gfs2_rgrpd * | block long

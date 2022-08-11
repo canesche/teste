@@ -1,0 +1,4 @@
+struct pucan_error_msg | rx_err_cnt int | tx_err_cnt int 
+struct TYPE_2__ | rxerr int | txerr int 
+struct peak_canfd_priv | bec struct TYPE_2__ 
+function pucan_handle_error int | priv struct peak_canfd_priv * | msg struct pucan_error_msg *

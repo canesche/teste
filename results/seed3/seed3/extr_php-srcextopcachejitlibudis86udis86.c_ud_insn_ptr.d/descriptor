@@ -1,0 +1,2 @@
+struct ud | inp_buf_index int | inp_ctr int | inp_buf const int * | inp_sess const int * 
+function ud_insn_ptr const int * | u const struct ud *

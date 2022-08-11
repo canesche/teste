@@ -1,3 +1,0 @@
-struct at24_data | flags int | client struct at24_client * 
-struct at24_client | dummy int 
-function at24_translate_offset struct at24_client * | at24 struct at24_data * | offset unsigned int *

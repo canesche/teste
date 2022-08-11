@@ -1,0 +1,2 @@
+struct net_device | netdev_ops int * 
+function is_ip6gretap_dev int | dev const struct net_device *

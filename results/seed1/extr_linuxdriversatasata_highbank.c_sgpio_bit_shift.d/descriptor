@@ -1,2 +1,0 @@
-struct ecx_plat_data | port_to_sgpio int * 
-function sgpio_bit_shift int | pdata struct ecx_plat_data * | port unsigned long | shift unsigned long

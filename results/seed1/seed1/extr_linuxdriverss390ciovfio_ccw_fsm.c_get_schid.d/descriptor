@@ -1,0 +1,4 @@
+struct vfio_ccw_private | sch struct TYPE_2__ * 
+struct subchannel_id | dummy int 
+struct TYPE_2__ | schid struct subchannel_id 
+function get_schid struct subchannel_id | p struct vfio_ccw_private *

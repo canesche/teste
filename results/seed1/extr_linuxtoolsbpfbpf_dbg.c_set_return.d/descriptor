@@ -1,2 +1,0 @@
-struct bpf_regs | Rs int | R long 
-function set_return void | r struct bpf_regs *

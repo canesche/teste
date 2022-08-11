@@ -1,0 +1,2 @@
+struct mt7601u_dev | rf_pa_mode int * 
+function mt7601u_phy_rf_pa_mode_val int | dev struct mt7601u_dev * | phy_mode int | tx_rate int

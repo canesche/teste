@@ -1,0 +1,1 @@
+function calc_crc_16_ccitt int | src const int * | nbytes unsigned long | crc int

@@ -1,0 +1,3 @@
+struct snd_ice1712 | spec struct aureon_spec * 
+struct aureon_spec | stac9744 unsigned short * 
+function aureon_ac97_read unsigned short | ice struct snd_ice1712 * | reg unsigned short

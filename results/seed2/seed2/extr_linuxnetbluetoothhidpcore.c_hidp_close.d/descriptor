@@ -1,0 +1,2 @@
+struct hid_device | dummy int 
+function hidp_close void | hid struct hid_device *

@@ -1,0 +1,5 @@
+struct plat_stmmacenet_data | clk_csr int | has_gmac int | force_sf_dma_mode int | unicast_filter_entries int | tx_queues_to_use int | rx_queues_to_use int | rx_queues_cfg struct TYPE_6__ * | tx_queues_cfg struct TYPE_5__ * | maxmtu int | multicast_filter_bins int | mdio_bus_data struct TYPE_4__ * 
+struct TYPE_6__ | use_prio int | pkt_route int 
+struct TYPE_5__ | use_prio int 
+struct TYPE_4__ | phy_mask long | phy_reset int * 
+function common_default_data void | plat struct plat_stmmacenet_data *

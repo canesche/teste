@@ -1,0 +1,2 @@
+struct led_classdev | brightness int 
+function asus_led_cdev_get enum led_brightness | led_cdev struct led_classdev *

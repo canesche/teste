@@ -1,0 +1,6 @@
+struct TYPE_4__ | priority int | seq_num int | frag_num int 
+struct TYPE_5__ | attrib struct TYPE_4__ 
+struct TYPE_6__ | hdr struct TYPE_5__ 
+struct recv_frame | u struct TYPE_6__ 
+struct stainfo_rxcache | tid_rxseq long * 
+function recv_decache int | precv_frame union recv_frame * | bretry int | prxcache struct stainfo_rxcache *

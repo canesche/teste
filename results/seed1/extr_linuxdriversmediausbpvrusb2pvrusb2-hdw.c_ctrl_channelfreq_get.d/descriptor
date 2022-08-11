@@ -1,3 +1,0 @@
-struct pvr2_hdw | freqProgSlot int | freqTable int * 
-struct pvr2_ctrl | hdw struct pvr2_hdw * 
-function ctrl_channelfreq_get int | cptr struct pvr2_ctrl * | vp int *

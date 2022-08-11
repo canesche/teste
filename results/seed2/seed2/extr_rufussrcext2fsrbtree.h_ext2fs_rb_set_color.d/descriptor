@@ -1,0 +1,2 @@
+struct rb_node | rb_parent_color int 
+function ext2fs_rb_set_color void | rb struct rb_node * | color int

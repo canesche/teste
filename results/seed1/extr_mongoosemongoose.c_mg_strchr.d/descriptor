@@ -1,2 +1,0 @@
-struct mg_str | len unsigned long | p int * 
-function mg_strchr const char * | s const struct mg_str | c int

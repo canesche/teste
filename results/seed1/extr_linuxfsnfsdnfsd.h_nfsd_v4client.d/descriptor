@@ -1,2 +1,0 @@
-struct svc_rqst | rq_prog long | rq_vers int 
-function nfsd_v4client int | rq struct svc_rqst *

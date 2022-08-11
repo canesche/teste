@@ -1,0 +1,2 @@
+struct client | flags int 
+function server_redraw_client void | c struct client *

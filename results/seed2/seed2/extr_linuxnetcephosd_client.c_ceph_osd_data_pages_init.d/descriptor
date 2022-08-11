@@ -1,0 +1,3 @@
+struct page | dummy int 
+struct ceph_osd_data | pages_from_pool int | own_pages int | alignment int | length int | pages struct page ** | type int 
+function ceph_osd_data_pages_init void | osd_data struct ceph_osd_data * | pages struct page ** | length int | alignment int | pages_from_pool int | own_pages int

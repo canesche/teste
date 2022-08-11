@@ -1,0 +1,2 @@
+struct pcidas64_board | layout long 
+function ai_dma_ring_count unsigned int | board const struct pcidas64_board *

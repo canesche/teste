@@ -1,2 +1,0 @@
-struct omap_sdrc_params | rate unsigned long 
-function omap2_sdrc_get_params int | r unsigned long | sdrc_cs0 struct omap_sdrc_params ** | sdrc_cs1 struct omap_sdrc_params **

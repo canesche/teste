@@ -1,2 +1,0 @@
-struct proc | p_lflag int 
-function proc_get_register int | p struct proc *

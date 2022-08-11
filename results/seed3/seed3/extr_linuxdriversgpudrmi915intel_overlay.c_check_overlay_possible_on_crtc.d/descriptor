@@ -1,0 +1,4 @@
+struct intel_overlay | dummy int 
+struct intel_crtc | config struct TYPE_2__ * | active int 
+struct TYPE_2__ | double_wide long 
+function check_overlay_possible_on_crtc int | overlay struct intel_overlay * | crtc struct intel_crtc *

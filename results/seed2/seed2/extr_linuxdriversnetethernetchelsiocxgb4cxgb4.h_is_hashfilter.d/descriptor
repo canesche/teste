@@ -1,0 +1,3 @@
+struct TYPE_2__ | hash_filter int 
+struct adapter | params struct TYPE_2__ 
+function is_hashfilter int | adap const struct adapter *

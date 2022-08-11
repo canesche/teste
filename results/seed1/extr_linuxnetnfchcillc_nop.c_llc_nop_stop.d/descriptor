@@ -1,2 +1,0 @@
-struct nfc_llc | dummy int 
-function llc_nop_stop int | llc struct nfc_llc *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | is_psk_handshake int 
+function ptls_is_psk_handshake int | tls struct TYPE_3__ *

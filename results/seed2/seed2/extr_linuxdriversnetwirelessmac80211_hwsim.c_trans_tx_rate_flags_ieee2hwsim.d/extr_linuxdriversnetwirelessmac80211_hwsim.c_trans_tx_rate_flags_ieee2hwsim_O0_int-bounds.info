@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 11,
+    exit: true,
+    halt: false,
+    edges: 24,
+    static: {
+      instructions: 62,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 62,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessmac80211_hwsim.c_trans_tx_rate_flags_ieee2hwsim.d/extr_linuxdriversnetwirelessmac80211_hwsim.c_trans_tx_rate_flags_ieee2hwsim_O0::trans_tx_rate_flags_ieee2hwsim(84)"
+  }
+]

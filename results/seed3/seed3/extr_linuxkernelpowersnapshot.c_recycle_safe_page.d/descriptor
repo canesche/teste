@@ -1,0 +1,2 @@
+struct linked_page | next struct linked_page * 
+function recycle_safe_page void | page_address void *

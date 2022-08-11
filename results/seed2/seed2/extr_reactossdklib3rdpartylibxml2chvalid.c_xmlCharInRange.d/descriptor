@@ -1,0 +1,4 @@
+struct TYPE_5__ | low unsigned short | high unsigned short 
+struct TYPE_6__ | nbShortRange int | nbLongRange int | longRange struct TYPE_7__ * | shortRange struct TYPE_5__ * 
+struct TYPE_7__ | low unsigned int | high unsigned int 
+function xmlCharInRange int | val unsigned int | rptr const struct TYPE_6__ *

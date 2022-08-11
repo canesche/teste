@@ -1,0 +1,1 @@
+function memcpy void * | __dest void * | __src const void * | __n unsigned long

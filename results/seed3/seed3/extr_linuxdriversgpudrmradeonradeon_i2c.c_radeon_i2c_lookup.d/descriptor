@@ -1,0 +1,5 @@
+struct TYPE_2__ | i2c_id long 
+struct radeon_i2c_chan | rec struct TYPE_2__ 
+struct radeon_i2c_bus_rec | i2c_id long 
+struct radeon_device | i2c_bus struct radeon_i2c_chan ** 
+function radeon_i2c_lookup struct radeon_i2c_chan * | rdev struct radeon_device * | i2c_bus struct radeon_i2c_bus_rec *

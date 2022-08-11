@@ -1,0 +1,2 @@
+struct xfs_sb | sb_versionnum int 
+function xfs_sb_version_addattr void | sbp struct xfs_sb *

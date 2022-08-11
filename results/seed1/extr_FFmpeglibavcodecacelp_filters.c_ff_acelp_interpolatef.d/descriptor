@@ -1,1 +1,0 @@
-function ff_acelp_interpolatef void | out float * | in const float * | filter_coeffs const float * | precision int | frac_pos int | filter_length int | length int

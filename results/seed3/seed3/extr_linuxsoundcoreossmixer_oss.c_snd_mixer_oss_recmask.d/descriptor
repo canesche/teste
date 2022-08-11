@@ -1,0 +1,4 @@
+struct snd_mixer_oss_slot | put_recsrc long 
+struct snd_mixer_oss_file | mixer struct snd_mixer_oss * 
+struct snd_mixer_oss | mask_recsrc int | slots struct snd_mixer_oss_slot * | get_recsrc long | put_recsrc long 
+function snd_mixer_oss_recmask int | fmixer struct snd_mixer_oss_file *

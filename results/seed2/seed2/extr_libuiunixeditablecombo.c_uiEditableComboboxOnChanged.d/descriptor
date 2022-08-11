@@ -1,0 +1,2 @@
+struct TYPE_5__ | onChanged void (*)(struct TYPE_5__ *, void *) | onChangedData void * 
+function uiEditableComboboxOnChanged void | c struct TYPE_5__ * | f void (*)(struct TYPE_5__ *, void *) | data void *

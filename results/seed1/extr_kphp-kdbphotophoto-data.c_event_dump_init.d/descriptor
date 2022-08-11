@@ -1,3 +1,0 @@
-struct TYPE_4__ | type_id int | size int | tn long 
-struct TYPE_5__ | shifts_len int 
-function event_dump_init void | d struct TYPE_4__ * | type_id int

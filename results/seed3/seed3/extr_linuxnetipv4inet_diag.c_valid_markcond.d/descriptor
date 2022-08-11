@@ -1,0 +1,3 @@
+struct inet_diag_markcond | dummy int 
+struct inet_diag_bc_op | dummy int 
+function valid_markcond int | op const struct inet_diag_bc_op * | len int | min_len int *

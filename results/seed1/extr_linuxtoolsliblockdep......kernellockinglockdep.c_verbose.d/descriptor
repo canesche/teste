@@ -1,2 +1,0 @@
-struct lock_class | dummy int 
-function verbose int | class struct lock_class *

@@ -1,0 +1,3 @@
+struct pvr2_hdw | control_cnt unsigned int | controls struct pvr2_ctrl * 
+struct pvr2_ctrl | dummy int 
+function pvr2_hdw_get_ctrl_by_index struct pvr2_ctrl * | hdw struct pvr2_hdw * | idx unsigned int

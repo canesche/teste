@@ -1,0 +1,2 @@
+struct TYPE_3__ | namelen long | parent struct TYPE_3__ * 
+function find_path_len int | parent struct TYPE_3__ * | namelen int

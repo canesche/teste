@@ -1,0 +1,3 @@
+struct vdoa_data | dummy int 
+struct vdoa_ctx | dummy int 
+function vdoa_context_create struct vdoa_ctx * | vdoa struct vdoa_data *

@@ -1,0 +1,2 @@
+struct ocfs2_super | s_feature_incompat int 
+function ocfs2_clusterinfo_valid int | osb struct ocfs2_super *

@@ -1,0 +1,2 @@
+struct ipw_supported_rates | num_rates int | supported_rates long * 
+function ipw_add_ofdm_scan_rates void | rates struct ipw_supported_rates * | modulation long | rate_mask int

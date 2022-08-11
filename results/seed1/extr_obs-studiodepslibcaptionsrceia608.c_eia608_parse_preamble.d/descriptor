@@ -1,1 +1,0 @@
-function eia608_parse_preamble int | cc_data int | row int * | col int * | style int * | chan int * | underline int *

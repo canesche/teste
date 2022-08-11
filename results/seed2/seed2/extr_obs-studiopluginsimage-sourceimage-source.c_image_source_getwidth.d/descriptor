@@ -1,0 +1,4 @@
+struct TYPE_3__ | cx int 
+struct TYPE_4__ | image struct TYPE_3__ 
+struct image_source | if2 struct TYPE_4__ 
+function image_source_getwidth int | data void *

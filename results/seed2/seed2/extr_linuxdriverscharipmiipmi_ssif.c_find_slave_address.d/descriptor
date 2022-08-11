@@ -1,0 +1,2 @@
+struct i2c_client | dummy int 
+function find_slave_address int | client struct i2c_client * | slave_addr int

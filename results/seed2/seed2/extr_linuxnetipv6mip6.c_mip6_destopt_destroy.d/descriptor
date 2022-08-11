@@ -1,0 +1,2 @@
+struct xfrm_state | dummy int 
+function mip6_destopt_destroy void | x struct xfrm_state *

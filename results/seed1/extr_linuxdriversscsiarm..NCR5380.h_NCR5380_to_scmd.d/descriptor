@@ -1,3 +1,0 @@
-struct scsi_cmnd | dummy int 
-struct NCR5380_cmd | dummy int 
-function NCR5380_to_scmd struct scsi_cmnd * | ncmd_ptr struct NCR5380_cmd *

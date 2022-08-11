@@ -1,0 +1,5 @@
+struct dsa_switch_tree | ds struct dsa_switch ** 
+struct dsa_switch | num_ports int | ports struct dsa_port * 
+struct dsa_port | dn struct device_node * 
+struct device_node | dummy int 
+function dsa_tree_find_port_by_node struct dsa_port * | dst struct dsa_switch_tree * | dn struct device_node *

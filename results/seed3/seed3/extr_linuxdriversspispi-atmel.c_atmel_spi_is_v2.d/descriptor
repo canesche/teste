@@ -1,0 +1,3 @@
+struct TYPE_2__ | is_spi2 int 
+struct atmel_spi | caps struct TYPE_2__ 
+function atmel_spi_is_v2 int | as struct atmel_spi *

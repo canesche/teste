@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 71,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_reactosdlldirectxwined3dx9_36texture.c_make_pow2.d/extr_reactosdlldirectxwined3dx9_36texture.c_make_pow2_O0::make_pow2(61)"
+  }
+]

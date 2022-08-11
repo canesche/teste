@@ -1,0 +1,3 @@
+struct TYPE_5__ | assembly struct TYPE_4__ * 
+struct TYPE_4__ | application int 
+function msi_is_global_assembly int | comp struct TYPE_5__ *

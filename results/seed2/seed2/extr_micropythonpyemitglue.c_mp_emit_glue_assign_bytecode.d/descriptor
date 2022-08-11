@@ -1,0 +1,2 @@
+struct TYPE_3__ | const_table const int * | fun_data const int * | scope_flags int | kind int 
+function mp_emit_glue_assign_bytecode void | rc struct TYPE_3__ * | code const int * | const_table const int * | scope_flags int

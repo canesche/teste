@@ -1,2 +1,0 @@
-struct skl_wm_level | plane_en long | plane_res_l long | plane_res_b long 
-function skl_wm_level_equals int | l1 const struct skl_wm_level * | l2 const struct skl_wm_level *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | curbit int | code_size int | lastbit int | get_done int | buf unsigned char * | direct unsigned char * | last_byte int | gif_data unsigned char * | buffer_position int | zero_data_block int | buffer_size long 
+function gif_next_code int | gif struct TYPE_3__ * | code_size int

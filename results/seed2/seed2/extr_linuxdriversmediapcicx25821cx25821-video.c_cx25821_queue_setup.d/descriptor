@@ -1,0 +1,5 @@
+struct vb2_queue | drv_priv struct cx25821_channel * 
+struct device | dummy int 
+struct cx25821_channel | width int | height int | fmt struct TYPE_2__ * 
+struct TYPE_2__ | depth int 
+function cx25821_queue_setup int | q struct vb2_queue * | num_buffers unsigned int * | num_planes unsigned int * | sizes unsigned int [] | alloc_devs struct device *[]

@@ -1,0 +1,5 @@
+struct TYPE_4__ | gmode long 
+struct b43_wldev | dev struct TYPE_6__ * | phy struct TYPE_4__ 
+struct TYPE_6__ | bus_sprom struct TYPE_5__ * 
+struct TYPE_5__ | ant_available_bg int | ant_available_a int 
+function b43_ieee80211_antenna_sanitize int | dev struct b43_wldev * | antenna_nr int

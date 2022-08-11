@@ -1,0 +1,3 @@
+struct graph_row | size int | columns struct TYPE_2__ * 
+struct TYPE_2__ | id const char * 
+function flanked int | row struct graph_row * | pos int | commit_pos int | commit_id const char *

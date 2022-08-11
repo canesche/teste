@@ -1,0 +1,3 @@
+struct TYPE_3__ | ivalue int 
+struct TYPE_4__ | value struct TYPE_3__ 
+function cmp_raw_num_desc int | a const void * | b const void *

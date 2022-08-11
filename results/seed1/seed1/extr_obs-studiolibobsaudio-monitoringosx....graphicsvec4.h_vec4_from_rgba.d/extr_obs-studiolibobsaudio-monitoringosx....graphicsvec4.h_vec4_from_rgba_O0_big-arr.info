@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_obs-studiolibobsaudio-monitoringosx....graphicsvec4.h_vec4_from_rgba.d/extr_obs-studiolibobsaudio-monitoringosx....graphicsvec4.h_vec4_from_rgba_O0::vec4_from_rgba(62)"
+  }
+]

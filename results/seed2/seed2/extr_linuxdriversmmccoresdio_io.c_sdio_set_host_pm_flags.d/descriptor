@@ -1,0 +1,4 @@
+struct sdio_func | card struct TYPE_2__ * 
+struct mmc_host | pm_caps int | pm_flags int 
+struct TYPE_2__ | host struct mmc_host * 
+function sdio_set_host_pm_flags int | func struct sdio_func * | flags int

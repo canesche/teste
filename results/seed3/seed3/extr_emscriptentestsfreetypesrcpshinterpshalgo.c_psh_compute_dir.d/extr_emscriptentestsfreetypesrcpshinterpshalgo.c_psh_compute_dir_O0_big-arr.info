@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_emscriptentestsfreetypesrcpshinterpshalgo.c_psh_compute_dir.d/extr_emscriptentestsfreetypesrcpshinterpshalgo.c_psh_compute_dir_O0::psh_compute_dir(68)"
+  }
+]

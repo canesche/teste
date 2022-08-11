@@ -1,0 +1,1 @@
+function memcmp int | ptr1 const void * | ptr2 const void * | num unsigned int

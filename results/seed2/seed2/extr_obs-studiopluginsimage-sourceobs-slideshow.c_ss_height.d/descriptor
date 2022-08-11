@@ -1,0 +1,2 @@
+struct slideshow | cy int | transition long 
+function ss_height int | data void *

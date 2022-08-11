@@ -1,2 +1,0 @@
-struct pci_resource | length long | next struct pci_resource * 
-function sort_by_max_size int | head struct pci_resource **

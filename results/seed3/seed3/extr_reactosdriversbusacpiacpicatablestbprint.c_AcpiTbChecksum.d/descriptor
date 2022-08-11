@@ -1,0 +1,1 @@
+function AcpiTbChecksum long | Buffer long * | Length int

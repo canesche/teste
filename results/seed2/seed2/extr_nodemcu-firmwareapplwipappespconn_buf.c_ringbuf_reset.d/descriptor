@@ -1,0 +1,2 @@
+struct TYPE_3__ | buf int | tail int | head int 
+function ringbuf_reset void | rb struct TYPE_3__ *

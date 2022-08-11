@@ -1,0 +1,2 @@
+struct scsi_qla_host | pri_ddb_idx long | sec_ddb_idx long 
+function qla4xxx_verify_boot_idx int | ha struct scsi_qla_host * | idx long

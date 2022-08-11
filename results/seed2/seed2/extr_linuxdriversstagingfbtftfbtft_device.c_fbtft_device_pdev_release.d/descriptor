@@ -1,0 +1,2 @@
+struct device | dummy int 
+function fbtft_device_pdev_release void | dev struct device *

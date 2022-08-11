@@ -1,0 +1,2 @@
+struct TYPE_2__ | bigger_ack_num int 
+function update_tcp_session int | index int | ack int

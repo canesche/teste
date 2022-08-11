@@ -1,0 +1,2 @@
+struct resource | dummy int 
+function pci_unmap_iospace void | res struct resource *

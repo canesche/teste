@@ -1,2 +1,0 @@
-struct attr_stack | origin char * | originlen unsigned long | prev struct attr_stack * 
-function push_stack void | attr_stack_p struct attr_stack ** | elem struct attr_stack * | origin char * | originlen unsigned long

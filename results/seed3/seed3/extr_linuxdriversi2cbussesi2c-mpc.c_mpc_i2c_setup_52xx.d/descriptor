@@ -1,0 +1,3 @@
+struct mpc_i2c | dummy int 
+struct device_node | dummy int 
+function mpc_i2c_setup_52xx void | node struct device_node * | i2c struct mpc_i2c * | clock int

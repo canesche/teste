@@ -1,0 +1,3 @@
+struct pinctrl_dev | dummy int 
+struct TYPE_2__ | name const char * 
+function u300_get_group_name const char * | pctldev struct pinctrl_dev * | selector unsigned int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | name_length int 
+function m_get_self_name_size int | m const struct TYPE_3__ *

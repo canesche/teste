@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct net_device | dummy int 
+function ax25_hard_header int | skb struct sk_buff * | dev struct net_device * | type unsigned short | daddr const void * | saddr const void * | len unsigned int

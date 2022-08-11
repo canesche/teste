@@ -1,3 +1,0 @@
-struct pci_dev | sriov struct TYPE_2__ * | is_physfn int 
-struct TYPE_2__ | barsz int * 
-function pci_iov_resource_size int | dev struct pci_dev * | resno int

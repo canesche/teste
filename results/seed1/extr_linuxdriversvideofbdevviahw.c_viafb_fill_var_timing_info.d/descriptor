@@ -1,3 +1,0 @@
-struct fb_videomode | sync int | vsync_len int | lower_margin int | upper_margin int | hsync_len int | right_margin int | left_margin int | yres int | xres int | pixclock int 
-struct fb_var_screeninfo | sync int | vsync_len int | lower_margin int | upper_margin int | hsync_len int | right_margin int | left_margin int | yres int | xres int | pixclock int 
-function viafb_fill_var_timing_info void | var struct fb_var_screeninfo * | mode const struct fb_videomode *

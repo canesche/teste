@@ -1,2 +1,0 @@
-struct dma_desc | des2 long 
-function enh_desc_clear void | p struct dma_desc *

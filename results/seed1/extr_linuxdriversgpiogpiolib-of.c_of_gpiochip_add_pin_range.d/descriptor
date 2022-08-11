@@ -1,2 +1,0 @@
-struct gpio_chip | dummy int 
-function of_gpiochip_add_pin_range int | chip struct gpio_chip *

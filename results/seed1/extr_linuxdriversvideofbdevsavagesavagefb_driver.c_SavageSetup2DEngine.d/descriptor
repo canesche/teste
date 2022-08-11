@@ -1,2 +1,0 @@
-struct savagefb_par | dummy int 
-function SavageSetup2DEngine void | par struct savagefb_par *

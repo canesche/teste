@@ -1,0 +1,2 @@
+struct tcp_sock | undo_retrans int | retrans_out long | snd_una int | undo_marker int 
+function tcp_init_undo void | tp struct tcp_sock *

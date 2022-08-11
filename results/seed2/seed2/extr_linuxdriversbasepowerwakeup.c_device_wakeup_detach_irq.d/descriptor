@@ -1,0 +1,4 @@
+struct wakeup_source | wakeirq int * 
+struct TYPE_2__ | wakeup struct wakeup_source * 
+struct device | power struct TYPE_2__ 
+function device_wakeup_detach_irq void | dev struct device *

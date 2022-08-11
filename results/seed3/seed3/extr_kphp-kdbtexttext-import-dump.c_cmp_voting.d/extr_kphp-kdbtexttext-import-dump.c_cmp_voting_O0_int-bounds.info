@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_kphp-kdbtexttext-import-dump.c_cmp_voting.d/extr_kphp-kdbtexttext-import-dump.c_cmp_voting_O0::cmp_voting(62)"
+  }
+]

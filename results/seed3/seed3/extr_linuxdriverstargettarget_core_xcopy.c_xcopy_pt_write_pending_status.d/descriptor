@@ -1,0 +1,2 @@
+struct se_cmd | dummy int 
+function xcopy_pt_write_pending_status int | se_cmd struct se_cmd *

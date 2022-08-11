@@ -1,0 +1,1 @@
+function dummy_psk unsigned int | ssl int * | hint const char * | identity char * | max_identity_len unsigned int | psk unsigned char * | max_psk_len unsigned int

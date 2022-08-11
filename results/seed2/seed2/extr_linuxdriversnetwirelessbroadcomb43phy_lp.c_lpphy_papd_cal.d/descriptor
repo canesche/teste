@@ -1,0 +1,3 @@
+struct lpphy_tx_gains | dummy int 
+struct b43_wldev | dummy int 
+function lpphy_papd_cal void | dev struct b43_wldev * | gains struct lpphy_tx_gains | mode int | useindex int | index int

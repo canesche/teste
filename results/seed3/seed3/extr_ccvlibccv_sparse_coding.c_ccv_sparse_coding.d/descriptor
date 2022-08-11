@@ -1,0 +1,1 @@
+function ccv_sparse_coding void | x int * | k int | A int ** | typeA int | y int ** | typey int

@@ -1,0 +1,2 @@
+struct power_supply | dummy int 
+function twl4030_bci_property_is_writeable int | psy struct power_supply * | psp enum power_supply_property

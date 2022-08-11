@@ -1,0 +1,2 @@
+struct TYPE_3__ | _a_policy int 
+function pthread_attr_getschedpolicy int | a const struct TYPE_3__ *__restrict | policy int *__restrict

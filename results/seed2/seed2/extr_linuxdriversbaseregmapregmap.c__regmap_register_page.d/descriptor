@@ -1,0 +1,3 @@
+struct regmap_range_node | range_min unsigned int | window_len unsigned int 
+struct regmap | dummy int 
+function _regmap_register_page unsigned int | map struct regmap * | reg unsigned int | range struct regmap_range_node *

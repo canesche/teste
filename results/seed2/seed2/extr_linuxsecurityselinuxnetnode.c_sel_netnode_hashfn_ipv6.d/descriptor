@@ -1,0 +1,2 @@
+struct in6_addr | s6_addr32 int * 
+function sel_netnode_hashfn_ipv6 unsigned int | addr const struct in6_addr *

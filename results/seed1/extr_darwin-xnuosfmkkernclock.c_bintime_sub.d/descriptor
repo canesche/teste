@@ -1,2 +1,0 @@
-struct bintime | frac long | sec long 
-function bintime_sub void | _bt struct bintime * | _bt2 const struct bintime *

@@ -1,0 +1,2 @@
+struct mei_device | dummy int 
+function mei_txe_hbuf_depth int | dev const struct mei_device *

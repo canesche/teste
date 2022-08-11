@@ -1,0 +1,2 @@
+struct hd_struct | dummy int 
+function should_fail_request int | part struct hd_struct * | bytes unsigned int

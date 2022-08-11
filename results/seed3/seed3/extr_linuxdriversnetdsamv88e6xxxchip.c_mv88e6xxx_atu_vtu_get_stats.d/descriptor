@@ -1,0 +1,3 @@
+struct mv88e6xxx_chip | ports struct TYPE_2__ * 
+struct TYPE_2__ | vtu_miss_violation int | vtu_member_violation int | atu_full_violation int | atu_miss_violation int | atu_member_violation int 
+function mv88e6xxx_atu_vtu_get_stats void | chip struct mv88e6xxx_chip * | port int | data int *

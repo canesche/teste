@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 6,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetwirelessrealtekrtlwifirtl8192eephy.c__rtl92ee_phy_calculate_bit_shift.d/extr_linuxdriversnetwirelessrealtekrtlwifirtl8192eephy.c__rtl92ee_phy_calculate_bit_shift_O0::_rtl92ee_phy_calculate_bit_shift(61)"
+  }
+]

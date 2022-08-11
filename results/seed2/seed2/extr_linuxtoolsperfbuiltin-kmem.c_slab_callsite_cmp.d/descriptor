@@ -1,0 +1,2 @@
+struct alloc_stat | call_site long 
+function slab_callsite_cmp int | a void * | b void *

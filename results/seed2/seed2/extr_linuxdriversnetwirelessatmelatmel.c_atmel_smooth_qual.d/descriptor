@@ -1,0 +1,4 @@
+struct TYPE_3__ | qual int | level int | updated int 
+struct TYPE_4__ | qual struct TYPE_3__ 
+struct atmel_private | last_qual unsigned long | beacons_this_sec int | beacon_period int | wstats struct TYPE_4__ 
+function atmel_smooth_qual void | priv struct atmel_private *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | canny_ringbuffer_allocation int 
+function BrotliDecoderSetParameter int | state struct TYPE_3__ * | p int | value int

@@ -1,0 +1,2 @@
+struct md4_ctx | hash int * | byte_count long 
+function md4_init void | mctx struct md4_ctx *

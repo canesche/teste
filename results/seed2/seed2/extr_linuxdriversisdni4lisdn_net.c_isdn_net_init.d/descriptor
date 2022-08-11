@@ -1,0 +1,5 @@
+struct net_device | hard_header_len long 
+struct TYPE_6__ | drv struct TYPE_5__ ** 
+struct TYPE_5__ | interface struct TYPE_4__ * 
+struct TYPE_4__ | hl_hdrlen long 
+function isdn_net_init int | ndev struct net_device *

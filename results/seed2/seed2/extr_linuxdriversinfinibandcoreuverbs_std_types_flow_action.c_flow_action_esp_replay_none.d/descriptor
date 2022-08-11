@@ -1,0 +1,2 @@
+struct ib_flow_action_attrs_esp_replays | dummy int 
+function flow_action_esp_replay_none int | replay struct ib_flow_action_attrs_esp_replays * | is_modify int

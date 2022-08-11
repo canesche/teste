@@ -1,2 +1,0 @@
-struct nfs_client | cl_cons_state long 
-function nfs_client_init_is_complete int | clp const struct nfs_client *

@@ -1,0 +1,2 @@
+struct buffer_ext | max_sz long | cur_pos long | data int * 
+function buffer_ext_init void | be struct buffer_ext *

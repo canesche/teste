@@ -1,0 +1,3 @@
+struct property | dummy int 
+struct device_node | dummy int 
+function of_property_notify int | action int | np struct device_node * | prop struct property * | old_prop struct property *

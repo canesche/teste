@@ -1,0 +1,3 @@
+struct device | dummy int 
+struct cap11xx_priv | dummy int 
+function cap11xx_init_leds int | dev struct device * | priv struct cap11xx_priv * | num_leds int

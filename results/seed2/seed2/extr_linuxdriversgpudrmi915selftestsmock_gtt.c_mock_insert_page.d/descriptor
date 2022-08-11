@@ -1,0 +1,2 @@
+struct i915_address_space | dummy int 
+function mock_insert_page void | vm struct i915_address_space * | addr int | offset int | level enum i915_cache_level | flags int

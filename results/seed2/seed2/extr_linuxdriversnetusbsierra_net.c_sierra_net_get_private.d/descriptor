@@ -1,0 +1,3 @@
+struct usbnet | data long * 
+struct sierra_net_data | dummy int 
+function sierra_net_get_private struct sierra_net_data * | dev struct usbnet *

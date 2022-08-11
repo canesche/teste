@@ -1,0 +1,2 @@
+struct tcpm_port | hard_reset_count long | pwr_role long | state long | pd_capable long 
+function hard_reset_state enum tcpm_state | port struct tcpm_port *

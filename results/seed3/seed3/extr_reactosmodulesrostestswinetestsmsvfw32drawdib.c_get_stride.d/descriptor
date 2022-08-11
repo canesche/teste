@@ -1,0 +1,3 @@
+struct TYPE_4__ | biBitCount int | biWidth int 
+struct TYPE_5__ | bmiHeader struct TYPE_4__ 
+function get_stride int | bmi const struct TYPE_5__ *

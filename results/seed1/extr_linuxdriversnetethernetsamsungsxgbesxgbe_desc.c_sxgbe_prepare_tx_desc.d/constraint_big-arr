@@ -1,1 +1,0 @@
-value(is_fd) == 255, value(buf1_len) == 255, value(pkt_len) == 255, value(cksum) == 255, length(p) == 65025

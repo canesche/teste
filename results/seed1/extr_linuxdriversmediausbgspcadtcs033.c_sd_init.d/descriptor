@@ -1,2 +1,0 @@
-struct gspca_dev | dummy int 
-function sd_init int | gspca_dev struct gspca_dev *

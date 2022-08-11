@@ -1,2 +1,0 @@
-struct rbnode | left struct rbnode * 
-function rbtree_node_min struct rbnode * | node struct rbnode * | sentinel struct rbnode *

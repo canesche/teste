@@ -1,2 +1,0 @@
-struct splice_desc | need_wakeup int | num_spliced long 
-function splice_from_pipe_begin void | sd struct splice_desc *

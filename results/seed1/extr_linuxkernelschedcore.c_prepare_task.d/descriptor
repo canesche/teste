@@ -1,2 +1,0 @@
-struct task_struct | dummy int 
-function prepare_task void | next struct task_struct *

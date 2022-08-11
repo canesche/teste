@@ -1,0 +1,3 @@
+struct nfp_cpp_explicit | cpp struct nfp_cpp * 
+struct nfp_cpp | dummy int 
+function nfp_cpp_explicit_cpp struct nfp_cpp * | cpp_explicit struct nfp_cpp_explicit *

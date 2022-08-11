@@ -1,0 +1,3 @@
+struct TYPE_5__ | core_params struct TYPE_4__ * 
+struct TYPE_4__ | otg_ver int 
+function dwc_otg_get_param_otg_ver int | core_if struct TYPE_5__ *

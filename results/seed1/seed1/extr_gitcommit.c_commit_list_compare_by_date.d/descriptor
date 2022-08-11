@@ -1,0 +1,3 @@
+struct commit_list | item struct TYPE_2__ * 
+struct TYPE_2__ | date long 
+function commit_list_compare_by_date int | a const void * | b const void *

@@ -1,0 +1,2 @@
+struct hdmi_hdcp_ctrl | dummy int 
+function msm_hdmi_hdcp_on void | hdcp_ctrl struct hdmi_hdcp_ctrl *

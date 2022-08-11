@@ -1,0 +1,3 @@
+struct statistics_block | dummy int 
+struct bnx2 | temp_stats_blk long | stats_blk long 
+function bnx2_save_stats void | bp struct bnx2 *

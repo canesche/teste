@@ -1,0 +1,4 @@
+struct TYPE_4__ | p char * | len int 
+struct TYPE_3__ | p char * | len int 
+struct mg_dns_resource_record | rtype unsigned char | rclass unsigned char | ttl int | rdata struct TYPE_4__ | kind int | name struct TYPE_3__ 
+function mg_parse_dns_resource_record unsigned char * | data unsigned char * | end unsigned char * | rr struct mg_dns_resource_record * | reply int

@@ -1,0 +1,2 @@
+struct strref | len int | array int 
+function strref_copy void | dst struct strref * | src const struct strref *

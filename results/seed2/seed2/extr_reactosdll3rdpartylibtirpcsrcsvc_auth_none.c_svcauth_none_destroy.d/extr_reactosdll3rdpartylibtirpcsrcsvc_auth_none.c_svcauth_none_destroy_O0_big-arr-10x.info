@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_reactosdll3rdpartylibtirpcsrcsvc_auth_none.c_svcauth_none_destroy.d/extr_reactosdll3rdpartylibtirpcsrcsvc_auth_none.c_svcauth_none_destroy_O0::svcauth_none_destroy(64)"
+  }
+]

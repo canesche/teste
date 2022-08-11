@@ -1,0 +1,3 @@
+struct TYPE_4__ | nextthink long | think int 
+struct TYPE_5__ | time long 
+function SP_target_laser void | self struct TYPE_4__ *

@@ -1,3 +1,0 @@
-struct pp_hwmgr | dummy int 
-struct pp_clock_levels_with_voltage | num_levels long 
-function vega12_get_clock_by_type_with_voltage int | hwmgr struct pp_hwmgr * | type enum amd_pp_clock_type | clocks struct pp_clock_levels_with_voltage *

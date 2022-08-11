@@ -1,0 +1,11 @@
+struct TYPE_14__ | numresolutions int | resolutions struct TYPE_17__ * 
+struct TYPE_15__ | distolayer double * | numcomps int | comps struct TYPE_14__ * 
+struct TYPE_16__ | tcd_tile struct TYPE_15__ * 
+struct TYPE_17__ | numbands int | pw int | ph int | bands struct TYPE_12__ * 
+struct TYPE_13__ | enc struct TYPE_21__ * 
+struct TYPE_18__ | cw int | ch int | cblks struct TYPE_13__ 
+struct TYPE_19__ | rate int | distortiondec double 
+struct TYPE_20__ | numpasses int | disto double | len int | data int 
+struct TYPE_21__ | numpassesinlayers int | totalpasses int | data int | passes struct TYPE_19__ * | layers struct TYPE_20__ * 
+struct TYPE_12__ | precincts struct TYPE_18__ * 
+function tcd_makelayer void | tcd struct TYPE_16__ * | layno int | thresh double | final int

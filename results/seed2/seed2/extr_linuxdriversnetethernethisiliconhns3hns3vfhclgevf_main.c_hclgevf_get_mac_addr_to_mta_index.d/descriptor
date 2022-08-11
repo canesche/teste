@@ -1,0 +1,2 @@
+struct hclgevf_dev | mta_mac_sel_type int 
+function hclgevf_get_mac_addr_to_mta_index int | hdev struct hclgevf_dev * | addr const int *

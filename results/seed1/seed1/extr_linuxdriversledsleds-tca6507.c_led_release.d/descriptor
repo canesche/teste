@@ -1,0 +1,4 @@
+struct tca6507_led | bank long | blink long | chip struct tca6507_chip * 
+struct tca6507_chip | bank struct bank * 
+struct bank | level_use int | time_use int 
+function led_release void | led struct tca6507_led *

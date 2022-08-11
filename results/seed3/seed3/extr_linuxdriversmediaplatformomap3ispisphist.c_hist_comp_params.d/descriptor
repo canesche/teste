@@ -1,0 +1,4 @@
+struct omap3isp_hist_config | cfa long | num_acc_frames long | hist_bins long | wg long * | num_regions int | region struct TYPE_2__ * 
+struct ispstat | priv struct omap3isp_hist_config * 
+struct TYPE_2__ | h_start long | h_end long | v_start long | v_end long 
+function hist_comp_params int | hist struct ispstat * | user_cfg struct omap3isp_hist_config *

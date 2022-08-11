@@ -1,2 +1,0 @@
-struct inode | dummy int 
-function f2fs_may_encrypt int | inode struct inode *

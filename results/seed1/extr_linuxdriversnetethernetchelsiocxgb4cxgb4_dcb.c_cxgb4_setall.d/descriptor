@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function cxgb4_setall int | dev struct net_device *

@@ -1,0 +1,4 @@
+struct TYPE_7__ | dest int 
+struct TYPE_5__ | free_in_buffer int | next_output_byte int 
+struct TYPE_6__ | size int | pub struct TYPE_5__ | outfile int 
+function init_destination void | cinfo struct TYPE_7__ *

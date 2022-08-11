@@ -1,0 +1,3 @@
+struct vlapic | apic_page struct LAPIC * 
+struct LAPIC | tpr long 
+function vlapic_get_tpr int | vlapic struct vlapic *

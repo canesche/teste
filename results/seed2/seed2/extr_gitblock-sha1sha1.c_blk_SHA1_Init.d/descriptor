@@ -1,0 +1,2 @@
+struct TYPE_3__ | H int * | size long 
+function blk_SHA1_Init void | ctx struct TYPE_3__ *

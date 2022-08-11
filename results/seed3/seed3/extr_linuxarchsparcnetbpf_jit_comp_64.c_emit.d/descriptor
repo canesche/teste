@@ -1,0 +1,2 @@
+struct jit_ctx | idx unsigned long | image int * 
+function emit void | insn const int | ctx struct jit_ctx *

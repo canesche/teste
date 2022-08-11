@@ -1,4 +1,0 @@
-struct be_sge | dummy int 
-struct TYPE_2__ | sgl struct be_sge * 
-struct be_mcc_wrb | payload struct TYPE_2__ 
-function nonembedded_sgl struct be_sge * | wrb struct be_mcc_wrb *

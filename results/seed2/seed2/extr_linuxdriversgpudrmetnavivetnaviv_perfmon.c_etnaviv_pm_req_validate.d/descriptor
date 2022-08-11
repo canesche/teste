@@ -1,0 +1,4 @@
+struct etnaviv_pm_domain_meta | nr_domains long | domains struct etnaviv_pm_domain * 
+struct etnaviv_pm_domain | nr_signals long 
+struct drm_etnaviv_gem_submit_pmr | domain long | signal long 
+function etnaviv_pm_req_validate int | r const struct drm_etnaviv_gem_submit_pmr * | exec_state unsigned long

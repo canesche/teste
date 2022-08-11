@@ -1,0 +1,3 @@
+struct tty | dummy int 
+struct knote | kn_hook long 
+function tty_from_knote struct tty * | kn struct knote *

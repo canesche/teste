@@ -1,0 +1,2 @@
+struct TYPE_3__ | uio_rw int 
+function uio_setrw void | a_uio struct TYPE_3__ * | a_value int

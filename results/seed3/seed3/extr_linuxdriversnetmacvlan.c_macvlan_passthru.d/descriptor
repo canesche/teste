@@ -1,0 +1,2 @@
+struct macvlan_port | flags int 
+function macvlan_passthru int | port const struct macvlan_port *

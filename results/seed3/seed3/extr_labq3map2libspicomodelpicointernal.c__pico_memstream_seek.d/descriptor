@@ -1,0 +1,2 @@
+struct TYPE_3__ | curPos int | buffer int | bufSize int 
+function _pico_memstream_seek int | s struct TYPE_3__ * | offset long | origin int

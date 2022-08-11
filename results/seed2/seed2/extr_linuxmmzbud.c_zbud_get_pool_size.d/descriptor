@@ -1,0 +1,2 @@
+struct zbud_pool | pages_nr int 
+function zbud_get_pool_size int | pool struct zbud_pool *

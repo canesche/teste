@@ -1,2 +1,0 @@
-struct il_channel_info | band long 
-function il_is_channel_a_band int | ch_info const struct il_channel_info *

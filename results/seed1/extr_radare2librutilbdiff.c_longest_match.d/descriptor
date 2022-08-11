@@ -1,3 +1,0 @@
-struct pos | pos int | len int 
-struct line | n int | e long 
-function longest_match int | a struct line * | b struct line * | pos struct pos * | a1 int | a2 int | b1 int | b2 int | omi int * | omj int *

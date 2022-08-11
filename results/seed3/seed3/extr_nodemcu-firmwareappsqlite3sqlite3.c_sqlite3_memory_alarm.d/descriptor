@@ -1,0 +1,1 @@
+function sqlite3_memory_alarm int | xCallback void (*)(void *, int, int) | pArg void * | iThreshold int

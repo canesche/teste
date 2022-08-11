@@ -1,0 +1,2 @@
+struct bitmap_ipmac_elem | filled long 
+function bitmap_ipmac_is_filled int | elem const struct bitmap_ipmac_elem *

@@ -1,4 +1,0 @@
-struct tc_mqprio_qopt | num_tc int | prio_tc_map int * | hw long | offset unsigned int * | count unsigned int * 
-struct net_device | real_num_tx_queues unsigned int | netdev_ops struct TYPE_2__ * 
-struct TYPE_2__ | ndo_setup_tc long 
-function mqprio_parse_opt int | dev struct net_device * | qopt struct tc_mqprio_qopt *

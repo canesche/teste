@@ -1,0 +1,3 @@
+struct xfrm_dst | dummy int 
+struct dst_entry | dummy int 
+function xfrm4_init_path int | path struct xfrm_dst * | dst struct dst_entry * | nfheader_len int

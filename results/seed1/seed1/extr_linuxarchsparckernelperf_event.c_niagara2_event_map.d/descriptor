@@ -1,0 +1,2 @@
+struct perf_event_map | dummy int 
+function niagara2_event_map const struct perf_event_map * | event_id int

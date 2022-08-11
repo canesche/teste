@@ -1,0 +1,6 @@
+struct TYPE_9__ | index unsigned long 
+struct TYPE_10__ | sp struct TYPE_8__ * | request struct TYPE_11__ * | ip long 
+struct TYPE_11__ | variables struct TYPE_7__ * 
+struct TYPE_8__ | data int | len int 
+struct TYPE_7__ | valid int | data int | not_found long | no_cacheable long | len int 
+function ngx_http_script_set_var_code void | e struct TYPE_10__ *

@@ -1,3 +1,0 @@
-struct iwl_cfg | dummy int 
-struct TYPE_2__ | disable_11n int 
-function iwl_enable_tx_ampdu int | cfg const struct iwl_cfg *

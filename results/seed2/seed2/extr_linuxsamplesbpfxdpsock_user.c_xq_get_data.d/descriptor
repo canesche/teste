@@ -1,0 +1,3 @@
+struct xdpsock | umem struct TYPE_2__ * 
+struct TYPE_2__ | frames void * 
+function xq_get_data void * | xsk struct xdpsock * | addr unsigned long

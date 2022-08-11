@@ -1,5 +1,0 @@
-struct TYPE_3__ | datadir int | statusdir long | status long | data long 
-struct TYPE_4__ | amiga struct TYPE_3__ 
-struct parport_state | u struct TYPE_4__ 
-struct pardevice | dummy int 
-function amiga_init_state void | dev struct pardevice * | s struct parport_state *

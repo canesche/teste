@@ -1,0 +1,3 @@
+struct window_pane | window struct TYPE_2__ * 
+struct TYPE_2__ | flags int | active struct window_pane * 
+function window_pane_visible int | wp struct window_pane *

@@ -1,2 +1,0 @@
-struct sched_param | dummy int 
-function posix_spawnattr_setschedparam int | attr int *__restrict | schedparam const struct sched_param *__restrict

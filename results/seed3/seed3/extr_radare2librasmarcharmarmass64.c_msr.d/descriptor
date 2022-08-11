@@ -1,0 +1,4 @@
+struct TYPE_7__ | val long | name long 
+struct TYPE_6__ | operands struct TYPE_5__ * 
+struct TYPE_5__ | reg_type int | type long | immediate long | sp_val long | reg long 
+function msr int | op struct TYPE_6__ * | w int

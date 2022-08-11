@@ -1,0 +1,2 @@
+struct gl_shader_cache | next_uniform_dynamic int 
+function gl_sc_uniform_dynamic void | sc struct gl_shader_cache *

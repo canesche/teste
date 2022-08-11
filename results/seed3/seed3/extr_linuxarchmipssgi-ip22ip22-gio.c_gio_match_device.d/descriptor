@@ -1,0 +1,4 @@
+struct gio_device_id | id int 
+struct TYPE_2__ | id int 
+struct gio_device | id struct TYPE_2__ 
+function gio_match_device const struct gio_device_id * | match const struct gio_device_id * | dev const struct gio_device *

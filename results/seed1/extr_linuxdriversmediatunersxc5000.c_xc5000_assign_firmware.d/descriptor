@@ -1,2 +1,0 @@
-struct xc5000_fw_cfg | dummy int 
-function xc5000_assign_firmware const struct xc5000_fw_cfg * | chip_id int

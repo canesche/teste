@@ -1,0 +1,3 @@
+struct TYPE_4__ | f32 float * 
+struct TYPE_5__ | rows int | cols int | data struct TYPE_4__ 
+function _ccv_cnnp_normalize void | image struct TYPE_5__ *const | mean float const[3] | inv_std float const[3]

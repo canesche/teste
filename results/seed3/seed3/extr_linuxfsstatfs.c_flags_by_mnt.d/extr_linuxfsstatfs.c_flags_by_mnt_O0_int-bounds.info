@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 7,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxfsstatfs.c_flags_by_mnt.d/extr_linuxfsstatfs.c_flags_by_mnt_O0::flags_by_mnt(74)"
+  }
+]

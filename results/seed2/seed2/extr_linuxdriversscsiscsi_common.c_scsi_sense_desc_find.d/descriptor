@@ -1,0 +1,1 @@
+function scsi_sense_desc_find const int * | sense_buffer const int * | sb_len int | desc_type int

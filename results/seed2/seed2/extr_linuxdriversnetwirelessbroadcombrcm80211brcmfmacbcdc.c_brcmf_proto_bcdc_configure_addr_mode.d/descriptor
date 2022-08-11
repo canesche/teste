@@ -1,0 +1,2 @@
+struct brcmf_pub | dummy int 
+function brcmf_proto_bcdc_configure_addr_mode void | drvr struct brcmf_pub * | ifidx int | addr_mode enum proto_addr_mode

@@ -1,0 +1,2 @@
+struct nvenc_encoder | sei_size unsigned long | sei int * 
+function nvenc_sei_data int | data void * | extra_data int ** | size unsigned long *

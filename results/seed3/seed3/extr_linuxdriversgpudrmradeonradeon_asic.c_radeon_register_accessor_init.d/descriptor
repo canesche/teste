@@ -1,0 +1,2 @@
+struct radeon_device | family long | pcie_reg_mask int | pciep_wreg int * | pciep_rreg int * | mc_wreg int * | mc_rreg int * | pll_wreg int * | pll_rreg int * 
+function radeon_register_accessor_init void | rdev struct radeon_device *

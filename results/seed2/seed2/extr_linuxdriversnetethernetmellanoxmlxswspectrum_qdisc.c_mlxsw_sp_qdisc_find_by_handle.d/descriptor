@@ -1,0 +1,3 @@
+struct mlxsw_sp_qdisc | handle long 
+struct mlxsw_sp_port | tclass_qdiscs struct mlxsw_sp_qdisc * | root_qdisc struct mlxsw_sp_qdisc * 
+function mlxsw_sp_qdisc_find_by_handle struct mlxsw_sp_qdisc * | mlxsw_sp_port struct mlxsw_sp_port * | handle long

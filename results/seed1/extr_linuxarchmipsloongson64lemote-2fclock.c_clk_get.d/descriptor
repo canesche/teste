@@ -1,3 +1,0 @@
-struct device | dummy int 
-struct clk | dummy int 
-function clk_get struct clk * | dev struct device * | id const char *

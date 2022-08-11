@@ -1,0 +1,2 @@
+struct ocfs2_extent_map_item | ei_cpos unsigned int | ei_clusters unsigned int 
+function ocfs2_ei_is_contained int | emi1 struct ocfs2_extent_map_item * | emi2 struct ocfs2_extent_map_item *

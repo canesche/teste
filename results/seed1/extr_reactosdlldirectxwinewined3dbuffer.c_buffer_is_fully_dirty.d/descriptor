@@ -1,4 +1,0 @@
-struct TYPE_4__ | size long 
-struct wined3d_buffer | modified_areas int | resource struct TYPE_4__ | maps struct TYPE_3__ * 
-struct TYPE_3__ | size long | offset int 
-function buffer_is_fully_dirty int | buffer const struct wined3d_buffer *

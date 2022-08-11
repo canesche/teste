@@ -1,0 +1,3 @@
+struct TYPE_5__ | OSPEEDR int 
+struct TYPE_4__ | pin int | gpio struct TYPE_5__ * 
+function mp_hal_pin_config_speed void | pin_obj struct TYPE_4__ * | speed int

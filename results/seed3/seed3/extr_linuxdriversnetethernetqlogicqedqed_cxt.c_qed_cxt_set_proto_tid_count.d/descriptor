@@ -1,0 +1,5 @@
+struct qed_tid_seg | has_fl_mem int | type unsigned long | count int 
+struct qed_hwfn | p_cxt_mngr struct qed_cxt_mngr * 
+struct qed_cxt_mngr | conn_cfg struct TYPE_2__ * 
+struct TYPE_2__ | tid_seg struct qed_tid_seg * 
+function qed_cxt_set_proto_tid_count void | p_hwfn struct qed_hwfn * | proto enum protocol_type | seg unsigned long | seg_type unsigned long | count int | has_fl int

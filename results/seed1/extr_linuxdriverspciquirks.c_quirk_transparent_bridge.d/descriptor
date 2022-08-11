@@ -1,2 +1,0 @@
-struct pci_dev | transparent int 
-function quirk_transparent_bridge void | dev struct pci_dev *

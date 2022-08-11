@@ -1,0 +1,4 @@
+struct lpfc_sglq | dummy int 
+struct TYPE_2__ | lpfc_sglq_active_list struct lpfc_sglq ** 
+struct lpfc_hba | sli4_hba struct TYPE_2__ 
+function __lpfc_get_active_sglq struct lpfc_sglq * | phba struct lpfc_hba * | xritag unsigned long

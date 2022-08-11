@@ -1,0 +1,2 @@
+struct snd_usb_audio | dummy int 
+function snd_usb_autoresume int | chip struct snd_usb_audio *

@@ -1,0 +1,2 @@
+struct vhost_net_buf | tail long | head long 
+function vhost_net_buf_init void | rxq struct vhost_net_buf *

@@ -1,2 +1,0 @@
-struct rpc_xprt | dummy int 
-function xprt_rdma_enable_swap int | xprt struct rpc_xprt *

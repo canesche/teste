@@ -1,0 +1,6 @@
+struct TYPE_10__ | call_ctx struct TYPE_11__ * 
+struct TYPE_11__ | ip unsigned long | bytecode struct TYPE_9__ * 
+struct TYPE_9__ | instrs struct TYPE_8__ * 
+struct TYPE_7__ | dbl double 
+struct TYPE_8__ | u struct TYPE_7__ 
+function get_op_double double | ctx struct TYPE_10__ *

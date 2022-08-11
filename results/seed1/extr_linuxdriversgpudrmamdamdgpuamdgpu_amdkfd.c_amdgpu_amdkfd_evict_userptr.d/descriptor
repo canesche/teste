@@ -1,3 +1,0 @@
-struct mm_struct | dummy int 
-struct kgd_mem | dummy int 
-function amdgpu_amdkfd_evict_userptr int | mem struct kgd_mem * | mm struct mm_struct *

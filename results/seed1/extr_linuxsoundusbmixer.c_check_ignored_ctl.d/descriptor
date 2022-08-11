@@ -1,2 +1,0 @@
-struct usbmix_name_map | dB long | name long 
-function check_ignored_ctl int | p const struct usbmix_name_map *

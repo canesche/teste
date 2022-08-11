@@ -1,0 +1,3 @@
+struct mlx5_eswitch | dummy int 
+struct mlx5_eqe | dummy int 
+function mlx5_eswitch_vport_event void | esw struct mlx5_eswitch * | eqe struct mlx5_eqe *

@@ -1,0 +1,1 @@
+value(pkt_size) == 10, length(block) == 100, length(mem_ex) == 100, length(mem_data) == 100, length(data) == 100

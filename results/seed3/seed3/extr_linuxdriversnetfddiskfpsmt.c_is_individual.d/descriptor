@@ -1,0 +1,2 @@
+struct fddi_addr | a int * 
+function is_individual int | addr const struct fddi_addr *

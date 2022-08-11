@@ -1,0 +1,6 @@
+struct TYPE_4__ | height unsigned int | width unsigned int 
+struct vpe_q_data | flags int | c_rect struct TYPE_4__ 
+struct vpe_mmr_adb | dei_regs unsigned int * 
+struct TYPE_3__ | addr struct vpe_mmr_adb * 
+struct vpe_ctx | load_mmrs int | deinterlacing int | q_data struct vpe_q_data * | mmr_adb struct TYPE_3__ 
+function set_dei_regs void | ctx struct vpe_ctx *

@@ -1,0 +1,2 @@
+struct rvt_qp | dummy int 
+function hfi1_fault_tx int | qp struct rvt_qp * | opcode int | pbc int

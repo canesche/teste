@@ -1,0 +1,4 @@
+struct power_supply_propval | intval int 
+struct TYPE_2__ | flags int 
+struct bq27xxx_device_info | opts int | cache struct TYPE_2__ 
+function bq27xxx_battery_capacity_level int | di struct bq27xxx_device_info * | val union power_supply_propval *

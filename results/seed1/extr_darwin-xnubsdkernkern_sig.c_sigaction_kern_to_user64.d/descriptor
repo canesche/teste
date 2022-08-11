@@ -1,5 +1,0 @@
-struct TYPE_3__ | __sa_handler int 
-struct user64_sigaction | sa_flags int | sa_mask int | __sigaction_u struct TYPE_3__ 
-struct TYPE_4__ | __sa_handler int 
-struct kern_sigaction | sa_flags int | sa_mask int | __sigaction_u struct TYPE_4__ 
-function sigaction_kern_to_user64 void | in struct kern_sigaction * | out struct user64_sigaction *

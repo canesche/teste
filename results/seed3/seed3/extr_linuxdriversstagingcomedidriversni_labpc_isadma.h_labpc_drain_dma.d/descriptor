@@ -1,0 +1,2 @@
+struct comedi_device | dummy int 
+function labpc_drain_dma void | dev struct comedi_device *

@@ -1,0 +1,6 @@
+struct wm_adsp_compr_buf | regions struct TYPE_7__ * | dsp struct TYPE_6__ * 
+struct TYPE_8__ | caps struct TYPE_5__ * 
+struct TYPE_7__ | cumulative_size int 
+struct TYPE_6__ | fw unsigned long 
+struct TYPE_5__ | num_regions int 
+function wm_adsp_buffer_size int | buf struct wm_adsp_compr_buf *

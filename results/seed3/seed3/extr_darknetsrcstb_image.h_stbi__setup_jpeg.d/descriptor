@@ -1,0 +1,2 @@
+struct TYPE_3__ | resample_row_hv_2_kernel int | YCbCr_to_RGB_kernel int | idct_block_kernel int 
+function stbi__setup_jpeg void | j struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct pixel_format_desc | type long | from_rgba int 
+function is_conversion_to_supported int | format const struct pixel_format_desc *

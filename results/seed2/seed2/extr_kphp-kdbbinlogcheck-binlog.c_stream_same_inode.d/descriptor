@@ -1,0 +1,4 @@
+struct TYPE_8__ | F struct TYPE_7__ * 
+struct TYPE_7__ | info struct TYPE_6__ * 
+struct TYPE_6__ | device long | inode long 
+function stream_same_inode int | A struct TYPE_8__ * | B struct TYPE_8__ *

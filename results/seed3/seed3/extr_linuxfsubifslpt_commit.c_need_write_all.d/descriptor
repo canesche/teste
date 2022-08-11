@@ -1,0 +1,3 @@
+struct ubifs_info | lpt_lebs int | lpt_first long | nhead_lnum long | leb_size long | nhead_offs long | lpt_sz int | ltab struct TYPE_2__ * 
+struct TYPE_2__ | free long | dirty long 
+function need_write_all int | c struct ubifs_info *

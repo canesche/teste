@@ -1,0 +1,2 @@
+struct TYPE_3__ | progressive_frame int | progressive_sequence int | f_code int | b_code int | slice_context_count int | picture_number long | coded_picture_number long | picture_structure int | chroma_qscale_table int | c_dc_scale_table int | y_dc_scale_table int 
+function ff_mpv_common_defaults void | s struct TYPE_3__ *

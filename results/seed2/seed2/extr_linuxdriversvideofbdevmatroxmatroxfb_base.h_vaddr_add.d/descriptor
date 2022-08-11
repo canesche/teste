@@ -1,0 +1,2 @@
+struct TYPE_3__ | vaddr unsigned long 
+function vaddr_add void | va struct TYPE_3__ * | offs unsigned long

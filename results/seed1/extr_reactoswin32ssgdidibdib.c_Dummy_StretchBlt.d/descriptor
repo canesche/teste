@@ -1,1 +1,0 @@
-function Dummy_StretchBlt int | DestSurf int * | SourceSurf int * | PatternSurface int * | MaskSurf int * | DestRect int * | SourceRect int * | MaskOrigin int * | Brush int * | BrushOrign int * | ColorTranslation int * | Rop int

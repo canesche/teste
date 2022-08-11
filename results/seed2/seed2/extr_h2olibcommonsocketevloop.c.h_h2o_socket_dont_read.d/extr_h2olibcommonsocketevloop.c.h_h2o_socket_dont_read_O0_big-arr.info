@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_h2olibcommonsocketevloop.c.h_h2o_socket_dont_read.d/extr_h2olibcommonsocketevloop.c.h_h2o_socket_dont_read_O0::h2o_socket_dont_read(63)"
+  }
+]

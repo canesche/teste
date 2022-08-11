@@ -1,2 +1,0 @@
-struct dvb_frontend | dummy int 
-function cinergyt2_fe_init int | fe struct dvb_frontend *

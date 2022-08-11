@@ -1,2 +1,0 @@
-struct TYPE_3__ | ext unsigned char * | ext_len unsigned long 
-function SCT_get0_extensions unsigned long | sct const struct TYPE_3__ * | ext unsigned char **

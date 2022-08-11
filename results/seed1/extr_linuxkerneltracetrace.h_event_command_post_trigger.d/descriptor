@@ -1,2 +1,0 @@
-struct event_command | flags int 
-function event_command_post_trigger int | cmd_ops struct event_command *

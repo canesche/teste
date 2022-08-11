@@ -1,0 +1,3 @@
+struct mp_filter | in struct TYPE_2__ * 
+struct TYPE_2__ | error_handler struct mp_filter * 
+function mp_filter_set_error_handler void | f struct mp_filter * | handler struct mp_filter *

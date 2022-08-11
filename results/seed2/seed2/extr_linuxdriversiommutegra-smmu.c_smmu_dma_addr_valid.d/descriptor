@@ -1,0 +1,2 @@
+struct tegra_smmu | pfn_mask int 
+function smmu_dma_addr_valid int | smmu struct tegra_smmu * | addr int

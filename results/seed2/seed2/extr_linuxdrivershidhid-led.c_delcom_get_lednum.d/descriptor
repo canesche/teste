@@ -1,0 +1,3 @@
+struct hidled_led | rgb struct TYPE_2__ * 
+struct TYPE_2__ | green const struct hidled_led | red const struct hidled_led 
+function delcom_get_lednum int | led const struct hidled_led *

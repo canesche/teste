@@ -1,0 +1,3 @@
+struct firmware | dummy int 
+struct device | dummy int 
+function firmware_fallback_sysfs int | fw struct firmware * | name const char * | device struct device * | opt_flags enum fw_opt | ret int

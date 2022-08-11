@@ -1,2 +1,0 @@
-struct lowpan_nhc | idmask int * | id int * 
-function ipv6_nhid_setup void | nhc struct lowpan_nhc *

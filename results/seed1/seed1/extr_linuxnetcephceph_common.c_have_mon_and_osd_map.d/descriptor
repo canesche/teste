@@ -1,0 +1,6 @@
+struct TYPE_8__ | osdmap struct TYPE_7__ * 
+struct TYPE_6__ | monmap struct TYPE_5__ * 
+struct ceph_client | osdc struct TYPE_8__ | monc struct TYPE_6__ 
+struct TYPE_7__ | epoch long 
+struct TYPE_5__ | epoch long 
+function have_mon_and_osd_map int | client struct ceph_client *

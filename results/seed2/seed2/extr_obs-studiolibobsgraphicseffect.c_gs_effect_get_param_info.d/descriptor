@@ -1,0 +1,3 @@
+struct gs_effect_param_info | type int | name int 
+struct TYPE_3__ | type int | name int 
+function gs_effect_get_param_info void | param const struct TYPE_3__ * | info struct gs_effect_param_info *

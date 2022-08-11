@@ -1,2 +1,0 @@
-struct ip_msource | ims_haddr long 
-function ip_msource_cmp int | a const struct ip_msource * | b const struct ip_msource *

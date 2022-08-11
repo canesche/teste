@@ -1,2 +1,0 @@
-struct pci_pbm_info | portid long | next struct pci_pbm_info * 
-function psycho_find_sibling struct pci_pbm_info * | upa_portid long

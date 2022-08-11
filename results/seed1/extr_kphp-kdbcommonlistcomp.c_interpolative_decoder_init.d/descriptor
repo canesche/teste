@@ -1,3 +1,0 @@
-struct list_decoder | decode_int int * | k long | N int | K long | data long | p long 
-struct interpolative_decoder_stack_entry | left_value int | right_value int | right_idx long | middle_value int | left_idx long 
-function interpolative_decoder_init void | dec struct list_decoder *

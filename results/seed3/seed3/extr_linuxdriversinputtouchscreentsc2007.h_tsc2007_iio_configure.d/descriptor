@@ -1,0 +1,2 @@
+struct tsc2007 | dummy int 
+function tsc2007_iio_configure int | ts struct tsc2007 *

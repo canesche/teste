@@ -1,0 +1,2 @@
+struct PcapFile | linktype int 
+function pcapfile_datalink unsigned int | handle struct PcapFile *

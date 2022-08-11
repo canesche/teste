@@ -1,0 +1,2 @@
+struct ads1015_data | event_channel int 
+function ads1015_event_channel_disable void | data struct ads1015_data * | chan int

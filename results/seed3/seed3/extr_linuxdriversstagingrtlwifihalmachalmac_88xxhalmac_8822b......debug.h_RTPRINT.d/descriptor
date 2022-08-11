@@ -1,0 +1,2 @@
+struct rtl_priv | dummy int 
+function RTPRINT void | rtlpriv struct rtl_priv * | dbgtype int | dbgflag int | fmt const char *

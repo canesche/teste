@@ -1,0 +1,2 @@
+struct TYPE_3__ | m_nBytesRead long | m_nBodySize long | m_hasAbsTimestamp int | m_nInfoField2 long | m_nTimeStamp long | m_nChannel long | m_packetType long | m_headerType long 
+function RTMPPacket_Reset void | p struct TYPE_3__ *

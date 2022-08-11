@@ -1,3 +1,0 @@
-struct TYPE_5__ | nbStep int | steps struct TYPE_4__ * 
-struct TYPE_4__ | previousExtra int | indexExtra int | lenExtra int | comp int | op int | value3 int * | value2 int * | value int * 
-function xsltSwapTopCompMatch void | comp struct TYPE_5__ *

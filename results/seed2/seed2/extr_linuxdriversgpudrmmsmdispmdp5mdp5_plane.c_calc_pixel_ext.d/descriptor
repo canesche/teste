@@ -1,0 +1,2 @@
+struct mdp_format | is_yuv long 
+function calc_pixel_ext void | format const struct mdp_format * | src long | dst long | phase_step long [2] | pix_ext_edge1 int [COMP_MAX] | pix_ext_edge2 int [COMP_MAX] | horz int

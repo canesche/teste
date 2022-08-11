@@ -1,0 +1,2 @@
+struct TYPE_4__ | offset int | size int 
+function regcmp int | a struct TYPE_4__ * | b struct TYPE_4__ *

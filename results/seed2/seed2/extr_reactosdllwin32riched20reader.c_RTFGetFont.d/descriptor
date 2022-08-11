@@ -1,0 +1,3 @@
+struct TYPE_6__ | rtfFNum int | rtfNextFont struct TYPE_6__ * 
+struct TYPE_5__ | fontList struct TYPE_6__ * 
+function RTFGetFont struct TYPE_6__ * | info const struct TYPE_5__ * | num int

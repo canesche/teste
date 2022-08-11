@@ -1,0 +1,2 @@
+struct intel_engine_execlists | active long 
+function execlists_clear_all_active void | execlists struct intel_engine_execlists *

@@ -1,0 +1,2 @@
+struct xdp_md | dummy int 
+function xdp_redirect_dummy_prog int | ctx struct xdp_md *

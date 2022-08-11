@@ -1,4 +1,0 @@
-struct gb_operation_msg_hdr | dummy int 
-struct gb_host_device | buffer_size_max unsigned long 
-struct gb_connection | hd struct gb_host_device * 
-function gb_operation_get_payload_size_max unsigned long | connection struct gb_connection *

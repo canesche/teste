@@ -1,0 +1,2 @@
+struct ceph_osds | size long | primary int | osds long * 
+function osds_valid int | set const struct ceph_osds *

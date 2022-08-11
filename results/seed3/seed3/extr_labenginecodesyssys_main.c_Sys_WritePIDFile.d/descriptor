@@ -1,0 +1,1 @@
+function Sys_WritePIDFile int | gamedir const char *

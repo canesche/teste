@@ -1,0 +1,3 @@
+struct TYPE_2__ | buf const char * 
+struct magic_set | event_flags int | o struct TYPE_2__ 
+function magic_error const char * | ms struct magic_set *

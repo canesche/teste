@@ -1,6 +1,0 @@
-struct TYPE_8__ | blli struct TYPE_7__ * 
-struct atm_vcc | sap struct TYPE_8__ 
-struct TYPE_5__ | snap long * 
-struct TYPE_6__ | tr9577 struct TYPE_5__ 
-struct TYPE_7__ | l3 struct TYPE_6__ 
-function lec_is_data_direct int | vcc struct atm_vcc *

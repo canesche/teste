@@ -1,0 +1,2 @@
+struct dynamic_sa_ctl | dummy int 
+function get_dynamic_sa_key_field int * | cts struct dynamic_sa_ctl *

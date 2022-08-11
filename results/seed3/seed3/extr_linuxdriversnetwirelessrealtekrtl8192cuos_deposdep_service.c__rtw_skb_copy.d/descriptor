@@ -1,0 +1,2 @@
+struct sk_buff | dummy int 
+function _rtw_skb_copy struct sk_buff * | skb const struct sk_buff *

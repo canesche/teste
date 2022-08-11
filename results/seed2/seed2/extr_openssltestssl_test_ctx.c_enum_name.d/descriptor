@@ -1,0 +1,2 @@
+struct TYPE_3__ | value int | name const char * 
+function enum_name const char * | enums const struct TYPE_3__ * | num_enums unsigned long | value int

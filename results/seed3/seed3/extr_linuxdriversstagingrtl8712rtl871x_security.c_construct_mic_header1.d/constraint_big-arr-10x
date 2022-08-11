@@ -1,0 +1,1 @@
+value(header_length) == 10, length(mic_header1) == 100, length(mpdu) == 100

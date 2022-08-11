@@ -1,0 +1,5 @@
+struct pp_hwmgr | pptable long 
+struct phm_ppt_v2_information | vdd_dep_on_mclk struct phm_ppt_v1_clock_voltage_dependency_table * 
+struct phm_ppt_v1_clock_voltage_dependency_table | entries struct TYPE_2__ * 
+struct TYPE_2__ | vddInd int 
+function vega10_get_soc_index_for_max_uclk int | hwmgr struct pp_hwmgr *

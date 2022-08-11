@@ -1,0 +1,5 @@
+struct ksz_desc_info | last unsigned long | mask unsigned long | avail int | ring struct ksz_desc * 
+struct TYPE_3__ | data int 
+struct TYPE_4__ | buf struct TYPE_3__ 
+struct ksz_desc | sw struct TYPE_4__ 
+function get_rx_pkt void | info struct ksz_desc_info * | desc struct ksz_desc **

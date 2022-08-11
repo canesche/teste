@@ -1,0 +1,2 @@
+struct TYPE_3__ | cur_header_value_len int | state int 
+function http_parse_header_value void | state struct TYPE_3__ * | next const char

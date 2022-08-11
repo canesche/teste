@@ -1,0 +1,1 @@
+function blend_pixel void | dst unsigned int * | src unsigned int | alpha unsigned int | mask const unsigned int * | mask_linesize int | l2depth int | w unsigned int | h unsigned int | shift unsigned int | xm0 unsigned int

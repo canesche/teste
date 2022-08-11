@@ -1,0 +1,2 @@
+struct run_request | dummy int 
+function get_run_request struct run_request * | request enum request

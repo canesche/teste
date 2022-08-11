@@ -1,0 +1,2 @@
+struct omap_rng_dev | pdata int * 
+function get_omap_rng_device_details int | omap_rng struct omap_rng_dev *

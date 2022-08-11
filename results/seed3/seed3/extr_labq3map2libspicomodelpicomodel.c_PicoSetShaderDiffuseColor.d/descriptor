@@ -1,0 +1,2 @@
+struct TYPE_3__ | diffuseColor void ** 
+function PicoSetShaderDiffuseColor void | shader struct TYPE_3__ * | color void **

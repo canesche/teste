@@ -1,0 +1,2 @@
+struct TYPE_3__ | datasize int 
+function encoder_nop_size int | part struct TYPE_3__ *

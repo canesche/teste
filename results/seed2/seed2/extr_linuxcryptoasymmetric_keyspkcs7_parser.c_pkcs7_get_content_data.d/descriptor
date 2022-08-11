@@ -1,0 +1,2 @@
+struct pkcs7_message | data void * | data_len unsigned long | data_hdrlen unsigned long 
+function pkcs7_get_content_data int | pkcs7 const struct pkcs7_message * | _data const void ** | _data_len unsigned long * | _headerlen unsigned long *

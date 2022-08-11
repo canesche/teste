@@ -1,2 +1,0 @@
-struct worktree | id int 
-function is_main_worktree int | wt const struct worktree *

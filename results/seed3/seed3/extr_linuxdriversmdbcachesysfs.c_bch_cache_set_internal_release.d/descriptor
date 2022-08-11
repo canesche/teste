@@ -1,0 +1,2 @@
+struct kobject | dummy int 
+function bch_cache_set_internal_release void | k struct kobject *

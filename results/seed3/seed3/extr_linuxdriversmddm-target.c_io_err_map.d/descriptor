@@ -1,0 +1,3 @@
+struct dm_target | dummy int 
+struct bio | dummy int 
+function io_err_map int | tt struct dm_target * | bio struct bio *

@@ -1,2 +1,0 @@
-struct type_descriptor | type_info int 
-function type_bit_width unsigned int | type struct type_descriptor *

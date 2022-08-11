@@ -1,0 +1,3 @@
+struct TYPE_5__ | meths_count unsigned long | meths struct TYPE_6__ * 
+struct TYPE_6__ | ext_type unsigned int | role long 
+function custom_ext_find struct TYPE_6__ * | exts const struct TYPE_5__ * | role long | ext_type unsigned int | idx unsigned long *

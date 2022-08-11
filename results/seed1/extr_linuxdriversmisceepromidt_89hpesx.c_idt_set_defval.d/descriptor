@@ -1,2 +1,0 @@
-struct idt_89hpesx_dev | eero int | eeaddr long | inieecmd long | eesize long 
-function idt_set_defval void | pdev struct idt_89hpesx_dev *

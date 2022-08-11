@@ -1,2 +1,0 @@
-struct ceph_hobject_id | key_len int | oid_len int | nspace_len int 
-function hoid_encoding_size int | hoid const struct ceph_hobject_id *

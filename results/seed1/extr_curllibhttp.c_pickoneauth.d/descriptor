@@ -1,2 +1,0 @@
-struct auth | avail unsigned long | want unsigned long | picked unsigned long 
-function pickoneauth int | pick struct auth * | mask unsigned long

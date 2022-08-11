@@ -1,0 +1,2 @@
+struct ipw_rx_queue | read int | write int 
+function ipw_rx_queue_space int | q const struct ipw_rx_queue *

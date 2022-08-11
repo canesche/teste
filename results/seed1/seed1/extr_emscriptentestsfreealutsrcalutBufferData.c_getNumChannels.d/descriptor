@@ -1,0 +1,2 @@
+struct TYPE_3__ | numChannels int 
+function getNumChannels int | bufferData const struct TYPE_3__ *

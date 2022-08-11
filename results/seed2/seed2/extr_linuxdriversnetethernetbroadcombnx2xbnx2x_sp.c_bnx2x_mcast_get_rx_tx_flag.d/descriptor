@@ -1,0 +1,3 @@
+struct bnx2x_raw_obj | obj_type long 
+struct bnx2x_mcast_obj | raw struct bnx2x_raw_obj 
+function bnx2x_mcast_get_rx_tx_flag int | o struct bnx2x_mcast_obj *

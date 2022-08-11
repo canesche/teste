@@ -1,0 +1,2 @@
+struct tipc_msg | hdr int * 
+function msg_media_addr char * | m struct tipc_msg *

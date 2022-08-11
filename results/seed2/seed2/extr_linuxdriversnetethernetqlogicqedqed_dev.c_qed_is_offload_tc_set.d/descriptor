@@ -1,0 +1,3 @@
+struct TYPE_2__ | offload_tc_set int 
+struct qed_hwfn | hw_info struct TYPE_2__ 
+function qed_is_offload_tc_set int | p_hwfn struct qed_hwfn *

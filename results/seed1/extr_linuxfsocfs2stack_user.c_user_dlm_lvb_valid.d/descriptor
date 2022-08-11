@@ -1,3 +1,0 @@
-struct TYPE_2__ | sb_flags int 
-struct ocfs2_dlm_lksb | lksb_fsdlm struct TYPE_2__ 
-function user_dlm_lvb_valid int | lksb struct ocfs2_dlm_lksb *

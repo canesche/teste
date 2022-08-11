@@ -1,3 +1,0 @@
-struct cw1200_common | debug struct TYPE_2__ * 
-struct TYPE_2__ | tx_ttl int 
-function cw1200_debug_tx_ttl void | priv struct cw1200_common *

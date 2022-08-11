@@ -1,0 +1,2 @@
+struct i40e_ring | rx_buf_len int 
+function i40e_rx_pg_order unsigned int | ring struct i40e_ring *

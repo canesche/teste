@@ -1,0 +1,1 @@
+function word_memcpy_tocard void | tp unsigned long | fp const void * | count int

@@ -1,0 +1,2 @@
+struct hash_netnet6_elem | nomatch int 
+function hash_netnet6_data_set_flags void | elem struct hash_netnet6_elem * | flags int

@@ -1,0 +1,4 @@
+struct TYPE_4__ | num_pads int | pads struct TYPE_3__ * 
+struct v4l2_subdev | entity struct TYPE_4__ 
+struct TYPE_3__ | flags int 
+function isp_pad_buffer_type enum v4l2_buf_type | subdev const struct v4l2_subdev * | pad int

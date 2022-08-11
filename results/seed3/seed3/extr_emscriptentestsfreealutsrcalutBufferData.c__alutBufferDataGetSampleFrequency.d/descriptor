@@ -1,0 +1,2 @@
+struct TYPE_3__ | sampleFrequency int 
+function _alutBufferDataGetSampleFrequency int | bufferData const struct TYPE_3__ *

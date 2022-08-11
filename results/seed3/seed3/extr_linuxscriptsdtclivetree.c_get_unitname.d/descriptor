@@ -1,0 +1,2 @@
+struct node | name char * | basenamelen unsigned long 
+function get_unitname const char * | node struct node *

@@ -1,0 +1,2 @@
+struct nvme_ns_head | dummy int 
+function nvme_mpath_remove_disk void | head struct nvme_ns_head *

@@ -1,0 +1,2 @@
+struct apply_state | apply long | ws_error_action int | whitespace_option int 
+function set_default_whitespace_mode void | state struct apply_state *

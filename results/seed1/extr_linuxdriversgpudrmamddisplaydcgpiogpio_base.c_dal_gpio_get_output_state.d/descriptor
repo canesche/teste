@@ -1,2 +1,0 @@
-struct gpio | output_state int 
-function dal_gpio_get_output_state enum gpio_pin_output_state | gpio const struct gpio *

@@ -1,0 +1,2 @@
+struct outbuffer | fill int | data long 
+function conv_s16_to_u16 void | buf struct outbuffer *

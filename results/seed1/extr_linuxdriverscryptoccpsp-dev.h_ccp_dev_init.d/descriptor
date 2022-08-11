@@ -1,2 +1,0 @@
-struct sp_device | dummy int 
-function ccp_dev_init int | sp struct sp_device *

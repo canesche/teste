@@ -1,0 +1,3 @@
+struct TYPE_2__ | di_flags2 int 
+struct xfs_inode | i_d struct TYPE_2__ 
+function xfs_is_reflink_inode int | ip struct xfs_inode *

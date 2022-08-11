@@ -1,0 +1,2 @@
+struct fb_videomode | dummy int 
+function ps3fb_native_vmode const struct fb_videomode * | id enum ps3av_mode_num

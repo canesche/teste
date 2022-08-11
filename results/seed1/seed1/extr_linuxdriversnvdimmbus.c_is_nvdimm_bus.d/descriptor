@@ -1,0 +1,2 @@
+struct device | release long 
+function is_nvdimm_bus int | dev struct device *

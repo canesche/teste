@@ -1,0 +1,1 @@
+function lpc_compute_autocorr_c void | data const double * | len int | lag int | autoc double *

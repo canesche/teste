@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdrivershwmong762.c_rpm_from_cnt.d/extr_linuxdrivershwmong762.c_rpm_from_cnt_O0::rpm_from_cnt(64)"
+  }
+]

@@ -1,5 +1,0 @@
-struct led_flash_ops | fault_get long | timeout_set long | flash_brightness_set long 
-struct led_classdev | groups const struct attribute_group ** 
-struct led_classdev_flash | sysfs_groups struct attribute_group ** | ops struct led_flash_ops * | led_cdev struct led_classdev 
-struct attribute_group | dummy int 
-function led_flash_init_sysfs_groups void | fled_cdev struct led_classdev_flash *

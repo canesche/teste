@@ -1,2 +1,0 @@
-struct rt2x00_dev | dummy int 
-function rt2x00led_led_activity void | rt2x00dev struct rt2x00_dev * | enabled int

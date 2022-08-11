@@ -1,0 +1,2 @@
+struct fb_bitfield | length unsigned int | offset unsigned int 
+function jzfb_convert_color_to_hw unsigned int | val unsigned int | bf struct fb_bitfield *

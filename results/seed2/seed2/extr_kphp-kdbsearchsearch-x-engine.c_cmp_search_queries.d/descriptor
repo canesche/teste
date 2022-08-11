@@ -1,0 +1,2 @@
+struct search_query_heap_en | cpu_time long 
+function cmp_search_queries int | a const void * | b const void *

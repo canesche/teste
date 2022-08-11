@@ -1,0 +1,2 @@
+struct xgene_enet_pdata | phy_mode int | rxq_cnt int | txq_cnt int | cq_cnt int | enet_id long | port_id int | ring_ops int * | rm void * | ring_num void * | bp_bufnum void * | eth_bufnum void * | cpu_bufnum void * | cle_ops int * | port_ops int * | mac_ops int * 
+function xgene_enet_setup_ops void | pdata struct xgene_enet_pdata *

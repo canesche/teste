@@ -1,0 +1,2 @@
+struct fm10k_hw_stat | base_h int | base_l long 
+function fm10k_update_hw_base_48b void | stat struct fm10k_hw_stat * | delta int

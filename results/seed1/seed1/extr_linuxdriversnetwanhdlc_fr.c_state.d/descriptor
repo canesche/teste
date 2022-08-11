@@ -1,0 +1,3 @@
+struct frad_state | dummy int 
+struct TYPE_3__ | state long 
+function state struct frad_state * | hdlc struct TYPE_3__ *

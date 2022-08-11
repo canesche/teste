@@ -1,0 +1,3 @@
+struct snd_pcm_hw_params | dummy int 
+struct oxygen | dummy int 
+function set_pcm1804_params void | chip struct oxygen * | params struct snd_pcm_hw_params *

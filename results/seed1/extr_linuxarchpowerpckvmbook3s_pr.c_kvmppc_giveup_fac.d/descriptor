@@ -1,2 +1,0 @@
-struct kvm_vcpu | dummy int 
-function kvmppc_giveup_fac void | vcpu struct kvm_vcpu * | fac int

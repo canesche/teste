@@ -1,0 +1,1 @@
+function MyMemCpy void | dest int * | src const int * | size unsigned int

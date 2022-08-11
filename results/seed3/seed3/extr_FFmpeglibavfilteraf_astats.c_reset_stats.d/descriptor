@@ -1,0 +1,3 @@
+struct TYPE_5__ | nb_channels int | chstats struct TYPE_4__ * 
+struct TYPE_4__ | imask int | nb_denormals long | nb_infs long | nb_nans long | nb_samples long | zero_runs long | max_count long | min_count long | mask long | diff1_sum_x2 long | diff1_sum long | max_runs long | min_runs long | max_run long | min_run long | avg_sigma_x2 long | sigma_x2 long | sigma_x long | max_diff void * | min_diff void * | min_non_zero void * | max_sigma_x2 void * | nmax void * | max void * | min_sigma_x2 void * | nmin void * | min void * 
+function reset_stats void | s struct TYPE_5__ *

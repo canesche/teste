@@ -1,2 +1,0 @@
-struct inode | dummy int 
-function ceph_security_xattr_deadlock int | in struct inode *

@@ -1,0 +1,1 @@
+function bit_read_short unsigned short | buf unsigned char * | offset int *

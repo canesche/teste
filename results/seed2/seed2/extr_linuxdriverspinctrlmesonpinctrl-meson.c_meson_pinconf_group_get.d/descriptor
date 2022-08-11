@@ -1,0 +1,2 @@
+struct pinctrl_dev | dummy int 
+function meson_pinconf_group_get int | pcdev struct pinctrl_dev * | group unsigned int | config unsigned long *

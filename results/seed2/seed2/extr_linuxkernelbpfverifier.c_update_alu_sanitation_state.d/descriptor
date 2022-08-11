@@ -1,0 +1,2 @@
+struct bpf_insn_aux_data | alu_state long | alu_limit long 
+function update_alu_sanitation_state int | aux struct bpf_insn_aux_data * | alu_state long | alu_limit long

@@ -1,2 +1,0 @@
-struct intel_pinctrl | dummy int 
-function intel_pinctrl_pm_init int | pctrl struct intel_pinctrl *

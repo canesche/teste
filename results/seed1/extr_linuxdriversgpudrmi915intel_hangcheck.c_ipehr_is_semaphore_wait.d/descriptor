@@ -1,2 +1,0 @@
-struct intel_engine_cs | dummy int 
-function ipehr_is_semaphore_wait int | engine struct intel_engine_cs * | ipehr int

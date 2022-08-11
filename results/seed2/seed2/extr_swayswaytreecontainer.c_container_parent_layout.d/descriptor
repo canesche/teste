@@ -1,0 +1,4 @@
+struct sway_container | workspace struct TYPE_4__ * | parent struct TYPE_3__ * 
+struct TYPE_4__ | layout int 
+struct TYPE_3__ | layout int 
+function container_parent_layout enum sway_container_layout | con struct sway_container *

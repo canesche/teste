@@ -1,3 +1,0 @@
-struct range_box | len int | start int 
-struct color_ref | color int | count int 
-function get_avg_color int | refs struct color_ref *const * | box const struct range_box *

@@ -1,0 +1,2 @@
+struct pingpong | nread_resp long | cache_size long | cache long | sendleft int 
+function Curl_pp_moredata int | pp struct pingpong *

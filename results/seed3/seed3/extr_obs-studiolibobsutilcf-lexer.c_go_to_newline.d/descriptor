@@ -1,0 +1,2 @@
+struct cf_token | type long 
+function go_to_newline int | p_cur_token struct cf_token **

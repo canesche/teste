@@ -1,0 +1,2 @@
+struct irq_data | irq unsigned int 
+function mask_msp_slp_irq void | d struct irq_data *

@@ -1,0 +1,2 @@
+struct omap_iommu | dummy int 
+function omap_iommu_debugfs_remove void | obj struct omap_iommu *

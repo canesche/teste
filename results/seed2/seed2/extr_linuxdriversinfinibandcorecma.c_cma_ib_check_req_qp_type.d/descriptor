@@ -1,0 +1,5 @@
+struct rdma_cm_id | qp_type long 
+struct TYPE_3__ | qp_type long 
+struct TYPE_4__ | req_rcvd struct TYPE_3__ 
+struct ib_cm_event | event long | param struct TYPE_4__ 
+function cma_ib_check_req_qp_type int | id const struct rdma_cm_id * | ib_event const struct ib_cm_event *

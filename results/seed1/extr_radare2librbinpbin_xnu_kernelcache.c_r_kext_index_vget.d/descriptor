@@ -1,4 +1,0 @@
-struct TYPE_6__ | size long 
-struct TYPE_8__ | vaddr long | text_range struct TYPE_6__ 
-struct TYPE_7__ | length int | entries struct TYPE_8__ ** 
-function r_kext_index_vget struct TYPE_8__ * | index struct TYPE_7__ * | vaddr long

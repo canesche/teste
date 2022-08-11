@@ -1,0 +1,5 @@
+struct TYPE_12__ | f_stepsize int 
+struct TYPE_11__ | coord int ** 
+struct TYPE_10__ | f_data float * | coord int ** 
+struct TYPE_9__ | data int * | stride int 
+function dequantization_float void | x int | y int | cblk struct TYPE_11__ * | comp struct TYPE_10__ * | t1 struct TYPE_9__ * | band struct TYPE_12__ *

@@ -1,0 +1,2 @@
+struct nfp_nsp | entries void * 
+function nfp_nsp_config_entries void * | state struct nfp_nsp *

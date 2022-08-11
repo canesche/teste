@@ -1,2 +1,0 @@
-struct push_buffer | fence unsigned int | size int 
-function host1x_pushbuffer_pop void | pb struct push_buffer * | slots unsigned int

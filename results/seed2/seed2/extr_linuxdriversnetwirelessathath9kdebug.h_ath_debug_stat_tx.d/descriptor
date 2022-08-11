@@ -1,0 +1,5 @@
+struct ath_txq | dummy int 
+struct ath_tx_status | dummy int 
+struct ath_softc | dummy int 
+struct ath_buf | dummy int 
+function ath_debug_stat_tx void | sc struct ath_softc * | bf struct ath_buf * | ts struct ath_tx_status * | txq struct ath_txq * | flags unsigned int

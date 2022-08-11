@@ -1,4 +1,0 @@
-struct l3_process | callref int | next struct l3_process * 
-struct TYPE_2__ | proc struct l3_process * 
-struct PStack | l3 struct TYPE_2__ 
-function getl3proc struct l3_process * | st struct PStack * | cr int

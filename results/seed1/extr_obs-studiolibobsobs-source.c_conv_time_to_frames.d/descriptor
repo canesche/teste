@@ -1,1 +1,0 @@
-function conv_time_to_frames unsigned long | sample_rate const unsigned long | duration const unsigned long long

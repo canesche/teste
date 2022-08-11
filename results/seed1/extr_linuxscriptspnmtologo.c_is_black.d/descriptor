@@ -1,2 +1,0 @@
-struct color | red long | green long | blue long 
-function is_black int | c struct color

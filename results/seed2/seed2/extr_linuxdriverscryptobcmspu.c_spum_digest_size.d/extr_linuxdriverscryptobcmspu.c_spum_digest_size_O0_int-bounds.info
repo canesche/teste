@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverscryptobcmspu.c_spum_digest_size.d/extr_linuxdriverscryptobcmspu.c_spum_digest_size_O0::spum_digest_size(70)"
+  }
+]

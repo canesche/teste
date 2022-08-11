@@ -1,0 +1,2 @@
+struct kvm | dummy int 
+function vgic_debug_destroy void | kvm struct kvm *

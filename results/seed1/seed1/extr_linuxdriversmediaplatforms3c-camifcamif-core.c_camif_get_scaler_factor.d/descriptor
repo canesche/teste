@@ -1,0 +1,1 @@
+function camif_get_scaler_factor int | src int | tar int | ratio int * | shift int *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | h int * | size long 
+function htbl_init void | table struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct efi_generic_dev_path | length int | type long | sub_type long 
+function validate_device_path int | var_name int * | match int | buffer int * | len unsigned long

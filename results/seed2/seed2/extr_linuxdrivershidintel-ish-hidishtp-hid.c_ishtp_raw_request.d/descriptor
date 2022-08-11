@@ -1,0 +1,2 @@
+struct hid_device | dummy int 
+function ishtp_raw_request int | hdev struct hid_device * | reportnum unsigned char | buf int * | len unsigned long | rtype unsigned char | reqtype int

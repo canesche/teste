@@ -1,0 +1,2 @@
+struct vm_area_struct | vm_flags int 
+function untrack_pfn_moved void | vma struct vm_area_struct *

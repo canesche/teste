@@ -1,2 +1,0 @@
-struct ipw_network | mru int 
-function ipwireless_ppp_mru int | network const struct ipw_network *

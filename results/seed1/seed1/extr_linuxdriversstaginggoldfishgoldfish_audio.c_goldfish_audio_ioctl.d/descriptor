@@ -1,0 +1,2 @@
+struct file | dummy int 
+function goldfish_audio_ioctl long | fp struct file * | cmd unsigned int | arg unsigned long

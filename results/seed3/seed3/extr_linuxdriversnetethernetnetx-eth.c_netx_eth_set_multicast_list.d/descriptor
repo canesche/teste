@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function netx_eth_set_multicast_list void | ndev struct net_device *

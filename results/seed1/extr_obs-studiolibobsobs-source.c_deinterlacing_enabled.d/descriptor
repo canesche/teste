@@ -1,2 +1,0 @@
-struct obs_source | deinterlace_mode long 
-function deinterlacing_enabled int | source const struct obs_source *

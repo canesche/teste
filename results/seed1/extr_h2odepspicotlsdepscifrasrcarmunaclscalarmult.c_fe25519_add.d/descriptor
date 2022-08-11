@@ -1,2 +1,0 @@
-struct TYPE_5__ | as_uint32 int * 
-function fe25519_add void | out struct TYPE_5__ * | baseValue const struct TYPE_5__ * | valueToAdd const struct TYPE_5__ *

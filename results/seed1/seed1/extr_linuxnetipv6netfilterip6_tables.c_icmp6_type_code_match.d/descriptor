@@ -1,0 +1,1 @@
+function icmp6_type_code_match int | test_type long | min_code long | max_code long | type long | code long | invert int

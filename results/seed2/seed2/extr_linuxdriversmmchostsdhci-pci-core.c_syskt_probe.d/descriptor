@@ -1,0 +1,3 @@
+struct sdhci_pci_chip | pdev struct TYPE_2__ * 
+struct TYPE_2__ | class int 
+function syskt_probe int | chip struct sdhci_pci_chip *

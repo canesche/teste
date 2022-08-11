@@ -1,0 +1,3 @@
+struct slave | fd int 
+struct harbor | s struct slave * 
+function harbor_id int | h struct harbor * | fd int

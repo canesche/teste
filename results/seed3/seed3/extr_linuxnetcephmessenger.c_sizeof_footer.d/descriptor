@@ -1,0 +1,4 @@
+struct ceph_msg_footer_old | dummy int 
+struct ceph_msg_footer | dummy int 
+struct ceph_connection | peer_features int 
+function sizeof_footer unsigned long | con struct ceph_connection *

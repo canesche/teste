@@ -1,2 +1,0 @@
-struct dwc2_hsotg | dummy int 
-function dwc2_hsotg_disconnect void | dwc2 struct dwc2_hsotg *

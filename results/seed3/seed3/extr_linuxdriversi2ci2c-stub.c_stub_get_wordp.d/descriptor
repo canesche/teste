@@ -1,0 +1,2 @@
+struct stub_chip | bank_sel int | bank_start long | bank_end long | bank_words long | bank_size int | words int * 
+function stub_get_wordp int * | chip struct stub_chip * | offset long

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversinputinput.c_input_defuzz_abs_event.d/extr_linuxdriversinputinput.c_input_defuzz_abs_event_O0::input_defuzz_abs_event(60)"
+  }
+]

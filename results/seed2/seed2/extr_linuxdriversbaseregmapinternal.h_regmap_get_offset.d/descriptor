@@ -1,0 +1,2 @@
+struct regmap | reg_stride_order unsigned int | reg_stride unsigned int 
+function regmap_get_offset unsigned int | map const struct regmap * | index unsigned int

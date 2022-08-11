@@ -1,2 +1,0 @@
-struct device | dummy int 
-function bmp280_is_writeable_reg int | dev struct device * | reg unsigned int

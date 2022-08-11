@@ -1,0 +1,4 @@
+struct mount | dummy int 
+struct kern_direct_file_io_ref_t | vp struct TYPE_2__ * 
+struct TYPE_2__ | v_mount struct mount * 
+function kern_file_mount struct mount * | ref struct kern_direct_file_io_ref_t *

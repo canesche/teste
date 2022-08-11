@@ -1,0 +1,3 @@
+struct TYPE_2__ | boostable int | insn int * 
+struct kprobe | ainsn struct TYPE_2__ 
+function arch_prepare_kprobe_ftrace int | p struct kprobe *

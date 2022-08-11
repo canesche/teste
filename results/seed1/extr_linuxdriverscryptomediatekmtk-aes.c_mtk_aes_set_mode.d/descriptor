@@ -1,3 +1,0 @@
-struct mtk_aes_reqctx | mode int 
-struct mtk_aes_rec | flags int 
-function mtk_aes_set_mode void | aes struct mtk_aes_rec * | rctx const struct mtk_aes_reqctx *

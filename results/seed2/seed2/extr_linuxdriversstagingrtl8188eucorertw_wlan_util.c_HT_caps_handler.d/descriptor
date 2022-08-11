@@ -1,0 +1,8 @@
+struct ndis_802_11_var_ie | Length unsigned int | data int * 
+struct ht_priv | ht_option int 
+struct mlme_priv | htpriv struct ht_priv 
+struct TYPE_2__ | ampdu_params_info int | mcs int 
+struct mlme_ext_info | HT_caps_enable int | HT_caps struct TYPE_2__ 
+struct mlme_ext_priv | mlmext_info struct mlme_ext_info 
+struct adapter | mlmepriv struct mlme_priv | mlmeextpriv struct mlme_ext_priv 
+function HT_caps_handler void | padapter struct adapter * | pIE struct ndis_802_11_var_ie *

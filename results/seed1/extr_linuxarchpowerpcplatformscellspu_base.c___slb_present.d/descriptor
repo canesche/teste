@@ -1,2 +1,0 @@
-struct copro_slb | esid unsigned long 
-function __slb_present int | slbs struct copro_slb * | nr_slbs int | new_addr void *

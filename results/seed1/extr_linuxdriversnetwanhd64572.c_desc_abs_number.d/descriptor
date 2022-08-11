@@ -1,3 +1,0 @@
-struct TYPE_5__ | chan int | card struct TYPE_4__ * 
-struct TYPE_4__ | rx_ring_buffers int | tx_ring_buffers int 
-function desc_abs_number int | port struct TYPE_5__ * | desc int | transmit int

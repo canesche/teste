@@ -1,0 +1,3 @@
+struct TYPE_4__ | planenum int | faceflags int | backarea struct TYPE_5__ * | frontarea struct TYPE_5__ * | next struct TYPE_4__ ** 
+struct TYPE_5__ | tmpfaces struct TYPE_4__ * 
+function AAS_CanMergePlaneFaces int | tmparea struct TYPE_5__ * | planenum int

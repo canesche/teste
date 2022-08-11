@@ -1,3 +1,0 @@
-struct is31fl32xx_priv | num_leds unsigned long | leds struct is31fl32xx_led_data * 
-struct is31fl32xx_led_data | channel long 
-function is31fl32xx_find_led_data struct is31fl32xx_led_data * | priv struct is31fl32xx_priv * | channel long

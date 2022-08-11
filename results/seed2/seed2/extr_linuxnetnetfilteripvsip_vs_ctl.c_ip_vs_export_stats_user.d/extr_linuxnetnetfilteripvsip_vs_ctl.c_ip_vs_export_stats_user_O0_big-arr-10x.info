@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 46,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 46,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxnetnetfilteripvsip_vs_ctl.c_ip_vs_export_stats_user.d/extr_linuxnetnetfilteripvsip_vs_ctl.c_ip_vs_export_stats_user_O0::ip_vs_export_stats_user(64)"
+  }
+]

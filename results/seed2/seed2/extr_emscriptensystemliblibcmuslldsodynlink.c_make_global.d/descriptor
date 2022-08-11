@@ -1,0 +1,2 @@
+struct dso | global int | next struct dso * 
+function make_global void | p struct dso *

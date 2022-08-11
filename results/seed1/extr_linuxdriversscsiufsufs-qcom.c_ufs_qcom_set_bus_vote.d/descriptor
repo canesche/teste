@@ -1,2 +1,0 @@
-struct ufs_qcom_host | dummy int 
-function ufs_qcom_set_bus_vote int | host struct ufs_qcom_host * | vote int

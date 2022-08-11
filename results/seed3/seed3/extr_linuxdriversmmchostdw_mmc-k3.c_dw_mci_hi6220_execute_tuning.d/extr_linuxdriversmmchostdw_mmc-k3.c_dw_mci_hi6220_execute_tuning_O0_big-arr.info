@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmmchostdw_mmc-k3.c_dw_mci_hi6220_execute_tuning.d/extr_linuxdriversmmchostdw_mmc-k3.c_dw_mci_hi6220_execute_tuning_O0::dw_mci_hi6220_execute_tuning(62)"
+  }
+]

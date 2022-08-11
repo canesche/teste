@@ -1,0 +1,4 @@
+struct TYPE_6__ | i_value int 
+struct TYPE_5__ | parser struct TYPE_4__ * 
+struct TYPE_4__ | tailsub int 
+function cb_asmtailsub int | user void * | data void *

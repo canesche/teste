@@ -1,0 +1,3 @@
+struct sctp_addr | dummy int 
+struct sctp_sock | dummy int 
+function sctp_inet_send_verify int | opt struct sctp_sock * | addr union sctp_addr *

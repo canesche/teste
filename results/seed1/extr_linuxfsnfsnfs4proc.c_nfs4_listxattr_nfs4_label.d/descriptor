@@ -1,2 +1,0 @@
-struct inode | dummy int 
-function nfs4_listxattr_nfs4_label int | inode struct inode * | list char * | list_len unsigned long

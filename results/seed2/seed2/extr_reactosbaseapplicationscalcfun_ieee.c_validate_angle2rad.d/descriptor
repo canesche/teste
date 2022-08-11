@@ -1,0 +1,3 @@
+struct TYPE_4__ | f double 
+struct TYPE_5__ | degr int 
+function validate_angle2rad double | c struct TYPE_4__ *

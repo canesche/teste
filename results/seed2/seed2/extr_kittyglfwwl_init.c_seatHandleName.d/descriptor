@@ -1,0 +1,2 @@
+struct wl_seat | dummy int 
+function seatHandleName void | data void * | seat struct wl_seat * | name const char *

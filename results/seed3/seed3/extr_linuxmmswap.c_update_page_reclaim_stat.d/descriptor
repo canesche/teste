@@ -1,0 +1,3 @@
+struct zone_reclaim_stat | recent_rotated int * | recent_scanned int * 
+struct lruvec | reclaim_stat struct zone_reclaim_stat 
+function update_page_reclaim_stat void | lruvec struct lruvec * | file int | rotated int

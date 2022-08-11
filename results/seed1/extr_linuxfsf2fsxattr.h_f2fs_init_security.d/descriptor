@@ -1,4 +1,0 @@
-struct qstr | dummy int 
-struct page | dummy int 
-struct inode | dummy int 
-function f2fs_init_security int | inode struct inode * | dir struct inode * | qstr const struct qstr * | ipage struct page *

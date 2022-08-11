@@ -1,0 +1,2 @@
+struct TYPE_3__ | hash int * | cnt long | len long 
+function ppc_SHA1_Init int | c struct TYPE_3__ *

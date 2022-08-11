@@ -1,0 +1,2 @@
+struct dm_table | all_blk_mq int 
+function dm_table_all_blk_mq_devices int | t struct dm_table *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | dwAddr int 
+function compareIpAddrRow int | a const void * | b const void *

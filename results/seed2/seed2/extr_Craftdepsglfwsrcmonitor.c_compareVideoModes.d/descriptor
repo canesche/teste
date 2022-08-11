@@ -1,0 +1,2 @@
+struct TYPE_2__ | redBits int | greenBits int | blueBits int | width int | height int | refreshRate int 
+function compareVideoModes int | firstPtr const void * | secondPtr const void *

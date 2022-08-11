@@ -1,0 +1,2 @@
+struct TYPE_2__ | oper_channel long | on_oper_ch_time int 
+function adapter_to_dvobj struct TYPE_2__ * | int *

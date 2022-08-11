@@ -1,2 +1,0 @@
-struct befs_btree_node | od_node long 
-function befs_bt_keydata char * | node struct befs_btree_node *

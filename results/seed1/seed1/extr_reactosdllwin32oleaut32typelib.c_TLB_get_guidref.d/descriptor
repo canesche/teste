@@ -1,0 +1,2 @@
+struct TYPE_3__ | guid const int 
+function TLB_get_guidref const int * | guid const struct TYPE_3__ *

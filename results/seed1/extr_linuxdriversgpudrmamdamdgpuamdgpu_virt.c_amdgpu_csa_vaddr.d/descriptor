@@ -1,3 +1,0 @@
-struct TYPE_2__ | max_pfn int 
-struct amdgpu_device | vm_manager struct TYPE_2__ 
-function amdgpu_csa_vaddr int | adev struct amdgpu_device *

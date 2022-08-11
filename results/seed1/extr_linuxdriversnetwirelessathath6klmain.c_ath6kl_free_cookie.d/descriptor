@@ -1,3 +1,0 @@
-struct ath6kl_cookie | arc_list_next struct ath6kl_cookie * 
-struct ath6kl | cookie_count int | cookie_list struct ath6kl_cookie * 
-function ath6kl_free_cookie void | ar struct ath6kl * | cookie struct ath6kl_cookie *

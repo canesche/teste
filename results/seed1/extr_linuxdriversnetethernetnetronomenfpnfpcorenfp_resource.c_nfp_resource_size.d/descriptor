@@ -1,2 +1,0 @@
-struct nfp_resource | size int 
-function nfp_resource_size int | res struct nfp_resource *

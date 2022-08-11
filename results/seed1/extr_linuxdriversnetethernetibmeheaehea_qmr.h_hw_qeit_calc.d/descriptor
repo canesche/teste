@@ -1,3 +1,0 @@
-struct hw_queue | queue_length unsigned long | queue_pages struct ehea_page ** 
-struct ehea_page | entries void * 
-function hw_qeit_calc void * | queue struct hw_queue * | q_offset unsigned long

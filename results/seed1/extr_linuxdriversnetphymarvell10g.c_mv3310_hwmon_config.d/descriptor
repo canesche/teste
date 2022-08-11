@@ -1,2 +1,0 @@
-struct phy_device | dummy int 
-function mv3310_hwmon_config int | phydev struct phy_device * | enable int

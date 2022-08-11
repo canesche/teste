@@ -1,0 +1,3 @@
+struct TYPE_6__ | DMARDLAR int 
+struct TYPE_5__ | ControlBufferSize int | Buffer1Addr int | Buffer2NextDescAddr int | Status int 
+function ETH_DMARxDescChainInit void | DMARxDescTab struct TYPE_5__ * | RxBuff int * | RxBuffCount int

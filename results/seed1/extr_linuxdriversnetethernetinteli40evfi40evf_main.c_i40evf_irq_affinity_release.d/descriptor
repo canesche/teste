@@ -1,2 +1,0 @@
-struct kref | dummy int 
-function i40evf_irq_affinity_release void | ref struct kref *

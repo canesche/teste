@@ -1,0 +1,2 @@
+struct device | type int * 
+function scsi_is_host_device int | dev const struct device *

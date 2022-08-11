@@ -1,0 +1,3 @@
+struct demangle_component | dummy int 
+struct d_info | next_comp unsigned long | num_comps unsigned long | comps struct demangle_component * 
+function d_make_empty struct demangle_component * | di struct d_info *

@@ -1,0 +1,2 @@
+struct tcf_block_cb | refcnt int 
+function tcf_block_cb_incref void | block_cb struct tcf_block_cb *

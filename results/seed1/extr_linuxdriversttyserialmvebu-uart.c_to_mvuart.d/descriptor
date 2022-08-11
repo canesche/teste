@@ -1,3 +1,0 @@
-struct uart_port | private_data long 
-struct mvebu_uart | dummy int 
-function to_mvuart struct mvebu_uart * | port struct uart_port *

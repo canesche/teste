@@ -1,2 +1,0 @@
-struct menu | dummy int 
-function handle_f5 void | key int * | current_item struct menu *

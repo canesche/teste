@@ -1,0 +1,2 @@
+struct dpu_hw_intf_ops | get_line_count int | collect_misr int | setup_misr int | enable_timing int | get_status int | setup_prg_fetch int | setup_timing_gen int 
+function _setup_intf_ops void | ops struct dpu_hw_intf_ops * | cap unsigned long

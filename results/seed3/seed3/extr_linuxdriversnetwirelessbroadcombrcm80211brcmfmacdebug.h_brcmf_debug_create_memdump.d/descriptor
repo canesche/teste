@@ -1,0 +1,2 @@
+struct brcmf_bus | dummy int 
+function brcmf_debug_create_memdump int | bus struct brcmf_bus * | data const void * | len unsigned long

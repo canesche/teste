@@ -1,0 +1,4 @@
+struct nvdimm | dummy int 
+struct nd_cmd_pkg | nd_size_out long 
+struct nd_cmd_desc | out_num int | out_sizes long * 
+function nd_cmd_out_size long | nvdimm struct nvdimm * | cmd int | desc const struct nd_cmd_desc * | idx int | in_field const long * | out_field const long * | remainder unsigned long

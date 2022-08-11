@@ -1,2 +1,0 @@
-struct tfrc_tx_hist_entry | seqno long | next struct tfrc_tx_hist_entry * 
-function tfrc_tx_hist_find_entry struct tfrc_tx_hist_entry * | head struct tfrc_tx_hist_entry * | seqno long

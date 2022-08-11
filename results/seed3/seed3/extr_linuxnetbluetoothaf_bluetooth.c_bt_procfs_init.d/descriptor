@@ -1,0 +1,3 @@
+struct net | dummy int 
+struct bt_sock_list | dummy int 
+function bt_procfs_init int | net struct net * | name const char * | sk_list struct bt_sock_list * | seq_show int (*)(struct seq_file *, void *)

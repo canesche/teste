@@ -1,0 +1,4 @@
+struct TYPE_6__ | type_mask int | ce int * 
+struct TYPE_5__ | type struct TYPE_6__ 
+struct TYPE_7__ | constraint struct TYPE_5__ | has_range_constraint long 
+function pi_type_mask void | phi struct TYPE_7__ * | type_mask int

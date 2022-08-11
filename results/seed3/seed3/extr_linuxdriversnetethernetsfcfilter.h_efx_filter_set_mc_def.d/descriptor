@@ -1,0 +1,2 @@
+struct efx_filter_spec | loc_mac int * | match_flags int 
+function efx_filter_set_mc_def int | spec struct efx_filter_spec *

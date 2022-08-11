@@ -1,0 +1,2 @@
+struct ps3_mmio_region | dummy int 
+function ps3_ioc0_mmio_region_create int | r struct ps3_mmio_region *

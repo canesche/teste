@@ -1,0 +1,2 @@
+struct TYPE_3__ | data unsigned char * 
+function setpacketevent void | packet struct TYPE_3__ * | num unsigned short

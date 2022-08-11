@@ -1,0 +1,4 @@
+struct TYPE_2__ | child_dev_num int | child_dev struct child_device_config * | int_tv_support int 
+struct drm_i915_private | vbt struct TYPE_2__ 
+struct child_device_config | device_type int | addin_offset long 
+function intel_bios_is_tv_present int | dev_priv struct drm_i915_private *

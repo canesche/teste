@@ -1,0 +1,2 @@
+struct TYPE_3__ | id unsigned char * 
+function git_oid_iszero int | oid_a const struct TYPE_3__ *

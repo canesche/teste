@@ -1,0 +1,2 @@
+struct device | dummy int 
+function device_has_dsm int | dev struct device *

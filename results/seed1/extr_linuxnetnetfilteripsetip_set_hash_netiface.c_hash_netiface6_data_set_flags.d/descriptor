@@ -1,2 +1,0 @@
-struct hash_netiface6_elem | nomatch int 
-function hash_netiface6_data_set_flags void | elem struct hash_netiface6_elem * | flags int

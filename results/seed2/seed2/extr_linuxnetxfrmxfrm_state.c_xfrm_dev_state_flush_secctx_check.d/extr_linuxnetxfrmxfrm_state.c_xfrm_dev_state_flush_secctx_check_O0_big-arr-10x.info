@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxnetxfrmxfrm_state.c_xfrm_dev_state_flush_secctx_check.d/extr_linuxnetxfrmxfrm_state.c_xfrm_dev_state_flush_secctx_check_O0::xfrm_dev_state_flush_secctx_check(63)"
+  }
+]

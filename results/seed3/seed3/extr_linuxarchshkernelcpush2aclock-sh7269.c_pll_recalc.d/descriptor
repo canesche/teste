@@ -1,0 +1,3 @@
+struct clk | parent struct TYPE_2__ * 
+struct TYPE_2__ | rate unsigned long 
+function pll_recalc unsigned long | clk struct clk *

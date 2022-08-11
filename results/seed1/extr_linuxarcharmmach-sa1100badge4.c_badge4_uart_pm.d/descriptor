@@ -1,2 +1,0 @@
-struct uart_port | dummy int 
-function badge4_uart_pm void | port struct uart_port * | state int | oldstate int

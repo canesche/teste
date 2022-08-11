@@ -1,0 +1,1 @@
+function fpm_socket_get_listening_queue int | sock int | cur_lq unsigned int * | max_lq unsigned int *

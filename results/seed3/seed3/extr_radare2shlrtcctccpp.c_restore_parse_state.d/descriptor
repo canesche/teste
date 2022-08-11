@@ -1,0 +1,3 @@
+struct TYPE_5__ | line_num int 
+struct TYPE_4__ | tokc int | tok int | macro_ptr int | line_num int 
+function restore_parse_state void | s struct TYPE_4__ *

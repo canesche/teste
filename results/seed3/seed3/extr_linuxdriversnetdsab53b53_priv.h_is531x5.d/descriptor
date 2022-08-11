@@ -1,0 +1,2 @@
+struct b53_device | chip_id long 
+function is531x5 int | dev struct b53_device *

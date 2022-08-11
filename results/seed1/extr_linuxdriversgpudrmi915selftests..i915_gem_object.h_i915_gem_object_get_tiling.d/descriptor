@@ -1,2 +1,0 @@
-struct drm_i915_gem_object | tiling_and_stride unsigned int 
-function i915_gem_object_get_tiling unsigned int | obj struct drm_i915_gem_object *

@@ -1,2 +1,0 @@
-struct tipc_member | state long 
-function tipc_group_is_receiver int | m struct tipc_member *

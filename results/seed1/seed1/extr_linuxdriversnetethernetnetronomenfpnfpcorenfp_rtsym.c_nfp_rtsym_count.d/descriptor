@@ -1,0 +1,2 @@
+struct nfp_rtsym_table | num int 
+function nfp_rtsym_count int | rtbl struct nfp_rtsym_table *

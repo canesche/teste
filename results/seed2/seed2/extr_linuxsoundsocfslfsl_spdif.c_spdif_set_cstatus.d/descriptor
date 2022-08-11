@@ -1,0 +1,2 @@
+struct spdif_mixer_control | ch_status int * 
+function spdif_set_cstatus void | ctrl struct spdif_mixer_control * | mask int | cstatus int

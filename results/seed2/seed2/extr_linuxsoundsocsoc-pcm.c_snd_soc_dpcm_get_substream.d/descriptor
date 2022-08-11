@@ -1,0 +1,5 @@
+struct snd_soc_pcm_runtime | pcm struct TYPE_4__ * 
+struct snd_pcm_substream | dummy int 
+struct TYPE_4__ | streams struct TYPE_3__ * 
+struct TYPE_3__ | substream struct snd_pcm_substream * 
+function snd_soc_dpcm_get_substream struct snd_pcm_substream * | be struct snd_soc_pcm_runtime * | stream int

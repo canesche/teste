@@ -1,0 +1,2 @@
+struct throttle_resp_configurator_t | vars int * 
+function on_config_enter int | configurator int * | ctx int * | node int *

@@ -1,2 +1,0 @@
-struct device | dummy int 
-function ssm2602_register_volatile int | dev struct device * | reg unsigned int

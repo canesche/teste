@@ -1,0 +1,2 @@
+struct key | flags int | expiry long 
+function key_is_dead int | key const struct key * | limit long

@@ -1,2 +1,0 @@
-struct _ccu_nk | min_k unsigned int | max_k unsigned int | min_n unsigned int | max_n unsigned int | k unsigned int | n unsigned int 
-function ccu_nk_find_best void | parent unsigned long | rate unsigned long | nk struct _ccu_nk *

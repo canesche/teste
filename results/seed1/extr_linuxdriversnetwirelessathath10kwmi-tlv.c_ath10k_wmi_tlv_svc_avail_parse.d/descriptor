@@ -1,3 +1,0 @@
-struct wmi_svc_avail_ev_arg | service_map_ext const void * | service_map_ext_len int 
-struct ath10k | dummy int 
-function ath10k_wmi_tlv_svc_avail_parse int | ar struct ath10k * | tag int | len int | ptr const void * | data void *

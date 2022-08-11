@@ -1,3 +1,0 @@
-struct mlxsw_afk_key_info | blocks struct TYPE_2__ ** 
-struct TYPE_2__ | encoding int 
-function mlxsw_afk_key_info_block_encoding_get int | key_info const struct mlxsw_afk_key_info * | block_index int

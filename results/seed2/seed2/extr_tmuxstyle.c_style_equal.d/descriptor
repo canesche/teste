@@ -1,0 +1,3 @@
+struct grid_cell | fg long | bg long | attr int 
+struct style | align long | gc struct grid_cell 
+function style_equal int | sy1 struct style * | sy2 struct style *

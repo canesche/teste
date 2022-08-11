@@ -1,0 +1,4 @@
+struct wined3d_state | render_states long * | fb struct TYPE_2__ * 
+struct wined3d_gl_info | supported int * 
+struct TYPE_2__ | render_targets int * 
+function wined3d_dualblend_enabled int | state const struct wined3d_state * | gl_info const struct wined3d_gl_info *

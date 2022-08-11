@@ -1,2 +1,0 @@
-struct TYPE_2__ | item_index int 
-function on_scroll void | window int * | xdelta double | ydelta double

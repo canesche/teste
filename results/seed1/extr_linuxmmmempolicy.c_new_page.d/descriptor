@@ -1,2 +1,0 @@
-struct page | dummy int 
-function new_page struct page * | page struct page * | start unsigned long

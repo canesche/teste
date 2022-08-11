@@ -1,2 +1,0 @@
-struct rblist | nr_entries unsigned int 
-function rblist__nr_entries unsigned int | rblist const struct rblist *

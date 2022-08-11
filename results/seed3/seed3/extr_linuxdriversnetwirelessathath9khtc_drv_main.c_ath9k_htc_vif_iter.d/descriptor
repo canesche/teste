@@ -1,0 +1,4 @@
+struct ieee80211_bss_conf | assoc long | enable_beacon long 
+struct ieee80211_vif | type long | bss_conf struct ieee80211_bss_conf 
+struct ath9k_htc_priv | reconfig_beacon int | rearm_ani int 
+function ath9k_htc_vif_iter void | data void * | mac int * | vif struct ieee80211_vif *

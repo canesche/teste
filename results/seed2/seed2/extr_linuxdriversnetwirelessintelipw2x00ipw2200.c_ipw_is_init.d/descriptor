@@ -1,0 +1,2 @@
+struct ipw_priv | status int 
+function ipw_is_init int | priv struct ipw_priv *

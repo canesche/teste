@@ -1,0 +1,1 @@
+function asiliant_calc_dclk2 void | ppixclock unsigned int * | dclk2_m unsigned char * | dclk2_n unsigned char * | dclk2_div unsigned char *

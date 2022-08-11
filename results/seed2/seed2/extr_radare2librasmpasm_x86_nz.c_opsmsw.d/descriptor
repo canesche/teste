@@ -1,0 +1,4 @@
+struct TYPE_8__ | operands_count int | operands struct TYPE_6__ * 
+struct TYPE_7__ | bits int 
+struct TYPE_6__ | type int | regs int * | reg int 
+function opsmsw int | a struct TYPE_7__ * | data int * | op const struct TYPE_8__ *

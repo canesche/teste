@@ -1,0 +1,3 @@
+struct sched_rt_entity | dummy int 
+struct rt_rq | dummy int 
+function group_rt_rq struct rt_rq * | rt_se struct sched_rt_entity *

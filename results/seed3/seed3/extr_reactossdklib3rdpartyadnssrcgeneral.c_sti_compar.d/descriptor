@@ -1,0 +1,2 @@
+struct stinfo | stmax long 
+function sti_compar int | key const void * | elem const void *

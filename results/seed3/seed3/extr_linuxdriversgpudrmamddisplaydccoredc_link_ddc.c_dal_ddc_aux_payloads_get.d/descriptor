@@ -1,0 +1,4 @@
+struct TYPE_2__ | container long 
+struct aux_payloads | payloads struct TYPE_2__ 
+struct aux_payload | dummy int 
+function dal_ddc_aux_payloads_get struct aux_payload * | p struct aux_payloads *

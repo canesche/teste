@@ -1,2 +1,0 @@
-struct forth_request | prog_id long long | hnext struct forth_request * 
-function hash_get_req_f struct forth_request * | prog_id long long

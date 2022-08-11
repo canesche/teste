@@ -1,0 +1,4 @@
+struct TYPE_3__ | hash const unsigned char * 
+struct TYPE_4__ | oid struct TYPE_3__ 
+struct commit | object struct TYPE_4__ 
+function commit_to_sha1 const unsigned char * | index unsigned long | table void *

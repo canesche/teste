@@ -1,0 +1,1 @@
+function fons__blurCols void | dst unsigned char * | w int | h int | dstStride int | alpha int

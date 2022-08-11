@@ -1,2 +1,0 @@
-struct TYPE_3__ | parent int * | leaf int * 
-function hierarchy_predictions void | predictions float * | n int | hier struct TYPE_3__ * | only_leaves int | stride int

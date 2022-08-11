@@ -1,0 +1,5 @@
+struct net_device_stats | rx_over_errors long | rx_length_errors long | rx_crc_errors long | multicast int | rx_errors long | rx_dropped int | tx_dropped long 
+struct TYPE_4__ | mac_rx_oversize_pkt_num long | mac_rx_undersize_pkt_num long | mac_rx_fcs_err_pkt_num long | mac_rx_multi_pkt_num long | mac_tx_multi_pkt_num int 
+struct TYPE_3__ | igu_rx_no_sof_pkt long | igu_rx_no_eof_pkt long | ssu_key_drop_num long | ppp_key_drop_num long | ssu_full_drop_num int 
+struct hclge_hw_stats | mac_stats struct TYPE_4__ | all_32_bit_stats struct TYPE_3__ 
+function hclge_update_netstat void | hw_stats struct hclge_hw_stats * | net_stats struct net_device_stats *

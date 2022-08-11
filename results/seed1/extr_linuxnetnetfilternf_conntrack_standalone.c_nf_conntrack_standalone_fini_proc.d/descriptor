@@ -1,2 +1,0 @@
-struct net | dummy int 
-function nf_conntrack_standalone_fini_proc void | net struct net *

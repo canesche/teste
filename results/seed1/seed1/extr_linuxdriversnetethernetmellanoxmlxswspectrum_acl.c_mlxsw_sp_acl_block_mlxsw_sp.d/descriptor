@@ -1,0 +1,3 @@
+struct mlxsw_sp_acl_block | mlxsw_sp struct mlxsw_sp * 
+struct mlxsw_sp | dummy int 
+function mlxsw_sp_acl_block_mlxsw_sp struct mlxsw_sp * | block struct mlxsw_sp_acl_block *

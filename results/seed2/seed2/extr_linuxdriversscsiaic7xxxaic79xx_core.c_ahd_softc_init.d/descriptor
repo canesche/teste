@@ -1,0 +1,2 @@
+struct ahd_softc | pause int | unpause long 
+function ahd_softc_init int | ahd struct ahd_softc *

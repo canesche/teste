@@ -1,3 +1,0 @@
-struct scsi_cmnd | flags int | request struct TYPE_2__ * 
-struct TYPE_2__ | tag int 
-function spi_populate_tag_msg int | msg unsigned char * | cmd struct scsi_cmnd *

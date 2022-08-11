@@ -1,0 +1,2 @@
+struct posix_ace_state | deny int | allow int 
+function deny_bits void | astate struct posix_ace_state * | mask int

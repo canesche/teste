@@ -1,0 +1,4 @@
+struct TYPE_2__ | aenq_handlers struct ena_aenq_handlers * 
+struct ena_com_dev | aenq struct TYPE_2__ 
+struct ena_aenq_handlers | unimplemented_handler long | handlers long * 
+function ena_com_get_specific_aenq_cb long | dev struct ena_com_dev * | group unsigned long

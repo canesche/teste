@@ -1,0 +1,3 @@
+struct TYPE_4__ | in_progress int | rectangle_select int | extend_mode int | end_scrolled_by int | start_scrolled_by int | end_y void * | start_y void * | end_x void * | start_x void * 
+struct TYPE_5__ | selection struct TYPE_4__ | scrolled_by int 
+function screen_start_selection void | self struct TYPE_5__ * | x void * | y void * | rectangle_select int | extend_mode int

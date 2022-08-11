@@ -1,0 +1,2 @@
+struct dccp_hdr | dccph_type int 
+function match_types int | dh const struct dccp_hdr * | typemask int

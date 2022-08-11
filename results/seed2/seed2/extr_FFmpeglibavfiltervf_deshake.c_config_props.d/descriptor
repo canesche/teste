@@ -1,0 +1,6 @@
+struct TYPE_11__ | dst struct TYPE_7__ * 
+struct TYPE_8__ | y long | x long 
+struct TYPE_9__ | zoom long | angle long | vec struct TYPE_8__ 
+struct TYPE_10__ | last struct TYPE_9__ | ref int * 
+struct TYPE_7__ | priv struct TYPE_10__ * 
+function config_props int | link struct TYPE_11__ *

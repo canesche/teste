@@ -1,2 +1,0 @@
-struct ibmvfc_host | state int 
-function ibmvfc_host_chkready int | vhost struct ibmvfc_host *

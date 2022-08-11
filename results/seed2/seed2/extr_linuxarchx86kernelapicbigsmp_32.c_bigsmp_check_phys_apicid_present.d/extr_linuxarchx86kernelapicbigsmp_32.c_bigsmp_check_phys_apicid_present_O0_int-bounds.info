@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxarchx86kernelapicbigsmp_32.c_bigsmp_check_phys_apicid_present.d/extr_linuxarchx86kernelapicbigsmp_32.c_bigsmp_check_phys_apicid_present_O0::bigsmp_check_phys_apicid_present(60)"
+  }
+]

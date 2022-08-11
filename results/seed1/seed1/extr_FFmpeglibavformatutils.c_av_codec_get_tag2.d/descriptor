@@ -1,0 +1,2 @@
+struct TYPE_3__ | id long | tag unsigned int 
+function av_codec_get_tag2 int | tags const struct TYPE_3__ *const * | id enum AVCodecID | tag unsigned int *

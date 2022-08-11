@@ -1,0 +1,3 @@
+struct ct_vm | ptp struct TYPE_2__ * 
+struct TYPE_2__ | addr unsigned long 
+function ct_get_ptp_phys unsigned long | vm struct ct_vm * | index int

@@ -1,0 +1,2 @@
+struct b_cr_slice_channel_hash | sym_slice0_channel_enabled int | sym_slice1_channel_enabled int | enable_pmi_dual_data_mode long | ch_1_disabled long | slice_1_disabled int | slice_0_mem_disabled int 
+function gen_sym_mask int | p struct b_cr_slice_channel_hash *

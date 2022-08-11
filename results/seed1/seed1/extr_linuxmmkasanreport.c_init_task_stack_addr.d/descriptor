@@ -1,0 +1,2 @@
+struct TYPE_2__ | stack int 
+function init_task_stack_addr int | addr const void *

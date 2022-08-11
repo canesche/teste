@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 19,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxnetmac80211iface.c_identical_mac_addr_allowed.d/extr_linuxnetmac80211iface.c_identical_mac_addr_allowed_O0::identical_mac_addr_allowed(65)"
+  }
+]

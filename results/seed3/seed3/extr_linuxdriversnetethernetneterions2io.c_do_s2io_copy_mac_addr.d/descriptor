@@ -1,0 +1,3 @@
+struct s2io_nic | def_mac_addr struct TYPE_2__ * 
+struct TYPE_2__ | mac_addr void ** 
+function do_s2io_copy_mac_addr void | sp struct s2io_nic * | offset int | mac_addr int

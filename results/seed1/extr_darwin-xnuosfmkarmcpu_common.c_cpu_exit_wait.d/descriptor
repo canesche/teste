@@ -1,3 +1,0 @@
-struct TYPE_3__ | cpu_sleep_token int 
-struct TYPE_4__ | cpu_data_vaddr struct TYPE_3__ * 
-function cpu_exit_wait void | cpu int

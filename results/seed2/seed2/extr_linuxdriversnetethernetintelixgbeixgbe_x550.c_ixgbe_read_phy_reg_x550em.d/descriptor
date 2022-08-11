@@ -1,0 +1,2 @@
+struct ixgbe_hw | dummy int 
+function ixgbe_read_phy_reg_x550em int | hw struct ixgbe_hw * | reg_addr int | device_type int | phy_data int *

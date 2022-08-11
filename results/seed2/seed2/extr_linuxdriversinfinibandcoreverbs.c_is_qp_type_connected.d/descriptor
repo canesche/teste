@@ -1,0 +1,2 @@
+struct ib_qp | qp_type long 
+function is_qp_type_connected int | qp const struct ib_qp *

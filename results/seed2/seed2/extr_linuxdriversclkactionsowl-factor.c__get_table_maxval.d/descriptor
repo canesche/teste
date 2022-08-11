@@ -1,0 +1,2 @@
+struct clk_factor_table | val unsigned int | div long 
+function _get_table_maxval unsigned int | table const struct clk_factor_table *

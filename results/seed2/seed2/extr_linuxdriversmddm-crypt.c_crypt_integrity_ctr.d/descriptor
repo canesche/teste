@@ -1,0 +1,3 @@
+struct dm_target | error char * 
+struct crypt_config | dummy int 
+function crypt_integrity_ctr int | cc struct crypt_config * | ti struct dm_target *

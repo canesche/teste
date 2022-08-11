@@ -1,0 +1,3 @@
+struct intel_gvt_irq | events struct TYPE_2__ * 
+struct TYPE_2__ | v_handler int | info int * 
+function init_events void | irq struct intel_gvt_irq *

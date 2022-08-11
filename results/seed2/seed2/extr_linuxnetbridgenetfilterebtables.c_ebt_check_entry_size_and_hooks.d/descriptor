@@ -1,0 +1,5 @@
+struct ebt_table_info | hook_entry long * 
+struct ebt_entry_target | dummy int 
+struct ebt_entry | watchers_offset int | target_offset int | next_offset int | bitmask int 
+struct ebt_entries | policy long | counter_offset unsigned int | nentries unsigned int 
+function ebt_check_entry_size_and_hooks int | e const struct ebt_entry * | newinfo const struct ebt_table_info * | n unsigned int * | cnt unsigned int * | totalcnt unsigned int * | udc_cnt unsigned int *

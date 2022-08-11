@@ -1,0 +1,2 @@
+struct nand_subop | first_instr_start_off unsigned int 
+function nand_subop_get_start_off unsigned int | subop const struct nand_subop * | instr_idx unsigned int

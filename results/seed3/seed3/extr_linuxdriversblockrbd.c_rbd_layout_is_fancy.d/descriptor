@@ -1,0 +1,2 @@
+struct ceph_file_layout | stripe_unit long | object_size long 
+function rbd_layout_is_fancy int | l struct ceph_file_layout *

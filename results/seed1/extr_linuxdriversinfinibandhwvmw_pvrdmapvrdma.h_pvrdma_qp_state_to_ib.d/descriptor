@@ -1,1 +1,0 @@
-function pvrdma_qp_state_to_ib enum ib_qp_state | state enum pvrdma_qp_state

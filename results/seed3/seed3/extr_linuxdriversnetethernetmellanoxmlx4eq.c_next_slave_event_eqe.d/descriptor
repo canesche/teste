@@ -1,0 +1,3 @@
+struct mlx4_slave_event_eq | cons int | event_eqe struct mlx4_eqe * 
+struct mlx4_eqe | owner int 
+function next_slave_event_eqe struct mlx4_eqe * | slave_eq struct mlx4_slave_event_eq *

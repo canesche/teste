@@ -1,0 +1,2 @@
+struct timeval | tv_usec double | tv_sec long 
+function timeDiff double | pStart struct timeval * | pEnd struct timeval *

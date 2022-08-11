@@ -1,0 +1,3 @@
+struct rb_root | rb_node struct rb_node * 
+struct rb_node | rb_left struct rb_node * 
+function ext2fs_rb_first struct rb_node * | root const struct rb_root *

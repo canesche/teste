@@ -1,0 +1,4 @@
+struct bdb_lvds_lfp_data_ptrs | ptr struct TYPE_2__ * 
+struct bdb_lvds_lfp_data | data long 
+struct TYPE_2__ | dvo_timing_offset int | fp_timing_offset int 
+function get_lvds_dvo_timing const struct lvds_dvo_timing * | lvds_lfp_data const struct bdb_lvds_lfp_data * | lvds_lfp_data_ptrs const struct bdb_lvds_lfp_data_ptrs * | index int

@@ -1,8 +1,0 @@
-struct TYPE_9__ | id long long 
-struct TYPE_7__ | targ struct TYPE_6__ * 
-struct TYPE_8__ | targ struct TYPE_7__ 
-struct relative | type int | next struct relative * | node struct TYPE_9__ | conn struct TYPE_8__ 
-struct connection | dummy int 
-struct TYPE_10__ | next struct relative * 
-struct TYPE_6__ | first_conn struct connection * 
-function get_id_by_connection long long | c struct connection *

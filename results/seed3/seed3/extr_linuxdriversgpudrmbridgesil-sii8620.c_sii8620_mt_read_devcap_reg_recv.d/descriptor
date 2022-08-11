@@ -1,0 +1,3 @@
+struct sii8620_mt_msg | reg int * | ret int 
+struct sii8620 | devcap int * | xdevcap int * 
+function sii8620_mt_read_devcap_reg_recv void | ctx struct sii8620 * | msg struct sii8620_mt_msg *

@@ -1,0 +1,4 @@
+struct TYPE_3__ | changes int 
+struct TYPE_4__ | ctrl struct TYPE_3__ 
+struct v4l2_event | u struct TYPE_4__ 
+function v4l2_ctrl_merge void | old const struct v4l2_event * | new struct v4l2_event *

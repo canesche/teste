@@ -1,0 +1,2 @@
+struct obj_order | order long | orig_order int 
+function compare_objs_order int | a_ const void * | b_ const void *

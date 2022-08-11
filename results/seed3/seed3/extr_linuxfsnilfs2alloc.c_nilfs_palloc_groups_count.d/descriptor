@@ -1,0 +1,2 @@
+struct inode | i_blkbits unsigned long 
+function nilfs_palloc_groups_count unsigned long | inode const struct inode *

@@ -1,0 +1,6 @@
+struct nvme_fc_queue | qnum unsigned long | ctrl struct TYPE_6__ * 
+struct blk_mq_tags | dummy int 
+struct TYPE_5__ | tags struct blk_mq_tags ** 
+struct TYPE_4__ | tags struct blk_mq_tags ** 
+struct TYPE_6__ | tag_set struct TYPE_5__ | admin_tag_set struct TYPE_4__ 
+function nvme_fc_tagset struct blk_mq_tags * | queue struct nvme_fc_queue *

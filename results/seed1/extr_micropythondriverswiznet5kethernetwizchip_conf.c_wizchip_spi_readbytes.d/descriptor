@@ -1,1 +1,0 @@
-function wizchip_spi_readbytes void | buf int * | len int

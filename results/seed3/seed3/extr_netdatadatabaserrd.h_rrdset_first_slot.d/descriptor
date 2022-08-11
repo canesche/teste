@@ -1,0 +1,2 @@
+struct TYPE_3__ | counter unsigned long | current_entry long | entries long 
+function rrdset_first_slot unsigned long | st struct TYPE_3__ *

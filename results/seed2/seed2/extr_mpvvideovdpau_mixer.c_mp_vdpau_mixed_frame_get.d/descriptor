@@ -1,0 +1,2 @@
+struct mp_image | imgfmt long | planes long * 
+function mp_vdpau_mixed_frame_get struct mp_vdpau_mixer_frame * | mpi struct mp_image *

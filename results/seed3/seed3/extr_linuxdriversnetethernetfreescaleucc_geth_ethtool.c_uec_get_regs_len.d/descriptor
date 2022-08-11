@@ -1,0 +1,3 @@
+struct ucc_geth | dummy int 
+struct net_device | dummy int 
+function uec_get_regs_len int | netdev struct net_device *

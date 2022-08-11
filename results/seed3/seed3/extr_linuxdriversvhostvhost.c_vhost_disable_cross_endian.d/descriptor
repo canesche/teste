@@ -1,0 +1,2 @@
+struct vhost_virtqueue | dummy int 
+function vhost_disable_cross_endian void | vq struct vhost_virtqueue *

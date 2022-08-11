@@ -1,2 +1,0 @@
-struct sock | sk_type long 
-function tipc_sk_type_connectionless int | sk struct sock *

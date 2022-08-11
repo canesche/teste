@@ -1,0 +1,2 @@
+struct sk_buff | dummy int 
+function rt2x00crypto_tx_insert_iv void | skb struct sk_buff * | header_length unsigned int

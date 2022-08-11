@@ -1,2 +1,0 @@
-struct TYPE_3__ | dma_offset long | hw_addr_ptr long * | dma_low long | dma_wrap long | agpAddr long 
-function via_cmdbuf_lag long | dev_priv struct TYPE_3__ *

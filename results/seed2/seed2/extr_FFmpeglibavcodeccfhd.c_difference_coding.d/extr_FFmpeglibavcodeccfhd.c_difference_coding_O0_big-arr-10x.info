@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 1621,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_FFmpeglibavcodeccfhd.c_difference_coding.d/extr_FFmpeglibavcodeccfhd.c_difference_coding_O0::difference_coding(61)"
+  }
+]

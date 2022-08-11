@@ -1,3 +1,0 @@
-struct TYPE_2__ | hflags int 
-struct kvm_vcpu | arch struct TYPE_2__ 
-function enter_guest_mode void | vcpu struct kvm_vcpu *

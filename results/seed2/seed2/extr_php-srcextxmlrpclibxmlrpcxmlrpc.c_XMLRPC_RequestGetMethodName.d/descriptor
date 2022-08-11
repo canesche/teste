@@ -1,0 +1,3 @@
+struct TYPE_4__ | str const char * 
+struct TYPE_5__ | methodName struct TYPE_4__ 
+function XMLRPC_RequestGetMethodName const char * | request struct TYPE_5__ *

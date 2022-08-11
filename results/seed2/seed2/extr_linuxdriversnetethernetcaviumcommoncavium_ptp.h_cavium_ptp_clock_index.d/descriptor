@@ -1,0 +1,2 @@
+struct cavium_ptp | dummy int 
+function cavium_ptp_clock_index int | clock struct cavium_ptp *

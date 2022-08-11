@@ -1,0 +1,3 @@
+struct floppy_struct | name const char * 
+struct TYPE_2__ | native_format int 
+function drive_name const char * | type int | drive int

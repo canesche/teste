@@ -1,2 +1,0 @@
-struct acpiphp_attention_info | get_attn long | set_attn long | owner long 
-function acpiphp_register_attention int | info struct acpiphp_attention_info *

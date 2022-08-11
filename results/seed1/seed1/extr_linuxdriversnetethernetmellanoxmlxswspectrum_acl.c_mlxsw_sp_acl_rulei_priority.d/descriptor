@@ -1,0 +1,2 @@
+struct mlxsw_sp_acl_rule_info | priority unsigned int 
+function mlxsw_sp_acl_rulei_priority void | rulei struct mlxsw_sp_acl_rule_info * | priority unsigned int

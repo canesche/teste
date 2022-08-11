@@ -1,0 +1,4 @@
+struct platform_device | dummy int 
+struct map_info | dummy int 
+struct device_node | dummy int 
+function of_flash_probe_gemini int | pdev struct platform_device * | np struct device_node * | map struct map_info *

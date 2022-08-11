@@ -1,1 +1,0 @@
-function cik_ih_set_clockgating_state int | handle void * | state enum amd_clockgating_state

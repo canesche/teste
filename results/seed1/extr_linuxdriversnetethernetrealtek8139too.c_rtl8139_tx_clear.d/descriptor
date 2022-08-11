@@ -1,2 +1,0 @@
-struct rtl8139_private | dirty_tx long | cur_tx long 
-function rtl8139_tx_clear void | tp struct rtl8139_private *

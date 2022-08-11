@@ -1,0 +1,4 @@
+struct TYPE_4__ | sb_preconn_hiwat unsigned int 
+struct TYPE_3__ | sb_preconn_hiwat unsigned int 
+struct socket | so_rcv struct TYPE_4__ | so_snd struct TYPE_3__ 
+function soreserve_preconnect void | so struct socket * | pre_cc unsigned int

@@ -1,2 +1,0 @@
-struct capi_ctr | dummy int 
-function get_capi_ctr_by_nr struct capi_ctr * | contr int

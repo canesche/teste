@@ -1,0 +1,2 @@
+struct cmd_info | flag int | len int 
+function get_cmd_length int | info struct cmd_info * | cmd unsigned int

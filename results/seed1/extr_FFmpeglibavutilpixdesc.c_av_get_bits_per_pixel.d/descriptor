@@ -1,3 +1,0 @@
-struct TYPE_5__ | log2_chroma_w int | log2_chroma_h int | nb_components int | comp struct TYPE_4__ * 
-struct TYPE_4__ | depth int 
-function av_get_bits_per_pixel int | pixdesc const struct TYPE_5__ *

@@ -1,5 +1,0 @@
-struct iwl_priv | dummy int 
-struct TYPE_4__ | rates struct TYPE_3__ * 
-struct ieee80211_tx_info | flags int | control struct TYPE_4__ 
-struct TYPE_3__ | flags int 
-function iwlagn_tx_cmd_protection void | priv struct iwl_priv * | info struct ieee80211_tx_info * | fc int | tx_flags int *

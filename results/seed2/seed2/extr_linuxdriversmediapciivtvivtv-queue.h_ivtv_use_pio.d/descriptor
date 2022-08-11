@@ -1,0 +1,5 @@
+struct ivtv_stream | dma long | type long | itv struct ivtv * 
+struct TYPE_4__ | sliced_in struct TYPE_3__ * 
+struct ivtv | vbi struct TYPE_4__ 
+struct TYPE_3__ | service_set long 
+function ivtv_use_pio int | s struct ivtv_stream *

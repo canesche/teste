@@ -1,0 +1,3 @@
+struct skd_scsi_request | cdb long * 
+struct skd_request_context | flush_cmd int 
+function skd_prep_zerosize_flush_cdb void | scsi_req struct skd_scsi_request * | skreq struct skd_request_context *

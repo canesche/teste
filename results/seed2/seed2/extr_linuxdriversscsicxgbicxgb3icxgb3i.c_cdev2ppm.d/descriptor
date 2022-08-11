@@ -1,0 +1,4 @@
+struct t3cdev | ulp_iscsi struct cxgbi_ppm * 
+struct cxgbi_ppm | dummy int 
+struct cxgbi_device | lldev long 
+function cdev2ppm struct cxgbi_ppm * | cdev struct cxgbi_device *

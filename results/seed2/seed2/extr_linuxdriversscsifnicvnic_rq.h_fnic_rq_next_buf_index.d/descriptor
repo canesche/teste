@@ -1,0 +1,2 @@
+struct vnic_rq | buf_index int 
+function vnic_rq_next_buf_index unsigned int | rq struct vnic_rq *

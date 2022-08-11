@@ -1,0 +1,3 @@
+struct irq_data | irq unsigned int 
+struct TYPE_2__ | imask int 
+function crime_enable_irq void | d struct irq_data *

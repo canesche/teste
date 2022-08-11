@@ -1,0 +1,2 @@
+struct TYPE_3__ | pshared int 
+function pthread_rwlockattr_setpshared int | attr struct TYPE_3__ ** | pshared int

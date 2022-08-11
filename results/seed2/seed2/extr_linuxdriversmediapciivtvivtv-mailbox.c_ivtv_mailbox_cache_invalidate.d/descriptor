@@ -1,0 +1,3 @@
+struct ivtv | api_cache struct TYPE_2__ * 
+struct TYPE_2__ | last_jiffies long 
+function ivtv_mailbox_cache_invalidate void | itv struct ivtv *

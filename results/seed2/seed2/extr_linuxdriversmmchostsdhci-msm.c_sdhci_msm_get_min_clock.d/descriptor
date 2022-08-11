@@ -1,0 +1,2 @@
+struct sdhci_host | dummy int 
+function sdhci_msm_get_min_clock unsigned int | host struct sdhci_host *

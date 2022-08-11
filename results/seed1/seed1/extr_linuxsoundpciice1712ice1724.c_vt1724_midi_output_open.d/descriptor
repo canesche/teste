@@ -1,0 +1,2 @@
+struct snd_rawmidi_substream | dummy int 
+function vt1724_midi_output_open int | s struct snd_rawmidi_substream *

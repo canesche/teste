@@ -1,0 +1,5 @@
+struct TYPE_4__ | sas long 
+struct s_smc | y struct TYPE_6__ * | s struct TYPE_4__ 
+struct TYPE_6__ | mib struct TYPE_5__ * | twisted long 
+struct TYPE_5__ | fddiPORTPCMState long 
+function pcm_status_twisted int | smc struct s_smc *

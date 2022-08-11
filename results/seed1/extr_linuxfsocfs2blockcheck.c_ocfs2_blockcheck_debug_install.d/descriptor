@@ -1,3 +1,0 @@
-struct ocfs2_blockcheck_stats | dummy int 
-struct dentry | dummy int 
-function ocfs2_blockcheck_debug_install int | stats struct ocfs2_blockcheck_stats * | parent struct dentry *

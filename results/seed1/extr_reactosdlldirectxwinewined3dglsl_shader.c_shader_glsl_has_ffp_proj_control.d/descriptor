@@ -1,2 +1,0 @@
-struct shader_glsl_priv | ffp_proj_control int 
-function shader_glsl_has_ffp_proj_control int | shader_priv void *

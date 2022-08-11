@@ -1,2 +1,0 @@
-struct syscall_metadata | dummy int 
-function syscall_nr_to_meta struct syscall_metadata * | nr int

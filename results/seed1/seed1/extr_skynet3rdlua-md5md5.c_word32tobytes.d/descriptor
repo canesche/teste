@@ -1,0 +1,1 @@
+function word32tobytes void | input const int * | output char *

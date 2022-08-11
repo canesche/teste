@@ -1,3 +1,0 @@
-struct mdfld_dsi_connector | pkg_sender void * 
-struct mdfld_dsi_config | connector struct mdfld_dsi_connector * 
-function mdfld_dsi_get_pkg_sender void * | config struct mdfld_dsi_config *

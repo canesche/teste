@@ -1,0 +1,4 @@
+struct switch_stack | a5 int 
+struct sigcontext | sc_a5 int 
+struct pt_regs | dummy int 
+function save_a5_state void | sc struct sigcontext * | regs struct pt_regs *

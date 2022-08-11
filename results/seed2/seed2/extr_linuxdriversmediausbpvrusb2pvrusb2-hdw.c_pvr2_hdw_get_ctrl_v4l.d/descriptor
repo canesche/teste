@@ -1,0 +1,4 @@
+struct pvr2_hdw | control_cnt unsigned int | controls struct pvr2_ctrl * 
+struct pvr2_ctrl | info struct TYPE_2__ * 
+struct TYPE_2__ | v4l_id int 
+function pvr2_hdw_get_ctrl_v4l struct pvr2_ctrl * | hdw struct pvr2_hdw * | ctl_id unsigned int

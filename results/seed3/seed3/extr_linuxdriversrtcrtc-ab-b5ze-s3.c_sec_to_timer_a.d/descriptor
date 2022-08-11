@@ -1,0 +1,1 @@
+function sec_to_timer_a void | secs int | taq int * | timer_a int *

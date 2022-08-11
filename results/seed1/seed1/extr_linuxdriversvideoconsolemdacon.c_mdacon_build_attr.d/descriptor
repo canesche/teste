@@ -1,0 +1,2 @@
+struct vc_data | dummy int 
+function mdacon_build_attr int | c struct vc_data * | color int | intensity int | blink int | underline int | reverse int | italic int

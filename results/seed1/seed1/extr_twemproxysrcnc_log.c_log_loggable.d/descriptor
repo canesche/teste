@@ -1,0 +1,2 @@
+struct logger | level int 
+function log_loggable int | level int

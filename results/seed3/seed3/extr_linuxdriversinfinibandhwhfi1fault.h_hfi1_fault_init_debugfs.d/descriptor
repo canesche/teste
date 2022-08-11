@@ -1,0 +1,2 @@
+struct hfi1_ibdev | dummy int 
+function hfi1_fault_init_debugfs int | ibd struct hfi1_ibdev *

@@ -1,0 +1,2 @@
+struct range | start long 
+function range_cmp int | _r const void * | _s const void *

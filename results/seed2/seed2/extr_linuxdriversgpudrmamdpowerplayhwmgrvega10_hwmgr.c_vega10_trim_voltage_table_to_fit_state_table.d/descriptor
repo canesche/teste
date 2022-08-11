@@ -1,0 +1,3 @@
+struct pp_hwmgr | dummy int 
+struct pp_atomfwctrl_voltage_table | count unsigned int | entries int * 
+function vega10_trim_voltage_table_to_fit_state_table void | hwmgr struct pp_hwmgr * | max_vol_steps unsigned int | vol_table struct pp_atomfwctrl_voltage_table *

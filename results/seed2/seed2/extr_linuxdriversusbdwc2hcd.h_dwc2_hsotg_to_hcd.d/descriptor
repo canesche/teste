@@ -1,0 +1,3 @@
+struct usb_hcd | dummy int 
+struct dwc2_hsotg | priv long 
+function dwc2_hsotg_to_hcd struct usb_hcd * | hsotg struct dwc2_hsotg *

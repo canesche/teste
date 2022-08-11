@@ -1,0 +1,3 @@
+struct thermal_zone_device | devdata struct imx_thermal_data * 
+struct imx_thermal_data | temp_critical int 
+function imx_get_crit_temp int | tz struct thermal_zone_device * | temp int *

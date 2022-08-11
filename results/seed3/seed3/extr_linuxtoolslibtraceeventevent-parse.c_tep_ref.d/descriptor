@@ -1,0 +1,2 @@
+struct tep_handle | ref_count int 
+function tep_ref void | pevent struct tep_handle *

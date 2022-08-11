@@ -1,0 +1,1 @@
+function gun_classifier void | datacfg char * | cfgfile char * | weightfile char * | cam_index int | filename const char *

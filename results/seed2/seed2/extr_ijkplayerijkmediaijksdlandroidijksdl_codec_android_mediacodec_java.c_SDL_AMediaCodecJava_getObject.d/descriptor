@@ -1,0 +1,3 @@
+struct TYPE_5__ | opaque long 
+struct TYPE_4__ | android_media_codec int * 
+function SDL_AMediaCodecJava_getObject int * | env int * | thiz const struct TYPE_5__ *

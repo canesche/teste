@@ -1,3 +1,0 @@
-struct spi_lm70llp | dummy int 
-struct spi_device | controller_data struct spi_lm70llp * 
-function spidev_to_pp struct spi_lm70llp * | spi struct spi_device *

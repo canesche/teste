@@ -1,0 +1,7 @@
+struct ti_sci_clk_ops | get_freq int | set_freq int | get_best_match_freq int | get_num_parents int | get_parent int | set_parent int | is_off int | is_on int | is_auto int | put_clock int | idle_clock int | get_clock int 
+struct ti_sci_dev_ops | get_device_resets int | set_device_resets int | is_transitioning int | is_on int | is_stop int | is_idle int | get_context_loss_count int | is_valid int | put_device int | idle_device int | get_device int 
+struct ti_sci_core_ops | reboot_device int 
+struct ti_sci_ops | clk_ops struct ti_sci_clk_ops | dev_ops struct ti_sci_dev_ops | core_ops struct ti_sci_core_ops 
+struct TYPE_2__ | ops struct ti_sci_ops 
+struct ti_sci_info | handle struct TYPE_2__ 
+function ti_sci_setup_ops void | info struct ti_sci_info *

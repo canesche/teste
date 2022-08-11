@@ -1,0 +1,2 @@
+struct dcb_output | extdev int | location int | type int 
+function dcb_outp_hasht int | outp struct dcb_output *

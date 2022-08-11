@@ -1,2 +1,0 @@
-struct device | dummy int 
-function is31fl319x_microamp_to_cs int | dev struct device * | microamp int

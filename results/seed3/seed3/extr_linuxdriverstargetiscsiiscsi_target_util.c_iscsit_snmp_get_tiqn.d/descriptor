@@ -1,0 +1,4 @@
+struct iscsi_tiqn | dummy int 
+struct iscsi_portal_group | tpg_tiqn struct iscsi_tiqn * 
+struct iscsi_conn | tpg struct iscsi_portal_group * 
+function iscsit_snmp_get_tiqn struct iscsi_tiqn * | conn struct iscsi_conn *

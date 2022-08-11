@@ -1,0 +1,2 @@
+struct genwqe_dev | health_thread int * 
+function genwqe_health_thread_running int | cd struct genwqe_dev *

@@ -1,0 +1,2 @@
+struct bictcp | last_cwnd unsigned int | last_time void * | epoch_start long | cnt unsigned int | last_max_cwnd unsigned int | delayed_ack int 
+function bictcp_update void | ca struct bictcp * | cwnd unsigned int

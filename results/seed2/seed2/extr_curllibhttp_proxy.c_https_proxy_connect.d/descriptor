@@ -1,0 +1,2 @@
+struct connectdata | dummy int 
+function https_proxy_connect int | conn struct connectdata * | sockindex int

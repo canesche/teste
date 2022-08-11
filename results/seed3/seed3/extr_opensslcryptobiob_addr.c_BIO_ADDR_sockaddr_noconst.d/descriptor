@@ -1,0 +1,3 @@
+struct sockaddr | dummy int 
+struct TYPE_3__ | sa struct sockaddr 
+function BIO_ADDR_sockaddr_noconst struct sockaddr * | ap struct TYPE_3__ *

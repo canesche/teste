@@ -1,0 +1,5 @@
+struct usb_device | actconfig struct TYPE_4__ * 
+struct r8152 | udev struct usb_device * 
+struct TYPE_3__ | bmAttributes int 
+struct TYPE_4__ | desc struct TYPE_3__ 
+function rtl_can_wakeup int | tp struct r8152 *

@@ -1,2 +1,0 @@
-struct btrfs_root | objectid int 
-function btrfs_inode_hash unsigned long | objectid int | root const struct btrfs_root *

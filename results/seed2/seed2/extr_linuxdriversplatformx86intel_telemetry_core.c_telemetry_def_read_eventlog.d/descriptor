@@ -1,0 +1,2 @@
+struct telemetry_evtlog | dummy int 
+function telemetry_def_read_eventlog int | telem_unit enum telemetry_unit | evtlog struct telemetry_evtlog * | len int | log_all_evts int

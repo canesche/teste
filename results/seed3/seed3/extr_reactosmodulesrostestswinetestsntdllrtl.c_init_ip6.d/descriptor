@@ -1,0 +1,2 @@
+struct TYPE_3__ | s6_words int * 
+function init_ip6 void | addr struct TYPE_3__ * | src int const[8]

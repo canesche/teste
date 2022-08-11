@@ -1,0 +1,3 @@
+struct pci_device_id | vendor long | device long | subvendor long | subdevice long | class int | class_mask int 
+struct pci_dev | vendor long | device long | subsystem_vendor long | subsystem_device long | class int 
+function match_one_device const struct pci_device_id * | id const struct pci_device_id * | dev const struct pci_dev *

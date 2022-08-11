@@ -1,0 +1,3 @@
+struct adf_hw_device_data | dev_class struct TYPE_2__ * 
+struct TYPE_2__ | instances int 
+function adf_clean_hw_data_c3xxx void | hw_data struct adf_hw_device_data *

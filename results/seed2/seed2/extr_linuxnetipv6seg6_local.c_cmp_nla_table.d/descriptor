@@ -1,0 +1,2 @@
+struct seg6_local_lwt | table long 
+function cmp_nla_table int | a struct seg6_local_lwt * | b struct seg6_local_lwt *

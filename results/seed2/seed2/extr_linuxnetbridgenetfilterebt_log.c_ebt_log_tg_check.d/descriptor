@@ -1,0 +1,3 @@
+struct xt_tgchk_param | targinfo struct ebt_log_info * 
+struct ebt_log_info | bitmask int | loglevel int | prefix char * 
+function ebt_log_tg_check int | par const struct xt_tgchk_param *

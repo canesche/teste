@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversttyserialsb1250-duart.c_sbd_verify_port.d/extr_linuxdriversttyserialsb1250-duart.c_sbd_verify_port_O0::sbd_verify_port(65)"
+  }
+]

@@ -1,0 +1,5 @@
+struct TYPE_3__ | num_chan int 
+struct TYPE_4__ | pcm_params struct TYPE_3__ 
+struct sst_byt_stream | request struct TYPE_4__ 
+struct sst_byt | dummy int 
+function sst_byt_stream_set_channels int | byt struct sst_byt * | stream struct sst_byt_stream * | channels int

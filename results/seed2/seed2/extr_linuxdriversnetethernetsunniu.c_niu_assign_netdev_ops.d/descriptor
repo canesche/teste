@@ -1,0 +1,2 @@
+struct net_device | watchdog_timeo int | ethtool_ops int * | netdev_ops int * 
+function niu_assign_netdev_ops void | dev struct net_device *

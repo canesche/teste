@@ -1,0 +1,3 @@
+struct TYPE_5__ | rx_buf_count int | rx_buf_size int | rx_buf long | rx_frame_count long | rx_get long | rx_put long 
+struct TYPE_4__ | count long | status long 
+function rx_reset_buffers void | info struct TYPE_5__ *

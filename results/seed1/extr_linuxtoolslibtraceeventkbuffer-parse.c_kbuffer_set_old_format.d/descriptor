@@ -1,2 +1,0 @@
-struct kbuffer | next_event int | flags int 
-function kbuffer_set_old_format void | kbuf struct kbuffer *

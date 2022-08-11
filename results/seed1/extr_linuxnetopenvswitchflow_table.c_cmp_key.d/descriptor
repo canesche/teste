@@ -1,2 +1,0 @@
-struct sw_flow_key | dummy int 
-function cmp_key int | key1 const struct sw_flow_key * | key2 const struct sw_flow_key * | key_start int | key_end int

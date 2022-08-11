@@ -1,0 +1,2 @@
+struct TYPE_3__ | __pgrp int 
+function posix_spawnattr_setpgroup int | attr struct TYPE_3__ * | pgrp int

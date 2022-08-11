@@ -1,0 +1,2 @@
+struct TYPE_3__ | arrangement_cancel_flag int | arrangement_type int | content_interpretation_type int 
+function ff_h264_sei_stereo_mode const char * | h const struct TYPE_3__ *

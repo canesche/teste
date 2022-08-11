@@ -1,2 +1,0 @@
-struct task_struct | dummy int 
-function tm_active_with_fp int | tsk struct task_struct *

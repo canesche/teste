@@ -1,2 +1,0 @@
-struct hash_entry | key int 
-function urlcache_hash_entry_set_flags void | pHashEntry struct hash_entry * | dwFlag int

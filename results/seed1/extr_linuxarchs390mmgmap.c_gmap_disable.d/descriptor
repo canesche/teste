@@ -1,3 +1,0 @@
-struct gmap | dummy int 
-struct TYPE_2__ | gmap unsigned long 
-function gmap_disable void | gmap struct gmap *

@@ -1,3 +1,0 @@
-struct mvneta_bm_pool | dummy int 
-struct mvneta_bm | dummy int 
-function mvneta_bm_pool_use struct mvneta_bm_pool * | priv struct mvneta_bm * | pool_id int | type enum mvneta_bm_type | port_id int | pkt_size int

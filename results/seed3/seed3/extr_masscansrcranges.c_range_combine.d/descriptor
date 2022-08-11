@@ -1,0 +1,2 @@
+struct Range | begin long | end long 
+function range_combine void | lhs struct Range * | rhs struct Range

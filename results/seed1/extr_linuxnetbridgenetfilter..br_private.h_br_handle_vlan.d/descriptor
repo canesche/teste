@@ -1,5 +1,0 @@
-struct sk_buff | dummy int 
-struct net_bridge_vlan_group | dummy int 
-struct net_bridge_port | dummy int 
-struct net_bridge | dummy int 
-function br_handle_vlan struct sk_buff * | br struct net_bridge * | port const struct net_bridge_port * | vg struct net_bridge_vlan_group * | skb struct sk_buff *

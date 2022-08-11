@@ -1,0 +1,3 @@
+struct mpls_route | rt_nh_size int | rt_nh long 
+struct mpls_nh | dummy int 
+function mpls_get_nexthop struct mpls_nh * | rt struct mpls_route * | index int

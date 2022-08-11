@@ -1,1 +1,0 @@
-function ssl_cipher_get_evp int | s const int * | enc const int ** | md const int ** | mac_pkey_type int * | mac_secret_size unsigned long * | comp int ** | use_etm int

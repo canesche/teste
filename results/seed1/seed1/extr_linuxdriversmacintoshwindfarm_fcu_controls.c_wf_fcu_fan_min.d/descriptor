@@ -1,0 +1,3 @@
+struct wf_fcu_fan | min int 
+struct wf_control | priv struct wf_fcu_fan * 
+function wf_fcu_fan_min int | ct struct wf_control *

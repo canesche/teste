@@ -1,0 +1,3 @@
+struct xfm_grph_csc_adjustment | dummy int 
+struct transform | dummy int 
+function dce110_xfmv_set_gamut_remap void | xfm struct transform * | adjust const struct xfm_grph_csc_adjustment *

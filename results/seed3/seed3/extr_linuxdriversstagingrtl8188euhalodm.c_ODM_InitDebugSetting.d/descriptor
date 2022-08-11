@@ -1,0 +1,2 @@
+struct odm_dm_struct | DebugComponents long | DebugLevel int 
+function ODM_InitDebugSetting void | pDM_Odm struct odm_dm_struct *

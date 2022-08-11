@@ -1,0 +1,2 @@
+struct phy_dm_struct | last_tx_ok_cnt long | num_tx_bytes_unicast long * | last_rx_ok_cnt long | num_rx_bytes_unicast long * | cur_tx_ok_cnt int | cur_rx_ok_cnt int | tx_tp int | rx_tp int | total_tp int | traffic_load int | pre_traffic_load int 
+function phydm_traffic_load_decision void | dm_void void *

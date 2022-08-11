@@ -1,4 +1,0 @@
-struct pci_dev | dummy int 
-struct TYPE_3__ | pci struct pci_dev * 
-struct TYPE_4__ | c struct TYPE_3__ 
-function bttv_get_pcidev struct pci_dev * | card unsigned int

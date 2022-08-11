@@ -1,0 +1,2 @@
+struct hinic_sge | lo_addr int | hi_addr long 
+function hinic_sge_to_dma int | sge struct hinic_sge *

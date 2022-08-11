@@ -1,2 +1,0 @@
-struct ceph_fs_client | dummy int 
-function ceph_fs_debugfs_init int | fsc struct ceph_fs_client *

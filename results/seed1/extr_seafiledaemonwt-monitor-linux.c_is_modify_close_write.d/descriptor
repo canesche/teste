@@ -1,3 +1,0 @@
-struct inotify_event | mask int 
-struct TYPE_3__ | mask int 
-function is_modify_close_write int | e1 struct TYPE_3__ * | e2 struct inotify_event *

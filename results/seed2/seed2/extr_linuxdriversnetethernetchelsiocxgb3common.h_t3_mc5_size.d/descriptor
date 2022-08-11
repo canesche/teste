@@ -1,0 +1,2 @@
+struct mc5 | tcam_size unsigned int 
+function t3_mc5_size unsigned int | p const struct mc5 *

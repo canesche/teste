@@ -1,0 +1,4 @@
+struct power_supply_propval | intval int 
+struct TYPE_2__ | max_volt int | active long 
+struct tcpm_port | supply_voltage int | pps_data struct TYPE_2__ 
+function tcpm_psy_get_voltage_max int | port struct tcpm_port * | val union power_supply_propval *

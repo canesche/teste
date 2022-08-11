@@ -1,0 +1,2 @@
+struct thermal_zone_device | dummy int 
+function of_thermal_is_trip_valid int | tz struct thermal_zone_device * | trip int

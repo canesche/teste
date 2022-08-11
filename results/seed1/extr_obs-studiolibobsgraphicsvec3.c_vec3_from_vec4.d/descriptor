@@ -1,3 +1,0 @@
-struct vec4 | m int 
-struct vec3 | w float | m int 
-function vec3_from_vec4 void | dst struct vec3 * | v const struct vec4 *

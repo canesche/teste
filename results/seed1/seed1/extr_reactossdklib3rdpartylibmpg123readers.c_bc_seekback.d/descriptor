@@ -1,0 +1,2 @@
+struct bufferchain | pos long 
+function bc_seekback long | bc struct bufferchain * | count long

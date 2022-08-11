@@ -1,5 +1,0 @@
-struct TYPE_2__ | disabled int | fixed long | value long 
-struct iwreq_data | power struct TYPE_2__ 
-struct net_device | dummy int 
-struct iw_request_info | dummy int 
-function rtw_wx_get_power int | dev struct net_device * | info struct iw_request_info * | wrqu union iwreq_data * | extra char *

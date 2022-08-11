@@ -1,0 +1,4 @@
+struct oid_par_priv | type_of_oid long | information_buf long | information_buf_len int | bytes_rw int * | adapter_context int 
+struct eeprom_priv | channel_plan int 
+struct TYPE_2__ | eeprompriv struct eeprom_priv 
+function oid_rt_get_channelplan_hdl int | poid_par_priv struct oid_par_priv *

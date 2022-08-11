@@ -1,0 +1,2 @@
+struct cx25840_state | id long 
+function is_cx2583x int | state struct cx25840_state *

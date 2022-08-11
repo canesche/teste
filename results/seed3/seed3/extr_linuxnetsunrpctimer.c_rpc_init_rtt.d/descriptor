@@ -1,0 +1,2 @@
+struct rpc_rtt | timeo unsigned long | srtt unsigned long * | sdrtt unsigned long * | ntimeouts long * 
+function rpc_init_rtt void | rt struct rpc_rtt * | timeo unsigned long

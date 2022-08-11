@@ -1,0 +1,2 @@
+struct scsi_cmnd | cmnd int * 
+function get_rsp_type int | srb struct scsi_cmnd * | rsp_type int * | rsp_len int *

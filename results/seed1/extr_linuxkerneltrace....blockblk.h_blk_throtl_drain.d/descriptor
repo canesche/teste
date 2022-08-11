@@ -1,2 +1,0 @@
-struct request_queue | dummy int 
-function blk_throtl_drain void | q struct request_queue *

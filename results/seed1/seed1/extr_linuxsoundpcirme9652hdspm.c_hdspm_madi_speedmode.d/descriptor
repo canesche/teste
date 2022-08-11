@@ -1,0 +1,2 @@
+struct hdspm | control_register int 
+function hdspm_madi_speedmode int | hdspm struct hdspm *

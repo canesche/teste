@@ -1,0 +1,2 @@
+struct TYPE_2__ | BitsPerPixel int | GreenMaskSize int 
+function PcVideoGetDisplaySize int | Width int * | Height int * | Depth int *

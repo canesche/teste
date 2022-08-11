@@ -1,0 +1,2 @@
+struct lcd_panel | dummy int 
+function palmtt_panel_get_caps unsigned long | panel struct lcd_panel *

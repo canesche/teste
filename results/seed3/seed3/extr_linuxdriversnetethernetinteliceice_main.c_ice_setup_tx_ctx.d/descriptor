@@ -1,0 +1,7 @@
+struct ice_vsi | type int | vsi_num int | port_info struct TYPE_4__ * | back struct TYPE_3__ * 
+struct ice_tlan_ctx | base int | legacy_int void * | tso_qnum int | tso_ena void * | src_vsi int | vmvf_type int | pf_num int | qlen int | port_num int 
+struct ice_ring | dma int | count int | vsi struct ice_vsi * 
+struct ice_hw | pf_id int 
+struct TYPE_4__ | lport int 
+struct TYPE_3__ | hw struct ice_hw 
+function ice_setup_tx_ctx void | ring struct ice_ring * | tlan_ctx struct ice_tlan_ctx * | pf_q int

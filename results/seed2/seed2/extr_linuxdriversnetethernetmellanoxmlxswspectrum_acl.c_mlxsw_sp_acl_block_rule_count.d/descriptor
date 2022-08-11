@@ -1,0 +1,2 @@
+struct mlxsw_sp_acl_block | rule_count unsigned int 
+function mlxsw_sp_acl_block_rule_count unsigned int | block struct mlxsw_sp_acl_block *

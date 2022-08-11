@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int 
+function DSA_meth_set_flags int | dsam struct TYPE_3__ * | flags int

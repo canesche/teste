@@ -1,0 +1,5 @@
+struct TYPE_3__ | code int | height int | width int 
+struct s5k6aa_preset | index int | clk_id long | mbus_fmt struct TYPE_3__ 
+struct s5k6aa | presets struct s5k6aa_preset * | preset struct s5k6aa_preset * | fiv int * 
+struct TYPE_4__ | code int 
+function s5k6aa_presets_data_init void | s5k6aa struct s5k6aa *

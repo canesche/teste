@@ -1,3 +1,0 @@
-struct iwl_txq | first_tb_dma long 
-struct iwl_pcie_first_tb_buf | dummy int 
-function iwl_pcie_get_first_tb_dma long | txq struct iwl_txq * | idx int

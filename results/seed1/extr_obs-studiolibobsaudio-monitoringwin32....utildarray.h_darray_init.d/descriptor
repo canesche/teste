@@ -1,2 +1,0 @@
-struct darray | capacity long | num long | array int * 
-function darray_init void | dst struct darray *

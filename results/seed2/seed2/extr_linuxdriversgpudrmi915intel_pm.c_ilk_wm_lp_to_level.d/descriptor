@@ -1,0 +1,3 @@
+struct intel_pipe_wm | wm struct TYPE_2__ * 
+struct TYPE_2__ | enable long 
+function ilk_wm_lp_to_level int | wm_lp int | pipe_wm const struct intel_pipe_wm *

@@ -1,2 +1,0 @@
-struct vnode | v_usecount long | v_kusecount long 
-function vnode_pager_isinuse int | vp struct vnode *

@@ -1,0 +1,4 @@
+struct rev_info | cherry_mark long | graph long | left_right long 
+struct TYPE_2__ | flags int 
+struct commit | object struct TYPE_2__ 
+function get_revision_mark char * | revs const struct rev_info * | commit const struct commit *

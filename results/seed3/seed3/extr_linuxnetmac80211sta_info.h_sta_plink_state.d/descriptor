@@ -1,0 +1,2 @@
+struct sta_info | dummy int 
+function sta_plink_state enum nl80211_plink_state | sta struct sta_info *

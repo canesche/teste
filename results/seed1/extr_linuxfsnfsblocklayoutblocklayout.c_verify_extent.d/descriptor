@@ -1,3 +1,0 @@
-struct pnfs_block_extent | be_state long | be_f_offset long | be_length long 
-struct layout_verification | mode long | start long | cowread long | inval long 
-function verify_extent int | be struct pnfs_block_extent * | lv struct layout_verification *

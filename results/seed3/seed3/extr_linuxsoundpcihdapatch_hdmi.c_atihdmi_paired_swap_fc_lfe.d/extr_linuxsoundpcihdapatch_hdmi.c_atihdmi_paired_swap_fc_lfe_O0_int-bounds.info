@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsoundpcihdapatch_hdmi.c_atihdmi_paired_swap_fc_lfe.d/extr_linuxsoundpcihdapatch_hdmi.c_atihdmi_paired_swap_fc_lfe_O0::atihdmi_paired_swap_fc_lfe(60)"
+  }
+]

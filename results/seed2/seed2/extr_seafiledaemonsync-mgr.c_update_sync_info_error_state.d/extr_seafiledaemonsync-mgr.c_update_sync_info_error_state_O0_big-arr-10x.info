@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_seafiledaemonsync-mgr.c_update_sync_info_error_state.d/extr_seafiledaemonsync-mgr.c_update_sync_info_error_state_O0::update_sync_info_error_state(72)"
+  }
+]

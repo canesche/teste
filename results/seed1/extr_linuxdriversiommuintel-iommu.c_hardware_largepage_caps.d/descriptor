@@ -1,2 +1,0 @@
-struct dmar_domain | iommu_superpage int 
-function hardware_largepage_caps int | domain struct dmar_domain * | iov_pfn unsigned long | phy_pfn unsigned long | pages unsigned long

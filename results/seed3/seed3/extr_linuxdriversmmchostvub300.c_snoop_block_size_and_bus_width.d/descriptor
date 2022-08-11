@@ -1,0 +1,2 @@
+struct vub300_mmc_host | fbs int * | bus_width int 
+function snoop_block_size_and_bus_width void | vub300 struct vub300_mmc_host * | cmd_arg int

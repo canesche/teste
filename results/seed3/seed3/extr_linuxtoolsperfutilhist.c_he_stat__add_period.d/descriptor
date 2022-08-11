@@ -1,0 +1,2 @@
+struct he_stat | nr_events int | weight int | period int 
+function he_stat__add_period void | he_stat struct he_stat * | period long | weight long

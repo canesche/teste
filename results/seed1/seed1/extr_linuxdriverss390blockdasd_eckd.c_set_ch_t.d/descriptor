@@ -1,0 +1,2 @@
+struct ch_t | head int | cyl long 
+function set_ch_t void | geo struct ch_t * | cyl int | head int

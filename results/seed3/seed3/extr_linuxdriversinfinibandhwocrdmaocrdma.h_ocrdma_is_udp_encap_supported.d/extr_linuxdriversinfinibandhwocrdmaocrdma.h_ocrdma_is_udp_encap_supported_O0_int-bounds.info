@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversinfinibandhwocrdmaocrdma.h_ocrdma_is_udp_encap_supported.d/extr_linuxdriversinfinibandhwocrdmaocrdma.h_ocrdma_is_udp_encap_supported_O0::ocrdma_is_udp_encap_supported(65)"
+  }
+]

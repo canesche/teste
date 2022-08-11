@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 24,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 38,
+    static: {
+      instructions: 95,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 95,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_emscriptentestslzmalzmaLzmaEnc.c_LzmaEncProps_Normalize.d/extr_emscriptentestslzmalzmaLzmaEnc.c_LzmaEncProps_Normalize_O0::LzmaEncProps_Normalize(64)"
+  }
+]

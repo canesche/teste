@@ -1,0 +1,1 @@
+function Strnpcpy char * | dst char *const | src const char *const | n unsigned long

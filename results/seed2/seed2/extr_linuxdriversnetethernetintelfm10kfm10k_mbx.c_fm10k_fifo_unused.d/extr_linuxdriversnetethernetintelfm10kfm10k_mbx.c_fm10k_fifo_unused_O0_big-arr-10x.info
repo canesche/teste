@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetintelfm10kfm10k_mbx.c_fm10k_fifo_unused.d/extr_linuxdriversnetethernetintelfm10kfm10k_mbx.c_fm10k_fifo_unused_O0::fm10k_fifo_unused(62)"
+  }
+]

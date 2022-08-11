@@ -1,0 +1,3 @@
+struct net_device | ethtool_ops int * | dsa_ptr struct dsa_port * 
+struct dsa_port | orig_ethtool_ops int * 
+function dsa_master_ethtool_teardown void | dev struct net_device *

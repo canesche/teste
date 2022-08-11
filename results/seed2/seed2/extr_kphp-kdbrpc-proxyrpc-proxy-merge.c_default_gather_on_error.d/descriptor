@@ -1,0 +1,3 @@
+struct gather | List struct TYPE_2__ * 
+struct TYPE_2__ | bytes int 
+function default_gather_on_error void | G struct gather * | num int

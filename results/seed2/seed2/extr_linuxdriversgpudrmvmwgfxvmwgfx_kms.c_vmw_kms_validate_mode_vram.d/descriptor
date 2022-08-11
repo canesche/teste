@@ -1,0 +1,2 @@
+struct vmw_private | active_display_unit long | vram_size long | prim_bb_mem long 
+function vmw_kms_validate_mode_vram int | dev_priv struct vmw_private * | pitch long | height long

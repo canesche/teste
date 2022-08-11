@@ -1,0 +1,3 @@
+struct sm_resource_t | res_stats long * 
+struct TYPE_2__ | deceased int * | terminated int * | res_deceased_cnt int | res_terminated_cnt int 
+function vc_sm_resource_deceased void | p_res struct sm_resource_t * | terminated int

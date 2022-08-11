@@ -1,0 +1,3 @@
+struct TYPE_4__ | idct_permutation int * 
+struct TYPE_5__ | w int | h int | cquant int * | lquant int * | idsp struct TYPE_4__ 
+function ff_rtjpeg_decode_init void | c struct TYPE_5__ * | width int | height int | lquant const int * | cquant const int *

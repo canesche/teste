@@ -1,0 +1,2 @@
+struct cache_info | scope long | type unsigned long 
+function get_cache_type enum cache_type | ci struct cache_info * | level int

@@ -1,0 +1,2 @@
+struct vbt_header | bdb_offset int 
+function get_bdb_header const struct bdb_header * | vbt const struct vbt_header *

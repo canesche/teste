@@ -1,0 +1,4 @@
+struct s5p_jpeg_ctx | subsampling int | jpeg struct TYPE_4__ * 
+struct TYPE_4__ | variant struct TYPE_3__ * 
+struct TYPE_3__ | version unsigned int 
+function s5p_jpeg_subsampling_decode int | ctx struct s5p_jpeg_ctx * | subsampling unsigned int

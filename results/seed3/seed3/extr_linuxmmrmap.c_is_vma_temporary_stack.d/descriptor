@@ -1,0 +1,2 @@
+struct vm_area_struct | vm_flags int 
+function is_vma_temporary_stack int | vma struct vm_area_struct *

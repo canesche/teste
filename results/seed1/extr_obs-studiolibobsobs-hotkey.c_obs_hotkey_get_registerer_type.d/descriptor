@@ -1,2 +1,0 @@
-struct TYPE_3__ | registerer_type int 
-function obs_hotkey_get_registerer_type int | key const struct TYPE_3__ *

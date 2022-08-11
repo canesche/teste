@@ -1,0 +1,4 @@
+struct bfq_queue | dummy int 
+struct bfq_group | dummy int 
+struct bfq_data | dummy int 
+function bfq_bfqq_move void | bfqd struct bfq_data * | bfqq struct bfq_queue * | bfqg struct bfq_group *

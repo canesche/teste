@@ -1,0 +1,4 @@
+struct usbctlx_completor | complete int 
+struct usbctlx_rmem_completor | len unsigned int | head struct usbctlx_completor | data void * | rmemresp struct hfa384x_usb_rmemresp * 
+struct hfa384x_usb_rmemresp | dummy int 
+function init_rmem_completor struct usbctlx_completor * | completor struct usbctlx_rmem_completor * | rmemresp struct hfa384x_usb_rmemresp * | data void * | len unsigned int

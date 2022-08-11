@@ -1,4 +1,0 @@
-struct priv | start_pts double 
-struct mp_decoder_wrapper | f struct TYPE_2__ * 
-struct TYPE_2__ | priv struct priv * 
-function mp_decoder_wrapper_set_start_pts void | d struct mp_decoder_wrapper * | pts double

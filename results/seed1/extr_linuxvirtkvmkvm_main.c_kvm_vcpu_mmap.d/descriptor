@@ -1,3 +1,0 @@
-struct vm_area_struct | vm_ops int * 
-struct file | dummy int 
-function kvm_vcpu_mmap int | file struct file * | vma struct vm_area_struct *

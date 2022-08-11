@@ -1,0 +1,2 @@
+struct TYPE_3__ | allocated_samples int | nb_samples int 
+function av_audio_fifo_space int | af struct TYPE_3__ *

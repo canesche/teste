@@ -1,1 +1,0 @@
-function gradient_predict void | s int * | src int * | dst int * | stride unsigned long | width int | height int

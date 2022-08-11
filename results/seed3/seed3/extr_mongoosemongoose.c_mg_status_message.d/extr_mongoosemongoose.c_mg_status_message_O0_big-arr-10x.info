@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 14,
+    phantoms: 12,
+    exit: true,
+    halt: false,
+    edges: 27,
+    static: {
+      instructions: 57,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 57,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_mongoosemongoose.c_mg_status_message.d/extr_mongoosemongoose.c_mg_status_message_O0::mg_status_message(59)"
+  }
+]

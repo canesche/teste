@@ -1,0 +1,4 @@
+struct TYPE_2__ | object long 
+struct vmw_private | mem_global_ref struct TYPE_2__ 
+struct ttm_mem_global | dummy int 
+function vmw_mem_glob struct ttm_mem_global * | dev_priv struct vmw_private *

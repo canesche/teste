@@ -1,0 +1,5 @@
+struct usbctlx_completor | complete int 
+struct usbctlx_cmd_completor | head struct usbctlx_completor | result struct hfa384x_cmdresult * | cmdresp const struct hfa384x_usb_statusresp * 
+struct hfa384x_usb_statusresp | dummy int 
+struct hfa384x_cmdresult | dummy int 
+function init_cmd_completor struct usbctlx_completor * | completor struct usbctlx_cmd_completor * | cmdresp const struct hfa384x_usb_statusresp * | result struct hfa384x_cmdresult *

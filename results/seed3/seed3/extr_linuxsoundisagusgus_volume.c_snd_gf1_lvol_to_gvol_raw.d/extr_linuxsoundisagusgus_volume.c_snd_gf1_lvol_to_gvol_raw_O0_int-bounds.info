@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 15,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 23,
+    static: {
+      instructions: 67,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 83,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsoundisagusgus_volume.c_snd_gf1_lvol_to_gvol_raw.d/extr_linuxsoundisagusgus_volume.c_snd_gf1_lvol_to_gvol_raw_O0::snd_gf1_lvol_to_gvol_raw(60)"
+  }
+]

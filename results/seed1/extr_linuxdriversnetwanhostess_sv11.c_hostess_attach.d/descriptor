@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function hostess_attach int | dev struct net_device * | encoding unsigned short | parity unsigned short

@@ -1,3 +1,0 @@
-struct wm_adsp | dummy int 
-struct snd_soc_component | dummy int 
-function wm_adsp2_init_debugfs void | dsp struct wm_adsp * | component struct snd_soc_component *

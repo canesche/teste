@@ -1,0 +1,2 @@
+struct v4l2_subdev | dummy int 
+function ov5670_get_skip_frames int | sd struct v4l2_subdev * | frames int *

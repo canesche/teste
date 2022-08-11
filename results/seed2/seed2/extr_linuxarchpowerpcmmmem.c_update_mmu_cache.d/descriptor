@@ -1,0 +1,2 @@
+struct vm_area_struct | dummy int 
+function update_mmu_cache void | vma struct vm_area_struct * | address unsigned long | ptep int *

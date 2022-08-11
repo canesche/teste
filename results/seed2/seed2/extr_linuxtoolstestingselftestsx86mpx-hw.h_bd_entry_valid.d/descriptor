@@ -1,0 +1,2 @@
+struct mpx_bd_entry | contents long 
+function bd_entry_valid int | bounds_dir_entry struct mpx_bd_entry *

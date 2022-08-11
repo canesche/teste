@@ -1,0 +1,1 @@
+function append_unsafe_string_apache char * | pos char * | src const char * | len unsigned long

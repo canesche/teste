@@ -1,7 +1,0 @@
-struct TYPE_6__ | id int 
-struct usb_mixer_elem_info | cache_val int * | head struct TYPE_6__ 
-struct snd_kcontrol | private_data struct usb_mixer_elem_info * 
-struct TYPE_4__ | value int * 
-struct TYPE_5__ | integer struct TYPE_4__ 
-struct snd_ctl_elem_value | value struct TYPE_5__ 
-function snd_us16x08_bus_get int | kcontrol struct snd_kcontrol * | ucontrol struct snd_ctl_elem_value *

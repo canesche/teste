@@ -1,2 +1,0 @@
-struct TCP_Server_Info | dummy int 
-function smbd_reconnect int | server struct TCP_Server_Info *

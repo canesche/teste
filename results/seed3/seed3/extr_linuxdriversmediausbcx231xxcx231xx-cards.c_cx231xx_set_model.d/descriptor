@@ -1,0 +1,2 @@
+struct cx231xx | model unsigned long | board int 
+function cx231xx_set_model void | dev struct cx231xx *

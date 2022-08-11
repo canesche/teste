@@ -1,0 +1,2 @@
+struct TYPE_3__ | status int | latent long | front long | size long | cts long | dts long 
+function mpeg_bitstream_init void | packet struct TYPE_3__ *

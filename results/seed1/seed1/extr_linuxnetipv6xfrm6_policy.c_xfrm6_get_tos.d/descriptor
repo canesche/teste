@@ -1,0 +1,2 @@
+struct flowi | dummy int 
+function xfrm6_get_tos int | fl const struct flowi *

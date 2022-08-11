@@ -1,0 +1,3 @@
+struct dscc4_dev_priv | pci_priv struct TYPE_2__ * 
+struct TYPE_2__ | xtal_hz int 
+function dscc4_set_quartz int | dpriv struct dscc4_dev_priv * | hz int

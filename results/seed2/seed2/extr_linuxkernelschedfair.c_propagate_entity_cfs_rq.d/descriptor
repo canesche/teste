@@ -1,0 +1,2 @@
+struct sched_entity | dummy int 
+function propagate_entity_cfs_rq void | se struct sched_entity *

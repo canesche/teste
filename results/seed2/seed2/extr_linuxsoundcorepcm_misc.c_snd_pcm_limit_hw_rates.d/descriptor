@@ -1,0 +1,4 @@
+struct TYPE_3__ | rates int | rate_max int | rate_min int 
+struct snd_pcm_runtime | hw struct TYPE_3__ 
+struct TYPE_4__ | list int * | count long 
+function snd_pcm_limit_hw_rates int | runtime struct snd_pcm_runtime *

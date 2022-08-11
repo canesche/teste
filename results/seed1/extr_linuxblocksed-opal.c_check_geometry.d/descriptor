@@ -1,3 +1,0 @@
-struct opal_dev | lowest_lba int | align int 
-struct d0_geometry_features | lowest_aligned_lba int | alignment_granularity int 
-function check_geometry void | dev struct opal_dev * | data const void *

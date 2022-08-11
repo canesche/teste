@@ -1,0 +1,2 @@
+struct meson_i2c | num_tokens int | tokens int * 
+function meson_i2c_add_token void | i2c struct meson_i2c * | token int

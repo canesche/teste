@@ -1,0 +1,1 @@
+function curl_error_to_http_task_error int | curl_error int

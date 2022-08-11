@@ -1,0 +1,3 @@
+struct diag204_x_part_hdr | rcpus int 
+struct diag204_part_hdr | cpus int 
+function part_hdr__rcpus int | type enum diag204_format | hdr void *

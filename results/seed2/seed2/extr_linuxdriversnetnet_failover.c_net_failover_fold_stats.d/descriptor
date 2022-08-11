@@ -1,0 +1,2 @@
+struct rtnl_link_stats64 | dummy int 
+function net_failover_fold_stats void | _res struct rtnl_link_stats64 * | _new const struct rtnl_link_stats64 * | _old const struct rtnl_link_stats64 *

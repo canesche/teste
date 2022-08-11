@@ -1,0 +1,2 @@
+struct irq_desc | dummy int 
+function preflow_handler void | desc struct irq_desc *

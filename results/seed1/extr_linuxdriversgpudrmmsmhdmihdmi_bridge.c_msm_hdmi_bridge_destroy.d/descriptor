@@ -1,2 +1,0 @@
-struct drm_bridge | dummy int 
-function msm_hdmi_bridge_destroy void | bridge struct drm_bridge *

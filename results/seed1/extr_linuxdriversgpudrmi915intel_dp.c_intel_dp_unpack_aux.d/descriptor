@@ -1,1 +1,0 @@
-function intel_dp_unpack_aux void | src int | dst int * | dst_bytes int

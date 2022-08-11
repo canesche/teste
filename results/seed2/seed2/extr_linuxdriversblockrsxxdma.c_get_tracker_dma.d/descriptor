@@ -1,0 +1,4 @@
+struct rsxx_dma | dummy int 
+struct dma_tracker_list | list struct TYPE_2__ * 
+struct TYPE_2__ | dma struct rsxx_dma * 
+function get_tracker_dma struct rsxx_dma * | trackers struct dma_tracker_list * | tag int

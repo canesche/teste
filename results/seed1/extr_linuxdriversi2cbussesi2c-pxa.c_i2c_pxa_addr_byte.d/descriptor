@@ -1,2 +1,0 @@
-struct i2c_msg | addr int | flags int 
-function i2c_pxa_addr_byte unsigned int | msg struct i2c_msg *

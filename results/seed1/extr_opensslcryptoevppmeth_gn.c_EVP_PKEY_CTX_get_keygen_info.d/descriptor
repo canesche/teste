@@ -1,2 +1,0 @@
-struct TYPE_3__ | keygen_info_count int | keygen_info int * 
-function EVP_PKEY_CTX_get_keygen_info int | ctx struct TYPE_3__ * | idx int

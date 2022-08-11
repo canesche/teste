@@ -1,0 +1,3 @@
+struct TYPE_5__ | ex_magic unsigned int | ex_bn unsigned int | ex_length unsigned int | ex_offset unsigned int 
+struct TYPE_6__ | raw long * | cooked struct TYPE_5__ 
+function extent_copy void | src struct TYPE_6__ * | dst struct TYPE_6__ *

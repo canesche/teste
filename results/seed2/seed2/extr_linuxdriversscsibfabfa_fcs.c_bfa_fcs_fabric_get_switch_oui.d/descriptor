@@ -1,0 +1,3 @@
+struct bfa_fcs_fabric_s | lps struct TYPE_2__ * 
+struct TYPE_2__ | pr_nwwn int 
+function bfa_fcs_fabric_get_switch_oui int | fabric struct bfa_fcs_fabric_s *

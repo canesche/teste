@@ -1,2 +1,0 @@
-struct context_entry | hi unsigned long long 
-function context_set_copied void | context struct context_entry *

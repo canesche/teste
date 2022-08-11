@@ -1,0 +1,3 @@
+struct dwc2_hsotg_ep | dummy int 
+struct dwc2_hsotg | eps_out struct dwc2_hsotg_ep ** | eps_in struct dwc2_hsotg_ep ** 
+function index_to_ep struct dwc2_hsotg_ep * | hsotg struct dwc2_hsotg * | ep_index unsigned long | dir_in unsigned long

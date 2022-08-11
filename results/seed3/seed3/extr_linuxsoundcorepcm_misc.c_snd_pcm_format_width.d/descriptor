@@ -1,0 +1,2 @@
+struct TYPE_2__ | width int 
+function snd_pcm_format_width int | format long

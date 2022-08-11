@@ -1,0 +1,2 @@
+struct TYPE_2__ | mask int | value int | type int 
+function dtrace_decode_arm64 int | instr int

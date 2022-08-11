@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function xfs_forget_acl void | inode struct inode * | name const char * | xflags int

@@ -1,3 +1,0 @@
-struct sh_eth_plat_data | dummy int 
-struct device | dummy int 
-function sh_eth_parse_dt struct sh_eth_plat_data * | dev struct device *

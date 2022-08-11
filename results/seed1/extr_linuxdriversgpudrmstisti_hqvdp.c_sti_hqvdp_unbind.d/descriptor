@@ -1,2 +1,0 @@
-struct device | dummy int 
-function sti_hqvdp_unbind void | dev struct device * | master struct device * | data void *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | size int 
+struct uvc_control | info struct TYPE_2__ | uvc_data int * 
+function uvc_ctrl_data int * | ctrl struct uvc_control * | id int

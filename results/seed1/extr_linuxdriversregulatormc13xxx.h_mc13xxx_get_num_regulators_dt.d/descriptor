@@ -1,2 +1,0 @@
-struct platform_device | dummy int 
-function mc13xxx_get_num_regulators_dt int | pdev struct platform_device *

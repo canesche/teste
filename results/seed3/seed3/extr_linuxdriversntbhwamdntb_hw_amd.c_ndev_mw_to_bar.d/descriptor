@@ -1,0 +1,2 @@
+struct amd_ntb_dev | mw_count int 
+function ndev_mw_to_bar int | ndev struct amd_ntb_dev * | idx int

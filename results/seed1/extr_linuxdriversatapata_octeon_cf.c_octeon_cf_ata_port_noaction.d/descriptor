@@ -1,2 +1,0 @@
-struct ata_port | dummy int 
-function octeon_cf_ata_port_noaction void | ap struct ata_port *

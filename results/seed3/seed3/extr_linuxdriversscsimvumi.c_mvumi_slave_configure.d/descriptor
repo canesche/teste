@@ -1,0 +1,4 @@
+struct scsi_device | id unsigned char | host struct TYPE_2__ * 
+struct mvumi_hba | max_target_id unsigned char | target_map int * 
+struct TYPE_2__ | hostdata long 
+function mvumi_slave_configure int | sdev struct scsi_device *

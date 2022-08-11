@@ -1,2 +1,0 @@
-struct mg_mgr | dummy int 
-function mg_lwip_mgr_schedule_poll void | mgr struct mg_mgr *

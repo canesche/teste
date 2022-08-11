@@ -1,0 +1,3 @@
+struct property | dummy int 
+struct device_node | dummy int 
+function __of_remove_property_sysfs void | np struct device_node * | prop struct property *

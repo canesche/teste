@@ -1,0 +1,2 @@
+struct fb_videomode | dummy int 
+function fb_destroy_modedb void | modedb struct fb_videomode *

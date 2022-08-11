@@ -1,0 +1,4 @@
+struct TYPE_2__ | dev struct device * 
+struct pmem_device | bb struct TYPE_2__ 
+struct device | dummy int 
+function to_dev struct device * | pmem struct pmem_device *

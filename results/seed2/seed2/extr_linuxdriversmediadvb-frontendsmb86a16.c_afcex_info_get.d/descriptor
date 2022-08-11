@@ -1,0 +1,2 @@
+struct mb86a16_state | master_clk int 
+function afcex_info_get void | state struct mb86a16_state * | afcex_freq int | AFCEX_L unsigned char * | AFCEX_H unsigned char *

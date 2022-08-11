@@ -1,4 +1,0 @@
-struct commit | parents struct TYPE_4__ * 
-struct TYPE_4__ | next struct TYPE_3__ * 
-struct TYPE_3__ | next int 
-function is_common_merge int | commit const struct commit *

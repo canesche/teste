@@ -1,3 +1,0 @@
-struct nd_region | dummy int 
-struct device | dummy int 
-function nd_btt_create struct device * | nd_region struct nd_region *

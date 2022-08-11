@@ -1,2 +1,0 @@
-struct isp1362_hcd | stat1 int | stat2 int | stat4 int | stat8 int | stat16 int 
-function ALIGNSTAT void | isp1362_hcd struct isp1362_hcd * | ptr void *

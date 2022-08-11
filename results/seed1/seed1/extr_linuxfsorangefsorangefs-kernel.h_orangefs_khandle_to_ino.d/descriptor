@@ -1,0 +1,3 @@
+struct orangefs_khandle | u int * 
+function orangefs_khandle_to_ino int | khandle struct orangefs_khandle *
+struct  | u unsigned char [8] | ino int 

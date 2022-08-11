@@ -1,2 +1,0 @@
-struct isp1301 | dummy int 
-function enable_vbus_source void | isp struct isp1301 *

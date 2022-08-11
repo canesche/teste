@@ -1,0 +1,3 @@
+struct inpcb | inp_socket struct TYPE_2__ * 
+struct TYPE_2__ | so_state int 
+function necp_socket_is_connected int | inp struct inpcb *

@@ -1,0 +1,2 @@
+struct cpuinfo_mips | tlbsize int 
+function probe_tlb void | config unsigned long

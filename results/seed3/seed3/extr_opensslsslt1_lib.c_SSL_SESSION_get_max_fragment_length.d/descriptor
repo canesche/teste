@@ -1,0 +1,3 @@
+struct TYPE_4__ | max_fragment_len_mode int 
+struct TYPE_5__ | ext struct TYPE_4__ 
+function SSL_SESSION_get_max_fragment_length int | session const struct TYPE_5__ *

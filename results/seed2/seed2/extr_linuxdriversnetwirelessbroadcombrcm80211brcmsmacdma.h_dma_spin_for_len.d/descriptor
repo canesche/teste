@@ -1,0 +1,2 @@
+struct sk_buff | dummy int 
+function dma_spin_for_len void | len int | head struct sk_buff *

@@ -1,0 +1,2 @@
+struct sta_info | dummy int 
+function ieee80211_sta_debugfs_remove void | sta struct sta_info *

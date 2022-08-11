@@ -1,0 +1,2 @@
+struct h_elem | pathlength long | sym int 
+function cmp_pathlengths int | in_a const void * | in_b const void *

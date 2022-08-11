@@ -1,0 +1,2 @@
+struct TYPE_3__ | state int * | bitlen long | datalen long 
+function sha256_init void | ctx struct TYPE_3__ *

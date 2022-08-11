@@ -1,0 +1,3 @@
+struct ttm_mem_reg | dummy int 
+struct ttm_bo_device | dummy int 
+function vmw_ttm_io_mem_free void | bdev struct ttm_bo_device * | mem struct ttm_mem_reg *

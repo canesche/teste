@@ -1,0 +1,5 @@
+struct gfs2_rgrpd | rd_length unsigned int 
+struct TYPE_3__ | rgd struct gfs2_rgrpd * 
+struct TYPE_4__ | rs_rbm struct TYPE_3__ 
+struct gfs2_inode | i_res struct TYPE_4__ 
+function gfs2_rg_blocks unsigned int | ip const struct gfs2_inode * | requested unsigned int

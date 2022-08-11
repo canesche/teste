@@ -1,0 +1,3 @@
+struct ve_spc_opp | freq int 
+struct TYPE_2__ | num_opps int * | opps struct ve_spc_opp ** 
+function ve_spc_round_performance int | cluster int | freq int

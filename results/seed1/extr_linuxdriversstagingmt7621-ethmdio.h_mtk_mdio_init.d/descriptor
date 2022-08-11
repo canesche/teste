@@ -1,2 +1,0 @@
-struct mtk_eth | dummy int 
-function mtk_mdio_init int | eth struct mtk_eth *

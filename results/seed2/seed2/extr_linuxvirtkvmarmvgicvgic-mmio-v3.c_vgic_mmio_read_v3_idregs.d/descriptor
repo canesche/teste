@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function vgic_mmio_read_v3_idregs unsigned long | vcpu struct kvm_vcpu * | addr int | len unsigned int

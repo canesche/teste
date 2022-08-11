@@ -1,3 +1,0 @@
-struct TYPE_6__ | next struct TYPE_6__ * 
-struct TYPE_7__ | statement_tail struct TYPE_6__ * | statement struct TYPE_6__ * 
-function source_elements_add_statement struct TYPE_7__ * | source_elements struct TYPE_7__ * | statement struct TYPE_6__ *

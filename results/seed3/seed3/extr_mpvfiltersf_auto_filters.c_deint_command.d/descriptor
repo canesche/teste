@@ -1,0 +1,5 @@
+struct mp_filter_command | type long | is_active int 
+struct mp_filter | priv struct deint_priv * 
+struct TYPE_2__ | filter int 
+struct deint_priv | sub struct TYPE_2__ 
+function deint_command int | f struct mp_filter * | cmd struct mp_filter_command *

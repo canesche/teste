@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function ipw_ethtool_get_eeprom_len int | dev struct net_device *

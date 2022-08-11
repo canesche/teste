@@ -1,0 +1,4 @@
+struct TYPE_7__ | buf struct TYPE_6__ * 
+struct TYPE_8__ | pos int 
+struct TYPE_6__ | last int 
+function ngx_http_lua_read_any int | src struct TYPE_8__ * | buf_in struct TYPE_7__ * | max unsigned long * | bytes long | log int *

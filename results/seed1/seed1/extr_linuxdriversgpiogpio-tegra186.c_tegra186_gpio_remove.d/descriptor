@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function tegra186_gpio_remove int | pdev struct platform_device *

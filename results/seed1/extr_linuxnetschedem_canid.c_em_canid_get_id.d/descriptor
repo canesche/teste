@@ -1,3 +1,0 @@
-struct sk_buff | data long 
-struct can_frame | can_id int 
-function em_canid_get_id int | skb struct sk_buff *

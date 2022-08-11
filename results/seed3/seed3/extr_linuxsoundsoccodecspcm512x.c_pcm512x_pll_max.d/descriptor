@@ -1,0 +1,2 @@
+struct pcm512x_priv | overclock_pll int 
+function pcm512x_pll_max unsigned long | pcm512x struct pcm512x_priv *

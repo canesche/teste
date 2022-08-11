@@ -1,3 +1,0 @@
-struct TYPE_4__ | permutated int * 
-struct TYPE_5__ | block_last_index int * | y_dc_scale int | c_dc_scale int | intra_matrix int * | intra_scantable struct TYPE_4__ 
-function dct_unquantize_mpeg1_intra_c void | s struct TYPE_5__ * | block int * | n int | qscale int

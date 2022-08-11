@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversttyserial82508250_core.c_serial8250_apply_quirks.d/extr_linuxdriversttyserial82508250_core.c_serial8250_apply_quirks_O0::serial8250_apply_quirks(65)"
+  }
+]

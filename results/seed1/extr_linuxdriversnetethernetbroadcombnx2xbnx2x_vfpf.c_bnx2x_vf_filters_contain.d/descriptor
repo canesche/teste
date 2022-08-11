@@ -1,3 +1,0 @@
-struct vfpf_set_q_filters_tlv | n_mac_vlan_filters int | filters struct TYPE_2__ * 
-struct TYPE_2__ | flags int 
-function bnx2x_vf_filters_contain int | filters struct vfpf_set_q_filters_tlv * | flags int

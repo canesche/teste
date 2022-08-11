@@ -1,0 +1,1 @@
+function ioeventfd_bus_from_flags enum kvm_bus | flags int

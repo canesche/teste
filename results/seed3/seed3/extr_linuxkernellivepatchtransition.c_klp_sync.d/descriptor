@@ -1,0 +1,2 @@
+struct work_struct | dummy int 
+function klp_sync void | work struct work_struct *

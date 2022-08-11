@@ -1,2 +1,0 @@
-struct tw68_format | fourcc unsigned int 
-function format_by_fourcc const struct tw68_format * | fourcc unsigned int

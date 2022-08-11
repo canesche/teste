@@ -1,0 +1,2 @@
+struct pqi_scsi_dev | is_physical_device int 
+function pqi_is_logical_device int | device struct pqi_scsi_dev *

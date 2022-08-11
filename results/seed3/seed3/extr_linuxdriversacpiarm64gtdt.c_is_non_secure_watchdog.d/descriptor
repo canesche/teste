@@ -1,0 +1,3 @@
+struct acpi_gtdt_watchdog | timer_flags int 
+struct acpi_gtdt_header | type long 
+function is_non_secure_watchdog int | platform_timer void *

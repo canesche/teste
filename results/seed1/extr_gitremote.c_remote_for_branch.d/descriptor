@@ -1,2 +1,0 @@
-struct branch | remote_name const char * 
-function remote_for_branch const char * | branch struct branch * | explicit int *

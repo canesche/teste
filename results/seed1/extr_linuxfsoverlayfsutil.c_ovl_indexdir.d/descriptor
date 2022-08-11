@@ -1,4 +1,0 @@
-struct super_block | s_fs_info struct ovl_fs * 
-struct ovl_fs | indexdir struct dentry * 
-struct dentry | dummy int 
-function ovl_indexdir struct dentry * | sb struct super_block *

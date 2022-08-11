@@ -1,0 +1,3 @@
+struct sched_domain_attr | relax_domain_level int 
+struct sched_domain | level int | flags int 
+function set_domain_attribute void | sd struct sched_domain * | attr struct sched_domain_attr *

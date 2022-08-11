@@ -1,0 +1,2 @@
+struct geoPoint | dist long 
+function sort_gp_asc int | a const void * | b const void *

@@ -1,0 +1,2 @@
+struct qlcnic_adapter | flags int 
+function qlcnic_sysfs_validate_mem int | adapter struct qlcnic_adapter * | offset int | size unsigned long

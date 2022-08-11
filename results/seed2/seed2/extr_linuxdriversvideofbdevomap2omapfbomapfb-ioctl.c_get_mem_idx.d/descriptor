@@ -1,0 +1,3 @@
+struct omapfb_info | id int | region struct TYPE_2__ * 
+struct TYPE_2__ | id int 
+function get_mem_idx int | ofbi struct omapfb_info *

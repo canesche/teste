@@ -1,0 +1,2 @@
+struct TYPE_3__ | numVertexes int 
+function PicoGetSurfaceNumVertexes int | surface struct TYPE_3__ *

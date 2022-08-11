@@ -1,2 +1,0 @@
-struct zip_string | raw int * | encoding long | length unsigned long 
-function _zip_guess_encoding enum zip_encoding_type | str struct zip_string * | expected_encoding enum zip_encoding_type

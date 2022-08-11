@@ -1,0 +1,4 @@
+struct TYPE_8__ | csp struct TYPE_7__ * 
+struct TYPE_9__ | linesize long * 
+struct TYPE_7__ | nb_components int 
+function checkstride int | yadif struct TYPE_8__ * | a const struct TYPE_9__ * | b const struct TYPE_9__ *

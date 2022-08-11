@@ -1,0 +1,4 @@
+struct TYPE_6__ | dlgw struct TYPE_5__ * 
+struct TYPE_7__ | u struct TYPE_6__ 
+struct TYPE_5__ | rtMargin int 
+function pagesetup_get_margin_rect int * | data const struct TYPE_7__ *

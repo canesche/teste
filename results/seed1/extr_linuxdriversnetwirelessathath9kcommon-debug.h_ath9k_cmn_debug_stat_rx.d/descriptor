@@ -1,3 +1,0 @@
-struct ath_rx_status | dummy int 
-struct ath_rx_stats | dummy int 
-function ath9k_cmn_debug_stat_rx void | rxstats struct ath_rx_stats * | rs struct ath_rx_status *

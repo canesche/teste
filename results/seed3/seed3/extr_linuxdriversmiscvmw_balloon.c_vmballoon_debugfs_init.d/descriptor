@@ -1,0 +1,2 @@
+struct vmballoon | dummy int 
+function vmballoon_debugfs_init int | b struct vmballoon *

@@ -1,0 +1,2 @@
+struct b43legacy_dmaring | dummy int 
+function b43legacy_dma_rx void | ring struct b43legacy_dmaring *

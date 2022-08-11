@@ -1,0 +1,2 @@
+struct TYPE_3__ | cvar_cache int * 
+function git_repository__cvar_cache_clear void | repo struct TYPE_3__ *

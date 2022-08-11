@@ -1,0 +1,2 @@
+struct TYPE_3__ | b_lflags int | b_uploffset int | b_upl long | b_flags int 
+function buf_setupl int | bp struct TYPE_3__ * | upl long | offset int

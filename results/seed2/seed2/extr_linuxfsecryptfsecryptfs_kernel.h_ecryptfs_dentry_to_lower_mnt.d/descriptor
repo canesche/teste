@@ -1,0 +1,5 @@
+struct vfsmount | dummy int 
+struct TYPE_2__ | mnt struct vfsmount * 
+struct ecryptfs_dentry_info | lower_path struct TYPE_2__ 
+struct dentry | d_fsdata long 
+function ecryptfs_dentry_to_lower_mnt struct vfsmount * | dentry struct dentry *

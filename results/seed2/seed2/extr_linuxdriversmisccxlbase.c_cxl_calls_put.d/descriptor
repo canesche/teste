@@ -1,0 +1,2 @@
+struct cxl_calls | dummy int 
+function cxl_calls_put void | calls struct cxl_calls *

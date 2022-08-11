@@ -1,2 +1,0 @@
-struct vnt_private | basic_rates int | byTopOFDMBasicRate unsigned char | byTopCCKBasicRate unsigned char 
-function CARDvUpdateBasicTopRate void | priv struct vnt_private *

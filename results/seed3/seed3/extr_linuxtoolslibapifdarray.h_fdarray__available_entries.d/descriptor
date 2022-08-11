@@ -1,0 +1,2 @@
+struct fdarray | nr_alloc int | nr int 
+function fdarray__available_entries int | fda struct fdarray *

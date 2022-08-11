@@ -1,3 +1,0 @@
-struct pinctrl_dev | dummy int 
-struct TYPE_2__ | number unsigned int 
-function lpc18xx_pctl_get_group_pins int | pctldev struct pinctrl_dev * | group unsigned int | pins const unsigned int ** | num_pins unsigned int *

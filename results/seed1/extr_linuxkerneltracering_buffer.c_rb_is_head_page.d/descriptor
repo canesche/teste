@@ -1,4 +1,0 @@
-struct ring_buffer_per_cpu | dummy int 
-struct list_head | next long 
-struct buffer_page | list int 
-function rb_is_head_page int | cpu_buffer struct ring_buffer_per_cpu * | page struct buffer_page * | list struct list_head *

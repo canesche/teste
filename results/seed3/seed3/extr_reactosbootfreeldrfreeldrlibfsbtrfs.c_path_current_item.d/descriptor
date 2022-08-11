@@ -1,0 +1,5 @@
+struct btrfs_path | slots unsigned long * | tree_buf struct TYPE_4__ * 
+struct btrfs_item | dummy int 
+struct TYPE_3__ | items struct btrfs_item * 
+struct TYPE_4__ | leaf struct TYPE_3__ 
+function path_current_item struct btrfs_item * | path struct btrfs_path *

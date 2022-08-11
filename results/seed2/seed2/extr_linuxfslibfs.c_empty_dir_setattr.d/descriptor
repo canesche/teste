@@ -1,0 +1,3 @@
+struct iattr | dummy int 
+struct dentry | dummy int 
+function empty_dir_setattr int | dentry struct dentry * | attr struct iattr *

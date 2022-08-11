@@ -1,0 +1,2 @@
+struct file | dummy int 
+function isp_video_s_input int | file struct file * | fh void * | input unsigned int

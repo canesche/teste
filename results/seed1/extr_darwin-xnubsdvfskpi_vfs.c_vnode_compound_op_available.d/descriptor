@@ -1,3 +1,0 @@
-struct TYPE_5__ | v_mount struct TYPE_4__ * 
-struct TYPE_4__ | mnt_compound_ops int 
-function vnode_compound_op_available int | vp struct TYPE_5__ * | opid int

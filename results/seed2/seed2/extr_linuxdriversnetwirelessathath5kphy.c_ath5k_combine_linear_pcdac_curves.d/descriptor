@@ -1,0 +1,3 @@
+struct TYPE_2__ | txp_pd_table int * | tmpL int ** | txp_min_idx int 
+struct ath5k_hw | ah_txpower struct TYPE_2__ 
+function ath5k_combine_linear_pcdac_curves void | ah struct ath5k_hw * | table_min int * | table_max int * | pdcurves int

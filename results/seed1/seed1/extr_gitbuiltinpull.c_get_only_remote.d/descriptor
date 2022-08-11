@@ -1,0 +1,2 @@
+struct remote | name char * 
+function get_only_remote int | remote struct remote * | cb_data void *

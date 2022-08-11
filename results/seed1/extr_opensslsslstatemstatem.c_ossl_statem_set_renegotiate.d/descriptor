@@ -1,3 +1,0 @@
-struct TYPE_4__ | in_init int | request_state int 
-struct TYPE_5__ | statem struct TYPE_4__ 
-function ossl_statem_set_renegotiate void | s struct TYPE_5__ *

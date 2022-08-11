@@ -1,0 +1,4 @@
+struct sockaddr_in6 | dummy int 
+struct rdma_dev_addr | dummy int 
+struct dst_entry | dummy int 
+function addr6_resolve int | src_in struct sockaddr_in6 * | dst_in const struct sockaddr_in6 * | addr struct rdma_dev_addr * | pdst struct dst_entry **

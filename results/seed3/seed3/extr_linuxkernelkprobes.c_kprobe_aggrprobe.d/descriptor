@@ -1,0 +1,2 @@
+struct kprobe | pre_handler long 
+function kprobe_aggrprobe int | p struct kprobe *

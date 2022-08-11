@@ -1,0 +1,3 @@
+struct iio_buffer | attrs const struct attribute ** 
+struct attribute | dummy int 
+function iio_buffer_set_attrs void | buffer struct iio_buffer * | attrs const struct attribute **

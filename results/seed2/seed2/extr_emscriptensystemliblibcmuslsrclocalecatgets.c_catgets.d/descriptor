@@ -1,0 +1,1 @@
+function catgets char * | catd int | set_id int | msg_id int | s const char *

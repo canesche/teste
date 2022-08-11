@@ -1,0 +1,2 @@
+struct mtk_jpeg_dec_param | sampling_w int * | sampling_h int * | mcu_w int | pic_w int | mcu_h int | pic_h int | total_mcu int | unit_num int | blk_num int | blk_comp int * | comp_num int | membership int 
+function mtk_jpeg_calc_mcu void | param struct mtk_jpeg_dec_param *

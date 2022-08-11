@@ -1,0 +1,2 @@
+struct ipu_soc | dummy int 
+function ipu_dmfc_exit void | ipu struct ipu_soc *

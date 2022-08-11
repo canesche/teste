@@ -1,2 +1,0 @@
-struct TYPE_4__ | outch int * | coeff int ** | shift int * | fbits int * | count long 
-function copy_matrix_params void | dst struct TYPE_4__ * | src struct TYPE_4__ *

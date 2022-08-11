@@ -1,4 +1,0 @@
-struct vmci_transport_packet | dummy int 
-struct sockaddr_vm | dummy int 
-struct sock | dummy int 
-function vmci_transport_handle_waiting_read void | sk struct sock * | pkt struct vmci_transport_packet * | bottom_half int | dst struct sockaddr_vm * | src struct sockaddr_vm *

@@ -1,0 +1,3 @@
+struct amdtp_tscm | pcm_channels unsigned int 
+struct amdtp_stream | data_block_quadlets int | protocol struct amdtp_tscm * 
+function write_pcm_silence void | s struct amdtp_stream * | buffer int * | data_blocks unsigned int

@@ -1,3 +1,0 @@
-struct pinctrl_dev | dummy int 
-struct pinctrl | dummy int 
-function pinctrl_dt_to_map int | p struct pinctrl * | pctldev struct pinctrl_dev *

@@ -1,0 +1,7 @@
+struct v4l2_pix_format_mplane | num_planes int | plane_fmt struct TYPE_6__ * | colorspace int | pixelformat int | field int | height int | width int 
+struct TYPE_4__ | pix_mp struct v4l2_pix_format_mplane 
+struct v4l2_format | fmt struct TYPE_4__ 
+struct fimc_frame | payload int * | bytesperline int * | fmt struct TYPE_5__ * | o_height int | o_width int 
+struct TYPE_6__ | sizeimage int | bytesperline int 
+struct TYPE_5__ | memplanes int | fourcc int 
+function __fimc_get_format void | frame struct fimc_frame * | f struct v4l2_format *

@@ -1,2 +1,0 @@
-struct mmc_card | dummy int 
-function renesas_sdhi_multi_io_quirk int | card struct mmc_card * | direction unsigned int | blk_size int

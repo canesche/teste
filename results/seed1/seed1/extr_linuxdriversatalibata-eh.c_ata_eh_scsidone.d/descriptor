@@ -1,0 +1,2 @@
+struct scsi_cmnd | dummy int 
+function ata_eh_scsidone void | scmd struct scsi_cmnd *

@@ -1,0 +1,2 @@
+struct git_graph | default_column_color int 
+function graph_increment_column_color void | graph struct git_graph *

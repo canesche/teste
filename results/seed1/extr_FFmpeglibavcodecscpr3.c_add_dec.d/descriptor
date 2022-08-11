@@ -1,2 +1,0 @@
-struct TYPE_3__ | size int | length int | symbols int * | freqs int * | cnts int * 
-function add_dec int | m struct TYPE_3__ * | sym int | f1 int | f2 int

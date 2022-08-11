@@ -1,0 +1,3 @@
+struct super_block | s_fs_info struct cifs_sb_info * 
+struct cifs_sb_info | dummy int 
+function CIFS_SB struct cifs_sb_info * | sb struct super_block *

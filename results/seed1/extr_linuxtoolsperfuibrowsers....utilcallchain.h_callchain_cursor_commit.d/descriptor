@@ -1,2 +1,0 @@
-struct callchain_cursor | pos long | first int | curr int 
-function callchain_cursor_commit void | cursor struct callchain_cursor *

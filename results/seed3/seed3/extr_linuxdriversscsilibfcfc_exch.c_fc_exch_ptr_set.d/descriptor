@@ -1,0 +1,3 @@
+struct fc_exch_pool | dummy int 
+struct fc_exch | dummy int 
+function fc_exch_ptr_set void | pool struct fc_exch_pool * | index unsigned long | ep struct fc_exch *

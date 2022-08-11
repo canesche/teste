@@ -1,0 +1,4 @@
+struct vxge_hw_fifo_txd | host_control long 
+struct __vxge_hw_fifo_txdl_priv | dummy int 
+struct __vxge_hw_fifo | per_txdl_space int 
+function __vxge_hw_fifo_txdl_priv struct __vxge_hw_fifo_txdl_priv * | fifo struct __vxge_hw_fifo * | txdp struct vxge_hw_fifo_txd *

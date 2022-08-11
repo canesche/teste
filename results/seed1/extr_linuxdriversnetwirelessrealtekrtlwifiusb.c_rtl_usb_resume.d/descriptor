@@ -1,2 +1,0 @@
-struct usb_interface | dummy int 
-function rtl_usb_resume int | pusb_intf struct usb_interface *

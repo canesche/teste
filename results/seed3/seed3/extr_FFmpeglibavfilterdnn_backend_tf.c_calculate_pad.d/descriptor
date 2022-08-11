@@ -1,0 +1,4 @@
+struct TYPE_7__ | layers_num unsigned long | layers struct TYPE_5__ * 
+struct TYPE_6__ | kernel_size int 
+struct TYPE_5__ | type long | params long 
+function calculate_pad int | conv_network const struct TYPE_7__ *

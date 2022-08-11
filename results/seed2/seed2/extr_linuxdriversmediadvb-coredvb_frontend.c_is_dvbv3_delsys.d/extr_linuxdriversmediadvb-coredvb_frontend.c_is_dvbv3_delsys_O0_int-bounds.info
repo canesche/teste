@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediadvb-coredvb_frontend.c_is_dvbv3_delsys.d/extr_linuxdriversmediadvb-coredvb_frontend.c_is_dvbv3_delsys_O0::is_dvbv3_delsys(65)"
+  }
+]

@@ -1,0 +1,1 @@
+function uzlib_adler32 int | data const void * | length unsigned int | prev_sum int

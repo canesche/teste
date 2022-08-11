@@ -1,0 +1,3 @@
+struct mlxsw_sp_fid_family | start_index long | end_index long 
+struct mlxsw_sp_fid | fid_family struct mlxsw_sp_fid_family * 
+function mlxsw_sp_fid_8021q_index_alloc int | fid struct mlxsw_sp_fid * | arg const void * | p_fid_index long *

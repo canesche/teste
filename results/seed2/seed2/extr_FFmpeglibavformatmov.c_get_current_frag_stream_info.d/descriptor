@@ -1,0 +1,3 @@
+struct TYPE_5__ | current unsigned long | nb_items unsigned long | item struct TYPE_4__ * 
+struct TYPE_4__ | current unsigned long | nb_stream_info unsigned long | stream_info int * 
+function get_current_frag_stream_info int * | frag_index struct TYPE_5__ *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | output_flags int 
+struct TYPE_6__ | info struct TYPE_5__ 
+function filter_compatible int | source struct TYPE_6__ * | filter struct TYPE_6__ *

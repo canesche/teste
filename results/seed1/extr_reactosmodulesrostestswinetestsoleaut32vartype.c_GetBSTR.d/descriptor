@@ -1,2 +1,0 @@
-struct TYPE_3__ | szString int 
-function GetBSTR int | bstr struct TYPE_3__ *const

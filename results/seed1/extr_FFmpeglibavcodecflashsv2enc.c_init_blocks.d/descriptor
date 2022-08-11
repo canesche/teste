@@ -1,3 +1,0 @@
-struct TYPE_6__ | width int | height int | row int | col int | data int * | enc int * 
-struct TYPE_5__ | cols int | rows int | block_width int | image_width int | block_height int | image_height int 
-function init_blocks void | s struct TYPE_5__ * | blocks struct TYPE_6__ * | encbuf int * | databuf int *

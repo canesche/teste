@@ -1,0 +1,3 @@
+struct il_rx_buf | dummy int 
+struct il_priv | dummy int 
+function il_hdl_scan void | il struct il_priv * | rxb struct il_rx_buf *

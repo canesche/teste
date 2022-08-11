@@ -1,0 +1,3 @@
+struct dc_link | dummy int 
+struct dc_context | dummy int 
+function dm_helpers_dp_update_branch_info void | ctx struct dc_context * | link const struct dc_link *

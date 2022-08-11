@@ -1,0 +1,4 @@
+struct TYPE_4__ | t_checkpoint_list struct journal_head * 
+struct journal_head | b_cpnext struct journal_head * | b_cpprev struct TYPE_3__ * | b_cp_transaction struct TYPE_4__ * 
+struct TYPE_3__ | b_cpnext struct journal_head * 
+function __buffer_unlink_first void | jh struct journal_head *

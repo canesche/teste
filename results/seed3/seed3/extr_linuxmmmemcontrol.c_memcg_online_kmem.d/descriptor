@@ -1,0 +1,2 @@
+struct mem_cgroup | dummy int 
+function memcg_online_kmem int | memcg struct mem_cgroup *

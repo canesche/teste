@@ -1,0 +1,2 @@
+struct Curl_multi | multiplexing long 
+function Curl_multiplex_wanted int | multi const struct Curl_multi *

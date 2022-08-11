@@ -1,0 +1,2 @@
+struct nvkm_enum | value long | name long 
+function nvkm_enum_find const struct nvkm_enum * | en const struct nvkm_enum * | value long

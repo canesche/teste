@@ -1,2 +1,0 @@
-struct rtc_time | tm_year int | tm_mon int | tm_mday int | tm_wday int | tm_hour int | tm_min int | tm_sec int 
-function tm_calc void | rycr int | rdcr int | tm struct rtc_time *

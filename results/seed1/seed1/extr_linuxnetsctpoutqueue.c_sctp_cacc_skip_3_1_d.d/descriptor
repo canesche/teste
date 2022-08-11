@@ -1,0 +1,2 @@
+struct sctp_transport | dummy int 
+function sctp_cacc_skip_3_1_d int | primary struct sctp_transport * | transport struct sctp_transport * | count_of_newacks int

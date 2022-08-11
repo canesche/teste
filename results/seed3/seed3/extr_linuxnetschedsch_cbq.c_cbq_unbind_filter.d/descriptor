@@ -1,0 +1,3 @@
+struct cbq_class | filters int 
+struct Qdisc | dummy int 
+function cbq_unbind_filter void | sch struct Qdisc * | arg unsigned long

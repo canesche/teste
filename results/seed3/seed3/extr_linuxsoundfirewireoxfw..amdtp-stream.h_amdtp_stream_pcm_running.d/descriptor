@@ -1,0 +1,2 @@
+struct amdtp_stream | pcm int 
+function amdtp_stream_pcm_running int | s struct amdtp_stream *

@@ -1,1 +1,0 @@
-function is_aligned_hugepage_range int | addr unsigned long | len unsigned long

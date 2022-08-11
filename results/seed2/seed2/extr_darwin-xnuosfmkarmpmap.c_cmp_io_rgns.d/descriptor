@@ -1,0 +1,2 @@
+struct TYPE_2__ | addr long | len long 
+function cmp_io_rgns int | a const void * | b const void *

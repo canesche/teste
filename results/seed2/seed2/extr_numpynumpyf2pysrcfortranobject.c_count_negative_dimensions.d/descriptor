@@ -1,0 +1,1 @@
+function count_negative_dimensions int | rank const int | dims const long *

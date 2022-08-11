@@ -1,0 +1,4 @@
+struct minstrel_ht_sta | groups struct TYPE_3__ * | supported int * 
+struct TYPE_4__ | streams long 
+struct TYPE_3__ | max_group_tp_rate int * 
+function minstrel_downgrade_rate void | mi struct minstrel_ht_sta * | idx int * | primary int

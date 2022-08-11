@@ -1,0 +1,5 @@
+struct TYPE_3__ | type long | flags int 
+struct sockaddr_in6 | dummy int 
+struct sockaddr_in | dummy int 
+struct sockaddr | sa_family long 
+function uv__udp_check_before_send int | handle struct TYPE_3__ * | addr const struct sockaddr *

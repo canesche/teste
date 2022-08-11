@@ -1,2 +1,0 @@
-struct rt_mutex | dummy int 
-function rt_mutex_has_waiters int | lock struct rt_mutex *

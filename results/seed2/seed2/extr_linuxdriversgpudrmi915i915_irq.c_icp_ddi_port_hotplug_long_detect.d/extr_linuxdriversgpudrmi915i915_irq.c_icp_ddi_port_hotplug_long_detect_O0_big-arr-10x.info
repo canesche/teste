@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmi915i915_irq.c_icp_ddi_port_hotplug_long_detect.d/extr_linuxdriversgpudrmi915i915_irq.c_icp_ddi_port_hotplug_long_detect_O0::icp_ddi_port_hotplug_long_detect(66)"
+  }
+]

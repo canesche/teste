@@ -1,4 +1,0 @@
-struct sk_buff | cb long 
-struct mwifiex_txinfo | dummy int 
-struct mwifiex_cb | tx_info struct mwifiex_txinfo 
-function MWIFIEX_SKB_TXCB struct mwifiex_txinfo * | skb struct sk_buff *

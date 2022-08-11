@@ -1,0 +1,1 @@
+function mask_spec void | mask int * | val int * | size unsigned long

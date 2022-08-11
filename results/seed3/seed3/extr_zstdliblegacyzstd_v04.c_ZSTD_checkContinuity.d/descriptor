@@ -1,0 +1,2 @@
+struct TYPE_3__ | previousDstEnd const void * | dictEnd const void * | vBase const char * | base const void * 
+function ZSTD_checkContinuity void | dctx struct TYPE_3__ * | dst const void *

@@ -1,0 +1,2 @@
+struct snd_trident | dummy int 
+function snd_trident_create_gameport int | chip struct snd_trident *

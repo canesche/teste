@@ -1,0 +1,5 @@
+struct safexcel_result_desc | dummy int 
+struct safexcel_desc_ring | base void * | offset int 
+struct safexcel_crypto_priv | ring struct TYPE_2__ * 
+struct TYPE_2__ | rdr struct safexcel_desc_ring 
+function safexcel_ring_rdr_rdesc_index int | priv struct safexcel_crypto_priv * | ring int | rdesc struct safexcel_result_desc *

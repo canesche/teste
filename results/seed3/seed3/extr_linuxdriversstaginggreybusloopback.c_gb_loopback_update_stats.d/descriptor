@@ -1,0 +1,2 @@
+struct gb_loopback_stats | min long | max long | count int | sum int 
+function gb_loopback_update_stats void | stats struct gb_loopback_stats * | val long

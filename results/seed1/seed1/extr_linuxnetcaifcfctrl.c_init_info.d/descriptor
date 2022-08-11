@@ -1,0 +1,5 @@
+struct TYPE_3__ | id int 
+struct TYPE_4__ | dev_info int | layer struct TYPE_3__ 
+struct cfctrl | serv struct TYPE_4__ 
+struct caif_payload_info | dev_info int * | channel_id int | hdr_len long 
+function init_info void | info struct caif_payload_info * | cfctrl struct cfctrl *

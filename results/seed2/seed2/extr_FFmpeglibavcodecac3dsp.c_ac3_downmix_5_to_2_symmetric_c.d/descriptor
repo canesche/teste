@@ -1,0 +1,1 @@
+function ac3_downmix_5_to_2_symmetric_c void | samples float ** | matrix float ** | len int

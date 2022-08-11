@@ -1,0 +1,2 @@
+struct obs_lua_source | display_name const char * 
+function obs_lua_source_get_name const char * | type_data void *

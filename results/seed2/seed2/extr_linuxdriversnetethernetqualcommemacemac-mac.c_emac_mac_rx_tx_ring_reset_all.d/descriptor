@@ -1,0 +1,9 @@
+struct TYPE_13__ | count unsigned int | rfbuff struct TYPE_12__ * | consume_idx long | produce_idx long 
+struct TYPE_11__ | consume_idx long | produce_idx long 
+struct TYPE_14__ | rfd struct TYPE_13__ | rrd struct TYPE_11__ 
+struct TYPE_9__ | count unsigned int | tpbuff struct TYPE_8__ * | consume_idx long | produce_idx long 
+struct TYPE_10__ | tpd struct TYPE_9__ 
+struct emac_adapter | rx_q struct TYPE_14__ | tx_q struct TYPE_10__ 
+struct TYPE_12__ | dma_addr long 
+struct TYPE_8__ | dma_addr long 
+function emac_mac_rx_tx_ring_reset_all void | adpt struct emac_adapter *

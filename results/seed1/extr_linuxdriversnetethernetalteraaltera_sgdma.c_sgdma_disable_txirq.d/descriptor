@@ -1,2 +1,0 @@
-struct altera_tse_private | dummy int 
-function sgdma_disable_txirq void | priv struct altera_tse_private *

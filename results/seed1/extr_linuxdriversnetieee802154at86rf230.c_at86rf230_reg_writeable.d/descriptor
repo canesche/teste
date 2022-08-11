@@ -1,2 +1,0 @@
-struct device | dummy int 
-function at86rf230_reg_writeable int | dev struct device * | reg unsigned int

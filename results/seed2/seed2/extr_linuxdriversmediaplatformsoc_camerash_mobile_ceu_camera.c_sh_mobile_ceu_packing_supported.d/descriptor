@@ -1,0 +1,2 @@
+struct soc_mbus_pixelfmt | packing long | bits_per_sample int 
+function sh_mobile_ceu_packing_supported int | fmt const struct soc_mbus_pixelfmt *

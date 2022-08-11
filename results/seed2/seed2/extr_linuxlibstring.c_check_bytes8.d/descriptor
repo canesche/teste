@@ -1,0 +1,1 @@
+function check_bytes8 void * | start const long * | value const long | bytes unsigned int

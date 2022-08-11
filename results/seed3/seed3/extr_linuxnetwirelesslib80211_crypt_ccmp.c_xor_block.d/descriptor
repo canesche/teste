@@ -1,0 +1,1 @@
+function xor_block void | b int * | a int * | len unsigned long

@@ -1,0 +1,2 @@
+struct wil_ring | swhead int | size int 
+function wil_ring_next_head int | ring struct wil_ring *

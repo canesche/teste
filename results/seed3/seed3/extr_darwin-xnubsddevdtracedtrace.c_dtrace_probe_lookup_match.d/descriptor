@@ -1,0 +1,2 @@
+struct TYPE_3__ | dtpr_id int 
+function dtrace_probe_lookup_match int | probe struct TYPE_3__ * | arg1 void * | arg2 void *

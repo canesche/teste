@@ -1,2 +1,0 @@
-struct regulator_dev | reg_data void * 
-function rdev_get_drvdata void * | rdev struct regulator_dev *

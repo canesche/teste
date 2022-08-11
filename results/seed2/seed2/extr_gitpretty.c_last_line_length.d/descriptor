@@ -1,0 +1,2 @@
+struct strbuf | len int | buf char * 
+function last_line_length int | sb struct strbuf *

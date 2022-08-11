@@ -1,4 +1,0 @@
-struct gasket_dev | internal_desc struct TYPE_4__ * 
-struct TYPE_4__ | driver_desc struct TYPE_3__ * 
-struct TYPE_3__ | ioctl_permissions_cb int 
-function gasket_get_ioctl_permissions_cb int | gasket_dev struct gasket_dev *

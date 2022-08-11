@@ -1,5 +1,0 @@
-struct msix_entry | entry int 
-struct bfad_s | nvec unsigned long | msix_tab struct TYPE_4__ * 
-struct TYPE_3__ | entry int 
-struct TYPE_4__ | bfad struct bfad_s * | msix struct TYPE_3__ 
-function bfad_init_msix_entry void | bfad struct bfad_s * | msix_entries struct msix_entry * | mask int | max_bit int

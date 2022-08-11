@@ -1,0 +1,3 @@
+struct TYPE_5__ | len long | ptr long 
+struct TYPE_6__ | Length int | MaximumLength int | Buffer long 
+function xmlstr2unicode struct TYPE_6__ | xmlstr const struct TYPE_5__ *

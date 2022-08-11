@@ -1,0 +1,2 @@
+struct slideshow | behavior long | pause_on_deactivate int 
+function ss_deactivate void | data void *

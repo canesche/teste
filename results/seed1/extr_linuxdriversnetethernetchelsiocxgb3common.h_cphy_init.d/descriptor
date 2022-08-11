@@ -1,6 +1,0 @@
-struct mdio_ops | write int | read int | mode_support int 
-struct cphy_ops | mmds int 
-struct TYPE_2__ | prtad int | mdio_write int | mdio_read int | mode_support int | mmds int 
-struct cphy | caps unsigned int | desc const char * | mdio struct TYPE_2__ | ops const struct cphy_ops * | adapter struct adapter * 
-struct adapter | dummy int 
-function cphy_init void | phy struct cphy * | adapter struct adapter * | phy_addr int | phy_ops const struct cphy_ops * | mdio_ops const struct mdio_ops * | caps unsigned int | desc const char *

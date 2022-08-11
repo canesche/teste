@@ -1,2 +1,0 @@
-struct ath6kl | dummy int 
-function ath6kl_debug_set_keepalive void | ar struct ath6kl * | keepalive int

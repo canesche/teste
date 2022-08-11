@@ -1,2 +1,0 @@
-struct sline | flag unsigned long 
-function find_next unsigned long | sline struct sline * | mark unsigned long | i unsigned long | cnt unsigned long | look_for_uninteresting int

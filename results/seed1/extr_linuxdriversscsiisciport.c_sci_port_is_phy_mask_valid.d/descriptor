@@ -1,2 +1,0 @@
-struct isci_port | physical_port_index int 
-function sci_port_is_phy_mask_valid int | iport struct isci_port * | phy_mask int

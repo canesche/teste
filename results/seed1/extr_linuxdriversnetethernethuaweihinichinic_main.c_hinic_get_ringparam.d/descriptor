@@ -1,3 +1,0 @@
-struct net_device | dummy int 
-struct ethtool_ringparam | tx_pending void * | rx_pending void * | tx_max_pending void * | rx_max_pending void * 
-function hinic_get_ringparam void | netdev struct net_device * | ring struct ethtool_ringparam *

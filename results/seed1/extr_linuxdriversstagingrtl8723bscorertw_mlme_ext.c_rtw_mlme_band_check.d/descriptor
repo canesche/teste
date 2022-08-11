@@ -1,2 +1,0 @@
-struct adapter | setband long 
-function rtw_mlme_band_check int | adapter struct adapter * | ch const int

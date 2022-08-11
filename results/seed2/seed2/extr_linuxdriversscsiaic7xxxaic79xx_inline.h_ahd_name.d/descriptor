@@ -1,0 +1,2 @@
+struct ahd_softc | name char * 
+function ahd_name char * | ahd struct ahd_softc *

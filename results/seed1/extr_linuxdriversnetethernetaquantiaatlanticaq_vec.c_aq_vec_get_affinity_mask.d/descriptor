@@ -1,3 +1,0 @@
-struct TYPE_2__ | affinity_mask int 
-struct aq_vec_s | aq_ring_param struct TYPE_2__ 
-function aq_vec_get_affinity_mask int * | self struct aq_vec_s *

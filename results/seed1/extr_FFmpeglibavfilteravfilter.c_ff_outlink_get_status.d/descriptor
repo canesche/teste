@@ -1,2 +1,0 @@
-struct TYPE_3__ | status_in int 
-function ff_outlink_get_status int | link struct TYPE_3__ *

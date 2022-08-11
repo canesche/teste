@@ -1,0 +1,3 @@
+struct SASLproto | dummy int 
+struct SASL | force_ir void * | mutual_auth void * | resetprefs int | authused void * | prefmech int | authmechs void * | state int | params const struct SASLproto * 
+function Curl_sasl_init void | sasl struct SASL * | params const struct SASLproto *

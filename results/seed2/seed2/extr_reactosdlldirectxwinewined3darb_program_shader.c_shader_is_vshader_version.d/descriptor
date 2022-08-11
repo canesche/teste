@@ -1,0 +1,1 @@
+function shader_is_vshader_version int | type enum wined3d_shader_type

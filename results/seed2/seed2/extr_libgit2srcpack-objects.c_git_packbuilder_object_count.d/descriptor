@@ -1,0 +1,2 @@
+struct TYPE_3__ | nr_objects unsigned long 
+function git_packbuilder_object_count unsigned long | pb struct TYPE_3__ *

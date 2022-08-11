@@ -1,3 +1,0 @@
-struct TYPE_2__ | size int | pkt_type int 
-struct hfi_sys_test_ssr_pkt | trigger_type int | hdr struct TYPE_2__ 
-function pkt_sys_ssr_cmd int | pkt struct hfi_sys_test_ssr_pkt * | trigger_type int

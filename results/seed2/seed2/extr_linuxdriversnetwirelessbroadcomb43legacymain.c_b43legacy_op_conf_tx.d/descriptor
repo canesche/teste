@@ -1,0 +1,4 @@
+struct ieee80211_vif | dummy int 
+struct ieee80211_tx_queue_params | dummy int 
+struct ieee80211_hw | dummy int 
+function b43legacy_op_conf_tx int | hw struct ieee80211_hw * | vif struct ieee80211_vif * | queue int | params const struct ieee80211_tx_queue_params *

@@ -1,2 +1,0 @@
-struct driver_data | ssp_type int 
-function pxa25x_ssp_comp int | drv_data struct driver_data *

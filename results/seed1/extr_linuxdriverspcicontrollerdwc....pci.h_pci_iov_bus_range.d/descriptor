@@ -1,2 +1,0 @@
-struct pci_bus | dummy int 
-function pci_iov_bus_range int | bus struct pci_bus *

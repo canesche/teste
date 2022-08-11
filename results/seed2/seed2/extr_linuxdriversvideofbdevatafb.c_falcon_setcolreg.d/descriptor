@@ -1,0 +1,3 @@
+struct fb_info | pseudo_palette long 
+struct TYPE_2__ | color_reg unsigned int * 
+function falcon_setcolreg int | regno unsigned int | red unsigned int | green unsigned int | blue unsigned int | transp unsigned int | info struct fb_info *

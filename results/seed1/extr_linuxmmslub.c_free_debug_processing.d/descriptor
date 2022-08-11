@@ -1,3 +1,0 @@
-struct page | dummy int 
-struct kmem_cache | dummy int 
-function free_debug_processing int | s struct kmem_cache * | page struct page * | head void * | tail void * | bulk_cnt int | addr unsigned long

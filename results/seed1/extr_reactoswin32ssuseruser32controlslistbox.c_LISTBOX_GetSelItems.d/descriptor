@@ -1,3 +1,0 @@
-struct TYPE_5__ | style int | nb_items long | items struct TYPE_4__ * 
-struct TYPE_4__ | selected long 
-function LISTBOX_GetSelItems long | descr const struct TYPE_5__ * | max long | array long *

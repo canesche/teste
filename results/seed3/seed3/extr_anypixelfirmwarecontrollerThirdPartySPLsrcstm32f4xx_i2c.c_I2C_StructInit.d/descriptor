@@ -1,0 +1,2 @@
+struct TYPE_3__ | I2C_ClockSpeed int | I2C_AcknowledgedAddress int | I2C_Ack int | I2C_OwnAddress1 long | I2C_DutyCycle int | I2C_Mode int 
+function I2C_StructInit void | I2C_InitStruct struct TYPE_3__ *

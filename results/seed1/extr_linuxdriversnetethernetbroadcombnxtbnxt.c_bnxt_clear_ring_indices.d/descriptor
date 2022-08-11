@@ -1,6 +1,0 @@
-struct bnxt_tx_ring_info | tx_cons long | tx_prod long 
-struct bnxt_rx_ring_info | rx_next_cons long | rx_sw_agg_prod long | rx_agg_prod long | rx_prod long 
-struct bnxt_cp_ring_info | cp_raw_cons long 
-struct bnxt_napi | rx_ring struct bnxt_rx_ring_info * | tx_ring struct bnxt_tx_ring_info * | cp_ring struct bnxt_cp_ring_info 
-struct bnxt | cp_nr_rings int | bnapi struct bnxt_napi ** 
-function bnxt_clear_ring_indices void | bp struct bnxt *

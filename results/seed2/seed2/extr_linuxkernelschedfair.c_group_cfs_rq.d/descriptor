@@ -1,0 +1,3 @@
+struct sched_entity | dummy int 
+struct cfs_rq | dummy int 
+function group_cfs_rq struct cfs_rq * | grp struct sched_entity *

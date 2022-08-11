@@ -1,0 +1,3 @@
+struct intc_window | phys unsigned long | size unsigned long | virt long 
+struct intc_desc_int | nr_windows int | window struct intc_window * 
+function intc_phys_to_virt unsigned long | d struct intc_desc_int * | address unsigned long

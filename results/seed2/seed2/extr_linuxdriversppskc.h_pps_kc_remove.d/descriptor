@@ -1,0 +1,2 @@
+struct pps_device | dummy int 
+function pps_kc_remove void | pps struct pps_device *

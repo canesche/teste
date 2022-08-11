@@ -1,0 +1,2 @@
+struct macsec_eth_header | short_length unsigned long 
+function macsec_set_shortlen void | h struct macsec_eth_header * | data_len unsigned long

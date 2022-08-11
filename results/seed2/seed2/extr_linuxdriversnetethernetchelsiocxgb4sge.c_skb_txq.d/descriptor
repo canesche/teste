@@ -1,0 +1,2 @@
+struct sk_buff | queue_mapping int 
+function skb_txq unsigned int | skb const struct sk_buff *

@@ -1,4 +1,0 @@
-struct be_eq_obj | msix_idx unsigned long 
-struct be_adapter | msix_entries struct TYPE_2__ * 
-struct TYPE_2__ | vector int 
-function be_msix_vec_get int | adapter struct be_adapter * | eqo struct be_eq_obj *

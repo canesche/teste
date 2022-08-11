@@ -1,0 +1,3 @@
+struct evm_ima_xattr_data | dummy int 
+struct dentry | dummy int 
+function ima_read_xattr int | dentry struct dentry * | xattr_value struct evm_ima_xattr_data **

@@ -1,0 +1,2 @@
+struct device | of_node void * 
+function dev_match_of int | dev struct device * | data void *

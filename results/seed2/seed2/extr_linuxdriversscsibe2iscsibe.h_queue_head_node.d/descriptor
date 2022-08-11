@@ -1,0 +1,3 @@
+struct TYPE_2__ | va void * 
+struct be_queue_info | head int | entry_size int | dma_mem struct TYPE_2__ 
+function queue_head_node void * | q struct be_queue_info *

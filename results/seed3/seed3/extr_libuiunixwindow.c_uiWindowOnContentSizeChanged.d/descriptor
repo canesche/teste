@@ -1,0 +1,2 @@
+struct TYPE_5__ | onContentSizeChanged void (*)(struct TYPE_5__ *, void *) | onContentSizeChangedData void * 
+function uiWindowOnContentSizeChanged void | w struct TYPE_5__ * | f void (*)(struct TYPE_5__ *, void *) | data void *

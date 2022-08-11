@@ -1,0 +1,2 @@
+struct fq_flow | age int | next int * 
+function fq_flow_set_detached void | f struct fq_flow *

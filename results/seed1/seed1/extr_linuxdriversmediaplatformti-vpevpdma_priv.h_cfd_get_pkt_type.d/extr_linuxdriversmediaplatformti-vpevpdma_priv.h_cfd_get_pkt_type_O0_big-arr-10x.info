@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediaplatformti-vpevpdma_priv.h_cfd_get_pkt_type.d/extr_linuxdriversmediaplatformti-vpevpdma_priv.h_cfd_get_pkt_type_O0::cfd_get_pkt_type(62)"
+  }
+]

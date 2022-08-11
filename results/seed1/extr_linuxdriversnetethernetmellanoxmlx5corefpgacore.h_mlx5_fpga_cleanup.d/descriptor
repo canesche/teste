@@ -1,2 +1,0 @@
-struct mlx5_core_dev | dummy int 
-function mlx5_fpga_cleanup void | mdev struct mlx5_core_dev *

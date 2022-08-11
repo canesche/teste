@@ -1,0 +1,5 @@
+struct pcidas64_private | ai_fifo_segment_length unsigned int 
+struct pcidas64_board | ai_fifo struct TYPE_2__ * 
+struct comedi_device | private struct pcidas64_private * | board_ptr struct pcidas64_board * 
+struct TYPE_2__ | sample_packing_ratio unsigned int 
+function dma_transfer_size unsigned int | dev struct comedi_device *

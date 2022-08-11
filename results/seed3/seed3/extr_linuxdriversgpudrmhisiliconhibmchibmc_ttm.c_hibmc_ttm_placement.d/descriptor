@@ -1,0 +1,4 @@
+struct TYPE_3__ | num_placement unsigned long | num_busy_placement unsigned long | busy_placement struct TYPE_4__ * | placement struct TYPE_4__ * 
+struct hibmc_bo | placements struct TYPE_4__ * | placement struct TYPE_3__ 
+struct TYPE_4__ | flags int | lpfn long | fpfn long 
+function hibmc_ttm_placement void | bo struct hibmc_bo * | domain int

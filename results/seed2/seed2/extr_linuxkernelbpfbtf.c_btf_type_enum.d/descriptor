@@ -1,0 +1,3 @@
+struct btf_type | dummy int 
+struct btf_enum | dummy int 
+function btf_type_enum const struct btf_enum * | t const struct btf_type *

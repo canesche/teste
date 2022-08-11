@@ -1,0 +1,4 @@
+struct TYPE_6__ | root struct TYPE_7__ * 
+struct TYPE_7__ | key unsigned long | greedy int | value void * | next struct TYPE_7__ ** | search_clue struct TYPE_7__ * 
+struct TYPE_8__ | len unsigned long | data unsigned long * 
+function ngx_trie_query void * | trie struct TYPE_6__ * | str struct TYPE_8__ * | version_pos unsigned long * | mode int

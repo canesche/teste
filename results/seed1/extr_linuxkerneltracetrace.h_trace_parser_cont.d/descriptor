@@ -1,2 +1,0 @@
-struct trace_parser | cont int 
-function trace_parser_cont int | parser struct trace_parser *

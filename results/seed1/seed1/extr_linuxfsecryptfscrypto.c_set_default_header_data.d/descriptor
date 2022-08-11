@@ -1,0 +1,2 @@
+struct ecryptfs_crypt_stat | metadata_size int 
+function set_default_header_data void | crypt_stat struct ecryptfs_crypt_stat *

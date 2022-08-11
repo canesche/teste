@@ -1,3 +1,0 @@
-struct device_driver | dummy int 
-struct device | type int * 
-function siox_match int | dev struct device * | drv struct device_driver *

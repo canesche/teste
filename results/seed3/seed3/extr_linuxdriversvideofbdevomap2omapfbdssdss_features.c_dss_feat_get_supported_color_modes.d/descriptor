@@ -1,0 +1,2 @@
+struct TYPE_2__ | supported_color_modes int * 
+function dss_feat_get_supported_color_modes enum omap_color_mode | plane enum omap_plane

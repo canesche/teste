@@ -1,0 +1,2 @@
+struct media_info | mi_status int 
+function media_active int | mi const struct media_info *

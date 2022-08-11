@@ -1,0 +1,2 @@
+struct vc_data | vc_intensity int | vc_def_color int | vc_color int | vc_blink long | vc_reverse long | vc_underline long | vc_italic long 
+function default_attr void | vc struct vc_data *

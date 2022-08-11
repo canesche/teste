@@ -1,6 +1,0 @@
-struct TYPE_4__ | dbid int | max_cnt int | max_wqe_idx int 
-struct TYPE_3__ | dbid int | max_cnt int | max_wqe_idx int 
-struct ocrdma_qp | id int | max_ird int | max_ord int | dpp_enabled int | rq struct TYPE_4__ | sq struct TYPE_3__ 
-struct ocrdma_create_qp_rsp | qp_id int | sq_rq_id int | max_ord_ird int | dpp_response int | max_wqe_rqe int 
-struct ib_qp_init_attr | srq int 
-function ocrdma_get_create_qp_rsp void | rsp struct ocrdma_create_qp_rsp * | qp struct ocrdma_qp * | attrs struct ib_qp_init_attr * | dpp_offset int * | dpp_credit_lmt int *

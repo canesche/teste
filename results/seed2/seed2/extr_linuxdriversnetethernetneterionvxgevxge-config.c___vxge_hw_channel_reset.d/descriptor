@@ -1,0 +1,2 @@
+struct __vxge_hw_channel | length unsigned long | free_ptr unsigned long | reserve_ptr unsigned long | compl_index long | post_index long | reserve_top long | work_arr int ** | free_arr int ** | orig_arr int * | reserve_arr int * 
+function __vxge_hw_channel_reset enum vxge_hw_status | channel struct __vxge_hw_channel *

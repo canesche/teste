@@ -1,2 +1,0 @@
-struct filter_type | event_id long 
-function filter_cmp int | a const void * | b const void *

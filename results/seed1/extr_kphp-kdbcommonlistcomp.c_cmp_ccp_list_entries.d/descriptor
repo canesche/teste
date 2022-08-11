@@ -1,2 +1,0 @@
-struct ccp_list_entry | freq long | leaf_value long 
-function cmp_ccp_list_entries int | a const void * | b const void *

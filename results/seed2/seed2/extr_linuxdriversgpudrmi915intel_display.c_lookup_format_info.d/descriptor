@@ -1,0 +1,2 @@
+struct drm_format_info | format long 
+function lookup_format_info const struct drm_format_info * | formats struct drm_format_info const[] | num_formats int | format long

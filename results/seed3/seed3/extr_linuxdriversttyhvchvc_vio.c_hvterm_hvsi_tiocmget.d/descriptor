@@ -1,0 +1,4 @@
+struct TYPE_2__ | mctrl int 
+struct hvterm_priv | hvsi struct TYPE_2__ 
+struct hvc_struct | vtermno unsigned long 
+function hvterm_hvsi_tiocmget int | hp struct hvc_struct *

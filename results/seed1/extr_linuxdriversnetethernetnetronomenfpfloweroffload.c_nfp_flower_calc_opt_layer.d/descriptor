@@ -1,3 +1,0 @@
-struct nfp_flower_geneve_options | dummy int 
-struct flow_dissector_key_enc_opts | len long 
-function nfp_flower_calc_opt_layer int | enc_opts struct flow_dissector_key_enc_opts * | key_layer_two int * | key_size int *

@@ -1,0 +1,3 @@
+struct curl_llist_element | next struct curl_llist_element * | prev struct curl_llist_element * | ptr void * 
+struct curl_llist | size long | tail struct curl_llist_element * | head struct curl_llist_element * 
+function Curl_llist_insert_next void | list struct curl_llist * | e struct curl_llist_element * | p const void * | ne struct curl_llist_element *

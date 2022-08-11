@@ -1,3 +1,0 @@
-struct fuse_dentry | time int 
-struct dentry | d_fsdata long 
-function fuse_dentry_time int | entry struct dentry *

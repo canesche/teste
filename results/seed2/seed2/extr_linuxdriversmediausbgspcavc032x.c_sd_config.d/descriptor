@@ -1,0 +1,4 @@
+struct usb_device_id | driver_info int | idVendor int | idProduct int 
+struct sd | bridge int | flags int | sensor int 
+struct gspca_dev | dummy int 
+function sd_config int | gspca_dev struct gspca_dev * | id const struct usb_device_id *

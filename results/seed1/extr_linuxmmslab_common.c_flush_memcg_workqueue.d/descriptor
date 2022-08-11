@@ -1,2 +1,0 @@
-struct kmem_cache | dummy int 
-function flush_memcg_workqueue void | s struct kmem_cache *

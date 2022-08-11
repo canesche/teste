@@ -1,0 +1,2 @@
+struct TYPE_3__ | nstates int | states int * 
+function fons__getState int * | stash struct TYPE_3__ *

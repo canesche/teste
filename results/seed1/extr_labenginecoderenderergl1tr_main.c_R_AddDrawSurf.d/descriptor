@@ -1,5 +1,0 @@
-struct TYPE_8__ | sortedIndex int 
-struct TYPE_7__ | numDrawSurfs int | drawSurfs struct TYPE_6__ * 
-struct TYPE_9__ | shiftedEntityNum int | refdef struct TYPE_7__ 
-struct TYPE_6__ | sort int | surface int * 
-function R_AddDrawSurf void | surface int * | shader struct TYPE_8__ * | fogIndex int | dlightMap int

@@ -1,0 +1,4 @@
+struct TYPE_4__ | line_length int | xpanstep int | visual int 
+struct TYPE_3__ | xres_virtual int | bits_per_pixel int 
+struct fb_info | fix struct TYPE_4__ | var struct TYPE_3__ 
+function savagefb_set_fix void | info struct fb_info *

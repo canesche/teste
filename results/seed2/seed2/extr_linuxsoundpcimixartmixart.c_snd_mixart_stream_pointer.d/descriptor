@@ -1,0 +1,4 @@
+struct snd_pcm_substream | runtime struct snd_pcm_runtime * 
+struct snd_pcm_runtime | period_size int | private_data struct mixart_stream * 
+struct mixart_stream | buf_periods int | buf_period_frag long 
+function snd_mixart_stream_pointer int | subs struct snd_pcm_substream *

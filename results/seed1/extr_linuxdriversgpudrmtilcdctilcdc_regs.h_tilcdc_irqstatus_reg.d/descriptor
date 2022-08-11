@@ -1,3 +1,0 @@
-struct tilcdc_drm_private | rev int 
-struct drm_device | dev_private struct tilcdc_drm_private * 
-function tilcdc_irqstatus_reg int | dev struct drm_device *

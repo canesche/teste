@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function rtl8139_get_sset_count int | dev struct net_device * | sset int

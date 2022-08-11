@@ -1,0 +1,4 @@
+struct TYPE_6__ | i_value long 
+struct TYPE_5__ | assembler struct TYPE_4__ * 
+struct TYPE_4__ | immdisp int 
+function cb_asm_armimm int | user void * | data void *

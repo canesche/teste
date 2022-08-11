@@ -1,2 +1,0 @@
-struct imx21 | dummy int 
-function debug_dmem_allocated void | imx21 struct imx21 * | size int

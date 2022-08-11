@@ -1,3 +1,0 @@
-struct spi_transfer | dummy int 
-struct mpc8xxx_spi | dummy int 
-function fsl_spi_cpm_bufs int | mspi struct mpc8xxx_spi * | t struct spi_transfer * | is_dma_mapped int

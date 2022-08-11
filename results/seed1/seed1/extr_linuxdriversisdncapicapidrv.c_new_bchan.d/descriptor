@@ -1,0 +1,3 @@
+struct TYPE_5__ | nbchan int | bchans struct TYPE_4__ * 
+struct TYPE_4__ | disconnecting long | plcip int * 
+function new_bchan int | card struct TYPE_5__ *

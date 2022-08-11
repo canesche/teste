@@ -1,3 +1,0 @@
-struct thermal_zone_device | devdata struct acpi_thermal * 
-struct acpi_thermal | tz_enabled long 
-function thermal_get_mode int | thermal struct thermal_zone_device * | mode enum thermal_device_mode *

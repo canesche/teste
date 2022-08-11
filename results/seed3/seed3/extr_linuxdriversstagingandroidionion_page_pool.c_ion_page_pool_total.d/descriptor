@@ -1,0 +1,2 @@
+struct ion_page_pool | low_count int | order int | high_count long 
+function ion_page_pool_total int | pool struct ion_page_pool * | high int

@@ -1,2 +1,0 @@
-struct connection | dummy int 
-function hts_init_accepted int | c struct connection *

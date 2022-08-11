@@ -1,0 +1,2 @@
+struct qman_fq | dummy int 
+function fq_to_tag int | fq struct qman_fq *

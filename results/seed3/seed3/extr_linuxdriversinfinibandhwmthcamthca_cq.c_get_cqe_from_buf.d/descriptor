@@ -1,0 +1,6 @@
+struct mthca_cqe | dummy int 
+struct TYPE_4__ | buf struct mthca_cqe * 
+struct TYPE_6__ | page_list struct TYPE_5__ * | direct struct TYPE_4__ 
+struct mthca_cq_buf | queue struct TYPE_6__ | is_direct long 
+struct TYPE_5__ | buf struct mthca_cqe * 
+function get_cqe_from_buf struct mthca_cqe * | buf struct mthca_cq_buf * | entry int

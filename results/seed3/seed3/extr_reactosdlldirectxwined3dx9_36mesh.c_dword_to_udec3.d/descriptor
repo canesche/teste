@@ -1,0 +1,2 @@
+struct udec3 | x int | y int | z int | w int 
+function dword_to_udec3 struct udec3 | d int

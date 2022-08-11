@@ -1,5 +1,0 @@
-struct TYPE_4__ | guest_debug int 
-struct vcpu_svm | nmi_singlestep int | nmi_singlestep_guest_rflags int | vmcb struct TYPE_5__ * | vcpu struct TYPE_4__ 
-struct TYPE_6__ | rflags int 
-struct TYPE_5__ | save struct TYPE_6__ 
-function disable_nmi_singlestep void | svm struct vcpu_svm *

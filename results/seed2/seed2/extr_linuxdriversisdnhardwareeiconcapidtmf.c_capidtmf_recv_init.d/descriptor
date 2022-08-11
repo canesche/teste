@@ -1,0 +1,3 @@
+struct TYPE_4__ | min_gap_duration int | min_digit_duration int | state int | indication_state_ack long | indication_state long | digit_read_pos long | digit_write_pos long | current_digit_value int | current_digit_off_time long | current_digit_on_time long | cycle_counter long 
+struct TYPE_5__ | recv struct TYPE_4__ 
+function capidtmf_recv_init void | p_state struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct resource | flags int | end void * | start void * 
+function acpi_dev_irqresource_disabled void | res struct resource * | gsi void *

@@ -1,2 +1,0 @@
-struct intel_engine_cs | flags int 
-function intel_engine_needs_cmd_parser int | engine const struct intel_engine_cs *

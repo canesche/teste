@@ -1,2 +1,0 @@
-struct bcm2835_chan | is_lite_channel long 
-function bcm2835_dma_max_frame_length unsigned long | c struct bcm2835_chan *

@@ -1,2 +1,0 @@
-struct nft_quota | flags int 
-function nft_quota_invert int | priv struct nft_quota *

@@ -1,0 +1,2 @@
+struct graph_symbol | continued_right long | parent_right long | parent_down int | continued_down long 
+function graph_symbol_merge int | symbol const struct graph_symbol *

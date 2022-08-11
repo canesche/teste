@@ -1,2 +1,0 @@
-struct rds_conn_path | dummy int 
-function rds_loop_conn_path_shutdown void | cp struct rds_conn_path *

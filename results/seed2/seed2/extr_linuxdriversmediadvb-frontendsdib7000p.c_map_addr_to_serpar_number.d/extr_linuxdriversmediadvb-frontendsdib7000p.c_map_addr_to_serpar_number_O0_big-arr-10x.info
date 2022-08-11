@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediadvb-frontendsdib7000p.c_map_addr_to_serpar_number.d/extr_linuxdriversmediadvb-frontendsdib7000p.c_map_addr_to_serpar_number_O0::map_addr_to_serpar_number(62)"
+  }
+]

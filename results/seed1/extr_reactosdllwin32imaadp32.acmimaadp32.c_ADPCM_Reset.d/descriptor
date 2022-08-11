@@ -1,2 +1,0 @@
-struct TYPE_3__ | stepIndexR long | stepIndexL long 
-function ADPCM_Reset void | adsi int | aad struct TYPE_3__ *

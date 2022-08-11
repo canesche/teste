@@ -1,3 +1,0 @@
-struct b43legacy_wldev | dummy int 
-struct b43legacy_txstatus | dummy int 
-function b43legacy_dma_handle_txstatus void | dev struct b43legacy_wldev * | status const struct b43legacy_txstatus *

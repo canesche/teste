@@ -1,0 +1,3 @@
+struct TYPE_4__ | vertexes struct TYPE_3__ * 
+struct TYPE_3__ | v float * 
+function TH_OutsideBoundingBox int | v1 int | v2 int | mins float * | maxs float *

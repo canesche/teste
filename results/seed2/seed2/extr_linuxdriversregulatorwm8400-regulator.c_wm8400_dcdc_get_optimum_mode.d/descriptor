@@ -1,0 +1,2 @@
+struct regulator_dev | dummy int 
+function wm8400_dcdc_get_optimum_mode unsigned int | dev struct regulator_dev * | input_uV int | output_uV int | load_uA int

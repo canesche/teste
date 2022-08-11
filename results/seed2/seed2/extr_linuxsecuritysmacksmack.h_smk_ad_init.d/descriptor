@@ -1,0 +1,2 @@
+struct smk_audit_info | dummy int 
+function smk_ad_init void | a struct smk_audit_info * | func const char * | type char

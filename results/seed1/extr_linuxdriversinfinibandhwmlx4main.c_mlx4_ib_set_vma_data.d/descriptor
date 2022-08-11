@@ -1,3 +1,0 @@
-struct vm_area_struct | vm_ops int * | vm_private_data struct mlx4_ib_vma_private_data * 
-struct mlx4_ib_vma_private_data | vma struct vm_area_struct * 
-function mlx4_ib_set_vma_data void | vma struct vm_area_struct * | vma_private_data struct mlx4_ib_vma_private_data *

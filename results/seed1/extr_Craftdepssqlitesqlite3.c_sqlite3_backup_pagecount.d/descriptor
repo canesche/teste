@@ -1,2 +1,0 @@
-struct TYPE_3__ | nPagecount int 
-function sqlite3_backup_pagecount int | p struct TYPE_3__ *

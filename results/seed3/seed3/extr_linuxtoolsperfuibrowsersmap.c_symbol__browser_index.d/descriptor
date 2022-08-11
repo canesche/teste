@@ -1,0 +1,3 @@
+struct symbol | dummy int 
+struct rb_node | dummy int 
+function symbol__browser_index void * | browser struct symbol *

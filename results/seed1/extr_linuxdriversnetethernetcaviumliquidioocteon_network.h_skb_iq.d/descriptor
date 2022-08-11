@@ -1,3 +1,0 @@
-struct sk_buff | queue_mapping int 
-struct octeon_device | num_iqs int 
-function skb_iq int | oct struct octeon_device * | skb struct sk_buff *

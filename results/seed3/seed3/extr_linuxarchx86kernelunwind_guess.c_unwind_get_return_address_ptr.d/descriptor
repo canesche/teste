@@ -1,0 +1,2 @@
+struct unwind_state | dummy int 
+function unwind_get_return_address_ptr unsigned long * | state struct unwind_state *

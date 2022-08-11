@@ -1,0 +1,1 @@
+function gss_inquire_context int | min int * | context_handle int | src_name int * | targ_name int * | lifetime_rec int * | mech_type int * | ctx_flags int * | locally_initiated int * | open_context int *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | lane_rx int | lane_tx int | hs_rate long | pwr_tx void * | pwr_rx void * | gear_tx void * | gear_rx void * 
+struct ufs_hba | pwr_info struct TYPE_2__ 
+function ufshcd_init_pwr_info void | hba struct ufs_hba *

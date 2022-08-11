@@ -1,0 +1,2 @@
+struct mtd_info | dummy int 
+function map_absent_read int | mtd struct mtd_info * | from int | len unsigned long | retlen unsigned long * | buf int *

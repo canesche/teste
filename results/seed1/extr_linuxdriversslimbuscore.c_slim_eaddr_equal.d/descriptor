@@ -1,2 +1,0 @@
-struct slim_eaddr | manf_id long | prod_code long | dev_index long | instance long 
-function slim_eaddr_equal int | a struct slim_eaddr * | b struct slim_eaddr *

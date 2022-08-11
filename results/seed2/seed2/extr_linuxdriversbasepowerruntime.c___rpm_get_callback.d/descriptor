@@ -1,0 +1,8 @@
+struct device | driver struct TYPE_10__ * | bus struct TYPE_9__ * | class struct TYPE_8__ * | type struct TYPE_7__ * | pm_domain struct TYPE_6__ * 
+struct dev_pm_ops | dummy int 
+struct TYPE_10__ | pm long 
+struct TYPE_9__ | pm struct dev_pm_ops * 
+struct TYPE_8__ | pm struct dev_pm_ops * 
+struct TYPE_7__ | pm struct dev_pm_ops * 
+struct TYPE_6__ | ops struct dev_pm_ops 
+function __rpm_get_callback int * | dev struct device * | cb_offset unsigned long

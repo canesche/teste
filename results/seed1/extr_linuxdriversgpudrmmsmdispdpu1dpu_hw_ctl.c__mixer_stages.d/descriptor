@@ -1,3 +1,0 @@
-struct dpu_lm_cfg | id int | sblk struct TYPE_2__ * 
-struct TYPE_2__ | maxblendstages int 
-function _mixer_stages int | mixer const struct dpu_lm_cfg * | count int | lm enum dpu_lm

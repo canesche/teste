@@ -1,0 +1,3 @@
+struct TYPE_5__ | num_sections int | sections struct TYPE_4__ * 
+struct TYPE_4__ | vaddr long | vsize int | paddr long 
+function bin_pe_rva_to_paddr long | bin struct TYPE_5__ * | rva long

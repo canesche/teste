@@ -1,0 +1,3 @@
+struct mlx5_eswitch_rep | rep_if struct TYPE_2__ * 
+struct TYPE_2__ | priv int * 
+function mlx5_ib_nic_rep_unload void | rep struct mlx5_eswitch_rep *

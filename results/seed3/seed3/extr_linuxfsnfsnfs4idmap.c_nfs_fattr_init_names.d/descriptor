@@ -1,0 +1,3 @@
+struct nfs_fattr | group_name struct nfs4_string * | owner_name struct nfs4_string * 
+struct nfs4_string | dummy int 
+function nfs_fattr_init_names void | fattr struct nfs_fattr * | owner_name struct nfs4_string * | group_name struct nfs4_string *

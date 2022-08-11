@@ -1,2 +1,0 @@
-struct hdmi_wp_data | phys_base long 
-function hdmi_wp_get_audio_dma_addr long | wp struct hdmi_wp_data *

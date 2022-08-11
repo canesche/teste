@@ -1,0 +1,6 @@
+struct TYPE_8__ | integer long | decimal long 
+struct TYPE_7__ | integer long | decimal long 
+struct TYPE_6__ | integer long | decimal long 
+struct TYPE_5__ | integer long | decimal long 
+struct vpfe_ipipe_wb | ofst_r long | ofst_gr long | ofst_gb long | ofst_b long | gain_b struct TYPE_8__ | gain_gb struct TYPE_7__ | gain_gr struct TYPE_6__ | gain_r struct TYPE_5__ 
+function ipipe_validate_wb_params int | wbal struct vpfe_ipipe_wb *

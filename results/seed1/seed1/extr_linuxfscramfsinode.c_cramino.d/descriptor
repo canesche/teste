@@ -1,0 +1,2 @@
+struct cramfs_inode | offset int | mode int | size int 
+function cramino unsigned long | cino const struct cramfs_inode * | offset unsigned int

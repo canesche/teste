@@ -1,0 +1,3 @@
+struct m_config_option | name const char * | is_hidden int 
+struct m_config | num_opts int | opts struct m_config_option * 
+function m_config_get_positional_option const char * | config const struct m_config * | p int

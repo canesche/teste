@@ -1,2 +1,0 @@
-struct alarm | dummy int 
-function cm_timer_func enum alarmtimer_restart | alarm struct alarm * | now int

@@ -1,3 +1,0 @@
-struct list_head | dummy int 
-struct inode | dummy int 
-function ceph_fscache_readpages_cancel void | inode struct inode * | pages struct list_head *

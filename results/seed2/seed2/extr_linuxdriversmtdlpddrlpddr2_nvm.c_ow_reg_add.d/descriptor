@@ -1,0 +1,3 @@
+struct pcm_int_data | bus_width int 
+struct map_info | pfow_base int | fldrv_priv struct pcm_int_data * 
+function ow_reg_add int | map struct map_info * | offset int

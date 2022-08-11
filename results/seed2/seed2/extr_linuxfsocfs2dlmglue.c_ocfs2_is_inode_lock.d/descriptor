@@ -1,0 +1,2 @@
+struct ocfs2_lock_res | l_type long 
+function ocfs2_is_inode_lock int | lockres struct ocfs2_lock_res *

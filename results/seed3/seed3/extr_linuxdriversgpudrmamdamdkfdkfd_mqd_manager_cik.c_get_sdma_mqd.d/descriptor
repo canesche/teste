@@ -1,0 +1,2 @@
+struct cik_sdma_rlc_registers | dummy int 
+function get_sdma_mqd struct cik_sdma_rlc_registers * | mqd void *

@@ -1,0 +1,1 @@
+function copy_char_to_wchar_sz void | src const long * | len int | dst long *

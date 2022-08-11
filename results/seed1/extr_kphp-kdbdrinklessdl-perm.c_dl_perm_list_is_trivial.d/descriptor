@@ -1,3 +1,0 @@
-struct TYPE_5__ | n long | len long | v struct TYPE_4__ * 
-struct TYPE_4__ | r struct TYPE_4__ * 
-function dl_perm_list_is_trivial int | p struct TYPE_5__ *

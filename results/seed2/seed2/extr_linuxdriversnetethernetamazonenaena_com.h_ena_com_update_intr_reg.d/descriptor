@@ -1,0 +1,2 @@
+struct ena_eth_io_intr_reg | intr_control int 
+function ena_com_update_intr_reg void | intr_reg struct ena_eth_io_intr_reg * | rx_delay_interval int | tx_delay_interval int | unmask int

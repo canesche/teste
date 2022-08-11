@@ -1,0 +1,3 @@
+struct net_device | ethtool_ops const struct ethtool_ops * 
+struct ethtool_ops | dummy int 
+function netdev_set_default_ethtool_ops void | dev struct net_device * | ops const struct ethtool_ops *

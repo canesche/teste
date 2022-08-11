@@ -1,0 +1,2 @@
+struct pci_dev | mmio_always_on int 
+function quirk_mmio_always_on void | dev struct pci_dev *

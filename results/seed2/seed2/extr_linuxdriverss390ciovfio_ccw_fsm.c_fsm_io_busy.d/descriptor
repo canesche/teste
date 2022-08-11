@@ -1,0 +1,3 @@
+struct vfio_ccw_private | io_region struct TYPE_2__ * 
+struct TYPE_2__ | ret_code int 
+function fsm_io_busy void | private struct vfio_ccw_private * | event enum vfio_ccw_event

@@ -1,2 +1,0 @@
-struct kbuffer | size int 
-function kbuffer_subbuffer_size int | kbuf struct kbuffer *

@@ -1,2 +1,0 @@
-struct extent_map | start long | len long 
-function extent_map_end long | em struct extent_map *

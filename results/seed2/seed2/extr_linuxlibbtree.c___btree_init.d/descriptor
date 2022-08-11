@@ -1,0 +1,2 @@
+struct btree_head | height long | node int * 
+function __btree_init void | head struct btree_head *

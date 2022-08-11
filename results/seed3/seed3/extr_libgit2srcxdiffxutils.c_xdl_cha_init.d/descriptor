@@ -1,0 +1,2 @@
+struct TYPE_3__ | isize long | nsize long | scurr long | sncur int * | ancur int | tail int * | head int 
+function xdl_cha_init int | cha struct TYPE_3__ * | isize long | icount long

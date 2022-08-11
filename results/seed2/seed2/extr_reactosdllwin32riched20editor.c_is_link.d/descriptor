@@ -1,0 +1,4 @@
+struct TYPE_7__ | style struct TYPE_6__ * 
+struct TYPE_5__ | dwMask int | dwEffects int 
+struct TYPE_6__ | fmt struct TYPE_5__ 
+function is_link int | run struct TYPE_7__ *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | nwin int | win struct TYPE_4__ * 
+struct TYPE_4__ | len int | card_addr int | host_addr int 
+function parse_mem int * | p int * | q int * | mem struct TYPE_5__ *

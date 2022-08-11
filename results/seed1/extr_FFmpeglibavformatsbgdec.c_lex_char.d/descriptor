@@ -1,2 +1,0 @@
-struct sbg_parser | cursor char * | end char * 
-function lex_char int | p struct sbg_parser * | c char

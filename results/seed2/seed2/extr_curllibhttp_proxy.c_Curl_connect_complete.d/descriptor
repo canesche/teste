@@ -1,0 +1,3 @@
+struct connectdata | connect_state struct TYPE_2__ * 
+struct TYPE_2__ | tunnel_state long 
+function Curl_connect_complete int | conn struct connectdata *

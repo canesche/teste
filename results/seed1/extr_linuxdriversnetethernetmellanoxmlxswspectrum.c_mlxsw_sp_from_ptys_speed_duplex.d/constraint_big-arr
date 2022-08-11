@@ -1,1 +1,0 @@
-value(carrier_ok) == 255, value(ptys_eth_proto) == 255, length(cmd) == 65025

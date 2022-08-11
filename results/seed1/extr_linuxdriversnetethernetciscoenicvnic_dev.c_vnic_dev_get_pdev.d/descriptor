@@ -1,3 +1,0 @@
-struct vnic_dev | pdev struct pci_dev * 
-struct pci_dev | dummy int 
-function vnic_dev_get_pdev struct pci_dev * | vdev struct vnic_dev *

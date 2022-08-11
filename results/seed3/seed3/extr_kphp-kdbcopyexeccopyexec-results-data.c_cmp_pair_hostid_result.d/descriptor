@@ -1,0 +1,2 @@
+struct pair_hostid_result | result long 
+function cmp_pair_hostid_result int | a const void * | b const void *

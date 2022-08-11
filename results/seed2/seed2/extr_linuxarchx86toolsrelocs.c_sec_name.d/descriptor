@@ -1,0 +1,4 @@
+struct TYPE_6__ | e_shstrndx unsigned long | e_shnum unsigned int 
+struct TYPE_4__ | sh_name int 
+struct TYPE_5__ | strtab char * | shdr struct TYPE_4__ 
+function sec_name const char * | shndx unsigned int

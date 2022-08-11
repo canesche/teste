@@ -1,2 +1,0 @@
-struct TYPE_3__ | disconnect_callback int 
-function RM_SetDisconnectCallback void | bc struct TYPE_3__ * | callback int

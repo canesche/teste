@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxnetllcllc_c_ac.c_llc_conn_disc.d/extr_linuxnetllcllc_c_ac.c_llc_conn_disc_O0::llc_conn_disc(62)"
+  }
+]

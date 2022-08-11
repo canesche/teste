@@ -1,0 +1,2 @@
+struct TYPE_3__ | normal long * | signbits int 
+function SetPlaneSignbits void | out struct TYPE_3__ *

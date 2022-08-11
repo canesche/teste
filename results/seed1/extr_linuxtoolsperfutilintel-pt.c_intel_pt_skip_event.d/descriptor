@@ -1,3 +1,0 @@
-struct TYPE_2__ | initial_skip long 
-struct intel_pt | synth_opts struct TYPE_2__ | num_events int 
-function intel_pt_skip_event int | pt struct intel_pt *

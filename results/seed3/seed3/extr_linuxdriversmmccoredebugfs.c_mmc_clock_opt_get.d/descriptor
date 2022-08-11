@@ -1,0 +1,3 @@
+struct TYPE_2__ | clock int 
+struct mmc_host | ios struct TYPE_2__ 
+function mmc_clock_opt_get int | data void * | val int *

@@ -1,0 +1,3 @@
+struct radeon_device | dummy int 
+struct atom_voltage_table | count unsigned int | entries int * 
+function si_trim_voltage_table_to_fit_state_table void | rdev struct radeon_device * | max_voltage_steps unsigned int | voltage_table struct atom_voltage_table *

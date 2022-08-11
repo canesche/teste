@@ -1,0 +1,3 @@
+struct TYPE_5__ | opaque long 
+struct TYPE_4__ | android_media_format int * 
+function getAndroidMediaFormat int * | env int * | thiz const struct TYPE_5__ *

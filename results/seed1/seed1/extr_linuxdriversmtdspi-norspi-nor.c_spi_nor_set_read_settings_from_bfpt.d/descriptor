@@ -1,0 +1,2 @@
+struct spi_nor_read_command | num_mode_clocks int | num_wait_states int | opcode int | proto int 
+function spi_nor_set_read_settings_from_bfpt void | read struct spi_nor_read_command * | half int | proto enum spi_nor_protocol

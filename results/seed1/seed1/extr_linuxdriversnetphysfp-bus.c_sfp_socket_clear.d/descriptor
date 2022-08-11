@@ -1,0 +1,2 @@
+struct sfp_bus | socket_ops int * | sfp int * | sfp_dev int * 
+function sfp_socket_clear void | bus struct sfp_bus *

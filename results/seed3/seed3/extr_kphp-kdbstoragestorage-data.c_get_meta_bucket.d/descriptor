@@ -1,0 +1,2 @@
+struct TYPE_3__ | size long 
+function get_meta_bucket int | meta struct TYPE_3__ *

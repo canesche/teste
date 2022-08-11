@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct dentry | dummy int 
+function ceph_acl_chmod int | dentry struct dentry * | inode struct inode *

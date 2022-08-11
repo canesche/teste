@@ -1,0 +1,3 @@
+struct TYPE_2__ | num_crtc int 
+struct amdgpu_device | mode_info struct TYPE_2__ 
+function amdgpu_display_crtc_idx_to_irq_type int | adev struct amdgpu_device * | crtc int

@@ -1,4 +1,0 @@
-struct TYPE_4__ | xmlvmExceptionEnv_ int 
-struct TYPE_5__ | java_lang_Thread struct TYPE_4__ 
-struct TYPE_6__ | fields struct TYPE_5__ 
-function java_lang_Thread_initMainThread__ void | me long

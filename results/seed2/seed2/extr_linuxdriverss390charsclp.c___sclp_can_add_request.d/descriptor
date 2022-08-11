@@ -1,0 +1,2 @@
+struct sclp_req | dummy int 
+function __sclp_can_add_request int | req struct sclp_req *

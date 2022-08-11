@@ -1,0 +1,3 @@
+struct TYPE_5__ | v4_codebook int * 
+struct TYPE_6__ | pix_fmt long 
+function decode_v4_vector void | s struct TYPE_6__ * | data int *[4] | linesize int [4] | v4_vector int * | info struct TYPE_5__ *

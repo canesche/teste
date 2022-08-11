@@ -1,2 +1,0 @@
-struct choke_sched_data | tail unsigned long | tab_mask int | head int | tab int ** 
-function choke_zap_tail_holes void | q struct choke_sched_data *

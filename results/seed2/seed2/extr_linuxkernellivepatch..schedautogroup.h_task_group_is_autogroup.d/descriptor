@@ -1,0 +1,2 @@
+struct task_group | dummy int 
+function task_group_is_autogroup int | tg struct task_group *

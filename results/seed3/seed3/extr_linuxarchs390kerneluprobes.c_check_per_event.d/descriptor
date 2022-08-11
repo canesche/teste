@@ -1,0 +1,6 @@
+struct TYPE_7__ | mask int | addr long 
+struct pt_regs | psw struct TYPE_7__ 
+struct TYPE_5__ | start long | end long 
+struct TYPE_6__ | per_user struct TYPE_5__ 
+struct TYPE_8__ | thread struct TYPE_6__ 
+function check_per_event int | cause unsigned short | control unsigned long | regs struct pt_regs *

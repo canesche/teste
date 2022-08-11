@@ -1,2 +1,0 @@
-struct snd_ps3_card_info | dma_start_bus_addr int * | dma_start_vaddr void ** 
-function v_to_bus int | card struct snd_ps3_card_info * | paddr void * | ch int

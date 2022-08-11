@@ -1,0 +1,2 @@
+struct TYPE_3__ | dct_count int * | dct_error_sum int ** | dct_offset int ** | noise_reduction int 
+function update_noise_reduction void | s struct TYPE_3__ *

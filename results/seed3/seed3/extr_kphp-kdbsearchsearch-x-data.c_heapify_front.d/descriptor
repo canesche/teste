@@ -1,0 +1,4 @@
+struct item_with_rating | V long | I int 
+struct TYPE_4__ | h struct TYPE_3__ * 
+struct TYPE_3__ | value int 
+function heapify_front void | E struct item_with_rating * | i int | slot int

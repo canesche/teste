@@ -1,2 +1,0 @@
-struct ucc_geth_private | dummy int 
-function ugeth_dump_regs void | ugeth struct ucc_geth_private *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmamddisplaydccoredc_link_ddc.c_dal_ddc_service_is_in_aux_transaction_mode.d/extr_linuxdriversgpudrmamddisplaydccoredc_link_ddc.c_dal_ddc_service_is_in_aux_transaction_mode_O0::dal_ddc_service_is_in_aux_transaction_mode(64)"
+  }
+]

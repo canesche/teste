@@ -1,0 +1,2 @@
+struct pci_host_bridge | release_fn void (*)(struct pci_host_bridge *) | release_data void * 
+function pci_set_host_bridge_release void | bridge struct pci_host_bridge * | release_fn void (*)(struct pci_host_bridge *) | release_data void *

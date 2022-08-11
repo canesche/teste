@@ -1,0 +1,2 @@
+struct mmc_data | blksz int | blocks int 
+function cb710_is_transfer_size_supported int | data struct mmc_data *

@@ -1,0 +1,4 @@
+struct TYPE_8__ | len long | tail struct TYPE_7__ * | head struct TYPE_6__ * 
+struct TYPE_7__ | next struct TYPE_6__ * 
+struct TYPE_6__ | prev struct TYPE_7__ * 
+function listJoin void | l struct TYPE_8__ * | o struct TYPE_8__ *

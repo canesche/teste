@@ -1,2 +1,0 @@
-struct device | dummy int 
-function pcm512x_readable int | dev struct device * | reg unsigned int

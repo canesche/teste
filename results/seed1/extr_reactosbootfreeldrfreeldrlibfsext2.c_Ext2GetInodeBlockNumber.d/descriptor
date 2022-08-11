@@ -1,2 +1,0 @@
-struct TYPE_2__ | inodes_per_group int 
-function Ext2GetInodeBlockNumber int | Inode int

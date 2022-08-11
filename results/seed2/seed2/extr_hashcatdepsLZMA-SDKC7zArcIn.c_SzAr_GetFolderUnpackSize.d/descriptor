@@ -1,0 +1,2 @@
+struct TYPE_3__ | FoToCoderUnpackSizes unsigned long * | FoToMainUnpackSizeIndex unsigned long * | CoderUnpackSizes int * 
+function SzAr_GetFolderUnpackSize int | p const struct TYPE_3__ * | folderIndex unsigned long

@@ -1,0 +1,2 @@
+struct bnx2x | base_fw_ndsb int 
+function bnx2x_cnic_fw_sb_id int | bp struct bnx2x *

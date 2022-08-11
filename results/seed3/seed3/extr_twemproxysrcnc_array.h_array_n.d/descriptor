@@ -1,0 +1,2 @@
+struct array | nelem int 
+function array_n int | a const struct array *

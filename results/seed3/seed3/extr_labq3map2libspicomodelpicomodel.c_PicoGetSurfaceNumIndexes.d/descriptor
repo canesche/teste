@@ -1,0 +1,2 @@
+struct TYPE_3__ | numIndexes int 
+function PicoGetSurfaceNumIndexes int | surface struct TYPE_3__ *

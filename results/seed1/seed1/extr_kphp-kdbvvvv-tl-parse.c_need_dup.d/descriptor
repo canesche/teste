@@ -1,0 +1,2 @@
+struct tl_act_extra | flags int 
+function need_dup int | extra struct tl_act_extra *

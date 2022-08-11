@@ -1,2 +1,0 @@
-struct cifs_dirent | name char * | namelen int 
-function cifs_entry_is_dot int | de struct cifs_dirent * | is_unicode int

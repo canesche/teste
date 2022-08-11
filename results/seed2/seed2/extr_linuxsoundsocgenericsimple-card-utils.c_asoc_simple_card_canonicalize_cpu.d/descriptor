@@ -1,0 +1,2 @@
+struct snd_soc_dai_link | cpu_dai_name int * 
+function asoc_simple_card_canonicalize_cpu void | dai_link struct snd_soc_dai_link * | is_single_links int

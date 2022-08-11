@@ -1,0 +1,2 @@
+struct zs_pool | dummy int 
+function kick_deferred_free void | pool struct zs_pool *

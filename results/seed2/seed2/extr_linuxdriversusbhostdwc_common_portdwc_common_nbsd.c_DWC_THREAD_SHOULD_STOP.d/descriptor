@@ -1,0 +1,2 @@
+struct TYPE_3__ | abort int 
+function DWC_THREAD_SHOULD_STOP int | thread struct TYPE_3__ *

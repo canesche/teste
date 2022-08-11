@@ -1,2 +1,0 @@
-struct gelic_wl_scan_info | dummy int 
-function update_best void | best struct gelic_wl_scan_info ** | candid struct gelic_wl_scan_info * | best_weight int * | weight int *

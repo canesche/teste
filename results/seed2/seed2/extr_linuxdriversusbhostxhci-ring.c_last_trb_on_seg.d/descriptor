@@ -1,0 +1,3 @@
+struct xhci_trb | dummy int 
+struct xhci_segment | trbs union xhci_trb * 
+function last_trb_on_seg int | seg struct xhci_segment * | trb union xhci_trb *

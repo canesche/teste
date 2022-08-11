@@ -1,0 +1,1 @@
+function isoc_read_data int | page char * | start char ** | off int | count int | eof int * | data void *

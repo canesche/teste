@@ -1,0 +1,3 @@
+struct handler_common_data | handler void (*)(void *) | dm struct amdgpu_display_manager * | handler_arg void * 
+struct amdgpu_display_manager | dummy int 
+function init_handler_common_data void | hcd struct handler_common_data * | ih void (*)(void *) | args void * | dm struct amdgpu_display_manager *

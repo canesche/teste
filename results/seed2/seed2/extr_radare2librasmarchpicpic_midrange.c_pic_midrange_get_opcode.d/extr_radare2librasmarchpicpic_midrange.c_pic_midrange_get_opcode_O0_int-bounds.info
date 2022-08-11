@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 20,
+    phantoms: 15,
+    exit: true,
+    halt: false,
+    edges: 36,
+    static: {
+      instructions: 82,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 82,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_radare2librasmarchpicpic_midrange.c_pic_midrange_get_opcode.d/extr_radare2librasmarchpicpic_midrange.c_pic_midrange_get_opcode_O0::pic_midrange_get_opcode(114)"
+  }
+]

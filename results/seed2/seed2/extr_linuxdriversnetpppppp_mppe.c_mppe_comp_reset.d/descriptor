@@ -1,0 +1,2 @@
+struct ppp_mppe_state | bits int 
+function mppe_comp_reset void | arg void *

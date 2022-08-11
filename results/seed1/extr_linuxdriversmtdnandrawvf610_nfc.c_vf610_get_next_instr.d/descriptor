@@ -1,3 +1,0 @@
-struct nand_subop | ninstrs int | instrs const struct nand_op_instr * 
-struct nand_op_instr | dummy int 
-function vf610_get_next_instr const struct nand_op_instr * | subop const struct nand_subop * | op_id int *

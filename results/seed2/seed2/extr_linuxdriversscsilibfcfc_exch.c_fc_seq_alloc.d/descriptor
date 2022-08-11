@@ -1,0 +1,3 @@
+struct fc_seq | id int | cnt long | ssb_stat long 
+struct fc_exch | seq struct fc_seq 
+function fc_seq_alloc struct fc_seq * | ep struct fc_exch * | seq_id int

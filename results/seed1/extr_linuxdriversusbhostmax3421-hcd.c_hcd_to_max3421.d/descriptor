@@ -1,3 +1,0 @@
-struct usb_hcd | hcd_priv long 
-struct max3421_hcd | dummy int 
-function hcd_to_max3421 struct max3421_hcd * | hcd struct usb_hcd *

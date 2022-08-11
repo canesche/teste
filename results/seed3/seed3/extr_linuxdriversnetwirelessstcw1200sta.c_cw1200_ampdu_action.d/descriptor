@@ -1,0 +1,4 @@
+struct ieee80211_vif | dummy int 
+struct ieee80211_hw | dummy int 
+struct ieee80211_ampdu_params | dummy int 
+function cw1200_ampdu_action int | hw struct ieee80211_hw * | vif struct ieee80211_vif * | params struct ieee80211_ampdu_params *

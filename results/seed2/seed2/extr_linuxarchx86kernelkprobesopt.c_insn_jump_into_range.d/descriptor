@@ -1,0 +1,4 @@
+struct TYPE_3__ | value unsigned long 
+struct TYPE_4__ | bytes int * 
+struct insn | immediate struct TYPE_3__ | next_byte long | opcode struct TYPE_4__ 
+function insn_jump_into_range int | insn struct insn * | start unsigned long | len int

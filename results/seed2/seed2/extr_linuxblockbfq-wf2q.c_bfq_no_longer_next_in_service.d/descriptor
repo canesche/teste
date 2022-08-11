@@ -1,0 +1,2 @@
+struct bfq_entity | dummy int 
+function bfq_no_longer_next_in_service int | entity struct bfq_entity *

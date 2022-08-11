@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_darknetsrcdata.h_distance_from_edge.d/extr_darknetsrcdata.h_distance_from_edge_O0::distance_from_edge(60)"
+  }
+]

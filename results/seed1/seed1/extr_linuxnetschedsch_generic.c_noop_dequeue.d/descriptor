@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct Qdisc | dummy int 
+function noop_dequeue struct sk_buff * | qdisc struct Qdisc *

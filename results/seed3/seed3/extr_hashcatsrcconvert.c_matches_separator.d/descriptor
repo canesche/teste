@@ -1,0 +1,1 @@
+function matches_separator int | buf const long * | len const unsigned long | separator const char

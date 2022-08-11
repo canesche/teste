@@ -1,2 +1,0 @@
-struct tipc_name_seq | lower long | upper long 
-function tipc_sub_check_overlap int | seq struct tipc_name_seq * | found_lower long | found_upper long

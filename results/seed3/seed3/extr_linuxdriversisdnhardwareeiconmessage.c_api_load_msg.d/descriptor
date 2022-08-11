@@ -1,0 +1,4 @@
+struct TYPE_8__ | length int | info long 
+struct TYPE_7__ | parms struct TYPE_6__ * 
+struct TYPE_6__ | length int | info long 
+function api_load_msg void | in struct TYPE_7__ * | out struct TYPE_8__ *

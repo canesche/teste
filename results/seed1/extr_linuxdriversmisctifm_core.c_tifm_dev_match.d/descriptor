@@ -1,3 +1,0 @@
-struct tifm_device_id | type long 
-struct tifm_dev | type long 
-function tifm_dev_match int | sock struct tifm_dev * | id struct tifm_device_id *

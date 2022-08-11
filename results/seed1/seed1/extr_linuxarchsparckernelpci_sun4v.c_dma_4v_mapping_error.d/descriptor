@@ -1,0 +1,2 @@
+struct device | dummy int 
+function dma_4v_mapping_error int | dev struct device * | dma_addr long

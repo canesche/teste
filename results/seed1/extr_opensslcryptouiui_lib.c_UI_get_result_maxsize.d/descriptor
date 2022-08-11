@@ -1,4 +1,0 @@
-struct TYPE_5__ | result_maxsize int 
-struct TYPE_6__ | string_data struct TYPE_5__ 
-struct TYPE_7__ | type int | _ struct TYPE_6__ 
-function UI_get_result_maxsize int | uis struct TYPE_7__ *

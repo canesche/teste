@@ -1,0 +1,4 @@
+struct i40iw_sc_dev | vf_dev struct TYPE_2__ ** 
+struct i40iw_hmc_info | dummy int 
+struct TYPE_2__ | hmc_info struct i40iw_hmc_info | pmf_index long 
+function i40iw_vf_hmcinfo_from_fpm struct i40iw_hmc_info * | dev struct i40iw_sc_dev * | hmc_fn_id long

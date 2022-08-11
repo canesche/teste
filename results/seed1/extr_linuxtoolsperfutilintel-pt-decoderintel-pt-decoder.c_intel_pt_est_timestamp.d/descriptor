@@ -1,2 +1,0 @@
-struct intel_pt_decoder | sample_insn_cnt int | cbr int | max_non_turbo_ratio int | sample_timestamp int 
-function intel_pt_est_timestamp int | decoder struct intel_pt_decoder *

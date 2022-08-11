@@ -1,2 +1,0 @@
-struct super_block | dummy int 
-function bfs_dump_imap void | prefix const char * | s struct super_block *

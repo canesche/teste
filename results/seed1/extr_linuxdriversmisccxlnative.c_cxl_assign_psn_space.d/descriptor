@@ -1,5 +1,0 @@
-struct cxl_context | psn_size int | pe int | afu struct TYPE_6__ * | psn_phys long | master long 
-struct TYPE_6__ | pp_size int | native struct TYPE_5__ * | psn_phys long | adapter struct TYPE_4__ * 
-struct TYPE_5__ | pp_offset long 
-struct TYPE_4__ | ps_size int 
-function cxl_assign_psn_space void | ctx struct cxl_context *

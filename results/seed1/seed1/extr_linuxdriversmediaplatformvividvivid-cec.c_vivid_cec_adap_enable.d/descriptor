@@ -1,0 +1,2 @@
+struct cec_adapter | cec_pin_is_high int 
+function vivid_cec_adap_enable int | adap struct cec_adapter * | enable int

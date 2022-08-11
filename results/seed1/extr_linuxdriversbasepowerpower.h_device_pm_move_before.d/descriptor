@@ -1,2 +1,0 @@
-struct device | dummy int 
-function device_pm_move_before void | deva struct device * | devb struct device *

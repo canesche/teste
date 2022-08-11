@@ -1,3 +1,0 @@
-struct dk_cxlflash_uvirtual | last_lba int | lun_size int | rsrc_handle int | context_id int | hdr int 
-struct dk_cxlflash_resize | last_lba int | req_size int | rsrc_handle int | context_id int | hdr int 
-function marshal_virt_to_resize void | virt struct dk_cxlflash_uvirtual * | resize struct dk_cxlflash_resize *

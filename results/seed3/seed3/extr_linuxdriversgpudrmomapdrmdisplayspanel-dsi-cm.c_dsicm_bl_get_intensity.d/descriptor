@@ -1,0 +1,3 @@
+struct TYPE_2__ | fb_blank long | power long | brightness int 
+struct backlight_device | props struct TYPE_2__ 
+function dsicm_bl_get_intensity int | dev struct backlight_device *

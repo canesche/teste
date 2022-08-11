@@ -1,0 +1,2 @@
+struct TYPE_3__ | corpse_info int * 
+function task_get_corpseinfo int * | task struct TYPE_3__ *

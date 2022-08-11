@@ -1,0 +1,2 @@
+struct mp_audio_buffer | num_samples long 
+function mp_audio_buffer_clear void | ab struct mp_audio_buffer *

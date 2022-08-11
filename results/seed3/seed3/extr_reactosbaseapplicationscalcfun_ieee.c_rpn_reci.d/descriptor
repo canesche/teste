@@ -1,0 +1,3 @@
+struct TYPE_4__ | f int 
+struct TYPE_5__ | is_nan int 
+function rpn_reci void | c struct TYPE_4__ *

@@ -1,0 +1,2 @@
+struct sock | dummy int 
+function sctp_unhash void | sk struct sock *

@@ -1,0 +1,4 @@
+struct TYPE_6__ | dec struct TYPE_5__ * 
+struct TYPE_7__ | dec_subseq struct TYPE_6__ | adv_ilist_subseq int 
+struct TYPE_5__ | tp long 
+function init_adv_ilist_subseq void | D struct TYPE_7__ *

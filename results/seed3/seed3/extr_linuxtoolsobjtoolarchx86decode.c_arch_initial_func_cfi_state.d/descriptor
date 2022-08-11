@@ -1,0 +1,4 @@
+struct TYPE_3__ | offset int | base int 
+struct cfi_state | regs struct TYPE_4__ * | cfa struct TYPE_3__ 
+struct TYPE_4__ | offset int | base int 
+function arch_initial_func_cfi_state void | state struct cfi_state *

@@ -1,2 +1,0 @@
-struct TYPE_4__ | sockfd int 
-function ws_socket struct TYPE_4__ * | ctx struct TYPE_4__ * | socket int

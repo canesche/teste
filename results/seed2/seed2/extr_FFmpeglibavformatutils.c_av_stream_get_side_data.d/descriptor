@@ -1,0 +1,3 @@
+struct TYPE_5__ | nb_side_data int | side_data struct TYPE_4__ * 
+struct TYPE_4__ | type int | size int | data int * 
+function av_stream_get_side_data int * | st const struct TYPE_5__ * | type enum AVPacketSideDataType | size int *

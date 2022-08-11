@@ -1,0 +1,3 @@
+struct rtl_ep_map | ep_mapping int * 
+struct ieee80211_hw | dummy int 
+function _OneOutEpMapping void | hw struct ieee80211_hw * | ep_map struct rtl_ep_map *

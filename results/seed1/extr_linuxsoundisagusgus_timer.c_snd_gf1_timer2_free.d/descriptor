@@ -1,4 +1,0 @@
-struct snd_timer | private_data struct snd_gus_card * 
-struct TYPE_2__ | timer2 int * 
-struct snd_gus_card | gf1 struct TYPE_2__ 
-function snd_gf1_timer2_free void | timer struct snd_timer *

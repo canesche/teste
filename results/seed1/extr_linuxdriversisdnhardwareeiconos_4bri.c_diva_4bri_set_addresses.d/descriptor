@@ -1,5 +1,0 @@
-struct TYPE_8__ | ControllerNumber int | reset int * | prom int * | ctlReg int * | ram int * | Control int * | Address int * 
-struct TYPE_6__ | qoffset int | mem_type_id int * | addr int ** 
-struct TYPE_7__ | pci struct TYPE_6__ 
-struct TYPE_9__ | xdi_adapter struct TYPE_8__ | resources struct TYPE_7__ 
-function diva_4bri_set_addresses void | a struct TYPE_9__ *

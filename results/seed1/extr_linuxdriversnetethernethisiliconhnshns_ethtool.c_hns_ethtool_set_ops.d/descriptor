@@ -1,2 +1,0 @@
-struct net_device | ethtool_ops int * 
-function hns_ethtool_set_ops void | ndev struct net_device *

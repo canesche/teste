@@ -1,0 +1,2 @@
+struct sfp | dummy int 
+function sfp_hwmon_remove void | sfp struct sfp *

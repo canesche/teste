@@ -1,0 +1,2 @@
+struct mthca_dev | mthca_flags int 
+function mthca_is_memfree int | dev struct mthca_dev *

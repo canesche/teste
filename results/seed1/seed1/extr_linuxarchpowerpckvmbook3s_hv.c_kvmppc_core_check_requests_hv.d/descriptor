@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function kvmppc_core_check_requests_hv int | vcpu struct kvm_vcpu *

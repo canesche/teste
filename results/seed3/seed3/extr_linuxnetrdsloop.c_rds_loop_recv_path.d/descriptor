@@ -1,0 +1,2 @@
+struct rds_conn_path | dummy int 
+function rds_loop_recv_path int | cp struct rds_conn_path *

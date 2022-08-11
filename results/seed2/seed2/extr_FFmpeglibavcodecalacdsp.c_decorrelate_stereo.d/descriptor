@@ -1,0 +1,1 @@
+function decorrelate_stereo void | buffer int *[2] | nb_samples int | decorr_shift int | decorr_left_weight int

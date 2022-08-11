@@ -1,0 +1,11 @@
+struct TYPE_16__ | length long 
+struct TYPE_14__ | length long 
+struct TYPE_12__ | length long 
+struct TYPE_10__ | length long 
+struct svga_fb_format | bits_per_pixel long | nonstd long | transp struct TYPE_16__ | blue struct TYPE_14__ | green struct TYPE_12__ | red struct TYPE_10__ 
+struct TYPE_15__ | length long 
+struct TYPE_13__ | length long 
+struct TYPE_11__ | length long 
+struct TYPE_9__ | length long 
+struct fb_var_screeninfo | bits_per_pixel long | nonstd long | transp struct TYPE_15__ | blue struct TYPE_13__ | green struct TYPE_11__ | red struct TYPE_9__ 
+function match_format int | frm const struct svga_fb_format * | var struct fb_var_screeninfo *

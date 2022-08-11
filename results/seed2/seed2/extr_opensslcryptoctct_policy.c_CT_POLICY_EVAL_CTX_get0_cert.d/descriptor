@@ -1,0 +1,2 @@
+struct TYPE_3__ | cert int * 
+function CT_POLICY_EVAL_CTX_get0_cert int * | ctx const struct TYPE_3__ *

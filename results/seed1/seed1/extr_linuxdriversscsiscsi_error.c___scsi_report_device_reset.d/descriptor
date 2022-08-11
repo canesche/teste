@@ -1,0 +1,2 @@
+struct scsi_device | was_reset int | expecting_cc_ua int 
+function __scsi_report_device_reset void | sdev struct scsi_device * | data void *

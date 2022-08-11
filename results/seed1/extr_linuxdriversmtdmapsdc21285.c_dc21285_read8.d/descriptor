@@ -1,3 +1,0 @@
-struct map_info | virt long 
-struct TYPE_3__ | x int * 
-function dc21285_read8 struct TYPE_3__ | map struct map_info * | ofs unsigned long

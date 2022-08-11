@@ -1,0 +1,3 @@
+struct proc | p_fd struct TYPE_2__ * 
+struct TYPE_2__ | fd_ofileflags int * | fd_ofiles int ** 
+function procfdtbl_reservefd void | p struct proc * | fd int

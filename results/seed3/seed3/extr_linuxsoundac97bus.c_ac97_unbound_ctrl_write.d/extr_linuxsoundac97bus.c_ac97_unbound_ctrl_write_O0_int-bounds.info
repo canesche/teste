@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsoundac97bus.c_ac97_unbound_ctrl_write.d/extr_linuxsoundac97bus.c_ac97_unbound_ctrl_write_O0::ac97_unbound_ctrl_write(63)"
+  }
+]

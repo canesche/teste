@@ -1,0 +1,6 @@
+struct usb_iso_packet_descriptor | actual_length int | length int | offset int | status int 
+struct urb | iso_frame_desc struct usb_iso_packet_descriptor * 
+struct mon_reader_bin | b_size unsigned int | b_vec struct TYPE_2__ * 
+struct mon_bin_isodesc | _pad long | iso_len int | iso_off int | iso_status int 
+struct TYPE_2__ | ptr long 
+function mon_bin_get_isodesc void | rp const struct mon_reader_bin * | offset unsigned int | urb struct urb * | ev_type char | ndesc unsigned int

@@ -1,0 +1,2 @@
+struct merge_list | next struct merge_list * 
+function add_merge_entry void | entry struct merge_list *

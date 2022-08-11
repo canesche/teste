@@ -1,0 +1,2 @@
+struct wined3d_gl_info | dummy int 
+function none_enable void | gl_info const struct wined3d_gl_info * | enable int

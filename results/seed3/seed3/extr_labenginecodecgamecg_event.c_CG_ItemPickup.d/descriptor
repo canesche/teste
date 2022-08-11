@@ -1,0 +1,4 @@
+struct TYPE_6__ | giType long | giTag long 
+struct TYPE_5__ | itemPickup int | weaponSelect long | time int | weaponSelectTime int | itemPickupBlendTime int | itemPickupTime int 
+struct TYPE_4__ | integer long 
+function CG_ItemPickup void | itemNum int

@@ -1,0 +1,2 @@
+struct binder_node | tmp_refs int 
+function binder_inc_node_tmpref_ilocked void | node struct binder_node *

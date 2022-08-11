@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetwirelessathwcn36xxsmd.c_wcn36xx_smd_set_sta_default_ht_params.d/extr_linuxdriversnetwirelessathwcn36xxsmd.c_wcn36xx_smd_set_sta_default_ht_params_O0::wcn36xx_smd_set_sta_default_ht_params(62)"
+  }
+]

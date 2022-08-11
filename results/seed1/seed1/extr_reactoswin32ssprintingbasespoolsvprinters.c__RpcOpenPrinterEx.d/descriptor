@@ -1,0 +1,1 @@
+function _RpcOpenPrinterEx int | pPrinterName int | pHandle int * | pDatatype int * | pDevModeContainer int * | AccessRequired int | pClientInfo int *

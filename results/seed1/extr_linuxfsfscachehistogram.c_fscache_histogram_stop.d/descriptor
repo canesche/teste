@@ -1,2 +1,0 @@
-struct seq_file | dummy int 
-function fscache_histogram_stop void | m struct seq_file * | v void *

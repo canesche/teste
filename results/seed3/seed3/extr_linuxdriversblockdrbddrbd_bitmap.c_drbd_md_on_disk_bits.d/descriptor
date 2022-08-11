@@ -1,0 +1,3 @@
+struct TYPE_2__ | al_offset int | md_size_sect int | bm_offset int 
+struct drbd_backing_dev | md struct TYPE_2__ 
+function drbd_md_on_disk_bits int | ldev struct drbd_backing_dev *

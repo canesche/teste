@@ -1,0 +1,7 @@
+struct lpfc_vport | fc_myDID long | phba struct TYPE_5__ * 
+struct lpfc_nodelist | nlp_DID long 
+struct TYPE_6__ | domain long | area long | id long 
+struct TYPE_7__ | word long | b struct TYPE_6__ 
+struct TYPE_8__ | un struct TYPE_7__ 
+struct TYPE_5__ | fc_topology long 
+function lpfc_matchdid int | vport struct lpfc_vport * | ndlp struct lpfc_nodelist * | did long

@@ -1,0 +1,5 @@
+struct TYPE_4__ | offset int 
+struct qed_ptt | pxp struct TYPE_4__ 
+struct qed_hwfn | p_ptt_pool struct TYPE_3__ * 
+struct TYPE_3__ | ptts struct qed_ptt * 
+function qed_ptt_invalidate void | p_hwfn struct qed_hwfn *

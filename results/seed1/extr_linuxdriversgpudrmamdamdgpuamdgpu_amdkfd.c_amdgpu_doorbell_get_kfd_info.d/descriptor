@@ -1,3 +1,0 @@
-struct TYPE_2__ | size int | num_doorbells int | base long 
-struct amdgpu_device | doorbell struct TYPE_2__ 
-function amdgpu_doorbell_get_kfd_info void | adev struct amdgpu_device * | aperture_base long * | aperture_size unsigned long * | start_offset unsigned long *

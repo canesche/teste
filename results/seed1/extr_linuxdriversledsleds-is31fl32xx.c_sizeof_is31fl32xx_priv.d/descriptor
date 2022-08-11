@@ -1,3 +1,0 @@
-struct is31fl32xx_priv | dummy int 
-struct is31fl32xx_led_data | dummy int 
-function sizeof_is31fl32xx_priv unsigned long | num_leds int

@@ -1,0 +1,5 @@
+struct xfrm_selector | dummy int 
+struct xfrm_migrate | dummy int 
+struct xfrm_kmaddress | dummy int 
+struct xfrm_encap_tmpl | dummy int 
+function pfkey_send_migrate int | sel const struct xfrm_selector * | dir int | type int | m const struct xfrm_migrate * | num_bundles int | k const struct xfrm_kmaddress * | encap const struct xfrm_encap_tmpl *

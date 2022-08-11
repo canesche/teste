@@ -1,0 +1,4 @@
+struct TYPE_7__ | height int | width int 
+struct TYPE_6__ | height int | width int 
+struct TYPE_8__ | null struct TYPE_6__ 
+function createNativeWindow int | window struct TYPE_8__ * | wndconfig const struct TYPE_7__ *

@@ -1,0 +1,2 @@
+struct fb_info | dummy int 
+function fm2fb_blank int | blank int | info struct fb_info *

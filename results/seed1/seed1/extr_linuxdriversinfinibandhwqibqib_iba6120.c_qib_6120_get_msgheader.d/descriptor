@@ -1,0 +1,3 @@
+struct qib_message_header | dummy int 
+struct qib_devdata | dummy int 
+function qib_6120_get_msgheader struct qib_message_header * | dd struct qib_devdata * | rhf_addr int *

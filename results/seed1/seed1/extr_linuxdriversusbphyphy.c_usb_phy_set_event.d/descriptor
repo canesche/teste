@@ -1,0 +1,2 @@
+struct usb_phy | last_event unsigned long 
+function usb_phy_set_event void | x struct usb_phy * | event unsigned long

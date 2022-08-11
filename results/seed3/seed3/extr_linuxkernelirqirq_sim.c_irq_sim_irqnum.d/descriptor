@@ -1,0 +1,3 @@
+struct irq_sim | irqs struct TYPE_2__ * 
+struct TYPE_2__ | irqnum int 
+function irq_sim_irqnum int | sim struct irq_sim * | offset unsigned int

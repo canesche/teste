@@ -1,0 +1,4 @@
+struct gpio_chip | can_sleep int | ngpio int | names int | owner int | parent int * | label int | base int | set_multiple int | get_direction int | set int | get int | direction_output int | direction_input int 
+struct pca953x_chip | names int | client struct TYPE_2__ * | gpio_start int | gpio_chip struct gpio_chip 
+struct TYPE_2__ | dev int | name int 
+function pca953x_setup_gpio void | chip struct pca953x_chip * | gpios int

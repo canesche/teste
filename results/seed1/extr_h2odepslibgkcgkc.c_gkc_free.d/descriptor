@@ -1,4 +1,0 @@
-struct gkc_tuple | dummy int 
-struct gkc_summary | fl struct freelist * | alloced int 
-struct freelist | next struct freelist * 
-function gkc_free void | s struct gkc_summary * | p struct gkc_tuple *

@@ -1,0 +1,2 @@
+struct memory_object_pager_ops | dummy int 
+function is_device_pager_ops int | pager_ops const struct memory_object_pager_ops *

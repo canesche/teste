@@ -1,3 +1,0 @@
-struct device | dummy int 
-struct mdev_device | dev struct device 
-function mdev_dev struct device * | mdev struct mdev_device *

@@ -1,0 +1,3 @@
+struct nfp_eth_table_port | interface long | media long | port_type int 
+struct nfp_cpp | dummy int 
+function nfp_eth_calc_port_type void | cpp struct nfp_cpp * | entry struct nfp_eth_table_port *

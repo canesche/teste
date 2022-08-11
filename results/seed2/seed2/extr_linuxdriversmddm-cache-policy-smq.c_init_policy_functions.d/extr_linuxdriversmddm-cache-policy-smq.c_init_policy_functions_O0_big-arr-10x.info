@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmddm-cache-policy-smq.c_init_policy_functions.d/extr_linuxdriversmddm-cache-policy-smq.c_init_policy_functions_O0::init_policy_functions(78)"
+  }
+]

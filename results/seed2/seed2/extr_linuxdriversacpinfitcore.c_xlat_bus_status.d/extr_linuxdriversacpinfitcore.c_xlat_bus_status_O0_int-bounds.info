@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversacpinfitcore.c_xlat_bus_status.d/extr_linuxdriversacpinfitcore.c_xlat_bus_status_O0::xlat_bus_status(82)"
+  }
+]

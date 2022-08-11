@@ -1,0 +1,5 @@
+struct brcmf_pub | proto struct TYPE_2__ * 
+struct brcmf_fws_info | dummy int 
+struct brcmf_bcdc | fws struct brcmf_fws_info * 
+struct TYPE_2__ | pd struct brcmf_bcdc * 
+function drvr_to_fws struct brcmf_fws_info * | drvr struct brcmf_pub *

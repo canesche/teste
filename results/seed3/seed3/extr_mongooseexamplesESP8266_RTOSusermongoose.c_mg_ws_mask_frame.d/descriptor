@@ -1,0 +1,3 @@
+struct ws_mask_ctx | pos long | mask int 
+struct mbuf | len unsigned long | buf char * 
+function mg_ws_mask_frame void | mbuf struct mbuf * | ctx struct ws_mask_ctx *

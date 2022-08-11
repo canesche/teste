@@ -1,0 +1,1 @@
+function get_amixer_index enum CT_AMIXER_CTL | alsa_index enum CTALSA_MIXER_CTL

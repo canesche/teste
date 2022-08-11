@@ -1,0 +1,3 @@
+struct TYPE_6__ | dx int | dy int | dh long | dw long 
+struct TYPE_7__ | x int | w int | y int | h int 
+function derivative struct TYPE_6__ | a struct TYPE_7__ | b struct TYPE_7__

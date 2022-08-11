@@ -1,0 +1,2 @@
+struct clock_event_device | dummy int 
+function nmdk_clkevt_set_oneshot int | evt struct clock_event_device *

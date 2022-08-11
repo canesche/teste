@@ -1,0 +1,2 @@
+struct img_ir_control | code_type int | bitinvd2 long | bitoriend2 long | decodend2 long | bitinv long | d1validsel long | bitorien long | decodinpol long | ldrdec long | hdrtog long | decoden long 
+function img_ir_control int | control const struct img_ir_control *

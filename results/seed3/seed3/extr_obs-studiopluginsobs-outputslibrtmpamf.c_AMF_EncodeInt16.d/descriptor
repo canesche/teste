@@ -1,0 +1,1 @@
+function AMF_EncodeInt16 char * | output char * | outend char * | nVal short

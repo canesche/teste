@@ -1,0 +1,3 @@
+struct TYPE_2__ | to_roam int 
+struct adapter | mlmepriv struct TYPE_2__ 
+function rtw_dec_to_roam int | adapter struct adapter *

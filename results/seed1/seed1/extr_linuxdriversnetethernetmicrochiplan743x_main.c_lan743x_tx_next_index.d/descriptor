@@ -1,0 +1,2 @@
+struct lan743x_tx | ring_size int 
+function lan743x_tx_next_index int | tx struct lan743x_tx * | index int

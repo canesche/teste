@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetbroadcomtg3.c_tg3_advert_flowctrl_1000X.d/extr_linuxdriversnetethernetbroadcomtg3.c_tg3_advert_flowctrl_1000X_O0::tg3_advert_flowctrl_1000X(66)"
+  }
+]

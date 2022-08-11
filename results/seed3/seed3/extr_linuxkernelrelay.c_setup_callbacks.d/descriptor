@@ -1,0 +1,3 @@
+struct rchan_callbacks | remove_buf_file long | create_buf_file long | buf_unmapped long | buf_mapped long | subbuf_start long 
+struct rchan | cb struct rchan_callbacks * 
+function setup_callbacks void | chan struct rchan * | cb struct rchan_callbacks *

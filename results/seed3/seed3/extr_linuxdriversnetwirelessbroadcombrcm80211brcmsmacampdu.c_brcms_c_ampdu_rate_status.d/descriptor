@@ -1,0 +1,6 @@
+struct tx_status | dummy int 
+struct ieee80211_tx_rate | idx int | count long 
+struct TYPE_2__ | rates struct ieee80211_tx_rate * 
+struct ieee80211_tx_info | status struct TYPE_2__ 
+struct brcms_c_info | dummy int 
+function brcms_c_ampdu_rate_status void | wlc struct brcms_c_info * | tx_info struct ieee80211_tx_info * | txs struct tx_status * | mcs int

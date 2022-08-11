@@ -1,4 +1,0 @@
-struct TYPE_4__ | opcode int | rt int 
-struct TYPE_3__ | func int 
-struct mips_instruction | i_format struct TYPE_4__ | r_format struct TYPE_3__ 
-function __insn_has_delay_slot int | insn const union mips_instruction

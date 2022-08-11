@@ -1,0 +1,4 @@
+struct TYPE_4__ | x long | y long | z long 
+struct TYPE_3__ | x long | y long | z long 
+struct bounds | max struct TYPE_4__ | min struct TYPE_3__ 
+function bounds_inside int | b const struct bounds * | test const struct bounds *

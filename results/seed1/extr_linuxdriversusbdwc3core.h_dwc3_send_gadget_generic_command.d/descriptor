@@ -1,2 +1,0 @@
-struct dwc3 | dummy int 
-function dwc3_send_gadget_generic_command int | dwc struct dwc3 * | cmd int | param int

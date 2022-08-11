@@ -1,0 +1,4 @@
+struct resource | dummy int 
+struct pci_ecam_ops | dummy int 
+struct acpi_pci_root | dummy int 
+function pci_mcfg_apply_quirks void | root struct acpi_pci_root * | cfgres struct resource * | ecam_ops struct pci_ecam_ops **

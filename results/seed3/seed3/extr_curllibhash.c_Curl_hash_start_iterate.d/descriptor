@@ -1,0 +1,3 @@
+struct curl_hash_iterator | current_element int * | slot_index long | hash struct curl_hash * 
+struct curl_hash | dummy int 
+function Curl_hash_start_iterate void | hash struct curl_hash * | iter struct curl_hash_iterator *

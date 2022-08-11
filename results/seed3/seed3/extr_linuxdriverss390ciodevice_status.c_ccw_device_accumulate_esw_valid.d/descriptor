@@ -1,0 +1,4 @@
+struct TYPE_3__ | stctl int | actl int | eswf int 
+struct TYPE_4__ | cmd struct TYPE_3__ 
+struct irb | scsw struct TYPE_4__ 
+function ccw_device_accumulate_esw_valid int | irb struct irb *

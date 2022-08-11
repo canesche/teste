@@ -1,0 +1,7 @@
+struct sym_hist | nr_samples int | period int | addr struct TYPE_4__ * 
+struct TYPE_6__ | nr_non_filtered_samples int | total_period int 
+struct hists | stats struct TYPE_6__ 
+struct TYPE_5__ | period double | nr_samples unsigned int 
+struct annotation_data | percent double * | he struct TYPE_5__ 
+struct TYPE_4__ | period long | nr_samples long 
+function calc_percent void | sym_hist struct sym_hist * | hists struct hists * | data struct annotation_data * | offset unsigned long | end unsigned long

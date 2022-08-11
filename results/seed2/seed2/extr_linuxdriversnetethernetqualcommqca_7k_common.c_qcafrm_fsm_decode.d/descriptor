@@ -1,0 +1,2 @@
+struct qcafrm_handle | state int | init int | offset int 
+function qcafrm_fsm_decode unsigned long | handle struct qcafrm_handle * | buf int * | buf_len int | recv_byte int

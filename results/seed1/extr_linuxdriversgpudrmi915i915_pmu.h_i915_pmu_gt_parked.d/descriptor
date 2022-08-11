@@ -1,2 +1,0 @@
-struct drm_i915_private | dummy int 
-function i915_pmu_gt_parked void | i915 struct drm_i915_private *

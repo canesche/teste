@@ -1,0 +1,4 @@
+struct dentry | d_fsdata struct configfs_dirent * 
+struct configfs_dirent | s_element long 
+struct config_item | dummy int 
+function to_item struct config_item * | dentry struct dentry *

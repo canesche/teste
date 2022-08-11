@@ -1,0 +1,1 @@
+function _RpcAddPerMachineConnection int | pServer int | pPrinterName const int * | pPrintServer const int * | pProvider const int *

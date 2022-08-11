@@ -1,0 +1,1 @@
+function pdo_pgsql_get_driver_methods const int * | dbh int * | kind int

@@ -1,0 +1,2 @@
+struct snd_soc_dapm_widget | id unsigned long | subseq long | reg long | dapm long 
+function dapm_seq_compare int | a struct snd_soc_dapm_widget * | b struct snd_soc_dapm_widget * | power_up int

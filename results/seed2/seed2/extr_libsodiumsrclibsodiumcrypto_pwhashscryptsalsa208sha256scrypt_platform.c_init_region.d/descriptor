@@ -1,0 +1,2 @@
+struct TYPE_3__ | size long | aligned int * | base int 
+function init_region void | region struct TYPE_3__ *

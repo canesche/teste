@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_radare2librbinpbin_xnu_kernelcache.c_r_parse_pointer.d/extr_radare2librbinpbin_xnu_kernelcache.c_r_parse_pointer_O0::r_parse_pointer(68)"
+  }
+]

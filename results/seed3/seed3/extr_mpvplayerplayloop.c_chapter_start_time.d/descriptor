@@ -1,0 +1,3 @@
+struct MPContext | num_chapters int | chapters struct TYPE_2__ * 
+struct TYPE_2__ | pts double 
+function chapter_start_time double | mpctx struct MPContext * | chapter int

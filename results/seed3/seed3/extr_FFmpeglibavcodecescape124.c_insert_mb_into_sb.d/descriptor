@@ -1,0 +1,3 @@
+struct TYPE_6__ | pixels32 int * 
+struct TYPE_5__ | pixels32 int * 
+function insert_mb_into_sb void | sb struct TYPE_5__ * | mb struct TYPE_6__ | index unsigned int

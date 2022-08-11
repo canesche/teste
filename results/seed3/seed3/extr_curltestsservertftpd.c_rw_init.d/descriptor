@@ -1,0 +1,4 @@
+struct tftphdr | dummy int 
+struct TYPE_3__ | hdr struct tftphdr 
+struct TYPE_4__ | buf struct TYPE_3__ | counter int 
+function rw_init struct tftphdr * | x int

@@ -1,2 +1,0 @@
-struct pbuf | next struct pbuf * 
-function pbuf_clen long | p struct pbuf *

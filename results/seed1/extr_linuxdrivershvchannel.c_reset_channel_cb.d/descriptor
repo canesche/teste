@@ -1,2 +1,0 @@
-struct vmbus_channel | onchannel_callback int * 
-function reset_channel_cb void | arg void *

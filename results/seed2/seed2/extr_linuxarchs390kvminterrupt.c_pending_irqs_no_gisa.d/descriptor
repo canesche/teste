@@ -1,0 +1,7 @@
+struct TYPE_9__ | pending_irqs unsigned long 
+struct TYPE_10__ | local_int struct TYPE_9__ 
+struct kvm_vcpu | arch struct TYPE_10__ | kvm struct TYPE_8__ * 
+struct TYPE_6__ | pending_irqs unsigned long 
+struct TYPE_7__ | float_int struct TYPE_6__ 
+struct TYPE_8__ | arch struct TYPE_7__ 
+function pending_irqs_no_gisa unsigned long | vcpu struct kvm_vcpu *

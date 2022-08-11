@@ -1,2 +1,0 @@
-struct TYPE_3__ | priv void * 
-function dwc_otg_hcd_set_priv_data void | hcd struct TYPE_3__ * | priv_data void *

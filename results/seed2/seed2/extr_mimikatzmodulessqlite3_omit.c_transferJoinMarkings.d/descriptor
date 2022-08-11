@@ -1,0 +1,2 @@
+struct TYPE_4__ | flags int | iRightJoinTable int 
+function transferJoinMarkings void | pDerived struct TYPE_4__ * | pBase struct TYPE_4__ *

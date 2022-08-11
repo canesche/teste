@@ -1,0 +1,2 @@
+struct ath_softc | dummy int 
+function ath_init_leds void | sc struct ath_softc *

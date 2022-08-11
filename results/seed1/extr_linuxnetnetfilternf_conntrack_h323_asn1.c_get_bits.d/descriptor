@@ -1,2 +1,0 @@
-struct bitstr | cur int * | bit int 
-function get_bits unsigned int | bs struct bitstr * | b unsigned int

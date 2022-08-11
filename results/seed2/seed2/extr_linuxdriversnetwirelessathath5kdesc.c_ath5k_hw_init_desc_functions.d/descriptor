@@ -1,0 +1,2 @@
+struct ath5k_hw | ah_version long | ah_proc_rx_desc int | ah_proc_tx_desc int | ah_setup_tx_desc int 
+function ath5k_hw_init_desc_functions int | ah struct ath5k_hw *

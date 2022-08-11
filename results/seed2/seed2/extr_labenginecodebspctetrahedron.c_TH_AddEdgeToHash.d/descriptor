@@ -1,0 +1,3 @@
+struct TYPE_4__ | v int * | hashnext struct TYPE_4__ * 
+struct TYPE_5__ | edgehash struct TYPE_4__ ** 
+function TH_AddEdgeToHash void | edge struct TYPE_4__ *

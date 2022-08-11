@@ -1,3 +1,0 @@
-struct TYPE_4__ | y long | x long 
-struct TYPE_5__ | border long | rect struct TYPE_4__ | borderSize long 
-function ToWindowCoords void | x float * | y float * | window struct TYPE_5__ *

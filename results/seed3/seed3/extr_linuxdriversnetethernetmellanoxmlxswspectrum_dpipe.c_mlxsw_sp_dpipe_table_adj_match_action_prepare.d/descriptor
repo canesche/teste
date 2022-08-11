@@ -1,0 +1,3 @@
+struct devlink_dpipe_match | field_id int | header int * | type void * 
+struct devlink_dpipe_action | field_id int | header int * | type void * 
+function mlxsw_sp_dpipe_table_adj_match_action_prepare void | matches struct devlink_dpipe_match * | actions struct devlink_dpipe_action *

@@ -1,0 +1,2 @@
+struct continuum | value long 
+function ketama_item_cmp int | t1 const void * | t2 const void *

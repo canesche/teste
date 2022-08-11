@@ -1,0 +1,2 @@
+struct TYPE_3__ | ldmBucketSizeLog int 
+function FIO_setLdmBucketSizeLog void | prefs struct TYPE_3__ *const | ldmBucketSizeLog int

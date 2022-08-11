@@ -1,0 +1,4 @@
+struct bfq_queue | dummy int 
+struct bfq_group | async_idle_bfqq struct bfq_queue * | async_bfqq struct bfq_queue *** 
+struct bfq_data | dummy int 
+function bfq_async_queue_prio struct bfq_queue ** | bfqd struct bfq_data * | bfqg struct bfq_group * | ioprio_class int | ioprio int

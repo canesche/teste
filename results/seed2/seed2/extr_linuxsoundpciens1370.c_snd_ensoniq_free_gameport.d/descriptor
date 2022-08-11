@@ -1,0 +1,2 @@
+struct ensoniq | dummy int 
+function snd_ensoniq_free_gameport void | ensoniq struct ensoniq *

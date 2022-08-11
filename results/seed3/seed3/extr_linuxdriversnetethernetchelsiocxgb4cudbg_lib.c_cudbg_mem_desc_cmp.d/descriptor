@@ -1,0 +1,2 @@
+struct cudbg_mem_desc | base int 
+function cudbg_mem_desc_cmp int | a const void * | b const void *

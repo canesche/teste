@@ -1,0 +1,3 @@
+struct TYPE_4__ | size double 
+struct TYPE_5__ | u struct TYPE_4__ 
+function uiAttributeSize double | a const struct TYPE_5__ *

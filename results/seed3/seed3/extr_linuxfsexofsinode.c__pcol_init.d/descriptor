@@ -1,0 +1,5 @@
+struct page_collect | expected_pages unsigned int | pg_first int | read_4_write int | that_locked_page int * | length long | nr_pages long | alloc_pages long | pages int * | ios int * | inode struct inode * | sbi struct exofs_sb_info * 
+struct inode | i_sb struct TYPE_2__ * 
+struct exofs_sb_info | dummy int 
+struct TYPE_2__ | s_fs_info struct exofs_sb_info * 
+function _pcol_init void | pcol struct page_collect * | expected_pages unsigned int | inode struct inode *

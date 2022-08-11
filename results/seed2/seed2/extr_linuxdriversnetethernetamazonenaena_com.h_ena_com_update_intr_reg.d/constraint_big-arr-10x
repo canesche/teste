@@ -1,0 +1,1 @@
+value(rx_delay_interval) == 10, value(tx_delay_interval) == 10, value(unmask) == 10, length(intr_reg) == 100

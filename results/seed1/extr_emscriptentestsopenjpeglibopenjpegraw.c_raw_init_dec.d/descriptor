@@ -1,2 +1,0 @@
-struct TYPE_3__ | start unsigned char * | lenmax int | ct long | c long | len long 
-function raw_init_dec void | raw struct TYPE_3__ * | bp unsigned char * | len int

@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function nochip_noop void | irq struct irq_data *

@@ -1,0 +1,2 @@
+struct ccid2_hc_tx_sock | tx_expected_wnd int 
+function ccid2_update_used_window void | hc struct ccid2_hc_tx_sock * | new_wnd int

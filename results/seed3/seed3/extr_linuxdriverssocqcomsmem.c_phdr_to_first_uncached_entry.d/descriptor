@@ -1,0 +1,2 @@
+struct smem_partition_header | dummy int 
+function phdr_to_first_uncached_entry struct smem_private_entry * | phdr struct smem_partition_header *

@@ -1,0 +1,3 @@
+struct csio_sge | sge_fl_buf_size int * 
+struct csio_dma_buf | paddr int 
+function csio_wr_fl_bufsz int | sge struct csio_sge * | buf struct csio_dma_buf *

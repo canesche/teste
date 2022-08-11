@@ -1,0 +1,2 @@
+struct cx231xx | dummy int 
+function mci_write_memory_to_gpio void | dev struct cx231xx * | address int | value int | p_fw_image int *

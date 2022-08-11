@@ -1,0 +1,2 @@
+struct TYPE_2__ | bits int 
+function av_get_bytes_per_sample int | sample_fmt enum AVSampleFormat

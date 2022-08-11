@@ -1,2 +1,0 @@
-struct mmc_host | caps int 
-function mmc_host_done_complete int | host struct mmc_host *

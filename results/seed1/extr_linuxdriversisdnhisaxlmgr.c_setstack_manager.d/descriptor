@@ -1,3 +1,0 @@
-struct TYPE_2__ | layer int 
-struct PStack | ma struct TYPE_2__ 
-function setstack_manager void | st struct PStack *

@@ -1,2 +1,0 @@
-struct cpdma_ctlr | num_tx_desc int 
-function cpdma_get_num_tx_descs int | ctlr struct cpdma_ctlr *

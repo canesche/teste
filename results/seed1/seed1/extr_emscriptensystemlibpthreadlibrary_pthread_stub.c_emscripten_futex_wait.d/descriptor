@@ -1,0 +1,1 @@
+function emscripten_futex_wait int | addr volatile void * | val int | maxWaitMilliseconds double

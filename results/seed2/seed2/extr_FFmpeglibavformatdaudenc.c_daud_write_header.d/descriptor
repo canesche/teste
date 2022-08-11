@@ -1,0 +1,4 @@
+struct AVFormatContext | streams struct TYPE_3__ ** 
+struct TYPE_4__ | channels int | sample_rate int 
+struct TYPE_3__ | codecpar struct TYPE_4__ * 
+function daud_write_header int | s struct AVFormatContext *

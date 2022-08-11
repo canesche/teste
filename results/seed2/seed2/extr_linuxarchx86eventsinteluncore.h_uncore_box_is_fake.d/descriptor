@@ -1,0 +1,2 @@
+struct intel_uncore_box | pkgid long 
+function uncore_box_is_fake int | box struct intel_uncore_box *

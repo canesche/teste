@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxfsocfs2dlmfsdlmfs.c_dlmfs_decode_open_flags.d/extr_linuxfsocfs2dlmfsdlmfs.c_dlmfs_decode_open_flags_O0::dlmfs_decode_open_flags(68)"
+  }
+]

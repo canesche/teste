@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversbaseregmapregcache-lzo.c_regcache_lzo_block_count.d/extr_linuxdriversbaseregmapregcache-lzo.c_regcache_lzo_block_count_O0::regcache_lzo_block_count(62)"
+  }
+]

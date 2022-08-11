@@ -1,3 +1,0 @@
-struct TYPE_2__ | arg int * 
-struct qlcnic_cmd_args | req struct TYPE_2__ 
-function qlcnic_sriov_validate_create_tx_ctx int | cmd struct qlcnic_cmd_args *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | tif_fields struct TYPE_4__ ** | tif_nfields long 
+struct TYPE_4__ | field_tag long 
+function TIFFReadDirectoryFindFieldInfo void | tif struct TYPE_5__ * | tagid long | fii long *

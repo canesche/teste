@@ -1,0 +1,2 @@
+struct sh_fpu_soft_struct | xfp_regs long * | fp_regs long * | fpul long | fpscr int 
+function fpu_init void | fpu struct sh_fpu_soft_struct *

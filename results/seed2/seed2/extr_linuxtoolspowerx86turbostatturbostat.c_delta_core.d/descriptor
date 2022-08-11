@@ -1,0 +1,4 @@
+struct msr_counter | format long | next struct msr_counter * 
+struct core_data | counter long * | mc6_us long | core_temp_c int | c7 long | c6 long | c3 long 
+struct TYPE_2__ | cp struct msr_counter * 
+function delta_core void | new struct core_data * | old struct core_data *

@@ -1,0 +1,4 @@
+struct TYPE_6__ | min int | max int 
+struct TYPE_5__ | min int | max int 
+struct TYPE_7__ | latitude struct TYPE_6__ | longitude struct TYPE_5__ 
+function geohashDecodeAreaToLongLat int | area const struct TYPE_7__ * | xy double *

@@ -1,0 +1,5 @@
+struct hda_fixup | dummy int 
+struct hda_codec | spec struct alc_spec * 
+struct TYPE_2__ | hp_automute_hook int 
+struct alc_spec | gen struct TYPE_2__ | parse_flags int 
+function alc662_fixup_usi_headset_mic void | codec struct hda_codec * | fix const struct hda_fixup * | action int

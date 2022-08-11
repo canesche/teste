@@ -1,0 +1,9 @@
+struct TYPE_19__ | nOffset int | pRun struct TYPE_14__ * | pPara struct TYPE_18__ * 
+struct TYPE_15__ | nCharOfs long | prev_para struct TYPE_18__ * 
+struct TYPE_16__ | para struct TYPE_15__ 
+struct TYPE_18__ | member struct TYPE_16__ 
+struct TYPE_17__ | pCursors struct TYPE_19__ * 
+struct TYPE_12__ | nCharOfs int 
+struct TYPE_13__ | run struct TYPE_12__ 
+struct TYPE_14__ | member struct TYPE_13__ 
+function ME_GetSelectionParas void | editor struct TYPE_17__ * | para struct TYPE_18__ ** | para_end struct TYPE_18__ **

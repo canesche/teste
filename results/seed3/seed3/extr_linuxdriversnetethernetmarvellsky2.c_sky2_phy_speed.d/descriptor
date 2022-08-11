@@ -1,0 +1,2 @@
+struct sky2_hw | flags int 
+function sky2_phy_speed int | hw const struct sky2_hw * | aux int

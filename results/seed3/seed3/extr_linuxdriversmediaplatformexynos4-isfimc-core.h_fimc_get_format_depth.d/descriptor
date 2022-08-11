@@ -1,0 +1,2 @@
+struct fimc_fmt | colplanes unsigned long | depth long * 
+function fimc_get_format_depth unsigned long | ff struct fimc_fmt *

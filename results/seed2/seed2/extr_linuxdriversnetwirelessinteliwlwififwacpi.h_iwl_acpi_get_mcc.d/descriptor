@@ -1,0 +1,2 @@
+struct device | dummy int 
+function iwl_acpi_get_mcc int | dev struct device * | mcc char *

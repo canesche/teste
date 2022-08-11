@@ -1,0 +1,4 @@
+struct mptses | mpte_mptcb struct mptcb * | mpte_mppcb struct TYPE_2__ * 
+struct mptcb | mpt_notsent_lowat int 
+struct TYPE_2__ | mpp_flags int 
+function mptcp_get_notsent_lowat int | mpte struct mptses *

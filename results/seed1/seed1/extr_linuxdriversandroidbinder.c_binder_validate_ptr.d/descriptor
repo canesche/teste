@@ -1,0 +1,4 @@
+struct TYPE_2__ | type long 
+struct binder_buffer_object | hdr struct TYPE_2__ 
+struct binder_buffer | data long 
+function binder_validate_ptr struct binder_buffer_object * | b struct binder_buffer * | index long | start long * | num_valid long

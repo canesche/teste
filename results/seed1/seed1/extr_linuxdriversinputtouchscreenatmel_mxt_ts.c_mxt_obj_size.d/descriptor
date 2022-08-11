@@ -1,0 +1,2 @@
+struct mxt_object | size_minus_one unsigned long 
+function mxt_obj_size unsigned long | obj const struct mxt_object *

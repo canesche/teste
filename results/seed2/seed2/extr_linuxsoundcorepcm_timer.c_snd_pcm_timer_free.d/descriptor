@@ -1,0 +1,3 @@
+struct snd_timer | private_data struct snd_pcm_substream * 
+struct snd_pcm_substream | timer int * 
+function snd_pcm_timer_free void | timer struct snd_timer *

@@ -1,2 +1,0 @@
-struct kvm | dummy int 
-function kvm_vz_check_extension int | kvm struct kvm * | ext long

@@ -1,3 +1,0 @@
-struct nes_cm_node | dummy int 
-struct nes_cm_core | dummy int 
-function mini_cm_accept int | cm_core struct nes_cm_core * | cm_node struct nes_cm_node *

@@ -1,4 +1,0 @@
-struct TYPE_3__ | note int | velocity int 
-struct TYPE_4__ | note struct TYPE_3__ 
-struct snd_seq_event | data struct TYPE_4__ 
-function note_decode void | ev struct snd_seq_event * | buf unsigned char *

@@ -1,2 +1,0 @@
-struct sdhci_host | dummy int 
-function sdhci_led_unregister void | host struct sdhci_host *

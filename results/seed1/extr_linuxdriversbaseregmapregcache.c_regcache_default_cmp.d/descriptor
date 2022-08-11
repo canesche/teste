@@ -1,2 +1,0 @@
-struct reg_default | reg int 
-function regcache_default_cmp int | a const void * | b const void *

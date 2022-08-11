@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsoundpcitridenttrident_main.c_snd_trident_convert_rate.d/extr_linuxsoundpcitridenttrident_main.c_snd_trident_convert_rate_O0::snd_trident_convert_rate(60)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_2__ | num_sysregs int 
+function xtensa_isa_num_sysregs int | isa long

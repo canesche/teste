@@ -1,0 +1,3 @@
+struct dk_cxlflash_udirect | rsrc_handle int | context_id int | hdr int 
+struct dk_cxlflash_release | rsrc_handle int | context_id int | hdr int 
+function marshal_udir_to_rele void | udirect struct dk_cxlflash_udirect * | release struct dk_cxlflash_release *

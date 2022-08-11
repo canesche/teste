@@ -1,5 +1,0 @@
-struct nlattr | dummy int 
-struct netlink_ext_ack | dummy int 
-struct net_device | dummy int 
-struct net | dummy int 
-function can_newlink int | src_net struct net * | dev struct net_device * | tb struct nlattr *[] | data struct nlattr *[] | extack struct netlink_ext_ack *

@@ -1,2 +1,0 @@
-struct midi_buffer | full int 
-function midibuf_is_full int | this struct midi_buffer *

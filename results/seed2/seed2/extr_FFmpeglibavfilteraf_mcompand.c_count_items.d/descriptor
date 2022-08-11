@@ -1,0 +1,1 @@
+function count_items void | item_str char * | nb_items int * | delimiter char

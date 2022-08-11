@@ -1,2 +1,0 @@
-struct genwqe_dev | slu_unitcfg int 
-function genwqe_recovery_on_fatal_gfir_required int | cd struct genwqe_dev *

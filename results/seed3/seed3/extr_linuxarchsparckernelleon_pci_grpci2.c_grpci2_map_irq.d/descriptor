@@ -1,0 +1,4 @@
+struct pci_dev | bus struct TYPE_2__ * 
+struct grpci2_priv | irq_map int * 
+struct TYPE_2__ | sysdata struct grpci2_priv * 
+function grpci2_map_irq int | dev const struct pci_dev * | slot int | pin int

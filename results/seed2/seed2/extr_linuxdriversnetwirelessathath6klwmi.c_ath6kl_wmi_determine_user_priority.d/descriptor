@@ -1,0 +1,2 @@
+struct iphdr | tos int 
+function ath6kl_wmi_determine_user_priority int | pkt int * | layer2_pri int

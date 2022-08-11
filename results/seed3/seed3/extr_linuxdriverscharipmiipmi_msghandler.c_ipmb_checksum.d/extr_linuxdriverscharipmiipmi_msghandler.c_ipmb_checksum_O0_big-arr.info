@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 3583,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriverscharipmiipmi_msghandler.c_ipmb_checksum.d/extr_linuxdriverscharipmiipmi_msghandler.c_ipmb_checksum_O0::ipmb_checksum(61)"
+  }
+]

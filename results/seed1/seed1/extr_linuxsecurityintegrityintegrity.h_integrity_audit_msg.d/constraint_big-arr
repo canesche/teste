@@ -1,0 +1,1 @@
+value(audit_msgno) == 255, value(result) == 255, value(info) == 255, length(fname) == 65025, length(op) == 65025, length(cause) == 65025, length(inode) == 65025

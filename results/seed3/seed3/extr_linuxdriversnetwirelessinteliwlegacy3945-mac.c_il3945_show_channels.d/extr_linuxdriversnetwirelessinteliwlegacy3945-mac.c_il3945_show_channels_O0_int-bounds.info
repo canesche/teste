@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetwirelessinteliwlegacy3945-mac.c_il3945_show_channels.d/extr_linuxdriversnetwirelessinteliwlegacy3945-mac.c_il3945_show_channels_O0::il3945_show_channels(64)"
+  }
+]

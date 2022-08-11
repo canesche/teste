@@ -1,0 +1,2 @@
+struct _diva_dma_map_entry | addr_handle void * 
+function diva_get_entry_handle void * | pmap struct _diva_dma_map_entry * | nr int

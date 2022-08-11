@@ -1,0 +1,4 @@
+struct fb_var_screeninfo | yoffset unsigned int | xoffset long 
+struct TYPE_2__ | yres long | yres_virtual long | xres unsigned int 
+struct fb_info | var struct TYPE_2__ 
+function g364fb_pan_display int | var struct fb_var_screeninfo * | info struct fb_info *

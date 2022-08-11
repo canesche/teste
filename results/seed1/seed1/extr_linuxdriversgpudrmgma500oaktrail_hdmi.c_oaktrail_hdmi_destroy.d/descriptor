@@ -1,0 +1,2 @@
+struct drm_connector | dummy int 
+function oaktrail_hdmi_destroy void | connector struct drm_connector *

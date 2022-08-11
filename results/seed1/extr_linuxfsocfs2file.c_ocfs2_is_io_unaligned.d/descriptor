@@ -1,3 +1,0 @@
-struct inode | i_sb struct TYPE_2__ * 
-struct TYPE_2__ | s_blocksize int 
-function ocfs2_is_io_unaligned int | inode struct inode * | count unsigned long | pos unsigned long

@@ -1,2 +1,0 @@
-struct qla_tgt_cmd | bufflen long 
-function qlt_has_data int | cmd struct qla_tgt_cmd *

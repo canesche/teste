@@ -1,0 +1,2 @@
+struct dccp_feat_entry | is_local long | needs_confirm long 
+function dccp_feat_genopt int | entry struct dccp_feat_entry *

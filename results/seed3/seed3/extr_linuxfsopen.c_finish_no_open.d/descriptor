@@ -1,0 +1,4 @@
+struct TYPE_2__ | dentry struct dentry * 
+struct file | f_path struct TYPE_2__ 
+struct dentry | dummy int 
+function finish_no_open int | file struct file * | dentry struct dentry *

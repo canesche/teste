@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_gitpretty.c_is_rfc822_special.d/extr_gitpretty.c_is_rfc822_special_O0::is_rfc822_special(60)"
+  }
+]

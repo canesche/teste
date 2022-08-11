@@ -1,0 +1,2 @@
+struct forth_stack | dummy int 
+function forth_kad16_hex void * | IP void ** | st struct forth_stack *

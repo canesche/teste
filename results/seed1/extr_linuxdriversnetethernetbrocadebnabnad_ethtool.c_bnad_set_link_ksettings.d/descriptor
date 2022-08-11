@@ -1,4 +1,0 @@
-struct net_device | dummy int 
-struct TYPE_2__ | autoneg long | speed long | duplex long 
-struct ethtool_link_ksettings | base struct TYPE_2__ 
-function bnad_set_link_ksettings int | netdev struct net_device * | cmd const struct ethtool_link_ksettings *

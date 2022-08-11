@@ -1,0 +1,2 @@
+struct mmc_host | dummy int 
+function mmc_unregister_pm_notifier void | host struct mmc_host *

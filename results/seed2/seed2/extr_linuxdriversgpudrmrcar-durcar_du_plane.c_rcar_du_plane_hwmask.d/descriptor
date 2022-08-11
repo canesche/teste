@@ -1,0 +1,3 @@
+struct rcar_du_plane_state | hwindex int | format struct TYPE_2__ * 
+struct TYPE_2__ | planes int 
+function rcar_du_plane_hwmask unsigned int | state struct rcar_du_plane_state *

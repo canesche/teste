@@ -1,2 +1,0 @@
-struct cmd_bind | num_keys int | keys const int * 
-function bind_matches_key int | bind struct cmd_bind * | num_keys int | keys const int *

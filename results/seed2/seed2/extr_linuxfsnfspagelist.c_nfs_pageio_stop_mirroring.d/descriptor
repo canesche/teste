@@ -1,0 +1,2 @@
+struct nfs_pageio_descriptor | pg_mirror_count int | pg_mirror_idx long 
+function nfs_pageio_stop_mirroring void | pgio struct nfs_pageio_descriptor *

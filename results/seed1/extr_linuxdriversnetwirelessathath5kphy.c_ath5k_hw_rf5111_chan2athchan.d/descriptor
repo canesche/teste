@@ -1,2 +1,0 @@
-struct ath5k_athchan_2ghz | a2_athchan int | a2_flags int 
-function ath5k_hw_rf5111_chan2athchan int | ieee unsigned int | athchan struct ath5k_athchan_2ghz *

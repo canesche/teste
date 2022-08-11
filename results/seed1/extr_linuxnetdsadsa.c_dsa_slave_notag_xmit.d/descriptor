@@ -1,3 +1,0 @@
-struct sk_buff | dummy int 
-struct net_device | dummy int 
-function dsa_slave_notag_xmit struct sk_buff * | skb struct sk_buff * | dev struct net_device *

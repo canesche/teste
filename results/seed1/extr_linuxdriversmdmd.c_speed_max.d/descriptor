@@ -1,2 +1,0 @@
-struct mddev | sync_speed_max int 
-function speed_max int | mddev struct mddev *

@@ -1,0 +1,3 @@
+struct TYPE_6__ | size long 
+struct TYPE_5__ | offset long | size long 
+function sectionIsInvalid int | bin struct TYPE_6__ * | sect struct TYPE_5__ *

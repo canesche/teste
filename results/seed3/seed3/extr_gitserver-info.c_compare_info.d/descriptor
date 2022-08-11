@@ -1,0 +1,2 @@
+struct pack_info | old_num long | p long 
+function compare_info int | a_ const void * | b_ const void *

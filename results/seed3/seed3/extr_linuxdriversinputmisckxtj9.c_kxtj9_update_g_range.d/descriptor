@@ -1,0 +1,2 @@
+struct kxtj9_data | shift int | ctrl_reg1 int 
+function kxtj9_update_g_range int | tj9 struct kxtj9_data * | new_g_range int

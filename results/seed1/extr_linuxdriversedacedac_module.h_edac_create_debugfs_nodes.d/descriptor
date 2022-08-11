@@ -1,2 +1,0 @@
-struct mem_ctl_info | dummy int 
-function edac_create_debugfs_nodes int | mci struct mem_ctl_info *

@@ -1,0 +1,1 @@
+function scale_block_c void | src int const[64] | dst int * | linesize int

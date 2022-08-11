@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverscryptoccpccp-crypto-des3.c_ccp_des3_cra_exit.d/extr_linuxdriverscryptoccpccp-crypto-des3.c_ccp_des3_cra_exit_O0::ccp_des3_cra_exit(61)"
+  }
+]

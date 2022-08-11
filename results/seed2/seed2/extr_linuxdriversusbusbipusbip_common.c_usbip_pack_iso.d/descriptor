@@ -1,0 +1,3 @@
+struct usbip_iso_packet_descriptor | actual_length int | status int | length int | offset int 
+struct usb_iso_packet_descriptor | actual_length int | status int | length int | offset int 
+function usbip_pack_iso void | iso struct usbip_iso_packet_descriptor * | uiso struct usb_iso_packet_descriptor * | pack int

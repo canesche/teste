@@ -1,0 +1,2 @@
+struct TYPE_3__ | width int | height int | message long ** 
+function ClearMatrixMessage void | msg struct TYPE_3__ *

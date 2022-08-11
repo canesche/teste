@@ -1,0 +1,1 @@
+function uart_tx_strn void | uart_obj int * | str const char * | len int

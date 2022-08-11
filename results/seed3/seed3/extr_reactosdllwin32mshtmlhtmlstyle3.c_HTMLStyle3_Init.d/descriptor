@@ -1,0 +1,6 @@
+struct TYPE_10__ | lpVtbl int * 
+struct TYPE_9__ | lpVtbl int * 
+struct TYPE_8__ | lpVtbl int * 
+struct TYPE_7__ | lpVtbl int * 
+struct TYPE_11__ | IHTMLStyle6_iface struct TYPE_10__ | IHTMLStyle5_iface struct TYPE_9__ | IHTMLStyle4_iface struct TYPE_8__ | IHTMLStyle3_iface struct TYPE_7__ 
+function HTMLStyle3_Init void | This struct TYPE_11__ *

@@ -1,2 +1,0 @@
-struct dev_pm_domain | dummy int 
-function always_on_power_down_ok int | domain struct dev_pm_domain *

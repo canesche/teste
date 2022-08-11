@@ -1,0 +1,1 @@
+function qed_mfw_get_tlv_group int | tlv_type int | tlv_group int *

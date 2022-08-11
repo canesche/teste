@@ -1,2 +1,0 @@
-struct b43_dmaring | dummy int 
-function should_inject_overflow int | ring struct b43_dmaring *

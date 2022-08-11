@@ -1,0 +1,2 @@
+struct TYPE_3__ | magic long | title char * | process_send_error void * | process_error_msg void * | process_msg void * 
+function check_udp_functions int | type struct TYPE_3__ *

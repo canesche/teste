@@ -1,0 +1,3 @@
+struct TYPE_2__ | flags int 
+struct obs_output | info struct TYPE_2__ 
+function convert_flags void | output const struct obs_output * | flags int | encoded int * | has_video int * | has_audio int * | has_service int *

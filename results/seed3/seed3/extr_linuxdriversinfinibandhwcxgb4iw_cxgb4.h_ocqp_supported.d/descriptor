@@ -1,0 +1,4 @@
+struct cxgb4_lld_info | vr struct TYPE_4__ * 
+struct TYPE_3__ | size long 
+struct TYPE_4__ | ocq struct TYPE_3__ 
+function ocqp_supported int | infop const struct cxgb4_lld_info *

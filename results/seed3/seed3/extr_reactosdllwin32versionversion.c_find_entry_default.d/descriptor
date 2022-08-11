@@ -1,0 +1,4 @@
+struct TYPE_4__ | OffsetToDirectory int 
+struct TYPE_5__ | s2 struct TYPE_4__ 
+struct TYPE_6__ | u2 struct TYPE_5__ 
+function find_entry_default const int * | dir const int * | root const void *

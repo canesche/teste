@@ -1,0 +1,4 @@
+struct wmi_phyerr_ev_arg | dummy int 
+struct phyerr_fft_report | dummy int 
+struct ath10k | dummy int 
+function ath10k_spectral_process_fft int | ar struct ath10k * | phyerr struct wmi_phyerr_ev_arg * | fftr const struct phyerr_fft_report * | bin_len unsigned long | tsf int

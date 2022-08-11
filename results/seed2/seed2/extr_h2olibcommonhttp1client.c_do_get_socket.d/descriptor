@@ -1,0 +1,2 @@
+struct st_h2o_http1client_t | sock int * 
+function do_get_socket int * | _client int *

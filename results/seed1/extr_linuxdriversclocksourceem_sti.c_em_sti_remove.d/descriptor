@@ -1,2 +1,0 @@
-struct platform_device | dummy int 
-function em_sti_remove int | pdev struct platform_device *

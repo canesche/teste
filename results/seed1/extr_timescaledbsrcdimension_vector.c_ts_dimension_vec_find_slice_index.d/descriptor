@@ -1,4 +1,0 @@
-struct TYPE_7__ | num_slices int | slices struct TYPE_6__ ** 
-struct TYPE_5__ | id long 
-struct TYPE_6__ | fd struct TYPE_5__ 
-function ts_dimension_vec_find_slice_index int | vec struct TYPE_7__ * | dimension_slice_id long

@@ -1,0 +1,2 @@
+struct scsi_device | inquiry_len int 
+function mts_slave_alloc int | s struct scsi_device *

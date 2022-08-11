@@ -1,0 +1,3 @@
+struct cw1200_common | debug struct TYPE_2__ * 
+struct TYPE_2__ | tx_multi_frames int | tx_multi int 
+function cw1200_debug_txed_multi void | priv struct cw1200_common * | count int

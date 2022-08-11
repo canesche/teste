@@ -1,2 +1,0 @@
-struct pp_hwmgr | dummy int 
-function smu8_convert_8Bit_index_to_voltage int | hwmgr struct pp_hwmgr * | voltage int

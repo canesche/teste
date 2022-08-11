@@ -1,5 +1,0 @@
-struct cx18_mdl | readpos long | bytesused int | curr_buf int * 
-struct cx18_buffer | readpos long | bytesused int | buf int 
-struct TYPE_2__ | inserted_frame int | sliced_mpeg_size int * | sliced_mpeg_data int * | sliced_mpeg_buf struct cx18_buffer | sliced_mpeg_mdl struct cx18_mdl 
-struct cx18 | vbi struct TYPE_2__ 
-function cx18_setup_sliced_vbi_mdl void | cx struct cx18 *

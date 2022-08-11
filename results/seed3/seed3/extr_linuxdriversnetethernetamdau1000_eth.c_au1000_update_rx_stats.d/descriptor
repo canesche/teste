@@ -1,0 +1,3 @@
+struct net_device_stats | rx_bytes int | collisions int | rx_crc_errors int | rx_length_errors int | rx_missed_errors int | rx_errors int | multicast int | rx_packets int 
+struct net_device | stats struct net_device_stats 
+function au1000_update_rx_stats void | dev struct net_device * | status int

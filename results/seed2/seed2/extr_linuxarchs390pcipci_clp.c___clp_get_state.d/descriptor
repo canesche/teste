@@ -1,0 +1,3 @@
+struct clp_state_data | fid long | state int 
+struct clp_fh_list_entry | fid long | config_state int 
+function __clp_get_state void | entry struct clp_fh_list_entry * | data void *

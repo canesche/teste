@@ -1,0 +1,2 @@
+struct vgic_irq | hw int | get_input_level int * | hwintid long 
+function kvm_vgic_unmap_irq void | irq struct vgic_irq *

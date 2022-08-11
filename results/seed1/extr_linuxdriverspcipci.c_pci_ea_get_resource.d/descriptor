@@ -1,3 +1,0 @@
-struct resource | dummy int 
-struct pci_dev | resource struct resource * 
-function pci_ea_get_resource struct resource * | dev struct pci_dev * | bei long | prop long

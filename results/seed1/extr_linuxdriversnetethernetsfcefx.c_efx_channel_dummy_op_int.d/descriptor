@@ -1,2 +1,0 @@
-struct efx_channel | dummy int 
-function efx_channel_dummy_op_int int | channel struct efx_channel *

@@ -1,0 +1,2 @@
+struct func_hook | is_64bit_jump long 
+function patch_size unsigned long | hook struct func_hook *

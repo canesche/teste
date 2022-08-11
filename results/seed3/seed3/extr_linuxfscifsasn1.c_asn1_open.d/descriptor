@@ -1,0 +1,2 @@
+struct asn1_ctx | begin unsigned char * | end unsigned char * | pointer unsigned char * | error int 
+function asn1_open void | ctx struct asn1_ctx * | buf unsigned char * | len unsigned int

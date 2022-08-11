@@ -1,0 +1,1 @@
+function emscripten_futex_wake int | addr volatile void * | count int

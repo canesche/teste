@@ -1,0 +1,2 @@
+struct btc_coexist | dummy int 
+function ex_btc8822b1ant_antenna_detection void | btcoexist struct btc_coexist * | cent_freq int | offset int | span int | seconds int

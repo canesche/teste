@@ -1,0 +1,3 @@
+struct TYPE_2__ | qman_channel_id int 
+struct fman_port | dts_params struct TYPE_2__ 
+function fman_port_get_qman_channel_id int | port struct fman_port *

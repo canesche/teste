@@ -1,2 +1,0 @@
-struct _diva_dma_map_entry | busy long 
-function diva_free_dma_map_entry void | pmap struct _diva_dma_map_entry * | nr int

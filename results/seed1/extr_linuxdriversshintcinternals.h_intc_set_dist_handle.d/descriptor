@@ -1,3 +1,0 @@
-struct intc_desc_int | dummy int 
-struct intc_desc | dummy int 
-function intc_set_dist_handle void | irq unsigned int | desc struct intc_desc * | d struct intc_desc_int * | id int

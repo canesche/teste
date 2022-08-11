@@ -1,0 +1,2 @@
+struct wil6210_priv | dummy int 
+function wil_tx_init int | wil struct wil6210_priv *

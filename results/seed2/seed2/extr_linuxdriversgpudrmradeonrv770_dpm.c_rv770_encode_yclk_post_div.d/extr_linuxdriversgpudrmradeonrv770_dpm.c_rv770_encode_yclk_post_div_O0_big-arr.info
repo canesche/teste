@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmradeonrv770_dpm.c_rv770_encode_yclk_post_div.d/extr_linuxdriversgpudrmradeonrv770_dpm.c_rv770_encode_yclk_post_div_O0::rv770_encode_yclk_post_div(62)"
+  }
+]

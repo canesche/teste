@@ -1,0 +1,3 @@
+struct TYPE_4__ | next_area int * | prev_area int * | next_ent struct TYPE_4__ * | prev_ent struct TYPE_4__ * 
+struct TYPE_5__ | freelinks struct TYPE_4__ * 
+function AAS_DeAllocAASLink void | link struct TYPE_4__ *

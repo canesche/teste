@@ -1,0 +1,2 @@
+struct context_entry | hi long | lo long 
+function context_clear_entry void | context struct context_entry *

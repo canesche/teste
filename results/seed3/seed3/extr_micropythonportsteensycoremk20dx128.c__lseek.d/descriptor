@@ -1,0 +1,1 @@
+function _lseek int | fd int | offset long long | whence int

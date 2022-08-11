@@ -1,0 +1,1 @@
+function mp_binary_get_int long long | size int | is_signed int | big_endian int | src const int *

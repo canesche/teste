@@ -1,0 +1,2 @@
+struct console | index unsigned long 
+function hvc_console_setup int | co struct console * | options char *

@@ -1,2 +1,0 @@
-struct memac_cfg | reset_on_init int | promiscuous_mode_enable int | pause_ignore int | pause_quanta int | max_frame_length int | tx_ipg_length int 
-function set_dflts void | cfg struct memac_cfg *

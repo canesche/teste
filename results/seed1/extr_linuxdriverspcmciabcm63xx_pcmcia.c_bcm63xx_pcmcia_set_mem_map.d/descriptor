@@ -1,5 +1,0 @@
-struct resource | start long 
-struct pcmcia_socket | driver_data struct bcm63xx_pcmcia_socket * 
-struct pccard_mem_map | flags int | card_start long | static_start long 
-struct bcm63xx_pcmcia_socket | common_res struct resource * | attr_res struct resource * 
-function bcm63xx_pcmcia_set_mem_map int | sock struct pcmcia_socket * | map struct pccard_mem_map *

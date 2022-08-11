@@ -1,2 +1,0 @@
-struct pnfs_layout_segment | dummy int 
-function pnfs_get_lseg struct pnfs_layout_segment * | lseg struct pnfs_layout_segment *

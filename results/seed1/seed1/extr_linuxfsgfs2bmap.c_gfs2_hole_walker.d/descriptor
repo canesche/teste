@@ -1,0 +1,3 @@
+struct metapath | mp_aheight long | mp_fheight long 
+struct gfs2_hole_walker_args | blocks int 
+function gfs2_hole_walker const long * | mp struct metapath * | start const long * | end const long * | factor int | data void *

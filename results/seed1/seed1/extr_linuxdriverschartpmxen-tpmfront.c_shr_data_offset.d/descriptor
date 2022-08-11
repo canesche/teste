@@ -1,0 +1,2 @@
+struct vtpm_shared_page | nr_extra_pages int 
+function shr_data_offset unsigned int | shr struct vtpm_shared_page *

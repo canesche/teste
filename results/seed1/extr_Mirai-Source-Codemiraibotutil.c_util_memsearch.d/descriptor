@@ -1,1 +1,0 @@
-function util_memsearch int | buf char * | buf_len int | mem char * | mem_len int

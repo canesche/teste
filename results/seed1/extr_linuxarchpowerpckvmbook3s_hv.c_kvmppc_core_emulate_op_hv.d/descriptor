@@ -1,3 +1,0 @@
-struct kvm_vcpu | dummy int 
-struct kvm_run | dummy int 
-function kvmppc_core_emulate_op_hv int | run struct kvm_run * | vcpu struct kvm_vcpu * | inst unsigned int | advance int *

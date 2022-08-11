@@ -1,2 +1,0 @@
-struct s3cmci_host | dummy int 
-function dbg_dumpregs void | host struct s3cmci_host * | prefix char *

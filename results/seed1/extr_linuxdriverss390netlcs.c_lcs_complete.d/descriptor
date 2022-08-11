@@ -1,2 +1,0 @@
-struct ccwgroup_device | dummy int 
-function lcs_complete void | gdev struct ccwgroup_device *

@@ -1,0 +1,2 @@
+struct stack_entry | tp int | a int * 
+function new_image void | E struct stack_entry * | I int *

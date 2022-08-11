@@ -1,0 +1,6 @@
+struct TYPE_8__ | offset int | virtual long 
+struct TYPE_7__ | virtual long | physical long 
+struct TYPE_6__ | offset int | virtual long | physical long 
+struct TYPE_5__ | offset int | virtual long | physical long 
+struct i810fb_par | cursor_heap struct TYPE_8__ | aperture struct TYPE_7__ | iring struct TYPE_6__ | fb struct TYPE_5__ 
+function i810_fix_pointers void | par struct i810fb_par *

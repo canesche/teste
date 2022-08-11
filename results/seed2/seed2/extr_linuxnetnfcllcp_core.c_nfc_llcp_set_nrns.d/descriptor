@@ -1,0 +1,3 @@
+struct sk_buff | data int * 
+struct nfc_llcp_sock | send_n int | recv_n int | recv_ack_n int 
+function nfc_llcp_set_nrns void | sock struct nfc_llcp_sock * | pdu struct sk_buff *

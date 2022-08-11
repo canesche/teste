@@ -1,0 +1,2 @@
+struct TYPE_3__ | cluster int ** 
+function avi_get_ientry int * | idx const struct TYPE_3__ * | ent_id int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | load_ssl_client_cert int 
+function ENGINE_set_load_ssl_client_cert_function int | e struct TYPE_3__ * | loadssl_f int

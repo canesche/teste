@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxarchpowerpcplatforms85xxmpc85xx_pm_ops.c_mpc85xx_cpu_up_prepare.d/extr_linuxarchpowerpcplatforms85xxmpc85xx_pm_ops.c_mpc85xx_cpu_up_prepare_O0::mpc85xx_cpu_up_prepare(60)"
+  }
+]

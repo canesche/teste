@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversinfinibandhwusnicusnic_fwd.h_usnic_fwd_init_usnic_filter.d/extr_linuxdriversinfinibandhwusnicusnic_fwd.h_usnic_fwd_init_usnic_filter_O0::usnic_fwd_init_usnic_filter(75)"
+  }
+]

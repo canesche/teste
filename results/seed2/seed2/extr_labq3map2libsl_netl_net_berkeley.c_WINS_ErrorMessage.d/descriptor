@@ -1,0 +1,2 @@
+struct TYPE_2__ | errnum int | errstr long 
+function WINS_ErrorMessage char * | error int

@@ -1,0 +1,2 @@
+struct event_command | flags int 
+function event_command_needs_rec int | cmd_ops struct event_command *

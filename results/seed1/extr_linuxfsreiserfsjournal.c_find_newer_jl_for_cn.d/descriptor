@@ -1,4 +1,0 @@
-struct super_block | dummy int 
-struct reiserfs_journal_list | dummy int 
-struct reiserfs_journal_cnode | blocknr long | hprev struct reiserfs_journal_cnode * | jlist struct reiserfs_journal_list * | sb struct super_block * 
-function find_newer_jl_for_cn struct reiserfs_journal_list * | cn struct reiserfs_journal_cnode *

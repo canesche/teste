@@ -1,0 +1,2 @@
+struct tda7419_vol_control | reg long | rreg long 
+function tda7419_vol_is_stereo int | tvc struct tda7419_vol_control *

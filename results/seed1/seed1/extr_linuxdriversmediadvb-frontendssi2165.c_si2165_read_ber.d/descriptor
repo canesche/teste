@@ -1,0 +1,6 @@
+struct si2165_state | ber_prev long 
+struct TYPE_3__ | stat struct TYPE_4__ * 
+struct dtv_frontend_properties | post_bit_error struct TYPE_3__ 
+struct dvb_frontend | dtv_property_cache struct dtv_frontend_properties | demodulator_priv struct si2165_state * 
+struct TYPE_4__ | scale long | uvalue long 
+function si2165_read_ber int | fe struct dvb_frontend * | ber long *

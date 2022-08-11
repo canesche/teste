@@ -1,0 +1,2 @@
+struct tipc_msg | hdr unsigned long * 
+function msg_swap_words void | msg struct tipc_msg * | a unsigned long | b unsigned long

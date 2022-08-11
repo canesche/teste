@@ -1,3 +1,0 @@
-struct TYPE_4__ | ext_buf void * 
-struct TYPE_5__ | m_flags int | m_pktdat void * | m_dat void * | m_ext struct TYPE_4__ 
-function mbuf_datastart void * | mbuf struct TYPE_5__ *

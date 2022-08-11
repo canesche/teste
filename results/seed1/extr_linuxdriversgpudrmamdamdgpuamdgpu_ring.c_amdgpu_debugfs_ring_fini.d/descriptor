@@ -1,2 +1,0 @@
-struct amdgpu_ring | dummy int 
-function amdgpu_debugfs_ring_fini void | ring struct amdgpu_ring *

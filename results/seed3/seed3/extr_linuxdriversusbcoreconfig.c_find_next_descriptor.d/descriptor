@@ -1,0 +1,2 @@
+struct usb_descriptor_header | bDescriptorType int | bLength long 
+function find_next_descriptor int | buffer unsigned char * | size int | dt1 int | dt2 int | num_skipped int *

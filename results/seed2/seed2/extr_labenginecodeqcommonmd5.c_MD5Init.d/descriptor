@@ -1,0 +1,2 @@
+struct MD5Context | buf int * | bits long * 
+function MD5Init void | ctx struct MD5Context *

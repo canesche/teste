@@ -1,0 +1,2 @@
+struct snd_compr | dummy int 
+function snd_compress_proc_done void | compr struct snd_compr *

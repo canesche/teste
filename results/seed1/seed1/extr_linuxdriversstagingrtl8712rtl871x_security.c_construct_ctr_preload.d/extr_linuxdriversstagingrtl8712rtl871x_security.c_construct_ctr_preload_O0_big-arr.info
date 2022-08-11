@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 15,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 23,
+    static: {
+      instructions: 81,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 362,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversstagingrtl8712rtl871x_security.c_construct_ctr_preload.d/extr_linuxdriversstagingrtl8712rtl871x_security.c_construct_ctr_preload_O0::construct_ctr_preload(64)"
+  }
+]

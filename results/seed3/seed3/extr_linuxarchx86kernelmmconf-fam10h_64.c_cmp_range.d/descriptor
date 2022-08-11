@@ -1,0 +1,2 @@
+struct range | start int 
+function cmp_range int | x1 const void * | x2 const void *

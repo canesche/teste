@@ -1,0 +1,4 @@
+struct socket | dummy int 
+struct sockaddr | dummy int 
+struct proc | dummy int 
+function pru_connect_notsupp int | so struct socket * | nam struct sockaddr * | p struct proc *

@@ -1,2 +1,0 @@
-struct device | dummy int 
-function bcm2835_i2s_volatile_reg int | dev struct device * | reg unsigned int

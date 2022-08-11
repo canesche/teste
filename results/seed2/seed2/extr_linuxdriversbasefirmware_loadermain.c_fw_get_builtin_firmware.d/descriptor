@@ -1,0 +1,2 @@
+struct firmware | dummy int 
+function fw_get_builtin_firmware int | fw struct firmware * | name const char * | buf void * | size unsigned long

@@ -1,0 +1,3 @@
+struct TYPE_4__ | prefixSize unsigned long | extDictSize long | externalDict int * | prefixEnd const int * 
+struct TYPE_5__ | internal_donotuse struct TYPE_4__ 
+function LZ4_setStreamDecode int | LZ4_streamDecode struct TYPE_5__ * | dictionary const char * | dictSize int

@@ -1,2 +1,0 @@
-struct device | dummy int 
-function tegra20_spdif_precious_reg int | dev struct device * | reg unsigned int

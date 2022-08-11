@@ -1,2 +1,0 @@
-struct hc_status_block_sm | igu_sb_id int | igu_seg_id int | timer_value int | time_to_expire int 
-function bnx2x_setup_ndsb_state_machine void | hc_sm struct hc_status_block_sm * | igu_sb_id int | igu_seg_id int

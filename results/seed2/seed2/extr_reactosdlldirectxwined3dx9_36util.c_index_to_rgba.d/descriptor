@@ -1,0 +1,3 @@
+struct vec4 | x float | y float | z float | w float 
+struct TYPE_3__ | peRed float | peGreen float | peBlue float | peFlags float 
+function index_to_rgba void | index const struct vec4 * | rgba struct vec4 * | palette const struct TYPE_3__ *

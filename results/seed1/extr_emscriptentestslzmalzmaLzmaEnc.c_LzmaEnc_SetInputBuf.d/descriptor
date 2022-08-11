@@ -1,3 +1,0 @@
-struct TYPE_4__ | directInput int | directInputRem int | bufferBase int * 
-struct TYPE_5__ | matchFinderBase struct TYPE_4__ 
-function LzmaEnc_SetInputBuf void | p struct TYPE_5__ * | src const int * | srcLen int

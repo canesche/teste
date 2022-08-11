@@ -1,2 +1,0 @@
-struct vm_fault | dummy int 
-function filemap_page_mkwrite int | vmf struct vm_fault *

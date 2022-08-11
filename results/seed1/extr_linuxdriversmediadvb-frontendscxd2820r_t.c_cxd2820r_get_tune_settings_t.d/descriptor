@@ -1,5 +1,0 @@
-struct dvb_frontend_tune_settings | min_delay_ms int | step_size int | max_drift int 
-struct TYPE_3__ | frequency_stepsize_hz int 
-struct TYPE_4__ | info struct TYPE_3__ 
-struct dvb_frontend | ops struct TYPE_4__ 
-function cxd2820r_get_tune_settings_t int | fe struct dvb_frontend * | s struct dvb_frontend_tune_settings *

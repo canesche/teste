@@ -1,0 +1,2 @@
+struct TYPE_4__ | r_info long | r_addend long 
+function is_rela_equal int | x const struct TYPE_4__ * | y const struct TYPE_4__ *

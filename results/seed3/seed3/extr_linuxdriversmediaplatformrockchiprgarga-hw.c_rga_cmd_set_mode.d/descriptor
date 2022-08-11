@@ -1,0 +1,7 @@
+struct TYPE_2__ | gradient_sat int | bitblt int | render int 
+struct rga_mode_ctrl | val long | data struct TYPE_2__ 
+struct rga_alpha_ctrl1 | val long 
+struct rga_alpha_ctrl0 | val long 
+struct rockchip_rga | cmdbuf_virt long * 
+struct rga_ctx | rga struct rockchip_rga * 
+function rga_cmd_set_mode void | ctx struct rga_ctx *

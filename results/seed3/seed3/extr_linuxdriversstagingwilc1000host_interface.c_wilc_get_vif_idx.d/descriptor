@@ -1,0 +1,2 @@
+struct wilc_vif | idx int 
+function wilc_get_vif_idx int | vif struct wilc_vif *

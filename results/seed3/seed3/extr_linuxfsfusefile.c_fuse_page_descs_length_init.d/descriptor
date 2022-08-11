@@ -1,0 +1,3 @@
+struct fuse_req | page_descs struct TYPE_2__ * 
+struct TYPE_2__ | offset long | length long 
+function fuse_page_descs_length_init void | req struct fuse_req * | index unsigned int | nr_pages unsigned int

@@ -1,2 +1,0 @@
-struct picolcd_data | dummy int 
-function picolcd_suspend_backlight void | data struct picolcd_data *

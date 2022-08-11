@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct cxgbit_sock | wr_pending_head struct sk_buff * 
+function cxgbit_sock_peek_wr struct sk_buff * | csk const struct cxgbit_sock *

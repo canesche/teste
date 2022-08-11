@@ -1,0 +1,1 @@
+function spi_nor_convert_opcode const long | opcode const long | table long const[][2] | size unsigned long

@@ -1,0 +1,4 @@
+struct symbol | end long | start unsigned long 
+struct addr_location | addr long | map struct TYPE_2__ * 
+struct TYPE_2__ | start unsigned long 
+function get_offset unsigned long | sym struct symbol * | al struct addr_location *

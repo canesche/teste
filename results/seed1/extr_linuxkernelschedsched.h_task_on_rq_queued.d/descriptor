@@ -1,2 +1,0 @@
-struct task_struct | on_rq long 
-function task_on_rq_queued int | p struct task_struct *

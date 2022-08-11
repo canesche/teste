@@ -1,3 +1,0 @@
-struct child_process | dummy int 
-struct subprocess_entry | process struct child_process 
-function subprocess_get_child_process struct child_process * | entry struct subprocess_entry *

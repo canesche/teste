@@ -1,0 +1,2 @@
+struct omap_drm_private | dummy int 
+function omap_crtc_dss_start_update void | priv struct omap_drm_private * | channel enum omap_channel

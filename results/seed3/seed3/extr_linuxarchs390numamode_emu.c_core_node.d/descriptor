@@ -1,0 +1,5 @@
+struct toptree | parent struct TYPE_6__ * 
+struct TYPE_6__ | parent struct TYPE_5__ * 
+struct TYPE_5__ | parent struct TYPE_4__ * 
+struct TYPE_4__ | parent struct toptree * 
+function core_node struct toptree * | core struct toptree *

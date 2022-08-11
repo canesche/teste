@@ -1,2 +1,0 @@
-struct MPContext | num_chapters int 
-function get_chapter_count int | mpctx struct MPContext *

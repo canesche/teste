@@ -1,0 +1,2 @@
+struct TYPE_4__ | port int | pVtbl const int * 
+function mig_object_init int | mig_object struct TYPE_4__ * | interface const int *

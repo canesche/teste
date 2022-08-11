@@ -1,0 +1,3 @@
+struct vhpet | timer struct TYPE_2__ * 
+struct TYPE_2__ | cap_config int 
+function vhpet_timer_interrupt_enabled int | vhpet struct vhpet * | n int

@@ -1,0 +1,2 @@
+struct cma | count unsigned long | order_per_bit unsigned long 
+function cma_bitmap_maxno unsigned long | cma struct cma *

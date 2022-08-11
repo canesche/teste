@@ -1,2 +1,0 @@
-struct dpu_encoder_phys | enable_state long | split_role long | topology_name long 
-function dpu_encoder_helper_get_3d_blend_mode enum dpu_3d_blend_mode | phys_enc struct dpu_encoder_phys *

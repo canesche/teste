@@ -1,0 +1,2 @@
+struct dentry | dummy int 
+function edac_debugfs_create_x8 struct dentry * | name const char * | mode int | parent struct dentry * | value int *

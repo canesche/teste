@@ -1,0 +1,5 @@
+struct TYPE_3__ | qm_port_params struct init_qm_port_params * 
+struct qed_hwfn | qm_info struct TYPE_3__ | cdev struct TYPE_4__ * 
+struct init_qm_port_params | active int | active_phys_tcs unsigned long | num_pbf_cmd_lines unsigned long | num_btb_blocks unsigned long 
+struct TYPE_4__ | num_ports_in_engine unsigned long 
+function qed_init_qm_port_params void | p_hwfn struct qed_hwfn *

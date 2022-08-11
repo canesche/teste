@@ -1,0 +1,3 @@
+struct cqhci_host | trans_desc_base int * | trans_desc_len int | mmc struct TYPE_2__ * 
+struct TYPE_2__ | max_segs int 
+function get_trans_desc int * | cq_host struct cqhci_host * | tag int

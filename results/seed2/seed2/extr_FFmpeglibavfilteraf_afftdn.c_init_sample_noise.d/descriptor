@@ -1,0 +1,2 @@
+struct TYPE_3__ | noise_band_norm double * | noise_band_avr double * | noise_band_avi double * | noise_band_var double * 
+function init_sample_noise void | dnch struct TYPE_3__ *

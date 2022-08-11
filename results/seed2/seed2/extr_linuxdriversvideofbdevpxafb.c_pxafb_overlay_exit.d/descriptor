@@ -1,0 +1,2 @@
+struct pxafb_info | dummy int 
+function pxafb_overlay_exit void | fbi struct pxafb_info *

@@ -1,6 +1,0 @@
-struct TYPE_8__ | format int | colorspace long 
-struct TYPE_7__ | fb struct TYPE_6__ * 
-struct nv50_wndw_atom | image struct TYPE_8__ | state struct TYPE_7__ 
-struct TYPE_6__ | format struct TYPE_5__ * 
-struct TYPE_5__ | format int 
-function nv50_wndw_atomic_check_acquire_rgb int | asyw struct nv50_wndw_atom *

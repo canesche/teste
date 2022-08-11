@@ -1,0 +1,4 @@
+struct mvebu_pinctrl_group | num_settings unsigned int | settings struct mvebu_mpp_ctrl_setting * 
+struct mvebu_pinctrl | variant int 
+struct mvebu_mpp_ctrl_setting | flags int | variant int 
+function mvebu_pinctrl_find_gpio_setting struct mvebu_mpp_ctrl_setting * | pctl struct mvebu_pinctrl * | grp struct mvebu_pinctrl_group *

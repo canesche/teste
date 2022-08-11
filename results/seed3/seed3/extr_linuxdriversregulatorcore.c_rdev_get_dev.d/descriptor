@@ -1,0 +1,3 @@
+struct device | dummy int 
+struct regulator_dev | dev struct device 
+function rdev_get_dev struct device * | rdev struct regulator_dev *

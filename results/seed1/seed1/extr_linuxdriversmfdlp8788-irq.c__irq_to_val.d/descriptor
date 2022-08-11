@@ -1,0 +1,1 @@
+function _irq_to_val int | id enum lp8788_int_id | enable int

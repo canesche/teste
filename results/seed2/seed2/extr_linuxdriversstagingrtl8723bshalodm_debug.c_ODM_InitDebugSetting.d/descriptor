@@ -1,0 +1,2 @@
+struct TYPE_3__ | DebugComponents long | DebugLevel int 
+function ODM_InitDebugSetting void | pDM_Odm struct TYPE_3__ *

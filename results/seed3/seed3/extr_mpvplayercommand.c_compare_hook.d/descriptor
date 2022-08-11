@@ -1,0 +1,2 @@
+struct hook_handler | priority long | seq int 
+function compare_hook int | pa const void * | pb const void *

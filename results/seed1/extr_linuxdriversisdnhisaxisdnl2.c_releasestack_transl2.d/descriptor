@@ -1,2 +1,0 @@
-struct PStack | dummy int 
-function releasestack_transl2 void | st struct PStack *

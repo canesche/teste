@@ -1,0 +1,2 @@
+struct es1968 | apu int * 
+function snd_es1968_alloc_apu_pair int | chip struct es1968 * | type int

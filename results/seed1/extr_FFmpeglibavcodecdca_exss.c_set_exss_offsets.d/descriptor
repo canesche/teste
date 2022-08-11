@@ -1,2 +1,0 @@
-struct TYPE_3__ | asset_offset int | asset_size int | extension_mask int | core_offset int | core_size int | xbr_offset int | xbr_size int | xxch_offset int | xxch_size int | x96_offset int | x96_size int | lbr_offset int | lbr_size int | xll_offset int | xll_size int 
-function set_exss_offsets int | asset struct TYPE_3__ *

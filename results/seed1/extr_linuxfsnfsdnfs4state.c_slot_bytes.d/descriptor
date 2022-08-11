@@ -1,3 +1,0 @@
-struct nfsd4_slot | dummy int 
-struct nfsd4_channel_attrs | maxresp_cached long 
-function slot_bytes long | ca struct nfsd4_channel_attrs *

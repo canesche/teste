@@ -1,2 +1,0 @@
-struct bpt | address unsigned long | enabled long 
-function at_breakpoint struct bpt * | pc unsigned long

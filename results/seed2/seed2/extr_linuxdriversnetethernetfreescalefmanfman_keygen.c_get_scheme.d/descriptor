@@ -1,0 +1,3 @@
+struct keygen_scheme | dummy int 
+struct fman_keygen | schemes struct keygen_scheme * 
+function get_scheme struct keygen_scheme * | keygen struct fman_keygen * | scheme_id unsigned long

@@ -1,0 +1,4 @@
+struct pinctrl_ops | get_group_name int | get_groups_count int 
+struct pinctrl_dev | desc struct TYPE_2__ * 
+struct TYPE_2__ | pctlops struct pinctrl_ops * 
+function pinctrl_check_ops int | pctldev struct pinctrl_dev *

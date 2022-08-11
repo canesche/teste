@@ -1,2 +1,0 @@
-struct atkbd | set int | emul int 
-function atkbd_compat_scancode unsigned int | atkbd struct atkbd * | code unsigned int

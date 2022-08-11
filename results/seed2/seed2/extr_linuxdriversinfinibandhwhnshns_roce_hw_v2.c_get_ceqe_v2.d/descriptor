@@ -1,0 +1,4 @@
+struct hns_roce_eq | eqe_buf_pg_sz int | entries int | buf_list struct TYPE_2__ * 
+struct hns_roce_ceqe | dummy int 
+struct TYPE_2__ | buf long 
+function get_ceqe_v2 struct hns_roce_ceqe * | eq struct hns_roce_eq * | entry int

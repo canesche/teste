@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_radare2librasmarcharcgnuarc-opc.c_ARC700_rtie_insn.d/extr_radare2librasmarcharcgnuarc-opc.c_ARC700_rtie_insn_O0::ARC700_rtie_insn(62)"
+  }
+]

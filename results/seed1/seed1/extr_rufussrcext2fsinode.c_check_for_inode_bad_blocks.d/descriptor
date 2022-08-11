@@ -1,0 +1,4 @@
+struct TYPE_7__ | list long * | num unsigned long 
+struct TYPE_6__ | current_block long | bad_block_ptr unsigned long | scan_flags int | fs struct TYPE_5__ * 
+struct TYPE_5__ | badblocks struct TYPE_7__ * 
+function check_for_inode_bad_blocks int | scan struct TYPE_6__ * | num_blocks long *

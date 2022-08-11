@@ -1,0 +1,2 @@
+struct em28xx | dummy int 
+function em28xx_unregister_media_device void | dev struct em28xx *

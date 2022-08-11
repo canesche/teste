@@ -1,2 +1,0 @@
-struct msg_msg | m_type long 
-function testmsg int | msg struct msg_msg * | type long | mode int

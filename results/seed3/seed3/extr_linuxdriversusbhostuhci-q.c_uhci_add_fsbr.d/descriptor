@@ -1,0 +1,4 @@
+struct urb_priv | fsbr int 
+struct urb | hcpriv struct urb_priv * 
+struct uhci_hcd | dummy int 
+function uhci_add_fsbr void | uhci struct uhci_hcd * | urb struct urb *

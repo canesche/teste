@@ -1,0 +1,2 @@
+struct scom_access | pib_status int | intf_errors int 
+function raw_convert_status void | acc struct scom_access * | status int

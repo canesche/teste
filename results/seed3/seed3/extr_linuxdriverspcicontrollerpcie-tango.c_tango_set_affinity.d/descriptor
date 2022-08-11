@@ -1,0 +1,3 @@
+struct irq_data | dummy int 
+struct cpumask | dummy int 
+function tango_set_affinity int | d struct irq_data * | mask const struct cpumask * | force int

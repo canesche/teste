@@ -1,0 +1,3 @@
+struct TYPE_2__ | protocol_name const int 
+struct mei_me_client | props struct TYPE_2__ 
+function mei_me_cl_uuid const int * | me_cl const struct mei_me_client *

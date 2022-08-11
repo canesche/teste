@@ -1,3 +1,0 @@
-struct meson_clk_phase_data | dummy int 
-struct clk_regmap | data long 
-function meson_clk_phase_data struct meson_clk_phase_data * | clk struct clk_regmap *

@@ -1,0 +1,2 @@
+struct filesys_inode | next struct filesys_inode * | prev struct filesys_inode * 
+function add_use void | I struct filesys_inode *

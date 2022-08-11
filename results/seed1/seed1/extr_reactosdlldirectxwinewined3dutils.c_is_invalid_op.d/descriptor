@@ -1,0 +1,2 @@
+struct wined3d_state | textures long * 
+function is_invalid_op int | state const struct wined3d_state * | stage int | op enum wined3d_texture_op | arg1 int | arg2 int | arg3 int

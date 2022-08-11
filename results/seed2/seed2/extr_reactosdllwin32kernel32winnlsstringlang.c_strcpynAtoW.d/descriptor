@@ -1,0 +1,1 @@
+function strcpynAtoW void | dst long * | src const char * | n unsigned long

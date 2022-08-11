@@ -1,0 +1,2 @@
+struct coh901318_lli | link_addr long | virt_link_addr long 
+function coh901318_lli_next struct coh901318_lli * | data struct coh901318_lli *

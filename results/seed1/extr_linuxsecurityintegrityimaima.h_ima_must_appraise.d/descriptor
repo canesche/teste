@@ -1,2 +1,0 @@
-struct inode | dummy int 
-function ima_must_appraise int | inode struct inode * | mask int | func enum ima_hooks

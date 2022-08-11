@@ -1,2 +1,0 @@
-struct pvr2_hdw | state_pipeline_req long 
-function pvr2_hdw_get_streaming int | hdw struct pvr2_hdw *

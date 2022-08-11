@@ -1,2 +1,0 @@
-struct flex_array | elems_per_part unsigned int | element_size unsigned int 
-function index_inside_part unsigned int | fa struct flex_array * | element_nr unsigned int | part_nr unsigned int

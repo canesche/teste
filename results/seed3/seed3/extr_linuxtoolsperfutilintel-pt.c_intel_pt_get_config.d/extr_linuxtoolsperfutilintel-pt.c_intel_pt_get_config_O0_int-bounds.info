@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxtoolsperfutilintel-pt.c_intel_pt_get_config.d/extr_linuxtoolsperfutilintel-pt.c_intel_pt_get_config_O0::intel_pt_get_config(64)"
+  }
+]

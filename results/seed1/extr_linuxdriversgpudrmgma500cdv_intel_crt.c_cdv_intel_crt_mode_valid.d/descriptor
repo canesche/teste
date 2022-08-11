@@ -1,3 +1,0 @@
-struct drm_display_mode | flags int | clock int 
-struct drm_connector | dummy int 
-function cdv_intel_crt_mode_valid enum drm_mode_status | connector struct drm_connector * | mode struct drm_display_mode *

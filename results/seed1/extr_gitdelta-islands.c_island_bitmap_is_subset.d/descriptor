@@ -1,2 +1,0 @@
-struct island_bitmap | bits int * 
-function island_bitmap_is_subset int | self struct island_bitmap * | super struct island_bitmap *

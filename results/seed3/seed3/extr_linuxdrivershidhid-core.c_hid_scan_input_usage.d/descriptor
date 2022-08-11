@@ -1,0 +1,3 @@
+struct hid_parser | device struct hid_device * 
+struct hid_device | group int 
+function hid_scan_input_usage void | parser struct hid_parser * | usage long

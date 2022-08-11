@@ -1,2 +1,0 @@
-struct Qdisc | dummy int 
-function tc_bind_tclass void | q struct Qdisc * | portid int | clid int | new_cl unsigned long

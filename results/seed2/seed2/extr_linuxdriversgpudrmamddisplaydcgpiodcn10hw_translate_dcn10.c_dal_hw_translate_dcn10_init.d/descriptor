@@ -1,0 +1,2 @@
+struct hw_translate | funcs int * 
+function dal_hw_translate_dcn10_init void | tr struct hw_translate *

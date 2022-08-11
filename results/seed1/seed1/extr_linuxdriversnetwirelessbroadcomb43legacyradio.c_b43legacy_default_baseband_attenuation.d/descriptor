@@ -1,0 +1,3 @@
+struct b43legacy_phy | radio_ver int | radio_rev int 
+struct b43legacy_wldev | phy struct b43legacy_phy 
+function b43legacy_default_baseband_attenuation int | dev struct b43legacy_wldev *

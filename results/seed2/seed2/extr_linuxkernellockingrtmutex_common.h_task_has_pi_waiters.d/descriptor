@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function task_has_pi_waiters int | p struct task_struct *

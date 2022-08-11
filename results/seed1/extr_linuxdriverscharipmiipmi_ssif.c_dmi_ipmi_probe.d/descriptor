@@ -1,2 +1,0 @@
-struct platform_device | dummy int 
-function dmi_ipmi_probe int | pdev struct platform_device *

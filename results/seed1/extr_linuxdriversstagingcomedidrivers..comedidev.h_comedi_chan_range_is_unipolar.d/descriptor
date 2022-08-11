@@ -1,4 +1,0 @@
-struct comedi_subdevice | range_table_list struct TYPE_4__ ** 
-struct TYPE_4__ | range struct TYPE_3__ * 
-struct TYPE_3__ | min long 
-function comedi_chan_range_is_unipolar int | s struct comedi_subdevice * | chan unsigned int | range unsigned int

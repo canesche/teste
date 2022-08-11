@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriverssoundwirebus_type.c_sdw_get_device_id.d/extr_linuxdriverssoundwirebus_type.c_sdw_get_device_id_O0::sdw_get_device_id(66)"
+  }
+]

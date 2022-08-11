@@ -1,0 +1,2 @@
+struct TYPE_2__ | PageAllocated long 
+function MmCountFreePagesInLookupTable unsigned long | PageLookupTable int | TotalPageCount unsigned long

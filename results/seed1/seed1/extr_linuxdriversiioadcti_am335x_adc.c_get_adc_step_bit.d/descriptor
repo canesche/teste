@@ -1,0 +1,2 @@
+struct tiadc_device | channel_step int * 
+function get_adc_step_bit int | adc_dev struct tiadc_device * | chan int

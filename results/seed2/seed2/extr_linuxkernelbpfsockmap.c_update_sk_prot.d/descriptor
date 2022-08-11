@@ -1,0 +1,3 @@
+struct sock | sk_family long | sk_prot int * 
+struct smap_psock | bpf_tx_msg long 
+function update_sk_prot void | sk struct sock * | psock struct smap_psock *

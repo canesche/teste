@@ -1,0 +1,2 @@
+struct ssusb_mtk | dummy int 
+function ssusb_set_force_mode void | ssusb struct ssusb_mtk * | mode enum mtu3_dr_force_mode

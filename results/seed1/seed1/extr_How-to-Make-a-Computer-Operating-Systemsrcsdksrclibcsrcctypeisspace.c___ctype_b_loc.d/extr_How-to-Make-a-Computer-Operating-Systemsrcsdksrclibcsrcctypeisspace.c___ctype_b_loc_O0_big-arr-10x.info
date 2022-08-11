@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400600,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_How-to-Make-a-Computer-Operating-Systemsrcsdksrclibcsrcctypeisspace.c___ctype_b_loc.d/extr_How-to-Make-a-Computer-Operating-Systemsrcsdksrclibcsrcctypeisspace.c___ctype_b_loc_O0::isspace(59)"
+  }
+]

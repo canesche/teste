@@ -1,0 +1,5 @@
+struct obs_scene_item | parent struct TYPE_4__ * | prev struct TYPE_6__ * | next struct TYPE_5__ * 
+struct TYPE_6__ | next struct TYPE_5__ * 
+struct TYPE_5__ | prev struct TYPE_6__ * 
+struct TYPE_4__ | first_item struct TYPE_5__ * 
+function detach_sceneitem void | item struct obs_scene_item *

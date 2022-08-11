@@ -1,1 +1,0 @@
-function utf8_encode int | codepoint int | buffer char * | size unsigned long *

@@ -1,0 +1,5 @@
+struct mp_filter_command | type long | is_active int | speed int 
+struct mp_filter | priv struct aspeed_priv * 
+struct TYPE_2__ | filter int 
+struct aspeed_priv | sub struct TYPE_2__ | cur_speed int 
+function aspeed_command int | f struct mp_filter * | cmd struct mp_filter_command *

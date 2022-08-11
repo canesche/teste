@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 22,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessrealtekrtlwifirtl8192eehw.c__rtl92ee_get_chnl_group.d/extr_linuxdriversnetwirelessrealtekrtlwifirtl8192eehw.c__rtl92ee_get_chnl_group_O0::_rtl92ee_get_chnl_group(61)"
+  }
+]

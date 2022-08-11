@@ -1,0 +1,1 @@
+function _crypto_scalarmult_ed25519_is_inf int | s unsigned char const[32]

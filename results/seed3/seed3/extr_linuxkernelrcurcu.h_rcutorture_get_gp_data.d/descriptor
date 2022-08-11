@@ -1,0 +1,1 @@
+function rcutorture_get_gp_data void | test_type enum rcutorture_type | flags int * | gp_seq unsigned long *

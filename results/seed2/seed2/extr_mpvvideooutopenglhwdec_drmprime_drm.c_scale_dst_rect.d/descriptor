@@ -1,0 +1,4 @@
+struct ra_hwdec | priv struct priv * 
+struct priv | display_w double | display_h double 
+struct mp_rect | x0 double | x1 double | y0 double | y1 double 
+function scale_dst_rect void | hw struct ra_hwdec * | source_w int | source_h int | src struct mp_rect * | dst struct mp_rect *

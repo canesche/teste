@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversi2cbussesi2c-imx-lpi2c.c_lpi2c_imx_set_mode.d/extr_linuxdriversi2cbussesi2c-imx-lpi2c.c_lpi2c_imx_set_mode_O0::lpi2c_imx_set_mode(71)"
+  }
+]

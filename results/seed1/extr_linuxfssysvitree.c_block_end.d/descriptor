@@ -1,2 +1,0 @@
-struct buffer_head | b_size int | b_data long 
-function block_end int * | bh struct buffer_head *

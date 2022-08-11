@@ -1,0 +1,6 @@
+struct MPI2_REPLY_DESCRIPTORS_UNION | dummy int 
+struct MEGASAS_REQUEST_DESCRIPTOR_UNION | dummy int 
+struct megasas_instance | max_fw_cmds int | adapter_type long | max_mpt_cmds int | cur_can_queue long | host struct TYPE_2__ * | max_scsi_cmds long | ctrl_context struct fusion_context * 
+struct fusion_context | reply_q_depth int | request_alloc_sz int | reply_alloc_sz int | io_frames_alloc_sz int 
+struct TYPE_2__ | can_queue long 
+function megasas_configure_queue_sizes void | instance struct megasas_instance *

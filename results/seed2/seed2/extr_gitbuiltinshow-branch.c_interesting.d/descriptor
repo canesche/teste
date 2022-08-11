@@ -1,0 +1,4 @@
+struct commit_list | next struct commit_list * | item struct commit * 
+struct TYPE_2__ | flags int 
+struct commit | object struct TYPE_2__ 
+function interesting struct commit * | list struct commit_list *

@@ -1,1 +1,0 @@
-function sqliteErrorFromPosixError int | posixError int | sqliteIOErr int

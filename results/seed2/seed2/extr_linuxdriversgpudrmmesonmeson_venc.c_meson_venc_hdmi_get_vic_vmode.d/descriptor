@@ -1,0 +1,3 @@
+struct meson_hdmi_venc_mode | dummy int 
+struct meson_hdmi_venc_vic_mode | vic int | mode union meson_hdmi_venc_mode * 
+function meson_venc_hdmi_get_vic_vmode union meson_hdmi_venc_mode * | vic int

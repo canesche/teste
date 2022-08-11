@@ -1,0 +1,1 @@
+function mace_txdma_intr int | irq int | dev_id void *

@@ -1,0 +1,3 @@
+struct ispstat | buf struct TYPE_2__ * 
+struct TYPE_2__ | empty int 
+function isp_stat_buf_clear void | stat struct ispstat *

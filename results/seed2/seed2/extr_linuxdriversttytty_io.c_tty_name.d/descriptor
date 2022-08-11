@@ -1,0 +1,2 @@
+struct tty_struct | name const char * 
+function tty_name const char * | tty const struct tty_struct *

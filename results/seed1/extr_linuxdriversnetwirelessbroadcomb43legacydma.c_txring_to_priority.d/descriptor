@@ -1,2 +1,0 @@
-struct b43legacy_dmaring | index unsigned long 
-function txring_to_priority int | ring struct b43legacy_dmaring *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | buf int * 
+function strbuf_allocated int | s struct TYPE_3__ *

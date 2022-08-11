@@ -1,2 +1,0 @@
-struct list | prev struct list * | next struct list * 
-function list_init void | list struct list *

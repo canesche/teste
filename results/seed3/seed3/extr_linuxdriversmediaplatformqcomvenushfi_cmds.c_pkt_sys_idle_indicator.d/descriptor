@@ -1,0 +1,4 @@
+struct TYPE_2__ | size int | pkt_type int 
+struct hfi_sys_set_property_pkt | num_properties int | data int * | hdr struct TYPE_2__ 
+struct hfi_enable | enable int 
+function pkt_sys_idle_indicator void | pkt struct hfi_sys_set_property_pkt * | enable int

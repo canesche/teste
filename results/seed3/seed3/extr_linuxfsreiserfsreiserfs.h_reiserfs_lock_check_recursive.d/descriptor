@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function reiserfs_lock_check_recursive void | s struct super_block *

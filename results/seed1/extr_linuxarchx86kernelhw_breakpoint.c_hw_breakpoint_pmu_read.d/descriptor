@@ -1,2 +1,0 @@
-struct perf_event | dummy int 
-function hw_breakpoint_pmu_read void | bp struct perf_event *

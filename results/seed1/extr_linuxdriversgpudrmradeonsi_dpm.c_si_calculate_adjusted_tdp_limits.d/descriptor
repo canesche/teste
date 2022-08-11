@@ -1,4 +1,0 @@
-struct TYPE_3__ | tdp_limit int | near_tdp_limit_adjusted int | tdp_od_limit long 
-struct TYPE_4__ | dpm struct TYPE_3__ 
-struct radeon_device | pm struct TYPE_4__ 
-function si_calculate_adjusted_tdp_limits int | rdev struct radeon_device * | adjust_polarity int | tdp_adjustment int | tdp_limit int * | near_tdp_limit int *

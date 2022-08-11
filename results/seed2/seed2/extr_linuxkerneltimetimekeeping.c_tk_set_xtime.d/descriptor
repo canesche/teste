@@ -1,0 +1,4 @@
+struct timespec64 | tv_nsec long | tv_sec int 
+struct TYPE_2__ | xtime_nsec int | shift int 
+struct timekeeper | tkr_mono struct TYPE_2__ | xtime_sec int 
+function tk_set_xtime void | tk struct timekeeper * | ts const struct timespec64 *

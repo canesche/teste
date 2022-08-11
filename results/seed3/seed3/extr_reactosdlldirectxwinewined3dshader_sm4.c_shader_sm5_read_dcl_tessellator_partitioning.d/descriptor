@@ -1,0 +1,4 @@
+struct wined3d_sm4_data | dummy int 
+struct TYPE_2__ | tessellator_partitioning int 
+struct wined3d_shader_instruction | declaration struct TYPE_2__ 
+function shader_sm5_read_dcl_tessellator_partitioning void | ins struct wined3d_shader_instruction * | opcode int | opcode_token int | tokens const int * | token_count unsigned int | priv struct wined3d_sm4_data *

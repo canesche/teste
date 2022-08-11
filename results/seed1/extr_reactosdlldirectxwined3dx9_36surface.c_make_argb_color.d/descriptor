@@ -1,4 +1,0 @@
-struct argb_conversion_info | destshift int * | channelmask int | destformat struct TYPE_4__ * | srcformat struct TYPE_3__ * | process_channel long * 
-struct TYPE_4__ | shift int * 
-struct TYPE_3__ | bits long * 
-function make_argb_color int | info const struct argb_conversion_info * | in const int *

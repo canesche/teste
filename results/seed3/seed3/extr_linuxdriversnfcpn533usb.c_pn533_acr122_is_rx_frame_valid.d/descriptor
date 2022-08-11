@@ -1,0 +1,4 @@
+struct TYPE_2__ | type int | datalen int 
+struct pn533_acr122_rx_frame | data int * | ccid struct TYPE_2__ 
+struct pn533 | dummy int 
+function pn533_acr122_is_rx_frame_valid int | _frame void * | dev struct pn533 *

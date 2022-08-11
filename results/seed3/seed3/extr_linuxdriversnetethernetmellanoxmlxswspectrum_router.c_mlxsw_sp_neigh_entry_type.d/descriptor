@@ -1,0 +1,5 @@
+struct TYPE_6__ | n struct TYPE_5__ * 
+struct mlxsw_sp_neigh_entry | key struct TYPE_6__ 
+struct TYPE_5__ | tbl struct TYPE_4__ * 
+struct TYPE_4__ | family int 
+function mlxsw_sp_neigh_entry_type int | neigh_entry struct mlxsw_sp_neigh_entry *

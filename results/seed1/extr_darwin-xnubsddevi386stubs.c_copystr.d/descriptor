@@ -1,1 +1,0 @@
-function copystr int | vfrom const void * | vto void * | maxlen unsigned long | lencopied unsigned long *

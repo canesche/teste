@@ -1,0 +1,3 @@
+struct mbox_chan | con_priv long 
+struct altera_mbox | dummy int 
+function mbox_chan_to_altera_mbox struct altera_mbox * | chan struct mbox_chan *

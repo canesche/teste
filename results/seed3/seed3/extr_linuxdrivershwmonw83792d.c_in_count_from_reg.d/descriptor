@@ -1,0 +1,2 @@
+struct w83792d_data | in int * | low_bits int 
+function in_count_from_reg long | nr int | data struct w83792d_data *

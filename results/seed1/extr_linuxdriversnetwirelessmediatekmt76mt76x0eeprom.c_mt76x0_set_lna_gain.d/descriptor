@@ -1,3 +1,0 @@
-struct mt76x0_dev | ee struct TYPE_2__ * 
-struct TYPE_2__ | lna_gain_2ghz int | lna_gain_5ghz int * 
-function mt76x0_set_lna_gain void | dev struct mt76x0_dev * | eeprom int *

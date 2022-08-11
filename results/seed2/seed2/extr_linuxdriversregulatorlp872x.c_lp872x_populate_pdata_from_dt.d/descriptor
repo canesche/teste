@@ -1,0 +1,3 @@
+struct lp872x_platform_data | dummy int 
+struct device | dummy int 
+function lp872x_populate_pdata_from_dt struct lp872x_platform_data * | dev struct device * | which enum lp872x_id

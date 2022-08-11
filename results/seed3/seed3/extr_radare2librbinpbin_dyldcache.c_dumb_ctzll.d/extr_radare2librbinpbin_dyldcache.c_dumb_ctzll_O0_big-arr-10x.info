@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_radare2librbinpbin_dyldcache.c_dumb_ctzll.d/extr_radare2librbinpbin_dyldcache.c_dumb_ctzll_O0::dumb_ctzll(62)"
+  }
+]

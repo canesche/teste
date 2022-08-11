@@ -1,0 +1,3 @@
+struct vo_internal | expecting_vsync int | num_successive_vsyncs long | base_vsync long | drop_point long 
+struct vo | in struct vo_internal * 
+function reset_vsync_timings void | vo struct vo *

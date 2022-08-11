@@ -1,0 +1,2 @@
+struct TYPE_3__ | bufptr int * | cofs long | maxofs long 
+function GetASCIIZ int | pers struct TYPE_3__ * | dest char * | max int

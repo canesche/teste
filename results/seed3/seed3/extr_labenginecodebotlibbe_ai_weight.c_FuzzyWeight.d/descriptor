@@ -1,0 +1,4 @@
+struct TYPE_6__ | weights struct TYPE_5__ * 
+struct TYPE_7__ | index unsigned long | value int | weight float | next struct TYPE_7__ * | child struct TYPE_7__ * 
+struct TYPE_5__ | firstseperator struct TYPE_7__ * 
+function FuzzyWeight float | inventory int * | wc struct TYPE_6__ * | weightnum int

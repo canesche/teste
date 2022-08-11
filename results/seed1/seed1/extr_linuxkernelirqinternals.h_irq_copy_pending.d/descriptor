@@ -1,0 +1,3 @@
+struct irq_desc | dummy int 
+struct cpumask | dummy int 
+function irq_copy_pending void | desc struct irq_desc * | mask const struct cpumask *

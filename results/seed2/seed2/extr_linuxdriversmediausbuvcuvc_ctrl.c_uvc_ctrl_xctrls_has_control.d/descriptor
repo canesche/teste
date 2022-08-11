@@ -1,0 +1,2 @@
+struct v4l2_ext_control | id long 
+function uvc_ctrl_xctrls_has_control int | xctrls const struct v4l2_ext_control * | xctrls_count unsigned int | id long

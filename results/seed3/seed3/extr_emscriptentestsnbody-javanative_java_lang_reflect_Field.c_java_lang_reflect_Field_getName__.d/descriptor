@@ -1,0 +1,4 @@
+struct TYPE_4__ | name_ long 
+struct TYPE_5__ | java_lang_reflect_Field struct TYPE_4__ 
+struct TYPE_6__ | fields struct TYPE_5__ 
+function java_lang_reflect_Field_getName__ long | me long

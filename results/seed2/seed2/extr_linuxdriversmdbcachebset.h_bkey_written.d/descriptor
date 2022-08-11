@@ -1,0 +1,5 @@
+struct btree_keys | nsets unsigned long | set struct TYPE_4__ * | last_set_unwritten int 
+struct bkey | dummy int 
+struct TYPE_4__ | data struct TYPE_3__ * 
+struct TYPE_3__ | start struct bkey * 
+function bkey_written int | b struct btree_keys * | k struct bkey *

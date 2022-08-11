@@ -1,2 +1,0 @@
-struct forth_stack | dummy int 
-function forth_bye void * | IP void ** | st struct forth_stack *

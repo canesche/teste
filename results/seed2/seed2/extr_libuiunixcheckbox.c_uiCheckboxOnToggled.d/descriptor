@@ -1,0 +1,2 @@
+struct TYPE_5__ | onToggled void (*)(struct TYPE_5__ *, void *) | onToggledData void * 
+function uiCheckboxOnToggled void | c struct TYPE_5__ * | f void (*)(struct TYPE_5__ *, void *) | data void *

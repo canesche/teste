@@ -1,0 +1,2 @@
+struct mmc_blk_data | reset_done int 
+function mmc_blk_reset_success void | md struct mmc_blk_data * | type int

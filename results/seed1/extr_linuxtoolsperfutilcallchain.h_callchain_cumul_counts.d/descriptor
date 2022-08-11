@@ -1,2 +1,0 @@
-struct callchain_node | count int | children_count int 
-function callchain_cumul_counts unsigned int | node struct callchain_node *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | upstream struct TYPE_4__ * 
+struct TYPE_4__ | headers_in int 
+function ngx_http_upstream_process_header_line int | r struct TYPE_5__ * | h int * | offset int

@@ -1,2 +1,0 @@
-struct crypto_async_request | flags int 
-function cc_gfp_flags int | req struct crypto_async_request *

@@ -1,0 +1,5 @@
+struct perf_event | dummy int 
+struct intel_uncore_box | pmu struct TYPE_4__ * 
+struct TYPE_4__ | type struct TYPE_3__ * 
+struct TYPE_3__ | num_freerunning_types int 
+function uncore_num_freerunning_types int | box struct intel_uncore_box * | event struct perf_event *

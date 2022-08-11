@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function bond_netpoll_cleanup void | bond_dev struct net_device *

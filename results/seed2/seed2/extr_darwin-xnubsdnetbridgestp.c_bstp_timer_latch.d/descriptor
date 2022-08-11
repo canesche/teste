@@ -1,0 +1,2 @@
+struct bstp_timer | latched int | active int 
+function bstp_timer_latch void | t struct bstp_timer *

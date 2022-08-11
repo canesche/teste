@@ -1,0 +1,2 @@
+struct TYPE_3__ | signatureAlgorithm const int 
+function OCSP_resp_get0_tbs_sigalg const int * | bs const struct TYPE_3__ *

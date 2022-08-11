@@ -1,0 +1,3 @@
+struct TYPE_2__ | cmd_code int 
+struct raw3270_request | ccw struct TYPE_2__ 
+function raw3270_request_set_cmd void | rq struct raw3270_request * | cmd int

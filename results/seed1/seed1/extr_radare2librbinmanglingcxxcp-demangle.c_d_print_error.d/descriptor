@@ -1,0 +1,2 @@
+struct d_print_info | demangle_failure int 
+function d_print_error void | dpi struct d_print_info *

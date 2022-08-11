@@ -1,0 +1,2 @@
+struct oxu_hcd | dummy int 
+function oxu_port_speed unsigned int | oxu struct oxu_hcd * | portsc unsigned int

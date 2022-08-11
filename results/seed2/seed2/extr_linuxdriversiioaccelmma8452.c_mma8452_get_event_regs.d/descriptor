@@ -1,0 +1,5 @@
+struct mma8452_event_regs | dummy int 
+struct mma8452_data | chip_info struct TYPE_2__ * 
+struct iio_chan_spec | type int 
+struct TYPE_2__ | all_events int | enabled_events int 
+function mma8452_get_event_regs int | data struct mma8452_data * | chan const struct iio_chan_spec * | dir enum iio_event_direction | ev_reg const struct mma8452_event_regs **

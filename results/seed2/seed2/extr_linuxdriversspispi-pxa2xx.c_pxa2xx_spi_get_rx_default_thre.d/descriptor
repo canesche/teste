@@ -1,0 +1,2 @@
+struct driver_data | ssp_type int 
+function pxa2xx_spi_get_rx_default_thre int | drv_data const struct driver_data *

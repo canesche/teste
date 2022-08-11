@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function psb_power_down int | dev struct drm_device *

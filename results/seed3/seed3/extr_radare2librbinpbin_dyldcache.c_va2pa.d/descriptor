@@ -1,0 +1,3 @@
+struct TYPE_5__ | address long | size long | fileOffset long 
+struct TYPE_6__ | mappingCount unsigned long 
+function va2pa long | addr long | hdr struct TYPE_6__ * | maps struct TYPE_5__ * | cache_buf int * | slide long | offset long * | left long *

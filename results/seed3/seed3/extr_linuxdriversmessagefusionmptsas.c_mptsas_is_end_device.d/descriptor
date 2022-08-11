@@ -1,0 +1,2 @@
+struct mptsas_devinfo | device_info int | sas_address long 
+function mptsas_is_end_device int | attached struct mptsas_devinfo *

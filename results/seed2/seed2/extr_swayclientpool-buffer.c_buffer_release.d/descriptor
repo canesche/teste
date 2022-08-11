@@ -1,0 +1,3 @@
+struct wl_buffer | dummy int 
+struct pool_buffer | busy int 
+function buffer_release void | data void * | wl_buffer struct wl_buffer *

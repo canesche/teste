@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversscsisym53c8xx_2sym_misc.h___sym_que_del.d/extr_linuxdriversscsisym53c8xx_2sym_misc.h___sym_que_del_O0::__sym_que_del(63)"
+  }
+]

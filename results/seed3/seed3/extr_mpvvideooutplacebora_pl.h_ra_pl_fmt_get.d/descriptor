@@ -1,0 +1,3 @@
+struct ra_format | priv const struct pl_fmt * 
+struct pl_fmt | dummy int 
+function ra_pl_fmt_get const struct pl_fmt * | format const struct ra_format *

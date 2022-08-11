@@ -1,3 +1,0 @@
-struct vi_dpm_table | count int | dpm_level struct TYPE_2__ * 
-struct TYPE_2__ | enabled long 
-function phm_get_dpm_level_enable_mask_value int | table void *

@@ -1,0 +1,3 @@
+struct mlxsw_sp_vr | mr_table struct mlxsw_sp_mr_table ** 
+struct mlxsw_sp_mr_table | dummy int 
+function mlxsw_sp_router_fibmr_family_to_table struct mlxsw_sp_mr_table * | vr struct mlxsw_sp_vr * | family int

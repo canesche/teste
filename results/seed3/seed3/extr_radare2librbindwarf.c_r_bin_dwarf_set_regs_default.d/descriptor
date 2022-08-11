@@ -1,0 +1,3 @@
+struct TYPE_6__ | default_is_stmt int 
+struct TYPE_5__ | file int | line int | end_sequence void * | basic_block void * | is_stmt int | column long | address long 
+function r_bin_dwarf_set_regs_default void | hdr const struct TYPE_6__ * | regs struct TYPE_5__ *

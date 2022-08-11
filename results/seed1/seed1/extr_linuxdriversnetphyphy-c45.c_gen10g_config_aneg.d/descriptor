@@ -1,0 +1,2 @@
+struct phy_device | dummy int 
+function gen10g_config_aneg int | phydev struct phy_device *

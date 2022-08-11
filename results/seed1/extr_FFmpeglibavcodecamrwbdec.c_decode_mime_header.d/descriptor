@@ -1,2 +1,0 @@
-struct TYPE_3__ | fr_cur_mode int | fr_quality int 
-function decode_mime_header int | ctx struct TYPE_3__ * | buf const int *

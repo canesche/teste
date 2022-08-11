@@ -1,0 +1,4 @@
+struct regmap | dummy int 
+struct owl_clk_desc | num_clks int | clks struct owl_clk_common ** 
+struct owl_clk_common | regmap struct regmap * 
+function owl_clk_set_regmap void | desc const struct owl_clk_desc * | regmap struct regmap *

@@ -1,2 +1,0 @@
-struct ib_mad_mgmt_class_table | method_table long * 
-function check_class_table int | class struct ib_mad_mgmt_class_table *

@@ -1,0 +1,4 @@
+struct rproc | dummy int 
+struct firmware | data long 
+struct elf32_hdr | e_entry int 
+function rproc_elf_get_boot_addr int | rproc struct rproc * | fw const struct firmware *

@@ -1,0 +1,2 @@
+struct udp_target | dummy int 
+function out_buf_set_target void | S struct udp_target *

@@ -1,0 +1,4 @@
+struct malidp_hw_device | hw struct TYPE_4__ * 
+struct TYPE_3__ | bus_align_bytes int 
+struct TYPE_4__ | map struct TYPE_3__ 
+function malidp_hw_get_pitch_align int | hwdev struct malidp_hw_device * | rotated int

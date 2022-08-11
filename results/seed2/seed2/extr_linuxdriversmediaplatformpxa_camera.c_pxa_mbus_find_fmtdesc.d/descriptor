@@ -1,0 +1,3 @@
+struct pxa_mbus_pixelfmt | dummy int 
+struct pxa_mbus_lookup | code long | fmt const struct pxa_mbus_pixelfmt 
+function pxa_mbus_find_fmtdesc const struct pxa_mbus_pixelfmt * | code long | lookup const struct pxa_mbus_lookup * | n int

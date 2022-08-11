@@ -1,0 +1,4 @@
+struct TYPE_3__ | b int * 
+struct TYPE_4__ | type int | bdaddr struct TYPE_3__ 
+struct mgmt_ltk_info | master int | addr struct TYPE_4__ 
+function ltk_is_valid int | key struct mgmt_ltk_info *

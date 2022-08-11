@@ -1,0 +1,2 @@
+struct TYPE_3__ | text_strings int * | text_keys int * | text_num long 
+function LodePNGText_init void | info struct TYPE_3__ *

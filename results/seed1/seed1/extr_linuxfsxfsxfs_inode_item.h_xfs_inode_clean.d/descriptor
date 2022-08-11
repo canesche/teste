@@ -1,0 +1,3 @@
+struct TYPE_5__ | i_itemp struct TYPE_4__ * 
+struct TYPE_4__ | ili_fields int 
+function xfs_inode_clean int | ip struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct pmac_i2c_bus | flags int 
+function pmac_i2c_get_flags int | bus struct pmac_i2c_bus *

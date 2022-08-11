@@ -1,0 +1,4 @@
+struct TYPE_2__ | set_vfta int | set_uc_addr int | read_mac_addr int | rar_set int | update_mc_addr_list int | get_link_up_info int | check_for_link int | init_hw int | reset_hw int 
+struct e1000_mac_info | mta_reg_count int | rar_entry_count int | ops struct TYPE_2__ 
+struct e1000_hw | mac struct e1000_mac_info 
+function e1000_init_mac_params_vf int | hw struct e1000_hw *

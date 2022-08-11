@@ -1,0 +1,3 @@
+struct onenand_chip | erase_shift int | writesize int | page_shift int | page_mask int 
+struct mtd_info | priv struct onenand_chip * 
+function onenand_get_2x_blockpage int | mtd struct mtd_info * | addr int

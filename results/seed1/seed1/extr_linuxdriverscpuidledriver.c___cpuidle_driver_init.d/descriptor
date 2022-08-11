@@ -1,0 +1,4 @@
+struct cpumask | dummy int 
+struct cpuidle_driver | state_count int | bctimer int | states struct TYPE_2__ * | cpumask struct cpumask * | refcnt long 
+struct TYPE_2__ | flags int 
+function __cpuidle_driver_init void | drv struct cpuidle_driver *

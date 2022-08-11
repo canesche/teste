@@ -1,0 +1,3 @@
+struct stmmac_extra_stats | dummy int 
+struct mac_device_info | dummy int 
+function dwmac100_irq_status int | hw struct mac_device_info * | x struct stmmac_extra_stats *

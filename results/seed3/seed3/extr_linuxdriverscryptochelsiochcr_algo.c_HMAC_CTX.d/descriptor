@@ -1,0 +1,4 @@
+struct hmac_ctx | dummy int 
+struct chcr_context | crypto_ctx struct TYPE_2__ * 
+struct TYPE_2__ | hmacctx struct hmac_ctx * 
+function HMAC_CTX struct hmac_ctx * | ctx struct chcr_context *

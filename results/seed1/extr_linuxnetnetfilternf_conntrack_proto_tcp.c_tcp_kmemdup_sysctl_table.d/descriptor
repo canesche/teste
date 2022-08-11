@@ -1,3 +1,0 @@
-struct nf_tcp_net | dummy int 
-struct nf_proto_net | dummy int 
-function tcp_kmemdup_sysctl_table int | pn struct nf_proto_net * | tn struct nf_tcp_net *

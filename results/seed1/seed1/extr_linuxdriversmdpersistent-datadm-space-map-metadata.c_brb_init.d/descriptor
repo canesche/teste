@@ -1,0 +1,2 @@
+struct bop_ring_buffer | end long | begin long 
+function brb_init void | brb struct bop_ring_buffer *

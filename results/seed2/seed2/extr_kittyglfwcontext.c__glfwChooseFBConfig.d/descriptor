@@ -1,0 +1,2 @@
+struct TYPE_5__ | stereo long | doublebuffer long | alphaBits long | depthBits long | stencilBits long | auxBuffers long | samples long | transparent long | redBits long | greenBits long | blueBits long | accumRedBits long | accumGreenBits long | accumBlueBits long | accumAlphaBits long | sRGB long 
+function _glfwChooseFBConfig const struct TYPE_5__ * | desired const struct TYPE_5__ * | alternatives const struct TYPE_5__ * | count unsigned int

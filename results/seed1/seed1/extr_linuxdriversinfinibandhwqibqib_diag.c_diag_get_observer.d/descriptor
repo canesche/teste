@@ -1,0 +1,4 @@
+struct qib_devdata | diag_observer_list struct diag_observer_list_elt * 
+struct diag_observer_list_elt | next struct diag_observer_list_elt * | op struct diag_observer * 
+struct diag_observer | bottom long | top long 
+function diag_get_observer const struct diag_observer * | dd struct qib_devdata * | addr long

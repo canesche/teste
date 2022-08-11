@@ -1,0 +1,3 @@
+struct TYPE_3__ | last struct attr * | first struct attr * 
+struct attr | prev struct attr * | next struct attr * 
+function attrUnlink struct attr * | alist struct TYPE_3__ * | a struct attr *

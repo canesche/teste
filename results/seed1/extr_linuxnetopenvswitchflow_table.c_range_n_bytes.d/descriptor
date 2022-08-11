@@ -1,2 +1,0 @@
-struct sw_flow_key_range | start long | end long 
-function range_n_bytes long | range const struct sw_flow_key_range *

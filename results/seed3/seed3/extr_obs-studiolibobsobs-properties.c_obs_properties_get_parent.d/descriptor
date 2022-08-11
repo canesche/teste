@@ -1,0 +1,3 @@
+struct TYPE_6__ | parent struct TYPE_5__ * 
+struct TYPE_5__ | parent struct TYPE_6__ * 
+function obs_properties_get_parent struct TYPE_6__ * | props struct TYPE_6__ *

@@ -1,0 +1,2 @@
+struct target | system_wide int | per_thread int | cpu_list int * | uid_str int * | tid long | pid long 
+function target__validate enum target_errno | target struct target *

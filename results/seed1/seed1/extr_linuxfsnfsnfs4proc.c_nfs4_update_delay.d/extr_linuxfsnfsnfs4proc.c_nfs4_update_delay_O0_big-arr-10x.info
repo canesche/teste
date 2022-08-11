@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxfsnfsnfs4proc.c_nfs4_update_delay.d/extr_linuxfsnfsnfs4proc.c_nfs4_update_delay_O0::nfs4_update_delay(62)"
+  }
+]

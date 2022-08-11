@@ -1,0 +1,1 @@
+value(audit_msgno) == 10, value(result) == 10, value(info) == 10, length(fname) == 100, length(op) == 100, length(cause) == 100, length(inode) == 100

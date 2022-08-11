@@ -1,0 +1,2 @@
+struct ps3_system_bus_device | bus_id long | dev_id long 
+function ps3_is_device int | dev struct ps3_system_bus_device * | bus_id long | dev_id long

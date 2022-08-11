@@ -1,0 +1,2 @@
+struct ata_device | class long 
+function serverworks_osb4_filter unsigned long | adev struct ata_device * | mask unsigned long

@@ -1,0 +1,5 @@
+struct TYPE_2__ | value int | fixed int 
+struct iwreq_data | bitrate struct TYPE_2__ 
+struct net_device | dummy int 
+struct iw_request_info | dummy int 
+function wl3501_get_rate int | dev struct net_device * | info struct iw_request_info * | wrqu union iwreq_data * | extra char *

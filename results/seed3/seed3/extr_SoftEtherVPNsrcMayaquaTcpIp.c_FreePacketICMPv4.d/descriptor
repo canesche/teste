@@ -1,0 +1,3 @@
+struct TYPE_4__ | ICMPHeader int * 
+struct TYPE_5__ | TypeL4 int | L4 struct TYPE_4__ 
+function FreePacketICMPv4 void | p struct TYPE_5__ *

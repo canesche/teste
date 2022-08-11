@@ -1,0 +1,2 @@
+struct lm3533_led | id long 
+function lm3533_led_get_lv_reg long | led struct lm3533_led * | base long

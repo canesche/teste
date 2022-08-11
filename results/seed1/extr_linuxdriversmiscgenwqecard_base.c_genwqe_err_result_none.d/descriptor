@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function genwqe_err_result_none int | dev struct pci_dev *

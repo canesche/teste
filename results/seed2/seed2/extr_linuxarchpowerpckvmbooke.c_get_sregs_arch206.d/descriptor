@@ -1,0 +1,6 @@
+struct TYPE_4__ | ivpr int | decar int | mcsrr1 int | mcsrr0 int 
+struct kvm_vcpu | arch struct TYPE_4__ | vcpu_id int 
+struct TYPE_6__ | ivpr int | decar int | mcsrr1 int | mcsrr0 int | pir int | features int 
+struct TYPE_5__ | e struct TYPE_6__ 
+struct kvm_sregs | u struct TYPE_5__ 
+function get_sregs_arch206 void | vcpu struct kvm_vcpu * | sregs struct kvm_sregs *

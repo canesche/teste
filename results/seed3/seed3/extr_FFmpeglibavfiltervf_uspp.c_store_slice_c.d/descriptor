@@ -1,0 +1,1 @@
+function store_slice_c void | dst int * | src const int * | dst_stride int | src_stride int | width int | height int | log2_scale int

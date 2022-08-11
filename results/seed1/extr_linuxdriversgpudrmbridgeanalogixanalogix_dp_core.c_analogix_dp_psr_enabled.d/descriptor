@@ -1,2 +1,0 @@
-struct analogix_dp_device | psr_enable int 
-function analogix_dp_psr_enabled int | dp struct analogix_dp_device *

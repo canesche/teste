@@ -1,0 +1,2 @@
+struct radeon_device | dummy int 
+function r600_set_surface_reg int | rdev struct radeon_device * | reg int | tiling_flags int | pitch int | offset int | obj_size int

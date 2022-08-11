@@ -1,0 +1,2 @@
+struct efx_nic | dummy int 
+function efx_siena_sriov_enabled int | efx struct efx_nic *

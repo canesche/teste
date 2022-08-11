@@ -1,0 +1,2 @@
+struct TYPE_3__ | istate int 
+function iso2022_jp3_flushwc int | conv struct TYPE_3__ * | pwc int *

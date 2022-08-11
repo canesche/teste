@@ -1,0 +1,3 @@
+struct TYPE_5__ | meth struct TYPE_4__ * 
+struct TYPE_4__ | type int 
+function COMP_CTX_get_type int | comp const struct TYPE_5__ *

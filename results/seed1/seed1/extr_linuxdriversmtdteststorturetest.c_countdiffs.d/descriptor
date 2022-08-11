@@ -1,0 +1,1 @@
+function countdiffs int | buf unsigned char * | check_buf unsigned char * | offset unsigned int | len unsigned int | bytesp unsigned int * | bitsp unsigned int *

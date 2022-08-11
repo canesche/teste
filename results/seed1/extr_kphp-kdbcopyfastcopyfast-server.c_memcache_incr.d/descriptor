@@ -1,2 +1,0 @@
-struct connection | dummy int 
-function memcache_incr int | c struct connection * | op int | key const char * | key_len int | arg long long

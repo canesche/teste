@@ -1,2 +1,0 @@
-struct TYPE_3__ | wSecond long | wMinute long | wHour long 
-function SystemToDosTime int | st struct TYPE_3__ *

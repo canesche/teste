@@ -1,0 +1,2 @@
+struct _Locale_monetary | dummy int 
+function _Locale_negative_sign const char * | lmon struct _Locale_monetary *

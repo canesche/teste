@@ -1,0 +1,2 @@
+struct ff_codec_desc | id int 
+function ff_codec_desc_id int | codec_desc const struct ff_codec_desc *

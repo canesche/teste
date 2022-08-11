@@ -1,0 +1,3 @@
+struct sk_buff | cb long 
+struct dev_kfree_skb_cb | dummy int 
+function get_kfree_skb_cb struct dev_kfree_skb_cb * | skb const struct sk_buff *

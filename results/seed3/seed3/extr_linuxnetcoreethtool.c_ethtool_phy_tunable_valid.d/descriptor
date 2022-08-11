@@ -1,0 +1,2 @@
+struct ethtool_tunable | id int | len int | type_id int 
+function ethtool_phy_tunable_valid int | tuna const struct ethtool_tunable *

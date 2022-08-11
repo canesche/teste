@@ -1,3 +1,0 @@
-struct device_node | dummy int 
-struct device | of_node struct device_node * 
-function compare_of int | dev struct device * | data void *

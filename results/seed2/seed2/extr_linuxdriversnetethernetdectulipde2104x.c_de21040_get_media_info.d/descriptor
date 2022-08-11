@@ -1,0 +1,3 @@
+struct de_private | media_type int | media_supported int | media_advertise int | media struct TYPE_2__ * 
+struct TYPE_2__ | type unsigned int | csr15 int | csr14 int | csr13 int 
+function de21040_get_media_info void | de struct de_private *

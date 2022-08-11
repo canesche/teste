@@ -1,4 +1,0 @@
-struct gs_effect_pass | dummy int 
-struct TYPE_4__ | num unsigned long | array struct gs_effect_pass * 
-struct TYPE_5__ | passes struct TYPE_4__ 
-function gs_technique_get_pass_by_idx struct gs_effect_pass * | technique const struct TYPE_5__ * | pass unsigned long

@@ -1,0 +1,2 @@
+struct shrinker | dummy int 
+function unregister_memcg_shrinker void | shrinker struct shrinker *

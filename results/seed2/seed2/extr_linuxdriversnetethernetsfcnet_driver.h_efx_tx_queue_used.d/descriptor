@@ -1,0 +1,4 @@
+struct efx_tx_queue | queue int | efx struct TYPE_4__ * 
+struct TYPE_4__ | net_dev struct TYPE_3__ * 
+struct TYPE_3__ | num_tc int 
+function efx_tx_queue_used int | tx_queue struct efx_tx_queue *

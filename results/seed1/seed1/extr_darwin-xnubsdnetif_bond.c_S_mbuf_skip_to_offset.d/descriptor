@@ -1,0 +1,2 @@
+struct mbuf | m_len int | m_next struct mbuf * 
+function S_mbuf_skip_to_offset struct mbuf * | m struct mbuf * | offset int *

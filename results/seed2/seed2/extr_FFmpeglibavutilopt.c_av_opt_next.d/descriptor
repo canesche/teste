@@ -1,0 +1,3 @@
+struct TYPE_6__ | option const struct TYPE_5__ * 
+struct TYPE_5__ | name long 
+function av_opt_next const struct TYPE_5__ * | obj const void * | last const struct TYPE_5__ *

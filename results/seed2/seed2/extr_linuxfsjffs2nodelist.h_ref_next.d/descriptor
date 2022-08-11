@@ -1,0 +1,2 @@
+struct jffs2_raw_node_ref | flash_offset long | next_in_ino struct jffs2_raw_node_ref * 
+function ref_next struct jffs2_raw_node_ref * | ref struct jffs2_raw_node_ref *

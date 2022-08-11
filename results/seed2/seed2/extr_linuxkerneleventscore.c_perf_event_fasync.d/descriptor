@@ -1,0 +1,3 @@
+struct perf_event | fasync struct fasync_struct * | parent struct perf_event * 
+struct fasync_struct | dummy int 
+function perf_event_fasync struct fasync_struct ** | event struct perf_event *

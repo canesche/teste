@@ -1,4 +1,0 @@
-struct TYPE_6__ | val char * | len unsigned long 
-struct TYPE_5__ | string struct TYPE_6__ 
-struct TYPE_7__ | token long | value struct TYPE_5__ 
-function lex_steal_string char * | lex struct TYPE_7__ * | out_len unsigned long *

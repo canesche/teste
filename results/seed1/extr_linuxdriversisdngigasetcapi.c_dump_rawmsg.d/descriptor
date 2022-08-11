@@ -1,1 +1,0 @@
-function dump_rawmsg void | level enum debuglevel | tag const char * | data unsigned char *

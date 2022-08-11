@@ -1,0 +1,6 @@
+struct r10conf | mirrors struct TYPE_5__ * 
+struct r10bio | sectors long | devs struct TYPE_6__ * | mddev struct TYPE_4__ * 
+struct TYPE_6__ | devnum unsigned long | addr long 
+struct TYPE_5__ | head_position long 
+struct TYPE_4__ | private struct r10conf * 
+function update_head_pos void | slot int | r10_bio struct r10bio *

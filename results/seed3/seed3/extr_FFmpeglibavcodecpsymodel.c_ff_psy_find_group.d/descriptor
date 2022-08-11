@@ -1,0 +1,3 @@
+struct TYPE_6__ | num_ch long 
+struct TYPE_5__ | group struct TYPE_6__ * 
+function ff_psy_find_group struct TYPE_6__ * | ctx struct TYPE_5__ * | channel int

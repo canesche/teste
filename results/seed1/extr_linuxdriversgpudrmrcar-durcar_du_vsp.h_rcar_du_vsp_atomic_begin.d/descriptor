@@ -1,2 +1,0 @@
-struct rcar_du_crtc | dummy int 
-function rcar_du_vsp_atomic_begin void | crtc struct rcar_du_crtc *

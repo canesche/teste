@@ -1,0 +1,4 @@
+struct TYPE_2__ | emeta_len int * 
+struct pblk | lm struct TYPE_2__ 
+struct line_emeta | dummy int 
+function emeta_to_lbas void * | pblk struct pblk * | emeta struct line_emeta *

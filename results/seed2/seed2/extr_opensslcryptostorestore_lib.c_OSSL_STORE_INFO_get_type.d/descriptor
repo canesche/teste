@@ -1,0 +1,2 @@
+struct TYPE_3__ | type int 
+function OSSL_STORE_INFO_get_type int | info const struct TYPE_3__ *

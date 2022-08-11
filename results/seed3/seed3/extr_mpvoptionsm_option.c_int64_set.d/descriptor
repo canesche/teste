@@ -1,0 +1,4 @@
+struct TYPE_4__ | int64 long 
+struct mpv_node | format long | u struct TYPE_4__ 
+struct TYPE_5__ | flags int | min long | max long 
+function int64_set int | opt const struct TYPE_5__ * | dst void * | src struct mpv_node *

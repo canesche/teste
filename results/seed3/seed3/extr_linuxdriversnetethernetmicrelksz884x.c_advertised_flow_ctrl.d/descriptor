@@ -1,0 +1,2 @@
+struct ksz_port | flow_ctrl int 
+function advertised_flow_ctrl int | port struct ksz_port * | ctrl int

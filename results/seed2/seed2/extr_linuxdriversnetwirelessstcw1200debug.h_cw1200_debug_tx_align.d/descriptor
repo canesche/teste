@@ -1,0 +1,3 @@
+struct cw1200_common | debug struct TYPE_2__ * 
+struct TYPE_2__ | tx_align int 
+function cw1200_debug_tx_align void | priv struct cw1200_common *

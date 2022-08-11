@@ -1,2 +1,0 @@
-struct cqhci_host | desc_base int * | slot_sz int 
-function get_desc int * | cq_host struct cqhci_host * | tag int

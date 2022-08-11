@@ -1,0 +1,2 @@
+struct obs_context_data | type int 
+function obs_obj_get_type enum obs_obj_type | obj void *

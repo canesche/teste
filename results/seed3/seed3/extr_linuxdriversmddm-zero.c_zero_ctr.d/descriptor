@@ -1,0 +1,2 @@
+struct dm_target | error char * | num_discard_bios int 
+function zero_ctr int | ti struct dm_target * | argc unsigned int | argv char **

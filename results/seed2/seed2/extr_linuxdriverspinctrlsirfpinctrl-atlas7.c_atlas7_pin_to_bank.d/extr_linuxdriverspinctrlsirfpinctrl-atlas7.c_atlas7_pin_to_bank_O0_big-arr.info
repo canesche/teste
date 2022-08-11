@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverspinctrlsirfpinctrl-atlas7.c_atlas7_pin_to_bank.d/extr_linuxdriverspinctrlsirfpinctrl-atlas7.c_atlas7_pin_to_bank_O0::atlas7_pin_to_bank(62)"
+  }
+]

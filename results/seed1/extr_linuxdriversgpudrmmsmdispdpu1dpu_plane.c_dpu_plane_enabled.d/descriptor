@@ -1,2 +1,0 @@
-struct drm_plane_state | crtc long | fb long 
-function dpu_plane_enabled int | state struct drm_plane_state *

@@ -1,0 +1,2 @@
+struct fw_csr_iterator | p const int * | end const int * 
+function fw_csr_iterator_init void | ci struct fw_csr_iterator * | p const int *

@@ -1,2 +1,0 @@
-struct TYPE_3__ | pred int | ptr int * 
-function iCode_get_next_int int | it struct TYPE_3__ * | r int

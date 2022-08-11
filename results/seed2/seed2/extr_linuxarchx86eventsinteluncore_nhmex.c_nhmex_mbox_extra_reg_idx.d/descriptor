@@ -1,0 +1,2 @@
+struct extra_reg | idx long | event int 
+function nhmex_mbox_extra_reg_idx int | er struct extra_reg *

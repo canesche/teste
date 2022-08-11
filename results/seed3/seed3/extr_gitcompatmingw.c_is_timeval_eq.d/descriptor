@@ -1,0 +1,2 @@
+struct timeval | tv_sec long | tv_usec long 
+function is_timeval_eq int | i1 const struct timeval * | i2 const struct timeval *

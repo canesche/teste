@@ -1,0 +1,3 @@
+struct firedtv | tone int 
+struct dvb_frontend | sec_priv struct firedtv * 
+function fdtv_set_tone int | fe struct dvb_frontend * | tone enum fe_sec_tone_mode

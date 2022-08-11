@@ -1,0 +1,1 @@
+function xor_bb void | out int * | x const int * | y const int * | len unsigned long

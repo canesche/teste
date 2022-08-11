@@ -1,0 +1,1 @@
+function ftdi_2232h_baud_base_to_divisor int | baud int | base int

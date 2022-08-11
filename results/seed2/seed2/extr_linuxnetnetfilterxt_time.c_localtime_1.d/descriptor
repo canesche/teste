@@ -1,0 +1,2 @@
+struct xtm | second unsigned int | minute unsigned int | hour unsigned int 
+function localtime_1 unsigned int | r struct xtm * | time unsigned int

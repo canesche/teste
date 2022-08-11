@@ -1,0 +1,5 @@
+struct siu_port | trdat int | stfifo int 
+struct siu_firmware | yram0 unsigned long * | spbpar struct TYPE_2__ * 
+struct siu_info | port_id int | fw struct siu_firmware 
+struct TYPE_2__ | ab1a int | ab0a int | dir int | event unsigned long | trdat int | stfifo int 
+function siu_dai_spbAselect void | port_info struct siu_port *

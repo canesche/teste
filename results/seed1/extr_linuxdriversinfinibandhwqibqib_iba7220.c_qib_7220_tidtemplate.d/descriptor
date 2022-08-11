@@ -1,2 +1,0 @@
-struct qib_devdata | rcvegrbufsize int | tidinvalid long | tidtemplate int 
-function qib_7220_tidtemplate void | dd struct qib_devdata *

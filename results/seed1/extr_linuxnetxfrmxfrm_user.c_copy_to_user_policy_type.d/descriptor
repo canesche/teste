@@ -1,2 +1,0 @@
-struct sk_buff | dummy int 
-function copy_to_user_policy_type int | type int | skb struct sk_buff *

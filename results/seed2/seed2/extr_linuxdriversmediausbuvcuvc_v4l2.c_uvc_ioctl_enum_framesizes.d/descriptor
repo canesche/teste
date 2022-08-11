@@ -1,0 +1,8 @@
+struct TYPE_2__ | width long | height long 
+struct v4l2_frmsizeenum | pixel_format long | index unsigned int | discrete struct TYPE_2__ | type int 
+struct uvc_streaming | nformats unsigned int | format struct uvc_format * 
+struct uvc_frame | wWidth long | wHeight long 
+struct uvc_format | fcc long | nframes unsigned int | frame struct uvc_frame * 
+struct uvc_fh | stream struct uvc_streaming * 
+struct file | dummy int 
+function uvc_ioctl_enum_framesizes int | file struct file * | fh void * | fsize struct v4l2_frmsizeenum *

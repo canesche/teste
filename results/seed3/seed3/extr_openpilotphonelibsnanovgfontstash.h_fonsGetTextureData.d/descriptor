@@ -1,0 +1,3 @@
+struct TYPE_4__ | width int | height int 
+struct TYPE_5__ | texData const unsigned char * | params struct TYPE_4__ 
+function fonsGetTextureData const unsigned char * | stash struct TYPE_5__ * | width int * | height int *

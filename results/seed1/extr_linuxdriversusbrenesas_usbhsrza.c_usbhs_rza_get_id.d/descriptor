@@ -1,2 +1,0 @@
-struct platform_device | dummy int 
-function usbhs_rza_get_id int | pdev struct platform_device *

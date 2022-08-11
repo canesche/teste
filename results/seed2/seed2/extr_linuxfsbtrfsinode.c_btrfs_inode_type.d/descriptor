@@ -1,0 +1,2 @@
+struct inode | i_mode unsigned long 
+function btrfs_inode_type int | inode struct inode *

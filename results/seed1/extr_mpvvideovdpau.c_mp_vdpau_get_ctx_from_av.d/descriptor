@@ -1,4 +1,0 @@
-struct mp_vdpau_ctx | dummy int 
-struct TYPE_5__ | data long 
-struct TYPE_4__ | free long | user_opaque struct mp_vdpau_ctx * 
-function mp_vdpau_get_ctx_from_av struct mp_vdpau_ctx * | hw_device_ctx struct TYPE_5__ *

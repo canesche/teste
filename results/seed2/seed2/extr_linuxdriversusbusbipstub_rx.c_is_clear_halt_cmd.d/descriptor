@@ -1,0 +1,3 @@
+struct usb_ctrlrequest | bRequest long | bRequestType long | wValue long 
+struct urb | setup_packet long 
+function is_clear_halt_cmd int | urb struct urb *

@@ -1,2 +1,0 @@
-struct zd_mc_hash | low int | high int 
-function zd_mc_add_all void | hash struct zd_mc_hash *

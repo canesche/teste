@@ -1,0 +1,2 @@
+struct color | type long 
+function color_empty int | c const struct color *

@@ -1,0 +1,6 @@
+struct TYPE_10__ | _dict struct TYPE_9__ * | _list struct TYPE_8__ * 
+struct TYPE_11__ | val struct TYPE_10__ | info struct TYPE_7__ * 
+struct TYPE_9__ | json_dict int * 
+struct TYPE_8__ | json_list int * 
+struct TYPE_7__ | type int 
+function dso_json_get_list int * | dso_obj struct TYPE_11__ *

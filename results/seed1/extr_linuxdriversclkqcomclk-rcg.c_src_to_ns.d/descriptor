@@ -1,2 +1,0 @@
-struct src_sel | src_sel_shift int 
-function src_to_ns int | s struct src_sel * | src int | ns int

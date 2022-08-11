@@ -1,0 +1,2 @@
+struct b53_device | dummy int 
+function b53_switch_get_reset_gpio int | dev struct b53_device *

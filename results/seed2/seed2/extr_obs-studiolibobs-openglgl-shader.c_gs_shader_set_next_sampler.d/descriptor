@@ -1,0 +1,2 @@
+struct TYPE_3__ | next_sampler int * 
+function gs_shader_set_next_sampler void | param struct TYPE_3__ * | sampler int *

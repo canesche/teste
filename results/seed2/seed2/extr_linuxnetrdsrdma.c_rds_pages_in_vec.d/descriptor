@@ -1,0 +1,2 @@
+struct rds_iovec | addr int | bytes int 
+function rds_pages_in_vec unsigned int | vec struct rds_iovec *

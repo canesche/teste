@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsamplesbpftracex3_kern.c_log2l.d/extr_linuxsamplesbpftracex3_kern.c_log2l_O0::log2l(60)"
+  }
+]

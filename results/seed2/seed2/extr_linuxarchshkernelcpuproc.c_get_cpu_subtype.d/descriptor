@@ -1,0 +1,2 @@
+struct sh_cpuinfo | type unsigned long 
+function get_cpu_subtype const char * | c struct sh_cpuinfo *

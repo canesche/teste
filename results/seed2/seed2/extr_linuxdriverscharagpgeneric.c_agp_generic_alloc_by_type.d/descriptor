@@ -1,0 +1,2 @@
+struct agp_memory | dummy int 
+function agp_generic_alloc_by_type struct agp_memory * | page_count unsigned long | type int

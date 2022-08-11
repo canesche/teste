@@ -1,0 +1,4 @@
+struct ocrdma_eqe | dummy int 
+struct TYPE_2__ | va void * | tail int 
+struct ocrdma_eq | q struct TYPE_2__ 
+function ocrdma_get_eqe void * | eq struct ocrdma_eq *

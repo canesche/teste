@@ -1,2 +1,0 @@
-struct ath10k_htc_hdr | eid int 
-function eid_from_htc_hdr enum ath10k_htc_ep_id | htc_hdr struct ath10k_htc_hdr *

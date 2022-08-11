@@ -1,0 +1,3 @@
+struct arc_operand_value | type int | value long 
+struct arc_ext_operand_value | next struct arc_ext_operand_value * | operand const struct arc_operand_value 
+function lookup_register const struct arc_operand_value * | type int | regno long

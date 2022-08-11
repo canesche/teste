@@ -1,0 +1,3 @@
+struct tty_operations | dummy int 
+struct tty_driver | ops const struct tty_operations * 
+function tty_set_operations void | driver struct tty_driver * | op const struct tty_operations *

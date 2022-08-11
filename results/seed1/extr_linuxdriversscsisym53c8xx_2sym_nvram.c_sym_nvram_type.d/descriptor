@@ -1,2 +1,0 @@
-struct sym_nvram | type int 
-function sym_nvram_type char * | nvp struct sym_nvram *

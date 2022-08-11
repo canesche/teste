@@ -1,0 +1,2 @@
+struct snd_ac97 | build_ops int * 
+function patch_vt1616 int | ac97 struct snd_ac97 *

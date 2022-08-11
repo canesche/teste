@@ -1,0 +1,2 @@
+struct ftl_stream | total_bytes_sent int 
+function ftl_stream_total_bytes_sent int | data void *

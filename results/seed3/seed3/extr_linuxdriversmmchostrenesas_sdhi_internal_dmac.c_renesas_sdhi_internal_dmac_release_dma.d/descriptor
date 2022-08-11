@@ -1,0 +1,2 @@
+struct tmio_mmc_host | chan_tx int * | chan_rx int 
+function renesas_sdhi_internal_dmac_release_dma void | host struct tmio_mmc_host *

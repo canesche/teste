@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_anypixelfirmwaredisplayThirdPartySPLsrcstm32f0xx_i2c.c_I2C_StructInit.d/extr_anypixelfirmwaredisplayThirdPartySPLsrcstm32f0xx_i2c.c_I2C_StructInit_O0::I2C_StructInit(67)"
+  }
+]

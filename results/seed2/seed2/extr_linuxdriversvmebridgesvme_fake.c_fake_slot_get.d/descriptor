@@ -1,0 +1,2 @@
+struct vme_bridge | dummy int 
+function fake_slot_get int | fake_bridge struct vme_bridge *

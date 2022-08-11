@@ -1,0 +1,1 @@
+function delta_yolo_class void | output float * | delta float * | index int | class int | classes int | stride int | avg_cat float *

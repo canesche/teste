@@ -1,0 +1,2 @@
+struct tg3 | led_ctrl long | phy_id int 
+function tg3_5700_link_polarity int | tp struct tg3 * | speed long

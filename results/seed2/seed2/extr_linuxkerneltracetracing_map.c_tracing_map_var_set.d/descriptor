@@ -1,0 +1,2 @@
+struct tracing_map_elt | var_set int * 
+function tracing_map_var_set int | elt struct tracing_map_elt * | i unsigned int

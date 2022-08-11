@@ -1,0 +1,3 @@
+struct isc_format | fourcc unsigned int 
+struct isc_device | num_user_formats unsigned int | user_formats struct isc_format ** 
+function find_format_by_fourcc struct isc_format * | isc struct isc_device * | fourcc unsigned int

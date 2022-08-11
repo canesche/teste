@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_How-to-Make-a-Computer-Operating-Systemsrcsdksrclibcsrcstdiosupport_supcon.c_supcon_leni.d/extr_How-to-Make-a-Computer-Operating-Systemsrcsdksrclibcsrcstdiosupport_supcon.c_supcon_leni_O0::supcon_leni(60)"
+  }
+]

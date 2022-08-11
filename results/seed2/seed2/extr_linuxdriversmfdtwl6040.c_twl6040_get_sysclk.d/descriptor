@@ -1,0 +1,2 @@
+struct twl6040 | sysclk_rate unsigned int 
+function twl6040_get_sysclk unsigned int | twl6040 struct twl6040 *

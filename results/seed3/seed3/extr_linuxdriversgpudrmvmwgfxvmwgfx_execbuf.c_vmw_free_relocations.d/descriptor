@@ -1,0 +1,2 @@
+struct vmw_sw_context | cur_reloc long 
+function vmw_free_relocations void | sw_context struct vmw_sw_context *

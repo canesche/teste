@@ -1,0 +1,2 @@
+struct fnptr | ip unsigned long 
+function arch_deref_entry_point unsigned long | entry void *

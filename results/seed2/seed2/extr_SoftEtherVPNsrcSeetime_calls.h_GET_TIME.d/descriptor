@@ -1,0 +1,3 @@
+struct timeval | dummy int 
+struct time_conv | start struct timeval * 
+function GET_TIME void | dst struct timeval * | data struct time_conv *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxnetipv6route.c_fib6_info_dst_flags.d/extr_linuxnetipv6route.c_fib6_info_dst_flags_O0::fib6_info_dst_flags(64)"
+  }
+]

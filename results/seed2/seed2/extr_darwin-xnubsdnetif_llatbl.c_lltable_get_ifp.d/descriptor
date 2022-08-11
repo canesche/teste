@@ -1,0 +1,3 @@
+struct lltable | llt_ifp struct ifnet * 
+struct ifnet | dummy int 
+function lltable_get_ifp struct ifnet * | llt const struct lltable *

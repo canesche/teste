@@ -1,0 +1,1 @@
+function qr_point_translate void | _point int * | _dx int | _dy int

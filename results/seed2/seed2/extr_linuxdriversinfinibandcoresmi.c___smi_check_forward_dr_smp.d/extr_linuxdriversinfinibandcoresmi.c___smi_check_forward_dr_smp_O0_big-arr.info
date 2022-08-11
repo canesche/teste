@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversinfinibandcoresmi.c___smi_check_forward_dr_smp.d/extr_linuxdriversinfinibandcoresmi.c___smi_check_forward_dr_smp_O0::__smi_check_forward_dr_smp(68)"
+  }
+]

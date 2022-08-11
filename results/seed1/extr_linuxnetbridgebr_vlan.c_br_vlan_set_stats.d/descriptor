@@ -1,2 +1,0 @@
-struct net_bridge | vlan_stats_enabled unsigned long 
-function br_vlan_set_stats int | br struct net_bridge * | val unsigned long

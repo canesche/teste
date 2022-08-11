@@ -1,2 +1,0 @@
-struct dio_submit | tail int | head int 
-function dio_pages_present unsigned int | sdio struct dio_submit *

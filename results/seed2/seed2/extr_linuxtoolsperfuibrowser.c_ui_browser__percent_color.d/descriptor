@@ -1,0 +1,2 @@
+struct ui_browser | navkeypressed long | use_navkeypressed int 
+function ui_browser__percent_color int | browser struct ui_browser * | percent double | current int

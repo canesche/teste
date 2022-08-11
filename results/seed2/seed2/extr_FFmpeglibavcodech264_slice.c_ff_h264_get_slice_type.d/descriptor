@@ -1,0 +1,2 @@
+struct TYPE_3__ | slice_type int 
+function ff_h264_get_slice_type int | sl const struct TYPE_3__ *

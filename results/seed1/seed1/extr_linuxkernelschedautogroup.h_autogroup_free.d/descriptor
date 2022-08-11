@@ -1,0 +1,2 @@
+struct task_group | dummy int 
+function autogroup_free void | tg struct task_group *

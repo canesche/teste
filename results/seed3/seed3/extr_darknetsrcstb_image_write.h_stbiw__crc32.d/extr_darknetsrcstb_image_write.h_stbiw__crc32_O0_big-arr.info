@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 4603,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_darknetsrcstb_image_write.h_stbiw__crc32.d/extr_darknetsrcstb_image_write.h_stbiw__crc32_O0::stbiw__crc32(60)"
+  }
+]

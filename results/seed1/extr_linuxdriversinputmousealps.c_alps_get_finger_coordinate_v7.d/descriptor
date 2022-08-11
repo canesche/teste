@@ -1,2 +1,0 @@
-struct input_mt_pos | x unsigned char | y unsigned char 
-function alps_get_finger_coordinate_v7 void | mt struct input_mt_pos * | pkt unsigned char * | pkt_id unsigned char

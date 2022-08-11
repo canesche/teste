@@ -1,0 +1,2 @@
+struct TYPE_3__ | btype int | dict_size unsigned int | curlen long | dict_idx long | dict_ring void * | bfinal long | bitcount long | eof long 
+function uzlib_uncompress_init void | d struct TYPE_3__ * | dict void * | dictLen unsigned int

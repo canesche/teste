@@ -1,0 +1,4 @@
+struct sdio_func | dummy int 
+struct TYPE_2__ | blksize unsigned char | max_dtr int 
+struct mmc_card | cis struct TYPE_2__ 
+function cistpl_funce_common int | card struct mmc_card * | func struct sdio_func * | buf const unsigned char * | size unsigned int

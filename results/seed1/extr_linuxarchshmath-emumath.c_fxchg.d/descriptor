@@ -1,2 +1,0 @@
-struct sh_fpu_soft_struct | dummy int 
-function fxchg int | fregs struct sh_fpu_soft_struct * | flag int

@@ -1,0 +1,3 @@
+struct TYPE_5__ | xnum unsigned long | cpu_cells struct TYPE_4__ * 
+struct TYPE_4__ | ch unsigned char 
+function prefix_matches int | self struct TYPE_5__ * | at unsigned long | prefix const char * | prefix_len unsigned long

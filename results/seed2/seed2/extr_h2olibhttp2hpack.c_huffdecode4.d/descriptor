@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int | state unsigned long | sym int 
+function huffdecode4 char * | dst char * | in unsigned long | state unsigned long * | maybe_eos int * | seen_char_types unsigned long *

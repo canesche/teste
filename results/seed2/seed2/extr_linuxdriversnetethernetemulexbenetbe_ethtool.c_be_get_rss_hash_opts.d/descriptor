@@ -1,0 +1,3 @@
+struct TYPE_2__ | rss_flags int 
+struct be_adapter | rss_info struct TYPE_2__ 
+function be_get_rss_hash_opts int | adapter struct be_adapter * | flow_type int

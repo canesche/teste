@@ -1,2 +1,0 @@
-struct wl_shell_surface | dummy int 
-function handlePopupDone void | data void * | shellSurface struct wl_shell_surface *

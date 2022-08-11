@@ -1,0 +1,7 @@
+struct resource | end long | start long | parent struct TYPE_2__ * | flags void * 
+struct pci_dev | resource struct TYPE_2__ * 
+struct mfd_cell | name char * | num_resources int | pdata_size int | platform_data struct janz_platform_data * | id long | resources struct resource * 
+struct janz_platform_data | modno unsigned int 
+struct cmodio_device | pdata struct janz_platform_data * | resources struct resource * | cells struct mfd_cell * | pdev struct pci_dev * 
+struct TYPE_2__ | end long | start long 
+function cmodio_setup_subdevice int | priv struct cmodio_device * | name char * | devno unsigned int | modno unsigned int

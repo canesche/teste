@@ -1,0 +1,2 @@
+struct atmel_ssc_info | daifmt int 
+function atmel_ssc_cfs int | ssc_p struct atmel_ssc_info *

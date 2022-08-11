@@ -1,2 +1,0 @@
-struct TYPE_3__ | type_type int | is_alias long 
-function type_get_type_detect_alias enum type_type | type const struct TYPE_3__ *

@@ -1,0 +1,3 @@
+struct rpc_cred | dummy int 
+struct auth_cred | dummy int 
+function nul_match int | acred struct auth_cred * | cred struct rpc_cred * | taskflags int

@@ -1,0 +1,2 @@
+struct pwc_dec23_private | table_dc00 unsigned int * | table_d800 unsigned int * 
+function fill_table_dc00_d800 void | pdec struct pwc_dec23_private *

@@ -1,4 +1,0 @@
-struct qm_mr_entry | dummy int 
-struct qm_mr | cursor const union qm_mr_entry * | fill int 
-struct qm_portal | mr struct qm_mr 
-function qm_mr_current const union qm_mr_entry * | portal struct qm_portal *

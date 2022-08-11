@@ -1,0 +1,2 @@
+struct dm_thin_device | id int 
+function dm_thin_dev_id int | td struct dm_thin_device *

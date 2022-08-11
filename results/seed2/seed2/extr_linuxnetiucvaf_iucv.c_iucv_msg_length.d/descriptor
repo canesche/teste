@@ -1,0 +1,2 @@
+struct iucv_message | flags int | rmmsg int * | length unsigned long 
+function iucv_msg_length unsigned long | msg struct iucv_message *

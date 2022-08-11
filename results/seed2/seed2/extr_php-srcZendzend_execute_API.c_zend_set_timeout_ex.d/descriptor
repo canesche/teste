@@ -1,0 +1,1 @@
+function zend_set_timeout_ex void | seconds int | reset_signals int

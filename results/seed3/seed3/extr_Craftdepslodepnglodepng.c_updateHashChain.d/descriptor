@@ -1,0 +1,2 @@
+struct TYPE_3__ | val int * | head int * | chain int * 
+function updateHashChain void | hash struct TYPE_3__ * | pos unsigned long | hashval int | windowsize unsigned int

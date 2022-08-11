@@ -1,0 +1,2 @@
+struct setaudit_addr_args | dummy int 
+function setaudit_addr int | p int | uap struct setaudit_addr_args * | retval int *

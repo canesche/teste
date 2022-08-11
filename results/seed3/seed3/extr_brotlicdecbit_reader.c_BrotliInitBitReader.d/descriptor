@@ -1,0 +1,2 @@
+struct TYPE_3__ | bit_pos_ int | val_ long 
+function BrotliInitBitReader void | br struct TYPE_3__ *const

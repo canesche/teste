@@ -1,0 +1,2 @@
+struct sk_buff | pkt_type long 
+function skb_is_err_queue int | skb const struct sk_buff *

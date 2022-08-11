@@ -1,0 +1,2 @@
+struct snd_pcm_hardware | rates int | rate_min int 
+function xonar_hdmi_pcm_hardware_filter void | channel unsigned int | hardware struct snd_pcm_hardware *

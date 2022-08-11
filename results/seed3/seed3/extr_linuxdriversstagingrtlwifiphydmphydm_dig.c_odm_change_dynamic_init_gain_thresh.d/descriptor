@@ -1,0 +1,3 @@
+struct dig_thres | dig_enable_flag int | rx_gain_range_max void * | rx_gain_range_min void * | backoff_val void * | rssi_low_thresh long | rssi_high_thresh long 
+struct phy_dm_struct | dm_dig_table struct dig_thres 
+function odm_change_dynamic_init_gain_thresh void | dm_void void * | dm_type long | dm_value long

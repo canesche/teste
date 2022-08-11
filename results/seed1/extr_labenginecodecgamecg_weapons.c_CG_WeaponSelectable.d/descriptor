@@ -1,4 +1,0 @@
-struct TYPE_6__ | snap struct TYPE_5__ * 
-struct TYPE_4__ | stats int * | ammo int * 
-struct TYPE_5__ | ps struct TYPE_4__ 
-function CG_WeaponSelectable int | i int

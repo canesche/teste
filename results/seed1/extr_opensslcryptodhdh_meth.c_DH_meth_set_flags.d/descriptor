@@ -1,2 +1,0 @@
-struct TYPE_3__ | flags int 
-function DH_meth_set_flags int | dhm struct TYPE_3__ * | flags int

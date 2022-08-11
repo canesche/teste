@@ -1,0 +1,3 @@
+struct TYPE_4__ | buf char * | size int | need_reset int | full long | pos long 
+struct TYPE_5__ | dict struct TYPE_4__ 
+function lz_decoder_reset void | coder struct TYPE_5__ *

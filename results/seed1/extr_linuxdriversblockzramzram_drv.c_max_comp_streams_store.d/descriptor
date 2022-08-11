@@ -1,3 +1,0 @@
-struct device_attribute | dummy int 
-struct device | dummy int 
-function max_comp_streams_store unsigned long | dev struct device * | attr struct device_attribute * | buf const char * | len unsigned long

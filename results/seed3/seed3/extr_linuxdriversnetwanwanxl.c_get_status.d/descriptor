@@ -1,0 +1,4 @@
+struct port | node unsigned long | card struct TYPE_4__ * 
+struct TYPE_4__ | status struct TYPE_3__ * 
+struct TYPE_3__ | port_status int * 
+function get_status int * | port struct port *

@@ -1,3 +1,0 @@
-struct TYPE_2__ | nfval int * | index long 
-struct ath5k_hw | ah_nfcal_hist struct TYPE_2__ 
-function ath5k_hw_init_nfcal_hist void | ah struct ath5k_hw *

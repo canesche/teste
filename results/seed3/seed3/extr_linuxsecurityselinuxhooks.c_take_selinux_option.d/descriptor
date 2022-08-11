@@ -1,0 +1,1 @@
+function take_selinux_option void | to char ** | from char * | first int * | len int

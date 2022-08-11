@@ -1,0 +1,2 @@
+struct vc_data | dummy int 
+function vgacon_clear void | vc struct vc_data * | sy int | sx int | height int | width int

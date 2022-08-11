@@ -1,0 +1,3 @@
+struct tty_struct | driver_data struct gsm_dlci * 
+struct gsm_dlci | state long | modem_rx int 
+function gsmtty_tiocmget int | tty struct tty_struct *

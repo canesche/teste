@@ -1,0 +1,4 @@
+struct TYPE_2__ | parent struct device * 
+struct net_device | dev struct TYPE_2__ 
+struct device | dummy int 
+function ndev_to_dev struct device * | ndev struct net_device *

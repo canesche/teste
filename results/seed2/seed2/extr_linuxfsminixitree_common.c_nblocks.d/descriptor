@@ -1,0 +1,2 @@
+struct super_block | s_blocksize_bits int | s_blocksize int 
+function nblocks unsigned int | size int | sb struct super_block *

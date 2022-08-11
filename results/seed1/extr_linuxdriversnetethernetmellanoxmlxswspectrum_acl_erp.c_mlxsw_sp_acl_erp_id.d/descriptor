@@ -1,2 +1,0 @@
-struct mlxsw_sp_acl_erp | id int 
-function mlxsw_sp_acl_erp_id int | erp const struct mlxsw_sp_acl_erp *

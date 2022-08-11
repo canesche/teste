@@ -1,2 +1,0 @@
-struct ipc_namespace | dummy int 
-function msg_exit_ns void | ns struct ipc_namespace *

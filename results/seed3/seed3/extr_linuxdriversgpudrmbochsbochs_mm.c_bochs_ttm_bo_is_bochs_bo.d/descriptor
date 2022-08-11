@@ -1,0 +1,2 @@
+struct ttm_buffer_object | destroy int * 
+function bochs_ttm_bo_is_bochs_bo int | bo struct ttm_buffer_object *

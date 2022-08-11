@@ -1,2 +1,0 @@
-struct crop_filter_data | height int 
-function crop_filter_height int | data void *

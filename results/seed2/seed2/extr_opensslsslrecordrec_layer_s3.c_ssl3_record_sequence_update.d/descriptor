@@ -1,0 +1,1 @@
+function ssl3_record_sequence_update void | seq unsigned char *

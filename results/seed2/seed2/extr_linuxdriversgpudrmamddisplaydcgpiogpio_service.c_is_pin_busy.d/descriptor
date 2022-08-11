@@ -1,0 +1,2 @@
+struct gpio_service | busyness int ** 
+function is_pin_busy int | service const struct gpio_service * | id enum gpio_id | en const int

@@ -1,0 +1,2 @@
+struct phy_device | lp_advertising int | advertising int | duplex long | pause int | asym_pause int | speed void * 
+function phy_resolve_aneg_linkmode void | phydev struct phy_device *

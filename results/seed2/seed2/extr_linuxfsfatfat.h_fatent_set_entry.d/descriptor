@@ -1,0 +1,3 @@
+struct TYPE_2__ | ent32_p int * 
+struct fat_entry | entry int | u struct TYPE_2__ 
+function fatent_set_entry void | fatent struct fat_entry * | entry int

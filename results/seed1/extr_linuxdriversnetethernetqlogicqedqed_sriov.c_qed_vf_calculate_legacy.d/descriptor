@@ -1,4 +1,0 @@
-struct TYPE_3__ | eth_fp_hsi_minor long | capabilities int 
-struct TYPE_4__ | vfdev_info struct TYPE_3__ 
-struct qed_vf_info | acquire struct TYPE_4__ 
-function qed_vf_calculate_legacy int | p_vf struct qed_vf_info *

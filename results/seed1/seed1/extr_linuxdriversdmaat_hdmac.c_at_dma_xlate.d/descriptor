@@ -1,0 +1,4 @@
+struct of_phandle_args | dummy int 
+struct of_dma | dummy int 
+struct dma_chan | dummy int 
+function at_dma_xlate struct dma_chan * | dma_spec struct of_phandle_args * | of_dma struct of_dma *

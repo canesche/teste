@@ -1,0 +1,3 @@
+struct TYPE_6__ | Last long | First long 
+struct TYPE_5__ | Prev long | Next long 
+function fgListRemove void | list struct TYPE_6__ * | node struct TYPE_5__ *

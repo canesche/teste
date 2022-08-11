@@ -1,2 +1,0 @@
-struct mei_device | dummy int 
-function mei_me_set_pm_domain void | dev struct mei_device *

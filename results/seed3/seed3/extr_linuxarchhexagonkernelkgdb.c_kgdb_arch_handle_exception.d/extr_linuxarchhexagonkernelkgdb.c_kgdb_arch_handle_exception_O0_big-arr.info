@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxarchhexagonkernelkgdb.c_kgdb_arch_handle_exception.d/extr_linuxarchhexagonkernelkgdb.c_kgdb_arch_handle_exception_O0::kgdb_arch_handle_exception(63)"
+  }
+]

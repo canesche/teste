@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function usb_asmedia_modifyflowcontrol void | pdev struct pci_dev *

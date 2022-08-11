@@ -1,0 +1,2 @@
+struct ff_codec_desc | long_name const char * 
+function ff_codec_desc_long_name const char * | codec_desc const struct ff_codec_desc *

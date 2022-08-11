@@ -1,2 +1,0 @@
-struct i2c_driver | dummy int 
-function mlxsw_i2c_driver_unregister void | i2c_driver struct i2c_driver *

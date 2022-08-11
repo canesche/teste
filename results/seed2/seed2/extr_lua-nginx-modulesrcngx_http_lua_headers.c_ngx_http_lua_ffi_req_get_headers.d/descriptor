@@ -1,0 +1,11 @@
+struct TYPE_19__ | len long | data int 
+struct TYPE_17__ | len long | data int 
+struct TYPE_20__ | value struct TYPE_19__ | key struct TYPE_17__ | lowcase_key int 
+struct TYPE_21__ | nelts unsigned long | elts struct TYPE_20__ * | next struct TYPE_21__ * 
+struct TYPE_14__ | part struct TYPE_21__ 
+struct TYPE_15__ | headers struct TYPE_14__ 
+struct TYPE_22__ | headers_in struct TYPE_15__ 
+struct TYPE_18__ | len int | data int 
+struct TYPE_16__ | len int | data int 
+struct TYPE_13__ | value struct TYPE_18__ | key struct TYPE_16__ 
+function ngx_http_lua_ffi_req_get_headers int | r struct TYPE_22__ * | out struct TYPE_13__ * | count int | raw int

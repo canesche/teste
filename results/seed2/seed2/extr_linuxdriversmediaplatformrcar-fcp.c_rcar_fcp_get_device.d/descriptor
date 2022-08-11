@@ -1,0 +1,3 @@
+struct rcar_fcp_device | dev struct device * 
+struct device | dummy int 
+function rcar_fcp_get_device struct device * | fcp struct rcar_fcp_device *

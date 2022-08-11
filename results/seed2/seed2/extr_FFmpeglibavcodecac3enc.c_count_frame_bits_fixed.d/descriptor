@@ -1,0 +1,2 @@
+struct TYPE_3__ | num_blocks int | fbw_channels int | num_blks_code int | channel_mode unsigned long | frame_bits_fixed int | eac3 long | lfe_on long | use_frame_exp_strategy long 
+function count_frame_bits_fixed void | s struct TYPE_3__ *

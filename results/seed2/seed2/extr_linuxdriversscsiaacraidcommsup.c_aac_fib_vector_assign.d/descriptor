@@ -1,0 +1,4 @@
+struct fib | vector_no unsigned long 
+struct aac_dev | max_msix int | vector_cap unsigned long | scsi_host_ptr struct TYPE_2__ * | fibs struct fib * 
+struct TYPE_2__ | can_queue unsigned long 
+function aac_fib_vector_assign void | dev struct aac_dev *

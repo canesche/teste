@@ -1,1 +1,0 @@
-function ieee80211_add_wmm_info_ie int * | buf int * | qosinfo int

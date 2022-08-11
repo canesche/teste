@@ -1,0 +1,4 @@
+struct r8192_priv | rtllib struct TYPE_4__ * 
+struct TYPE_3__ | SlotNum unsigned long | RxDataNum long * | RxBcnNum long * | NumRecvDataInPeriod long | NumRecvBcnInPeriod long | SlotIndex int 
+struct TYPE_4__ | LinkDetectInfo struct TYPE_3__ 
+function _rtl92e_update_rxcounts void | priv struct r8192_priv * | TotalRxBcnNum long * | TotalRxDataNum long *

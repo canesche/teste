@@ -1,0 +1,3 @@
+struct gelic_port | card struct gelic_card * 
+struct gelic_card | dummy int 
+function port_to_card struct gelic_card * | p struct gelic_port *

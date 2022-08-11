@@ -1,0 +1,2 @@
+struct dwc3 | revision int 
+function dwc3_is_usb31 int | dwc struct dwc3 *

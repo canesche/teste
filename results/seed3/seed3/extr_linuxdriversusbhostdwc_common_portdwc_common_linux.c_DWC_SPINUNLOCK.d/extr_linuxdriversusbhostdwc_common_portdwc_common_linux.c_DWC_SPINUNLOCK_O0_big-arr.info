@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversusbhostdwc_common_portdwc_common_linux.c_DWC_SPINUNLOCK.d/extr_linuxdriversusbhostdwc_common_portdwc_common_linux.c_DWC_SPINUNLOCK_O0::DWC_SPINUNLOCK(61)"
+  }
+]

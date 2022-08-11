@@ -1,0 +1,4 @@
+struct ocfs2_per_slot_free_list | f_first int 
+struct ocfs2_extent_tree | et_dealloc struct TYPE_2__ * 
+struct TYPE_2__ | c_first_suballocator struct ocfs2_per_slot_free_list * 
+function ocfs2_is_dealloc_empty int | et struct ocfs2_extent_tree *

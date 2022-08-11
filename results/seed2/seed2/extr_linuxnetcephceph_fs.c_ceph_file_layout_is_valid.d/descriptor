@@ -1,0 +1,2 @@
+struct ceph_file_layout | stripe_unit int | stripe_count int | object_size int 
+function ceph_file_layout_is_valid int | layout const struct ceph_file_layout *

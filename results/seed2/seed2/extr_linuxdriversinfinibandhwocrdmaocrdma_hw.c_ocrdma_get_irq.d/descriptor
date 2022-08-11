@@ -1,0 +1,6 @@
+struct ocrdma_eq | vector unsigned long 
+struct TYPE_5__ | vector_list int * 
+struct TYPE_6__ | intr_mode long | msix struct TYPE_5__ | pdev struct TYPE_4__ * 
+struct ocrdma_dev | nic_info struct TYPE_6__ 
+struct TYPE_4__ | irq int 
+function ocrdma_get_irq int | dev struct ocrdma_dev * | eq struct ocrdma_eq *

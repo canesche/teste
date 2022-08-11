@@ -1,0 +1,2 @@
+struct mvneta_tx_queue | txq_get_index long | size long 
+function mvneta_txq_inc_get void | txq struct mvneta_tx_queue *

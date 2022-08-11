@@ -1,0 +1,3 @@
+struct TYPE_2__ | len int 
+struct json_writer | open_stack struct TYPE_2__ 
+function jw_is_terminated int | jw const struct json_writer *

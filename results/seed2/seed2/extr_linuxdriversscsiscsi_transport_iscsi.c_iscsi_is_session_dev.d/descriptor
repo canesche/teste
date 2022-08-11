@@ -1,0 +1,2 @@
+struct device | release long 
+function iscsi_is_session_dev int | dev const struct device *

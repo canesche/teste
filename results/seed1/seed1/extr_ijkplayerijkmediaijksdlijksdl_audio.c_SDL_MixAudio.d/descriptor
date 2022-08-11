@@ -1,0 +1,1 @@
+function SDL_MixAudio void | dst int * | src const int * | len int | volume int

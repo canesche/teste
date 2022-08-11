@@ -1,3 +1,0 @@
-struct mlxsw_sp_rif | fid struct mlxsw_sp_fid * 
-struct mlxsw_sp_fid | dummy int 
-function mlxsw_sp_rif_fid struct mlxsw_sp_fid * | rif const struct mlxsw_sp_rif *

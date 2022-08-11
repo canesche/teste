@@ -1,2 +1,0 @@
-struct rsc | conj int 
-function daio_out_next_conj int | rsc struct rsc *

@@ -1,0 +1,2 @@
+struct page_stat | migrate_type unsigned int 
+function migrate_type_cmp int | a void * | b void *

@@ -1,0 +1,5 @@
+struct rockchip_pinctrl | regmap_base struct regmap * | regmap_pmu struct regmap * 
+struct rockchip_pin_bank | bank_num int | drv struct TYPE_2__ * | drvdata struct rockchip_pinctrl * 
+struct regmap | dummy int 
+struct TYPE_2__ | offset int | drv_type long 
+function rk3399_calc_drv_reg_and_bit void | bank struct rockchip_pin_bank * | pin_num int | regmap struct regmap ** | reg int * | bit int *

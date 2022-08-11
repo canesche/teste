@@ -1,0 +1,3 @@
+struct fsi_master | core struct TYPE_2__ * 
+struct TYPE_2__ | ver int 
+function fsi_version int | master struct fsi_master *

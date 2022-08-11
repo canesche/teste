@@ -1,0 +1,2 @@
+struct trace_event_file | flags int 
+function event_no_set_filter_flag int | file struct trace_event_file *

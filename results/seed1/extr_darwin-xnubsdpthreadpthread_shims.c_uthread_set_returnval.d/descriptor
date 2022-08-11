@@ -1,2 +1,0 @@
-struct uthread | uu_rval int * 
-function uthread_set_returnval void | uth struct uthread * | retval int

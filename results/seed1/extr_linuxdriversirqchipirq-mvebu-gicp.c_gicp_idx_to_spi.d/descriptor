@@ -1,3 +1,0 @@
-struct mvebu_gicp_spi_range | count int | start int 
-struct mvebu_gicp | spi_ranges_cnt int | spi_ranges struct mvebu_gicp_spi_range * 
-function gicp_idx_to_spi int | gicp struct mvebu_gicp * | idx int

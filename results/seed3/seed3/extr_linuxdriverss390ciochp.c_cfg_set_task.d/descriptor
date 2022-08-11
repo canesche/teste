@@ -1,0 +1,2 @@
+struct chp_id | cssid unsigned long | id unsigned long 
+function cfg_set_task void | chpid struct chp_id | cfg enum cfg_task_t

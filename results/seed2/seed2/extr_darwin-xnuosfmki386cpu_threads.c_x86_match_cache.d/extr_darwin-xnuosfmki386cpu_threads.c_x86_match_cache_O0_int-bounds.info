@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_darwin-xnuosfmki386cpu_threads.c_x86_match_cache.d/extr_darwin-xnuosfmki386cpu_threads.c_x86_match_cache_O0::x86_match_cache(63)"
+  }
+]

@@ -1,0 +1,3 @@
+struct TYPE_6__ | breaklist int | previous struct TYPE_6__ * | upval long | nactvar int | isbreakable int 
+struct TYPE_5__ | bl struct TYPE_6__ * | nactvar int 
+function enterblock void | fs struct TYPE_5__ * | bl struct TYPE_6__ * | isbreakable int

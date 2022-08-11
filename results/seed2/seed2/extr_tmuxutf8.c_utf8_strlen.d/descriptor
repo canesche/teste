@@ -1,0 +1,2 @@
+struct utf8_data | size long 
+function utf8_strlen unsigned long | s const struct utf8_data *

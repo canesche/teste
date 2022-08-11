@@ -1,2 +1,0 @@
-struct TYPE_3__ | cyRowHeights int * | nRows unsigned long 
-function rbsize_add_row void | rbsr struct TYPE_3__ * | rowHeight int

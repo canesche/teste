@@ -1,2 +1,0 @@
-struct mac80211_hwsim_data | ps int 
-function hwsim_fops_ps_read int | dat void * | val int *

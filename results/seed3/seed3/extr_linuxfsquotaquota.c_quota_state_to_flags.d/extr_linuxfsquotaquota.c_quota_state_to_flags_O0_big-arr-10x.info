@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxfsquotaquota.c_quota_state_to_flags.d/extr_linuxfsquotaquota.c_quota_state_to_flags_O0::quota_state_to_flags(74)"
+  }
+]

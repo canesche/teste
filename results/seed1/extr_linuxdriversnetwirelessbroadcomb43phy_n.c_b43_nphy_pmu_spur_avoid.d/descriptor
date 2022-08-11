@@ -1,3 +1,0 @@
-struct b43_wldev | dev struct TYPE_2__ * 
-struct TYPE_2__ | bus_type int 
-function b43_nphy_pmu_spur_avoid void | dev struct b43_wldev * | avoid int

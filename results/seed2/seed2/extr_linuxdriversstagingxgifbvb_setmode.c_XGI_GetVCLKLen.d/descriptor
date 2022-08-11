@@ -1,0 +1,4 @@
+struct vb_device_info | VBType int | VBInfo int | SetFlag int 
+struct TYPE_4__ | Part4_A unsigned char | Part4_B unsigned char 
+struct TYPE_3__ | SR2B unsigned char | SR2C unsigned char 
+function XGI_GetVCLKLen void | tempal unsigned char | di_0 unsigned char * | di_1 unsigned char * | pVBInfo struct vb_device_info *

@@ -1,1 +1,0 @@
-function opus_fade void | out float * | in1 const float * | in2 const float * | window const float * | len int

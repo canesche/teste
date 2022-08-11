@@ -1,2 +1,0 @@
-struct cphy | dummy int 
-function mv88x201x_reset int | cphy struct cphy * | wait int

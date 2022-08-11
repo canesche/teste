@@ -1,0 +1,2 @@
+struct TYPE_2__ | word long | position long 
+function cmp_word_freq int | a const void * | b const void *

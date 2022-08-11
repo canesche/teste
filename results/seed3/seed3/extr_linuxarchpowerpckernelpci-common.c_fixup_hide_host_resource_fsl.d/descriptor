@@ -1,0 +1,4 @@
+struct pci_dev | class int | hdr_type long | resource struct TYPE_4__ * | bus struct TYPE_3__ * 
+struct TYPE_4__ | flags long | end long | start long 
+struct TYPE_3__ | parent int * 
+function fixup_hide_host_resource_fsl void | dev struct pci_dev *

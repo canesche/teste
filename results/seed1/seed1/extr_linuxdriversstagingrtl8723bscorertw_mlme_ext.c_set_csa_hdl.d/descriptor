@@ -1,0 +1,2 @@
+struct adapter | dummy int 
+function set_csa_hdl int | padapter struct adapter * | pbuf unsigned char *

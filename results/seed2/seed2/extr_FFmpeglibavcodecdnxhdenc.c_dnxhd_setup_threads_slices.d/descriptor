@@ -1,0 +1,3 @@
+struct TYPE_4__ | mb_height int | mb_width int 
+struct TYPE_5__ | slice_offs int * | slice_size int * | mb_bits long * | m struct TYPE_4__ 
+function dnxhd_setup_threads_slices void | ctx struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct drm_color_lut | red long | green long | blue long 
+function __is_lut_linear int | lut struct drm_color_lut * | size int

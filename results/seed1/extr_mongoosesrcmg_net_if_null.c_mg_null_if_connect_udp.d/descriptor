@@ -1,2 +1,0 @@
-struct mg_connection | flags int 
-function mg_null_if_connect_udp void | c struct mg_connection *

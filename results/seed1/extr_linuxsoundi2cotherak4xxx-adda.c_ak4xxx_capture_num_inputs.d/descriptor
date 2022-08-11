@@ -1,3 +1,0 @@
-struct snd_akm4xxx | adc_info struct TYPE_2__ * 
-struct TYPE_2__ | input_names char ** 
-function ak4xxx_capture_num_inputs int | ak struct snd_akm4xxx * | mixer_ch int

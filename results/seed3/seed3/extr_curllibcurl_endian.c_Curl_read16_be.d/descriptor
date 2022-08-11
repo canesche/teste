@@ -1,0 +1,1 @@
+function Curl_read16_be unsigned short | buf const unsigned char *

@@ -1,3 +1,0 @@
-struct sk_buff | dummy int 
-struct net_bridge_port | dummy int 
-function nbp_switchdev_allowed_egress int | p const struct net_bridge_port * | skb const struct sk_buff *

@@ -1,0 +1,2 @@
+struct snd_ac97 | rates int * | ext_id int | flags int | build_ops int * 
+function patch_conexant int | ac97 struct snd_ac97 *

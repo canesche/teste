@@ -1,0 +1,4 @@
+struct TYPE_8__ | priv_data struct TYPE_6__ * 
+struct TYPE_7__ | data int * 
+struct TYPE_6__ | data_type int | pkt_offset int 
+function spdif_header_ac3 int | s struct TYPE_8__ * | pkt struct TYPE_7__ *

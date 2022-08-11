@@ -1,0 +1,5 @@
+struct TYPE_9__ | priv_data struct TYPE_8__ * 
+struct TYPE_7__ | sps struct TYPE_6__ * 
+struct TYPE_8__ | ps struct TYPE_7__ 
+struct TYPE_6__ | num_reorder_frames int 
+function avpriv_h264_has_num_reorder_frames int | avctx struct TYPE_9__ *

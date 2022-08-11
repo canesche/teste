@@ -1,0 +1,2 @@
+struct usb_gadget | is_selfpowered int 
+function renesas_usb3_set_selfpowered int | gadget struct usb_gadget * | is_self int

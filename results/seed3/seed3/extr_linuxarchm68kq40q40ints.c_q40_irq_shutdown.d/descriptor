@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function q40_irq_shutdown void | data struct irq_data *

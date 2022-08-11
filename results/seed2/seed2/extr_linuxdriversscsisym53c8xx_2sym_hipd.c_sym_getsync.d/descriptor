@@ -1,0 +1,2 @@
+struct sym_hcb | clock_khz int | clock_divn int | features int 
+function sym_getsync int | np struct sym_hcb * | dt int | sfac int | divp int * | fakp int *

@@ -1,3 +1,0 @@
-struct key_restriction | key const struct key * 
-struct key | restrict_link struct key_restriction * | type int * 
-function keyring_detect_restriction_cycle int | dest_keyring const struct key * | keyres struct key_restriction *

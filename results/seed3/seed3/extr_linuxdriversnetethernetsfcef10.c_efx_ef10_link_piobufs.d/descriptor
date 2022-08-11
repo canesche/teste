@@ -1,0 +1,2 @@
+struct efx_nic | dummy int 
+function efx_ef10_link_piobufs int | efx struct efx_nic *

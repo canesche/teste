@@ -1,2 +1,0 @@
-struct pt_regs | dummy int 
-function print_bug_trap void | regs struct pt_regs *

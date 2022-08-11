@@ -1,2 +1,0 @@
-struct page | dummy int 
-function page_contiguous int | first struct page * | last struct page * | npages unsigned long

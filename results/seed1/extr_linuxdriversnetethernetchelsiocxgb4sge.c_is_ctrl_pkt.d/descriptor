@@ -1,2 +1,0 @@
-struct sk_buff | queue_mapping int 
-function is_ctrl_pkt unsigned int | skb const struct sk_buff *

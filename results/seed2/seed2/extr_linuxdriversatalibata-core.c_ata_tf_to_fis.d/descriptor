@@ -1,0 +1,2 @@
+struct ata_taskfile | command int | feature int | lbal int | lbam int | lbah int | device int | hob_lbal int | hob_lbam int | hob_lbah int | hob_feature int | nsect int | hob_nsect int | ctl int | auxiliary int 
+function ata_tf_to_fis void | tf const struct ata_taskfile * | pmp int | is_cmd int | fis int *

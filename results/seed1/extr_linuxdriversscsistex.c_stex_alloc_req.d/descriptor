@@ -1,3 +1,0 @@
-struct st_hba | req_head int | rq_size int | rq_count int | dma_mem struct req_msg * 
-struct req_msg | dummy int 
-function stex_alloc_req struct req_msg * | hba struct st_hba *

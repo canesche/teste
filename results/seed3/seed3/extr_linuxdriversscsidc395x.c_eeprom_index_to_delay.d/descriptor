@@ -1,0 +1,2 @@
+struct NvRamType | delay_time unsigned long 
+function eeprom_index_to_delay void | eeprom struct NvRamType *

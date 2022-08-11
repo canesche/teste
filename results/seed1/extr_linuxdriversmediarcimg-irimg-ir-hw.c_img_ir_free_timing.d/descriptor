@@ -1,2 +1,0 @@
-struct img_ir_free_timing | minlen int | maxlen int | ft_min unsigned long 
-function img_ir_free_timing unsigned int | timing const struct img_ir_free_timing * | clock_hz unsigned long

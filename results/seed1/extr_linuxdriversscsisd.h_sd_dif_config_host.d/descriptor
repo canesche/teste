@@ -1,2 +1,0 @@
-struct scsi_disk | dummy int 
-function sd_dif_config_host void | disk struct scsi_disk *

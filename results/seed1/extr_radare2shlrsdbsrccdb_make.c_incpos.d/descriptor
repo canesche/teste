@@ -1,2 +1,0 @@
-struct cdb_make | pos long 
-function incpos int | c struct cdb_make * | len long

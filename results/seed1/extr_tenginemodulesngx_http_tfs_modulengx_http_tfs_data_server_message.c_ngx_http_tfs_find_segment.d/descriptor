@@ -1,2 +1,0 @@
-struct TYPE_3__ | offset long 
-function ngx_http_tfs_find_segment int | seg_count int | seg_info struct TYPE_3__ * | offset long

@@ -1,0 +1,2 @@
+struct dpu_encoder_phys_cmd | dummy int 
+function _dpu_encoder_phys_cmd_get_idle_timeout int | cmd_enc struct dpu_encoder_phys_cmd *

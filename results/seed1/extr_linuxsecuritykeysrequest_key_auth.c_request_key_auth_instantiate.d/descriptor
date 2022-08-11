@@ -1,5 +1,0 @@
-struct request_key_auth | dummy int 
-struct key_preparsed_payload | data long 
-struct TYPE_2__ | data struct request_key_auth ** 
-struct key | payload struct TYPE_2__ 
-function request_key_auth_instantiate int | key struct key * | prep struct key_preparsed_payload *

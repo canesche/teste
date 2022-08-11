@@ -1,2 +1,0 @@
-struct h_elem | freq long | sym int 
-function cmp_leaves int | in_a const void * | in_b const void *

@@ -1,3 +1,0 @@
-struct hisi_lpc_dev | io_host struct TYPE_2__ * 
-struct TYPE_2__ | io_start unsigned long | hw_start unsigned long 
-function hisi_lpc_pio_to_addr unsigned long | lpcdev struct hisi_lpc_dev * | pio unsigned long

@@ -1,2 +1,0 @@
-struct seq_file | dummy int 
-function l2tp_dfs_seq_next void * | m struct seq_file * | v void * | pos int *

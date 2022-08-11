@@ -1,0 +1,1 @@
+function IniIsSectionName int | LineOfText char * | TextLength unsigned long

@@ -1,0 +1,2 @@
+struct TYPE_3__ | lut_l unsigned long * 
+function apply_luma_lut void | s struct TYPE_3__ * | ldst unsigned long * | dst_linesize const int | lsrc unsigned long * | src_linesize const int | w int | h int

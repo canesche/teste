@@ -1,3 +1,0 @@
-struct TYPE_2__ | top unsigned int 
-struct tpg_data | crop struct TYPE_2__ 
-function tpg_calc_frameline unsigned int | tpg const struct tpg_data * | src_y unsigned int | field unsigned int

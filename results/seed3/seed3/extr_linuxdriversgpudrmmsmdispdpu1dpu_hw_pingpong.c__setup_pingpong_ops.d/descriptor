@@ -1,0 +1,3 @@
+struct dpu_pingpong_cfg | dummy int 
+struct dpu_hw_pingpong_ops | get_line_count int | poll_timeout_wr_ptr int | get_vsync_info int | connect_external_te int | enable_tearcheck int | setup_tearcheck int 
+function _setup_pingpong_ops void | ops struct dpu_hw_pingpong_ops * | hw_cap const struct dpu_pingpong_cfg *

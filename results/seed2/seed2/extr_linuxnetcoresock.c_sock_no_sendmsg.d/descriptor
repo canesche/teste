@@ -1,0 +1,3 @@
+struct socket | dummy int 
+struct msghdr | dummy int 
+function sock_no_sendmsg int | sock struct socket * | m struct msghdr * | len unsigned long

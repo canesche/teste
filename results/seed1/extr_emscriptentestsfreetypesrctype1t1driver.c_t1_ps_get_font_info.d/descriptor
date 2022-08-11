@@ -1,3 +1,0 @@
-struct TYPE_3__ | font_info int 
-struct TYPE_4__ | type1 struct TYPE_3__ 
-function t1_ps_get_font_info int | face long | afont_info int *

@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct ethtool_link_ksettings | dummy int 
+function igbvf_set_link_ksettings int | netdev struct net_device * | cmd const struct ethtool_link_ksettings *

@@ -1,2 +1,0 @@
-struct object_array_entry | path const char * | name const char * 
-function blob_path const char * | entry struct object_array_entry *

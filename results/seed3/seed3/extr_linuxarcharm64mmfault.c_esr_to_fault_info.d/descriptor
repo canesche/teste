@@ -1,0 +1,2 @@
+struct fault_info | dummy int 
+function esr_to_fault_info const struct fault_info * | esr unsigned int

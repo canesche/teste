@@ -1,0 +1,3 @@
+struct TYPE_5__ | ci struct TYPE_6__ * 
+struct TYPE_6__ | callstatus int | previous struct TYPE_6__ * 
+function findpcall struct TYPE_6__ * | L struct TYPE_5__ *

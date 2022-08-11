@@ -1,2 +1,0 @@
-struct ipmi_user | dummy int 
-function ipmi_cpi1_detect int | user struct ipmi_user *

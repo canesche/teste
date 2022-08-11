@@ -1,0 +1,4 @@
+struct TYPE_3__ | readonly int 
+struct TYPE_4__ | vma_node struct TYPE_3__ 
+struct drm_i915_gem_object | base struct TYPE_4__ 
+function i915_gem_object_set_readonly void | obj struct drm_i915_gem_object *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | ioctl_reply_context int ** 
+function adpt_ioctl_from_context void * | pHba struct TYPE_3__ * | context unsigned long

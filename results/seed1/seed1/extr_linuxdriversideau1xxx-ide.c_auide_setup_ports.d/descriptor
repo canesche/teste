@@ -1,0 +1,3 @@
+struct ide_hw | io_ports_array unsigned long * 
+struct TYPE_3__ | regbase int 
+function auide_setup_ports void | hw struct ide_hw * | ahwif struct TYPE_3__ *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxarchpowerpckernelpci_of_scan.c_pci_parse_of_flags.d/extr_linuxarchpowerpckernelpci_of_scan.c_pci_parse_of_flags_O0::pci_parse_of_flags(71)"
+  }
+]

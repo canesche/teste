@@ -1,2 +1,0 @@
-struct gpio_chip | dummy int 
-function usrgpir_gpio_direction_input int | chip struct gpio_chip * | gpio unsigned int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | CrystalFreqKHz int | Architecture long | MaxVClockFreqKHz unsigned int 
+function CalcVClock int | clockIn int | clockOut int * | mOut int * | nOut int * | pOut int * | chip struct TYPE_3__ *

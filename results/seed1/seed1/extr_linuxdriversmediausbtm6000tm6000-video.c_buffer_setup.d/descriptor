@@ -1,0 +1,4 @@
+struct videobuf_queue | priv_data struct tm6000_fh * 
+struct tm6000_fh | width int | height int | fmt struct TYPE_2__ * 
+struct TYPE_2__ | depth int 
+function buffer_setup int | vq struct videobuf_queue * | count unsigned int * | size unsigned int *

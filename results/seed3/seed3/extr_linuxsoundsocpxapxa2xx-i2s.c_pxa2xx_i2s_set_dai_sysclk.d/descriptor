@@ -1,0 +1,2 @@
+struct snd_soc_dai | dummy int 
+function pxa2xx_i2s_set_dai_sysclk int | cpu_dai struct snd_soc_dai * | clk_id int | freq unsigned int | dir int

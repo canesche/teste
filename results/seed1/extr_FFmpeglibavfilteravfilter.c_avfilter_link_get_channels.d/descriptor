@@ -1,2 +1,0 @@
-struct TYPE_3__ | channels int 
-function avfilter_link_get_channels int | link struct TYPE_3__ *

@@ -1,2 +1,0 @@
-struct roundingData | mode long | exception int 
-function roundAndPackInt32 int | roundData struct roundingData * | zSign int | absZ int

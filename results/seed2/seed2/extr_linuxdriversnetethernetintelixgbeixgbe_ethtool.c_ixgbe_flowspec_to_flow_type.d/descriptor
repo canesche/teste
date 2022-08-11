@@ -1,0 +1,6 @@
+struct TYPE_5__ | proto int 
+struct TYPE_6__ | usr_ip4_spec struct TYPE_5__ 
+struct TYPE_7__ | proto int 
+struct TYPE_8__ | usr_ip4_spec struct TYPE_7__ 
+struct ethtool_rx_flow_spec | flow_type int | m_u struct TYPE_6__ | h_u struct TYPE_8__ 
+function ixgbe_flowspec_to_flow_type int | fsp struct ethtool_rx_flow_spec * | flow_type int *

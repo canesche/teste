@@ -1,3 +1,0 @@
-struct TYPE_4__ | len unsigned long | base int * 
-struct TYPE_5__ | type int | data struct TYPE_4__ 
-function set_test_extensions void | ext struct TYPE_5__ [2] | data int * | len unsigned long

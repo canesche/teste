@@ -1,0 +1,2 @@
+struct pmcmsptwi_cmd | type int | write_len int | read_len int 
+function pmcmsptwi_cmd_to_reg int | cmd const struct pmcmsptwi_cmd *

@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function fscache_histogram_start void * | m struct seq_file * | _pos int *

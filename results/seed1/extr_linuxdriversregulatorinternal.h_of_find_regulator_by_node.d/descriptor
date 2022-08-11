@@ -1,3 +1,0 @@
-struct regulator_dev | dummy int 
-struct device_node | dummy int 
-function of_find_regulator_by_node struct regulator_dev * | np struct device_node *

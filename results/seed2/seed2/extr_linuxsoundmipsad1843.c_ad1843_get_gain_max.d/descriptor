@@ -1,0 +1,4 @@
+struct snd_ad1843 | dummy int 
+struct ad1843_gain | lmute int | lfield struct TYPE_2__ * 
+struct TYPE_2__ | nbits int 
+function ad1843_get_gain_max int | ad1843 struct snd_ad1843 * | id int

@@ -1,0 +1,4 @@
+struct regmap | dummy int 
+struct mtk_pinctrl | regmap1 struct regmap * | regmap2 struct regmap * | devdata struct TYPE_2__ * 
+struct TYPE_2__ | type1_start unsigned long | type1_end unsigned long 
+function mtk_get_regmap struct regmap * | pctl struct mtk_pinctrl * | pin unsigned long

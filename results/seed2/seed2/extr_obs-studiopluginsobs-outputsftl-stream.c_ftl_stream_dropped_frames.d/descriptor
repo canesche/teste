@@ -1,0 +1,2 @@
+struct ftl_stream | dropped_frames long 
+function ftl_stream_dropped_frames int | data void *

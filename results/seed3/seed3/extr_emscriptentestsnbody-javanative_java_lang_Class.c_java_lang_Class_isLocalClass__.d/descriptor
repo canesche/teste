@@ -1,0 +1,4 @@
+struct TYPE_4__ | tib_ long 
+struct TYPE_5__ | java_lang_Class struct TYPE_4__ 
+struct TYPE_6__ | fields struct TYPE_5__ 
+function java_lang_Class_isLocalClass__ int | me long

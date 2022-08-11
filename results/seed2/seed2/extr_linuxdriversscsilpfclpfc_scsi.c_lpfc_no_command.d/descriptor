@@ -1,0 +1,3 @@
+struct scsi_cmnd | dummy int 
+struct Scsi_Host | dummy int 
+function lpfc_no_command int | shost struct Scsi_Host * | cmnd struct scsi_cmnd *

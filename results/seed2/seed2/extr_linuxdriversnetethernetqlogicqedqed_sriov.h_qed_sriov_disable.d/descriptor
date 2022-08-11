@@ -1,0 +1,2 @@
+struct qed_dev | dummy int 
+function qed_sriov_disable int | cdev struct qed_dev * | pci_enabled int

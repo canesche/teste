@@ -1,2 +1,0 @@
-struct nvme_ns | dummy int 
-function nvme_mpath_check_last_path void | ns struct nvme_ns *

@@ -1,0 +1,2 @@
+struct socket | so_flags int 
+function somultipages void | so struct socket * | set long

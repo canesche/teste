@@ -1,0 +1,2 @@
+struct apm_queue | event_tail int | events int * 
+function queue_get_event int | q struct apm_queue *

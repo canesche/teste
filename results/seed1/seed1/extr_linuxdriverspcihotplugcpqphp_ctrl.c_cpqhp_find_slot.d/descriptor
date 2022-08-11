@@ -1,0 +1,3 @@
+struct slot | device long | next struct slot * 
+struct controller | slot struct slot * 
+function cpqhp_find_slot struct slot * | ctrl struct controller * | device long

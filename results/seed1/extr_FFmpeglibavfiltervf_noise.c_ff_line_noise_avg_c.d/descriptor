@@ -1,1 +1,0 @@
-function ff_line_noise_avg_c void | dst int * | src const int * | len int | shift const int *const *

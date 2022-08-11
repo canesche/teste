@@ -1,0 +1,2 @@
+struct ser_device | dummy int 
+function update_tty_status void | ser struct ser_device *

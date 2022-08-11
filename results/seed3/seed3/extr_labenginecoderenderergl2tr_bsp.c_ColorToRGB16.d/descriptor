@@ -1,0 +1,1 @@
+function ColorToRGB16 void | color float *const | rgb16 float [3]

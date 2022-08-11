@@ -1,0 +1,1 @@
+function _bnxt_fw_to_ethtool_adv_spds int | fw_speeds int | fw_pause int

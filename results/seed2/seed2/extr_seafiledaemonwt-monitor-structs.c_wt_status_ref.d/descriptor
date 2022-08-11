@@ -1,0 +1,2 @@
+struct TYPE_3__ | ref_count int 
+function wt_status_ref void | status struct TYPE_3__ *

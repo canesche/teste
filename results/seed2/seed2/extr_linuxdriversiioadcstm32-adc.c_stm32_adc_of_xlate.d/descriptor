@@ -1,0 +1,4 @@
+struct of_phandle_args | args long * 
+struct iio_dev | num_channels int | channels struct TYPE_2__ * 
+struct TYPE_2__ | channel long 
+function stm32_adc_of_xlate int | indio_dev struct iio_dev * | iiospec const struct of_phandle_args *

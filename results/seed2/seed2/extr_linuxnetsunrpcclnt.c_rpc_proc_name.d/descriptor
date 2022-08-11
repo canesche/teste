@@ -1,0 +1,4 @@
+struct TYPE_2__ | rpc_proc struct rpc_procinfo * 
+struct rpc_task | tk_msg struct TYPE_2__ 
+struct rpc_procinfo | p_name const char * 
+function rpc_proc_name const char * | task const struct rpc_task *

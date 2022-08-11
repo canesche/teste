@@ -1,0 +1,3 @@
+struct log_c | sync_search long 
+struct dm_dirty_log | context long 
+function core_resume int | log struct dm_dirty_log *

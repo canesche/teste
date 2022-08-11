@@ -1,0 +1,3 @@
+struct sti_cooked_rom | dummy int 
+struct sti_cooked_font | dummy int 
+function sti_select_fbfont struct sti_cooked_font * | cooked_rom struct sti_cooked_rom * | fbfont_name const char *

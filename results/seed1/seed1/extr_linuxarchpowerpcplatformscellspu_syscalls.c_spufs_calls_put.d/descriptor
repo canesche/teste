@@ -1,0 +1,2 @@
+struct spufs_calls | dummy int 
+function spufs_calls_put void | calls struct spufs_calls *

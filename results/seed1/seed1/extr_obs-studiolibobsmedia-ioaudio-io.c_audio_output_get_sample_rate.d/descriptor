@@ -1,0 +1,3 @@
+struct TYPE_4__ | samples_per_sec int 
+struct TYPE_5__ | info struct TYPE_4__ 
+function audio_output_get_sample_rate int | audio const struct TYPE_5__ *

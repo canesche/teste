@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 8,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetphyphy-core.c_phy_resolve_aneg_linkmode.d/extr_linuxdriversnetphyphy-core.c_phy_resolve_aneg_linkmode_O0::phy_resolve_aneg_linkmode(77)"
+  }
+]

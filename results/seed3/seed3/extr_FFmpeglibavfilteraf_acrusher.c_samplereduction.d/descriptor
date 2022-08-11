@@ -1,0 +1,3 @@
+struct TYPE_6__ | round long | samples long 
+struct TYPE_5__ | samples long | target long | real long | last double 
+function samplereduction double | s struct TYPE_6__ * | sr struct TYPE_5__ * | in double

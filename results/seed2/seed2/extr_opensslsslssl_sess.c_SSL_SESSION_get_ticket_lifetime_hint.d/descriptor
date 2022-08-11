@@ -1,0 +1,3 @@
+struct TYPE_4__ | tick_lifetime_hint unsigned long 
+struct TYPE_5__ | ext struct TYPE_4__ 
+function SSL_SESSION_get_ticket_lifetime_hint unsigned long | s const struct TYPE_5__ *

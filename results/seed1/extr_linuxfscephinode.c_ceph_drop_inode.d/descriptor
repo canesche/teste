@@ -1,2 +1,0 @@
-struct inode | dummy int 
-function ceph_drop_inode int | inode struct inode *

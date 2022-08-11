@@ -1,3 +1,0 @@
-struct TYPE_2__ | state_initialized long 
-struct device_node | kobj struct TYPE_2__ 
-function of_node_is_initialized int | node struct device_node *

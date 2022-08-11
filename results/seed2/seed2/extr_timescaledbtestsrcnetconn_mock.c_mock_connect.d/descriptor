@@ -1,0 +1,1 @@
+function mock_connect int | conn int * | host const char * | servname const char * | port int

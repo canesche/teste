@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 266,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_skynetlualib-srclua-crypt.c_mul_mod_p.d/extr_skynetlualib-srclua-crypt.c_mul_mod_p_O0::mul_mod_p(62)"
+  }
+]

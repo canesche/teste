@@ -1,2 +1,0 @@
-struct i2c_adapter | dummy int 
-function xlp9xx_i2c_functionality int | adapter struct i2c_adapter *

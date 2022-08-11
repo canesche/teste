@@ -1,2 +1,0 @@
-struct icy_meta | data int * 
-function init_icy void | icy struct icy_meta *

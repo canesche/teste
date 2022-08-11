@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 15,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 26,
+    static: {
+      instructions: 67,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 67,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversscsiaic7xxxaic79xx_core.c_ahd_find_syncrate.d/extr_linuxdriversscsiaic7xxxaic79xx_core.c_ahd_find_syncrate_O0::ahd_find_syncrate(73)"
+  }
+]

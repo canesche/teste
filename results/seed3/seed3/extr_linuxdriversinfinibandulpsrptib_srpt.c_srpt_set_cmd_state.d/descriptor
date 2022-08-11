@@ -1,0 +1,2 @@
+struct srpt_send_ioctx | state int 
+function srpt_set_cmd_state enum srpt_command_state | ioctx struct srpt_send_ioctx * | new enum srpt_command_state

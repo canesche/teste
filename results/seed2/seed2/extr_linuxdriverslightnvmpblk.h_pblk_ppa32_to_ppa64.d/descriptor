@@ -1,0 +1,10 @@
+struct TYPE_6__ | grp int | pu int | chk int | sec int 
+struct TYPE_5__ | ch int | lun int | blk int | pg int | pl int | sec int 
+struct TYPE_4__ | line int | is_cached int 
+struct ppa_addr | m struct TYPE_6__ | g struct TYPE_5__ | c struct TYPE_4__ | ppa long 
+struct nvm_addrf | ch_mask int | ch_offset int | lun_mask int | lun_offset int | chk_mask int | chk_offset int | sec_mask int | sec_offset int 
+struct pblk | addrf struct nvm_addrf | dev struct nvm_tgt_dev * 
+struct nvm_geo | version long 
+struct nvm_tgt_dev | geo struct nvm_geo 
+struct nvm_addrf_12 | ch_mask int | ch_offset int | lun_mask int | lun_offset int | blk_mask int | blk_offset int | pg_mask int | pg_offset int | pln_mask int | pln_offset int | sec_mask int | sec_offset int 
+function pblk_ppa32_to_ppa64 struct ppa_addr | pblk struct pblk * | ppa32 int

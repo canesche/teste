@@ -1,0 +1,5 @@
+struct vb2_queue | num_buffers unsigned int | bufs struct vb2_buffer ** 
+struct vb2_buffer | num_planes unsigned int | planes struct TYPE_4__ * 
+struct TYPE_3__ | offset unsigned long 
+struct TYPE_4__ | m struct TYPE_3__ 
+function __find_plane_by_offset int | q struct vb2_queue * | off unsigned long | _buffer unsigned int * | _plane unsigned int *

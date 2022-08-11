@@ -1,0 +1,3 @@
+struct hists | socket_filter int 
+struct hist_entry | socket int | filtered int 
+function hists__filter_entry_by_socket int | hists struct hists * | he struct hist_entry *

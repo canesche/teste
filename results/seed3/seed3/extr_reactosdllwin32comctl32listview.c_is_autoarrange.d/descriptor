@@ -1,0 +1,2 @@
+struct TYPE_3__ | dwStyle int | uView long 
+function is_autoarrange int | infoPtr const struct TYPE_3__ *

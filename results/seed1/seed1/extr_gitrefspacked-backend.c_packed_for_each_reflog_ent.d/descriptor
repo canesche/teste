@@ -1,0 +1,2 @@
+struct ref_store | dummy int 
+function packed_for_each_reflog_ent int | ref_store struct ref_store * | refname const char * | fn int | cb_data void *

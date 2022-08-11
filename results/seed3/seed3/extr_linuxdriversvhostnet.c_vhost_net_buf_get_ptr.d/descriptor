@@ -1,0 +1,2 @@
+struct vhost_net_buf | tail unsigned long | head unsigned long | queue void ** 
+function vhost_net_buf_get_ptr void * | rxq struct vhost_net_buf *

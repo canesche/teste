@@ -1,0 +1,2 @@
+struct jit_ctx | epilogue_offset int | idx int 
+function epilogue_offset int | ctx const struct jit_ctx *

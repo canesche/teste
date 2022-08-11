@@ -1,0 +1,4 @@
+struct sk_buff | dummy int 
+struct l2cap_conn | dummy int 
+struct l2cap_chan | dummy int 
+function a2mp_channel_create struct l2cap_chan * | conn struct l2cap_conn * | skb struct sk_buff *

@@ -1,0 +1,4 @@
+struct ssb_chipcommon | capabilities int | dev struct TYPE_4__ * 
+struct TYPE_3__ | revision int 
+struct TYPE_4__ | id struct TYPE_3__ 
+function ssb_chipco_watchdog_get_max_timer int | cc struct ssb_chipcommon *

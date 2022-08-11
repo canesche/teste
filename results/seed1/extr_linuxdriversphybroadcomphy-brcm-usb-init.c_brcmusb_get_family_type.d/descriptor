@@ -1,3 +1,0 @@
-struct brcm_usb_init_params | family_id int 
-struct TYPE_2__ | id int | type int 
-function brcmusb_get_family_type enum brcm_family_type | params struct brcm_usb_init_params *

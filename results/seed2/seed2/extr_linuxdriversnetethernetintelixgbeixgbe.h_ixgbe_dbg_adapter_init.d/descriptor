@@ -1,0 +1,2 @@
+struct ixgbe_adapter | dummy int 
+function ixgbe_dbg_adapter_init void | adapter struct ixgbe_adapter *

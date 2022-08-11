@@ -1,0 +1,2 @@
+struct device | dummy int 
+function pm_runtime_reinit void | dev struct device *

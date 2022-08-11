@@ -1,0 +1,2 @@
+struct rpc_task | dummy int 
+function rpc_task_set_debuginfo void | task struct rpc_task *

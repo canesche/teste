@@ -1,0 +1,2 @@
+struct timespec | tv_sec unsigned long | tv_nsec unsigned long 
+function add_ms_to_ts void | ts struct timespec * | milliseconds unsigned long

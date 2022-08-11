@@ -1,4 +1,0 @@
-struct TYPE_7__ | map_generation int | score_map int | map int | temp int | scratchpad int 
-struct TYPE_6__ | obmc_scratchpad int | b_scratchpad int | rd_scratchpad int | edge_emu_buffer int 
-struct TYPE_8__ | ac_val int * | ac_val_base int | dct_count int * | dct_error_sum int | pb int | me struct TYPE_7__ | end_mb_y int | start_mb_y int | dpcm_direction int | dpcm_macroblock int | block32 int | block int | blocks int | sc struct TYPE_6__ 
-function backup_duplicate_context void | bak struct TYPE_8__ * | src struct TYPE_8__ *

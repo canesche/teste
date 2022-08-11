@@ -1,0 +1,8 @@
+struct TYPE_5__ | width int | height int | bytesperline int | sizeimage int | field int | colorspace int | pixelformat int 
+struct TYPE_6__ | pix struct TYPE_5__ 
+struct v4l2_format | fmt struct TYPE_6__ 
+struct file | dummy int 
+struct cx231xx_fh | dev struct cx231xx * 
+struct cx231xx | width int | height int | format struct TYPE_4__ * 
+struct TYPE_4__ | depth int | fourcc int 
+function vidioc_g_fmt_vid_cap int | file struct file * | priv void * | f struct v4l2_format *

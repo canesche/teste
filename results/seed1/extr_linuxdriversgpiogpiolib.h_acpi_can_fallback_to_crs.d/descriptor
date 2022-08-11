@@ -1,2 +1,0 @@
-struct acpi_device | dummy int 
-function acpi_can_fallback_to_crs int | adev struct acpi_device * | con_id const char *

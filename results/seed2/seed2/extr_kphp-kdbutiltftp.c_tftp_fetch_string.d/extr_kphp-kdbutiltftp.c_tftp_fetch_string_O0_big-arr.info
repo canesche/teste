@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 4612,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_kphp-kdbutiltftp.c_tftp_fetch_string.d/extr_kphp-kdbutiltftp.c_tftp_fetch_string_O0::tftp_fetch_string(59)"
+  }
+]

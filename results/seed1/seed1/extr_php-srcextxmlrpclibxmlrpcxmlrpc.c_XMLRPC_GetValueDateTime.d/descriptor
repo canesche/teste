@@ -1,0 +1,2 @@
+struct TYPE_3__ | type long | i int 
+function XMLRPC_GetValueDateTime int | value struct TYPE_3__ *

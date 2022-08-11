@@ -1,3 +1,0 @@
-struct mxl5007t_state | frequency int 
-struct dvb_frontend | tuner_priv struct mxl5007t_state * 
-function mxl5007t_get_frequency int | fe struct dvb_frontend * | frequency int *

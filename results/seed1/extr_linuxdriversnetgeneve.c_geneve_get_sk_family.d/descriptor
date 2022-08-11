@@ -1,4 +1,0 @@
-struct geneve_sock | sock struct TYPE_4__ * 
-struct TYPE_4__ | sk struct TYPE_3__ * 
-struct TYPE_3__ | sk_family int 
-function geneve_get_sk_family int | gs struct geneve_sock *

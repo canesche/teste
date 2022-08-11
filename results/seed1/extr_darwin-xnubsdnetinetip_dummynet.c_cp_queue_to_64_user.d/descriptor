@@ -1,3 +1,0 @@
-struct dn_flow_queue_64 | F int | S int | sched_time int | heap_pos int | q_time int | random int | count int | avg int | hash_slot int | drops int | tot_bytes int | tot_pkts int | numbytes int | len_bytes int | len int | id int 
-struct dn_flow_queue | F int | S int | sched_time int | heap_pos int | q_time int | random int | count int | avg int | hash_slot int | drops int | tot_bytes int | tot_pkts int | numbytes int | len_bytes int | len int | id int 
-function cp_queue_to_64_user void | q struct dn_flow_queue * | qp struct dn_flow_queue_64 *

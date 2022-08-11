@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversvideofbdevsissis_main.c_sisfb_getheapsize.d/extr_linuxdriversvideofbdevsissis_main.c_sisfb_getheapsize_O0::sisfb_getheapsize(62)"
+  }
+]

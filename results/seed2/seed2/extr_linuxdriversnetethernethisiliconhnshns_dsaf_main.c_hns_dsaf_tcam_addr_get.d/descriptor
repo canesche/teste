@@ -1,0 +1,6 @@
+struct TYPE_5__ | mac_5 int | mac_4 int 
+struct TYPE_6__ | bits struct TYPE_5__ 
+struct TYPE_8__ | mac_3 int | mac_2 int | mac_1 int | mac_0 int 
+struct TYPE_7__ | bits struct TYPE_8__ 
+struct dsaf_drv_tbl_tcam_key | low struct TYPE_6__ | high struct TYPE_7__ 
+function hns_dsaf_tcam_addr_get void | mac_key struct dsaf_drv_tbl_tcam_key * | addr int *

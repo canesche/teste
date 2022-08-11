@@ -1,0 +1,2 @@
+struct ring_buffer_event | type_len long | time_delta int 
+function rb_null_event int | event struct ring_buffer_event *

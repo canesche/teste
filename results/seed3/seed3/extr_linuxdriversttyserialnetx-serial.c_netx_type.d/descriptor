@@ -1,0 +1,2 @@
+struct uart_port | type long 
+function netx_type const char * | port struct uart_port *

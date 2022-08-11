@@ -1,0 +1,1 @@
+length(ppxIdleTaskTCBBuffer) == 100, length(ppxIdleTaskStackBuffer) == 100, length(pulIdleTaskStackSize) == 100

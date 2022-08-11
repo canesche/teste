@@ -1,0 +1,3 @@
+struct intel_padgroup | base unsigned int | size unsigned int 
+struct intel_community | ngpps int | gpps struct intel_padgroup * 
+function intel_community_get_padgroup const struct intel_padgroup * | community const struct intel_community * | pin unsigned int

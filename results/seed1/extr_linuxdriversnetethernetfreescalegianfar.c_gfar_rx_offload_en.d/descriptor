@@ -1,3 +1,0 @@
-struct gfar_private | uses_rxfcb int | rx_filer_enable long | hwts_rx_en long | ndev struct TYPE_2__ * 
-struct TYPE_2__ | features int 
-function gfar_rx_offload_en void | priv struct gfar_private *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | vector_id int | timestamp int | coord_id int 
+function cyclic_buffer_cache_store int | vector_id int | coord_id int | timestamp int

@@ -1,0 +1,6 @@
+struct TYPE_10__ | ActionAsyncOpcode long | AsyncEventHandler int 
+struct TYPE_6__ | ActionIndex unsigned long | AsyncEvtHandler int 
+struct TYPE_7__ | AsyncExt struct TYPE_6__ 
+struct TYPE_9__ | ActivePoolIdx unsigned long | ObjPool struct TYPE_8__ * | FunctionParams struct TYPE_7__ 
+struct TYPE_8__ | AdditionalData int | ActionID long | NextIndex unsigned long 
+function _SlFindAndSetActiveObj int | Opcode long | Sd unsigned long

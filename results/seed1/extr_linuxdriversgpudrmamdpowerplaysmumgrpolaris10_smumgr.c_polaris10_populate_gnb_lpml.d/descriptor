@@ -1,4 +1,0 @@
-struct pp_hwmgr | smu_backend long 
-struct TYPE_2__ | GnbLPML long * 
-struct polaris10_smumgr | power_tune_table struct TYPE_2__ 
-function polaris10_populate_gnb_lpml int | hwmgr struct pp_hwmgr *

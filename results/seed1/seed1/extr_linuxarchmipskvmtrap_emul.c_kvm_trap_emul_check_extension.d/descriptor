@@ -1,0 +1,2 @@
+struct kvm | dummy int 
+function kvm_trap_emul_check_extension int | kvm struct kvm * | ext long

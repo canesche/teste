@@ -1,3 +1,0 @@
-struct rxts | ns int | msgtype int | hash int | tmo long | seqid int 
-struct phy_rxts | sec_lo int | sec_hi int | ns_lo int | ns_hi int | msgtype int | seqid int 
-function phy2rxts void | p struct phy_rxts * | rxts struct rxts *

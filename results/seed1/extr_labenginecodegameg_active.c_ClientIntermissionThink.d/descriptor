@@ -1,5 +1,0 @@
-struct TYPE_8__ | buttons int 
-struct TYPE_6__ | cmd struct TYPE_8__ 
-struct TYPE_7__ | eFlags int 
-struct TYPE_9__ | oldbuttons int | buttons int | readyToExit int | pers struct TYPE_6__ | ps struct TYPE_7__ 
-function ClientIntermissionThink void | client struct TYPE_9__ *

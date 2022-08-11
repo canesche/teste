@@ -1,0 +1,2 @@
+struct timekeeper | dummy int 
+function timekeeping_check_update void | tk struct timekeeper * | offset int

@@ -1,0 +1,2 @@
+struct IQUEUEHEAD | dummy int 
+function ikcp_qprint void | name const char * | head const struct IQUEUEHEAD *

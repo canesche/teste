@@ -1,0 +1,2 @@
+struct video_output_info | height long | width long | fps_den long | fps_num long 
+function valid_video_params int | info const struct video_output_info *

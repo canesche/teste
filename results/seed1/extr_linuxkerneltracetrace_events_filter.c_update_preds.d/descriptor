@@ -1,2 +1,0 @@
-struct prog_entry | target int | when_to_branch int 
-function update_preds void | prog struct prog_entry * | N int | invert int

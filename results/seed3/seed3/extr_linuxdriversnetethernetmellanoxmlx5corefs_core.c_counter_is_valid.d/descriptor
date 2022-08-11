@@ -1,0 +1,2 @@
+struct mlx5_fc | dummy int 
+function counter_is_valid int | counter struct mlx5_fc * | action int

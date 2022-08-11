@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function set_task_rq void | p struct task_struct * | cpu unsigned int

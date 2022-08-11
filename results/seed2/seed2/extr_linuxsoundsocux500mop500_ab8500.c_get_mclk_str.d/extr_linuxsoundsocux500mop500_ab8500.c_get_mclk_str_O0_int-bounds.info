@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxsoundsocux500mop500_ab8500.c_get_mclk_str.d/extr_linuxsoundsocux500mop500_ab8500.c_get_mclk_str_O0::get_mclk_str(61)"
+  }
+]

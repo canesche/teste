@@ -1,0 +1,2 @@
+struct matrox_hw_state | DACclk unsigned int * 
+function updatehwstate_clk void | hw struct matrox_hw_state * | mnp unsigned int | pll unsigned int

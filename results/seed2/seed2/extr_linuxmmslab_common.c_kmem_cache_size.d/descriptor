@@ -1,0 +1,2 @@
+struct kmem_cache | object_size unsigned int 
+function kmem_cache_size unsigned int | s struct kmem_cache *

@@ -1,0 +1,3 @@
+struct dm_crypt_request | dummy int 
+struct crypt_config | dmreq_start int 
+function req_of_dmreq void * | cc struct crypt_config * | dmreq struct dm_crypt_request *

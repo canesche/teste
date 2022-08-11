@@ -1,0 +1,4 @@
+struct xdr_buf | page_len int | tail struct TYPE_4__ * | head struct TYPE_3__ * 
+struct TYPE_4__ | iov_len int 
+struct TYPE_3__ | iov_len int 
+function total_buf_len int | buf struct xdr_buf *

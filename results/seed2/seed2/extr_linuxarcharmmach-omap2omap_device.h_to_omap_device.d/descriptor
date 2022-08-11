@@ -1,0 +1,4 @@
+struct TYPE_2__ | od struct omap_device * 
+struct platform_device | archdata struct TYPE_2__ 
+struct omap_device | dummy int 
+function to_omap_device struct omap_device * | pdev struct platform_device *

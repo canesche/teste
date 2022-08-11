@@ -1,0 +1,1 @@
+function filter_simple_text char * | to char * | text const char * | len int

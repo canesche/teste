@@ -1,0 +1,2 @@
+struct xfs_sb | sb_features_ro_compat int 
+function xfs_sb_has_ro_compat_feature int | sbp struct xfs_sb * | feature int

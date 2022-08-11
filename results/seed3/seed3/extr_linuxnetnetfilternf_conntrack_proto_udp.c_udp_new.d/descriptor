@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct nf_conn | dummy int 
+function udp_new int | ct struct nf_conn * | skb const struct sk_buff * | dataoff unsigned int

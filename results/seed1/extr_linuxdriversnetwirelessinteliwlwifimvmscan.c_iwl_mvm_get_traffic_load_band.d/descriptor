@@ -1,4 +1,0 @@
-struct TYPE_3__ | band_load int * 
-struct TYPE_4__ | result struct TYPE_3__ 
-struct iwl_mvm | tcm struct TYPE_4__ 
-function iwl_mvm_get_traffic_load_band enum iwl_mvm_traffic_load | mvm struct iwl_mvm * | band enum nl80211_band

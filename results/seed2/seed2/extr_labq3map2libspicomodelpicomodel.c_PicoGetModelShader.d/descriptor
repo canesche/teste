@@ -1,0 +1,2 @@
+struct TYPE_3__ | numShaders int | shader int ** 
+function PicoGetModelShader int * | model struct TYPE_3__ * | num int

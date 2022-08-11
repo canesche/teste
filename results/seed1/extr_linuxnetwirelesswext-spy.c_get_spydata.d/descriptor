@@ -1,4 +1,0 @@
-struct net_device | wireless_data struct TYPE_2__ * 
-struct iw_spy_data | dummy int 
-struct TYPE_2__ | spy_data struct iw_spy_data * 
-function get_spydata struct iw_spy_data * | dev struct net_device *

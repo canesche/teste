@@ -1,0 +1,4 @@
+struct TYPE_2__ | textures int 
+struct wined3d_gl_info | limits struct TYPE_2__ | supported long * 
+struct fragment_caps | TextureOpCaps int | MaxSimultaneousTextures int | MaxTextureBlendStages int | PrimitiveMiscCaps long | wined3d_caps long 
+function ffp_fragment_get_caps void | gl_info const struct wined3d_gl_info * | caps struct fragment_caps *

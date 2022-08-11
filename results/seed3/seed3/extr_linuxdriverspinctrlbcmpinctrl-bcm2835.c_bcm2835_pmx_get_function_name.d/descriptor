@@ -1,0 +1,2 @@
+struct pinctrl_dev | dummy int 
+function bcm2835_pmx_get_function_name const char * | pctldev struct pinctrl_dev * | selector unsigned int

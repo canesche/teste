@@ -1,0 +1,1 @@
+function get_scale_factors_from_adj void | adjustment int | tick_scale_x int * | s_scale_ns int * | s_adj_nsx int *

@@ -1,2 +1,0 @@
-struct irq_data | dummy int 
-function irq_can_move_pcntxt int | data struct irq_data *

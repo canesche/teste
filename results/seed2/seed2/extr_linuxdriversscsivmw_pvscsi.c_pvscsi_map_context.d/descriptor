@@ -1,0 +1,3 @@
+struct pvscsi_ctx | dummy int 
+struct pvscsi_adapter | cmd_map const struct pvscsi_ctx * 
+function pvscsi_map_context int | adapter const struct pvscsi_adapter * | ctx const struct pvscsi_ctx *

@@ -1,3 +1,0 @@
-struct drm_display_mode | clock int 
-struct drm_connector | dummy int 
-function imx6q_hdmi_mode_valid enum drm_mode_status | con struct drm_connector * | mode const struct drm_display_mode *

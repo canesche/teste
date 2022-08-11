@@ -1,0 +1,2 @@
+struct list_head | prev int | next int 
+function fixup void | s unsigned long | e unsigned long | d int | l struct list_head *

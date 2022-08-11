@@ -1,0 +1,2 @@
+struct iio_buffer | length unsigned int | watermark unsigned int 
+function iio_dma_buffer_set_length int | buffer struct iio_buffer * | length unsigned int

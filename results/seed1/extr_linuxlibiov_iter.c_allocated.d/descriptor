@@ -1,2 +1,0 @@
-struct pipe_buffer | ops int * 
-function allocated int | buf struct pipe_buffer *

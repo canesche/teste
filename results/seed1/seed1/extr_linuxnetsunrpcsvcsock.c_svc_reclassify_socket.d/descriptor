@@ -1,0 +1,2 @@
+struct socket | dummy int 
+function svc_reclassify_socket void | sock struct socket *

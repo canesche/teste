@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversinputmousesentelic.c_fsp_test_invert_cmd.d/extr_linuxdriversinputmousesentelic.c_fsp_test_invert_cmd_O0::fsp_test_invert_cmd(60)"
+  }
+]

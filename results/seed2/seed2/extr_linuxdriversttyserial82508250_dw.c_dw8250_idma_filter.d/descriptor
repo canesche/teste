@@ -1,0 +1,4 @@
+struct dma_chan | device struct TYPE_4__ * 
+struct TYPE_4__ | dev struct TYPE_3__ * 
+struct TYPE_3__ | parent void * 
+function dw8250_idma_filter int | chan struct dma_chan * | param void *

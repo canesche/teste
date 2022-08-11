@@ -1,0 +1,2 @@
+struct fb_bitfield | length int | offset unsigned int 
+function chan_to_field unsigned int | chan unsigned int | bf const struct fb_bitfield *

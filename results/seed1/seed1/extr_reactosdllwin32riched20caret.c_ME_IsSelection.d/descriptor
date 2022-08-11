@@ -1,0 +1,3 @@
+struct TYPE_5__ | pCursors struct TYPE_4__ * 
+struct TYPE_4__ | pRun long | nOffset long 
+function ME_IsSelection int | editor struct TYPE_5__ *

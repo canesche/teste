@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 8,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_reactosmodulesrostestswinetestsuser32msg.c_ignore_message.d/extr_reactosmodulesrostestswinetestsuser32msg.c_ignore_message_O0::ignore_message(68)"
+  }
+]

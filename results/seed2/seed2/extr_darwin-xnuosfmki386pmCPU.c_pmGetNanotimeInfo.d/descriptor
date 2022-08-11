@@ -1,0 +1,3 @@
+struct TYPE_4__ | generation long | shift int | scale int | ns_base int | tsc_base int 
+struct TYPE_5__ | generation long | shift int | scale int | ns_base int | tsc_base int 
+function pmGetNanotimeInfo void | rtc_nanotime struct TYPE_4__ *

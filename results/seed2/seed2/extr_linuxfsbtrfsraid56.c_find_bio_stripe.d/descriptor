@@ -1,0 +1,8 @@
+struct btrfs_raid_bio | stripe_len int | bbio struct TYPE_6__ * 
+struct btrfs_bio_stripe | physical int | dev struct TYPE_8__ * 
+struct TYPE_5__ | bi_sector int 
+struct bio | bi_disk long | bi_partno long | bi_iter struct TYPE_5__ 
+struct TYPE_8__ | bdev struct TYPE_7__ * 
+struct TYPE_7__ | bd_disk long | bd_partno long 
+struct TYPE_6__ | num_stripes int | stripes struct btrfs_bio_stripe * 
+function find_bio_stripe int | rbio struct btrfs_raid_bio * | bio struct bio *

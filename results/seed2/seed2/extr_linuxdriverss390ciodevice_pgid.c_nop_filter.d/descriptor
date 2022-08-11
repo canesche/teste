@@ -1,0 +1,5 @@
+struct TYPE_3__ | cstat long 
+struct TYPE_4__ | cmd struct TYPE_3__ 
+struct irb | scsw struct TYPE_4__ 
+struct ccw_device | dummy int 
+function nop_filter enum io_status | cdev struct ccw_device * | data void * | irb struct irb * | status enum io_status

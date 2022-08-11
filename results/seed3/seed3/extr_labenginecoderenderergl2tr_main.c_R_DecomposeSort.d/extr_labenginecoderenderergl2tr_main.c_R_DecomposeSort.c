@@ -1,0 +1,237 @@
+// ========================================================================= //
+
+// includes
+#include "stdio.h"
+#include "stdlib.h"
+#include "time.h"
+#include "string.h"
+#include "limits.h"
+#include "float.h"
+
+
+
+#define JOTAI_NUM_RANDS_ 25
+
+const unsigned rand_primes[JOTAI_NUM_RANDS_] = {179, 103, 479, 647, 229, 37, 271, 557, 263, 607, 18743, 50359, 21929, 48757, 98179, 12907, 52937, 64579, 49957, 52567, 507163, 149939, 412157, 680861, 757751};
+
+int next_i() {
+  int counter = 0;
+  return rand_primes[(++counter)%JOTAI_NUM_RANDS_];
+}
+
+float next_f() {
+  int counter = 0;
+  return rand_primes[(++counter)%JOTAI_NUM_RANDS_] / 757751.0F;
+} 
+
+
+// Usage menu
+void usage() {
+    printf("%s", "Usage:\n\
+    prog [ARGS]\n\
+\nARGS:\n\
+       0            int-bounds\n\
+       1            big-arr\n\
+       2            big-arr-10x\n\
+\n\
+");
+
+}
+
+
+// ------------------------------------------------------------------------- //
+
+#define NULL ((void*)0)
+typedef unsigned long size_t;  // Customize by platform.
+typedef long intptr_t; typedef unsigned long uintptr_t;
+typedef long scalar_t__;  // Either arithmetic or pointer type.
+/* By default, we understand bool (as a convenience). */
+typedef int bool;
+#define false 0
+#define true 1
+
+/* Forward declarations */
+typedef  struct TYPE_2__   TYPE_1__ ;
+
+/* Type definitions */
+typedef  int /*<<< orphan*/  shader_t ;
+struct TYPE_2__ {int /*<<< orphan*/ ** sortedShaders; } ;
+
+/* Variables and functions */
+ int MAX_SHADERS ; 
+ unsigned int QSORT_FOGNUM_SHIFT ; 
+ unsigned int QSORT_PSHADOW_SHIFT ; 
+ unsigned int QSORT_REFENTITYNUM_SHIFT ; 
+ unsigned int QSORT_SHADERNUM_SHIFT ; 
+ unsigned int REFENTITYNUM_MASK ; 
+ TYPE_1__ tr ; 
+
+void R_DecomposeSort( unsigned sort, int *entityNum, shader_t **shader, 
+					 int *fogNum, int *dlightMap, int *pshadowMap ) {
+	*fogNum = ( sort >> QSORT_FOGNUM_SHIFT ) & 31;
+	*shader = tr.sortedShaders[ ( sort >> QSORT_SHADERNUM_SHIFT ) & (MAX_SHADERS-1) ];
+	*entityNum = ( sort >> QSORT_REFENTITYNUM_SHIFT ) & REFENTITYNUM_MASK;
+	*pshadowMap = (sort >> QSORT_PSHADOW_SHIFT ) & 1;
+	*dlightMap = sort & 1;
+}
+
+
+// ------------------------------------------------------------------------- //
+
+int main(int argc, char *argv[]) {
+
+    if (argc != 2) {
+        usage();
+        return 1;
+    }
+
+    int opt = atoi(argv[1]);
+    switch(opt) {
+
+    // int-bounds
+    case 0:
+    {
+          unsigned int sort = 100;
+          int _len_entityNum0 = 1;
+          int * entityNum = (int *) malloc(_len_entityNum0*sizeof(int));
+          for(int _i0 = 0; _i0 < _len_entityNum0; _i0++) {
+            entityNum[_i0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_shader0 = 1;
+          int ** shader = (int **) malloc(_len_shader0*sizeof(int *));
+          for(int _i0 = 0; _i0 < _len_shader0; _i0++) {
+            int _len_shader1 = 1;
+            shader[_i0] = (int *) malloc(_len_shader1*sizeof(int));
+            for(int _i1 = 0; _i1 < _len_shader1; _i1++) {
+              shader[_i0][_i1] = ((-2 * (next_i()%2)) + 1) * next_i();
+            }
+          }
+          int _len_fogNum0 = 1;
+          int * fogNum = (int *) malloc(_len_fogNum0*sizeof(int));
+          for(int _i0 = 0; _i0 < _len_fogNum0; _i0++) {
+            fogNum[_i0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_dlightMap0 = 1;
+          int * dlightMap = (int *) malloc(_len_dlightMap0*sizeof(int));
+          for(int _i0 = 0; _i0 < _len_dlightMap0; _i0++) {
+            dlightMap[_i0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_pshadowMap0 = 1;
+          int * pshadowMap = (int *) malloc(_len_pshadowMap0*sizeof(int));
+          for(int _i0 = 0; _i0 < _len_pshadowMap0; _i0++) {
+            pshadowMap[_i0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          R_DecomposeSort(sort,entityNum,shader,fogNum,dlightMap,pshadowMap);
+          free(entityNum);
+          for(int i1 = 0; i1 < _len_shader0; i1++) {
+            int _len_shader1 = 1;
+              free(shader[i1]);
+          }
+          free(shader);
+          free(fogNum);
+          free(dlightMap);
+          free(pshadowMap);
+        
+        break;
+    }
+    // big-arr
+    case 1:
+    {
+          unsigned int sort = 255;
+          int _len_entityNum0 = 65025;
+          int * entityNum = (int *) malloc(_len_entityNum0*sizeof(int));
+          for(int _i0 = 0; _i0 < _len_entityNum0; _i0++) {
+            entityNum[_i0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_shader0 = 65025;
+          int ** shader = (int **) malloc(_len_shader0*sizeof(int *));
+          for(int _i0 = 0; _i0 < _len_shader0; _i0++) {
+            int _len_shader1 = 1;
+            shader[_i0] = (int *) malloc(_len_shader1*sizeof(int));
+            for(int _i1 = 0; _i1 < _len_shader1; _i1++) {
+              shader[_i0][_i1] = ((-2 * (next_i()%2)) + 1) * next_i();
+            }
+          }
+          int _len_fogNum0 = 65025;
+          int * fogNum = (int *) malloc(_len_fogNum0*sizeof(int));
+          for(int _i0 = 0; _i0 < _len_fogNum0; _i0++) {
+            fogNum[_i0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_dlightMap0 = 65025;
+          int * dlightMap = (int *) malloc(_len_dlightMap0*sizeof(int));
+          for(int _i0 = 0; _i0 < _len_dlightMap0; _i0++) {
+            dlightMap[_i0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_pshadowMap0 = 65025;
+          int * pshadowMap = (int *) malloc(_len_pshadowMap0*sizeof(int));
+          for(int _i0 = 0; _i0 < _len_pshadowMap0; _i0++) {
+            pshadowMap[_i0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          R_DecomposeSort(sort,entityNum,shader,fogNum,dlightMap,pshadowMap);
+          free(entityNum);
+          for(int i1 = 0; i1 < _len_shader0; i1++) {
+            int _len_shader1 = 1;
+              free(shader[i1]);
+          }
+          free(shader);
+          free(fogNum);
+          free(dlightMap);
+          free(pshadowMap);
+        
+        break;
+    }
+    // big-arr-10x
+    case 2:
+    {
+          unsigned int sort = 10;
+          int _len_entityNum0 = 100;
+          int * entityNum = (int *) malloc(_len_entityNum0*sizeof(int));
+          for(int _i0 = 0; _i0 < _len_entityNum0; _i0++) {
+            entityNum[_i0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_shader0 = 100;
+          int ** shader = (int **) malloc(_len_shader0*sizeof(int *));
+          for(int _i0 = 0; _i0 < _len_shader0; _i0++) {
+            int _len_shader1 = 1;
+            shader[_i0] = (int *) malloc(_len_shader1*sizeof(int));
+            for(int _i1 = 0; _i1 < _len_shader1; _i1++) {
+              shader[_i0][_i1] = ((-2 * (next_i()%2)) + 1) * next_i();
+            }
+          }
+          int _len_fogNum0 = 100;
+          int * fogNum = (int *) malloc(_len_fogNum0*sizeof(int));
+          for(int _i0 = 0; _i0 < _len_fogNum0; _i0++) {
+            fogNum[_i0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_dlightMap0 = 100;
+          int * dlightMap = (int *) malloc(_len_dlightMap0*sizeof(int));
+          for(int _i0 = 0; _i0 < _len_dlightMap0; _i0++) {
+            dlightMap[_i0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_pshadowMap0 = 100;
+          int * pshadowMap = (int *) malloc(_len_pshadowMap0*sizeof(int));
+          for(int _i0 = 0; _i0 < _len_pshadowMap0; _i0++) {
+            pshadowMap[_i0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          R_DecomposeSort(sort,entityNum,shader,fogNum,dlightMap,pshadowMap);
+          free(entityNum);
+          for(int i1 = 0; i1 < _len_shader0; i1++) {
+            int _len_shader1 = 1;
+              free(shader[i1]);
+          }
+          free(shader);
+          free(fogNum);
+          free(dlightMap);
+          free(pshadowMap);
+        
+        break;
+    }
+
+    default:
+        usage();
+        break;
+
+    }
+
+    return 0;
+}

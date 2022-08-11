@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function max3191x_set_multiple void | gpio struct gpio_chip * | mask unsigned long * | bits unsigned long *

@@ -1,0 +1,2 @@
+struct rproc | dummy int 
+function rproc_get_by_phandle struct rproc * | phandle int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversvideohdmi.c_hdmi_ycc_quantization_range_get_name.d/extr_linuxdriversvideohdmi.c_hdmi_ycc_quantization_range_get_name_O0::hdmi_ycc_quantization_range_get_name(62)"
+  }
+]

@@ -1,0 +1,4 @@
+struct device_queue_manager | dev struct TYPE_4__ * 
+struct TYPE_4__ | device_info struct TYPE_3__ * 
+struct TYPE_3__ | num_sdma_engines unsigned int 
+function get_num_sdma_queues unsigned int | dqm struct device_queue_manager *

@@ -1,2 +1,0 @@
-struct atkbd | emul int | translated long 
-function atkbd_oqo_01plus_scancode_fixup unsigned int | atkbd struct atkbd * | code unsigned int

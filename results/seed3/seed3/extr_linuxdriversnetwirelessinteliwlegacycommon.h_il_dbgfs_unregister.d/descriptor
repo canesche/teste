@@ -1,0 +1,2 @@
+struct il_priv | dummy int 
+function il_dbgfs_unregister void | il struct il_priv *

@@ -1,4 +1,0 @@
-struct vring_used | vu_idx unsigned long | vu_ring struct virtio_used * 
-struct vqueue_info | vq_qsize unsigned long | vq_used struct vring_used * 
-struct virtio_used | vu_idx unsigned long | vu_tlen int 
-function vq_relchain void | vq struct vqueue_info * | idx unsigned long | iolen int

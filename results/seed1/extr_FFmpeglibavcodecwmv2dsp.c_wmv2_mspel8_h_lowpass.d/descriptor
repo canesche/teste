@@ -1,1 +1,0 @@
-function wmv2_mspel8_h_lowpass void | dst int * | src const int * | dstStride int | srcStride int | h int

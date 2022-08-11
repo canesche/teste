@@ -1,3 +1,0 @@
-struct ssusb_mtk | dummy int 
-struct device_node | dummy int 
-function ssusb_wakeup_of_property_parse int | ssusb struct ssusb_mtk * | dn struct device_node *

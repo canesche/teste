@@ -1,2 +1,0 @@
-struct func_info | insn_buf unsigned int * | insn_index int 
-function __do_emit_one void | fp struct func_info *const | insn unsigned int

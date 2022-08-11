@@ -1,2 +1,0 @@
-struct TYPE_2__ | priority long | is_alternate long 
-function backend_sort_cmp int | a const void * | b const void *

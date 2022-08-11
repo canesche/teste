@@ -1,0 +1,2 @@
+struct fib6_info | fib6_flags int 
+function mlxsw_sp_fib6_rt_can_mp int | rt const struct fib6_info *

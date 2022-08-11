@@ -1,0 +1,2 @@
+struct nvif_notify | dummy int 
+function nv50_wndw_notify int | notify struct nvif_notify *

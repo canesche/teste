@@ -1,0 +1,1 @@
+function ngx_shmtx_force_unlock int | mtx int * | pid int

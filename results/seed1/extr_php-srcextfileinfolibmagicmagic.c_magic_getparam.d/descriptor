@@ -1,2 +1,0 @@
-struct magic_set | indir_max unsigned long | name_max unsigned long | elf_phnum_max unsigned long | elf_shnum_max unsigned long | elf_notes_max unsigned long | regex_max unsigned long | bytes_max unsigned long 
-function magic_getparam int | ms struct magic_set * | param int | val void *

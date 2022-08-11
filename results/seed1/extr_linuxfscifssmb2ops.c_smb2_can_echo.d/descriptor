@@ -1,2 +1,0 @@
-struct TCP_Server_Info | echoes int 
-function smb2_can_echo int | server struct TCP_Server_Info *

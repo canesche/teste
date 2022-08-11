@@ -1,0 +1,2 @@
+struct utf8_table | lmask unsigned long | shift int | cval unsigned long | cmask long 
+function utf32_to_utf8 int | u unsigned long | s long * | maxout int

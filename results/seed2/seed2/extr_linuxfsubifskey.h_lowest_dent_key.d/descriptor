@@ -1,0 +1,3 @@
+struct ubifs_key | u32 int * 
+struct ubifs_info | dummy int 
+function lowest_dent_key void | c const struct ubifs_info * | key union ubifs_key * | inum int

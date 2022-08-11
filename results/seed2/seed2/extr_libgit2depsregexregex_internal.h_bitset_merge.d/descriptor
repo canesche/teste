@@ -1,0 +1,1 @@
+function bitset_merge void | dest int * | src int *const

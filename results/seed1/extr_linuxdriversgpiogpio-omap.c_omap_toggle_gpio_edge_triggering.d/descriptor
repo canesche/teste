@@ -1,2 +1,0 @@
-struct gpio_bank | dummy int 
-function omap_toggle_gpio_edge_triggering void | bank struct gpio_bank * | gpio int

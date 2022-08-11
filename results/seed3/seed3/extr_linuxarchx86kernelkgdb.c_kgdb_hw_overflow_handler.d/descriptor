@@ -1,0 +1,7 @@
+struct TYPE_3__ | debugreg6 int 
+struct task_struct | thread struct TYPE_3__ 
+struct pt_regs | dummy int 
+struct perf_sample_data | dummy int 
+struct perf_event | dummy int 
+struct TYPE_4__ | enabled long 
+function kgdb_hw_overflow_handler void | event struct perf_event * | data struct perf_sample_data * | regs struct pt_regs *

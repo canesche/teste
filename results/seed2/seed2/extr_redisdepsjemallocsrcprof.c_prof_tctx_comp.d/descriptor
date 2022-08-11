@@ -1,0 +1,2 @@
+struct TYPE_4__ | thr_uid long | thr_discrim long | tctx_uid long 
+function prof_tctx_comp int | a const struct TYPE_4__ * | b const struct TYPE_4__ *

@@ -1,1 +1,0 @@
-function wilc_wlan_cfg_set_word int | frame int * | offset int | id int | val32 int

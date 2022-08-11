@@ -1,0 +1,4 @@
+struct guid_index | data_offset int 
+struct comclassredirect_data | dummy int 
+struct TYPE_3__ | comserver_section long 
+function get_comclass_data struct comclassredirect_data * | actctx struct TYPE_3__ * | index struct guid_index *

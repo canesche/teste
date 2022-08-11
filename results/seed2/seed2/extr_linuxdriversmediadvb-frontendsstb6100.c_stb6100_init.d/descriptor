@@ -1,0 +1,3 @@
+struct stb6100_state | bandwidth int | reference int 
+struct dvb_frontend | tuner_priv struct stb6100_state * 
+function stb6100_init int | fe struct dvb_frontend *

@@ -1,1 +1,0 @@
-value(request_mask) == 255, value(query_flags) == 255, length(path) == 65025, length(stat) == 65025

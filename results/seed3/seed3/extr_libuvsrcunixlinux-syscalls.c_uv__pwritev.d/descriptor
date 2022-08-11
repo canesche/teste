@@ -1,0 +1,2 @@
+struct iovec | dummy int 
+function uv__pwritev int | fd int | iov const struct iovec * | iovcnt int | offset int

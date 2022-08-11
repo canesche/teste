@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmnouveaunvkmsubdevpciagp.h_nvkm_agp_dtor.d/extr_linuxdriversgpudrmnouveaunvkmsubdevpciagp.h_nvkm_agp_dtor_O0::nvkm_agp_dtor(60)"
+  }
+]

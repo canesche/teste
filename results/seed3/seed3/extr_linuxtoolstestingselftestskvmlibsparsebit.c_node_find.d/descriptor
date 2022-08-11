@@ -1,0 +1,3 @@
+struct sparsebit | root struct node * 
+struct node | idx int | num_after int | right struct node * | left struct node * 
+function node_find struct node * | s struct sparsebit * | idx int

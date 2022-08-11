@@ -1,0 +1,2 @@
+struct mesh_state | dummy int 
+function dumpslog void | ms struct mesh_state *

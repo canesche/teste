@@ -1,3 +1,0 @@
-struct TYPE_2__ | qhead int 
-struct ks_wlan_private | tx_dev struct TYPE_2__ 
-function inc_txqhead void | priv struct ks_wlan_private *

@@ -1,0 +1,5 @@
+struct TYPE_2__ | kaddr long 
+struct smu8_smumgr | toc_buffer struct TYPE_2__ 
+struct pp_hwmgr | smu_backend struct smu8_smumgr * 
+struct TOC | JobList long * 
+function smu8_smu_initialize_toc_empty_job_list int | hwmgr struct pp_hwmgr *

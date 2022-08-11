@@ -1,0 +1,2 @@
+struct inode | i_blocks int | i_bytes int 
+function inode_set_bytes void | inode struct inode * | bytes int

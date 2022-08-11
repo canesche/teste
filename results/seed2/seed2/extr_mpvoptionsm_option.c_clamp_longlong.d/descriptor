@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int | max long long | min long long 
+function clamp_longlong int | opt const struct TYPE_3__ * | val void *

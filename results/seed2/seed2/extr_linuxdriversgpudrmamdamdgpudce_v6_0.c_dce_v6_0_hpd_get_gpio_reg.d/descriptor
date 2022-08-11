@@ -1,0 +1,2 @@
+struct amdgpu_device | dummy int 
+function dce_v6_0_hpd_get_gpio_reg int | adev struct amdgpu_device *

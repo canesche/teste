@@ -1,0 +1,2 @@
+struct page | dummy int 
+function test_and_clear_pmem_poison int | page struct page *

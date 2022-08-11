@@ -1,2 +1,0 @@
-struct device | dummy int 
-function s2mpu02_volatile int | dev struct device * | reg unsigned int

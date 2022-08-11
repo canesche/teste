@@ -1,0 +1,2 @@
+struct usb_ep | claimed int | driver_data int * 
+function usb_ep_autoconfig_release void | ep struct usb_ep *

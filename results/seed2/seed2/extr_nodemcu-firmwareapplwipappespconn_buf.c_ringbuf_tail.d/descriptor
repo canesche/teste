@@ -1,0 +1,2 @@
+struct ringbuf_t | tail const void * 
+function ringbuf_tail const void * | rb const struct ringbuf_t *

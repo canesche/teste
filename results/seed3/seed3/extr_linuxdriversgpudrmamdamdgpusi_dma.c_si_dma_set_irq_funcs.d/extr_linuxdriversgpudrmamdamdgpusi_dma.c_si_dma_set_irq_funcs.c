@@ -1,0 +1,185 @@
+// ========================================================================= //
+
+// includes
+#include "stdio.h"
+#include "stdlib.h"
+#include "time.h"
+#include "string.h"
+#include "limits.h"
+#include "float.h"
+
+
+
+#define JOTAI_NUM_RANDS_ 25
+
+const unsigned rand_primes[JOTAI_NUM_RANDS_] = {179, 103, 479, 647, 229, 37, 271, 557, 263, 607, 18743, 50359, 21929, 48757, 98179, 12907, 52937, 64579, 49957, 52567, 507163, 149939, 412157, 680861, 757751};
+
+int next_i() {
+  int counter = 0;
+  return rand_primes[(++counter)%JOTAI_NUM_RANDS_];
+}
+
+float next_f() {
+  int counter = 0;
+  return rand_primes[(++counter)%JOTAI_NUM_RANDS_] / 757751.0F;
+} 
+
+
+// Usage menu
+void usage() {
+    printf("%s", "Usage:\n\
+    prog [ARGS]\n\
+\nARGS:\n\
+       0            int-bounds\n\
+       1            big-arr\n\
+       2            big-arr-10x\n\
+\n\
+");
+
+}
+
+
+// ------------------------------------------------------------------------- //
+
+#define NULL ((void*)0)
+typedef unsigned long size_t;  // Customize by platform.
+typedef long intptr_t; typedef unsigned long uintptr_t;
+typedef long scalar_t__;  // Either arithmetic or pointer type.
+/* By default, we understand bool (as a convenience). */
+typedef int bool;
+#define false 0
+#define true 1
+
+/* Forward declarations */
+typedef  struct TYPE_8__   TYPE_4__ ;
+typedef  struct TYPE_7__   TYPE_3__ ;
+typedef  struct TYPE_6__   TYPE_2__ ;
+typedef  struct TYPE_5__   TYPE_1__ ;
+
+/* Type definitions */
+struct TYPE_7__ {int /*<<< orphan*/ * funcs; } ;
+struct TYPE_6__ {int /*<<< orphan*/ * funcs; } ;
+struct TYPE_5__ {int /*<<< orphan*/ * funcs; int /*<<< orphan*/  num_types; } ;
+struct TYPE_8__ {TYPE_3__ illegal_inst_irq; TYPE_2__ trap_irq_1; TYPE_1__ trap_irq; } ;
+struct amdgpu_device {TYPE_4__ sdma; } ;
+
+/* Variables and functions */
+ int /*<<< orphan*/  AMDGPU_SDMA_IRQ_LAST ; 
+ int /*<<< orphan*/  si_dma_illegal_inst_irq_funcs ; 
+ int /*<<< orphan*/  si_dma_trap_irq_funcs ; 
+ int /*<<< orphan*/  si_dma_trap_irq_funcs_1 ; 
+
+__attribute__((used)) static void si_dma_set_irq_funcs(struct amdgpu_device *adev)
+{
+	adev->sdma.trap_irq.num_types = AMDGPU_SDMA_IRQ_LAST;
+	adev->sdma.trap_irq.funcs = &si_dma_trap_irq_funcs;
+	adev->sdma.trap_irq_1.funcs = &si_dma_trap_irq_funcs_1;
+	adev->sdma.illegal_inst_irq.funcs = &si_dma_illegal_inst_irq_funcs;
+}
+
+
+// ------------------------------------------------------------------------- //
+
+int main(int argc, char *argv[]) {
+
+    if (argc != 2) {
+        usage();
+        return 1;
+    }
+
+    int opt = atoi(argv[1]);
+    switch(opt) {
+
+    // int-bounds
+    case 0:
+    {
+          int _len_adev0 = 1;
+          struct amdgpu_device * adev = (struct amdgpu_device *) malloc(_len_adev0*sizeof(struct amdgpu_device));
+          for(int _i0 = 0; _i0 < _len_adev0; _i0++) {
+              int _len_adev__i0__sdma_illegal_inst_irq_funcs0 = 1;
+          adev[_i0].sdma.illegal_inst_irq.funcs = (int *) malloc(_len_adev__i0__sdma_illegal_inst_irq_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__sdma_illegal_inst_irq_funcs0; _j0++) {
+            adev[_i0].sdma.illegal_inst_irq.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_adev__i0__sdma_trap_irq_1_funcs0 = 1;
+          adev[_i0].sdma.trap_irq_1.funcs = (int *) malloc(_len_adev__i0__sdma_trap_irq_1_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__sdma_trap_irq_1_funcs0; _j0++) {
+            adev[_i0].sdma.trap_irq_1.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_adev__i0__sdma_trap_irq_funcs0 = 1;
+          adev[_i0].sdma.trap_irq.funcs = (int *) malloc(_len_adev__i0__sdma_trap_irq_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__sdma_trap_irq_funcs0; _j0++) {
+            adev[_i0].sdma.trap_irq.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+        adev[_i0].sdma.trap_irq.num_types = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          si_dma_set_irq_funcs(adev);
+          free(adev);
+        
+        break;
+    }
+    // big-arr
+    case 1:
+    {
+          int _len_adev0 = 65025;
+          struct amdgpu_device * adev = (struct amdgpu_device *) malloc(_len_adev0*sizeof(struct amdgpu_device));
+          for(int _i0 = 0; _i0 < _len_adev0; _i0++) {
+              int _len_adev__i0__sdma_illegal_inst_irq_funcs0 = 1;
+          adev[_i0].sdma.illegal_inst_irq.funcs = (int *) malloc(_len_adev__i0__sdma_illegal_inst_irq_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__sdma_illegal_inst_irq_funcs0; _j0++) {
+            adev[_i0].sdma.illegal_inst_irq.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_adev__i0__sdma_trap_irq_1_funcs0 = 1;
+          adev[_i0].sdma.trap_irq_1.funcs = (int *) malloc(_len_adev__i0__sdma_trap_irq_1_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__sdma_trap_irq_1_funcs0; _j0++) {
+            adev[_i0].sdma.trap_irq_1.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_adev__i0__sdma_trap_irq_funcs0 = 1;
+          adev[_i0].sdma.trap_irq.funcs = (int *) malloc(_len_adev__i0__sdma_trap_irq_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__sdma_trap_irq_funcs0; _j0++) {
+            adev[_i0].sdma.trap_irq.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+        adev[_i0].sdma.trap_irq.num_types = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          si_dma_set_irq_funcs(adev);
+          free(adev);
+        
+        break;
+    }
+    // big-arr-10x
+    case 2:
+    {
+          int _len_adev0 = 100;
+          struct amdgpu_device * adev = (struct amdgpu_device *) malloc(_len_adev0*sizeof(struct amdgpu_device));
+          for(int _i0 = 0; _i0 < _len_adev0; _i0++) {
+              int _len_adev__i0__sdma_illegal_inst_irq_funcs0 = 1;
+          adev[_i0].sdma.illegal_inst_irq.funcs = (int *) malloc(_len_adev__i0__sdma_illegal_inst_irq_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__sdma_illegal_inst_irq_funcs0; _j0++) {
+            adev[_i0].sdma.illegal_inst_irq.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_adev__i0__sdma_trap_irq_1_funcs0 = 1;
+          adev[_i0].sdma.trap_irq_1.funcs = (int *) malloc(_len_adev__i0__sdma_trap_irq_1_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__sdma_trap_irq_1_funcs0; _j0++) {
+            adev[_i0].sdma.trap_irq_1.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_adev__i0__sdma_trap_irq_funcs0 = 1;
+          adev[_i0].sdma.trap_irq.funcs = (int *) malloc(_len_adev__i0__sdma_trap_irq_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__sdma_trap_irq_funcs0; _j0++) {
+            adev[_i0].sdma.trap_irq.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+        adev[_i0].sdma.trap_irq.num_types = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          si_dma_set_irq_funcs(adev);
+          free(adev);
+        
+        break;
+    }
+
+    default:
+        usage();
+        break;
+
+    }
+
+    return 0;
+}

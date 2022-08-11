@@ -1,2 +1,0 @@
-struct perf_counts_values | run double | ena double | val long 
-function perf_counts_values__scale void | count struct perf_counts_values * | scale int | pscaled int *

@@ -1,0 +1,2 @@
+struct b43_bbatt | att long 
+function b43_compare_bbatt int | a const struct b43_bbatt * | b const struct b43_bbatt *

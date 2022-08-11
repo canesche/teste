@@ -1,0 +1,3 @@
+struct nsim_ipsec | count long | sa struct TYPE_2__ * 
+struct TYPE_2__ | used int 
+function nsim_ipsec_find_empty_idx int | ipsec struct nsim_ipsec *

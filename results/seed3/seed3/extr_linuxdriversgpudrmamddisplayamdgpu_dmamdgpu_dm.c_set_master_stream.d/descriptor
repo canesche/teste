@@ -1,0 +1,4 @@
+struct TYPE_4__ | event_source struct dc_stream_state * | enabled long 
+struct TYPE_3__ | pix_clk_khz int | h_total int | v_total int 
+struct dc_stream_state | triggered_crtc_reset struct TYPE_4__ | timing struct TYPE_3__ 
+function set_master_stream void | stream_set struct dc_stream_state *[] | stream_count int

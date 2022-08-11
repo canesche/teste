@@ -1,3 +1,0 @@
-struct TYPE_2__ | phase long | build long 
-struct bfi_ioc_image_hdr | fwver struct TYPE_2__ 
-function fwhdr_is_ga int | fwhdr struct bfi_ioc_image_hdr *

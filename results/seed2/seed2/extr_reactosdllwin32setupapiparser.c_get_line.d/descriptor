@@ -1,0 +1,4 @@
+struct section | nb_lines unsigned int | lines struct line * 
+struct line | dummy int 
+struct inf_file | nb_sections unsigned int | sections struct section ** 
+function get_line struct line * | file struct inf_file * | section_index unsigned int | line_index unsigned int

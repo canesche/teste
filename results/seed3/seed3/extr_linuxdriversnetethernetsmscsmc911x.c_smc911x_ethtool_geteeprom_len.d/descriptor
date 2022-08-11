@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function smc911x_ethtool_geteeprom_len int | dev struct net_device *

@@ -1,0 +1,4 @@
+struct TYPE_4__ | s const char * | len int 
+struct TYPE_3__ | s_name struct TYPE_4__ 
+struct demangle_component | u struct TYPE_3__ | type int | d_printing long 
+function cplus_demangle_fill_name int | p struct demangle_component * | s const char * | len int

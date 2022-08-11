@@ -1,0 +1,10 @@
+struct TYPE_8__ | HDMI_6GB_EN int 
+struct TYPE_9__ | bits struct TYPE_8__ 
+struct TYPE_10__ | max_hdmi_deep_color int | max_hdmi_pixel_clock int | flags struct TYPE_9__ | ycbcr420_supported int 
+struct TYPE_14__ | ctx struct TYPE_13__ * | features struct TYPE_10__ 
+struct dce110_link_encoder | base struct TYPE_14__ 
+struct dc_crtc_timing | display_color_depth int | pixel_encoding long 
+struct TYPE_13__ | dc struct TYPE_12__ * 
+struct TYPE_11__ | hdmi20_disable long 
+struct TYPE_12__ | debug struct TYPE_11__ 
+function dce110_link_encoder_validate_hdmi_output int | enc110 const struct dce110_link_encoder * | crtc_timing const struct dc_crtc_timing * | adjusted_pix_clk_khz int

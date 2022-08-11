@@ -1,2 +1,0 @@
-struct video_device | ioctl_ops int * 
-function ivtv_set_funcs void | vdev struct video_device *

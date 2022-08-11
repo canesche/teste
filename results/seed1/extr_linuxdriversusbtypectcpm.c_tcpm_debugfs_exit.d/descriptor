@@ -1,2 +1,0 @@
-struct tcpm_port | dummy int 
-function tcpm_debugfs_exit void | port const struct tcpm_port *

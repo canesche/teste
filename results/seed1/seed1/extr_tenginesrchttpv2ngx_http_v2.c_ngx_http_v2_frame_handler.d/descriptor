@@ -1,0 +1,5 @@
+struct TYPE_8__ | next struct TYPE_8__ * | first struct TYPE_7__ * 
+struct TYPE_9__ | free_frames struct TYPE_8__ * 
+struct TYPE_10__ | pos long | last long 
+struct TYPE_7__ | buf struct TYPE_10__ * 
+function ngx_http_v2_frame_handler int | h2c struct TYPE_9__ * | frame struct TYPE_8__ *

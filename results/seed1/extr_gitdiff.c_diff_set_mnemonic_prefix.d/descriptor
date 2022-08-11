@@ -1,2 +1,0 @@
-struct diff_options | a_prefix const char * | b_prefix const char * 
-function diff_set_mnemonic_prefix void | options struct diff_options * | a const char * | b const char *

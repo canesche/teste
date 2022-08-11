@@ -1,0 +1,1 @@
+function scrub_stripe_index_and_offset void | logical int | map_type int | raid_map int * | mapped_length int | nstripes int | mirror int | stripe_index int * | stripe_offset int *

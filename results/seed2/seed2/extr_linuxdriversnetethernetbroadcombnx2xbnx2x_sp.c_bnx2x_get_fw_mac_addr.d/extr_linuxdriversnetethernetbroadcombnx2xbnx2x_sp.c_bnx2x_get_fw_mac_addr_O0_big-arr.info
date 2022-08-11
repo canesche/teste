@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetbroadcombnx2xbnx2x_sp.c_bnx2x_get_fw_mac_addr.d/extr_linuxdriversnetethernetbroadcombnx2xbnx2x_sp.c_bnx2x_get_fw_mac_addr_O0::bnx2x_get_fw_mac_addr(63)"
+  }
+]

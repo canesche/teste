@@ -1,0 +1,2 @@
+struct TYPE_3__ | ChannelNum const int 
+function rtw_ch_set_search_ch int | ch_set struct TYPE_3__ * | ch const int

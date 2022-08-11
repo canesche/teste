@@ -1,2 +1,0 @@
-struct ata_device | dummy int 
-function zpodd_disable_run_wake void | dev struct ata_device *

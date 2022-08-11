@@ -1,1 +1,0 @@
-function vnt_get_frame_time unsigned int | preamble_type int | pkt_type int | frame_length unsigned int | tx_rate unsigned long

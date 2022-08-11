@@ -1,0 +1,2 @@
+struct vector | count int 
+function dal_vector_get_count int | vector const struct vector *

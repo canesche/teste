@@ -1,0 +1,2 @@
+struct TYPE_3__ | x int | y int 
+function is_near_h int | n const struct TYPE_3__ * | x int | y int | is_next int

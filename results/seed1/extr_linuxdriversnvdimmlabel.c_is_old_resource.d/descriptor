@@ -1,2 +1,0 @@
-struct resource | flags int 
-function is_old_resource int | res struct resource * | list struct resource ** | n int

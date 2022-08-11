@@ -1,0 +1,3 @@
+struct task_struct | prio int 
+struct intel_breadcrumbs | signaler struct task_struct * 
+function wakeup_priority int | b struct intel_breadcrumbs * | tsk struct task_struct *

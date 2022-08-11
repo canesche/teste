@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct net_bridge_port | dummy int 
+function nbp_switchdev_frame_mark void | p const struct net_bridge_port * | skb struct sk_buff *

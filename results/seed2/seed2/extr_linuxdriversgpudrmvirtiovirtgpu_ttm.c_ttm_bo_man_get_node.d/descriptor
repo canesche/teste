@@ -1,0 +1,5 @@
+struct ttm_place | dummy int 
+struct ttm_mem_type_manager | dummy int 
+struct ttm_mem_reg | mm_node void * 
+struct ttm_buffer_object | dummy int 
+function ttm_bo_man_get_node int | man struct ttm_mem_type_manager * | bo struct ttm_buffer_object * | place const struct ttm_place * | mem struct ttm_mem_reg *

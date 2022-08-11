@@ -1,0 +1,2 @@
+struct TYPE_3__ | m_fDuration double 
+function RTMP_GetDuration double | r struct TYPE_3__ *

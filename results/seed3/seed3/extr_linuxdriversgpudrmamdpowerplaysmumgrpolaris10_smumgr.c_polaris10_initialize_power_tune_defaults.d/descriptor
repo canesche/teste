@@ -1,0 +1,5 @@
+struct pp_hwmgr | pptable long | smu_backend long 
+struct polaris10_smumgr | power_tune_defaults int * 
+struct phm_ppt_v1_information | cac_dtp_table struct TYPE_2__ * 
+struct TYPE_2__ | usPowerTuneDataSetID int 
+function polaris10_initialize_power_tune_defaults void | hwmgr struct pp_hwmgr *

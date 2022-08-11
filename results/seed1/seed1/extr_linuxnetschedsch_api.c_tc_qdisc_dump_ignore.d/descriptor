@@ -1,0 +1,2 @@
+struct Qdisc | flags int 
+function tc_qdisc_dump_ignore int | q struct Qdisc * | dump_invisible int

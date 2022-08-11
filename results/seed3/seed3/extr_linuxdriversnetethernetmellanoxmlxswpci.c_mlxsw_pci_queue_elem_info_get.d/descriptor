@@ -1,0 +1,3 @@
+struct mlxsw_pci_queue_elem_info | dummy int 
+struct mlxsw_pci_queue | elem_info struct mlxsw_pci_queue_elem_info * 
+function mlxsw_pci_queue_elem_info_get struct mlxsw_pci_queue_elem_info * | q struct mlxsw_pci_queue * | elem_index int

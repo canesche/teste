@@ -1,0 +1,2 @@
+struct snd_midi_channel_set | dummy int 
+function snd_opl3_sysex void | p void * | buf unsigned char * | len int | parsed int | chset struct snd_midi_channel_set *

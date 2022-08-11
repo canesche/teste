@@ -1,0 +1,4 @@
+struct btf_verifier_env | top_stack unsigned long | visit_states int * | btf struct btf * | stack struct TYPE_2__ * 
+struct btf | resolved_sizes unsigned long * | resolved_ids unsigned long * 
+struct TYPE_2__ | type_id unsigned long 
+function env_stack_pop_resolved void | env struct btf_verifier_env * | resolved_type_id unsigned long | resolved_size unsigned long

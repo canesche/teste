@@ -1,3 +1,0 @@
-struct vsock_sock | trans struct hvsock * 
-struct hvsock | chan int * 
-function hvs_stream_is_active int | vsk struct vsock_sock *

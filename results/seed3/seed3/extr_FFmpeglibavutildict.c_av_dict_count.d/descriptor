@@ -1,0 +1,2 @@
+struct TYPE_3__ | count int 
+function av_dict_count int | m const struct TYPE_3__ *

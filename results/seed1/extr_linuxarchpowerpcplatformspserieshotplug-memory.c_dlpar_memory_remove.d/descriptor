@@ -1,2 +1,0 @@
-struct pseries_hp_errorlog | dummy int 
-function dlpar_memory_remove int | hp_elog struct pseries_hp_errorlog *

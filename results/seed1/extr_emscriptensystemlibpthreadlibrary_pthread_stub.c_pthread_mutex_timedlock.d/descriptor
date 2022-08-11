@@ -1,2 +1,0 @@
-struct timespec | dummy int 
-function pthread_mutex_timedlock int | mutex int *__restrict | t const struct timespec *__restrict

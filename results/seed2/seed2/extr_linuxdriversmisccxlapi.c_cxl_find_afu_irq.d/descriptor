@@ -1,0 +1,3 @@
+struct TYPE_2__ | range int * | offset long * 
+struct cxl_context | irqs struct TYPE_2__ 
+function cxl_find_afu_irq long | ctx struct cxl_context * | num int

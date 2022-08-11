@@ -1,0 +1,2 @@
+struct TYPE_3__ | abbrev_dayofweek long 
+function _Locale_abbrev_dayofweek const char * | ltime struct TYPE_3__ * | day int

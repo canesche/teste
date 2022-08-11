@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct file | dummy int 
+function efi_test_open int | inode struct inode * | file struct file *

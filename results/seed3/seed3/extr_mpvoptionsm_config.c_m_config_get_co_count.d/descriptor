@@ -1,0 +1,2 @@
+struct m_config | num_opts int 
+function m_config_get_co_count int | config struct m_config *

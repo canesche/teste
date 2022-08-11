@@ -1,0 +1,3 @@
+struct netdev_bpf | command long 
+struct net_device | dummy int 
+function nsim_bpf int | dev struct net_device * | bpf struct netdev_bpf *

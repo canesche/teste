@@ -1,1 +1,0 @@
-function SHAEncode64 void | output unsigned char * | input int * | len unsigned int

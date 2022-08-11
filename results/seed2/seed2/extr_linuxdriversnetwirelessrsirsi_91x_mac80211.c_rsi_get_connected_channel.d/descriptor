@@ -1,0 +1,5 @@
+struct TYPE_2__ | chan struct ieee80211_channel * 
+struct ieee80211_bss_conf | chandef struct TYPE_2__ 
+struct ieee80211_vif | bss_conf struct ieee80211_bss_conf 
+struct ieee80211_channel | hw_value int 
+function rsi_get_connected_channel int | vif struct ieee80211_vif *

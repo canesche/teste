@@ -1,5 +1,0 @@
-struct vec3 | z int | y int | x int 
-struct TYPE_3__ | z int | y int | x int 
-struct TYPE_4__ | z int | y int | x int 
-struct bounds | min struct TYPE_3__ | max struct TYPE_4__ 
-function bounds_get_point void | dst struct vec3 * | b const struct bounds * | i unsigned int

@@ -1,0 +1,2 @@
+struct fpm_worker_pool_s | dummy int 
+function fpm_unix_free_socket_premissions int | wp struct fpm_worker_pool_s *

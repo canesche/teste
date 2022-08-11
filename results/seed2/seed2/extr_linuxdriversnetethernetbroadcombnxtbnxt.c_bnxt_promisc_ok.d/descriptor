@@ -1,0 +1,2 @@
+struct bnxt | dummy int 
+function bnxt_promisc_ok int | bp struct bnxt *

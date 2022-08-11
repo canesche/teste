@@ -1,0 +1,1 @@
+function ath10k_mac_get_dfs_region enum wmi_dfs_region | dfs_region enum nl80211_dfs_regions

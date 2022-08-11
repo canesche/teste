@@ -1,0 +1,2 @@
+struct nullb_cmd | dummy int 
+function null_zone_write void | cmd struct nullb_cmd * | sector int | nr_sectors unsigned int

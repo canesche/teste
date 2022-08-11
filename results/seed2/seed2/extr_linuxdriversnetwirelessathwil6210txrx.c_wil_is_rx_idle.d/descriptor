@@ -1,0 +1,7 @@
+struct wil_ring | swhead unsigned long | va struct TYPE_5__ * 
+struct wil6210_priv | ring_rx struct wil_ring 
+struct TYPE_6__ | status int 
+struct vring_rx_desc | dma struct TYPE_6__ 
+struct TYPE_4__ | legacy int 
+struct TYPE_5__ | rx struct TYPE_4__ 
+function wil_is_rx_idle int | wil struct wil6210_priv *

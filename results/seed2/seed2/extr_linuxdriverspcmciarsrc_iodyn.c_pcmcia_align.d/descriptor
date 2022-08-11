@@ -1,0 +1,3 @@
+struct resource | start int 
+struct pcmcia_align_data | mask int | offset int 
+function pcmcia_align int | align_data void * | res const struct resource * | size int | align int

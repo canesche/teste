@@ -1,3 +1,0 @@
-struct perf_output_handle | rb struct TYPE_2__ * | event int 
-struct TYPE_2__ | aux_priv void * 
-function perf_get_aux void * | handle struct perf_output_handle *

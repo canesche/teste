@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_obs-studiodepsw32-pthreadspthread_rwlockattr_setpshared.c_pthread_rwlockattr_setpshared.d/extr_obs-studiodepsw32-pthreadspthread_rwlockattr_setpshared.c_pthread_rwlockattr_setpshared_O0::pthread_rwlockattr_setpshared(108)"
+  }
+]

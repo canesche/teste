@@ -1,0 +1,2 @@
+struct gfs2_inode | i_diskflags int 
+function gfs2_is_jdata int | ip const struct gfs2_inode *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetqlogicqedqed_hw.c_qed_ptt_get_bar_addr.d/extr_linuxdriversnetethernetqlogicqedqed_hw.c_qed_ptt_get_bar_addr_O0::qed_ptt_get_bar_addr(64)"
+  }
+]

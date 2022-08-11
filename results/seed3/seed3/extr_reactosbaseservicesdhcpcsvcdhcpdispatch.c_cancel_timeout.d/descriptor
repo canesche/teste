@@ -1,0 +1,2 @@
+struct timeout | func void (*)(void *) | what void * | next struct timeout * 
+function cancel_timeout void | where void (*)(void *) | what void *

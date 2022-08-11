@@ -1,2 +1,0 @@
-struct kref | dummy int 
-function vgic_irq_release void | ref struct kref *

@@ -1,0 +1,2 @@
+struct sock | dummy int 
+function sock_def_destruct void | sk struct sock *

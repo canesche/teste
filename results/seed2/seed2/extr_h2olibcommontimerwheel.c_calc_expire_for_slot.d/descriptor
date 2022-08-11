@@ -1,0 +1,1 @@
+function calc_expire_for_slot void | num_wheels unsigned long | last_run unsigned long | wheel unsigned long | slot unsigned long | at_min unsigned long * | at_max unsigned long *

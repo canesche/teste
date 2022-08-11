@@ -1,0 +1,2 @@
+struct wusbhc | dummy int 
+function wusbhc_devconnect_destroy void | wusbhc struct wusbhc *

@@ -1,0 +1,5 @@
+struct qib_ctxtdata | dd struct TYPE_4__ * 
+struct qib_base_info | spi_runtime_flags int 
+struct TYPE_4__ | flags int | cspec struct TYPE_3__ * 
+struct TYPE_3__ | r1 long 
+function qib_7322_get_base_info int | rcd struct qib_ctxtdata * | kinfo struct qib_base_info *

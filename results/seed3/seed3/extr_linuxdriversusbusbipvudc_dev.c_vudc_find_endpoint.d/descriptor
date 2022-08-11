@@ -1,0 +1,4 @@
+struct vudc | ep struct vep * 
+struct vep | desc struct TYPE_2__ * 
+struct TYPE_2__ | bEndpointAddress int 
+function vudc_find_endpoint struct vep * | udc struct vudc * | address int

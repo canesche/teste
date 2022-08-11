@@ -1,0 +1,2 @@
+struct fmc_device | dummy int 
+function fwe_remove int | fmc struct fmc_device *

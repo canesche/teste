@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediadvb-coredvb_ca_en50221.c_dvb_ca_en50221_thread_update_delay.d/extr_linuxdriversmediadvb-coredvb_ca_en50221.c_dvb_ca_en50221_thread_update_delay_O0::dvb_ca_en50221_thread_update_delay(73)"
+  }
+]

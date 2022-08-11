@@ -1,0 +1,3 @@
+struct super_block | s_fs_info long 
+struct orangefs_sb_info_s | dummy int 
+function ORANGEFS_SB struct orangefs_sb_info_s * | sb struct super_block *

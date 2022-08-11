@@ -1,0 +1,3 @@
+struct mlx5_klm | dummy int 
+struct mlx5_ib_mr | dummy int 
+function mlx5_odp_populate_klm void | pklm struct mlx5_klm * | offset unsigned long | nentries unsigned long | mr struct mlx5_ib_mr * | flags int

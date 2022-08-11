@@ -1,0 +1,2 @@
+struct vc_data | dummy int 
+function dummycon_switch int | vc struct vc_data *

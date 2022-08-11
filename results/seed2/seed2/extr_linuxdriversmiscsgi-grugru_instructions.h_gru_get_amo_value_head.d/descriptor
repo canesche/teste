@@ -1,0 +1,2 @@
+struct gru_instruction | avalue int 
+function gru_get_amo_value_head int | cb void *

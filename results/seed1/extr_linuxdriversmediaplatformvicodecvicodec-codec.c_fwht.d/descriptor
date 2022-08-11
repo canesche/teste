@@ -1,1 +1,0 @@
-function fwht void | block const long * | output_block long * | stride unsigned int | input_step unsigned int | intra int

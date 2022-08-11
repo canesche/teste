@@ -1,2 +1,0 @@
-struct dma_page | in_use long 
-function is_page_busy int | page struct dma_page *

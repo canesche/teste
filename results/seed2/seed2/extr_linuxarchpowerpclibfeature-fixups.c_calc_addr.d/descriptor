@@ -1,0 +1,2 @@
+struct fixup_entry | dummy int 
+function calc_addr unsigned int * | fcur struct fixup_entry * | offset long

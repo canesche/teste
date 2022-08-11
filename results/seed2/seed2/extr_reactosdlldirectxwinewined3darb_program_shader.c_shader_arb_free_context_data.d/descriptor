@@ -1,0 +1,4 @@
+struct wined3d_context | device struct TYPE_2__ * 
+struct shader_arb_priv | last_context struct wined3d_context * 
+struct TYPE_2__ | shader_priv struct shader_arb_priv * 
+function shader_arb_free_context_data void | context struct wined3d_context *

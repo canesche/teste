@@ -1,0 +1,2 @@
+struct max197_data | ctrl_bytes int * 
+function max197_is_full_range int | data struct max197_data * | channel int

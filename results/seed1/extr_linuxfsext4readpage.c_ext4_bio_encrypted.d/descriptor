@@ -1,2 +1,0 @@
-struct bio | dummy int 
-function ext4_bio_encrypted int | bio struct bio *

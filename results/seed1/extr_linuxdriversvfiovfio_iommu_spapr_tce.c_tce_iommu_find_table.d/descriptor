@@ -1,3 +1,0 @@
-struct tce_container | tables struct iommu_table ** 
-struct iommu_table | it_page_shift unsigned long | it_offset unsigned long | it_size unsigned long 
-function tce_iommu_find_table long | container struct tce_container * | ioba unsigned long | ptbl struct iommu_table **

@@ -1,0 +1,4 @@
+struct TYPE_7__ | code int | count int | start char * | end char * | http_version int 
+struct TYPE_8__ | state int | http_major int | http_minor int 
+struct TYPE_9__ | pos char * | last char * 
+function ngx_http_parse_status_line int | r struct TYPE_8__ * | b struct TYPE_9__ * | status struct TYPE_7__ *

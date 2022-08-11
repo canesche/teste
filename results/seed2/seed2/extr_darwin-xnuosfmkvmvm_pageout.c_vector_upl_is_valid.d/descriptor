@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int | vector_upl int * 
+function vector_upl_is_valid int | upl struct TYPE_3__ *

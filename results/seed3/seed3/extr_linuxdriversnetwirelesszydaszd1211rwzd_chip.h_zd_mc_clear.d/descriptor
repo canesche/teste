@@ -1,0 +1,2 @@
+struct zd_mc_hash | high int | low long 
+function zd_mc_clear void | hash struct zd_mc_hash *

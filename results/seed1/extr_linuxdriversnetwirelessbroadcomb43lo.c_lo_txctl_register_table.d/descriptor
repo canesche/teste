@@ -1,3 +1,0 @@
-struct b43_phy | type long | radio_rev int | rev int 
-struct b43_wldev | phy struct b43_phy 
-function lo_txctl_register_table int | dev struct b43_wldev * | value int * | pad_mix_gain int *

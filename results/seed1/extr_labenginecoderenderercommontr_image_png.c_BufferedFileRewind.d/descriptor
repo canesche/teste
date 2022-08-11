@@ -1,2 +1,0 @@
-struct BufferedFile | Ptr unsigned int | Buffer unsigned int | BytesLeft unsigned int | Length unsigned int 
-function BufferedFileRewind int | BF struct BufferedFile * | Offset unsigned int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | weapon int 
+function EA_SelectWeapon void | client int | weapon int

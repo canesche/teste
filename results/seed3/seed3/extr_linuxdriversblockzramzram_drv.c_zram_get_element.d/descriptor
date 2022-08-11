@@ -1,0 +1,3 @@
+struct zram | table struct TYPE_2__ * 
+struct TYPE_2__ | element unsigned long 
+function zram_get_element unsigned long | zram struct zram * | index unsigned long

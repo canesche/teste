@@ -1,0 +1,2 @@
+struct ddcb_queue | ddcb_vaddr int * 
+function ddcb_queue_initialized int | queue struct ddcb_queue *

@@ -1,0 +1,3 @@
+struct tty_driver | dummy int 
+struct console | index int 
+function sclp_console_device struct tty_driver * | c struct console * | index int *

@@ -1,0 +1,2 @@
+struct vfe_device | dummy int 
+function vfe_set_ds void | vfe struct vfe_device *

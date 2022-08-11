@@ -1,0 +1,2 @@
+struct TYPE_3__ | profile_idc int | constraint_set_flags int 
+function ff_h264_get_profile int | sps const struct TYPE_3__ *

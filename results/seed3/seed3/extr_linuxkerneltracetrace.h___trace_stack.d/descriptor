@@ -1,0 +1,2 @@
+struct trace_array | dummy int 
+function __trace_stack void | tr struct trace_array * | flags unsigned long | skip int | pc int

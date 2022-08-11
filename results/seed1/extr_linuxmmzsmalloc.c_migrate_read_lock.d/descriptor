@@ -1,2 +1,0 @@
-struct zspage | dummy int 
-function migrate_read_lock void | zspage struct zspage *

@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function sun4u_irq_disable void | data struct irq_data *

@@ -1,0 +1,1 @@
+function decoder_set_config_int int | dcode int * | sym int | cfg int | val int

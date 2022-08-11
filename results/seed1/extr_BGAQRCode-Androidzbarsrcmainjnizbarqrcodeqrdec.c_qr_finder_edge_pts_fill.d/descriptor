@@ -1,4 +1,0 @@
-struct TYPE_6__ | boffs long | eoffs long | len long | pos int * 
-struct TYPE_7__ | pos int * 
-struct TYPE_8__ | nlines int | lines struct TYPE_6__ ** 
-function qr_finder_edge_pts_fill int | _edge_pts struct TYPE_7__ * | _nedge_pts int | _neighbors struct TYPE_8__ ** | _nneighbors int | _v int

@@ -1,0 +1,4 @@
+struct bttv_tvnorm | swidth int | totalwidth int | scaledtwidth int | vdelay int | hdelayx1 int | sheight int | vtotal int 
+struct bttv_geometry | hscale int | hdelay int | vscale int | crop int | vdelay int | width int | sheight int | vtc int | comb int | vtotal int 
+struct bttv | input long | dig long | opt_combfilter long 
+function bttv_calc_geo_old void | btv struct bttv * | geo struct bttv_geometry * | width int | height int | interleaved int | tvnorm const struct bttv_tvnorm *

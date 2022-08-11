@@ -1,2 +1,0 @@
-struct mp_csp_col_xy | x float | y float 
-function mp_xy_X float | xy struct mp_csp_col_xy

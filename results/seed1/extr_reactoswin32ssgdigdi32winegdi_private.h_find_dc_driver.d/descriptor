@@ -1,4 +1,0 @@
-struct gdi_dc_funcs | dummy int 
-struct TYPE_6__ | physDev struct TYPE_5__ * 
-struct TYPE_5__ | funcs const struct gdi_dc_funcs * | next struct TYPE_5__ * 
-function find_dc_driver struct TYPE_5__ * | dc struct TYPE_6__ * | funcs const struct gdi_dc_funcs *

@@ -1,0 +1,3 @@
+struct ffmpeg_mux | output struct TYPE_2__ * 
+struct TYPE_2__ | streams int ** 
+function get_stream int * | ffm struct ffmpeg_mux * | idx int

@@ -1,0 +1,1 @@
+function ssim_4x4x2_core void | pix1 const int * | stride1 long | pix2 const int * | stride2 long | sums int [2][4]

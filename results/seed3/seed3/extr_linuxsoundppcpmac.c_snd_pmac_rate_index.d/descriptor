@@ -1,0 +1,3 @@
+struct snd_pmac | freq_table unsigned int * | num_freqs int 
+struct pmac_stream | cur_freqs int 
+function snd_pmac_rate_index unsigned int | chip struct snd_pmac * | rec struct pmac_stream * | rate unsigned int

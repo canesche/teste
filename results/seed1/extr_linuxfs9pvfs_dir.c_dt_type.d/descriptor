@@ -1,2 +1,0 @@
-struct p9_wstat | mode unsigned long 
-function dt_type int | mistat struct p9_wstat *

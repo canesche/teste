@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400610,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_emscriptensystemliblibcmuslsrcctypeiswcntrl.c_iswcntrl.d/extr_emscriptensystemliblibcmuslsrcctypeiswcntrl.c_iswcntrl_O0::iswcntrl(61)"
+  }
+]

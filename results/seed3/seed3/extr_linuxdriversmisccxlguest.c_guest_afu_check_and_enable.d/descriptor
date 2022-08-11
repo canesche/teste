@@ -1,0 +1,2 @@
+struct cxl_afu | dummy int 
+function guest_afu_check_and_enable int | afu struct cxl_afu *

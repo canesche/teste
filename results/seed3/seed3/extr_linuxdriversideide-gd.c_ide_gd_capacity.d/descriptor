@@ -1,0 +1,2 @@
+struct TYPE_3__ | capacity64 int 
+function ide_gd_capacity int | drive struct TYPE_3__ *

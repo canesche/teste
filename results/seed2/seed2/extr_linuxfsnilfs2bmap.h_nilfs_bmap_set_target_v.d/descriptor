@@ -1,0 +1,2 @@
+struct nilfs_bmap | b_last_allocated_ptr void * | b_last_allocated_key void * 
+function nilfs_bmap_set_target_v void | bmap struct nilfs_bmap * | key void * | ptr void *

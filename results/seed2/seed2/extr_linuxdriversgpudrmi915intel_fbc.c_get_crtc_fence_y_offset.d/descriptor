@@ -1,0 +1,4 @@
+struct TYPE_3__ | y unsigned int | adjusted_y unsigned int 
+struct TYPE_4__ | plane struct TYPE_3__ 
+struct intel_fbc | state_cache struct TYPE_4__ 
+function get_crtc_fence_y_offset unsigned int | fbc struct intel_fbc *

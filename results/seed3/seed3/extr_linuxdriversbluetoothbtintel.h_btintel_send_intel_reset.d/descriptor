@@ -1,0 +1,2 @@
+struct hci_dev | dummy int 
+function btintel_send_intel_reset int | hdev struct hci_dev * | reset_param int

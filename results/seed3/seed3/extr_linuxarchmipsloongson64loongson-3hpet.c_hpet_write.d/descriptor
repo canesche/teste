@@ -1,0 +1,1 @@
+function hpet_write void | offset int | data int

@@ -1,2 +1,0 @@
-struct vs_compile_args | swizzle_map const int | clip_enabled long | point_size long | per_vertex_point_size long | flatshading long | next_shader_type long | next_shader_input_count long | fog_src long 
-function vs_args_equal int | stored const struct vs_compile_args * | new const struct vs_compile_args * | use_map const int

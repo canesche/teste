@@ -1,0 +1,3 @@
+struct zip_device | iq struct TYPE_2__ * 
+struct TYPE_2__ | sw_head int | sw_tail int 
+function zip_cmd_queue_consumed int | zip_dev struct zip_device * | queue int

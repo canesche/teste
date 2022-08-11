@@ -1,0 +1,2 @@
+struct usb_line6_toneport | type int 
+function toneport_has_source_select int | toneport struct usb_line6_toneport *

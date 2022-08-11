@@ -1,0 +1,2 @@
+struct TYPE_3__ | value int 
+function is_invalid_imm5_instr int | instr struct TYPE_3__ *

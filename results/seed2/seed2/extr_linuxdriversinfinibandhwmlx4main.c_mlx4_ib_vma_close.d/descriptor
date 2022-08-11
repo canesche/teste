@@ -1,0 +1,3 @@
+struct vm_area_struct | vm_private_data long 
+struct mlx4_ib_vma_private_data | vma int * 
+function mlx4_ib_vma_close void | area struct vm_area_struct *

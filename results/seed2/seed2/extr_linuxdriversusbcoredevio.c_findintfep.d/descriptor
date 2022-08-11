@@ -1,0 +1,9 @@
+struct usb_interface | num_altsetting unsigned int | altsetting struct usb_host_interface * 
+struct TYPE_8__ | bNumEndpoints unsigned int | bInterfaceNumber int 
+struct usb_host_interface | desc struct TYPE_8__ | endpoint struct TYPE_7__ * 
+struct usb_endpoint_descriptor | bEndpointAddress unsigned int 
+struct usb_device | actconfig struct TYPE_6__ * 
+struct TYPE_7__ | desc struct usb_endpoint_descriptor 
+struct TYPE_5__ | bNumInterfaces unsigned int 
+struct TYPE_6__ | interface struct usb_interface ** | desc struct TYPE_5__ 
+function findintfep int | dev struct usb_device * | ep unsigned int

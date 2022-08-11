@@ -1,0 +1,4 @@
+struct TYPE_7__ | priv struct TYPE_5__ * 
+struct TYPE_6__ | height int | linesize const int * | width int | data long * 
+struct TYPE_5__ | softness int | white int | black int | max int 
+function do_lumakey_slice16 int | ctx struct TYPE_7__ * | arg void * | jobnr int | nb_jobs int

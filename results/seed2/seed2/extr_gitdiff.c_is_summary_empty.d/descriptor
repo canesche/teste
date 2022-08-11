@@ -1,0 +1,5 @@
+struct diff_queue_struct | nr int | queue struct diff_filepair ** 
+struct diff_filepair | status int | two struct TYPE_4__ * | one struct TYPE_3__ * | score int 
+struct TYPE_4__ | mode int 
+struct TYPE_3__ | mode int 
+function is_summary_empty int | q const struct diff_queue_struct *

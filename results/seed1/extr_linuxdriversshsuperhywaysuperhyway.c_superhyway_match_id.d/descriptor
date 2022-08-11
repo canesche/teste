@@ -1,4 +1,0 @@
-struct superhyway_device_id | id long 
-struct TYPE_2__ | id long 
-struct superhyway_device | id struct TYPE_2__ 
-function superhyway_match_id const struct superhyway_device_id * | ids const struct superhyway_device_id * | dev struct superhyway_device *

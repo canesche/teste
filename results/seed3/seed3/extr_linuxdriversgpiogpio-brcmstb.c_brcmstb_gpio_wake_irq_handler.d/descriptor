@@ -1,0 +1,2 @@
+struct brcmstb_gpio_priv | parent_wake_irq int 
+function brcmstb_gpio_wake_irq_handler int | irq int | data void *

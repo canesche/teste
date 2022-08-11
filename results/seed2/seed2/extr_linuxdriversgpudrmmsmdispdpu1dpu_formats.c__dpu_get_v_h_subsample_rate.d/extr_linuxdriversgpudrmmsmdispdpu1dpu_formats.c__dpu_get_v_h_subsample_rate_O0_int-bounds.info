@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmmsmdispdpu1dpu_formats.c__dpu_get_v_h_subsample_rate.d/extr_linuxdriversgpudrmmsmdispdpu1dpu_formats.c__dpu_get_v_h_subsample_rate_O0::_dpu_get_v_h_subsample_rate(68)"
+  }
+]

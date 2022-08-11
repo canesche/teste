@@ -1,0 +1,2 @@
+struct TYPE_4__ | id unsigned char * 
+function git_oid_ncmp int | oid_a const struct TYPE_4__ * | oid_b const struct TYPE_4__ * | len unsigned long

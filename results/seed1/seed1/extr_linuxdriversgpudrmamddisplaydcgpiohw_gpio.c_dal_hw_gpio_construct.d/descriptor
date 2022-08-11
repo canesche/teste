@@ -1,0 +1,5 @@
+struct TYPE_3__ | mux long | en long | a long | mask long 
+struct TYPE_4__ | id int | opened int | mode int | en int | ctx struct dc_context * 
+struct hw_gpio | mux_supported int | store struct TYPE_3__ | base struct TYPE_4__ 
+struct dc_context | dummy int 
+function dal_hw_gpio_construct void | pin struct hw_gpio * | id enum gpio_id | en int | ctx struct dc_context *

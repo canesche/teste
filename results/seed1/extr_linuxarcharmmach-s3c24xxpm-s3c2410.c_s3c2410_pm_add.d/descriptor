@@ -1,3 +1,0 @@
-struct subsys_interface | dummy int 
-struct device | dummy int 
-function s3c2410_pm_add int | dev struct device * | sif struct subsys_interface *

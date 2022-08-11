@@ -1,0 +1,2 @@
+struct ref | next struct ref * 
+function tail_ref struct ref ** | head struct ref **

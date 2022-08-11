@@ -1,0 +1,3 @@
+struct mvs_info | devices struct mvs_device * 
+struct mvs_device | taskfileset long 
+function mvs_find_dev_by_reg_set struct mvs_device * | mvi struct mvs_info * | reg_set long

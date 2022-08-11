@@ -1,0 +1,2 @@
+struct d_print_info | demangle_failure long 
+function d_print_saw_error int | dpi struct d_print_info *

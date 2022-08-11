@@ -1,0 +1,2 @@
+struct ab8500_btemp | bat_temp int 
+function ab8500_btemp_get_batctrl_temp int | btemp struct ab8500_btemp *

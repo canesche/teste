@@ -1,2 +1,0 @@
-struct TYPE_3__ | mv_weight2 int | mv_weight1 int 
-function calc_add_mv int | r struct TYPE_3__ * | dir int | val int

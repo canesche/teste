@@ -1,0 +1,7 @@
+struct TYPE_8__ | bcBitCount int 
+struct TYPE_13__ | bmciHeader struct TYPE_8__ | bmciColors struct TYPE_10__ * 
+struct TYPE_9__ | biSize int | biBitCount int 
+struct TYPE_12__ | bmiHeader struct TYPE_9__ | bmiColors struct TYPE_11__ * 
+struct TYPE_11__ | rgbRed int | rgbGreen int | rgbBlue int | rgbReserved long 
+struct TYPE_10__ | rgbtRed int | rgbtGreen int | rgbtBlue int 
+function is_dib_monochrome int | info const struct TYPE_12__ *

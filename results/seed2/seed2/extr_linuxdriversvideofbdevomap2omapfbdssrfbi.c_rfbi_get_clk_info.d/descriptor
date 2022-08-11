@@ -1,0 +1,2 @@
+struct TYPE_2__ | l4_khz int 
+function rfbi_get_clk_info void | clk_period int * | max_clk_div int *

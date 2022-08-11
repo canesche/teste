@@ -1,2 +1,0 @@
-struct e82545_softc | esc_rx_enabled int 
-function e82545_rx_enable void | sc struct e82545_softc *

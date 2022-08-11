@@ -1,0 +1,2 @@
+struct cphy | dummy int 
+function xaui_direct_power_down int | phy struct cphy * | enable int

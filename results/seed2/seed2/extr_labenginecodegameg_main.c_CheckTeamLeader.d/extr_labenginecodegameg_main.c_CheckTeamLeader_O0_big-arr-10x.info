@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_labenginecodegameg_main.c_CheckTeamLeader.d/extr_labenginecodegameg_main.c_CheckTeamLeader_O0::CheckTeamLeader(73)"
+  }
+]

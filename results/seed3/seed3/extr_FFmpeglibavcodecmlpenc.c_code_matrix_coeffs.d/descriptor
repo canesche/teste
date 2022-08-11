@@ -1,0 +1,4 @@
+struct TYPE_5__ | coeff int ** | fbits int * 
+struct TYPE_7__ | matrix_params struct TYPE_5__ 
+struct TYPE_6__ | num_channels unsigned int | cur_decoding_params struct TYPE_7__ * 
+function code_matrix_coeffs void | ctx struct TYPE_6__ * | mat unsigned int

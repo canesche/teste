@@ -1,0 +1,2 @@
+struct resource | start long | end long | sibling struct resource * | parent struct resource * | child struct resource * 
+function __request_resource struct resource * | root struct resource * | new struct resource *

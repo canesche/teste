@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 333,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_emscriptentestssqlitespeedtest1.c_est_square_root.d/extr_emscriptentestssqlitespeedtest1.c_est_square_root_O0::est_square_root(59)"
+  }
+]

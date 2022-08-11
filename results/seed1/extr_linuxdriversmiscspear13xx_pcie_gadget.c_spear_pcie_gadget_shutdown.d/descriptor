@@ -1,2 +1,0 @@
-struct platform_device | dummy int 
-function spear_pcie_gadget_shutdown void | pdev struct platform_device *

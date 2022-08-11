@@ -1,0 +1,3 @@
+struct file_operations | dummy int 
+struct dentry | dummy int 
+function edac_debugfs_create_file struct dentry * | name const char * | mode int | parent struct dentry * | data void * | fops const struct file_operations *

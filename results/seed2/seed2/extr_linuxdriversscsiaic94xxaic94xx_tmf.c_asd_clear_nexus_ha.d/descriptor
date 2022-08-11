@@ -1,0 +1,5 @@
+struct sas_ha_struct | lldd_ha struct asd_ha_struct * 
+struct asd_ha_struct | dummy int 
+struct TYPE_3__ | nexus int 
+struct TYPE_4__ | clear_nexus struct TYPE_3__ 
+function asd_clear_nexus_ha int | sas_ha struct sas_ha_struct *

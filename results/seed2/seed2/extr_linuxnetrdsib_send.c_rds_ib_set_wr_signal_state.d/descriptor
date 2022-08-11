@@ -1,0 +1,4 @@
+struct TYPE_2__ | send_flags int 
+struct rds_ib_send_work | s_wr struct TYPE_2__ 
+struct rds_ib_connection | i_unsignaled_wrs long 
+function rds_ib_set_wr_signal_state int | ic struct rds_ib_connection * | send struct rds_ib_send_work * | notify int

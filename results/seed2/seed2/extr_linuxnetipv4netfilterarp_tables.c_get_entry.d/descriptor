@@ -1,0 +1,2 @@
+struct arpt_entry | dummy int 
+function get_entry struct arpt_entry * | base const void * | offset unsigned int

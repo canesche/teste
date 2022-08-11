@@ -1,0 +1,2 @@
+struct ftrace_ops | dummy int 
+function ftrace_ops_init void | ops struct ftrace_ops *

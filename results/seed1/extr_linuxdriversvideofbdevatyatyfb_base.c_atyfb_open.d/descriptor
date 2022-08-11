@@ -1,3 +1,0 @@
-struct fb_info | par long 
-struct atyfb_par | open int 
-function atyfb_open int | info struct fb_info * | user int

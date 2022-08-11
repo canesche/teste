@@ -1,0 +1,9 @@
+struct TYPE_7__ | run struct kvm_run * 
+struct vcpu_svm | vmcb struct TYPE_11__ * | vcpu struct TYPE_7__ 
+struct TYPE_8__ | exception int | pc long 
+struct TYPE_9__ | arch struct TYPE_8__ 
+struct kvm_run | debug struct TYPE_9__ | exit_reason int 
+struct TYPE_10__ | base long 
+struct TYPE_12__ | rip long | cs struct TYPE_10__ 
+struct TYPE_11__ | save struct TYPE_12__ 
+function bp_interception int | svm struct vcpu_svm *

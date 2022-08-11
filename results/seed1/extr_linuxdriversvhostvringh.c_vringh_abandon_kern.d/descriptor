@@ -1,2 +1,0 @@
-struct vringh | last_avail_idx unsigned int 
-function vringh_abandon_kern void | vrh struct vringh * | num unsigned int

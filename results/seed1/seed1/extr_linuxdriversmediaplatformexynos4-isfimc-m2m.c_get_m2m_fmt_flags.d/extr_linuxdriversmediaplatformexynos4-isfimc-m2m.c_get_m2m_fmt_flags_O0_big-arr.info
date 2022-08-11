@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediaplatformexynos4-isfimc-m2m.c_get_m2m_fmt_flags.d/extr_linuxdriversmediaplatformexynos4-isfimc-m2m.c_get_m2m_fmt_flags_O0::get_m2m_fmt_flags(63)"
+  }
+]

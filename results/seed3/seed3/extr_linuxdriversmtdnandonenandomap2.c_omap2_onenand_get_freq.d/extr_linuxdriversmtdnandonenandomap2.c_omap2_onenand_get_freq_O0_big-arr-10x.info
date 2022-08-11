@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmtdnandonenandomap2.c_omap2_onenand_get_freq.d/extr_linuxdriversmtdnandonenandomap2.c_omap2_onenand_get_freq_O0::omap2_onenand_get_freq(61)"
+  }
+]

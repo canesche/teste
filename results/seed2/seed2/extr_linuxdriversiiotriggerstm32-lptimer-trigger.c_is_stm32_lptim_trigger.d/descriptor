@@ -1,0 +1,2 @@
+struct iio_trigger | ops int * 
+function is_stm32_lptim_trigger int | trig struct iio_trigger *

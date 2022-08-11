@@ -1,0 +1,5 @@
+struct vm_area_struct | vm_flags int 
+struct perf_mmap_event | vma struct vm_area_struct * 
+struct TYPE_2__ | mmap2 long | mmap long | mmap_data long 
+struct perf_event | attr struct TYPE_2__ 
+function perf_event_mmap_match int | event struct perf_event * | data void *

@@ -1,0 +1,2 @@
+struct sd | sensor int * 
+function s5k4aa_disconnect void | sd struct sd *

@@ -1,0 +1,2 @@
+struct device | type int * 
+function rmi_is_function_device int | dev struct device *

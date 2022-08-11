@@ -1,0 +1,2 @@
+struct news_id | type long | owner long | place int 
+function news_id_compare int | id1 struct news_id | id2 struct news_id

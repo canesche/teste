@@ -1,1 +1,0 @@
-function mangle_rgb_planes void | dst unsigned int *[4] | dst_stride int | src unsigned int *const[4] | planes int | stride int const[4] | width int | height int

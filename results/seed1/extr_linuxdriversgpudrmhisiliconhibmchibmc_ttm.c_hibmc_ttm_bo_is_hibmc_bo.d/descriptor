@@ -1,2 +1,0 @@
-struct ttm_buffer_object | destroy int * 
-function hibmc_ttm_bo_is_hibmc_bo int | bo struct ttm_buffer_object *

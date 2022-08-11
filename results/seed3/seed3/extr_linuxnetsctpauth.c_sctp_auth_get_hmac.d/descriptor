@@ -1,0 +1,2 @@
+struct sctp_hmac | dummy int 
+function sctp_auth_get_hmac struct sctp_hmac * | hmac_id unsigned long

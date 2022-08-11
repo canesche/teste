@@ -1,3 +1,0 @@
-struct scif_window_iter | index long | offset int 
-struct scif_window | offset int 
-function scif_init_window_iter void | window struct scif_window * | iter struct scif_window_iter *

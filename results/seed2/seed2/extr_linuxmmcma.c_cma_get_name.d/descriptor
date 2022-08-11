@@ -1,0 +1,2 @@
+struct cma | name const char * 
+function cma_get_name const char * | cma const struct cma *

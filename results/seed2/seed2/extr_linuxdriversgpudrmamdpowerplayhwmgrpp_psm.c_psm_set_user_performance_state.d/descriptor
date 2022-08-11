@@ -1,0 +1,4 @@
+struct TYPE_2__ | ui_label int 
+struct pp_power_state | classification struct TYPE_2__ 
+struct pp_hwmgr | num_ps int | ps_size long | ps struct pp_power_state * 
+function psm_set_user_performance_state int | hwmgr struct pp_hwmgr * | label_id enum PP_StateUILabel | state struct pp_power_state **

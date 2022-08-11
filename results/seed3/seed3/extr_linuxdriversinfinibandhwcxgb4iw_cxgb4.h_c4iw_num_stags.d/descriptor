@@ -1,0 +1,5 @@
+struct TYPE_6__ | vr struct TYPE_5__ * 
+struct c4iw_rdev | lldi struct TYPE_6__ 
+struct TYPE_4__ | size int 
+struct TYPE_5__ | stag struct TYPE_4__ 
+function c4iw_num_stags int | rdev struct c4iw_rdev *

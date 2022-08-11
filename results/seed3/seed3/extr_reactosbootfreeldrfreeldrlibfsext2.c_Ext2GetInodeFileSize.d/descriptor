@@ -1,0 +1,2 @@
+struct TYPE_3__ | mode int | dir_acl long | size long 
+function Ext2GetInodeFileSize int | Inode struct TYPE_3__ *

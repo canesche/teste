@@ -1,2 +1,0 @@
-struct Scsi_Host | dummy int 
-function host_info const char * | host struct Scsi_Host *

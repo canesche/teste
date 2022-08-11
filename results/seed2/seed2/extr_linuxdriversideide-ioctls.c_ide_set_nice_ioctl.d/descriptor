@@ -1,0 +1,2 @@
+struct TYPE_3__ | media long | dev_flags int 
+function ide_set_nice_ioctl int | drive struct TYPE_3__ * | arg unsigned long

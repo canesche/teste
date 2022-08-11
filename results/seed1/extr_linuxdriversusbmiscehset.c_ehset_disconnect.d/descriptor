@@ -1,2 +1,0 @@
-struct usb_interface | dummy int 
-function ehset_disconnect void | intf struct usb_interface *

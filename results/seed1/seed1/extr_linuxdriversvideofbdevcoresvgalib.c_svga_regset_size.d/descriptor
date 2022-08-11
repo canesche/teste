@@ -1,0 +1,2 @@
+struct vga_regset | regnum long | lowbit long | highbit long 
+function svga_regset_size unsigned int | regset const struct vga_regset *

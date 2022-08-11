@@ -1,6 +1,0 @@
-struct TYPE_5__ | m int 
-struct TYPE_8__ | m int 
-struct TYPE_7__ | m int 
-struct TYPE_6__ | m int 
-struct matrix4 | t struct TYPE_5__ | z struct TYPE_8__ | y struct TYPE_7__ | x struct TYPE_6__ 
-function matrix4_copy void | dst struct matrix4 * | m const struct matrix4 *

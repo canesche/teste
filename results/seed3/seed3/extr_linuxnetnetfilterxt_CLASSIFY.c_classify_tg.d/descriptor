@@ -1,0 +1,4 @@
+struct xt_classify_target_info | priority int 
+struct xt_action_param | targinfo struct xt_classify_target_info * 
+struct sk_buff | priority int 
+function classify_tg unsigned int | skb struct sk_buff * | par const struct xt_action_param *

@@ -1,0 +1,2 @@
+struct cc_hw_desc | word int * 
+function set_multi2_num_rounds void | pdesc struct cc_hw_desc * | num int

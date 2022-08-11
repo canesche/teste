@@ -1,0 +1,3 @@
+struct usb_ctrlrequest | bRequestType long | bRequest long 
+struct urb | setup_packet long 
+function usbhsh_is_request_address int | urb struct urb *

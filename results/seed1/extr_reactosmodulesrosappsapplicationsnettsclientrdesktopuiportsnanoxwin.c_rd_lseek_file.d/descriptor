@@ -1,1 +1,0 @@
-function rd_lseek_file int | fd int | offset int

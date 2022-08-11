@@ -1,0 +1,1 @@
+function pthread_mutex_setprioceiling int | m int *__restrict | ceiling int | old int *__restrict

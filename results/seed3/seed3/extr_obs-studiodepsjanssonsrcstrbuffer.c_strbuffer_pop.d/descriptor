@@ -1,0 +1,2 @@
+struct TYPE_3__ | length unsigned long | value char * 
+function strbuffer_pop char | strbuff struct TYPE_3__ *

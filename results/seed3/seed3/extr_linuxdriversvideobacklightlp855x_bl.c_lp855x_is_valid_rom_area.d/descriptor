@@ -1,0 +1,2 @@
+struct lp855x | chip_id int 
+function lp855x_is_valid_rom_area int | lp struct lp855x * | addr long

@@ -1,0 +1,5 @@
+struct TYPE_6__ | dentry struct TYPE_5__ * 
+struct svc_export | ex_path struct TYPE_6__ 
+struct TYPE_5__ | d_sb struct TYPE_4__ * 
+struct TYPE_4__ | s_root struct TYPE_5__ * 
+function is_root_export int | exp struct svc_export *

@@ -1,0 +1,4 @@
+struct qed_hwfn | p_cxt_mngr struct TYPE_4__ * 
+struct TYPE_4__ | acquired struct TYPE_3__ * 
+struct TYPE_3__ | start_cid int 
+function qed_cxt_get_proto_cid_start int | p_hwfn struct qed_hwfn * | type enum protocol_type

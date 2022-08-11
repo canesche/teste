@@ -1,0 +1,1 @@
+function cs_valid_range int | start const void * | end const void * | lower_bound const void * | upper_bound const void *

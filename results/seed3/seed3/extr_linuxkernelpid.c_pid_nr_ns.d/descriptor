@@ -1,0 +1,4 @@
+struct upid | nr int | ns struct pid_namespace * 
+struct pid_namespace | level unsigned long 
+struct pid | level unsigned long | numbers struct upid * 
+function pid_nr_ns int | pid struct pid * | ns struct pid_namespace *

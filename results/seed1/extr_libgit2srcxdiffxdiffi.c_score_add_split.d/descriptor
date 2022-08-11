@@ -1,3 +1,0 @@
-struct split_score | penalty int | effective_indent int 
-struct split_measurement | pre_indent int | pre_blank int | indent int | post_blank int | post_indent int | end_of_file long 
-function score_add_split void | m const struct split_measurement * | s struct split_score *

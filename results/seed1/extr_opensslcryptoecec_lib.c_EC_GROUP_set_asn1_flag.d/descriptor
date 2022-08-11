@@ -1,2 +1,0 @@
-struct TYPE_3__ | asn1_flag int 
-function EC_GROUP_set_asn1_flag void | group struct TYPE_3__ * | flag int

@@ -1,0 +1,2 @@
+struct f2fs_sb_info | total_valid_node_count unsigned int 
+function valid_node_count unsigned int | sbi struct f2fs_sb_info *

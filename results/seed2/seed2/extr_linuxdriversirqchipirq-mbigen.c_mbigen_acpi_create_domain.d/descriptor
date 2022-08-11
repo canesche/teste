@@ -1,0 +1,3 @@
+struct platform_device | dummy int 
+struct mbigen_device | dummy int 
+function mbigen_acpi_create_domain int | pdev struct platform_device * | mgn_chip struct mbigen_device *

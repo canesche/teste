@@ -1,0 +1,3 @@
+struct bch_geometry | block_mark_bit_offset unsigned int | block_mark_byte_offset int 
+struct gpmi_nand_data | swap_block_mark int | bch_geometry struct bch_geometry 
+function block_mark_swapping void | this struct gpmi_nand_data * | payload void * | auxiliary void *

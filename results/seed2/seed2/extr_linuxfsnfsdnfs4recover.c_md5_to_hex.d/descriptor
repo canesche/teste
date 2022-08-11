@@ -1,0 +1,1 @@
+function md5_to_hex void | out char * | md5 char *

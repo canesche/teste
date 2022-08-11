@@ -1,0 +1,2 @@
+struct TYPE_3__ | error int 
+function OSSL_STORE_LOADER_set_error int | loader struct TYPE_3__ * | error_function int

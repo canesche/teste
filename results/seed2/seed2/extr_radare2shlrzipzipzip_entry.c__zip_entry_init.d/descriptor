@@ -1,0 +1,2 @@
+struct zip_entry | deleted long | source int * | changes int * | orig int * 
+function _zip_entry_init void | e struct zip_entry *

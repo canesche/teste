@@ -1,0 +1,2 @@
+struct uart_port | type int 
+function s3c24xx_serial_type const char * | port struct uart_port *

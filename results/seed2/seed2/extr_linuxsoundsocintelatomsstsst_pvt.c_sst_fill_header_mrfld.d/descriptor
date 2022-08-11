@@ -1,0 +1,5 @@
+struct TYPE_4__ | msg_id int | task_id int | large int | drv_id int | busy int | res_rqd int | done long 
+struct TYPE_5__ | part struct TYPE_4__ 
+struct TYPE_6__ | header_high struct TYPE_5__ 
+struct ipc_header_mrfld | p struct TYPE_6__ | full long 
+function sst_fill_header_mrfld void | header union ipc_header_mrfld * | msg int | task_id int | large int | drv_id int

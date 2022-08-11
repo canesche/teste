@@ -1,2 +1,0 @@
-struct ringbuf_t | size unsigned long 
-function ringbuf_buffer_size unsigned long | rb const struct ringbuf_t *

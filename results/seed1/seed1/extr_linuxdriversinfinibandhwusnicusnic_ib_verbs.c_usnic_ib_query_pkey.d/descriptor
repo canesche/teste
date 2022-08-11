@@ -1,0 +1,2 @@
+struct ib_device | dummy int 
+function usnic_ib_query_pkey int | ibdev struct ib_device * | port int | index int | pkey int *

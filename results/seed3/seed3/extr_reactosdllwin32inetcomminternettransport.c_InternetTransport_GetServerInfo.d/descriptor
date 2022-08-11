@@ -1,0 +1,2 @@
+struct TYPE_3__ | Status long | ServerInfo int 
+function InternetTransport_GetServerInfo int | This struct TYPE_3__ * | pInetServer int *

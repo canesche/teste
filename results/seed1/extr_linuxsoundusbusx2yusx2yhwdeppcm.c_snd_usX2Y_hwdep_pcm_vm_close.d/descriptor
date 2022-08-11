@@ -1,2 +1,0 @@
-struct vm_area_struct | dummy int 
-function snd_usX2Y_hwdep_pcm_vm_close void | area struct vm_area_struct *

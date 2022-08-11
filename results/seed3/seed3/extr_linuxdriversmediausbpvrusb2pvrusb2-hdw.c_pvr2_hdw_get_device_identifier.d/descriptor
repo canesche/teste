@@ -1,0 +1,2 @@
+struct pvr2_hdw | identifier const char * 
+function pvr2_hdw_get_device_identifier const char * | hdw struct pvr2_hdw *

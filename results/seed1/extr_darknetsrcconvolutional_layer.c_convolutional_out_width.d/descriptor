@@ -1,2 +1,0 @@
-struct TYPE_3__ | w int | pad int | size int | stride int 
-function convolutional_out_width int | l struct TYPE_3__

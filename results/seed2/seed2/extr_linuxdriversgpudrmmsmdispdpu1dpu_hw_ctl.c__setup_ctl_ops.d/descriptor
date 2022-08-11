@@ -1,0 +1,2 @@
+struct dpu_hw_ctl_ops | get_bitmask_cdm int | get_bitmask_intf int | get_bitmask_mixer int | get_bitmask_sspp int | setup_blendstage int | clear_all_blendstages int | wait_reset_status int | reset int | setup_intf_cfg int | trigger_pending int | trigger_start int | get_flush_register int | trigger_flush int | get_pending_flush int | update_pending_flush int | clear_pending_flush int 
+function _setup_ctl_ops void | ops struct dpu_hw_ctl_ops * | cap unsigned long

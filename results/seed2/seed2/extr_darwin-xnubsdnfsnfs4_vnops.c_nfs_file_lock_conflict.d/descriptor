@@ -1,0 +1,2 @@
+struct nfs_file_lock | nfl_flags int | nfl_owner long | nfl_type long | nfl_start long | nfl_end long 
+function nfs_file_lock_conflict int | nflp1 struct nfs_file_lock * | nflp2 struct nfs_file_lock * | willsplit int *

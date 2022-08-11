@@ -1,0 +1,4 @@
+struct par_info | crtc int * | pitch int | crtc_ofl int 
+struct fb_var_screeninfo | xres int | right_margin int | hsync_len int | left_margin int | yres int | lower_margin int | vsync_len int | upper_margin int | vmode int 
+struct cfb_info | dummy int 
+function cyber2000fb_decode_crtc int | hw struct par_info * | cfb struct cfb_info * | var struct fb_var_screeninfo *

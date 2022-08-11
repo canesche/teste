@@ -1,0 +1,2 @@
+struct TYPE_3__ | hostageByte long | legacyVersion long | outEnd long | outStart long | inPos long | lhSize long | stage int 
+function ZSTD_resetDStream unsigned long | zds struct TYPE_3__ *

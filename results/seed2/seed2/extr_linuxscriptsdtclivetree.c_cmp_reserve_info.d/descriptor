@@ -1,0 +1,2 @@
+struct reserve_info | address long | size long 
+function cmp_reserve_info int | ax const void * | bx const void *

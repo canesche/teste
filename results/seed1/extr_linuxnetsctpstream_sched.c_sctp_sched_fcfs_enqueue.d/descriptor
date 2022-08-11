@@ -1,3 +1,0 @@
-struct sctp_outq | dummy int 
-struct sctp_datamsg | dummy int 
-function sctp_sched_fcfs_enqueue void | q struct sctp_outq * | msg struct sctp_datamsg *

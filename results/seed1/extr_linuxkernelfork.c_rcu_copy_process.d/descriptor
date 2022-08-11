@@ -1,2 +1,0 @@
-struct task_struct | dummy int 
-function rcu_copy_process void | p struct task_struct *

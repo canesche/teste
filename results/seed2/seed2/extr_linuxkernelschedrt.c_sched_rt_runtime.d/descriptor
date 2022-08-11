@@ -1,0 +1,2 @@
+struct rt_rq | rt_runtime int 
+function sched_rt_runtime int | rt_rq struct rt_rq *

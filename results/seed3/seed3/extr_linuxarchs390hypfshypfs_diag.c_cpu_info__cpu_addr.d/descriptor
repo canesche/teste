@@ -1,0 +1,3 @@
+struct diag204_x_cpu_info | cpu_addr int 
+struct diag204_cpu_info | cpu_addr int 
+function cpu_info__cpu_addr int | type enum diag204_format | hdr void *

@@ -1,0 +1,2 @@
+struct il_priv | dummy int 
+function il3945_eeprom_release_semaphore void | il struct il_priv *

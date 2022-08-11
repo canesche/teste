@@ -1,2 +1,0 @@
-struct vmci_qp_page_store | len int 
-function VMCI_QP_PAGESTORE_IS_WELLFORMED int | page_store struct vmci_qp_page_store *

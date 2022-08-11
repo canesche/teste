@@ -1,0 +1,2 @@
+struct TYPE_3__ | height int | width int | verts int * 
+function InvertMesh void | in struct TYPE_3__ *

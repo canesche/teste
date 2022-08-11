@@ -1,1 +1,0 @@
-value(npiv_wwpn) == 255, value(npiv_wwnn) == 255, length(target_lport_ptr) == 65025, length(vha) == 65025

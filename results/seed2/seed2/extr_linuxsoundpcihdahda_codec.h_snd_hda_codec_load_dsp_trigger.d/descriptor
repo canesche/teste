@@ -1,0 +1,2 @@
+struct hda_codec | dummy int 
+function snd_hda_codec_load_dsp_trigger void | codec struct hda_codec * | start int

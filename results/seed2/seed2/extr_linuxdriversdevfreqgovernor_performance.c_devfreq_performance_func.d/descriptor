@@ -1,0 +1,2 @@
+struct devfreq | max_freq unsigned long 
+function devfreq_performance_func int | df struct devfreq * | freq unsigned long *

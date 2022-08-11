@@ -1,0 +1,6 @@
+struct ipr_ioasa_gata | hob_lbah int | hob_lbam int | hob_lbal int | hob_nsect int | status int | device int | lbah int | lbam int | lbal int | nsect int | error int 
+struct ipr_sata_port | ioasa struct ipr_ioasa_gata 
+struct ata_taskfile | hob_lbah int | hob_lbam int | hob_lbal int | hob_nsect int | command int | device int | lbah int | lbam int | lbal int | nsect int | feature int 
+struct ata_queued_cmd | result_tf struct ata_taskfile | ap struct TYPE_2__ * 
+struct TYPE_2__ | private_data struct ipr_sata_port * 
+function ipr_qc_fill_rtf int | qc struct ata_queued_cmd *

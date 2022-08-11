@@ -1,5 +1,0 @@
-struct TYPE_2__ | active int 
-struct usb_line6 | messages struct TYPE_2__ 
-struct snd_hwdep | private_data struct usb_line6 * 
-struct file | dummy int 
-function line6_hwdep_open int | hw struct snd_hwdep * | file struct file *

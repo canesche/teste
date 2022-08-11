@@ -1,0 +1,2 @@
+struct TYPE_2__ | uu_proc_refcount long 
+function uthread_reset_proc_refcount void | uthread void *

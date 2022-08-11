@@ -1,0 +1,1 @@
+function SHADecode32 void | output int * | input const unsigned char * | len unsigned int

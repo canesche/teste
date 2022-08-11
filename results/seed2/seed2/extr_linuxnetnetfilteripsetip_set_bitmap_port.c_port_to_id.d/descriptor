@@ -1,0 +1,2 @@
+struct bitmap_port | first_port long 
+function port_to_id long | m const struct bitmap_port * | port long

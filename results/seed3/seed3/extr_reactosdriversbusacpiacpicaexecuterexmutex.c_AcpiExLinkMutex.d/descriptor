@@ -1,0 +1,4 @@
+struct TYPE_6__ | Prev struct TYPE_8__ * | Next struct TYPE_8__ * 
+struct TYPE_8__ | Mutex struct TYPE_6__ 
+struct TYPE_7__ | AcquiredMutexList struct TYPE_8__ * 
+function AcpiExLinkMutex void | ObjDesc struct TYPE_8__ * | Thread struct TYPE_7__ *

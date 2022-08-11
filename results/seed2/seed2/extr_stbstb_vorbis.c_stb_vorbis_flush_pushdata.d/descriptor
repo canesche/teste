@@ -1,0 +1,2 @@
+struct TYPE_3__ | channel_buffer_end long | channel_buffer_start long | samples_output long | first_decode void * | current_loc_valid void * | discard_samples_deferred long | page_crc_tests long | previous_length long 
+function stb_vorbis_flush_pushdata void | f struct TYPE_3__ *

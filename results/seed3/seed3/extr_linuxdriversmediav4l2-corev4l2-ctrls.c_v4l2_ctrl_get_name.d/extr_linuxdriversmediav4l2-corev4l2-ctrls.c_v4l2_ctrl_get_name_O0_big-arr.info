@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmediav4l2-corev4l2-ctrls.c_v4l2_ctrl_get_name.d/extr_linuxdriversmediav4l2-corev4l2-ctrls.c_v4l2_ctrl_get_name_O0::v4l2_ctrl_get_name(389)"
+  }
+]

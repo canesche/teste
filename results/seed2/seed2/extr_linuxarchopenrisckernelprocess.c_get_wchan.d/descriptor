@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function get_wchan unsigned long | p struct task_struct *

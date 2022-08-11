@@ -1,0 +1,4 @@
+struct pl330_thread | id int | dmac struct pl330_dmac * 
+struct TYPE_2__ | num_events int 
+struct pl330_dmac | events int * | pcfg struct TYPE_2__ 
+function _alloc_event int | thrd struct pl330_thread *

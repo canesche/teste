@@ -1,0 +1,4 @@
+struct server | dummy int 
+struct context | dummy int 
+struct conn | dummy int 
+function memcache_post_connect void | ctx struct context * | conn struct conn * | server struct server *

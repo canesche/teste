@@ -1,0 +1,2 @@
+struct clk | dummy int 
+function clk_set_parent int | clk struct clk * | parent struct clk *

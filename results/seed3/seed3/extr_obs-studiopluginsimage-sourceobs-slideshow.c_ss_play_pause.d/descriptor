@@ -1,0 +1,2 @@
+struct slideshow | paused int | manual int 
+function ss_play_pause void | data void *

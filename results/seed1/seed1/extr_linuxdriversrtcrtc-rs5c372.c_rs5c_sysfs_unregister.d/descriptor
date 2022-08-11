@@ -1,0 +1,2 @@
+struct device | dummy int 
+function rs5c_sysfs_unregister void | dev struct device *

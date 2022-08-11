@@ -1,2 +1,0 @@
-struct request_queue | dummy int 
-function wbt_set_min_lat void | q struct request_queue * | val int

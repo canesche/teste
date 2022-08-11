@@ -1,4 +1,0 @@
-struct kvm_device | kvm struct TYPE_4__ * 
-struct TYPE_3__ | flic struct kvm_device * 
-struct TYPE_4__ | arch struct TYPE_3__ 
-function flic_create int | dev struct kvm_device * | type int

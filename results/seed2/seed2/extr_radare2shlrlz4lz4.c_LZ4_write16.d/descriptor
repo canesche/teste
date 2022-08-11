@@ -1,0 +1,2 @@
+struct TYPE_2__ | u16 int 
+function LZ4_write16 void | memPtr void * | value int

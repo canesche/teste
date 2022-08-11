@@ -1,0 +1,2 @@
+struct inode | i_blkbits int 
+function blk_to_logical int | inode struct inode * | blk int

@@ -1,0 +1,2 @@
+struct mtk_eint | dummy int 
+function mtk_eint_find_irq int | eint struct mtk_eint * | eint_n unsigned long

@@ -1,0 +1,2 @@
+struct TYPE_3__ | sched_flags int 
+function thread_should_abort int | th struct TYPE_3__ *

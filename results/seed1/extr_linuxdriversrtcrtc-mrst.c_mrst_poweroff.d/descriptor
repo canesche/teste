@@ -1,2 +1,0 @@
-struct device | dummy int 
-function mrst_poweroff int | dev struct device *

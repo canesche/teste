@@ -1,0 +1,3 @@
+struct TYPE_4__ | str long | len long 
+struct TYPE_5__ | id struct TYPE_4__ 
+function XMLRPC_GetValueID const char * | value struct TYPE_5__ *

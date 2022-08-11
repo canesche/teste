@@ -1,2 +1,0 @@
-struct osd_dev | scsi_device int * 
-function osd_dev_fini void | osdd struct osd_dev *

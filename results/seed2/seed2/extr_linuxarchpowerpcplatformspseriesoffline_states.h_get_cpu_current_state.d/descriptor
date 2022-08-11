@@ -1,0 +1,1 @@
+function get_cpu_current_state enum cpu_state_vals | cpu int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversstagingrtl8712rtl871x_mlme.c_r8712_wpspbc_event_callback.d/extr_linuxdriversstagingrtl8712rtl871x_mlme.c_r8712_wpspbc_event_callback_O0::r8712_wpspbc_event_callback(64)"
+  }
+]

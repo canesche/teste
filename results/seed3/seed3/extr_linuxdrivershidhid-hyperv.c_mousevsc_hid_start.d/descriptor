@@ -1,0 +1,2 @@
+struct hid_device | dummy int 
+function mousevsc_hid_start int | hid struct hid_device *

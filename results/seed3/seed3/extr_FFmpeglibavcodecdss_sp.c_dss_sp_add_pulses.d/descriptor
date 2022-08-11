@@ -1,0 +1,2 @@
+struct DssSpSubframe | pulse_pos unsigned long * | gain unsigned long | pulse_val unsigned long * 
+function dss_sp_add_pulses void | vector_buf int * | sf const struct DssSpSubframe *

@@ -1,0 +1,1 @@
+function ff_acelp_fc_pulse_per_track void | fc_v int * | tab1 const int * | tab2 const int * | pulse_indexes int | pulse_signs int | pulse_count int | bits int

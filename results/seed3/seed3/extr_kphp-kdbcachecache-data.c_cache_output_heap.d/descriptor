@@ -1,0 +1,5 @@
+struct cache_uri | data int * 
+struct amortization_counter | value int 
+struct TYPE_5__ | flags int | min_rate int | real_min_rate int | heap_acounter_off unsigned long | cnt int | disk_filter int * | heap struct TYPE_6__ * 
+struct TYPE_6__ | H struct cache_uri ** 
+function cache_output_heap int | R struct TYPE_5__ * | heap struct TYPE_6__ * | cnt int | flags int | min_rate int

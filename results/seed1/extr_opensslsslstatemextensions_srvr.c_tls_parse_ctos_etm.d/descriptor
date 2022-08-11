@@ -1,3 +1,0 @@
-struct TYPE_4__ | use_etm int 
-struct TYPE_5__ | options int | ext struct TYPE_4__ 
-function tls_parse_ctos_etm int | s struct TYPE_5__ * | pkt int * | context unsigned int | x int * | chainidx unsigned long

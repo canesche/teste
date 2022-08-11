@@ -1,0 +1,1 @@
+function mknod int | pathname const char * | mode int | dev int

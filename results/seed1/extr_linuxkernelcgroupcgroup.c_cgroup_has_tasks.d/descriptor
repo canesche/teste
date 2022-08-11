@@ -1,2 +1,0 @@
-struct cgroup | nr_populated_csets int 
-function cgroup_has_tasks int | cgrp struct cgroup *

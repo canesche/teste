@@ -1,0 +1,2 @@
+struct mlxsw_tx_info | dummy int 
+function mlxsw_i2c_skb_transmit_busy int | bus_priv void * | tx_info const struct mlxsw_tx_info *

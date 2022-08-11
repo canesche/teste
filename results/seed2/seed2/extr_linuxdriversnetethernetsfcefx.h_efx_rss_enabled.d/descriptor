@@ -1,0 +1,2 @@
+struct efx_nic | rss_spread int 
+function efx_rss_enabled int | efx struct efx_nic *

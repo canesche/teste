@@ -1,0 +1,2 @@
+struct TYPE_2__ | psa_apptype int 
+function posix_spawnattr_getprocesstype_np int | attr int *const *__restrict | proctype int *__restrict

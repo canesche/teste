@@ -1,0 +1,1 @@
+function LM93_PWM_FROM_REG int | reg int | freq enum pwm_freq

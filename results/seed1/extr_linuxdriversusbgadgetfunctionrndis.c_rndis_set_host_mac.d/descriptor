@@ -1,2 +1,0 @@
-struct rndis_params | host_mac const int * 
-function rndis_set_host_mac void | params struct rndis_params * | addr const int *

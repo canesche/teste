@@ -1,0 +1,4 @@
+struct TYPE_7__ | dtpr_provider struct TYPE_5__ * 
+struct TYPE_6__ | dtpp_flags int | dtpp_uid long | dtpp_zoneid long 
+struct TYPE_5__ | dtpv_priv struct TYPE_6__ 
+function dtrace_match_priv int | prp const struct TYPE_7__ * | priv int | uid long | zoneid long

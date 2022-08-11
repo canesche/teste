@@ -1,0 +1,2 @@
+struct TYPE_2__ | n_uris int | uris const char ** 
+function uri_table_unmap const char * | handle long | urid int

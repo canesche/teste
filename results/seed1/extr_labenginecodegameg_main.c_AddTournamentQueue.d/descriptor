@@ -1,5 +1,0 @@
-struct TYPE_7__ | sessionTeam long | spectatorNum long 
-struct TYPE_6__ | connected long 
-struct TYPE_8__ | sess struct TYPE_7__ | pers struct TYPE_6__ 
-struct TYPE_9__ | maxclients int | clients struct TYPE_8__ * 
-function AddTournamentQueue void | client struct TYPE_8__ *

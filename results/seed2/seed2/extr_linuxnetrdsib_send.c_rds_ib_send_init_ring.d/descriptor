@@ -1,0 +1,9 @@
+struct TYPE_6__ | imm_data long 
+struct TYPE_7__ | wr_id int | ex struct TYPE_6__ | sg_list struct ib_sge * 
+struct rds_ib_send_work | s_sge struct ib_sge * | s_wr struct TYPE_7__ | s_op int * 
+struct TYPE_5__ | w_nr int 
+struct rds_ib_connection | i_pd struct TYPE_8__ * | i_send_hdrs_dma long | i_send_ring struct TYPE_5__ | i_sends struct rds_ib_send_work * 
+struct rds_header | dummy int 
+struct ib_sge | length int | lkey int | addr long 
+struct TYPE_8__ | local_dma_lkey int 
+function rds_ib_send_init_ring void | ic struct rds_ib_connection *

@@ -1,0 +1,2 @@
+struct clist | c_cc long | c_cl int * | c_cs int * | c_ce int * | c_cf int * | c_cq long * 
+function unputc int | clp struct clist *

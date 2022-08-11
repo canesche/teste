@@ -1,2 +1,0 @@
-struct snd_soc_component | dummy int 
-function wm8962_free_gpio void | component struct snd_soc_component *

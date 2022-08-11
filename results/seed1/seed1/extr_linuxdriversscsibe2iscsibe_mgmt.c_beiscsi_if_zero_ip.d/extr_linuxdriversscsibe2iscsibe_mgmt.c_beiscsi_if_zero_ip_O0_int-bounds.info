@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversscsibe2iscsibe_mgmt.c_beiscsi_if_zero_ip.d/extr_linuxdriversscsibe2iscsibe_mgmt.c_beiscsi_if_zero_ip_O0::beiscsi_if_zero_ip(65)"
+  }
+]

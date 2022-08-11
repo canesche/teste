@@ -1,9 +1,0 @@
-struct pp_hwmgr | chip_id long | adev struct amdgpu_device * | pptable long 
-struct phm_ppt_v1_voltage_lookup_table | count int | entries struct TYPE_5__ * 
-struct phm_ppt_v1_information | vddc_lookup_table struct phm_ppt_v1_voltage_lookup_table * | vdd_dep_on_mclk struct phm_ppt_v1_clock_voltage_dependency_table * 
-struct phm_ppt_v1_clock_voltage_dependency_table | count int | entries struct TYPE_6__ * 
-struct amdgpu_device | pdev struct TYPE_4__ * 
-struct TYPE_6__ | vddInd unsigned long 
-struct TYPE_5__ | us_vdd int 
-struct TYPE_4__ | revision int | subsystem_device int | subsystem_vendor int 
-function smu7_patch_voltage_workaround int | hwmgr struct pp_hwmgr *

@@ -1,0 +1,4 @@
+struct TYPE_5__ | ExtKey int | Key int 
+struct TYPE_7__ | scancode int | equiv int 
+struct TYPE_6__ | scancode int | equiv int 
+function uiprivFromScancode int | scancode unsigned long | ke struct TYPE_5__ *

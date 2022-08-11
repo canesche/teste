@@ -1,3 +1,0 @@
-struct ttm_tt | dummy int 
-struct amdgpu_ttm_tt | userflags int 
-function amdgpu_ttm_tt_is_readonly int | ttm struct ttm_tt *

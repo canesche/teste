@@ -1,2 +1,0 @@
-struct netlink_callback | dummy int 
-function crypto_dump_report_done int | cb struct netlink_callback *

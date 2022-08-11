@@ -1,2 +1,0 @@
-struct uart_port | dummy int 
-function lqasc_break_ctl void | port struct uart_port * | break_state int

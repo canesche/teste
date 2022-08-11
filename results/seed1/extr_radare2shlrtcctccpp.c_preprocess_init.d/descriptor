@@ -1,3 +1,0 @@
-struct TYPE_5__ | ifdef_stack_ptr int 
-struct TYPE_4__ | pack_stack long * | pack_stack_ptr long * | ifdef_stack_ptr int | ifdef_stack int | include_stack int | include_stack_ptr int 
-function preprocess_init void | s1 struct TYPE_4__ *

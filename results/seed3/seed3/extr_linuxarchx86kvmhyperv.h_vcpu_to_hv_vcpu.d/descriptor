@@ -1,0 +1,4 @@
+struct kvm_vcpu_hv | dummy int 
+struct TYPE_2__ | hyperv struct kvm_vcpu_hv 
+struct kvm_vcpu | arch struct TYPE_2__ 
+function vcpu_to_hv_vcpu struct kvm_vcpu_hv * | vcpu struct kvm_vcpu *

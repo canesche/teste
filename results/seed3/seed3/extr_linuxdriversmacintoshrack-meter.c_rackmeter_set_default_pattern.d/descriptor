@@ -1,0 +1,2 @@
+struct rackmeter | ubuf int * 
+function rackmeter_set_default_pattern void | rm struct rackmeter *

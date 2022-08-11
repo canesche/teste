@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxfsnfsnfs3_fs.h_nfs3_proc_setacls.d/extr_linuxfsnfsnfs3_fs.h_nfs3_proc_setacls_O0::nfs3_proc_setacls(63)"
+  }
+]

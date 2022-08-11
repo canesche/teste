@@ -1,0 +1,2 @@
+struct rtsx_chip | dummy int 
+function rtsx_manage_2lun_mode void | chip struct rtsx_chip *

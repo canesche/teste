@@ -1,0 +1,2 @@
+struct TYPE_3__ | problem const char * | problem_offset unsigned long | problem_value int | error int 
+function yaml_parser_set_reader_error int | parser struct TYPE_3__ * | problem const char * | offset unsigned long | value int

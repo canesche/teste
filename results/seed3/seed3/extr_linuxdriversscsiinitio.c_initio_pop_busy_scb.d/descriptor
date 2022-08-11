@@ -1,0 +1,4 @@
+struct scsi_ctrl_blk | target unsigned long | tagmsg long | next struct scsi_ctrl_blk * 
+struct initio_host | targets struct TYPE_2__ * | act_tags int * | last_busy int * | first_busy struct scsi_ctrl_blk * 
+struct TYPE_2__ | flags int 
+function initio_pop_busy_scb struct scsi_ctrl_blk * | host struct initio_host *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessbroadcomb43legacyradio.c_b43legacy_default_txctl1.d/extr_linuxdriversnetwirelessbroadcomb43legacyradio.c_b43legacy_default_txctl1_O0::b43legacy_default_txctl1(63)"
+  }
+]

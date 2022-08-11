@@ -1,0 +1,4 @@
+struct mount | mnt_ns long 
+struct TYPE_4__ | nsproxy struct TYPE_3__ * 
+struct TYPE_3__ | mnt_ns long 
+function check_mnt int | mnt struct mount *

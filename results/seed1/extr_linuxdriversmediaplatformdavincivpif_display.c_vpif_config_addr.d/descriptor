@@ -1,3 +1,0 @@
-struct common_obj | set_addr int 
-struct channel_obj | channel_id long | common struct common_obj * 
-function vpif_config_addr void | ch struct channel_obj * | muxmode int

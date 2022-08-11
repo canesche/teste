@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsoundpciice1712se.c_se200pci_WM8776_set_pro_rate.d/extr_linuxsoundpciice1712se.c_se200pci_WM8776_set_pro_rate_O0::se200pci_WM8776_set_pro_rate(62)"
+  }
+]

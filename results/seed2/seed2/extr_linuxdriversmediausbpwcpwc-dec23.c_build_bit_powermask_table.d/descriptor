@@ -1,0 +1,2 @@
+struct pwc_dec23_private | table_bitpowermask unsigned char ** 
+function build_bit_powermask_table void | pdec struct pwc_dec23_private *

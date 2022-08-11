@@ -1,0 +1,3 @@
+struct TYPE_2__ | fragment_size unsigned int 
+struct wm_adsp_compr | size struct TYPE_2__ 
+function wm_adsp_compr_frag_words unsigned int | compr struct wm_adsp_compr *

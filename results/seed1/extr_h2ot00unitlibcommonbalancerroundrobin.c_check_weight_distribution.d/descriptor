@@ -1,5 +1,0 @@
-struct TYPE_9__ | size unsigned long | entries struct TYPE_8__ ** 
-struct TYPE_7__ | weight_m1 long 
-struct TYPE_6__ | leased_count unsigned int 
-struct TYPE_8__ | conf struct TYPE_7__ | _shared struct TYPE_6__ 
-function check_weight_distribution int | targets struct TYPE_9__ *

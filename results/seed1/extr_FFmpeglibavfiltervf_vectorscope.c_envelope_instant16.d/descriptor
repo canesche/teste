@@ -1,3 +1,0 @@
-struct TYPE_5__ | mode long | pd unsigned long | size int | is_yuv int 
-struct TYPE_6__ | linesize int * | height int | width int | data long * 
-function envelope_instant16 void | s struct TYPE_5__ * | out struct TYPE_6__ *

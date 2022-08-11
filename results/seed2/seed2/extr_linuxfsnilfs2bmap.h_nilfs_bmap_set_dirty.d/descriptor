@@ -1,0 +1,2 @@
+struct nilfs_bmap | b_state int 
+function nilfs_bmap_set_dirty void | bmap struct nilfs_bmap *

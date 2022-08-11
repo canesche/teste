@@ -1,0 +1,2 @@
+struct TYPE_3__ | start_scrolled_by int | end_scrolled_by int | start_x long | end_x long | start_y long | end_y long 
+function selection_has_screen_line int | s struct TYPE_3__ * | y int

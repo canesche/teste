@@ -1,0 +1,4 @@
+struct dc_dongle_caps | dongle_type long | extendedCapValid int | dp_hdmi_max_bpc int | dp_hdmi_max_pixel_clk unsigned int | is_dp_hdmi_ycbcr420_pass_through int | is_dp_hdmi_ycbcr422_pass_through int 
+struct dpcd_caps | dongle_type int | dongle_caps struct dc_dongle_caps 
+struct dc_crtc_timing | pix_clk_khz unsigned int | pixel_encoding int | display_color_depth int 
+function dp_active_dongle_validate_timing int | timing const struct dc_crtc_timing * | dpcd_caps const struct dpcd_caps *

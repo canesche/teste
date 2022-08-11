@@ -1,0 +1,1 @@
+function btrfs_inode_flags_to_fsflags unsigned int | flags unsigned int

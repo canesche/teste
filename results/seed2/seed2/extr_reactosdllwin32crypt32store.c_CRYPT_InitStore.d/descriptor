@@ -1,0 +1,2 @@
+struct TYPE_3__ | ref int | properties int * | vtbl const int * | dwOpenFlags int | type int | dwMagic int 
+function CRYPT_InitStore void | store struct TYPE_3__ * | dwFlags int | type int | vtbl const int *

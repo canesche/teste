@@ -1,0 +1,4 @@
+struct tegra_mc_reset | id unsigned long 
+struct tegra_mc | soc struct TYPE_2__ * 
+struct TYPE_2__ | num_resets unsigned int | resets const struct tegra_mc_reset * 
+function tegra_mc_reset_find const struct tegra_mc_reset * | mc struct tegra_mc * | id unsigned long

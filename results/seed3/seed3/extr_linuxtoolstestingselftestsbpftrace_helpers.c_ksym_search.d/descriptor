@@ -1,0 +1,2 @@
+struct ksym | addr long 
+function ksym_search struct ksym * | key long

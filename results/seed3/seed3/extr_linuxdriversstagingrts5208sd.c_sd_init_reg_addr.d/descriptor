@@ -1,0 +1,2 @@
+struct rtsx_chip | dummy int 
+function sd_init_reg_addr void | chip struct rtsx_chip *

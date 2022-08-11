@@ -1,0 +1,2 @@
+struct amdgpu_device | dummy int 
+function emu_soc_asic_init int | adev struct amdgpu_device *

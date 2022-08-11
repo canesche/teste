@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversparportparport_amiga.c_status_amiga_to_pc.d/extr_linuxdriversparportparport_amiga.c_status_amiga_to_pc_O0::status_amiga_to_pc(65)"
+  }
+]

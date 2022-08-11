@@ -1,0 +1,7 @@
+struct TYPE_10__ | got long 
+struct TYPE_9__ | got long 
+struct TYPE_8__ | got long 
+struct TYPE_7__ | got long 
+struct TYPE_6__ | got long 
+struct insn | immediate struct TYPE_10__ | displacement struct TYPE_9__ | sib struct TYPE_8__ | modrm struct TYPE_7__ | opcode struct TYPE_6__ 
+function insn_complete int | insn struct insn *

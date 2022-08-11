@@ -1,0 +1,2 @@
+struct bitmap | word_alloc unsigned long | words int * 
+function bitmap_and_not void | self struct bitmap * | other struct bitmap *

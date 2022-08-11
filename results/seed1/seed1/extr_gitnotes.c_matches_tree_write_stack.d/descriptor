@@ -1,0 +1,2 @@
+struct tree_write_stack | path const char * 
+function matches_tree_write_stack int | tws struct tree_write_stack * | full_path const char *

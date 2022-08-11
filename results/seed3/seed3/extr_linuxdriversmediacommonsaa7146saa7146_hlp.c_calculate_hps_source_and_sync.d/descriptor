@@ -1,0 +1,2 @@
+struct saa7146_dev | dummy int 
+function calculate_hps_source_and_sync void | dev struct saa7146_dev * | source int | sync int | hps_ctrl int *

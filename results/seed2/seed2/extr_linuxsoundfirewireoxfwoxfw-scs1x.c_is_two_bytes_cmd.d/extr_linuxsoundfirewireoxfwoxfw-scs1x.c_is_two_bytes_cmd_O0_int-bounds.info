@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxsoundfirewireoxfwoxfw-scs1x.c_is_two_bytes_cmd.d/extr_linuxsoundfirewireoxfwoxfw-scs1x.c_is_two_bytes_cmd_O0::is_two_bytes_cmd(61)"
+  }
+]

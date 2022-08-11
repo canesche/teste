@@ -1,0 +1,2 @@
+struct drbd_device | dummy int 
+function drbd_queue_order_type int | device struct drbd_device *

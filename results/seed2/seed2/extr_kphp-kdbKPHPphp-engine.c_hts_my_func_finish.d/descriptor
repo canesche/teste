@@ -1,0 +1,2 @@
+struct connection | dummy int 
+function hts_my_func_finish void | c struct connection *

@@ -1,0 +1,3 @@
+struct usb_hcd | hcd_priv long 
+struct isp1362_hcd | dummy int 
+function hcd_to_isp1362_hcd struct isp1362_hcd * | hcd struct usb_hcd *

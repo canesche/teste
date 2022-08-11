@@ -1,2 +1,0 @@
-struct btrfs_qgroup | dummy int 
-function qgroup_to_aux int | qg struct btrfs_qgroup *

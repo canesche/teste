@@ -1,3 +1,0 @@
-struct seq_file | dummy int 
-struct btc_coexist | dummy int 
-function halbtc_display_bt_link_info void | btcoexist struct btc_coexist * | m struct seq_file *

@@ -1,2 +1,0 @@
-struct file | f_pos int 
-function file_pos_read int | file struct file *

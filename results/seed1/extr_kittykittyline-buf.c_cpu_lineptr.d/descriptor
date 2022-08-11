@@ -1,2 +1,0 @@
-struct TYPE_3__ | xnum int | cpu_cell_buf int * 
-function cpu_lineptr int * | linebuf struct TYPE_3__ * | y int

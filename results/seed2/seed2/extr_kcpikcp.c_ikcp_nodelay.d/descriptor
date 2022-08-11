@@ -1,0 +1,2 @@
+struct TYPE_3__ | nodelay int | interval int | fastresend int | nocwnd int | rx_minrto int 
+function ikcp_nodelay int | kcp struct TYPE_3__ * | nodelay int | interval int | resend int | nc int

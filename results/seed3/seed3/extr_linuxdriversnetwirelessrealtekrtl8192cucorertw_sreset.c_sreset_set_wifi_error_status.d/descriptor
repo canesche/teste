@@ -1,0 +1,1 @@
+function sreset_set_wifi_error_status void | padapter int * | status int

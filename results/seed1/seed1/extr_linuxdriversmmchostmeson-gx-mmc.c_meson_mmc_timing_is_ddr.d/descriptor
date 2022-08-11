@@ -1,0 +1,2 @@
+struct mmc_ios | timing long 
+function meson_mmc_timing_is_ddr int | ios struct mmc_ios *

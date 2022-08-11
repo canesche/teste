@@ -1,0 +1,2 @@
+struct neighbour | nud_state int 
+function arp_state_to_flags unsigned int | neigh struct neighbour *

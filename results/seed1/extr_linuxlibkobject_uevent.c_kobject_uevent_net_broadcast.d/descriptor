@@ -1,3 +1,0 @@
-struct kobject | dummy int 
-struct kobj_uevent_env | dummy int 
-function kobject_uevent_net_broadcast int | kobj struct kobject * | env struct kobj_uevent_env * | action_string const char * | devpath const char *

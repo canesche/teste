@@ -1,2 +1,0 @@
-struct debug_priv | dbg_rx_ampdu_loss_count int 
-function recv_indicatepkts_pkt_loss_cnt void | pdbgpriv struct debug_priv * | prev_seq long | current_seq long

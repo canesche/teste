@@ -1,2 +1,0 @@
-struct cnic_local | max_kwq_idx int | kwq_prod_idx int | kwq_con_idx int 
-function cnic_kwq_avail int | cp struct cnic_local *

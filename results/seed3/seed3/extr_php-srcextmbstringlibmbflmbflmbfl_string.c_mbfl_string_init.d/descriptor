@@ -1,0 +1,2 @@
+struct TYPE_3__ | val unsigned char * | len long | encoding int * | no_language int 
+function mbfl_string_init void | string struct TYPE_3__ *

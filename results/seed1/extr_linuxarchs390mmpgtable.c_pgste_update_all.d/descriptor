@@ -1,2 +1,0 @@
-struct mm_struct | dummy int 
-function pgste_update_all int | pte int | pgste int | mm struct mm_struct *

@@ -1,0 +1,2 @@
+struct menu | help const char * 
+function menu_get_help const char * | menu struct menu *

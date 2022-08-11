@@ -1,0 +1,1 @@
+function xs_pktdump void | msg char * | packet int * | count unsigned int

@@ -1,4 +1,0 @@
-struct TYPE_4__ | otg struct TYPE_3__ * 
-struct tahvo_usb | phy struct TYPE_4__ 
-struct TYPE_3__ | state int 
-function tahvo_usb_stop_host void | tu struct tahvo_usb *

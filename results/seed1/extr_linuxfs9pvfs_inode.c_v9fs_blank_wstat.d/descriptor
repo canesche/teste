@@ -1,3 +1,0 @@
-struct TYPE_2__ | path int | version int | type int 
-struct p9_wstat | extension int * | n_muid void * | n_gid int | n_uid void * | muid int * | gid int * | uid int * | name int * | length int | mtime int | atime int | mode int | qid struct TYPE_2__ | dev int | type int 
-function v9fs_blank_wstat void | wstat struct p9_wstat *

@@ -1,0 +1,4 @@
+struct TYPE_6__ | y int | x int 
+struct TYPE_5__ | y int | x int 
+struct TYPE_7__ | up struct TYPE_6__ | to struct TYPE_5__ 
+function get_block_size int | b const struct TYPE_7__ *

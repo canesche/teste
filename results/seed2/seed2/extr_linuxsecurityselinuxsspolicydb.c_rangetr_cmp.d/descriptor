@@ -1,0 +1,3 @@
+struct range_trans | source_type int | target_type int | target_class int 
+struct hashtab | dummy int 
+function rangetr_cmp int | h struct hashtab * | k1 const void * | k2 const void *

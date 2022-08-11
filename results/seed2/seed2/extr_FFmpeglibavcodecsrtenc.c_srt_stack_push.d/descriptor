@@ -1,0 +1,2 @@
+struct TYPE_3__ | stack_ptr long | stack char * 
+function srt_stack_push int | s struct TYPE_3__ * | c const char

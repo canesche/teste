@@ -1,0 +1,2 @@
+struct mtd_partition | name const char * | mask_flags int | offset int 
+function bcm47xxpart_add_part void | part struct mtd_partition * | name const char * | offset int | mask_flags int

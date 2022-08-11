@@ -1,0 +1,2 @@
+struct arm_pmu | dummy int 
+function cpu_pm_pmu_unregister void | cpu_pmu struct arm_pmu *

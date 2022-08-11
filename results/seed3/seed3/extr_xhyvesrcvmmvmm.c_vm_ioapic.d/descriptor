@@ -1,0 +1,3 @@
+struct vm | vioapic struct vioapic * 
+struct vioapic | dummy int 
+function vm_ioapic struct vioapic * | vm struct vm *

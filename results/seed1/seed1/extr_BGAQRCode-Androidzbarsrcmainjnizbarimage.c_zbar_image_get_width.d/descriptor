@@ -1,0 +1,2 @@
+struct TYPE_3__ | width int 
+function zbar_image_get_width unsigned int | img const struct TYPE_3__ *

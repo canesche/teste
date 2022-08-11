@@ -1,0 +1,4 @@
+struct TYPE_2__ | roles int 
+struct fc_rport_priv | ids struct TYPE_2__ 
+struct fc_lport | service_params int 
+function fc_rport_compatible_roles int | lport struct fc_lport * | rdata struct fc_rport_priv *

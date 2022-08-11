@@ -1,2 +1,0 @@
-struct blk_integrity_iter | dummy int 
-function blk_integrity_nop_fn int | iter struct blk_integrity_iter *

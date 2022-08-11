@@ -1,2 +1,0 @@
-struct cpuinfo_x86 | dummy int 
-function detect_ht void | c struct cpuinfo_x86 *

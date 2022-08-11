@@ -1,0 +1,1 @@
+function crc16 int | crc int | buf const int * | len unsigned long

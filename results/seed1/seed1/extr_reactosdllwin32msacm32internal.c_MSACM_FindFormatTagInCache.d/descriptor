@@ -1,0 +1,3 @@
+struct TYPE_5__ | cFormatTags unsigned int | aFormatTag struct TYPE_4__ * 
+struct TYPE_4__ | dwFormatTag long 
+function MSACM_FindFormatTagInCache int | padid const struct TYPE_5__ * | fmtTag long | idx unsigned int *

@@ -1,0 +1,2 @@
+struct dsp_image_seg | count int 
+function dsp_sizeof unsigned long | p const struct dsp_image_seg *

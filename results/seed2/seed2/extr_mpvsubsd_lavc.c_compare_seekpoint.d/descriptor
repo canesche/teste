@@ -1,0 +1,2 @@
+struct seekpoint | pts long 
+function compare_seekpoint int | pa const void * | pb const void *

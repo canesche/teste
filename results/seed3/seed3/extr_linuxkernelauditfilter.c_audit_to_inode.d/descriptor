@@ -1,0 +1,3 @@
+struct audit_krule | listnr long | inode_f struct audit_field * | tree long | watch long 
+struct audit_field | op long 
+function audit_to_inode int | krule struct audit_krule * | f struct audit_field *

@@ -1,0 +1,2 @@
+struct vm_area_struct | dummy int 
+function r3k_flush_cache_range void | vma struct vm_area_struct * | start unsigned long | end unsigned long

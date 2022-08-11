@@ -1,2 +1,0 @@
-struct maple_device | unit int | port unsigned long 
-function maple_clean_submap void | mdev struct maple_device *

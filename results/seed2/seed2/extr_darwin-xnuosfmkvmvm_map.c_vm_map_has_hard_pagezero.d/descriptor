@@ -1,0 +1,2 @@
+struct TYPE_3__ | min_offset long 
+function vm_map_has_hard_pagezero int | map struct TYPE_3__ * | pagezero_size long

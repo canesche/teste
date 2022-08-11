@@ -1,0 +1,3 @@
+struct kobject | dummy int 
+struct cdev | kobj struct kobject 
+function exact_match struct kobject * | dev int | part int * | data void *

@@ -1,0 +1,3 @@
+struct queue_entry | skb struct TYPE_2__ * 
+struct TYPE_2__ | data long 
+function rt2800mmio_get_txwi int * | entry struct queue_entry *

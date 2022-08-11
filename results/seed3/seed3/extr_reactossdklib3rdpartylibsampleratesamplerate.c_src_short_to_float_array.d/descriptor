@@ -1,0 +1,1 @@
+function src_short_to_float_array void | in const short * | out float * | len int

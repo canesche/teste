@@ -1,0 +1,2 @@
+struct graph_symbol | shift_left long | matches_commit long | below_commit long | new_column long | continued_up long | continue_shift long | continued_down int | continued_right long 
+function graph_symbol_turn_left int | symbol const struct graph_symbol *

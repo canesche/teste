@@ -1,0 +1,3 @@
+struct TYPE_5__ | plane struct TYPE_4__ * 
+struct TYPE_4__ | available_lines int | sliceY int | sliceH int 
+function ff_rotate_slice int | s struct TYPE_5__ * | lum int | chr int

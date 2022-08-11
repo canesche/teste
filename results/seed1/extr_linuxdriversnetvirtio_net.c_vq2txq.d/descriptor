@@ -1,2 +1,0 @@
-struct virtqueue | index int 
-function vq2txq int | vq struct virtqueue *

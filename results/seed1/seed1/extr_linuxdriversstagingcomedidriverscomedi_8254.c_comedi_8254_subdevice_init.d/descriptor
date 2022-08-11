@@ -1,0 +1,3 @@
+struct comedi_subdevice | subdev_flags int | n_chan int | maxdata int | private struct comedi_8254 * | insn_config int | insn_write int | insn_read int | range_table int * | type int 
+struct comedi_8254 | dummy int 
+function comedi_8254_subdevice_init void | s struct comedi_subdevice * | i8254 struct comedi_8254 *

@@ -1,0 +1,2 @@
+struct pinctrl_dev | dummy int 
+function wmt_pmx_get_functions_count int | pctldev struct pinctrl_dev *

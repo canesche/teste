@@ -1,0 +1,3 @@
+struct net | dummy int 
+struct inet6_dev | dummy int 
+function ipv6_use_optimistic_addr int | net struct net * | idev struct inet6_dev *

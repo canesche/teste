@@ -1,0 +1,2 @@
+struct vertex_metadata | key long 
+function compare_vertex_keys int | a const void * | b const void *

@@ -1,0 +1,2 @@
+struct si2165_state | adc_clk int 
+function si2165_get_fe_clk int | state struct si2165_state *

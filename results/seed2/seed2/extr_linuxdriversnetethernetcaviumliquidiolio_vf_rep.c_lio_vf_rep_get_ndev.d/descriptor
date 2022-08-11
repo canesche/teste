@@ -1,0 +1,4 @@
+struct TYPE_2__ | ndev struct net_device ** 
+struct octeon_device | pf_num int | vf_rep_list struct TYPE_2__ 
+struct net_device | dummy int 
+function lio_vf_rep_get_ndev struct net_device * | oct struct octeon_device * | ifidx int

@@ -1,0 +1,4 @@
+struct TYPE_2__ | clock int | hAct_high int | vAct_high int | valid int | pwr_delay int | vblank long | vSync_width long | vOver_plus long | hblank long | hSync_width long | hOver_plus long | yres int | xres int 
+struct radeonfb_info | panel_info struct TYPE_2__ 
+struct fb_var_screeninfo | pixclock int | sync int | vsync_len long | lower_margin long | upper_margin long | hsync_len long | right_margin long | left_margin long | yres int | xres int 
+function radeon_var_to_panel_info void | rinfo struct radeonfb_info * | var struct fb_var_screeninfo *

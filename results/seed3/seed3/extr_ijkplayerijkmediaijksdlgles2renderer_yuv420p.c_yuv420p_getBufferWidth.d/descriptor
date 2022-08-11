@@ -1,0 +1,2 @@
+struct TYPE_3__ | pitches int * 
+function yuv420p_getBufferWidth int | renderer int * | overlay struct TYPE_3__ *

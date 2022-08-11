@@ -1,0 +1,2 @@
+struct nvme_queue | cq_head int | q_depth int | cq_phase int 
+function nvme_update_cq_head void | nvmeq struct nvme_queue *

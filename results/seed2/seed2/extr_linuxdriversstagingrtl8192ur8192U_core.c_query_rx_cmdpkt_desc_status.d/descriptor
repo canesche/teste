@@ -1,0 +1,4 @@
+struct sk_buff | data long 
+struct rx_desc_819x_usb | Length long 
+struct ieee80211_rx_stats | ntotalfrag int | fragoffset long | packetlength long | fraglength long | Length long | RxBufShift long | RxDrvInfoSize long | virtual_address int * 
+function query_rx_cmdpkt_desc_status void | skb struct sk_buff * | stats struct ieee80211_rx_stats *

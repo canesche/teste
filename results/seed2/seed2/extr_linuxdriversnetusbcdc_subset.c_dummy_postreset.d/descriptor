@@ -1,0 +1,2 @@
+struct usb_interface | dummy int 
+function dummy_postreset int | intf struct usb_interface *

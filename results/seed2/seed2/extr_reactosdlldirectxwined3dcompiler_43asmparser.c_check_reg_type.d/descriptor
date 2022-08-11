@@ -1,0 +1,3 @@
+struct shader_reg | type unsigned int | regnum long | rel_reg long 
+struct allowed_reg_type | type unsigned int | count long | reladdr long 
+function check_reg_type int | reg const struct shader_reg * | allowed const struct allowed_reg_type *

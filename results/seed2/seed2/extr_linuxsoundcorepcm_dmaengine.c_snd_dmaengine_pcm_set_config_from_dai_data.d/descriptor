@@ -1,0 +1,4 @@
+struct snd_pcm_substream | stream long 
+struct snd_dmaengine_dai_dma_data | flags int | addr_width long | slave_id int | maxburst int | addr int 
+struct dma_slave_config | dst_addr_width long | src_addr_width long | slave_id int | src_maxburst int | src_addr int | dst_maxburst int | dst_addr int 
+function snd_dmaengine_pcm_set_config_from_dai_data void | substream const struct snd_pcm_substream * | dma_data const struct snd_dmaengine_dai_dma_data * | slave_config struct dma_slave_config *

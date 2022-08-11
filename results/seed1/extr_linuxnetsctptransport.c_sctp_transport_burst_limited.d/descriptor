@@ -1,3 +1,0 @@
-struct sctp_transport | cwnd long | flight_size long | burst_limited long | asoc struct sctp_association * 
-struct sctp_association | max_burst int | pathmtu int 
-function sctp_transport_burst_limited void | t struct sctp_transport *

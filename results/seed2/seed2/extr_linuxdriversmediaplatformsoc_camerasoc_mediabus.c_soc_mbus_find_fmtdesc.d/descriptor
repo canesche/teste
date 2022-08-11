@@ -1,0 +1,3 @@
+struct soc_mbus_pixelfmt | dummy int 
+struct soc_mbus_lookup | code long | fmt const struct soc_mbus_pixelfmt 
+function soc_mbus_find_fmtdesc const struct soc_mbus_pixelfmt * | code long | lookup const struct soc_mbus_lookup * | n int

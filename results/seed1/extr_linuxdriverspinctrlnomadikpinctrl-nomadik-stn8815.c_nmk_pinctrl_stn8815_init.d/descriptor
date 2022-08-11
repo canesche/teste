@@ -1,2 +1,0 @@
-struct nmk_pinctrl_soc_data | dummy int 
-function nmk_pinctrl_stn8815_init void | soc const struct nmk_pinctrl_soc_data **

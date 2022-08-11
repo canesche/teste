@@ -1,0 +1,23 @@
+struct kobject | dummy int 
+struct attribute | dummy int 
+struct TYPE_40__ | attr struct attribute 
+struct TYPE_39__ | attr struct attribute 
+struct TYPE_38__ | attr struct attribute 
+struct TYPE_37__ | attr struct attribute 
+struct TYPE_36__ | attr struct attribute 
+struct TYPE_35__ | attr struct attribute 
+struct TYPE_34__ | attr struct attribute 
+struct TYPE_33__ | attr struct attribute 
+struct TYPE_31__ | attr struct attribute 
+struct TYPE_32__ | dev_attr struct TYPE_31__ 
+struct TYPE_30__ | dev_attr struct TYPE_37__ 
+struct TYPE_29__ | dev_attr struct TYPE_33__ 
+struct TYPE_28__ | dev_attr struct TYPE_38__ 
+struct TYPE_27__ | dev_attr struct TYPE_34__ 
+struct TYPE_26__ | dev_attr struct TYPE_39__ 
+struct TYPE_25__ | dev_attr struct TYPE_35__ 
+struct TYPE_24__ | dev_attr struct TYPE_40__ 
+struct TYPE_23__ | dev_attr struct TYPE_36__ 
+struct TYPE_21__ | attr struct attribute 
+struct TYPE_22__ | dev_attr struct TYPE_21__ 
+function max1668_attribute_mode int | kobj struct kobject * | attr struct attribute * | index int

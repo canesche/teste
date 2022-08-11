@@ -1,0 +1,2 @@
+struct task_rename | dummy int 
+function prog int | ctx struct task_rename *

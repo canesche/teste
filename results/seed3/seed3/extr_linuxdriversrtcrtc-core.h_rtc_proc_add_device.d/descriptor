@@ -1,0 +1,2 @@
+struct rtc_device | dummy int 
+function rtc_proc_add_device void | rtc struct rtc_device *

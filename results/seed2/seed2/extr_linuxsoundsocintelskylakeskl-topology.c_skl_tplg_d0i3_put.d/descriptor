@@ -1,0 +1,4 @@
+struct skl_d0i3_data | non_streaming int | streaming int | non_d0i3 int 
+struct skl | skl_sst struct TYPE_2__ * 
+struct TYPE_2__ | d0i3 struct skl_d0i3_data 
+function skl_tplg_d0i3_put void | skl struct skl * | caps enum d0i3_capability

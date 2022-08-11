@@ -1,0 +1,4 @@
+struct TYPE_2__ | sin6_addr int | sin6_port long | sin6_family int 
+struct sctp_addr | v6 struct TYPE_2__ 
+struct sock | sk_v6_rcv_saddr int 
+function sctp_v6_from_sk void | addr union sctp_addr * | sk struct sock *

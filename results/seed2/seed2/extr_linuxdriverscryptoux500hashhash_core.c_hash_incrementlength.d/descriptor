@@ -1,0 +1,4 @@
+struct TYPE_3__ | low_word long | high_word int 
+struct TYPE_4__ | length struct TYPE_3__ 
+struct hash_req_ctx | state struct TYPE_4__ 
+function hash_incrementlength void | ctx struct hash_req_ctx * | incr long

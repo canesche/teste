@@ -1,0 +1,4 @@
+struct TYPE_4__ | computed int | period_ratio double 
+struct TYPE_3__ | period double 
+struct hist_entry | diff struct TYPE_4__ | stat struct TYPE_3__ 
+function compute_ratio double | he struct hist_entry * | pair struct hist_entry *

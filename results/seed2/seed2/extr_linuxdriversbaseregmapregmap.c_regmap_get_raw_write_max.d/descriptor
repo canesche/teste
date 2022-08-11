@@ -1,0 +1,2 @@
+struct regmap | max_raw_write unsigned long 
+function regmap_get_raw_write_max unsigned long | map struct regmap *

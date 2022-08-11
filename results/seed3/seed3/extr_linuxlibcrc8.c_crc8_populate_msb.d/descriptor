@@ -1,0 +1,1 @@
+function crc8_populate_msb void | table int [CRC8_TABLE_SIZE] | polynomial int

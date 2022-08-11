@@ -1,0 +1,2 @@
+struct hlist_head | dummy int 
+function bsg_dev_idx_hash struct hlist_head * | index int

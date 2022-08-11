@@ -1,2 +1,0 @@
-struct gpmc_timings | cs_on int | cs_rd_off int | cs_wr_off int | adv_on int | adv_rd_off int | adv_wr_off int | we_on int | we_off int | oe_on int | oe_off int | page_burst_access int | access int | rd_cycle int | wr_cycle int | bus_turnaround int | cycle2cycle_delay int | wait_monitoring int | clk_activation int | wr_access int | wr_data_mux_bus int 
-function gpmc_convert_ps_to_ns void | t struct gpmc_timings *

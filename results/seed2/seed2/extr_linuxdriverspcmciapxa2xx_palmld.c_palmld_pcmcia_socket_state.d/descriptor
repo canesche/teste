@@ -1,0 +1,3 @@
+struct soc_pcmcia_socket | dummy int 
+struct pcmcia_state | detect int | vs_3v int | vs_Xv long 
+function palmld_pcmcia_socket_state void | skt struct soc_pcmcia_socket * | state struct pcmcia_state *

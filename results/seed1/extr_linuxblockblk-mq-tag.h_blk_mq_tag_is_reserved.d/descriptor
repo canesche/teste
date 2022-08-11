@@ -1,2 +1,0 @@
-struct blk_mq_tags | nr_reserved_tags unsigned int 
-function blk_mq_tag_is_reserved int | tags struct blk_mq_tags * | tag unsigned int

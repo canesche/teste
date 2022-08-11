@@ -1,0 +1,6 @@
+struct flowidn | daddr int | saddr int 
+struct TYPE_2__ | dn struct flowidn 
+struct flowi | u struct TYPE_2__ 
+struct fib_rule | dummy int 
+struct dn_fib_rule | src int | srcmask int | dst int | dstmask int 
+function dn_fib_rule_match int | rule struct fib_rule * | fl struct flowi * | flags int

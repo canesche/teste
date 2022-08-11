@@ -1,0 +1,2 @@
+struct sge_txq | size int | in_use int 
+function txq_avail unsigned int | tq const struct sge_txq *

@@ -1,2 +1,0 @@
-struct vpdma_dtd | desc_write_addr int 
-function dtd_get_drop_data int | dtd struct vpdma_dtd *

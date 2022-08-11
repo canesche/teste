@@ -1,0 +1,3 @@
+struct zorro_device_id | id long 
+struct zorro_dev | id long 
+function zorro_match_device const struct zorro_device_id * | ids const struct zorro_device_id * | z const struct zorro_dev *

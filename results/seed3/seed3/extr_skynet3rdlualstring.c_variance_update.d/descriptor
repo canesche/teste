@@ -1,0 +1,2 @@
+struct variance | count double | mean double | m2 double 
+function variance_update void | v struct variance * | newValue_ int

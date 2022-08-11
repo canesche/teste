@@ -1,0 +1,2 @@
+struct persistent_gnt | last_used int 
+function persistent_gnt_timeout int | persistent_gnt struct persistent_gnt *

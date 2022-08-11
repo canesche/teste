@@ -1,0 +1,6 @@
+struct TYPE_10__ | mapCount int | mapList struct TYPE_7__ * | gameTypes struct TYPE_6__ * 
+struct TYPE_9__ | integer unsigned long 
+struct TYPE_8__ | integer unsigned long 
+struct TYPE_7__ | typeBits int | active int 
+struct TYPE_6__ | gtEnum int 
+function UI_MapCountByGameType int | singlePlayer long

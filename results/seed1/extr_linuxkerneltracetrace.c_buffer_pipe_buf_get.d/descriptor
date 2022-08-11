@@ -1,4 +1,0 @@
-struct pipe_inode_info | dummy int 
-struct pipe_buffer | private long 
-struct buffer_ref | ref int 
-function buffer_pipe_buf_get void | pipe struct pipe_inode_info * | buf struct pipe_buffer *

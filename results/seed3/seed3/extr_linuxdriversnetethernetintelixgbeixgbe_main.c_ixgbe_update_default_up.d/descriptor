@@ -1,0 +1,2 @@
+struct ixgbe_adapter | dummy int 
+function ixgbe_update_default_up void | adapter struct ixgbe_adapter *

@@ -1,0 +1,2 @@
+struct usb_usbvision | last_isoc_frame_num int | compr_level int | last_compr_level int | request_intra int | isoc_measure_bandwidth_count long | isoc_urb_count long | isoc_skip_count long | isoc_packet_count long | isoc_data_count long 
+function usbvision_init_compression int | usbvision struct usb_usbvision *

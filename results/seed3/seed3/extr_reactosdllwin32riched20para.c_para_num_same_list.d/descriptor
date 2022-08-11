@@ -1,0 +1,2 @@
+struct TYPE_4__ | wNumbering long | wNumberingStart long | wNumberingStyle int 
+function para_num_same_list int | item const struct TYPE_4__ * | base const struct TYPE_4__ *

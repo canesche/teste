@@ -1,2 +1,0 @@
-struct cfsrvl | open int 
-function cfsrvl_ready int | service struct cfsrvl * | err int *

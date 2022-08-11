@@ -1,0 +1,2 @@
+struct vc_data | vc_size_row int 
+function fbcon_update_softback void | vc struct vc_data *

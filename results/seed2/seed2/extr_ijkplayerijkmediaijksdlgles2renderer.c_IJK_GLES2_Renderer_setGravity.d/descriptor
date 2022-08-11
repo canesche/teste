@@ -1,0 +1,2 @@
+struct TYPE_3__ | gravity int | vertices_changed int | layer_width long | layer_height long 
+function IJK_GLES2_Renderer_setGravity int | renderer struct TYPE_3__ * | gravity int | layer_width long | layer_height long

@@ -1,2 +1,0 @@
-struct thread | priv void * 
-function thread__set_priv void | thread struct thread * | p void *

@@ -1,0 +1,2 @@
+struct eh_frame_hdr_table_entry | start unsigned long | fde unsigned long 
+function swap_eh_frame_hdr_table_entries void | p1 void * | p2 void * | size int

@@ -1,0 +1,3 @@
+struct TYPE_2__ | k_type int 
+struct cpu_key | on_disk_key struct TYPE_2__ 
+function set_cpu_key_k_type void | key struct cpu_key * | type int

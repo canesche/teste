@@ -1,2 +1,0 @@
-struct cpufreq_policy | dummy int 
-function centrino_cpu_init_table int | policy struct cpufreq_policy *

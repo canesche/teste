@@ -1,0 +1,7 @@
+struct TYPE_3__ | height int | width int | colorspace int | field int | sizeimage int | bytesperline long | pixelformat int 
+struct TYPE_4__ | pix struct TYPE_3__ 
+struct v4l2_format | fmt struct TYPE_4__ 
+struct saa7164_port | height int | width int 
+struct saa7164_encoder_fh | port struct saa7164_port * 
+struct file | private_data struct saa7164_encoder_fh * 
+function vidioc_fmt_vid_cap int | file struct file * | priv void * | f struct v4l2_format *

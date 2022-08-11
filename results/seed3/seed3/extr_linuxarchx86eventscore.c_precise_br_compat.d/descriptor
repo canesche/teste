@@ -1,0 +1,3 @@
+struct TYPE_2__ | branch_sample_type int | exclude_kernel int | exclude_user int 
+struct perf_event | attr struct TYPE_2__ 
+function precise_br_compat int | event struct perf_event *

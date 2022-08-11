@@ -1,0 +1,4 @@
+struct TYPE_7__ | priv_data struct TYPE_6__ * 
+struct TYPE_5__ | state64 int | frame_start_found int 
+struct TYPE_6__ | pc struct TYPE_5__ 
+function hevc_find_frame_end int | s struct TYPE_7__ * | buf const int * | buf_size int

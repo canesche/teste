@@ -1,2 +1,0 @@
-struct hda_codec | dummy int 
-function get_amp_val_to_activate int | codec struct hda_codec * | nid int | dir int | caps unsigned int | enable int

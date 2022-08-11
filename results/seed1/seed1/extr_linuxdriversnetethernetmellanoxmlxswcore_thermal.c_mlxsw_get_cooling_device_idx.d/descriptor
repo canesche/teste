@@ -1,0 +1,3 @@
+struct thermal_cooling_device | dummy int 
+struct mlxsw_thermal | cdevs struct thermal_cooling_device ** 
+function mlxsw_get_cooling_device_idx int | thermal struct mlxsw_thermal * | cdev struct thermal_cooling_device *

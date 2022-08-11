@@ -1,0 +1,3 @@
+struct vm_area_struct | dummy int 
+struct page | dummy int 
+function xen_remap_domain_mfn_array int | vma struct vm_area_struct * | addr unsigned long | mfn int * | nr int | err_ptr int * | prot int | domid unsigned int | pages struct page **

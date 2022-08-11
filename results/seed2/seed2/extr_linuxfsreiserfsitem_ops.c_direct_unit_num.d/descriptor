@@ -1,0 +1,2 @@
+struct virtual_item | vi_item_len int 
+function direct_unit_num int | vi struct virtual_item *

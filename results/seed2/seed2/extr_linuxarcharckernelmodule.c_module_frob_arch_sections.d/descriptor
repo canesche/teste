@@ -1,0 +1,3 @@
+struct TYPE_2__ | secstr char * 
+struct module | arch struct TYPE_2__ 
+function module_frob_arch_sections int | hdr int * | sechdrs int * | secstr char * | mod struct module *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | __val int * 
+function sem_getvalue int | sem struct TYPE_3__ *__restrict | valp int *__restrict

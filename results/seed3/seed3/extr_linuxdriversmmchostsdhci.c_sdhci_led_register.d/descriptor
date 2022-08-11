@@ -1,0 +1,2 @@
+struct sdhci_host | dummy int 
+function sdhci_led_register int | host struct sdhci_host *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | uartx struct TYPE_4__ * 
+struct TYPE_4__ | ISR int 
+function uart_tx_avail int | self struct TYPE_5__ *

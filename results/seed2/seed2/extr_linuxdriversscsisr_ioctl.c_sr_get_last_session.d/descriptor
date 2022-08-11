@@ -1,0 +1,5 @@
+struct TYPE_3__ | lba long 
+struct cdrom_multisession | xa_flag int | addr struct TYPE_3__ 
+struct cdrom_device_info | handle struct TYPE_4__ * 
+struct TYPE_4__ | ms_offset long | xa_flag long 
+function sr_get_last_session int | cdi struct cdrom_device_info * | ms_info struct cdrom_multisession *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | busy int 
+function ide_lock_port int | hwif struct TYPE_3__ *

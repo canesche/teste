@@ -1,0 +1,3 @@
+struct lwtunnel_state | data long 
+struct ila_lwt | dummy int 
+function ila_lwt_lwtunnel struct ila_lwt * | lwt struct lwtunnel_state *

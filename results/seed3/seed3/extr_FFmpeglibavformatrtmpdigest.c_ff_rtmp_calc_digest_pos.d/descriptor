@@ -1,0 +1,1 @@
+function ff_rtmp_calc_digest_pos int | buf const long * | off int | mod_val int | add_val int

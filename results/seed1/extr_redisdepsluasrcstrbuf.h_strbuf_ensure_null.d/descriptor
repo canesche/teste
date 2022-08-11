@@ -1,2 +1,0 @@
-struct TYPE_3__ | length unsigned long | buf long * 
-function strbuf_ensure_null void | s struct TYPE_3__ *

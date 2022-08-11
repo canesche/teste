@@ -1,0 +1,2 @@
+struct TYPE_3__ | data int * 
+function RC2_set_key void | key struct TYPE_3__ * | len int | data const unsigned char * | bits int

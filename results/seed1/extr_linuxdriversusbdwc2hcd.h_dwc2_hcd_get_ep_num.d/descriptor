@@ -1,2 +1,0 @@
-struct dwc2_hcd_pipe_info | ep_num int 
-function dwc2_hcd_get_ep_num int | pipe struct dwc2_hcd_pipe_info *

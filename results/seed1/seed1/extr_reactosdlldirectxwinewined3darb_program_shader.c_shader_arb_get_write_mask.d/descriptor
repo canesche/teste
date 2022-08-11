@@ -1,0 +1,3 @@
+struct wined3d_shader_instruction | dummy int 
+struct wined3d_shader_dst_param | write_mask int 
+function shader_arb_get_write_mask void | ins const struct wined3d_shader_instruction * | dst const struct wined3d_shader_dst_param * | write_mask char *

@@ -1,0 +1,2 @@
+struct tl_hashmap | size unsigned int 
+function tl_str_compute_hash void | self struct tl_hashmap * | s const char * | h1 int * | h2 int *

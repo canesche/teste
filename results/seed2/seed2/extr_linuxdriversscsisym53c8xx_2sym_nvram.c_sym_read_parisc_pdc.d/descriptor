@@ -1,0 +1,3 @@
+struct sym_device | dummy int 
+struct pdc_initiator | dummy int 
+function sym_read_parisc_pdc int | np struct sym_device * | x struct pdc_initiator *

@@ -1,3 +1,0 @@
-struct rmi_2d_sensor_platform_data | dummy int 
-struct device | dummy int 
-function rmi_2d_sensor_of_probe int | dev struct device * | pdata struct rmi_2d_sensor_platform_data *

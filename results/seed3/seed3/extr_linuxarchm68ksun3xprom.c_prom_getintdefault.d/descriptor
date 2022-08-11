@@ -1,0 +1,1 @@
+function prom_getintdefault int | node int | property char * | deflt int

@@ -1,0 +1,3 @@
+struct parport_state | dummy int 
+struct pardevice | dummy int 
+function parport_atari_init_state void | d struct pardevice * | s struct parport_state *

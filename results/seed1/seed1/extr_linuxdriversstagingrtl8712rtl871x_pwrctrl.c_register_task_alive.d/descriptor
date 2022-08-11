@@ -1,0 +1,2 @@
+struct pwrctrl_priv | alives int 
+function register_task_alive void | pwrctrl struct pwrctrl_priv * | tag int

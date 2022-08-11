@@ -1,0 +1,1 @@
+value(command) == 255, value(response_size) == 255, length(resp_hdr) == 65025

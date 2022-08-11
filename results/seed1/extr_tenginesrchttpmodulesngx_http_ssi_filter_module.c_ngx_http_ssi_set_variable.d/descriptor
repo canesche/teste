@@ -1,6 +1,0 @@
-struct TYPE_10__ | data long | len long 
-struct TYPE_7__ | status long 
-struct TYPE_11__ | out struct TYPE_9__ * | headers_out struct TYPE_7__ 
-struct TYPE_9__ | buf struct TYPE_8__ * 
-struct TYPE_8__ | pos long | last long 
-function ngx_http_ssi_set_variable int | r struct TYPE_11__ * | data void * | rc int

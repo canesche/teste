@@ -1,2 +1,0 @@
-struct blame_entry | suspect long | s_lno long 
-function compare_blame_suspect int | p1 const void * | p2 const void *

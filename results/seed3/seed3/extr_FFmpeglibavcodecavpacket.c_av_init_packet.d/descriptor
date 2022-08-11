@@ -1,0 +1,2 @@
+struct TYPE_3__ | pos int | side_data_elems long | side_data int * | buf int * | stream_index long | flags long | duration long | dts void * | pts void * 
+function av_init_packet void | pkt struct TYPE_3__ *

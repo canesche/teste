@@ -1,0 +1,2 @@
+struct ddc_service | dongle_type int 
+function ddc_service_set_dongle_type void | ddc struct ddc_service * | dongle_type enum display_dongle_type

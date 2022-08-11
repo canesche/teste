@@ -1,0 +1,4 @@
+struct bmp280_calib | T3 long | T1 long | T2 long 
+struct TYPE_2__ | bmp280 struct bmp280_calib 
+struct bmp280_data | t_fine int | calib struct TYPE_2__ 
+function bmp280_compensate_temp int | data struct bmp280_data * | adc_temp int

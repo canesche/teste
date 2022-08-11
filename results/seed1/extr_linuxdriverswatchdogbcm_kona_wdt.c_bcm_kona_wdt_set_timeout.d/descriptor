@@ -1,2 +1,0 @@
-struct watchdog_device | timeout unsigned int 
-function bcm_kona_wdt_set_timeout int | wdog struct watchdog_device * | t unsigned int

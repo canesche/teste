@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmmchostjz4740_mmc.c_jz4740_mmc_get_dma_chan.d/extr_linuxdriversmmchostjz4740_mmc.c_jz4740_mmc_get_dma_chan_O0::jz4740_mmc_get_dma_chan(65)"
+  }
+]

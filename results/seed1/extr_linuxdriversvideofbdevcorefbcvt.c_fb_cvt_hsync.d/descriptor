@@ -1,2 +1,0 @@
-struct fb_cvt_data | flags int | htotal int 
-function fb_cvt_hsync int | cvt struct fb_cvt_data *

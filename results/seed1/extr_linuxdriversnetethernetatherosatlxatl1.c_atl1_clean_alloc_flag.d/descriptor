@@ -1,5 +1,0 @@
-struct rx_return_desc | buf_indx unsigned long 
-struct atl1_rfd_ring | next_to_clean unsigned long | count unsigned long | buffer_info struct TYPE_2__ * 
-struct atl1_adapter | rfd_ring struct atl1_rfd_ring 
-struct TYPE_2__ | alloced long 
-function atl1_clean_alloc_flag void | adapter struct atl1_adapter * | rrd struct rx_return_desc * | offset unsigned long

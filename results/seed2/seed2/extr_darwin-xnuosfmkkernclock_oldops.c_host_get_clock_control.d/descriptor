@@ -1,0 +1,2 @@
+struct TYPE_5__ | cl_ops long 
+function host_get_clock_control int | host_priv long | clock_id unsigned long | clock struct TYPE_5__ **

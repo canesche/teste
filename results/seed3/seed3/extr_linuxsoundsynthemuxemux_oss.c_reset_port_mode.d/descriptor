@@ -1,0 +1,3 @@
+struct snd_emux_port | volume_atten int | oss_arg struct TYPE_2__ * | drum_flags long | port_mode int 
+struct TYPE_2__ | event_passing int 
+function reset_port_mode void | port struct snd_emux_port * | midi_mode int

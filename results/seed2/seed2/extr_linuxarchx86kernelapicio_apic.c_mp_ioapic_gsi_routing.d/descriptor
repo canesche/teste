@@ -1,0 +1,3 @@
+struct mp_ioapic_gsi | dummy int 
+struct TYPE_2__ | gsi_config struct mp_ioapic_gsi 
+function mp_ioapic_gsi_routing struct mp_ioapic_gsi * | ioapic_idx int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | data unsigned int ** | linesize int * 
+function is_same3 int | frame struct TYPE_3__ * | x int | y int | s0 unsigned int | s1 unsigned int | s2 unsigned int | s3 unsigned int

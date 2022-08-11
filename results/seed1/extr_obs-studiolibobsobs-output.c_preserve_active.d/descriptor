@@ -1,2 +1,0 @@
-struct obs_output | delay_flags int 
-function preserve_active int | output struct obs_output *

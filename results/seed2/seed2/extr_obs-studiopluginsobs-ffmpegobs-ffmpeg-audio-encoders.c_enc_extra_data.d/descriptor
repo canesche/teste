@@ -1,0 +1,3 @@
+struct enc_encoder | context struct TYPE_2__ * 
+struct TYPE_2__ | extradata_size unsigned long | extradata int * 
+function enc_extra_data int | data void * | extra_data int ** | size unsigned long *

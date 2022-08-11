@@ -1,0 +1,3 @@
+struct creq_func_event | event int 
+struct bnxt_qplib_rcfw | dummy int 
+function bnxt_qplib_process_func_event int | rcfw struct bnxt_qplib_rcfw * | func_event struct creq_func_event *

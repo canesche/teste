@@ -1,0 +1,4 @@
+struct s_smc | y struct s_phy * 
+struct s_phy | mib struct fddi_mib_p * 
+struct fddi_mib_p | dummy int 
+function led_indication void | smc struct s_smc * | led_event int

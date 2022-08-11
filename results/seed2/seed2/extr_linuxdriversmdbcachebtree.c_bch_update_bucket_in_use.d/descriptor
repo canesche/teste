@@ -1,0 +1,3 @@
+struct gc_stat | in_use int 
+struct cache_set | nbuckets int | avail_nbuckets int 
+function bch_update_bucket_in_use void | c struct cache_set * | stats struct gc_stat *

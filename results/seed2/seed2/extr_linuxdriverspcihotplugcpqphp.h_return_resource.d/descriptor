@@ -1,0 +1,2 @@
+struct pci_resource | next struct pci_resource * 
+function return_resource void | head struct pci_resource ** | node struct pci_resource *

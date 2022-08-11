@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_radare2libranalesil.c_signed_compare_gt.d/extr_radare2libranalesil.c_signed_compare_gt_O0::signed_compare_gt(64)"
+  }
+]

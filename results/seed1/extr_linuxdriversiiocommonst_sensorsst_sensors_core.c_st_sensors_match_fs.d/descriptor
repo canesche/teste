@@ -1,4 +1,0 @@
-struct TYPE_4__ | fs_avl struct TYPE_3__ * 
-struct st_sensor_settings | fs struct TYPE_4__ 
-struct TYPE_3__ | num unsigned int 
-function st_sensors_match_fs int | sensor_settings struct st_sensor_settings * | fs unsigned int | index_fs_avl int *

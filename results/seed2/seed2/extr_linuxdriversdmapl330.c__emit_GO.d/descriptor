@@ -1,0 +1,2 @@
+struct _arg_GO | chan unsigned int | addr int | ns unsigned int 
+function _emit_GO int | dry_run unsigned int | buf unsigned int [] | arg const struct _arg_GO *

@@ -1,0 +1,2 @@
+struct zip_extra_field | flags int | size long | next struct zip_extra_field * 
+function _zip_ef_size long | ef const struct zip_extra_field * | flags int

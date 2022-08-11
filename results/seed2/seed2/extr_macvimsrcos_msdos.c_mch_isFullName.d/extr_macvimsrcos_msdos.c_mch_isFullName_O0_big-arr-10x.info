@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_macvimsrcos_msdos.c_mch_isFullName.d/extr_macvimsrcos_msdos.c_mch_isFullName_O0::mch_isFullName(63)"
+  }
+]

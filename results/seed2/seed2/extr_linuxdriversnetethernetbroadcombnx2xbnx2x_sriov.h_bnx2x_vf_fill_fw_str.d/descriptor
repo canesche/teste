@@ -1,0 +1,2 @@
+struct bnx2x | dummy int 
+function bnx2x_vf_fill_fw_str void | bp struct bnx2x * | buf char * | buf_len unsigned long

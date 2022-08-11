@@ -1,1 +1,0 @@
-function pthread_attr_getstackaddr int | attr const int * | stackaddr void **

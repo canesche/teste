@@ -1,4 +1,0 @@
-struct signal_struct | audit_tty int 
-struct TYPE_4__ | signal struct TYPE_3__ * 
-struct TYPE_3__ | audit_tty int 
-function tty_audit_fork void | sig struct signal_struct *

@@ -1,0 +1,2 @@
+struct nfsd4_cb_sec | flavor int 
+function nfsd4_check_cb_sec int | cbs struct nfsd4_cb_sec *

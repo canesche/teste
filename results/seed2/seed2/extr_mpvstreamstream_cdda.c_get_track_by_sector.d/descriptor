@@ -1,0 +1,4 @@
+struct TYPE_7__ | cd struct TYPE_6__ * 
+struct TYPE_6__ | tracks int | disc_toc struct TYPE_5__ * 
+struct TYPE_5__ | dwStartSector unsigned int 
+function get_track_by_sector int | p struct TYPE_7__ * | sector unsigned int

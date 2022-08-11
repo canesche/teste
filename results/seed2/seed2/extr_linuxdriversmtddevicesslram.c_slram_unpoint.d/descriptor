@@ -1,0 +1,2 @@
+struct mtd_info | dummy int 
+function slram_unpoint int | mtd struct mtd_info * | from int | len unsigned long

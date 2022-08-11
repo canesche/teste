@@ -1,0 +1,5 @@
+struct mxl5005s_state | Init_Ctrl_Num unsigned long | CH_Ctrl_Num unsigned long | CH_Ctrl struct TYPE_4__ * | Init_Ctrl struct TYPE_3__ * 
+struct dvb_frontend | tuner_priv struct mxl5005s_state * 
+struct TYPE_4__ | Ctrl_Num unsigned long | size unsigned long | val int * 
+struct TYPE_3__ | Ctrl_Num unsigned long | size unsigned long | val int * 
+function MXL_ControlRead unsigned long | fe struct dvb_frontend * | controlNum unsigned long | value long *

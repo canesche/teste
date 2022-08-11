@@ -1,0 +1,5 @@
+struct TYPE_7__ | types_size int | types_offset long 
+struct TYPE_9__ | header struct TYPE_7__ | types int 
+struct TYPE_8__ | o struct TYPE_6__ * 
+struct TYPE_6__ | bin_obj long 
+function dex_get_type_offset long | bf struct TYPE_8__ * | type_idx int

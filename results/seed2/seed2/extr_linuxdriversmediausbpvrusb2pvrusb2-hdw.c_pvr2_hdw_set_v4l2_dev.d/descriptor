@@ -1,0 +1,3 @@
+struct video_device | v4l2_dev int * 
+struct pvr2_hdw | v4l2_dev int 
+function pvr2_hdw_set_v4l2_dev void | hdw struct pvr2_hdw * | vdev struct video_device *

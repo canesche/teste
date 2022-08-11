@@ -1,0 +1,2 @@
+struct page_stat | gfp_flags unsigned int 
+function gfp_flags_cmp int | a void * | b void *

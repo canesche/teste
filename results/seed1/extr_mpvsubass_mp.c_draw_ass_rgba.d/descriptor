@@ -1,1 +1,0 @@
-function draw_ass_rgba void | src unsigned char * | src_w int | src_h int | src_stride int | dst unsigned char * | dst_stride unsigned long | dst_x int | dst_y int | color int

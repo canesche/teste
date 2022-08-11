@@ -1,0 +1,3 @@
+struct ar9170_calctl_edges | channel int | power_flags int 
+struct ar9170 | dummy int 
+function carl9170_get_max_edge_power int | ar struct ar9170 * | freq int | edges struct ar9170_calctl_edges []

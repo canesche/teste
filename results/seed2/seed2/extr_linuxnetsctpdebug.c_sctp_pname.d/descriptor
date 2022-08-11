@@ -1,0 +1,2 @@
+struct sctp_subtype | primitive unsigned long 
+function sctp_pname const char * | id const union sctp_subtype

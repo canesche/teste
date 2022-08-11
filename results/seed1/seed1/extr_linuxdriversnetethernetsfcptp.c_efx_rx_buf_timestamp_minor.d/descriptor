@@ -1,0 +1,2 @@
+struct efx_nic | rx_packet_ts_offset int 
+function efx_rx_buf_timestamp_minor int | efx struct efx_nic * | eh const long *

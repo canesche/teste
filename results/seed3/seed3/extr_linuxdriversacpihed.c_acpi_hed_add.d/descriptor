@@ -1,0 +1,2 @@
+struct acpi_device | handle long 
+function acpi_hed_add int | device struct acpi_device *

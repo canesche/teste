@@ -1,2 +1,0 @@
-struct gcov_info | stamp long 
-function gcov_info_is_compatible int | info1 struct gcov_info * | info2 struct gcov_info *

@@ -1,2 +1,0 @@
-struct i915_request | dummy int 
-function trace_i915_request_out void | rq struct i915_request *

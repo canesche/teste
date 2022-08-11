@@ -1,0 +1,2 @@
+struct TYPE_3__ | GCdebt long | totalbytes int 
+function luaE_setdebt void | g struct TYPE_3__ * | debt long

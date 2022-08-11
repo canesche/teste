@@ -1,0 +1,2 @@
+struct se_tmr_req | response int 
+function iscsit_convert_tcm_tmr_rsp int | se_tmr struct se_tmr_req *

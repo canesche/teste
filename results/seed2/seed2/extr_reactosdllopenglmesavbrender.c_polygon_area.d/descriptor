@@ -1,0 +1,2 @@
+struct vertex_buffer | Win float ** 
+function polygon_area float | vb const struct vertex_buffer * | n unsigned long | vlist unsigned long const[]

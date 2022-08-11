@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_darwin-xnubsdkernkern_event.c_filt_wlturnstile_interlock_is_workq.d/extr_darwin-xnubsdkernkern_event.c_filt_wlturnstile_interlock_is_workq_O0::filt_wlturnstile_interlock_is_workq(65)"
+  }
+]

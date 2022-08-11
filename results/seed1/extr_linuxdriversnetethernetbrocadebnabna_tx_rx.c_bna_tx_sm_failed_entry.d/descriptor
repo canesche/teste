@@ -1,2 +1,0 @@
-struct bna_tx | dummy int 
-function bna_tx_sm_failed_entry void | tx struct bna_tx *

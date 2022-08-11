@@ -1,0 +1,2 @@
+struct mbuf | m_next struct mbuf * 
+function m_last struct mbuf * | m struct mbuf *

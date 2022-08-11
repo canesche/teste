@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmi915intel_runtime_pm.c_i9xx_power_well_sync_hw_noop.d/extr_linuxdriversgpudrmi915intel_runtime_pm.c_i9xx_power_well_sync_hw_noop_O0::i9xx_power_well_sync_hw_noop(63)"
+  }
+]

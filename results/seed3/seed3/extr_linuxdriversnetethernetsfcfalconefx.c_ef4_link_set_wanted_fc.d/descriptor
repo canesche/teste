@@ -1,0 +1,2 @@
+struct ef4_nic | wanted_fc int | link_advertising int 
+function ef4_link_set_wanted_fc void | efx struct ef4_nic * | wanted_fc int

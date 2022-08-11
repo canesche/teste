@@ -1,0 +1,5 @@
+struct msm_display_topology | num_lm int | num_intf int | num_enc long 
+struct drm_display_mode | vdisplay long 
+struct dpu_kms | dummy int 
+struct dpu_encoder_virt | phys_encs long * 
+function dpu_encoder_get_topology struct msm_display_topology | dpu_enc struct dpu_encoder_virt * | dpu_kms struct dpu_kms * | mode struct drm_display_mode *

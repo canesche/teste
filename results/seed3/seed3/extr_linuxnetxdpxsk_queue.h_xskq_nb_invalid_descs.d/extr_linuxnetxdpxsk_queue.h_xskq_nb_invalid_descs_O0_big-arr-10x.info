@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxnetxdpxsk_queue.h_xskq_nb_invalid_descs.d/extr_linuxnetxdpxsk_queue.h_xskq_nb_invalid_descs_O0::xskq_nb_invalid_descs(62)"
+  }
+]

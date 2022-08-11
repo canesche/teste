@@ -1,2 +1,0 @@
-struct seq_file | dummy int 
-function brcmf_feat_debugfs_read int | seq struct seq_file * | data void *

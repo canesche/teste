@@ -1,0 +1,3 @@
+struct bufdesc_prop | dsize_log2 int | base long 
+struct bufdesc | dummy int 
+function fec_enet_get_bd_index int | bdp struct bufdesc * | bd struct bufdesc_prop *

@@ -1,0 +1,2 @@
+struct sys_reg_params | Op0 int | Op1 int | CRn int | CRm int | Op2 int 
+function index_to_params int | id int | params struct sys_reg_params *

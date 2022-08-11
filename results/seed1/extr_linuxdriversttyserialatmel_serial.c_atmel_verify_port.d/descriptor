@@ -1,3 +1,0 @@
-struct uart_port | irq long | uartclk int | mapbase unsigned long | iobase long 
-struct serial_struct | type long | irq long | io_type long | baud_base int | port long | hub6 long | iomem_base long 
-function atmel_verify_port int | port struct uart_port * | ser struct serial_struct *

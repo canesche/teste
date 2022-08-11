@@ -1,0 +1,3 @@
+struct TYPE_5__ | pt int | codec_id long | audio_channels long | clock_rate long | codec_type int 
+struct TYPE_4__ | codec_id long | channels long | sample_rate long | codec_type int 
+function ff_rtp_get_codec_info int | par struct TYPE_4__ * | payload_type int

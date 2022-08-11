@@ -1,0 +1,2 @@
+struct bfa_uf_s | data_ptr void * 
+function bfa_uf_get_frmbuf void * | uf struct bfa_uf_s *

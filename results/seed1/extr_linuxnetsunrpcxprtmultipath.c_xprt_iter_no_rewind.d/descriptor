@@ -1,2 +1,0 @@
-struct rpc_xprt_iter | dummy int 
-function xprt_iter_no_rewind void | xpi struct rpc_xprt_iter *

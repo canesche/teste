@@ -1,3 +1,0 @@
-struct rmi_device_platform_data | dummy int 
-struct device | dummy int 
-function rmi_f01_of_probe int | dev struct device * | pdata struct rmi_device_platform_data *

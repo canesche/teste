@@ -1,0 +1,3 @@
+struct snd_midi_channel_set | dummy int 
+struct snd_midi_channel | dummy int 
+function snd_opl3_nrpn void | p void * | chan struct snd_midi_channel * | chset struct snd_midi_channel_set *

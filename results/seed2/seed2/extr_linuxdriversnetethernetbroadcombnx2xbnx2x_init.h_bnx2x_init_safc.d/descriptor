@@ -1,0 +1,5 @@
+struct cmng_init_input | dummy int 
+struct TYPE_3__ | safc_timeout_usec int 
+struct TYPE_4__ | safc_vars struct TYPE_3__ 
+struct cmng_init | port struct TYPE_4__ 
+function bnx2x_init_safc void | input_data const struct cmng_init_input * | ram_data struct cmng_init *

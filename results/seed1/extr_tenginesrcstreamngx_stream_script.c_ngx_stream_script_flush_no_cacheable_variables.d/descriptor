@@ -1,4 +1,0 @@
-struct TYPE_7__ | variables struct TYPE_6__ * 
-struct TYPE_8__ | elts unsigned long * | nelts unsigned long 
-struct TYPE_6__ | not_found long | valid long | no_cacheable long 
-function ngx_stream_script_flush_no_cacheable_variables void | s struct TYPE_7__ * | indices struct TYPE_8__ *

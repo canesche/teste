@@ -1,0 +1,2 @@
+struct TYPE_3__ | CurVal long | MinVal long | MaxVal long 
+function PROGRESS_CoercePos void | infoPtr struct TYPE_3__ *

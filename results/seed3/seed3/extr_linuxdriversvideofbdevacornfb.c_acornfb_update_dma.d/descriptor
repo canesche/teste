@@ -1,0 +1,4 @@
+struct fb_var_screeninfo | yoffset int 
+struct TYPE_2__ | line_length int 
+struct fb_info | fix struct TYPE_2__ 
+function acornfb_update_dma void | info struct fb_info * | var struct fb_var_screeninfo *

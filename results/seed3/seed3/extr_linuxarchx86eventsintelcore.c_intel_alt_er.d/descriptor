@@ -1,0 +1,3 @@
+struct TYPE_4__ | flags int | extra_regs struct TYPE_3__ * 
+struct TYPE_3__ | valid_mask int 
+function intel_alt_er int | idx int | config int

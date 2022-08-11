@@ -1,3 +1,0 @@
-struct net_device | netdev_ops struct TYPE_2__ * 
-struct TYPE_2__ | ndo_start_xmit long 
-function is_hsr_master int | dev struct net_device *

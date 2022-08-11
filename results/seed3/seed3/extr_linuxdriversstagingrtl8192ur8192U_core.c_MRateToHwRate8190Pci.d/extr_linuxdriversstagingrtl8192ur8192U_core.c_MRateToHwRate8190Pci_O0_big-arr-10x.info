@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversstagingrtl8192ur8192U_core.c_MRateToHwRate8190Pci.d/extr_linuxdriversstagingrtl8192ur8192U_core.c_MRateToHwRate8190Pci_O0::MRateToHwRate8190Pci(118)"
+  }
+]

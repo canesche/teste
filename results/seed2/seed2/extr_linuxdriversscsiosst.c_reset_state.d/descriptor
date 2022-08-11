@@ -1,0 +1,3 @@
+struct st_partstat | drv_block int | drv_file int | last_block_valid long | at_sm long | eof int | rw int 
+struct osst_tape | ps struct st_partstat * | pos_unknown long 
+function reset_state void | STp struct osst_tape *

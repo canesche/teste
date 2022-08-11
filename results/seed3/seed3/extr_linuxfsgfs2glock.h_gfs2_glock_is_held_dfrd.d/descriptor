@@ -1,0 +1,2 @@
+struct gfs2_glock | gl_state long 
+function gfs2_glock_is_held_dfrd int | gl struct gfs2_glock *

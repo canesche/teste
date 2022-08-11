@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 210,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_hashcatsrcwordlist.c_get_next_word_uc.d/extr_hashcatsrcwordlist.c_get_next_word_uc_O0::get_next_word_uc(61)"
+  }
+]

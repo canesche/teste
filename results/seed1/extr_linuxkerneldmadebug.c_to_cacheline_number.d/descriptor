@@ -1,2 +1,0 @@
-struct dma_debug_entry | pfn int | offset int 
-function to_cacheline_number int | entry struct dma_debug_entry *

@@ -1,2 +1,0 @@
-struct qxl_device | dummy int 
-function qxl_fbdev_init int | qdev struct qxl_device *

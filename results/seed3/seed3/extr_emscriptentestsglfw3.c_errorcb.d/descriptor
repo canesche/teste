@@ -1,0 +1,1 @@
+function errorcb void | error int | msg const char *

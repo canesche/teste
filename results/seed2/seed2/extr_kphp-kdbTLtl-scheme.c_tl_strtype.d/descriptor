@@ -1,0 +1,2 @@
+struct tl_scheme_object | type int 
+function tl_strtype const char * | O struct tl_scheme_object *

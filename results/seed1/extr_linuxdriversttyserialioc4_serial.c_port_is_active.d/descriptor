@@ -1,3 +1,0 @@
-struct uart_port | dummy int 
-struct ioc4_port | ip_flags int | ip_port struct uart_port * 
-function port_is_active int | port struct ioc4_port * | uart_port struct uart_port *

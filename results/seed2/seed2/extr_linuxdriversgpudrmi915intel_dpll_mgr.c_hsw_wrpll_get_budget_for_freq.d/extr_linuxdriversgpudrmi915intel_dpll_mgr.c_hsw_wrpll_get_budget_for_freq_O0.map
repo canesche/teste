@@ -1,0 +1,462 @@
+0x4003e0:4:sub $0x8,%rsp
+0x4003e4:7:mov 0x201c0d(%rip),%rax
+0x4003eb:3:test %rax,%rax
+0x4003ee:2:je 00000000004003f2 <_init+0x12>
+0x4003f0:2:callq *%rax
+0x4003f2:4:add $0x8,%rsp
+0x4003f6:1:retq
+0x400400:6:pushq 0x201c02(%rip)
+0x400406:6:jmpq *0x201c04(%rip)
+0x40040c:4:nopl 0x0(%rax)
+0x400410:6:jmpq *0x201c02(%rip)
+0x400416:5:pushq $0x0
+0x40041b:5:jmpq 0000000000400400 <.plt>
+0x400420:6:jmpq *0x201bfa(%rip)
+0x400426:5:pushq $0x1
+0x40042b:5:jmpq 0000000000400400 <.plt>
+0x400430:2:xor %ebp,%ebp
+0x400432:3:mov %rdx,%r9
+0x400435:1:pop %rsi
+0x400436:3:mov %rsp,%rdx
+0x400439:4:and $0xfffffffffffffff0,%rsp
+0x40043d:1:push %rax
+0x40043e:1:push %rsp
+0x40043f:7:mov $0x400b80,%r8
+0x400446:7:mov $0x400b10,%rcx
+0x40044d:7:mov $0x400a00,%rdi
+0x400454:6:callq *0x201b96(%rip)
+0x40045a:1:hlt
+0x40045b:5:nopl 0x0(%rax,%rax,1)
+0x400460:2:repz retq
+0x400462:10:nopw %cs:0x0(%rax,%rax,1)
+0x40046c:4:nopl 0x0(%rax)
+0x400470:1:push %rbp
+0x400471:5:mov $0x602038,%eax
+0x400476:6:cmp $0x602038,%rax
+0x40047c:3:mov %rsp,%rbp
+0x40047f:2:je 0000000000400498 <deregister_tm_clones+0x28>
+0x400481:5:mov $0x0,%eax
+0x400486:3:test %rax,%rax
+0x400489:2:je 0000000000400498 <deregister_tm_clones+0x28>
+0x40048b:1:pop %rbp
+0x40048c:5:mov $0x602038,%edi
+0x400491:2:jmpq *%rax
+0x400493:5:nopl 0x0(%rax,%rax,1)
+0x400498:1:pop %rbp
+0x400499:1:retq
+0x40049a:6:nopw 0x0(%rax,%rax,1)
+0x4004a0:5:mov $0x602038,%esi
+0x4004a5:1:push %rbp
+0x4004a6:7:sub $0x602038,%rsi
+0x4004ad:3:mov %rsp,%rbp
+0x4004b0:4:sar $0x3,%rsi
+0x4004b4:3:mov %rsi,%rax
+0x4004b7:4:shr $0x3f,%rax
+0x4004bb:3:add %rax,%rsi
+0x4004be:3:sar %rsi
+0x4004c1:2:je 00000000004004d8 <register_tm_clones+0x38>
+0x4004c3:5:mov $0x0,%eax
+0x4004c8:3:test %rax,%rax
+0x4004cb:2:je 00000000004004d8 <register_tm_clones+0x38>
+0x4004cd:1:pop %rbp
+0x4004ce:5:mov $0x602038,%edi
+0x4004d3:2:jmpq *%rax
+0x4004d5:3:nopl (%rax)
+0x4004d8:1:pop %rbp
+0x4004d9:1:retq
+0x4004da:6:nopw 0x0(%rax,%rax,1)
+0x4004e0:7:cmpb $0x0,0x201b51(%rip)
+0x4004e7:2:jne 0000000000400500 <__do_global_dtors_aux+0x20>
+0x4004e9:1:push %rbp
+0x4004ea:3:mov %rsp,%rbp
+0x4004ed:5:callq 0000000000400470 <deregister_tm_clones>
+0x4004f2:7:movb $0x1,0x201b3f(%rip)
+0x4004f9:1:pop %rbp
+0x4004fa:1:retq
+0x4004fb:5:nopl 0x0(%rax,%rax,1)
+0x400500:2:repz retq
+0x400502:4:nopl 0x0(%rax)
+0x400506:10:nopw %cs:0x0(%rax,%rax,1)
+0x400510:1:push %rbp
+0x400511:3:mov %rsp,%rbp
+0x400514:1:pop %rbp
+0x400515:2:jmp 00000000004004a0 <register_tm_clones>
+0x400517:9:nopw 0x0(%rax,%rax,1)
+0x400520:1:push %rbp
+0x400521:3:mov %rsp,%rbp
+0x400524:7:movl $0x0,-0x4(%rbp)
+0x40052b:3:mov -0x4(%rbp),%eax
+0x40052e:3:add $0x1,%eax
+0x400531:3:mov %eax,-0x4(%rbp)
+0x400534:5:mov $0x19,%ecx
+0x400539:1:cltd
+0x40053a:2:idiv %ecx
+0x40053c:3:movslq %edx,%rax
+0x40053f:7:mov 0x400ba0(,%rax,4),%eax
+0x400546:1:pop %rbp
+0x400547:1:retq
+0x400548:8:nopl 0x0(%rax,%rax,1)
+0x400550:1:push %rbp
+0x400551:3:mov %rsp,%rbp
+0x400554:7:movl $0x0,-0x4(%rbp)
+0x40055b:3:mov -0x4(%rbp),%edx
+0x40055e:2:mov %edx,%ecx
+0x400560:3:add $0x1,%ecx
+0x400563:3:mov %ecx,-0x4(%rbp)
+0x400566:2:mov %edx,%eax
+0x400568:3:movslq %ecx,%rcx
+0x40056b:7:imul $0x51eb851f,%rcx,%rdx
+0x400572:3:mov %rdx,%rcx
+0x400575:4:shr $0x3f,%rcx
+0x400579:4:sar $0x23,%rdx
+0x40057d:2:add %ecx,%edx
+0x40057f:2:mov %edx,%ecx
+0x400581:3:lea (%rcx,%rcx,4),%edx
+0x400584:2:mov %edx,%ecx
+0x400586:3:lea (%rcx,%rcx,4),%edx
+0x400589:2:neg %edx
+0x40058b:2:mov %edx,%ecx
+0x40058d:4:lea 0x1(%rax,%rcx,1),%eax
+0x400591:2:cltq
+0x400593:7:mov 0x400ba0(,%rax,4),%eax
+0x40059a:5:cvtsi2ss %rax,%xmm0
+0x40059f:8:movss 0x5ed(%rip),%xmm1
+0x4005a7:4:divss %xmm1,%xmm0
+0x4005ab:1:pop %rbp
+0x4005ac:1:retq
+0x4005ad:3:nopl (%rax)
+0x4005b0:1:push %rbp
+0x4005b1:3:mov %rsp,%rbp
+0x4005b4:10:movabs $0x400c04,%rdi
+0x4005be:10:movabs $0x400c07,%rsi
+0x4005c8:2:mov $0x0,%al
+0x4005ca:5:callq 0000000000400410 <printf@plt>
+0x4005cf:1:pop %rbp
+0x4005d0:1:retq
+0x4005d1:10:nopw %cs:0x0(%rax,%rax,1)
+0x4005db:5:nopl 0x0(%rax,%rax,1)
+0x4005e0:1:push %rbp
+0x4005e1:3:mov %rsp,%rbp
+0x4005e4:3:mov %edi,-0x4(%rbp)
+0x4005e7:3:mov -0x4(%rbp),%eax
+0x4005ea:3:mov %eax,-0xc(%rbp)
+0x4005ed:5:sub $0x18023d8,%eax
+0x4005f2:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x4005f8:5:jmpq 00000000004005fd <hsw_wrpll_get_budget_for_freq+0x1d>
+0x4005fd:3:mov -0xc(%rbp),%eax
+0x400600:5:sub $0x1808580,%eax
+0x400605:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x40060b:5:jmpq 0000000000400610 <hsw_wrpll_get_budget_for_freq+0x30>
+0x400610:3:mov -0xc(%rbp),%eax
+0x400613:5:sub $0x19bfcc0,%eax
+0x400618:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x40061e:5:jmpq 0000000000400623 <hsw_wrpll_get_budget_for_freq+0x43>
+0x400623:3:mov -0xc(%rbp),%eax
+0x400626:5:sub $0x19c6638,%eax
+0x40062b:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x400631:5:jmpq 0000000000400636 <hsw_wrpll_get_budget_for_freq+0x56>
+0x400636:3:mov -0xc(%rbp),%eax
+0x400639:5:sub $0x24035c4,%eax
+0x40063e:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x400644:5:jmpq 0000000000400649 <hsw_wrpll_get_budget_for_freq+0x69>
+0x400649:3:mov -0xc(%rbp),%eax
+0x40064c:5:sub $0x240c840,%eax
+0x400651:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x400657:5:jmpq 000000000040065c <hsw_wrpll_get_budget_for_freq+0x7c>
+0x40065c:3:mov -0xc(%rbp),%eax
+0x40065f:5:sub $0x269fb20,%eax
+0x400664:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x40066a:5:jmpq 000000000040066f <hsw_wrpll_get_budget_for_freq+0x8f>
+0x40066f:3:mov -0xc(%rbp),%eax
+0x400672:5:sub $0x26a9b48,%eax
+0x400677:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x40067d:5:jmpq 0000000000400682 <hsw_wrpll_get_budget_for_freq+0xa2>
+0x400682:3:mov -0xc(%rbp),%eax
+0x400685:5:sub $0x337f980,%eax
+0x40068a:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x400690:5:jmpq 0000000000400695 <hsw_wrpll_get_budget_for_freq+0xb5>
+0x400695:3:mov -0xc(%rbp),%eax
+0x400698:5:sub $0x338cc70,%eax
+0x40069d:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x4006a3:5:jmpq 00000000004006a8 <hsw_wrpll_get_budget_for_freq+0xc8>
+0x4006a8:3:mov -0xc(%rbp),%eax
+0x4006ab:5:sub $0x38978c8,%eax
+0x4006b0:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x4006b6:5:jmpq 00000000004006bb <hsw_wrpll_get_budget_for_freq+0xdb>
+0x4006bb:3:mov -0xc(%rbp),%eax
+0x4006be:5:sub $0x38a5f40,%eax
+0x4006c3:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x4006c9:5:jmpq 00000000004006ce <hsw_wrpll_get_budget_for_freq+0xee>
+0x4006ce:3:mov -0xc(%rbp),%eax
+0x4006d1:5:sub $0x44aa200,%eax
+0x4006d6:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x4006dc:5:jmpq 00000000004006e1 <hsw_wrpll_get_budget_for_freq+0x101>
+0x4006e1:3:mov -0xc(%rbp),%eax
+0x4006e4:5:sub $0x46bd600,%eax
+0x4006e9:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x4006ef:5:jmpq 00000000004006f4 <hsw_wrpll_get_budget_for_freq+0x114>
+0x4006f4:3:mov -0xc(%rbp),%eax
+0x4006f7:5:sub $0x46cf710,%eax
+0x4006fc:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x400702:5:jmpq 0000000000400707 <hsw_wrpll_get_budget_for_freq+0x127>
+0x400707:3:mov -0xc(%rbp),%eax
+0x40070a:5:sub $0x4d3f640,%eax
+0x40070f:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x400715:5:jmpq 000000000040071a <hsw_wrpll_get_budget_for_freq+0x13a>
+0x40071a:3:mov -0xc(%rbp),%eax
+0x40071d:5:sub $0x4d532a8,%eax
+0x400722:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x400728:5:jmpq 000000000040072d <hsw_wrpll_get_budget_for_freq+0x14d>
+0x40072d:3:mov -0xc(%rbp),%eax
+0x400730:5:sub $0x54e3720,%eax
+0x400735:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x40073b:5:jmpq 0000000000400740 <hsw_wrpll_get_budget_for_freq+0x160>
+0x400740:3:mov -0xc(%rbp),%eax
+0x400743:5:sub $0x54f8ee0,%eax
+0x400748:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x40074e:5:jmpq 0000000000400753 <hsw_wrpll_get_budget_for_freq+0x173>
+0x400753:3:mov -0xc(%rbp),%eax
+0x400756:5:sub $0x66ff300,%eax
+0x40075b:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x400761:5:jmpq 0000000000400766 <hsw_wrpll_get_budget_for_freq+0x186>
+0x400766:3:mov -0xc(%rbp),%eax
+0x400769:5:sub $0x67198e0,%eax
+0x40076e:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x400774:5:jmpq 0000000000400779 <hsw_wrpll_get_budget_for_freq+0x199>
+0x400779:3:mov -0xc(%rbp),%eax
+0x40077c:5:sub $0x6a1c100,%eax
+0x400781:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x400787:5:jmpq 000000000040078c <hsw_wrpll_get_budget_for_freq+0x1ac>
+0x40078c:3:mov -0xc(%rbp),%eax
+0x40078f:5:sub $0x6a37298,%eax
+0x400794:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x40079a:5:jmpq 000000000040079f <hsw_wrpll_get_budget_for_freq+0x1bf>
+0x40079f:3:mov -0xc(%rbp),%eax
+0x4007a2:5:sub $0x8d7ac00,%eax
+0x4007a7:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x4007ad:5:jmpq 00000000004007b2 <hsw_wrpll_get_budget_for_freq+0x1d2>
+0x4007b2:3:mov -0xc(%rbp),%eax
+0x4007b5:5:sub $0x8d9ee20,%eax
+0x4007ba:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x4007c0:5:jmpq 00000000004007c5 <hsw_wrpll_get_budget_for_freq+0x1e5>
+0x4007c5:3:mov -0xc(%rbp),%eax
+0x4007c8:5:sub $0x9a7ec80,%eax
+0x4007cd:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x4007d3:5:jmpq 00000000004007d8 <hsw_wrpll_get_budget_for_freq+0x1f8>
+0x4007d8:3:mov -0xc(%rbp),%eax
+0x4007db:5:sub $0x9aa6550,%eax
+0x4007e0:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x4007e6:5:jmpq 00000000004007eb <hsw_wrpll_get_budget_for_freq+0x20b>
+0x4007eb:3:mov -0xc(%rbp),%eax
+0x4007ee:5:sub $0xa14b040,%eax
+0x4007f3:6:je 00000000004009cb <hsw_wrpll_get_budget_for_freq+0x3eb>
+0x4007f9:5:jmpq 00000000004007fe <hsw_wrpll_get_budget_for_freq+0x21e>
+0x4007fe:3:mov -0xc(%rbp),%eax
+0x400801:5:sub $0xa1a5d60,%eax
+0x400806:6:je 00000000004009cb <hsw_wrpll_get_budget_for_freq+0x3eb>
+0x40080c:5:jmpq 0000000000400811 <hsw_wrpll_get_budget_for_freq+0x231>
+0x400811:3:mov -0xc(%rbp),%eax
+0x400814:5:sub $0xab2f3e0,%eax
+0x400819:6:je 00000000004009cb <hsw_wrpll_get_budget_for_freq+0x3eb>
+0x40081f:5:jmpq 0000000000400824 <hsw_wrpll_get_budget_for_freq+0x244>
+0x400824:3:mov -0xc(%rbp),%eax
+0x400827:5:sub $0xc0a4680,%eax
+0x40082c:6:je 00000000004009cb <hsw_wrpll_get_budget_for_freq+0x3eb>
+0x400832:5:jmpq 0000000000400837 <hsw_wrpll_get_budget_for_freq+0x257>
+0x400837:3:mov -0xc(%rbp),%eax
+0x40083a:5:sub $0xd437648,%eax
+0x40083f:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x400845:5:jmpq 000000000040084a <hsw_wrpll_get_budget_for_freq+0x26a>
+0x40084a:3:mov -0xc(%rbp),%eax
+0x40084d:5:sub $0xd46e530,%eax
+0x400852:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x400858:5:jmpq 000000000040085d <hsw_wrpll_get_budget_for_freq+0x27d>
+0x40085d:3:mov -0xc(%rbp),%eax
+0x400860:5:sub $0xdeaed60,%eax
+0x400865:6:je 00000000004009bf <hsw_wrpll_get_budget_for_freq+0x3df>
+0x40086b:5:jmpq 0000000000400870 <hsw_wrpll_get_budget_for_freq+0x290>
+0x400870:3:mov -0xc(%rbp),%eax
+0x400873:5:sub $0xe9e37d0,%eax
+0x400878:6:je 00000000004009bf <hsw_wrpll_get_budget_for_freq+0x3df>
+0x40087e:5:jmpq 0000000000400883 <hsw_wrpll_get_budget_for_freq+0x2a3>
+0x400883:3:mov -0xc(%rbp),%eax
+0x400886:5:sub $0xec45d70,%eax
+0x40088b:6:je 00000000004009bf <hsw_wrpll_get_budget_for_freq+0x3df>
+0x400891:5:jmpq 0000000000400896 <hsw_wrpll_get_budget_for_freq+0x2b6>
+0x400896:3:mov -0xc(%rbp),%eax
+0x400899:5:sub $0xf1849d0,%eax
+0x40089e:6:je 00000000004009bf <hsw_wrpll_get_budget_for_freq+0x3df>
+0x4008a4:5:jmpq 00000000004008a9 <hsw_wrpll_get_budget_for_freq+0x2c9>
+0x4008a9:3:mov -0xc(%rbp),%eax
+0x4008ac:5:sub $0xf461090,%eax
+0x4008b1:6:je 00000000004009d7 <hsw_wrpll_get_budget_for_freq+0x3f7>
+0x4008b7:5:jmpq 00000000004008bc <hsw_wrpll_get_budget_for_freq+0x2dc>
+0x4008bc:3:mov -0xc(%rbp),%eax
+0x4008bf:5:sub $0xfa56ea0,%eax
+0x4008c4:6:je 00000000004009d7 <hsw_wrpll_get_budget_for_freq+0x3f7>
+0x4008ca:5:jmpq 00000000004008cf <hsw_wrpll_get_budget_for_freq+0x2ef>
+0x4008cf:3:mov -0xc(%rbp),%eax
+0x4008d2:5:sub $0xfede950,%eax
+0x4008d7:6:je 00000000004009e3 <hsw_wrpll_get_budget_for_freq+0x403>
+0x4008dd:5:jmpq 00000000004008e2 <hsw_wrpll_get_budget_for_freq+0x302>
+0x4008e2:3:mov -0xc(%rbp),%eax
+0x4008e5:5:sub $0x1000fc20,%eax
+0x4008ea:6:je 00000000004009e3 <hsw_wrpll_get_budget_for_freq+0x403>
+0x4008f0:5:jmpq 00000000004008f5 <hsw_wrpll_get_budget_for_freq+0x315>
+0x4008f5:3:mov -0xc(%rbp),%eax
+0x4008f8:5:sub $0x1017df80,%eax
+0x4008fd:6:je 00000000004009d7 <hsw_wrpll_get_budget_for_freq+0x3f7>
+0x400903:5:jmpq 0000000000400908 <hsw_wrpll_get_budget_for_freq+0x328>
+0x400908:3:mov -0xc(%rbp),%eax
+0x40090b:5:sub $0x103e0520,%eax
+0x400910:6:je 00000000004009d7 <hsw_wrpll_get_budget_for_freq+0x3f7>
+0x400916:5:jmpq 000000000040091b <hsw_wrpll_get_budget_for_freq+0x33b>
+0x40091b:3:mov -0xc(%rbp),%eax
+0x40091e:5:sub $0x105117f0,%eax
+0x400923:6:je 00000000004009d7 <hsw_wrpll_get_budget_for_freq+0x3f7>
+0x400929:5:jmpq 000000000040092e <hsw_wrpll_get_budget_for_freq+0x34e>
+0x40092e:3:mov -0xc(%rbp),%eax
+0x400931:5:sub $0x10bbe7b0,%eax
+0x400936:6:je 00000000004009d7 <hsw_wrpll_get_budget_for_freq+0x3f7>
+0x40093c:5:jmpq 0000000000400941 <hsw_wrpll_get_budget_for_freq+0x361>
+0x400941:3:mov -0xc(%rbp),%eax
+0x400944:5:sub $0x10c388d0,%eax
+0x400949:6:je 00000000004009d7 <hsw_wrpll_get_budget_for_freq+0x3f7>
+0x40094f:5:jmpq 0000000000400954 <hsw_wrpll_get_budget_for_freq+0x374>
+0x400954:3:mov -0xc(%rbp),%eax
+0x400957:5:sub $0x110c0380,%eax
+0x40095c:6:je 00000000004009d7 <hsw_wrpll_get_budget_for_freq+0x3f7>
+0x400962:5:jmpq 0000000000400967 <hsw_wrpll_get_budget_for_freq+0x387>
+0x400967:3:mov -0xc(%rbp),%eax
+0x40096a:5:sub $0x1163c070,%eax
+0x40096f:6:je 00000000004009d7 <hsw_wrpll_get_budget_for_freq+0x3f7>
+0x400975:5:jmpq 000000000040097a <hsw_wrpll_get_budget_for_freq+0x39a>
+0x40097a:3:mov -0xc(%rbp),%eax
+0x40097d:5:sub $0x11af5418,%eax
+0x400982:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x400988:5:jmpq 000000000040098d <hsw_wrpll_get_budget_for_freq+0x3ad>
+0x40098d:3:mov -0xc(%rbp),%eax
+0x400990:5:sub $0x11b3dc40,%eax
+0x400995:6:je 00000000004009b3 <hsw_wrpll_get_budget_for_freq+0x3d3>
+0x40099b:5:jmpq 00000000004009a0 <hsw_wrpll_get_budget_for_freq+0x3c0>
+0x4009a0:3:mov -0xc(%rbp),%eax
+0x4009a3:5:sub $0x11c31e80,%eax
+0x4009a8:6:je 00000000004009bf <hsw_wrpll_get_budget_for_freq+0x3df>
+0x4009ae:5:jmpq 00000000004009ef <hsw_wrpll_get_budget_for_freq+0x40f>
+0x4009b3:7:movl $0x0,-0x8(%rbp)
+0x4009ba:5:jmpq 00000000004009f6 <hsw_wrpll_get_budget_for_freq+0x416>
+0x4009bf:7:movl $0x5dc,-0x8(%rbp)
+0x4009c6:5:jmpq 00000000004009f6 <hsw_wrpll_get_budget_for_freq+0x416>
+0x4009cb:7:movl $0x7d0,-0x8(%rbp)
+0x4009d2:5:jmpq 00000000004009f6 <hsw_wrpll_get_budget_for_freq+0x416>
+0x4009d7:7:movl $0xfa0,-0x8(%rbp)
+0x4009de:5:jmpq 00000000004009f6 <hsw_wrpll_get_budget_for_freq+0x416>
+0x4009e3:7:movl $0x1388,-0x8(%rbp)
+0x4009ea:5:jmpq 00000000004009f6 <hsw_wrpll_get_budget_for_freq+0x416>
+0x4009ef:7:movl $0x3e8,-0x8(%rbp)
+0x4009f6:3:mov -0x8(%rbp),%eax
+0x4009f9:1:pop %rbp
+0x4009fa:1:retq
+0x4009fb:5:nopl 0x0(%rax,%rax,1)
+0x400a00:1:push %rbp
+0x400a01:3:mov %rsp,%rbp
+0x400a04:4:sub $0x30,%rsp
+0x400a08:7:movl $0x0,-0x4(%rbp)
+0x400a0f:3:mov %edi,-0x8(%rbp)
+0x400a12:4:mov %rsi,-0x10(%rbp)
+0x400a16:4:cmpl $0x2,-0x8(%rbp)
+0x400a1a:6:je 0000000000400a31 <main+0x31>
+0x400a20:5:callq 00000000004005b0 <usage>
+0x400a25:7:movl $0x1,-0x4(%rbp)
+0x400a2c:5:jmpq 0000000000400b03 <main+0x103>
+0x400a31:4:mov -0x10(%rbp),%rax
+0x400a35:4:mov 0x8(%rax),%rdi
+0x400a39:5:callq 0000000000400420 <atoi@plt>
+0x400a3e:3:mov %eax,-0x14(%rbp)
+0x400a41:3:mov -0x14(%rbp),%eax
+0x400a44:3:mov %eax,-0x30(%rbp)
+0x400a47:2:test %eax,%eax
+0x400a49:6:je 0000000000400a76 <main+0x76>
+0x400a4f:5:jmpq 0000000000400a54 <main+0x54>
+0x400a54:3:mov -0x30(%rbp),%eax
+0x400a57:3:sub $0x1,%eax
+0x400a5a:6:je 0000000000400aa1 <main+0xa1>
+0x400a60:5:jmpq 0000000000400a65 <main+0x65>
+0x400a65:3:mov -0x30(%rbp),%eax
+0x400a68:3:sub $0x2,%eax
+0x400a6b:6:je 0000000000400acc <main+0xcc>
+0x400a71:5:jmpq 0000000000400af7 <main+0xf7>
+0x400a76:7:movl $0x64,-0x18(%rbp)
+0x400a7d:3:mov -0x18(%rbp),%edi
+0x400a80:5:callq 00000000004005e0 <hsw_wrpll_get_budget_for_freq>
+0x400a85:3:mov %eax,-0x1c(%rbp)
+0x400a88:3:mov -0x1c(%rbp),%esi
+0x400a8b:10:movabs $0x400c82,%rdi
+0x400a95:2:mov $0x0,%al
+0x400a97:5:callq 0000000000400410 <printf@plt>
+0x400a9c:5:jmpq 0000000000400afc <main+0xfc>
+0x400aa1:7:movl $0xff,-0x20(%rbp)
+0x400aa8:3:mov -0x20(%rbp),%edi
+0x400aab:5:callq 00000000004005e0 <hsw_wrpll_get_budget_for_freq>
+0x400ab0:3:mov %eax,-0x24(%rbp)
+0x400ab3:3:mov -0x24(%rbp),%esi
+0x400ab6:10:movabs $0x400c82,%rdi
+0x400ac0:2:mov $0x0,%al
+0x400ac2:5:callq 0000000000400410 <printf@plt>
+0x400ac7:5:jmpq 0000000000400afc <main+0xfc>
+0x400acc:7:movl $0xa,-0x28(%rbp)
+0x400ad3:3:mov -0x28(%rbp),%edi
+0x400ad6:5:callq 00000000004005e0 <hsw_wrpll_get_budget_for_freq>
+0x400adb:3:mov %eax,-0x2c(%rbp)
+0x400ade:3:mov -0x2c(%rbp),%esi
+0x400ae1:10:movabs $0x400c82,%rdi
+0x400aeb:2:mov $0x0,%al
+0x400aed:5:callq 0000000000400410 <printf@plt>
+0x400af2:5:jmpq 0000000000400afc <main+0xfc>
+0x400af7:5:callq 00000000004005b0 <usage>
+0x400afc:7:movl $0x0,-0x4(%rbp)
+0x400b03:3:mov -0x4(%rbp),%eax
+0x400b06:4:add $0x30,%rsp
+0x400b0a:1:pop %rbp
+0x400b0b:1:retq
+0x400b0c:4:nopl 0x0(%rax)
+0x400b10:2:push %r15
+0x400b12:2:push %r14
+0x400b14:3:mov %rdx,%r15
+0x400b17:2:push %r13
+0x400b19:2:push %r12
+0x400b1b:7:lea 0x2012ee(%rip),%r12
+0x400b22:1:push %rbp
+0x400b23:7:lea 0x2012ee(%rip),%rbp
+0x400b2a:1:push %rbx
+0x400b2b:3:mov %edi,%r13d
+0x400b2e:3:mov %rsi,%r14
+0x400b31:3:sub %r12,%rbp
+0x400b34:4:sub $0x8,%rsp
+0x400b38:4:sar $0x3,%rbp
+0x400b3c:5:callq 00000000004003e0 <_init>
+0x400b41:3:test %rbp,%rbp
+0x400b44:2:je 0000000000400b66 <__libc_csu_init+0x56>
+0x400b46:2:xor %ebx,%ebx
+0x400b48:8:nopl 0x0(%rax,%rax,1)
+0x400b50:3:mov %r15,%rdx
+0x400b53:3:mov %r14,%rsi
+0x400b56:3:mov %r13d,%edi
+0x400b59:4:callq *(%r12,%rbx,8)
+0x400b5d:4:add $0x1,%rbx
+0x400b61:3:cmp %rbx,%rbp
+0x400b64:2:jne 0000000000400b50 <__libc_csu_init+0x40>
+0x400b66:4:add $0x8,%rsp
+0x400b6a:1:pop %rbx
+0x400b6b:1:pop %rbp
+0x400b6c:2:pop %r12
+0x400b6e:2:pop %r13
+0x400b70:2:pop %r14
+0x400b72:2:pop %r15
+0x400b74:1:retq
+0x400b75:1:nop
+0x400b76:10:nopw %cs:0x0(%rax,%rax,1)
+0x400b80:2:repz retq
+0x400b84:4:sub $0x8,%rsp
+0x400b88:4:add $0x8,%rsp
+0x400b8c:1:retq

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function max98090_volatile_register int | dev struct device * | reg unsigned int

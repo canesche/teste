@@ -1,0 +1,3 @@
+struct cx231xx_dmaqueue | lines_completed long | current_field int 
+struct cx231xx | norm int 
+function cx231xx_is_vbi_buffer_done int | dev struct cx231xx * | dma_q struct cx231xx_dmaqueue *

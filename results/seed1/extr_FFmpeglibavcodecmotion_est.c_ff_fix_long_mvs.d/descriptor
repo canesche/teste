@@ -1,4 +1,0 @@
-struct TYPE_7__ | avctx struct TYPE_5__ * 
-struct TYPE_6__ | out_format long | mb_height int | mb_stride int | mb_width int | mb_type int * | msmpeg4_version long | me struct TYPE_7__ 
-struct TYPE_5__ | me_range int 
-function ff_fix_long_mvs void | s struct TYPE_6__ * | field_select_table int * | field_select int | mv_table int (*)[2] | f_code int | type int | truncate int

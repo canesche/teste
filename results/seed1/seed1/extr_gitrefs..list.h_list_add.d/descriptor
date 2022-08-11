@@ -1,0 +1,2 @@
+struct list_head | next struct list_head * | prev struct list_head * 
+function list_add void | newp struct list_head * | head struct list_head *

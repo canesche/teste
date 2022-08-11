@@ -1,0 +1,2 @@
+struct cs_etm_packet | sample_type long | end_addr long 
+function cs_etm__last_executed_instr long | packet struct cs_etm_packet *

@@ -1,2 +1,0 @@
-struct bnxt | dummy int 
-function bnxt_dcb_init void | bp struct bnxt *

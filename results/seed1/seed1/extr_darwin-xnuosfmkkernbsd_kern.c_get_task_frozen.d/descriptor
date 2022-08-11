@@ -1,0 +1,2 @@
+struct TYPE_3__ | frozen int 
+function get_task_frozen int | task struct TYPE_3__ *

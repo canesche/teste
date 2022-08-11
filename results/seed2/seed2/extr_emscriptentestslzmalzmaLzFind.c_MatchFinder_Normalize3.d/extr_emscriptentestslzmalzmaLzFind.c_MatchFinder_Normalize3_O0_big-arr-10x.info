@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 231,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_emscriptentestslzmalzmaLzFind.c_MatchFinder_Normalize3.d/extr_emscriptentestslzmalzmaLzFind.c_MatchFinder_Normalize3_O0::MatchFinder_Normalize3(63)"
+  }
+]

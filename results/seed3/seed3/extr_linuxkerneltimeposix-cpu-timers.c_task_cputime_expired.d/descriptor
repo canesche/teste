@@ -1,0 +1,2 @@
+struct task_cputime | utime long | stime long | sum_exec_runtime long 
+function task_cputime_expired int | sample const struct task_cputime * | expires const struct task_cputime *

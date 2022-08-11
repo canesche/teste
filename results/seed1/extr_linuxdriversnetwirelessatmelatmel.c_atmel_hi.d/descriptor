@@ -1,2 +1,0 @@
-struct atmel_private | host_info_base long 
-function atmel_hi long | priv struct atmel_private * | offset long

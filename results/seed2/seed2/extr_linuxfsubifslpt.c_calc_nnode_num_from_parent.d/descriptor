@@ -1,0 +1,3 @@
+struct ubifs_nnode | level int | num int 
+struct ubifs_info | lpt_hght int 
+function calc_nnode_num_from_parent int | c const struct ubifs_info * | parent struct ubifs_nnode * | iip int

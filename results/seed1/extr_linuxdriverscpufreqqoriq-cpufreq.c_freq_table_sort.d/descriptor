@@ -1,2 +1,0 @@
-struct cpufreq_frequency_table | frequency unsigned int | driver_data int 
-function freq_table_sort void | freq_table struct cpufreq_frequency_table * | count int

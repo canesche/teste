@@ -1,0 +1,3 @@
+struct msc_debug_info | nomap int | omapp struct TYPE_2__ * 
+struct TYPE_2__ | from unsigned int | to unsigned int 
+function codeview_map_offset unsigned int | msc_dbg const struct msc_debug_info * | offset unsigned int

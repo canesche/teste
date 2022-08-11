@@ -1,2 +1,0 @@
-struct task_cputime | sum_exec_runtime int | stime int | utime int 
-function task_cputime_zero int | cputime const struct task_cputime *

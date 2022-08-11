@@ -1,2 +1,0 @@
-struct mlxsw_core_port | port_driver_priv int * 
-function mlxsw_core_port_check int | mlxsw_core_port struct mlxsw_core_port *

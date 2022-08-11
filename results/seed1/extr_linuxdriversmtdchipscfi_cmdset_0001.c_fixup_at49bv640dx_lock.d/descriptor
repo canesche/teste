@@ -1,5 +1,0 @@
-struct mtd_info | flags int | priv struct map_info * 
-struct map_info | fldrv_priv struct cfi_private * 
-struct cfi_private | cmdset_priv struct cfi_pri_intelext * 
-struct cfi_pri_intelext | FeatureSupport int 
-function fixup_at49bv640dx_lock void | mtd struct mtd_info *

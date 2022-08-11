@@ -1,0 +1,3 @@
+struct mp_log | dummy int 
+struct TYPE_3__ | type int | channels int | samplerate int | blocksize int | bytes_per_sample int | samplesize int | log struct mp_log * | setup long 
+function audio_in_init int | ai struct TYPE_3__ * | log struct mp_log * | type int

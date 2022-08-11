@@ -1,0 +1,4 @@
+struct cmg_chars | values long * 
+struct TYPE_2__ | values long * 
+struct channel_path | cmg_chars struct TYPE_2__ 
+function chsc_initialize_cmg_chars void | chp struct channel_path * | cmcv int | chars struct cmg_chars *

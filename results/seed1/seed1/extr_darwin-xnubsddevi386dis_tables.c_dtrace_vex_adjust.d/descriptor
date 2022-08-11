@@ -1,0 +1,1 @@
+function dtrace_vex_adjust void | vex_byte1 int | mode int | reg int * | r_m int *

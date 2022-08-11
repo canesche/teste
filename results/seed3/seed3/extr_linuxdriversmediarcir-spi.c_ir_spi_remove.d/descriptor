@@ -1,0 +1,2 @@
+struct spi_device | dummy int 
+function ir_spi_remove int | spi struct spi_device *

@@ -1,2 +1,0 @@
-struct crypto_aes_ctx | key_length int 
-function num_rounds int | ctx struct crypto_aes_ctx *

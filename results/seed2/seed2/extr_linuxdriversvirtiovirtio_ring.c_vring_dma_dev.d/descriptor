@@ -1,0 +1,6 @@
+struct TYPE_6__ | vdev struct TYPE_5__ * 
+struct vring_virtqueue | vq struct TYPE_6__ 
+struct device | dummy int 
+struct TYPE_4__ | parent struct device * 
+struct TYPE_5__ | dev struct TYPE_4__ 
+function vring_dma_dev struct device * | vq const struct vring_virtqueue *

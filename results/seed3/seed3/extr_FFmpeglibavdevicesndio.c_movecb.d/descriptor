@@ -1,0 +1,2 @@
+struct TYPE_2__ | hwpos int | channels int | bps int 
+function movecb void | addr void * | delta int

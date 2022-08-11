@@ -1,2 +1,0 @@
-struct mem_cgroup_threshold | threshold long 
-function compare_thresholds int | a const void * | b const void *

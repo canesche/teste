@@ -1,0 +1,2 @@
+struct phy_device | supported int 
+function __set_phy_supported int | phydev struct phy_device * | max_speed int

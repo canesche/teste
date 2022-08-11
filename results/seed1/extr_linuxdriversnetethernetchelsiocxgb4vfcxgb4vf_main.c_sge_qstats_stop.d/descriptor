@@ -1,2 +1,0 @@
-struct seq_file | dummy int 
-function sge_qstats_stop void | seq struct seq_file * | v void *

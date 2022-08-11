@@ -1,7 +1,0 @@
-struct xgifb_video_info | video_cmap_len int 
-struct TYPE_8__ | offset int | length int 
-struct TYPE_7__ | length int | offset int 
-struct TYPE_6__ | offset int | length int 
-struct TYPE_5__ | offset int | length int 
-struct fb_var_screeninfo | bits_per_pixel int | transp struct TYPE_8__ | blue struct TYPE_7__ | green struct TYPE_6__ | red struct TYPE_5__ 
-function XGIfb_bpp_to_var void | xgifb_info struct xgifb_video_info * | var struct fb_var_screeninfo *

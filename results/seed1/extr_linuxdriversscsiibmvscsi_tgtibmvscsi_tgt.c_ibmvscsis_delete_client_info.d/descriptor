@@ -1,3 +1,0 @@
-struct TYPE_2__ | os_type long 
-struct scsi_info | client_data struct TYPE_2__ | client_cap long 
-function ibmvscsis_delete_client_info void | vscsi struct scsi_info * | client_closed int

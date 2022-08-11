@@ -1,0 +1,4 @@
+struct user_regset | dummy int 
+struct TYPE_2__ | flags int 
+struct task_struct | thread struct TYPE_2__ 
+function fpregs_active int | target struct task_struct * | regset const struct user_regset *

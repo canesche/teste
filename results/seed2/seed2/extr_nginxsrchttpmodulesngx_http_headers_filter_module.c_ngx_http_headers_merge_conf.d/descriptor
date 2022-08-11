@@ -1,0 +1,2 @@
+struct TYPE_2__ | expires long | trailers int * | headers int * | expires_value int | expires_time int 
+function ngx_http_headers_merge_conf char * | cf int * | parent void * | child void *

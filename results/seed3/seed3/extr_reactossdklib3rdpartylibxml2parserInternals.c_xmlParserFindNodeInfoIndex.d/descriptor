@@ -1,0 +1,3 @@
+struct TYPE_5__ | length unsigned long | buffer struct TYPE_4__ * 
+struct TYPE_4__ | node int *const 
+function xmlParserFindNodeInfoIndex unsigned long | seq struct TYPE_5__ *const | node int *const

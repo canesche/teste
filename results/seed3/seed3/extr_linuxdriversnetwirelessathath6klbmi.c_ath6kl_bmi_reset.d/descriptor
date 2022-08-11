@@ -1,0 +1,3 @@
+struct TYPE_2__ | done_sent int 
+struct ath6kl | bmi struct TYPE_2__ 
+function ath6kl_bmi_reset void | ar struct ath6kl *

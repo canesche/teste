@@ -1,0 +1,1 @@
+function ff_draw_pc_font void | dst int * | linesize int | font const int * | font_height int | ch int | fg int | bg int

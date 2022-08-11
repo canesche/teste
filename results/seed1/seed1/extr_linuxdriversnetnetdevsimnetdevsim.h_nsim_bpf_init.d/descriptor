@@ -1,0 +1,2 @@
+struct netdevsim | dummy int 
+function nsim_bpf_init int | ns struct netdevsim *

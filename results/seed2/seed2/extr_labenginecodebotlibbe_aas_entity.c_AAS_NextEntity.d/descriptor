@@ -1,0 +1,4 @@
+struct TYPE_6__ | maxentities int | entities struct TYPE_5__ * | loaded int 
+struct TYPE_4__ | valid long 
+struct TYPE_5__ | i struct TYPE_4__ 
+function AAS_NextEntity int | entnum int

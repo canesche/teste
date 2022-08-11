@@ -1,0 +1,2 @@
+struct mp_audio_buffer | allocated int | num_samples int 
+function mp_audio_buffer_get_write_available int | ab struct mp_audio_buffer *

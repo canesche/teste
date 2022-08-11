@@ -1,2 +1,0 @@
-struct TYPE_4__ | type long | child_b struct TYPE_4__ * | child_a struct TYPE_4__ * 
-function mockfs_fsnode_child_by_type int | parent struct TYPE_4__ * | type long | child struct TYPE_4__ **

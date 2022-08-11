@@ -1,4 +1,0 @@
-struct amdgpu_ip_block | version struct TYPE_2__ * 
-struct amdgpu_device | num_ip_blocks int | ip_blocks struct amdgpu_ip_block * 
-struct TYPE_2__ | type int 
-function amdgpu_device_ip_get_ip_block struct amdgpu_ip_block * | adev struct amdgpu_device * | type enum amd_ip_block_type

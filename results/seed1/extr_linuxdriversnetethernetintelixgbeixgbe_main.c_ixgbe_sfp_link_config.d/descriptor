@@ -1,4 +1,0 @@
-struct TYPE_3__ | type long 
-struct TYPE_4__ | mac struct TYPE_3__ 
-struct ixgbe_adapter | sfp_poll_time long | flags2 int | hw struct TYPE_4__ 
-function ixgbe_sfp_link_config void | adapter struct ixgbe_adapter *

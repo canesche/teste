@@ -1,0 +1,4 @@
+struct task_struct | rmid long 
+struct TYPE_2__ | rmid long 
+struct rdtgroup | type long | mon struct TYPE_2__ 
+function is_rmid_match int | t struct task_struct * | r struct rdtgroup *

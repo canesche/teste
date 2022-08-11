@@ -1,2 +1,0 @@
-struct arm_smmu_device | options int 
-function arm_smmu_resource_size unsigned long | smmu struct arm_smmu_device *

@@ -1,0 +1,3 @@
+struct seg6_hmac_info | hmackeyid long 
+struct rhashtable_compare_arg | key long 
+function seg6_hmac_cmpfn int | arg struct rhashtable_compare_arg * | obj const void *

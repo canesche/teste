@@ -1,0 +1,6 @@
+struct usb_mixer_elem_info | channels int 
+struct snd_kcontrol | private_value long | private_data struct usb_mixer_elem_info * 
+struct TYPE_3__ | step int | max long | min long 
+struct TYPE_4__ | integer struct TYPE_3__ 
+struct snd_ctl_elem_info | value struct TYPE_4__ | count int | type int 
+function scarlett_ctl_info int | kctl struct snd_kcontrol * | uinfo struct snd_ctl_elem_info *

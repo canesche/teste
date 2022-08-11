@@ -1,0 +1,3 @@
+struct TYPE_5__ | length_ long | idx_ unsigned long | split_ struct TYPE_4__ * | type_ int 
+struct TYPE_4__ | lengths long * | types int * 
+function BlockSplitIteratorNext void | self struct TYPE_5__ *

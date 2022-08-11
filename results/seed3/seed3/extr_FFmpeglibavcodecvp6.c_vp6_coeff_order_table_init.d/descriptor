@@ -1,0 +1,3 @@
+struct TYPE_5__ | sub_version int | modelp struct TYPE_4__ * 
+struct TYPE_4__ | coeff_index_to_pos int * | coeff_reorder int * | coeff_index_to_idct_selector int * 
+function vp6_coeff_order_table_init void | s struct TYPE_5__ *

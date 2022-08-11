@@ -1,0 +1,2 @@
+struct skb_entry | link unsigned short 
+function skb_entry_set_link void | list union skb_entry * | id unsigned short

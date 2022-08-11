@@ -1,0 +1,3 @@
+struct kvm_device_attr | dummy int 
+struct kvm | dummy int 
+function kvm_s390_set_processor_subfunc int | kvm struct kvm * | attr struct kvm_device_attr *

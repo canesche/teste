@@ -1,0 +1,2 @@
+struct intel_th | dummy int 
+function intel_th_request_hub_module_flush void | th struct intel_th *

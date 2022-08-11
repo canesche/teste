@@ -1,0 +1,2 @@
+struct node | prev struct node * | next struct node * 
+function insque void | element void * | pred void *

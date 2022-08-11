@@ -1,3 +1,0 @@
-struct ramoops_context | pmsg_read_cnt long | ftrace_read_cnt long | console_read_cnt long | dump_read_cnt long 
-struct pstore_info | data struct ramoops_context * 
-function ramoops_pstore_open int | psi struct pstore_info *

@@ -1,3 +1,0 @@
-struct bd2802_led | led struct TYPE_2__ * 
-struct TYPE_2__ | b long | g long | r long 
-function bd2802_is_led_off int | led struct bd2802_led * | id enum led_ids

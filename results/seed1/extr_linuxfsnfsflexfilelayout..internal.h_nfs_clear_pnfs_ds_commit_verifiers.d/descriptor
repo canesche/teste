@@ -1,2 +1,0 @@
-struct pnfs_ds_commit_info | dummy int 
-function nfs_clear_pnfs_ds_commit_verifiers void | cinfo struct pnfs_ds_commit_info *

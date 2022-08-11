@@ -1,0 +1,2 @@
+struct TYPE_3__ | send_frame long | encode2 long | encode_sub long 
+function av_codec_is_encoder int | codec const struct TYPE_3__ *

@@ -1,3 +1,0 @@
-struct TYPE_5__ | connections struct TYPE_4__ * 
-struct TYPE_4__ | status long | tcp_connection long 
-function online_tcp_connection_from_conn unsigned int | con_to struct TYPE_5__ *

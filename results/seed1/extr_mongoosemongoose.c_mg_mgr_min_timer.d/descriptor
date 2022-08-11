@@ -1,3 +1,0 @@
-struct mg_mgr | active_connections struct mg_connection * 
-struct mg_connection | ev_timer_time double | next struct mg_connection * 
-function mg_mgr_min_timer double | mgr const struct mg_mgr *

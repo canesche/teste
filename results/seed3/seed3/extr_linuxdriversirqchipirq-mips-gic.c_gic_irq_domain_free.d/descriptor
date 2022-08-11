@@ -1,0 +1,2 @@
+struct irq_domain | dummy int 
+function gic_irq_domain_free void | d struct irq_domain * | virq unsigned int | nr_irqs unsigned int

@@ -1,2 +1,0 @@
-struct amdgpu_device | dummy int 
-function amdgpu_msi_ok int | adev struct amdgpu_device *

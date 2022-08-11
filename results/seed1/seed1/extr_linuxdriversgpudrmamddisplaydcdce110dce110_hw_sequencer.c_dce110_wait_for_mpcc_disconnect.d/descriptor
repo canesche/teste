@@ -1,0 +1,4 @@
+struct resource_pool | dummy int 
+struct pipe_ctx | dummy int 
+struct dc | dummy int 
+function dce110_wait_for_mpcc_disconnect void | dc struct dc * | res_pool struct resource_pool * | pipe_ctx struct pipe_ctx *

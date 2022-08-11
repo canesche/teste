@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessmarvellmwifiexscan.c_mwifiex_is_hidden_ssid.d/extr_linuxdriversnetwirelessmarvellmwifiexscan.c_mwifiex_is_hidden_ssid_O0::mwifiex_is_hidden_ssid(61)"
+  }
+]

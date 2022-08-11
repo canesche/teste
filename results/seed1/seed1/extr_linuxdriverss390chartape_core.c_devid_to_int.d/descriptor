@@ -1,0 +1,2 @@
+struct ccw_dev_id | devno int | ssid int 
+function devid_to_int int | dev_id struct ccw_dev_id *

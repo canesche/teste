@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function cleanup_data void | dev struct net_device *

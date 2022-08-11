@@ -1,0 +1,2 @@
+struct TYPE_3__ | lasttarget int | pc int 
+function luaK_getlabel int | fs struct TYPE_3__ *

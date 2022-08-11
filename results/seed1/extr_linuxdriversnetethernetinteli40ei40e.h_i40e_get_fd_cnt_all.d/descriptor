@@ -1,3 +1,0 @@
-struct TYPE_2__ | fdir_shared_filter_count int 
-struct i40e_pf | fdir_pf_filter_count int | hw struct TYPE_2__ 
-function i40e_get_fd_cnt_all int | pf struct i40e_pf *

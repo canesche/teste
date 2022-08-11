@@ -1,0 +1,3 @@
+struct freq_table | frequency long | power long 
+struct cpufreq_cooling_device | max_level int | freq_table struct freq_table * 
+function cpu_freq_to_power long | cpufreq_cdev struct cpufreq_cooling_device * | freq long

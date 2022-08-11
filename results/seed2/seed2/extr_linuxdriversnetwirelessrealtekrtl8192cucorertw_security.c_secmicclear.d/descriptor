@@ -1,0 +1,2 @@
+struct mic_data | M long | nBytesInM long | K1 int | R int | K0 int | L int 
+function secmicclear void | pmicdata struct mic_data *

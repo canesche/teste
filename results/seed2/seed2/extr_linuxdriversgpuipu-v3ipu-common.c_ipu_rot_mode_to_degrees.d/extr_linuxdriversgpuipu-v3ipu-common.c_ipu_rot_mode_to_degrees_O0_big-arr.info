@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpuipu-v3ipu-common.c_ipu_rot_mode_to_degrees.d/extr_linuxdriversgpuipu-v3ipu-common.c_ipu_rot_mode_to_degrees_O0::ipu_rot_mode_to_degrees(68)"
+  }
+]

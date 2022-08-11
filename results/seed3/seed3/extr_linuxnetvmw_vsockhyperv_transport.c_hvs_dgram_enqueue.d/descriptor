@@ -1,0 +1,4 @@
+struct vsock_sock | dummy int 
+struct sockaddr_vm | dummy int 
+struct msghdr | dummy int 
+function hvs_dgram_enqueue int | vsk struct vsock_sock * | remote struct sockaddr_vm * | msg struct msghdr * | dgram_len unsigned long

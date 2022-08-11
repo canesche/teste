@@ -1,0 +1,2 @@
+struct cvm_mmc_slot | cached_switch int 
+function switch_val_changed int | slot struct cvm_mmc_slot * | new_val int

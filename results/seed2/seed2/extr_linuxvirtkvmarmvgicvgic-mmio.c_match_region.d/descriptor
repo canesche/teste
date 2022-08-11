@@ -1,0 +1,2 @@
+struct vgic_register_region | reg_offset const unsigned int | len const unsigned int 
+function match_region int | key const void * | elt const void *

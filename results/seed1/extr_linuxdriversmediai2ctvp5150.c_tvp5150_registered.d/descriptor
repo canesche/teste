@@ -1,2 +1,0 @@
-struct v4l2_subdev | dummy int 
-function tvp5150_registered int | sd struct v4l2_subdev *

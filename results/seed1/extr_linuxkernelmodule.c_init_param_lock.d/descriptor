@@ -1,2 +1,0 @@
-struct module | dummy int 
-function init_param_lock void | mod struct module *

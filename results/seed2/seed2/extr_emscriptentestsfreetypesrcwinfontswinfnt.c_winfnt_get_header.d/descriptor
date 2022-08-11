@@ -1,0 +1,3 @@
+struct TYPE_4__ | font struct TYPE_3__ * 
+struct TYPE_3__ | header int 
+function winfnt_get_header int | face long | aheader int *

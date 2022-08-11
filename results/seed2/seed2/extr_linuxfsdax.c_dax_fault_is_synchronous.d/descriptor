@@ -1,0 +1,3 @@
+struct vm_area_struct | vm_flags int 
+struct iomap | flags int 
+function dax_fault_is_synchronous int | flags unsigned long | vma struct vm_area_struct * | iomap struct iomap *

@@ -1,0 +1,4 @@
+struct onenand_chip | page_shift long | bufferram struct TYPE_2__ * 
+struct mtd_info | priv struct onenand_chip * 
+struct TYPE_2__ | blockpage long 
+function onenand_invalidate_bufferram void | mtd struct mtd_info * | addr long | len unsigned int

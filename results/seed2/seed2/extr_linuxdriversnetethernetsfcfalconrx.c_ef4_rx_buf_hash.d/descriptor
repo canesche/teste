@@ -1,0 +1,2 @@
+struct ef4_nic | rx_packet_hash_offset int 
+function ef4_rx_buf_hash int | efx struct ef4_nic * | eh const long *

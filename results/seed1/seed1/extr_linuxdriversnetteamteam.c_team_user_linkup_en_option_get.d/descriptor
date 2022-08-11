@@ -1,0 +1,7 @@
+struct TYPE_6__ | linkup_enabled int 
+struct team_port | user struct TYPE_6__ 
+struct TYPE_5__ | bool_val int 
+struct team_gsetter_ctx | data struct TYPE_5__ | info struct TYPE_4__ * 
+struct team | dummy int 
+struct TYPE_4__ | port struct team_port * 
+function team_user_linkup_en_option_get int | team struct team * | ctx struct team_gsetter_ctx *

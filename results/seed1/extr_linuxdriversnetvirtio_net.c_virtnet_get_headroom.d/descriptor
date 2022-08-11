@@ -1,2 +1,0 @@
-struct virtnet_info | xdp_queue_pairs long 
-function virtnet_get_headroom unsigned int | vi struct virtnet_info *

@@ -1,0 +1,3 @@
+struct rc_dev | dummy int 
+struct lirc_scancode | dummy int 
+function ir_lirc_scancode_event void | dev struct rc_dev * | lsc struct lirc_scancode *

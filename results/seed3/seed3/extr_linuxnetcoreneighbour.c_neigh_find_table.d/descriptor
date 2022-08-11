@@ -1,0 +1,2 @@
+struct neigh_table | dummy int 
+function neigh_find_table struct neigh_table * | family int

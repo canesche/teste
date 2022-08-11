@@ -1,2 +1,0 @@
-struct sparsebit | num_set long | root long 
-function sparsebit_all_set int | s struct sparsebit *

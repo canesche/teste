@@ -1,3 +1,0 @@
-struct efx_nic | rx_nodesc_drops_prev_state int | rx_nodesc_drops_while_down long | net_dev struct TYPE_2__ * | rx_nodesc_drops_total long 
-struct TYPE_2__ | flags int 
-function efx_nic_fix_nodesc_drop_stat void | efx struct efx_nic * | rx_nodesc_drops long *

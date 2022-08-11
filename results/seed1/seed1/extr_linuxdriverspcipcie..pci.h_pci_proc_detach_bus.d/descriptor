@@ -1,0 +1,2 @@
+struct pci_bus | dummy int 
+function pci_proc_detach_bus int | bus struct pci_bus *

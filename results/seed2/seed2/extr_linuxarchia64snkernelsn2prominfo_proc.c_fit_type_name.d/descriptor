@@ -1,0 +1,2 @@
+struct fit_type_map_t | type int | name const char * 
+function fit_type_name const char * | type unsigned char

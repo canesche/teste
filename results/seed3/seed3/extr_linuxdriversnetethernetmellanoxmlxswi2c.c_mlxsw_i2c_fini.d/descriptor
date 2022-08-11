@@ -1,0 +1,2 @@
+struct mlxsw_i2c | core int * 
+function mlxsw_i2c_fini void | bus_priv void *

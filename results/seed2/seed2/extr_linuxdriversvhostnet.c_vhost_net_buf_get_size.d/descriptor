@@ -1,0 +1,2 @@
+struct vhost_net_buf | tail int | head int 
+function vhost_net_buf_get_size int | rxq struct vhost_net_buf *

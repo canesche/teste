@@ -1,2 +1,0 @@
-struct esp | dummy int 
-function mac_esp_unmap_single void | esp struct esp * | addr int | sz unsigned long | dir int

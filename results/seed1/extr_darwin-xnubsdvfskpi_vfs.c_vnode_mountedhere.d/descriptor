@@ -1,3 +1,0 @@
-struct TYPE_6__ | mnt_vnodecovered struct TYPE_5__ * 
-struct TYPE_5__ | v_type long | v_mountedhere struct TYPE_6__ * 
-function vnode_mountedhere struct TYPE_6__ * | vp struct TYPE_5__ *

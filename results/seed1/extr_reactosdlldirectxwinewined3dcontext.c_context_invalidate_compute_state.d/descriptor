@@ -1,3 +1,0 @@
-struct wined3d_context | dirty_compute_states unsigned int * | state_table struct TYPE_2__ * 
-struct TYPE_2__ | representative unsigned long 
-function context_invalidate_compute_state void | context struct wined3d_context * | state_id unsigned long

@@ -1,0 +1,4 @@
+struct TYPE_2__ | allow int 
+struct posix_acl_state | mask struct TYPE_2__ 
+struct posix_ace_state | allow int 
+function add_to_mask void | state struct posix_acl_state * | astate struct posix_ace_state *

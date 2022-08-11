@@ -1,0 +1,7 @@
+struct TYPE_2__ | vbi int 
+struct v4l2_format | fmt struct TYPE_2__ 
+struct saa7146_vv | vbi_fmt int 
+struct saa7146_fh | dev struct saa7146_dev * 
+struct saa7146_dev | vv_data struct saa7146_vv * 
+struct file | dummy int 
+function vidioc_g_fmt_vbi_cap int | file struct file * | fh void * | f struct v4l2_format *

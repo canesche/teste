@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmamddisplaydcdce110dce110_timing_generator.c_dce110_timing_generator_apply_front_porch_workaround.d/extr_linuxdriversgpudrmamddisplaydcdce110dce110_timing_generator.c_dce110_timing_generator_apply_front_porch_workaround_O0::dce110_timing_generator_apply_front_porch_workaround(66)"
+  }
+]

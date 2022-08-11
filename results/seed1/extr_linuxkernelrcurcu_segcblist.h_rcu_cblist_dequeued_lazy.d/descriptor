@@ -1,2 +1,0 @@
-struct rcu_cblist | len_lazy int 
-function rcu_cblist_dequeued_lazy void | rclp struct rcu_cblist *

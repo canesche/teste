@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversusbearlyehci-dbgp.c_dbgp_pid_read_update.d/extr_linuxdriversusbearlyehci-dbgp.c_dbgp_pid_read_update_O0::dbgp_pid_read_update(62)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_labenginecoderenderergl2tr_bsp.c_FatLightmap.d/extr_labenginecoderenderergl2tr_bsp.c_FatLightmap_O0::FatLightmap(63)"
+  }
+]

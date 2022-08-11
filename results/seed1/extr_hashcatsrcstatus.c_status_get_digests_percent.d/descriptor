@@ -1,3 +1,0 @@
-struct TYPE_4__ | digests_cnt long | digests_done long 
-struct TYPE_5__ | hashes struct TYPE_4__ * 
-function status_get_digests_percent double | hashcat_ctx const struct TYPE_5__ *

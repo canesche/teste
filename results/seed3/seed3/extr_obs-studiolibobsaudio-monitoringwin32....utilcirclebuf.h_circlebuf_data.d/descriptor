@@ -1,0 +1,2 @@
+struct circlebuf | start_pos unsigned long | size unsigned long | capacity unsigned long | data long 
+function circlebuf_data void * | cb struct circlebuf * | idx unsigned long

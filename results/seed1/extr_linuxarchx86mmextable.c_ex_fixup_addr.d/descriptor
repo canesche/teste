@@ -1,2 +1,0 @@
-struct exception_table_entry | fixup unsigned long 
-function ex_fixup_addr unsigned long | x const struct exception_table_entry *

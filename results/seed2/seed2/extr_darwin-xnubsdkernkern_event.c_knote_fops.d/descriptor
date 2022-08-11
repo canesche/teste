@@ -1,0 +1,3 @@
+struct knote | kn_filtid unsigned long 
+struct filterops | dummy int 
+function knote_fops const struct filterops * | kn struct knote *

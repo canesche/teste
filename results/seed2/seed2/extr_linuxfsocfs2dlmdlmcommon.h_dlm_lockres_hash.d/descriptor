@@ -1,0 +1,3 @@
+struct hlist_head | dummy int 
+struct dlm_ctxt | lockres_hash struct hlist_head ** 
+function dlm_lockres_hash struct hlist_head * | dlm struct dlm_ctxt * | i unsigned int

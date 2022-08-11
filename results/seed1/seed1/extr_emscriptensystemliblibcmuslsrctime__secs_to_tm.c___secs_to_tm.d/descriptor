@@ -1,0 +1,2 @@
+struct tm | tm_year long long | tm_mon int | tm_mday int | tm_wday int | tm_yday int | tm_hour int | tm_min int | tm_sec int 
+function __secs_to_tm int | t long long | tm struct tm *

@@ -1,0 +1,1 @@
+function _RpcEnumPerMachineConnections int | pServer int | pPrinterEnum int * | cbBuf int | pcbNeeded int * | pcReturned int *

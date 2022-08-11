@@ -1,0 +1,2 @@
+struct usb_line6_toneport | type int 
+function toneport_has_led int | toneport struct usb_line6_toneport *

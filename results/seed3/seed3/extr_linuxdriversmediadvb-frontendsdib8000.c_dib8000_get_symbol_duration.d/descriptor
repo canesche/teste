@@ -1,0 +1,4 @@
+struct dtv_frontend_properties | transmission_mode int | bandwidth_hz int 
+struct dib8000_state | fe struct TYPE_2__ ** 
+struct TYPE_2__ | dtv_property_cache struct dtv_frontend_properties 
+function dib8000_get_symbol_duration int | state struct dib8000_state *

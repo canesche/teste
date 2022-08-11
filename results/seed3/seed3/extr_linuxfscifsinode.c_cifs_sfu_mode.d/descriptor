@@ -1,0 +1,3 @@
+struct cifs_sb_info | dummy int 
+struct cifs_fattr | dummy int 
+function cifs_sfu_mode int | fattr struct cifs_fattr * | path const unsigned char * | cifs_sb struct cifs_sb_info * | xid unsigned int

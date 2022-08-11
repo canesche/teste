@@ -1,0 +1,3 @@
+struct TYPE_4__ | hand_state long | in_init int 
+struct TYPE_5__ | statem struct TYPE_4__ 
+function SSL_is_init_finished int | s const struct TYPE_5__ *

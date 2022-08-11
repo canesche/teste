@@ -1,2 +1,0 @@
-struct TYPE_3__ | debug_cb_data void * | debug_cb int 
-function jq_get_debug_cb void | jq struct TYPE_3__ * | cb int * | data void **

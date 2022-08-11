@@ -1,0 +1,3 @@
+struct advert | prev struct TYPE_2__ * | next struct TYPE_2__ * 
+struct TYPE_2__ | next struct TYPE_2__ * | prev struct TYPE_2__ * 
+function remove_queue_ad void | A struct advert *

@@ -1,4 +1,0 @@
-struct dvb_frontend | dvb struct TYPE_2__ * 
-struct cx8802_dev | ts_gen_cntrl int 
-struct TYPE_2__ | priv struct cx8802_dev * 
-function ds3000_set_ts_param int | fe struct dvb_frontend * | is_punctured int

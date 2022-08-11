@@ -1,0 +1,7 @@
+struct hw_perf_event_extra | config unsigned long long | idx int 
+struct TYPE_6__ | branch_reg struct hw_perf_event_extra 
+struct TYPE_5__ | branch_sample_type unsigned long long 
+struct perf_event | hw struct TYPE_6__ | attr struct TYPE_5__ 
+struct TYPE_7__ | lbr_format long 
+struct TYPE_8__ | lbr_sel_map unsigned long long * | lbr_sel_mask unsigned long long | intel_cap struct TYPE_7__ 
+function intel_pmu_setup_hw_lbr_filter int | event struct perf_event *

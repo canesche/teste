@@ -1,0 +1,4 @@
+struct pci_dev | devfn int | sysdata struct pci_channel * | bus struct pci_bus * 
+struct pci_channel | pci_ops int 
+struct pci_bus | number int | parent struct pci_bus * | ops int | sysdata struct pci_channel * 
+function fake_pci_dev struct pci_dev * | hose struct pci_channel * | top_bus int | busnr int | devfn int

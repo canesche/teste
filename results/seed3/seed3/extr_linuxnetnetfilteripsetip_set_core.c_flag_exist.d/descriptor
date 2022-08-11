@@ -1,0 +1,2 @@
+struct nlmsghdr | nlmsg_flags int 
+function flag_exist int | nlh const struct nlmsghdr *

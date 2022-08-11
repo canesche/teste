@@ -1,2 +1,0 @@
-struct delta_base_cache_key | p long | base_offset long 
-function delta_base_cache_key_eq int | a const struct delta_base_cache_key * | b const struct delta_base_cache_key *

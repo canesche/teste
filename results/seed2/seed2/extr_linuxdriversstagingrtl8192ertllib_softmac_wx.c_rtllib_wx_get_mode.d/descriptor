@@ -1,0 +1,4 @@
+struct iwreq_data | mode int 
+struct rtllib_device | iw_mode int 
+struct iw_request_info | dummy int 
+function rtllib_wx_get_mode int | ieee struct rtllib_device * | a struct iw_request_info * | wrqu union iwreq_data * | b char *

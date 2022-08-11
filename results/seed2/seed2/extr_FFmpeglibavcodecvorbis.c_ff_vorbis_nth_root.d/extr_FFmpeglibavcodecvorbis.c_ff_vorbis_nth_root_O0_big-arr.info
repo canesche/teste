@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 6,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9198,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_FFmpeglibavcodecvorbis.c_ff_vorbis_nth_root.d/extr_FFmpeglibavcodecvorbis.c_ff_vorbis_nth_root_O0::ff_vorbis_nth_root(60)"
+  }
+]

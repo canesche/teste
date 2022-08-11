@@ -1,0 +1,4 @@
+struct timeval | tv_sec long | tv_usec long 
+struct camera_data | num_frames int | buffers struct TYPE_2__ * 
+struct TYPE_2__ | status long | timestamp struct timeval 
+function find_earliest_filled_buffer int | cam struct camera_data *

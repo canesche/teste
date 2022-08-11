@@ -1,0 +1,2 @@
+struct ofdm_plcp_header | prefix int * 
+function zd_ofdm_plcp_header_rate int | header const struct ofdm_plcp_header *

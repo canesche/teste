@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct fiemap_extent_info | dummy int 
+function bad_inode_fiemap int | inode struct inode * | fieinfo struct fiemap_extent_info * | start int | len int

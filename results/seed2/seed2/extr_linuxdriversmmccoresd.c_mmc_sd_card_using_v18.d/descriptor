@@ -1,0 +1,3 @@
+struct TYPE_2__ | sd3_bus_mode int 
+struct mmc_card | sw_caps struct TYPE_2__ 
+function mmc_sd_card_using_v18 int | card struct mmc_card *

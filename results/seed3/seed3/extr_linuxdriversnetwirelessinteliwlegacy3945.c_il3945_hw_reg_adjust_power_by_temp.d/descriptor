@@ -1,0 +1,1 @@
+function il3945_hw_reg_adjust_power_by_temp int | new_reading int | old_reading int

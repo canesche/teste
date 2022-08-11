@@ -1,0 +1,2 @@
+struct ql3_adapter | small_buf_index long | small_buf_release_cnt int 
+function ql_get_sbuf void | qdev struct ql3_adapter *

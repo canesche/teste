@@ -1,3 +1,0 @@
-struct dc_link | dummy int 
-struct amdgpu_display_manager | dummy int 
-function register_backlight_device void | dm struct amdgpu_display_manager * | link struct dc_link *

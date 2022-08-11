@@ -1,0 +1,3 @@
+struct TYPE_2__ | BootBuf unsigned char * 
+struct boot_data | Cryptor int | buf struct TYPE_2__ 
+function DecryptBuf void | boot struct boot_data * | cnt int

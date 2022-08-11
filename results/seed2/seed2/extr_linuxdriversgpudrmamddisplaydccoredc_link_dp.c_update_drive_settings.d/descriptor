@@ -1,0 +1,4 @@
+struct TYPE_3__ | lane_count unsigned long 
+struct link_training_settings | lane_settings struct TYPE_4__ * | link_settings struct TYPE_3__ 
+struct TYPE_4__ | POST_CURSOR2 int | PRE_EMPHASIS int | VOLTAGE_SWING int 
+function update_drive_settings void | dest struct link_training_settings * | src struct link_training_settings

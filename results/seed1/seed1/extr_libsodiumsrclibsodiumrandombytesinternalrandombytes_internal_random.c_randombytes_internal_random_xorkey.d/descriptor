@@ -1,0 +1,2 @@
+struct TYPE_2__ | key unsigned char * 
+function randombytes_internal_random_xorkey void | mix const unsigned char *const

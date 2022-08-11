@@ -1,0 +1,3 @@
+struct qib_ctxtdata | rcvegrbufs_perchunk_shift unsigned long | rcvegrbuf void ** | dd struct TYPE_2__ * | rcvegrbufs_perchunk long 
+struct TYPE_2__ | rcvegrbufsize_shift const unsigned long 
+function qib_get_egrbuf void * | rcd const struct qib_ctxtdata * | etail unsigned long

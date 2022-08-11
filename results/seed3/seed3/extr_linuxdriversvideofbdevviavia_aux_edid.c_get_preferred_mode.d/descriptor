@@ -1,0 +1,4 @@
+struct via_aux_drv | data struct fb_monspecs * 
+struct fb_videomode | flag int 
+struct fb_monspecs | misc int | modedb_len int | modedb const struct fb_videomode * 
+function get_preferred_mode const struct fb_videomode * | drv struct via_aux_drv *

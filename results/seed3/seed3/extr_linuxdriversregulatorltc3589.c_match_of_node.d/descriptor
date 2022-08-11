@@ -1,0 +1,2 @@
+struct device_node | dummy int 
+function match_of_node struct device_node * | index int

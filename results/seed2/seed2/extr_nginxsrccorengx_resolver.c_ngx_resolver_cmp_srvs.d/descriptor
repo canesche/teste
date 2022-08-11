@@ -1,0 +1,2 @@
+struct TYPE_2__ | priority long 
+function ngx_resolver_cmp_srvs long | one const void * | two const void *

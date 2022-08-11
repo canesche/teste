@@ -1,0 +1,2 @@
+struct hvsi_struct | flags int 
+function is_console int | hp struct hvsi_struct *

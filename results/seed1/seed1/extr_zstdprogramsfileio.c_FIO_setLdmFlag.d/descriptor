@@ -1,0 +1,2 @@
+struct TYPE_3__ | ldmFlag int 
+function FIO_setLdmFlag void | prefs struct TYPE_3__ *const | ldmFlag unsigned int

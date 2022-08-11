@@ -1,0 +1,6 @@
+struct curl_hash_iterator | slot_index int | current_element struct TYPE_4__ * | hash struct curl_hash * 
+struct curl_hash_element | dummy int 
+struct curl_hash | slots int | table struct TYPE_3__ * 
+struct TYPE_4__ | ptr struct curl_hash_element * | next struct TYPE_4__ * 
+struct TYPE_3__ | head struct TYPE_4__ * 
+function Curl_hash_next_element struct curl_hash_element * | iter struct curl_hash_iterator *

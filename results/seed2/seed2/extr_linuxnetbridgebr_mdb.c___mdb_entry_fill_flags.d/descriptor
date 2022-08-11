@@ -1,0 +1,2 @@
+struct br_mdb_entry | state unsigned char | flags int 
+function __mdb_entry_fill_flags void | e struct br_mdb_entry * | flags unsigned char

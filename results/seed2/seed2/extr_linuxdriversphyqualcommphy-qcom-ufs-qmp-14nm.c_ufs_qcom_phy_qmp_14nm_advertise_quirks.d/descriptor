@@ -1,0 +1,2 @@
+struct ufs_qcom_phy | quirks int 
+function ufs_qcom_phy_qmp_14nm_advertise_quirks void | phy_common struct ufs_qcom_phy *

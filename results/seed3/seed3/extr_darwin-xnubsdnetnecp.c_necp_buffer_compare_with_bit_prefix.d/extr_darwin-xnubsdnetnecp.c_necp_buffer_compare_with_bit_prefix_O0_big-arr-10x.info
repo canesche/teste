@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_darwin-xnubsdnetnecp.c_necp_buffer_compare_with_bit_prefix.d/extr_darwin-xnubsdnetnecp.c_necp_buffer_compare_with_bit_prefix_O0::necp_buffer_compare_with_bit_prefix(65)"
+  }
+]

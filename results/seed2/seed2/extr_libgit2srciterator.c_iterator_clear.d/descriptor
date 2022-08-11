@@ -1,0 +1,2 @@
+struct TYPE_3__ | started int | ended int | flags int | pathlist_walk_idx long | stat_calls long 
+function iterator_clear void | iter struct TYPE_3__ *

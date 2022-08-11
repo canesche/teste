@@ -1,2 +1,0 @@
-struct mpic | dummy int 
-function mpic_u3msi_init int | mpic struct mpic *

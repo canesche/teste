@@ -1,0 +1,3 @@
+struct submodule_update_clone | quickstop int 
+struct strbuf | dummy int 
+function update_clone_start_failure int | err struct strbuf * | suc_cb void * | idx_task_cb void *

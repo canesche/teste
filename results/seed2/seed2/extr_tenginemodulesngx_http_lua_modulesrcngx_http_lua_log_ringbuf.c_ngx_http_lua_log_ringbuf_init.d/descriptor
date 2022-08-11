@@ -1,0 +1,2 @@
+struct TYPE_3__ | size unsigned long | filter_level int | count long | data void * | sentinel void * | head void * | tail void * 
+function ngx_http_lua_log_ringbuf_init void | rb struct TYPE_3__ * | buf void * | len unsigned long

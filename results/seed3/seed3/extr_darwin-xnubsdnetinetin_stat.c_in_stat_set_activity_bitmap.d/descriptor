@@ -1,0 +1,2 @@
+struct TYPE_3__ | start long | bitmap int * 
+function in_stat_set_activity_bitmap void | activity struct TYPE_3__ * | now int

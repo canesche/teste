@@ -1,0 +1,3 @@
+struct TYPE_3__ | iOffset long 
+struct TYPE_4__ | endpoint struct TYPE_3__ 
+function memjrnlFileSize int | pJfd int * | pSize long *

@@ -1,0 +1,2 @@
+struct net_device | netdev_ops int * | priv_flags int 
+function vxlan_ether_setup void | dev struct net_device *

@@ -1,1 +1,0 @@
-value(rss_default_cpu) == 10, value(rss_hash_type) == 10, value(rss_hash_bits) == 10, value(rss_base_cpu) == 10, value(rss_enable) == 10, value(tso_ipid_split_en) == 10, value(ig_vlan_strip_en) == 10, length(nic_cfg) == 100

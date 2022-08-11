@@ -1,2 +1,0 @@
-struct pkt_file | pkt_len long 
-function rtw_endofpktfile int | pfile struct pkt_file *

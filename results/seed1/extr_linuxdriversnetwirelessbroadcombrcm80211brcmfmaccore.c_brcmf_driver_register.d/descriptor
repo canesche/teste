@@ -1,2 +1,0 @@
-struct work_struct | dummy int 
-function brcmf_driver_register void | work struct work_struct *

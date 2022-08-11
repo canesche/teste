@@ -1,0 +1,3 @@
+struct page | dummy int 
+struct alloc_context | dummy int 
+function __alloc_pages_direct_compact struct page * | gfp_mask int | order unsigned int | alloc_flags unsigned int | ac const struct alloc_context * | prio enum compact_priority | compact_result enum compact_result *

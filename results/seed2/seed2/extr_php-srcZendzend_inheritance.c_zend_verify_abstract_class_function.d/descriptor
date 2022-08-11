@@ -1,0 +1,4 @@
+struct TYPE_6__ | fn_flags int 
+struct TYPE_7__ | common struct TYPE_6__ 
+struct TYPE_8__ | cnt unsigned long | ctor int | afn struct TYPE_7__ ** 
+function zend_verify_abstract_class_function void | fn struct TYPE_7__ * | ai struct TYPE_8__ *

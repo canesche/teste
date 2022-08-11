@@ -1,0 +1,4 @@
+struct TYPE_3__ | rx_buf_virt int * 
+struct pch_spi_data | bpw_len int | cur_trans struct TYPE_4__ * | dma struct TYPE_3__ 
+struct TYPE_4__ | rx_buf int * 
+function pch_spi_copy_rx_data_for_dma void | data struct pch_spi_data * | bpw int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriverss390cioqdio_setup.c_process_ac_flags.d/extr_linuxdriverss390cioqdio_setup.c_process_ac_flags_O0::process_ac_flags(68)"
+  }
+]

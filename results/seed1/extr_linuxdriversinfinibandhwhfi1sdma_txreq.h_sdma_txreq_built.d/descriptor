@@ -1,2 +1,0 @@
-struct sdma_txreq | num_desc int 
-function sdma_txreq_built int | tx struct sdma_txreq *

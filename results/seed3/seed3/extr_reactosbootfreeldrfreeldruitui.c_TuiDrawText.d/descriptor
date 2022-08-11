@@ -1,0 +1,1 @@
+function TuiDrawText int | X unsigned long | Y unsigned long | Text long * | Attr long

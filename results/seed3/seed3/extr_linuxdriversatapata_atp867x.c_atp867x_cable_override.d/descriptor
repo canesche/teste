@@ -1,0 +1,2 @@
+struct pci_dev | subsystem_vendor long | subsystem_device long 
+function atp867x_cable_override int | pdev struct pci_dev *

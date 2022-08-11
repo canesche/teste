@@ -1,0 +1,4 @@
+struct TYPE_4__ | tail long 
+struct TYPE_3__ | tail long 
+struct rte_ring | cons struct TYPE_4__ | prod struct TYPE_3__ 
+function rte_ring_empty int | r const struct rte_ring *

@@ -1,2 +1,0 @@
-struct b43legacy_wldev | dummy int 
-function b43legacy_debug int | dev struct b43legacy_wldev * | feature enum b43legacy_dyndbg

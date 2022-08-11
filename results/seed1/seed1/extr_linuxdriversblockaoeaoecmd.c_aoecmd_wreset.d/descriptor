@@ -1,0 +1,2 @@
+struct aoetgt | maxout int | ssthresh int | nframes int | next_cwnd int 
+function aoecmd_wreset void | t struct aoetgt *

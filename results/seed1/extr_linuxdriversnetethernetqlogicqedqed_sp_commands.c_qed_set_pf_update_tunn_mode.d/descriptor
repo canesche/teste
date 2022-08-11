@@ -1,7 +1,0 @@
-struct TYPE_10__ | b_mode_enabled int | b_update_mode long 
-struct TYPE_9__ | b_mode_enabled int | b_update_mode long 
-struct TYPE_8__ | b_mode_enabled int | b_update_mode long 
-struct TYPE_7__ | b_mode_enabled int | b_update_mode long 
-struct TYPE_6__ | b_mode_enabled int | b_update_mode long 
-struct qed_tunnel_info | ip_geneve struct TYPE_10__ | l2_geneve struct TYPE_9__ | ip_gre struct TYPE_8__ | l2_gre struct TYPE_7__ | vxlan struct TYPE_6__ 
-function qed_set_pf_update_tunn_mode void | p_tun struct qed_tunnel_info * | p_src struct qed_tunnel_info * | b_pf_start int

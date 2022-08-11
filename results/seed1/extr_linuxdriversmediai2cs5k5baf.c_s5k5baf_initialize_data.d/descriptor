@@ -1,2 +1,0 @@
-struct s5k5baf | req_fiv int | fiv int | valid_auto_alg long | pixfmt long 
-function s5k5baf_initialize_data void | state struct s5k5baf *

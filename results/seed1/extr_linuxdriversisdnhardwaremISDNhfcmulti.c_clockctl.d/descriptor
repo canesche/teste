@@ -1,2 +1,0 @@
-struct hfc_multi | iclock_on int 
-function clockctl int | priv void * | enable int

@@ -1,0 +1,5 @@
+struct page | dummy int 
+struct ore_striping_info | cur_pg unsigned long | cur_comp unsigned long 
+struct __stripe_pages_2d | needed int | pages_in_unit int | _1p_stripes struct __1_page_stripe * 
+struct __1_page_stripe | write_count int | pages struct page ** 
+function _ore_add_stripe_page void | sp2d struct __stripe_pages_2d * | si struct ore_striping_info * | page struct page *

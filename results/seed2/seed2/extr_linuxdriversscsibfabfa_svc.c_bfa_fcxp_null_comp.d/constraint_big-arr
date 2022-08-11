@@ -1,0 +1,1 @@
+value(req_status) == 255, value(rsp_len) == 255, value(resid_len) == 255, length(bfad_fcxp) == 65025, length(cbarg) == 65025, length(fcxp) == 65025, length(rsp_fchs) == 65025

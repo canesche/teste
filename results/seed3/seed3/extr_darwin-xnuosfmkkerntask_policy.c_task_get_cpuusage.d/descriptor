@@ -1,0 +1,2 @@
+struct TYPE_3__ | rusage_cpu_flags int | rusage_cpu_deadline long | rusage_cpu_interval long | rusage_cpu_percentage long | rusage_cpu_perthr_interval long | rusage_cpu_perthr_percentage long 
+function task_get_cpuusage int | task struct TYPE_3__ * | percentagep long * | intervalp long * | deadlinep long * | scope int *

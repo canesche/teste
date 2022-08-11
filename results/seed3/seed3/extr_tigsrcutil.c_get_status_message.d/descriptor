@@ -1,0 +1,1 @@
+function get_status_message const char * | code enum status_code

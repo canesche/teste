@@ -1,0 +1,3 @@
+struct TYPE_2__ | dsize_log2 int | ring_size int | cur long 
+struct fec_enet_priv_tx_q | bd struct TYPE_2__ | dirty_tx long 
+function fec_enet_get_free_txdesc_num int | txq struct fec_enet_priv_tx_q *

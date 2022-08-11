@@ -1,0 +1,3 @@
+struct server_pool | dummy int 
+struct server | owner struct server_pool * 
+function server_each_set_owner int | elem void * | data void *

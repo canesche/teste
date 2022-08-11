@@ -1,0 +1,3 @@
+struct fb_info | dummy int 
+struct fb_fillrect | dummy int 
+function xxxfb_fillrect void | p struct fb_info * | region const struct fb_fillrect *

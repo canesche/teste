@@ -1,3 +1,0 @@
-struct MPT3SAS_ADAPTER | pcie_sg_lookup struct TYPE_2__ * 
-struct TYPE_2__ | pcie_sgl long 
-function mpt3sas_base_get_pcie_sgl void * | ioc struct MPT3SAS_ADAPTER * | smid int

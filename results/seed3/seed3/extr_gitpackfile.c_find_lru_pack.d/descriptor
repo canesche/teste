@@ -1,0 +1,3 @@
+struct packed_git | mtime long | windows struct pack_window * 
+struct pack_window | last_used long | inuse_cnt long | next struct pack_window * 
+function find_lru_pack void | p struct packed_git * | lru_p struct packed_git ** | mru_w struct pack_window ** | accept_windows_inuse int *

@@ -1,3 +1,0 @@
-struct elfhdr | dummy int 
-struct arch_elf_state | dummy int 
-function arch_check_elf int | ehdr struct elfhdr * | has_interp int | interp_ehdr struct elfhdr * | state struct arch_elf_state *

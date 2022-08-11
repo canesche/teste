@@ -1,0 +1,3 @@
+struct qlcnic_adapter | ahw struct TYPE_2__ * 
+struct TYPE_2__ | extra_capability int * 
+function qlcnic_83xx_encap_tx_offload int | adapter struct qlcnic_adapter *

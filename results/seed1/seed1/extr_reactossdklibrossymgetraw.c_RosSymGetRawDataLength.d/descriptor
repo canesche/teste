@@ -1,0 +1,2 @@
+struct TYPE_3__ | SymbolsCount int | StringsLength long 
+function RosSymGetRawDataLength long | RosSymInfo struct TYPE_3__ *

@@ -1,0 +1,6 @@
+struct TYPE_5__ | num_types int | funcs int * 
+struct TYPE_7__ | num_types int | funcs int * 
+struct TYPE_6__ | funcs int * | num_types int 
+struct TYPE_8__ | priv_inst_irq struct TYPE_5__ | priv_reg_irq struct TYPE_7__ | eop_irq struct TYPE_6__ 
+struct amdgpu_device | gfx struct TYPE_8__ 
+function gfx_v6_0_set_irq_funcs void | adev struct amdgpu_device *

@@ -1,0 +1,5 @@
+struct TYPE_10__ | items struct TYPE_8__ * | uNumItem long 
+struct TYPE_9__ | bottom int | top int | right int | left int 
+struct TYPE_7__ | bottom int | top int | right int | left int 
+struct TYPE_8__ | rect struct TYPE_7__ 
+function HEADER_GetItemRect int | infoPtr const struct TYPE_10__ * | iItem unsigned long | lpRect struct TYPE_9__ *

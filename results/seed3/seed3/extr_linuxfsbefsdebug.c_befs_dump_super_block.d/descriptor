@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function befs_dump_super_block void | sb const struct super_block * | sup int *

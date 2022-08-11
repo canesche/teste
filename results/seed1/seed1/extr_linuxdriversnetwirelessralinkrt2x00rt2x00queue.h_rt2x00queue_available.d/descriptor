@@ -1,0 +1,2 @@
+struct data_queue | limit int | length int 
+function rt2x00queue_available int | queue struct data_queue *

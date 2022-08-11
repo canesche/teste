@@ -1,0 +1,2 @@
+struct cfq_group | dummy int 
+function cfqg_stats_update_avg_queue_size void | cfqg struct cfq_group *

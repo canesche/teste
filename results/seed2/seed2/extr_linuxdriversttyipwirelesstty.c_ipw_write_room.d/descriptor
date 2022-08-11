@@ -1,0 +1,4 @@
+struct tty_struct | driver_data struct ipw_tty * 
+struct TYPE_2__ | count int 
+struct ipw_tty | tx_bytes_queued int | port struct TYPE_2__ 
+function ipw_write_room int | linux_tty struct tty_struct *

@@ -1,2 +1,0 @@
-struct module | dummy int 
-function module_finalize int | hdr const int * | sechdrs const int * | mod struct module *

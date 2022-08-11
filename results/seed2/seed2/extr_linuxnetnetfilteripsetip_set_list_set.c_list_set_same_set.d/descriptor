@@ -1,0 +1,3 @@
+struct list_set | size long 
+struct ip_set | timeout long | extensions long | data struct list_set * 
+function list_set_same_set int | a const struct ip_set * | b const struct ip_set *

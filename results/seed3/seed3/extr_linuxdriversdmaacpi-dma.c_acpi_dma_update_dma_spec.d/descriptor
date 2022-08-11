@@ -1,0 +1,3 @@
+struct acpi_dma_spec | slave_id long | dev int 
+struct acpi_dma | base_request_line long | end_request_line long | dev int 
+function acpi_dma_update_dma_spec int | adma struct acpi_dma * | dma_spec struct acpi_dma_spec *

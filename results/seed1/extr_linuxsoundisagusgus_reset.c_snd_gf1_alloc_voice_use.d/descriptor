@@ -1,4 +1,0 @@
-struct snd_gus_voice | use int | pcm int | synth int | client int | port int | midi int 
-struct TYPE_2__ | pcm_alloc_voices int 
-struct snd_gus_card | gf1 struct TYPE_2__ 
-function snd_gf1_alloc_voice_use void | gus struct snd_gus_card * | pvoice struct snd_gus_voice * | type int | client int | port int

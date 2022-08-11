@@ -1,0 +1,3 @@
+struct TYPE_4__ | pkt_flags int | drv_tx_compl_arg unsigned long | drv_tx_compl_data unsigned long 
+struct TYPE_5__ | m_flags int | m_pkthdr struct TYPE_4__ 
+function mbuf_get_tx_compl_data int | m struct TYPE_5__ * | arg unsigned long * | data unsigned long *

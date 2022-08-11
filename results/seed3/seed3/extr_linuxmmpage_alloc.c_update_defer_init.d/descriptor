@@ -1,0 +1,1 @@
+function update_defer_init int | pgdat int * | pfn unsigned long | zone_end unsigned long | nr_initialised unsigned long *

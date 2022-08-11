@@ -1,1 +1,0 @@
-function pll_get_integloop_gain int | frac_start long | bclk long | ref_clk int | gen_ssc int

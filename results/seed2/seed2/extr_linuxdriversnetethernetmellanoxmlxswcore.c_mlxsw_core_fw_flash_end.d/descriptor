@@ -1,0 +1,2 @@
+struct mlxsw_core | fw_flash_in_progress int 
+function mlxsw_core_fw_flash_end void | mlxsw_core struct mlxsw_core *

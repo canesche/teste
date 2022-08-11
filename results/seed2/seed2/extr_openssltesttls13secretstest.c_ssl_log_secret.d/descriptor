@@ -1,0 +1,1 @@
+function ssl_log_secret int | ssl int * | label const char * | secret const int * | secret_len unsigned long

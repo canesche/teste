@@ -1,0 +1,2 @@
+struct jfs_dirent | name_len int 
+function next_jfs_dirent struct jfs_dirent * | dirent struct jfs_dirent *

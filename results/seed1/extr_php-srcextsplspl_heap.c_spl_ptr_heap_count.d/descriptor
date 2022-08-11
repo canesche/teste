@@ -1,2 +1,0 @@
-struct TYPE_3__ | count int 
-function spl_ptr_heap_count int | heap struct TYPE_3__ *

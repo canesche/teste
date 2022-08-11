@@ -1,3 +1,0 @@
-struct TYPE_2__ | ev_queue int | ev_get int | ev_put int 
-struct s_smc | q struct TYPE_2__ 
-function ev_init void | smc struct s_smc *

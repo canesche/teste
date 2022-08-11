@@ -1,0 +1,2 @@
+struct line | next void * 
+function get_next void * | a const void *

@@ -1,0 +1,5 @@
+struct usb_interface | cur_altsetting struct TYPE_4__ * 
+struct usb_endpoint_descriptor | dummy int 
+struct TYPE_4__ | endpoint struct TYPE_3__ * 
+struct TYPE_3__ | desc struct usb_endpoint_descriptor 
+function usb_get_epd struct usb_endpoint_descriptor * | iface struct usb_interface * | ep int

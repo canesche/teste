@@ -1,3 +1,0 @@
-struct load_command | cmd long | cmdsize long 
-struct TYPE_3__ | ncmds unsigned long 
-function getcommandfromheader void * | mhp struct TYPE_3__ * | cmd long

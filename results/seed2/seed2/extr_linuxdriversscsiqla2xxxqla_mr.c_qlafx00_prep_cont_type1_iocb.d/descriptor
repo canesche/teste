@@ -1,0 +1,3 @@
+struct req_que | ring_index long | length long | ring_ptr long | ring long 
+struct TYPE_4__ | entry_type int 
+function qlafx00_prep_cont_type1_iocb struct TYPE_4__ * | req struct req_que * | lcont_pkt struct TYPE_4__ *

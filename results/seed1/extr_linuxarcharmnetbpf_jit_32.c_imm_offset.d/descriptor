@@ -1,3 +1,0 @@
-struct jit_ctx | imm_count unsigned int | imms long * | offsets int * | idx int | flags int | target long * | epilogue_bytes long | prologue_bytes long | prog struct TYPE_2__ * 
-struct TYPE_2__ | len int 
-function imm_offset int | k long | ctx struct jit_ctx *

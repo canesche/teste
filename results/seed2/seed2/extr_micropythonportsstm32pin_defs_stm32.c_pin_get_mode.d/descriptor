@@ -1,0 +1,3 @@
+struct TYPE_4__ | pin int | pin_mask int | gpio struct TYPE_5__ * 
+struct TYPE_5__ | MODER int | OTYPER int 
+function pin_get_mode int | pin const struct TYPE_4__ *

@@ -1,0 +1,4 @@
+struct TYPE_4__ | rsphdlr struct TYPE_3__ * 
+struct bfa_msgq | rspq struct TYPE_4__ 
+struct TYPE_3__ | cbarg void * | cbfn int 
+function bfa_msgq_regisr void | msgq struct bfa_msgq * | mc enum bfi_mclass | cbfn int | cbarg void *

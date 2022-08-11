@@ -1,0 +1,2 @@
+struct ipc_namespace | dummy int 
+function mq_clear_sbinfo void | ns struct ipc_namespace *

@@ -1,0 +1,2 @@
+struct isci_host | tci_head int | tci_pool unsigned long * 
+function isci_tci_alloc unsigned long | ihost struct isci_host *

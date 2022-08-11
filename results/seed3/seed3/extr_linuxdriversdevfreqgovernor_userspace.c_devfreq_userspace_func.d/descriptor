@@ -1,0 +1,3 @@
+struct userspace_data | user_frequency unsigned long | valid long 
+struct devfreq | max_freq unsigned long | min_freq unsigned long | previous_freq unsigned long | data struct userspace_data * 
+function devfreq_userspace_func int | df struct devfreq * | freq unsigned long *

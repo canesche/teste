@@ -1,0 +1,2 @@
+struct dbcs_table | cp2uni_leadbytes unsigned char * 
+function get_length_dbcs int | table const struct dbcs_table * | src const unsigned char * | srclen unsigned int

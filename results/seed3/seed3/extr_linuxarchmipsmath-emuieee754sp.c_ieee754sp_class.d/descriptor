@@ -1,0 +1,2 @@
+struct ieee754sp | dummy int 
+function ieee754sp_class int | x union ieee754sp

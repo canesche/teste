@@ -1,0 +1,3 @@
+struct iov_iter | iov_offset unsigned long | iov struct TYPE_2__ * 
+struct TYPE_2__ | iov_base long 
+function fuse_get_user_addr unsigned long | ii const struct iov_iter *

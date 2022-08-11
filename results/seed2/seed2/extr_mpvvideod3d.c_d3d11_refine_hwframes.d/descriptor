@@ -1,0 +1,4 @@
+struct TYPE_7__ | data long 
+struct TYPE_6__ | BindFlags int 
+struct TYPE_5__ | format long | sw_format long | hwctx struct TYPE_6__ * 
+function d3d11_refine_hwframes void | hw_frames_ctx struct TYPE_7__ *

@@ -1,0 +1,2 @@
+struct sn_hwperf_object_info | id int 
+function sn_hwperf_findobj_id struct sn_hwperf_object_info * | objbuf struct sn_hwperf_object_info * | nobj int | id int

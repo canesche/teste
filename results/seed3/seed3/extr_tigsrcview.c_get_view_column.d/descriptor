@@ -1,0 +1,3 @@
+struct view_column | type int | next struct view_column * 
+struct view | columns struct view_column * 
+function get_view_column struct view_column * | view struct view * | type enum view_column_type

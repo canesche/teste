@@ -1,4 +1,0 @@
-struct TYPE_7__ | total_bits long | avctx struct TYPE_5__ * 
-struct TYPE_6__ | den int | num long 
-struct TYPE_5__ | bit_rate int | ticks_per_frame int | frame_number double | time_base struct TYPE_6__ 
-function optimum_use15_7 int | s struct TYPE_7__ *

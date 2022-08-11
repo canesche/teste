@@ -1,3 +1,0 @@
-struct sr_pcie_phy_core | pipemux unsigned long 
-struct sr_pcie_phy | index unsigned int | core struct sr_pcie_phy_core * 
-function pcie_core_is_for_rc int | phy struct sr_pcie_phy *

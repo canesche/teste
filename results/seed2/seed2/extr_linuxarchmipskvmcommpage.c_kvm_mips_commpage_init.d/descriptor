@@ -1,0 +1,4 @@
+struct TYPE_2__ | cop0 int * | kseg0_commpage struct kvm_mips_commpage * 
+struct kvm_vcpu | arch struct TYPE_2__ 
+struct kvm_mips_commpage | cop0 int 
+function kvm_mips_commpage_init void | vcpu struct kvm_vcpu *

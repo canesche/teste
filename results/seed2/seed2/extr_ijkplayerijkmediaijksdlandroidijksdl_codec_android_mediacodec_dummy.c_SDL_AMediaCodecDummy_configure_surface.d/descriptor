@@ -1,0 +1,1 @@
+function SDL_AMediaCodecDummy_configure_surface int | env int * | acodec int * | aformat const int * | android_surface int | crypto int * | flags int

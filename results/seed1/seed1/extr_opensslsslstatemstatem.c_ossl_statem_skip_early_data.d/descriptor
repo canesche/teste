@@ -1,0 +1,4 @@
+struct TYPE_6__ | hand_state long 
+struct TYPE_5__ | early_data long 
+struct TYPE_7__ | hello_retry_request long | statem struct TYPE_6__ | server int | ext struct TYPE_5__ 
+function ossl_statem_skip_early_data int | s struct TYPE_7__ *

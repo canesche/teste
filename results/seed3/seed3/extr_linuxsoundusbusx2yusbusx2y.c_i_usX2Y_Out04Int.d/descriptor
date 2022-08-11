@@ -1,0 +1,2 @@
+struct urb | dummy int 
+function i_usX2Y_Out04Int void | urb struct urb *

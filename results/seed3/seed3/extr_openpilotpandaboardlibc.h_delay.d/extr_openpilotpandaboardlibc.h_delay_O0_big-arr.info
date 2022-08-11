@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 2049,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_openpilotpandaboardlibc.h_delay.d/extr_openpilotpandaboardlibc.h_delay_O0::delay(59)"
+  }
+]

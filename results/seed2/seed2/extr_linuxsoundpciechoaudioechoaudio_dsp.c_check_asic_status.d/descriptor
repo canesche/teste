@@ -1,0 +1,2 @@
+struct echoaudio | asic_loaded int 
+function check_asic_status int | chip struct echoaudio *

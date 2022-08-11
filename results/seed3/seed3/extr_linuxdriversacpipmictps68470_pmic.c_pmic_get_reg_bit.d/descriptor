@@ -1,0 +1,2 @@
+struct tps68470_pmic_table | reg int | bitmask int 
+function pmic_get_reg_bit int | address int | table const struct tps68470_pmic_table * | table_size const unsigned int | reg int * | bitmask int *

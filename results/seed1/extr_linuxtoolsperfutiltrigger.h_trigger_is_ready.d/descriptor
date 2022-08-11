@@ -1,2 +1,0 @@
-struct trigger | state long 
-function trigger_is_ready int | t struct trigger *

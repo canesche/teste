@@ -1,0 +1,4 @@
+struct TYPE_4__ | format_reg long | format_val long 
+struct regmap | format struct TYPE_4__ | bus struct TYPE_3__ * 
+struct TYPE_3__ | write long 
+function regmap_can_raw_write int | map struct regmap *

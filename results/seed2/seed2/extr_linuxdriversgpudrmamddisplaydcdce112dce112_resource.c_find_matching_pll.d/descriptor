@@ -1,0 +1,8 @@
+struct resource_pool | clock_sources struct clock_source ** 
+struct resource_context | dummy int 
+struct dc_stream_state | sink struct TYPE_6__ * 
+struct clock_source | dummy int 
+struct TYPE_6__ | link struct TYPE_5__ * 
+struct TYPE_5__ | link_enc struct TYPE_4__ * 
+struct TYPE_4__ | transmitter int 
+function find_matching_pll struct clock_source * | res_ctx struct resource_context * | pool const struct resource_pool * | stream const struct dc_stream_state *const

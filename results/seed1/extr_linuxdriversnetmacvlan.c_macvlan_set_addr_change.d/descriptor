@@ -1,2 +1,0 @@
-struct macvlan_port | flags int 
-function macvlan_set_addr_change void | port struct macvlan_port *

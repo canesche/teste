@@ -1,0 +1,1 @@
+function decode_10bit_pulse void | code int | pulse_position int [8] | i1 int | i2 int | i3 int

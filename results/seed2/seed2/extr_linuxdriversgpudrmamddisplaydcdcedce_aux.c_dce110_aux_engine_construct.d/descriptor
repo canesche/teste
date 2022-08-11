@@ -1,0 +1,5 @@
+struct dce110_aux_registers | dummy int 
+struct dc_context | dummy int 
+struct aux_engine | inst void * | funcs int * | max_defer_write_retry long | delay long | ctx struct dc_context * | ddc int * 
+struct aux_engine_dce110 | base struct aux_engine | regs const struct dce110_aux_registers * | timeout_period void * 
+function dce110_aux_engine_construct struct aux_engine * | aux_engine110 struct aux_engine_dce110 * | ctx struct dc_context * | inst void * | timeout_period void * | regs const struct dce110_aux_registers *

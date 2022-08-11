@@ -1,3 +1,0 @@
-struct edt_reg_addr | reg_offset void * | reg_gain void * | reg_threshold void * | reg_num_y int | reg_num_x int | reg_report_rate int 
-struct edt_ft5x06_ts_data | version int | reg_addr struct edt_reg_addr 
-function edt_ft5x06_ts_set_regs void | tsdata struct edt_ft5x06_ts_data *

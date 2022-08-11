@@ -1,0 +1,2 @@
+struct TYPE_3__ | lvl long | buffer int | p int | L int * 
+function luaL_buffinit void | L int * | B struct TYPE_3__ *

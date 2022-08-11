@@ -1,2 +1,0 @@
-struct platform_device | dummy int 
-function at91_cf_dt_init int | pdev struct platform_device *

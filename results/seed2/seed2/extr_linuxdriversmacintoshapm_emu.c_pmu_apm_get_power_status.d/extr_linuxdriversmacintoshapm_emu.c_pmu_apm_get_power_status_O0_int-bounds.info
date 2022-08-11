@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 46,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 46,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmacintoshapm_emu.c_pmu_apm_get_power_status.d/extr_linuxdriversmacintoshapm_emu.c_pmu_apm_get_power_status_O0::pmu_apm_get_power_status(86)"
+  }
+]

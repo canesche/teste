@@ -1,0 +1,2 @@
+struct fman_mac | dummy int 
+function memac_set_tstamp int | memac struct fman_mac * | enable int

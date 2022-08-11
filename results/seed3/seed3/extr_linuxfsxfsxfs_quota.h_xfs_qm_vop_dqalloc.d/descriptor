@@ -1,0 +1,3 @@
+struct xfs_inode | dummy int 
+struct xfs_dquot | dummy int 
+function xfs_qm_vop_dqalloc int | ip struct xfs_inode * | uid int | gid int | prid int | flags int | udqp struct xfs_dquot ** | gdqp struct xfs_dquot ** | pdqp struct xfs_dquot **

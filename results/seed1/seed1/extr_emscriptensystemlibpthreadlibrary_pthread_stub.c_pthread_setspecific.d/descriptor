@@ -1,0 +1,1 @@
+function pthread_setspecific int | key long | value const void *

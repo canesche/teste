@@ -1,0 +1,3 @@
+struct capilib_ncci | nmsg int | msgidfree struct capilib_msgidqueue * | msgidlast struct capilib_msgidqueue * | msgidqueue struct capilib_msgidqueue * 
+struct capilib_msgidqueue | msgid long | next struct capilib_msgidqueue * 
+function mq_dequeue int | np struct capilib_ncci * | msgid long

@@ -1,2 +1,0 @@
-struct urb | dummy int 
-function dump_urb void | level enum debuglevel | tag const char * | urb struct urb *

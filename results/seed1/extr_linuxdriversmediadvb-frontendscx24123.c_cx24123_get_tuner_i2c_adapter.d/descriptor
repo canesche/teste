@@ -1,4 +1,0 @@
-struct i2c_adapter | dummy int 
-struct dvb_frontend | demodulator_priv struct cx24123_state * 
-struct cx24123_state | tuner_i2c_adapter struct i2c_adapter 
-function cx24123_get_tuner_i2c_adapter struct i2c_adapter * | fe struct dvb_frontend *

@@ -1,0 +1,2 @@
+struct php_crypt_extended_data | en_keysl int * | en_keysr int * | de_keysl int * | de_keysr int * | saltbits int 
+function do_des int | l_in int | r_in int | l_out int * | r_out int * | count int | data struct php_crypt_extended_data *

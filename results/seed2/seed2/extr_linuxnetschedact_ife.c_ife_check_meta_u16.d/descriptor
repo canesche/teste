@@ -1,0 +1,2 @@
+struct tcf_meta_info | metaval long 
+function ife_check_meta_u16 int | metaval long | mi struct tcf_meta_info *

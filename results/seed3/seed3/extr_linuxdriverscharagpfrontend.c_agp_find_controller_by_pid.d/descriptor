@@ -1,0 +1,3 @@
+struct agp_controller | pid long | next struct agp_controller * 
+struct TYPE_2__ | controllers struct agp_controller * 
+function agp_find_controller_by_pid struct agp_controller * | id long

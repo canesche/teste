@@ -1,0 +1,4 @@
+struct TYPE_2__ | XferState long 
+struct hw_fib | header struct TYPE_2__ 
+struct fib | hw_fib_va struct hw_fib * 
+function fib_dealloc void | fibptr struct fib *

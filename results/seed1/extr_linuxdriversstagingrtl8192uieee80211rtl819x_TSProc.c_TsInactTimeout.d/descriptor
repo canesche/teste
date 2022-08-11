@@ -1,2 +1,0 @@
-struct timer_list | dummy int 
-function TsInactTimeout void | unused struct timer_list *

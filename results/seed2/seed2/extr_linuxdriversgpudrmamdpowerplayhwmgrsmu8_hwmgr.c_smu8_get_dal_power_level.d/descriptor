@@ -1,0 +1,7 @@
+struct phm_clock_and_voltage_limits | vddc long | mclk int | sclk int 
+struct TYPE_4__ | max_clock_voltage_on_ac struct phm_clock_and_voltage_limits | vddc_dep_on_dal_pwrl struct phm_clock_voltage_dependency_table * 
+struct pp_hwmgr | dyn_state struct TYPE_4__ 
+struct phm_clock_voltage_dependency_table | count unsigned long | entries struct TYPE_3__ * 
+struct amd_pp_simple_clock_info | level int | memory_max_clock int | engine_max_clock int 
+struct TYPE_3__ | v long | clk int 
+function smu8_get_dal_power_level int | hwmgr struct pp_hwmgr * | info struct amd_pp_simple_clock_info *

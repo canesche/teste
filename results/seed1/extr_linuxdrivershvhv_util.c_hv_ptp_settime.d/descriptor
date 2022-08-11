@@ -1,3 +1,0 @@
-struct timespec64 | dummy int 
-struct ptp_clock_info | dummy int 
-function hv_ptp_settime int | p struct ptp_clock_info * | ts const struct timespec64 *

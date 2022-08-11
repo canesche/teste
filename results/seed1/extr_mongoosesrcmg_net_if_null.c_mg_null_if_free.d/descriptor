@@ -1,2 +1,0 @@
-struct mg_iface | dummy int 
-function mg_null_if_free void | iface struct mg_iface *

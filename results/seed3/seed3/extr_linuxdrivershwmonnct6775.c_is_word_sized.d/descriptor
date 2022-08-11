@@ -1,0 +1,2 @@
+struct nct6775_data | kind int 
+function is_word_sized int | data struct nct6775_data * | reg int

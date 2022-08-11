@@ -1,0 +1,2 @@
+struct TYPE_2__ | tv_pclk_rate unsigned long 
+function dispc_set_tv_pclk void | pclk unsigned long

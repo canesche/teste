@@ -1,0 +1,2 @@
+struct TYPE_3__ | dither double | do_dither long 
+function get_dither_value double | s struct TYPE_3__ *

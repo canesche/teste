@@ -1,0 +1,2 @@
+struct TYPE_2__ | p_return_to_kernel_offset int 
+function get_return_to_kernel_offset_from_proc int | p void *

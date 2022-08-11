@@ -1,1 +1,0 @@
-function pcmcia_copy_tuple int | tuple_id unsigned char | tuple void * | max_len int

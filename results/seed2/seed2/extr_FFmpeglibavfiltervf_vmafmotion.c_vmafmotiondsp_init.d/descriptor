@@ -1,0 +1,2 @@
+struct TYPE_3__ | sad int | convolution_y int | convolution_x int 
+function vmafmotiondsp_init void | dsp struct TYPE_3__ * | bpp int

@@ -1,0 +1,5 @@
+struct TYPE_8__ | td_customValueCount int | td_customValues struct TYPE_7__ * 
+struct TYPE_9__ | tif_dir struct TYPE_8__ 
+struct TYPE_7__ | info struct TYPE_6__ * 
+struct TYPE_6__ | field_tag int 
+function TIFFGetTagListEntry int | tif struct TYPE_9__ * | tag_index int

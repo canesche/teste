@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400600,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_emscriptensystemliblibcmuslsrcctypewcwidth.c_wcwidth.d/extr_emscriptensystemliblibcmuslsrcctypewcwidth.c_wcwidth_O0::wcwidth(63)"
+  }
+]

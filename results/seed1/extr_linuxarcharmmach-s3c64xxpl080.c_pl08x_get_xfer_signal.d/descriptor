@@ -1,2 +1,0 @@
-struct pl08x_channel_data | min_signal int 
-function pl08x_get_xfer_signal int | cd const struct pl08x_channel_data *

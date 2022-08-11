@@ -1,2 +1,0 @@
-struct clk_div_table | div int 
-function _round_up_table int | table const struct clk_div_table * | div int

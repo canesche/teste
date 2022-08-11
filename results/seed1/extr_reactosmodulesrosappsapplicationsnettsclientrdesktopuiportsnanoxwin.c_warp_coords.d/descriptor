@@ -1,2 +1,0 @@
-struct TYPE_2__ | x int | y int | width int | height int 
-function warp_coords int | x int * | y int * | cx int * | cy int * | srcx int * | srcy int *

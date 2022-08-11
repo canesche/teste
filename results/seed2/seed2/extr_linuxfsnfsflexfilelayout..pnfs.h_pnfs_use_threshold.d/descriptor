@@ -1,0 +1,3 @@
+struct nfs_server | dummy int 
+struct nfs4_threshold | dummy int 
+function pnfs_use_threshold int | dst struct nfs4_threshold ** | src struct nfs4_threshold * | nfss struct nfs_server *

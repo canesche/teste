@@ -1,0 +1,2 @@
+struct orc_entry | dummy int 
+function orc_module_find struct orc_entry * | ip unsigned long

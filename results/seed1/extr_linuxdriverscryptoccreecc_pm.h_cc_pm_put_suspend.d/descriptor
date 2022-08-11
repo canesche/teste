@@ -1,2 +1,0 @@
-struct device | dummy int 
-function cc_pm_put_suspend int | dev struct device *

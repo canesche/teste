@@ -1,0 +1,2 @@
+struct TYPE_2__ | current_write_buffer unsigned long | buffer int ** | last_read_len long | current_read_buffer long 
+function usbd_hid_init int * | hid_in int *

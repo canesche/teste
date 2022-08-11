@@ -1,0 +1,2 @@
+struct TYPE_2__ | frequency long | channel long 
+function rtw_freq2ch long | freq long

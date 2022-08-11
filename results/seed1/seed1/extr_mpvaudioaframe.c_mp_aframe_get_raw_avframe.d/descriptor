@@ -1,0 +1,3 @@
+struct mp_aframe | av_frame struct AVFrame * 
+struct AVFrame | dummy int 
+function mp_aframe_get_raw_avframe struct AVFrame * | frame struct mp_aframe *

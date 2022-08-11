@@ -1,0 +1,4 @@
+struct ex_phy | routing_attr int 
+struct TYPE_2__ | t2t_supp int 
+struct domain_device | ex_dev struct TYPE_2__ 
+function sas_route_char char | dev struct domain_device * | phy struct ex_phy *

@@ -1,3 +1,0 @@
-struct nvkm_oclass | base int 
-struct nvkm_device_oclass | base int 
-function nvkm_pm_oclass_get int | oclass struct nvkm_oclass * | index int | class const struct nvkm_device_oclass **

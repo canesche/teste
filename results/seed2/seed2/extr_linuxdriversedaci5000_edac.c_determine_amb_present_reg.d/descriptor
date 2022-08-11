@@ -1,0 +1,2 @@
+struct i5000_pvt | b0_ambpresent1 int | b0_ambpresent0 int | b1_ambpresent1 int | b1_ambpresent0 int 
+function determine_amb_present_reg int | pvt struct i5000_pvt * | channel int

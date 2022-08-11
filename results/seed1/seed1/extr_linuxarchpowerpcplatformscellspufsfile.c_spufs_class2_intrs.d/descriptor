@@ -1,0 +1,5 @@
+struct TYPE_6__ | class2_intr unsigned long long | class2_intr_base long 
+struct spu_context | state long | stats struct TYPE_6__ | spu struct TYPE_5__ * 
+struct TYPE_4__ | class2_intr long 
+struct TYPE_5__ | stats struct TYPE_4__ 
+function spufs_class2_intrs unsigned long long | ctx struct spu_context *

@@ -1,0 +1,4 @@
+struct map_info | dummy int 
+struct request | dummy int 
+struct dm_target | dummy int 
+function io_err_clone_and_map_rq int | ti struct dm_target * | rq struct request * | map_context union map_info * | clone struct request **

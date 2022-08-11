@@ -1,0 +1,2 @@
+struct btree_geo | keylen int 
+function keyzero int | geo struct btree_geo * | key unsigned long *

@@ -1,2 +1,0 @@
-struct parport | dummy int 
-function snd_portman_detach void | p struct parport *

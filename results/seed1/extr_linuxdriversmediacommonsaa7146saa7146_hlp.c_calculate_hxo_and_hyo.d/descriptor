@@ -1,3 +1,0 @@
-struct saa7146_vv | standard struct TYPE_2__ * 
-struct TYPE_2__ | v_offset int | h_offset int 
-function calculate_hxo_and_hyo void | vv struct saa7146_vv * | hps_h_scale int * | hps_ctrl int *

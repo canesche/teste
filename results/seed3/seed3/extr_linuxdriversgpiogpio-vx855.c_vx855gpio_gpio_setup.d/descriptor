@@ -1,0 +1,3 @@
+struct gpio_chip | label char * | can_sleep int | names int | ngpio int | base long | dbg_show int * | set_config int | set int | get int | direction_output int | direction_input int | owner int 
+struct vx855_gpio | gpio struct gpio_chip 
+function vx855gpio_gpio_setup void | vg struct vx855_gpio *

@@ -1,0 +1,1 @@
+function qat_rsa_drop_leading_zeros void | ptr const char ** | len unsigned int *

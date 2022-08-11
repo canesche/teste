@@ -1,0 +1,7 @@
+struct vgic_v3_cpu_if | vgic_sre int 
+struct sys_reg_params | regval int | is_write long 
+struct sys_reg_desc | dummy int 
+struct TYPE_3__ | vgic_v3 struct vgic_v3_cpu_if 
+struct TYPE_4__ | vgic_cpu struct TYPE_3__ 
+struct kvm_vcpu | arch struct TYPE_4__ 
+function access_gic_sre int | vcpu struct kvm_vcpu * | p struct sys_reg_params * | r const struct sys_reg_desc *

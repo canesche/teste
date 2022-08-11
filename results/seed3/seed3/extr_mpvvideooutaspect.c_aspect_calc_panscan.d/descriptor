@@ -1,0 +1,2 @@
+struct mp_vo_opts | panscan int 
+function aspect_calc_panscan void | opts struct mp_vo_opts * | w int | h int | d_w int | d_h int | unscaled int | window_w int | window_h int | monitor_par double | out_w int * | out_h int *

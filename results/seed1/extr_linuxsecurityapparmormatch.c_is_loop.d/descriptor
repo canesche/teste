@@ -1,2 +1,0 @@
-struct match_workbuf | pos unsigned int | history unsigned int * | len unsigned int | size unsigned int 
-function is_loop int | wb struct match_workbuf * | state unsigned int | adjust unsigned int *

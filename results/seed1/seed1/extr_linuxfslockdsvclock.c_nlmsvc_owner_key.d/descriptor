@@ -1,0 +1,2 @@
+struct file_lock | fl_pid long | fl_owner long 
+function nlmsvc_owner_key unsigned long | fl struct file_lock *

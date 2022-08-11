@@ -1,3 +1,0 @@
-struct htb_class | parent struct TYPE_2__ * 
-struct TYPE_2__ | children int 
-function htb_parent_last_child int | cl struct htb_class *

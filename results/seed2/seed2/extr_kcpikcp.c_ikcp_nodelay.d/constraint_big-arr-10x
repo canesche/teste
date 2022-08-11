@@ -1,0 +1,1 @@
+value(nodelay) == 10, value(interval) == 10, value(resend) == 10, value(nc) == 10, length(kcp) == 100

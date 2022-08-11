@@ -1,0 +1,4 @@
+struct ice_sched_node | tc_num unsigned long 
+struct ice_port_info | root struct TYPE_2__ * 
+struct TYPE_2__ | num_children unsigned long | children struct ice_sched_node ** 
+function ice_sched_get_tc_node struct ice_sched_node * | pi struct ice_port_info * | tc unsigned long

@@ -1,0 +1,2 @@
+struct TYPE_3__ | audio_output_buf float *** 
+function multiply_vol_data void | source struct TYPE_3__ * | mix unsigned long | channels unsigned long | vol_data float *

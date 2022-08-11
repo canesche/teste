@@ -1,0 +1,2 @@
+struct net_bridge_vlan_group | dummy int 
+function br_get_pvid int | vg const struct net_bridge_vlan_group *

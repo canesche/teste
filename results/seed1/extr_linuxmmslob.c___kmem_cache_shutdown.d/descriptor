@@ -1,2 +1,0 @@
-struct kmem_cache | dummy int 
-function __kmem_cache_shutdown int | c struct kmem_cache *

@@ -1,0 +1,4 @@
+struct snd_soc_component | dummy int 
+struct TYPE_4__ | sessions struct TYPE_3__ * 
+struct TYPE_3__ | port_id int | fedai_id int 
+function msm_routing_probe int | c struct snd_soc_component *

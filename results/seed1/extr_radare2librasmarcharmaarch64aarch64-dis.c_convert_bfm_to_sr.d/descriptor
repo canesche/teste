@@ -1,4 +1,0 @@
-struct TYPE_7__ | operands struct TYPE_6__ * 
-struct TYPE_5__ | value int 
-struct TYPE_6__ | qualifier long | type int | imm struct TYPE_5__ 
-function convert_bfm_to_sr int | inst struct TYPE_7__ *

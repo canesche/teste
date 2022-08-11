@@ -1,2 +1,0 @@
-struct gcov_info | filename const char * 
-function gcov_info_filename const char * | info struct gcov_info *

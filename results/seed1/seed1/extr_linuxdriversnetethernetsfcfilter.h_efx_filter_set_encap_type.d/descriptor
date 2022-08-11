@@ -1,0 +1,2 @@
+struct efx_filter_spec | encap_type int | match_flags int 
+function efx_filter_set_encap_type void | spec struct efx_filter_spec * | encap_type enum efx_encap_type

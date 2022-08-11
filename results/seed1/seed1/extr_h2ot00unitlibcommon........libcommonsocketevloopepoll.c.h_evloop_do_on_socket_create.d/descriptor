@@ -1,0 +1,2 @@
+struct st_h2o_evloop_socket_t | dummy int 
+function evloop_do_on_socket_create void | sock struct st_h2o_evloop_socket_t *

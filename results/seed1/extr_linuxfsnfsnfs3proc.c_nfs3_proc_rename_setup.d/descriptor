@@ -1,3 +1,0 @@
-struct rpc_message | rpc_proc int * 
-struct dentry | dummy int 
-function nfs3_proc_rename_setup void | msg struct rpc_message * | old_dentry struct dentry * | new_dentry struct dentry *

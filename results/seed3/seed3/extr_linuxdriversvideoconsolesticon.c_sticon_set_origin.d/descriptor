@@ -1,0 +1,2 @@
+struct vc_data | dummy int 
+function sticon_set_origin int | conp struct vc_data *

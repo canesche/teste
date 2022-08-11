@@ -1,0 +1,4 @@
+struct xsockbuf | sb_timeo short | sb_flags int | sb_lowat int | sb_mbmax int | sb_mbcnt int | sb_hiwat int | sb_cc int 
+struct TYPE_2__ | tv_sec int | tv_usec short 
+struct sockbuf | sb_timeo struct TYPE_2__ | sb_flags int | sb_lowat int | sb_mbmax int | sb_mbcnt int | sb_hiwat int | sb_cc int 
+function sbtoxsockbuf void | sb struct sockbuf * | xsb struct xsockbuf *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | nzVar int | azVar const char ** 
+function sqlite3_bind_parameter_name const char * | pStmt int * | i int

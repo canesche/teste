@@ -1,0 +1,2 @@
+struct TYPE_3__ | size int | freqs int * | cntsum int 
+function calc_sum5 void | m struct TYPE_3__ *

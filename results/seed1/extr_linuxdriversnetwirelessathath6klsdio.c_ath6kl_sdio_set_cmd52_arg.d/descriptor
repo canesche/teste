@@ -1,1 +1,0 @@
-function ath6kl_sdio_set_cmd52_arg void | arg int * | write int | raw int | address unsigned int | val unsigned char

@@ -1,0 +1,2 @@
+struct stream_encoder | dummy int 
+function virtual_audio_mute_control void | enc struct stream_encoder * | mute int

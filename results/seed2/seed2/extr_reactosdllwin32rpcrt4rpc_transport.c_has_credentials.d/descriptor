@@ -1,0 +1,8 @@
+struct TYPE_15__ | AuthenticationTarget long | TransportCredentials struct TYPE_13__ * | NumberOfAuthnSchemes int 
+struct TYPE_12__ | QOS struct TYPE_11__ * 
+struct TYPE_14__ | common struct TYPE_12__ 
+struct TYPE_13__ | Password int | User int 
+struct TYPE_11__ | qos struct TYPE_10__ * 
+struct TYPE_9__ | HttpCredentials struct TYPE_15__ * 
+struct TYPE_10__ | AdditionalSecurityInfoType long | u struct TYPE_9__ 
+function has_credentials int | httpc struct TYPE_14__ *

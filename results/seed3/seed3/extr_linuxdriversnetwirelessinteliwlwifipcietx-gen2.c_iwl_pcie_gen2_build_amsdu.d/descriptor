@@ -1,0 +1,5 @@
+struct sk_buff | dummy int 
+struct iwl_trans | dummy int 
+struct iwl_tfh_tfd | dummy int 
+struct iwl_device_cmd | dummy int 
+function iwl_pcie_gen2_build_amsdu int | trans struct iwl_trans * | skb struct sk_buff * | tfd struct iwl_tfh_tfd * | start_len int | hdr_len int | dev_cmd struct iwl_device_cmd *

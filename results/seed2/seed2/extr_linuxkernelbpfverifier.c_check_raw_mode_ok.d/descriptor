@@ -1,0 +1,2 @@
+struct bpf_func_proto | arg1_type long | arg2_type long | arg3_type long | arg4_type long | arg5_type long 
+function check_raw_mode_ok int | fn const struct bpf_func_proto *

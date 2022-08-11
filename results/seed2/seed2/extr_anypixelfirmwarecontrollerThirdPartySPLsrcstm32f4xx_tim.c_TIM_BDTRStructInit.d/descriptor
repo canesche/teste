@@ -1,0 +1,2 @@
+struct TYPE_3__ | TIM_DeadTime int | TIM_AutomaticOutput int | TIM_BreakPolarity int | TIM_Break int | TIM_LOCKLevel int | TIM_OSSIState int | TIM_OSSRState int 
+function TIM_BDTRStructInit void | TIM_BDTRInitStruct struct TYPE_3__ *

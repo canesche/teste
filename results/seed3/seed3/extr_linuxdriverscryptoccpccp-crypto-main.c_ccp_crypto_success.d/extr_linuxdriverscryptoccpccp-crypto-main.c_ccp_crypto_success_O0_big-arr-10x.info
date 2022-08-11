@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriverscryptoccpccp-crypto-main.c_ccp_crypto_success.d/extr_linuxdriverscryptoccpccp-crypto-main.c_ccp_crypto_success_O0::ccp_crypto_success(62)"
+  }
+]

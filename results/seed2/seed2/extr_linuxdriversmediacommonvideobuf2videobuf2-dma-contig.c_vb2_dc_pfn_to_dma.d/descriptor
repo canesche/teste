@@ -1,0 +1,2 @@
+struct device | dummy int 
+function vb2_dc_pfn_to_dma int | dev struct device * | pfn unsigned long

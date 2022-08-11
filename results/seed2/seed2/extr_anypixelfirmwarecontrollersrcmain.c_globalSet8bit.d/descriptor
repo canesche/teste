@@ -1,0 +1,3 @@
+struct TYPE_3__ | payload int * 
+struct TYPE_4__ | s struct TYPE_3__ 
+function globalSet8bit void | index int | value int

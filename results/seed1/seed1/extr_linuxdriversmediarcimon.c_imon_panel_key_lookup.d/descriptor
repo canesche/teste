@@ -1,0 +1,4 @@
+struct imon_panel_key_table | hw_code int | keycode int 
+struct imon_context | release_code int | dev_descr struct TYPE_2__ * 
+struct TYPE_2__ | key_table struct imon_panel_key_table * 
+function imon_panel_key_lookup int | ictx struct imon_context * | code int

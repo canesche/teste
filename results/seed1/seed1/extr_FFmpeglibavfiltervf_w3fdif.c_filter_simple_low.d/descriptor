@@ -1,0 +1,1 @@
+function filter_simple_low void | work_line int * | in_lines_cur int *[2] | coef const int * | linesize int

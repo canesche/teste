@@ -1,0 +1,2 @@
+struct TYPE_3__ | cdt_expirations int | _active_count long | total_packets long | errors long 
+function hdcd_detect_start void | detect struct TYPE_3__ *

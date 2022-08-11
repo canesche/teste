@@ -1,0 +1,4 @@
+struct nvme_ns | lba_shift int | ms int | ndev struct nvm_dev * 
+struct nvm_geo | csecs int | sos int 
+struct nvm_dev | geo struct nvm_geo 
+function nvme_nvm_update_nvm_info void | ns struct nvme_ns *

@@ -1,3 +1,0 @@
-struct frame_info | num_vsyncs double | av_diff double 
-struct MPContext | num_past_frames int | past_frames struct frame_info * 
-function compute_audio_drift double | mpctx struct MPContext * | vsync double

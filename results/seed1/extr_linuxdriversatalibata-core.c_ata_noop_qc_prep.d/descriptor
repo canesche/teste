@@ -1,2 +1,0 @@
-struct ata_queued_cmd | dummy int 
-function ata_noop_qc_prep void | qc struct ata_queued_cmd *

@@ -1,0 +1,2 @@
+struct x86_emulate_ctxt | regs_valid int | regs_dirty int | _regs int * 
+function reg_write int * | ctxt struct x86_emulate_ctxt * | nr unsigned int

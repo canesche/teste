@@ -1,0 +1,9 @@
+struct TYPE_8__ | SignalQuality long 
+struct rx_pkt_attrib | phy_info struct TYPE_8__ 
+struct TYPE_5__ | attrib struct rx_pkt_attrib 
+struct TYPE_6__ | hdr struct TYPE_5__ 
+struct recv_frame | u struct TYPE_6__ 
+struct signal_stat | total_num int | total_val int | avg_val int | update_req long 
+struct TYPE_7__ | signal_qual_data struct signal_stat 
+struct adapter | recvpriv struct TYPE_7__ 
+function process_link_qual void | padapter struct adapter * | prframe union recv_frame *

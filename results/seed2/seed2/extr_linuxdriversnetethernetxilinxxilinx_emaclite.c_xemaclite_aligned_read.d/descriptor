@@ -1,0 +1,1 @@
+function xemaclite_aligned_read void | src_ptr long * | dest_ptr int * | length unsigned int

@@ -1,0 +1,2 @@
+struct ef4_nic | rx_dc_base int | tx_dc_base int 
+function falcon_dimension_resources int | efx struct ef4_nic *

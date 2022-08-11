@@ -1,0 +1,5 @@
+struct neighbour | primary_key int 
+struct TYPE_2__ | n struct neighbour * 
+struct mlxsw_sp_neigh_entry | key struct TYPE_2__ 
+struct in6_addr | dummy int 
+function mlxsw_sp_neigh6_entry_dip struct in6_addr * | neigh_entry struct mlxsw_sp_neigh_entry *

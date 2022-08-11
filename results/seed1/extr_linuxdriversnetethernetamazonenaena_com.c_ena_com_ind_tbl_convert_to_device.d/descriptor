@@ -1,5 +1,0 @@
-struct ena_rss | tbl_log_size int | host_rss_ind_tbl unsigned long * | rss_ind_tbl struct TYPE_2__ * 
-struct ena_com_io_sq | direction long | idx int 
-struct ena_com_dev | io_sq_queues struct ena_com_io_sq * | rss struct ena_rss 
-struct TYPE_2__ | cq_idx int 
-function ena_com_ind_tbl_convert_to_device int | ena_dev struct ena_com_dev *

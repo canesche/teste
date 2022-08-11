@@ -1,0 +1,2 @@
+struct xt_sctp_flag_info | chunktype long | flag_mask long | flag long 
+function match_flags int | flag_info const struct xt_sctp_flag_info * | flag_count const int | chunktype long | chunkflags long

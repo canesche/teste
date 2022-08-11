@@ -1,0 +1,2 @@
+struct curl_sockaddr | dummy int 
+function opensocket int | clientp void * | purpose int | address struct curl_sockaddr *

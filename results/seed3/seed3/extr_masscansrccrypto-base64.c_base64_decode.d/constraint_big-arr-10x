@@ -1,0 +1,1 @@
+value(sizeof_dst) == 10, value(sizeof_src) == 10, length(vdst) == 100, length(vsrc) == 100

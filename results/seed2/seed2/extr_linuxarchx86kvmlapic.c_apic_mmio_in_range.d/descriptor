@@ -1,0 +1,2 @@
+struct kvm_lapic | base_address long 
+function apic_mmio_in_range int | apic struct kvm_lapic * | addr long

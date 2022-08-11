@@ -1,2 +1,0 @@
-struct rocker_tlv | type int 
-function rocker_tlv_type int | tlv const struct rocker_tlv *

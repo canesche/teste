@@ -1,0 +1,2 @@
+struct vgic_redist_region | count long | free_index long 
+function vgic_v3_redist_region_full int | region struct vgic_redist_region *

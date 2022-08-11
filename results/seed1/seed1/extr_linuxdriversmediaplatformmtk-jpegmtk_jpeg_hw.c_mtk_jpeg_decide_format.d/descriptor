@@ -1,0 +1,2 @@
+struct mtk_jpeg_dec_param | src_color int | sampling_w int * | sampling_h int * | uv_brz_w int | dst_fourcc void * 
+function mtk_jpeg_decide_format int | param struct mtk_jpeg_dec_param *

@@ -1,0 +1,3 @@
+struct pmbus_data | dummy int 
+struct i2c_client | dummy int 
+function pmbus_init_debugfs int | client struct i2c_client * | data struct pmbus_data *

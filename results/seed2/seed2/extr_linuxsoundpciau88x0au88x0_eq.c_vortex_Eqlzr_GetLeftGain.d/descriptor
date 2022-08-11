@@ -1,0 +1,3 @@
+struct TYPE_5__ | this130 unsigned long * | this28 long 
+struct TYPE_4__ | eq struct TYPE_5__ 
+function vortex_Eqlzr_GetLeftGain int | vortex struct TYPE_4__ * | index unsigned long | gain unsigned long *

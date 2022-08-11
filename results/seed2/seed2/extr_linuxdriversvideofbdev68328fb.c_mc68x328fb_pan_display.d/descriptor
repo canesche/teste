@@ -1,0 +1,4 @@
+struct fb_var_screeninfo | vmode int | yoffset long | xoffset long 
+struct TYPE_2__ | yres_virtual long | xres long | xres_virtual long | yres long | xoffset long | yoffset long | vmode int 
+struct fb_info | var struct TYPE_2__ 
+function mc68x328fb_pan_display int | var struct fb_var_screeninfo * | info struct fb_info *

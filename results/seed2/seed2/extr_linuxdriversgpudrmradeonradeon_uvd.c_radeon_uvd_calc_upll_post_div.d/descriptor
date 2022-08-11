@@ -1,0 +1,1 @@
+function radeon_uvd_calc_upll_post_div unsigned int | vco_freq unsigned int | target_freq unsigned int | pd_min unsigned int | pd_even unsigned int

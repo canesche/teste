@@ -1,3 +1,0 @@
-struct igb_ring_container | total_packets unsigned int | total_bytes unsigned int | itr int 
-struct igb_q_vector | dummy int 
-function igb_update_itr void | q_vector struct igb_q_vector * | ring_container struct igb_ring_container *

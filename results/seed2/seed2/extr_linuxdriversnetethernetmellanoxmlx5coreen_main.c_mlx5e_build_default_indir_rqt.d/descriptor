@@ -1,0 +1,1 @@
+function mlx5e_build_default_indir_rqt void | indirection_rqt int * | len int | num_channels int

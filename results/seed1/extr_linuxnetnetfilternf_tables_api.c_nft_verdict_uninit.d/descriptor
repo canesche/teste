@@ -1,4 +1,0 @@
-struct TYPE_4__ | code int | chain struct TYPE_3__ * 
-struct nft_data | verdict struct TYPE_4__ 
-struct TYPE_3__ | use int 
-function nft_verdict_uninit void | data const struct nft_data *

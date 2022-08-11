@@ -1,0 +1,2 @@
+struct rtentry | rt_flags int 
+function nstat_route_gone int | cookie long

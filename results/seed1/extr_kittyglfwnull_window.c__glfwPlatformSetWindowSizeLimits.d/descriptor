@@ -1,1 +1,0 @@
-function _glfwPlatformSetWindowSizeLimits void | window int * | minwidth int | minheight int | maxwidth int | maxheight int

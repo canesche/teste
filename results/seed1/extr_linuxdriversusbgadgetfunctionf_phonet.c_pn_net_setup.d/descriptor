@@ -1,2 +1,0 @@
-struct net_device | flags int | hard_header_len int | addr_len int | tx_queue_len int | needs_free_netdev int | header_ops int * | netdev_ops int * | dev_addr int * | max_mtu int | min_mtu int | mtu int | type int | features long 
-function pn_net_setup void | dev struct net_device *

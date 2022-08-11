@@ -1,0 +1,5 @@
+struct TYPE_8__ | bot_data_length int | bot_data int * | bdev_ops struct TYPE_6__ * 
+struct TYPE_7__ | MSC_BOT_ClassData struct TYPE_8__ 
+struct TYPE_9__ | pClassData long 
+struct TYPE_6__ | pInquiry int * 
+function SCSI_Inquiry int | pdev struct TYPE_9__ * | lun int | params int *

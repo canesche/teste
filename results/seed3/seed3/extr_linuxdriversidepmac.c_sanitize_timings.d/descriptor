@@ -1,0 +1,2 @@
+struct TYPE_3__ | kind int | timings unsigned int * 
+function sanitize_timings void | pmif struct TYPE_3__ *

@@ -1,0 +1,4 @@
+struct TYPE_7__ | filter1 struct TYPE_6__ * | filter2 struct TYPE_5__ * 
+struct TYPE_6__ | illegal_mode int 
+struct TYPE_5__ | illegal_mode int 
+function mbfl_buffer_converter_illegal_mode int | convd struct TYPE_7__ * | mode int

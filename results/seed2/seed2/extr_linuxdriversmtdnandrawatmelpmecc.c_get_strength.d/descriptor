@@ -1,0 +1,5 @@
+struct TYPE_6__ | cfg unsigned long 
+struct atmel_pmecc_user | cache struct TYPE_6__ | pmecc struct TYPE_5__ * 
+struct TYPE_5__ | caps struct TYPE_4__ * 
+struct TYPE_4__ | strengths int * 
+function get_strength int | user struct atmel_pmecc_user *

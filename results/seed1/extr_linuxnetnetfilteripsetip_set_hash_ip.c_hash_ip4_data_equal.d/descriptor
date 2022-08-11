@@ -1,2 +1,0 @@
-struct hash_ip4_elem | ip long 
-function hash_ip4_data_equal int | e1 const struct hash_ip4_elem * | e2 const struct hash_ip4_elem * | multi int *

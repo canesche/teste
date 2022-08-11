@@ -1,0 +1,3 @@
+struct ipw2100_priv | ieee struct TYPE_2__ * 
+struct TYPE_2__ | wpa_enabled int 
+function ipw2100_wpa_enable int | priv struct ipw2100_priv * | value int

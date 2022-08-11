@@ -1,0 +1,2 @@
+struct btrfs_map_token | kaddr int * 
+function btrfs_init_map_token void | token struct btrfs_map_token *

@@ -1,0 +1,2 @@
+struct tilegx_spr | number int 
+function tilegx_spr_compare int | a_ptr const void * | b_ptr const void *

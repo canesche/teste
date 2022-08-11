@@ -1,2 +1,0 @@
-struct proc | dummy int 
-function rtioctl int | req unsigned long | data int | p struct proc *

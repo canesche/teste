@@ -1,2 +1,0 @@
-struct stream_encoder | dummy int 
-function virtual_stream_encoder_dp_blank void | enc struct stream_encoder *

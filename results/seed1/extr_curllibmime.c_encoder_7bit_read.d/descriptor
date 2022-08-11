@@ -1,3 +1,0 @@
-struct TYPE_4__ | bufend unsigned long | bufbeg unsigned long | buf char * 
-struct TYPE_5__ | encstate struct TYPE_4__ 
-function encoder_7bit_read unsigned long | buffer char * | size unsigned long | ateof int | part struct TYPE_5__ *

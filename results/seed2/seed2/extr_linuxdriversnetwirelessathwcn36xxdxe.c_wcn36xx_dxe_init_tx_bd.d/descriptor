@@ -1,0 +1,4 @@
+struct wcn36xx_dxe_mem_pool | chunk_size int | phy_addr int | virt_addr void * 
+struct wcn36xx_dxe_ctl | bd_phy_addr int | next struct wcn36xx_dxe_ctl * | bd_cpu_addr int * 
+struct wcn36xx_dxe_ch | desc_num int | head_blk_ctl struct wcn36xx_dxe_ctl * 
+function wcn36xx_dxe_init_tx_bd void | ch struct wcn36xx_dxe_ch * | pool struct wcn36xx_dxe_mem_pool *

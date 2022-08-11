@@ -1,2 +1,0 @@
-struct hfi1_devdata | dummy int 
-function loadtime_init int | dd struct hfi1_devdata *

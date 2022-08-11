@@ -1,0 +1,2 @@
+struct intel_dp | aux_ch long | aux_power_domain int 
+function intel_ddi_main_link_aux_domain enum intel_display_power_domain | intel_dp struct intel_dp *

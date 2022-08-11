@@ -1,0 +1,6 @@
+struct TYPE_8__ | offset int | size int 
+struct TYPE_7__ | offset int | size int 
+struct TYPE_6__ | size int | offset int 
+struct TYPE_5__ | size int 
+struct i810fb_par | cursor_heap struct TYPE_8__ | iring struct TYPE_7__ | fb struct TYPE_6__ | aperture struct TYPE_5__ 
+function i810_fix_offsets void | par struct i810fb_par *

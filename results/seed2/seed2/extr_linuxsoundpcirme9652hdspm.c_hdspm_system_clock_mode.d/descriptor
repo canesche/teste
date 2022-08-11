@@ -1,0 +1,2 @@
+struct hdspm | io_type int | settings_register int | control_register int 
+function hdspm_system_clock_mode int | hdspm struct hdspm *

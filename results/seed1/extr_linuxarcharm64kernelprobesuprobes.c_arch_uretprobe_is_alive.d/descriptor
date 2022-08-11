@@ -1,3 +1,0 @@
-struct return_instance | stack long 
-struct pt_regs | sp long 
-function arch_uretprobe_is_alive int | ret struct return_instance * | ctx enum rp_check | regs struct pt_regs *

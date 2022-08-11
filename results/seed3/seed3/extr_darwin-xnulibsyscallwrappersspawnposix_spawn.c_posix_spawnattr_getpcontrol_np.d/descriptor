@@ -1,0 +1,2 @@
+struct TYPE_2__ | psa_pcontrol int 
+function posix_spawnattr_getpcontrol_np int | attr int *const *__restrict | pcontrol int *__restrict

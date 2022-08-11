@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversscsipm8001pm8001_hwi.c_pm8001_get_lrate_mode.d/extr_linuxdriversscsipm8001pm8001_hwi.c_pm8001_get_lrate_mode_O0::pm8001_get_lrate_mode(73)"
+  }
+]

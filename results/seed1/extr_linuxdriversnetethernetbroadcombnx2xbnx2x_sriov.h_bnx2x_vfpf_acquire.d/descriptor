@@ -1,2 +1,0 @@
-struct bnx2x | dummy int 
-function bnx2x_vfpf_acquire int | bp struct bnx2x * | tx_count int | rx_count int

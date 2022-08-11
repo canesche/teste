@@ -1,4 +1,0 @@
-struct nvkm_fifo_chan | fifo struct TYPE_2__ * 
-struct nvkm_event | dummy int 
-struct TYPE_2__ | kevent struct nvkm_event | uevent struct nvkm_event 
-function gf100_fifo_chan_ntfy int | chan struct nvkm_fifo_chan * | type int | pevent struct nvkm_event **

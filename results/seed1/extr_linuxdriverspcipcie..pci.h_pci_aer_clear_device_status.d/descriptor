@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function pci_aer_clear_device_status void | dev struct pci_dev *

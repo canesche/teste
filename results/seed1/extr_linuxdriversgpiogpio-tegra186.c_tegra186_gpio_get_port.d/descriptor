@@ -1,4 +1,0 @@
-struct tegra_gpio_port | pins unsigned int 
-struct tegra_gpio | soc struct TYPE_2__ * 
-struct TYPE_2__ | num_ports unsigned int | ports struct tegra_gpio_port * 
-function tegra186_gpio_get_port const struct tegra_gpio_port * | gpio struct tegra_gpio * | pin unsigned int *

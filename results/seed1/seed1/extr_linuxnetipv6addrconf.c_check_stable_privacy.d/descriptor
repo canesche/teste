@@ -1,0 +1,8 @@
+struct TYPE_10__ | devconf_dflt struct TYPE_9__ * 
+struct net | ipv6 struct TYPE_10__ 
+struct TYPE_6__ | initialized int 
+struct TYPE_7__ | stable_secret struct TYPE_6__ 
+struct inet6_dev | cnf struct TYPE_7__ 
+struct TYPE_8__ | initialized int 
+struct TYPE_9__ | stable_secret struct TYPE_8__ 
+function check_stable_privacy int | idev struct inet6_dev * | net struct net * | mode int

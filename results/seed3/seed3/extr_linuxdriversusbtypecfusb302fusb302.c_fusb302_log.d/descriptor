@@ -1,0 +1,2 @@
+struct fusb302_chip | dummy int 
+function fusb302_log void | chip const struct fusb302_chip * | fmt const char *

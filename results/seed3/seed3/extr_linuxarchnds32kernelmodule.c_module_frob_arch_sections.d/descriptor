@@ -1,0 +1,2 @@
+struct module | dummy int 
+function module_frob_arch_sections int | hdr int * | sechdrs int * | secstrings char * | mod struct module *

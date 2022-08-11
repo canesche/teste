@@ -1,0 +1,2 @@
+struct TYPE_3__ | subband_num_actual long | level long | subband_num long 
+function init_plane_defaults void | s struct TYPE_3__ *

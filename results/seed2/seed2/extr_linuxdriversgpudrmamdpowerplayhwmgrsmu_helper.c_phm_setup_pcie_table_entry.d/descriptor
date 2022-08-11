@@ -1,0 +1,3 @@
+struct vi_dpm_table | dpm_level struct TYPE_2__ * 
+struct TYPE_2__ | value unsigned long | param1 unsigned long | enabled int 
+function phm_setup_pcie_table_entry void | table void * | index unsigned long | pcie_gen unsigned long | pcie_lanes unsigned long

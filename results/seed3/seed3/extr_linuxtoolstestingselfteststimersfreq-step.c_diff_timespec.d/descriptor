@@ -1,0 +1,2 @@
+struct timespec | tv_sec double | tv_nsec int 
+function diff_timespec double | ts1 struct timespec * | ts2 struct timespec *

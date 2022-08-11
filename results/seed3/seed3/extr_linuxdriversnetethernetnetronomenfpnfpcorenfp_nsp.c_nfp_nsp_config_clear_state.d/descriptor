@@ -1,0 +1,2 @@
+struct nfp_nsp | idx long | entries int * 
+function nfp_nsp_config_clear_state void | state struct nfp_nsp *

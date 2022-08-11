@@ -1,0 +1,2 @@
+struct sm501_devdata | dummy int 
+function sm501_dump_clk void | sm struct sm501_devdata *

@@ -1,0 +1,4 @@
+struct TYPE_4__ | descriptor_ long 
+struct TYPE_5__ | java_io_FileDescriptor struct TYPE_4__ 
+struct TYPE_6__ | fields struct TYPE_5__ 
+function setJavaIoFileDescriptorContents void | fd long | value void *

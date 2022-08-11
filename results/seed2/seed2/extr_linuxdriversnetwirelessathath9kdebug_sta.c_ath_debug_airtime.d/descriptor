@@ -1,0 +1,4 @@
+struct ath_softc | dummy int 
+struct ath_airtime_stats | tx_airtime int | rx_airtime int 
+struct ath_node | airtime_stats struct ath_airtime_stats 
+function ath_debug_airtime void | sc struct ath_softc * | an struct ath_node * | rx long | tx long

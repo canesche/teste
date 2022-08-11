@@ -1,2 +1,0 @@
-struct timeval32 | tv_usec unsigned long | tv_sec unsigned long 
-function jiffies_to_timeval32 void | jiffies unsigned long | value struct timeval32 *

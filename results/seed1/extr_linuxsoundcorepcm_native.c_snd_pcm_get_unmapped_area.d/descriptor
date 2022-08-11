@@ -1,5 +1,0 @@
-struct snd_pcm_substream | runtime struct snd_pcm_runtime * 
-struct snd_pcm_runtime | dma_area long | control long | status long 
-struct snd_pcm_file | substream struct snd_pcm_substream * 
-struct file | private_data struct snd_pcm_file * 
-function snd_pcm_get_unmapped_area unsigned long | file struct file * | addr unsigned long | len unsigned long | pgoff unsigned long | flags unsigned long

@@ -1,0 +1,2 @@
+struct mips_cp0sel_name | cp0reg unsigned int | sel unsigned int 
+function lookup_mips_cp0sel_name const struct mips_cp0sel_name * | names const struct mips_cp0sel_name * | len unsigned int | cp0reg unsigned int | sel unsigned int

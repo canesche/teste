@@ -1,0 +1,2 @@
+struct mlxsw_sp | dummy int 
+function mlxsw_sp1_acl_tcam_fini void | mlxsw_sp struct mlxsw_sp * | priv void *

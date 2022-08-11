@@ -1,7 +1,0 @@
-struct TYPE_12__ | num_in_eps int | ded_fifo_en long 
-struct TYPE_11__ | b struct TYPE_12__ 
-struct TYPE_10__ | d32 int 
-struct TYPE_8__ | num_dev_ep int 
-struct TYPE_9__ | b struct TYPE_8__ 
-struct TYPE_13__ | hwcfg4 struct TYPE_11__ | hwcfg1 struct TYPE_10__ | hwcfg2 struct TYPE_9__ 
-function calc_num_in_eps int | core_if struct TYPE_13__ *

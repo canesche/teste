@@ -1,0 +1,2 @@
+struct sge_txq | processed unsigned int | cleaned unsigned int | in_use unsigned int | size int 
+function should_restart_tx int | q const struct sge_txq *

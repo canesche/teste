@@ -1,0 +1,2 @@
+struct gcov_info | version unsigned int 
+function gcov_info_version unsigned int | info struct gcov_info *

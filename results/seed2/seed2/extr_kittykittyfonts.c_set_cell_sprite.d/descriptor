@@ -1,0 +1,3 @@
+struct TYPE_6__ | sprite_z int | sprite_y int | sprite_x int 
+struct TYPE_5__ | z int | colored long | y int | x int 
+function set_cell_sprite void | cell struct TYPE_6__ * | sp struct TYPE_5__ *

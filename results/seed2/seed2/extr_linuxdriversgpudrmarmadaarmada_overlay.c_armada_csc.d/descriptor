@@ -1,0 +1,2 @@
+struct drm_plane_state | color_encoding long 
+function armada_csc int | state struct drm_plane_state *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | datasize int 
+function encoder_base64_size int | part struct TYPE_3__ *

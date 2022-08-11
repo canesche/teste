@@ -1,0 +1,5 @@
+struct ata_taskfile | flags int | command long | protocol void * 
+struct ata_device | flags int | multi_count long | link struct TYPE_4__ * 
+struct TYPE_4__ | ap struct TYPE_3__ * 
+struct TYPE_3__ | flags int 
+function ata_rwcmd_protocol int | tf struct ata_taskfile * | dev struct ata_device *

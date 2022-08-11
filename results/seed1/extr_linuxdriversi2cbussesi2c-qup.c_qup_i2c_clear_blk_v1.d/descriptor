@@ -1,2 +1,0 @@
-struct qup_i2c_block | rx_bytes_read int | fifo_available long | tx_fifo_free long 
-function qup_i2c_clear_blk_v1 void | blk struct qup_i2c_block *

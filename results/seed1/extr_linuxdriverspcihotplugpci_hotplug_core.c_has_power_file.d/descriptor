@@ -1,4 +1,0 @@
-struct pci_slot | hotplug struct hotplug_slot * 
-struct hotplug_slot | ops struct TYPE_2__ * 
-struct TYPE_2__ | get_power_status long | disable_slot long | enable_slot long 
-function has_power_file int | pci_slot struct pci_slot *

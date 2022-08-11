@@ -1,2 +1,0 @@
-struct cs4281 | dummy int 
-function snd_cs4281_create_gameport int | chip struct cs4281 *

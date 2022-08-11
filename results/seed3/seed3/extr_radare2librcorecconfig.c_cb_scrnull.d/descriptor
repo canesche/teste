@@ -1,0 +1,4 @@
+struct TYPE_6__ | i_value int 
+struct TYPE_5__ | cons struct TYPE_4__ * 
+struct TYPE_4__ | null int 
+function cb_scrnull int | user void * | data void *

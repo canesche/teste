@@ -1,2 +1,0 @@
-struct dentry | d_fsdata void * 
-function orangefs_set_timeout void | dentry struct dentry *

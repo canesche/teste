@@ -1,3 +1,0 @@
-struct hci_dev | dummy int 
-struct btrtl_device_info | dummy int 
-function btrtl_download_firmware int | hdev struct hci_dev * | btrtl_dev struct btrtl_device_info *

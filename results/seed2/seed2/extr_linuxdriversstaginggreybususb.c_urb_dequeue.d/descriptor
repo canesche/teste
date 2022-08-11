@@ -1,0 +1,3 @@
+struct usb_hcd | dummy int 
+struct urb | dummy int 
+function urb_dequeue int | hcd struct usb_hcd * | urb struct urb * | status int

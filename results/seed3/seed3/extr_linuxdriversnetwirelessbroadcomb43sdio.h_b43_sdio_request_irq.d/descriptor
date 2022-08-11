@@ -1,0 +1,2 @@
+struct b43_wldev | dummy int 
+function b43_sdio_request_irq int | dev struct b43_wldev * | handler void (*)(struct b43_wldev *)

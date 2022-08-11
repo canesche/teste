@@ -1,2 +1,0 @@
-struct pnp_option | flags unsigned int 
-function pnp_option_set unsigned int | option struct pnp_option *

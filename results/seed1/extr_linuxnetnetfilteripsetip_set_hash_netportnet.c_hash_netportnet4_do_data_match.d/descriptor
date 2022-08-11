@@ -1,2 +1,0 @@
-struct hash_netportnet4_elem | nomatch long 
-function hash_netportnet4_do_data_match int | elem const struct hash_netportnet4_elem *

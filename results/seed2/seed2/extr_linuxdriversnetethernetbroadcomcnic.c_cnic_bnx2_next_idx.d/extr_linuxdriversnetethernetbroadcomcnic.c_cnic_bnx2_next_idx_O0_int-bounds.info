@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetbroadcomcnic.c_cnic_bnx2_next_idx.d/extr_linuxdriversnetethernetbroadcomcnic.c_cnic_bnx2_next_idx_O0::cnic_bnx2_next_idx(61)"
+  }
+]

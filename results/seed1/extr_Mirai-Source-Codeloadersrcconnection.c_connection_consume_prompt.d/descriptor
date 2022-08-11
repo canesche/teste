@@ -1,2 +1,0 @@
-struct connection | rdbuf_pos int | rdbuf char * 
-function connection_consume_prompt int | conn struct connection *

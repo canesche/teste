@@ -1,0 +1,2 @@
+struct ifnet | if_eflags int | if_poll_update int 
+function ifnet_update_rcv void | ifp struct ifnet * | ev int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | start long | parent struct TYPE_3__ * 
+function grub_partition_get_start int | p struct TYPE_3__ *const

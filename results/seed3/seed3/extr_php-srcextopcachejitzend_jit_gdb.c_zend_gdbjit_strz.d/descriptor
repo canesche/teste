@@ -1,0 +1,2 @@
+struct TYPE_3__ | startp int | p long * 
+function zend_gdbjit_strz int | ctx struct TYPE_3__ * | str const char *

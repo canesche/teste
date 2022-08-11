@@ -1,0 +1,2 @@
+struct TYPE_3__ | Pipes int * 
+function USBH_FreePipe int | phost struct TYPE_3__ * | idx int

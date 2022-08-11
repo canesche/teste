@@ -1,3 +1,0 @@
-struct xgbe_prv_data | netdev struct TYPE_2__ * 
-struct TYPE_2__ | mtu unsigned int 
-function xgbe_get_max_frame unsigned int | pdata struct xgbe_prv_data *

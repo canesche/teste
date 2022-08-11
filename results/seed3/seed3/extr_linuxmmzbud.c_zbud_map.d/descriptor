@@ -1,0 +1,2 @@
+struct zbud_pool | dummy int 
+function zbud_map void * | pool struct zbud_pool * | handle unsigned long

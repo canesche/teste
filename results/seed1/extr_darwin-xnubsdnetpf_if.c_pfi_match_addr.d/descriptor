@@ -1,3 +1,0 @@
-struct pfi_dynaddr | dummy int 
-struct pf_addr | dummy int 
-function pfi_match_addr int | dyn struct pfi_dynaddr * | a struct pf_addr * | af int

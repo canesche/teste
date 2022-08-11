@@ -1,0 +1,3 @@
+struct nft_set_estimate | space int | lookup int | size int 
+struct nft_set_desc | dummy int 
+function nft_rhash_estimate int | desc const struct nft_set_desc * | features int | est struct nft_set_estimate *

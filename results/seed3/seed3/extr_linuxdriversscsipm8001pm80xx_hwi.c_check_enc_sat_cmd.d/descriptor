@@ -1,0 +1,4 @@
+struct TYPE_3__ | command int 
+struct TYPE_4__ | fis struct TYPE_3__ 
+struct sas_task | ata_task struct TYPE_4__ 
+function check_enc_sat_cmd int | task struct sas_task *

@@ -1,0 +1,3 @@
+struct xt_mtchk_param | matchinfo struct xt_dccp_info * 
+struct xt_dccp_info | flags int | invflags int 
+function dccp_mt_check int | par const struct xt_mtchk_param *

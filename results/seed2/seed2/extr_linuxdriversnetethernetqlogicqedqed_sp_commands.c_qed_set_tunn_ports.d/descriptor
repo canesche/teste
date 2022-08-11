@@ -1,0 +1,4 @@
+struct TYPE_4__ | port int | b_update_port long 
+struct TYPE_3__ | port int | b_update_port long 
+struct qed_tunnel_info | vxlan_port struct TYPE_4__ | geneve_port struct TYPE_3__ 
+function qed_set_tunn_ports void | p_tun struct qed_tunnel_info * | p_src struct qed_tunnel_info *

@@ -1,0 +1,3 @@
+struct matrox_fb_info | dummy int 
+struct TYPE_2__ | control int 
+function get_ctrl_ptr int * | minfo struct matrox_fb_info * | idx unsigned int

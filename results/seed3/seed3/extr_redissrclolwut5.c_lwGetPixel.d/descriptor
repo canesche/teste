@@ -1,0 +1,2 @@
+struct TYPE_3__ | width int | height int | pixels int * 
+function lwGetPixel int | canvas struct TYPE_3__ * | x int | y int

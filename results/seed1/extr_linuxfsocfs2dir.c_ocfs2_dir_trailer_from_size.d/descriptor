@@ -1,2 +1,0 @@
-struct ocfs2_dir_block_trailer | dummy int 
-function ocfs2_dir_trailer_from_size struct ocfs2_dir_block_trailer * | blocksize int | data void *

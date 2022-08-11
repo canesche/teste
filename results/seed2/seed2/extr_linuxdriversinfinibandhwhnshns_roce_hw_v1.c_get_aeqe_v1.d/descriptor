@@ -1,0 +1,4 @@
+struct hns_roce_eq | entries int | buf_list struct TYPE_2__ * 
+struct hns_roce_aeqe | dummy int 
+struct TYPE_2__ | buf long 
+function get_aeqe_v1 struct hns_roce_aeqe * | eq struct hns_roce_eq * | entry int

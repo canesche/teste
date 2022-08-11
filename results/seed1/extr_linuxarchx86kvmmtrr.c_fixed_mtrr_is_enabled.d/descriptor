@@ -1,2 +1,0 @@
-struct kvm_mtrr | deftype int 
-function fixed_mtrr_is_enabled int | mtrr_state struct kvm_mtrr *

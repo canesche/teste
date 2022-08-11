@@ -1,0 +1,5 @@
+struct TYPE_6__ | records struct TYPE_7__ * 
+struct TYPE_9__ | nb_elem long 
+struct TYPE_8__ | type long | content long 
+struct TYPE_7__ | next struct TYPE_7__ * 
+function count_omf_multi_record_type int | obj struct TYPE_6__ * | type long

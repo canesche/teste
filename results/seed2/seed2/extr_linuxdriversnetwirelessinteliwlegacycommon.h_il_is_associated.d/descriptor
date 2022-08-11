@@ -1,0 +1,3 @@
+struct TYPE_2__ | filter_flags int 
+struct il_priv | active struct TYPE_2__ 
+function il_is_associated int | il struct il_priv *

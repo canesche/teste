@@ -1,0 +1,3 @@
+struct TYPE_2__ | select_minor int | select_major int 
+struct ufs_qcom_host | testbus struct TYPE_2__ 
+function ufs_qcom_get_default_testbus_cfg void | host struct ufs_qcom_host *

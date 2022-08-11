@@ -1,0 +1,3 @@
+struct TYPE_5__ | input float * 
+struct TYPE_6__ | pad int | out_h int | out_w int | c int | batch int | size int | stride int | w int | h int | output float * | indexes int * 
+function forward_maxpool_layer void | l const struct TYPE_6__ | net struct TYPE_5__

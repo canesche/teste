@@ -1,0 +1,4 @@
+struct pm8xxx_xoadc | nchans int | chans struct pm8xxx_chan_info * 
+struct pm8xxx_chan_info | hwchan struct TYPE_2__ * 
+struct TYPE_2__ | amux_channel long 
+function pm8xxx_get_channel struct pm8xxx_chan_info * | adc struct pm8xxx_xoadc * | chan long

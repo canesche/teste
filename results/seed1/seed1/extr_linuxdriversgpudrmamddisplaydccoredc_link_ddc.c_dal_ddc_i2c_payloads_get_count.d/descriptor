@@ -1,0 +1,3 @@
+struct TYPE_2__ | count int 
+struct i2c_payloads | payloads struct TYPE_2__ 
+function dal_ddc_i2c_payloads_get_count int | p struct i2c_payloads *

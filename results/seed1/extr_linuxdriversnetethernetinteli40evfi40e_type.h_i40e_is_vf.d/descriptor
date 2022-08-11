@@ -1,3 +1,0 @@
-struct TYPE_2__ | type long 
-struct i40e_hw | mac struct TYPE_2__ 
-function i40e_is_vf int | hw struct i40e_hw *

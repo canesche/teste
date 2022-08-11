@@ -1,0 +1,1 @@
+function mk_iommu_pte unsigned long | paddr unsigned long

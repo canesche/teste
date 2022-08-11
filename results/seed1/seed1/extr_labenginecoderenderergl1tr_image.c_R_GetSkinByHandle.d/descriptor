@@ -1,0 +1,2 @@
+struct TYPE_2__ | numSkins int | skins int ** 
+function R_GetSkinByHandle int * | hSkin int

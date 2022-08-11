@@ -1,0 +1,2 @@
+struct TYPE_3__ | pub_key const int * 
+function DH_get0_pub_key const int * | dh const struct TYPE_3__ *

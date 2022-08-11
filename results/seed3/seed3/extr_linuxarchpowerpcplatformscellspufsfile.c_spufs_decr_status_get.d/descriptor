@@ -1,0 +1,4 @@
+struct TYPE_3__ | mfc_control_RW int 
+struct TYPE_4__ | priv2 struct TYPE_3__ 
+struct spu_context | csa struct TYPE_4__ 
+function spufs_decr_status_get int | ctx struct spu_context *

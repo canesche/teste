@@ -1,0 +1,4 @@
+struct TYPE_6__ | i_value int 
+struct TYPE_5__ | dbg struct TYPE_4__ * 
+struct TYPE_4__ | bpsize int 
+function cb_dbgbpsize int | user void * | data void *

@@ -1,0 +1,3 @@
+struct kvm_ppc_rmmu_info | ap_encodings int * 
+struct TYPE_2__ | shift int | ap int 
+function add_rmmu_ap_encoding void | info struct kvm_ppc_rmmu_info * | psize int | indexp int *

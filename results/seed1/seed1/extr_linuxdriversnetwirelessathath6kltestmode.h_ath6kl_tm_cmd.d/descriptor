@@ -1,0 +1,3 @@
+struct wireless_dev | dummy int 
+struct wiphy | dummy int 
+function ath6kl_tm_cmd int | wiphy struct wiphy * | wdev struct wireless_dev * | data void * | len int

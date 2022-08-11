@@ -1,0 +1,2 @@
+struct stm_pll | idf int | ndiv unsigned long 
+function clk_pll4600c28_get_rate int | input unsigned long | pll struct stm_pll * | rate unsigned long *

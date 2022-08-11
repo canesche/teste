@@ -1,0 +1,1 @@
+function local_b64_encode void | in int const[3] | out char [4] | len int

@@ -1,2 +1,0 @@
-struct usb_ctrlrequest | bRequestType int | bRequest long 
-function mv_u3d_is_set_configuration int | setup struct usb_ctrlrequest *

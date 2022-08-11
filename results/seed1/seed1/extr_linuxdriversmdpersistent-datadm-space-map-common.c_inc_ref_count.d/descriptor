@@ -1,0 +1,1 @@
+function inc_ref_count int | context void * | old long | new long *

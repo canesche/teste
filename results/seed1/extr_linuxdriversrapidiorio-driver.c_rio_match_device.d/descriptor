@@ -1,3 +1,0 @@
-struct rio_device_id | vid long | asm_vid long | did long | asm_did long 
-struct rio_dev | vid long | did long | asm_vid long | asm_did long 
-function rio_match_device const struct rio_device_id * | id const struct rio_device_id * | rdev const struct rio_dev *

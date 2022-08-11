@@ -1,0 +1,2 @@
+struct work_struct | dummy int 
+function xs_dummy_setup_socket void | work struct work_struct *

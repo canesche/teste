@@ -1,0 +1,3 @@
+struct realtek_smi | num_ports int | num_mib_counters int 
+struct dsa_switch | priv struct realtek_smi * 
+function rtl8366_get_sset_count int | ds struct dsa_switch * | port int | sset int

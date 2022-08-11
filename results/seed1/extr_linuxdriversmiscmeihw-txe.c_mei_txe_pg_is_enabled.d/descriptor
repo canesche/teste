@@ -1,2 +1,0 @@
-struct mei_device | dummy int 
-function mei_txe_pg_is_enabled int | dev struct mei_device *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 70,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 70,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxarchmipssgi-ip27ip27-irq.c_ms1bit.d/extr_linuxarchmipssgi-ip27ip27-irq.c_ms1bit_O0::ms1bit(60)"
+  }
+]

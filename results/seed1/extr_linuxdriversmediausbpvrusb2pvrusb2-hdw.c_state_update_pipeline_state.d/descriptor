@@ -1,2 +1,0 @@
-struct pvr2_hdw | state_pipeline_idle unsigned int | state_pipeline_pause long | state_decoder_quiescent int | state_usbstream_run long | state_decoder_run long | state_encoder_run long 
-function state_update_pipeline_state int | hdw struct pvr2_hdw *

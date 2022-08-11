@@ -1,0 +1,6 @@
+struct target_control | heads int | sectors int | drv_flags int 
+struct scsi_device | id unsigned long | host struct TYPE_2__ * 
+struct initio_host | targets struct target_control * 
+struct block_device | dummy int 
+struct TYPE_2__ | hostdata long 
+function i91u_biosparam int | sdev struct scsi_device * | dev struct block_device * | capacity long | info_array int *

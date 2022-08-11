@@ -1,0 +1,2 @@
+struct TYPE_3__ | Ptr long | Root long | Size long 
+function ReadByte int | pRead struct TYPE_3__ *

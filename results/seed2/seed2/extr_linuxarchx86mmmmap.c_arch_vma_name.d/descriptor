@@ -1,0 +1,2 @@
+struct vm_area_struct | vm_flags int 
+function arch_vma_name const char * | vma struct vm_area_struct *

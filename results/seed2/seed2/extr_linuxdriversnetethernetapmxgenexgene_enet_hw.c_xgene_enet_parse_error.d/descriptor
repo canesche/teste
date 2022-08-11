@@ -1,0 +1,2 @@
+struct xgene_enet_desc_ring | rx_fifo_errors int | rx_frame_errors int | rx_length_errors int | rx_errors int | rx_crc_errors int 
+function xgene_enet_parse_error void | ring struct xgene_enet_desc_ring * | status enum xgene_enet_err_code

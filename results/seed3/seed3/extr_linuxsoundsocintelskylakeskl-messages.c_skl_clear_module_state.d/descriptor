@@ -1,0 +1,3 @@
+struct skl_module_pin | pin_state long 
+struct skl_module_cfg | m_state int 
+function skl_clear_module_state void | mpin struct skl_module_pin * | max int | mcfg struct skl_module_cfg *

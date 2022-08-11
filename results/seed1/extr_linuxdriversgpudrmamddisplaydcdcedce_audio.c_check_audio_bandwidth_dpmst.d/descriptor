@@ -1,3 +1,0 @@
-struct audio_sample_rates | dummy int 
-struct audio_crtc_info | dummy int 
-function check_audio_bandwidth_dpmst void | crtc_info const struct audio_crtc_info * | channel_count int | sample_rates union audio_sample_rates *

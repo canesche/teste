@@ -1,0 +1,3 @@
+struct TYPE_5__ | status int | flag int | encoding struct TYPE_4__ * 
+struct TYPE_4__ | no_encoding long 
+function mbfl_filt_ident_big5 int | c int | filter struct TYPE_5__ *

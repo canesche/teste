@@ -1,0 +1,1 @@
+function ngx_rtmp_stat_get_aac_profile char * | p int | sbr int | ps int

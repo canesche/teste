@@ -1,0 +1,4 @@
+struct net_device | ip_ptr struct in_device * 
+struct in_ifaddr | ifa_mask int 
+struct in_device | ifa_list struct in_ifaddr * 
+function dev_netmask int | d void * | m void *

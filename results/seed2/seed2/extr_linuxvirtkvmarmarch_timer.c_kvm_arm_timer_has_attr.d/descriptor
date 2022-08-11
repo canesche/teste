@@ -1,0 +1,3 @@
+struct kvm_vcpu | dummy int 
+struct kvm_device_attr | attr int 
+function kvm_arm_timer_has_attr int | vcpu struct kvm_vcpu * | attr struct kvm_device_attr *

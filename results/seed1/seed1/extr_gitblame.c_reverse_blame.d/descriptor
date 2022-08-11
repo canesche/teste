@@ -1,0 +1,2 @@
+struct blame_entry | next struct blame_entry * 
+function reverse_blame struct blame_entry * | head struct blame_entry * | tail struct blame_entry *

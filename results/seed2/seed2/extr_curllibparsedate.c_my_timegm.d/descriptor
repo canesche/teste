@@ -1,0 +1,2 @@
+struct my_tm | tm_year int | tm_mon int | tm_mday int | tm_hour int | tm_min int | tm_sec int 
+function my_timegm void | tm struct my_tm * | t int *

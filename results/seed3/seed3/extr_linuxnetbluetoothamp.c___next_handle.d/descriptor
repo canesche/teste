@@ -1,0 +1,2 @@
+struct amp_mgr | handle long 
+function __next_handle int | mgr struct amp_mgr *

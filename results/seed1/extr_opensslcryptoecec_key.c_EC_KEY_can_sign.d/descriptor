@@ -1,4 +1,0 @@
-struct TYPE_7__ | group struct TYPE_6__ * 
-struct TYPE_6__ | meth struct TYPE_5__ * 
-struct TYPE_5__ | flags int 
-function EC_KEY_can_sign int | eckey const struct TYPE_7__ *

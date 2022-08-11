@@ -1,0 +1,2 @@
+struct pinctrl_dev | dummy int 
+function dc_get_fname const char * | pctldev struct pinctrl_dev * | selector unsigned int

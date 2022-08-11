@@ -1,4 +1,0 @@
-struct TYPE_7__ | FirstField struct TYPE_5__ * | Key int * 
-struct TYPE_6__ | Line int * 
-struct TYPE_5__ | Data int * 
-function InfGetData int | Context struct TYPE_6__ * | Key int ** | Data int **

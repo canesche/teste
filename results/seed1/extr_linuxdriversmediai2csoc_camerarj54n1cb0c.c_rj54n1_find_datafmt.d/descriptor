@@ -1,2 +1,0 @@
-struct rj54n1_datafmt | code long 
-function rj54n1_find_datafmt const struct rj54n1_datafmt * | code long | fmt const struct rj54n1_datafmt * | n int

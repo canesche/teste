@@ -1,2 +1,0 @@
-struct nfs_client | dummy int 
-function nfs_fscache_release_client_cookie void | clp struct nfs_client *

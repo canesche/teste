@@ -1,0 +1,4 @@
+struct snd_pcm_substream | runtime struct TYPE_2__ * 
+struct snd_azf3328_codec_data | substream int * 
+struct TYPE_2__ | private_data struct snd_azf3328_codec_data * 
+function snd_azf3328_pcm_close int | substream struct snd_pcm_substream *

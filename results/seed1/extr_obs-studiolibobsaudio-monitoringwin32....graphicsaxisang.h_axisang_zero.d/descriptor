@@ -1,2 +1,0 @@
-struct axisang | x float | y float | z float | w float 
-function axisang_zero void | dst struct axisang *

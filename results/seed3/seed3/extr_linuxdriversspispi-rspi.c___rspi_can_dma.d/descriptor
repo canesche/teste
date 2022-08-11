@@ -1,0 +1,4 @@
+struct spi_transfer | len long 
+struct rspi_data | ops struct TYPE_2__ * 
+struct TYPE_2__ | fifo_size long 
+function __rspi_can_dma int | rspi const struct rspi_data * | xfer const struct spi_transfer *

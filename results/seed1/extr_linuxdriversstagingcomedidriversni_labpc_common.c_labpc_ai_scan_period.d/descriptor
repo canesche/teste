@@ -1,2 +1,0 @@
-struct comedi_cmd | scan_begin_src long | convert_src long | scan_begin_arg unsigned int 
-function labpc_ai_scan_period unsigned int | cmd const struct comedi_cmd * | mode enum scan_mode

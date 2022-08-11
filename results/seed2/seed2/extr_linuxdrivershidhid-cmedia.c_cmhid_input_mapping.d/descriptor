@@ -1,0 +1,5 @@
+struct hid_usage | dummy int 
+struct hid_input | dummy int 
+struct hid_field | dummy int 
+struct hid_device | dummy int 
+function cmhid_input_mapping int | hid struct hid_device * | hi struct hid_input * | field struct hid_field * | usage struct hid_usage * | bit unsigned long ** | max int *

@@ -1,2 +1,0 @@
-struct dtv_frontend_properties | modulation int | hierarchy int | code_rate_HP int 
-function configure_reg0xc05 int | p struct dtv_frontend_properties * | reg0xc05 int *

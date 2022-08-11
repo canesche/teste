@@ -1,0 +1,2 @@
+struct TYPE_3__ | total_out long | total_in long | output int | next_out int | available_out int | next_in int * | available_in long 
+function InitializeBuffers void | context struct TYPE_3__ *

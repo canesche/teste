@@ -1,3 +1,0 @@
-struct mtk_ecc | caps struct TYPE_2__ * 
-struct TYPE_2__ | parity_bits unsigned int 
-function mtk_ecc_get_parity_bits unsigned int | ecc struct mtk_ecc *

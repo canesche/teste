@@ -1,0 +1,2 @@
+struct pvr2_hdw | v4l_minor_number_video int | v4l_minor_number_vbi int | v4l_minor_number_radio int 
+function pvr2_hdw_v4l_get_minor_number int | hdw struct pvr2_hdw * | index enum pvr2_v4l_type

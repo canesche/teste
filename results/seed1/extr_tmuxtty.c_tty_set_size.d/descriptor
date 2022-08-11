@@ -1,2 +1,0 @@
-struct tty | sy void * | sx void * 
-function tty_set_size void | tty struct tty * | sx void * | sy void *

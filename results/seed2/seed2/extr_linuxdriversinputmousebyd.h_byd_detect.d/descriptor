@@ -1,0 +1,2 @@
+struct psmouse | dummy int 
+function byd_detect int | psmouse struct psmouse * | set_properties int

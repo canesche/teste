@@ -1,0 +1,4 @@
+struct TYPE_3__ | waveform long 
+struct TYPE_4__ | periodic struct TYPE_3__ 
+struct ff_effect | type long | u struct TYPE_4__ 
+function check_effects_compatible int | e1 struct ff_effect * | e2 struct ff_effect *

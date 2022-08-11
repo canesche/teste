@@ -1,0 +1,2 @@
+struct ecdh | key_size unsigned int 
+function crypto_ecdh_key_len unsigned int | params const struct ecdh *

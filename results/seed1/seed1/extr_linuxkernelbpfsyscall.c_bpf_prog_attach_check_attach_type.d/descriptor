@@ -1,0 +1,2 @@
+struct bpf_prog | type int | expected_attach_type int 
+function bpf_prog_attach_check_attach_type int | prog const struct bpf_prog * | attach_type enum bpf_attach_type

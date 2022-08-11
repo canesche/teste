@@ -1,0 +1,1 @@
+function intel_pt_fixup_last_mtc void | mtc int | mtc_shift int | last_mtc int *

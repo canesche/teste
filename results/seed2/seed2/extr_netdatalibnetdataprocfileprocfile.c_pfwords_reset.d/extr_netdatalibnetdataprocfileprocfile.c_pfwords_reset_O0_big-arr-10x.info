@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_netdatalibnetdataprocfileprocfile.c_pfwords_reset.d/extr_netdatalibnetdataprocfileprocfile.c_pfwords_reset_O0::pfwords_reset(62)"
+  }
+]

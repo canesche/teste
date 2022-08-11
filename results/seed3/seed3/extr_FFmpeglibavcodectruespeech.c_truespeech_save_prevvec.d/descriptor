@@ -1,0 +1,2 @@
+struct TYPE_3__ | cvector int * | prevfilt int * 
+function truespeech_save_prevvec void | c struct TYPE_3__ *

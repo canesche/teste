@@ -1,0 +1,2 @@
+struct msm_dsi_pll | dummy int 
+function msm_dsi_pll_destroy void | pll struct msm_dsi_pll *

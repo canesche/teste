@@ -1,0 +1,4 @@
+struct vo_vsync_info | last_queue_display_time int | skipped_vsyncs int | vsync_duration int 
+struct ra_ctx | priv struct priv * 
+struct priv | last_queue_display_time int | last_skipped_vsyncs int | vsync_duration int 
+function glx_get_vsync void | ctx struct ra_ctx * | info struct vo_vsync_info *

@@ -1,0 +1,2 @@
+struct qlcnic_adapter | dummy int 
+function qlcnic_sriov_pf_reinit int | adapter struct qlcnic_adapter *

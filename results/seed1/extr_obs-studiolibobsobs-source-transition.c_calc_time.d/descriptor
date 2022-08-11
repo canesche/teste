@@ -1,2 +1,0 @@
-struct TYPE_3__ | transition_start_time long | transition_duration long 
-function calc_time float | transition struct TYPE_3__ * | ts long

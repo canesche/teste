@@ -1,0 +1,2 @@
+struct sbp2_target | guid int 
+function sbp2_get_unit_unique_id void | tgt struct sbp2_target * | leaf const int *

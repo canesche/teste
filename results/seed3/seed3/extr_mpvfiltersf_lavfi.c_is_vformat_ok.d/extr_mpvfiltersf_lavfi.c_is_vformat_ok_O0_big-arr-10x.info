@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 8,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_mpvfiltersf_lavfi.c_is_vformat_ok.d/extr_mpvfiltersf_lavfi.c_is_vformat_ok_O0::is_vformat_ok(63)"
+  }
+]

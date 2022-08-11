@@ -1,3 +1,0 @@
-struct shadow_spine | count long | info struct dm_btree_info * 
-struct dm_btree_info | dummy int 
-function init_shadow_spine void | s struct shadow_spine * | info struct dm_btree_info *

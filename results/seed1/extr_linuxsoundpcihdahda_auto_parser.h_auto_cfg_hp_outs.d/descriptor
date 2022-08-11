@@ -1,2 +1,0 @@
-struct auto_pin_cfg | line_out_type long | line_outs int | hp_outs int 
-function auto_cfg_hp_outs int | cfg const struct auto_pin_cfg *

@@ -1,0 +1,4 @@
+struct TYPE_4__ | blink long | bkcol int 
+struct TYPE_5__ | bits struct TYPE_4__ 
+struct TYPE_6__ | u struct TYPE_5__ 
+function SetBackgroundColorHercules void | col int

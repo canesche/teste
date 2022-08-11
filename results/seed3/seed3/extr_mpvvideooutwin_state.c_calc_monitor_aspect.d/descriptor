@@ -1,0 +1,2 @@
+struct mp_vo_opts | monitor_pixel_aspect double | force_monitor_aspect int 
+function calc_monitor_aspect void | opts struct mp_vo_opts * | scr_w int | scr_h int | pixelaspect double * | w int * | h int *

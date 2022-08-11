@@ -1,0 +1,4 @@
+struct TYPE_2__ | cache int * 
+struct hfi1_pportdata | max_power_class int | default_atten int | port_type int | local_atten int | remote_atten int | rx_preset int | tx_preset_eq int | tx_preset_noeq int | qsfp_info struct TYPE_2__ 
+struct hfi1_devdata | pport struct hfi1_pportdata * 
+function get_integrated_platform_config_field void | dd struct hfi1_devdata * | table_type enum platform_config_table_type_encoding | field_index int | data int *

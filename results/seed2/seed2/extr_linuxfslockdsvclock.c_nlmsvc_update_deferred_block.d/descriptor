@@ -1,0 +1,2 @@
+struct nlm_block | b_granted int | b_flags int 
+function nlmsvc_update_deferred_block void | block struct nlm_block * | result int

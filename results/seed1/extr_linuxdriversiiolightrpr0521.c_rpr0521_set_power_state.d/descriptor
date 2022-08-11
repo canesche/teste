@@ -1,2 +1,0 @@
-struct rpr0521_data | dummy int 
-function rpr0521_set_power_state int | data struct rpr0521_data * | on int | device_mask int

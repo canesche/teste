@@ -1,0 +1,2 @@
+struct talitos_ptr | j_extent int 
+function to_talitos_ptr_ext_set void | ptr struct talitos_ptr * | val int | is_sec1 int

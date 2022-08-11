@@ -1,0 +1,2 @@
+struct TYPE_3__ | buffer_start long | buffer_end long 
+function num_packets_array long | array const struct TYPE_3__ *

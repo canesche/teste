@@ -1,0 +1,2 @@
+struct msxmlsupported_data_t | supported int | clsid const int * 
+function is_clsid_supported int | clsid const int * | table const struct msxmlsupported_data_t *

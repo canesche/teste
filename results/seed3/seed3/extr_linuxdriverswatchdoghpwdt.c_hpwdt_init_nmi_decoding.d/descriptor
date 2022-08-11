@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function hpwdt_init_nmi_decoding int | dev struct pci_dev *

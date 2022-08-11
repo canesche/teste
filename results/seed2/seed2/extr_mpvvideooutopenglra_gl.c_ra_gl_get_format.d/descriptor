@@ -1,0 +1,3 @@
+struct ra_format | priv struct gl_format * 
+struct gl_format | type int | format int | internal_format int 
+function ra_gl_get_format void | fmt const struct ra_format * | out_internal_format int * | out_format int * | out_type int *

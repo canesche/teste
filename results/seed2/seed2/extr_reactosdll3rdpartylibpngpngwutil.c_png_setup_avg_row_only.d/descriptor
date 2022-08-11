@@ -1,0 +1,2 @@
+struct TYPE_3__ | row_buf int * | prev_row int * | try_row int * 
+function png_setup_avg_row_only void | png_ptr struct TYPE_3__ * | bpp unsigned long | row_bytes unsigned long

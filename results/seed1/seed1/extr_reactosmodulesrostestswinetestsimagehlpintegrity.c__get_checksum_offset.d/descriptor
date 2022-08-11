@@ -1,0 +1,6 @@
+struct TYPE_12__ | e_magic long | e_lfanew int 
+struct TYPE_8__ | Magic long | CheckSum int 
+struct TYPE_11__ | Signature long | OptionalHeader struct TYPE_8__ 
+struct TYPE_9__ | CheckSum int 
+struct TYPE_10__ | OptionalHeader struct TYPE_9__ 
+function _get_checksum_offset int | base long | nt_header long * | checksum int *

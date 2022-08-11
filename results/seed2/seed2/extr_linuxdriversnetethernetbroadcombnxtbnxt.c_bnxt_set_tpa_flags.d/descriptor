@@ -1,0 +1,3 @@
+struct bnxt | flags int | dev struct TYPE_2__ * 
+struct TYPE_2__ | features int 
+function bnxt_set_tpa_flags void | bp struct bnxt *

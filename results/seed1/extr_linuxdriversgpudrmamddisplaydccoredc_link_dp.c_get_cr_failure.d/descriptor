@@ -1,3 +1,0 @@
-struct TYPE_2__ | CR_DONE_0 int 
-struct lane_status | bits struct TYPE_2__ 
-function get_cr_failure enum link_training_result | ln_count enum dc_lane_count | dpcd_lane_status union lane_status *

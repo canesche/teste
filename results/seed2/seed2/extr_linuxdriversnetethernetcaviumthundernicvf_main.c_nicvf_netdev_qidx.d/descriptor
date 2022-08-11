@@ -1,0 +1,2 @@
+struct nicvf | sqs_id int | sqs_mode long 
+function nicvf_netdev_qidx long | nic struct nicvf * | qidx long

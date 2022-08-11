@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int | wend long 
+function __fwriting int | f struct TYPE_3__ *

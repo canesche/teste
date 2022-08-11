@@ -1,0 +1,2 @@
+struct crypt_ctl | dummy int 
+function crypt_phys2virt struct crypt_ctl * | phys int

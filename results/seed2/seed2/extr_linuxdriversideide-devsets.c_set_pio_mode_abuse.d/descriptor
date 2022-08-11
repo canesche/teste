@@ -1,0 +1,2 @@
+struct TYPE_3__ | host_flags int 
+function set_pio_mode_abuse int | hwif struct TYPE_3__ * | req_pio int

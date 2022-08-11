@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function debug_pkt void | dev struct net_device * | func const char * | data int * | len int

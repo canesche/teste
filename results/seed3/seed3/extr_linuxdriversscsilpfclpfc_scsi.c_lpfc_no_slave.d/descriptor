@@ -1,0 +1,2 @@
+struct scsi_device | dummy int 
+function lpfc_no_slave int | sdev struct scsi_device *

@@ -1,0 +1,3 @@
+struct TYPE_3__ | data long * 
+struct TYPE_4__ | match struct TYPE_3__ 
+function ngx_http_sub_cmp_matches long | one const void * | two const void *

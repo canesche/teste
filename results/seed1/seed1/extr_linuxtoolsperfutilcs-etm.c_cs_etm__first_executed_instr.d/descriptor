@@ -1,0 +1,2 @@
+struct cs_etm_packet | sample_type long | start_addr int 
+function cs_etm__first_executed_instr int | packet struct cs_etm_packet *

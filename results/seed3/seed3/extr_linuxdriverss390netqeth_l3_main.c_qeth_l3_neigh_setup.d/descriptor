@@ -1,0 +1,4 @@
+struct net_device | dummy int 
+struct neigh_parms | neigh_setup int | tbl struct TYPE_2__ * 
+struct TYPE_2__ | family long 
+function qeth_l3_neigh_setup int | dev struct net_device * | np struct neigh_parms *

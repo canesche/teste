@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversacpipci_mcfg.c_pci_mcfg_apply_quirks.d/extr_linuxdriversacpipci_mcfg.c_pci_mcfg_apply_quirks_O0::pci_mcfg_apply_quirks(65)"
+  }
+]

@@ -1,0 +1,4 @@
+struct TYPE_5__ | words_progress_restored long * 
+struct TYPE_6__ | salts_cnt unsigned long 
+struct TYPE_7__ | status_ctx struct TYPE_5__ * | hashes struct TYPE_6__ * 
+function status_get_progress_restored int | hashcat_ctx const struct TYPE_7__ *

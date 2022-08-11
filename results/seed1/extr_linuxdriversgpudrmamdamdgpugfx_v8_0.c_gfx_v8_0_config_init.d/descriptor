@@ -1,4 +1,0 @@
-struct TYPE_3__ | double_offchip_lds_buf int 
-struct TYPE_4__ | config struct TYPE_3__ 
-struct amdgpu_device | asic_type int | gfx struct TYPE_4__ 
-function gfx_v8_0_config_init void | adev struct amdgpu_device *

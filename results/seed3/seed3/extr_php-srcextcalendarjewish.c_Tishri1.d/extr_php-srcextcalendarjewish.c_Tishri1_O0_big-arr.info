@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 20,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 38,
+    static: {
+      instructions: 98,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 98,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_php-srcextcalendarjewish.c_Tishri1.d/extr_php-srcextcalendarjewish.c_Tishri1_O0::Tishri1(72)"
+  }
+]

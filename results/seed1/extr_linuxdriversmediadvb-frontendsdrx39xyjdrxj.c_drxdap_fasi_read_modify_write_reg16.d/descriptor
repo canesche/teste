@@ -1,2 +1,0 @@
-struct i2c_device_addr | dummy int 
-function drxdap_fasi_read_modify_write_reg16 int | dev_addr struct i2c_device_addr * | waddr int | raddr int | wdata int | rdata int *

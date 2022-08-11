@@ -1,3 +1,0 @@
-struct inode | i_private int 
-struct file | f_mode int | private_data int 
-function dpu_dbg_debugfs_open int | inode struct inode * | file struct file *

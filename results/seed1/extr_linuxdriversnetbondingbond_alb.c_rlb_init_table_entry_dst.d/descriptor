@@ -1,2 +1,0 @@
-struct rlb_client_info | vlan_id long | slave int * | assigned long | used_prev void * | used_next void * 
-function rlb_init_table_entry_dst void | entry struct rlb_client_info *

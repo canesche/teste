@@ -1,2 +1,0 @@
-struct ap_queue | dummy int 
-function ap_sm_nop enum ap_wait | aq struct ap_queue *

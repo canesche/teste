@@ -1,0 +1,4 @@
+struct goldfish_pipe_dev | first_signalled_pipe struct goldfish_pipe * 
+struct goldfish_pipe | next_signalled struct goldfish_pipe * | prev_signalled struct TYPE_2__ * 
+struct TYPE_2__ | next_signalled struct goldfish_pipe * 
+function signalled_pipes_remove_locked void | dev struct goldfish_pipe_dev * | pipe struct goldfish_pipe *

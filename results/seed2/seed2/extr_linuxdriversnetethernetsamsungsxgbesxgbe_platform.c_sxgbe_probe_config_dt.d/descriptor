@@ -1,0 +1,3 @@
+struct sxgbe_plat_data | dummy int 
+struct platform_device | dummy int 
+function sxgbe_probe_config_dt int | pdev struct platform_device * | plat struct sxgbe_plat_data * | mac const char **

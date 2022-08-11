@@ -1,0 +1,1 @@
+value(connection_handle) == 255, value(rx_buf_addr) == 255, value(b_last_packet) == 255, length(cxt) == 65025, length(cookie) == 65025

@@ -1,0 +1,2 @@
+struct TYPE_3__ | buf unsigned char * 
+function codabar_checksum int | dcode struct TYPE_3__ * | n unsigned int

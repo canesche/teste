@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function i40e_pci_sriov_enable int | pdev struct pci_dev * | num_vfs int

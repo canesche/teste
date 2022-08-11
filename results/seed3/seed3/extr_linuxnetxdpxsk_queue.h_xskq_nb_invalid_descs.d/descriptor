@@ -1,0 +1,2 @@
+struct xsk_queue | invalid_descs int 
+function xskq_nb_invalid_descs int | q struct xsk_queue *

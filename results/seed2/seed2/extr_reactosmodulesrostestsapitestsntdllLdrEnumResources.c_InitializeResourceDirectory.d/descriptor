@@ -1,0 +1,2 @@
+struct TYPE_3__ | NumberOfIdEntries void * | NumberOfNamedEntries void * | MinorVersion long | MajorVersion long | TimeDateStamp long | Characteristics long 
+function InitializeResourceDirectory int | ResourceDirectory struct TYPE_3__ * | NumberOfNamedEntries void * | NumberOfIdEntries void *

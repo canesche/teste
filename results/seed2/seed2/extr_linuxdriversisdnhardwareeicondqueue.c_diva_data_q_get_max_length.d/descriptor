@@ -1,0 +1,2 @@
+struct TYPE_3__ | max_length int 
+function diva_data_q_get_max_length int | q const struct TYPE_3__ *

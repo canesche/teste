@@ -1,0 +1,5 @@
+struct vop_win_data | dummy int 
+struct vop_win | vop struct vop * | data const struct vop_win_data * 
+struct vop_data | win_size unsigned int | win struct vop_win_data * 
+struct vop | win struct vop_win * | data struct vop_data * 
+function vop_win_init void | vop struct vop *

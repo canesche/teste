@@ -1,1 +1,0 @@
-function pick_one_utf8_char unsigned char | start const char ** | remainder_p unsigned long *

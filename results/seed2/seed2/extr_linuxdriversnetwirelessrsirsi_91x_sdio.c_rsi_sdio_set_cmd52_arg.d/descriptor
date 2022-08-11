@@ -1,0 +1,1 @@
+function rsi_sdio_set_cmd52_arg int | rw int | func int | raw int | address int | writedata int

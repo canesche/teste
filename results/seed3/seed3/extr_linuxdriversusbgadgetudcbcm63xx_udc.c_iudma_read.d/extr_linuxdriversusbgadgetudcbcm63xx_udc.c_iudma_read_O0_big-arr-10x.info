@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversusbgadgetudcbcm63xx_udc.c_iudma_read.d/extr_linuxdriversusbgadgetudcbcm63xx_udc.c_iudma_read_O0::iudma_read(69)"
+  }
+]

@@ -1,0 +1,4 @@
+struct nilfs_btree_path | bp_sib_bh struct TYPE_2__ * 
+struct nilfs_btree_node | dummy int 
+struct TYPE_2__ | b_data long 
+function nilfs_btree_get_sib_node struct nilfs_btree_node * | path const struct nilfs_btree_path * | level int

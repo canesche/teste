@@ -1,3 +1,0 @@
-struct TYPE_2__ | connect_time_ms int 
-struct rtmp_stream | rtmp struct TYPE_2__ 
-function rtmp_stream_connect_time int | data void *

@@ -1,0 +1,4 @@
+struct hashtab_node | next struct hashtab_node * 
+struct hashtab_info | slots_used unsigned long | max_chain_len unsigned long 
+struct hashtab | size unsigned long | htable struct hashtab_node ** 
+function hashtab_stat void | h struct hashtab * | info struct hashtab_info *

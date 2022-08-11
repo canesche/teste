@@ -1,4 +1,0 @@
-struct pvr2_ctrl | hdw struct TYPE_4__ * 
-struct TYPE_4__ | hdw_desc struct TYPE_3__ * 
-struct TYPE_3__ | flag_has_cx25840 long 
-function ctrl_vres_min_get int | cptr struct pvr2_ctrl * | vp int *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_radare2librasmarchxtensagnuxtensa-modules.c_Field_xt_wbr18_imm_Slot_inst_set.d/extr_radare2librasmarchxtensagnuxtensa-modules.c_Field_xt_wbr18_imm_Slot_inst_set_O0::Field_xt_wbr18_imm_Slot_inst_set(63)"
+  }
+]

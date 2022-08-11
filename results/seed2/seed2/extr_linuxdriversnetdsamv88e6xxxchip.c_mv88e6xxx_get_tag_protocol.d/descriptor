@@ -1,0 +1,4 @@
+struct mv88e6xxx_chip | info struct TYPE_2__ * 
+struct dsa_switch | priv struct mv88e6xxx_chip * 
+struct TYPE_2__ | tag_protocol int 
+function mv88e6xxx_get_tag_protocol enum dsa_tag_protocol | ds struct dsa_switch * | port int

@@ -1,0 +1,2 @@
+struct TYPE_2__ | phys_addr long 
+function cmp_mem_desc int | l const void * | r const void *

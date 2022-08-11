@@ -1,0 +1,4 @@
+struct TYPE_3__ | btcoexist int 
+struct TYPE_4__ | btc_info struct TYPE_3__ 
+struct rtl_priv | btcoexist struct TYPE_4__ 
+function rtl_get_hwpg_bt_exist int | rtlpriv struct rtl_priv *

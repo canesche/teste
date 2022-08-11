@@ -1,2 +1,0 @@
-struct hlsl_type | type long 
-function convertible_data_type int | type struct hlsl_type *

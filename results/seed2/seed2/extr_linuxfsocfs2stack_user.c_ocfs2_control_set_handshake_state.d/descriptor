@@ -1,0 +1,3 @@
+struct ocfs2_control_private | op_state int 
+struct file | private_data struct ocfs2_control_private * 
+function ocfs2_control_set_handshake_state void | file struct file * | state int

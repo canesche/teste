@@ -1,0 +1,3 @@
+struct TYPE_5__ | HR int * 
+struct TYPE_4__ | Data int * 
+function HASH_GetDigest void | HASH_MessageDigest struct TYPE_4__ *

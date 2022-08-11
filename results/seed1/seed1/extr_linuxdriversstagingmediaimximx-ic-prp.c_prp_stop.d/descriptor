@@ -1,0 +1,2 @@
+struct prp_priv | dummy int 
+function prp_stop void | priv struct prp_priv *

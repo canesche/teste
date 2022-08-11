@@ -1,4 +1,0 @@
-struct SiS_Private | CModeFlag unsigned short | SiS_EModeIDTable struct TYPE_4__ * | SiS_SModeIDTable struct TYPE_3__ * 
-struct TYPE_4__ | Ext_ModeFlag unsigned short 
-struct TYPE_3__ | St_ModeFlag unsigned short 
-function SiS_GetColorDepth unsigned short | SiS_Pr struct SiS_Private * | ModeNo unsigned short | ModeIdIndex unsigned short

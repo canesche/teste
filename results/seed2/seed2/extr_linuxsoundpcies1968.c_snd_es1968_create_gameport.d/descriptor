@@ -1,0 +1,2 @@
+struct es1968 | dummy int 
+function snd_es1968_create_gameport int | chip struct es1968 * | dev int

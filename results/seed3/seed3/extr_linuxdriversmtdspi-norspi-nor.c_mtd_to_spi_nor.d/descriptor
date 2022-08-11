@@ -1,0 +1,3 @@
+struct spi_nor | dummy int 
+struct mtd_info | priv struct spi_nor * 
+function mtd_to_spi_nor struct spi_nor * | mtd struct mtd_info *

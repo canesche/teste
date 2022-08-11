@@ -1,0 +1,4 @@
+struct iwreq_data | mode int 
+struct iw_request_info | dummy int 
+struct ieee80211_device | iw_mode int 
+function ieee80211_wx_get_mode int | ieee struct ieee80211_device * | a struct iw_request_info * | wrqu union iwreq_data * | b char *

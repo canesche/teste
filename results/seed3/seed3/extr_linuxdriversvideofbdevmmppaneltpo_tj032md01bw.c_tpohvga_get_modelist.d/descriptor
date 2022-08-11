@@ -1,0 +1,3 @@
+struct mmp_panel | dummy int 
+struct mmp_mode | dummy int 
+function tpohvga_get_modelist int | panel struct mmp_panel * | modelist struct mmp_mode **

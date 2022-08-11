@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverspowersupplybq2415x_charger.c_bq2415x_update_reported_mode.d/extr_linuxdriverspowersupplybq2415x_charger.c_bq2415x_update_reported_mode_O0::bq2415x_update_reported_mode(66)"
+  }
+]

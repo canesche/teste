@@ -1,2 +1,0 @@
-struct pci_dev | non_compliant_bars int 
-function pci_invalid_bar void | dev struct pci_dev *

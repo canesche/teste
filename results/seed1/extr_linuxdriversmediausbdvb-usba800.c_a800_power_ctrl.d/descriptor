@@ -1,2 +1,0 @@
-struct dvb_usb_device | dummy int 
-function a800_power_ctrl int | d struct dvb_usb_device * | onoff int

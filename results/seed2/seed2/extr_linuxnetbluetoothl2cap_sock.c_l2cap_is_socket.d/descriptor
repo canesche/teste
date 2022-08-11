@@ -1,0 +1,2 @@
+struct socket | ops int * 
+function l2cap_is_socket int | sock struct socket *

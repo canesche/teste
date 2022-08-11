@@ -1,0 +1,2 @@
+struct TYPE_3__ | type int 
+function uiAttributeGetType int | a const struct TYPE_3__ *

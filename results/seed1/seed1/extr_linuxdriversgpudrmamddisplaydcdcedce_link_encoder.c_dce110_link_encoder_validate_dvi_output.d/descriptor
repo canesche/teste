@@ -1,0 +1,5 @@
+struct TYPE_3__ | max_hdmi_pixel_clock int 
+struct TYPE_4__ | features struct TYPE_3__ 
+struct dce110_link_encoder | base struct TYPE_4__ 
+struct dc_crtc_timing | pixel_encoding long | pix_clk_khz int | display_color_depth int 
+function dce110_link_encoder_validate_dvi_output int | enc110 const struct dce110_link_encoder * | connector_signal enum signal_type | signal enum signal_type | crtc_timing const struct dc_crtc_timing *

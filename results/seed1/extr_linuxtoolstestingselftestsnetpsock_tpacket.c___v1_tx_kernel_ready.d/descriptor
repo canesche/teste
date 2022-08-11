@@ -1,2 +1,0 @@
-struct tpacket_hdr | tp_status int 
-function __v1_tx_kernel_ready int | hdr struct tpacket_hdr *

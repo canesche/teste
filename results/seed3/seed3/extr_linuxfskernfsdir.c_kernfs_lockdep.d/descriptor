@@ -1,0 +1,2 @@
+struct kernfs_node | dummy int 
+function kernfs_lockdep int | kn struct kernfs_node *

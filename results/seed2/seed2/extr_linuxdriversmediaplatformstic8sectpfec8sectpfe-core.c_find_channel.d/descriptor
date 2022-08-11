@@ -1,0 +1,3 @@
+struct channel_info | tsin_id int 
+struct c8sectpfei | channel_data struct channel_info ** 
+function find_channel struct channel_info * | fei struct c8sectpfei * | tsin_num int

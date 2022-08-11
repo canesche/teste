@@ -1,3 +1,0 @@
-struct TYPE_4__ | mDECSACE int 
-struct TYPE_5__ | modes struct TYPE_4__ 
-function screen_decsace void | self struct TYPE_5__ * | val unsigned int

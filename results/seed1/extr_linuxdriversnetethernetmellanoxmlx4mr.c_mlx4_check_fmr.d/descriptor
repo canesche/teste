@@ -1,2 +1,0 @@
-struct mlx4_fmr | max_pages int | page_shift int | maps long | max_maps long 
-function mlx4_check_fmr int | fmr struct mlx4_fmr * | page_list int * | npages int | iova int

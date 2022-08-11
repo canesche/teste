@@ -1,2 +1,0 @@
-struct TYPE_3__ | outDataWritten long | decodeToStreamSignature void * | parseMode void * | decodeOnlyOneBlock long | padSize long | numTotalBlocks long | numFinishedStreams long | numStartedStreams long | pos long | state int 
-function XzUnpacker_Init void | p struct TYPE_3__ *

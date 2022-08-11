@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpuipu-v3ipu-common.c_ipu_pixelformat_to_colorspace.d/extr_linuxdriversgpuipu-v3ipu-common.c_ipu_pixelformat_to_colorspace_O0::ipu_pixelformat_to_colorspace(81)"
+  }
+]

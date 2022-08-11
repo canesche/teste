@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversstagingmt7621-dmaralink-gdma.c_gdma_dma_maxburst.d/extr_linuxdriversstagingmt7621-dmaralink-gdma.c_gdma_dma_maxburst_O0::gdma_dma_maxburst(67)"
+  }
+]

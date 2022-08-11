@@ -1,2 +1,0 @@
-struct uwb_rc | active_pals long | beaconing_forced int 
-function uwb_radio_select_channel int | rc struct uwb_rc *

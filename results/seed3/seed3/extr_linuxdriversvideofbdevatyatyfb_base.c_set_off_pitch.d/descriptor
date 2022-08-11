@@ -1,0 +1,6 @@
+struct TYPE_6__ | xoffset int | yoffset int | bits_per_pixel int 
+struct TYPE_5__ | line_length int 
+struct fb_info | var struct TYPE_6__ | fix struct TYPE_5__ 
+struct TYPE_4__ | off_pitch int 
+struct atyfb_par | crtc struct TYPE_4__ 
+function set_off_pitch void | par struct atyfb_par * | info const struct fb_info *

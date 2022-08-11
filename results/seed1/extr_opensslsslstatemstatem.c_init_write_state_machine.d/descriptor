@@ -1,3 +1,0 @@
-struct TYPE_5__ | write_state int 
-struct TYPE_4__ | statem struct TYPE_5__ 
-function init_write_state_machine void | s struct TYPE_4__ *

@@ -1,0 +1,2 @@
+struct event_format | id long 
+function events_id_cmp int | a const void * | b const void *

@@ -1,1 +1,0 @@
-function get_opcode int | addr unsigned char * | opcode unsigned int *

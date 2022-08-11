@@ -1,0 +1,2 @@
+struct vec4 | w int | z int | y int | x int 
+function vec4_neg void | dst struct vec4 * | v const struct vec4 *

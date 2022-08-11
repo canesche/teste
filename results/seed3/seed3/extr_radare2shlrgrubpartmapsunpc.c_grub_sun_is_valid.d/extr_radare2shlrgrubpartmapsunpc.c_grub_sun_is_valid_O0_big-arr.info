@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_radare2shlrgrubpartmapsunpc.c_grub_sun_is_valid.d/extr_radare2shlrgrubpartmapsunpc.c_grub_sun_is_valid_O0::grub_sun_is_valid(63)"
+  }
+]

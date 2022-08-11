@@ -1,0 +1,3 @@
+struct dm_bio_details | bi_iter int | bi_flags int | bi_partno int | bi_disk int 
+struct bio | bi_iter int | bi_flags int | bi_partno int | bi_disk int 
+function dm_bio_record void | bd struct dm_bio_details * | bio struct bio *

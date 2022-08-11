@@ -1,0 +1,5 @@
+struct hda_fixup | dummy int 
+struct hda_codec | spec struct alc_spec * 
+struct TYPE_2__ | stream_analog_capture int * | stream_analog_playback int * 
+struct alc_spec | gen struct TYPE_2__ 
+function alc269_fixup_pcm_44k void | codec struct hda_codec * | fix const struct hda_fixup * | action int

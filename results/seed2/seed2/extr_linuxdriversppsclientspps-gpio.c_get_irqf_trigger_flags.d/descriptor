@@ -1,0 +1,2 @@
+struct pps_gpio_device_data | capture_clear long | assert_falling_edge long 
+function get_irqf_trigger_flags unsigned long | data const struct pps_gpio_device_data *

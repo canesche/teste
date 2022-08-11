@@ -1,0 +1,2 @@
+struct ata_port | dummy int 
+function ata_acpi_set_state void | ap struct ata_port * | state int

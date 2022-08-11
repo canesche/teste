@@ -1,2 +1,0 @@
-struct gart_device | iovmm_base unsigned long | page_count unsigned long 
-function gart_iova_range_valid int | gart struct gart_device * | iova unsigned long | bytes unsigned long

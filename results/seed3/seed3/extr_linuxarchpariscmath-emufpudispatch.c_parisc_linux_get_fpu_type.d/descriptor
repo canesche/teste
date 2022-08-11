@@ -1,0 +1,2 @@
+struct TYPE_2__ | cpu_type long 
+function parisc_linux_get_fpu_type void | fpregs int []

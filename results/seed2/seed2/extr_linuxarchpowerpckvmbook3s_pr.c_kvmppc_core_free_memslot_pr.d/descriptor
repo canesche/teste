@@ -1,0 +1,2 @@
+struct kvm_memory_slot | dummy int 
+function kvmppc_core_free_memslot_pr void | free struct kvm_memory_slot * | dont struct kvm_memory_slot *

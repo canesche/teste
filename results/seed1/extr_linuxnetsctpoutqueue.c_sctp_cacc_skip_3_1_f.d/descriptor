@@ -1,3 +1,0 @@
-struct TYPE_2__ | cacc_saw_newack int 
-struct sctp_transport | cacc struct TYPE_2__ 
-function sctp_cacc_skip_3_1_f int | transport struct sctp_transport * | count_of_newacks int

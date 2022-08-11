@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_darknetsrcstb_image.h_stbi__high_bit.d/extr_darknetsrcstb_image.h_stbi__high_bit_O0::stbi__high_bit(60)"
+  }
+]

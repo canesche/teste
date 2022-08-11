@@ -1,0 +1,1 @@
+function ff_gradfun_blur_line_c void | dc int * | buf int * | buf1 const int * | src const int * | src_linesize int | width int

@@ -1,0 +1,2 @@
+struct dso | sorted_by_name int 
+function dso__set_sorted_by_name void | dso struct dso *

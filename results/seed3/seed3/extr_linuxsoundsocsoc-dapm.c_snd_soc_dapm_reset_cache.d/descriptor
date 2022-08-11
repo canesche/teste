@@ -1,0 +1,4 @@
+struct TYPE_4__ | widget int * 
+struct TYPE_3__ | widget int * 
+struct snd_soc_dapm_context | path_source_cache struct TYPE_4__ | path_sink_cache struct TYPE_3__ 
+function snd_soc_dapm_reset_cache void | dapm struct snd_soc_dapm_context *

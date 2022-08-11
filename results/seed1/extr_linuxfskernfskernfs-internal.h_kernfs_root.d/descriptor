@@ -1,4 +1,0 @@
-struct kernfs_root | dummy int 
-struct TYPE_2__ | root struct kernfs_root * 
-struct kernfs_node | dir struct TYPE_2__ | parent struct kernfs_node * 
-function kernfs_root struct kernfs_root * | kn struct kernfs_node *

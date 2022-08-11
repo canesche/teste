@@ -1,0 +1,4 @@
+struct hpi_pci | pci_dev struct TYPE_3__ * 
+struct TYPE_4__ | vendor long | device long | subvendor long | subdevice long | driver_data long 
+struct TYPE_3__ | vendor long | device long | subsystem_vendor long | subsystem_device long 
+function hpi_lookup_entry_point_function int * | pci_info const struct hpi_pci *

@@ -1,0 +1,4 @@
+struct TYPE_3__ | max_xri int 
+struct TYPE_4__ | max_cfg_param struct TYPE_3__ 
+struct lpfc_hba | sli_rev long | sli4_hba struct TYPE_4__ 
+function lpfc_sli4_get_els_iocb_cnt int | phba struct lpfc_hba *

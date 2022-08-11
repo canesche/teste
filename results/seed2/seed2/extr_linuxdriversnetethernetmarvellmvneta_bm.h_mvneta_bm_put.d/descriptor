@@ -1,0 +1,2 @@
+struct mvneta_bm | dummy int 
+function mvneta_bm_put void | priv struct mvneta_bm *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 23,
+    static: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversiiolighttsl2772.c_tsl2772_device_id_verif.d/extr_linuxdriversiiolighttsl2772.c_tsl2772_device_id_verif_O0::tsl2772_device_id_verif(74)"
+  }
+]

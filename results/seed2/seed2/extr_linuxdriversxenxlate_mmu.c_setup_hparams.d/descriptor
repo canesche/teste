@@ -1,0 +1,2 @@
+struct remap_data | h_iter unsigned long | h_gpfns unsigned long * | fgfn int * | h_errs long * | h_idxs int * 
+function setup_hparams void | gfn unsigned long | data void *

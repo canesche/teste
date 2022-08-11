@@ -1,0 +1,3 @@
+struct TYPE_2__ | auto_recover long 
+struct bfa_ioc | iocpf struct TYPE_2__ | dbg_fwsave_len int | dbg_fwsave void * 
+function bfa_nw_ioc_debug_memclaim void | ioc struct bfa_ioc * | dbg_fwsave void *

@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function gpmc_probe_dt_children void | pdev struct platform_device *

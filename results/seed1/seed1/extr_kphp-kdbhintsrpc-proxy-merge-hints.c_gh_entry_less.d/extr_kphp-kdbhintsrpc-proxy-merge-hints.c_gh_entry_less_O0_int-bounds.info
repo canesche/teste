@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 9,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 55,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 55,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_kphp-kdbhintsrpc-proxy-merge-hints.c_gh_entry_less.d/extr_kphp-kdbhintsrpc-proxy-merge-hints.c_gh_entry_less_O0::gh_entry_less(62)"
+  }
+]

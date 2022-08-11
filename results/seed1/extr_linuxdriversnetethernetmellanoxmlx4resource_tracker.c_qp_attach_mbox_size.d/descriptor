@@ -1,3 +1,0 @@
-struct mlx4_net_trans_rule_hw_ctrl | dummy int 
-struct _rule_hw | size int 
-function qp_attach_mbox_size int | mbox void *

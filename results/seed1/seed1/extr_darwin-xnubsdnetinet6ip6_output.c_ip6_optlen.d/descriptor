@@ -1,0 +1,4 @@
+struct ip6_ext | ip6e_len int 
+struct in6pcb | in6p_outputopts struct TYPE_2__ * 
+struct TYPE_2__ | ip6po_dest2 long | ip6po_rthdr long | ip6po_dest1 long | ip6po_hbh long 
+function ip6_optlen int | in6p struct in6pcb *

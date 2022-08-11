@@ -1,2 +1,0 @@
-struct hns_roce_hem | dummy int 
-function hns_roce_check_hem_null int | hem struct hns_roce_hem ** | start_idx int | bt_chunk_num int

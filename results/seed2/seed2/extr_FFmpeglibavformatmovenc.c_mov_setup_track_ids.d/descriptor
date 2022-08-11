@@ -1,0 +1,5 @@
+struct TYPE_10__ | nb_streams int | streams struct TYPE_7__ ** 
+struct TYPE_9__ | track_ids_ok int | nb_streams int | flags int | tracks struct TYPE_8__ * | use_stream_ids_as_track_ids long 
+struct TYPE_8__ | entry long | track_id int 
+struct TYPE_7__ | id int 
+function mov_setup_track_ids int | mov struct TYPE_9__ * | s struct TYPE_10__ *

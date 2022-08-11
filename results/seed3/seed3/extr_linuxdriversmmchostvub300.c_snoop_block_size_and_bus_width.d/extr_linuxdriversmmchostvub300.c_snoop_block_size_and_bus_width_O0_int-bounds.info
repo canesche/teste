@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 17,
+    phantoms: 16,
+    exit: true,
+    halt: false,
+    edges: 34,
+    static: {
+      instructions: 85,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 85,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmmchostvub300.c_snoop_block_size_and_bus_width.d/extr_linuxdriversmmchostvub300.c_snoop_block_size_and_bus_width_O0::snoop_block_size_and_bus_width(63)"
+  }
+]

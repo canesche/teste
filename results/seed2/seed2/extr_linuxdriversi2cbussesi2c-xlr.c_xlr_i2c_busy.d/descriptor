@@ -1,0 +1,3 @@
+struct xlr_i2c_private | cfg struct TYPE_2__ * 
+struct TYPE_2__ | status_busy int 
+function xlr_i2c_busy int | priv struct xlr_i2c_private * | status int

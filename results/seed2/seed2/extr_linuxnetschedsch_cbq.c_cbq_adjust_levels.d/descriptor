@@ -1,0 +1,2 @@
+struct cbq_class | level int | children struct cbq_class * | sibling struct cbq_class * | tparent struct cbq_class * 
+function cbq_adjust_levels void | this struct cbq_class *

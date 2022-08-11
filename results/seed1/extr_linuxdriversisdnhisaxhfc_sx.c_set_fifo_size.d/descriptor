@@ -1,4 +1,0 @@
-struct TYPE_4__ | chip int | cirm int | b_fifo_size long 
-struct TYPE_3__ | hfcsx struct TYPE_4__ 
-struct IsdnCardState | hw struct TYPE_3__ 
-function set_fifo_size int | cs struct IsdnCardState *

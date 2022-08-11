@@ -1,0 +1,1 @@
+function db_get_inst int | buf const int * | size int

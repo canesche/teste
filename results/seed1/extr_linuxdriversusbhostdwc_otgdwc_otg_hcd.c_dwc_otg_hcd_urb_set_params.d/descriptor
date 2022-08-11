@@ -1,2 +1,0 @@
-struct TYPE_3__ | status int | interval int | flags void * | setup_dma void * | setup_packet void * | length void * | dma void * | buf void * | priv void * 
-function dwc_otg_hcd_urb_set_params void | dwc_otg_urb struct TYPE_3__ * | urb_handle void * | buf void * | dma void * | buflen void * | setup_packet void * | setup_dma void * | flags void * | interval int

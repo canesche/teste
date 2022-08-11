@@ -1,0 +1,4 @@
+struct ubifs_info | dbg struct TYPE_3__ * 
+struct TYPE_4__ | chk_gen long 
+struct TYPE_3__ | chk_gen long 
+function dbg_is_chk_gen int | c const struct ubifs_info *

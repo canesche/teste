@@ -1,2 +1,0 @@
-struct kexec_buf | dummy int 
-function arch_kexec_walk_mem int | kbuf struct kexec_buf * | func int (*)(struct resource *, void *)

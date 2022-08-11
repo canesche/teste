@@ -1,0 +1,4 @@
+struct mlxsw_pci_queue | dummy int 
+struct mlxsw_pci | queues struct TYPE_2__ * 
+struct TYPE_2__ | q struct mlxsw_pci_queue * 
+function __mlxsw_pci_queue_get struct mlxsw_pci_queue * | mlxsw_pci struct mlxsw_pci * | q_type enum mlxsw_pci_queue_type | q_num unsigned long

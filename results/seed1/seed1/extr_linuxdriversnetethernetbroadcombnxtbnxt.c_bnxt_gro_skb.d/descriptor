@@ -1,0 +1,6 @@
+struct sk_buff | dummy int 
+struct rx_tpa_end_cmp_ext | dummy int 
+struct rx_tpa_end_cmp | dummy int 
+struct bnxt_tpa_info | dummy int 
+struct bnxt | dummy int 
+function bnxt_gro_skb struct sk_buff * | bp struct bnxt * | tpa_info struct bnxt_tpa_info * | tpa_end struct rx_tpa_end_cmp * | tpa_end1 struct rx_tpa_end_cmp_ext * | skb struct sk_buff *

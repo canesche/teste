@@ -1,0 +1,2 @@
+struct phy_dm_struct | nhm_cnt_0 int | nhm_cnt_1 int 
+function phydm_cal_nhm_cnt int | dm_void void *

@@ -1,0 +1,1 @@
+function AMF_EncodeBoolean char * | output char * | outend char * | bVal int

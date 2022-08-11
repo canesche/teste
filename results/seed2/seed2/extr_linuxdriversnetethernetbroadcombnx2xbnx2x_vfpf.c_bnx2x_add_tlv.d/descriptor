@@ -1,0 +1,3 @@
+struct channel_tlv | type int | length int 
+struct bnx2x | dummy int 
+function bnx2x_add_tlv void | bp struct bnx2x * | tlvs_list void * | offset int | type int | length int

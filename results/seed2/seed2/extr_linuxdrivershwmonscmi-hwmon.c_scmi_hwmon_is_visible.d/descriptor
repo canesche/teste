@@ -1,0 +1,3 @@
+struct scmi_sensors | info struct scmi_sensor_info *** 
+struct scmi_sensor_info | name long 
+function scmi_hwmon_is_visible int | drvdata const void * | type enum hwmon_sensor_types | attr int | channel int

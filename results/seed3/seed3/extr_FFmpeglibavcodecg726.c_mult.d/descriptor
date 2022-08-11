@@ -1,0 +1,2 @@
+struct TYPE_4__ | exp int | mant int | sign int 
+function mult int | f1 struct TYPE_4__ * | f2 struct TYPE_4__ *

@@ -1,6 +1,0 @@
-struct TYPE_7__ | cur_sz int 
-struct TYPE_8__ | wq struct TYPE_7__ 
-struct TYPE_5__ | cur_sz int 
-struct TYPE_6__ | wq struct TYPE_5__ 
-struct mlx5e_rq | wq_type int | wqe struct TYPE_8__ | mpwqe struct TYPE_6__ 
-function mlx5e_rqwq_get_cur_sz int | rq struct mlx5e_rq *

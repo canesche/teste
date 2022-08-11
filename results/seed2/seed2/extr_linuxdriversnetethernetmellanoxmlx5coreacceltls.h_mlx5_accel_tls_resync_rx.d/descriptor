@@ -1,0 +1,2 @@
+struct mlx5_core_dev | dummy int 
+function mlx5_accel_tls_resync_rx int | mdev struct mlx5_core_dev * | handle int | seq int | rcd_sn int

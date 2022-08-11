@@ -1,0 +1,2 @@
+struct sci_remote_node_context | destination_state long | user_cookie void * | user_callback int * 
+function sci_remote_node_context_setup_to_resume void | sci_rnc struct sci_remote_node_context * | callback int * | callback_parameter void * | dest_param enum sci_remote_node_context_destination_state

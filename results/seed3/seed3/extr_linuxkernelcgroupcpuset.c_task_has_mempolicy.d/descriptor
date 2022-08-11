@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function task_has_mempolicy int | task struct task_struct *

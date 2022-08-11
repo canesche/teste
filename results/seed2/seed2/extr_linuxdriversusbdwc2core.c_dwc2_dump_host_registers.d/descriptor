@@ -1,0 +1,2 @@
+struct dwc2_hsotg | dummy int 
+function dwc2_dump_host_registers void | hsotg struct dwc2_hsotg *

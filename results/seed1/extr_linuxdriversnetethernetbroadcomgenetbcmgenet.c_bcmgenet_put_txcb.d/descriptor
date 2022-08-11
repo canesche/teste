@@ -1,4 +1,0 @@
-struct enet_cb | dummy int 
-struct bcmgenet_tx_ring | write_ptr long | cb_ptr long | end_ptr long | cbs struct enet_cb * 
-struct bcmgenet_priv | dummy int 
-function bcmgenet_put_txcb struct enet_cb * | priv struct bcmgenet_priv * | ring struct bcmgenet_tx_ring *

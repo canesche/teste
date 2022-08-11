@@ -1,7 +1,0 @@
-struct drm_framebuffer | format struct TYPE_4__ * 
-struct drm_display_mode | dummy int 
-struct drm_crtc | primary struct TYPE_3__ * 
-struct ast_vbios_mode_info | dummy int 
-struct TYPE_4__ | cpp int * 
-struct TYPE_3__ | fb struct drm_framebuffer * 
-function ast_set_dac_reg int | crtc struct drm_crtc * | mode struct drm_display_mode * | vbios_mode struct ast_vbios_mode_info *

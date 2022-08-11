@@ -1,0 +1,2 @@
+struct device | dummy int 
+function wm8993_readable int | dev struct device * | reg unsigned int

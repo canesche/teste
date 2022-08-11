@@ -1,0 +1,5 @@
+struct TYPE_3__ | codec_type int | str_type int | operation int | time_slots int 
+struct TYPE_4__ | str_type struct TYPE_3__ 
+struct sst_byt_stream | request struct TYPE_4__ 
+struct sst_byt | dummy int 
+function sst_byt_stream_type int | byt struct sst_byt * | stream struct sst_byt_stream * | codec_type int | stream_type int | operation int

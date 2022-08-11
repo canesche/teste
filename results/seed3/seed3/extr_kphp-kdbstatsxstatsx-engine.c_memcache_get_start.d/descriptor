@@ -1,0 +1,2 @@
+struct connection | flags int 
+function memcache_get_start int | c struct connection *

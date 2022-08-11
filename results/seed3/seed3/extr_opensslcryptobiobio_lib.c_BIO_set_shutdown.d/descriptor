@@ -1,0 +1,2 @@
+struct TYPE_3__ | shutdown int 
+function BIO_set_shutdown void | a struct TYPE_3__ * | shut int

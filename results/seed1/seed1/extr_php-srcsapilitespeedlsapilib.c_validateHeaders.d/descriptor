@@ -1,0 +1,5 @@
+struct lsapi_header_offset | nameOff int | nameLen int | valueOff int | valueLen int 
+struct TYPE_7__ | m_pHeader struct TYPE_6__ * | m_pUnknownHeader struct lsapi_header_offset * | m_pHeaderIndex struct TYPE_5__ * 
+struct TYPE_6__ | m_httpHeaderLen int | m_cntUnknownHeaders long 
+struct TYPE_5__ | m_headerOff int * | m_headerLen int * 
+function validateHeaders int | pReq struct TYPE_7__ *

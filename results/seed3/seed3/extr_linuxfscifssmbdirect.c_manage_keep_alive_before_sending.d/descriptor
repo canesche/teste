@@ -1,0 +1,2 @@
+struct smbd_connection | keep_alive_requested long 
+function manage_keep_alive_before_sending int | info struct smbd_connection *

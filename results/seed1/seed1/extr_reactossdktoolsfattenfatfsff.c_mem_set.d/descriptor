@@ -1,0 +1,1 @@
+function mem_set void | dst void * | val int | cnt int

@@ -1,0 +1,2 @@
+struct sdma_desc | qw unsigned long * 
+function sdma_mapping_len unsigned long | d struct sdma_desc *

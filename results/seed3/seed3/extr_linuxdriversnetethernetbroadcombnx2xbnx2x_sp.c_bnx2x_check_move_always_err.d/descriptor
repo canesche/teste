@@ -1,0 +1,4 @@
+struct bnx2x_classification_ramrod_data | dummy int 
+struct bnx2x_vlan_mac_obj | dummy int 
+struct bnx2x | dummy int 
+function bnx2x_check_move_always_err int | bp struct bnx2x * | src_o struct bnx2x_vlan_mac_obj * | dst_o struct bnx2x_vlan_mac_obj * | data union bnx2x_classification_ramrod_data *

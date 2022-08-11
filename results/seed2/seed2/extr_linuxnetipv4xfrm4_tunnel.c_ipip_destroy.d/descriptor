@@ -1,0 +1,2 @@
+struct xfrm_state | dummy int 
+function ipip_destroy void | x struct xfrm_state *

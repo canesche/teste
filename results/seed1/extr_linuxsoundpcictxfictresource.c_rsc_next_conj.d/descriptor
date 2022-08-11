@@ -1,2 +1,0 @@
-struct rsc | msr int | conj unsigned int 
-function rsc_next_conj int | rsc struct rsc *

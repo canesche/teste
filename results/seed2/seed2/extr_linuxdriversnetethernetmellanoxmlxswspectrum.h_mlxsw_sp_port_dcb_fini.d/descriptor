@@ -1,0 +1,2 @@
+struct mlxsw_sp_port | dummy int 
+function mlxsw_sp_port_dcb_fini void | mlxsw_sp_port struct mlxsw_sp_port *

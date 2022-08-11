@@ -1,0 +1,2 @@
+struct remote | foreign_vcs int | url int 
+function valid_remote int | remote const struct remote *

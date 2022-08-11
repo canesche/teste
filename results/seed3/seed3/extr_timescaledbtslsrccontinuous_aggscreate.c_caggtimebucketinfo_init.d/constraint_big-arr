@@ -1,0 +1,1 @@
+value(hypertable_id) == 255, value(hypertable_partition_colno) == 255, value(hypertable_partition_col_interval) == 255, length(hypertable_oid) == 65025, length(hypertable_partition_coltype) == 65025, length(src) == 65025

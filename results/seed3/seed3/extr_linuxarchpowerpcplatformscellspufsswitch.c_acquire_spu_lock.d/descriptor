@@ -1,0 +1,2 @@
+struct spu | dummy int 
+function acquire_spu_lock void | spu struct spu *

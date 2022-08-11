@@ -1,2 +1,0 @@
-struct TYPE_3__ | data unsigned int ** | linesize int * 
-function set_pixel1 void | frame struct TYPE_3__ * | x int | y int | d0 unsigned int | d1 unsigned int | d2 unsigned int | d3 unsigned int

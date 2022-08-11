@@ -1,0 +1,2 @@
+struct ocfs2_lock_res | dummy int 
+function ocfs2_init_lock_stats void | res struct ocfs2_lock_res *

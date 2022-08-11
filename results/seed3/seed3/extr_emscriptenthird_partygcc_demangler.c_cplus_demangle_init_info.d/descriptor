@@ -1,0 +1,2 @@
+struct d_info | s const char * | send const char * | options int | n const char * | num_comps int | num_subs unsigned long | expansion long | last_name int * | did_subs long | next_sub long | next_comp long 
+function cplus_demangle_init_info void | mangled const char * | options int | len unsigned long | di struct d_info *

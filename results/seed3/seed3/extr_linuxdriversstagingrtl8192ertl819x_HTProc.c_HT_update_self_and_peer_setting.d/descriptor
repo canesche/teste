@@ -1,0 +1,6 @@
+struct TYPE_2__ | bdHTInfoLen long | bdHTInfoBuf long 
+struct rtllib_network | bssht struct TYPE_2__ 
+struct rtllib_device | pHTInfo struct rt_hi_throughput * 
+struct rt_hi_throughput | CurrentOpMode int | bCurrentHTSupport long 
+struct ht_info_ele | OptMode int 
+function HT_update_self_and_peer_setting void | ieee struct rtllib_device * | pNetwork struct rtllib_network *

@@ -1,0 +1,4 @@
+struct pblk_w_ctx | dummy int 
+struct pblk_rb | nr_entries int | entries struct TYPE_2__ * 
+struct TYPE_2__ | w_ctx struct pblk_w_ctx 
+function pblk_rb_w_ctx struct pblk_w_ctx * | rb struct pblk_rb * | pos unsigned int

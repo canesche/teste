@@ -1,0 +1,2 @@
+struct proc | p_memstat_dirty int 
+function memorystatus_validate_track_flags int | target_p struct proc * | pcontrol int

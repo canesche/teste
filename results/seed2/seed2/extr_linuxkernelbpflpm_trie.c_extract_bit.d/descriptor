@@ -1,0 +1,1 @@
+function extract_bit int | data const int * | index unsigned long

@@ -1,0 +1,5 @@
+struct TYPE_4__ | rates struct TYPE_3__ * 
+struct ieee80211_tx_info | flags int | status struct TYPE_4__ 
+struct ieee80211_hw | max_report_rates int 
+struct TYPE_3__ | idx int | count long 
+function ieee80211_tx_get_rates int | hw struct ieee80211_hw * | info struct ieee80211_tx_info * | retry_count int *

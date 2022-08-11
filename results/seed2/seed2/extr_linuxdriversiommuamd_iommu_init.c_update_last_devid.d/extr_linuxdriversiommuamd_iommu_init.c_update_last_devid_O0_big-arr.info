@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversiommuamd_iommu_init.c_update_last_devid.d/extr_linuxdriversiommuamd_iommu_init.c_update_last_devid_O0::update_last_devid(62)"
+  }
+]

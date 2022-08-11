@@ -1,0 +1,3 @@
+struct TYPE_4__ | enabled long | supported long 
+struct TYPE_5__ | pbos struct TYPE_4__ 
+function use_pbo_rendering int | gc struct TYPE_5__ *

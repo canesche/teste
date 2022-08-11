@@ -1,3 +1,0 @@
-struct layout | layout_id unsigned int | codecs struct TYPE_2__ * 
-struct TYPE_2__ | name long 
-function find_layout_by_id struct layout * | id unsigned int

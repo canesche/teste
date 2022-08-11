@@ -1,2 +1,0 @@
-struct TYPE_3__ | life float | vz float | x float | vx float | y float | vy float | z float | active long 
-function update_particle void | p struct TYPE_3__ * | dt float

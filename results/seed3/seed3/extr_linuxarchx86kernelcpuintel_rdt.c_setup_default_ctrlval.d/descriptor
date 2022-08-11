@@ -1,0 +1,2 @@
+struct rdt_resource | num_closid int | default_ctrl int 
+function setup_default_ctrlval void | r struct rdt_resource * | dc int * | dm int *

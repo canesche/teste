@@ -1,0 +1,2 @@
+struct switch_ctx | region_entries_per_slot_bits unsigned long | region_entries_per_slot int | region_table_entry_bits unsigned int 
+function switch_get_position void | sctx struct switch_ctx * | region_nr unsigned long | region_index unsigned long * | bit unsigned int *

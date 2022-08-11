@@ -1,0 +1,2 @@
+struct ref_store | dummy int 
+function packed_delete_reflog int | ref_store struct ref_store * | refname const char *

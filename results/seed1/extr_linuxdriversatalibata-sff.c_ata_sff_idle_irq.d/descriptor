@@ -1,3 +1,0 @@
-struct TYPE_2__ | idle_irq int 
-struct ata_port | stats struct TYPE_2__ 
-function ata_sff_idle_irq unsigned int | ap struct ata_port *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | vlp_flags int 
+function vlan_parent_flags_supports_vlan_mtu int | vlp struct TYPE_3__ *

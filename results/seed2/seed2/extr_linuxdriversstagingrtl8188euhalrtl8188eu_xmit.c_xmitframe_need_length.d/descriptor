@@ -1,0 +1,3 @@
+struct pkt_attrib | encrypt long | icv_len int | bswenc long | pktlen long | iv_len long | hdrlen long 
+struct xmit_frame | attrib struct pkt_attrib 
+function xmitframe_need_length long | pxmitframe struct xmit_frame *

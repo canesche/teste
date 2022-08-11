@@ -1,0 +1,2 @@
+struct i915_pmu_sample | cur int 
+function add_sample void | sample struct i915_pmu_sample * | val long

@@ -1,0 +1,2 @@
+struct vb2_dma_sg_buf | dma_sgt void * 
+function vb2_dma_sg_cookie void * | buf_priv void *

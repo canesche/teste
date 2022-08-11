@@ -1,2 +1,0 @@
-struct TYPE_3__ | stream_revision long | mbx int | top_pred_Y void ** | pred_mode_Y void ** 
-function set_intra_mode_default void | h struct TYPE_3__ *

@@ -1,2 +1,0 @@
-struct regmap | cache_word_size unsigned int 
-function regcache_get_val_addr const void * | map struct regmap * | base const void * | idx unsigned int

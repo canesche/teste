@@ -1,0 +1,3 @@
+struct TYPE_5__ | stream_id long | flags int | length int | payload long * 
+struct TYPE_6__ | data long * | length long 
+function h2o_http2_decode_data_payload int | payload struct TYPE_6__ * | frame const struct TYPE_5__ * | err_desc const char **

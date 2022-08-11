@@ -1,2 +1,0 @@
-struct echoaudio | dummy int 
-function detect_input_clocks int | chip const struct echoaudio *

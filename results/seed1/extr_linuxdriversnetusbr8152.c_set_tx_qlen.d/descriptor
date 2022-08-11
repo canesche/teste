@@ -1,4 +1,0 @@
-struct tx_desc | dummy int 
-struct r8152 | tx_qlen int | netdev struct net_device * 
-struct net_device | mtu int 
-function set_tx_qlen void | tp struct r8152 *

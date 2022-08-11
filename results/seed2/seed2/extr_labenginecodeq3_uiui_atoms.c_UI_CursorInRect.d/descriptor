@@ -1,0 +1,2 @@
+struct TYPE_2__ | cursorx int | cursory int 
+function UI_CursorInRect int | x int | y int | width int | height int

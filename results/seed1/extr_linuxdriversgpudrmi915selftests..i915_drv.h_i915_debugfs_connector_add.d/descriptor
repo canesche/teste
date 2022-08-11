@@ -1,2 +1,0 @@
-struct drm_connector | dummy int 
-function i915_debugfs_connector_add int | connector struct drm_connector *

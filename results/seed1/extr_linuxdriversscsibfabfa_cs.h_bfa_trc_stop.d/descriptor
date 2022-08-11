@@ -1,2 +1,0 @@
-struct bfa_trc_mod_s | stopped int 
-function bfa_trc_stop void | trcm struct bfa_trc_mod_s *

@@ -1,0 +1,3 @@
+struct gasket_page_table | num_coherent_pages int | coherent_pages struct TYPE_2__ * 
+struct TYPE_2__ | user_virt long 
+function is_coherent int | pg_tbl struct gasket_page_table * | host_addr long

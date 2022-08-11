@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversstagingrtl8188euhalhal8188e_rate_adaptive.c_odm_PTTryState_8188E.d/extr_linuxdriversstagingrtl8188euhalhal8188e_rate_adaptive.c_odm_PTTryState_8188E_O0::odm_PTTryState_8188E(61)"
+  }
+]

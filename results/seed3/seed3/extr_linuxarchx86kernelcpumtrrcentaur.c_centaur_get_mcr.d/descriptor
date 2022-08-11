@@ -1,0 +1,2 @@
+struct TYPE_2__ | high int | low int 
+function centaur_get_mcr void | reg unsigned int | base unsigned long * | size unsigned long * | type int *

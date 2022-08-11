@@ -1,0 +1,2 @@
+struct mtd_info | flags int | _unlock int | _lock int 
+function fixup_use_atmel_lock void | mtd struct mtd_info *

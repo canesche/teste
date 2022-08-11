@@ -1,2 +1,0 @@
-struct sa_defrag_extent_backref | root_id long | inum long | file_pos long 
-function backref_comp int | b1 struct sa_defrag_extent_backref * | b2 struct sa_defrag_extent_backref *

@@ -1,3 +1,0 @@
-struct ceph_mds_session | s_mds unsigned long 
-struct ceph_mds_client | max_sessions unsigned long | sessions struct ceph_mds_session ** 
-function __verify_registered_session int | mdsc struct ceph_mds_client * | s struct ceph_mds_session *

@@ -1,0 +1,3 @@
+struct qfq_class | filter_cnt int 
+struct Qdisc | dummy int 
+function qfq_unbind_tcf void | sch struct Qdisc * | arg unsigned long

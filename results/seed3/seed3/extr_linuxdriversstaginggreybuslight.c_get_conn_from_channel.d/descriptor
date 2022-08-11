@@ -1,0 +1,5 @@
+struct gb_connection | dummy int 
+struct gb_channel | light struct TYPE_4__ * 
+struct TYPE_4__ | glights struct TYPE_3__ * 
+struct TYPE_3__ | connection struct gb_connection * 
+function get_conn_from_channel struct gb_connection * | channel struct gb_channel *

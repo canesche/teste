@@ -1,0 +1,3 @@
+struct wined3d_rect_f | l float | t float | r float | b float 
+struct TYPE_3__ | left float | top float | right float | bottom float 
+function cube_coords_float void | r const struct TYPE_3__ * | w float | h float | f struct wined3d_rect_f *

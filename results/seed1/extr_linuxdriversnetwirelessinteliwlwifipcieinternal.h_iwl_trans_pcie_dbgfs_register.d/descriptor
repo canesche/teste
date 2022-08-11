@@ -1,2 +1,0 @@
-struct iwl_trans | dummy int 
-function iwl_trans_pcie_dbgfs_register int | trans struct iwl_trans *

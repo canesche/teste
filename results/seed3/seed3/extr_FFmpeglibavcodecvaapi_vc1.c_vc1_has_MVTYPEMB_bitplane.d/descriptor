@@ -1,0 +1,3 @@
+struct TYPE_4__ | pict_type long 
+struct TYPE_5__ | fcm long | mv_mode long | mv_mode2 long | p_frame_skipped int | s struct TYPE_4__ | mv_type_is_raw long 
+function vc1_has_MVTYPEMB_bitplane int | v const struct TYPE_5__ *

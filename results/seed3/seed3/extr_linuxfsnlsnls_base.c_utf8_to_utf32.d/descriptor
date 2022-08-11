@@ -1,0 +1,2 @@
+struct utf8_table | cmask int | cval int | lmask unsigned long | lval unsigned long 
+function utf8_to_utf32 int | s const int * | inlen int | pu long *

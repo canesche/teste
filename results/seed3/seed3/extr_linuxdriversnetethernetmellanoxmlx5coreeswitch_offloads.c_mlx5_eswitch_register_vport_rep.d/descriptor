@@ -1,0 +1,5 @@
+struct mlx5_eswitch_rep_if | valid int | priv int | get_proto_dev int | unload int | load int 
+struct mlx5_esw_offload | vport_reps struct TYPE_2__ * 
+struct mlx5_eswitch | offloads struct mlx5_esw_offload 
+struct TYPE_2__ | rep_if struct mlx5_eswitch_rep_if * 
+function mlx5_eswitch_register_vport_rep void | esw struct mlx5_eswitch * | vport_index int | __rep_if struct mlx5_eswitch_rep_if * | rep_type unsigned long

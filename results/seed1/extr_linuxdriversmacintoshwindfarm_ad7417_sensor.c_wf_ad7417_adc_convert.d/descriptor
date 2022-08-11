@@ -1,3 +1,0 @@
-struct wf_ad7417_priv | mpu struct TYPE_2__ * 
-struct TYPE_2__ | bdiode int | mdiode int 
-function wf_ad7417_adc_convert void | pv struct wf_ad7417_priv * | chan int | raw int | value int *

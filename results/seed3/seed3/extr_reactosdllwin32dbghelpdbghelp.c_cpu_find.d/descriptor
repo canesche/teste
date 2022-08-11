@@ -1,0 +1,2 @@
+struct cpu | machine long 
+function cpu_find struct cpu * | machine long

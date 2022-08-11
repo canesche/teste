@@ -1,2 +1,0 @@
-struct super_block | dummy int 
-function befs_debug void | sb const struct super_block * | fmt const char *

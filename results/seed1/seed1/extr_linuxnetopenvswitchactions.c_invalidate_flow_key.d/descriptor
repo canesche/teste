@@ -1,0 +1,2 @@
+struct sw_flow_key | mac_proto int 
+function invalidate_flow_key void | key struct sw_flow_key *

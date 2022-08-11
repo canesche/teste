@@ -1,0 +1,2 @@
+struct videobuf_dma_contig_memory | size long | dma_handle long 
+function videobuf_dma_contig_user_put void | mem struct videobuf_dma_contig_memory *

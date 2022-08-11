@@ -1,0 +1,2 @@
+struct dmi_system_id | dummy int 
+function video_set_device_id_scheme int | d const struct dmi_system_id *

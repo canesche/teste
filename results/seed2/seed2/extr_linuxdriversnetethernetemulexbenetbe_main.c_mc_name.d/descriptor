@@ -1,0 +1,2 @@
+struct be_adapter | mc_type int 
+function mc_name char * | adapter struct be_adapter *

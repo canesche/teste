@@ -1,0 +1,3 @@
+struct cx231xx_fh | type long | stream_on long | dev struct cx231xx * 
+struct cx231xx | vbi_stream_on long | stream_on long 
+function res_free void | fh struct cx231xx_fh *

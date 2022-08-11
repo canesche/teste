@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags long | blocks int * | numBlocks long 
+function Xz_Construct void | p struct TYPE_3__ *

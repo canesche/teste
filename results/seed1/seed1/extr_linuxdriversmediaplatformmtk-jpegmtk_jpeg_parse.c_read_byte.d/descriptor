@@ -1,0 +1,2 @@
+struct mtk_jpeg_stream | curr long | size long | addr int * 
+function read_byte int | stream struct mtk_jpeg_stream *

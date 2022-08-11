@@ -1,0 +1,3 @@
+struct ioatdma_device | idx struct ioatdma_chan ** 
+struct ioatdma_chan | dummy int 
+function ioat_chan_by_index struct ioatdma_chan * | ioat_dma struct ioatdma_device * | index int

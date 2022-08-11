@@ -1,4 +1,0 @@
-struct TYPE_2__ | platform_data int 
-struct platform_device | dev struct TYPE_2__ 
-struct omap_des_dev | pdata int 
-function omap_des_get_pdev int | dd struct omap_des_dev * | pdev struct platform_device *

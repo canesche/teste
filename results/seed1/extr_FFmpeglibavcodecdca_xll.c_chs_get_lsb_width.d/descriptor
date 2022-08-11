@@ -1,4 +1,0 @@
-struct TYPE_8__ | bands struct TYPE_6__ * 
-struct TYPE_7__ | fixed_lsb_width int 
-struct TYPE_6__ | bit_width_adjust int * | nscalablelsbs int * 
-function chs_get_lsb_width int | s struct TYPE_7__ * | c struct TYPE_8__ * | band int | ch int

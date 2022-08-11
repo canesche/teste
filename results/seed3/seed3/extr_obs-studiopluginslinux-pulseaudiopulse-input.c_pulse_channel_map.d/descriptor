@@ -1,0 +1,2 @@
+struct TYPE_3__ | channels int | map void ** 
+function pulse_channel_map struct TYPE_3__ | layout enum speaker_layout

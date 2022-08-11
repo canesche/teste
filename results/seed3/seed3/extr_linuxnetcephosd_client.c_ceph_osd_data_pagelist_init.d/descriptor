@@ -1,0 +1,3 @@
+struct ceph_pagelist | dummy int 
+struct ceph_osd_data | pagelist struct ceph_pagelist * | type int 
+function ceph_osd_data_pagelist_init void | osd_data struct ceph_osd_data * | pagelist struct ceph_pagelist *

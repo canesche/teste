@@ -1,0 +1,2 @@
+struct vscsifrnt_info | callers int | pause long 
+function scsifront_enter int | info struct vscsifrnt_info *

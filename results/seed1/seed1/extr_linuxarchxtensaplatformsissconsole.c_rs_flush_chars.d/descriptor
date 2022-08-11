@@ -1,0 +1,2 @@
+struct tty_struct | dummy int 
+function rs_flush_chars void | tty struct tty_struct *

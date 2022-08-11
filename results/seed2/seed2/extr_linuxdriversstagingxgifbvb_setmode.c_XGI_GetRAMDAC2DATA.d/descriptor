@@ -1,0 +1,5 @@
+struct vb_device_info | RVBHCMAX int | RVBHCFACT int | VGAHT unsigned short | HT unsigned short | VGAVT unsigned short | VT unsigned short 
+struct TYPE_6__ | Ext_ModeFlag unsigned short 
+struct TYPE_5__ | Ext_CRT1CRTC unsigned short 
+struct TYPE_4__ | CR long * 
+function XGI_GetRAMDAC2DATA void | ModeIdIndex unsigned short | RefreshRateTableIndex unsigned short | pVBInfo struct vb_device_info *

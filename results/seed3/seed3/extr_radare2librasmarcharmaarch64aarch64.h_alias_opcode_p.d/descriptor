@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int 
+function alias_opcode_p int | opcode const struct TYPE_3__ *

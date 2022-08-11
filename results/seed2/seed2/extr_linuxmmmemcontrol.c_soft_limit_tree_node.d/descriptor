@@ -1,0 +1,3 @@
+struct mem_cgroup_tree_per_node | dummy int 
+struct TYPE_2__ | rb_tree_per_node struct mem_cgroup_tree_per_node ** 
+function soft_limit_tree_node struct mem_cgroup_tree_per_node * | nid int

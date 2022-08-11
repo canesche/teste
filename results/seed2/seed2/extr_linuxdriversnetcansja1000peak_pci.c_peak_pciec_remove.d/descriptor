@@ -1,0 +1,2 @@
+struct peak_pciec_card | dummy int 
+function peak_pciec_remove void | card struct peak_pciec_card *

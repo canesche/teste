@@ -1,0 +1,2 @@
+struct drm_i915_gem_object | dummy int 
+function __i915_gem_userptr_set_active int | obj struct drm_i915_gem_object * | value int

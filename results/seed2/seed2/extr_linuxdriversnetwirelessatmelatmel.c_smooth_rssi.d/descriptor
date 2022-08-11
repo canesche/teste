@@ -1,0 +1,4 @@
+struct TYPE_3__ | level int | updated int 
+struct TYPE_4__ | qual struct TYPE_3__ 
+struct atmel_private | firmware_type int | wstats struct TYPE_4__ 
+function smooth_rssi void | priv struct atmel_private * | rssi int

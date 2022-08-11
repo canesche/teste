@@ -1,0 +1,2 @@
+struct TYPE_3__ | props int * 
+function writer_get_property int | writer const struct TYPE_3__ * | property unsigned long | value int *

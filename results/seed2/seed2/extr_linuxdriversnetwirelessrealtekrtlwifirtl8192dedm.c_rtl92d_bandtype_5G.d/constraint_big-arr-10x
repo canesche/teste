@@ -1,0 +1,1 @@
+value(thermalvalue) == 10, value(delta) == 10, value(rf) == 10, length(ofdm_index) == 100, length(internal_pa) == 100, length(index_mapping) == 100, length(index_mapping_pa) == 100, length(rtlhal) == 100, length(rtlefuse) == 100, length(rtlpriv) == 100, length(rtlphy) == 100

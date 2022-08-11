@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_BGAQRCode-Androidzbarsrcmainjnilibiconv-1.15libgb18030uni.h_gb18030uni_wctomb.d/extr_BGAQRCode-Androidzbarsrcmainjnilibiconv-1.15libgb18030uni.h_gb18030uni_wctomb_O0::gb18030uni_wctomb(67)"
+  }
+]

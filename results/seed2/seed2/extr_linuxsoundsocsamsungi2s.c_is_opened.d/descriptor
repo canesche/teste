@@ -1,0 +1,2 @@
+struct i2s_dai | mode int 
+function is_opened int | i2s struct i2s_dai *

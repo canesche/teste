@@ -1,0 +1,2 @@
+struct msm_ringbuffer | cur int | start int 
+function get_wptr int | ring struct msm_ringbuffer *

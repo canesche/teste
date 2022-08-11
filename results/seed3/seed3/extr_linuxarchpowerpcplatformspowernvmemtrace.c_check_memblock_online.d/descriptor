@@ -1,0 +1,2 @@
+struct memory_block | state long 
+function check_memblock_online int | mem struct memory_block * | arg void *

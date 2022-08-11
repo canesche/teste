@@ -1,0 +1,4 @@
+struct mv88e6xxx_chip | sw_addr int | bus struct mii_bus * | smi_ops int * | info struct TYPE_2__ * 
+struct mii_bus | dummy int 
+struct TYPE_2__ | multi_chip long 
+function mv88e6xxx_smi_init int | chip struct mv88e6xxx_chip * | bus struct mii_bus * | sw_addr int

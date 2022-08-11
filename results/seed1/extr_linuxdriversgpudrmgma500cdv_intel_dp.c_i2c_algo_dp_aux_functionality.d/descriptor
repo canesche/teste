@@ -1,2 +1,0 @@
-struct i2c_adapter | dummy int 
-function i2c_algo_dp_aux_functionality int | adapter struct i2c_adapter *

@@ -1,0 +1,4 @@
+struct snd_pcm_substream | runtime struct TYPE_3__ * 
+struct TYPE_4__ | nr_ch long | substream int * 
+struct TYPE_3__ | private_data int * 
+function snd_vortex_pcm_close int | substream struct snd_pcm_substream *

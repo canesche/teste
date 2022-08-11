@@ -1,0 +1,2 @@
+struct gnss_serial | drvdata void * 
+function gnss_serial_get_drvdata void * | gserial struct gnss_serial *

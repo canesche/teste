@@ -1,0 +1,3 @@
+struct TYPE_5__ | Next struct TYPE_5__ * | Request int * | Controller struct TYPE_4__ * 
+struct TYPE_4__ | FreeCommands struct TYPE_5__ * 
+function DAC960_DeallocateCommand void | Command struct TYPE_5__ *

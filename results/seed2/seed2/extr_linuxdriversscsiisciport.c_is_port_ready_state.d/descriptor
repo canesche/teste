@@ -1,0 +1,1 @@
+function is_port_ready_state int | state enum sci_port_states

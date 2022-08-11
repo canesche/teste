@@ -1,0 +1,3 @@
+struct sg_page_iter | __nents unsigned int | sg_pgoffset unsigned long | sg struct scatterlist * | __pg_advance long 
+struct scatterlist | dummy int 
+function __sg_page_iter_start void | piter struct sg_page_iter * | sglist struct scatterlist * | nents unsigned int | pgoffset unsigned long

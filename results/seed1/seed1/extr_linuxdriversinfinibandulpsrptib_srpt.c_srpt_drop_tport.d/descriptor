@@ -1,0 +1,2 @@
+struct se_wwn | dummy int 
+function srpt_drop_tport void | wwn struct se_wwn *

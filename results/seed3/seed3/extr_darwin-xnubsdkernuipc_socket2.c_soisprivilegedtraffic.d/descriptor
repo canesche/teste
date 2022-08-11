@@ -1,0 +1,2 @@
+struct socket | so_flags int 
+function soisprivilegedtraffic int | so struct socket *

@@ -1,2 +1,0 @@
-struct func_hook | hooked int | type int | func_addr long | call_addr void * 
-function hook_forward_overwrite void | hook struct func_hook * | offset long

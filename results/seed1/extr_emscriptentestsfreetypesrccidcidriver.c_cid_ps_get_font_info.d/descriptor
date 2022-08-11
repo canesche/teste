@@ -1,3 +1,0 @@
-struct TYPE_3__ | font_info int 
-struct TYPE_4__ | cid struct TYPE_3__ 
-function cid_ps_get_font_info int | face long | afont_info int *

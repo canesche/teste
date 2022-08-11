@@ -1,0 +1,4 @@
+struct TYPE_3__ | owner long | is_owned long 
+struct gasket_cdev_info | ownership struct TYPE_3__ 
+struct TYPE_4__ | tgid long 
+function gasket_owned_by_current_tgid int | info struct gasket_cdev_info *

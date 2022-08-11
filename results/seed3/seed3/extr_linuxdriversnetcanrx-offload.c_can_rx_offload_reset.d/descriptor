@@ -1,0 +1,2 @@
+struct can_rx_offload | dummy int 
+function can_rx_offload_reset void | offload struct can_rx_offload *

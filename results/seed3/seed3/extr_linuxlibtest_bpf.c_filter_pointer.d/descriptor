@@ -1,0 +1,4 @@
+struct TYPE_4__ | insns void * 
+struct TYPE_5__ | insns void * | ptr struct TYPE_4__ 
+struct TYPE_6__ | u struct TYPE_5__ | fill_helper long 
+function filter_pointer void * | which int

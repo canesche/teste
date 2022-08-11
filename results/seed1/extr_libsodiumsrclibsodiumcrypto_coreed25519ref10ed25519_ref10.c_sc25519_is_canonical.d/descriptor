@@ -1,1 +1,0 @@
-function sc25519_is_canonical int | s unsigned char const[32]

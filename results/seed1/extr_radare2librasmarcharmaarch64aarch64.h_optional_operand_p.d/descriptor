@@ -1,2 +1,0 @@
-struct TYPE_3__ | flags int 
-function optional_operand_p int | opcode const struct TYPE_3__ * | idx unsigned int

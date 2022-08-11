@@ -1,0 +1,2 @@
+struct visorchannel | guid const int 
+function visorchannel_get_guid const int * | channel struct visorchannel *

@@ -1,0 +1,2 @@
+struct sdhci_pci_slot | dummy int 
+function ni_set_max_freq int | slot struct sdhci_pci_slot *

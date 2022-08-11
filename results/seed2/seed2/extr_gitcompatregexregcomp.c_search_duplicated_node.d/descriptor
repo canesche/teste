@@ -1,0 +1,3 @@
+struct TYPE_5__ | nodes_len int | org_indices int * | nodes struct TYPE_4__ * 
+struct TYPE_4__ | constraint unsigned int | duplicated long 
+function search_duplicated_node int | dfa const struct TYPE_5__ * | org_node int | constraint unsigned int

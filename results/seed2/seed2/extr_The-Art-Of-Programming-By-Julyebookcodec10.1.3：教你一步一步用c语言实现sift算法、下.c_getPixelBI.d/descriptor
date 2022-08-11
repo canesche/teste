@@ -1,0 +1,3 @@
+struct TYPE_4__ | fl long 
+struct TYPE_5__ | cols int | rows int | step int | data struct TYPE_4__ 
+function getPixelBI float | im struct TYPE_5__ * | col float | row float

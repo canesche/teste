@@ -1,0 +1,4 @@
+struct TYPE_7__ | sides struct TYPE_6__ * | bounds int ** 
+struct TYPE_6__ | plane struct TYPE_5__ * 
+struct TYPE_5__ | dist int 
+function CM_BoundBrush void | b struct TYPE_7__ *

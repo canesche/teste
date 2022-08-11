@@ -1,0 +1,2 @@
+struct bpf_map | dummy int 
+function stack_map_update_elem int | map struct bpf_map * | key void * | value void * | map_flags int

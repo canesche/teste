@@ -1,2 +1,0 @@
-struct ibuf | wpos unsigned long | buf void * 
-function ibuf_seek void * | buf struct ibuf * | pos unsigned long | len unsigned long

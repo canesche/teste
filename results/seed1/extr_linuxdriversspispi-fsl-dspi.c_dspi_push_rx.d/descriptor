@@ -1,2 +1,0 @@
-struct fsl_dspi | bits_per_word int | bytes_per_word int | rx long 
-function dspi_push_rx void | dspi struct fsl_dspi * | rxdata int

@@ -1,2 +1,0 @@
-struct c2c_stats | noparse long | nomap long | rmt_dram long | lcl_dram long | rmt_hit long | tot_hitm long | rmt_hitm long | lcl_hitm long | ld_llchit long | ld_l2hit long | ld_l1hit long | ld_fbhit long | ld_noadrs long | ld_miss long | ld_io long | ld_uncache long | ld_shared long | ld_excl long | load long | st_l1miss long | st_l1hit long | st_noadrs long | st_uncache long | store long | locks long | nr_entries long 
-function c2c_add_stats void | stats struct c2c_stats * | add struct c2c_stats *

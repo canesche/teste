@@ -1,3 +1,0 @@
-struct TYPE_2__ | port long | type long 
-struct intel_th_device | type long | output struct TYPE_2__ 
-function intel_th_output_assigned int | thdev struct intel_th_device *

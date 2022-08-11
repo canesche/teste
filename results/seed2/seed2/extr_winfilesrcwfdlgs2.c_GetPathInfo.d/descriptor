@@ -1,0 +1,1 @@
+function GetPathInfo int | szTemp long * | ppDir long ** | ppFile long ** | ppPar long **

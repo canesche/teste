@@ -1,0 +1,3 @@
+struct table | dummy int 
+struct document | index long * | n int 
+function gettable const struct table * | doc const struct document * | index int

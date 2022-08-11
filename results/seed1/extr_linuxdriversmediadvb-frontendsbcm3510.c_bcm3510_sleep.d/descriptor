@@ -1,2 +1,0 @@
-struct dvb_frontend | dummy int 
-function bcm3510_sleep int | fe struct dvb_frontend *

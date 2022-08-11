@@ -1,0 +1,4 @@
+struct TYPE_5__ | desc const char * 
+struct TYPE_6__ | name struct TYPE_5__ 
+struct TYPE_7__ | type long | _ struct TYPE_6__ 
+function OSSL_STORE_INFO_get0_NAME_description const char * | info const struct TYPE_7__ *

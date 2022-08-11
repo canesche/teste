@@ -1,0 +1,2 @@
+struct layout_cell | yoff void * | xoff void * | sy void * | sx void * 
+function layout_set_size void | lc struct layout_cell * | sx void * | sy void * | xoff void * | yoff void *

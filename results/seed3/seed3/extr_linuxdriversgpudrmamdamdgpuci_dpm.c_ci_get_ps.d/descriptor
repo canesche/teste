@@ -1,0 +1,3 @@
+struct ci_ps | dummy int 
+struct amdgpu_ps | ps_priv struct ci_ps * 
+function ci_get_ps struct ci_ps * | rps struct amdgpu_ps *

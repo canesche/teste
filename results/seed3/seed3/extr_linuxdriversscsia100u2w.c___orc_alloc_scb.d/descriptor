@@ -1,0 +1,3 @@
+struct orc_scb | dummy int 
+struct orc_host | index int | allocation_map int ** | scb_virt struct orc_scb * 
+function __orc_alloc_scb struct orc_scb * | host struct orc_host *

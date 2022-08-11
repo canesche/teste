@@ -1,0 +1,2 @@
+struct TYPE_3__ | otg_ver int 
+function dwc_otg_get_otg_version int | core_if struct TYPE_3__ *

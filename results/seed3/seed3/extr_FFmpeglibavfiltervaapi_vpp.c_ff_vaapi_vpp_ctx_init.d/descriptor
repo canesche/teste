@@ -1,0 +1,3 @@
+struct TYPE_4__ | valid_ids int | nb_filter_buffers long | filter_buffers void ** | va_context void * | va_config void * 
+struct TYPE_5__ | priv struct TYPE_4__ * 
+function ff_vaapi_vpp_ctx_init void | avctx struct TYPE_5__ *

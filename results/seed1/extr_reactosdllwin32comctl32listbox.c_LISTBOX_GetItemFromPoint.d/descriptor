@@ -1,3 +1,0 @@
-struct TYPE_5__ | top_item int | nb_items int | style int | item_height int | page_size int | column_width int | items struct TYPE_4__ * 
-struct TYPE_4__ | height int 
-function LISTBOX_GetItemFromPoint int | descr const struct TYPE_5__ * | x int | y int

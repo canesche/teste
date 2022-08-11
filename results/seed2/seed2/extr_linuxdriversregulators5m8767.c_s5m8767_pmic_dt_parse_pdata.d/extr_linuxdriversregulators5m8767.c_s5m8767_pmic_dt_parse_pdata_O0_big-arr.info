@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversregulators5m8767.c_s5m8767_pmic_dt_parse_pdata.d/extr_linuxdriversregulators5m8767.c_s5m8767_pmic_dt_parse_pdata_O0::s5m8767_pmic_dt_parse_pdata(63)"
+  }
+]

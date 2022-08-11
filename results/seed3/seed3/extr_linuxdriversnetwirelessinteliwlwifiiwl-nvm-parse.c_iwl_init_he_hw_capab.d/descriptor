@@ -1,0 +1,5 @@
+struct ieee80211_supported_band | band long | n_iftype_data int | iftype_data struct TYPE_6__ * 
+struct TYPE_4__ | phy_cap_info int * 
+struct TYPE_5__ | he_cap_elem struct TYPE_4__ 
+struct TYPE_6__ | he_cap struct TYPE_5__ 
+function iwl_init_he_hw_capab void | sband struct ieee80211_supported_band * | tx_chains int | rx_chains int

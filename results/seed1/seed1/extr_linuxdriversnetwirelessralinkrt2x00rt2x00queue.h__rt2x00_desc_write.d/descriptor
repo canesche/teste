@@ -1,0 +1,1 @@
+function _rt2x00_desc_write void | desc int * | word const unsigned long | value int

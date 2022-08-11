@@ -1,0 +1,6 @@
+struct mlx5_mtt | dummy int 
+struct mlx5_klm | dummy int 
+struct mlx5_cache_ent | order int | xlt int | limit int | access_mode int | page int | dev struct TYPE_4__ * 
+struct TYPE_3__ | general_caps int 
+struct TYPE_4__ | odp_caps struct TYPE_3__ 
+function mlx5_odp_init_mr_cache_entry void | ent struct mlx5_cache_ent *

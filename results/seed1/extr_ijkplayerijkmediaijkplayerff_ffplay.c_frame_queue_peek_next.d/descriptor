@@ -1,2 +1,0 @@
-struct TYPE_3__ | rindex int | rindex_shown int | max_size int | queue int * 
-function frame_queue_peek_next int * | f struct TYPE_3__ *

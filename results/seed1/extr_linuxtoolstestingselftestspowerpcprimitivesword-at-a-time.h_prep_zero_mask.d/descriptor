@@ -1,2 +1,0 @@
-struct word_at_a_time | dummy int 
-function prep_zero_mask unsigned long | a unsigned long | bits unsigned long | c const struct word_at_a_time *

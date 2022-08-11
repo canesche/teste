@@ -1,0 +1,3 @@
+struct idt_data | bits int | segment long | addr long 
+struct TYPE_3__ | offset_middle void * | bits int | segment void * | offset_low void * 
+function idt_init_desc void | gate struct TYPE_3__ * | d const struct idt_data *

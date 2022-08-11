@@ -1,0 +1,2 @@
+struct bna_rx_mod | bna int * 
+function bna_rx_mod_uninit void | rx_mod struct bna_rx_mod *

@@ -1,4 +1,0 @@
-struct mlx4_ib_wq | head unsigned int | tail int | wqe_cnt int | wrid int * 
-struct mlx4_ib_qp | ibqp int | rq struct mlx4_ib_wq | sq struct mlx4_ib_wq 
-struct ib_wc | qp int * | vendor_err int | status int | wr_id int 
-function mlx4_ib_qp_sw_comp void | qp struct mlx4_ib_qp * | num_entries int | wc struct ib_wc * | npolled int * | is_send int

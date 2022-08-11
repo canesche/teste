@@ -1,0 +1,2 @@
+struct mlx4_ib_dev | bond_next_port int | num_ports int 
+function mlx4_ib_bond_next_port int | dev struct mlx4_ib_dev *

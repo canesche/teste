@@ -1,0 +1,4 @@
+struct omap_type2_desc | next_desc int | fn int | en int | csfi int | cdfi int | csei int | cdei int | cicr int | addr int 
+struct omap_sg | t2_desc_paddr int | fn int | fi int | ei int | addr int | en int | t2_desc struct omap_type2_desc * 
+struct omap_desc | fi int | ei int | cicr int | sg struct omap_sg * 
+function omap_dma_fill_type2_desc void | d struct omap_desc * | idx int | dir enum dma_transfer_direction | last int

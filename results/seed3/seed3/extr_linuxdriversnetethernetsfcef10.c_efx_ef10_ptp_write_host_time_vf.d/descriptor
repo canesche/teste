@@ -1,0 +1,2 @@
+struct efx_nic | dummy int 
+function efx_ef10_ptp_write_host_time_vf void | efx struct efx_nic * | host_time int

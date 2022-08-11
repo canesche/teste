@@ -1,0 +1,2 @@
+struct kmem_cache | dummy int 
+function inc_slabs_node void | s struct kmem_cache * | node int | objects int

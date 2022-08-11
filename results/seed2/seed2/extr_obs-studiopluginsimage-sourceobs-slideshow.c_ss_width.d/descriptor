@@ -1,0 +1,2 @@
+struct slideshow | cx int | transition long 
+function ss_width int | data void *

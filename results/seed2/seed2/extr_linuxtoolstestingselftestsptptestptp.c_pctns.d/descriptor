@@ -1,0 +1,2 @@
+struct ptp_clock_time | sec long long | nsec long 
+function pctns long | t struct ptp_clock_time *

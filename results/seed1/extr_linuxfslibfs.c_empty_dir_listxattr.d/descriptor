@@ -1,2 +1,0 @@
-struct dentry | dummy int 
-function empty_dir_listxattr int | dentry struct dentry * | list char * | size unsigned long

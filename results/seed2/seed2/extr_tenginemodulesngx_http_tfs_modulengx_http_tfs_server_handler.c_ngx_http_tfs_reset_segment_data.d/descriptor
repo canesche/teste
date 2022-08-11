@@ -1,0 +1,6 @@
+struct TYPE_9__ | segment_count long | segment_index unsigned long | curr_batch_count long | segment_data struct TYPE_11__ * 
+struct TYPE_7__ | curr_lookup_cache int 
+struct TYPE_10__ | file struct TYPE_9__ | block_cache_ctx struct TYPE_7__ 
+struct TYPE_8__ | ds_addrs int * 
+struct TYPE_11__ | ds_index long | ds_retry long | block_info struct TYPE_8__ | cache_hit int 
+function ngx_http_tfs_reset_segment_data void | t struct TYPE_10__ *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | obj_type char | obj_index int | read_only long | spare long | adapter_index int 
+struct handle_word | w int | h struct TYPE_2__ 
+function hpi_indexes_to_handle int | c_object const char | adapter_index const int | object_index const int

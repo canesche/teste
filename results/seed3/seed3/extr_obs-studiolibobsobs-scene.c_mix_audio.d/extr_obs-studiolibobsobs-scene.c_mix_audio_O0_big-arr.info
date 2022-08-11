@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 3848,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_obs-studiolibobsobs-scene.c_mix_audio.d/extr_obs-studiolibobsobs-scene.c_mix_audio_O0::mix_audio(61)"
+  }
+]

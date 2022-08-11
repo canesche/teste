@@ -1,0 +1,2 @@
+struct snd_gus_card | dummy int 
+function snd_gf1_pcm_volume_change void | gus struct snd_gus_card *

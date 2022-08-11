@@ -1,2 +1,0 @@
-struct TYPE_3__ | viewportWidth float | viewportHeight float 
-function R_TransformClipToWindow void | clip int *const | view const struct TYPE_3__ * | normalized int * | window int *

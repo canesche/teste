@@ -1,0 +1,2 @@
+struct ccw1 | count long | flags int | cmd_code int 
+function ccw_write_no_data void | ccw struct ccw1 *

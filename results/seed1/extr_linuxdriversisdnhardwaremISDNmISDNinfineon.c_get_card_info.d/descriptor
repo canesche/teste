@@ -1,2 +1,0 @@
-struct inf_cinfo | typ long 
-function get_card_info const struct inf_cinfo * | typ enum inf_types

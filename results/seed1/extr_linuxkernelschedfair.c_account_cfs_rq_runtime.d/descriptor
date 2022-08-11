@@ -1,2 +1,0 @@
-struct cfs_rq | dummy int 
-function account_cfs_rq_runtime void | cfs_rq struct cfs_rq * | delta_exec int

@@ -1,0 +1,2 @@
+struct mlxsw_sp_fid | dummy int 
+function mlxsw_sp_fid_dummy_compare int | fid const struct mlxsw_sp_fid * | arg const void *

@@ -1,0 +1,1 @@
+function nft_bitmap_active int | bitmap const int * | idx unsigned long | off unsigned long | genmask int

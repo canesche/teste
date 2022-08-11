@@ -1,0 +1,4 @@
+struct serial_info | multi int 
+struct pcmcia_device | resource struct TYPE_2__ ** | priv struct serial_info * 
+struct TYPE_2__ | end int 
+function serial_check_for_multi int | p_dev struct pcmcia_device * | priv_data void *

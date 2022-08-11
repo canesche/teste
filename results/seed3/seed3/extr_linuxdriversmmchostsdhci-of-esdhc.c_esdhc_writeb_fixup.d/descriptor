@@ -1,0 +1,2 @@
+struct sdhci_host | quirks2 int 
+function esdhc_writeb_fixup int | host struct sdhci_host * | spec_reg int | value int | old_value int

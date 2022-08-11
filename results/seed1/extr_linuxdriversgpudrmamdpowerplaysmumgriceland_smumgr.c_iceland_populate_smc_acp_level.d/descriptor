@@ -1,2 +1,0 @@
-struct pp_hwmgr | dummy int 
-function iceland_populate_smc_acp_level int | hwmgr struct pp_hwmgr * | table int *

@@ -1,5 +1,0 @@
-struct setauth_parm | mode int 
-struct mlme_ext_info | auth_algo int 
-struct mlme_ext_priv | mlmext_info struct mlme_ext_info 
-struct adapter | mlmeextpriv struct mlme_ext_priv 
-function setauth_hdl int | padapter struct adapter * | pbuf unsigned char *

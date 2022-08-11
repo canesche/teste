@@ -1,0 +1,3 @@
+struct rpc_task | tk_rqstp struct rpc_rqst * 
+struct rpc_rqst | rq_bytes_sent long 
+function xprt_task_clear_bytes_sent void | task struct rpc_task *

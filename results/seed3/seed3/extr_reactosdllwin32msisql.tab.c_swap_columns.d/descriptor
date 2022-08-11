@@ -1,0 +1,2 @@
+struct TYPE_4__ | next struct TYPE_4__ * 
+function swap_columns void | cols struct TYPE_4__ ** | A struct TYPE_4__ * | idx int

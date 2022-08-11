@@ -1,2 +1,0 @@
-struct proc | p_csflags int 
-function cs_entitlement_flags int | p struct proc *

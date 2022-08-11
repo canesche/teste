@@ -1,0 +1,2 @@
+struct hrtimer | dummy int 
+function debug_hrtimer_init void | timer struct hrtimer *

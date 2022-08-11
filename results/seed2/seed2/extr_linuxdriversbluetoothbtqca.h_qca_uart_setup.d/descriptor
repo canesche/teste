@@ -1,0 +1,2 @@
+struct hci_dev | dummy int 
+function qca_uart_setup int | hdev struct hci_dev * | baudrate int | soc_type enum qca_btsoc_type | soc_ver int

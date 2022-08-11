@@ -1,0 +1,3 @@
+struct tps65910_board | dummy int 
+struct i2c_client | dummy int 
+function tps65910_parse_dt struct tps65910_board * | client struct i2c_client * | chip_id unsigned long *

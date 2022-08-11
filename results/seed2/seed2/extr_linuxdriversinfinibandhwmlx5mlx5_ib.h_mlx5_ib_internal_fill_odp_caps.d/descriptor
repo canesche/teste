@@ -1,0 +1,2 @@
+struct mlx5_ib_dev | dummy int 
+function mlx5_ib_internal_fill_odp_caps void | dev struct mlx5_ib_dev *

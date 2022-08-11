@@ -1,0 +1,4 @@
+struct snd_soc_pcm_runtime | cpu_dai struct snd_soc_dai * 
+struct snd_soc_dai | dummy int 
+struct snd_pcm_substream | private_data struct snd_soc_pcm_runtime * 
+function axg_fifo_dai struct snd_soc_dai * | ss struct snd_pcm_substream *

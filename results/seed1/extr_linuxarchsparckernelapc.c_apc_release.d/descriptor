@@ -1,3 +1,0 @@
-struct inode | dummy int 
-struct file | dummy int 
-function apc_release int | inode struct inode * | f struct file *

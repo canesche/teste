@@ -1,0 +1,2 @@
+struct synaptics_i2c | scan_ms int | scan_rate_param int 
+function set_scan_rate void | touch struct synaptics_i2c * | scan_rate int

@@ -1,0 +1,2 @@
+struct pata_macio_priv | kind int | treg unsigned int ** 
+function pata_macio_default_timings void | priv struct pata_macio_priv *

@@ -1,0 +1,2 @@
+struct msg | dummy int 
+function memcache_failure int | r struct msg *

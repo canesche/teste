@@ -1,0 +1,3 @@
+struct hfi1_ibdev | fault struct TYPE_2__ * 
+struct TYPE_2__ | suppress_err int 
+function hfi1_dbg_fault_suppress_err int | ibd struct hfi1_ibdev *

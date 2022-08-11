@@ -1,0 +1,3 @@
+struct scsi_cmnd | dummy int 
+struct aac_dev | dummy int 
+function aac_bounds_64 int | dev struct aac_dev * | cmd struct scsi_cmnd * | lba int

@@ -1,0 +1,10 @@
+struct TYPE_5__ | s_addr int 
+struct TYPE_6__ | sin_addr struct TYPE_5__ | sin_family int 
+struct sctp_addr | v4 struct TYPE_6__ 
+struct sctp_transport | dst long | saddr union sctp_addr 
+struct sctp_sock | dummy int 
+struct rtable | dummy int 
+struct TYPE_7__ | saddr int 
+struct TYPE_8__ | ip4 struct TYPE_7__ 
+struct flowi | u struct TYPE_8__ 
+function sctp_v4_get_saddr void | sk struct sctp_sock * | t struct sctp_transport * | fl struct flowi *

@@ -1,2 +1,0 @@
-struct max3191x_chip | mode long 
-function max3191x_wordlen unsigned int | max3191x struct max3191x_chip *

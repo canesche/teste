@@ -1,0 +1,2 @@
+struct TYPE_2__ | sqrTable long * 
+function RllDecodeMonoToStereo long | from unsigned char * | to short * | size unsigned int | signedOutput char | flag unsigned short

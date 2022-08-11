@@ -1,3 +1,0 @@
-struct ext2fs_hashmap_entry | data void * | list_next struct ext2fs_hashmap_entry * 
-struct ext2fs_hashmap | first struct ext2fs_hashmap_entry * 
-function ext2fs_hashmap_iter_in_order void * | h struct ext2fs_hashmap * | it struct ext2fs_hashmap_entry **

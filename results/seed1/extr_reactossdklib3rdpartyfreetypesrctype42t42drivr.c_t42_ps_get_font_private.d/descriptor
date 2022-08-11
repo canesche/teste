@@ -1,3 +1,0 @@
-struct TYPE_3__ | private_dict int 
-struct TYPE_4__ | type1 struct TYPE_3__ 
-function t42_ps_get_font_private int | face long | afont_private int *

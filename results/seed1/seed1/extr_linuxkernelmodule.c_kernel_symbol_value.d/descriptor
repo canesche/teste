@@ -1,0 +1,2 @@
+struct kernel_symbol | value unsigned long 
+function kernel_symbol_value unsigned long | sym const struct kernel_symbol *

@@ -1,2 +1,0 @@
-struct lynx_cursor | w int | h int 
-function sm750_hw_cursor_setSize void | cursor struct lynx_cursor * | w int | h int

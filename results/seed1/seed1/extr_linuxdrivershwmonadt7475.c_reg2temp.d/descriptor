@@ -1,0 +1,2 @@
+struct adt7475_data | config5 int 
+function reg2temp int | data struct adt7475_data * | reg int

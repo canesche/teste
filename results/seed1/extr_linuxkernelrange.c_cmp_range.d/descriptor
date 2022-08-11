@@ -1,2 +1,0 @@
-struct range | start long 
-function cmp_range int | x1 const void * | x2 const void *

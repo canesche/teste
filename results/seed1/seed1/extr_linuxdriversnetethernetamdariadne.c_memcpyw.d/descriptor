@@ -1,0 +1,1 @@
+function memcpyw void | dest volatile int * | src int * | len int

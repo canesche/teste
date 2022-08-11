@@ -1,3 +1,0 @@
-struct mgsl_struct | rx_buffer_count unsigned int | current_rx_buffer long | rx_buffer_list struct TYPE_2__ * 
-struct TYPE_2__ | count int 
-function mgsl_reset_rx_dma_buffers void | info struct mgsl_struct *

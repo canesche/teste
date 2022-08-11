@@ -1,0 +1,2 @@
+struct TYPE_3__ | write_queue_size unsigned long 
+function uv_stream_get_write_queue_size unsigned long | stream const struct TYPE_3__ *

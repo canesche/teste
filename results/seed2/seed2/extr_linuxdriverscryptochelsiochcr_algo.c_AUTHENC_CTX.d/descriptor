@@ -1,0 +1,4 @@
+struct chcr_authenc_ctx | dummy int 
+struct chcr_aead_ctx | ctx struct TYPE_2__ * 
+struct TYPE_2__ | authenc struct chcr_authenc_ctx * 
+function AUTHENC_CTX struct chcr_authenc_ctx * | gctx struct chcr_aead_ctx *

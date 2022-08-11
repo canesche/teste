@@ -1,0 +1,3 @@
+struct TYPE_5__ | partitions_count int | partitions struct TYPE_4__ * 
+struct TYPE_4__ | pack_ofs long | body_sid int 
+function find_body_sid_by_absolute_offset int | mxf struct TYPE_5__ * | offset long

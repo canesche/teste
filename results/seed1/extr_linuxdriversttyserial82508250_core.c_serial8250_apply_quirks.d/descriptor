@@ -1,3 +1,0 @@
-struct TYPE_2__ | quirks int 
-struct uart_8250_port | port struct TYPE_2__ 
-function serial8250_apply_quirks void | up struct uart_8250_port *

@@ -1,0 +1,2 @@
+struct tpm_chip | duration int * 
+function tpm_calc_ordinal_duration unsigned long | chip struct tpm_chip * | ordinal unsigned long

@@ -1,0 +1,1 @@
+function copy_small_conditional void | out int * | in const int *const | mask int

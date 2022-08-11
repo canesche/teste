@@ -1,0 +1,2 @@
+struct mlx4_cq | dummy int 
+function mlx4_en_cq_event void | cq struct mlx4_cq * | event enum mlx4_event

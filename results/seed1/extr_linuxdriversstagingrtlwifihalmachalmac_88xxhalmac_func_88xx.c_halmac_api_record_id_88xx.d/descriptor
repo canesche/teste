@@ -1,2 +1,0 @@
-struct halmac_adapter | dummy int 
-function halmac_api_record_id_88xx void | halmac_adapter struct halmac_adapter * | api_id enum halmac_api_id

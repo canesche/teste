@@ -1,0 +1,3 @@
+struct TYPE_4__ | ps struct TYPE_3__ * 
+struct TYPE_3__ | pm_type long | torsoAnim int 
+function PM_StartTorsoAnim void | anim int

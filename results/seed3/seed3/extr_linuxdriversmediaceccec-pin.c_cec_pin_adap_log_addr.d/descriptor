@@ -1,0 +1,3 @@
+struct cec_pin | la_mask int 
+struct cec_adapter | pin struct cec_pin * 
+function cec_pin_adap_log_addr int | adap struct cec_adapter * | log_addr int

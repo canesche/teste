@@ -1,2 +1,0 @@
-struct device | dummy int 
-function i915_teardown_error_capture void | kdev struct device *

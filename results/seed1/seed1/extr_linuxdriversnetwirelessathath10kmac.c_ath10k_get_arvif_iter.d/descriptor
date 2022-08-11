@@ -1,0 +1,4 @@
+struct ieee80211_vif | drv_priv long 
+struct ath10k_vif_iter | vdev_id long | arvif struct ath10k_vif * 
+struct ath10k_vif | vdev_id long 
+function ath10k_get_arvif_iter void | data void * | mac int * | vif struct ieee80211_vif *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | btype int | use_lz77 int | minmatch int | nicematch int | lazymatching int | custom_context long | custom_deflate long | custom_zlib long | windowsize int 
+function lodepng_compress_settings_init void | settings struct TYPE_3__ *

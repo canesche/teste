@@ -1,0 +1,5 @@
+struct mlme_ext_info | FW_sta_info struct TYPE_2__ * 
+struct mlme_ext_priv | mlmext_info struct mlme_ext_info 
+struct adapter | mlmeextpriv struct mlme_ext_priv 
+struct TYPE_2__ | status int 
+function is_IBSS_empty int | padapter struct adapter *

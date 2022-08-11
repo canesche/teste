@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_opensslsslrecordrec_layer_s3.c_ssl3_record_sequence_update.d/extr_opensslsslrecordrec_layer_s3.c_ssl3_record_sequence_update_O0::ssl3_record_sequence_update(60)"
+  }
+]

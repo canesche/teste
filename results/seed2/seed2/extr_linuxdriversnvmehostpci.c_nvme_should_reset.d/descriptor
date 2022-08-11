@@ -1,0 +1,3 @@
+struct TYPE_2__ | state int 
+struct nvme_dev | ctrl struct TYPE_2__ | subsystem long 
+function nvme_should_reset int | dev struct nvme_dev * | csts int

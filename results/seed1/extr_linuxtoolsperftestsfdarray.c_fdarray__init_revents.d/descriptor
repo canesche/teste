@@ -1,3 +1,0 @@
-struct fdarray | nr int | nr_alloc int | entries struct TYPE_2__ * 
-struct TYPE_2__ | fd int | revents short 
-function fdarray__init_revents void | fda struct fdarray * | revents short

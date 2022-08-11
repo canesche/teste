@@ -1,0 +1,3 @@
+struct sensors_info | num_sensors int 
+struct scmi_handle | sensor_priv struct sensors_info * 
+function scmi_sensor_count_get int | handle const struct scmi_handle *

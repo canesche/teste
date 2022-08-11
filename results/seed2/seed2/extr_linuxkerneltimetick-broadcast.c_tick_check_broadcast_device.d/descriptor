@@ -1,0 +1,3 @@
+struct clock_event_device | features int | rating long 
+struct TYPE_2__ | mode long 
+function tick_check_broadcast_device int | curdev struct clock_event_device * | newdev struct clock_event_device *

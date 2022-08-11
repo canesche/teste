@@ -1,2 +1,0 @@
-struct Qdisc | dummy int 
-function skbprio_leaf struct Qdisc * | sch struct Qdisc * | arg unsigned long

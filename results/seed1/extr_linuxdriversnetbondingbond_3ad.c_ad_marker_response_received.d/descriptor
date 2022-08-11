@@ -1,3 +1,0 @@
-struct port | dummy int 
-struct bond_marker | dummy int 
-function ad_marker_response_received void | marker struct bond_marker * | port struct port *

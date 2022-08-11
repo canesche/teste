@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 16,
+    phantoms: 15,
+    exit: true,
+    halt: false,
+    edges: 32,
+    static: {
+      instructions: 67,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 67,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_radare2librbinpbin_dex.c_get_method_flags.d/extr_radare2librbinpbin_dex.c_get_method_flags_O0::get_method_flags(90)"
+  }
+]

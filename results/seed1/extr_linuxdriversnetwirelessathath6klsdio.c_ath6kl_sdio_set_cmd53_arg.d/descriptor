@@ -1,1 +1,0 @@
-function ath6kl_sdio_set_cmd53_arg void | arg int * | rw int | func int | mode int | opcode int | addr int | blksz int

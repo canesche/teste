@@ -1,0 +1,2 @@
+struct irq_data | irq unsigned int 
+function apollo_irq_shutdown void | data struct irq_data *

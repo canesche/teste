@@ -1,2 +1,0 @@
-struct pt_regs | pc unsigned long | r1 unsigned long | pt_mode long 
-function start_thread void | regs struct pt_regs * | pc unsigned long | usp unsigned long

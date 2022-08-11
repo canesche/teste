@@ -1,0 +1,4 @@
+struct mlxsw_sp_sb_pr | dummy int 
+struct mlxsw_sp | sb struct TYPE_2__ * 
+struct TYPE_2__ | prs struct mlxsw_sp_sb_pr ** 
+function mlxsw_sp_sb_pr_get struct mlxsw_sp_sb_pr * | mlxsw_sp struct mlxsw_sp * | pool unsigned long | dir enum mlxsw_reg_sbxx_dir

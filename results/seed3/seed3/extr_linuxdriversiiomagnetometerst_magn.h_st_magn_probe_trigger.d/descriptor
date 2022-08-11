@@ -1,0 +1,2 @@
+struct iio_dev | dummy int 
+function st_magn_probe_trigger int | indio_dev struct iio_dev * | irq int

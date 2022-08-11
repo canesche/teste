@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversssbsdio.c_ssb_sdio_exit.d/extr_linuxdriversssbsdio.c_ssb_sdio_exit_O0::ssb_sdio_exit(62)"
+  }
+]

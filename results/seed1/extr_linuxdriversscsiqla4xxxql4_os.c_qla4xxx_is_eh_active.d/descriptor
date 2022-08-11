@@ -1,2 +1,0 @@
-struct Scsi_Host | shost_state long 
-function qla4xxx_is_eh_active int | shost struct Scsi_Host *

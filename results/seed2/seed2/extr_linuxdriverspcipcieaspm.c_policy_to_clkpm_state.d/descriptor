@@ -1,0 +1,2 @@
+struct pcie_link_state | clkpm_default int 
+function policy_to_clkpm_state int | link struct pcie_link_state *

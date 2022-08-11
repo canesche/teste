@@ -1,2 +1,0 @@
-struct qib_devdata | dummy int 
-function qib_7322_tempsense_rd int | dd struct qib_devdata * | regnum int

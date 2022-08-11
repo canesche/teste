@@ -1,0 +1,4 @@
+struct device | dummy int 
+struct TYPE_2__ | dev struct device 
+struct bnxt_re_dev | ibdev struct TYPE_2__ 
+function rdev_to_dev struct device * | rdev struct bnxt_re_dev *

@@ -1,2 +1,0 @@
-struct drm_device | dummy int 
-function agp_remap void * | offset unsigned long | size unsigned long | dev struct drm_device *

@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function ixgbe_dcbnl_setnumtcs int | netdev struct net_device * | tcid int | num int

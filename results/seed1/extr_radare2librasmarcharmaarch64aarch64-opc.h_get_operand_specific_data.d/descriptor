@@ -1,2 +1,0 @@
-struct TYPE_3__ | flags unsigned int 
-function get_operand_specific_data unsigned int | operand const struct TYPE_3__ *

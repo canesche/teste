@@ -1,0 +1,2 @@
+struct pmc_ctx | pring_va int 
+function wil_is_pmc_allocated int | pmc struct pmc_ctx *

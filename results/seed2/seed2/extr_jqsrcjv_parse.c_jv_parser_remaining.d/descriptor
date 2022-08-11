@@ -1,0 +1,2 @@
+struct jv_parser | curr_buf long | curr_buf_length int | curr_buf_pos int 
+function jv_parser_remaining int | p struct jv_parser *

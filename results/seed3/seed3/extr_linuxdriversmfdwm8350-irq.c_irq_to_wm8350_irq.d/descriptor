@@ -1,0 +1,3 @@
+struct wm8350_irq_data | dummy int 
+struct wm8350 | irq_base int 
+function irq_to_wm8350_irq struct wm8350_irq_data * | wm8350 struct wm8350 * | irq int

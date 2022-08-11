@@ -1,2 +1,0 @@
-struct nfs4_sessionid | dummy int 
-function dump_sessionid void | fn const char * | sessionid struct nfs4_sessionid *

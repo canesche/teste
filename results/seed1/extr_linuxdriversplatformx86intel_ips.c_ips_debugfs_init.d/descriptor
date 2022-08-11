@@ -1,2 +1,0 @@
-struct ips_driver | dummy int 
-function ips_debugfs_init void | ips struct ips_driver *

@@ -1,2 +1,0 @@
-struct TYPE_3__ | dev_flags int | sleep long 
-function ide_stall_queue void | drive struct TYPE_3__ * | timeout unsigned long

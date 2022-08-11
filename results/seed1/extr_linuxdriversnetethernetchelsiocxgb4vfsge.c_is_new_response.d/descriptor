@@ -1,3 +1,0 @@
-struct sge_rspq | gen int 
-struct rsp_ctrl | type_gen int 
-function is_new_response int | rc const struct rsp_ctrl * | rspq const struct sge_rspq *

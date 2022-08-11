@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function usbhs0_get_id int | pdev struct platform_device *

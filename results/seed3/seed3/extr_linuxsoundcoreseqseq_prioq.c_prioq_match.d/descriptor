@@ -1,0 +1,7 @@
+struct TYPE_6__ | tv_nsec int | tv_sec int 
+struct TYPE_10__ | time struct TYPE_6__ | tick int 
+struct TYPE_8__ | client int 
+struct TYPE_7__ | client int 
+struct TYPE_9__ | flags int | time struct TYPE_10__ | dest struct TYPE_8__ | source struct TYPE_7__ 
+struct snd_seq_event_cell | event struct TYPE_9__ 
+function prioq_match int | cell struct snd_seq_event_cell * | client int | timestamp int

@@ -1,0 +1,5 @@
+struct send_context_info | type long | sc struct send_context * 
+struct send_context | dummy int 
+struct hfi1_devdata | vld struct TYPE_2__ * | send_contexts struct send_context_info * 
+struct TYPE_2__ | sc struct send_context * 
+function sc_to_vl int | dd struct hfi1_devdata * | sw_index int

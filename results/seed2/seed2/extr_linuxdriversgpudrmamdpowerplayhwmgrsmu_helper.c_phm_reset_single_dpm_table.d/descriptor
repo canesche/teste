@@ -1,0 +1,3 @@
+struct vi_dpm_table | count int | dpm_level struct TYPE_2__ * 
+struct TYPE_2__ | enabled int 
+function phm_reset_single_dpm_table int | table void * | count int | max int

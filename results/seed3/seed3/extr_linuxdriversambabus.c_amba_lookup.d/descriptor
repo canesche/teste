@@ -1,0 +1,3 @@
+struct amba_id | mask int | id int 
+struct amba_device | periphid int 
+function amba_lookup const struct amba_id * | table const struct amba_id * | dev struct amba_device *

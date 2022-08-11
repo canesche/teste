@@ -1,0 +1,4 @@
+struct mlxsw_afa_block | first_set struct TYPE_4__ * 
+struct TYPE_3__ | enc_actions char * 
+struct TYPE_4__ | ht_key struct TYPE_3__ 
+function mlxsw_afa_block_first_set char * | block struct mlxsw_afa_block *

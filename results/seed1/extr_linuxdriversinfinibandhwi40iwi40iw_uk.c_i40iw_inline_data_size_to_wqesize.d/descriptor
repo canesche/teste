@@ -1,1 +1,0 @@
-function i40iw_inline_data_size_to_wqesize enum i40iw_status_code | data_size int | wqe_size int *

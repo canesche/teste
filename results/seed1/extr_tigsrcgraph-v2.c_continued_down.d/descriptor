@@ -1,4 +1,0 @@
-struct graph_row | columns struct TYPE_4__ * 
-struct TYPE_3__ | shift_left long 
-struct TYPE_4__ | id long | symbol struct TYPE_3__ 
-function continued_down int | row struct graph_row * | next_row struct graph_row * | pos int

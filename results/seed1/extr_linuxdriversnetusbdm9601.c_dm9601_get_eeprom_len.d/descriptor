@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function dm9601_get_eeprom_len int | dev struct net_device *

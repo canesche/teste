@@ -1,0 +1,2 @@
+struct au0828_dev | dummy int 
+function au0828_v4l2_suspend void | dev struct au0828_dev *

@@ -1,0 +1,3 @@
+struct omap_dss_device | dummy int 
+struct TYPE_2__ | pixel_size int 
+function rfbi_set_pixel_size void | dssdev struct omap_dss_device * | pixel_size int

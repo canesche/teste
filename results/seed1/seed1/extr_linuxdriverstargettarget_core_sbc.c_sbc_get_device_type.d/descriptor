@@ -1,0 +1,2 @@
+struct se_device | dummy int 
+function sbc_get_device_type int | dev struct se_device *

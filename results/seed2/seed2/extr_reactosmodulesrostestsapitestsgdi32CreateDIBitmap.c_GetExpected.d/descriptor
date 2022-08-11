@@ -1,0 +1,3 @@
+struct TYPE_9__ | biSize long 
+struct TYPE_10__ | biSize long | bmiHeader struct TYPE_9__ 
+function GetExpected int | pdwError int * | hdc long | lpbmih const struct TYPE_10__ * | fdwInit int | lpbInit const struct TYPE_10__ * | lpbmi const struct TYPE_10__ * | fuUsage int

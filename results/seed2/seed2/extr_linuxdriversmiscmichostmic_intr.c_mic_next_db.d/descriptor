@@ -1,0 +1,4 @@
+struct TYPE_4__ | next_avail_src int 
+struct mic_device | irq_info struct TYPE_4__ | intr_info struct TYPE_3__ * 
+struct TYPE_3__ | intr_len int * 
+function mic_next_db int | mdev struct mic_device *

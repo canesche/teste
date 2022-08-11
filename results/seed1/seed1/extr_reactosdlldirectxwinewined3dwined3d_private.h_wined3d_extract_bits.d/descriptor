@@ -1,0 +1,1 @@
+function wined3d_extract_bits unsigned int | bitstream const unsigned int * | offset unsigned int | count unsigned int

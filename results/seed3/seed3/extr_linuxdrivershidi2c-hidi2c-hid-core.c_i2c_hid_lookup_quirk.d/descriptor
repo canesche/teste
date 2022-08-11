@@ -1,0 +1,2 @@
+struct TYPE_2__ | idVendor const long | idProduct long | quirks int 
+function i2c_hid_lookup_quirk int | idVendor const long | idProduct const long

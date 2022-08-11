@@ -1,0 +1,4 @@
+struct TYPE_2__ | fib6_main_tbl struct fib6_table * 
+struct net | ipv6 struct TYPE_2__ 
+struct fib6_table | dummy int 
+function fib6_get_table struct fib6_table * | net struct net * | id int

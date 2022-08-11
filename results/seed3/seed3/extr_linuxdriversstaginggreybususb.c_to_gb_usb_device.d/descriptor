@@ -1,0 +1,3 @@
+struct usb_hcd | hcd_priv long 
+struct gb_usb_device | dummy int 
+function to_gb_usb_device struct gb_usb_device * | hcd struct usb_hcd *

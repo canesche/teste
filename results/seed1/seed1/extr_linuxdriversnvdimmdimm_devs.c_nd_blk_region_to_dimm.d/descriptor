@@ -1,0 +1,5 @@
+struct nvdimm | dummy int 
+struct nd_region | mapping struct nd_mapping * 
+struct nd_mapping | nvdimm struct nvdimm * 
+struct nd_blk_region | nd_region struct nd_region 
+function nd_blk_region_to_dimm struct nvdimm * | ndbr struct nd_blk_region *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | buff char * | size int | pos long 
+function cache_bclear void | b struct TYPE_3__ * | buff char * | size int

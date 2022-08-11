@@ -1,0 +1,4 @@
+struct grouping_stddev | count long 
+struct TYPE_4__ | grouping_data long 
+struct TYPE_5__ | internal struct TYPE_4__ 
+function grouping_reset_stddev void | r struct TYPE_5__ *

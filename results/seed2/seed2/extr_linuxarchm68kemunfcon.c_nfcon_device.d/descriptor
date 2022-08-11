@@ -1,0 +1,3 @@
+struct tty_driver | dummy int 
+struct console | flags int 
+function nfcon_device struct tty_driver * | con struct console * | index int *

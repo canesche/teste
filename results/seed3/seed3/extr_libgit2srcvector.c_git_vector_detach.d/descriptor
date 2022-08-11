@@ -1,0 +1,2 @@
+struct TYPE_3__ | contents void ** | length unsigned long | _alloc_size unsigned long 
+function git_vector_detach void ** | size unsigned long * | asize unsigned long * | v struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct utmpx | dummy int 
+function getutxid struct utmpx * | ut const struct utmpx *

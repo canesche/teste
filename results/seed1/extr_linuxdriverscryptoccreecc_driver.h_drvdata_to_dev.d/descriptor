@@ -1,4 +1,0 @@
-struct device | dummy int 
-struct cc_drvdata | plat_dev struct TYPE_2__ * 
-struct TYPE_2__ | dev struct device 
-function drvdata_to_dev struct device * | drvdata struct cc_drvdata *

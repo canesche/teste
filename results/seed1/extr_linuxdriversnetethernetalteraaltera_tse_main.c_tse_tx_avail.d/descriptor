@@ -1,2 +1,0 @@
-struct altera_tse_private | tx_prod long | tx_ring_size long | tx_cons long 
-function tse_tx_avail long | priv struct altera_tse_private *

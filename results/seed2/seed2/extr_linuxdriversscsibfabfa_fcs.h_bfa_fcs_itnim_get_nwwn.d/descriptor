@@ -1,0 +1,3 @@
+struct bfa_fcs_itnim_s | rport struct TYPE_2__ * 
+struct TYPE_2__ | nwwn int 
+function bfa_fcs_itnim_get_nwwn int | itnim struct bfa_fcs_itnim_s *

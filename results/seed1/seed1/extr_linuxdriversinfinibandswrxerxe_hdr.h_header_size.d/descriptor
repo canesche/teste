@@ -1,0 +1,3 @@
+struct rxe_pkt_info | offset unsigned long | opcode unsigned long 
+struct TYPE_2__ | length unsigned long 
+function header_size unsigned long | pkt struct rxe_pkt_info *

@@ -1,0 +1,1 @@
+function dlmfs_decode_open_flags int | open_flags int | level int * | flags int *

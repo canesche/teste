@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function batadv_arp_change_timeout void | soft_iface struct net_device * | name const char *

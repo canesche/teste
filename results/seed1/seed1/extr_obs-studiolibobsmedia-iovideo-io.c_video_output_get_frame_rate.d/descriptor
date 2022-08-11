@@ -1,0 +1,3 @@
+struct TYPE_4__ | fps_den long | fps_num long 
+struct TYPE_5__ | info struct TYPE_4__ 
+function video_output_get_frame_rate double | video const struct TYPE_5__ *

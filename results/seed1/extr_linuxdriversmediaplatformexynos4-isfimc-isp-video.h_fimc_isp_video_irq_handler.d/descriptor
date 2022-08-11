@@ -1,2 +1,0 @@
-struct fimc_is | dummy int 
-function fimc_isp_video_irq_handler void | is struct fimc_is *

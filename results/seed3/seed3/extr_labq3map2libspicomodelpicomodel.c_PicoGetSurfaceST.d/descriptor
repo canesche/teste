@@ -1,0 +1,2 @@
+struct TYPE_3__ | numSTArrays int | numVertexes int | st int *** 
+function PicoGetSurfaceST int * | surface struct TYPE_3__ * | array int | num int

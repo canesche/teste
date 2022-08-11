@@ -1,0 +1,2 @@
+struct fb_info | dummy int 
+function fbcon_rotate_all void | info struct fb_info * | rotate int

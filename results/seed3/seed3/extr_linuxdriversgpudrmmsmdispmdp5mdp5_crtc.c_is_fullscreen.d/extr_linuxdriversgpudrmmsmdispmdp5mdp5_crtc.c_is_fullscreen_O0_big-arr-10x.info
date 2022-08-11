@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmmsmdispmdp5mdp5_crtc.c_is_fullscreen.d/extr_linuxdriversgpudrmmsmdispmdp5mdp5_crtc.c_is_fullscreen_O0::is_fullscreen(65)"
+  }
+]

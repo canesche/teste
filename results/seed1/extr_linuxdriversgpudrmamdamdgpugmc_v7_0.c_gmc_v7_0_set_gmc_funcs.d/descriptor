@@ -1,3 +1,0 @@
-struct TYPE_2__ | gmc_funcs int * 
-struct amdgpu_device | gmc struct TYPE_2__ 
-function gmc_v7_0_set_gmc_funcs void | adev struct amdgpu_device *

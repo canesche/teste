@@ -1,0 +1,3 @@
+struct TYPE_2__ | format int 
+struct ibmvfc_event | done void (*)(struct ibmvfc_event *) | eh_comp int * | crq struct TYPE_2__ | sync_iu int * | cmnd int * 
+function ibmvfc_init_event void | evt struct ibmvfc_event * | done void (*)(struct ibmvfc_event *) | format int

@@ -1,0 +1,3 @@
+struct iw_cm_id | provider_data struct c4iw_ep * 
+struct c4iw_ep | dummy int 
+function to_ep struct c4iw_ep * | cm_id struct iw_cm_id *

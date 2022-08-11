@@ -1,0 +1,4 @@
+struct max8660_platform_data | dummy int 
+struct device_node | dummy int 
+struct device | dummy int 
+function max8660_pdata_from_dt int | dev struct device * | of_node struct device_node ** | pdata struct max8660_platform_data *

@@ -1,0 +1,4 @@
+struct ata_queued_cmd | flags int | scsicmd struct TYPE_4__ * 
+struct TYPE_4__ | request struct TYPE_3__ * 
+struct TYPE_3__ | rq_flags int 
+function ata_eh_quiet int | qc struct ata_queued_cmd *

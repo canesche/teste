@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversrtcrtc-tps6586x.c_to_tps6586x_dev.d/extr_linuxdriversrtcrtc-tps6586x.c_to_tps6586x_dev_O0::to_tps6586x_dev(60)"
+  }
+]

@@ -1,0 +1,2 @@
+struct cx8802_driver | type_id long | hw_access long | advise_release int | advise_acquire int | remove int | probe int 
+function cx8802_check_driver int | drv struct cx8802_driver *

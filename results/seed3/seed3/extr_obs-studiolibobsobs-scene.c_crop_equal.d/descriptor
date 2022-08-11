@@ -1,0 +1,2 @@
+struct obs_sceneitem_crop | left long | right long | top long | bottom long 
+function crop_equal int | crop1 const struct obs_sceneitem_crop * | crop2 const struct obs_sceneitem_crop *

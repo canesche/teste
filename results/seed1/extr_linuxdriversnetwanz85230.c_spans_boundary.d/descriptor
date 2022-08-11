@@ -1,2 +1,0 @@
-struct sk_buff | len unsigned long | data long 
-function spans_boundary int | skb struct sk_buff *

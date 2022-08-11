@@ -1,2 +1,0 @@
-struct v4l2_rect | width long | height long | left long | top long 
-function move_and_crop_subrect void | rect struct v4l2_rect * | subrect struct v4l2_rect *

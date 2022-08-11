@@ -1,0 +1,1 @@
+function SzReadFileNames int | data const long * | size unsigned long | numFiles long | offsets unsigned long *

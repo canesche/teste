@@ -1,0 +1,7 @@
+struct TYPE_5__ | shm_offs int | size int | shm long 
+struct TYPE_6__ | memref struct TYPE_5__ 
+struct tee_param | u struct TYPE_6__ | attr long 
+struct TYPE_7__ | shm_ref unsigned long | offs int | size int 
+struct TYPE_8__ | rmem struct TYPE_7__ 
+struct optee_msg_param | u struct TYPE_8__ | attr long 
+function to_msg_param_reg_mem int | mp struct optee_msg_param * | p const struct tee_param *

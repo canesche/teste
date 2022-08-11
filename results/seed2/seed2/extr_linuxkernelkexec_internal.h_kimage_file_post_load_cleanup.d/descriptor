@@ -1,0 +1,2 @@
+struct kimage | dummy int 
+function kimage_file_post_load_cleanup void | image struct kimage *

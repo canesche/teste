@@ -1,0 +1,1 @@
+function s3c24xx_i2c_calcdivisor int | clkin unsigned long | wanted unsigned int | div1 unsigned int * | divs unsigned int *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | rip int 
+struct TYPE_5__ | isf struct TYPE_4__ 
+function set_recovery_ip void | saved_state struct TYPE_5__ * | ip int

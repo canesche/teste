@@ -1,0 +1,2 @@
+struct fault_attr | dummy int 
+function fail_stacktrace int | attr struct fault_attr *

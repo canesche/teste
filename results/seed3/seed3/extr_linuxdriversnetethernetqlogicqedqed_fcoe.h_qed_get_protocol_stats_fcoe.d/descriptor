@@ -1,0 +1,3 @@
+struct qed_mcp_fcoe_stats | dummy int 
+struct qed_dev | dummy int 
+function qed_get_protocol_stats_fcoe void | cdev struct qed_dev * | stats struct qed_mcp_fcoe_stats *

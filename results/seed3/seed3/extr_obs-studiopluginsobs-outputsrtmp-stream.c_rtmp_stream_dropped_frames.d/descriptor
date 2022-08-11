@@ -1,0 +1,2 @@
+struct rtmp_stream | dropped_frames int 
+function rtmp_stream_dropped_frames int | data void *

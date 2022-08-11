@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct mlxsw_sp_rif | dev const struct net_device * 
+function mlxsw_sp_rif_dev const struct net_device * | rif const struct mlxsw_sp_rif *

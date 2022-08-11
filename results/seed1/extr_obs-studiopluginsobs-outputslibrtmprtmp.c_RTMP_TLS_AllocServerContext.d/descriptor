@@ -1,1 +1,0 @@
-function RTMP_TLS_AllocServerContext void * | cert const char * | key const char *

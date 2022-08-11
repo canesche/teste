@@ -1,3 +1,0 @@
-struct user_regset_view | dummy int 
-struct task_struct | dummy int 
-function task_user_regset_view const struct user_regset_view * | tsk struct task_struct *

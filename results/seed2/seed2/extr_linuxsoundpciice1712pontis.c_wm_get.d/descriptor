@@ -1,0 +1,3 @@
+struct snd_ice1712 | akm struct TYPE_2__ * 
+struct TYPE_2__ | images unsigned short * 
+function wm_get unsigned short | ice struct snd_ice1712 * | reg int

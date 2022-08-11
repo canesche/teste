@@ -1,0 +1,2 @@
+struct IsdnCard | dummy int 
+function hisax_setup_card_dynamic int | card struct IsdnCard *

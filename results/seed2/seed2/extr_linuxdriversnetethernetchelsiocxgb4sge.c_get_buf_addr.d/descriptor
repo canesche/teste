@@ -1,0 +1,2 @@
+struct rx_sw_desc | dma_addr int 
+function get_buf_addr int | d const struct rx_sw_desc *

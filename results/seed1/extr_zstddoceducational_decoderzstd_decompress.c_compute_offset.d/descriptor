@@ -1,2 +1,0 @@
-struct TYPE_3__ | offset int | literal_length long 
-function compute_offset unsigned long | seq struct TYPE_3__ | offset_hist int *const

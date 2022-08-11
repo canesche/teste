@@ -1,4 +1,0 @@
-struct TYPE_3__ | LVDSHDE long | LVDSVDE long 
-struct xgifb_video_info | lvds_data struct TYPE_3__ 
-struct TYPE_4__ | mode_no long | xres long | yres long | bpp int 
-function XGIfb_GetXG21DefaultLVDSModeIdx int | xgifb_info struct xgifb_video_info *

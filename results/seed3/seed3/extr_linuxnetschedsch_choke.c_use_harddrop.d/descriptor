@@ -1,0 +1,2 @@
+struct choke_sched_data | flags int 
+function use_harddrop int | q const struct choke_sched_data *

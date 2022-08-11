@@ -1,0 +1,2 @@
+struct niu | flags int 
+function niu_num_alt_addr int | np struct niu *

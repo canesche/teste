@@ -1,0 +1,3 @@
+struct TYPE_2__ | literal_words unsigned long 
+struct rlw_iterator | pointer unsigned long | rlw struct TYPE_2__ 
+function rlwit_literal_words unsigned long | it struct rlw_iterator *

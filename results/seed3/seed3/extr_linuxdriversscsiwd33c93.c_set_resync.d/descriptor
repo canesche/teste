@@ -1,0 +1,2 @@
+struct WD33C93_hostdata | sync_stat int * 
+function set_resync void | hd struct WD33C93_hostdata * | mask int

@@ -1,0 +1,3 @@
+struct connfind | found int | tofind struct connectdata * 
+struct connectdata | dummy int 
+function conn_is_conn int | conn struct connectdata * | param void *

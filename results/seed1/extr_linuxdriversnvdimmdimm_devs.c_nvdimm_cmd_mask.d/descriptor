@@ -1,2 +1,0 @@
-struct nvdimm | cmd_mask unsigned long 
-function nvdimm_cmd_mask unsigned long | nvdimm struct nvdimm *

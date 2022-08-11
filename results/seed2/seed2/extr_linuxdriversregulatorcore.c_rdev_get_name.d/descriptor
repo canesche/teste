@@ -1,0 +1,4 @@
+struct regulator_dev | desc struct TYPE_4__ * | constraints struct TYPE_3__ * 
+struct TYPE_4__ | name const char * 
+struct TYPE_3__ | name const char * 
+function rdev_get_name const char * | rdev struct regulator_dev *

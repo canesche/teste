@@ -1,0 +1,12 @@
+struct TYPE_20__ | opt int | opt2 int | opt3 int | mctlwtst_core int | mctlwtst int | memmisc int | memrdbk int | maccess int 
+struct TYPE_19__ | ddr int | dll int | emrswen int 
+struct TYPE_16__ | system int | video int 
+struct TYPE_11__ | reg struct TYPE_20__ | memory struct TYPE_19__ | pll struct TYPE_16__ 
+struct TYPE_17__ | ref_freq int 
+struct TYPE_18__ | pll struct TYPE_17__ 
+struct TYPE_14__ | vcomax int | vcomin int 
+struct TYPE_13__ | vcomax int | vcomin int 
+struct TYPE_12__ | vcomax int | vcomin int 
+struct TYPE_15__ | video struct TYPE_14__ | system struct TYPE_13__ | pixel struct TYPE_12__ 
+struct matrox_fb_info | values struct TYPE_11__ | features struct TYPE_18__ | limits struct TYPE_15__ 
+function default_pins5 void | minfo struct matrox_fb_info *

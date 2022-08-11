@@ -1,0 +1,4 @@
+struct TYPE_3__ | signaled int 
+struct mic_info | mic_virtblk struct TYPE_3__ | next struct mic_info * 
+struct TYPE_4__ | next struct mic_info * 
+function change_virtblk_backend void | x int | siginfo int * | p void *

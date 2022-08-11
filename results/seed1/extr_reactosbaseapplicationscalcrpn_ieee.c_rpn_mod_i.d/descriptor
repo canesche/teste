@@ -1,3 +1,0 @@
-struct TYPE_6__ | i int 
-struct TYPE_7__ | is_nan int 
-function rpn_mod_i void | r struct TYPE_6__ * | a struct TYPE_6__ * | b struct TYPE_6__ *

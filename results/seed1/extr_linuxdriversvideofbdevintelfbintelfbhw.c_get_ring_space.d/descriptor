@@ -1,3 +1,0 @@
-struct TYPE_2__ | size long 
-struct intelfb_info | ring_tail long | ring_head long | ring struct TYPE_2__ 
-function get_ring_space long | dinfo struct intelfb_info *

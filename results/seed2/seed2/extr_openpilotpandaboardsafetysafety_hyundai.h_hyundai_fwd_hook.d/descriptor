@@ -1,0 +1,2 @@
+struct TYPE_3__ | RIR int 
+function hyundai_fwd_hook int | bus_num int | to_fwd struct TYPE_3__ *

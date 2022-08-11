@@ -1,0 +1,4 @@
+struct TYPE_3__ | variant long 
+struct TYPE_4__ | pci struct TYPE_3__ 
+struct adapter | params struct TYPE_4__ 
+function is_pcie unsigned int | adap const struct adapter *

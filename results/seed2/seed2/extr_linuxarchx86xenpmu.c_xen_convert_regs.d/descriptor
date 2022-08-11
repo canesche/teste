@@ -1,0 +1,3 @@
+struct xen_pmu_regs | cs int | cpl long | sp int | ip int 
+struct pt_regs | cs int | sp int | ip int 
+function xen_convert_regs void | xen_regs const struct xen_pmu_regs * | regs struct pt_regs * | pmu_flags int

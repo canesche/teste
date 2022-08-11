@@ -1,0 +1,2 @@
+struct imx21 | dummy int 
+function remove_debug_files void | imx21 struct imx21 *

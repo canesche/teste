@@ -1,1 +1,0 @@
-function mmap_has_headroom int | buff_size unsigned long | map_size unsigned long | desc_size unsigned long

@@ -1,0 +1,3 @@
+struct cfq_queue | dummy int 
+struct cfq_io_cq | cfqq struct cfq_queue ** 
+function cic_set_cfqq void | cic struct cfq_io_cq * | cfqq struct cfq_queue * | is_sync int

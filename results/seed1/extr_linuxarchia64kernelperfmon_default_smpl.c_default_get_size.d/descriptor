@@ -1,3 +1,0 @@
-struct task_struct | dummy int 
-struct TYPE_2__ | buf_size unsigned long 
-function default_get_size int | task struct task_struct * | flags unsigned int | cpu int | data void * | size unsigned long *

@@ -1,0 +1,2 @@
+struct TCP_Server_Info | dummy int 
+function cifs_fscache_release_client_cookie void | server struct TCP_Server_Info *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | info int * | length long 
+function getChannel unsigned long | p struct TYPE_3__ *

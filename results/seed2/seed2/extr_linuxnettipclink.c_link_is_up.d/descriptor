@@ -1,0 +1,2 @@
+struct tipc_link | state int 
+function link_is_up int | l struct tipc_link *

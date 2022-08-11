@@ -1,2 +1,0 @@
-struct gfp_flag | flags int 
-function gfpcmp int | a const void * | b const void *

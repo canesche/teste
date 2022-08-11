@@ -1,0 +1,5 @@
+struct pd_unit | capacity int | heads int | sectors int | cylinders int | alt_geom long 
+struct hd_geometry | heads int | sectors int | cylinders int 
+struct block_device | bd_disk struct TYPE_2__ * 
+struct TYPE_2__ | private_data struct pd_unit * 
+function pd_getgeo int | bdev struct block_device * | geo struct hd_geometry *

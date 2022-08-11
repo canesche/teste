@@ -1,0 +1,2 @@
+struct TYPE_3__ | use int 
+function xmlBufferLength int | buf const struct TYPE_3__ *

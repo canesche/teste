@@ -1,0 +1,3 @@
+struct stm32_exti_drv_data | irq_nr int | desc_irqs struct stm32_desc_irq * 
+struct stm32_desc_irq | exti long | irq_parent int 
+function stm32_exti_to_irq int | drv_data const struct stm32_exti_drv_data * | hwirq long

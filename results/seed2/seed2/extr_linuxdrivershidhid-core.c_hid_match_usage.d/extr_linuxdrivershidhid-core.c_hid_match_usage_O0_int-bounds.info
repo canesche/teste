@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 19,
+    static: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdrivershidhid-core.c_hid_match_usage.d/extr_linuxdrivershidhid-core.c_hid_match_usage_O0::hid_match_usage(66)"
+  }
+]

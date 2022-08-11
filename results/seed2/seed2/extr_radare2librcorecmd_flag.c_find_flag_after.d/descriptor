@@ -1,0 +1,3 @@
+struct find_flag_t | at long | win struct TYPE_3__ * 
+struct TYPE_3__ | offset long 
+function find_flag_after int | flag struct TYPE_3__ * | user void *

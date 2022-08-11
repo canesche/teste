@@ -1,3 +1,0 @@
-struct connectdata | dummy int 
-struct TYPE_3__ | downstream long 
-function identity_init_writer int | conn struct connectdata * | writer struct TYPE_3__ *

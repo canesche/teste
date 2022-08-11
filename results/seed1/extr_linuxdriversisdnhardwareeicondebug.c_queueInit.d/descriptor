@@ -1,2 +1,0 @@
-struct TYPE_3__ | Size int | Count long | Wrap int * | High int * | Tail int * | Head int * | Base int * 
-function queueInit void | Q struct TYPE_3__ * | Buffer int * | sizeBuffer int

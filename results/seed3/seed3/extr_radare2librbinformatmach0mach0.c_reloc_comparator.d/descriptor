@@ -1,0 +1,2 @@
+struct reloc_t | addr int 
+function reloc_comparator int | a struct reloc_t * | b struct reloc_t *

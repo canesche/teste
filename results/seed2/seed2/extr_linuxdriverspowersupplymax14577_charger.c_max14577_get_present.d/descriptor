@@ -1,0 +1,2 @@
+struct max14577_charger | dummy int 
+function max14577_get_present int | chg struct max14577_charger * | val int *

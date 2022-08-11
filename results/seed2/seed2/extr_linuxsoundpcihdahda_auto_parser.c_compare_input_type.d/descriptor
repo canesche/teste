@@ -1,0 +1,2 @@
+struct auto_pin_cfg_item | type long | has_boost_on_pin long 
+function compare_input_type int | ap const void * | bp const void *

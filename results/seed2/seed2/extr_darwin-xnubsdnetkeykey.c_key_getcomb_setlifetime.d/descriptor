@@ -1,0 +1,2 @@
+struct sadb_comb | sadb_comb_soft_allocations int | sadb_comb_hard_allocations int | sadb_comb_hard_addtime int | sadb_comb_soft_addtime int | sadb_comb_soft_usetime int | sadb_comb_hard_usetime int | sadb_comb_hard_bytes long | sadb_comb_soft_bytes long 
+function key_getcomb_setlifetime void | comb struct sadb_comb *

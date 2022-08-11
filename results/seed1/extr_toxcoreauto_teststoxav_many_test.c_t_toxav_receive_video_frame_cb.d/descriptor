@@ -1,1 +1,0 @@
-function t_toxav_receive_video_frame_cb void | av int * | friend_number int | width int | height int | y const int * | u const int * | v const int * | ystride int | ustride int | vstride int | user_data void *

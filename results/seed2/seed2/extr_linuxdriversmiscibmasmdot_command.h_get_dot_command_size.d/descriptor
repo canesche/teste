@@ -1,0 +1,2 @@
+struct dot_command_header | command_size unsigned long | data_size unsigned long 
+function get_dot_command_size unsigned long | buffer void *

@@ -1,2 +1,0 @@
-struct mm_struct | dummy int 
-function should_hash_preload int | mm struct mm_struct * | ea unsigned long

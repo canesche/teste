@@ -1,2 +1,0 @@
-struct ib_device | dummy int 
-function ib_security_cache_change void | device struct ib_device * | port_num int | subnet_prefix int

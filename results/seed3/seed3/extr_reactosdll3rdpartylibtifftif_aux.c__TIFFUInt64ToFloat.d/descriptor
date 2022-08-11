@@ -1,0 +1,3 @@
+struct TYPE_3__ | high long 
+struct TYPE_4__ | value long | part struct TYPE_3__ 
+function _TIFFUInt64ToFloat float | ui64 long

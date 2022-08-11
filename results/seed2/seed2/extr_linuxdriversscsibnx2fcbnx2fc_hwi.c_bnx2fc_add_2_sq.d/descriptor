@@ -1,0 +1,3 @@
+struct fcoe_sqe | wqe int 
+struct bnx2fc_rport | sq_prod_idx unsigned long | sq_curr_toggle_bit int | sq struct fcoe_sqe * 
+function bnx2fc_add_2_sq void | tgt struct bnx2fc_rport * | xid int

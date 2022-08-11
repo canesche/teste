@@ -1,0 +1,3 @@
+struct obs_scene_item | source int * | next struct obs_scene_item * 
+struct TYPE_3__ | first_item struct obs_scene_item * 
+function get_child_at_idx int * | scene struct TYPE_3__ * | idx unsigned long

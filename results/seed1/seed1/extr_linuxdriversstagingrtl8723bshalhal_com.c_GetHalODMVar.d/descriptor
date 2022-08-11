@@ -1,0 +1,2 @@
+struct adapter | dummy int 
+function GetHalODMVar void | Adapter struct adapter * | eVariable enum HAL_ODM_VARIABLE | pValue1 void * | pValue2 void *

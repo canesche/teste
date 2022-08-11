@@ -1,0 +1,3 @@
+struct TYPE_5__ | layers struct TYPE_4__ * 
+struct TYPE_4__ | n_nodes int 
+function is_valid_pos int | g const struct TYPE_5__ * | l int | pos int

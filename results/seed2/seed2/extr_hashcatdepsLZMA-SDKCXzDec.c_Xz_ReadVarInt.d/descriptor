@@ -1,0 +1,1 @@
+function Xz_ReadVarInt unsigned int | p const int * | maxSize unsigned long | value int *

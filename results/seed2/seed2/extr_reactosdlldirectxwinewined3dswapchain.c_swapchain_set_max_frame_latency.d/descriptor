@@ -1,0 +1,3 @@
+struct wined3d_swapchain | max_frame_latency int 
+struct wined3d_device | max_frame_latency int 
+function swapchain_set_max_frame_latency void | swapchain struct wined3d_swapchain * | device const struct wined3d_device *

@@ -1,0 +1,3 @@
+struct gr_request | dummy int 
+struct gr_ep | dummy int 
+function gr_dbgprint_request void | str const char * | ep struct gr_ep * | req struct gr_request *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | numopts unsigned long | opts struct TYPE_6__ * 
+struct TYPE_6__ | num long 
+function coap_findOptions const struct TYPE_6__ * | pkt const struct TYPE_5__ * | num long | count long *

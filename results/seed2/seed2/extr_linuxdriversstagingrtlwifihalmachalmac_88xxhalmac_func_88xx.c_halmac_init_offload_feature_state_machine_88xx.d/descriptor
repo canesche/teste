@@ -1,0 +1,10 @@
+struct TYPE_14__ | data int * | segment_size long | data_size long | seq_num int | process_status void * 
+struct TYPE_13__ | seq_num int | process_status void * 
+struct TYPE_12__ | seq_num int | process_status void * 
+struct TYPE_11__ | seq_num int | process_status void * 
+struct TYPE_10__ | seq_num int | process_status void * | scan_cmd_construct_state int 
+struct TYPE_9__ | seq_num int | process_status void * | cfg_para_cmd_construct_state int 
+struct TYPE_8__ | seq_num int | process_status void * | efuse_cmd_construct_state int 
+struct halmac_state | psd_set struct TYPE_14__ | power_tracking_set struct TYPE_13__ | iqk_set struct TYPE_12__ | update_packet_set struct TYPE_11__ | scan_state_set struct TYPE_10__ | cfg_para_state_set struct TYPE_9__ | efuse_state_set struct TYPE_8__ 
+struct halmac_adapter | h2c_packet_seq int | halmac_state struct halmac_state 
+function halmac_init_offload_feature_state_machine_88xx void | halmac_adapter struct halmac_adapter *

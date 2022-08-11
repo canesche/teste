@@ -1,0 +1,3 @@
+struct iscsi_cmd | pdu_count unsigned long | pdu_list struct TYPE_2__ * 
+struct TYPE_2__ | seq_no unsigned long | pdu_send_order long 
+function iscsit_ordered_pdu_lists void | cmd struct iscsi_cmd * | type int

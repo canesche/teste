@@ -1,2 +1,0 @@
-struct dma_fence | dummy int 
-function dma_fence_array_get_driver_name const char * | fence struct dma_fence *

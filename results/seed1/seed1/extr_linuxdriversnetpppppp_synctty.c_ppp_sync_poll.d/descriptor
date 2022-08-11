@@ -1,0 +1,3 @@
+struct tty_struct | dummy int 
+struct file | dummy int 
+function ppp_sync_poll int | tty struct tty_struct * | file struct file * | wait int *

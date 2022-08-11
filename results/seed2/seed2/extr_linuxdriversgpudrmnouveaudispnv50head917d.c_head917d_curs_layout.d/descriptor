@@ -1,0 +1,7 @@
+struct TYPE_5__ | fb struct TYPE_4__ * 
+struct nv50_wndw_atom | state struct TYPE_5__ 
+struct TYPE_6__ | layout int 
+struct nv50_head_atom | curs struct TYPE_6__ 
+struct nv50_head | dummy int 
+struct TYPE_4__ | width int 
+function head917d_curs_layout int | head struct nv50_head * | asyw struct nv50_wndw_atom * | asyh struct nv50_head_atom *

@@ -1,0 +1,2 @@
+struct drm_connector | dummy int 
+function intel_lvds_detect enum drm_connector_status | connector struct drm_connector * | force int

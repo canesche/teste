@@ -1,0 +1,2 @@
+struct aux_engine | dummy int 
+function get_engine_type enum i2caux_engine_type | engine const struct aux_engine *

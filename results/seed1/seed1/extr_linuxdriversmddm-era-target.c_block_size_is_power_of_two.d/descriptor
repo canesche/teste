@@ -1,0 +1,2 @@
+struct era | sectors_per_block_shift long 
+function block_size_is_power_of_two int | era struct era *

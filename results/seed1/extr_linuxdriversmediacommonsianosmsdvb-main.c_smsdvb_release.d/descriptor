@@ -1,2 +1,0 @@
-struct dvb_frontend | dummy int 
-function smsdvb_release void | fe struct dvb_frontend *

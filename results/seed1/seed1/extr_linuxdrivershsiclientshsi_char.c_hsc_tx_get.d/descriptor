@@ -1,0 +1,4 @@
+struct TYPE_2__ | arb_mode int | speed int | num_hw_channels int | mode int 
+struct hsi_client | tx_cfg struct TYPE_2__ 
+struct hsc_tx_config | arb_mode int | speed int | channels int | mode int 
+function hsc_tx_get void | cl struct hsi_client * | txc struct hsc_tx_config *

@@ -1,2 +1,0 @@
-struct dlm_lkb | lkb_flags int 
-function is_overlap int | lkb struct dlm_lkb *

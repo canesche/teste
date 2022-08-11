@@ -1,0 +1,2 @@
+struct TYPE_2__ | extif_clk_period int 
+function round_to_extif_ticks unsigned long | ps unsigned long | div int

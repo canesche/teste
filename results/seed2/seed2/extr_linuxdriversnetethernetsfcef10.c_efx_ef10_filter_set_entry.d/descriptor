@@ -1,0 +1,4 @@
+struct efx_filter_spec | dummy int 
+struct efx_ef10_filter_table | entry struct TYPE_2__ * 
+struct TYPE_2__ | spec unsigned long 
+function efx_ef10_filter_set_entry void | table struct efx_ef10_filter_table * | filter_idx unsigned int | spec const struct efx_filter_spec * | flags unsigned int

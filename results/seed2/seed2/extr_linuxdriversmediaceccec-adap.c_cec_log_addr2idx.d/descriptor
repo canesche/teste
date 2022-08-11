@@ -1,0 +1,3 @@
+struct TYPE_2__ | num_log_addrs int | log_addr long * 
+struct cec_adapter | log_addrs struct TYPE_2__ 
+function cec_log_addr2idx int | adap const struct cec_adapter * | log_addr long

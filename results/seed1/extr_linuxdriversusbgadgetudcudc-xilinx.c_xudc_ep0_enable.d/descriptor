@@ -1,3 +1,0 @@
-struct usb_ep | dummy int 
-struct usb_endpoint_descriptor | dummy int 
-function xudc_ep0_enable int | ep struct usb_ep * | desc const struct usb_endpoint_descriptor *

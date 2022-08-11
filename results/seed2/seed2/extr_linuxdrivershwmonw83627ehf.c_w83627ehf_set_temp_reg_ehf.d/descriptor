@@ -1,0 +1,2 @@
+struct w83627ehf_data | reg_temp_config int * | reg_temp_hyst int * | reg_temp_over int * | reg_temp int * 
+function w83627ehf_set_temp_reg_ehf void | data struct w83627ehf_data * | n_temp int

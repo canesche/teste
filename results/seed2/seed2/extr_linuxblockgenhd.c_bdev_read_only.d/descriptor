@@ -1,0 +1,3 @@
+struct block_device | bd_part struct TYPE_2__ * 
+struct TYPE_2__ | policy int 
+function bdev_read_only int | bdev struct block_device *

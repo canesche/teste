@@ -1,2 +1,0 @@
-struct xresource | xflag long 
-function xres_free void | xrp struct xresource *

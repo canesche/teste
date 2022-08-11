@@ -1,0 +1,2 @@
+struct ubi_volume | dummy int 
+function ubi_fastmap_init_checkmap int | vol struct ubi_volume * | leb_count int

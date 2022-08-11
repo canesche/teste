@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediav4l2-corev4l2-flash-led-class.c___led_brightness_to_intensity.d/extr_linuxdriversmediav4l2-corev4l2-flash-led-class.c___led_brightness_to_intensity_O0::__led_brightness_to_intensity(65)"
+  }
+]

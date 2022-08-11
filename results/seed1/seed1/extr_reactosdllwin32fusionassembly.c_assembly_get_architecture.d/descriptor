@@ -1,0 +1,5 @@
+struct TYPE_9__ | corhdr struct TYPE_8__ * | nthdr struct TYPE_7__ * 
+struct TYPE_8__ | MajorRuntimeVersion int | MinorRuntimeVersion long | Flags int 
+struct TYPE_6__ | Magic long 
+struct TYPE_7__ | OptionalHeader struct TYPE_6__ 
+function assembly_get_architecture int | assembly struct TYPE_9__ *

@@ -1,3 +1,0 @@
-struct i2c_child_t | total_chnls int | mon_type int * | chnl_array struct TYPE_2__ * | fan_mask int 
-struct TYPE_2__ | chnl_no unsigned long 
-function envctrl_init_fanstat void | pchild struct i2c_child_t *

@@ -1,0 +1,1 @@
+function v4l2_ctrl_get_name const char * | id int

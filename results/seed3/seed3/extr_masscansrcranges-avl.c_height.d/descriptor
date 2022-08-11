@@ -1,0 +1,2 @@
+struct RavlNode | height int 
+function height int | node const struct RavlNode *

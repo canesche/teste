@@ -1,0 +1,4 @@
+struct mthca_qp | qpn long 
+struct TYPE_2__ | sqp_start long 
+struct mthca_dev | qp_table struct TYPE_2__ 
+function is_qp0 int | dev struct mthca_dev * | qp struct mthca_qp *

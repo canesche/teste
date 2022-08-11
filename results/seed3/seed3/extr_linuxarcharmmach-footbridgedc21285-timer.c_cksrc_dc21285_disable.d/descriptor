@@ -1,0 +1,2 @@
+struct clocksource | dummy int 
+function cksrc_dc21285_disable void | cs struct clocksource *

@@ -1,0 +1,1 @@
+function lpc18xx_pconf_get_usb1 int | param enum pin_config_param | arg int * | reg int

@@ -1,2 +1,0 @@
-struct rt_rq | dummy int 
-function balance_runtime void | rt_rq struct rt_rq *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | flags int 
+struct wined3d_device | softwareVertexProcessing int | create_parms struct TYPE_2__ | shader_backend int * 
+function use_software_vertex_processing int | device const struct wined3d_device *

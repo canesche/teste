@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function locomo_ack_irq void | d struct irq_data *

@@ -1,0 +1,3 @@
+struct kimage | nr_segments unsigned long | segment struct TYPE_2__ * 
+struct TYPE_2__ | mem unsigned long | memsz unsigned long 
+function kimage_is_destination_range int | image struct kimage * | start unsigned long | end unsigned long

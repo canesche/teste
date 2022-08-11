@@ -1,0 +1,2 @@
+struct ata_link | dummy int 
+function sata_pmp_scr_read int | link struct ata_link * | reg int | val int *

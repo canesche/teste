@@ -1,0 +1,4 @@
+struct TYPE_8__ | buf_sndbuf int | buf_interface int 
+struct TYPE_6__ | pkt_flags int | bufstatus_sndbuf int | bufstatus_if int 
+struct TYPE_7__ | m_flags int | m_pkthdr struct TYPE_6__ 
+function mbuf_get_buffer_status int | m struct TYPE_7__ *const | buf_status struct TYPE_8__ *

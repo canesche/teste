@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriverspinctrlmvebupinctrl-dove.c_dove_audio1_ctrl_gpio_dir.d/extr_linuxdriverspinctrlmvebupinctrl-dove.c_dove_audio1_ctrl_gpio_dir_O0::dove_audio1_ctrl_gpio_dir(63)"
+  }
+]

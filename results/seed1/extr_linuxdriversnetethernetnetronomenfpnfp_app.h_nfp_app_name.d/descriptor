@@ -1,3 +1,0 @@
-struct nfp_app | type struct TYPE_2__ * 
-struct TYPE_2__ | name const char * 
-function nfp_app_name const char * | app struct nfp_app *

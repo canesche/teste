@@ -1,0 +1,4 @@
+struct TYPE_2__ | tlbcfg int * 
+struct kvm_vcpu | arch struct TYPE_2__ 
+struct kvm_book3e_206_tlb_params | tlb_sizes int * | tlb_ways int * 
+function vcpu_mmu_geometry_update int | vcpu struct kvm_vcpu * | params struct kvm_book3e_206_tlb_params *

@@ -1,5 +1,0 @@
-struct TYPE_3__ | width int 
-struct vivid_dev | bitmap_cap int * | clipcount_cap int | clips_cap struct TYPE_4__ * | compose_cap struct TYPE_3__ 
-struct v4l2_rect | top int | height int | left int | width int 
-struct TYPE_4__ | c struct v4l2_rect 
-function valid_pix int | dev struct vivid_dev * | win_y int | win_x int | fb_y int | fb_x int

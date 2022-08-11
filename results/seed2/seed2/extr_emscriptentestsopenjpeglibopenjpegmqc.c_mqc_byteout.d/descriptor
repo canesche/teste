@@ -1,0 +1,2 @@
+struct TYPE_3__ | bp int * | c int | ct int 
+function mqc_byteout void | mqc struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct drbd_device | dummy int 
+function drbd_insert_fault int | device struct drbd_device * | type unsigned int

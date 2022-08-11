@@ -1,2 +1,0 @@
-struct mlxsw_core | max_ports unsigned int 
-function mlxsw_core_max_ports unsigned int | mlxsw_core const struct mlxsw_core *

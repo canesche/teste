@@ -1,0 +1,5 @@
+struct phy_device | advertising int 
+struct TYPE_3__ | phydev struct phy_device * 
+struct TYPE_4__ | mac struct TYPE_3__ 
+struct hclge_dev | hw struct TYPE_4__ 
+function hclge_set_flowctrl_adv void | hdev struct hclge_dev * | rx_en long | tx_en long

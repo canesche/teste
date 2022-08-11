@@ -1,0 +1,2 @@
+struct net_dim_cq_moder | usec int | pkts int | cq_period_mode long 
+function mlx5e_get_def_tx_moderation struct net_dim_cq_moder | cq_period_mode long

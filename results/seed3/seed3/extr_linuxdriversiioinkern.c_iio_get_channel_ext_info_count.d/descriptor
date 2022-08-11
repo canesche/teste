@@ -1,0 +1,4 @@
+struct iio_channel | channel struct TYPE_2__ * 
+struct iio_chan_spec_ext_info | name long 
+struct TYPE_2__ | ext_info struct iio_chan_spec_ext_info * 
+function iio_get_channel_ext_info_count unsigned int | chan struct iio_channel *

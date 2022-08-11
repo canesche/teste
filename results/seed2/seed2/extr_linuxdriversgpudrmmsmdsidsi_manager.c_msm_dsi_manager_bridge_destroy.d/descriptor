@@ -1,0 +1,2 @@
+struct drm_bridge | dummy int 
+function msm_dsi_manager_bridge_destroy void | bridge struct drm_bridge *

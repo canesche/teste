@@ -1,0 +1,4 @@
+struct nfs_server | dummy int 
+struct nfs_fsinfo | dummy int 
+struct nfs_fh | dummy int 
+function set_pnfs_layoutdriver void | s struct nfs_server * | mntfh const struct nfs_fh * | fsinfo struct nfs_fsinfo *

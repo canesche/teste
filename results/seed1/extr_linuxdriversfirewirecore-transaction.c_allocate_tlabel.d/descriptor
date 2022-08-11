@@ -1,2 +1,0 @@
-struct fw_card | current_tlabel int | tlabel_mask unsigned long long 
-function allocate_tlabel int | card struct fw_card *

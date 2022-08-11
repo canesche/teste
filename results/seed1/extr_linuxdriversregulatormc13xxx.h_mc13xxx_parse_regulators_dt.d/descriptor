@@ -1,4 +1,0 @@
-struct platform_device | dummy int 
-struct mc13xxx_regulator_init_data | dummy int 
-struct mc13xxx_regulator | dummy int 
-function mc13xxx_parse_regulators_dt struct mc13xxx_regulator_init_data * | pdev struct platform_device * | regulators struct mc13xxx_regulator * | num_regulators int

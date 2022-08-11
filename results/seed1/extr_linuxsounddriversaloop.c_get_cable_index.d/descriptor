@@ -1,3 +1,0 @@
-struct snd_pcm_substream | stream unsigned int | pcm struct TYPE_2__ * 
-struct TYPE_2__ | device int 
-function get_cable_index unsigned int | substream struct snd_pcm_substream *

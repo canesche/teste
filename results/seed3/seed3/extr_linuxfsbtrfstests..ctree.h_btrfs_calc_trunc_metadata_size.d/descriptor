@@ -1,0 +1,2 @@
+struct btrfs_fs_info | nodesize long 
+function btrfs_calc_trunc_metadata_size unsigned int | fs_info struct btrfs_fs_info * | num_items unsigned int

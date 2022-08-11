@@ -1,0 +1,3 @@
+struct sk_buff | cb long 
+struct brcmf_skb_reorder_data | reorder int 
+function brcmf_proto_is_reorder_skb int | skb struct sk_buff *

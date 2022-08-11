@@ -1,5 +1,0 @@
-struct saa7164_unit | type long | i2c_bus_nr long | i2c_bus_addr int | i2c_reg_len int 
-struct saa7164_i2c | nr long | dev struct saa7164_dev * 
-struct saa7164_dev | board unsigned long 
-struct TYPE_2__ | unit struct saa7164_unit * 
-function saa7164_i2caddr_to_reglen int | bus struct saa7164_i2c * | addr int

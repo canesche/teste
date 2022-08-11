@@ -1,3 +1,0 @@
-struct TYPE_2__ | flags int 
-struct commit | object struct TYPE_2__ 
-function relevant_commit int | commit struct commit *

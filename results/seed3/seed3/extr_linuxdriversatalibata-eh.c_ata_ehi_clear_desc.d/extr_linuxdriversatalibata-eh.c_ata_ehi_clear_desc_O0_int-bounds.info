@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversatalibata-eh.c_ata_ehi_clear_desc.d/extr_linuxdriversatalibata-eh.c_ata_ehi_clear_desc_O0::ata_ehi_clear_desc(61)"
+  }
+]

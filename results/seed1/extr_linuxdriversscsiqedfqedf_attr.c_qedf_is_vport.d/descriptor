@@ -1,3 +1,0 @@
-struct qedf_ctx | lport struct TYPE_2__ * 
-struct TYPE_2__ | vport int * 
-function qedf_is_vport int | qedf struct qedf_ctx *

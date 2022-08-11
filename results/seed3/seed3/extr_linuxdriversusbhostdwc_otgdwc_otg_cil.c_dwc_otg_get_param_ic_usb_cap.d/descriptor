@@ -1,0 +1,3 @@
+struct TYPE_5__ | core_params struct TYPE_4__ * 
+struct TYPE_4__ | ic_usb_cap int 
+function dwc_otg_get_param_ic_usb_cap int | core_if struct TYPE_5__ *

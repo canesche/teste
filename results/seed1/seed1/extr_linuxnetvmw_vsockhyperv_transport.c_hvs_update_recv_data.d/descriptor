@@ -1,0 +1,5 @@
+struct hvsock | recv_data_off long | recv_data_len long | vsk struct TYPE_4__ * | recv_desc long 
+struct TYPE_3__ | data_size long 
+struct hvs_recv_buf | hdr struct TYPE_3__ 
+struct TYPE_4__ | peer_shutdown int 
+function hvs_update_recv_data int | hvs struct hvsock *

@@ -1,0 +1,1 @@
+function get_delta_hdr_size unsigned long | datap const unsigned char ** | top const unsigned char *

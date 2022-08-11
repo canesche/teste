@@ -1,0 +1,2 @@
+struct TYPE_3__ | NoNeedToRead int 
+function SetNoNeedToRead void | sock struct TYPE_3__ *

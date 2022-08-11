@@ -1,0 +1,3 @@
+struct TYPE_7__ | ptail struct TYPE_6__ * | phead struct TYPE_6__ * 
+struct TYPE_6__ | pnext struct TYPE_6__ * 
+function entry_insert struct TYPE_6__ * | list struct TYPE_7__ * | pentry struct TYPE_6__ *

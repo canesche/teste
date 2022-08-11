@@ -1,0 +1,2 @@
+struct socket | dummy int 
+function xs_reclassify_socket void | family int | sock struct socket *

@@ -1,0 +1,3 @@
+struct gru_tlb_fault_handle | dummy int 
+struct gru_control_block_extended | dummy int 
+function gru_tfh_to_cbe struct gru_control_block_extended * | tfh struct gru_tlb_fault_handle *

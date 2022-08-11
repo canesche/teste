@@ -1,2 +1,0 @@
-struct pppox_proto | dummy int 
-function register_pppox_proto int | proto_num int | pp const struct pppox_proto *

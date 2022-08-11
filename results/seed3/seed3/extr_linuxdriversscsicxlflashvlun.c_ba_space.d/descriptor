@@ -1,0 +1,3 @@
+struct ba_lun_info | free_aun_cnt int 
+struct ba_lun | ba_lun_handle struct ba_lun_info * 
+function ba_space int | ba_lun struct ba_lun *

@@ -1,0 +1,2 @@
+struct ipoib_cm_tx | dummy int 
+function ipoib_cm_destroy_tx void | tx struct ipoib_cm_tx *

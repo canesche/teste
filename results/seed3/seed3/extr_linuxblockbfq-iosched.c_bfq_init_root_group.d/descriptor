@@ -1,0 +1,4 @@
+struct TYPE_2__ | bfq_class_idle_last_service int | service_tree int * 
+struct bfq_group | sched_data struct TYPE_2__ | rq_pos_tree int 
+struct bfq_data | dummy int 
+function bfq_init_root_group void | root_group struct bfq_group * | bfqd struct bfq_data *

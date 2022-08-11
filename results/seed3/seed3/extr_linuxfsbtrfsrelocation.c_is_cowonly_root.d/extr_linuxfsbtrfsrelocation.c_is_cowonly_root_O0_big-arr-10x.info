@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxfsbtrfsrelocation.c_is_cowonly_root.d/extr_linuxfsbtrfsrelocation.c_is_cowonly_root_O0::is_cowonly_root(70)"
+  }
+]

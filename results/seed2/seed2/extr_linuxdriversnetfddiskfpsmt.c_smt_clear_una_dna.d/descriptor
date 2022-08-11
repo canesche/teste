@@ -1,0 +1,4 @@
+struct TYPE_4__ | m struct TYPE_3__ * 
+struct s_smc | mib struct TYPE_4__ 
+struct TYPE_3__ | fddiMACDownstreamNbr void * | fddiMACUpstreamNbr void * 
+function smt_clear_una_dna void | smc struct s_smc *

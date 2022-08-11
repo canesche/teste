@@ -1,0 +1,2 @@
+struct TYPE_3__ | model long | hasLightmap long | sampleSize long | axis long * | plane long * | mins long * 
+function CompareSurfaceInfo int | a const void * | b const void *

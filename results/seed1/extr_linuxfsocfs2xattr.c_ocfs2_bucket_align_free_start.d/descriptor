@@ -1,2 +1,0 @@
-struct super_block | s_blocksize_bits int | s_blocksize int 
-function ocfs2_bucket_align_free_start int | sb struct super_block * | free_start int | size int

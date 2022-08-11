@@ -1,3 +1,0 @@
-struct virtual_node | dummy int 
-struct virtual_item | vi_index int 
-function indirect_create_vi int | vn struct virtual_node * | vi struct virtual_item * | is_affected int | insert_size int

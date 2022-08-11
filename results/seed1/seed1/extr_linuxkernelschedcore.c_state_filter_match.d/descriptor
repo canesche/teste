@@ -1,0 +1,2 @@
+struct task_struct | state unsigned long 
+function state_filter_match int | state_filter unsigned long | p struct task_struct *

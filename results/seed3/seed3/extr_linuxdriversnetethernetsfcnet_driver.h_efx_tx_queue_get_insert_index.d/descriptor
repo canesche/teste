@@ -1,0 +1,2 @@
+struct efx_tx_queue | insert_count unsigned int | ptr_mask unsigned int 
+function efx_tx_queue_get_insert_index unsigned int | tx_queue const struct efx_tx_queue *

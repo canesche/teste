@@ -1,0 +1,2 @@
+struct TYPE_2__ | Characteristics long | DeviceType int 
+function KsecQueryVolumeInformation int | InfoBuffer long | FsInformationClass long | BufferLength int *

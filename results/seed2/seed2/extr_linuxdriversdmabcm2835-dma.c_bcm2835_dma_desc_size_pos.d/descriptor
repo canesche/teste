@@ -1,0 +1,4 @@
+struct bcm2835_dma_cb | length unsigned long | dst long | src long 
+struct bcm2835_desc | frames unsigned int | dir long | cb_list struct TYPE_2__ * 
+struct TYPE_2__ | cb struct bcm2835_dma_cb * 
+function bcm2835_dma_desc_size_pos unsigned long | d struct bcm2835_desc * | addr long

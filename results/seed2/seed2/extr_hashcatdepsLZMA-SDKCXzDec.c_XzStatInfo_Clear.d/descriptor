@@ -1,0 +1,2 @@
+struct TYPE_3__ | CombinedRes_Type void * | CombinedRes void * | ProgressRes void * | ReadRes void * | DecodeRes void * | DecodingTruncated void * | DataAfterEnd void * | NumBlocks_Defined void * | NumStreams_Defined void * | UnpackSize_Defined void * | NumBlocks long | NumStreams long | OutSize long | InSize long 
+function XzStatInfo_Clear void | p struct TYPE_3__ *

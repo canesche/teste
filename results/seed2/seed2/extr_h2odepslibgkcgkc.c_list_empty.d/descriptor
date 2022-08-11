@@ -1,0 +1,2 @@
+struct list | next struct list * 
+function list_empty int | l struct list *

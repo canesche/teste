@@ -1,0 +1,4 @@
+struct ra_pl | gpu const struct pl_gpu * 
+struct ra | priv struct ra_pl * 
+struct pl_gpu | dummy int 
+function get_gpu const struct pl_gpu * | ra const struct ra *

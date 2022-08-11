@@ -1,0 +1,4 @@
+struct vpfe_hw_if_param | if_type int | hdpol int | vdpol int 
+struct TYPE_3__ | hd_pol int | vd_pol int 
+struct TYPE_4__ | if_type int | ycbcr struct TYPE_3__ 
+function ccdc_set_hw_if_params int | params struct vpfe_hw_if_param *

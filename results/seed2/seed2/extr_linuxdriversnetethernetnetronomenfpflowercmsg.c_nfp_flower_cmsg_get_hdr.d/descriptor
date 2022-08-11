@@ -1,0 +1,3 @@
+struct sk_buff | data long 
+struct nfp_flower_cmsg_hdr | dummy int 
+function nfp_flower_cmsg_get_hdr struct nfp_flower_cmsg_hdr * | skb struct sk_buff *

@@ -1,2 +1,0 @@
-struct ocfs2_dlm_lksb | dummy int 
-function user_dlm_dump_lksb void | lksb struct ocfs2_dlm_lksb *

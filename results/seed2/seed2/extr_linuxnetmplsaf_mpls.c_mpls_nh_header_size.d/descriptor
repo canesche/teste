@@ -1,0 +1,3 @@
+struct mpls_shim_hdr | dummy int 
+struct mpls_nh | nh_labels int 
+function mpls_nh_header_size unsigned int | nh const struct mpls_nh *

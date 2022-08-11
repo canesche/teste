@@ -1,0 +1,2 @@
+struct gpio | id int | en int 
+function dal_gpio_get_sync_source enum sync_source | gpio const struct gpio *

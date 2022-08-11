@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxkernelschedfair.c_unthrottle_offline_cfs_rqs.d/extr_linuxkernelschedfair.c_unthrottle_offline_cfs_rqs_O0::unthrottle_offline_cfs_rqs(60)"
+  }
+]

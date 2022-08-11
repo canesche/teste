@@ -1,2 +1,0 @@
-struct pci_bus | dummy int 
-function octeon_dummy_read_config int | bus struct pci_bus * | devfn unsigned int | reg int | size int | val int *

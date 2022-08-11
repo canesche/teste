@@ -1,0 +1,1 @@
+function null_init_key int | ctx int * | key const unsigned char * | iv const unsigned char * | enc int

@@ -1,2 +1,0 @@
-struct TYPE_2__ | psa_jetsam_flags short | psa_priority int | psa_memlimit_active int | psa_memlimit_inactive int 
-function posix_spawnattr_setjetsam_ext int | attr int **__restrict | flags short | priority int | memlimit_active int | memlimit_inactive int

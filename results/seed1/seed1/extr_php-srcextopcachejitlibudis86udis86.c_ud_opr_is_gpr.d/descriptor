@@ -1,0 +1,2 @@
+struct ud_operand | type long | base long 
+function ud_opr_is_gpr int | opr const struct ud_operand *

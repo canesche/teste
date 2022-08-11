@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetmellanoxmlxswspectrum.c_mlxsw_sp_from_ptys_speed_duplex.d/extr_linuxdriversnetethernetmellanoxmlxswspectrum.c_mlxsw_sp_from_ptys_speed_duplex_O0::mlxsw_sp_from_ptys_speed_duplex(73)"
+  }
+]

@@ -1,0 +1,4 @@
+struct dt9812_rmw_byte | and_mask int | or_value int | address int 
+struct dt9812_private | device long 
+struct comedi_device | private struct dt9812_private * 
+function dt9812_configure_mux void | dev struct comedi_device * | rmw struct dt9812_rmw_byte * | channel int

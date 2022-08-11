@@ -1,0 +1,2 @@
+struct emac_instance | dummy int 
+function emac_rx_clk_default void | dev struct emac_instance *

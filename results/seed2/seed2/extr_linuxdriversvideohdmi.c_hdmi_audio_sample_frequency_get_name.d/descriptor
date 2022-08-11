@@ -1,0 +1,1 @@
+function hdmi_audio_sample_frequency_get_name const char * | freq enum hdmi_audio_sample_frequency

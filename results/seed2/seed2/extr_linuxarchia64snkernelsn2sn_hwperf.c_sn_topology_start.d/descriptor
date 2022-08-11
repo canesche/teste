@@ -1,0 +1,3 @@
+struct sn_hwperf_object_info | dummy int 
+struct seq_file | private struct sn_hwperf_object_info * 
+function sn_topology_start void * | s struct seq_file * | pos long *

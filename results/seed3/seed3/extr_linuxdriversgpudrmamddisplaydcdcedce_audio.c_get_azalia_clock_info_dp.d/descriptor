@@ -1,0 +1,3 @@
+struct azalia_clock_info | audio_dto_phase int | audio_dto_module int 
+struct audio_pll_info | dp_dto_source_clock_in_khz int 
+function get_azalia_clock_info_dp void | requested_pixel_clock_in_khz int | pll_info const struct audio_pll_info * | azalia_clock_info struct azalia_clock_info *

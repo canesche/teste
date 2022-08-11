@@ -1,0 +1,2 @@
+struct fdarray | nr_autogrow int | nr_alloc long | nr long | priv int * | entries int * 
+function fdarray__init void | fda struct fdarray * | nr_autogrow int

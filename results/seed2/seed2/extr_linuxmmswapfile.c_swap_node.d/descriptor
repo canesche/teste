@@ -1,0 +1,7 @@
+struct swap_info_struct | swap_file struct TYPE_7__ * | bdev struct block_device * 
+struct block_device | bd_disk struct TYPE_8__ * 
+struct TYPE_8__ | node_id int 
+struct TYPE_7__ | f_inode struct TYPE_6__ * 
+struct TYPE_6__ | i_sb struct TYPE_5__ * 
+struct TYPE_5__ | s_bdev struct block_device * 
+function swap_node int | p struct swap_info_struct *

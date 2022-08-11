@@ -1,0 +1,2 @@
+struct TYPE_3__ | type int 
+function EVP_MAC_nid int | mac const struct TYPE_3__ *

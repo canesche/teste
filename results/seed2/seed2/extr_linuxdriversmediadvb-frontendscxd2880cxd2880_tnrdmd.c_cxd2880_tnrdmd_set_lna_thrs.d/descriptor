@@ -1,0 +1,4 @@
+struct cxd2880_tnrdmd_lna_thrs_tbl_cable | dummy int 
+struct cxd2880_tnrdmd_lna_thrs_tbl_air | dummy int 
+struct cxd2880_tnrdmd | lna_thrs_tbl_cable struct cxd2880_tnrdmd_lna_thrs_tbl_cable * | lna_thrs_tbl_air struct cxd2880_tnrdmd_lna_thrs_tbl_air * 
+function cxd2880_tnrdmd_set_lna_thrs int | tnr_dmd struct cxd2880_tnrdmd * | tbl_air struct cxd2880_tnrdmd_lna_thrs_tbl_air * | tbl_cable struct cxd2880_tnrdmd_lna_thrs_tbl_cable *

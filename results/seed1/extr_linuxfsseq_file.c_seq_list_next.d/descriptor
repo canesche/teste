@@ -1,2 +1,0 @@
-struct list_head | next struct list_head * 
-function seq_list_next struct list_head * | v void * | head struct list_head * | ppos int *

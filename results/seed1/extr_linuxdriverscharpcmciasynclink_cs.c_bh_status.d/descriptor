@@ -1,2 +1,0 @@
-struct TYPE_3__ | cts_chkcount long | dcd_chkcount long | dsr_chkcount long | ri_chkcount long 
-function bh_status void | info struct TYPE_3__ *

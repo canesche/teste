@@ -1,5 +1,0 @@
-struct sway_node | type int | sway_workspace int * | sway_container struct TYPE_4__ * 
-struct TYPE_5__ | workspace int * | container struct TYPE_4__ * | node struct sway_node * 
-struct TYPE_6__ | handler_context struct TYPE_5__ 
-struct TYPE_4__ | workspace int * 
-function set_config_node void | node struct sway_node *

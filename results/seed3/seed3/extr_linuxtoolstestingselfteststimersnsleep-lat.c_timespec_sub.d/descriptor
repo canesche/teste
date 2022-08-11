@@ -1,0 +1,2 @@
+struct timespec | tv_sec long long | tv_nsec long long 
+function timespec_sub long long | a struct timespec | b struct timespec

@@ -1,0 +1,2 @@
+struct cosm_device | attr_group int 
+function cosm_sysfs_init void | cdev struct cosm_device *

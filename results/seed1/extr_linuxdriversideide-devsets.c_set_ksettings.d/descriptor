@@ -1,2 +1,0 @@
-struct TYPE_3__ | dev_flags int 
-function set_ksettings int | drive struct TYPE_3__ * | arg int

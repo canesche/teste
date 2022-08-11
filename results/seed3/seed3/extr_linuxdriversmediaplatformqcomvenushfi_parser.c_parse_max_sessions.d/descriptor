@@ -1,0 +1,3 @@
+struct venus_core | max_sessions_supported int 
+struct hfi_max_sessions_supported | max_sessions int 
+function parse_max_sessions void | core struct venus_core * | data const void *

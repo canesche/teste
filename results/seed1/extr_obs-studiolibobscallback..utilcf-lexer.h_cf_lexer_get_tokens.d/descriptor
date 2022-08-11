@@ -1,4 +1,0 @@
-struct cf_token | dummy int 
-struct TYPE_2__ | array struct cf_token * 
-struct cf_lexer | tokens struct TYPE_2__ 
-function cf_lexer_get_tokens struct cf_token * | lex struct cf_lexer *

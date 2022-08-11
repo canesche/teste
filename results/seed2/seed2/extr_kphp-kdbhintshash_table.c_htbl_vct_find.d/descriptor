@@ -1,0 +1,3 @@
+struct TYPE_4__ | size unsigned int | h struct TYPE_5__ ** 
+struct TYPE_5__ | key long long | next_entry struct TYPE_5__ * | data int 
+function htbl_vct_find int * | table struct TYPE_4__ * | key long long

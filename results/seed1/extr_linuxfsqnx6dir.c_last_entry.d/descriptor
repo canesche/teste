@@ -1,2 +1,0 @@
-struct inode | i_size unsigned long 
-function last_entry unsigned int | inode struct inode * | page_nr unsigned long

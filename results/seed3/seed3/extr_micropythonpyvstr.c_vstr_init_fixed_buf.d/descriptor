@@ -1,0 +1,2 @@
+struct TYPE_3__ | alloc unsigned long | buf char * | fixed_buf int | len long 
+function vstr_init_fixed_buf void | vstr struct TYPE_3__ * | alloc unsigned long | buf char *

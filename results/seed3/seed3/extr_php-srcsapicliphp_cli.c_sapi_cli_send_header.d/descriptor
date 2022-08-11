@@ -1,0 +1,1 @@
+function sapi_cli_send_header void | sapi_header int * | server_context void *

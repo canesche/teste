@@ -1,0 +1,1 @@
+function i2c_check_7bit_addr_validity_strict int | addr unsigned short

@@ -1,4 +1,0 @@
-struct intel_engine_cs | id unsigned long 
-struct intel_context | dummy int 
-struct i915_gem_context | __engine struct intel_context * 
-function to_intel_context struct intel_context * | ctx struct i915_gem_context * | engine const struct intel_engine_cs *

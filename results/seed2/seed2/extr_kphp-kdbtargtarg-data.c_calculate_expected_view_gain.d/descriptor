@@ -1,0 +1,2 @@
+struct advert | expected_gain double 
+function calculate_expected_view_gain double | A struct advert * | user_ad_views int | user_id int

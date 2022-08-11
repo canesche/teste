@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_gitrefs..git-compat-util.h_git_is_dir_sep.d/extr_gitrefs..git-compat-util.h_git_is_dir_sep_O0::git_is_dir_sep(60)"
+  }
+]

@@ -1,0 +1,2 @@
+struct gru_instruction | avalue unsigned long 
+function gru_get_amo_value unsigned long | cb void *

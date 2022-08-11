@@ -1,0 +1,4 @@
+struct TYPE_2__ | GnbLPML long * 
+struct tonga_smumgr | power_tune_table struct TYPE_2__ 
+struct pp_hwmgr | smu_backend long 
+function tonga_populate_gnb_lpml int | hwmgr struct pp_hwmgr *

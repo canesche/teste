@@ -1,0 +1,1 @@
+function qat_alg_validate_key int | key_len int | alg int * | mode int

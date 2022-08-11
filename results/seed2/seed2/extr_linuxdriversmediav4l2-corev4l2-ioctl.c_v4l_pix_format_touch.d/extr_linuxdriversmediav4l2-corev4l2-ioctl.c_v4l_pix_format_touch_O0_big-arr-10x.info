@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediav4l2-corev4l2-ioctl.c_v4l_pix_format_touch.d/extr_linuxdriversmediav4l2-corev4l2-ioctl.c_v4l_pix_format_touch_O0::v4l_pix_format_touch(63)"
+  }
+]

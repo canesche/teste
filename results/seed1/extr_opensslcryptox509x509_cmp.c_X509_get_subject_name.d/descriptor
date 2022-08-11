@@ -1,3 +1,0 @@
-struct TYPE_4__ | subject int * 
-struct TYPE_5__ | cert_info struct TYPE_4__ 
-function X509_get_subject_name int * | a const struct TYPE_5__ *

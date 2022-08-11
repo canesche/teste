@@ -1,2 +1,0 @@
-struct TYPE_3__ | c_switch long | kperf_c_switch long 
-function kperf_thread_set_dirty void | thread struct TYPE_3__ * | dirty long

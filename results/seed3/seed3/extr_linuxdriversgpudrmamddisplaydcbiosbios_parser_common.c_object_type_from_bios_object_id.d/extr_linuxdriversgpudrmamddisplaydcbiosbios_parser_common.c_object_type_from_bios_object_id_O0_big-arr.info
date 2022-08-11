@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmamddisplaydcbiosbios_parser_common.c_object_type_from_bios_object_id.d/extr_linuxdriversgpudrmamddisplaydcbiosbios_parser_common.c_object_type_from_bios_object_id_O0::object_type_from_bios_object_id(75)"
+  }
+]

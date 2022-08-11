@@ -1,0 +1,2 @@
+struct file | dummy int 
+function tower_llseek int | file struct file * | off int | whence int

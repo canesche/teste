@@ -1,2 +1,0 @@
-struct nfs_server | port int | auth_info int | options int | caps int | acdirmax int | acdirmin int | acregmax int | acregmin int | wsize int | rsize int | flags int 
-function nfs_server_copy_userdata void | target struct nfs_server * | source struct nfs_server *

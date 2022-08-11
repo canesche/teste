@@ -1,2 +1,0 @@
-struct TYPE_3__ | __attr int 
-function pthread_mutexattr_settype int | a struct TYPE_3__ * | type int

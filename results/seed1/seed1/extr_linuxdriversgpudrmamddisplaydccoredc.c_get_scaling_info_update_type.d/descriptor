@@ -1,0 +1,12 @@
+struct TYPE_18__ | scaling_change int | bandwidth_change int | clock_change int | position_change int 
+struct surface_update_flags | bits struct TYPE_18__ 
+struct dc_surface_update | surface struct TYPE_17__ * | scaling_info struct TYPE_15__ * 
+struct TYPE_16__ | width long | height long | x long | y long 
+struct TYPE_13__ | width long | height long | x long | y long 
+struct TYPE_11__ | width long | height long | x long | y long 
+struct TYPE_17__ | dst_rect struct TYPE_16__ | clip_rect struct TYPE_13__ | src_rect struct TYPE_11__ | update_flags union surface_update_flags 
+struct TYPE_14__ | width long | height long | x long | y long 
+struct TYPE_12__ | width long | height long | x long | y long 
+struct TYPE_10__ | width long | height long | x long | y long 
+struct TYPE_15__ | dst_rect struct TYPE_14__ | clip_rect struct TYPE_12__ | src_rect struct TYPE_10__ 
+function get_scaling_info_update_type enum surface_update_type | u const struct dc_surface_update *

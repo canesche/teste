@@ -1,0 +1,2 @@
+struct TYPE_3__ | output_size long | output int * | output_end int * | out_str int * 
+function convert_glob_write_str void | out struct TYPE_3__ * | length long

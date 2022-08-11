@@ -1,0 +1,3 @@
+struct b43_wldev | dfsentry void * 
+struct b43_debugfs_fops | file_struct_offset int 
+function fops_to_dfs_file struct b43_dfs_file * | dev struct b43_wldev * | dfops const struct b43_debugfs_fops *

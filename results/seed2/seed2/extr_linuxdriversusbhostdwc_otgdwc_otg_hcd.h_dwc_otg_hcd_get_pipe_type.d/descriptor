@@ -1,0 +1,2 @@
+struct dwc_otg_hcd_pipe_info | pipe_type int 
+function dwc_otg_hcd_get_pipe_type int | pipe struct dwc_otg_hcd_pipe_info *

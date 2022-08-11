@@ -1,0 +1,2 @@
+struct tep_handle | host_bigendian int 
+function tep_is_host_bigendian int | pevent struct tep_handle *

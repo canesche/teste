@@ -1,1 +1,0 @@
-function _zip_unicode_to_utf8 int | codepoint int | buf int * | len int

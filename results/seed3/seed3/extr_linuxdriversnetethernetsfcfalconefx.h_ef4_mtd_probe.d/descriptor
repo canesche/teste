@@ -1,0 +1,2 @@
+struct ef4_nic | dummy int 
+function ef4_mtd_probe int | efx struct ef4_nic *

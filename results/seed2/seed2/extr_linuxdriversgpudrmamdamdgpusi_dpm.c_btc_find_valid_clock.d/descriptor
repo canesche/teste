@@ -1,0 +1,2 @@
+struct amdgpu_clock_array | count unsigned int | values long * 
+function btc_find_valid_clock long | clocks struct amdgpu_clock_array * | max_clock long | requested_clock long

@@ -1,2 +1,0 @@
-struct hid_usage | hid unsigned int 
-function match_scancode int | usage struct hid_usage * | cur_idx unsigned int | scancode unsigned int

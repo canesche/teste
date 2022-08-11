@@ -1,2 +1,0 @@
-struct kvm_vcpu | dummy int 
-function svm_load_eoi_exitmap void | vcpu struct kvm_vcpu * | eoi_exit_bitmap int *

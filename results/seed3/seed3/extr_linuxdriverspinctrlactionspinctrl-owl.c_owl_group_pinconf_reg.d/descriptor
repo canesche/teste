@@ -1,0 +1,2 @@
+struct owl_pingroup | sr_width int | sr_shift int | sr_reg int | drv_width int | drv_shift int | drv_reg int 
+function owl_group_pinconf_reg int | g const struct owl_pingroup * | param unsigned int | reg int * | bit int * | width int *

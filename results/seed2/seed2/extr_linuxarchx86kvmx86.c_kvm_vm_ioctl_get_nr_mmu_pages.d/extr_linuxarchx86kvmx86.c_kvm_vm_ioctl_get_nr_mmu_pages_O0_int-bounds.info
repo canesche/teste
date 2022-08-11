@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxarchx86kvmx86.c_kvm_vm_ioctl_get_nr_mmu_pages.d/extr_linuxarchx86kvmx86.c_kvm_vm_ioctl_get_nr_mmu_pages_O0::kvm_vm_ioctl_get_nr_mmu_pages(63)"
+  }
+]

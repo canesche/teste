@@ -1,0 +1,2 @@
+struct perf_data | mode long 
+function perf_data__is_read int | data struct perf_data *

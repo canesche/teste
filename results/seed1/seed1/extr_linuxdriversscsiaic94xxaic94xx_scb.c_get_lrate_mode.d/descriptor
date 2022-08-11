@@ -1,0 +1,5 @@
+struct sas_phy | minimum_linkrate int | maximum_linkrate int | minimum_linkrate_hw void * | maximum_linkrate_hw void * | negotiated_linkrate void * 
+struct TYPE_4__ | oob_mode int | linkrate void * | phy struct sas_phy * 
+struct asd_phy | sas_phy struct TYPE_4__ | phy_desc struct TYPE_3__ * 
+struct TYPE_3__ | min_sas_lrate int | max_sas_lrate int 
+function get_lrate_mode void | phy struct asd_phy * | oob_mode int

@@ -1,0 +1,6 @@
+struct TYPE_13__ | ist_index int 
+struct TYPE_12__ | file_index unsigned long | pts long | st struct TYPE_9__ * 
+struct TYPE_11__ | start_time long 
+struct TYPE_10__ | file_index unsigned long | source_index int | finished long 
+struct TYPE_9__ | index int 
+function check_output_constraints int | ist struct TYPE_12__ * | ost struct TYPE_10__ *

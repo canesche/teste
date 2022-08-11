@@ -1,0 +1,2 @@
+struct TYPE_3__ | hier_chset long | dmix_embedded long | primary_chset int 
+function is_hier_dmix_chset int | c struct TYPE_3__ *

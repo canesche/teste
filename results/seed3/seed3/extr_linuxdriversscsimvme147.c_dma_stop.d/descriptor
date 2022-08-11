@@ -1,0 +1,4 @@
+struct scsi_cmnd | dummy int 
+struct Scsi_Host | dummy int 
+struct TYPE_2__ | dma_cntrl long 
+function dma_stop void | instance struct Scsi_Host * | SCpnt struct scsi_cmnd * | status int

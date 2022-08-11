@@ -1,3 +1,0 @@
-struct ns2_led_priv | dummy int 
-struct ns2_led_data | dummy int 
-function sizeof_ns2_led_priv int | num_leds int

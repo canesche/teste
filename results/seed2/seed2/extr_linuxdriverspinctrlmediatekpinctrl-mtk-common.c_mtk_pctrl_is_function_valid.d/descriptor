@@ -1,0 +1,6 @@
+struct mtk_pinctrl | devdata struct TYPE_3__ * 
+struct TYPE_4__ | number long 
+struct mtk_desc_pin | functions struct mtk_desc_function * | pin struct TYPE_4__ 
+struct mtk_desc_function | muxval long | name long 
+struct TYPE_3__ | npins int | pins struct mtk_desc_pin * 
+function mtk_pctrl_is_function_valid int | pctl struct mtk_pinctrl * | pin_num long | fnum long

@@ -1,0 +1,5 @@
+struct TYPE_4__ | rasterizer_stream_idx long 
+struct TYPE_5__ | so_desc struct TYPE_4__ 
+struct TYPE_6__ | gs struct TYPE_5__ 
+struct wined3d_shader | u struct TYPE_6__ 
+function is_rasterization_disabled int | geometry_shader const struct wined3d_shader *

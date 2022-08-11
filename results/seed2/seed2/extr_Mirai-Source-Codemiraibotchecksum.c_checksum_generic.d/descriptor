@@ -1,0 +1,1 @@
+function checksum_generic unsigned long | addr unsigned long * | count int

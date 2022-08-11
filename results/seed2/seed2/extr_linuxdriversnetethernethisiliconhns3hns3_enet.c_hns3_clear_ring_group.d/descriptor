@@ -1,0 +1,2 @@
+struct hns3_enet_ring_group | count long | ring int * 
+function hns3_clear_ring_group void | group struct hns3_enet_ring_group *

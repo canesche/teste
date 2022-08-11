@@ -1,0 +1,1 @@
+function Curl_auth_digest_get_pair int | str const char * | value char * | content char * | endptr const char **

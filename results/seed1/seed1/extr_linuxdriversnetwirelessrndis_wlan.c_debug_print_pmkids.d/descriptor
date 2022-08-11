@@ -1,0 +1,3 @@
+struct usbnet | dummy int 
+struct ndis_80211_pmkid | dummy int 
+function debug_print_pmkids void | usbdev struct usbnet * | pmkids struct ndis_80211_pmkid * | func_str const char *

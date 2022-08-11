@@ -1,0 +1,2 @@
+struct snd_soc_dai_link | cpu_of_node long | platform_of_node long 
+function asoc_simple_card_canonicalize_dailink int | dai_link struct snd_soc_dai_link *

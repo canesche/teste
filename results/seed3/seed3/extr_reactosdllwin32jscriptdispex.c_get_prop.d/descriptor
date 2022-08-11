@@ -1,0 +1,3 @@
+struct TYPE_5__ | prop_cnt unsigned long | props struct TYPE_6__ * 
+struct TYPE_6__ | type long 
+function get_prop struct TYPE_6__ * | This struct TYPE_5__ * | id unsigned long

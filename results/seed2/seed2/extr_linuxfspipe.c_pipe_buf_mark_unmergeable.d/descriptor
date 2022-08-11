@@ -1,0 +1,2 @@
+struct pipe_buffer | ops int * 
+function pipe_buf_mark_unmergeable void | buf struct pipe_buffer *

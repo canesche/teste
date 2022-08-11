@@ -1,3 +1,0 @@
-struct link_encoder | dummy int 
-struct dc_stream_state | dummy int 
-function virtual_link_encoder_validate_output_with_stream int | enc struct link_encoder * | stream const struct dc_stream_state *

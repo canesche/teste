@@ -1,0 +1,1 @@
+function pm8001_write_32 void | addr void * | offset int | val int

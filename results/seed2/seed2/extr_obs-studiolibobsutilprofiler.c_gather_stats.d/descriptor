@@ -1,0 +1,3 @@
+struct TYPE_4__ | count double | time_delta double 
+struct TYPE_5__ | num unsigned long | array struct TYPE_4__ * 
+function gather_stats void | expected_time_between_calls double | entries struct TYPE_5__ * | calls double | percentile99 double * | median double * | percent_within_bounds double *

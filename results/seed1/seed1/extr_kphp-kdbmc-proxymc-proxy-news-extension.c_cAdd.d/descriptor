@@ -1,0 +1,2 @@
+struct collection | num int | A long long * 
+function cAdd void | C struct collection * | item int | owner int

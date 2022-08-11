@@ -1,6 +1,0 @@
-struct sway_workspace | output struct sway_output * 
-struct sway_output | dummy int 
-struct sway_node | type int | sway_output struct sway_output * | sway_workspace struct TYPE_4__ * | sway_container struct TYPE_3__ * 
-struct TYPE_4__ | output struct sway_output * 
-struct TYPE_3__ | workspace struct sway_workspace * 
-function node_get_output struct sway_output * | node struct sway_node *

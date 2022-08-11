@@ -1,0 +1,5 @@
+struct ccw_request | cp struct ccw1 * 
+struct ccw_device | private struct TYPE_2__ * 
+struct ccw1 | count int | flags long | cda void * | cmd_code int 
+struct TYPE_2__ | iccws struct ccw1 * | req struct ccw_request 
+function stlck_build_cp void | cdev struct ccw_device * | buf1 void * | buf2 void *

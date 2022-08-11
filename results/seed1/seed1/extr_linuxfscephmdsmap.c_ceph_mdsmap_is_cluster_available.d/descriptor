@@ -1,0 +1,3 @@
+struct ceph_mdsmap | m_num_laggy long | m_num_mds int | m_info struct TYPE_2__ * | m_damaged long | m_enabled int 
+struct TYPE_2__ | state long 
+function ceph_mdsmap_is_cluster_available int | m struct ceph_mdsmap *

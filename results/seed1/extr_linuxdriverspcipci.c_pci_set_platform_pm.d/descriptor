@@ -1,2 +1,0 @@
-struct pci_platform_pm_ops | need_resume int | set_wakeup int | choose_state int | get_state int | set_state int | is_manageable int 
-function pci_set_platform_pm int | ops const struct pci_platform_pm_ops *

@@ -1,2 +1,0 @@
-struct TYPE_2__ | local_free int * | local_calloc int * | local_realloc int * | local_malloc int * 
-function uv_replace_allocator int | malloc_func int * | realloc_func int * | calloc_func int * | free_func int *

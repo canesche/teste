@@ -1,3 +1,0 @@
-struct wlr_layer_surface_v1 | data struct sway_layer_surface * 
-struct sway_layer_surface | dummy int 
-function layer_from_wlr_layer_surface_v1 struct sway_layer_surface * | layer_surface struct wlr_layer_surface_v1 *

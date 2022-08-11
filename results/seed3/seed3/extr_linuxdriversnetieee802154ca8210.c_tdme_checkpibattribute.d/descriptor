@@ -1,0 +1,1 @@
+function tdme_checkpibattribute int | pib_attribute int | pib_attribute_length int | pib_attribute_value const void *

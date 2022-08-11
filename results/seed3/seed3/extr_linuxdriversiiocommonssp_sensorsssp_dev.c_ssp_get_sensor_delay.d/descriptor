@@ -1,0 +1,2 @@
+struct ssp_data | delay_buf int * 
+function ssp_get_sensor_delay int | data struct ssp_data * | type enum ssp_sensor_type

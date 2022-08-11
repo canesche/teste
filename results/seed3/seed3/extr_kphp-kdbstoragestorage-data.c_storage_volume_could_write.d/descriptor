@@ -1,0 +1,4 @@
+struct TYPE_7__ | binlogs int | B struct TYPE_6__ ** 
+struct TYPE_5__ | fails long 
+struct TYPE_6__ | fd_wronly long | st_fsync struct TYPE_5__ 
+function storage_volume_could_write int | V struct TYPE_7__ *

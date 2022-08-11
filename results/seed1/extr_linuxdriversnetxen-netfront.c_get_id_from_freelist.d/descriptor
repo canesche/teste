@@ -1,2 +1,0 @@
-struct skb_entry | link unsigned int 
-function get_id_from_freelist unsigned short | head unsigned int * | list union skb_entry *

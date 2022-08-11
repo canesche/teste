@@ -1,0 +1,2 @@
+struct TYPE_2__ | tolerance_cnt int | NHMCurRxOkcnt long | NHMCurTxOkcnt long | NHMLastRxOkcnt long | NHMLastTxOkcnt long | adaptivity_flag long 
+function odm_NHMBBInit void | pDM_VOID void *

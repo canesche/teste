@@ -1,0 +1,2 @@
+struct TYPE_3__ | nb_elements int 
+function cqueue_empty int | q struct TYPE_3__ *

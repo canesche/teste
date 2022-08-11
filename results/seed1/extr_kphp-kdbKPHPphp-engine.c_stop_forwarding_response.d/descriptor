@@ -1,2 +1,0 @@
-struct connection | dummy int 
-function stop_forwarding_response int | c struct connection *

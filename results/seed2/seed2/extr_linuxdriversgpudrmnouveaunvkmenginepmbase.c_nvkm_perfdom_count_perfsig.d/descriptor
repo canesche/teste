@@ -1,0 +1,3 @@
+struct nvkm_perfdom | signal_nr int | signal struct TYPE_2__ * 
+struct TYPE_2__ | name long 
+function nvkm_perfdom_count_perfsig long | dom struct nvkm_perfdom *

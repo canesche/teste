@@ -1,0 +1,1 @@
+function keyctl_get_persistent long | uid int | destring int

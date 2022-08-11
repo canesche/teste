@@ -1,0 +1,3 @@
+struct tea5764_regs | tnctrl int | frqset int 
+struct tea5764_device | regs struct tea5764_regs 
+function tea5764_set_freq void | radio struct tea5764_device * | freq int

@@ -1,0 +1,2 @@
+struct TYPE_2__ | flags int | eSubtype unsigned int 
+function sqlite3_value_subtype unsigned int | pVal int *

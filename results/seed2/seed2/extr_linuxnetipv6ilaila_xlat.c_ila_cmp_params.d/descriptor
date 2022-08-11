@@ -1,0 +1,4 @@
+struct ila_xlat_params | ifindex long 
+struct TYPE_2__ | ifindex long 
+struct ila_map | xp struct TYPE_2__ 
+function ila_cmp_params int | ila struct ila_map * | xp struct ila_xlat_params *

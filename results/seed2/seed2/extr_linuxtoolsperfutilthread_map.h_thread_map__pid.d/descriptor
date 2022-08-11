@@ -1,0 +1,3 @@
+struct thread_map | map struct TYPE_2__ * 
+struct TYPE_2__ | pid int 
+function thread_map__pid int | map struct thread_map * | thread int

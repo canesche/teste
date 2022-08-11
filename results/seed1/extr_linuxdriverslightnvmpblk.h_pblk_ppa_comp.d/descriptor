@@ -1,2 +1,0 @@
-struct ppa_addr | ppa long 
-function pblk_ppa_comp int | lppa struct ppa_addr | rppa struct ppa_addr

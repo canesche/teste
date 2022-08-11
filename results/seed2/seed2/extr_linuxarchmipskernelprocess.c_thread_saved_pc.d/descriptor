@@ -1,0 +1,4 @@
+struct thread_struct | reg31 unsigned long | reg29 long 
+struct task_struct | thread struct thread_struct 
+struct TYPE_2__ | pc_offset unsigned long 
+function thread_saved_pc unsigned long | tsk struct task_struct *

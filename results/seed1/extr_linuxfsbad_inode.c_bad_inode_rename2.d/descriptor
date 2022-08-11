@@ -1,3 +1,0 @@
-struct inode | dummy int 
-struct dentry | dummy int 
-function bad_inode_rename2 int | old_dir struct inode * | old_dentry struct dentry * | new_dir struct inode * | new_dentry struct dentry * | flags unsigned int

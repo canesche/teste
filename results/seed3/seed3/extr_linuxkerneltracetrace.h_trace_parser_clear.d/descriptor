@@ -1,0 +1,2 @@
+struct trace_parser | cont int | idx long 
+function trace_parser_clear void | parser struct trace_parser *

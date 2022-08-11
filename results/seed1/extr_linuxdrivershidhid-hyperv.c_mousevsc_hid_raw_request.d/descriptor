@@ -1,2 +1,0 @@
-struct hid_device | dummy int 
-function mousevsc_hid_raw_request int | hid struct hid_device * | report_num unsigned char | buf int * | len unsigned long | rtype unsigned char | reqtype int

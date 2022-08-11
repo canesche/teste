@@ -1,2 +1,0 @@
-struct ftl_stream | min_priority long | congestion float 
-function ftl_stream_congestion float | data void *

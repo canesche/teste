@@ -1,0 +1,6 @@
+struct team_port | queue_id int 
+struct TYPE_4__ | u32_val int 
+struct team_gsetter_ctx | data struct TYPE_4__ | info struct TYPE_3__ * 
+struct team | dummy int 
+struct TYPE_3__ | port struct team_port * 
+function team_queue_id_option_get int | team struct team * | ctx struct team_gsetter_ctx *

@@ -1,0 +1,3 @@
+struct track | type int | demuxer_id int 
+struct TYPE_3__ | num_tracks int | tracks struct track ** 
+function find_track_by_demuxer_id struct track * | mpctx struct TYPE_3__ * | type enum stream_type | demuxer_id int

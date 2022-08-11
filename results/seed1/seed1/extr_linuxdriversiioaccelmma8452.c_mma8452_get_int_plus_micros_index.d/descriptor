@@ -1,0 +1,1 @@
+function mma8452_get_int_plus_micros_index int | vals int const (*)[2] | n int | val int | val2 int

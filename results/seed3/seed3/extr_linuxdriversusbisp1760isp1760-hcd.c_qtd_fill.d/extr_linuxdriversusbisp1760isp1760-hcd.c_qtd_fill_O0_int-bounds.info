@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversusbisp1760isp1760-hcd.c_qtd_fill.d/extr_linuxdriversusbisp1760isp1760-hcd.c_qtd_fill_O0::qtd_fill(62)"
+  }
+]

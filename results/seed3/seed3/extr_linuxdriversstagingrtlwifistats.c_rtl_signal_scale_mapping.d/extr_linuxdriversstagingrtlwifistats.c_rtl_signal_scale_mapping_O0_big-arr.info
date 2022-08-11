@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 15,
+    phantoms: 9,
+    exit: true,
+    halt: false,
+    edges: 30,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversstagingrtlwifistats.c_rtl_signal_scale_mapping.d/extr_linuxdriversstagingrtlwifistats.c_rtl_signal_scale_mapping_O0::rtl_signal_scale_mapping(61)"
+  }
+]

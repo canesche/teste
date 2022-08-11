@@ -1,0 +1,4 @@
+struct selinux_mapping | num_perms unsigned int | perms int * 
+struct selinux_map | size unsigned long | mapping struct selinux_mapping * 
+struct av_decision | allowed int | auditallow int | auditdeny int 
+function map_decision void | map struct selinux_map * | tclass unsigned long | avd struct av_decision * | allow_unknown int

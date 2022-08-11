@@ -1,0 +1,10 @@
+struct TYPE_6__ | grp unsigned int | pu unsigned int | chk unsigned int | sec unsigned int 
+struct TYPE_5__ | ch unsigned int | lun unsigned int | blk unsigned int | pg unsigned int | pl unsigned int | sec unsigned int 
+struct TYPE_4__ | line unsigned int | is_cached long 
+struct ppa_addr | ppa long | m struct TYPE_6__ | g struct TYPE_5__ | c struct TYPE_4__ 
+struct nvm_addrf | ch_offset unsigned int | lun_offset unsigned int | chk_offset unsigned int | sec_offset unsigned int 
+struct pblk | addrf struct nvm_addrf | dev struct nvm_tgt_dev * 
+struct nvm_geo | version long 
+struct nvm_tgt_dev | geo struct nvm_geo 
+struct nvm_addrf_12 | ch_offset unsigned int | lun_offset unsigned int | blk_offset unsigned int | pg_offset unsigned int | pln_offset unsigned int | sec_offset unsigned int 
+function pblk_ppa64_to_ppa32 unsigned int | pblk struct pblk * | ppa64 struct ppa_addr

@@ -1,2 +1,0 @@
-struct xattr_handler | dummy int 
-function squashfs_xattr_handler const struct xattr_handler * | type int

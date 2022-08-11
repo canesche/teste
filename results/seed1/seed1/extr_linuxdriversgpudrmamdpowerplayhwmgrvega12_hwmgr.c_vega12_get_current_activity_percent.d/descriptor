@@ -1,0 +1,2 @@
+struct pp_hwmgr | dummy int 
+function vega12_get_current_activity_percent int | hwmgr struct pp_hwmgr * | activity_percent int *

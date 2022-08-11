@@ -1,4 +1,0 @@
-struct TYPE_4__ | nsymbols int | highest_frag_index int | symbols struct TYPE_3__ * 
-struct dsp_spos_instance | symbol_table struct TYPE_4__ 
-struct TYPE_3__ | deleted long 
-function find_free_symbol_index int | ins struct dsp_spos_instance *

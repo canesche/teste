@@ -1,2 +1,0 @@
-struct siox_device | dummy int 
-function siox_device_counter_error int | sdevice struct siox_device * | status_clean int

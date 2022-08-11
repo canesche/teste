@@ -1,0 +1,3 @@
+struct TYPE_6__ | fdwControl int | dwControlType int 
+struct TYPE_5__ | hmx long 
+function SndMixerIsDisplayControl int | Mixer struct TYPE_5__ * | Control struct TYPE_6__ *

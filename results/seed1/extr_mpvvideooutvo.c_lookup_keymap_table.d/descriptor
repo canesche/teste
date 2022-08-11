@@ -1,2 +1,0 @@
-struct mp_keymap | from int | to int 
-function lookup_keymap_table int | map const struct mp_keymap * | key int

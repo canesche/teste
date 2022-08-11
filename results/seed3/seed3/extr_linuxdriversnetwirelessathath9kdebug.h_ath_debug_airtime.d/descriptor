@@ -1,0 +1,3 @@
+struct ath_softc | dummy int 
+struct ath_node | dummy int 
+function ath_debug_airtime void | sc struct ath_softc * | an struct ath_node * | rx int | tx int

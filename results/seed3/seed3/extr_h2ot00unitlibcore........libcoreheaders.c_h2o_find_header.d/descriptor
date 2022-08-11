@@ -1,0 +1,4 @@
+struct TYPE_7__ | buf int 
+struct TYPE_8__ | size unsigned long | entries struct TYPE_6__ * 
+struct TYPE_6__ | name int * 
+function h2o_find_header unsigned long | headers const struct TYPE_8__ * | token const struct TYPE_7__ * | cursor unsigned long

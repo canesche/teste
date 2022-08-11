@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediadvb-frontendsdrx39xyjdrxj.c_frac_times1e6.d/extr_linuxdriversmediadvb-frontendsdrx39xyjdrxj.c_frac_times1e6_O0::frac_times1e6(61)"
+  }
+]

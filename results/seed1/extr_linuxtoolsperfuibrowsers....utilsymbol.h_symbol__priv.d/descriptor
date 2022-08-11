@@ -1,3 +1,0 @@
-struct symbol | dummy int 
-struct TYPE_2__ | priv_size int 
-function symbol__priv void * | sym struct symbol *

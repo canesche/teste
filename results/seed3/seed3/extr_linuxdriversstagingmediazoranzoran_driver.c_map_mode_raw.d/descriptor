@@ -1,0 +1,3 @@
+struct TYPE_2__ | num_buffers int | buffer_size int 
+struct zoran_fh | buffers struct TYPE_2__ | map_mode int 
+function map_mode_raw void | fh struct zoran_fh *

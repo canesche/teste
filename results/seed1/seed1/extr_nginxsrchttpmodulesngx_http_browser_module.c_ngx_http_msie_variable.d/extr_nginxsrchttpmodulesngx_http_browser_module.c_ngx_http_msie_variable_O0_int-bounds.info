@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_nginxsrchttpmodulesngx_http_browser_module.c_ngx_http_msie_variable.d/extr_nginxsrchttpmodulesngx_http_browser_module.c_ngx_http_msie_variable_O0::ngx_http_msie_variable(72)"
+  }
+]

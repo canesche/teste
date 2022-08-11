@@ -1,0 +1,4 @@
+struct st_h2o_http2client_stream_t | conn struct TYPE_4__ * 
+struct TYPE_3__ | sock int * 
+struct TYPE_4__ | super struct TYPE_3__ 
+function do_get_socket int * | _client int *

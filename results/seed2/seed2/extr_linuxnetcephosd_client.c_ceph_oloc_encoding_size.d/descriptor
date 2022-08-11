@@ -1,0 +1,3 @@
+struct ceph_object_locator | pool_ns struct TYPE_2__ * 
+struct TYPE_2__ | len int 
+function ceph_oloc_encoding_size int | oloc const struct ceph_object_locator *

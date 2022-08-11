@@ -1,0 +1,2 @@
+struct FsmInst | dummy int 
+function dout_ignore void | fsm struct FsmInst * | event int | arg void *

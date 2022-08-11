@@ -1,2 +1,0 @@
-struct desc_struct | type int 
-function seg_writable int | d struct desc_struct *

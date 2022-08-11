@@ -1,2 +1,0 @@
-struct TYPE_3__ | nal_pos unsigned long | nal_len int 
-function convert_h264_to_annexb void | p_buf int * | i_len unsigned long | i_nal_size unsigned long | state struct TYPE_3__ *

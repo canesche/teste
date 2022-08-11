@@ -1,2 +1,0 @@
-struct l2cap_ctrl | reqseq int | final int | sframe int | poll int | super int | sar int | txseq int 
-function __unpack_extended_control void | ext int | control struct l2cap_ctrl *

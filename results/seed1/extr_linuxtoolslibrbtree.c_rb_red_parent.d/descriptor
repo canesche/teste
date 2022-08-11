@@ -1,2 +1,0 @@
-struct rb_node | __rb_parent_color long 
-function rb_red_parent struct rb_node * | red struct rb_node *

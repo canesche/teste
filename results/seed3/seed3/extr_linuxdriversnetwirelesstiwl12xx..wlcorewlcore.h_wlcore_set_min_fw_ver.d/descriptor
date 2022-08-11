@@ -1,0 +1,2 @@
+struct wl1271 | min_sr_fw_ver unsigned int * | min_mr_fw_ver unsigned int * 
+function wlcore_set_min_fw_ver void | wl struct wl1271 * | chip unsigned int | iftype_sr unsigned int | major_sr unsigned int | subtype_sr unsigned int | minor_sr unsigned int | iftype_mr unsigned int | major_mr unsigned int | subtype_mr unsigned int | minor_mr unsigned int

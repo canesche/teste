@@ -1,3 +1,0 @@
-struct TYPE_2__ | tx_errors int | rx_errors int 
-struct net_device | stats struct TYPE_2__ 
-function hp100_misc_interrupt void | dev struct net_device *

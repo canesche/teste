@@ -1,0 +1,2 @@
+struct extended_attribute | flags int 
+function ea_indirect int | ea struct extended_attribute *

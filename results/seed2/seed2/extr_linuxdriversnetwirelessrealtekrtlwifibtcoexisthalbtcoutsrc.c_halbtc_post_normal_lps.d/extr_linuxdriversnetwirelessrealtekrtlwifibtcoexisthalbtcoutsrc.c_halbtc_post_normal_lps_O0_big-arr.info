@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessrealtekrtlwifibtcoexisthalbtcoutsrc.c_halbtc_post_normal_lps.d/extr_linuxdriversnetwirelessrealtekrtlwifibtcoexisthalbtcoutsrc.c_halbtc_post_normal_lps_O0::halbtc_post_normal_lps(63)"
+  }
+]

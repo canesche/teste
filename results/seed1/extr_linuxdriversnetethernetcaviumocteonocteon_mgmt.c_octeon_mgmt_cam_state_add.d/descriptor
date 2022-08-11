@@ -1,2 +1,0 @@
-struct octeon_mgmt_cam_state | cam int * | cam_index int | cam_mask unsigned long long 
-function octeon_mgmt_cam_state_add void | cs struct octeon_mgmt_cam_state * | addr unsigned char *

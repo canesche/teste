@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function rtl92ee_suspend void | hw struct ieee80211_hw *

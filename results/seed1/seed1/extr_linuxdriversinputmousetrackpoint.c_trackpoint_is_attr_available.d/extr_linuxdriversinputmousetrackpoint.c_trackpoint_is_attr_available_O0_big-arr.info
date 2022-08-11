@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversinputmousetrackpoint.c_trackpoint_is_attr_available.d/extr_linuxdriversinputmousetrackpoint.c_trackpoint_is_attr_available_O0::trackpoint_is_attr_available(75)"
+  }
+]

@@ -1,2 +1,0 @@
-struct device | dummy int 
-function fsl_ssi_writeable_reg int | dev struct device * | reg unsigned int

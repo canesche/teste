@@ -1,0 +1,2 @@
+struct cifs_tcon | dummy int 
+function cifs_fscache_release_super_cookie void | tcon struct cifs_tcon *

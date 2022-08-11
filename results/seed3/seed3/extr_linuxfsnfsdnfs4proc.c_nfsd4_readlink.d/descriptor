@@ -1,0 +1,5 @@
+struct TYPE_2__ | rl_fhp int * | rl_rqstp struct svc_rqst * 
+struct nfsd4_op_u | readlink struct TYPE_2__ 
+struct svc_rqst | dummy int 
+struct nfsd4_compound_state | current_fh int 
+function nfsd4_readlink int | rqstp struct svc_rqst * | cstate struct nfsd4_compound_state * | u union nfsd4_op_u *

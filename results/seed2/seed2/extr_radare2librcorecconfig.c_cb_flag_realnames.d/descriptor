@@ -1,0 +1,4 @@
+struct TYPE_6__ | i_value int 
+struct TYPE_5__ | flags struct TYPE_4__ * 
+struct TYPE_4__ | realnames int 
+function cb_flag_realnames int | user void * | data void *

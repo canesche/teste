@@ -1,0 +1,3 @@
+struct snd_rawmidi | private_data struct snd_emu10k1_midi * 
+struct snd_emu10k1_midi | rmidi int * | interrupt int * 
+function snd_emu10k1_midi_free void | rmidi struct snd_rawmidi *

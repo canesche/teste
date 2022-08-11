@@ -1,0 +1,2 @@
+struct fb_info | dummy int 
+function clps711x_fb_blank int | blank int | info struct fb_info *

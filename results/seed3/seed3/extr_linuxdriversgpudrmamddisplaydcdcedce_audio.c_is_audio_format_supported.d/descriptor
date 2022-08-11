@@ -1,0 +1,3 @@
+struct audio_info | mode_count unsigned long | modes struct TYPE_2__ * 
+struct TYPE_2__ | format_code int | channel_count long 
+function is_audio_format_supported int | audio_info const struct audio_info * | audio_format_code enum audio_format_code | format_index unsigned long *

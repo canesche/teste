@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_php-srcextmbstringlibmbflfiltersmbfilter_euc_kr.c_mbfl_filt_ident_euckr.d/extr_php-srcextmbstringlibmbflfiltersmbfilter_euc_kr.c_mbfl_filt_ident_euckr_O0::mbfl_filt_ident_euckr(63)"
+  }
+]

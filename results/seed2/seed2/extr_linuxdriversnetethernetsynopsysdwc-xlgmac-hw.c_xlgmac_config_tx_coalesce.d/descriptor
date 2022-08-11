@@ -1,0 +1,2 @@
+struct xlgmac_pdata | dummy int 
+function xlgmac_config_tx_coalesce int | pdata struct xlgmac_pdata *

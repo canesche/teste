@@ -1,1 +1,0 @@
-value(spi) == 10, value(is_ipv6) == 10, length(saddr) == 100, length(daddr) == 100, length(mdev) == 100, length(xfrm) == 100

@@ -1,1 +1,0 @@
-function cookie_verify int | ssl int * | cookie const unsigned char * | cookie_len unsigned int

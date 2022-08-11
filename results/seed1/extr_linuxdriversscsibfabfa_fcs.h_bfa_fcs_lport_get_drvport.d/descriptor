@@ -1,3 +1,0 @@
-struct bfad_port_s | dummy int 
-struct bfa_fcs_lport_s | bfad_port struct bfad_port_s * 
-function bfa_fcs_lport_get_drvport struct bfad_port_s * | port struct bfa_fcs_lport_s *

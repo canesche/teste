@@ -1,4 +1,0 @@
-struct TYPE_4__ | num_rates long 
-struct TYPE_3__ | num_rates long 
-struct wmi_peer_assoc_complete_arg | peer_mpdu_density int | peer_ht_rates struct TYPE_4__ | peer_legacy_rates struct TYPE_3__ 
-function ath10k_wmi_peer_assoc_check_arg int | arg const struct wmi_peer_assoc_complete_arg *

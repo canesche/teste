@@ -1,0 +1,3 @@
+struct mmphw_path_plat | dummy int 
+struct mmp_path | plat_data long 
+function path_to_path_plat struct mmphw_path_plat * | path struct mmp_path *

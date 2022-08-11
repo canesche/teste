@@ -1,0 +1,2 @@
+struct elf32_phdr | p_type long | p_flags int | p_memsz int 
+function q6v5_phdr_valid int | phdr const struct elf32_phdr *

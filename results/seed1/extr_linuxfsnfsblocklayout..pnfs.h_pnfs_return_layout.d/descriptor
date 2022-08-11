@@ -1,2 +1,0 @@
-struct inode | dummy int 
-function pnfs_return_layout int | ino struct inode *

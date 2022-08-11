@@ -1,0 +1,2 @@
+struct dscc4_dev_priv | scc_regs int * 
+function scc_readl int | dpriv struct dscc4_dev_priv * | offset int

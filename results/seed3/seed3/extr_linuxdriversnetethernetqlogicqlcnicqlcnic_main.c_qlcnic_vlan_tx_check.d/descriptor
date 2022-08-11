@@ -1,0 +1,4 @@
+struct qlcnic_hardware_context | capabilities int 
+struct qlcnic_adapter | pdev struct TYPE_2__ * | ahw struct qlcnic_hardware_context * 
+struct TYPE_2__ | device long 
+function qlcnic_vlan_tx_check int | adapter struct qlcnic_adapter *

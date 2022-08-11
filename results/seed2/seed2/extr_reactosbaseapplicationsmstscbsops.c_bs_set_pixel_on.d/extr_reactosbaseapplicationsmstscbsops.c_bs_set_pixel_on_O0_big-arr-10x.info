@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_reactosbaseapplicationsmstscbsops.c_bs_set_pixel_on.d/extr_reactosbaseapplicationsmstscbsops.c_bs_set_pixel_on_O0::bs_set_pixel_on(62)"
+  }
+]

@@ -1,0 +1,3 @@
+struct voice | flags int 
+struct sis7019 | voices struct voice * 
+function __sis_alloc_playback_voice struct voice * | sis struct sis7019 *

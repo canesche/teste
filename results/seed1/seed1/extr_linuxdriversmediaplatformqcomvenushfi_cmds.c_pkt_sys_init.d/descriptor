@@ -1,0 +1,3 @@
+struct TYPE_2__ | size int | pkt_type int 
+struct hfi_sys_init_pkt | arch_type int | hdr struct TYPE_2__ 
+function pkt_sys_init void | pkt struct hfi_sys_init_pkt * | arch_type int

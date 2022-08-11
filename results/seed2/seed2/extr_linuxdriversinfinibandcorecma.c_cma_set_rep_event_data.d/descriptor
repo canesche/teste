@@ -1,0 +1,5 @@
+struct TYPE_3__ | qp_num int | srq int | rnr_retry_count int | flow_control int | initiator_depth int | responder_resources int | private_data_len int | private_data void * 
+struct TYPE_4__ | conn struct TYPE_3__ 
+struct rdma_cm_event | param struct TYPE_4__ 
+struct ib_cm_rep_event_param | remote_qpn int | srq int | rnr_retry_count int | flow_control int | initiator_depth int | responder_resources int 
+function cma_set_rep_event_data void | event struct rdma_cm_event * | rep_data const struct ib_cm_rep_event_param * | private_data void *

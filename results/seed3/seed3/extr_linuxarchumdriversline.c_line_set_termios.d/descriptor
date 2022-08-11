@@ -1,0 +1,3 @@
+struct tty_struct | dummy int 
+struct ktermios | dummy int 
+function line_set_termios void | tty struct tty_struct * | old struct ktermios *

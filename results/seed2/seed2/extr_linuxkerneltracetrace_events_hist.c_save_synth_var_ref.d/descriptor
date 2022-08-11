@@ -1,0 +1,3 @@
+struct hist_trigger_data | n_var_refs unsigned long | var_refs struct hist_field ** | n_synth_var_refs int | synth_var_refs struct hist_field ** 
+struct hist_field | var_ref_idx int 
+function save_synth_var_ref void | hist_data struct hist_trigger_data * | var_ref struct hist_field *

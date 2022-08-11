@@ -1,1 +1,0 @@
-function lbs_auth_to_authtype int | auth_type enum nl80211_auth_type

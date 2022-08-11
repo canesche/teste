@@ -1,0 +1,6 @@
+struct vb2_queue | drv_priv struct fimc_lite * 
+struct flite_frame | f_width unsigned long | f_height unsigned long | fmt struct fimc_fmt * 
+struct fimc_lite | out_frame struct flite_frame 
+struct fimc_fmt | memplanes unsigned int | depth unsigned long * 
+struct device | dummy int 
+function queue_setup int | vq struct vb2_queue * | num_buffers unsigned int * | num_planes unsigned int * | sizes unsigned int [] | alloc_devs struct device *[]

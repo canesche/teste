@@ -1,0 +1,2 @@
+struct TYPE_3__ | offset int 
+function adjust_offset int | flag struct TYPE_3__ * | user void *

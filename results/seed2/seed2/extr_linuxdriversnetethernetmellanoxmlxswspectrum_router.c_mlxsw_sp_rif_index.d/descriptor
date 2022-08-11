@@ -1,0 +1,2 @@
+struct mlxsw_sp_rif | rif_index int 
+function mlxsw_sp_rif_index int | rif const struct mlxsw_sp_rif *

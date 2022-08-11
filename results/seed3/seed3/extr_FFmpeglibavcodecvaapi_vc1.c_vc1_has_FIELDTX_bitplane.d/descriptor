@@ -1,0 +1,3 @@
+struct TYPE_4__ | pict_type long 
+struct TYPE_5__ | fcm long | bi_type long | s struct TYPE_4__ | fieldtx_is_raw long 
+function vc1_has_FIELDTX_bitplane int | v const struct TYPE_5__ *

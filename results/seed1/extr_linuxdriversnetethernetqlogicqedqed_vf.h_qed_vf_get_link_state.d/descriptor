@@ -1,3 +1,0 @@
-struct qed_mcp_link_state | dummy int 
-struct qed_hwfn | dummy int 
-function qed_vf_get_link_state void | p_hwfn struct qed_hwfn * | link struct qed_mcp_link_state *

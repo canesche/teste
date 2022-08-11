@@ -1,0 +1,4 @@
+struct ladder_device | last_state_idx int | states struct TYPE_4__ * 
+struct TYPE_3__ | demotion_count long | promotion_count long 
+struct TYPE_4__ | stats struct TYPE_3__ 
+function ladder_do_selection void | ldev struct ladder_device * | old_idx int | new_idx int

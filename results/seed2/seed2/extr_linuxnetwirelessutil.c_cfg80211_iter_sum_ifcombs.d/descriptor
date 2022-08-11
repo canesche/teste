@@ -1,0 +1,2 @@
+struct ieee80211_iface_combination | dummy int 
+function cfg80211_iter_sum_ifcombs void | c const struct ieee80211_iface_combination * | data void *

@@ -1,1 +1,0 @@
-function is_intel_pmu_msr int | msr_index int | type int * | index int *

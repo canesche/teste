@@ -1,0 +1,5 @@
+struct gpio_chip | can_sleep int | base unsigned int | ngpio int | owner int | parent int * | label int | get int | set_multiple int | set int | direction_output int | direction_input int 
+struct max732x_chip | dir_output unsigned int | dir_input unsigned int | mask_group_a unsigned int | client struct TYPE_2__ * | gpio_chip struct gpio_chip 
+struct i2c_device_id | driver_data unsigned long 
+struct TYPE_2__ | dev int | name int 
+function max732x_setup_gpio int | chip struct max732x_chip * | id const struct i2c_device_id * | gpio_start unsigned int

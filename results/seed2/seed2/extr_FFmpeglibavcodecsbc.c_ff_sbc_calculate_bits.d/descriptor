@@ -1,0 +1,2 @@
+struct sbc_frame | subbands int | frequency unsigned long | mode long | channels int | allocation long | scale_factor int ** | bitpool int 
+function ff_sbc_calculate_bits void | frame const struct sbc_frame * | bits int (*)[8]

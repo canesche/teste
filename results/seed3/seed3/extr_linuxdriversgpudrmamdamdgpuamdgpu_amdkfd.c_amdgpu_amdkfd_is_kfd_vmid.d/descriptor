@@ -1,0 +1,2 @@
+struct amdgpu_device | kfd long 
+function amdgpu_amdkfd_is_kfd_vmid int | adev struct amdgpu_device * | vmid int

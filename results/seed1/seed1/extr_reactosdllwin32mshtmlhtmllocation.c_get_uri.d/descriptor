@@ -1,0 +1,5 @@
+struct TYPE_9__ | window struct TYPE_8__ * 
+struct TYPE_7__ | outer_window struct TYPE_6__ * 
+struct TYPE_8__ | base struct TYPE_7__ 
+struct TYPE_6__ | uri int * 
+function get_uri int * | This struct TYPE_9__ *

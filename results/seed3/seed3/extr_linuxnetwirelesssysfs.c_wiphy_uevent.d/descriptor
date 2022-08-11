@@ -1,0 +1,3 @@
+struct kobj_uevent_env | dummy int 
+struct device | dummy int 
+function wiphy_uevent int | dev struct device * | env struct kobj_uevent_env *

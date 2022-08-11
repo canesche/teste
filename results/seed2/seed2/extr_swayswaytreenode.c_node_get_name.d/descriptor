@@ -1,0 +1,6 @@
+struct sway_node | type int | sway_container struct TYPE_8__ * | sway_workspace struct TYPE_7__ * | sway_output struct TYPE_6__ * 
+struct TYPE_8__ | title char * 
+struct TYPE_7__ | name char * 
+struct TYPE_6__ | wlr_output struct TYPE_5__ * 
+struct TYPE_5__ | name char * 
+function node_get_name char * | node struct sway_node *

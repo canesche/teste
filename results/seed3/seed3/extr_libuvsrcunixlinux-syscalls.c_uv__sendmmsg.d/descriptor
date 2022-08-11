@@ -1,0 +1,2 @@
+struct uv__mmsghdr | dummy int 
+function uv__sendmmsg int | fd int | mmsg struct uv__mmsghdr * | vlen unsigned int | flags unsigned int

@@ -1,0 +1,4 @@
+struct mp_stream_info | dummy int 
+struct mp_filter | in struct TYPE_2__ * | stream_info struct mp_stream_info * 
+struct TYPE_2__ | parent struct mp_filter * 
+function mp_filter_find_stream_info struct mp_stream_info * | f struct mp_filter *

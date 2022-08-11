@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmfsl-dcufsl_dcu_drm_drv.c_fsl_dcu_drm_is_volatile_reg.d/extr_linuxdriversgpudrmfsl-dcufsl_dcu_drm_drv.c_fsl_dcu_drm_is_volatile_reg_O0::fsl_dcu_drm_is_volatile_reg(63)"
+  }
+]

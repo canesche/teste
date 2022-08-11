@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_h2odepsmrubymrbgemsmruby-compilercorecodegen.c_no_optimize.d/extr_h2odepsmrubymrbgemsmruby-compilercorecodegen.c_no_optimize_O0::no_optimize(69)"
+  }
+]

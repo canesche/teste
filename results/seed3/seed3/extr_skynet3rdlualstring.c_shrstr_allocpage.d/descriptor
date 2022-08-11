@@ -1,0 +1,3 @@
+struct shrmap_slot | dummy int 
+struct shrmap | mask int | roslots int | readwrite struct shrmap_slot * | readonly struct shrmap_slot * 
+function shrstr_allocpage int | s struct shrmap * | osz int | sz int | newpage struct shrmap_slot *

@@ -1,0 +1,3 @@
+struct ata_port | port_no int 
+struct ata_device | devno long 
+function sil680_seldev unsigned long | ap struct ata_port * | adev struct ata_device * | r int

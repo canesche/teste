@@ -1,0 +1,2 @@
+struct i2c_msg | flags int 
+function qup_i2c_check_msg_len int | msg struct i2c_msg *

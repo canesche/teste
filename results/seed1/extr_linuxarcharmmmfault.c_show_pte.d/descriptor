@@ -1,2 +1,0 @@
-struct mm_struct | dummy int 
-function show_pte void | mm struct mm_struct * | addr unsigned long

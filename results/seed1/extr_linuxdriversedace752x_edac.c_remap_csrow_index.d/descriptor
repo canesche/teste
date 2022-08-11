@@ -1,3 +1,0 @@
-struct mem_ctl_info | pvt_info struct e752x_pvt * 
-struct e752x_pvt | map_type int 
-function remap_csrow_index int | mci struct mem_ctl_info * | index int

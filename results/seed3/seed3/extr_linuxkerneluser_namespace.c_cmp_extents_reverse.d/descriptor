@@ -1,0 +1,2 @@
+struct uid_gid_extent | lower_first long 
+function cmp_extents_reverse int | a const void * | b const void *

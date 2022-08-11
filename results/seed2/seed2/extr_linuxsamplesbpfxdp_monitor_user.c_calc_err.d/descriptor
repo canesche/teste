@@ -1,0 +1,2 @@
+struct datarec | err double 
+function calc_err double | r struct datarec * | p struct datarec * | period double

@@ -1,0 +1,2 @@
+struct bpf_raw_tracepoint_args | dummy int 
+function prog int | ctx struct bpf_raw_tracepoint_args *

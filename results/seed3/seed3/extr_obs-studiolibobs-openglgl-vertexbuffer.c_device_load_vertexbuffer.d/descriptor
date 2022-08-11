@@ -1,0 +1,2 @@
+struct TYPE_3__ | cur_vertex_buffer int * 
+function device_load_vertexbuffer void | device struct TYPE_3__ * | vb int *

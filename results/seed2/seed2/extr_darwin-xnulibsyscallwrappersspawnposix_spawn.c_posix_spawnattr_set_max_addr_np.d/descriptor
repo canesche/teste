@@ -1,0 +1,2 @@
+struct TYPE_2__ | psa_max_addr int 
+function posix_spawnattr_set_max_addr_np int | attr int *const *__restrict | max_addr int

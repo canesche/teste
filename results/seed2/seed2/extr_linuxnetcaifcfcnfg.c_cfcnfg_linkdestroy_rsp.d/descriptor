@@ -1,0 +1,2 @@
+struct cflayer | dummy int 
+function cfcnfg_linkdestroy_rsp void | layer struct cflayer * | channel_id int

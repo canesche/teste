@@ -1,1 +1,0 @@
-function pic_copyval void | channel int | dest int * | src const int *

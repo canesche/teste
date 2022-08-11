@@ -1,0 +1,2 @@
+struct TYPE_3__ | dequant4_coeff int ** 
+function init_dequant4_coeff_table void | s struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct ath6kl_usb | dummy int 
+function ath6kl_usb_get_logical_pipe_num int | ar_usb struct ath6kl_usb * | ep_address int | urb_count int *

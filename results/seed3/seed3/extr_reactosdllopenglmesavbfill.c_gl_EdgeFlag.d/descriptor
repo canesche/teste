@@ -1,0 +1,3 @@
+struct TYPE_4__ | EdgeFlag int 
+struct TYPE_5__ | Current struct TYPE_4__ 
+function gl_EdgeFlag void | ctx struct TYPE_5__ * | flag int

@@ -1,0 +1,2 @@
+struct hda_bus | dummy int 
+function snd_hda_set_power_save void | bus struct hda_bus * | delay int

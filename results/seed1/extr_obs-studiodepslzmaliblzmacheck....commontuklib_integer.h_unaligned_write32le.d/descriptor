@@ -1,1 +1,0 @@
-function unaligned_write32le void | buf int * | num int

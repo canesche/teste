@@ -1,4 +1,0 @@
-struct s921_state | currentfreq int 
-struct dvb_frontend | demodulator_priv struct s921_state * 
-struct dtv_frontend_properties | delivery_system int | frequency int 
-function s921_get_frontend int | fe struct dvb_frontend * | p struct dtv_frontend_properties *

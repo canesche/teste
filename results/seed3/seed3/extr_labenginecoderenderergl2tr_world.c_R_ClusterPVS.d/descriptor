@@ -1,0 +1,3 @@
+struct TYPE_4__ | world struct TYPE_3__ * 
+struct TYPE_3__ | numClusters int | clusterBytes int | vis const int * 
+function R_ClusterPVS const int * | cluster int

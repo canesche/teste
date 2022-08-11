@@ -1,0 +1,2 @@
+struct lpfc_vport | dummy int 
+function lpfc_debugfs_terminate void | vport struct lpfc_vport *

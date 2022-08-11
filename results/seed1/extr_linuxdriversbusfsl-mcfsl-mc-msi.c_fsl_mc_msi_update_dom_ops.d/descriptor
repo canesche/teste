@@ -1,3 +1,0 @@
-struct msi_domain_ops | set_desc long 
-struct msi_domain_info | ops struct msi_domain_ops * 
-function fsl_mc_msi_update_dom_ops void | info struct msi_domain_info *

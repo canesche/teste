@@ -1,0 +1,4 @@
+struct irq_data | domain struct TYPE_2__ * 
+struct evic_chip_data | dummy int 
+struct TYPE_2__ | host_data long 
+function irqd_to_priv struct evic_chip_data * | data struct irq_data *

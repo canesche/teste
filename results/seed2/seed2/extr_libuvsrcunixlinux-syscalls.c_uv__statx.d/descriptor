@@ -1,0 +1,2 @@
+struct uv__statx | dummy int 
+function uv__statx int | dirfd int | path const char * | flags int | mask unsigned int | statxbuf struct uv__statx *

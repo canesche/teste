@@ -1,0 +1,2 @@
+struct vi_mqd | dummy int 
+function get_mqd struct vi_mqd * | mqd void *

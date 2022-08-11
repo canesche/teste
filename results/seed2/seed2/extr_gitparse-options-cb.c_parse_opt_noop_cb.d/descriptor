@@ -1,0 +1,2 @@
+struct option | dummy int 
+function parse_opt_noop_cb int | opt const struct option * | arg const char * | unset int

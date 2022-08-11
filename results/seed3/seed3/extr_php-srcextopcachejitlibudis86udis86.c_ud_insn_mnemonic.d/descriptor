@@ -1,0 +1,2 @@
+struct ud | mnemonic int 
+function ud_insn_mnemonic enum ud_mnemonic_code | u const struct ud *

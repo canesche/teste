@@ -1,0 +1,3 @@
+struct inode | i_sb struct TYPE_2__ * 
+struct TYPE_2__ | s_blocksize_bits int 
+function jbd2_journal_blocks_per_page int | inode struct inode *

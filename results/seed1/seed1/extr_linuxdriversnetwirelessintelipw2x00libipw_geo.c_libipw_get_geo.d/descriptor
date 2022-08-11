@@ -1,0 +1,3 @@
+struct libipw_geo | dummy int 
+struct libipw_device | geo const struct libipw_geo 
+function libipw_get_geo const struct libipw_geo * | ieee struct libipw_device *

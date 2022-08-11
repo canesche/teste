@@ -1,2 +1,0 @@
-struct rtmp_common | output const char * 
-function rtmp_common_get_output_type const char * | data void *

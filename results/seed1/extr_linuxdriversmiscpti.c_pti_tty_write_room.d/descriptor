@@ -1,2 +1,0 @@
-struct tty_struct | dummy int 
-function pti_tty_write_room int | tty struct tty_struct *

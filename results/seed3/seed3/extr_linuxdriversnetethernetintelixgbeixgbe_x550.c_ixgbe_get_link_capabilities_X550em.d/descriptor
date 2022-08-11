@@ -1,0 +1,4 @@
+struct TYPE_4__ | type int | speeds_supported int | media_type long | sfp_type long | nw_mng_if_sel int | multispeed_fiber long 
+struct TYPE_3__ | type int 
+struct ixgbe_hw | device_id int | phy struct TYPE_4__ | mac struct TYPE_3__ 
+function ixgbe_get_link_capabilities_X550em int | hw struct ixgbe_hw * | speed int * | autoneg int *

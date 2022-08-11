@@ -1,0 +1,2 @@
+struct push_buffer | fence int | pos int | size int 
+function host1x_pushbuffer_space int | pb struct push_buffer *

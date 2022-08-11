@@ -1,0 +1,1 @@
+function spl_iterator_count_apply int | iter int * | puser void *

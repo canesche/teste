@@ -1,0 +1,2 @@
+struct vega12_dpm_state | soft_min_level int | soft_max_level int | hard_min_level int | hard_max_level int 
+function vega12_init_dpm_state void | dpm_state struct vega12_dpm_state *

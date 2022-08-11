@@ -1,2 +1,0 @@
-struct ssusb_mtk | dummy int 
-function ssusb_otg_switch_exit void | ssusb struct ssusb_mtk *

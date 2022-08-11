@@ -1,0 +1,2 @@
+struct pebs_record_skl | tsx_tuning int | ax int 
+function intel_hsw_transaction int | pebs struct pebs_record_skl *

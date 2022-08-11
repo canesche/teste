@@ -1,4 +1,0 @@
-struct hclge_mac | speed int | duplex long 
-struct TYPE_2__ | mac struct hclge_mac 
-struct hclge_dev | hw struct TYPE_2__ 
-function hclge_check_speed_dup void | hdev struct hclge_dev * | duplex int | speed int

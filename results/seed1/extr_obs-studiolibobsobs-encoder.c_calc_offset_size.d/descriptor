@@ -1,2 +1,0 @@
-struct obs_encoder | blocksize unsigned long | samplerate long 
-function calc_offset_size unsigned long | encoder struct obs_encoder * | v_start_ts unsigned long long | a_start_ts unsigned long long

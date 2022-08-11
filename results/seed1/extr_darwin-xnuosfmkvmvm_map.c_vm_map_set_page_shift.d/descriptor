@@ -1,3 +1,0 @@
-struct TYPE_4__ | nentries long | page_shift int 
-struct TYPE_5__ | hdr struct TYPE_4__ 
-function vm_map_set_page_shift int | map struct TYPE_5__ * | pageshift int

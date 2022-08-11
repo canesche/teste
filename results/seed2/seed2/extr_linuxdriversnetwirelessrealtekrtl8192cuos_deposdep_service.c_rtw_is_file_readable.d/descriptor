@@ -1,0 +1,1 @@
+function rtw_is_file_readable int | path char *

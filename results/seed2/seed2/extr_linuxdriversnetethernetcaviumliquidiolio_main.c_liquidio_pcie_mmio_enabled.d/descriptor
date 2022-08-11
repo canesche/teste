@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function liquidio_pcie_mmio_enabled int | pdev struct pci_dev *

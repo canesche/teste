@@ -1,3 +1,0 @@
-struct TYPE_6__ | member_0 int | member_1 int | member_2 int | red int | green int | blue int 
-struct TYPE_5__ | blue long | green long | red long 
-function adaptColor struct TYPE_6__ | color struct TYPE_5__ * | percent int

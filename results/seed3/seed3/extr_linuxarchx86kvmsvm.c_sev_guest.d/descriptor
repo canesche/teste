@@ -1,0 +1,2 @@
+struct kvm | dummy int 
+function sev_guest int | kvm struct kvm *

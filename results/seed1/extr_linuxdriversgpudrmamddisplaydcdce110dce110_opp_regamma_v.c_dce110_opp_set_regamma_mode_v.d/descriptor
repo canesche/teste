@@ -1,2 +1,0 @@
-struct transform | dummy int 
-function dce110_opp_set_regamma_mode_v void | xfm struct transform * | mode enum opp_regamma

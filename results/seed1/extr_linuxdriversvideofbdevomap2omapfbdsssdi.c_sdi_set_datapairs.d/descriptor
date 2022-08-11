@@ -1,3 +1,0 @@
-struct omap_dss_device | dummy int 
-struct TYPE_2__ | datapairs int 
-function sdi_set_datapairs void | dssdev struct omap_dss_device * | datapairs int

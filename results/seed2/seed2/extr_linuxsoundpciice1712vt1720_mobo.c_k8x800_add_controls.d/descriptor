@@ -1,0 +1,2 @@
+struct snd_ice1712 | dummy int 
+function k8x800_add_controls int | ice struct snd_ice1712 *

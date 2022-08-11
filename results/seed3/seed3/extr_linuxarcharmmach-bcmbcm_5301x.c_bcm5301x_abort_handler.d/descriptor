@@ -1,0 +1,2 @@
+struct pt_regs | dummy int 
+function bcm5301x_abort_handler int | addr unsigned long | fsr unsigned int | regs struct pt_regs *

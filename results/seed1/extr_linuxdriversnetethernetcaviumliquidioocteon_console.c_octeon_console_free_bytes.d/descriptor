@@ -1,1 +1,0 @@
-function octeon_console_free_bytes int | buffer_size int | wr_idx int | rd_idx int

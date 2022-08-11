@@ -1,0 +1,2 @@
+struct exception_table_entry | insn unsigned long 
+function cmp_ex_search int | key const void * | elt const void *

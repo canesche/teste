@@ -1,0 +1,2 @@
+struct TYPE_5__ | prev struct TYPE_5__ * | next struct TYPE_5__ * 
+function ll_append_head void | head struct TYPE_5__ ** | curr struct TYPE_5__ * | tail struct TYPE_5__ **

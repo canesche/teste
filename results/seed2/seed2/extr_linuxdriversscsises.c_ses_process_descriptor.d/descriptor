@@ -1,0 +1,3 @@
+struct ses_component | addr int 
+struct enclosure_component | slot int | scratch struct ses_component * 
+function ses_process_descriptor void | ecomp struct enclosure_component * | desc unsigned char *

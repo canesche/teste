@@ -1,0 +1,2 @@
+struct iowait | starved_cnt long 
+function iowait_starve_clear void | pkts_sent int | w struct iowait *

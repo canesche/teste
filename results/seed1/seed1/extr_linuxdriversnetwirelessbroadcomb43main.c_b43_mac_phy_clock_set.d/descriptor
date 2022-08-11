@@ -1,0 +1,3 @@
+struct b43_wldev | dev struct TYPE_2__ * 
+struct TYPE_2__ | bus_type int 
+function b43_mac_phy_clock_set void | dev struct b43_wldev * | on int

@@ -1,0 +1,3 @@
+struct TYPE_4__ | AHBxENR int 
+struct TYPE_3__ | MODER int | OTYPER int | OSPEEDR int | PUPDR int | AFR int * 
+function mp_hal_pin_config void | port_pin int | mode int | pull int | alt int

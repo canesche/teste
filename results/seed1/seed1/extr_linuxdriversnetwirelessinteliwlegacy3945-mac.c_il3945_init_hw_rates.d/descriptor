@@ -1,0 +1,4 @@
+struct il_priv | dummy int 
+struct ieee80211_rate | bitrate int | hw_value int | hw_value_short int | flags int 
+struct TYPE_2__ | ieee int | plcp int 
+function il3945_init_hw_rates void | il struct il_priv * | rates struct ieee80211_rate *

@@ -1,0 +1,2 @@
+struct vdoa_ctx | dummy int 
+function vdoa_device_run void | ctx struct vdoa_ctx * | dst int | src int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxarchpowerpckvmbook3s_32_mmu.c_kvmppc_mmu_book3s_32_is_dcbz32.d/extr_linuxarchpowerpckvmbook3s_32_mmu.c_kvmppc_mmu_book3s_32_is_dcbz32_O0::kvmppc_mmu_book3s_32_is_dcbz32(61)"
+  }
+]

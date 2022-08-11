@@ -1,0 +1,1 @@
+function copy_emulation_prev int | src const int * | src_size unsigned long | dst int * | dst_offset int | dst_size unsigned long

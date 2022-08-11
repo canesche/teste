@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverss390charsclp_quiesce.c_sclp_quiesce_pm_event.d/extr_linuxdriverss390charsclp_quiesce.c_sclp_quiesce_pm_event_O0::sclp_quiesce_pm_event(72)"
+  }
+]

@@ -1,0 +1,6 @@
+struct ieee80211_supported_band | n_channels int | channels struct TYPE_4__ * 
+struct ath10k | hw struct TYPE_6__ * 
+struct TYPE_6__ | wiphy struct TYPE_5__ * 
+struct TYPE_5__ | bands struct ieee80211_supported_band ** 
+struct TYPE_4__ | center_freq int 
+function freq_to_idx int | ar struct ath10k * | freq int

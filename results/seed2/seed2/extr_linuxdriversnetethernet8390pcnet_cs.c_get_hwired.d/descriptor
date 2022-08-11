@@ -1,0 +1,4 @@
+struct pcmcia_device | priv struct net_device * 
+struct net_device | dev_addr long * 
+struct hw_info | dummy int 
+function get_hwired struct hw_info * | link struct pcmcia_device *

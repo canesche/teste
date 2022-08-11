@@ -1,0 +1,2 @@
+struct ath_hw | dummy int 
+function ar9003_hw_rtt_force_restore int | ah struct ath_hw *

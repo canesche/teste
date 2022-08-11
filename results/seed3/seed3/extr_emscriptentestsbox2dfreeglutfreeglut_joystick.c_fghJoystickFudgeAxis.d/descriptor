@@ -1,0 +1,2 @@
+struct TYPE_3__ | center float * | min float * | saturate float * | dead_band float * | max float * 
+function fghJoystickFudgeAxis float | joy struct TYPE_3__ * | value float | axis int

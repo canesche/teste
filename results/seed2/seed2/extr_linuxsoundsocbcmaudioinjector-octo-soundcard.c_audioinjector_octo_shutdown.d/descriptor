@@ -1,0 +1,10 @@
+struct snd_soc_pcm_runtime | codec_dai struct TYPE_11__ * | cpu_dai struct TYPE_13__ * 
+struct snd_pcm_substream | private_data struct snd_soc_pcm_runtime * 
+struct TYPE_8__ | channels_min int | channels_max int 
+struct TYPE_12__ | channels_min int | channels_max int 
+struct TYPE_14__ | capture struct TYPE_8__ | playback struct TYPE_12__ 
+struct TYPE_13__ | driver struct TYPE_14__ * 
+struct TYPE_11__ | driver struct TYPE_10__ * 
+struct TYPE_9__ | channels_max int 
+struct TYPE_10__ | capture struct TYPE_9__ 
+function audioinjector_octo_shutdown void | substream struct snd_pcm_substream *

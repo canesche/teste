@@ -1,0 +1,4 @@
+struct i40e_pfc_stats | priority_xon_2_xoff int | priority_xoff_tx int | priority_xon_tx int | priority_xoff_rx int | priority_xon_rx int 
+struct TYPE_2__ | priority_xon_2_xoff int * | priority_xoff_tx int * | priority_xon_tx int * | priority_xoff_rx int * | priority_xon_rx int * 
+struct i40e_pf | stats struct TYPE_2__ 
+function i40e_get_pfc_stats struct i40e_pfc_stats | pf struct i40e_pf * | i unsigned int

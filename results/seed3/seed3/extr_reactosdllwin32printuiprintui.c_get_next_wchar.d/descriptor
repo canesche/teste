@@ -1,0 +1,2 @@
+struct TYPE_3__ | pNextCharW char * | next_arg unsigned long | argc unsigned long | argv char ** 
+function get_next_wchar char | cx struct TYPE_3__ * | use_next_parameter long

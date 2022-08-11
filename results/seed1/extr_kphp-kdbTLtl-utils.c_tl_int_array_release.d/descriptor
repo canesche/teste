@@ -1,2 +1,0 @@
-struct tl_int_array | pos int 
-function tl_int_array_release void | a struct tl_int_array * | mark int

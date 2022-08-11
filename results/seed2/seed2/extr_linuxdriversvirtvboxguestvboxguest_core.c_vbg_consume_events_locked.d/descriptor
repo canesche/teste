@@ -1,0 +1,3 @@
+struct vbg_session | dummy int 
+struct vbg_dev | pending_events int 
+function vbg_consume_events_locked int | gdev struct vbg_dev * | session struct vbg_session * | event_mask int

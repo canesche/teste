@@ -1,0 +1,2 @@
+struct agp_bridge_data | dummy int 
+function alpha_core_agp_create_free_gatt_table int | a struct agp_bridge_data *

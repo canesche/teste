@@ -1,0 +1,3 @@
+struct ad7879_platform_data | dummy int 
+struct ad7879 | dummy int 
+function ad7879_gpio_add int | ts struct ad7879 * | pdata const struct ad7879_platform_data *

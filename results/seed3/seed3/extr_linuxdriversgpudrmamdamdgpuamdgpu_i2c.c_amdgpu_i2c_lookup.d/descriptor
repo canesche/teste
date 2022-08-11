@@ -1,0 +1,5 @@
+struct TYPE_2__ | i2c_id long 
+struct amdgpu_i2c_chan | rec struct TYPE_2__ 
+struct amdgpu_i2c_bus_rec | i2c_id long 
+struct amdgpu_device | i2c_bus struct amdgpu_i2c_chan ** 
+function amdgpu_i2c_lookup struct amdgpu_i2c_chan * | adev struct amdgpu_device * | i2c_bus const struct amdgpu_i2c_bus_rec *

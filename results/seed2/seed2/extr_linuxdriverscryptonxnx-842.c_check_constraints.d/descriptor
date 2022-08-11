@@ -1,0 +1,2 @@
+struct nx842_constraints | maximum long 
+function check_constraints void | c struct nx842_constraints *

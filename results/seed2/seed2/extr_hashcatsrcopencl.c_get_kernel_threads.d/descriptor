@@ -1,0 +1,4 @@
+struct TYPE_6__ | kernel_threads_min int | kernel_threads_max int | device_type int | kernel_preferred_wgs_multiple1 int | kernel_preferred_wgs_multiple4 int | kernel_preferred_wgs_multiple2 int | device_maxworkgroup_size int 
+struct TYPE_7__ | opts_type int | attack_exec long | opti_type int 
+struct TYPE_8__ | hashconfig struct TYPE_7__ * 
+function get_kernel_threads int | hashcat_ctx struct TYPE_8__ * | device_param const struct TYPE_6__ *

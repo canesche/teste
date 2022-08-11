@@ -1,1 +1,0 @@
-function stringw char * | buf char * | end char * | sw const char * | len int | field_width int | precision int | flags int

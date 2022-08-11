@@ -1,0 +1,2 @@
+struct snd_tea575x | dummy int 
+function fmr2_tea575x_set_direction void | tea struct snd_tea575x * | output int

@@ -1,2 +1,0 @@
-struct snd_pcm_substream | dummy int 
-function snd_pcm_oss_get_caps1 int | substream struct snd_pcm_substream * | res int

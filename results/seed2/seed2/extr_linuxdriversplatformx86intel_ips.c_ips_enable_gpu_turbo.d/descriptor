@@ -1,0 +1,2 @@
+struct ips_driver | __gpu_turbo_on int 
+function ips_enable_gpu_turbo void | ips struct ips_driver *

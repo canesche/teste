@@ -1,2 +1,0 @@
-struct gru_context_configuration_handle | dummy int 
-function get_cch struct gru_context_configuration_handle * | base void * | ctxnum int

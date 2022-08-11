@@ -1,1 +1,0 @@
-function base64_decode const char * | src const char * | src_sz unsigned long | dest char * | dest_capacity unsigned long | dest_sz unsigned long *

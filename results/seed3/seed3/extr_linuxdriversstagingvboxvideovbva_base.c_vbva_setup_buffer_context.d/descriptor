@@ -1,0 +1,2 @@
+struct vbva_buf_ctx | buffer_length void * | buffer_offset void * 
+function vbva_setup_buffer_context void | vbva_ctx struct vbva_buf_ctx * | buffer_offset void * | buffer_length void *

@@ -1,0 +1,2 @@
+struct cx2341x_mpeg_params | audio_properties int | audio_sampling_freq int | audio_mode int | audio_mode_extension int | audio_emphasis int | audio_crc int | capabilities int | audio_encoding int | audio_ac3_bitrate int | audio_l2_bitrate int 
+function cx2341x_calc_audio_properties void | params struct cx2341x_mpeg_params *

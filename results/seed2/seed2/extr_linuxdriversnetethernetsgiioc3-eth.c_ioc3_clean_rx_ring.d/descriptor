@@ -1,0 +1,4 @@
+struct sk_buff | data long 
+struct ioc3_private | rx_ci int | rx_pi unsigned long | rx_skbs struct sk_buff ** | rxr int * 
+struct ioc3_erxbuf | w0 long 
+function ioc3_clean_rx_ring void | ip struct ioc3_private *

@@ -1,2 +1,0 @@
-struct tmuxpeer | flags int 
-function proc_kill_peer void | peer struct tmuxpeer *

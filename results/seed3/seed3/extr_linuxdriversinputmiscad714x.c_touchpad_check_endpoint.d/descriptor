@@ -1,0 +1,6 @@
+struct ad714x_touchpad_plat | x_start_stage unsigned long | x_end_stage unsigned long | y_start_stage unsigned long | y_end_stage unsigned long 
+struct ad714x_touchpad_drv | left_ep int | left_ep_val int | right_ep int | right_ep_val int | top_ep int | top_ep_val int | bottom_ep int | bottom_ep_val int 
+struct ad714x_chip | sensor_val int * | sw struct TYPE_4__ * | hw struct TYPE_3__ * 
+struct TYPE_4__ | touchpad struct ad714x_touchpad_drv * 
+struct TYPE_3__ | touchpad struct ad714x_touchpad_plat * 
+function touchpad_check_endpoint int | ad714x struct ad714x_chip * | idx int

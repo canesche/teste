@@ -1,0 +1,2 @@
+struct pvr2_stream | r_count int 
+function pvr2_stream_get_ready_count int | sp struct pvr2_stream *

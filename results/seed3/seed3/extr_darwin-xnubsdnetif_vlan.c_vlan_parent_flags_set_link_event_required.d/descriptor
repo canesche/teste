@@ -1,0 +1,2 @@
+struct TYPE_3__ | vlp_flags int 
+function vlan_parent_flags_set_link_event_required void | vlp struct TYPE_3__ *

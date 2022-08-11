@@ -1,0 +1,1 @@
+function align_pointer_offset void | ptr unsigned char ** | base unsigned char * | align unsigned int

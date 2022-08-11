@@ -1,0 +1,2 @@
+struct tcf_block | offloadcnt int 
+function tcf_block_offload_in_use int | block struct tcf_block *

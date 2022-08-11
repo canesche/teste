@@ -1,0 +1,5 @@
+struct TYPE_4__ | cap int 
+struct TYPE_3__ | cap int 
+struct ieee80211_sta | vht_cap struct TYPE_4__ | ht_cap struct TYPE_3__ 
+struct ieee80211_hw | dummy int 
+function _rtl8821ae_get_ra_shortgi int | hw struct ieee80211_hw * | sta struct ieee80211_sta * | mac_id long

@@ -1,2 +1,0 @@
-struct rio_mport | dummy int 
-function rio_enable_rx_tx_port int | port struct rio_mport * | local int | destid int | hopcount int | port_num int

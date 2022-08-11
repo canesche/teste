@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxarchpowerpckerneltraps.c_emulate_isel.d/extr_linuxarchpowerpckerneltraps.c_emulate_isel_O0::emulate_isel(63)"
+  }
+]

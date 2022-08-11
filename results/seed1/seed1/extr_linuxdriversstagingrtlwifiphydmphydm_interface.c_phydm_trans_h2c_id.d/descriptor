@@ -1,0 +1,2 @@
+struct phy_dm_struct | dummy int 
+function phydm_trans_h2c_id int | dm struct phy_dm_struct * | phydm_h2c_id int

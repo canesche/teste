@@ -1,0 +1,2 @@
+struct thermal_cooling_device | dummy int 
+function throt_get_cdev_max_state int | cdev struct thermal_cooling_device * | max_state unsigned long *

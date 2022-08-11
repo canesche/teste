@@ -1,0 +1,2 @@
+struct NCR5380_hostdata | pdma_residual int 
+function generic_NCR5380_dma_residual int | hostdata struct NCR5380_hostdata *

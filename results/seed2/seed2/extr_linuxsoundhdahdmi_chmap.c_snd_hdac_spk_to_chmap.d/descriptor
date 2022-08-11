@@ -1,0 +1,2 @@
+struct channel_map_table | map int | spk_mask int 
+function snd_hdac_spk_to_chmap int | spk int

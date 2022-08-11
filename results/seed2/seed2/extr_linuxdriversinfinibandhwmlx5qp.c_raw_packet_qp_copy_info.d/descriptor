@@ -1,0 +1,5 @@
+struct mlx5_ib_sq | doorbell int * | sq int * 
+struct mlx5_ib_rq | doorbell int * | rq int * 
+struct mlx5_ib_raw_packet_qp | rq struct mlx5_ib_rq | sq struct mlx5_ib_sq 
+struct mlx5_ib_qp | db int | rq int | sq int 
+function raw_packet_qp_copy_info void | qp struct mlx5_ib_qp * | raw_packet_qp struct mlx5_ib_raw_packet_qp *

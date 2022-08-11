@@ -1,0 +1,2 @@
+struct onenand_chip | density_mask int 
+function onenand_block_address int | this struct onenand_chip * | block int

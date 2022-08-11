@@ -1,0 +1,3 @@
+struct seg6_lwt | dummy int 
+struct lwtunnel_state | data long 
+function seg6_lwt_lwtunnel struct seg6_lwt * | lwt struct lwtunnel_state *

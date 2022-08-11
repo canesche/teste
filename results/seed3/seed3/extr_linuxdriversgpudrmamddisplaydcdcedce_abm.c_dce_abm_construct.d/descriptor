@@ -1,0 +1,8 @@
+struct dce_abm_shift | dummy int 
+struct dce_abm_registers | dummy int 
+struct dce_abm_mask | dummy int 
+struct TYPE_2__ | LVTMA_PWRSEQ_REF_DIV_BL_PWM_REF_DIV long | BL_PWM_PERIOD_CNTL long | BL_PWM_CNTL2 long | BL_PWM_CNTL long 
+struct abm | stored_backlight_registers struct TYPE_2__ | funcs int * | ctx struct dc_context * 
+struct dce_abm | abm_mask const struct dce_abm_mask * | abm_shift const struct dce_abm_shift * | regs const struct dce_abm_registers * | base struct abm 
+struct dc_context | dummy int 
+function dce_abm_construct void | abm_dce struct dce_abm * | ctx struct dc_context * | regs const struct dce_abm_registers * | abm_shift const struct dce_abm_shift * | abm_mask const struct dce_abm_mask *

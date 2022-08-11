@@ -1,0 +1,2 @@
+struct TYPE_3__ | _key long | _value long 
+function getmappedvalue16 long | theTable const struct TYPE_3__ * | numElem int | character long

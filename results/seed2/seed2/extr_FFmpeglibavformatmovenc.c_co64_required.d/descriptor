@@ -1,0 +1,3 @@
+struct TYPE_5__ | entry int | data_offset long | cluster struct TYPE_4__ * 
+struct TYPE_4__ | pos long 
+function co64_required int | track const struct TYPE_5__ *

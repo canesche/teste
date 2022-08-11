@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversclkclk-versaclock5.c_vc5_map_index_to_output.d/extr_linuxdriversclkclk-versaclock5.c_vc5_map_index_to_output_O0::vc5_map_index_to_output(67)"
+  }
+]

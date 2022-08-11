@@ -1,0 +1,2 @@
+struct snd_korg1212 | cardState int 
+function snd_korg1212_setCardState void | korg1212 struct snd_korg1212 * | csState enum CardState

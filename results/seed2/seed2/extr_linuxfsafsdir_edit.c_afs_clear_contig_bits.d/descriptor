@@ -1,0 +1,3 @@
+struct TYPE_2__ | bitmap int * 
+struct afs_xdr_dir_block | hdr struct TYPE_2__ 
+function afs_clear_contig_bits void | block union afs_xdr_dir_block * | bit int | nr_slots unsigned int

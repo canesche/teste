@@ -1,2 +1,0 @@
-struct locfile | refct int 
-function locfile_retain struct locfile * | l struct locfile *

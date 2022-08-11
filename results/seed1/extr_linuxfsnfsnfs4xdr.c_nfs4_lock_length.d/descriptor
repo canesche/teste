@@ -1,2 +1,0 @@
-struct file_lock | fl_end long | fl_start long 
-function nfs4_lock_length long | fl struct file_lock *

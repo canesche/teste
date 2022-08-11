@@ -1,0 +1,2 @@
+struct box | count long | score long 
+function find_box_max_count struct box * | b struct box * | count int

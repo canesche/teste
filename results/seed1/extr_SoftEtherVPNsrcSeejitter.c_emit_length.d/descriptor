@@ -1,2 +1,0 @@
-struct TYPE_3__ | bpf_pc unsigned long | cur_ip int | refs int * 
-function emit_length void | stream struct TYPE_3__ * | value int | len long

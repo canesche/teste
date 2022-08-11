@@ -1,0 +1,6 @@
+struct TYPE_8__ | offset long | length long | msb_right long 
+struct TYPE_7__ | offset long | length long | msb_right long 
+struct TYPE_6__ | offset long | length long | msb_right long 
+struct TYPE_5__ | offset long | length long | msb_right long 
+struct fb_var_screeninfo | bits_per_pixel long | grayscale long | transp struct TYPE_8__ | blue struct TYPE_7__ | green struct TYPE_6__ | red struct TYPE_5__ 
+function drm_fb_pixel_format_equal int | var_1 const struct fb_var_screeninfo * | var_2 const struct fb_var_screeninfo *

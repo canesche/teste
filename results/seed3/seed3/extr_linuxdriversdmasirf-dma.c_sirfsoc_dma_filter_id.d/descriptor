@@ -1,0 +1,3 @@
+struct dma_chan | chan_id unsigned int | device struct TYPE_2__ * 
+struct TYPE_2__ | dev_id unsigned int 
+function sirfsoc_dma_filter_id int | chan struct dma_chan * | chan_id void *

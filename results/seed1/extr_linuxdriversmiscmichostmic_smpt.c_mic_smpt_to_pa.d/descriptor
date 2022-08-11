@@ -1,4 +1,0 @@
-struct mic_device | smpt struct TYPE_4__ * 
-struct TYPE_3__ | page_size int | base long 
-struct TYPE_4__ | info struct TYPE_3__ 
-function mic_smpt_to_pa long | mdev struct mic_device * | index int

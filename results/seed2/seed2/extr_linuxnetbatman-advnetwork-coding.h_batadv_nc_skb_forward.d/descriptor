@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct batadv_neigh_node | dummy int 
+function batadv_nc_skb_forward int | skb struct sk_buff * | neigh_node struct batadv_neigh_node *

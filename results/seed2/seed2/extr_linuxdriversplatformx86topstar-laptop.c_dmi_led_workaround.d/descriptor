@@ -1,0 +1,2 @@
+struct dmi_system_id | dummy int 
+function dmi_led_workaround int | id const struct dmi_system_id *

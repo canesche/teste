@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_darwin-xnubsddevarm64fasttrap_isa.c_condition_true.d/extr_darwin-xnubsddevarm64fasttrap_isa.c_condition_true_O0::condition_true(64)"
+  }
+]

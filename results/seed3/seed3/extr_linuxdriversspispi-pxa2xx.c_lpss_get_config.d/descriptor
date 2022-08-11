@@ -1,0 +1,3 @@
+struct lpss_config | dummy int 
+struct driver_data | ssp_type unsigned long 
+function lpss_get_config const struct lpss_config * | drv_data const struct driver_data *

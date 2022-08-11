@@ -1,0 +1,2 @@
+struct TYPE_2__ | CurrentBus long | CurrentTargetID long 
+function mptfc_FcDevPage0_cmp_func int | a const void * | b const void *

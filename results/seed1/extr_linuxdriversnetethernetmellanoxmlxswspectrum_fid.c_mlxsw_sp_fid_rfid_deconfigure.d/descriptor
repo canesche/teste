@@ -1,2 +1,0 @@
-struct mlxsw_sp_fid | dummy int 
-function mlxsw_sp_fid_rfid_deconfigure void | fid struct mlxsw_sp_fid *

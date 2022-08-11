@@ -1,0 +1,2 @@
+struct gb_light | dummy int 
+function gb_lights_light_v4l2_unregister void | light struct gb_light *

@@ -1,0 +1,2 @@
+struct dib0090_state | rf_ramp const int * 
+function dib0090_set_rframp void | state struct dib0090_state * | cfg const int *

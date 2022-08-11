@@ -1,0 +1,3 @@
+struct dpu_kms | dummy int 
+struct dentry | dummy int 
+function dpu_debugfs_vbif_init int | dpu_kms struct dpu_kms * | debugfs_root struct dentry *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | data int ** 
+function get_sample int | frame const struct TYPE_3__ * | sample int | format enum AVSampleFormat

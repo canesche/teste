@@ -1,0 +1,2 @@
+struct isdn_ppp_compressor | prev struct isdn_ppp_compressor * | next struct isdn_ppp_compressor * 
+function isdn_ppp_register_compressor int | ipc struct isdn_ppp_compressor *

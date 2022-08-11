@@ -1,0 +1,2 @@
+struct rtsx_chip | card_exist int | lun2card int * 
+function check_card_exist int | chip struct rtsx_chip * | lun unsigned int

@@ -1,4 +1,0 @@
-struct xfs_name | type int | len int | name int 
-struct TYPE_2__ | len int | name int 
-struct dentry | d_name struct TYPE_2__ 
-function xfs_dentry_to_name void | namep struct xfs_name * | dentry struct dentry *

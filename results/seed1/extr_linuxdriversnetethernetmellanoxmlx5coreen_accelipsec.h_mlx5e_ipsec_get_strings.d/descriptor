@@ -1,2 +1,0 @@
-struct mlx5e_priv | dummy int 
-function mlx5e_ipsec_get_strings int | priv struct mlx5e_priv * | data int *

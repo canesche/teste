@@ -1,0 +1,2 @@
+struct TYPE_4__ | dev_id long 
+function find_dbdev_id struct TYPE_4__ * | id long

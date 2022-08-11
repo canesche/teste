@@ -1,0 +1,2 @@
+struct snd_seq_timer_tick | resolution int | fraction unsigned long | cur_tick unsigned int 
+function snd_seq_timer_update_tick void | tick struct snd_seq_timer_tick * | resolution unsigned long

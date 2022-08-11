@@ -1,0 +1,2 @@
+struct ata_port | flags int 
+function pdc_sata_nr_ports unsigned int | ap const struct ata_port *

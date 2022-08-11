@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function batadv_bla_claim_table_seq_print_text int | seq struct seq_file * | offset void *

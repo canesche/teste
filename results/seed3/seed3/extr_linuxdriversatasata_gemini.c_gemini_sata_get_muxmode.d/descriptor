@@ -1,0 +1,2 @@
+struct sata_gemini | muxmode int 
+function gemini_sata_get_muxmode enum gemini_muxmode | sg struct sata_gemini *

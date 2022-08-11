@@ -1,2 +1,0 @@
-struct mei_wdt | dummy int 
-function dbgfs_unregister void | wdt struct mei_wdt *

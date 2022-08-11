@@ -1,0 +1,2 @@
+struct urlmatch_item | hostmatch_len long | pathmatch_len long | user_matched long 
+function cmp_matches int | a const struct urlmatch_item * | b const struct urlmatch_item *

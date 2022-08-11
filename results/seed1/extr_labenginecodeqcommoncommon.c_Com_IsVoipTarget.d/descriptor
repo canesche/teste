@@ -1,1 +1,0 @@
-function Com_IsVoipTarget int | voipTargets int * | voipTargetsSize int | clientNum int

@@ -1,0 +1,2 @@
+struct radeon_device | dummy int 
+function ci_get_lowest_enabled_level int | rdev struct radeon_device * | level_mask int

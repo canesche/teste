@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_hashcatdepsLZMA-SDKCLzmaDec.c_LzmaDec_InitDicAndState.d/extr_hashcatdepsLZMA-SDKCLzmaDec.c_LzmaDec_InitDicAndState_O0::LzmaDec_InitDicAndState(65)"
+  }
+]

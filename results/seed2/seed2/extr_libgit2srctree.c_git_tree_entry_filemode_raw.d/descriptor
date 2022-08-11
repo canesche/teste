@@ -1,0 +1,2 @@
+struct TYPE_3__ | attr int 
+function git_tree_entry_filemode_raw int | entry const struct TYPE_3__ *

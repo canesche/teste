@@ -1,0 +1,2 @@
+struct hptiop_hba | dummy int 
+function hptiop_internal_memalloc_itl int | hba struct hptiop_hba *

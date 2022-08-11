@@ -1,2 +1,0 @@
-struct b53_device | chip_id long 
-function is5301x int | dev struct b53_device *

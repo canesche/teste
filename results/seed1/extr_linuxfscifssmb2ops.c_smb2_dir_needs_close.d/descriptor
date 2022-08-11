@@ -1,2 +1,0 @@
-struct cifsFileInfo | invalidHandle int 
-function smb2_dir_needs_close int | cfile struct cifsFileInfo *

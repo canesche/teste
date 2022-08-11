@@ -1,0 +1,2 @@
+struct rtsx_chip | host_cmds_ptr long 
+function rtsx_get_cmd_data int * | chip struct rtsx_chip *

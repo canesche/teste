@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 123,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 382,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_FFmpeglibavcodecsnow_dwt.c_horizontal_compose53i.d/extr_FFmpeglibavcodecsnow_dwt.c_horizontal_compose53i_O0::horizontal_compose53i(61)"
+  }
+]

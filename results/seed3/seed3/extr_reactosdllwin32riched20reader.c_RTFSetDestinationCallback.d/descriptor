@@ -1,0 +1,2 @@
+struct TYPE_3__ | dcb int * 
+function RTFSetDestinationCallback void | info struct TYPE_3__ * | dest int | callback int

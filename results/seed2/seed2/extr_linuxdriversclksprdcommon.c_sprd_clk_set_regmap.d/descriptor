@@ -1,0 +1,4 @@
+struct sprd_clk_desc | num_clk_clks int | clk_clks struct sprd_clk_common ** 
+struct sprd_clk_common | regmap struct regmap * 
+struct regmap | dummy int 
+function sprd_clk_set_regmap void | desc const struct sprd_clk_desc * | regmap struct regmap *

@@ -1,0 +1,4 @@
+struct TYPE_6__ | frame_ready int | eof int 
+struct TYPE_5__ | frame_ready int | eof int 
+struct TYPE_7__ | v struct TYPE_6__ | has_video long | a struct TYPE_5__ | has_audio long 
+function mp_media_ready_to_start int | m struct TYPE_7__ *

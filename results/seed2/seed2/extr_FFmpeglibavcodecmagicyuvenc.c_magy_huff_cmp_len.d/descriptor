@@ -1,0 +1,2 @@
+struct TYPE_2__ | len int | sym int 
+function magy_huff_cmp_len int | a const void * | b const void *

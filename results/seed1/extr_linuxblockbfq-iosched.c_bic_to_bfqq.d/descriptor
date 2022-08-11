@@ -1,3 +1,0 @@
-struct bfq_queue | dummy int 
-struct bfq_io_cq | bfqq struct bfq_queue ** 
-function bic_to_bfqq struct bfq_queue * | bic struct bfq_io_cq * | is_sync int

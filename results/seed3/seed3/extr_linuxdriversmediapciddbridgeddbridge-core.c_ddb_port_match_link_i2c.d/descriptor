@@ -1,0 +1,4 @@
+struct ddb_port | lnr long | i2c struct TYPE_2__ * | dev struct ddb * 
+struct ddb | i2c_num unsigned long | i2c struct TYPE_2__ * 
+struct TYPE_2__ | link long 
+function ddb_port_match_link_i2c int | port struct ddb_port *

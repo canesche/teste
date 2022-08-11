@@ -1,0 +1,6 @@
+struct net_device | ml_priv struct adapter * 
+struct ethtool_coalesce | use_adaptive_rx_coalesce int | rate_sample_interval int | rx_coalesce_usecs int 
+struct TYPE_4__ | coalesce_enable int | sample_interval_usecs int | rx_coalesce_usecs int 
+struct TYPE_3__ | sge struct TYPE_4__ 
+struct adapter | params struct TYPE_3__ 
+function get_coalesce int | dev struct net_device * | c struct ethtool_coalesce *

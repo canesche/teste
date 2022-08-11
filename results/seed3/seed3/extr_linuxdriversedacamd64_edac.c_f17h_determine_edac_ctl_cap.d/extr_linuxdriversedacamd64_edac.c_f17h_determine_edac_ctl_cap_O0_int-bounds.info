@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversedacamd64_edac.c_f17h_determine_edac_ctl_cap.d/extr_linuxdriversedacamd64_edac.c_f17h_determine_edac_ctl_cap_O0::f17h_determine_edac_ctl_cap(72)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_2__ | status long | xpos int | ypos int | width int | height int | dirty int 
+function CIN_SetExtents void | handle int | x int | y int | w int | h int

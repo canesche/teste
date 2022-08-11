@@ -1,0 +1,2 @@
+struct cirrusfb_info | btype long 
+function is_laguna int | cinfo const struct cirrusfb_info *

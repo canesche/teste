@@ -1,0 +1,2 @@
+struct cdb | dummy int 
+function cdb_free void | c struct cdb *

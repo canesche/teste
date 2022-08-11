@@ -1,6 +1,0 @@
-struct xt_tgchk_param | family long | entryinfo struct ipt_entry * 
-struct TYPE_4__ | invflags int | proto int 
-struct TYPE_3__ | invflags int | proto int 
-struct ipt_entry | ipv6 struct TYPE_4__ | ip struct TYPE_3__ 
-struct ip6t_entry | ipv6 struct TYPE_4__ | ip struct TYPE_3__ 
-function xt_ct_find_proto int | par const struct xt_tgchk_param *

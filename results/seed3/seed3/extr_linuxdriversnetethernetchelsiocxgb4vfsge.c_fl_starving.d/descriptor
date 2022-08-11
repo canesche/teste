@@ -1,0 +1,4 @@
+struct sge_fl | avail long | pend_cred long 
+struct sge | fl_starve_thres long 
+struct adapter | sge struct sge 
+function fl_starving int | adapter const struct adapter * | fl const struct sge_fl *

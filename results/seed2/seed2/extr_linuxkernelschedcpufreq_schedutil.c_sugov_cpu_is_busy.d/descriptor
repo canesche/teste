@@ -1,0 +1,2 @@
+struct sugov_cpu | dummy int 
+function sugov_cpu_is_busy int | sg_cpu struct sugov_cpu *

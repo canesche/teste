@@ -1,4 +1,0 @@
-struct saa7164_unit | type long | id long | name char * 
-struct saa7164_dev | board unsigned long 
-struct TYPE_2__ | unit struct saa7164_unit * 
-function saa7164_unitid_name char * | dev struct saa7164_dev * | unitid long

@@ -1,0 +1,4 @@
+struct vnode | dummy int 
+struct TYPE_3__ | mo_pager_ops int * 
+struct TYPE_4__ | vnode_handle struct vnode * | vn_pgr_hdr struct TYPE_3__ 
+function vnode_pager_lookup_vnode struct vnode * | name long

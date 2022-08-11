@@ -1,0 +1,4 @@
+struct TYPE_3__ | ref_freq unsigned int 
+struct TYPE_4__ | pll struct TYPE_3__ 
+struct matrox_fb_info | features struct TYPE_4__ 
+function g450_mnp2vco unsigned int | minfo const struct matrox_fb_info * | mnp unsigned int

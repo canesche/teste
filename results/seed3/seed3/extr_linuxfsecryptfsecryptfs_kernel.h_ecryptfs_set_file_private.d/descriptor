@@ -1,0 +1,3 @@
+struct file | private_data struct ecryptfs_file_info * 
+struct ecryptfs_file_info | dummy int 
+function ecryptfs_set_file_private void | file struct file * | file_info struct ecryptfs_file_info *

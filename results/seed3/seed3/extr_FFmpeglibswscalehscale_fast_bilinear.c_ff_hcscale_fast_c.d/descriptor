@@ -1,0 +1,1 @@
+function ff_hcscale_fast_c void | c int * | dst1 unsigned int * | dst2 unsigned int * | dstWidth int | src1 const unsigned int * | src2 const unsigned int * | srcW int | xInc int

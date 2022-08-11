@@ -1,0 +1,3 @@
+struct fw_state | status int 
+struct fw_priv | fw_st struct fw_state 
+function __fw_state_check int | fw_priv struct fw_priv * | status enum fw_status

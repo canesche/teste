@@ -1,2 +1,0 @@
-struct ib_sa_query | flags int 
-function ib_sa_disable_local_svc void | query struct ib_sa_query *

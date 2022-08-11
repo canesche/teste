@@ -1,4 +1,0 @@
-struct TYPE_3__ | speed int | duplex int 
-struct ethtool_link_ksettings | base struct TYPE_3__ 
-struct TYPE_4__ | mask int | speed int 
-function mlxsw_sp_from_ptys_speed_duplex void | carrier_ok int | ptys_eth_proto int | cmd struct ethtool_link_ksettings *

@@ -1,0 +1,2 @@
+struct fc_rport_priv | rp_state unsigned long 
+function fc_rport_state const char * | rdata struct fc_rport_priv *

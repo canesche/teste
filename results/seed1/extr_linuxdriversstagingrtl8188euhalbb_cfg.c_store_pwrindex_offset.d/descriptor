@@ -1,3 +1,0 @@
-struct hal_data_8188e | MCSTxPowerLevelOriginalOffset long ** | pwrGroupCnt unsigned long 
-struct adapter | HalData struct hal_data_8188e * 
-function store_pwrindex_offset void | adapter struct adapter * | regaddr long | bitmask long | data long

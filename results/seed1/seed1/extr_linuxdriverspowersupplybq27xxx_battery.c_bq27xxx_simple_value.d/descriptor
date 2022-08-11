@@ -1,0 +1,2 @@
+struct power_supply_propval | intval int 
+function bq27xxx_simple_value int | value int | val union power_supply_propval *

@@ -1,0 +1,3 @@
+struct nilfs_transaction_info | ti_magic long | ti_flags unsigned int 
+struct TYPE_2__ | journal_info struct nilfs_transaction_info * 
+function nilfs_test_transaction_flag int | flag unsigned int

@@ -1,2 +1,0 @@
-struct svc_rqst | dummy int 
-function nfsd3_proc_null int | rqstp struct svc_rqst *

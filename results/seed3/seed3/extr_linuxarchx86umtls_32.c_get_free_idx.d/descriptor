@@ -1,0 +1,5 @@
+struct TYPE_4__ | tls_array struct TYPE_3__ * 
+struct thread_struct | arch struct TYPE_4__ 
+struct task_struct | thread struct thread_struct 
+struct TYPE_3__ | present int 
+function get_free_idx int | task struct task_struct *

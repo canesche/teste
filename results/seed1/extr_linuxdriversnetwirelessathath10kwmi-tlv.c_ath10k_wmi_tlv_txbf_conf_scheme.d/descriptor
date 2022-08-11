@@ -1,2 +1,0 @@
-struct ath10k | dummy int 
-function ath10k_wmi_tlv_txbf_conf_scheme enum wmi_txbf_conf | ar struct ath10k *

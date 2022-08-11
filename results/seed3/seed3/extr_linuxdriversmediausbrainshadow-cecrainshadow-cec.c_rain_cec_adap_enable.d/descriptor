@@ -1,0 +1,2 @@
+struct cec_adapter | dummy int 
+function rain_cec_adap_enable int | adap struct cec_adapter * | enable int

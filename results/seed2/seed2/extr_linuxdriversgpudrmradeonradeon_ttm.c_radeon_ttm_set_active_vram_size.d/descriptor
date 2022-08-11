@@ -1,0 +1,5 @@
+struct ttm_mem_type_manager | size int 
+struct TYPE_3__ | man struct ttm_mem_type_manager * 
+struct TYPE_4__ | bdev struct TYPE_3__ | initialized int 
+struct radeon_device | mman struct TYPE_4__ 
+function radeon_ttm_set_active_vram_size void | rdev struct radeon_device * | size int

@@ -1,0 +1,9 @@
+struct image_section_map | sidx unsigned long | fmap struct TYPE_14__ * 
+struct TYPE_8__ | NumberOfSections unsigned long 
+struct TYPE_9__ | FileHeader struct TYPE_8__ 
+struct TYPE_12__ | sect struct TYPE_11__ * | ntheader struct TYPE_9__ 
+struct TYPE_13__ | pe struct TYPE_12__ 
+struct TYPE_14__ | u struct TYPE_13__ 
+struct TYPE_10__ | VirtualAddress int 
+struct TYPE_11__ | shdr struct TYPE_10__ 
+function pe_get_map_rva int | ism const struct image_section_map *

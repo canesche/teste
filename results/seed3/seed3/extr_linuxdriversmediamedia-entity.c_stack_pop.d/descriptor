@@ -1,0 +1,4 @@
+struct media_graph | top unsigned long | stack struct TYPE_2__ * 
+struct media_entity | dummy int 
+struct TYPE_2__ | entity struct media_entity * 
+function stack_pop struct media_entity * | graph struct media_graph *

@@ -1,3 +1,0 @@
-struct drm_display_mode | hdisplay int 
-struct drm_connector | dummy int 
-function fsl_dcu_drm_connector_mode_valid int | connector struct drm_connector * | mode struct drm_display_mode *

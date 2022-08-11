@@ -1,0 +1,2 @@
+struct active_request_slot | in_use long 
+function closedown_active_slot void | slot struct active_request_slot *

@@ -1,2 +1,0 @@
-struct rcu_sync | gp_state int | gp_count int 
-function rcu_sync_enter_start void | rsp struct rcu_sync *

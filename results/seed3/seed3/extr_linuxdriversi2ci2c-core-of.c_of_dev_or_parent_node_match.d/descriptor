@@ -1,0 +1,3 @@
+struct device | of_node void * | parent struct TYPE_2__ * 
+struct TYPE_2__ | of_node void * 
+function of_dev_or_parent_node_match int | dev struct device * | data void *

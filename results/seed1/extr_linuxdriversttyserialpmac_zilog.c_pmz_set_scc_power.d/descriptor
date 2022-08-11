@@ -1,2 +1,0 @@
-struct uart_pmac_port | dummy int 
-function pmz_set_scc_power int | uap struct uart_pmac_port * | state int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpiogpio-104-idi-48.c_idi_48_gpio_get_direction.d/extr_linuxdriversgpiogpio-104-idi-48.c_idi_48_gpio_get_direction_O0::idi_48_gpio_get_direction(61)"
+  }
+]

@@ -1,0 +1,2 @@
+struct drm_display_mode | type int | flags int | clock long | hdisplay long | hsync_start long | hsync_end long | htotal long | vdisplay long | vsync_start long | vsync_end long | vtotal long 
+function drm_mode_validate_basic enum drm_mode_status | mode const struct drm_display_mode *

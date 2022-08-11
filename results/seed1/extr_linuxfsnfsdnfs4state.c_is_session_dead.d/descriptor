@@ -1,2 +1,0 @@
-struct nfsd4_session | se_flags int 
-function is_session_dead int | ses struct nfsd4_session *

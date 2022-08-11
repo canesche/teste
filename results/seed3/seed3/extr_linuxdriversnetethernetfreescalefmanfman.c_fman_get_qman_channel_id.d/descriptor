@@ -1,0 +1,4 @@
+struct fman | state struct TYPE_4__ * 
+struct TYPE_3__ | major int 
+struct TYPE_4__ | num_of_qman_channels int | qman_channel_base int | rev_info struct TYPE_3__ 
+function fman_get_qman_channel_id int | fman struct fman * | port_id int

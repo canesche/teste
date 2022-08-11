@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_swayswaydesktopxwayland.c_view_from_wlr_xwayland_surface.d/extr_swayswaydesktopxwayland.c_view_from_wlr_xwayland_surface_O0::view_from_wlr_xwayland_surface(62)"
+  }
+]

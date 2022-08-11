@@ -1,0 +1,4 @@
+struct ssi_priv | inuse long 
+struct snd_soc_dai | id unsigned long 
+struct snd_pcm_substream | dummy int 
+function ssi_shutdown void | substream struct snd_pcm_substream * | dai struct snd_soc_dai *

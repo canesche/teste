@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversstagingvc04_servicesvchiq-mmalmmal-vchiq.c_port_to_mmal_msg.d/extr_linuxdriversstagingvc04_servicesvchiq-mmalmmal-vchiq.c_port_to_mmal_msg_O0::port_to_mmal_msg(69)"
+  }
+]

@@ -1,0 +1,3 @@
+struct TYPE_2__ | log_sz int 
+struct mlx5_cqwq | fbc struct TYPE_2__ 
+function mlx5_cqwq_get_ctr_wrap_cnt int | wq struct mlx5_cqwq * | ctr int

@@ -1,0 +1,3 @@
+struct vmw_surface_dma | dummy int 
+struct vmw_surface | num_sizes int 
+function vmw_surface_dma_size int | srf const struct vmw_surface *

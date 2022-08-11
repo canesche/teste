@@ -1,0 +1,2 @@
+struct fw_card | dummy int 
+function dummy_read_phy_reg int | card struct fw_card * | address int

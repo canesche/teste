@@ -1,0 +1,3 @@
+struct TYPE_6__ | dwStyle int 
+struct TYPE_5__ | bottom int | top int | right int | left int 
+function get_rect_cx int | infoPtr const struct TYPE_6__ * | lpRect const struct TYPE_5__ *

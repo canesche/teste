@@ -1,2 +1,0 @@
-struct tcphdr | ack long | fin long | syn long | rst long 
-function get_conntrack_index unsigned int | tcph const struct tcphdr *

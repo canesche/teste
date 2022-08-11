@@ -1,0 +1,3 @@
+struct btf_type | dummy int 
+struct bpf_map | dummy int 
+function map_check_no_btf int | map const struct bpf_map * | key_type const struct btf_type * | value_type const struct btf_type *

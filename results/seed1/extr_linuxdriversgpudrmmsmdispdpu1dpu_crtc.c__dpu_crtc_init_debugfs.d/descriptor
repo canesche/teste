@@ -1,2 +1,0 @@
-struct drm_crtc | dummy int 
-function _dpu_crtc_init_debugfs int | crtc struct drm_crtc *

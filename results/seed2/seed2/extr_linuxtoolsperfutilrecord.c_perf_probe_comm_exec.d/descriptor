@@ -1,0 +1,3 @@
+struct TYPE_2__ | comm_exec int 
+struct perf_evsel | attr struct TYPE_2__ 
+function perf_probe_comm_exec void | evsel struct perf_evsel *

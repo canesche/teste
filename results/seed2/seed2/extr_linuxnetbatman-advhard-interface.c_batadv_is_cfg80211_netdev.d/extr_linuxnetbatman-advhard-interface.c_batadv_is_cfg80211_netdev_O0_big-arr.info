@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxnetbatman-advhard-interface.c_batadv_is_cfg80211_netdev.d/extr_linuxnetbatman-advhard-interface.c_batadv_is_cfg80211_netdev_O0::batadv_is_cfg80211_netdev(61)"
+  }
+]

@@ -1,0 +1,2 @@
+struct resource | desc long 
+function __ioremap_check_desc_other int | res struct resource *

@@ -1,0 +1,5 @@
+struct TYPE_3__ | end long | start long | control long 
+struct TYPE_4__ | per_user struct TYPE_3__ 
+struct task_struct | thread struct TYPE_4__ 
+struct per_struct_kernel | ending_addr int | starting_addr int | cr9 int 
+function __poke_user_per void | child struct task_struct * | addr long | data long

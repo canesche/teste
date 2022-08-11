@@ -1,0 +1,4 @@
+struct sun4i_usb_phy_data | id_det_irq long | vbus_det_irq long | phys struct TYPE_3__ * | vbus_power_supply long | cfg struct TYPE_4__ * | vbus_det_gpio long | id_det_gpio long 
+struct TYPE_4__ | type long 
+struct TYPE_3__ | regulator_on long 
+function sun4i_usb_phy0_poll int | data struct sun4i_usb_phy_data *

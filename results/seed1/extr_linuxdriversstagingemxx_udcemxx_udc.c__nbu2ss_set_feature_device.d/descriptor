@@ -1,2 +1,0 @@
-struct nbu2ss_udc | remote_wakeup int 
-function _nbu2ss_set_feature_device int | udc struct nbu2ss_udc * | selector int | wIndex int

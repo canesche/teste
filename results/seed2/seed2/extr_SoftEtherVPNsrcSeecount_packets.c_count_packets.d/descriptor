@@ -1,0 +1,3 @@
+struct TYPE_4__ | packets int | bytes int 
+struct TYPE_5__ | key_len int 
+function count_packets long | block int * | pkt_size long | data struct TYPE_5__ * | mem_ex int * | mem_data int *

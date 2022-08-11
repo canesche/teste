@@ -1,0 +1,5 @@
+struct TYPE_9__ | tv_nsec long | tv_sec long 
+struct TYPE_8__ | tv_nsec long | tv_sec long 
+struct TYPE_7__ | tv_nsec long | tv_sec long 
+struct TYPE_10__ | st_size long | st_mode long | st_uid long | st_gid long | st_ino long | st_dev long | st_flags long | st_gen long | st_birthtim struct TYPE_9__ | st_mtim struct TYPE_8__ | st_ctim struct TYPE_7__ 
+function statbuf_eq int | a const struct TYPE_10__ * | b const struct TYPE_10__ *

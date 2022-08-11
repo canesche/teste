@@ -1,0 +1,4 @@
+struct net_device | dummy int 
+struct mlxsw_sp_mr_vif | dev const struct net_device * 
+struct mlxsw_sp_mr_table | vifs struct mlxsw_sp_mr_vif * 
+function mlxsw_sp_mr_dev_vif_lookup struct mlxsw_sp_mr_vif * | mr_table struct mlxsw_sp_mr_table * | dev const struct net_device *

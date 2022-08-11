@@ -1,0 +1,3 @@
+struct jbd_revoke_table_s | hash_shift int | hash_size int 
+struct TYPE_3__ | j_revoke struct jbd_revoke_table_s * 
+function hash int | journal struct TYPE_3__ * | block unsigned long

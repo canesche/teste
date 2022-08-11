@@ -1,0 +1,2 @@
+struct iwl_calib_hdr | groups_num int | data_valid int | first_group long | op_code int 
+function iwl_set_calib_hdr void | hdr struct iwl_calib_hdr * | cmd int

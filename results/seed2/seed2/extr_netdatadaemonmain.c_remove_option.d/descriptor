@@ -1,0 +1,1 @@
+function remove_option void | opt_index int | argc int * | argv char **

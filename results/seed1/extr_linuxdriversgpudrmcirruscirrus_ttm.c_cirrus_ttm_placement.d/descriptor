@@ -1,4 +1,0 @@
-struct TYPE_3__ | num_placement unsigned int | num_busy_placement unsigned int | busy_placement struct TYPE_4__ * | placement struct TYPE_4__ * 
-struct cirrus_bo | placements struct TYPE_4__ * | placement struct TYPE_3__ 
-struct TYPE_4__ | flags int | lpfn long | fpfn long 
-function cirrus_ttm_placement void | bo struct cirrus_bo * | domain int

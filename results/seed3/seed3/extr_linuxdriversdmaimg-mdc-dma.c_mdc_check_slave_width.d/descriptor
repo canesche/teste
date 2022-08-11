@@ -1,0 +1,4 @@
+struct TYPE_3__ | dst_addr_width int | src_addr_width int 
+struct mdc_chan | mdma struct TYPE_4__ * | config struct TYPE_3__ 
+struct TYPE_4__ | bus_width int 
+function mdc_check_slave_width int | mchan struct mdc_chan * | dir enum dma_transfer_direction

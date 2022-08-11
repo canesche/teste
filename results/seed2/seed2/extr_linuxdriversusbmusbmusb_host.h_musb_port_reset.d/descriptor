@@ -1,0 +1,2 @@
+struct musb | dummy int 
+function musb_port_reset void | musb struct musb * | do_reset int

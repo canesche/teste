@@ -1,0 +1,4 @@
+struct TYPE_2__ | pcie_dev_rdy long | pcie_perf_req long 
+struct amdgpu_atcs | functions struct TYPE_2__ 
+struct amdgpu_device | atcs struct amdgpu_atcs 
+function amdgpu_acpi_is_pcie_performance_request_supported int | adev struct amdgpu_device *

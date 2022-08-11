@@ -1,0 +1,1 @@
+function vprintk_nmi int | fmt const char * | args int

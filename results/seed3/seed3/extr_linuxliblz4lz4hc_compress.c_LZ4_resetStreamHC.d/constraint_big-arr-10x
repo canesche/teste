@@ -1,0 +1,1 @@
+value(compressionLevel) == 10, length(LZ4_streamHCPtr) == 100

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxarchpowerpcplatforms83xxsuspend.c_mpc83xx_suspend_begin.d/extr_linuxarchpowerpcplatforms83xxsuspend.c_mpc83xx_suspend_begin_O0::mpc83xx_suspend_begin(66)"
+  }
+]

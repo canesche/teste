@@ -1,2 +1,0 @@
-struct twl6040 | pll int | power_count long 
-function twl6040_get_pll int | twl6040 struct twl6040 *

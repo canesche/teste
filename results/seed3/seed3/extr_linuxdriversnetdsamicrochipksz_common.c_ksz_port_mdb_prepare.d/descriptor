@@ -1,0 +1,3 @@
+struct switchdev_obj_port_mdb | dummy int 
+struct dsa_switch | dummy int 
+function ksz_port_mdb_prepare int | ds struct dsa_switch * | port int | mdb const struct switchdev_obj_port_mdb *

@@ -1,0 +1,2 @@
+struct tgec_cfg | promiscuous_mode_enable int | pause_ignore int | pause_quant int | max_frame_length int | tx_ipg_length int 
+function set_dflts void | cfg struct tgec_cfg *

@@ -1,0 +1,2 @@
+struct map_event_t | id int 
+function _cmp_map_event_by_id int | a_ const void * | b_ const void *

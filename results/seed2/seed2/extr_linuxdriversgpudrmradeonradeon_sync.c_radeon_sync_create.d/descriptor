@@ -1,0 +1,2 @@
+struct radeon_sync | last_vm_update int * | sync_to int ** | semaphores int ** 
+function radeon_sync_create void | sync struct radeon_sync *

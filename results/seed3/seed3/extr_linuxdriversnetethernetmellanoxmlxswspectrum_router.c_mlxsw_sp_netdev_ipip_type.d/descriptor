@@ -1,0 +1,5 @@
+struct net_device | type long 
+struct mlxsw_sp_router | ipip_ops_arr struct mlxsw_sp_ipip_ops ** 
+struct mlxsw_sp_ipip_ops | dev_type long 
+struct mlxsw_sp | router struct mlxsw_sp_router * 
+function mlxsw_sp_netdev_ipip_type int | mlxsw_sp const struct mlxsw_sp * | dev const struct net_device * | p_type enum mlxsw_sp_ipip_type *

@@ -1,0 +1,2 @@
+struct sljit_compiler | error long 
+function sljit_set_compiler_memory_error void | compiler struct sljit_compiler *

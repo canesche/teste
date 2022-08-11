@@ -1,0 +1,2 @@
+struct pmcmsptwi_cfg | arbf int | nak int | add10 int | mst_code int | arb int | highspeed int 
+function pmcmsptwi_cfg_to_reg int | cfg const struct pmcmsptwi_cfg *

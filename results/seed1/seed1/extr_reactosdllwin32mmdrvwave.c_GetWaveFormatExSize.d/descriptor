@@ -1,0 +1,2 @@
+struct TYPE_3__ | wFormatTag long | cbSize int 
+function GetWaveFormatExSize int | format struct TYPE_3__ *

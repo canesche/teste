@@ -1,0 +1,3 @@
+struct TYPE_2__ | mapping long 
+struct drm_i915_gem_object | mm struct TYPE_2__ 
+function get_pin_mapped_flag char | obj struct drm_i915_gem_object *

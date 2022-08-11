@@ -1,2 +1,0 @@
-struct mp_image_pool | use_lru int 
-function mp_image_pool_set_lru void | pool struct mp_image_pool *

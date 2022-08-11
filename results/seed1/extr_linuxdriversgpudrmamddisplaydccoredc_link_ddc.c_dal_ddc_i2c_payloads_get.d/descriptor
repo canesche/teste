@@ -1,4 +1,0 @@
-struct TYPE_2__ | container long 
-struct i2c_payloads | payloads struct TYPE_2__ 
-struct i2c_payload | dummy int 
-function dal_ddc_i2c_payloads_get struct i2c_payload * | p struct i2c_payloads *

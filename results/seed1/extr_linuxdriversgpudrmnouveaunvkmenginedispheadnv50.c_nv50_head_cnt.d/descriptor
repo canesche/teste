@@ -1,2 +1,0 @@
-struct nvkm_disp | dummy int 
-function nv50_head_cnt int | disp struct nvkm_disp * | pmask unsigned long *

@@ -1,0 +1,4 @@
+struct TYPE_2__ | dma_fifo struct mlx5e_sq_dma * 
+struct mlx5e_txqsq | dma_fifo_mask unsigned long | db struct TYPE_2__ 
+struct mlx5e_sq_dma | dummy int 
+function mlx5e_dma_get struct mlx5e_sq_dma * | sq struct mlx5e_txqsq * | i unsigned long

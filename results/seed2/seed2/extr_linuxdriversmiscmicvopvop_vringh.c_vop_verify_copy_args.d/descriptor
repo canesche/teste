@@ -1,0 +1,4 @@
+struct vop_vdev | dd struct TYPE_2__ * 
+struct mic_copy_desc | vr_idx long 
+struct TYPE_2__ | num_vq long 
+function vop_verify_copy_args int | vdev struct vop_vdev * | copy struct mic_copy_desc *

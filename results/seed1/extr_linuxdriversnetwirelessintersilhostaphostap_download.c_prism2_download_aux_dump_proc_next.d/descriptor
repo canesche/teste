@@ -1,2 +1,0 @@
-struct seq_file | dummy int 
-function prism2_download_aux_dump_proc_next void * | m struct seq_file * | v void * | _pos long *

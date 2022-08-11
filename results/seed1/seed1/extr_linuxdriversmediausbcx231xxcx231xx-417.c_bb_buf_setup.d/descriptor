@@ -1,0 +1,5 @@
+struct videobuf_queue | priv_data struct cx231xx_fh * 
+struct cx231xx_fh | dev struct TYPE_4__ * 
+struct TYPE_3__ | ts_packet_size unsigned int | ts_packet_count unsigned int 
+struct TYPE_4__ | ts1 struct TYPE_3__ 
+function bb_buf_setup int | q struct videobuf_queue * | count unsigned int * | size unsigned int *

@@ -1,0 +1,4 @@
+struct TYPE_3__ | flags int 
+struct TYPE_4__ | conf struct TYPE_3__ 
+struct ieee80211_local | hw struct TYPE_4__ 
+function __ieee80211_idle_off int | local struct ieee80211_local *

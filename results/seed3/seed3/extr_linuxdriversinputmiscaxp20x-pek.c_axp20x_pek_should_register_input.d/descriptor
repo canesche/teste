@@ -1,0 +1,3 @@
+struct platform_device | dummy int 
+struct axp20x_pek | dummy int 
+function axp20x_pek_should_register_input int | axp20x_pek struct axp20x_pek * | pdev struct platform_device *

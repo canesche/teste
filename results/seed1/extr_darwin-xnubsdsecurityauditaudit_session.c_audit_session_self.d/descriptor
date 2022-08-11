@@ -1,2 +1,0 @@
-struct audit_session_self_args | dummy int 
-function audit_session_self int | p int | uap struct audit_session_self_args * | ret_port int *

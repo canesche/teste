@@ -1,0 +1,3 @@
+struct fb_info | dummy int 
+struct fb_copyarea | dummy int 
+function xxxfb_copyarea void | p struct fb_info * | area const struct fb_copyarea *

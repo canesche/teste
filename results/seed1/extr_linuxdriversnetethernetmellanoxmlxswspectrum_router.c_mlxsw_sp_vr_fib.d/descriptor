@@ -1,3 +1,0 @@
-struct mlxsw_sp_vr | fib6 struct mlxsw_sp_fib * | fib4 struct mlxsw_sp_fib * 
-struct mlxsw_sp_fib | dummy int 
-function mlxsw_sp_vr_fib struct mlxsw_sp_fib * | vr const struct mlxsw_sp_vr * | proto enum mlxsw_sp_l3proto

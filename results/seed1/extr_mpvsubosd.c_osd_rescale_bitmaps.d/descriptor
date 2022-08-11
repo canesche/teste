@@ -1,4 +1,0 @@
-struct sub_bitmaps | num_parts int | parts struct sub_bitmap * 
-struct sub_bitmap | x int | y int | dw int | w double | dh int | h double 
-struct mp_osd_res | w int | ml int | mr int | h int | mt int | mb int | display_par double 
-function osd_rescale_bitmaps void | imgs struct sub_bitmaps * | frame_w int | frame_h int | res struct mp_osd_res | compensate_par double

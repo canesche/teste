@@ -1,0 +1,3 @@
+struct TYPE_5__ | control int 
+struct TYPE_6__ | force_pe long 
+function hdcd_control void | ctx struct TYPE_6__ * | state struct TYPE_5__ * | peak_extend int * | target_gain int *

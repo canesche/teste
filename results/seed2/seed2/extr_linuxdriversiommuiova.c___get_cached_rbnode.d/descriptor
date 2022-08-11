@@ -1,0 +1,3 @@
+struct rb_node | dummy int 
+struct iova_domain | dma_32bit_pfn unsigned long | cached_node struct rb_node * | cached32_node struct rb_node * 
+function __get_cached_rbnode struct rb_node * | iovad struct iova_domain * | limit_pfn unsigned long

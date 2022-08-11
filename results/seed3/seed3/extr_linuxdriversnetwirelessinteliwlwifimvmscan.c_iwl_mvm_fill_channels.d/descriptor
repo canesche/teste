@@ -1,0 +1,5 @@
+struct iwl_mvm | nvm_data struct TYPE_3__ * 
+struct ieee80211_supported_band | n_channels int | channels struct TYPE_4__ * 
+struct TYPE_4__ | hw_value int 
+struct TYPE_3__ | bands struct ieee80211_supported_band * 
+function iwl_mvm_fill_channels void | mvm struct iwl_mvm * | channels int *

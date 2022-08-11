@@ -1,0 +1,2 @@
+struct memory_bitmap | dummy int 
+function count_highmem_image_pages unsigned int | bm struct memory_bitmap *

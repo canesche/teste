@@ -1,2 +1,0 @@
-struct oid_par_priv | dummy int 
-function oid_null_function int | poid_par_priv struct oid_par_priv *

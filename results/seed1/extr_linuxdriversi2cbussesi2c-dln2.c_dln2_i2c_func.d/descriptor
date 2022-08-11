@@ -1,2 +1,0 @@
-struct i2c_adapter | dummy int 
-function dln2_i2c_func int | a struct i2c_adapter *

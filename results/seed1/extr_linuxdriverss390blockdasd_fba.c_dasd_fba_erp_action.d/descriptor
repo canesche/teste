@@ -1,2 +1,0 @@
-struct dasd_ccw_req | dummy int 
-function dasd_fba_erp_action int | cqr struct dasd_ccw_req *

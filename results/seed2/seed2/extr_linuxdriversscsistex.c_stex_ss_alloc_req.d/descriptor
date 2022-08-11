@@ -1,0 +1,4 @@
+struct st_msg_header | dummy int 
+struct st_hba | req_head int | rq_size int | dma_mem long 
+struct req_msg | dummy int 
+function stex_ss_alloc_req struct req_msg * | hba struct st_hba *

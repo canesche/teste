@@ -1,0 +1,3 @@
+struct TYPE_4__ | uNeon int * 
+struct TYPE_5__ | machine struct TYPE_4__ 
+function get_user_neon_regs int * | thread struct TYPE_5__ *

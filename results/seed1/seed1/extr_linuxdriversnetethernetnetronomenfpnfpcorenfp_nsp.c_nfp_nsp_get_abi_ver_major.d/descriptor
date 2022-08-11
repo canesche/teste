@@ -1,0 +1,3 @@
+struct TYPE_2__ | major int 
+struct nfp_nsp | ver struct TYPE_2__ 
+function nfp_nsp_get_abi_ver_major int | state struct nfp_nsp *

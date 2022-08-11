@@ -1,3 +1,0 @@
-struct bset_tree | data long 
-struct bkey | dummy int 
-function bkey_to_cacheline unsigned int | t struct bset_tree * | k struct bkey *

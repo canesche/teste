@@ -1,0 +1,4 @@
+struct TYPE_4__ | toc_section unsigned long 
+struct module | arch struct TYPE_4__ 
+struct TYPE_5__ | sh_addr int 
+function my_r2 unsigned long | sechdrs const struct TYPE_5__ * | me struct module *

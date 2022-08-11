@@ -1,0 +1,2 @@
+struct mb_to_wc_fallback_locals | l_errno long | l_outbytesleft int | l_outbuf long 
+function mb_to_wc_write_replacement void | buf const int * | buflen unsigned long | callback_arg void *

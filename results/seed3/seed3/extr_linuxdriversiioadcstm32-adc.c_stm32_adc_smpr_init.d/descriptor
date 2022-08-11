@@ -1,0 +1,6 @@
+struct stm32_adc_regs | shift unsigned int | mask unsigned int | reg unsigned int 
+struct stm32_adc | smpr_val unsigned int * | cfg struct TYPE_6__ * | common struct TYPE_5__ * 
+struct TYPE_6__ | smp_cycles unsigned int * | regs struct TYPE_4__ * 
+struct TYPE_5__ | rate unsigned int 
+struct TYPE_4__ | smp_bits struct stm32_adc_regs * 
+function stm32_adc_smpr_init void | adc struct stm32_adc * | channel int | smp_ns unsigned int

@@ -1,2 +1,0 @@
-struct SMACK | symbol_count unsigned int | symbol_to_char unsigned int * | char_to_symbol unsigned char * 
-function smack_add_symbol unsigned int | smack struct SMACK * | c unsigned int

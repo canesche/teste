@@ -1,0 +1,2 @@
+struct lanai_dev | eeprom const int * 
+function eeprom_mac const int * | lanai const struct lanai_dev *

@@ -1,0 +1,2 @@
+struct mthca_dev | mthca_flags int 
+function async_mask int | dev struct mthca_dev *

@@ -1,0 +1,3 @@
+struct dasd_eckd_private | fcx_max_data long 
+struct dasd_device | private struct dasd_eckd_private * 
+function dasd_eckd_hpf_enabled int | device struct dasd_device *

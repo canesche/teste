@@ -1,0 +1,3 @@
+struct TYPE_2__ | scnt int 
+struct nilfs_sc_info | sc_stage struct TYPE_2__ 
+function nilfs_sc_cstage_get int | sci struct nilfs_sc_info *

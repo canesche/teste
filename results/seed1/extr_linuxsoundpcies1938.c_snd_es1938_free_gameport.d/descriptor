@@ -1,2 +1,0 @@
-struct es1938 | dummy int 
-function snd_es1938_free_gameport void | chip struct es1938 *

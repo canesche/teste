@@ -1,0 +1,2 @@
+struct TYPE_3__ | numFrames int 
+function PicoGetModelNumFrames int | model struct TYPE_3__ *

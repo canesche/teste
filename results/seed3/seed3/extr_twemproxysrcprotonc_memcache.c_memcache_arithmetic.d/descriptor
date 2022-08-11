@@ -1,0 +1,2 @@
+struct msg | type int 
+function memcache_arithmetic int | r struct msg *

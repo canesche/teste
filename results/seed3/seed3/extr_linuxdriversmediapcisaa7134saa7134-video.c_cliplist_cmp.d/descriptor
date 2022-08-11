@@ -1,0 +1,2 @@
+struct cliplist | position long 
+function cliplist_cmp int | a const void * | b const void *

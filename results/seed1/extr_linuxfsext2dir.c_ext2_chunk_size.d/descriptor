@@ -1,3 +1,0 @@
-struct inode | i_sb struct TYPE_2__ * 
-struct TYPE_2__ | s_blocksize int 
-function ext2_chunk_size unsigned int | inode struct inode *

@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function ceph_forget_all_cached_acls void | inode struct inode *

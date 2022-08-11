@@ -1,0 +1,4 @@
+struct pcl726_private | cmd_running int 
+struct comedi_subdevice | dummy int 
+struct comedi_device | private struct pcl726_private * 
+function pcl726_intr_cmd int | dev struct comedi_device * | s struct comedi_subdevice *

@@ -1,3 +1,0 @@
-struct rxe_queue | index_mask unsigned int | buf struct TYPE_2__ * 
-struct TYPE_2__ | data void * | log2_elem_size unsigned int 
-function addr_from_index void * | q struct rxe_queue * | index unsigned int

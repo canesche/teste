@@ -1,3 +1,0 @@
-struct cisco_state | dummy int 
-struct TYPE_3__ | state long 
-function state struct cisco_state * | hdlc struct TYPE_3__ *

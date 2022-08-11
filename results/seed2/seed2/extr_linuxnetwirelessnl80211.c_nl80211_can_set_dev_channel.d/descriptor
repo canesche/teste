@@ -1,0 +1,2 @@
+struct wireless_dev | iftype long 
+function nl80211_can_set_dev_channel int | wdev struct wireless_dev *

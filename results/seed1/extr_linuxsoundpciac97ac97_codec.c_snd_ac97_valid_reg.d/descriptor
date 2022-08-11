@@ -1,2 +1,0 @@
-struct snd_ac97 | id int 
-function snd_ac97_valid_reg int | ac97 struct snd_ac97 * | reg unsigned short

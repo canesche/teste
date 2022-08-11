@@ -1,0 +1,2 @@
+struct TYPE_3__ | channels unsigned long 
+function audio_output_get_channels unsigned long | audio const struct TYPE_3__ *

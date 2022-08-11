@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int | width int | precision int | type void * 
+function WPRINTF_ParseFormatW long | format char * | res struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct mtd_info | dummy int 
+function bcm47xxnflash_ops_bcm4706_select_chip void | mtd struct mtd_info * | chip int

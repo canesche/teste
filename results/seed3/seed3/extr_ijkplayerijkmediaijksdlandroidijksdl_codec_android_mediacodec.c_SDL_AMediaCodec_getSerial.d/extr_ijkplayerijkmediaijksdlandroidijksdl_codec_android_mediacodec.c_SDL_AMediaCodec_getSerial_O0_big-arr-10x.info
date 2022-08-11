@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_ijkplayerijkmediaijksdlandroidijksdl_codec_android_mediacodec.c_SDL_AMediaCodec_getSerial.d/extr_ijkplayerijkmediaijksdlandroidijksdl_codec_android_mediacodec.c_SDL_AMediaCodec_getSerial_O0::SDL_AMediaCodec_getSerial(63)"
+  }
+]

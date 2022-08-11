@@ -1,3 +1,0 @@
-struct TYPE_5__ | todo int | restart_interval int | eob_run long | marker int | img_comp struct TYPE_4__ * | nomore long | code_buffer long | code_bits long 
-struct TYPE_4__ | dc_pred long 
-function stbi__jpeg_reset void | j struct TYPE_5__ *

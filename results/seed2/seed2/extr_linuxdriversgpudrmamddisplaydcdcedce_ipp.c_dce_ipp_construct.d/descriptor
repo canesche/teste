@@ -1,0 +1,7 @@
+struct dce_ipp_shift | dummy int 
+struct dce_ipp_registers | dummy int 
+struct dce_ipp_mask | dummy int 
+struct TYPE_2__ | inst int | funcs int * | ctx struct dc_context * 
+struct dce_ipp | ipp_mask const struct dce_ipp_mask * | ipp_shift const struct dce_ipp_shift * | regs const struct dce_ipp_registers * | base struct TYPE_2__ 
+struct dc_context | dummy int 
+function dce_ipp_construct void | ipp_dce struct dce_ipp * | ctx struct dc_context * | inst int | regs const struct dce_ipp_registers * | ipp_shift const struct dce_ipp_shift * | ipp_mask const struct dce_ipp_mask *

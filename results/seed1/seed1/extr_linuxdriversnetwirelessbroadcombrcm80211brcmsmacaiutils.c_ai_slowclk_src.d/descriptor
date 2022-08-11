@@ -1,0 +1,3 @@
+struct si_pub | dummy int 
+struct bcma_device | dummy int 
+function ai_slowclk_src int | sih struct si_pub * | cc struct bcma_device *

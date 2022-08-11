@@ -1,2 +1,0 @@
-struct firmware | dummy int 
-function fw_is_builtin_firmware int | fw const struct firmware *

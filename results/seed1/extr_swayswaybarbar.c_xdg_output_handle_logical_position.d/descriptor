@@ -1,3 +1,0 @@
-struct zxdg_output_v1 | dummy int 
-struct swaybar_output | output_y void * | output_x void * 
-function xdg_output_handle_logical_position void | data void * | xdg_output struct zxdg_output_v1 * | x void * | y void *

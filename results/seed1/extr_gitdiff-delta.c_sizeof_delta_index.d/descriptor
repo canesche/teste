@@ -1,2 +1,0 @@
-struct delta_index | memsize unsigned long 
-function sizeof_delta_index unsigned long | index struct delta_index *

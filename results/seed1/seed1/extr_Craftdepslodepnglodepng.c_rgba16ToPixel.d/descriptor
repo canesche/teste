@@ -1,0 +1,2 @@
+struct TYPE_3__ | bitdepth int | colortype long 
+function rgba16ToPixel unsigned int | out unsigned char * | i unsigned long | mode const struct TYPE_3__ * | r unsigned short | g unsigned short | b unsigned short | a unsigned short

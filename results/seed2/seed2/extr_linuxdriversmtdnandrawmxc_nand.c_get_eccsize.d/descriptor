@@ -1,0 +1,2 @@
+struct mtd_info | oobsize int | writesize int 
+function get_eccsize int | mtd struct mtd_info *

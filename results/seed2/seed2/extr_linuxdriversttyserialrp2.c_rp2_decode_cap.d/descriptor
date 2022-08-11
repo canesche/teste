@@ -1,0 +1,2 @@
+struct pci_device_id | driver_data int 
+function rp2_decode_cap void | id const struct pci_device_id * | ports int * | smpte int *

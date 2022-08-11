@@ -1,0 +1,2 @@
+struct spi_nor_pp_command | proto int | opcode int 
+function spi_nor_set_pp_settings void | pp struct spi_nor_pp_command * | opcode int | proto enum spi_nor_protocol

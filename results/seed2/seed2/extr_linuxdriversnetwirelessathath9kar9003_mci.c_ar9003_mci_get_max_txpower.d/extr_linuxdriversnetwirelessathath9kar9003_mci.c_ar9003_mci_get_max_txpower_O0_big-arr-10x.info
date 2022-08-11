@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessathath9kar9003_mci.c_ar9003_mci_get_max_txpower.d/extr_linuxdriversnetwirelessathath9kar9003_mci.c_ar9003_mci_get_max_txpower_O0::ar9003_mci_get_max_txpower(71)"
+  }
+]

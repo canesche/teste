@@ -1,0 +1,3 @@
+struct nfc_target | idx long 
+struct nfc_dev | n_targets int | targets struct nfc_target * 
+function nfc_find_target struct nfc_target * | dev struct nfc_dev * | target_idx long

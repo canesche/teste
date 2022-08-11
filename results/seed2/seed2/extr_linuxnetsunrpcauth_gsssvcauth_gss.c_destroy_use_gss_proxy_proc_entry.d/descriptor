@@ -1,0 +1,2 @@
+struct net | dummy int 
+function destroy_use_gss_proxy_proc_entry void | net struct net *

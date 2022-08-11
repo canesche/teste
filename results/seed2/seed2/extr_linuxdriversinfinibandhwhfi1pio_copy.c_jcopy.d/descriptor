@@ -1,0 +1,1 @@
+function jcopy void | dest int * | src const int * | n int

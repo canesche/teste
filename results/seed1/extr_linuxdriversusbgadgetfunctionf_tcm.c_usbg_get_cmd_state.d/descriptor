@@ -1,2 +1,0 @@
-struct se_cmd | dummy int 
-function usbg_get_cmd_state int | se_cmd struct se_cmd *

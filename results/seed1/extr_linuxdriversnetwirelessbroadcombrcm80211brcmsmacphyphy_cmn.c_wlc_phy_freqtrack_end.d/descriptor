@@ -1,2 +1,0 @@
-struct brcms_phy_pub | dummy int 
-function wlc_phy_freqtrack_end void | pih struct brcms_phy_pub *

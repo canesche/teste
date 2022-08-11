@@ -1,0 +1,2 @@
+struct TYPE_3__ | used int | count int 
+function huff_smallest_node int | hnodes struct TYPE_3__ * | num_hnodes int

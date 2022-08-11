@@ -1,0 +1,3 @@
+struct vfsioattr | io_segreadcnt int | io_segwritecnt int | io_max_swappin_available long | io_flags long | io_devblocksize int | io_maxsegwritesize void * | io_maxsegreadsize void * | io_maxwritecnt void * | io_maxreadcnt void * | io_reserved int ** 
+struct TYPE_3__ | mnt_segreadcnt int | mnt_segwritecnt int | mnt_max_swappin_available long | mnt_ioflags long | mnt_devblocksize int | mnt_maxsegwritesize void * | mnt_maxsegreadsize void * | mnt_maxwritecnt void * | mnt_maxreadcnt void * 
+function vfs_ioattr void | mp struct TYPE_3__ * | ioattrp struct vfsioattr *

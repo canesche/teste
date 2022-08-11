@@ -1,0 +1,3 @@
+struct TYPE_5__ | instr unsigned int | code struct TYPE_4__ * 
+struct TYPE_4__ | instrs unsigned int 
+function instr_jmp void | ctx struct TYPE_5__ * | addr unsigned int

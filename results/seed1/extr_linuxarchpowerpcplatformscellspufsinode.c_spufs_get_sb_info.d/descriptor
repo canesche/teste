@@ -1,3 +1,0 @@
-struct super_block | s_fs_info struct spufs_sb_info * 
-struct spufs_sb_info | dummy int 
-function spufs_get_sb_info struct spufs_sb_info * | sb struct super_block *

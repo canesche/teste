@@ -1,4 +1,0 @@
-struct TYPE_8__ | operands struct TYPE_6__ * 
-struct TYPE_7__ | bits int | pc int 
-struct TYPE_6__ | type int | regs int * | offset int | reg int | offset_sign int 
-function oplea int | a struct TYPE_7__ * | data int * | op const struct TYPE_8__ *

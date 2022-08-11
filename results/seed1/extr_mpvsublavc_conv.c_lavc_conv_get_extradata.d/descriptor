@@ -1,2 +1,0 @@
-struct lavc_conv | extradata char * 
-function lavc_conv_get_extradata char * | priv struct lavc_conv *

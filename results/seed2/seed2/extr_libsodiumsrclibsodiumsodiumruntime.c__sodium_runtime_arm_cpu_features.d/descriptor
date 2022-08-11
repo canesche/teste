@@ -1,0 +1,2 @@
+struct TYPE_3__ | has_neon long 
+function _sodium_runtime_arm_cpu_features int | cpu_features struct TYPE_3__ *const

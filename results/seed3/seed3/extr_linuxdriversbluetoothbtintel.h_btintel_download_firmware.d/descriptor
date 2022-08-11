@@ -1,0 +1,3 @@
+struct hci_dev | dummy int 
+struct firmware | dummy int 
+function btintel_download_firmware int | dev struct hci_dev * | fw const struct firmware * | boot_param int *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | pos_to int | neg_to int | delmsg_list int * | delmsg_cnt int 
+function prune_list void | start int * | stop int * | pos_thr int | neg_thr int

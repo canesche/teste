@@ -1,0 +1,2 @@
+struct gl_lcms | dummy int 
+function gl_lcms_update_options void | p struct gl_lcms *

@@ -1,0 +1,2 @@
+struct wavefront_command | cmd int 
+function wavefront_get_command struct wavefront_command * | cmd int

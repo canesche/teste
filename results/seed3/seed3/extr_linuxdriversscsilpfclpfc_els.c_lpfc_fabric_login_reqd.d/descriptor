@@ -1,0 +1,5 @@
+struct TYPE_3__ | ulpWord long * 
+struct TYPE_4__ | ulpStatus long | un struct TYPE_3__ 
+struct lpfc_iocbq | iocb struct TYPE_4__ 
+struct lpfc_hba | dummy int 
+function lpfc_fabric_login_reqd int | phba struct lpfc_hba * | cmdiocb struct lpfc_iocbq * | rspiocb struct lpfc_iocbq *

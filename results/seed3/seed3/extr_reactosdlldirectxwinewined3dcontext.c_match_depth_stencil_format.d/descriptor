@@ -1,0 +1,2 @@
+struct wined3d_format | flags int * | depth_size long | stencil_size long 
+function match_depth_stencil_format int | existing const struct wined3d_format * | required const struct wined3d_format *

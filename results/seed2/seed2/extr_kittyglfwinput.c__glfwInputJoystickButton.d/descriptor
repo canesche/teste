@@ -1,0 +1,2 @@
+struct TYPE_3__ | buttons char * 
+function _glfwInputJoystickButton void | js struct TYPE_3__ * | button int | value char

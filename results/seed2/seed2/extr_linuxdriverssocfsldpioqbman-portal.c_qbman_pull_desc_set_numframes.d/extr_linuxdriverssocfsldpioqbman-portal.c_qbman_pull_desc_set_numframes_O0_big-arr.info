@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverssocfsldpioqbman-portal.c_qbman_pull_desc_set_numframes.d/extr_linuxdriverssocfsldpioqbman-portal.c_qbman_pull_desc_set_numframes_O0::qbman_pull_desc_set_numframes(62)"
+  }
+]

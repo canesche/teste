@@ -1,0 +1,2 @@
+struct pci_dev | class int 
+function tegra_pcie_fixup_class void | dev struct pci_dev *

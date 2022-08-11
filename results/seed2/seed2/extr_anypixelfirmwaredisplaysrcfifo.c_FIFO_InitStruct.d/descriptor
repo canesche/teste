@@ -1,0 +1,2 @@
+struct TYPE_3__ | overrun long | free void * | size void * | tail long | head long | buffer int * 
+function FIFO_InitStruct int | inStruct struct TYPE_3__ * | inBuf int * | inBufSize void *

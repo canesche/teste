@@ -1,0 +1,2 @@
+struct TYPE_3__ | currentIndex long | currentEntry int * 
+function DTRestartEntryIteration int | iter struct TYPE_3__ *

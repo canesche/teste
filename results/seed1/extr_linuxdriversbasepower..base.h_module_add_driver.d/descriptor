@@ -1,3 +1,0 @@
-struct module | dummy int 
-struct device_driver | dummy int 
-function module_add_driver void | mod struct module * | drv struct device_driver *

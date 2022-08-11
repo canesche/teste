@@ -1,2 +1,0 @@
-struct b43legacy_wldev | dummy int 
-function handle_irq_ucode_debug void | dev struct b43legacy_wldev *

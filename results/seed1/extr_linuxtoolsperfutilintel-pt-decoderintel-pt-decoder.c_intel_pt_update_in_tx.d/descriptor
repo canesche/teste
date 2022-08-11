@@ -1,3 +1,0 @@
-struct TYPE_2__ | payload int 
-struct intel_pt_decoder | tx_flags int | packet struct TYPE_2__ 
-function intel_pt_update_in_tx void | decoder struct intel_pt_decoder *

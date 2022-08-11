@@ -1,0 +1,4 @@
+struct ena_eth_io_rx_cdesc_base | dummy int 
+struct TYPE_2__ | virt_addr long 
+struct ena_com_io_cq | q_depth int | cdesc_entry_size_in_bytes int | cdesc_addr struct TYPE_2__ 
+function ena_com_rx_cdesc_idx_to_ptr struct ena_eth_io_rx_cdesc_base * | io_cq struct ena_com_io_cq * | idx int

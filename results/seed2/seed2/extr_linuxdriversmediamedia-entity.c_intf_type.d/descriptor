@@ -1,0 +1,2 @@
+struct media_interface | type int 
+function intf_type const char * | intf struct media_interface *

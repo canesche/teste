@@ -1,0 +1,2 @@
+struct msdos_sb_info | dir_per_block_bits int | dir_per_block int 
+function fat_get_blknr_offset void | sbi struct msdos_sb_info * | i_pos int | blknr int * | offset int *

@@ -1,4 +1,0 @@
-struct mg_str | len unsigned char | p char * 
-struct TYPE_2__ | len unsigned long | p long 
-struct mg_mqtt_message | payload struct TYPE_2__ 
-function mg_mqtt_next_subscribe_topic int | msg struct mg_mqtt_message * | topic struct mg_str * | qos unsigned char * | pos int

@@ -1,0 +1,2 @@
+struct hv_ring_buffer_info | ring_datasize int 
+function hv_get_ring_buffersize int | ring_info const struct hv_ring_buffer_info *

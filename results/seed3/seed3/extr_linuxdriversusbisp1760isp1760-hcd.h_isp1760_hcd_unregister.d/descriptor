@@ -1,0 +1,2 @@
+struct isp1760_hcd | dummy int 
+function isp1760_hcd_unregister void | priv struct isp1760_hcd *

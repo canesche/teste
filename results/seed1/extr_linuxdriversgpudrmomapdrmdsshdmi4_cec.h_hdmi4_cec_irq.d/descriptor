@@ -1,2 +1,0 @@
-struct hdmi_core_data | dummy int 
-function hdmi4_cec_irq void | core struct hdmi_core_data *

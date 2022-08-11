@@ -1,2 +1,0 @@
-struct perf_event_attr | exclude_hv long | exclude_kernel long | exclude_user long | exclude_idle long 
-function event_requires_mode_exclusion int | attr struct perf_event_attr *

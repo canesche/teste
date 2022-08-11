@@ -1,0 +1,1 @@
+function DllGetClassObject int | rclsid int | riid int | ppv int **

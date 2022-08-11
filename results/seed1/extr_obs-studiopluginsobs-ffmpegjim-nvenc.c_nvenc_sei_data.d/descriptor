@@ -1,2 +1,0 @@
-struct nvenc_data | sei_size unsigned long | sei int * 
-function nvenc_sei_data int | data void * | sei int ** | size unsigned long *

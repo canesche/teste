@@ -1,0 +1,2 @@
+struct rtl_phy | rf_type int 
+function get_rf_type int | rtlphy struct rtl_phy *

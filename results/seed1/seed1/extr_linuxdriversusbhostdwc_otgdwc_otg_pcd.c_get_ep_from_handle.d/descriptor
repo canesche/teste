@@ -1,0 +1,3 @@
+struct TYPE_6__ | priv void * 
+struct TYPE_5__ | out_ep struct TYPE_6__ * | in_ep struct TYPE_6__ * | ep0 struct TYPE_6__ 
+function get_ep_from_handle struct TYPE_6__ * | pcd struct TYPE_5__ * | handle void *

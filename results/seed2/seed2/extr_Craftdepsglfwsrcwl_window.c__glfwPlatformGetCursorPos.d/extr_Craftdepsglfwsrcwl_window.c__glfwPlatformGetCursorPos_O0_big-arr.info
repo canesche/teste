@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_Craftdepsglfwsrcwl_window.c__glfwPlatformGetCursorPos.d/extr_Craftdepsglfwsrcwl_window.c__glfwPlatformGetCursorPos_O0::_glfwPlatformGetCursorPos(65)"
+  }
+]

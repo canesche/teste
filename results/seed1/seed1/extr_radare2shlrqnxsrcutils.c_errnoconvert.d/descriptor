@@ -1,0 +1,2 @@
+struct errnomap_t | nto int | other int | member_1 int | member_0 int 
+function errnoconvert int | x int

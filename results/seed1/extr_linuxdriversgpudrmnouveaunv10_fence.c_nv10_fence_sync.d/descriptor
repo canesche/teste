@@ -1,3 +1,0 @@
-struct nouveau_fence | dummy int 
-struct nouveau_channel | dummy int 
-function nv10_fence_sync int | fence struct nouveau_fence * | prev struct nouveau_channel * | chan struct nouveau_channel *

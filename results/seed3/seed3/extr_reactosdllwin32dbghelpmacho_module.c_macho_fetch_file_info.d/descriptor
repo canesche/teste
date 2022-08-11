@@ -1,0 +1,1 @@
+function macho_fetch_file_info int | process int | name const int * | load_addr unsigned long | base int * | size int * | checksum int *

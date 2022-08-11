@@ -1,0 +1,2 @@
+struct ef4_nic | dummy int 
+function ef4_try_recovery int | efx struct ef4_nic *

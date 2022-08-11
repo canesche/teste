@@ -1,0 +1,2 @@
+struct sound_queue | bufSize int | numBufs int | user_frags int | max_active int | user_frag_size int | locked long 
+function set_queue_frags int | sq struct sound_queue * | bufs int | size int

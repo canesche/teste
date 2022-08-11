@@ -1,0 +1,2 @@
+struct TYPE_2__ | v16a int | v32 int 
+function v16a_from_v32 int | v32 const int

@@ -1,0 +1,5 @@
+struct TYPE_10__ | width_increment unsigned long | height_increment unsigned long | textHeight long | calendars struct TYPE_7__ * 
+struct TYPE_9__ | top long | bottom long | left long | right long 
+struct TYPE_8__ | top long | left long 
+struct TYPE_7__ | days struct TYPE_8__ 
+function MONTHCAL_GetDayRectI void | infoPtr const struct TYPE_10__ * | r struct TYPE_9__ * | col unsigned long | row unsigned long | calIdx unsigned long

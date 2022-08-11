@@ -1,2 +1,0 @@
-struct _sei_message_t | dummy int 
-function sei_message_data int * | msg int *

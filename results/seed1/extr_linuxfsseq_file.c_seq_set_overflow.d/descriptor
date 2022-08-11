@@ -1,2 +1,0 @@
-struct seq_file | size int | count int 
-function seq_set_overflow void | m struct seq_file *

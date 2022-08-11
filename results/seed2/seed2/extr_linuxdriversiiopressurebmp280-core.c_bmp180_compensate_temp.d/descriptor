@@ -1,0 +1,4 @@
+struct bmp180_calib | AC6 int | AC5 int | MC int | MD int 
+struct TYPE_2__ | bmp180 struct bmp180_calib 
+struct bmp280_data | t_fine int | calib struct TYPE_2__ 
+function bmp180_compensate_temp int | data struct bmp280_data * | adc_temp int

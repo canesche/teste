@@ -1,0 +1,2 @@
+struct pt_regs | dummy int 
+function bpf_prog2 int | ctx struct pt_regs *

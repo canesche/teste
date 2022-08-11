@@ -1,2 +1,0 @@
-struct lock_stat | wait_time_min long 
-function lock_stat_key_wait_time_min int | one struct lock_stat * | two struct lock_stat *

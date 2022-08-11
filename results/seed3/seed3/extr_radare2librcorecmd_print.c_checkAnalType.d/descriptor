@@ -1,0 +1,2 @@
+struct TYPE_3__ | type int | family long 
+function checkAnalType int | op struct TYPE_3__ * | t int

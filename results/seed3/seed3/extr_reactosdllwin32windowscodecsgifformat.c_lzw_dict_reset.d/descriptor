@@ -1,0 +1,3 @@
+struct TYPE_2__ | prefix int * | suffix long * 
+struct lzw_state | code_bits int | init_code_bits int | next_code int | dict struct TYPE_2__ 
+function lzw_dict_reset void | state struct lzw_state *

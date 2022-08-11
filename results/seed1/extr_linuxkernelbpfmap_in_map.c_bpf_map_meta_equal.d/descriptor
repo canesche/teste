@@ -1,2 +1,0 @@
-struct bpf_map | map_type long | key_size long | value_size long | map_flags long | max_entries long 
-function bpf_map_meta_equal int | meta0 const struct bpf_map * | meta1 const struct bpf_map *

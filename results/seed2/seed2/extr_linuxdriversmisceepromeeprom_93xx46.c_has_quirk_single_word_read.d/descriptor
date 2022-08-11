@@ -1,0 +1,3 @@
+struct eeprom_93xx46_dev | pdata struct TYPE_2__ * 
+struct TYPE_2__ | quirks int 
+function has_quirk_single_word_read int | edev struct eeprom_93xx46_dev *

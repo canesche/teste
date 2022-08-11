@@ -1,0 +1,4 @@
+struct TYPE_3__ | tag int 
+struct TYPE_4__ | tx struct TYPE_3__ 
+struct htc_packet | act_len unsigned int | endpoint int | info struct TYPE_4__ | buf int * | pkt_cntxt void * 
+function set_htc_pkt_info void | packet struct htc_packet * | context void * | buf int * | len unsigned int | eid enum htc_endpoint_id | tag int

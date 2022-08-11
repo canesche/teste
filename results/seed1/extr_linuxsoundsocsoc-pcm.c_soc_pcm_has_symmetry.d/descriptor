@@ -1,8 +1,0 @@
-struct snd_soc_pcm_runtime | num_codecs unsigned int | codec_dais struct TYPE_6__ ** | dai_link struct snd_soc_dai_link * | cpu_dai struct TYPE_4__ * 
-struct snd_soc_dai_link | symmetric_samplebits long | symmetric_channels long | symmetric_rates long 
-struct snd_soc_dai_driver | symmetric_samplebits long | symmetric_channels long | symmetric_rates long 
-struct snd_pcm_substream | private_data struct snd_soc_pcm_runtime * 
-struct TYPE_6__ | driver struct TYPE_5__ * 
-struct TYPE_5__ | symmetric_samplebits long | symmetric_channels long | symmetric_rates long 
-struct TYPE_4__ | driver struct snd_soc_dai_driver * 
-function soc_pcm_has_symmetry int | substream struct snd_pcm_substream *

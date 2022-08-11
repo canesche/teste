@@ -1,0 +1,2 @@
+struct usb_xpad | dummy int 
+function xpad_init_ff int | xpad struct usb_xpad *

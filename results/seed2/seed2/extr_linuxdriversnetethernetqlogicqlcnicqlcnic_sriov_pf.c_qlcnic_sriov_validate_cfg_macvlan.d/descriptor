@@ -1,0 +1,6 @@
+struct qlcnic_vport | handle int | vlan_mode long | pvid int 
+struct qlcnic_vf_info | vp struct qlcnic_vport * 
+struct TYPE_2__ | arg int * 
+struct qlcnic_cmd_args | req struct TYPE_2__ 
+struct qlcnic_adapter | dummy int 
+function qlcnic_sriov_validate_cfg_macvlan int | adapter struct qlcnic_adapter * | vf struct qlcnic_vf_info * | cmd struct qlcnic_cmd_args *

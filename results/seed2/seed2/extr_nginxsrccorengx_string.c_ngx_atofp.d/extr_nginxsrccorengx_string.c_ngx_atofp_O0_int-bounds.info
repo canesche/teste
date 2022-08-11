@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_nginxsrccorengx_string.c_ngx_atofp.d/extr_nginxsrccorengx_string.c_ngx_atofp_O0::ngx_atofp(66)"
+  }
+]

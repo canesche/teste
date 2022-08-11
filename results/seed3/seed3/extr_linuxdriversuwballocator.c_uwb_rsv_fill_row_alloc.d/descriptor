@@ -1,0 +1,3 @@
+struct uwb_rsv_row_info | avail int * | used_rows int 
+struct uwb_rsv_alloc_info | bm unsigned char * | unsafe_allocated_mases long | safe_allocated_mases long | total_allocated_mases long | ri struct uwb_rsv_row_info 
+function uwb_rsv_fill_row_alloc void | ai struct uwb_rsv_alloc_info *

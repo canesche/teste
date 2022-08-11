@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversledsleds-max77693.c_max77693_init_v4l2_flash_config.d/extr_linuxdriversledsleds-max77693.c_max77693_init_v4l2_flash_config_O0::max77693_init_v4l2_flash_config(66)"
+  }
+]

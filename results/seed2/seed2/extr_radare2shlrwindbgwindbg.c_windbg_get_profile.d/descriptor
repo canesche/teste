@@ -1,0 +1,2 @@
+struct TYPE_4__ | build int | sp int | bits int 
+function windbg_get_profile struct TYPE_4__ * | bits int | build int | sp int

@@ -1,0 +1,6 @@
+struct TYPE_5__ | vdd_dep_on_fclk struct TYPE_6__ * 
+struct smu10_hwmgr | clock_vol_info struct TYPE_5__ 
+struct pp_hwmgr | backend long 
+struct TYPE_6__ | count int | entries struct TYPE_4__ * 
+struct TYPE_4__ | clk int 
+function smu10_dpm_get_mclk int | hwmgr struct pp_hwmgr * | low int

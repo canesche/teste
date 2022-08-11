@@ -1,0 +1,5 @@
+struct regulator_ops | set_voltage_sel long 
+struct regulator_dev | desc struct TYPE_2__ * 
+struct regulator | rdev struct regulator_dev * 
+struct TYPE_2__ | n_voltages unsigned int | ops struct regulator_ops * 
+function regulator_list_hardware_vsel int | regulator struct regulator * | selector unsigned int

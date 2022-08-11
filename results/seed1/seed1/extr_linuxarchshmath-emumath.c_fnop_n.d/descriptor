@@ -1,0 +1,2 @@
+struct sh_fpu_soft_struct | dummy int 
+function fnop_n int | fregs struct sh_fpu_soft_struct * | n int

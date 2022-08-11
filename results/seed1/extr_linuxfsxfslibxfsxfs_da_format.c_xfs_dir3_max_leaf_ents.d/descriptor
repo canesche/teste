@@ -1,4 +1,0 @@
-struct xfs_dir3_leaf_hdr | dummy int 
-struct xfs_dir2_leaf_entry | dummy int 
-struct xfs_da_geometry | blksize int 
-function xfs_dir3_max_leaf_ents int | geo struct xfs_da_geometry *

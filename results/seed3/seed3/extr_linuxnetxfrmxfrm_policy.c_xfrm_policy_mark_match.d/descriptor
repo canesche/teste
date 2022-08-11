@@ -1,0 +1,3 @@
+struct TYPE_2__ | v int | m int 
+struct xfrm_policy | priority long | mark struct TYPE_2__ 
+function xfrm_policy_mark_match int | policy struct xfrm_policy * | pol struct xfrm_policy *

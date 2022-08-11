@@ -1,2 +1,0 @@
-struct ata_port | dummy int 
-function ata_dummy_error_handler void | ap struct ata_port *

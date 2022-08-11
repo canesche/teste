@@ -1,0 +1,7 @@
+struct sas_ha_struct | dummy int 
+struct asd_sas_phy | enabled int | id int | lldd_phy struct pm8001_phy * | ha struct sas_ha_struct * | frame_rcvd int * | sas_addr int * | linkrate int | oob_mode int | role int | type int | tproto long | iproto int | class int 
+struct pm8001_phy | frame_rcvd int * | dev_sas_addr int | pm8001_ha struct pm8001_hba_info * | phy_state long | sas_phy struct asd_sas_phy 
+struct pm8001_hba_info | shost struct TYPE_4__ * | chip struct TYPE_3__ * | phy struct pm8001_phy * 
+struct TYPE_4__ | hostdata long 
+struct TYPE_3__ | n_phy int 
+function pm8001_phy_init void | pm8001_ha struct pm8001_hba_info * | phy_id int

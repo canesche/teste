@@ -1,0 +1,3 @@
+struct mlxsw_sp_nexthop_group | count int | nexthops struct mlxsw_sp_nexthop * | ecmp_size int | adj_index int | adj_index_valid int 
+struct mlxsw_sp_nexthop | num_adj_entries long | offloaded long | nh_grp struct mlxsw_sp_nexthop_group * 
+function mlxsw_sp_nexthop_indexes int | nh struct mlxsw_sp_nexthop * | p_adj_index int * | p_adj_size int * | p_adj_hash_index int *

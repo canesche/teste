@@ -1,3 +1,0 @@
-struct buffer_head | dummy int 
-struct TYPE_3__ | bh struct buffer_head * | p int * | key int 
-function add_chain void | p struct TYPE_3__ * | bh struct buffer_head * | v int *

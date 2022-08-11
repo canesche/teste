@@ -1,5 +1,0 @@
-struct qxl_memslot | high_bits unsigned long 
-struct qxl_device | main_mem_slot int | surfaces_mem_slot int | mem_slots struct qxl_memslot * 
-struct TYPE_2__ | offset unsigned long 
-struct qxl_bo | type long | tbo struct TYPE_2__ 
-function qxl_bo_physical_address unsigned long | qdev struct qxl_device * | bo struct qxl_bo * | offset unsigned long

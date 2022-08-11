@@ -1,0 +1,2 @@
+struct mmc_command | flags int 
+function meson_mmc_set_response_bits void | cmd struct mmc_command * | cmd_cfg int *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | ipv6 long | mask long 
+function dns_check_ip6 int | N struct TYPE_3__ * | ipv6 unsigned char *

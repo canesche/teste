@@ -1,0 +1,2 @@
+struct pn533_acr122_tx_frame | datalen int 
+function pn533_acr122_tx_update_payload_len void | _frame void * | len int

@@ -1,4 +1,0 @@
-struct TYPE_3__ | idx int | flags int 
-struct perf_event | hw struct TYPE_3__ 
-struct TYPE_4__ | num_counters_fixed long 
-function x86_pmu_event_idx int | event struct perf_event *

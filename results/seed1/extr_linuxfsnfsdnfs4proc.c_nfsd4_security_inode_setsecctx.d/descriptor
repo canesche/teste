@@ -1,3 +1,0 @@
-struct xdr_netobj | dummy int 
-struct svc_fh | dummy int 
-function nfsd4_security_inode_setsecctx void | resfh struct svc_fh * | label struct xdr_netobj * | bmval int *

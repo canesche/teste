@@ -1,0 +1,2 @@
+struct cphy | dummy int 
+function mv88x201x_set_loopback int | cphy struct cphy * | on int

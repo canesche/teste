@@ -1,3 +1,0 @@
-struct TYPE_5__ | v_mount struct TYPE_4__ * 
-struct TYPE_4__ | mnt_flag int 
-function vnode_vfsisrdonly int | vp struct TYPE_5__ *

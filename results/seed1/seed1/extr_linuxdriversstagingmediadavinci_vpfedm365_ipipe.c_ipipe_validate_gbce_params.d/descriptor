@@ -1,0 +1,2 @@
+struct vpfe_ipipe_gbce | type long | table long * | en int 
+function ipipe_validate_gbce_params int | gbce struct vpfe_ipipe_gbce *

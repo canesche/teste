@@ -1,2 +1,0 @@
-struct fw_iso_context | dummy int 
-function dummy_start_iso int | ctx struct fw_iso_context * | cycle int | sync int | tags int

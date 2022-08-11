@@ -1,0 +1,6 @@
+struct TYPE_6__ | bits_per_pixel int 
+struct TYPE_7__ | var struct TYPE_6__ 
+struct stifb_info | info struct TYPE_7__ 
+struct TYPE_8__ | length int | lutOffset int | lutType int 
+struct TYPE_9__ | all int | fields struct TYPE_8__ 
+function setHyperLutBltCtl struct TYPE_9__ | fb struct stifb_info * | offsetWithinLut int | length int

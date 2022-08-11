@@ -1,0 +1,2 @@
+struct TYPE_3__ | b0 double | b1 int | b2 double | b3 int | b4 double | a0 int | a1 int | a2 double | a3 int | a4 double 
+function butterworth_fo_section void | S struct TYPE_3__ * | beta double | si double | g double | g0 double | D double | c0 double

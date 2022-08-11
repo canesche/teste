@@ -1,0 +1,2 @@
+struct dsa_switch | dummy int 
+function b53_vlan_filtering int | ds struct dsa_switch * | port int | vlan_filtering int

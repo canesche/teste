@@ -1,0 +1,2 @@
+struct iproc_msi | nr_irqs unsigned long 
+function hwirq_to_group unsigned long | msi struct iproc_msi * | hwirq unsigned long

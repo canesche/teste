@@ -1,2 +1,0 @@
-struct qla_hw_data | nvram_conf_off int 
-function nvram_conf_addr int | ha struct qla_hw_data * | naddr int

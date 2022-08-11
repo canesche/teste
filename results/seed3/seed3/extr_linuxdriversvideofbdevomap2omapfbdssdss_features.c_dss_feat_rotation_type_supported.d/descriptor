@@ -1,0 +1,2 @@
+struct TYPE_2__ | supported_rotation_types int 
+function dss_feat_rotation_type_supported int | rot_type enum omap_dss_rotation_type

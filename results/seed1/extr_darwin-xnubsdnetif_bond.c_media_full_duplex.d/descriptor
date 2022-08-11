@@ -1,2 +1,0 @@
-struct media_info | mi_active int 
-function media_full_duplex int | mi const struct media_info *

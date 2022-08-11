@@ -1,0 +1,2 @@
+struct dictionary | pos int | full long | buf int * | end long 
+function dict_get int | dict const struct dictionary * | dist int

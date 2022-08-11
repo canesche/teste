@@ -1,0 +1,3 @@
+struct rtl8169_private | mac_version unsigned long 
+struct TYPE_2__ | fw_name const char * 
+function rtl_lookup_firmware_name const char * | tp struct rtl8169_private *

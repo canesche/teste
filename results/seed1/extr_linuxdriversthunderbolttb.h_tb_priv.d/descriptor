@@ -1,2 +1,0 @@
-struct tb | privdata long 
-function tb_priv void * | tb struct tb *

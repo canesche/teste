@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 59,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 59,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmediapciivtvivtv-udma.c_ivtv_udma_get_page_info.d/extr_linuxdriversmediapciivtvivtv-udma.c_ivtv_udma_get_page_info_O0::ivtv_udma_get_page_info(63)"
+  }
+]

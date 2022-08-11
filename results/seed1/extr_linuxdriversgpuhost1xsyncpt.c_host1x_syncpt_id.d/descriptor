@@ -1,2 +1,0 @@
-struct host1x_syncpt | id int 
-function host1x_syncpt_id int | sp struct host1x_syncpt *

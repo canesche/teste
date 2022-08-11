@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 67,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 67,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_FFmpeglibavcodeclibxvid.c_xvid_ff_2pass_before.d/extr_FFmpeglibavcodeclibxvid.c_xvid_ff_2pass_before_O0::xvid_ff_2pass_before(82)"
+  }
+]

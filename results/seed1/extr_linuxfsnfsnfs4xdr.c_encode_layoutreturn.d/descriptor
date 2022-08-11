@@ -1,4 +1,0 @@
-struct xdr_stream | dummy int 
-struct nfs4_layoutreturn_args | dummy int 
-struct compound_hdr | dummy int 
-function encode_layoutreturn void | xdr struct xdr_stream * | args const struct nfs4_layoutreturn_args * | hdr struct compound_hdr *

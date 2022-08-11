@@ -1,3 +1,0 @@
-struct mlx5_flow_table | dummy int 
-struct mlx5_core_dev | dummy int 
-function mlx5_cmd_stub_create_flow_table int | dev struct mlx5_core_dev * | vport int | op_mod enum fs_flow_table_op_mod | type enum fs_flow_table_type | level unsigned int | log_size unsigned int | next_ft struct mlx5_flow_table * | table_id unsigned int * | flags int

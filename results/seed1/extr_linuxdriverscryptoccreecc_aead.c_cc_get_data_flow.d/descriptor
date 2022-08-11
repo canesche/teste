@@ -1,1 +1,0 @@
-function cc_get_data_flow enum cc_flow_mode | direct enum drv_crypto_direction | setup_flow_mode enum cc_flow_mode | is_single_pass int

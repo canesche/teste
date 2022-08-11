@@ -1,0 +1,2 @@
+struct TYPE_3__ | flagStaticTables long | hufTableX4 int * | dictEnd int * | vBase int * | base int * | previousDstEnd int * | stage int | expected int 
+function ZSTDv05_decompressBegin unsigned long | dctx struct TYPE_3__ *

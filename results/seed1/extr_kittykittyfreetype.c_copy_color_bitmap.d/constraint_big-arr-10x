@@ -1,1 +1,0 @@
-value(src_stride) == 10, value(dest_stride) == 10, length(src) == 100, length(dest) == 100, length(src_rect) == 100, length(dest_rect) == 100

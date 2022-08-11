@@ -1,3 +1,0 @@
-struct ptmx_ioctl | dummy int 
-struct knote | kn_hook long 
-function ptmx_knote_ioctl struct ptmx_ioctl * | kn struct knote *

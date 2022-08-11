@@ -1,0 +1,2 @@
+struct ecryptfs_crypt_stat | extent_mask int | extent_size int | extent_shift long 
+function set_extent_mask_and_shift void | crypt_stat struct ecryptfs_crypt_stat *

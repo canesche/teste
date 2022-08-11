@@ -1,0 +1,2 @@
+struct cdns_dphy | dummy int 
+function cdns_dphy_ref_get_wakeup_time_ns unsigned long | dphy struct cdns_dphy *

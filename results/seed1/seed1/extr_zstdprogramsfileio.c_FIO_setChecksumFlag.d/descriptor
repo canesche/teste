@@ -1,0 +1,2 @@
+struct TYPE_3__ | checksumFlag int 
+function FIO_setChecksumFlag void | prefs struct TYPE_3__ *const | checksumFlag int

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function dss_component_compare int | dev struct device * | data void *

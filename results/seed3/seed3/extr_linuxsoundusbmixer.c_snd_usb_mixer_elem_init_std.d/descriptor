@@ -1,0 +1,3 @@
+struct usb_mixer_interface | dummy int 
+struct usb_mixer_elem_list | id int | dump int | mixer struct usb_mixer_interface * 
+function snd_usb_mixer_elem_init_std void | list struct usb_mixer_elem_list * | mixer struct usb_mixer_interface * | unitid int

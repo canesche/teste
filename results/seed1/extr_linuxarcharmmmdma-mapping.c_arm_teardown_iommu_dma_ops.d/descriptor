@@ -1,2 +1,0 @@
-struct device | dummy int 
-function arm_teardown_iommu_dma_ops void | dev struct device *

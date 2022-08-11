@@ -1,0 +1,3 @@
+struct wl_output | dummy int 
+struct swaybar_output | subpixel int 
+function output_geometry void | data void * | wl_output struct wl_output * | x int | y int | width_mm int | height_mm int | subpixel int | make const char * | model const char * | transform int

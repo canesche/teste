@@ -1,0 +1,3 @@
+struct TYPE_4__ | act_entry long | act_page int | act_area long | debug_info_snap struct TYPE_5__ * 
+struct TYPE_5__ | entry_size long | pages_per_area int | nr_areas long | areas int 
+function debug_next_entry int | p_info struct TYPE_4__ *

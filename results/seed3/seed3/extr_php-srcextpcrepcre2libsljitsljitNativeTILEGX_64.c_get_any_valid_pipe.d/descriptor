@@ -1,0 +1,2 @@
+struct tilegx_opcode | pipes int 
+function get_any_valid_pipe int | opcode const struct tilegx_opcode *

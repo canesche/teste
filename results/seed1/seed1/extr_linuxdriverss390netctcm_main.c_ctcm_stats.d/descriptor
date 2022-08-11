@@ -1,0 +1,4 @@
+struct net_device_stats | dummy int 
+struct net_device | ml_priv long 
+struct ctcm_priv | stats struct net_device_stats 
+function ctcm_stats struct net_device_stats * | dev struct net_device *

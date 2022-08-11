@@ -1,0 +1,2 @@
+struct be_adapter | cmd_privileges int 
+function check_privilege int | adapter struct be_adapter * | flags int

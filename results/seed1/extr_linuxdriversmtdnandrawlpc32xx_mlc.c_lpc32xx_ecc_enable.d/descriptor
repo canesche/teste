@@ -1,2 +1,0 @@
-struct mtd_info | dummy int 
-function lpc32xx_ecc_enable void | mtd struct mtd_info * | mode int

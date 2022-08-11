@@ -1,0 +1,2 @@
+struct TYPE_2__ | z_index int | image_id int 
+function cmp_by_zindex_and_image int | a_ const void * | b_ const void *

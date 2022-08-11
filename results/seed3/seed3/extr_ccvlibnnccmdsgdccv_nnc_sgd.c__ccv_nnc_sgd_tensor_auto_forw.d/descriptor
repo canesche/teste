@@ -1,0 +1,1 @@
+function _ccv_nnc_sgd_tensor_auto_forw void | cmd const int | inputs const int *const | input_size const int | hint const int | outputs int *const | output_size const int

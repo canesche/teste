@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct net_device | dummy int 
+function vrf_ip6_rcv struct sk_buff * | vrf_dev struct net_device * | skb struct sk_buff *

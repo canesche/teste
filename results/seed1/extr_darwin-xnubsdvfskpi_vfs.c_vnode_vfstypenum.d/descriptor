@@ -1,4 +1,0 @@
-struct TYPE_7__ | v_mount struct TYPE_6__ * 
-struct TYPE_6__ | mnt_vtable struct TYPE_5__ * 
-struct TYPE_5__ | vfc_typenum int 
-function vnode_vfstypenum int | vp struct TYPE_7__ *

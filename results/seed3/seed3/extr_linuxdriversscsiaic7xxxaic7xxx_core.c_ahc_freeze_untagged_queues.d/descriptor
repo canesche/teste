@@ -1,0 +1,2 @@
+struct ahc_softc | flags int | untagged_queue_lock int 
+function ahc_freeze_untagged_queues void | ahc struct ahc_softc *

@@ -1,2 +1,0 @@
-struct ttm_buffer_object | destroy int * 
-function radeon_ttm_bo_is_radeon_bo int | bo struct ttm_buffer_object *

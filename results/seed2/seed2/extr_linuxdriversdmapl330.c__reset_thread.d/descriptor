@@ -1,0 +1,4 @@
+struct pl330_thread | id int | req_running int | req struct TYPE_2__ * | dmac struct pl330_dmac * 
+struct pl330_dmac | mcbufsz int | mcode_bus long | mcode_cpu long 
+struct TYPE_2__ | desc int * | mc_bus long | mc_cpu long 
+function _reset_thread void | thrd struct pl330_thread *

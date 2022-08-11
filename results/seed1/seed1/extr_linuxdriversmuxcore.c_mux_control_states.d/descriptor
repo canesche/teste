@@ -1,0 +1,2 @@
+struct mux_control | states unsigned int 
+function mux_control_states unsigned int | mux struct mux_control *

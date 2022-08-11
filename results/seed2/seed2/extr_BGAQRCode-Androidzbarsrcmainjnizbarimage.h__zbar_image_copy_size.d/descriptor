@@ -1,0 +1,2 @@
+struct TYPE_4__ | crop_h int | crop_w int | crop_y int | crop_x int | height int | width int 
+function _zbar_image_copy_size void | dst struct TYPE_4__ * | src const struct TYPE_4__ *

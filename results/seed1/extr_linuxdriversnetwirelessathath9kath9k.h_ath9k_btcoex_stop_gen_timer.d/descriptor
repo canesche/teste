@@ -1,2 +1,0 @@
-struct ath_softc | dummy int 
-function ath9k_btcoex_stop_gen_timer void | sc struct ath_softc *

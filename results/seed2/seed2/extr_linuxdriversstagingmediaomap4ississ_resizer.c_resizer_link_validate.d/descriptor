@@ -1,0 +1,5 @@
+struct TYPE_2__ | width long | height long | code long 
+struct v4l2_subdev_format | format struct TYPE_2__ 
+struct v4l2_subdev | dummy int 
+struct media_link | dummy int 
+function resizer_link_validate int | sd struct v4l2_subdev * | link struct media_link * | source_fmt struct v4l2_subdev_format * | sink_fmt struct v4l2_subdev_format *

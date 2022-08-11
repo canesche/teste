@@ -1,0 +1,3 @@
+struct rtl_regulatory | country_code int 
+struct ieee80211_regdomain | dummy int 
+function _rtl_regdomain_select const struct ieee80211_regdomain * | reg struct rtl_regulatory *

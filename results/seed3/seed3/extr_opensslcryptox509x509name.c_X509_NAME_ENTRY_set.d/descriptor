@@ -1,0 +1,2 @@
+struct TYPE_3__ | set int 
+function X509_NAME_ENTRY_set int | ne const struct TYPE_3__ *

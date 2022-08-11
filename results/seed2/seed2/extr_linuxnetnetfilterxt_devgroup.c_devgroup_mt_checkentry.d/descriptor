@@ -1,0 +1,3 @@
+struct xt_mtchk_param | hook_mask int | matchinfo struct xt_devgroup_info * 
+struct xt_devgroup_info | flags int 
+function devgroup_mt_checkentry int | par const struct xt_mtchk_param *

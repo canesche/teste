@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_darwin-xnulibsyscallwrappers_libc_funcptr.c___libkernel_platform_init.d/extr_darwin-xnulibsyscallwrappers_libc_funcptr.c___libkernel_platform_init_O0::__libkernel_platform_init(65)"
+  }
+]

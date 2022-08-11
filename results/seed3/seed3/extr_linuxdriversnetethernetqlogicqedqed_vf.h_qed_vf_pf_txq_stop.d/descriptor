@@ -1,0 +1,3 @@
+struct qed_queue_cid | dummy int 
+struct qed_hwfn | dummy int 
+function qed_vf_pf_txq_stop int | p_hwfn struct qed_hwfn * | p_cid struct qed_queue_cid *

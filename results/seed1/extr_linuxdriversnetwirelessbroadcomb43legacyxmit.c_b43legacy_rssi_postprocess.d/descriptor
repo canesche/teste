@@ -1,6 +1,0 @@
-struct b43legacy_phy | radio_ver int | nrssi_lt int * | type int 
-struct b43legacy_wldev | dev struct TYPE_6__ * | phy struct b43legacy_phy 
-struct TYPE_6__ | bus struct TYPE_5__ * 
-struct TYPE_4__ | boardflags_lo int 
-struct TYPE_5__ | sprom struct TYPE_4__ 
-function b43legacy_rssi_postprocess int | dev struct b43legacy_wldev * | in_rssi int | ofdm int | adjust_2053 int | adjust_2050 int

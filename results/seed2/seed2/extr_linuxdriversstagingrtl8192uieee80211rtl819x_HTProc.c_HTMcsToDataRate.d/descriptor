@@ -1,0 +1,3 @@
+struct ieee80211_device | pHTInfo struct TYPE_2__ * 
+struct TYPE_2__ | bCurShortGI20MHz long | bCurShortGI40MHz long | bCurBW40MHz long 
+function HTMcsToDataRate int | ieee struct ieee80211_device * | nMcsRate unsigned long

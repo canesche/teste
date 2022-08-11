@@ -1,2 +1,0 @@
-struct fc_lport | state long | qfull int | link_up long 
-function fc_fcp_lport_queue_ready int | lport struct fc_lport *

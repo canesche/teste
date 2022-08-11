@@ -1,0 +1,2 @@
+struct fifo | nrents int | imask int | fifobar long * | merge int | reset long | tail long | head long 
+function fifo_setup void | base_addr void * | nr_entry int

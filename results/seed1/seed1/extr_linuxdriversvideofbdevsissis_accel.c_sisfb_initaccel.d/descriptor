@@ -1,0 +1,2 @@
+struct sis_video_info | dummy int 
+function sisfb_initaccel int | ivideo struct sis_video_info *

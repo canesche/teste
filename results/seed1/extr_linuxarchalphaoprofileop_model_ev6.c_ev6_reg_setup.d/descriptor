@@ -1,4 +1,0 @@
-struct op_system_config | dummy int 
-struct op_register_config | mux_select unsigned long | reset_values unsigned long | need_reset unsigned long | proc_mode long 
-struct op_counter_config | event int | count unsigned long | enabled long 
-function ev6_reg_setup void | reg struct op_register_config * | ctr struct op_counter_config * | sys struct op_system_config *

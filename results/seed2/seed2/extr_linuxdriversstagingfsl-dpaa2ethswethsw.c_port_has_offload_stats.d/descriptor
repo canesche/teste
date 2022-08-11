@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function port_has_offload_stats int | netdev const struct net_device * | attr_id int

@@ -1,0 +1,1 @@
+function debugfs_errno_get int | data void * | val int *

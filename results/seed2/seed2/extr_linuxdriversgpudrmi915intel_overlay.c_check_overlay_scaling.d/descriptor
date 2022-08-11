@@ -1,0 +1,2 @@
+struct put_image_params | src_scan_h int | dst_h int | src_scan_w int | dst_w int 
+function check_overlay_scaling int | rec struct put_image_params *

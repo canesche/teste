@@ -1,0 +1,2 @@
+struct axi_dmac_chan | align_mask int 
+function axi_dmac_check_addr int | chan struct axi_dmac_chan * | addr int

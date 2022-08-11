@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversscsilpfclpfc_init.c_lpfc_sli4_port_speed_parse.d/extr_linuxdriversscsilpfclpfc_init.c_lpfc_sli4_port_speed_parse_O0::lpfc_sli4_port_speed_parse(84)"
+  }
+]

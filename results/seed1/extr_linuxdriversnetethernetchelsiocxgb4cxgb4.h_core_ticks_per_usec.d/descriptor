@@ -1,4 +1,0 @@
-struct TYPE_3__ | cclk int 
-struct TYPE_4__ | vpd struct TYPE_3__ 
-struct adapter | params struct TYPE_4__ 
-function core_ticks_per_usec unsigned int | adap const struct adapter *

@@ -1,0 +1,2 @@
+struct aio_connection | dummy int 
+function WaitAioArrAdd int | conn struct aio_connection *

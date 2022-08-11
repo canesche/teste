@@ -1,0 +1,3 @@
+struct lag_tracker | netdev_state struct TYPE_2__ * 
+struct TYPE_2__ | link_up int | tx_enabled int 
+function mlx5_infer_tx_affinity_mapping void | tracker struct lag_tracker * | port1 int * | port2 int *

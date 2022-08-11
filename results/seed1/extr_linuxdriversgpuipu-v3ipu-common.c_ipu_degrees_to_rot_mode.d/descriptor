@@ -1,1 +1,0 @@
-function ipu_degrees_to_rot_mode int | mode enum ipu_rotate_mode * | degrees int | hflip int | vflip int

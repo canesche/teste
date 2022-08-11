@@ -1,0 +1,2 @@
+struct TYPE_3__ | Flags int | lpfnHook long 
+function CC_HookCallChk int | lpcc const struct TYPE_3__ *

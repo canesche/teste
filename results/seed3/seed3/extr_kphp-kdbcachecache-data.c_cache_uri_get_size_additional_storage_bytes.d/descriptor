@@ -1,0 +1,2 @@
+struct cache_uri | size int 
+function cache_uri_get_size_additional_storage_bytes int | U const struct cache_uri *

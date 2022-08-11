@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct cmpk_query_cfg | cfg_action int | cfg_type int | cfg_size int | cfg_page int | cfg_offset int | value int | mask int 
+function cmpk_handle_query_config_rx void | dev struct net_device * | pmsg int *

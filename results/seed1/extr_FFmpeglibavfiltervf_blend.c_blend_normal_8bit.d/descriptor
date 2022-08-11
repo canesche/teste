@@ -1,2 +1,0 @@
-struct TYPE_3__ | opacity double 
-function blend_normal_8bit void | top const double * | top_linesize int | bottom const double * | bottom_linesize int | dst double * | dst_linesize int | width int | height int | param struct TYPE_3__ * | values double * | starty int

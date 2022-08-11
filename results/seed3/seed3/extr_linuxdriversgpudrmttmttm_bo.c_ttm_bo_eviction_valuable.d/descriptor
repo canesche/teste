@@ -1,0 +1,4 @@
+struct ttm_place | fpfn long | lpfn long 
+struct TYPE_2__ | start long | size long 
+struct ttm_buffer_object | mem struct TYPE_2__ 
+function ttm_bo_eviction_valuable int | bo struct ttm_buffer_object * | place const struct ttm_place *

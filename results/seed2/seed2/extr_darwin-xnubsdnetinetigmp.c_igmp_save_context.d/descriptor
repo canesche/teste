@@ -1,0 +1,4 @@
+struct TYPE_2__ | rcvif struct ifnet * 
+struct mbuf | m_pkthdr struct TYPE_2__ 
+struct ifnet | dummy int 
+function igmp_save_context void | m struct mbuf * | ifp struct ifnet *

@@ -1,0 +1,2 @@
+struct bnx2x_credit_pool_obj | dummy int 
+function bnx2x_credit_pool_put_entry_always_true int | o struct bnx2x_credit_pool_obj * | offset int

@@ -1,0 +1,3 @@
+struct sk_buff | cb long 
+struct kcm_tx_msg | dummy int 
+function kcm_tx_msg struct kcm_tx_msg * | skb struct sk_buff *

@@ -1,0 +1,6 @@
+struct thread_struct | debugreg6 int | ptrace_bps struct perf_event ** 
+struct pt_regs | dummy int 
+struct perf_sample_data | dummy int 
+struct perf_event | dummy int 
+struct TYPE_2__ | thread struct thread_struct 
+function ptrace_triggered void | bp struct perf_event * | data struct perf_sample_data * | regs struct pt_regs *

@@ -1,0 +1,1 @@
+function usbat_pack_ata_sector_cmd void | buf unsigned char * | thistime unsigned char | sector int | cmd unsigned char

@@ -1,2 +1,0 @@
-struct dlm_ls | ls_recover_status int 
-function _set_recover_status void | ls struct dlm_ls * | status int

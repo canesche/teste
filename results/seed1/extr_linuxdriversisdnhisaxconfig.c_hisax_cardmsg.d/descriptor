@@ -1,2 +1,0 @@
-struct IsdnCardState | dummy int 
-function hisax_cardmsg int | cs struct IsdnCardState * | mt int | arg void *

@@ -1,1 +1,0 @@
-value(a4_exists) == 255, value(qc_exists) == 255, value(c) == 255, length(ctr_preload) == 65025, length(mpdu) == 65025, length(pn_vector) == 65025

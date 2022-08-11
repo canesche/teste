@@ -1,0 +1,3 @@
+struct ath5k_nfcal_hist | index int | nfval int * 
+struct ath5k_hw | ah_nfcal_hist struct ath5k_nfcal_hist 
+function ath5k_hw_update_nfcal_hist void | ah struct ath5k_hw * | noise_floor int

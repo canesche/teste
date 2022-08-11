@@ -1,2 +1,0 @@
-struct backlight_device | dummy int 
-function locomolcd_get_intensity int | bd struct backlight_device *

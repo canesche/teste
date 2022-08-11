@@ -1,2 +1,0 @@
-struct parport | dummy int 
-function snd_mts64_detach void | p struct parport *

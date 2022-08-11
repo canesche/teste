@@ -1,2 +1,0 @@
-struct qlcnic_adapter | dummy int 
-function qlcnic_82xx_encap_rx_offload int | adapter struct qlcnic_adapter *

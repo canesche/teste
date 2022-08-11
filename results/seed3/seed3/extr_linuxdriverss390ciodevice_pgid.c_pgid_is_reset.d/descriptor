@@ -1,0 +1,2 @@
+struct pgid | dummy int 
+function pgid_is_reset int | p struct pgid *

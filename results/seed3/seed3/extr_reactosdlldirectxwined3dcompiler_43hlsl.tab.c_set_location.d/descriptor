@@ -1,0 +1,4 @@
+struct source_location | col int | line int | file int 
+struct YYLTYPE | first_column int | first_line int 
+struct TYPE_2__ | source_file int 
+function set_location void | loc struct source_location * | l const struct YYLTYPE *

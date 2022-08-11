@@ -1,0 +1,2 @@
+struct file | f_op int * 
+function tty_hung_up_p int | filp struct file *

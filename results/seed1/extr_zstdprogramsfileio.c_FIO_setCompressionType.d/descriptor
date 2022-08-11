@@ -1,2 +1,0 @@
-struct TYPE_3__ | compressionType int 
-function FIO_setCompressionType void | prefs struct TYPE_3__ *const | compressionType int

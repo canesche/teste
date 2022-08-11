@@ -1,0 +1,2 @@
+struct vo | dummy int 
+function uninit void | vo struct vo *

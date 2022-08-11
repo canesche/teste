@@ -1,2 +1,0 @@
-struct dwc3 | dummy int 
-function dwc3_gadget_process_pending_events void | dwc struct dwc3 *

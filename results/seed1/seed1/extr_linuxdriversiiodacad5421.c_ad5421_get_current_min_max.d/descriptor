@@ -1,0 +1,2 @@
+struct ad5421_state | current_range int 
+function ad5421_get_current_min_max void | st struct ad5421_state * | min unsigned int * | max unsigned int *

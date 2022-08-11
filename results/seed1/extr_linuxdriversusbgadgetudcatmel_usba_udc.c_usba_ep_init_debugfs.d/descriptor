@@ -1,3 +1,0 @@
-struct usba_udc | dummy int 
-struct usba_ep | dummy int 
-function usba_ep_init_debugfs void | udc struct usba_udc * | ep struct usba_ep *

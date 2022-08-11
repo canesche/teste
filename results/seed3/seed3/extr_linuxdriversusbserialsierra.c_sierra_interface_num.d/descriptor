@@ -1,0 +1,5 @@
+struct usb_serial | interface struct TYPE_6__ * 
+struct TYPE_6__ | cur_altsetting struct TYPE_5__ * 
+struct TYPE_4__ | bInterfaceNumber int 
+struct TYPE_5__ | desc struct TYPE_4__ 
+function sierra_interface_num int | serial struct usb_serial *

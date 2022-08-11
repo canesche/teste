@@ -1,0 +1,4 @@
+struct Scsi_Host | max_cmd_len int | this_id int | dma_channel int | max_id int | max_lun int | irq int | unique_id int | n_io_port int | io_port int | cmd_per_lun int | can_queue int | hostdata long 
+struct NvRamType | scsi_id int | channel_cfg int 
+struct AdapterCtlBlk | last_reset int | irq_level int | io_port_base int | io_port_len int | eeprom struct NvRamType 
+function adapter_init_scsi_host void | host struct Scsi_Host *

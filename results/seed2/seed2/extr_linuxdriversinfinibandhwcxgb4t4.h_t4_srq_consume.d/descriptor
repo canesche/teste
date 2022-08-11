@@ -1,0 +1,4 @@
+struct t4_srq | cidx unsigned long | size unsigned long | queue struct TYPE_4__ * | in_use int 
+struct TYPE_3__ | host_cidx unsigned long 
+struct TYPE_4__ | status struct TYPE_3__ 
+function t4_srq_consume void | srq struct t4_srq *

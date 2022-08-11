@@ -1,0 +1,4 @@
+struct socket_smack | smk_out int | smk_packet int 
+struct socket | sk struct TYPE_2__ * 
+struct TYPE_2__ | sk_security struct socket_smack * 
+function smack_socket_socketpair int | socka struct socket * | sockb struct socket *

@@ -1,0 +1,2 @@
+struct esp | regs long 
+function jazz_esp_write8 void | esp struct esp * | val int | reg unsigned long

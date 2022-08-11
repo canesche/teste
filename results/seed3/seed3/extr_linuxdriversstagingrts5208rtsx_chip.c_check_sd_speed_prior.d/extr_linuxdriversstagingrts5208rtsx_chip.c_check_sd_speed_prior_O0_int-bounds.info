@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversstagingrts5208rtsx_chip.c_check_sd_speed_prior.d/extr_linuxdriversstagingrts5208rtsx_chip.c_check_sd_speed_prior_O0::check_sd_speed_prior(62)"
+  }
+]

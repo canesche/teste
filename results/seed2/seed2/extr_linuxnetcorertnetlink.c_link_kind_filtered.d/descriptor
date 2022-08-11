@@ -1,0 +1,3 @@
+struct rtnl_link_ops | dummy int 
+struct net_device | rtnl_link_ops const struct rtnl_link_ops * 
+function link_kind_filtered int | dev const struct net_device * | kind_ops const struct rtnl_link_ops *

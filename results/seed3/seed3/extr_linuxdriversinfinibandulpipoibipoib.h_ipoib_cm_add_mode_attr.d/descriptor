@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function ipoib_cm_add_mode_attr int | dev struct net_device *

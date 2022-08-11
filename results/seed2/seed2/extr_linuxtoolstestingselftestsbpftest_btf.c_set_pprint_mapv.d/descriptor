@@ -1,0 +1,2 @@
+struct pprint_mapv | ui32 int | si32 int | unused_bits2a int | bits28 int | unused_bits2b int | ui64 int | aenum int 
+function set_pprint_mapv void | v struct pprint_mapv * | i int

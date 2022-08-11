@@ -1,0 +1,4 @@
+struct TYPE_6__ | x int | y int 
+struct TYPE_5__ | x int | y int 
+struct TYPE_7__ | to struct TYPE_6__ | up struct TYPE_5__ 
+function get_block_sum long | sc int * | intpic long [32][32] | b const struct TYPE_7__ *

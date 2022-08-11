@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function pci_remove_firmware_label_files void | pdev struct pci_dev *

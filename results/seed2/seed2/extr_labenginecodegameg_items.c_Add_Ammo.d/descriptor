@@ -1,0 +1,4 @@
+struct TYPE_7__ | client struct TYPE_6__ * 
+struct TYPE_5__ | ammo int * 
+struct TYPE_6__ | ps struct TYPE_5__ 
+function Add_Ammo void | ent struct TYPE_7__ * | weapon int | count int

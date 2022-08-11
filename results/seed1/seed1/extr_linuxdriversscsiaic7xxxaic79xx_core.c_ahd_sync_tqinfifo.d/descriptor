@@ -1,0 +1,2 @@
+struct ahd_softc | dummy int 
+function ahd_sync_tqinfifo void | ahd struct ahd_softc * | op int

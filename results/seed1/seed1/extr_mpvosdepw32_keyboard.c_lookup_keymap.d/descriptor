@@ -1,0 +1,2 @@
+struct keymap | from int | to int 
+function lookup_keymap int | map const struct keymap * | key int

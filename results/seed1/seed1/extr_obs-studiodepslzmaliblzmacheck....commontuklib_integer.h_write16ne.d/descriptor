@@ -1,0 +1,1 @@
+function write16ne void | buf int * | num int

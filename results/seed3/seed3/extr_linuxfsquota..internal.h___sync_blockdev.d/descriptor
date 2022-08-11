@@ -1,0 +1,2 @@
+struct block_device | dummy int 
+function __sync_blockdev int | bdev struct block_device * | wait int

@@ -1,2 +1,0 @@
-struct rc_dec | code long 
-function rc_is_finished char | rc const struct rc_dec *

@@ -1,2 +1,0 @@
-struct vmw_piter | i long | num_pages long 
-function __vmw_piter_non_sg_next int | viter struct vmw_piter *

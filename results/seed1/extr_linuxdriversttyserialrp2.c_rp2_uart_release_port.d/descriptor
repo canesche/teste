@@ -1,2 +1,0 @@
-struct uart_port | dummy int 
-function rp2_uart_release_port void | port struct uart_port *

@@ -1,0 +1,2 @@
+struct l2cap_conn | local_fixed_chan int | feat_mask int 
+function __l2cap_efs_supported int | conn struct l2cap_conn *

@@ -1,0 +1,2 @@
+struct vm_area_struct | vm_end unsigned int | vm_start unsigned int | vm_flags int 
+function remap_vmalloc_range int | vma struct vm_area_struct * | addr void * | pgoff unsigned long

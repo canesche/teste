@@ -1,0 +1,4 @@
+struct TYPE_7__ | flags int | client struct TYPE_6__ * | inuse int 
+struct TYPE_5__ | sessionTeam int 
+struct TYPE_6__ | sess struct TYPE_5__ 
+function Team_ForceGesture void | team int

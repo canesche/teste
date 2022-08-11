@@ -1,0 +1,2 @@
+struct wil_ring | swtail int | size int 
+function wil_ring_next_tail int | ring struct wil_ring *

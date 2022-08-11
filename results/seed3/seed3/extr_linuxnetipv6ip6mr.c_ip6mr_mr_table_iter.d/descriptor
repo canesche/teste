@@ -1,0 +1,4 @@
+struct TYPE_2__ | mrt6 struct mr_table * 
+struct net | ipv6 struct TYPE_2__ 
+struct mr_table | dummy int 
+function ip6mr_mr_table_iter struct mr_table * | net struct net * | mrt struct mr_table *

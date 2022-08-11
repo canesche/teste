@@ -1,0 +1,1 @@
+function h2o_hpack_decode_int int | src const int ** | src_end const int * | prefix_bits unsigned int

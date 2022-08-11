@@ -1,0 +1,2 @@
+struct hclge_dev | dummy int 
+function hclge_dcb_ops_set void | hdev struct hclge_dev *

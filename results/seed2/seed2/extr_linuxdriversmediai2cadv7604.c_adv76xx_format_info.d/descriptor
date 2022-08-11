@@ -1,0 +1,4 @@
+struct adv76xx_state | info struct TYPE_2__ * 
+struct adv76xx_format_info | code long 
+struct TYPE_2__ | nformats unsigned int | formats const struct adv76xx_format_info * 
+function adv76xx_format_info const struct adv76xx_format_info * | state struct adv76xx_state * | code long

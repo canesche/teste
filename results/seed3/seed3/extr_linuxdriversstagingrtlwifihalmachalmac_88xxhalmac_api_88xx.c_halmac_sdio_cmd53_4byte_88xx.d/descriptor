@@ -1,0 +1,2 @@
+struct halmac_adapter | sdio_cmd53_4byte int 
+function halmac_sdio_cmd53_4byte_88xx enum halmac_ret_status | halmac_adapter struct halmac_adapter * | cmd53_4byte_mode enum halmac_sdio_cmd53_4byte_mode

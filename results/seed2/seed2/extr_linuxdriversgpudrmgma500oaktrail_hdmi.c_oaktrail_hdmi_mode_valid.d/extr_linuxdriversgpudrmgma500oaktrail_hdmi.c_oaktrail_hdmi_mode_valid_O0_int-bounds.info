@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmgma500oaktrail_hdmi.c_oaktrail_hdmi_mode_valid.d/extr_linuxdriversgpudrmgma500oaktrail_hdmi.c_oaktrail_hdmi_mode_valid_O0::oaktrail_hdmi_mode_valid(69)"
+  }
+]

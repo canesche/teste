@@ -1,0 +1,4 @@
+struct socket | sk struct sock * 
+struct sock | sk_state_change int | sk_write_space int | sk_data_ready int | sk_user_data struct ceph_connection * 
+struct ceph_connection | dummy int 
+function set_sock_callbacks void | sock struct socket * | con struct ceph_connection *

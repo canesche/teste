@@ -1,4 +1,0 @@
-struct ra_imgfmt_desc | planes struct TYPE_2__ ** | num_planes int 
-struct gl_video | forced_dumb_mode long 
-struct TYPE_2__ | ctype long 
-function is_imgfmt_desc_supported int | p struct gl_video * | desc const struct ra_imgfmt_desc *

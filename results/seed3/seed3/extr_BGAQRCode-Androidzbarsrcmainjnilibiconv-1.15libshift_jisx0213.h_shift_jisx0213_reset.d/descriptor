@@ -1,0 +1,2 @@
+struct TYPE_3__ | ostate int 
+function shift_jisx0213_reset int | conv struct TYPE_3__ * | r unsigned char * | n unsigned long

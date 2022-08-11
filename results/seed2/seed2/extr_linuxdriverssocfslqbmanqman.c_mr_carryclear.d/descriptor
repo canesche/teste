@@ -1,0 +1,2 @@
+struct qm_mr_entry | dummy int 
+function mr_carryclear union qm_mr_entry * | p union qm_mr_entry *

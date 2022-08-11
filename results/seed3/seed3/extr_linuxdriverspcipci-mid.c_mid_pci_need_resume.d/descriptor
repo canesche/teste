@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function mid_pci_need_resume int | dev struct pci_dev *

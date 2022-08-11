@@ -1,0 +1,1 @@
+function input_defuzz_abs_event int | value int | old_val int | fuzz int

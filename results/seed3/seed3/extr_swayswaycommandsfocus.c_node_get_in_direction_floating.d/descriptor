@@ -1,0 +1,6 @@
+struct sway_seat | dummy int 
+struct sway_node | dummy int 
+struct sway_container | x int | width int | y int | height int | node struct sway_node | workspace struct TYPE_4__ * 
+struct TYPE_4__ | floating struct TYPE_3__ * 
+struct TYPE_3__ | length int | items struct sway_container ** 
+function node_get_in_direction_floating struct sway_node * | con struct sway_container * | seat struct sway_seat * | dir enum wlr_direction

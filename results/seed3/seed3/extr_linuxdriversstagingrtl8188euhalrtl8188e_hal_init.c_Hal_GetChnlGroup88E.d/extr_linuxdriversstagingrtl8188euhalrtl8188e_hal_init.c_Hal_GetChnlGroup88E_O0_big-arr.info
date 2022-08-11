@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 15,
+    phantoms: 14,
+    exit: true,
+    halt: false,
+    edges: 30,
+    static: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversstagingrtl8188euhalrtl8188e_hal_init.c_Hal_GetChnlGroup88E.d/extr_linuxdriversstagingrtl8188euhalrtl8188e_hal_init.c_Hal_GetChnlGroup88E_O0::Hal_GetChnlGroup88E(61)"
+  }
+]

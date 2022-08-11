@@ -1,0 +1,3 @@
+struct TYPE_5__ | flags int | nwin int | win struct TYPE_4__ * 
+struct TYPE_4__ | len int | base long 
+function parse_io int * | p int * | q int * | io struct TYPE_5__ *

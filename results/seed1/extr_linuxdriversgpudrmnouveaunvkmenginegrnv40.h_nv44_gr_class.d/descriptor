@@ -1,2 +1,0 @@
-struct nvkm_device | chipset int 
-function nv44_gr_class int | device struct nvkm_device *

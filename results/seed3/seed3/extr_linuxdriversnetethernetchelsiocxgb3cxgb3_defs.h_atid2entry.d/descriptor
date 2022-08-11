@@ -1,0 +1,3 @@
+struct active_open_entry | dummy int 
+struct tid_info | atid_base unsigned int | atid_tab union active_open_entry * 
+function atid2entry union active_open_entry * | t const struct tid_info * | atid unsigned int

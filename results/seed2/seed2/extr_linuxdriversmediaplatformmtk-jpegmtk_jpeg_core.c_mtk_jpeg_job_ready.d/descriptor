@@ -1,0 +1,2 @@
+struct mtk_jpeg_ctx | state long 
+function mtk_jpeg_job_ready int | priv void *

@@ -1,0 +1,2 @@
+struct TYPE_4__ | units int 
+function set_slob void | s struct TYPE_4__ * | size int | next struct TYPE_4__ *

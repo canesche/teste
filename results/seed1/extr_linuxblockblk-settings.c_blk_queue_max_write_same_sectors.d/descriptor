@@ -1,3 +1,0 @@
-struct TYPE_2__ | max_write_same_sectors unsigned int 
-struct request_queue | limits struct TYPE_2__ 
-function blk_queue_max_write_same_sectors void | q struct request_queue * | max_write_same_sectors unsigned int

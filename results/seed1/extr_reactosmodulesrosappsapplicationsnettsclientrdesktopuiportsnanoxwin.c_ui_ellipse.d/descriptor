@@ -1,1 +1,0 @@
-function ui_ellipse void | opcode int | fillmode int | x int | y int | cx int | cy int | brush int * | bgcolor int | fgcolor int

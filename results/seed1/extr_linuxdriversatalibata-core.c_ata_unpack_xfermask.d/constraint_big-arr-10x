@@ -1,1 +1,0 @@
-value(xfer_mask) == 10, length(pio_mask) == 100, length(mwdma_mask) == 100, length(udma_mask) == 100

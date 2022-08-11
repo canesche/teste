@@ -1,0 +1,4 @@
+struct rdc_host_priv | saved_iocfg int 
+struct ata_port | port_no int | host struct TYPE_2__ * 
+struct TYPE_2__ | private_data struct rdc_host_priv * 
+function rdc_pata_cable_detect int | ap struct ata_port *

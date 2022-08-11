@@ -1,0 +1,2 @@
+struct i2c_msg | flags int 
+function i2c_m_recv_len int | msg const struct i2c_msg *

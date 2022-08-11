@@ -1,0 +1,2 @@
+struct macio_dev | dummy int 
+function i2sbus_shutdown int | dev struct macio_dev *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetethernetintelixgbeixgbe_x550.c_ixgbe_fc_autoneg_fiber_x550em_a.d/extr_linuxdriversnetethernetintelixgbeixgbe_x550.c_ixgbe_fc_autoneg_fiber_x550em_a_O0::ixgbe_fc_autoneg_fiber_x550em_a(63)"
+  }
+]

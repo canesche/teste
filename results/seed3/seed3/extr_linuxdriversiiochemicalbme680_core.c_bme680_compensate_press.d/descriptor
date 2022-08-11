@@ -1,0 +1,3 @@
+struct bme680_calib | par_p6 int | par_p5 int | par_p4 int | par_p3 int | par_p2 int | par_p1 int | par_p9 int | par_p8 int | par_p10 int | par_p7 int 
+struct bme680_data | t_fine int | bme680 struct bme680_calib 
+function bme680_compensate_press int | data struct bme680_data * | adc_press int

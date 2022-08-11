@@ -1,0 +1,2 @@
+struct pvr2_buffer | used_count unsigned int 
+function pvr2_buffer_get_count unsigned int | bp struct pvr2_buffer *

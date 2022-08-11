@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function set_meta_super int | s struct super_block * | ptr void *

@@ -1,0 +1,3 @@
+struct dm_region_hash | log struct dm_dirty_log * 
+struct dm_dirty_log | dummy int 
+function dm_rh_dirty_log struct dm_dirty_log * | rh struct dm_region_hash *

@@ -1,0 +1,4 @@
+struct snd_midi_op | dummy int 
+struct snd_midi_channel_set | midi_mode long 
+struct snd_midi_channel | control int * | gm_rpn_pitch_bend_range int | gm_rpn_fine_tuning int | gm_rpn_coarse_tuning int 
+function rpn void | ops struct snd_midi_op * | drv void * | chan struct snd_midi_channel * | chset struct snd_midi_channel_set *

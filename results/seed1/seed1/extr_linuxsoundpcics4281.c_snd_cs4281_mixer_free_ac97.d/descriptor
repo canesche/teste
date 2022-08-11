@@ -1,0 +1,3 @@
+struct snd_ac97 | num long | private_data struct cs4281 * 
+struct cs4281 | ac97 int * | ac97_secondary int * 
+function snd_cs4281_mixer_free_ac97 void | ac97 struct snd_ac97 *

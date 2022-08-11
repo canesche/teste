@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 15,
+    phantoms: 14,
+    exit: true,
+    halt: false,
+    edges: 30,
+    static: {
+      instructions: 63,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 63,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetwirelessquantennaqtnfmaccommands.c_qtnf_cmd_resp_reg_rule_flags_parse.d/extr_linuxdriversnetwirelessquantennaqtnfmaccommands.c_qtnf_cmd_resp_reg_rule_flags_parse_O0::qtnf_cmd_resp_reg_rule_flags_parse(89)"
+  }
+]

@@ -1,0 +1,2 @@
+struct bfa_ioc | ioc_hwif int * 
+function bfa_nw_ioc_set_ct2_hwif void | ioc struct bfa_ioc *

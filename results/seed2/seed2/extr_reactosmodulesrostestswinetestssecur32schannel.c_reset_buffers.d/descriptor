@@ -1,0 +1,3 @@
+struct TYPE_5__ | cBuffers unsigned int | pBuffers struct TYPE_4__ * 
+struct TYPE_4__ | pvBuffer int * | cbBuffer long | BufferType int 
+function reset_buffers void | desc struct TYPE_5__ *

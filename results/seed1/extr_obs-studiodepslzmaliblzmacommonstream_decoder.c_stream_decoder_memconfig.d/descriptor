@@ -1,2 +1,0 @@
-struct TYPE_3__ | memusage long | memlimit long 
-function stream_decoder_memconfig int | coder struct TYPE_3__ * | memusage long * | old_memlimit long * | new_memlimit long

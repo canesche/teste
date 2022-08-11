@@ -1,2 +1,0 @@
-struct cfspi | dummy int 
-function debugfs_store_prev void | cfspi struct cfspi *

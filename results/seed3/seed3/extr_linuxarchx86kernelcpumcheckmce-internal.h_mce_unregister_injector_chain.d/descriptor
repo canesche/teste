@@ -1,0 +1,2 @@
+struct notifier_block | dummy int 
+function mce_unregister_injector_chain void | nb struct notifier_block *

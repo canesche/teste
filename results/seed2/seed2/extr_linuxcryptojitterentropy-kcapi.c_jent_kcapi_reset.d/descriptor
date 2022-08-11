@@ -1,0 +1,2 @@
+struct crypto_rng | dummy int 
+function jent_kcapi_reset int | tfm struct crypto_rng * | seed const int * | slen unsigned int

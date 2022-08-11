@@ -1,3 +1,0 @@
-struct TYPE_4__ | data struct TYPE_5__ * 
-struct TYPE_5__ | isold int | isinit int 
-function ngx_http_lua_fake_shm_init_zone int | shm_zone struct TYPE_4__ * | data void *

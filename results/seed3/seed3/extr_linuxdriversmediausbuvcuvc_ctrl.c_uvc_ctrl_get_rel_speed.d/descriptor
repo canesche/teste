@@ -1,0 +1,2 @@
+struct uvc_control_mapping | offset int 
+function uvc_ctrl_get_rel_speed const int | mapping struct uvc_control_mapping * | query int | data const int *

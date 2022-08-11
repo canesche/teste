@@ -1,0 +1,3 @@
+struct dlm_lksb | sb_lkid int | sb_lvbptr int 
+struct dlm_args | flags int | astfn void (*)(void *) | bastfn void (*)(void *, int) | timeout unsigned long | mode int | lksb struct dlm_lksb * | astparam void * 
+function set_lock_args int | mode int | lksb struct dlm_lksb * | flags int | namelen int | timeout_cs unsigned long | ast void (*)(void *) | astparam void * | bast void (*)(void *, int) | args struct dlm_args *

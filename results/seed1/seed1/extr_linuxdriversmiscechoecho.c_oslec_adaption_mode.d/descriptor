@@ -1,0 +1,2 @@
+struct oslec_state | adaption_mode int 
+function oslec_adaption_mode void | ec struct oslec_state * | adaption_mode int

@@ -1,3 +1,0 @@
-struct socket_address | dummy int 
-struct mg_connection | dummy int 
-function mg_null_if_get_conn_addr void | c struct mg_connection * | remote int | sa union socket_address *

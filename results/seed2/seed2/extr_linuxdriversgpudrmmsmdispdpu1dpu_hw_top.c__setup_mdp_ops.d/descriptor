@@ -1,0 +1,2 @@
+struct dpu_hw_mdp_ops | intf_audio_select int | reset_ubwc int | get_safe_status int | setup_vsync_source int | get_danger_status int | setup_clk_force_ctrl int | setup_cdm_output int | setup_split_pipe int 
+function _setup_mdp_ops void | ops struct dpu_hw_mdp_ops * | cap unsigned long

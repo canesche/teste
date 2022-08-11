@@ -1,2 +1,0 @@
-struct t4_cq | qp_errp int * 
-function t4_set_cq_in_error void | cq struct t4_cq *

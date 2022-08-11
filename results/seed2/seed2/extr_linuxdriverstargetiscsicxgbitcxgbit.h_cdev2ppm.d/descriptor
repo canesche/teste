@@ -1,0 +1,4 @@
+struct TYPE_2__ | iscsi_ppm long * 
+struct cxgbit_device | lldi struct TYPE_2__ 
+struct cxgbi_ppm | dummy int 
+function cdev2ppm struct cxgbi_ppm * | cdev struct cxgbit_device *

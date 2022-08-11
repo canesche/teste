@@ -1,4 +1,0 @@
-struct TYPE_2__ | num unsigned long | array struct signal_callback * 
-struct signal_info | callbacks struct TYPE_2__ 
-struct signal_callback | callback long | data void * 
-function signal_get_callback_idx unsigned long | si struct signal_info * | callback long | data void *

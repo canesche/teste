@@ -1,0 +1,5 @@
+struct playlist | n_main_streams int | main_streams struct TYPE_4__ ** | ctx int | parent struct TYPE_6__ * 
+struct TYPE_6__ | nb_programs int | programs struct TYPE_5__ ** 
+struct TYPE_5__ | discard long | nb_stream_indexes int | stream_index int * 
+struct TYPE_4__ | discard long | index int 
+function playlist_needed int | pls struct playlist *

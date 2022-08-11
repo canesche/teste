@@ -1,0 +1,4 @@
+struct hdspm | mixer struct TYPE_4__ * 
+struct TYPE_4__ | ch struct TYPE_3__ * 
+struct TYPE_3__ | pb int * 
+function hdspm_read_pb_gain int | hdspm struct hdspm * | chan unsigned int | pb unsigned int

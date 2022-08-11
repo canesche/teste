@@ -1,0 +1,2 @@
+struct amdgpu_device | dummy int 
+function gfx_v6_0_init_cg void | adev struct amdgpu_device *

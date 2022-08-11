@@ -1,0 +1,3 @@
+struct TYPE_4__ | country_code char * 
+struct TYPE_5__ | location struct TYPE_4__ | bc long 
+function read_tzif_preamble int | tzf const unsigned char ** | tz struct TYPE_5__ *

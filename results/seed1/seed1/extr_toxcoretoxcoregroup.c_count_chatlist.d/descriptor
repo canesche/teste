@@ -1,0 +1,3 @@
+struct TYPE_5__ | num_chats unsigned long | chats struct TYPE_4__ * 
+struct TYPE_4__ | status long 
+function count_chatlist unsigned long | g_c struct TYPE_5__ *

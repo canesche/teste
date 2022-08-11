@@ -1,0 +1,3 @@
+struct hclge_func_status_cmd | pf_state int 
+struct hclge_dev | flag int 
+function hclge_parse_func_status int | hdev struct hclge_dev * | status struct hclge_func_status_cmd *

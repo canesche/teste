@@ -1,0 +1,5 @@
+struct IsdnCardState | bcs struct BCState * 
+struct TYPE_3__ | dpath int 
+struct TYPE_4__ | isar struct TYPE_3__ 
+struct BCState | hw struct TYPE_4__ 
+function sel_bcs_isar struct BCState * | cs struct IsdnCardState * | dpath int

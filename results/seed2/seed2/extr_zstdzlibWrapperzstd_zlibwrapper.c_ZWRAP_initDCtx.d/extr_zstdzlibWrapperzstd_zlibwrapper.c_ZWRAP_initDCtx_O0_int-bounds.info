@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_zstdzlibWrapperzstd_zlibwrapper.c_ZWRAP_initDCtx.d/extr_zstdzlibWrapperzstd_zlibwrapper.c_ZWRAP_initDCtx_O0::ZWRAP_initDCtx(65)"
+  }
+]

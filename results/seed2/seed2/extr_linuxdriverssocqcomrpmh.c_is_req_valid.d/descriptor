@@ -1,0 +1,2 @@
+struct cache_req | sleep_val long | wake_val long 
+function is_req_valid int | req struct cache_req *

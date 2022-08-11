@@ -1,0 +1,3 @@
+struct TYPE_2__ | width int | height int | hfrontporch int | vfrontporch int | hsync int | vsync unsigned int | hbackporch int | vbackporch unsigned int | il_vbackporch unsigned int | il_vfrontporch int | il_vsync unsigned int | pixelclock unsigned int | flags int | standards int | interlaced int | polarities long 
+struct v4l2_dv_timings | bt struct TYPE_2__ | type int 
+function v4l2_detect_cvt int | frame_height unsigned int | hfreq unsigned int | vsync unsigned int | active_width unsigned int | polarities long | interlaced int | fmt struct v4l2_dv_timings *

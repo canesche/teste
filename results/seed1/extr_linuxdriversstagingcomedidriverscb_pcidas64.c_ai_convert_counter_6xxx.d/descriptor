@@ -1,3 +1,0 @@
-struct comedi_device | dummy int 
-struct comedi_cmd | convert_arg int 
-function ai_convert_counter_6xxx int | dev const struct comedi_device * | cmd const struct comedi_cmd *

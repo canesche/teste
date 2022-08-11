@@ -1,0 +1,7 @@
+struct TYPE_12__ | idx int | instack long 
+struct TYPE_13__ | v int * 
+struct TYPE_11__ | upvals struct TYPE_10__ ** 
+struct TYPE_15__ | l struct TYPE_11__ 
+struct TYPE_14__ | sizeupvalues int | upvalues struct TYPE_12__ * | cache struct TYPE_15__ * 
+struct TYPE_10__ | v int * 
+function getcached struct TYPE_15__ * | p struct TYPE_14__ * | encup struct TYPE_13__ ** | base int *

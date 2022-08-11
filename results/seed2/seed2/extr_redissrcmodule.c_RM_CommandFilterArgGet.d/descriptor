@@ -1,0 +1,2 @@
+struct TYPE_3__ | argc int | argv const int ** 
+function RM_CommandFilterArgGet const int * | fctx struct TYPE_3__ * | pos int

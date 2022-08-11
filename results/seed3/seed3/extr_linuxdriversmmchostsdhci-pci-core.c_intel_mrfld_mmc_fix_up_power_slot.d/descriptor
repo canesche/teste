@@ -1,0 +1,2 @@
+struct sdhci_pci_slot | dummy int 
+function intel_mrfld_mmc_fix_up_power_slot void | slot struct sdhci_pci_slot *

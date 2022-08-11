@@ -1,1 +1,0 @@
-function dbg_port_buf int | buf char * | len unsigned int | label const char * | port int | status int

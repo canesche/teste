@@ -1,0 +1,7 @@
+struct TYPE_12__ | bot_data int * | scsi_sense_head unsigned long | scsi_sense_tail unsigned long | bot_data_length unsigned long | scsi_sense struct TYPE_10__ * 
+struct TYPE_11__ | MSC_BOT_ClassData struct TYPE_12__ 
+struct TYPE_13__ | pClassData long 
+struct TYPE_8__ | ASCQ unsigned long | ASC unsigned long 
+struct TYPE_9__ | b struct TYPE_8__ 
+struct TYPE_10__ | Skey unsigned long | w struct TYPE_9__ 
+function SCSI_RequestSense int | pdev struct TYPE_13__ * | lun unsigned long | params unsigned long *

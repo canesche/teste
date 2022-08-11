@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessathath10kdebug.h_ath10k_debug_get_fw_dbglog_mask.d/extr_linuxdriversnetwirelessathath10kdebug.h_ath10k_debug_get_fw_dbglog_mask_O0::ath10k_debug_get_fw_dbglog_mask(62)"
+  }
+]

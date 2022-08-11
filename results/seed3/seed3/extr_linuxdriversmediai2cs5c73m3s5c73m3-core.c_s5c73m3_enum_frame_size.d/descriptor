@@ -1,0 +1,5 @@
+struct v4l2_subdev_pad_config | dummy int 
+struct v4l2_subdev_frame_size_enum | pad long | code long | index unsigned long | max_height int | min_height int | min_width int | max_width int 
+struct v4l2_subdev | dummy int 
+struct TYPE_2__ | height int | width int 
+function s5c73m3_enum_frame_size int | sd struct v4l2_subdev * | cfg struct v4l2_subdev_pad_config * | fse struct v4l2_subdev_frame_size_enum *

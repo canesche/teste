@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function ino_from_blkno unsigned long | sb struct super_block * | blkno int

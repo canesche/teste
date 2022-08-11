@@ -1,0 +1,2 @@
+struct snd_ca0106 | port int 
+function ca0106_dev_id_port int | dev_id void *

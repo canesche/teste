@@ -1,2 +1,0 @@
-struct recv_buf | dummy int 
-function rtw_os_recvbuf_resource_alloc int | padapter int * | precvbuf struct recv_buf *

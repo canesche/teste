@@ -1,0 +1,2 @@
+struct hw_factory | number_of_pins int * | funcs int * 
+function dal_hw_factory_dce120_init void | factory struct hw_factory *

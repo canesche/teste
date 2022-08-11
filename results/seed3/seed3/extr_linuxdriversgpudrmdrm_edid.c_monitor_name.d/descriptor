@@ -1,0 +1,6 @@
+struct TYPE_5__ | str int * 
+struct TYPE_6__ | str struct TYPE_5__ 
+struct TYPE_7__ | type long | data struct TYPE_6__ 
+struct TYPE_8__ | other_data struct TYPE_7__ 
+struct detailed_timing | data struct TYPE_8__ 
+function monitor_name void | t struct detailed_timing * | data void *

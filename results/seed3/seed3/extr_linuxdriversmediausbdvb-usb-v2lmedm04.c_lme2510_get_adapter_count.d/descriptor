@@ -1,0 +1,2 @@
+struct dvb_usb_device | dummy int 
+function lme2510_get_adapter_count int | d struct dvb_usb_device *

@@ -1,3 +1,0 @@
-struct sk_buff | dummy int 
-struct batadv_priv | dummy int 
-function batadv_nc_skb_store_for_decoding void | bat_priv struct batadv_priv * | skb struct sk_buff *

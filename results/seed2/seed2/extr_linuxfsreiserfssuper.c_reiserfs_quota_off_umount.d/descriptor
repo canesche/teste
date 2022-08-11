@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function reiserfs_quota_off_umount void | s struct super_block *

@@ -1,0 +1,4 @@
+struct TYPE_6__ | hand_state long 
+struct TYPE_5__ | previous_server_finished_len long 
+struct TYPE_7__ | statem struct TYPE_6__ | s3 struct TYPE_5__ 
+function ossl_statem_export_allowed int | s struct TYPE_7__ *

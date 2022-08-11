@@ -1,0 +1,2 @@
+struct cw1200_pm_state | dummy int 
+function cw1200_pm_stay_awake void | pm struct cw1200_pm_state * | tmo unsigned long

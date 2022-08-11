@@ -1,0 +1,3 @@
+struct TYPE_5__ | beta float | count int | channel int * | alpha float * | sat struct TYPE_4__ * 
+struct TYPE_4__ | x int | y int 
+function _ccv_icf_run_feature float | feature struct TYPE_5__ * | ptr float * | cols int | ch int | x int | y int

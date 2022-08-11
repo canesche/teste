@@ -1,0 +1,1 @@
+function find_earliest_holiday_after long * | date long | holidays_begin long * | holidays_end long *

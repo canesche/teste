@@ -1,0 +1,4 @@
+struct xhci_td | urb struct TYPE_2__ * 
+struct urb_priv | num_tds_done long | num_tds long 
+struct TYPE_2__ | hcpriv struct urb_priv * 
+function last_td_in_urb int | td struct xhci_td *

@@ -1,0 +1,2 @@
+struct fwtty_port | mctrl int | break_ctl long 
+function __fwtty_port_line_status unsigned int | port struct fwtty_port *

@@ -1,0 +1,4 @@
+struct nfsbuf | nb_bufsize long | nb_data long 
+struct nfs_vattr | dummy int 
+struct nfs_dir_buf_header | ndbh_count int | ndbh_entry_end long 
+function nfs_dir_buf_freespace long | bp struct nfsbuf * | rdirplus int

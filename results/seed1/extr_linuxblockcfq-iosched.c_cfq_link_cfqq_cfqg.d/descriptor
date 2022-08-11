@@ -1,3 +1,0 @@
-struct cfq_queue | cfqg struct cfq_group * 
-struct cfq_group | dummy int 
-function cfq_link_cfqq_cfqg void | cfqq struct cfq_queue * | cfqg struct cfq_group *

@@ -1,0 +1,9 @@
+struct TYPE_14__ | type_ struct TYPE_20__ * 
+struct TYPE_15__ | org_xmlvm_runtime_XMLVMArray struct TYPE_14__ 
+struct TYPE_18__ | fields struct TYPE_15__ 
+struct TYPE_19__ | tib long 
+struct TYPE_16__ | tib_ struct TYPE_21__ * 
+struct TYPE_17__ | java_lang_Class struct TYPE_16__ 
+struct TYPE_20__ | fields struct TYPE_17__ 
+struct TYPE_21__ | numImplementedInterfaces int | extends struct TYPE_21__ * | implementedInterfaces struct TYPE_21__ *** | baseType struct TYPE_21__ * 
+function XMLVM_ISA int | obj struct TYPE_21__ * | clazz struct TYPE_21__ *

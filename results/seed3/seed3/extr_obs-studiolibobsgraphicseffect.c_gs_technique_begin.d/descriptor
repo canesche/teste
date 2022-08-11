@@ -1,0 +1,5 @@
+struct TYPE_8__ | num unsigned long 
+struct TYPE_9__ | passes struct TYPE_8__ | effect struct TYPE_7__ * 
+struct TYPE_7__ | graphics struct TYPE_6__ * | cur_technique struct TYPE_9__ * 
+struct TYPE_6__ | cur_effect struct TYPE_7__ * 
+function gs_technique_begin unsigned long | tech struct TYPE_9__ *

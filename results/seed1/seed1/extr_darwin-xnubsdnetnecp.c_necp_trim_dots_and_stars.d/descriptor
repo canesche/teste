@@ -1,0 +1,2 @@
+struct substring | string char * | length unsigned long 
+function necp_trim_dots_and_stars struct substring | string char * | length unsigned long

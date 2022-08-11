@@ -1,0 +1,3 @@
+struct kgd_dev | dummy int 
+struct amdgpu_device | dummy int 
+function get_amdgpu_device struct amdgpu_device * | kgd struct kgd_dev *

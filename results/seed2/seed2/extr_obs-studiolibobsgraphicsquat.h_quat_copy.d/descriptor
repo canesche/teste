@@ -1,0 +1,2 @@
+struct quat | m int 
+function quat_copy void | dst struct quat * | q const struct quat *

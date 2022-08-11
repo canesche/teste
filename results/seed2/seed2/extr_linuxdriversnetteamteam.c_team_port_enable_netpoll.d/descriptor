@@ -1,0 +1,2 @@
+struct team_port | dummy int 
+function team_port_enable_netpoll int | port struct team_port *

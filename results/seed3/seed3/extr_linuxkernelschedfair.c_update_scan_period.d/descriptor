@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function update_scan_period void | p struct task_struct * | new_cpu int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | division double | y long | x long | state int 
+function coord_parser_init void | parser struct TYPE_3__ *

@@ -1,2 +1,0 @@
-struct rxe_dev | stats_counters int * 
-function rxe_counter_inc void | rxe struct rxe_dev * | cnt enum rxe_counters

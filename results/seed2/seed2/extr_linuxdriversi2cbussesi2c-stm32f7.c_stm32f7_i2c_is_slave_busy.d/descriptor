@@ -1,0 +1,2 @@
+struct stm32f7_i2c_dev | slave long * 
+function stm32f7_i2c_is_slave_busy int | i2c_dev struct stm32f7_i2c_dev *

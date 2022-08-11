@@ -1,0 +1,2 @@
+struct snd_device | dummy int 
+function snd_jack_dev_disconnect int | device struct snd_device *

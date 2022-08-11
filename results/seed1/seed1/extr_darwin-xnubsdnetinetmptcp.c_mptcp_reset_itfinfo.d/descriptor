@@ -1,0 +1,2 @@
+struct mpt_itf_info | has_nat64_conn long | has_v6_conn long | has_v4_conn long | ifindex long 
+function mptcp_reset_itfinfo void | info struct mpt_itf_info *

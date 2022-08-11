@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmtdnandrawnand_base.c_nand_ooblayout_free_sp.d/extr_linuxdriversmtdnandrawnand_base.c_nand_ooblayout_free_sp_O0::nand_ooblayout_free_sp(64)"
+  }
+]

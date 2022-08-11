@@ -1,0 +1,2 @@
+struct c2c_stats | rmt_hit long | rmt_hitm long | rmt_dram long | lcl_dram long 
+function llc_miss long | stats struct c2c_stats *

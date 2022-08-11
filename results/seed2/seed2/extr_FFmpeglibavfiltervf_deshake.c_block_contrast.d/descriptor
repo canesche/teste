@@ -1,0 +1,1 @@
+function block_contrast int | src int * | x int | y int | stride int | blocksize int

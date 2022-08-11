@@ -1,2 +1,0 @@
-struct drm_device | dummy int 
-function intel_fbdev_restore_mode void | dev struct drm_device *

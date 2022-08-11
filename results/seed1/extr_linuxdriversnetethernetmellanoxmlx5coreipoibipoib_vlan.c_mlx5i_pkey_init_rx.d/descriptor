@@ -1,2 +1,0 @@
-struct mlx5e_priv | dummy int 
-function mlx5i_pkey_init_rx int | priv struct mlx5e_priv *

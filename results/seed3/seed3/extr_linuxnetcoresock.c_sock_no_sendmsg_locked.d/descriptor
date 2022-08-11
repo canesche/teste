@@ -1,0 +1,3 @@
+struct sock | dummy int 
+struct msghdr | dummy int 
+function sock_no_sendmsg_locked int | sk struct sock * | m struct msghdr * | len unsigned long

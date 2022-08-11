@@ -1,2 +1,0 @@
-struct file | dummy int 
-function stk_vidioc_s_input int | filp struct file * | priv void * | i unsigned int

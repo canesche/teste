@@ -1,0 +1,2 @@
+struct exception_table_entry | fixup int | insn unsigned long 
+function search_extable const struct exception_table_entry * | base const struct exception_table_entry * | num const unsigned long | value unsigned long

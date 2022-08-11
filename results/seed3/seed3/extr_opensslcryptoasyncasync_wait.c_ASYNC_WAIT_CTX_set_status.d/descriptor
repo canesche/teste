@@ -1,0 +1,2 @@
+struct TYPE_3__ | status int 
+function ASYNC_WAIT_CTX_set_status int | ctx struct TYPE_3__ * | status int

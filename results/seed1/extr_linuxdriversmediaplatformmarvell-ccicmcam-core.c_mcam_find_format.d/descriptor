@@ -1,2 +1,0 @@
-struct mcam_format_struct | pixelformat long 
-function mcam_find_format struct mcam_format_struct * | pixelformat long

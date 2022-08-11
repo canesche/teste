@@ -1,0 +1,5 @@
+struct media_link | source struct TYPE_4__ * | sink struct TYPE_3__ * 
+struct media_entity | dummy int 
+struct TYPE_4__ | entity struct media_entity * 
+struct TYPE_3__ | entity struct media_entity * 
+function media_entity_other struct media_entity * | entity struct media_entity * | link struct media_link *

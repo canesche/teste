@@ -1,0 +1,2 @@
+struct TYPE_3__ | stack_ptr unsigned long | stack char * 
+function srt_stack_pop char | s struct TYPE_3__ *

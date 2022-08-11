@@ -1,0 +1,2 @@
+struct l2tp_tunnel | dummy int 
+function l2tp_tunnel_uses_xfrm int | tunnel const struct l2tp_tunnel *

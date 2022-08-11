@@ -1,0 +1,3 @@
+struct qib_pportdata | delay_mult unsigned long | cpspec struct TYPE_2__ * 
+struct TYPE_2__ | last_delay_mult unsigned long 
+function qib_7220_setpbc_control unsigned long | ppd struct qib_pportdata * | plen unsigned long | srate unsigned long | vl unsigned long

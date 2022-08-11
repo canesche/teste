@@ -1,3 +1,0 @@
-struct mlxsw_sp_span_parms | dummy int 
-struct mlxsw_sp_span_entry | dummy int 
-function mlxsw_sp_span_entry_nop_configure int | span_entry struct mlxsw_sp_span_entry * | sparms struct mlxsw_sp_span_parms

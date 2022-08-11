@@ -1,0 +1,2 @@
+struct vmx | dummy int 
+function vmx_exit_trace void | vmx struct vmx * | vcpu int | rip int | exit_reason int | handled int

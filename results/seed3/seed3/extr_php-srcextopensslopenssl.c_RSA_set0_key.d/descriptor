@@ -1,0 +1,2 @@
+struct TYPE_3__ | d int * | e int * | n int * 
+function RSA_set0_key int | r struct TYPE_3__ * | n int * | e int * | d int *

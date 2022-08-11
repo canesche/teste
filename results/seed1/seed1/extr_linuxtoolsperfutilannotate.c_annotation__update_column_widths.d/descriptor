@@ -1,0 +1,4 @@
+struct TYPE_4__ | jumps long | addr int | target int | max_addr int | min_addr int 
+struct annotation | widths struct TYPE_4__ | options struct TYPE_3__ * 
+struct TYPE_3__ | show_nr_jumps long | use_offset long 
+function annotation__update_column_widths void | notes struct annotation *

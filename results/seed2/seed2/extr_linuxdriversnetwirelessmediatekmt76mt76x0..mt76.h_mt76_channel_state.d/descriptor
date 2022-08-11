@@ -1,0 +1,6 @@
+struct TYPE_2__ | channels struct ieee80211_channel * 
+struct mt76_sband | chan struct mt76_channel_state * | sband struct TYPE_2__ 
+struct mt76_dev | sband_5g struct mt76_sband | sband_2g struct mt76_sband 
+struct mt76_channel_state | dummy int 
+struct ieee80211_channel | band long 
+function mt76_channel_state struct mt76_channel_state * | dev struct mt76_dev * | c struct ieee80211_channel *

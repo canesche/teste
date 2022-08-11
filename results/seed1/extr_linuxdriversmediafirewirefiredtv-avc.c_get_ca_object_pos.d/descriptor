@@ -1,2 +1,0 @@
-struct avc_response_frame | operand int * 
-function get_ca_object_pos int | r struct avc_response_frame *

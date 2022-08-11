@@ -1,2 +1,0 @@
-struct TYPE_3__ | length int | size int | fshift int | cnts int * 
-function calc_sum void | m struct TYPE_3__ *

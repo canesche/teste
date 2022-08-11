@@ -1,0 +1,2 @@
+struct uthread | pth_name long 
+function bsd_hasthreadname int | uth void *

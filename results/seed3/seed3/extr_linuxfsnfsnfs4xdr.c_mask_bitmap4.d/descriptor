@@ -1,0 +1,1 @@
+function mask_bitmap4 unsigned long | bitmap const int * | mask const int * | res int * | len unsigned long

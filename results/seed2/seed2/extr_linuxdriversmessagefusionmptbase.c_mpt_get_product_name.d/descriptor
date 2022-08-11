@@ -1,0 +1,1 @@
+function mpt_get_product_name const char * | vendor long | device long | revision int

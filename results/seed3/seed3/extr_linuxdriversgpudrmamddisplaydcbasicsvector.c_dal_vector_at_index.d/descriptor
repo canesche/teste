@@ -1,0 +1,2 @@
+struct vector | container void * | count int | struct_size int 
+function dal_vector_at_index void * | vector const struct vector * | index int

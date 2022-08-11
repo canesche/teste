@@ -1,0 +1,3 @@
+struct ieee80211_hw | dummy int 
+struct btdm_8723 | all_off int | agc_table_en int | adc_back_off_on int | b2_ant_hid_en int | low_penalty_rate_adaptive int | rf_rx_lpf_shrink int | reject_aggre_pkt int | tdma_on int | fw_dac_swing_lvl int | tra_tdma_on int | ignore_wlan_act int | ps_tdma_on int | ps_tdma_byte int * | pta_on int | val_0x6c0 int | val_0x6c8 int | val_0x6cc int | sw_dac_swing_on int | sw_dac_swing_lvl int | wlan_act_hi int | wlan_act_lo int | bt_retry_index int | dec_bt_pwr int | tra_tdma_nav void * | tra_tdma_ant void * | tdma_dac_swing int | tdma_nav void * | tdma_ant void * 
+function rtl8723e_dm_bt_btdm_structure_reload void | hw struct ieee80211_hw * | btdm struct btdm_8723 *

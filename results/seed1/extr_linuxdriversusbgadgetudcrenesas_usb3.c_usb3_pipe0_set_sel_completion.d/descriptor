@@ -1,3 +1,0 @@
-struct usb_request | dummy int 
-struct usb_ep | dummy int 
-function usb3_pipe0_set_sel_completion void | ep struct usb_ep * | req struct usb_request *

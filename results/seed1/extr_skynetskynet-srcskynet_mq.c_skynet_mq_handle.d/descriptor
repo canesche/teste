@@ -1,2 +1,0 @@
-struct message_queue | handle int 
-function skynet_mq_handle int | q struct message_queue *

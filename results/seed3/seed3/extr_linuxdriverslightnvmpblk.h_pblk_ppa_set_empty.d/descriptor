@@ -1,0 +1,2 @@
+struct ppa_addr | ppa int 
+function pblk_ppa_set_empty void | ppa_addr struct ppa_addr *

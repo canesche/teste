@@ -1,0 +1,4 @@
+struct dgnc_board | print_driver struct TYPE_4__ * | serial_driver struct TYPE_3__ * 
+struct TYPE_4__ | major unsigned int 
+struct TYPE_3__ | major unsigned int 
+function find_board_by_major struct dgnc_board * | major unsigned int

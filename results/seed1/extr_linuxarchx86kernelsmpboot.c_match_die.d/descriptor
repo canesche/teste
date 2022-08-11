@@ -1,2 +1,0 @@
-struct cpuinfo_x86 | phys_proc_id long 
-function match_die int | c struct cpuinfo_x86 * | o struct cpuinfo_x86 *

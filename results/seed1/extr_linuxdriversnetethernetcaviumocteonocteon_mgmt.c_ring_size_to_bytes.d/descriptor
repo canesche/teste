@@ -1,2 +1,0 @@
-struct mgmt_port_ring_entry | dummy int 
-function ring_size_to_bytes unsigned int | ring_size unsigned int

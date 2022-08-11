@@ -1,0 +1,2 @@
+struct box | cell int * 
+function box_text_offset char * | box struct box * | cells unsigned long

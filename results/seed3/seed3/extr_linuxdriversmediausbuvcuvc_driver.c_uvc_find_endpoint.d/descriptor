@@ -1,0 +1,5 @@
+struct TYPE_3__ | bNumEndpoints unsigned int 
+struct usb_host_interface | endpoint struct usb_host_endpoint * | desc struct TYPE_3__ 
+struct TYPE_4__ | bEndpointAddress long 
+struct usb_host_endpoint | desc struct TYPE_4__ 
+function uvc_find_endpoint struct usb_host_endpoint * | alts struct usb_host_interface * | epaddr long

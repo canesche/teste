@@ -1,0 +1,3 @@
+struct ifbrparam | ifbrp_csize int 
+struct bridge_softc | sc_brtmax int 
+function bridge_ioctl_gcache int | sc struct bridge_softc * | arg void *

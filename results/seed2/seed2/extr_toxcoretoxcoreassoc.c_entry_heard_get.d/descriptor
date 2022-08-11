@@ -1,0 +1,4 @@
+struct TYPE_7__ | family long 
+struct TYPE_8__ | ip struct TYPE_7__ 
+struct TYPE_9__ | assoc_heard6 struct TYPE_8__ | assoc_heard4 struct TYPE_8__ 
+function entry_heard_get struct TYPE_8__ * | entry struct TYPE_9__ * | ipp const struct TYPE_8__ *

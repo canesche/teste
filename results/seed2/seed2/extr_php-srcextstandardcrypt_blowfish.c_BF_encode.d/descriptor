@@ -1,0 +1,1 @@
+function BF_encode void | dst char * | src const int * | size int

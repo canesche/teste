@@ -1,0 +1,2 @@
+struct device_type | dummy int 
+function power_supply_init_attrs void | dev_type struct device_type *

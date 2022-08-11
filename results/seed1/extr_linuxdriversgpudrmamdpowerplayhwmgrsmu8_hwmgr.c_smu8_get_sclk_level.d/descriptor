@@ -1,5 +1,0 @@
-struct TYPE_3__ | vddc_dependency_on_sclk struct phm_clock_voltage_dependency_table * 
-struct pp_hwmgr | dyn_state struct TYPE_3__ 
-struct phm_clock_voltage_dependency_table | entries struct TYPE_4__ * | count long 
-struct TYPE_4__ | clk int 
-function smu8_get_sclk_level int | hwmgr struct pp_hwmgr * | clock int | msg int

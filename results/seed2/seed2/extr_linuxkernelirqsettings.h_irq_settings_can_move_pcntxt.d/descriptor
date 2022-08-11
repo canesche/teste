@@ -1,0 +1,2 @@
+struct irq_desc | status_use_accessors int 
+function irq_settings_can_move_pcntxt int | desc struct irq_desc *

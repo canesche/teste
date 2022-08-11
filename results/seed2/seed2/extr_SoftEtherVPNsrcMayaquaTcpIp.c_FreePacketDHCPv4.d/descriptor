@@ -1,0 +1,3 @@
+struct TYPE_4__ | DHCPv4Header int * 
+struct TYPE_5__ | TypeL7 int | L7 struct TYPE_4__ 
+function FreePacketDHCPv4 void | p struct TYPE_5__ *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxtoolsperfutilintel-pt-decoderintel-pt-decoder.c_intel_pt_sample_time.d/extr_linuxtoolsperfutilintel-pt-decoderintel-pt-decoder.c_intel_pt_sample_time_O0::intel_pt_sample_time(70)"
+  }
+]

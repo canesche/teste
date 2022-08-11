@@ -1,0 +1,2 @@
+struct TYPE_3__ | handleError void (*)(void *, int, int) | errorUptr void * 
+function fonsSetErrorCallback void | stash struct TYPE_3__ * | callback void (*)(void *, int, int) | uptr void *

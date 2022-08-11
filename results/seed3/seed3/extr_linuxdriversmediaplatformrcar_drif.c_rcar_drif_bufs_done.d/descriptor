@@ -1,0 +1,2 @@
+struct rcar_drif_hwbuf | status int 
+function rcar_drif_bufs_done int | buf struct rcar_drif_hwbuf **

@@ -1,0 +1,2 @@
+struct mlxsw_sp_nexthop | offloaded int 
+function mlxsw_sp_nexthop_offload int | nh struct mlxsw_sp_nexthop *

@@ -1,2 +1,0 @@
-struct irq_data | hwirq unsigned int 
-function gic_irq unsigned int | d struct irq_data *

@@ -1,3 +1,0 @@
-struct TYPE_4__ | td_compression int 
-struct TYPE_5__ | tif_dir struct TYPE_4__ 
-function _TIFFCheckFieldIsValidForCodec int | tif struct TYPE_5__ * | tag int

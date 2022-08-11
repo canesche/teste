@@ -1,0 +1,2 @@
+struct device | dummy int 
+function acpi_register_gsi_pic int | dev struct device * | gsi int | trigger int | polarity int

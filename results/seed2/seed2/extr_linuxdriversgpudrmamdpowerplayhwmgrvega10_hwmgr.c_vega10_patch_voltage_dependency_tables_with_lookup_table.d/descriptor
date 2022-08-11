@@ -1,0 +1,13 @@
+struct pp_hwmgr | pptable long 
+struct phm_ppt_v2_information | vddmem_lookup_table struct TYPE_16__ * | vddci_lookup_table struct TYPE_13__ * | vddc_lookup_table struct TYPE_11__ * | vdd_dep_on_phyclk struct phm_ppt_v1_clock_voltage_dependency_table * | vdd_dep_on_dispclk struct phm_ppt_v1_clock_voltage_dependency_table * | vdd_dep_on_pixclk struct phm_ppt_v1_clock_voltage_dependency_table * | vdd_dep_on_dcefclk struct phm_ppt_v1_clock_voltage_dependency_table * | vdd_dep_on_sclk struct phm_ppt_v1_clock_voltage_dependency_table * | vdd_dep_on_socclk struct phm_ppt_v1_clock_voltage_dependency_table * | vdd_dep_on_mclk struct phm_ppt_v1_clock_voltage_dependency_table * | mm_dep_table struct phm_ppt_v1_mm_clock_voltage_dependency_table * 
+struct phm_ppt_v1_mm_clock_voltage_dependency_table | count unsigned long | entries struct TYPE_9__ * 
+struct phm_ppt_v1_clock_voltage_dependency_table | count unsigned long | entries struct TYPE_14__ * 
+struct TYPE_16__ | entries struct TYPE_15__ * 
+struct TYPE_15__ | us_vdd int 
+struct TYPE_14__ | vddInd unsigned long | vddciInd unsigned long | mvddInd unsigned long | mvdd int | vddci int | vddc int 
+struct TYPE_13__ | entries struct TYPE_12__ * 
+struct TYPE_12__ | us_vdd int 
+struct TYPE_11__ | entries struct TYPE_10__ * 
+struct TYPE_10__ | us_vdd int 
+struct TYPE_9__ | vddcInd unsigned long | vddc int 
+function vega10_patch_voltage_dependency_tables_with_lookup_table int | hwmgr struct pp_hwmgr *

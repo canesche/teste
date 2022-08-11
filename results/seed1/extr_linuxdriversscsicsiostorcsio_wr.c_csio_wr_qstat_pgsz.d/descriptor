@@ -1,4 +1,0 @@
-struct TYPE_3__ | sge_control int 
-struct TYPE_4__ | sge struct TYPE_3__ 
-struct csio_hw | wrm struct TYPE_4__ 
-function csio_wr_qstat_pgsz int | hw struct csio_hw *

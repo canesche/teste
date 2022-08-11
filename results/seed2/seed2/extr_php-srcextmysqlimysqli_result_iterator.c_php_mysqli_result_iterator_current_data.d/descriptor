@@ -1,0 +1,2 @@
+struct TYPE_2__ | current_row int 
+function php_mysqli_result_iterator_current_data int * | iter int *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | bits int | out int * 
+function bitadd void | bb struct TYPE_3__ * | v unsigned int | n int

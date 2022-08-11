@@ -1,0 +1,2 @@
+struct net | dummy int 
+function bt_procfs_cleanup void | net struct net * | name const char *

@@ -1,2 +1,0 @@
-struct i2c_client | dummy int 
-function inv_mpu_acpi_create_mux_client int | client struct i2c_client *

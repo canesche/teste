@@ -1,0 +1,1 @@
+value(width) == 255, value(height) == 255, value(src1Stride) == 255, value(src2Stride) == 255, value(dstStride) == 255, length(src1) == 65025, length(src2) == 65025, length(dest) == 65025

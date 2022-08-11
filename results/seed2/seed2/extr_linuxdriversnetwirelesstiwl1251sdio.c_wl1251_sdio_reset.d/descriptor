@@ -1,0 +1,2 @@
+struct wl1251 | dummy int 
+function wl1251_sdio_reset void | wl struct wl1251 *

@@ -1,0 +1,7 @@
+struct TYPE_8__ | funcs int * 
+struct TYPE_9__ | ring struct TYPE_8__ 
+struct TYPE_10__ | num_gfx_rings int | num_compute_rings int | compute_ring struct TYPE_7__ * | gfx_ring struct TYPE_6__ * | kiq struct TYPE_9__ 
+struct amdgpu_device | gfx struct TYPE_10__ 
+struct TYPE_7__ | funcs int * 
+struct TYPE_6__ | funcs int * 
+function gfx_v8_0_set_ring_funcs void | adev struct amdgpu_device *

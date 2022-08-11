@@ -1,0 +1,2 @@
+struct dm_bufio_client | minimum_buffers unsigned int 
+function dm_bufio_set_minimum_buffers void | c struct dm_bufio_client * | n unsigned int

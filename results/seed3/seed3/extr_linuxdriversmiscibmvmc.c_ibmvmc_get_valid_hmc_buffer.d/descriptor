@@ -1,0 +1,4 @@
+struct ibmvmc_buffer | owner long | free long | valid long 
+struct TYPE_4__ | buffer struct ibmvmc_buffer * 
+struct TYPE_3__ | max_hmc_index unsigned long 
+function ibmvmc_get_valid_hmc_buffer struct ibmvmc_buffer * | hmc_index unsigned long

@@ -1,0 +1,3 @@
+struct atmel_aes_reqctx | mode int 
+struct atmel_aes_dev | flags int 
+function atmel_aes_set_mode void | dd struct atmel_aes_dev * | rctx const struct atmel_aes_reqctx *

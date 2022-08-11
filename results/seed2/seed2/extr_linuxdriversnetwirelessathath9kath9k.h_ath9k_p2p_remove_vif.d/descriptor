@@ -1,0 +1,3 @@
+struct ieee80211_vif | dummy int 
+struct ath_softc | dummy int 
+function ath9k_p2p_remove_vif void | sc struct ath_softc * | vif struct ieee80211_vif *

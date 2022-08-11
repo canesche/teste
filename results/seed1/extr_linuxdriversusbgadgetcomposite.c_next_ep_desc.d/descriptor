@@ -1,2 +1,0 @@
-struct usb_descriptor_header | bDescriptorType long 
-function next_ep_desc struct usb_descriptor_header ** | t struct usb_descriptor_header **

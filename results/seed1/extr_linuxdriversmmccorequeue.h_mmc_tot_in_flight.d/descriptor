@@ -1,2 +1,0 @@
-struct mmc_queue | in_flight int * 
-function mmc_tot_in_flight int | mq struct mmc_queue *

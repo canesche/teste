@@ -1,2 +1,0 @@
-struct iscsi_cmd | dummy int 
-function iscsit_dump_pdu_list void | cmd struct iscsi_cmd *

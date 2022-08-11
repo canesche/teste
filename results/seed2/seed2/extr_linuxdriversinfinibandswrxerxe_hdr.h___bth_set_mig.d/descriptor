@@ -1,0 +1,2 @@
+struct rxe_bth | flags int 
+function __bth_set_mig void | arg void * | mig long

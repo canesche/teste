@@ -1,0 +1,3 @@
+struct TYPE_4__ | ClipEquation const float ** | ClipEnabled long * 
+struct TYPE_5__ | Transform struct TYPE_4__ 
+function gl_userclip_point unsigned long | ctx struct TYPE_5__ * | v float const[]

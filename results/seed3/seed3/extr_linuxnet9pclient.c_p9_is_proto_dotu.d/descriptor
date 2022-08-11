@@ -1,0 +1,2 @@
+struct p9_client | proto_version long 
+function p9_is_proto_dotu int | clnt struct p9_client *

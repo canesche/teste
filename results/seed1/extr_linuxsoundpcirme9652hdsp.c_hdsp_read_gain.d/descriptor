@@ -1,2 +1,0 @@
-struct hdsp | mixer_matrix int * 
-function hdsp_read_gain int | hdsp struct hdsp * | addr unsigned int

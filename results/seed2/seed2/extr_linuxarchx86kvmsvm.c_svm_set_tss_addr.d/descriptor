@@ -1,0 +1,2 @@
+struct kvm | dummy int 
+function svm_set_tss_addr int | kvm struct kvm * | addr unsigned int

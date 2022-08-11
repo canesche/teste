@@ -1,0 +1,3 @@
+struct t3_cq_status_page | cq_err int 
+struct t3_cq | size_log2 int | queue int * 
+function cxio_set_cq_in_error void | cq struct t3_cq *

@@ -1,0 +1,4 @@
+struct TYPE_6__ | gState long | pActiveClass struct TYPE_5__ * 
+struct TYPE_7__ | state long | max_lun int 
+struct TYPE_5__ | pData struct TYPE_7__ * 
+function USBH_MSC_GetMaxLUN int | phost struct TYPE_6__ *

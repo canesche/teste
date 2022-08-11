@@ -1,2 +1,0 @@
-struct sdhci_pci_slot | private long 
-function sdhci_pci_priv void * | slot struct sdhci_pci_slot *

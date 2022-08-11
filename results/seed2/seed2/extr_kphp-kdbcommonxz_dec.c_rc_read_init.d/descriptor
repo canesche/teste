@@ -1,0 +1,3 @@
+struct xz_buf | in_pos long | in_size long | in int * 
+struct rc_dec | init_bytes_left long | code int 
+function rc_read_init char | rc struct rc_dec * | b struct xz_buf *

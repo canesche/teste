@@ -1,0 +1,3 @@
+struct object_list | next struct object_list * | item struct object * 
+struct object | dummy int 
+function object_list_contains int | list struct object_list * | obj struct object *

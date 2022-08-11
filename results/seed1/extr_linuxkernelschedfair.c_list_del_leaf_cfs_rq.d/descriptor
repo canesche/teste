@@ -1,2 +1,0 @@
-struct cfs_rq | dummy int 
-function list_del_leaf_cfs_rq void | cfs_rq struct cfs_rq *

@@ -1,0 +1,2 @@
+struct irq_data | irq int 
+function enable_pcit_irq void | d struct irq_data *

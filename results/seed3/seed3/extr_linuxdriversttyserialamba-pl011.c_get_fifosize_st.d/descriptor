@@ -1,0 +1,2 @@
+struct amba_device | dummy int 
+function get_fifosize_st unsigned int | dev struct amba_device *

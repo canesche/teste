@@ -1,0 +1,3 @@
+struct sas_identify | device_type int | target_port_protocols int | initiator_port_protocols int | phy_identifier int | sas_address int 
+struct mptsas_devinfo | device_info int | phy_id int | sas_address int 
+function mptsas_parse_device_info void | identify struct sas_identify * | device_info struct mptsas_devinfo *

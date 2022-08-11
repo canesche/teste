@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxnetmac80211mesh_sync.c_mesh_peer_tbtt_adjusting.d/extr_linuxnetmac80211mesh_sync.c_mesh_peer_tbtt_adjusting_O0::mesh_peer_tbtt_adjusting(64)"
+  }
+]

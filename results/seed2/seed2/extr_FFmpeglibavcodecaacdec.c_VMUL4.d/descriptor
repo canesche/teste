@@ -1,0 +1,1 @@
+function VMUL4 float * | dst float * | v const float * | idx unsigned int | scale const float *

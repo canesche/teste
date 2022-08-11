@@ -1,5 +1,0 @@
-struct TYPE_3__ | priv struct evergreen_power_info * 
-struct TYPE_4__ | dpm struct TYPE_3__ 
-struct radeon_device | pm struct TYPE_4__ 
-struct evergreen_power_info | dummy int 
-function evergreen_get_pi struct evergreen_power_info * | rdev struct radeon_device *

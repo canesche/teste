@@ -1,0 +1,2 @@
+struct xgbe_phy_data | sfp_gpio_mask int | sfp_gpio_inputs int | sfp_gpio_mod_absent int 
+function xgbe_phy_check_sfp_mod_absent int | phy_data struct xgbe_phy_data *

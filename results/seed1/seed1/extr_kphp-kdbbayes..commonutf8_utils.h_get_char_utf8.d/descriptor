@@ -1,0 +1,1 @@
+function get_char_utf8 int | x unsigned int * | s const char *

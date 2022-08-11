@@ -1,3 +1,0 @@
-struct devlink_dpipe_match | field_id int | header int * | type int 
-struct devlink_dpipe_action | field_id int | header int * | type int 
-function mlxsw_sp_erif_match_action_prepare void | match struct devlink_dpipe_match * | action struct devlink_dpipe_action *

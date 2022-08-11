@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 30,
+    phantoms: 15,
+    exit: true,
+    halt: false,
+    edges: 60,
+    static: {
+      instructions: 80,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 80,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversstagingrtlwifirtl8822behw.c__rtl8822be_get_chnl_group.d/extr_linuxdriversstagingrtlwifirtl8822behw.c__rtl8822be_get_chnl_group_O0::_rtl8822be_get_chnl_group(61)"
+  }
+]

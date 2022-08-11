@@ -1,3 +1,0 @@
-struct dispc_device | feat struct TYPE_2__ * 
-struct TYPE_2__ | supported_color_modes long ** 
-function dispc_ovl_color_mode_supported int | dispc struct dispc_device * | plane enum omap_plane_id | fourcc const long

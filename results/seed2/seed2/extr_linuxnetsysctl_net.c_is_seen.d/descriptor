@@ -1,0 +1,5 @@
+struct ctl_table_set | dummy int 
+struct TYPE_6__ | nsproxy struct TYPE_5__ * 
+struct TYPE_5__ | net_ns struct TYPE_4__ * 
+struct TYPE_4__ | sysctls struct ctl_table_set 
+function is_seen int | set struct ctl_table_set *

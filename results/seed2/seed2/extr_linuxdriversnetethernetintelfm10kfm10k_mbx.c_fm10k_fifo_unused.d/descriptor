@@ -1,0 +1,2 @@
+struct fm10k_mbx_fifo | tail long | head long | size long 
+function fm10k_fifo_unused long | fifo struct fm10k_mbx_fifo *

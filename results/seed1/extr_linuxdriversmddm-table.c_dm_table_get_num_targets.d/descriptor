@@ -1,2 +1,0 @@
-struct dm_table | num_targets unsigned int 
-function dm_table_get_num_targets unsigned int | t struct dm_table *

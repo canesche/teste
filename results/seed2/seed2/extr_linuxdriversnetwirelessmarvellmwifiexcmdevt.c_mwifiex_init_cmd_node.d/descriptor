@@ -1,0 +1,3 @@
+struct mwifiex_private | dummy int 
+struct cmd_ctrl_node | wait_q_enabled int | cmd_wait_q_woken int | condition int * | skb int | cmd_skb int | data_buf void * | cmd_oid int | priv struct mwifiex_private * 
+function mwifiex_init_cmd_node void | priv struct mwifiex_private * | cmd_node struct cmd_ctrl_node * | cmd_oid int | data_buf void * | sync int

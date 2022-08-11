@@ -1,2 +1,0 @@
-struct connection | dummy int 
-function sqls_do_wakeup int | c struct connection *

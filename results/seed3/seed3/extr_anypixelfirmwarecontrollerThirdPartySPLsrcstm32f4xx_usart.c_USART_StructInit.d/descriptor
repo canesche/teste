@@ -1,0 +1,2 @@
+struct TYPE_3__ | USART_BaudRate int | USART_Mode int | USART_HardwareFlowControl int | USART_Parity int | USART_StopBits int | USART_WordLength int 
+function USART_StructInit void | USART_InitStruct struct TYPE_3__ *

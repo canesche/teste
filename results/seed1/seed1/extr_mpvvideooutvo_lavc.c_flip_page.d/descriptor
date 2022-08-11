@@ -1,0 +1,2 @@
+struct vo | dummy int 
+function flip_page void | vo struct vo *

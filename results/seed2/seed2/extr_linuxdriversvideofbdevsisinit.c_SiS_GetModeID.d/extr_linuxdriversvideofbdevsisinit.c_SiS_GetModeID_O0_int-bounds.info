@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 21,
+    phantoms: 19,
+    exit: true,
+    halt: false,
+    edges: 41,
+    static: {
+      instructions: 91,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 91,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversvideofbdevsisinit.c_SiS_GetModeID.d/extr_linuxdriversvideofbdevsisinit.c_SiS_GetModeID_O0::SiS_GetModeID(104)"
+  }
+]

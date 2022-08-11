@@ -1,3 +1,0 @@
-struct gs_program | vertex_shader long | pixel_shader long | next struct gs_program * 
-struct gs_device | cur_vertex_shader long | cur_pixel_shader long | first_program struct gs_program * 
-function find_program struct gs_program * | device const struct gs_device *

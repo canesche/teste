@@ -1,0 +1,2 @@
+struct pl08x_channel_data | dummy int 
+function pl08x_put_signal void | cd const struct pl08x_channel_data * | ch int

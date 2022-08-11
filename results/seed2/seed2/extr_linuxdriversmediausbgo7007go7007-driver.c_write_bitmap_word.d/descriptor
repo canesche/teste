@@ -1,0 +1,2 @@
+struct go7007 | width int | parse_length int | active_map int * | modet_word int 
+function write_bitmap_word void | go struct go7007 *

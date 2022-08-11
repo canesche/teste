@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversstagingvboxvideovbox_irq.c_validate_or_set_position_hints.d/extr_linuxdriversstagingvboxvideovbox_irq.c_validate_or_set_position_hints_O0::validate_or_set_position_hints(63)"
+  }
+]

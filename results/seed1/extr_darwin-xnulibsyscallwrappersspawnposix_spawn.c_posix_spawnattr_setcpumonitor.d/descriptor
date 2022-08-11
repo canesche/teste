@@ -1,2 +1,0 @@
-struct TYPE_2__ | psa_cpumonitor_interval void * | psa_cpumonitor_percent void * 
-function posix_spawnattr_setcpumonitor int | attr int **__restrict | percent void * | interval void *

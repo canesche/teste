@@ -1,2 +1,0 @@
-struct request_queue | lld_busy_fn int * 
-function blk_queue_lld_busy void | q struct request_queue * | fn int *

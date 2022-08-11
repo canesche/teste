@@ -1,0 +1,6 @@
+struct xhci_virt_device | real_port int | tt_info struct TYPE_4__ * 
+struct TYPE_3__ | bw_used int 
+struct xhci_root_port_bw_info | num_active_tts int | bw_table struct TYPE_3__ 
+struct xhci_hcd | rh_bw struct xhci_root_port_bw_info * 
+struct TYPE_4__ | active_eps long 
+function xhci_update_tt_active_eps void | xhci struct xhci_hcd * | virt_dev struct xhci_virt_device * | old_active_eps int

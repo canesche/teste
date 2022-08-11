@@ -1,2 +1,0 @@
-struct TYPE_3__ | flags int | image_io long | io long 
-function ext2fs_get_data_io int | fs struct TYPE_3__ * | old_io long *

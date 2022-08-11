@@ -1,0 +1,4 @@
+struct TYPE_6__ | dh struct TYPE_5__ * 
+struct TYPE_7__ | pkey struct TYPE_6__ 
+struct TYPE_5__ | g int * | p int * 
+function dh_missing_parameters int | a const struct TYPE_7__ *

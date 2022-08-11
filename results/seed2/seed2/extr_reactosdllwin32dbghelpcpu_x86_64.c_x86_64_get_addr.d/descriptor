@@ -1,0 +1,3 @@
+struct TYPE_6__ | Mode int | Offset int | Segment int 
+struct TYPE_5__ | Rbp int | SegSs int | Rsp int | Rip int | SegCs int 
+function x86_64_get_addr int | hThread int | ctx const struct TYPE_5__ * | ca enum cpu_addr | addr struct TYPE_6__ *

@@ -1,2 +1,0 @@
-struct powerpc_operand | flags int | shift long 
-function ppc_optional_operand_value long | operand const struct powerpc_operand *

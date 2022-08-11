@@ -1,0 +1,1 @@
+function _RpcResetPrinter int | hPrinter int | pDatatype int * | pDevModeContainer int *

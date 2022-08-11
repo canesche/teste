@@ -1,0 +1,2 @@
+struct clockdomain | flags int 
+function clkdm_missing_idle_reporting int | clkdm struct clockdomain *

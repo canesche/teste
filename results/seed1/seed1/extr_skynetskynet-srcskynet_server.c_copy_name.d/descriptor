@@ -1,0 +1,1 @@
+function copy_name void | name char [GLOBALNAME_LENGTH] | addr const char *

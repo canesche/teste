@@ -1,2 +1,0 @@
-struct TYPE_3__ | tif_curoff int 
-function TIFFSetWriteOffset void | tif struct TYPE_3__ * | off int

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function audio_shutdown void | dev struct device * | data void *

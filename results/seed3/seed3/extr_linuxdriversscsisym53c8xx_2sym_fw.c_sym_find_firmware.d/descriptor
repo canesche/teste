@@ -1,0 +1,3 @@
+struct sym_fw | dummy int 
+struct sym_chip | features int 
+function sym_find_firmware struct sym_fw * | chip struct sym_chip *

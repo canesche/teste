@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_reactossdktoolswidlwrite_msft.c_get_ulong_val.d/extr_reactossdktoolswidlwrite_msft.c_get_ulong_val_O0::get_ulong_val(65)"
+  }
+]

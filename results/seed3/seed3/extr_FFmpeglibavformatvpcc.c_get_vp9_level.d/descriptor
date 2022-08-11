@@ -1,0 +1,3 @@
+struct TYPE_6__ | width int | height int 
+struct TYPE_5__ | den int | num int 
+function get_vp9_level int | par struct TYPE_6__ * | frame_rate struct TYPE_5__ *

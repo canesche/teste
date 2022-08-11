@@ -1,2 +1,0 @@
-struct TYPE_3__ | notBefore long | notAfter long 
-function CheckXDate int | x struct TYPE_3__ * | current_system_time long

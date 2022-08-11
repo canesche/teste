@@ -1,0 +1,3 @@
+struct super_block | s_fs_info struct pts_fs_info * 
+struct pts_fs_info | dummy int 
+function DEVPTS_SB struct pts_fs_info * | sb struct super_block *

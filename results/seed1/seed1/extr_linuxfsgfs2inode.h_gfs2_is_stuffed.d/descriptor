@@ -1,0 +1,2 @@
+struct gfs2_inode | i_height int 
+function gfs2_is_stuffed int | ip const struct gfs2_inode *

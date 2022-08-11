@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriverspcmciapxa2xx_palmtc.c_palmtc_pcmcia_socket_state.d/extr_linuxdriverspcmciapxa2xx_palmtc.c_palmtc_pcmcia_socket_state_O0::palmtc_pcmcia_socket_state(63)"
+  }
+]

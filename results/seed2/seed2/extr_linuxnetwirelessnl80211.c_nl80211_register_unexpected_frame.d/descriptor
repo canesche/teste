@@ -1,0 +1,5 @@
+struct wireless_dev | iftype long | ap_unexpected_nlportid long 
+struct sk_buff | dummy int 
+struct net_device | ieee80211_ptr struct wireless_dev * 
+struct genl_info | snd_portid long | user_ptr struct net_device ** 
+function nl80211_register_unexpected_frame int | skb struct sk_buff * | info struct genl_info *

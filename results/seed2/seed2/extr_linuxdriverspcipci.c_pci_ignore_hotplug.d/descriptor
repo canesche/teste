@@ -1,0 +1,3 @@
+struct pci_dev | ignore_hotplug int | bus struct TYPE_2__ * 
+struct TYPE_2__ | self struct pci_dev * 
+function pci_ignore_hotplug void | dev struct pci_dev *

@@ -1,0 +1,5 @@
+struct bpf_verifier_state | frame struct bpf_func_state ** 
+struct bpf_verifier_env | cur_state struct bpf_verifier_state * 
+struct bpf_reg_state | frameno unsigned long 
+struct bpf_func_state | dummy int 
+function func struct bpf_func_state * | env struct bpf_verifier_env * | reg const struct bpf_reg_state *

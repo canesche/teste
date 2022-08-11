@@ -1,2 +1,0 @@
-struct device | dummy int 
-function is_blockdev int | dev struct device *

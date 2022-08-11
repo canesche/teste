@@ -1,0 +1,2 @@
+struct TYPE_3__ | dwMajorVersion int | dwMinorVersion int | wSuiteMask int 
+function GetType int | bLocal long | osvi struct TYPE_3__ * | pBuf102 int

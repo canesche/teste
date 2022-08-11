@@ -1,0 +1,6 @@
+struct TYPE_6__ | end long 
+struct bttv_fh | resources int | vbi_fmt struct TYPE_6__ | do_crop int 
+struct bttv | resources int | vbi_end long | crop_start long | crop struct TYPE_5__ * 
+struct TYPE_4__ | top long 
+struct TYPE_5__ | rect struct TYPE_4__ 
+function check_alloc_btres_lock int | btv struct bttv * | fh struct bttv_fh * | bit int

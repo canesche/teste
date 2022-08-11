@@ -1,0 +1,2 @@
+struct adv7511 | dummy int 
+function adv7533_detach_dsi void | adv struct adv7511 *

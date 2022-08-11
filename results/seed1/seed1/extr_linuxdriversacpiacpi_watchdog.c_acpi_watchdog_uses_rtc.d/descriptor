@@ -1,0 +1,2 @@
+struct acpi_table_wdat | dummy int 
+function acpi_watchdog_uses_rtc int | wdat const struct acpi_table_wdat *

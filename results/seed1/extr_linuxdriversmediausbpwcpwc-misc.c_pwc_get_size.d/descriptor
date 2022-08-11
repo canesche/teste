@@ -1,2 +1,0 @@
-struct pwc_device | image_mask int 
-function pwc_get_size int | pdev struct pwc_device * | width int | height int

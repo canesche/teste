@@ -1,3 +1,0 @@
-struct sockaddr_dl | dummy int 
-struct sockaddr | dummy int 
-function ifproto_media_resolve_multi int | ifp int | proto_addr const struct sockaddr * | out_ll struct sockaddr_dl * | ll_len unsigned long

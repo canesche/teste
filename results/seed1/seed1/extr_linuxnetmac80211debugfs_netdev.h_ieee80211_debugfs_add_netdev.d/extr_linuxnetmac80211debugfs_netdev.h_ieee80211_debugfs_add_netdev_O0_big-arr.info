@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxnetmac80211debugfs_netdev.h_ieee80211_debugfs_add_netdev.d/extr_linuxnetmac80211debugfs_netdev.h_ieee80211_debugfs_add_netdev_O0::ieee80211_debugfs_add_netdev(62)"
+  }
+]

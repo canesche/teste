@@ -1,0 +1,3 @@
+struct regmap | dummy int 
+struct max77693_dev | regmap struct regmap * | regmap_chg struct regmap * 
+function max77693_get_regmap struct regmap * | type enum max77693_types | max77693 struct max77693_dev * | reg_id int

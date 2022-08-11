@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_tenginemodulesngx_http_tfs_modulengx_tfs_common.c_ngx_http_tfs_get_parent_dir.d/extr_tenginemodulesngx_http_tfs_modulengx_tfs_common.c_ngx_http_tfs_get_parent_dir_O0::ngx_http_tfs_get_parent_dir(66)"
+  }
+]

@@ -1,0 +1,4 @@
+struct vop_device_id | device long | vendor long 
+struct TYPE_2__ | device long | vendor long 
+struct vop_device | id struct TYPE_2__ 
+function vop_id_match int | dev const struct vop_device * | id const struct vop_device_id *

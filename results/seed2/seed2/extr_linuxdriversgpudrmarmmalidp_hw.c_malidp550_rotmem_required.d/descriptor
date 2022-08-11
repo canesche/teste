@@ -1,0 +1,2 @@
+struct malidp_hw_device | dummy int 
+function malidp550_rotmem_required int | hwdev struct malidp_hw_device * | w int | h int | fmt int

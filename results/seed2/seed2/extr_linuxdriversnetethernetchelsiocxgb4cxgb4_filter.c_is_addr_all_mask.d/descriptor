@@ -1,0 +1,3 @@
+struct in_addr | s_addr int 
+struct in6_addr | s6_addr32 int * 
+function is_addr_all_mask int | ipmask int * | family int

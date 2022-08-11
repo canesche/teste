@@ -1,0 +1,4 @@
+struct kcdata_item | dummy int 
+struct TYPE_5__ | end long | item struct TYPE_4__ * 
+struct TYPE_4__ | size unsigned long 
+function kcdata_iter_valid int | iter struct TYPE_5__

@@ -1,0 +1,2 @@
+struct vc_data | vc_num long 
+function con_is_fg int | vc const struct vc_data *

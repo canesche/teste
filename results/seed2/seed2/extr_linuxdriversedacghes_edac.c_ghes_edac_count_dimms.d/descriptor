@@ -1,0 +1,2 @@
+struct dmi_header | type long 
+function ghes_edac_count_dimms void | dh const struct dmi_header * | arg void *

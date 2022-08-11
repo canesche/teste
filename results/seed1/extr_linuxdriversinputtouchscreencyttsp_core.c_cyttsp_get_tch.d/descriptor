@@ -1,3 +1,0 @@
-struct cyttsp_tch | dummy int 
-struct cyttsp_xydata | tch4 const struct cyttsp_tch | tch3 const struct cyttsp_tch | tch2 const struct cyttsp_tch | tch1 const struct cyttsp_tch 
-function cyttsp_get_tch const struct cyttsp_tch * | xy_data struct cyttsp_xydata * | idx int

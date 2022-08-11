@@ -1,0 +1,3 @@
+struct TYPE_3__ | top_blk_off int 
+struct TYPE_4__ | dbgbus_dpu struct TYPE_3__ 
+function dpu_dbg_set_dpu_top_offset void | blk_off int

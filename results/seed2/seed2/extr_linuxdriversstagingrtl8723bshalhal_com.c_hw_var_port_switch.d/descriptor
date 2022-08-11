@@ -1,0 +1,2 @@
+struct adapter | dummy int 
+function hw_var_port_switch void | adapter struct adapter *

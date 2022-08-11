@@ -1,4 +1,0 @@
-struct TYPE_5__ | LogicalDriveNumber int 
-struct TYPE_6__ | LD struct TYPE_5__ 
-struct TYPE_7__ | Bytes int * | Type5 struct TYPE_6__ 
-function DAC960_PD_To_P_TranslateReadWriteCommand void | CommandMailbox struct TYPE_7__ *

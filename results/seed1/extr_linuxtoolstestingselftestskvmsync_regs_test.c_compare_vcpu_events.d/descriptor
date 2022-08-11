@@ -1,2 +1,0 @@
-struct kvm_vcpu_events | dummy int 
-function compare_vcpu_events void | left struct kvm_vcpu_events * | right struct kvm_vcpu_events *

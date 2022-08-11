@@ -1,4 +1,0 @@
-struct bfi_ioc_attr | dummy int 
-struct TYPE_2__ | pa int | kva int * 
-struct bfa_ioc | attr struct bfi_ioc_attr * | attr_dma struct TYPE_2__ 
-function bfa_nw_ioc_mem_claim void | ioc struct bfa_ioc * | dm_kva int * | dm_pa int

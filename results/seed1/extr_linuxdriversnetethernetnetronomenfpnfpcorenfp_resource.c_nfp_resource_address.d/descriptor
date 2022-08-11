@@ -1,2 +1,0 @@
-struct nfp_resource | addr int 
-function nfp_resource_address int | res struct nfp_resource *

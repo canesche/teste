@@ -1,3 +1,0 @@
-struct tda827x_priv | bandwidth int 
-struct dvb_frontend | tuner_priv struct tda827x_priv * 
-function tda827x_get_bandwidth int | fe struct dvb_frontend * | bandwidth int *

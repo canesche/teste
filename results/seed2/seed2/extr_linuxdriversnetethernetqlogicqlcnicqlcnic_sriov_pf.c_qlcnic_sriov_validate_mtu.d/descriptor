@@ -1,0 +1,6 @@
+struct qlcnic_vf_info | rx_ctx_id long 
+struct TYPE_3__ | arg long * 
+struct qlcnic_cmd_args | req struct TYPE_3__ 
+struct qlcnic_adapter | ahw struct TYPE_4__ * 
+struct TYPE_4__ | max_mtu long 
+function qlcnic_sriov_validate_mtu int | adapter struct qlcnic_adapter * | vf struct qlcnic_vf_info * | cmd struct qlcnic_cmd_args *

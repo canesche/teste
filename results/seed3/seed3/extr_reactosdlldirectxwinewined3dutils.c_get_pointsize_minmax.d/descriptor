@@ -1,0 +1,4 @@
+struct wined3d_state | render_states int * 
+struct wined3d_context | dummy int 
+function get_pointsize_minmax void | context const struct wined3d_context * | state const struct wined3d_state * | out_min float * | out_max float *
+struct  | d int | f float 

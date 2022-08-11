@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsoundsoccodecswm_adsp.c_wmfw_convert_flags.d/extr_linuxsoundsoccodecswm_adsp.c_wmfw_convert_flags_O0::wmfw_convert_flags(70)"
+  }
+]

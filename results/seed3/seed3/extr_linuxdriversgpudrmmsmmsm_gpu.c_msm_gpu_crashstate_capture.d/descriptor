@@ -1,0 +1,3 @@
+struct msm_gpu | dummy int 
+struct msm_gem_submit | dummy int 
+function msm_gpu_crashstate_capture void | gpu struct msm_gpu * | submit struct msm_gem_submit * | comm char * | cmd char *

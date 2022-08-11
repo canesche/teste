@@ -1,0 +1,2 @@
+struct sctp_fwdtsn_skip | stream long 
+function sctp_get_skip_pos int | skiplist struct sctp_fwdtsn_skip * | nskips int | stream long

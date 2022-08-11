@@ -1,0 +1,2 @@
+struct TYPE_3__ | io int * 
+function XMLRPC_RequestGetData int * | request struct TYPE_3__ *

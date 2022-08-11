@@ -1,2 +1,0 @@
-struct pt_regs | dummy int 
-function ipi_cpu_crash_stop void | cpu unsigned int | regs struct pt_regs *

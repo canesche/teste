@@ -1,0 +1,2 @@
+struct rtc_time | tm_year int | tm_mday int | tm_hour long | tm_min long | tm_sec long | tm_mon long 
+function m68328_hwclk int | set int | t struct rtc_time *

@@ -1,4 +1,0 @@
-struct TYPE_7__ | list struct TYPE_6__ * 
-struct TYPE_8__ | format long | u struct TYPE_7__ 
-struct TYPE_6__ | num int | values struct TYPE_8__ * 
-function mpv_node_array_get struct TYPE_8__ * | src struct TYPE_8__ * | index int

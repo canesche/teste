@@ -1,2 +1,0 @@
-struct TYPE_3__ | BUFFER_FLAG_END_OF_STREAM int 
-function ff_AMediaCodec_getBufferFlagEndOfStream int | codec struct TYPE_3__ *

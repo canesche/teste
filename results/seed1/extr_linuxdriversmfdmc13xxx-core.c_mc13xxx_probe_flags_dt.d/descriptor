@@ -1,2 +1,0 @@
-struct mc13xxx | dummy int 
-function mc13xxx_probe_flags_dt int | mc13xxx struct mc13xxx *

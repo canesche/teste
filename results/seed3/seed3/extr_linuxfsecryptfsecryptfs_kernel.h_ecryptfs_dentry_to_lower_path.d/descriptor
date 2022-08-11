@@ -1,0 +1,4 @@
+struct path | dummy int 
+struct ecryptfs_dentry_info | lower_path struct path 
+struct dentry | d_fsdata long 
+function ecryptfs_dentry_to_lower_path struct path * | dentry struct dentry *

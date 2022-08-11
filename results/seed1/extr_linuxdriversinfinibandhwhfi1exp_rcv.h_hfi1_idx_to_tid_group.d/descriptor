@@ -1,3 +1,0 @@
-struct tid_group | dummy int 
-struct hfi1_ctxtdata | groups struct tid_group * 
-function hfi1_idx_to_tid_group struct tid_group * | rcd struct hfi1_ctxtdata * | idx unsigned long

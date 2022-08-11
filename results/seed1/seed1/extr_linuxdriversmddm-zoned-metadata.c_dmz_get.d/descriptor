@@ -1,0 +1,3 @@
+struct dmz_metadata | zones struct dm_zone * 
+struct dm_zone | dummy int 
+function dmz_get struct dm_zone * | zmd struct dmz_metadata * | zone_id unsigned int

@@ -1,0 +1,2 @@
+struct hash_table | array int * | nr long | size long 
+function init_hash void | table struct hash_table *

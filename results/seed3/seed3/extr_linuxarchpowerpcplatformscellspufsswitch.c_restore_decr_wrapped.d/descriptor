@@ -1,0 +1,5 @@
+struct spu_state | spu_chnlcnt_RW int * | spu_chnldata_RW int * | lscsa struct TYPE_4__ * 
+struct spu | dummy int 
+struct TYPE_3__ | slot int * 
+struct TYPE_4__ | decr_status struct TYPE_3__ 
+function restore_decr_wrapped void | csa struct spu_state * | spu struct spu *

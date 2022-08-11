@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetwirelessbroadcombrcm80211brcmfmacpno.c_brcmf_pno_wiphy_params.d/extr_linuxdriversnetwirelessbroadcombrcm80211brcmfmacpno.c_brcmf_pno_wiphy_params_O0::brcmf_pno_wiphy_params(65)"
+  }
+]

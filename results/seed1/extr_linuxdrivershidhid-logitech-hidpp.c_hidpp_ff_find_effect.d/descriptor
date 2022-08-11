@@ -1,2 +1,0 @@
-struct hidpp_ff_private_data | num_effects int | effect_ids int * 
-function hidpp_ff_find_effect int | data struct hidpp_ff_private_data * | effect_id int

@@ -1,0 +1,4 @@
+struct TYPE_2__ | vlan_id long * 
+struct ep_buffer_info | v1i struct TYPE_2__ 
+struct epbuf_handler | info union ep_buffer_info * 
+function fjes_hw_check_vlan_id int | epbh struct epbuf_handler * | vlan_id long

@@ -1,3 +1,0 @@
-struct TYPE_2__ | rar_entry_count int 
-struct e1000_hw | mac struct TYPE_2__ 
-function e1000e_rar_get_count_generic int | hw struct e1000_hw *

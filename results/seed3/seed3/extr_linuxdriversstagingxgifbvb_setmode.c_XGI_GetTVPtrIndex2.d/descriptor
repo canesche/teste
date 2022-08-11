@@ -1,0 +1,2 @@
+struct vb_device_info | TVInfo int | VBType int | VBInfo int 
+function XGI_GetTVPtrIndex2 void | tempbx unsigned short * | tempcl unsigned char * | tempch unsigned char * | pVBInfo struct vb_device_info *

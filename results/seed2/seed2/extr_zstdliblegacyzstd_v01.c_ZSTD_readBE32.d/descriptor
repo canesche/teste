@@ -1,0 +1,1 @@
+function ZSTD_readBE32 int | memPtr const void *

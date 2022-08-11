@@ -1,0 +1,4 @@
+struct xfs_dir3_data_hdr | best_free struct xfs_dir2_data_free * 
+struct xfs_dir2_data_hdr | dummy int 
+struct xfs_dir2_data_free | dummy int 
+function xfs_dir3_data_bestfree_p struct xfs_dir2_data_free * | hdr struct xfs_dir2_data_hdr *

@@ -1,0 +1,2 @@
+struct dev_cgroup | behavior long 
+function is_devcg_online int | devcg const struct dev_cgroup *

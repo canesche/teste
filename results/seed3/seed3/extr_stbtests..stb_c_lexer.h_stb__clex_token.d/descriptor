@@ -1,0 +1,2 @@
+struct TYPE_3__ | token int | where_firstchar char * | where_lastchar char * | parse_point char * 
+function stb__clex_token int | lexer struct TYPE_3__ * | token int | start char * | end char *

@@ -1,1 +1,0 @@
-value(cpu) == 255, value(trapnr) == 255, value(err_code) == 255, length(regs) == 65025, length(send_ready) == 65025

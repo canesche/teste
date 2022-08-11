@@ -1,0 +1,5 @@
+struct bfad_port_s | dummy int 
+struct bfa_fcs_itnim_s | rport struct TYPE_4__ * 
+struct TYPE_4__ | port struct TYPE_3__ * 
+struct TYPE_3__ | bfad_port struct bfad_port_s * 
+function bfa_fcs_itnim_get_drvport struct bfad_port_s * | itnim struct bfa_fcs_itnim_s *

@@ -1,0 +1,2 @@
+struct bfa_iocfc_s | dummy int 
+function bfa_iocfc_sm_stopped_entry void | iocfc struct bfa_iocfc_s *

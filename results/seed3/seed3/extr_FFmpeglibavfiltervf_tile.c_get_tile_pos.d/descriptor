@@ -1,0 +1,4 @@
+struct TYPE_5__ | w unsigned int | margin unsigned int | padding const unsigned int 
+struct TYPE_7__ | inputs struct TYPE_6__ ** | priv struct TYPE_5__ * 
+struct TYPE_6__ | w const unsigned int | h const unsigned int 
+function get_tile_pos void | ctx struct TYPE_7__ * | x unsigned int * | y unsigned int * | current unsigned int

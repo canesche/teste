@@ -1,0 +1,2 @@
+struct comedi_device | dummy int 
+function ni_release_ai_mite_channel void | dev struct comedi_device *

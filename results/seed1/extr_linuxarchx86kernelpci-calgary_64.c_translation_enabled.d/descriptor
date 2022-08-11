@@ -1,2 +1,0 @@
-struct iommu_table | dummy int 
-function translation_enabled int | tbl struct iommu_table *

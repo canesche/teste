@@ -1,2 +1,0 @@
-struct _Locale_time | dummy int 
-function _Locale_pm_str const char * | ltime struct _Locale_time *

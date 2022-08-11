@@ -1,0 +1,3 @@
+struct vsock_sock | trans struct virtio_vsock_sock * 
+struct virtio_vsock_sock | buf_size_min long | buf_size_max long | buf_alloc long | buf_size long 
+function virtio_transport_set_buffer_size void | vsk struct vsock_sock * | val long

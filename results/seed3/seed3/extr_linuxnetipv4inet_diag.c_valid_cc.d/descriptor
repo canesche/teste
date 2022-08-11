@@ -1,0 +1,2 @@
+struct inet_diag_bc_op | yes int 
+function valid_cc int | bc const void * | len int | cc int

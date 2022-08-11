@@ -1,0 +1,3 @@
+struct amd_northbridge | dummy int 
+struct TYPE_2__ | num int | nb struct amd_northbridge * 
+function node_to_amd_nb struct amd_northbridge * | node int

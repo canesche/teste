@@ -1,0 +1,3 @@
+struct TYPE_2__ | offload int 
+struct adapter | params struct TYPE_2__ 
+function is_offload int | adap const struct adapter *

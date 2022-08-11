@@ -1,2 +1,0 @@
-struct pt_regs | dummy int 
-function is_f00f_bug int | regs struct pt_regs * | address unsigned long

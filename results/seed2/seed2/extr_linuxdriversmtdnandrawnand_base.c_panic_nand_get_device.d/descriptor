@@ -1,0 +1,4 @@
+struct nand_chip | state int | controller struct TYPE_2__ * 
+struct mtd_info | dummy int 
+struct TYPE_2__ | active struct nand_chip * 
+function panic_nand_get_device void | chip struct nand_chip * | mtd struct mtd_info * | new_state int

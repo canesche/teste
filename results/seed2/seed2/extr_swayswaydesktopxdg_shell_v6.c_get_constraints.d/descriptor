@@ -1,0 +1,5 @@
+struct wlr_xdg_toplevel_v6_state | min_width double | max_width double | min_height double | max_height double 
+struct sway_view | wlr_xdg_surface_v6 struct TYPE_4__ * 
+struct TYPE_4__ | toplevel struct TYPE_3__ * 
+struct TYPE_3__ | current struct wlr_xdg_toplevel_v6_state 
+function get_constraints void | view struct sway_view * | min_width double * | max_width double * | min_height double * | max_height double *

@@ -1,3 +1,0 @@
-struct hda_fixup | dummy int 
-struct hda_codec | dummy int 
-function hda_fixup_thinkpad_acpi void | codec struct hda_codec * | fix const struct hda_fixup * | action int

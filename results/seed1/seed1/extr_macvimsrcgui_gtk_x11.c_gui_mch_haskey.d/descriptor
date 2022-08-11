@@ -1,0 +1,2 @@
+struct TYPE_2__ | key_sym long | code0 long | code1 long 
+function gui_mch_haskey int | name long *

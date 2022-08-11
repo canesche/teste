@@ -1,0 +1,2 @@
+struct TYPE_3__ | mac long 
+function PKCS12_mac_present int | p12 const struct TYPE_3__ *

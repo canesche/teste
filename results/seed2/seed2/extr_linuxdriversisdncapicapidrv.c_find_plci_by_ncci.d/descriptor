@@ -1,0 +1,3 @@
+struct TYPE_5__ | plci int | next struct TYPE_5__ * 
+struct TYPE_6__ | plci_list struct TYPE_5__ * 
+function find_plci_by_ncci struct TYPE_5__ * | card struct TYPE_6__ * | ncci int

@@ -1,0 +1,3 @@
+struct efx_nic | irq_rx_adaptive int | irq_rx_moderation_us unsigned int | tx_channel_offset unsigned long | channel struct efx_channel ** 
+struct efx_channel | irq_moderation_us unsigned int 
+function efx_get_irq_moderation void | efx struct efx_nic * | tx_usecs unsigned int * | rx_usecs unsigned int * | rx_adaptive int *

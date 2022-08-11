@@ -1,3 +1,0 @@
-struct i2c_hid_platform_data | dummy int 
-struct i2c_client | dummy int 
-function i2c_hid_of_probe int | client struct i2c_client * | pdata struct i2c_hid_platform_data *

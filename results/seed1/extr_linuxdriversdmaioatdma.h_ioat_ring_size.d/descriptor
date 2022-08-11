@@ -1,2 +1,0 @@
-struct ioatdma_chan | alloc_order int 
-function ioat_ring_size int | ioat_chan struct ioatdma_chan *

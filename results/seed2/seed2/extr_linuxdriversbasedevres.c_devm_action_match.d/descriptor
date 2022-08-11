@@ -1,0 +1,3 @@
+struct device | dummy int 
+struct action_devres | action long | data long 
+function devm_action_match int | dev struct device * | res void * | p void *

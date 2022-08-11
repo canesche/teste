@@ -1,0 +1,3 @@
+struct RangeList | count unsigned int | list struct Range * 
+struct Range | begin unsigned int | end unsigned int 
+function rangelist_is_contains int | targets const struct RangeList * | number unsigned int

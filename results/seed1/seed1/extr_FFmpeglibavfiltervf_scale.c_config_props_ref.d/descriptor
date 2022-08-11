@@ -1,0 +1,3 @@
+struct TYPE_5__ | frame_rate int | time_base int | sample_aspect_ratio int | h int | w int | src struct TYPE_4__ * 
+struct TYPE_4__ | inputs struct TYPE_5__ ** 
+function config_props_ref int | outlink struct TYPE_5__ *

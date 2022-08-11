@@ -1,3 +1,0 @@
-struct sk_buff | dummy int 
-struct net_device | dummy int 
-function header_create int | skb struct sk_buff * | netdev struct net_device * | type unsigned short | _daddr const void * | _saddr const void * | len unsigned int

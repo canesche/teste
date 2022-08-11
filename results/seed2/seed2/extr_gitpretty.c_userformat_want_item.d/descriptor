@@ -1,0 +1,3 @@
+struct userformat_want | notes int | source int 
+struct strbuf | dummy int 
+function userformat_want_item unsigned long | sb struct strbuf * | placeholder const char * | context void *

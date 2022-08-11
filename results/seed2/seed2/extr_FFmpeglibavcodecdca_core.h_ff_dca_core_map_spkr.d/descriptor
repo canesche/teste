@@ -1,0 +1,2 @@
+struct TYPE_3__ | ch_mask unsigned int 
+function ff_dca_core_map_spkr int | core struct TYPE_3__ * | spkr int

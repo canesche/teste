@@ -1,2 +1,0 @@
-struct tty_struct | dummy int 
-function tty3270_wait_until_sent void | tty struct tty_struct * | timeout int

@@ -1,0 +1,6 @@
+struct TYPE_2__ | max_pixel_clock int 
+struct radeon_device | clock struct TYPE_2__ 
+struct drm_display_mode | clock int 
+struct drm_device | dev_private struct radeon_device * 
+struct drm_connector | dev struct drm_device * 
+function radeon_vga_mode_valid enum drm_mode_status | connector struct drm_connector * | mode struct drm_display_mode *

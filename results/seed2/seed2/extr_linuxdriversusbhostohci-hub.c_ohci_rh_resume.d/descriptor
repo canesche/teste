@@ -1,0 +1,2 @@
+struct ohci_hcd | dummy int 
+function ohci_rh_resume int | ohci struct ohci_hcd *

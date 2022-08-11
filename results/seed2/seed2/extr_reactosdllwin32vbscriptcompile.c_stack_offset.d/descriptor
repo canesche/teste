@@ -1,0 +1,3 @@
+struct TYPE_4__ | stack_use long | next struct TYPE_4__ * 
+struct TYPE_5__ | stat_ctx struct TYPE_4__ * 
+function stack_offset unsigned int | ctx struct TYPE_5__ *

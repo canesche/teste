@@ -1,2 +1,0 @@
-struct TYPE_3__ | pitches int * 
-function rgb888_getBufferWidth int | renderer int * | overlay struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct clocksource | mask int 
+function cksrc_dc21285_enable int | cs struct clocksource *

@@ -1,3 +1,0 @@
-struct pinctrl_dev | desc struct TYPE_2__ * 
-struct TYPE_2__ | npins int 
-function pmic_gpio_get_groups_count int | pctldev struct pinctrl_dev *

@@ -1,0 +1,2 @@
+struct termios | c_cflag int 
+function cfgetospeed int | tio const struct termios *

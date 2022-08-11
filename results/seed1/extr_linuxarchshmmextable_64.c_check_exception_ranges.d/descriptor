@@ -1,2 +1,0 @@
-struct exception_table_entry | dummy int 
-function check_exception_ranges const struct exception_table_entry * | addr unsigned long

@@ -1,0 +1,3 @@
+struct inflate_state | dmax unsigned int | wsize unsigned int | wbits unsigned int | whave long | write long | codes int | next int | distcode int | lencode int | bits long | hold long | havedict long | last long | mode int | total long 
+struct TYPE_3__ | adler int | msg int * | total_out long | total_in long | state int * 
+function zlib_inflateReset int | strm struct TYPE_3__ *

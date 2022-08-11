@@ -1,0 +1,7 @@
+struct mfb_info | index int | x_aoi_d long | y_aoi_d long | count int | parent struct fsl_diu_data * 
+struct fsl_diu_data | fsl_diu_info struct TYPE_4__ * 
+struct fb_var_screeninfo | xres void * | yres int 
+struct fb_info | par struct mfb_info * 
+struct TYPE_3__ | yres void * | xres void * 
+struct TYPE_4__ | var struct TYPE_3__ | par struct mfb_info * 
+function adjust_aoi_size_position void | var struct fb_var_screeninfo * | info struct fb_info *

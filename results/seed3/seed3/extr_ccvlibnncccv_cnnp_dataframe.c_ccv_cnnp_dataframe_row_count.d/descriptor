@@ -1,0 +1,2 @@
+struct TYPE_3__ | row_count int 
+function ccv_cnnp_dataframe_row_count int | dataframe struct TYPE_3__ *const

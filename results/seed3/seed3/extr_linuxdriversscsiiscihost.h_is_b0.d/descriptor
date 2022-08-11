@@ -1,0 +1,2 @@
+struct pci_dev | revision int 
+function is_b0 int | pdev struct pci_dev *

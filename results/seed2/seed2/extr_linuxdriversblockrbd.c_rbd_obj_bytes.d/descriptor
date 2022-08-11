@@ -1,0 +1,2 @@
+struct rbd_image_header | obj_order unsigned int 
+function rbd_obj_bytes unsigned int | header struct rbd_image_header *

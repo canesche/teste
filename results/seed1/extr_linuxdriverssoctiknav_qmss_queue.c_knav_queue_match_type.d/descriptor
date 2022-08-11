@@ -1,3 +1,0 @@
-struct knav_queue_inst | range struct TYPE_2__ * 
-struct TYPE_2__ | flags int 
-function knav_queue_match_type int | inst struct knav_queue_inst * | type unsigned int

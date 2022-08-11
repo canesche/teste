@@ -1,5 +1,0 @@
-struct kobject | kset int * 
-struct device | class struct TYPE_4__ * 
-struct TYPE_4__ | p struct TYPE_3__ * 
-struct TYPE_3__ | glue_dirs int 
-function live_in_glue_dir int | kobj struct kobject * | dev struct device *

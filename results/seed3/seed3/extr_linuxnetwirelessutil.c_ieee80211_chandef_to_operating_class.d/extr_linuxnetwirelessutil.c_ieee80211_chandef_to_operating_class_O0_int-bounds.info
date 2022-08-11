@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 8,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxnetwirelessutil.c_ieee80211_chandef_to_operating_class.d/extr_linuxnetwirelessutil.c_ieee80211_chandef_to_operating_class_O0::ieee80211_chandef_to_operating_class(72)"
+  }
+]

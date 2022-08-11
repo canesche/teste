@@ -1,0 +1,4 @@
+struct pxafb_mode_info | xres unsigned int | yres unsigned int | bpp long 
+struct pxafb_mach_info | num_modes unsigned int | modes struct pxafb_mode_info * 
+struct fb_var_screeninfo | xres unsigned int | yres unsigned int | bits_per_pixel long 
+function pxafb_getmode struct pxafb_mode_info * | mach struct pxafb_mach_info * | var struct fb_var_screeninfo *

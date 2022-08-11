@@ -1,0 +1,3 @@
+struct ib_umad_file | agent struct ib_mad_agent ** | agents_dead long 
+struct ib_mad_agent | dummy int 
+function __get_agent struct ib_mad_agent * | file struct ib_umad_file * | id int

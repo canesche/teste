@@ -1,0 +1,2 @@
+struct radix_tree_iter | dummy int 
+function __set_iter_shift void | iter struct radix_tree_iter * | shift unsigned int

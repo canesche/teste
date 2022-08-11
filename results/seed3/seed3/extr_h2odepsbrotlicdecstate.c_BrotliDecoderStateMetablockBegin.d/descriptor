@@ -1,0 +1,5 @@
+struct TYPE_8__ | htrees int * | codes int * 
+struct TYPE_7__ | htrees int * | codes int * 
+struct TYPE_6__ | htrees int * | codes int * 
+struct TYPE_9__ | block_length unsigned int * | num_block_types int * | block_type_rb int * | distance_hgroup struct TYPE_8__ | insert_copy_hgroup struct TYPE_7__ | literal_hgroup struct TYPE_6__ | context_lookup2 int * | context_lookup1 int * | dist_htree_index long | dist_context_map_slice int * | literal_htree int * | context_map_slice int * | dist_context_map int * | context_modes int * | context_map int * | meta_block_remaining_len long 
+function BrotliDecoderStateMetablockBegin void | s struct TYPE_9__ *

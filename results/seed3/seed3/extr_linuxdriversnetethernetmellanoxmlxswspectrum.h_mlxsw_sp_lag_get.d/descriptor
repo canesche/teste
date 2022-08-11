@@ -1,0 +1,3 @@
+struct mlxsw_sp_upper | dummy int 
+struct mlxsw_sp | lags struct mlxsw_sp_upper * 
+function mlxsw_sp_lag_get struct mlxsw_sp_upper * | mlxsw_sp struct mlxsw_sp * | lag_id unsigned long

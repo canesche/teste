@@ -1,0 +1,2 @@
+struct TCP_Server_Info | credits int 
+function cifs_get_credits_field int * | server struct TCP_Server_Info * | optype const int

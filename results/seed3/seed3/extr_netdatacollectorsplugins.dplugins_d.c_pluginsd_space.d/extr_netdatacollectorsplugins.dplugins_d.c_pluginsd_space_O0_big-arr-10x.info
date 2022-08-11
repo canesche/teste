@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_netdatacollectorsplugins.dplugins_d.c_pluginsd_space.d/extr_netdatacollectorsplugins.dplugins_d.c_pluginsd_space_O0::pluginsd_space(59)"
+  }
+]

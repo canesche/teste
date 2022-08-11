@@ -1,0 +1,2 @@
+struct mlx5e_priv | dummy int 
+function mlx5e_is_uplink_rep int | priv struct mlx5e_priv *

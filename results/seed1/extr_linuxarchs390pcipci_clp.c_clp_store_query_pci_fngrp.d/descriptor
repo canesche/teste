@@ -1,3 +1,0 @@
-struct zpci_dev | max_bus_speed int | fmb_update int | max_msi int | msi_addr int | dma_mask int | tlb_refresh int 
-struct clp_rsp_query_pci_grp | version int | mui int | noi int | msia int | dasm int | refresh int 
-function clp_store_query_pci_fngrp void | zdev struct zpci_dev * | response struct clp_rsp_query_pci_grp *

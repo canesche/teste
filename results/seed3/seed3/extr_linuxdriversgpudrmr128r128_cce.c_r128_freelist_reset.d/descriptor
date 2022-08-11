@@ -1,0 +1,5 @@
+struct drm_device_dma | buf_count int | buflist struct drm_buf ** 
+struct drm_device | dma struct drm_device_dma * 
+struct drm_buf | dev_private struct TYPE_2__ * 
+struct TYPE_2__ | age long 
+function r128_freelist_reset void | dev struct drm_device *

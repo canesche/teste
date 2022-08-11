@@ -1,0 +1,4 @@
+struct TYPE_7__ | next struct TYPE_6__ * | prev struct TYPE_5__ * 
+struct TYPE_6__ | prev struct TYPE_5__ * 
+struct TYPE_5__ | next struct TYPE_6__ * 
+function online_list_remove void | what struct TYPE_7__ *

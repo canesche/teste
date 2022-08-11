@@ -1,0 +1,3 @@
+struct TYPE_2__ | pkt_flags int 
+struct mbuf | m_flags int | m_pkthdr struct TYPE_2__ 
+function necp_mark_packet_as_keepalive int | packet struct mbuf * | is_keepalive int

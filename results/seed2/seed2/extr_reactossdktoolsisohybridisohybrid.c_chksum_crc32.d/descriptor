@@ -1,0 +1,1 @@
+function chksum_crc32 unsigned long | block unsigned char * | length unsigned int

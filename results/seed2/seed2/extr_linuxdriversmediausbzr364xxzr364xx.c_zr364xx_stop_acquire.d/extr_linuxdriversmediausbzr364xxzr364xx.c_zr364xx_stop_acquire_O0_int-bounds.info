@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediausbzr364xxzr364xx.c_zr364xx_stop_acquire.d/extr_linuxdriversmediausbzr364xxzr364xx.c_zr364xx_stop_acquire_O0::zr364xx_stop_acquire(61)"
+  }
+]

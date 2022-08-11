@@ -1,0 +1,3 @@
+struct mv88e6xxx_chip | ports struct TYPE_2__ * 
+struct TYPE_2__ | cmode long 
+function mv88e6352_port_has_serdes int | chip struct mv88e6xxx_chip * | port int

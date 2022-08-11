@@ -1,0 +1,2 @@
+struct fman_port_cfg | dummy int 
+function is_init_done int | cfg struct fman_port_cfg *

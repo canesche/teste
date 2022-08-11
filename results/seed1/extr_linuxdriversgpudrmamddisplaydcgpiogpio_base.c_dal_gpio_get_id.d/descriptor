@@ -1,2 +1,0 @@
-struct gpio | id int 
-function dal_gpio_get_id enum gpio_id | gpio const struct gpio *

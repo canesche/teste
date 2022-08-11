@@ -1,0 +1,2 @@
+struct dwc2_hsotg | dummy int 
+function dwc2_hsotg_set_test_mode int | hsotg struct dwc2_hsotg * | testmode int

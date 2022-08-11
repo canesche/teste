@@ -1,0 +1,4 @@
+struct qib_ctxtdata | ctxt long | rcvegrcnt int | rcvegr_tid_base int | dd struct TYPE_4__ * 
+struct TYPE_4__ | num_pports int | cspec struct TYPE_3__ * 
+struct TYPE_3__ | rcvegrcnt int 
+function qib_7322_init_ctxt void | rcd struct qib_ctxtdata *

@@ -1,0 +1,3 @@
+struct style | range_type long | range_argument long 
+struct format_range | type long | argument long 
+function format_is_type int | fr struct format_range * | sy struct style *

@@ -1,0 +1,2 @@
+struct dictionary | pos long | limit long 
+function dict_has_space char | dict const struct dictionary *

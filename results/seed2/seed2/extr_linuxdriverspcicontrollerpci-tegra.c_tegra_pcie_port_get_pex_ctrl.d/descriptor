@@ -1,0 +1,2 @@
+struct tegra_pcie_port | index int 
+function tegra_pcie_port_get_pex_ctrl unsigned long | port struct tegra_pcie_port *

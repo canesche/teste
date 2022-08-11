@@ -1,0 +1,2 @@
+struct ndis_802_11_ssid | SsidLength int | Ssid int * 
+function validate_ssid int | ssid struct ndis_802_11_ssid *

@@ -1,4 +1,0 @@
-struct net_device | dummy int 
-struct net | dummy int 
-struct mr_table | dummy int 
-function ipmr_reg_vif struct net_device * | net struct net * | mrt struct mr_table *

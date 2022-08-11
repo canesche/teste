@@ -1,3 +1,0 @@
-struct vb2_queue | io_modes int | mem_ops struct TYPE_2__ * 
-struct TYPE_2__ | unmap_dmabuf int | map_dmabuf int | detach_dmabuf int | attach_dmabuf int 
-function __verify_dmabuf_ops int | q struct vb2_queue *

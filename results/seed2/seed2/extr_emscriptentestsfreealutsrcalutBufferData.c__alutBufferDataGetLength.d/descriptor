@@ -1,0 +1,2 @@
+struct TYPE_3__ | length unsigned long 
+function _alutBufferDataGetLength unsigned long | bufferData const struct TYPE_3__ *

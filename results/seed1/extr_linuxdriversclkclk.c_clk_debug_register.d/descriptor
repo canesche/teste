@@ -1,2 +1,0 @@
-struct clk_core | dummy int 
-function clk_debug_register void | core struct clk_core *

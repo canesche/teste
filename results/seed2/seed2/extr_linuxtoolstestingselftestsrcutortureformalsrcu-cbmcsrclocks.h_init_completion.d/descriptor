@@ -1,0 +1,2 @@
+struct completion | count long 
+function init_completion void | c struct completion *

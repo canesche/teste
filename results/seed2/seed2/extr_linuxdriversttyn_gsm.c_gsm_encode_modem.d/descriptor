@@ -1,0 +1,2 @@
+struct gsm_dlci | modem_tx int | throttled long 
+function gsm_encode_modem int | dlci const struct gsm_dlci *

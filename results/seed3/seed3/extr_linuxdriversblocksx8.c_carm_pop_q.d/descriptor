@@ -1,0 +1,3 @@
+struct request_queue | dummy int 
+struct carm_host | wait_q_prod unsigned int | wait_q_cons unsigned int | wait_q struct request_queue ** 
+function carm_pop_q struct request_queue * | host struct carm_host *

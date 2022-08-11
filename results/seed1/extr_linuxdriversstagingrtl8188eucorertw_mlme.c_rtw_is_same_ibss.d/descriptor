@@ -1,5 +1,0 @@
-struct TYPE_2__ | Privacy int 
-struct wlan_network | network struct TYPE_2__ 
-struct security_priv | dot11PrivacyAlgrthm long 
-struct adapter | securitypriv struct security_priv 
-function rtw_is_same_ibss int | adapter struct adapter * | pnetwork struct wlan_network *

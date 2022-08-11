@@ -1,0 +1,2 @@
+struct pci_bus | number int 
+function mkaddr int | bus struct pci_bus * | devfn unsigned int | reg unsigned int

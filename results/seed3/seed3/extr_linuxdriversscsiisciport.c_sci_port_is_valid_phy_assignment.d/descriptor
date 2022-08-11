@@ -1,0 +1,5 @@
+struct sci_user_parameters | phys struct TYPE_2__ * 
+struct isci_port | physical_port_index int | phy_table long * | owning_controller struct isci_host * 
+struct isci_host | user_parameters struct sci_user_parameters 
+struct TYPE_2__ | max_speed_generation long 
+function sci_port_is_valid_phy_assignment int | iport struct isci_port * | phy_index int

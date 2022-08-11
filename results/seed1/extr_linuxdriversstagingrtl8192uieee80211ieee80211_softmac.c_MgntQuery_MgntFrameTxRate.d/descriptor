@@ -1,3 +1,0 @@
-struct ieee80211_device | basic_rate int | mode long | pHTInfo struct TYPE_2__ * 
-struct TYPE_2__ | IOTAction int | bCurSuppCCK int 
-function MgntQuery_MgntFrameTxRate int | ieee struct ieee80211_device *

@@ -1,0 +1,4 @@
+struct comedi_subdevice | async struct TYPE_2__ * 
+struct comedi_device | dummy int 
+struct TYPE_2__ | inttrig int 
+function apci1500_di_cmd int | dev struct comedi_device * | s struct comedi_subdevice *

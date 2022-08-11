@@ -1,3 +1,0 @@
-struct iwl_fw | img const struct fw_img * 
-struct fw_img | dummy int 
-function iwl_get_ucode_image const struct fw_img * | fw const struct iwl_fw * | ucode_type enum iwl_ucode_type

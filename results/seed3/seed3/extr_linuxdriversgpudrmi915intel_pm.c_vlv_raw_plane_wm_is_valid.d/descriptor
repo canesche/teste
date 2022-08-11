@@ -1,0 +1,6 @@
+struct vlv_fifo_state | plane long * 
+struct TYPE_3__ | fifo_state struct vlv_fifo_state | raw struct g4x_pipe_wm * 
+struct TYPE_4__ | vlv struct TYPE_3__ 
+struct intel_crtc_state | wm struct TYPE_4__ 
+struct g4x_pipe_wm | plane long * 
+function vlv_raw_plane_wm_is_valid int | crtc_state const struct intel_crtc_state * | plane_id enum plane_id | level int

@@ -1,0 +1,1 @@
+function bcm2835_i2s_convert_slot int | slot unsigned int | odd_offset unsigned int

@@ -1,2 +1,0 @@
-struct ip_addr | addr int * 
-function ip_addr_isany int | addr struct ip_addr *

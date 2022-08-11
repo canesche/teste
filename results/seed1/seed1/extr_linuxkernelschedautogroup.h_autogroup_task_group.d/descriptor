@@ -1,0 +1,3 @@
+struct task_struct | dummy int 
+struct task_group | dummy int 
+function autogroup_task_group struct task_group * | p struct task_struct * | tg struct task_group *

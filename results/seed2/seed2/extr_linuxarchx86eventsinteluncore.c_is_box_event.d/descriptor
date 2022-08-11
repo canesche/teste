@@ -1,0 +1,4 @@
+struct perf_event | pmu int * 
+struct intel_uncore_box | pmu struct TYPE_2__ * 
+struct TYPE_2__ | pmu int 
+function is_box_event int | box struct intel_uncore_box * | event struct perf_event *

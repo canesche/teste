@@ -1,0 +1,2 @@
+struct DynamicBuffer | data long * | used long 
+function reset_buffer void | buffer struct DynamicBuffer *

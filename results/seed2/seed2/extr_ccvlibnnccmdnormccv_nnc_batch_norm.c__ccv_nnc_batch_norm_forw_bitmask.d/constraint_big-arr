@@ -1,0 +1,1 @@
+value(input_size) == 255, value(output_size) == 255, value(input_bitmask_size) == 255, value(output_bitmask_size) == 255, length(input_bitmasks) == 65025, length(output_bitmasks) == 65025

@@ -1,0 +1,5 @@
+struct intel_overlay | crtc struct TYPE_2__ * 
+struct intel_crtc_state | pipe_src_w long | pipe_src_h long 
+struct drm_intel_overlay_put_image | dst_x long | dst_width long | dst_y long | dst_height long 
+struct TYPE_2__ | config struct intel_crtc_state * 
+function check_overlay_dst int | overlay struct intel_overlay * | rec struct drm_intel_overlay_put_image *

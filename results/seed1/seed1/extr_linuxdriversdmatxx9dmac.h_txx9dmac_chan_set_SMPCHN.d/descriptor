@@ -1,0 +1,2 @@
+struct txx9dmac_chan | dummy int 
+function txx9dmac_chan_set_SMPCHN void | dc struct txx9dmac_chan *

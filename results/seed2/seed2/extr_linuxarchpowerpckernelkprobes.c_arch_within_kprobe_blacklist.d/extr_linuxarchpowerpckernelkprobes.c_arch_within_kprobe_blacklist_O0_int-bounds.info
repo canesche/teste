@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 6,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxarchpowerpckernelkprobes.c_arch_within_kprobe_blacklist.d/extr_linuxarchpowerpckernelkprobes.c_arch_within_kprobe_blacklist_O0::arch_within_kprobe_blacklist(64)"
+  }
+]

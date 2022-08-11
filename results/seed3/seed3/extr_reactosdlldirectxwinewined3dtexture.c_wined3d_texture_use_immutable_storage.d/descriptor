@@ -1,0 +1,4 @@
+struct TYPE_2__ | format_flags int 
+struct wined3d_texture | resource struct TYPE_2__ 
+struct wined3d_gl_info | supported long * 
+function wined3d_texture_use_immutable_storage int | texture const struct wined3d_texture * | gl_info const struct wined3d_gl_info *

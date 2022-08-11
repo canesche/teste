@@ -1,0 +1,5 @@
+struct TYPE_4__ | transition_latency int 
+struct cpufreq_policy | freq_table int | cpuinfo struct TYPE_4__ | clk int 
+struct TYPE_6__ | info struct TYPE_5__ * 
+struct TYPE_5__ | latency int 
+function s3c_cpufreq_init int | policy struct cpufreq_policy *

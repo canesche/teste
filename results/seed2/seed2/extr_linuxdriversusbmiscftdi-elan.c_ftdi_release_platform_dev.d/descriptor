@@ -1,0 +1,2 @@
+struct device | parent int * 
+function ftdi_release_platform_dev void | dev struct device *

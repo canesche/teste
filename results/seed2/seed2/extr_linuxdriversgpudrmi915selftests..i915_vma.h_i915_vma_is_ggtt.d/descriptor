@@ -1,0 +1,2 @@
+struct i915_vma | flags int 
+function i915_vma_is_ggtt int | vma const struct i915_vma *

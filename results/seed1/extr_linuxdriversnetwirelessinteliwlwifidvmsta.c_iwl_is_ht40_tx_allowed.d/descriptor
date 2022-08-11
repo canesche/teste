@@ -1,5 +1,0 @@
-struct TYPE_2__ | is_40mhz int | enabled int 
-struct iwl_rxon_context | ht struct TYPE_2__ 
-struct iwl_priv | dummy int 
-struct ieee80211_sta | bandwidth long 
-function iwl_is_ht40_tx_allowed int | priv struct iwl_priv * | ctx struct iwl_rxon_context * | sta struct ieee80211_sta *

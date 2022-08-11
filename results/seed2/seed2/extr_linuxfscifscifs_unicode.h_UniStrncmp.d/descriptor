@@ -1,0 +1,1 @@
+function UniStrncmp int | ucs1 const long * | ucs2 const long * | n unsigned long

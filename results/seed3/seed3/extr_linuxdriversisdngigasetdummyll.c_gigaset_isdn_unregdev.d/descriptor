@@ -1,0 +1,2 @@
+struct cardstate | dummy int 
+function gigaset_isdn_unregdev void | cs struct cardstate *

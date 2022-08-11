@@ -1,0 +1,2 @@
+struct TYPE_3__ | binary_flags int | other_flags int 
+function git_diff_driver_update_options void | option_flags int * | driver struct TYPE_3__ *

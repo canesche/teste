@@ -1,0 +1,2 @@
+struct iio_chan_spec | type int | channel int 
+function axp22x_adc_scale int | chan const struct iio_chan_spec * | val int * | val2 int *

@@ -1,0 +1,2 @@
+struct cred | dummy int 
+function read_cred_subscribers int | cred const struct cred *

@@ -1,0 +1,4 @@
+struct inode | i_private struct ca8210_priv * 
+struct file | private_data struct ca8210_priv * 
+struct ca8210_priv | dummy int 
+function ca8210_test_int_open int | inodp struct inode * | filp struct file *

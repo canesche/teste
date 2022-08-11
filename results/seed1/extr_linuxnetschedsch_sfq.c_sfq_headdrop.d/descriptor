@@ -1,2 +1,0 @@
-struct sfq_sched_data | headdrop int 
-function sfq_headdrop int | q const struct sfq_sched_data *

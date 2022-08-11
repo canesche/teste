@@ -1,2 +1,0 @@
-struct net | dummy int 
-function pfkey_init_proc int | net struct net *

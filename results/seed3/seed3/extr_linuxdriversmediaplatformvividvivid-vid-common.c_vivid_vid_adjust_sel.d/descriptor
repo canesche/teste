@@ -1,0 +1,2 @@
+struct v4l2_rect | width unsigned int | height unsigned int | top int | left int 
+function vivid_vid_adjust_sel int | flags unsigned int | r struct v4l2_rect *

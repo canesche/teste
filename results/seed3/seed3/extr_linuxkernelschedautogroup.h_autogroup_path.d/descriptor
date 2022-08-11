@@ -1,0 +1,2 @@
+struct task_group | dummy int 
+function autogroup_path int | tg struct task_group * | buf char * | buflen int

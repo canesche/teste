@@ -1,0 +1,1 @@
+function stbi__copyval void | channel int | dest int * | src const int *

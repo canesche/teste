@@ -1,0 +1,4 @@
+struct TYPE_4__ | parameterTypes_ long 
+struct TYPE_5__ | java_lang_reflect_Constructor struct TYPE_4__ 
+struct TYPE_6__ | fields struct TYPE_5__ 
+function java_lang_reflect_Constructor_getParameterTypes__ long | me long

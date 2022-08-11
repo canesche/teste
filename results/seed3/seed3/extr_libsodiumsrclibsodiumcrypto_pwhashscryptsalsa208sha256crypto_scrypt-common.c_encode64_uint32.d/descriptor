@@ -1,0 +1,1 @@
+function encode64_uint32 int * | dst int * | dstlen unsigned long | src long | srcbits long

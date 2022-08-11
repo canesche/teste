@@ -1,0 +1,3 @@
+struct TYPE_4__ | cx int | cy int 
+struct TYPE_5__ | dim struct TYPE_4__ 
+function MONTHCAL_GetCalCount int | infoPtr const struct TYPE_5__ *

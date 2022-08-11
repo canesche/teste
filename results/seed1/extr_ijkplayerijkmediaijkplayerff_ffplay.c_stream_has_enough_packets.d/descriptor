@@ -1,3 +1,0 @@
-struct TYPE_6__ | disposition int 
-struct TYPE_5__ | nb_packets int | abort_request long 
-function stream_has_enough_packets int | st struct TYPE_6__ * | stream_id int | queue struct TYPE_5__ * | min_frames int

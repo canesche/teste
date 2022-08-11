@@ -1,0 +1,2 @@
+struct xfrm_selector | dummy int 
+function selector_cmp int | s1 struct xfrm_selector * | s2 struct xfrm_selector *

@@ -1,0 +1,3 @@
+struct si_sm_io | dummy int 
+struct si_sm_data | obf_timeout int | ibf_timeout int | truncated long | error_retries long | read_pos long | orig_write_count long | write_count long | write_pos long | io struct si_sm_io * | state int 
+function init_kcs_data unsigned int | kcs struct si_sm_data * | io struct si_sm_io *

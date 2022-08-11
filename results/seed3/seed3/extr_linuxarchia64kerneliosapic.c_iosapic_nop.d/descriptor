@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function iosapic_nop void | data struct irq_data *

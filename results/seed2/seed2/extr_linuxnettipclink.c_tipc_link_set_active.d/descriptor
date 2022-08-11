@@ -1,0 +1,2 @@
+struct tipc_link | active int 
+function tipc_link_set_active void | l struct tipc_link * | active int

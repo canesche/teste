@@ -1,0 +1,2 @@
+struct TYPE_3__ | userdata const void * | handler int * 
+function zbar_image_scanner_set_data_handler int * | iscn struct TYPE_3__ * | handler int * | userdata const void *

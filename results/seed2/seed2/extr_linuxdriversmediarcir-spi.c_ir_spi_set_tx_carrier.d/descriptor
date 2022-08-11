@@ -1,0 +1,3 @@
+struct rc_dev | priv struct ir_spi_data * 
+struct ir_spi_data | freq long 
+function ir_spi_set_tx_carrier int | dev struct rc_dev * | carrier long

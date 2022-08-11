@@ -1,0 +1,2 @@
+struct TYPE_3__ | inh_flags int 
+function X509_VERIFY_PARAM_get_inh_flags int | param const struct TYPE_3__ *

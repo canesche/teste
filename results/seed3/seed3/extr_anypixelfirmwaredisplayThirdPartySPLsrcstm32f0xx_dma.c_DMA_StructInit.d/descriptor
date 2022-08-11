@@ -1,0 +1,2 @@
+struct TYPE_3__ | DMA_M2M int | DMA_Priority int | DMA_Mode int | DMA_MemoryDataSize int | DMA_PeripheralDataSize int | DMA_MemoryInc int | DMA_PeripheralInc int | DMA_BufferSize long | DMA_DIR int | DMA_MemoryBaseAddr long | DMA_PeripheralBaseAddr long 
+function DMA_StructInit void | DMA_InitStruct struct TYPE_3__ *

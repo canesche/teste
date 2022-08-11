@@ -1,0 +1,2 @@
+struct ql82xx_hw_data | flash_data_off int 
+function flash_data_addr int | hw struct ql82xx_hw_data * | faddr int

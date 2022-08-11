@@ -1,0 +1,2 @@
+struct stv | symbol_rate int 
+function get_optim_cloop int | state struct stv * | mod_cod enum fe_stv0910_mod_cod | pilots int

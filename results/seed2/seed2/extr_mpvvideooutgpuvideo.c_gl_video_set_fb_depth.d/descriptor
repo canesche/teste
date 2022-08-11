@@ -1,0 +1,2 @@
+struct gl_video | fb_depth int 
+function gl_video_set_fb_depth void | p struct gl_video * | fb_depth int

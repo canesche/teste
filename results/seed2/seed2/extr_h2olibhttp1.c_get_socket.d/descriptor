@@ -1,0 +1,2 @@
+struct st_h2o_http1_conn_t | sock int * 
+function get_socket int * | _conn int *

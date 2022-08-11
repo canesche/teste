@@ -1,0 +1,3 @@
+struct pl330_thread | dmac struct TYPE_2__ * 
+struct TYPE_2__ | manager struct pl330_thread * 
+function is_manager int | thrd struct pl330_thread *

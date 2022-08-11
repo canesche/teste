@@ -1,0 +1,4 @@
+struct TYPE_3__ | tail int 
+struct TYPE_4__ | cq struct TYPE_3__ 
+struct ocrdma_dev | mq struct TYPE_4__ 
+function ocrdma_mcq_inc_tail void | dev struct ocrdma_dev *

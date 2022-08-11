@@ -1,0 +1,6 @@
+struct TYPE_6__ | length long | offset long 
+struct TYPE_5__ | offset int | length int 
+struct TYPE_8__ | offset int | length int 
+struct TYPE_7__ | length int | offset long 
+struct fb_var_screeninfo | transp struct TYPE_6__ | blue struct TYPE_5__ | green struct TYPE_8__ | red struct TYPE_7__ 
+function leo_fixup_var_rgb void | var struct fb_var_screeninfo *

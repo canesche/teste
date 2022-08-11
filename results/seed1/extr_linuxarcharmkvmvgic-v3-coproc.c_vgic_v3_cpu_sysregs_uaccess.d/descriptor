@@ -1,2 +1,0 @@
-struct kvm_vcpu | dummy int 
-function vgic_v3_cpu_sysregs_uaccess int | vcpu struct kvm_vcpu * | is_write int | id int | reg int *

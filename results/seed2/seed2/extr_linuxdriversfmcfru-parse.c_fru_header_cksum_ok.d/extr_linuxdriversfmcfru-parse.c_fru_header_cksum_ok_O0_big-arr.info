@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 70,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversfmcfru-parse.c_fru_header_cksum_ok.d/extr_linuxdriversfmcfru-parse.c_fru_header_cksum_ok_O0::fru_header_cksum_ok(62)"
+  }
+]

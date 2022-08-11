@@ -1,0 +1,3 @@
+struct TYPE_4__ | lc unsigned long | lp unsigned long 
+struct TYPE_5__ | probs int * | reps int * | needInitState long | state long | prop struct TYPE_4__ 
+function LzmaDec_InitStateReal void | p struct TYPE_5__ *

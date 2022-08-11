@@ -1,2 +1,0 @@
-struct ath10k | dummy int 
-function ath10k_thermal_set_throttling void | ar struct ath10k *

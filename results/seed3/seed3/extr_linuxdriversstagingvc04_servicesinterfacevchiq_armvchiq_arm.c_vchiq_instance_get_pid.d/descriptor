@@ -1,0 +1,2 @@
+struct TYPE_3__ | pid int 
+function vchiq_instance_get_pid int | instance struct TYPE_3__ *

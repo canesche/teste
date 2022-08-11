@@ -1,0 +1,5 @@
+struct TYPE_10__ | count int | health int | item struct TYPE_9__ * | client struct TYPE_8__ * 
+struct TYPE_9__ | quantity int 
+struct TYPE_7__ | stats int * 
+struct TYPE_8__ | ps struct TYPE_7__ 
+function Pickup_Health int | ent struct TYPE_10__ * | other struct TYPE_10__ *

@@ -1,0 +1,2 @@
+struct mbuf | len long 
+function mbuf_clear void | mb struct mbuf *

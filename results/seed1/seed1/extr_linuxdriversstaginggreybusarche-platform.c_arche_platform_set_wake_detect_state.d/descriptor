@@ -1,0 +1,2 @@
+struct arche_platform_drvdata | wake_detect_state int 
+function arche_platform_set_wake_detect_state void | arche_pdata struct arche_platform_drvdata * | state enum svc_wakedetect_state

@@ -1,3 +1,0 @@
-struct hsw_tsx_tuning | cycles_last_block int | value long 
-struct pebs_record_skl | tsx_tuning long 
-function intel_hsw_weight int | pebs struct pebs_record_skl *

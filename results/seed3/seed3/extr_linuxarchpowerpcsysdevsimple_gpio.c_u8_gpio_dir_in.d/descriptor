@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function u8_gpio_dir_in int | gc struct gpio_chip * | gpio unsigned int

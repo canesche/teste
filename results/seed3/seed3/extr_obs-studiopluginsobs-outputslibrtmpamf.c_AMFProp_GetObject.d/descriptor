@@ -1,0 +1,3 @@
+struct TYPE_4__ | p_object int 
+struct TYPE_5__ | p_type long | p_vu struct TYPE_4__ 
+function AMFProp_GetObject void | prop struct TYPE_5__ * | obj int *

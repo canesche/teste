@@ -1,2 +1,0 @@
-struct ftdi_private | custom_divisor int | force_baud int | flags int 
-function ftdi_USB_UIRT_setup void | priv struct ftdi_private *

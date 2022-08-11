@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 281,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_memcachedslab_automove.c_window_sum.d/extr_memcachedslab_automove.c_window_sum_O0::window_sum(61)"
+  }
+]

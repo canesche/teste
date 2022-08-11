@@ -1,0 +1,4 @@
+struct TYPE_4__ | num unsigned long | array int * 
+struct TYPE_3__ | array long * 
+struct gs_vertex_buffer | uv_buffers struct TYPE_4__ | uv_sizes struct TYPE_3__ | color_buffer int | tangent_buffer int | normal_buffer int | vertex_buffer int 
+function get_vb_buffer int | vb struct gs_vertex_buffer * | type enum attrib_type | index unsigned long | width int * | gl_type int *

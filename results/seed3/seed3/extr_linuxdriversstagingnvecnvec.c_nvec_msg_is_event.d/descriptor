@@ -1,0 +1,2 @@
+struct nvec_msg | data int * 
+function nvec_msg_is_event int | msg struct nvec_msg *

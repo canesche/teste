@@ -1,0 +1,2 @@
+struct ftgmac100 | tx_q_entries int | txdes0_edotr_mask int 
+function ftgmac100_base_tx_ctlstat int | priv struct ftgmac100 * | index unsigned int

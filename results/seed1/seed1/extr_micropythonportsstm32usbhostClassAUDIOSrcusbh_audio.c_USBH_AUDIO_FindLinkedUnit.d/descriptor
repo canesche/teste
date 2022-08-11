@@ -1,0 +1,10 @@
+struct TYPE_18__ | pActiveClass struct TYPE_11__ * 
+struct TYPE_16__ | OutputTerminalDesc struct TYPE_15__ ** | SelectorUnitDesc struct TYPE_14__ ** | MixerUnitDesc struct TYPE_13__ ** | FeatureUnitDesc struct TYPE_12__ ** 
+struct TYPE_17__ | FeatureUnitNum unsigned long | MixerUnitNum unsigned long | SelectorUnitNum unsigned long | OutputTerminalNum unsigned long | cs_desc struct TYPE_16__ 
+struct TYPE_19__ | class_desc struct TYPE_17__ 
+struct TYPE_15__ | bSourceID unsigned long | bTerminalID unsigned long 
+struct TYPE_14__ | bSourceID0 unsigned long | bUnitID unsigned long 
+struct TYPE_13__ | bSourceID0 unsigned long | bSourceID1 unsigned long | bUnitID unsigned long 
+struct TYPE_12__ | bSourceID unsigned long | bUnitID unsigned long 
+struct TYPE_11__ | pData struct TYPE_19__ * 
+function USBH_AUDIO_FindLinkedUnit unsigned long | phost struct TYPE_18__ * | UnitID unsigned long

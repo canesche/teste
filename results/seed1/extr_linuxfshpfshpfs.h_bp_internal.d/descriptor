@@ -1,2 +1,0 @@
-struct bplus_header | flags int 
-function bp_internal int | bp struct bplus_header *

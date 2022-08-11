@@ -1,0 +1,3 @@
+struct TYPE_6__ | base char * | size int | next struct TYPE_6__ * 
+struct TYPE_5__ | seg struct TYPE_6__ 
+function segment_holding struct TYPE_6__ * | m struct TYPE_5__ * | addr char *

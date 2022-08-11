@@ -1,3 +1,0 @@
-struct scsi_cmnd | cmd_len int 
-struct esp | flags int 
-function esp_check_command_len void | esp struct esp * | cmd struct scsi_cmnd *

@@ -1,2 +1,0 @@
-struct TYPE_3__ | height int 
-function zbar_image_get_height unsigned int | img const struct TYPE_3__ *

@@ -1,0 +1,3 @@
+struct acpi_lpi_states_array | composite_states_size int | composite_states struct acpi_lpi_state ** 
+struct acpi_lpi_state | dummy int 
+function stash_composite_state void | curr_level struct acpi_lpi_states_array * | t struct acpi_lpi_state *

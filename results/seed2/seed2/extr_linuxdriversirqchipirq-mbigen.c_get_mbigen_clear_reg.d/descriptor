@@ -1,0 +1,1 @@
+function get_mbigen_clear_reg void | hwirq int | mask int * | addr int *

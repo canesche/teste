@@ -1,4 +1,0 @@
-struct pvscsi_adapter | dev struct TYPE_2__ * 
-struct device | dummy int 
-struct TYPE_2__ | dev struct device 
-function pvscsi_dev struct device * | adapter const struct pvscsi_adapter *

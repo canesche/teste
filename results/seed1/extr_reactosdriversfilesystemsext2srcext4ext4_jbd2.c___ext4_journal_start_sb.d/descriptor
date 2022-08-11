@@ -1,2 +1,0 @@
-struct super_block | dummy int 
-function __ext4_journal_start_sb int * | icb void * | sb struct super_block * | line unsigned int | type int | blocks int | rsv_blocks int

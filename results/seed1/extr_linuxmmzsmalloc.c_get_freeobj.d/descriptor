@@ -1,2 +1,0 @@
-struct zspage | freeobj unsigned int 
-function get_freeobj unsigned int | zspage struct zspage *

@@ -1,2 +1,0 @@
-struct notifier_block | dummy int 
-function stex_halt int | nb struct notifier_block * | event unsigned long | buf void *

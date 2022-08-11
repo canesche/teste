@@ -1,0 +1,2 @@
+struct mdfour | A int | B int | C int | D int | totalN long 
+function mdfour_begin void | md struct mdfour *

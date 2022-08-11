@@ -1,3 +1,0 @@
-struct TYPE_2__ | dma_sfcr int | dma_scr int 
-struct stm32_dma_chan | chan_reg struct TYPE_2__ 
-function stm32_dma_set_fifo_config void | chan struct stm32_dma_chan * | src_burst int | dst_burst int

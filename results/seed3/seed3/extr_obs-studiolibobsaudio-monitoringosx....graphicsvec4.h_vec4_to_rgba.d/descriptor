@@ -1,0 +1,2 @@
+struct vec4 | w long | z long | y long | x long 
+function vec4_to_rgba int | src const struct vec4 *

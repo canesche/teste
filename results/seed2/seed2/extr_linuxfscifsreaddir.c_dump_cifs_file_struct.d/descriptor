@@ -1,0 +1,2 @@
+struct file | dummy int 
+function dump_cifs_file_struct void | file struct file * | label char *

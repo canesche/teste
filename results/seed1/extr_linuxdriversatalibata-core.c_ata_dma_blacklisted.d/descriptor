@@ -1,4 +1,0 @@
-struct ata_device | flags int | horkage int | link struct TYPE_4__ * 
-struct TYPE_4__ | ap struct TYPE_3__ * 
-struct TYPE_3__ | flags int 
-function ata_dma_blacklisted int | dev const struct ata_device *

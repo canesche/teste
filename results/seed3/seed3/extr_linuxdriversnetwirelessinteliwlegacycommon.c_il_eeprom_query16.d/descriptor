@@ -1,0 +1,2 @@
+struct il_priv | eeprom long * 
+function il_eeprom_query16 int | il const struct il_priv * | offset unsigned long

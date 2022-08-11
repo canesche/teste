@@ -1,0 +1,4 @@
+struct index_state | cache_nr int | cache struct TYPE_2__ ** 
+struct checkout | clone int 
+struct TYPE_2__ | ce_flags int 
+function setup_collided_checkout_detection void | state struct checkout * | index struct index_state *

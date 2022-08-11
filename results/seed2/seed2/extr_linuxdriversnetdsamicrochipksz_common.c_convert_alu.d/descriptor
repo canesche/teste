@@ -1,0 +1,2 @@
+struct alu_struct | is_static int | is_src_filter int | is_dst_filter int | prio_age int | mstp int | is_override int | is_use_fid int | port_forward int | fid int | mac int * 
+function convert_alu void | alu struct alu_struct * | alu_table int *

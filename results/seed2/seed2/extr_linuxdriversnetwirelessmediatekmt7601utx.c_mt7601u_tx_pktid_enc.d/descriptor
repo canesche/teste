@@ -1,0 +1,2 @@
+struct mt7601u_dev | dummy int 
+function mt7601u_tx_pktid_enc int | dev struct mt7601u_dev * | rate int | is_probe int

@@ -1,4 +1,0 @@
-struct xt_action_param | matchinfo struct ebt_pkttype_info * 
-struct sk_buff | pkt_type long 
-struct ebt_pkttype_info | pkt_type long | invert int 
-function ebt_pkttype_mt int | skb const struct sk_buff * | par struct xt_action_param *

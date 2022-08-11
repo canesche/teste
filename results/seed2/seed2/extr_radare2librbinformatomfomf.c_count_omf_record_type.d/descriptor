@@ -1,0 +1,4 @@
+struct TYPE_5__ | records struct TYPE_6__ * 
+struct TYPE_7__ | type long 
+struct TYPE_6__ | next struct TYPE_6__ * 
+function count_omf_record_type long | obj struct TYPE_5__ * | type long

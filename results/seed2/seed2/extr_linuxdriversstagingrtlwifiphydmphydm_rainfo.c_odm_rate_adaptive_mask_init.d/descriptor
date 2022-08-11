@@ -1,0 +1,3 @@
+struct odm_rate_adaptive | type long | ldpc_thres int | is_use_ldpc int | high_rssi_thresh int | low_rssi_thresh int | ratr_state int 
+struct phy_dm_struct | is_use_ra_mask int | rate_adaptive struct odm_rate_adaptive 
+function odm_rate_adaptive_mask_init void | dm_void void *

@@ -1,0 +1,2 @@
+struct git_attr | name const char * 
+function git_attr_name const char * | attr const struct git_attr *

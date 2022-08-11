@@ -1,3 +1,0 @@
-struct TYPE_5__ | samples long 
-struct TYPE_4__ | priv_data struct TYPE_5__ * 
-function ape_flush void | avctx struct TYPE_4__ *

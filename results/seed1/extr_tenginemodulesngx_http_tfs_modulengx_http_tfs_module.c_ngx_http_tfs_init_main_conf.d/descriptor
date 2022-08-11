@@ -1,2 +1,0 @@
-struct TYPE_2__ | tfs_connect_timeout int | tfs_send_timeout int | tfs_read_timeout int | tair_timeout int | send_lowat long | buffer_size long | body_buffer_size long 
-function ngx_http_tfs_init_main_conf char * | cf int * | conf void *

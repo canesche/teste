@@ -1,2 +1,0 @@
-struct snapshot | referrers int 
-function acquire_snapshot void | snapshot struct snapshot *

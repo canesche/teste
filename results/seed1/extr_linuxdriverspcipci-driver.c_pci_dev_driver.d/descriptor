@@ -1,4 +1,0 @@
-struct pci_driver | dummy int 
-struct pci_dev | resource struct TYPE_2__ * | driver struct pci_driver * 
-struct TYPE_2__ | flags int 
-function pci_dev_driver struct pci_driver * | dev const struct pci_dev *

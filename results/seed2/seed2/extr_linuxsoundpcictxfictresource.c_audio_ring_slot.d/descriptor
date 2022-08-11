@@ -1,0 +1,2 @@
+struct rsc | conj int | type unsigned long 
+function audio_ring_slot int | rsc const struct rsc *

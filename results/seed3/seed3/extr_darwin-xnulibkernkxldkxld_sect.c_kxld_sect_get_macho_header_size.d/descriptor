@@ -1,0 +1,3 @@
+struct section_64 | dummy int 
+struct section | dummy int 
+function kxld_sect_get_macho_header_size int | is_32_bit long

@@ -1,0 +1,2 @@
+struct sockaddr | dummy int 
+function Curl_ipv6_scope unsigned int | sa const struct sockaddr *

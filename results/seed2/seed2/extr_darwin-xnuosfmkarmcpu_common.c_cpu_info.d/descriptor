@@ -1,0 +1,5 @@
+struct TYPE_5__ | instr_ex_cnt int | data_ex_cnt int | vfp_cnt int | unaligned_cnt int | undef_ex_cnt int | timer_cnt int | ipi_cnt int | irq_ex_cnt int 
+struct TYPE_7__ | cpu_stat struct TYPE_5__ 
+struct TYPE_8__ | cpu_data_vaddr struct TYPE_7__ * 
+struct TYPE_6__ | instr_ex_cnt int | data_ex_cnt int | vfp_shortv_cnt int | vfp_cnt int | unaligned_cnt int | undef_ex_cnt int | timer_cnt int | ipi_cnt int | irq_ex_cnt int 
+function cpu_info int | flavor int | slot_num int | info int | count unsigned int *

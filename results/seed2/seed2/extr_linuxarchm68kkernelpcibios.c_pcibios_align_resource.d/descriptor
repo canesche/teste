@@ -1,0 +1,2 @@
+struct resource | start int | flags int 
+function pcibios_align_resource int | data void * | res const struct resource * | size int | align int

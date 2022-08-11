@@ -1,0 +1,2 @@
+struct mtd_info | dummy int 
+function mtk_nfc_no_bad_mark_swap void | a struct mtd_info * | b int * | c int

@@ -1,0 +1,2 @@
+struct hwdec_info | auto_pos long | copying long | rank long 
+function hwdec_compare int | p1 const void * | p2 const void *

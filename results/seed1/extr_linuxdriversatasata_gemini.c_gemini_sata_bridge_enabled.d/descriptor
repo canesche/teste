@@ -1,2 +1,0 @@
-struct sata_gemini | muxmode long | sata_bridge int 
-function gemini_sata_bridge_enabled int | sg struct sata_gemini * | is_ata1 int

@@ -1,0 +1,2 @@
+struct rtc_device | id long 
+function is_rtc_hctosys int | rtc struct rtc_device *

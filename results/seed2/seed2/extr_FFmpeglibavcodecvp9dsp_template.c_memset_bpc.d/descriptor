@@ -1,0 +1,1 @@
+function memset_bpc void | dst int * | val int | len int

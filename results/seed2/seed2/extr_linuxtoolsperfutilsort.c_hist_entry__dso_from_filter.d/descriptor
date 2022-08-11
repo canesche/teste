@@ -1,0 +1,6 @@
+struct hist_entry | branch_info struct TYPE_6__ * 
+struct dso | dummy int 
+struct TYPE_5__ | map struct TYPE_4__ * 
+struct TYPE_6__ | from struct TYPE_5__ 
+struct TYPE_4__ | dso const struct dso * 
+function hist_entry__dso_from_filter int | he struct hist_entry * | type int | arg const void *

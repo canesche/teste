@@ -1,0 +1,2 @@
+struct intc_map_entry | dummy int 
+function intc_irq_xlate_get struct intc_map_entry * | irq unsigned int

@@ -1,0 +1,2 @@
+struct ql3_adapter | device_id long 
+function ql_get_seg_count int | qdev struct ql3_adapter * | frags unsigned short

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversplatformx86intel_ips.c_ips_enable_gpu_turbo.d/extr_linuxdriversplatformx86intel_ips.c_ips_enable_gpu_turbo_O0::ips_enable_gpu_turbo(61)"
+  }
+]

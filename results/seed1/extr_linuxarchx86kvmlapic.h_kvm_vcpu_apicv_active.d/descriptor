@@ -1,3 +1,0 @@
-struct TYPE_2__ | apicv_active long | apic long 
-struct kvm_vcpu | arch struct TYPE_2__ 
-function kvm_vcpu_apicv_active int | vcpu struct kvm_vcpu *

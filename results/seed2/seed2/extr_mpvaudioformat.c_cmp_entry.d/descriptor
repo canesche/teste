@@ -1,0 +1,2 @@
+struct entry | score long 
+function cmp_entry int | a const void * | b const void *

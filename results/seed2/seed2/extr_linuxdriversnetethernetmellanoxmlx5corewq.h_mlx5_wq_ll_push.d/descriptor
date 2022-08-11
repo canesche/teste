@@ -1,0 +1,2 @@
+struct mlx5_wq_ll | cur_sz int | wqe_ctr int | head int 
+function mlx5_wq_ll_push void | wq struct mlx5_wq_ll * | head_next int

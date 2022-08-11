@@ -1,0 +1,3 @@
+struct screen_sel | sy long | ey long | ex long | sx long | modekeys long | rectangle long | hidden long 
+struct screen | sel struct screen_sel * 
+function screen_check_selection int | s struct screen * | px long | py long

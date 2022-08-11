@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactosdllwin32hhctrl.ocxcontent.c_insert_item.d/extr_reactosdllwin32hhctrl.ocxcontent.c_insert_item_O0::insert_item(67)"
+  }
+]

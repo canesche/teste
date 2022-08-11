@@ -1,0 +1,4 @@
+struct TYPE_4__ | i_ino long 
+struct TYPE_3__ | type long | objectid long 
+struct btrfs_inode | vfs_inode struct TYPE_4__ | location struct TYPE_3__ 
+function btrfs_ino long | inode const struct btrfs_inode *

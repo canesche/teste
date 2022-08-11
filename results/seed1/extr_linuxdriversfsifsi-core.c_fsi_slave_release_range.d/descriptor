@@ -1,2 +1,0 @@
-struct fsi_slave | dummy int 
-function fsi_slave_release_range void | slave struct fsi_slave * | addr int | size int

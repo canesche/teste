@@ -1,0 +1,2 @@
+struct fileproc | dummy int 
+function noop_ioctl int | fp struct fileproc * | com unsigned long | data int | ctx int

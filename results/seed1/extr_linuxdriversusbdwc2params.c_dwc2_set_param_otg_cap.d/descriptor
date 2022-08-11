@@ -1,4 +1,0 @@
-struct TYPE_4__ | otg_cap int 
-struct TYPE_3__ | op_mode int 
-struct dwc2_hsotg | params struct TYPE_4__ | hw_params struct TYPE_3__ 
-function dwc2_set_param_otg_cap void | hsotg struct dwc2_hsotg *

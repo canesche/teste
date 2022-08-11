@@ -1,2 +1,0 @@
-struct TYPE_2__ | mip int * 
-function wined3d_gl_min_mip_filter int | min_filter enum wined3d_texture_filter_type | mip_filter enum wined3d_texture_filter_type

@@ -1,0 +1,2 @@
+struct vm_area_struct | vm_flags int | vm_file long 
+function valid_vma int | vma struct vm_area_struct * | is_register int

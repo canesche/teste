@@ -1,0 +1,5 @@
+struct TYPE_7__ | len unsigned long 
+struct TYPE_6__ | len unsigned long 
+struct TYPE_8__ | immortal struct TYPE_7__ | heap struct TYPE_6__ 
+struct TYPE_9__ | type int | data struct TYPE_8__ 
+function php_cli_server_chunk_size unsigned long | chunk const struct TYPE_9__ *

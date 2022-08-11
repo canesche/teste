@@ -1,0 +1,4 @@
+struct tcp_md5sig_key | dummy int 
+struct sock | dummy int 
+struct in6_addr | dummy int 
+function tcp_v6_md5_do_lookup struct tcp_md5sig_key * | sk const struct sock * | addr const struct in6_addr *

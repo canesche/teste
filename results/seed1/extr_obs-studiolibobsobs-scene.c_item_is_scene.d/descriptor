@@ -1,4 +1,0 @@
-struct obs_scene_item | source struct TYPE_4__ * 
-struct TYPE_3__ | type long 
-struct TYPE_4__ | info struct TYPE_3__ 
-function item_is_scene int | item const struct obs_scene_item *

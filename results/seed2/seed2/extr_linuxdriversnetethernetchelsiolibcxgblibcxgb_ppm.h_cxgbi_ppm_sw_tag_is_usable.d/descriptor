@@ -1,0 +1,2 @@
+struct cxgbi_ppm | dummy int 
+function cxgbi_ppm_sw_tag_is_usable int | ppm struct cxgbi_ppm * | tag int

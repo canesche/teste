@@ -1,0 +1,1 @@
+function wm8974_get_mclkdiv unsigned int | f_in unsigned int | f_out unsigned int | mclkdiv int *

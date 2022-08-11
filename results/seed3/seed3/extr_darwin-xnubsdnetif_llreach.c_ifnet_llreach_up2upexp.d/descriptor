@@ -1,0 +1,2 @@
+struct if_llreach | lr_reachable long 
+function ifnet_llreach_up2upexp long | lr struct if_llreach * | uptime long

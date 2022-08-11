@@ -1,0 +1,3 @@
+struct qcom_iommu_dev | dummy int 
+struct iommu_fwspec | iommu_priv struct qcom_iommu_dev * | ops int * 
+function to_iommu struct qcom_iommu_dev * | fwspec struct iommu_fwspec *

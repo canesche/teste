@@ -1,2 +1,0 @@
-struct nvme_dev | cmbsz int 
-function nvme_cmb_size_unit unsigned long long | dev struct nvme_dev *

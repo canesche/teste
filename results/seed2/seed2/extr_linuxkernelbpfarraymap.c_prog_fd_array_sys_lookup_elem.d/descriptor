@@ -1,0 +1,3 @@
+struct bpf_prog | aux struct TYPE_2__ * 
+struct TYPE_2__ | id int 
+function prog_fd_array_sys_lookup_elem int | ptr void *

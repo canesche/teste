@@ -1,0 +1,2 @@
+struct TYPE_4__ | long_locked_until int | long_lock_heap_pos int 
+function lock_heap_adjust int | i int | T struct TYPE_4__ *

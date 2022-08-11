@@ -1,0 +1,3 @@
+struct i2c_reply_transaction_data | dummy int 
+struct i2c_engine | dummy int 
+function dal_i2c_engine_process_channel_reply void | engine struct i2c_engine * | reply struct i2c_reply_transaction_data *

@@ -1,0 +1,1 @@
+function bpf_get_file_flag int | flags int

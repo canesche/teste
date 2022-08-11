@@ -1,3 +1,0 @@
-struct nft_ctx | dummy int 
-struct nft_ct | key int 
-function __nft_ct_set_destroy void | ctx const struct nft_ctx * | priv struct nft_ct *

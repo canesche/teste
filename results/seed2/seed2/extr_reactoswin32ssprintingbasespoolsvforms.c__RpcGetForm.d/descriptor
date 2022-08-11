@@ -1,0 +1,1 @@
+function _RpcGetForm int | hPrinter int | pFormName int * | Level int | pForm int * | cbBuf int | pcbNeeded int *

@@ -1,0 +1,9 @@
+struct ttm_mem_type_manager | size long 
+struct TYPE_6__ | gtt_size int | visible_vram_size int 
+struct TYPE_4__ | man struct ttm_mem_type_manager * 
+struct TYPE_5__ | bdev struct TYPE_4__ 
+struct radeon_device | gart_pin_size long | mc struct TYPE_6__ | vram_pin_size long | mman struct TYPE_5__ 
+struct drm_radeon_gem_info | vram_size int | gart_size int | vram_visible int 
+struct drm_file | dummy int 
+struct drm_device | dev_private struct radeon_device * 
+function radeon_gem_info_ioctl int | dev struct drm_device * | data void * | filp struct drm_file *

@@ -1,0 +1,4 @@
+struct TYPE_2__ | dev_loss_tmo long 
+struct nvme_fc_rport | remoteport struct TYPE_2__ 
+struct nvme_fc_port_info | dev_loss_tmo long 
+function __nvme_fc_set_dev_loss_tmo void | rport struct nvme_fc_rport * | pinfo struct nvme_fc_port_info *

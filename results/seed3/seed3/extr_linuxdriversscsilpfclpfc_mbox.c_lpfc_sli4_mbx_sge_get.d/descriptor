@@ -1,0 +1,8 @@
+struct lpfc_mbx_sge | length int | pa_hi int | pa_lo int 
+struct lpfc_mbx_nembed_cmd | sge struct TYPE_8__ * 
+struct TYPE_5__ | nembed_cmd int 
+struct TYPE_6__ | un struct TYPE_5__ 
+struct TYPE_7__ | mqe struct TYPE_6__ 
+struct lpfcMboxq | u struct TYPE_7__ 
+struct TYPE_8__ | length int | pa_hi int | pa_lo int 
+function lpfc_sli4_mbx_sge_get void | mbox struct lpfcMboxq * | sgentry unsigned long | sge struct lpfc_mbx_sge *

@@ -1,3 +1,0 @@
-struct snd_emu10k1_voice | use int | pcm int | synth int | midi int | efx int 
-struct snd_emu10k1 | next_free_voice int | voices struct snd_emu10k1_voice * 
-function voice_alloc int | emu struct snd_emu10k1 * | type int | number int | rvoice struct snd_emu10k1_voice **

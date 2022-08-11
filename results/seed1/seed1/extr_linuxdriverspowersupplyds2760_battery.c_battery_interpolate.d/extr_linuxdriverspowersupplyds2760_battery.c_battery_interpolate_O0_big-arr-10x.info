@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriverspowersupplyds2760_battery.c_battery_interpolate.d/extr_linuxdriverspowersupplyds2760_battery.c_battery_interpolate_O0::battery_interpolate(60)"
+  }
+]

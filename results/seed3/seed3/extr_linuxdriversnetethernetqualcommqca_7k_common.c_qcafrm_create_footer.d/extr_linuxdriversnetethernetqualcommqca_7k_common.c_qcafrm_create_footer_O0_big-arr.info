@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetethernetqualcommqca_7k_common.c_qcafrm_create_footer.d/extr_linuxdriversnetethernetqualcommqca_7k_common.c_qcafrm_create_footer_O0::qcafrm_create_footer(64)"
+  }
+]

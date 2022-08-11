@@ -1,2 +1,0 @@
-struct ring_buffer_event | type_len int | array unsigned int * 
-function rb_event_data_length unsigned int | event struct ring_buffer_event *

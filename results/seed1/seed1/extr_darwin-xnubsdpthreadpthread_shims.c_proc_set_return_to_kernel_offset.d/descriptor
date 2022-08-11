@@ -1,0 +1,2 @@
+struct proc | p_return_to_kernel_offset int 
+function proc_set_return_to_kernel_offset void | p struct proc * | offset int

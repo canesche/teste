@@ -1,3 +1,0 @@
-struct pistachio_pll_rate_table | fref unsigned long | fout unsigned long 
-struct pistachio_clk_pll | nr_rates unsigned int | rates struct pistachio_pll_rate_table * 
-function pll_get_params struct pistachio_pll_rate_table * | pll struct pistachio_clk_pll * | fref unsigned long | fout unsigned long

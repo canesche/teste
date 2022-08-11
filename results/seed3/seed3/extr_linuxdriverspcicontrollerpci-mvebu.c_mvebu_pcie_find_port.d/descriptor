@@ -1,0 +1,5 @@
+struct pci_bus | number long 
+struct TYPE_2__ | secondary_bus long | subordinate_bus long 
+struct mvebu_pcie_port | devfn int | bridge struct TYPE_2__ 
+struct mvebu_pcie | nports int | ports struct mvebu_pcie_port * 
+function mvebu_pcie_find_port struct mvebu_pcie_port * | pcie struct mvebu_pcie * | bus struct pci_bus * | devfn int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | lexer_error int | hres int 
+function lex_error int | ctx struct TYPE_3__ * | hres int

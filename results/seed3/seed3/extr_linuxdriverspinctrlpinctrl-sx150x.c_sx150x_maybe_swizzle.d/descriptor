@@ -1,0 +1,3 @@
+struct sx150x_pinctrl | data struct sx150x_device_data * 
+struct sx150x_device_data | reg_sense unsigned int | ngpios int | model long 
+function sx150x_maybe_swizzle unsigned int | pctl struct sx150x_pinctrl * | reg unsigned int | val unsigned int

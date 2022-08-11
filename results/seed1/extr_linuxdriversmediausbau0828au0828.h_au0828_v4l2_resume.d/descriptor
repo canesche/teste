@@ -1,2 +1,0 @@
-struct au0828_dev | dummy int 
-function au0828_v4l2_resume void | dev struct au0828_dev *

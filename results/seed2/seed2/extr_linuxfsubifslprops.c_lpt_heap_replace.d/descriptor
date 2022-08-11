@@ -1,0 +1,4 @@
+struct ubifs_lpt_heap | arr struct ubifs_lprops ** 
+struct ubifs_lprops | hpos int 
+struct ubifs_info | lpt_heap struct ubifs_lpt_heap * 
+function lpt_heap_replace void | c struct ubifs_info * | new_lprops struct ubifs_lprops * | cat int

@@ -1,0 +1,2 @@
+struct TYPE_2__ | inuse int | baseaddr int | irq int 
+function uart_legacy_alloc int | which int | baseaddr int * | irq int *

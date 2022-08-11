@@ -1,0 +1,2 @@
+struct dma_chan | chan_id long 
+function ks8842_dma_filter_fn int | chan struct dma_chan * | filter_param void *

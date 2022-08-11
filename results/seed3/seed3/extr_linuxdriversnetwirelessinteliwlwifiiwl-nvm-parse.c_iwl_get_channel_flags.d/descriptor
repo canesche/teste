@@ -1,0 +1,2 @@
+struct iwl_cfg | nvm_type long 
+function iwl_get_channel_flags long | ch_num long | ch_idx int | is_5ghz int | nvm_flags int | cfg const struct iwl_cfg *

@@ -1,0 +1,16 @@
+struct TYPE_12__ | count int 
+struct TYPE_13__ | pcie_speed_table struct TYPE_12__ 
+struct TYPE_22__ | count int | dpm_levels struct TYPE_16__ * 
+struct TYPE_15__ | count int | dpm_levels struct TYPE_14__ * 
+struct smu7_dpm_table | mclk_table struct TYPE_22__ | sclk_table struct TYPE_15__ 
+struct smu7_hwmgr | dpm_table struct TYPE_13__ | golden_dpm_table struct smu7_dpm_table 
+struct TYPE_19__ | vddc_dependency_on_sclk struct TYPE_18__ * 
+struct pp_hwmgr | pp_table_version long | pstate_sclk int | pstate_mclk int | pptable long | dyn_state struct TYPE_19__ | backend long 
+struct phm_ppt_v1_information | vdd_dep_on_sclk struct TYPE_21__ * 
+struct TYPE_21__ | count int | entries struct TYPE_20__ * 
+struct TYPE_20__ | clk int 
+struct TYPE_18__ | count int | entries struct TYPE_17__ * 
+struct TYPE_17__ | clk int 
+struct TYPE_16__ | value int 
+struct TYPE_14__ | value int 
+function smu7_get_profiling_clk int | hwmgr struct pp_hwmgr * | level enum amd_dpm_forced_level | sclk_mask int * | mclk_mask int * | pcie_mask int *

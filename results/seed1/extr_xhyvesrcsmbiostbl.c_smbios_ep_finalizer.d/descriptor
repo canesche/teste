@@ -1,2 +1,0 @@
-struct smbios_entry_point | echecksum void * | ichecksum void * | stnum void * | stlen void * | maxssize void * 
-function smbios_ep_finalizer void | smbios_ep struct smbios_entry_point * | len void * | num void * | maxssize void *

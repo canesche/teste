@@ -1,0 +1,2 @@
+struct btrfs_chunk_map_item | logical long 
+function btrfs_comp_chunk_map int | m1 struct btrfs_chunk_map_item * | m2 struct btrfs_chunk_map_item *

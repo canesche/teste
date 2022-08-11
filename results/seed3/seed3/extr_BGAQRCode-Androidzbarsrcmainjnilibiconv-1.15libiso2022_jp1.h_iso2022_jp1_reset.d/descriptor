@@ -1,0 +1,2 @@
+struct TYPE_3__ | ostate long 
+function iso2022_jp1_reset int | conv struct TYPE_3__ * | r unsigned char * | n unsigned long

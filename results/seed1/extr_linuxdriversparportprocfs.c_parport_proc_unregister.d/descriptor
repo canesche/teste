@@ -1,2 +1,0 @@
-struct parport | dummy int 
-function parport_proc_unregister int | pp struct parport *

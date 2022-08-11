@@ -1,2 +1,0 @@
-struct drm_device | dummy int 
-function nouveau_backlight_exit void | dev struct drm_device *

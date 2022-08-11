@@ -1,0 +1,2 @@
+struct nbd_device | dummy int 
+function nbd_dev_dbg_close void | nbd struct nbd_device *

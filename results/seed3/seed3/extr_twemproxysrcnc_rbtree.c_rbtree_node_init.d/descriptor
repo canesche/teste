@@ -1,0 +1,2 @@
+struct rbnode | key unsigned long long | data int * | parent int * | right int * | left int * 
+function rbtree_node_init void | node struct rbnode *

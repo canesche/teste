@@ -1,4 +1,0 @@
-struct wmi_dfs_status_ev_arg | status int 
-struct sk_buff | len int | data long 
-struct ath10k | dummy int 
-function ath10k_wmi_10_4_op_pull_dfs_status_ev int | ar struct ath10k * | skb struct sk_buff * | arg struct wmi_dfs_status_ev_arg *

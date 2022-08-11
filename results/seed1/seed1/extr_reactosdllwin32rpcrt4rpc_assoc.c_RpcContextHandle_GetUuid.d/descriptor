@@ -1,0 +1,2 @@
+struct TYPE_2__ | uuid int 
+function RpcContextHandle_GetUuid void | SContext long | uuid int *

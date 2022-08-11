@@ -1,2 +1,0 @@
-struct ixgbe_adapter | link_speed int 
-function ixgbe_ptp_link_speed_adjust void | adapter struct ixgbe_adapter * | shift int * | incval int *

@@ -1,0 +1,1 @@
+function zmalloc_get_allocator_info int | allocated unsigned long * | active unsigned long * | resident unsigned long *

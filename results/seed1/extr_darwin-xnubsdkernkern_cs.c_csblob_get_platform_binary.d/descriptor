@@ -1,2 +1,0 @@
-struct cs_blob | csb_platform_binary long 
-function csblob_get_platform_binary int | blob struct cs_blob *

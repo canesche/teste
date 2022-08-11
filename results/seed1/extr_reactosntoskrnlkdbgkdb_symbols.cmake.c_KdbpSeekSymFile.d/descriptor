@@ -1,3 +1,0 @@
-struct TYPE_3__ | QuadPart int 
-struct TYPE_4__ | FileOffset struct TYPE_3__ 
-function KdbpSeekSymFile int | FileContext int | Target int

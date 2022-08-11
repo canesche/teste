@@ -1,0 +1,1 @@
+function _glfwPlatformCreateWindowSurface int | instance int | window int * | allocator const int * | surface int *

@@ -1,0 +1,3 @@
+struct TYPE_3__ | high unsigned int | low unsigned int 
+struct TYPE_4__ | ll long long | s struct TYPE_3__ 
+function __lshrdi3 long long | u long long | b int

@@ -1,0 +1,2 @@
+struct ppc4xx_ecc_status | ecces int 
+function ppc4xx_edac_check_bank_error int | status const struct ppc4xx_ecc_status * | bank unsigned int

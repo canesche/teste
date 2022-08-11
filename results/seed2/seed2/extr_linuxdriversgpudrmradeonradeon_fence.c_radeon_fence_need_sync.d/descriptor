@@ -1,0 +1,4 @@
+struct radeon_fence_driver | sync_seq long * 
+struct radeon_fence | ring int | seq long | rdev struct TYPE_2__ * 
+struct TYPE_2__ | fence_drv struct radeon_fence_driver * 
+function radeon_fence_need_sync int | fence struct radeon_fence * | dst_ring int

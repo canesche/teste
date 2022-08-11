@@ -1,0 +1,2 @@
+struct wf_control | dummy int 
+function clamp_get int | ct struct wf_control * | value int *

@@ -1,3 +1,0 @@
-struct tid_info | nsftids unsigned int | sftid_base unsigned int | nstids unsigned int | stid_tab struct TYPE_2__ * | stid_base long 
-struct TYPE_2__ | data void * 
-function lookup_stid void * | t const struct tid_info * | stid unsigned int

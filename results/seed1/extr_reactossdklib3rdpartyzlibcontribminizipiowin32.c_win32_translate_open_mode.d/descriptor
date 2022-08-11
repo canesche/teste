@@ -1,1 +1,0 @@
-function win32_translate_open_mode void | mode int | lpdwDesiredAccess int * | lpdwCreationDisposition int * | lpdwShareMode int * | lpdwFlagsAndAttributes int *

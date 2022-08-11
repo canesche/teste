@@ -1,0 +1,2 @@
+struct bpf_insn | off long 
+function bpf_adj_delta_to_off int | insn struct bpf_insn * | pos long | delta long | curr long | probe_pass const int

@@ -1,0 +1,2 @@
+struct tcpcb | snd_cwnd int | t_maxseg int 
+function tcp_ledbat_after_idle void | tp struct tcpcb *

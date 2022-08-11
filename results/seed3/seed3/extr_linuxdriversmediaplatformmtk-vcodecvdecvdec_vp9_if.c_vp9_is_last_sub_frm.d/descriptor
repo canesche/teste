@@ -1,0 +1,3 @@
+struct vdec_vp9_vsi | sf_frm_cnt long | sf_frm_idx long 
+struct vdec_vp9_inst | vsi struct vdec_vp9_vsi * 
+function vp9_is_last_sub_frm int | inst struct vdec_vp9_inst *

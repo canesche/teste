@@ -1,0 +1,2 @@
+struct kfd_event | type long 
+function event_can_be_cpu_signaled int | ev const struct kfd_event *

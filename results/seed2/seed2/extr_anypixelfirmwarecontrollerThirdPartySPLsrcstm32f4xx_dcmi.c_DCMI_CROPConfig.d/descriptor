@@ -1,0 +1,3 @@
+struct TYPE_5__ | CWSTRTR int | CWSIZER int 
+struct TYPE_4__ | DCMI_CaptureCount int | DCMI_VerticalLineCount long | DCMI_VerticalStartLine long | DCMI_HorizontalOffsetCount long 
+function DCMI_CROPConfig void | DCMI_CROPInitStruct struct TYPE_4__ *

@@ -1,3 +1,0 @@
-struct TYPE_4__ | lpVtbl int * 
-struct TYPE_5__ | result int | vt int | IDispatch_iface struct TYPE_4__ 
-function init_test_dispatch void | vt int | dispatch struct TYPE_5__ *

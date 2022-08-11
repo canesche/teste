@@ -1,0 +1,4 @@
+struct TYPE_4__ | command int 
+struct ide_cmd | tf_flags int | tf struct TYPE_4__ | protocol int 
+struct TYPE_5__ | mult_count long 
+function ide_tf_set_cmd void | drive struct TYPE_5__ * | cmd struct ide_cmd * | dma unsigned long

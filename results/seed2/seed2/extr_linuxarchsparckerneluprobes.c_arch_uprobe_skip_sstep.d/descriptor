@@ -1,0 +1,3 @@
+struct pt_regs | tnpc int | tpc int 
+struct arch_uprobe | ixol int 
+function arch_uprobe_skip_sstep int | auprobe struct arch_uprobe * | regs struct pt_regs *

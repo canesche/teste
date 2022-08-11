@@ -1,0 +1,3 @@
+struct ra_d3d11 | fl int 
+struct ra | priv struct ra_d3d11 * 
+function get_shader_target const char * | ra struct ra * | type enum glsl_shader

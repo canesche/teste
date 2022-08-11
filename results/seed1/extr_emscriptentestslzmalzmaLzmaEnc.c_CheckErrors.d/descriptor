@@ -1,4 +1,0 @@
-struct TYPE_6__ | result long 
-struct TYPE_5__ | res long 
-struct TYPE_7__ | result long | finished int | matchFinderBase struct TYPE_6__ | rc struct TYPE_5__ 
-function CheckErrors long | p struct TYPE_7__ *

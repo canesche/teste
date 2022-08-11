@@ -1,2 +1,0 @@
-struct cache_features | metadata_version int | io_mode int | mode int 
-function init_features void | cf struct cache_features *

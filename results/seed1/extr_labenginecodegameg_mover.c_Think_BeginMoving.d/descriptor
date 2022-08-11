@@ -1,5 +1,0 @@
-struct TYPE_6__ | trType int | trTime int 
-struct TYPE_7__ | pos struct TYPE_6__ 
-struct TYPE_8__ | s struct TYPE_7__ 
-struct TYPE_9__ | time int 
-function Think_BeginMoving void | ent struct TYPE_8__ *

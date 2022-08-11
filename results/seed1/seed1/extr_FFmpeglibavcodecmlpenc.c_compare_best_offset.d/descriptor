@@ -1,0 +1,2 @@
+struct TYPE_4__ | lsb_bits long 
+function compare_best_offset int | prev struct TYPE_4__ * | cur struct TYPE_4__ *

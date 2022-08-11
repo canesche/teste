@@ -1,0 +1,3 @@
+struct sline | flag unsigned long | p_lno int * | lost struct lline * 
+struct lline | parent_map unsigned long | next struct lline * 
+function reuse_combine_diff void | sline struct sline * | cnt unsigned long | i int | j int

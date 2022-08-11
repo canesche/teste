@@ -1,0 +1,4 @@
+struct kobject | dummy int 
+struct attribute | mode int 
+struct TYPE_2__ | secm long 
+function cm_enable_mode int | kobj struct kobject * | attr struct attribute * | index int

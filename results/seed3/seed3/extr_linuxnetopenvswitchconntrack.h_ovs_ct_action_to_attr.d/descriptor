@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct ovs_conntrack_info | dummy int 
+function ovs_ct_action_to_attr int | info const struct ovs_conntrack_info * | skb struct sk_buff *

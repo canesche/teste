@@ -1,0 +1,2 @@
+struct sh_mobile_i2c_data | pos int 
+function sh_mobile_i2c_is_first_byte int | pd struct sh_mobile_i2c_data *

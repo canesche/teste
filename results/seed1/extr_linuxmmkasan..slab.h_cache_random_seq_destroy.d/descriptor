@@ -1,2 +1,0 @@
-struct kmem_cache | dummy int 
-function cache_random_seq_destroy void | cachep struct kmem_cache *

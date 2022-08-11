@@ -1,2 +1,0 @@
-struct TYPE_5__ | last_sync_time long 
-function cmp_repos_by_sync_time long | a struct TYPE_5__ * | b struct TYPE_5__ * | user_data int

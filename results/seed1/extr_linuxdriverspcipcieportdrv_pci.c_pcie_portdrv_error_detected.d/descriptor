@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function pcie_portdrv_error_detected int | dev struct pci_dev * | error enum pci_channel_state

@@ -1,0 +1,2 @@
+struct mg_connection | flags int 
+function cb6 void | nc struct mg_connection * | ev int | ev_data void *

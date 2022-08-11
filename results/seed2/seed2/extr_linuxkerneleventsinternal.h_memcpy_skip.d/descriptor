@@ -1,0 +1,1 @@
+function memcpy_skip unsigned long | dst void * | src const void * | n unsigned long

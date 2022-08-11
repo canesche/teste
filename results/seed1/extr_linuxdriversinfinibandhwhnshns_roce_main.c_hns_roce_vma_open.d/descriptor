@@ -1,2 +1,0 @@
-struct vm_area_struct | vm_ops int * 
-function hns_roce_vma_open void | vma struct vm_area_struct *

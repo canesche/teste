@@ -1,0 +1,3 @@
+struct esp_event_ent | event int | select_state int | ireg int | sreg2 int | seqreg int | sreg int 
+struct esp | event int | select_state int | ireg int | sreg2 int | seqreg int | sreg int 
+function esp_log_fill_regs void | esp struct esp * | p struct esp_event_ent *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | order_hint_bits_minus_1 int | enable_order_hint int 
+function cbs_av1_get_relative_dist int | seq const struct TYPE_3__ * | a unsigned int | b unsigned int

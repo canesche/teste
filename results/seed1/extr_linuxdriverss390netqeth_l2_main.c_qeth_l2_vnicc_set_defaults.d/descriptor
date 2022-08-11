@@ -1,4 +1,0 @@
-struct TYPE_4__ | wanted_chars void * | getset_timeout_sup int | set_char_sup void * | learning_timeout int | cur_chars void * | sup_chars void * 
-struct TYPE_3__ | vnicc struct TYPE_4__ 
-struct qeth_card | options struct TYPE_3__ 
-function qeth_l2_vnicc_set_defaults void | card struct qeth_card *

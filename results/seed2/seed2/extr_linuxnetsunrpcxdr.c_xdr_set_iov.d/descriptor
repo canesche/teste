@@ -1,0 +1,3 @@
+struct xdr_stream | page_ptr int * | iov struct kvec * | end int * | p int * 
+struct kvec | iov_len unsigned int | iov_base long 
+function xdr_set_iov void | xdr struct xdr_stream * | iov struct kvec * | len unsigned int

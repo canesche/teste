@@ -1,0 +1,3 @@
+struct snd_soc_dai_link | no_pcm int | be_hw_params_fixup int | ops int * 
+struct snd_soc_card | num_links int | dai_link struct snd_soc_dai_link * 
+function sdm845_add_be_ops void | card struct snd_soc_card *

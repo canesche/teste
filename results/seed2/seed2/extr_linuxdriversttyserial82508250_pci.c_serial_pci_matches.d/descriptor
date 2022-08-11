@@ -1,0 +1,2 @@
+struct pciserial_board | num_ports long | base_baud long | uart_offset long | reg_shift long | first_offset long 
+function serial_pci_matches int | board const struct pciserial_board * | guessed const struct pciserial_board *

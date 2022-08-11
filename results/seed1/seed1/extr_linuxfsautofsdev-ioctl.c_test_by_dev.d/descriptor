@@ -1,0 +1,4 @@
+struct path | dentry struct TYPE_4__ * 
+struct TYPE_4__ | d_sb struct TYPE_3__ * 
+struct TYPE_3__ | s_dev long 
+function test_by_dev int | path const struct path * | p void *

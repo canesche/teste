@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetwirelessathwcn36xxsmd.c_wcn36xx_smd_rsp_status_check.d/extr_linuxdriversnetwirelessathwcn36xxsmd.c_wcn36xx_smd_rsp_status_check_O0::wcn36xx_smd_rsp_status_check(64)"
+  }
+]

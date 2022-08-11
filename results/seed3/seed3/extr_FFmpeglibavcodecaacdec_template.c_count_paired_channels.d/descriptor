@@ -1,0 +1,1 @@
+function count_paired_channels int | layout_map int (*)[3] | tags int | pos int | current int *

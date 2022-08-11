@@ -1,0 +1,392 @@
+0x400450:4:sub $0x8,%rsp
+0x400454:7:mov 0x200b9d(%rip),%rax
+0x40045b:3:test %rax,%rax
+0x40045e:2:je 0000000000400462 <_init+0x12>
+0x400460:2:callq *%rax
+0x400462:4:add $0x8,%rsp
+0x400466:1:retq
+0x400470:6:pushq 0x200b92(%rip)
+0x400476:6:jmpq *0x200b94(%rip)
+0x40047c:4:nopl 0x0(%rax)
+0x400480:6:jmpq *0x200b92(%rip)
+0x400486:5:pushq $0x0
+0x40048b:5:jmpq 0000000000400470 <.plt>
+0x400490:6:jmpq *0x200b8a(%rip)
+0x400496:5:pushq $0x1
+0x40049b:5:jmpq 0000000000400470 <.plt>
+0x4004a0:6:jmpq *0x200b82(%rip)
+0x4004a6:5:pushq $0x2
+0x4004ab:5:jmpq 0000000000400470 <.plt>
+0x4004b0:6:jmpq *0x200b7a(%rip)
+0x4004b6:5:pushq $0x3
+0x4004bb:5:jmpq 0000000000400470 <.plt>
+0x4004c0:2:xor %ebp,%ebp
+0x4004c2:3:mov %rdx,%r9
+0x4004c5:1:pop %rsi
+0x4004c6:3:mov %rsp,%rdx
+0x4004c9:4:and $0xfffffffffffffff0,%rsp
+0x4004cd:1:push %rax
+0x4004ce:1:push %rsp
+0x4004cf:7:mov $0x400ab0,%r8
+0x4004d6:7:mov $0x400a40,%rcx
+0x4004dd:7:mov $0x400720,%rdi
+0x4004e4:6:callq *0x200b06(%rip)
+0x4004ea:1:hlt
+0x4004eb:5:nopl 0x0(%rax,%rax,1)
+0x4004f0:2:repz retq
+0x4004f2:10:nopw %cs:0x0(%rax,%rax,1)
+0x4004fc:4:nopl 0x0(%rax)
+0x400500:1:push %rbp
+0x400501:5:mov $0x601048,%eax
+0x400506:6:cmp $0x601048,%rax
+0x40050c:3:mov %rsp,%rbp
+0x40050f:2:je 0000000000400528 <deregister_tm_clones+0x28>
+0x400511:5:mov $0x0,%eax
+0x400516:3:test %rax,%rax
+0x400519:2:je 0000000000400528 <deregister_tm_clones+0x28>
+0x40051b:1:pop %rbp
+0x40051c:5:mov $0x601048,%edi
+0x400521:2:jmpq *%rax
+0x400523:5:nopl 0x0(%rax,%rax,1)
+0x400528:1:pop %rbp
+0x400529:1:retq
+0x40052a:6:nopw 0x0(%rax,%rax,1)
+0x400530:5:mov $0x601048,%esi
+0x400535:1:push %rbp
+0x400536:7:sub $0x601048,%rsi
+0x40053d:3:mov %rsp,%rbp
+0x400540:4:sar $0x3,%rsi
+0x400544:3:mov %rsi,%rax
+0x400547:4:shr $0x3f,%rax
+0x40054b:3:add %rax,%rsi
+0x40054e:3:sar %rsi
+0x400551:2:je 0000000000400568 <register_tm_clones+0x38>
+0x400553:5:mov $0x0,%eax
+0x400558:3:test %rax,%rax
+0x40055b:2:je 0000000000400568 <register_tm_clones+0x38>
+0x40055d:1:pop %rbp
+0x40055e:5:mov $0x601048,%edi
+0x400563:2:jmpq *%rax
+0x400565:3:nopl (%rax)
+0x400568:1:pop %rbp
+0x400569:1:retq
+0x40056a:6:nopw 0x0(%rax,%rax,1)
+0x400570:7:cmpb $0x0,0x200ad1(%rip)
+0x400577:2:jne 0000000000400590 <__do_global_dtors_aux+0x20>
+0x400579:1:push %rbp
+0x40057a:3:mov %rsp,%rbp
+0x40057d:5:callq 0000000000400500 <deregister_tm_clones>
+0x400582:7:movb $0x1,0x200abf(%rip)
+0x400589:1:pop %rbp
+0x40058a:1:retq
+0x40058b:5:nopl 0x0(%rax,%rax,1)
+0x400590:2:repz retq
+0x400592:4:nopl 0x0(%rax)
+0x400596:10:nopw %cs:0x0(%rax,%rax,1)
+0x4005a0:1:push %rbp
+0x4005a1:3:mov %rsp,%rbp
+0x4005a4:1:pop %rbp
+0x4005a5:2:jmp 0000000000400530 <register_tm_clones>
+0x4005a7:9:nopw 0x0(%rax,%rax,1)
+0x4005b0:1:push %rbp
+0x4005b1:3:mov %rsp,%rbp
+0x4005b4:7:movl $0x0,-0x4(%rbp)
+0x4005bb:3:mov -0x4(%rbp),%eax
+0x4005be:3:add $0x1,%eax
+0x4005c1:3:mov %eax,-0x4(%rbp)
+0x4005c4:5:mov $0x19,%ecx
+0x4005c9:1:cltd
+0x4005ca:2:idiv %ecx
+0x4005cc:3:movslq %edx,%rax
+0x4005cf:7:mov 0x400b00(,%rax,4),%eax
+0x4005d6:1:pop %rbp
+0x4005d7:1:retq
+0x4005d8:8:nopl 0x0(%rax,%rax,1)
+0x4005e0:1:push %rbp
+0x4005e1:3:mov %rsp,%rbp
+0x4005e4:7:movl $0x0,-0x4(%rbp)
+0x4005eb:3:mov -0x4(%rbp),%edx
+0x4005ee:2:mov %edx,%ecx
+0x4005f0:3:add $0x1,%ecx
+0x4005f3:3:mov %ecx,-0x4(%rbp)
+0x4005f6:2:mov %edx,%eax
+0x4005f8:3:movslq %ecx,%rcx
+0x4005fb:7:imul $0x51eb851f,%rcx,%rdx
+0x400602:3:mov %rdx,%rcx
+0x400605:4:shr $0x3f,%rcx
+0x400609:4:sar $0x23,%rdx
+0x40060d:2:add %ecx,%edx
+0x40060f:2:mov %edx,%ecx
+0x400611:3:lea (%rcx,%rcx,4),%edx
+0x400614:2:mov %edx,%ecx
+0x400616:3:lea (%rcx,%rcx,4),%edx
+0x400619:2:neg %edx
+0x40061b:2:mov %edx,%ecx
+0x40061d:4:lea 0x1(%rax,%rcx,1),%eax
+0x400621:2:cltq
+0x400623:7:mov 0x400b00(,%rax,4),%eax
+0x40062a:5:cvtsi2ss %rax,%xmm0
+0x40062f:8:movss 0x48d(%rip),%xmm1
+0x400637:4:divss %xmm1,%xmm0
+0x40063b:1:pop %rbp
+0x40063c:1:retq
+0x40063d:3:nopl (%rax)
+0x400640:1:push %rbp
+0x400641:3:mov %rsp,%rbp
+0x400644:10:movabs $0x400b64,%rdi
+0x40064e:10:movabs $0x400b67,%rsi
+0x400658:2:mov $0x0,%al
+0x40065a:5:callq 0000000000400490 <printf@plt>
+0x40065f:1:pop %rbp
+0x400660:1:retq
+0x400661:10:nopw %cs:0x0(%rax,%rax,1)
+0x40066b:5:nopl 0x0(%rax,%rax,1)
+0x400670:1:push %rbp
+0x400671:3:mov %rsp,%rbp
+0x400674:4:mov %rdi,-0x8(%rbp)
+0x400678:6:mov 0x2009d2(%rip),%eax
+0x40067e:3:mov %eax,-0xc(%rbp)
+0x400681:5:sub $0x80,%eax
+0x400686:6:je 00000000004006e5 <validate_angle2rad+0x75>
+0x40068c:5:jmpq 0000000000400691 <validate_angle2rad+0x21>
+0x400691:3:mov -0xc(%rbp),%eax
+0x400694:5:sub $0x81,%eax
+0x400699:6:je 00000000004006ea <validate_angle2rad+0x7a>
+0x40069f:5:jmpq 00000000004006a4 <validate_angle2rad+0x34>
+0x4006a4:3:mov -0xc(%rbp),%eax
+0x4006a7:5:sub $0x82,%eax
+0x4006ac:6:jne 0000000000400713 <validate_angle2rad+0xa3>
+0x4006b2:5:jmpq 00000000004006b7 <validate_angle2rad+0x47>
+0x4006b7:4:mov -0x8(%rbp),%rax
+0x4006bb:4:movsd (%rax),%xmm0
+0x4006bf:9:movsd 0x601058,%xmm1
+0x4006c8:8:movsd 0x400(%rip),%xmm2
+0x4006d0:4:divsd %xmm2,%xmm1
+0x4006d4:4:mulsd %xmm1,%xmm0
+0x4006d8:4:mov -0x8(%rbp),%rax
+0x4006dc:4:movsd %xmm0,(%rax)
+0x4006e0:5:jmpq 0000000000400713 <validate_angle2rad+0xa3>
+0x4006e5:5:jmpq 0000000000400713 <validate_angle2rad+0xa3>
+0x4006ea:4:mov -0x8(%rbp),%rax
+0x4006ee:4:movsd (%rax),%xmm0
+0x4006f2:9:movsd 0x601058,%xmm1
+0x4006fb:8:movsd 0x3c5(%rip),%xmm2
+0x400703:4:divsd %xmm2,%xmm1
+0x400707:4:mulsd %xmm1,%xmm0
+0x40070b:4:mov -0x8(%rbp),%rax
+0x40070f:4:movsd %xmm0,(%rax)
+0x400713:4:mov -0x8(%rbp),%rax
+0x400717:4:movsd (%rax),%xmm0
+0x40071b:1:pop %rbp
+0x40071c:1:retq
+0x40071d:3:nopl (%rax)
+0x400720:1:push %rbp
+0x400721:3:mov %rsp,%rbp
+0x400724:7:sub $0x90,%rsp
+0x40072b:7:movl $0x0,-0x4(%rbp)
+0x400732:3:mov %edi,-0x8(%rbp)
+0x400735:4:mov %rsi,-0x10(%rbp)
+0x400739:4:cmpl $0x2,-0x8(%rbp)
+0x40073d:6:je 0000000000400754 <main+0x34>
+0x400743:5:callq 0000000000400640 <usage>
+0x400748:7:movl $0x1,-0x4(%rbp)
+0x40074f:5:jmpq 0000000000400a2a <main+0x30a>
+0x400754:4:mov -0x10(%rbp),%rax
+0x400758:4:mov 0x8(%rax),%rdi
+0x40075c:5:callq 00000000004004b0 <atoi@plt>
+0x400761:3:mov %eax,-0x14(%rbp)
+0x400764:3:mov -0x14(%rbp),%eax
+0x400767:3:mov %eax,-0x74(%rbp)
+0x40076a:2:test %eax,%eax
+0x40076c:6:je 0000000000400799 <main+0x79>
+0x400772:5:jmpq 0000000000400777 <main+0x57>
+0x400777:3:mov -0x74(%rbp),%eax
+0x40077a:3:sub $0x1,%eax
+0x40077d:6:je 000000000040086c <main+0x14c>
+0x400783:5:jmpq 0000000000400788 <main+0x68>
+0x400788:3:mov -0x74(%rbp),%eax
+0x40078b:3:sub $0x2,%eax
+0x40078e:6:je 0000000000400945 <main+0x225>
+0x400794:5:jmpq 0000000000400a1e <main+0x2fe>
+0x400799:7:movl $0x1,-0x18(%rbp)
+0x4007a0:4:movslq -0x18(%rbp),%rdi
+0x4007a4:4:shl $0x3,%rdi
+0x4007a8:5:callq 00000000004004a0 <malloc@plt>
+0x4007ad:4:mov %rax,-0x20(%rbp)
+0x4007b1:7:movl $0x0,-0x24(%rbp)
+0x4007b8:3:mov -0x24(%rbp),%eax
+0x4007bb:3:cmp -0x18(%rbp),%eax
+0x4007be:6:jge 000000000040083a <main+0x11a>
+0x4007c4:5:callq 00000000004005b0 <next_i>
+0x4007c9:5:mov $0x2,%ecx
+0x4007ce:1:cltd
+0x4007cf:2:idiv %ecx
+0x4007d1:4:cvtsi2sd %edx,%xmm1
+0x4007d5:8:movsd 0x313(%rip),%xmm0
+0x4007dd:4:mulsd %xmm1,%xmm0
+0x4007e1:8:movsd 0x2ff(%rip),%xmm1
+0x4007e9:4:addsd %xmm1,%xmm0
+0x4007ed:5:movsd %xmm0,-0x80(%rbp)
+0x4007f2:5:callq 00000000004005e0 <next_f>
+0x4007f7:3:movaps %xmm0,%xmm1
+0x4007fa:5:movsd -0x80(%rbp),%xmm0
+0x4007ff:4:cvtss2sd %xmm1,%xmm2
+0x400803:8:movsd 0x2d5(%rip),%xmm1
+0x40080b:4:divsd %xmm1,%xmm2
+0x40080f:8:movsd 0x2c1(%rip),%xmm1
+0x400817:4:addsd %xmm2,%xmm1
+0x40081b:4:mulsd %xmm1,%xmm0
+0x40081f:4:mov -0x20(%rbp),%rax
+0x400823:4:movslq -0x24(%rbp),%rcx
+0x400827:5:movsd %xmm0,(%rax,%rcx,8)
+0x40082c:3:mov -0x24(%rbp),%eax
+0x40082f:3:add $0x1,%eax
+0x400832:3:mov %eax,-0x24(%rbp)
+0x400835:5:jmpq 00000000004007b8 <main+0x98>
+0x40083a:4:mov -0x20(%rbp),%rdi
+0x40083e:5:callq 0000000000400670 <validate_angle2rad>
+0x400843:5:movsd %xmm0,-0x30(%rbp)
+0x400848:5:movsd -0x30(%rbp),%xmm0
+0x40084d:10:movabs $0x400be2,%rdi
+0x400857:2:mov $0x1,%al
+0x400859:5:callq 0000000000400490 <printf@plt>
+0x40085e:4:mov -0x20(%rbp),%rdi
+0x400862:5:callq 0000000000400480 <free@plt>
+0x400867:5:jmpq 0000000000400a23 <main+0x303>
+0x40086c:7:movl $0xfe01,-0x34(%rbp)
+0x400873:4:movslq -0x34(%rbp),%rdi
+0x400877:4:shl $0x3,%rdi
+0x40087b:5:callq 00000000004004a0 <malloc@plt>
+0x400880:4:mov %rax,-0x40(%rbp)
+0x400884:7:movl $0x0,-0x44(%rbp)
+0x40088b:3:mov -0x44(%rbp),%eax
+0x40088e:3:cmp -0x34(%rbp),%eax
+0x400891:6:jge 0000000000400913 <main+0x1f3>
+0x400897:5:callq 00000000004005b0 <next_i>
+0x40089c:5:mov $0x2,%ecx
+0x4008a1:1:cltd
+0x4008a2:2:idiv %ecx
+0x4008a4:4:cvtsi2sd %edx,%xmm1
+0x4008a8:8:movsd 0x240(%rip),%xmm0
+0x4008b0:4:mulsd %xmm1,%xmm0
+0x4008b4:8:movsd 0x22c(%rip),%xmm1
+0x4008bc:4:addsd %xmm1,%xmm0
+0x4008c0:8:movsd %xmm0,-0x88(%rbp)
+0x4008c8:5:callq 00000000004005e0 <next_f>
+0x4008cd:3:movaps %xmm0,%xmm1
+0x4008d0:8:movsd -0x88(%rbp),%xmm0
+0x4008d8:4:cvtss2sd %xmm1,%xmm2
+0x4008dc:8:movsd 0x1fc(%rip),%xmm1
+0x4008e4:4:divsd %xmm1,%xmm2
+0x4008e8:8:movsd 0x1e8(%rip),%xmm1
+0x4008f0:4:addsd %xmm2,%xmm1
+0x4008f4:4:mulsd %xmm1,%xmm0
+0x4008f8:4:mov -0x40(%rbp),%rax
+0x4008fc:4:movslq -0x44(%rbp),%rcx
+0x400900:5:movsd %xmm0,(%rax,%rcx,8)
+0x400905:3:mov -0x44(%rbp),%eax
+0x400908:3:add $0x1,%eax
+0x40090b:3:mov %eax,-0x44(%rbp)
+0x40090e:5:jmpq 000000000040088b <main+0x16b>
+0x400913:4:mov -0x40(%rbp),%rdi
+0x400917:5:callq 0000000000400670 <validate_angle2rad>
+0x40091c:5:movsd %xmm0,-0x50(%rbp)
+0x400921:5:movsd -0x50(%rbp),%xmm0
+0x400926:10:movabs $0x400be2,%rdi
+0x400930:2:mov $0x1,%al
+0x400932:5:callq 0000000000400490 <printf@plt>
+0x400937:4:mov -0x40(%rbp),%rdi
+0x40093b:5:callq 0000000000400480 <free@plt>
+0x400940:5:jmpq 0000000000400a23 <main+0x303>
+0x400945:7:movl $0x64,-0x54(%rbp)
+0x40094c:4:movslq -0x54(%rbp),%rdi
+0x400950:4:shl $0x3,%rdi
+0x400954:5:callq 00000000004004a0 <malloc@plt>
+0x400959:4:mov %rax,-0x60(%rbp)
+0x40095d:7:movl $0x0,-0x64(%rbp)
+0x400964:3:mov -0x64(%rbp),%eax
+0x400967:3:cmp -0x54(%rbp),%eax
+0x40096a:6:jge 00000000004009ec <main+0x2cc>
+0x400970:5:callq 00000000004005b0 <next_i>
+0x400975:5:mov $0x2,%ecx
+0x40097a:1:cltd
+0x40097b:2:idiv %ecx
+0x40097d:4:cvtsi2sd %edx,%xmm1
+0x400981:8:movsd 0x167(%rip),%xmm0
+0x400989:4:mulsd %xmm1,%xmm0
+0x40098d:8:movsd 0x153(%rip),%xmm1
+0x400995:4:addsd %xmm1,%xmm0
+0x400999:8:movsd %xmm0,-0x90(%rbp)
+0x4009a1:5:callq 00000000004005e0 <next_f>
+0x4009a6:3:movaps %xmm0,%xmm1
+0x4009a9:8:movsd -0x90(%rbp),%xmm0
+0x4009b1:4:cvtss2sd %xmm1,%xmm2
+0x4009b5:8:movsd 0x123(%rip),%xmm1
+0x4009bd:4:divsd %xmm1,%xmm2
+0x4009c1:8:movsd 0x10f(%rip),%xmm1
+0x4009c9:4:addsd %xmm2,%xmm1
+0x4009cd:4:mulsd %xmm1,%xmm0
+0x4009d1:4:mov -0x60(%rbp),%rax
+0x4009d5:4:movslq -0x64(%rbp),%rcx
+0x4009d9:5:movsd %xmm0,(%rax,%rcx,8)
+0x4009de:3:mov -0x64(%rbp),%eax
+0x4009e1:3:add $0x1,%eax
+0x4009e4:3:mov %eax,-0x64(%rbp)
+0x4009e7:5:jmpq 0000000000400964 <main+0x244>
+0x4009ec:4:mov -0x60(%rbp),%rdi
+0x4009f0:5:callq 0000000000400670 <validate_angle2rad>
+0x4009f5:5:movsd %xmm0,-0x70(%rbp)
+0x4009fa:5:movsd -0x70(%rbp),%xmm0
+0x4009ff:10:movabs $0x400be2,%rdi
+0x400a09:2:mov $0x1,%al
+0x400a0b:5:callq 0000000000400490 <printf@plt>
+0x400a10:4:mov -0x60(%rbp),%rdi
+0x400a14:5:callq 0000000000400480 <free@plt>
+0x400a19:5:jmpq 0000000000400a23 <main+0x303>
+0x400a1e:5:callq 0000000000400640 <usage>
+0x400a23:7:movl $0x0,-0x4(%rbp)
+0x400a2a:3:mov -0x4(%rbp),%eax
+0x400a2d:7:add $0x90,%rsp
+0x400a34:1:pop %rbp
+0x400a35:1:retq
+0x400a36:10:nopw %cs:0x0(%rax,%rax,1)
+0x400a40:2:push %r15
+0x400a42:2:push %r14
+0x400a44:3:mov %rdx,%r15
+0x400a47:2:push %r13
+0x400a49:2:push %r12
+0x400a4b:7:lea 0x2003be(%rip),%r12
+0x400a52:1:push %rbp
+0x400a53:7:lea 0x2003be(%rip),%rbp
+0x400a5a:1:push %rbx
+0x400a5b:3:mov %edi,%r13d
+0x400a5e:3:mov %rsi,%r14
+0x400a61:3:sub %r12,%rbp
+0x400a64:4:sub $0x8,%rsp
+0x400a68:4:sar $0x3,%rbp
+0x400a6c:5:callq 0000000000400450 <_init>
+0x400a71:3:test %rbp,%rbp
+0x400a74:2:je 0000000000400a96 <__libc_csu_init+0x56>
+0x400a76:2:xor %ebx,%ebx
+0x400a78:8:nopl 0x0(%rax,%rax,1)
+0x400a80:3:mov %r15,%rdx
+0x400a83:3:mov %r14,%rsi
+0x400a86:3:mov %r13d,%edi
+0x400a89:4:callq *(%r12,%rbx,8)
+0x400a8d:4:add $0x1,%rbx
+0x400a91:3:cmp %rbx,%rbp
+0x400a94:2:jne 0000000000400a80 <__libc_csu_init+0x40>
+0x400a96:4:add $0x8,%rsp
+0x400a9a:1:pop %rbx
+0x400a9b:1:pop %rbp
+0x400a9c:2:pop %r12
+0x400a9e:2:pop %r13
+0x400aa0:2:pop %r14
+0x400aa2:2:pop %r15
+0x400aa4:1:retq
+0x400aa5:1:nop
+0x400aa6:10:nopw %cs:0x0(%rax,%rax,1)
+0x400ab0:2:repz retq
+0x400ab4:4:sub $0x8,%rsp
+0x400ab8:4:add $0x8,%rsp
+0x400abc:1:retq

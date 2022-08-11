@@ -1,4 +1,0 @@
-struct ufs_sb_private_info | s_fmask unsigned int | s_fshift unsigned int | s_fsize unsigned int 
-struct ufs_buffer_head | bh struct TYPE_2__ ** 
-struct TYPE_2__ | b_data unsigned char * 
-function ubh_scanc unsigned int | uspi struct ufs_sb_private_info * | ubh struct ufs_buffer_head * | begin unsigned int | size unsigned int | table unsigned char * | mask unsigned char

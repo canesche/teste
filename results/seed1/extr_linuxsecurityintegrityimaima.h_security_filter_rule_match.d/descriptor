@@ -1,2 +1,0 @@
-struct audit_context | dummy int 
-function security_filter_rule_match int | secid int | field int | op int | lsmrule void * | actx struct audit_context *

@@ -1,0 +1,3 @@
+struct efx_nic | phy_data struct efx_mcdi_phy_data * 
+struct efx_mcdi_phy_data | supported_cap int 
+function efx_mcdi_phy_get_caps int | efx struct efx_nic *

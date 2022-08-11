@@ -1,5 +1,0 @@
-struct can_device_stats | error_passive int | error_warning int | bus_off int | restarts int 
-struct TYPE_2__ | state void * | can_stats struct can_device_stats 
-struct gs_can | can struct TYPE_2__ 
-struct can_frame | can_id int | data int * 
-function gs_update_state void | dev struct gs_can * | cf struct can_frame *

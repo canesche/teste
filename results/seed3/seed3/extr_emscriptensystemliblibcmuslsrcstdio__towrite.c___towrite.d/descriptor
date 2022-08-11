@@ -1,0 +1,2 @@
+struct TYPE_3__ | mode int | flags int | buf_size long | buf long | wend long | wbase long | wpos long | rend long | rpos long 
+function __towrite int | f struct TYPE_3__ *

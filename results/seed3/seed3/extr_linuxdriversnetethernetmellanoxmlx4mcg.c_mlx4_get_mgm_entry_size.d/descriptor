@@ -1,0 +1,2 @@
+struct mlx4_dev | oper_log_mgm_entry_size int 
+function mlx4_get_mgm_entry_size int | dev struct mlx4_dev *

@@ -1,0 +1,2 @@
+struct pcf50633 | mask_regs unsigned long * 
+function pcf50633_irq_mask_get int | pcf struct pcf50633 * | irq int

@@ -1,2 +1,0 @@
-struct ath_hw | dummy int 
-function ar9003_mci_bt_gain_ctrl void | ah struct ath_hw *

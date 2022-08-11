@@ -1,0 +1,3 @@
+struct sd | ag_cnt int 
+struct gspca_dev | dummy int 
+function setautogain void | gspca_dev struct gspca_dev * | val long

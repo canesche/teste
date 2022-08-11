@@ -1,0 +1,2 @@
+struct ws_interval | ts_start int | phi0 int | dphi0 int | ddphi int 
+function phi_at int | in struct ws_interval * | ts int

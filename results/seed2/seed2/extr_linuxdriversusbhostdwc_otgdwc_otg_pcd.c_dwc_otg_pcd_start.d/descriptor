@@ -1,0 +1,3 @@
+struct dwc_otg_pcd_function_ops | dummy int 
+struct TYPE_3__ | fops const struct dwc_otg_pcd_function_ops * 
+function dwc_otg_pcd_start void | pcd struct TYPE_3__ * | fops const struct dwc_otg_pcd_function_ops *

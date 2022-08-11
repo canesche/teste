@@ -1,0 +1,2 @@
+struct vec2 | y int | x int 
+function vec2_copy void | dst struct vec2 * | v const struct vec2 *

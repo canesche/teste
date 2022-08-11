@@ -1,0 +1,2 @@
+struct saa7164_dev | dummy int 
+function saa7164_pci_quirks int | dev struct saa7164_dev *

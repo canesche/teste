@@ -1,0 +1,4 @@
+struct inode | i_ino long | i_generation long 
+struct TYPE_2__ | vnode long | unique long 
+struct afs_iget_data | fid struct TYPE_2__ 
+function afs_iget5_test int | inode struct inode * | opaque void *

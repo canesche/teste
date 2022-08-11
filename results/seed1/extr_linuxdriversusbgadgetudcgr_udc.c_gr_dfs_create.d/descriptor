@@ -1,2 +1,0 @@
-struct gr_udc | dummy int 
-function gr_dfs_create void | dev struct gr_udc *

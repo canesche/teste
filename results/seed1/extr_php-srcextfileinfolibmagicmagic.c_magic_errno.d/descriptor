@@ -1,2 +1,0 @@
-struct magic_set | event_flags int | error int 
-function magic_errno int | ms struct magic_set *

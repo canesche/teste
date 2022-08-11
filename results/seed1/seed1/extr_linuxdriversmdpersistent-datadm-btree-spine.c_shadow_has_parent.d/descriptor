@@ -1,0 +1,2 @@
+struct shadow_spine | count int 
+function shadow_has_parent int | s struct shadow_spine *

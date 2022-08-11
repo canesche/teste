@@ -1,0 +1,3 @@
+struct snd_usb_substream | interface int | sync_endpoint int * | data_endpoint int * | num_formats int 
+struct snd_usb_stream | substream struct snd_usb_substream * 
+function snd_usb_stream_disconnect void | as struct snd_usb_stream *

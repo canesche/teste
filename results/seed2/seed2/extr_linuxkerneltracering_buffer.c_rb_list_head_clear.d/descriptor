@@ -1,0 +1,2 @@
+struct list_head | next int 
+function rb_list_head_clear void | list struct list_head *

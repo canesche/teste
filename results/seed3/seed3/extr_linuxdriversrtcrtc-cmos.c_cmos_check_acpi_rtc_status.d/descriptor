@@ -1,0 +1,2 @@
+struct device | dummy int 
+function cmos_check_acpi_rtc_status void | dev struct device * | rtc_control unsigned char *

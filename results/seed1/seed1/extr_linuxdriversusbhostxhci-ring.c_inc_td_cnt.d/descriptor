@@ -1,0 +1,3 @@
+struct urb_priv | num_tds_done int 
+struct urb | hcpriv struct urb_priv * 
+function inc_td_cnt void | urb struct urb *

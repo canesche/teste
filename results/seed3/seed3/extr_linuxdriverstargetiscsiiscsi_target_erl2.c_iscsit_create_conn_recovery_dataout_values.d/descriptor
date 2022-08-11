@@ -1,0 +1,5 @@
+struct iscsi_conn | sess struct TYPE_4__ * 
+struct iscsi_cmd | write_data_done long | next_burst_len long | data_sn long | conn struct iscsi_conn * 
+struct TYPE_4__ | sess_ops struct TYPE_3__ * 
+struct TYPE_3__ | MaxBurstLength long 
+function iscsit_create_conn_recovery_dataout_values void | cmd struct iscsi_cmd *

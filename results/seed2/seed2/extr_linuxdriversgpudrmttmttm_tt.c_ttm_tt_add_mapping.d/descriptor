@@ -1,0 +1,4 @@
+struct ttm_tt | page_flags int | num_pages unsigned long | bdev struct TYPE_4__ * | pages struct TYPE_3__ ** 
+struct TYPE_4__ | dev_mapping int 
+struct TYPE_3__ | mapping int 
+function ttm_tt_add_mapping void | ttm struct ttm_tt *

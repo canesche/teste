@@ -1,0 +1,3 @@
+struct cxd2880_tnrdmd | cfg_mem_last_entry unsigned long | cfg_mem struct TYPE_2__ * 
+struct TYPE_2__ | tgt int | bank unsigned long | address unsigned long | value unsigned long | bit_mask unsigned long 
+function set_cfg_mem int | tnr_dmd struct cxd2880_tnrdmd * | tgt enum cxd2880_io_tgt | bank unsigned long | address unsigned long | value unsigned long | bit_mask unsigned long

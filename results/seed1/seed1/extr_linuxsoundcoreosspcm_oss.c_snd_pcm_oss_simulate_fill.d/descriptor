@@ -1,0 +1,4 @@
+struct snd_pcm_substream | runtime struct snd_pcm_runtime * 
+struct snd_pcm_runtime | control struct TYPE_2__ * | boundary long | buffer_size long 
+struct TYPE_2__ | appl_ptr long 
+function snd_pcm_oss_simulate_fill void | substream struct snd_pcm_substream * | hw_ptr long

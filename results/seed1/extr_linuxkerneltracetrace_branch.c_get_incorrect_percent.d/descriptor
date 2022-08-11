@@ -1,2 +1,0 @@
-struct ftrace_branch_data | correct int | incorrect int 
-function get_incorrect_percent long | p struct ftrace_branch_data *

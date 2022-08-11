@@ -1,0 +1,6 @@
+struct TYPE_5__ | invoke_id int 
+struct TYPE_6__ | ni1 struct TYPE_5__ 
+struct l3_process | callref int | next struct l3_process * | prot struct TYPE_6__ 
+struct TYPE_4__ | proc struct l3_process * 
+struct PStack | l3 struct TYPE_4__ 
+function l3ni1_search_dummy_proc struct l3_process * | st struct PStack * | id int

@@ -1,0 +1,2 @@
+struct n_tty_data | echo_buf unsigned char * 
+function echo_buf_addr unsigned char * | ldata struct n_tty_data * | i unsigned long

@@ -1,2 +1,0 @@
-struct kfd_dev | dummy int 
-function kfd_iommu_resume int | kfd struct kfd_dev *

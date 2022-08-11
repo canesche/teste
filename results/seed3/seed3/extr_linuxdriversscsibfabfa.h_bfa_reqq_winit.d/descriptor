@@ -1,0 +1,2 @@
+struct bfa_reqq_wait_s | qresume void (*)(void *) | cbarg void * 
+function bfa_reqq_winit void | wqe struct bfa_reqq_wait_s * | qresume void (*)(void *) | cbarg void *

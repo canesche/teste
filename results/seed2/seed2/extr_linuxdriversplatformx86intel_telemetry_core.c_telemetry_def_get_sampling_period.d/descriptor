@@ -1,0 +1,1 @@
+function telemetry_def_get_sampling_period int | pss_min_period int * | pss_max_period int * | ioss_min_period int * | ioss_max_period int *

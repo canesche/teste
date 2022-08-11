@@ -1,0 +1,2 @@
+struct omapfb_caps | dummy int 
+function omap_lcdc_get_caps void | plane int | caps struct omapfb_caps *

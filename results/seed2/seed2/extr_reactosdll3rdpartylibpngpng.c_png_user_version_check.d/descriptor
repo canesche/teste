@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int 
+function png_user_version_check int | png_ptr struct TYPE_3__ * | user_png_ver long *

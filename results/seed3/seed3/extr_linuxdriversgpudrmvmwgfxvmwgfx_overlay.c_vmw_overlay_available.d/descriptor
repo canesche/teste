@@ -1,0 +1,3 @@
+struct TYPE_2__ | capabilities int 
+struct vmw_private | fifo struct TYPE_2__ | overlay_priv int * 
+function vmw_overlay_available int | dev_priv const struct vmw_private *

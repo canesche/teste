@@ -1,0 +1,2 @@
+struct comedi_subdevice | runflags unsigned int 
+function __comedi_get_subdevice_runflags unsigned int | s struct comedi_subdevice *

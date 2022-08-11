@@ -1,0 +1,3 @@
+struct iwl_phy_db_entry | dummy int 
+struct iwl_phy_db | n_group_papd unsigned long | n_group_txp unsigned long | calib_ch_group_txp struct iwl_phy_db_entry * | calib_ch_group_papd struct iwl_phy_db_entry * | calib_nch struct iwl_phy_db_entry | cfg struct iwl_phy_db_entry 
+function iwl_phy_db_get_section struct iwl_phy_db_entry * | phy_db struct iwl_phy_db * | type enum iwl_phy_db_section_type | chg_id unsigned long

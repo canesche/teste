@@ -1,0 +1,2 @@
+struct echoaudio | dummy int 
+function px_num int | chip const struct echoaudio *

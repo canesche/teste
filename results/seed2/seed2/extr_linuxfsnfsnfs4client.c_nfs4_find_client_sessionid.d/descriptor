@@ -1,0 +1,5 @@
+struct sockaddr | dummy int 
+struct nfs_client | dummy int 
+struct nfs4_sessionid | dummy int 
+struct net | dummy int 
+function nfs4_find_client_sessionid struct nfs_client * | net struct net * | addr const struct sockaddr * | sid struct nfs4_sessionid * | minorversion int

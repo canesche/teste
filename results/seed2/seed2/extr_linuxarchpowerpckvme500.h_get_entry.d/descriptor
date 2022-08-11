@@ -1,0 +1,3 @@
+struct kvmppc_vcpu_e500 | gtlb_offset int * | gtlb_arch struct kvm_book3e_206_tlb_entry * 
+struct kvm_book3e_206_tlb_entry | dummy int 
+function get_entry struct kvm_book3e_206_tlb_entry * | vcpu_e500 struct kvmppc_vcpu_e500 * | tlbsel int | entry int

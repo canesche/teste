@@ -1,0 +1,3 @@
+struct TYPE_5__ | out_hdr struct TYPE_6__ * | out_pos long 
+struct TYPE_6__ | type int 
+function open_packet struct TYPE_6__ * | req struct TYPE_5__ * | type int

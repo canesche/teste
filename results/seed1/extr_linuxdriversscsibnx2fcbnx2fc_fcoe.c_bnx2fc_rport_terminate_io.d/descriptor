@@ -1,2 +1,0 @@
-struct fc_rport | dummy int 
-function bnx2fc_rport_terminate_io void | rport struct fc_rport *

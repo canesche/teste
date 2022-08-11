@@ -1,0 +1,5 @@
+struct soc_bytes_ext | max int 
+struct snd_kcontrol | private_value long 
+struct snd_ctl_elem_info | count int | type int 
+struct coeff_ram_ctl | bytes_ext struct soc_bytes_ext 
+function bytes_info_ext int | kcontrol struct snd_kcontrol * | ucontrol struct snd_ctl_elem_info *

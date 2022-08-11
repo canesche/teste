@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetethernetmellanoxmlx5coreen_fs.c_mlx5e_etype_to_ipv.d/extr_linuxdriversnetethernetmellanoxmlx5coreen_fs.c_mlx5e_etype_to_ipv_O0::mlx5e_etype_to_ipv(64)"
+  }
+]

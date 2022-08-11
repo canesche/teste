@@ -1,0 +1,5 @@
+struct device | dummy int 
+struct at24_data | client struct TYPE_4__ * 
+struct TYPE_4__ | client struct TYPE_3__ * 
+struct TYPE_3__ | dev struct device 
+function at24_base_client_dev struct device * | at24 struct at24_data *

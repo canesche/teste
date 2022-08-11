@@ -1,0 +1,2 @@
+struct tx_ring_info | prod int | cons int | pending long 
+function niu_tx_avail long | tp struct tx_ring_info *

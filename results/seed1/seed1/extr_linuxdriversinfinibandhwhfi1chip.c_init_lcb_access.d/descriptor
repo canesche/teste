@@ -1,0 +1,2 @@
+struct hfi1_devdata | lcb_access_count long 
+function init_lcb_access void | dd struct hfi1_devdata *

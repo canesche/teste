@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsounddriversmtpav.c_translate_hwport_to_subdevice.d/extr_linuxsounddriversmtpav.c_translate_hwport_to_subdevice_O0::translate_hwport_to_subdevice(64)"
+  }
+]

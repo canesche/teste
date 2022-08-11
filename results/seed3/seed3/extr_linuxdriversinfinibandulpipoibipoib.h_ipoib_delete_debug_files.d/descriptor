@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function ipoib_delete_debug_files void | dev struct net_device *

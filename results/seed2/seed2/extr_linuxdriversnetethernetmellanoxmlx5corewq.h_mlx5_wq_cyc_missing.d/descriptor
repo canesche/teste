@@ -1,0 +1,2 @@
+struct mlx5_wq_cyc | sz int | cur_sz int 
+function mlx5_wq_cyc_missing int | wq struct mlx5_wq_cyc *

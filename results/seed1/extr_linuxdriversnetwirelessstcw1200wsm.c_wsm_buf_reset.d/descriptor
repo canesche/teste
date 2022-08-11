@@ -1,2 +1,0 @@
-struct wsm_buf | begin int * | data int * 
-function wsm_buf_reset void | buf struct wsm_buf *

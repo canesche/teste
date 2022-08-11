@@ -1,3 +1,0 @@
-struct ixgbevf_rx_buffer | pagecnt_bias int | page_offset int | dma int | page int 
-struct ixgbevf_ring | next_to_alloc unsigned long | count unsigned long | rx_buffer_info struct ixgbevf_rx_buffer * 
-function ixgbevf_reuse_rx_page void | rx_ring struct ixgbevf_ring * | old_buff struct ixgbevf_rx_buffer *

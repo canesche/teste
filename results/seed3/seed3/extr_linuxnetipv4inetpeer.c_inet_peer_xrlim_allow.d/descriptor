@@ -1,0 +1,2 @@
+struct inet_peer | rate_tokens unsigned long | rate_last unsigned long 
+function inet_peer_xrlim_allow int | peer struct inet_peer * | timeout int

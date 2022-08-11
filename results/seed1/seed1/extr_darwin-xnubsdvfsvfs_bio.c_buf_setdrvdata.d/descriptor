@@ -1,0 +1,2 @@
+struct TYPE_3__ | b_drvdata void * 
+function buf_setdrvdata void | bp struct TYPE_3__ * | drvdata void *

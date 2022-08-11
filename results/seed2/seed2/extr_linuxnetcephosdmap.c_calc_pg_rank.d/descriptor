@@ -1,0 +1,2 @@
+struct ceph_osds | size int | osds int * 
+function calc_pg_rank int | osd int | acting const struct ceph_osds *

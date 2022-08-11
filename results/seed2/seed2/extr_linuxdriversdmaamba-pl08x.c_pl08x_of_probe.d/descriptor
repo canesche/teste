@@ -1,0 +1,4 @@
+struct pl08x_driver_data | dummy int 
+struct device_node | dummy int 
+struct amba_device | dummy int 
+function pl08x_of_probe int | adev struct amba_device * | pl08x struct pl08x_driver_data * | np struct device_node *

@@ -1,0 +1,3 @@
+struct mlxsw_sp_acl_tcam_ops | entry_priv_size unsigned long 
+struct mlxsw_sp | acl_tcam_ops struct mlxsw_sp_acl_tcam_ops * 
+function mlxsw_sp_acl_tcam_entry_priv_size unsigned long | mlxsw_sp struct mlxsw_sp *

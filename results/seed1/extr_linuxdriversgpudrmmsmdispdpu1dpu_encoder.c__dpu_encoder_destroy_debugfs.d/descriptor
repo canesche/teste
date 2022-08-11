@@ -1,2 +1,0 @@
-struct drm_encoder | dummy int 
-function _dpu_encoder_destroy_debugfs void | drm_enc struct drm_encoder *

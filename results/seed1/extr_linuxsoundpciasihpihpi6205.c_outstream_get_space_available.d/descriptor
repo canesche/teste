@@ -1,2 +1,0 @@
-struct hpi_hostbuffer_status | dsp_index long | host_index long | size_in_bytes long 
-function outstream_get_space_available long | status struct hpi_hostbuffer_status *

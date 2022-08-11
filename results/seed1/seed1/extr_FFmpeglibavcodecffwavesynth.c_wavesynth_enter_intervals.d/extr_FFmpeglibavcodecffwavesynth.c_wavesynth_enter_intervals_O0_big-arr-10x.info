@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_FFmpeglibavcodecffwavesynth.c_wavesynth_enter_intervals.d/extr_FFmpeglibavcodecffwavesynth.c_wavesynth_enter_intervals_O0::wavesynth_enter_intervals(64)"
+  }
+]

@@ -1,2 +1,0 @@
-struct comedi_subdevice | subdev_flags int 
-function comedi_bytes_per_sample unsigned int | s struct comedi_subdevice *

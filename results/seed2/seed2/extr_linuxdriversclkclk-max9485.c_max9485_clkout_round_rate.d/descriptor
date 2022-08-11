@@ -1,0 +1,3 @@
+struct max9485_rate | out unsigned long 
+struct clk_hw | dummy int 
+function max9485_clkout_round_rate long | hw struct clk_hw * | rate unsigned long | parent_rate unsigned long *

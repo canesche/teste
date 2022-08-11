@@ -1,0 +1,3 @@
+struct mgsl_struct | tx_buffer_count unsigned int | tx_holding_count long | put_tx_holding_index long | get_tx_holding_index long | tx_dma_buffers_used long | start_tx_dma_buffer long | current_tx_buffer long | tx_buffer_list struct TYPE_2__ * 
+struct TYPE_2__ | count int 
+function mgsl_reset_tx_dma_buffers void | info struct mgsl_struct *

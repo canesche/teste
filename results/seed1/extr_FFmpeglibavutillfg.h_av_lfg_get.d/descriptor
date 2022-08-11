@@ -1,2 +1,0 @@
-struct TYPE_3__ | state unsigned int * | index int 
-function av_lfg_get unsigned int | c struct TYPE_3__ *

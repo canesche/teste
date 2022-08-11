@@ -1,2 +1,0 @@
-struct ffmpeg_output | total_bytes int 
-function ffmpeg_output_total_bytes int | data void *

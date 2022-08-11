@@ -1,2 +1,0 @@
-struct TYPE_3__ | IDR int 
-function get_gpio_input int | GPIO struct TYPE_3__ * | pin int

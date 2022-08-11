@@ -1,0 +1,2 @@
+struct page | dummy int 
+function hwpoison_filter int | p struct page *

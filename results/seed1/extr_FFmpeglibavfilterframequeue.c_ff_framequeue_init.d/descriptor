@@ -1,2 +1,0 @@
-struct TYPE_3__ | allocated int | first_bucket int | queue int * 
-function ff_framequeue_init void | fq struct TYPE_3__ * | fqg int *

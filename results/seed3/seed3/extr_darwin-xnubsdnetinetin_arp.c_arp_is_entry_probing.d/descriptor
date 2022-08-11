@@ -1,0 +1,4 @@
+struct llinfo_arp | la_llreach struct TYPE_4__ * 
+struct TYPE_5__ | rt_llinfo struct llinfo_arp * 
+struct TYPE_4__ | lr_probes long 
+function arp_is_entry_probing int | p_route struct TYPE_5__ *

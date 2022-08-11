@@ -1,0 +1,2 @@
+struct file | dummy int 
+function viacam_s_std int | filp struct file * | priv void * | std int

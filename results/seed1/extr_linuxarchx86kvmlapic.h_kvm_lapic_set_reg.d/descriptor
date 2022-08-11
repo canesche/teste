@@ -1,2 +1,0 @@
-struct kvm_lapic | regs long 
-function kvm_lapic_set_reg void | apic struct kvm_lapic * | reg_off int | val int

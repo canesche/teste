@@ -1,0 +1,2 @@
+struct sway_container | parent struct sway_container * 
+function container_has_ancestor int | descendant struct sway_container * | ancestor struct sway_container *

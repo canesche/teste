@@ -1,3 +1,0 @@
-struct TYPE_4__ | TexCoord void ** 
-struct TYPE_5__ | Current struct TYPE_4__ 
-function gl_TexCoord2f void | ctx struct TYPE_5__ * | s void * | t void *

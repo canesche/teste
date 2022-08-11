@@ -1,3 +1,0 @@
-struct sk_buff | dummy int 
-struct ftmac100_txdes | txdes3 unsigned int 
-function ftmac100_txdes_set_skb void | txdes struct ftmac100_txdes * | skb struct sk_buff *

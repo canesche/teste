@@ -1,2 +1,0 @@
-struct request | dummy int 
-function raise_blk_irq int | cpu int | rq struct request *

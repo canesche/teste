@@ -1,2 +1,0 @@
-struct gendisk | first_minor int 
-function mmc_get_devidx int | disk struct gendisk *

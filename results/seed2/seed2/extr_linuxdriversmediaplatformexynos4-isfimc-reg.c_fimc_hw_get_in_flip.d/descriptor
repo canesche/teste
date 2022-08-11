@@ -1,0 +1,2 @@
+struct fimc_ctx | rotation int | vflip long | hflip long 
+function fimc_hw_get_in_flip int | ctx struct fimc_ctx *

@@ -1,0 +1,1 @@
+function mean_cpu void | x float * | batch int | filters int | spatial int | mean float *

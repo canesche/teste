@@ -1,0 +1,5 @@
+struct TYPE_3__ | ht_supported int 
+struct ieee80211_sta_vht_cap | cap int 
+struct TYPE_4__ | bandwidth int | ht_cap struct TYPE_3__ | vht_cap struct ieee80211_sta_vht_cap 
+struct sta_info | sta struct TYPE_4__ 
+function ieee80211_sta_rx_bw_to_chan_width enum nl80211_chan_width | sta struct sta_info *

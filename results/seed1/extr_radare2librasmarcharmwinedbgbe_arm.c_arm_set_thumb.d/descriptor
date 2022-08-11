@@ -1,2 +1,0 @@
-struct winedbg_arm_insn | thumb int 
-function arm_set_thumb void | arminsn struct winedbg_arm_insn * | thumb int

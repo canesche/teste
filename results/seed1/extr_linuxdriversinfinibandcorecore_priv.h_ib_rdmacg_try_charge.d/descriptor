@@ -1,3 +1,0 @@
-struct ib_rdmacg_object | dummy int 
-struct ib_device | dummy int 
-function ib_rdmacg_try_charge int | cg_obj struct ib_rdmacg_object * | device struct ib_device * | resource_index enum rdmacg_resource_type

@@ -1,0 +1,2 @@
+struct auto_out_pin | seq long 
+function compare_seq int | ap const void * | bp const void *

@@ -1,0 +1,2 @@
+struct mv_cesa_engine | int_mask int 
+function mv_cesa_get_int_mask int | engine struct mv_cesa_engine *

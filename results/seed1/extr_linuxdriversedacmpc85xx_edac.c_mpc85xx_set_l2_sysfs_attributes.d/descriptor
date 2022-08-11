@@ -1,2 +1,0 @@
-struct edac_device_ctl_info | sysfs_attributes int 
-function mpc85xx_set_l2_sysfs_attributes void | edac_dev struct edac_device_ctl_info *

@@ -1,0 +1,6 @@
+struct wined3d_state | shader struct wined3d_shader ** 
+struct TYPE_4__ | element_count int 
+struct TYPE_5__ | so_desc struct TYPE_4__ 
+struct TYPE_6__ | gs struct TYPE_5__ 
+struct wined3d_shader | u struct TYPE_6__ 
+function use_transform_feedback int | state const struct wined3d_state *

@@ -1,0 +1,3 @@
+struct bucket | dummy int 
+struct bpf_htab | n_buckets int | buckets struct bucket * 
+function __select_bucket struct bucket * | htab struct bpf_htab * | hash int

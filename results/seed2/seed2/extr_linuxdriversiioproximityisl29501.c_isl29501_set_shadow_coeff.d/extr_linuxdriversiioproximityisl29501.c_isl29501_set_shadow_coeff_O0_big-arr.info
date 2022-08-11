@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversiioproximityisl29501.c_isl29501_set_shadow_coeff.d/extr_linuxdriversiioproximityisl29501.c_isl29501_set_shadow_coeff_O0::isl29501_set_shadow_coeff(74)"
+  }
+]

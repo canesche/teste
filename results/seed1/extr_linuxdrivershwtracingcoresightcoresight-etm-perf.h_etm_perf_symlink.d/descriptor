@@ -1,2 +1,0 @@
-struct coresight_device | dummy int 
-function etm_perf_symlink int | csdev struct coresight_device * | link int

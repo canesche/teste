@@ -1,0 +1,3 @@
+struct iio_dev | num_channels int | channels const struct iio_chan_spec * 
+struct iio_chan_spec | scan_index int 
+function iio_find_channel_from_si const struct iio_chan_spec * | indio_dev struct iio_dev * | si int

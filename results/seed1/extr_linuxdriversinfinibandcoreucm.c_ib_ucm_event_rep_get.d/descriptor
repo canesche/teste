@@ -1,3 +1,0 @@
-struct ib_ucm_rep_event_resp | srq int | rnr_retry_count int | flow_control int | failover_accepted int | target_ack_delay int | initiator_depth int | responder_resources int | starting_psn int | remote_qpn int | remote_qkey int | remote_ca_guid int 
-struct ib_cm_rep_event_param | srq int | rnr_retry_count int | flow_control int | failover_accepted int | target_ack_delay int | initiator_depth int | responder_resources int | starting_psn int | remote_qpn int | remote_qkey int | remote_ca_guid int 
-function ib_ucm_event_rep_get void | urep struct ib_ucm_rep_event_resp * | krep const struct ib_cm_rep_event_param *

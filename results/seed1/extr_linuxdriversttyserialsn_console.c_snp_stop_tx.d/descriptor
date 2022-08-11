@@ -1,2 +1,0 @@
-struct uart_port | dummy int 
-function snp_stop_tx void | port struct uart_port *

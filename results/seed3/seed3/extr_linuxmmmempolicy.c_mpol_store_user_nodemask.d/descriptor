@@ -1,0 +1,2 @@
+struct mempolicy | flags int 
+function mpol_store_user_nodemask int | pol const struct mempolicy *

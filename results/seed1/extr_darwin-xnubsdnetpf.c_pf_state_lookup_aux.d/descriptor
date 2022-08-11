@@ -1,5 +1,0 @@
-struct pfi_kif | dummy int 
-struct TYPE_4__ | ptr struct TYPE_3__ * 
-struct pf_state | timeout long | rt_kif struct pfi_kif * | rule struct TYPE_4__ 
-struct TYPE_3__ | rt long | direction int 
-function pf_state_lookup_aux const int * | state struct pf_state ** | kif struct pfi_kif * | direction int | action int *

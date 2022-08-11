@@ -1,0 +1,2 @@
+struct TYPE_4__ | pid long | tid long 
+function ptid_equal int | ptid1 struct TYPE_4__ | ptid2 struct TYPE_4__

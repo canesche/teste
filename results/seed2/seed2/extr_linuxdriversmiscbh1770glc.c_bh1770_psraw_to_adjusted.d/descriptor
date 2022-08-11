@@ -1,0 +1,2 @@
+struct bh1770_chip | prox_const long | prox_coef int 
+function bh1770_psraw_to_adjusted long | chip struct bh1770_chip * | psraw long

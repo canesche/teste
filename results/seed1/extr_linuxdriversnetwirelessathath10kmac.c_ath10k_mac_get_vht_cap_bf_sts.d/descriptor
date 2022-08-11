@@ -1,2 +1,0 @@
-struct ath10k | vht_cap_info int 
-function ath10k_mac_get_vht_cap_bf_sts int | ar struct ath10k *

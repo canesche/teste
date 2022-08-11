@@ -1,0 +1,2 @@
+struct TYPE_3__ | status_info int * 
+function TS_RESP_get_status_info int * | a struct TYPE_3__ *

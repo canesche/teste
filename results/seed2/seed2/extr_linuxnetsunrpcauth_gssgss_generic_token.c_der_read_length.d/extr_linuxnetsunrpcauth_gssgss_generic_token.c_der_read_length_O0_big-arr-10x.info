@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxnetsunrpcauth_gssgss_generic_token.c_der_read_length.d/extr_linuxnetsunrpcauth_gssgss_generic_token.c_der_read_length_O0::der_read_length(62)"
+  }
+]

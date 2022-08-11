@@ -1,0 +1,4 @@
+struct hda_fixup | dummy int 
+struct hda_codec | depop_delay long | spec struct alc_spec * 
+struct alc_spec | no_depop_delay int 
+function alc_fixup_no_depop_delay void | codec struct hda_codec * | fix const struct hda_fixup * | action int

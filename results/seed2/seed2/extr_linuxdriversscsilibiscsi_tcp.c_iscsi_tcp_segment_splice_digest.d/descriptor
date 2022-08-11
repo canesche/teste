@@ -1,0 +1,2 @@
+struct iscsi_segment | hash int * | sg int * | copied long | size void * | total_size int | digest_len void * | data void * 
+function iscsi_tcp_segment_splice_digest void | segment struct iscsi_segment * | digest void *

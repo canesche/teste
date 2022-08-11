@@ -1,0 +1,2 @@
+struct dw_i2s_dev | dummy int 
+function dw_pcm_pop_rx void | dev struct dw_i2s_dev *

@@ -1,2 +1,0 @@
-struct gcov_info | next int 
-function gcov_info_unlink void | prev struct gcov_info * | info struct gcov_info *

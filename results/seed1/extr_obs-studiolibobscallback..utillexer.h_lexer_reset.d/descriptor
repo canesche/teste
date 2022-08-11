@@ -1,2 +1,0 @@
-struct lexer | text int | offset int 
-function lexer_reset void | lex struct lexer *

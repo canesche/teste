@@ -1,0 +1,1 @@
+function pthread_rwlockattr_destroy int | a int *

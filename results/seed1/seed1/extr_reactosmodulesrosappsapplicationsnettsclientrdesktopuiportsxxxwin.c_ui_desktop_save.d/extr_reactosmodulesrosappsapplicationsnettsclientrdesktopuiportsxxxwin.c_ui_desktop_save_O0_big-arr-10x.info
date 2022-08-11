@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactosmodulesrosappsapplicationsnettsclientrdesktopuiportsxxxwin.c_ui_desktop_save.d/extr_reactosmodulesrosappsapplicationsnettsclientrdesktopuiportsxxxwin.c_ui_desktop_save_O0::ui_desktop_save(61)"
+  }
+]

@@ -1,0 +1,3 @@
+struct sockaddr | dummy int 
+struct net | dummy int 
+function rpc_pton6 unsigned long | net struct net * | buf const char * | buflen const unsigned long | sap struct sockaddr * | salen const unsigned long

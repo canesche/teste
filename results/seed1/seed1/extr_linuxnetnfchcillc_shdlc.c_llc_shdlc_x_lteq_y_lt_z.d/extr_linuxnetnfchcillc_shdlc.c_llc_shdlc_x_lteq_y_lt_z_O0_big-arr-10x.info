@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxnetnfchcillc_shdlc.c_llc_shdlc_x_lteq_y_lt_z.d/extr_linuxnetnfchcillc_shdlc.c_llc_shdlc_x_lteq_y_lt_z_O0::llc_shdlc_x_lteq_y_lt_z(60)"
+  }
+]

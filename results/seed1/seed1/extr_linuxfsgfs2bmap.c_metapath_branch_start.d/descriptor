@@ -1,0 +1,2 @@
+struct metapath | mp_list long * 
+function metapath_branch_start unsigned int | mp const struct metapath *

@@ -1,0 +1,2 @@
+struct skge_hw | dummy int 
+function is_genesis int | hw const struct skge_hw *

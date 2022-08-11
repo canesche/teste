@@ -1,0 +1,204 @@
+// ========================================================================= //
+
+// includes
+#include "stdio.h"
+#include "stdlib.h"
+#include "time.h"
+#include "string.h"
+#include "limits.h"
+#include "float.h"
+
+
+
+#define JOTAI_NUM_RANDS_ 25
+
+const unsigned rand_primes[JOTAI_NUM_RANDS_] = {179, 103, 479, 647, 229, 37, 271, 557, 263, 607, 18743, 50359, 21929, 48757, 98179, 12907, 52937, 64579, 49957, 52567, 507163, 149939, 412157, 680861, 757751};
+
+int next_i() {
+  int counter = 0;
+  return rand_primes[(++counter)%JOTAI_NUM_RANDS_];
+}
+
+float next_f() {
+  int counter = 0;
+  return rand_primes[(++counter)%JOTAI_NUM_RANDS_] / 757751.0F;
+} 
+
+
+// Usage menu
+void usage() {
+    printf("%s", "Usage:\n\
+    prog [ARGS]\n\
+\nARGS:\n\
+       0            int-bounds\n\
+       1            big-arr\n\
+       2            big-arr-10x\n\
+\n\
+");
+
+}
+
+
+// ------------------------------------------------------------------------- //
+
+#define NULL ((void*)0)
+typedef unsigned long size_t;  // Customize by platform.
+typedef long intptr_t; typedef unsigned long uintptr_t;
+typedef long scalar_t__;  // Either arithmetic or pointer type.
+/* By default, we understand bool (as a convenience). */
+typedef int bool;
+#define false 0
+#define true 1
+
+/* Forward declarations */
+typedef  struct TYPE_8__   TYPE_4__ ;
+typedef  struct TYPE_7__   TYPE_3__ ;
+typedef  struct TYPE_6__   TYPE_2__ ;
+typedef  struct TYPE_5__   TYPE_1__ ;
+
+/* Type definitions */
+struct TYPE_7__ {int /*<<< orphan*/ * funcs; int /*<<< orphan*/  num_types; } ;
+struct TYPE_8__ {scalar_t__ num_crtc; int /*<<< orphan*/  num_hpd; } ;
+struct TYPE_6__ {scalar_t__ num_types; int /*<<< orphan*/ * funcs; } ;
+struct TYPE_5__ {scalar_t__ num_types; int /*<<< orphan*/ * funcs; } ;
+struct amdgpu_device {TYPE_3__ hpd_irq; TYPE_4__ mode_info; TYPE_2__ pageflip_irq; TYPE_1__ crtc_irq; } ;
+
+/* Variables and functions */
+ scalar_t__ AMDGPU_CRTC_IRQ_VLINE1 ; 
+ int /*<<< orphan*/  dce_v6_0_crtc_irq_funcs ; 
+ int /*<<< orphan*/  dce_v6_0_hpd_irq_funcs ; 
+ int /*<<< orphan*/  dce_v6_0_pageflip_irq_funcs ; 
+
+__attribute__((used)) static void dce_v6_0_set_irq_funcs(struct amdgpu_device *adev)
+{
+	if (adev->mode_info.num_crtc > 0)
+		adev->crtc_irq.num_types = AMDGPU_CRTC_IRQ_VLINE1 + adev->mode_info.num_crtc;
+	else
+		adev->crtc_irq.num_types = 0;
+	adev->crtc_irq.funcs = &dce_v6_0_crtc_irq_funcs;
+
+	adev->pageflip_irq.num_types = adev->mode_info.num_crtc;
+	adev->pageflip_irq.funcs = &dce_v6_0_pageflip_irq_funcs;
+
+	adev->hpd_irq.num_types = adev->mode_info.num_hpd;
+	adev->hpd_irq.funcs = &dce_v6_0_hpd_irq_funcs;
+}
+
+
+// ------------------------------------------------------------------------- //
+
+int main(int argc, char *argv[]) {
+
+    if (argc != 2) {
+        usage();
+        return 1;
+    }
+
+    int opt = atoi(argv[1]);
+    switch(opt) {
+
+    // int-bounds
+    case 0:
+    {
+          int _len_adev0 = 1;
+          struct amdgpu_device * adev = (struct amdgpu_device *) malloc(_len_adev0*sizeof(struct amdgpu_device));
+          for(int _i0 = 0; _i0 < _len_adev0; _i0++) {
+              int _len_adev__i0__hpd_irq_funcs0 = 1;
+          adev[_i0].hpd_irq.funcs = (int *) malloc(_len_adev__i0__hpd_irq_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__hpd_irq_funcs0; _j0++) {
+            adev[_i0].hpd_irq.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+        adev[_i0].hpd_irq.num_types = ((-2 * (next_i()%2)) + 1) * next_i();
+        adev[_i0].mode_info.num_crtc = ((-2 * (next_i()%2)) + 1) * next_i();
+        adev[_i0].mode_info.num_hpd = ((-2 * (next_i()%2)) + 1) * next_i();
+        adev[_i0].pageflip_irq.num_types = ((-2 * (next_i()%2)) + 1) * next_i();
+          int _len_adev__i0__pageflip_irq_funcs0 = 1;
+          adev[_i0].pageflip_irq.funcs = (int *) malloc(_len_adev__i0__pageflip_irq_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__pageflip_irq_funcs0; _j0++) {
+            adev[_i0].pageflip_irq.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+        adev[_i0].crtc_irq.num_types = ((-2 * (next_i()%2)) + 1) * next_i();
+          int _len_adev__i0__crtc_irq_funcs0 = 1;
+          adev[_i0].crtc_irq.funcs = (int *) malloc(_len_adev__i0__crtc_irq_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__crtc_irq_funcs0; _j0++) {
+            adev[_i0].crtc_irq.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          }
+          dce_v6_0_set_irq_funcs(adev);
+          free(adev);
+        
+        break;
+    }
+    // big-arr
+    case 1:
+    {
+          int _len_adev0 = 65025;
+          struct amdgpu_device * adev = (struct amdgpu_device *) malloc(_len_adev0*sizeof(struct amdgpu_device));
+          for(int _i0 = 0; _i0 < _len_adev0; _i0++) {
+              int _len_adev__i0__hpd_irq_funcs0 = 1;
+          adev[_i0].hpd_irq.funcs = (int *) malloc(_len_adev__i0__hpd_irq_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__hpd_irq_funcs0; _j0++) {
+            adev[_i0].hpd_irq.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+        adev[_i0].hpd_irq.num_types = ((-2 * (next_i()%2)) + 1) * next_i();
+        adev[_i0].mode_info.num_crtc = ((-2 * (next_i()%2)) + 1) * next_i();
+        adev[_i0].mode_info.num_hpd = ((-2 * (next_i()%2)) + 1) * next_i();
+        adev[_i0].pageflip_irq.num_types = ((-2 * (next_i()%2)) + 1) * next_i();
+          int _len_adev__i0__pageflip_irq_funcs0 = 1;
+          adev[_i0].pageflip_irq.funcs = (int *) malloc(_len_adev__i0__pageflip_irq_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__pageflip_irq_funcs0; _j0++) {
+            adev[_i0].pageflip_irq.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+        adev[_i0].crtc_irq.num_types = ((-2 * (next_i()%2)) + 1) * next_i();
+          int _len_adev__i0__crtc_irq_funcs0 = 1;
+          adev[_i0].crtc_irq.funcs = (int *) malloc(_len_adev__i0__crtc_irq_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__crtc_irq_funcs0; _j0++) {
+            adev[_i0].crtc_irq.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          }
+          dce_v6_0_set_irq_funcs(adev);
+          free(adev);
+        
+        break;
+    }
+    // big-arr-10x
+    case 2:
+    {
+          int _len_adev0 = 100;
+          struct amdgpu_device * adev = (struct amdgpu_device *) malloc(_len_adev0*sizeof(struct amdgpu_device));
+          for(int _i0 = 0; _i0 < _len_adev0; _i0++) {
+              int _len_adev__i0__hpd_irq_funcs0 = 1;
+          adev[_i0].hpd_irq.funcs = (int *) malloc(_len_adev__i0__hpd_irq_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__hpd_irq_funcs0; _j0++) {
+            adev[_i0].hpd_irq.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+        adev[_i0].hpd_irq.num_types = ((-2 * (next_i()%2)) + 1) * next_i();
+        adev[_i0].mode_info.num_crtc = ((-2 * (next_i()%2)) + 1) * next_i();
+        adev[_i0].mode_info.num_hpd = ((-2 * (next_i()%2)) + 1) * next_i();
+        adev[_i0].pageflip_irq.num_types = ((-2 * (next_i()%2)) + 1) * next_i();
+          int _len_adev__i0__pageflip_irq_funcs0 = 1;
+          adev[_i0].pageflip_irq.funcs = (int *) malloc(_len_adev__i0__pageflip_irq_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__pageflip_irq_funcs0; _j0++) {
+            adev[_i0].pageflip_irq.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+        adev[_i0].crtc_irq.num_types = ((-2 * (next_i()%2)) + 1) * next_i();
+          int _len_adev__i0__crtc_irq_funcs0 = 1;
+          adev[_i0].crtc_irq.funcs = (int *) malloc(_len_adev__i0__crtc_irq_funcs0*sizeof(int));
+          for(int _j0 = 0; _j0 < _len_adev__i0__crtc_irq_funcs0; _j0++) {
+            adev[_i0].crtc_irq.funcs[_j0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          }
+          dce_v6_0_set_irq_funcs(adev);
+          free(adev);
+        
+        break;
+    }
+
+    default:
+        usage();
+        break;
+
+    }
+
+    return 0;
+}

@@ -1,0 +1,2 @@
+struct mxcmci_host | do_dma int 
+function mxcmci_use_dma int | host struct mxcmci_host *

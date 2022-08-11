@@ -1,0 +1,2 @@
+struct pci_dev | class int | dma_mask long 
+function pcibios_fixup_final void | dev struct pci_dev *

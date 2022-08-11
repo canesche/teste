@@ -1,0 +1,3 @@
+struct pyrf_cpu_map | cpus struct TYPE_2__ * 
+struct TYPE_2__ | nr int 
+function pyrf_cpu_map__length int | obj int *

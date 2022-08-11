@@ -1,0 +1,3 @@
+struct TYPE_2__ | unknown int | sta_color_mismatch int | fail_hw_drop int | insuff_cf_poll int | fifo_flush int | tid_disable int | frag_drop int | sta_invalid int | bt_retry int | host_abort int | dest_ps int | life_expire int | rfkill_flush int | drain_flow int | fifo_underrun int | long_limit int | short_limit int | int_crossed_retry int | pp_calc_ttak int | pp_quiet_period int | pp_bt_prio int | pp_few_bytes int | pp_delay int 
+struct iwl_priv | reply_tx_stats struct TYPE_2__ 
+function iwlagn_count_tx_err_status void | priv struct iwl_priv * | status int

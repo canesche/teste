@@ -1,0 +1,2 @@
+struct b44 | dummy int 
+function b44_setup_wol_pci void | bp struct b44 *

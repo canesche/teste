@@ -1,0 +1,2 @@
+struct sci_sas_address | high long | low long 
+function sci_sas_address_compare int | address_one struct sci_sas_address | address_two struct sci_sas_address

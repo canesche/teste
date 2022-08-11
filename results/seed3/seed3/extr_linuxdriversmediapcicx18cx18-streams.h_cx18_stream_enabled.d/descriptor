@@ -1,0 +1,5 @@
+struct TYPE_4__ | v4l2_dev long 
+struct cx18_stream | type unsigned long | cx struct TYPE_6__ * | dvb struct TYPE_5__ * | video_dev struct TYPE_4__ 
+struct TYPE_6__ | stream_buffers long * 
+struct TYPE_5__ | enabled long 
+function cx18_stream_enabled int | s struct cx18_stream *

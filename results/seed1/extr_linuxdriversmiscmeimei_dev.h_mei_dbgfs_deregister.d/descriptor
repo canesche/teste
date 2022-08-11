@@ -1,2 +1,0 @@
-struct mei_device | dummy int 
-function mei_dbgfs_deregister void | dev struct mei_device *

@@ -1,2 +1,0 @@
-struct intel_dp | common_rates int * | num_common_rates int 
-function intel_dp_max_common_rate int | intel_dp struct intel_dp *

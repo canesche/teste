@@ -1,0 +1,3 @@
+struct iio_dev | dummy int 
+struct iio_chan_spec | dummy int 
+function stm32_dac_set_powerdown_mode int | indio_dev struct iio_dev * | chan const struct iio_chan_spec * | type unsigned int

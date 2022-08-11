@@ -1,0 +1,3 @@
+struct cgw_csum_crc8 | init_crc_val unsigned long | from_idx int | to_idx int | crctab unsigned long * | profile int | profile_data unsigned long * | result_idx unsigned long | final_xor_val unsigned long 
+struct can_frame | data unsigned long * | can_id int 
+function cgw_csum_crc8_neg void | cf struct can_frame * | crc8 struct cgw_csum_crc8 *

@@ -1,4 +1,0 @@
-struct setup_revision_opt | dummy int 
-struct TYPE_2__ | output_format long 
-struct rev_info | combine_merges int | dense_combined_merges int | diffopt struct TYPE_2__ | first_parent_only int | ignore_merges long 
-function show_setup_revisions_tweak void | rev struct rev_info * | opt struct setup_revision_opt *

@@ -1,0 +1,2 @@
+struct rtas_error_log | dummy int 
+function handle_rtas_event void | log const struct rtas_error_log *

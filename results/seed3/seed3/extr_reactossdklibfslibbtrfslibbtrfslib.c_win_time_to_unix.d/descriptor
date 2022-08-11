@@ -1,0 +1,3 @@
+struct TYPE_6__ | seconds int | nanoseconds int 
+struct TYPE_5__ | QuadPart int 
+function win_time_to_unix void | t struct TYPE_5__ | out struct TYPE_6__ *

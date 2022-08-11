@@ -1,0 +1,2 @@
+struct fbcon_ops | update_start int | cursor int | clear_margins int | putcs int | clear int | bmove int 
+function fbcon_rotate_ccw void | ops struct fbcon_ops *

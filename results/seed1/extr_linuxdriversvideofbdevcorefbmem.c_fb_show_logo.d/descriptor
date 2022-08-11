@@ -1,2 +1,0 @@
-struct fb_info | dummy int 
-function fb_show_logo int | info struct fb_info * | rotate int

@@ -1,0 +1,3 @@
+struct pcm_info | dummy int 
+struct i2sbus_dev | in struct pcm_info | out struct pcm_info 
+function get_pcm_info void | i2sdev struct i2sbus_dev * | in int | pi struct pcm_info ** | other struct pcm_info **

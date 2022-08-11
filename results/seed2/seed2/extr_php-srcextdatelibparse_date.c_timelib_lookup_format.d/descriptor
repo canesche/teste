@@ -1,0 +1,2 @@
+struct TYPE_3__ | specifier char | code int 
+function timelib_lookup_format int | input char | format_map const struct TYPE_3__ *

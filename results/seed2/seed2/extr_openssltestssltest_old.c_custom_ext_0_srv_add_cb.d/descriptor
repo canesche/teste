@@ -1,0 +1,1 @@
+function custom_ext_0_srv_add_cb int | s int * | ext_type unsigned int | out const unsigned char ** | outlen unsigned long * | al int * | arg void *

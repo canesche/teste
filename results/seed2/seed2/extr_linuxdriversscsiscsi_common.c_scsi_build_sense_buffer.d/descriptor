@@ -1,0 +1,1 @@
+function scsi_build_sense_buffer void | desc int | buf int * | key int | asc int | ascq int

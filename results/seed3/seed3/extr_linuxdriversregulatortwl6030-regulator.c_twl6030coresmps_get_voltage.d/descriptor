@@ -1,0 +1,2 @@
+struct regulator_dev | dummy int 
+function twl6030coresmps_get_voltage int | rdev struct regulator_dev *

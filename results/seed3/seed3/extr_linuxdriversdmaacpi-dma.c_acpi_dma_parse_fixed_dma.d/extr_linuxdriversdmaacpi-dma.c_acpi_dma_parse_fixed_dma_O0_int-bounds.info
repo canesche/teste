@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversdmaacpi-dma.c_acpi_dma_parse_fixed_dma.d/extr_linuxdriversdmaacpi-dma.c_acpi_dma_parse_fixed_dma_O0::acpi_dma_parse_fixed_dma(68)"
+  }
+]

@@ -1,0 +1,3 @@
+struct sbitmap | map_nr unsigned int | map struct TYPE_2__ * 
+struct TYPE_2__ | word long 
+function sbitmap_any_bit_set int | sb const struct sbitmap *

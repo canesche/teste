@@ -1,0 +1,2 @@
+struct net_bridge | group_fwd_mask unsigned long 
+function set_group_fwd_mask int | br struct net_bridge * | val unsigned long

@@ -1,0 +1,4 @@
+struct rs_layout | new_chunk_sectors int | new_layout int | new_level int 
+struct mddev | new_chunk_sectors int | new_layout int | new_level int 
+struct raid_set | md struct mddev 
+function rs_config_restore void | rs struct raid_set * | l struct rs_layout *

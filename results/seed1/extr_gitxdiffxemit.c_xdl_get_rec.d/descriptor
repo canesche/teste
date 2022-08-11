@@ -1,3 +1,0 @@
-struct TYPE_5__ | recs struct TYPE_4__ ** 
-struct TYPE_4__ | ptr char * | size long 
-function xdl_get_rec long | xdf struct TYPE_5__ * | ri long | rec const char **

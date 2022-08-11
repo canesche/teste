@@ -1,0 +1,5 @@
+struct nfs_open_context | dummy int 
+struct list_head | dummy int 
+struct inode | dummy int 
+struct address_space | dummy int 
+function nfs_readpages_from_fscache int | ctx struct nfs_open_context * | inode struct inode * | mapping struct address_space * | pages struct list_head * | nr_pages unsigned int *

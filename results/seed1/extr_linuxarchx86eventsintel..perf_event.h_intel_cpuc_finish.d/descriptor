@@ -1,2 +1,0 @@
-struct cpu_hw_events | dummy int 
-function intel_cpuc_finish void | cpuc struct cpu_hw_events *

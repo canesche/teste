@@ -1,0 +1,4 @@
+struct TYPE_3__ | total_period int | total_non_filtered_period int 
+struct hists | stats struct TYPE_3__ 
+struct TYPE_4__ | filter_relative long 
+function hists__total_period int | hists struct hists *

@@ -1,4 +1,0 @@
-struct nci_dev | hci_dev struct TYPE_3__ * 
-struct TYPE_4__ | host long | gate int 
-struct TYPE_3__ | pipes struct TYPE_4__ * 
-function nci_hci_reset_pipes_per_host void | ndev struct nci_dev * | host long

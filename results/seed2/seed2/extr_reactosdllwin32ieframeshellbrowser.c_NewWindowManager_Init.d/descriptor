@@ -1,0 +1,4 @@
+struct TYPE_5__ | lpVtbl int * 
+struct TYPE_6__ | doc_host struct TYPE_7__ * | INewWindowManager_iface struct TYPE_5__ 
+struct TYPE_7__ | nwm struct TYPE_6__ 
+function NewWindowManager_Init void | doc_host struct TYPE_7__ *

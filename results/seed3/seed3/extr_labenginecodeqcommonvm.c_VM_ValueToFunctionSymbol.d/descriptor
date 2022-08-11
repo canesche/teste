@@ -1,0 +1,3 @@
+struct TYPE_5__ | symbols struct TYPE_6__ * 
+struct TYPE_6__ | symValue int | next struct TYPE_6__ * 
+function VM_ValueToFunctionSymbol struct TYPE_6__ * | vm struct TYPE_5__ * | value int

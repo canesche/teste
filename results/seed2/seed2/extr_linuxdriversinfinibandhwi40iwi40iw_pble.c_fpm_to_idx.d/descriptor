@@ -1,0 +1,2 @@
+struct i40iw_hmc_pble_rsrc | fpm_base_addr int 
+function fpm_to_idx int | pble_rsrc struct i40iw_hmc_pble_rsrc * | addr int

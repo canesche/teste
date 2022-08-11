@@ -1,0 +1,3 @@
+struct _Locale_numeric | dummy int 
+struct _Locale_name_hint | dummy int 
+function _Locale_get_numeric_hint struct _Locale_name_hint * | numeric struct _Locale_numeric *

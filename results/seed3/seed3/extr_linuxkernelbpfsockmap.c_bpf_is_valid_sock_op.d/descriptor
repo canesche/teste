@@ -1,0 +1,2 @@
+struct bpf_sock_ops_kern | op long 
+function bpf_is_valid_sock_op int | ops struct bpf_sock_ops_kern *

@@ -1,3 +1,0 @@
-struct xt_sctp_info | flags int | invflags int | chunk_match_type int 
-struct xt_mtchk_param | matchinfo struct xt_sctp_info * 
-function sctp_mt_check int | par const struct xt_mtchk_param *

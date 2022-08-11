@@ -1,3 +1,0 @@
-struct vc_data | vc_num unsigned long | vc_uni_pagedir_loc struct uni_pagedir ** 
-struct uni_pagedir | inverse_trans_unicode int * | inverse_translations int ** 
-function inverse_translate int | conp struct vc_data * | glyph int | use_unicode int

@@ -1,2 +1,0 @@
-struct aac_dev | maximum_num_containers int 
-function is_safw_raid_volume int | aac struct aac_dev * | bus int | target int

@@ -1,2 +1,0 @@
-struct request_sock | dummy int 
-function chtls_rsk_destructor void | req struct request_sock *

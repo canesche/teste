@@ -1,0 +1,2 @@
+struct fsl_elbc_gpcm | dummy int 
+function setup_periph void | priv struct fsl_elbc_gpcm * | type const char *

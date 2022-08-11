@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function irq_move_pending int | data struct irq_data *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_SoftEtherVPNsrcMayaquaMemory.c_B64_CodeToChar.d/extr_SoftEtherVPNsrcMayaquaMemory.c_B64_CodeToChar_O0::B64_CodeToChar(61)"
+  }
+]

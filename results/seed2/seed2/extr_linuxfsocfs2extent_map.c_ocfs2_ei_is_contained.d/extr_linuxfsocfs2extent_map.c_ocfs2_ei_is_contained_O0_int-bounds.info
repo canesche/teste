@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxfsocfs2extent_map.c_ocfs2_ei_is_contained.d/extr_linuxfsocfs2extent_map.c_ocfs2_ei_is_contained_O0::ocfs2_ei_is_contained(62)"
+  }
+]

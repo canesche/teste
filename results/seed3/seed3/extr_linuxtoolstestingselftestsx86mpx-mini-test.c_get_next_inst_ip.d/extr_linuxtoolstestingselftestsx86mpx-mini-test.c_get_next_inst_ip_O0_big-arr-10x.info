@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxtoolstestingselftestsx86mpx-mini-test.c_get_next_inst_ip.d/extr_linuxtoolstestingselftestsx86mpx-mini-test.c_get_next_inst_ip_O0::get_next_inst_ip(61)"
+  }
+]

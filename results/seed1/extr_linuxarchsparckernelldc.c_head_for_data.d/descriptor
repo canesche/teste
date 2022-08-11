@@ -1,3 +1,0 @@
-struct TYPE_2__ | mode long 
-struct ldc_channel | tx_acked unsigned long | tx_head unsigned long | cfg struct TYPE_2__ 
-function head_for_data unsigned long | lp struct ldc_channel *

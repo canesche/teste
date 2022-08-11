@@ -1,0 +1,2 @@
+struct rtc_time | tm_year int | tm_mon int | tm_mday int 
+function ryxr_calc int | tm struct rtc_time *

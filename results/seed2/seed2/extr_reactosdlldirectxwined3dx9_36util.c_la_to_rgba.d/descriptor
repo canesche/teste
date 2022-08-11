@@ -1,0 +1,2 @@
+struct vec4 | w int | x int | z int | y int 
+function la_to_rgba void | la const struct vec4 * | rgba struct vec4 * | palette const int *

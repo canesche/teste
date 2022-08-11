@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessbroadcombrcm80211brcmsmacphyphy_cmn.c_wlc_phy_upd_rssi_offset.d/extr_linuxdriversnetwirelessbroadcombrcm80211brcmsmacphyphy_cmn.c_wlc_phy_upd_rssi_offset_O0::wlc_phy_upd_rssi_offset(63)"
+  }
+]

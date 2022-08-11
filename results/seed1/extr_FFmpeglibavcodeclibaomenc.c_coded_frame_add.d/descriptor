@@ -1,2 +1,0 @@
-struct FrameListData | next struct FrameListData * 
-function coded_frame_add void | list void * | cx_frame struct FrameListData *

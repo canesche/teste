@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversscsilpfclpfc_debugfs.c_lpfc_idiag_mbxacc_dump_issue_mbox.d/extr_linuxdriversscsilpfclpfc_debugfs.c_lpfc_idiag_mbxacc_dump_issue_mbox_O0::lpfc_idiag_mbxacc_dump_issue_mbox(63)"
+  }
+]

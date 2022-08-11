@@ -1,2 +1,0 @@
-struct dwc3 | dummy int 
-function dwc3_gadget_init int | dwc struct dwc3 *

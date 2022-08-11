@@ -1,0 +1,5 @@
+struct qed_hwfn | vf_iov_info struct TYPE_6__ * 
+struct TYPE_4__ | num_rxqs int 
+struct TYPE_5__ | resc struct TYPE_4__ 
+struct TYPE_6__ | acquire_resp struct TYPE_5__ 
+function qed_vf_get_num_rxqs void | p_hwfn struct qed_hwfn * | num_rxqs int *

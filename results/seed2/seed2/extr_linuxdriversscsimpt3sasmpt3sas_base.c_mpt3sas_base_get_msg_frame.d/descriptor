@@ -1,0 +1,2 @@
+struct MPT3SAS_ADAPTER | request_sz int | request long 
+function mpt3sas_base_get_msg_frame void * | ioc struct MPT3SAS_ADAPTER * | smid int

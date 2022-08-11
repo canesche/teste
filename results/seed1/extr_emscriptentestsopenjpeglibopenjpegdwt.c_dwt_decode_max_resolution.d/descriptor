@@ -1,2 +1,0 @@
-struct TYPE_3__ | x1 int | x0 int | y1 int | y0 int 
-function dwt_decode_max_resolution int | r struct TYPE_3__ *__restrict | i int

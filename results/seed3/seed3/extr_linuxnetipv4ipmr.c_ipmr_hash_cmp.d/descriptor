@@ -1,0 +1,4 @@
+struct rhashtable_compare_arg | key struct mfc_cache_cmp_arg * 
+struct mfc_cache_cmp_arg | mfc_mcastgrp long | mfc_origin long 
+struct mfc_cache | mfc_mcastgrp long | mfc_origin long 
+function ipmr_hash_cmp int | arg struct rhashtable_compare_arg * | ptr const void *

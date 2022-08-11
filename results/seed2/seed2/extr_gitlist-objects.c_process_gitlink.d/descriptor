@@ -1,0 +1,3 @@
+struct traversal_context | dummy int 
+struct strbuf | dummy int 
+function process_gitlink void | ctx struct traversal_context * | sha1 const unsigned char * | path struct strbuf * | name const char *

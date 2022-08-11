@@ -1,0 +1,3 @@
+struct omap_mbox | dummy int 
+struct mbox_chan | con_priv long 
+function mbox_chan_to_omap_mbox struct omap_mbox * | chan struct mbox_chan *

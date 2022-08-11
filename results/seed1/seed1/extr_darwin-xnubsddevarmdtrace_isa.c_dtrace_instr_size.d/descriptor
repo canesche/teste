@@ -1,0 +1,1 @@
+function dtrace_instr_size int | instr int | thumb_mode int

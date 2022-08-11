@@ -1,0 +1,2 @@
+struct dc_context | dummy int 
+function enable_display_pipe_clock_gating void | ctx struct dc_context * | clock_gating int

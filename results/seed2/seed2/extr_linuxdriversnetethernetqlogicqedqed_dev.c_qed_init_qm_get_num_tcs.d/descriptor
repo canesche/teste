@@ -1,0 +1,3 @@
+struct TYPE_2__ | num_hw_tc int 
+struct qed_hwfn | hw_info struct TYPE_2__ 
+function qed_init_qm_get_num_tcs int | p_hwfn struct qed_hwfn *

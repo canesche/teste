@@ -1,0 +1,2 @@
+struct wined3d_buffer | modified_areas int 
+function buffer_is_dirty int | buffer const struct wined3d_buffer *

@@ -1,0 +1,3 @@
+struct page | dummy int 
+struct ftmac100_rxdes | rxdes3 long 
+function ftmac100_rxdes_get_page struct page * | rxdes struct ftmac100_rxdes *

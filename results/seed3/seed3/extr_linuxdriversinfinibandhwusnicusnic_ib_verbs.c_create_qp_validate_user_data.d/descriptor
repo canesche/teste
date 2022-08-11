@@ -1,0 +1,3 @@
+struct TYPE_2__ | trans_type long 
+struct usnic_ib_create_qp_cmd | spec struct TYPE_2__ 
+function create_qp_validate_user_data int | cmd struct usnic_ib_create_qp_cmd

@@ -1,4 +1,0 @@
-struct sk_buff | len int | data int * 
-struct TYPE_5__ | fax struct TYPE_4__ * 
-struct TYPE_4__ | bor int 
-function isdn_tty_fax_bitorder void | info struct TYPE_5__ * | skb struct sk_buff *

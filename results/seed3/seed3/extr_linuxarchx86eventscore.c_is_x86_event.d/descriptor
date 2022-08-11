@@ -1,0 +1,2 @@
+struct perf_event | pmu int * 
+function is_x86_event int | event struct perf_event *

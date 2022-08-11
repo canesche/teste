@@ -1,0 +1,2 @@
+struct super_block | s_blocksize_bits int 
+function ocfs2_blocks_per_xattr_bucket int | sb struct super_block *

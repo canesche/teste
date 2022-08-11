@@ -1,0 +1,4 @@
+struct intel_encoder | dummy int 
+struct intel_crtc_state | dummy int 
+struct drm_connector_state | dummy int 
+function pch_disable_sdvo void | encoder struct intel_encoder * | old_crtc_state const struct intel_crtc_state * | old_conn_state const struct drm_connector_state *

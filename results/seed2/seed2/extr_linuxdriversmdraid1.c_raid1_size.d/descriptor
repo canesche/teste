@@ -1,0 +1,2 @@
+struct mddev | dev_sectors long 
+function raid1_size long | mddev struct mddev * | sectors long | raid_disks int

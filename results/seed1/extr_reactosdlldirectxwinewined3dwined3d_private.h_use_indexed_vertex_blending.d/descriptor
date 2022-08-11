@@ -1,3 +1,0 @@
-struct wined3d_stream_info | use_map int 
-struct wined3d_state | render_states long * 
-function use_indexed_vertex_blending int | state const struct wined3d_state * | si const struct wined3d_stream_info *

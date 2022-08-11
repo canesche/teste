@@ -1,0 +1,4 @@
+struct tps6586x_platform_data | dummy int 
+struct platform_device | dummy int 
+struct of_regulator_match | dummy int 
+function tps6586x_parse_regulator_dt struct tps6586x_platform_data * | pdev struct platform_device * | tps6586x_reg_matches struct of_regulator_match **

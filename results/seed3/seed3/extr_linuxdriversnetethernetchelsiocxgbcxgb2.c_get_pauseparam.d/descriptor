@@ -1,0 +1,6 @@
+struct TYPE_2__ | requested_fc int | fc int 
+struct port_info | link_config struct TYPE_2__ 
+struct net_device | if_port unsigned long | ml_priv struct adapter * 
+struct ethtool_pauseparam | autoneg int | rx_pause int | tx_pause int 
+struct adapter | port struct port_info * 
+function get_pauseparam void | dev struct net_device * | epause struct ethtool_pauseparam *

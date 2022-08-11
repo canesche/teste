@@ -1,0 +1,7 @@
+struct v4l2_cropcap | type long | pixelaspect int 
+struct file | dummy int 
+struct bttv_fh | btv struct bttv * 
+struct bttv | tvnorm unsigned long 
+struct TYPE_3__ | pixelaspect int 
+struct TYPE_4__ | cropcap struct TYPE_3__ 
+function bttv_cropcap int | file struct file * | priv void * | cap struct v4l2_cropcap *

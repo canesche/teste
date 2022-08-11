@@ -1,0 +1,2 @@
+struct cf_token | type long 
+function next_token int | p_cur_token struct cf_token ** | preprocessor int

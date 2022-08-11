@@ -1,2 +1,0 @@
-struct gpio_chip | dummy int 
-function h1940_gpiolib_latch_get int | chip struct gpio_chip * | offset unsigned int

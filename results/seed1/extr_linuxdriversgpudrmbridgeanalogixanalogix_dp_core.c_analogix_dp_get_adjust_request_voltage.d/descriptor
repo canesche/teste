@@ -1,1 +1,0 @@
-function analogix_dp_get_adjust_request_voltage unsigned char | adjust_request int [2] | lane int

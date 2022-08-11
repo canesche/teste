@@ -1,4 +1,0 @@
-struct input_dev | absinfo struct input_absinfo * 
-struct input_absinfo | maximum int | minimum int 
-struct hid_usage | code unsigned long 
-function wacom_offset_rotation int | input struct input_dev * | usage struct hid_usage * | value int | num int | denom int

@@ -1,0 +1,4 @@
+struct TYPE_3__ | fm_band int 
+struct TYPE_4__ | region struct TYPE_3__ 
+struct fmdev | rx struct TYPE_4__ 
+function fm_rx_get_region void | fmdev struct fmdev * | region int *

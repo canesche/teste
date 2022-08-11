@@ -1,0 +1,4 @@
+struct mlxsw_sp_span_entry | id int | ref_count long 
+struct TYPE_2__ | entries_count int | entries struct mlxsw_sp_span_entry * 
+struct mlxsw_sp | span struct TYPE_2__ 
+function mlxsw_sp_span_entry_find_by_id struct mlxsw_sp_span_entry * | mlxsw_sp struct mlxsw_sp * | span_id int

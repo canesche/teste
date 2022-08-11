@@ -1,0 +1,2 @@
+struct dentry | dummy int 
+function vfs_dentry_acceptable int | context void * | dentry struct dentry *

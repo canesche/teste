@@ -1,2 +1,0 @@
-struct acpi_device | dummy int 
-function dock_notify int | adev struct acpi_device * | event int

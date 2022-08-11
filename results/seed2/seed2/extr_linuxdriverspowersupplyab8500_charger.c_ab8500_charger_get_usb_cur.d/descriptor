@@ -1,0 +1,4 @@
+struct TYPE_4__ | usb_type_max int | set_max int 
+struct TYPE_3__ | usb_current int 
+struct ab8500_charger | max_usb_in_curr struct TYPE_4__ | usb_state struct TYPE_3__ 
+function ab8500_charger_get_usb_cur int | di struct ab8500_charger *

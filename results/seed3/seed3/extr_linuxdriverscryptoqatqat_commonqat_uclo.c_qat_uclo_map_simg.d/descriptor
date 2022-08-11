@@ -1,0 +1,7 @@
+struct icp_qat_suof_objhdr | img_length int 
+struct icp_qat_suof_img_hdr | simg_name unsigned long | appmeta_data unsigned long | fw_type int | ae_mask int | css_simg long | css_signature long | css_key long | css_header long | simg_buf long | simg_len int 
+struct icp_qat_suof_handle | suof_buf long 
+struct icp_qat_suof_chunk_hdr | offset long 
+struct icp_qat_simg_ae_mode | fw_type int | appmeta_data int | simg_name int | ae_mask int 
+struct icp_qat_css_hdr | dummy int 
+function qat_uclo_map_simg void | suof_handle struct icp_qat_suof_handle * | suof_img_hdr struct icp_qat_suof_img_hdr * | suof_chunk_hdr struct icp_qat_suof_chunk_hdr *

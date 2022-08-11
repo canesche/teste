@@ -1,0 +1,2 @@
+struct ccid | ccid_priv long 
+function ccid_priv void * | ccid const struct ccid *

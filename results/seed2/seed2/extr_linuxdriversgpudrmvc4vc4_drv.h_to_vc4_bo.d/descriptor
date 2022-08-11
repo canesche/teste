@@ -1,0 +1,3 @@
+struct vc4_bo | dummy int 
+struct drm_gem_object | dummy int 
+function to_vc4_bo struct vc4_bo * | bo struct drm_gem_object *

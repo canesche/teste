@@ -1,0 +1,2 @@
+struct rbnode | parent struct rbnode * | right struct rbnode * | left struct rbnode * 
+function rbtree_right_rotate void | root struct rbnode ** | sentinel struct rbnode * | node struct rbnode *

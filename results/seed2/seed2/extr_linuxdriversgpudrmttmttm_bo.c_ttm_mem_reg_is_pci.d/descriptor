@@ -1,0 +1,4 @@
+struct ttm_mem_type_manager | flags int 
+struct ttm_mem_reg | mem_type unsigned long | placement int 
+struct ttm_bo_device | man struct ttm_mem_type_manager * 
+function ttm_mem_reg_is_pci int | bdev struct ttm_bo_device * | mem struct ttm_mem_reg *

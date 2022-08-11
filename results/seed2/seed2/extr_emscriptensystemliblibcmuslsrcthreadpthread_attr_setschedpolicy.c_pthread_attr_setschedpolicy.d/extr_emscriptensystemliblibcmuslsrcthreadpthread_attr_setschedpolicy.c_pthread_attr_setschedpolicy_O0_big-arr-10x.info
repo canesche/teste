@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4006b0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_emscriptensystemliblibcmuslsrcthreadpthread_attr_setschedpolicy.c_pthread_attr_setschedpolicy.d/extr_emscriptensystemliblibcmuslsrcthreadpthread_attr_setschedpolicy.c_pthread_attr_setschedpolicy_O0::pthread_attr_setschedpolicy(63)"
+  }
+]

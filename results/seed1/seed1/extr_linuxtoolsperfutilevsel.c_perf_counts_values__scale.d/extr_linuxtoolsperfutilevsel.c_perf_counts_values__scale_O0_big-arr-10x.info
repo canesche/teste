@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxtoolsperfutilevsel.c_perf_counts_values__scale.d/extr_linuxtoolsperfutilevsel.c_perf_counts_values__scale_O0::perf_counts_values__scale(64)"
+  }
+]

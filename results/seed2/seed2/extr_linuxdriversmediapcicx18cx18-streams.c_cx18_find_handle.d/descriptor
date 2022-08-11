@@ -1,0 +1,4 @@
+struct TYPE_2__ | v4l2_dev long 
+struct cx18_stream | handle long | video_dev struct TYPE_2__ 
+struct cx18 | streams struct cx18_stream * 
+function cx18_find_handle long | cx struct cx18 *

@@ -1,2 +1,0 @@
-struct vdoa_ctx | dummy int 
-function vdoa_context_configure int | ctx struct vdoa_ctx * | width unsigned int | height unsigned int | pixelformat int

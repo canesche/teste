@@ -1,0 +1,2 @@
+struct TYPE_4__ | sign_id int 
+function sig_cmp int | a const struct TYPE_4__ * | b const struct TYPE_4__ *

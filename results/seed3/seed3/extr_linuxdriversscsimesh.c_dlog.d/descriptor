@@ -1,0 +1,2 @@
+struct mesh_state | dummy int 
+function dlog void | ms struct mesh_state * | fmt char * | a int

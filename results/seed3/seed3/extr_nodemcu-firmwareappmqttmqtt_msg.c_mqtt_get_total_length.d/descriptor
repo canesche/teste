@@ -1,0 +1,1 @@
+function mqtt_get_total_length int | buffer int * | buffer_length int

@@ -1,0 +1,1 @@
+function GuiFillArea int | Left int | Top int | Right int | Bottom int | FillChar int | Attr int

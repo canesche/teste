@@ -1,0 +1,2 @@
+struct _Locale_ctype | dummy int 
+function _Locale_ctype_name const char * | lctype const struct _Locale_ctype * | buf char *

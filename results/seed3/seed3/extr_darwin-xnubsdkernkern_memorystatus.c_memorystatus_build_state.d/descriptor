@@ -1,0 +1,2 @@
+struct TYPE_3__ | p_memstat_state int | p_memstat_dirty int 
+function memorystatus_build_state int | p struct TYPE_3__ *

@@ -1,4 +1,0 @@
-struct kvm_userspace_memory_region | dummy int 
-struct kvm_memory_slot | dummy int 
-struct kvm | dummy int 
-function kvmppc_core_commit_memory_region_pr void | kvm struct kvm * | mem const struct kvm_userspace_memory_region * | old const struct kvm_memory_slot * | new const struct kvm_memory_slot *

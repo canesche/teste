@@ -1,3 +1,0 @@
-struct xt_mtchk_param | matchinfo struct ebt_802_3_info * 
-struct ebt_802_3_info | bitmask int | invflags int 
-function ebt_802_3_mt_check int | par const struct xt_mtchk_param *

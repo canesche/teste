@@ -1,0 +1,2 @@
+struct TYPE_4__ | t long | next struct TYPE_4__ * 
+function coap_insert_node int | queue struct TYPE_4__ ** | node struct TYPE_4__ *

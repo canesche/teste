@@ -1,2 +1,0 @@
-struct TYPE_3__ | a int | b int | c int | d int | bytes long 
-function ngx_md5_init void | ctx struct TYPE_3__ *

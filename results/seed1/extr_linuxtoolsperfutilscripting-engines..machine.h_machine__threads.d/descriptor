@@ -1,3 +1,0 @@
-struct threads | dummy int 
-struct machine | threads struct threads * 
-function machine__threads struct threads * | machine struct machine * | tid long

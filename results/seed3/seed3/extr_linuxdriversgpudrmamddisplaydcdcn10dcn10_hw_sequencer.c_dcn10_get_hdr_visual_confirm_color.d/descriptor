@@ -1,0 +1,7 @@
+struct tg_color | color_r_cr int | color_b_cb int | color_g_y int 
+struct TYPE_5__ | format int 
+struct TYPE_6__ | scl_data struct TYPE_5__ 
+struct pipe_ctx | stream struct TYPE_8__ * | plane_res struct TYPE_6__ | top_pipe struct pipe_ctx * 
+struct TYPE_8__ | out_transfer_func struct TYPE_7__ * 
+struct TYPE_7__ | tf int 
+function dcn10_get_hdr_visual_confirm_color void | pipe_ctx struct pipe_ctx * | color struct tg_color *

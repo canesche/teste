@@ -1,0 +1,3 @@
+struct ip_vs_stats_user | outbps void * | inbps void * | outpps void * | inpps void * | cps void * | outbytes int | inbytes int | outpkts void * | inpkts void * | conns void * 
+struct ip_vs_kstats | outbps long | inbps long | outpps long | inpps long | cps long | outbytes int | inbytes int | outpkts long | inpkts long | conns long 
+function ip_vs_export_stats_user void | dst struct ip_vs_stats_user * | src struct ip_vs_kstats *

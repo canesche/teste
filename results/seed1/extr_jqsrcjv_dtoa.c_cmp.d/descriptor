@@ -1,3 +1,0 @@
-struct dtoa_context | dummy int 
-struct TYPE_4__ | wds int | x long * 
-function cmp int | C struct dtoa_context * | a struct TYPE_4__ * | b struct TYPE_4__ *

@@ -1,0 +1,6 @@
+struct TYPE_11__ | value int 
+struct TYPE_10__ | override_charset int * 
+struct TYPE_12__ | headers_out struct TYPE_10__ | upstream struct TYPE_9__ * 
+struct TYPE_9__ | conf struct TYPE_8__ * 
+struct TYPE_8__ | ignore_headers int 
+function ngx_http_upstream_process_charset int | r struct TYPE_12__ * | h struct TYPE_11__ * | offset int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | store int * 
+function TS_VERIFY_CTX_set_store int * | ctx struct TYPE_3__ * | s int *

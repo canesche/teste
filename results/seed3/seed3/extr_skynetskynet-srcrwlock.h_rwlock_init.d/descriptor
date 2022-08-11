@@ -1,0 +1,2 @@
+struct rwlock | read long | write long 
+function rwlock_init void | lock struct rwlock *

@@ -1,0 +1,1 @@
+function _wakeupgen_get_irq_info int | irq int | bit_posn int * | reg_index int *

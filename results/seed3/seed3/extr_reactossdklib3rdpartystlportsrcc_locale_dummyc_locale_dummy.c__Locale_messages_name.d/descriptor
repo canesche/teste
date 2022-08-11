@@ -1,0 +1,2 @@
+struct _Locale_messages | dummy int 
+function _Locale_messages_name const char * | lmes const struct _Locale_messages * | buf char *

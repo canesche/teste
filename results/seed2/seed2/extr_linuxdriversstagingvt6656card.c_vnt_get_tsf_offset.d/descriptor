@@ -1,0 +1,1 @@
+function vnt_get_tsf_offset long | rx_rate unsigned long | tsf1 long | tsf2 long

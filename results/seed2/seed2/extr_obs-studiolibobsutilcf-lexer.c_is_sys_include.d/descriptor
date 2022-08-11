@@ -1,0 +1,2 @@
+struct strref | len int | array char * 
+function is_sys_include int | ref struct strref *

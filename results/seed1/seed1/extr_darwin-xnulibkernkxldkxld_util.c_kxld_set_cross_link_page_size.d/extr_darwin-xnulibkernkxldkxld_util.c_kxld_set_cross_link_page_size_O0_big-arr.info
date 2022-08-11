@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_darwin-xnulibkernkxldkxld_util.c_kxld_set_cross_link_page_size.d/extr_darwin-xnulibkernkxldkxld_util.c_kxld_set_cross_link_page_size_O0::kxld_set_cross_link_page_size(66)"
+  }
+]

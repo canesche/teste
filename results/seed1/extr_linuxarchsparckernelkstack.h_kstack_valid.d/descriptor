@@ -1,3 +1,0 @@
-struct thread_info | cpu unsigned long 
-struct sparc_stackf | dummy int 
-function kstack_valid int | tp struct thread_info * | sp unsigned long

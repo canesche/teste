@@ -1,0 +1,1 @@
+value(fw_vercnt) == 10, value(srv_vercnt) == 10, length(buf) == 100, length(fw_version) == 100, length(srv_version) == 100, length(nego_fw_version) == 100, length(nego_srv_version) == 100, length(icmsghdrp) == 100

@@ -1,0 +1,4 @@
+struct rmi_device_platform_data | dummy int 
+struct rmi_device | xport struct TYPE_2__ * 
+struct TYPE_2__ | pdata struct rmi_device_platform_data 
+function rmi_get_platform_data struct rmi_device_platform_data * | d struct rmi_device *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | ndigi int 
+function ax25_addr_size int | dp const struct TYPE_3__ *

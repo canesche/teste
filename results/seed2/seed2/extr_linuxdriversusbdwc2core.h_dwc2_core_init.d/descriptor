@@ -1,0 +1,2 @@
+struct dwc2_hsotg | dummy int 
+function dwc2_core_init int | hsotg struct dwc2_hsotg * | initial_setup int

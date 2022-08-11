@@ -1,0 +1,1 @@
+function _libkernel_memmove void * | dst0 void * | src0 const void * | length unsigned long

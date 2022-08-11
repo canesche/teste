@@ -1,2 +1,0 @@
-struct ath_softc | dummy int 
-function ath9k_dump_btcoex int | sc struct ath_softc * | buf int * | size int

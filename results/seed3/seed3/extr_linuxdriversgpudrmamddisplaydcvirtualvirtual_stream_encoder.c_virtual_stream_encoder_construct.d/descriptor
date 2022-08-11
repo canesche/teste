@@ -1,0 +1,4 @@
+struct stream_encoder | bp struct dc_bios * | id int | ctx struct dc_context * | funcs int * 
+struct dc_context | dummy int 
+struct dc_bios | dummy int 
+function virtual_stream_encoder_construct int | enc struct stream_encoder * | ctx struct dc_context * | bp struct dc_bios *

@@ -1,0 +1,5 @@
+struct byt_rt5651_acpi_resource_data | gpio_count int | gpio_int_idx int 
+struct TYPE_3__ | connection_type long 
+struct TYPE_4__ | gpio struct TYPE_3__ 
+struct acpi_resource | type long | data struct TYPE_4__ 
+function snd_byt_rt5651_acpi_resource int | ares struct acpi_resource * | arg void *

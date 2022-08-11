@@ -1,0 +1,2 @@
+struct tegra_i2c_dev | is_dvc long 
+function tegra_i2c_reg_addr unsigned long | i2c_dev struct tegra_i2c_dev * | reg unsigned long

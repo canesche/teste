@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_emscriptentestsnbody-javaorg_xmlvm_runtime_Condition.c___DELETE_org_xmlvm_runtime_Condition.d/extr_emscriptentestsnbody-javaorg_xmlvm_runtime_Condition.c___DELETE_org_xmlvm_runtime_Condition_O0::__DELETE_org_xmlvm_runtime_Condition(60)"
+  }
+]

@@ -1,0 +1,2 @@
+struct virtio_crypto | status int 
+function virtcrypto_dev_started int | vcrypto_dev struct virtio_crypto *

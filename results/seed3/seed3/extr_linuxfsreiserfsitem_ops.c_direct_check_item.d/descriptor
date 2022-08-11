@@ -1,0 +1,2 @@
+struct item_head | dummy int 
+function direct_check_item void | ih struct item_head * | item char *

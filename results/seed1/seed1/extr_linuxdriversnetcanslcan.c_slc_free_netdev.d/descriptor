@@ -1,0 +1,2 @@
+struct net_device | base_addr int 
+function slc_free_netdev void | dev struct net_device *

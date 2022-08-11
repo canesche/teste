@@ -1,0 +1,3 @@
+struct rsc_mgr | rscs long 
+struct daio_usage | data int 
+function daio_mgr_get_rsc int | mgr struct rsc_mgr * | type enum DAIOTYP

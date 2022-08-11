@@ -1,0 +1,2 @@
+struct timespec | tv_sec long | tv_nsec long 
+function ts_leq int | a const struct timespec * | b const struct timespec *

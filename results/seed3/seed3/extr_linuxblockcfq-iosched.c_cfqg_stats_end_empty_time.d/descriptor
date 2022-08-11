@@ -1,0 +1,2 @@
+struct cfqg_stats | dummy int 
+function cfqg_stats_end_empty_time void | stats struct cfqg_stats *

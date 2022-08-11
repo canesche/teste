@@ -1,0 +1,6 @@
+struct TYPE_11__ | asfid2avid int * | streams struct TYPE_10__ * 
+struct TYPE_10__ | skip_to_key int 
+struct TYPE_9__ | streams struct TYPE_8__ ** | priv_data struct TYPE_11__ * 
+struct TYPE_8__ | codecpar struct TYPE_7__ * 
+struct TYPE_7__ | codec_type long 
+function skip_to_key void | s struct TYPE_9__ *

@@ -1,0 +1,2 @@
+struct opa_port_states | portphysstate_portstate int 
+function port_states_to_phys_state int | ps struct opa_port_states *

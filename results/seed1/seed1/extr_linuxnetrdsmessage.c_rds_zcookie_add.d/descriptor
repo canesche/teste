@@ -1,0 +1,3 @@
+struct rds_zcopy_cookies | num int | cookies int * 
+struct rds_msg_zcopy_info | zcookies struct rds_zcopy_cookies 
+function rds_zcookie_add int | info struct rds_msg_zcopy_info * | cookie int

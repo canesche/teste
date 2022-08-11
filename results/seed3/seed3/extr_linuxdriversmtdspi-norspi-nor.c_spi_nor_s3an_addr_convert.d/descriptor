@@ -1,0 +1,2 @@
+struct spi_nor | page_size unsigned int 
+function spi_nor_s3an_addr_convert unsigned int | nor struct spi_nor * | addr unsigned int

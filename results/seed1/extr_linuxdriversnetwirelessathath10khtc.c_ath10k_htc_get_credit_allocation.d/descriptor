@@ -1,2 +1,0 @@
-struct ath10k_htc | total_transmit_credits int 
-function ath10k_htc_get_credit_allocation int | htc struct ath10k_htc * | service_id long

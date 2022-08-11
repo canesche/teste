@@ -1,2 +1,0 @@
-struct drm_device | dummy int 
-function tegra_drm_fb_init int | drm struct drm_device *

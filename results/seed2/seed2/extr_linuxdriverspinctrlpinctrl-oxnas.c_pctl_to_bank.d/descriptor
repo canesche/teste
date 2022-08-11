@@ -1,0 +1,3 @@
+struct oxnas_pinctrl | gpio_banks struct oxnas_gpio_bank * 
+struct oxnas_gpio_bank | dummy int 
+function pctl_to_bank struct oxnas_gpio_bank * | pctl struct oxnas_pinctrl * | pin unsigned int

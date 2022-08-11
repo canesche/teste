@@ -1,0 +1,2 @@
+struct policy_dbs_info | sample_delay_ns unsigned int 
+function gov_update_sample_delay void | policy_dbs struct policy_dbs_info * | delay_us unsigned int

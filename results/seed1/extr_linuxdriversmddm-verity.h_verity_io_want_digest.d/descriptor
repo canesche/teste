@@ -1,3 +1,0 @@
-struct dm_verity_io | dummy int 
-struct dm_verity | ahash_reqsize int | digest_size int 
-function verity_io_want_digest int * | v struct dm_verity * | io struct dm_verity_io *

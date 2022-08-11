@@ -1,0 +1,2 @@
+struct ice_hw | num_tx_sched_layers long | sw_entry_point_layer long 
+function ice_sched_get_vsi_layer long | hw struct ice_hw *

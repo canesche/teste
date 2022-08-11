@@ -1,0 +1,2 @@
+struct txdb | wptr int | rptr int | size int 
+function bdx_tx_db_size int | db struct txdb *

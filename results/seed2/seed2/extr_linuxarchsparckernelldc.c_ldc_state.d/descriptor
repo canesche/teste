@@ -1,0 +1,2 @@
+struct ldc_channel | state int 
+function ldc_state int | lp struct ldc_channel *

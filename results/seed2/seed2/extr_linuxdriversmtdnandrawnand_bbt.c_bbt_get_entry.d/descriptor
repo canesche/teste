@@ -1,0 +1,2 @@
+struct nand_chip | bbt int * 
+function bbt_get_entry int | chip struct nand_chip * | block int

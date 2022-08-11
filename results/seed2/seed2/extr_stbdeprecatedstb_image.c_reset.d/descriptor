@@ -1,0 +1,3 @@
+struct TYPE_5__ | todo int | restart_interval int | marker int | img_comp struct TYPE_4__ * | nomore long | code_buffer long | code_bits long 
+struct TYPE_4__ | dc_pred long 
+function reset void | j struct TYPE_5__ *

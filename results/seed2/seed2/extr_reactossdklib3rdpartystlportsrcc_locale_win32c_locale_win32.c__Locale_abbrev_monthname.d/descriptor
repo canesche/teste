@@ -1,0 +1,2 @@
+struct TYPE_3__ | abbrev_month long 
+function _Locale_abbrev_monthname const char * | ltime struct TYPE_3__ * | month int

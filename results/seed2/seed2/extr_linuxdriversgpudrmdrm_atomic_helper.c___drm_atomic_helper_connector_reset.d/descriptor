@@ -1,0 +1,3 @@
+struct drm_connector_state | connector struct drm_connector * 
+struct drm_connector | state struct drm_connector_state * 
+function __drm_atomic_helper_connector_reset void | connector struct drm_connector * | conn_state struct drm_connector_state *

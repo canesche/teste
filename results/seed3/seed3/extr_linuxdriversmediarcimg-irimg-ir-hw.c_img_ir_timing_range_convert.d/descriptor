@@ -1,0 +1,2 @@
+struct img_ir_timing_range | min unsigned int | max unsigned int 
+function img_ir_timing_range_convert void | out struct img_ir_timing_range * | in const struct img_ir_timing_range * | tolerance unsigned int | clock_hz unsigned long | shift unsigned int

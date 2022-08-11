@@ -1,3 +1,0 @@
-struct perf_event | pmu_private struct intel_uncore_box * 
-struct intel_uncore_box | dummy int 
-function uncore_event_to_box struct intel_uncore_box * | event struct perf_event *

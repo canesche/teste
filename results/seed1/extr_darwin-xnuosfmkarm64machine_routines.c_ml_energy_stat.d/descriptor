@@ -1,3 +1,0 @@
-struct TYPE_4__ | energy_estimate_nj int 
-struct TYPE_5__ | machine struct TYPE_4__ 
-function ml_energy_stat int | t struct TYPE_5__ *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | x int | y int 
+struct TYPE_5__ | mir struct TYPE_4__ 
+function _glfwPlatformGetMonitorPos void | monitor struct TYPE_5__ * | xpos int * | ypos int *

@@ -1,2 +1,0 @@
-struct fm10k_mbx_info | mbmem_len int 
-function fm10k_mbx_index_len int | mbx struct fm10k_mbx_info * | head int | tail int

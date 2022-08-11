@@ -1,0 +1,2 @@
+struct optioninfo | dummy int 
+function of_config void | oi const struct optioninfo * | arg const char * | arg2 const char *

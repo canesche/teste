@@ -1,0 +1,3 @@
+struct clone_root | root struct TYPE_2__ * 
+struct TYPE_2__ | objectid long 
+function __clone_root_cmp_bsearch int | key const void * | elt const void *

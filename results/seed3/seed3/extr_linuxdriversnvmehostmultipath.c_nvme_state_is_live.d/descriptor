@@ -1,0 +1,1 @@
+function nvme_state_is_live int | state enum nvme_ana_state

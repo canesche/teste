@@ -1,0 +1,1 @@
+function ngx_http_lua_ffi_sha1_bin int | src const int * | len unsigned long | dst int *

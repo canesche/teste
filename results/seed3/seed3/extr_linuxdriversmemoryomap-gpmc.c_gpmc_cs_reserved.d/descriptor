@@ -1,0 +1,2 @@
+struct gpmc_cs_data | flags int 
+function gpmc_cs_reserved int | cs int

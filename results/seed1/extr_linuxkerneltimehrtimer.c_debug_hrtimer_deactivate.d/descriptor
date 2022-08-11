@@ -1,2 +1,0 @@
-struct hrtimer | dummy int 
-function debug_hrtimer_deactivate void | timer struct hrtimer *

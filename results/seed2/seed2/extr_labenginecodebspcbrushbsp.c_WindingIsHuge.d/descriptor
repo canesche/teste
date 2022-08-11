@@ -1,0 +1,2 @@
+struct TYPE_3__ | numpoints int | p int ** 
+function WindingIsHuge int | w struct TYPE_3__ *

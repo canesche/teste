@@ -1,0 +1,2 @@
+struct TYPE_3__ | w1 double | b1 double | w2 double | b2 double | a0 double | a1 double | a2 double 
+function biquad double | bq struct TYPE_3__ * | in double

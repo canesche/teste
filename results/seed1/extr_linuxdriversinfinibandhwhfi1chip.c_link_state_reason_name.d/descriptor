@@ -1,2 +1,0 @@
-struct hfi1_pportdata | linkinit_reason int 
-function link_state_reason_name const char * | ppd struct hfi1_pportdata * | state long

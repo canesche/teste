@@ -1,0 +1,6 @@
+struct bnxt_msix_entry | ring_idx int | db_offset int | vector int 
+struct bnxt_en_dev | ulp_tbl struct TYPE_3__ * 
+struct bnxt | irq_tbl struct TYPE_4__ * | edev struct bnxt_en_dev * 
+struct TYPE_4__ | vector int 
+struct TYPE_3__ | msix_requested int | msix_base int 
+function bnxt_fill_msix_vecs void | bp struct bnxt * | ent struct bnxt_msix_entry *

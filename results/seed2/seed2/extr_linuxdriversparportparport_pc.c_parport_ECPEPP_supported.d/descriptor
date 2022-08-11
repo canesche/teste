@@ -1,0 +1,2 @@
+struct parport | dummy int 
+function parport_ECPEPP_supported int | pb struct parport *

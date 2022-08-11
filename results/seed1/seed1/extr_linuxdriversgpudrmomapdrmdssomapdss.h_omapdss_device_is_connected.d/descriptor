@@ -1,0 +1,2 @@
+struct omap_dss_device | src int 
+function omapdss_device_is_connected int | dssdev struct omap_dss_device *

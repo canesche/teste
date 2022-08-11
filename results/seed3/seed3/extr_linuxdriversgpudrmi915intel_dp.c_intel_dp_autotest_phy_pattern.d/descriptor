@@ -1,0 +1,2 @@
+struct intel_dp | dummy int 
+function intel_dp_autotest_phy_pattern int | intel_dp struct intel_dp *

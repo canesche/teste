@@ -1,0 +1,2 @@
+struct pxa_udc | dummy int 
+function pxa_init_debugfs void | udc struct pxa_udc *

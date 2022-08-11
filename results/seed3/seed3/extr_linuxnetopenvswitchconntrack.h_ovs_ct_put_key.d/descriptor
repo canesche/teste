@@ -1,0 +1,3 @@
+struct sw_flow_key | dummy int 
+struct sk_buff | dummy int 
+function ovs_ct_put_key int | swkey const struct sw_flow_key * | output const struct sw_flow_key * | skb struct sk_buff *

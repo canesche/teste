@@ -1,0 +1,4 @@
+struct qed_ll2_cb_ops | dummy int 
+struct qed_dev | ll2 struct TYPE_2__ * 
+struct TYPE_2__ | cb_cookie void * | cbs const struct qed_ll2_cb_ops * 
+function qed_ll2_register_cb_ops void | cdev struct qed_dev * | ops const struct qed_ll2_cb_ops * | cookie void *

@@ -1,0 +1,4 @@
+struct TYPE_2__ | rx_length_errors int | rx_crc_errors int | rx_errors int 
+struct net_device | stats struct TYPE_2__ 
+struct ftgmac100 | netdev struct net_device * 
+function ftgmac100_rx_packet_error void | priv struct ftgmac100 * | status int

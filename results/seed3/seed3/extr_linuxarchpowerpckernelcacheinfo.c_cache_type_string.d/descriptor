@@ -1,0 +1,3 @@
+struct cache | type unsigned long 
+struct TYPE_2__ | name const char * 
+function cache_type_string const char * | cache const struct cache *

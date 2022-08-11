@@ -1,0 +1,4 @@
+struct TYPE_3__ | injected int 
+struct TYPE_4__ | interrupt struct TYPE_3__ 
+struct kvm_vcpu | arch struct TYPE_4__ 
+function kvm_clear_interrupt_queue void | vcpu struct kvm_vcpu *

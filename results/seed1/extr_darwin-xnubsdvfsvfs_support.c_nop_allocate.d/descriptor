@@ -1,2 +1,0 @@
-struct vnop_allocate_args | a_bytesallocated long * 
-function nop_allocate int | ap struct vnop_allocate_args *

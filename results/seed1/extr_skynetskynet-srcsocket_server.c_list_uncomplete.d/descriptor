@@ -1,3 +1,0 @@
-struct write_buffer | buffer void * | ptr long 
-struct wb_list | head struct write_buffer * 
-function list_uncomplete int | s struct wb_list *

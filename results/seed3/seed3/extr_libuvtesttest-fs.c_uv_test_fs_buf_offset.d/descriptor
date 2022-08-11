@@ -1,0 +1,2 @@
+struct TYPE_3__ | len unsigned long | base unsigned long 
+function uv_test_fs_buf_offset unsigned long | bufs struct TYPE_3__ * | size unsigned long

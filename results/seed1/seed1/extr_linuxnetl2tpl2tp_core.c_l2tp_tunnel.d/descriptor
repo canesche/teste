@@ -1,0 +1,3 @@
+struct sock | sk_user_data struct l2tp_tunnel * 
+struct l2tp_tunnel | dummy int 
+function l2tp_tunnel struct l2tp_tunnel * | sk struct sock *

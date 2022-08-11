@@ -1,0 +1,3 @@
+struct snd_soc_component | dummy int 
+struct snd_ac97 | dummy int 
+function snd_soc_ac97_init_gpio int | ac97 struct snd_ac97 * | component struct snd_soc_component *

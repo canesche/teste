@@ -1,0 +1,2 @@
+struct advert | ad_id int | hash_next struct advert * 
+function get_ad struct advert * | ad_id int

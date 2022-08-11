@@ -1,0 +1,4 @@
+struct TYPE_6__ | status int 
+struct TYPE_7__ | err_status int | http_version long | headers_out struct TYPE_6__ | connection struct TYPE_5__ * 
+struct TYPE_5__ | fd long 
+function ngx_http_lua_ffi_get_resp_status int | r struct TYPE_7__ *

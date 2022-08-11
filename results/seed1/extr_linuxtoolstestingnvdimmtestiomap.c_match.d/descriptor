@@ -1,3 +1,0 @@
-struct resource | start long 
-struct device | dummy int 
-function match int | dev struct device * | __res void * | match_data void *

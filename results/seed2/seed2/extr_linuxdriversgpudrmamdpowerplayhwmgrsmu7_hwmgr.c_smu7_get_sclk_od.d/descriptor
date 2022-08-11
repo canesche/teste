@@ -1,0 +1,7 @@
+struct smu7_single_dpm_table | count int | dpm_levels struct TYPE_5__ * 
+struct TYPE_4__ | sclk_table struct smu7_single_dpm_table 
+struct TYPE_6__ | sclk_table struct smu7_single_dpm_table 
+struct smu7_hwmgr | golden_dpm_table struct TYPE_4__ | dpm_table struct TYPE_6__ 
+struct pp_hwmgr | backend long 
+struct TYPE_5__ | value int 
+function smu7_get_sclk_od int | hwmgr struct pp_hwmgr *

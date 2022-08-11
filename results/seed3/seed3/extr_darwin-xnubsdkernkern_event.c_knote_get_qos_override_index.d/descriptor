@@ -1,0 +1,2 @@
+struct knote | kn_qos_override int 
+function knote_get_qos_override_index int | kn struct knote *

@@ -1,0 +1,5 @@
+struct TYPE_7__ | First long 
+struct TYPE_10__ | Entries struct TYPE_7__ 
+struct TYPE_8__ | Next long 
+struct TYPE_9__ | SubMenu struct TYPE_10__ * | Node struct TYPE_8__ 
+function fghRemoveMenuFromMenu void | from struct TYPE_10__ * | menu struct TYPE_10__ *

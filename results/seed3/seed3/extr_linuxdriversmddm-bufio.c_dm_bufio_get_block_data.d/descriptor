@@ -1,0 +1,2 @@
+struct dm_buffer | data void * 
+function dm_bufio_get_block_data void * | b struct dm_buffer *

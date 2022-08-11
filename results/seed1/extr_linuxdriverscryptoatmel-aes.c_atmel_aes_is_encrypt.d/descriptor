@@ -1,2 +1,0 @@
-struct atmel_aes_dev | flags int 
-function atmel_aes_is_encrypt int | dd const struct atmel_aes_dev *

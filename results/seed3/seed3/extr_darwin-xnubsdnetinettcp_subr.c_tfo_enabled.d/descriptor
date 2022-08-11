@@ -1,0 +1,2 @@
+struct tcpcb | t_flagsext int 
+function tfo_enabled int | tp const struct tcpcb *

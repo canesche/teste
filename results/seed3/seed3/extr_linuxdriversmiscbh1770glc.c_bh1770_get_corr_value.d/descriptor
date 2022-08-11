@@ -1,0 +1,2 @@
+struct bh1770_chip | lux_ga int | lux_cf int | lux_calib int 
+function bh1770_get_corr_value int | chip struct bh1770_chip *

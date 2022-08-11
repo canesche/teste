@@ -1,2 +1,0 @@
-struct nubus_dir | done long | base int | ptr int 
-function nubus_rewinddir int | dir struct nubus_dir *

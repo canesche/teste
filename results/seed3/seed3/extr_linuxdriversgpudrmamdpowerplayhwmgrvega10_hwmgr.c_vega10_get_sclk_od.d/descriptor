@@ -1,0 +1,7 @@
+struct vega10_single_dpm_table | count int | dpm_levels struct TYPE_5__ * 
+struct TYPE_4__ | gfx_table struct vega10_single_dpm_table 
+struct TYPE_6__ | gfx_table struct vega10_single_dpm_table 
+struct vega10_hwmgr | golden_dpm_table struct TYPE_4__ | dpm_table struct TYPE_6__ 
+struct pp_hwmgr | backend struct vega10_hwmgr * 
+struct TYPE_5__ | value int 
+function vega10_get_sclk_od int | hwmgr struct pp_hwmgr *

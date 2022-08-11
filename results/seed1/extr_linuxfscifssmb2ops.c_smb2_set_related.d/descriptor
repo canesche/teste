@@ -1,4 +1,0 @@
-struct smb_rqst | rq_iov struct TYPE_2__ * 
-struct smb2_sync_hdr | Flags int 
-struct TYPE_2__ | iov_base long 
-function smb2_set_related void | rqst struct smb_rqst *

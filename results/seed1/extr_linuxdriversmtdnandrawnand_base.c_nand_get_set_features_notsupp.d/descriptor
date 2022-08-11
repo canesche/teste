@@ -1,3 +1,0 @@
-struct nand_chip | dummy int 
-struct mtd_info | dummy int 
-function nand_get_set_features_notsupp int | mtd struct mtd_info * | chip struct nand_chip * | addr int | subfeature_param int *

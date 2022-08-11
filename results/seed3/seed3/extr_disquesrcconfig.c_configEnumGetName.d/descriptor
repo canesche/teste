@@ -1,0 +1,2 @@
+struct TYPE_3__ | name const char * | val int 
+function configEnumGetName const char * | ce struct TYPE_3__ * | val int

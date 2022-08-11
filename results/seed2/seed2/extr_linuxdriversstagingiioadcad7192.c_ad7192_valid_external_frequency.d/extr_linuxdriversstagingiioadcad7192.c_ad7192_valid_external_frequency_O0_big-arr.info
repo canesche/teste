@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversstagingiioadcad7192.c_ad7192_valid_external_frequency.d/extr_linuxdriversstagingiioadcad7192.c_ad7192_valid_external_frequency_O0::ad7192_valid_external_frequency(63)"
+  }
+]

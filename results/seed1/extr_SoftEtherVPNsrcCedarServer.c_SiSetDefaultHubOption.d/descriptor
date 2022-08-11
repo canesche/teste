@@ -1,2 +1,0 @@
-struct TYPE_3__ | NoIPv6DefaultRouterInRAWhenIPv6 int | ManageOnlyPrivateIP int | ManageOnlyLocalUnicastIPv6 int | NoMacAddressLog int | NoDhcpPacketLogOutsideHub int | RemoveDefGwOnDhcpForLocalhost int | FloodingSendQueueBufferQuota int | AccessListIncludeFileCacheLifetime int | VlanTypeId int | MaxSession long 
-function SiSetDefaultHubOption void | o struct TYPE_3__ *

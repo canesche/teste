@@ -1,0 +1,1 @@
+function hdmi_scan_mode_get_name const char * | scan_mode enum hdmi_scan_mode

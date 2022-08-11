@@ -1,0 +1,2 @@
+struct uart_amba_port | reg_offset unsigned int * 
+function pl011_reg_to_offset unsigned int | uap const struct uart_amba_port * | reg unsigned int

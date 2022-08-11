@@ -1,2 +1,0 @@
-struct TYPE_3__ | readahead int | sustain_reset unsigned int | count_sustain_expired int | rate unsigned int | _ana_snb long | max_gain long | gain_counts long * | count_transient_filter long | count_peak_extend long | code_counterC_unmatched long | code_counterC long | code_counterB_checkfails long | code_counterB long | code_counterA_almost long | code_counterA long | sustain long | running_gain long | control long | arg long | window long 
-function hdcd_reset void | state struct TYPE_3__ * | rate unsigned int | cdt_ms unsigned int

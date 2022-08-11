@@ -1,2 +1,0 @@
-struct hdac_bus | ppcap long 
-function skl_get_host_stream_type enum hdac_ext_stream_type | bus struct hdac_bus *

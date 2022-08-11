@@ -1,0 +1,3 @@
+struct pt_regs | dummy int 
+struct kprobe | dummy int 
+function setup_detour_execution int | p struct kprobe * | regs struct pt_regs * | reenter int

@@ -1,2 +1,0 @@
-struct Qdisc | dummy int 
-function dsmark_unbind_filter void | sch struct Qdisc * | cl unsigned long

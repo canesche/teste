@@ -1,2 +1,0 @@
-struct batadv_tp_vars | srtt int | rttvar int | rto int 
-function batadv_tp_update_rto void | tp_vars struct batadv_tp_vars * | new_rtt long

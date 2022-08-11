@@ -1,0 +1,3 @@
+struct TYPE_2__ | radio_text int * 
+struct bcm2048_device | rds_info struct TYPE_2__ 
+function bcm2048_rds_block_crc int | bdev struct bcm2048_device * | i int

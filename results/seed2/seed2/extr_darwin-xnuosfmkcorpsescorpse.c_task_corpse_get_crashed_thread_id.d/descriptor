@@ -1,0 +1,2 @@
+struct TYPE_3__ | crashed_thread_id int 
+function task_corpse_get_crashed_thread_id int | corpse_task struct TYPE_3__ *

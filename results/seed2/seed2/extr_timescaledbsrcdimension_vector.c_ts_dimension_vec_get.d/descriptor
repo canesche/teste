@@ -1,0 +1,2 @@
+struct TYPE_3__ | num_slices unsigned long | slices int ** 
+function ts_dimension_vec_get int * | vec struct TYPE_3__ * | index unsigned long

@@ -1,2 +1,0 @@
-struct comedi_lrange | dummy int 
-function ai_range_lkup const struct comedi_lrange * | type int | opt int

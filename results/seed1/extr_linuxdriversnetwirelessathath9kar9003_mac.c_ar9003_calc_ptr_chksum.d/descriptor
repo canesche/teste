@@ -1,2 +1,0 @@
-struct ar9003_txc | info int | link int | data0 int | ctl3 int | data1 int | ctl5 int | data2 int | ctl7 int | data3 int | ctl9 int 
-function ar9003_calc_ptr_chksum int | ads struct ar9003_txc *

@@ -1,0 +1,4 @@
+struct zone_entry | set_index long | unused_blk_cnt int | free_table long * 
+struct ms_info | segment struct zone_entry * 
+struct rtsx_chip | ms_card struct ms_info 
+function ms_set_unused_block void | chip struct rtsx_chip * | phy_blk long

@@ -1,0 +1,2 @@
+struct sock | sk_state int 
+function sk_in_state unsigned int | sk const struct sock * | states unsigned int

@@ -1,2 +1,0 @@
-struct spmi_pmic_arb | ppid_to_apid int * 
-function pmic_arb_ppid_to_apid_v5 int | pmic_arb struct spmi_pmic_arb * | ppid unsigned long

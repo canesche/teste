@@ -1,1 +1,0 @@
-function cpu_to_queue_index int | nr_queues unsigned int | cpu const int

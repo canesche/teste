@@ -1,0 +1,2 @@
+struct TYPE_2__ | op long | frequency long | word long 
+function cmp_query_node int | a const void * | b const void *

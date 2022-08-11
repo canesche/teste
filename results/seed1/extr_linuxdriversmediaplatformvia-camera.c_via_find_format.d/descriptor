@@ -1,2 +1,0 @@
-struct via_format | pixelformat long 
-function via_find_format struct via_format * | pixelformat long

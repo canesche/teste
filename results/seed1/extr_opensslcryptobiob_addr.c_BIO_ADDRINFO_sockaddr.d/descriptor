@@ -1,3 +1,0 @@
-struct sockaddr | dummy int 
-struct TYPE_3__ | bai_addr const struct sockaddr * 
-function BIO_ADDRINFO_sockaddr const struct sockaddr * | bai const struct TYPE_3__ *

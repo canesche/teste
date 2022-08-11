@@ -1,0 +1,2 @@
+struct TYPE_3__ | prev_bucket unsigned long | next_bucket unsigned long 
+function del_bucket void | v int

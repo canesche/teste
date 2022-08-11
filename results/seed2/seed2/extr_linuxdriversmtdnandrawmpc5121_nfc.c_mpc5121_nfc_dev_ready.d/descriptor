@@ -1,0 +1,2 @@
+struct mtd_info | dummy int 
+function mpc5121_nfc_dev_ready int | mtd struct mtd_info *

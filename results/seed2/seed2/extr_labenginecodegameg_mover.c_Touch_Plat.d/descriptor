@@ -1,0 +1,5 @@
+struct TYPE_9__ | moverState long | nextthink long | client struct TYPE_8__ * 
+struct TYPE_10__ | time long 
+struct TYPE_7__ | stats long * 
+struct TYPE_8__ | ps struct TYPE_7__ 
+function Touch_Plat void | ent struct TYPE_9__ * | other struct TYPE_9__ * | trace int *

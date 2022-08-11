@@ -1,0 +1,2 @@
+struct TYPE_3__ | ctx int * 
+function crypto_ex_data_get_openssl_ctx int * | ad const struct TYPE_3__ *

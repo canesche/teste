@@ -1,0 +1,2 @@
+struct pt_regs | ip unsigned long 
+function kgdb_arch_set_pc void | regs struct pt_regs * | ip unsigned long

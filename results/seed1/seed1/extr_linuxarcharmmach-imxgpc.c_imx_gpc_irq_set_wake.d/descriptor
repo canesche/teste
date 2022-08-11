@@ -1,0 +1,2 @@
+struct irq_data | hwirq int 
+function imx_gpc_irq_set_wake int | d struct irq_data * | on unsigned int

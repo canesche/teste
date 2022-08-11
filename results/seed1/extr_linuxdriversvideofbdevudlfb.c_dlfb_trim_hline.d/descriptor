@@ -1,1 +1,0 @@
-function dlfb_trim_hline int | bback const int * | bfront const int ** | width_bytes int *

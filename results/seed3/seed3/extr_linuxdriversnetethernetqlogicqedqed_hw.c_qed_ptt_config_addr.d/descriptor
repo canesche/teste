@@ -1,0 +1,3 @@
+struct qed_ptt | idx int 
+struct pxp_ptt_entry | dummy int 
+function qed_ptt_config_addr long | p_ptt struct qed_ptt *

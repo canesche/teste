@@ -1,0 +1,2 @@
+struct fsl_soc_die_attr | svr int | mask int 
+function fsl_soc_die_match const struct fsl_soc_die_attr * | svr int | matches const struct fsl_soc_die_attr *

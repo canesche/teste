@@ -1,0 +1,2 @@
+struct TYPE_3__ | Length int | Buffer int 
+function Ext2IsNameValid int | FileName struct TYPE_3__ *

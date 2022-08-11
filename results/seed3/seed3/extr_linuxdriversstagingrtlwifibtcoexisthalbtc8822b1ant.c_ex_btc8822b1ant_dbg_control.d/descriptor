@@ -1,0 +1,2 @@
+struct btc_coexist | dummy int 
+function ex_btc8822b1ant_dbg_control void | btcoexist struct btc_coexist * | op_code int | op_len int | pdata int *

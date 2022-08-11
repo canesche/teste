@@ -1,3 +1,0 @@
-struct p9_req_t | dummy int 
-struct p9_client | dummy int 
-function p9_virtio_cancel int | client struct p9_client * | req struct p9_req_t *

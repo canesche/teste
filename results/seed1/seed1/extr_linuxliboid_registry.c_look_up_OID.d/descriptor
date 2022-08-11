@@ -1,0 +1,2 @@
+struct TYPE_2__ | hash unsigned char | oid int 
+function look_up_OID enum OID | data const void * | datasize unsigned long

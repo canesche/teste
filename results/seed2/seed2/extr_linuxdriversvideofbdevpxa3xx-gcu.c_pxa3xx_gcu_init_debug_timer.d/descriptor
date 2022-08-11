@@ -1,0 +1,2 @@
+struct pxa3xx_gcu_priv | dummy int 
+function pxa3xx_gcu_init_debug_timer void | priv struct pxa3xx_gcu_priv *

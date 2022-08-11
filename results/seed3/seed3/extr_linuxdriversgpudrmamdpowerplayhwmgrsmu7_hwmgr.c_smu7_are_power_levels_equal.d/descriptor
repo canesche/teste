@@ -1,0 +1,2 @@
+struct smu7_performance_level | memory_clock long | engine_clock long | pcie_gen long | pcie_lane long 
+function smu7_are_power_levels_equal int | pl1 const struct smu7_performance_level * | pl2 const struct smu7_performance_level *

@@ -1,2 +1,0 @@
-struct hdmi_spec_per_pin | dummy int 
-function eld_proc_free void | per_pin struct hdmi_spec_per_pin *

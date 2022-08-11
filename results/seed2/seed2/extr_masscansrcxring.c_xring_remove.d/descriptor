@@ -1,0 +1,2 @@
+struct XRing | tail int | head int | ring long * 
+function xring_remove long | xring struct XRing *

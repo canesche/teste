@@ -1,0 +1,5 @@
+struct usb_serial | interface struct TYPE_3__ * 
+struct TYPE_4__ | bInterfaceNumber int 
+struct usb_host_interface | desc struct TYPE_4__ 
+struct TYPE_3__ | cur_altsetting struct usb_host_interface * 
+function cp210x_interface_num int | serial struct usb_serial *

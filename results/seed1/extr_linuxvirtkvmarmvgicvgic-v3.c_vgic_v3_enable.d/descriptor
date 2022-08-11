@@ -1,9 +1,0 @@
-struct vgic_v3_cpu_if | vgic_sre int | vgic_hcr int | vgic_vmcr long 
-struct TYPE_10__ | num_id_bits int | num_pri_bits int | pendbaser int | vgic_v3 struct vgic_v3_cpu_if 
-struct TYPE_11__ | vgic_cpu struct TYPE_10__ 
-struct kvm_vcpu | arch struct TYPE_11__ | kvm struct TYPE_9__ * 
-struct TYPE_12__ | ich_vtr_el2 int 
-struct TYPE_7__ | vgic_model long 
-struct TYPE_8__ | vgic struct TYPE_7__ 
-struct TYPE_9__ | arch struct TYPE_8__ 
-function vgic_v3_enable void | vcpu struct kvm_vcpu *

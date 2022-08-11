@@ -1,0 +1,2 @@
+struct TYPE_3__ | u16len unsigned long 
+function uiprivAttributedStringUTF16Len unsigned long | s const struct TYPE_3__ *

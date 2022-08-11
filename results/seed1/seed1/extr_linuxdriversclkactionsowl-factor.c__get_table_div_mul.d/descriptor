@@ -1,0 +1,2 @@
+struct clk_factor_table | div int | val unsigned int | mul unsigned int 
+function _get_table_div_mul int | table const struct clk_factor_table * | val unsigned int | mul unsigned int * | div unsigned int *

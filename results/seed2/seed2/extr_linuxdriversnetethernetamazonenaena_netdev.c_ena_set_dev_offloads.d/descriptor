@@ -1,0 +1,4 @@
+struct net_device | features int | hw_features int | vlan_features int 
+struct TYPE_2__ | tx int | rx_supported int 
+struct ena_com_dev_get_features_ctx | offload struct TYPE_2__ 
+function ena_set_dev_offloads void | feat struct ena_com_dev_get_features_ctx * | netdev struct net_device *

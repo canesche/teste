@@ -1,0 +1,3 @@
+struct vb2_queue | dummy int 
+struct device | dummy int 
+function sdr_cap_queue_setup int | vq struct vb2_queue * | nbuffers unsigned int * | nplanes unsigned int * | sizes unsigned int [] | alloc_devs struct device *[]

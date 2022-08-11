@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function set_multicast_list void | dev struct net_device *

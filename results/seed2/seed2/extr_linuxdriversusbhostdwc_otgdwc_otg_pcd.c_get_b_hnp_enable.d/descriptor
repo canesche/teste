@@ -1,0 +1,2 @@
+struct TYPE_3__ | b_hnp_enable int 
+function get_b_hnp_enable int | pcd struct TYPE_3__ *

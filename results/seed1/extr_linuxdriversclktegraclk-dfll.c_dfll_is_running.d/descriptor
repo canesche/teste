@@ -1,2 +1,0 @@
-struct tegra_dfll | mode long 
-function dfll_is_running int | td struct tegra_dfll *

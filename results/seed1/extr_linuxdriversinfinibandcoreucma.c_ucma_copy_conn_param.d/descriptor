@@ -1,7 +1,0 @@
-struct rdma_ucm_conn_param | qkey int | qp_num int | srq int | rnr_retry_count int | retry_count int | flow_control int | initiator_depth int | responder_resources int | private_data_len int | private_data int 
-struct rdma_conn_param | qkey int | qp_num int | srq int | rnr_retry_count int | retry_count int | flow_control int | initiator_depth int | responder_resources int | private_data_len int | private_data int 
-struct TYPE_4__ | ss_family long 
-struct TYPE_5__ | src_addr struct TYPE_4__ 
-struct TYPE_6__ | addr struct TYPE_5__ 
-struct rdma_cm_id | route struct TYPE_6__ 
-function ucma_copy_conn_param void | id struct rdma_cm_id * | dst struct rdma_conn_param * | src struct rdma_ucm_conn_param *

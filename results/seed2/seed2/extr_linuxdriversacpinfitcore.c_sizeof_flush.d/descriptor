@@ -1,0 +1,3 @@
+struct TYPE_2__ | length int 
+struct acpi_nfit_flush_address | hint_count int | header struct TYPE_2__ 
+function sizeof_flush unsigned long | flush struct acpi_nfit_flush_address *

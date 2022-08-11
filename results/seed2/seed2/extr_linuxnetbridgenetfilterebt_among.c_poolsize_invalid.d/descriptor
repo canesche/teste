@@ -1,0 +1,3 @@
+struct ebt_mac_wormhash_tuple | dummy int 
+struct ebt_mac_wormhash | poolsize int 
+function poolsize_invalid int | w const struct ebt_mac_wormhash *

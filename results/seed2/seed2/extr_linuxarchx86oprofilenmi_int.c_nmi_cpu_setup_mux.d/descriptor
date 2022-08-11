@@ -1,0 +1,2 @@
+struct op_msrs | dummy int 
+function nmi_cpu_setup_mux void | cpu int | msrs const struct op_msrs *const

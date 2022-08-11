@@ -1,2 +1,0 @@
-struct alx_tx_queue | write_idx long | read_idx long | count int 
-function alx_tpd_avail int | txq struct alx_tx_queue *

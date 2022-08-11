@@ -1,3 +1,0 @@
-struct nphy_txgains | dummy int 
-struct b43_wldev | dummy int 
-function b43_nphy_rev3_cal_rx_iq int | dev struct b43_wldev * | target struct nphy_txgains | type int | debug int

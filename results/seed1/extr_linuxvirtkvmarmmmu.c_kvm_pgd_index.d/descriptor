@@ -1,1 +1,0 @@
-function kvm_pgd_index unsigned int | addr unsigned long | ptrs_per_pgd unsigned int

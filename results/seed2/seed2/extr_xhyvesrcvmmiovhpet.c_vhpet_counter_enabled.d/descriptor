@@ -1,0 +1,2 @@
+struct vhpet | config int 
+function vhpet_counter_enabled int | vhpet struct vhpet *

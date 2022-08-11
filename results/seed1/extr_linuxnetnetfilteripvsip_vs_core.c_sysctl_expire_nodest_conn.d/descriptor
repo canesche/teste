@@ -1,2 +1,0 @@
-struct netns_ipvs | dummy int 
-function sysctl_expire_nodest_conn int | ipvs struct netns_ipvs *

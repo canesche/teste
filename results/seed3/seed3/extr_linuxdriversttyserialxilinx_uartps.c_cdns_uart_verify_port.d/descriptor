@@ -1,0 +1,3 @@
+struct uart_port | irq long | iobase long 
+struct serial_struct | type long | irq long | io_type long | port long | hub6 long 
+function cdns_uart_verify_port int | port struct uart_port * | ser struct serial_struct *

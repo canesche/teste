@@ -1,0 +1,2 @@
+struct TYPE_3__ | state int | result int | division int 
+function numeric_parser_execute void | parser struct TYPE_3__ * | buf const char * | len unsigned long

@@ -1,0 +1,1 @@
+function append_byte void | buf unsigned char * | buf_length unsigned long * | buf_max unsigned long | c unsigned int

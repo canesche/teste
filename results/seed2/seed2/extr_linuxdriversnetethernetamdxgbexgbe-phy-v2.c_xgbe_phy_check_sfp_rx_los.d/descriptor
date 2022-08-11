@@ -1,0 +1,3 @@
+struct TYPE_2__ | extd int * 
+struct xgbe_phy_data | sfp_gpio_mask int | sfp_gpio_inputs int | sfp_gpio_rx_los int | sfp_eeprom struct TYPE_2__ 
+function xgbe_phy_check_sfp_rx_los int | phy_data struct xgbe_phy_data *

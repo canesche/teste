@@ -1,0 +1,3 @@
+struct tty_struct | dummy int 
+struct ser_device | dummy int 
+function debugfs_init void | ser struct ser_device * | tty struct tty_struct *

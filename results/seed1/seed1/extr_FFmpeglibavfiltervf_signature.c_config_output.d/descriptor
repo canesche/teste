@@ -1,0 +1,3 @@
+struct TYPE_5__ | inputs struct TYPE_4__ ** 
+struct TYPE_4__ | h int | w int | sample_aspect_ratio int | frame_rate int | time_base int | src struct TYPE_5__ * 
+function config_output int | outlink struct TYPE_4__ *

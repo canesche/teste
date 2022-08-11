@@ -1,0 +1,1 @@
+function snd_info_get_str const char * | dest char * | src const char * | len int

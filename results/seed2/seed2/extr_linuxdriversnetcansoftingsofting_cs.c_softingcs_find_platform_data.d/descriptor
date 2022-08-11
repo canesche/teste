@@ -1,0 +1,2 @@
+struct softing_platform_data | manf int | prod unsigned int 
+function softingcs_find_platform_data const struct softing_platform_data * | manf unsigned int | prod unsigned int

@@ -1,0 +1,3 @@
+struct tv_mode | nbr_end int | progressive int 
+struct drm_display_mode | vdisplay int | type int 
+function intel_tv_choose_preferred_modes void | tv_mode const struct tv_mode * | mode_ptr struct drm_display_mode *

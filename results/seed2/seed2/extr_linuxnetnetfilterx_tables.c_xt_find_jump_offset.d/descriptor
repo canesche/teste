@@ -1,0 +1,1 @@
+function xt_find_jump_offset int | offsets const unsigned int * | target unsigned int | size unsigned int

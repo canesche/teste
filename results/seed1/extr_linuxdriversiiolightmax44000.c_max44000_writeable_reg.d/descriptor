@@ -1,2 +1,0 @@
-struct device | dummy int 
-function max44000_writeable_reg int | dev struct device * | reg unsigned int

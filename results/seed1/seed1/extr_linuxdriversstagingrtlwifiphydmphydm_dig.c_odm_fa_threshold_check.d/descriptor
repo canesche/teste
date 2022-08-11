@@ -1,0 +1,2 @@
+struct phy_dm_struct | is_linked long 
+function odm_fa_threshold_check void | dm_void void * | is_dfs_band int | is_performance int | rx_tp int | tx_tp int | dm_FA_thres int *

@@ -1,2 +1,0 @@
-struct cifs_sb_info | mnt_cifs_flags int 
-function cifs_remap int | cifs_sb struct cifs_sb_info *

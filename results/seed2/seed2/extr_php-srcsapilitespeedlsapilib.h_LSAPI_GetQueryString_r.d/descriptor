@@ -1,0 +1,2 @@
+struct TYPE_3__ | m_pQueryString char * 
+function LSAPI_GetQueryString_r char * | pReq struct TYPE_3__ *

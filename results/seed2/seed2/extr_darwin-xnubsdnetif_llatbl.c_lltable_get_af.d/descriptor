@@ -1,0 +1,2 @@
+struct lltable | llt_af int 
+function lltable_get_af int | llt const struct lltable *

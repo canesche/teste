@@ -1,2 +1,0 @@
-struct drm_device | dummy int 
-function exynos_drm_fbdev_resume void | drm struct drm_device *

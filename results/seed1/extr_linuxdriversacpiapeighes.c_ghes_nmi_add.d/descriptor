@@ -1,2 +1,0 @@
-struct ghes | dummy int 
-function ghes_nmi_add void | ghes struct ghes *

@@ -1,2 +1,0 @@
-struct bitmask | size unsigned int | maskp unsigned int * 
-function _getbit unsigned int | bmp const struct bitmask * | n unsigned int

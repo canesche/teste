@@ -1,2 +1,0 @@
-struct eeh_dev | mode int 
-function eeh_dev_removed int | edev struct eeh_dev *

@@ -1,2 +1,0 @@
-struct rv7xx_pl | mclk long | sclk long | pcie_gen long | vddc long | vddci long 
-function si_are_power_levels_equal int | si_cpl1 const struct rv7xx_pl * | si_cpl2 const struct rv7xx_pl *

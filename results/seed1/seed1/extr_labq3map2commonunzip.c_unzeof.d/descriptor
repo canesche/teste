@@ -1,0 +1,3 @@
+struct TYPE_3__ | pfile_in_zip_read struct TYPE_4__ * 
+struct TYPE_4__ | rest_read_uncompressed long 
+function unzeof int | file int *

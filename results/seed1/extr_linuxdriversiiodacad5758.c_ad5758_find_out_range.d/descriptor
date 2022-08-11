@@ -1,4 +1,0 @@
-struct TYPE_2__ | min int | max int | reg int 
-struct ad5758_state | out_range struct TYPE_2__ 
-struct ad5758_range | min int | max int | reg int 
-function ad5758_find_out_range int | st struct ad5758_state * | range const struct ad5758_range * | size unsigned int | min int | max int

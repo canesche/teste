@@ -1,0 +1,2 @@
+struct odm_ra_info | TOTAL int | RTY int * | PTStage int | PTSmoothFactor int | DROP int 
+function odm_PTDecision_8188E void | pRaInfo struct odm_ra_info *

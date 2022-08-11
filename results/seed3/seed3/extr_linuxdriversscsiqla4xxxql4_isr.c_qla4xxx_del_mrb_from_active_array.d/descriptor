@@ -1,0 +1,3 @@
+struct scsi_qla_host | iocb_cnt int | active_mrb_array struct mrb ** 
+struct mrb | iocb_cnt long 
+function qla4xxx_del_mrb_from_active_array struct mrb * | ha struct scsi_qla_host * | index unsigned long

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversledsleds-is31fl32xx.c_sizeof_is31fl32xx_priv.d/extr_linuxdriversledsleds-is31fl32xx.c_sizeof_is31fl32xx_priv_O0::sizeof_is31fl32xx_priv(62)"
+  }
+]

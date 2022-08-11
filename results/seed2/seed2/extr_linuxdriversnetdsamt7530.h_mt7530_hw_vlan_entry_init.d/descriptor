@@ -1,0 +1,2 @@
+struct mt7530_hw_vlan_entry | port int | untagged int 
+function mt7530_hw_vlan_entry_init void | e struct mt7530_hw_vlan_entry * | port int | untagged int

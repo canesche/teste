@@ -1,0 +1,2 @@
+struct _Locale_monetary | dummy int 
+function _WLocale_positive_sign const int * | lmon struct _Locale_monetary * | buf int * | bufSize unsigned long

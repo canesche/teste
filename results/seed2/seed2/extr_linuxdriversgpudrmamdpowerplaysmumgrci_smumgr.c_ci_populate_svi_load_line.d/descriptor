@@ -1,0 +1,5 @@
+struct pp_hwmgr | smu_backend long 
+struct TYPE_2__ | SviLoadLineTrimVddC int | SviLoadLineOffsetVddC long | SviLoadLineVddC int | SviLoadLineEn int 
+struct ci_smumgr | power_tune_table struct TYPE_2__ | power_tune_defaults struct ci_pt_defaults * 
+struct ci_pt_defaults | svi_load_line_vddc int | svi_load_line_en int 
+function ci_populate_svi_load_line int | hwmgr struct pp_hwmgr *

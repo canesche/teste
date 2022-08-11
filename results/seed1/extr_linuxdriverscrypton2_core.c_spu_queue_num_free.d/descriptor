@@ -1,2 +1,0 @@
-struct spu_queue | head unsigned long | tail unsigned long 
-function spu_queue_num_free int | q struct spu_queue *

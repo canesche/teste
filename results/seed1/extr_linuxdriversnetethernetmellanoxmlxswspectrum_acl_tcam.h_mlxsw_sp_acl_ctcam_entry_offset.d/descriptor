@@ -1,3 +1,0 @@
-struct TYPE_2__ | index unsigned int 
-struct mlxsw_sp_acl_ctcam_entry | parman_item struct TYPE_2__ 
-function mlxsw_sp_acl_ctcam_entry_offset unsigned int | centry struct mlxsw_sp_acl_ctcam_entry *

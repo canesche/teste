@@ -1,2 +1,0 @@
-struct view_history | stack int 
-function view_history_is_empty int | history struct view_history *

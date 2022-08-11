@@ -1,0 +1,2 @@
+struct bnx2fc_rport | rq_cons_idx int | rq long 
+function bnx2fc_get_next_rqe char * | tgt struct bnx2fc_rport * | num_items int

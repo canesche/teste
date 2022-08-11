@@ -1,0 +1,2 @@
+struct hrtimer | dummy int 
+function hrtimer_update_lowres int | timer struct hrtimer * | tim int | mode const enum hrtimer_mode

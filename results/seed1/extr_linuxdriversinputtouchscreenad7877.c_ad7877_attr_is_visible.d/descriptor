@@ -1,5 +1,0 @@
-struct kobject | dummy int 
-struct attribute | mode long 
-struct TYPE_4__ | attr struct attribute 
-struct TYPE_3__ | attr struct attribute 
-function ad7877_attr_is_visible long | kobj struct kobject * | attr struct attribute * | n int

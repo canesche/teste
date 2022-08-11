@@ -1,0 +1,3 @@
+struct TYPE_5__ | e_magic long | e_lfanew int 
+struct TYPE_4__ | Signature long 
+function get_nt_header struct TYPE_4__ * | base void * | mapping_size int

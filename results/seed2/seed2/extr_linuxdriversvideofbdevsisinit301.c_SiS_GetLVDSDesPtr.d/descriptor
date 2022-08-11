@@ -1,0 +1,3 @@
+struct SiS_Private | dummy int 
+struct SiS_LVDSDes | dummy int 
+function SiS_GetLVDSDesPtr const struct SiS_LVDSDes * | SiS_Pr struct SiS_Private *

@@ -1,2 +1,0 @@
-struct ata_port | port_no int 
-function sil680_selreg unsigned long | ap struct ata_port * | r int

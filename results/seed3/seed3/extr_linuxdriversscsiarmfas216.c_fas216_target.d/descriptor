@@ -1,0 +1,4 @@
+struct TYPE_7__ | SCpnt struct TYPE_6__ * 
+struct TYPE_6__ | device struct TYPE_5__ * 
+struct TYPE_5__ | id char 
+function fas216_target char | info struct TYPE_7__ *

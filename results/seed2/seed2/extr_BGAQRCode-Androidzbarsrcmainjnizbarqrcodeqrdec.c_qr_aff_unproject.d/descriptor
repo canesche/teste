@@ -1,0 +1,2 @@
+struct TYPE_3__ | inv int ** | x0 int | y0 int | ires int 
+function qr_aff_unproject void | _q int * | _aff const struct TYPE_3__ * | _x int | _y int

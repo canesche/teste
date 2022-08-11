@@ -1,0 +1,2 @@
+struct rocker_port | dummy int 
+function ofdpa_port_attr_bridge_flags_support_get int | rocker_port const struct rocker_port * | p_brport_flags_support unsigned long *

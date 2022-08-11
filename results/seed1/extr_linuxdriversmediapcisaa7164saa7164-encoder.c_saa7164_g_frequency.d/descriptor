@@ -1,3 +1,0 @@
-struct v4l2_frequency | frequency int | tuner long 
-struct saa7164_port | freq int 
-function saa7164_g_frequency int | port struct saa7164_port * | f struct v4l2_frequency *

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function exynos_is_iommu_available int | dev struct device *

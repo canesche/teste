@@ -1,2 +1,0 @@
-struct backlight_device | dummy int 
-function backlight_register_fb int | bd struct backlight_device *

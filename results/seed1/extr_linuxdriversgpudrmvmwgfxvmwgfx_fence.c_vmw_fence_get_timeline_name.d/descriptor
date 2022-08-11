@@ -1,2 +1,0 @@
-struct dma_fence | dummy int 
-function vmw_fence_get_timeline_name const char * | f struct dma_fence *

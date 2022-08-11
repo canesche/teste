@@ -1,2 +1,0 @@
-struct tx_ring | tail unsigned long | size long | skb long * 
-function qcaspi_tx_ring_has_space int | txr struct tx_ring *

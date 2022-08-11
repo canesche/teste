@@ -1,0 +1,3 @@
+struct spi_mpc8xxx_cs | dummy int 
+struct spi_device | mode int 
+function mspi_apply_qe_mode_quirks int | cs struct spi_mpc8xxx_cs * | spi struct spi_device * | bits_per_word int

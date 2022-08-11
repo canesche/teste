@@ -1,0 +1,3 @@
+struct cpuidle_driver | dummy int 
+struct cpuidle_device | enabled int 
+function cpuidle_not_available int | drv struct cpuidle_driver * | dev struct cpuidle_device *

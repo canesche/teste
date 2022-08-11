@@ -1,0 +1,5 @@
+struct TYPE_3__ | dwMaxVideoFrameSize long 
+struct uvc_streaming | cur_format struct TYPE_4__ * | ctrl struct TYPE_3__ 
+struct uvc_buffer | bytesused long | error int 
+struct TYPE_4__ | flags int 
+function uvc_video_validate_buffer void | stream const struct uvc_streaming * | buf struct uvc_buffer *

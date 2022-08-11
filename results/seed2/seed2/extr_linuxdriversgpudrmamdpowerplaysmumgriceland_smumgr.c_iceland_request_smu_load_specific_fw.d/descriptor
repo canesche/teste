@@ -1,0 +1,2 @@
+struct pp_hwmgr | dummy int 
+function iceland_request_smu_load_specific_fw int | hwmgr struct pp_hwmgr * | firmwareType int

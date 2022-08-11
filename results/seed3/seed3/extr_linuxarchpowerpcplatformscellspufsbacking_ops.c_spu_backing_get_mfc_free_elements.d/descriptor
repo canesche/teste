@@ -1,0 +1,4 @@
+struct TYPE_3__ | dma_qstatus_R int 
+struct TYPE_4__ | prob struct TYPE_3__ 
+struct spu_context | csa struct TYPE_4__ 
+function spu_backing_get_mfc_free_elements int | ctx struct spu_context *

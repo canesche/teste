@@ -1,0 +1,4 @@
+struct SIS_OH | poh_prev struct TYPE_4__ * | poh_next struct TYPE_3__ * 
+struct TYPE_4__ | poh_next struct TYPE_3__ * 
+struct TYPE_3__ | poh_prev struct TYPE_4__ * 
+function sisfb_delete_node void | poh struct SIS_OH *

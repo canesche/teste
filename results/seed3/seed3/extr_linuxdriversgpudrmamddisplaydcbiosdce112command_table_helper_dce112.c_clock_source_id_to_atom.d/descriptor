@@ -1,0 +1,1 @@
+function clock_source_id_to_atom int | id enum clock_source_id | atom_pll_id int *

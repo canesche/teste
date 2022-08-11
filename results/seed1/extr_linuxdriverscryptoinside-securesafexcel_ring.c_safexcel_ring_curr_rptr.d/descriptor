@@ -1,4 +1,0 @@
-struct safexcel_desc_ring | read void * 
-struct safexcel_crypto_priv | ring struct TYPE_2__ * 
-struct TYPE_2__ | rdr struct safexcel_desc_ring 
-function safexcel_ring_curr_rptr void * | priv struct safexcel_crypto_priv * | ring int

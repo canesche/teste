@@ -1,3 +1,0 @@
-struct TYPE_5__ | file_nbr unsigned long 
-struct TYPE_6__ | fd_count unsigned long | fd_space long 
-function spiffs_fd_find_new int | fs struct TYPE_6__ * | fd struct TYPE_5__ ** | name const char *

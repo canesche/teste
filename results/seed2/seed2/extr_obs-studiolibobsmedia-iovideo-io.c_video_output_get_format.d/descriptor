@@ -1,0 +1,3 @@
+struct TYPE_4__ | format int 
+struct TYPE_5__ | info struct TYPE_4__ 
+function video_output_get_format enum video_format | video const struct TYPE_5__ *

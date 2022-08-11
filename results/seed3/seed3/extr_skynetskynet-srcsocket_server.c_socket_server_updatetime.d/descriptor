@@ -1,0 +1,2 @@
+struct socket_server | time int 
+function socket_server_updatetime void | ss struct socket_server * | time int

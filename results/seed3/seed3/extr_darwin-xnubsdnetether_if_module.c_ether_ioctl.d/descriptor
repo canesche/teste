@@ -1,0 +1,1 @@
+function ether_ioctl int | ifp int | command int | data void *

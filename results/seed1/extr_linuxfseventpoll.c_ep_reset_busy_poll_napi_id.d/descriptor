@@ -1,2 +1,0 @@
-struct eventpoll | dummy int 
-function ep_reset_busy_poll_napi_id void | ep struct eventpoll *

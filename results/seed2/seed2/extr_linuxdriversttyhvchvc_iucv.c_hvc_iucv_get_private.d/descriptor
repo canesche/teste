@@ -1,0 +1,2 @@
+struct hvc_iucv_private | dummy int 
+function hvc_iucv_get_private struct hvc_iucv_private * | num long

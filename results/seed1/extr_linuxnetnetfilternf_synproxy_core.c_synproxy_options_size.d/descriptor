@@ -1,2 +1,0 @@
-struct synproxy_options | options int 
-function synproxy_options_size unsigned int | opts const struct synproxy_options *

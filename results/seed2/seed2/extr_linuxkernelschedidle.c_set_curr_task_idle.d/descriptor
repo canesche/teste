@@ -1,0 +1,2 @@
+struct rq | dummy int 
+function set_curr_task_idle void | rq struct rq *

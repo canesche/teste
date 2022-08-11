@@ -1,2 +1,0 @@
-struct dst_state | fec int 
-function dst_get_fec enum fe_code_rate | state struct dst_state *

@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function rt_effective_prio int | p struct task_struct * | prio int

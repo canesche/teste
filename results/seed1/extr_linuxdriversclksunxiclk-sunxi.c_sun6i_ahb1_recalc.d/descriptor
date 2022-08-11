@@ -1,2 +1,0 @@
-struct factors_request | rate int | parent_rate int | parent_index long | m int | p int 
-function sun6i_ahb1_recalc void | req struct factors_request *

@@ -1,4 +1,0 @@
-struct hid_report | size int | type unsigned long | device struct TYPE_4__ * 
-struct TYPE_4__ | report_enum struct TYPE_3__ * 
-struct TYPE_3__ | numbered int 
-function i2c_hid_get_report_length int | report struct hid_report *

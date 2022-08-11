@@ -1,0 +1,2 @@
+struct TYPE_2__ | keysym long | string const char * 
+function XKeysymToString const char * | keysym long

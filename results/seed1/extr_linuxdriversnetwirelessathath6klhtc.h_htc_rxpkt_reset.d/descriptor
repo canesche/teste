@@ -1,2 +1,0 @@
-struct htc_packet | act_len long | buf_start int | buf int 
-function htc_rxpkt_reset void | packet struct htc_packet *

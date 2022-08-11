@@ -1,0 +1,2 @@
+struct cdb_make | pos long 
+function cdb_posplus int | c struct cdb_make * | len long

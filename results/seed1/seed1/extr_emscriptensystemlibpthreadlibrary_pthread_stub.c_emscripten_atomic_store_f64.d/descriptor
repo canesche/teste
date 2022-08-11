@@ -1,0 +1,1 @@
+function emscripten_atomic_store_f64 double | addr void * | val double

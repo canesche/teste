@@ -1,0 +1,3 @@
+struct rcar_du_plane_state | source long | format struct TYPE_2__ * 
+struct TYPE_2__ | planes long 
+function rcar_du_plane_needs_realloc int | old_state const struct rcar_du_plane_state * | new_state const struct rcar_du_plane_state *

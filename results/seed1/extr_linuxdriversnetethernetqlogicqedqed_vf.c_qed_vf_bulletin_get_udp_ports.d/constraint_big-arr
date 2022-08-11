@@ -1,1 +1,0 @@
-length(p_vxlan_port) == 65025, length(p_geneve_port) == 65025, length(p_hwfn) == 65025

@@ -1,0 +1,1 @@
+function addColorBits void | out unsigned char * | index unsigned long | bits unsigned int | in unsigned int

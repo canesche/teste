@@ -1,3 +1,0 @@
-struct rndis_per_packet_info | type long | ppi_offset long | size long 
-struct rndis_packet | per_pkt_info_offset long | per_pkt_info_len int 
-function rndis_get_ppi void * | rpkt struct rndis_packet * | type long

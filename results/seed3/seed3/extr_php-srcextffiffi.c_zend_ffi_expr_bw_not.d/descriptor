@@ -1,0 +1,2 @@
+struct TYPE_3__ | kind long | ch int | i64 int | u64 int 
+function zend_ffi_expr_bw_not void | val struct TYPE_3__ *

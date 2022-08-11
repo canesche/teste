@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 6,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_reactosdlldirectxwined3dx9_36d3dx9_private.h_is_param_type_sampler.d/extr_reactosdlldirectxwined3dx9_36d3dx9_private.h_is_param_type_sampler_O0::is_param_type_sampler(67)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxtoolsperfutilintel-pt-decoderintel-pt-decoder.c_intel_pt_next_period.d/extr_linuxtoolsperfutilintel-pt-decoderintel-pt-decoder.c_intel_pt_next_period_O0::intel_pt_next_period(62)"
+  }
+]

@@ -1,4 +1,0 @@
-struct wrapper_priv_data | hsotg struct dwc2_hsotg * 
-struct usb_hcd | hcd_priv int 
-struct dwc2_hsotg | dummy int 
-function dwc2_hcd_to_hsotg struct dwc2_hsotg * | hcd struct usb_hcd *

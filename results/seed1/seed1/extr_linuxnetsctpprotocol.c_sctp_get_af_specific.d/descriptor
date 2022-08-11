@@ -1,0 +1,2 @@
+struct sctp_af | dummy int 
+function sctp_get_af_specific struct sctp_af * | family int

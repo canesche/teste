@@ -1,0 +1,1 @@
+function _RpcEnumPrinterKey int | hPrinter int | pKeyName const int * | pSubkey int * | cbSubkey int | pcbSubkey int *

@@ -1,3 +1,0 @@
-struct TYPE_3__ | assaultShader int | escortShader int | retrieveShader int | campShader int | followShader int | patrolShader int | defendShader int 
-struct TYPE_4__ | media struct TYPE_3__ 
-function CG_StatusHandle int | task int

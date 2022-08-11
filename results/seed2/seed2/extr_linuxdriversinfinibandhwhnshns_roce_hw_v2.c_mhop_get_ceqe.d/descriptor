@@ -1,0 +1,3 @@
+struct hns_roce_eq | eqe_buf_pg_sz int | entries int | hop_num long | buf long * | bt_l0 long 
+struct hns_roce_ceqe | dummy int 
+function mhop_get_ceqe struct hns_roce_ceqe * | eq struct hns_roce_eq * | entry int

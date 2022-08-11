@@ -1,0 +1,2 @@
+struct TYPE_3__ | str_xml const long * | str_xml_ns const long * | nsNr int | nsTab const long ** 
+function xmlGetNamespace const long * | ctxt struct TYPE_3__ * | prefix const long *

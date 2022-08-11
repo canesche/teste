@@ -1,5 +1,0 @@
-struct TYPE_9__ | partitioning struct TYPE_8__ * 
-struct TYPE_6__ | fn_expr int * 
-struct TYPE_7__ | func_fmgr struct TYPE_6__ 
-struct TYPE_8__ | partfunc struct TYPE_7__ 
-function get_open_dim_expr int * | dim struct TYPE_9__ *

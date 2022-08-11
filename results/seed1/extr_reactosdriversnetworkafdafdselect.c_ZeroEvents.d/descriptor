@@ -1,2 +1,0 @@
-struct TYPE_3__ | Events long | Status long 
-function ZeroEvents int | HandleArray struct TYPE_3__ * | HandleCount unsigned long

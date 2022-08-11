@@ -1,0 +1,2 @@
+struct TYPE_3__ | m_nBufferMS int 
+function RTMP_SetBufferMS void | r struct TYPE_3__ * | size int

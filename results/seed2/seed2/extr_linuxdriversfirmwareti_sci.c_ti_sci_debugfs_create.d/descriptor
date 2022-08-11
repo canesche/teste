@@ -1,0 +1,3 @@
+struct ti_sci_info | dummy int 
+struct platform_device | dummy int 
+function ti_sci_debugfs_create int | dev struct platform_device * | info struct ti_sci_info *

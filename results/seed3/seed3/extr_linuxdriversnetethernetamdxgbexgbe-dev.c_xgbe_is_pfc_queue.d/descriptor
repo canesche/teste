@@ -1,0 +1,4 @@
+struct xgbe_prv_data | prio2q_map unsigned int * | pfc struct TYPE_4__ * | ets struct TYPE_3__ * 
+struct TYPE_4__ | pfc_en int 
+struct TYPE_3__ | prio_tc unsigned int * 
+function xgbe_is_pfc_queue int | pdata struct xgbe_prv_data * | queue unsigned int

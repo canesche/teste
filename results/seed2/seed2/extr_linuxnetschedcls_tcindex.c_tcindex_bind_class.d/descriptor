@@ -1,0 +1,3 @@
+struct TYPE_2__ | classid long | class unsigned long 
+struct tcindex_filter_result | res struct TYPE_2__ 
+function tcindex_bind_class void | fh void * | classid long | cl unsigned long

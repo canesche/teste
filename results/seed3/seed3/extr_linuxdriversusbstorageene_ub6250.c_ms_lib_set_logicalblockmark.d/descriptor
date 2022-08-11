@@ -1,0 +1,4 @@
+struct us_data | extra long 
+struct TYPE_2__ | NumberOfPhyBlock unsigned long | Phy2LogMap unsigned long * 
+struct ene_ub6250_info | MS_Lib struct TYPE_2__ 
+function ms_lib_set_logicalblockmark int | us struct us_data * | phyblk unsigned long | mark unsigned long

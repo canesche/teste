@@ -1,3 +1,0 @@
-struct spi_message | dummy int 
-struct spi_controller | dummy int 
-function __spi_unmap_msg int | ctlr struct spi_controller * | msg struct spi_message *

@@ -1,0 +1,4 @@
+struct TYPE_3__ | value long 
+struct bpf_reg_state | type int | map_ptr struct TYPE_4__ * | off long | smin_value long | umax_value long | var_off struct TYPE_3__ 
+struct TYPE_4__ | value_size long 
+function retrieve_ptr_limit int | ptr_reg const struct bpf_reg_state * | ptr_limit long * | opcode long | off_is_neg int

@@ -1,0 +1,2 @@
+struct git_graph | width int 
+function graph_width int | graph struct git_graph *

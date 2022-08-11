@@ -1,2 +1,0 @@
-struct virtual_item | dummy int 
-function direct_check_left int | vi struct virtual_item * | free int | start_skip int | end_skip int

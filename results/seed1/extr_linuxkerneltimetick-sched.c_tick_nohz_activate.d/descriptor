@@ -1,2 +1,0 @@
-struct tick_sched | dummy int 
-function tick_nohz_activate void | ts struct tick_sched * | mode int

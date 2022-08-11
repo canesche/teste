@@ -1,0 +1,2 @@
+struct TYPE_4__ | TimeStamp_tick int | Ticks_per_sec void * | Ticks_scale void * | TimeStamp_frac void * | TimeStamp_sec void * 
+function commpage_set_timestamp void | abstime void * | sec void * | frac void * | scale void * | tick_per_sec void *

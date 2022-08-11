@@ -1,0 +1,2 @@
+struct TYPE_3__ | height int 
+function gs_stagesurface_get_height int | stagesurf const struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct hash_netnet6_elem | cidr void ** 
+function hash_netnet6_init void | e struct hash_netnet6_elem *

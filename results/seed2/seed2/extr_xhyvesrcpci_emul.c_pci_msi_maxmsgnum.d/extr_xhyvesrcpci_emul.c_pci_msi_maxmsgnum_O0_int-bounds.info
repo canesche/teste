@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_xhyvesrcpci_emul.c_pci_msi_maxmsgnum.d/extr_xhyvesrcpci_emul.c_pci_msi_maxmsgnum_O0::pci_msi_maxmsgnum(64)"
+  }
+]

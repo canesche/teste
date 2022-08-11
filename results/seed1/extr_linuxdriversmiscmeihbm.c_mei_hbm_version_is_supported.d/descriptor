@@ -1,3 +1,0 @@
-struct TYPE_2__ | major_version long | minor_version long 
-struct mei_device | version struct TYPE_2__ 
-function mei_hbm_version_is_supported int | dev struct mei_device *

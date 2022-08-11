@@ -1,0 +1,1 @@
+function ngx_http_lua_capture_error_log char * | cf int * | cmd int * | conf void *

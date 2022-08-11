@@ -1,0 +1,2 @@
+struct TYPE_2__ | op_class int 
+function aarch64_get_operand_class enum aarch64_operand_class | type enum aarch64_opnd

@@ -1,0 +1,4 @@
+struct dispc_device | feat struct TYPE_3__ * 
+struct TYPE_4__ | framedone_irq int 
+struct TYPE_3__ | no_framedone_tv long 
+function dispc_mgr_get_framedone_irq int | dispc struct dispc_device * | channel enum omap_channel

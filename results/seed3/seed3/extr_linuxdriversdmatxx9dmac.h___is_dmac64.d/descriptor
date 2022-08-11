@@ -1,0 +1,2 @@
+struct txx9dmac_dev | have_64bit_regs int 
+function __is_dmac64 int | ddev const struct txx9dmac_dev *

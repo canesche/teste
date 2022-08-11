@@ -1,3 +1,0 @@
-struct TYPE_4__ | cluster struct TYPE_3__ * 
-struct TYPE_3__ | slots_keys_count unsigned int * 
-function countKeysInSlot unsigned int | hashslot unsigned int

@@ -1,0 +1,6 @@
+struct wined3d_state | render_states long * 
+struct wined3d_fb_state | render_targets struct TYPE_4__ ** 
+struct wined3d_context | d3d_info struct TYPE_3__ * 
+struct TYPE_4__ | format_flags int 
+struct TYPE_3__ | wined3d_creation_flags int 
+function needs_srgb_write int | context const struct wined3d_context * | state const struct wined3d_state * | fb const struct wined3d_fb_state *

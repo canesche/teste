@@ -1,2 +1,0 @@
-struct uid_gid_extent | first long 
-function cmp_extents_forward int | a const void * | b const void *

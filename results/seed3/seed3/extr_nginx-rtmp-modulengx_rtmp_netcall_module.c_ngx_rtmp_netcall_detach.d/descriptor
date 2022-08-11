@@ -1,0 +1,3 @@
+struct TYPE_4__ | detached int 
+struct TYPE_5__ | data struct TYPE_4__ * 
+function ngx_rtmp_netcall_detach void | cc struct TYPE_5__ *

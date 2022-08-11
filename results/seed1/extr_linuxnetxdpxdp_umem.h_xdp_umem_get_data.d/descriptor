@@ -1,3 +1,0 @@
-struct xdp_umem | pages struct TYPE_2__ * 
-struct TYPE_2__ | addr char * 
-function xdp_umem_get_data char * | umem struct xdp_umem * | addr unsigned long

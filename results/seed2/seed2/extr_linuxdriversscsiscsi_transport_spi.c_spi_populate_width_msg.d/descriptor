@@ -1,0 +1,1 @@
+function spi_populate_width_msg int | msg unsigned char * | width int

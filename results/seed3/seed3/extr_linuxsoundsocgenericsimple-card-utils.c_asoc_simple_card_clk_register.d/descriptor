@@ -1,0 +1,3 @@
+struct clk | dummy int 
+struct asoc_simple_dai | clk struct clk * 
+function asoc_simple_card_clk_register void | dai struct asoc_simple_dai * | clk struct clk *

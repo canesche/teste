@@ -1,0 +1,1 @@
+function KeccakP1600_ExtractAndAddBytesInLane void | state const void * | lanePosition unsigned int | input const unsigned char * | output unsigned char * | offset unsigned int | length unsigned int

@@ -1,0 +1,2 @@
+struct hash_netnet6_elem | nomatch long 
+function hash_netnet6_do_data_match int | elem const struct hash_netnet6_elem *

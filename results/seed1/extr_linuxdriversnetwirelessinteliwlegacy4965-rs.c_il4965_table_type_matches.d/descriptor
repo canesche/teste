@@ -1,2 +1,0 @@
-struct il_scale_tbl_info | lq_type long | ant_type long | is_SGI long 
-function il4965_table_type_matches int | a struct il_scale_tbl_info * | b struct il_scale_tbl_info *

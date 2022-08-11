@@ -1,0 +1,4 @@
+struct TYPE_5__ | n int 
+struct TYPE_7__ | inputs struct TYPE_6__ ** | priv struct TYPE_5__ * 
+struct TYPE_6__ | w int | h int | src struct TYPE_7__ * 
+function config_output int | outlink struct TYPE_6__ *

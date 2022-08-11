@@ -1,0 +1,3 @@
+struct TYPE_2__ | state long 
+struct res_mpt | com struct TYPE_2__ 
+function remove_mpt_ok int | res struct res_mpt *

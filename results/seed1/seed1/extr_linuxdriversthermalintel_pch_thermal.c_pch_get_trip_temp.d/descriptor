@@ -1,0 +1,3 @@
+struct thermal_zone_device | devdata struct pch_thermal_device * 
+struct pch_thermal_device | crt_trip_id int | crt_temp int | hot_trip_id int | hot_temp int | psv_trip_id int | psv_temp int 
+function pch_get_trip_temp int | tzd struct thermal_zone_device * | trip int | temp int *

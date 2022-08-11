@@ -1,0 +1,4 @@
+struct task_struct | dummy int 
+struct mmc_ctx | task struct task_struct * 
+struct mmc_host | claimer struct mmc_ctx * | default_ctx struct mmc_ctx 
+function mmc_ctx_set_claimer void | host struct mmc_host * | ctx struct mmc_ctx * | task struct task_struct *

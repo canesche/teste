@@ -1,0 +1,2 @@
+struct async_icount | dcd int | rng int | cts int | dsr int 
+function mct_u232_msr_to_icount void | icount struct async_icount * | msr unsigned char

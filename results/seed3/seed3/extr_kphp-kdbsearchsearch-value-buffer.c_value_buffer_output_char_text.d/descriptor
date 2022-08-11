@@ -1,0 +1,2 @@
+struct value_buffer | wptr char * | w int 
+function value_buffer_output_char_text void | B struct value_buffer * | ch char

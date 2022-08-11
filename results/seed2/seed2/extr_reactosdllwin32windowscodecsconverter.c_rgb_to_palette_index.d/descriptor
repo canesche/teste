@@ -1,0 +1,1 @@
+function rgb_to_palette_index unsigned long | r unsigned long | g unsigned long | b unsigned long | colors int * | count unsigned long

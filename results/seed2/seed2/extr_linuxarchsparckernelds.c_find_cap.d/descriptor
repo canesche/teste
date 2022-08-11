@@ -1,0 +1,3 @@
+struct ds_info | num_ds_states unsigned int | ds_states struct ds_cap_state * 
+struct ds_cap_state | dummy int 
+function find_cap struct ds_cap_state * | dp struct ds_info * | handle int

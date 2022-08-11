@@ -1,2 +1,0 @@
-struct ocfs2_super | osb_dx_mask unsigned int 
-function __ocfs2_dx_dir_hash_idx unsigned int | osb struct ocfs2_super * | minor_hash unsigned int

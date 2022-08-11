@@ -1,0 +1,4 @@
+struct file | dummy int 
+struct bttv_fh | btv struct bttv * 
+struct bttv | std int 
+function bttv_g_std int | file struct file * | priv void * | id int *

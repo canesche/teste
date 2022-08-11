@@ -1,4 +1,0 @@
-struct TYPE_7__ | aiColumn int * | pTable struct TYPE_6__ * 
-struct TYPE_6__ | aCol struct TYPE_5__ * 
-struct TYPE_5__ | zName const char * 
-function explainIndexColumnName const char * | pIdx struct TYPE_7__ * | i int

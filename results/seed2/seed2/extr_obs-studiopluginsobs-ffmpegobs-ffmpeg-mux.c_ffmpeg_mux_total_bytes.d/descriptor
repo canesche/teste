@@ -1,0 +1,2 @@
+struct ffmpeg_muxer | total_bytes int 
+function ffmpeg_mux_total_bytes int | data void *

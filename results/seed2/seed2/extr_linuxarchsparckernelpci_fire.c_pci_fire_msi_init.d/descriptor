@@ -1,0 +1,2 @@
+struct pci_pbm_info | dummy int 
+function pci_fire_msi_init void | pbm struct pci_pbm_info *

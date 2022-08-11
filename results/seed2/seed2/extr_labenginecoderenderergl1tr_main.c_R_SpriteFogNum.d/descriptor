@@ -1,0 +1,7 @@
+struct TYPE_10__ | renderfx int | origin long * | radius long 
+struct TYPE_11__ | e struct TYPE_10__ 
+struct TYPE_12__ | bounds long ** 
+struct TYPE_8__ | rdflags int 
+struct TYPE_13__ | world struct TYPE_9__ * | refdef struct TYPE_8__ 
+struct TYPE_9__ | numfogs int | fogs struct TYPE_12__ * 
+function R_SpriteFogNum int | ent struct TYPE_11__ *

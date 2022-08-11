@@ -1,0 +1,2 @@
+struct TYPE_3__ | Attributes int 
+function get_registry_view int | comp const struct TYPE_3__ *

@@ -1,1 +1,0 @@
-function copy_vert void | dst int * | src const int * | pixel_shift int | height int | stride_dst int | stride_src int

@@ -1,5 +1,0 @@
-struct il_priv | hw struct TYPE_4__ * 
-struct ieee80211_supported_band | dummy int 
-struct TYPE_4__ | wiphy struct TYPE_3__ * 
-struct TYPE_3__ | bands const struct ieee80211_supported_band ** 
-function il_get_hw_mode const struct ieee80211_supported_band * | il struct il_priv * | band enum nl80211_band

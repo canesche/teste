@@ -1,0 +1,2 @@
+struct amdgpu_device | dummy int 
+function dce_v6_0_set_crtc_vline_interrupt_state void | adev struct amdgpu_device * | crtc int | state enum amdgpu_interrupt_state

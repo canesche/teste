@@ -1,0 +1,2 @@
+struct pxa_mbus_pixelfmt | layout long | bits_per_sample int | packing int 
+function pxa_mbus_bytes_per_line int | width int | mf const struct pxa_mbus_pixelfmt *

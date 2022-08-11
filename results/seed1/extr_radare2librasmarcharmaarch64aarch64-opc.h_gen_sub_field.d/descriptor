@@ -1,2 +1,0 @@
-struct TYPE_4__ | width int | lsb long 
-function gen_sub_field int | kind enum aarch64_field_kind | lsb_rel int | width int | ret struct TYPE_4__ *

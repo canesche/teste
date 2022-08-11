@@ -1,2 +1,0 @@
-struct TYPE_3__ | gain_size_factor int | gain_table float * 
-function interpolate_float void | q struct TYPE_3__ * | buffer float * | gain_index int | gain_index_next int

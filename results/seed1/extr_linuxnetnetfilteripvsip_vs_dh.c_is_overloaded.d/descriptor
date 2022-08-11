@@ -1,2 +1,0 @@
-struct ip_vs_dest | flags int 
-function is_overloaded int | dest struct ip_vs_dest *

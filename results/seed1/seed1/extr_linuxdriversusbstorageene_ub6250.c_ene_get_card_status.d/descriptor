@@ -1,0 +1,4 @@
+struct us_data | extra long 
+struct TYPE_2__ | IsMMC long | HiCapacity long 
+struct ene_ub6250_info | SD_READ_BL_LEN int | HC_C_SIZE int | SD_C_SIZE int | SD_C_SIZE_MULT int | SD_Block_Mult int | SD_Status struct TYPE_2__ 
+function ene_get_card_status int | us struct us_data * | buf int *

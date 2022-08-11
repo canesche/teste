@@ -1,0 +1,2 @@
+struct kasan_global | dummy int 
+function __asan_unregister_globals void | globals struct kasan_global * | size unsigned long

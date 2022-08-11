@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversscsiatari_scsi.c_falcon_classify_cmd.d/extr_linuxdriversscsiatari_scsi.c_falcon_classify_cmd_O0::falcon_classify_cmd(74)"
+  }
+]

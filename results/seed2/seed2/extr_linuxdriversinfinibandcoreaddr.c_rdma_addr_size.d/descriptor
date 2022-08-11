@@ -1,0 +1,5 @@
+struct sockaddr_in6 | dummy int 
+struct sockaddr_in | dummy int 
+struct sockaddr_ib | dummy int 
+struct sockaddr | sa_family int 
+function rdma_addr_size int | addr const struct sockaddr *

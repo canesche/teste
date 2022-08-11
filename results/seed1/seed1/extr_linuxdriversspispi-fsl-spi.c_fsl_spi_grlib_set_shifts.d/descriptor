@@ -1,0 +1,1 @@
+function fsl_spi_grlib_set_shifts void | rx_shift int * | tx_shift int * | bits_per_word int | msb_first int

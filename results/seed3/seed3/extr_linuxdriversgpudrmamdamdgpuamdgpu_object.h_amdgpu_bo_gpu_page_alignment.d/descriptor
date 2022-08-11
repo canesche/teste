@@ -1,0 +1,4 @@
+struct TYPE_3__ | page_alignment int 
+struct TYPE_4__ | mem struct TYPE_3__ 
+struct amdgpu_bo | tbo struct TYPE_4__ 
+function amdgpu_bo_gpu_page_alignment unsigned int | bo struct amdgpu_bo *

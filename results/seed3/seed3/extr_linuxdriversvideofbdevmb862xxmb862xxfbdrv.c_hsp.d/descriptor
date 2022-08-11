@@ -1,0 +1,2 @@
+struct fb_var_screeninfo | xres int | right_margin int 
+function hsp int | var struct fb_var_screeninfo *

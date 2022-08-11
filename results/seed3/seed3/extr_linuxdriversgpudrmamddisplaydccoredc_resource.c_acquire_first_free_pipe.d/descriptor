@@ -1,0 +1,8 @@
+struct resource_pool | pipe_count int | dpps struct TYPE_6__ ** | opps int * | transforms int * | ipps int * | hubps int * | mis int * | timing_generators int * 
+struct resource_context | pipe_ctx struct pipe_ctx * 
+struct TYPE_5__ | mpcc_inst int | dpp struct TYPE_6__ * | xfm int | ipp int | hubp int | mi int 
+struct TYPE_4__ | opp int | tg int 
+struct pipe_ctx | pipe_idx int | stream struct dc_stream_state * | plane_res struct TYPE_5__ | stream_res struct TYPE_4__ 
+struct dc_stream_state | dummy int 
+struct TYPE_6__ | inst int 
+function acquire_first_free_pipe int | res_ctx struct resource_context * | pool const struct resource_pool * | stream struct dc_stream_state *

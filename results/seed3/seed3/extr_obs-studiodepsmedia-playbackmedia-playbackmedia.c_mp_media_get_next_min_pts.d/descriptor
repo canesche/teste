@@ -1,0 +1,4 @@
+struct TYPE_6__ | frame_pts long | frame_ready long 
+struct TYPE_5__ | frame_pts long | frame_ready long 
+struct TYPE_7__ | a struct TYPE_6__ | has_audio long | v struct TYPE_5__ | has_video long 
+function mp_media_get_next_min_pts long | m struct TYPE_7__ *

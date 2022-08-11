@@ -1,0 +1,6 @@
+struct TYPE_4__ | data_bus_width int | data_buf_dep int | num_chan int 
+struct pl330_dmac | pcfg struct TYPE_4__ 
+struct TYPE_3__ | brst_size int 
+struct dma_pl330_desc | rqcfg struct TYPE_3__ | pchan struct dma_pl330_chan * 
+struct dma_pl330_chan | dmac struct pl330_dmac * 
+function get_burst_len int | desc struct dma_pl330_desc * | len unsigned long

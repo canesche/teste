@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediausbpvrusb2pvrusb2-hdw.c_get_default_tuner_type.d/extr_linuxdriversmediausbpvrusb2pvrusb2-hdw.c_get_default_tuner_type_O0::get_default_tuner_type(64)"
+  }
+]

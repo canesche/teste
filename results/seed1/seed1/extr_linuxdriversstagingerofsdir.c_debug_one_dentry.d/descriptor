@@ -1,0 +1,1 @@
+function debug_one_dentry void | d_type unsigned char | de_name const char * | de_namelen unsigned int

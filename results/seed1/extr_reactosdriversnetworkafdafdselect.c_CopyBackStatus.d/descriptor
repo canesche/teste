@@ -1,2 +1,0 @@
-struct TYPE_3__ | Status long | Events long 
-function CopyBackStatus int | HandleArray struct TYPE_3__ * | HandleCount unsigned long

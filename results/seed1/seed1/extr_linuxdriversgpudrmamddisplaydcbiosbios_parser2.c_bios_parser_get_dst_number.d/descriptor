@@ -1,0 +1,3 @@
+struct graphics_object_id | type int 
+struct dc_bios | dummy int 
+function bios_parser_get_dst_number int | dcb struct dc_bios * | id struct graphics_object_id

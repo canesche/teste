@@ -1,0 +1,2 @@
+struct clocksource | mask long 
+function cksrc_dc21285_read long | cs struct clocksource *

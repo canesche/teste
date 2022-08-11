@@ -1,2 +1,0 @@
-struct usb_device | parent int * 
-function is_root_hub int | udev struct usb_device *

@@ -1,0 +1,2 @@
+struct twl4030_madc_bat_calibration | voltage int 
+function twl4030_cmp int | a const void * | b const void *

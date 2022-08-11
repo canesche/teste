@@ -1,4 +1,0 @@
-struct TYPE_2__ | rcvif struct ifnet * 
-struct mbuf | m_pkthdr struct TYPE_2__ 
-struct ifnet | dummy int 
-function mld_restore_context struct ifnet * | m struct mbuf *

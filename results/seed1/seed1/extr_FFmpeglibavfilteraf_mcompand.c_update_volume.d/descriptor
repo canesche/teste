@@ -1,0 +1,2 @@
+struct TYPE_3__ | volume double * | attack_rate double * | decay_rate double * 
+function update_volume void | cb struct TYPE_3__ * | in double | ch int

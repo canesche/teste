@@ -1,0 +1,3 @@
+struct super_block | s_fs_info long 
+struct befs_sb_info | dummy int 
+function BEFS_SB struct befs_sb_info * | super const struct super_block *

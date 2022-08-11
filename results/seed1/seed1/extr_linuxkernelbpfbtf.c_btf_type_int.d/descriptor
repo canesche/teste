@@ -1,0 +1,2 @@
+struct btf_type | dummy int 
+function btf_type_int int | t const struct btf_type *

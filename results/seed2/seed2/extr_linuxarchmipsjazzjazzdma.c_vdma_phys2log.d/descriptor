@@ -1,0 +1,2 @@
+struct TYPE_2__ | frame int 
+function vdma_phys2log unsigned long | paddr unsigned long

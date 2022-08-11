@@ -1,0 +1,2 @@
+struct rtmp_custom | username const char * | use_auth int 
+function rtmp_custom_username const char * | data void *

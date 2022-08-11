@@ -1,0 +1,3 @@
+struct socket | dummy int 
+struct file | private_data struct socket * | f_op int * 
+function sock_from_file struct socket * | file struct file * | err int *

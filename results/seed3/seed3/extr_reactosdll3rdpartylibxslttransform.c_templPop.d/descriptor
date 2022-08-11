@@ -1,0 +1,2 @@
+struct TYPE_3__ | templNr int | templTab long * | templ long 
+function templPop long | ctxt struct TYPE_3__ *

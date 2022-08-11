@@ -1,1 +1,0 @@
-value(on_stdout) == 10, value(on_stderr) == 10, length(args) == 100, length(ctx) == 100, length(error) == 100, length(cancel) == 100

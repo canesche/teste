@@ -1,0 +1,2 @@
+struct zip_dirent | version_madeby int | version_needed int | offset long | ext_attrib long | int_attrib long | disk_number long | comment int * | extra_fields int * | filename int * | uncomp_size long | comp_size long | crc long | last_mod long | comp_method int | bitflags long | cloned long | local_extra_fields_read long | changed long 
+function _zip_dirent_init void | de struct zip_dirent *

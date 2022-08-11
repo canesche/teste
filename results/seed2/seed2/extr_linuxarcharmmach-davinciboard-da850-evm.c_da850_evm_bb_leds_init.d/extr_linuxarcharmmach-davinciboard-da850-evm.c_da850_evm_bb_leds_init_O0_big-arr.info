@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxarcharmmach-davinciboard-da850-evm.c_da850_evm_bb_leds_init.d/extr_linuxarcharmmach-davinciboard-da850-evm.c_da850_evm_bb_leds_init_O0::da850_evm_bb_leds_init(65)"
+  }
+]

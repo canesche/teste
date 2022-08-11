@@ -1,0 +1,2 @@
+struct dvb_device | dummy int 
+function dvb_media_device_free void | dvbdev struct dvb_device *

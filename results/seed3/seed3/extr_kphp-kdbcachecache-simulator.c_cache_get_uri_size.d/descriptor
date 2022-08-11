@@ -1,0 +1,3 @@
+struct cache_uri | size long long 
+struct TYPE_2__ | default_file_size long long 
+function cache_get_uri_size long long | U struct cache_uri * | required int

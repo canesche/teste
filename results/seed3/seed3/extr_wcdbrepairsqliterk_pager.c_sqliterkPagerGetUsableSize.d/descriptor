@@ -1,0 +1,2 @@
+struct TYPE_3__ | usableSize int 
+function sqliterkPagerGetUsableSize int | pager struct TYPE_3__ *

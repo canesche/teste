@@ -1,2 +1,0 @@
-struct selftest | enabled int 
-function set_default_test_all void | st struct selftest * | count unsigned int

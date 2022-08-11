@@ -1,2 +1,0 @@
-struct refline_end | val long 
-function cmp_asc int | a const struct refline_end * | b const struct refline_end *

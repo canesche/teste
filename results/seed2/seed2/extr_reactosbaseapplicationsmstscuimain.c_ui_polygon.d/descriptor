@@ -1,0 +1,1 @@
+function ui_polygon void | opcode int | fillmode int | point int * | npoints int | brush int * | bgcolour int | fgcolour int

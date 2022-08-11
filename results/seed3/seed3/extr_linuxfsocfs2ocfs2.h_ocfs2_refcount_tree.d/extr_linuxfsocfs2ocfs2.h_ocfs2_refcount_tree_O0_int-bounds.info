@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxfsocfs2ocfs2.h_ocfs2_refcount_tree.d/extr_linuxfsocfs2ocfs2.h_ocfs2_refcount_tree_O0::ocfs2_refcount_tree(62)"
+  }
+]

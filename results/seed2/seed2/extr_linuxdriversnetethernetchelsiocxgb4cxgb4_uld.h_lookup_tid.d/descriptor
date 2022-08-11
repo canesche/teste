@@ -1,0 +1,2 @@
+struct tid_info | ntids unsigned int | tid_tab void ** 
+function lookup_tid void * | t const struct tid_info * | tid unsigned int

@@ -1,0 +1,4 @@
+struct xdr_stream | dummy int 
+struct nfs4_sequence_args | dummy int 
+struct compound_hdr | dummy int 
+function encode_sequence void | xdr struct xdr_stream * | args const struct nfs4_sequence_args * | hdr struct compound_hdr *

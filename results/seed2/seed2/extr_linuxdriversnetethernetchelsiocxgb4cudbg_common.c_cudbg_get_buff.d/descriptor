@@ -1,0 +1,3 @@
+struct cudbg_init | compress_type long | compress_buff_size long | compress_buff long 
+struct cudbg_buffer | offset long | size long | data char * 
+function cudbg_get_buff int | pdbg_init struct cudbg_init * | pdbg_buff struct cudbg_buffer * | size long | pin_buff struct cudbg_buffer *

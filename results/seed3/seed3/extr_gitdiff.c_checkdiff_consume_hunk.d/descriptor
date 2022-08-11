@@ -1,0 +1,2 @@
+struct checkdiff_t | lineno long 
+function checkdiff_consume_hunk void | priv void * | ob long | on long | nb long | nn long | func const char * | funclen long

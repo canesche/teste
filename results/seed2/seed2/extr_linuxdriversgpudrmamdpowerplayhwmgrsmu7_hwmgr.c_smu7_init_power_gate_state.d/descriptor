@@ -1,0 +1,3 @@
+struct smu7_hwmgr | uvd_power_gated int | vce_power_gated int 
+struct pp_hwmgr | backend long 
+function smu7_init_power_gate_state int | hwmgr struct pp_hwmgr *

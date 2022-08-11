@@ -1,0 +1,3 @@
+struct TYPE_2__ | rec_buffer int * 
+struct pcan_usb_pro_msg | rec_buffer_size int | rec_buffer_len int | rec_ptr int * | u struct TYPE_2__ 
+function pcan_msg_init int * | pm struct pcan_usb_pro_msg * | buffer_addr void * | buffer_size int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediaradiowl128xfmdrv_rx.c_fm_rx_get_band_freq_range.d/extr_linuxdriversmediaradiowl128xfmdrv_rx.c_fm_rx_get_band_freq_range_O0::fm_rx_get_band_freq_range(66)"
+  }
+]

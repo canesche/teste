@@ -1,0 +1,5 @@
+struct TYPE_4__ | offset int 
+struct TYPE_5__ | red struct TYPE_4__ 
+struct TYPE_6__ | len unsigned int 
+struct fb_info | pseudo_palette long | var struct TYPE_5__ | cmap struct TYPE_6__ 
+function ufx_ops_setcolreg int | regno unsigned int | red unsigned int | green unsigned int | blue unsigned int | transp unsigned int | info struct fb_info *

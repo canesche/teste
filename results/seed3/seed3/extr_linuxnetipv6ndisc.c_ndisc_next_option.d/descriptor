@@ -1,0 +1,2 @@
+struct nd_opt_hdr | nd_opt_type int | nd_opt_len int 
+function ndisc_next_option struct nd_opt_hdr * | cur struct nd_opt_hdr * | end struct nd_opt_hdr *

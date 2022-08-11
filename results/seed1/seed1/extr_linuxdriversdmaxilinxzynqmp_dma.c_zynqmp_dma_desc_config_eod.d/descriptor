@@ -1,0 +1,3 @@
+struct zynqmp_dma_desc_ll | ctrl int 
+struct zynqmp_dma_chan | dummy int 
+function zynqmp_dma_desc_config_eod void | chan struct zynqmp_dma_chan * | desc void *

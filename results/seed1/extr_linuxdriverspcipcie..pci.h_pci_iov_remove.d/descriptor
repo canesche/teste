@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function pci_iov_remove void | dev struct pci_dev *

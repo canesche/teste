@@ -1,0 +1,2 @@
+struct TYPE_3__ | DAC_OutputBuffer int | DAC_LFSRUnmask_TriangleAmplitude int | DAC_WaveGeneration int | DAC_Trigger int 
+function DAC_StructInit void | DAC_InitStruct struct TYPE_3__ *

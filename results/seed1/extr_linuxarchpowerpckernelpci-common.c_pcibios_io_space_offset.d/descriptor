@@ -1,2 +1,0 @@
-struct pci_controller | io_base_virt long 
-function pcibios_io_space_offset long | hose struct pci_controller *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | compress int 
+function quicklistSetCompressDepth void | quicklist struct TYPE_3__ * | compress int

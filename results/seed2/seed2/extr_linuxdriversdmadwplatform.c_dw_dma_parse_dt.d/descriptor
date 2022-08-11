@@ -1,0 +1,3 @@
+struct platform_device | dummy int 
+struct dw_dma_platform_data | dummy int 
+function dw_dma_parse_dt struct dw_dma_platform_data * | pdev struct platform_device *

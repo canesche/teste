@@ -1,0 +1,4 @@
+struct net_device | dummy int 
+struct in6_addr | dummy int 
+struct dst_entry | dummy int 
+function rxe_find_route6 struct dst_entry * | ndev struct net_device * | saddr struct in6_addr * | daddr struct in6_addr *

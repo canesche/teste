@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxnetnetfilteripvsip_vs_lblcr.c_sysctl_lblcr_expiration.d/extr_linuxnetnetfilteripvsip_vs_lblcr.c_sysctl_lblcr_expiration_O0::sysctl_lblcr_expiration(62)"
+  }
+]

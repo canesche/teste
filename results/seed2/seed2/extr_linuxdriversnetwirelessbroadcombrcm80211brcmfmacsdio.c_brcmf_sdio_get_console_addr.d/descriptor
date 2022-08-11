@@ -1,0 +1,2 @@
+struct brcmf_sdio | dummy int 
+function brcmf_sdio_get_console_addr void | bus struct brcmf_sdio *

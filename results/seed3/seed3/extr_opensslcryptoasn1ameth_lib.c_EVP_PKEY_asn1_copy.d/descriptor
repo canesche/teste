@@ -1,0 +1,2 @@
+struct TYPE_4__ | pkey_check int | siginf_set int | item_verify int | item_sign int | pkey_ctrl int | pkey_free int | param_print int | param_cmp int | param_copy int | param_missing int | param_encode int | param_decode int | pkey_bits int | pkey_size int | old_priv_decode int | old_priv_encode int | priv_print int | priv_encode int | priv_decode int | pub_print int | pub_cmp int | pub_encode int | pub_decode int 
+function EVP_PKEY_asn1_copy void | dst struct TYPE_4__ * | src const struct TYPE_4__ *

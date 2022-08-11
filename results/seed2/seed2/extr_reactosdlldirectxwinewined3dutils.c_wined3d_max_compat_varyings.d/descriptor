@@ -1,0 +1,2 @@
+struct wined3d_gl_info | supported long * 
+function wined3d_max_compat_varyings unsigned int | gl_info const struct wined3d_gl_info *

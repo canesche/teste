@@ -1,0 +1,5 @@
+struct isci_host | dummy int 
+struct domain_device | port struct TYPE_4__ * 
+struct TYPE_4__ | ha struct TYPE_3__ * 
+struct TYPE_3__ | lldd_ha struct isci_host * 
+function dev_to_ihost struct isci_host * | dev struct domain_device *

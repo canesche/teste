@@ -1,2 +1,0 @@
-struct fsi_msg | msg int | bits int 
-function msg_push_bits void | msg struct fsi_msg * | data unsigned long long | bits int

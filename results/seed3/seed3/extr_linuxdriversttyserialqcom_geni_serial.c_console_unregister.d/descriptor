@@ -1,0 +1,2 @@
+struct uart_driver | dummy int 
+function console_unregister void | drv struct uart_driver *

@@ -1,0 +1,2 @@
+struct qla_hw_data | flash_data_off int 
+function flash_data_addr int | ha struct qla_hw_data * | faddr int

@@ -1,3 +1,0 @@
-struct TYPE_5__ | cDims unsigned long | rgsabound struct TYPE_4__ * 
-struct TYPE_4__ | cElements int 
-function get_safearray_size int | sa struct TYPE_5__ *

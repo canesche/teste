@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function kvmppc_mmu_destroy_e500 void | vcpu struct kvm_vcpu *

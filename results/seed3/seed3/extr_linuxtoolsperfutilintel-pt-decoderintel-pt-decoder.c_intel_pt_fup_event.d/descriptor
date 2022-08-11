@@ -1,0 +1,3 @@
+struct TYPE_2__ | to_ip long | from_ip int | flags int | type int | pwre_payload int | mwait_payload int | ptw_payload int 
+struct intel_pt_decoder | set_fup_tx_flags int | set_fup_ptw int | set_fup_mwait int | set_fup_pwre int | set_fup_exstop int | state struct TYPE_2__ | ip int | fup_pwre_payload int | fup_mwait_payload int | fup_ptw_payload int | fup_tx_flags int | tx_flags int 
+function intel_pt_fup_event int | decoder struct intel_pt_decoder *

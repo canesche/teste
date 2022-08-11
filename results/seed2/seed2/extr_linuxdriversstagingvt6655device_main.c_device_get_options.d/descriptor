@@ -1,0 +1,3 @@
+struct vnt_options | bbp_type int | long_retry int | short_retry int | int_works int | tx_descs int * | rx_descs1 int | rx_descs0 int 
+struct vnt_private | opts struct vnt_options 
+function device_get_options void | priv struct vnt_private *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | gc_protected int | collected long | gc_runs long | num_roots long | buf_size void * | gc_threshold void * | first_unused void * | unused void * | buf int * | gc_full long | gc_active long | gc_enabled long 
+function gc_globals_ctor_ex void | gc_globals struct TYPE_3__ *

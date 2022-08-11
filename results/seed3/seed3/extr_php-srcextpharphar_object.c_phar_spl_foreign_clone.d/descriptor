@@ -1,0 +1,3 @@
+struct TYPE_5__ | oth long 
+struct TYPE_6__ | refcount int | is_persistent int 
+function phar_spl_foreign_clone void | src struct TYPE_5__ * | dst struct TYPE_5__ *

@@ -1,1 +1,0 @@
-function spi_populate_sync_msg int | msg unsigned char * | period int | offset int

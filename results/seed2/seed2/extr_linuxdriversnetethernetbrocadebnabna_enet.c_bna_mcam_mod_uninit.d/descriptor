@@ -1,0 +1,2 @@
+struct bna_mcam_mod | bna int * 
+function bna_mcam_mod_uninit void | mcam_mod struct bna_mcam_mod *

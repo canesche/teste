@@ -1,3 +1,0 @@
-struct musb_qh | dummy int 
-struct musb_hw_ep | out_qh struct musb_qh * | in_qh struct musb_qh * 
-function musb_ep_get_qh struct musb_qh * | ep struct musb_hw_ep * | is_in int

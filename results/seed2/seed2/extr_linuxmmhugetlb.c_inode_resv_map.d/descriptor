@@ -1,0 +1,4 @@
+struct resv_map | dummy int 
+struct inode | i_mapping struct TYPE_2__ * 
+struct TYPE_2__ | private_data struct resv_map * 
+function inode_resv_map struct resv_map * | inode struct inode *

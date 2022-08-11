@@ -1,2 +1,0 @@
-struct drm_connector | dummy int 
-function mdfld_dsi_connector_save void | connector struct drm_connector *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediausbdvb-usbtechnisat-usb2.c_technisat_usb2_i2c_func.d/extr_linuxdriversmediausbdvb-usbtechnisat-usb2.c_technisat_usb2_i2c_func_O0::technisat_usb2_i2c_func(63)"
+  }
+]

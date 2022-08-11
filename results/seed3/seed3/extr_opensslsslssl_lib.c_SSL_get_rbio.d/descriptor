@@ -1,0 +1,2 @@
+struct TYPE_3__ | rbio int * 
+function SSL_get_rbio int * | s const struct TYPE_3__ *

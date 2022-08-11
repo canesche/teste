@@ -1,0 +1,9 @@
+struct TYPE_6__ | width int | height int | y int | x int 
+struct zoran_fh | overlay_settings struct TYPE_6__ | zr struct zoran * 
+struct zoran | dummy int 
+struct TYPE_5__ | width int | height int | top int | left int 
+struct TYPE_7__ | field int | w struct TYPE_5__ 
+struct TYPE_8__ | win struct TYPE_7__ 
+struct v4l2_format | fmt struct TYPE_8__ 
+struct file | dummy int 
+function zoran_g_fmt_vid_overlay int | file struct file * | __fh void * | fmt struct v4l2_format *

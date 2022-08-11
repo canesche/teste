@@ -1,0 +1,2 @@
+struct tep_handle | latency_format int 
+function tep_set_latency_format void | pevent struct tep_handle * | lat int

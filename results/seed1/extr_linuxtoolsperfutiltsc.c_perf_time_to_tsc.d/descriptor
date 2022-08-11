@@ -1,2 +1,0 @@
-struct perf_tsc_conversion | time_zero int | time_mult int | time_shift int 
-function perf_time_to_tsc int | ns int | tc struct perf_tsc_conversion *

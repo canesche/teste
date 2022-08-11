@@ -1,0 +1,2 @@
+struct brcms_hardware | antsel_avail int 
+function brcms_b_antsel_set void | wlc_hw struct brcms_hardware * | antsel_avail int

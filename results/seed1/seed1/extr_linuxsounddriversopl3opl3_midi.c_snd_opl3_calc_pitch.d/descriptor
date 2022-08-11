@@ -1,0 +1,2 @@
+struct snd_midi_channel | midi_pitchbend int 
+function snd_opl3_calc_pitch void | fnum unsigned char * | blocknum unsigned char * | note int | chan struct snd_midi_channel *

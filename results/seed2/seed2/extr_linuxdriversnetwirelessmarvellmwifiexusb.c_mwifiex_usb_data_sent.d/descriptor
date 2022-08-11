@@ -1,0 +1,4 @@
+struct usb_card_rec | port struct TYPE_2__ * 
+struct mwifiex_adapter | card struct usb_card_rec * 
+struct TYPE_2__ | block_status int 
+function mwifiex_usb_data_sent int | adapter struct mwifiex_adapter *

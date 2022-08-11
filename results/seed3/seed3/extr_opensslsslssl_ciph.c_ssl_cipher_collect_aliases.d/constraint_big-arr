@@ -1,0 +1,1 @@
+value(num_of_group_aliases) == 255, value(disabled_mkey) == 255, value(disabled_auth) == 255, value(disabled_enc) == 255, value(disabled_mac) == 255, length(ca_list) == 65025, length(head) == 65025

@@ -1,0 +1,2 @@
+struct rds_ib_work_ring | w_free_ptr int 
+function rds_ib_ring_oldest int | ring struct rds_ib_work_ring *

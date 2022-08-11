@@ -1,0 +1,2 @@
+struct TYPE_3__ | first long | count long 
+function fnt_cmap_char_next long | cmap struct TYPE_3__ * | pchar_code long *

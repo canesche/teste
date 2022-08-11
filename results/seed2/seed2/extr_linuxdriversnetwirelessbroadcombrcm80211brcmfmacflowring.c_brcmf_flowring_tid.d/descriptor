@@ -1,0 +1,4 @@
+struct brcmf_flowring_ring | hash_id unsigned long 
+struct brcmf_flowring | hash struct TYPE_2__ * | rings struct brcmf_flowring_ring ** 
+struct TYPE_2__ | fifo int 
+function brcmf_flowring_tid int | flow struct brcmf_flowring * | flowid unsigned long

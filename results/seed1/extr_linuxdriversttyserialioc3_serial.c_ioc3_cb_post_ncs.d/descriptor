@@ -1,3 +1,0 @@
-struct uart_icount | parity int | overrun int | frame int | brk int 
-struct uart_port | icount struct uart_icount 
-function ioc3_cb_post_ncs void | the_port struct uart_port * | ncs int

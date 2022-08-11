@@ -1,2 +1,0 @@
-struct ath_hw | misc_mode int 
-function ath9k_hw_set_tsfadjust void | ah struct ath_hw * | set int

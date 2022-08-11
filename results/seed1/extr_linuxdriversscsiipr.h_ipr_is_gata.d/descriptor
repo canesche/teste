@@ -1,2 +1,0 @@
-struct ipr_resource_entry | type long 
-function ipr_is_gata int | res struct ipr_resource_entry *

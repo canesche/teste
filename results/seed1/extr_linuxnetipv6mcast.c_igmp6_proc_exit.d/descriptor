@@ -1,2 +1,0 @@
-struct net | dummy int 
-function igmp6_proc_exit void | net struct net *

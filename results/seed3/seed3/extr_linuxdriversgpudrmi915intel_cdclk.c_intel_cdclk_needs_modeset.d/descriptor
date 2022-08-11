@@ -1,0 +1,2 @@
+struct intel_cdclk_state | cdclk long | vco long | ref long 
+function intel_cdclk_needs_modeset int | a const struct intel_cdclk_state * | b const struct intel_cdclk_state *

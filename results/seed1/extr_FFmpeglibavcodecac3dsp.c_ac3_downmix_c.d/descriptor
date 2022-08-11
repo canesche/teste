@@ -1,1 +1,0 @@
-function ac3_downmix_c void | samples float ** | matrix float ** | out_ch int | in_ch int | len int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | stride int | uvstride int | ref int *** | src int *** 
+function init_ref void | c struct TYPE_3__ * | src int *[3] | ref int *[3] | ref2 int *[3] | x int | y int | ref_index int

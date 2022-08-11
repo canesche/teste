@@ -1,0 +1,1 @@
+function json_set_allocation_functions void | malloc_fun int | free_fun int

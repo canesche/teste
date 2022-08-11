@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function get_last_alias int | pdev struct pci_dev * | alias int | opaque void *

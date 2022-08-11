@@ -1,0 +1,4 @@
+struct ipmi_system_interface_addr | dummy int 
+struct ipmi_lan_addr | dummy int 
+struct ipmi_ipmb_addr | dummy int 
+function ipmi_addr_length unsigned int | addr_type int

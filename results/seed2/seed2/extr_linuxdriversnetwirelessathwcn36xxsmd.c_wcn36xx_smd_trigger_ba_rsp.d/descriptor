@@ -1,0 +1,2 @@
+struct wcn36xx_hal_trigger_ba_rsp_msg | status int 
+function wcn36xx_smd_trigger_ba_rsp int | buf void * | len int

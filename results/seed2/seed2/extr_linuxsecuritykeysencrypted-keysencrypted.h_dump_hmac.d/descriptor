@@ -1,0 +1,1 @@
+function dump_hmac void | str const char * | digest const int * | hmac_size unsigned int

@@ -1,0 +1,2 @@
+struct ip_addr | addr long * 
+function ip_addr_cmp int | addr1 struct ip_addr * | addr2 struct ip_addr *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | errNo int 
+function SetKeepAlive int | cip struct TYPE_3__ *const | sockfd int

@@ -1,0 +1,3 @@
+struct TYPE_6__ | limb int * 
+struct TYPE_5__ | limb int * 
+function curve448_scalar_halve void | out struct TYPE_5__ * | a struct TYPE_5__ *const

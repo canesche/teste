@@ -1,0 +1,3 @@
+struct TYPE_2__ | num_mpts int 
+struct mlx4_dev | caps struct TYPE_2__ 
+function mpt_mask int | dev struct mlx4_dev *

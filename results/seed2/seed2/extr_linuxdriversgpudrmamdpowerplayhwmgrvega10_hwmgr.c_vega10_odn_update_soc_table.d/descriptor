@@ -1,0 +1,15 @@
+struct vega10_single_dpm_table | count int | dpm_levels struct TYPE_13__ * 
+struct vega10_odn_vddc_lookup_table | count int | entries struct TYPE_10__ * 
+struct vega10_odn_clock_voltage_dependency_table | count int | entries struct TYPE_14__ * 
+struct TYPE_11__ | soc_table struct vega10_single_dpm_table 
+struct TYPE_9__ | vdd_dep_on_mclk struct vega10_odn_clock_voltage_dependency_table | vdd_dep_on_sclk struct vega10_odn_clock_voltage_dependency_table | vddc_lookup_table struct vega10_odn_vddc_lookup_table | vdd_dep_on_socclk struct vega10_odn_clock_voltage_dependency_table 
+struct TYPE_8__ | soc_table struct vega10_single_dpm_table 
+struct vega10_hwmgr | need_update_dpm_table int | dpm_table struct TYPE_11__ | odn_dpm_table struct TYPE_9__ | golden_dpm_table struct TYPE_8__ 
+struct pp_hwmgr | pptable struct phm_ppt_v2_information * | backend struct vega10_hwmgr * 
+struct phm_ppt_v2_information | vdd_dep_on_socclk struct phm_ppt_v1_clock_voltage_dependency_table * 
+struct phm_ppt_v1_clock_voltage_dependency_table | count int | entries struct TYPE_12__ * 
+struct TYPE_14__ | vddc long | vddInd int | clk long 
+struct TYPE_13__ | value long 
+struct TYPE_12__ | vddInd int | clk long 
+struct TYPE_10__ | us_vdd long 
+function vega10_odn_update_soc_table void | hwmgr struct pp_hwmgr * | type enum PP_OD_DPM_TABLE_COMMAND

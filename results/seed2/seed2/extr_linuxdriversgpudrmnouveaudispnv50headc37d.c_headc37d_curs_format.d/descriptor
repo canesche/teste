@@ -1,0 +1,6 @@
+struct TYPE_4__ | format int 
+struct nv50_wndw_atom | image struct TYPE_4__ 
+struct TYPE_3__ | format int 
+struct nv50_head_atom | curs struct TYPE_3__ 
+struct nv50_head | dummy int 
+function headc37d_curs_format int | head struct nv50_head * | asyw struct nv50_wndw_atom * | asyh struct nv50_head_atom *

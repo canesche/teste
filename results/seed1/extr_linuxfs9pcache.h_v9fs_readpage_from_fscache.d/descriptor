@@ -1,3 +1,0 @@
-struct page | dummy int 
-struct inode | dummy int 
-function v9fs_readpage_from_fscache int | inode struct inode * | page struct page *

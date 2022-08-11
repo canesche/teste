@@ -1,0 +1,3 @@
+struct TYPE_5__ | raw int * 
+struct TYPE_6__ | buf int * 
+function ean_expand_upce void | ean struct TYPE_6__ * | pass struct TYPE_5__ *

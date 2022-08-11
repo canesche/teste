@@ -1,3 +1,0 @@
-struct TYPE_2__ | efer int 
-struct kvm_vcpu | arch struct TYPE_2__ 
-function is_nx int | vcpu struct kvm_vcpu *

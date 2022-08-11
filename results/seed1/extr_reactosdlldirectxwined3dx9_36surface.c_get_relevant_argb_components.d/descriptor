@@ -1,2 +1,0 @@
-struct argb_conversion_info | srcmask unsigned int * | srcshift unsigned int * | process_channel int * 
-function get_relevant_argb_components void | info const struct argb_conversion_info * | col const unsigned int * | out unsigned int *

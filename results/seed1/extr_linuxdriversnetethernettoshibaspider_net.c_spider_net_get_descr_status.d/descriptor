@@ -1,2 +1,0 @@
-struct spider_net_hw_descr | dmac_cmd_status int 
-function spider_net_get_descr_status int | hwdescr struct spider_net_hw_descr *

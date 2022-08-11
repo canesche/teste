@@ -1,2 +1,0 @@
-struct device | type int * 
-function is_usb_device int | dev const struct device *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | t_procflags int 
+function task_get_return_wait_event int | task struct TYPE_3__ *

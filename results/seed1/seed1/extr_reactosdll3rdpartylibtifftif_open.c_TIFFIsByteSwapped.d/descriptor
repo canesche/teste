@@ -1,0 +1,2 @@
+struct TYPE_3__ | tif_flags int 
+function TIFFIsByteSwapped int | tif struct TYPE_3__ *

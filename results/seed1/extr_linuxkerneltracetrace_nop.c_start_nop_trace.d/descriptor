@@ -1,2 +1,0 @@
-struct trace_array | dummy int 
-function start_nop_trace void | tr struct trace_array *

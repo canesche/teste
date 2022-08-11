@@ -1,0 +1,2 @@
+struct device | dummy int 
+function devm_phy_match int | dev struct device * | res void * | match_data void *

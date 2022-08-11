@@ -1,0 +1,2 @@
+struct TYPE_3__ | ref_bap_set int | channels int | num_blocks int | exp_ref_block int ** | ref_bap int *** | bap_buffer int * 
+function reset_block_bap void | s struct TYPE_3__ *

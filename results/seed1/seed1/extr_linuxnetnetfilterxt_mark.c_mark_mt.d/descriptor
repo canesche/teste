@@ -1,0 +1,4 @@
+struct xt_mark_mtinfo1 | mask int | mark int | invert int 
+struct xt_action_param | matchinfo struct xt_mark_mtinfo1 * 
+struct sk_buff | mark int 
+function mark_mt int | skb const struct sk_buff * | par struct xt_action_param *

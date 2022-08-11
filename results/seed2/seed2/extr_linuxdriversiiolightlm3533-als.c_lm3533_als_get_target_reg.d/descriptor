@@ -1,0 +1,1 @@
+function lm3533_als_get_target_reg unsigned int | channel unsigned int | zone unsigned int

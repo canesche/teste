@@ -1,0 +1,1 @@
+function ath6kl_dbg_dump void | mask enum ATH6K_DEBUG_MASK | msg const char * | prefix const char * | buf const void * | len unsigned long

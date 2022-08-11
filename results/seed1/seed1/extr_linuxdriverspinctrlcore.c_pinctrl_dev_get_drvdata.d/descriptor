@@ -1,0 +1,2 @@
+struct pinctrl_dev | driver_data void * 
+function pinctrl_dev_get_drvdata void * | pctldev struct pinctrl_dev *

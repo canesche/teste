@@ -1,0 +1,2 @@
+struct trace_event_call | dummy int 
+function ftrace_event_is_function int | call struct trace_event_call *

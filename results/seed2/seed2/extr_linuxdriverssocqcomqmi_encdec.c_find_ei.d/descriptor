@@ -1,0 +1,2 @@
+struct qmi_elem_info | data_type long | tlv_type long 
+function find_ei struct qmi_elem_info * | ei_array struct qmi_elem_info * | type long

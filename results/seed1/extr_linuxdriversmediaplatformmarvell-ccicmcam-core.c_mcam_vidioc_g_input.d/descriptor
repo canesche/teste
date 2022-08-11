@@ -1,2 +1,0 @@
-struct file | dummy int 
-function mcam_vidioc_g_input int | filp struct file * | priv void * | i unsigned int *

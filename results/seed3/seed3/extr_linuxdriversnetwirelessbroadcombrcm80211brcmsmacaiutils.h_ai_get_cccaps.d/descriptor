@@ -1,0 +1,2 @@
+struct si_pub | cccaps int 
+function ai_get_cccaps int | sih struct si_pub *

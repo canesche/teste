@@ -1,0 +1,2 @@
+struct ra_buf_params | type long | size long | host_mapped long | host_mutable long 
+function ra_buf_params_compatible int | new const struct ra_buf_params * | old const struct ra_buf_params *

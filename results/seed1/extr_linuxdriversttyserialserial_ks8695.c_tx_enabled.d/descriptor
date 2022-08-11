@@ -1,2 +1,0 @@
-struct uart_port | unused int * 
-function tx_enabled int | port struct uart_port *

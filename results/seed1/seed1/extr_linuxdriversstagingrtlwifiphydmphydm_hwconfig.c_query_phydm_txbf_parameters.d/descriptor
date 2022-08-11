@@ -1,0 +1,2 @@
+struct phy_dm_struct | dummy int 
+function query_phydm_txbf_parameters int | dm struct phy_dm_struct *

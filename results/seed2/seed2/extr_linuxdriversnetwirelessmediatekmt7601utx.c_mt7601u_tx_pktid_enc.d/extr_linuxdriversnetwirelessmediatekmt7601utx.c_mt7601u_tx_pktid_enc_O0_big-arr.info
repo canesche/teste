@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessmediatekmt7601utx.c_mt7601u_tx_pktid_enc.d/extr_linuxdriversnetwirelessmediatekmt7601utx.c_mt7601u_tx_pktid_enc_O0::mt7601u_tx_pktid_enc(62)"
+  }
+]

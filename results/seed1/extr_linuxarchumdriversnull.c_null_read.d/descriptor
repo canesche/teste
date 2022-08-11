@@ -1,1 +1,0 @@
-function null_read int | fd int | c_out char * | unused void *

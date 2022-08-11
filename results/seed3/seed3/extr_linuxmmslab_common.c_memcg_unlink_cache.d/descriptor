@@ -1,0 +1,2 @@
+struct kmem_cache | dummy int 
+function memcg_unlink_cache void | s struct kmem_cache *

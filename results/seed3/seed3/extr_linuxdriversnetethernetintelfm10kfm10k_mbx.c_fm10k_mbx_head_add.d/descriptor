@@ -1,0 +1,2 @@
+struct fm10k_mbx_info | head int | mbmem_len int 
+function fm10k_mbx_head_add int | mbx struct fm10k_mbx_info * | offset int

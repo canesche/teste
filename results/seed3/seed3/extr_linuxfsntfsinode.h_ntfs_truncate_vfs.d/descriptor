@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function ntfs_truncate_vfs void | vi struct inode *
