@@ -1,0 +1,13 @@
+Results: 
+
+int-bounds : 14175
+big-arr : 13999
+big-arr-10x : 14127
+linked : 72
+dlinked : 23
+bintree : 28
+14877 benchmarks were generated
+
+real	112m39.993s
+user	1409m28.586s
+sys	192m17.225s
