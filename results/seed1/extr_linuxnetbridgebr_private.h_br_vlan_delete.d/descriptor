@@ -1,0 +1,2 @@
+struct net_bridge | dummy int 
+function br_vlan_delete int | br struct net_bridge * | vid int

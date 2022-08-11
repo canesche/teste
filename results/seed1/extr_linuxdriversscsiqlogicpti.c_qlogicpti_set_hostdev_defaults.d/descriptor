@@ -1,0 +1,4 @@
+struct TYPE_3__ | bus_reset_delay int | retry_delay int | async_data_setup_time int | req_ack_active_negation int | data_line_active_negation int | data_dma_burst_enable int | command_dma_burst_enable int | tag_aging int | selection_timeout int | max_queue_depth int | retry_count long | initiator_scsi_id int 
+struct qlogicpti | dev_param struct TYPE_4__ * | ultra long | host_param struct TYPE_3__ | scsi_id int 
+struct TYPE_4__ | device_flags int | execution_throttle int | synchronous_period int | synchronous_offset int | device_enable int 
+function qlogicpti_set_hostdev_defaults void | qpti struct qlogicpti *

@@ -1,0 +1,2 @@
+struct TYPE_4__ | sigl int | exp int 
+function reg_copy void | x const struct TYPE_4__ * | y struct TYPE_4__ *

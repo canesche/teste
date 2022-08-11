@@ -1,0 +1,2 @@
+struct via82xx | dummy int 
+function snd_via686_create_gameport int | chip struct via82xx * | legacy unsigned char *

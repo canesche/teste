@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetwirelessmarvellmwifiexcfg80211.c_mwifiex_is_alg_wep.d/extr_linuxdriversnetwirelessmarvellmwifiexcfg80211.c_mwifiex_is_alg_wep_O0::mwifiex_is_alg_wep(64)"
+  }
+]

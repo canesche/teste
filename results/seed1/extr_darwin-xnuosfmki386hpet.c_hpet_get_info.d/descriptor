@@ -1,0 +1,2 @@
+struct TYPE_3__ | rcbaAreap int | rcbaArea int | hpet2bus int | bus2hpet int | hpet2tsc int | tsc2hpet int | hpetCvtn2t int | hpetCvtt2n int 
+function hpet_get_info void | info struct TYPE_3__ *

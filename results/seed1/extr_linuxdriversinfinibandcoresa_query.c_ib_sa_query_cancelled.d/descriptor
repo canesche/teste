@@ -1,0 +1,2 @@
+struct ib_sa_query | flags int 
+function ib_sa_query_cancelled int | query struct ib_sa_query *

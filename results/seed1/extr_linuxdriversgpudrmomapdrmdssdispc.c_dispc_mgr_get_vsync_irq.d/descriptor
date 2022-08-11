@@ -1,0 +1,3 @@
+struct dispc_device | dummy int 
+struct TYPE_2__ | vsync_irq int 
+function dispc_mgr_get_vsync_irq int | dispc struct dispc_device * | channel enum omap_channel

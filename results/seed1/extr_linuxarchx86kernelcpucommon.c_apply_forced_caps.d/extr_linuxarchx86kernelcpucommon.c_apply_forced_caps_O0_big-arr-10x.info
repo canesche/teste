@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxarchx86kernelcpucommon.c_apply_forced_caps.d/extr_linuxarchx86kernelcpucommon.c_apply_forced_caps_O0::apply_forced_caps(65)"
+  }
+]

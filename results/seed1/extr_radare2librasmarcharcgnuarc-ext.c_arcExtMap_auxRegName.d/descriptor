@@ -1,0 +1,3 @@
+struct ExtAuxRegister | address long | name long | next struct ExtAuxRegister * 
+struct TYPE_2__ | auxRegisters struct ExtAuxRegister * 
+function arcExtMap_auxRegName const char * | address long

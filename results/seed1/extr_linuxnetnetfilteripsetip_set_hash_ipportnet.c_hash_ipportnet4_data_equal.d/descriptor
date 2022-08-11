@@ -1,0 +1,2 @@
+struct hash_ipportnet4_elem | ip long | ip2 long | cidr long | port long | proto long 
+function hash_ipportnet4_data_equal int | ip1 const struct hash_ipportnet4_elem * | ip2 const struct hash_ipportnet4_elem * | multi int *

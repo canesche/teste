@@ -1,0 +1,3 @@
+struct esp | target struct TYPE_2__ * 
+struct TYPE_2__ | esp_config3 int 
+function esp_set_all_config3 void | esp struct esp * | val int

@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function pnfs_sync_inode int | inode struct inode * | datasync int

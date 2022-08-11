@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversscsimegaraid.c_mega_get_ldrv_num.d/extr_linuxdriversscsimegaraid.c_mega_get_ldrv_num_O0::mega_get_ldrv_num(71)"
+  }
+]

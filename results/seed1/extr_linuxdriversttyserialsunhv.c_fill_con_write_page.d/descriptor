@@ -1,0 +1,1 @@
+function fill_con_write_page int | s const char * | n unsigned int | page_bytes unsigned long *

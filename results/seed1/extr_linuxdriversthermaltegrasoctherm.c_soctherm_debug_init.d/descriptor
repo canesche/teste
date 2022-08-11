@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function soctherm_debug_init void | pdev struct platform_device *

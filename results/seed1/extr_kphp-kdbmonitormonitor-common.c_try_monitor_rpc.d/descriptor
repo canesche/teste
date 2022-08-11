@@ -1,0 +1,2 @@
+struct proc_data | dummy int 
+function try_monitor_rpc int | PData struct proc_data *

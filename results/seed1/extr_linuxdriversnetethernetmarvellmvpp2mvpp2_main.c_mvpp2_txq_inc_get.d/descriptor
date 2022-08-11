@@ -1,0 +1,2 @@
+struct mvpp2_txq_pcpu | txq_get_index long | size long 
+function mvpp2_txq_inc_get void | txq_pcpu struct mvpp2_txq_pcpu *

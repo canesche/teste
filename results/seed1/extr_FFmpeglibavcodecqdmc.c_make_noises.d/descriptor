@@ -1,0 +1,2 @@
+struct TYPE_3__ | band_index unsigned long | noise_buffer float * 
+function make_noises void | s struct TYPE_3__ *

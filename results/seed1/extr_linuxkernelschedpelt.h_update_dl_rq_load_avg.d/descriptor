@@ -1,0 +1,2 @@
+struct rq | dummy int 
+function update_dl_rq_load_avg int | now int | rq struct rq * | running int

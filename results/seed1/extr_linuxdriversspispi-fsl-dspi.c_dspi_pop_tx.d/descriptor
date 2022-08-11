@@ -1,0 +1,2 @@
+struct fsl_dspi | bytes_per_word int | len int | tx long 
+function dspi_pop_tx int | dspi struct fsl_dspi *

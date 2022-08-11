@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 113,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversusbserialpl2303.c_pl2303_encode_baud_rate_divisor.d/extr_linuxdriversusbserialpl2303.c_pl2303_encode_baud_rate_divisor_O0::pl2303_encode_baud_rate_divisor(62)"
+  }
+]

@@ -1,0 +1,4 @@
+struct object_id | dummy int 
+struct TYPE_2__ | has_changes int 
+struct diff_options | flags struct TYPE_2__ 
+function file_change void | options struct diff_options * | old_mode unsigned int | new_mode unsigned int | old_oid const struct object_id * | new_oid const struct object_id * | old_oid_valid int | new_oid_valid int | fullpath const char * | old_dirty_submodule unsigned int | new_dirty_submodule unsigned int

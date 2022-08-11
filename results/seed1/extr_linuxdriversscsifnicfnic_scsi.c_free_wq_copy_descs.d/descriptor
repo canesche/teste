@@ -1,0 +1,4 @@
+struct TYPE_2__ | desc_count int | desc_avail int 
+struct vnic_wq_copy | to_clean_index int | ring struct TYPE_2__ 
+struct fnic | fw_ack_index int * | fw_ack_recd long * 
+function free_wq_copy_descs int | fnic struct fnic * | wq struct vnic_wq_copy *

@@ -1,0 +1,5 @@
+struct TYPE_4__ | width int | height int 
+struct TYPE_3__ | width int | height int 
+struct dc_plane_state | src_rect struct TYPE_4__ | dst_rect struct TYPE_3__ 
+struct dc_caps | dummy int 
+function dce110_validate_plane enum dc_status | plane_state const struct dc_plane_state * | caps struct dc_caps *

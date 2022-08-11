@@ -1,0 +1,4 @@
+struct TYPE_2__ | dma_private_data int | dma_ack int | dma_data_synth struct snd_gf1_dma_block * | dma_data_synth_last struct snd_gf1_dma_block * | dma_data_pcm struct snd_gf1_dma_block * | dma_data_pcm_last struct snd_gf1_dma_block * 
+struct snd_gus_card | gf1 struct TYPE_2__ 
+struct snd_gf1_dma_block | private_data int | ack int | next struct snd_gf1_dma_block * 
+function snd_gf1_dma_next_block struct snd_gf1_dma_block * | gus struct snd_gus_card *

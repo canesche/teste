@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 181,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetintelfm10kfm10k_common.c_fm10k_unbind_hw_stats_q.d/extr_linuxdriversnetethernetintelfm10kfm10k_common.c_fm10k_unbind_hw_stats_q_O0::fm10k_unbind_hw_stats_q(62)"
+  }
+]

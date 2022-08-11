@@ -1,0 +1,3 @@
+struct io | dummy int 
+struct bio | bi_private long 
+function retrieve_io_and_region_from_bio void | bio struct bio * | io struct io ** | region unsigned int *

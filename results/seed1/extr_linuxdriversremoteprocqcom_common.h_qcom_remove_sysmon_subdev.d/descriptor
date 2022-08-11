@@ -1,0 +1,2 @@
+struct qcom_sysmon | dummy int 
+function qcom_remove_sysmon_subdev void | sysmon struct qcom_sysmon *

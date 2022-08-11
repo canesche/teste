@@ -1,0 +1,2 @@
+struct he_stat | weight long | nr_events long | period_guest_us long | period_guest_sys long | period_us long | period_sys long | period long 
+function he_stat__add_stat void | dest struct he_stat * | src struct he_stat *

@@ -1,0 +1,2 @@
+struct mxs_gpio_port | devid long 
+function is_imx28_gpio int | port struct mxs_gpio_port *

@@ -1,0 +1,2 @@
+struct v4l2_subdev | dummy int 
+function m5mols_update_fw int | sd struct v4l2_subdev * | set_power int (*)(struct m5mols_info *, int)

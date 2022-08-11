@@ -1,0 +1,1 @@
+value(is_readonly) == 255, length(repo_id) == 65025, length(worktree) == 65025, length(path) == 65025, length(ignore_list) == 65025, length(fset) == 65025, length(scanned_dirs) == 65025, length(changeset) == 65025, length(istate) == 65025

@@ -1,0 +1,4 @@
+struct iwl_mvm | trans struct TYPE_4__ * 
+struct TYPE_4__ | cfg struct TYPE_3__ * 
+struct TYPE_3__ | use_tfh int 
+function iwl_mvm_has_new_tx_api int | mvm struct iwl_mvm *

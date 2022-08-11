@@ -1,0 +1,2 @@
+struct vpif_interface | if_type long 
+function vpif_get_default_field enum v4l2_field | iface struct vpif_interface *

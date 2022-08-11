@@ -1,0 +1,3 @@
+struct ni_private | clock_ns int 
+struct comedi_device | private struct ni_private * 
+function ni_timer_to_ns unsigned int | dev const struct comedi_device * | timer int

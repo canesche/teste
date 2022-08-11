@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_kphp-kdbtexttext-data.c_ltree_lookup_legacy.d/extr_kphp-kdbtexttext-data.c_ltree_lookup_legacy_O0::ltree_lookup_legacy(63)"
+  }
+]

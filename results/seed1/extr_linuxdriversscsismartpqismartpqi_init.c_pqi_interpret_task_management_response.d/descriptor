@@ -1,0 +1,2 @@
+struct pqi_task_management_response | response_code int 
+function pqi_interpret_task_management_response int | response struct pqi_task_management_response *

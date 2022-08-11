@@ -1,0 +1,4 @@
+struct pt_regs | pc unsigned int | sp unsigned long | tsr int 
+struct TYPE_3__ | usp unsigned long 
+struct TYPE_4__ | thread struct TYPE_3__ 
+function start_thread void | regs struct pt_regs * | pc unsigned int | usp unsigned long

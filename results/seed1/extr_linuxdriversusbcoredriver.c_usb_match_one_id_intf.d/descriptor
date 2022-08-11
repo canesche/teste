@@ -1,0 +1,6 @@
+struct TYPE_4__ | bInterfaceClass long | bInterfaceSubClass long | bInterfaceProtocol long | bInterfaceNumber long 
+struct usb_host_interface | desc struct TYPE_4__ 
+struct usb_device_id | match_flags int | bInterfaceClass long | bInterfaceSubClass long | bInterfaceProtocol long | bInterfaceNumber long 
+struct TYPE_3__ | bDeviceClass long 
+struct usb_device | descriptor struct TYPE_3__ 
+function usb_match_one_id_intf int | dev struct usb_device * | intf struct usb_host_interface * | id const struct usb_device_id *

@@ -1,0 +1,4 @@
+struct TYPE_4__ | length_ int 
+struct TYPE_5__ | org_xmlvm_runtime_XMLVMArray struct TYPE_4__ 
+struct TYPE_6__ | fields struct TYPE_5__ 
+function XMLVMArray_count int | array long

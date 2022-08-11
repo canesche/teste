@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxtoolsperfutilannotate.c_cmp_source_line.d/extr_linuxtoolsperfutilannotate.c_cmp_source_line_O0::cmp_source_line(63)"
+  }
+]

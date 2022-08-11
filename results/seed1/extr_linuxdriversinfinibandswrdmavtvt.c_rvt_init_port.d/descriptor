@@ -1,0 +1,3 @@
+struct rvt_ibport | pkey_table int * 
+struct rvt_dev_info | ports struct rvt_ibport ** 
+function rvt_init_port int | rdi struct rvt_dev_info * | port struct rvt_ibport * | port_index int | pkey_table int *

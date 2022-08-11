@@ -1,0 +1,4 @@
+struct sym_hcb | dummy int 
+struct sym_data | ncb struct sym_hcb * 
+struct Scsi_Host | hostdata long 
+function sym_get_hcb struct sym_hcb * | host struct Scsi_Host *

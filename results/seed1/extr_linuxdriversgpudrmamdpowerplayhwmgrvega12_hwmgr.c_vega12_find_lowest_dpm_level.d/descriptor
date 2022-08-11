@@ -1,0 +1,3 @@
+struct vega12_single_dpm_table | count unsigned long | dpm_levels struct TYPE_2__ * 
+struct TYPE_2__ | enabled int 
+function vega12_find_lowest_dpm_level unsigned long | table struct vega12_single_dpm_table *

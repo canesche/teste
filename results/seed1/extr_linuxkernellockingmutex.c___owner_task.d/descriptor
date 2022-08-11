@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function __owner_task struct task_struct * | owner unsigned long

@@ -1,0 +1,3 @@
+struct adapter | HalData struct TYPE_2__ * 
+struct TYPE_2__ | UsbBulkOutSize int 
+function urb_zero_packet_chk int | adapt struct adapter * | sz int

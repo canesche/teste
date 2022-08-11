@@ -1,0 +1,2 @@
+struct TYPE_3__ | saveAlphaFlag int 
+function gdImageSaveAlpha void | im struct TYPE_3__ * | saveAlphaArg int

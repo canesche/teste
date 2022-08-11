@@ -1,0 +1,2 @@
+struct mb86a16_state | master_clk int 
+function swp_info_get2 void | state struct mb86a16_state * | smrt int | R int | swp_freq int | afcex_freq int * | fOSC int * | AFCEX_L unsigned char * | AFCEX_H unsigned char *

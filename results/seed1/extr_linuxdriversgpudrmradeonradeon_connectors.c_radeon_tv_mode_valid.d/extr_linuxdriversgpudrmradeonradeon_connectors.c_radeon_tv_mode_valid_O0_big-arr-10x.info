@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmradeonradeon_connectors.c_radeon_tv_mode_valid.d/extr_linuxdriversgpudrmradeonradeon_connectors.c_radeon_tv_mode_valid_O0::radeon_tv_mode_valid(66)"
+  }
+]

@@ -1,0 +1,5 @@
+struct ogg_stream | pflags int | private struct TYPE_4__ * 
+struct ogg | streams struct ogg_stream * 
+struct TYPE_4__ | gpshift int | gpmask int | version int 
+struct TYPE_5__ | priv_data struct ogg * 
+function theora_gptopts int | ctx struct TYPE_5__ * | idx int | gp int | dts int *

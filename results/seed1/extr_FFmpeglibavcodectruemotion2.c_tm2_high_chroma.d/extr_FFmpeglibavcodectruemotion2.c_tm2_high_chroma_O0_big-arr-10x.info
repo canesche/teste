@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 162,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_FFmpeglibavcodectruemotion2.c_tm2_high_chroma.d/extr_FFmpeglibavcodectruemotion2.c_tm2_high_chroma_O0::tm2_high_chroma(60)"
+  }
+]

@@ -1,0 +1,1 @@
+value(in_x) == 255, value(out_x) == 255, value(flip_lr) == 255, length(hps_ctrl) == 65025, length(hps_v_gain) == 65025, length(hps_h_prescale) == 65025, length(hps_h_scale) == 65025, length(dev) == 65025

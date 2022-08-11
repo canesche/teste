@@ -1,0 +1,2 @@
+struct irq_data | irq int 
+function intc_irq_mask void | d struct irq_data *

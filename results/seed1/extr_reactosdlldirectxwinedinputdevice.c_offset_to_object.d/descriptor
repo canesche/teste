@@ -1,0 +1,3 @@
+struct TYPE_5__ | offsets int * | wine_df struct TYPE_4__ * 
+struct TYPE_4__ | dwNumObjs int 
+function offset_to_object int | df const struct TYPE_5__ * | offset int

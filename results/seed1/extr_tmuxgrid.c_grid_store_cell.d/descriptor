@@ -1,0 +1,4 @@
+struct TYPE_2__ | fg int | bg int | data int | attr int 
+struct grid_cell_entry | flags int | data struct TYPE_2__ 
+struct grid_cell | flags int | fg int | bg int | attr int 
+function grid_store_cell void | gce struct grid_cell_entry * | gc const struct grid_cell * | c int

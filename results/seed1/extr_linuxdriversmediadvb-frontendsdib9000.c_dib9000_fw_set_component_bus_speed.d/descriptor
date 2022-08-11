@@ -1,0 +1,3 @@
+struct dvb_frontend | demodulator_priv struct dib9000_state * 
+struct dib9000_state | component_bus_speed int 
+function dib9000_fw_set_component_bus_speed int | fe struct dvb_frontend * | speed int

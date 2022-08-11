@@ -1,0 +1,3 @@
+struct commit | parents struct TYPE_2__ * 
+struct TYPE_2__ | next long 
+function is_a_merge int | current_head const struct commit *

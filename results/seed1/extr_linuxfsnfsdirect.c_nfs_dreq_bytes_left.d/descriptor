@@ -1,0 +1,2 @@
+struct nfs_direct_req | bytes_left int 
+function nfs_dreq_bytes_left int | dreq struct nfs_direct_req *

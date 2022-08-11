@@ -1,0 +1,5 @@
+struct TYPE_3__ | max_port_number int 
+struct tb_switch | ports struct tb_port * | config struct TYPE_3__ 
+struct TYPE_4__ | type long 
+struct tb_port | config struct TYPE_4__ 
+function tb_find_pci_up_port struct tb_port * | sw struct tb_switch *

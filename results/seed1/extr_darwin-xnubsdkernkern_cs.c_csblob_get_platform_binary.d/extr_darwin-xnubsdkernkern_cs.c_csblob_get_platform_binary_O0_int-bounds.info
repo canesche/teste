@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_darwin-xnubsdkernkern_cs.c_csblob_get_platform_binary.d/extr_darwin-xnubsdkernkern_cs.c_csblob_get_platform_binary_O0::csblob_get_platform_binary(62)"
+  }
+]

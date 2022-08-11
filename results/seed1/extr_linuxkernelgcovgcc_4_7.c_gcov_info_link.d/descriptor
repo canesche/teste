@@ -1,0 +1,2 @@
+struct gcov_info | next struct gcov_info * 
+function gcov_info_link void | info struct gcov_info *

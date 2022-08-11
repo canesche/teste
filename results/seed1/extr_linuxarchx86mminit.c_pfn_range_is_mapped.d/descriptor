@@ -1,0 +1,2 @@
+struct TYPE_2__ | start unsigned long | end unsigned long 
+function pfn_range_is_mapped int | start_pfn unsigned long | end_pfn unsigned long

@@ -1,0 +1,2 @@
+struct ieee80211_network | capability short 
+function ieee80211_is_shortslot short | net const struct ieee80211_network *

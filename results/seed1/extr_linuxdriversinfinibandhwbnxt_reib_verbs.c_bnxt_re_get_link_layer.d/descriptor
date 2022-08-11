@@ -1,0 +1,2 @@
+struct ib_device | dummy int 
+function bnxt_re_get_link_layer enum rdma_link_layer | ibdev struct ib_device * | port_num int

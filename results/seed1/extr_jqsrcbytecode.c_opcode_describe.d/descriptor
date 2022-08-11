@@ -1,0 +1,2 @@
+struct opcode_description | dummy int 
+function opcode_describe const struct opcode_description * | op unsigned long

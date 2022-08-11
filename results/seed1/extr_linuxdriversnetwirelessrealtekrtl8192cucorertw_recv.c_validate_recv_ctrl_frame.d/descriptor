@@ -1,0 +1,2 @@
+struct recv_frame | dummy int 
+function validate_recv_ctrl_frame int | padapter int * | precv_frame union recv_frame *

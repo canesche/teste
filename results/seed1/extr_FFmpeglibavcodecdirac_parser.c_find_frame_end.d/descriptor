@@ -1,0 +1,2 @@
+struct TYPE_3__ | state int | is_synced int | header_bytes_needed int | sync_offset int 
+function find_frame_end int | pc struct TYPE_3__ * | buf const int * | buf_size int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | zeroth_band unsigned long | bands unsigned long * | next_band long 
+function shadow_map_mapped_band long | map struct TYPE_3__ * | band unsigned long | map_it long | mapped_band unsigned long *

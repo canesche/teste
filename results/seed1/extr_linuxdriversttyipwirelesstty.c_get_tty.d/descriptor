@@ -1,0 +1,2 @@
+struct ipw_tty | dummy int 
+function get_tty struct ipw_tty * | index int

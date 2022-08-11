@@ -1,0 +1,2 @@
+struct tipc_link | tolerance unsigned long 
+function tipc_link_tolerance unsigned long | l struct tipc_link *

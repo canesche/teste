@@ -1,0 +1,2 @@
+struct device_node | dummy int 
+function __of_detach_node_sysfs void | np struct device_node *

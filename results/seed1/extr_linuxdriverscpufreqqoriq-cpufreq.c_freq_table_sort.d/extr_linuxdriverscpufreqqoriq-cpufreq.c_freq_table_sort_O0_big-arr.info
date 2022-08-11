@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 589292,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriverscpufreqqoriq-cpufreq.c_freq_table_sort.d/extr_linuxdriverscpufreqqoriq-cpufreq.c_freq_table_sort_O0::freq_table_sort(63)"
+  }
+]

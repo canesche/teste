@@ -1,0 +1,4 @@
+struct vgic_cpu | lpis_enabled long 
+struct TYPE_2__ | vgic_cpu struct vgic_cpu 
+struct kvm_vcpu | arch struct TYPE_2__ 
+function vgic_mmio_read_v3r_ctlr unsigned long | vcpu struct kvm_vcpu * | addr int | len unsigned int

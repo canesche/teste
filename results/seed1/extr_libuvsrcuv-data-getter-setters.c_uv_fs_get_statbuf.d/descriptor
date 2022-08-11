@@ -1,0 +1,2 @@
+struct TYPE_3__ | statbuf int 
+function uv_fs_get_statbuf int * | req struct TYPE_3__ *

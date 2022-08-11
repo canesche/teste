@@ -1,0 +1,3 @@
+struct vm_area_struct | vm_mm long 
+struct TYPE_2__ | mm long 
+function vma_is_foreign int | vma struct vm_area_struct *

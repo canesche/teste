@@ -1,0 +1,3 @@
+struct task_struct | dummy int 
+struct rq | dummy int 
+function dequeue_pushable_dl_task void | rq struct rq * | p struct task_struct *

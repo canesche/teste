@@ -1,0 +1,1 @@
+function synthesis_filter void | in const float * | filter_coeffs const float * | memory float * | buffer_length int | samples float *

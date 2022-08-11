@@ -1,0 +1,2 @@
+struct TYPE_3__ | pageno int 
+function sqliterkPageGetPageno int | page struct TYPE_3__ *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 266,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_The-Art-Of-Programming-By-Julyebookcodec10.1.3：教你一步一步用c语言实现sift算法、下.c_normalizeVec.d/extr_The-Art-Of-Programming-By-Julyebookcodec10.1.3：教你一步一步用c语言实现sift算法、下.c_normalizeVec_O0::normalizeVec(60)"
+  }
+]

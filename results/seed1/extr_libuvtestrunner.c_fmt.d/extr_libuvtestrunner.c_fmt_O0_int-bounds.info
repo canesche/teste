@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 16,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 25,
+    static: {
+      instructions: 88,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 197,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_libuvtestrunner.c_fmt.d/extr_libuvtestrunner.c_fmt_O0::fmt(59)"
+  }
+]

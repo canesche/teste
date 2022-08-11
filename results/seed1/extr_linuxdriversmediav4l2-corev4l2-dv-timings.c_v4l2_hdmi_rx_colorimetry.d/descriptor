@@ -1,0 +1,4 @@
+struct v4l2_hdmi_colorimetry | xfer_func void * | ycbcr_enc void * | colorspace void * | quantization void * | member_3 void * | member_2 int | member_1 int | member_0 void * 
+struct hdmi_vendor_infoframe | vic long 
+struct hdmi_avi_infoframe | video_code int | colorspace int | extended_colorimetry int | colorimetry int | quantization_range int 
+function v4l2_hdmi_rx_colorimetry struct v4l2_hdmi_colorimetry | avi const struct hdmi_avi_infoframe * | hdmi const struct hdmi_vendor_infoframe * | height unsigned int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_kphp-kdbsearchsearch-common.h_searchy_is_term.d/extr_kphp-kdbsearchsearch-common.h_searchy_is_term_O0::searchy_is_term(60)"
+  }
+]

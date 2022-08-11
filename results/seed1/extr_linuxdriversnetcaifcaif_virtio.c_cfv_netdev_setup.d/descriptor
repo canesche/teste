@@ -1,0 +1,2 @@
+struct net_device | tx_queue_len int | flags int | needs_free_netdev int | mtu int | type int | netdev_ops int * 
+function cfv_netdev_setup void | netdev struct net_device *

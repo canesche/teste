@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxnetllcllc_conn.c_llc_data_accept_state.d/extr_linuxnetllcllc_conn.c_llc_data_accept_state_O0::llc_data_accept_state(64)"
+  }
+]

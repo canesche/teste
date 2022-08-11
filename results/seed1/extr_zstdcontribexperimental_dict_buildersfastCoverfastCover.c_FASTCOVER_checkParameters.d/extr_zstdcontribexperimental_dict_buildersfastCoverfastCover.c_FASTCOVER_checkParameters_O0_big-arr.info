@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_zstdcontribexperimental_dict_buildersfastCoverfastCover.c_FASTCOVER_checkParameters.d/extr_zstdcontribexperimental_dict_buildersfastCoverfastCover.c_FASTCOVER_checkParameters_O0::FASTCOVER_checkParameters(64)"
+  }
+]

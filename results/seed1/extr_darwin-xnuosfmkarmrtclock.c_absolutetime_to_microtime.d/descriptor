@@ -1,0 +1,1 @@
+function absolutetime_to_microtime void | abstime int | secs int * | microsecs long *

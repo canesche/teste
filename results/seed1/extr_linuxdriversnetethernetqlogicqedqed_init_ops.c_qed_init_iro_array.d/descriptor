@@ -1,0 +1,2 @@
+struct qed_dev | iro_arr int 
+function qed_init_iro_array void | cdev struct qed_dev *

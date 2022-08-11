@@ -1,0 +1,3 @@
+struct TYPE_3__ | speed int 
+struct TYPE_4__ | gadget struct TYPE_3__ 
+function _connect int | pcd int * | speed int

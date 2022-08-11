@@ -1,0 +1,4 @@
+struct TYPE_2__ | cpu_pstate_separation_time long | cpu_cc6_disable int | cpu_pstate_disable int | nb_pstate_switch_disable int | cc6_setting_changed int 
+struct smu8_hwmgr | cc6_settings struct TYPE_2__ 
+struct pp_hwmgr | backend struct smu8_hwmgr * 
+function smu8_store_cc6_data int | hwmgr struct pp_hwmgr * | separation_time long | cc6_disable int | pstate_disable int | pstate_switch_disable int

@@ -1,0 +1,3 @@
+struct TYPE_5__ | num_value unsigned long | values struct TYPE_4__ ** 
+struct TYPE_4__ | Str char * 
+function GetStrValue char * | e struct TYPE_5__ * | index unsigned long

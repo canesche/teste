@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriverscryptoccreecc_aead.c_format_ccm_a0.d/extr_linuxdriverscryptoccreecc_aead.c_format_ccm_a0_O0::format_ccm_a0(62)"
+  }
+]

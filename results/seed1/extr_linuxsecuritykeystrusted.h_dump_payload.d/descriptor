@@ -1,0 +1,2 @@
+struct trusted_key_payload | dummy int 
+function dump_payload void | p struct trusted_key_payload *

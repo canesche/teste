@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_h2ot00unitlibhttp2........libhttp2casper.c_h2o_http2_casper_num_entries.d/extr_h2ot00unitlibhttp2........libhttp2casper.c_h2o_http2_casper_num_entries_O0::h2o_http2_casper_num_entries(65)"
+  }
+]

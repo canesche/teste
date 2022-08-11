@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_labenginecoderenderercommontr_image_png.c_BufferedFileRead.d/extr_labenginecoderenderercommontr_image_png.c_BufferedFileRead_O0::BufferedFileRead(61)"
+  }
+]

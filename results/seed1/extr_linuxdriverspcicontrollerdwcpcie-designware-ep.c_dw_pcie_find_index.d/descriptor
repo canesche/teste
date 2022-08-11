@@ -1,0 +1,2 @@
+struct dw_pcie_ep | num_ob_windows unsigned long | outbound_addr long * 
+function dw_pcie_find_index int | ep struct dw_pcie_ep * | addr long | atu_index unsigned long *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | nb_index_entries int | index_entries struct TYPE_4__ * 
+struct TYPE_4__ | pos int 
+function reset_index_position void | metadata_head_size long | st struct TYPE_5__ *

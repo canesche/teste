@@ -1,0 +1,2 @@
+struct hid_usage | dummy int 
+function match_index int | usage struct hid_usage * | cur_idx unsigned int | idx unsigned int

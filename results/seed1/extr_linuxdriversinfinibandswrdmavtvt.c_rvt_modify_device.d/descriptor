@@ -1,0 +1,3 @@
+struct ib_device_modify | dummy int 
+struct ib_device | dummy int 
+function rvt_modify_device int | device struct ib_device * | device_modify_mask int | device_modify struct ib_device_modify *

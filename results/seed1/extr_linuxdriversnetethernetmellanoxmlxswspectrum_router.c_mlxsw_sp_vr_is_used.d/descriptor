@@ -1,0 +1,2 @@
+struct mlxsw_sp_vr | mr_table int * | fib6 int | fib4 int 
+function mlxsw_sp_vr_is_used int | vr const struct mlxsw_sp_vr *

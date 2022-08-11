@@ -1,0 +1,2 @@
+struct radeonfb_info | dummy int 
+function radeon_fixup_panel_info void | rinfo struct radeonfb_info *

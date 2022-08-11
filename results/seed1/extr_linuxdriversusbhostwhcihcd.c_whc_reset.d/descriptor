@@ -1,0 +1,2 @@
+struct usb_hcd | dummy int 
+function whc_reset int | usb_hcd struct usb_hcd *

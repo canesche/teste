@@ -1,0 +1,3 @@
+struct TYPE_3__ | v int * | hashnext struct TYPE_3__ * 
+struct TYPE_4__ | edges struct TYPE_3__ * | edgehash struct TYPE_3__ ** 
+function TH_FindEdge int | v1 int | v2 int

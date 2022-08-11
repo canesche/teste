@@ -1,0 +1,2 @@
+struct TYPE_3__ | buffer_start long | buffer_end long 
+function set_buffer_end int | array struct TYPE_3__ * | number long

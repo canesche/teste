@@ -1,0 +1,3 @@
+struct ssb_device | dummy int 
+struct ssb_bus | dummy int 
+function ssb_pci_switch_core int | bus struct ssb_bus * | dev struct ssb_device *

@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function sprd_pmic_eic_set void | chip struct gpio_chip * | offset unsigned int | value int

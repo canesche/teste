@@ -1,0 +1,3 @@
+struct ixgbevf_ring_container | total_bytes int | total_packets int | itr int 
+struct ixgbevf_q_vector | itr int 
+function ixgbevf_update_itr void | q_vector struct ixgbevf_q_vector * | ring_container struct ixgbevf_ring_container *

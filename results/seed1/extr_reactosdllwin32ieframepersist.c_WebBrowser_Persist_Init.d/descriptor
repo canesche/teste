@@ -1,0 +1,5 @@
+struct TYPE_8__ | lpVtbl int * 
+struct TYPE_7__ | lpVtbl int * 
+struct TYPE_6__ | lpVtbl int * 
+struct TYPE_9__ | IPersistStreamInit_iface struct TYPE_8__ | IPersistMemory_iface struct TYPE_7__ | IPersistStorage_iface struct TYPE_6__ 
+function WebBrowser_Persist_Init void | This struct TYPE_9__ *

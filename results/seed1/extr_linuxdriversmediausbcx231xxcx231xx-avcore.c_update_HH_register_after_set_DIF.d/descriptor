@@ -1,0 +1,2 @@
+struct cx231xx | dummy int 
+function update_HH_register_after_set_DIF void | dev struct cx231xx *

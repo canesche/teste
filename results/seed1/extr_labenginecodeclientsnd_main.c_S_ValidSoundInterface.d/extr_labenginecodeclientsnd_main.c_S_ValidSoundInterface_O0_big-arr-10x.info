@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 21,
+    phantoms: 20,
+    exit: true,
+    halt: false,
+    edges: 42,
+    static: {
+      instructions: 68,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 68,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_labenginecodeclientsnd_main.c_S_ValidSoundInterface.d/extr_labenginecodeclientsnd_main.c_S_ValidSoundInterface_O0::S_ValidSoundInterface(66)"
+  }
+]

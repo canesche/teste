@@ -1,0 +1,3 @@
+struct vmw_piter | i unsigned long | pages struct page ** 
+struct page | dummy int 
+function __vmw_piter_non_sg_page struct page * | viter struct vmw_piter *

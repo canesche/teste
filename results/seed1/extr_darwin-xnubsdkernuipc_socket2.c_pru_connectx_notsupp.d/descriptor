@@ -1,0 +1,5 @@
+struct uio | dummy int 
+struct socket | dummy int 
+struct sockaddr | dummy int 
+struct proc | dummy int 
+function pru_connectx_notsupp int | so struct socket * | src struct sockaddr * | dst struct sockaddr * | p struct proc * | ifscope int | aid int | pcid int * | flags int | arg void * | arglen int | uio struct uio * | bytes_written int *

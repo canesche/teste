@@ -1,0 +1,2 @@
+struct optimistic_spin_node | cpu int 
+function node_cpu int | node struct optimistic_spin_node *

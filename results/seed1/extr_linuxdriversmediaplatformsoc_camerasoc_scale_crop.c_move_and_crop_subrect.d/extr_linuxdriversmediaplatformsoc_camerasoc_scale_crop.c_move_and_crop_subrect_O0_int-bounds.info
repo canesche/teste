@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediaplatformsoc_camerasoc_scale_crop.c_move_and_crop_subrect.d/extr_linuxdriversmediaplatformsoc_camerasoc_scale_crop.c_move_and_crop_subrect_O0::move_and_crop_subrect(62)"
+  }
+]

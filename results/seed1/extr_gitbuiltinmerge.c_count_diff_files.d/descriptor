@@ -1,0 +1,3 @@
+struct diff_queue_struct | nr long 
+struct diff_options | dummy int 
+function count_diff_files void | q struct diff_queue_struct * | opt struct diff_options * | data void *

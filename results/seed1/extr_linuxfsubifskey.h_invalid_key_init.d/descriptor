@@ -1,0 +1,3 @@
+struct ubifs_key | u32 int * 
+struct ubifs_info | dummy int 
+function invalid_key_init void | c const struct ubifs_info * | key union ubifs_key *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_gitsha1dcsha1.c_SHA1DCSetDetectReducedRoundCollision.d/extr_gitsha1dcsha1.c_SHA1DCSetDetectReducedRoundCollision_O0::SHA1DCSetDetectReducedRoundCollision(63)"
+  }
+]

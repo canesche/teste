@@ -1,0 +1,3 @@
+struct pci_dev | devfn long | class int | resource struct TYPE_2__ * 
+struct TYPE_2__ | flags long | end long | start long 
+function pci_fixup_dec21285 void | dev struct pci_dev *

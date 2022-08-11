@@ -1,0 +1,3 @@
+struct property | dummy int 
+struct device_node | dummy int 
+function __of_add_property_sysfs int | np struct device_node * | pp struct property *

@@ -1,0 +1,5 @@
+struct rockchip_pinctrl | ctrl struct rockchip_pin_ctrl * 
+struct rockchip_pin_ctrl | niomux_recalced int | iomux_recalced struct rockchip_mux_recalced_data * 
+struct rockchip_pin_bank | bank_num long | drvdata struct rockchip_pinctrl * 
+struct rockchip_mux_recalced_data | num long | pin int | reg int | mask int | bit int 
+function rockchip_get_recalced_mux void | bank struct rockchip_pin_bank * | pin int | reg int * | bit int * | mask int *

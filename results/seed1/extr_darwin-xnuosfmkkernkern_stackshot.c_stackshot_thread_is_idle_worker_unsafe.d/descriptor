@@ -1,0 +1,2 @@
+struct TYPE_3__ | state int | block_hint long 
+function stackshot_thread_is_idle_worker_unsafe int | thread struct TYPE_3__ *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | expected_btypes int 
+struct acpi_predefined_info | info struct TYPE_2__ 
+function acpi_ut_get_next_predefined_method const union acpi_predefined_info * | this_name const union acpi_predefined_info *

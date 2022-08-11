@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 54,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 54,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediapcibt8xxdvb-bt8xx.c_thomson_dtt7579_tuner_calc_regs.d/extr_linuxdriversmediapcibt8xxdvb-bt8xx.c_thomson_dtt7579_tuner_calc_regs_O0::thomson_dtt7579_tuner_calc_regs(66)"
+  }
+]

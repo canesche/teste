@@ -1,0 +1,1 @@
+function kmem_cache_sanity_check int | name const char * | size unsigned int

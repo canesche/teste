@@ -1,0 +1,2 @@
+struct snd_pcm_substream | dummy int 
+function snd_atiixp_capture_prepare int | substream struct snd_pcm_substream *

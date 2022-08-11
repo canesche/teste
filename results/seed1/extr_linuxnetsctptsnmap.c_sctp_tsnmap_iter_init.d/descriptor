@@ -1,0 +1,3 @@
+struct sctp_tsnmap_iter | start long 
+struct sctp_tsnmap | cumulative_tsn_ack_point long 
+function sctp_tsnmap_iter_init void | map const struct sctp_tsnmap * | iter struct sctp_tsnmap_iter *

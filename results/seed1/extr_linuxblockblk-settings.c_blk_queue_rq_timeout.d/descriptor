@@ -1,0 +1,2 @@
+struct request_queue | rq_timeout unsigned int 
+function blk_queue_rq_timeout void | q struct request_queue * | timeout unsigned int

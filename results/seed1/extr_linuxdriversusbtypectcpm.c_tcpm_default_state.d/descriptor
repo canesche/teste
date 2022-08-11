@@ -1,0 +1,4 @@
+struct tcpm_port | port_type long | try_role long | tcpc struct TYPE_4__ * 
+struct TYPE_4__ | config struct TYPE_3__ * 
+struct TYPE_3__ | default_role long 
+function tcpm_default_state enum tcpm_state | port struct tcpm_port *

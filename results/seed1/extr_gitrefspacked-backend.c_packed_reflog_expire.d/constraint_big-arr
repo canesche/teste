@@ -1,0 +1,1 @@
+value(flags) == 255, value(prepare_fn) == 255, value(should_prune_fn) == 255, value(cleanup_fn) == 255, length(refname) == 65025, length(policy_cb_data) == 65025, length(ref_store) == 65025, length(oid) == 65025

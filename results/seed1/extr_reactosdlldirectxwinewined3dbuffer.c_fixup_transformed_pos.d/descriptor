@@ -1,0 +1,2 @@
+struct wined3d_vec4 | w float | x float | y float | z float 
+function fixup_transformed_pos unsigned int | p struct wined3d_vec4 *

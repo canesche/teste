@@ -1,0 +1,2 @@
+struct be_adapter | if_flags int 
+function be_in_all_promisc int | adapter struct be_adapter *

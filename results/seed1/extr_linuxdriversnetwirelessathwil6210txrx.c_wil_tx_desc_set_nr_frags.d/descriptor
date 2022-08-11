@@ -1,0 +1,3 @@
+struct TYPE_2__ | d int * 
+struct vring_tx_desc | mac struct TYPE_2__ 
+function wil_tx_desc_set_nr_frags void | d struct vring_tx_desc * | nr_frags int

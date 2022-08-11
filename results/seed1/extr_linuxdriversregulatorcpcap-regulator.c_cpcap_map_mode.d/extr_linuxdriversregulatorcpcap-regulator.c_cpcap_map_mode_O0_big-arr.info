@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversregulatorcpcap-regulator.c_cpcap_map_mode.d/extr_linuxdriversregulatorcpcap-regulator.c_cpcap_map_mode_O0::cpcap_map_mode(65)"
+  }
+]

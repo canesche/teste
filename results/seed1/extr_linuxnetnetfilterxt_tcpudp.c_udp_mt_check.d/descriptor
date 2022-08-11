@@ -1,0 +1,3 @@
+struct xt_udp | invflags int 
+struct xt_mtchk_param | matchinfo struct xt_udp * 
+function udp_mt_check int | par const struct xt_mtchk_param *

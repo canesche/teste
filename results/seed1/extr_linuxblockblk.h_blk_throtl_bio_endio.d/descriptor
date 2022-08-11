@@ -1,0 +1,2 @@
+struct bio | dummy int 
+function blk_throtl_bio_endio void | bio struct bio *

@@ -1,0 +1,3 @@
+struct ipw_tty | dummy int 
+struct ipw_network | associated_ttys struct ipw_tty *** 
+function ipwireless_associate_network_tty void | network struct ipw_network * | channel_idx unsigned int | tty struct ipw_tty *

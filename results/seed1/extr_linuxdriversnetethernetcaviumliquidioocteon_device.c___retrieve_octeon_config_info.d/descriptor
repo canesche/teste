@@ -1,0 +1,3 @@
+struct octeon_device | octeon_id unsigned long | chip_id int 
+struct TYPE_2__ | conf_type int 
+function __retrieve_octeon_config_info void * | oct struct octeon_device * | card_type int

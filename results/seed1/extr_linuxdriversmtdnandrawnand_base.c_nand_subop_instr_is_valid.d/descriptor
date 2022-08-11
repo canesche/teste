@@ -1,0 +1,2 @@
+struct nand_subop | ninstrs unsigned int 
+function nand_subop_instr_is_valid int | subop const struct nand_subop * | instr_idx unsigned int

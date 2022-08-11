@@ -1,0 +1,4 @@
+struct acpi_processor_tx_tss | control int 
+struct TYPE_2__ | state_count int | states_tss int * 
+struct acpi_processor | throttling struct TYPE_2__ 
+function acpi_get_throttling_value int | pr struct acpi_processor * | state int | value int *

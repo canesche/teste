@@ -1,0 +1,2 @@
+struct TYPE_3__ | id int | drive_l int | priority int | prev struct TYPE_3__ * | next struct TYPE_3__ * | l int * 
+function temp_letter_init void | head_letter struct TYPE_3__ *

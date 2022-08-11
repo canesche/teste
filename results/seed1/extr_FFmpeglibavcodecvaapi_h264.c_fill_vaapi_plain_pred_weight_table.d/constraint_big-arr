@@ -1,0 +1,1 @@
+value(list) == 255, length(luma_weight_flag) == 65025, length(luma_weight) == 65025, length(luma_offset) == 65025, length(chroma_weight_flag) == 65025, length(chroma_weight) == 65025, length(chroma_offset) == 65025, length(h) == 65025

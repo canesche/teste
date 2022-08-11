@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetmellanoxmlxswswitchx2.c_mlxsw_sx_from_ptys_advert_link.d/extr_linuxdriversnetethernetmellanoxmlxswswitchx2.c_mlxsw_sx_from_ptys_advert_link_O0::mlxsw_sx_from_ptys_advert_link(65)"
+  }
+]

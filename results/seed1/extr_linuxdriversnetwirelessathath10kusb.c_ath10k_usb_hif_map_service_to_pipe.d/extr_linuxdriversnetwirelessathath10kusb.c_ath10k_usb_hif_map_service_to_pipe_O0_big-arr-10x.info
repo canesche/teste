@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetwirelessathath10kusb.c_ath10k_usb_hif_map_service_to_pipe.d/extr_linuxdriversnetwirelessathath10kusb.c_ath10k_usb_hif_map_service_to_pipe_O0::ath10k_usb_hif_map_service_to_pipe(71)"
+  }
+]

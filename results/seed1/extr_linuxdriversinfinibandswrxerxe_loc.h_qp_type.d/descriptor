@@ -1,0 +1,3 @@
+struct TYPE_2__ | qp_type int 
+struct rxe_qp | ibqp struct TYPE_2__ 
+function qp_type enum ib_qp_type | qp struct rxe_qp *

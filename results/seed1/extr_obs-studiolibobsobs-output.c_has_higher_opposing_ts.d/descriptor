@@ -1,0 +1,3 @@
+struct obs_output | highest_audio_ts long | highest_video_ts long 
+struct encoder_packet | type long | dts_usec long 
+function has_higher_opposing_ts int | output struct obs_output * | packet struct encoder_packet *

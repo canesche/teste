@@ -1,0 +1,4 @@
+struct TYPE_7__ | flags int | parent struct TYPE_7__ * | watch struct TYPE_6__ * 
+struct TYPE_5__ | ptr void * 
+struct TYPE_6__ | addr struct TYPE_5__ 
+function phpdbg_is_recursively_watched int | ptr void * | element struct TYPE_7__ *

@@ -1,0 +1,3 @@
+struct snd_pcm | private_data long 
+struct rme32 | adat_pcm int * 
+function snd_rme32_free_adat_pcm void | pcm struct snd_pcm *

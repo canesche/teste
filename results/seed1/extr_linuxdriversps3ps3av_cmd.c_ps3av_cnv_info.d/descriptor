@@ -1,0 +1,6 @@
+struct ps3av_pkt_audio_mode | audio_downmix_level int | audio_downmix int | audio_layout int | audio_num_of_ch long 
+struct TYPE_5__ | lsv int | dm int 
+struct TYPE_4__ | ss long | sf long 
+struct TYPE_6__ | ct long | cc long 
+struct ps3av_audio_info_frame | pb5 struct TYPE_5__ | pb4 int | pb3 long | pb2 struct TYPE_4__ | pb1 struct TYPE_6__ 
+function ps3av_cnv_info void | info struct ps3av_audio_info_frame * | mode const struct ps3av_pkt_audio_mode *

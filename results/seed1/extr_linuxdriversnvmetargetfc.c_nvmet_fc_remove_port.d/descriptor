@@ -1,0 +1,2 @@
+struct nvmet_port | dummy int 
+function nvmet_fc_remove_port void | port struct nvmet_port *

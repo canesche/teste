@@ -1,0 +1,2 @@
+struct mac_device_info | dummy int 
+function dwmac100_rx_ipc_enable int | hw struct mac_device_info *

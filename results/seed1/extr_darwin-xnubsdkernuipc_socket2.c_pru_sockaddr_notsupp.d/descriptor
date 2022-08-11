@@ -1,0 +1,3 @@
+struct socket | dummy int 
+struct sockaddr | dummy int 
+function pru_sockaddr_notsupp int | so struct socket * | nam struct sockaddr **

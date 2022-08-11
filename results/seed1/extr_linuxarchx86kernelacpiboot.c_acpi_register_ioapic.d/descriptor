@@ -1,0 +1,1 @@
+function acpi_register_ioapic int | handle int | phys_addr int | gsi_base int

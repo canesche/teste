@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxsoundisasc6000.c_sc6000_dma_to_softcfg.d/extr_linuxsoundisasc6000.c_sc6000_dma_to_softcfg_O0::sc6000_dma_to_softcfg(60)"
+  }
+]

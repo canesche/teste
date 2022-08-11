@@ -1,0 +1,2 @@
+struct bcm_device | dummy int 
+function bcm_acpi_probe int | dev struct bcm_device *

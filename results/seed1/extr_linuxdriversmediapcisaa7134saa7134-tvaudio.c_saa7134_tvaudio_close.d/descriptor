@@ -1,0 +1,2 @@
+struct saa7134_dev | automute int 
+function saa7134_tvaudio_close int | dev struct saa7134_dev *

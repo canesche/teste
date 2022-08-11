@@ -1,0 +1,3 @@
+struct firmware | dummy int 
+struct cyapa | dummy int 
+function cyapa_gen3_bl_initiate int | cyapa struct cyapa * | fw const struct firmware *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | lumps struct TYPE_4__ * 
+struct TYPE_4__ | offset int 
+function GetLump void * | header struct TYPE_5__ * | lump int

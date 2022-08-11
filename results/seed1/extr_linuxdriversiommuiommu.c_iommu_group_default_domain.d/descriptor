@@ -1,0 +1,3 @@
+struct iommu_group | default_domain struct iommu_domain * 
+struct iommu_domain | dummy int 
+function iommu_group_default_domain struct iommu_domain * | group struct iommu_group *

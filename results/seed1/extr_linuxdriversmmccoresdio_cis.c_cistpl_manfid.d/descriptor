@@ -1,0 +1,4 @@
+struct sdio_func | vendor unsigned int | device unsigned int 
+struct TYPE_2__ | vendor unsigned int | device unsigned int 
+struct mmc_card | cis struct TYPE_2__ 
+function cistpl_manfid int | card struct mmc_card * | func struct sdio_func * | buf const unsigned char * | size unsigned int

@@ -1,0 +1,4 @@
+struct TYPE_7__ | ch struct TYPE_5__ * | is_mask long * | ms_mask int * | common_window int 
+struct TYPE_6__ | num_windows int | group_len int * | num_swb int | swb_sizes int * 
+struct TYPE_5__ | band_type long * | coeffs float * | ics struct TYPE_6__ 
+function apply_mid_side_stereo void | cpe struct TYPE_7__ *

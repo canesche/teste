@@ -1,0 +1,2 @@
+struct sky2_hw | flags int 
+function sky2_rx_pad unsigned int | hw const struct sky2_hw *

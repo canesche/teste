@@ -1,0 +1,2 @@
+struct notifier_block | dummy int 
+function hungtask_pm_notify int | self struct notifier_block * | action unsigned long | hcpu void *

@@ -1,0 +1,4 @@
+struct TYPE_4__ | did int 
+struct TYPE_3__ | did int 
+struct msr_pstate | val int | bits struct TYPE_4__ | fam17h_bits struct TYPE_3__ 
+function get_did int | family int | pstate union msr_pstate

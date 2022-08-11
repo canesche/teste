@@ -1,0 +1,3 @@
+struct TYPE_4__ | ApicId long 
+struct TYPE_3__ | IrqType unsigned long | DstApicId long | DstApicInt unsigned long 
+function IOAPICGetIrqEntry unsigned long | apic unsigned long | pin unsigned long | type unsigned long

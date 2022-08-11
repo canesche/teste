@@ -1,0 +1,5 @@
+struct Program | nb_pids int | pids unsigned int * | id long 
+struct TYPE_7__ | nb_prg int | stream struct TYPE_6__ * | prg struct Program * 
+struct TYPE_6__ | nb_programs int | programs struct TYPE_5__ ** 
+struct TYPE_5__ | discard long | id long 
+function discard_pid int | ts struct TYPE_7__ * | pid unsigned int

@@ -1,0 +1,1 @@
+value(is_tse) == 255, value(total_hdr_len) == 255, value(tcp_hdr_len) == 255, value(tcp_payload_len) == 255, length(p) == 65025

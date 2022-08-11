@@ -1,0 +1,5 @@
+struct amd64_pvt | ranges struct TYPE_5__ * 
+struct TYPE_6__ | x86 int 
+struct TYPE_4__ | hi long | lo long 
+struct TYPE_5__ | lim struct TYPE_4__ 
+function get_dram_limit int | pvt struct amd64_pvt * | i unsigned long

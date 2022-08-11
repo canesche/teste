@@ -1,0 +1,1 @@
+function h2o_hpack_validate_header_value void | s const char * | len unsigned long | err_desc const char **

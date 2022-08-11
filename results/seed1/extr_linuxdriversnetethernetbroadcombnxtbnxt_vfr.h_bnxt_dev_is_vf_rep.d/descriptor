@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function bnxt_dev_is_vf_rep int | dev struct net_device *

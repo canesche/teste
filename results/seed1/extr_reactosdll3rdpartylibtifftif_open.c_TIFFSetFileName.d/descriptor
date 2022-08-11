@@ -1,0 +1,2 @@
+struct TYPE_3__ | tif_name char * 
+function TIFFSetFileName const char * | tif struct TYPE_3__ * | name const char *

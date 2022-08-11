@@ -1,0 +1,3 @@
+struct TYPE_7__ | nb_programs int | programs struct TYPE_6__ ** 
+struct TYPE_6__ | nb_stream_indexes int | stream_index int * 
+function av_find_program_from_stream struct TYPE_6__ * | ic struct TYPE_7__ * | last struct TYPE_6__ * | s int

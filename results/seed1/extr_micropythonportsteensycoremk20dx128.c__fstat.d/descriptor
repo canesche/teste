@@ -1,0 +1,2 @@
+struct stat | st_mode int 
+function _fstat int | fd int | st struct stat *

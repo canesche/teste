@@ -1,0 +1,2 @@
+struct TYPE_3__ | width unsigned int | byte_data unsigned int * 
+function greyscaleGetPixelValue unsigned int | p_greyscale struct TYPE_3__ * | x unsigned int | y unsigned int

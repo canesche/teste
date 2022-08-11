@@ -1,0 +1,5 @@
+struct ttm_tt | dummy int 
+struct mm_struct | dummy int 
+struct amdgpu_ttm_tt | usertask struct TYPE_2__ * 
+struct TYPE_2__ | mm struct mm_struct * 
+function amdgpu_ttm_tt_get_usermm struct mm_struct * | ttm struct ttm_tt *

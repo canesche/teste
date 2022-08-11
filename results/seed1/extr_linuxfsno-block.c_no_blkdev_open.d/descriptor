@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct file | dummy int 
+function no_blkdev_open int | inode struct inode * | filp struct file *

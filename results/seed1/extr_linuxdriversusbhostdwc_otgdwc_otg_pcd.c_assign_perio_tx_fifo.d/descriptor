@@ -1,0 +1,4 @@
+struct TYPE_5__ | num_dev_perio_in_ep int 
+struct TYPE_6__ | b struct TYPE_5__ 
+struct TYPE_7__ | p_tx_msk int | hwcfg4 struct TYPE_6__ 
+function assign_perio_tx_fifo int | core_if struct TYPE_7__ *

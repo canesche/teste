@@ -1,0 +1,8 @@
+struct TYPE_9__ | RIGHT_EYE_3D_POLARITY int 
+struct TYPE_10__ | timing_3d_format int | flags struct TYPE_9__ 
+struct dc_stream_state | view_format int | timing struct TYPE_10__ | sink struct TYPE_8__ * 
+struct crtc_stereo_flags | PROGRAM_STEREO int | PROGRAM_POLARITY int | DISABLE_STEREO_DP_SYNC int | FRAME_PACKED int | RIGHT_EYE_POLARITY int 
+struct TYPE_8__ | link struct TYPE_7__ * 
+struct TYPE_7__ | ddc struct TYPE_6__ * 
+struct TYPE_6__ | dongle_type int 
+function dcn10_config_stereo_parameters void | stream struct dc_stream_state * | flags struct crtc_stereo_flags *

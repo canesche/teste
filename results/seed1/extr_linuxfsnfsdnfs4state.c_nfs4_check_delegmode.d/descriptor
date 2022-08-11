@@ -1,0 +1,2 @@
+struct nfs4_delegation | dl_type long 
+function nfs4_check_delegmode int | dp struct nfs4_delegation * | flags int

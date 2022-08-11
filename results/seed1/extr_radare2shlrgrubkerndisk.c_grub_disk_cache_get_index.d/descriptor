@@ -1,0 +1,1 @@
+function grub_disk_cache_get_index unsigned int | dev_id unsigned long | disk_id unsigned long | sector int

@@ -1,0 +1,2 @@
+struct i915_address_space | total int 
+function i915_vm_is_48bit int | vm const struct i915_address_space *

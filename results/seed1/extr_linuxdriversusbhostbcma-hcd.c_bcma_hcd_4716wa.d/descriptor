@@ -1,0 +1,2 @@
+struct bcma_device | dummy int 
+function bcma_hcd_4716wa void | dev struct bcma_device *

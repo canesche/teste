@@ -1,0 +1,1 @@
+function ff_acelp_apply_order_2_transfer_function void | out float * | in const float * | zero_coeffs float const[2] | pole_coeffs float const[2] | gain float | mem float [2] | n int

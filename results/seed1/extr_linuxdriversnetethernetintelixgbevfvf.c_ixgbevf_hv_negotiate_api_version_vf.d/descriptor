@@ -1,0 +1,2 @@
+struct ixgbe_hw | dummy int 
+function ixgbevf_hv_negotiate_api_version_vf int | hw struct ixgbe_hw * | api int

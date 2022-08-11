@@ -1,0 +1,3 @@
+struct IsdnCardState | myid int 
+struct TYPE_2__ | cs struct IsdnCardState * 
+function hisax_findcard struct IsdnCardState * | driverid int

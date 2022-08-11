@@ -1,0 +1,2 @@
+struct TYPE_2__ | irq_count int | irq_map int * 
+function hsta_find_hwirq_offset int | hwirq int

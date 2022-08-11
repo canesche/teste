@@ -1,0 +1,2 @@
+struct drm_display_mode | hdisplay int | vdisplay int 
+function drm_mode_validate_size enum drm_mode_status | mode const struct drm_display_mode * | maxX int | maxY int

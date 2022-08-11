@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetneterions2io.c_s2io_link_fault_indication.d/extr_linuxdriversnetethernetneterions2io.c_s2io_link_fault_indication_O0::s2io_link_fault_indication(64)"
+  }
+]

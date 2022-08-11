@@ -1,0 +1,4 @@
+struct kobject | dummy int 
+struct TYPE_2__ | kobj struct kobject 
+struct mapped_device | kobj_holder struct TYPE_2__ 
+function dm_kobject struct kobject * | md struct mapped_device *

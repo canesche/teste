@@ -1,0 +1,2 @@
+struct ring_buffer_per_cpu | lost_events int 
+function rb_lost_events int | cpu_buffer struct ring_buffer_per_cpu *

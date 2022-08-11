@@ -1,0 +1,2 @@
+struct gru_tlb_global_handle | dummy int 
+function get_tgh struct gru_tlb_global_handle * | base void * | ctxnum int

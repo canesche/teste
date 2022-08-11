@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function kvm_arch_vcpu_should_kick int | vcpu struct kvm_vcpu *

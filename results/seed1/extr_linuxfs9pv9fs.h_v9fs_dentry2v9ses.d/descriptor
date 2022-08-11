@@ -1,0 +1,4 @@
+struct v9fs_session_info | dummy int 
+struct dentry | d_sb struct TYPE_2__ * 
+struct TYPE_2__ | s_fs_info struct v9fs_session_info * 
+function v9fs_dentry2v9ses struct v9fs_session_info * | dentry struct dentry *

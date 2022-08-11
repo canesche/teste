@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function pm860x_codec_remove int | pdev struct platform_device *

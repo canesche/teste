@@ -1,0 +1,2 @@
+struct TYPE_3__ | fqs_flags int 
+function fq_if_service_to_priority int | fqs struct TYPE_3__ * | svc int

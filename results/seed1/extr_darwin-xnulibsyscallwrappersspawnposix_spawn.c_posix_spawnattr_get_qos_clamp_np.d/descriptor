@@ -1,0 +1,2 @@
+struct TYPE_2__ | psa_qos_clamp int 
+function posix_spawnattr_get_qos_clamp_np int | attr int *const *__restrict | qos_clampp int *__restrict

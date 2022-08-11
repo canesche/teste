@@ -1,0 +1,2 @@
+struct mtk_mdp_variant | h_scale_down_max int | v_scale_down_max int | h_scale_up_max int | v_scale_up_max int 
+function mtk_mdp_check_scaler_ratio int | var struct mtk_mdp_variant * | src_w int | src_h int | dst_w int | dst_h int | rot int

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function lp_gpio_runtime_resume int | dev struct device *

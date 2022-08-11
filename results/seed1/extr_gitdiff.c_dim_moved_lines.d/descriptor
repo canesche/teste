@@ -1,0 +1,4 @@
+struct emitted_diff_symbol | s long | flags int 
+struct diff_options | emitted_symbols struct TYPE_2__ * 
+struct TYPE_2__ | nr int | buf struct emitted_diff_symbol * 
+function dim_moved_lines void | o struct diff_options *

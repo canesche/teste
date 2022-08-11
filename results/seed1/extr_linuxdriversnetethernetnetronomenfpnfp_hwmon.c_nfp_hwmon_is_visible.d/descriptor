@@ -1,0 +1,1 @@
+function nfp_hwmon_is_visible int | data const void * | type enum hwmon_sensor_types | attr int | channel int

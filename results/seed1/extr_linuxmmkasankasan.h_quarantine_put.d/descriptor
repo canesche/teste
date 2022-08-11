@@ -1,0 +1,3 @@
+struct kmem_cache | dummy int 
+struct kasan_free_meta | dummy int 
+function quarantine_put void | info struct kasan_free_meta * | cache struct kmem_cache *

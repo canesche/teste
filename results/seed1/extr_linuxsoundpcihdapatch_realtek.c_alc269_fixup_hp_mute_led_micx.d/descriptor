@@ -1,0 +1,6 @@
+struct hda_fixup | dummy int 
+struct hda_codec | power_filter int | spec struct alc_spec * 
+struct TYPE_3__ | hook int 
+struct TYPE_4__ | vmaster_mute_enum int | vmaster_mute struct TYPE_3__ 
+struct alc_spec | gen struct TYPE_4__ | mute_led_nid int | mute_led_polarity long 
+function alc269_fixup_hp_mute_led_micx void | codec struct hda_codec * | fix const struct hda_fixup * | action int | pin int

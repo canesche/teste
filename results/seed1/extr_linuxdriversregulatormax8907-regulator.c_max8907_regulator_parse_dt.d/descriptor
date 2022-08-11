@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function max8907_regulator_parse_dt int | pdev struct platform_device *

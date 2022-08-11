@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_ccvlib3rdpartysqlite3sqlite3.c_sqlite3_enable_shared_cache.d/extr_ccvlib3rdpartysqlite3sqlite3.c_sqlite3_enable_shared_cache_O0::sqlite3_enable_shared_cache(63)"
+  }
+]

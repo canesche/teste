@@ -1,0 +1,3 @@
+struct usbduxfast_private | duxbuf void ** 
+struct comedi_device | private struct usbduxfast_private * 
+function usbduxfast_cmd_data void | dev struct comedi_device * | index int | len void * | op void * | out void * | log void *

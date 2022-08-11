@@ -1,0 +1,8 @@
+struct TYPE_14__ | subexp_map int * | used_bkref_map int 
+struct TYPE_12__ | idx int 
+struct TYPE_13__ | type long | opr struct TYPE_12__ 
+struct TYPE_15__ | token struct TYPE_13__ | left struct TYPE_11__ * 
+struct TYPE_9__ | idx int 
+struct TYPE_10__ | type long | opr struct TYPE_9__ 
+struct TYPE_11__ | parent struct TYPE_15__ * | left struct TYPE_11__ * | token struct TYPE_10__ 
+function optimize_subexps int | extra void * | node struct TYPE_15__ *

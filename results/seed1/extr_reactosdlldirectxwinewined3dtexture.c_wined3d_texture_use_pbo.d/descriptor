@@ -1,0 +1,5 @@
+struct TYPE_4__ | access int | usage int | format struct TYPE_3__ * 
+struct wined3d_texture | flags int | resource struct TYPE_4__ 
+struct wined3d_gl_info | supported long * 
+struct TYPE_3__ | conv_byte_count int 
+function wined3d_texture_use_pbo int | texture const struct wined3d_texture * | gl_info const struct wined3d_gl_info *

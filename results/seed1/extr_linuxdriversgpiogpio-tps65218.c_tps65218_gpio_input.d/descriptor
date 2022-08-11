@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function tps65218_gpio_input int | gc struct gpio_chip * | offset unsigned int

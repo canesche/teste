@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversinfinibandhwhfi1vnic_main.c_update_len_counters.d/extr_linuxdriversinfinibandhwhfi1vnic_main.c_update_len_counters_O0::update_len_counters(62)"
+  }
+]

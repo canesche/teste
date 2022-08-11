@@ -1,0 +1,3 @@
+struct kvmppc_bat | bepi_mask int | bepi int | vs int | vp int | raw int | brpn int | wimg int | pp int 
+struct kvm_vcpu | dummy int 
+function kvmppc_set_bat void | vcpu struct kvm_vcpu * | bat struct kvmppc_bat * | upper int | val int

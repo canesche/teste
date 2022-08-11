@@ -1,0 +1,2 @@
+struct sched_entity | dummy int 
+function parent_entity struct sched_entity * | se struct sched_entity *

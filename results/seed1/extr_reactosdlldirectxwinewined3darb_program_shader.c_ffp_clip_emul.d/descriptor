@@ -1,0 +1,2 @@
+struct wined3d_context | lowest_disabled_stage int 
+function ffp_clip_emul int | context const struct wined3d_context *

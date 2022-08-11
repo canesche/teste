@@ -1,0 +1,1 @@
+value(kern_coredump_config_vers) == 255, value(is64bit) == 255, value(mh_magic) == 255, value(cpu_type) == 255, value(cpu_subtype) == 255, length(kc_callbacks) == 65025, length(refcon) == 65025, length(core_description) == 65025

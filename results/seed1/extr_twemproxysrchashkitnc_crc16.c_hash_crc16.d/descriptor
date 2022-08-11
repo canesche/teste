@@ -1,0 +1,1 @@
+function hash_crc16 int | key const char * | key_length unsigned long

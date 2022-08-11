@@ -1,0 +1,4 @@
+struct ata_link | ap struct ata_port * 
+struct ata_port | slave_link struct ata_link * | link struct ata_link 
+struct ata_device | devno int | link struct ata_link * 
+function ata_dev_phys_link struct ata_link * | dev struct ata_device *

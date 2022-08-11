@@ -1,0 +1,1 @@
+function tcpm_copy_pdos int | dest_pdo int * | src_pdo const int * | nr_pdo unsigned int

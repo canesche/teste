@@ -1,0 +1,6 @@
+struct TYPE_4__ | width int | top long | left long 
+struct vivid_dev | overlay_out_left int | overlay_out_top int | bitmap_out int * | clipcount_out int | fbuf_out_flags int | chromakey_out const long | fmt_cap struct TYPE_6__ * | global_alpha_out long | clips_out struct TYPE_5__ * | compose_out struct TYPE_4__ 
+struct v4l2_rect | top int | height int | left int | width int 
+struct TYPE_6__ | alpha_mask int 
+struct TYPE_5__ | c struct v4l2_rect 
+function copy_pix void | dev struct vivid_dev * | win_y int | win_x int | cap long * | osd const long *

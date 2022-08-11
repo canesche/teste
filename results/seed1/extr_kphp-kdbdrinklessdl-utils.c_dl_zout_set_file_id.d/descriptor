@@ -1,0 +1,2 @@
+struct TYPE_3__ | id int | written long 
+function dl_zout_set_file_id void | f struct TYPE_3__ * | fid int

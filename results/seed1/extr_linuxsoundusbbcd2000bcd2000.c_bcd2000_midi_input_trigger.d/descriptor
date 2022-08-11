@@ -1,0 +1,4 @@
+struct snd_rawmidi_substream | rmidi struct TYPE_2__ * 
+struct bcd2000 | midi_receive_substream struct snd_rawmidi_substream * 
+struct TYPE_2__ | private_data struct bcd2000 * 
+function bcd2000_midi_input_trigger void | substream struct snd_rawmidi_substream * | up int

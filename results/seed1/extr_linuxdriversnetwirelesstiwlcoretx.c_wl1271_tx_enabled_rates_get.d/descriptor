@@ -1,0 +1,6 @@
+struct wl1271 | hw struct TYPE_4__ * 
+struct ieee80211_supported_band | n_bitrates int | bitrates struct TYPE_5__ * 
+struct TYPE_6__ | bands struct ieee80211_supported_band ** 
+struct TYPE_5__ | hw_value int 
+struct TYPE_4__ | wiphy struct TYPE_6__ * 
+function wl1271_tx_enabled_rates_get int | wl struct wl1271 * | rate_set int | rate_band enum nl80211_band

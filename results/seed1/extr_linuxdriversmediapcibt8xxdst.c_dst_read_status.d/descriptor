@@ -1,0 +1,3 @@
+struct dvb_frontend | demodulator_priv struct dst_state * 
+struct dst_state | diseq_flags int | decode_lock long 
+function dst_read_status int | fe struct dvb_frontend * | status enum fe_status *

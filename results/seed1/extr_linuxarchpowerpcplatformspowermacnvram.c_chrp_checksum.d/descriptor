@@ -1,0 +1,2 @@
+struct chrp_header | signature int | data int * | len int 
+function chrp_checksum int | hdr struct chrp_header *

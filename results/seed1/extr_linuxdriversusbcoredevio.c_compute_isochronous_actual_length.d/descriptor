@@ -1,0 +1,3 @@
+struct urb | number_of_packets unsigned int | iso_frame_desc struct TYPE_2__ * | actual_length long 
+struct TYPE_2__ | actual_length long 
+function compute_isochronous_actual_length void | urb struct urb *

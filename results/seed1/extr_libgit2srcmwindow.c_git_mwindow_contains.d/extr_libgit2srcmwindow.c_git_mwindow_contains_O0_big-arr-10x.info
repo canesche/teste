@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_libgit2srcmwindow.c_git_mwindow_contains.d/extr_libgit2srcmwindow.c_git_mwindow_contains_O0::git_mwindow_contains(66)"
+  }
+]

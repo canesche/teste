@@ -1,0 +1,4 @@
+struct TYPE_2__ | x int | y int | width int | height int 
+struct scaler_data | format long | viewport struct TYPE_2__ 
+struct rect | x int | y int | width int | height int 
+function calculate_viewport void | scl_data const struct scaler_data * | luma_viewport struct rect * | chroma_viewport struct rect *

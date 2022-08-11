@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct llc_sap | dummy int 
+function llc_sap_action_report_status int | sap struct llc_sap * | skb struct sk_buff *

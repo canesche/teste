@@ -1,0 +1,2 @@
+struct TYPE_3__ | blocked_client int * 
+function RM_GetBlockedClientHandle int * | ctx struct TYPE_3__ *

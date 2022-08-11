@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function i915_live_selftests int | pdev struct pci_dev *

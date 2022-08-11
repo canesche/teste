@@ -1,0 +1,5 @@
+struct device | dummy int 
+struct TYPE_4__ | dev struct TYPE_3__ * 
+struct d40_chan | chan struct TYPE_4__ 
+struct TYPE_3__ | device struct device 
+function chan2dev struct device * | d40c struct d40_chan *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriverscryptoqatqat_dh895xccadf_dh895xcc_hw_data.c_get_num_accels.d/extr_linuxdriverscryptoqatqat_dh895xccadf_dh895xcc_hw_data.c_get_num_accels_O0::get_num_accels(63)"
+  }
+]

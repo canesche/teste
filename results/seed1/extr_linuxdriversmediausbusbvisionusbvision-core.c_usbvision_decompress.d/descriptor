@@ -1,0 +1,2 @@
+struct usb_usbvision | compr_block_types int * 
+function usbvision_decompress int | usbvision struct usb_usbvision * | compressed unsigned char * | decompressed unsigned char * | start_pos int * | block_typestart_pos int * | len int

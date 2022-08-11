@@ -1,0 +1,2 @@
+struct thermal_cooling_device | dummy int 
+function throt_set_cdev_state int | cdev struct thermal_cooling_device * | cur_state unsigned long

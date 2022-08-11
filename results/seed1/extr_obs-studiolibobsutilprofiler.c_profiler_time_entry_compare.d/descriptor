@@ -1,0 +1,2 @@
+struct TYPE_2__ | time_delta long 
+function profiler_time_entry_compare int | first const void * | second const void *

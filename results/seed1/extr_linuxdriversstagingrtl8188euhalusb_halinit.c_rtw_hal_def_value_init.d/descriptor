@@ -1,0 +1,6 @@
+struct pwrctrl_priv | bkeepfwalive int 
+struct TYPE_3__ | bIQKInitialized int | ThermalValue_HP long * | ThermalValue_HP_index long | TM_Trigger long 
+struct TYPE_4__ | RFCalibrateInfo struct TYPE_3__ 
+struct hal_data_8188e | PGMaxGroup int | odmpriv struct TYPE_4__ | pwrGroupCnt long | LastHMEBoxNum long 
+struct adapter | pwrctrlpriv struct pwrctrl_priv | HalData struct hal_data_8188e * 
+function rtw_hal_def_value_init void | adapt struct adapter *

@@ -1,0 +1,2 @@
+struct ubifs_info | key_len int 
+function ubifs_idx_node_sz int | c const struct ubifs_info * | child_cnt int

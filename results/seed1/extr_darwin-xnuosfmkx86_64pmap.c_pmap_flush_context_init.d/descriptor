@@ -1,0 +1,2 @@
+struct TYPE_3__ | pfc_invalid_global long | pfc_cpus long 
+function pmap_flush_context_init void | pfc struct TYPE_3__ *

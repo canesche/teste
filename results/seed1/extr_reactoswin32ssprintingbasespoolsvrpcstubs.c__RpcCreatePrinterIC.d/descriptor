@@ -1,0 +1,1 @@
+function _RpcCreatePrinterIC int | hPrinter int | pHandle int * | pDevModeContainer int *

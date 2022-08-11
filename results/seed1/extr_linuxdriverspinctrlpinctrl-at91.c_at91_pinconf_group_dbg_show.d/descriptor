@@ -1,0 +1,3 @@
+struct seq_file | dummy int 
+struct pinctrl_dev | dummy int 
+function at91_pinconf_group_dbg_show void | pctldev struct pinctrl_dev * | s struct seq_file * | group unsigned int

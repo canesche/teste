@@ -1,0 +1,3 @@
+struct btf | strings const char * | hdr struct TYPE_2__ * 
+struct TYPE_2__ | str_len unsigned long 
+function btf__name_by_offset const char * | btf const struct btf * | offset unsigned long

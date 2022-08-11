@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxnettipcsubscr.c_tipc_sub_check_overlap.d/extr_linuxnettipcsubscr.c_tipc_sub_check_overlap_O0::tipc_sub_check_overlap(63)"
+  }
+]

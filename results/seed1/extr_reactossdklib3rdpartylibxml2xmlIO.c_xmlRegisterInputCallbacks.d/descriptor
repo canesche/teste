@@ -1,0 +1,2 @@
+struct TYPE_2__ | closecallback int | readcallback int | opencallback int | matchcallback int 
+function xmlRegisterInputCallbacks int | matchFunc int | openFunc int | readFunc int | closeFunc int

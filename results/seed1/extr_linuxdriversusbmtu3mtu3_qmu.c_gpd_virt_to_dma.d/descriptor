@@ -1,0 +1,3 @@
+struct qmu_gpd | dummy int 
+struct mtu3_gpd_ring | start struct qmu_gpd * | dma long 
+function gpd_virt_to_dma long | ring struct mtu3_gpd_ring * | gpd struct qmu_gpd *

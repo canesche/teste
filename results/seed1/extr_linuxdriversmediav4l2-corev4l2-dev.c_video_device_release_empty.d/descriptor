@@ -1,0 +1,2 @@
+struct video_device | dummy int 
+function video_device_release_empty void | vdev struct video_device *

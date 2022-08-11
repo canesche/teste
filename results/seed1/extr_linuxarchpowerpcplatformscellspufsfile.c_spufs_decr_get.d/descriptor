@@ -1,0 +1,5 @@
+struct TYPE_4__ | slot int * 
+struct spu_lscsa | decr struct TYPE_4__ 
+struct TYPE_3__ | lscsa struct spu_lscsa * 
+struct spu_context | csa struct TYPE_3__ 
+function spufs_decr_get int | ctx struct spu_context *

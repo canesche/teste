@@ -1,0 +1,1 @@
+function Sys_Mkfifo int * | ospath const char *

@@ -1,0 +1,2 @@
+struct zip_dirent | uncomp_size long | comp_size long | offset long 
+function _zip_dirent_needs_zip64 int | de const struct zip_dirent * | flags int

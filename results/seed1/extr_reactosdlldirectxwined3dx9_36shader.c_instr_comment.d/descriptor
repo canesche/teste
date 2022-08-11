@@ -1,0 +1,2 @@
+struct instr_info | dummy int 
+function instr_comment int | info const struct instr_info * | ptr int ** | buffer char * | ps int

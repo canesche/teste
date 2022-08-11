@@ -1,0 +1,2 @@
+struct irq_desc | dummy int 
+function irq_add_debugfs_entry void | irq unsigned int | d struct irq_desc *

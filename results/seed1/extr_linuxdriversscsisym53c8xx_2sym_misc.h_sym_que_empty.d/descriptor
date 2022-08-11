@@ -1,0 +1,2 @@
+struct sym_quehead | flink struct sym_quehead * 
+function sym_que_empty int | head struct sym_quehead *

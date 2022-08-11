@@ -1,0 +1,2 @@
+struct nilfs_btree_node | bn_flags int 
+function nilfs_btree_node_get_flags int | node const struct nilfs_btree_node *

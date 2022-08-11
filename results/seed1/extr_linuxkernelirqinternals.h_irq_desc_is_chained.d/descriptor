@@ -1,0 +1,2 @@
+struct irq_desc | action int * 
+function irq_desc_is_chained int | desc struct irq_desc *

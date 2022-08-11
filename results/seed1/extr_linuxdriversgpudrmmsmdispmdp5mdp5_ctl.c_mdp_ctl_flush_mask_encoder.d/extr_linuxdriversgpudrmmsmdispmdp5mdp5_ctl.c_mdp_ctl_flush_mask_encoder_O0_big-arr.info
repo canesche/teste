@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmmsmdispmdp5mdp5_ctl.c_mdp_ctl_flush_mask_encoder.d/extr_linuxdriversgpudrmmsmdispmdp5mdp5_ctl.c_mdp_ctl_flush_mask_encoder_O0::mdp_ctl_flush_mask_encoder(68)"
+  }
+]

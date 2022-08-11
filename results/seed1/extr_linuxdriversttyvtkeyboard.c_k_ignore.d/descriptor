@@ -1,0 +1,2 @@
+struct vc_data | dummy int 
+function k_ignore void | vc struct vc_data * | value unsigned char | up_flag char

@@ -1,0 +1,2 @@
+struct ubifs_info | orph_lebs int | leb_size int 
+function tot_avail_orphs int | c struct ubifs_info *

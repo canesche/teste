@@ -1,0 +1,2 @@
+struct TYPE_2__ | pid_filter int 
+function kperf_action_get_filter int | actionid unsigned int | pid_out int *

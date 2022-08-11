@@ -1,0 +1,1 @@
+function gc_putc_charsetcmd void | charset int | ch unsigned char

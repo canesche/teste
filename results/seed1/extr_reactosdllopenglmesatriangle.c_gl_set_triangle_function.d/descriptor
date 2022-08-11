@@ -1,0 +1,13 @@
+struct TYPE_25__ | Enabled int | EnvMode long | Current1D struct TYPE_24__ * | Current2D struct TYPE_23__ * | Current struct TYPE_17__ * 
+struct TYPE_24__ | MinFilter long | MagFilter long 
+struct TYPE_23__ | MinFilter long | MagFilter long | WrapS long | WrapT long | Image struct TYPE_18__ ** 
+struct TYPE_22__ | EightBitColor long | RGBAflag long 
+struct TYPE_21__ | StippleFlag long 
+struct TYPE_20__ | Func long | Mask long 
+struct TYPE_19__ | PerspectiveCorrection long 
+struct TYPE_18__ | Format long | Border long 
+struct TYPE_17__ | Complete long 
+struct TYPE_15__ | TriangleFunc long 
+struct TYPE_14__ | ShadeModel long 
+struct TYPE_16__ | RenderMode long | TextureMatrixType long | RasterMask long | Driver struct TYPE_15__ | Light struct TYPE_14__ | Texture struct TYPE_25__ | Visual struct TYPE_22__ * | Polygon struct TYPE_21__ | Depth struct TYPE_20__ | Hint struct TYPE_19__ | NoRaster long 
+function gl_set_triangle_function void | ctx struct TYPE_16__ *

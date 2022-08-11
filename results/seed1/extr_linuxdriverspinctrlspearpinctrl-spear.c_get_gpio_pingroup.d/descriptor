@@ -1,0 +1,4 @@
+struct spear_pmx | machdata struct TYPE_2__ * 
+struct spear_gpio_pingroup | npins int | pins unsigned int * 
+struct TYPE_2__ | ngpio_pingroups int | gpio_pingroups struct spear_gpio_pingroup * 
+function get_gpio_pingroup struct spear_gpio_pingroup * | pmx struct spear_pmx * | pin unsigned int

@@ -1,0 +1,2 @@
+struct ni_gpct | clock_period_ps int 
+function ni_tio_clock_period_ps int | counter const struct ni_gpct * | generic_clock_source unsigned int | period_ps int *

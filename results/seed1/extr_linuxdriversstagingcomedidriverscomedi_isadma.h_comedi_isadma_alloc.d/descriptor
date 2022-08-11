@@ -1,0 +1,3 @@
+struct comedi_isadma | dummy int 
+struct comedi_device | dummy int 
+function comedi_isadma_alloc struct comedi_isadma * | dev struct comedi_device * | n_desc int | dma_chan1 unsigned int | dma_chan2 unsigned int | maxsize unsigned int | dma_dir char

@@ -1,0 +1,2 @@
+struct pvr2_hdw | master_state int 
+function pvr2_hdw_get_state int | hdw struct pvr2_hdw *

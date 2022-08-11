@@ -1,0 +1,3 @@
+struct bdi_writeback | bdi struct TYPE_2__ * 
+struct TYPE_2__ | min_ratio unsigned long | max_ratio unsigned long 
+function wb_min_max_ratio void | wb struct bdi_writeback * | minp unsigned long * | maxp unsigned long *

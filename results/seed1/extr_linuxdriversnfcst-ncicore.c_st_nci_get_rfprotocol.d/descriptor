@@ -1,0 +1,2 @@
+struct nci_dev | dummy int 
+function st_nci_get_rfprotocol int | ndev struct nci_dev * | rf_protocol long

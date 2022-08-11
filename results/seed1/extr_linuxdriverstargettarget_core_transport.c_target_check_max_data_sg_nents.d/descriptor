@@ -1,0 +1,5 @@
+struct TYPE_4__ | block_size unsigned int 
+struct se_device | prot_length unsigned int | dev_attrib struct TYPE_4__ 
+struct se_cmd | data_length unsigned int | se_cmd_flags int | residual_count unsigned int | prot_length unsigned int | se_tfo struct TYPE_3__ * 
+struct TYPE_3__ | max_data_sg_nents unsigned int 
+function target_check_max_data_sg_nents int | cmd struct se_cmd * | dev struct se_device * | size unsigned int

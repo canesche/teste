@@ -1,0 +1,3 @@
+struct thermal_zone_device | devdata struct int3400_thermal_priv * 
+struct int3400_thermal_priv | mode int 
+function int3400_thermal_get_mode int | thermal struct thermal_zone_device * | mode enum thermal_device_mode *

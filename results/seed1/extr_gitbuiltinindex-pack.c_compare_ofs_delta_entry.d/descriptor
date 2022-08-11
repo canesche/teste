@@ -1,0 +1,2 @@
+struct ofs_delta_entry | offset long 
+function compare_ofs_delta_entry int | a const void * | b const void *

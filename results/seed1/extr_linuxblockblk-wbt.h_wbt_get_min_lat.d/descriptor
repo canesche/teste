@@ -1,0 +1,2 @@
+struct request_queue | dummy int 
+function wbt_get_min_lat int | q struct request_queue *

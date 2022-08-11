@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function reiserfs_debug void | s struct super_block * | level int | fmt const char *

@@ -1,0 +1,3 @@
+struct hdac_chmap | dummy int 
+struct hdac_cea_channel_speaker_allocation | channels int 
+function hdmi_chmap_cea_alloc_validate_get_type int | chmap struct hdac_chmap * | cap struct hdac_cea_channel_speaker_allocation * | channels int

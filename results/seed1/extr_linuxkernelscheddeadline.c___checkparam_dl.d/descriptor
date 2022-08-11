@@ -1,0 +1,2 @@
+struct sched_attr | sched_flags int | sched_deadline unsigned long long | sched_runtime unsigned long long | sched_period unsigned long long 
+function __checkparam_dl int | attr const struct sched_attr *

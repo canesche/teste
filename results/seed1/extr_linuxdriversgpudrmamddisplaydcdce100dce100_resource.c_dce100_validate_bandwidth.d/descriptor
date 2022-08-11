@@ -1,0 +1,8 @@
+struct TYPE_8__ | dispclk_khz int | yclk_khz int 
+struct TYPE_9__ | dce struct TYPE_8__ 
+struct TYPE_7__ | pipe_ctx struct TYPE_6__ * 
+struct dc_state | bw struct TYPE_9__ | res_ctx struct TYPE_7__ 
+struct dc | res_pool struct TYPE_10__ * 
+struct TYPE_10__ | pipe_count int 
+struct TYPE_6__ | stream long 
+function dce100_validate_bandwidth int | dc struct dc * | context struct dc_state *

@@ -1,0 +1,2 @@
+struct ate_resource | ate int * 
+function mark_ate void | ate_resource struct ate_resource * | start int | number int | value int

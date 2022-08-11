@@ -1,0 +1,2 @@
+struct fbtft_ops | set_gamma long | set_var long | unregister_backlight long | register_backlight long | verify_gpios long | request_gpios long | request_gpios_match long | blank long | init_display long | update_display long | mkdirty long | reset long | set_addr_win long | write_register long | write_vmem long | read long | write long 
+function fbtft_merge_fbtftops void | dst struct fbtft_ops * | src struct fbtft_ops *

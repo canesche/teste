@@ -1,0 +1,1 @@
+function adler32 unsigned char | data unsigned char * | len unsigned long

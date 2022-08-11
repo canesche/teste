@@ -1,0 +1,2 @@
+struct usba_ep | dummy int 
+function usba_ep_cleanup_debugfs void | ep struct usba_ep *

@@ -1,0 +1,2 @@
+struct virtual_item | dummy int 
+function direct_part_size int | vi struct virtual_item * | first int | count int

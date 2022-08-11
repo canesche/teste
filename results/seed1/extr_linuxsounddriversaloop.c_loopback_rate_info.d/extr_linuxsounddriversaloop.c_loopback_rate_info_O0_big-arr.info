@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxsounddriversaloop.c_loopback_rate_info.d/extr_linuxsounddriversaloop.c_loopback_rate_info_O0::loopback_rate_info(68)"
+  }
+]

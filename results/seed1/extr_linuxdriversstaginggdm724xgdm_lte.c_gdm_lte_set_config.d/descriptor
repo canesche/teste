@@ -1,0 +1,3 @@
+struct net_device | flags int 
+struct ifmap | dummy int 
+function gdm_lte_set_config int | dev struct net_device * | map struct ifmap *

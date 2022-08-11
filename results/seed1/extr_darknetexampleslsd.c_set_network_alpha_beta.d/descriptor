@@ -1,0 +1,3 @@
+struct TYPE_5__ | n int | layers struct TYPE_4__ * 
+struct TYPE_4__ | type long | alpha float | beta float 
+function set_network_alpha_beta void | net struct TYPE_5__ * | alpha float | beta float

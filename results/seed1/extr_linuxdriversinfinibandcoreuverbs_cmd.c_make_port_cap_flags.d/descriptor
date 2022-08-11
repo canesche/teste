@@ -1,0 +1,2 @@
+struct ib_port_attr | port_cap_flags int | ip_gids long 
+function make_port_cap_flags int | attr const struct ib_port_attr *

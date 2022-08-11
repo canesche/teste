@@ -1,0 +1,2 @@
+struct TYPE_2__ | pix_fmt int | fmt int 
+function pixfmt2imgfmt int | pix_fmt enum AVPixelFormat

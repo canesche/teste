@@ -1,0 +1,1 @@
+function acp_set_powergating_state int | handle void * | state enum amd_powergating_state

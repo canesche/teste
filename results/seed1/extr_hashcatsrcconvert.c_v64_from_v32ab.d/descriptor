@@ -1,0 +1,2 @@
+struct TYPE_2__ | v64 int | v32b int | v32a int 
+function v64_from_v32ab int | v32a const int | v32b const int

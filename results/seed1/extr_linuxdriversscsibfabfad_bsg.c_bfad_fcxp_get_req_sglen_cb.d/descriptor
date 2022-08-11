@@ -1,0 +1,3 @@
+struct bfad_fcxp | req_sge struct bfa_sge_s * 
+struct bfa_sge_s | sg_len int 
+function bfad_fcxp_get_req_sglen_cb int | bfad_fcxp void * | sgeid int

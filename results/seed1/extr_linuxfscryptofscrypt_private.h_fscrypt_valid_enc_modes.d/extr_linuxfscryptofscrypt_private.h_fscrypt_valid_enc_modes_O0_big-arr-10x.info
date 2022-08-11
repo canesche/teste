@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxfscryptofscrypt_private.h_fscrypt_valid_enc_modes.d/extr_linuxfscryptofscrypt_private.h_fscrypt_valid_enc_modes_O0::fscrypt_valid_enc_modes(66)"
+  }
+]

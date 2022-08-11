@@ -1,0 +1,2 @@
+struct usb_interface | dummy int 
+function speedtch_pre_reset int | intf struct usb_interface *

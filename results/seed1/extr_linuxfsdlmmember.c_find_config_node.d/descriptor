@@ -1,0 +1,3 @@
+struct dlm_recover | nodes_count int | nodes struct dlm_config_node * 
+struct dlm_config_node | nodeid int 
+function find_config_node struct dlm_config_node * | rv struct dlm_recover * | nodeid int

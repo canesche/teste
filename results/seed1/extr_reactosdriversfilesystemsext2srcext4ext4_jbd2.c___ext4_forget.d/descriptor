@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct buffer_head | dummy int 
+function __ext4_forget int | where const char * | line unsigned int | icb void * | handle int * | is_metadata int | inode struct inode * | bh struct buffer_head * | blocknr int

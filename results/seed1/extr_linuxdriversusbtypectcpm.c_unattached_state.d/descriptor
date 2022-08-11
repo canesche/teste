@@ -1,0 +1,2 @@
+struct tcpm_port | port_type long | pwr_role long 
+function unattached_state enum tcpm_state | port struct tcpm_port *

@@ -1,0 +1,5 @@
+struct sk_buff | queue_mapping unsigned int 
+struct alx_tx_queue | dummy int 
+struct alx_priv | num_txq unsigned int | qnapi struct TYPE_2__ ** 
+struct TYPE_2__ | txq struct alx_tx_queue * 
+function alx_tx_queue_mapping struct alx_tx_queue * | alx struct alx_priv * | skb struct sk_buff *

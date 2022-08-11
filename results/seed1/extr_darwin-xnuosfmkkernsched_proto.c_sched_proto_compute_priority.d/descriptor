@@ -1,0 +1,2 @@
+struct TYPE_3__ | base_pri int 
+function sched_proto_compute_priority int | thread struct TYPE_3__ *

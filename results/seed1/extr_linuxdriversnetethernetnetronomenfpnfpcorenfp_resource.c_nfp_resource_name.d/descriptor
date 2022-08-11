@@ -1,0 +1,2 @@
+struct nfp_resource | name const char * 
+function nfp_resource_name const char * | res struct nfp_resource *

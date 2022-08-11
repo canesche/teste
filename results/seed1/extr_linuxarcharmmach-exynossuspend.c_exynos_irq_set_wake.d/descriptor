@@ -1,0 +1,4 @@
+struct irq_data | hwirq long 
+struct exynos_wkup_irq | mask int | hwirq long 
+struct TYPE_2__ | wkup_irq struct exynos_wkup_irq * 
+function exynos_irq_set_wake int | data struct irq_data * | state unsigned int

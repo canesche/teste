@@ -1,0 +1,2 @@
+struct lpfc_hba | dummy int 
+function lpfc_idiag_mbxacc_dump_issue_mbox void | phba struct lpfc_hba * | pmbox int *

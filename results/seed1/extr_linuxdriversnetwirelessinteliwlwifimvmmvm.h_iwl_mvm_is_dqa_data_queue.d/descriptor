@@ -1,0 +1,2 @@
+struct iwl_mvm | dummy int 
+function iwl_mvm_is_dqa_data_queue int | mvm struct iwl_mvm * | queue long

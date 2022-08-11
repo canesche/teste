@@ -1,0 +1,2 @@
+struct quat | z int | y int | x int 
+function quat_inv void | dst struct quat * | q const struct quat *

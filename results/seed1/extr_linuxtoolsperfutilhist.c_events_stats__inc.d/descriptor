@@ -1,0 +1,2 @@
+struct events_stats | nr_events int * 
+function events_stats__inc void | stats struct events_stats * | type unsigned long

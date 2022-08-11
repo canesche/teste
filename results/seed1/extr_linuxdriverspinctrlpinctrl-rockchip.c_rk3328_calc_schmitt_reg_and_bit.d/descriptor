@@ -1,0 +1,4 @@
+struct rockchip_pinctrl | regmap_base struct regmap * 
+struct rockchip_pin_bank | bank_num int | drvdata struct rockchip_pinctrl * 
+struct regmap | dummy int 
+function rk3328_calc_schmitt_reg_and_bit int | bank struct rockchip_pin_bank * | pin_num int | regmap struct regmap ** | reg int * | bit int *

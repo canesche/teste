@@ -1,0 +1,2 @@
+struct cobalt_vars | rec_inv_sqrt int | count long 
+function cobalt_newton_step void | vars struct cobalt_vars *

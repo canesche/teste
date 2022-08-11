@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversextconextcon-intel-cht-wc.c_cht_wc_extcon_get_id.d/extr_linuxdriversextconextcon-intel-cht-wc.c_cht_wc_extcon_get_id_O0::cht_wc_extcon_get_id(65)"
+  }
+]

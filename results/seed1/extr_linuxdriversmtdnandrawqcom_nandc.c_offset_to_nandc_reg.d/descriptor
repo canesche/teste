@@ -1,0 +1,2 @@
+struct nandc_regs | read_location3 int | read_location2 int | read_location1 int | read_location0 int | ecc_buf_cfg int | orig_vld int | vld int | orig_cmd1 int | cmd1 int | clrreadstatus int | ecc_bch_cfg int | cfg1 int | cfg0 int | clrflashstatus int | exec int | chip_sel int | addr1 int | addr0 int | cmd int 
+function offset_to_nandc_reg int * | regs struct nandc_regs * | offset int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | data_key char * | data char * 
+function get_kdata void | kdata struct TYPE_3__ * | data_key char * | data char *

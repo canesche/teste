@@ -1,0 +1,1 @@
+function init_input_buf void | buf const char * | size unsigned long long

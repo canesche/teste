@@ -1,0 +1,2 @@
+struct gb_channel | dummy int 
+function __gb_lights_flash_brightness_set int | channel struct gb_channel *

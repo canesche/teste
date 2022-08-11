@@ -1,0 +1,3 @@
+struct TYPE_5__ | ids int | count int 
+struct TYPE_6__ | ptr int | size int 
+function git_oidarray__from_array void | arr struct TYPE_5__ * | array struct TYPE_6__ *

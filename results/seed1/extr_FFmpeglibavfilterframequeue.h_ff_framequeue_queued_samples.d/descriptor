@@ -1,0 +1,2 @@
+struct TYPE_3__ | total_samples_tail long | total_samples_head long 
+function ff_framequeue_queued_samples long | fq const struct TYPE_3__ *

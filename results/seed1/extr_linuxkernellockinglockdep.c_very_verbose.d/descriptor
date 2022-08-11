@@ -1,0 +1,2 @@
+struct lock_class | dummy int 
+function very_verbose int | class struct lock_class *

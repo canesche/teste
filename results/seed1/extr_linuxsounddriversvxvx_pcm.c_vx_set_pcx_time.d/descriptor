@@ -1,0 +1,2 @@
+struct vx_core | dummy int 
+function vx_set_pcx_time void | chip struct vx_core * | pc_time int * | dsp_time unsigned int *

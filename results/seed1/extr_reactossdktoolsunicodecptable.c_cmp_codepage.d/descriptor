@@ -1,0 +1,3 @@
+struct TYPE_2__ | codepage int 
+struct cptable | info struct TYPE_2__ 
+function cmp_codepage int | codepage const void * | entry const void *

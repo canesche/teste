@@ -1,0 +1,2 @@
+struct gasket_page_table | extended_flag int 
+function gasket_addr_is_simple int | pg_tbl struct gasket_page_table * | addr int

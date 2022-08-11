@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriverspinctrlpinctrl-axp209.c_axp20x_gpio_get_reg.d/extr_linuxdriverspinctrlpinctrl-axp209.c_axp20x_gpio_get_reg_O0::axp20x_gpio_get_reg(64)"
+  }
+]

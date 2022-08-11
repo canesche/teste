@@ -1,0 +1,2 @@
+struct host1x | dummy int 
+function syncpt_enable_protection void | host struct host1x *

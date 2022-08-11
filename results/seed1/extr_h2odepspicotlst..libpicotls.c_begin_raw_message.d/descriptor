@@ -1,0 +1,4 @@
+struct TYPE_4__ | buf struct TYPE_3__ * 
+struct st_ptls_raw_message_emitter_t | super struct TYPE_4__ | start_off int 
+struct TYPE_3__ | off int 
+function begin_raw_message int | _self int *

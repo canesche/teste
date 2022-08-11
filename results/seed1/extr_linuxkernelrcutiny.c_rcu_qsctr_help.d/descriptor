@@ -1,0 +1,2 @@
+struct rcu_ctrlblk | donetail long | curtail long 
+function rcu_qsctr_help int | rcp struct rcu_ctrlblk *

@@ -1,0 +1,4 @@
+struct sctp_sm_table_entry | dummy int 
+struct TYPE_2__ | auth_enable long | reconf_enable long | addip_enable long | prsctp_enable long 
+struct net | sctp struct TYPE_2__ 
+function sctp_chunk_event_lookup const struct sctp_sm_table_entry * | net struct net * | cid enum sctp_cid | state enum sctp_state

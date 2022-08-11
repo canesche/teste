@@ -1,0 +1,2 @@
+struct dmfc_channel | dummy int 
+function ipu_dmfc_put void | dmfc struct dmfc_channel *

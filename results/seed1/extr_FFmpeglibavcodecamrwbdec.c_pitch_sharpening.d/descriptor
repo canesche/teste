@@ -1,0 +1,2 @@
+struct TYPE_3__ | tilt_coef float | pitch_lag_int int 
+function pitch_sharpening void | ctx struct TYPE_3__ * | fixed_vector float *

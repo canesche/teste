@@ -1,0 +1,2 @@
+struct TYPE_3__ | breaks int | next struct TYPE_3__ * 
+function find_first_break int | f struct TYPE_3__ * | max int

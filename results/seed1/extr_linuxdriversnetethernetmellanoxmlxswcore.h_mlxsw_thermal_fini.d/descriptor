@@ -1,0 +1,2 @@
+struct mlxsw_thermal | dummy int 
+function mlxsw_thermal_fini void | thermal struct mlxsw_thermal *

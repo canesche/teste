@@ -1,0 +1,4 @@
+struct TYPE_3__ | use_cq long 
+struct TYPE_4__ | out struct TYPE_3__ 
+struct qdio_q | u struct TYPE_4__ | is_input_q int 
+function contains_aobs int | q struct qdio_q *

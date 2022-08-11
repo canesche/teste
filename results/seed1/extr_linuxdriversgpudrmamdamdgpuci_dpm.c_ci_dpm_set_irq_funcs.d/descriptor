@@ -1,0 +1,6 @@
+struct TYPE_5__ | funcs int * | num_types int 
+struct TYPE_6__ | irq struct TYPE_5__ 
+struct TYPE_7__ | thermal struct TYPE_6__ 
+struct TYPE_8__ | dpm struct TYPE_7__ 
+struct amdgpu_device | pm struct TYPE_8__ 
+function ci_dpm_set_irq_funcs void | adev struct amdgpu_device *

@@ -1,0 +1,3 @@
+struct TYPE_3__ | phys_size int | phys_addr int 
+struct TYPE_4__ | cfg struct TYPE_3__ 
+function myspiffs_vfs_fscfg int | phys_addr int * | phys_size int *

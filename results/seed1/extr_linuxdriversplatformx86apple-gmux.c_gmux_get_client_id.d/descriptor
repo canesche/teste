@@ -1,0 +1,2 @@
+struct pci_dev | vendor long | device int 
+function gmux_get_client_id enum vga_switcheroo_client_id | pdev struct pci_dev *

@@ -1,0 +1,7 @@
+struct TYPE_7__ | bottom int | right int | top int | left int 
+struct TYPE_6__ | y int | x int 
+struct TYPE_8__ | destRect struct TYPE_7__ | srcOrigin struct TYPE_6__ | destScreenId int 
+struct vmw_kms_sou_bo_blit | body struct TYPE_8__ | header int 
+struct vmw_kms_dirty | num_hits int | unit_y2 int | unit_x2 int | unit_y1 int | unit_x1 int | fb_y int | fb_x int | unit struct TYPE_5__ * | cmd struct vmw_kms_sou_bo_blit * 
+struct TYPE_5__ | unit int 
+function vmw_sou_bo_clip void | dirty struct vmw_kms_dirty *

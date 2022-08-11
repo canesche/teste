@@ -1,0 +1,3 @@
+struct uinput_request | dummy int 
+struct uinput_device | requests struct uinput_request ** 
+function uinput_request_find struct uinput_request * | udev struct uinput_device * | id unsigned int

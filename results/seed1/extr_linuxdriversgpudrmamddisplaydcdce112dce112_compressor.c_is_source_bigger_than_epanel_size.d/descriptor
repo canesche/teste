@@ -1,0 +1,3 @@
+struct TYPE_2__ | embedded_panel_h_size int | embedded_panel_v_size int 
+struct dce112_compressor | base struct TYPE_2__ 
+function is_source_bigger_than_epanel_size int | cp110 struct dce112_compressor * | source_view_width int | source_view_height int

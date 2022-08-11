@@ -1,0 +1,6 @@
+struct lpfc_sli_ring | dummy int 
+struct TYPE_6__ | sli3_ring struct lpfc_sli_ring * 
+struct TYPE_5__ | els_wq struct TYPE_4__ * 
+struct lpfc_hba | sli_rev long | sli struct TYPE_6__ | sli4_hba struct TYPE_5__ 
+struct TYPE_4__ | pring struct lpfc_sli_ring * 
+function lpfc_phba_elsring struct lpfc_sli_ring * | phba struct lpfc_hba *

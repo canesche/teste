@@ -1,0 +1,4 @@
+struct sock | dummy int 
+struct sk_buff | dummy int 
+struct net_device | dummy int 
+function vrf_ip6_out struct sk_buff * | vrf_dev struct net_device * | sk struct sock * | skb struct sk_buff *

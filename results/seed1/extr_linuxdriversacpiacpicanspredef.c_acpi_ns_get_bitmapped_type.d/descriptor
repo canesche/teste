@@ -1,0 +1,3 @@
+struct TYPE_2__ | type int 
+struct acpi_operand_object | common struct TYPE_2__ 
+function acpi_ns_get_bitmapped_type int | return_object union acpi_operand_object *

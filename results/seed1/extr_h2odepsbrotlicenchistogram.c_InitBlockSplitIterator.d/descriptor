@@ -1,0 +1,3 @@
+struct TYPE_6__ | lengths int * 
+struct TYPE_5__ | length_ int | type_ long | idx_ long | split_ const struct TYPE_6__ * 
+function InitBlockSplitIterator void | self struct TYPE_5__ * | split const struct TYPE_6__ *

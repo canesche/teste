@@ -1,0 +1,2 @@
+struct mxs_auart_port | devtype long 
+function is_imx28_auart int | s struct mxs_auart_port *

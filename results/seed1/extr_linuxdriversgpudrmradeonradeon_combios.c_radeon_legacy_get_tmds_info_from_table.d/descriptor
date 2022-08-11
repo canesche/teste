@@ -1,0 +1,8 @@
+struct radeon_encoder_int_tmds | tmds_pll struct TYPE_4__ * 
+struct TYPE_5__ | dev struct drm_device * 
+struct radeon_encoder | base struct TYPE_5__ 
+struct radeon_device | family unsigned long 
+struct drm_device | dev_private struct radeon_device * 
+struct TYPE_6__ | freq int | value int 
+struct TYPE_4__ | freq int | value int 
+function radeon_legacy_get_tmds_info_from_table int | encoder struct radeon_encoder * | tmds struct radeon_encoder_int_tmds *

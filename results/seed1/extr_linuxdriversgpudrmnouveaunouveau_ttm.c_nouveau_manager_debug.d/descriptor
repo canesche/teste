@@ -1,0 +1,3 @@
+struct ttm_mem_type_manager | dummy int 
+struct drm_printer | dummy int 
+function nouveau_manager_debug void | man struct ttm_mem_type_manager * | printer struct drm_printer *

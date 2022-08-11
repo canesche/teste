@@ -1,0 +1,2 @@
+struct paste_buffer | name const char * 
+function paste_buffer_name const char * | pb struct paste_buffer *

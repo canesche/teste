@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxarchx86eventsinteluncore_snbep.c_skx_cha_filter_mask.d/extr_linuxarchx86eventsinteluncore_snbep.c_skx_cha_filter_mask_O0::skx_cha_filter_mask(73)"
+  }
+]

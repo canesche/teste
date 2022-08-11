@@ -1,0 +1,4 @@
+struct inode | i_sb struct TYPE_2__ * 
+struct gfs2_sbd | dummy int 
+struct TYPE_2__ | s_fs_info struct gfs2_sbd * 
+function GFS2_SB struct gfs2_sbd * | inode const struct inode *

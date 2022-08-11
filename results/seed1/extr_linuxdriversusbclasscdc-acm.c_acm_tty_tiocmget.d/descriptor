@@ -1,0 +1,3 @@
+struct tty_struct | driver_data struct acm * 
+struct acm | ctrlout int | ctrlin int 
+function acm_tty_tiocmget int | tty struct tty_struct *

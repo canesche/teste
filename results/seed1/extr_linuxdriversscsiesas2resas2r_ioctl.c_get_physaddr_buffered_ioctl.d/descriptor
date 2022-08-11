@@ -1,0 +1,2 @@
+struct esas2r_sg_context | cur_offset long 
+function get_physaddr_buffered_ioctl long | sgc struct esas2r_sg_context * | addr long *

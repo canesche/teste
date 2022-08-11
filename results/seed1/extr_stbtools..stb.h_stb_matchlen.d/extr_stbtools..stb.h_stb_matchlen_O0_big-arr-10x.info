@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 164,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_stbtools..stb.h_stb_matchlen.d/extr_stbtools..stb.h_stb_matchlen_O0::stb_matchlen(62)"
+  }
+]

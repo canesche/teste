@@ -1,0 +1,3 @@
+struct ifbrparam | ifbrp_ctime int 
+struct bridge_softc | sc_brttimeout int 
+function bridge_ioctl_sto int | sc struct bridge_softc * | arg void *

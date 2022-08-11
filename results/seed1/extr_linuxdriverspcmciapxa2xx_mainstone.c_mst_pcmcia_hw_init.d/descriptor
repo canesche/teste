@@ -1,0 +1,4 @@
+struct TYPE_3__ | pci_irq int 
+struct soc_pcmcia_socket | nr long | stat struct TYPE_4__ * | socket struct TYPE_3__ 
+struct TYPE_4__ | name char * | irq int 
+function mst_pcmcia_hw_init int | skt struct soc_pcmcia_socket *

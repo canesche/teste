@@ -1,0 +1,3 @@
+struct qlcnic_hardware_context | total_nic_func int | max_mc_count int | max_uc_count int 
+struct qlcnic_adapter | ahw struct qlcnic_hardware_context * 
+function qlcnic_83xx_set_mac_filter_count void | adapter struct qlcnic_adapter *

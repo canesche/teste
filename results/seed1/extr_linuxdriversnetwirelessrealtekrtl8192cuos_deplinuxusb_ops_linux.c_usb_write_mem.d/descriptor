@@ -1,0 +1,2 @@
+struct intf_hdl | dummy int 
+function usb_write_mem void | pintfhdl struct intf_hdl * | addr int | cnt int | wmem int *

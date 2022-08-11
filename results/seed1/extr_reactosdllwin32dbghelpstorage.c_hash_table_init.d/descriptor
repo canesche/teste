@@ -1,0 +1,3 @@
+struct pool | dummy int 
+struct hash_table | num_buckets unsigned int | buckets int * | pool struct pool * | num_elts long 
+function hash_table_init void | pool struct pool * | ht struct hash_table * | num_buckets unsigned int

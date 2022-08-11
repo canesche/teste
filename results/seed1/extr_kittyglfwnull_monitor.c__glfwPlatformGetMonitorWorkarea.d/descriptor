@@ -1,0 +1,1 @@
+function _glfwPlatformGetMonitorWorkarea void | monitor int * | xpos int * | ypos int * | width int * | height int *

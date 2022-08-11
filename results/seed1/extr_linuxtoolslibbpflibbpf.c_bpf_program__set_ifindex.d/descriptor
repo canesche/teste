@@ -1,0 +1,2 @@
+struct bpf_program | prog_ifindex int 
+function bpf_program__set_ifindex void | prog struct bpf_program * | ifindex int

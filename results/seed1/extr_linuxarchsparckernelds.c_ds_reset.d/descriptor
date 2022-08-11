@@ -1,0 +1,3 @@
+struct ds_info | num_ds_states int | ds_states struct ds_cap_state * | hs_state long 
+struct ds_cap_state | state int 
+function ds_reset void | dp struct ds_info *

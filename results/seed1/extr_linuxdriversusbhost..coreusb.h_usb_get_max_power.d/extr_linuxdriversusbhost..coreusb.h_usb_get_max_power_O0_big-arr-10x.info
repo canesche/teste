@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversusbhost..coreusb.h_usb_get_max_power.d/extr_linuxdriversusbhost..coreusb.h_usb_get_max_power_O0::usb_get_max_power(66)"
+  }
+]

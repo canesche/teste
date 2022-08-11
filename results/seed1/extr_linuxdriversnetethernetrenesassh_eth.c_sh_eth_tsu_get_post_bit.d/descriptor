@@ -1,0 +1,2 @@
+struct sh_eth_private | port int 
+function sh_eth_tsu_get_post_bit int | mdp struct sh_eth_private * | entry int

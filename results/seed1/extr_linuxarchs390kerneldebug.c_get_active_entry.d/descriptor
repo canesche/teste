@@ -1,0 +1,2 @@
+struct TYPE_3__ | active_area unsigned long | active_pages unsigned long * | active_entries int * | areas long ** 
+function get_active_entry int * | id struct TYPE_3__ *

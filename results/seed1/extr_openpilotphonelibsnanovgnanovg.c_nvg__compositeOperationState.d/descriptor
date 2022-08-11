@@ -1,0 +1,2 @@
+struct TYPE_3__ | srcRGB int | dstRGB int | srcAlpha int | dstAlpha int 
+function nvg__compositeOperationState struct TYPE_3__ | op int

@@ -1,0 +1,2 @@
+struct reiserfs_security_handle | dummy int 
+function reiserfs_security_free void | sec struct reiserfs_security_handle *

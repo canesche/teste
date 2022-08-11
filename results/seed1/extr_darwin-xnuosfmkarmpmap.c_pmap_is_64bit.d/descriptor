@@ -1,0 +1,2 @@
+struct TYPE_3__ | is_64bit int 
+function pmap_is_64bit int | pmap struct TYPE_3__ *

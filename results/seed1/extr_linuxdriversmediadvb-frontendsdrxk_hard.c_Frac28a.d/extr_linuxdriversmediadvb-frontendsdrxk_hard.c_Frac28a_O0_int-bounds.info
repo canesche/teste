@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 173,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediadvb-frontendsdrxk_hard.c_Frac28a.d/extr_linuxdriversmediadvb-frontendsdrxk_hard.c_Frac28a_O0::Frac28a(61)"
+  }
+]

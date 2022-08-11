@@ -1,0 +1,1 @@
+function matd_mul void | out double [4][4] | src1 double [4][4] | src2 double [4][4]

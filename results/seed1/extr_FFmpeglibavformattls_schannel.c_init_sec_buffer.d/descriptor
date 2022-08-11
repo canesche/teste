@@ -1,0 +1,2 @@
+struct TYPE_3__ | cbBuffer unsigned long | BufferType unsigned long | pvBuffer void * 
+function init_sec_buffer void | buffer struct TYPE_3__ * | type unsigned long | data void * | size unsigned long

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 9,
+    exit: true,
+    halt: false,
+    edges: 21,
+    static: {
+      instructions: 140,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 140,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_darwin-xnubsdkerntty_compat.c_ttcompatsetlflags.d/extr_darwin-xnubsdkerntty_compat.c_ttcompatsetlflags_O0::ttcompatsetlflags(97)"
+  }
+]

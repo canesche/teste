@@ -1,0 +1,3 @@
+struct TCP_ConnectionTable | banner1 struct TYPE_2__ * 
+struct TYPE_2__ | is_capture_cert unsigned int | is_capture_html unsigned int | is_capture_heartbleed unsigned int | is_capture_ticketbleed unsigned int 
+function tcpcon_set_banner_flags void | tcpcon struct TCP_ConnectionTable * | is_capture_cert unsigned int | is_capture_html unsigned int | is_capture_heartbleed unsigned int | is_capture_ticketbleed unsigned int

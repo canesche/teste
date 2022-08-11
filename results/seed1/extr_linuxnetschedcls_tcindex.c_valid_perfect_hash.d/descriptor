@@ -1,0 +1,2 @@
+struct tcindex_data | hash int | mask int | shift int 
+function valid_perfect_hash int | p struct tcindex_data *

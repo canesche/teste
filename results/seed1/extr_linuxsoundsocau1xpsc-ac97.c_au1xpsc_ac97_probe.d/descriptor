@@ -1,0 +1,2 @@
+struct snd_soc_dai | dummy int 
+function au1xpsc_ac97_probe int | dai struct snd_soc_dai *

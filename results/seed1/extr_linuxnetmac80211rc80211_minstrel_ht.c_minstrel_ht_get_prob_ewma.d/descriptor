@@ -1,0 +1,4 @@
+struct minstrel_ht_sta | groups struct TYPE_4__ * 
+struct TYPE_4__ | rates struct TYPE_3__ * 
+struct TYPE_3__ | prob_ewma int 
+function minstrel_ht_get_prob_ewma int | mi struct minstrel_ht_sta * | rate int

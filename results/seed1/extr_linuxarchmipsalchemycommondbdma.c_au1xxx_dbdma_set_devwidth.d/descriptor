@@ -1,0 +1,3 @@
+struct TYPE_3__ | dev_flags int | dev_devwidth int 
+struct TYPE_4__ | chan_dest struct TYPE_3__ * | chan_src struct TYPE_3__ * 
+function au1xxx_dbdma_set_devwidth int | chanid int | bits int

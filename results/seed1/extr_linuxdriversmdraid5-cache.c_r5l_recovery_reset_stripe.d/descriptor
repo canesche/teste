@@ -1,0 +1,3 @@
+struct stripe_head | disks int | dev struct TYPE_2__ * | log_start int | state long 
+struct TYPE_2__ | flags long 
+function r5l_recovery_reset_stripe void | sh struct stripe_head *

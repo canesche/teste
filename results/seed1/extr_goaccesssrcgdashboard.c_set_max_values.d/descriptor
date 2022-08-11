@@ -1,0 +1,3 @@
+struct TYPE_6__ | max_hits long | max_visitors long 
+struct TYPE_5__ | hits long | visitors long 
+function set_max_values void | meta struct TYPE_6__ * | metrics struct TYPE_5__ *

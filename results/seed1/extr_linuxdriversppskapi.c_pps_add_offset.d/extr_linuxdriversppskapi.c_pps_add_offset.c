@@ -1,0 +1,159 @@
+// ========================================================================= //
+
+// includes
+#include "stdio.h"
+#include "stdlib.h"
+#include "time.h"
+#include "string.h"
+#include "limits.h"
+#include "float.h"
+
+
+
+#define JOTAI_NUM_RANDS_ 25
+
+const unsigned rand_primes[JOTAI_NUM_RANDS_] = {179, 103, 479, 647, 229, 37, 271, 557, 263, 607, 18743, 50359, 21929, 48757, 98179, 12907, 52937, 64579, 49957, 52567, 507163, 149939, 412157, 680861, 757751};
+
+int next_i() {
+  int counter = 0;
+  return rand_primes[(++counter)%JOTAI_NUM_RANDS_];
+}
+
+float next_f() {
+  int counter = 0;
+  return rand_primes[(++counter)%JOTAI_NUM_RANDS_] / 757751.0F;
+} 
+
+
+// Usage menu
+void usage() {
+    printf("%s", "Usage:\n\
+    prog [ARGS]\n\
+\nARGS:\n\
+       0            int-bounds\n\
+       1            big-arr\n\
+       2            big-arr-10x\n\
+\n\
+");
+
+}
+
+
+// ------------------------------------------------------------------------- //
+
+#define NULL ((void*)0)
+typedef unsigned long size_t;  // Customize by platform.
+typedef long intptr_t; typedef unsigned long uintptr_t;
+typedef long scalar_t__;  // Either arithmetic or pointer type.
+/* By default, we understand bool (as a convenience). */
+typedef int bool;
+#define false 0
+#define true 1
+
+/* Forward declarations */
+
+/* Type definitions */
+struct pps_ktime {scalar_t__ nsec; scalar_t__ sec; } ;
+
+/* Variables and functions */
+ scalar_t__ NSEC_PER_SEC ; 
+
+__attribute__((used)) static void pps_add_offset(struct pps_ktime *ts, struct pps_ktime *offset)
+{
+	ts->nsec += offset->nsec;
+	while (ts->nsec >= NSEC_PER_SEC) {
+		ts->nsec -= NSEC_PER_SEC;
+		ts->sec++;
+	}
+	while (ts->nsec < 0) {
+		ts->nsec += NSEC_PER_SEC;
+		ts->sec--;
+	}
+	ts->sec += offset->sec;
+}
+
+
+// ------------------------------------------------------------------------- //
+
+int main(int argc, char *argv[]) {
+
+    if (argc != 2) {
+        usage();
+        return 1;
+    }
+
+    int opt = atoi(argv[1]);
+    switch(opt) {
+
+    // int-bounds
+    case 0:
+    {
+          int _len_ts0 = 1;
+          struct pps_ktime * ts = (struct pps_ktime *) malloc(_len_ts0*sizeof(struct pps_ktime));
+          for(int _i0 = 0; _i0 < _len_ts0; _i0++) {
+            ts[_i0].nsec = ((-2 * (next_i()%2)) + 1) * next_i();
+        ts[_i0].sec = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_offset0 = 1;
+          struct pps_ktime * offset = (struct pps_ktime *) malloc(_len_offset0*sizeof(struct pps_ktime));
+          for(int _i0 = 0; _i0 < _len_offset0; _i0++) {
+            offset[_i0].nsec = ((-2 * (next_i()%2)) + 1) * next_i();
+        offset[_i0].sec = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          pps_add_offset(ts,offset);
+          free(ts);
+          free(offset);
+        
+        break;
+    }
+    // big-arr
+    case 1:
+    {
+          int _len_ts0 = 65025;
+          struct pps_ktime * ts = (struct pps_ktime *) malloc(_len_ts0*sizeof(struct pps_ktime));
+          for(int _i0 = 0; _i0 < _len_ts0; _i0++) {
+            ts[_i0].nsec = ((-2 * (next_i()%2)) + 1) * next_i();
+        ts[_i0].sec = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_offset0 = 65025;
+          struct pps_ktime * offset = (struct pps_ktime *) malloc(_len_offset0*sizeof(struct pps_ktime));
+          for(int _i0 = 0; _i0 < _len_offset0; _i0++) {
+            offset[_i0].nsec = ((-2 * (next_i()%2)) + 1) * next_i();
+        offset[_i0].sec = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          pps_add_offset(ts,offset);
+          free(ts);
+          free(offset);
+        
+        break;
+    }
+    // big-arr-10x
+    case 2:
+    {
+          int _len_ts0 = 100;
+          struct pps_ktime * ts = (struct pps_ktime *) malloc(_len_ts0*sizeof(struct pps_ktime));
+          for(int _i0 = 0; _i0 < _len_ts0; _i0++) {
+            ts[_i0].nsec = ((-2 * (next_i()%2)) + 1) * next_i();
+        ts[_i0].sec = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_offset0 = 100;
+          struct pps_ktime * offset = (struct pps_ktime *) malloc(_len_offset0*sizeof(struct pps_ktime));
+          for(int _i0 = 0; _i0 < _len_offset0; _i0++) {
+            offset[_i0].nsec = ((-2 * (next_i()%2)) + 1) * next_i();
+        offset[_i0].sec = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          pps_add_offset(ts,offset);
+          free(ts);
+          free(offset);
+        
+        break;
+    }
+
+    default:
+        usage();
+        break;
+
+    }
+
+    return 0;
+}

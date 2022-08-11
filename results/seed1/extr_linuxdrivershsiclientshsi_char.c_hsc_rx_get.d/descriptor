@@ -1,0 +1,4 @@
+struct TYPE_2__ | flow int | num_hw_channels int | mode int 
+struct hsi_client | rx_cfg struct TYPE_2__ 
+struct hsc_rx_config | flow int | channels int | mode int 
+function hsc_rx_get void | cl struct hsi_client * | rxc struct hsc_rx_config *

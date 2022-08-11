@@ -1,0 +1,2 @@
+struct adf_accel_dev | dummy int 
+function adf_enable_pf2vf_interrupts void | accel_dev struct adf_accel_dev *

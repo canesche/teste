@@ -1,0 +1,4 @@
+struct phy_status_rpt_8812 | pwdb_all int 
+struct phy_dm_struct | is_in_hct_test int 
+struct dm_phy_status_info | rx_pwdb_all int 
+function phydm_get_signal_quality_8812 int | phy_info struct dm_phy_status_info * | dm struct phy_dm_struct * | phy_sta_rpt struct phy_status_rpt_8812 *

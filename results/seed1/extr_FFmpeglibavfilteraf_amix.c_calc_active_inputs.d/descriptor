@@ -1,0 +1,2 @@
+struct TYPE_3__ | nb_inputs int | input_state int * | active_inputs int | duration_mode long 
+function calc_active_inputs int | s struct TYPE_3__ *

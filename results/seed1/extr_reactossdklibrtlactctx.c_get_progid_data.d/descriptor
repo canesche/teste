@@ -1,0 +1,4 @@
+struct string_index | data_offset int 
+struct progidredirect_data | dummy int 
+struct TYPE_3__ | progid_section long 
+function get_progid_data struct progidredirect_data * | actctx struct TYPE_3__ * | index const struct string_index *

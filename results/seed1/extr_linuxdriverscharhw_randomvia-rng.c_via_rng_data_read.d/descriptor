@@ -1,0 +1,2 @@
+struct hwrng | priv int 
+function via_rng_data_read int | rng struct hwrng * | data int *

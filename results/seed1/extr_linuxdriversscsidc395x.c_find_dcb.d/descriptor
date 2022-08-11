@@ -1,0 +1,3 @@
+struct DeviceCtlBlk | dummy int 
+struct AdapterCtlBlk | children struct DeviceCtlBlk *** 
+function find_dcb struct DeviceCtlBlk * | acb struct AdapterCtlBlk * | id unsigned long | lun unsigned long

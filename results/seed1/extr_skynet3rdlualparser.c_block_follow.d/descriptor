@@ -1,0 +1,3 @@
+struct TYPE_4__ | token int 
+struct TYPE_5__ | t struct TYPE_4__ 
+function block_follow int | ls struct TYPE_5__ * | withuntil int

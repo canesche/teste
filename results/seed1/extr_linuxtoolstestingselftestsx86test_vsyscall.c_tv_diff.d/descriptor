@@ -1,0 +1,2 @@
+struct timeval | tv_usec long | tv_sec long 
+function tv_diff double | a const struct timeval * | b const struct timeval *

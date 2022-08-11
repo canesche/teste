@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmamdamdgpudf_v3_6.c_df_v3_6_init.d/extr_linuxdriversgpudrmamdamdgpudf_v3_6.c_df_v3_6_init_O0::df_v3_6_init(61)"
+  }
+]

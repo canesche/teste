@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function ext2_xattr_set int | inode struct inode * | name_index int | name const char * | value const void * | size unsigned long | flags int

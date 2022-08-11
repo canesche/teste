@@ -1,0 +1,2 @@
+struct bq27xxx_device_info | opts int 
+function bq27xxx_battery_dead int | di struct bq27xxx_device_info * | flags int

@@ -1,0 +1,2 @@
+struct python_obs_timer | next struct python_obs_timer * | p_prev_next struct python_obs_timer ** 
+function python_obs_timer_remove void | timer struct python_obs_timer *

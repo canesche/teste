@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_kphp-kdbnewsnews-data.c_cmp_bookmark.d/extr_kphp-kdbnewsnews-data.c_cmp_bookmark_O0::cmp_bookmark(60)"
+  }
+]

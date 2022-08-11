@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxsoundsocintelskylakeskl-sst-dsp.c_is_skl_dsp_running.d/extr_linuxsoundsocintelskylakeskl-sst-dsp.c_is_skl_dsp_running_O0::is_skl_dsp_running(62)"
+  }
+]

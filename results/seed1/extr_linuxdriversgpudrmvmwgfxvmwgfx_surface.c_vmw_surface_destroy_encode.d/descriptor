@@ -1,0 +1,4 @@
+struct TYPE_4__ | sid int 
+struct TYPE_3__ | size int | id int 
+struct vmw_surface_destroy | body struct TYPE_4__ | header struct TYPE_3__ 
+function vmw_surface_destroy_encode void | id int | cmd_space void *

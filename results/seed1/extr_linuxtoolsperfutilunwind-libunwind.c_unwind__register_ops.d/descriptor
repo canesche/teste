@@ -1,0 +1,3 @@
+struct unwind_libunwind_ops | dummy int 
+struct thread | unwind_libunwind_ops struct unwind_libunwind_ops * 
+function unwind__register_ops void | thread struct thread * | ops struct unwind_libunwind_ops *

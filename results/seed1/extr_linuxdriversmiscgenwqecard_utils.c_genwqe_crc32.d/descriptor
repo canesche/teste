@@ -1,0 +1,1 @@
+function genwqe_crc32 int | buff int * | len unsigned long | init int

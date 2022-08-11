@@ -1,0 +1,3 @@
+struct mtk_ring | cmd_next long | cmd_base long | res_base long | res_next long 
+struct mtk_desc | dummy int 
+function mtk_sha_ring_shift void | ring struct mtk_ring * | cmd_curr struct mtk_desc ** | res_curr struct mtk_desc ** | count int *

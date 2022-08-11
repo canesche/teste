@@ -1,0 +1,2 @@
+struct time | tz long | sec long 
+function parse_timezone void | time struct time * | zone const char *

@@ -1,0 +1,2 @@
+struct work_atoms | nb_atoms int | total_lat int 
+function avg_cmp int | l struct work_atoms * | r struct work_atoms *

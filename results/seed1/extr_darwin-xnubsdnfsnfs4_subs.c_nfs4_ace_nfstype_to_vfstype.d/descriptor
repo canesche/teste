@@ -1,0 +1,1 @@
+function nfs4_ace_nfstype_to_vfstype int | nfsacetype int | errorp int *

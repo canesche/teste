@@ -1,0 +1,2 @@
+struct TYPE_3__ | colortype int 
+function lodepng_is_alpha_type unsigned int | info const struct TYPE_3__ *

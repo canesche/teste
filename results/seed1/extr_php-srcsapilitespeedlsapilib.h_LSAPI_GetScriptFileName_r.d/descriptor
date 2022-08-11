@@ -1,0 +1,2 @@
+struct TYPE_3__ | m_pScriptFile char * 
+function LSAPI_GetScriptFileName_r char * | pReq struct TYPE_3__ *

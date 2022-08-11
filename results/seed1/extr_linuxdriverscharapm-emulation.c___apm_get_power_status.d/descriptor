@@ -1,0 +1,2 @@
+struct apm_power_info | dummy int 
+function __apm_get_power_status void | info struct apm_power_info *

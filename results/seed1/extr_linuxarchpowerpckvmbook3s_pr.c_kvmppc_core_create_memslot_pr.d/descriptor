@@ -1,0 +1,2 @@
+struct kvm_memory_slot | dummy int 
+function kvmppc_core_create_memslot_pr int | slot struct kvm_memory_slot * | npages unsigned long

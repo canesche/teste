@@ -1,0 +1,2 @@
+struct pinctrl_dev | dummy int 
+function pinmux_generic_free_functions void | pctldev struct pinctrl_dev *

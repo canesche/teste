@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_kphp-kdbsearchsearch-data.c_get_object_id.d/extr_kphp-kdbsearchsearch-data.c_get_object_id_O0::get_object_id(59)"
+  }
+]

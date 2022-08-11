@@ -1,0 +1,2 @@
+struct dwc3 | dummy int 
+function dwc3_otg_update void | dwc struct dwc3 * | ignore_idstatus int

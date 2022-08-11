@@ -1,0 +1,3 @@
+struct kvm_cpuid_param | dummy int 
+struct TYPE_2__ | x86_vendor long 
+function is_centaur_cpu int | param const struct kvm_cpuid_param *

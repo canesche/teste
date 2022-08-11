@@ -1,0 +1,2 @@
+struct dn_dev_parms | dummy int 
+function dn_dev_sysctl_unregister void | parms struct dn_dev_parms *

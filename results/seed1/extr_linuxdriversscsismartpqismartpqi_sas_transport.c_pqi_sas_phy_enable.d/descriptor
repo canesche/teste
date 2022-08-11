@@ -1,0 +1,2 @@
+struct sas_phy | dummy int 
+function pqi_sas_phy_enable int | phy struct sas_phy * | enable int

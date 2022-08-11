@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversvideofbdevatyaty128fb.c_depth_to_dst.d/extr_linuxdriversvideofbdevatyaty128fb.c_depth_to_dst_O0::depth_to_dst(67)"
+  }
+]

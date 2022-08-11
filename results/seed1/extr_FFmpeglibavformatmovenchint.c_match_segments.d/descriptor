@@ -1,0 +1,1 @@
+function match_segments int | haystack const long * | h_len int | needle const long * | n_pos int | n_len int | match_h_offset_ptr int * | match_n_offset_ptr int * | match_len_ptr int *

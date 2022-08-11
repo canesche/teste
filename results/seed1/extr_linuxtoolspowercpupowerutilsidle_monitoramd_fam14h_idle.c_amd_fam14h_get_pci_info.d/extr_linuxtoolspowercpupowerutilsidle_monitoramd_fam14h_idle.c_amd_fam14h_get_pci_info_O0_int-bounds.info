@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxtoolspowercpupowerutilsidle_monitoramd_fam14h_idle.c_amd_fam14h_get_pci_info.d/extr_linuxtoolspowercpupowerutilsidle_monitoramd_fam14h_idle.c_amd_fam14h_get_pci_info_O0::amd_fam14h_get_pci_info(76)"
+  }
+]

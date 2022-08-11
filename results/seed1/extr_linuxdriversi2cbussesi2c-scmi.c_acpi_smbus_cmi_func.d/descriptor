@@ -1,0 +1,3 @@
+struct i2c_adapter | algo_data struct acpi_smbus_cmi * 
+struct acpi_smbus_cmi | cap_read int | cap_write int 
+function acpi_smbus_cmi_func int | adapter struct i2c_adapter *

@@ -1,0 +1,2 @@
+struct sprd_adi | slave_pbase unsigned long | slave_vbase unsigned long 
+function sprd_adi_to_vaddr unsigned long | sadi struct sprd_adi * | paddr unsigned long

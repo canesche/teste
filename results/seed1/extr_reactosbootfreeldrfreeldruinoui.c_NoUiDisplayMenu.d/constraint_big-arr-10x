@@ -1,0 +1,1 @@
+value(MenuHeader) == 10, value(MenuFooter) == 10, value(ShowBootOptions) == 10, value(MenuItemCount) == 10, value(DefaultMenuItem) == 10, value(MenuTimeOut) == 10, value(CanEscape) == 10, value(KeyPressFilter) == 10, length(MenuItemList) == 100, length(SelectedMenuItem) == 100

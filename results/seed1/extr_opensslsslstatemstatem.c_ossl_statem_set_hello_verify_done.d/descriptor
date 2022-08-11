@@ -1,0 +1,3 @@
+struct TYPE_4__ | in_init int | hand_state int | state int 
+struct TYPE_5__ | statem struct TYPE_4__ 
+function ossl_statem_set_hello_verify_done void | s struct TYPE_5__ *

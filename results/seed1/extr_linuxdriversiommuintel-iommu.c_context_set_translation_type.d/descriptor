@@ -1,0 +1,2 @@
+struct context_entry | lo int 
+function context_set_translation_type void | context struct context_entry * | value unsigned long

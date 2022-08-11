@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversscsiqediqedi_iscsi.c_qedi_attr_is_visible.d/extr_linuxdriversscsiqediqedi_iscsi.c_qedi_attr_is_visible_O0::qedi_attr_is_visible(100)"
+  }
+]

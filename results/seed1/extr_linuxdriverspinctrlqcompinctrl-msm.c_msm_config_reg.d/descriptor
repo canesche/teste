@@ -1,0 +1,3 @@
+struct msm_pingroup | pull_bit unsigned int | drv_bit unsigned int | oe_bit unsigned int 
+struct msm_pinctrl | dummy int 
+function msm_config_reg int | pctrl struct msm_pinctrl * | g const struct msm_pingroup * | param unsigned int | mask unsigned int * | bit unsigned int *

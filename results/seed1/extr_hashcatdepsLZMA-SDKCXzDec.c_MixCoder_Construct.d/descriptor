@@ -1,0 +1,3 @@
+struct TYPE_5__ | coders struct TYPE_4__ * | outBuf int * | outBufSize long | numCoders long | buf int * | alloc int 
+struct TYPE_4__ | p int * 
+function MixCoder_Construct void | p struct TYPE_5__ * | alloc int

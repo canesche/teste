@@ -1,0 +1,2 @@
+struct adapter | dummy int 
+function dm_CheckStatistics void | Adapter struct adapter *

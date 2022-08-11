@@ -1,0 +1,2 @@
+function from_bigendian int | n int
+struct  | big int | bytes int [4] 

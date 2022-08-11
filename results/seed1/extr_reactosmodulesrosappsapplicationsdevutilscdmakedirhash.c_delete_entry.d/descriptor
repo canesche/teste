@@ -1,0 +1,3 @@
+struct target_dir_hash | buckets struct target_dir_entry ** 
+struct target_dir_entry | hashcode unsigned long | next_dir_hash_entry struct target_dir_entry * 
+function delete_entry void | dh struct target_dir_hash * | de struct target_dir_entry *

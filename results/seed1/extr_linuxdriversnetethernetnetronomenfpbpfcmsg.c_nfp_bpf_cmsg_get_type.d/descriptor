@@ -1,0 +1,3 @@
+struct sk_buff | data long 
+struct cmsg_hdr | type int 
+function nfp_bpf_cmsg_get_type int | skb struct sk_buff *

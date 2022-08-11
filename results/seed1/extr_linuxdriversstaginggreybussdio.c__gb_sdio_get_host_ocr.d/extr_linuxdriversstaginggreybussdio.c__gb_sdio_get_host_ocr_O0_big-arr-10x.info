@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 18,
+    phantoms: 17,
+    exit: true,
+    halt: false,
+    edges: 36,
+    static: {
+      instructions: 191,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 191,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversstaginggreybussdio.c__gb_sdio_get_host_ocr.d/extr_linuxdriversstaginggreybussdio.c__gb_sdio_get_host_ocr_O0::_gb_sdio_get_host_ocr(95)"
+  }
+]

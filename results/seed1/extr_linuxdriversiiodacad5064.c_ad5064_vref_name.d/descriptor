@@ -1,0 +1,3 @@
+struct ad5064_state | chip_info struct TYPE_2__ * 
+struct TYPE_2__ | shared_vref long 
+function ad5064_vref_name const char *const | st struct ad5064_state * | vref unsigned int

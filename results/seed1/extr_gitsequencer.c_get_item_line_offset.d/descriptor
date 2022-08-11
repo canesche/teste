@@ -1,0 +1,4 @@
+struct TYPE_4__ | len int 
+struct todo_list | nr int | buf struct TYPE_4__ | items struct TYPE_3__ * 
+struct TYPE_3__ | offset_in_buf int 
+function get_item_line_offset int | todo_list struct todo_list * | index int

@@ -1,0 +1,2 @@
+struct TYPE_4__ | c_packed_ptr int | c_size int 
+function cslot_copy void | cdst struct TYPE_4__ * | csrc struct TYPE_4__ *

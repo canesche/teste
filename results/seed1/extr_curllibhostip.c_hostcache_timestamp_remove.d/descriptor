@@ -1,0 +1,3 @@
+struct hostcache_prune_data | now long | cache_timeout long 
+struct Curl_dns_entry | timestamp long 
+function hostcache_timestamp_remove int | datap void * | hc void *

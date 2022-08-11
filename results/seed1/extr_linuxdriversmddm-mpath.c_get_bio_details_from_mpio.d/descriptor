@@ -1,0 +1,2 @@
+struct dm_mpath_io | dummy int 
+function get_bio_details_from_mpio struct dm_bio_details * | mpio struct dm_mpath_io *

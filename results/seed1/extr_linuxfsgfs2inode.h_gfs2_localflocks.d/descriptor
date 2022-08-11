@@ -1,0 +1,2 @@
+struct gfs2_sbd | dummy int 
+function gfs2_localflocks int | sdp const struct gfs2_sbd *

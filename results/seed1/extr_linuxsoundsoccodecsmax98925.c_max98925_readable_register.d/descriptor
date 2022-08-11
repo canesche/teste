@@ -1,0 +1,2 @@
+struct device | dummy int 
+function max98925_readable_register int | dev struct device * | reg unsigned int

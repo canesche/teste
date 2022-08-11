@@ -1,0 +1,2 @@
+struct qed_tunnel_info | dummy int 
+function qed_vf_set_vf_start_tunn_update_param void | p_tun struct qed_tunnel_info *

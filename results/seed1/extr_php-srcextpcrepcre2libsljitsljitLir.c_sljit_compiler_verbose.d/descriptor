@@ -1,0 +1,2 @@
+struct sljit_compiler | verbose int * 
+function sljit_compiler_verbose void | compiler struct sljit_compiler * | verbose int *

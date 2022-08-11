@@ -1,0 +1,2 @@
+struct rsnd_dai | max_channels int 
+function rsnd_rdai_channels_ctrl int | rdai struct rsnd_dai * | max_channels int

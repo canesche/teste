@@ -1,0 +1,3 @@
+struct sched_entity | dummy int 
+struct cfs_rq | dummy int 
+function dequeue_load_avg void | cfs_rq struct cfs_rq * | se struct sched_entity *

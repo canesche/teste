@@ -1,0 +1,5 @@
+struct intel_pt_queue | dummy int 
+struct TYPE_4__ | nr_queues unsigned int | queue_array struct TYPE_3__ * 
+struct intel_pt | queues struct TYPE_4__ 
+struct TYPE_3__ | cpu int | priv struct intel_pt_queue * 
+function intel_pt_cpu_to_ptq struct intel_pt_queue * | pt struct intel_pt * | cpu int

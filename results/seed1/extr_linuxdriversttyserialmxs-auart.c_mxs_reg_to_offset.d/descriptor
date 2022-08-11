@@ -1,0 +1,3 @@
+struct mxs_auart_port | vendor struct TYPE_2__ * 
+struct TYPE_2__ | reg_offset unsigned int * 
+function mxs_reg_to_offset unsigned int | uap const struct mxs_auart_port * | reg unsigned int

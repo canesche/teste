@@ -1,0 +1,3 @@
+struct thread | dummy int 
+struct hist_entry | thread const struct thread * 
+function hist_entry__thread_filter int | he struct hist_entry * | type int | arg const void *

@@ -1,0 +1,2 @@
+struct netagent_message_header | message_payload_length void * | message_error void * | message_id void * | message_flags void * | message_type void * 
+function netagent_buffer_write_message_header void ** | buffer void ** | message_type void * | flags void * | message_id void * | error void * | payload_length void *

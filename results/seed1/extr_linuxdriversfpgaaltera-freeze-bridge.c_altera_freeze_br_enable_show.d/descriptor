@@ -1,0 +1,3 @@
+struct fpga_bridge | priv struct altera_freeze_br_data * 
+struct altera_freeze_br_data | enable int 
+function altera_freeze_br_enable_show int | bridge struct fpga_bridge *

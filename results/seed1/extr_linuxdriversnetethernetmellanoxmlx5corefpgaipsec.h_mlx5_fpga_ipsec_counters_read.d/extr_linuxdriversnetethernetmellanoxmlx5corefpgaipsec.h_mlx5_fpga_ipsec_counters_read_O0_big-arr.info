@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetmellanoxmlx5corefpgaipsec.h_mlx5_fpga_ipsec_counters_read.d/extr_linuxdriversnetethernetmellanoxmlx5corefpgaipsec.h_mlx5_fpga_ipsec_counters_read_O0::mlx5_fpga_ipsec_counters_read(63)"
+  }
+]

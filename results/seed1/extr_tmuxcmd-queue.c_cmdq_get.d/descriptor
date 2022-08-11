@@ -1,0 +1,3 @@
+struct cmdq_list | dummy int 
+struct client | queue struct cmdq_list 
+function cmdq_get struct cmdq_list * | c struct client *

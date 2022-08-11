@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 66,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 66,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediausbgspcagl860gl860-mi1320.c_mi1320_init_settings.d/extr_linuxdriversmediausbgspcagl860gl860-mi1320.c_mi1320_init_settings_O0::mi1320_init_settings(71)"
+  }
+]

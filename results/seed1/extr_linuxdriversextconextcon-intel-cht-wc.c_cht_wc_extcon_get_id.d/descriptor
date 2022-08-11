@@ -1,0 +1,2 @@
+struct cht_wc_extcon_data | dummy int 
+function cht_wc_extcon_get_id int | ext struct cht_wc_extcon_data * | pwrsrc_sts int

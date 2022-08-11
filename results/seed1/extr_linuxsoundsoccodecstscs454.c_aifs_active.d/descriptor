@@ -1,0 +1,2 @@
+struct aifs_status | streams int 
+function aifs_active int | status struct aifs_status *

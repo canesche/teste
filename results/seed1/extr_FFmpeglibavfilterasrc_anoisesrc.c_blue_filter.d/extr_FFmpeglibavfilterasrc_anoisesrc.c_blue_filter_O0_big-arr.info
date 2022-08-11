@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 78,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 78,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_FFmpeglibavfilterasrc_anoisesrc.c_blue_filter.d/extr_FFmpeglibavfilterasrc_anoisesrc.c_blue_filter_O0::blue_filter(60)"
+  }
+]

@@ -1,0 +1,4 @@
+struct iwl_trans | cfg struct TYPE_2__ * 
+struct iwl_rx_transfer_desc | dummy int 
+struct TYPE_2__ | mq_rx_supported long 
+function iwl_pcie_free_bd_size int | trans struct iwl_trans * | use_rx_td int

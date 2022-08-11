@@ -1,0 +1,2 @@
+struct rpc_xprt | dummy int 
+function xs_local_set_port void | xprt struct rpc_xprt * | port unsigned short

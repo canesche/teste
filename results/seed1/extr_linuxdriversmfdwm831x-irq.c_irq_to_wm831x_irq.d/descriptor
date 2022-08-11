@@ -1,0 +1,3 @@
+struct wm831x_irq_data | dummy int 
+struct wm831x | dummy int 
+function irq_to_wm831x_irq struct wm831x_irq_data * | wm831x struct wm831x * | irq int

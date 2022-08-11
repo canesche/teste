@@ -1,0 +1,3 @@
+struct sock | sk_state int | sk_err int 
+struct l2cap_chan | data struct sock * 
+function l2cap_sock_state_change_cb void | chan struct l2cap_chan * | state int | err int

@@ -1,0 +1,4 @@
+struct TYPE_4__ | no_in_queues int | c_q int * 
+struct TYPE_3__ | cq long 
+struct qeth_card | qdio struct TYPE_4__ | options struct TYPE_3__ 
+function qeth_is_cq int | card struct qeth_card * | queue unsigned int

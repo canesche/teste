@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmemstickcoremspro_block.c_mspro_block_bd_getgeo.d/extr_linuxdriversmemstickcoremspro_block.c_mspro_block_bd_getgeo_O0::mspro_block_bd_getgeo(66)"
+  }
+]

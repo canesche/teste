@@ -1,0 +1,2 @@
+struct clk_hw | dummy int 
+function jz4780_otg_phy_get_parent int | hw struct clk_hw *

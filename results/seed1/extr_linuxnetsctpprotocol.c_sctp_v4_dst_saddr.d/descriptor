@@ -1,0 +1,5 @@
+struct TYPE_3__ | s_addr int 
+struct TYPE_4__ | sin_addr struct TYPE_3__ | sin_port int | sin_family int 
+struct sctp_addr | v4 struct TYPE_4__ 
+struct flowi4 | saddr int 
+function sctp_v4_dst_saddr void | saddr union sctp_addr * | fl4 struct flowi4 * | port int

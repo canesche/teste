@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversttycyclades.c_cyy_baud_calc.d/extr_linuxdriversttycyclades.c_cyy_baud_calc_O0::cyy_baud_calc(63)"
+  }
+]

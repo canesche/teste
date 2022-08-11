@@ -1,0 +1,2 @@
+struct scsi_cmnd | cmnd int * 
+function srb10_lba unsigned int | cmd const struct scsi_cmnd *

@@ -1,0 +1,2 @@
+struct snd_ice1712 | dummy int 
+function stdclock_get_spdif_master_type int | ice struct snd_ice1712 *

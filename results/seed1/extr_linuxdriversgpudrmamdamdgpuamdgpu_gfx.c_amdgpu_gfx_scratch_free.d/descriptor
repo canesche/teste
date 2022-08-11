@@ -1,0 +1,4 @@
+struct TYPE_3__ | free_mask unsigned int | reg_base unsigned int 
+struct TYPE_4__ | scratch struct TYPE_3__ 
+struct amdgpu_device | gfx struct TYPE_4__ 
+function amdgpu_gfx_scratch_free void | adev struct amdgpu_device * | reg unsigned int

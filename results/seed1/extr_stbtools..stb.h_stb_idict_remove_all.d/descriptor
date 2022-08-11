@@ -1,0 +1,3 @@
+struct TYPE_5__ | limit int | deleted long | count long | has_del long | has_empty long | table struct TYPE_4__ * 
+struct TYPE_4__ | k int 
+function stb_idict_remove_all void | e struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct npcm7xx_pwm_fan_data | pwm_present int * 
+function npcm7xx_pwm_is_visible int | _data const void * | attr int | channel int

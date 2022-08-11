@@ -1,0 +1,2 @@
+struct ixgbe_adapter | link_speed int 
+function ixgbe_link_mbps int | adapter struct ixgbe_adapter *

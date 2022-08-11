@@ -1,0 +1,2 @@
+struct em28xx | chip_id long | is_webcam long 
+function em28xx_vbi_supported int | dev struct em28xx *

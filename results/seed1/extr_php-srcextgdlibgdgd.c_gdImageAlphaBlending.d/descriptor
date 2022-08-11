@@ -1,0 +1,2 @@
+struct TYPE_3__ | alphaBlendingFlag int 
+function gdImageAlphaBlending void | im struct TYPE_3__ * | alphaBlendingArg int

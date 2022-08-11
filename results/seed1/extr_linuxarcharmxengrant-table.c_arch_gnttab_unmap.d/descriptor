@@ -1,0 +1,1 @@
+function arch_gnttab_unmap void | shared void * | nr_gframes unsigned long

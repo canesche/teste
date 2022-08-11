@@ -1,0 +1,3 @@
+struct clk_hw | core struct TYPE_2__ * 
+struct TYPE_2__ | flags unsigned long 
+function clk_hw_get_flags unsigned long | hw const struct clk_hw *

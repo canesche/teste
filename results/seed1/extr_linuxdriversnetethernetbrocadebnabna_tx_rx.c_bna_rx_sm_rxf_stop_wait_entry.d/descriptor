@@ -1,0 +1,2 @@
+struct bna_rx | dummy int 
+function bna_rx_sm_rxf_stop_wait_entry void | rx struct bna_rx *

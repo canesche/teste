@@ -1,0 +1,3 @@
+struct sci_base_state_machine | current_state_id int 
+struct isci_remote_device | sm struct sci_base_state_machine 
+function is_remote_device_ready int | idev struct isci_remote_device *

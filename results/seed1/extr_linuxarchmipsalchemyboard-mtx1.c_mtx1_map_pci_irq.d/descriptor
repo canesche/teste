@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function mtx1_map_pci_irq int | d const struct pci_dev * | slot unsigned long | pin unsigned long

@@ -1,0 +1,3 @@
+struct sbg_string | s char * | e char * 
+struct sbg_parser | cursor char * | end char * 
+function lex_name int | p struct sbg_parser * | rs struct sbg_string *

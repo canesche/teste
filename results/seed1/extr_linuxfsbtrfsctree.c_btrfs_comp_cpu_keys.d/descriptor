@@ -1,0 +1,2 @@
+struct btrfs_key | objectid long | type long | offset long 
+function btrfs_comp_cpu_keys int | k1 const struct btrfs_key * | k2 const struct btrfs_key *

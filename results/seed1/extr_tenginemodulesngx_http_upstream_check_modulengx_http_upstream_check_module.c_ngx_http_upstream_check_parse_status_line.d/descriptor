@@ -1,0 +1,4 @@
+struct TYPE_7__ | state int 
+struct TYPE_8__ | code int | count int | start char * | end char * 
+struct TYPE_9__ | pos char * | last char * 
+function ngx_http_upstream_check_parse_status_line int | ctx struct TYPE_7__ * | b struct TYPE_9__ * | status struct TYPE_8__ *

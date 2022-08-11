@@ -1,0 +1,2 @@
+struct tcq_if | dummy int 
+function tcq_style const char * | tif struct tcq_if *

@@ -1,0 +1,5 @@
+struct survey_info | time_tx long | time_busy long | time long 
+struct TYPE_2__ | tx long | cca long | active long 
+struct p54_common | update_stats int | survey_raw struct TYPE_2__ | survey struct survey_info * | curchan struct ieee80211_channel * 
+struct ieee80211_channel | hw_value unsigned long 
+function p54_reset_stats void | priv struct p54_common *

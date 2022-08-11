@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 15,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 27,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_opensslsslssl_lib.c_ssl_check_allowed_versions.d/extr_opensslsslssl_lib.c_ssl_check_allowed_versions_O0::ssl_check_allowed_versions(66)"
+  }
+]

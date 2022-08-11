@@ -1,0 +1,1 @@
+function skip_prefix int | str const char * | prefix const char * | out const char **

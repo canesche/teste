@@ -1,0 +1,3 @@
+struct cci_pmu_model | dummy int 
+struct cci_pmu | dummy int 
+function probe_cci_model struct cci_pmu_model * | cci_pmu struct cci_pmu *

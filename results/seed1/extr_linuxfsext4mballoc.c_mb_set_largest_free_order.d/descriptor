@@ -1,0 +1,3 @@
+struct super_block | s_blocksize_bits int 
+struct ext4_group_info | bb_largest_free_order int | bb_counters long * 
+function mb_set_largest_free_order void | sb struct super_block * | grp struct ext4_group_info *

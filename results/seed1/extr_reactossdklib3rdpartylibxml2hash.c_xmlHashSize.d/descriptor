@@ -1,0 +1,2 @@
+struct TYPE_3__ | nbElems int 
+function xmlHashSize int | table struct TYPE_3__ *

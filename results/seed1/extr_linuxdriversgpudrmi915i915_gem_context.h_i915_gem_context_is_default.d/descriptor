@@ -1,0 +1,2 @@
+struct i915_gem_context | user_handle long 
+function i915_gem_context_is_default int | c const struct i915_gem_context *

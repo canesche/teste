@@ -1,0 +1,2 @@
+struct rt_rq | rt_nr_running long | rt_queued long 
+function rt_rq_is_runnable int | rt_rq struct rt_rq *

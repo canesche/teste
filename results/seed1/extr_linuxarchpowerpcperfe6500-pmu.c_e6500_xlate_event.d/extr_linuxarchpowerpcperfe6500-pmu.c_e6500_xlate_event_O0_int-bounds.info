@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxarchpowerpcperfe6500-pmu.c_e6500_xlate_event.d/extr_linuxarchpowerpcperfe6500-pmu.c_e6500_xlate_event_O0::e6500_xlate_event(66)"
+  }
+]

@@ -1,0 +1,7 @@
+struct radeon_vce_clock_voltage_dependency_table | count long | entries struct TYPE_8__ * 
+struct TYPE_5__ | vce_clock_voltage_dependency_table struct radeon_vce_clock_voltage_dependency_table 
+struct TYPE_6__ | dyn_state struct TYPE_5__ 
+struct TYPE_7__ | dpm struct TYPE_6__ 
+struct radeon_device | pm struct TYPE_7__ 
+struct TYPE_8__ | evclk long | ecclk long | v int 
+function trinity_get_vce_clock_voltage int | rdev struct radeon_device * | evclk long | ecclk long | voltage int *

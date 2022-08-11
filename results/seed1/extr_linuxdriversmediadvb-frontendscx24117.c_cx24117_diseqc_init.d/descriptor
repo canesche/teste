@@ -1,0 +1,4 @@
+struct dvb_frontend | demodulator_priv struct cx24117_state * 
+struct TYPE_2__ | args int * | len int 
+struct cx24117_state | dsec_cmd struct TYPE_2__ | demod long 
+function cx24117_diseqc_init int | fe struct dvb_frontend *

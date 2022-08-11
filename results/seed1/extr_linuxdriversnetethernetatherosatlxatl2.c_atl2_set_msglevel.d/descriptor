@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function atl2_set_msglevel void | netdev struct net_device * | data int

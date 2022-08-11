@@ -1,0 +1,1 @@
+function ocb_block_lshift void | in const unsigned char * | shift unsigned long | out unsigned char *

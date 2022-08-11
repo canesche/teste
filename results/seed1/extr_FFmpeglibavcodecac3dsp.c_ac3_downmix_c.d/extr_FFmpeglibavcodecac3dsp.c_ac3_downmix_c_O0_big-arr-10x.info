@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_FFmpeglibavcodecac3dsp.c_ac3_downmix_c.d/extr_FFmpeglibavcodecac3dsp.c_ac3_downmix_c_O0::ac3_downmix_c(61)"
+  }
+]

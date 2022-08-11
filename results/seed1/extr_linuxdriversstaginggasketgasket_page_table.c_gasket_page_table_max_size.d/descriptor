@@ -1,0 +1,3 @@
+struct TYPE_2__ | total_entries int 
+struct gasket_page_table | config struct TYPE_2__ 
+function gasket_page_table_max_size int | page_table struct gasket_page_table *

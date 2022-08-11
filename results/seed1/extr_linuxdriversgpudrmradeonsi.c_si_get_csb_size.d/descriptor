@@ -1,0 +1,5 @@
+struct TYPE_2__ | cs_data struct cs_section_def * 
+struct radeon_device | rlc struct TYPE_2__ 
+struct cs_section_def | id long | section struct cs_extent_def * 
+struct cs_extent_def | reg_count long | extent int * 
+function si_get_csb_size int | rdev struct radeon_device *

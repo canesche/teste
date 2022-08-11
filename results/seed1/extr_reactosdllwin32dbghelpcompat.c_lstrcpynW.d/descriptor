@@ -1,0 +1,1 @@
+function lstrcpynW long * | lpString1 long * | lpString2 const long * | iMaxLength int

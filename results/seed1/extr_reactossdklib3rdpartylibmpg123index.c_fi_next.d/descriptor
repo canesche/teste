@@ -1,0 +1,2 @@
+struct frame_index | step int | fill long 
+function fi_next int | fi struct frame_index *

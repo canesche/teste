@@ -1,0 +1,3 @@
+struct pci_bus | sysdata struct iproc_pcie * 
+struct iproc_pcie | dummy int 
+function iproc_data struct iproc_pcie * | bus struct pci_bus *

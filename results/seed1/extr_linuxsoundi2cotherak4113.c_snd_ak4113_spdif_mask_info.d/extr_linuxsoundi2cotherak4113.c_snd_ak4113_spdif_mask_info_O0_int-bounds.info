@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxsoundi2cotherak4113.c_snd_ak4113_spdif_mask_info.d/extr_linuxsoundi2cotherak4113.c_snd_ak4113_spdif_mask_info_O0::snd_ak4113_spdif_mask_info(64)"
+  }
+]

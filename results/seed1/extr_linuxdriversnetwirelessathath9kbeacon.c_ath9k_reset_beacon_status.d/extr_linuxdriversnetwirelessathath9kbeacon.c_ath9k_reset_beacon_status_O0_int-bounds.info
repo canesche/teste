@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetwirelessathath9kbeacon.c_ath9k_reset_beacon_status.d/extr_linuxdriversnetwirelessathath9kbeacon.c_ath9k_reset_beacon_status_O0::ath9k_reset_beacon_status(63)"
+  }
+]

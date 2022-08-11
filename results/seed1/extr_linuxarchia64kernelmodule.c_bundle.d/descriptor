@@ -1,0 +1,2 @@
+struct insn | dummy int 
+function bundle int | insn const struct insn *

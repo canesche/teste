@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function gpiochip_irqchip_remove void | gpiochip struct gpio_chip *

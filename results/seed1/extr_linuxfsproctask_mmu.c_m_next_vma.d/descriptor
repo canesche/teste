@@ -1,0 +1,3 @@
+struct vm_area_struct | vm_next long 
+struct proc_maps_private | tail_vma struct vm_area_struct * 
+function m_next_vma struct vm_area_struct * | priv struct proc_maps_private * | vma struct vm_area_struct *

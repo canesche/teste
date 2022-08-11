@@ -1,0 +1,2 @@
+struct dso | loaded int 
+function dso__set_loaded void | dso struct dso *

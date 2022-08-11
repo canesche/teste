@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function sctp_eps_seq_stop void | seq struct seq_file * | v void *

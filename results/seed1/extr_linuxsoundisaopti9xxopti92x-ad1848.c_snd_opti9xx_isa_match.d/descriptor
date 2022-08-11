@@ -1,0 +1,2 @@
+struct device | dummy int 
+function snd_opti9xx_isa_match int | devptr struct device * | dev unsigned int

@@ -1,0 +1,3 @@
+struct dvb_pll_priv | bandwidth int 
+struct dvb_frontend | tuner_priv struct dvb_pll_priv * 
+function dvb_pll_get_bandwidth int | fe struct dvb_frontend * | bandwidth int *

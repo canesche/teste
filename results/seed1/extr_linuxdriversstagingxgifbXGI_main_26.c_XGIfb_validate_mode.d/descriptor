@@ -1,0 +1,5 @@
+struct TYPE_3__ | LVDSHDE int | LVDSVDE int 
+struct xgi_hw_device_info | ulCRT2LCDType const int | ulExternalChip int 
+struct xgifb_video_info | chip long | display2 int | video_size unsigned long | TV_type int | hasVB int | lvds_data struct TYPE_3__ | hw_info struct xgi_hw_device_info 
+struct TYPE_4__ | xres int | yres int | bpp int | chipset int 
+function XGIfb_validate_mode int | xgifb_info struct xgifb_video_info * | myindex int

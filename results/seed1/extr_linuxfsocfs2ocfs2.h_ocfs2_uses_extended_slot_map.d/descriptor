@@ -1,0 +1,2 @@
+struct ocfs2_super | s_feature_incompat int 
+function ocfs2_uses_extended_slot_map int | osb struct ocfs2_super *

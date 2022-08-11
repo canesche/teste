@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function iwl_mvm_mac_config int | hw struct ieee80211_hw * | changed int

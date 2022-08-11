@@ -1,0 +1,2 @@
+struct mp_hwdec_ctx | hw_imgfmt int | supported_formats int * 
+function vo_supports int | ctx struct mp_hwdec_ctx * | hw_fmt int | sw_fmt int

@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function acerhdf_probe int | device struct platform_device *

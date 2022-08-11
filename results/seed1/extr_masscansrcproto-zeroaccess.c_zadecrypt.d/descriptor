@@ -1,0 +1,1 @@
+function zadecrypt unsigned int | src const unsigned char * | src_len unsigned long | dst unsigned char * | dst_len unsigned long

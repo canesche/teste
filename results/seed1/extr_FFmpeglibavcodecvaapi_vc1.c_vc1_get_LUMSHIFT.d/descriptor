@@ -1,0 +1,3 @@
+struct TYPE_4__ | pict_type long 
+struct TYPE_5__ | fcm long | mv_mode long | lumshift int | intcompfield int | lumshift2 int | intcomp long | p_frame_skipped int | s struct TYPE_4__ 
+function vc1_get_LUMSHIFT int | v const struct TYPE_5__ *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | type long | index int 
+struct TYPE_6__ | hatCount int | buttonCount int | axisCount int 
+function isValidElementForJoystick int | e const struct TYPE_5__ * | js const struct TYPE_6__ *

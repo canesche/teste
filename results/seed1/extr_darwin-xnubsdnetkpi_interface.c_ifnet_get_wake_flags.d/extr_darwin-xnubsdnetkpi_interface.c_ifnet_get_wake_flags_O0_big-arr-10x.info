@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_darwin-xnubsdnetkpi_interface.c_ifnet_get_wake_flags.d/extr_darwin-xnubsdnetkpi_interface.c_ifnet_get_wake_flags_O0::ifnet_get_wake_flags(67)"
+  }
+]

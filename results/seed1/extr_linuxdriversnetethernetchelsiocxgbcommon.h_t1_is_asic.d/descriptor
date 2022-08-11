@@ -1,0 +1,3 @@
+struct TYPE_4__ | is_asic int 
+struct TYPE_5__ | params struct TYPE_4__ 
+function t1_is_asic int | adapter const struct TYPE_5__ *

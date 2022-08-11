@@ -1,0 +1,2 @@
+struct snd_device | dummy int 
+function onyx_dev_register int | dev struct snd_device *

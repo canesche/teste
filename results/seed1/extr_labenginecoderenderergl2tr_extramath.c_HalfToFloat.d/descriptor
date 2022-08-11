@@ -1,0 +1,5 @@
+struct TYPE_3__ | exponent int | fraction int | sign int 
+struct f32_u | f float | pack struct TYPE_3__ 
+struct TYPE_4__ | fraction int | sign int | exponent long 
+struct f16_u | pack struct TYPE_4__ | ui int 
+function HalfToFloat float | in int

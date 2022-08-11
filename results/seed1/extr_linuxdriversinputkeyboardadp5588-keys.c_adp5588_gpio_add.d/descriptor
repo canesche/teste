@@ -1,0 +1,2 @@
+struct adp5588_kpad | dummy int 
+function adp5588_gpio_add int | kpad struct adp5588_kpad *

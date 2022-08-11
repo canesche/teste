@@ -1,0 +1,2 @@
+struct bug_entry | bug_addr unsigned long 
+function bug_addr unsigned long | bug const struct bug_entry *

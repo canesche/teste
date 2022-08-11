@@ -1,0 +1,2 @@
+struct btrtl_device_info | dummy int 
+function btrtl_free void | btrtl_dev struct btrtl_device_info *

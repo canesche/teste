@@ -1,0 +1,1 @@
+function ff_celp_circ_addf void | out float * | in const float * | lagged const float * | lag int | fac float | n int

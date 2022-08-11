@@ -1,0 +1,4 @@
+struct TYPE_2__ | extendedComID int * 
+struct opal_header | cp struct TYPE_2__ 
+struct opal_dev | cmd long 
+function set_comid void | cmd struct opal_dev * | comid int

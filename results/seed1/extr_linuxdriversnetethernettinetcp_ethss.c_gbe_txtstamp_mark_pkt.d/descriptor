@@ -1,0 +1,3 @@
+struct netcp_packet | dummy int 
+struct gbe_intf | dummy int 
+function gbe_txtstamp_mark_pkt int | gbe_intf struct gbe_intf * | p_info struct netcp_packet *

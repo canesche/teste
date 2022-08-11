@@ -1,0 +1,2 @@
+struct amdgpu_device | dummy int 
+function soc15_need_full_reset int | adev struct amdgpu_device *

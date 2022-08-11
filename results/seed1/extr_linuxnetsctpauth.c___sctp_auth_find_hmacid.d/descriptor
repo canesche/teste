@@ -1,0 +1,1 @@
+function __sctp_auth_find_hmacid int | hmacs long * | n_elts int | hmac_id long

@@ -1,0 +1,2 @@
+struct brcmf_pub | dummy int 
+function brcmf_debugfs_add_entry int | drvr struct brcmf_pub * | fn const char * | read_fn int (*)(struct seq_file *, void *)

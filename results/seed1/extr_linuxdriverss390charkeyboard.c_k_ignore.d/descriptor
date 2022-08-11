@@ -1,0 +1,2 @@
+struct kbd_data | dummy int 
+function k_ignore void | kbd struct kbd_data * | value unsigned char

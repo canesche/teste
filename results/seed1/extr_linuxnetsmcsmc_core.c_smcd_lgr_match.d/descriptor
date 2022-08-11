@@ -1,0 +1,3 @@
+struct smcd_dev | dummy int 
+struct smc_link_group | peer_gid long | smcd struct smcd_dev * 
+function smcd_lgr_match int | lgr struct smc_link_group * | smcismdev struct smcd_dev * | peer_gid long

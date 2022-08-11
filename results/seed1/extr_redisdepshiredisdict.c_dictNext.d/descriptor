@@ -1,0 +1,4 @@
+struct TYPE_7__ | index int | entry struct TYPE_8__ * | nextEntry struct TYPE_8__ * | ht struct TYPE_6__ * 
+struct TYPE_8__ | next struct TYPE_8__ * 
+struct TYPE_6__ | table struct TYPE_8__ ** | size long 
+function dictNext struct TYPE_8__ * | iter struct TYPE_7__ *

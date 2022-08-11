@@ -1,0 +1,4 @@
+struct scrub_page | recover struct TYPE_4__ * 
+struct TYPE_4__ | bbio struct TYPE_3__ * 
+struct TYPE_3__ | map_type int 
+function scrub_is_page_on_raid56 int | page struct scrub_page *

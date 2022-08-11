@@ -1,0 +1,1 @@
+function pack_seg int | src const long * | buffer long * | sz int | n int

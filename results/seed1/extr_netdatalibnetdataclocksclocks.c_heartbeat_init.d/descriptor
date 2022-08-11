@@ -1,0 +1,2 @@
+struct TYPE_3__ | monotonic unsigned long long | realtime unsigned long long 
+function heartbeat_init void | hb struct TYPE_3__ *

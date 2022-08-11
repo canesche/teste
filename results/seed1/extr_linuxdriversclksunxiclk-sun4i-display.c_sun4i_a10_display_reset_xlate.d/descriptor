@@ -1,0 +1,3 @@
+struct reset_controller_dev | dummy int 
+struct of_phandle_args | dummy int 
+function sun4i_a10_display_reset_xlate int | rcdev struct reset_controller_dev * | spec const struct of_phandle_args *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags unsigned long 
+function ASN1_PCTX_get_flags unsigned long | p const struct TYPE_3__ *

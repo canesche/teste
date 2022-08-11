@@ -1,0 +1,2 @@
+struct sym_chip | device_id long | revision_id long 
+function sym_lookup_chip_table struct sym_chip * | device_id long | revision long

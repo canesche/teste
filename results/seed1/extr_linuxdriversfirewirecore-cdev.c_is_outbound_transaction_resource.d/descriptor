@@ -1,0 +1,2 @@
+struct client_resource | release long 
+function is_outbound_transaction_resource int | id int | p void * | data void *

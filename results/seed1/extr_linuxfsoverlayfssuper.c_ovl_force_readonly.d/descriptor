@@ -1,0 +1,2 @@
+struct ovl_fs | workdir int | upper_mnt int 
+function ovl_force_readonly int | ofs struct ovl_fs *

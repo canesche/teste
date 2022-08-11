@@ -1,0 +1,3 @@
+struct pnfs_layout_range | dummy int 
+struct inode | dummy int 
+function nfs4_layoutreturn_refresh_stateid int | dst int * | dst_range struct pnfs_layout_range * | inode struct inode *

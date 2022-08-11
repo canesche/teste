@@ -1,0 +1,4 @@
+struct TYPE_5__ | id unsigned long 
+struct TYPE_6__ | selectedBotNum unsigned long | bots struct TYPE_4__ * 
+struct TYPE_4__ | color int 
+function UI_RemoveBotsMenu_BotEvent void | ptr void * | event int

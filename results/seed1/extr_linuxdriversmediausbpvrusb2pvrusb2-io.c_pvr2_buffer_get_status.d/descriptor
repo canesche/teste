@@ -1,0 +1,2 @@
+struct pvr2_buffer | status int 
+function pvr2_buffer_get_status int | bp struct pvr2_buffer *

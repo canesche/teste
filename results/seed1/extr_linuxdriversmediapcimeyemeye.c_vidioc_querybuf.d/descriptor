@@ -1,0 +1,6 @@
+struct TYPE_5__ | offset unsigned int 
+struct v4l2_buffer | index unsigned int | flags int | length unsigned int | m struct TYPE_5__ | memory int | sequence int | timestamp int | field int | bytesused int 
+struct file | dummy int 
+struct TYPE_6__ | grab_buffer struct TYPE_4__ * 
+struct TYPE_4__ | state long | sequence int | timestamp int | size int 
+function vidioc_querybuf int | file struct file * | fh void * | buf struct v4l2_buffer *

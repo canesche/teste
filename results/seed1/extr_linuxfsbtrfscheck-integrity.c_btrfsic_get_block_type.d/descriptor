@@ -1,0 +1,6 @@
+struct btrfsic_state | latest_superblock struct TYPE_5__ * 
+struct btrfsic_block | dev_bytenr long | is_metadata long | is_superblock long | dev_state struct TYPE_6__ * 
+struct TYPE_6__ | bdev long 
+struct TYPE_5__ | dev_bytenr long | dev_state struct TYPE_4__ * 
+struct TYPE_4__ | bdev long 
+function btrfsic_get_block_type char | state const struct btrfsic_state * | block const struct btrfsic_block *

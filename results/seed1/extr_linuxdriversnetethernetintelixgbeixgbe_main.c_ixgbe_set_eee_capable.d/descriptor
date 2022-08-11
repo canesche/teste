@@ -1,0 +1,4 @@
+struct TYPE_2__ | eee_speeds_advertised int | eee_speeds_supported int 
+struct ixgbe_hw | device_id int | phy struct TYPE_2__ 
+struct ixgbe_adapter | flags2 int | hw struct ixgbe_hw 
+function ixgbe_set_eee_capable void | adapter struct ixgbe_adapter *

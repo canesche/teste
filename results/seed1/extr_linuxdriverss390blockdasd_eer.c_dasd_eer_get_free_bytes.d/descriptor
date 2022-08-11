@@ -1,0 +1,2 @@
+struct eerbuffer | head long | tail long | buffersize int 
+function dasd_eer_get_free_bytes int | eerb struct eerbuffer *

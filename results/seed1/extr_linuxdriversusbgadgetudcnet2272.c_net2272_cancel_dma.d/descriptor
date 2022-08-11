@@ -1,0 +1,2 @@
+struct net2272 | dma_busy long 
+function net2272_cancel_dma void | dev struct net2272 *

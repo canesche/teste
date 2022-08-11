@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmnouveaudispnv04dfp.c_is_powersaving_dpms.d/extr_linuxdriversgpudrmnouveaudispnv04dfp.c_is_powersaving_dpms_O0::is_powersaving_dpms(62)"
+  }
+]

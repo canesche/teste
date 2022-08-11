@@ -1,0 +1,2 @@
+struct yyguts_t | yy_start_stack int * | yy_start_stack_ptr int 
+function yy_top_state int | yyscanner long

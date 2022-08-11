@@ -1,0 +1,2 @@
+struct gigaset_driver | blocked int 
+function gigaset_blockdriver void | drv struct gigaset_driver *

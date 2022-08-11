@@ -1,0 +1,1 @@
+function qr_finder_quick_crossing_check int | _img const unsigned char * | _width int | _height int | _x0 int | _y0 int | _x1 int | _y1 int | _v int

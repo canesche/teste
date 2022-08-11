@@ -1,0 +1,1 @@
+function hash_string unsigned int | seed unsigned int | data const char * | mod unsigned int

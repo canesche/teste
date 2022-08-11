@@ -1,0 +1,2 @@
+struct drm_dp_sideband_msg_hdr | lct int 
+function drm_dp_calc_sb_hdr_size int | hdr struct drm_dp_sideband_msg_hdr *

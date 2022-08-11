@@ -1,0 +1,2 @@
+struct ocfs2_extent_rec | e_leaf_clusters int 
+function ocfs2_is_empty_extent int | rec struct ocfs2_extent_rec *

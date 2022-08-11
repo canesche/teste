@@ -1,0 +1,2 @@
+struct rpc_auth | dummy int 
+function nul_destroy void | auth struct rpc_auth *

@@ -1,0 +1,2 @@
+struct inode | i_mode int 
+function dt_type unsigned char | inode struct inode *

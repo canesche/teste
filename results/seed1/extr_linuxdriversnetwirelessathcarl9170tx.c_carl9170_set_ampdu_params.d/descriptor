@@ -1,0 +1,5 @@
+struct sk_buff | data long 
+struct ar9170 | current_density int | current_factor int 
+struct TYPE_2__ | ampdu_settings int 
+struct _carl9170_tx_superframe | s struct TYPE_2__ 
+function carl9170_set_ampdu_params void | ar struct ar9170 * | skb struct sk_buff *

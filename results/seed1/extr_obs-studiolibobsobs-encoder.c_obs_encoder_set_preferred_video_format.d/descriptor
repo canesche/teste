@@ -1,0 +1,3 @@
+struct TYPE_4__ | type long 
+struct TYPE_5__ | preferred_format int | info struct TYPE_4__ 
+function obs_encoder_set_preferred_video_format void | encoder struct TYPE_5__ * | format enum video_format

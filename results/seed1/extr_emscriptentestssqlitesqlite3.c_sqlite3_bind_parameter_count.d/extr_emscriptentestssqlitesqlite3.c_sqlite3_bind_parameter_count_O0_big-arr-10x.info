@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_emscriptentestssqlitesqlite3.c_sqlite3_bind_parameter_count.d/extr_emscriptentestssqlitesqlite3.c_sqlite3_bind_parameter_count_O0::sqlite3_bind_parameter_count(63)"
+  }
+]

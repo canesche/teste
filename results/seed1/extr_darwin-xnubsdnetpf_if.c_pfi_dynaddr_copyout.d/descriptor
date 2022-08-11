@@ -1,0 +1,4 @@
+struct TYPE_3__ | dyn struct TYPE_4__ * | dyncnt long 
+struct pf_addr_wrap | type long | p struct TYPE_3__ 
+struct TYPE_4__ | pfid_acnt6 long | pfid_acnt4 long | pfid_kif int * 
+function pfi_dynaddr_copyout void | aw struct pf_addr_wrap *

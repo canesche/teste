@@ -1,0 +1,5 @@
+struct TYPE_2__ | mrt6 struct mr_table * 
+struct net | ipv6 struct TYPE_2__ 
+struct mr_table | dummy int 
+struct flowi6 | dummy int 
+function ip6mr_fib_lookup int | net struct net * | flp6 struct flowi6 * | mrt struct mr_table **

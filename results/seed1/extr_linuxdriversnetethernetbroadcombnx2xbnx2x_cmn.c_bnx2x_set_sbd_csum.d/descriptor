@@ -1,0 +1,5 @@
+struct sk_buff | dummy int 
+struct TYPE_2__ | as_bitfield int 
+struct eth_tx_start_bd | bd_flags struct TYPE_2__ 
+struct bnx2x | dummy int 
+function bnx2x_set_sbd_csum void | bp struct bnx2x * | skb struct sk_buff * | tx_start_bd struct eth_tx_start_bd * | xmit_type int

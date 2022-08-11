@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxsoundsoccodecsadau17x1.c_adau17x1_precious_register.d/extr_linuxsoundsoccodecsadau17x1.c_adau17x1_precious_register_O0::adau17x1_precious_register(61)"
+  }
+]

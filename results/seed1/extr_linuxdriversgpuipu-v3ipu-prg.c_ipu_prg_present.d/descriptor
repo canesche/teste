@@ -1,0 +1,2 @@
+struct ipu_soc | prg_priv long 
+function ipu_prg_present int | ipu struct ipu_soc *

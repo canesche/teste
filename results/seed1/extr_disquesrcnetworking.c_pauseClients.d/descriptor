@@ -1,0 +1,2 @@
+struct TYPE_2__ | clients_paused int | clients_pause_end_time long 
+function pauseClients void | end long

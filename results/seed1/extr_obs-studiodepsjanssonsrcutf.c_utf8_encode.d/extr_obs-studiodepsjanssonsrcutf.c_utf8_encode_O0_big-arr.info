@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_obs-studiodepsjanssonsrcutf.c_utf8_encode.d/extr_obs-studiodepsjanssonsrcutf.c_utf8_encode_O0::utf8_encode(61)"
+  }
+]

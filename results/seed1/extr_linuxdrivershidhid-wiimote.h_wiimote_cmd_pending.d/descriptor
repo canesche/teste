@@ -1,0 +1,3 @@
+struct TYPE_2__ | cmd int | opt long 
+struct wiimote_data | state struct TYPE_2__ 
+function wiimote_cmd_pending int | wdata struct wiimote_data * | cmd int | opt long

@@ -1,0 +1,3 @@
+struct tcpcb | tso_max_segment_size long | t_flags int 
+struct ifnet | if_hwassist int | if_tso_v4_mtu long 
+function tcp_set_tso void | tp struct tcpcb * | ifp struct ifnet *

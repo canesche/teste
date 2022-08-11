@@ -1,0 +1,6 @@
+struct snd_rawmidi_substream | rmidi struct TYPE_4__ * 
+struct snd_card | private_data struct TYPE_6__ * 
+struct TYPE_5__ | midi int 
+struct TYPE_6__ | wavefront struct TYPE_5__ 
+struct TYPE_4__ | card struct snd_card * 
+function get_wavefront_midi int * | substream struct snd_rawmidi_substream *

@@ -1,0 +1,4 @@
+struct brcms_hardware | wlc struct TYPE_4__ * 
+struct TYPE_4__ | stf struct TYPE_3__ * 
+struct TYPE_3__ | txant int 
+function brcms_b_get_txant int | wlc_hw struct brcms_hardware *

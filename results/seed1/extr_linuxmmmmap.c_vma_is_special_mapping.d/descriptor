@@ -1,0 +1,3 @@
+struct vm_special_mapping | dummy int 
+struct vm_area_struct | vm_ops int * | vm_private_data const struct vm_special_mapping * 
+function vma_is_special_mapping int | vma const struct vm_area_struct * | sm const struct vm_special_mapping *

@@ -1,0 +1,3 @@
+struct dentry | dummy int 
+struct ath_spec_scan_priv | dummy int 
+function ath9k_cmn_spectral_init_debug void | spec_priv struct ath_spec_scan_priv * | debugfs_phy struct dentry *

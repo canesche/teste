@@ -1,0 +1,2 @@
+struct hid_device | dummy int 
+function rmi_check_sanity int | hdev struct hid_device * | data int * | size int

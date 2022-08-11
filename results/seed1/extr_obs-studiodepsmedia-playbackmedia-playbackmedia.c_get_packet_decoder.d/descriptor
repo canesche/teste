@@ -1,0 +1,5 @@
+struct mp_decode | stream struct TYPE_6__ * 
+struct TYPE_7__ | v struct mp_decode | has_video long | a struct mp_decode | has_audio long 
+struct TYPE_8__ | stream_index long 
+struct TYPE_6__ | index long 
+function get_packet_decoder struct mp_decode * | media struct TYPE_7__ * | pkt struct TYPE_8__ *

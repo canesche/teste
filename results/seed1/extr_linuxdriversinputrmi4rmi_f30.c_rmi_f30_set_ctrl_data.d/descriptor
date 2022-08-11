@@ -1,0 +1,2 @@
+struct rmi_f30_ctrl_data | address int | length int | regs int * 
+function rmi_f30_set_ctrl_data void | ctrl struct rmi_f30_ctrl_data * | ctrl_addr int * | len int | reg int **

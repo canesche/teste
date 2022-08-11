@@ -1,0 +1,2 @@
+struct i5400_error_info | nrecmemb int 
+function nrec_rdwr int | info struct i5400_error_info *

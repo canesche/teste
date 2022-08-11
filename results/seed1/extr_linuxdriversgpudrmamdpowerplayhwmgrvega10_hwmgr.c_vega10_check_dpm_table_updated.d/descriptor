@@ -1,0 +1,7 @@
+struct vega10_odn_dpm_table | vdd_dep_on_sclk int | vdd_dep_on_mclk int 
+struct vega10_hwmgr | need_update_dpm_table int | odn_dpm_table struct vega10_odn_dpm_table 
+struct pp_hwmgr | pptable struct phm_ppt_v2_information * | backend struct vega10_hwmgr * 
+struct phm_ppt_v2_information | vdd_dep_on_sclk struct phm_ppt_v1_clock_voltage_dependency_table * | vdd_dep_on_mclk struct phm_ppt_v1_clock_voltage_dependency_table * 
+struct phm_ppt_v1_clock_voltage_dependency_table | count unsigned long | entries struct TYPE_2__ * 
+struct TYPE_2__ | vddc long 
+function vega10_check_dpm_table_updated void | hwmgr struct pp_hwmgr *

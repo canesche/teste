@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversclkclk-si5351.c_si5351_regmap_is_writeable.d/extr_linuxdriversclkclk-si5351.c_si5351_regmap_is_writeable_O0::si5351_regmap_is_writeable(62)"
+  }
+]

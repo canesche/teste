@@ -1,0 +1,1 @@
+function memset void * | dstpp void * | sc int | len unsigned long

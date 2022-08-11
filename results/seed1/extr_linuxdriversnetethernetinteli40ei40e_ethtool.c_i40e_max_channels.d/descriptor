@@ -1,0 +1,2 @@
+struct i40e_vsi | alloc_queue_pairs unsigned int 
+function i40e_max_channels unsigned int | vsi struct i40e_vsi *

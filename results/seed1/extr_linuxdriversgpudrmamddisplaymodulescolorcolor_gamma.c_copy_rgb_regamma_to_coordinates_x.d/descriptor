@@ -1,0 +1,3 @@
+struct pwl_float_data_ex | b int | g int | r int 
+struct hw_x_point | regamma_y_blue int | regamma_y_green int | regamma_y_red int 
+function copy_rgb_regamma_to_coordinates_x void | coordinates_x struct hw_x_point * | hw_points_num long | rgb_ex const struct pwl_float_data_ex *

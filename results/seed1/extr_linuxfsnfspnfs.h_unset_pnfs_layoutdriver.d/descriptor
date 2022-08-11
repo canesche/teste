@@ -1,0 +1,2 @@
+struct nfs_server | dummy int 
+function unset_pnfs_layoutdriver void | s struct nfs_server *

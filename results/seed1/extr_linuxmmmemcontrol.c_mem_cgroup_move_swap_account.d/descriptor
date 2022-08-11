@@ -1,0 +1,2 @@
+struct mem_cgroup | dummy int 
+function mem_cgroup_move_swap_account int | entry int | from struct mem_cgroup * | to struct mem_cgroup *

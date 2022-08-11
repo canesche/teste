@@ -1,0 +1,2 @@
+struct net_device | mtu unsigned int 
+function mpls_dev_mtu unsigned int | dev const struct net_device *

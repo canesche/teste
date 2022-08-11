@@ -1,0 +1,2 @@
+struct i2c_msg | flags int 
+function i2c_m_rd int | msg const struct i2c_msg *

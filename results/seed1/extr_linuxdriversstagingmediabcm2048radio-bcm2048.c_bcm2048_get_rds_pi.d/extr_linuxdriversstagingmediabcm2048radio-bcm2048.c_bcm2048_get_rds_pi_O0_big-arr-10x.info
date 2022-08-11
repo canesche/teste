@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversstagingmediabcm2048radio-bcm2048.c_bcm2048_get_rds_pi.d/extr_linuxdriversstagingmediabcm2048radio-bcm2048.c_bcm2048_get_rds_pi_O0::bcm2048_get_rds_pi(63)"
+  }
+]

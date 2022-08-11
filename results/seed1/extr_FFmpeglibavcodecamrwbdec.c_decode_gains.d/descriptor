@@ -1,0 +1,1 @@
+function decode_gains void | vq_gain const unsigned long | mode const enum Mode | fixed_gain_factor float * | pitch_gain float *

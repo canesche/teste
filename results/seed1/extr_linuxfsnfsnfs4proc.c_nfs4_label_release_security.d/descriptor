@@ -1,0 +1,2 @@
+struct nfs4_label | dummy int 
+function nfs4_label_release_security void | label struct nfs4_label *

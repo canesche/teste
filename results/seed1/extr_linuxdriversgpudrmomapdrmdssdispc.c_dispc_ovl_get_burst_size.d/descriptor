@@ -1,0 +1,3 @@
+struct dispc_device | feat struct TYPE_2__ * 
+struct TYPE_2__ | burst_size_unit int 
+function dispc_ovl_get_burst_size int | dispc struct dispc_device * | plane enum omap_plane_id

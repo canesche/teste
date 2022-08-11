@@ -1,0 +1,3 @@
+struct complete_reflogs | nr int | items struct TYPE_2__ * 
+struct TYPE_2__ | timestamp long 
+function get_reflog_recno_by_time int | array struct complete_reflogs * | timestamp long

@@ -1,0 +1,3 @@
+struct usb_ctrlrequest | bRequest long | bRequestType long 
+struct urb | setup_packet long 
+function is_set_configuration_cmd int | urb struct urb *

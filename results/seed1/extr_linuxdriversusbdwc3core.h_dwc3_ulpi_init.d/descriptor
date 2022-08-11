@@ -1,0 +1,2 @@
+struct dwc3 | dummy int 
+function dwc3_ulpi_init int | dwc struct dwc3 *

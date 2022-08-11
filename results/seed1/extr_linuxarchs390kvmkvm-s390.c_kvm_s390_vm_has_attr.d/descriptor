@@ -1,0 +1,4 @@
+struct kvm_device_attr | group int | attr int 
+struct kvm | dummy int 
+struct TYPE_2__ | has_cmma int 
+function kvm_s390_vm_has_attr int | kvm struct kvm * | attr struct kvm_device_attr *

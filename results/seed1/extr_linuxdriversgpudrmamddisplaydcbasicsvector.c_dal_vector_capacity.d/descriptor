@@ -1,0 +1,2 @@
+struct vector | capacity int 
+function dal_vector_capacity int | vector const struct vector *

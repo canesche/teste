@@ -1,0 +1,3 @@
+struct TYPE_2__ | quirks int 
+struct sysc | cfg struct TYPE_2__ 
+function sysc_opt_clks_needed int | ddata struct sysc *

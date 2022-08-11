@@ -1,0 +1,4 @@
+struct reiserfs_key | k_objectid int | k_dir_id int 
+struct reiserfs_dir_entry | de_entry_num unsigned long | de_deh struct TYPE_2__ * 
+struct TYPE_2__ | deh_objectid int | deh_dir_id int 
+function set_ino_in_dir_entry void | de struct reiserfs_dir_entry * | key struct reiserfs_key *

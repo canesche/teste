@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_How-to-Make-a-Computer-Operating-Systemsrcsdksrclibcsrcstdiosupport_bufio.c_bufcon_lenp.d/extr_How-to-Make-a-Computer-Operating-Systemsrcsdksrclibcsrcstdiosupport_bufio.c_bufcon_lenp_O0::bufcon_lenp(60)"
+  }
+]

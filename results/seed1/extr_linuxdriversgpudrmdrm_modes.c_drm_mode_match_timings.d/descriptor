@@ -1,0 +1,2 @@
+struct drm_display_mode | hdisplay long | hsync_start long | hsync_end long | htotal long | hskew long | vdisplay long | vsync_start long | vsync_end long | vtotal long | vscan long 
+function drm_mode_match_timings int | mode1 const struct drm_display_mode * | mode2 const struct drm_display_mode *

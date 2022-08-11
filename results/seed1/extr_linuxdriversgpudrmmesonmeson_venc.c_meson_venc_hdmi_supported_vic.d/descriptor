@@ -1,0 +1,2 @@
+struct meson_hdmi_venc_vic_mode | vic int | mode long 
+function meson_venc_hdmi_supported_vic int | vic int

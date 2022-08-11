@@ -1,0 +1,2 @@
+struct mlx5_srq_attr | log_page_size int | log_size int | wqe_shift int | page_offset int 
+function get_pas_size int | in struct mlx5_srq_attr *

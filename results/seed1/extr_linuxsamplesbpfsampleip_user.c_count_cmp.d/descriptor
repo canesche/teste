@@ -1,0 +1,2 @@
+struct ipcount | count int 
+function count_cmp int | p1 const void * | p2 const void *

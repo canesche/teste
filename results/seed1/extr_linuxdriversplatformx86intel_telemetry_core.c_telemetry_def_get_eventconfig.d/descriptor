@@ -1,0 +1,2 @@
+struct telemetry_evtconfig | dummy int 
+function telemetry_def_get_eventconfig int | pss_evtconfig struct telemetry_evtconfig * | ioss_evtconfig struct telemetry_evtconfig * | pss_len int | ioss_len int

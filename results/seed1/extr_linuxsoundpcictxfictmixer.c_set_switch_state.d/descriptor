@@ -1,0 +1,2 @@
+struct ct_mixer | switch_state int 
+function set_switch_state void | mixer struct ct_mixer * | type enum CTALSA_MIXER_CTL | state unsigned char

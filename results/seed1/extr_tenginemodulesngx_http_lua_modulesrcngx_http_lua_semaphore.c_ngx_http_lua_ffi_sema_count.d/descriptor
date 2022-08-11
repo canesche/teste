@@ -1,0 +1,2 @@
+struct TYPE_3__ | resource_count int | wait_count int 
+function ngx_http_lua_ffi_sema_count int | sem struct TYPE_3__ *

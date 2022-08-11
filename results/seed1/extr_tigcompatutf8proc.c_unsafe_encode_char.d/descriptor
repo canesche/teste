@@ -1,0 +1,1 @@
+function unsafe_encode_char int | uc int | dst long *

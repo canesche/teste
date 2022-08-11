@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxfsocfs2clustertcp.h_o2net_debug_add_sc.d/extr_linuxfsocfs2clustertcp.h_o2net_debug_add_sc_O0::o2net_debug_add_sc(61)"
+  }
+]

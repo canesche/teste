@@ -1,0 +1,2 @@
+struct sk_buff | len int | data unsigned long * 
+function dsp_change_volume void | skb struct sk_buff * | volume int

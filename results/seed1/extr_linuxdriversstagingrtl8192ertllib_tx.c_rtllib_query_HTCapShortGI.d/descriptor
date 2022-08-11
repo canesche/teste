@@ -1,0 +1,4 @@
+struct rtllib_device | pHTInfo struct rt_hi_throughput * 
+struct rt_hi_throughput | bCurBW40MHz int | bCurShortGI20MHz long | bCurShortGI40MHz long | bForcedShortGI long | bEnableHT int | bCurrentHTSupport int 
+struct cb_desc | bUseShortGI int 
+function rtllib_query_HTCapShortGI void | ieee struct rtllib_device * | tcb_desc struct cb_desc *

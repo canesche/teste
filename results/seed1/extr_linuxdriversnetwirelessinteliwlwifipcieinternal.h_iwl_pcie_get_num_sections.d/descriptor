@@ -1,0 +1,3 @@
+struct fw_img | num_sec int | sec struct TYPE_2__ * 
+struct TYPE_2__ | offset long 
+function iwl_pcie_get_num_sections int | fw const struct fw_img * | start int

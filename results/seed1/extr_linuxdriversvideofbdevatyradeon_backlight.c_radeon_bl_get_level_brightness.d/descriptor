@@ -1,0 +1,4 @@
+struct radeon_bl_privdata | negative long | rinfo struct TYPE_4__ * 
+struct TYPE_4__ | info struct TYPE_3__ * 
+struct TYPE_3__ | bl_curve int * 
+function radeon_bl_get_level_brightness int | pdata struct radeon_bl_privdata * | level int

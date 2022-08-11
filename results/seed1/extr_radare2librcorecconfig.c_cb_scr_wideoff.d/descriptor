@@ -1,0 +1,4 @@
+struct TYPE_6__ | i_value int 
+struct TYPE_5__ | print struct TYPE_4__ * 
+struct TYPE_4__ | wide_offsets int 
+function cb_scr_wideoff int | user void * | data void *

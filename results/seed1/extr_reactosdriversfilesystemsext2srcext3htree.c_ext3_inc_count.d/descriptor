@@ -1,0 +1,2 @@
+struct inode | i_nlink int 
+function ext3_inc_count void | inode struct inode *

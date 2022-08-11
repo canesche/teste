@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 19,
+    phantoms: 15,
+    exit: true,
+    halt: false,
+    edges: 37,
+    static: {
+      instructions: 68,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 68,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactosdllwin32xmllitereader.c_is_namestartchar.d/extr_reactosdllwin32xmllitereader.c_is_namestartchar_O0::is_namestartchar(62)"
+  }
+]

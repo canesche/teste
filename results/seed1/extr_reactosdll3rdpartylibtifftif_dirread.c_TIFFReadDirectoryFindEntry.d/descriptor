@@ -1,0 +1,2 @@
+struct TYPE_4__ | tdir_tag long 
+function TIFFReadDirectoryFindEntry struct TYPE_4__ * | tif int * | dir struct TYPE_4__ * | dircount long | tagid long

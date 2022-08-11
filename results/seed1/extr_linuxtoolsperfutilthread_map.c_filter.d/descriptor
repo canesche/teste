@@ -1,0 +1,2 @@
+struct dirent | d_name char * 
+function filter int | dir const struct dirent *

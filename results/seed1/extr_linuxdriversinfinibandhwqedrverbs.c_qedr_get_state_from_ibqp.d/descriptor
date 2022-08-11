@@ -1,0 +1,1 @@
+function qedr_get_state_from_ibqp enum qed_roce_qp_state | qp_state enum ib_qp_state

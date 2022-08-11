@@ -1,0 +1,4 @@
+struct vb_device_info | VBInfo int | VBType int | LCDResInfo long | LCDInfo int | SetFlag int 
+struct TYPE_4__ | Ext_ModeFlag unsigned short | Ext_RESINFO unsigned short 
+struct TYPE_3__ | ModeID unsigned short | Ext_InfoFlag unsigned short 
+function XGI_AjustCRT2Rate unsigned char | ModeIdIndex unsigned short | RefreshRateTableIndex unsigned short | i unsigned short * | pVBInfo struct vb_device_info *

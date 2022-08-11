@@ -1,0 +1,3 @@
+struct xgbe_prv_data | dummy int 
+struct platform_device | dummy int 
+function xgbe_of_get_phy_pdev struct platform_device * | pdata struct xgbe_prv_data *

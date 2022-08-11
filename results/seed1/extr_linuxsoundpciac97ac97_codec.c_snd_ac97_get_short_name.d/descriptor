@@ -1,0 +1,3 @@
+struct snd_ac97 | id int 
+struct ac97_codec_id | id int | mask int | name const char * 
+function snd_ac97_get_short_name const char * | ac97 struct snd_ac97 *

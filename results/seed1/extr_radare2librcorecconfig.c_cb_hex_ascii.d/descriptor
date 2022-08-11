@@ -1,0 +1,4 @@
+struct TYPE_6__ | i_value long 
+struct TYPE_5__ | print struct TYPE_4__ * 
+struct TYPE_4__ | flags int 
+function cb_hex_ascii int | user void * | data void *

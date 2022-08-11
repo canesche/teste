@@ -1,0 +1,1 @@
+function ecard_def_irq_disable void | ec int * | irqnr int

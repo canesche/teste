@@ -1,0 +1,3 @@
+struct resolve_vertex | dummy int 
+struct btf_verifier_env | top_stack int | stack const struct resolve_vertex * 
+function env_stack_peak const struct resolve_vertex * | env struct btf_verifier_env *

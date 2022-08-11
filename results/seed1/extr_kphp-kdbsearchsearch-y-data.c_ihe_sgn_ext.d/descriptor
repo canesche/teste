@@ -1,0 +1,4 @@
+struct TYPE_7__ | word long | item struct TYPE_6__ * 
+struct TYPE_8__ | word long 
+struct TYPE_6__ | item_id long long 
+function ihe_sgn_ext int | T struct TYPE_7__ * | A struct TYPE_8__ * | item_id long long

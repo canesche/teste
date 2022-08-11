@@ -1,0 +1,2 @@
+struct hfi1_pportdata | link_speed_active long | link_width_active long 
+function active_egress_rate int | ppd struct hfi1_pportdata *

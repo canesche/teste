@@ -1,0 +1,2 @@
+struct TYPE_3__ | bufend long | bufbeg long | pos long 
+function cleanup_encoder_state void | p struct TYPE_3__ *

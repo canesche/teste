@@ -1,0 +1,3 @@
+struct http_object_request | slot struct TYPE_2__ * | http_code int | curl_result int 
+struct TYPE_2__ | http_code int | curl_result int 
+function process_http_object_request void | freq struct http_object_request *

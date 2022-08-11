@@ -1,0 +1,3 @@
+struct image_section_map | dummy int 
+struct image_file_map | dummy int 
+function macho_find_section int | ifm struct image_file_map * | segname const char * | sectname const char * | ism struct image_section_map *

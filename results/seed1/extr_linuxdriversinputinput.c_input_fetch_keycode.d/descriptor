@@ -1,0 +1,2 @@
+struct input_dev | keycodesize int | keycode long 
+function input_fetch_keycode unsigned int | dev struct input_dev * | index unsigned int

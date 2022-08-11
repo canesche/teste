@@ -1,0 +1,2 @@
+struct nilfs_bmap | dummy int 
+function nilfs_direct_check_insert int | bmap const struct nilfs_bmap * | key long

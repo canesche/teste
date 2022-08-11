@@ -1,0 +1,2 @@
+struct gds_vector | length int | gds_id long 
+function sclp_find_gds_vector struct gds_vector * | start void * | end void * | id long

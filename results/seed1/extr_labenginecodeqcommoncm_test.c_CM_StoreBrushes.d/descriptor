@@ -1,0 +1,5 @@
+struct TYPE_6__ | bounds long ** | count long | maxcount long | list long | overflowed int 
+struct TYPE_7__ | checkcount long | bounds long ** 
+struct TYPE_8__ | numLeafBrushes int | firstLeafBrush int 
+struct TYPE_9__ | leafbrushes int * | checkcount long | brushes struct TYPE_7__ * | leafs struct TYPE_8__ * 
+function CM_StoreBrushes void | ll struct TYPE_6__ * | nodenum int

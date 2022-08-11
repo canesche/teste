@@ -1,0 +1,4 @@
+struct intel_uncore_pmu | pmu_idx unsigned long | type struct TYPE_2__ * 
+struct intel_uncore_box | pmu struct intel_uncore_pmu * 
+struct TYPE_2__ | msr_offsets int * | msr_offset int 
+function uncore_msr_box_offset unsigned int | box struct intel_uncore_box *

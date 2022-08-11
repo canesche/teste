@@ -1,0 +1,4 @@
+struct TYPE_4__ | addedMembers_ int * 
+struct TYPE_5__ | java_lang_Object struct TYPE_4__ 
+struct TYPE_6__ | fields struct TYPE_5__ 
+function __INIT_INSTANCE_MEMBERS_java_lang_Object void | me long | derivedClassWillRegisterFinalizer int

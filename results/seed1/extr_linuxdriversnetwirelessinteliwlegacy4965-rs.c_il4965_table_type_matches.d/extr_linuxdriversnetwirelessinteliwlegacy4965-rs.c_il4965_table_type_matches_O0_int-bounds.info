@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetwirelessinteliwlegacy4965-rs.c_il4965_table_type_matches.d/extr_linuxdriversnetwirelessinteliwlegacy4965-rs.c_il4965_table_type_matches_O0::il4965_table_type_matches(63)"
+  }
+]

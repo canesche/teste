@@ -1,0 +1,4 @@
+struct TYPE_8__ | nb_streams unsigned long | streams struct TYPE_7__ ** | priv_data struct TYPE_6__ * 
+struct TYPE_7__ | discard long 
+struct TYPE_6__ | curr_stream unsigned long 
+function avisynth_next_stream void | s struct TYPE_8__ * | st struct TYPE_7__ ** | pkt int * | discard int *

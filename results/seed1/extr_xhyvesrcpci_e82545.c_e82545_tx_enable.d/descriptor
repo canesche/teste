@@ -1,0 +1,2 @@
+struct e82545_softc | esc_tx_enabled int 
+function e82545_tx_enable void | sc struct e82545_softc *

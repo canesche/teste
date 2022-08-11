@@ -1,0 +1,2 @@
+struct jit_ctx | offset int * 
+function bpf2a64_offset int | bpf_to int | bpf_from int | ctx const struct jit_ctx *

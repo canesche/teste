@@ -1,0 +1,4 @@
+struct nilfs_direct_node | dummy int 
+struct TYPE_2__ | u_data long 
+struct nilfs_bmap | b_u struct TYPE_2__ 
+function nilfs_direct_dptrs int * | direct const struct nilfs_bmap *

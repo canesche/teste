@@ -1,0 +1,2 @@
+struct TYPE_2__ | supported_displays int * 
+function dss_feat_get_supported_displays enum omap_display_type | channel enum omap_channel

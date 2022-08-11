@@ -1,0 +1,1 @@
+function pthread_barrierattr_destroy int | a int *

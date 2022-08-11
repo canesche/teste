@@ -1,0 +1,2 @@
+struct sockaddr_storage | dummy int 
+function ceph_dns_resolve_name int | name const char * | namelen unsigned long | ss struct sockaddr_storage * | delim char | ipend const char **

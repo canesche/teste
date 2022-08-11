@@ -1,0 +1,2 @@
+struct TYPE_3__ | live int | live_after_mark int | heaps int | sweeps int | state int 
+function prepare_incremental_sweep void | mrb int * | gc struct TYPE_3__ *

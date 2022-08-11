@@ -1,0 +1,7 @@
+struct TYPE_10__ | slice_segment_addr unsigned long 
+struct TYPE_9__ | pps struct TYPE_8__ * 
+struct TYPE_13__ | slice_idx int | sh struct TYPE_10__ | ps struct TYPE_9__ | ref struct TYPE_12__ * 
+struct TYPE_12__ | ctb_count int | rpl_tab int ** | refPicList int * | rpl_buf struct TYPE_11__ * 
+struct TYPE_11__ | size int | data long 
+struct TYPE_8__ | ctb_addr_rs_to_ts int * 
+function init_slice_rpl int | s struct TYPE_13__ *

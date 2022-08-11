@@ -1,0 +1,2 @@
+struct TYPE_3__ | bitsBandT int * | flcoeffs4 int * | CWlengthT int * | skipFlags int * 
+function imc_adjust_bit_allocation void | q int * | chctx struct TYPE_3__ * | summer int

@@ -1,0 +1,1 @@
+function byte3_read void | src const int * | dst unsigned int *

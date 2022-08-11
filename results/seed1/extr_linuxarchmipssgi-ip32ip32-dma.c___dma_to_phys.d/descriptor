@@ -1,0 +1,2 @@
+struct device | dummy int 
+function __dma_to_phys int | dev struct device * | dma_addr int

@@ -1,0 +1,4 @@
+struct pt_regs | uregs int * 
+struct arch_uprobe_task | backup int 
+struct arch_uprobe | pcreg unsigned long 
+function uprobe_unset_pc void | auprobe struct arch_uprobe * | autask struct arch_uprobe_task * | regs struct pt_regs *

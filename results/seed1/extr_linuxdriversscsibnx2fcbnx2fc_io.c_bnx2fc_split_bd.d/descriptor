@@ -1,0 +1,4 @@
+struct fcoe_bd_ctx | buf_addr_lo int | buf_addr_hi int | flags long | buf_len long 
+struct bnx2fc_cmd | bd_tbl struct TYPE_2__ * 
+struct TYPE_2__ | bd_tbl struct fcoe_bd_ctx * 
+function bnx2fc_split_bd int | io_req struct bnx2fc_cmd * | addr int | sg_len int | bd_index int

@@ -1,0 +1,2 @@
+struct task_struct | ptrace int 
+function user_disable_single_step void | child struct task_struct *

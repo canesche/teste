@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_libgit2srcblame.c_hunk_starts_at_or_after_line.d/extr_libgit2srcblame.c_hunk_starts_at_or_after_line_O0::hunk_starts_at_or_after_line(63)"
+  }
+]

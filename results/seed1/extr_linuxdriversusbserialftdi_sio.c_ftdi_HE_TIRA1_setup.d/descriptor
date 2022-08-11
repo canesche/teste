@@ -1,0 +1,2 @@
+struct ftdi_private | custom_divisor int | force_baud int | force_rtscts int | flags int 
+function ftdi_HE_TIRA1_setup void | priv struct ftdi_private *

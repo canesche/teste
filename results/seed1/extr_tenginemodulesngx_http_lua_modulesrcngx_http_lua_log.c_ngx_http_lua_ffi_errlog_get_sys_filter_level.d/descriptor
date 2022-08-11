@@ -1,0 +1,5 @@
+struct TYPE_7__ | log_level int 
+struct TYPE_8__ | connection struct TYPE_6__ * 
+struct TYPE_9__ | log struct TYPE_7__ * 
+struct TYPE_6__ | log struct TYPE_7__ * 
+function ngx_http_lua_ffi_errlog_get_sys_filter_level int | r struct TYPE_8__ *

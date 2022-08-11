@@ -1,0 +1,3 @@
+struct TYPE_6__ | block_size int 
+struct TYPE_5__ | y int | x int 
+function do_block_ssd double | s struct TYPE_6__ * | pos struct TYPE_5__ * | src const double * | src_stride int | r_y int | r_x int

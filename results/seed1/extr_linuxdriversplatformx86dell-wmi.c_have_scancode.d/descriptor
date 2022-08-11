@@ -1,0 +1,2 @@
+struct key_entry | code long 
+function have_scancode int | scancode long | keymap const struct key_entry * | len int

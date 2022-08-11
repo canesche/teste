@@ -1,0 +1,1 @@
+function swab void | _src const void *__restrict | _dest void *__restrict | n int

@@ -1,0 +1,4 @@
+struct arm_smmu_strtab_l1_desc | l2ptr int * 
+struct arm_smmu_strtab_cfg | strtab int * | l1_desc struct arm_smmu_strtab_l1_desc * 
+struct arm_smmu_device | features int | strtab_cfg struct arm_smmu_strtab_cfg 
+function arm_smmu_get_step_for_sid int * | smmu struct arm_smmu_device * | sid int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxarchshkernelmachine_kexec.c_machine_kexec_prepare.d/extr_linuxarchshkernelmachine_kexec.c_machine_kexec_prepare_O0::machine_kexec_prepare(61)"
+  }
+]

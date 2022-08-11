@@ -1,0 +1,1 @@
+value(dst_linesize) == 255, value(src_linesize) == 255, value(width) == 255, value(height) == 255, value(depth) == 255, value(step) == 255, value(comp) == 255, length(dst) == 65025, length(src) == 65025

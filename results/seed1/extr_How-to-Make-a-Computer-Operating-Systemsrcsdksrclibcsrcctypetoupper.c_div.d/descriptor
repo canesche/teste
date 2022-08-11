@@ -1,0 +1,2 @@
+struct TYPE_3__ | quot int | rem int 
+function div struct TYPE_3__ | numerator int | denominator int

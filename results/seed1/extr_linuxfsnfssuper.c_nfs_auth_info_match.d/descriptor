@@ -1,0 +1,2 @@
+struct nfs_auth_info | flavor_len int | flavors long * 
+function nfs_auth_info_match int | auth_info const struct nfs_auth_info * | match long

@@ -1,0 +1,3 @@
+struct TYPE_4__ | x509 int * 
+struct TYPE_5__ | type long | _ struct TYPE_4__ 
+function OSSL_STORE_INFO_get0_CERT int * | info const struct TYPE_5__ *

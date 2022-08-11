@@ -1,0 +1,3 @@
+struct qed_hwfn | p_spq struct TYPE_2__ * 
+struct TYPE_2__ | async_comp_cb int * 
+function qed_spq_register_async_cb int | p_hwfn struct qed_hwfn * | protocol_id enum protocol_type | cb int

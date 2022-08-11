@@ -1,0 +1,10 @@
+struct TYPE_14__ | devaddr int | epnum int 
+struct TYPE_15__ | b struct TYPE_14__ 
+struct fiq_channel_state | fsm int | hcchar_copy struct TYPE_15__ 
+struct TYPE_17__ | channel struct TYPE_16__ * 
+struct TYPE_18__ | fiq_state struct TYPE_13__ * | core_if struct TYPE_12__ * 
+struct TYPE_16__ | dev_addr int | ep_num int | hc_num int 
+struct TYPE_13__ | channel struct fiq_channel_state * 
+struct TYPE_12__ | core_params struct TYPE_11__ * 
+struct TYPE_11__ | host_channels int 
+function fiq_fsm_np_tt_contended int | hcd struct TYPE_18__ * | qh struct TYPE_17__ *

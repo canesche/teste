@@ -1,0 +1,5 @@
+struct page | dummy int 
+struct nfs_page | dummy int 
+struct nfs_commit_info | dummy int 
+struct inode | dummy int 
+function pnfs_search_commit_reqs struct nfs_page * | inode struct inode * | cinfo struct nfs_commit_info * | page struct page *

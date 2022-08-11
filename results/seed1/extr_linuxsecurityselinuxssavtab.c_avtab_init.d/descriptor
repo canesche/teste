@@ -1,0 +1,2 @@
+struct avtab | nel long | htable int * 
+function avtab_init int | h struct avtab *

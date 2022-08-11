@@ -1,0 +1,2 @@
+struct ltc294x_info | Qlsb int 
+function convert_uAh_to_bin int | info const struct ltc294x_info * | uAh int

@@ -1,0 +1,2 @@
+struct TYPE_4__ | value int 
+function SPY_Bsearch_Msg const struct TYPE_4__ * | msgs const struct TYPE_4__ * | count int | code int

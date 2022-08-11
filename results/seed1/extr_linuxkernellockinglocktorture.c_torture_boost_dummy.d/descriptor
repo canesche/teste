@@ -1,0 +1,2 @@
+struct torture_random_state | dummy int 
+function torture_boost_dummy void | trsp struct torture_random_state *

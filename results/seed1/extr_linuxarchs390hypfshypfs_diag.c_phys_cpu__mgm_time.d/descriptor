@@ -1,0 +1,3 @@
+struct diag204_x_phys_cpu | mgm_time int 
+struct diag204_phys_cpu | mgm_time int 
+function phys_cpu__mgm_time int | type enum diag204_format | hdr void *

@@ -1,0 +1,2 @@
+struct cdrom_device_info | dummy int 
+function ide_cdrom_open_real int | cdi struct cdrom_device_info * | purpose int

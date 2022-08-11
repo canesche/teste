@@ -1,0 +1,3 @@
+struct resource | dummy int 
+struct mcb_device | irq struct resource | mem struct resource 
+function mcb_get_resource struct resource * | dev struct mcb_device * | type unsigned int

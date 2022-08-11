@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetamdxgbexgbe-phy-v1.c_xgbe_phy_get_mode.d/extr_linuxdriversnetethernetamdxgbexgbe-phy-v1.c_xgbe_phy_get_mode_O0::xgbe_phy_get_mode(73)"
+  }
+]

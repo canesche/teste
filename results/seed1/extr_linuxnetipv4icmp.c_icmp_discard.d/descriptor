@@ -1,0 +1,2 @@
+struct sk_buff | dummy int 
+function icmp_discard int | skb struct sk_buff *

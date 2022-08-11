@@ -1,0 +1,5 @@
+struct nilfs_segsum_pointer | offset unsigned int 
+struct nilfs_sc_info | sc_blk_cnt int | sc_super struct TYPE_2__ * 
+struct nilfs_finfo | dummy int 
+struct TYPE_2__ | s_blocksize unsigned int 
+function nilfs_segctor_segsum_block_required int | sci struct nilfs_sc_info * | ssp const struct nilfs_segsum_pointer * | binfo_size unsigned int

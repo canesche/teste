@@ -1,0 +1,2 @@
+struct usb_device | dummy int 
+function usb_enumerate_device_otg int | udev struct usb_device *

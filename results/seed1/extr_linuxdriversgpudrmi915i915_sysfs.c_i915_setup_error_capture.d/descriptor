@@ -1,0 +1,2 @@
+struct device | dummy int 
+function i915_setup_error_capture void | kdev struct device *

@@ -1,0 +1,3 @@
+struct xgbe_version_data | dummy int 
+struct xgbe_prv_data | dummy int 
+function xgbe_acpi_vdata struct xgbe_version_data * | pdata struct xgbe_prv_data *

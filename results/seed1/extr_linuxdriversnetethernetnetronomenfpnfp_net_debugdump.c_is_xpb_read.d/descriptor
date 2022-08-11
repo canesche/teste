@@ -1,0 +1,2 @@
+struct nfp_dumpspec_cpp_isl_id | target long | action long | token long 
+function is_xpb_read int | cpp_id struct nfp_dumpspec_cpp_isl_id *

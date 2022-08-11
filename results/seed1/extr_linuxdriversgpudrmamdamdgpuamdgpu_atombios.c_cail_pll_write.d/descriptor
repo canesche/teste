@@ -1,0 +1,2 @@
+struct card_info | dummy int 
+function cail_pll_write void | info struct card_info * | reg int | val int

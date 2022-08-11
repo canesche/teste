@@ -1,0 +1,4 @@
+struct bfa_fcs_lport_s | dummy int 
+struct TYPE_2__ | bport struct bfa_fcs_lport_s 
+struct bfa_fcs_s | fabric struct TYPE_2__ 
+function bfa_fcs_get_base_port struct bfa_fcs_lport_s * | fcs struct bfa_fcs_s *

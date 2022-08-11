@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_obs-studiolibobsobs-hotkey.c_modifiers_match.d/extr_obs-studiolibobsobs-hotkey.c_modifiers_match_O0::modifiers_match(67)"
+  }
+]

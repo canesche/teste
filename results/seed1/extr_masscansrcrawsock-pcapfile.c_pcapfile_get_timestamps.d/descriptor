@@ -1,0 +1,2 @@
+struct PcapFile | end_sec int | start_sec int 
+function pcapfile_get_timestamps void | capfile struct PcapFile * | start int * | end int *

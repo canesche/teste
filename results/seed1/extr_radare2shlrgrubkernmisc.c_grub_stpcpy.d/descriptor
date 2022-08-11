@@ -1,0 +1,1 @@
+function grub_stpcpy char * | dest char * | src const char *

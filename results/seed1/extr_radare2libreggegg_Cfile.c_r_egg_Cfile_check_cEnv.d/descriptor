@@ -1,0 +1,2 @@
+struct cEnv_t | TRIPLET int | SHDR int | LDFLAGS int | CFLAGS int | CC int | SFLIBPATH int 
+function r_egg_Cfile_check_cEnv int | cEnv struct cEnv_t *

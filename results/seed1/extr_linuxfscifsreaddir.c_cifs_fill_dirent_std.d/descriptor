@@ -1,0 +1,3 @@
+struct cifs_dirent | resume_key int | namelen int | name int * 
+struct TYPE_3__ | ResumeKey int | FileNameLength int | FileName int * 
+function cifs_fill_dirent_std void | de struct cifs_dirent * | info const struct TYPE_3__ *

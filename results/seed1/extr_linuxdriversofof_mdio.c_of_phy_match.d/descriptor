@@ -1,0 +1,2 @@
+struct device | of_node void * 
+function of_phy_match int | dev struct device * | phy_np void *

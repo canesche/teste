@@ -1,0 +1,1 @@
+function crypto_aead_aes256gcm_decrypt_afternm int | m unsigned char * | mlen_p unsigned long long * | nsec unsigned char * | c const unsigned char * | clen unsigned long long | ad const unsigned char * | adlen unsigned long long | npub const unsigned char * | ctx_ const int *

@@ -1,0 +1,2 @@
+struct mbuf | start int | last int | pos int 
+function mbuf_rewind void | mbuf struct mbuf *

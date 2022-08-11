@@ -1,0 +1,2 @@
+struct TYPE_3__ | filters int * | prevfilt int * | cvector int * | flag int 
+function truespeech_filters_merge void | dec struct TYPE_3__ *

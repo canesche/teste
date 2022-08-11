@@ -1,0 +1,2 @@
+struct bnx2x | dummy int 
+function bnx2x_vfpf_update_vlan int | bp struct bnx2x * | vid int | vf_qid int | add int

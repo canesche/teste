@@ -1,0 +1,2 @@
+struct dql | slack_start_time int | lowest_slack int | prev_ovlimit long | prev_last_obj_cnt long | prev_num_queued long | last_obj_cnt long | num_completed long | num_queued long | limit long 
+function dql_reset void | dql struct dql *

@@ -1,0 +1,2 @@
+struct cas | dummy int 
+function cas_entropy_reset void | cp struct cas *

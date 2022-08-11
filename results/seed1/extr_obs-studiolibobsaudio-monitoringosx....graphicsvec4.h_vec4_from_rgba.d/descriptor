@@ -1,0 +1,2 @@
+struct vec4 | x float | y float | z float | w float 
+function vec4_from_rgba void | dst struct vec4 * | rgba int

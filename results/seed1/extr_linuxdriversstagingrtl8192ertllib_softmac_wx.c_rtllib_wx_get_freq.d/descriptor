@@ -1,0 +1,6 @@
+struct iw_freq | m int | e int 
+struct iwreq_data | freq struct iw_freq 
+struct TYPE_2__ | channel int 
+struct rtllib_device | current_network struct TYPE_2__ 
+struct iw_request_info | dummy int 
+function rtllib_wx_get_freq int | ieee struct rtllib_device * | a struct iw_request_info * | wrqu union iwreq_data * | b char *

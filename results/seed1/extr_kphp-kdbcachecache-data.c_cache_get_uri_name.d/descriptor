@@ -1,0 +1,2 @@
+struct cache_uri | data long 
+function cache_get_uri_name char *const | U const struct cache_uri *const

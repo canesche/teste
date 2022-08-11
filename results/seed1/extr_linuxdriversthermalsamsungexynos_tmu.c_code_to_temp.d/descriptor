@@ -1,0 +1,2 @@
+struct exynos_tmu_data | cal_type long | temp_error1 int | temp_error2 int 
+function code_to_temp int | data struct exynos_tmu_data * | temp_code int

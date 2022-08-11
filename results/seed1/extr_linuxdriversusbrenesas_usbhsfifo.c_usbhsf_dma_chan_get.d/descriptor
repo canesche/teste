@@ -1,0 +1,4 @@
+struct usbhs_pkt | handler int * 
+struct usbhs_fifo | rx_chan struct dma_chan * | tx_chan struct dma_chan * 
+struct dma_chan | dummy int 
+function usbhsf_dma_chan_get struct dma_chan * | fifo struct usbhs_fifo * | pkt struct usbhs_pkt *

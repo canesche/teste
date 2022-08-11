@@ -1,0 +1,2 @@
+struct usb_interface | dummy int 
+function emi26_disconnect void | intf struct usb_interface *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversinfinibandhwcxgb4t4.h_t4_sq_empty.d/extr_linuxdriversinfinibandhwcxgb4t4.h_t4_sq_empty_O0::t4_sq_empty(63)"
+  }
+]

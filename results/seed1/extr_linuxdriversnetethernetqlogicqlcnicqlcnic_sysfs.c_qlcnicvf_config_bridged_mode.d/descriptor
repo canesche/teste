@@ -1,0 +1,2 @@
+struct qlcnic_adapter | dummy int 
+function qlcnicvf_config_bridged_mode int | adapter struct qlcnic_adapter * | enable int

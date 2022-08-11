@@ -1,0 +1,2 @@
+struct snd_opl4 | dummy int 
+function snd_opl4_create_proc int | opl4 struct snd_opl4 *

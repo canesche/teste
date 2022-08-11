@@ -1,0 +1,2 @@
+struct snd_ymfpci | dummy int 
+function snd_ymfpci_create_gameport int | chip struct snd_ymfpci * | dev int | l int | l2 int

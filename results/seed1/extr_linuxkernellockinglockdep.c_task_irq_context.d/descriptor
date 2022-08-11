@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function task_irq_context unsigned int | task struct task_struct *

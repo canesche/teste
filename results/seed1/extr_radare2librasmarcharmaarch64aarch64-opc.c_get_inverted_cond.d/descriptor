@@ -1,0 +1,2 @@
+struct TYPE_5__ | value int 
+function get_inverted_cond const struct TYPE_5__ * | cond const struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct pci_bus | dummy int 
+function null_write_config int | bus struct pci_bus * | devfn unsigned int | offset int | len int | val int

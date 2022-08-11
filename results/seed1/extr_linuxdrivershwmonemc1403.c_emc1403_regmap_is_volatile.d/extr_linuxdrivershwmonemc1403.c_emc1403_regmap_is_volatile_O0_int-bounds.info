@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdrivershwmonemc1403.c_emc1403_regmap_is_volatile.d/extr_linuxdrivershwmonemc1403.c_emc1403_regmap_is_volatile_O0::emc1403_regmap_is_volatile(61)"
+  }
+]

@@ -1,0 +1,3 @@
+struct console | index unsigned long 
+struct TYPE_2__ | base int 
+function goldfish_tty_console_setup int | co struct console * | options char *

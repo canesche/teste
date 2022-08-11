@@ -1,0 +1,3 @@
+struct TYPE_2__ | size long | base long 
+struct module | init_layout struct TYPE_2__ 
+function in_init int | mod const struct module * | loc unsigned long

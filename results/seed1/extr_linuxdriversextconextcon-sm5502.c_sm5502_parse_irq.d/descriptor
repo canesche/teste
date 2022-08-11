@@ -1,0 +1,2 @@
+struct sm5502_muic_info | irq_attach int | irq_detach int 
+function sm5502_parse_irq int | info struct sm5502_muic_info * | irq_type int

@@ -1,0 +1,2 @@
+struct t10_pr_registration | pr_res_type int 
+function is_reservation_holder int | pr_res_holder struct t10_pr_registration * | pr_reg struct t10_pr_registration *

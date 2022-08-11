@@ -1,0 +1,2 @@
+struct cbuf | len long 
+function cbuf_empty int | cb struct cbuf *

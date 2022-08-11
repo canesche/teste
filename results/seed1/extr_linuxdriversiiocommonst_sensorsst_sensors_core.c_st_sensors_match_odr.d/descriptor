@@ -1,0 +1,5 @@
+struct TYPE_3__ | odr_avl struct TYPE_4__ * 
+struct st_sensor_settings | odr struct TYPE_3__ 
+struct st_sensor_odr_avl | hz unsigned int | value int 
+struct TYPE_4__ | hz unsigned int | value int 
+function st_sensors_match_odr int | sensor_settings struct st_sensor_settings * | odr unsigned int | odr_out struct st_sensor_odr_avl *

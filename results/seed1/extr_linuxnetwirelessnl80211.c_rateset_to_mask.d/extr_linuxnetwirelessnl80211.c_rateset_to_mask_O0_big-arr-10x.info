@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 245,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxnetwirelessnl80211.c_rateset_to_mask.d/extr_linuxnetwirelessnl80211.c_rateset_to_mask_O0::rateset_to_mask(65)"
+  }
+]

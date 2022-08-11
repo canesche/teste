@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6135,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_nginxsrccorengx_string.c_ngx_escape_html.d/extr_nginxsrccorengx_string.c_ngx_escape_html_O0::ngx_escape_html(63)"
+  }
+]

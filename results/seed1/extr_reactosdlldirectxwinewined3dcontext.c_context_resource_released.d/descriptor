@@ -1,0 +1,6 @@
+struct wined3d_resource | dummy int 
+struct wined3d_device | context_count unsigned int | contexts struct wined3d_context ** | d3d_initialized int 
+struct TYPE_4__ | sub_resource_idx long | texture struct TYPE_3__ * 
+struct wined3d_context | current_rt struct TYPE_4__ 
+struct TYPE_3__ | resource struct wined3d_resource 
+function context_resource_released void | device const struct wined3d_device * | resource struct wined3d_resource *

@@ -1,0 +1,2 @@
+struct vcpu | exc_vector int | exc_errcode long | exc_errcode_valid long | exception_pending long 
+function vcpu_exception_intinfo int | vcpu struct vcpu *

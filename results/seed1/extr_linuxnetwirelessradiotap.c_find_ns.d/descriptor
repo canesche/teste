@@ -1,0 +1,4 @@
+struct ieee80211_radiotap_iterator | _vns struct TYPE_4__ * | current_namespace struct TYPE_3__ * 
+struct TYPE_4__ | n_ns int | ns struct TYPE_3__ * 
+struct TYPE_3__ | oui long | subns long 
+function find_ns void | iterator struct ieee80211_radiotap_iterator * | oui long | subns long

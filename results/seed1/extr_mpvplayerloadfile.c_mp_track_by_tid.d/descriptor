@@ -1,0 +1,3 @@
+struct track | type int | user_tid int 
+struct MPContext | num_tracks int | tracks struct track ** | current_track struct track *** 
+function mp_track_by_tid struct track * | mpctx struct MPContext * | type enum stream_type | tid int

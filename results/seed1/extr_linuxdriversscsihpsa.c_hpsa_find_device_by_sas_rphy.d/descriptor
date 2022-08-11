@@ -1,0 +1,5 @@
+struct sas_rphy | dummy int 
+struct hpsa_scsi_dev_t | sas_port struct TYPE_2__ * 
+struct ctlr_info | ndevices int | dev struct hpsa_scsi_dev_t ** 
+struct TYPE_2__ | rphy struct sas_rphy * 
+function hpsa_find_device_by_sas_rphy struct hpsa_scsi_dev_t * | h struct ctlr_info * | rphy struct sas_rphy *

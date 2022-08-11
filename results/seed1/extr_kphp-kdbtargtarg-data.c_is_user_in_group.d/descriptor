@@ -1,0 +1,3 @@
+struct user_groups | cur_groups int | G int * 
+struct user | grp struct user_groups * 
+function is_user_in_group int | U struct user * | group_id int

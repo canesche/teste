@@ -1,0 +1,3 @@
+struct drm_crtc_state | dummy int 
+struct drm_crtc | dummy int 
+function atmel_hlcdc_crtc_atomic_flush void | crtc struct drm_crtc * | old_s struct drm_crtc_state *

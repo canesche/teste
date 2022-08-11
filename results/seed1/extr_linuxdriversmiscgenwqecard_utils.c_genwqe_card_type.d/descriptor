@@ -1,0 +1,2 @@
+struct genwqe_dev | slu_unitcfg int 
+function genwqe_card_type int | cd struct genwqe_dev *

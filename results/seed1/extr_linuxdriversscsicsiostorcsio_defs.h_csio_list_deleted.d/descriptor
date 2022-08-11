@@ -1,0 +1,2 @@
+struct list_head | prev struct list_head * | next struct list_head * 
+function csio_list_deleted int | list struct list_head *

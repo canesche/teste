@@ -1,0 +1,2 @@
+struct pl330_reqcfg | brst_len int | brst_size int | scctl int | dcctl int | swap int | insnaccess long | nonsecure long | privileged long | dst_inc long | src_inc long 
+function _prepare_ccr int | rqc const struct pl330_reqcfg *

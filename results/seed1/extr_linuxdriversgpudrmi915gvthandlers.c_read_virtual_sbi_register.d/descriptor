@@ -1,0 +1,5 @@
+struct TYPE_3__ | number int | registers struct TYPE_4__ * 
+struct intel_vgpu_display | sbi struct TYPE_3__ 
+struct intel_vgpu | display struct intel_vgpu_display 
+struct TYPE_4__ | offset unsigned int | value int 
+function read_virtual_sbi_register int | vgpu struct intel_vgpu * | sbi_offset unsigned int

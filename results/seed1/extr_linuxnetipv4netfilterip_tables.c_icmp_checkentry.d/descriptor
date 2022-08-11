@@ -1,0 +1,3 @@
+struct xt_mtchk_param | matchinfo struct ipt_icmp * 
+struct ipt_icmp | invflags int 
+function icmp_checkentry int | par const struct xt_mtchk_param *

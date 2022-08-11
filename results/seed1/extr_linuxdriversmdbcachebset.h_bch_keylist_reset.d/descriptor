@@ -1,0 +1,2 @@
+struct keylist | keys int | top int 
+function bch_keylist_reset void | l struct keylist *

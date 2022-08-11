@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactosdlldirectxwineddrawutils.c_hr_ddraw_from_wined3d.d/extr_reactosdlldirectxwineddrawutils.c_hr_ddraw_from_wined3d_O0::hr_ddraw_from_wined3d(64)"
+  }
+]

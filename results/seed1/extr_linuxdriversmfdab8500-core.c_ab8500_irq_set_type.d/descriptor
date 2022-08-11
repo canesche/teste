@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function ab8500_irq_set_type int | data struct irq_data * | type unsigned int

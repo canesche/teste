@@ -1,0 +1,2 @@
+struct TYPE_3__ | sc_pid int 
+function stackshot_config_set_pid int | stackshot_config struct TYPE_3__ * | pid int

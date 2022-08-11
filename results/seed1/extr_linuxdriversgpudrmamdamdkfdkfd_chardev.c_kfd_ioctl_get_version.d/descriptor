@@ -1,0 +1,4 @@
+struct kfd_process | dummy int 
+struct kfd_ioctl_get_version_args | minor_version int | major_version int 
+struct file | dummy int 
+function kfd_ioctl_get_version int | filep struct file * | p struct kfd_process * | data void *

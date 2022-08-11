@@ -1,0 +1,5 @@
+struct TYPE_5__ | srcimap int 
+struct TYPE_6__ | bf struct TYPE_5__ 
+struct TYPE_4__ | idx unsigned int 
+struct srcimp_mgr_ctrl_blk | dirty struct TYPE_6__ | srcimap struct TYPE_4__ 
+function srcimp_mgr_set_imapaddr int | blk void * | addr unsigned int

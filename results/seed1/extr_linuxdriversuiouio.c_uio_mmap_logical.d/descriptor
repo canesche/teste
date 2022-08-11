@@ -1,0 +1,2 @@
+struct vm_area_struct | vm_flags int | vm_ops int * 
+function uio_mmap_logical int | vma struct vm_area_struct *

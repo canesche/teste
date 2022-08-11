@@ -1,0 +1,2 @@
+struct hclge_vport | dummy int 
+function hclge_unic_setup void | vport struct hclge_vport * | num_tqps int

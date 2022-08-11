@@ -1,0 +1,2 @@
+struct TYPE_3__ | object_zlib_level int | fsync_object_files long 
+function filebuf_flags int | backend struct TYPE_3__ *

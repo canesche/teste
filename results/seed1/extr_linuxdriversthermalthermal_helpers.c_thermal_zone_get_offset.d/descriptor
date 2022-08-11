@@ -1,0 +1,3 @@
+struct thermal_zone_device | tzp struct TYPE_2__ * 
+struct TYPE_2__ | offset int 
+function thermal_zone_get_offset int | tz struct thermal_zone_device *

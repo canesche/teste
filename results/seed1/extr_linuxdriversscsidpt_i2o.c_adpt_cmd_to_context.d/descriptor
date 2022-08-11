@@ -1,0 +1,2 @@
+struct scsi_cmnd | serial_number int 
+function adpt_cmd_to_context int | cmd struct scsi_cmnd *

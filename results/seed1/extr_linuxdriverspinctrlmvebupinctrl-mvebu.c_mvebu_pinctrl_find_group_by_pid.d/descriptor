@@ -1,0 +1,3 @@
+struct mvebu_pinctrl_group | pins unsigned int * | npins unsigned int 
+struct mvebu_pinctrl | num_groups unsigned int | groups struct mvebu_pinctrl_group * 
+function mvebu_pinctrl_find_group_by_pid struct mvebu_pinctrl_group * | pctl struct mvebu_pinctrl * | pid unsigned int

@@ -1,0 +1,2 @@
+struct bitreader | prefix_bit_offset int | start_ptr const unsigned char * | ptr const unsigned char * | m int 
+function bread_init void | br struct bitreader * | start_ptr const unsigned char * | prefix_bit_offset int

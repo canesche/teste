@@ -1,0 +1,2 @@
+function little_endian int | v int
+struct  | v int | b int [4] 

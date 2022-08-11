@@ -1,0 +1,2 @@
+struct radix_tree_root | rnode int * 
+function radix_tree_empty int | root const struct radix_tree_root *

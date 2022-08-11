@@ -1,0 +1,2 @@
+struct ocrdma_qp_hwq_info | va void * | entry_size int 
+function ocrdma_hwq_head_from_idx void * | q struct ocrdma_qp_hwq_info * | idx int

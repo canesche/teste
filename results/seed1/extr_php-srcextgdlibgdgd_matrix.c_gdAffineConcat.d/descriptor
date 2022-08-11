@@ -1,0 +1,1 @@
+function gdAffineConcat int | dst double [6] | m1 double const[6] | m2 double const[6]

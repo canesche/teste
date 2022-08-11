@@ -1,0 +1,2 @@
+struct rpc_buffer | sptr int | rptr int 
+function buffer_read_pad int | buf struct rpc_buffer *

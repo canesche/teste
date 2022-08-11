@@ -1,0 +1,2 @@
+struct nes_cm_core | state int 
+function mini_cm_get int | cm_core struct nes_cm_core *

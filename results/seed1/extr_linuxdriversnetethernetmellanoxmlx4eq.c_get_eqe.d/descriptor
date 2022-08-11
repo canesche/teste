@@ -1,0 +1,4 @@
+struct mlx4_eqe | dummy int 
+struct mlx4_eq | nent int | page_list struct TYPE_2__ * 
+struct TYPE_2__ | buf struct mlx4_eqe * 
+function get_eqe struct mlx4_eqe * | eq struct mlx4_eq * | entry int | eqe_factor int | eqe_size int

@@ -1,0 +1,4 @@
+struct malidp_hw_device | hw struct TYPE_4__ * 
+struct TYPE_3__ | dc_base int | se_base int 
+struct TYPE_4__ | map struct TYPE_3__ 
+function malidp_get_block_base int | hwdev struct malidp_hw_device * | block int

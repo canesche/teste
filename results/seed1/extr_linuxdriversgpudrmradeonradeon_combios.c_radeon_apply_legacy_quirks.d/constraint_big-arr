@@ -1,0 +1,1 @@
+value(bios_index) == 255, length(legacy_connector) == 65025, length(dev) == 65025, length(ddc_i2c) == 65025, length(hpd) == 65025

@@ -1,0 +1,4 @@
+struct mp_filter | in struct TYPE_4__ * 
+struct TYPE_4__ | info struct TYPE_3__ * 
+struct TYPE_3__ | name const char * 
+function filt_name const char * | f struct mp_filter *

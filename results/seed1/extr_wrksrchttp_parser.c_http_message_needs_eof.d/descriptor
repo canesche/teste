@@ -1,0 +1,2 @@
+struct TYPE_3__ | type long | status_code int | flags int | content_length long 
+function http_message_needs_eof int | parser const struct TYPE_3__ *

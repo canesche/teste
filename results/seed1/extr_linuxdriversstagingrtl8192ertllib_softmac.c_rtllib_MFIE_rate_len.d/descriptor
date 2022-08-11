@@ -1,0 +1,2 @@
+struct rtllib_device | modulation int 
+function rtllib_MFIE_rate_len unsigned int | ieee struct rtllib_device *

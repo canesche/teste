@@ -1,0 +1,2 @@
+struct bnxt | dummy int 
+function bnxt_update_vf_mac void | bp struct bnxt *

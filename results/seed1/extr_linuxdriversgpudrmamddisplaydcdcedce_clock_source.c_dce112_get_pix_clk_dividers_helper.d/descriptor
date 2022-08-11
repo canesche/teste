@@ -1,0 +1,4 @@
+struct pll_settings | actual_pix_clk int | adjusted_pix_clk int | calculated_pix_clk int 
+struct pixel_clk_params | requested_pix_clk int | signal_type long | color_depth int 
+struct dce110_clk_src | dummy int 
+function dce112_get_pix_clk_dividers_helper void | clk_src struct dce110_clk_src * | pll_settings struct pll_settings * | pix_clk_params struct pixel_clk_params *

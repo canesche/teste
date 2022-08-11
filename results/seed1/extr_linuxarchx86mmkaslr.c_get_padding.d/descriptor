@@ -1,0 +1,2 @@
+struct kaslr_memory_region | size_tb unsigned long 
+function get_padding unsigned long | region struct kaslr_memory_region *

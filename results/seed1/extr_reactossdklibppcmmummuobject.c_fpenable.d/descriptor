@@ -1,0 +1,2 @@
+struct TYPE_3__ | srr1 int 
+function fpenable int | trapCode int | trap struct TYPE_3__ *

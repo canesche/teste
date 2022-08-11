@@ -1,0 +1,2 @@
+struct usb_gadget | is_selfpowered int 
+function net2272_set_selfpowered int | _gadget struct usb_gadget * | value int

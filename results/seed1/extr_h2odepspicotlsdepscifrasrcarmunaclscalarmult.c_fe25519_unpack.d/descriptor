@@ -1,0 +1,2 @@
+struct TYPE_3__ | as_uint8 unsigned char * 
+function fe25519_unpack void | out volatile struct TYPE_3__ * | in unsigned char const[32]

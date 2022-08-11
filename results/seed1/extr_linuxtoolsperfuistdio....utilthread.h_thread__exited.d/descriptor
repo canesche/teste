@@ -1,0 +1,2 @@
+struct thread | dead int 
+function thread__exited void | thread struct thread *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | type long 
+struct btrfs_delayed_data_ref | root long | objectid long | offset long | parent long | node struct TYPE_2__ 
+function comp_data_refs int | ref1 struct btrfs_delayed_data_ref * | ref2 struct btrfs_delayed_data_ref *

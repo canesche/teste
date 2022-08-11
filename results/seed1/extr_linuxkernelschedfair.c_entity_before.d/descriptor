@@ -1,0 +1,2 @@
+struct sched_entity | vruntime long 
+function entity_before int | a struct sched_entity * | b struct sched_entity *

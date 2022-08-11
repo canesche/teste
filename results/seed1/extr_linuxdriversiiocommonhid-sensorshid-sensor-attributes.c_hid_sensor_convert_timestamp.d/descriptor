@@ -1,0 +1,2 @@
+struct hid_sensor_common | timestamp_ns_scale int 
+function hid_sensor_convert_timestamp int | st struct hid_sensor_common * | raw_value int

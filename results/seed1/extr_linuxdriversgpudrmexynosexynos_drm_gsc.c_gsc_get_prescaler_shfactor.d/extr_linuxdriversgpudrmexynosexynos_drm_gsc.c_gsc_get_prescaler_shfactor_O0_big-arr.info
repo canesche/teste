@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 7,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmexynosexynos_drm_gsc.c_gsc_get_prescaler_shfactor.d/extr_linuxdriversgpudrmexynosexynos_drm_gsc.c_gsc_get_prescaler_shfactor_O0::gsc_get_prescaler_shfactor(61)"
+  }
+]

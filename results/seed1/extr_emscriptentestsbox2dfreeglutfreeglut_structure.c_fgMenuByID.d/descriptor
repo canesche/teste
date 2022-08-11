@@ -1,0 +1,5 @@
+struct TYPE_6__ | First long 
+struct TYPE_9__ | Menus struct TYPE_6__ 
+struct TYPE_7__ | Next long 
+struct TYPE_8__ | ID int | Node struct TYPE_7__ 
+function fgMenuByID struct TYPE_8__ * | menuID int

@@ -1,0 +1,4 @@
+struct v4l2_rect | height long | width long | left long | top long 
+struct smiapp_subdev | sensor struct TYPE_2__ * 
+struct TYPE_2__ | limits long * 
+function smiapp_get_native_size void | ssd struct smiapp_subdev * | r struct v4l2_rect *

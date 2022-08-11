@@ -1,0 +1,3 @@
+struct drm_encoder | dummy int 
+struct device | dummy int 
+function exynos_dpi_probe struct drm_encoder * | dev struct device *

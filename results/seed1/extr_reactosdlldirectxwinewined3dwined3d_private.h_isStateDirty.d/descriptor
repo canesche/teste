@@ -1,0 +1,2 @@
+struct wined3d_context | isStateDirty unsigned int * 
+function isStateDirty unsigned int | context const struct wined3d_context * | state int

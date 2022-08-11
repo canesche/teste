@@ -1,0 +1,2 @@
+struct gendisk | dummy int 
+function nvme_init_integrity void | disk struct gendisk * | ms int | pi_type int

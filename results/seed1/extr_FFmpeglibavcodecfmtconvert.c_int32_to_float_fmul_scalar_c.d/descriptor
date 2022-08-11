@@ -1,0 +1,1 @@
+function int32_to_float_fmul_scalar_c void | dst float * | src const float * | mul float | len int

@@ -1,0 +1,2 @@
+struct vm_area_struct | vm_flags int 
+function remap_pfn_range int | vma struct vm_area_struct * | addr unsigned long | pfn unsigned long | size unsigned long | prot int

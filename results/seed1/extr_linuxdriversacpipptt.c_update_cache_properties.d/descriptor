@@ -1,0 +1,4 @@
+struct cacheinfo | attributes int | type long | ways_of_associativity int | number_of_sets int | coherency_line_size int | size int | fw_token struct acpi_pptt_processor * 
+struct acpi_pptt_processor | dummy int 
+struct acpi_pptt_cache | flags int | attributes int | associativity int | number_of_sets int | line_size int | size int 
+function update_cache_properties void | this_leaf struct cacheinfo * | found_cache struct acpi_pptt_cache * | cpu_node struct acpi_pptt_processor *

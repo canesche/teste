@@ -1,0 +1,3 @@
+struct nvidia_par | Chipset int 
+struct fb_info | par struct nvidia_par * 
+function nvidia_get_arch int | info struct fb_info *

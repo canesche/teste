@@ -1,0 +1,3 @@
+struct mdfld_dsi_encoder | private long 
+struct mdfld_dsi_config | dummy int 
+function mdfld_dsi_encoder_get_config struct mdfld_dsi_config * | encoder struct mdfld_dsi_encoder *

@@ -1,0 +1,2 @@
+struct request_queue | unprep_rq_fn int * 
+function blk_queue_unprep_rq void | q struct request_queue * | ufn int *

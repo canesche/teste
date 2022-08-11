@@ -1,0 +1,2 @@
+struct frame_info | port int | tag_type int | vid int 
+function ocelot_gen_ifh int | ifh int * | info struct frame_info *

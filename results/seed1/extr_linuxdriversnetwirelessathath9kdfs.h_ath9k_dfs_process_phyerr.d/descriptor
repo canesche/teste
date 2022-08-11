@@ -1,0 +1,3 @@
+struct ath_softc | dummy int 
+struct ath_rx_status | dummy int 
+function ath9k_dfs_process_phyerr void | sc struct ath_softc * | data void * | rs struct ath_rx_status * | mactime int

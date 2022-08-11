@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetwirelessbroadcombrcm80211brcmsmacmain.c_brcms_c_down_del_timer.d/extr_linuxdriversnetwirelessbroadcombrcm80211brcmsmacmain.c_brcms_c_down_del_timer_O0::brcms_c_down_del_timer(62)"
+  }
+]

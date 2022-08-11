@@ -1,0 +1,2 @@
+struct TYPE_3__ | skipFlag int 
+function sqlite3SkipAccumulatorLoad void | context struct TYPE_3__ *

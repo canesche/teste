@@ -1,0 +1,2 @@
+struct flow_divert_trie | child_maps_free_next long | child_maps_count long 
+function trie_child_map_alloc int | trie struct flow_divert_trie *

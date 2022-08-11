@@ -1,0 +1,4 @@
+struct sdio_func | dummy int 
+struct ks_wlan_private | if_hw struct ks_sdio_card * 
+struct ks_sdio_card | func struct sdio_func * 
+function ks7010_to_func struct sdio_func * | priv struct ks_wlan_private *

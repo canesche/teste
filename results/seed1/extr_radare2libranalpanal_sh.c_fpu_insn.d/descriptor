@@ -1,0 +1,2 @@
+struct TYPE_3__ | size int | family int 
+function fpu_insn int | anal int * | op struct TYPE_3__ * | code int

@@ -1,0 +1,2 @@
+struct TYPE_4__ | mnt long | parent struct TYPE_4__ * | child_b struct TYPE_4__ * | child_a struct TYPE_4__ * 
+function mockfs_fsnode_adopt int | parent struct TYPE_4__ * | child struct TYPE_4__ *

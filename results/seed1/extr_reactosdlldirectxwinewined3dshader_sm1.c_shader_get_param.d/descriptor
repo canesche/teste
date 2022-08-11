@@ -1,0 +1,3 @@
+struct TYPE_2__ | major int 
+struct wined3d_sm1_data | shader_version struct TYPE_2__ 
+function shader_get_param unsigned int | priv const struct wined3d_sm1_data * | ptr const int * | token int * | addr_token int *

@@ -1,0 +1,1 @@
+function common_calc_clock int | freq long | min_m int | min_n1 int | max_n1 int | min_n2 int | max_n2 int | freq_min long | freq_max long | mdiv unsigned char * | ndiv unsigned char *

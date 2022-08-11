@@ -1,0 +1,3 @@
+struct mlx5_ib_sq | dummy int 
+struct mlx5_ib_dev | dummy int 
+function create_flow_rule_vport_sq int | dev struct mlx5_ib_dev * | sq struct mlx5_ib_sq *

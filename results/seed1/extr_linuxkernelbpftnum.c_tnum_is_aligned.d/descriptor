@@ -1,0 +1,2 @@
+struct tnum | value int | mask int 
+function tnum_is_aligned int | a struct tnum | size int

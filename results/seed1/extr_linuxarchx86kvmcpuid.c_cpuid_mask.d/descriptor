@@ -1,0 +1,2 @@
+struct TYPE_2__ | x86_capability int * 
+function cpuid_mask void | word int * | wordnum int

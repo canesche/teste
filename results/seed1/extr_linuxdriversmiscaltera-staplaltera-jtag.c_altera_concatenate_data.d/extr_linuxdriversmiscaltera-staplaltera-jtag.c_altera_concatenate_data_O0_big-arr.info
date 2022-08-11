@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 19,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 26,
+    static: {
+      instructions: 149,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24512,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmiscaltera-staplaltera-jtag.c_altera_concatenate_data.d/extr_linuxdriversmiscaltera-staplaltera-jtag.c_altera_concatenate_data_O0::altera_concatenate_data(73)"
+  }
+]

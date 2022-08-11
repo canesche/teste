@@ -1,0 +1,2 @@
+struct irq_handler_data | dev_ino unsigned int | dev_handle int 
+function cookie_handler_data void | data struct irq_handler_data * | devhandle int | devino unsigned int

@@ -1,0 +1,2 @@
+struct smsdvb_client_t | dummy int 
+function smsdvb_debugfs_create int | client struct smsdvb_client_t *

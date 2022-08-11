@@ -1,0 +1,2 @@
+struct wil6210_priv | dummy int 
+function wil6210_debugfs_remove void | wil struct wil6210_priv *

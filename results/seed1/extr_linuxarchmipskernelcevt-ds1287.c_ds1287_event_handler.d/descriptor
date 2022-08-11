@@ -1,0 +1,2 @@
+struct clock_event_device | dummy int 
+function ds1287_event_handler void | dev struct clock_event_device *

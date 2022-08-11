@@ -1,0 +1,2 @@
+struct adp5589_kpad | dummy int 
+function adp5589_gpio_remove void | kpad struct adp5589_kpad *

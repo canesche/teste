@@ -1,0 +1,2 @@
+struct TYPE_3__ | Data1 long | Data2 long | Data3 long | Data4 long 
+function IsNullGuid int | Guid struct TYPE_3__ *

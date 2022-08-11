@@ -1,0 +1,3 @@
+struct TYPE_4__ | cmd_flags long | count long | commands int * 
+struct TYPE_5__ | mstate struct TYPE_4__ 
+function initClientMultiState void | c struct TYPE_5__ *

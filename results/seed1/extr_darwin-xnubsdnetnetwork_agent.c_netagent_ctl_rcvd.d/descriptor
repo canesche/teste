@@ -1,0 +1,1 @@
+function netagent_ctl_rcvd void | kctlref int | unit int | unitinfo void * | flags int

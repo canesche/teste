@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function smsc9420_ethtool_getregslen int | dev struct net_device *

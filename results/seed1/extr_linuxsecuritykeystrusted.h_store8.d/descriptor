@@ -1,0 +1,2 @@
+struct tpm_buf | data unsigned char * | len int 
+function store8 void | buf struct tpm_buf * | value const unsigned char

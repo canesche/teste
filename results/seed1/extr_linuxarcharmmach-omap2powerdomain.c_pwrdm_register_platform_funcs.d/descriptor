@@ -1,0 +1,2 @@
+struct pwrdm_ops | dummy int 
+function pwrdm_register_platform_funcs int | po struct pwrdm_ops *

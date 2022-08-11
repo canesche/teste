@@ -1,0 +1,2 @@
+struct uthread | uu_flag int 
+function set_thread_atime_policy void | ut struct uthread * | policy int

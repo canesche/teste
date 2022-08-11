@@ -1,0 +1,2 @@
+struct TYPE_2__ | sync_lost_irq int 
+function dispc_mgr_get_sync_lost_irq int | channel enum omap_channel

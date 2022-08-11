@@ -1,0 +1,5 @@
+struct TYPE_6__ | chan struct TYPE_5__ * 
+struct mt7601u_dev | chandef struct TYPE_6__ | ee struct TYPE_4__ * 
+struct TYPE_5__ | hw_value int 
+struct TYPE_4__ | chan_pwr int * 
+function mt7601u_current_tx_power int | dev struct mt7601u_dev *

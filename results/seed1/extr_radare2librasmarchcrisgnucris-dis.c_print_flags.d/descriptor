@@ -1,0 +1,2 @@
+struct cris_disasm_data | distype long 
+function print_flags char * | disdata struct cris_disasm_data * | insn unsigned int | cp char *

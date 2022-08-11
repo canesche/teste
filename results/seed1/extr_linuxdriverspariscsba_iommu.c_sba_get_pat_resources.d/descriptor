@@ -1,0 +1,2 @@
+struct sba_device | dummy int 
+function sba_get_pat_resources void | sba_dev struct sba_device *

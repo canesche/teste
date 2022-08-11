@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactosdriversstorageportbuslogicBusLogic958.h_BusLogic_IncrementByteCounter.d/extr_reactosdriversstorageportbuslogicBusLogic958.h_BusLogic_IncrementByteCounter_O0::BusLogic_IncrementByteCounter(65)"
+  }
+]

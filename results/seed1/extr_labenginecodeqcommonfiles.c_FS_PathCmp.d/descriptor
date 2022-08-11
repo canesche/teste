@@ -1,0 +1,1 @@
+function FS_PathCmp int | s1 const char * | s2 const char *

@@ -1,0 +1,1 @@
+function _glfwPlatformGetWindowContentScale void | window int * | xscale float * | yscale float *

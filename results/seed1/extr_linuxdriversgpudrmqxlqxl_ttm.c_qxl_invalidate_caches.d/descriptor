@@ -1,0 +1,2 @@
+struct ttm_bo_device | dummy int 
+function qxl_invalidate_caches int | bdev struct ttm_bo_device * | flags int

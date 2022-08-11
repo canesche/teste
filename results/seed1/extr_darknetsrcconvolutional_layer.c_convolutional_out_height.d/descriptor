@@ -1,0 +1,2 @@
+struct TYPE_3__ | h int | pad int | size int | stride int 
+function convolutional_out_height int | l struct TYPE_3__

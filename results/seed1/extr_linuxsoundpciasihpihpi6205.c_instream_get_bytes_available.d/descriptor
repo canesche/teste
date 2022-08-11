@@ -1,0 +1,2 @@
+struct hpi_hostbuffer_status | host_index long | dsp_index long 
+function instream_get_bytes_available long | status struct hpi_hostbuffer_status *

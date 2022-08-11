@@ -1,0 +1,2 @@
+struct TYPE_3__ | active_entries long * | active_area unsigned long | entry_size long | active_pages int * | pages_per_area int 
+function proceed_active_entry void | id struct TYPE_3__ *

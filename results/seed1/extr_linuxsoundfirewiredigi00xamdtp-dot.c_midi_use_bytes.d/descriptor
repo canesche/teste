@@ -1,0 +1,3 @@
+struct amdtp_stream | sfc unsigned long | protocol struct amdtp_dot * 
+struct amdtp_dot | midi_fifo_used unsigned int * 
+function midi_use_bytes void | s struct amdtp_stream * | port unsigned int | count unsigned int

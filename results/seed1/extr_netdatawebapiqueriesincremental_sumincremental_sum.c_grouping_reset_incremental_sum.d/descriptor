@@ -1,0 +1,4 @@
+struct grouping_incremental_sum | count long | last long | first long 
+struct TYPE_4__ | grouping_data long 
+struct TYPE_5__ | internal struct TYPE_4__ 
+function grouping_reset_incremental_sum void | r struct TYPE_5__ *

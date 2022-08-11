@@ -1,0 +1,3 @@
+struct rga_addr_offset | dummy int 
+struct rga_corners_addr_offset | right_bottom struct rga_addr_offset | right_top struct rga_addr_offset | left_bottom struct rga_addr_offset | left_top struct rga_addr_offset 
+function rga_lookup_draw_pos struct rga_addr_offset * | offsets struct rga_corners_addr_offset * | rotate_mode unsigned long | mirr_mode unsigned long

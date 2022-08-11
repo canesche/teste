@@ -1,0 +1,3 @@
+struct TYPE_2__ | ps int 
+struct rdma_id_private | id struct TYPE_2__ 
+function cma_select_inet_ps enum rdma_ucm_port_space | id_priv struct rdma_id_private *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | speed long | mask long 
+function mlxsw_sp_to_ptys_speed long | speed long

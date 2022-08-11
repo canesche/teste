@@ -1,0 +1,3 @@
+struct boot_rom_geometry | stride_size_in_pages int | search_area_stride_exponent int 
+struct gpmi_nand_data | rom_geometry struct boot_rom_geometry 
+function nand_boot_set_geometry int | this struct gpmi_nand_data *

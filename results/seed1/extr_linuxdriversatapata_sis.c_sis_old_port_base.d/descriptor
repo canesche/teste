@@ -1,0 +1,4 @@
+struct ata_device | devno int | link struct TYPE_4__ * 
+struct TYPE_4__ | ap struct TYPE_3__ * 
+struct TYPE_3__ | port_no int 
+function sis_old_port_base int | adev struct ata_device *

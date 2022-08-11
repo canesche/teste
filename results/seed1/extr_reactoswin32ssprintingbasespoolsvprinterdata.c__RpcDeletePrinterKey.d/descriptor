@@ -1,0 +1,1 @@
+function _RpcDeletePrinterKey int | hPrinter int | pKeyName const int *

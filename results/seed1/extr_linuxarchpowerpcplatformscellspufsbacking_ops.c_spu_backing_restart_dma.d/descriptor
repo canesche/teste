@@ -1,0 +1,4 @@
+struct TYPE_3__ | mfc_control_RW int 
+struct TYPE_4__ | priv2 struct TYPE_3__ 
+struct spu_context | csa struct TYPE_4__ 
+function spu_backing_restart_dma void | ctx struct spu_context *

@@ -1,0 +1,2 @@
+struct bcm_qspi | bspi_mode int 
+function has_bspi int | qspi struct bcm_qspi *

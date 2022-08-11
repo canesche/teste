@@ -1,0 +1,2 @@
+struct i2c_client | flags int | addr int 
+function stm32f7_i2c_is_addr_match int | slave struct i2c_client * | addcode int

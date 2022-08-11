@@ -1,0 +1,2 @@
+struct rol_state | key int * | key_size int 
+function rol_crypt void | state struct rol_state *const | inbuf const int * | outbuf int * | buflen int

@@ -1,0 +1,2 @@
+struct file | f_pos long 
+function null_lseek long | file struct file * | offset long | orig int

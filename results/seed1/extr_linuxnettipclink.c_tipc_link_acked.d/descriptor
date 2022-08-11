@@ -1,0 +1,2 @@
+struct tipc_link | acked int 
+function tipc_link_acked int | l struct tipc_link *

@@ -1,0 +1,2 @@
+struct image_section_map | dummy int 
+function macho_map_section const char * | ism struct image_section_map *

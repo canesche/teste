@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxnetipv6datagram.c_ipv6_datagram_support_addr.d/extr_linuxnetipv6datagram.c_ipv6_datagram_support_addr_O0::ipv6_datagram_support_addr(66)"
+  }
+]

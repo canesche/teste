@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_php-srcsapifpmfpmzlog.c_zlog_get_level_name.d/extr_php-srcsapifpmfpmzlog.c_zlog_get_level_name_O0::zlog_get_level_name(64)"
+  }
+]

@@ -1,0 +1,3 @@
+struct mxsfb_drm_private | devdata struct TYPE_2__ * 
+struct TYPE_2__ | hs_wdth_mask int | hs_wdth_shift int 
+function set_hsync_pulse_width int | mxsfb struct mxsfb_drm_private * | val int

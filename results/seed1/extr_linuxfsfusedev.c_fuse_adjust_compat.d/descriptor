@@ -1,0 +1,9 @@
+struct fuse_open_in | dummy int 
+struct fuse_conn | minor int 
+struct TYPE_8__ | opcode int 
+struct TYPE_10__ | args struct TYPE_9__ * | h struct TYPE_8__ 
+struct TYPE_7__ | args struct TYPE_6__ * 
+struct fuse_args | in struct TYPE_10__ | out struct TYPE_7__ 
+struct TYPE_9__ | size int 
+struct TYPE_6__ | size int 
+function fuse_adjust_compat void | fc struct fuse_conn * | args struct fuse_args *

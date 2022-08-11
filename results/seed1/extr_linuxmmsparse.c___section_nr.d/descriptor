@@ -1,0 +1,2 @@
+struct mem_section | dummy int 
+function __section_nr int | ms struct mem_section *

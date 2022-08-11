@@ -1,0 +1,4 @@
+struct TYPE_4__ | size int 
+struct TYPE_6__ | name struct TYPE_4__ 
+struct TYPE_5__ | type_info long 
+function get_enum_name_len void | type void * | res_len int *

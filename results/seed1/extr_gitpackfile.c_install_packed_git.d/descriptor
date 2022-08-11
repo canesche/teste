@@ -1,0 +1,4 @@
+struct repository | objects struct TYPE_2__ * 
+struct packed_git | pack_fd int | next struct packed_git * 
+struct TYPE_2__ | packed_git struct packed_git * 
+function install_packed_git void | r struct repository * | pack struct packed_git *

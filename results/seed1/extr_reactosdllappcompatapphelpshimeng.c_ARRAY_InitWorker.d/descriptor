@@ -1,0 +1,2 @@
+struct TYPE_3__ | ItemSize__ int | MaxSize__ long | Size__ long | Data__ int * 
+function ARRAY_InitWorker int | Array struct TYPE_3__ * | ItemSize int

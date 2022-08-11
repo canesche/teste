@@ -1,0 +1,2 @@
+struct nd_region | provider_data void * 
+function nd_region_provider_data void * | nd_region struct nd_region *

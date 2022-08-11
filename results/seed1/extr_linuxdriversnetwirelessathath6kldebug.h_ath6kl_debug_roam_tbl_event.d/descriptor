@@ -1,0 +1,2 @@
+struct ath6kl | dummy int 
+function ath6kl_debug_roam_tbl_event int | ar struct ath6kl * | buf const void * | len unsigned long

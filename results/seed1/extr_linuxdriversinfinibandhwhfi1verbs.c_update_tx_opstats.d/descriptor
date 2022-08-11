@@ -1,0 +1,3 @@
+struct rvt_qp | dummy int 
+struct hfi1_pkt_state | dummy int 
+function update_tx_opstats void | qp struct rvt_qp * | ps struct hfi1_pkt_state * | plen int

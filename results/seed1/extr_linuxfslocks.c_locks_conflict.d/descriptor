@@ -1,0 +1,2 @@
+struct file_lock | fl_type long 
+function locks_conflict int | caller_fl struct file_lock * | sys_fl struct file_lock *

@@ -1,0 +1,1 @@
+function ath79_pci_set_plat_dev_init void | func int (*)(struct pci_dev *)

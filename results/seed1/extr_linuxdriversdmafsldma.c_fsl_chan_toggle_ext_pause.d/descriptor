@@ -1,0 +1,2 @@
+struct fsldma_chan | feature int 
+function fsl_chan_toggle_ext_pause void | chan struct fsldma_chan * | enable int

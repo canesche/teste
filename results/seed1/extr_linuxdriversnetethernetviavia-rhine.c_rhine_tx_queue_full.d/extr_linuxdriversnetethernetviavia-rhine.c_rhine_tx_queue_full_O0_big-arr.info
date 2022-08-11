@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetviavia-rhine.c_rhine_tx_queue_full.d/extr_linuxdriversnetethernetviavia-rhine.c_rhine_tx_queue_full_O0::rhine_tx_queue_full(62)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactosdllwin32xmllitereader.c_reader_update_position.d/extr_reactosdllwin32xmllitereader.c_reader_update_position_O0::reader_update_position(66)"
+  }
+]

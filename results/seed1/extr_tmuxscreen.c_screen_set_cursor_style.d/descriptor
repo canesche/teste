@@ -1,0 +1,2 @@
+struct screen | cstyle int 
+function screen_set_cursor_style void | s struct screen * | style int

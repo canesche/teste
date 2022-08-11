@@ -1,0 +1,3 @@
+struct page | dummy int 
+struct inode | dummy int 
+function f2fs_getxattr int | inode struct inode * | index int | name const char * | buffer void * | buffer_size unsigned long | dpage struct page *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmamddisplaydcdce112dce112_compressor.c_is_source_bigger_than_epanel_size.d/extr_linuxdriversgpudrmamddisplaydcdce112dce112_compressor.c_is_source_bigger_than_epanel_size_O0::is_source_bigger_than_epanel_size(67)"
+  }
+]

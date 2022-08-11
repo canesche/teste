@@ -1,0 +1,2 @@
+struct git_graph | num_columns int | num_parents int | width int 
+function graph_update_width void | graph struct git_graph * | is_commit_in_existing_columns int

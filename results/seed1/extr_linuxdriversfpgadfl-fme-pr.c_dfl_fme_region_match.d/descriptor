@@ -1,0 +1,2 @@
+struct device | parent const void * 
+function dfl_fme_region_match int | dev struct device * | data const void *

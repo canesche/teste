@@ -1,0 +1,2 @@
+struct TYPE_3__ | close int 
+function OSSL_STORE_LOADER_set_close int | loader struct TYPE_3__ * | close_function int

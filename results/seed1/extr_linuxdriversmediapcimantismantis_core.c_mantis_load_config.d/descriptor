@@ -1,0 +1,2 @@
+struct mantis_pci | subsystem_device int | hwconfig int * 
+function mantis_load_config void | mantis struct mantis_pci *

@@ -1,0 +1,3 @@
+struct poll_table_struct | dummy int 
+struct file | dummy int 
+function hostaudio_poll int | file struct file * | wait struct poll_table_struct *

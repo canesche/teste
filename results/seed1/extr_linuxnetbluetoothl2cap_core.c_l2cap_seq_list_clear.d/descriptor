@@ -1,0 +1,2 @@
+struct l2cap_seq_list | head long | mask unsigned long | tail long | list long * 
+function l2cap_seq_list_clear void | seq_list struct l2cap_seq_list *

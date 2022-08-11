@@ -1,0 +1,2 @@
+struct thread | priv void * 
+function thread__priv void * | thread struct thread *

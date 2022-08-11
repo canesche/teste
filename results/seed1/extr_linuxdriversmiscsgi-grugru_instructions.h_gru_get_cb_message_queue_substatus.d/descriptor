@@ -1,0 +1,2 @@
+struct gru_control_block_status | isubstatus int 
+function gru_get_cb_message_queue_substatus int | cb void *

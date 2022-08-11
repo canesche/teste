@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriverspinctrlspearpinctrl-plgpio.c_spear310_p2o.d/extr_linuxdriverspinctrlspearpinctrl-plgpio.c_spear310_p2o_O0::spear310_p2o(60)"
+  }
+]

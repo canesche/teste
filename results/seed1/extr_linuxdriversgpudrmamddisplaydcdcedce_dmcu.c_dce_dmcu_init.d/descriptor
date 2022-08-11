@@ -1,0 +1,2 @@
+struct dmcu | dummy int 
+function dce_dmcu_init int | dmcu struct dmcu *

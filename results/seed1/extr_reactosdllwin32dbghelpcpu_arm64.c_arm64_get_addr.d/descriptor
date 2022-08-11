@@ -1,0 +1,2 @@
+struct TYPE_3__ | Mode int | Segment long 
+function arm64_get_addr int | hThread int | ctx const int * | ca enum cpu_addr | addr struct TYPE_3__ *

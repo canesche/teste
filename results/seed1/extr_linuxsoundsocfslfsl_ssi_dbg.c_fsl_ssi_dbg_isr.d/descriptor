@@ -1,0 +1,3 @@
+struct TYPE_2__ | tfe0 int | tfe1 int | rff0 int | rff1 int | rls int | tls int | rfs int | tfs int | tue0 int | tue1 int | roe0 int | roe1 int | tde0 int | tde1 int | rdr0 int | rdr1 int | rxt int | cmddu int | cmdau int | tfrc int | rfrc int 
+struct fsl_ssi_dbg | stats struct TYPE_2__ 
+function fsl_ssi_dbg_isr void | dbg struct fsl_ssi_dbg * | sisr int

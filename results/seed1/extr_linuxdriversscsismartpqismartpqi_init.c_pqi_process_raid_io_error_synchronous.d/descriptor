@@ -1,0 +1,2 @@
+struct pqi_raid_error_info | data_out_result int | status int 
+function pqi_process_raid_io_error_synchronous int | error_info struct pqi_raid_error_info *

@@ -1,0 +1,2 @@
+struct ntb_transport_qp | link_is_up int | active int | tx_async long | tx_memcpy long | tx_err_no_buf long | tx_ring_full long | tx_pkts long | tx_bytes long | rx_async long | rx_memcpy long | rx_err_ver long | rx_err_oflow long | rx_err_no_buf long | rx_ring_empty long | rx_pkts long | rx_bytes long | rx_index long | tx_index long 
+function ntb_qp_link_down_reset void | qp struct ntb_transport_qp *

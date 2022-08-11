@@ -1,0 +1,2 @@
+struct dma_debug_entry | dummy int 
+function dump_entry_trace void | entry struct dma_debug_entry *

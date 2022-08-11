@@ -1,0 +1,3 @@
+struct pvr2_ctrl | info struct TYPE_2__ * 
+struct TYPE_2__ | desc const char * 
+function pvr2_ctrl_get_desc const char * | cptr struct pvr2_ctrl *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | feat struct TYPE_3__ * 
+struct TYPE_3__ | sw_max int | hp_max int | vp_max int 
+function _dispc_lcd_timings_ok int | hsw int | hfp int | hbp int | vsw int | vfp int | vbp int

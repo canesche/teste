@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversatasata_gemini.c_gemini_sata_bridge_enabled.d/extr_linuxdriversatasata_gemini.c_gemini_sata_bridge_enabled_O0::gemini_sata_bridge_enabled(63)"
+  }
+]

@@ -1,0 +1,2 @@
+struct iwl_priv | dummy int 
+function iwl_get_active_dwell_time long | priv struct iwl_priv * | band enum nl80211_band | n_probes int

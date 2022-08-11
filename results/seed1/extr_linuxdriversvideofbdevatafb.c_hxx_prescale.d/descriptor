@@ -1,0 +1,2 @@
+struct falcon_hw | vid_mode int | ste_mode long 
+function hxx_prescale int | hw struct falcon_hw *

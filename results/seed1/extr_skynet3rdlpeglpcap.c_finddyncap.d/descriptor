@@ -1,0 +1,2 @@
+struct TYPE_4__ | kind long | idx int 
+function finddyncap int | cap struct TYPE_4__ * | last struct TYPE_4__ *

@@ -1,0 +1,2 @@
+struct cpu_stack_walk | dummy int 
+function arm64_stack_walk int | csw struct cpu_stack_walk * | frame int | context int *

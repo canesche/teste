@@ -1,0 +1,2 @@
+struct TYPE_4__ | addr long | size long 
+function r_itv_overlap int | itv struct TYPE_4__ | x struct TYPE_4__

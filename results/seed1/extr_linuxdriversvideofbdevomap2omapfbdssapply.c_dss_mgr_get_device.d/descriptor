@@ -1,0 +1,3 @@
+struct omap_overlay_manager | output struct omap_dss_device * 
+struct omap_dss_device | driver long | dst struct omap_dss_device * 
+function dss_mgr_get_device struct omap_dss_device * | mgr struct omap_overlay_manager *

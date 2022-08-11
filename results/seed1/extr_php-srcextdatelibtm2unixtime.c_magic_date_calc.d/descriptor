@@ -1,0 +1,2 @@
+struct TYPE_3__ | d int | y int | m int 
+function magic_date_calc void | time struct TYPE_3__ *

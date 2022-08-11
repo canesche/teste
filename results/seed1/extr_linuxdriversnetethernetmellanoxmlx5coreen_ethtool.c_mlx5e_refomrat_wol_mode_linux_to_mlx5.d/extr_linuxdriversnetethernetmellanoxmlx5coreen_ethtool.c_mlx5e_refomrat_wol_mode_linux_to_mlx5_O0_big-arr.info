@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 7,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetmellanoxmlx5coreen_ethtool.c_mlx5e_refomrat_wol_mode_linux_to_mlx5.d/extr_linuxdriversnetethernetmellanoxmlx5coreen_ethtool.c_mlx5e_refomrat_wol_mode_linux_to_mlx5_O0::mlx5e_refomrat_wol_mode_linux_to_mlx5(76)"
+  }
+]

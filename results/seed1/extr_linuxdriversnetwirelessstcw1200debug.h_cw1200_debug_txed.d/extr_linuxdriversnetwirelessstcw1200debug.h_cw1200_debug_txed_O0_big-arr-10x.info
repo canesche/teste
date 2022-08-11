@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetwirelessstcw1200debug.h_cw1200_debug_txed.d/extr_linuxdriversnetwirelessstcw1200debug.h_cw1200_debug_txed_O0::cw1200_debug_txed(63)"
+  }
+]

@@ -1,0 +1,2 @@
+struct ff_format_desc | next const struct ff_format_desc * 
+function ff_format_desc_next const struct ff_format_desc * | format_desc const struct ff_format_desc *

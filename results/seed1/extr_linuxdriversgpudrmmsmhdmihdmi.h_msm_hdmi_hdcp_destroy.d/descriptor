@@ -1,0 +1,2 @@
+struct hdmi | dummy int 
+function msm_hdmi_hdcp_destroy void | hdmi struct hdmi *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | verify_mode int 
+function SSL_get_verify_mode int | s const struct TYPE_3__ *

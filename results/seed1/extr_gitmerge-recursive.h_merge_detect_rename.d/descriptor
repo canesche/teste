@@ -1,0 +1,2 @@
+struct merge_options | merge_detect_rename long | diff_detect_rename long 
+function merge_detect_rename int | o struct merge_options *

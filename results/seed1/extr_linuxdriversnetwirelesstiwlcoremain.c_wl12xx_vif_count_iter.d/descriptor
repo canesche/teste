@@ -1,0 +1,3 @@
+struct vif_counter_data | cur_vif_running int | cur_vif struct ieee80211_vif * | counter int 
+struct ieee80211_vif | dummy int 
+function wl12xx_vif_count_iter void | data void * | mac int * | vif struct ieee80211_vif *

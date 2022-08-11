@@ -1,0 +1,3 @@
+struct TYPE_4__ | read int * 
+struct TYPE_5__ | img_buffer_original_end int * | img_buffer_end int * | img_buffer_original int * | img_buffer int * | read_from_callbacks long | io struct TYPE_4__ 
+function stbi__start_mem void | s struct TYPE_5__ * | buffer const int * | len int

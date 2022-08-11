@@ -1,0 +1,2 @@
+struct TYPE_3__ | channels int | channel_order_tab int * | history int ** 
+function shift_history void | c struct TYPE_3__ * | input const int *

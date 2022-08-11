@@ -1,0 +1,2 @@
+struct gpmc_cs_data | name const char * 
+function gpmc_cs_get_name const char * | cs int

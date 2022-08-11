@@ -1,0 +1,4 @@
+struct TYPE_7__ | priv struct TYPE_5__ * 
+struct TYPE_6__ | dst struct TYPE_7__ * 
+struct TYPE_5__ | radiusV long | radiusH long | power int * 
+function avgblur_opencl_make_filter_params int | inlink struct TYPE_6__ *

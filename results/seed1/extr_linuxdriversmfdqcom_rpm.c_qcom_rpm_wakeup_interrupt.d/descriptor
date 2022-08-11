@@ -1,0 +1,1 @@
+function qcom_rpm_wakeup_interrupt int | irq int | dev void *

@@ -1,0 +1,2 @@
+struct cpts | dummy int 
+function cpts_rx_enable void | cpts struct cpts * | enable int

@@ -1,0 +1,2 @@
+struct regulator_dev | dummy int 
+function wm831x_gp_ldo_get_optimum_mode unsigned int | rdev struct regulator_dev * | input_uV int | output_uV int | load_uA int

@@ -1,0 +1,1 @@
+function qla2xxx_nvram_wwn_from_ofw void | vha int * | nv int *

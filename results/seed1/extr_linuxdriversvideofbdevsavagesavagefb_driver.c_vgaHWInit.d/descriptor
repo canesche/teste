@@ -1,0 +1,5 @@
+struct xtimings | sync int | HTotal int | HDisplay int | HSyncStart int | HSyncEnd int | VTotal int | VDisplay int | VSyncStart int | VSyncEnd int | dblscan long 
+struct savagefb_par | dummy int 
+struct savage_reg | MiscOutReg int | Sequencer int * | CRTC int * | Graphics int * | Attribute int * 
+struct fb_var_screeninfo | xres_virtual int 
+function vgaHWInit void | var struct fb_var_screeninfo * | par struct savagefb_par * | timings struct xtimings * | reg struct savage_reg *

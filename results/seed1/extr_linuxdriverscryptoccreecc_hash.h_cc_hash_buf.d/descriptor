@@ -1,0 +1,2 @@
+struct ahash_req_ctx | buff_index unsigned long | buffers int ** 
+function cc_hash_buf int * | state struct ahash_req_ctx *

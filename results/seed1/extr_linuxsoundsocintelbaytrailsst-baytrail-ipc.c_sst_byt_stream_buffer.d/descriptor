@@ -1,0 +1,7 @@
+struct TYPE_7__ | sfreq int | num_chan int | pcm_wd_sz int 
+struct TYPE_6__ | num_entries int | frag_size int | ring_buf_info struct TYPE_5__ * 
+struct TYPE_8__ | pcm_params struct TYPE_7__ | frame_info struct TYPE_6__ 
+struct sst_byt_stream | request struct TYPE_8__ 
+struct sst_byt | dummy int 
+struct TYPE_5__ | size void * | addr void * 
+function sst_byt_stream_buffer int | byt struct sst_byt * | stream struct sst_byt_stream * | buffer_addr void * | buffer_size void *

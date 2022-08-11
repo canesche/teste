@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags long | ptr int * | num long | init long 
+function sock_new int | bi struct TYPE_3__ *

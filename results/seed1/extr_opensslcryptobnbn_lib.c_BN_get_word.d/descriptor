@@ -1,0 +1,2 @@
+struct TYPE_3__ | top int | d int * 
+function BN_get_word int | a const struct TYPE_3__ *

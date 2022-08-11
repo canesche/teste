@@ -1,0 +1,3 @@
+struct dm_transaction_manager | bm struct dm_block_manager * 
+struct dm_block_manager | dummy int 
+function dm_tm_get_bm struct dm_block_manager * | tm struct dm_transaction_manager *

@@ -1,0 +1,4 @@
+struct tx_ring_info | max_burst int 
+struct niu | dev struct TYPE_2__ * 
+struct TYPE_2__ | mtu int 
+function niu_set_max_burst void | np struct niu * | rp struct tx_ring_info *

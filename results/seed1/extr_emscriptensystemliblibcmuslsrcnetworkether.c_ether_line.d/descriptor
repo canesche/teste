@@ -1,0 +1,2 @@
+struct ether_addr | dummy int 
+function ether_line int | l const char * | e struct ether_addr * | hostname char *

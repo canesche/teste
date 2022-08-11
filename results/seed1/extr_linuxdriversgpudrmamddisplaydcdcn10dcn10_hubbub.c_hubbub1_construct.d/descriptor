@@ -1,0 +1,6 @@
+struct hubbub | debug_test_index_pstate int | masks const struct dcn_hubbub_mask * | shifts const struct dcn_hubbub_shift * | regs const struct dcn_hubbub_registers * | funcs int * | ctx struct dc_context * 
+struct dcn_hubbub_shift | dummy int 
+struct dcn_hubbub_registers | dummy int 
+struct dcn_hubbub_mask | dummy int 
+struct dc_context | dummy int 
+function hubbub1_construct void | hubbub struct hubbub * | ctx struct dc_context * | hubbub_regs const struct dcn_hubbub_registers * | hubbub_shift const struct dcn_hubbub_shift * | hubbub_mask const struct dcn_hubbub_mask *

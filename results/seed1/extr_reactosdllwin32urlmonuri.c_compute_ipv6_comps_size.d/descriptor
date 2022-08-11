@@ -1,0 +1,2 @@
+struct TYPE_3__ | components_size int | h16_count int | elision_size int | elision long | ipv4 long 
+function compute_ipv6_comps_size void | address struct TYPE_3__ *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | switch_db_regs int | db int * | eff_db int * 
+struct kvm_vcpu | guest_debug int | arch struct TYPE_2__ 
+function kvm_update_dr0123 void | vcpu struct kvm_vcpu *

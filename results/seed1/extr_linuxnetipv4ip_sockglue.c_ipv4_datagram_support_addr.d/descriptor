@@ -1,0 +1,3 @@
+struct TYPE_2__ | ee_origin long 
+struct sock_exterr_skb | port long | ee struct TYPE_2__ 
+function ipv4_datagram_support_addr int | serr struct sock_exterr_skb *

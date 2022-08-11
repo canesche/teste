@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversinfinibandulpiseriscsi_iser.c_iscsi_iser_conn_get_stats.d/extr_linuxdriversinfinibandulpiseriscsi_iser.c_iscsi_iser_conn_get_stats_O0::iscsi_iser_conn_get_stats(64)"
+  }
+]

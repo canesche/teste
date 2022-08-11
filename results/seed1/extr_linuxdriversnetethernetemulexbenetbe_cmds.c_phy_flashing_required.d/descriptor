@@ -1,0 +1,3 @@
+struct TYPE_2__ | phy_type long | interface_type long 
+struct be_adapter | phy struct TYPE_2__ 
+function phy_flashing_required int | adapter struct be_adapter *

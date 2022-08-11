@@ -1,0 +1,3 @@
+struct omap_dss_device | dispc_channel_connected int 
+struct omap_drm_private | dummy int 
+function omap_crtc_dss_disconnect void | priv struct omap_drm_private * | channel enum omap_channel | dst struct omap_dss_device *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | frame struct TYPE_4__ * 
+struct TYPE_4__ | linesize int * 
+function seq_decode_op3 const unsigned char * | seq struct TYPE_5__ * | src const unsigned char * | src_end const unsigned char * | dst unsigned char *

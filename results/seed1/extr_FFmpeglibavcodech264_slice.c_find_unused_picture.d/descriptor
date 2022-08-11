@@ -1,0 +1,4 @@
+struct TYPE_7__ | DPB struct TYPE_6__ * 
+struct TYPE_6__ | f struct TYPE_5__ * 
+struct TYPE_5__ | buf int * 
+function find_unused_picture int | h struct TYPE_7__ *

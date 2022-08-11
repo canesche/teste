@@ -1,0 +1,3 @@
+struct vcpu | id long | next struct vcpu * 
+struct kvm_vm | vcpu_head struct vcpu * 
+function vcpu_find struct vcpu * | vm struct kvm_vm * | vcpuid long

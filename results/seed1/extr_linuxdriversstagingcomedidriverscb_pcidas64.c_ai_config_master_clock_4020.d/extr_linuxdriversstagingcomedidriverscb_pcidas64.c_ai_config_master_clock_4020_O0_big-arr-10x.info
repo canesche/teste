@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversstagingcomedidriverscb_pcidas64.c_ai_config_master_clock_4020.d/extr_linuxdriversstagingcomedidriverscb_pcidas64.c_ai_config_master_clock_4020_O0::ai_config_master_clock_4020(68)"
+  }
+]

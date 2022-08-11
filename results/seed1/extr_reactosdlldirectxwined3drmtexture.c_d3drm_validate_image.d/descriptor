@@ -1,0 +1,2 @@
+struct TYPE_3__ | palette_size long | palette long | rgb long | buffer1 int | blue_mask int | green_mask int | red_mask int 
+function d3drm_validate_image int | image struct TYPE_3__ *

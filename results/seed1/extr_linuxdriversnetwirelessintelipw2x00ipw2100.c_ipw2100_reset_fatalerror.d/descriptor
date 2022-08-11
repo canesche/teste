@@ -1,0 +1,2 @@
+struct ipw2100_priv | fatal_error long | fatal_index int | fatal_errors long * 
+function ipw2100_reset_fatalerror void | priv struct ipw2100_priv *

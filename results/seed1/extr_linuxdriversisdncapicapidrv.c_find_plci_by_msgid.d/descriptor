@@ -1,0 +1,3 @@
+struct TYPE_5__ | msgid long | next struct TYPE_5__ * 
+struct TYPE_6__ | plci_list struct TYPE_5__ * 
+function find_plci_by_msgid struct TYPE_5__ * | card struct TYPE_6__ * | msgid long

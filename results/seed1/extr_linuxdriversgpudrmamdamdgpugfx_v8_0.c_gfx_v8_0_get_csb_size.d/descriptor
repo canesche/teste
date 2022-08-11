@@ -1,0 +1,4 @@
+struct cs_section_def | id long | section struct cs_extent_def * 
+struct cs_extent_def | reg_count long | extent int * 
+struct amdgpu_device | dummy int 
+function gfx_v8_0_get_csb_size int | adev struct amdgpu_device *

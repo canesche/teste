@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_radare2librasmarchz80z80_tab.h_z80_fddd_branch_index_res.d/extr_radare2librasmarchz80z80_tab.h_z80_fddd_branch_index_res_O0::z80_fddd_branch_index_res(60)"
+  }
+]

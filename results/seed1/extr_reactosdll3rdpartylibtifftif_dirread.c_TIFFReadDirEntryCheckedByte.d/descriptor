@@ -1,0 +1,2 @@
+struct TYPE_3__ | tdir_offset int 
+function TIFFReadDirEntryCheckedByte void | tif int * | direntry struct TYPE_3__ * | value int *

@@ -1,0 +1,2 @@
+struct qib_ctxtdata | rcvhdrtail_kvaddr long 
+function qib_clear_rcvhdrtail void | rcd const struct qib_ctxtdata *

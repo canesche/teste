@@ -1,0 +1,4 @@
+struct TYPE_4__ | ns struct TYPE_3__ * | eof long 
+struct tomoyo_io_buffer | type long | r struct TYPE_4__ 
+struct TYPE_3__ | next int * 
+function tomoyo_has_more_namespace int | head struct tomoyo_io_buffer *

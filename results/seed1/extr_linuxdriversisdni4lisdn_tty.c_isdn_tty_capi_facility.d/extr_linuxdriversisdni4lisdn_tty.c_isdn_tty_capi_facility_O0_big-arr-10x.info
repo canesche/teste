@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversisdni4lisdn_tty.c_isdn_tty_capi_facility.d/extr_linuxdriversisdni4lisdn_tty.c_isdn_tty_capi_facility_O0::isdn_tty_capi_facility(61)"
+  }
+]

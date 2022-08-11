@@ -1,0 +1,4 @@
+struct TYPE_2__ | step_width int | step_height int | max_height int | max_width int | min_height int | min_width int 
+struct v4l2_frmsizeenum | index long | stepwise struct TYPE_2__ | type int 
+struct file | dummy int 
+function viacam_enum_framesizes int | filp struct file * | priv void * | sizes struct v4l2_frmsizeenum *

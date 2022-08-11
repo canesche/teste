@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxkernelscheddeadline.c___dl_clear_params.d/extr_linuxkernelscheddeadline.c___dl_clear_params_O0::__dl_clear_params(62)"
+  }
+]

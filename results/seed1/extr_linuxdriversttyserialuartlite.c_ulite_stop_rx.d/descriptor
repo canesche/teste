@@ -1,0 +1,2 @@
+struct uart_port | ignore_status_mask int 
+function ulite_stop_rx void | port struct uart_port *

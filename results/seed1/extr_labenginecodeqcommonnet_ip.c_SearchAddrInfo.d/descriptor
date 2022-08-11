@@ -1,0 +1,2 @@
+struct addrinfo | ai_family long | ai_next struct addrinfo * 
+function SearchAddrInfo struct addrinfo * | hints struct addrinfo * | family long

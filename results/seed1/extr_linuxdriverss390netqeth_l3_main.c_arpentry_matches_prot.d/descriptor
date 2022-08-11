@@ -1,0 +1,2 @@
+struct qeth_arp_entrytype | ip long 
+function arpentry_matches_prot int | type struct qeth_arp_entrytype * | prot long

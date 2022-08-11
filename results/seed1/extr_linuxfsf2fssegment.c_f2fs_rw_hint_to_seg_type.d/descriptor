@@ -1,0 +1,1 @@
+function f2fs_rw_hint_to_seg_type int | hint enum rw_hint

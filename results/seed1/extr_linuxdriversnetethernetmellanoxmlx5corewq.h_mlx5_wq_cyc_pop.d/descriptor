@@ -1,0 +1,2 @@
+struct mlx5_wq_cyc | cur_sz int 
+function mlx5_wq_cyc_pop void | wq struct mlx5_wq_cyc *

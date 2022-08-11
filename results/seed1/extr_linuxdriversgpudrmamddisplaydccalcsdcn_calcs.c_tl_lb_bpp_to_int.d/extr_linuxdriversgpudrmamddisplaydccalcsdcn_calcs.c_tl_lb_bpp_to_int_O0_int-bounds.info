@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmamddisplaydccalcsdcn_calcs.c_tl_lb_bpp_to_int.d/extr_linuxdriversgpudrmamddisplaydccalcsdcn_calcs.c_tl_lb_bpp_to_int_O0::tl_lb_bpp_to_int(63)"
+  }
+]

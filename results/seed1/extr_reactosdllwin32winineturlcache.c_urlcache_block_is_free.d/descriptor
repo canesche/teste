@@ -1,0 +1,1 @@
+function urlcache_block_is_free int | allocation_table int * | block_number int

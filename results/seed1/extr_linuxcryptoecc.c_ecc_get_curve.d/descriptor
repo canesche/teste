@@ -1,0 +1,2 @@
+struct ecc_curve | dummy int 
+function ecc_get_curve const struct ecc_curve * | curve_id unsigned int

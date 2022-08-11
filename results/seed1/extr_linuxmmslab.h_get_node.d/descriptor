@@ -1,0 +1,3 @@
+struct kmem_cache_node | dummy int 
+struct kmem_cache | node struct kmem_cache_node ** 
+function get_node struct kmem_cache_node * | s struct kmem_cache * | node int

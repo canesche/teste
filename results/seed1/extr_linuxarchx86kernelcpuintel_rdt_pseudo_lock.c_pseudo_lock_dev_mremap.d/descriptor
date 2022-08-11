@@ -1,0 +1,2 @@
+struct vm_area_struct | dummy int 
+function pseudo_lock_dev_mremap int | area struct vm_area_struct *

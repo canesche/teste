@@ -1,0 +1,2 @@
+struct mdp5_encoder | dummy int 
+function bs_init void | mdp5_encoder struct mdp5_encoder *

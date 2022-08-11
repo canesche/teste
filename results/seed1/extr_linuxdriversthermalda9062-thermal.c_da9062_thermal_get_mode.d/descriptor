@@ -1,0 +1,3 @@
+struct thermal_zone_device | devdata struct da9062_thermal * 
+struct da9062_thermal | mode int 
+function da9062_thermal_get_mode int | z struct thermal_zone_device * | mode enum thermal_device_mode *

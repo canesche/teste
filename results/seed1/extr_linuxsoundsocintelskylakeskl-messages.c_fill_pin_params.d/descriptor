@@ -1,0 +1,3 @@
+struct skl_module_fmt | interleaving_style int | ch_map int | sample_type int | ch_cfg int | valid_bit_depth int | bit_depth int | s_freq int | channels int 
+struct skl_audio_data_format | interleaving int | channel_map int | sample_type int | ch_cfg int | valid_bit_depth int | bit_depth int | s_freq int | number_of_channels int 
+function fill_pin_params void | pin_fmt struct skl_audio_data_format * | format struct skl_module_fmt *

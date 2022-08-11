@@ -1,0 +1,3 @@
+struct TYPE_2__ | d0 int 
+struct vring_tx_desc | dma struct TYPE_2__ 
+function wil_set_tx_desc_last_tso void | d volatile struct vring_tx_desc *

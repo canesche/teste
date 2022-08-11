@@ -1,0 +1,2 @@
+struct adapter | dummy int 
+function rtw_access_ctrl int | padapter struct adapter * | mac_addr int *

@@ -1,0 +1,2 @@
+struct clkdm_ops | dummy int 
+function clkdm_register_platform_funcs int | co struct clkdm_ops *

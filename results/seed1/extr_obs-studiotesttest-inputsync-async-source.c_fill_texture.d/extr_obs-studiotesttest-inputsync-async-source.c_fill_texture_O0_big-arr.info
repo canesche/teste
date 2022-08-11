@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 4609,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_obs-studiotesttest-inputsync-async-source.c_fill_texture.d/extr_obs-studiotesttest-inputsync-async-source.c_fill_texture_O0::fill_texture(61)"
+  }
+]

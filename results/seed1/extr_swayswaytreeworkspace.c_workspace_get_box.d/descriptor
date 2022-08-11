@@ -1,0 +1,3 @@
+struct wlr_box | height int | width int | y int | x int 
+struct sway_workspace | height int | width int | y int | x int 
+function workspace_get_box void | workspace struct sway_workspace * | box struct wlr_box *

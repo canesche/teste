@@ -1,0 +1,3 @@
+struct inode_security_struct | dummy int 
+struct inode | i_security struct inode_security_struct * 
+function inode_security_novalidate struct inode_security_struct * | inode struct inode *

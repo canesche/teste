@@ -1,0 +1,2 @@
+struct pt_regs_offset | name const char * | offset unsigned int 
+function regs_query_register_name const char * | offset unsigned int

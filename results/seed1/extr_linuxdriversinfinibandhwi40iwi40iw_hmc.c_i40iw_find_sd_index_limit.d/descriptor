@@ -1,0 +1,3 @@
+struct i40iw_hmc_info | hmc_obj struct TYPE_2__ * 
+struct TYPE_2__ | base unsigned long | size unsigned long 
+function i40iw_find_sd_index_limit void | hmc_info struct i40iw_hmc_info * | type unsigned long | idx unsigned long | cnt unsigned long | sd_idx unsigned long * | sd_limit unsigned long *

@@ -1,0 +1,2 @@
+struct amdgpu_device | dummy int 
+function dce_virtual_hpd_sense int | adev struct amdgpu_device * | hpd enum amdgpu_hpd_id

@@ -1,0 +1,2 @@
+struct ssb_bus | dummy int 
+function ssb_sdio_scan_switch_coreidx int | bus struct ssb_bus * | coreidx int

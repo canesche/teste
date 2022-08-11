@@ -1,0 +1,3 @@
+struct link_config | supported int | requested_fc int | fc int | advertising int | autoneg int | duplex int | requested_duplex int | speed int | requested_speed int 
+struct board_info | caps int 
+function init_link_config void | lc struct link_config * | bi const struct board_info *

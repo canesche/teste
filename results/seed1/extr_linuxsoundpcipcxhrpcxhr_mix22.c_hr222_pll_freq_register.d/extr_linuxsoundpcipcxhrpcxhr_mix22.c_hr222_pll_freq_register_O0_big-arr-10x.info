@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxsoundpcipcxhrpcxhr_mix22.c_hr222_pll_freq_register.d/extr_linuxsoundpcipcxhrpcxhr_mix22.c_hr222_pll_freq_register_O0::hr222_pll_freq_register(63)"
+  }
+]

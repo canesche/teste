@@ -1,0 +1,3 @@
+struct page | dummy int 
+struct linux_binprm | dummy int 
+function flush_arg_page void | bprm struct linux_binprm * | pos unsigned long | page struct page *

@@ -1,0 +1,3 @@
+struct wined3d_state | dummy int 
+struct wined3d_context | constant_update_mask int 
+function glsl_vertex_pipe_world void | context struct wined3d_context * | state const struct wined3d_state * | state_id int

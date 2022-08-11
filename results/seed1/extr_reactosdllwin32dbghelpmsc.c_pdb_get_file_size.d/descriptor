@@ -1,0 +1,8 @@
+struct TYPE_11__ | toc struct TYPE_10__ * 
+struct TYPE_9__ | toc struct TYPE_8__ * 
+struct TYPE_12__ | ds struct TYPE_11__ | jg struct TYPE_9__ 
+struct pdb_file_info | kind int | u struct TYPE_12__ 
+struct TYPE_10__ | file_size int * 
+struct TYPE_8__ | file struct TYPE_7__ * 
+struct TYPE_7__ | size int 
+function pdb_get_file_size unsigned int | pdb_file const struct pdb_file_info * | file_nr unsigned long

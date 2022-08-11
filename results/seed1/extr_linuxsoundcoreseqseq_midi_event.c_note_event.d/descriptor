@@ -1,0 +1,5 @@
+struct TYPE_4__ | channel int | note int | velocity int 
+struct TYPE_3__ | note struct TYPE_4__ 
+struct snd_seq_event | data struct TYPE_3__ 
+struct snd_midi_event | buf int * 
+function note_event void | dev struct snd_midi_event * | ev struct snd_seq_event *

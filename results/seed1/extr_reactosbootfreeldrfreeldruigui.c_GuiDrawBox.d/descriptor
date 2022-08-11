@@ -1,0 +1,1 @@
+function GuiDrawBox int | Left int | Top int | Right int | Bottom int | VertStyle int | HorzStyle int | Fill int | Shadow int | Attr int

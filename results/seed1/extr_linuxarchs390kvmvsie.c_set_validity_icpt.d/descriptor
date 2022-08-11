@@ -1,0 +1,2 @@
+struct kvm_s390_sie_block | ipa int | ipb int | icptcode int 
+function set_validity_icpt int | scb struct kvm_s390_sie_block * | reason_code long

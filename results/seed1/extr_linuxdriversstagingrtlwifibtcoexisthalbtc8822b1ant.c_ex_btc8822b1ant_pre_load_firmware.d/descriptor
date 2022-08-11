@@ -1,0 +1,2 @@
+struct btc_coexist | dummy int 
+function ex_btc8822b1ant_pre_load_firmware void | btcoexist struct btc_coexist *

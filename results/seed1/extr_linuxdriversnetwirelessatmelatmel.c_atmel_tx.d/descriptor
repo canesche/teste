@@ -1,0 +1,4 @@
+struct tx_desc | dummy int 
+struct TYPE_2__ | tx_desc_pos int 
+struct atmel_private | host_info struct TYPE_2__ 
+function atmel_tx int | priv struct atmel_private * | offset int | desc int

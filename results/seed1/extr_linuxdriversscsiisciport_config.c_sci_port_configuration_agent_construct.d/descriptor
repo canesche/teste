@@ -1,0 +1,3 @@
+struct sci_port_configuration_agent | phy_configured_mask int | phy_ready_mask int | timer_pending int | phy_valid_port_range struct TYPE_2__ * | link_down_handler int * | link_up_handler int * 
+struct TYPE_2__ | max_index long | min_index long 
+function sci_port_configuration_agent_construct void | port_agent struct sci_port_configuration_agent *

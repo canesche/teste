@@ -1,0 +1,8 @@
+struct ipr_res_addr | bus long | target int 
+struct TYPE_7__ | fd_res_addr struct ipr_res_addr 
+struct TYPE_6__ | fd_res_path int * 
+struct TYPE_8__ | error struct TYPE_7__ | error64 struct TYPE_6__ 
+struct TYPE_9__ | u struct TYPE_8__ 
+struct ipr_hostrcb | hcam struct TYPE_9__ | ioa_cfg struct TYPE_10__ * 
+struct TYPE_10__ | sis64 long 
+function ipr_is_device int | hostrcb struct ipr_hostrcb *

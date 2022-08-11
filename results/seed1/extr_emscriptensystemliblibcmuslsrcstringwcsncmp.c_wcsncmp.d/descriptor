@@ -1,0 +1,1 @@
+function wcsncmp int | l const long * | r const long * | n unsigned long

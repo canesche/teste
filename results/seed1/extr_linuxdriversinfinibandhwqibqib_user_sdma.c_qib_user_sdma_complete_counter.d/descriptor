@@ -1,0 +1,2 @@
+struct qib_user_sdma_queue | sent_counter int 
+function qib_user_sdma_complete_counter int | pq const struct qib_user_sdma_queue *

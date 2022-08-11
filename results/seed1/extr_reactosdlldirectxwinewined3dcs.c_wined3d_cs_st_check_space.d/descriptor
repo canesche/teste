@@ -1,0 +1,2 @@
+struct wined3d_cs | dummy int 
+function wined3d_cs_st_check_space int | cs struct wined3d_cs * | size unsigned long | queue_id enum wined3d_cs_queue_id

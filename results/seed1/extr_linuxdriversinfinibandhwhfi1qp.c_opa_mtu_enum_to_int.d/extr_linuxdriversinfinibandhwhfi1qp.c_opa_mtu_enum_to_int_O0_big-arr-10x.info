@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversinfinibandhwhfi1qp.c_opa_mtu_enum_to_int.d/extr_linuxdriversinfinibandhwhfi1qp.c_opa_mtu_enum_to_int_O0::opa_mtu_enum_to_int(62)"
+  }
+]

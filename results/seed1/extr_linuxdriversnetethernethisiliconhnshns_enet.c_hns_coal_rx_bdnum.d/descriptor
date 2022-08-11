@@ -1,0 +1,4 @@
+struct hnae_ring | coal_last_rx_bytes long | q struct TYPE_4__ * 
+struct TYPE_4__ | handle struct TYPE_3__ * 
+struct TYPE_3__ | coal_adapt_en int 
+function hns_coal_rx_bdnum int | ring struct hnae_ring *

@@ -1,0 +1,3 @@
+struct tsb | dummy int 
+struct tcw | tsb long 
+function tcw_set_tsb void | tcw struct tcw * | tsb struct tsb *

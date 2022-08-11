@@ -1,0 +1,4 @@
+struct drm_encoder | dummy int 
+struct TYPE_2__ | base struct drm_encoder 
+struct nouveau_encoder | base struct TYPE_2__ 
+function to_drm_encoder struct drm_encoder * | enc struct nouveau_encoder *

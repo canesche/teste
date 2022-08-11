@@ -1,0 +1,2 @@
+struct WriteThis | freecount int 
+function free_callback void | userp void *

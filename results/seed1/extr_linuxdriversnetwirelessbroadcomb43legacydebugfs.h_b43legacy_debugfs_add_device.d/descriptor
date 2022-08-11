@@ -1,0 +1,2 @@
+struct b43legacy_wldev | dummy int 
+function b43legacy_debugfs_add_device void | dev struct b43legacy_wldev *

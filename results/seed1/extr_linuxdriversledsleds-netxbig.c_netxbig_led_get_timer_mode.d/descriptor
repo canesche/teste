@@ -1,0 +1,2 @@
+struct netxbig_led_timer | delay_on unsigned long | delay_off unsigned long | mode int 
+function netxbig_led_get_timer_mode int | mode enum netxbig_led_mode * | delay_on unsigned long | delay_off unsigned long | timer struct netxbig_led_timer * | num_timer int

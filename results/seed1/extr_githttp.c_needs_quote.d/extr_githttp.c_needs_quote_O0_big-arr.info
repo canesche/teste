@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_githttp.c_needs_quote.d/extr_githttp.c_needs_quote_O0::needs_quote(60)"
+  }
+]

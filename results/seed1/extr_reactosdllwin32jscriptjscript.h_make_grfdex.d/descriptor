@@ -1,0 +1,2 @@
+struct TYPE_3__ | version int 
+function make_grfdex int | ctx struct TYPE_3__ * | flags int

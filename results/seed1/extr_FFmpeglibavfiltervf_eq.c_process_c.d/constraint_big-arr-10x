@@ -1,0 +1,1 @@
+value(dst_stride) == 10, value(src_stride) == 10, value(w) == 10, value(h) == 10, length(dst) == 100, length(src) == 100, length(param) == 100

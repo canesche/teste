@@ -1,0 +1,4 @@
+struct TYPE_5__ | pthreadCondT_ long 
+struct TYPE_6__ | org_xmlvm_runtime_Condition struct TYPE_5__ 
+struct TYPE_7__ | fields struct TYPE_6__ 
+function getConditionPtr int * | me struct TYPE_7__ *

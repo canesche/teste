@@ -1,0 +1,5 @@
+struct nv50_wndw_atom | dummy int 
+struct nv50_wndw | dummy int 
+struct TYPE_2__ | cpp long 
+struct nv50_head_atom | base struct TYPE_2__ 
+function base507c_release void | wndw struct nv50_wndw * | asyw struct nv50_wndw_atom * | asyh struct nv50_head_atom *

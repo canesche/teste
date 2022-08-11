@@ -1,0 +1,4 @@
+struct TYPE_2__ | capability int 
+struct ieee80211_device | current_network struct TYPE_2__ 
+struct cb_desc | bUseShortPreamble int | data_rate int 
+function ieee80211_qurey_ShortPreambleMode void | ieee struct ieee80211_device * | tcb_desc struct cb_desc *

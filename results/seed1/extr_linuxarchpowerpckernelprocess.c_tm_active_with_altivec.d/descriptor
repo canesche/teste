@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function tm_active_with_altivec int | tsk struct task_struct *

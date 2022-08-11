@@ -1,0 +1,2 @@
+struct dsa_port | type long 
+function dsa_port_is_cpu int | port struct dsa_port *

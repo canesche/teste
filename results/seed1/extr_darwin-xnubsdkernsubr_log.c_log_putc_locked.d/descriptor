@@ -1,0 +1,2 @@
+struct msgbuf | msg_bufc char * | msg_bufx long | msg_size long 
+function log_putc_locked void | mbp struct msgbuf * | c char

@@ -1,0 +1,2 @@
+struct bnx2 | req_flow_ctrl int | phy_flags int 
+function bnx2_phy_get_pause_adv int | bp struct bnx2 *

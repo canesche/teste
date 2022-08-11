@@ -1,0 +1,3 @@
+struct _Locale_name_hint | dummy int 
+struct _Locale_ctype | dummy int 
+function _Locale_get_ctype_hint struct _Locale_name_hint * | ctype struct _Locale_ctype *

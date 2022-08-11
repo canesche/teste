@@ -1,0 +1,4 @@
+struct TYPE_7__ | entries struct TYPE_6__ * 
+struct TYPE_5__ | ptd int * 
+struct TYPE_6__ | fmtetc struct TYPE_5__ 
+function td_get_offs int | data struct TYPE_7__ * | idx unsigned long

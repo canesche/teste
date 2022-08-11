@@ -1,0 +1,2 @@
+struct TYPE_2__ | m_iMaxChildren int 
+function LSAPI_Set_Max_Children void | maxChildren int

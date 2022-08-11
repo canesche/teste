@@ -1,0 +1,4 @@
+struct rt2x00_dev | atim struct data_queue * | tx struct data_queue * | ops struct TYPE_2__ * 
+struct data_queue | dummy int 
+struct TYPE_2__ | tx_queues const int 
+function rt2x00queue_get_tx_queue struct data_queue * | rt2x00dev struct rt2x00_dev * | queue const enum data_queue_qid

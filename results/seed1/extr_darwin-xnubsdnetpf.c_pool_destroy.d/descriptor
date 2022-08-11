@@ -1,0 +1,2 @@
+struct pool | dummy int 
+function pool_destroy void | pp struct pool *

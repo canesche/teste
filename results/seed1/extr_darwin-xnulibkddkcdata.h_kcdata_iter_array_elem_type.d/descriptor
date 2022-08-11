@@ -1,0 +1,3 @@
+struct TYPE_5__ | item struct TYPE_4__ * 
+struct TYPE_4__ | flags int 
+function kcdata_iter_array_elem_type int | iter struct TYPE_5__

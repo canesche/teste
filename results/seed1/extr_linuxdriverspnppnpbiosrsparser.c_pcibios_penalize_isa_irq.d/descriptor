@@ -1,0 +1,1 @@
+function pcibios_penalize_isa_irq void | irq int | active int

@@ -1,0 +1,2 @@
+struct ufs_hba | caps int 
+function ufshcd_keep_autobkops_enabled_except_suspend int | hba struct ufs_hba *

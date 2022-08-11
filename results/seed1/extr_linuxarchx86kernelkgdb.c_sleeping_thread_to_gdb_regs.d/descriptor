@@ -1,0 +1,4 @@
+struct TYPE_2__ | sp unsigned long 
+struct task_struct | thread struct TYPE_2__ 
+struct inactive_task_frame | bp unsigned long 
+function sleeping_thread_to_gdb_regs void | gdb_regs unsigned long * | p struct task_struct *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | coeffs float ** | num_windows int | num_bands int | band_start int * | ms_info long * 
+function on2avc_apply_ms int | c struct TYPE_3__ *

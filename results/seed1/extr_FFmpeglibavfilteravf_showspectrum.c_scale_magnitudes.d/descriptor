@@ -1,0 +1,2 @@
+struct TYPE_3__ | orientation long | h int | w int | nb_display_channels int | magnitudes float ** 
+function scale_magnitudes void | s struct TYPE_3__ * | scale float

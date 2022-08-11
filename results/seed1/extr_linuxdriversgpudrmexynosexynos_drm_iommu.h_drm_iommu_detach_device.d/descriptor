@@ -1,0 +1,3 @@
+struct drm_device | dummy int 
+struct device | dummy int 
+function drm_iommu_detach_device void | drm_dev struct drm_device * | subdrv_dev struct device *

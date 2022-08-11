@@ -1,0 +1,2 @@
+struct cifs_sb_info | mnt_cifs_flags int 
+function CIFS_DIR_SEP char | cifs_sb const struct cifs_sb_info *

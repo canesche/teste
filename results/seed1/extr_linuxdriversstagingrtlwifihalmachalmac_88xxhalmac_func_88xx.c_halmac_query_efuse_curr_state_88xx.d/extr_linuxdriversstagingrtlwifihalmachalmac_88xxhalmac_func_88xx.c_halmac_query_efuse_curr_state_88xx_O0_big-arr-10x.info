@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversstagingrtlwifihalmachalmac_88xxhalmac_func_88xx.c_halmac_query_efuse_curr_state_88xx.d/extr_linuxdriversstagingrtlwifihalmachalmac_88xxhalmac_func_88xx.c_halmac_query_efuse_curr_state_88xx_O0::halmac_query_efuse_curr_state_88xx(67)"
+  }
+]

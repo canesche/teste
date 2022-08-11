@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmradeonrv770_dpm.c_rv770_calculate_fractional_mpll_feedback_divider.d/extr_linuxdriversgpudrmradeonrv770_dpm.c_rv770_calculate_fractional_mpll_feedback_divider_O0::rv770_calculate_fractional_mpll_feedback_divider(67)"
+  }
+]

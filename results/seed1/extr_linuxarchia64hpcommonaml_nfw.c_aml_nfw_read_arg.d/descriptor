@@ -1,0 +1,1 @@
+function aml_nfw_read_arg void | offset int * | bit_width int | value int *

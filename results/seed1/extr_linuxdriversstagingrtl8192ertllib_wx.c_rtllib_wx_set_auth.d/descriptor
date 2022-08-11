@@ -1,0 +1,4 @@
+struct rtllib_device | tkip_countermeasures int | drop_unencrypted int | open_wep int | auth_mode int | wpa_enabled int | ieee802_1x int | privacy_invoked int 
+struct iw_request_info | dummy int 
+struct iw_param | flags int | value int 
+function rtllib_wx_set_auth int | ieee struct rtllib_device * | info struct iw_request_info * | data struct iw_param * | extra char *

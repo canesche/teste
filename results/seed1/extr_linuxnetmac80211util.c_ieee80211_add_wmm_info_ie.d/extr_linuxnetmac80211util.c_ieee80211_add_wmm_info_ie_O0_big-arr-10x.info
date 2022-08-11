@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 54,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 54,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxnetmac80211util.c_ieee80211_add_wmm_info_ie.d/extr_linuxnetmac80211util.c_ieee80211_add_wmm_info_ie_O0::ieee80211_add_wmm_info_ie(62)"
+  }
+]

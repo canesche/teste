@@ -1,0 +1,4 @@
+struct st_h2o_evloop_socket_t | _next_statechanged struct st_h2o_evloop_socket_t * | loop struct TYPE_4__ * 
+struct TYPE_3__ | tail_ref struct st_h2o_evloop_socket_t ** 
+struct TYPE_4__ | _statechanged struct TYPE_3__ 
+function link_to_statechanged void | sock struct st_h2o_evloop_socket_t *

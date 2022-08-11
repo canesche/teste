@@ -1,0 +1,3 @@
+struct rsnd_kctrl_cfg | val int 
+struct rsnd_kctrl_cfg_m | cfg struct rsnd_kctrl_cfg | val int 
+function rsnd_kctrl_init_m struct rsnd_kctrl_cfg * | cfg struct rsnd_kctrl_cfg_m *

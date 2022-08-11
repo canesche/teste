@@ -1,0 +1,2 @@
+struct mcs_group | duration int * 
+function minstrel_get_duration int | index int

@@ -1,0 +1,2 @@
+struct dwc2_hsotg | dummy int 
+function dwc2_backup_device_registers int | hsotg struct dwc2_hsotg *

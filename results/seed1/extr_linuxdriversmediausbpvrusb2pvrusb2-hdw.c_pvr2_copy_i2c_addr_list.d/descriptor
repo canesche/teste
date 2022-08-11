@@ -1,0 +1,1 @@
+function pvr2_copy_i2c_addr_list unsigned int | dst unsigned short * | src const unsigned char * | dst_max unsigned int

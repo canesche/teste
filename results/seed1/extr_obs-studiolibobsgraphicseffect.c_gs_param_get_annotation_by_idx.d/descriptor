@@ -1,0 +1,3 @@
+struct TYPE_2__ | num unsigned long | array struct gs_effect_param * 
+struct gs_effect_param | annotations struct TYPE_2__ 
+function gs_param_get_annotation_by_idx struct gs_effect_param * | param const struct gs_effect_param * | annotation unsigned long

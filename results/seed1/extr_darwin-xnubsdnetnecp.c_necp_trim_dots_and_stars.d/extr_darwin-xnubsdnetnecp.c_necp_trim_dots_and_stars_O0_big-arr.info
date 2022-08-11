@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 15,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 23,
+    static: {
+      instructions: 64,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 64,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_darwin-xnubsdnetnecp.c_necp_trim_dots_and_stars.d/extr_darwin-xnubsdnetnecp.c_necp_trim_dots_and_stars_O0::necp_trim_dots_and_stars(62)"
+  }
+]

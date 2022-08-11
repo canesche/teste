@@ -1,0 +1,8 @@
+struct statistics_tx | dummy int 
+struct statistics_rx_phy | dummy int 
+struct statistics_rx_non_phy | dummy int 
+struct statistics_rx_ht_phy | dummy int 
+struct statistics_general_common | dummy int 
+struct statistics_bt_activity | dummy int 
+struct iwl_priv | dummy int 
+function iwlagn_accumulative_statistics void | priv struct iwl_priv * | common struct statistics_general_common * | rx_non_phy struct statistics_rx_non_phy * | rx_ofdm struct statistics_rx_phy * | rx_ofdm_ht struct statistics_rx_ht_phy * | rx_cck struct statistics_rx_phy * | tx struct statistics_tx * | bt_activity struct statistics_bt_activity *

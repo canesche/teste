@@ -1,0 +1,2 @@
+struct es1968 | apu int * 
+function snd_es1968_free_apu_pair void | chip struct es1968 * | apu int

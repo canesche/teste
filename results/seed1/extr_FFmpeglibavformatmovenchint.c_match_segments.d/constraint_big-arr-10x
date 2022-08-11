@@ -1,0 +1,1 @@
+value(h_len) == 10, value(n_pos) == 10, value(n_len) == 10, length(haystack) == 100, length(needle) == 100, length(match_h_offset_ptr) == 100, length(match_n_offset_ptr) == 100, length(match_len_ptr) == 100

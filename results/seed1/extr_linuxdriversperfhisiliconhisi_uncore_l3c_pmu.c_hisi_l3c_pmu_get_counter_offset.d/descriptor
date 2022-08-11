@@ -1,0 +1,1 @@
+function hisi_l3c_pmu_get_counter_offset long | cntr_idx int

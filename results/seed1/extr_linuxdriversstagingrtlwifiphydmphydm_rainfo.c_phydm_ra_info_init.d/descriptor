@@ -1,0 +1,3 @@
+struct ra_table | RA_offset_direction long | RA_threshold_offset long | highest_client_tx_order long | highest_client_tx_rate_order long 
+struct phy_dm_struct | dm_ra_table struct ra_table 
+function phydm_ra_info_init void | dm_void void *

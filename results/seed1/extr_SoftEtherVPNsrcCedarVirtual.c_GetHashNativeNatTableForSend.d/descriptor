@@ -1,0 +1,2 @@
+struct TYPE_2__ | HashCodeForSend long | Protocol long | SrcIp long | SrcPort long | DestIp long | DestPort long 
+function GetHashNativeNatTableForSend long | p void *

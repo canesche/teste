@@ -1,0 +1,2 @@
+struct TYPE_3__ | fds int * | fds_types int * | failed long | opened long | fds_names int ** 
+function listen_sockets_init void | sockets struct TYPE_3__ *

@@ -1,0 +1,1 @@
+function noop_wakeup_secondary_cpu int | apicid int | start_eip unsigned long

@@ -1,0 +1,7 @@
+struct stats_msg_block | tx_pause long | tx_trunc long | tx_underrun long | tx_late_col long | tx_2_col long | tx_1_col long | tx_defer long | tx_abort_col long | rx_sz_ov long | rx_rrd_ov long | rx_pause long | rx_align_err long | rx_fcs_err long | rx_len_err long | rx_rxf_ov long | rx_mcast long | tx_byte_cnt long | rx_byte_cnt long | tx_ok long | rx_ok long | rx_frag long 
+struct TYPE_6__ | tx_packets int | rx_packets int | tx_carrier_errors int | tx_window_errors int | tx_aborted_errors int | tx_fifo_errors int | tx_errors int | rx_dropped int | rx_fifo_errors int | rx_frame_errors int | rx_crc_errors int | rx_length_errors int | rx_errors int | collisions int | multicast int | tx_bytes int | rx_bytes int 
+struct net_device | stats struct TYPE_6__ 
+struct TYPE_5__ | tx_packets int | rx_packets int | tx_carrier_errors int | tx_window_errors int | tx_aborted_errors int | tx_fifo_errors int | tx_errors int | rx_rrd_ov int | rx_fifo_errors int | rx_frame_errors int | rx_crc_errors int | rx_length_errors int | rx_errors int | collisions int | multicast int | tx_bytes int | rx_bytes int | tx_pause int | tx_trunc int | tx_underun int | latecol int | mcc int | scc int | deffer int | excecol int | rx_trunc int | rx_pause int 
+struct TYPE_4__ | smb struct stats_msg_block * 
+struct atl1_adapter | soft_stats struct TYPE_5__ | smb struct TYPE_4__ | netdev struct net_device * 
+function atl1_inc_smb void | adapter struct atl1_adapter *

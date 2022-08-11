@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 6,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 237,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_labq3map2q3map2visflow.c_CountBits.d/extr_labq3map2q3map2visflow.c_CountBits_O0::CountBits(60)"
+  }
+]

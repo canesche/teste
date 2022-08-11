@@ -1,0 +1,3 @@
+struct qstr | len int | name char * 
+struct object_info | name_len int | name char * 
+function adfs_match int | name const struct qstr * | obj struct object_info *

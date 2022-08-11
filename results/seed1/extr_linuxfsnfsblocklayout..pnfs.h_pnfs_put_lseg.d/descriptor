@@ -1,0 +1,2 @@
+struct pnfs_layout_segment | dummy int 
+function pnfs_put_lseg void | lseg struct pnfs_layout_segment *

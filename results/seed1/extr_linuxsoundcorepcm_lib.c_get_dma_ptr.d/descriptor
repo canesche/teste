@@ -1,0 +1,2 @@
+struct snd_pcm_runtime | dma_area void * | dma_bytes int | channels int 
+function get_dma_ptr void * | runtime struct snd_pcm_runtime * | channel int | hwoff unsigned long

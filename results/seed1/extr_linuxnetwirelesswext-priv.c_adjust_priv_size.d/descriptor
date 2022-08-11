@@ -1,0 +1,2 @@
+struct iw_point | length int 
+function adjust_priv_size int | args int | iwp struct iw_point *

@@ -1,0 +1,4 @@
+struct pinctrl_dev | desc struct TYPE_4__ * 
+struct TYPE_4__ | pins struct TYPE_3__ * 
+struct TYPE_3__ | number unsigned int 
+function tegra_xusb_padctl_get_group_pins int | pinctrl struct pinctrl_dev * | group unsigned int | pins const unsigned int ** | num_pins unsigned int *

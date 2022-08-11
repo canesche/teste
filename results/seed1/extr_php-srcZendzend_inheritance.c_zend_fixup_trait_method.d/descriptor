@@ -1,0 +1,5 @@
+struct TYPE_7__ | static_variables long 
+struct TYPE_8__ | fn_flags int | scope struct TYPE_10__ * 
+struct TYPE_9__ | type long | op_array struct TYPE_7__ | common struct TYPE_8__ 
+struct TYPE_10__ | ce_flags int 
+function zend_fixup_trait_method void | fn struct TYPE_9__ * | ce struct TYPE_10__ *

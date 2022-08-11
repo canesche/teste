@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetfreescalefec_main.c_fec_enet_get_prevdesc.d/extr_linuxdriversnetethernetfreescalefec_main.c_fec_enet_get_prevdesc_O0::fec_enet_get_prevdesc(63)"
+  }
+]

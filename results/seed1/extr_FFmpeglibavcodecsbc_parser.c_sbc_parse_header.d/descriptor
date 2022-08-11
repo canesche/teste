@@ -1,0 +1,3 @@
+struct TYPE_6__ | channels int | sample_rate int | frame_size int | sample_fmt void * 
+struct TYPE_5__ | duration int 
+function sbc_parse_header int | s struct TYPE_5__ * | avctx struct TYPE_6__ * | data const int * | len unsigned long

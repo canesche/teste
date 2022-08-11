@@ -1,0 +1,5 @@
+struct TYPE_5__ | iac1 int | iac2 int | dac1 int | dac2 int | dbcr0 int | dbcr1 int | dbcr2 int 
+struct TYPE_6__ | ivpr int | epr int | csrr0 int | csrr1 int | dsrr0 int | dsrr1 int | dbsr int | tsr int | tcr int | ivor int * | mcsr int | dbg_reg struct TYPE_5__ | shared struct TYPE_4__ * 
+struct kvm_vcpu | arch struct TYPE_6__ | guest_debug int 
+struct TYPE_4__ | dar int | esr int 
+function kvmppc_booke_emulate_mfspr int | vcpu struct kvm_vcpu * | sprn int | spr_val int *

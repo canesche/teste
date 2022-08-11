@@ -1,0 +1,2 @@
+struct gru_control_block_extended | dummy int 
+function get_cbe struct gru_control_block_extended * | base void * | ctxnum int

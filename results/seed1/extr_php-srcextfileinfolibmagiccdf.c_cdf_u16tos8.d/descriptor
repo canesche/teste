@@ -1,0 +1,1 @@
+function cdf_u16tos8 char * | buf char * | len unsigned long | p const long *

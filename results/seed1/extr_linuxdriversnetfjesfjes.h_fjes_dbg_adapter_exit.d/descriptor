@@ -1,0 +1,2 @@
+struct fjes_adapter | dummy int 
+function fjes_dbg_adapter_exit void | adapter struct fjes_adapter *

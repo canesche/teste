@@ -1,0 +1,2 @@
+struct bson | ptr int * 
+function write_length void | b struct bson * | v int | off int

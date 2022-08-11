@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxsecurityselinuxhooks.c_file_to_av.d/extr_linuxsecurityselinuxhooks.c_file_to_av_O0::file_to_av(69)"
+  }
+]

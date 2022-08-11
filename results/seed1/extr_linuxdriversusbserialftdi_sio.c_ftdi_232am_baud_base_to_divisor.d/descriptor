@@ -1,0 +1,1 @@
+function ftdi_232am_baud_base_to_divisor unsigned short | baud int | base int

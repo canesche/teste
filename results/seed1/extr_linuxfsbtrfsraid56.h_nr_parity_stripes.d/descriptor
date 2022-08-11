@@ -1,0 +1,2 @@
+struct map_lookup | type int 
+function nr_parity_stripes int | map struct map_lookup *

@@ -1,0 +1,3 @@
+struct rtl818x_rf_ops | dummy int 
+struct ieee80211_hw | dummy int 
+function rtl8187se_detect_rf const struct rtl818x_rf_ops * | dev struct ieee80211_hw *

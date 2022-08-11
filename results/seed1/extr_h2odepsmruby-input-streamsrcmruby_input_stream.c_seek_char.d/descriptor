@@ -1,0 +1,2 @@
+struct TYPE_3__ | base char * | len unsigned long | pos unsigned long 
+function seek_char unsigned long | stream struct TYPE_3__ * | chr char

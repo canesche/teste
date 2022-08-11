@@ -1,0 +1,2 @@
+struct TYPE_2__ | psa_thread_limit int 
+function posix_spawnattr_set_threadlimit_ext int | attr int **__restrict | thread_limit int

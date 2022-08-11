@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function ce6230_i2c_functionality int | adapter struct i2c_adapter *

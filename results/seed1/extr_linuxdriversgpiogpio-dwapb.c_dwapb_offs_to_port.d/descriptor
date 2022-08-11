@@ -1,0 +1,3 @@
+struct dwapb_gpio_port | idx unsigned int 
+struct dwapb_gpio | nr_ports int | ports struct dwapb_gpio_port * 
+function dwapb_offs_to_port struct dwapb_gpio_port * | gpio struct dwapb_gpio * | offs unsigned int

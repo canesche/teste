@@ -1,0 +1,3 @@
+struct rgbvec | r int | g int | b int 
+struct TYPE_3__ | lutsize int | lut struct rgbvec *** 
+function set_identity_matrix void | lut3d struct TYPE_3__ * | size int

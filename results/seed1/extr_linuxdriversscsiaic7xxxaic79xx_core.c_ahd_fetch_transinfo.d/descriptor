@@ -1,0 +1,4 @@
+struct ahd_tmode_tstate | transinfo struct ahd_initiator_tinfo * 
+struct ahd_softc | enabled_targets struct ahd_tmode_tstate ** 
+struct ahd_initiator_tinfo | dummy int 
+function ahd_fetch_transinfo struct ahd_initiator_tinfo * | ahd struct ahd_softc * | channel char | our_id int | remote_id int | tstate struct ahd_tmode_tstate **

@@ -1,0 +1,2 @@
+struct aer_error | pos_cap_err int | source_id int | root_status int | header_log3 int | header_log2 int | header_log1 int | header_log0 int | cor_status int | uncor_status int 
+function find_pci_config_dword int * | err struct aer_error * | where int | prw1cs int *

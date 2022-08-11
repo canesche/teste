@@ -1,0 +1,3 @@
+struct path | dummy int 
+struct kstat | dummy int 
+function bad_inode_getattr int | path const struct path * | stat struct kstat * | request_mask int | query_flags unsigned int

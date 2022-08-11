@@ -1,0 +1,3 @@
+struct TYPE_4__ | num_windows int | num_swb int | group_len long * 
+struct TYPE_5__ | band_type long * | zeroes int * | ics struct TYPE_4__ 
+function ff_init_nextband_map void | sce const struct TYPE_5__ * | nextband unsigned char *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | netdev int | isdn_channel int | isdn_device int | flags int 
+struct TYPE_5__ | st_netdev int * | rx_netdev int * | chanmap int * | drvmap int * 
+function isdn_net_bind_channel void | lp struct TYPE_4__ * | idx int

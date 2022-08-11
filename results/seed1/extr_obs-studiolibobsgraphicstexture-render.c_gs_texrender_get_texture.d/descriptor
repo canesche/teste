@@ -1,0 +1,2 @@
+struct TYPE_3__ | target int * 
+function gs_texrender_get_texture int * | texrender const struct TYPE_3__ *

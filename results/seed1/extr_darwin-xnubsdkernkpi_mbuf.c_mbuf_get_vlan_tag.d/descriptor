@@ -1,0 +1,3 @@
+struct TYPE_4__ | csum_flags int | vlan_tag int 
+struct TYPE_5__ | m_pkthdr struct TYPE_4__ 
+function mbuf_get_vlan_tag int | mbuf struct TYPE_5__ * | vlan int *

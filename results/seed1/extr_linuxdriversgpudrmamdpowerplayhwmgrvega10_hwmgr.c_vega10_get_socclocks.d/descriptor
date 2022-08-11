@@ -1,0 +1,7 @@
+struct pp_hwmgr | pptable long 
+struct pp_clock_levels_with_latency | num_levels int | data struct TYPE_4__ * 
+struct phm_ppt_v2_information | vdd_dep_on_socclk struct phm_ppt_v1_clock_voltage_dependency_table * 
+struct phm_ppt_v1_clock_voltage_dependency_table | count unsigned long | entries struct TYPE_3__ * 
+struct TYPE_4__ | clocks_in_khz int | latency_in_us long 
+struct TYPE_3__ | clk int 
+function vega10_get_socclocks void | hwmgr struct pp_hwmgr * | clocks struct pp_clock_levels_with_latency *

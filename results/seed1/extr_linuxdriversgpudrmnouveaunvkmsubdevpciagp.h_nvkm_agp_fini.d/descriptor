@@ -1,0 +1,2 @@
+struct nvkm_pci | dummy int 
+function nvkm_agp_fini void | pci struct nvkm_pci *

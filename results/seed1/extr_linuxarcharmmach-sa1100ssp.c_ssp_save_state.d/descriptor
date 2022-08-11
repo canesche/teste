@@ -1,0 +1,2 @@
+struct ssp_state | cr1 int | cr0 int 
+function ssp_save_state void | ssp struct ssp_state *

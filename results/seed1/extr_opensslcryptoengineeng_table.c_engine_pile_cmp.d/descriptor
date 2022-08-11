@@ -1,0 +1,2 @@
+struct TYPE_4__ | nid int 
+function engine_pile_cmp int | a const struct TYPE_4__ * | b const struct TYPE_4__ *

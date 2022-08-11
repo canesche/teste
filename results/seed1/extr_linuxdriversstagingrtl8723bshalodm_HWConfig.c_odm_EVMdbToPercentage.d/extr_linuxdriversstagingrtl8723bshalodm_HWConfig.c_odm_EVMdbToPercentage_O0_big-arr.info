@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversstagingrtl8723bshalodm_HWConfig.c_odm_EVMdbToPercentage.d/extr_linuxdriversstagingrtl8723bshalodm_HWConfig.c_odm_EVMdbToPercentage_O0::odm_EVMdbToPercentage(62)"
+  }
+]

@@ -1,0 +1,2 @@
+struct dma_fence | dummy int 
+function qxl_get_timeline_name const char * | fence struct dma_fence *

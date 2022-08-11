@@ -1,0 +1,3 @@
+struct soc_tplg | fw struct TYPE_2__ * | hdr_pos int * 
+struct TYPE_2__ | size int | data const int * 
+function soc_tplg_is_eof int | tplg struct soc_tplg *

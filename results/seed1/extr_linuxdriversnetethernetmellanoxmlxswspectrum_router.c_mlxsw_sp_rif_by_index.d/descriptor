@@ -1,0 +1,4 @@
+struct mlxsw_sp_rif | dummy int 
+struct mlxsw_sp | router struct TYPE_2__ * 
+struct TYPE_2__ | rifs struct mlxsw_sp_rif ** 
+function mlxsw_sp_rif_by_index struct mlxsw_sp_rif * | mlxsw_sp const struct mlxsw_sp * | rif_index unsigned long

@@ -1,0 +1,2 @@
+struct tm | tm_year long | tm_mon long | tm_mday long | tm_hour long | tm_min long | tm_sec long 
+function tm_is_lessthan int | x struct tm * | y struct tm *

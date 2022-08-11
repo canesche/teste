@@ -1,0 +1,5 @@
+struct atl1e_tx_ring | desc struct atl1e_tpd_desc * | tx_buffer struct atl1e_tx_buffer * 
+struct atl1e_tx_buffer | dummy int 
+struct atl1e_tpd_desc | dummy int 
+struct atl1e_adapter | tx_ring struct atl1e_tx_ring 
+function atl1e_get_tx_buffer struct atl1e_tx_buffer * | adapter struct atl1e_adapter * | tpd struct atl1e_tpd_desc *

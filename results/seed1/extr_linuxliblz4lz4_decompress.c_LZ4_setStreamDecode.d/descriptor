@@ -1,0 +1,2 @@
+struct TYPE_2__ | prefixSize unsigned long | extDictSize long | externalDict int * | prefixEnd const int * 
+function LZ4_setStreamDecode int | LZ4_streamDecode int * | dictionary const char * | dictSize int

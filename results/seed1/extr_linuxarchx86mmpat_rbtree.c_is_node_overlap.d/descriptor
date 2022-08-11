@@ -1,0 +1,2 @@
+struct memtype | start long | end long 
+function is_node_overlap int | node struct memtype * | start long | end long

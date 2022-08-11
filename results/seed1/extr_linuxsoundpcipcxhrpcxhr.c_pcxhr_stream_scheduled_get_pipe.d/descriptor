@@ -1,0 +1,3 @@
+struct pcxhr_stream | status long | pipe struct pcxhr_pipe * 
+struct pcxhr_pipe | dummy int 
+function pcxhr_stream_scheduled_get_pipe int | stream struct pcxhr_stream * | pipe struct pcxhr_pipe **

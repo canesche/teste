@@ -1,0 +1,4 @@
+struct handle_parts | slabindex unsigned long | offset unsigned long | handle int 
+struct stack_trace | skip long | entries int | max_entries int | nr_entries int 
+struct stack_record | entries int | size int 
+function depot_fetch_stack void | handle int | trace struct stack_trace *

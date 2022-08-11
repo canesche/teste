@@ -1,0 +1,7 @@
+struct usb_mixer_elem_info | cache_val int * 
+struct snd_kcontrol | private_data struct usb_mixer_elem_info * 
+struct TYPE_5__ | item int * 
+struct TYPE_6__ | enumerated struct TYPE_5__ 
+struct TYPE_4__ | index int 
+struct snd_ctl_elem_value | value struct TYPE_6__ | id struct TYPE_4__ 
+function snd_us16x08_route_get int | kcontrol struct snd_kcontrol * | ucontrol struct snd_ctl_elem_value *

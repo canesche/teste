@@ -1,0 +1,3 @@
+struct TYPE_3__ | cur unsigned int | ret int | call_cnt int 
+struct TYPE_4__ | minimize_notsent_lowat struct TYPE_3__ 
+function test_adjust_notsent_lowat int | sock int * | notsent_lowat unsigned int

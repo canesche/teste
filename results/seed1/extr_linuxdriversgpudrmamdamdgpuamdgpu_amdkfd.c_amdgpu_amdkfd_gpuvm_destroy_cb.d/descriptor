@@ -1,0 +1,3 @@
+struct amdgpu_vm | dummy int 
+struct amdgpu_device | dummy int 
+function amdgpu_amdkfd_gpuvm_destroy_cb void | adev struct amdgpu_device * | vm struct amdgpu_vm *

@@ -1,0 +1,2 @@
+struct drm_display_mode | picture_aspect_ratio long 
+function drm_mode_match_aspect_ratio int | mode1 const struct drm_display_mode * | mode2 const struct drm_display_mode *

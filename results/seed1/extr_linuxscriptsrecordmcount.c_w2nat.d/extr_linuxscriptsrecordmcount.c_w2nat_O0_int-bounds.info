@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxscriptsrecordmcount.c_w2nat.d/extr_linuxscriptsrecordmcount.c_w2nat_O0::w2nat(62)"
+  }
+]

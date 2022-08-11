@@ -1,0 +1,2 @@
+struct mce | dummy int 
+function apei_write_mce int | m struct mce *

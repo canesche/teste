@@ -1,0 +1,6 @@
+struct snd_pcm_substream | runtime struct TYPE_6__ * | pcm struct TYPE_4__ * 
+struct snd_card_aica | substream struct snd_pcm_substream * | channel struct TYPE_5__ * 
+struct TYPE_6__ | format long | rate int 
+struct TYPE_5__ | freq int | sfmt int 
+struct TYPE_4__ | private_data struct snd_card_aica * 
+function snd_aicapcm_pcm_prepare int | substream struct snd_pcm_substream *

@@ -1,0 +1,4 @@
+struct mmc_command | flags unsigned int | opcode int | data struct TYPE_2__ * 
+struct cb710_mmc_reader | dummy int 
+struct TYPE_2__ | flags int 
+function cb710_encode_cmd_flags int | reader struct cb710_mmc_reader * | cmd struct mmc_command *

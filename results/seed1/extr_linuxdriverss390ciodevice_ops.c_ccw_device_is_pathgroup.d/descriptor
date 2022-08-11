@@ -1,0 +1,4 @@
+struct ccw_device | private struct TYPE_4__ * 
+struct TYPE_3__ | pgroup int 
+struct TYPE_4__ | flags struct TYPE_3__ 
+function ccw_device_is_pathgroup int | cdev struct ccw_device *

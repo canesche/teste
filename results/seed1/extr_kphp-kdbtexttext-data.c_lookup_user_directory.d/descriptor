@@ -1,0 +1,3 @@
+struct file_user_list_entry | user_id long long 
+struct TYPE_2__ | tot_users int 
+function lookup_user_directory struct file_user_list_entry * | user_id long long

@@ -1,0 +1,2 @@
+struct ib_qp_security | dummy int 
+function ib_close_shared_qp_security void | sec struct ib_qp_security *

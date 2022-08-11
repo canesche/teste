@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdrivershidhid-logitech-hidpp.c_hidpp10_battery_status_map_status.d/extr_linuxdrivershidhid-logitech-hidpp.c_hidpp10_battery_status_map_status_O0::hidpp10_battery_status_map_status(66)"
+  }
+]

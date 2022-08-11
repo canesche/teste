@@ -1,0 +1,2 @@
+struct ksz_hw | intr_mask int 
+function hw_dis_intr_bit void | hw struct ksz_hw * | bit int

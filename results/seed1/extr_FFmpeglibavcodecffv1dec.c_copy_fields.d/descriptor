@@ -1,0 +1,2 @@
+struct TYPE_5__ | version int | slice_height int | slice_width int | slice_y int | slice_x int | slice_count int | packed_at_lsb int | bits_per_raw_sample int | key_frame_ok int | slice_damaged int | intra int | ec int | colorspace int | ac int | plane_count int | transparency int | chroma_v_shift int | chroma_h_shift int | chroma_planes int | micro_version int 
+function copy_fields void | fsdst struct TYPE_5__ * | fssrc struct TYPE_5__ * | fsrc struct TYPE_5__ *

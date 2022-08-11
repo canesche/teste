@@ -1,0 +1,2 @@
+struct ahd_softc | msgout_len unsigned long | msgout_buf unsigned long * | msgout_index unsigned long 
+function ahd_sent_msg int | ahd struct ahd_softc * | type long | msgval unsigned long | full int

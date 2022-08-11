@@ -1,0 +1,2 @@
+struct qla27xx_fwdt_template | capture_timestamp int 
+function qla27xx_time_stamp void | tmp struct qla27xx_fwdt_template *

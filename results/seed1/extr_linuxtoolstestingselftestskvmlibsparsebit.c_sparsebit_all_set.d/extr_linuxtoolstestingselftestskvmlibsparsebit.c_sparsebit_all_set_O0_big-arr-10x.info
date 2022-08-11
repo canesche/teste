@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxtoolstestingselftestskvmlibsparsebit.c_sparsebit_all_set.d/extr_linuxtoolstestingselftestskvmlibsparsebit.c_sparsebit_all_set_O0::sparsebit_all_set(61)"
+  }
+]

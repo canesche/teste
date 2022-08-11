@@ -1,0 +1,2 @@
+struct targ_index_ads_directory_entry | ad_id int 
+function lookup_ancient_ad struct targ_index_ads_directory_entry * | ad_id int

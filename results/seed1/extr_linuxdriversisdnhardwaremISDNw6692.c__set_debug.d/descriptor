@@ -1,0 +1,5 @@
+struct TYPE_4__ | debug void * 
+struct w6692_hw | bc struct TYPE_6__ * | dch struct TYPE_4__ 
+struct TYPE_5__ | debug void * 
+struct TYPE_6__ | bch struct TYPE_5__ 
+function _set_debug void | card struct w6692_hw *

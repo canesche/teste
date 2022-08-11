@@ -1,0 +1,2 @@
+struct TYPE_2__ | stride long | perm long 
+function _npy_stride_sort_item_comparator int | a const void * | b const void *

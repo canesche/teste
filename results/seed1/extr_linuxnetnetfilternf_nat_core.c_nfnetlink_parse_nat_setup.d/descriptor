@@ -1,0 +1,3 @@
+struct nlattr | dummy int 
+struct nf_conn | dummy int 
+function nfnetlink_parse_nat_setup int | ct struct nf_conn * | manip enum nf_nat_manip_type | attr const struct nlattr *

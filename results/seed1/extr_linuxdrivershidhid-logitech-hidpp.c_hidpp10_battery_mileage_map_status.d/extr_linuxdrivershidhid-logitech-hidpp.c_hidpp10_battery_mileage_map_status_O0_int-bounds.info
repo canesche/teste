@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdrivershidhid-logitech-hidpp.c_hidpp10_battery_mileage_map_status.d/extr_linuxdrivershidhid-logitech-hidpp.c_hidpp10_battery_mileage_map_status_O0::hidpp10_battery_mileage_map_status(65)"
+  }
+]

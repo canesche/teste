@@ -1,0 +1,4 @@
+struct thermal_zone_device | devdata struct __thermal_zone * 
+struct __thermal_zone | ntrips int | trips struct TYPE_2__ * 
+struct TYPE_2__ | type int 
+function of_thermal_get_trip_type int | tz struct thermal_zone_device * | trip int | type enum thermal_trip_type *

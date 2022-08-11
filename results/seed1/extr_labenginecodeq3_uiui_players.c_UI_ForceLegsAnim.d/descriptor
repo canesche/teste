@@ -1,0 +1,2 @@
+struct TYPE_3__ | legsAnim int | legsAnimationTimer int 
+function UI_ForceLegsAnim void | pi struct TYPE_3__ * | anim int

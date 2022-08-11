@@ -1,0 +1,4 @@
+struct TYPE_6__ | count int 
+struct TYPE_5__ | count int 
+struct TYPE_4__ | count int 
+function get_extent_data_refcount int | type int | data void *

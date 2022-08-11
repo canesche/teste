@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversiiopressurehid-sensor-press.c_press_adjust_channel_bit_mask.d/extr_linuxdriversiiopressurehid-sensor-press.c_press_adjust_channel_bit_mask_O0::press_adjust_channel_bit_mask(65)"
+  }
+]

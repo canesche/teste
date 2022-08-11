@@ -1,0 +1,2 @@
+struct TYPE_3__ | prompt_str int * | prompt int * | pager int * 
+function cli_readline_init_globals void | rg struct TYPE_3__ *

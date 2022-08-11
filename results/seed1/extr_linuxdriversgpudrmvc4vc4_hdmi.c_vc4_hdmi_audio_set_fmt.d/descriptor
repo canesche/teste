@@ -1,0 +1,2 @@
+struct snd_soc_dai | dummy int 
+function vc4_hdmi_audio_set_fmt int | dai struct snd_soc_dai * | fmt unsigned int

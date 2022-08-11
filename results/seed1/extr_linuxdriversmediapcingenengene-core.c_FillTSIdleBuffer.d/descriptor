@@ -1,0 +1,4 @@
+struct SRingBufferDescriptor | NumBuffers int | Head struct SBufferHeader * 
+struct TYPE_2__ | Number_of_entries_1 int | Number_of_entries_2 int | Address_of_first_entry_1 int | Address_of_first_entry_2 int 
+struct SBufferHeader | Next struct SBufferHeader * | ngeneBuffer struct TYPE_2__ | scList1 int | scList2 int | Buffer1 int | Buffer2 int 
+function FillTSIdleBuffer int | pIdleBuffer struct SRingBufferDescriptor * | pRingBuffer struct SRingBufferDescriptor *

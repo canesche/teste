@@ -1,0 +1,2 @@
+struct advert | l_views int | l_clicked_old int | g_clicked_old long | g_views long 
+function adjust_ctr_counters void | A struct advert *

@@ -1,0 +1,2 @@
+struct wined3d_string_buffer | buffer char * | content_size long 
+function string_buffer_clear void | buffer struct wined3d_string_buffer *

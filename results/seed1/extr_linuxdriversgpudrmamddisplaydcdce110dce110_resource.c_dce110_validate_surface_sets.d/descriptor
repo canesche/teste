@@ -1,0 +1,7 @@
+struct dc_state | stream_count int | streams struct TYPE_8__ ** | stream_status struct TYPE_5__ * 
+struct TYPE_6__ | width int | height int 
+struct dc_plane_state | format long | src_rect struct TYPE_6__ 
+struct TYPE_7__ | pixel_encoding long 
+struct TYPE_8__ | timing struct TYPE_7__ 
+struct TYPE_5__ | plane_count int | plane_states struct dc_plane_state ** 
+function dce110_validate_surface_sets int | context struct dc_state *

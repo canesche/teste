@@ -1,0 +1,6 @@
+struct TYPE_8__ | fmt struct TYPE_7__ * 
+struct s5p_jpeg_ctx | out_q struct TYPE_8__ | jpeg struct TYPE_6__ * 
+struct TYPE_7__ | subsampling int | fourcc int 
+struct TYPE_6__ | variant struct TYPE_5__ * 
+struct TYPE_5__ | version int 
+function s5p_jpeg_adjust_subs_ctrl int | ctx struct s5p_jpeg_ctx * | ctrl_val int *

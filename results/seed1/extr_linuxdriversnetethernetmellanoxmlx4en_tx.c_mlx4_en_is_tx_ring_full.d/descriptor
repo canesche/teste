@@ -1,0 +1,2 @@
+struct mlx4_en_tx_ring | prod long | cons long | full_size long 
+function mlx4_en_is_tx_ring_full int | ring struct mlx4_en_tx_ring *

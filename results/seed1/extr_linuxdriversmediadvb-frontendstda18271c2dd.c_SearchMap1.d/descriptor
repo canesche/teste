@@ -1,0 +1,2 @@
+struct SMap | m_Frequency long | m_Param int 
+function SearchMap1 int | Map struct SMap [] | Frequency long | pParam int *

@@ -1,0 +1,2 @@
+struct bintime | frac long | sec int 
+function bintime_subx void | _bt struct bintime * | _x long

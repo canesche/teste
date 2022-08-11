@@ -1,0 +1,3 @@
+struct hlist_head | dummy int 
+struct dentry | dummy int 
+function mp_hash struct hlist_head * | dentry struct dentry *

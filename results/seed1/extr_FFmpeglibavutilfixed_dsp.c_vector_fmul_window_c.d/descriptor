@@ -1,0 +1,1 @@
+function vector_fmul_window_c void | dst unsigned long * | src0 const unsigned long * | src1 const unsigned long * | win const unsigned long * | len int

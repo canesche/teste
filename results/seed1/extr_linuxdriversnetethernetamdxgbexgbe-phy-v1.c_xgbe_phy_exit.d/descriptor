@@ -1,0 +1,2 @@
+struct xgbe_prv_data | dummy int 
+function xgbe_phy_exit void | pdata struct xgbe_prv_data *

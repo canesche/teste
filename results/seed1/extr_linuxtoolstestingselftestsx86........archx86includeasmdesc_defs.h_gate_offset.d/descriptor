@@ -1,0 +1,2 @@
+struct TYPE_3__ | offset_low unsigned long | offset_middle long 
+function gate_offset unsigned long | g const struct TYPE_3__ *

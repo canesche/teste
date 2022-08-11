@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmamdamdkfdkfd_device_queue_manager.c_get_mqd_type_from_queue_type.d/extr_linuxdriversgpudrmamdamdkfdkfd_device_queue_manager.c_get_mqd_type_from_queue_type_O0::get_mqd_type_from_queue_type(64)"
+  }
+]

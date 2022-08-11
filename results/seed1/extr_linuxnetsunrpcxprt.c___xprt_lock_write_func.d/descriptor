@@ -1,0 +1,4 @@
+struct rpc_xprt | snd_task struct rpc_task * 
+struct rpc_task | tk_rqstp struct rpc_rqst * 
+struct rpc_rqst | rq_ntrans int 
+function __xprt_lock_write_func int | task struct rpc_task * | data void *

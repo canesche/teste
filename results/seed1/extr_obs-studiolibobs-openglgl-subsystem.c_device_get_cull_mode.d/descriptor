@@ -1,0 +1,2 @@
+struct TYPE_3__ | cur_cull_mode int 
+function device_get_cull_mode enum gs_cull_mode | device const struct TYPE_3__ *

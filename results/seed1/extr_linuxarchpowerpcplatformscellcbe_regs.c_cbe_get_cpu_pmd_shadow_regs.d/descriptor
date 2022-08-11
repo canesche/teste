@@ -1,0 +1,4 @@
+struct cbe_pmd_shadow_regs | dummy int 
+struct cbe_regs_map | pmd_shadow_regs struct cbe_pmd_shadow_regs 
+struct TYPE_2__ | regs struct cbe_regs_map * 
+function cbe_get_cpu_pmd_shadow_regs struct cbe_pmd_shadow_regs * | cpu int

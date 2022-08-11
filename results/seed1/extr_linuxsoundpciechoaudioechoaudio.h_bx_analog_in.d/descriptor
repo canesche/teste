@@ -1,0 +1,2 @@
+struct echoaudio | dummy int 
+function bx_analog_in int | chip const struct echoaudio *

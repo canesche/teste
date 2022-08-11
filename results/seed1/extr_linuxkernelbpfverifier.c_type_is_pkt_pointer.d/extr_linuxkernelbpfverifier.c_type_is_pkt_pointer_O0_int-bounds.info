@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxkernelbpfverifier.c_type_is_pkt_pointer.d/extr_linuxkernelbpfverifier.c_type_is_pkt_pointer_O0::type_is_pkt_pointer(61)"
+  }
+]

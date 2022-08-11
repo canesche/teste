@@ -1,0 +1,2 @@
+struct TYPE_2__ | handle int 
+function qsv_frame_get_hdl int | pthis int | mid long | hdl int *

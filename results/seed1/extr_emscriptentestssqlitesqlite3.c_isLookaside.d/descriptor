@@ -1,0 +1,3 @@
+struct TYPE_4__ | pStart void * | pEnd void * 
+struct TYPE_5__ | lookaside struct TYPE_4__ 
+function isLookaside int | db struct TYPE_5__ * | p void *

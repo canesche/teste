@@ -1,0 +1,2 @@
+struct TYPE_3__ | data int ** | linesize int * 
+function render_default_font int | tmp struct TYPE_3__ *

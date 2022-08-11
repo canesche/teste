@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnfcnfcmrvluart.c_nfcmrvl_uart_nci_close.d/extr_linuxdriversnfcnfcmrvluart.c_nfcmrvl_uart_nci_close_O0::nfcmrvl_uart_nci_close(61)"
+  }
+]

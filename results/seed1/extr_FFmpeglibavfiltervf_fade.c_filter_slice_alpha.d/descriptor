@@ -1,0 +1,4 @@
+struct TYPE_7__ | priv struct TYPE_5__ * 
+struct TYPE_6__ | height int | data int ** | linesize int * | width int 
+struct TYPE_5__ | is_packed_rgb int | rgba_map int * | black_level int | factor int | black_level_scaled int 
+function filter_slice_alpha int | ctx struct TYPE_7__ * | arg void * | jobnr int | nb_jobs int

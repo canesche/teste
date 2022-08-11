@@ -1,0 +1,2 @@
+struct secasvar | flags int 
+function ah_sumsiz_1216 int | sav struct secasvar *

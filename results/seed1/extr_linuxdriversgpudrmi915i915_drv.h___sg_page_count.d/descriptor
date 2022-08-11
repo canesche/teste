@@ -1,0 +1,2 @@
+struct scatterlist | length int 
+function __sg_page_count int | sg const struct scatterlist *

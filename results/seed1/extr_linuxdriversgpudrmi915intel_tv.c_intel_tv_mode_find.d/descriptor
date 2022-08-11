@@ -1,0 +1,4 @@
+struct tv_mode | dummy int 
+struct TYPE_2__ | mode int 
+struct drm_connector_state | tv struct TYPE_2__ 
+function intel_tv_mode_find const struct tv_mode * | conn_state const struct drm_connector_state *

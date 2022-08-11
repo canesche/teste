@@ -1,0 +1,2 @@
+struct TYPE_3__ | hotkey int * 
+function obs_hotkey_binding_get_hotkey int * | binding struct TYPE_3__ *

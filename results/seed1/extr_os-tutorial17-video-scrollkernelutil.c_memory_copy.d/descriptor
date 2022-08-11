@@ -1,0 +1,1 @@
+function memory_copy void | source char * | dest char * | nbytes int

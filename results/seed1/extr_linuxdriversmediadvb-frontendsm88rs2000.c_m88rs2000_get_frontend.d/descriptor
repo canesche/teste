@@ -1,0 +1,4 @@
+struct m88rs2000_state | symbol_rate int | tuner_frequency int | fec_inner int 
+struct dvb_frontend | demodulator_priv struct m88rs2000_state * 
+struct dtv_frontend_properties | symbol_rate int | frequency int | fec_inner int 
+function m88rs2000_get_frontend int | fe struct dvb_frontend * | c struct dtv_frontend_properties *

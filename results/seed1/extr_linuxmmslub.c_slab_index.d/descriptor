@@ -1,0 +1,2 @@
+struct kmem_cache | size int 
+function slab_index unsigned int | p void * | s struct kmem_cache * | addr void *

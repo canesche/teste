@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_gitpack-objects.h_oe_set_delta.d/extr_gitpack-objects.h_oe_set_delta_O0::oe_set_delta(64)"
+  }
+]

@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct ath_hw | dummy int 
+function ath_dynack_sample_ack_ts void | ah struct ath_hw * | skb struct sk_buff * | ts int

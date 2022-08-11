@@ -1,0 +1,2 @@
+struct TYPE_3__ | http_major long | http_minor long | flags int 
+function php_http_should_keep_alive int | parser struct TYPE_3__ *

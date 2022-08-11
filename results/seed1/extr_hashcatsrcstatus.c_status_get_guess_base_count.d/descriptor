@@ -1,0 +1,6 @@
+struct TYPE_7__ | attack_mode long 
+struct TYPE_8__ | dicts_cnt int 
+struct TYPE_9__ | masks_cnt int 
+struct TYPE_10__ | opti_type int 
+struct TYPE_11__ | straight_ctx struct TYPE_8__ * | mask_ctx struct TYPE_9__ * | user_options struct TYPE_7__ * | hashconfig struct TYPE_10__ * 
+function status_get_guess_base_count int | hashcat_ctx const struct TYPE_11__ *

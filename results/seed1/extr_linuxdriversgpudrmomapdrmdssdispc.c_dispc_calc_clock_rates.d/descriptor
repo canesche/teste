@@ -1,0 +1,3 @@
+struct dispc_device | dummy int 
+struct dispc_clock_info | lck_div int | pck_div int | lck unsigned long | pck int 
+function dispc_calc_clock_rates int | dispc struct dispc_device * | dispc_fclk_rate unsigned long | cinfo struct dispc_clock_info *

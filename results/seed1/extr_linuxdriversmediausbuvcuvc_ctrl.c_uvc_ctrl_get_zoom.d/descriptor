@@ -1,0 +1,2 @@
+struct uvc_control_mapping | dummy int 
+function uvc_ctrl_get_zoom const int | mapping struct uvc_control_mapping * | query int | data const int *

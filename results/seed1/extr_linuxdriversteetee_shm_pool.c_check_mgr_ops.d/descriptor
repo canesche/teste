@@ -1,0 +1,3 @@
+struct tee_shm_pool_mgr | ops struct TYPE_2__ * 
+struct TYPE_2__ | destroy_poolmgr long | free long | alloc long 
+function check_mgr_ops int | mgr struct tee_shm_pool_mgr *

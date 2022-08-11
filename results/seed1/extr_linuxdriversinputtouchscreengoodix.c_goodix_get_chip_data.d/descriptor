@@ -1,0 +1,2 @@
+struct goodix_chip_data | dummy int 
+function goodix_get_chip_data const struct goodix_chip_data * | id int

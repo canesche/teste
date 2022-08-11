@@ -1,0 +1,3 @@
+struct kfd_dev | dummy int 
+struct kfd_dbgdev | type int | dbgdev_address_watch int | dbgdev_wave_control int | dbgdev_unregister int | dbgdev_register int | pqm int * | kq int * | dev struct kfd_dev * 
+function kfd_dbgdev_init void | pdbgdev struct kfd_dbgdev * | pdev struct kfd_dev * | type enum DBGDEV_TYPE

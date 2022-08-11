@@ -1,0 +1,3 @@
+struct TYPE_2__ | features long | size long 
+struct rbd_device | mapping struct TYPE_2__ 
+function rbd_dev_mapping_clear void | rbd_dev struct rbd_device *

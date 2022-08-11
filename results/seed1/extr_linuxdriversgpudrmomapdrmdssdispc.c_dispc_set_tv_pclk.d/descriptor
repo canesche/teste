@@ -1,0 +1,2 @@
+struct dispc_device | tv_pclk_rate unsigned long 
+function dispc_set_tv_pclk void | dispc struct dispc_device * | pclk unsigned long

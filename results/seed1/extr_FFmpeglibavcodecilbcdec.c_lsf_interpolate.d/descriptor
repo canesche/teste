@@ -1,0 +1,1 @@
+function lsf_interpolate void | out int * | in1 int * | in2 int * | coef int | size int

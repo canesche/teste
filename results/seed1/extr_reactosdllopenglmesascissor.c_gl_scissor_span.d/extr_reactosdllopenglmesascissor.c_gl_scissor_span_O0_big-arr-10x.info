@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactosdllopenglmesascissor.c_gl_scissor_span.d/extr_reactosdllopenglmesascissor.c_gl_scissor_span_O0::gl_scissor_span(69)"
+  }
+]

@@ -1,0 +1,3 @@
+struct TYPE_7__ | dwSize long 
+struct TYPE_6__ | next struct TYPE_6__ * | dwNextFree long 
+function MemNext struct TYPE_7__ * | plpLink struct TYPE_6__ ** | lpxdta struct TYPE_7__ *

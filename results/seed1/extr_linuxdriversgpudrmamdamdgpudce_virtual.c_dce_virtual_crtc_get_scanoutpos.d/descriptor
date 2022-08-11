@@ -1,0 +1,2 @@
+struct amdgpu_device | dummy int 
+function dce_virtual_crtc_get_scanoutpos int | adev struct amdgpu_device * | crtc int | vbl long * | position long *

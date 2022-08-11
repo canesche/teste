@@ -1,0 +1,2 @@
+struct vmx | dummy int 
+function vmx_run_trace void | vmx struct vmx * | vcpu int

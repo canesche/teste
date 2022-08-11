@@ -1,0 +1,2 @@
+struct TYPE_4__ | name_idx long 
+function pd_compare int | p1 const struct TYPE_4__ *const * | p2 const struct TYPE_4__ *const *

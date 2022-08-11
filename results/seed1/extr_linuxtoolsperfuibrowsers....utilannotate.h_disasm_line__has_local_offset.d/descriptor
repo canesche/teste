@@ -1,0 +1,4 @@
+struct TYPE_3__ | outside int | offset_avail long 
+struct TYPE_4__ | target struct TYPE_3__ 
+struct disasm_line | ops struct TYPE_4__ 
+function disasm_line__has_local_offset int | dl const struct disasm_line *

@@ -1,0 +1,3 @@
+struct usnic_vnic | chunks struct TYPE_2__ * 
+struct TYPE_2__ | cnt int 
+function usnic_vnic_res_cnt int | vnic struct usnic_vnic * | type enum usnic_vnic_res_type

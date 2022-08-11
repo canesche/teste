@@ -1,0 +1,2 @@
+struct mlx5e_priv | netdev void * 
+function mlx5e_get_netdev void * | vpriv void *

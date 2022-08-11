@@ -1,0 +1,2 @@
+struct clk | dummy int 
+function siumckb_recalc unsigned long | clk struct clk *

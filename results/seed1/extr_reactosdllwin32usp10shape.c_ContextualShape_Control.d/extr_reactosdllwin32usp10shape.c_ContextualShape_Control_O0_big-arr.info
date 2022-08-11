@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7412,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactosdllwin32usp10shape.c_ContextualShape_Control.d/extr_reactosdllwin32usp10shape.c_ContextualShape_Control_O0::ContextualShape_Control(70)"
+  }
+]

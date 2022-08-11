@@ -1,0 +1,3 @@
+struct i2c_device_id | driver_data unsigned long 
+struct i2c_client | dummy int 
+function sec_i2c_get_driver_data unsigned long | i2c struct i2c_client * | id const struct i2c_device_id *

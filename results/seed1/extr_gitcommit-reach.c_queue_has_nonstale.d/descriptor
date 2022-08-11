@@ -1,0 +1,5 @@
+struct prio_queue | nr int | array struct TYPE_3__ * 
+struct TYPE_4__ | flags int 
+struct commit | object struct TYPE_4__ 
+struct TYPE_3__ | data struct commit * 
+function queue_has_nonstale int | queue struct prio_queue *

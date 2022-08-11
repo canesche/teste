@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_memcachedslabs.c_slabs_clsid.d/extr_memcachedslabs.c_slabs_clsid_O0::slabs_clsid(67)"
+  }
+]

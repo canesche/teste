@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxsoundusbcaiaqaudio.c_all_substreams_zero.d/extr_linuxsoundusbcaiaqaudio.c_all_substreams_zero_O0::all_substreams_zero(63)"
+  }
+]

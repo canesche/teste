@@ -1,0 +1,2 @@
+struct clock_event_device | dummy int 
+function ckevt_dc21285_shutdown int | c struct clock_event_device *

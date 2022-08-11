@@ -1,0 +1,2 @@
+struct hid_device | dummy int 
+function hidinput_update_battery void | dev struct hid_device * | value int

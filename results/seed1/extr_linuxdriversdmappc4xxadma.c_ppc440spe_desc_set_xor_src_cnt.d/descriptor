@@ -1,0 +1,3 @@
+struct xor_cb | cbc int 
+struct ppc440spe_adma_desc_slot | hw_desc struct xor_cb * 
+function ppc440spe_desc_set_xor_src_cnt void | desc struct ppc440spe_adma_desc_slot * | src_cnt int

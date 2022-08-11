@@ -1,0 +1,2 @@
+struct fimc_fmt | color int 
+function fimc_get_alpha_mask int | fmt struct fimc_fmt *

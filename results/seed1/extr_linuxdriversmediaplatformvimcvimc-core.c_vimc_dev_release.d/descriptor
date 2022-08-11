@@ -1,0 +1,2 @@
+struct device | dummy int 
+function vimc_dev_release void | dev struct device *

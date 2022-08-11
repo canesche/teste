@@ -1,0 +1,2 @@
+struct gru_tlb_fault_map | dummy int 
+function get_tfm struct gru_tlb_fault_map * | base void * | ctxnum int

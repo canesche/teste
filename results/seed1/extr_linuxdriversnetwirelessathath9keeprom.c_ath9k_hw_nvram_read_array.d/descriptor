@@ -1,0 +1,1 @@
+function ath9k_hw_nvram_read_array int | blob int * | blob_size unsigned long | offset unsigned long | data int *

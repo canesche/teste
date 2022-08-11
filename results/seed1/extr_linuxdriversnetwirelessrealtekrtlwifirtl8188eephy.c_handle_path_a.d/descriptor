@@ -1,0 +1,2 @@
+struct rtl_efuse | txpwrlevel_cck unsigned long ** | txpwr_ht20diff int ** | txpwrlevel_ht40_1s unsigned long ** | txpwr_legacyhtdiff int ** 
+function handle_path_a void | rtlefuse struct rtl_efuse * | index unsigned long | cckpowerlevel unsigned long * | ofdmpowerlevel unsigned long * | bw20powerlevel unsigned long * | bw40powerlevel unsigned long *

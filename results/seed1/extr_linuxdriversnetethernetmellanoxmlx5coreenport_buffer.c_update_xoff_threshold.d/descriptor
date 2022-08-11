@@ -1,0 +1,3 @@
+struct mlx5e_port_buffer | buffer struct TYPE_2__ * 
+struct TYPE_2__ | size long | xoff long | xon long | lossy long 
+function update_xoff_threshold int | port_buffer struct mlx5e_port_buffer * | xoff long | max_mtu unsigned int

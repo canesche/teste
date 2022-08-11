@@ -1,0 +1,2 @@
+struct ubifs_info | lhead_lnum long | leb_size long long | lhead_offs long long | ltail_lnum long | log_bytes long long 
+function empty_log_bytes long long | c const struct ubifs_info *

@@ -1,0 +1,4 @@
+struct iwl_mvm | trans struct TYPE_4__ * 
+struct TYPE_4__ | cfg struct TYPE_3__ * 
+struct TYPE_3__ | device_family long 
+function iwl_mvm_cdb_scan_api int | mvm struct iwl_mvm *

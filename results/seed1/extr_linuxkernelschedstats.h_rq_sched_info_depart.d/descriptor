@@ -1,0 +1,2 @@
+struct rq | dummy int 
+function rq_sched_info_depart void | rq struct rq * | delta unsigned long long

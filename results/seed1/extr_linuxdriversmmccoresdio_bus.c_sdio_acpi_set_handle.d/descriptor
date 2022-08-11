@@ -1,0 +1,2 @@
+struct sdio_func | dummy int 
+function sdio_acpi_set_handle void | func struct sdio_func *

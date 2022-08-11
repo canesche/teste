@@ -1,0 +1,2 @@
+struct list_head | next struct list_head * 
+function list_empty int | head struct list_head *

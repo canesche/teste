@@ -1,0 +1,3 @@
+struct TYPE_6__ | cmd long | cmdsize long 
+struct TYPE_7__ | ncmds long 
+function nextsegfromheader struct TYPE_6__ * | header struct TYPE_7__ * | seg struct TYPE_6__ *

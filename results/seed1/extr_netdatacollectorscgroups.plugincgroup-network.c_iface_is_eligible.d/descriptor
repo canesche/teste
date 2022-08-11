@@ -1,0 +1,2 @@
+struct iface | iflink long | ifindex long 
+function iface_is_eligible int | iface struct iface *

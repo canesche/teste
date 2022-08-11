@@ -1,0 +1,2 @@
+struct psmouse | dummy int 
+function cypress_init int | psmouse struct psmouse *

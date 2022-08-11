@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmvmwgfxvmwgfx_shader.c_vmw_shader_id_ok.d/extr_linuxdriversgpudrmvmwgfxvmwgfx_shader.c_vmw_shader_id_ok_O0::vmw_shader_id_ok(62)"
+  }
+]

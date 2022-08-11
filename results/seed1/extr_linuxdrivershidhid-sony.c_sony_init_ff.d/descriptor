@@ -1,0 +1,2 @@
+struct sony_sc | dummy int 
+function sony_init_ff int | sc struct sony_sc *

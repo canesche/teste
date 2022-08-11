@@ -1,0 +1,2 @@
+struct ghes | dummy int 
+function ghes_nmi_remove void | ghes struct ghes *

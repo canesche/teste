@@ -1,0 +1,2 @@
+struct magic_set | bytes_max unsigned long | elf_notes_max void * | elf_shnum_max void * | elf_phnum_max void * | name_max void * | indir_max void * 
+function magic_setparam int | ms struct magic_set * | param int | val const void *

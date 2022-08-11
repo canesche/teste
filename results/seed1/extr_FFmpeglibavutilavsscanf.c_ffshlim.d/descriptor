@@ -1,0 +1,2 @@
+struct TYPE_3__ | rend long | shend long | rpos long | buf long | shcnt long | shlim long 
+function ffshlim void | f struct TYPE_3__ * | lim long

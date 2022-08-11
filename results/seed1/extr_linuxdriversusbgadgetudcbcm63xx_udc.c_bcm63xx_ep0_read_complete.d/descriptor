@@ -1,0 +1,3 @@
+struct usb_request | actual int 
+struct bcm63xx_udc | ep0_request struct usb_request * | ep0_req_completed long 
+function bcm63xx_ep0_read_complete int | udc struct bcm63xx_udc *

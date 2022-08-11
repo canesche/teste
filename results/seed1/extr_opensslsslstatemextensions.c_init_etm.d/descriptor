@@ -1,0 +1,3 @@
+struct TYPE_4__ | use_etm long 
+struct TYPE_5__ | ext struct TYPE_4__ 
+function init_etm int | s struct TYPE_5__ * | context unsigned int

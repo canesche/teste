@@ -1,0 +1,1 @@
+function check_locked_file_before_remove int | fset int * | path const char *

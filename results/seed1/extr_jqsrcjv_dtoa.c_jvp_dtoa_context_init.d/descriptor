@@ -1,0 +1,2 @@
+struct dtoa_context | p5s long | freelist long * 
+function jvp_dtoa_context_init void | C struct dtoa_context *

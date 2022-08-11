@@ -1,0 +1,1 @@
+function pm3fb_calculate_clock void | reqclock unsigned long | prescale unsigned char * | feedback unsigned char * | postscale unsigned char *

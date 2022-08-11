@@ -1,0 +1,3 @@
+struct TYPE_2__ | iftype long 
+struct brcmf_cfg80211_vif | wdev struct TYPE_2__ 
+function brcmf_is_ibssmode int | vif struct brcmf_cfg80211_vif *

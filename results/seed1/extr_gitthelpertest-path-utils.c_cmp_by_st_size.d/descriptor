@@ -1,0 +1,2 @@
+struct string_list_item | util int 
+function cmp_by_st_size int | a const void * | b const void *

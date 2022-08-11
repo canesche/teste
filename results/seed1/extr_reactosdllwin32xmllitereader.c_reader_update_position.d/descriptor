@@ -1,0 +1,3 @@
+struct TYPE_4__ | line_position int | line_number int 
+struct TYPE_5__ | position struct TYPE_4__ 
+function reader_update_position void | reader struct TYPE_5__ * | ch char

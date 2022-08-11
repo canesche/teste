@@ -1,0 +1,4 @@
+struct TYPE_7__ | next struct TYPE_7__ * | buf struct TYPE_6__ * 
+struct TYPE_6__ | file_pos long | file_last long | file struct TYPE_5__ * | in_file long 
+struct TYPE_5__ | fd long 
+function ngx_chain_coalesce_file long | in struct TYPE_7__ ** | limit long

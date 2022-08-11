@@ -1,0 +1,3 @@
+struct TYPE_5__ | cipher_suites struct TYPE_6__ ** 
+struct TYPE_6__ | id long 
+function find_cipher struct TYPE_6__ * | ctx struct TYPE_5__ * | id long

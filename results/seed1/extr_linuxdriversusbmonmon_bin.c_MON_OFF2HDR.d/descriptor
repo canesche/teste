@@ -1,0 +1,4 @@
+struct mon_reader_bin | b_vec struct TYPE_2__ * 
+struct mon_bin_hdr | dummy int 
+struct TYPE_2__ | ptr long 
+function MON_OFF2HDR struct mon_bin_hdr * | rp const struct mon_reader_bin * | offset unsigned int

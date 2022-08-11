@@ -1,0 +1,4 @@
+struct TYPE_7__ | iPKey int 
+struct TYPE_8__ | nCol int | aCol struct TYPE_6__ * 
+struct TYPE_6__ | iFrom int 
+function fkChildIsModified int | pTab struct TYPE_7__ * | p struct TYPE_8__ * | aChange int * | bChngRowid int

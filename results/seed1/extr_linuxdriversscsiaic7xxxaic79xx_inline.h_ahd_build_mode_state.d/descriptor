@@ -1,0 +1,2 @@
+struct ahd_softc | dummy int 
+function ahd_build_mode_state int | ahd struct ahd_softc * | src int | dst int

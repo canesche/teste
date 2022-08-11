@@ -1,0 +1,3 @@
+struct gfs2_log_header_host | lh_tail int 
+struct gfs2_jdesc | jd_replay_tail int | jd_found_revokes long 
+function revoke_lo_before_scan void | jd struct gfs2_jdesc * | head struct gfs2_log_header_host * | pass int

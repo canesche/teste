@@ -1,0 +1,3 @@
+struct rmi_function_descriptor | function_version int | interrupt_source_count int | function_number int | data_base_addr long | control_base_addr long | command_base_addr long | query_base_addr long 
+struct pdt_entry | function_version int | interrupt_source_count int | function_number int | page_start long | data_base_addr long | control_base_addr long | command_base_addr long | query_base_addr long 
+function rmi_driver_copy_pdt_to_fd void | pdt const struct pdt_entry * | fd struct rmi_function_descriptor *

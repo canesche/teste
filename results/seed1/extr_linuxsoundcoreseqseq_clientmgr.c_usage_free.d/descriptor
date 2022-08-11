@@ -1,0 +1,2 @@
+struct snd_seq_usage | cur int 
+function usage_free void | res struct snd_seq_usage * | num int

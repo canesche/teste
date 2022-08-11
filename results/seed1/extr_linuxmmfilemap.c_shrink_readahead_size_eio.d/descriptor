@@ -1,0 +1,3 @@
+struct file_ra_state | ra_pages int 
+struct file | dummy int 
+function shrink_readahead_size_eio void | filp struct file * | ra struct file_ra_state *

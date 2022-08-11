@@ -1,0 +1,3 @@
+struct TYPE_2__ | num_ports int 
+struct xhci_hcd | port_status_u0 int | usb3_rhub struct TYPE_2__ 
+function xhci_all_ports_seen_u0 int | xhci struct xhci_hcd *

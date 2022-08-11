@@ -1,0 +1,3 @@
+struct TYPE_7__ | root struct TYPE_6__ * 
+struct TYPE_6__ | state int | lastChild struct TYPE_6__ * 
+function TREEVIEW_GetLastListItem struct TYPE_6__ * | infoPtr const struct TYPE_7__ * | item struct TYPE_6__ *

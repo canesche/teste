@@ -1,0 +1,3 @@
+struct s_srf_evc | evc_code int | evc_index int 
+struct s_smc | evcs struct s_srf_evc * 
+function smt_get_evc struct s_srf_evc * | smc struct s_smc * | code int | index int

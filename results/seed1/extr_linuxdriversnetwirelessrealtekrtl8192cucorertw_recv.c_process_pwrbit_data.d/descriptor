@@ -1,0 +1,2 @@
+struct recv_frame | dummy int 
+function process_pwrbit_data void | padapter int * | precv_frame union recv_frame *

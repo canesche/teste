@@ -1,0 +1,2 @@
+struct dentry | dummy int 
+function trace_create_eval_file void | d_tracer struct dentry *

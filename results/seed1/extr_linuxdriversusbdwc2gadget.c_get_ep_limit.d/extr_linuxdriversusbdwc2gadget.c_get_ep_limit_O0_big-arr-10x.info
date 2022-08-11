@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversusbdwc2gadget.c_get_ep_limit.d/extr_linuxdriversusbdwc2gadget.c_get_ep_limit_O0::get_ep_limit(66)"
+  }
+]

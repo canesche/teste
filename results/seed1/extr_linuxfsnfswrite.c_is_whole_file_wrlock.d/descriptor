@@ -1,0 +1,2 @@
+struct file_lock | fl_start long | fl_end long | fl_type long 
+function is_whole_file_wrlock int | fl struct file_lock *

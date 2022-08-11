@@ -1,0 +1,2 @@
+struct wined3d_shader_instruction | dummy int 
+function shader_hw_nop void | ins const struct wined3d_shader_instruction *

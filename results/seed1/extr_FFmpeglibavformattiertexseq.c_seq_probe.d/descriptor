@@ -1,0 +1,2 @@
+struct TYPE_3__ | buf_size int | buf long * 
+function seq_probe int | p const struct TYPE_3__ *

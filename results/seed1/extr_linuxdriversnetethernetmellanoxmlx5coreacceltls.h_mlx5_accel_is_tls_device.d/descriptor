@@ -1,0 +1,2 @@
+struct mlx5_core_dev | dummy int 
+function mlx5_accel_is_tls_device int | mdev struct mlx5_core_dev *

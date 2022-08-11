@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxarchmipscavium-octeonexecutivecvmx-pko.c___cvmx_pko_int.d/extr_linuxarchmipscavium-octeonexecutivecvmx-pko.c___cvmx_pko_int_O0::__cvmx_pko_int(60)"
+  }
+]

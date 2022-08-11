@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversscsiaic7xxxaic7xxx_osm.h_ahc_set_sense_residual.d/extr_linuxdriversscsiaic7xxxaic7xxx_osm.h_ahc_set_sense_residual_O0::ahc_set_sense_residual(65)"
+  }
+]

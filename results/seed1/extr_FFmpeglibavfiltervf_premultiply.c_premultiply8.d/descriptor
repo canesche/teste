@@ -1,0 +1,1 @@
+function premultiply8 void | msrc const int * | asrc const int * | dst int * | mlinesize int | alinesize int | dlinesize int | w int | h int | half int | shift int | offset int

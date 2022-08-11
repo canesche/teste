@@ -1,0 +1,2 @@
+struct TYPE_3__ | PointerToSymbolTable long | NumberOfSymbols int 
+function GetCoffInfo int | FileData void * | PEFileHeader struct TYPE_3__ * | PESectionHeaders int | CoffSymbolsLength int * | CoffSymbolsBase void ** | CoffStringsLength int * | CoffStringsBase void **

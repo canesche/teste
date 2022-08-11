@@ -1,0 +1,2 @@
+struct TYPE_3__ | vsub int * | hsub int * | pixelstep int * 
+function pointer_at int * | draw struct TYPE_3__ * | data int *[] | linesize int [] | plane int | x int | y int

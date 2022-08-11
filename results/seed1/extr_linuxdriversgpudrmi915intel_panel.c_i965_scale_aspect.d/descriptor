@@ -1,0 +1,4 @@
+struct drm_display_mode | crtc_hdisplay long | crtc_vdisplay long 
+struct TYPE_2__ | adjusted_mode struct drm_display_mode 
+struct intel_crtc_state | pipe_src_h long | pipe_src_w long | base struct TYPE_2__ 
+function i965_scale_aspect void | pipe_config struct intel_crtc_state * | pfit_control long *

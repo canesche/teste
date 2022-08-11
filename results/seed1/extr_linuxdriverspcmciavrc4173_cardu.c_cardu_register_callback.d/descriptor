@@ -1,0 +1,2 @@
+struct TYPE_3__ | handler void (*)(void *, unsigned int) | info void * 
+function cardu_register_callback int | sock unsigned int | handler void (*)(void *, unsigned int) | info void *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | is_obsolete long 
+function kxld_sym_is_obsolete int | sym const struct TYPE_3__ *

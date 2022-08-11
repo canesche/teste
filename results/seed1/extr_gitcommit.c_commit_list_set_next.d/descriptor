@@ -1,0 +1,2 @@
+struct commit_list | next void * 
+function commit_list_set_next void | a void * | next void *

@@ -1,0 +1,2 @@
+struct i2c_spec_values | dummy int 
+function rk3x_i2c_get_spec const struct i2c_spec_values * | speed unsigned int

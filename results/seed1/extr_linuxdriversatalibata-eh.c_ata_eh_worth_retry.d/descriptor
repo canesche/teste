@@ -1,0 +1,2 @@
+struct ata_queued_cmd | err_mask int | flags int 
+function ata_eh_worth_retry int | qc struct ata_queued_cmd *

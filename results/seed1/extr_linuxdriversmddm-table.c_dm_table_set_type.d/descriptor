@@ -1,0 +1,2 @@
+struct dm_table | type int 
+function dm_table_set_type void | t struct dm_table * | type enum dm_queue_mode

@@ -1,0 +1,3 @@
+struct stream_encoder | id long 
+struct link_mst_stream_allocation | slot_count long | stream_enc struct stream_encoder * 
+function fill_stream_allocation_row_info void | stream_allocation const struct link_mst_stream_allocation * | src long * | slots long *

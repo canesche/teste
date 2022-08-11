@@ -1,0 +1,2 @@
+struct uart_port | dummy int 
+function lqasc_set_mctrl void | port struct uart_port * | mctrl int

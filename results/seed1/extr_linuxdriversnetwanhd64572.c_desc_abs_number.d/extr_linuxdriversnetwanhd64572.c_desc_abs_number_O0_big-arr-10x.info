@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetwanhd64572.c_desc_abs_number.d/extr_linuxdriversnetwanhd64572.c_desc_abs_number_O0::desc_abs_number(66)"
+  }
+]

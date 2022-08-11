@@ -1,0 +1,4 @@
+struct TYPE_6__ | AuxAnt_Cnt long * | MainAnt_Cnt long * | AuxAnt_Sum long * | MainAnt_Sum long * | RxIdleAnt int 
+struct TYPE_5__ | try_flag int | Double_chk_flag long | RSSI_Trying long 
+struct TYPE_7__ | RSSI_test int | DM_FatTable struct TYPE_6__ | DM_SWAT_Table struct TYPE_5__ 
+function ODM_SwAntDivRestAfterLink void | pDM_Odm struct TYPE_7__ *

@@ -1,0 +1,4 @@
+struct TYPE_4__ | num_power_states int | default_power_state_index int | power_state struct TYPE_3__ * 
+struct radeon_device | pm struct TYPE_4__ 
+struct TYPE_3__ | type int 
+function radeon_pm_get_type_index int | rdev struct radeon_device * | ps_type enum radeon_pm_state_type | instance int

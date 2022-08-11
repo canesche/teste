@@ -1,0 +1,3 @@
+struct port | is_enabled long | next_port_in_aggregator struct port * 
+struct aggregator | lag_ports struct port * 
+function __agg_active_ports int | agg struct aggregator *

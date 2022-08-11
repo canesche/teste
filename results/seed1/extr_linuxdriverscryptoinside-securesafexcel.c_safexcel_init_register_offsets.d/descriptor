@@ -1,0 +1,3 @@
+struct safexcel_register_offsets | pe int | hia_gen_cfg int | hia_dse_thr int | hia_dse int | hia_dfe_thr int | hia_dfe int | hia_aic_xdr int | hia_aic_r int | hia_aic_g int | hia_aic int 
+struct safexcel_crypto_priv | version int | offsets struct safexcel_register_offsets 
+function safexcel_init_register_offsets void | priv struct safexcel_crypto_priv *

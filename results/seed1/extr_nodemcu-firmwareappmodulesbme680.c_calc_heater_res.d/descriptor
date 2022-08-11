@@ -1,0 +1,2 @@
+struct TYPE_2__ | par_gh3 int | par_gh1 int | par_gh2 int | res_heat_range int | res_heat_val int 
+function calc_heater_res long | temp int

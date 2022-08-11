@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 9,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 60,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 60,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversscsicsiostorcsio_hw.c_fwcap_to_fwspeed.d/extr_linuxdriversscsicsiostorcsio_hw.c_fwcap_to_fwspeed_O0::fwcap_to_fwspeed(70)"
+  }
+]

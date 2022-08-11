@@ -1,0 +1,7 @@
+struct mt76x0_rxwi | rssi int * 
+struct TYPE_8__ | chan struct TYPE_6__ * 
+struct TYPE_7__ | chandef struct TYPE_8__ 
+struct mt76x0_dev | ee struct TYPE_5__ * | mt76 struct TYPE_7__ 
+struct TYPE_6__ | band long 
+struct TYPE_5__ | lna_gain_2ghz int | rssi_offset_2ghz int * | lna_gain_5ghz int * | rssi_offset_5ghz int * 
+function mt76x0_phy_get_rssi int | dev struct mt76x0_dev * | rxwi struct mt76x0_rxwi *

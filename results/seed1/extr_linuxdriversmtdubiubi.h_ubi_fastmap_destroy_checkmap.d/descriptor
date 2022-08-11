@@ -1,0 +1,2 @@
+struct ubi_volume | dummy int 
+function ubi_fastmap_destroy_checkmap void | vol struct ubi_volume *

@@ -1,0 +1,3 @@
+struct nfs_direct_req | ds_cinfo int | mds_cinfo int | inode int 
+struct nfs_commit_info | completion_ops int * | dreq struct nfs_direct_req * | ds int * | mds int * | inode int 
+function nfs_init_cinfo_from_dreq void | cinfo struct nfs_commit_info * | dreq struct nfs_direct_req *

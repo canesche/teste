@@ -1,0 +1,3 @@
+struct oci_lob_self | offset long 
+struct TYPE_3__ | abstract long 
+function oci_blob_seek int | stream struct TYPE_3__ * | offset long | whence int | newoffset long *

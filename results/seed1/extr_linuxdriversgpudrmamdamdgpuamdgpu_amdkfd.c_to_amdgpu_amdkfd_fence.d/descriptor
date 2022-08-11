@@ -1,0 +1,3 @@
+struct dma_fence | dummy int 
+struct amdgpu_amdkfd_fence | dummy int 
+function to_amdgpu_amdkfd_fence struct amdgpu_amdkfd_fence * | f struct dma_fence *

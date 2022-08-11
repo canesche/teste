@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_FFmpeglibavformatsbgdec.c_lex_name.d/extr_FFmpeglibavformatsbgdec.c_lex_name_O0::lex_name(62)"
+  }
+]

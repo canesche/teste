@@ -1,0 +1,2 @@
+struct mm_id | stack long 
+function check_init_stack unsigned long * | mm_idp struct mm_id * | stack unsigned long *

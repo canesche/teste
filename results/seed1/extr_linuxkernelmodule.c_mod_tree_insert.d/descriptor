@@ -1,0 +1,2 @@
+struct module | dummy int 
+function mod_tree_insert void | mod struct module *

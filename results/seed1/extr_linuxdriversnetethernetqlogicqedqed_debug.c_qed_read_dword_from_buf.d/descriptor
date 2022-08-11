@@ -1,0 +1,1 @@
+function qed_read_dword_from_buf unsigned long | buf void * | offset unsigned long *

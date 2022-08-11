@@ -1,0 +1,2 @@
+struct fnic | state_flags unsigned long 
+function fnic_chk_state_flags_locked int | fnic struct fnic * | st_flags unsigned long

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmdrm_dp_dual_mode_helper.c_is_type2_adaptor.d/extr_linuxdriversgpudrmdrm_dp_dual_mode_helper.c_is_type2_adaptor_O0::is_type2_adaptor(63)"
+  }
+]

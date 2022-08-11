@@ -1,0 +1,3 @@
+struct TYPE_5__ | opaque struct TYPE_4__ * 
+struct TYPE_4__ | request_stop int 
+function SDL_AMediaCodecDummy_isInputBuffersValid int | acodec struct TYPE_5__ *

@@ -1,0 +1,4 @@
+struct pool | sectors_per_block int 
+struct TYPE_2__ | bi_size int 
+struct bio | bi_iter struct TYPE_2__ 
+function io_overlaps_block int | pool struct pool * | bio struct bio *

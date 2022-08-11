@@ -1,0 +1,2 @@
+struct qedr_qp_hwq_info | prod int | max_wr int | cons int 
+function qedr_wq_is_full int | wq struct qedr_qp_hwq_info *

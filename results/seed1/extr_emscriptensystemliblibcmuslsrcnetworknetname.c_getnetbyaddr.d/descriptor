@@ -1,0 +1,2 @@
+struct netent | dummy int 
+function getnetbyaddr struct netent * | net int | type int

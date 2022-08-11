@@ -1,0 +1,5 @@
+struct TYPE_5__ | chan struct TYPE_4__ * 
+struct TYPE_6__ | chandef struct TYPE_5__ 
+struct ieee80211_hw | conf struct TYPE_6__ 
+struct TYPE_4__ | band long 
+function rtlwifi_rate_mapping int | hw struct ieee80211_hw * | isht int | isvht int | desc_rate int

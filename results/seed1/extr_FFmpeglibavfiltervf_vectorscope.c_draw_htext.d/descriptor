@@ -1,0 +1,2 @@
+struct TYPE_3__ | data int ** | linesize int * 
+function draw_htext void | out struct TYPE_3__ * | x int | y int | o1 float | o2 float | txt const char * | color int const[4]

@@ -1,0 +1,2 @@
+struct pt_regs | dummy int 
+function is_sysenter_singlestep int | regs struct pt_regs *

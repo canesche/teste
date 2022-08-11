@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_FFmpeglibavcodecdca_core.c_rand_x96.d/extr_FFmpeglibavcodecdca_core.c_rand_x96_O0::rand_x96(63)"
+  }
+]

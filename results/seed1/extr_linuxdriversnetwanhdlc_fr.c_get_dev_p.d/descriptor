@@ -1,0 +1,3 @@
+struct pvc_device | main struct net_device * | ether struct net_device * 
+struct net_device | dummy int 
+function get_dev_p struct net_device ** | pvc struct pvc_device * | type int

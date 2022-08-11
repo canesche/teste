@@ -1,0 +1,3 @@
+struct dpu_qos_lut_tbl | nentry int | entries struct TYPE_2__ * 
+struct TYPE_2__ | fl long | lut int 
+function _dpu_plane_get_qos_lut int | tbl const struct dpu_qos_lut_tbl * | total_fl long

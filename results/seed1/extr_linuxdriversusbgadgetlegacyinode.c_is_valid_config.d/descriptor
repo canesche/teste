@@ -1,0 +1,2 @@
+struct usb_config_descriptor | bDescriptorType long | bLength unsigned int | bConfigurationValue long | bmAttributes int 
+function is_valid_config int | config struct usb_config_descriptor * | total unsigned int

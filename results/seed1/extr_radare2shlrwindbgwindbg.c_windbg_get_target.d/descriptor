@@ -1,0 +1,3 @@
+struct TYPE_5__ | target struct TYPE_4__ * | syncd int | io_ptr int 
+struct TYPE_4__ | uniqueid int 
+function windbg_get_target int | ctx struct TYPE_5__ *

@@ -1,0 +1,3 @@
+struct lola_stream | index int | opened long | master struct lola_stream * 
+struct lola_pcm | num_streams int | streams struct lola_stream * 
+function lola_cleanup_slave_streams void | pcm struct lola_pcm * | str struct lola_stream *

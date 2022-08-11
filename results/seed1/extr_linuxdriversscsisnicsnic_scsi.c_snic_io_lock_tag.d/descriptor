@@ -1,0 +1,2 @@
+struct snic | io_req_lock int * 
+function snic_io_lock_tag int * | snic struct snic * | tag int

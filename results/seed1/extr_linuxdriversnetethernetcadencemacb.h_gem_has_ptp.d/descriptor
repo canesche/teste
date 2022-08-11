@@ -1,0 +1,2 @@
+struct macb | caps int 
+function gem_has_ptp int | bp struct macb *

@@ -1,0 +1,4 @@
+struct splice_desc | len int 
+struct pipe_inode_info | dummy int 
+struct pipe_buffer | dummy int 
+function pipe_to_null int | info struct pipe_inode_info * | buf struct pipe_buffer * | sd struct splice_desc *

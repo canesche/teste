@@ -1,0 +1,2 @@
+struct device | dummy int 
+function s10_sdram_readable_reg int | dev struct device * | reg unsigned int

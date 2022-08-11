@@ -1,0 +1,3 @@
+struct msgqueue_entry | next struct msgqueue_entry * 
+struct TYPE_3__ | free struct msgqueue_entry * 
+function mqe_alloc struct msgqueue_entry * | msgq struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | content int 
+function compare_structs int | a const void * | b const void *

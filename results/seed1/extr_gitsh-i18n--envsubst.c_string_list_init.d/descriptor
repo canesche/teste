@@ -1,0 +1,2 @@
+struct TYPE_3__ | nitems_max long | nitems long | item int * 
+function string_list_init void | slp struct TYPE_3__ *

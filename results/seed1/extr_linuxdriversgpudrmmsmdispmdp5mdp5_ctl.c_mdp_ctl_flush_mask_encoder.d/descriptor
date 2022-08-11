@@ -1,0 +1,2 @@
+struct mdp5_interface | type long | num int 
+function mdp_ctl_flush_mask_encoder int | intf struct mdp5_interface *

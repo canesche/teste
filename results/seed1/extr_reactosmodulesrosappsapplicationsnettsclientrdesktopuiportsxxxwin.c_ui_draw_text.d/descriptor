@@ -1,0 +1,1 @@
+function ui_draw_text void | font int | flags int | opcode int | mixmode int | x int | y int | clipx int | clipy int | clipcx int | clipcy int | boxx int | boxy int | boxcx int | boxcy int | brush int * | bgcolour int | fgcolour int | text int * | length int

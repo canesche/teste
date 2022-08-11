@@ -1,0 +1,5 @@
+struct ieee80211_vif | type long 
+struct ath10k | hw struct TYPE_4__ * 
+struct TYPE_3__ | listen_interval int 
+struct TYPE_4__ | conf struct TYPE_3__ 
+function ath10k_peer_assoc_h_listen_intval int | ar struct ath10k * | vif struct ieee80211_vif *

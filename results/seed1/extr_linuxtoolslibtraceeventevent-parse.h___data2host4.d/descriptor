@@ -1,0 +1,2 @@
+struct tep_handle | host_bigendian long | file_bigendian long 
+function __data2host4 unsigned int | pevent struct tep_handle * | data unsigned int

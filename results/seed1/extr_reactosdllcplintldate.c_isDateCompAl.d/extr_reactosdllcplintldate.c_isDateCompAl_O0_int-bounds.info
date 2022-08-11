@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactosdllcplintldate.c_isDateCompAl.d/extr_reactosdllcplintldate.c_isDateCompAl_O0::isDateCompAl(65)"
+  }
+]

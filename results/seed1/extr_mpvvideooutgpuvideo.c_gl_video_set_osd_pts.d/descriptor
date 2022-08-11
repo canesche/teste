@@ -1,0 +1,2 @@
+struct gl_video | osd_pts double 
+function gl_video_set_osd_pts void | p struct gl_video * | pts double

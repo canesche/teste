@@ -1,0 +1,4 @@
+struct fbtft_par | info struct TYPE_3__ * 
+struct TYPE_4__ | xres int 
+struct TYPE_3__ | var struct TYPE_4__ 
+function construct_line_bitmap void | par struct fbtft_par * | dest int * | src short * | xs int | xe int | y int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmexynosexynos_dp.c_exynos_dp_mode_set.d/extr_linuxdriversgpudrmexynosexynos_dp.c_exynos_dp_mode_set_O0::exynos_dp_mode_set(64)"
+  }
+]

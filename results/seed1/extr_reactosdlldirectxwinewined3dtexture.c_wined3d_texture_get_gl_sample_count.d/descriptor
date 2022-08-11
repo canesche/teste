@@ -1,0 +1,4 @@
+struct TYPE_2__ | multisample_type long | multisample_quality int | format struct wined3d_format * 
+struct wined3d_texture | resource struct TYPE_2__ 
+struct wined3d_format | multisample_types unsigned int 
+function wined3d_texture_get_gl_sample_count unsigned int | texture const struct wined3d_texture *

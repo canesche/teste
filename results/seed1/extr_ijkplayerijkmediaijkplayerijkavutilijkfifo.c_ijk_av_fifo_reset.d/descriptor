@@ -1,0 +1,2 @@
+struct TYPE_3__ | rndx long | wndx long | buffer int | rptr int | wptr int 
+function ijk_av_fifo_reset void | f struct TYPE_3__ *

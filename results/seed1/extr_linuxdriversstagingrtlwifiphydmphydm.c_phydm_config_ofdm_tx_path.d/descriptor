@@ -1,0 +1,2 @@
+struct phy_dm_struct | dummy int 
+function phydm_config_ofdm_tx_path void | dm struct phy_dm_struct * | path int

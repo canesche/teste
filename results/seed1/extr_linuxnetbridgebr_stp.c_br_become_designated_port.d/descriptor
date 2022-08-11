@@ -1,0 +1,3 @@
+struct net_bridge_port | port_id int | designated_port int | designated_bridge int | designated_cost int | designated_root int | br struct net_bridge * 
+struct net_bridge | bridge_id int | root_path_cost int | designated_root int 
+function br_become_designated_port void | p struct net_bridge_port *

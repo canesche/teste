@@ -1,0 +1,2 @@
+struct proc | p_csflags int 
+function cs_restricted int | p struct proc *

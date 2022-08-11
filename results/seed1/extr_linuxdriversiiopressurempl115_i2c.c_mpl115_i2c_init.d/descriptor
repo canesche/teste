@@ -1,0 +1,2 @@
+struct device | dummy int 
+function mpl115_i2c_init int | dev struct device *

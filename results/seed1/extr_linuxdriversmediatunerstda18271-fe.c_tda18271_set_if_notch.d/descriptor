@@ -1,0 +1,3 @@
+struct tda18271_priv | tda18271_regs unsigned char * | mode int 
+struct dvb_frontend | tuner_priv struct tda18271_priv * 
+function tda18271_set_if_notch void | fe struct dvb_frontend *

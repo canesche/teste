@@ -1,0 +1,3 @@
+struct ib_ucm_sidr_rep_event_resp | qpn int | qkey int | status int 
+struct ib_cm_sidr_rep_event_param | qpn int | qkey int | status int 
+function ib_ucm_event_sidr_rep_get void | urep struct ib_ucm_sidr_rep_event_resp * | krep const struct ib_cm_sidr_rep_event_param *

@@ -1,0 +1,2 @@
+struct midi_buffer | pos_read long | pos_write long | full int 
+function midibuf_is_empty int | this struct midi_buffer *

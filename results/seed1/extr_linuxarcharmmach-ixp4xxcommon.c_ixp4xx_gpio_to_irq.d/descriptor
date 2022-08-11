@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function ixp4xx_gpio_to_irq int | chip struct gpio_chip * | gpio unsigned int

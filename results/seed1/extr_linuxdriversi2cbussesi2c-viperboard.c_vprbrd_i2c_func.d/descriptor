@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function vprbrd_i2c_func int | i2c struct i2c_adapter *

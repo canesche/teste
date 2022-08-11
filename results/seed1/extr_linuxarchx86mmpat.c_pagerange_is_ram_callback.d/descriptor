@@ -1,0 +1,2 @@
+struct pagerange_state | not_ram int | cur_pfn unsigned long | ram int 
+function pagerange_is_ram_callback int | initial_pfn unsigned long | total_nr_pages unsigned long | arg void *

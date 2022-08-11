@@ -1,0 +1,2 @@
+struct drm_display_mode | picture_aspect_ratio int 
+function get_aspect_ratio enum dc_aspect_ratio | mode_in const struct drm_display_mode *

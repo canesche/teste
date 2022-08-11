@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversscsistex.c_stex_choice_sleep_mic.d/extr_linuxdriversscsistex.c_stex_choice_sleep_mic_O0::stex_choice_sleep_mic(69)"
+  }
+]

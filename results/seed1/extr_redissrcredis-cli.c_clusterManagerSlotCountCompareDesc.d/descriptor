@@ -1,0 +1,2 @@
+struct TYPE_2__ | slots_count int 
+function clusterManagerSlotCountCompareDesc int | n1 const void * | n2 const void *

@@ -1,0 +1,1 @@
+function atapi_string void | dest char * | src const char * | len int

@@ -1,0 +1,3 @@
+struct TYPE_2__ | count unsigned int | list unsigned int * 
+struct sigmadsp | rate_constraints struct TYPE_2__ 
+function sigmadsp_rate_to_index int | sigmadsp struct sigmadsp * | rate unsigned int

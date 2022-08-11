@@ -1,0 +1,3 @@
+struct page | dummy int 
+struct inode | dummy int 
+function f2fs_init_acl int | inode struct inode * | dir struct inode * | ipage struct page * | dpage struct page *

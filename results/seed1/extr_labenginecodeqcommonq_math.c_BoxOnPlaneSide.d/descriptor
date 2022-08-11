@@ -1,0 +1,2 @@
+struct cplane_s | type int | dist float | signbits int | normal float * 
+function BoxOnPlaneSide int | emins float * | emaxs float * | p struct cplane_s *

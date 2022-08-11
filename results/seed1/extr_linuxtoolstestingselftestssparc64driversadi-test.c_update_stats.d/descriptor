@@ -1,0 +1,2 @@
+struct stats | total unsigned long | bytes unsigned long | count int 
+function update_stats void | ustats struct stats *const | measurement unsigned long | bytes unsigned long

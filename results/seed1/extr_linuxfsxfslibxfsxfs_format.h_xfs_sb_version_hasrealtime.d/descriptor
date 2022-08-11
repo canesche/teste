@@ -1,0 +1,2 @@
+struct xfs_sb | sb_rblocks long 
+function xfs_sb_version_hasrealtime int | sbp struct xfs_sb *

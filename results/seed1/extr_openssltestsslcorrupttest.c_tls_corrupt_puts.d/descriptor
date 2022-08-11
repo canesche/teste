@@ -1,0 +1,1 @@
+function tls_corrupt_puts int | bio int * | str const char *

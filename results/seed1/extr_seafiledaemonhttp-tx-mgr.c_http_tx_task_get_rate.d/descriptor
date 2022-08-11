@@ -1,0 +1,2 @@
+struct TYPE_3__ | last_tx_bytes int 
+function http_tx_task_get_rate int | task struct TYPE_3__ *

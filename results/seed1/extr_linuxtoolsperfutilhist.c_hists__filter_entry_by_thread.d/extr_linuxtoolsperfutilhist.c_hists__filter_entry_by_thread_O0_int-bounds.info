@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxtoolsperfutilhist.c_hists__filter_entry_by_thread.d/extr_linuxtoolsperfutilhist.c_hists__filter_entry_by_thread_O0::hists__filter_entry_by_thread(64)"
+  }
+]

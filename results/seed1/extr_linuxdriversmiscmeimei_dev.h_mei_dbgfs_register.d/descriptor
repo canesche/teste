@@ -1,0 +1,2 @@
+struct mei_device | dummy int 
+function mei_dbgfs_register int | dev struct mei_device * | name const char *

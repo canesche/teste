@@ -1,0 +1,1 @@
+function avpriv_get_trc_function_from_trc int * | trc enum AVColorTransferCharacteristic

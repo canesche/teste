@@ -1,0 +1,3 @@
+struct TYPE_2__ | integer long | decimal long 
+struct vpfe_ipipe_gic | en int | gain long | thr long | slope long | apply_lsc_gain int | nf2_thr_gain struct TYPE_2__ 
+function ipipe_validate_gic_params int | gic struct vpfe_ipipe_gic *

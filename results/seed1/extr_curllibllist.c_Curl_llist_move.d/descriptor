@@ -1,0 +1,3 @@
+struct curl_llist_element | next struct curl_llist_element * | prev struct curl_llist_element * 
+struct curl_llist | size long | tail struct curl_llist_element * | head struct curl_llist_element * 
+function Curl_llist_move void | list struct curl_llist * | e struct curl_llist_element * | to_list struct curl_llist * | to_e struct curl_llist_element *

@@ -1,0 +1,5 @@
+struct snd_ak4531 | private_data struct ensoniq * 
+struct TYPE_3__ | ak4531 int * 
+struct TYPE_4__ | es1370 struct TYPE_3__ 
+struct ensoniq | u struct TYPE_4__ 
+function snd_ensoniq_mixer_free_ak4531 void | ak4531 struct snd_ak4531 *

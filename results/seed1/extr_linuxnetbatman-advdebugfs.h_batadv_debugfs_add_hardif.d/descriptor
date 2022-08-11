@@ -1,0 +1,2 @@
+struct batadv_hard_iface | dummy int 
+function batadv_debugfs_add_hardif int | hard_iface struct batadv_hard_iface *

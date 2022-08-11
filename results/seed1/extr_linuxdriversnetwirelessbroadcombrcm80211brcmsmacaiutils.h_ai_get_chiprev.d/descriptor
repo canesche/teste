@@ -1,0 +1,2 @@
+struct si_pub | chiprev int 
+function ai_get_chiprev int | sih struct si_pub *

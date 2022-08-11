@@ -1,0 +1,2 @@
+struct in6_addr | s6_addr int * 
+function prefixmatch int | s const struct in6_addr * | d const struct in6_addr *

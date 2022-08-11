@@ -1,0 +1,3 @@
+struct cxgbi_tag_format | idx_bits unsigned int | color_bits unsigned int | idx_clr_mask unsigned int | rsvd_bits unsigned int 
+struct cxgbi_ppm | tformat struct cxgbi_tag_format 
+function cxgbi_ppm_decode_non_ddp_tag unsigned int | ppm struct cxgbi_ppm * | tag unsigned int

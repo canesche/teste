@@ -1,0 +1,2 @@
+struct prefetch_set | blocks int * 
+function prefetch_wipe void | p struct prefetch_set *

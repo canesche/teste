@@ -1,0 +1,2 @@
+struct stmmac_tc_entry | prio long | is_frag long | is_last long | in_hw long | in_use int 
+function dwmac5_rxp_get_next_entry struct stmmac_tc_entry * | entries struct stmmac_tc_entry * | count unsigned int | curr_prio long

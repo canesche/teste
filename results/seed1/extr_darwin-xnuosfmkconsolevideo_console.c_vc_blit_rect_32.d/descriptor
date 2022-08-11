@@ -1,0 +1,2 @@
+struct TYPE_2__ | v_rowbytes int | v_baseaddr long 
+function vc_blit_rect_32 void | x int | y int | bx int | width int | height int | sourceRow int | backRow int | dataPtr const unsigned char * | backPtr unsigned int * | flags unsigned int

@@ -1,0 +1,2 @@
+struct _Locale_numeric | dummy int 
+function _WLocale_thousands_sep int | lnum struct _Locale_numeric *

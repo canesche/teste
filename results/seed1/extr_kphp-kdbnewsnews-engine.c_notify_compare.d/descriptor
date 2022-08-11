@@ -1,0 +1,2 @@
+struct notify_item | type long | owner long | place long | date long | random_tag long 
+function notify_compare int | a const void * | b const void *

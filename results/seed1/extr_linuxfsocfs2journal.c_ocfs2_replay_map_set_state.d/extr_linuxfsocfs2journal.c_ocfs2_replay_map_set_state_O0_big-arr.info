@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxfsocfs2journal.c_ocfs2_replay_map_set_state.d/extr_linuxfsocfs2journal.c_ocfs2_replay_map_set_state_O0::ocfs2_replay_map_set_state(64)"
+  }
+]

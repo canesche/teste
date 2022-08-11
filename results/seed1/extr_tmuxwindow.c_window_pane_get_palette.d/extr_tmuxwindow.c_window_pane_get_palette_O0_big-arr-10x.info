@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_tmuxwindow.c_window_pane_get_palette.d/extr_tmuxwindow.c_window_pane_get_palette_O0::window_pane_get_palette(63)"
+  }
+]

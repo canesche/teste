@@ -1,0 +1,2 @@
+struct vc_data | vc_visible_origin unsigned long | vc_origin unsigned long | vc_size_row int | vc_scr_end long 
+function vc_scrolldelta_helper void | c struct vc_data * | lines int | rolled_over unsigned int | base void * | size unsigned int

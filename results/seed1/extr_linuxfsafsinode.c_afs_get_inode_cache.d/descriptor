@@ -1,0 +1,2 @@
+struct afs_vnode | dummy int 
+function afs_get_inode_cache void | vnode struct afs_vnode *

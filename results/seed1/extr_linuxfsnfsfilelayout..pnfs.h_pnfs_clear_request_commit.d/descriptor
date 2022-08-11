@@ -1,0 +1,3 @@
+struct nfs_page | dummy int 
+struct nfs_commit_info | dummy int 
+function pnfs_clear_request_commit int | req struct nfs_page * | cinfo struct nfs_commit_info *

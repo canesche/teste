@@ -1,0 +1,3 @@
+struct omap_gem_object | flags int | sgt struct TYPE_2__ * 
+struct TYPE_2__ | nents int 
+function omap_gem_is_contiguous int | omap_obj struct omap_gem_object *

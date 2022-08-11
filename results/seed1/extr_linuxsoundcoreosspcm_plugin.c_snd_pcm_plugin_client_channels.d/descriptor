@@ -1,0 +1,3 @@
+struct snd_pcm_plugin_channel | dummy int 
+struct snd_pcm_plugin | buf_channels struct snd_pcm_plugin_channel * 
+function snd_pcm_plugin_client_channels int | plugin struct snd_pcm_plugin * | frames int | channels struct snd_pcm_plugin_channel **

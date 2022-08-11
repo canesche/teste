@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediadvb-frontendsdib8000.c_fft_to_mode.d/extr_linuxdriversmediadvb-frontendsdib8000.c_fft_to_mode_O0::fft_to_mode(70)"
+  }
+]

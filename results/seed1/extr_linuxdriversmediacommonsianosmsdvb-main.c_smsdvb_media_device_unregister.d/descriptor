@@ -1,0 +1,2 @@
+struct smsdvb_client_t | dummy int 
+function smsdvb_media_device_unregister void | client struct smsdvb_client_t *

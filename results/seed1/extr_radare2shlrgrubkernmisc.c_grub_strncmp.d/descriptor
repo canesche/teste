@@ -1,0 +1,1 @@
+function grub_strncmp int | s1 const char * | s2 const char * | n long

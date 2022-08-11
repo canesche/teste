@@ -1,0 +1,2 @@
+struct firedtv_tuner_status | ca_initialization_status int | ca_error_flag long | ca_dvb_flag int | ca_module_present_status int 
+function fdtv_ca_ready int | stat struct firedtv_tuner_status *

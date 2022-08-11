@@ -1,0 +1,2 @@
+struct exynos_tmu_data | soc long | reference_voltage int | gain int 
+function get_con_reg int | data struct exynos_tmu_data * | con int

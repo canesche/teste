@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxtoolsperfarchx86utilintel-bts.c_intel_bts_first_wrap.d/extr_linuxtoolsperfarchx86utilintel-bts.c_intel_bts_first_wrap_O0::intel_bts_first_wrap(61)"
+  }
+]

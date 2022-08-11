@@ -1,0 +1,3 @@
+struct lbs_private | dummy int 
+struct cmd_header | dummy int 
+function lbs_cmd_async_callback int | priv struct lbs_private * | extra unsigned long | resp struct cmd_header *

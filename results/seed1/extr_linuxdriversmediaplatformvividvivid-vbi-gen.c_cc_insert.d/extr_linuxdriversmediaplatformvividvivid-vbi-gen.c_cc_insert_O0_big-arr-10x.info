@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 54,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 266,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediaplatformvividvivid-vbi-gen.c_cc_insert.d/extr_linuxdriversmediaplatformvividvivid-vbi-gen.c_cc_insert_O0::cc_insert(61)"
+  }
+]

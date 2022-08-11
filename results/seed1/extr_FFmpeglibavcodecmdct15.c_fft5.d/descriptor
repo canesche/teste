@@ -1,0 +1,2 @@
+struct TYPE_5__ | re int | im int 
+function fft5 void | out struct TYPE_5__ * | in struct TYPE_5__ * | exptab struct TYPE_5__ [2]

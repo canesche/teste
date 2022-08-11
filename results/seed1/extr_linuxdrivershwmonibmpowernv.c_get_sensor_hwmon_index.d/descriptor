@@ -1,0 +1,3 @@
+struct sensor_data | opal_index long | type long | hwmon_index int 
+struct TYPE_2__ | hwmon_index int 
+function get_sensor_hwmon_index int | sdata struct sensor_data * | sdata_table struct sensor_data * | count int

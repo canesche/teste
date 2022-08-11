@@ -1,0 +1,4 @@
+struct et8ek8_reglist | dummy int 
+struct et8ek8_meta_reglist | reglist struct TYPE_2__ * 
+struct TYPE_2__ | ptr struct et8ek8_reglist * 
+function et8ek8_reglist_first struct et8ek8_reglist ** | meta struct et8ek8_meta_reglist *

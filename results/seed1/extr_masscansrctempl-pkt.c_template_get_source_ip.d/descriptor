@@ -1,0 +1,3 @@
+struct TemplateSet | pkts struct TemplatePacket * 
+struct TemplatePacket | packet unsigned char * | offset_ip unsigned int 
+function template_get_source_ip unsigned int | tmplset struct TemplateSet *

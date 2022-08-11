@@ -1,0 +1,17 @@
+struct TYPE_22__ | an_log_value int * 
+struct TYPE_23__ | c struct TYPE_22__ 
+struct hpi_response | u struct TYPE_23__ 
+struct TYPE_16__ | param1 int | attribute int | param2 int 
+struct TYPE_17__ | c struct TYPE_16__ 
+struct hpi_message | u struct TYPE_17__ 
+struct TYPE_14__ | sample_rate int | source_index void * | source void * 
+struct TYPE_26__ | format int 
+struct TYPE_25__ | format int 
+struct TYPE_24__ | phantom_state void * 
+struct TYPE_21__ | an_log int * | flags int 
+struct TYPE_20__ | mode void * 
+struct TYPE_19__ | source_node_index void * | source_node_type void * 
+struct TYPE_18__ | control_type int 
+struct TYPE_15__ | clk struct TYPE_14__ | aes3rx struct TYPE_26__ | aes3tx struct TYPE_25__ | microphone struct TYPE_24__ | vol struct TYPE_21__ | mode struct TYPE_20__ | mux struct TYPE_19__ | i struct TYPE_18__ 
+struct hpi_control_cache_single | u struct TYPE_15__ 
+function hpi_cmn_control_cache_sync_to_msg_single void | pC struct hpi_control_cache_single * | phm struct hpi_message * | phr struct hpi_response *

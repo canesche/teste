@@ -1,0 +1,3 @@
+struct ra_hwdec | driver struct TYPE_2__ * 
+struct TYPE_2__ | imgfmts int * 
+function ra_hwdec_test_format int | hwdec struct ra_hwdec * | imgfmt int

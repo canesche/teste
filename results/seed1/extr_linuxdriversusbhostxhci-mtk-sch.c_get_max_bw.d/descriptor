@@ -1,0 +1,3 @@
+struct mu3h_sch_ep_info | esit int | num_budget_microframes int 
+struct mu3h_sch_bw_info | bus_bw int * 
+function get_max_bw int | sch_bw struct mu3h_sch_bw_info * | sch_ep struct mu3h_sch_ep_info * | offset int

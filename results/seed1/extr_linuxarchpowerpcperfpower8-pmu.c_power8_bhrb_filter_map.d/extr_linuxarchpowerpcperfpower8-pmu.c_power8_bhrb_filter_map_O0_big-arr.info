@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxarchpowerpcperfpower8-pmu.c_power8_bhrb_filter_map.d/extr_linuxarchpowerpcperfpower8-pmu.c_power8_bhrb_filter_map_O0::power8_bhrb_filter_map(67)"
+  }
+]

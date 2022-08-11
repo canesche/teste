@@ -1,0 +1,2 @@
+struct ieee80211_network | rates_ex_len long | rates_len int 
+function ieee80211_is_54g short | net const struct ieee80211_network *

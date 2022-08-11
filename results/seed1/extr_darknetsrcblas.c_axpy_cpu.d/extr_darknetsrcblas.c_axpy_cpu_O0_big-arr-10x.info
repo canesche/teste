@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 204,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_darknetsrcblas.c_axpy_cpu.d/extr_darknetsrcblas.c_axpy_cpu_O0::axpy_cpu(60)"
+  }
+]

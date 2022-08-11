@@ -1,0 +1,2 @@
+struct ff_format_desc | audio_codec int 
+function ff_format_desc_audio int | format_desc const struct ff_format_desc *

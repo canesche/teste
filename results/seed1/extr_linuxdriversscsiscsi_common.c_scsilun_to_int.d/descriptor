@@ -1,0 +1,2 @@
+struct scsi_lun | scsi_lun long * 
+function scsilun_to_int int | scsilun struct scsi_lun *

@@ -1,0 +1,2 @@
+struct cfpkt | dummy int 
+function cfpkt_tonative void * | pkt struct cfpkt *

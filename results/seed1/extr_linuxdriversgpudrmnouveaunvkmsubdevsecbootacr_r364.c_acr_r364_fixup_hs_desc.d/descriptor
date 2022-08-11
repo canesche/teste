@@ -1,0 +1,8 @@
+struct nvkm_secboot | wpr_size long 
+struct nvkm_gpuobj | addr int | size int 
+struct TYPE_6__ | no_regions int | region_props struct TYPE_5__ * 
+struct acr_r364_hsflcn_desc | wpr_region_id int | ucode_blob_base int | ucode_blob_size int | regions struct TYPE_6__ 
+struct acr_r352 | func struct TYPE_4__ * | ls_blob struct nvkm_gpuobj * 
+struct TYPE_5__ | start_addr int | end_addr int | region_id int | read_mask int | write_mask int | client_mask int | shadow_mem_start_addr int 
+struct TYPE_4__ | shadow_blob long 
+function acr_r364_fixup_hs_desc void | acr struct acr_r352 * | sb struct nvkm_secboot * | _desc void *

@@ -1,0 +1,3 @@
+struct scsi_qla_host | host struct TYPE_2__ * 
+struct TYPE_2__ | active_mode void * 
+function qlt_clear_mode void | vha struct scsi_qla_host *

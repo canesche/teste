@@ -1,0 +1,2 @@
+struct scb | dummy int 
+function ahc_set_transaction_tag void | scb struct scb * | enabled int | type int

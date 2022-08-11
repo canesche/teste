@@ -1,0 +1,1 @@
+value(npiv_wwpn) == 10, value(npiv_wwnn) == 10, length(target_lport_ptr) == 100, length(vha) == 100

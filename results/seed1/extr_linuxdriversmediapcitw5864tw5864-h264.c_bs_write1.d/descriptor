@@ -1,0 +1,2 @@
+struct bs | ptr int * | buf_end int * | bits_left int 
+function bs_write1 void | s struct bs * | bit int

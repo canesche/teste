@@ -1,0 +1,2 @@
+struct nfp_bar | bitsize long | index int 
+function bar_cmp int | aptr const void * | bptr const void *

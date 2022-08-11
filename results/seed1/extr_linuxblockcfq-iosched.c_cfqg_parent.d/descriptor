@@ -1,0 +1,2 @@
+struct cfq_group | dummy int 
+function cfqg_parent struct cfq_group * | cfqg struct cfq_group *

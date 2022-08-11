@@ -1,0 +1,3 @@
+struct TYPE_2__ | speed int | width int | type int 
+struct i40e_hw | bus struct TYPE_2__ 
+function i40e_set_pci_config_data void | hw struct i40e_hw * | link_status int

@@ -1,0 +1,1 @@
+function set_socket_nosigpipe int | sock int

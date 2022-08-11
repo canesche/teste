@@ -1,0 +1,1 @@
+value(rqst_prescaler) == 255, length(prescale_div) == 65025, length(tb_clk_div) == 65025

@@ -1,0 +1,1 @@
+value(cpu) == 10, value(trapnr) == 10, value(err_code) == 10, length(regs) == 100, length(send_ready) == 100

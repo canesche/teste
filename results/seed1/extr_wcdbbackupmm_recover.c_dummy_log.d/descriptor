@@ -1,0 +1,1 @@
+function dummy_log void | prio int | msg const char *

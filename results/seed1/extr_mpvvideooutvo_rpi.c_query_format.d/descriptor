@@ -1,0 +1,2 @@
+struct vo | dummy int 
+function query_format int | vo struct vo * | format int

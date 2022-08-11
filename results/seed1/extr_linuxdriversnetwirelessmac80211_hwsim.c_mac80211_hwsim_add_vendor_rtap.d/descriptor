@@ -1,0 +1,2 @@
+struct sk_buff | dummy int 
+function mac80211_hwsim_add_vendor_rtap void | skb struct sk_buff *

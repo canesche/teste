@@ -1,0 +1,4 @@
+struct drbd_request | dummy int 
+struct drbd_peer_device | connection struct drbd_connection * 
+struct drbd_connection | req_next struct drbd_request * 
+function set_if_null_req_next void | peer_device struct drbd_peer_device * | req struct drbd_request *

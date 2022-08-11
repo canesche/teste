@@ -1,0 +1,6 @@
+struct vgic_v3_cpu_if | vgic_ap0r int * | vgic_ap1r int * 
+struct sys_reg_params | regval int | is_write long 
+struct TYPE_3__ | vgic_v3 struct vgic_v3_cpu_if 
+struct TYPE_4__ | vgic_cpu struct TYPE_3__ 
+struct kvm_vcpu | arch struct TYPE_4__ 
+function vgic_v3_access_apr_reg void | vcpu struct kvm_vcpu * | p struct sys_reg_params * | apr unsigned long | idx unsigned long

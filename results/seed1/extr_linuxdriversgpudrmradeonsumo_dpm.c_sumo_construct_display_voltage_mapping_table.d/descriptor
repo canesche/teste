@@ -1,0 +1,4 @@
+struct sumo_disp_clock_voltage_mapping_table | display_clock_frequency long * | num_max_voltage_levels unsigned long 
+struct radeon_device | dummy int 
+struct TYPE_3__ | ulMaximumSupportedCLK long 
+function sumo_construct_display_voltage_mapping_table void | rdev struct radeon_device * | disp_clk_voltage_mapping_table struct sumo_disp_clock_voltage_mapping_table * | table struct TYPE_3__ *

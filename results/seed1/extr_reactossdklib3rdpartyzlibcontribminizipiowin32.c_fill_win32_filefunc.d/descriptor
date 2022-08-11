@@ -1,0 +1,2 @@
+struct TYPE_3__ | opaque int * | zerror_file int | zclose_file int | zseek_file int | ztell_file int | zwrite_file int | zread_file int | zopen_file int 
+function fill_win32_filefunc void | pzlib_filefunc_def struct TYPE_3__ *

@@ -1,0 +1,3 @@
+struct irq_domain | dummy int 
+struct TYPE_2__ | irqdomain struct irq_domain * 
+function mp_ioapic_irqdomain struct irq_domain * | ioapic int

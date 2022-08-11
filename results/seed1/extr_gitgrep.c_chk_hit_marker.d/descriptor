@@ -1,0 +1,5 @@
+struct TYPE_5__ | right struct grep_expr * | left struct TYPE_4__ * 
+struct TYPE_6__ | binary struct TYPE_5__ 
+struct grep_expr | node long | hit int | u struct TYPE_6__ 
+struct TYPE_4__ | hit int 
+function chk_hit_marker int | x struct grep_expr *

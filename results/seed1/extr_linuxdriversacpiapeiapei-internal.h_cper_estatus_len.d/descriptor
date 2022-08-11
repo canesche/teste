@@ -1,0 +1,2 @@
+struct acpi_hest_generic_status | data_length long | raw_data_length long | raw_data_offset long 
+function cper_estatus_len long | estatus struct acpi_hest_generic_status *

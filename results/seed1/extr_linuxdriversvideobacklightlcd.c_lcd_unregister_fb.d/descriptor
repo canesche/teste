@@ -1,0 +1,2 @@
+struct lcd_device | dummy int 
+function lcd_unregister_fb void | ld struct lcd_device *

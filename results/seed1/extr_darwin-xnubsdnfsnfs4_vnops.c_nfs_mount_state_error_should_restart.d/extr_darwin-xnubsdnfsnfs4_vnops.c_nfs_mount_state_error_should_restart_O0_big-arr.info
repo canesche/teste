@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_darwin-xnubsdnfsnfs4_vnops.c_nfs_mount_state_error_should_restart.d/extr_darwin-xnubsdnfsnfs4_vnops.c_nfs_mount_state_error_should_restart_O0::nfs_mount_state_error_should_restart(68)"
+  }
+]

@@ -1,0 +1,2 @@
+struct spu_context | prof_priv_kref void * 
+function spu_get_profile_private_kref void * | ctx struct spu_context *

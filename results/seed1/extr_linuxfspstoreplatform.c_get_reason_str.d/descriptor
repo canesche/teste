@@ -1,0 +1,1 @@
+function get_reason_str const char * | reason enum kmsg_dump_reason

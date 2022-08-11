@@ -1,0 +1,2 @@
+struct vi_sdma_mqd | dummy int 
+function get_sdma_mqd struct vi_sdma_mqd * | mqd void *

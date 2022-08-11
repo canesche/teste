@@ -1,0 +1,2 @@
+struct pvr2_channel | input_mask unsigned int 
+function pvr2_channel_get_limited_inputs unsigned int | cp struct pvr2_channel *

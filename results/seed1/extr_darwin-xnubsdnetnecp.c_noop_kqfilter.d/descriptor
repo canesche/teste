@@ -1,0 +1,4 @@
+struct knote | dummy int 
+struct kevent_internal_s | dummy int 
+struct fileproc | dummy int 
+function noop_kqfilter int | fp struct fileproc * | kn struct knote * | kev struct kevent_internal_s * | ctx int

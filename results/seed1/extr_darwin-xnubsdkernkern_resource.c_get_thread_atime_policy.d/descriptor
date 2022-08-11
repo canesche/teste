@@ -1,0 +1,2 @@
+struct uthread | uu_flag int 
+function get_thread_atime_policy int | ut struct uthread *

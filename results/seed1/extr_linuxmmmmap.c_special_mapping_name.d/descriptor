@@ -1,0 +1,3 @@
+struct vm_special_mapping | name const char * 
+struct vm_area_struct | vm_private_data long 
+function special_mapping_name const char * | vma struct vm_area_struct *

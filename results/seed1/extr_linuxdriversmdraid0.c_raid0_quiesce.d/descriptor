@@ -1,0 +1,2 @@
+struct mddev | dummy int 
+function raid0_quiesce void | mddev struct mddev * | quiesce int

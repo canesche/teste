@@ -1,0 +1,4 @@
+struct topology_entry | nl int 
+struct topology_core | dummy int 
+struct topology_container | dummy int 
+function next_tle union topology_entry * | tle union topology_entry *

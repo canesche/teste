@@ -1,0 +1,2 @@
+struct php_crypt_extended_data | initialized int | old_salt long | saltbits long | old_rawkey1 long | old_rawkey0 long 
+function des_init_local void | data struct php_crypt_extended_data *

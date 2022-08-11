@@ -1,0 +1,2 @@
+struct TYPE_3__ | curPos long | buffer long 
+function _pico_memstream_tell long | s struct TYPE_3__ *

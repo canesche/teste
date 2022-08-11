@@ -1,0 +1,5 @@
+struct TYPE_6__ | num int | den int 
+struct TYPE_8__ | den int | num int 
+struct TYPE_9__ | frame_rate struct TYPE_6__ | time_base struct TYPE_8__ | src struct TYPE_7__ * 
+struct TYPE_7__ | inputs struct TYPE_9__ ** 
+function config_output int | outlink struct TYPE_9__ *

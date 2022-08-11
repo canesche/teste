@@ -1,0 +1,4 @@
+struct rc_dev | priv struct mceusb_dev * 
+struct TYPE_2__ | tx_mask_normal long 
+struct mceusb_dev | num_txports int | tx_mask int | flags struct TYPE_2__ 
+function mceusb_set_tx_mask int | dev struct rc_dev * | mask int

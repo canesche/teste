@@ -1,0 +1,3 @@
+struct ipr_ioarcb_ata_regs | ctl int | hob_lbah int | hob_lbam int | hob_lbal int | hob_nsect int | hob_feature int | command int | device int | lbah int | lbam int | lbal int | nsect int | feature int 
+struct ata_taskfile | ctl int | hob_lbah int | hob_lbam int | hob_lbal int | hob_nsect int | hob_feature int | command int | device int | lbah int | lbam int | lbal int | nsect int | feature int 
+function ipr_copy_sata_tf void | regs struct ipr_ioarcb_ata_regs * | tf struct ata_taskfile *

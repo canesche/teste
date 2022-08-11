@@ -1,0 +1,3 @@
+struct mtk_pinctrl_group | pin long 
+struct mtk_pinctrl | ngroups int | groups struct mtk_pinctrl_group * 
+function mtk_pctrl_find_group_by_pin struct mtk_pinctrl_group * | pctl struct mtk_pinctrl * | pin long

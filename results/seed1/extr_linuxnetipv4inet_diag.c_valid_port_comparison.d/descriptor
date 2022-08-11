@@ -1,0 +1,2 @@
+struct inet_diag_bc_op | dummy int 
+function valid_port_comparison int | op const struct inet_diag_bc_op * | len int | min_len int *

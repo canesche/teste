@@ -1,0 +1,3 @@
+struct moxart_desc | sglen unsigned int | sg struct TYPE_2__ * 
+struct TYPE_2__ | len long 
+function moxart_dma_desc_size unsigned long | d struct moxart_desc * | completed_sgs unsigned int

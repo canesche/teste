@@ -1,0 +1,4 @@
+struct iscsi_bd | buffer_length long 
+struct TYPE_2__ | bd_tbl struct iscsi_bd * 
+struct bnx2i_cmd | io_tbl struct TYPE_2__ 
+function bnx2i_get_write_cmd_bd_idx void | cmd struct bnx2i_cmd * | buf_off long | start_bd_off long * | start_bd_idx long *

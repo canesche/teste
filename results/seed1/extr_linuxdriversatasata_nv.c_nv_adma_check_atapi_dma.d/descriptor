@@ -1,0 +1,4 @@
+struct nv_adma_port_priv | flags int 
+struct ata_queued_cmd | ap struct TYPE_2__ * 
+struct TYPE_2__ | private_data struct nv_adma_port_priv * 
+function nv_adma_check_atapi_dma int | qc struct ata_queued_cmd *

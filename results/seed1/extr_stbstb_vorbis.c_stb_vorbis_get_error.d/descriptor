@@ -1,0 +1,2 @@
+struct TYPE_3__ | error int 
+function stb_vorbis_get_error int | f struct TYPE_3__ *

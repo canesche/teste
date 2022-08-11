@@ -1,0 +1,1 @@
+function convert_filter void | filter enum gs_sample_filter | min_filter int * | mag_filter int *

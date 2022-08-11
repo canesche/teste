@@ -1,0 +1,2 @@
+struct agp_memory | dummy int 
+function i460_tlb_flush void | mem struct agp_memory *

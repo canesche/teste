@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversstaginggreybuslight.c_get_conn_from_light.d/extr_linuxdriversstaginggreybuslight.c_get_conn_from_light_O0::get_conn_from_light(64)"
+  }
+]

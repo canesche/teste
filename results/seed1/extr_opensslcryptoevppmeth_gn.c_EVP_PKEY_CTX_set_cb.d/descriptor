@@ -1,0 +1,2 @@
+struct TYPE_3__ | pkey_gencb int * 
+function EVP_PKEY_CTX_set_cb void | ctx struct TYPE_3__ * | cb int *

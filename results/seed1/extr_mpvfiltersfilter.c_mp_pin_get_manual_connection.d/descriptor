@@ -1,0 +1,3 @@
+struct mp_pin | manual_connection struct mp_filter * 
+struct mp_filter | dummy int 
+function mp_pin_get_manual_connection struct mp_filter * | p struct mp_pin *

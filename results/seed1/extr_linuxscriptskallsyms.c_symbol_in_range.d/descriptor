@@ -1,0 +1,3 @@
+struct sym_entry | addr long 
+struct addr_range | start long | end long 
+function symbol_in_range int | s struct sym_entry * | ranges struct addr_range * | entries int

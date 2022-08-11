@@ -1,0 +1,2 @@
+struct ddcb | priv int * 
+function ddcb_mark_cleared void | pddcb struct ddcb *

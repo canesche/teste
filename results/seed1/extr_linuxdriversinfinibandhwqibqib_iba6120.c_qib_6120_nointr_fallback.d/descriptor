@@ -1,0 +1,2 @@
+struct qib_devdata | dummy int 
+function qib_6120_nointr_fallback int | dd struct qib_devdata *

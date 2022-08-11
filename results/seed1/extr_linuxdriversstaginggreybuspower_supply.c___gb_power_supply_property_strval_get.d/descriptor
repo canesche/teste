@@ -1,0 +1,3 @@
+struct power_supply_propval | strval int 
+struct gb_power_supply | serial_number int | manufacturer int | model_name int 
+function __gb_power_supply_property_strval_get int | gbpsy struct gb_power_supply * | psp enum power_supply_property | val union power_supply_propval *

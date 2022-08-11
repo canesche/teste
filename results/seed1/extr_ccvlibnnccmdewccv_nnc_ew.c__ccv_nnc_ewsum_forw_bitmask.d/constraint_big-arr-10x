@@ -1,0 +1,1 @@
+value(input_size) == 10, value(output_size) == 10, value(input_bitmask_size) == 10, value(output_bitmask_size) == 10, length(input_bitmasks) == 100, length(output_bitmasks) == 100

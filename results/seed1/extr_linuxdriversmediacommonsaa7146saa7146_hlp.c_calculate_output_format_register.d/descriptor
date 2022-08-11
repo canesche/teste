@@ -1,0 +1,2 @@
+struct saa7146_dev | dummy int 
+function calculate_output_format_register void | saa struct saa7146_dev * | palette int | clip_format int *

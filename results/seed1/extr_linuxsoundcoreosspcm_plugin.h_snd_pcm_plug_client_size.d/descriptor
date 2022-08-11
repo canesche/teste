@@ -1,0 +1,2 @@
+struct snd_pcm_substream | dummy int 
+function snd_pcm_plug_client_size int | handle struct snd_pcm_substream * | drv_size int

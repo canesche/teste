@@ -1,0 +1,3 @@
+struct TYPE_5__ | nSrc int | a struct TYPE_4__ * 
+struct TYPE_4__ | iCursor int | pTab int * 
+function tableWithCursor int * | pList struct TYPE_5__ * | iCursor int

@@ -1,0 +1,2 @@
+struct bcm_sf2_priv | core_reg_align int 
+function bcm_sf2_mangle_addr int | priv struct bcm_sf2_priv * | off int

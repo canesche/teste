@@ -1,0 +1,1 @@
+function ecryptfs_get_versions void | major int * | minor int * | file_version int *

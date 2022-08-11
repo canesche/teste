@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_obs-studiolibobsutilbase.c_base_get_log_handler.d/extr_obs-studiolibobsutilbase.c_base_get_log_handler_O0::base_get_log_handler(63)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | resp_size long long | valid long | processed long | invalid long 
+function reset_struct void | glog struct TYPE_3__ *

@@ -1,0 +1,4 @@
+struct opregion_acpi | csts long 
+struct notifier_block | dummy int 
+struct TYPE_2__ | acpi struct opregion_acpi * 
+function psb_intel_opregion_video_event int | nb struct notifier_block * | val unsigned long | data void *

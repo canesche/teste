@@ -1,0 +1,3 @@
+struct ttm_mem_type_manager | dummy int 
+struct ttm_mem_reg | mm_node void * 
+function ttm_bo_man_put_node void | man struct ttm_mem_type_manager * | mem struct ttm_mem_reg *

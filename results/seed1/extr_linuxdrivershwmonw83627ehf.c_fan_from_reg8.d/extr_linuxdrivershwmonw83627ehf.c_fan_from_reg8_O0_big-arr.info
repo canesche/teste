@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdrivershwmonw83627ehf.c_fan_from_reg8.d/extr_linuxdrivershwmonw83627ehf.c_fan_from_reg8_O0::fan_from_reg8(61)"
+  }
+]

@@ -1,0 +1,4 @@
+struct TYPE_4__ | ShortData long 
+struct TYPE_3__ | shortData long 
+struct ba_record | bValid int | BaStartSeqCtrl struct TYPE_4__ | DialogToken long | BaTimeoutValue long | BaParamSet struct TYPE_3__ 
+function ResetBaEntry void | pBA struct ba_record *

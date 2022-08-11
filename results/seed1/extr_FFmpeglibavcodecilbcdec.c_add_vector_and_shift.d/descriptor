@@ -1,0 +1,1 @@
+function add_vector_and_shift void | out int * | in1 const int * | in2 const int * | length int | shift int

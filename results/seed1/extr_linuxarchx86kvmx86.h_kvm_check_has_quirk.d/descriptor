@@ -1,0 +1,3 @@
+struct TYPE_2__ | disabled_quirks int 
+struct kvm | arch struct TYPE_2__ 
+function kvm_check_has_quirk int | kvm struct kvm * | quirk int

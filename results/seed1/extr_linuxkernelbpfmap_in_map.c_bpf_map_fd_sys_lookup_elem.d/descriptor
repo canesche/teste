@@ -1,0 +1,2 @@
+struct bpf_map | id int 
+function bpf_map_fd_sys_lookup_elem int | ptr void *

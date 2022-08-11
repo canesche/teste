@@ -1,0 +1,3 @@
+struct scatterlist | dummy int 
+struct device | dummy int 
+function ps3_sb_unmap_sg void | _dev struct device * | sg struct scatterlist * | nents int | direction enum dma_data_direction | attrs unsigned long

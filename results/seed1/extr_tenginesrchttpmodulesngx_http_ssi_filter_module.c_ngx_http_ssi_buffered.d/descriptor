@@ -1,0 +1,3 @@
+struct TYPE_5__ | buf long | in long 
+struct TYPE_6__ | buffered int 
+function ngx_http_ssi_buffered void | r struct TYPE_6__ * | ctx struct TYPE_5__ *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | sync_type int | opaque int * | sync_clock void * 
+struct ff_demuxer | clock struct TYPE_2__ | video_decoder int * | audio_decoder int * 
+function set_clock_sync_type int | demuxer struct ff_demuxer *

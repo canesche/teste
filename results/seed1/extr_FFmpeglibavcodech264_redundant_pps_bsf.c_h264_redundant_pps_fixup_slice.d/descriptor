@@ -1,0 +1,3 @@
+struct TYPE_6__ | slice_qp_delta int 
+struct TYPE_5__ | current_pic_init_qp int | global_pic_init_qp int 
+function h264_redundant_pps_fixup_slice int | ctx struct TYPE_5__ * | slice struct TYPE_6__ *

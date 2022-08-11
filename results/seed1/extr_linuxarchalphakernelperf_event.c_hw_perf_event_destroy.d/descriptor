@@ -1,0 +1,2 @@
+struct perf_event | dummy int 
+function hw_perf_event_destroy void | event struct perf_event *

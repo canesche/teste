@@ -1,0 +1,3 @@
+struct tty_struct | index unsigned long 
+struct nozomi | dummy int 
+function get_dc_by_tty struct nozomi * | tty const struct tty_struct *

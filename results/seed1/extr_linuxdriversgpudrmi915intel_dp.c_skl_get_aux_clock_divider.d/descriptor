@@ -1,0 +1,2 @@
+struct intel_dp | dummy int 
+function skl_get_aux_clock_divider int | intel_dp struct intel_dp * | index int

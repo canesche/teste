@@ -1,0 +1,2 @@
+struct ib_gid_table_entry | dummy int 
+function is_gid_entry_free int | entry const struct ib_gid_table_entry *

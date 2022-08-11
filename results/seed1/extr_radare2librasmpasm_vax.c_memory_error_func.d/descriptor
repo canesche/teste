@@ -1,0 +1,2 @@
+struct disassemble_info | dummy int 
+function memory_error_func void | status int | memaddr int | info struct disassemble_info *

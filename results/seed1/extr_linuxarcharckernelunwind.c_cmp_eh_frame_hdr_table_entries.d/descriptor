@@ -1,0 +1,2 @@
+struct eh_frame_hdr_table_entry | start long 
+function cmp_eh_frame_hdr_table_entries int | p1 const void * | p2 const void *

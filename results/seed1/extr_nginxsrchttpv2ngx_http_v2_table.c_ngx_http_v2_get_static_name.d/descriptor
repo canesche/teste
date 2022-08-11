@@ -1,0 +1,2 @@
+struct TYPE_2__ | name int 
+function ngx_http_v2_get_static_name int * | index int

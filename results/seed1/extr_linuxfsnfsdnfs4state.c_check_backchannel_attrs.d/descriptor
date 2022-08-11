@@ -1,0 +1,2 @@
+struct nfsd4_channel_attrs | maxreq_sz long | maxresp_sz long | maxops int | maxresp_cached long | headerpadsz long 
+function check_backchannel_attrs int | ca struct nfsd4_channel_attrs *

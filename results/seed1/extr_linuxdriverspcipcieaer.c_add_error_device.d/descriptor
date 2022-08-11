@@ -1,0 +1,3 @@
+struct pci_dev | dummy int 
+struct aer_err_info | error_dev_num unsigned long | dev struct pci_dev ** 
+function add_error_device int | e_info struct aer_err_info * | dev struct pci_dev *

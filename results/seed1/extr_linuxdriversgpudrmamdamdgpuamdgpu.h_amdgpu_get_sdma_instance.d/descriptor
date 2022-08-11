@@ -1,0 +1,5 @@
+struct amdgpu_ring | adev struct amdgpu_device * 
+struct amdgpu_sdma_instance | ring struct amdgpu_ring 
+struct TYPE_2__ | num_instances int | instance struct amdgpu_sdma_instance * 
+struct amdgpu_device | sdma struct TYPE_2__ 
+function amdgpu_get_sdma_instance struct amdgpu_sdma_instance * | ring struct amdgpu_ring *

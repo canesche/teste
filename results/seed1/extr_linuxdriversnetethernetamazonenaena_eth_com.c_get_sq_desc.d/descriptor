@@ -1,0 +1,3 @@
+struct TYPE_2__ | virt_addr long 
+struct ena_com_io_sq | tail int | q_depth int | desc_entry_size unsigned long | desc_addr struct TYPE_2__ 
+function get_sq_desc void * | io_sq struct ena_com_io_sq *

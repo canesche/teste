@@ -1,0 +1,2 @@
+struct cpx | cpx_key_len long | cpx_max_key_len long 
+function cpx_can_copy int | src const struct cpx * | dst const struct cpx *

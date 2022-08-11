@@ -1,0 +1,2 @@
+struct timeval | tv_sec long | tv_usec long 
+function tvtohz int | tv struct timeval *

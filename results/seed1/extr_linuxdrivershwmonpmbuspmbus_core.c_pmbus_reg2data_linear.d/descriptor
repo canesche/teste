@@ -1,0 +1,3 @@
+struct pmbus_sensor | class long | page unsigned long | data int 
+struct pmbus_data | exponent int * 
+function pmbus_reg2data_linear long | data struct pmbus_data * | sensor struct pmbus_sensor *

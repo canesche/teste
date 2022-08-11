@@ -1,0 +1,2 @@
+struct connection | dummy int 
+function sqlc_execute int | c struct connection * | op int

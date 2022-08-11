@@ -1,0 +1,2 @@
+struct cck_plcp_header | signal int 
+function zd_cck_plcp_header_signal int | header const struct cck_plcp_header *

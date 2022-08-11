@@ -1,0 +1,1 @@
+function dss_sp_vec_mult void | src const int * | dst int * | mult const int *

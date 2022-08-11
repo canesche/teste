@@ -1,0 +1,2 @@
+struct ra_swapchain | dummy int 
+function angle_color_depth int | sw struct ra_swapchain *

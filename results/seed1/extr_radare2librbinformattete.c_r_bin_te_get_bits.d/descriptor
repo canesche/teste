@@ -1,0 +1,2 @@
+struct r_bin_te_obj_t | dummy int 
+function r_bin_te_get_bits int | bin struct r_bin_te_obj_t *

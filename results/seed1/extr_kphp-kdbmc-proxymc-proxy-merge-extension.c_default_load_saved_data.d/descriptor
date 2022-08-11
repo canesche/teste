@@ -1,0 +1,2 @@
+struct connection | dummy int 
+function default_load_saved_data void | c struct connection *

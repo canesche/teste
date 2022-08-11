@@ -1,0 +1,1 @@
+function qlcnic_swap32_buffer void | buffer int * | count int

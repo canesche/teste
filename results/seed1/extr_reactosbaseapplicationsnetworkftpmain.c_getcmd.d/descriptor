@@ -1,0 +1,2 @@
+struct cmd | c_name char * 
+function getcmd struct cmd * | name const char *

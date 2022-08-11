@@ -1,0 +1,4 @@
+struct drm_mm_node | start long | size long 
+struct TYPE_2__ | visible_vram_size long 
+struct amdgpu_device | gmc struct TYPE_2__ 
+function amdgpu_vram_mgr_vis_size long | adev struct amdgpu_device * | node struct drm_mm_node *

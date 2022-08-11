@@ -1,0 +1,2 @@
+struct _ccu_mult | min int | max int | mult int 
+function ccu_mult_find_best void | parent unsigned long | rate unsigned long | mult struct _ccu_mult *

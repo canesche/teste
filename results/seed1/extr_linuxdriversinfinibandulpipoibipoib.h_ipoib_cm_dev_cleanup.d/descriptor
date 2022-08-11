@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function ipoib_cm_dev_cleanup void | dev struct net_device *

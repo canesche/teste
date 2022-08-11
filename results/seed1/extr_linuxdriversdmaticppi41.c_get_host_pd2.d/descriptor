@@ -1,0 +1,2 @@
+struct cppi41_channel | q_comp_num int 
+function get_host_pd2 int | c struct cppi41_channel *

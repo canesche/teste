@@ -1,0 +1,2 @@
+struct dstr | array int * | len int 
+function dstr_is_empty int | str const struct dstr *

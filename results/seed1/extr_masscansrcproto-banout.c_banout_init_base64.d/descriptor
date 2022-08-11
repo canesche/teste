@@ -1,0 +1,2 @@
+struct BannerBase64 | temp long | state long 
+function banout_init_base64 void | base64 struct BannerBase64 *

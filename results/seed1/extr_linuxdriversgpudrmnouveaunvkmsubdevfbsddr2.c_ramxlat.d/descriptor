@@ -1,0 +1,2 @@
+struct ramxlat | id int | enc int 
+function ramxlat int | xlat const struct ramxlat * | id int

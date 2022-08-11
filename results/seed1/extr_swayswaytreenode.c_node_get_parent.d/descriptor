@@ -1,0 +1,8 @@
+struct sway_workspace | output struct TYPE_5__ * 
+struct sway_node | type int | sway_workspace struct sway_workspace * | sway_container struct sway_container * 
+struct sway_container | workspace struct TYPE_7__ * | parent struct TYPE_6__ * 
+struct TYPE_8__ | node struct sway_node 
+struct TYPE_7__ | node struct sway_node 
+struct TYPE_6__ | node struct sway_node 
+struct TYPE_5__ | node struct sway_node 
+function node_get_parent struct sway_node * | node struct sway_node *

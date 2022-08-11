@@ -1,0 +1,4 @@
+struct ieee80211_supported_band | dummy int 
+struct ieee80211_sta | dummy int 
+struct cfg80211_chan_def | dummy int 
+function rs_rate_init_ops void | mvm_r void * | sband struct ieee80211_supported_band * | chandef struct cfg80211_chan_def * | sta struct ieee80211_sta * | mvm_sta void *

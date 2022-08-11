@@ -1,0 +1,2 @@
+struct filter_entry | pending long | locked long 
+function writable_filter int | f struct filter_entry *

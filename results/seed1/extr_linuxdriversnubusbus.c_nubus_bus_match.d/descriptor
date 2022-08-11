@@ -1,0 +1,3 @@
+struct device_driver | dummy int 
+struct device | dummy int 
+function nubus_bus_match int | dev struct device * | driver struct device_driver *

@@ -1,0 +1,5 @@
+struct snd_soc_tplg_pcm | dummy int 
+struct snd_soc_dai_driver | ops int * 
+struct snd_soc_dai | dummy int 
+struct snd_soc_component | dummy int 
+function skl_dai_load int | cmp struct snd_soc_component * | index int | dai_drv struct snd_soc_dai_driver * | pcm struct snd_soc_tplg_pcm * | dai struct snd_soc_dai *

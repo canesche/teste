@@ -1,0 +1,3 @@
+struct ud | operand struct TYPE_2__ * | _rex long | vex_op long | br_far long | have_modrm long | itab_entry int * | mnemonic int | pfx_str long | pfx_rex long | pfx_repe long | pfx_rep long | pfx_repne long | pfx_lock long | pfx_adr long | pfx_opr long | pfx_seg long | error long 
+struct TYPE_2__ | type void * 
+function clear_insn void | u struct ud *

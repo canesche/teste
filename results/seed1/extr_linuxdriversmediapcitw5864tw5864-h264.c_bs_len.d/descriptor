@@ -1,0 +1,2 @@
+struct bs | ptr int | buf int 
+function bs_len int | s struct bs *

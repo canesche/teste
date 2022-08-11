@@ -1,0 +1,2 @@
+struct se_cmd | dummy int 
+function scsiback_aborted_task void | se_cmd struct se_cmd *

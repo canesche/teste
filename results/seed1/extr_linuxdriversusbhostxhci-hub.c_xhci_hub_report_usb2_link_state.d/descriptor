@@ -1,0 +1,1 @@
+function xhci_hub_report_usb2_link_state void | status int * | status_reg int

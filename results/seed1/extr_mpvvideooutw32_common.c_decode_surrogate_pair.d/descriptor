@@ -1,0 +1,1 @@
+function decode_surrogate_pair int | lead int | trail int

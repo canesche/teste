@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetnetronomenfpnfpcorenfp_cpplib.c_nfp_bytemask.d/extr_linuxdriversnetethernetnetronomenfpnfpcorenfp_cpplib.c_nfp_bytemask_O0::nfp_bytemask(62)"
+  }
+]

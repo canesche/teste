@@ -1,0 +1,2 @@
+struct mlxsw_sp_span_parms | dest_port int * 
+function mlxsw_sp_span_entry_unoffloadable int | sparmsp struct mlxsw_sp_span_parms *

@@ -1,0 +1,2 @@
+struct phy_device | dummy int 
+function mv3310_suspend int | phydev struct phy_device *

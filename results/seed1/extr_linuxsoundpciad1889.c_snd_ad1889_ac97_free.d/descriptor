@@ -1,0 +1,3 @@
+struct snd_ad1889 | ac97 int * 
+struct snd_ac97 | private_data struct snd_ad1889 * 
+function snd_ad1889_ac97_free void | ac97 struct snd_ac97 *

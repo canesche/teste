@@ -1,0 +1,1 @@
+function axi_clkgen_calc_clk_params void | divider unsigned int | low unsigned int * | high unsigned int * | edge unsigned int * | nocount unsigned int *

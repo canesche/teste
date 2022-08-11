@@ -1,0 +1,4 @@
+struct rtnl_link_stats64 | rx_over_errors int | rx_errors int | tx_errors int | tx_dropped int | rx_dropped int | tx_bytes int | rx_bytes int | tx_packets int | rx_packets int 
+struct net_device_stats | rx_over_errors int | rx_errors int | tx_errors int | tx_dropped int | rx_dropped int | tx_bytes int | rx_bytes int | tx_packets int | rx_packets int 
+struct net_device | stats struct net_device_stats 
+function sl_get_stats64 void | dev struct net_device * | stats struct rtnl_link_stats64 *

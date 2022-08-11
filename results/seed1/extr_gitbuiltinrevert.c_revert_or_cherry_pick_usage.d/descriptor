@@ -1,0 +1,2 @@
+struct replay_opts | action long 
+function revert_or_cherry_pick_usage const char *const * | opts struct replay_opts *

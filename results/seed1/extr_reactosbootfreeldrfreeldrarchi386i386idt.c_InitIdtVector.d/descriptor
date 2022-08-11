@@ -1,0 +1,2 @@
+struct TYPE_2__ | Offset int | ExtendedOffset int | Access int | Selector int 
+function InitIdtVector void | Vector unsigned long | ServiceHandler long | Access int

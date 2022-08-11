@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function integrity_audit_msg void | audit_msgno int | inode struct inode * | fname const unsigned char * | op const char * | cause const char * | result int | info int

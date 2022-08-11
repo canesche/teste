@@ -1,0 +1,5 @@
+struct survey_info | filled long | channel int 
+struct TYPE_2__ | chan int 
+struct ieee80211_conf | chandef struct TYPE_2__ 
+struct ieee80211_hw | conf struct ieee80211_conf 
+function wl1271_op_get_survey int | hw struct ieee80211_hw * | idx int | survey struct survey_info *

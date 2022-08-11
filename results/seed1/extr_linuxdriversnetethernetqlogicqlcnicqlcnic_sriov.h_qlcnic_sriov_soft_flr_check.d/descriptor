@@ -1,0 +1,4 @@
+struct qlcnic_vf_info | dummy int 
+struct qlcnic_bc_trans | dummy int 
+struct qlcnic_adapter | dummy int 
+function qlcnic_sriov_soft_flr_check int | adapter struct qlcnic_adapter * | trans struct qlcnic_bc_trans * | vf struct qlcnic_vf_info *

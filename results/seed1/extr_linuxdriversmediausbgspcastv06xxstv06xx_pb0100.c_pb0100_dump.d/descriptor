@@ -1,0 +1,2 @@
+struct sd | dummy int 
+function pb0100_dump int | sd struct sd *

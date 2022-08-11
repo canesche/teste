@@ -1,0 +1,3 @@
+struct nx842_slentry | dummy int 
+struct nx842_scatterlist | entry_nr int 
+function nx842_get_scatterlist_size unsigned long | sl struct nx842_scatterlist *

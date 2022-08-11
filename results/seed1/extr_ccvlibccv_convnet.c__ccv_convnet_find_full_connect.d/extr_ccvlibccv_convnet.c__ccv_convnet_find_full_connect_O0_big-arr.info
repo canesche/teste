@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_ccvlibccv_convnet.c__ccv_convnet_find_full_connect.d/extr_ccvlibccv_convnet.c__ccv_convnet_find_full_connect_O0::_ccv_convnet_find_full_connect(66)"
+  }
+]

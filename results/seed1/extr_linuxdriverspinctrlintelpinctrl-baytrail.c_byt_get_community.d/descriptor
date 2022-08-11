@@ -1,0 +1,4 @@
+struct byt_gpio | communities_copy struct byt_community * | soc_data struct TYPE_2__ * 
+struct byt_community | pin_base unsigned int | npins unsigned int 
+struct TYPE_2__ | ncommunities int 
+function byt_get_community struct byt_community * | vg struct byt_gpio * | pin unsigned int

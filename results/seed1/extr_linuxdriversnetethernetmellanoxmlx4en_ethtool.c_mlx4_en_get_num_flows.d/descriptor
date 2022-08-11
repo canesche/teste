@@ -1,0 +1,3 @@
+struct mlx4_en_priv | ethtool_rules struct TYPE_2__ * 
+struct TYPE_2__ | id long 
+function mlx4_en_get_num_flows int | priv struct mlx4_en_priv *

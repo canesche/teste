@@ -1,0 +1,2 @@
+struct TYPE_3__ | leaf_type int | get_print_type long | get_mlist long | get_index long | get_arglist long | get_this_type long | get_class_type long | get_return_type long | get_utype long | get_vshape long | get_derived long | get_base_type long | get_index_type long | get_element_type long | get_arg_type long | get_members long | get_name_len long | get_val long | get_name long | free_ long | is_fwdref long | get_modified_type long 
+function init_stype_info void | type_info struct TYPE_3__ *

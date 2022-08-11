@@ -1,0 +1,2 @@
+struct snd_rme9652 | control_register int 
+function rme9652_spdif_out int | rme9652 struct snd_rme9652 *

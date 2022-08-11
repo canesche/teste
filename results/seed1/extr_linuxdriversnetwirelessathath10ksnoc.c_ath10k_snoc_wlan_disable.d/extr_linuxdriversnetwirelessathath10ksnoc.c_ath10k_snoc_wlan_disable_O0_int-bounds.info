@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetwirelessathath10ksnoc.c_ath10k_snoc_wlan_disable.d/extr_linuxdriversnetwirelessathath10ksnoc.c_ath10k_snoc_wlan_disable_O0::ath10k_snoc_wlan_disable(61)"
+  }
+]

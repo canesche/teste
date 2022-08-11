@@ -1,0 +1,3 @@
+struct pltfm_imx_data | socdata struct TYPE_2__ * 
+struct TYPE_2__ | flags int 
+function esdhc_is_usdhc int | data struct pltfm_imx_data *

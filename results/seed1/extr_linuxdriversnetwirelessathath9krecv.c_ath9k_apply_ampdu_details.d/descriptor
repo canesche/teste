@@ -1,0 +1,5 @@
+struct ieee80211_rx_status | flag int | ampdu_reference int 
+struct TYPE_2__ | ampdu_ref int 
+struct ath_softc | rx struct TYPE_2__ 
+struct ath_rx_status | rs_flags int | rs_moreaggr int | rs_isaggr long 
+function ath9k_apply_ampdu_details void | sc struct ath_softc * | rs struct ath_rx_status * | rxs struct ieee80211_rx_status *

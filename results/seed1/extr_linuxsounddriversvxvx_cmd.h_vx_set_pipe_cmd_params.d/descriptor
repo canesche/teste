@@ -1,0 +1,2 @@
+struct vx_rmh | Cmd int * 
+function vx_set_pipe_cmd_params void | rmh struct vx_rmh * | is_capture int | param1 int | param2 int

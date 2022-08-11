@@ -1,0 +1,3 @@
+struct imx_ldb_channel | chno int | ldb struct imx_ldb * 
+struct imx_ldb | ldb_ctrl int 
+function imx_ldb_ch_set_bus_format void | imx_ldb_ch struct imx_ldb_channel * | bus_format int

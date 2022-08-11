@@ -1,0 +1,2 @@
+struct pinctrl_dev | dummy int 
+function sx150x_pinctrl_get_groups_count int | pctldev struct pinctrl_dev *

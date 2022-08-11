@@ -1,0 +1,2 @@
+struct TYPE_3__ | log2_max_poc_lsb int 
+function ff_hevc_compute_poc int | sps const struct TYPE_3__ * | pocTid0 int | poc_lsb int | nal_unit_type int

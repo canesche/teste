@@ -1,0 +1,2 @@
+struct dentry | d_flags int 
+function __managed_dentry_set_managed void | dentry struct dentry *

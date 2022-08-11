@@ -1,0 +1,1 @@
+function bnx2x_eee_nvram_to_time int | nvram_mode int | idle_timer int *

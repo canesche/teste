@@ -1,0 +1,5 @@
+struct block_flags_stat_t | from int | step int | as struct TYPE_6__ * 
+struct TYPE_7__ | offset int 
+struct TYPE_6__ | block struct TYPE_5__ * 
+struct TYPE_5__ | flags int 
+function block_flags_stat int | fi struct TYPE_7__ * | user void *

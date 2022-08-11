@@ -1,0 +1,8 @@
+struct TYPE_8__ | udp struct TYPE_7__ * | tcp struct TYPE_6__ * 
+struct TYPE_5__ | pid int | gid int | uid int 
+struct pf_pdesc | proto int | af int | src struct pf_addr * | dst struct pf_addr * | hdr struct TYPE_8__ | lookup struct TYPE_5__ 
+struct pf_addr | dummy int 
+struct inpcbinfo | dummy int 
+struct TYPE_7__ | uh_dport int | uh_sport int 
+struct TYPE_6__ | th_dport int | th_sport int 
+function pf_socket_lookup int | direction int | pd struct pf_pdesc *

@@ -1,0 +1,4 @@
+struct TYPE_8__ | info struct TYPE_7__ * | next struct TYPE_8__ * 
+struct TYPE_9__ | scheme long | name long 
+struct TYPE_7__ | scheme long 
+function TIFFFindCODEC const struct TYPE_9__ * | scheme long

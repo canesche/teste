@@ -1,0 +1,3 @@
+struct TYPE_4__ | producedAt const int * 
+struct TYPE_5__ | tbsResponseData struct TYPE_4__ 
+function OCSP_resp_get0_produced_at const int * | bs const struct TYPE_5__ *

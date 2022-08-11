@@ -1,0 +1,3 @@
+struct sdma_txreq | dummy int 
+struct sdma_engine | tx_head unsigned long | sdma_mask unsigned long | tx_ring struct sdma_txreq ** 
+function get_txhead struct sdma_txreq * | sde struct sdma_engine *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | optionalSignature long 
+function OCSP_request_is_signed int | req struct TYPE_3__ *

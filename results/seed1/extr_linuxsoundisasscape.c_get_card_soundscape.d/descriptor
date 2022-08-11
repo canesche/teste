@@ -1,0 +1,3 @@
+struct soundscape | dummy int 
+struct snd_card | private_data long 
+function get_card_soundscape struct soundscape * | c struct snd_card *

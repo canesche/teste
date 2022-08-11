@@ -1,0 +1,2 @@
+struct TYPE_4__ | iPropertyId int | iPrimitiveType int | next struct TYPE_4__ * 
+function MSSTYLES_LFindProperty struct TYPE_4__ * | tp struct TYPE_4__ * | iPropertyPrimitive int | iPropertyId int

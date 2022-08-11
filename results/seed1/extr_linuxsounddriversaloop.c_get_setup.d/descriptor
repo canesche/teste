@@ -1,0 +1,7 @@
+struct loopback_setup | dummy int 
+struct loopback_pcm | substream struct TYPE_8__ * | loopback struct TYPE_7__ * 
+struct TYPE_8__ | stream long | number unsigned long | pstr struct TYPE_6__ * 
+struct TYPE_7__ | setup struct loopback_setup ** 
+struct TYPE_6__ | pcm struct TYPE_5__ * 
+struct TYPE_5__ | device int 
+function get_setup struct loopback_setup * | dpcm struct loopback_pcm *

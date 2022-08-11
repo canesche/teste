@@ -1,0 +1,1 @@
+function sdma_build_ahg_descriptor int | data unsigned long | dwindex unsigned long | startbit unsigned long | bits unsigned long

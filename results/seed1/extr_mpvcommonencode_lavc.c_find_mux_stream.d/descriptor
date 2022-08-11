@@ -1,0 +1,4 @@
+struct mux_stream | codec_type int 
+struct encode_priv | num_streams int | streams struct mux_stream ** 
+struct encode_lavc_context | priv struct encode_priv * 
+function find_mux_stream struct mux_stream * | ctx struct encode_lavc_context * | codec_type enum AVMediaType

@@ -1,0 +1,3 @@
+struct nixge_priv | tx_bd_tail int | tx_bd_v struct nixge_hw_dma_bd * 
+struct nixge_hw_dma_bd | status int 
+function nixge_check_tx_bd_space int | priv struct nixge_priv * | num_frag int

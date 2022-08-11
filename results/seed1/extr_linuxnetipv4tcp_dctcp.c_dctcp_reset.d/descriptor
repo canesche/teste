@@ -1,0 +1,3 @@
+struct tcp_sock | snd_nxt int 
+struct dctcp | acked_bytes_total long | acked_bytes_ecn long | next_seq int 
+function dctcp_reset void | tp const struct tcp_sock * | ca struct dctcp *

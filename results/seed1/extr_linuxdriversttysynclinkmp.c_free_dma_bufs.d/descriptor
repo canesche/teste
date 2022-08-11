@@ -1,0 +1,2 @@
+struct TYPE_3__ | tx_buf_list int * | rx_buf_list int * | buffer_list int * 
+function free_dma_bufs void | info struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct vnt_private | cmd_running int | command_state int | cmd_enqueue_idx long | cmd_dequeue_idx long | free_cmd_queue int 
+function vnt_reset_command_timer void | priv struct vnt_private *

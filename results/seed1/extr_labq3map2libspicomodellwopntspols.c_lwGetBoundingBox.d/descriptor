@@ -1,0 +1,3 @@
+struct TYPE_5__ | count int | pt struct TYPE_4__ * 
+struct TYPE_4__ | pos float * 
+function lwGetBoundingBox void | point struct TYPE_5__ * | bbox float []

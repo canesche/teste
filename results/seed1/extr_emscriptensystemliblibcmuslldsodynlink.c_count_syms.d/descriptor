@@ -1,0 +1,2 @@
+struct dso | hashtab unsigned long * | ghashtab unsigned long * 
+function count_syms unsigned long | p struct dso *

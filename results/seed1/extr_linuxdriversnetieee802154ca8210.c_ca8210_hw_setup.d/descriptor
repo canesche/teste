@@ -1,0 +1,5 @@
+struct ieee802154_hw | flags int | phy struct TYPE_6__ * 
+struct TYPE_5__ | opt int | mode int 
+struct TYPE_4__ | cca_ed_levels int | cca_ed_levels_size int | tx_powers int | tx_powers_size int | channels int * 
+struct TYPE_6__ | current_channel int | transmit_power int | cca_ed_level int | symbol_duration int | lifs_period int | sifs_period int | flags int | cca struct TYPE_5__ | current_page long | supported struct TYPE_4__ 
+function ca8210_hw_setup void | ca8210_hw struct ieee802154_hw *

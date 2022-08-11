@@ -1,0 +1,2 @@
+struct ipw_tty | tty_type long 
+function ipwireless_tty_is_modem int | tty struct ipw_tty *

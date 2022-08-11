@@ -1,0 +1,3 @@
+struct tb_ring | hop int | nhi struct TYPE_2__ * | is_tx int 
+struct TYPE_2__ | hop_count long 
+function ring_interrupt_index int | ring struct tb_ring *

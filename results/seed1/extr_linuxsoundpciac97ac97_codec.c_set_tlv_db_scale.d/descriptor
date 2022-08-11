@@ -1,0 +1,4 @@
+struct TYPE_3__ | p const unsigned int * 
+struct snd_kcontrol | vd struct TYPE_4__ * | tlv struct TYPE_3__ 
+struct TYPE_4__ | access int 
+function set_tlv_db_scale void | kctl struct snd_kcontrol * | tlv const unsigned int *

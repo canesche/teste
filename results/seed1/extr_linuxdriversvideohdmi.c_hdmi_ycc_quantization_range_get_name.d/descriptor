@@ -1,0 +1,1 @@
+function hdmi_ycc_quantization_range_get_name const char * | qrange enum hdmi_ycc_quantization_range

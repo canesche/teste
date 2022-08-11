@@ -1,0 +1,2 @@
+struct drm_bridge | dummy int 
+function analogix_dp_bridge_nop void | bridge struct drm_bridge *

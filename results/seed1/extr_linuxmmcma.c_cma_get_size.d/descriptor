@@ -1,0 +1,2 @@
+struct cma | count unsigned long 
+function cma_get_size unsigned long | cma const struct cma *

@@ -1,0 +1,2 @@
+struct sk_buff | priority int 
+function _rtl8822be_map_hwqueue_to_fwqueue int | skb struct sk_buff * | hw_queue int

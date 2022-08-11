@@ -1,0 +1,2 @@
+struct ef4_nic | dummy int 
+function ef4_port_dummy_op_poll int | efx struct ef4_nic *

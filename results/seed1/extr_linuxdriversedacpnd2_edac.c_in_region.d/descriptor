@@ -1,0 +1,2 @@
+struct region | base long | limit long | enabled int 
+function in_region int | rp struct region * | addr long

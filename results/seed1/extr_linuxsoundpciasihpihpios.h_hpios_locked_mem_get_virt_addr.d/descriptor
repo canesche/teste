@@ -1,0 +1,2 @@
+struct consistent_dma_area | vaddr void * 
+function hpios_locked_mem_get_virt_addr int | locked_mem_handle struct consistent_dma_area * | pp_virtual_addr void **

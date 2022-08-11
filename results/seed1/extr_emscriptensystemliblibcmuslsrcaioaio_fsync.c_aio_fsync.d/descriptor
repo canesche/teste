@@ -1,0 +1,2 @@
+struct aiocb | dummy int 
+function aio_fsync int | op int | cb struct aiocb *

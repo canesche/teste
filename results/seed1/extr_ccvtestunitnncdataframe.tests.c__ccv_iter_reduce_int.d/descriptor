@@ -1,0 +1,1 @@
+function _ccv_iter_reduce_int void | input_data void **const | batch_size const int | data void **const | context void *const | stream_context int *const

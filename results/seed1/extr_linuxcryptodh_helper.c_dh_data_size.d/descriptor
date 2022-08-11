@@ -1,0 +1,2 @@
+struct dh | key_size unsigned int | p_size unsigned int | q_size unsigned int | g_size unsigned int 
+function dh_data_size unsigned int | p const struct dh *

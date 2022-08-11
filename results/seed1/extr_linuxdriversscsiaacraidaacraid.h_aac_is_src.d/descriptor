@@ -1,0 +1,3 @@
+struct aac_dev | pdev struct TYPE_2__ * 
+struct TYPE_2__ | device long 
+function aac_is_src int | dev struct aac_dev *

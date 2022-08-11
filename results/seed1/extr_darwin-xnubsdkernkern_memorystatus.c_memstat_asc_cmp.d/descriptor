@@ -1,0 +1,2 @@
+struct TYPE_2__ | msi_page_count long 
+function memstat_asc_cmp int | a const void * | b const void *

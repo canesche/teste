@@ -1,0 +1,1 @@
+function ieee80211_is_empty_essid int | essid const char * | essid_len int

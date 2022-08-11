@@ -1,0 +1,2 @@
+function modff float | x float | iptr float *
+struct  | f float | i int 

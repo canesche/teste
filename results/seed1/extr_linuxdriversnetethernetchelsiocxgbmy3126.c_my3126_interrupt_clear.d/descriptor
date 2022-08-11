@@ -1,0 +1,2 @@
+struct cphy | dummy int 
+function my3126_interrupt_clear int | cphy struct cphy *

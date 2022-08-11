@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 59,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 59,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_h2ot00unitlibcommon........libcommontimerwheel.c_calc_expire_for_slot.d/extr_h2ot00unitlibcommon........libcommontimerwheel.c_calc_expire_for_slot_O0::calc_expire_for_slot(64)"
+  }
+]

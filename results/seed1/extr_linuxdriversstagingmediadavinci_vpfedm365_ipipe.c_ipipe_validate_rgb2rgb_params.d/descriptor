@@ -1,0 +1,11 @@
+struct TYPE_18__ | decimal long | integer long 
+struct TYPE_17__ | decimal long | integer long 
+struct TYPE_16__ | decimal long | integer long 
+struct TYPE_15__ | decimal long | integer long 
+struct TYPE_14__ | decimal long | integer long 
+struct TYPE_13__ | decimal long | integer long 
+struct TYPE_12__ | decimal long | integer long 
+struct TYPE_11__ | decimal long | integer long 
+struct TYPE_10__ | decimal long | integer long 
+struct vpfe_ipipe_rgb2rgb | out_ofst_r long | out_ofst_g long | out_ofst_b long | coef_bb struct TYPE_18__ | coef_gb struct TYPE_17__ | coef_rb struct TYPE_16__ | coef_bg struct TYPE_15__ | coef_gg struct TYPE_14__ | coef_rg struct TYPE_13__ | coef_br struct TYPE_12__ | coef_gr struct TYPE_11__ | coef_rr struct TYPE_10__ 
+function ipipe_validate_rgb2rgb_params int | rgb2rgb struct vpfe_ipipe_rgb2rgb * | id unsigned int

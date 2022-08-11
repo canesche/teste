@@ -1,0 +1,2 @@
+struct hci_uart_proto | dummy int 
+function hci_uart_get_proto const struct hci_uart_proto * | id unsigned int

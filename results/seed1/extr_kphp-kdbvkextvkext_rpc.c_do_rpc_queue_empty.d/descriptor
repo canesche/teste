@@ -1,0 +1,2 @@
+struct rpc_queue | remaining int 
+function do_rpc_queue_empty int | Q struct rpc_queue *

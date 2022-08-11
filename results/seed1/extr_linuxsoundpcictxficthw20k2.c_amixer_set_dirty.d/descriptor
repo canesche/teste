@@ -1,0 +1,3 @@
+struct TYPE_2__ | data unsigned int 
+struct amixer_rsc_ctrl_blk | dirty struct TYPE_2__ 
+function amixer_set_dirty int | blk void * | flags unsigned int

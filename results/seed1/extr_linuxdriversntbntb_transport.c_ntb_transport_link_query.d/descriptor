@@ -1,0 +1,2 @@
+struct ntb_transport_qp | link_is_up int 
+function ntb_transport_link_query int | qp struct ntb_transport_qp *

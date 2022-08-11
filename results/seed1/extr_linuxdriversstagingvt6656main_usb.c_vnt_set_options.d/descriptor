@@ -1,0 +1,2 @@
+struct vnt_private | exist_sw_net_addr int | preamble_type long | auto_fb_ctrl int | bb_type int | packet_type int | op_mode int | long_retry_limit int | short_retry_limit int | num_rcb long | num_tx_context long 
+function vnt_set_options void | priv struct vnt_private *

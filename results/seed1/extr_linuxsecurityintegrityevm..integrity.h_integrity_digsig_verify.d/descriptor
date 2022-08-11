@@ -1,0 +1,1 @@
+function integrity_digsig_verify int | id const unsigned int | sig const char * | siglen int | digest const char * | digestlen int

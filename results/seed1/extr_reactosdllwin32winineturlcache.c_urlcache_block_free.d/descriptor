@@ -1,0 +1,1 @@
+function urlcache_block_free void | allocation_table int * | block_number int

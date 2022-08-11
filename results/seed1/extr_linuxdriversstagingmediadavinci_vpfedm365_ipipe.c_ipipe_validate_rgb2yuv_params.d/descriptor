@@ -1,0 +1,11 @@
+struct TYPE_18__ | decimal long | integer long 
+struct TYPE_17__ | decimal long | integer long 
+struct TYPE_16__ | decimal long | integer long 
+struct TYPE_15__ | decimal long | integer long 
+struct TYPE_14__ | decimal long | integer long 
+struct TYPE_13__ | decimal long | integer long 
+struct TYPE_12__ | decimal long | integer long 
+struct TYPE_11__ | decimal long | integer long 
+struct TYPE_10__ | decimal long | integer long 
+struct vpfe_ipipe_rgb2yuv | out_ofst_y long | out_ofst_cb long | out_ofst_cr long | coef_bcr struct TYPE_18__ | coef_gcr struct TYPE_17__ | coef_rcr struct TYPE_16__ | coef_bcb struct TYPE_15__ | coef_gcb struct TYPE_14__ | coef_rcb struct TYPE_13__ | coef_by struct TYPE_12__ | coef_gy struct TYPE_11__ | coef_ry struct TYPE_10__ 
+function ipipe_validate_rgb2yuv_params int | rgb2yuv struct vpfe_ipipe_rgb2yuv *

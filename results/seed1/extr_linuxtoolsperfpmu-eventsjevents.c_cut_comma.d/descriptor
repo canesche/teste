@@ -1,0 +1,2 @@
+struct TYPE_3__ | start int | end int 
+function cut_comma void | map char * | newval struct TYPE_3__ *

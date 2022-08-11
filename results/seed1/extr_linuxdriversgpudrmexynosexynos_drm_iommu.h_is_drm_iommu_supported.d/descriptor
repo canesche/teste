@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function is_drm_iommu_supported int | drm_dev struct drm_device *

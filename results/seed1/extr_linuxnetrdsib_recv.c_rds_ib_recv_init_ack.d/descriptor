@@ -1,0 +1,6 @@
+struct ib_sge | length int | lkey int | addr int 
+struct ib_send_wr | num_sge int | send_flags int | wr_id int | opcode int | sg_list struct ib_sge * 
+struct rds_ib_connection | i_pd struct TYPE_2__ * | i_ack_dma int | i_ack_sge struct ib_sge | i_ack_wr struct ib_send_wr 
+struct rds_header | dummy int 
+struct TYPE_2__ | local_dma_lkey int 
+function rds_ib_recv_init_ack void | ic struct rds_ib_connection *

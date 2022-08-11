@@ -1,0 +1,7 @@
+struct resource | end long | start long 
+struct acpi_resource_irq | interrupt_count int | interrupts long * 
+struct TYPE_3__ | address_length long | minimum long 
+struct acpi_resource_address32 | address struct TYPE_3__ 
+struct TYPE_4__ | irq struct acpi_resource_irq | address32 struct acpi_resource_address32 
+struct acpi_resource | type int | data struct TYPE_4__ 
+function fjes_get_acpi_resource int | acpi_res struct acpi_resource * | data void *

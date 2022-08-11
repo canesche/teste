@@ -1,0 +1,4 @@
+struct TYPE_4__ | pixel_encoding int | display_color_depth int 
+struct TYPE_3__ | pixel_encoding int | c_depth int | clamping_level int 
+struct dc_stream_state | timing struct TYPE_4__ | clamping struct TYPE_3__ 
+function build_clamping_params void | stream struct dc_stream_state *

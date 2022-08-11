@@ -1,0 +1,3 @@
+struct TYPE_5__ | input long * 
+struct TYPE_6__ | batch int | c int | output int * | h int | w int 
+function forward_avgpool_layer void | l const struct TYPE_6__ | net struct TYPE_5__

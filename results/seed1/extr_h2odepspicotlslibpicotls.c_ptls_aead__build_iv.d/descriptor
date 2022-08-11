@@ -1,0 +1,3 @@
+struct TYPE_5__ | static_iv int * | algo struct TYPE_4__ * 
+struct TYPE_4__ | iv_size unsigned long 
+function ptls_aead__build_iv void | ctx struct TYPE_5__ * | iv int * | seq unsigned long

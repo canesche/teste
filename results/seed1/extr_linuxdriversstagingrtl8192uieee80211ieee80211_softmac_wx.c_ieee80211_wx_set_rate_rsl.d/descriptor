@@ -1,0 +1,5 @@
+struct TYPE_2__ | value int 
+struct iwreq_data | bitrate struct TYPE_2__ 
+struct iw_request_info | dummy int 
+struct ieee80211_device | rate int 
+function ieee80211_wx_set_rate int | ieee struct ieee80211_device * | info struct iw_request_info * | wrqu union iwreq_data * | extra char *

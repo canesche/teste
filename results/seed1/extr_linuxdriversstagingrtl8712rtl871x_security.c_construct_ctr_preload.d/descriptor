@@ -1,0 +1,1 @@
+function construct_ctr_preload void | ctr_preload int * | a4_exists int | qc_exists int | mpdu int * | pn_vector int * | c int

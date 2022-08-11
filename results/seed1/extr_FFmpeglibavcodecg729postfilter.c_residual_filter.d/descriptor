@@ -1,0 +1,1 @@
+function residual_filter void | out int * | filter_coeffs const int * | in const int * | subframe_size int

@@ -1,0 +1,2 @@
+struct ieee80211_channel | flags int 
+function ieee80211_scan_get_channel_time unsigned long | chan struct ieee80211_channel *

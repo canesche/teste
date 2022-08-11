@@ -1,0 +1,2 @@
+struct xor_state | key const int * | key_size int 
+function xor_crypt void | state struct xor_state *const | inbuf const int * | outbuf int * | buflen int

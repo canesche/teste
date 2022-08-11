@@ -1,0 +1,3 @@
+struct TYPE_2__ | ctl_addr unsigned long | irq_addr unsigned long 
+struct ide_hw | io_ports_array unsigned long * | io_ports struct TYPE_2__ 
+function sgiioc4_init_hwif_ports void | hw struct ide_hw * | data_port unsigned long | ctrl_port unsigned long | irq_port unsigned long

@@ -1,0 +1,2 @@
+struct sge_fl | size unsigned int 
+function fl_cap unsigned int | fl const struct sge_fl *

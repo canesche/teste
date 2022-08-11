@@ -1,0 +1,4 @@
+struct ubifs_pnode | num int | lprops struct TYPE_2__ * 
+struct ubifs_info | main_first int | leb_cnt int 
+struct TYPE_2__ | lnum int 
+function set_pnode_lnum void | c const struct ubifs_info * | pnode struct ubifs_pnode *

@@ -1,0 +1,3 @@
+struct vas_window | winid int | vinst struct TYPE_2__ * 
+struct TYPE_2__ | uwc_bar_start long 
+function get_uwc_mmio_bar void | window struct vas_window * | start long * | len int *

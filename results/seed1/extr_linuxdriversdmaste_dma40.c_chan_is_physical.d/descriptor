@@ -1,0 +1,2 @@
+struct d40_chan | log_num long 
+function chan_is_physical int | chan struct d40_chan *

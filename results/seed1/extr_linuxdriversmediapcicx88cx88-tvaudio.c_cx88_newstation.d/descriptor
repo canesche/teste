@@ -1,0 +1,2 @@
+struct cx88_core | last_change int | audiomode_manual int 
+function cx88_newstation void | core struct cx88_core *

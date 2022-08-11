@@ -1,0 +1,2 @@
+struct pci_vtnet_softc | vsc_features int | rx_vhdrlen int | rx_merge long 
+function pci_vtnet_neg_features void | vsc void * | negotiated_features int

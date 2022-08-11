@@ -1,0 +1,3 @@
+struct crypto_alg | cra_flags int | cra_type int * 
+struct shash_alg | digestsize int | descsize int | statesize int | setkey long | import int | export long | digest long | finup long | base struct crypto_alg 
+function shash_prepare_alg int | alg struct shash_alg *

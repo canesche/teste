@@ -1,0 +1,5 @@
+struct TYPE_9__ | view struct TYPE_7__ * 
+struct TYPE_8__ | h int | w int | y int | x int 
+struct TYPE_6__ | h int | w int | y int | x int 
+struct TYPE_7__ | prevPos struct TYPE_8__ | pos struct TYPE_6__ 
+function restorePanelPos void | panel struct TYPE_9__ *

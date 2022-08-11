@@ -1,0 +1,2 @@
+struct arc_operand | fmt int 
+function ac_symbol_operand int | op const struct arc_operand *

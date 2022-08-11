@@ -1,0 +1,4 @@
+struct sk_buff | dummy int 
+struct net_bridge_mdb_entry | dummy int 
+struct net_bridge | dummy int 
+function br_mdb_get struct net_bridge_mdb_entry * | br struct net_bridge * | skb struct sk_buff * | vid int

@@ -1,0 +1,2 @@
+struct vivid_dev | dummy int 
+function vivid_cec_bus_free_work void | dev struct vivid_dev *

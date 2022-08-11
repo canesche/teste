@@ -1,0 +1,2 @@
+struct TYPE_3__ | nservers int 
+function adns_numservers int | ads struct TYPE_3__ *

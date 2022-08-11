@@ -1,0 +1,2 @@
+struct TYPE_3__ | inpos unsigned long | inlen unsigned long | in int * | error int 
+function lzo_nextbyte int | stream struct TYPE_3__ *

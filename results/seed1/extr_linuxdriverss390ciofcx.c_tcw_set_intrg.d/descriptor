@@ -1,0 +1,2 @@
+struct tcw | intrg long 
+function tcw_set_intrg void | tcw struct tcw * | intrg_tcw struct tcw *

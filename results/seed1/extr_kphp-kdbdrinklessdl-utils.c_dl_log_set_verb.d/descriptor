@@ -1,0 +1,2 @@
+struct TYPE_2__ | verbosity_stderr int | verbosity_log int 
+function dl_log_set_verb void | log_id int | verbosity_stderr int | verbosity_log int

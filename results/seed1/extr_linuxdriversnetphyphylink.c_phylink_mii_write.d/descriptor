@@ -1,0 +1,2 @@
+struct phylink | link_an_mode int 
+function phylink_mii_write int | pl struct phylink * | phy_id unsigned int | reg unsigned int | val unsigned int

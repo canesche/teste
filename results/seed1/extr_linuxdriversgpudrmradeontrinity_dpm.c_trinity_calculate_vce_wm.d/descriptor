@@ -1,0 +1,2 @@
+struct radeon_device | dummy int 
+function trinity_calculate_vce_wm int | rdev struct radeon_device * | sclk int

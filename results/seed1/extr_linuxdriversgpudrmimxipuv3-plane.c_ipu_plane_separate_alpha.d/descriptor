@@ -1,0 +1,6 @@
+struct TYPE_8__ | state struct TYPE_7__ * 
+struct ipu_plane | base struct TYPE_8__ 
+struct TYPE_7__ | fb struct TYPE_6__ * 
+struct TYPE_6__ | format struct TYPE_5__ * 
+struct TYPE_5__ | format int 
+function ipu_plane_separate_alpha int | ipu_plane struct ipu_plane *

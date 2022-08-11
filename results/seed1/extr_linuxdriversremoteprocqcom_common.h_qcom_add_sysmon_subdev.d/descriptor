@@ -1,0 +1,3 @@
+struct rproc | dummy int 
+struct qcom_sysmon | dummy int 
+function qcom_add_sysmon_subdev struct qcom_sysmon * | rproc struct rproc * | name const char * | ssctl_instance int

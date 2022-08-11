@@ -1,0 +1,1 @@
+function iwl_pcie_msix_isr int | irq int | data void *

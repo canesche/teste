@@ -1,0 +1,2 @@
+struct TYPE_2__ | fmt int | sample_fmt int 
+function af_from_avformat int | sample_fmt enum AVSampleFormat

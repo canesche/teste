@@ -1,0 +1,2 @@
+struct TYPE_3__ | low int | bytestream int * | bytestream_end int * 
+function refill void | c struct TYPE_3__ *

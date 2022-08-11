@@ -1,0 +1,2 @@
+struct wined3d_state | shader int * 
+function use_ps int | state const struct wined3d_state *

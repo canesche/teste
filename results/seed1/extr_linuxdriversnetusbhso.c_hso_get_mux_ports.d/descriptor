@@ -1,0 +1,5 @@
+struct usb_interface | cur_altsetting struct usb_host_interface * 
+struct TYPE_3__ | bNumEndpoints int 
+struct usb_host_interface | extralen int | extra unsigned char * | endpoint struct TYPE_4__ * | desc struct TYPE_3__ 
+struct TYPE_4__ | extralen int | extra unsigned char * 
+function hso_get_mux_ports int | intf struct usb_interface * | ports unsigned char *

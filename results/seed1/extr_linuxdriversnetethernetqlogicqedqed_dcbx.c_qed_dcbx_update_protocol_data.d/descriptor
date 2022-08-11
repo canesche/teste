@@ -1,0 +1,4 @@
+struct qed_dcbx_results | arr struct TYPE_2__ * 
+struct protocol_dcb_data | dcb_dont_add_vlan0 int | dcb_tc int | dcb_priority int | dcb_enable_flag int 
+struct TYPE_2__ | dont_add_vlan0 int | tc int | priority int | enable int 
+function qed_dcbx_update_protocol_data void | p_data struct protocol_dcb_data * | p_src struct qed_dcbx_results * | type enum dcbx_protocol_type

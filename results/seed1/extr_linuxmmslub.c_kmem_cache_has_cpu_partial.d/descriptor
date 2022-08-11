@@ -1,0 +1,2 @@
+struct kmem_cache | dummy int 
+function kmem_cache_has_cpu_partial int | s struct kmem_cache *

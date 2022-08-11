@@ -1,0 +1,7 @@
+struct TYPE_6__ | height int | width int | top int | left int 
+struct mtk_mdp_frame | height int | width int | crop struct TYPE_6__ 
+struct TYPE_5__ | vsi struct TYPE_4__ * 
+struct mtk_mdp_ctx | vpu struct TYPE_5__ | d_frame struct mtk_mdp_frame 
+struct mdp_config | h int | w int | y long | x long | crop_h int | crop_w int | crop_y int | crop_x int 
+struct TYPE_4__ | dst_config struct mdp_config 
+function mtk_mdp_hw_set_out_size void | ctx struct mtk_mdp_ctx *

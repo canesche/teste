@@ -1,0 +1,2 @@
+struct TYPE_3__ | CAN_Prescaler int | CAN_BS2 int | CAN_BS1 int | CAN_SJW int | CAN_Mode int | CAN_TXFP void * | CAN_RFLM void * | CAN_NART void * | CAN_AWUM void * | CAN_ABOM void * | CAN_TTCM void * 
+function CAN_StructInit void | CAN_InitStruct struct TYPE_3__ *

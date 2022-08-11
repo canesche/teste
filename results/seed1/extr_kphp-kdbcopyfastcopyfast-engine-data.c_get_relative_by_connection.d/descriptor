@@ -1,0 +1,8 @@
+struct TYPE_7__ | targ struct TYPE_6__ * 
+struct TYPE_9__ | generation long | conn struct connection * 
+struct TYPE_8__ | targ struct TYPE_7__ | conn struct TYPE_9__ 
+struct relative | type int | next struct relative * | conn struct TYPE_8__ 
+struct connection | generation long 
+struct TYPE_10__ | next struct relative * 
+struct TYPE_6__ | first_conn struct connection * 
+function get_relative_by_connection struct relative * | c struct connection *

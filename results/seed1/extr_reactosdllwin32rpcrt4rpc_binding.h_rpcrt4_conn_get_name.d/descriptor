@@ -1,0 +1,3 @@
+struct TYPE_5__ | ops struct TYPE_4__ * 
+struct TYPE_4__ | name const char * 
+function rpcrt4_conn_get_name const char * | Connection const struct TYPE_5__ *

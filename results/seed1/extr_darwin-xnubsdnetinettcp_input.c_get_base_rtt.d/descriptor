@@ -1,0 +1,5 @@
+struct tcpcb | t_inpcb struct TYPE_4__ * 
+struct rtentry | rtt_min int 
+struct TYPE_3__ | ro_rt struct rtentry * 
+struct TYPE_4__ | inp_route struct TYPE_3__ 
+function get_base_rtt int | tp struct tcpcb *

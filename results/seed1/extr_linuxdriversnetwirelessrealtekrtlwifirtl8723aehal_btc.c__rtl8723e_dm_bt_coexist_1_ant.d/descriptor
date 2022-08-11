@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function _rtl8723e_dm_bt_coexist_1_ant void | hw struct ieee80211_hw *

@@ -1,0 +1,2 @@
+struct usbhs_irq_state | intsts0 int 
+function usbhs_status_get_device_state int | irq_state struct usbhs_irq_state *

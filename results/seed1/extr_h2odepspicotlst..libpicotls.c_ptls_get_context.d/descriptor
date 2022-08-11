@@ -1,0 +1,2 @@
+struct TYPE_3__ | ctx int * 
+function ptls_get_context int * | tls struct TYPE_3__ *

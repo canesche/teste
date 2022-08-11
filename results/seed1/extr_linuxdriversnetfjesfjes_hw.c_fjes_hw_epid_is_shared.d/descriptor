@@ -1,0 +1,2 @@
+struct fjes_device_shared_info | epnum int | ep_status int * 
+function fjes_hw_epid_is_shared int | share struct fjes_device_shared_info * | dest_epid int

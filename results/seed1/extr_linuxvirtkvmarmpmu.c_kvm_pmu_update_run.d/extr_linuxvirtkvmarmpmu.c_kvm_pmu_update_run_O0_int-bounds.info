@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxvirtkvmarmpmu.c_kvm_pmu_update_run.d/extr_linuxvirtkvmarmpmu.c_kvm_pmu_update_run_O0::kvm_pmu_update_run(71)"
+  }
+]

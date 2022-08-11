@@ -1,0 +1,2 @@
+struct __kfifo | mask unsigned int | in unsigned int | out unsigned int 
+function kfifo_unused unsigned int | fifo struct __kfifo *

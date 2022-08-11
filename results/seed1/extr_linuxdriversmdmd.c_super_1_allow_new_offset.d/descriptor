@@ -1,0 +1,7 @@
+struct TYPE_8__ | sector unsigned long long | size unsigned long long 
+struct md_rdev | data_offset unsigned long long | sb_start int | badblocks struct TYPE_8__ | mddev struct TYPE_6__ * 
+struct TYPE_7__ | file_pages int 
+struct bitmap | storage struct TYPE_7__ 
+struct TYPE_5__ | offset int | file int 
+struct TYPE_6__ | minor_version long | bitmap_info struct TYPE_5__ | bitmap struct bitmap * 
+function super_1_allow_new_offset int | rdev struct md_rdev * | new_offset unsigned long long

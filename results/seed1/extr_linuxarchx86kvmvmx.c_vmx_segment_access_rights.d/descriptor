@@ -1,0 +1,2 @@
+struct kvm_segment | present int | type int | s int | dpl int | avl int | l int | db int | g int | unusable long 
+function vmx_segment_access_rights int | var struct kvm_segment *

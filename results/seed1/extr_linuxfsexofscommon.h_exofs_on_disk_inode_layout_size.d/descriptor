@@ -1,0 +1,2 @@
+struct exofs_on_disk_inode_layout | dummy int 
+function exofs_on_disk_inode_layout_size unsigned long | max_devs unsigned int

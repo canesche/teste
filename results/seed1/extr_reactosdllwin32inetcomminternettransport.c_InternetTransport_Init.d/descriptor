@@ -1,0 +1,2 @@
+struct TYPE_3__ | Socket int | fnCompletion int * | fCommandLogging int | Status int | pCallback int * 
+function InternetTransport_Init int | This struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct tc358743_state | dummy int 
+function tc358743_probe_of int | state struct tc358743_state *

@@ -1,0 +1,4 @@
+struct ieee80211_vif | dummy int 
+struct ieee80211_sta | dummy int 
+struct ieee80211_hw | dummy int 
+function rtl_op_sta_notify void | hw struct ieee80211_hw * | vif struct ieee80211_vif * | cmd enum sta_notify_cmd | sta struct ieee80211_sta *

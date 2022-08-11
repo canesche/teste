@@ -1,0 +1,3 @@
+struct tcf_exts | dummy int 
+struct ixgbe_adapter | dummy int 
+function parse_tc_actions int | adapter struct ixgbe_adapter * | exts struct tcf_exts * | action int * | queue int *

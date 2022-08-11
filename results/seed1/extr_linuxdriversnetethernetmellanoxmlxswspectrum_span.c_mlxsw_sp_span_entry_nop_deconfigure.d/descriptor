@@ -1,0 +1,2 @@
+struct mlxsw_sp_span_entry | dummy int 
+function mlxsw_sp_span_entry_nop_deconfigure void | span_entry struct mlxsw_sp_span_entry *

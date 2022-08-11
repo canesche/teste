@@ -1,0 +1,4 @@
+struct TYPE_2__ | max_brightness int 
+struct backlight_device | props struct TYPE_2__ 
+struct aat2870_bl_driver_data | max_current int | bd struct backlight_device * 
+function aat2870_brightness int | aat2870_bl struct aat2870_bl_driver_data * | brightness int

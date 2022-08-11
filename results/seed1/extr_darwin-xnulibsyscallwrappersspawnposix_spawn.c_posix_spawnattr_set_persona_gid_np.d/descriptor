@@ -1,0 +1,3 @@
+struct _posix_spawn_persona_info | pspi_flags int | pspi_gid int 
+struct TYPE_2__ | psa_persona_info struct _posix_spawn_persona_info * 
+function posix_spawnattr_set_persona_gid_np int | attr int *const *__restrict | gid int

@@ -1,0 +1,3 @@
+struct mp_chmap_sel | speakers int * 
+struct mp_chmap | num int | speaker unsigned long * 
+function test_speakers int | s const struct mp_chmap_sel * | map struct mp_chmap *

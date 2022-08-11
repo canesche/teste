@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxfsxfslibxfsxfs_alloc.c_xfs_alloc_longest_free_extent.d/extr_linuxfsxfslibxfsxfs_alloc.c_xfs_alloc_longest_free_extent_O0::xfs_alloc_longest_free_extent(66)"
+  }
+]

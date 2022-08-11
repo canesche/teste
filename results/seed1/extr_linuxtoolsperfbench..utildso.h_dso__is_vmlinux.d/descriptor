@@ -1,0 +1,2 @@
+struct dso | binary_type long 
+function dso__is_vmlinux int | dso struct dso *

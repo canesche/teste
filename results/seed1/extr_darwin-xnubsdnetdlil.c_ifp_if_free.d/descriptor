@@ -1,0 +1,2 @@
+struct ifnet | dummy int 
+function ifp_if_free void | ifp struct ifnet *

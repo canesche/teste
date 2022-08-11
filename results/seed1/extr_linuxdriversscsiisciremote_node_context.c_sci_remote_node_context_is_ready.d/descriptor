@@ -1,0 +1,3 @@
+struct TYPE_2__ | current_state_id long 
+struct sci_remote_node_context | sm struct TYPE_2__ 
+function sci_remote_node_context_is_ready int | sci_rnc struct sci_remote_node_context *

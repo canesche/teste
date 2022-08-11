@@ -1,0 +1,4 @@
+struct vga16fb_par | clkdiv int | misc int 
+struct fb_info | dummy int 
+function vga16fb_clock_chip void | par struct vga16fb_par * | pixclock unsigned int | info const struct fb_info * | mul int | div int
+struct  | pixclock int | misc int | seq_clock_mode int 

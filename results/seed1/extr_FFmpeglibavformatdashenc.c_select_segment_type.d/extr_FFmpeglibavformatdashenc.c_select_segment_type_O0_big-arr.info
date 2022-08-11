@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_FFmpeglibavformatdashenc.c_select_segment_type.d/extr_FFmpeglibavformatdashenc.c_select_segment_type_O0::select_segment_type(69)"
+  }
+]

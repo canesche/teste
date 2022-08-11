@@ -1,0 +1,2 @@
+struct kgdb_state | dummy int 
+function kdb_stub int | ks struct kgdb_state *

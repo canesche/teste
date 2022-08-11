@@ -1,0 +1,3 @@
+struct TYPE_2__ | identifier int 
+struct dasd_gneq | flags struct TYPE_2__ 
+function dasd_eckd_path_access unsigned char | conf_data void * | conf_len int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactosdll3rdpartylibpngpngrtran.c_png_init_palette_transformations.d/extr_reactosdll3rdpartylibpngpngrtran.c_png_init_palette_transformations_O0::png_init_palette_transformations(68)"
+  }
+]

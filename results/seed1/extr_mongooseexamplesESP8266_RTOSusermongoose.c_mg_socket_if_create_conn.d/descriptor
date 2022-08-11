@@ -1,0 +1,2 @@
+struct mg_connection | dummy int 
+function mg_socket_if_create_conn int | nc struct mg_connection *

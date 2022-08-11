@@ -1,0 +1,2 @@
+struct uart_port | line int | irq long 
+function siu_check_type unsigned int | port struct uart_port *

@@ -1,0 +1,2 @@
+struct sys_reg_desc | Op0 int | Op1 int | CRn int | CRm int | Op2 int 
+function sys_reg_to_index int | reg const struct sys_reg_desc *

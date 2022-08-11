@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxnetmac80211scan.c_is_uapsd_supported.d/extr_linuxnetmac80211scan.c_is_uapsd_supported_O0::is_uapsd_supported(63)"
+  }
+]

@@ -1,0 +1,4 @@
+struct mma9553_data | num_events int | events struct TYPE_4__ * 
+struct TYPE_4__ | enabled long | info struct TYPE_3__ * 
+struct TYPE_3__ | type int 
+function mma9553_is_any_event_enabled int | data struct mma9553_data * | check_type int | type enum iio_chan_type

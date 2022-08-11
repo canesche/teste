@@ -1,0 +1,3 @@
+struct nullb | dummy int 
+struct bio | dummy int 
+function null_zone_report int | nullb struct nullb * | bio struct bio *

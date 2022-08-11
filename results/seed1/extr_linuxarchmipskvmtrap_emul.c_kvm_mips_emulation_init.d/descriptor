@@ -1,0 +1,2 @@
+struct kvm_mips_callbacks | dummy int 
+function kvm_mips_emulation_init int | install_callbacks struct kvm_mips_callbacks **

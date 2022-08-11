@@ -1,0 +1,2 @@
+struct TYPE_3__ | Units unsigned int | Billions int 
+function BusLogic_IncrementByteCounter void | ByteCounter struct TYPE_3__ * | Amount unsigned int

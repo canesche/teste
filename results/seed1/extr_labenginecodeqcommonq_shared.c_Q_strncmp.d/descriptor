@@ -1,0 +1,1 @@
+function Q_strncmp int | s1 const char * | s2 const char * | n int

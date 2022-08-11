@@ -1,0 +1,2 @@
+struct TYPE_3__ | rv int * | v int * | len long | n long 
+function dl_perm_init void | p struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct rcu_cblist | len_lazy long | len long | head int * | tail int ** 
+function rcu_cblist_init void | rclp struct rcu_cblist *

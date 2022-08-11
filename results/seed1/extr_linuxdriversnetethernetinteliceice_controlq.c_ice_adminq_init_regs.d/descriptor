@@ -1,0 +1,5 @@
+struct TYPE_4__ | head_mask int | len_ena_mask int | len_mask int | bal int | bah int | len int | tail int | head int 
+struct TYPE_3__ | head_mask int | len_ena_mask int | len_mask int | bal int | bah int | len int | tail int | head int 
+struct ice_ctl_q_info | rq struct TYPE_4__ | sq struct TYPE_3__ 
+struct ice_hw | adminq struct ice_ctl_q_info 
+function ice_adminq_init_regs void | hw struct ice_hw *

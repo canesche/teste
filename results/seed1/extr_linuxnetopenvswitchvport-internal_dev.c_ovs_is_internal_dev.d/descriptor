@@ -1,0 +1,2 @@
+struct net_device | netdev_ops int * 
+function ovs_is_internal_dev int | netdev const struct net_device *

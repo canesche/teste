@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_darwin-xnubsdmiscfsfifofsfifo_vnops.c_fifo_pathconf.d/extr_darwin-xnubsdmiscfsfifofsfifo_vnops.c_fifo_pathconf_O0::fifo_pathconf(68)"
+  }
+]

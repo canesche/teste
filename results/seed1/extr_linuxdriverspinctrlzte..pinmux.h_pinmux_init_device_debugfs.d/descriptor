@@ -1,0 +1,3 @@
+struct pinctrl_dev | dummy int 
+struct dentry | dummy int 
+function pinmux_init_device_debugfs void | devroot struct dentry * | pctldev struct pinctrl_dev *

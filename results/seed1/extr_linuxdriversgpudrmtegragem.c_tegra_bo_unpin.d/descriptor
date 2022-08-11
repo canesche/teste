@@ -1,0 +1,3 @@
+struct sg_table | dummy int 
+struct host1x_bo | dummy int 
+function tegra_bo_unpin void | bo struct host1x_bo * | sgt struct sg_table *

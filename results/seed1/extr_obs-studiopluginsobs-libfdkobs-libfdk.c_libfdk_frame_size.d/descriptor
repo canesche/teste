@@ -1,0 +1,3 @@
+struct TYPE_3__ | frameLength unsigned long 
+struct TYPE_4__ | info struct TYPE_3__ 
+function libfdk_frame_size unsigned long | data void *

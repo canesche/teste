@@ -1,0 +1,2 @@
+struct ntb_transport_qp | qp_num unsigned char 
+function ntb_transport_qp_num unsigned char | qp struct ntb_transport_qp *

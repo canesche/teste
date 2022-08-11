@@ -1,0 +1,3 @@
+struct TYPE_2__ | sq_buf_size void * | rq_buf_size void * | num_sq_entries void * | num_rq_entries void * 
+struct ice_hw | adminq struct TYPE_2__ 
+function ice_set_ctrlq_len void | hw struct ice_hw *

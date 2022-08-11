@@ -1,0 +1,3 @@
+struct qeth_ipa_cmd | dummy int 
+struct qeth_cmd_buffer | data long 
+function __ipa_cmd struct qeth_ipa_cmd * | iob struct qeth_cmd_buffer *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | quant_matrix int * 
+function calc_quant_matrix void | s struct TYPE_3__ * | qscale int

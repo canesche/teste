@@ -1,0 +1,4 @@
+struct cf_token | dummy int 
+struct TYPE_2__ | array struct cf_token * 
+struct cf_preprocessor | tokens struct TYPE_2__ 
+function cf_preprocessor_get_tokens struct cf_token * | pp struct cf_preprocessor *

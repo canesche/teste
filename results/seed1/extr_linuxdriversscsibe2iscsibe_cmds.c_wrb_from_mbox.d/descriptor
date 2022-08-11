@@ -1,0 +1,4 @@
+struct be_mcc_wrb | dummy int 
+struct be_mcc_mailbox | wrb struct be_mcc_wrb 
+struct be_dma_mem | va long 
+function wrb_from_mbox struct be_mcc_wrb * | mbox_mem struct be_dma_mem *

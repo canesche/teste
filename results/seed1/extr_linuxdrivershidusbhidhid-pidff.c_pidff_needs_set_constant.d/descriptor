@@ -1,0 +1,4 @@
+struct TYPE_3__ | level long 
+struct TYPE_4__ | constant struct TYPE_3__ 
+struct ff_effect | u struct TYPE_4__ 
+function pidff_needs_set_constant int | effect struct ff_effect * | old struct ff_effect *

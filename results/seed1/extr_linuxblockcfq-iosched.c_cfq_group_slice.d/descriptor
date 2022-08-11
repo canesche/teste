@@ -1,0 +1,3 @@
+struct cfq_group | vfraction int 
+struct cfq_data | cfq_target_latency int 
+function cfq_group_slice int | cfqd struct cfq_data * | cfqg struct cfq_group *

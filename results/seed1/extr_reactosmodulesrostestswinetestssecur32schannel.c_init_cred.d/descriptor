@@ -1,0 +1,2 @@
+struct TYPE_3__ | dwFlags long | dwSessionLifespan long | dwMaximumCipherStrength long | dwMinimumCipherStrength long | grbitEnabledProtocols long | palgSupportedAlgs int * | cSupportedAlgs long | aphMappers int * | cMappers long | hRootStore int * | paCred long | cCreds long | dwVersion int 
+function init_cred void | cred struct TYPE_3__ *

@@ -1,0 +1,1 @@
+value(rqst_prescaler) == 10, length(prescale_div) == 100, length(tb_clk_div) == 100

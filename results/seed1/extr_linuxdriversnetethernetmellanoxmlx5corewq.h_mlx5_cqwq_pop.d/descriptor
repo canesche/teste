@@ -1,0 +1,2 @@
+struct mlx5_cqwq | cc int 
+function mlx5_cqwq_pop void | wq struct mlx5_cqwq *

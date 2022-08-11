@@ -1,0 +1,4 @@
+struct TYPE_4__ | kind int | name struct demangle_component * 
+struct TYPE_3__ | s_ctor struct TYPE_4__ 
+struct demangle_component | u struct TYPE_3__ | type int | d_printing long 
+function cplus_demangle_fill_ctor int | p struct demangle_component * | kind enum gnu_v3_ctor_kinds | name struct demangle_component *

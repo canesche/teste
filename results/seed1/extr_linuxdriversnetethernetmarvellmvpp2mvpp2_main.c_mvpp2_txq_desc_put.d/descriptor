@@ -1,0 +1,2 @@
+struct mvpp2_tx_queue | next_desc_to_proc long | last_desc long 
+function mvpp2_txq_desc_put void | txq struct mvpp2_tx_queue *

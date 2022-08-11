@@ -1,0 +1,3 @@
+struct wdrr_bucket | tail struct sk_buff * | head struct sk_buff * 
+struct sk_buff | next struct sk_buff * 
+function bucket_add void | bucket struct wdrr_bucket * | skb struct sk_buff *

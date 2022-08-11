@@ -1,0 +1,2 @@
+struct mvumi_hs_header | frame_content long 
+function mvumi_calculate_checksum unsigned char | p_header struct mvumi_hs_header * | len unsigned short

@@ -1,0 +1,2 @@
+struct TYPE_3__ | PSC int | SR long | CR1 int | DIER int 
+function timer_init void | TIM struct TYPE_3__ * | psc int

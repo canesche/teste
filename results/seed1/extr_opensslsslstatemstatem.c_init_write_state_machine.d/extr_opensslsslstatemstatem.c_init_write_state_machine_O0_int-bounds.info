@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_opensslsslstatemstatem.c_init_write_state_machine.d/extr_opensslsslstatemstatem.c_init_write_state_machine_O0::init_write_state_machine(67)"
+  }
+]

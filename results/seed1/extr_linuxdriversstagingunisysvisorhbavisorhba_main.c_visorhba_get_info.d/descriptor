@@ -1,0 +1,2 @@
+struct Scsi_Host | dummy int 
+function visorhba_get_info const char * | shp struct Scsi_Host *

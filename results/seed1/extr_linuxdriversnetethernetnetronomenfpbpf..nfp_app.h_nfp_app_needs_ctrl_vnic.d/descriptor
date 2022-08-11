@@ -1,0 +1,3 @@
+struct nfp_app | type struct TYPE_2__ * 
+struct TYPE_2__ | ctrl_msg_rx long 
+function nfp_app_needs_ctrl_vnic int | app struct nfp_app *

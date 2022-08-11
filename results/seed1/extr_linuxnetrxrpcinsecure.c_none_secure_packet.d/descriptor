@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct rxrpc_call | dummy int 
+function none_secure_packet int | call struct rxrpc_call * | skb struct sk_buff * | data_size unsigned long | sechdr void *

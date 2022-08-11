@@ -1,0 +1,2 @@
+struct intel_dp | link_trained int | link_rate int | link_mst int | lane_count int 
+function intel_dp_set_link_params void | intel_dp struct intel_dp * | link_rate int | lane_count int | link_mst int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 32,
+    phantoms: 31,
+    exit: true,
+    halt: false,
+    edges: 64,
+    static: {
+      instructions: 98,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 98,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxtoolsperfutilsession.c_perf_tool__fill_defaults.d/extr_linuxtoolsperfutilsession.c_perf_tool__fill_defaults_O0::perf_tool__fill_defaults(80)"
+  }
+]

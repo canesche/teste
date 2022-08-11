@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdrivershwmonadt7462.c_ADT7462_REG_VOLT_MAX.d/extr_linuxdrivershwmonadt7462.c_ADT7462_REG_VOLT_MAX_O0::ADT7462_REG_VOLT_MAX(73)"
+  }
+]

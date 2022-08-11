@@ -1,0 +1,2 @@
+struct kernfs_iattrs | ia_secdata_len unsigned long | ia_secdata void * 
+function kernfs_node_setsecdata int | attrs struct kernfs_iattrs * | secdata void ** | secdata_len unsigned long *

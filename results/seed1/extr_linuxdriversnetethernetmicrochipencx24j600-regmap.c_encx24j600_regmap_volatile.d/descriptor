@@ -1,0 +1,2 @@
+struct device | dummy int 
+function encx24j600_regmap_volatile int | dev struct device * | reg unsigned int

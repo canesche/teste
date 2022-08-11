@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 323,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_redissrcbitops.c_getUnsignedBitfield.d/extr_redissrcbitops.c_getUnsignedBitfield_O0::getUnsignedBitfield(60)"
+  }
+]

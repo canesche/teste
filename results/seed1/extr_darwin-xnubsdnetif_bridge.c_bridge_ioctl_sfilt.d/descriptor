@@ -1,0 +1,3 @@
+struct ifbrparam | ifbrp_filter int 
+struct bridge_softc | sc_filter_flags int 
+function bridge_ioctl_sfilt int | sc struct bridge_softc * | arg void *

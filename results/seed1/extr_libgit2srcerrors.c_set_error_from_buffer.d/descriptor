@@ -1,0 +1,4 @@
+struct TYPE_4__ | klass int | message int 
+struct TYPE_5__ | ptr int 
+struct TYPE_6__ | last_error struct TYPE_4__ * | error_buf struct TYPE_5__ | error_t struct TYPE_4__ 
+function set_error_from_buffer void | error_class int

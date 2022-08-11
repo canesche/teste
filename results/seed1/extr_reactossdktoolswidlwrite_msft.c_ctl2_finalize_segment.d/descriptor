@@ -1,0 +1,3 @@
+struct TYPE_5__ | typelib_segdir struct TYPE_4__ * 
+struct TYPE_4__ | length int | offset int 
+function ctl2_finalize_segment int | typelib struct TYPE_5__ * | filepos int | segment int

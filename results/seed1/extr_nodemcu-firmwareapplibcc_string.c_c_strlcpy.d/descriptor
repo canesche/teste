@@ -1,0 +1,1 @@
+function c_strlcpy unsigned long | dst char * | src const char * | siz unsigned long

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediausbpvrusb2pvrusb2-i2c-core.c_i2c_black_hole.d/extr_linuxdriversmediausbpvrusb2pvrusb2-i2c-core.c_i2c_black_hole_O0::i2c_black_hole(65)"
+  }
+]

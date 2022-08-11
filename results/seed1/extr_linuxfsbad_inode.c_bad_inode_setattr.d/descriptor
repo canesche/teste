@@ -1,0 +1,3 @@
+struct iattr | dummy int 
+struct dentry | dummy int 
+function bad_inode_setattr int | direntry struct dentry * | attrs struct iattr *

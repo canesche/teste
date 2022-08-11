@@ -1,0 +1,4 @@
+struct sfb_sched_data | slot unsigned long | bins struct TYPE_2__ * 
+struct sfb_bucket | qlen long | p_mark long 
+struct TYPE_2__ | bins struct sfb_bucket ** 
+function sfb_compute_qlen long | prob_r long * | avgpm_r long * | q const struct sfb_sched_data *

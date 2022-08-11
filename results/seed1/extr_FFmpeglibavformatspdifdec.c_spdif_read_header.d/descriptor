@@ -1,0 +1,2 @@
+struct TYPE_3__ | ctx_flags int 
+function spdif_read_header int | s struct TYPE_3__ *

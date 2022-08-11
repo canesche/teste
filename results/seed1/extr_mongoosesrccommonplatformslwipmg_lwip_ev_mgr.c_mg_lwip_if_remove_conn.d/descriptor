@@ -1,0 +1,5 @@
+struct mg_ev_mgr_lwip_data | sig_queue struct TYPE_4__ * 
+struct mg_connection | iface struct TYPE_3__ * 
+struct TYPE_4__ | sig int | nc struct mg_connection * 
+struct TYPE_3__ | data long 
+function mg_lwip_if_remove_conn void | nc struct mg_connection *

@@ -1,0 +1,1 @@
+function bcm281xx_pin_update void | reg_val int * | reg_mask int * | param_val int | param_shift int | param_mask int

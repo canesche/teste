@@ -1,0 +1,3 @@
+struct TYPE_5__ | di_map int * | serio_map struct TYPE_4__ * 
+struct TYPE_4__ | di_revmap int 
+function hil_mlc_clean_serio_map void | mlc struct TYPE_5__ *

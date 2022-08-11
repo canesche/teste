@@ -1,0 +1,2 @@
+struct hfi1_pportdata | actual_vls_operational int 
+function data_vls_operational int | ppd struct hfi1_pportdata *

@@ -1,0 +1,2 @@
+struct ao | dummy int 
+function uninit void | ao struct ao *

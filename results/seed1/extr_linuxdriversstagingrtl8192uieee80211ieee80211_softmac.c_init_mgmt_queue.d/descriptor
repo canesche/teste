@@ -1,0 +1,2 @@
+struct ieee80211_device | mgmt_queue_head long | mgmt_queue_tail long 
+function init_mgmt_queue void | ieee struct ieee80211_device *

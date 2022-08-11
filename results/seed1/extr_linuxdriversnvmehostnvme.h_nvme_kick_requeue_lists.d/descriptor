@@ -1,0 +1,2 @@
+struct nvme_ctrl | dummy int 
+function nvme_kick_requeue_lists void | ctrl struct nvme_ctrl *

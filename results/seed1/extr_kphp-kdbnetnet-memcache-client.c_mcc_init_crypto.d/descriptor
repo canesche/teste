@@ -1,0 +1,2 @@
+struct connection | dummy int 
+function mcc_init_crypto int | c struct connection *

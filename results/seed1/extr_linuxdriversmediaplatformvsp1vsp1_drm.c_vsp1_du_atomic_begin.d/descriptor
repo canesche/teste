@@ -1,0 +1,2 @@
+struct device | dummy int 
+function vsp1_du_atomic_begin void | dev struct device * | pipe_index unsigned int

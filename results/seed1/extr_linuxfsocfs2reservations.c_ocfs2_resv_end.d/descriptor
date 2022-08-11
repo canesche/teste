@@ -1,0 +1,2 @@
+struct ocfs2_alloc_reservation | r_len unsigned int | r_start unsigned int 
+function ocfs2_resv_end unsigned int | resv struct ocfs2_alloc_reservation *

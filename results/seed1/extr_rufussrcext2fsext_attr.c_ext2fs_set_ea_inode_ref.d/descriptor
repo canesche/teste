@@ -1,0 +1,4 @@
+struct TYPE_3__ | l_i_version void * 
+struct TYPE_4__ | linux1 struct TYPE_3__ 
+struct ext2_inode | osd1 struct TYPE_4__ | i_ctime void * 
+function ext2fs_set_ea_inode_ref void | inode struct ext2_inode * | ref_count int

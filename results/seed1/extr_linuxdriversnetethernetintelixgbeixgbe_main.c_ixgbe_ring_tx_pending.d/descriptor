@@ -1,0 +1,3 @@
+struct ixgbe_ring | next_to_use long | next_to_clean long 
+struct ixgbe_adapter | num_tx_queues int | num_xdp_queues int | xdp_ring struct ixgbe_ring ** | tx_ring struct ixgbe_ring ** 
+function ixgbe_ring_tx_pending int | adapter struct ixgbe_adapter *

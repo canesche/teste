@@ -1,0 +1,2 @@
+struct sun4i_ts_data | temp_data int | temp_step int | temp_offset int 
+function sun4i_get_temp int | ts const struct sun4i_ts_data * | temp int *

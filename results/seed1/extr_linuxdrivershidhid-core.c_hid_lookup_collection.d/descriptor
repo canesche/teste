@@ -1,0 +1,4 @@
+struct hid_parser | collection_stack_ptr int | collection_stack unsigned int * | device struct TYPE_2__ * 
+struct hid_collection | type unsigned int | usage int 
+struct TYPE_2__ | collection struct hid_collection * 
+function hid_lookup_collection unsigned int | parser struct hid_parser * | type unsigned int

@@ -1,0 +1,5 @@
+struct comedi_subdevice | async struct TYPE_2__ * 
+struct comedi_device | dummy int 
+struct comedi_cmd | stop_src long | stop_arg long 
+struct TYPE_2__ | scans_done long | events int | cmd struct comedi_cmd 
+function pcl812_ai_next_chan int | dev struct comedi_device * | s struct comedi_subdevice *

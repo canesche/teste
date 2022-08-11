@@ -1,0 +1,2 @@
+struct TYPE_3__ | type long 
+function v4l2_type_supported int | ctx struct TYPE_3__ *

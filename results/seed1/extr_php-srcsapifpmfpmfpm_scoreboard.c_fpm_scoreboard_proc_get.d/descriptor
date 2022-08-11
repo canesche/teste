@@ -1,0 +1,3 @@
+struct fpm_scoreboard_s | nprocs unsigned int | procs struct fpm_scoreboard_proc_s ** 
+struct fpm_scoreboard_proc_s | dummy int 
+function fpm_scoreboard_proc_get struct fpm_scoreboard_proc_s * | scoreboard struct fpm_scoreboard_s * | child_index int

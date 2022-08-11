@@ -1,0 +1,3 @@
+struct bfa_fcs_itnim_s | rport struct TYPE_2__ * 
+struct TYPE_2__ | pid int 
+function bfa_fcs_itnim_get_fcid int | itnim struct bfa_fcs_itnim_s *

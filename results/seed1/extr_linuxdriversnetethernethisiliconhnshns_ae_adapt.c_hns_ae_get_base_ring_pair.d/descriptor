@@ -1,0 +1,4 @@
+struct ring_pair_cb | dummy int 
+struct rcb_common_cb | max_q_per_vf int | max_vfn int | ring_pair_cb struct ring_pair_cb * 
+struct dsaf_device | rcb_common struct rcb_common_cb ** 
+function hns_ae_get_base_ring_pair struct ring_pair_cb * | dsaf_dev struct dsaf_device * | port int

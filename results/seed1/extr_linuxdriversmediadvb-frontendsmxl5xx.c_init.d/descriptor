@@ -1,0 +1,15 @@
+struct TYPE_15__ | len int | stat struct TYPE_14__ * 
+struct TYPE_13__ | len int | stat struct TYPE_24__ * 
+struct TYPE_23__ | len int | stat struct TYPE_22__ * 
+struct TYPE_21__ | len int | stat struct TYPE_20__ * 
+struct TYPE_19__ | len int | stat struct TYPE_18__ * 
+struct TYPE_17__ | len int | stat struct TYPE_16__ * 
+struct dtv_frontend_properties | post_bit_count struct TYPE_15__ | post_bit_error struct TYPE_13__ | pre_bit_count struct TYPE_23__ | pre_bit_error struct TYPE_21__ | cnr struct TYPE_19__ | strength struct TYPE_17__ 
+struct dvb_frontend | dtv_property_cache struct dtv_frontend_properties 
+struct TYPE_24__ | scale void * 
+struct TYPE_22__ | scale void * 
+struct TYPE_20__ | scale void * 
+struct TYPE_18__ | scale void * 
+struct TYPE_16__ | scale void * 
+struct TYPE_14__ | scale void * 
+function init int | fe struct dvb_frontend *

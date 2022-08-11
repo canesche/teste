@@ -1,0 +1,3 @@
+struct socket_address | dummy int 
+struct mg_connection | dummy int 
+function mg_null_if_udp_recv int | c struct mg_connection * | buf void * | len unsigned long | sa union socket_address * | sa_len unsigned long *

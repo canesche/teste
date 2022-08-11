@@ -1,0 +1,2 @@
+struct snd_midi_event | type int | qlen long | read long 
+function reset_encode void | dev struct snd_midi_event *

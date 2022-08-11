@@ -1,0 +1,4 @@
+struct zone_entry | l2p_table unsigned long * 
+struct ms_info | segment struct zone_entry * 
+struct rtsx_chip | ms_card struct ms_info 
+function ms_set_l2p_tbl void | chip struct rtsx_chip * | seg_no int | log_off unsigned long | phy_blk unsigned long

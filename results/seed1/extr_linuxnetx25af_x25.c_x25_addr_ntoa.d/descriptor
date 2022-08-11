@@ -1,0 +1,2 @@
+struct x25_address | x25_addr char * 
+function x25_addr_ntoa int | p unsigned char * | called_addr struct x25_address * | calling_addr struct x25_address *

@@ -1,0 +1,3 @@
+struct btc_coexist | dummy int 
+struct TYPE_2__ | bt_coex_thres2 int | bt_coex_thres int | wifi_coex_thres2 int | wifi_coex_thres int 
+function halbtc8822b2ant_coex_switch_threshold void | btcoexist struct btc_coexist * | isolation_measuared long

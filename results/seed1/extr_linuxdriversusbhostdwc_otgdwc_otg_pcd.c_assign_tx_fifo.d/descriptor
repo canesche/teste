@@ -1,0 +1,4 @@
+struct TYPE_5__ | num_in_eps int 
+struct TYPE_6__ | b struct TYPE_5__ 
+struct TYPE_7__ | tx_msk int | hwcfg4 struct TYPE_6__ 
+function assign_tx_fifo int | core_if struct TYPE_7__ *

@@ -1,0 +1,2 @@
+struct intel_pt_pkt | payload unsigned char | type int 
+function intel_pt_get_mtc int | buf const unsigned char * | len unsigned long | packet struct intel_pt_pkt *

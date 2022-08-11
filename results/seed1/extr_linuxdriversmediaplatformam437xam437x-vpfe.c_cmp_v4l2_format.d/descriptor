@@ -1,0 +1,4 @@
+struct TYPE_3__ | width long | height long | pixelformat long | field long | colorspace long | ycbcr_enc long | quantization long | xfer_func long 
+struct TYPE_4__ | pix struct TYPE_3__ 
+struct v4l2_format | type long | fmt struct TYPE_4__ 
+function cmp_v4l2_format int | lhs const struct v4l2_format * | rhs const struct v4l2_format *

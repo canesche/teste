@@ -1,0 +1,2 @@
+struct rcu_head | dummy int 
+function srcu_leak_callback void | rhp struct rcu_head *

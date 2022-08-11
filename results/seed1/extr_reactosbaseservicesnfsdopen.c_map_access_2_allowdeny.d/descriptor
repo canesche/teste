@@ -1,0 +1,1 @@
+function map_access_2_allowdeny void | access_mask int | access_mode int | disposition int | allow int * | deny int *

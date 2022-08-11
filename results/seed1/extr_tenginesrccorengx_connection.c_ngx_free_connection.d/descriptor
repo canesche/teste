@@ -1,0 +1,3 @@
+struct TYPE_4__ | fd unsigned long | data struct TYPE_4__ * 
+struct TYPE_5__ | files struct TYPE_4__ ** | free_connection_n int | free_connections struct TYPE_4__ * 
+function ngx_free_connection void | c struct TYPE_4__ *

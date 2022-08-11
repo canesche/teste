@@ -1,0 +1,2 @@
+struct team | mode int * 
+function team_is_mode_set int | team struct team *

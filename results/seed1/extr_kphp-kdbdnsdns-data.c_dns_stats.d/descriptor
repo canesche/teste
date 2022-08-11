@@ -1,0 +1,2 @@
+struct TYPE_3__ | percent_label_buff double | percent_record_buff double | percent_nodes double | percent_edges double 
+function dns_stats void | S struct TYPE_3__ *

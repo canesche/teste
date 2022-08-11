@@ -1,0 +1,2 @@
+struct TYPE_3__ | needFlush int | needInitState int | checkDicSize long | processedPos long | tempBufSize long | remainLen long 
+function LzmaDec_InitDicAndState void | p struct TYPE_3__ * | initDic long | initState long

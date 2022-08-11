@@ -1,0 +1,3 @@
+struct TYPE_2__ | payload int 
+struct intel_pt_decoder | cbr_payload int | cbr unsigned int | cbr_cyc_to_tsc unsigned int | max_non_turbo_ratio_fp unsigned int | packet struct TYPE_2__ 
+function intel_pt_calc_cbr void | decoder struct intel_pt_decoder *

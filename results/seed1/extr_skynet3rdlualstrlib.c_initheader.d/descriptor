@@ -1,0 +1,3 @@
+struct TYPE_5__ | little int 
+struct TYPE_4__ | maxalign int | islittle int | L int * 
+function initheader void | L int * | h struct TYPE_4__ *

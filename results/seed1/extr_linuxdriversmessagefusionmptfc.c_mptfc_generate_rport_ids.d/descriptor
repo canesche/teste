@@ -1,0 +1,5 @@
+struct fc_rport_identifiers | node_name int | port_name int | roles int | port_id int 
+struct TYPE_6__ | Low long | High long 
+struct TYPE_5__ | Low long | High long 
+struct TYPE_7__ | Flags int | Protocol int | PortIdentifier int | WWPN struct TYPE_6__ | WWNN struct TYPE_5__ 
+function mptfc_generate_rport_ids int | pg0 struct TYPE_7__ * | rid struct fc_rport_identifiers *

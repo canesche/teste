@@ -1,0 +1,3 @@
+struct mpls_route | rt_via_offset int 
+struct mpls_nh | dummy int 
+function __mpls_nh_via int * | rt struct mpls_route * | nh struct mpls_nh *

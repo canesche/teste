@@ -1,0 +1,5 @@
+struct TYPE_2__ | pix int 
+struct v4l2_format | fmt struct TYPE_2__ 
+struct omap_vout_device | pix int 
+struct file | dummy int 
+function vidioc_g_fmt_vid_out int | file struct file * | fh void * | f struct v4l2_format *

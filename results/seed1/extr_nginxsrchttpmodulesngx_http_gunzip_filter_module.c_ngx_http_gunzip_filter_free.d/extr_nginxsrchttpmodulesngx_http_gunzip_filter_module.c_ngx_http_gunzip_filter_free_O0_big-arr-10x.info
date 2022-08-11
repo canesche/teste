@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_nginxsrchttpmodulesngx_http_gunzip_filter_module.c_ngx_http_gunzip_filter_free.d/extr_nginxsrchttpmodulesngx_http_gunzip_filter_module.c_ngx_http_gunzip_filter_free_O0::ngx_http_gunzip_filter_free(61)"
+  }
+]

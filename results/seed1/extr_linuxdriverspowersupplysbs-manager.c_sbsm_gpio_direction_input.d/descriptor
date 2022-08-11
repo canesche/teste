@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function sbsm_gpio_direction_input int | gc struct gpio_chip * | off unsigned int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriverspcmciavrc4173_cardu.c_set_Vpp_value.d/extr_linuxdriverspcmciavrc4173_cardu.c_set_Vpp_value_O0::set_Vpp_value(65)"
+  }
+]

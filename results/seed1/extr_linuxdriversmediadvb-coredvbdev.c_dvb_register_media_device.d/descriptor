@@ -1,0 +1,2 @@
+struct dvb_device | dummy int 
+function dvb_register_media_device int | dvbdev struct dvb_device * | type int | minor int | demux_sink_pads unsigned int

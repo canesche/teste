@@ -1,0 +1,2 @@
+struct clx2_queue | last_used int | first_empty int | n_bd long 
+function ipw_tx_queue_space int | q const struct clx2_queue *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | reference int | needs_realloc long | f struct TYPE_4__ * 
+struct TYPE_4__ | buf int * 
+function pic_is_unused int | pic struct TYPE_5__ *

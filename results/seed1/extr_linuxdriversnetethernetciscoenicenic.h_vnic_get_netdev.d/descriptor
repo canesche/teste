@@ -1,0 +1,4 @@
+struct vnic_dev | priv struct enic * 
+struct net_device | dummy int 
+struct enic | netdev struct net_device * 
+function vnic_get_netdev struct net_device * | vdev struct vnic_dev *

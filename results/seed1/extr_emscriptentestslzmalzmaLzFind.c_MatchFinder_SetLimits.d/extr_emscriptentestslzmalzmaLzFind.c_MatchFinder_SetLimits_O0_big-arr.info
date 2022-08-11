@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 56,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 56,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_emscriptentestslzmalzmaLzFind.c_MatchFinder_SetLimits.d/extr_emscriptentestslzmalzmaLzFind.c_MatchFinder_SetLimits_O0::MatchFinder_SetLimits(65)"
+  }
+]

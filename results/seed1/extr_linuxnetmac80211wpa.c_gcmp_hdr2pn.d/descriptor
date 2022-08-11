@@ -1,0 +1,1 @@
+function gcmp_hdr2pn void | pn int * | hdr const int *

@@ -1,0 +1,2 @@
+struct rbd_device | lock_state long 
+function __rbd_is_lock_owner int | rbd_dev struct rbd_device *

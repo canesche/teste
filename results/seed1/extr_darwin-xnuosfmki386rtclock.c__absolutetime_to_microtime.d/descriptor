@@ -1,0 +1,1 @@
+function _absolutetime_to_microtime int | abstime int | secs int * | microsecs int *

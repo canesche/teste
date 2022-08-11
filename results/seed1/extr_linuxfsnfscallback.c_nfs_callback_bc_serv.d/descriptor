@@ -1,0 +1,3 @@
+struct svc_serv | dummy int 
+struct rpc_xprt | dummy int 
+function nfs_callback_bc_serv void | minorversion int | xprt struct rpc_xprt * | serv struct svc_serv *

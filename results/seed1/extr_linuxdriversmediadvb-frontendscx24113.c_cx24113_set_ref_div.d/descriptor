@@ -1,0 +1,2 @@
+struct cx24113_state | rev int | vcodiv long | refdiv int 
+function cx24113_set_ref_div int | state struct cx24113_state * | refdiv int

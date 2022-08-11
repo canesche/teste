@@ -1,0 +1,2 @@
+struct func_hook | hooked int | func_addr long | hook_addr long | type int | call_addr void * 
+function hook_reverse_new void | hook struct func_hook * | p int *

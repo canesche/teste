@@ -1,0 +1,3 @@
+struct TYPE_2__ | oper_bwmode int 
+struct adapter | mlmeextpriv struct TYPE_2__ 
+function rtw_set_oper_bw void | adapter struct adapter * | bw int

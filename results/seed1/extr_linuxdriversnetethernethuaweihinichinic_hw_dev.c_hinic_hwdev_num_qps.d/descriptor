@@ -1,0 +1,3 @@
+struct hinic_cap | num_qps int 
+struct hinic_hwdev | nic_cap struct hinic_cap 
+function hinic_hwdev_num_qps int | hwdev struct hinic_hwdev *

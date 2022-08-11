@@ -1,0 +1,2 @@
+struct rebase_options | type long 
+function is_interactive int | opts struct rebase_options *

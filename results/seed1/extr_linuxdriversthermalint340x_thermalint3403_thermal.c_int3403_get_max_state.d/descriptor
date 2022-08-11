@@ -1,0 +1,4 @@
+struct thermal_cooling_device | devdata struct int3403_priv * 
+struct int3403_priv | priv struct int3403_cdev * 
+struct int3403_cdev | max_state unsigned long 
+function int3403_get_max_state int | cdev struct thermal_cooling_device * | state unsigned long *

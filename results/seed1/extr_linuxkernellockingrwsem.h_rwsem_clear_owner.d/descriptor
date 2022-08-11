@@ -1,0 +1,2 @@
+struct rw_semaphore | dummy int 
+function rwsem_clear_owner void | sem struct rw_semaphore *

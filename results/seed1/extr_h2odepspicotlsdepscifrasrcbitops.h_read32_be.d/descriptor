@@ -1,0 +1,1 @@
+function read32_be const int | buf int const[4]

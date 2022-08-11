@@ -1,0 +1,2 @@
+struct adapter | dummy int 
+function HalSetBrateCfg void | Adapter struct adapter * | mBratesOS unsigned long * | pBrateCfg int *

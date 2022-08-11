@@ -1,0 +1,3 @@
+struct efx_ef10_filter_table | entry struct TYPE_2__ * 
+struct TYPE_2__ | spec unsigned int 
+function efx_ef10_filter_entry_flags unsigned int | table const struct efx_ef10_filter_table * | filter_idx unsigned int

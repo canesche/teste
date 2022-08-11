@@ -1,0 +1,2 @@
+struct TYPE_3__ | pos unsigned long | length long 
+function ZDICT_dictSize unsigned long | dictList const struct TYPE_3__ *

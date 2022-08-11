@@ -1,0 +1,2 @@
+struct TYPE_5__ | x1 int | x2 int | right struct TYPE_5__ * | left struct TYPE_5__ * 
+function new_node2 struct TYPE_5__ * | x int | l struct TYPE_5__ * | r struct TYPE_5__ *

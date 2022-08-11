@@ -1,0 +1,2 @@
+struct urb | dummy int 
+function usa49_outcont_callback void | urb struct urb *

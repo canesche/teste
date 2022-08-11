@@ -1,0 +1,1 @@
+function comedi_is_runflags_in_error int | runflags unsigned int

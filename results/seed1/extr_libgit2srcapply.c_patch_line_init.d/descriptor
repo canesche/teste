@@ -1,0 +1,2 @@
+struct TYPE_3__ | content const char * | content_len unsigned long | content_offset unsigned long 
+function patch_line_init void | out struct TYPE_3__ * | in const char * | in_len unsigned long | in_offset unsigned long

@@ -1,0 +1,3 @@
+struct options_table_entry | dummy int 
+struct options_entry | tableentry const struct options_table_entry * 
+function options_table_entry const struct options_table_entry * | o struct options_entry *

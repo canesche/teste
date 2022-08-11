@@ -1,0 +1,4 @@
+struct TYPE_3__ | type long 
+struct TYPE_4__ | in struct TYPE_3__ 
+struct cx18 | vbi struct TYPE_4__ 
+function cx18_raw_vbi int | cx const struct cx18 *

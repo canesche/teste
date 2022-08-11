@@ -1,0 +1,2 @@
+struct xgbe_prv_data | dummy int 
+function xgbe_phy_an_config int | pdata struct xgbe_prv_data *

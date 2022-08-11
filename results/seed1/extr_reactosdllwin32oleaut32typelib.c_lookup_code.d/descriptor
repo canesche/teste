@@ -1,0 +1,2 @@
+struct bitstream | current int | buffer int * | length int 
+function lookup_code const char * | table const int * | table_size int | bits struct bitstream *

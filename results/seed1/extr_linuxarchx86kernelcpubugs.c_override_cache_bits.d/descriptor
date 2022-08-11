@@ -1,0 +1,2 @@
+struct cpuinfo_x86 | x86 int | x86_model int | x86_cache_bits int 
+function override_cache_bits void | c struct cpuinfo_x86 *

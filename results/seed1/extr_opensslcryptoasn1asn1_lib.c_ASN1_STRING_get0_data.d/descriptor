@@ -1,0 +1,2 @@
+struct TYPE_3__ | data const unsigned char * 
+function ASN1_STRING_get0_data const unsigned char * | x const struct TYPE_3__ *

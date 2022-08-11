@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxnetipv6netfilterip6_tables.c_icmp6_type_code_match.d/extr_linuxnetipv6netfilterip6_tables.c_icmp6_type_code_match_O0::icmp6_type_code_match(64)"
+  }
+]

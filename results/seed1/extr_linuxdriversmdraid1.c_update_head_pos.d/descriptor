@@ -1,0 +1,5 @@
+struct r1conf | mirrors struct TYPE_4__ * 
+struct r1bio | sectors long | sector long | mddev struct TYPE_3__ * 
+struct TYPE_4__ | head_position long 
+struct TYPE_3__ | private struct r1conf * 
+function update_head_pos void | disk int | r1_bio struct r1bio *

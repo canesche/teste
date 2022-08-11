@@ -1,0 +1,2 @@
+struct ni_gpct_device | variant int 
+function ni_tio_has_gate2_registers int | counter_dev const struct ni_gpct_device *

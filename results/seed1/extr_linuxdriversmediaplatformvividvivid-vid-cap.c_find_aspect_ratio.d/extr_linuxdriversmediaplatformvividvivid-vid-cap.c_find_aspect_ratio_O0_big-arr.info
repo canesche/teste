@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediaplatformvividvivid-vid-cap.c_find_aspect_ratio.d/extr_linuxdriversmediaplatformvividvivid-vid-cap.c_find_aspect_ratio_O0::find_aspect_ratio(62)"
+  }
+]

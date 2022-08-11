@@ -1,0 +1,2 @@
+struct net_bridge | dummy int 
+function br_multicast_open void | br struct net_bridge *

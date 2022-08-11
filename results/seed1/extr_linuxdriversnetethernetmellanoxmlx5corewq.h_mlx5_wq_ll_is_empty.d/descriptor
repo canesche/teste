@@ -1,0 +1,2 @@
+struct mlx5_wq_ll | cur_sz int 
+function mlx5_wq_ll_is_empty int | wq struct mlx5_wq_ll *

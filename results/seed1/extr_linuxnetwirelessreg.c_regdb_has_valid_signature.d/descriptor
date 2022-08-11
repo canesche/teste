@@ -1,0 +1,1 @@
+function regdb_has_valid_signature int | data const int * | size unsigned int

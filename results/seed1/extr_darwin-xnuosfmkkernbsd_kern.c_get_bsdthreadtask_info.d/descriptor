@@ -1,0 +1,3 @@
+struct TYPE_5__ | bsd_info void * 
+struct TYPE_4__ | task struct TYPE_5__ * 
+function get_bsdthreadtask_info void * | th struct TYPE_4__ *

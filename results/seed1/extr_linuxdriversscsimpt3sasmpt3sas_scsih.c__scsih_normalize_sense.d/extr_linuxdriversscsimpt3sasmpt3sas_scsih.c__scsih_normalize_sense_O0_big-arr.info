@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversscsimpt3sasmpt3sas_scsih.c__scsih_normalize_sense.d/extr_linuxdriversscsimpt3sasmpt3sas_scsih.c__scsih_normalize_sense_O0::_scsih_normalize_sense(62)"
+  }
+]

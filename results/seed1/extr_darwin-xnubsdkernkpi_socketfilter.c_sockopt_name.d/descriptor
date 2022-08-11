@@ -1,0 +1,2 @@
+struct TYPE_3__ | sopt_name int 
+function sockopt_name int | sopt struct TYPE_3__ *

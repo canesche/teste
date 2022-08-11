@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversstagingmediazoranzoran_device.c_clear_interrupt_counters.d/extr_linuxdriversstagingmediazoranzoran_device.c_clear_interrupt_counters_O0::clear_interrupt_counters(62)"
+  }
+]

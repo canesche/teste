@@ -1,0 +1,2 @@
+struct ringbuf_t | head const void * 
+function ringbuf_head const void * | rb const struct ringbuf_t *

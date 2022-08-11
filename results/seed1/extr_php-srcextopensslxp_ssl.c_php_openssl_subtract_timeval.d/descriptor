@@ -1,0 +1,2 @@
+struct timeval | tv_usec long | tv_sec long 
+function php_openssl_subtract_timeval struct timeval | a struct timeval | b struct timeval

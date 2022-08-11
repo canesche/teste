@@ -1,0 +1,2 @@
+struct llcc_slice_desc | slice_id int 
+function llcc_get_slice_id int | desc struct llcc_slice_desc *

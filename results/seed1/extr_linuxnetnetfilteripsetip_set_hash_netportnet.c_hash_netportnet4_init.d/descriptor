@@ -1,0 +1,2 @@
+struct hash_netportnet4_elem | cidr void ** 
+function hash_netportnet4_init void | e struct hash_netportnet4_elem *

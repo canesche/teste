@@ -1,0 +1,3 @@
+struct TYPE_4__ | IDirectInputDevice8W_iface int 
+struct TYPE_5__ | base struct TYPE_4__ 
+function IDirectInputDevice8W_from_impl int * | This struct TYPE_5__ *

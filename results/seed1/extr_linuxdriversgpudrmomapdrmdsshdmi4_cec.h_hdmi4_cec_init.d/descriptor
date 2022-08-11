@@ -1,0 +1,4 @@
+struct platform_device | dummy int 
+struct hdmi_wp_data | dummy int 
+struct hdmi_core_data | dummy int 
+function hdmi4_cec_init int | pdev struct platform_device * | core struct hdmi_core_data * | wp struct hdmi_wp_data *

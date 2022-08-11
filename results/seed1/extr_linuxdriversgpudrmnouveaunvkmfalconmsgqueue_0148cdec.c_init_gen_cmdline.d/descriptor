@@ -1,0 +1,3 @@
+struct nvkm_msgqueue | dummy int 
+function init_gen_cmdline void | queue struct nvkm_msgqueue * | buf void *
+struct  | freq_hz int | falc_trace_size int | falc_trace_dma_base int | falc_trace_dma_idx int | secure_mode int 

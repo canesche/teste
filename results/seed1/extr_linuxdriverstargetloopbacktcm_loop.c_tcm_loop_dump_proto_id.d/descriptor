@@ -1,0 +1,2 @@
+struct tcm_loop_hba | tl_proto_id int 
+function tcm_loop_dump_proto_id char * | tl_hba struct tcm_loop_hba *

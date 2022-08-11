@@ -1,0 +1,2 @@
+struct TYPE_3__ | ifb_flags int 
+function ifbond_flags_set_change_in_progress void | ifb struct TYPE_3__ *

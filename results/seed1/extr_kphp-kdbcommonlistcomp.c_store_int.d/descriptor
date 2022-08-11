@@ -1,0 +1,2 @@
+struct list_encoder | L int * | k int 
+function store_int void | enc struct list_encoder * | d int

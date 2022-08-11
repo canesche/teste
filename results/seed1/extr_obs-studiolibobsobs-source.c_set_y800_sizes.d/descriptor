@@ -1,0 +1,3 @@
+struct obs_source_frame | height int | width int 
+struct obs_source | async_texture_format int | async_convert_height int | async_convert_width int 
+function set_y800_sizes int | source struct obs_source * | frame const struct obs_source_frame *

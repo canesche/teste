@@ -1,0 +1,2 @@
+struct TYPE_3__ | count long | reset long 
+function statsd_reset_metric void | m struct TYPE_3__ *

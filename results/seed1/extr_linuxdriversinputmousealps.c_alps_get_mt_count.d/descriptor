@@ -1,0 +1,2 @@
+struct input_mt_pos | x long | y long 
+function alps_get_mt_count int | mt struct input_mt_pos *

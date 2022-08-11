@@ -1,0 +1,3 @@
+struct net_bridge | dummy int 
+struct ethhdr | dummy int 
+function br_multicast_querier_exists int | br struct net_bridge * | eth struct ethhdr *

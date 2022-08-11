@@ -1,0 +1,3 @@
+struct block_device | bd_part struct TYPE_2__ * 
+struct TYPE_2__ | policy int 
+function set_device_ro void | bdev struct block_device * | flag int

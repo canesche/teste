@@ -1,0 +1,3 @@
+struct TYPE_3__ | lpQHFirst int 
+struct TYPE_4__ | first struct TYPE_3__ | present int 
+function NS_ResetSessionEnumeration void | lpNSInfo long

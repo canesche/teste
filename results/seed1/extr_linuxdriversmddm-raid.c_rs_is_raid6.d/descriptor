@@ -1,0 +1,3 @@
+struct TYPE_2__ | level int 
+struct raid_set | md struct TYPE_2__ 
+function rs_is_raid6 int | rs struct raid_set *

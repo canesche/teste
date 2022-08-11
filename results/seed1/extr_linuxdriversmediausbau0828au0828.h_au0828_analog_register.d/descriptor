@@ -1,0 +1,3 @@
+struct usb_interface | dummy int 
+struct au0828_dev | dummy int 
+function au0828_analog_register int | dev struct au0828_dev * | interface struct usb_interface *

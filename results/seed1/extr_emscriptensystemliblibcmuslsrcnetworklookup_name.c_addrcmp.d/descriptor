@@ -1,0 +1,2 @@
+struct address | sortkey int 
+function addrcmp int | _a const void * | _b const void *

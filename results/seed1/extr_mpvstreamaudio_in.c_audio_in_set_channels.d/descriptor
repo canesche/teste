@@ -1,0 +1,2 @@
+struct TYPE_3__ | type int 
+function audio_in_set_channels int | ai struct TYPE_3__ * | channels int

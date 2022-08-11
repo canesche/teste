@@ -1,0 +1,3 @@
+struct TYPE_4__ | MaximumLength int | Length long | Buffer int 
+struct TYPE_5__ | Str struct TYPE_4__ | FixedBuffer int 
+function SdbpInitTempStr void | String struct TYPE_5__ *

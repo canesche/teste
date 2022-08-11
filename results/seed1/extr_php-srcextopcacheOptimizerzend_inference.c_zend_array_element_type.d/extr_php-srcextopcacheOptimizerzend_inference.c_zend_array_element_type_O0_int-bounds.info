@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_php-srcextopcacheOptimizerzend_inference.c_zend_array_element_type.d/extr_php-srcextopcacheOptimizerzend_inference.c_zend_array_element_type_O0::zend_array_element_type(80)"
+  }
+]

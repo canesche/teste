@@ -1,0 +1,2 @@
+struct fddi_addr | a int * 
+function is_equal int | addr1 const struct fddi_addr * | addr2 const struct fddi_addr *

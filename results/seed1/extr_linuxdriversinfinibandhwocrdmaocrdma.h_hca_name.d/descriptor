@@ -1,0 +1,4 @@
+struct TYPE_4__ | pdev struct TYPE_3__ * 
+struct ocrdma_dev | nic_info struct TYPE_4__ 
+struct TYPE_3__ | device int 
+function hca_name char * | dev struct ocrdma_dev *

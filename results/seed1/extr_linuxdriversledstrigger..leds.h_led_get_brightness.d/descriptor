@@ -1,0 +1,2 @@
+struct led_classdev | brightness int 
+function led_get_brightness int | led_cdev struct led_classdev *

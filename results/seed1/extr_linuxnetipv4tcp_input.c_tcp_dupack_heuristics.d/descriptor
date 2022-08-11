@@ -1,0 +1,2 @@
+struct tcp_sock | sacked_out int 
+function tcp_dupack_heuristics int | tp const struct tcp_sock *

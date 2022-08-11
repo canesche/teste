@@ -1,0 +1,1 @@
+value(has_interp) == 10, length(ehdr) == 100, length(interp_ehdr) == 100, length(state) == 100

@@ -1,0 +1,2 @@
+struct qlist_head | bytes long | tail int * | head int 
+function qlist_init void | q struct qlist_head *

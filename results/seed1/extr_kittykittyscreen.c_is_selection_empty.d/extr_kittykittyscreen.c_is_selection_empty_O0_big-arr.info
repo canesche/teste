@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 8,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_kittykittyscreen.c_is_selection_empty.d/extr_kittykittyscreen.c_is_selection_empty_O0::is_selection_empty(63)"
+  }
+]

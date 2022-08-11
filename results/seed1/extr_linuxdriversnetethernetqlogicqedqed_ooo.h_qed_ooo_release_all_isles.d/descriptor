@@ -1,0 +1,3 @@
+struct qed_ooo_info | dummy int 
+struct qed_hwfn | dummy int 
+function qed_ooo_release_all_isles void | p_hwfn struct qed_hwfn * | p_ooo_info struct qed_ooo_info *

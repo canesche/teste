@@ -1,0 +1,2 @@
+struct net_bridge_vlan | flags int 
+function br_vlan_is_brentry int | v const struct net_bridge_vlan *

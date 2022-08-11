@@ -1,0 +1,4 @@
+struct xfs_iext_rec | dummy int 
+struct xfs_iext_cursor | pos unsigned long | leaf struct TYPE_2__ * 
+struct TYPE_2__ | recs struct xfs_iext_rec * 
+function cur_rec struct xfs_iext_rec * | cur struct xfs_iext_cursor *

@@ -1,0 +1,3 @@
+struct cfg80211_chan_def | width int | center_freq1 int | center_freq2 int | chan struct TYPE_2__ * 
+struct TYPE_2__ | center_freq int 
+function cfg80211_chandef_valid int | chandef const struct cfg80211_chan_def *

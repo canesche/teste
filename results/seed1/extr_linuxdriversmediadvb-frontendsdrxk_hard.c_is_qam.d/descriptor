@@ -1,0 +1,2 @@
+struct drxk_state | m_operation_mode long 
+function is_qam int | state struct drxk_state *

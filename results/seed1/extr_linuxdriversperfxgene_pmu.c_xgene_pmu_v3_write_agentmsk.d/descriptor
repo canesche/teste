@@ -1,0 +1,2 @@
+struct xgene_pmu_dev | dummy int 
+function xgene_pmu_v3_write_agentmsk void | pmu_dev struct xgene_pmu_dev * | val int

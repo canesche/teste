@@ -1,0 +1,2 @@
+struct nct7904_data | fanin_mask int 
+function nct7904_fan_is_visible int | _data const void * | attr long | channel int

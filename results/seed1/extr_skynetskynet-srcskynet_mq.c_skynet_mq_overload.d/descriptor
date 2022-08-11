@@ -1,0 +1,2 @@
+struct message_queue | overload int 
+function skynet_mq_overload int | q struct message_queue *

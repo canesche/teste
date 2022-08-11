@@ -1,0 +1,1 @@
+function str_purify_filename char * | dst char * | src char * | size unsigned long

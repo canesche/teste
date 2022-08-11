@@ -1,0 +1,6 @@
+struct TYPE_8__ | level long | condition_cnt int | max_current int | test_delta_i int | current_iset int | original_iset int 
+struct abx500_chargalg | ccm struct TYPE_8__ | bm struct TYPE_7__ * 
+struct TYPE_7__ | batt_id unsigned long | maxi struct TYPE_6__ * | bat_type struct TYPE_5__ * 
+struct TYPE_6__ | wait_cycles int | chg_curr int | charger_curr_step int 
+struct TYPE_5__ | normal_cur_lvl int 
+function init_maxim_chg_curr void | di struct abx500_chargalg *

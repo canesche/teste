@@ -1,0 +1,2 @@
+struct pinctrl_setting | dummy int 
+function pinmux_enable_setting int | setting const struct pinctrl_setting *

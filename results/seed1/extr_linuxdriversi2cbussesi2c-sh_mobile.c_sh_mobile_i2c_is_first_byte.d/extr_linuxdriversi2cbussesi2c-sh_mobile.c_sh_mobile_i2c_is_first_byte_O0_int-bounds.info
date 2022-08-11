@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversi2cbussesi2c-sh_mobile.c_sh_mobile_i2c_is_first_byte.d/extr_linuxdriversi2cbussesi2c-sh_mobile.c_sh_mobile_i2c_is_first_byte_O0::sh_mobile_i2c_is_first_byte(61)"
+  }
+]

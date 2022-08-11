@@ -1,0 +1,2 @@
+struct cfs_rq | dummy int 
+function cfs_rq_throttled int | cfs_rq struct cfs_rq *

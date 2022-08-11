@@ -1,0 +1,2 @@
+struct hci_dev | dummy int 
+function btrtl_setup_realtek int | hdev struct hci_dev *

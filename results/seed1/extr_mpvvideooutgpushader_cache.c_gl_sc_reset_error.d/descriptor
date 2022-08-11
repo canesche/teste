@@ -1,0 +1,2 @@
+struct gl_shader_cache | error_state int 
+function gl_sc_reset_error void | sc struct gl_shader_cache *

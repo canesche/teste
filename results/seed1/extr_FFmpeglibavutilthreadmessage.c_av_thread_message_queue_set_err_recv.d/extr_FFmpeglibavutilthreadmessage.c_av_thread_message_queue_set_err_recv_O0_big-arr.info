@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_FFmpeglibavutilthreadmessage.c_av_thread_message_queue_set_err_recv.d/extr_FFmpeglibavutilthreadmessage.c_av_thread_message_queue_set_err_recv_O0::av_thread_message_queue_set_err_recv(62)"
+  }
+]

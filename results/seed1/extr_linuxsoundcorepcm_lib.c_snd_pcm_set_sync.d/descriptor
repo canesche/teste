@@ -1,0 +1,6 @@
+struct snd_pcm_substream | pcm struct TYPE_6__ * | runtime struct snd_pcm_runtime * 
+struct TYPE_4__ | id32 int * 
+struct snd_pcm_runtime | sync struct TYPE_4__ 
+struct TYPE_6__ | card struct TYPE_5__ * 
+struct TYPE_5__ | number int 
+function snd_pcm_set_sync void | substream struct snd_pcm_substream *

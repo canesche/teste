@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxarchshkernelcpush4softfloat.c_shift32RightJamming.d/extr_linuxarchshkernelcpush4softfloat.c_shift32RightJamming_O0::shift32RightJamming(62)"
+  }
+]

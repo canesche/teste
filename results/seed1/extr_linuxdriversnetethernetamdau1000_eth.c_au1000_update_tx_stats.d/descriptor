@@ -1,0 +1,4 @@
+struct net_device_stats | tx_carrier_errors int | tx_aborted_errors int | tx_errors int 
+struct net_device | phydev struct TYPE_2__ * | stats struct net_device_stats 
+struct TYPE_2__ | duplex long 
+function au1000_update_tx_stats void | dev struct net_device * | status int

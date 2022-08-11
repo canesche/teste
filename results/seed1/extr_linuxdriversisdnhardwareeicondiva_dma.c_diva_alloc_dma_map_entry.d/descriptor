@@ -1,0 +1,2 @@
+struct _diva_dma_map_entry | busy int | local_ram_addr long 
+function diva_alloc_dma_map_entry int | pmap struct _diva_dma_map_entry *

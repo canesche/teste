@@ -1,0 +1,1 @@
+function ahc_compose_id int | device int | vendor int | subdevice int | subvendor int

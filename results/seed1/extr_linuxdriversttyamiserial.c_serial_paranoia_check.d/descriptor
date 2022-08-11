@@ -1,0 +1,2 @@
+struct serial_state | dummy int 
+function serial_paranoia_check int | info struct serial_state * | name char * | routine const char *

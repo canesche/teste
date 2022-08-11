@@ -1,0 +1,1 @@
+function comedi_check_trigger_src int | src unsigned int * | flags unsigned int

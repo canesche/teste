@@ -1,0 +1,5 @@
+struct macb_dma_desc_ptp | dummy int 
+struct macb_dma_desc_64 | dummy int 
+struct macb_dma_desc | dummy int 
+struct macb | hw_dma_cap long 
+function macb_ptp_desc struct macb_dma_desc_ptp * | bp struct macb * | desc struct macb_dma_desc *

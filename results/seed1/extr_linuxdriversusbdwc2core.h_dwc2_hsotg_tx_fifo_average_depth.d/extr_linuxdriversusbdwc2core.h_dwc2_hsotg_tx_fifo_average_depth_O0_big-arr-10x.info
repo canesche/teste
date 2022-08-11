@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversusbdwc2core.h_dwc2_hsotg_tx_fifo_average_depth.d/extr_linuxdriversusbdwc2core.h_dwc2_hsotg_tx_fifo_average_depth_O0::dwc2_hsotg_tx_fifo_average_depth(61)"
+  }
+]

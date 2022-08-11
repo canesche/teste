@@ -1,0 +1,2 @@
+struct rmi_function | dummy int 
+function rmi_function_of_probe void | fn struct rmi_function *

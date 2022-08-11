@@ -1,0 +1,2 @@
+struct nct6775_data | auto_pwm_num int | auto_temp long ** | auto_pwm long ** 
+function check_trip_points int | data struct nct6775_data * | nr int

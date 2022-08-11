@@ -1,0 +1,2 @@
+struct TYPE_2__ | dev_state int 
+function ufs_get_pm_lvl_to_dev_pwr_mode enum ufs_dev_pwr_mode | lvl enum ufs_pm_level

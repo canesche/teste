@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function reiserfs_init_xattr_rwsem void | inode struct inode *

@@ -1,0 +1,2 @@
+struct cec_pin | dummy int 
+function rx_error_inj int | pin struct cec_pin * | mode_offset unsigned int | arg_idx int | arg int *

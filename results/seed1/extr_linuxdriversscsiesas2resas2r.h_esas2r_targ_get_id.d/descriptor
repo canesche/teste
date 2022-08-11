@@ -1,0 +1,3 @@
+struct esas2r_target | dummy int 
+struct esas2r_adapter | targetdb struct esas2r_target * 
+function esas2r_targ_get_id int | t struct esas2r_target * | a struct esas2r_adapter *

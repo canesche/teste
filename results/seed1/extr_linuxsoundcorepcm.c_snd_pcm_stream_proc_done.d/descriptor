@@ -1,0 +1,2 @@
+struct snd_pcm_str | dummy int 
+function snd_pcm_stream_proc_done int | pstr struct snd_pcm_str *

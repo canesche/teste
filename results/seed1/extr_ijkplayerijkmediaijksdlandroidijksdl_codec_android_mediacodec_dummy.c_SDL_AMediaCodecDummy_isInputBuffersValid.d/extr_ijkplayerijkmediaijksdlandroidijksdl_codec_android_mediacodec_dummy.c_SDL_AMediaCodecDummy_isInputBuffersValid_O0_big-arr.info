@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_ijkplayerijkmediaijksdlandroidijksdl_codec_android_mediacodec_dummy.c_SDL_AMediaCodecDummy_isInputBuffersValid.d/extr_ijkplayerijkmediaijksdlandroidijksdl_codec_android_mediacodec_dummy.c_SDL_AMediaCodecDummy_isInputBuffersValid_O0::SDL_AMediaCodecDummy_isInputBuffersValid(65)"
+  }
+]

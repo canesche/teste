@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxfsxfsxfs_quotaops.c_xfs_quota_flags.d/extr_linuxfsxfsxfs_quotaops.c_xfs_quota_flags_O0::xfs_quota_flags(73)"
+  }
+]

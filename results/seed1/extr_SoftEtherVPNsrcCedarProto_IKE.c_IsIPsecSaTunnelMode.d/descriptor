@@ -1,0 +1,3 @@
+struct TYPE_4__ | CapsuleMode long 
+struct TYPE_5__ | TransformSetting struct TYPE_4__ 
+function IsIPsecSaTunnelMode int | sa struct TYPE_5__ *

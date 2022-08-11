@@ -1,0 +1,2 @@
+struct wb_list | tail int * | head int * 
+function clear_wb_list void | list struct wb_list *

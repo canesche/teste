@@ -1,0 +1,3 @@
+struct TYPE_2__ | device_ids long * 
+struct phy_device | c45_ids struct TYPE_2__ 
+function bcm8706_match_phy_device int | phydev struct phy_device *

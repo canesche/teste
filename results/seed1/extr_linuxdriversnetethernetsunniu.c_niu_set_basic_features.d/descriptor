@@ -1,0 +1,2 @@
+struct net_device | hw_features int | features int 
+function niu_set_basic_features void | dev struct net_device *

@@ -1,0 +1,5 @@
+struct tcpcb | t_mpsub struct mptsub * | t_inpcb struct inpcb * 
+struct socket | so_flags int 
+struct mptsub | mpts_flags int 
+struct inpcb | inp_socket struct socket * 
+function mptcp_reset_rexmit_state void | tp struct tcpcb *

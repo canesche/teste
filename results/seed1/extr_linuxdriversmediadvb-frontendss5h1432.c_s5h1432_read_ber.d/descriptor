@@ -1,0 +1,2 @@
+struct dvb_frontend | dummy int 
+function s5h1432_read_ber int | fe struct dvb_frontend * | ber int *

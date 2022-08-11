@@ -1,0 +1,5 @@
+struct sk_buff | dummy int 
+struct net | dummy int 
+struct flowi6 | dummy int 
+struct fib6_info | dummy int 
+function eafnosupport_fib6_multipath_select struct fib6_info * | net const struct net * | f6i struct fib6_info * | fl6 struct flowi6 * | oif int | skb const struct sk_buff * | strict int

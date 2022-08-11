@@ -1,0 +1,3 @@
+struct TYPE_4__ | td_customValueCount int 
+struct TYPE_5__ | tif_dir struct TYPE_4__ 
+function TIFFGetTagListCount int | tif struct TYPE_5__ *

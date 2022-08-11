@@ -1,0 +1,2 @@
+struct memory_buffer | pos long | size int | buffer const int * 
+function init_memory_buffer void | mbuf struct memory_buffer * | buffer const int * | size int

@@ -1,0 +1,4 @@
+struct TYPE_4__ | data_out_integrity_check_offset void * 
+struct TYPE_3__ | data_out_integrity_check_offset void * 
+struct osd_security_parameters | v2 struct TYPE_4__ | v1 struct TYPE_3__ 
+function osd_sec_parms_set_out_offset void | is_v1 int | sec_parms struct osd_security_parameters * | offset void *

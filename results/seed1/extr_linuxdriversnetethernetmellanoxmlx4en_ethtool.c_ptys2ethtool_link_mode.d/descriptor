@@ -1,0 +1,2 @@
+struct ptys2ethtool_config | supported unsigned long * | advertised unsigned long * 
+function ptys2ethtool_link_mode unsigned long * | cfg struct ptys2ethtool_config * | report enum ethtool_report

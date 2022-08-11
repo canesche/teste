@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmmchostcqhci.c_cqhci_error_from_flags.d/extr_linuxdriversmmchostcqhci.c_cqhci_error_from_flags_O0::cqhci_error_from_flags(66)"
+  }
+]

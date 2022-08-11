@@ -1,0 +1,2 @@
+struct data_queue | length long 
+function rt2x00queue_empty int | queue struct data_queue *

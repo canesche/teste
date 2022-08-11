@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediaplatformvsp1vsp1_drm.c_vsp1_du_atomic_begin.d/extr_linuxdriversmediaplatformvsp1vsp1_drm.c_vsp1_du_atomic_begin_O0::vsp1_du_atomic_begin(61)"
+  }
+]

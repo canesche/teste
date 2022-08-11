@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetmellanoxmlx5corefs_core.c_mlx5_flow_dests_cmp.d/extr_linuxdriversnetethernetmellanoxmlx5corefs_core.c_mlx5_flow_dests_cmp_O0::mlx5_flow_dests_cmp(68)"
+  }
+]

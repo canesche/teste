@@ -1,0 +1,2 @@
+struct TYPE_3__ | p_uid int 
+function proc_getuid int | p struct TYPE_3__ *

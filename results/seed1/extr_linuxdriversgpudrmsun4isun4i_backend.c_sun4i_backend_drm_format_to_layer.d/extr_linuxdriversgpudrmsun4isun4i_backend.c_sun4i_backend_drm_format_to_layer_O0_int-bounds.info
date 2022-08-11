@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmsun4isun4i_backend.c_sun4i_backend_drm_format_to_layer.d/extr_linuxdriversgpudrmsun4isun4i_backend.c_sun4i_backend_drm_format_to_layer_O0::sun4i_backend_drm_format_to_layer(78)"
+  }
+]

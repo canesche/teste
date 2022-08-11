@@ -1,0 +1,2 @@
+struct kmem_cache | dummy int 
+function kmem_cache_debug int | s struct kmem_cache *

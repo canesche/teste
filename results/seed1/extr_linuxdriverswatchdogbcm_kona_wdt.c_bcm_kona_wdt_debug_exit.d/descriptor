@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function bcm_kona_wdt_debug_exit void | pdev struct platform_device *

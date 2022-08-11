@@ -1,0 +1,2 @@
+struct iwl_trans | trans_specific long 
+function IWL_TRANS_GET_PCIE_TRANS struct iwl_trans_pcie * | trans struct iwl_trans *

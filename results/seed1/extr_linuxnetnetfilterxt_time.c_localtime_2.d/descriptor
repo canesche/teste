@@ -1,0 +1,2 @@
+struct xtm | dse int | weekday int 
+function localtime_2 void | r struct xtm * | time int

@@ -1,0 +1,5 @@
+struct TYPE_3__ | total_non_filtered_period int 
+struct hists | stats struct TYPE_3__ | nr_non_filtered_entries int 
+struct TYPE_4__ | period long 
+struct hist_entry | stat struct TYPE_4__ 
+function hists__inc_filter_stats void | hists struct hists * | h struct hist_entry *

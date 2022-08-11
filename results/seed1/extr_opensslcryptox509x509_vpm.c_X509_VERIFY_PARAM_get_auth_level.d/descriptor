@@ -1,0 +1,2 @@
+struct TYPE_3__ | auth_level int 
+function X509_VERIFY_PARAM_get_auth_level int | param const struct TYPE_3__ *

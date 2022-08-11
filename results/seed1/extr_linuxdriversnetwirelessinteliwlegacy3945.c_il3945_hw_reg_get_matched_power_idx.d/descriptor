@@ -1,0 +1,5 @@
+struct il_priv | eeprom long 
+struct il3945_eeprom_txpower_sample | power unsigned long | gain_idx unsigned long 
+struct il3945_eeprom_txpower_group | samples struct il3945_eeprom_txpower_sample * 
+struct il3945_eeprom | groups struct il3945_eeprom_txpower_group * 
+function il3945_hw_reg_get_matched_power_idx int | il struct il_priv * | requested_power int | setting_idx unsigned long | new_idx unsigned long *

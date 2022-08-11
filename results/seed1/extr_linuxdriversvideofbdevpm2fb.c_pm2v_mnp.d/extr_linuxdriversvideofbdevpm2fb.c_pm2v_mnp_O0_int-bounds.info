@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 15,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 22,
+    static: {
+      instructions: 82,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 1082458,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversvideofbdevpm2fb.c_pm2v_mnp.d/extr_linuxdriversvideofbdevpm2fb.c_pm2v_mnp_O0::pm2v_mnp(64)"
+  }
+]

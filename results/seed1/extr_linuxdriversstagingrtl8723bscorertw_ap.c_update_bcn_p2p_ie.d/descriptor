@@ -1,0 +1,2 @@
+struct adapter | dummy int 
+function update_bcn_p2p_ie void | padapter struct adapter *

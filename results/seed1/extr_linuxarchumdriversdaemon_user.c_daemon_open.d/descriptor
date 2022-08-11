@@ -1,0 +1,2 @@
+struct daemon_data | fd int 
+function daemon_open int | data void *

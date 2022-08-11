@@ -1,0 +1,1 @@
+value(width) == 10, value(height) == 10, value(src1Stride) == 10, value(src2Stride) == 10, value(dstStride) == 10, length(src1) == 100, length(src2) == 100, length(dest) == 100

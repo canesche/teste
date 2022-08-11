@@ -1,0 +1,1 @@
+function esas2r_calc_byte_cksum long | addr void * | len unsigned long | seed long

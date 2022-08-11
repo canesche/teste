@@ -1,0 +1,3 @@
+struct hashmap_ll_int | size unsigned int | h struct TYPE_2__ * 
+struct TYPE_2__ | key long long 
+function hashmap_ll_int_get int | H struct hashmap_ll_int * | id long long | p_slot_idx int *

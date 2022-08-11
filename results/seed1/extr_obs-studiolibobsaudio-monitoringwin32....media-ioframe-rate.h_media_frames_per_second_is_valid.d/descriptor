@@ -1,0 +1,2 @@
+struct media_frames_per_second | denominator long | numerator long 
+function media_frames_per_second_is_valid int | fps struct media_frames_per_second

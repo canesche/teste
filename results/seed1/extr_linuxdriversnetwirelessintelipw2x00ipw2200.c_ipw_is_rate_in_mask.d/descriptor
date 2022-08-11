@@ -1,0 +1,2 @@
+struct ipw_priv | rates_mask int 
+function ipw_is_rate_in_mask int | priv struct ipw_priv * | ieee_mode int | rate int

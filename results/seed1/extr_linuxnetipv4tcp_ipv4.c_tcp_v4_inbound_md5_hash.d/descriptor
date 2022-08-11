@@ -1,0 +1,3 @@
+struct sock | dummy int 
+struct sk_buff | dummy int 
+function tcp_v4_inbound_md5_hash int | sk const struct sock * | skb const struct sk_buff *

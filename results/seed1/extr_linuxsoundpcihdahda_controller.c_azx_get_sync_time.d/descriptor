@@ -1,0 +1,2 @@
+struct system_counterval_t | dummy int 
+function azx_get_sync_time int | device int * | system struct system_counterval_t * | ctx void *

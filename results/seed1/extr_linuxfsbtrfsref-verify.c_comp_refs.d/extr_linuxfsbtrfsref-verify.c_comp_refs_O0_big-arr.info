@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 8,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxfsbtrfsref-verify.c_comp_refs.d/extr_linuxfsbtrfsref-verify.c_comp_refs_O0::comp_refs(61)"
+  }
+]

@@ -1,0 +1,3 @@
+struct TYPE_2__ | size int 
+struct drm_i915_gem_object | base struct TYPE_2__ 
+function huge_gem_object_dma_size int | obj struct drm_i915_gem_object *

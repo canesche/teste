@@ -1,0 +1,3 @@
+struct pata_acpi | mask int * 
+struct ata_port | private_data struct pata_acpi * 
+function pacpi_cable_detect int | ap struct ata_port *

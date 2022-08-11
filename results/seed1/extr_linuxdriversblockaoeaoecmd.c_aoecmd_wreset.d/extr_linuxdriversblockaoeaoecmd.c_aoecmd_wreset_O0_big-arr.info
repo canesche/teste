@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversblockaoeaoecmd.c_aoecmd_wreset.d/extr_linuxdriversblockaoeaoecmd.c_aoecmd_wreset_O0::aoecmd_wreset(62)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediaplatformdavincivpbe_display.c_vpbe_disp_check_window_params.d/extr_linuxdriversmediaplatformdavincivpbe_display.c_vpbe_disp_check_window_params_O0::vpbe_disp_check_window_params(66)"
+  }
+]

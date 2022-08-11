@@ -1,0 +1,3 @@
+struct usb_hcd | hcd_priv long 
+struct imx21 | dummy int 
+function hcd_to_imx21 struct imx21 * | hcd struct usb_hcd *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | key_size int 
+function rc2_get_key_size int | cry int *

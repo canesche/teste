@@ -1,0 +1,3 @@
+struct TYPE_4__ | num unsigned long 
+struct TYPE_5__ | cur_val struct TYPE_4__ 
+function gs_effect_get_val_size unsigned long | param struct TYPE_5__ *

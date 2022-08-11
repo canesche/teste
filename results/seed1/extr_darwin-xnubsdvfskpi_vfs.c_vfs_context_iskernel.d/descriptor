@@ -1,0 +1,1 @@
+function vfs_context_iskernel int | ctx int *

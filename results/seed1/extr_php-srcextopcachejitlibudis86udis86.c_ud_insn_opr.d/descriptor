@@ -1,0 +1,3 @@
+struct ud_operand | type long 
+struct ud | operand const struct ud_operand * 
+function ud_insn_opr const struct ud_operand * | u const struct ud * | n unsigned int

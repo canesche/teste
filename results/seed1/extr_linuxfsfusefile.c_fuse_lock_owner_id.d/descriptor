@@ -1,0 +1,2 @@
+struct fuse_conn | scramble_key int * 
+function fuse_lock_owner_id int | fc struct fuse_conn * | id long

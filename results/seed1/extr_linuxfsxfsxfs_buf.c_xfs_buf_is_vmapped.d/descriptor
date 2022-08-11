@@ -1,0 +1,2 @@
+struct xfs_buf | b_page_count int | b_addr long 
+function xfs_buf_is_vmapped int | bp struct xfs_buf *

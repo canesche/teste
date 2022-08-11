@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetqlogicqedeqede_ethtool.c_qede_get_rss_flags.d/extr_linuxdriversnetethernetqlogicqedeqede_ethtool.c_qede_get_rss_flags_O0::qede_get_rss_flags(74)"
+  }
+]

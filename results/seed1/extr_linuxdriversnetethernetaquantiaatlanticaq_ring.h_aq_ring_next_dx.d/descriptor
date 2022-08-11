@@ -1,0 +1,2 @@
+struct aq_ring_s | size unsigned int 
+function aq_ring_next_dx unsigned int | self struct aq_ring_s * | dx unsigned int

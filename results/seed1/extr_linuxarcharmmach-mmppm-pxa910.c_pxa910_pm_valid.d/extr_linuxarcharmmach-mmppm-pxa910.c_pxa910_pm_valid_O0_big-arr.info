@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxarcharmmach-mmppm-pxa910.c_pxa910_pm_valid.d/extr_linuxarcharmmach-mmppm-pxa910.c_pxa910_pm_valid_O0::pxa910_pm_valid(63)"
+  }
+]

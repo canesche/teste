@@ -1,0 +1,3 @@
+struct TYPE_2__ | mode long | extended_addr long | pan_id long | short_addr long 
+struct dgram_sock | src_addr struct TYPE_2__ | bound int 
+function ieee802154_match_sock int | hw_addr long | pan_id long | short_addr long | ro struct dgram_sock *

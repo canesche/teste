@@ -1,0 +1,3 @@
+struct TYPE_5__ | core_params struct TYPE_4__ * 
+struct TYPE_4__ | host_nperio_tx_fifo_size int 
+function dwc_otg_get_param_host_nperio_tx_fifo_size int | core_if struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct creq_func_event | event int 
+function bnxt_re_handle_unaffi_async_event int | unaffi_async struct creq_func_event *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | addr unsigned long | data_type int | yres void * | xres void * 
+function omap_set_lcd_dma_b1 void | addr unsigned long | fb_xres void * | fb_yres void * | data_type int

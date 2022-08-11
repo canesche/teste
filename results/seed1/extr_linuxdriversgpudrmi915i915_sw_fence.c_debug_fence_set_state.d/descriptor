@@ -1,0 +1,2 @@
+struct i915_sw_fence | dummy int 
+function debug_fence_set_state void | fence struct i915_sw_fence * | old int | new int

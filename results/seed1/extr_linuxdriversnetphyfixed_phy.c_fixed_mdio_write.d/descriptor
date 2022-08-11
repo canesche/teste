@@ -1,0 +1,2 @@
+struct mii_bus | dummy int 
+function fixed_mdio_write int | bus struct mii_bus * | phy_addr int | reg_num int | val int

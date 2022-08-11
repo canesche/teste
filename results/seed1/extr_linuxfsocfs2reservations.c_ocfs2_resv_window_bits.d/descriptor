@@ -1,0 +1,4 @@
+struct ocfs2_super | osb_resv_level int | osb_dir_resv_level int 
+struct ocfs2_reservation_map | m_osb struct ocfs2_super * 
+struct ocfs2_alloc_reservation | r_flags int 
+function ocfs2_resv_window_bits unsigned int | resmap struct ocfs2_reservation_map * | resv struct ocfs2_alloc_reservation *

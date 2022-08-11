@@ -1,0 +1,4 @@
+struct vpfe_pipeline | input_num int | output_num int | outputs struct TYPE_3__ ** | inputs struct TYPE_4__ ** 
+struct TYPE_4__ | state long | started int 
+struct TYPE_3__ | state long | started int 
+function vpfe_video_is_pipe_ready int | pipe struct vpfe_pipeline *

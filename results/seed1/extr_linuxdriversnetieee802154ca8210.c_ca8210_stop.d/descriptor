@@ -1,0 +1,2 @@
+struct ieee802154_hw | dummy int 
+function ca8210_stop void | hw struct ieee802154_hw *

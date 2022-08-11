@@ -1,0 +1,1 @@
+function emscripten_atomic_add_u8 long | addr void * | val long

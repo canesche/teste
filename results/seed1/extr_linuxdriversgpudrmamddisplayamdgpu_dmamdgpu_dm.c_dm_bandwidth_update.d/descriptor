@@ -1,0 +1,2 @@
+struct amdgpu_device | dummy int 
+function dm_bandwidth_update void | adev struct amdgpu_device *

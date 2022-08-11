@@ -1,0 +1,2 @@
+struct dss_device | dummy int 
+function dss_dpi_select_source_omap2_omap3 int | dss struct dss_device * | port int | channel enum omap_channel

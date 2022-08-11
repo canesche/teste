@@ -1,0 +1,2 @@
+struct vnt_private | basic_rates int 
+function vnt_get_cck_rate int | priv struct vnt_private * | rate_idx int

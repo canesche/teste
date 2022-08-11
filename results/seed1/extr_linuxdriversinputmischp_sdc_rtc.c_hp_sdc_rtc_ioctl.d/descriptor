@@ -1,0 +1,2 @@
+struct file | dummy int 
+function hp_sdc_rtc_ioctl int | file struct file * | cmd unsigned int | arg unsigned long

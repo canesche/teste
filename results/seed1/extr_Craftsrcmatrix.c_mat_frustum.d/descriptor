@@ -1,0 +1,1 @@
+function mat_frustum void | matrix float * | left float | right float | bottom float | top float | znear float | zfar float

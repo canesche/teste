@@ -1,0 +1,2 @@
+struct hfi1_pportdata | neighbor_fm_security long | neighbor_type long | neighbor_port_number long | neighbor_guid long 
+function reset_neighbor_info void | ppd struct hfi1_pportdata *

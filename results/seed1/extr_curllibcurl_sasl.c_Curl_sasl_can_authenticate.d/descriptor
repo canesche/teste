@@ -1,0 +1,4 @@
+struct TYPE_2__ | user_passwd long 
+struct connectdata | bits struct TYPE_2__ 
+struct SASL | authmechs int | prefmech int 
+function Curl_sasl_can_authenticate int | sasl struct SASL * | conn struct connectdata *

@@ -1,0 +1,3 @@
+struct usbat_info | devicetype int 
+struct us_data | extra long 
+function usbat_get_device_type int | us struct us_data *

@@ -1,0 +1,2 @@
+struct s_p_tab | p_num long 
+function smt_get_ptab const struct s_p_tab * | para long

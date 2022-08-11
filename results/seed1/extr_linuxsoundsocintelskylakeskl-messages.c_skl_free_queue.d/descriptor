@@ -1,0 +1,3 @@
+struct TYPE_2__ | pvt_id long | instance_id long | module_id long 
+struct skl_module_pin | in_use int | tgt_mcfg int * | pin_state int | id struct TYPE_2__ | is_dynamic long 
+function skl_free_queue void | mpin struct skl_module_pin * | q_index int

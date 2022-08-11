@@ -1,0 +1,2 @@
+struct skd_scsi_request | cdb unsigned int * 
+function skd_prep_rw_cdb void | scsi_req struct skd_scsi_request * | data_dir int | lba unsigned int | count unsigned int

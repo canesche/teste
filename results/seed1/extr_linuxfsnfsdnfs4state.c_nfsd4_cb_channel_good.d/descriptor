@@ -1,0 +1,2 @@
+struct nfs4_client | cl_cb_state long | cl_minorversion long 
+function nfsd4_cb_channel_good int | clp struct nfs4_client *

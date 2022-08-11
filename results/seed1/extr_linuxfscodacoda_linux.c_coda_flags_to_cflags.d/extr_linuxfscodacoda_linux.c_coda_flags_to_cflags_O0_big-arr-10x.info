@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 55,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 55,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxfscodacoda_linux.c_coda_flags_to_cflags.d/extr_linuxfscodacoda_linux.c_coda_flags_to_cflags_O0::coda_flags_to_cflags(72)"
+  }
+]

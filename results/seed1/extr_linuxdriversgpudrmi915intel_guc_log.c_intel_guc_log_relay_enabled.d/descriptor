@@ -1,0 +1,3 @@
+struct TYPE_2__ | buf_addr int 
+struct intel_guc_log | relay struct TYPE_2__ 
+function intel_guc_log_relay_enabled int | log const struct intel_guc_log *

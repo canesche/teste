@@ -1,0 +1,3 @@
+struct nk_image | dummy int 
+struct file_group | group int | name const char * | icon struct nk_image * 
+function FILE_GROUP struct file_group | group enum file_groups | name const char * | icon struct nk_image *

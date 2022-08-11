@@ -1,0 +1,2 @@
+struct inet6_dev | dummy int 
+function addrconf_sysctl_register int | idev struct inet6_dev *

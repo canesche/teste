@@ -1,0 +1,3 @@
+struct i2c_msg | flags int 
+struct drm_dp_aux_msg | request int 
+function drm_dp_i2c_msg_set_request void | msg struct drm_dp_aux_msg * | i2c_msg const struct i2c_msg *

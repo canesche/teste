@@ -1,0 +1,2 @@
+struct ip_addr | addr int * 
+function ip_addr_netcmp int | addr1 struct ip_addr * | addr2 struct ip_addr * | mask struct ip_addr *

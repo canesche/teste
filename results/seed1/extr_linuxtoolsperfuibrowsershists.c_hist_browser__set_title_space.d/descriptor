@@ -1,0 +1,5 @@
+struct ui_browser | extra_title_lines int 
+struct perf_hpp_list | nr_header_lines int 
+struct hists | hpp_list struct perf_hpp_list * 
+struct hist_browser | show_headers long | hists struct hists * | b struct ui_browser 
+function hist_browser__set_title_space void | hb struct hist_browser *

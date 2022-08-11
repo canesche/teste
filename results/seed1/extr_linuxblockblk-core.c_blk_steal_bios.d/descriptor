@@ -1,0 +1,4 @@
+struct request | __data_len long | biotail struct TYPE_2__ * | bio int * 
+struct bio_list | tail struct TYPE_2__ * | head int * 
+struct TYPE_2__ | bi_next int * 
+function blk_steal_bios void | list struct bio_list * | rq struct request *

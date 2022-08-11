@@ -1,0 +1,4 @@
+struct zone_entry | unused_blk_cnt long | free_table int * | get_index unsigned long 
+struct ms_info | segment struct zone_entry * 
+struct rtsx_chip | ms_card struct ms_info 
+function ms_get_unused_block int | chip struct rtsx_chip * | seg_no int

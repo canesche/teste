@@ -1,0 +1,3 @@
+struct TYPE_5__ | syms struct TYPE_4__ * 
+struct TYPE_4__ | head const int * 
+function zbar_image_first_symbol const int * | img const struct TYPE_5__ *

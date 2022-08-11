@@ -1,0 +1,3 @@
+struct TYPE_5__ | flags unsigned int 
+struct TYPE_6__ | flags unsigned int 
+function ssl_conf_cmd_allowed int | cctx struct TYPE_6__ * | t const struct TYPE_5__ *

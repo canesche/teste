@@ -1,0 +1,2 @@
+struct driver_data | ssp_type int 
+function is_lpss_ssp int | drv_data const struct driver_data *

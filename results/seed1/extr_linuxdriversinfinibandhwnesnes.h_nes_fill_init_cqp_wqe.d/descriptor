@@ -1,0 +1,3 @@
+struct nes_hw_cqp_wqe | wqe_words long * 
+struct nes_device | dummy int 
+function nes_fill_init_cqp_wqe void | cqp_wqe struct nes_hw_cqp_wqe * | nesdev struct nes_device *

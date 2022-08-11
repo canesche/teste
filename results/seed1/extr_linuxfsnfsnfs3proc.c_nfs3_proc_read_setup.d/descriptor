@@ -1,0 +1,3 @@
+struct rpc_message | rpc_proc int * 
+struct nfs_pgio_header | dummy int 
+function nfs3_proc_read_setup void | hdr struct nfs_pgio_header * | msg struct rpc_message *

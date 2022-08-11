@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversinfinibandhwmlx5main.c_mlx5_port_type_cap_to_rdma_ll.d/extr_linuxdriversinfinibandhwmlx5main.c_mlx5_port_type_cap_to_rdma_ll_O0::mlx5_port_type_cap_to_rdma_ll(67)"
+  }
+]

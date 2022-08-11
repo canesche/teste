@@ -1,0 +1,3 @@
+struct str_values | val int | str const char * 
+struct TYPE_2__ | isa unsigned int | strings struct str_values * 
+function find_exit_reason const char * | isa unsigned int | val int

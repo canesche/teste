@@ -1,0 +1,2 @@
+struct opal_dev | cmd int * | pos int 
+function add_medium_atom_header void | cmd struct opal_dev * | bytestring int | has_sign int | len int

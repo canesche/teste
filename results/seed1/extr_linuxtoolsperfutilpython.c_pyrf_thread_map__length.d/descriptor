@@ -1,0 +1,3 @@
+struct pyrf_thread_map | threads struct TYPE_2__ * 
+struct TYPE_2__ | nr int 
+function pyrf_thread_map__length int | obj int *

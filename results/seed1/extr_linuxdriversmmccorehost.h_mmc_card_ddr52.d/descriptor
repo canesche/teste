@@ -1,0 +1,4 @@
+struct mmc_card | host struct TYPE_4__ * 
+struct TYPE_3__ | timing long 
+struct TYPE_4__ | ios struct TYPE_3__ 
+function mmc_card_ddr52 int | card struct mmc_card *

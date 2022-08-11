@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 109,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 109,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_nodemcu-firmwareappmodulescolor_utils.c_hsv2grb.d/extr_nodemcu-firmwareappmodulescolor_utils.c_hsv2grb_O0::hsv2grb(63)"
+  }
+]

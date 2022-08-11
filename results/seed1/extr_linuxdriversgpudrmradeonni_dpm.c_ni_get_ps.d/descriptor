@@ -1,0 +1,3 @@
+struct radeon_ps | ps_priv struct ni_ps * 
+struct ni_ps | dummy int 
+function ni_get_ps struct ni_ps * | rps struct radeon_ps *

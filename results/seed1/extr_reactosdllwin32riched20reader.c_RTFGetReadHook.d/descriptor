@@ -1,0 +1,2 @@
+struct TYPE_3__ | readHook int 
+function RTFGetReadHook int | info const struct TYPE_3__ *

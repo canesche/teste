@@ -1,0 +1,2 @@
+struct acpi_resource_extended_irq | dummy int 
+function is_gsi int | ext_irq struct acpi_resource_extended_irq *

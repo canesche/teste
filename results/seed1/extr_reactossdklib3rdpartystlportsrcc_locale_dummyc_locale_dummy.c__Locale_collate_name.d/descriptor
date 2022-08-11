@@ -1,0 +1,2 @@
+struct _Locale_collate | dummy int 
+function _Locale_collate_name const char * | lcol const struct _Locale_collate * | buf char *

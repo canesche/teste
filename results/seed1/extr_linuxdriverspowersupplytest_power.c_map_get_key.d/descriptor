@@ -1,0 +1,2 @@
+struct battery_property_map | key const char * | value int 
+function map_get_key const char * | map struct battery_property_map * | value int | def_key const char *

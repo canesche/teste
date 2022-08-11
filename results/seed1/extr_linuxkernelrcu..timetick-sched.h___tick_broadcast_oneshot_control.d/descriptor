@@ -1,0 +1,1 @@
+function __tick_broadcast_oneshot_control int | state enum tick_broadcast_state

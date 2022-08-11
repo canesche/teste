@@ -1,0 +1,3 @@
+struct perf_session | itrace_synth_opts struct TYPE_2__ * 
+struct TYPE_2__ | dont_decode long 
+function auxtrace__dont_decode int | session struct perf_session *

@@ -1,0 +1,2 @@
+struct ceph_connection | connect_seq long 
+function ceph_con_opened int | con struct ceph_connection *

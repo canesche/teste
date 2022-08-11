@@ -1,0 +1,2 @@
+struct vhost_net | tx_zcopy_err int 
+function vhost_net_tx_err void | net struct vhost_net *

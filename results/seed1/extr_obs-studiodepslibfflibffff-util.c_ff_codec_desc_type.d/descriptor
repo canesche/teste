@@ -1,0 +1,2 @@
+struct ff_codec_desc | type int 
+function ff_codec_desc_type enum ff_codec_type | codec_desc const struct ff_codec_desc *

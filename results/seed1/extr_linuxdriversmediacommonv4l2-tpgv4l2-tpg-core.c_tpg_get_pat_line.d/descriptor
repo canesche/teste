@@ -1,0 +1,2 @@
+struct tpg_data | pattern int | src_height unsigned int 
+function tpg_get_pat_line unsigned int | tpg const struct tpg_data * | line unsigned int

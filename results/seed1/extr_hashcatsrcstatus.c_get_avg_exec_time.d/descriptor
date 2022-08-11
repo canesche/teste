@@ -1,0 +1,2 @@
+struct TYPE_3__ | exec_msec double * | exec_pos long 
+function get_avg_exec_time double | device_param struct TYPE_3__ * | last_num_entries const int

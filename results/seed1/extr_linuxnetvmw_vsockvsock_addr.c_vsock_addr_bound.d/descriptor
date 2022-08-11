@@ -1,0 +1,2 @@
+struct sockaddr_vm | svm_port long 
+function vsock_addr_bound int | addr const struct sockaddr_vm *

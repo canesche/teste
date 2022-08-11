@@ -1,0 +1,2 @@
+struct BufferedFile | BytesLeft unsigned int | Ptr int 
+function BufferedFileSkip int | BF struct BufferedFile * | Offset unsigned int

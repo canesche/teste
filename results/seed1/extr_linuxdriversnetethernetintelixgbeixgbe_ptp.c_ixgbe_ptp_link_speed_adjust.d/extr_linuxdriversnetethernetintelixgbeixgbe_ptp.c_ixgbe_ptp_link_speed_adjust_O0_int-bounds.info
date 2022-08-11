@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetintelixgbeixgbe_ptp.c_ixgbe_ptp_link_speed_adjust.d/extr_linuxdriversnetethernetintelixgbeixgbe_ptp.c_ixgbe_ptp_link_speed_adjust_O0::ixgbe_ptp_link_speed_adjust(72)"
+  }
+]

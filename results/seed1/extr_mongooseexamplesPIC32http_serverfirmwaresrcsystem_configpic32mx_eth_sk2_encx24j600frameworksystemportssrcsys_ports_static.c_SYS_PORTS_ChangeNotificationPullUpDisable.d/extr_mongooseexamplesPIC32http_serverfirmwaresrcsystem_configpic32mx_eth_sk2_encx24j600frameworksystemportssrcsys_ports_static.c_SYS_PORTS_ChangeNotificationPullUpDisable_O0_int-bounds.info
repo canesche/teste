@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_mongooseexamplesPIC32http_serverfirmwaresrcsystem_configpic32mx_eth_sk2_encx24j600frameworksystemportssrcsys_ports_static.c_SYS_PORTS_ChangeNotificationPullUpDisable.d/extr_mongooseexamplesPIC32http_serverfirmwaresrcsystem_configpic32mx_eth_sk2_encx24j600frameworksystemportssrcsys_ports_static.c_SYS_PORTS_ChangeNotificationPullUpDisable_O0::SYS_PORTS_ChangeNotificationPullUpDisable(63)"
+  }
+]

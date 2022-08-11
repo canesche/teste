@@ -1,0 +1,3 @@
+struct ac97_controller | codecs_pdata void ** 
+struct ac97_codec_device | num unsigned long | ac97_ctrl struct ac97_controller * 
+function snd_ac97_codec_get_platdata void * | adev const struct ac97_codec_device *

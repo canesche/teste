@@ -1,0 +1,3 @@
+struct sk_buff | prev struct sk_buff * | next struct sk_buff * 
+struct sfq_slot | skblist_next struct sk_buff * 
+function slot_dequeue_head struct sk_buff * | slot struct sfq_slot *

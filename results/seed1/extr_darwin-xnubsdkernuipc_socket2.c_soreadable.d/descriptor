@@ -1,0 +1,4 @@
+struct TYPE_4__ | tqh_first long 
+struct TYPE_3__ | sb_cc long | sb_lowat long 
+struct socket | so_state int | so_error long | so_comp struct TYPE_4__ | so_rcv struct TYPE_3__ 
+function soreadable int | so struct socket *

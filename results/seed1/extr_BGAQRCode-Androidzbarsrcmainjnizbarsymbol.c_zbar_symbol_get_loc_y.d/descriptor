@@ -1,0 +1,3 @@
+struct TYPE_5__ | npts unsigned int | pts struct TYPE_4__ * 
+struct TYPE_4__ | y int 
+function zbar_symbol_get_loc_y int | sym const struct TYPE_5__ * | idx unsigned int

@@ -1,0 +1,2 @@
+struct ksz_hw | intr_mask int 
+function hw_setup_intr void | hw struct ksz_hw *

@@ -1,0 +1,2 @@
+struct paste_buffer | order int 
+function paste_buffer_order int | pb struct paste_buffer *

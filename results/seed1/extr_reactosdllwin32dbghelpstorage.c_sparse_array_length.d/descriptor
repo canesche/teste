@@ -1,0 +1,3 @@
+struct TYPE_2__ | num_elts int 
+struct sparse_array | elements struct TYPE_2__ 
+function sparse_array_length unsigned int | sa const struct sparse_array *

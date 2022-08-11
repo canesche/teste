@@ -1,0 +1,3 @@
+struct yColCache | iReg int | tempReg long 
+struct TYPE_3__ | aColCache struct yColCache * 
+function sqlite3ExprCachePinRegister void | pParse struct TYPE_3__ * | iReg int

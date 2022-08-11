@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 73,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 248,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_nodemcu-firmwareappmodulessomfy.c_buildFrame.d/extr_nodemcu-firmwareappmodulessomfy.c_buildFrame_O0::buildFrame(62)"
+  }
+]

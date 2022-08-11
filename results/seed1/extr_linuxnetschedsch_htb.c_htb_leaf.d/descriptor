@@ -1,0 +1,5 @@
+struct TYPE_3__ | q struct Qdisc * 
+struct TYPE_4__ | leaf struct TYPE_3__ 
+struct htb_class | un struct TYPE_4__ | level int 
+struct Qdisc | dummy int 
+function htb_leaf struct Qdisc * | sch struct Qdisc * | arg unsigned long

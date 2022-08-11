@@ -1,0 +1,2 @@
+struct TYPE_2__ | OSPEEDR int 
+function mp_hal_pin_config_speed void | port_pin int | speed int

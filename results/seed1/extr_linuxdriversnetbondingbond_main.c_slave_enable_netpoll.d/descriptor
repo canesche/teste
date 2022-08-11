@@ -1,0 +1,2 @@
+struct slave | dummy int 
+function slave_enable_netpoll int | slave struct slave *

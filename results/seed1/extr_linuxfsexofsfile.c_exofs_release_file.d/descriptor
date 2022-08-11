@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct file | dummy int 
+function exofs_release_file int | inode struct inode * | filp struct file *

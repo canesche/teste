@@ -1,0 +1,2 @@
+struct hci_dev | dummy int 
+function vhci_open_dev int | hdev struct hci_dev *

@@ -1,0 +1,2 @@
+struct vme_bridge | dummy int 
+function fake_irq_set void | fake_bridge struct vme_bridge * | level int | state int | sync int

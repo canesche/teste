@@ -1,0 +1,3 @@
+struct iscsi_tmr_req | dummy int 
+struct iscsi_conn | dummy int 
+function iscsit_task_reassign_prepare_read int | tmr_req struct iscsi_tmr_req * | conn struct iscsi_conn *

@@ -1,0 +1,4 @@
+struct pci_dev | no_d1d2 long | bus struct TYPE_4__ * 
+struct TYPE_4__ | self struct TYPE_3__ * 
+struct TYPE_3__ | no_d1d2 unsigned int 
+function pci_no_d1d2 int | dev struct pci_dev *

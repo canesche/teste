@@ -1,0 +1,3 @@
+struct TYPE_5__ | src struct TYPE_4__ * 
+struct TYPE_4__ | bytes_in_buffer int | next_input_byte int 
+function fill_input_buffer int | cinfo struct TYPE_5__ *

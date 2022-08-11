@@ -1,0 +1,2 @@
+struct Scsi_Host | hostdata int 
+function ppa_dev int * | host struct Scsi_Host *

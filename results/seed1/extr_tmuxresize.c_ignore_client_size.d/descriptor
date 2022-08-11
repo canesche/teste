@@ -1,0 +1,2 @@
+struct client | flags int | session int * 
+function ignore_client_size int | c struct client *

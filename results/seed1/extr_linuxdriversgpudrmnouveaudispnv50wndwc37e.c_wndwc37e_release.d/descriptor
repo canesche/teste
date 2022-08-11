@@ -1,0 +1,4 @@
+struct nv50_wndw_atom | dummy int 
+struct nv50_wndw | dummy int 
+struct nv50_head_atom | dummy int 
+function wndwc37e_release void | wndw struct nv50_wndw * | asyw struct nv50_wndw_atom * | asyh struct nv50_head_atom *

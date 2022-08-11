@@ -1,0 +1,3 @@
+struct sched_dl_entity | dummy int 
+struct dl_rq | dummy int 
+function inc_dl_migration void | dl_se struct sched_dl_entity * | dl_rq struct dl_rq *

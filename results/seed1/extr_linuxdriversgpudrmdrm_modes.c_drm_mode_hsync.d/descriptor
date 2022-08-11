@@ -1,0 +1,2 @@
+struct drm_display_mode | hsync int | htotal int | clock int 
+function drm_mode_hsync int | mode const struct drm_display_mode *

@@ -1,0 +1,4 @@
+struct kone_mouse_event | event int | value int 
+struct kone_device | actual_dpi int | actual_profile int | profiles struct TYPE_2__ * 
+struct TYPE_2__ | startup_dpi int 
+function kone_keep_values_up_to_date void | kone struct kone_device * | event const struct kone_mouse_event *

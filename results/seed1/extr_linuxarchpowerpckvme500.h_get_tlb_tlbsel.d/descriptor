@@ -1,0 +1,4 @@
+struct TYPE_4__ | shared struct TYPE_3__ * 
+struct kvm_vcpu | arch struct TYPE_4__ 
+struct TYPE_3__ | mas0 int 
+function get_tlb_tlbsel unsigned int | vcpu const struct kvm_vcpu *

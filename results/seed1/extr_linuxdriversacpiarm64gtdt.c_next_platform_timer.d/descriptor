@@ -1,0 +1,3 @@
+struct acpi_gtdt_header | length int 
+struct TYPE_2__ | gtdt_end void * 
+function next_platform_timer void * | platform_timer void *

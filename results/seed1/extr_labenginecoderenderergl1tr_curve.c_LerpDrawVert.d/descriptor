@@ -1,0 +1,2 @@
+struct TYPE_5__ | xyz float * | st float * | lightmap float * | color int * 
+function LerpDrawVert void | a struct TYPE_5__ * | b struct TYPE_5__ * | out struct TYPE_5__ *

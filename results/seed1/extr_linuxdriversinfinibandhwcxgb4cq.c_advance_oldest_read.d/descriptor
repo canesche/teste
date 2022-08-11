@@ -1,0 +1,4 @@
+struct TYPE_4__ | size unsigned long | pidx unsigned long | oldest_read struct TYPE_3__ * | sw_sq struct TYPE_3__ * 
+struct t4_wq | sq struct TYPE_4__ 
+struct TYPE_3__ | opcode long 
+function advance_oldest_read void | wq struct t4_wq *

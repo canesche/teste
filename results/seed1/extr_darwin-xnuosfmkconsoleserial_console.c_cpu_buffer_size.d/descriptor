@@ -1,0 +1,2 @@
+struct TYPE_3__ | buf_base long | buf_ptr long 
+function cpu_buffer_size int | cbp struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | num_base_restrictions long 
+function ts_hypertable_restrict_info_has_restrictions int | hri struct TYPE_3__ *

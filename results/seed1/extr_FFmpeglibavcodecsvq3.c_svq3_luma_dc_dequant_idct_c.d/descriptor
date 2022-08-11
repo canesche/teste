@@ -1,0 +1,1 @@
+function svq3_luma_dc_dequant_idct_c void | output int * | input int * | qp int

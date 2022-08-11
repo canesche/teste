@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactoswin32ssgdigdi32winerosglue.c_NULL_OffsetClipRgn.d/extr_reactoswin32ssgdigdi32winerosglue.c_NULL_OffsetClipRgn_O0::NULL_OffsetClipRgn(62)"
+  }
+]

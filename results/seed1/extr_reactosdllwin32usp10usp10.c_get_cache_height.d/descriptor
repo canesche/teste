@@ -1,0 +1,3 @@
+struct TYPE_3__ | tmHeight int 
+struct TYPE_4__ | tm struct TYPE_3__ 
+function get_cache_height int | psc long *

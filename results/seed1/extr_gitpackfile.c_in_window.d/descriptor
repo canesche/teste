@@ -1,0 +1,3 @@
+struct pack_window | offset long | len long 
+struct TYPE_2__ | rawsz long 
+function in_window int | win struct pack_window * | offset long

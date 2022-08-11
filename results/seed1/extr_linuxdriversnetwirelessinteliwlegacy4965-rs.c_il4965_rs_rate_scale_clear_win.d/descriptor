@@ -1,0 +1,2 @@
+struct il_rate_scale_data | stamp long | average_tpt void * | counter long | success_ratio void * | success_counter long | data long 
+function il4965_rs_rate_scale_clear_win void | win struct il_rate_scale_data *

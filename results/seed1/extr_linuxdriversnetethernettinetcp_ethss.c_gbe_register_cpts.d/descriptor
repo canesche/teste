@@ -1,0 +1,2 @@
+struct gbe_priv | dummy int 
+function gbe_register_cpts void | gbe_dev struct gbe_priv *

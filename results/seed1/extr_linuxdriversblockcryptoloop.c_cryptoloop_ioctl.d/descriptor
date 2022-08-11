@@ -1,0 +1,2 @@
+struct loop_device | dummy int 
+function cryptoloop_ioctl int | lo struct loop_device * | cmd int | arg unsigned long

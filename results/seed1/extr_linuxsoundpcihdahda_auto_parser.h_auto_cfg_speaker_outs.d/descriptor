@@ -1,0 +1,2 @@
+struct auto_pin_cfg | line_out_type long | line_outs int | speaker_outs int 
+function auto_cfg_speaker_outs int | cfg const struct auto_pin_cfg *

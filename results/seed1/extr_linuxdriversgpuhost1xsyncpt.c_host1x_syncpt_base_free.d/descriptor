@@ -1,0 +1,2 @@
+struct host1x_syncpt_base | requested int 
+function host1x_syncpt_base_free void | base struct host1x_syncpt_base *

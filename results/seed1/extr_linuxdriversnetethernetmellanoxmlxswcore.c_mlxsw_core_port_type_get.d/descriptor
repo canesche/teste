@@ -1,0 +1,4 @@
+struct devlink_port | type int 
+struct mlxsw_core_port | devlink_port struct devlink_port 
+struct mlxsw_core | ports struct mlxsw_core_port * 
+function mlxsw_core_port_type_get enum devlink_port_type | mlxsw_core struct mlxsw_core * | local_port unsigned long

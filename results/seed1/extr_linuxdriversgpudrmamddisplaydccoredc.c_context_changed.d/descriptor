@@ -1,0 +1,4 @@
+struct dc_state | stream_count long | streams long * 
+struct dc | current_state struct TYPE_2__ * 
+struct TYPE_2__ | stream_count long | streams long * 
+function context_changed int | dc struct dc * | context struct dc_state *

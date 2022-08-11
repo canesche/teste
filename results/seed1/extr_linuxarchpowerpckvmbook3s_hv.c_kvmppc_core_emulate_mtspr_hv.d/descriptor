@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function kvmppc_core_emulate_mtspr_hv int | vcpu struct kvm_vcpu * | sprn int | spr_val int

@@ -1,0 +1,1 @@
+function _RpcReplyOpenPrinter int | pMachine int | phPrinterNotify int * | dwPrinterRemote int | dwType int | cbBuffer int | pBuffer int *

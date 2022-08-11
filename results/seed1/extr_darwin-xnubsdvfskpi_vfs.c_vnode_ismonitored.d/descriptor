@@ -1,0 +1,3 @@
+struct TYPE_4__ | slh_first int * 
+struct TYPE_5__ | v_knotes struct TYPE_4__ 
+function vnode_ismonitored int | vp struct TYPE_5__ *

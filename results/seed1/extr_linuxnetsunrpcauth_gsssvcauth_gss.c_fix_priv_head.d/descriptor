@@ -1,0 +1,3 @@
+struct xdr_buf | page_len long | head struct TYPE_2__ * 
+struct TYPE_2__ | iov_len int 
+function fix_priv_head void | buf struct xdr_buf * | pad int

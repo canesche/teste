@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 97,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversatmiphase.c_cellrate_to_float.d/extr_linuxdriversatmiphase.c_cellrate_to_float_O0::cellrate_to_float(63)"
+  }
+]

@@ -1,0 +1,3 @@
+struct IsdnCardState | bcs struct BCState * 
+struct BCState | channel int | mode long 
+function Sel_BCS struct BCState * | cs struct IsdnCardState * | channel int

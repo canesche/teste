@@ -1,0 +1,2 @@
+struct TYPE_3__ | a_end int | a_start int | b_end int 
+function bipbuf_used int | me const struct TYPE_3__ *

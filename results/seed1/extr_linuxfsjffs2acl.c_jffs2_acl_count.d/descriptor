@@ -1,0 +1,4 @@
+struct jffs2_acl_header | dummy int 
+struct jffs2_acl_entry_short | dummy int 
+struct jffs2_acl_entry | dummy int 
+function jffs2_acl_count int | size unsigned long

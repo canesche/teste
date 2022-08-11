@@ -1,0 +1,2 @@
+struct IsdnCardState | dummy int 
+function dummywr void | cs struct IsdnCardState * | chan int | off unsigned char | value unsigned char

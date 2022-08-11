@@ -1,0 +1,1 @@
+function grub_utf8_to_ucs4 long | dest int * | destsize long | src const int * | srcsize long | srcend const int **

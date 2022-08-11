@@ -1,0 +1,3 @@
+struct TYPE_6__ | Next struct TYPE_6__ * 
+struct TYPE_5__ | FreeCommands struct TYPE_6__ * 
+function DAC960_AllocateCommand struct TYPE_6__ * | Controller struct TYPE_5__ *

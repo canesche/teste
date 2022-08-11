@@ -1,0 +1,3 @@
+struct trace_iterator | buffer_iter struct ring_buffer_iter ** 
+struct ring_buffer_iter | dummy int 
+function trace_buffer_iter struct ring_buffer_iter * | iter struct trace_iterator * | cpu int

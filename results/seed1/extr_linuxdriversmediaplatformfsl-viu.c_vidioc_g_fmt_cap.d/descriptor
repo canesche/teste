@@ -1,0 +1,8 @@
+struct TYPE_5__ | field int 
+struct viu_fh | width int | sizeimage int | fmt struct TYPE_6__ * | vb_vidq struct TYPE_5__ | height int 
+struct TYPE_7__ | width int | bytesperline int | colorspace int | sizeimage int | pixelformat int | field int | height int 
+struct TYPE_8__ | pix struct TYPE_7__ 
+struct v4l2_format | fmt struct TYPE_8__ 
+struct file | dummy int 
+struct TYPE_6__ | depth int | pixelformat int 
+function vidioc_g_fmt_cap int | file struct file * | priv void * | f struct v4l2_format *

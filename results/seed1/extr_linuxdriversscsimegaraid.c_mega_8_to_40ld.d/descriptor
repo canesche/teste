@@ -1,0 +1,7 @@
+struct TYPE_12__ | pdrv_state int * 
+struct TYPE_11__ | ldrv_state int * | ldrv_prop int * | ldrv_size int * | num_ldrv int 
+struct TYPE_10__ | dram_size int | cache_flush_interval int | bios_version int * | fw_version int * | nchannels int | rebuild_rate int | max_commands int 
+struct TYPE_13__ | pdrv_info struct TYPE_12__ | logdrv_info struct TYPE_11__ | adapter_info struct TYPE_10__ 
+struct TYPE_14__ | dram_size int | bios_version int * | fw_version int * | nchannels int | max_commands int 
+struct TYPE_15__ | pdrv_state int * | ldrv_state int * | ldrv_prop int * | ldrv_size int * | num_ldrv int | cache_flush_interval int | rebuild_rate int 
+function mega_8_to_40ld void | inquiry struct TYPE_13__ * | enquiry3 struct TYPE_15__ * | product_info struct TYPE_14__ *

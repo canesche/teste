@@ -1,0 +1,1 @@
+function dtrace_bzero void | dst void * | len unsigned long

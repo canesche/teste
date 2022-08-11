@@ -1,0 +1,2 @@
+struct TYPE_3__ | content int * | error long 
+function xmlBufContent int * | buf const struct TYPE_3__ *

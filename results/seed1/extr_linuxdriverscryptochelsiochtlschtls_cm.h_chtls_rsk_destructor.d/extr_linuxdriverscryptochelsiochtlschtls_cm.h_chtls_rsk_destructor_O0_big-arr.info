@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriverscryptochelsiochtlschtls_cm.h_chtls_rsk_destructor.d/extr_linuxdriverscryptochelsiochtlschtls_cm.h_chtls_rsk_destructor_O0::chtls_rsk_destructor(61)"
+  }
+]

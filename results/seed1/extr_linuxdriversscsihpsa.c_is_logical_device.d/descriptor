@@ -1,0 +1,2 @@
+struct hpsa_scsi_dev_t | physical_device int 
+function is_logical_device int | device struct hpsa_scsi_dev_t *

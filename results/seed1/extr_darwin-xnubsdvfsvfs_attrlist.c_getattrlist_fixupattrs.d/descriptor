@@ -1,0 +1,4 @@
+struct vnode_attr | va_active int | va_supported int 
+struct getattrlist_attrtab | attr long | bits int 
+struct TYPE_3__ | commonattr int | dirattr int | fileattr int | forkattr int 
+function getattrlist_fixupattrs void | asp struct TYPE_3__ * | vap struct vnode_attr * | use_fork int

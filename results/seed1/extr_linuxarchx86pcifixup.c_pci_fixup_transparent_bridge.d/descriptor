@@ -1,0 +1,2 @@
+struct pci_dev | device int | transparent int 
+function pci_fixup_transparent_bridge void | dev struct pci_dev *

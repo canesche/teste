@@ -1,0 +1,1 @@
+value(payload_len) == 10, value(len) == 10, value(plcp_signal) == 10, value(short_preamble) == 10, length(dur) == 100, length(plcp) == 100

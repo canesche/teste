@@ -1,0 +1,2 @@
+struct TYPE_3__ | columns unsigned int | lines unsigned int 
+function is_selection_empty int | self struct TYPE_3__ * | start_x unsigned int | start_y unsigned int | end_x unsigned int | end_y unsigned int

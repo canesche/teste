@@ -1,0 +1,2 @@
+struct tipc_sock | snt_unacked long | snd_win long 
+function tsk_conn_cong int | tsk struct tipc_sock *

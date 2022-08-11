@@ -1,0 +1,3 @@
+struct TYPE_5__ | cDims int | rgsabound struct TYPE_4__ * 
+struct TYPE_4__ | cElements int 
+function SAFEARRAY_GetCellCount int | psa const struct TYPE_5__ *

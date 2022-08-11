@@ -1,0 +1,3 @@
+struct TYPE_2__ | num int 
+struct array_output_data | bytes struct TYPE_2__ 
+function array_output_get_pos int | param void *

@@ -1,0 +1,4 @@
+struct ixgbe_tx_buffer | dummy int 
+struct ixgbe_ring | dummy int 
+struct ixgbe_ipsec_tx_data | dummy int 
+function ixgbe_ipsec_tx int | tx_ring struct ixgbe_ring * | first struct ixgbe_tx_buffer * | itd struct ixgbe_ipsec_tx_data *

@@ -1,0 +1,2 @@
+struct closure | dummy int 
+function closure_debug_destroy void | cl struct closure *

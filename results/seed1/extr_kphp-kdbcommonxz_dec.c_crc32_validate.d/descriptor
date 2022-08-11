@@ -1,0 +1,3 @@
+struct xz_dec | pos int | crc32 int 
+struct xz_buf | in_pos long | in_size long | in int * 
+function crc32_validate enum xz_ret | s struct xz_dec * | b struct xz_buf *

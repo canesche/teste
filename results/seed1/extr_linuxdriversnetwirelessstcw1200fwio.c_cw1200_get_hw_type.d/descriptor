@@ -1,0 +1,1 @@
+function cw1200_get_hw_type int | config_reg_val int | major_revision int *

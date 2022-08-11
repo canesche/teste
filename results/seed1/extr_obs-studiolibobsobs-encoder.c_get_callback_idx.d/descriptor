@@ -1,0 +1,4 @@
+struct TYPE_2__ | num unsigned long | array struct encoder_callback * 
+struct obs_encoder | callbacks struct TYPE_2__ 
+struct encoder_callback | new_packet void (*)(void *, struct encoder_packet *) | param void * 
+function get_callback_idx unsigned long | encoder const struct obs_encoder * | new_packet void (*)(void *, struct encoder_packet *) | param void *

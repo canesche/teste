@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_kphp-kdbcommonxz_dec.c_lzma_get_dist_state.d/extr_kphp-kdbcommonxz_dec.c_lzma_get_dist_state_O0::lzma_get_dist_state(63)"
+  }
+]

@@ -1,0 +1,1 @@
+function _mprotect_readonly int | ptr void * | size unsigned long

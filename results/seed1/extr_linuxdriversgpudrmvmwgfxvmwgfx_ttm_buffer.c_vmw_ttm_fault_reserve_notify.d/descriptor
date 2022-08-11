@@ -1,0 +1,2 @@
+struct ttm_buffer_object | dummy int 
+function vmw_ttm_fault_reserve_notify int | bo struct ttm_buffer_object *

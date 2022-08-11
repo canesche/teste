@@ -1,0 +1,2 @@
+struct drm_connector | dummy int 
+function vc4_fkms_connector_detect enum drm_connector_status | connector struct drm_connector * | force int

@@ -1,0 +1,2 @@
+struct irq_desc | dummy int 
+function irq_fixup_move_pending int | desc struct irq_desc * | fclear int

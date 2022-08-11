@@ -1,0 +1,4 @@
+struct TYPE_7__ | filter int 
+struct TYPE_6__ | priv struct TYPE_7__ * 
+struct TYPE_5__ | format int | dst struct TYPE_6__ * 
+function config_input int | inlink struct TYPE_5__ *

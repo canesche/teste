@@ -1,0 +1,2 @@
+struct device | dummy int 
+function isp_pci_resume int | dev struct device *

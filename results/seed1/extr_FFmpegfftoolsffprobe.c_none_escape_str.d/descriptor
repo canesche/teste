@@ -1,0 +1,1 @@
+function none_escape_str const char * | dst int * | src const char * | sep const char | log_ctx void *

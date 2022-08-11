@@ -1,0 +1,5 @@
+struct spear_pingroup | nmodemuxs int | modemuxs struct spear_modemux * 
+struct spear_pinctrl_machdata | ngroups int | groups struct spear_pingroup ** 
+struct spear_modemux | nmuxregs int | muxregs struct TYPE_2__ * 
+struct TYPE_2__ | reg int 
+function pmx_init_addr void | machdata struct spear_pinctrl_machdata * | reg int

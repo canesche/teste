@@ -1,0 +1,4 @@
+struct wacom_led | hlv int | llv int | wacom struct wacom * 
+struct TYPE_2__ | max_hlv int | max_llv int 
+struct wacom | led struct TYPE_2__ 
+function wacom_leds_brightness_get enum led_brightness | led struct wacom_led *

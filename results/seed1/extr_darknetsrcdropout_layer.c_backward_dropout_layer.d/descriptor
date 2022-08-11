@@ -1,0 +1,3 @@
+struct TYPE_5__ | delta int * 
+struct TYPE_6__ | batch int | inputs int | rand float * | probability float | scale int 
+function backward_dropout_layer void | l struct TYPE_6__ | net struct TYPE_5__

@@ -1,0 +1,2 @@
+struct TYPE_3__ | direction int 
+function zbar_decoder_get_direction int | dcode const struct TYPE_3__ *

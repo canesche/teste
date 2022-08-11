@@ -1,0 +1,1 @@
+function set_exception_table_vec void * | vec unsigned int | handler void *

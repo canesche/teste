@@ -1,0 +1,4 @@
+struct TYPE_4__ | shared struct TYPE_3__ * 
+struct kvm_vcpu | arch struct TYPE_4__ 
+struct TYPE_3__ | msr int 
+function get_cur_pr unsigned int | vcpu struct kvm_vcpu *

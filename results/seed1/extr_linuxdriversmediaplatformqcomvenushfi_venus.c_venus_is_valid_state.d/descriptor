@@ -1,0 +1,2 @@
+struct venus_hfi_device | state long 
+function venus_is_valid_state int | hdev struct venus_hfi_device *

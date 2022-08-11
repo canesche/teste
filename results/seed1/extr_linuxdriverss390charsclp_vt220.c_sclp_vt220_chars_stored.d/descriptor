@@ -1,0 +1,6 @@
+struct TYPE_4__ | length unsigned int 
+struct sclp_vt220_sccb | evbuf struct TYPE_4__ 
+struct TYPE_3__ | sccb long 
+struct sclp_vt220_request | sclp_req struct TYPE_3__ 
+struct evbuf_header | dummy int 
+function sclp_vt220_chars_stored unsigned int | request struct sclp_vt220_request *

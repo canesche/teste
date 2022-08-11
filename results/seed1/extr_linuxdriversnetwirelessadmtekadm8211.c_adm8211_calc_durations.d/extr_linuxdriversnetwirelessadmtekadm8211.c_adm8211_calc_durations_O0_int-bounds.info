@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetwirelessadmtekadm8211.c_adm8211_calc_durations.d/extr_linuxdriversnetwirelessadmtekadm8211.c_adm8211_calc_durations_O0::adm8211_calc_durations(63)"
+  }
+]

@@ -1,0 +1,3 @@
+struct TYPE_2__ | report_count int | report_size int 
+struct hid_parser | scan_flags int | global struct TYPE_2__ 
+function hid_scan_feature_usage void | parser struct hid_parser * | usage int

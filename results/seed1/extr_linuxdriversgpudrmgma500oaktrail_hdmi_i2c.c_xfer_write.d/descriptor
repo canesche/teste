@@ -1,0 +1,3 @@
+struct i2c_msg | dummy int 
+struct i2c_adapter | dummy int 
+function xfer_write int | adap struct i2c_adapter * | pmsg struct i2c_msg *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | __mask int 
+function posix_spawnattr_getsigmask int | attr const struct TYPE_3__ *__restrict | mask int *__restrict

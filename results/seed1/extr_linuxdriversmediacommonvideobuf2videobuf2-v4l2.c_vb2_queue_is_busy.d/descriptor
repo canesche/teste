@@ -1,0 +1,4 @@
+struct video_device | queue struct TYPE_2__ * 
+struct file | private_data long 
+struct TYPE_2__ | owner long 
+function vb2_queue_is_busy int | vdev struct video_device * | file struct file *

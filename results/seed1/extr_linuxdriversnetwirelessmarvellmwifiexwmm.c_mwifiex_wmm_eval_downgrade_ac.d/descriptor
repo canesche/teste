@@ -1,0 +1,4 @@
+struct mwifiex_wmm_ac_status | flow_required int | disabled int 
+struct TYPE_2__ | ac_status struct mwifiex_wmm_ac_status * 
+struct mwifiex_private | wmm struct TYPE_2__ 
+function mwifiex_wmm_eval_downgrade_ac enum mwifiex_wmm_ac_e | priv struct mwifiex_private * | eval_ac enum mwifiex_wmm_ac_e

@@ -1,0 +1,4 @@
+struct clk_hw_omap_comp | comp_clks struct TYPE_2__ ** 
+struct clk_hw | dummy int 
+struct TYPE_2__ | hw struct clk_hw * 
+function _get_hw struct clk_hw * | clk struct clk_hw_omap_comp * | idx int

@@ -1,0 +1,2 @@
+struct regmap | dummy int 
+function regmap_debugfs_init void | map struct regmap * | name const char *

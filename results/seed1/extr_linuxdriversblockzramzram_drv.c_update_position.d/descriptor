@@ -1,0 +1,2 @@
+struct bio_vec | bv_len int 
+function update_position void | index int * | offset int * | bvec struct bio_vec *

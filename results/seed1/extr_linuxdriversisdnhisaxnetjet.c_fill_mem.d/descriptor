@@ -1,0 +1,4 @@
+struct TYPE_3__ | s_end int * | send int * 
+struct TYPE_4__ | tiger struct TYPE_3__ 
+struct BCState | hw struct TYPE_4__ 
+function fill_mem void | bcs struct BCState * | pos int * | cnt int | chan int | fill int

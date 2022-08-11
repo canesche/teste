@@ -1,0 +1,2 @@
+struct dsi_data | dummy int 
+function dsi_perf_show void | dsi struct dsi_data * | name const char *

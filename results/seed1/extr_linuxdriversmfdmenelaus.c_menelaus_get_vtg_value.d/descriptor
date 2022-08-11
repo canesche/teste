@@ -1,0 +1,2 @@
+struct menelaus_vtg_value | vtg int | val int 
+function menelaus_get_vtg_value int | vtg int | tbl const struct menelaus_vtg_value * | n int

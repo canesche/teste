@@ -1,0 +1,3 @@
+struct TYPE_2__ | offset int 
+struct mgag200_bo | bo struct TYPE_2__ 
+function mgag200_bo_gpu_offset int | bo struct mgag200_bo *

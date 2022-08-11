@@ -1,0 +1,2 @@
+struct clcd_fb | dummy int 
+function netx_clcd_enable void | fb struct clcd_fb *

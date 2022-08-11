@@ -1,0 +1,2 @@
+struct freq_tbl | freq long 
+function qcom_find_freq_floor const struct freq_tbl * | f const struct freq_tbl * | rate unsigned long

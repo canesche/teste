@@ -1,0 +1,2 @@
+struct TYPE_2__ | local_cleanup void (*)(void *) | local_cleanup_payload void * 
+function cl_set_cleanup void | cleanup void (*)(void *) | opaque void *

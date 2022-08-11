@@ -1,0 +1,2 @@
+struct bpf_program | expected_attach_type int 
+function bpf_program__set_expected_attach_type void | prog struct bpf_program * | type enum bpf_attach_type

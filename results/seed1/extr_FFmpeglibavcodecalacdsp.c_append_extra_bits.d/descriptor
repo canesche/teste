@@ -1,0 +1,1 @@
+function append_extra_bits void | buffer int *[2] | extra_bits_buffer int *[2] | extra_bits int | channels int | nb_samples int

@@ -1,0 +1,4 @@
+struct uio_info | priv struct cnic_uio_dev * 
+struct inode | dummy int 
+struct cnic_uio_dev | uio_dev int 
+function cnic_uio_close int | uinfo struct uio_info * | inode struct inode *

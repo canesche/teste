@@ -1,0 +1,2 @@
+struct TYPE_3__ | cur_zstencil_buffer int * 
+function device_get_zstencil_target int * | device const struct TYPE_3__ *

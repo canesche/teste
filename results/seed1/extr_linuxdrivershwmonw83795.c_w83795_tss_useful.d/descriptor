@@ -1,0 +1,2 @@
+struct w83795_data | has_temp int | has_dts int 
+function w83795_tss_useful int | data const struct w83795_data * | tsrc int

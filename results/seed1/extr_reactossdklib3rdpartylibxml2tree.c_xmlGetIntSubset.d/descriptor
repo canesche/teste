@@ -1,0 +1,3 @@
+struct TYPE_5__ | intSubset long | children struct TYPE_4__ * 
+struct TYPE_4__ | type long | next struct TYPE_4__ * 
+function xmlGetIntSubset int * | doc const struct TYPE_5__ *

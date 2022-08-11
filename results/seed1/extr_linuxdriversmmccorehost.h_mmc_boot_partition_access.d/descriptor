@@ -1,0 +1,2 @@
+struct mmc_host | caps2 int 
+function mmc_boot_partition_access int | host struct mmc_host *

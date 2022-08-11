@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_obs-studiopluginslinux-pulseaudiopulse-input.c_pulse_channels_to_obs_speakers.d/extr_obs-studiopluginslinux-pulseaudiopulse-input.c_pulse_channels_to_obs_speakers_O0::pulse_channels_to_obs_speakers(71)"
+  }
+]

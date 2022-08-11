@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function pci_ext_cfg_is_aliased int | dev struct pci_dev *

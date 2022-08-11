@@ -1,0 +1,5 @@
+struct TYPE_11__ | data int ** | linesize int * 
+struct TYPE_10__ | rgba int * | comp struct TYPE_8__ * 
+struct TYPE_9__ | nb_planes int | pixelstep int * | vsub int * | hsub int * 
+struct TYPE_8__ | u8 int * 
+function pick_color8 void | draw struct TYPE_9__ * | color struct TYPE_10__ * | in struct TYPE_11__ * | x int | y int | value int *

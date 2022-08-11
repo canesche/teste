@@ -1,0 +1,4 @@
+struct TYPE_6__ | msgh_id int 
+struct TYPE_7__ | hdr struct TYPE_6__ 
+struct TYPE_8__ | pid int 
+function handle_dead_notify int | dbg struct TYPE_8__ * | msg struct TYPE_7__ *

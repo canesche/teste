@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_ccvlibccv_util.c__ccv_sparse_matrix_index_for_hash.d/extr_ccvlibccv_util.c__ccv_sparse_matrix_index_for_hash_O0::_ccv_sparse_matrix_index_for_hash(61)"
+  }
+]

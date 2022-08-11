@@ -1,0 +1,3 @@
+struct task_struct | dummy int 
+struct pt_regs | dummy int 
+function task_pt_regs struct pt_regs * | tsk struct task_struct *

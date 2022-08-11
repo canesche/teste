@@ -1,0 +1,1 @@
+value(preamble_count) == 10, value(start_index) == 10, value(target_count) == 10, value(postamble_count) == 10, length(buffer) == 100, length(preamble_data) == 100, length(target_data) == 100, length(postamble_data) == 100

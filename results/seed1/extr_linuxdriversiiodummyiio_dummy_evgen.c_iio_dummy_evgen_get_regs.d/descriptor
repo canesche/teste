@@ -1,0 +1,3 @@
+struct iio_dummy_regs | dummy int 
+struct TYPE_2__ | base int | regs struct iio_dummy_regs * 
+function iio_dummy_evgen_get_regs struct iio_dummy_regs * | irq int

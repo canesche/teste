@@ -1,0 +1,4 @@
+struct TYPE_3__ | lower long | upper long 
+struct TYPE_4__ | nameseq struct TYPE_3__ 
+struct sockaddr_tipc | family long | addrtype long | addr struct TYPE_4__ 
+function tipc_sockaddr_is_sane int | addr struct sockaddr_tipc *

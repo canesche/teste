@@ -1,0 +1,1 @@
+function rtclock_getattr int | flavor int | attr long | count int *

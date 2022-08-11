@@ -1,0 +1,2 @@
+struct sk_buff | tc_index int 
+function tc_index_to_dp int | skb struct sk_buff *

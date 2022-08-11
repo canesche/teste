@@ -1,0 +1,4 @@
+struct TYPE_2__ | fifosize int 
+struct s3c24xx_uart_port | port struct TYPE_2__ | info struct s3c24xx_uart_info * 
+struct s3c24xx_uart_info | rx_fifofull unsigned long | rx_fifomask unsigned long | rx_fifoshift unsigned long 
+function s3c24xx_serial_rx_fifocnt int | ourport struct s3c24xx_uart_port * | ufstat unsigned long

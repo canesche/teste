@@ -1,0 +1,2 @@
+struct rpc_xprt | dummy int 
+function bc_close void | xprt struct rpc_xprt *

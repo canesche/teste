@@ -1,0 +1,2 @@
+struct TYPE_3__ | allocated_handles int | nb_handles long | handles int | freelist int * 
+function UserInitHandleTable int | ht struct TYPE_3__ * | mem int | bytes int

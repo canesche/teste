@@ -1,0 +1,3 @@
+struct TYPE_2__ | def_char unsigned short 
+struct dbcs_table | cp2uni_leadbytes unsigned char * | cp2uni long * | info struct TYPE_2__ 
+function is_valid_dbcs_mapping int | table const struct dbcs_table * | flags int | wch long | ch unsigned short

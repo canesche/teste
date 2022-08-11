@@ -1,0 +1,4 @@
+struct reset_controller_dev | dummy int 
+struct regmap | dummy int 
+struct gdsc_desc | dummy int 
+function gdsc_register int | desc struct gdsc_desc * | rcdev struct reset_controller_dev * | r struct regmap *

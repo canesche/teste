@@ -1,0 +1,8 @@
+struct ieee80211_tx_rate | idx unsigned long | flags int 
+struct ieee80211_rate | dummy int 
+struct cw1200_common | channel struct TYPE_6__ * | hw struct TYPE_5__ * | mcs_rates const struct ieee80211_rate * 
+struct TYPE_8__ | bands struct TYPE_7__ ** 
+struct TYPE_7__ | bitrates const struct ieee80211_rate * 
+struct TYPE_6__ | band unsigned long 
+struct TYPE_5__ | wiphy struct TYPE_8__ * 
+function cw1200_get_tx_rate const struct ieee80211_rate * | priv const struct cw1200_common * | rate const struct ieee80211_tx_rate *

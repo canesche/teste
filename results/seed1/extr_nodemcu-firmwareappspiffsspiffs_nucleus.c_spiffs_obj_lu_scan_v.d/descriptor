@@ -1,0 +1,2 @@
+struct TYPE_3__ | stats_p_allocated int | stats_p_deleted int | free_blocks int 
+function spiffs_obj_lu_scan_v int | fs struct TYPE_3__ * | obj_id long | bix int | ix_entry int | user_const_p const void * | user_var_p void *

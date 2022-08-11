@@ -1,0 +1,2 @@
+struct TYPE_3__ | state int 
+function s5_select_auth int | cx struct TYPE_3__ * | method int

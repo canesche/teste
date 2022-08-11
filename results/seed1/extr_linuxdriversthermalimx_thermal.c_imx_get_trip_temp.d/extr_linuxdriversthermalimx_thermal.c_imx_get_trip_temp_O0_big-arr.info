@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversthermalimx_thermal.c_imx_get_trip_temp.d/extr_linuxdriversthermalimx_thermal.c_imx_get_trip_temp_O0::imx_get_trip_temp(64)"
+  }
+]

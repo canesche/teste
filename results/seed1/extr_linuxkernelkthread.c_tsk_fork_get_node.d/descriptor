@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function tsk_fork_get_node int | tsk struct task_struct *

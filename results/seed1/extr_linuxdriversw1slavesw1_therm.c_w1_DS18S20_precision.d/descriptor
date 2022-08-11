@@ -1,0 +1,2 @@
+struct device | dummy int 
+function w1_DS18S20_precision int | device struct device * | val int

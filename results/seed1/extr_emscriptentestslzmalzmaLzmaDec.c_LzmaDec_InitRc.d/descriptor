@@ -1,0 +1,2 @@
+struct TYPE_3__ | code int | range int | needFlush long 
+function LzmaDec_InitRc void | p struct TYPE_3__ * | data const long *

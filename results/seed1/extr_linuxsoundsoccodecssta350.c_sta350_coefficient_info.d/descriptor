@@ -1,0 +1,3 @@
+struct snd_kcontrol | private_value int 
+struct snd_ctl_elem_info | count int | type int 
+function sta350_coefficient_info int | kcontrol struct snd_kcontrol * | uinfo struct snd_ctl_elem_info *

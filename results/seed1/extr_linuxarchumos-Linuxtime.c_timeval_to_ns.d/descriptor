@@ -1,0 +1,2 @@
+struct timeval | tv_usec long long | tv_sec long 
+function timeval_to_ns long long | tv const struct timeval *

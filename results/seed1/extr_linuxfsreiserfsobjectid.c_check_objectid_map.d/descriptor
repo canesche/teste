@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function check_objectid_map void | s struct super_block * | map int *

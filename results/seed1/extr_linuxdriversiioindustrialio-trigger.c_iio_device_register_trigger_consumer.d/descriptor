@@ -1,0 +1,2 @@
+struct iio_dev | groupcounter int | groups int ** 
+function iio_device_register_trigger_consumer void | indio_dev struct iio_dev *

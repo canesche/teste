@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 10,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 78,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 133074041,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_FFmpeglibavfilteraf_afftdn.c_factor.d/extr_FFmpeglibavfilteraf_afftdn.c_factor_O0::factor(60)"
+  }
+]

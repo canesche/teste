@@ -1,0 +1,4 @@
+struct ath6kl_irq_proc_registers | dummy int 
+struct ath6kl_irq_enable_reg | dummy int 
+struct ath6kl_device | dummy int 
+function ath6kl_dump_registers void | dev struct ath6kl_device * | irq_proc_reg struct ath6kl_irq_proc_registers * | irq_en_reg struct ath6kl_irq_enable_reg *

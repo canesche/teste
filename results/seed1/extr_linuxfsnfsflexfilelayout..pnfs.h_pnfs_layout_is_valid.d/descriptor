@@ -1,0 +1,2 @@
+struct pnfs_layout_hdr | dummy int 
+function pnfs_layout_is_valid int | lo const struct pnfs_layout_hdr *

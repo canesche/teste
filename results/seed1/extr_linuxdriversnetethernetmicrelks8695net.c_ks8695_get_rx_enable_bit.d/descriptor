@@ -1,0 +1,2 @@
+struct ks8695_priv | rx_irq int 
+function ks8695_get_rx_enable_bit int | ksp struct ks8695_priv *

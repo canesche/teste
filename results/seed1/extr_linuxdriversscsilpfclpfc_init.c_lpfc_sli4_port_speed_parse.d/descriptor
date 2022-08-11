@@ -1,0 +1,2 @@
+struct lpfc_hba | dummy int 
+function lpfc_sli4_port_speed_parse int | phba struct lpfc_hba * | evt_code int | speed_code int

@@ -1,0 +1,5 @@
+struct drm_file | dummy int 
+struct drm_device | dev_private long 
+struct TYPE_3__ | last_dispatch int 
+struct TYPE_4__ | sarea_priv long | hw_status_page long * 
+function i810_getage int | dev struct drm_device * | data void * | file_priv struct drm_file *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 6,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 302,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversinputjoysticksidewinder.c_sw_get_bits.d/extr_linuxdriversinputjoysticksidewinder.c_sw_get_bits_O0::sw_get_bits(61)"
+  }
+]

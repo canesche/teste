@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct ethtool_pauseparam | dummy int 
+function igbvf_get_pauseparam void | netdev struct net_device * | pause struct ethtool_pauseparam *

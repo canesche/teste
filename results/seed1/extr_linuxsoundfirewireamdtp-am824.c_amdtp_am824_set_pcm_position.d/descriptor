@@ -1,0 +1,3 @@
+struct amdtp_stream | protocol struct amdtp_am824 * 
+struct amdtp_am824 | pcm_channels unsigned int | pcm_positions unsigned int * 
+function amdtp_am824_set_pcm_position void | s struct amdtp_stream * | index unsigned int | position unsigned int

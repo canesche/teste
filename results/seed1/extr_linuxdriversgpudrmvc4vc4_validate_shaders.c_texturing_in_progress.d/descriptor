@@ -1,0 +1,2 @@
+struct vc4_shader_validation_state | tmu_write_count long * 
+function texturing_in_progress int | validation_state struct vc4_shader_validation_state *

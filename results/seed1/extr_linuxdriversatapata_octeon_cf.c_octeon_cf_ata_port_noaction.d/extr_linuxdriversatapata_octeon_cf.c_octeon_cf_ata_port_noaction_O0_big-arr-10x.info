@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversatapata_octeon_cf.c_octeon_cf_ata_port_noaction.d/extr_linuxdriversatapata_octeon_cf.c_octeon_cf_ata_port_noaction_O0::octeon_cf_ata_port_noaction(61)"
+  }
+]

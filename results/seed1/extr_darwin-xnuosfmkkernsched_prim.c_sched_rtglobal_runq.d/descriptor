@@ -1,0 +1,2 @@
+struct TYPE_2__ | rt_runq int 
+function sched_rtglobal_runq int * | pset int

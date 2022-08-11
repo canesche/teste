@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactosdlldirectxwined3dcompiler_43d3dcompiler_private.h_set_parse_status.d/extr_reactosdlldirectxwined3dcompiler_43d3dcompiler_private.h_set_parse_status_O0::set_parse_status(64)"
+  }
+]

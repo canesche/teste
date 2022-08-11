@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_mpvaudiooutao_coreaudio_utils.c_ca_formatid_is_compressed.d/extr_mpvaudiooutao_coreaudio_utils.c_ca_formatid_is_compressed_O0::ca_formatid_is_compressed(63)"
+  }
+]

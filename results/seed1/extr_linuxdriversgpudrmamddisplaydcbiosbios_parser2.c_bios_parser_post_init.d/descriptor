@@ -1,0 +1,2 @@
+struct dc_bios | dummy int 
+function bios_parser_post_init void | dcb struct dc_bios *

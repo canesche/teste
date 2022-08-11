@@ -1,0 +1,2 @@
+struct TYPE_3__ | repeat int 
+function uv_timer_get_repeat int | handle const struct TYPE_3__ *

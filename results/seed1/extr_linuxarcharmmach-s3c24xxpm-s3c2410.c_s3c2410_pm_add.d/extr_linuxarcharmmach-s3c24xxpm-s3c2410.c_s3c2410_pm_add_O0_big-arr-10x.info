@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxarcharmmach-s3c24xxpm-s3c2410.c_s3c2410_pm_add.d/extr_linuxarcharmmach-s3c24xxpm-s3c2410.c_s3c2410_pm_add_O0::s3c2410_pm_add(66)"
+  }
+]

@@ -1,0 +1,3 @@
+struct TYPE_2__ | resvport int 
+struct sock_xprt | srcport long | xprt struct TYPE_2__ 
+function xs_next_srcport unsigned short | transport struct sock_xprt * | port unsigned short

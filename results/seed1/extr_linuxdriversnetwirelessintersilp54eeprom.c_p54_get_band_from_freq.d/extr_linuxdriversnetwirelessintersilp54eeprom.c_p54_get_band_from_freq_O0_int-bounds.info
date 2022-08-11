@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetwirelessintersilp54eeprom.c_p54_get_band_from_freq.d/extr_linuxdriversnetwirelessintersilp54eeprom.c_p54_get_band_from_freq_O0::p54_get_band_from_freq(63)"
+  }
+]

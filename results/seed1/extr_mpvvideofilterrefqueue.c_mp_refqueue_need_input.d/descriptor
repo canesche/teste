@@ -1,0 +1,2 @@
+struct mp_refqueue | pos long | needed_future_frames long | eof int 
+function mp_refqueue_need_input int | q struct mp_refqueue *

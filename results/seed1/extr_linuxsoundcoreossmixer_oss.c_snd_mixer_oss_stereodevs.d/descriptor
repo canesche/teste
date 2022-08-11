@@ -1,0 +1,4 @@
+struct snd_mixer_oss_slot | stereo long | put_volume long 
+struct snd_mixer_oss_file | mixer struct snd_mixer_oss * 
+struct snd_mixer_oss | slots struct snd_mixer_oss_slot * 
+function snd_mixer_oss_stereodevs int | fmixer struct snd_mixer_oss_file *

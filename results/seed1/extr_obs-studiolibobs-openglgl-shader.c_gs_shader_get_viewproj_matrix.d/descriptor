@@ -1,0 +1,2 @@
+struct TYPE_3__ | viewproj int * 
+function gs_shader_get_viewproj_matrix int * | shader const struct TYPE_3__ *

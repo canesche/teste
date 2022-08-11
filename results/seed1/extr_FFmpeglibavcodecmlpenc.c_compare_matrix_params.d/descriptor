@@ -1,0 +1,4 @@
+struct TYPE_9__ | num_channels unsigned int | cur_restart_header struct TYPE_7__ * 
+struct TYPE_8__ | count unsigned int | fbits long * | outch long * | coeff long ** 
+struct TYPE_7__ | min_channel unsigned int | max_channel unsigned int 
+function compare_matrix_params int | ctx struct TYPE_9__ * | prev const struct TYPE_8__ * | mp const struct TYPE_8__ *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | db int * 
+function sqlite3_db_handle int * | pStmt int *

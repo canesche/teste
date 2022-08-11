@@ -1,0 +1,3 @@
+struct r5conf | retry_read_offset unsigned int | retry_read_aligned_list struct bio * | retry_read_aligned struct bio * 
+struct bio | bi_next struct bio * 
+function remove_bio_from_retry struct bio * | conf struct r5conf * | offset unsigned int *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | id int | pClassData struct TYPE_4__ * | pClass int * | pDesc int * | dev_state int 
+struct TYPE_4__ | started int | tx_pending int | hUSBDDevice struct TYPE_5__ 
+function pyb_usbdd_init void | self struct TYPE_4__ * | phy_id int

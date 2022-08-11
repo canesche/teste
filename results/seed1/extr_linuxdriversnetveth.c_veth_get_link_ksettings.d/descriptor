@@ -1,0 +1,4 @@
+struct net_device | dummy int 
+struct TYPE_2__ | autoneg int | port int | duplex int | speed int 
+struct ethtool_link_ksettings | base struct TYPE_2__ 
+function veth_get_link_ksettings int | dev struct net_device * | cmd struct ethtool_link_ksettings *

@@ -1,0 +1,1 @@
+function a64_compress_colram void | buf unsigned char * | charmap int * | colram int *

@@ -1,0 +1,2 @@
+struct dnode | dirent long 
+function dnode_first_de struct hpfs_dirent * | dnode struct dnode *

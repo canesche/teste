@@ -1,0 +1,2 @@
+struct phy_dm_struct | dummy int 
+function query_phydm_ldpc_capability int | dm struct phy_dm_struct *

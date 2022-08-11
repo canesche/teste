@@ -1,0 +1,3 @@
+struct xsk_queue | nentries int 
+struct xdp_umem_ring | dummy int 
+function xskq_umem_get_ring_size int | q struct xsk_queue *

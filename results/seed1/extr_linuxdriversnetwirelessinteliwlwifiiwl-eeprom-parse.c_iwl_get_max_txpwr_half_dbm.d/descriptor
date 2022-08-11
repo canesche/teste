@@ -1,0 +1,3 @@
+struct iwl_nvm_data | valid_tx_ant int 
+struct iwl_eeprom_enhanced_txpwr | chain_a_max long | chain_b_max long | chain_c_max long | mimo2_max long | mimo3_max long 
+function iwl_get_max_txpwr_half_dbm long | data const struct iwl_nvm_data * | txp struct iwl_eeprom_enhanced_txpwr *

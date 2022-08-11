@@ -1,0 +1,2 @@
+struct vsp1_pipeline | num_inputs int | buffers_ready unsigned int | lif int 
+function vsp1_pipeline_ready int | pipe struct vsp1_pipeline *

@@ -1,0 +1,2 @@
+struct mma8452_data | ctrl_reg1 unsigned int 
+function mma8452_get_odr_index unsigned int | data struct mma8452_data *

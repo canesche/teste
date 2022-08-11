@@ -1,0 +1,3 @@
+struct ieee80211_vif | dummy int 
+struct ieee80211_hw | dummy int 
+function brcms_ops_remove_interface void | hw struct ieee80211_hw * | vif struct ieee80211_vif *

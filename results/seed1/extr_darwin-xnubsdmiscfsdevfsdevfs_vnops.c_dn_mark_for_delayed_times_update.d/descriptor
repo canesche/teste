@@ -1,0 +1,2 @@
+struct TYPE_3__ | dn_change int | dn_access int | dn_update int 
+function dn_mark_for_delayed_times_update void | dnp struct TYPE_3__ * | just_changed_flags int

@@ -1,0 +1,3 @@
+struct TYPE_5__ | var_info struct TYPE_4__ * 
+struct TYPE_4__ | type int 
+function is_bad_mod int | ssa const struct TYPE_5__ * | use int | def int

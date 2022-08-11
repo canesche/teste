@@ -1,0 +1,2 @@
+struct sxgbe_tx_queue | cur_tx long | dirty_tx long 
+function sxgbe_tx_avail long | queue struct sxgbe_tx_queue * | tx_qsize int

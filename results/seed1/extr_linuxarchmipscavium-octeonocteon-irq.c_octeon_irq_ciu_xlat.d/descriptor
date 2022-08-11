@@ -1,0 +1,4 @@
+struct octeon_irq_ciu_domain_data | num_sum unsigned int 
+struct irq_domain | host_data struct octeon_irq_ciu_domain_data * 
+struct device_node | dummy int 
+function octeon_irq_ciu_xlat int | d struct irq_domain * | node struct device_node * | intspec const unsigned int * | intsize unsigned int | out_hwirq unsigned long * | out_type unsigned int *

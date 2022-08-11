@@ -1,0 +1,5 @@
+struct TYPE_7__ | img struct TYPE_8__ * 
+struct TYPE_8__ | datalen int | data int 
+struct TYPE_9__ | src struct TYPE_6__ * 
+struct TYPE_6__ | bytes_in_buffer int | next_input_byte int 
+function init_source void | cinfo struct TYPE_9__ *

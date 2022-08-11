@@ -1,0 +1,3 @@
+struct page_ext | dummy int 
+struct TYPE_2__ | offset int 
+function get_page_owner struct page_owner * | page_ext struct page_ext *

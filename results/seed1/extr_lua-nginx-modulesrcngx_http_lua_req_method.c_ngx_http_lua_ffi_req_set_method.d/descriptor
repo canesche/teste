@@ -1,0 +1,3 @@
+struct TYPE_5__ | method int | method_name int | connection struct TYPE_4__ * 
+struct TYPE_4__ | fd long 
+function ngx_http_lua_ffi_req_set_method int | r struct TYPE_5__ * | method int

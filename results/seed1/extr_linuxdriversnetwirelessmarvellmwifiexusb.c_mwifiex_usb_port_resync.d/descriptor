@@ -1,0 +1,5 @@
+struct usb_card_rec | port struct TYPE_2__ * 
+struct mwifiex_private | bss_role long | usb_port long | media_connected long | bss_started long 
+struct mwifiex_adapter | priv_num int | priv struct mwifiex_private ** | usb_mc_status long | card struct usb_card_rec * 
+struct TYPE_2__ | block_status int | tx_data_ep long 
+function mwifiex_usb_port_resync void | adapter struct mwifiex_adapter *

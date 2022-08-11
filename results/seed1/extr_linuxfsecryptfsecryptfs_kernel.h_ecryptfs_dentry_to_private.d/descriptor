@@ -1,0 +1,3 @@
+struct ecryptfs_dentry_info | dummy int 
+struct dentry | d_fsdata long 
+function ecryptfs_dentry_to_private struct ecryptfs_dentry_info * | dentry struct dentry *

@@ -1,0 +1,2 @@
+struct tep_handle | cpus int 
+function tep_get_cpus int | pevent struct tep_handle *

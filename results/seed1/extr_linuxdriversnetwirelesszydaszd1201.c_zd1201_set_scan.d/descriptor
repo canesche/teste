@@ -1,0 +1,4 @@
+struct net_device | dummy int 
+struct iw_request_info | dummy int 
+struct iw_point | dummy int 
+function zd1201_set_scan int | dev struct net_device * | info struct iw_request_info * | srq struct iw_point * | extra char *

@@ -1,0 +1,3 @@
+struct omap_drm_private | dummy int 
+struct dss_mgr_ops | dummy int 
+function dss_install_mgr_ops int | mgr_ops const struct dss_mgr_ops * | priv struct omap_drm_private *

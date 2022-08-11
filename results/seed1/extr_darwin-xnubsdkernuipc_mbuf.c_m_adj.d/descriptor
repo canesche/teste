@@ -1,0 +1,3 @@
+struct TYPE_2__ | len int 
+struct mbuf | m_len int | m_data int | m_flags int | m_next struct mbuf * | m_pkthdr struct TYPE_2__ 
+function m_adj void | mp struct mbuf * | req_len int

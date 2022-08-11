@@ -1,0 +1,1 @@
+function create_simple_focus_bits unsigned long | high_bits unsigned long | low_bits unsigned long | lowest_bit_set int | shift int

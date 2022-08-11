@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxtoolslibtraceeventkbuffer-parse.c_kbuffer_set_old_format.d/extr_linuxtoolslibtraceeventkbuffer-parse.c_kbuffer_set_old_format_O0::kbuffer_set_old_format(63)"
+  }
+]

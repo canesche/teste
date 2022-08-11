@@ -1,0 +1,3 @@
+struct TYPE_4__ | dss_params struct TYPE_3__ * 
+struct TYPE_3__ | max unsigned long 
+function dss_feat_get_param_max unsigned long | param enum dss_range_param

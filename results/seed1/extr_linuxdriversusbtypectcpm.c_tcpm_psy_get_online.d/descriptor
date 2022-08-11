@@ -1,0 +1,4 @@
+struct power_supply_propval | intval int 
+struct TYPE_2__ | active long 
+struct tcpm_port | pps_data struct TYPE_2__ | vbus_charge long 
+function tcpm_psy_get_online int | port struct tcpm_port * | val union power_supply_propval *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | name const char * 
+function DH_meth_get0_name const char * | dhm const struct TYPE_3__ *

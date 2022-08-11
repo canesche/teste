@@ -1,0 +1,2 @@
+struct TYPE_3__ | tif_curtile int 
+function TIFFCurrentTile int | tif struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct vc_data | vc_origin unsigned long | vc_scr_end unsigned long | vc_cols unsigned long | vc_num long 
+function fbcon_getxy unsigned long | vc struct vc_data * | pos unsigned long | px int * | py int *

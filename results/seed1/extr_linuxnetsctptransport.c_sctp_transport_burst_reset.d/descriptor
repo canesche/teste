@@ -1,0 +1,2 @@
+struct sctp_transport | burst_limited long | cwnd long 
+function sctp_transport_burst_reset void | t struct sctp_transport *

@@ -1,0 +1,2 @@
+struct fdp1_fmt | fmt int 
+function fdp1_fmt_is_rgb int | fmt const struct fdp1_fmt *

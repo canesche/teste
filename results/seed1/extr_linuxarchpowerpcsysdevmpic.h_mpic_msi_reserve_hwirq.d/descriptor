@@ -1,0 +1,2 @@
+struct mpic | dummy int 
+function mpic_msi_reserve_hwirq void | mpic struct mpic * | hwirq int

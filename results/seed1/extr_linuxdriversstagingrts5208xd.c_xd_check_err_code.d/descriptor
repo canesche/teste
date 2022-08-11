@@ -1,0 +1,3 @@
+struct xd_info | err_code long 
+struct rtsx_chip | xd_card struct xd_info 
+function xd_check_err_code int | chip struct rtsx_chip * | err_code long

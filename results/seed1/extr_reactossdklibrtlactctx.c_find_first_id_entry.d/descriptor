@@ -1,0 +1,3 @@
+struct TYPE_6__ | NumberOfNamedEntries int | NumberOfIdEntries int 
+struct TYPE_5__ | OffsetToDirectory int | DataIsDirectory int 
+function find_first_id_entry struct TYPE_6__ * | dir struct TYPE_6__ * | root void * | want_dir int

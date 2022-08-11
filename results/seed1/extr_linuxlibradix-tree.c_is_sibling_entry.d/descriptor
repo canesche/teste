@@ -1,0 +1,2 @@
+struct radix_tree_node | dummy int 
+function is_sibling_entry int | parent const struct radix_tree_node * | node void *

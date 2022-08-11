@@ -1,0 +1,3 @@
+struct ccu_frac_internal | rates unsigned long * 
+struct ccu_common | features int 
+function ccu_frac_helper_has_rate int | common struct ccu_common * | cf struct ccu_frac_internal * | rate unsigned long

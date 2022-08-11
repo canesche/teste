@@ -1,0 +1,2 @@
+struct fprop_local_single | dummy int 
+function fprop_local_destroy_single void | pl struct fprop_local_single *

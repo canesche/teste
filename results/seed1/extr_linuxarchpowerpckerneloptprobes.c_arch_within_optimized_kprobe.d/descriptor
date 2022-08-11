@@ -1,0 +1,3 @@
+struct TYPE_2__ | addr long 
+struct optimized_kprobe | kp struct TYPE_2__ 
+function arch_within_optimized_kprobe int | op struct optimized_kprobe * | addr unsigned long

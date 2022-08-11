@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediaradioradio-tea5777.c_tea5777_freq_to_v4l2_freq.d/extr_linuxdriversmediaradioradio-tea5777.c_tea5777_freq_to_v4l2_freq_O0::tea5777_freq_to_v4l2_freq(68)"
+  }
+]

@@ -1,0 +1,2 @@
+struct pci_func | device unsigned long | next struct pci_func * 
+function cpqhp_slot_find struct pci_func * | bus unsigned long | device unsigned long | index unsigned long

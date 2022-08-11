@@ -1,0 +1,4 @@
+struct TYPE_2__ | offset unsigned int | bo struct host1x_bo * 
+struct host1x_reloc | shift long | cmdbuf struct TYPE_2__ 
+struct host1x_bo | dummy int 
+function check_reloc int | reloc struct host1x_reloc * | cmdbuf struct host1x_bo * | offset unsigned int

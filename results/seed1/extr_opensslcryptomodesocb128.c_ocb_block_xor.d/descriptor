@@ -1,0 +1,1 @@
+function ocb_block_xor void | in1 const unsigned char * | in2 const unsigned char * | len unsigned long | out unsigned char *

@@ -1,0 +1,3 @@
+struct jump_insn | next struct jump_insn * 
+struct func_info | jump_last struct jump_insn * | jump_first struct jump_insn * 
+function jump_insn_insert_tail void | fp struct func_info *const | jp struct jump_insn *

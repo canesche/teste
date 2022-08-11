@@ -1,0 +1,2 @@
+struct TYPE_3__ | m_reqBodyLen int 
+function LSAPI_GetReqBodyLen_r int | pReq struct TYPE_3__ *

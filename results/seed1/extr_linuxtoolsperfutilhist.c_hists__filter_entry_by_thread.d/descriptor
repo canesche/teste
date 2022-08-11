@@ -1,0 +1,3 @@
+struct hists | thread_filter int * 
+struct hist_entry | filtered int | thread int * 
+function hists__filter_entry_by_thread int | hists struct hists * | he struct hist_entry *

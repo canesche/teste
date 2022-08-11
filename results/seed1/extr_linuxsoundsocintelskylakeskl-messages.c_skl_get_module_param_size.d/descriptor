@@ -1,0 +1,9 @@
+struct skl_up_down_mixer_cfg | dummy int 
+struct skl_sst | dummy int 
+struct skl_src_module_cfg | dummy int 
+struct TYPE_2__ | caps_size int 
+struct skl_module_cfg | m_type int | formats_config struct TYPE_2__ 
+struct skl_cpr_cfg | dummy int 
+struct skl_base_outfmt_cfg | dummy int 
+struct skl_base_cfg | dummy int 
+function skl_get_module_param_size int | ctx struct skl_sst * | mconfig struct skl_module_cfg *

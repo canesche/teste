@@ -1,0 +1,1 @@
+function get_audio_bytes_per_channel unsigned long | format enum audio_format

@@ -1,0 +1,5 @@
+struct snd_kcontrol | dummy int 
+struct TYPE_3__ | min int | max int | step int 
+struct TYPE_4__ | integer struct TYPE_3__ 
+struct snd_ctl_elem_info | count int | value struct TYPE_4__ | type int 
+function snd_hdspm_info_system_sample_rate int | kcontrol struct snd_kcontrol * | uinfo struct snd_ctl_elem_info *

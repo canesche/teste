@@ -1,0 +1,2 @@
+struct persona | dummy int 
+function persona_get struct persona * | persona struct persona *

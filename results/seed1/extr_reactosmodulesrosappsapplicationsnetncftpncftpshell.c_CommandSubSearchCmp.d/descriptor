@@ -1,0 +1,2 @@
+struct TYPE_3__ | name char * 
+function CommandSubSearchCmp int | key const char *const | a struct TYPE_3__ *const

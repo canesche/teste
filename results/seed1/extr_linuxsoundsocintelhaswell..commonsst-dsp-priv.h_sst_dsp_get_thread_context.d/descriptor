@@ -1,0 +1,2 @@
+struct sst_dsp | thread_context void * 
+function sst_dsp_get_thread_context void * | sst struct sst_dsp *

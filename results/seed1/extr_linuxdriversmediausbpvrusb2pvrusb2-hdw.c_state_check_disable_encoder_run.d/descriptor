@@ -1,0 +1,2 @@
+struct pvr2_hdw | pathway_state int | state_encoder_runok int | state_decoder_run int | state_pathway_ok int | state_encoder_ok int 
+function state_check_disable_encoder_run int | hdw struct pvr2_hdw *

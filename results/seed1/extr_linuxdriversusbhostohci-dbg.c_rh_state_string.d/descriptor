@@ -1,0 +1,2 @@
+struct ohci_hcd | rh_state int 
+function rh_state_string const char * | ohci struct ohci_hcd *

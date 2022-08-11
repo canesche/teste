@@ -1,0 +1,2 @@
+struct phy_device | dummy int 
+function am79c_config_init int | phydev struct phy_device *

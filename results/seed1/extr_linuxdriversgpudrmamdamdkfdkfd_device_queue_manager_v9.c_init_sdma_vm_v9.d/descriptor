@@ -1,0 +1,5 @@
+struct TYPE_2__ | sdma_vm_addr long 
+struct queue | properties struct TYPE_2__ 
+struct qcm_process_device | dummy int 
+struct device_queue_manager | dummy int 
+function init_sdma_vm_v9 void | dqm struct device_queue_manager * | q struct queue * | qpd struct qcm_process_device *

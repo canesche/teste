@@ -1,0 +1,1 @@
+function nvbios_findstr int | data const long * | size int | str const char * | len int

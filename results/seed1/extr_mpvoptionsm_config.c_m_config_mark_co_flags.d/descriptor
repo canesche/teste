@@ -1,0 +1,2 @@
+struct m_config_option | is_set_from_cmdline int | is_set_from_config int 
+function m_config_mark_co_flags void | co struct m_config_option * | flags int

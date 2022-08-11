@@ -1,0 +1,3 @@
+struct seq_file | dummy int 
+struct pinctrl_setting | dummy int 
+function pinconf_show_setting void | s struct seq_file * | setting const struct pinctrl_setting *

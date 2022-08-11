@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_h2ot00unitlibcommon........libcommonhttpclient.c_should_use_h2.d/extr_h2ot00unitlibcommon........libcommonhttpclient.c_should_use_h2_O0::should_use_h2(61)"
+  }
+]

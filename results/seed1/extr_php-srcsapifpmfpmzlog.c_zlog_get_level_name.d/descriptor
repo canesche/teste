@@ -1,0 +1,1 @@
+function zlog_get_level_name const char * | log_level int

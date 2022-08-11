@@ -1,0 +1,2 @@
+struct TYPE_3__ | ncs_context long 
+function nstat_control_end_query int | state struct TYPE_3__ * | last_src int * | partial int

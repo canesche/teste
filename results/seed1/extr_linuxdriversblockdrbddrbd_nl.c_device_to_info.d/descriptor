@@ -1,0 +1,4 @@
+struct TYPE_2__ | disk int 
+struct drbd_device | state struct TYPE_2__ 
+struct device_info | dev_disk_state int 
+function device_to_info void | info struct device_info * | device struct drbd_device *

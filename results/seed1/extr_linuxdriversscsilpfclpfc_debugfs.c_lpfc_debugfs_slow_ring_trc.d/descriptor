@@ -1,0 +1,2 @@
+struct lpfc_hba | dummy int 
+function lpfc_debugfs_slow_ring_trc void | phba struct lpfc_hba * | fmt char * | data1 int | data2 int | data3 int

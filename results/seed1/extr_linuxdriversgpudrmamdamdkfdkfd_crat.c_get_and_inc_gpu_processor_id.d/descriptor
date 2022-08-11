@@ -1,0 +1,1 @@
+function get_and_inc_gpu_processor_id unsigned int | total_cu_count unsigned int

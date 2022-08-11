@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriverscryptoccreecc_buffer_mgr.c_cc_dma_buf_type.d/extr_linuxdriverscryptoccreecc_buffer_mgr.c_cc_dma_buf_type_O0::cc_dma_buf_type(62)"
+  }
+]

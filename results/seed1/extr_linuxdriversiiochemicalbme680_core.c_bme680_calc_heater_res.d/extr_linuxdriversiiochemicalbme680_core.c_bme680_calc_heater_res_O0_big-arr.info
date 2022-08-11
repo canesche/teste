@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 72,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 72,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversiiochemicalbme680_core.c_bme680_calc_heater_res.d/extr_linuxdriversiiochemicalbme680_core.c_bme680_calc_heater_res_O0::bme680_calc_heater_res(66)"
+  }
+]

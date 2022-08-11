@@ -1,0 +1,7 @@
+struct TYPE_13__ | not_found int | valid int | data int | no_cacheable long | len int 
+struct TYPE_14__ | request_body struct TYPE_12__ * 
+struct TYPE_12__ | temp_file struct TYPE_11__ * 
+struct TYPE_9__ | data int | len int 
+struct TYPE_10__ | name struct TYPE_9__ 
+struct TYPE_11__ | file struct TYPE_10__ 
+function ngx_http_variable_request_body_file int | r struct TYPE_14__ * | v struct TYPE_13__ * | data unsigned long

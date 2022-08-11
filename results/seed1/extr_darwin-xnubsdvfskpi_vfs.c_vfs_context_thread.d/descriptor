@@ -1,0 +1,2 @@
+struct TYPE_3__ | vc_thread int 
+function vfs_context_thread int | ctx struct TYPE_3__ *

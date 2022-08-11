@@ -1,0 +1,3 @@
+struct nubus_dir | mask int | done long | base int | ptr int 
+struct nubus_board | lanes int | directory int 
+function nubus_get_root_dir int | board const struct nubus_board * | dir struct nubus_dir *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | nleft unsigned long | nbits unsigned long | word int 
+function isdn_audio_get_bits int | s struct TYPE_3__ * | in unsigned char ** | len int *

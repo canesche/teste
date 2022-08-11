@@ -1,0 +1,7 @@
+struct TYPE_6__ | physical_address int | array int * 
+struct TYPE_5__ | physical_address int | array int * 
+struct TYPE_4__ | array struct sci_unsolicited_frame * 
+struct sci_unsolicited_frame_control | headers struct TYPE_6__ | address_table struct TYPE_5__ | buffers struct TYPE_4__ | get long 
+struct sci_unsolicited_frame | state int | header int * | buffer void * 
+struct isci_host | ufi_dma int | ufi_buf void * | uf_control struct sci_unsolicited_frame_control 
+function sci_unsolicited_frame_control_construct void | ihost struct isci_host *

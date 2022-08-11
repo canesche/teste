@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxarchshboardsmach-r2dirq.c_rts7751r2d_irq_demux.d/extr_linuxarchshboardsmach-r2dirq.c_rts7751r2d_irq_demux_O0::rts7751r2d_irq_demux(62)"
+  }
+]

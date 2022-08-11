@@ -1,0 +1,3 @@
+struct pp_power_state | dummy int 
+struct pp_hwmgr | dummy int 
+function smu10_apply_state_adjust_rules int | hwmgr struct pp_hwmgr * | prequest_ps struct pp_power_state * | pcurrent_ps const struct pp_power_state *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | numpoints int | p long ** 
+function WindingBounds void | w struct TYPE_3__ * | mins long * | maxs long *

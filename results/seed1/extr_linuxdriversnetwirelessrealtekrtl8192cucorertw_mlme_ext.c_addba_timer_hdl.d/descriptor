@@ -1,0 +1,3 @@
+struct ht_priv | ht_option long | ampdu_enable long | candidate_tid_bitmap int 
+struct sta_info | htpriv struct ht_priv 
+function addba_timer_hdl void | psta struct sta_info *

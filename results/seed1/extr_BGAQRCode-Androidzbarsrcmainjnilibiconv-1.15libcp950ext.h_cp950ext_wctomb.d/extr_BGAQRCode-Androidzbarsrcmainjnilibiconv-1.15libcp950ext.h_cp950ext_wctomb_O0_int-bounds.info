@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 10,
+    exit: true,
+    halt: false,
+    edges: 23,
+    static: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_BGAQRCode-Androidzbarsrcmainjnilibiconv-1.15libcp950ext.h_cp950ext_wctomb.d/extr_BGAQRCode-Androidzbarsrcmainjnilibiconv-1.15libcp950ext.h_cp950ext_wctomb_O0::cp950ext_wctomb(77)"
+  }
+]

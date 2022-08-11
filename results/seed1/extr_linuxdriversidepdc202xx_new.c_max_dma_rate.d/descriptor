@@ -1,0 +1,2 @@
+struct pci_dev | device int 
+function max_dma_rate int | pdev struct pci_dev *

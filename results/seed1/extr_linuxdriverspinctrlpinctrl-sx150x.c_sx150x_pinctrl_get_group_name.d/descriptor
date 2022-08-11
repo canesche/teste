@@ -1,0 +1,2 @@
+struct pinctrl_dev | dummy int 
+function sx150x_pinctrl_get_group_name const char * | pctldev struct pinctrl_dev * | group unsigned int

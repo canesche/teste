@@ -1,0 +1,2 @@
+struct TYPE_2__ | thread_id int 
+function cbe_get_hw_thread_id int | cpu int

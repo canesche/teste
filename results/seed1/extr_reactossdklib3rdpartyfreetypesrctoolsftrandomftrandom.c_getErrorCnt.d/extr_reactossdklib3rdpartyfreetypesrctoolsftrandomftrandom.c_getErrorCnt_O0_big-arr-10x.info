@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactossdklib3rdpartyfreetypesrctoolsftrandomftrandom.c_getErrorCnt.d/extr_reactossdklib3rdpartyfreetypesrctoolsftrandomftrandom.c_getErrorCnt_O0::getErrorCnt(64)"
+  }
+]

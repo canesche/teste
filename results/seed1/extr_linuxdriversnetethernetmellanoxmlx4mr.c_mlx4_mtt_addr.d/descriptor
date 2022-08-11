@@ -1,0 +1,4 @@
+struct mlx4_mtt | offset long 
+struct TYPE_2__ | mtt_entry_sz int 
+struct mlx4_dev | caps struct TYPE_2__ 
+function mlx4_mtt_addr int | dev struct mlx4_dev * | mtt struct mlx4_mtt *

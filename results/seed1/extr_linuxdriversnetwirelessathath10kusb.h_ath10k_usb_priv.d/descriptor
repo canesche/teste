@@ -1,0 +1,3 @@
+struct ath10k_usb | dummy int 
+struct ath10k | drv_priv long 
+function ath10k_usb_priv struct ath10k_usb * | ar struct ath10k *

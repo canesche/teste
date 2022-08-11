@@ -1,0 +1,5 @@
+struct maven_data | version long | primary_head struct TYPE_6__ * 
+struct TYPE_4__ | deflicker int 
+struct TYPE_5__ | tvo_params struct TYPE_4__ 
+struct TYPE_6__ | altout struct TYPE_5__ 
+function maven_compute_deflicker unsigned char | md const struct maven_data *

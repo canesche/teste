@@ -1,0 +1,2 @@
+struct smscore_config_gpio | pullupdown int | outputslewrate int | outputdriving int | inputcharacteristics int | direction int 
+function sms_gpio_assign_11xx_default_led_config void | p_gpio_config struct smscore_config_gpio *

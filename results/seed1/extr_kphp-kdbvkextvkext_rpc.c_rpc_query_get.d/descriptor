@@ -1,0 +1,2 @@
+struct rpc_query | qid long long 
+function rpc_query_get struct rpc_query * | qid long long

@@ -1,0 +1,6 @@
+struct TYPE_8__ | MemId long 
+struct TYPE_9__ | Data struct TYPE_8__ 
+struct TYPE_12__ | surface struct TYPE_9__ 
+struct TYPE_11__ | nb_mids int | mids struct TYPE_10__ * 
+struct TYPE_10__ | handle long 
+function ff_qsv_find_surface_idx int | ctx struct TYPE_11__ * | frame struct TYPE_12__ *

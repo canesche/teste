@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediai2cm5molsm5mols_core.c_m5mols_enum_mbus_code.d/extr_linuxdriversmediai2cm5molsm5mols_core.c_m5mols_enum_mbus_code_O0::m5mols_enum_mbus_code(70)"
+  }
+]

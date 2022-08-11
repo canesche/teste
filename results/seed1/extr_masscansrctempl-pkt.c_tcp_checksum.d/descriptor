@@ -1,0 +1,2 @@
+struct TemplatePacket | packet unsigned char * | offset_app unsigned int | offset_tcp unsigned int | offset_ip int 
+function tcp_checksum unsigned int | tmpl struct TemplatePacket *

@@ -1,0 +1,4 @@
+struct aac_dev | cardtype unsigned long 
+struct Scsi_Host | hostdata long 
+struct TYPE_2__ | name const char * 
+function aac_info const char * | shost struct Scsi_Host *

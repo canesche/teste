@@ -1,0 +1,7 @@
+struct ieee80211_txq | drv_priv long 
+struct ieee80211_hw | priv struct ath10k * 
+struct ath10k_txq | num_fw_queued long | num_push_allowed long 
+struct TYPE_3__ | mode long | num_push_allowed long 
+struct TYPE_4__ | num_pending_tx long | tx_q_state struct TYPE_3__ 
+struct ath10k | htt struct TYPE_4__ 
+function ath10k_mac_tx_can_push int | hw struct ieee80211_hw * | txq struct ieee80211_txq *

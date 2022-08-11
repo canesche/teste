@@ -1,0 +1,1 @@
+function avfilter_mul_matrix void | m1 const float * | scalar float | result float *

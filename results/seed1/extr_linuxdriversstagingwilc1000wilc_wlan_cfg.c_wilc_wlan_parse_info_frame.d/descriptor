@@ -1,0 +1,2 @@
+struct wilc_mac_cfg | mac_status int 
+function wilc_wlan_parse_info_frame int | info int * | size int

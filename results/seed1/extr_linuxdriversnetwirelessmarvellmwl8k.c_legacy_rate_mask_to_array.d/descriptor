@@ -1,0 +1,2 @@
+struct TYPE_2__ | hw_value int 
+function legacy_rate_mask_to_array void | rates int * | mask int

@@ -1,0 +1,2 @@
+struct tty3270 | esc_npar int | esc_par int * | f_color unsigned char | highlight void * 
+function tty3270_set_attributes void | tp struct tty3270 *

@@ -1,0 +1,4 @@
+struct TYPE_4__ | state struct TYPE_3__ * 
+struct rcar_du_plane | plane struct TYPE_4__ 
+struct TYPE_3__ | normalized_zpos unsigned int 
+function plane_zpos unsigned int | plane struct rcar_du_plane *

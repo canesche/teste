@@ -1,0 +1,5 @@
+struct TYPE_6__ | inst struct TYPE_5__ * 
+struct amdgpu_device | uvd struct TYPE_6__ 
+struct TYPE_4__ | funcs int * 
+struct TYPE_5__ | ring struct TYPE_4__ 
+function uvd_v5_0_set_ring_funcs void | adev struct amdgpu_device *

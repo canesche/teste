@@ -1,0 +1,4 @@
+struct TYPE_4__ | code int | chain struct TYPE_3__ * 
+struct nft_data | verdict struct TYPE_4__ 
+struct TYPE_3__ | use int 
+function nft_data_hold void | data const struct nft_data * | type enum nft_data_types

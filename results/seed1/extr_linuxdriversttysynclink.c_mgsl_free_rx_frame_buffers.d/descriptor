@@ -1,0 +1,3 @@
+struct mgsl_struct | rx_buffer_count unsigned int | current_rx_buffer unsigned int | rx_buffer_list struct TYPE_2__ * 
+struct TYPE_2__ | count int 
+function mgsl_free_rx_frame_buffers void | info struct mgsl_struct * | StartIndex unsigned int | EndIndex unsigned int

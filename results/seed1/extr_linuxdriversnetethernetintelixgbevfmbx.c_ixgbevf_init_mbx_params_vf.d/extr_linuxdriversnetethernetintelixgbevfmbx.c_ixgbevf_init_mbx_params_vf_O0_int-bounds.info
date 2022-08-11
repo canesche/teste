@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetintelixgbevfmbx.c_ixgbevf_init_mbx_params_vf.d/extr_linuxdriversnetethernetintelixgbevfmbx.c_ixgbevf_init_mbx_params_vf_O0::ixgbevf_init_mbx_params_vf(67)"
+  }
+]

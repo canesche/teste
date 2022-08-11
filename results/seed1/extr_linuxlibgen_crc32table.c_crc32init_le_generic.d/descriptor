@@ -1,0 +1,1 @@
+function crc32init_le_generic void | polynomial const int | tab int (*)[256]

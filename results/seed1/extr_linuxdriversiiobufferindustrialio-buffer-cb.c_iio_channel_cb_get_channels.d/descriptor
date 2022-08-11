@@ -1,0 +1,3 @@
+struct iio_channel | dummy int 
+struct iio_cb_buffer | channels struct iio_channel * 
+function iio_channel_cb_get_channels struct iio_channel * | cb_buffer const struct iio_cb_buffer *

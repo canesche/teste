@@ -1,0 +1,3 @@
+struct thread_qos_override | override_resource long | override_resource_type int | override_next struct thread_qos_override * 
+struct TYPE_3__ | overrides struct thread_qos_override * 
+function find_qos_override struct thread_qos_override * | thread struct TYPE_3__ * | resource long | resource_type int

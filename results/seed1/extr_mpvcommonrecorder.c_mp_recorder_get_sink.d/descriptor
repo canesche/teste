@@ -1,0 +1,3 @@
+struct mp_recorder_sink | dummy int 
+struct mp_recorder | num_streams int | streams struct mp_recorder_sink ** 
+function mp_recorder_get_sink struct mp_recorder_sink * | r struct mp_recorder * | stream int

@@ -1,0 +1,6 @@
+struct ciw | ct long 
+struct ccw_device | private struct TYPE_5__ * 
+struct TYPE_6__ | ciw struct ciw * 
+struct TYPE_4__ | esid long 
+struct TYPE_5__ | senseid struct TYPE_6__ | flags struct TYPE_4__ 
+function ccw_device_get_ciw struct ciw * | cdev struct ccw_device * | ct long

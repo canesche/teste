@@ -1,0 +1,4 @@
+struct TYPE_7__ | io long 
+struct TYPE_6__ | e_tbl struct TYPE_5__ * 
+struct TYPE_5__ | e int * 
+function entity_ptr int * | a struct TYPE_7__ * | e_no unsigned long

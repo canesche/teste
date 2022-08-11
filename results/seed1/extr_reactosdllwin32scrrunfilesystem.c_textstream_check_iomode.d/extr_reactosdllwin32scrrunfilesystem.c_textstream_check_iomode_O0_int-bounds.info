@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactosdllwin32scrrunfilesystem.c_textstream_check_iomode.d/extr_reactosdllwin32scrrunfilesystem.c_textstream_check_iomode_O0::textstream_check_iomode(67)"
+  }
+]

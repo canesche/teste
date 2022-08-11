@@ -1,0 +1,3 @@
+struct fb_var_screeninfo | dummy int 
+struct fb_info | dummy int 
+function vesafb_pan_display int | var struct fb_var_screeninfo * | info struct fb_info *

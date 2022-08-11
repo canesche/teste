@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct mr_table | dummy int 
+function ipmr_forward_offloaded int | skb struct sk_buff * | mrt struct mr_table * | in_vifi int | out_vifi int

@@ -1,0 +1,4 @@
+struct TYPE_7__ | slice_ctx struct TYPE_6__ * 
+struct TYPE_5__ | luma_weight_flag unsigned char * | chroma_weight_flag unsigned char * | luma_weight short *** | luma_log2_weight_denom int | chroma_weight short **** | chroma_log2_weight_denom int 
+struct TYPE_6__ | ref_count unsigned int * | pwt struct TYPE_5__ 
+function fill_vaapi_plain_pred_weight_table void | h const struct TYPE_7__ * | list int | luma_weight_flag unsigned char * | luma_weight short [32] | luma_offset short [32] | chroma_weight_flag unsigned char * | chroma_weight short [32][2] | chroma_offset short [32][2]

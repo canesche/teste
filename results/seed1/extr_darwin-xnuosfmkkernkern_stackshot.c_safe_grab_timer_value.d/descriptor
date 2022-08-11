@@ -1,0 +1,2 @@
+struct timer | all_bits int 
+function safe_grab_timer_value int | t struct timer *

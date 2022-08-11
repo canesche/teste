@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_obs-studiolibobsobs-hotkey.h_obs_key_combination_is_empty.d/extr_obs-studiolibobsobs-hotkey.h_obs_key_combination_is_empty_O0::obs_key_combination_is_empty(62)"
+  }
+]

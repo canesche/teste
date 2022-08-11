@@ -1,0 +1,3 @@
+struct ptp_clock_request | dummy int 
+struct ptp_clock_info | dummy int 
+function hv_ptp_enable int | info struct ptp_clock_info * | request struct ptp_clock_request * | on int

@@ -1,0 +1,4 @@
+struct wined3d_cs_set_predication | value int | predicate int 
+struct TYPE_2__ | predicate_value int | predicate int 
+struct wined3d_cs | state struct TYPE_2__ 
+function wined3d_cs_exec_set_predication void | cs struct wined3d_cs * | data const void *

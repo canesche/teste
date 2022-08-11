@@ -1,0 +1,2 @@
+struct TYPE_2__ | plcp int 
+function iwlagn_hwrate_to_mac80211_idx int | rate_n_flags int | band enum nl80211_band

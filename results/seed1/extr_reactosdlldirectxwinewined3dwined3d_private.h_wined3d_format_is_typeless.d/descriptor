@@ -1,0 +1,2 @@
+struct wined3d_format | id long | typeless_id long 
+function wined3d_format_is_typeless int | format const struct wined3d_format *

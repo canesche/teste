@@ -1,0 +1,2 @@
+struct dsaf_device | dummy int 
+function hns_dsaf_dev_priv void * | dsaf_dev const struct dsaf_device *

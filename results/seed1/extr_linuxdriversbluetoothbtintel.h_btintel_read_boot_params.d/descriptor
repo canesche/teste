@@ -1,0 +1,3 @@
+struct intel_boot_params | dummy int 
+struct hci_dev | dummy int 
+function btintel_read_boot_params int | hdev struct hci_dev * | params struct intel_boot_params *

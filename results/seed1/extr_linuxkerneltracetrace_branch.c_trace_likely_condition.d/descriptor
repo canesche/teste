@@ -1,0 +1,2 @@
+struct ftrace_likely_data | dummy int 
+function trace_likely_condition void | f struct ftrace_likely_data * | val int | expect int

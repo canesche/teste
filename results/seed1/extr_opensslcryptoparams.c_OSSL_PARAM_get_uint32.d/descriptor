@@ -1,0 +1,2 @@
+struct TYPE_3__ | data_type long | data_size int | data long 
+function OSSL_PARAM_get_uint32 int | p const struct TYPE_3__ * | val int *

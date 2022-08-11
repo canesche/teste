@@ -1,0 +1,2 @@
+struct cmd_priv | cmd_done_cnt int 
+function rtw_cmd_clr_isr void | pcmdpriv struct cmd_priv *

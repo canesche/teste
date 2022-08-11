@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 3072,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactosdllwin32usp10shape.c_UpdateClustersFromGlyphProp.d/extr_reactosdllwin32usp10shape.c_UpdateClustersFromGlyphProp_O0::UpdateClustersFromGlyphProp(66)"
+  }
+]

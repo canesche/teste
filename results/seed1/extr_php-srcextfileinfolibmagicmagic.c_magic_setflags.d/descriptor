@@ -1,0 +1,2 @@
+struct magic_set | flags int 
+function magic_setflags int | ms struct magic_set * | flags int

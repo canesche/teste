@@ -1,0 +1,4 @@
+struct ieee80211_regdomain | n_reg_rules unsigned long | reg_rules const struct ieee80211_reg_rule * 
+struct ieee80211_freq_range | end_freq_khz long | start_freq_khz long 
+struct ieee80211_reg_rule | freq_range struct ieee80211_freq_range 
+function reg_get_max_bandwidth_from_range unsigned int | rd const struct ieee80211_regdomain * | rule const struct ieee80211_reg_rule *

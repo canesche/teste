@@ -1,0 +1,3 @@
+struct hfsc_class | filter_cnt int 
+struct Qdisc | dummy int 
+function hfsc_unbind_tcf void | sch struct Qdisc * | arg unsigned long

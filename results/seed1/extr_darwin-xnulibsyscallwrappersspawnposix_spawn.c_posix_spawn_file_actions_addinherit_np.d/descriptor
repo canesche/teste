@@ -1,0 +1,1 @@
+function posix_spawn_file_actions_addinherit_np int | file_actions int ** | filedes int

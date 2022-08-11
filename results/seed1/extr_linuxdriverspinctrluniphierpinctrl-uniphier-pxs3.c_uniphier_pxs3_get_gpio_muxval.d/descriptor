@@ -1,0 +1,1 @@
+function uniphier_pxs3_get_gpio_muxval int | pin unsigned int | gpio_offset unsigned int

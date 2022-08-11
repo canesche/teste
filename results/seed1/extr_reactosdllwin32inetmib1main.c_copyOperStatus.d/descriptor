@@ -1,0 +1,3 @@
+struct TYPE_4__ | number int 
+struct TYPE_5__ | asnValue struct TYPE_4__ | asnType int 
+function copyOperStatus int | value struct TYPE_5__ * | src void *

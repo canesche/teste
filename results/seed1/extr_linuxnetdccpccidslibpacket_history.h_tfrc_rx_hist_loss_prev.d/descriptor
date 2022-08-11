@@ -1,0 +1,3 @@
+struct tfrc_rx_hist_entry | dummy int 
+struct tfrc_rx_hist | loss_start unsigned long | ring struct tfrc_rx_hist_entry ** 
+function tfrc_rx_hist_loss_prev struct tfrc_rx_hist_entry * | h const struct tfrc_rx_hist *

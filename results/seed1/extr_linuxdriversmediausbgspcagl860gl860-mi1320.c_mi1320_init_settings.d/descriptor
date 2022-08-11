@@ -1,0 +1,5 @@
+struct TYPE_4__ | backlight int | brightness int | sharpness int | gamma int | hue int | saturation int | whitebal int | mirror int | flip int | AC50Hz int | contrast long 
+struct TYPE_3__ | sharpness int | contrast int | gamma int | saturation int | AC50Hz int | flip long | mirror long | whitebal long | hue long | brightness long | backlight long 
+struct sd | dev_post_unset_alt int | dev_init_pre_alt int | dev_configure_alt int | dev_init_at_startup int | dev_camera_settings int | vmax struct TYPE_4__ | vcur struct TYPE_3__ 
+struct gspca_dev | dummy int 
+function mi1320_init_settings void | gspca_dev struct gspca_dev *

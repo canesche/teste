@@ -1,0 +1,3 @@
+struct venus_inst | session_type int | core struct venus_core * 
+struct venus_core | enc_codecs int | dec_codecs int 
+function venus_helper_check_codec int | inst struct venus_inst * | v4l2_pixfmt int

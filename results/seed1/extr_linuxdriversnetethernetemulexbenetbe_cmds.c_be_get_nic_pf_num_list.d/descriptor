@@ -1,0 +1,3 @@
+struct be_res_desc_hdr | desc_type long | desc_len int 
+struct be_pcie_res_desc | pf_type long | pf_num long | pf_state long 
+function be_get_nic_pf_num_list long | buf int * | desc_count int | nic_pf_nums long *

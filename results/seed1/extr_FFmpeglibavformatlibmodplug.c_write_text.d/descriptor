@@ -1,0 +1,1 @@
+function write_text void | dst char * | s const char * | linesize int | x int | y int

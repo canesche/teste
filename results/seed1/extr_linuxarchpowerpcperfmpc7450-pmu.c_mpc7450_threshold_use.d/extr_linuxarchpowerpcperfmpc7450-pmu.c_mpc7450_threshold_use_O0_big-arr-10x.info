@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxarchpowerpcperfmpc7450-pmu.c_mpc7450_threshold_use.d/extr_linuxarchpowerpcperfmpc7450-pmu.c_mpc7450_threshold_use_O0::mpc7450_threshold_use(64)"
+  }
+]

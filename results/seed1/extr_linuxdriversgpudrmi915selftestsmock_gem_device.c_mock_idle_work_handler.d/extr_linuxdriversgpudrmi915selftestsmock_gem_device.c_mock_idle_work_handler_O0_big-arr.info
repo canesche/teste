@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmi915selftestsmock_gem_device.c_mock_idle_work_handler.d/extr_linuxdriversgpudrmi915selftestsmock_gem_device.c_mock_idle_work_handler_O0::mock_idle_work_handler(61)"
+  }
+]

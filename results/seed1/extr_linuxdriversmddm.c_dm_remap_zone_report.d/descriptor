@@ -1,0 +1,3 @@
+struct dm_target | dummy int 
+struct bio | bi_status int 
+function dm_remap_zone_report void | ti struct dm_target * | bio struct bio * | start int

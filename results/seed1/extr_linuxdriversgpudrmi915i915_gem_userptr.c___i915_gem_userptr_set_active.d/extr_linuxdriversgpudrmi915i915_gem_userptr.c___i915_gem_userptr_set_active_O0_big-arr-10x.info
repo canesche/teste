@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmi915i915_gem_userptr.c___i915_gem_userptr_set_active.d/extr_linuxdriversgpudrmi915i915_gem_userptr.c___i915_gem_userptr_set_active_O0::__i915_gem_userptr_set_active(63)"
+  }
+]

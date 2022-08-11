@@ -1,0 +1,2 @@
+struct audit_buffer | dummy int 
+function netlbl_af4list_audit_addr void | audit_buf struct audit_buffer * | src int | dev const char * | addr int | mask int

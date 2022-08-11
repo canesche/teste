@@ -1,0 +1,3 @@
+struct request_sock | secid int 
+struct flowi | flowi_secid int 
+function selinux_req_classify_flow void | req const struct request_sock * | fl struct flowi *

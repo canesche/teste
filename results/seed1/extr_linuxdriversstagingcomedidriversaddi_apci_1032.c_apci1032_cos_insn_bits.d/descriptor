@@ -1,0 +1,4 @@
+struct comedi_subdevice | state unsigned int 
+struct comedi_insn | dummy int 
+struct comedi_device | dummy int 
+function apci1032_cos_insn_bits int | dev struct comedi_device * | s struct comedi_subdevice * | insn struct comedi_insn * | data unsigned int *

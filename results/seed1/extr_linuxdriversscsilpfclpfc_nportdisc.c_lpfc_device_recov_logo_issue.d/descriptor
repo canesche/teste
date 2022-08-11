@@ -1,0 +1,3 @@
+struct lpfc_vport | dummy int 
+struct lpfc_nodelist | nlp_state int 
+function lpfc_device_recov_logo_issue int | vport struct lpfc_vport * | ndlp struct lpfc_nodelist * | arg void * | evt int

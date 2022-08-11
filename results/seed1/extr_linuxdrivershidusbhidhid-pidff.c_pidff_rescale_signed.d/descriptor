@@ -1,0 +1,2 @@
+struct hid_field | logical_maximum int | logical_minimum int 
+function pidff_rescale_signed int | i int | field struct hid_field *

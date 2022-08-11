@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function schedstat_stop void | file struct seq_file * | data void *

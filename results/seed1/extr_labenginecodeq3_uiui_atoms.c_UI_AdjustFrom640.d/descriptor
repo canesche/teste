@@ -1,0 +1,2 @@
+struct TYPE_2__ | xscale float | bias float | yscale float 
+function UI_AdjustFrom640 void | x float * | y float * | w float * | h float *

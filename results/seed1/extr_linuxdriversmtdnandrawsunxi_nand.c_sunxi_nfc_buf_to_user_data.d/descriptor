@@ -1,0 +1,1 @@
+function sunxi_nfc_buf_to_user_data const int | buf const int *

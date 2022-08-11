@@ -1,0 +1,6 @@
+struct snd_kcontrol | dummy int 
+struct TYPE_4__ | d int * 
+struct TYPE_5__ | max long | min int 
+struct TYPE_6__ | integer struct TYPE_5__ 
+struct snd_ctl_elem_info | count int | dimen struct TYPE_4__ | value struct TYPE_6__ | type int 
+function snd_echo_vumeters_info int | kcontrol struct snd_kcontrol * | uinfo struct snd_ctl_elem_info *

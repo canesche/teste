@@ -1,0 +1,2 @@
+struct sis_video_info | chip int | LFBsize long | UMAsize long | video_size long 
+function sisfb_get_dram_size int | ivideo struct sis_video_info *

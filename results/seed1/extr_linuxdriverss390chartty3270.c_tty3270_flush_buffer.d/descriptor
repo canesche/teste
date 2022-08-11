@@ -1,0 +1,2 @@
+struct tty_struct | dummy int 
+function tty3270_flush_buffer void | tty struct tty_struct *

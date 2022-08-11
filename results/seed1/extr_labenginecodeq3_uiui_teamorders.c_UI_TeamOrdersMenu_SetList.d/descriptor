@@ -1,0 +1,4 @@
+struct TYPE_4__ | id int | top long | bottom long 
+struct TYPE_5__ | numitems int | itemnames const char ** | generic struct TYPE_4__ 
+struct TYPE_6__ | numBots int | list struct TYPE_5__ | bots long 
+function UI_TeamOrdersMenu_SetList void | id int

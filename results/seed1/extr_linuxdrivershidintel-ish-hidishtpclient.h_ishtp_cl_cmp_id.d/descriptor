@@ -1,0 +1,2 @@
+struct ishtp_cl | host_client_id long | fw_client_id long 
+function ishtp_cl_cmp_id int | cl1 const struct ishtp_cl * | cl2 const struct ishtp_cl *

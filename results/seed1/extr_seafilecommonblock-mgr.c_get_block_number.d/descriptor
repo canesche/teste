@@ -1,0 +1,1 @@
+function get_block_number int | store_id const char * | version int | block_id const char * | data void *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | str int * | len void * | start void * 
+function reader_init_strvalue void | start void * | len void * | v struct TYPE_3__ *

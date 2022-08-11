@@ -1,0 +1,6 @@
+struct TYPE_7__ | funcs int * | num_types int 
+struct TYPE_8__ | num_crtc long | num_hpd int 
+struct TYPE_6__ | num_types long | funcs int * 
+struct TYPE_5__ | num_types long | funcs int * 
+struct amdgpu_device | hpd_irq struct TYPE_7__ | mode_info struct TYPE_8__ | pageflip_irq struct TYPE_6__ | crtc_irq struct TYPE_5__ 
+function dce_v10_0_set_irq_funcs void | adev struct amdgpu_device *

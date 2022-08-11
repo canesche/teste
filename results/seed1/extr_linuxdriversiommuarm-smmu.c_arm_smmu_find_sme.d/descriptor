@@ -1,0 +1,3 @@
+struct arm_smmu_smr | mask int | id int | valid int 
+struct arm_smmu_device | num_mapping_groups int | smrs struct arm_smmu_smr * 
+function arm_smmu_find_sme int | smmu struct arm_smmu_device * | id int | mask int

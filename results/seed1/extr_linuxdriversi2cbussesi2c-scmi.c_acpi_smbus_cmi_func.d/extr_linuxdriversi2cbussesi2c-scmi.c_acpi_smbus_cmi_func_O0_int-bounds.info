@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversi2cbussesi2c-scmi.c_acpi_smbus_cmi_func.d/extr_linuxdriversi2cbussesi2c-scmi.c_acpi_smbus_cmi_func_O0::acpi_smbus_cmi_func(72)"
+  }
+]

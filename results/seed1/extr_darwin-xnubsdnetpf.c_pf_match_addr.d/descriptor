@@ -1,0 +1,2 @@
+struct pf_addr | dummy int 
+function pf_match_addr int | n long | a struct pf_addr * | m struct pf_addr * | b struct pf_addr * | af int

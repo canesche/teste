@@ -1,0 +1,4 @@
+struct TYPE_3__ | atxcsl int 
+struct TYPE_4__ | bf struct TYPE_3__ 
+struct dao_ctrl_blk | atxcsl unsigned int | dirty struct TYPE_4__ 
+function dao_set_spos int | blk void * | spos unsigned int

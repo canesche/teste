@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_darwin-xnuosfmkvmvm_pageout.c_upl_set_iodone_error.d/extr_darwin-xnuosfmkvmvm_pageout.c_upl_set_iodone_error_O0::upl_set_iodone_error(64)"
+  }
+]

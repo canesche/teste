@@ -1,0 +1,3 @@
+struct TYPE_3__ | tag char 
+struct TYPE_4__ | node struct TYPE_3__ 
+function item_set_tag void | tag char

@@ -1,0 +1,2 @@
+struct TYPE_3__ | request_type int 
+function XMLRPC_RequestSetRequestType int | request struct TYPE_3__ * | type int

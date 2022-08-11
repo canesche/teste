@@ -1,0 +1,3 @@
+struct itco_wdt_platform_data | no_reboot_priv struct iTCO_wdt_private * | update_no_reboot_bit long 
+struct iTCO_wdt_private | iTCO_version int | no_reboot_priv struct iTCO_wdt_private * | update_no_reboot_bit long 
+function iTCO_wdt_no_reboot_bit_setup void | p struct iTCO_wdt_private * | pdata struct itco_wdt_platform_data *

@@ -1,0 +1,1 @@
+value(vfid) == 10, value(vxlan_port) == 10, value(geneve_port) == 10, length(p_hwfn) == 100

@@ -1,0 +1,2 @@
+struct trace_array | trace_flags_index int * 
+function init_trace_flags_index void | tr struct trace_array *

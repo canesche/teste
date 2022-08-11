@@ -1,0 +1,2 @@
+struct go7007 | sensor_framerate unsigned int | fps_scale unsigned int 
+function vti_bitlen int | go struct go7007 *

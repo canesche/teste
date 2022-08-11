@@ -1,0 +1,4 @@
+struct TYPE_3__ | node_id long | server_id long 
+struct cache_packed_local_copy_location | p struct TYPE_3__ | i int 
+struct TYPE_4__ | id int 
+function cmp_stat_server_id int | x const void * | y const void *

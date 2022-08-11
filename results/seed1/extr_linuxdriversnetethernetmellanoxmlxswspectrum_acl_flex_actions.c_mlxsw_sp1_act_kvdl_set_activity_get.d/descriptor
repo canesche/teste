@@ -1,0 +1,1 @@
+function mlxsw_sp1_act_kvdl_set_activity_get int | priv void * | kvdl_index int | activity int *

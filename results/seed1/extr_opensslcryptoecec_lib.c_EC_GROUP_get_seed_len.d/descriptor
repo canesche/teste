@@ -1,0 +1,2 @@
+struct TYPE_3__ | seed_len unsigned long 
+function EC_GROUP_get_seed_len unsigned long | group const struct TYPE_3__ *

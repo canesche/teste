@@ -1,0 +1,1 @@
+function convert_md5_to_hex void | output char * | hash unsigned char *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmamddisplaydcdce110dce110_resource.c_is_surface_pixel_format_supported.d/extr_linuxdriversgpudrmamddisplaydcdce110dce110_resource.c_is_surface_pixel_format_supported_O0::is_surface_pixel_format_supported(64)"
+  }
+]

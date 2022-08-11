@@ -1,0 +1,3 @@
+struct usb_ftdi | command_head int | command struct u132_command * 
+struct u132_command | follows long 
+function ftdi_elan_total_command_size int | ftdi struct usb_ftdi * | command_size int

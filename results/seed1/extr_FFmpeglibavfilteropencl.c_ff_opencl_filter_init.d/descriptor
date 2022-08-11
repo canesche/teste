@@ -1,0 +1,3 @@
+struct TYPE_5__ | priv struct TYPE_4__ * 
+struct TYPE_4__ | output_format int 
+function ff_opencl_filter_init int | avctx struct TYPE_5__ *

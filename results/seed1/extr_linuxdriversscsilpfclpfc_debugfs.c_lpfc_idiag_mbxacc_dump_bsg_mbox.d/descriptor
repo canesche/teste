@@ -1,0 +1,3 @@
+struct lpfc_hba | dummy int 
+struct lpfc_dmabuf | dummy int 
+function lpfc_idiag_mbxacc_dump_bsg_mbox void | phba struct lpfc_hba * | nemb_tp enum nemb_type | mbox_tp enum mbox_type | dma_tp enum dma_type | sta_tp enum sta_type | dmabuf struct lpfc_dmabuf * | ext_buf int

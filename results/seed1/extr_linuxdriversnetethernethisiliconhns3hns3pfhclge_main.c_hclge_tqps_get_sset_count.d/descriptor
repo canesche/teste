@@ -1,0 +1,3 @@
+struct hnae3_knic_private_info | num_tqps int 
+struct hnae3_handle | kinfo struct hnae3_knic_private_info 
+function hclge_tqps_get_sset_count int | handle struct hnae3_handle * | stringset int

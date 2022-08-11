@@ -1,0 +1,1 @@
+function ge25519_is_canonical int | s const unsigned char *

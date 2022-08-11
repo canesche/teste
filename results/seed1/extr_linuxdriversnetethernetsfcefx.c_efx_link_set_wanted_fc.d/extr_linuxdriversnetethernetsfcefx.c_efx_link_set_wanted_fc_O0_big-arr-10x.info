@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetsfcefx.c_efx_link_set_wanted_fc.d/extr_linuxdriversnetethernetsfcefx.c_efx_link_set_wanted_fc_O0::efx_link_set_wanted_fc(66)"
+  }
+]

@@ -1,0 +1,3 @@
+struct TYPE_5__ | operands int * | instruction struct TYPE_4__ * 
+struct TYPE_4__ | numOperands int | operandTypes int * 
+function disassembleOperands int | dInstruction struct TYPE_5__ *

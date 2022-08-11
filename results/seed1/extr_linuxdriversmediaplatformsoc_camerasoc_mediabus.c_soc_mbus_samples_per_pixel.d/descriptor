@@ -1,0 +1,2 @@
+struct soc_mbus_pixelfmt | packing int 
+function soc_mbus_samples_per_pixel int | mf const struct soc_mbus_pixelfmt * | numerator unsigned int * | denominator unsigned int *

@@ -1,0 +1,2 @@
+struct atk_data | dummy int 
+function atk_debugfs_init void | data struct atk_data *

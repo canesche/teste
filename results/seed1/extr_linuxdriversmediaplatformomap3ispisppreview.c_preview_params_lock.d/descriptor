@@ -1,0 +1,4 @@
+struct TYPE_4__ | active int | params struct TYPE_3__ * 
+struct isp_prev_device | params struct TYPE_4__ 
+struct TYPE_3__ | busy int | update int 
+function preview_params_lock int | prev struct isp_prev_device * | update int | shadow int

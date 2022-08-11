@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetwirelessbroadcombrcm80211brcmsmacmain.c_brcms_b_xmtfifo_sz_get.d/extr_linuxdriversnetwirelessbroadcombrcm80211brcmsmacmain.c_brcms_b_xmtfifo_sz_get_O0::brcms_b_xmtfifo_sz_get(65)"
+  }
+]

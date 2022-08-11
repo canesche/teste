@@ -1,0 +1,3 @@
+struct nstat_tucookie | inp struct inpcb * 
+struct inpcb | inp_state long 
+function nstat_udp_gone int | cookie long

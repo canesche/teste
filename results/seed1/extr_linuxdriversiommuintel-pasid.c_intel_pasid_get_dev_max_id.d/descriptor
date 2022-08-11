@@ -1,0 +1,5 @@
+struct device_domain_info | pasid_table struct TYPE_4__ * 
+struct TYPE_3__ | iommu struct device_domain_info * 
+struct device | archdata struct TYPE_3__ 
+struct TYPE_4__ | max_pasid int 
+function intel_pasid_get_dev_max_id int | dev struct device *

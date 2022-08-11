@@ -1,0 +1,3 @@
+struct TYPE_4__ | y long | x long 
+struct TYPE_3__ | data long 
+function first_x_cmp int | _a const void * | _b const void *

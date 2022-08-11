@@ -1,0 +1,4 @@
+struct vb_device_info | LCDResInfo unsigned short | LCDTypeInfo unsigned short | LCDInfo int 
+struct XGI330_LCDDataTablStruct | PANELID int | MASK unsigned short | CAP unsigned short | DATAPTR const void * 
+struct TYPE_2__ | Ext_ModeFlag unsigned short 
+function XGI_GetLcdPtr const void * | table const struct XGI330_LCDDataTablStruct * | ModeIdIndex unsigned short | pVBInfo struct vb_device_info *

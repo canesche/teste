@@ -1,0 +1,4 @@
+struct TYPE_3__ | funcs int * 
+struct TYPE_4__ | rlc struct TYPE_3__ 
+struct amdgpu_device | asic_type int | gfx struct TYPE_4__ 
+function gfx_v9_0_set_rlc_funcs void | adev struct amdgpu_device *

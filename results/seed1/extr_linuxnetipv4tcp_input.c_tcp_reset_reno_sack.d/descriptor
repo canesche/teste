@@ -1,0 +1,2 @@
+struct tcp_sock | sacked_out long 
+function tcp_reset_reno_sack void | tp struct tcp_sock *

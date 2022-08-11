@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxsoundfirewirefirefaceff-stream.c_get_rate_mode.d/extr_linuxsoundfirewirefirefaceff-stream.c_get_rate_mode_O0::get_rate_mode(63)"
+  }
+]

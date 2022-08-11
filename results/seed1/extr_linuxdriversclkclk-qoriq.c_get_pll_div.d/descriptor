@@ -1,0 +1,7 @@
+struct mux_hwclock | info struct TYPE_5__ * 
+struct clockgen_pll_div | dummy int 
+struct clockgen | pll struct TYPE_4__ * 
+struct TYPE_6__ | flags int | pll int | div int 
+struct TYPE_5__ | clksel struct TYPE_6__ * 
+struct TYPE_4__ | div const struct clockgen_pll_div * 
+function get_pll_div const struct clockgen_pll_div * | cg struct clockgen * | hwc struct mux_hwclock * | idx int

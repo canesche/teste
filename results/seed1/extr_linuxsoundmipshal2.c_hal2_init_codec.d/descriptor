@@ -1,0 +1,4 @@
+struct hpc3_regs | pbdma int * 
+struct TYPE_2__ | pbusnr int | pbus int * 
+struct hal2_codec | pbus struct TYPE_2__ 
+function hal2_init_codec void | codec struct hal2_codec * | hpc3 struct hpc3_regs * | index int

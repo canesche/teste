@@ -1,0 +1,5 @@
+struct wq_prepost | dummy int 
+struct waitq_set | dummy int 
+struct waitq | dummy int 
+struct _is_posted_ctx | did_prepost int | posting_wq struct waitq * 
+function wq_is_preposted_on_set_cb int | wqset struct waitq_set * | ctx void * | wqp struct wq_prepost * | waitq struct waitq *

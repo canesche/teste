@@ -1,0 +1,2 @@
+struct pci_bus | parent struct pci_bus * 
+function find_pci_root_bus struct pci_bus * | bus struct pci_bus *

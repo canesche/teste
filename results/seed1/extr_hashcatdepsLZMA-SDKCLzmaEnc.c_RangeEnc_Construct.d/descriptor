@@ -1,0 +1,2 @@
+struct TYPE_3__ | bufBase int * | outStream int * 
+function RangeEnc_Construct void | p struct TYPE_3__ *

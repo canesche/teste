@@ -1,0 +1,2 @@
+struct eeh_pe | dummy int 
+function eeh_pe_configure int | pe struct eeh_pe *

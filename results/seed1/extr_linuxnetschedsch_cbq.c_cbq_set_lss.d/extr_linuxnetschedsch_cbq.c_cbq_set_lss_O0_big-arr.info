@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxnetschedsch_cbq.c_cbq_set_lss.d/extr_linuxnetschedsch_cbq.c_cbq_set_lss_O0::cbq_set_lss(70)"
+  }
+]

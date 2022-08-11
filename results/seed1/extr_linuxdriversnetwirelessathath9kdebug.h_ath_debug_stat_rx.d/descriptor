@@ -1,0 +1,3 @@
+struct ath_softc | dummy int 
+struct ath_rx_status | dummy int 
+function ath_debug_stat_rx void | sc struct ath_softc * | rs struct ath_rx_status *

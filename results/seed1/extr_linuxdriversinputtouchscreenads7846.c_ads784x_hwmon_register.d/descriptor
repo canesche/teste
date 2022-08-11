@@ -1,0 +1,3 @@
+struct spi_device | dummy int 
+struct ads7846 | dummy int 
+function ads784x_hwmon_register int | spi struct spi_device * | ts struct ads7846 *

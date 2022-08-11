@@ -1,0 +1,2 @@
+struct altera_tse_private | dummy int 
+function msgdma_uninitialize void | priv struct altera_tse_private *

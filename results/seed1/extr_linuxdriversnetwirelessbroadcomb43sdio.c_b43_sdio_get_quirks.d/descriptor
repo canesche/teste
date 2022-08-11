@@ -1,0 +1,2 @@
+struct b43_sdio_quirk | quirks unsigned int | vendor long | device long 
+function b43_sdio_get_quirks unsigned int | vendor long | device long

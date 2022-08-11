@@ -1,0 +1,4 @@
+struct TYPE_4__ | num unsigned long | array struct TYPE_3__ * 
+struct error_data | errors struct TYPE_4__ 
+struct TYPE_3__ | level long 
+function error_data_has_errors int | ed struct error_data *

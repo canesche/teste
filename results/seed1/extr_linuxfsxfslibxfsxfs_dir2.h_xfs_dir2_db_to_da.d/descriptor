@@ -1,0 +1,2 @@
+struct xfs_da_geometry | blklog int | fsblog int 
+function xfs_dir2_db_to_da int | geo struct xfs_da_geometry * | db int

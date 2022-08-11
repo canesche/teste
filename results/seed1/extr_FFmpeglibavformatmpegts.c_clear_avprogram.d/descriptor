@@ -1,0 +1,4 @@
+struct TYPE_7__ | id unsigned int | nb_stream_indexes long 
+struct TYPE_6__ | stream struct TYPE_5__ * 
+struct TYPE_5__ | nb_programs int | programs struct TYPE_7__ ** 
+function clear_avprogram void | ts struct TYPE_6__ * | programid unsigned int

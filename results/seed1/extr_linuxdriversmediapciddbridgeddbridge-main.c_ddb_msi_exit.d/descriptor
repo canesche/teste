@@ -1,0 +1,2 @@
+struct ddb | dummy int 
+function ddb_msi_exit void | dev struct ddb *

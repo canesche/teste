@@ -1,0 +1,2 @@
+struct pci_dev | device long | revision int | no_msi int | is_hotplug_bridge long 
+function quirk_thunderbolt_hotplug_msi void | pdev struct pci_dev *

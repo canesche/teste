@@ -1,0 +1,2 @@
+struct connection | dummy int 
+function mcs_get_start int | c struct connection *

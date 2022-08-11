@@ -1,0 +1,2 @@
+struct snd_ice1712 | dummy int 
+function juli_set_mclk unsigned char | ice struct snd_ice1712 * | rate unsigned int

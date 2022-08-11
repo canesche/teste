@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversclkclk-axi-clkgen.c_axi_clkgen_calc_clk_params.d/extr_linuxdriversclkclk-axi-clkgen.c_axi_clkgen_calc_clk_params_O0::axi_clkgen_calc_clk_params(61)"
+  }
+]

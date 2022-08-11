@@ -1,0 +1,4 @@
+struct TYPE_4__ | left unsigned int | width unsigned int | top unsigned int | height unsigned int 
+struct TYPE_3__ | width unsigned int | left unsigned int | height unsigned int | top unsigned int 
+struct tpg_data | src_width unsigned int | src_height unsigned int | vid_aspect int | pix_aspect long | border struct TYPE_4__ | square struct TYPE_3__ 
+function tpg_calculate_square_border void | tpg struct tpg_data *

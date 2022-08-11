@@ -1,0 +1,2 @@
+struct mmc_request | tag int | cmd long 
+function cqhci_tag int | mrq struct mmc_request *

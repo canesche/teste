@@ -1,0 +1,4 @@
+struct tp_finger | dummy int 
+struct bcm5974_config | tp_header int | tp_delta int | tp_fsize int 
+struct bcm5974 | tp_data int * | cfg struct bcm5974_config 
+function get_tp_finger const struct tp_finger * | dev const struct bcm5974 * | i int

@@ -1,0 +1,3 @@
+struct ref_store | be const struct ref_storage_be * 
+struct ref_storage_be | dummy int 
+function base_ref_store_init void | refs struct ref_store * | be const struct ref_storage_be *

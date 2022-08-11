@@ -1,0 +1,2 @@
+struct TYPE_2__ | handles_size unsigned long | handles long * 
+function MFDRV_FindObject unsigned long | dev long | obj long

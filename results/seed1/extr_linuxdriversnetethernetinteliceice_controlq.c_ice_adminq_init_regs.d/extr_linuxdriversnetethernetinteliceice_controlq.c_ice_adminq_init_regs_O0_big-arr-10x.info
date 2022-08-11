@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 55,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 55,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetinteliceice_controlq.c_ice_adminq_init_regs.d/extr_linuxdriversnetethernetinteliceice_controlq.c_ice_adminq_init_regs_O0::ice_adminq_init_regs(82)"
+  }
+]

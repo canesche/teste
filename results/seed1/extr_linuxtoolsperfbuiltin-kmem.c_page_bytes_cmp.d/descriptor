@@ -1,0 +1,2 @@
+struct page_stat | alloc_bytes long 
+function page_bytes_cmp int | a void * | b void *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetwirelessinteliwlwifimvmmvm.h_iwl_mvm_vif_from_mac80211.d/extr_linuxdriversnetwirelessinteliwlwifimvmmvm.h_iwl_mvm_vif_from_mac80211_O0::iwl_mvm_vif_from_mac80211(63)"
+  }
+]

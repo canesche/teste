@@ -1,0 +1,2 @@
+struct cdrom_device_info | mmc3_profile int 
+function cdrom_is_dvd_rw int | cdi struct cdrom_device_info *

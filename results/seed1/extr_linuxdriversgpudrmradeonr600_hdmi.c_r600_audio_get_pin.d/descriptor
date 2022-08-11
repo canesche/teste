@@ -1,0 +1,4 @@
+struct TYPE_2__ | pin struct r600_audio_pin * 
+struct radeon_device | audio struct TYPE_2__ 
+struct r600_audio_pin | dummy int 
+function r600_audio_get_pin struct r600_audio_pin * | rdev struct radeon_device *

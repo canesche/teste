@@ -1,0 +1,2 @@
+struct TYPE_2__ | prev struct TYPE_2__ * | next struct TYPE_2__ * 
+function lwListAdd void | list void ** | node void *

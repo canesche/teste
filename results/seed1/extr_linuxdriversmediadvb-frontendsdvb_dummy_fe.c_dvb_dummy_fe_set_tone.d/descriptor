@@ -1,0 +1,2 @@
+struct dvb_frontend | dummy int 
+function dvb_dummy_fe_set_tone int | fe struct dvb_frontend * | tone enum fe_sec_tone_mode

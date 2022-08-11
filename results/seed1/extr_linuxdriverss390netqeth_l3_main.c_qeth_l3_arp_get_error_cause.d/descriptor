@@ -1,0 +1,1 @@
+function qeth_l3_arp_get_error_cause const char * | rc int *

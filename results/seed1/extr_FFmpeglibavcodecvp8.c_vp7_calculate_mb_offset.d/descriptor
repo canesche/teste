@@ -1,0 +1,1 @@
+function vp7_calculate_mb_offset int | mb_x int | mb_y int | mb_width int | xoffset int | yoffset int | boundary int | edge_x int * | edge_y int *

@@ -1,0 +1,2 @@
+struct Decorr | value int | samplesA int * | samplesB int * 
+function reverse_decorr void | dpp struct Decorr *

@@ -1,0 +1,1 @@
+function u300_restart void | mode enum reboot_mode | cmd const char *

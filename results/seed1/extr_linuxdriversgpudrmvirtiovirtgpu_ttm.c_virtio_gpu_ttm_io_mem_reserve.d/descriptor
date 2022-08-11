@@ -1,0 +1,5 @@
+struct ttm_mem_type_manager | flags int 
+struct TYPE_2__ | size int | is_iomem int | base long | offset long | addr int * 
+struct ttm_mem_reg | mem_type unsigned long | num_pages int | bus struct TYPE_2__ 
+struct ttm_bo_device | man struct ttm_mem_type_manager * 
+function virtio_gpu_ttm_io_mem_reserve int | bdev struct ttm_bo_device * | mem struct ttm_mem_reg *

@@ -1,0 +1,2 @@
+struct drm_display_mode | vdisplay int | hdisplay int 
+function amdgpu_display_is_hdtv_mode int | mode const struct drm_display_mode *

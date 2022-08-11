@@ -1,0 +1,1 @@
+function snd_sf_linear_to_log int | amount unsigned int | offset int | ratio int

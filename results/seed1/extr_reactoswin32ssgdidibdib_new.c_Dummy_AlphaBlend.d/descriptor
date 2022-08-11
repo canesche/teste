@@ -1,0 +1,1 @@
+function Dummy_AlphaBlend int | Dest int * | Source int * | DestRect int * | SourceRect int * | ClipRegion int * | ColorTranslation int * | BlendObj int *

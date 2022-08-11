@@ -1,0 +1,1 @@
+function inner_match unsigned long | px const unsigned char * | length unsigned long | char_to_symbol const unsigned char * | table const unsigned int * | state unsigned int * | match_limit unsigned int | row_shift unsigned int

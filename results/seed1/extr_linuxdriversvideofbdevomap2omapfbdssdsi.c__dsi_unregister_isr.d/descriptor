@@ -1,0 +1,2 @@
+struct dsi_isr_data | arg void * | mask long | isr int * 
+function _dsi_unregister_isr int | isr int * | arg void * | mask long | isr_array struct dsi_isr_data * | isr_array_size unsigned int

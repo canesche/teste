@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxnetsctpoutqueue.c_sctp_cacc_skip_3_1_d.d/extr_linuxnetsctpoutqueue.c_sctp_cacc_skip_3_1_d_O0::sctp_cacc_skip_3_1_d(63)"
+  }
+]

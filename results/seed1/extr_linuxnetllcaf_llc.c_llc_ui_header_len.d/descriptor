@@ -1,0 +1,3 @@
+struct sockaddr_llc | sllc_xid long | sllc_test long 
+struct sock | sk_type long 
+function llc_ui_header_len int | sk struct sock * | addr struct sockaddr_llc *

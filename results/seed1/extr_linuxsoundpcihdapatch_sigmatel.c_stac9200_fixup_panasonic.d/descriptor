@@ -1,0 +1,5 @@
+struct TYPE_2__ | suppress_auto_mute int 
+struct sigmatel_spec | gpio_mask int | gpio_dir int | gpio_data int | gen struct TYPE_2__ 
+struct hda_fixup | dummy int 
+struct hda_codec | spec struct sigmatel_spec * 
+function stac9200_fixup_panasonic void | codec struct hda_codec * | fix const struct hda_fixup * | action int

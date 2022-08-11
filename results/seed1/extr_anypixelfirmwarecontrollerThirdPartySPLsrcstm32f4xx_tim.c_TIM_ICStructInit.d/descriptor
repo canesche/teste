@@ -1,0 +1,2 @@
+struct TYPE_3__ | TIM_ICFilter int | TIM_ICPrescaler int | TIM_ICSelection int | TIM_ICPolarity int | TIM_Channel int 
+function TIM_ICStructInit void | TIM_ICInitStruct struct TYPE_3__ *

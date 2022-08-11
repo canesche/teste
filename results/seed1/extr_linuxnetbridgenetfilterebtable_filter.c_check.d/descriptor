@@ -1,0 +1,2 @@
+struct ebt_table_info | dummy int 
+function check int | info const struct ebt_table_info * | valid_hooks unsigned int

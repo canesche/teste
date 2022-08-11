@@ -1,0 +1,3 @@
+struct TYPE_4__ | lpVtbl int * 
+struct TYPE_5__ | forward_container int * | outer int * | cps int * | cp_entries const int * | IConnectionPointContainer_iface struct TYPE_4__ 
+function ConnectionPointContainer_Init void | This struct TYPE_5__ * | outer int * | cp_entries const int *

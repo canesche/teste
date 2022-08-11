@@ -1,0 +1,2 @@
+struct TYPE_3__ | options int 
+function thread_enable_send_importance void | thread struct TYPE_3__ * | enable long

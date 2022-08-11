@@ -1,0 +1,6 @@
+struct TYPE_8__ | length int | offset int | msb_right long 
+struct TYPE_7__ | offset int | length int | msb_right long 
+struct TYPE_6__ | offset int | length int | msb_right long 
+struct TYPE_5__ | msb_right long | length long | offset long 
+struct fb_var_screeninfo | bits_per_pixel int | blue struct TYPE_8__ | green struct TYPE_7__ | red struct TYPE_6__ | nonstd long | transp struct TYPE_5__ | grayscale long 
+function viafb_fill_var_color_info void | var struct fb_var_screeninfo * | depth int

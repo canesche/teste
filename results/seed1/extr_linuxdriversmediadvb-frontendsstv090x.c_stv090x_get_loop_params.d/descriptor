@@ -1,0 +1,3 @@
+struct stv090x_state | srate int | search_range int | search_mode int | internal struct TYPE_2__ * 
+struct TYPE_2__ | mclk int 
+function stv090x_get_loop_params int | state struct stv090x_state * | freq_inc int * | timeout_sw int * | steps int *

@@ -1,0 +1,2 @@
+struct vnop_offtoblk_args | a_lblkno long * 
+function nop_offtoblk int | ap struct vnop_offtoblk_args *

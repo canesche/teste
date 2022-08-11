@@ -1,0 +1,2 @@
+struct ipv6 | data long * 
+function greater_ip int | a struct ipv6 | b struct ipv6

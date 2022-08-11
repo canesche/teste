@@ -1,0 +1,2 @@
+struct TYPE_3__ | Key char | Up int 
+function handlerKeyEvent int | ah int * | a int * | e struct TYPE_3__ *

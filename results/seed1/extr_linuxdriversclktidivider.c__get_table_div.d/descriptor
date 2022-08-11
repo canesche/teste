@@ -1,0 +1,2 @@
+struct clk_div_table | div unsigned int | val unsigned int 
+function _get_table_div unsigned int | table const struct clk_div_table * | val unsigned int

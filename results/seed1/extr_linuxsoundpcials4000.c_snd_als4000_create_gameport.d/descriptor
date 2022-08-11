@@ -1,0 +1,2 @@
+struct snd_card_als4000 | dummy int 
+function snd_als4000_create_gameport int | acard struct snd_card_als4000 * | dev int

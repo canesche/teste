@@ -1,0 +1,5 @@
+struct wlr_xdg_toplevel_v6_state | min_width long | min_height long | max_width long | max_height long 
+struct wlr_xdg_toplevel_v6 | parent long | current struct wlr_xdg_toplevel_v6_state 
+struct sway_view | wlr_xdg_surface_v6 struct TYPE_2__ * 
+struct TYPE_2__ | toplevel struct wlr_xdg_toplevel_v6 * 
+function wants_floating int | view struct sway_view *

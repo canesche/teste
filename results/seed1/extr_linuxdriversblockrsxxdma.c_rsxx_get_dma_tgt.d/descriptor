@@ -1,0 +1,3 @@
+struct TYPE_2__ | target_shift unsigned int | target_mask unsigned int 
+struct rsxx_cardinfo | _stripe struct TYPE_2__ 
+function rsxx_get_dma_tgt unsigned int | card struct rsxx_cardinfo * | addr8 unsigned int

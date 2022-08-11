@@ -1,0 +1,2 @@
+struct TYPE_3__ | base char * | len int 
+function alloc_cb void | handle int * | size unsigned long | buf struct TYPE_3__ *

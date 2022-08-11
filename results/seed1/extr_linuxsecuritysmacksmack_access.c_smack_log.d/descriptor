@@ -1,0 +1,2 @@
+struct smk_audit_info | dummy int 
+function smack_log void | subject_label char * | object_label char * | request int | result int | ad struct smk_audit_info *

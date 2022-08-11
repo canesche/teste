@@ -1,0 +1,3 @@
+struct TYPE_2__ | efd_nextents int 
+struct xfs_efd_log_item | efd_format struct TYPE_2__ 
+function xfs_efd_item_sizeof int | efdp struct xfs_efd_log_item *

@@ -1,0 +1,4 @@
+struct TYPE_7__ | connect_port_n long 
+struct TYPE_8__ | allow_ports struct TYPE_6__ * | allow_port_all long 
+struct TYPE_6__ | elts long ** | nelts unsigned long 
+function ngx_http_proxy_connect_allow_handler int | r struct TYPE_7__ * | plcf struct TYPE_8__ *

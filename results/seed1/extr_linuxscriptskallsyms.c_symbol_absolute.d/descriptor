@@ -1,0 +1,2 @@
+struct sym_entry | percpu_absolute int 
+function symbol_absolute int | s struct sym_entry *

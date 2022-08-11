@@ -1,0 +1,4 @@
+struct TYPE_4__ | length int 
+struct TYPE_5__ | upstream struct TYPE_4__ * 
+struct TYPE_6__ | end_stream long | request struct TYPE_5__ * 
+function ngx_http_grpc_filter_init int | data void *

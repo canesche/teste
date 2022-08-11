@@ -1,0 +1,4 @@
+struct TYPE_8__ | WorkQueueHead struct TYPE_7__ * 
+struct TYPE_6__ | Next long 
+struct TYPE_7__ | WorkItemType long | Link struct TYPE_6__ 
+function MiniGetFirstWorkItem struct TYPE_7__ * | Adapter struct TYPE_8__ * | Type long

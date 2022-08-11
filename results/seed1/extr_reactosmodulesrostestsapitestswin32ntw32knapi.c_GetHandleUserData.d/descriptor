@@ -1,0 +1,2 @@
+struct TYPE_3__ | UserData int * | FullUnique long | KernelData int * 
+function GetHandleUserData int * | hobj long

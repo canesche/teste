@@ -1,0 +1,4 @@
+struct TYPE_3__ | num_rxp int | fw_query_complete long 
+struct TYPE_4__ | attr struct TYPE_3__ 
+struct bna | ioceth struct TYPE_4__ 
+function bna_num_rxp_set int | bna struct bna * | num_rxp int

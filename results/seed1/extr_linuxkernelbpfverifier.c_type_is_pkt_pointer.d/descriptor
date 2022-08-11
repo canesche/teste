@@ -1,0 +1,1 @@
+function type_is_pkt_pointer int | type enum bpf_reg_type

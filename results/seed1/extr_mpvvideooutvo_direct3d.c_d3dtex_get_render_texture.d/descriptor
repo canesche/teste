@@ -1,0 +1,2 @@
+struct d3dtex | system long | device long 
+function d3dtex_get_render_texture int * | priv int * | tex struct d3dtex *

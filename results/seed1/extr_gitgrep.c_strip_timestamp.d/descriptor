@@ -1,0 +1,1 @@
+function strip_timestamp int | bol char * | eol_p char **
