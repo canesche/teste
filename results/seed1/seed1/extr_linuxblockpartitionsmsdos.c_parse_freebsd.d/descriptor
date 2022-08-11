@@ -1,0 +1,2 @@
+struct parsed_partitions | dummy int 
+function parse_freebsd void | state struct parsed_partitions * | offset int | size int | origin int

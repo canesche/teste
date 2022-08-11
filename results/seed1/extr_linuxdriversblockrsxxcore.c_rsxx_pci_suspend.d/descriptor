@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function rsxx_pci_suspend int | dev struct pci_dev * | state int

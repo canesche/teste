@@ -1,0 +1,2 @@
+struct TYPE_3__ | opcode int 
+function can_replace_op2 int | op_array const int * | opline struct TYPE_3__ * | ssa_op int *

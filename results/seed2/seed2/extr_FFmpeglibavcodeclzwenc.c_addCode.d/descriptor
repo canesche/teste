@@ -1,0 +1,3 @@
+struct TYPE_5__ | tabsize int | bits int | mode long | tab struct TYPE_4__ * 
+struct TYPE_4__ | code int | hash_prefix int | suffix int 
+function addCode void | s struct TYPE_5__ * | c int | hash_prefix int | hash_code int

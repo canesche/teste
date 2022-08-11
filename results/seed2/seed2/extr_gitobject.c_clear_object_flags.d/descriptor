@@ -1,0 +1,4 @@
+struct object | flags unsigned int 
+struct TYPE_4__ | parsed_objects struct TYPE_3__ * 
+struct TYPE_3__ | obj_hash_size int | obj_hash struct object ** 
+function clear_object_flags void | flags unsigned int

@@ -1,0 +1,3 @@
+struct adi_port | adi struct adi * 
+struct adi | ret int | data int * | idx long 
+function adi_move_bits void | port struct adi_port * | length int

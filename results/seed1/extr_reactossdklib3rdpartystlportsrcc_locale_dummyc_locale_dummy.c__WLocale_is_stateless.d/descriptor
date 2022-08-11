@@ -1,2 +1,0 @@
-struct _Locale_codecvt | dummy int 
-function _WLocale_is_stateless int | lcodecvt struct _Locale_codecvt *

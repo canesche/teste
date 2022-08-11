@@ -1,0 +1,2 @@
+struct vec2 | x float | y float 
+function vec2_minf void | dst struct vec2 * | v const struct vec2 * | val float

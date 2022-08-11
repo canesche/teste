@@ -1,0 +1,2 @@
+struct TYPE_2__ | mem char * | mempos long | memsize long 
+function BatchGetString int | lpBuffer char * | nBufferLength int

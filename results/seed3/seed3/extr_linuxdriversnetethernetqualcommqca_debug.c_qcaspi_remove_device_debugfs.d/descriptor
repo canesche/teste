@@ -1,0 +1,2 @@
+struct qcaspi | dummy int 
+function qcaspi_remove_device_debugfs void | qca struct qcaspi *

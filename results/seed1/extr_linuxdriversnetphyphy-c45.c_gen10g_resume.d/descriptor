@@ -1,2 +1,0 @@
-struct phy_device | dummy int 
-function gen10g_resume int | phydev struct phy_device *

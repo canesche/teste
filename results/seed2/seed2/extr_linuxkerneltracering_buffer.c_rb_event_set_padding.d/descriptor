@@ -1,0 +1,2 @@
+struct ring_buffer_event | time_delta long | type_len int 
+function rb_event_set_padding void | event struct ring_buffer_event *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | mask int | addr int 
+function is_valid_psw int | psw struct TYPE_3__ *

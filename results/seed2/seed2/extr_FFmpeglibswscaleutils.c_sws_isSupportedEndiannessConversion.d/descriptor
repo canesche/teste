@@ -1,0 +1,2 @@
+struct TYPE_2__ | is_supported_endianness int 
+function sws_isSupportedEndiannessConversion int | pix_fmt enum AVPixelFormat

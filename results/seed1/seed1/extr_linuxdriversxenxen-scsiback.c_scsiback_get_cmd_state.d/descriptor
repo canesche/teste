@@ -1,0 +1,2 @@
+struct se_cmd | dummy int 
+function scsiback_get_cmd_state int | se_cmd struct se_cmd *

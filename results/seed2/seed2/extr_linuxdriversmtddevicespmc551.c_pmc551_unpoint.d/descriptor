@@ -1,0 +1,2 @@
+struct mtd_info | dummy int 
+function pmc551_unpoint int | mtd struct mtd_info * | from int | len unsigned long

@@ -1,0 +1,12 @@
+struct videomode | flags int | vsync_len int | vback_porch int | vfront_porch int | vactive int | hsync_len int | hback_porch int | hfront_porch int | hactive int | pixelclock int 
+struct TYPE_18__ | typ int 
+struct TYPE_17__ | typ int 
+struct TYPE_16__ | typ int 
+struct TYPE_15__ | typ int 
+struct TYPE_14__ | typ int 
+struct TYPE_13__ | typ int 
+struct TYPE_12__ | typ int 
+struct TYPE_11__ | typ int 
+struct TYPE_10__ | typ int 
+struct display_timing | flags int | vsync_len struct TYPE_18__ | vback_porch struct TYPE_17__ | vfront_porch struct TYPE_16__ | vactive struct TYPE_15__ | hsync_len struct TYPE_14__ | hback_porch struct TYPE_13__ | hfront_porch struct TYPE_12__ | hactive struct TYPE_11__ | pixelclock struct TYPE_10__ 
+function videomode_from_timing void | dt const struct display_timing * | vm struct videomode *

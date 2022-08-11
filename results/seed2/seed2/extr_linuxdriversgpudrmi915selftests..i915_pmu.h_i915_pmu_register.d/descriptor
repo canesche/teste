@@ -1,0 +1,2 @@
+struct drm_i915_private | dummy int 
+function i915_pmu_register void | i915 struct drm_i915_private *

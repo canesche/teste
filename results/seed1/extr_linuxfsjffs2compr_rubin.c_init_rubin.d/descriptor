@@ -1,2 +1,0 @@
-struct rubin_state | p long | bit_number long | bit_divider int | bits int * | q long 
-function init_rubin void | rs struct rubin_state * | div int | bits int *

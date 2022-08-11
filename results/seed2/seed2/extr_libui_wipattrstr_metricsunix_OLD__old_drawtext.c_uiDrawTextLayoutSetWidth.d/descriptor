@@ -1,0 +1,2 @@
+struct TYPE_3__ | width double 
+function uiDrawTextLayoutSetWidth void | layout struct TYPE_3__ * | width double

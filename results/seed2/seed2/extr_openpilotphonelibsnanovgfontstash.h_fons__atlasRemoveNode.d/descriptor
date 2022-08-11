@@ -1,0 +1,2 @@
+struct TYPE_3__ | nnodes int | nodes int * 
+function fons__atlasRemoveNode void | atlas struct TYPE_3__ * | idx int

@@ -1,0 +1,3 @@
+struct connectdata | dummy int 
+struct SASL | state int 
+function state void | sasl struct SASL * | conn struct connectdata * | newstate int

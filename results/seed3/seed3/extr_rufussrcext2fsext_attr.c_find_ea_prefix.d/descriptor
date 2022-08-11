@@ -1,0 +1,2 @@
+struct ea_name_index | name const char * | index int 
+function find_ea_prefix const char * | index int

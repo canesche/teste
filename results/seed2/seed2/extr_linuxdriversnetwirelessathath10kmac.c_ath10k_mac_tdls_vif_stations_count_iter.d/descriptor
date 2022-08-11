@@ -1,0 +1,6 @@
+struct ieee80211_vif | dummy int 
+struct ieee80211_sta | tdls long | drv_priv long 
+struct ath10k_sta | arvif struct TYPE_2__ * 
+struct ath10k_mac_tdls_iter_data | num_tdls_stations int | curr_vif struct ieee80211_vif * 
+struct TYPE_2__ | vif struct ieee80211_vif * 
+function ath10k_mac_tdls_vif_stations_count_iter void | data void * | sta struct ieee80211_sta *

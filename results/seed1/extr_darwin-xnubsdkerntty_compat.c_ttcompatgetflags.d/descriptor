@@ -1,2 +1,0 @@
-struct tty | t_iflag int | t_lflag int | t_oflag int | t_cflag int 
-function ttcompatgetflags int | tp struct tty *

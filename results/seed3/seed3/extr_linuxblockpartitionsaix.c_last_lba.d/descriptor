@@ -1,0 +1,3 @@
+struct block_device | bd_inode struct TYPE_2__ * 
+struct TYPE_2__ | i_size int 
+function last_lba int | bdev struct block_device *

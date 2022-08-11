@@ -1,0 +1,4 @@
+struct list_head | next struct TYPE_4__ * | prev struct TYPE_3__ * 
+struct TYPE_4__ | prev struct list_head * 
+struct TYPE_3__ | next struct list_head * 
+function list_replace void | old struct list_head * | newp struct list_head *

@@ -1,0 +1,2 @@
+struct int_ch_state | level long | idx2 long | idx1 long | service_counter long | request_counter long 
+function state_init void | state struct int_ch_state *

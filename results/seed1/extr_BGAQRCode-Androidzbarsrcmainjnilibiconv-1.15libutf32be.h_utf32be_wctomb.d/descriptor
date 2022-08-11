@@ -1,1 +1,0 @@
-function utf32be_wctomb int | conv int | r unsigned char * | wc int | n unsigned long

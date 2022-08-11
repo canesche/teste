@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmi915intel_uc_fw.h_intel_uc_fw_type_repr.d/extr_linuxdriversgpudrmi915intel_uc_fw.h_intel_uc_fw_type_repr_O0::intel_uc_fw_type_repr(63)"
+  }
+]

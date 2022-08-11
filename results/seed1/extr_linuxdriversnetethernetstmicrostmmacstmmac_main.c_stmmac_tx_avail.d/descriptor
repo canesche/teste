@@ -1,3 +1,0 @@
-struct stmmac_tx_queue | dirty_tx long | cur_tx long 
-struct stmmac_priv | tx_queue struct stmmac_tx_queue * 
-function stmmac_tx_avail unsigned long | priv struct stmmac_priv * | queue unsigned long

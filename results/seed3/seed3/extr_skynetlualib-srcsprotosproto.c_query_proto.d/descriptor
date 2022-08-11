@@ -1,0 +1,3 @@
+struct sproto | protocol_n int | proto struct protocol * 
+struct protocol | tag int 
+function query_proto struct protocol * | sp const struct sproto * | tag int

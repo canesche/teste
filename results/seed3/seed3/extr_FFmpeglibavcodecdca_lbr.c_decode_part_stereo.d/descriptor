@@ -1,0 +1,2 @@
+struct TYPE_3__ | min_mono_subband int | nsubbands int | part_stereo unsigned long *** | time_samples float *** | ch_pres unsigned int * 
+function decode_part_stereo void | s struct TYPE_3__ * | ch1 int | ch2 int

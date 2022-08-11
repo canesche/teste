@@ -1,0 +1,2 @@
+struct bpf_lru_list | counts long * 
+function bpf_lru_list_inactive_low int | l const struct bpf_lru_list *

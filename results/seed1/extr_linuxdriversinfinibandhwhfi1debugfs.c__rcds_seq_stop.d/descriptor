@@ -1,2 +1,0 @@
-struct seq_file | dummy int 
-function _rcds_seq_stop void | s struct seq_file * | v void *

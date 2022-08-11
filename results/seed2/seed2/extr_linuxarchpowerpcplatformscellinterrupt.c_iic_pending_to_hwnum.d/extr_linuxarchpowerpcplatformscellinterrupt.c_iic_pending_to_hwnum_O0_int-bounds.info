@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxarchpowerpcplatformscellinterrupt.c_iic_pending_to_hwnum.d/extr_linuxarchpowerpcplatformscellinterrupt.c_iic_pending_to_hwnum_O0::iic_pending_to_hwnum(63)"
+  }
+]

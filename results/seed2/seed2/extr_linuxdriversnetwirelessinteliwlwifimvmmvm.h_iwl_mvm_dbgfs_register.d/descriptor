@@ -1,0 +1,3 @@
+struct iwl_mvm | dummy int 
+struct dentry | dummy int 
+function iwl_mvm_dbgfs_register int | mvm struct iwl_mvm * | dbgfs_dir struct dentry *

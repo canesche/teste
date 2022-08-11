@@ -1,0 +1,2 @@
+struct be_eth_wrb | rsvd0 long | frag_len long | frag_pa_lo long | frag_pa_hi long 
+function wrb_fill_dummy void | wrb struct be_eth_wrb *

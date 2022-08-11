@@ -1,0 +1,2 @@
+struct TYPE_3__ | avail_out int | wptr unsigned short * 
+function dns_write_iterator_store_ushort int | B struct TYPE_3__ * | x unsigned short

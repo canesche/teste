@@ -1,2 +1,0 @@
-struct i40e_fdir_filter | dst_ip long | src_ip long | dst_port long | src_port long | flow_type long | ip4_proto long 
-function i40e_match_fdir_filter int | a struct i40e_fdir_filter * | b struct i40e_fdir_filter *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | n int | x int * | y float * | no_repeat_mask long 
+function ff_decode_10_pulses_35bits void | fixed_index const int * | fixed_sparse struct TYPE_3__ * | gray_decode const int * | half_pulse_count int | bits int

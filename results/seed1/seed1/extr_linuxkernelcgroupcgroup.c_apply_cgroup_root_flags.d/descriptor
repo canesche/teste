@@ -1,0 +1,4 @@
+struct TYPE_6__ | flags unsigned int 
+struct TYPE_5__ | nsproxy struct TYPE_4__ * 
+struct TYPE_4__ | cgroup_ns int * 
+function apply_cgroup_root_flags void | root_flags unsigned int

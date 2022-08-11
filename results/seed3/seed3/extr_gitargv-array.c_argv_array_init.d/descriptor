@@ -1,0 +1,2 @@
+struct argv_array | alloc long | argc long | argv int 
+function argv_array_init void | array struct argv_array *

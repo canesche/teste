@@ -1,3 +1,0 @@
-struct TYPE_6__ | next struct TYPE_6__ * | prev struct TYPE_5__ * 
-struct TYPE_5__ | next struct TYPE_6__ * 
-function TH_RemoveTriangleFromList void | trianglelist struct TYPE_6__ ** | tri struct TYPE_6__ *

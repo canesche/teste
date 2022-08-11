@@ -1,0 +1,2 @@
+struct mlxsw_sp_acl_ruleset | ref_count int 
+function mlxsw_sp_acl_ruleset_is_singular int | ruleset const struct mlxsw_sp_acl_ruleset *

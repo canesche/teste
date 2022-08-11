@@ -1,0 +1,2 @@
+struct ieee802154_hw | dummy int 
+function hwsim_set_promiscuous_mode int | hw struct ieee802154_hw * | on const int

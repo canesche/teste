@@ -1,0 +1,3 @@
+struct ulist_node | aux long 
+struct btrfs_qgroup | dummy int 
+function unode_aux_to_qgroup struct btrfs_qgroup * | n struct ulist_node *

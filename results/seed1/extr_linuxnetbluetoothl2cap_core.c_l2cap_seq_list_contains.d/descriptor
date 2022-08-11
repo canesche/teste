@@ -1,2 +1,0 @@
-struct l2cap_seq_list | list long * | mask unsigned long 
-function l2cap_seq_list_contains int | seq_list struct l2cap_seq_list * | seq unsigned long

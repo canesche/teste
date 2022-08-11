@@ -1,0 +1,3 @@
+struct packing_data | delta_size unsigned long * | objects const struct object_entry * 
+struct object_entry | delta_size_ unsigned long | delta_size_valid long 
+function oe_delta_size unsigned long | pack struct packing_data * | e const struct object_entry *

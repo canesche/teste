@@ -1,2 +1,0 @@
-struct file | dummy int 
-function video_g_input int | file struct file * | fh void * | input unsigned int *

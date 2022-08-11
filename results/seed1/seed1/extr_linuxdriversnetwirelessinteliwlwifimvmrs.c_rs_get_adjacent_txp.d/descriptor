@@ -1,0 +1,2 @@
+struct iwl_mvm | dummy int 
+function rs_get_adjacent_txp void | mvm struct iwl_mvm * | index int | weaker int * | stronger int *

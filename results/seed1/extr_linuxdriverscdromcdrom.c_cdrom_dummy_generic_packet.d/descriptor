@@ -1,4 +1,0 @@
-struct packet_command | stat int | sshdr struct TYPE_2__ * 
-struct cdrom_device_info | dummy int 
-struct TYPE_2__ | sense_key int | asc int | ascq int 
-function cdrom_dummy_generic_packet int | cdi struct cdrom_device_info * | cgc struct packet_command *

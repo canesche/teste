@@ -1,0 +1,2 @@
+struct ath_common | dummy int 
+function ath_ahb_read_cachesize void | common struct ath_common * | csz int *

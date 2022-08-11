@@ -1,2 +1,0 @@
-struct i2c_msg | addr int | flags int 
-function iic_invalid_address int | p const struct i2c_msg *

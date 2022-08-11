@@ -1,0 +1,7 @@
+struct TYPE_12__ | call_ctx struct TYPE_13__ * 
+struct TYPE_13__ | ip unsigned long | bytecode struct TYPE_11__ * 
+struct TYPE_11__ | instrs struct TYPE_10__ * 
+struct TYPE_9__ | arg struct TYPE_8__ * 
+struct TYPE_10__ | u struct TYPE_9__ 
+struct TYPE_8__ | uint int 
+function get_op_uint unsigned int | ctx struct TYPE_12__ * | i int

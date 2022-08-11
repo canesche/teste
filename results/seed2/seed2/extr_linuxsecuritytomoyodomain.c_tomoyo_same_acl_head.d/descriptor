@@ -1,0 +1,2 @@
+struct tomoyo_acl_info | type long | cond long 
+function tomoyo_same_acl_head int | a const struct tomoyo_acl_info * | b const struct tomoyo_acl_info *

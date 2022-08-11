@@ -1,0 +1,3 @@
+struct vsp1_entity | config struct v4l2_subdev_pad_config * 
+struct v4l2_subdev_pad_config | dummy int 
+function vsp1_entity_get_pad_config struct v4l2_subdev_pad_config * | entity struct vsp1_entity * | cfg struct v4l2_subdev_pad_config * | which enum v4l2_subdev_format_whence

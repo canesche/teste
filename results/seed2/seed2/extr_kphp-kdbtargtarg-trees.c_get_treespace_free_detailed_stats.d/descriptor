@@ -1,0 +1,2 @@
+struct TYPE_2__ | free_queue_cnt int | free_queue int * 
+function get_treespace_free_detailed_stats int | TS int | where int *

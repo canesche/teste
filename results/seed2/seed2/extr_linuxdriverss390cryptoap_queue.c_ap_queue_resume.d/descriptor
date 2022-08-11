@@ -1,0 +1,2 @@
+struct ap_device | dummy int 
+function ap_queue_resume void | ap_dev struct ap_device *

@@ -1,1 +1,0 @@
-function Adam7_getpassvalues void | passw unsigned int [7] | passh unsigned int [7] | filter_passstart unsigned long [8] | padded_passstart unsigned long [8] | passstart unsigned long [8] | w unsigned int | h unsigned int | bpp unsigned int

@@ -1,3 +1,0 @@
-struct TYPE_3__ | cursorx int | cursory int 
-struct TYPE_4__ | uiDC struct TYPE_3__ 
-function UI_CursorInRect int | x int | y int | width int | height int

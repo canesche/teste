@@ -1,2 +1,0 @@
-struct seq_file | count long | size long | buf char * 
-function seq_putc void | m struct seq_file * | c char

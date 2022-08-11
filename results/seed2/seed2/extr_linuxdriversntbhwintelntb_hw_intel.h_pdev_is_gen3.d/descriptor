@@ -1,0 +1,2 @@
+struct pci_dev | device long 
+function pdev_is_gen3 int | pdev struct pci_dev *

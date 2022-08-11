@@ -1,0 +1,3 @@
+struct adapter | dummy int 
+struct _io_ops | _sd_f0_read8 int | _write_port int * | _write_mem int * | _writeN int * | _write32 int * | _write16 int * | _write8 int * | _read_port int * | _read_mem int * | _read32 int * | _read16 int * | _read8 int * 
+function sdio_set_intf_ops void | adapter struct adapter * | ops struct _io_ops *

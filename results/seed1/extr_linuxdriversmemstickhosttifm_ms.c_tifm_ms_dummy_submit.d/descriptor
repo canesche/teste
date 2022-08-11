@@ -1,2 +1,0 @@
-struct memstick_host | dummy int 
-function tifm_ms_dummy_submit void | msh struct memstick_host *

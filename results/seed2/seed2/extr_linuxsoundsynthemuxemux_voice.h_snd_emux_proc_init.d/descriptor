@@ -1,0 +1,3 @@
+struct snd_emux | dummy int 
+struct snd_card | dummy int 
+function snd_emux_proc_init void | emu struct snd_emux * | card struct snd_card * | device int

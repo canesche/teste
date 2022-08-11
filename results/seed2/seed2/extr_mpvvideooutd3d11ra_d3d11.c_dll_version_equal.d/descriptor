@@ -1,0 +1,2 @@
+struct dll_version | major long | minor long | build long | revision long 
+function dll_version_equal int | a struct dll_version | b struct dll_version

@@ -1,3 +1,0 @@
-struct spi_nor | priv struct cqspi_flash_pdata * 
-struct cqspi_flash_pdata | inst_width unsigned int | addr_width unsigned int | data_width unsigned int 
-function cqspi_calc_rdreg unsigned int | nor struct spi_nor * | opcode const int

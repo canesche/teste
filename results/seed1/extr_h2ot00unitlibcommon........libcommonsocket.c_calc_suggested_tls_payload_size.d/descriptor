@@ -1,3 +1,0 @@
-struct TYPE_5__ | ssl struct TYPE_4__ * 
-struct TYPE_4__ | record_overhead long 
-function calc_suggested_tls_payload_size long | sock struct TYPE_5__ * | suggested_tls_record_size long

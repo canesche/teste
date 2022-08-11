@@ -1,0 +1,3 @@
+struct cdrom_device_info | use_count int | handle struct TYPE_2__ * 
+struct TYPE_2__ | atapi_flags int 
+function ide_cdrom_release_real void | cdi struct cdrom_device_info *

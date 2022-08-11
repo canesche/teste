@@ -1,0 +1,1 @@
+function stm32_dma_get_max_width enum dma_slave_buswidth | buf_len long | threshold long

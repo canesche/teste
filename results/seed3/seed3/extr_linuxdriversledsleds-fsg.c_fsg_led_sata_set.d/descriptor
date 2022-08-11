@@ -1,0 +1,2 @@
+struct led_classdev | dummy int 
+function fsg_led_sata_set void | led_cdev struct led_classdev * | value enum led_brightness

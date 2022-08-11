@@ -1,3 +1,0 @@
-struct bpf_prog | dummy int 
-struct bpf_insn_access_aux | dummy int 
-function raw_tp_prog_is_valid_access int | off int | size int | type enum bpf_access_type | prog const struct bpf_prog * | info struct bpf_insn_access_aux *

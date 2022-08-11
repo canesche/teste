@@ -1,2 +1,0 @@
-struct cper_record_header | dummy int 
-function __erst_write_to_nvram int | record const struct cper_record_header *

@@ -1,0 +1,2 @@
+struct throtl_data | dummy int 
+function throtl_update_latency_buckets void | td struct throtl_data *

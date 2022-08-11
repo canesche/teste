@@ -1,0 +1,4 @@
+struct TYPE_4__ | uploaded int | downloaded int | dlspeed int | ulspeed int | flags int | size_dl int | size_ul int | timespent int | t_nslookup int | t_connect int | t_appconnect int | t_pretransfer int | t_starttransfer int | t_redirect int 
+struct TYPE_3__ | filetime int 
+struct Curl_easy | progress struct TYPE_4__ | info struct TYPE_3__ 
+function getinfo_offt int | data struct Curl_easy * | info int | param_offt int *

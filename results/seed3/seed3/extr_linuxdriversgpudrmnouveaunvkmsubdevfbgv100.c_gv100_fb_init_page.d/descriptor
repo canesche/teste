@@ -1,0 +1,2 @@
+struct nvkm_fb | page int 
+function gv100_fb_init_page int | fb struct nvkm_fb *

@@ -1,0 +1,4 @@
+struct sk_buff | cb long 
+struct TYPE_2__ | enqueue_time int 
+struct ieee80211_tx_info | control struct TYPE_2__ 
+function codel_skb_time_func int | skb const struct sk_buff *

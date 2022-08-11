@@ -1,0 +1,5 @@
+struct svc_rqst | rq_server struct TYPE_6__ * | rq_xprt struct TYPE_5__ * 
+struct TYPE_6__ | sv_max_payload long 
+struct TYPE_5__ | xpt_class struct TYPE_4__ * 
+struct TYPE_4__ | xcl_max_payload long 
+function svc_max_payload long | rqstp const struct svc_rqst *

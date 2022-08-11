@@ -1,0 +1,3 @@
+struct cpuidle_device | dummy int 
+struct acpi_processor | dummy int 
+function acpi_processor_setup_cpuidle_cx int | pr struct acpi_processor * | dev struct cpuidle_device *

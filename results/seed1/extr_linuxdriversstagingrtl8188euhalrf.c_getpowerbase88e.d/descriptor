@@ -1,3 +1,0 @@
-struct adapter | HalData struct TYPE_2__ * 
-struct TYPE_2__ | CurrentChannelBW long 
-function getpowerbase88e void | adapt struct adapter * | pwr_level_ofdm int * | pwr_level_bw20 int * | pwr_level_bw40 int * | channel int | ofdmbase int * | mcs_base int *

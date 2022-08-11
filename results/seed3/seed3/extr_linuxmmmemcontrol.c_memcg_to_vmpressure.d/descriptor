@@ -1,0 +1,3 @@
+struct vmpressure | dummy int 
+struct mem_cgroup | vmpressure struct vmpressure 
+function memcg_to_vmpressure struct vmpressure * | memcg struct mem_cgroup *

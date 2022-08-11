@@ -1,0 +1,3 @@
+struct demuxer | duration long 
+struct MPContext | demuxer struct demuxer * 
+function get_time_length double | mpctx struct MPContext *

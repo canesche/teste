@@ -1,0 +1,2 @@
+struct journal_head | b_tprev struct journal_head * | b_tnext struct journal_head * 
+function __blist_add_buffer void | list struct journal_head ** | jh struct journal_head *

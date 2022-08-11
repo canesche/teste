@@ -1,0 +1,3 @@
+struct TYPE_5__ | caches struct TYPE_6__ ** 
+struct TYPE_6__ | level int | nlcpus int | cpus struct TYPE_5__ ** | next struct TYPE_6__ * 
+function x86_cache_add_lcpu void | cache struct TYPE_6__ * | lcpu struct TYPE_5__ *

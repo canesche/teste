@@ -1,0 +1,2 @@
+struct remote | pushurl_nr int | pushurl char ** | url char ** | url_nr int 
+function push_url_of_remote int | remote struct remote * | url_p const char ***

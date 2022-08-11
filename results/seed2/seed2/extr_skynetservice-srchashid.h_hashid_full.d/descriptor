@@ -1,0 +1,2 @@
+struct hashid | count long | cap long 
+function hashid_full int | hi struct hashid *

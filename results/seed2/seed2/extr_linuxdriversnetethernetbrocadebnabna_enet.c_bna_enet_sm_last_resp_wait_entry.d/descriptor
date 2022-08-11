@@ -1,0 +1,2 @@
+struct bna_enet | flags int 
+function bna_enet_sm_last_resp_wait_entry void | enet struct bna_enet *

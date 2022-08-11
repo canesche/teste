@@ -1,2 +1,0 @@
-struct TYPE_3__ | ctrl int 
-function ENGINE_get_ctrl_function int | e const struct TYPE_3__ *

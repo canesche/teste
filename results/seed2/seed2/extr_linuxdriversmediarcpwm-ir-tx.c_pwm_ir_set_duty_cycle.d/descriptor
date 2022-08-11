@@ -1,0 +1,3 @@
+struct rc_dev | priv struct pwm_ir * 
+struct pwm_ir | duty_cycle int 
+function pwm_ir_set_duty_cycle int | dev struct rc_dev * | duty_cycle int

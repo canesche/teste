@@ -1,0 +1,3 @@
+struct TYPE_2__ | funcs int * 
+struct amdgpu_device | firmware struct TYPE_2__ 
+function psp_set_funcs void | adev struct amdgpu_device *

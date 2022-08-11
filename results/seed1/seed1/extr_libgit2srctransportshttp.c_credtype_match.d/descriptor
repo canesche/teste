@@ -1,0 +1,2 @@
+struct TYPE_3__ | credtypes unsigned int 
+function credtype_match int | scheme struct TYPE_3__ * | data void *

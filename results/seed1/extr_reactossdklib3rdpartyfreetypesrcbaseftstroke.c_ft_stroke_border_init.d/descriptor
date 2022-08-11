@@ -1,2 +1,0 @@
-struct TYPE_3__ | start int | valid int | max_points long | num_points long | tags int * | points int * | memory int 
-function ft_stroke_border_init void | border struct TYPE_3__ * | memory int

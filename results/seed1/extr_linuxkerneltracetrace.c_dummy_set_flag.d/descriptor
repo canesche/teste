@@ -1,2 +1,0 @@
-struct trace_array | dummy int 
-function dummy_set_flag int | tr struct trace_array * | old_flags int | bit int | set int

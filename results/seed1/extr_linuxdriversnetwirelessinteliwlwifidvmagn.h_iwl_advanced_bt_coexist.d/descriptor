@@ -1,4 +1,0 @@
-struct iwl_priv | lib struct TYPE_4__ * 
-struct TYPE_4__ | bt_params struct TYPE_3__ * 
-struct TYPE_3__ | advanced_bt_coexist long 
-function iwl_advanced_bt_coexist int | priv struct iwl_priv *

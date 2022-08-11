@@ -1,0 +1,2 @@
+struct trace_buffer | size int 
+function trace_check_bounds int | tb struct trace_buffer * | p void *

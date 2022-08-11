@@ -1,0 +1,3 @@
+struct max77693_charger | dummy int 
+struct device | dummy int 
+function max77693_dt_init int | dev struct device * | chg struct max77693_charger *

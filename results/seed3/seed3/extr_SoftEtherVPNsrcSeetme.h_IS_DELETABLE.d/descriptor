@@ -1,0 +1,4 @@
+struct timeval | tv_sec long 
+struct TYPE_4__ | tv_sec long 
+struct TYPE_5__ | enable_deletion long | filled_entries long | max_fill_state long | last_read struct TYPE_4__ 
+function IS_DELETABLE long | timestamp void * | data struct TYPE_5__ *

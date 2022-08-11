@@ -1,0 +1,2 @@
+struct batadv_priv | dummy int 
+function batadv_bla_is_backbone_gw_orig int | bat_priv struct batadv_priv * | orig int * | vid unsigned short

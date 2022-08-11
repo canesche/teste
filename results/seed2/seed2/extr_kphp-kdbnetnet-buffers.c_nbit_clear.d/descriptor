@@ -1,0 +1,2 @@
+struct TYPE_3__ | cptr long | head long | cur long 
+function nbit_clear int | I struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct ath_hw | dummy int 
+function ath9k_hw_get_delta_slope_vals void | ah struct ath_hw * | coef_scaled int | coef_mantissa int * | coef_exponent int *

@@ -1,0 +1,2 @@
+struct drm_connector | status int 
+function exynos_dsi_detect enum drm_connector_status | connector struct drm_connector * | force int

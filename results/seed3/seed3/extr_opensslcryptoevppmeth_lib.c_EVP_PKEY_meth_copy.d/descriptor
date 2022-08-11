@@ -1,0 +1,2 @@
+struct TYPE_4__ | check int | ctrl_str int | ctrl int | derive int | derive_init int | decrypt int | decrypt_init int | encrypt int | encrypt_init int | verifyctx int | verifyctx_init int | signctx int | signctx_init int | verify_recover int | verify_recover_init int | verify int | verify_init int | sign int | sign_init int | keygen int | keygen_init int | paramgen int | paramgen_init int | cleanup int | copy int | init int 
+function EVP_PKEY_meth_copy void | dst struct TYPE_4__ * | src const struct TYPE_4__ *

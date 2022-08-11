@@ -1,0 +1,2 @@
+struct pardevice | dummy int 
+function parport_device_proc_register int | device struct pardevice *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | cache struct TYPE_4__ * 
+struct TYPE_4__ | npoints int | points int * 
+function nvg__lastPoint int * | ctx struct TYPE_5__ *

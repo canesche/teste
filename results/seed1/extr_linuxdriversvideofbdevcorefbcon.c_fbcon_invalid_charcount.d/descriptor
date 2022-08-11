@@ -1,2 +1,0 @@
-struct fb_info | dummy int 
-function fbcon_invalid_charcount int | info struct fb_info * | charcount unsigned int

@@ -1,0 +1,3 @@
+struct playlist_entry | next struct playlist_entry * 
+struct playlist | first struct playlist_entry * 
+function playlist_count int | pl struct playlist *

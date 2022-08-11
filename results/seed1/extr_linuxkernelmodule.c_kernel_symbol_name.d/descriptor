@@ -1,2 +1,0 @@
-struct kernel_symbol | name const char * 
-function kernel_symbol_name const char * | sym const struct kernel_symbol *

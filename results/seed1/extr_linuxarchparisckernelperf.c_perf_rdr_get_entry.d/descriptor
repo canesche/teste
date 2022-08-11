@@ -1,2 +1,0 @@
-struct rdr_tbl_ent | dummy int 
-function perf_rdr_get_entry const struct rdr_tbl_ent * | rdr_num unsigned long

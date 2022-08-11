@@ -1,0 +1,3 @@
+struct snd_ice1712 | spec struct qtet_spec * 
+struct qtet_spec | cpld unsigned int 
+function get_cpld unsigned int | ice struct snd_ice1712 *

@@ -1,2 +1,0 @@
-struct page | dummy int 
-function me_kernel int | p struct page * | pfn unsigned long

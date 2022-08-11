@@ -1,0 +1,2 @@
+struct dpll | n int | m1 int | m2 int 
+function i9xx_dpll_compute_fp int | dpll struct dpll *

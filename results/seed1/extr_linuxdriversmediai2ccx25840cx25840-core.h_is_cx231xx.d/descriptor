@@ -1,2 +1,0 @@
-struct cx25840_state | id long 
-function is_cx231xx int | state struct cx25840_state *

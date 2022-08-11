@@ -1,0 +1,6 @@
+struct sw_flow_key | dummy int 
+struct sk_buff | dummy int 
+struct ovs_conntrack_info | dummy int 
+struct nf_conn | dummy int 
+struct net | dummy int 
+function ovs_ct_nat int | net struct net * | key struct sw_flow_key * | info const struct ovs_conntrack_info * | skb struct sk_buff * | ct struct nf_conn * | ctinfo enum ip_conntrack_info

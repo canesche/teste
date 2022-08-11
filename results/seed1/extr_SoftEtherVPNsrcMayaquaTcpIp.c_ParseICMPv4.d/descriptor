@@ -1,3 +1,0 @@
-struct TYPE_4__ | ICMPHeader int * 
-struct TYPE_5__ | TypeL4 int | L4 struct TYPE_4__ 
-function ParseICMPv4 int | p struct TYPE_5__ * | buf int * | size int

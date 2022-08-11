@@ -1,0 +1,3 @@
+struct ieee80211_hw | dummy int 
+struct ieee80211_chanctx_conf | dummy int 
+function ath10k_mac_num_chanctxs_iter void | hw struct ieee80211_hw * | conf struct ieee80211_chanctx_conf * | data void *

@@ -1,0 +1,4 @@
+struct sym_tcb | usr_period int | usr_width int | usrflags int | usrtags long 
+struct TYPE_5__ | target struct TYPE_4__ * 
+struct TYPE_4__ | flags int | sync_period int | bus_width int 
+function sym_Symbios_setup_target void | tp struct sym_tcb * | target int | nvram struct TYPE_5__ *

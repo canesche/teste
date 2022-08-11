@@ -1,0 +1,2 @@
+struct TYPE_2__ | nByte int | pStmt long 
+function sqlite3_blob_bytes int | pBlob int *

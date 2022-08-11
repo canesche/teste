@@ -1,0 +1,2 @@
+struct TYPE_3__ | extensions_len long | names_len long | slash_names_len long | regexes_len long | slash_regexes_len long 
+function is_empty int | ig struct TYPE_3__ *

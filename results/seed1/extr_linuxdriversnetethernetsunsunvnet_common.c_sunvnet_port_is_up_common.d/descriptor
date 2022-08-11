@@ -1,3 +1,0 @@
-struct vio_driver_state | hs_state int 
-struct vnet_port | vio struct vio_driver_state 
-function sunvnet_port_is_up_common int | vnet struct vnet_port *

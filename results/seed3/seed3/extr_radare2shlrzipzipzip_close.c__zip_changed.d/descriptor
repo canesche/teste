@@ -1,0 +1,4 @@
+struct zip | ch_flags long | flags long | nentry unsigned long | entry struct TYPE_4__ * | comment_changed long 
+struct TYPE_4__ | deleted long | changes struct TYPE_3__ * | source long 
+struct TYPE_3__ | changed long 
+function _zip_changed int | za const struct zip * | survivorsp unsigned long *

@@ -1,0 +1,2 @@
+struct i40evf_adapter | rss_lut_size unsigned long | rss_lut unsigned long * | num_active_queues unsigned long 
+function i40evf_fill_rss_lut void | adapter struct i40evf_adapter *

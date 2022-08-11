@@ -1,2 +1,0 @@
-struct bcma_drv_gmac_cmn | dummy int 
-function bcma_core_gmac_cmn_init void | gc struct bcma_drv_gmac_cmn *

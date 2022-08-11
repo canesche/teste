@@ -1,2 +1,0 @@
-struct xvip_pipeline | output int * | num_dmas long 
-function __xvip_pipeline_cleanup void | pipe struct xvip_pipeline *

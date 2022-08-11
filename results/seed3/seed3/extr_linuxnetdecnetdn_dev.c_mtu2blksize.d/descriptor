@@ -1,0 +1,2 @@
+struct net_device | mtu int | type long 
+function mtu2blksize int | dev struct net_device *

@@ -1,0 +1,2 @@
+struct gpio_desc | label const char * 
+function desc_set_label void | d struct gpio_desc * | label const char *

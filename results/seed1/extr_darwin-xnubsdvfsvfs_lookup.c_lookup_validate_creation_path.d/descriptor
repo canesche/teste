@@ -1,3 +1,0 @@
-struct componentname | cn_flags int 
-struct nameidata | ni_flag int | ni_cnd struct componentname 
-function lookup_validate_creation_path int | ndp struct nameidata *

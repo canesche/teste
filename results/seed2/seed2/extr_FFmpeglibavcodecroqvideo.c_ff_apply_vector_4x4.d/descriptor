@@ -1,0 +1,4 @@
+struct TYPE_7__ | y unsigned char * | u unsigned char | v unsigned char 
+struct TYPE_8__ | current_frame struct TYPE_6__ * 
+struct TYPE_6__ | linesize int * | data unsigned char ** 
+function ff_apply_vector_4x4 void | ri struct TYPE_8__ * | x int | y int | cell struct TYPE_7__ *

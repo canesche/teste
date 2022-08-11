@@ -1,0 +1,2 @@
+struct pg_state | dummy int 
+function walk_vmemmap void | st struct pg_state *

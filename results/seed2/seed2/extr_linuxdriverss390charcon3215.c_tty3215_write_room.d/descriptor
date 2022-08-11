@@ -1,0 +1,3 @@
+struct tty_struct | driver_data long 
+struct raw3215_info | count long 
+function tty3215_write_room int | tty struct tty_struct *

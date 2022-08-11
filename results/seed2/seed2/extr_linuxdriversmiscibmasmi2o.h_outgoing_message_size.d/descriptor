@@ -1,0 +1,2 @@
+struct i2o_header | dummy int 
+function outgoing_message_size unsigned short | data_size unsigned int

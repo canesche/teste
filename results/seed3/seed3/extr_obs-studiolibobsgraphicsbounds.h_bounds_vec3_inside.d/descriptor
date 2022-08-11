@@ -1,0 +1,5 @@
+struct vec3 | x long | y long | z long 
+struct TYPE_4__ | x long | y long | z long 
+struct TYPE_3__ | x long | y long | z long 
+struct bounds | max struct TYPE_4__ | min struct TYPE_3__ 
+function bounds_vec3_inside int | b const struct bounds * | v const struct vec3 *

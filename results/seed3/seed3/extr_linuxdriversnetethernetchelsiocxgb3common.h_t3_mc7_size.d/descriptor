@@ -1,0 +1,2 @@
+struct mc7 | size unsigned int 
+function t3_mc7_size unsigned int | p const struct mc7 *

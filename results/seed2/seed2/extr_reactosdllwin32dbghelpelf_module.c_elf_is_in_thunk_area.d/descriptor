@@ -1,0 +1,2 @@
+struct elf_thunk_area | rva_start unsigned long | rva_end unsigned long | symname long 
+function elf_is_in_thunk_area int | addr unsigned long | thunks const struct elf_thunk_area *

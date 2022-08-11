@@ -1,0 +1,2 @@
+struct device | dummy int 
+function tegra_xusb_port_release void | dev struct device *

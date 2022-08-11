@@ -1,2 +1,0 @@
-struct usb_hcd | dummy int 
-function whc_get_frame_number int | usb_hcd struct usb_hcd *

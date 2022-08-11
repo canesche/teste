@@ -1,4 +1,0 @@
-struct ieee80211_hw | dummy int 
-struct cfg80211_chan_def | dummy int 
-struct ieee80211_chanctx_conf | def struct cfg80211_chan_def 
-function ath10k_mac_get_any_chandef_iter void | hw struct ieee80211_hw * | conf struct ieee80211_chanctx_conf * | data void *

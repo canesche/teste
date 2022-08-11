@@ -1,4 +1,0 @@
-struct TYPE_7__ | operands struct TYPE_6__ * 
-struct TYPE_5__ | regno long 
-struct TYPE_6__ | type int | reg struct TYPE_5__ 
-function convert_orr_to_mov int | inst struct TYPE_7__ *

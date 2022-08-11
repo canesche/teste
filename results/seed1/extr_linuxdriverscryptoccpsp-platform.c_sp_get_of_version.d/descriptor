@@ -1,3 +1,0 @@
-struct sp_dev_vdata | dummy int 
-struct platform_device | dummy int 
-function sp_get_of_version struct sp_dev_vdata * | pdev struct platform_device *

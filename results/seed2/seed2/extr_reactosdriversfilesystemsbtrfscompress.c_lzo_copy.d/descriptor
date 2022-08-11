@@ -1,0 +1,2 @@
+struct TYPE_3__ | inpos int | inlen int | outpos int | outlen int | in int * | out int * | error void * 
+function lzo_copy void | stream struct TYPE_3__ * | len int

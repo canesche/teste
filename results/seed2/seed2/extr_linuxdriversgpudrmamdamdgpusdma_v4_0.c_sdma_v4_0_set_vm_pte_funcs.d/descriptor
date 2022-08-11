@@ -1,0 +1,5 @@
+struct TYPE_6__ | num_instances unsigned int | instance struct TYPE_4__ * 
+struct TYPE_5__ | vm_pte_num_rings unsigned int | vm_pte_rings int ** | vm_pte_funcs int * 
+struct amdgpu_device | sdma struct TYPE_6__ | vm_manager struct TYPE_5__ 
+struct TYPE_4__ | ring int 
+function sdma_v4_0_set_vm_pte_funcs void | adev struct amdgpu_device *

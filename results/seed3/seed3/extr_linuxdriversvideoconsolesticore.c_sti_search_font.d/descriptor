@@ -1,0 +1,4 @@
+struct sti_cooked_rom | font_start struct sti_cooked_font * 
+struct sti_cooked_font | raw struct TYPE_2__ * | next_font struct sti_cooked_font * 
+struct TYPE_2__ | width int | height int 
+function sti_search_font int | rom struct sti_cooked_rom * | height int | width int

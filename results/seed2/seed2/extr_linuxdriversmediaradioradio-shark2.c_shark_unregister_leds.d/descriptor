@@ -1,0 +1,2 @@
+struct shark_device | dummy int 
+function shark_unregister_leds void | shark struct shark_device *

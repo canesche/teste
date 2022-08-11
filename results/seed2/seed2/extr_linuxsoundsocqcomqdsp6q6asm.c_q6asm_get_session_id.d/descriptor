@@ -1,0 +1,2 @@
+struct audio_client | session int 
+function q6asm_get_session_id int | c struct audio_client *

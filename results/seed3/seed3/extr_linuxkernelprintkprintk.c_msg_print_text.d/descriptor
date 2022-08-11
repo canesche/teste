@@ -1,0 +1,2 @@
+struct printk_log | dummy int 
+function msg_print_text unsigned long | msg const struct printk_log * | syslog int | buf char * | size unsigned long

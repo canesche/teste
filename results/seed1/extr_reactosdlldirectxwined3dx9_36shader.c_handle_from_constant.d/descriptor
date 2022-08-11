@@ -1,2 +1,0 @@
-struct ctab_constant | dummy int 
-function handle_from_constant int | constant struct ctab_constant *

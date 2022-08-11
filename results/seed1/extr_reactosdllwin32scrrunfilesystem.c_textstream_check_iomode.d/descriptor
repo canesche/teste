@@ -1,2 +1,0 @@
-struct textstream | mode long 
-function textstream_check_iomode int | This struct textstream * | type enum iotype

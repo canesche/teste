@@ -1,0 +1,3 @@
+struct msm_kms | dummy int 
+struct drm_encoder | dummy int 
+function mdp5_round_pixclk long | kms struct msm_kms * | rate unsigned long | encoder struct drm_encoder *

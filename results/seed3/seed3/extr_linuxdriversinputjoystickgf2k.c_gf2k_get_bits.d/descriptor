@@ -1,0 +1,1 @@
+function gf2k_get_bits int | buf unsigned char * | pos int | num int | shift int

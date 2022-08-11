@@ -1,0 +1,3 @@
+struct bpf_prog | aux struct TYPE_2__ * 
+struct TYPE_2__ | used_map_cnt int | used_maps void ** 
+function bpf_map_from_imm const struct bpf_map * | prog const struct bpf_prog * | addr unsigned long

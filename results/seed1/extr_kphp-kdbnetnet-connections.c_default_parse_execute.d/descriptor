@@ -1,2 +1,0 @@
-struct connection | dummy int 
-function default_parse_execute int | c struct connection *

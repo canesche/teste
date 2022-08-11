@@ -1,0 +1,11 @@
+struct TYPE_11__ | w float | m int 
+struct TYPE_16__ | m int 
+struct TYPE_14__ | m int 
+struct TYPE_12__ | m int 
+struct matrix4 | t struct TYPE_11__ | z struct TYPE_16__ | y struct TYPE_14__ | x struct TYPE_12__ 
+struct TYPE_10__ | m int 
+struct TYPE_9__ | m int 
+struct TYPE_15__ | m int 
+struct TYPE_13__ | m int 
+struct matrix3 | t struct TYPE_10__ | z struct TYPE_9__ | y struct TYPE_15__ | x struct TYPE_13__ 
+function matrix4_from_matrix3 void | dst struct matrix4 * | m const struct matrix3 *

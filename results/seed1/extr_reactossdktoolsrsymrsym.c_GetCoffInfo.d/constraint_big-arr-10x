@@ -1,1 +1,0 @@
-value(PESectionHeaders) == 10, length(FileData) == 100, length(CoffSymbolsLength) == 100, length(CoffSymbolsBase) == 100, length(CoffStringsLength) == 100, length(CoffStringsBase) == 100, length(PEFileHeader) == 100

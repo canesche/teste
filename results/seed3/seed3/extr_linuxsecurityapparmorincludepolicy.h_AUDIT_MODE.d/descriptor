@@ -1,0 +1,2 @@
+struct aa_profile | audit int 
+function AUDIT_MODE int | profile struct aa_profile *

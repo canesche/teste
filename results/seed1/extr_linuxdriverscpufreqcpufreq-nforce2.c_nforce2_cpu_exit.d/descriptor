@@ -1,2 +1,0 @@
-struct cpufreq_policy | dummy int 
-function nforce2_cpu_exit int | policy struct cpufreq_policy *

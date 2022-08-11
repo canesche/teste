@@ -1,0 +1,3 @@
+struct ftide010 | dummy int 
+struct ata_port_info | dummy int 
+function pata_ftide010_gemini_init int | ftide struct ftide010 * | pi struct ata_port_info * | is_ata1 int

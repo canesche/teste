@@ -1,0 +1,2 @@
+struct pci_driver | dummy int 
+function mlxsw_pci_driver_register int | pci_driver struct pci_driver *

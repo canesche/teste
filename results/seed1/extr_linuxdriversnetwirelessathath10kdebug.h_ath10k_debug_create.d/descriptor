@@ -1,2 +1,0 @@
-struct ath10k | dummy int 
-function ath10k_debug_create int | ar struct ath10k *

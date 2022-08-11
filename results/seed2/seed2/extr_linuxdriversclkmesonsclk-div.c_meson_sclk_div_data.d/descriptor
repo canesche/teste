@@ -1,0 +1,3 @@
+struct meson_sclk_div_data | dummy int 
+struct clk_regmap | data long 
+function meson_sclk_div_data struct meson_sclk_div_data * | clk struct clk_regmap *

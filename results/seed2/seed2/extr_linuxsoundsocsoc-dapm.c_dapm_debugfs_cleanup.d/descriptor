@@ -1,0 +1,2 @@
+struct snd_soc_dapm_context | dummy int 
+function dapm_debugfs_cleanup void | dapm struct snd_soc_dapm_context *

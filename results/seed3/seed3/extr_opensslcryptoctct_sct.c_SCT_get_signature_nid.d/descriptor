@@ -1,0 +1,2 @@
+struct TYPE_3__ | version long | hash_alg long | sig_alg int 
+function SCT_get_signature_nid int | sct const struct TYPE_3__ *

@@ -1,0 +1,3 @@
+struct snd_ac97 | private_data struct intel8x0m * 
+struct intel8x0m | ac97 int * 
+function snd_intel8x0m_mixer_free_ac97 void | ac97 struct snd_ac97 *

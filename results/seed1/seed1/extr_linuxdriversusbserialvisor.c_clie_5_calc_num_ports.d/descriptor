@@ -1,0 +1,4 @@
+struct usb_serial_endpoints | bulk_out int * 
+struct usb_serial | type struct TYPE_2__ * 
+struct TYPE_2__ | num_ports int 
+function clie_5_calc_num_ports int | serial struct usb_serial * | epds struct usb_serial_endpoints *

@@ -1,5 +1,0 @@
-struct afs_vnode | cb_break unsigned int | volume struct TYPE_4__ * 
-struct afs_cb_interest | server struct TYPE_3__ * 
-struct TYPE_4__ | cb_v_break unsigned int 
-struct TYPE_3__ | cb_s_break unsigned int 
-function afs_cb_break_sum unsigned int | vnode struct afs_vnode * | cbi struct afs_cb_interest *

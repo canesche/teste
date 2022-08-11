@@ -1,0 +1,2 @@
+struct mtu3 | ep0_state int 
+function decode_ep0_state char * | mtu struct mtu3 *

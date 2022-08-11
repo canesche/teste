@@ -1,2 +1,0 @@
-struct hw | dummy int 
-function is_adc_input_selected_SB055x int | hw struct hw * | type enum ADCSRC

@@ -1,0 +1,2 @@
+struct flexfb_lcd_controller | init_seq_sz int | init_seq int | regwidth long | setaddrwin int | height long | width long 
+function flexfb_chip_load_param void | chip const struct flexfb_lcd_controller *

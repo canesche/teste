@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 113,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 113,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_disquedepsjemallocsrcctl.c_ctl_arena_stats_smerge.d/extr_disquedepsjemallocsrcctl.c_ctl_arena_stats_smerge_O0::ctl_arena_stats_smerge(76)"
+  }
+]

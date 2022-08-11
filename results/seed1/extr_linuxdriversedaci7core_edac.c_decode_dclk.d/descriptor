@@ -1,3 +1,0 @@
-struct memdev_dmi_entry | conf_mem_clk_speed long | speed long | size long | length unsigned long | type int 
-struct dmi_header | type long 
-function decode_dclk void | dh const struct dmi_header * | _dclk_freq void *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetwirelessrealtekrtl8192cuhalrtl8192crtl8192c_phycfg.c_phy_CalculateBitShift.d/extr_linuxdriversnetwirelessrealtekrtl8192cuhalrtl8192crtl8192c_phycfg.c_phy_CalculateBitShift_O0::phy_CalculateBitShift(64)"
+  }
+]

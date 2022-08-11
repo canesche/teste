@@ -1,2 +1,0 @@
-struct dbcs_table | uni2cp_low unsigned short * | uni2cp_high unsigned short * 
-function wcstombs_dbcs int | table const struct dbcs_table * | src const int * | srclen unsigned int | dst char * | dstlen unsigned int

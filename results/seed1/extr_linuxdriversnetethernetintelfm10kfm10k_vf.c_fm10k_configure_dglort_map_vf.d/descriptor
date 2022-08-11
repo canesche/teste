@@ -1,3 +1,0 @@
-struct fm10k_hw | dummy int 
-struct fm10k_dglort_cfg | dummy int 
-function fm10k_configure_dglort_map_vf int | hw struct fm10k_hw * | dglort struct fm10k_dglort_cfg *

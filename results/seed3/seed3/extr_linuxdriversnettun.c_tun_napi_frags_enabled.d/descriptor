@@ -1,0 +1,2 @@
+struct tun_file | napi_frags_enabled int 
+function tun_napi_frags_enabled int | tfile const struct tun_file *

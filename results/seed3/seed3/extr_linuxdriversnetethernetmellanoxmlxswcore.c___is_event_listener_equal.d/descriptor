@@ -1,0 +1,2 @@
+struct mlxsw_event_listener | func long | trap_id long 
+function __is_event_listener_equal int | el_a const struct mlxsw_event_listener * | el_b const struct mlxsw_event_listener *

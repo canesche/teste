@@ -1,0 +1,5 @@
+struct TYPE_8__ | sndChunk short * | next struct TYPE_8__ * 
+struct TYPE_9__ | soundChannels int | soundData struct TYPE_8__ * 
+struct TYPE_10__ | left int | right int 
+struct TYPE_11__ | oldDopplerScale int | dopplerScale float | leftvol int | rightvol int | doppler long 
+function S_PaintChannelFrom16_scalar void | ch struct TYPE_11__ * | sc const struct TYPE_9__ * | count int | sampleOffset int | bufferOffset int

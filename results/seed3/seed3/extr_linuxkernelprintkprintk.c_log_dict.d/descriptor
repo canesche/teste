@@ -1,0 +1,2 @@
+struct printk_log | dummy int 
+function log_dict char * | msg const struct printk_log *

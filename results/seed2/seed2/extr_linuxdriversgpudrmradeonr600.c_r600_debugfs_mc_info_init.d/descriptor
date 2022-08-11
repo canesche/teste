@@ -1,0 +1,2 @@
+struct radeon_device | dummy int 
+function r600_debugfs_mc_info_init int | rdev struct radeon_device *

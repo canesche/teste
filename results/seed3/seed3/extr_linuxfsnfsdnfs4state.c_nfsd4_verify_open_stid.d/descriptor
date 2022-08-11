@@ -1,0 +1,2 @@
+struct nfs4_stid | sc_type int 
+function nfsd4_verify_open_stid int | s struct nfs4_stid *

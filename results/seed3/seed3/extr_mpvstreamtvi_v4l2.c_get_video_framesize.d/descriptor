@@ -1,0 +1,6 @@
+struct TYPE_8__ | sizeimage int 
+struct TYPE_9__ | pix struct TYPE_8__ 
+struct TYPE_10__ | fmt struct TYPE_9__ 
+struct TYPE_11__ | video_head unsigned long | format struct TYPE_10__ | video_ringbuffer struct TYPE_7__ * | video_cnt long 
+struct TYPE_7__ | framesize int 
+function get_video_framesize int | priv struct TYPE_11__ *

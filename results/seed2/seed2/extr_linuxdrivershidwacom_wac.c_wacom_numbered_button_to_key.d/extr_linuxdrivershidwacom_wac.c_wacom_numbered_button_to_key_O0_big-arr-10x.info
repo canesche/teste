@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdrivershidwacom_wac.c_wacom_numbered_button_to_key.d/extr_linuxdrivershidwacom_wac.c_wacom_numbered_button_to_key_O0::wacom_numbered_button_to_key(63)"
+  }
+]

@@ -1,0 +1,2 @@
+struct uart_port | type int 
+function sc16is7xx_config_port void | port struct uart_port * | flags int

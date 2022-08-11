@@ -1,2 +1,0 @@
-struct task_struct | dummy int 
-function flush_tmregs_to_thread void | tsk struct task_struct *

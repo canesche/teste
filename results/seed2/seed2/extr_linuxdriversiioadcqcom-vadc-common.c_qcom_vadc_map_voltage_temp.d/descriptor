@@ -1,0 +1,2 @@
+struct vadc_map_pt | x long | y long 
+function qcom_vadc_map_voltage_temp int | pts const struct vadc_map_pt * | tablesize int | input long | output long *

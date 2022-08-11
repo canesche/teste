@@ -1,0 +1,2 @@
+struct fcb_table_entry | p long | i long 
+function cmp_fcb_table_entry int | a const void * | b const void *

@@ -1,0 +1,4 @@
+struct qlcnic_adapter | ahw struct TYPE_4__ * 
+struct TYPE_3__ | sec_counter int 
+struct TYPE_4__ | idc struct TYPE_3__ 
+function qlcnic_83xx_idc_check_timeout int | adapter struct qlcnic_adapter * | time_limit int

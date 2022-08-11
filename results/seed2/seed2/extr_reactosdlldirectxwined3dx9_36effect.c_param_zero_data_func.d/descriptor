@@ -1,0 +1,2 @@
+struct d3dx_parameter | data int * 
+function param_zero_data_func int | dummy void * | param struct d3dx_parameter *

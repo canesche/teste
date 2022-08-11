@@ -1,3 +1,0 @@
-struct rocker_desc_info | tlv_size int | desc struct TYPE_2__ * | data_size int 
-struct TYPE_2__ | tlv_size int | buf_size int 
-function rocker_desc_commit void | desc_info const struct rocker_desc_info *

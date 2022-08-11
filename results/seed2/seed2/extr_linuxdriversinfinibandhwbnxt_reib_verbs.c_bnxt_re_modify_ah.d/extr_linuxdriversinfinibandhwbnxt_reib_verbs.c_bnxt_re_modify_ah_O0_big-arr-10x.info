@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversinfinibandhwbnxt_reib_verbs.c_bnxt_re_modify_ah.d/extr_linuxdriversinfinibandhwbnxt_reib_verbs.c_bnxt_re_modify_ah_O0::bnxt_re_modify_ah(62)"
+  }
+]

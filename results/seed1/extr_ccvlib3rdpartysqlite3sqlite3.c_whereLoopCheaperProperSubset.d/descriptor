@@ -1,2 +1,0 @@
-struct TYPE_4__ | nLTerm int | nSkip long | rRun long | nOut long | aLTerm long * | wsFlags int 
-function whereLoopCheaperProperSubset int | pX const struct TYPE_4__ * | pY const struct TYPE_4__ *

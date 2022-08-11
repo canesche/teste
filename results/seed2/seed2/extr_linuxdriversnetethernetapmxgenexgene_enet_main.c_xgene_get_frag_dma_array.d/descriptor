@@ -1,0 +1,3 @@
+struct xgene_enet_desc_ring | tail unsigned long | cp_ring struct TYPE_2__ * 
+struct TYPE_2__ | frag_dma_addr int * 
+function xgene_get_frag_dma_array int * | ring struct xgene_enet_desc_ring *

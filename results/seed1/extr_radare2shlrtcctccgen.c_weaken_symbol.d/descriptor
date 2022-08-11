@@ -1,3 +1,0 @@
-struct TYPE_4__ | t int 
-struct TYPE_5__ | type struct TYPE_4__ 
-function weaken_symbol void | sym struct TYPE_5__ *

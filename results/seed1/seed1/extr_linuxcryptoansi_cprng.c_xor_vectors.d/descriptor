@@ -1,0 +1,1 @@
+function xor_vectors void | in1 unsigned char * | in2 unsigned char * | out unsigned char * | size unsigned int

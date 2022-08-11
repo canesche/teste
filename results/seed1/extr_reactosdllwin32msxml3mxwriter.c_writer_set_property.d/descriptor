@@ -1,2 +1,0 @@
-struct TYPE_3__ | prop_changed int | props int * 
-function writer_set_property int | writer struct TYPE_3__ * | property unsigned long | value int

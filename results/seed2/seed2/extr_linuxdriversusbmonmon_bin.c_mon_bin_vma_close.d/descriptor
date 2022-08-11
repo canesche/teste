@@ -1,0 +1,3 @@
+struct vm_area_struct | vm_private_data struct mon_reader_bin * 
+struct mon_reader_bin | mmap_active int 
+function mon_bin_vma_close void | vma struct vm_area_struct *

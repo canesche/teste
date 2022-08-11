@@ -1,0 +1,2 @@
+struct ror_state | key int * | key_size int 
+function ror_crypt void | state struct ror_state *const | inbuf const int * | outbuf int * | buflen int

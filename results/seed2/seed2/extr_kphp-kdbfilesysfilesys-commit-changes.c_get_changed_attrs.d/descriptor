@@ -1,0 +1,2 @@
+struct stat | st_mode long | st_uid long | st_gid long | st_size long | st_mtime long 
+function get_changed_attrs int | a struct stat * | b struct stat *

@@ -1,0 +1,2 @@
+struct fcoe_fcf | flags int 
+function fcoe_ctlr_mtu_valid int | fcf const struct fcoe_fcf *

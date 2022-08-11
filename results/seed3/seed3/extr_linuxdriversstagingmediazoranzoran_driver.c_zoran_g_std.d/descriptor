@@ -1,0 +1,4 @@
+struct zoran_fh | zr struct zoran * 
+struct zoran | norm int 
+struct file | dummy int 
+function zoran_g_std int | file struct file * | __fh void * | std int *

@@ -1,0 +1,3 @@
+struct qed_hwfn | dummy int 
+struct channel_tlv | type int | length int 
+function qed_add_tlv void * | p_hwfn struct qed_hwfn * | offset void ** | type int | length int

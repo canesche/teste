@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_lua-nginx-modulesrcngx_http_lua_time.c_ngx_http_lua_ffi_req_start_time.d/extr_lua-nginx-modulesrcngx_http_lua_time.c_ngx_http_lua_ffi_req_start_time_O0::ngx_http_lua_ffi_req_start_time(64)"
+  }
+]

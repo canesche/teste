@@ -1,0 +1,4 @@
+struct vega12_hwmgr | uvd_power_gated int | vce_power_gated int | smu_features struct TYPE_2__ * 
+struct pp_hwmgr | backend long 
+struct TYPE_2__ | enabled long 
+function vega12_init_powergate_state void | hwmgr struct pp_hwmgr *

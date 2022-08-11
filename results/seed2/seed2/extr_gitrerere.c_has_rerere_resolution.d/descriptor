@@ -1,0 +1,3 @@
+struct rerere_id | variant int | collection struct TYPE_2__ * 
+struct TYPE_2__ | status const int * 
+function has_rerere_resolution int | id const struct rerere_id *

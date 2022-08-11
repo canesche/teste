@@ -1,0 +1,2 @@
+struct flow_table | count int 
+function ovs_flow_tbl_count int | table const struct flow_table *

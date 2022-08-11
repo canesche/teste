@@ -1,0 +1,2 @@
+struct nfs4_ff_layout_segment | dummy int 
+function ff_layout_get_lseg_count int | fls struct nfs4_ff_layout_segment *

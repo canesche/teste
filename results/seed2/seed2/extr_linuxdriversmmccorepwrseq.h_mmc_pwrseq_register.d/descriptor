@@ -1,0 +1,2 @@
+struct mmc_pwrseq | dummy int 
+function mmc_pwrseq_register int | pwrseq struct mmc_pwrseq *

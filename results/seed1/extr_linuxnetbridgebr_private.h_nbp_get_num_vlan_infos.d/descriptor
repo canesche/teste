@@ -1,2 +1,0 @@
-struct net_bridge_port | dummy int 
-function nbp_get_num_vlan_infos int | p struct net_bridge_port * | filter_mask int

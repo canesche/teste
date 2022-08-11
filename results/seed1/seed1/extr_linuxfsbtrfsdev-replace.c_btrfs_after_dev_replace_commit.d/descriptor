@@ -1,0 +1,3 @@
+struct btrfs_dev_replace | cursor_left_last_write_of_item int | committed_cursor_left int 
+struct btrfs_fs_info | dev_replace struct btrfs_dev_replace 
+function btrfs_after_dev_replace_commit void | fs_info struct btrfs_fs_info *

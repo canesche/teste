@@ -1,0 +1,3 @@
+struct file | dummy int 
+struct epoll_filefd | fd int | file struct file * 
+function ep_set_ffd void | ffd struct epoll_filefd * | file struct file * | fd int

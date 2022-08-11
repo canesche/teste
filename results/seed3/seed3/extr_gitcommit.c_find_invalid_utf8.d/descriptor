@@ -1,0 +1,1 @@
+function find_invalid_utf8 int | buf const char * | len int

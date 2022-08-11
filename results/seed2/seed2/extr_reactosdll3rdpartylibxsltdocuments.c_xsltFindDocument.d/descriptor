@@ -1,0 +1,4 @@
+struct TYPE_8__ | next struct TYPE_8__ * | doc int * 
+struct TYPE_7__ | document struct TYPE_8__ * | style struct TYPE_6__ * | docList struct TYPE_8__ * 
+struct TYPE_6__ | doc int * 
+function xsltFindDocument struct TYPE_8__ * | ctxt struct TYPE_7__ * | doc int *

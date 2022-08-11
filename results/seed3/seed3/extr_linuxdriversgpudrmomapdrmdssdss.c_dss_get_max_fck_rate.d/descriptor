@@ -1,0 +1,3 @@
+struct dss_device | feat struct TYPE_2__ * 
+struct TYPE_2__ | fck_freq_max unsigned long 
+function dss_get_max_fck_rate unsigned long | dss struct dss_device *

@@ -1,0 +1,3 @@
+struct xgene_pmu | dummy int 
+struct platform_device | dummy int 
+function acpi_pmu_probe_pmu_dev int | xgene_pmu struct xgene_pmu * | pdev struct platform_device *

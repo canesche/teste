@@ -1,3 +1,0 @@
-struct screen | sel struct TYPE_2__ * 
-struct TYPE_2__ | hidden int 
-function screen_hide_selection void | s struct screen *

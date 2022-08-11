@@ -1,3 +1,0 @@
-struct mmci_host | dummy int 
-struct mmc_data | dummy int 
-function dml_start_xfer void | host struct mmci_host * | data struct mmc_data *

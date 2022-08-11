@@ -1,0 +1,2 @@
+struct tpm_chip | dummy int 
+function tpm_tis_i2c_req_canceled int | chip struct tpm_chip * | status long

@@ -1,2 +1,0 @@
-struct counter | prev_use struct counter * | next_use struct counter * 
-function add_use void | C struct counter *

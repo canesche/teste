@@ -1,0 +1,2 @@
+struct TYPE_2__ | handle long | bank char * | device char * 
+function dmi_memdev_name void | handle long | bank const char ** | device const char **

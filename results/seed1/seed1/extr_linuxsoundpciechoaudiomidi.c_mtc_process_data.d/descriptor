@@ -1,0 +1,2 @@
+struct echoaudio | mtc_state int 
+function mtc_process_data int | chip struct echoaudio * | midi_byte short

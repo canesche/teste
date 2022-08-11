@@ -1,0 +1,2 @@
+struct cmipci_sb_reg | left_reg unsigned long | right_reg unsigned long | left_shift unsigned long | right_shift unsigned long | invert unsigned long | stereo unsigned long | mask unsigned long 
+function cmipci_sb_reg_decode void | r struct cmipci_sb_reg * | val unsigned long

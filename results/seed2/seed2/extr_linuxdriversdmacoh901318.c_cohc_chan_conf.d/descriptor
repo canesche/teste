@@ -1,0 +1,3 @@
+struct coh_dma_channel | dummy int 
+struct coh901318_chan | id unsigned long 
+function cohc_chan_conf const struct coh_dma_channel * | cohc struct coh901318_chan *

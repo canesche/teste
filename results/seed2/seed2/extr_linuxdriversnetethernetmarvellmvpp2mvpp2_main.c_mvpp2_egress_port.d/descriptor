@@ -1,0 +1,2 @@
+struct mvpp2_port | id int 
+function mvpp2_egress_port int | port struct mvpp2_port *

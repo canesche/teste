@@ -1,0 +1,2 @@
+struct b53_device | chip_id long 
+function is539x int | dev struct b53_device *

@@ -1,0 +1,1 @@
+function R_BlendOverTexture void | data int * | pixelCount int | blend int [4]

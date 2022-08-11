@@ -1,0 +1,2 @@
+struct gb_power_supply | properties_count int | properties_count_str int 
+function total_props int | gbpsy struct gb_power_supply *

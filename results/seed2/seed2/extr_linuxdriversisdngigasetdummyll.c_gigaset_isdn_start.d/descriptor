@@ -1,0 +1,2 @@
+struct cardstate | dummy int 
+function gigaset_isdn_start void | cs struct cardstate *

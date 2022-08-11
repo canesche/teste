@@ -1,3 +1,0 @@
-struct rtw_regulatory | dummy int 
-struct ieee80211_regdomain | dummy int 
-function _rtw_regdomain_select const struct ieee80211_regdomain * | reg struct rtw_regulatory *

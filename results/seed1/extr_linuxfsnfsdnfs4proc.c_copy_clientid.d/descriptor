@@ -1,6 +1,0 @@
-struct TYPE_6__ | cl_id int | cl_boot int 
-struct nfsd4_sessionid | clientid struct TYPE_6__ 
-struct TYPE_5__ | data long 
-struct nfsd4_session | se_sessionid struct TYPE_5__ 
-struct TYPE_7__ | cl_id int | cl_boot int 
-function copy_clientid void | clid struct TYPE_7__ * | session struct nfsd4_session *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverss390ciodevice_fsm.c_ccw_device_reset_path_events.d/extr_linuxdriverss390ciodevice_fsm.c_ccw_device_reset_path_events_O0::ccw_device_reset_path_events(63)"
+  }
+]

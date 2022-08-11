@@ -1,0 +1,3 @@
+struct host1x | info struct TYPE_2__ * 
+struct TYPE_2__ | nb_bases unsigned int 
+function host1x_syncpt_nb_bases unsigned int | host struct host1x *

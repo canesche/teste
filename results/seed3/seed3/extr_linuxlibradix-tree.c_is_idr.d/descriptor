@@ -1,0 +1,2 @@
+struct radix_tree_root | gfp_mask int 
+function is_idr int | root const struct radix_tree_root *

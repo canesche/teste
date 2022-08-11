@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversledsleds-aat1290.c_aat1290_led_flash_timeout_set.d/extr_linuxdriversledsleds-aat1290.c_aat1290_led_flash_timeout_set_O0::aat1290_led_flash_timeout_set(63)"
+  }
+]

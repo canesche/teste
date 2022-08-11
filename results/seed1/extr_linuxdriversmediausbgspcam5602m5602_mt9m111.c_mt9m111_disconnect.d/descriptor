@@ -1,2 +1,0 @@
-struct sd | sensor int * 
-function mt9m111_disconnect void | sd struct sd *

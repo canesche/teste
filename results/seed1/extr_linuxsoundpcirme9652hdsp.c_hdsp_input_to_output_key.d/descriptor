@@ -1,2 +1,0 @@
-struct hdsp | io_type int | firmware_rev int 
-function hdsp_input_to_output_key int | hdsp struct hdsp * | in int | out int

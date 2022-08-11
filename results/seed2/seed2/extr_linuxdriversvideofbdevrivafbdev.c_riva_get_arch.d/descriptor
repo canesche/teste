@@ -1,0 +1,2 @@
+struct pci_dev | device int 
+function riva_get_arch int | pd struct pci_dev *

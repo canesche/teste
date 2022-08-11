@@ -1,0 +1,2 @@
+struct drm_i915_gem_object | active_count int 
+function i915_gem_object_is_active int | obj const struct drm_i915_gem_object *

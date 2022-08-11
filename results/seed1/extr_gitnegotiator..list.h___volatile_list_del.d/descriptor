@@ -1,2 +1,0 @@
-struct volatile_list_head | next volatile struct volatile_list_head * | prev volatile struct volatile_list_head * 
-function __volatile_list_del void | prev volatile struct volatile_list_head * | next volatile struct volatile_list_head *

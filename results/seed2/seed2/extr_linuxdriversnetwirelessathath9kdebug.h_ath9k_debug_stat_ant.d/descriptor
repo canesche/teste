@@ -1,0 +1,3 @@
+struct ath_softc | dummy int 
+struct ath_hw_antcomb_conf | dummy int 
+function ath9k_debug_stat_ant void | sc struct ath_softc * | div_ant_conf struct ath_hw_antcomb_conf * | main_rssi_avg int | alt_rssi_avg int

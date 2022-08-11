@@ -1,0 +1,2 @@
+struct radeon_device | dummy int 
+function sumo_take_smu_control void | rdev struct radeon_device * | enable int

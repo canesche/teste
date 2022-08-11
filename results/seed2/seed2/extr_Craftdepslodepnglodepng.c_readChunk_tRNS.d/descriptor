@@ -1,0 +1,2 @@
+struct TYPE_3__ | colortype long | palettesize unsigned long | palette unsigned char * | key_defined int | key_r int | key_g int | key_b int 
+function readChunk_tRNS unsigned int | color struct TYPE_3__ * | data const unsigned char * | chunkLength unsigned long

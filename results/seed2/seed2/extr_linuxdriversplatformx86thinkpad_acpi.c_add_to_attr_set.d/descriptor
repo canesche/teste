@@ -1,0 +1,4 @@
+struct TYPE_2__ | attrs struct attribute ** 
+struct attribute_set | members unsigned long | max_members unsigned long | group struct TYPE_2__ 
+struct attribute | dummy int 
+function add_to_attr_set int | s struct attribute_set * | attr struct attribute *

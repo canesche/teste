@@ -1,0 +1,1 @@
+function handle_invalid_continuation_frame int | conn int * | frame int * | err_desc const char **

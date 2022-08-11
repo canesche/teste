@@ -1,2 +1,0 @@
-struct TYPE_3__ | IWICBitmapDecoder_iface int 
-function BmpDecoder_GetWICDecoder void | This struct TYPE_3__ * | ppDecoder int **

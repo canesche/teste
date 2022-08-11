@@ -1,0 +1,3 @@
+struct TYPE_2__ | crtc_x int | crtc_y int 
+struct intel_plane_state | base struct TYPE_2__ 
+function intel_cursor_position int | plane_state const struct intel_plane_state *

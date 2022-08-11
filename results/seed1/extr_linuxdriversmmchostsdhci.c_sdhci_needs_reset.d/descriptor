@@ -1,7 +1,0 @@
-struct sdhci_host | flags int | quirks int 
-struct mmc_request | data struct TYPE_6__ * | sbc struct TYPE_8__ * | cmd struct TYPE_7__ * 
-struct TYPE_8__ | error long 
-struct TYPE_7__ | error long 
-struct TYPE_6__ | stop struct TYPE_5__ * 
-struct TYPE_5__ | error long 
-function sdhci_needs_reset int | host struct sdhci_host * | mrq struct mmc_request *

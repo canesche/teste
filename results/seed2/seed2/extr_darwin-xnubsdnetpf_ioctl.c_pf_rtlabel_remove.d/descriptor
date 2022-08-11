@@ -1,0 +1,2 @@
+struct pf_addr_wrap | dummy int 
+function pf_rtlabel_remove void | a struct pf_addr_wrap *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversstagingrtl8188eucorertw_wlan_util.c_decide_wait_for_beacon_timeout.d/extr_linuxdriversstagingrtl8188eucorertw_wlan_util.c_decide_wait_for_beacon_timeout_O0::decide_wait_for_beacon_timeout(62)"
+  }
+]

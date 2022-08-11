@@ -1,0 +1,4 @@
+struct TYPE_2__ | elements union acpi_object * 
+struct acpi_object | package struct TYPE_2__ 
+struct atk_data | old_interface int 
+function atk_get_pack_member union acpi_object * | data struct atk_data * | pack union acpi_object * | m enum atk_pack_member

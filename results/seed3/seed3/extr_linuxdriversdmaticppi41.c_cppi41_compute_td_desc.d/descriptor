@@ -1,0 +1,2 @@
+struct cppi41_desc | pd0 int 
+function cppi41_compute_td_desc void | d struct cppi41_desc *

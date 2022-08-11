@@ -1,0 +1,2 @@
+struct device | dummy int 
+function devm_rtc_device_match int | dev struct device * | res void * | data void *

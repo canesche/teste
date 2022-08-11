@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxarchs390kernelperf_cpum_cf.c_get_counter_set.d/extr_linuxarchs390kernelperf_cpum_cf.c_get_counter_set_O0::get_counter_set(68)"
+  }
+]

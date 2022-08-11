@@ -1,0 +1,3 @@
+struct brcms_c_info | bandlocked int | pub struct TYPE_2__ * 
+struct TYPE_2__ | _nbands int 
+function brcms_is_mband_unlocked int | wlc struct brcms_c_info *

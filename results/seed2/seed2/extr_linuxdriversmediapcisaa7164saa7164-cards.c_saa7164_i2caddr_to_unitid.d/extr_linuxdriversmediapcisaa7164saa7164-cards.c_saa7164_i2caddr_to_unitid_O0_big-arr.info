@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediapcisaa7164saa7164-cards.c_saa7164_i2caddr_to_unitid.d/extr_linuxdriversmediapcisaa7164saa7164-cards.c_saa7164_i2caddr_to_unitid_O0::saa7164_i2caddr_to_unitid(68)"
+  }
+]

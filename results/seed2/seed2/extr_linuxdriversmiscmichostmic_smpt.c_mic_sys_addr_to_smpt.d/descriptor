@@ -1,0 +1,4 @@
+struct mic_device | smpt struct TYPE_4__ * 
+struct TYPE_3__ | base int | page_shift int 
+struct TYPE_4__ | info struct TYPE_3__ 
+function mic_sys_addr_to_smpt int | mdev struct mic_device * | pa int

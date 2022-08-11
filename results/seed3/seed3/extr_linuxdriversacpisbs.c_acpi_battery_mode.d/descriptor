@@ -1,0 +1,2 @@
+struct acpi_battery | mode int 
+function acpi_battery_mode int | battery struct acpi_battery *

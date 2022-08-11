@@ -1,0 +1,5 @@
+struct rga_frame | stride unsigned int | width unsigned int | height unsigned int | fmt struct TYPE_2__ * 
+struct rga_addr_offset | y_off unsigned int | u_off unsigned int | v_off unsigned int 
+struct rga_corners_addr_offset | right_bottom struct rga_addr_offset | right_top struct rga_addr_offset | left_bottom struct rga_addr_offset | left_top struct rga_addr_offset 
+struct TYPE_2__ | x_div unsigned int | y_div unsigned int | uv_factor unsigned int 
+function rga_get_addr_offset struct rga_corners_addr_offset | frm struct rga_frame * | x unsigned int | y unsigned int | w unsigned int | h unsigned int

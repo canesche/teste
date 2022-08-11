@@ -1,0 +1,3 @@
+struct vb_device_info | VGAHDE unsigned short | HDE unsigned short | VGAVDE unsigned short | VDE unsigned short | TVInfo int | VBInfo int 
+struct XGI301C_Tap4TimingStruct | DE int 
+function XGI_GetTap4Ptr const struct XGI301C_Tap4TimingStruct * | tempcx unsigned short | pVBInfo struct vb_device_info *

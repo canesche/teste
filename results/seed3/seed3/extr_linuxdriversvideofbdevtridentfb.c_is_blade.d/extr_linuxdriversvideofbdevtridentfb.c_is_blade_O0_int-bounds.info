@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 9,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversvideofbdevtridentfb.c_is_blade.d/extr_linuxdriversvideofbdevtridentfb.c_is_blade_O0::is_blade(68)"
+  }
+]

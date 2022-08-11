@@ -1,0 +1,2 @@
+struct tcp_sock | ecn_flags int 
+function tcp_ecn_queue_cwr void | tp struct tcp_sock *

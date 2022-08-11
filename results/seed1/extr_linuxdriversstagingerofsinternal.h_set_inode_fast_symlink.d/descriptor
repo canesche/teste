@@ -1,2 +1,0 @@
-struct inode | i_op int * 
-function set_inode_fast_symlink void | inode struct inode *

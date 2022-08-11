@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_darwin-xnubsddevdtracefasttrap.c_fasttrap_highbit.d/extr_darwin-xnubsddevdtracefasttrap.c_fasttrap_highbit_O0::fasttrap_highbit(62)"
+  }
+]

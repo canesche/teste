@@ -1,0 +1,2 @@
+struct TYPE_2__ | events int 
+function os_epoll_triggered int | index int | events int

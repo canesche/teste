@@ -1,0 +1,5 @@
+struct TYPE_2__ | value long | fixed int | disabled long 
+struct iwreq_data | rts struct TYPE_2__ 
+struct rtllib_device | rts long 
+struct iw_request_info | dummy int 
+function rtllib_wx_set_rts int | ieee struct rtllib_device * | info struct iw_request_info * | wrqu union iwreq_data * | extra char *

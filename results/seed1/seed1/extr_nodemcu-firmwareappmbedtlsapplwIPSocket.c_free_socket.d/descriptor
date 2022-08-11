@@ -1,0 +1,2 @@
+struct TYPE_3__ | send_index long | send_buffer int * | recv_index long | recv_data_len long | conn int * 
+function free_socket void | sock struct TYPE_3__ *

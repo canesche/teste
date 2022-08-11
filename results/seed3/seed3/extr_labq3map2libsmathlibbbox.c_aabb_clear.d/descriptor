@@ -1,0 +1,2 @@
+struct TYPE_3__ | extents int * | origin long * 
+function aabb_clear void | aabb struct TYPE_3__ *

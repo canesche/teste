@@ -1,0 +1,2 @@
+struct rsc | conj int | idx int 
+function rsc_master int | rsc struct rsc *

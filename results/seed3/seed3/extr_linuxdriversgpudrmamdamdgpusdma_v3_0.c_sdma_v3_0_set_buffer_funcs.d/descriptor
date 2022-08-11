@@ -1,0 +1,5 @@
+struct TYPE_6__ | instance struct TYPE_5__ * 
+struct TYPE_4__ | buffer_funcs_ring int * | buffer_funcs int * 
+struct amdgpu_device | sdma struct TYPE_6__ | mman struct TYPE_4__ 
+struct TYPE_5__ | ring int 
+function sdma_v3_0_set_buffer_funcs void | adev struct amdgpu_device *

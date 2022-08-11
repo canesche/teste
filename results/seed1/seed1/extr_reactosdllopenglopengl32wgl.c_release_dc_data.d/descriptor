@@ -1,0 +1,2 @@
+struct wgl_dc_data | dummy int 
+function release_dc_data void | dc_data struct wgl_dc_data *

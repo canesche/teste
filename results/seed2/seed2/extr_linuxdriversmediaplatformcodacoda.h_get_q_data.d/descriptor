@@ -1,0 +1,3 @@
+struct coda_q_data | dummy int 
+struct coda_ctx | q_data struct coda_q_data * 
+function get_q_data struct coda_q_data * | ctx struct coda_ctx * | type enum v4l2_buf_type

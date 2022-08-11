@@ -1,0 +1,4 @@
+struct TYPE_7__ | cElement int | rgpElement struct TYPE_6__ ** 
+struct TYPE_5__ | dwErrorStatus int 
+struct TYPE_6__ | TrustStatus struct TYPE_5__ 
+function CRYPT_IsSimpleChainCyclic int | chain const struct TYPE_7__ *

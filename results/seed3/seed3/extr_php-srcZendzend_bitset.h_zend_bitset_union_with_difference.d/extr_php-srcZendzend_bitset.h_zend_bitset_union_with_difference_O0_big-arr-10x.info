@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 233,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_php-srcZendzend_bitset.h_zend_bitset_union_with_difference.d/extr_php-srcZendzend_bitset.h_zend_bitset_union_with_difference_O0::zend_bitset_union_with_difference(62)"
+  }
+]

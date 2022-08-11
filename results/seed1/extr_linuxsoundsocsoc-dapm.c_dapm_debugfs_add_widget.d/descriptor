@@ -1,2 +1,0 @@
-struct snd_soc_dapm_widget | dummy int 
-function dapm_debugfs_add_widget void | w struct snd_soc_dapm_widget *

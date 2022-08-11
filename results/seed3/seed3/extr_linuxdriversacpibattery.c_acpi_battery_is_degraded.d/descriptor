@@ -1,0 +1,2 @@
+struct acpi_battery | full_charge_capacity long | design_capacity long 
+function acpi_battery_is_degraded int | battery struct acpi_battery *

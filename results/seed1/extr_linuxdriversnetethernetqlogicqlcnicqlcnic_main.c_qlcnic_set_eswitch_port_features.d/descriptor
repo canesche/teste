@@ -1,3 +1,0 @@
-struct qlcnic_esw_func_cfg | promisc_mode int | mac_override int | mac_anti_spoof long 
-struct qlcnic_adapter | flags int 
-function qlcnic_set_eswitch_port_features void | adapter struct qlcnic_adapter * | esw_cfg struct qlcnic_esw_func_cfg *

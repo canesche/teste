@@ -1,0 +1,2 @@
+struct irq_desc | dummy int 
+function record_irq_time void | desc struct irq_desc *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_reactosdllwin32oleaut32typelib.c_tmp_fill_segdir_seg.d/extr_reactosdllwin32oleaut32typelib.c_tmp_fill_segdir_seg_O0::tmp_fill_segdir_seg(67)"
+  }
+]

@@ -1,0 +1,4 @@
+struct nf_proto_net | dummy int 
+struct nf_conntrack_l4proto | dummy int 
+struct net | dummy int 
+function nf_ct_l4proto_register_sysctl int | net struct net * | pn struct nf_proto_net * | l4proto const struct nf_conntrack_l4proto *

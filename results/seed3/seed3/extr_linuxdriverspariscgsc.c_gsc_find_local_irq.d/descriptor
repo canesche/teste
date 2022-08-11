@@ -1,0 +1,1 @@
+function gsc_find_local_irq int | irq unsigned int | global_irqs int * | limit int

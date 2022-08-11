@@ -1,2 +1,0 @@
-struct apei_exec_context | value int 
-function apei_exec_ctx_set_input void | ctx struct apei_exec_context * | input int

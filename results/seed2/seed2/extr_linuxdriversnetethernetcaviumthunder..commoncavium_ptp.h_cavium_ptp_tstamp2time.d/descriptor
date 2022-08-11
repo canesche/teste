@@ -1,0 +1,2 @@
+struct cavium_ptp | dummy int 
+function cavium_ptp_tstamp2time int | ptp struct cavium_ptp * | tstamp int

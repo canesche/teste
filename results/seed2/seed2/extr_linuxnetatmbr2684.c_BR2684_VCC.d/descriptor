@@ -1,0 +1,3 @@
+struct br2684_vcc | dummy int 
+struct atm_vcc | user_back long 
+function BR2684_VCC struct br2684_vcc * | atmvcc const struct atm_vcc *

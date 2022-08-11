@@ -1,0 +1,9 @@
+struct sci_user_parameters | stp_inactivity_timeout int | ssp_inactivity_timeout int | stp_max_occupancy_timeout int | ssp_max_occupancy_timeout int | no_outbound_task_timeout int | phys struct TYPE_8__ * 
+struct TYPE_6__ | max_concurr_spin_up int | do_enable_ssc int | cable_selection_mask long | mode_type int 
+struct sci_oem_params | phys struct TYPE_10__ * | ports struct TYPE_7__ * | controller struct TYPE_6__ 
+struct isci_host | id long | oem_parameters struct sci_oem_params | user_parameters struct sci_user_parameters 
+struct TYPE_9__ | high int | low long 
+struct TYPE_10__ | sas_address struct TYPE_9__ 
+struct TYPE_8__ | align_insertion_frequency int | in_connection_align_insertion_frequency int | notify_enable_spin_up_insertion_frequency int | max_speed_generation int 
+struct TYPE_7__ | phy_mask long 
+function sci_oem_defaults void | ihost struct isci_host *

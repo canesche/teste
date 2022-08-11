@@ -1,0 +1,2 @@
+struct pp_hwmgr | dummy int 
+function vega12_set_private_data_based_on_pptable int | hwmgr struct pp_hwmgr *

@@ -1,2 +1,0 @@
-struct map | end unsigned long | start unsigned long 
-function map__size unsigned long | map const struct map *

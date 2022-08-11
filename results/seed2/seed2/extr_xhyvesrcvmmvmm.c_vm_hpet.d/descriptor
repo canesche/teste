@@ -1,0 +1,3 @@
+struct vm | vhpet struct vhpet * 
+struct vhpet | dummy int 
+function vm_hpet struct vhpet * | vm struct vm *

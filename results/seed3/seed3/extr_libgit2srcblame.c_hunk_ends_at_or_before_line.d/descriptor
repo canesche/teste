@@ -1,0 +1,2 @@
+struct TYPE_3__ | final_start_line_number int | lines_in_hunk int 
+function hunk_ends_at_or_before_line int | hunk struct TYPE_3__ * | line unsigned long

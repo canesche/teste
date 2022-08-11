@@ -1,0 +1,2 @@
+struct TYPE_3__ | bounds_type int 
+function obs_sceneitem_get_bounds_type enum obs_bounds_type | item const struct TYPE_3__ *

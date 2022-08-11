@@ -1,0 +1,3 @@
+struct TYPE_2__ | output_flags int 
+struct obs_source | info struct TYPE_2__ 
+function is_async_video_source int | source const struct obs_source *

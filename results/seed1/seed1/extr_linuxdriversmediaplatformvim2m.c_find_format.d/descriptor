@@ -1,0 +1,5 @@
+struct vim2m_fmt | fourcc long 
+struct TYPE_3__ | pixelformat long 
+struct TYPE_4__ | pix struct TYPE_3__ 
+struct v4l2_format | fmt struct TYPE_4__ 
+function find_format struct vim2m_fmt * | f struct v4l2_format *

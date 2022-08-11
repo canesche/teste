@@ -1,2 +1,0 @@
-struct sk_buff | ip_summed int 
-function ax88179_rx_checksum void | skb struct sk_buff * | pkt_hdr int *

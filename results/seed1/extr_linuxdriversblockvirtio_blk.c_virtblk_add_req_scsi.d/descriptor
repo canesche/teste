@@ -1,4 +1,0 @@
-struct virtqueue | dummy int 
-struct virtblk_req | dummy int 
-struct scatterlist | dummy int 
-function virtblk_add_req_scsi int | vq struct virtqueue * | vbr struct virtblk_req * | data_sg struct scatterlist * | have_data int

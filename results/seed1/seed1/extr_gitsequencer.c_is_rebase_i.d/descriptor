@@ -1,0 +1,2 @@
+struct replay_opts | action long 
+function is_rebase_i int | opts const struct replay_opts *

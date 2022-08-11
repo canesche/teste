@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_labq3map2libspicomodelpicointernal.c__pico_parse_skip_white.d/extr_labq3map2libspicomodelpicointernal.c__pico_parse_skip_white_O0::_pico_parse_skip_white(62)"
+  }
+]

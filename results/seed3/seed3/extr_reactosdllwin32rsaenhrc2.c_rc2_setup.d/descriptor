@@ -1,0 +1,2 @@
+struct TYPE_3__ | xkey unsigned int * 
+function rc2_setup int | key const unsigned char * | keylen int | bits int | rounds int | rc2 struct TYPE_3__ *

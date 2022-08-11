@@ -1,2 +1,0 @@
-struct platform_device | dummy int 
-function intel_punit_ipc_remove int | pdev struct platform_device *

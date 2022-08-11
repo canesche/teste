@@ -1,2 +1,0 @@
-struct dvb_frontend | dummy int 
-function cxd2880_get_frontend_algo enum dvbfe_algo | fe struct dvb_frontend *

@@ -1,3 +1,0 @@
-struct vc4_plane | dummy int 
-struct drm_plane | dummy int 
-function to_vc4_plane struct vc4_plane * | plane struct drm_plane *

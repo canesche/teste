@@ -1,2 +1,0 @@
-struct cfg80211_registered_device | dummy int 
-function cfg80211_rdev_free_wowlan void | rdev struct cfg80211_registered_device *

@@ -1,0 +1,1 @@
+function reactivate_fd void | fd int | irqnum int

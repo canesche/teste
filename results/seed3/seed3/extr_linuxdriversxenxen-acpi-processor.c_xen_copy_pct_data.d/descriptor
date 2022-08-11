@@ -1,0 +1,3 @@
+struct xen_pct_register | address int | reserved int | bit_offset int | bit_width int | space_id int | length int | descriptor int 
+struct acpi_pct_register | address int | reserved int | bit_offset int | bit_width int | space_id int | length int | descriptor int 
+function xen_copy_pct_data int | pct struct acpi_pct_register * | dst_pct struct xen_pct_register *

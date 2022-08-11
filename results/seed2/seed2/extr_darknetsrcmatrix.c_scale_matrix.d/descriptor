@@ -1,0 +1,2 @@
+struct TYPE_3__ | rows int | cols int | vals float ** 
+function scale_matrix void | m struct TYPE_3__ | scale float

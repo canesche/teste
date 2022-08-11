@@ -1,0 +1,2 @@
+struct TYPE_3__ | n_accessuid long * | n_access int * 
+function nfs_node_access_slot int | np struct TYPE_3__ * | uid long | add int

@@ -1,0 +1,3 @@
+struct dsp_segment_desc | segment_type int 
+struct dsp_module_desc | nsegments int | segments struct dsp_segment_desc * 
+function get_segment_desc struct dsp_segment_desc * | module struct dsp_module_desc * | seg_type int

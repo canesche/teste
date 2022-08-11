@@ -1,0 +1,4 @@
+struct TYPE_2__ | plog_enabled int 
+struct bfad_s | plog_buf struct TYPE_2__ 
+struct bfa_bsg_portlogctl_s | ctl long | status int 
+function bfad_iocmd_porglog_ctl int | bfad struct bfad_s * | cmd void *

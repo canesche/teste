@@ -1,0 +1,2 @@
+struct stm32_spi | fifo_size int | cur_bpw int 
+function stm32_spi_prepare_fthlv int | spi struct stm32_spi *

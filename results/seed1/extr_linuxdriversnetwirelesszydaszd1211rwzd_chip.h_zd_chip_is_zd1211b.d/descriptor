@@ -1,3 +1,0 @@
-struct TYPE_2__ | is_zd1211b int 
-struct zd_chip | usb struct TYPE_2__ 
-function zd_chip_is_zd1211b int | chip struct zd_chip *

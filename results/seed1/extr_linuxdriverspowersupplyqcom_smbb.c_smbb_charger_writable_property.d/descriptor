@@ -1,2 +1,0 @@
-struct power_supply | dummy int 
-function smbb_charger_writable_property int | psy struct power_supply * | psp enum power_supply_property

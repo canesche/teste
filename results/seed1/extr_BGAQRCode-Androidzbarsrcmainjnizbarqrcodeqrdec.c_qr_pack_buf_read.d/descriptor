@@ -1,2 +1,0 @@
-struct TYPE_3__ | endbit int | storage int | endbyte int | buf unsigned char * 
-function qr_pack_buf_read int | _b struct TYPE_3__ * | _bits int

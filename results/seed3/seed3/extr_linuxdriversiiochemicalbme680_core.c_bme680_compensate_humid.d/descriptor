@@ -1,0 +1,3 @@
+struct bme680_calib | par_h4 int | par_h5 int | par_h6 int | par_h7 int | par_h2 long | par_h3 long | par_h1 long 
+struct bme680_data | t_fine int | bme680 struct bme680_calib 
+function bme680_compensate_humid int | data struct bme680_data * | adc_humid int

@@ -1,0 +1,1 @@
+function ib_mig_state_to_pvrdma enum pvrdma_mig_state | state enum ib_mig_state

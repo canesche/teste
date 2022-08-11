@@ -1,0 +1,3 @@
+struct max8952_platform_data | dummy int 
+struct device | dummy int 
+function max8952_parse_dt struct max8952_platform_data * | dev struct device *

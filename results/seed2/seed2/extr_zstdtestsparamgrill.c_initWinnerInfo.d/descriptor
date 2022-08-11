@@ -1,0 +1,3 @@
+struct TYPE_4__ | cSpeed int | dSpeed int | cMem unsigned long | cSize unsigned long 
+struct TYPE_5__ | params int | result struct TYPE_4__ 
+function initWinnerInfo struct TYPE_5__ | p const int

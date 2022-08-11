@@ -1,0 +1,3 @@
+struct scb | dummy int 
+struct ahc_softc | dummy int 
+function ahc_platform_scb_free void | ahc struct ahc_softc * | scb struct scb *

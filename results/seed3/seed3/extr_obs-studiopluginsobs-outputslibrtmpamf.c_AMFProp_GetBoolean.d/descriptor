@@ -1,0 +1,3 @@
+struct TYPE_4__ | p_number long 
+struct TYPE_5__ | p_vu struct TYPE_4__ 
+function AMFProp_GetBoolean int | prop struct TYPE_5__ *

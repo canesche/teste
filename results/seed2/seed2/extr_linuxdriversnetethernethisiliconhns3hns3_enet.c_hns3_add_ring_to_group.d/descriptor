@@ -1,0 +1,3 @@
+struct hns3_enet_ring_group | count int | ring struct hns3_enet_ring * 
+struct hns3_enet_ring | next struct hns3_enet_ring * 
+function hns3_add_ring_to_group void | group struct hns3_enet_ring_group * | ring struct hns3_enet_ring *

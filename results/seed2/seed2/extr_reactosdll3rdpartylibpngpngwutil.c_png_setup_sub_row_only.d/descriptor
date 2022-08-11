@@ -1,0 +1,2 @@
+struct TYPE_3__ | row_buf long * | try_row long * 
+function png_setup_sub_row_only void | png_ptr struct TYPE_3__ * | bpp unsigned long | row_bytes unsigned long

@@ -1,0 +1,2 @@
+struct nuc900_spi | tx unsigned int * 
+function hw_txbyte unsigned int | hw struct nuc900_spi * | count int

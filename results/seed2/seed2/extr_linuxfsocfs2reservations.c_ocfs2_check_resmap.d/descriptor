@@ -1,0 +1,2 @@
+struct ocfs2_reservation_map | dummy int 
+function ocfs2_check_resmap void | resmap struct ocfs2_reservation_map *

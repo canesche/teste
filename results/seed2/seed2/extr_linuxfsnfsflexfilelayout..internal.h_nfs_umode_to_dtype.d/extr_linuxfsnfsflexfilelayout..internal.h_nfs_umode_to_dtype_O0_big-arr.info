@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxfsnfsflexfilelayout..internal.h_nfs_umode_to_dtype.d/extr_linuxfsnfsflexfilelayout..internal.h_nfs_umode_to_dtype_O0::nfs_umode_to_dtype(62)"
+  }
+]

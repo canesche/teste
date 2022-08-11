@@ -1,0 +1,3 @@
+struct dvb_demux_feed | state long 
+struct dvb_demux | feednum int | feed struct dvb_demux_feed * 
+function dvb_dmx_feed_alloc struct dvb_demux_feed * | demux struct dvb_demux *

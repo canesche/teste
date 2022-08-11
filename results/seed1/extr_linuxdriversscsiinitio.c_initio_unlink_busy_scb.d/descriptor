@@ -1,4 +1,0 @@
-struct scsi_ctrl_blk | target unsigned long | next struct scsi_ctrl_blk * | tagmsg long 
-struct initio_host | targets struct TYPE_2__ * | act_tags int * | last_busy struct scsi_ctrl_blk * | first_busy struct scsi_ctrl_blk * 
-struct TYPE_2__ | flags int 
-function initio_unlink_busy_scb void | host struct initio_host * | scb struct scsi_ctrl_blk *

@@ -1,0 +1,8 @@
+struct bfa_lport_cfg_s | pwwn int | nwwn int | roles int 
+struct TYPE_6__ | port_cfg struct bfa_lport_cfg_s 
+struct bfa_fcs_fabric_s | fcs struct TYPE_10__ * | bport struct TYPE_6__ 
+struct TYPE_10__ | bfa struct TYPE_9__ * 
+struct TYPE_8__ | attr struct TYPE_7__ * 
+struct TYPE_9__ | ioc struct TYPE_8__ 
+struct TYPE_7__ | pwwn int | nwwn int 
+function bfa_fcs_fabric_init void | fabric struct bfa_fcs_fabric_s *

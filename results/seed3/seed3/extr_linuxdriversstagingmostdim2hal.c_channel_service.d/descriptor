@@ -1,0 +1,3 @@
+struct int_ch_state | service_counter long | request_counter long | level long 
+struct dim_channel | done_sw_buffers_number int | state struct int_ch_state 
+function channel_service int | ch struct dim_channel *

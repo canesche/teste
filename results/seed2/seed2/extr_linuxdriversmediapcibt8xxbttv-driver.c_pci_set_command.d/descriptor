@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function pci_set_command void | dev struct pci_dev *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | kcallstack_depth long 
+function kperf_action_set_kcallstack_depth int | action_id unsigned int | depth long

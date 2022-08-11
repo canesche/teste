@@ -1,0 +1,3 @@
+struct gbe_slave | phy struct TYPE_2__ * 
+struct TYPE_2__ | link long 
+function gbe_phy_link_status int | slave struct gbe_slave *

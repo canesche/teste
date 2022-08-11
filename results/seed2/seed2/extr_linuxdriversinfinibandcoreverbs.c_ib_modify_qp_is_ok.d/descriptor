@@ -1,0 +1,2 @@
+struct TYPE_2__ | req_param int * | opt_param int * | valid int 
+function ib_modify_qp_is_ok int | cur_state enum ib_qp_state | next_state enum ib_qp_state | type enum ib_qp_type | mask enum ib_qp_attr_mask | ll enum rdma_link_layer

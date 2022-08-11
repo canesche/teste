@@ -1,2 +1,0 @@
-struct gb_channel | mode int 
-function is_channel_flash int | channel struct gb_channel *

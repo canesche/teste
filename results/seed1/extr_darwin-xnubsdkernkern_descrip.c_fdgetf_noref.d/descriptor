@@ -1,4 +1,0 @@
-struct fileproc | dummy int 
-struct filedesc | fd_nfiles int | fd_ofileflags int * | fd_ofiles struct fileproc ** 
-struct TYPE_3__ | p_fd struct filedesc * 
-function fdgetf_noref int | p struct TYPE_3__ * | fd int | resultfp struct fileproc **

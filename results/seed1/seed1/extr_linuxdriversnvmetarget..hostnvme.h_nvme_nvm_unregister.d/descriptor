@@ -1,0 +1,2 @@
+struct nvme_ns | dummy int 
+function nvme_nvm_unregister void | ns struct nvme_ns *

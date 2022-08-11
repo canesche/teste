@@ -1,0 +1,3 @@
+struct TYPE_2__ | he_addr int 
+struct kvaser_cmd | header struct TYPE_2__ 
+function kvaser_usb_hydra_set_cmd_dest_he void | cmd struct kvaser_cmd * | dest_he int

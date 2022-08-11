@@ -1,2 +1,0 @@
-struct twl4030_priv | hsr_enabled int | hsl_enabled int | carkitr_enabled int | carkitl_enabled int | predriver_enabled int | predrivel_enabled int | earpiece_enabled int 
-function twl4030_can_write_to_chip int | twl4030 struct twl4030_priv * | reg unsigned int

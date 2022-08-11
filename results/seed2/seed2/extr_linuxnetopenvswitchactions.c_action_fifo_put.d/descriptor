@@ -1,0 +1,3 @@
+struct deferred_action | dummy int 
+struct action_fifo | head int | fifo struct deferred_action * 
+function action_fifo_put struct deferred_action * | fifo struct action_fifo *

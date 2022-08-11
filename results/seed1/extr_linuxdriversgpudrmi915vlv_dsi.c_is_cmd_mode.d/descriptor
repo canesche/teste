@@ -1,2 +1,0 @@
-struct intel_dsi | operation_mode long 
-function is_cmd_mode int | intel_dsi struct intel_dsi *

@@ -1,2 +1,0 @@
-struct snd_pcm_substream | dummy int 
-function all_substreams_zero int | subs struct snd_pcm_substream **

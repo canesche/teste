@@ -1,0 +1,1 @@
+value(TxBuffCount) == 10, length(TxBuff) == 100, length(DMATxDescTab) == 100

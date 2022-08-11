@@ -1,0 +1,3 @@
+struct line6_pcm_stream | dummy int 
+struct snd_line6_pcm | in struct line6_pcm_stream | out struct line6_pcm_stream 
+function get_stream struct line6_pcm_stream * | line6pcm struct snd_line6_pcm * | direction int

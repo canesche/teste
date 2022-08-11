@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 90,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 90,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_FFmpeglibavcodecffv1dec.c_copy_fields.d/extr_FFmpeglibavcodecffv1dec.c_copy_fields_O0::copy_fields(63)"
+  }
+]

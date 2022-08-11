@@ -1,0 +1,3 @@
+struct func_info | dst_last struct dst_insn * | dst_first struct dst_insn * 
+struct dst_insn | next struct dst_insn * 
+function dst_insn_insert_tail void | fp struct func_info *const | dp struct dst_insn *

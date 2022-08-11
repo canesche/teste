@@ -1,0 +1,2 @@
+struct TYPE_3__ | ready_state long | doc_state long 
+function set_doc_state void | This struct TYPE_3__ * | doc_state long

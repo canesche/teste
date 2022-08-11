@@ -1,0 +1,7 @@
+struct bnxt_ring_struct | nr_pages int | pg_arr void ** | vmem_size int | vmem void ** | dma_arr int | page_size void * 
+struct bnxt_tx_ring_info | tx_buf_ring int | tx_desc_mapping int | tx_desc_ring long | tx_ring_struct struct bnxt_ring_struct 
+struct bnxt_rx_ring_info | rx_agg_ring int | rx_agg_desc_mapping int | rx_agg_desc_ring long | rx_agg_ring_struct struct bnxt_ring_struct | rx_buf_ring int | rx_desc_mapping int | rx_desc_ring long | rx_ring_struct struct bnxt_ring_struct 
+struct bnxt_cp_ring_info | cp_desc_mapping int | cp_desc_ring long | cp_ring_struct struct bnxt_ring_struct 
+struct bnxt_napi | tx_ring struct bnxt_tx_ring_info * | rx_ring struct bnxt_rx_ring_info * | cp_ring struct bnxt_cp_ring_info 
+struct bnxt | cp_nr_rings int | cp_nr_pages int | rx_nr_pages int | rx_agg_nr_pages int | tx_nr_pages int | bnapi struct bnxt_napi ** 
+function bnxt_init_ring_struct void | bp struct bnxt *

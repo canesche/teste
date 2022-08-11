@@ -1,0 +1,2 @@
+struct smscore_device_t | mode int 
+function smscore_get_device_mode int | coredev struct smscore_device_t *

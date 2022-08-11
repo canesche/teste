@@ -1,3 +1,0 @@
-struct v4l2_ioctl_ops | dummy int 
-struct file | dummy int 
-function v4l_dbg_g_chip_info int | ops const struct v4l2_ioctl_ops * | file struct file * | fh void * | arg void *

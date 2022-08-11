@@ -1,0 +1,4 @@
+struct iwl_vif_priv | ctx struct iwl_rxon_context * 
+struct iwl_rxon_context | dummy int 
+struct ieee80211_vif | drv_priv long 
+function iwl_rxon_ctx_from_vif struct iwl_rxon_context * | vif struct ieee80211_vif *

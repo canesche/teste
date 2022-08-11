@@ -1,0 +1,1 @@
+function do_copy_page void | dst long * | src long *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediausbhdpvrhdpvr-video.c_vidioc_try_encoder_cmd.d/extr_linuxdriversmediausbhdpvrhdpvr-video.c_vidioc_try_encoder_cmd_O0::vidioc_try_encoder_cmd(66)"
+  }
+]

@@ -1,2 +1,0 @@
-struct vdpctx | recent_vsync_time long | vsync_interval long 
-function prev_vsync long | vc struct vdpctx * | ts long

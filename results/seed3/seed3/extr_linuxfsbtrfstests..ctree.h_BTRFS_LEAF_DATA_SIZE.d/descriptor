@@ -1,0 +1,3 @@
+struct btrfs_header | dummy int 
+struct btrfs_fs_info | nodesize long 
+function BTRFS_LEAF_DATA_SIZE long | info const struct btrfs_fs_info *

@@ -1,0 +1,3 @@
+struct sha256_mb_mgr | unused_lanes int | lens int * | ldata struct TYPE_2__ * 
+struct TYPE_2__ | job_in_lane int * 
+function sha256_mb_mgr_init_avx2 void | state struct sha256_mb_mgr *

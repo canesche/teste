@@ -1,2 +1,0 @@
-struct BufferedFile | BytesLeft unsigned int | Ptr void * 
-function BufferedFileRead void * | BF struct BufferedFile * | Length unsigned int

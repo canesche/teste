@@ -1,0 +1,3 @@
+struct TYPE_5__ | RedirList struct TYPE_4__ * 
+struct TYPE_4__ | Next struct TYPE_4__ * 
+function AddBatchRedirection int | RedirList struct TYPE_4__ **

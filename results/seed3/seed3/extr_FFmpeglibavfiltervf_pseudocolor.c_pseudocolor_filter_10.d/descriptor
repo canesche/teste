@@ -1,0 +1,1 @@
+function pseudocolor_filter_10 void | max int | width int | height int | index const unsigned long * | src const unsigned long * | dst unsigned long * | ilinesize int | slinesize int | dlinesize int | lut float *

@@ -1,0 +1,3 @@
+struct mcb_device_id | device long 
+struct mcb_device | id long 
+function mcb_match_id const struct mcb_device_id * | ids const struct mcb_device_id * | dev struct mcb_device *

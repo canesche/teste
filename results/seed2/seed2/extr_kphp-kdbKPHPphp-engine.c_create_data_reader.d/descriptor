@@ -1,0 +1,3 @@
+struct connection | dummy int 
+struct TYPE_3__ | len int | read int | extra struct connection * | readed long 
+function create_data_reader struct TYPE_3__ * | c struct connection * | data_len int

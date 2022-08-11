@@ -1,0 +1,2 @@
+struct uart_port | dummy int 
+function timbuart_break_ctl void | port struct uart_port * | ctl int

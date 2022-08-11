@@ -1,0 +1,3 @@
+struct TYPE_2__ | intercept unsigned long long | asid long | nested_ctl int 
+struct vmcb | control struct TYPE_2__ 
+function nested_vmcb_checks int | vmcb struct vmcb *

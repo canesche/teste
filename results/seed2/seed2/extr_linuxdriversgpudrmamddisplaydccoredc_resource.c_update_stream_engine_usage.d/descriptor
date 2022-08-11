@@ -1,0 +1,4 @@
+struct stream_encoder | dummy int 
+struct resource_pool | stream_enc_count int | stream_enc struct stream_encoder ** 
+struct resource_context | is_stream_enc_acquired int * 
+function update_stream_engine_usage void | res_ctx struct resource_context * | pool const struct resource_pool * | stream_enc struct stream_encoder * | acquired int

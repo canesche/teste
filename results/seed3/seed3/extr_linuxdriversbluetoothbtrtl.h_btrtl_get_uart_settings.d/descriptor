@@ -1,0 +1,3 @@
+struct hci_dev | dummy int 
+struct btrtl_device_info | dummy int 
+function btrtl_get_uart_settings int | hdev struct hci_dev * | btrtl_dev struct btrtl_device_info * | controller_baudrate unsigned int * | device_baudrate int * | flow_control int *

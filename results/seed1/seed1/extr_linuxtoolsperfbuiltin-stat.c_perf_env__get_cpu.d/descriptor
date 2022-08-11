@@ -1,0 +1,3 @@
+struct perf_env | nr_cpus_avail int 
+struct cpu_map | nr int | map int * 
+function perf_env__get_cpu int | env struct perf_env * | map struct cpu_map * | idx int

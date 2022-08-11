@@ -1,2 +1,0 @@
-struct vc_data | dummy int 
-function dummycon_font_copy int | vc struct vc_data * | con int

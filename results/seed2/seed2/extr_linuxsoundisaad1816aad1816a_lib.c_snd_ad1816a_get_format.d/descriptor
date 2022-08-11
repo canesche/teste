@@ -1,0 +1,2 @@
+struct snd_ad1816a | dummy int 
+function snd_ad1816a_get_format unsigned char | chip struct snd_ad1816a * | format int | channels int

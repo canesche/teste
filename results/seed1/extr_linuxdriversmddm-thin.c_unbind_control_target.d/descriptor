@@ -1,3 +1,0 @@
-struct pool | ti struct dm_target * 
-struct dm_target | dummy int 
-function unbind_control_target void | pool struct pool * | ti struct dm_target *

@@ -1,0 +1,1 @@
+function nfp_eth_copy_mac_reverse void | dst int * | src const int *

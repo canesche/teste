@@ -1,0 +1,3 @@
+struct rocker_port | wpriv struct ofdpa_port * 
+struct ofdpa_port | brport_flags unsigned long 
+function ofdpa_port_attr_bridge_flags_get int | rocker_port const struct rocker_port * | p_brport_flags unsigned long *

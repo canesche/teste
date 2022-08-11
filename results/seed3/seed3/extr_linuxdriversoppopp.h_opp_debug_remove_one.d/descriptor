@@ -1,0 +1,2 @@
+struct dev_pm_opp | dummy int 
+function opp_debug_remove_one void | opp struct dev_pm_opp *

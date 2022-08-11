@@ -1,0 +1,2 @@
+struct dvb_ca_en50221 | dummy int 
+function az6007_ci_slot_shutdown int | ca struct dvb_ca_en50221 * | slot int

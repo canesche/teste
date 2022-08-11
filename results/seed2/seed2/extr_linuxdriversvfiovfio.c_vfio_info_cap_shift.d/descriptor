@@ -1,0 +1,3 @@
+struct vfio_info_cap_header | next int 
+struct vfio_info_cap | buf long 
+function vfio_info_cap_shift void | caps struct vfio_info_cap * | offset unsigned long

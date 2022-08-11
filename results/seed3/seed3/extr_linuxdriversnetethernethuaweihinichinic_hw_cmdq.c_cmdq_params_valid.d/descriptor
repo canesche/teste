@@ -1,0 +1,2 @@
+struct hinic_cmdq_buf | size long 
+function cmdq_params_valid int | buf_in struct hinic_cmdq_buf *

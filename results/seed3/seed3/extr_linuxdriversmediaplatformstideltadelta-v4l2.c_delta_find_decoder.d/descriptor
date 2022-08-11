@@ -1,0 +1,4 @@
+struct delta_dev | nb_of_decoders unsigned int | decoders struct delta_dec ** 
+struct delta_dec | pixelformat long | streamformat long 
+struct delta_ctx | dev struct delta_dev * 
+function delta_find_decoder const struct delta_dec * | ctx struct delta_ctx * | streamformat long | pixelformat long

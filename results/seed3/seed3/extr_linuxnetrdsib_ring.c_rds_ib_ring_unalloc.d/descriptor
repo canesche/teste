@@ -1,0 +1,2 @@
+struct rds_ib_work_ring | w_alloc_ptr int | w_nr int | w_alloc_ctr int 
+function rds_ib_ring_unalloc void | ring struct rds_ib_work_ring * | val int

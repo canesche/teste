@@ -1,4 +1,0 @@
-struct picolcd_data | dummy int 
-struct hid_report | dummy int 
-struct hid_device | dummy int 
-function picolcd_debug_raw_event void | data struct picolcd_data * | hdev struct hid_device * | report struct hid_report * | raw_data int * | size int

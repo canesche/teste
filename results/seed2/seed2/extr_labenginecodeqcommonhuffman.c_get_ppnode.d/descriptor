@@ -1,0 +1,2 @@
+struct TYPE_3__ | freelist int ** | blocPtrs int | nodePtrs int ** 
+function get_ppnode int ** | huff struct TYPE_3__ *

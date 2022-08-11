@@ -1,0 +1,2 @@
+struct TYPE_2__ | psa_sigmask int 
+function posix_spawnattr_getsigmask int | attr int *const *__restrict | sigmask int *__restrict

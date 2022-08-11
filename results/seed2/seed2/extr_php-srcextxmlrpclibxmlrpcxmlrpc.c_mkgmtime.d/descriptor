@@ -1,0 +1,2 @@
+struct tm | tm_year int | tm_mon unsigned long | tm_mday int | tm_hour int | tm_min int | tm_sec long 
+function mkgmtime long | tm struct tm *

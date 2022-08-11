@@ -1,0 +1,2 @@
+struct TYPE_3__ | width int | height int | byte_data int * 
+function greyscaleFill void | p_greyscale struct TYPE_3__ * | val int

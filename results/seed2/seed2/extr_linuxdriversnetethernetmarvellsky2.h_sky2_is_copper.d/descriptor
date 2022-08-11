@@ -1,0 +1,2 @@
+struct sky2_hw | flags int 
+function sky2_is_copper int | hw const struct sky2_hw *

@@ -1,0 +1,4 @@
+struct kobject | dummy int 
+struct TYPE_2__ | parent struct kobject * 
+struct device | kobj struct TYPE_2__ 
+function get_glue_dir struct kobject * | dev struct device *

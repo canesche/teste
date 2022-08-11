@@ -1,0 +1,3 @@
+struct vmw_resource | func struct TYPE_2__ * 
+struct TYPE_2__ | needs_backup int 
+function vmw_resource_needs_backup int | res const struct vmw_resource *

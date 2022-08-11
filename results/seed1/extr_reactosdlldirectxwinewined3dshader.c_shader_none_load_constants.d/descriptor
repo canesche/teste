@@ -1,3 +1,0 @@
-struct wined3d_state | dummy int 
-struct wined3d_context | dummy int 
-function shader_none_load_constants void | shader_priv void * | context struct wined3d_context * | state const struct wined3d_state *

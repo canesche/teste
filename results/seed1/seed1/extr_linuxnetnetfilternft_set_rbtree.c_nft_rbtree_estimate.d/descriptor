@@ -1,0 +1,5 @@
+struct nft_set_estimate | size int | space int | lookup int 
+struct nft_set_desc | size int 
+struct nft_rbtree_elem | dummy int 
+struct nft_rbtree | dummy int 
+function nft_rbtree_estimate int | desc const struct nft_set_desc * | features int | est struct nft_set_estimate *

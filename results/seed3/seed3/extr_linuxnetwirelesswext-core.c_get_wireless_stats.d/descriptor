@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct iw_statistics | dummy int 
+function get_wireless_stats struct iw_statistics * | dev struct net_device *

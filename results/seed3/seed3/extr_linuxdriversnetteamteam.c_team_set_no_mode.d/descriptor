@@ -1,0 +1,2 @@
+struct team | user_carrier_enabled int | mode int * 
+function team_set_no_mode void | team struct team *

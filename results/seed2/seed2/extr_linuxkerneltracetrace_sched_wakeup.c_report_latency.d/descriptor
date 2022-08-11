@@ -1,0 +1,2 @@
+struct trace_array | max_latency long 
+function report_latency int | tr struct trace_array * | delta long

@@ -1,0 +1,1 @@
+function ZSTD_errorFrameSizeInfoLegacy void | cSize unsigned long * | dBound unsigned long long * | ret unsigned long

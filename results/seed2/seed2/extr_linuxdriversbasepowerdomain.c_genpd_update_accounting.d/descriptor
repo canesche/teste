@@ -1,0 +1,2 @@
+struct generic_pm_domain | dummy int 
+function genpd_update_accounting void | genpd struct generic_pm_domain *

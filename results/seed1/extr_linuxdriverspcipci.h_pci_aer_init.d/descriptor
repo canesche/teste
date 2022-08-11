@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function pci_aer_init int | d struct pci_dev *

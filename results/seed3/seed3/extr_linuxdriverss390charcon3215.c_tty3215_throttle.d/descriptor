@@ -1,0 +1,3 @@
+struct tty_struct | driver_data long 
+struct raw3215_info | flags int 
+function tty3215_throttle void | tty struct tty_struct *

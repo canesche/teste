@@ -1,2 +1,0 @@
-struct rcu_segcblist | len long | len_lazy long 
-function rcu_segcblist_n_nonlazy_cbs long | rsclp struct rcu_segcblist *

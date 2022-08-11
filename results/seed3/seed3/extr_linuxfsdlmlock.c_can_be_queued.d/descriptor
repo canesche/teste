@@ -1,0 +1,2 @@
+struct dlm_lkb | lkb_exflags int 
+function can_be_queued int | lkb struct dlm_lkb *

@@ -1,0 +1,3 @@
+struct tcf_ematch | data long 
+struct canid_match | dummy int 
+function em_canid_priv struct canid_match * | m struct tcf_ematch *

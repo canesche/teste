@@ -1,2 +1,0 @@
-struct cm_lap_msg | offset61 int 
-function cm_lap_set_packet_rate void | lap_msg struct cm_lap_msg * | packet_rate int

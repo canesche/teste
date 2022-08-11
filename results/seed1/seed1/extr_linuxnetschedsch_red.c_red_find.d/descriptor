@@ -1,0 +1,2 @@
+struct Qdisc | dummy int 
+function red_find unsigned long | sch struct Qdisc * | classid int

@@ -1,2 +1,0 @@
-struct amdgpu_device | dummy int 
-function si_get_smc_power_scaling_factor int | adev struct amdgpu_device *

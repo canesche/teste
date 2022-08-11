@@ -1,0 +1,1 @@
+function strncpy char * | dest char * | src const char * | count unsigned long

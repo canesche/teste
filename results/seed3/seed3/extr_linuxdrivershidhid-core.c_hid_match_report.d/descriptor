@@ -1,0 +1,5 @@
+struct hid_report_id | report_type long 
+struct hid_report | type long 
+struct hid_device | driver struct TYPE_2__ * 
+struct TYPE_2__ | report_table struct hid_report_id * 
+function hid_match_report int | hid struct hid_device * | report struct hid_report *

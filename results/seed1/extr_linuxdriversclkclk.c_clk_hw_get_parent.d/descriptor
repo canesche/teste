@@ -1,4 +1,0 @@
-struct clk_hw | core struct TYPE_4__ * 
-struct TYPE_4__ | parent struct TYPE_3__ * 
-struct TYPE_3__ | hw struct clk_hw * 
-function clk_hw_get_parent struct clk_hw * | hw const struct clk_hw *

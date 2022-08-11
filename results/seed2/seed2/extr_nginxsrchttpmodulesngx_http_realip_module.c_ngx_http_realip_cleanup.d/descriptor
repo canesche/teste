@@ -1,0 +1,3 @@
+struct TYPE_3__ | addr_text int | socklen int | sockaddr int | connection struct TYPE_4__ * 
+struct TYPE_4__ | addr_text int | socklen int | sockaddr int 
+function ngx_http_realip_cleanup void | data void *

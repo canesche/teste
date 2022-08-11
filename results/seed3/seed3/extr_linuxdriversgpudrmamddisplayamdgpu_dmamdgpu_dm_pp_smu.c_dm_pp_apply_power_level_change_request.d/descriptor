@@ -1,0 +1,3 @@
+struct dm_pp_power_level_change_request | dummy int 
+struct dc_context | dummy int 
+function dm_pp_apply_power_level_change_request int | ctx const struct dc_context * | level_change_req struct dm_pp_power_level_change_request *

@@ -1,3 +1,0 @@
-struct TYPE_2__ | memalloc_noio int 
-struct device | power struct TYPE_2__ 
-function dev_memalloc_noio int | dev struct device * | data void *

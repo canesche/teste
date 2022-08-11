@@ -1,0 +1,4 @@
+struct wl1271_rx_descriptor | status int 
+struct wl1271 | dummy int 
+struct sk_buff | ip_summed int 
+function wl18xx_set_rx_csum void | wl struct wl1271 * | desc struct wl1271_rx_descriptor * | skb struct sk_buff *

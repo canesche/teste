@@ -1,0 +1,2 @@
+struct ef4_channel | dummy int 
+function ef4_channel_dummy_op_int int | channel struct ef4_channel *

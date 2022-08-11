@@ -1,3 +1,0 @@
-struct mac_driver | mac_cb struct hns_mac_cb * 
-struct hns_mac_cb | speed int | half_duplex int 
-function hns_gmac_need_adjust_link int | mac_drv void * | speed enum mac_speed | duplex int

@@ -1,0 +1,2 @@
+struct dc_plane_state | irq_source long 
+function enable_surface_flip_reporting void | plane_state struct dc_plane_state * | controller_id long

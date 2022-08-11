@@ -1,0 +1,1 @@
+function arm_decode_bitfield const char * | ptr const char * | insn unsigned long | valuep unsigned long * | widthp int *

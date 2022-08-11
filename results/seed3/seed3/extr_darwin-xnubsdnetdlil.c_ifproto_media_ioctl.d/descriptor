@@ -1,0 +1,2 @@
+struct ifnet | dummy int 
+function ifproto_media_ioctl int | ifp struct ifnet * | protocol int | command unsigned long | argument void *

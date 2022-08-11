@@ -1,0 +1,6 @@
+struct TYPE_12__ | width long | height long | format long 
+struct TYPE_11__ | cur_pic_ptr struct TYPE_9__ * 
+struct TYPE_10__ | f struct TYPE_12__ * 
+struct TYPE_9__ | f struct TYPE_8__ * 
+struct TYPE_8__ | width long | height long | format long 
+function mismatches_ref int | h const struct TYPE_11__ * | pic const struct TYPE_10__ *

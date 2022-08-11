@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversthunderbolticm.c_icm_fr_get_switch_index.d/extr_linuxdriversthunderbolticm.c_icm_fr_get_switch_index_O0::icm_fr_get_switch_index(64)"
+  }
+]

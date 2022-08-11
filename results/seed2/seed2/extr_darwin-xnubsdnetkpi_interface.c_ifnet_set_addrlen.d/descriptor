@@ -1,0 +1,3 @@
+struct TYPE_4__ | ifi_addrlen int 
+struct TYPE_5__ | if_data struct TYPE_4__ 
+function ifnet_set_addrlen int | interface struct TYPE_5__ * | addrlen int

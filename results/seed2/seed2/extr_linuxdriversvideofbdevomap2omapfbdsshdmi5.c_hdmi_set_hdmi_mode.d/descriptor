@@ -1,0 +1,4 @@
+struct omap_dss_device | dummy int 
+struct TYPE_3__ | hdmi_dvi_mode int 
+struct TYPE_4__ | cfg struct TYPE_3__ 
+function hdmi_set_hdmi_mode int | dssdev struct omap_dss_device * | hdmi_mode int

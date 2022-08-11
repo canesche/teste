@@ -1,0 +1,2 @@
+struct rme32 | wcreg int | playback_frlog int | capture_frlog int 
+function snd_rme32_setframelog void | rme32 struct rme32 * | n_channels int | is_playback int

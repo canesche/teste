@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_xhyvesrcvmmvmm_instruction_emul.c_pf_error_code.d/extr_xhyvesrcvmmvmm_instruction_emul.c_pf_error_code_O0::pf_error_code(70)"
+  }
+]

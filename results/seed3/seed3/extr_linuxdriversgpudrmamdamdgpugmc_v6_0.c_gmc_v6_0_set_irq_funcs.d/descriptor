@@ -1,0 +1,4 @@
+struct TYPE_3__ | num_types int | funcs int * 
+struct TYPE_4__ | vm_fault struct TYPE_3__ 
+struct amdgpu_device | gmc struct TYPE_4__ 
+function gmc_v6_0_set_irq_funcs void | adev struct amdgpu_device *

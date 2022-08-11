@@ -1,0 +1,2 @@
+struct iTCO_wdt_private | iTCO_version int 
+function no_reboot_bit int | p struct iTCO_wdt_private *

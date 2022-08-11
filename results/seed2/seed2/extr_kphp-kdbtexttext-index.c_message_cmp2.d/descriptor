@@ -1,0 +1,2 @@
+struct TYPE_4__ | date int 
+function message_cmp2 int | a struct TYPE_4__ * | b struct TYPE_4__ *

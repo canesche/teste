@@ -1,0 +1,4 @@
+struct s5k5baf_fw | count int | seq struct TYPE_2__ * | data long * 
+struct s5k5baf | fw struct s5k5baf_fw * 
+struct TYPE_2__ | id long | offset int 
+function s5k5baf_fw_get_seq long * | state struct s5k5baf * | seq_id long

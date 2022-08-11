@@ -1,0 +1,2 @@
+struct TYPE_3__ | numleafbrushes int | firstleafbrush int 
+function Q2_SetLeafBrushesModelNumbers void | leafnum int | modelnum int

@@ -1,0 +1,5 @@
+struct nfcmrvl_spi_drv_data | nci_spi struct TYPE_2__ * 
+struct nfcmrvl_private | drv_data struct nfcmrvl_spi_drv_data * 
+struct nfcmrvl_fw_spi_config | clk int 
+struct TYPE_2__ | xfer_speed_hz int 
+function nfcmrvl_spi_nci_update_config void | priv struct nfcmrvl_private * | param const void *

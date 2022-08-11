@@ -1,2 +1,0 @@
-struct file | f_mode int 
-function snd_seq_file_flags unsigned short | file struct file *

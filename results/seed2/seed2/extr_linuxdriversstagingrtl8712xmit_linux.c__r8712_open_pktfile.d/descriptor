@@ -1,0 +1,3 @@
+struct pkt_file | buf_start int | cur_buffer int | buf_len int | pkt_len int | cur_addr int | pkt struct TYPE_3__ * 
+struct TYPE_3__ | len int | data int 
+function _r8712_open_pktfile void | pktptr struct TYPE_3__ * | pfile struct pkt_file *

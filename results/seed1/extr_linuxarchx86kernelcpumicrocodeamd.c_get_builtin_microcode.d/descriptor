@@ -1,2 +1,0 @@
-struct cpio_data | dummy int 
-function get_builtin_microcode int | cp struct cpio_data * | family unsigned int

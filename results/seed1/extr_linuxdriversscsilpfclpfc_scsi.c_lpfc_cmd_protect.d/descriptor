@@ -1,2 +1,0 @@
-struct scsi_cmnd | dummy int 
-function lpfc_cmd_protect unsigned int | sc struct scsi_cmnd * | flag int

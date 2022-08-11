@@ -1,2 +1,0 @@
-struct jit_ctx | image unsigned int * | idx unsigned long 
-function emit_call void | func int * | ctx struct jit_ctx *

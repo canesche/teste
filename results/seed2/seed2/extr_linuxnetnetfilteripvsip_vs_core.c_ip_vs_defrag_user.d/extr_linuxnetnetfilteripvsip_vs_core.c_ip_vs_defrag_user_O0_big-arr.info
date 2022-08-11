@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxnetnetfilteripvsip_vs_core.c_ip_vs_defrag_user.d/extr_linuxnetnetfilteripvsip_vs_core.c_ip_vs_defrag_user_O0::ip_vs_defrag_user(66)"
+  }
+]

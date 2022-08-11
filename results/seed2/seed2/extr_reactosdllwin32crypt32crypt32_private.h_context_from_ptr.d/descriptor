@@ -1,0 +1,1 @@
+function context_from_ptr int * | ptr const void *

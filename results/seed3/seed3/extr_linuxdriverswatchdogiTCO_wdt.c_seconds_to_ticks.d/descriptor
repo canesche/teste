@@ -1,0 +1,2 @@
+struct iTCO_wdt_private | iTCO_version int 
+function seconds_to_ticks unsigned int | p struct iTCO_wdt_private * | secs int

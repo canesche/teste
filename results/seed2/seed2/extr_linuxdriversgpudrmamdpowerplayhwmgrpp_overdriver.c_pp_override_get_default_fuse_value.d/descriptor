@@ -1,0 +1,2 @@
+struct phm_fuses_default | key long | VFT0_b int | VFT0_m2 int | VFT0_m1 int | VFT1_b int | VFT1_m2 int | VFT1_m1 int | VFT2_b int | VFT2_m2 int | VFT2_m1 int 
+function pp_override_get_default_fuse_value int | key long | result struct phm_fuses_default *

@@ -1,0 +1,1 @@
+function conv_ascii2bin unsigned char | a unsigned char | table const unsigned char *

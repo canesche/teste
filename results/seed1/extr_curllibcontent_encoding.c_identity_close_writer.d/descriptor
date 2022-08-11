@@ -1,2 +1,0 @@
-struct connectdata | dummy int 
-function identity_close_writer void | conn struct connectdata * | writer int *

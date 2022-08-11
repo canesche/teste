@@ -1,3 +1,0 @@
-struct inode | dummy int 
-struct file | dummy int 
-function nfs_fscache_open_file void | inode struct inode * | filp struct file *

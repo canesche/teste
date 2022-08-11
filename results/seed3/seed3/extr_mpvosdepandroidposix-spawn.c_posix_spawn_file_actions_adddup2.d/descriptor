@@ -1,0 +1,3 @@
+struct TYPE_5__ | used unsigned long | action struct TYPE_4__ * 
+struct TYPE_4__ | filedes int | newfiledes int 
+function posix_spawn_file_actions_adddup2 int | fa struct TYPE_5__ * | fd int | newfd int

@@ -1,0 +1,4 @@
+struct sockbuf_info | sbi_timeo int | sbi_flags int | sbi_lowat int | sbi_mbmax int | sbi_mbcnt int | sbi_hiwat int | sbi_cc int 
+struct TYPE_2__ | tv_sec int | tv_usec int 
+struct sockbuf | sb_timeo struct TYPE_2__ | sb_flags int | sb_lowat int | sb_mbmax int | sb_mbcnt int | sb_hiwat int | sb_cc int 
+function fill_sockbuf_info void | sb struct sockbuf * | sbi struct sockbuf_info *

@@ -1,0 +1,5 @@
+struct symbol | dummy int 
+struct property | expr struct TYPE_4__ * 
+struct TYPE_3__ | sym struct symbol * 
+struct TYPE_4__ | type long | left struct TYPE_3__ 
+function prop_get_symbol struct symbol * | prop struct property *

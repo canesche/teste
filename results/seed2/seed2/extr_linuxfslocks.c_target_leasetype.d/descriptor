@@ -1,0 +1,2 @@
+struct file_lock | fl_flags int | fl_type int 
+function target_leasetype int | fl struct file_lock *

@@ -1,3 +1,0 @@
-struct task_struct | dummy int 
-struct mm_struct | dummy int 
-function mm_init_owner void | mm struct mm_struct * | p struct task_struct *

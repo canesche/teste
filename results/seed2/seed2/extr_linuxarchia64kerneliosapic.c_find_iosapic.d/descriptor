@@ -1,0 +1,2 @@
+struct TYPE_2__ | gsi_base unsigned int | num_rte unsigned int 
+function find_iosapic int | gsi unsigned int

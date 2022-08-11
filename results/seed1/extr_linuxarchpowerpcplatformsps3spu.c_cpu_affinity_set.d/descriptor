@@ -1,2 +1,0 @@
-struct spu | dummy int 
-function cpu_affinity_set void | spu struct spu * | cpu int

@@ -1,0 +1,4 @@
+struct arc_operand_value | type unsigned long | value int 
+struct arc_operand | dummy int 
+struct arc_ext_operand_value | next struct arc_ext_operand_value * | operand const struct arc_operand_value 
+function arc_opcode_lookup_suffix const struct arc_operand_value * | type const struct arc_operand * | value int

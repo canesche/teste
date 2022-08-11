@@ -1,0 +1,4 @@
+struct scif_mmu_notif | dummy int 
+struct scif_endpt_rma_info | dummy int 
+struct mm_struct | dummy int 
+function scif_find_mmu_notifier struct scif_mmu_notif * | mm struct mm_struct * | rma struct scif_endpt_rma_info *

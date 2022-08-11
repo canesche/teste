@@ -1,0 +1,5 @@
+struct us_data | extra long 
+struct sense_data | ErrorCode int | AdditionalSenseLength int | AdditionalSenseCodeQualifier long | AdditionalSenseCode long | Flags void * 
+struct scsi_cmnd | sense_buffer int * 
+struct isd200_info | ATARegs unsigned char * 
+function isd200_build_sense void | us struct us_data * | srb struct scsi_cmnd *

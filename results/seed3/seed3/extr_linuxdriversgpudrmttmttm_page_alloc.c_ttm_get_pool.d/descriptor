@@ -1,0 +1,3 @@
+struct ttm_page_pool | dummy int 
+struct TYPE_2__ | pools struct ttm_page_pool * 
+function ttm_get_pool struct ttm_page_pool * | flags int | huge int | cstate enum ttm_caching_state

@@ -1,3 +1,0 @@
-struct dispc_device | feat struct TYPE_2__ * 
-struct TYPE_2__ | mgr_width_max long | mgr_height_max long 
-function _dispc_mgr_size_ok int | dispc struct dispc_device * | width long | height long

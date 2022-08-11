@@ -1,3 +1,0 @@
-struct altera_jtag | ir_buffer int * | dr_buffer int * | ir_post_data int * | ir_pre_data int * | dr_post_data int * | dr_pre_data int * | ir_length long | dr_length long | ir_post long | ir_pre long | dr_post long | dr_pre long | irstop_state void * | drstop_state void * | jtag_state int 
-struct altera_state | js struct altera_jtag 
-function altera_jinit int | astate struct altera_state *

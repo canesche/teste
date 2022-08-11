@@ -1,0 +1,2 @@
+struct TYPE_3__ | input_stream char * | eof char * | parse_point char * | string_storage char * | string_storage_len int 
+function stb_c_lexer_init void | lexer struct TYPE_3__ * | input_stream const char * | input_stream_end const char * | string_store char * | store_length int

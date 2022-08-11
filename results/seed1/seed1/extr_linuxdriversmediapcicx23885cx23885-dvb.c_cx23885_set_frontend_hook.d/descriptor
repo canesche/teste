@@ -1,0 +1,4 @@
+struct TYPE_2__ | set_frontend int 
+struct dvb_frontend | ops struct TYPE_2__ 
+struct cx23885_tsport | set_frontend int 
+function cx23885_set_frontend_hook void | port struct cx23885_tsport * | fe struct dvb_frontend *

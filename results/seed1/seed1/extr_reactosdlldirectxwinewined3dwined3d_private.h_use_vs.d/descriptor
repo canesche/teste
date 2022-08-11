@@ -1,0 +1,3 @@
+struct wined3d_state | vertex_declaration struct TYPE_2__ * | shader long * 
+struct TYPE_2__ | position_transformed int 
+function use_vs int | state const struct wined3d_state *

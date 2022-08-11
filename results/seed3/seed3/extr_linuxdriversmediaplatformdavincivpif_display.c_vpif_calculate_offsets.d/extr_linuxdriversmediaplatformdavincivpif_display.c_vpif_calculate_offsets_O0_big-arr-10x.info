@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 7,
+    exit: true,
+    halt: false,
+    edges: 22,
+    static: {
+      instructions: 79,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 79,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmediaplatformdavincivpif_display.c_vpif_calculate_offsets.d/extr_linuxdriversmediaplatformdavincivpif_display.c_vpif_calculate_offsets_O0::vpif_calculate_offsets(81)"
+  }
+]

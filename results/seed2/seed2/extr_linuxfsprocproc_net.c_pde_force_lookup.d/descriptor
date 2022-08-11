@@ -1,0 +1,2 @@
+struct proc_dir_entry | proc_dops int * 
+function pde_force_lookup void | pde struct proc_dir_entry *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5622,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_reactosdll3rdpartylibtifftif_swab.c_TIFFSwabArrayOfTriples.d/extr_reactosdll3rdpartylibtifftif_swab.c_TIFFSwabArrayOfTriples_O0::TIFFSwabArrayOfTriples(63)"
+  }
+]

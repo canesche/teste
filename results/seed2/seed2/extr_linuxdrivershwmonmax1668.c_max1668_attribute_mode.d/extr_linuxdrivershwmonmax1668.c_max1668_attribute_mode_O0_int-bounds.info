@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 24,
+    static: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdrivershwmonmax1668.c_max1668_attribute_mode.d/extr_linuxdrivershwmonmax1668.c_max1668_attribute_mode_O0::max1668_attribute_mode(117)"
+  }
+]

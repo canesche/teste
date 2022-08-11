@@ -1,0 +1,2 @@
+struct tracer | dummy int 
+function run_tracer_selftest int | type struct tracer *

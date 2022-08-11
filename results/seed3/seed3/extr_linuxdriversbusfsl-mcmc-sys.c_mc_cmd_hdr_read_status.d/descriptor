@@ -1,0 +1,3 @@
+struct mc_cmd_header | status int 
+struct fsl_mc_command | header int 
+function mc_cmd_hdr_read_status enum mc_cmd_status | cmd struct fsl_mc_command *

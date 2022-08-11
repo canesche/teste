@@ -1,0 +1,2 @@
+struct snd_ca_midi | rmidi int * | get_dev_id_port int * | get_dev_id_card int * | write int * | read int * | interrupt_disable int * | interrupt_enable int * | interrupt int * 
+function ca_midi_free void | midi struct snd_ca_midi *

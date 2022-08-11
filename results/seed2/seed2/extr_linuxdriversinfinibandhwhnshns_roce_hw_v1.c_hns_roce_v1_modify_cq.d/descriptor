@@ -1,0 +1,2 @@
+struct ib_cq | dummy int 
+function hns_roce_v1_modify_cq int | cq struct ib_cq * | cq_count int | cq_period int

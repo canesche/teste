@@ -1,0 +1,3 @@
+struct samsung_pll_rate_table | rate unsigned long 
+struct samsung_clk_pll | rate_count int | rate_table struct samsung_pll_rate_table * 
+function samsung_get_pll_settings const struct samsung_pll_rate_table * | pll struct samsung_clk_pll * | rate unsigned long

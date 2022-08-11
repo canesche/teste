@@ -1,0 +1,2 @@
+struct socket | dummy int 
+function svc_shutdown int | sock struct socket * | how int

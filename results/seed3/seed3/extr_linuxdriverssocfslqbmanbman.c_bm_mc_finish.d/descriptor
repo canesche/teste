@@ -1,0 +1,2 @@
+struct bm_portal | dummy int 
+function bm_mc_finish void | portal struct bm_portal *

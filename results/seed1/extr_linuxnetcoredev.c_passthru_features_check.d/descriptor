@@ -1,3 +1,0 @@
-struct sk_buff | dummy int 
-struct net_device | dummy int 
-function passthru_features_check int | skb struct sk_buff * | dev struct net_device * | features int

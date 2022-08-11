@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int 
+function mark_ref void | frame struct TYPE_3__ * | flag int

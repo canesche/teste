@@ -1,0 +1,2 @@
+struct sw_flow_id | ufid_len int 
+function ovs_identifier_is_ufid int | sfid const struct sw_flow_id *

@@ -1,0 +1,5 @@
+struct hid_usage_id | usage_type int | usage_hid int | usage_code int 
+struct hid_usage | hid int | type int | code int 
+struct hid_device | driver struct TYPE_2__ * 
+struct TYPE_2__ | usage_table struct hid_usage_id * 
+function hid_match_usage int | hid struct hid_device * | usage struct hid_usage *

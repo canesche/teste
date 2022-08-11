@@ -1,0 +1,4 @@
+struct TYPE_8__ | next struct TYPE_8__ * | prev struct TYPE_6__ * 
+struct TYPE_7__ | pPeriodicAdvise struct TYPE_8__ * | pSingleShotAdvise struct TYPE_8__ * 
+struct TYPE_6__ | next struct TYPE_8__ * 
+function QUARTZ_RemoveAviseEntryFromQueue void | This struct TYPE_7__ * | pEntry struct TYPE_8__ *

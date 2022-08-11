@@ -1,0 +1,3 @@
+struct TYPE_5__ | access_unit_size_pow2 unsigned int | noise_buffer int * | substream struct TYPE_4__ * 
+struct TYPE_4__ | noisegen_seed int 
+function fill_noise_buffer void | m struct TYPE_5__ * | substr unsigned int

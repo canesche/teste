@@ -1,0 +1,4 @@
+struct sk_buff | dummy int 
+struct ieee80211_sta | dummy int 
+struct ieee80211_hw | dummy int 
+function rtl_usb_tx_chk_waitq_insert int | hw struct ieee80211_hw * | sta struct ieee80211_sta * | skb struct sk_buff *

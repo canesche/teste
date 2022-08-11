@@ -1,2 +1,0 @@
-struct TYPE_3__ | len unsigned long | data unsigned long 
-function ngx_http_log_copy_short long * | r int * | buf long * | op struct TYPE_3__ *

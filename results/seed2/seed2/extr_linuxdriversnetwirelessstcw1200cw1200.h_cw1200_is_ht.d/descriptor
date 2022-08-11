@@ -1,0 +1,2 @@
+struct cw1200_ht_info | channel_type long 
+function cw1200_is_ht int | ht_info const struct cw1200_ht_info *

@@ -1,0 +1,2 @@
+struct pinctrl_map | dummy int 
+function pinconf_validate_map int | map const struct pinctrl_map * | i int

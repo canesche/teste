@@ -1,1 +1,0 @@
-function ngx_rtmp_core_merge_app_conf char * | cf int * | parent void * | child void *

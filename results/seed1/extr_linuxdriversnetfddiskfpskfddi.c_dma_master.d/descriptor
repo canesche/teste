@@ -1,3 +1,0 @@
-struct TYPE_2__ | SharedMemAddr long | SharedMemDMA long 
-struct s_smc | os struct TYPE_2__ 
-function dma_master long | smc struct s_smc * | virt void * | len int | flag int

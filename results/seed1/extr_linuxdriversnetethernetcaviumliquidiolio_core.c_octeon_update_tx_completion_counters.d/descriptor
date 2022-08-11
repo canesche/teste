@@ -1,4 +1,0 @@
-struct sk_buff | len long 
-struct octnet_buf_free_info | skb struct sk_buff * 
-struct octeon_soft_command | callback_arg struct sk_buff * 
-function octeon_update_tx_completion_counters void | buf void * | reqtype int | pkts_compl unsigned int * | bytes_compl unsigned int *

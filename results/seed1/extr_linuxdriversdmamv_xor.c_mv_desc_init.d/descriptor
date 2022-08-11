@@ -1,3 +1,0 @@
-struct mv_xor_desc_slot | hw_desc struct mv_xor_desc * 
-struct mv_xor_desc | byte_count int | phy_dest_addr int | desc_command int | phy_next_desc long | status int 
-function mv_desc_init void | desc struct mv_xor_desc_slot * | addr int | byte_count int | flags enum dma_ctrl_flags

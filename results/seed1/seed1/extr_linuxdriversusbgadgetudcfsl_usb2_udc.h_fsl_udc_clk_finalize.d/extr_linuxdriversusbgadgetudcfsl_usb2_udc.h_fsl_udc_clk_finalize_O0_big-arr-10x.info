@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversusbgadgetudcfsl_usb2_udc.h_fsl_udc_clk_finalize.d/extr_linuxdriversusbgadgetudcfsl_usb2_udc.h_fsl_udc_clk_finalize_O0::fsl_udc_clk_finalize(61)"
+  }
+]

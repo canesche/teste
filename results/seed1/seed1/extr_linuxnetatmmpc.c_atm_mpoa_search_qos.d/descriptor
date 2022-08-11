@@ -1,0 +1,2 @@
+struct atm_mpoa_qos | ipaddr long | next struct atm_mpoa_qos * 
+function atm_mpoa_search_qos struct atm_mpoa_qos * | dst_ip long

@@ -1,0 +1,2 @@
+struct net_device | watchdog_timeo int | flags int | ethtool_ops int * | tx_queue_len int | type int | hard_header_len int | addr_len int | features int | netdev_ops int * | header_ops int * 
+function fwnet_init_dev void | net struct net_device *

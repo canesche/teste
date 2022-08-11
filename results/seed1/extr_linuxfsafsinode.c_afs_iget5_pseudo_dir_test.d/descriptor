@@ -1,2 +1,0 @@
-struct inode | dummy int 
-function afs_iget5_pseudo_dir_test int | inode struct inode * | opaque void *

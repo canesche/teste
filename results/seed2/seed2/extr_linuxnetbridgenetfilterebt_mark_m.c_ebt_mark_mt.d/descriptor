@@ -1,0 +1,4 @@
+struct xt_action_param | matchinfo struct ebt_mark_m_info * 
+struct sk_buff | mark int 
+struct ebt_mark_m_info | bitmask int | mask int | invert int | mark int 
+function ebt_mark_mt int | skb const struct sk_buff * | par struct xt_action_param *

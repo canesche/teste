@@ -1,0 +1,3 @@
+struct status_msg | dummy int 
+struct st_hba | status_tail int | sts_count int | status_buffer struct status_msg * 
+function stex_get_status struct status_msg * | hba struct st_hba *

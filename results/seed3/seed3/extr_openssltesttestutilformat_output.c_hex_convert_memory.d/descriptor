@@ -1,0 +1,1 @@
+function hex_convert_memory void | m const unsigned char * | n unsigned long | b char * | width unsigned long

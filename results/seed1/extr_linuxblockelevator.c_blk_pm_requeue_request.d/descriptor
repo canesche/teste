@@ -1,2 +1,0 @@
-struct request | dummy int 
-function blk_pm_requeue_request void | rq struct request *

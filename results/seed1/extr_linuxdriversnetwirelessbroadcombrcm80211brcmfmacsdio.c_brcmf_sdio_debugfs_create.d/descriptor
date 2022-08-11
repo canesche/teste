@@ -1,2 +1,0 @@
-struct brcmf_sdio | dummy int 
-function brcmf_sdio_debugfs_create void | bus struct brcmf_sdio *

@@ -1,3 +1,0 @@
-struct vm_area_struct | vm_start long | vm_end long | vm_mm struct TYPE_2__ * 
-struct TYPE_2__ | start_stack long 
-function is_stack int | vma struct vm_area_struct *

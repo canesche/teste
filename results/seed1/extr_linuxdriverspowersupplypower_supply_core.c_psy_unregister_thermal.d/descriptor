@@ -1,2 +1,0 @@
-struct power_supply | dummy int 
-function psy_unregister_thermal void | psy struct power_supply *

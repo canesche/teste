@@ -1,0 +1,2 @@
+struct esp | dummy int 
+function mac_esp_dma_drain void | esp struct esp *

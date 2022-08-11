@@ -1,0 +1,4 @@
+struct intel_uncore_box | pmu struct TYPE_4__ * 
+struct TYPE_4__ | type struct TYPE_3__ * 
+struct TYPE_3__ | fixed_ctr_bits int 
+function uncore_fixed_ctr_bits int | box struct intel_uncore_box *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | can_insert int | expecting long | in_escape long | stopfl long | level long | pos long | tok_last long 
+function jsonsl_reset void | jsn struct TYPE_3__ *

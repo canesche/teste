@@ -1,3 +1,0 @@
-struct TYPE_2__ | region int 
-struct fmdev | rx struct TYPE_2__ 
-function fmc_update_region_info void | fmdev struct fmdev * | region_to_set unsigned long

@@ -1,0 +1,3 @@
+struct TYPE_4__ | glyphs int ** 
+struct TYPE_3__ | page struct TYPE_4__ ** 
+function get_cache_glyph int | psc long * | c int

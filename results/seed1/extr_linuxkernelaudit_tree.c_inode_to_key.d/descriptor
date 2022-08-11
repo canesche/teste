@@ -1,2 +1,0 @@
-struct inode | i_fsnotify_marks int 
-function inode_to_key unsigned long | inode const struct inode *

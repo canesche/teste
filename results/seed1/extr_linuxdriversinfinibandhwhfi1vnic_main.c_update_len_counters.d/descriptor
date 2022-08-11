@@ -1,2 +1,0 @@
-struct opa_vnic_grp_stats | s_64 int | s_65_127 int | s_128_255 int | s_256_511 int | s_512_1023 int | s_1024_1518 int | s_1519_max int 
-function update_len_counters void | grp struct opa_vnic_grp_stats * | len int

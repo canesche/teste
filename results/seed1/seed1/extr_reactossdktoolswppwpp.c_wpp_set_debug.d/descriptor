@@ -1,0 +1,2 @@
+struct TYPE_2__ | debug int 
+function wpp_set_debug void | lex_debug int | parser_debug int | msg_debug int

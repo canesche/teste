@@ -1,0 +1,1 @@
+function _libkernel_strchr char * | p const char * | ch int

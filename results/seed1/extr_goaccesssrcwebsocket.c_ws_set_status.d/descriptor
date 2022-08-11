@@ -1,2 +1,0 @@
-struct TYPE_3__ | status int 
-function ws_set_status int | client struct TYPE_3__ * | status int | bytes int

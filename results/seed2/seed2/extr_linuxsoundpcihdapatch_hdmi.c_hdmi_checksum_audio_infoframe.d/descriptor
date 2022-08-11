@@ -1,0 +1,2 @@
+struct hdmi_audio_infoframe | checksum long 
+function hdmi_checksum_audio_infoframe void | hdmi_ai struct hdmi_audio_infoframe *

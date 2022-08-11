@@ -1,1 +1,0 @@
-function permute void | dst int [64] | src int const[64] | perm_type enum idct_permutation_type

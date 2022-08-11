@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmi915intel_overlay.c_check_overlay_possible_on_crtc.d/extr_linuxdriversgpudrmi915intel_overlay.c_check_overlay_possible_on_crtc_O0::check_overlay_possible_on_crtc(66)"
+  }
+]

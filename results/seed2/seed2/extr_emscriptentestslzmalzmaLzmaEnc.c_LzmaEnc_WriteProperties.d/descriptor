@@ -1,0 +1,2 @@
+struct TYPE_2__ | dictSize int | pb int | lp int | lc long 
+function LzmaEnc_WriteProperties int | pp long | props long * | size long *

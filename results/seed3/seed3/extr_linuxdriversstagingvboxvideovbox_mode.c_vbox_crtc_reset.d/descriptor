@@ -1,0 +1,2 @@
+struct drm_crtc | dummy int 
+function vbox_crtc_reset void | crtc struct drm_crtc *

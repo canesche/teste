@@ -1,0 +1,4 @@
+struct TYPE_5__ | devices_param struct TYPE_6__ * 
+struct TYPE_6__ | skipped int 
+struct TYPE_7__ | opencl_ctx struct TYPE_5__ * 
+function status_get_skipped_dev int | hashcat_ctx const struct TYPE_7__ * | device_id const int

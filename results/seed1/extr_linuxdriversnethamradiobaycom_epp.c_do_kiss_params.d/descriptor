@@ -1,3 +1,0 @@
-struct TYPE_2__ | tx_delay unsigned char | ppersist unsigned char | slottime unsigned char | tx_tail unsigned char | fulldup int 
-struct baycom_state | ch_params struct TYPE_2__ 
-function do_kiss_params void | bc struct baycom_state * | data unsigned char * | len unsigned long

@@ -1,0 +1,4 @@
+struct rmi_device | dummy int 
+struct TYPE_2__ | bustype int | vendor int 
+struct input_dev | id struct TYPE_2__ | name int 
+function rmi_driver_set_input_params int | rmi_dev struct rmi_device * | input struct input_dev *

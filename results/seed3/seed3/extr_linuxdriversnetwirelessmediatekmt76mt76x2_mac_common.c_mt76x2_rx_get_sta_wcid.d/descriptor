@@ -1,0 +1,5 @@
+struct mt76_wcid | dummy int 
+struct mt76x2_sta | vif struct TYPE_2__ * | wcid struct mt76_wcid 
+struct mt76x2_dev | dummy int 
+struct TYPE_2__ | group_wcid struct mt76_wcid 
+function mt76x2_rx_get_sta_wcid struct mt76_wcid * | dev struct mt76x2_dev * | sta struct mt76x2_sta * | unicast int

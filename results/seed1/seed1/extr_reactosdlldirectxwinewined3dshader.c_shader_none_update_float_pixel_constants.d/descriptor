@@ -1,0 +1,2 @@
+struct wined3d_device | dummy int 
+function shader_none_update_float_pixel_constants void | device struct wined3d_device * | start int | count int

@@ -1,0 +1,2 @@
+struct pp_hwmgr | dummy int 
+function vega12_odn_initialize_default_settings int | hwmgr struct pp_hwmgr *

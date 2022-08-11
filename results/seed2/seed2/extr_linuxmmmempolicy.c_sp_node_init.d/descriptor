@@ -1,0 +1,3 @@
+struct sp_node | start unsigned long | end unsigned long | policy struct mempolicy * 
+struct mempolicy | dummy int 
+function sp_node_init void | node struct sp_node * | start unsigned long | end unsigned long | pol struct mempolicy *

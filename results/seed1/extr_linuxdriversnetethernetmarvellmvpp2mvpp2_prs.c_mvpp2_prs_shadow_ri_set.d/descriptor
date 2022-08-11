@@ -1,3 +1,0 @@
-struct mvpp2 | prs_shadow struct TYPE_2__ * 
-struct TYPE_2__ | ri_mask unsigned int | ri unsigned int 
-function mvpp2_prs_shadow_ri_set void | priv struct mvpp2 * | index int | ri unsigned int | ri_mask unsigned int

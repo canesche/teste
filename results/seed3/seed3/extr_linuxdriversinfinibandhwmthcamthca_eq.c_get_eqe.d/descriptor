@@ -1,0 +1,4 @@
+struct mthca_eqe | dummy int 
+struct mthca_eq | nent int | page_list struct TYPE_2__ * 
+struct TYPE_2__ | buf struct mthca_eqe * 
+function get_eqe struct mthca_eqe * | eq struct mthca_eq * | entry int

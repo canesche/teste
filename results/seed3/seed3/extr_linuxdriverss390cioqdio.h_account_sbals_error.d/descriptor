@@ -1,0 +1,3 @@
+struct TYPE_2__ | nr_sbal_error int | nr_sbal_total int 
+struct qdio_q | q_stats struct TYPE_2__ 
+function account_sbals_error void | q struct qdio_q * | count int

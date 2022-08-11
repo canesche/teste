@@ -1,0 +1,4 @@
+struct vega12_hwmgr | clk_range struct TYPE_2__ * 
+struct pp_hwmgr | backend long 
+struct TYPE_2__ | ACMin int | ACMax int 
+function vega12_get_clock_ranges int | hwmgr struct pp_hwmgr * | clock int * | clock_select unsigned long | max int

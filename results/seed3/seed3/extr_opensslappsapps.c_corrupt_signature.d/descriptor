@@ -1,0 +1,2 @@
+struct TYPE_3__ | data unsigned char * | length int 
+function corrupt_signature void | signature const struct TYPE_3__ *

@@ -1,0 +1,4 @@
+struct btree_keys_ops | dummy int 
+struct btree_keys | expensive_debug_checks int * | set struct TYPE_2__ * | last_set_unwritten long | nsets long | ops const struct btree_keys_ops * 
+struct TYPE_2__ | data int * | size long 
+function bch_btree_keys_init void | b struct btree_keys * | ops const struct btree_keys_ops * | expensive_debug_checks int *

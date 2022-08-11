@@ -1,0 +1,4 @@
+struct sock | dummy int 
+struct sk_buff | dummy int 
+struct dst_entry | dummy int 
+function dn_dst_redirect void | dst struct dst_entry * | sk struct sock * | skb struct sk_buff *

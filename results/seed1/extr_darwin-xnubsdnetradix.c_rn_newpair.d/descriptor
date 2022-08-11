@@ -1,2 +1,0 @@
-struct radix_node | rn_bit int | rn_bmask int | rn_offset int | rn_mklist int * | rn_flags int | rn_parent struct radix_node * | rn_key long | rn_left struct radix_node * 
-function rn_newpair struct radix_node * | v void * | b int | nodes struct radix_node [2]

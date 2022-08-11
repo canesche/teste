@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_php-srcextpdo_dblibdblib_stmt.c_pdo_dblib_get_field_name.d/extr_php-srcextpdo_dblibdblib_stmt.c_pdo_dblib_get_field_name_O0::pdo_dblib_get_field_name(60)"
+  }
+]

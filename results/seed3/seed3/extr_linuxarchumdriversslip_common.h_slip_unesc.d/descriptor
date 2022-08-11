@@ -1,0 +1,1 @@
+function slip_unesc int | c unsigned char | buf unsigned char * | pos int * | esc int *

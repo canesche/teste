@@ -1,0 +1,3 @@
+struct qstr | dummy int 
+struct inode | dummy int 
+function ext4_init_security int | handle int * | inode struct inode * | dir struct inode * | qstr const struct qstr *

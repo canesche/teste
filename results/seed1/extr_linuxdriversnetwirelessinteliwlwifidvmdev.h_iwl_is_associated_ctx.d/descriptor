@@ -1,3 +1,0 @@
-struct TYPE_2__ | filter_flags int 
-struct iwl_rxon_context | active struct TYPE_2__ 
-function iwl_is_associated_ctx int | ctx struct iwl_rxon_context *

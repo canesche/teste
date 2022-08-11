@@ -1,1 +1,0 @@
-function _RpcGetPrinterDriver2 int | hPrinter int | pEnvironment int * | Level int | pDriver int * | cbBuf int | pcbNeeded int * | dwClientMajorVersion int | dwClientMinorVersion int | pdwServerMaxVersion int * | pdwServerMinVersion int *

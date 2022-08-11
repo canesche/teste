@@ -1,0 +1,1 @@
+function ParseInt int | s const char * | low int | high int | result int *

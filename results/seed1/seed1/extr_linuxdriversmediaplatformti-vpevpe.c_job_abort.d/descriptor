@@ -1,0 +1,2 @@
+struct vpe_ctx | aborting int 
+function job_abort void | priv void *

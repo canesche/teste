@@ -1,0 +1,2 @@
+struct tomoyo_name_union | filename long | group long 
+function tomoyo_same_name_union int | a const struct tomoyo_name_union * | b const struct tomoyo_name_union *

@@ -1,0 +1,6 @@
+struct TYPE_7__ | argarray_count unsigned long | argarray struct TYPE_10__ * 
+struct TYPE_9__ | resarray_count unsigned long | resarray struct TYPE_8__ * 
+struct TYPE_11__ | args struct TYPE_7__ | res struct TYPE_9__ 
+struct TYPE_10__ | op int 
+struct TYPE_8__ | op int 
+function set_expected_res void | compound struct TYPE_11__ *

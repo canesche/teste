@@ -1,0 +1,2 @@
+struct video_device | ioctl_ops int * 
+function cx18_set_funcs void | vdev struct video_device *

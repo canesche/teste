@@ -1,0 +1,3 @@
+struct diffstat_t | nr int | files struct diffstat_file ** 
+struct diffstat_file | deleted int | added int 
+function diffstat_consume void | priv void * | line char * | len unsigned long

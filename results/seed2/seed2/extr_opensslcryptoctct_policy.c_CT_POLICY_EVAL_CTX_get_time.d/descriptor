@@ -1,0 +1,2 @@
+struct TYPE_3__ | epoch_time_in_ms int 
+function CT_POLICY_EVAL_CTX_get_time int | ctx const struct TYPE_3__ *

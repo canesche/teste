@@ -1,2 +1,0 @@
-struct fuse_iqueue | reqctr int 
-function fuse_get_unique int | fiq struct fuse_iqueue *

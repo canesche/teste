@@ -1,2 +1,0 @@
-struct amdtp_stream | packet_index long 
-function amdtp_streaming_error int | s struct amdtp_stream *

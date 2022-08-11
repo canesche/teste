@@ -1,0 +1,4 @@
+struct TYPE_8__ | uNumTools unsigned long | tools struct TYPE_6__ * 
+struct TYPE_7__ | hwnd long | uId long 
+struct TYPE_6__ | uFlags int | hwnd long | uId long 
+function TOOLTIPS_GetToolFromInfoT unsigned long | infoPtr const struct TYPE_8__ * | lpToolInfo const struct TYPE_7__ *

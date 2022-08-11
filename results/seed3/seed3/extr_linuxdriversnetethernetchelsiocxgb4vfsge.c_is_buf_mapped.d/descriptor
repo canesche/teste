@@ -1,0 +1,2 @@
+struct rx_sw_desc | dma_addr int 
+function is_buf_mapped int | sdesc const struct rx_sw_desc *

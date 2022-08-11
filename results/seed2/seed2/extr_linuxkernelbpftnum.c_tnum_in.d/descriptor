@@ -1,0 +1,2 @@
+struct tnum | mask int | value int 
+function tnum_in int | a struct tnum | b struct tnum

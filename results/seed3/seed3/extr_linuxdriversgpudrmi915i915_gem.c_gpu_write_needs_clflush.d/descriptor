@@ -1,0 +1,2 @@
+struct drm_i915_gem_object | cache_level long 
+function gpu_write_needs_clflush int | obj struct drm_i915_gem_object *

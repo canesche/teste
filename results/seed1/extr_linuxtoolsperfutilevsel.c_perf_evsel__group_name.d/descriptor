@@ -1,2 +1,0 @@
-struct perf_evsel | group_name long 
-function perf_evsel__group_name const char * | evsel struct perf_evsel *

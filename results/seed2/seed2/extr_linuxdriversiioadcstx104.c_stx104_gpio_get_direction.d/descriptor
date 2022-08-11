@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function stx104_gpio_get_direction int | chip struct gpio_chip * | offset unsigned int

@@ -1,0 +1,2 @@
+struct s_smc | dummy int 
+function smt_timer_poll void | smc struct s_smc *

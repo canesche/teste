@@ -1,2 +1,0 @@
-struct msg | type int 
-function redis_argkvx int | r struct msg *

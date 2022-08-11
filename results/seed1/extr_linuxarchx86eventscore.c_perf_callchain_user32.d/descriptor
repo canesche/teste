@@ -1,3 +1,0 @@
-struct pt_regs | dummy int 
-struct perf_callchain_entry_ctx | dummy int 
-function perf_callchain_user32 int | regs struct pt_regs * | entry struct perf_callchain_entry_ctx *

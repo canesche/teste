@@ -1,0 +1,3 @@
+struct scsi_cmnd | cmnd unsigned char * | device struct TYPE_2__ * 
+struct TYPE_2__ | type long 
+function falcon_classify_cmd int | cmd struct scsi_cmnd *

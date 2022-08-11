@@ -1,2 +1,0 @@
-struct packed_git | pack_keep_in_core long | pack_keep long | pack_local long 
-function want_found_object int | exclude int | p struct packed_git *

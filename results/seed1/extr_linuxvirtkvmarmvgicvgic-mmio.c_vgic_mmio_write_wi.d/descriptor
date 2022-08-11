@@ -1,2 +1,0 @@
-struct kvm_vcpu | dummy int 
-function vgic_mmio_write_wi void | vcpu struct kvm_vcpu * | addr int | len unsigned int | val unsigned long

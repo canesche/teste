@@ -1,0 +1,2 @@
+struct b43_wldev | __using_pio_transfers int 
+function b43_using_pio_transfers int | dev struct b43_wldev *

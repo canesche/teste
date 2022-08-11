@@ -1,0 +1,5 @@
+struct vub300_mmc_host | total_offload_count int | fn struct TYPE_2__ * 
+struct offload_registers_access | command_byte unsigned long * | Respond_Byte int * 
+struct mmc_command | arg int | resp unsigned long * 
+struct TYPE_2__ | offload_point int | offload_count unsigned long | reg struct offload_registers_access * 
+function examine_cyclic_buffer int | vub300 struct vub300_mmc_host * | cmd struct mmc_command * | Function unsigned long

@@ -1,0 +1,2 @@
+struct bitmask | size unsigned int | maskp unsigned long * 
+function _setbit void | bmp struct bitmask * | n unsigned int | v unsigned int

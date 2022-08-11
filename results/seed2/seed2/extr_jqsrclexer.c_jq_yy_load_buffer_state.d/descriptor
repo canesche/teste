@@ -1,0 +1,3 @@
+struct yyguts_t | yy_c_buf_p int * | yy_hold_char int | yytext_ptr int * | yy_n_chars int 
+struct TYPE_2__ | yy_input_file int | yy_buf_pos int * | yy_n_chars int 
+function yy_load_buffer_state void | yyscanner long

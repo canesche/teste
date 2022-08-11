@@ -1,2 +1,0 @@
-struct histb_combphy_mode | fixed long 
-function is_mode_fixed int | mode struct histb_combphy_mode *

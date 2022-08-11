@@ -1,5 +1,0 @@
-struct rv6xx_power_info | dummy int 
-struct TYPE_3__ | priv struct rv6xx_power_info * 
-struct TYPE_4__ | dpm struct TYPE_3__ 
-struct radeon_device | pm struct TYPE_4__ 
-function rv6xx_get_pi struct rv6xx_power_info * | rdev struct radeon_device *

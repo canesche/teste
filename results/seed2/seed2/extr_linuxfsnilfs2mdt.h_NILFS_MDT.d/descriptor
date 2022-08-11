@@ -1,0 +1,3 @@
+struct nilfs_mdt_info | dummy int 
+struct inode | i_private struct nilfs_mdt_info * 
+function NILFS_MDT struct nilfs_mdt_info * | inode const struct inode *

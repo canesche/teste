@@ -1,0 +1,4 @@
+struct s_smc | y struct TYPE_4__ * 
+struct TYPE_4__ | mib struct TYPE_3__ * 
+struct TYPE_3__ | fddiPORTPCMState long | fddiPORTNeighborType long 
+function pcm_rooted_station int | smc struct s_smc *

@@ -1,0 +1,1 @@
+function ff_matrix_mul_3x3 void | dst double [3][3] | src1 double const[3][3] | src2 double const[3][3]

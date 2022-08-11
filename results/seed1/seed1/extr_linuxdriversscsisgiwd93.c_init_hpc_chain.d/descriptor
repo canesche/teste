@@ -1,0 +1,4 @@
+struct ip22_hostdata | dma long | cpu long 
+struct TYPE_2__ | pnext long | cntinfo int 
+struct hpc_chunk | desc struct TYPE_2__ 
+function init_hpc_chain void | hdata struct ip22_hostdata *

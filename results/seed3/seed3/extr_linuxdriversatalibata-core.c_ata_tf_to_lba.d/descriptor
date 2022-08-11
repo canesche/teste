@@ -1,0 +1,2 @@
+struct ata_taskfile | device int | lbah int | lbam int | lbal int 
+function ata_tf_to_lba int | tf const struct ata_taskfile *

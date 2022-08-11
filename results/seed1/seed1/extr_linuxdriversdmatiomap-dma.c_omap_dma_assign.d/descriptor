@@ -1,0 +1,4 @@
+struct omap_dmadev | lch_map struct omap_chan ** | plat struct TYPE_2__ * | base long 
+struct omap_chan | channel_base long 
+struct TYPE_2__ | channel_stride unsigned int 
+function omap_dma_assign void | od struct omap_dmadev * | c struct omap_chan * | lch unsigned int

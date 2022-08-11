@@ -1,0 +1,2 @@
+struct vector | num_elts int 
+function vector_length unsigned int | v const struct vector *

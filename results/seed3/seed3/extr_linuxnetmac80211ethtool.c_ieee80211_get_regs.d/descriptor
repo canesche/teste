@@ -1,0 +1,5 @@
+struct wireless_dev | wiphy struct TYPE_2__ * 
+struct net_device | ieee80211_ptr struct wireless_dev * 
+struct ethtool_regs | len long | version int 
+struct TYPE_2__ | hw_version int 
+function ieee80211_get_regs void | dev struct net_device * | regs struct ethtool_regs * | data void *

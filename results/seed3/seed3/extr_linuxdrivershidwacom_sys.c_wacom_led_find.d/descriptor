@@ -1,0 +1,5 @@
+struct wacom_led | dummy int 
+struct wacom_group_leds | count unsigned int | leds struct wacom_led * 
+struct TYPE_2__ | count unsigned int | groups struct wacom_group_leds * 
+struct wacom | led struct TYPE_2__ 
+function wacom_led_find struct wacom_led * | wacom struct wacom * | group_id unsigned int | id unsigned int

@@ -1,2 +1,0 @@
-struct module_layout | dummy int 
-function disable_ro_nx void | layout const struct module_layout *

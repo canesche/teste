@@ -1,0 +1,2 @@
+struct lm3533_ctrlbank | id long 
+function lm3533_ctrlbank_get_reg long | cb struct lm3533_ctrlbank * | base long

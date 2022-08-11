@@ -1,0 +1,2 @@
+struct ioat_raw_descriptor | field long * 
+function xor_set_src void | descs struct ioat_raw_descriptor *[2] | addr long | offset long | idx int

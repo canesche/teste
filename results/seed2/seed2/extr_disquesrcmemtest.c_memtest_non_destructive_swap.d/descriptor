@@ -1,0 +1,1 @@
+function memtest_non_destructive_swap void | addr void * | size unsigned long

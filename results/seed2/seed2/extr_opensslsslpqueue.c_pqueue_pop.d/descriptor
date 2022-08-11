@@ -1,0 +1,3 @@
+struct TYPE_5__ | items struct TYPE_6__ * 
+struct TYPE_6__ | next struct TYPE_6__ * 
+function pqueue_pop struct TYPE_6__ * | pq struct TYPE_5__ *

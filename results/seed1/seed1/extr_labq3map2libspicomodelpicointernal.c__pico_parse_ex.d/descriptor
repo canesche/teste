@@ -1,0 +1,2 @@
+struct TYPE_3__ | buffer char * | cursor char * | max char * | tokenSize unsigned long | token char * | curLine int 
+function _pico_parse_ex int | p struct TYPE_3__ * | allowLFs int | handleQuoted int

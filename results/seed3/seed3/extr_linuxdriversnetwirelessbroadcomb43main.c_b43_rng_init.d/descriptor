@@ -1,0 +1,2 @@
+struct b43_wl | dummy int 
+function b43_rng_init int | wl struct b43_wl *

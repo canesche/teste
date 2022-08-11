@@ -1,0 +1,3 @@
+struct pll_ct | vclk_post_div_real int | xclk_ref_div int | xclkmaxrasdelay int | xclk_post_div int | fifo_size int | xclkpagefaultdelay int | dsp_on_off int | dsp_config int | dsp_loop_latency int | vclk_fb_div long | mclk_fb_div long 
+struct fb_info | dummy int 
+function aty_dsp_gt int | info const struct fb_info * | bpp int | pll struct pll_ct *

@@ -1,2 +1,0 @@
-struct sk_buff | dummy int 
-function dump_skb void | prefix char * | vc unsigned int | skb struct sk_buff *

@@ -1,3 +1,0 @@
-struct TYPE_2__ | val_bytes int | format_write long 
-struct regmap | format struct TYPE_2__ 
-function regmap_get_val_bytes int | map struct regmap *

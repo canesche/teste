@@ -1,0 +1,5 @@
+struct TYPE_3__ | pixelformat int | bytesperline int | width int | sizeimage int | height int 
+struct TYPE_4__ | pix struct TYPE_3__ 
+struct v4l2_format | fmt struct TYPE_4__ 
+struct deinterlace_fmt | dummy int 
+function vidioc_try_fmt int | f struct v4l2_format * | fmt struct deinterlace_fmt *

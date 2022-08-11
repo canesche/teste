@@ -1,4 +1,0 @@
-struct TYPE_4__ | sg_cnt long 
-struct TYPE_3__ | sg_cnt long 
-struct qup_i2c_dev | tag_buf_pos long | brx struct TYPE_4__ | btx struct TYPE_3__ 
-function qup_i2c_bam_clear_tag_buffers void | qup struct qup_i2c_dev *

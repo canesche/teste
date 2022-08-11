@@ -1,0 +1,2 @@
+struct dibx000_i2c_master | device_rev long | base_reg int 
+function dibx000_i2c_gate_ctrl int | mst struct dibx000_i2c_master * | tx int [4] | addr int | onoff int

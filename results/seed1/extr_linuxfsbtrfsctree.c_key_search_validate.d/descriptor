@@ -1,3 +1,0 @@
-struct extent_buffer | dummy int 
-struct btrfs_key | dummy int 
-function key_search_validate void | b struct extent_buffer * | key const struct btrfs_key * | level int

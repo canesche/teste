@@ -1,2 +1,0 @@
-struct phy_dm_struct | adaptivity int | dm_cfo_track int | false_alm_cnt int 
-function phydm_get_structure void * | dm struct phy_dm_struct * | structure_type int

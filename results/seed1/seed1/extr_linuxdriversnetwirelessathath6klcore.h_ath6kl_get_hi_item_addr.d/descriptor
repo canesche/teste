@@ -1,0 +1,2 @@
+struct ath6kl | target_type long 
+function ath6kl_get_hi_item_addr long | ar struct ath6kl * | item_offset long

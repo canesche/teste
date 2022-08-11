@@ -1,2 +1,0 @@
-struct ahc_softc | channel char | bugs int | instruction_ram_size int | features int | chip int 
-function ahc_aic7870_setup int | ahc struct ahc_softc *

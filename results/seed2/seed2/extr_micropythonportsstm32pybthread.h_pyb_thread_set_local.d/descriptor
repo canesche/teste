@@ -1,0 +1,2 @@
+struct TYPE_2__ | local_state long 
+function pyb_thread_set_local void | value void *

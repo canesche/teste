@@ -1,0 +1,1 @@
+function ath10k_peer_assoc_h_vht_masked int | vht_mcs_mask long const[NL80211_VHT_NSS_MAX]

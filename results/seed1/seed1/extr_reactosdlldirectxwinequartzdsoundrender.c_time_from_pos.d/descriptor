@@ -1,0 +1,7 @@
+struct TYPE_12__ | nAvgBytesPerSec int 
+struct TYPE_11__ | pInputPin struct TYPE_10__ * 
+struct TYPE_13__ | renderer struct TYPE_11__ 
+struct TYPE_8__ | pbFormat long 
+struct TYPE_9__ | mtCurrent struct TYPE_8__ 
+struct TYPE_10__ | pin struct TYPE_9__ 
+function time_from_pos int | This struct TYPE_13__ * | pos int

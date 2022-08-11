@@ -1,0 +1,4 @@
+struct vmx_msr_entry | index int | reserved long 
+struct TYPE_2__ | apic_base int 
+struct kvm_vcpu | arch struct TYPE_2__ 
+function nested_vmx_msr_check_common int | vcpu struct kvm_vcpu * | e struct vmx_msr_entry *

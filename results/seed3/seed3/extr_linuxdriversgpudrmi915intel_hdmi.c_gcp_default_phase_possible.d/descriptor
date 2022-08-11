@@ -1,0 +1,2 @@
+struct drm_display_mode | crtc_hdisplay unsigned int | crtc_htotal unsigned int | crtc_hblank_start unsigned int | crtc_hblank_end unsigned int | crtc_hsync_start unsigned int | crtc_hsync_end unsigned int | flags int 
+function gcp_default_phase_possible int | pipe_bpp int | mode const struct drm_display_mode *

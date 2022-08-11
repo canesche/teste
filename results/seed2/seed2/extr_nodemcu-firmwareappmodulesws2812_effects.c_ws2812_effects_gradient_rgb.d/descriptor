@@ -1,0 +1,3 @@
+struct TYPE_3__ | colorsPerLed unsigned long | size int | values int * 
+struct TYPE_4__ | brightness int | buffer struct TYPE_3__ * 
+function ws2812_effects_gradient_rgb int | buffer1 const char * | length1 unsigned long

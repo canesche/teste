@@ -1,0 +1,3 @@
+struct nilfs_dir_entry | file_type int 
+struct inode | i_mode unsigned long 
+function nilfs_set_de_type void | de struct nilfs_dir_entry * | inode struct inode *

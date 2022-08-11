@@ -1,0 +1,3 @@
+struct mdio_device | addr unsigned long | bus struct TYPE_2__ * 
+struct TYPE_2__ | mdio_map struct mdio_device ** 
+function mdiobus_unregister_device int | mdiodev struct mdio_device *

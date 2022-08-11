@@ -1,0 +1,2 @@
+struct watchdog_device | dummy int 
+function watchdog_pretimeout_governor_set int | wdd struct watchdog_device * | buf const char *

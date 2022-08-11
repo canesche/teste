@@ -1,0 +1,2 @@
+struct vpfe_ipipe_yee | en int | en_halo_red int | hpf_shft long | hpf_coef_00 long | hpf_coef_01 long | hpf_coef_02 long | hpf_coef_10 long | hpf_coef_11 long | hpf_coef_12 long | hpf_coef_20 long | hpf_coef_21 long | hpf_coef_22 long | yee_thr long | es_gain long | es_thr1 long | es_thr2 long | es_gain_grad long | es_ofst_grad long | table long * 
+function ipipe_validate_yee_params int | yee struct vpfe_ipipe_yee *

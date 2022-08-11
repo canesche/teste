@@ -1,0 +1,1 @@
+function fill_frame void | pbuf int * | buf_size int | color int

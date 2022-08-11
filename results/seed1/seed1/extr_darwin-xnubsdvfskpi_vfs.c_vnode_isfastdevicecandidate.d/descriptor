@@ -1,0 +1,2 @@
+struct TYPE_3__ | v_flag int 
+function vnode_isfastdevicecandidate int | vp struct TYPE_3__ *

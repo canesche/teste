@@ -1,3 +1,0 @@
-struct stream_encoder | dummy int 
-struct encoder_info_frame | dummy int 
-function virtual_stream_encoder_update_hdmi_info_packets void | enc struct stream_encoder * | info_frame const struct encoder_info_frame *

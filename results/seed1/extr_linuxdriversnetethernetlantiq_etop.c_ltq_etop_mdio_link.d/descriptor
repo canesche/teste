@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function ltq_etop_mdio_link void | dev struct net_device *

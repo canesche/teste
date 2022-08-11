@@ -1,0 +1,3 @@
+struct TYPE_2__ | objs unsigned long * 
+struct size_class | stats struct TYPE_2__ 
+function zs_stat_get unsigned long | class struct size_class * | type int

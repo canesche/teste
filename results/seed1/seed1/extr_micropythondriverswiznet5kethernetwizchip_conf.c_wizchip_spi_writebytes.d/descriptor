@@ -1,0 +1,1 @@
+function wizchip_spi_writebytes void | buf const int * | len int

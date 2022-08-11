@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetchelsiocxgb4vfcxgb4vf_main.c_from_fw_port_mod_type.d/extr_linuxdriversnetethernetchelsiocxgb4vfcxgb4vf_main.c_from_fw_port_mod_type_O0::from_fw_port_mod_type(88)"
+  }
+]

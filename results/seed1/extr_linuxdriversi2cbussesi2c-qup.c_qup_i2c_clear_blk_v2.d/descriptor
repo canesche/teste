@@ -1,2 +1,0 @@
-struct qup_i2c_block | send_last_word int | tx_tags_sent int | rx_tags_fetched int | rx_bytes_read int | fifo_available long | rx_fifo_data_pos long | rx_fifo_data long | tx_fifo_free long | tx_fifo_data_pos long | tx_fifo_data long 
-function qup_i2c_clear_blk_v2 void | blk struct qup_i2c_block *

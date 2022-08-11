@@ -1,0 +1,2 @@
+struct d_print_info | last_char char 
+function d_last_char char | dpi struct d_print_info *

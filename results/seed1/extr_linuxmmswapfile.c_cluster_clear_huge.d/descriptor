@@ -1,2 +1,0 @@
-struct swap_cluster_info | flags int 
-function cluster_clear_huge void | info struct swap_cluster_info *

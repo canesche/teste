@@ -1,0 +1,3 @@
+struct regulator_dev | desc struct TYPE_2__ * 
+struct TYPE_2__ | n_voltages unsigned int | linear_min_sel unsigned int | min_uV int | uV_step unsigned int 
+function regulator_list_voltage_linear int | rdev struct regulator_dev * | selector unsigned int

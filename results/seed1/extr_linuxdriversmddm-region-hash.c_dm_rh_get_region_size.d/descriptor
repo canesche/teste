@@ -1,2 +1,0 @@
-struct dm_region_hash | region_size int 
-function dm_rh_get_region_size int | rh struct dm_region_hash *

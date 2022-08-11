@@ -1,0 +1,4 @@
+struct dm_priv | DynamicTxHighPowerLvl long 
+struct hal_data_8188e | EEPROMRegulatory int | MCSTxPowerLevelOriginalOffset int ** | pwrGroupCnt int | PGMaxGroup int | TxPwrLegacyHtDiff int ** | TxPwrHt20Diff int ** | PwrGroupHT40 int ** | PwrGroupHT20 int ** | CurrentChannelBW int | dmpriv struct dm_priv 
+struct adapter | HalData struct hal_data_8188e * 
+function get_rx_power_val_by_reg void | adapt struct adapter * | channel int | index int | powerbase0 int * | powerbase1 int * | out_val int *

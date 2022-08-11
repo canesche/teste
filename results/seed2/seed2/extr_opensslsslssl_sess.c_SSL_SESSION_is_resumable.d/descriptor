@@ -1,0 +1,3 @@
+struct TYPE_4__ | ticklen long 
+struct TYPE_5__ | session_id_length long | ext struct TYPE_4__ | not_resumable int 
+function SSL_SESSION_is_resumable int | s const struct TYPE_5__ *

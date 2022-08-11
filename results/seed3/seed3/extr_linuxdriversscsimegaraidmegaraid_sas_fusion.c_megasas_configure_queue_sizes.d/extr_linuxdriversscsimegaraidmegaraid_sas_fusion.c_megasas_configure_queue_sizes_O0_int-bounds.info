@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 67,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 67,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversscsimegaraidmegaraid_sas_fusion.c_megasas_configure_queue_sizes.d/extr_linuxdriversscsimegaraidmegaraid_sas_fusion.c_megasas_configure_queue_sizes_O0::megasas_configure_queue_sizes(73)"
+  }
+]

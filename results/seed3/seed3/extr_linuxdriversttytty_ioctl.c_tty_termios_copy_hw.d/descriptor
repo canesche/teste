@@ -1,0 +1,2 @@
+struct ktermios | c_cflag int | c_ospeed int | c_ispeed int 
+function tty_termios_copy_hw void | new struct ktermios * | old struct ktermios *

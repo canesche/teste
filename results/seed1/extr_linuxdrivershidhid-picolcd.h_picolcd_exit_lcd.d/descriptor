@@ -1,2 +1,0 @@
-struct picolcd_data | dummy int 
-function picolcd_exit_lcd void | data struct picolcd_data *

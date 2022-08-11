@@ -1,0 +1,2 @@
+struct w83795_data | has_in int | temp_mode int | has_temp int 
+function w83795_apply_temp_config void | data struct w83795_data * | config int | temp_chan int | in_chan int

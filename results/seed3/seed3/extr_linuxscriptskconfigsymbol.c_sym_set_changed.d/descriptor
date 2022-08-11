@@ -1,0 +1,4 @@
+struct symbol | prop struct property * | flags int 
+struct property | menu struct TYPE_2__ * | next struct property * 
+struct TYPE_2__ | flags int 
+function sym_set_changed void | sym struct symbol *

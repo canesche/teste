@@ -1,0 +1,2 @@
+struct dpll | m1 int | m2 long 
+function i9xx_dpll_compute_m long | dpll struct dpll *

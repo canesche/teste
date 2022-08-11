@@ -1,0 +1,2 @@
+struct fb_info | screen_base long 
+function atafb_mfb_linefill void | info struct fb_info * | next_line int | dy int | dx int | width int | data const int * | bgcolor int | fgcolor int

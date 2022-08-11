@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversusbserialkl5kusb105.c_klsi_105_status2linestate.d/extr_linuxdriversusbserialkl5kusb105.c_klsi_105_status2linestate_O0::klsi_105_status2linestate(65)"
+  }
+]

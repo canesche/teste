@@ -1,0 +1,5 @@
+struct mmio_hpte_cache_entry | mmio_update long | slb_base_pshift unsigned int | eaddr unsigned int | slb_v unsigned long 
+struct TYPE_3__ | entry struct mmio_hpte_cache_entry * 
+struct TYPE_4__ | mmio_cache struct TYPE_3__ 
+struct kvm_vcpu | arch struct TYPE_4__ 
+function mmio_cache_search struct mmio_hpte_cache_entry * | vcpu struct kvm_vcpu * | eaddr unsigned long | slb_v unsigned long | mmio_update long

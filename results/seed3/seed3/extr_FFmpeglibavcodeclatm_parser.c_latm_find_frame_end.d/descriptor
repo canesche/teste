@@ -1,0 +1,4 @@
+struct TYPE_7__ | priv_data struct TYPE_6__ * 
+struct TYPE_5__ | frame_start_found int | state int 
+struct TYPE_6__ | count int | pc struct TYPE_5__ 
+function latm_find_frame_end int | s1 struct TYPE_7__ * | buf const int * | buf_size int

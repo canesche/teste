@@ -1,0 +1,2 @@
+struct x86_emulate_ctxt | opcode_len int | b int 
+function is_vmware_backdoor_opcode int | ctxt struct x86_emulate_ctxt *

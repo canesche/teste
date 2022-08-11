@@ -1,0 +1,3 @@
+struct skd_request_context | state int 
+struct skd_device | dummy int 
+function skd_release_skreq void | skdev struct skd_device * | skreq struct skd_request_context *

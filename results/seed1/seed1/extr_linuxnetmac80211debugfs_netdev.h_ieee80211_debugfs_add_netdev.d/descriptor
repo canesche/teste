@@ -1,0 +1,2 @@
+struct ieee80211_sub_if_data | dummy int 
+function ieee80211_debugfs_add_netdev void | sdata struct ieee80211_sub_if_data *

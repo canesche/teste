@@ -1,0 +1,7 @@
+struct lpfc_vport | dummy int 
+struct TYPE_3__ | Fc4Type long 
+struct TYPE_4__ | gid struct TYPE_3__ 
+struct lpfc_sli_ct_request | un struct TYPE_4__ 
+struct lpfc_iocbq | context1 struct lpfc_dmabuf * 
+struct lpfc_dmabuf | virt long 
+function lpfc_get_gidft_type int | vport struct lpfc_vport * | cmdiocb struct lpfc_iocbq *

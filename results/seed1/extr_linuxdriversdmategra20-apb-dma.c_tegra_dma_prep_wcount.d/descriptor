@@ -1,5 +1,0 @@
-struct tegra_dma_channel_regs | wcount int | csr int 
-struct tegra_dma_channel | tdma struct TYPE_4__ * 
-struct TYPE_4__ | chip_data struct TYPE_3__ * 
-struct TYPE_3__ | support_separate_wcount_reg long 
-function tegra_dma_prep_wcount void | tdc struct tegra_dma_channel * | ch_regs struct tegra_dma_channel_regs * | len int

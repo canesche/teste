@@ -1,0 +1,1 @@
+function gdAffineScale int | dst double [6] | scale_x const double | scale_y const double

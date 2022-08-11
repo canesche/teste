@@ -1,0 +1,2 @@
+function vc_render_char void | ch unsigned char | renderptr unsigned char * | newdepth short
+struct  | charptr unsigned char * | shortptr unsigned short * | longptr int * 

@@ -1,0 +1,2 @@
+struct tipc_link | rcv_nxt int 
+function tipc_link_rcv_nxt int | l struct tipc_link *

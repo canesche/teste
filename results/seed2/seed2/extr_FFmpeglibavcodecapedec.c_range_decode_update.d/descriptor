@@ -1,0 +1,3 @@
+struct TYPE_4__ | low int | help int | range int 
+struct TYPE_5__ | rc struct TYPE_4__ 
+function range_decode_update void | ctx struct TYPE_5__ * | sy_f int | lt_f int

@@ -1,2 +1,0 @@
-struct wmi_data_hdr | info int 
-function wmi_data_hdr_get_up int | dhdr struct wmi_data_hdr *

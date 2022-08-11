@@ -1,2 +1,0 @@
-struct TYPE_3__ | format unsigned long 
-function zbar_image_set_format void | img struct TYPE_3__ * | fmt unsigned long

@@ -1,3 +1,0 @@
-struct dtv_frontend_properties | frequency int 
-struct dvb_frontend | dtv_property_cache struct dtv_frontend_properties 
-function thomson_dtt7579_tuner_calc_regs int | fe struct dvb_frontend * | pllbuf int * | buf_len int

@@ -1,0 +1,2 @@
+struct ifaddrs | ifa_next struct ifaddrs * 
+function addToEnd void | p_resultList struct ifaddrs ** | p_entry struct ifaddrs *

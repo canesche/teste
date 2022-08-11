@@ -1,0 +1,2 @@
+struct TYPE_3__ | inh int 
+function relation_should_recurse int | rv struct TYPE_3__ *

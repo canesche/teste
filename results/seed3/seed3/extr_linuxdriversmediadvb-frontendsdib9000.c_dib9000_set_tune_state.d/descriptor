@@ -1,0 +1,3 @@
+struct dvb_frontend | demodulator_priv struct dib9000_state * 
+struct dib9000_state | tune_state int | status int 
+function dib9000_set_tune_state int | fe struct dvb_frontend * | tune_state enum frontend_tune_state

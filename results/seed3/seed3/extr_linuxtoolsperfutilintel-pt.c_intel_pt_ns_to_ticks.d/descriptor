@@ -1,0 +1,3 @@
+struct TYPE_2__ | time_mult int | time_shift int 
+struct intel_pt | tc struct TYPE_2__ 
+function intel_pt_ns_to_ticks int | pt const struct intel_pt * | ns int

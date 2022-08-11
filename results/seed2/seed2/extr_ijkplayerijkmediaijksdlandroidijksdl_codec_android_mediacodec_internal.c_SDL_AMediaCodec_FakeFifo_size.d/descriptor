@@ -1,0 +1,2 @@
+struct TYPE_3__ | size int 
+function SDL_AMediaCodec_FakeFifo_size int | fifo struct TYPE_3__ *

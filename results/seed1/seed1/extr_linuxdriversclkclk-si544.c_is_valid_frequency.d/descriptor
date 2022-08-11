@@ -1,0 +1,2 @@
+struct clk_si544 | speed_grade int 
+function is_valid_frequency int | data const struct clk_si544 * | frequency unsigned long

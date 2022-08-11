@@ -1,0 +1,4 @@
+struct hm_header_st | frag_off unsigned long | frag_len unsigned long 
+struct TYPE_5__ | d1 struct TYPE_4__ * 
+struct TYPE_4__ | w_msg_hdr struct hm_header_st 
+function dtls1_fix_message_header void | s struct TYPE_5__ * | frag_off unsigned long | frag_len unsigned long

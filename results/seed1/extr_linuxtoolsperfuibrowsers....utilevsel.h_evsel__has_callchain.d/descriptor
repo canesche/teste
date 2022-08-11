@@ -1,3 +1,0 @@
-struct TYPE_2__ | sample_type int 
-struct perf_evsel | attr struct TYPE_2__ 
-function evsel__has_callchain int | evsel const struct perf_evsel *

@@ -1,0 +1,4 @@
+struct TYPE_6__ | ownerNum int 
+struct TYPE_5__ | number struct TYPE_7__ * 
+struct TYPE_7__ | classname char * | r struct TYPE_6__ | s struct TYPE_5__ | inuse int 
+function G_InitGentity void | e struct TYPE_7__ *

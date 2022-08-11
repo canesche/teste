@@ -1,0 +1,4 @@
+struct seq_file | dummy int 
+struct pinctrl_dev | dummy int 
+struct gpio_chip | dummy int 
+function nmk_gpio_dbg_show_one void | s struct seq_file * | pctldev struct pinctrl_dev * | chip struct gpio_chip * | offset unsigned int | gpio unsigned int

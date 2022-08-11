@@ -1,0 +1,3 @@
+struct ntb_transport_qp | tx_index unsigned int | tx_max_entry unsigned int | remote_rx_info struct TYPE_2__ * 
+struct TYPE_2__ | entry unsigned int 
+function ntb_transport_tx_free_entry unsigned int | qp struct ntb_transport_qp *

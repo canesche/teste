@@ -1,2 +1,0 @@
-struct ieee80211_device | dummy int 
-function HTIOTActIsDisableMCS15 int | ieee struct ieee80211_device *

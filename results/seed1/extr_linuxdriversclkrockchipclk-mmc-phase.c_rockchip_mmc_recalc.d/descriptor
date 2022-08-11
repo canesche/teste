@@ -1,2 +1,0 @@
-struct clk_hw | dummy int 
-function rockchip_mmc_recalc unsigned long | hw struct clk_hw * | parent_rate unsigned long

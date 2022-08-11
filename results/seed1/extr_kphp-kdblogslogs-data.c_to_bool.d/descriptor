@@ -1,3 +1,0 @@
-struct TYPE_4__ | dtype long | v_int long | v_long long 
-struct TYPE_5__ | tok struct TYPE_4__ 
-function to_bool int | e struct TYPE_5__ *

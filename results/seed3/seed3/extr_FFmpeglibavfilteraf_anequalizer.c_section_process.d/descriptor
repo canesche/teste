@@ -1,0 +1,2 @@
+struct TYPE_3__ | b0 double | b1 int | num int * | denum int * | a1 int | b2 int | a2 int | b3 int | a3 int | b4 int | a4 int 
+function section_process double | S struct TYPE_3__ * | in double

@@ -1,0 +1,2 @@
+struct TYPE_3__ | name const char * 
+function sqliterkBtreeGetName const char * | btree struct TYPE_3__ *

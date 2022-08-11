@@ -1,0 +1,2 @@
+struct dsp_image_seg | magic long 
+function is_valid int | p const struct dsp_image_seg *

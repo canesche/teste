@@ -1,0 +1,1 @@
+function pic32_uart_fault_interrupt int | irq int | dev_id void *

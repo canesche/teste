@@ -1,0 +1,2 @@
+struct efx_nic | dummy int 
+function efx_set_interrupt_affinity void | efx struct efx_nic *

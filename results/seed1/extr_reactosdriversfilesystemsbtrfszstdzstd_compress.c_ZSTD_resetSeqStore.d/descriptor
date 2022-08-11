@@ -1,2 +1,0 @@
-struct TYPE_3__ | longLengthID long | sequencesStart int | sequences int | litStart int | lit int 
-function ZSTD_resetSeqStore void | ssPtr struct TYPE_3__ *

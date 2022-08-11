@@ -1,0 +1,1 @@
+function arm_ccn_pmu_config_set void | config int * | node_xp int | type int | port int

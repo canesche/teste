@@ -1,2 +1,0 @@
-struct net_device | netdev_ops int * 
-function ocelot_netdevice_dev_check int | dev const struct net_device *

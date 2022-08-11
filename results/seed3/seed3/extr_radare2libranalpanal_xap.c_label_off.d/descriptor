@@ -1,0 +1,2 @@
+struct directive | d_operand int | d_prefix int | d_off int 
+function label_off int | d struct directive *

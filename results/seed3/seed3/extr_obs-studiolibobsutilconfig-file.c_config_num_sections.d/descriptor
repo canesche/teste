@@ -1,0 +1,3 @@
+struct TYPE_4__ | num unsigned long 
+struct TYPE_5__ | sections struct TYPE_4__ 
+function config_num_sections unsigned long | config struct TYPE_5__ *

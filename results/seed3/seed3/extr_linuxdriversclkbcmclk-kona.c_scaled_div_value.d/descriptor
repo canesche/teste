@@ -1,0 +1,4 @@
+struct TYPE_3__ | frac_width int 
+struct TYPE_4__ | s struct TYPE_3__ 
+struct bcm_clk_div | u struct TYPE_4__ 
+function scaled_div_value int | div struct bcm_clk_div * | reg_div long

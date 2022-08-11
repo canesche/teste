@@ -1,2 +1,0 @@
-struct file | dummy int 
-function cap_mmap_file int | file struct file * | reqprot unsigned long | prot unsigned long | flags unsigned long

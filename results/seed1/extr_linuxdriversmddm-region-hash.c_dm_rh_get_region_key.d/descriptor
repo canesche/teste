@@ -1,2 +1,0 @@
-struct dm_region | key int 
-function dm_rh_get_region_key int | reg struct dm_region *

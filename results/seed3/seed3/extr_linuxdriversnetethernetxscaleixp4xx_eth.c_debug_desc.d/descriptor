@@ -1,0 +1,2 @@
+struct desc | dummy int 
+function debug_desc void | phys int | desc struct desc *

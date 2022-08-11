@@ -1,0 +1,2 @@
+struct mlxsw_hwmon | dummy int 
+function mlxsw_hwmon_fini void | mlxsw_hwmon struct mlxsw_hwmon *

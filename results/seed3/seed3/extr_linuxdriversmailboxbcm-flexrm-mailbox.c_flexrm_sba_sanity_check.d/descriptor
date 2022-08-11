@@ -1,0 +1,4 @@
+struct TYPE_4__ | cmds_count unsigned long | cmds struct TYPE_3__ * 
+struct brcm_message | sba struct TYPE_4__ 
+struct TYPE_3__ | flags int | data_len long | resp_len long 
+function flexrm_sba_sanity_check int | msg struct brcm_message *

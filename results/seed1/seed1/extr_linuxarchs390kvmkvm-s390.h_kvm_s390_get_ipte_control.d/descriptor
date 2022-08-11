@@ -1,0 +1,5 @@
+struct ipte_control | dummy int 
+struct TYPE_2__ | sca struct bsca_block * 
+struct kvm | arch struct TYPE_2__ 
+struct bsca_block | ipte_control union ipte_control 
+function kvm_s390_get_ipte_control union ipte_control * | kvm struct kvm *

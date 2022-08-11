@@ -1,2 +1,0 @@
-struct gs_tx_context | echo_id int 
-function gs_free_tx_context void | txc struct gs_tx_context *

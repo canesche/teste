@@ -1,0 +1,2 @@
+struct inode | i_op int * 
+function fuse_init_symlink void | inode struct inode *

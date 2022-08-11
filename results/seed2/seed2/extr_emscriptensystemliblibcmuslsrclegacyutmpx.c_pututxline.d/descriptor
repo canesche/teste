@@ -1,0 +1,2 @@
+struct utmpx | dummy int 
+function pututxline struct utmpx * | ut const struct utmpx *

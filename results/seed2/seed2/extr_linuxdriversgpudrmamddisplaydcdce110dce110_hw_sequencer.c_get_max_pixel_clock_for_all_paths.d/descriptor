@@ -1,0 +1,7 @@
+struct TYPE_4__ | requested_pix_clk long 
+struct TYPE_5__ | pix_clk_params struct TYPE_4__ 
+struct pipe_ctx | stream_res struct TYPE_5__ | top_pipe long | stream int * 
+struct TYPE_6__ | pipe_ctx struct pipe_ctx * 
+struct dc_state | res_ctx struct TYPE_6__ 
+struct dc | dummy int 
+function get_max_pixel_clock_for_all_paths long | dc struct dc * | context struct dc_state *

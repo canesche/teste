@@ -1,2 +1,0 @@
-struct ci_hdrc | dummy int 
-function ci_hdrc_gadget_destroy void | ci struct ci_hdrc *

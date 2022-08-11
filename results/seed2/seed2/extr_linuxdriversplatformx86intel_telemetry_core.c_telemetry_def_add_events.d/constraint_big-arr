@@ -1,0 +1,1 @@
+value(num_pss_evts) == 255, value(num_ioss_evts) == 255, length(pss_evtmap) == 65025, length(ioss_evtmap) == 65025

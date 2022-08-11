@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetwirelessathath10khtt_rx.c_ath10k_htt_config_paddrs_ring_64.d/extr_linuxdriversnetwirelessathath10khtt_rx.c_ath10k_htt_config_paddrs_ring_64_O0::ath10k_htt_config_paddrs_ring_64(64)"
+  }
+]

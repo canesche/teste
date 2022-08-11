@@ -1,0 +1,1 @@
+function m4x4_rotation_for_quat void | matrix int * | rotation float *const

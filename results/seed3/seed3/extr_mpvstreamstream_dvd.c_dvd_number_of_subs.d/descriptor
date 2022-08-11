@@ -1,0 +1,4 @@
+struct TYPE_6__ | priv struct TYPE_7__ * 
+struct TYPE_7__ | nr_of_subtitles int | subtitles struct TYPE_5__ * 
+struct TYPE_5__ | id int 
+function dvd_number_of_subs int | stream struct TYPE_6__ *

@@ -1,3 +1,0 @@
-struct platform_device | dummy int 
-struct hidma_dev | dummy int 
-function hidma_request_msi int | dmadev struct hidma_dev * | pdev struct platform_device *

@@ -1,0 +1,4 @@
+struct sdio_func | irq_handler long 
+struct mmc_card | sdio_funcs int | sdio_single_irq struct sdio_func * | sdio_func struct sdio_func ** | host struct TYPE_2__ * 
+struct TYPE_2__ | caps int | sdio_irqs int 
+function sdio_single_irq_set void | card struct mmc_card *

@@ -1,2 +1,0 @@
-struct perf_hpp | buf int | size int 
-function advance_hpp void | hpp struct perf_hpp * | inc int

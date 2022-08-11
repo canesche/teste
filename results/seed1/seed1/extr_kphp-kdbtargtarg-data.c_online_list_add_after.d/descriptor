@@ -1,0 +1,2 @@
+struct TYPE_4__ | next struct TYPE_4__ * | prev struct TYPE_4__ * 
+function online_list_add_after void | where struct TYPE_4__ * | what struct TYPE_4__ *

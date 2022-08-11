@@ -1,0 +1,3 @@
+struct tty_port | dummy int 
+struct TYPE_2__ | pra int 
+function amiga_carrier_raised int | port struct tty_port *

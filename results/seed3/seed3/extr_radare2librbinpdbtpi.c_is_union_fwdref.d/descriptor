@@ -1,0 +1,5 @@
+struct TYPE_5__ | fwdref int 
+struct TYPE_6__ | bits struct TYPE_5__ 
+struct TYPE_8__ | prop struct TYPE_6__ 
+struct TYPE_7__ | type_info long 
+function is_union_fwdref void | type void * | is_fwdref int *

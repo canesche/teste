@@ -1,0 +1,4 @@
+struct string_index | data_offset int 
+struct dllredirect_data | dummy int 
+struct TYPE_3__ | dllredirect_section long 
+function get_dllredirect_data struct dllredirect_data * | ctxt struct TYPE_3__ * | index struct string_index *

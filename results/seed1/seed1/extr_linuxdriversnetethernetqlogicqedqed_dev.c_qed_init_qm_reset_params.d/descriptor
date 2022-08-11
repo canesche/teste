@@ -1,0 +1,3 @@
+struct qed_qm_info | first_rl_pq long | first_mcos_pq long | first_vf_pq long | num_vf_pqs long | num_pf_rls long | num_vports long | num_pqs long 
+struct qed_hwfn | qm_info struct qed_qm_info 
+function qed_init_qm_reset_params void | p_hwfn struct qed_hwfn *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | numFaceNormals int | faceNormal int ** 
+function PicoGetFaceNormal int * | surface struct TYPE_3__ * | num int

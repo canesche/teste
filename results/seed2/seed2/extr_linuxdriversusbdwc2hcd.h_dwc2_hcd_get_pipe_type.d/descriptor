@@ -1,0 +1,2 @@
+struct dwc2_hcd_pipe_info | pipe_type int 
+function dwc2_hcd_get_pipe_type int | pipe struct dwc2_hcd_pipe_info *

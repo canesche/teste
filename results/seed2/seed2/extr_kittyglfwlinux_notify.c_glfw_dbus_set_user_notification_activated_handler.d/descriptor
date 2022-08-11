@@ -1,0 +1,1 @@
+function glfw_dbus_set_user_notification_activated_handler void | handler int

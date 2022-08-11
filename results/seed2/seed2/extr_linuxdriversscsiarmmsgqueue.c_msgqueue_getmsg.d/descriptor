@@ -1,0 +1,4 @@
+struct message | dummy int 
+struct msgqueue_entry | msg struct message | next struct msgqueue_entry * 
+struct TYPE_3__ | qe struct msgqueue_entry * 
+function msgqueue_getmsg struct message * | msgq struct TYPE_3__ * | msgno int

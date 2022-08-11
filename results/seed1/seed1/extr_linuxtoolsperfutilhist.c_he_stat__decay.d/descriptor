@@ -1,0 +1,2 @@
+struct he_stat | period int | nr_events int 
+function he_stat__decay void | he_stat struct he_stat *

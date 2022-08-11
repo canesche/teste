@@ -1,0 +1,2 @@
+struct amd_iommu | dummy int 
+function amd_iommu_debugfs_setup void | iommu struct amd_iommu *

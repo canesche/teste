@@ -1,0 +1,1 @@
+function _sys_tmpnam int | pBuffer char * | FileNum int | MaxLen unsigned int

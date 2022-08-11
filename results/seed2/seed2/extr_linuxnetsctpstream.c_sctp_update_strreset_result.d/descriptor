@@ -1,0 +1,2 @@
+struct sctp_association | strreset_result int * 
+function sctp_update_strreset_result void | asoc struct sctp_association * | result int

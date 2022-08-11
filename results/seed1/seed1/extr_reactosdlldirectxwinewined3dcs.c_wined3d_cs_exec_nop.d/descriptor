@@ -1,0 +1,2 @@
+struct wined3d_cs | dummy int 
+function wined3d_cs_exec_nop void | cs struct wined3d_cs * | data const void *

@@ -1,2 +1,0 @@
-struct bq27xxx_dm_buf | data long * 
-function bq27xxx_battery_checksum_dm_block int | buf struct bq27xxx_dm_buf *

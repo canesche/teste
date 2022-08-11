@@ -1,0 +1,2 @@
+struct csio_hw | flags int 
+function csio_evtq_start void | hw struct csio_hw *

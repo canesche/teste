@@ -1,2 +1,0 @@
-struct mc_device | dummy int 
-function mconsole_register_dev void | new struct mc_device *

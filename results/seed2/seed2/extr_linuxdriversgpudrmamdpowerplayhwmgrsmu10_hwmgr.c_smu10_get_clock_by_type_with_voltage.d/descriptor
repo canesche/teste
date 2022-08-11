@@ -1,0 +1,8 @@
+struct smu10_voltage_dependency_table | count long | entries struct TYPE_4__ * 
+struct smu10_clock_voltage_information | vdd_dep_on_phyclk struct smu10_voltage_dependency_table * | vdd_dep_on_dispclk struct smu10_voltage_dependency_table * | vdd_dep_on_socclk struct smu10_voltage_dependency_table * | vdd_dep_on_dcefclk struct smu10_voltage_dependency_table * | vdd_dep_on_fclk struct smu10_voltage_dependency_table * | vdd_dep_on_mclk struct smu10_voltage_dependency_table * 
+struct smu10_hwmgr | clock_vol_info struct smu10_clock_voltage_information 
+struct pp_hwmgr | backend long 
+struct pp_clock_levels_with_voltage | num_levels long | data struct TYPE_3__ * 
+struct TYPE_4__ | clk int | vol int 
+struct TYPE_3__ | clocks_in_khz int | voltage_in_mv int 
+function smu10_get_clock_by_type_with_voltage int | hwmgr struct pp_hwmgr * | type enum amd_pp_clock_type | clocks struct pp_clock_levels_with_voltage *

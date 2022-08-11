@@ -1,0 +1,2 @@
+struct i2c_msg | flags int | len long 
+function tegra_bpmp_i2c_msg_len_check int | msgs struct i2c_msg * | num unsigned int

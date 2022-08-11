@@ -1,0 +1,4 @@
+struct hid_usage | hid int 
+struct hid_input | dummy int 
+struct hid_field | dummy int 
+function ms_surface_dial_quirk int | hi struct hid_input * | field struct hid_field * | usage struct hid_usage * | bit unsigned long ** | max int *

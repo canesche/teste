@@ -1,0 +1,2 @@
+struct array | nalloc long | size long | elem int * | nelem long 
+function array_null void | a struct array *

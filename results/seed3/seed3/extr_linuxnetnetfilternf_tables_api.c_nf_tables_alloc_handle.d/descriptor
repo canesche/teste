@@ -1,0 +1,2 @@
+struct nft_table | hgenerator int 
+function nf_tables_alloc_handle int | table struct nft_table *

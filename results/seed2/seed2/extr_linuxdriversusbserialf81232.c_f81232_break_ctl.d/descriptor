@@ -1,0 +1,2 @@
+struct tty_struct | dummy int 
+function f81232_break_ctl void | tty struct tty_struct * | break_state int

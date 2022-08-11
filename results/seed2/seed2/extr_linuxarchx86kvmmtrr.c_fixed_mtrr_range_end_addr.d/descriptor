@@ -1,0 +1,2 @@
+struct fixed_mtrr_segment | range_start int | range_shift int | start long 
+function fixed_mtrr_range_end_addr long | seg int | index int

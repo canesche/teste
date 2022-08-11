@@ -1,0 +1,2 @@
+struct snd_soc_dai_link | symmetric_rates int | symmetric_channels int | symmetric_samplebits int | ignore_suspend int 
+function set_link_flags void | link struct snd_soc_dai_link * | flag_mask unsigned int | flags unsigned int

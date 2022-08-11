@@ -1,0 +1,2 @@
+struct TYPE_3__ | status long | mask int | result int 
+function transaction_want_exec int | T struct TYPE_3__ *

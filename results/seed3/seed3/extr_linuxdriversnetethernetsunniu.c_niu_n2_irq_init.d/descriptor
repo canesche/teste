@@ -1,0 +1,2 @@
+struct niu | dummy int 
+function niu_n2_irq_init int | np struct niu * | ldg_num_map int *

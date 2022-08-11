@@ -1,2 +1,0 @@
-struct bfa_iocpf_s | auto_recover int | fw_mismatch_notified int 
-function bfa_iocpf_sm_reset_entry void | iocpf struct bfa_iocpf_s *

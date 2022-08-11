@@ -1,0 +1,2 @@
+struct w8001_coord | x int | y int | tsw int 
+function parse_single_touch void | data int * | coord struct w8001_coord *

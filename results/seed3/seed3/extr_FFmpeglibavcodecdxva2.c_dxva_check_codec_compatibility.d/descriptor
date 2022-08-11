@@ -1,0 +1,3 @@
+struct TYPE_5__ | codec long | profiles long * 
+struct TYPE_6__ | codec_id long | hwaccel_flags int | profile long 
+function dxva_check_codec_compatibility int | avctx struct TYPE_6__ * | mode const struct TYPE_5__ *

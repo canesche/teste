@@ -1,3 +1,0 @@
-struct ath_common | dummy int 
-struct ath5k_hw | common struct ath_common 
-function ath5k_hw_common struct ath_common * | ah struct ath5k_hw *

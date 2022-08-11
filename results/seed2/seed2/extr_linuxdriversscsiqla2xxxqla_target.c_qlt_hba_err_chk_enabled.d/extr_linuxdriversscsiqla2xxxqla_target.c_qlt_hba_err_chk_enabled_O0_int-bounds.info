@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversscsiqla2xxxqla_target.c_qlt_hba_err_chk_enabled.d/extr_linuxdriversscsiqla2xxxqla_target.c_qlt_hba_err_chk_enabled_O0::qlt_hba_err_chk_enabled(69)"
+  }
+]

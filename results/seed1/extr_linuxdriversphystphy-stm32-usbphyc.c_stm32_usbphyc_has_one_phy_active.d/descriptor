@@ -1,3 +1,0 @@
-struct stm32_usbphyc | nphys int | phys struct TYPE_2__ ** 
-struct TYPE_2__ | active long 
-function stm32_usbphyc_has_one_phy_active int | usbphyc struct stm32_usbphyc *

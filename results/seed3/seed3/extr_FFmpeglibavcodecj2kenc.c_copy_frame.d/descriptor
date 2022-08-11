@@ -1,0 +1,5 @@
+struct TYPE_9__ | i_data int * | coord int ** 
+struct TYPE_8__ | numXtiles int | numYtiles int | ncomponents int | picture struct TYPE_6__ * | planar long | tile struct TYPE_7__ * 
+struct TYPE_7__ | comp struct TYPE_9__ * 
+struct TYPE_6__ | linesize int * | data int ** 
+function copy_frame void | s struct TYPE_8__ *

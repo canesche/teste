@@ -1,0 +1,2 @@
+struct ssb_bus | dummy int 
+function ssb_sdio_scan_read32 int | bus struct ssb_bus * | offset int

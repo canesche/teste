@@ -1,0 +1,3 @@
+struct xt_mtchk_param | matchinfo struct xt_dscp_info * 
+struct xt_dscp_info | dscp long 
+function dscp_mt_check int | par const struct xt_mtchk_param *

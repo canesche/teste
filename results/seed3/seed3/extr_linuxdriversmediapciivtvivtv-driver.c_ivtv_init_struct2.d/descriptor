@@ -1,0 +1,6 @@
+struct TYPE_6__ | sliced_size int 
+struct ivtv | nof_inputs int | nof_audio_inputs int | active_input int | card struct TYPE_8__ * | audio_input int | vbi struct TYPE_6__ 
+struct TYPE_8__ | hw_all int | video_inputs struct TYPE_7__ * | audio_inputs struct TYPE_5__ * 
+struct TYPE_7__ | video_type long | audio_index int 
+struct TYPE_5__ | audio_type long 
+function ivtv_init_struct2 void | itv struct ivtv *

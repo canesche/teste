@@ -1,0 +1,2 @@
+struct musb | dummy int 
+function musb_g_wakeup void | musb struct musb *

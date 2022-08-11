@@ -1,5 +1,0 @@
-struct TYPE_8__ | assoc6 int | assoc4 int 
-struct TYPE_10__ | client struct TYPE_8__ 
-struct TYPE_7__ | family long 
-struct TYPE_9__ | ip struct TYPE_7__ 
-function entry_assoc int * | cl_entry struct TYPE_10__ * | ipp const struct TYPE_9__ *

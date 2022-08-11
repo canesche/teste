@@ -1,0 +1,3 @@
+struct enic_port_profile | dummy int 
+struct enic | dummy int 
+function enic_pp_preassociate int | enic struct enic * | vf int | prev_pp struct enic_port_profile * | restore_pp int *

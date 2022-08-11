@@ -1,0 +1,2 @@
+struct tl_tree | dummy int 
+function tl_tree_type_var_num int | x struct tl_tree *

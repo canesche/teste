@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function lmc_trace void | dev struct net_device * | msg char *

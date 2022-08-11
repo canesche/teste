@@ -1,0 +1,7 @@
+struct v4l2_rect | height int | width int | left int | top int 
+struct TYPE_8__ | height int | width int | left int | top int 
+struct TYPE_9__ | win struct TYPE_8__ 
+struct TYPE_6__ | height int | width int | left int | top int 
+struct TYPE_7__ | win struct TYPE_6__ 
+struct TYPE_10__ | if_type long | ycbcr struct TYPE_9__ | bayer struct TYPE_7__ 
+function isif_set_image_window int | win struct v4l2_rect *

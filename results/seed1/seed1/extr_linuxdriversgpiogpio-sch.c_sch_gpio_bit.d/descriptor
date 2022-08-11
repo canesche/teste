@@ -1,0 +1,2 @@
+struct sch_gpio | resume_base unsigned int 
+function sch_gpio_bit unsigned int | sch struct sch_gpio * | gpio unsigned int

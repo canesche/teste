@@ -1,2 +1,0 @@
-struct kvm_vcpu | dummy int 
-function kvm_arch_can_inject_async_page_present int | vcpu struct kvm_vcpu *

@@ -1,0 +1,2 @@
+struct timespec | tv_nsec long | tv_sec int 
+function timespec_diff_us long long | start struct timespec | end struct timespec

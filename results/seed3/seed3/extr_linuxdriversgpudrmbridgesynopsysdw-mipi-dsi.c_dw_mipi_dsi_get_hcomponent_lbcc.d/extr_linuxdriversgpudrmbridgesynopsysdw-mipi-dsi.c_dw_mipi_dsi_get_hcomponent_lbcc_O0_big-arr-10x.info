@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmbridgesynopsysdw-mipi-dsi.c_dw_mipi_dsi_get_hcomponent_lbcc.d/extr_linuxdriversgpudrmbridgesynopsysdw-mipi-dsi.c_dw_mipi_dsi_get_hcomponent_lbcc_O0::dw_mipi_dsi_get_hcomponent_lbcc(66)"
+  }
+]

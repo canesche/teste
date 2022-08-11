@@ -1,0 +1,4 @@
+struct usX2Ydev | subs struct snd_usX2Y_substream ** 
+struct urb | complete void (*)(struct urb *) 
+struct snd_usX2Y_substream | urb struct urb ** 
+function usX2Y_urbs_set_complete void | usX2Y struct usX2Ydev * | complete void (*)(struct urb *)

@@ -1,0 +1,7 @@
+struct TYPE_5__ | saved_trap_nr int 
+struct uprobe_task | autask struct TYPE_5__ 
+struct pt_regs | cp0_epc int 
+struct arch_uprobe | resume_epc int 
+struct TYPE_4__ | trap_nr int 
+struct TYPE_6__ | thread struct TYPE_4__ | utask struct uprobe_task * 
+function arch_uprobe_post_xol int | aup struct arch_uprobe * | regs struct pt_regs *

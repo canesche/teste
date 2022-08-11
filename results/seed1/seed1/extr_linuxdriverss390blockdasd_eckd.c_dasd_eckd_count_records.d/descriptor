@@ -1,0 +1,2 @@
+struct eckd_count | head int | record int 
+function dasd_eckd_count_records int | fmt_buffer struct eckd_count * | start int | max int

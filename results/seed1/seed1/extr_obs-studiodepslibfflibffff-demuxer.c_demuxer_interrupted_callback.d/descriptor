@@ -1,0 +1,2 @@
+struct ff_demuxer | abort long 
+function demuxer_interrupted_callback int | opaque void *

@@ -1,0 +1,2 @@
+struct sun4i_usb_phy_data | vbus_power_supply long | vbus_det_gpio long 
+function sun4i_usb_phy0_have_vbus_det int | data struct sun4i_usb_phy_data *

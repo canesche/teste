@@ -1,0 +1,2 @@
+struct G722Band | diff_mem int * | zero_mem int * | s_zero int 
+function s_zero void | cur_diff int | band struct G722Band *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 143,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_reactosdllwin32ole32clipboard.c_find_format_in_list.d/extr_reactosdllwin32ole32clipboard.c_find_format_in_list_O0::find_format_in_list(67)"
+  }
+]

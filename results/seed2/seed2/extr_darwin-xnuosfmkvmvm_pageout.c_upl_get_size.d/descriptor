@@ -1,0 +1,2 @@
+struct TYPE_3__ | size int 
+function upl_get_size int | upl struct TYPE_3__ *

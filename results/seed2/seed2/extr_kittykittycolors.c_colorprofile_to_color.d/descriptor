@@ -1,0 +1,2 @@
+struct TYPE_3__ | color_table int * 
+function colorprofile_to_color int | self struct TYPE_3__ * | entry int | defval int

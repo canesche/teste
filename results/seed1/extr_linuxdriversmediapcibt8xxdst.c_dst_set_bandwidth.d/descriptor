@@ -1,2 +1,0 @@
-struct dst_state | bandwidth int | dst_type long | dst_hw_cap int | tx_tuna int * 
-function dst_set_bandwidth int | state struct dst_state * | bandwidth int

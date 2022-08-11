@@ -1,0 +1,1 @@
+function pthread_barrier_init int | mutex int *__restrict | attr const int *__restrict | u unsigned int

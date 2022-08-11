@@ -1,0 +1,3 @@
+struct drm_psb_private | mdfld_panel_id int 
+struct drm_device | dev_private struct drm_psb_private * 
+function mdfld_get_panel_type int | dev struct drm_device * | pipe int

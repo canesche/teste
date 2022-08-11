@@ -1,0 +1,7 @@
+struct TYPE_12__ | outf int 
+struct TYPE_11__ | flags int 
+struct TYPE_10__ | ctxlen int | interhunkctxlen int 
+struct TYPE_9__ | diff_cb int 
+struct TYPE_13__ | callback struct TYPE_12__ | params struct TYPE_11__ | config struct TYPE_10__ | output struct TYPE_9__ 
+struct TYPE_14__ | flags int | context_lines int | interhunk_lines int 
+function git_xdiff_init void | xo struct TYPE_13__ * | opts const struct TYPE_14__ *

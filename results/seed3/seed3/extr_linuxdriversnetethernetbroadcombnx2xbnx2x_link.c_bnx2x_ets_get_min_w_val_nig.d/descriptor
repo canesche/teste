@@ -1,0 +1,2 @@
+struct link_vars | line_speed long | link_up long 
+function bnx2x_ets_get_min_w_val_nig int | vars const struct link_vars *

@@ -1,0 +1,3 @@
+struct spu | devnode struct device_node * 
+struct device_node | dummy int 
+function spu_devnode struct device_node * | spu struct spu *

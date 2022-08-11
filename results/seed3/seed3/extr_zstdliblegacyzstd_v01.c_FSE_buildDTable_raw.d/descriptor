@@ -1,0 +1,3 @@
+struct TYPE_4__ | fastMode int | tableLog long 
+struct TYPE_3__ | nbBits void * | symbol void * | newState long 
+function FSE_buildDTable_raw unsigned long | dt int * | nbBits unsigned int

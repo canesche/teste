@@ -1,0 +1,3 @@
+struct task_struct | patch_state int 
+struct TYPE_2__ | patch_state int 
+function klp_copy_process void | child struct task_struct *

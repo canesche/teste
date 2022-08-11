@@ -1,0 +1,4 @@
+struct gpio_desc | gdev struct TYPE_2__ * 
+struct gpio_chip | dummy int 
+struct TYPE_2__ | chip struct gpio_chip * 
+function gpiod_to_chip struct gpio_chip * | desc const struct gpio_desc *

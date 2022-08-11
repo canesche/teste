@@ -1,0 +1,3 @@
+struct wmt_pinctrl_data | npins int | pins struct TYPE_2__ * 
+struct TYPE_2__ | number long 
+function wmt_pctl_find_group_by_pin int | data struct wmt_pinctrl_data * | pin long

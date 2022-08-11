@@ -1,0 +1,2 @@
+struct stream_encoder | dummy int 
+function virtual_stream_encoder_stop_dp_info_packets void | enc struct stream_encoder *

@@ -1,0 +1,2 @@
+struct bc_state | dummy int 
+function gigaset_isdn_connD void | bcs struct bc_state *

@@ -1,3 +1,0 @@
-struct TYPE_6__ | global_gain int | scalefac_scale int | preflag unsigned long | long_end int | scale_factors const int * | short_start int | subblock_gain int * 
-struct TYPE_5__ | sample_rate_index unsigned long 
-function exponents_from_scale_factors void | s struct TYPE_5__ * | g struct TYPE_6__ * | exponents int *

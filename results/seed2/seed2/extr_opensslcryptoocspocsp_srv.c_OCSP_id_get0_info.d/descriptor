@@ -1,0 +1,3 @@
+struct TYPE_4__ | algorithm int * 
+struct TYPE_5__ | serialNumber int | issuerKeyHash int | issuerNameHash int | hashAlgorithm struct TYPE_4__ 
+function OCSP_id_get0_info int | piNameHash int ** | pmd int ** | pikeyHash int ** | pserial int ** | cid struct TYPE_5__ *

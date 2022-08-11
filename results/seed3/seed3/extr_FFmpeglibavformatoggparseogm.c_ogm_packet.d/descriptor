@@ -1,0 +1,4 @@
+struct ogg_stream | buf int * | pstart int | psize int | pduration int | pflags int 
+struct ogg | streams struct ogg_stream * 
+struct TYPE_3__ | priv_data struct ogg * 
+function ogm_packet int | s struct TYPE_3__ * | idx int

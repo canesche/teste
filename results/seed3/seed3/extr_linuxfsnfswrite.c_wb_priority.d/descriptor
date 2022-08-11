@@ -1,0 +1,2 @@
+struct writeback_control | sync_mode long 
+function wb_priority int | wbc struct writeback_control *

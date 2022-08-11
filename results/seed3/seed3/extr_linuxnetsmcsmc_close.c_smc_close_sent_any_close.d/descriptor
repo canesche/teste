@@ -1,0 +1,4 @@
+struct TYPE_3__ | peer_conn_closed long | peer_conn_abort long 
+struct TYPE_4__ | conn_state_flags struct TYPE_3__ 
+struct smc_connection | local_tx_ctrl struct TYPE_4__ 
+function smc_close_sent_any_close int | conn struct smc_connection *

@@ -1,3 +1,0 @@
-struct tm6000_fh | dummy int 
-struct tm6000_core | resources struct tm6000_fh * 
-function is_res_streaming int | dev struct tm6000_core * | fh struct tm6000_fh *

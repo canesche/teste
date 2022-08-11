@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversinfinibandhwqedrqedr_roce_cm.c_qedr_ll2_release_rx_packet.d/extr_linuxdriversinfinibandhwqedrqedr_roce_cm.c_qedr_ll2_release_rx_packet_O0::qedr_ll2_release_rx_packet(64)"
+  }
+]

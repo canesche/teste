@@ -1,3 +1,0 @@
-struct TYPE_2__ | type int 
-struct kempld_device_data | info struct TYPE_2__ 
-function kempld_get_type_string const char * | pld struct kempld_device_data *

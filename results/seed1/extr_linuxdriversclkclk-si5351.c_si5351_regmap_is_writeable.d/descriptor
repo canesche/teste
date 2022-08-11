@@ -1,2 +1,0 @@
-struct device | dummy int 
-function si5351_regmap_is_writeable int | dev struct device * | reg unsigned int

@@ -1,0 +1,4 @@
+struct TYPE_6__ | sin_port unsigned short 
+struct TYPE_5__ | sa_family long 
+struct TYPE_7__ | s_in struct TYPE_6__ | sa struct TYPE_5__ 
+function BIO_ADDR_rawport unsigned short | ap const struct TYPE_7__ *

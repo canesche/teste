@@ -1,0 +1,3 @@
+struct vgic_its | dummy int 
+struct kvm | dummy int 
+function vgic_mmio_read_its_idregs unsigned long | kvm struct kvm * | its struct vgic_its * | addr int | len unsigned int

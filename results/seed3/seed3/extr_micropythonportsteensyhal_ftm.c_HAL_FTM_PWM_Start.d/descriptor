@@ -1,0 +1,1 @@
+function HAL_FTM_PWM_Start void | hftm int * | channel int

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function hnae_release void | dev struct device *

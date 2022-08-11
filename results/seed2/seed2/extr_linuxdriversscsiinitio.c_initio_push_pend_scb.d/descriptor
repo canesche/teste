@@ -1,0 +1,3 @@
+struct scsi_ctrl_blk | next struct scsi_ctrl_blk * | status int 
+struct initio_host | last_pending struct scsi_ctrl_blk * | first_pending struct scsi_ctrl_blk * 
+function initio_push_pend_scb void | host struct initio_host * | scbp struct scsi_ctrl_blk *

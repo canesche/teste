@@ -1,0 +1,1 @@
+function ff_hyscale_fast_c void | c int * | dst int * | dstWidth int | src const int * | srcW int | xInc int

@@ -1,0 +1,2 @@
+struct lpi2c_imx_struct | bitrate unsigned int | mode int 
+function lpi2c_imx_set_mode void | lpi2c_imx struct lpi2c_imx_struct *

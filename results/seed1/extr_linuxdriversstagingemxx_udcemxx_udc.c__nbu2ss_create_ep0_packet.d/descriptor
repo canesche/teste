@@ -1,4 +1,0 @@
-struct TYPE_4__ | length unsigned int | actual long | context struct nbu2ss_udc * | status int | complete int | zero int | dma long | buf void * 
-struct TYPE_3__ | req struct TYPE_4__ 
-struct nbu2ss_udc | ep0_req struct TYPE_3__ 
-function _nbu2ss_create_ep0_packet void | udc struct nbu2ss_udc * | p_buf void * | length unsigned int

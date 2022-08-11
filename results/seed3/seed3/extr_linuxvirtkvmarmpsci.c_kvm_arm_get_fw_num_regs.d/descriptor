@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function kvm_arm_get_fw_num_regs int | vcpu struct kvm_vcpu *

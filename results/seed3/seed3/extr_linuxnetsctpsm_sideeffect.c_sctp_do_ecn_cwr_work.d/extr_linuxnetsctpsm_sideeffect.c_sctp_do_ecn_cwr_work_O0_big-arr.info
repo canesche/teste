@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxnetsctpsm_sideeffect.c_sctp_do_ecn_cwr_work.d/extr_linuxnetsctpsm_sideeffect.c_sctp_do_ecn_cwr_work_O0::sctp_do_ecn_cwr_work(63)"
+  }
+]

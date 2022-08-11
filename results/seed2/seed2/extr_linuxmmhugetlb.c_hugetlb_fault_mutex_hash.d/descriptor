@@ -1,0 +1,5 @@
+struct vm_area_struct | dummy int 
+struct mm_struct | dummy int 
+struct hstate | dummy int 
+struct address_space | dummy int 
+function hugetlb_fault_mutex_hash int | h struct hstate * | mm struct mm_struct * | vma struct vm_area_struct * | mapping struct address_space * | idx int | address unsigned long

@@ -1,0 +1,2 @@
+struct TYPE_2__ | mask int | set int 
+function stb6100_normalise_regs void | regs int []

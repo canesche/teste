@@ -1,0 +1,2 @@
+struct TYPE_2__ | period int 
+function kperf_timer_get_period int | timerid unsigned int | period_abstime int *

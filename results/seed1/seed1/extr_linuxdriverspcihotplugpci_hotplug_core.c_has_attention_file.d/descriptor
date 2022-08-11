@@ -1,0 +1,4 @@
+struct pci_slot | hotplug struct hotplug_slot * 
+struct hotplug_slot | ops struct TYPE_2__ * 
+struct TYPE_2__ | get_attention_status long | set_attention_status long 
+function has_attention_file int | pci_slot struct pci_slot *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | policy_id int * 
+function TS_REQ_get_policy_id int * | a struct TYPE_3__ *

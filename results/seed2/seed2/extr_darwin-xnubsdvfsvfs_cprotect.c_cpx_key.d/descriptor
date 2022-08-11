@@ -1,0 +1,2 @@
+struct cpx | cpx_cached_key long 
+function cpx_key void * | cpx const struct cpx *

@@ -1,0 +1,4 @@
+struct hist_entry | mem_info struct TYPE_4__ * 
+struct TYPE_3__ | addr long 
+struct TYPE_4__ | iaddr struct TYPE_3__ 
+function sort__iaddr_cmp int | left struct hist_entry * | right struct hist_entry *

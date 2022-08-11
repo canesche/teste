@@ -1,0 +1,2 @@
+struct iwl_traffic_load | time_stamp long | head unsigned long | queue_count long | packet_count long * | total int 
+function rs_tl_rm_old_stats void | tl struct iwl_traffic_load * | curr_time long

@@ -1,3 +1,0 @@
-struct TYPE_4__ | ncaptures int | captures int * | ip long 
-struct TYPE_5__ | n int 
-function ngx_http_lua_script_copy_capture_len_code unsigned long | e struct TYPE_4__ *

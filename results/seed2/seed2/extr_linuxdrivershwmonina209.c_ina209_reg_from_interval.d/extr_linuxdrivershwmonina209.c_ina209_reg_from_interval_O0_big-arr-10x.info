@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 61,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdrivershwmonina209.c_ina209_reg_from_interval.d/extr_linuxdrivershwmonina209.c_ina209_reg_from_interval_O0::ina209_reg_from_interval(61)"
+  }
+]

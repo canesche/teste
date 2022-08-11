@@ -1,0 +1,2 @@
+struct TYPE_3__ | pix_fmt long | fourcc unsigned int 
+function avcodec_pix_fmt_to_codec_tag unsigned int | fmt enum AVPixelFormat

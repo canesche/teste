@@ -1,0 +1,2 @@
+struct tegra_xusb_mbox_msg | cmd int | data int 
+function tegra_xusb_mbox_pack int | msg const struct tegra_xusb_mbox_msg *

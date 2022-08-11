@@ -1,0 +1,2 @@
+struct kvm | dummy int 
+function pvclock_update_vm_gtod_copy void | kvm struct kvm *

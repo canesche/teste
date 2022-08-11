@@ -1,5 +1,0 @@
-struct scsi_sense_data | dummy int 
-struct scb | dummy int 
-struct ahc_softc | scb_data struct TYPE_2__ * 
-struct TYPE_2__ | sense_busaddr long | scbarray struct scb * 
-function ahc_get_sense_bufaddr long | ahc struct ahc_softc * | scb struct scb *

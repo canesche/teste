@@ -1,0 +1,2 @@
+struct socket | dummy int 
+function pru_disconnectx_notsupp int | so struct socket * | aid int | cid int

@@ -1,2 +1,0 @@
-struct tpm_chip | dummy int 
-function tpm_read_log_efi int | chip struct tpm_chip *

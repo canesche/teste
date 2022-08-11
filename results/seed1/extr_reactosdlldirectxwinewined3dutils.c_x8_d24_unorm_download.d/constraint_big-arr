@@ -1,1 +1,0 @@
-value(src_row_pitch) == 255, value(src_slice_pitch) == 255, value(dst_row_pitch) == 255, value(dst_slice_pitch) == 255, value(width) == 255, value(height) == 255, value(depth) == 255, length(src) == 65025, length(dst) == 65025

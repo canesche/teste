@@ -1,0 +1,3 @@
+struct event_ring_elem | dummy int 
+struct bnx2x | dummy int 
+function bnx2x_iov_eq_sp_event int | bp struct bnx2x * | elem union event_ring_elem *

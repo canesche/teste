@@ -1,0 +1,2 @@
+struct arc4_ctx | S unsigned long * | x unsigned long | y unsigned long 
+function arc4_crypt void | ctx struct arc4_ctx * | out int * | in const int * | len unsigned int

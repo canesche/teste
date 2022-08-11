@@ -1,0 +1,5 @@
+struct TYPE_3__ | pixelformat long 
+struct TYPE_4__ | pix struct TYPE_3__ 
+struct v4l2_format | fmt struct TYPE_4__ 
+struct mtk_video_fmt | fourcc long 
+function mtk_venc_find_format struct mtk_video_fmt * | f struct v4l2_format *

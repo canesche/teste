@@ -1,0 +1,3 @@
+struct TYPE_3__ | color int * 
+struct TYPE_4__ | color2D int * 
+function RB_SetColor const void * | data const void *

@@ -1,2 +1,0 @@
-struct pool | pool_hiwat int 
-function pool_sethiwat void | pp struct pool * | n int

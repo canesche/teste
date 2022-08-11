@@ -1,0 +1,6 @@
+struct TYPE_10__ | contents int | brushlist struct TYPE_11__ * | expansionbboxes int | modelnum long | planenum int | side int * 
+struct TYPE_11__ | numsides int | original struct TYPE_9__ * | next struct TYPE_11__ * | sides struct TYPE_8__ * 
+struct TYPE_12__ | allpresencetypes int 
+struct TYPE_9__ | contents int | modelnum long | expansionbbox int 
+struct TYPE_8__ | texinfo long 
+function LeafNode void | node struct TYPE_10__ * | brushes struct TYPE_11__ *

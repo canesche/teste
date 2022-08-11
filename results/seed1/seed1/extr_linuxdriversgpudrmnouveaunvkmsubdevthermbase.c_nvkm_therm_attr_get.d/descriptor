@@ -1,0 +1,9 @@
+struct TYPE_11__ | temp int | hysteresis int 
+struct TYPE_10__ | temp int | hysteresis int 
+struct TYPE_9__ | temp int | hysteresis int 
+struct TYPE_8__ | temp int | hysteresis int 
+struct TYPE_12__ | thrs_shutdown struct TYPE_11__ | thrs_critical struct TYPE_10__ | thrs_down_clock struct TYPE_9__ | thrs_fan_boost struct TYPE_8__ 
+struct nvkm_therm | mode int | bios_sensor struct TYPE_12__ | fan struct TYPE_14__ * 
+struct TYPE_13__ | min_duty int | max_duty int 
+struct TYPE_14__ | bios struct TYPE_13__ 
+function nvkm_therm_attr_get int | therm struct nvkm_therm * | type enum nvkm_therm_attr_type

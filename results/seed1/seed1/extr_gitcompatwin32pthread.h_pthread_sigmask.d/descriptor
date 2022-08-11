@@ -1,0 +1,1 @@
+function pthread_sigmask int | how int | set const int * | oset int *

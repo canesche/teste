@@ -1,0 +1,3 @@
+struct se_node_acl | initiatorname char * 
+struct iscsi_node_acl | se_node_acl struct se_node_acl 
+function iscsit_na_get_initiatorname char * | nacl struct iscsi_node_acl *

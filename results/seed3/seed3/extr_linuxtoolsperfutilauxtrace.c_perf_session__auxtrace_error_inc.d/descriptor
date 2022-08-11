@@ -1,0 +1,6 @@
+struct auxtrace_error_event | type unsigned long 
+struct perf_event | auxtrace_error struct auxtrace_error_event 
+struct perf_session | evlist struct TYPE_4__ * 
+struct TYPE_3__ | nr_auxtrace_errors int * 
+struct TYPE_4__ | stats struct TYPE_3__ 
+function perf_session__auxtrace_error_inc void | session struct perf_session * | event union perf_event *

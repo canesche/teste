@@ -1,3 +1,0 @@
-struct pci_dev | resource struct TYPE_2__ * 
-struct TYPE_2__ | start long | end int 
-function pci_fixup_unassign void | dev struct pci_dev *

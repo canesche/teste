@@ -1,3 +1,0 @@
-struct ath_ps_ops | dummy int 
-struct ath_common | ps_ops const struct ath_ps_ops * 
-function ath_ps_ops const struct ath_ps_ops * | common struct ath_common *

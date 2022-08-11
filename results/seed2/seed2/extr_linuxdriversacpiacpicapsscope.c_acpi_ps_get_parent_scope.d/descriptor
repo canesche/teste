@@ -1,0 +1,5 @@
+struct acpi_parse_object | dummy int 
+struct acpi_parse_state | scope struct TYPE_4__ * 
+struct TYPE_3__ | op union acpi_parse_object * 
+struct TYPE_4__ | parse_scope struct TYPE_3__ 
+function acpi_ps_get_parent_scope union acpi_parse_object * | parser_state struct acpi_parse_state *

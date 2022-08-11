@@ -1,0 +1,2 @@
+struct dstr | capacity long | len long | array int * 
+function dstr_init void | dst struct dstr *

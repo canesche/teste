@@ -1,1 +1,0 @@
-function ci_dpm_set_powergating_state int | handle void * | state enum amd_powergating_state

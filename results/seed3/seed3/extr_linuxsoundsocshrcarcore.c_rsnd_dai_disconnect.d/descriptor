@@ -1,0 +1,3 @@
+struct rsnd_mod | dummy int 
+struct rsnd_dai_stream | mod int ** 
+function rsnd_dai_disconnect void | mod struct rsnd_mod * | io struct rsnd_dai_stream * | type enum rsnd_mod_type

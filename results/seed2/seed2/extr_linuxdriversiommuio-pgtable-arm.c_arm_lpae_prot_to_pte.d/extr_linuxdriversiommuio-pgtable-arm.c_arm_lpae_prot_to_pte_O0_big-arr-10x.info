@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversiommuio-pgtable-arm.c_arm_lpae_prot_to_pte.d/extr_linuxdriversiommuio-pgtable-arm.c_arm_lpae_prot_to_pte_O0::arm_lpae_prot_to_pte(86)"
+  }
+]

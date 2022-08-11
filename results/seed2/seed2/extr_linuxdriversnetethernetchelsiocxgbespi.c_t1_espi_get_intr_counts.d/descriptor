@@ -1,0 +1,3 @@
+struct espi_intr_counts | dummy int 
+struct peespi | intr_cnt const struct espi_intr_counts 
+function t1_espi_get_intr_counts const struct espi_intr_counts * | espi struct peespi *

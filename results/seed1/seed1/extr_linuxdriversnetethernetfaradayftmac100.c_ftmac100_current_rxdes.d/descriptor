@@ -1,0 +1,4 @@
+struct ftmac100_rxdes | dummy int 
+struct ftmac100 | rx_pointer unsigned long | descs struct TYPE_2__ * 
+struct TYPE_2__ | rxdes struct ftmac100_rxdes * 
+function ftmac100_current_rxdes struct ftmac100_rxdes * | priv struct ftmac100 *

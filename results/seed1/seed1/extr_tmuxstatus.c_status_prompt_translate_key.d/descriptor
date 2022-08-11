@@ -1,0 +1,2 @@
+struct client | prompt_mode long | flags int 
+function status_prompt_translate_key int | c struct client * | key int | new_key int *

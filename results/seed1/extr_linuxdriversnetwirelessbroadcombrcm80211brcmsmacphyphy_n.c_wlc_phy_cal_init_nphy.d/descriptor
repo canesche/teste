@@ -1,2 +1,0 @@
-struct brcms_phy | dummy int 
-function wlc_phy_cal_init_nphy void | pi struct brcms_phy *

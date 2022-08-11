@@ -1,2 +1,0 @@
-struct ufs_sb_private_info | fs_magic long 
-function ufs_is_data_ptr_zero int | uspi struct ufs_sb_private_info * | p void *

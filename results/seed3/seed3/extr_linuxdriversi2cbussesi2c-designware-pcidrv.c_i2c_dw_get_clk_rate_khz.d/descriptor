@@ -1,0 +1,3 @@
+struct dw_i2c_dev | controller struct TYPE_2__ * 
+struct TYPE_2__ | clk_khz int 
+function i2c_dw_get_clk_rate_khz int | dev struct dw_i2c_dev *

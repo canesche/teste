@@ -1,0 +1,4 @@
+struct TYPE_6__ | crc int 
+struct TYPE_5__ | crc int 
+struct TYPE_7__ | extra_sc struct TYPE_6__ | sc struct TYPE_5__ | pos long 
+function wv_reset_saved_context void | s struct TYPE_7__ *

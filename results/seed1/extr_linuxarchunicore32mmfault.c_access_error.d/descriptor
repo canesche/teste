@@ -1,2 +1,0 @@
-struct vm_area_struct | vm_flags unsigned int 
-function access_error int | fsr unsigned int | vma struct vm_area_struct *

@@ -1,0 +1,2 @@
+struct ocfs2_super | osb_dir_resv_level long | osb_resv_level long 
+function ocfs2_dir_resv_allowed int | osb struct ocfs2_super *

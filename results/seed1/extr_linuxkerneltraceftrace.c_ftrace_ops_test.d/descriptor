@@ -1,2 +1,0 @@
-struct ftrace_ops | dummy int 
-function ftrace_ops_test int | ops struct ftrace_ops * | ip unsigned long | regs void *

@@ -1,0 +1,2 @@
+struct pt_regs | dummy int 
+function stack_overflow_check void | regs struct pt_regs *

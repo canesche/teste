@@ -1,0 +1,4 @@
+struct TYPE_7__ | trans long 
+struct TYPE_6__ | leapcnt int 
+struct TYPE_8__ | leap_times struct TYPE_7__ * | bit64 struct TYPE_6__ 
+function fetch_leaptime_offset struct TYPE_7__ * | tz struct TYPE_8__ * | ts long

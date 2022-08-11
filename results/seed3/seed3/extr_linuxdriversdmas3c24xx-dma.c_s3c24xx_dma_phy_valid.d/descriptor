@@ -1,0 +1,7 @@
+struct s3c24xx_dma_platdata | channels struct s3c24xx_dma_channel * 
+struct s3c24xx_dma_phy | id int 
+struct s3c24xx_dma_engine | sdata struct TYPE_2__ * | pdata struct s3c24xx_dma_platdata * 
+struct s3c24xx_dma_channel | chansel int 
+struct s3c24xx_dma_chan | id unsigned long | slave int | host struct s3c24xx_dma_engine * 
+struct TYPE_2__ | has_reqsel long 
+function s3c24xx_dma_phy_valid int | s3cchan struct s3c24xx_dma_chan * | phy struct s3c24xx_dma_phy *

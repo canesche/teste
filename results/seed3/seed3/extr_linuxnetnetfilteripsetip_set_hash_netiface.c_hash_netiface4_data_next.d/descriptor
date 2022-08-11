@@ -1,0 +1,2 @@
+struct hash_netiface4_elem | ip int 
+function hash_netiface4_data_next void | next struct hash_netiface4_elem * | d const struct hash_netiface4_elem *

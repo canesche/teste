@@ -1,0 +1,4 @@
+struct ip_vs_kstats | outpkts int | inpkts int | conns int | outbytes int | inbytes int 
+struct ip_vs_estimator | outbps long | inbps long | outpps long | inpps long | cps long | last_outpkts int | last_inpkts int | last_conns int | last_outbytes int | last_inbytes int 
+struct ip_vs_stats | kstats struct ip_vs_kstats | est struct ip_vs_estimator 
+function ip_vs_zero_estimator void | stats struct ip_vs_stats *

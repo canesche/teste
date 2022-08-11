@@ -1,0 +1,2 @@
+struct pfuze_chip | dummy int 
+function pfuze_parse_regulators_dt int | chip struct pfuze_chip *

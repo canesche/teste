@@ -1,3 +1,0 @@
-struct dwc3_trb | dummy int 
-struct dwc3_ep | trb_pool_dma int | trb_pool long 
-function dwc3_trb_dma_offset int | dep struct dwc3_ep * | trb struct dwc3_trb *

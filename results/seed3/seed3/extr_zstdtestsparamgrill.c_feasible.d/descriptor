@@ -1,0 +1,4 @@
+struct TYPE_6__ | cSpeed long | dSpeed long | cMem long 
+struct TYPE_8__ | cSize long 
+struct TYPE_7__ | cSpeed long | dSpeed long | cMem long | cSize long 
+function feasible int | results const struct TYPE_7__ | target const struct TYPE_6__

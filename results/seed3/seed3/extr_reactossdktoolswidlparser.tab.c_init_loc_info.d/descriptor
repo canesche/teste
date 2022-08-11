@@ -1,0 +1,2 @@
+struct TYPE_3__ | input_name char * | near_text int | line_number int 
+function init_loc_info void | i struct TYPE_3__ *

@@ -1,4 +1,0 @@
-struct mpu_rate | rate long | flags int | xtal unsigned long 
-struct clk | dummy int 
-struct TYPE_2__ | rate unsigned long 
-function omap1_round_to_table_rate long | clk struct clk * | rate unsigned long

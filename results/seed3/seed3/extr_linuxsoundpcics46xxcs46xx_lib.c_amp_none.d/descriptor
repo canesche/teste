@@ -1,0 +1,2 @@
+struct snd_cs46xx | dummy int 
+function amp_none void | chip struct snd_cs46xx * | change int

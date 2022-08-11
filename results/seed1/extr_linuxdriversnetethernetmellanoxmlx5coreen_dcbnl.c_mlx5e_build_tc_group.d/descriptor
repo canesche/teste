@@ -1,2 +1,0 @@
-struct ieee_ets | tc_tsa int * | tc_tx_bw long * 
-function mlx5e_build_tc_group void | ets struct ieee_ets * | tc_group int * | max_tc int

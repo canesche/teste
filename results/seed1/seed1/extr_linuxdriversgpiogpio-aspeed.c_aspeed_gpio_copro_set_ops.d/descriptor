@@ -1,0 +1,2 @@
+struct aspeed_gpio_copro_ops | dummy int 
+function aspeed_gpio_copro_set_ops int | ops const struct aspeed_gpio_copro_ops * | data void *

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function tegra30_i2s_wr_rd_reg int | dev struct device * | reg unsigned int

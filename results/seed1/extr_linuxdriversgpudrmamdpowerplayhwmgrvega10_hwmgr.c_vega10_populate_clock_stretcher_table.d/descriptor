@@ -1,8 +1,0 @@
-struct TYPE_6__ | CksVidOffset long * | CksEnable int * 
-struct TYPE_4__ | pp_table struct TYPE_6__ 
-struct vega10_hwmgr | smc_state_table struct TYPE_4__ 
-struct pp_hwmgr | pptable long | backend struct vega10_hwmgr * 
-struct phm_ppt_v2_information | vdd_dep_on_sclk struct phm_ppt_v1_clock_voltage_dependency_table * 
-struct phm_ppt_v1_clock_voltage_dependency_table | count unsigned long | entries struct TYPE_5__ * 
-struct TYPE_5__ | cks_voffset int | cks_enable int 
-function vega10_populate_clock_stretcher_table int | hwmgr struct pp_hwmgr *

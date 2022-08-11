@@ -1,0 +1,2 @@
+struct sonicvibes | dummy int 
+function snd_sonicvibes_create_gameport int | sonic struct sonicvibes *

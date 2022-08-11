@@ -1,0 +1,2 @@
+struct device | type int * 
+function is_usb_endpoint int | dev const struct device *

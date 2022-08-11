@@ -1,3 +1,0 @@
-struct TYPE_2__ | stats int * 
-struct gfs2_glock | gl_stats struct TYPE_2__ 
-function gfs2_glstats_inc void | gl struct gfs2_glock * | which int

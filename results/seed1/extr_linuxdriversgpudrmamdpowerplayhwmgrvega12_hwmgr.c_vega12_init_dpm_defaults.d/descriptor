@@ -1,5 +1,0 @@
-struct TYPE_4__ | disallowed_features int 
-struct vega12_hwmgr | registry_data struct TYPE_4__ | smu_features struct TYPE_3__ * 
-struct pp_hwmgr | backend long 
-struct TYPE_3__ | smu_feature_id unsigned long long | allowed int | smu_feature_bitmap long 
-function vega12_init_dpm_defaults void | hwmgr struct pp_hwmgr *

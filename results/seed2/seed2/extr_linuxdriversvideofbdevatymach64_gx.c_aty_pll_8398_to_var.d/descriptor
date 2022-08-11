@@ -1,0 +1,4 @@
+struct TYPE_2__ | period_in_ps int 
+struct aty_pll | ics2595 struct TYPE_2__ 
+struct fb_info | dummy int 
+function aty_pll_8398_to_var int | info const struct fb_info * | pll const union aty_pll *

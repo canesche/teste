@@ -1,0 +1,4 @@
+struct TYPE_4__ | default_power_state_index int | profiles struct TYPE_3__ * 
+struct radeon_device | pm struct TYPE_4__ 
+struct TYPE_3__ | dpms_off_ps_idx int | dpms_on_ps_idx int | dpms_on_cm_idx long | dpms_off_cm_idx long 
+function r420_pm_init_profile void | rdev struct radeon_device *

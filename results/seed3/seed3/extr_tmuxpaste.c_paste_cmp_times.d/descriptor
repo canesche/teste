@@ -1,0 +1,2 @@
+struct paste_buffer | order long 
+function paste_cmp_times int | a const struct paste_buffer * | b const struct paste_buffer *

@@ -1,0 +1,2 @@
+struct clk_div_table | div int 
+function _get_table_mindiv unsigned int | table const struct clk_div_table *

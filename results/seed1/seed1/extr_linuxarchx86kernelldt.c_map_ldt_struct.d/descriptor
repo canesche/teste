@@ -1,0 +1,3 @@
+struct mm_struct | dummy int 
+struct ldt_struct | dummy int 
+function map_ldt_struct int | mm struct mm_struct * | ldt struct ldt_struct * | slot int

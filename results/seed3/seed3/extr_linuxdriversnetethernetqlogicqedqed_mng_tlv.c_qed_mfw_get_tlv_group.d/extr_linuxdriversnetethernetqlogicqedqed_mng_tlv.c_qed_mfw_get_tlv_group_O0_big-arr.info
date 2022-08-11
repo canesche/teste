@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetethernetqlogicqedqed_mng_tlv.c_qed_mfw_get_tlv_group.d/extr_linuxdriversnetethernetqlogicqedqed_mng_tlv.c_qed_mfw_get_tlv_group_O0::qed_mfw_get_tlv_group(262)"
+  }
+]

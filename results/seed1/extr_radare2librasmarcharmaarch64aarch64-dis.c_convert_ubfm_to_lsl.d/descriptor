@@ -1,4 +1,0 @@
-struct TYPE_7__ | operands struct TYPE_6__ * 
-struct TYPE_5__ | value long 
-struct TYPE_6__ | qualifier long | imm struct TYPE_5__ | type int 
-function convert_ubfm_to_lsl int | inst struct TYPE_7__ *

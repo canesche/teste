@@ -1,0 +1,2 @@
+struct rds_ib_device | vector_load int * 
+function ibdev_put_vector void | rds_ibdev struct rds_ib_device * | index int

@@ -1,0 +1,2 @@
+struct faulty_conf | nfaults int | faults long * | modes int * 
+function add_sector void | conf struct faulty_conf * | start long | mode int

@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function amd7409_cable_detect void | dev struct pci_dev *

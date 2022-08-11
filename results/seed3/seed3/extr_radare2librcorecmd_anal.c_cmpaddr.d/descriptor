@@ -1,0 +1,2 @@
+struct TYPE_2__ | addr long 
+function cmpaddr int | _a const void * | _b const void *

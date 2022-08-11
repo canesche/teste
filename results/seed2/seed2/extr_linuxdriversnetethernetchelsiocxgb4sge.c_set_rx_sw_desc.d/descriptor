@@ -1,0 +1,3 @@
+struct rx_sw_desc | dma_addr int | page struct page * 
+struct page | dummy int 
+function set_rx_sw_desc void | sd struct rx_sw_desc * | pg struct page * | mapping int

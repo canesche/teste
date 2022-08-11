@@ -1,6 +1,0 @@
-struct TYPE_5__ | num_vectors long | roce_io_base int | netdev int | base_vector int 
-struct TYPE_4__ | netdev int 
-struct hnae3_handle | numa_node_mask int | ae_algo int | pdev int | rinfo struct TYPE_5__ | kinfo struct TYPE_4__ 
-struct TYPE_6__ | io_base int 
-struct hclgevf_dev | num_roce_msix long | num_msi_left long | hw struct TYPE_6__ | roce_base_vector int | nic struct hnae3_handle | roce struct hnae3_handle 
-function hclgevf_init_roce_base_info int | hdev struct hclgevf_dev *

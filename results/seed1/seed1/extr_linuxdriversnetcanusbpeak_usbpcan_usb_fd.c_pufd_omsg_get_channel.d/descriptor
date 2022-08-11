@@ -1,0 +1,2 @@
+struct pcan_ufd_ovr_msg | channel int 
+function pufd_omsg_get_channel int | om struct pcan_ufd_ovr_msg *

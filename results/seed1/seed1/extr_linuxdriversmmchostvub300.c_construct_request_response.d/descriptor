@@ -1,0 +1,5 @@
+struct TYPE_3__ | command_response int * 
+struct TYPE_4__ | response struct TYPE_3__ 
+struct vub300_mmc_host | resp_len int | resp struct TYPE_4__ 
+struct mmc_command | resp int * | opcode int 
+function construct_request_response void | vub300 struct vub300_mmc_host * | cmd struct mmc_command *

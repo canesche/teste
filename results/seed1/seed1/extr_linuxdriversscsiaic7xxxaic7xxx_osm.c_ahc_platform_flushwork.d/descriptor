@@ -1,0 +1,2 @@
+struct ahc_softc | dummy int 
+function ahc_platform_flushwork void | ahc struct ahc_softc *

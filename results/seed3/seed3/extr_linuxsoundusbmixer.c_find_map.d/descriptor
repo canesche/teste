@@ -1,0 +1,2 @@
+struct usbmix_name_map | id int | control int 
+function find_map const struct usbmix_name_map * | p const struct usbmix_name_map * | unitid int | control int

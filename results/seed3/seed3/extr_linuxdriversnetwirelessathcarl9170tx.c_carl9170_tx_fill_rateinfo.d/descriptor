@@ -1,0 +1,5 @@
+struct TYPE_4__ | rates struct TYPE_3__ * 
+struct ieee80211_tx_info | status struct TYPE_4__ 
+struct ar9170 | dummy int 
+struct TYPE_3__ | idx int | count unsigned int 
+function carl9170_tx_fill_rateinfo void | ar struct ar9170 * | rix unsigned int | tries unsigned int | txinfo struct ieee80211_tx_info *

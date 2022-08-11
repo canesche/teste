@@ -1,0 +1,2 @@
+struct console | dummy int 
+function simcons_init int | cons struct console * | options char *

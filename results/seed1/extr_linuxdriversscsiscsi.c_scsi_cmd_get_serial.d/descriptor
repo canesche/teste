@@ -1,3 +1,0 @@
-struct scsi_cmnd | serial_number long 
-struct Scsi_Host | cmd_serial_number int 
-function scsi_cmd_get_serial void | host struct Scsi_Host * | cmd struct scsi_cmnd *

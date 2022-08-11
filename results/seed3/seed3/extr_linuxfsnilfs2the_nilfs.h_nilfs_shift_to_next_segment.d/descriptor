@@ -1,0 +1,2 @@
+struct the_nilfs | ns_seg_seq int | ns_pseg_offset long | ns_nextnum int | ns_segnum int 
+function nilfs_shift_to_next_segment void | nilfs struct the_nilfs *

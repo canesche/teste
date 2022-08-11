@@ -1,0 +1,2 @@
+struct ath6kl | dummy int 
+function ath6kl_usb_get_default_pipe void | ar struct ath6kl * | ul_pipe int * | dl_pipe int *

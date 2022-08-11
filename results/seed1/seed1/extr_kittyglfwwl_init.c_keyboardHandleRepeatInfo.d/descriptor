@@ -1,0 +1,4 @@
+struct wl_keyboard | dummy int 
+struct TYPE_3__ | keyboardRepeatDelay void * | keyboardRepeatRate void * | keyboard struct wl_keyboard * 
+struct TYPE_4__ | wl struct TYPE_3__ 
+function keyboardHandleRepeatInfo void | data void * | keyboard struct wl_keyboard * | rate void * | delay void *

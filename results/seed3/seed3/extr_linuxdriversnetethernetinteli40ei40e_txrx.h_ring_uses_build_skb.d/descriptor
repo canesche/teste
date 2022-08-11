@@ -1,0 +1,2 @@
+struct i40e_ring | flags int 
+function ring_uses_build_skb int | ring struct i40e_ring *

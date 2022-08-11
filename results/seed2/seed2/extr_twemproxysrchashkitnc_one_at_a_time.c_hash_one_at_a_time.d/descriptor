@@ -1,0 +1,1 @@
+function hash_one_at_a_time int | key const char * | key_length unsigned long

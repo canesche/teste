@@ -1,0 +1,3 @@
+struct irq_data | irq int 
+struct TYPE_2__ | imask0 int 
+function disable_local0_irq void | d struct irq_data *

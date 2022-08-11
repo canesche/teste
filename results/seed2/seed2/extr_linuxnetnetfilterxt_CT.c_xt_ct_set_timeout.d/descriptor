@@ -1,0 +1,3 @@
+struct xt_tgchk_param | dummy int 
+struct nf_conn | dummy int 
+function xt_ct_set_timeout int | ct struct nf_conn * | par const struct xt_tgchk_param * | timeout_name const char *

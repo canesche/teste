@@ -1,4 +1,0 @@
-struct r_bin_te_obj_t | kv int * 
-struct TYPE_5__ | o struct TYPE_4__ * 
-struct TYPE_4__ | bin_obj long 
-function get_sdb int * | bf struct TYPE_5__ *

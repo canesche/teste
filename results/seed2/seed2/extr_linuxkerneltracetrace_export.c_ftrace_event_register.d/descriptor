@@ -1,0 +1,2 @@
+struct trace_event_call | dummy int 
+function ftrace_event_register int | call struct trace_event_call * | type enum trace_reg | data void *

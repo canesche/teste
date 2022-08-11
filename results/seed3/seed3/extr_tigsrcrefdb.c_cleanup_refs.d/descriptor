@@ -1,0 +1,3 @@
+struct ref_opt | changed int 
+struct ref | id long * | valid int 
+function cleanup_refs int | data void * | ref_ void *

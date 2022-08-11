@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_kphp-kdbfilesysfilesys-xfs-engine.c_init_filesys_data.d/extr_kphp-kdbfilesysfilesys-xfs-engine.c_init_filesys_data_O0::init_filesys_data(61)"
+  }
+]

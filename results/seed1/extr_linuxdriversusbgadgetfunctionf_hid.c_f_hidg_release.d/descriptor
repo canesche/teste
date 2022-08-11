@@ -1,3 +1,0 @@
-struct inode | dummy int 
-struct file | private_data int * 
-function f_hidg_release int | inode struct inode * | fd struct file *

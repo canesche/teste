@@ -1,6 +1,0 @@
-struct the_nilfs | ns_dat struct inode * 
-struct nilfs_bmap | b_inode struct TYPE_4__ * 
-struct inode | dummy int 
-struct TYPE_4__ | i_sb struct TYPE_3__ * 
-struct TYPE_3__ | s_fs_info struct the_nilfs * 
-function nilfs_bmap_get_dat struct inode * | bmap const struct nilfs_bmap *

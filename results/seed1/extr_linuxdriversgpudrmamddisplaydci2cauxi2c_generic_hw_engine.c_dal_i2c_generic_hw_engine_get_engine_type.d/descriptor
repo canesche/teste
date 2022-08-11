@@ -1,2 +1,0 @@
-struct engine | dummy int 
-function dal_i2c_generic_hw_engine_get_engine_type enum i2caux_engine_type | engine const struct engine *

@@ -1,0 +1,2 @@
+struct omap_aes_dev | flags int 
+function omap_aes_clear_copy_flags void | dd struct omap_aes_dev *

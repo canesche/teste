@@ -1,1 +1,0 @@
-function AMF_EncodeInt32 char * | output char * | outend char * | nVal int

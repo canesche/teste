@@ -1,0 +1,2 @@
+struct tty_struct | driver_data int * 
+function ntty_cleanup void | tty struct tty_struct *

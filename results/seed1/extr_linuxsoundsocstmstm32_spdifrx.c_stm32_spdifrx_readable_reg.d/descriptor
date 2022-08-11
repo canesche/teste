@@ -1,2 +1,0 @@
-struct device | dummy int 
-function stm32_spdifrx_readable_reg int | dev struct device * | reg unsigned int

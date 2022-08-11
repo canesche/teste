@@ -1,0 +1,3 @@
+struct posix_acl | dummy int 
+struct inode | dummy int 
+function xfs_get_acl struct posix_acl * | inode struct inode * | type int

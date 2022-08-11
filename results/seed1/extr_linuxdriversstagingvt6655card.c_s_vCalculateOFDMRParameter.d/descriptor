@@ -1,1 +1,0 @@
-function s_vCalculateOFDMRParameter void | byRate unsigned char | bb_type int | pbyTxRate unsigned char * | pbyRsvTime unsigned char *

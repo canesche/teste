@@ -1,1 +1,0 @@
-function _absolutetime_to_nanotime void | abstime int | secs int * | nanosecs long *

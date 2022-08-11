@@ -1,0 +1,4 @@
+struct viu_fh | dev struct TYPE_2__ * 
+struct file | dummy int 
+struct TYPE_2__ | std int 
+function vidioc_g_std int | file struct file * | priv void * | std_id int *

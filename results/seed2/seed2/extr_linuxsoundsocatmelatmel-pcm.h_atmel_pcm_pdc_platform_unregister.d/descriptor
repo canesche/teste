@@ -1,0 +1,2 @@
+struct device | dummy int 
+function atmel_pcm_pdc_platform_unregister void | dev struct device *

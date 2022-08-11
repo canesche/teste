@@ -1,0 +1,2 @@
+struct vmw_piter | i unsigned long | addrs int * 
+function __vmw_piter_dma_addr int | viter struct vmw_piter *

@@ -1,0 +1,2 @@
+struct i2s_dai | sec_dai struct i2s_dai * | pri_dai long 
+function get_other_dai struct i2s_dai * | i2s struct i2s_dai *

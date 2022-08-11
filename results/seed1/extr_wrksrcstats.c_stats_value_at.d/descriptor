@@ -1,2 +1,0 @@
-struct TYPE_3__ | min unsigned long | max unsigned long | data unsigned long * 
-function stats_value_at unsigned long | stats struct TYPE_3__ * | index unsigned long | count unsigned long *

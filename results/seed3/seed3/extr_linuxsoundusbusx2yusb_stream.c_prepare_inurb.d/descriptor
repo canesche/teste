@@ -1,0 +1,3 @@
+struct usb_iso_packet_descriptor | length int | offset long 
+struct urb | number_of_packets int | transfer_buffer_length int | iso_frame_desc struct usb_iso_packet_descriptor * 
+function prepare_inurb void | number_of_packets int | iu struct urb *

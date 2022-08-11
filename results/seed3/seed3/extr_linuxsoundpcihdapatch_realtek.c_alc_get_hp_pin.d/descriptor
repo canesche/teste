@@ -1,0 +1,4 @@
+struct TYPE_3__ | line_out_type long | line_out_pins long * | hp_pins long * 
+struct TYPE_4__ | autocfg struct TYPE_3__ 
+struct alc_spec | gen struct TYPE_4__ 
+function alc_get_hp_pin long | spec struct alc_spec *

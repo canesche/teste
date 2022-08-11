@@ -1,0 +1,4 @@
+struct vfio_platform_device | opaque long 
+struct resource | dummy int 
+struct amba_device | res struct resource 
+function get_amba_resource struct resource * | vdev struct vfio_platform_device * | i int

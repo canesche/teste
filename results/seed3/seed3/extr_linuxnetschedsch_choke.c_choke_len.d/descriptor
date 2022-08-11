@@ -1,0 +1,2 @@
+struct choke_sched_data | tail unsigned int | head unsigned int | tab_mask unsigned int 
+function choke_len unsigned int | q const struct choke_sched_data *

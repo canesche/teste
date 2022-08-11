@@ -1,0 +1,2 @@
+struct ufs_hba | caps int 
+function ufshcd_can_hibern8_during_gating int | hba struct ufs_hba *

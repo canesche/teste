@@ -1,0 +1,4 @@
+struct snd_pcm_substream | runtime struct TYPE_2__ * 
+struct dmaengine_pcm_runtime_data | dummy int 
+struct TYPE_2__ | private_data struct dmaengine_pcm_runtime_data * 
+function substream_to_prtd struct dmaengine_pcm_runtime_data * | substream const struct snd_pcm_substream *

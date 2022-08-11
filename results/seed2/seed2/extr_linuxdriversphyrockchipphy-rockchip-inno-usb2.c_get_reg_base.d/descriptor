@@ -1,0 +1,3 @@
+struct rockchip_usb2phy | usbgrf struct regmap * | grf struct regmap * 
+struct regmap | dummy int 
+function get_reg_base struct regmap * | rphy struct rockchip_usb2phy *

@@ -1,0 +1,3 @@
+struct listen_entry | dummy int 
+struct tid_info | stid_base unsigned int | stid_tab union listen_entry * 
+function stid2entry union listen_entry * | t const struct tid_info * | stid unsigned int

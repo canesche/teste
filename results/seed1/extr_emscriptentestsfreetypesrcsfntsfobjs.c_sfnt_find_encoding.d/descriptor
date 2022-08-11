@@ -1,2 +1,0 @@
-function sfnt_find_encoding int | platform_id int | encoding_id int
-struct TEncoding_ | platform_id int | encoding_id int | encoding int 

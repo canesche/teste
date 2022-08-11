@@ -1,0 +1,2 @@
+struct scsi_pointer | ptr unsigned char * | this_residual int 
+function put_next_SCp_byte void | SCp struct scsi_pointer * | c unsigned char

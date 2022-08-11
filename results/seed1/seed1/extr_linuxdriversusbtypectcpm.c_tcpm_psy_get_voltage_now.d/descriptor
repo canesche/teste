@@ -1,0 +1,3 @@
+struct power_supply_propval | intval int 
+struct tcpm_port | supply_voltage int 
+function tcpm_psy_get_voltage_now int | port struct tcpm_port * | val union power_supply_propval *

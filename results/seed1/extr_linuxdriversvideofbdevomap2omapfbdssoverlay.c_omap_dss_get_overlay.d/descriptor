@@ -1,2 +1,0 @@
-struct omap_overlay | dummy int 
-function omap_dss_get_overlay struct omap_overlay * | num int

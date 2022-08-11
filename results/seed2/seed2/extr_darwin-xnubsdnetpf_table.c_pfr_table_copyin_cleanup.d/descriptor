@@ -1,0 +1,2 @@
+struct pfr_table | pfrt_anchor char * | pfrt_name char * 
+function pfr_table_copyin_cleanup void | tbl struct pfr_table *

@@ -1,0 +1,2 @@
+struct otg_switch_mtk | dummy int 
+function ssusb_set_vbus int | otg_sx struct otg_switch_mtk * | is_on int

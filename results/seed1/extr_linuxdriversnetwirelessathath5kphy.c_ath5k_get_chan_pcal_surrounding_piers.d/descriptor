@@ -1,6 +1,0 @@
-struct ieee80211_channel | center_freq long | hw_value int 
-struct ath5k_eeprom_info | ee_n_piers unsigned long * | ee_pwr_cal_g struct ath5k_chan_pcal_info * | ee_pwr_cal_b struct ath5k_chan_pcal_info * | ee_pwr_cal_a struct ath5k_chan_pcal_info * 
-struct TYPE_2__ | cap_eeprom struct ath5k_eeprom_info 
-struct ath5k_hw | ah_capabilities struct TYPE_2__ 
-struct ath5k_chan_pcal_info | freq long 
-function ath5k_get_chan_pcal_surrounding_piers void | ah struct ath5k_hw * | channel struct ieee80211_channel * | pcinfo_l struct ath5k_chan_pcal_info ** | pcinfo_r struct ath5k_chan_pcal_info **

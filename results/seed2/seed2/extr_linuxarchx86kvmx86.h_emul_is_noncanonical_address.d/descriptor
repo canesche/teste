@@ -1,0 +1,2 @@
+struct x86_emulate_ctxt | dummy int 
+function emul_is_noncanonical_address int | la int | ctxt struct x86_emulate_ctxt *

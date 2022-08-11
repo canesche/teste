@@ -1,2 +1,0 @@
-struct dwc2_hsotg_ep | periodic int 
-function is_ep_periodic int | hs_ep struct dwc2_hsotg_ep *

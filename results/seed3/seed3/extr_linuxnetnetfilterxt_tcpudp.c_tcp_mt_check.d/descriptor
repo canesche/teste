@@ -1,0 +1,3 @@
+struct xt_tcp | invflags int 
+struct xt_mtchk_param | matchinfo struct xt_tcp * 
+function tcp_mt_check int | par const struct xt_mtchk_param *

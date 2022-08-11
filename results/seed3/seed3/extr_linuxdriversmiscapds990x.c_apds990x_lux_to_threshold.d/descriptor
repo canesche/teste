@@ -1,0 +1,4 @@
+struct TYPE_4__ | afactor int | cf1 int | irf1 int | cf2 int | irf2 int 
+struct TYPE_3__ | ga int | df int 
+struct apds990x_chip | lux_calib int | again_next unsigned long | lux_ir int | again_meas unsigned long | lux_clear int | a_max_result int | rcf struct TYPE_4__ | cf struct TYPE_3__ | atime long 
+function apds990x_lux_to_threshold int | chip struct apds990x_chip * | lux int

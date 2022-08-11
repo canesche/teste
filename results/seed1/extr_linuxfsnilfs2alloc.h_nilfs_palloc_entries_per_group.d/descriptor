@@ -1,2 +1,0 @@
-struct inode | i_blkbits int 
-function nilfs_palloc_entries_per_group unsigned long | inode const struct inode *

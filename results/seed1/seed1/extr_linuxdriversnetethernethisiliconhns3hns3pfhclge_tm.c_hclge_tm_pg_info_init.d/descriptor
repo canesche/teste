@@ -1,0 +1,4 @@
+struct TYPE_4__ | num_pg unsigned long | pg_dwrr int * | num_tc int | pg_info struct TYPE_3__ * 
+struct hclge_dev | tm_info struct TYPE_4__ | hw_tc_map int 
+struct TYPE_3__ | pg_id unsigned long | tc_dwrr int * | tc_bit_map int | bw_limit int | pg_sch_mode int 
+function hclge_tm_pg_info_init void | hdev struct hclge_dev *

@@ -1,5 +1,0 @@
-struct TYPE_10__ | uItemHeight int | clientWidth int | firstVisible struct TYPE_8__ * 
-struct TYPE_7__ | top int | bottom int | right int | left long 
-struct TYPE_9__ | visibleOrder int | iIntegral int | rect struct TYPE_7__ 
-struct TYPE_8__ | visibleOrder int 
-function TREEVIEW_ComputeItemRect int | infoPtr const struct TYPE_10__ * | item struct TYPE_9__ *

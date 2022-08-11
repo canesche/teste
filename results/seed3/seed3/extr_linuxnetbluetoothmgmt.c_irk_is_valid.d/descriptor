@@ -1,0 +1,4 @@
+struct TYPE_3__ | b int * 
+struct TYPE_4__ | type int | bdaddr struct TYPE_3__ 
+struct mgmt_irk_info | addr struct TYPE_4__ 
+function irk_is_valid int | irk struct mgmt_irk_info *

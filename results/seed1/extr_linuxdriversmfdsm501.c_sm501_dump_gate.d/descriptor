@@ -1,2 +1,0 @@
-struct sm501_devdata | dummy int 
-function sm501_dump_gate void | sm struct sm501_devdata *

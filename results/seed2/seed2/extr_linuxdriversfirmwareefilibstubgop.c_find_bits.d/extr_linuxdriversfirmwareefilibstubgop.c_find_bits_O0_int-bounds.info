@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 10,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 46,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 71,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversfirmwareefilibstubgop.c_find_bits.d/extr_linuxdriversfirmwareefilibstubgop.c_find_bits_O0::find_bits(61)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversspispi-bitbang.c_spi_bitbang_setup_transfer.d/extr_linuxdriversspispi-bitbang.c_spi_bitbang_setup_transfer_O0::spi_bitbang_setup_transfer(70)"
+  }
+]

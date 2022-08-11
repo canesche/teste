@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct netlink_callback | dummy int 
+function batadv_bla_claim_dump int | msg struct sk_buff * | cb struct netlink_callback *

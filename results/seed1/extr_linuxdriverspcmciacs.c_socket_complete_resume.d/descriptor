@@ -1,2 +1,0 @@
-struct pcmcia_socket | dummy int 
-function socket_complete_resume int | skt struct pcmcia_socket *

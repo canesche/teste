@@ -1,0 +1,3 @@
+struct unicam_fmt | fourcc long 
+struct unicam_device | num_active_fmt unsigned int | active_fmts struct unicam_fmt * 
+function find_format_by_pix const struct unicam_fmt * | dev struct unicam_device * | pixelformat long

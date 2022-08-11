@@ -1,3 +1,0 @@
-struct ata_taskfile | command long | feature long | nsect long 
-struct ata_device | gtf_filter int 
-function ata_acpi_filter_tf int | dev struct ata_device * | tf const struct ata_taskfile * | ptf const struct ata_taskfile *

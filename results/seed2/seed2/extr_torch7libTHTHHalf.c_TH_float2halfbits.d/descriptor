@@ -1,0 +1,1 @@
+function TH_float2halfbits void | src float * | dest unsigned short *

@@ -1,0 +1,3 @@
+struct svc_rqst | rq_respages int ** | rq_next_page int ** 
+struct svc_rdma_send_ctxt | sc_page_count int | sc_pages int ** 
+function svc_rdma_save_io_pages void | rqstp struct svc_rqst * | ctxt struct svc_rdma_send_ctxt *

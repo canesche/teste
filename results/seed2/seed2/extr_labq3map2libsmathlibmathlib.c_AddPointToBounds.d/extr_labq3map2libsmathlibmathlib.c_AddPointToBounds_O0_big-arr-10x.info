@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 73,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_labq3map2libsmathlibmathlib.c_AddPointToBounds.d/extr_labq3map2libsmathlibmathlib.c_AddPointToBounds_O0::AddPointToBounds(61)"
+  }
+]

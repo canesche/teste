@@ -1,0 +1,2 @@
+struct bnx2x | dummy int 
+function bnx2x_iov_is_vf_cid int | bp struct bnx2x * | cid long

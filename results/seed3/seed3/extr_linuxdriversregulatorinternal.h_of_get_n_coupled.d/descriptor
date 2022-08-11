@@ -1,0 +1,2 @@
+struct regulator_dev | dummy int 
+function of_get_n_coupled int | rdev struct regulator_dev *

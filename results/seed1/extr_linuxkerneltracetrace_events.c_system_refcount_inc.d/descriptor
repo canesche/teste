@@ -1,2 +1,0 @@
-struct event_subsystem | ref_count int 
-function system_refcount_inc int | system struct event_subsystem *

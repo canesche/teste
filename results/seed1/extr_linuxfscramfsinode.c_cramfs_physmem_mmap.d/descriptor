@@ -1,3 +1,0 @@
-struct vm_area_struct | vm_flags int 
-struct file | dummy int 
-function cramfs_physmem_mmap int | file struct file * | vma struct vm_area_struct *

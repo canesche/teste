@@ -1,2 +1,0 @@
-struct halmac_adapter | hal_adapter_backup struct halmac_adapter * 
-function halmac_adapter_validate enum halmac_ret_status | halmac_adapter struct halmac_adapter *

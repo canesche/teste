@@ -1,0 +1,1 @@
+function lodepng_set32bitInt void | buffer unsigned char * | value unsigned int

@@ -1,0 +1,2 @@
+struct dma_fifo | in int | out int 
+function dma_fifo_out_level int | fifo struct dma_fifo *

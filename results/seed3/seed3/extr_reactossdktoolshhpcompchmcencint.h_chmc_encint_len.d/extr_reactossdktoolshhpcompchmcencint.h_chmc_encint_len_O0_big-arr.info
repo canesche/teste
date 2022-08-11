@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_reactossdktoolshhpcompchmcencint.h_chmc_encint_len.d/extr_reactossdktoolshhpcompchmcencint.h_chmc_encint_len_O0::chmc_encint_len(60)"
+  }
+]

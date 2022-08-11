@@ -1,2 +1,0 @@
-struct watchdog_device | timeout int 
-function wdt_ping int | wdd struct watchdog_device *

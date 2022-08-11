@@ -1,0 +1,3 @@
+struct TYPE_4__ | keepalive_onoff int 
+struct TYPE_5__ | ictl struct TYPE_4__ 
+function lmc_set_protocol void | sc struct TYPE_5__ *const | ctl int *

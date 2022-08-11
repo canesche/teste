@@ -1,0 +1,3 @@
+struct TYPE_5__ | sin_family long | sin_port int 
+struct TYPE_4__ | addr int 
+function hysock_sockaddr_port int | handle struct TYPE_4__ *

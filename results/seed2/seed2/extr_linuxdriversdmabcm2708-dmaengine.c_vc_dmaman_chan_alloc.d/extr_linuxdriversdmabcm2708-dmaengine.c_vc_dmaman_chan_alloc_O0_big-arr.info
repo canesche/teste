@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversdmabcm2708-dmaengine.c_vc_dmaman_chan_alloc.d/extr_linuxdriversdmabcm2708-dmaengine.c_vc_dmaman_chan_alloc_O0::vc_dmaman_chan_alloc(65)"
+  }
+]

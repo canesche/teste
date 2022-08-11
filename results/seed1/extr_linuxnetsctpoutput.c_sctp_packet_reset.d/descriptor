@@ -1,2 +1,0 @@
-struct sctp_packet | auth int * | ipfragok long | has_auth long | has_data long | has_sack long | has_cookie_echo long | overhead int | size int 
-function sctp_packet_reset void | packet struct sctp_packet *

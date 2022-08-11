@@ -1,0 +1,1 @@
+function append_str int | buf char * | curp char ** | lenp int * | s const char *

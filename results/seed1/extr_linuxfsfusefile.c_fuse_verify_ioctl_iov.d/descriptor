@@ -1,2 +1,0 @@
-struct iovec | iov_len unsigned long 
-function fuse_verify_ioctl_iov int | iov struct iovec * | count unsigned long

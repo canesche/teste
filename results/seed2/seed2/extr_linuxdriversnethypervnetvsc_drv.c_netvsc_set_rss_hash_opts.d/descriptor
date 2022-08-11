@@ -1,0 +1,3 @@
+struct net_device_context | l4_hash int 
+struct ethtool_rxnfc | data int | flow_type int 
+function netvsc_set_rss_hash_opts int | ndc struct net_device_context * | info struct ethtool_rxnfc *

@@ -1,0 +1,4 @@
+struct TYPE_2__ | guest_phys_addr long | memory_size long 
+struct userspace_mem_region | region struct TYPE_2__ | next struct userspace_mem_region * 
+struct kvm_vm | userspace_mem_region_head struct userspace_mem_region * 
+function userspace_mem_region_find struct userspace_mem_region * | vm struct kvm_vm * | start long | end long

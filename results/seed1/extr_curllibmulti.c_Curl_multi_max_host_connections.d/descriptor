@@ -1,2 +1,0 @@
-struct Curl_multi | max_host_connections unsigned long 
-function Curl_multi_max_host_connections unsigned long | multi struct Curl_multi *

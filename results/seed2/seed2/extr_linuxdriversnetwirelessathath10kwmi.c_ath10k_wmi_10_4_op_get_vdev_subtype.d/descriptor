@@ -1,0 +1,2 @@
+struct ath10k | dummy int 
+function ath10k_wmi_10_4_op_get_vdev_subtype int | ar struct ath10k * | subtype enum wmi_vdev_subtype

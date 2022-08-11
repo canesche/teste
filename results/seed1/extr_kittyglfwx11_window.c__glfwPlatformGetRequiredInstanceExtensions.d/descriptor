@@ -1,3 +1,0 @@
-struct TYPE_3__ | KHR_xcb_surface long | KHR_xlib_surface int | KHR_surface int 
-struct TYPE_4__ | vk struct TYPE_3__ 
-function _glfwPlatformGetRequiredInstanceExtensions void | extensions char **

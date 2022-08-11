@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function imx_pcm_dma_init int | pdev struct platform_device * | size unsigned long

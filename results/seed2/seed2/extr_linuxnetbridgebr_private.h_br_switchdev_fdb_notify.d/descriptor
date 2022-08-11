@@ -1,0 +1,2 @@
+struct net_bridge_fdb_entry | dummy int 
+function br_switchdev_fdb_notify void | fdb const struct net_bridge_fdb_entry * | type int

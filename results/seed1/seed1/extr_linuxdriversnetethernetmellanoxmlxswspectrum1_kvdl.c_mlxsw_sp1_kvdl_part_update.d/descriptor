@@ -1,0 +1,3 @@
+struct TYPE_2__ | end_index unsigned int | start_index unsigned int 
+struct mlxsw_sp1_kvdl_part | info struct TYPE_2__ 
+function mlxsw_sp1_kvdl_part_update void | part struct mlxsw_sp1_kvdl_part * | part_prev struct mlxsw_sp1_kvdl_part * | size unsigned int

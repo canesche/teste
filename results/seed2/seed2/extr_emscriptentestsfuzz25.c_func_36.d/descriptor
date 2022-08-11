@@ -1,0 +1,4 @@
+struct U1 | dummy int 
+struct U0 | dummy int 
+struct TYPE_2__ | f0 int 
+function func_36 int * | p_37 const union U0 | p_38 int | p_39 int * | p_40 int * | p_41 int

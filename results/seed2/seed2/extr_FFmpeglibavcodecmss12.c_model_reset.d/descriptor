@@ -1,0 +1,2 @@
+struct TYPE_3__ | num_syms int | weights int * | cum_prob int * | idx2sym int * 
+function model_reset void | m struct TYPE_3__ *

@@ -1,0 +1,4 @@
+struct nfp_abm_link | queue_base unsigned int | abm struct TYPE_4__ * 
+struct TYPE_4__ | q_lvls struct TYPE_3__ * 
+struct TYPE_3__ | addr unsigned long long 
+function nfp_abm_q_lvl_thrs unsigned long long | alink struct nfp_abm_link * | queue unsigned int

@@ -1,0 +1,4 @@
+struct txentry_desc | dummy int 
+struct sk_buff | dummy int 
+struct rt2x00_dev | dummy int 
+function rt2x00crypto_create_tx_descriptor void | rt2x00dev struct rt2x00_dev * | skb struct sk_buff * | txdesc struct txentry_desc *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | Buffer struct TYPE_4__ * 
+struct TYPE_4__ | Height long | Width long 
+function clip_span int | ctx struct TYPE_5__ * | n long | x long | y long | mask long []

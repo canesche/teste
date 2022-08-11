@@ -1,0 +1,3 @@
+struct TYPE_4__ | zFar float | projectionMatrix float * 
+struct TYPE_5__ | value float 
+function R_SetupProjectionZ void | dest struct TYPE_4__ *

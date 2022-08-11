@@ -1,0 +1,2 @@
+struct l2tp_session | l2specific_type int 
+function l2tp_get_l2specific_len int | session struct l2tp_session *

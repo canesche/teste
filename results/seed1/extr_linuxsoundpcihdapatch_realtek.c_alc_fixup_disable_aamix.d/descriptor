@@ -1,5 +1,0 @@
-struct hda_fixup | dummy int 
-struct hda_codec | spec struct alc_spec * 
-struct TYPE_2__ | mixer_nid long 
-struct alc_spec | gen struct TYPE_2__ 
-function alc_fixup_disable_aamix void | codec struct hda_codec * | fix const struct hda_fixup * | action int

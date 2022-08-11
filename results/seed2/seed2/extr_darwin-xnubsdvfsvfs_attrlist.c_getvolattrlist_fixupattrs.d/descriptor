@@ -1,0 +1,4 @@
+struct vfs_attr | f_supported int 
+struct getvolattrlist_attrtab | attr long | bits int 
+struct TYPE_3__ | commonattr int | volattr int 
+function getvolattrlist_fixupattrs void | asp struct TYPE_3__ * | vsp struct vfs_attr *

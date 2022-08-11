@@ -1,0 +1,2 @@
+struct vhost_net | tx_packets int | tx_zcopy_err long 
+function vhost_net_tx_packet void | net struct vhost_net *

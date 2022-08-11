@@ -1,2 +1,0 @@
-struct pvr2_hdw | dummy int 
-function i2c_black_hole int | hdw struct pvr2_hdw * | i2c_addr int | wdata int * | wlen int | rdata int * | rlen int

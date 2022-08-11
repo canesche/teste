@@ -1,0 +1,3 @@
+struct nfs_commit_info | dummy int 
+struct inode | dummy int 
+function pnfs_scan_commit_lists int | inode struct inode * | cinfo struct nfs_commit_info * | max int

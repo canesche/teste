@@ -1,4 +1,0 @@
-struct tm6000_fh | dev struct tm6000_core * 
-struct tm6000_core | input unsigned int 
-struct file | dummy int 
-function vidioc_g_input int | file struct file * | priv void * | i unsigned int *

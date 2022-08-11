@@ -1,0 +1,2 @@
+struct console | dummy int 
+function pti_console_setup int | c struct console * | opts char *

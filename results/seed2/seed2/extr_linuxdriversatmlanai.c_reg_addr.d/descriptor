@@ -1,0 +1,2 @@
+struct lanai_dev | base int 
+function reg_addr int | lanai const struct lanai_dev * | reg enum lanai_register

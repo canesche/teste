@@ -1,0 +1,2 @@
+struct drm_crtc | dummy int 
+function vop_crtc_set_crc_source int | crtc struct drm_crtc * | source_name const char * | values_cnt unsigned long *

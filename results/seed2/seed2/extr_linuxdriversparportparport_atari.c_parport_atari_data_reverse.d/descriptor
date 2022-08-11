@@ -1,0 +1,2 @@
+struct parport | dummy int 
+function parport_atari_data_reverse void | p struct parport *

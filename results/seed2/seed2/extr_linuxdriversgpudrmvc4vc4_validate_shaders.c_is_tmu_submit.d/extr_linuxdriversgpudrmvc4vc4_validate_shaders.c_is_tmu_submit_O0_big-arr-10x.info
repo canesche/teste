@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmvc4vc4_validate_shaders.c_is_tmu_submit.d/extr_linuxdriversgpudrmvc4vc4_validate_shaders.c_is_tmu_submit_O0::is_tmu_submit(64)"
+  }
+]

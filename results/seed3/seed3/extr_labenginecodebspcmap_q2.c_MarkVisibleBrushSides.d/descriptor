@@ -1,0 +1,4 @@
+struct TYPE_6__ | flags int | planenum int 
+struct TYPE_7__ | numsides int | leafnum long | original_sides struct TYPE_6__ * 
+struct TYPE_8__ | planenum unsigned long 
+function MarkVisibleBrushSides void | brush struct TYPE_7__ *

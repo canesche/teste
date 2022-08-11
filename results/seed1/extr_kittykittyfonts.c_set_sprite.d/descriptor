@@ -1,2 +1,0 @@
-struct TYPE_3__ | sprite_z void * | sprite_y void * | sprite_x void * 
-function set_sprite void | cell struct TYPE_3__ * | x void * | y void * | z void *

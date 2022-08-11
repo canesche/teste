@@ -1,0 +1,3 @@
+struct i2caux | aux_timeout_period int | default_i2c_sw_speed int | default_i2c_hw_speed int | i2c_generic_hw_engine int * | i2c_generic_sw_engine int * | aux_engines int ** | i2c_hw_engines int ** | i2c_sw_engines int ** | ctx struct dc_context * 
+struct dc_context | dce_version long 
+function dal_i2caux_construct void | i2caux struct i2caux * | ctx struct dc_context *

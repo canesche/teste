@@ -1,0 +1,2 @@
+struct ui_progress | next int | step int | total int 
+function __tui_progress__init void | p struct ui_progress *

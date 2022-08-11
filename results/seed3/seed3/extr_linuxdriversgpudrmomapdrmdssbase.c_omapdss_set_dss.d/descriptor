@@ -1,0 +1,2 @@
+struct dss_device | dummy int 
+function omapdss_set_dss void | dss struct dss_device *

@@ -1,3 +1,0 @@
-struct TYPE_4__ | csum_flags int | csum_data int 
-struct TYPE_5__ | m_pkthdr struct TYPE_4__ 
-function mbuf_set_csum_requested int | mbuf struct TYPE_5__ * | request int | value int

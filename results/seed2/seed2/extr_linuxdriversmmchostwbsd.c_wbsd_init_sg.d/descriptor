@@ -1,0 +1,4 @@
+struct wbsd_host | cur_sg struct TYPE_2__ * | remain int | offset long | num_sg int 
+struct mmc_data | sg_len int | sg struct TYPE_2__ * 
+struct TYPE_2__ | length int 
+function wbsd_init_sg void | host struct wbsd_host * | data struct mmc_data *

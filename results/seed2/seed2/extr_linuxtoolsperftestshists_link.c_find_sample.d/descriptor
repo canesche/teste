@@ -1,0 +1,5 @@
+struct thread | dummy int 
+struct symbol | dummy int 
+struct sample | sym struct symbol * | map struct map * | thread struct thread * 
+struct map | dummy int 
+function find_sample int | samples struct sample * | nr_samples unsigned long | t struct thread * | m struct map * | s struct symbol *

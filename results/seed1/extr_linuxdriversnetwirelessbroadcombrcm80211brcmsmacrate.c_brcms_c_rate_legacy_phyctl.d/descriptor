@@ -1,2 +1,0 @@
-struct TYPE_2__ | rate_ofdm unsigned long | tx_phy_ctl3 int 
-function brcms_c_rate_legacy_phyctl int | rate unsigned long

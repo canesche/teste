@@ -1,4 +1,0 @@
-struct parport_ip32_private | dcr_cache unsigned int 
-struct parport | physport struct TYPE_2__ * 
-struct TYPE_2__ | private_data struct parport_ip32_private * 
-function __parport_ip32_read_control unsigned int | p struct parport *

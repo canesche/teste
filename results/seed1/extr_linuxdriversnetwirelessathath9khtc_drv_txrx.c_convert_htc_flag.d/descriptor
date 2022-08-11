@@ -1,3 +1,0 @@
-struct ath_rx_status | enc_flags int | bw int 
-struct ath_htc_rx_status | rs_flags int 
-function convert_htc_flag void | rx_stats struct ath_rx_status * | rxstatus struct ath_htc_rx_status *

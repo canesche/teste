@@ -1,3 +1,0 @@
-struct TYPE_2__ | b_srp_done int 
-struct ci_hdrc | fsm struct TYPE_2__ 
-function b_srp_fail_tmout int | ci struct ci_hdrc *

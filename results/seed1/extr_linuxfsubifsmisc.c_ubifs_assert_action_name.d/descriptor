@@ -1,2 +1,0 @@
-struct ubifs_info | assert_action unsigned long 
-function ubifs_assert_action_name const char * | c struct ubifs_info *

@@ -1,0 +1,5 @@
+struct kobject | dummy int 
+struct attribute | mode int 
+struct TYPE_4__ | attr struct attribute 
+struct TYPE_3__ | attr struct attribute 
+function rbd_bus_is_visible int | kobj struct kobject * | attr struct attribute * | index int

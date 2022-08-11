@@ -1,0 +1,2 @@
+struct cyapa | state int 
+function cyapa_state_to_string char * | cyapa struct cyapa *

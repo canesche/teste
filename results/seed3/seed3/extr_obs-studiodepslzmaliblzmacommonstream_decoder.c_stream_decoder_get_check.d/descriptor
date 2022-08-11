@@ -1,0 +1,3 @@
+struct TYPE_4__ | check int 
+struct TYPE_5__ | stream_flags struct TYPE_4__ 
+function stream_decoder_get_check int | coder const struct TYPE_5__ *

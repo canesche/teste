@@ -1,0 +1,2 @@
+struct rsa_key | n_sz unsigned long | p_sz unsigned long | p const void * 
+function rsa_get_p int | context void * | hdrlen unsigned long | tag unsigned char | value const void * | vlen unsigned long

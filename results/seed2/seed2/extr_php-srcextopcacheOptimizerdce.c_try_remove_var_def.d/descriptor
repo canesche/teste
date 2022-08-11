@@ -1,0 +1,8 @@
+struct TYPE_13__ | definition int | use_chain int | phi_use_chain int * 
+struct TYPE_14__ | result_def int 
+struct TYPE_12__ | var int 
+struct TYPE_15__ | opcode int | result struct TYPE_12__ | result_type int 
+struct TYPE_16__ | op_array struct TYPE_11__ * | ssa struct TYPE_10__ * 
+struct TYPE_11__ | opcodes struct TYPE_15__ * 
+struct TYPE_10__ | ops struct TYPE_14__ * | vars struct TYPE_13__ * 
+function try_remove_var_def int | ctx struct TYPE_16__ * | free_var int | use_chain int | opline struct TYPE_15__ *

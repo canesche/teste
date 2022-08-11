@@ -1,0 +1,2 @@
+struct TYPE_2__ | min long | max long | paddr int 
+function bdisp_hw_get_vf_addr int | inc long

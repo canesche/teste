@@ -1,0 +1,2 @@
+struct pushpull | ofs int 
+function pushedbits int | pp struct pushpull *

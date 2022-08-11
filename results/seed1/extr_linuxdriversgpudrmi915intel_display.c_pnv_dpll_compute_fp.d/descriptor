@@ -1,2 +1,0 @@
-struct dpll | n int | m2 int 
-function pnv_dpll_compute_fp int | dpll struct dpll *

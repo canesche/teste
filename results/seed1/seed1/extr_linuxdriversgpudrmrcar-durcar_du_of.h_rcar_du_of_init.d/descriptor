@@ -1,0 +1,2 @@
+struct of_device_id | dummy int 
+function rcar_du_of_init void | of_ids const struct of_device_id *

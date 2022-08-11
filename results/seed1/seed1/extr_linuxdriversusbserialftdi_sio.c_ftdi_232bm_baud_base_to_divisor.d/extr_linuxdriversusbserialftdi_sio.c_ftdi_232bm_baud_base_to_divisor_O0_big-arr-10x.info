@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversusbserialftdi_sio.c_ftdi_232bm_baud_base_to_divisor.d/extr_linuxdriversusbserialftdi_sio.c_ftdi_232bm_baud_base_to_divisor_O0::ftdi_232bm_baud_base_to_divisor(61)"
+  }
+]

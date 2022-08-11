@@ -1,0 +1,2 @@
+struct driver_data | ssp_type int 
+function pxa2xx_spi_clear_rx_thre void | drv_data const struct driver_data * | sccr1_reg int *

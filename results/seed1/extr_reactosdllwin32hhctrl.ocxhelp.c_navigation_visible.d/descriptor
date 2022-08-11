@@ -1,3 +1,0 @@
-struct TYPE_4__ | fsWinProperties int | fNotExpanded int 
-struct TYPE_5__ | WinType struct TYPE_4__ 
-function navigation_visible int | info struct TYPE_5__ *

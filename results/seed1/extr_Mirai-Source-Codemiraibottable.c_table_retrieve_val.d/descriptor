@@ -1,2 +1,0 @@
-struct table_value | val char * | val_len long 
-function table_retrieve_val char * | id int | len int *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | emit_config_values int | set_config_value int | allow_migrations int | tick int | residency int | get_hint int | invalidate_mapping int | load_mapping int | clear_dirty int | set_dirty int | complete_background_work int | get_background_work int | lookup_with_work int | lookup int | destroy int 
+struct smq_policy | policy struct TYPE_2__ 
+function init_policy_functions void | mq struct smq_policy * | mimic_mq int

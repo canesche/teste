@@ -1,0 +1,2 @@
+struct necp_kernel_socket_policy | result long 
+function necp_kernel_socket_result_is_trigger_service_type int | kernel_policy struct necp_kernel_socket_policy *

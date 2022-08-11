@@ -1,0 +1,3 @@
+struct TYPE_5__ | size unsigned long | buffers struct TYPE_4__ * 
+struct TYPE_4__ | size unsigned long 
+function buffers_max_size unsigned long | buffers struct TYPE_5__

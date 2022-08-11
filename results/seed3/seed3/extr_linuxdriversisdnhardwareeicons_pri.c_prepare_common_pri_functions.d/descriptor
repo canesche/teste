@@ -1,0 +1,4 @@
+struct pc_maint | dummy int 
+struct TYPE_5__ | istream_wakeup int | ram_in_dw int | ram_out_dw int | ram_offset int | ram_inc int | ram_out_buffer int | ram_outw int | ram_out int | ram_look_ahead int | ram_in_buffer int | ram_inw int | ram_in int 
+struct TYPE_4__ | diva_isr_handler int | trapFnc int | stop int | rstFnc int | disIrq int | load int | pcm struct pc_maint * | clr_irq int | tst_irq int | dpc int | out int | a struct TYPE_5__ 
+function prepare_common_pri_functions void | IoAdapter struct TYPE_4__ *

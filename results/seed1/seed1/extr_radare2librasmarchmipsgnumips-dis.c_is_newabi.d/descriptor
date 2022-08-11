@@ -1,0 +1,2 @@
+struct TYPE_3__ | e_ident long * | e_flags int 
+function is_newabi int | header struct TYPE_3__ *

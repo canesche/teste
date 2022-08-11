@@ -1,0 +1,4 @@
+struct TYPE_2__ | next long 
+struct python_obs_callback | base struct TYPE_2__ | func int * 
+struct obs_python_script | first_callback long 
+function find_next_python_obs_callback struct python_obs_callback * | script struct obs_python_script * | cb struct python_obs_callback * | func int *

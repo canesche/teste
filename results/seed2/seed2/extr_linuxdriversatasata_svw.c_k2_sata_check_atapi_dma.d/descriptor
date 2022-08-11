@@ -1,0 +1,4 @@
+struct ata_queued_cmd | ap struct TYPE_4__ * | scsicmd struct TYPE_3__ * 
+struct TYPE_4__ | flags int 
+struct TYPE_3__ | cmnd int * 
+function k2_sata_check_atapi_dma int | qc struct ata_queued_cmd *

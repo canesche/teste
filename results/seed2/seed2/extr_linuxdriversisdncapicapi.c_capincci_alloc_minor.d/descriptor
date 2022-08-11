@@ -1,0 +1,3 @@
+struct capincci | dummy int 
+struct capidev | dummy int 
+function capincci_alloc_minor void | cdev struct capidev * | np struct capincci *

@@ -1,0 +1,1 @@
+function Decode void | output int * | input unsigned char * | len unsigned int

@@ -1,0 +1,1 @@
+function git_has_dos_drive_prefix int | path const char *

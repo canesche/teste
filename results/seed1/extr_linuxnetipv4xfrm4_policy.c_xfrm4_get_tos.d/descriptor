@@ -1,4 +1,0 @@
-struct TYPE_3__ | flowi4_tos int 
-struct TYPE_4__ | ip4 struct TYPE_3__ 
-struct flowi | u struct TYPE_4__ 
-function xfrm4_get_tos int | fl const struct flowi *

@@ -1,0 +1,2 @@
+struct mgsl_struct | tx_buffer_count int | tx_dma_buffers_used int 
+function num_free_tx_dma_buffers int | info struct mgsl_struct *

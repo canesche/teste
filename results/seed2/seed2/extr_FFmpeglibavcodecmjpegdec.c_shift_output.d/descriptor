@@ -1,0 +1,3 @@
+struct TYPE_5__ | bits int | avctx struct TYPE_4__ * 
+struct TYPE_4__ | lowres int 
+function shift_output void | s struct TYPE_5__ * | ptr int * | linesize int

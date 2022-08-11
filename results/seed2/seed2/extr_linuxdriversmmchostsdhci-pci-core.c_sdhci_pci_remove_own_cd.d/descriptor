@@ -1,0 +1,2 @@
+struct sdhci_pci_slot | dummy int 
+function sdhci_pci_remove_own_cd void | slot struct sdhci_pci_slot *

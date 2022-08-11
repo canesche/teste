@@ -1,4 +1,0 @@
-struct TYPE_6__ | time_base int | frame_rate int | sar int | h int | w int 
-struct TYPE_7__ | time_base int | frame_rate int | sample_aspect_ratio int | h int | w int | src struct TYPE_5__ * 
-struct TYPE_5__ | priv struct TYPE_6__ * 
-function config_props int | outlink struct TYPE_7__ *

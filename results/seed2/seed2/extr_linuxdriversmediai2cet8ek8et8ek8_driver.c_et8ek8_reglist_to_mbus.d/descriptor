@@ -1,0 +1,4 @@
+struct v4l2_mbus_framefmt | code int | height int | width int 
+struct TYPE_2__ | bus_format int | window_height int | window_width int 
+struct et8ek8_reglist | mode struct TYPE_2__ 
+function et8ek8_reglist_to_mbus void | reglist const struct et8ek8_reglist * | fmt struct v4l2_mbus_framefmt *

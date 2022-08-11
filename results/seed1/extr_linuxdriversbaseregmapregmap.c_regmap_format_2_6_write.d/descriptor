@@ -1,2 +1,0 @@
-struct regmap | work_buf unsigned int * 
-function regmap_format_2_6_write void | map struct regmap * | reg unsigned int | val unsigned int

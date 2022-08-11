@@ -1,0 +1,3 @@
+struct meson_reg_desc | reg int | bit unsigned int 
+struct meson_bank | first unsigned int | regs struct meson_reg_desc * 
+function meson_calc_reg_and_bit void | bank struct meson_bank * | pin unsigned int | reg_type enum meson_reg_type | reg unsigned int * | bit unsigned int *

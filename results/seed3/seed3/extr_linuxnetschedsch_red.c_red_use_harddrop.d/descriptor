@@ -1,0 +1,2 @@
+struct red_sched_data | flags int 
+function red_use_harddrop int | q struct red_sched_data *

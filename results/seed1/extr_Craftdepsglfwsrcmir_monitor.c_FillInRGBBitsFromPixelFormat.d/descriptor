@@ -1,2 +1,0 @@
-struct TYPE_3__ | redBits int | greenBits int | blueBits int 
-function FillInRGBBitsFromPixelFormat void | mode struct TYPE_3__ * | pf const int

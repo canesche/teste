@@ -1,0 +1,5 @@
+struct auto_pin_cfg | line_outs int 
+struct hda_gen_spec | multi_ios int | multi_io struct TYPE_2__ * | private_dac_nids int * | autocfg struct auto_pin_cfg 
+struct hda_codec | spec struct hda_gen_spec * 
+struct TYPE_2__ | dac int 
+function get_primary_out int | codec struct hda_codec * | idx int

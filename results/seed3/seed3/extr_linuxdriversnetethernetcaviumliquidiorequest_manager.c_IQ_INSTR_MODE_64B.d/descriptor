@@ -1,0 +1,3 @@
+struct octeon_instr_queue | iqcmd_64B int 
+struct octeon_device | instr_queue long * 
+function IQ_INSTR_MODE_64B int | oct struct octeon_device * | iq_no int

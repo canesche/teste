@@ -1,0 +1,2 @@
+struct ata_port | dummy int 
+function ata_sff_port_init void | ap struct ata_port *

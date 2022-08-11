@@ -1,0 +1,3 @@
+struct super_block | s_fs_info struct minix_sb_info * 
+struct minix_sb_info | dummy int 
+function minix_sb struct minix_sb_info * | sb struct super_block *

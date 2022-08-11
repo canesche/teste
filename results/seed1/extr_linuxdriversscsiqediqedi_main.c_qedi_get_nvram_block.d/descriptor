@@ -1,7 +1,0 @@
-struct TYPE_5__ | abs_pf_id int 
-struct TYPE_6__ | common struct TYPE_5__ 
-struct qedi_ctx | iscsi_image struct TYPE_8__ * | dev_info struct TYPE_6__ 
-struct nvm_iscsi_block | id int 
-struct TYPE_7__ | block struct nvm_iscsi_block * 
-struct TYPE_8__ | iscsi_cfg struct TYPE_7__ 
-function qedi_get_nvram_block struct nvm_iscsi_block * | qedi struct qedi_ctx *

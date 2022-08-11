@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function seq_tab_stop void | seq struct seq_file * | v void *

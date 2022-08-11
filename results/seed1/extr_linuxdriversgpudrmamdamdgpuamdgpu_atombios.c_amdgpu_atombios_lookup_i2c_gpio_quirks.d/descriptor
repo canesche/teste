@@ -1,2 +1,0 @@
-struct amdgpu_device | dummy int 
-function amdgpu_atombios_lookup_i2c_gpio_quirks void | adev struct amdgpu_device * | gpio int * | index int

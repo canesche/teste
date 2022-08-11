@@ -1,3 +1,0 @@
-struct TYPE_3__ | mins float * | maxs float * 
-struct TYPE_4__ | brush struct TYPE_3__ * 
-function FogForBounds int | mins float * | maxs float * | epsilon float

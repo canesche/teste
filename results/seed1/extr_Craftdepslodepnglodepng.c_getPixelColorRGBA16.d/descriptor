@@ -1,2 +1,0 @@
-struct TYPE_3__ | bitdepth int | colortype long | key_r unsigned int | key_g unsigned int | key_b unsigned int | key_defined long 
-function getPixelColorRGBA16 unsigned int | r unsigned short * | g unsigned short * | b unsigned short * | a unsigned short * | in const unsigned char * | i unsigned long | mode const struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct intel_pt_pkt | count int | payload int 
+function intel_pt_calc_ip int | packet const struct intel_pt_pkt * | last_ip int

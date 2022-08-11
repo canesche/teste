@@ -1,0 +1,2 @@
+struct TYPE_3__ | ihv int * | ubc_check int | detect_coll int | callback int * | reduced_round_coll long | safe_hash int | found_collision long | total long 
+function SHA1DCInit void | ctx struct TYPE_3__ *

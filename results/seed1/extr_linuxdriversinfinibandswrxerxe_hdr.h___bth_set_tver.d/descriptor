@@ -1,2 +1,0 @@
-struct rxe_bth | flags int 
-function __bth_set_tver void | arg void * | tver int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversscsiaic7xxxaic7xxx_core.c_ahc_sg_virt_to_bus.d/extr_linuxdriversscsiaic7xxxaic7xxx_core.c_ahc_sg_virt_to_bus_O0::ahc_sg_virt_to_bus(64)"
+  }
+]

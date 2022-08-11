@@ -1,0 +1,1 @@
+function is_utf8 int | src const char *

@@ -1,4 +1,0 @@
-struct blk_mq_tags | dummy int 
-struct blk_mq_alloc_data | flags int | hctx struct TYPE_2__ * 
-struct TYPE_2__ | tags struct blk_mq_tags * | sched_tags struct blk_mq_tags * 
-function blk_mq_tags_from_data struct blk_mq_tags * | data struct blk_mq_alloc_data *

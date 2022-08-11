@@ -1,0 +1,4 @@
+struct w100fb_par | mach struct TYPE_2__ * 
+struct w100_mode | xres unsigned int | yres unsigned int 
+struct TYPE_2__ | num_modes unsigned int | modelist struct w100_mode * 
+function w100fb_get_mode struct w100_mode * | par struct w100fb_par * | x unsigned int * | y unsigned int * | saveval int

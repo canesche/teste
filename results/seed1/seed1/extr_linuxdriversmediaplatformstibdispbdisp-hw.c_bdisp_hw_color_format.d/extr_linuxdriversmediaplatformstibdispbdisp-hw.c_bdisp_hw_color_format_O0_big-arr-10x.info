@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediaplatformstibdispbdisp-hw.c_bdisp_hw_color_format.d/extr_linuxdriversmediaplatformstibdispbdisp-hw.c_bdisp_hw_color_format_O0::bdisp_hw_color_format(76)"
+  }
+]

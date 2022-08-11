@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 313,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_php-srcsapifpmfpmfpm_str.h_str_purify_filename.d/extr_php-srcsapifpmfpmfpm_str.h_str_purify_filename_O0::str_purify_filename(60)"
+  }
+]

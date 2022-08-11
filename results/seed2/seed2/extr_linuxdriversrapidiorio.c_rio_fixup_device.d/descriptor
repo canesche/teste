@@ -1,0 +1,2 @@
+struct rio_dev | dummy int 
+function rio_fixup_device void | dev struct rio_dev *

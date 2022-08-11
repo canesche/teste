@@ -1,3 +1,0 @@
-struct TYPE_2__ | crypto int 
-struct adapter | params struct TYPE_2__ 
-function is_pci_uld int | adap const struct adapter *

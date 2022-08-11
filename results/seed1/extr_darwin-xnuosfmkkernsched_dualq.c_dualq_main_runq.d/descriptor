@@ -1,3 +1,0 @@
-struct TYPE_5__ | processor_set struct TYPE_4__ * 
-struct TYPE_4__ | pset_runq int 
-function dualq_main_runq int * | processor struct TYPE_5__ *

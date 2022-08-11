@@ -1,0 +1,3 @@
+struct TYPE_4__ | words_base const int 
+struct TYPE_5__ | status_ctx struct TYPE_4__ * 
+function status_get_restore_total const int | hashcat_ctx const struct TYPE_5__ *

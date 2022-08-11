@@ -1,0 +1,4 @@
+struct host1x_job_gather | words unsigned int | offset unsigned int | bo struct host1x_bo * 
+struct host1x_job | num_gathers unsigned long | gathers struct host1x_job_gather * 
+struct host1x_bo | dummy int 
+function host1x_job_add_gather void | job struct host1x_job * | bo struct host1x_bo * | words unsigned int | offset unsigned int

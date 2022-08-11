@@ -1,0 +1,2 @@
+struct merge_list | stage int | link struct merge_list * 
+function explanation const char * | entry struct merge_list *

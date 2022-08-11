@@ -1,0 +1,3 @@
+struct dpu_mdss_cfg | intf_count int | intf struct TYPE_2__ * 
+struct TYPE_2__ | type int | controller_id long | id int 
+function dpu_encoder_get_intf enum dpu_intf | catalog struct dpu_mdss_cfg * | type enum dpu_intf_type | controller_id long

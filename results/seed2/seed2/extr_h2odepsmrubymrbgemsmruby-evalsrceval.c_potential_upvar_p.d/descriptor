@@ -1,0 +1,2 @@
+struct mrb_locals | dummy int 
+function potential_upvar_p int | lv struct mrb_locals * | v int | argc int | nlocals int

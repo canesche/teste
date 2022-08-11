@@ -1,0 +1,2 @@
+struct vmci_handle_arr | size unsigned long 
+function vmci_handle_arr_get_size unsigned long | array const struct vmci_handle_arr *

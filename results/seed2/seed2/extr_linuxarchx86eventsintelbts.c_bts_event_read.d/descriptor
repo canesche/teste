@@ -1,0 +1,2 @@
+struct perf_event | dummy int 
+function bts_event_read void | event struct perf_event *

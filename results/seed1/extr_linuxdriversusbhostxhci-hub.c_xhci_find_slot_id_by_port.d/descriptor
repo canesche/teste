@@ -1,5 +1,0 @@
-struct xhci_hcd | devs struct TYPE_4__ ** 
-struct usb_hcd | speed long 
-struct TYPE_4__ | fake_port long | udev struct TYPE_3__ * 
-struct TYPE_3__ | speed int 
-function xhci_find_slot_id_by_port int | hcd struct usb_hcd * | xhci struct xhci_hcd * | port long

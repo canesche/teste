@@ -1,0 +1,2 @@
+struct ktermios | c_ispeed long | c_ospeed long | c_cflag int 
+function tty_termios_hw_change int | a const struct ktermios * | b const struct ktermios *

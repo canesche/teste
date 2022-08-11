@@ -1,0 +1,1 @@
+function SYS_CONSOLE_RegisterCallback void | index const int | cbFunc int | event int

@@ -1,5 +1,0 @@
-struct coda_dev | devtype struct TYPE_4__ * 
-struct TYPE_3__ | vaddr int * 
-struct coda_ctx | parabuf struct TYPE_3__ | dev struct coda_dev * 
-struct TYPE_4__ | product long 
-function coda_parabuf_write void | ctx struct coda_ctx * | index int | value int

@@ -1,3 +1,0 @@
-struct drm_i915_error_object | dummy int 
-struct compress | dummy int 
-function compress_fini void | c struct compress * | dst struct drm_i915_error_object *

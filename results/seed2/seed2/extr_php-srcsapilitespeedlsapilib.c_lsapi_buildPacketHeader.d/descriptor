@@ -1,0 +1,3 @@
+struct TYPE_2__ | m_iLen int 
+struct lsapi_packet_header | m_type char | m_packetLen struct TYPE_2__ | m_flag int | m_versionB1 int | m_versionB0 int 
+function lsapi_buildPacketHeader void | pHeader struct lsapi_packet_header * | type char | len int

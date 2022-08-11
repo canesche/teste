@@ -1,0 +1,6 @@
+struct xdr_buf | len int | buflen int | page_base long | page_len long | tail struct TYPE_4__ * | head struct TYPE_3__ * 
+struct svc_rqst | rq_arg struct xdr_buf 
+struct svc_rdma_recv_ctxt | rc_byte_len int | rc_recv_buf int 
+struct TYPE_4__ | iov_len long | iov_base int * 
+struct TYPE_3__ | iov_len int | iov_base int 
+function svc_rdma_build_arg_xdr void | rqstp struct svc_rqst * | ctxt struct svc_rdma_recv_ctxt *

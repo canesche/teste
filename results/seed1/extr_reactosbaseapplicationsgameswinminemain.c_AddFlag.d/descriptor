@@ -1,3 +1,0 @@
-struct TYPE_5__ | num_flags int | box struct TYPE_4__ ** | IsMarkQ int 
-struct TYPE_4__ | FlagType int 
-function AddFlag void | p_board struct TYPE_5__ * | col unsigned int | row unsigned int

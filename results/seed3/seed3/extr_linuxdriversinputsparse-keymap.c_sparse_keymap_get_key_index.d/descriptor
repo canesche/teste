@@ -1,0 +1,3 @@
+struct key_entry | type long 
+struct input_dev | keycode const struct key_entry * 
+function sparse_keymap_get_key_index unsigned int | dev struct input_dev * | k const struct key_entry *

@@ -1,4 +1,0 @@
-struct mtk_tx_ring | buf struct mtk_tx_buf * | dma struct mtk_tx_dma * 
-struct mtk_tx_dma | dummy int 
-struct mtk_tx_buf | dummy int 
-function mtk_desc_to_tx_buf struct mtk_tx_buf * | ring struct mtk_tx_ring * | txd struct mtk_tx_dma *

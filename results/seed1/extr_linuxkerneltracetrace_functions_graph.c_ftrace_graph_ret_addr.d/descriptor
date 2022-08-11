@@ -1,3 +1,0 @@
-struct task_struct | curr_ret_stack int | ret_stack struct TYPE_2__ * 
-struct TYPE_2__ | ret unsigned long 
-function ftrace_graph_ret_addr unsigned long | task struct task_struct * | idx int * | ret unsigned long | retp unsigned long *

@@ -1,0 +1,2 @@
+struct timespec64 | tv_nsec int 
+function ipmi_si_is_busy int | ts struct timespec64 *

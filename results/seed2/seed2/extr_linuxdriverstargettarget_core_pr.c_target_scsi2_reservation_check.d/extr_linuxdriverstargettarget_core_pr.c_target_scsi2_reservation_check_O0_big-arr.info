@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverstargettarget_core_pr.c_target_scsi2_reservation_check.d/extr_linuxdriverstargettarget_core_pr.c_target_scsi2_reservation_check_O0::target_scsi2_reservation_check(70)"
+  }
+]

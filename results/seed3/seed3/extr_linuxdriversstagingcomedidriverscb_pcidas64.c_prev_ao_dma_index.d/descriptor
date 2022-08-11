@@ -1,0 +1,3 @@
+struct pcidas64_private | ao_dma_index int 
+struct comedi_device | private struct pcidas64_private * 
+function prev_ao_dma_index unsigned int | dev struct comedi_device *

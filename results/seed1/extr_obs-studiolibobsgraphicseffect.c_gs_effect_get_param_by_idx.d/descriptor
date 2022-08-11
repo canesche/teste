@@ -1,4 +1,0 @@
-struct gs_effect_param | dummy int 
-struct TYPE_4__ | num unsigned long | array struct gs_effect_param * 
-struct TYPE_5__ | params struct TYPE_4__ 
-function gs_effect_get_param_by_idx struct gs_effect_param * | effect const struct TYPE_5__ * | param unsigned long

@@ -1,0 +1,2 @@
+struct tep_handle | page_size int 
+function tep_set_page_size void | pevent struct tep_handle * | _page_size int

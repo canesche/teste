@@ -1,3 +1,0 @@
-struct TYPE_2__ | pid int 
-struct mm_id | u struct TYPE_2__ 
-function __switch_mm void | mm_idp struct mm_id *

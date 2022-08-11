@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 240026,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_mongooseexamplesapi_serversqlite3.c_pcacheMergeDirtyList.d/extr_mongooseexamplesapi_serversqlite3.c_pcacheMergeDirtyList_O0::pcacheMergeDirtyList(61)"
+  }
+]

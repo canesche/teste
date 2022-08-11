@@ -1,0 +1,2 @@
+struct qm_mr_entry | dummy int 
+function mr_ptr2idx int | e const union qm_mr_entry *

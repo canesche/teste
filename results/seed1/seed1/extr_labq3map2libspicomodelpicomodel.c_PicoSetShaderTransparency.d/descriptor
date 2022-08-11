@@ -1,0 +1,2 @@
+struct TYPE_3__ | transparency float 
+function PicoSetShaderTransparency void | shader struct TYPE_3__ * | value float

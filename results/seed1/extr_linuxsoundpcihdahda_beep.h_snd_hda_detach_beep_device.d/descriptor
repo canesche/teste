@@ -1,2 +1,0 @@
-struct hda_codec | dummy int 
-function snd_hda_detach_beep_device void | codec struct hda_codec *

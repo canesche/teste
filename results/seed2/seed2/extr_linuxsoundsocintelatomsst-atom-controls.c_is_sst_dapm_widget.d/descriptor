@@ -1,0 +1,2 @@
+struct snd_soc_dapm_widget | id int 
+function is_sst_dapm_widget int | w struct snd_soc_dapm_widget *

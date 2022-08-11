@@ -1,0 +1,2 @@
+struct kbuffer | data long 
+function calc_index int | kbuf struct kbuffer * | ptr void *

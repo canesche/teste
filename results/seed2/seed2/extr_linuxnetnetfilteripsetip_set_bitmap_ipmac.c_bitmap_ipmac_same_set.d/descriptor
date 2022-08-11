@@ -1,0 +1,3 @@
+struct ip_set | timeout long | extensions long | data struct bitmap_ipmac * 
+struct bitmap_ipmac | first_ip long | last_ip long 
+function bitmap_ipmac_same_set int | a const struct ip_set * | b const struct ip_set *

@@ -1,0 +1,2 @@
+struct md_node_info | dummy int 
+function rel_ds_port_node_info void | node_info union md_node_info *

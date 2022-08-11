@@ -1,0 +1,3 @@
+struct vfio_platform_device | opaque long 
+struct amba_device | irq int * 
+function get_amba_irq int | vdev struct vfio_platform_device * | i int

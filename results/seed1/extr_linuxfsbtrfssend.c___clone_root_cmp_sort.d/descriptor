@@ -1,3 +1,0 @@
-struct clone_root | root struct TYPE_2__ * 
-struct TYPE_2__ | objectid long 
-function __clone_root_cmp_sort int | e1 const void * | e2 const void *

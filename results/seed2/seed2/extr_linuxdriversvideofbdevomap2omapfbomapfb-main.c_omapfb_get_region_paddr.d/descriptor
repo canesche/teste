@@ -1,0 +1,4 @@
+struct omapfb_info | rotation_type long | region struct TYPE_4__ * 
+struct TYPE_3__ | paddr int * 
+struct TYPE_4__ | paddr int | vrfb struct TYPE_3__ 
+function omapfb_get_region_paddr int | ofbi const struct omapfb_info *

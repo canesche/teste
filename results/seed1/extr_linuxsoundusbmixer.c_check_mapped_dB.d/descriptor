@@ -1,4 +1,0 @@
-struct usbmix_name_map | dB struct TYPE_2__ * 
-struct usb_mixer_elem_info | initialized int | dBmax int | dBmin int 
-struct TYPE_2__ | max int | min int 
-function check_mapped_dB void | p const struct usbmix_name_map * | cval struct usb_mixer_elem_info *

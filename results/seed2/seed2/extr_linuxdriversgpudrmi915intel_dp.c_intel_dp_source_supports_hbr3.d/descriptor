@@ -1,0 +1,2 @@
+struct intel_dp | source_rates int * | num_source_rates int 
+function intel_dp_source_supports_hbr3 int | intel_dp struct intel_dp *

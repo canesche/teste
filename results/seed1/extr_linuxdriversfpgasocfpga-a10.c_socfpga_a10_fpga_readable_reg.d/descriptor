@@ -1,2 +1,0 @@
-struct device | dummy int 
-function socfpga_a10_fpga_readable_reg int | dev struct device * | reg unsigned int

@@ -1,0 +1,1 @@
+function sqlite3_stricmp int | zLeft const char * | zRight const char *

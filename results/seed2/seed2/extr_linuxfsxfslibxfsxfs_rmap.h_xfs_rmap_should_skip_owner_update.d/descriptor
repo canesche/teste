@@ -1,0 +1,2 @@
+struct xfs_owner_info | oi_owner long 
+function xfs_rmap_should_skip_owner_update int | oi struct xfs_owner_info *

@@ -1,0 +1,3 @@
+struct pglist_data | dummy int 
+struct mem_cgroup | dummy int 
+function memcg_congested int | pgdat struct pglist_data * | memcg struct mem_cgroup *

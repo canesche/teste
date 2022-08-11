@@ -1,0 +1,4 @@
+struct TYPE_7__ | y int | right struct TYPE_6__ * | left struct TYPE_5__ * | delta long 
+struct TYPE_6__ | delta long 
+struct TYPE_5__ | delta long 
+function tree_ext_relax void | T struct TYPE_7__ *

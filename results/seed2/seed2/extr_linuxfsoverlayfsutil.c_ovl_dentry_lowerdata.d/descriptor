@@ -1,0 +1,4 @@
+struct ovl_entry | numlower int | lowerstack struct TYPE_2__ * 
+struct dentry | d_fsdata struct ovl_entry * 
+struct TYPE_2__ | dentry struct dentry * 
+function ovl_dentry_lowerdata struct dentry * | dentry struct dentry *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversi2cbussesi2c-synquacer.c_synquacer_i2c_functionality.d/extr_linuxdriversi2cbussesi2c-synquacer.c_synquacer_i2c_functionality_O0::synquacer_i2c_functionality(64)"
+  }
+]

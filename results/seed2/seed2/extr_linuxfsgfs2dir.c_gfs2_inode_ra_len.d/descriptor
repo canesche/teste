@@ -1,0 +1,2 @@
+struct gfs2_inode | i_no_addr long | i_eattr long 
+function gfs2_inode_ra_len int | ip const struct gfs2_inode *

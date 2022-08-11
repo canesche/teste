@@ -1,0 +1,3 @@
+struct TYPE_4__ | feat struct TYPE_3__ * 
+struct TYPE_3__ | mgr_width_max long | mgr_height_max long 
+function _dispc_mgr_size_ok int | width long | height long

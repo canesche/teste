@@ -1,0 +1,3 @@
+struct TYPE_5__ | tables struct TYPE_4__ * 
+struct TYPE_4__ | id int 
+function catalog_get_table_id int | catalog struct TYPE_5__ * | tableid unsigned long

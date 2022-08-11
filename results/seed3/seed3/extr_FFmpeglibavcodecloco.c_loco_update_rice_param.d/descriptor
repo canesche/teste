@@ -1,0 +1,2 @@
+struct TYPE_3__ | sum int | count int 
+function loco_update_rice_param void | r struct TYPE_3__ * | val int

@@ -1,2 +1,0 @@
-struct bpf_insn_aux_data | map_state int 
-function bpf_map_ptr_unpriv int | aux const struct bpf_insn_aux_data *

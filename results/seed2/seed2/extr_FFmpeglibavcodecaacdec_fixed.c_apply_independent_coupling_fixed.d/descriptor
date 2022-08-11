@@ -1,0 +1,8 @@
+struct TYPE_17__ | oc struct TYPE_14__ * 
+struct TYPE_11__ | gain int ** 
+struct TYPE_16__ | ch struct TYPE_12__ * | coup struct TYPE_11__ 
+struct TYPE_15__ | ret unsigned int * 
+struct TYPE_13__ | sbr int 
+struct TYPE_14__ | m4ac struct TYPE_13__ 
+struct TYPE_12__ | ret int * 
+function apply_independent_coupling_fixed void | ac struct TYPE_17__ * | target struct TYPE_15__ * | cce struct TYPE_16__ * | index int

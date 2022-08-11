@@ -1,0 +1,2 @@
+struct percpu_ref | dummy int 
+function percpu_ref_noop_confirm_switch void | ref struct percpu_ref *

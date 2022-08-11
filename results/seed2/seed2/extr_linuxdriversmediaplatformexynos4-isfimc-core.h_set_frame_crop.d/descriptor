@@ -1,0 +1,2 @@
+struct fimc_frame | height void * | width void * | offs_v void * | offs_h void * 
+function set_frame_crop void | f struct fimc_frame * | left void * | top void * | width void * | height void *

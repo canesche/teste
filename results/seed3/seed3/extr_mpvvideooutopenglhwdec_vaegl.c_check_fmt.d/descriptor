@@ -1,0 +1,4 @@
+struct ra_hwdec_mapper | owner struct TYPE_2__ * 
+struct priv_owner | formats int * 
+struct TYPE_2__ | priv struct priv_owner * 
+function check_fmt int | mapper struct ra_hwdec_mapper * | fmt int

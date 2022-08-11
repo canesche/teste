@@ -1,0 +1,2 @@
+struct ceph_inode_info | i_fscache_gen long | i_rdcache_gen long 
+function cache_valid int | ci struct ceph_inode_info *

@@ -1,0 +1,4 @@
+struct TYPE_3__ | type long 
+struct TYPE_4__ | in struct TYPE_3__ 
+struct ivtv | vbi struct TYPE_4__ 
+function ivtv_raw_vbi int | itv const struct ivtv *

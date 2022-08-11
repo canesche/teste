@@ -1,4 +1,0 @@
-struct sockaddr_storage | ss_family long 
-struct TYPE_2__ | s_addr long 
-struct sockaddr_in | sin_addr struct TYPE_2__ 
-function compare_addr int | a const struct sockaddr_storage * | b const struct sockaddr_storage *

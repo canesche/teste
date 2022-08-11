@@ -1,0 +1,1 @@
+function xtensa_imm6s int | addr int | buf const int *

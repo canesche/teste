@@ -1,0 +1,4 @@
+struct TYPE_3__ | hw_rspq_ack int | hw_reqq_ack int * 
+struct TYPE_4__ | hwif struct TYPE_3__ 
+struct bfa_s | iocfc struct TYPE_4__ 
+function bfa_hwcb_isr_mode_set void | bfa struct bfa_s * | msix long

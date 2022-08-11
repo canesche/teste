@@ -1,2 +1,0 @@
-struct page | dummy int 
-function ceph_release_fscache_page int | page struct page * | gfp int

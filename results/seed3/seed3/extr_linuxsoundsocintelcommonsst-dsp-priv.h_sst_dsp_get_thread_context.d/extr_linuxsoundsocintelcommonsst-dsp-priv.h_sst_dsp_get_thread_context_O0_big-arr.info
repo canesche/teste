@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsoundsocintelcommonsst-dsp-priv.h_sst_dsp_get_thread_context.d/extr_linuxsoundsocintelcommonsst-dsp-priv.h_sst_dsp_get_thread_context_O0::sst_dsp_get_thread_context(61)"
+  }
+]

@@ -1,0 +1,3 @@
+struct toptree | parent struct TYPE_2__ * 
+struct TYPE_2__ | parent struct toptree * 
+function core_book struct toptree * | core struct toptree *

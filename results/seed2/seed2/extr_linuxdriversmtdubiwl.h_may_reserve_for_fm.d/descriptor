@@ -1,0 +1,4 @@
+struct ubi_wl_entry | dummy int 
+struct ubi_device | dummy int 
+struct rb_root | dummy int 
+function may_reserve_for_fm struct ubi_wl_entry * | ubi struct ubi_device * | e struct ubi_wl_entry * | root struct rb_root *

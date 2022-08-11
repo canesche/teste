@@ -1,2 +1,0 @@
-struct ib_device | dummy int 
-function hns_roce_query_pkey int | ib_dev struct ib_device * | port int | index int | pkey int *

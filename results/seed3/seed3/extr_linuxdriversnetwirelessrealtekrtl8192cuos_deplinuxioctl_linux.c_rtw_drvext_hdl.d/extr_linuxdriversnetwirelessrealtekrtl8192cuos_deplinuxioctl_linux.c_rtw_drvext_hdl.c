@@ -1,0 +1,291 @@
+// ========================================================================= //
+
+// includes
+#include "stdio.h"
+#include "stdlib.h"
+#include "time.h"
+#include "string.h"
+#include "limits.h"
+#include "float.h"
+
+
+
+#define JOTAI_NUM_RANDS_ 25
+
+const unsigned rand_primes[JOTAI_NUM_RANDS_] = {179, 103, 479, 647, 229, 37, 271, 557, 263, 607, 18743, 50359, 21929, 48757, 98179, 12907, 52937, 64579, 49957, 52567, 507163, 149939, 412157, 680861, 757751};
+
+int next_i() {
+  int counter = 0;
+  return rand_primes[(++counter)%JOTAI_NUM_RANDS_];
+}
+
+float next_f() {
+  int counter = 0;
+  return rand_primes[(++counter)%JOTAI_NUM_RANDS_] / 757751.0F;
+} 
+
+
+// Usage menu
+void usage() {
+    printf("%s", "Usage:\n\
+    prog [ARGS]\n\
+\nARGS:\n\
+       0            int-bounds\n\
+       1            big-arr\n\
+       2            big-arr-10x\n\
+\n\
+");
+
+}
+
+
+// ------------------------------------------------------------------------- //
+
+#define NULL ((void*)0)
+typedef unsigned long size_t;  // Customize by platform.
+typedef long intptr_t; typedef unsigned long uintptr_t;
+typedef long scalar_t__;  // Either arithmetic or pointer type.
+/* By default, we understand bool (as a convenience). */
+typedef int bool;
+#define false 0
+#define true 1
+
+/* Forward declarations */
+
+/* Type definitions */
+typedef  union iwreq_data {int dummy; } iwreq_data ;
+struct net_device {int dummy; } ;
+struct iw_request_info {int dummy; } ;
+
+/* Variables and functions */
+
+__attribute__((used)) static  int rtw_drvext_hdl(struct net_device *dev, struct iw_request_info *info,
+						union iwreq_data *wrqu, char *extra)
+{
+
+ #if 0
+struct	iw_point
+{
+  void __user	*pointer;	/* Pointer to the data  (in user space) */
+  __u16		length;		/* number of fields or size in bytes */
+  __u16		flags;		/* Optional params */
+};
+ #endif
+
+#ifdef CONFIG_DRVEXT_MODULE
+	u8 res;
+	struct drvext_handler *phandler;	
+	struct drvext_oidparam *poidparam;		
+	int ret;
+	u16 len;
+	u8 *pparmbuf, bset;
+	_adapter *padapter = (_adapter *)rtw_netdev_priv(dev);
+	struct iw_point *p = &wrqu->data;
+
+	if( (!p->length) || (!p->pointer)){
+		ret = -EINVAL;
+		goto _rtw_drvext_hdl_exit;
+	}
+	
+	
+	bset = (u8)(p->flags&0xFFFF);
+	len = p->length;
+	pparmbuf = (u8*)rtw_malloc(len);
+	if (pparmbuf == NULL){
+		ret = -ENOMEM;
+		goto _rtw_drvext_hdl_exit;
+	}
+	
+	if(bset)//set info
+	{
+		if (copy_from_user(pparmbuf, p->pointer,len)) {
+			rtw_mfree(pparmbuf, len);
+			ret = -EFAULT;
+			goto _rtw_drvext_hdl_exit;
+		}		
+	}
+	else//query info
+	{
+	
+	}
+
+	
+	//
+	poidparam = (struct drvext_oidparam *)pparmbuf;	
+	
+	RT_TRACE(_module_rtl871x_ioctl_os_c,_drv_info_,("drvext set oid subcode [%d], len[%d], InformationBufferLength[%d]\r\n",
+        					 poidparam->subcode, poidparam->len, len));
+
+
+	//check subcode	
+	if ( poidparam->subcode >= MAX_DRVEXT_HANDLERS)
+	{
+		RT_TRACE(_module_rtl871x_ioctl_os_c,_drv_err_,("no matching drvext handlers\r\n"));		
+		ret = -EINVAL;
+		goto _rtw_drvext_hdl_exit;
+	}
+
+
+	if ( poidparam->subcode >= MAX_DRVEXT_OID_SUBCODES)
+	{
+		RT_TRACE(_module_rtl871x_ioctl_os_c,_drv_err_,("no matching drvext subcodes\r\n"));		
+		ret = -EINVAL;
+		goto _rtw_drvext_hdl_exit;
+	}
+
+
+	phandler = drvextoidhandlers + poidparam->subcode;
+
+	if (poidparam->len != phandler->parmsize)
+	{
+		RT_TRACE(_module_rtl871x_ioctl_os_c,_drv_err_,("no matching drvext param size %d vs %d\r\n",			
+						poidparam->len , phandler->parmsize));		
+		ret = -EINVAL;		
+		goto _rtw_drvext_hdl_exit;
+	}
+
+
+	res = phandler->handler(&padapter->drvextpriv, bset, poidparam->data);
+
+	if(res==0)
+	{
+		ret = 0;
+			
+		if (bset == 0x00) {//query info
+			//_rtw_memcpy(p->pointer, pparmbuf, len);
+			if (copy_to_user(p->pointer, pparmbuf, len))
+				ret = -EFAULT;
+		}		
+	}		
+	else
+		ret = -EFAULT;
+
+	
+_rtw_drvext_hdl_exit:	
+	
+	return ret;	
+	
+#endif
+
+	return 0;
+
+}
+
+
+// ------------------------------------------------------------------------- //
+
+int main(int argc, char *argv[]) {
+
+    if (argc != 2) {
+        usage();
+        return 1;
+    }
+
+    int opt = atoi(argv[1]);
+    switch(opt) {
+
+    // int-bounds
+    case 0:
+    {
+          int _len_dev0 = 1;
+          struct net_device * dev = (struct net_device *) malloc(_len_dev0*sizeof(struct net_device));
+          for(int _i0 = 0; _i0 < _len_dev0; _i0++) {
+            dev[_i0].dummy = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_info0 = 1;
+          struct iw_request_info * info = (struct iw_request_info *) malloc(_len_info0*sizeof(struct iw_request_info));
+          for(int _i0 = 0; _i0 < _len_info0; _i0++) {
+            info[_i0].dummy = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_wrqu0 = 1;
+          union iwreq_data * wrqu = (union iwreq_data *) malloc(_len_wrqu0*sizeof(union iwreq_data));
+          for(int _i0 = 0; _i0 < _len_wrqu0; _i0++) {
+            wrqu[_i0] = 0;
+          }
+          int _len_extra0 = 1;
+          char * extra = (char *) malloc(_len_extra0*sizeof(char));
+          for(int _i0 = 0; _i0 < _len_extra0; _i0++) {
+            extra[_i0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int benchRet = rtw_drvext_hdl(dev,info,wrqu,extra);
+          printf("%d\n", benchRet); 
+          free(dev);
+          free(info);
+          free(wrqu);
+          free(extra);
+        
+        break;
+    }
+    // big-arr
+    case 1:
+    {
+          int _len_dev0 = 65025;
+          struct net_device * dev = (struct net_device *) malloc(_len_dev0*sizeof(struct net_device));
+          for(int _i0 = 0; _i0 < _len_dev0; _i0++) {
+            dev[_i0].dummy = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_info0 = 65025;
+          struct iw_request_info * info = (struct iw_request_info *) malloc(_len_info0*sizeof(struct iw_request_info));
+          for(int _i0 = 0; _i0 < _len_info0; _i0++) {
+            info[_i0].dummy = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_wrqu0 = 65025;
+          union iwreq_data * wrqu = (union iwreq_data *) malloc(_len_wrqu0*sizeof(union iwreq_data));
+          for(int _i0 = 0; _i0 < _len_wrqu0; _i0++) {
+            wrqu[_i0] = 0;
+          }
+          int _len_extra0 = 65025;
+          char * extra = (char *) malloc(_len_extra0*sizeof(char));
+          for(int _i0 = 0; _i0 < _len_extra0; _i0++) {
+            extra[_i0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int benchRet = rtw_drvext_hdl(dev,info,wrqu,extra);
+          printf("%d\n", benchRet); 
+          free(dev);
+          free(info);
+          free(wrqu);
+          free(extra);
+        
+        break;
+    }
+    // big-arr-10x
+    case 2:
+    {
+          int _len_dev0 = 100;
+          struct net_device * dev = (struct net_device *) malloc(_len_dev0*sizeof(struct net_device));
+          for(int _i0 = 0; _i0 < _len_dev0; _i0++) {
+            dev[_i0].dummy = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_info0 = 100;
+          struct iw_request_info * info = (struct iw_request_info *) malloc(_len_info0*sizeof(struct iw_request_info));
+          for(int _i0 = 0; _i0 < _len_info0; _i0++) {
+            info[_i0].dummy = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int _len_wrqu0 = 100;
+          union iwreq_data * wrqu = (union iwreq_data *) malloc(_len_wrqu0*sizeof(union iwreq_data));
+          for(int _i0 = 0; _i0 < _len_wrqu0; _i0++) {
+            wrqu[_i0] = 0;
+          }
+          int _len_extra0 = 100;
+          char * extra = (char *) malloc(_len_extra0*sizeof(char));
+          for(int _i0 = 0; _i0 < _len_extra0; _i0++) {
+            extra[_i0] = ((-2 * (next_i()%2)) + 1) * next_i();
+          }
+          int benchRet = rtw_drvext_hdl(dev,info,wrqu,extra);
+          printf("%d\n", benchRet); 
+          free(dev);
+          free(info);
+          free(wrqu);
+          free(extra);
+        
+        break;
+    }
+
+    default:
+        usage();
+        break;
+
+    }
+
+    return 0;
+}

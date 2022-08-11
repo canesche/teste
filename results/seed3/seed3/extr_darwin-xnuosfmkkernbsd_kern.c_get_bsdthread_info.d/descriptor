@@ -1,0 +1,2 @@
+struct TYPE_3__ | uthread void * 
+function get_bsdthread_info void * | th struct TYPE_3__ *

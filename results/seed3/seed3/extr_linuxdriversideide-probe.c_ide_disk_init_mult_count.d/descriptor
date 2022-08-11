@@ -1,0 +1,2 @@
+struct TYPE_3__ | id int * | mult_req int | special_flags int 
+function ide_disk_init_mult_count void | drive struct TYPE_3__ *

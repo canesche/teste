@@ -1,0 +1,2 @@
+struct ext4_xattr_ref | iter_from int * 
+function ext4_fs_xattr_iterate_reset void | ref struct ext4_xattr_ref *

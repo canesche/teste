@@ -1,0 +1,5 @@
+struct TYPE_9__ | buf struct TYPE_7__ * | IStream_iface int 
+struct TYPE_6__ | pstm int * 
+struct TYPE_8__ | pUnkForRelease int * | u struct TYPE_6__ | tymed int 
+struct TYPE_7__ | IUnknown_iface int 
+function stgmed_stream_fill_stgmed int | obj int * | stgmed struct TYPE_8__ *

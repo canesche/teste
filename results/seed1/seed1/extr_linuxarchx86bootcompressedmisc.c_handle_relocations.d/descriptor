@@ -1,0 +1,1 @@
+function handle_relocations void | output void * | output_len unsigned long | virt_addr unsigned long

@@ -1,1 +1,0 @@
-function ath10k_mac_max_ht_nss int | ht_mcs_mask long const[IEEE80211_HT_MCS_MASK_LEN]

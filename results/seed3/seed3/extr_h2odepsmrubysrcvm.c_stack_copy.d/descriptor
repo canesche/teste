@@ -1,0 +1,1 @@
+function stack_copy void | dst int * | src const int * | size unsigned long

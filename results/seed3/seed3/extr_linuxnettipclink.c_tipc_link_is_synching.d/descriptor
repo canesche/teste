@@ -1,0 +1,2 @@
+struct tipc_link | state long 
+function tipc_link_is_synching int | l struct tipc_link *

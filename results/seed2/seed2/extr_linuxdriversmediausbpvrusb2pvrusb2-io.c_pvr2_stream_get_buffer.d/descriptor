@@ -1,0 +1,3 @@
+struct pvr2_stream | buffer_total_count int | buffers struct pvr2_buffer ** 
+struct pvr2_buffer | dummy int 
+function pvr2_stream_get_buffer struct pvr2_buffer * | sp struct pvr2_stream * | id int

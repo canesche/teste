@@ -1,2 +1,0 @@
-struct iwl_priv | rx_handlers int * 
-function iwl_setup_rx_scan_handlers void | priv struct iwl_priv *

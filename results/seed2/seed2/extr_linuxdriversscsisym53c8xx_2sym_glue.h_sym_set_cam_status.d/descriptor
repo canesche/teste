@@ -1,0 +1,2 @@
+struct scsi_cmnd | result int 
+function sym_set_cam_status void | cmd struct scsi_cmnd * | status int

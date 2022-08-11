@@ -1,0 +1,3 @@
+struct TYPE_3__ | colorsPerLed int | values int * | size int 
+struct TYPE_4__ | brightness int | buffer struct TYPE_3__ * 
+function ws2812_effects_fill_buffer int | color int

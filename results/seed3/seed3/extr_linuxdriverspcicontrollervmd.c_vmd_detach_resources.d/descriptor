@@ -1,0 +1,4 @@
+struct vmd_dev | dev struct TYPE_4__ * 
+struct TYPE_4__ | resource struct TYPE_3__ * 
+struct TYPE_3__ | child int * 
+function vmd_detach_resources void | vmd struct vmd_dev *

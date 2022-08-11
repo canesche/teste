@@ -1,0 +1,7 @@
+struct iscsi_seq | type long | pdu_count int | pdu_start int | status int | next_burst_len long | orig_offset long | offset long | data_sn long 
+struct iscsi_pdu | status long | offset long | length long 
+struct iscsi_conn | sess struct TYPE_4__ * 
+struct iscsi_cmd | first_burst_len long | seq_start_offset long | pdu_count int | seq_end_offset long | seq_count int | pdu_list struct iscsi_pdu * | write_data_done int | seq_list struct iscsi_seq * | immediate_data long | r2t_offset int | data_sn long 
+struct TYPE_4__ | sess_ops struct TYPE_3__ * 
+struct TYPE_3__ | DataPDUInOrder long | DataSequenceInOrder long 
+function iscsit_task_reassign_prepare_unsolicited_dataout void | cmd struct iscsi_cmd * | conn struct iscsi_conn *

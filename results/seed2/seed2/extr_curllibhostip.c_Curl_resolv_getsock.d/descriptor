@@ -1,0 +1,2 @@
+struct connectdata | dummy int 
+function Curl_resolv_getsock int | conn struct connectdata * | socks int * | numsocks int

@@ -1,0 +1,3 @@
+struct sti_vtg_sync_params | hsync long | vsync_line_top int | vsync_off_top int | vsync_line_bot int | vsync_off_bot int 
+struct drm_display_mode | htotal long | hsync_end long | hsync_start long | vsync_end int | vsync_start int | vtotal int 
+function vtg_set_hsync_vsync_pos void | sync struct sti_vtg_sync_params * | delay int | mode const struct drm_display_mode *

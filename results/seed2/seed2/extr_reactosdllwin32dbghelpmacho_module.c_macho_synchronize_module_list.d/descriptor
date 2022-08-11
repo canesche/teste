@@ -1,0 +1,2 @@
+struct process | dummy int 
+function macho_synchronize_module_list int | pcs struct process *

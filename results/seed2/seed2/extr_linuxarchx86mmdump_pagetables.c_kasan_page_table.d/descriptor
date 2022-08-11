@@ -1,0 +1,3 @@
+struct seq_file | dummy int 
+struct pg_state | dummy int 
+function kasan_page_table int | m struct seq_file * | st struct pg_state * | pt void *

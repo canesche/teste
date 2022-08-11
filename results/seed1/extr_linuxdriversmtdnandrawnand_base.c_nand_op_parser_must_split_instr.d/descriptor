@@ -1,9 +1,0 @@
-struct TYPE_11__ | maxlen unsigned int 
-struct TYPE_8__ | maxcycles unsigned int 
-struct TYPE_12__ | data struct TYPE_11__ | addr struct TYPE_8__ 
-struct nand_op_parser_pattern_elem | type int | ctx struct TYPE_12__ 
-struct TYPE_9__ | len int 
-struct TYPE_7__ | naddrs int 
-struct TYPE_10__ | data struct TYPE_9__ | addr struct TYPE_7__ 
-struct nand_op_instr | ctx struct TYPE_10__ 
-function nand_op_parser_must_split_instr int | pat const struct nand_op_parser_pattern_elem * | instr const struct nand_op_instr * | start_offset unsigned int *

@@ -1,2 +1,0 @@
-struct TYPE_3__ | channels long | map void ** 
-function pulse_map_channels_to_pulse void | channel_layout int | channel_map struct TYPE_3__ *

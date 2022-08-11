@@ -1,3 +1,0 @@
-struct qtree_mem_dqinfo | dqi_usable_bs int | dqi_entry_size int 
-struct qt_disk_dqdbheader | dummy int 
-function qtree_dqstr_in_blk int | info struct qtree_mem_dqinfo *

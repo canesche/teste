@@ -1,0 +1,3 @@
+struct TYPE_2__ | base_vfmprc long | vfmprc long | saved_reset_vfmprc int | base_vfgotc long | vfgotc long | saved_reset_vfgotc int | base_vfgorc long | vfgorc long | saved_reset_vfgorc int | base_vfgptc long | vfgptc long | saved_reset_vfgptc int | base_vfgprc long | vfgprc long | saved_reset_vfgprc int 
+struct ixgbevf_adapter | stats struct TYPE_2__ 
+function ixgbevf_save_reset_stats void | adapter struct ixgbevf_adapter *

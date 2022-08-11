@@ -1,0 +1,2 @@
+struct hisi_reset_controller | dummy int 
+function hisi_reset_exit void | rstc struct hisi_reset_controller *

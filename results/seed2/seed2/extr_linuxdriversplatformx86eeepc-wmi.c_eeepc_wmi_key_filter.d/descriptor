@@ -1,0 +1,2 @@
+struct asus_wmi_driver | dummy int 
+function eeepc_wmi_key_filter void | asus_wmi struct asus_wmi_driver * | code int * | value unsigned int * | autorelease int *

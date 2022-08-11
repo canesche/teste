@@ -1,0 +1,2 @@
+struct sram_partition | dummy int 
+function sram_add_protect_exec int | part struct sram_partition *

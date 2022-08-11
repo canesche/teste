@@ -1,0 +1,5 @@
+struct TYPE_4__ | CHANNEL_EQ_DONE_0 int | SYMBOL_LOCKED_0 int 
+struct lane_status | bits struct TYPE_4__ 
+struct TYPE_3__ | INTERLANE_ALIGN_DONE int 
+struct lane_align_status_updated | bits struct TYPE_3__ 
+function is_ch_eq_done int | ln_count enum dc_lane_count | dpcd_lane_status union lane_status * | lane_status_updated union lane_align_status_updated *

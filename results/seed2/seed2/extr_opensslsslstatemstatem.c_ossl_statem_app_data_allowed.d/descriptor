@@ -1,0 +1,4 @@
+struct TYPE_7__ | state long | hand_state long 
+struct TYPE_5__ | total_renegotiations long | in_read_app_data int 
+struct TYPE_6__ | server long | s3 struct TYPE_5__ | statem struct TYPE_7__ 
+function ossl_statem_app_data_allowed int | s struct TYPE_6__ *

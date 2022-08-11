@@ -1,0 +1,4 @@
+struct TYPE_2__ | sb_lvbptr char * 
+struct ocfs2_dlm_lksb | lksb_fsdlm struct TYPE_2__ 
+struct dlm_lksb | dummy int 
+function user_dlm_lvb void * | lksb struct ocfs2_dlm_lksb *

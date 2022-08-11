@@ -1,0 +1,4 @@
+struct integrity_iint_cache | dummy int 
+struct file | dummy int 
+struct evm_ima_xattr_data | dummy int 
+function ima_appraise_measurement int | func enum ima_hooks | iint struct integrity_iint_cache * | file struct file * | filename const unsigned char * | xattr_value struct evm_ima_xattr_data * | xattr_len int

@@ -1,0 +1,2 @@
+struct put_image_params | format int 
+function overlay_cmd_reg int | params struct put_image_params *

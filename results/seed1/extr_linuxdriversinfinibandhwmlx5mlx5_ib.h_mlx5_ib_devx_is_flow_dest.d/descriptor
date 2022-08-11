@@ -1,1 +1,0 @@
-function mlx5_ib_devx_is_flow_dest int | obj void * | dest_id int * | dest_type int *

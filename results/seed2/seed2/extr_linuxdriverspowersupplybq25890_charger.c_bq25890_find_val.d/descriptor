@@ -1,0 +1,4 @@
+struct bq25890_range | step unsigned long | min long 
+struct TYPE_3__ | tbl long * 
+struct TYPE_4__ | rt struct bq25890_range | lt struct TYPE_3__ 
+function bq25890_find_val long | idx unsigned long | id enum bq25890_table_ids

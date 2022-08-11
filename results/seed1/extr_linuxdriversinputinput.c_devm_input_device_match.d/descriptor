@@ -1,3 +1,0 @@
-struct input_devres | input void * 
-struct device | dummy int 
-function devm_input_device_match int | dev struct device * | res void * | data void *

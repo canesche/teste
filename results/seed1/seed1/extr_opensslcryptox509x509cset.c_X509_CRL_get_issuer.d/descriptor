@@ -1,0 +1,3 @@
+struct TYPE_4__ | issuer int * 
+struct TYPE_5__ | crl struct TYPE_4__ 
+function X509_CRL_get_issuer int * | crl const struct TYPE_5__ *

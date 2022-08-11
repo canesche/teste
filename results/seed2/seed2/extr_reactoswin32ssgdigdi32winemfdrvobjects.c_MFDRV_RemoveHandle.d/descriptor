@@ -1,0 +1,2 @@
+struct TYPE_2__ | handles_size unsigned long | cur_handles int | handles long * 
+function MFDRV_RemoveHandle int | dev long | index unsigned long

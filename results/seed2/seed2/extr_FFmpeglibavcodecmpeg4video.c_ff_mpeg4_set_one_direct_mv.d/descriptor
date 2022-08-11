@@ -1,0 +1,3 @@
+struct TYPE_4__ | motion_val int *** 
+struct TYPE_5__ | block_index int * | pp_time int | pb_time int | mv int *** | direct_scale_mv int ** | next_picture struct TYPE_4__ 
+function ff_mpeg4_set_one_direct_mv void | s struct TYPE_5__ * | mx int | my int | i int

@@ -1,0 +1,3 @@
+struct usb_gadget_strings | dummy int 
+struct usb_gadget_string_container | stash long 
+function get_containers_gs struct usb_gadget_strings ** | uc struct usb_gadget_string_container *

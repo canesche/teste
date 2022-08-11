@@ -1,2 +1,0 @@
-struct linux_prom64_registers | phys_addr long 
-function cmp_p64 int | a const void * | b const void *

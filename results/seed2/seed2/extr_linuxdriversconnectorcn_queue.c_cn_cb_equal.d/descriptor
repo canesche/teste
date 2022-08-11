@@ -1,0 +1,2 @@
+struct cb_id | idx long | val long 
+function cn_cb_equal int | i1 struct cb_id * | i2 struct cb_id *

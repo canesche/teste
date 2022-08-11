@@ -1,0 +1,2 @@
+struct nvkm_mxm | dummy int 
+function mxms_headerlen int | mxm struct nvkm_mxm *

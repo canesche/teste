@@ -1,0 +1,4 @@
+struct TYPE_4__ | num_vports int | qm_vport_params struct TYPE_3__ * 
+struct qed_hwfn | qm_info struct TYPE_4__ 
+struct TYPE_3__ | vport_wfq int 
+function qed_init_wfq_default_param void | p_hwfn struct qed_hwfn * | min_pf_rate int

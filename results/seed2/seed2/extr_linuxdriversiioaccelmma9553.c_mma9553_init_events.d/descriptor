@@ -1,0 +1,3 @@
+struct mma9553_data | num_events int | events struct TYPE_2__ * 
+struct TYPE_2__ | enabled int | info int * 
+function mma9553_init_events void | data struct mma9553_data *

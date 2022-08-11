@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversscsifcoefcoe_ctlr.c_fcoe_ctlr_rport.d/extr_linuxdriversscsifcoefcoe_ctlr.c_fcoe_ctlr_rport_O0::fcoe_ctlr_rport(62)"
+  }
+]

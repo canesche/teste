@@ -1,3 +1,0 @@
-struct seq_file | private struct map_iter * 
-struct map_iter | dummy int 
-function map_iter struct map_iter * | m struct seq_file *

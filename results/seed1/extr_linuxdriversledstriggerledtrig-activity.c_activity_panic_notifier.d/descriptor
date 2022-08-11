@@ -1,2 +1,0 @@
-struct notifier_block | dummy int 
-function activity_panic_notifier int | nb struct notifier_block * | code unsigned long | unused void *

@@ -1,0 +1,2 @@
+struct zorro_dev | id long 
+function zorro_find_device struct zorro_dev * | id long | from struct zorro_dev *

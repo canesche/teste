@@ -1,3 +1,0 @@
-struct i40iw_sc_pd | size int | abi_ver int | dev struct i40iw_sc_dev * | pd_id int 
-struct i40iw_sc_dev | dummy int 
-function i40iw_sc_pd_init void | dev struct i40iw_sc_dev * | pd struct i40iw_sc_pd * | pd_id int | abi_ver int

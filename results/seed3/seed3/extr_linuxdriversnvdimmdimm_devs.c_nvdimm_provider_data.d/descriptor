@@ -1,0 +1,2 @@
+struct nvdimm | provider_data void * 
+function nvdimm_provider_data void * | nvdimm struct nvdimm *

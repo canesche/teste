@@ -1,2 +1,0 @@
-struct gb_connection | flags int 
-function gb_connection_is_control int | connection struct gb_connection *

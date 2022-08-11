@@ -1,0 +1,2 @@
+struct clk_pll_table | rate long 
+function _get_pll_table const struct clk_pll_table * | table const struct clk_pll_table * | rate unsigned long

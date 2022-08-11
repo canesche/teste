@@ -1,0 +1,1 @@
+function subtract_u64 void | result int * | carry int * | v int

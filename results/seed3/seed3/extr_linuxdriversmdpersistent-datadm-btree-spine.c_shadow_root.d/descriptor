@@ -1,0 +1,2 @@
+struct shadow_spine | root int 
+function shadow_root int | s struct shadow_spine *

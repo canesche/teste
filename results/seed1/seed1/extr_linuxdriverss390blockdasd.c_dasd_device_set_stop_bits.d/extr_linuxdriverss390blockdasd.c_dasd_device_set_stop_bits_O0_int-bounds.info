@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriverss390blockdasd.c_dasd_device_set_stop_bits.d/extr_linuxdriverss390blockdasd.c_dasd_device_set_stop_bits_O0::dasd_device_set_stop_bits(61)"
+  }
+]

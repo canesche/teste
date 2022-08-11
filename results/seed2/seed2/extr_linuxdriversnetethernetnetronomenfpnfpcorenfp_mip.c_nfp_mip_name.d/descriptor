@@ -1,0 +1,2 @@
+struct nfp_mip | name const char * 
+function nfp_mip_name const char * | mip const struct nfp_mip *

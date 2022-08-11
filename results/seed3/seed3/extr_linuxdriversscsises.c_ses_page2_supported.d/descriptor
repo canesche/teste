@@ -1,0 +1,3 @@
+struct ses_device | page2 int * 
+struct enclosure_device | scratch struct ses_device * 
+function ses_page2_supported int | edev struct enclosure_device *

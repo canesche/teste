@@ -1,0 +1,2 @@
+struct snd_mask | dummy int 
+function snd_pcm_plug_slave_format int | format int | format_mask const struct snd_mask *

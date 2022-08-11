@@ -1,0 +1,2 @@
+struct mlxsw_sp_port | pvid long 
+function mlxsw_sp_port_pvid_determine long | mlxsw_sp_port const struct mlxsw_sp_port * | vid long | is_pvid int

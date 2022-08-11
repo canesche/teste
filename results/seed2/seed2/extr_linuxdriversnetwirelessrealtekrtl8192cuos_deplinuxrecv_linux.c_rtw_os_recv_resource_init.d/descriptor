@@ -1,0 +1,2 @@
+struct recv_priv | dummy int 
+function rtw_os_recv_resource_init int | precvpriv struct recv_priv * | padapter int *

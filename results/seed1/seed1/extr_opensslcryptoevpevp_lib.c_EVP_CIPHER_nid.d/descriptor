@@ -1,0 +1,2 @@
+struct TYPE_3__ | nid int 
+function EVP_CIPHER_nid int | cipher const struct TYPE_3__ *

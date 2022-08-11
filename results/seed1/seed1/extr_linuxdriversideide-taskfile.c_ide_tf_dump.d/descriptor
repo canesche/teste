@@ -1,0 +1,2 @@
+struct ide_cmd | dummy int 
+function ide_tf_dump void | s const char * | cmd struct ide_cmd *

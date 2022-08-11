@@ -1,0 +1,2 @@
+struct ring_buffer | dummy int 
+function ring_buffer_normalize_time_stamp void | buffer struct ring_buffer * | cpu int | ts int *

@@ -1,0 +1,2 @@
+struct stmmac_rx_queue | rx_zeroc_thresh long 
+function stmmac_rx_threshold_count int | rx_q struct stmmac_rx_queue *

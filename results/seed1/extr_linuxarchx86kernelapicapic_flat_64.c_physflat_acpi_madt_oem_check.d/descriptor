@@ -1,1 +1,0 @@
-function physflat_acpi_madt_oem_check int | oem_id char * | oem_table_id char *

@@ -1,0 +1,3 @@
+struct nilfs_btree_path | dummy int 
+struct nilfs_bmap | dummy int 
+function nilfs_btree_nop void | btree struct nilfs_bmap * | path struct nilfs_btree_path * | level int | keyp int * | ptrp int *

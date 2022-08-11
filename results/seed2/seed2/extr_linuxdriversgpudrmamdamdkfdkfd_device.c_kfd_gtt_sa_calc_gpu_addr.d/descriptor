@@ -1,0 +1,1 @@
+function kfd_gtt_sa_calc_gpu_addr long | start_addr long | bit_num unsigned int | chunk_size unsigned int

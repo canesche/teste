@@ -1,3 +1,0 @@
-struct inode | dummy int 
-struct file | dummy int 
-function wdtpci_temp_release int | inode struct inode * | file struct file *

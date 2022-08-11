@@ -1,0 +1,3 @@
+struct rlimit | rlim_cur long 
+struct TYPE_2__ | personality int 
+function mmap_is_legacy int | rlim_stack struct rlimit *

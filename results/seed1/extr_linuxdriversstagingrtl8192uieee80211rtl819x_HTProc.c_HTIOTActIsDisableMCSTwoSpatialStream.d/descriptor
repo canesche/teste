@@ -1,2 +1,0 @@
-struct ieee80211_device | dummy int 
-function HTIOTActIsDisableMCSTwoSpatialStream int | ieee struct ieee80211_device * | PeerMacAddr int *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | w int | h int | c int | data int * 
+function constrain_image void | im struct TYPE_3__

@@ -1,3 +1,0 @@
-struct dma_chan | cookie long 
-struct dma_async_tx_descriptor | cookie long | chan struct dma_chan * 
-function dma_cookie_assign long | tx struct dma_async_tx_descriptor *

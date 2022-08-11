@@ -1,3 +1,0 @@
-struct delta_frame | state int 
-struct delta_ctx | dummy int 
-function delta_recycle_default int | pctx struct delta_ctx * | frame struct delta_frame *

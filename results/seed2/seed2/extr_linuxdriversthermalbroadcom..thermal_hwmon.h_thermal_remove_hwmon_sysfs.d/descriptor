@@ -1,0 +1,2 @@
+struct thermal_zone_device | dummy int 
+function thermal_remove_hwmon_sysfs void | tz struct thermal_zone_device *

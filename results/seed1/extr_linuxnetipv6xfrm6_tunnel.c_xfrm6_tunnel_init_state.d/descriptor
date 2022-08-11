@@ -1,4 +1,0 @@
-struct TYPE_2__ | mode long | header_len int 
-struct xfrm_state | props struct TYPE_2__ | encap long 
-struct ipv6hdr | dummy int 
-function xfrm6_tunnel_init_state int | x struct xfrm_state *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | source int 
+function SCT_get_source int | sct const struct TYPE_3__ *

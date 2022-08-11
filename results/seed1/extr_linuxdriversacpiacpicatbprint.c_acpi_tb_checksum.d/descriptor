@@ -1,1 +1,0 @@
-function acpi_tb_checksum long | buffer long * | length int

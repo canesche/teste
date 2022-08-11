@@ -1,0 +1,3 @@
+struct smk_audit_info | dummy int 
+struct path | dummy int 
+function smk_ad_setfield_u_fs_path void | a struct smk_audit_info * | p struct path

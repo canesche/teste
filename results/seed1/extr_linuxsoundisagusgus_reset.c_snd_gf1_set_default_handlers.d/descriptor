@@ -1,4 +1,0 @@
-struct snd_gus_voice | volume_change int * | handler_effect int * | handler_volume int | handler_wave int 
-struct TYPE_2__ | interrupt_handler_dma_read int | interrupt_handler_dma_write int | voices struct snd_gus_voice * | interrupt_handler_timer2 int | interrupt_handler_timer1 int | interrupt_handler_midi_in int | interrupt_handler_midi_out int 
-struct snd_gus_card | gf1 struct TYPE_2__ 
-function snd_gf1_set_default_handlers void | gus struct snd_gus_card * | what unsigned int

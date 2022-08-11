@@ -1,0 +1,3 @@
+struct xdp_umem | pages struct TYPE_2__ * 
+struct TYPE_2__ | dma long 
+function xdp_umem_get_dma long | umem struct xdp_umem * | addr unsigned long

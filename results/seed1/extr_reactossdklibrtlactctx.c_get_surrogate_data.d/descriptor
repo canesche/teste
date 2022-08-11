@@ -1,4 +1,0 @@
-struct guid_index | data_offset int 
-struct clrsurrogate_data | dummy int 
-struct TYPE_3__ | clrsurrogate_section long 
-function get_surrogate_data struct clrsurrogate_data * | actctx struct TYPE_3__ * | index const struct guid_index *

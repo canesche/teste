@@ -1,0 +1,2 @@
+struct kmem_cache | dummy int 
+function __kmem_cache_shrink int | d struct kmem_cache *

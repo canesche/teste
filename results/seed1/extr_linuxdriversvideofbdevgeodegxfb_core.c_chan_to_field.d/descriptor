@@ -1,2 +1,0 @@
-struct fb_bitfield | length int | offset int 
-function chan_to_field int | chan int | bf struct fb_bitfield *

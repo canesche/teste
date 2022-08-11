@@ -1,0 +1,3 @@
+struct list_head | dummy int 
+struct bpf_lru_locallist | lists struct list_head * 
+function local_free_list struct list_head * | loc_l struct bpf_lru_locallist *

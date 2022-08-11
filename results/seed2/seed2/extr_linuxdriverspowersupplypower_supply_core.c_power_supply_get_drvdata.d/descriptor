@@ -1,0 +1,2 @@
+struct power_supply | drv_data void * 
+function power_supply_get_drvdata void * | psy struct power_supply *

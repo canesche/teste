@@ -1,0 +1,2 @@
+struct mt76_rate_power | all int * 
+function mt76x2_limit_rate_power void | r struct mt76_rate_power * | limit int

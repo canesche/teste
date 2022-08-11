@@ -1,0 +1,3 @@
+struct TYPE_4__ | writer struct TYPE_3__ * 
+struct TYPE_3__ | name const char * 
+function writer_get_name const char * | p void *

@@ -1,3 +1,0 @@
-struct intel_cdclk_state | cdclk int 
-struct drm_i915_private | dummy int 
-function fixed_450mhz_get_cdclk void | dev_priv struct drm_i915_private * | cdclk_state struct intel_cdclk_state *

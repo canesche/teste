@@ -1,2 +1,0 @@
-struct TYPE_3__ | cpsr int 
-function set_thumb_flag void | regs struct TYPE_3__ * | pc int

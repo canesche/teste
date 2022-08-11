@@ -1,0 +1,2 @@
+struct nfs4_layoutget | dummy int 
+function nfs4_lgopen_release void | lgp struct nfs4_layoutget *

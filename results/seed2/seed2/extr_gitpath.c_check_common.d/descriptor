@@ -1,0 +1,2 @@
+struct common_dir | exclude int | is_dir long 
+function check_common int | unmatched const char * | value void * | baton void *

@@ -1,0 +1,2 @@
+struct lm3533_bl | id int 
+function lm3533_bl_get_ctrlbank_id int | bl struct lm3533_bl *

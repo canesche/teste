@@ -1,0 +1,3 @@
+struct acpi_lpat_conversion_table | lpat_count int | lpat struct acpi_lpat * 
+struct acpi_lpat | raw int | temp int 
+function acpi_lpat_raw_to_temp int | lpat_table struct acpi_lpat_conversion_table * | raw int

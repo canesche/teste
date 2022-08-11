@@ -1,0 +1,5 @@
+struct format_field | flags unsigned long | size int 
+struct TYPE_2__ | u32 struct bt_ctf_field_type * | u64 struct bt_ctf_field_type * | s32 struct bt_ctf_field_type * | s64 struct bt_ctf_field_type * | u64_hex struct bt_ctf_field_type * | string struct bt_ctf_field_type * 
+struct ctf_writer | data struct TYPE_2__ 
+struct bt_ctf_field_type | dummy int 
+function get_tracepoint_field_type struct bt_ctf_field_type * | cw struct ctf_writer * | field struct format_field *

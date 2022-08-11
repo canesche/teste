@@ -1,0 +1,2 @@
+struct TYPE_3__ | monitor int * 
+function _glfwInputWindowMonitor void | window struct TYPE_3__ * | monitor int *

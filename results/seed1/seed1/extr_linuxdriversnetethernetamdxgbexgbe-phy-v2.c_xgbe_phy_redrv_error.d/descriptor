@@ -1,0 +1,2 @@
+struct xgbe_phy_data | redrv_if long | redrv_model int | redrv_lane int | redrv int 
+function xgbe_phy_redrv_error int | phy_data struct xgbe_phy_data *

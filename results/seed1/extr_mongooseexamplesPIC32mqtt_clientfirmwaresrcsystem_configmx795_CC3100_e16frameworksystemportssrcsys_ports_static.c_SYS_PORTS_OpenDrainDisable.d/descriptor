@@ -1,1 +1,0 @@
-function SYS_PORTS_OpenDrainDisable void | index int | channel int | mask int

@@ -1,2 +1,0 @@
-struct efx_rss_context | context_id long 
-function efx_rss_active int | ctx struct efx_rss_context *

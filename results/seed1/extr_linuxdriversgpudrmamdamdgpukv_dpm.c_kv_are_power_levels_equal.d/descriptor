@@ -1,2 +1,0 @@
-struct kv_pl | sclk long | vddc_index long | ds_divider_index long | force_nbp_state long 
-function kv_are_power_levels_equal int | kv_cpl1 const struct kv_pl * | kv_cpl2 const struct kv_pl *

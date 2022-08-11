@@ -1,4 +1,0 @@
-struct sock | dummy int 
-struct sk_buff | dummy int 
-struct dst_entry | dummy int 
-function fake_update_pmtu void | dst struct dst_entry * | sk struct sock * | skb struct sk_buff * | mtu int

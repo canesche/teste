@@ -1,5 +1,0 @@
-struct sh_fsi_port_info | tx_id long 
-struct TYPE_3__ | handler int * | dma_id long | priv struct fsi_priv * 
-struct TYPE_4__ | priv struct fsi_priv * | handler int * 
-struct fsi_priv | playback struct TYPE_3__ | capture struct TYPE_4__ 
-function fsi_handler_init void | fsi struct fsi_priv * | info struct sh_fsi_port_info *

@@ -1,0 +1,5 @@
+struct TYPE_4__ | vf_os int 
+struct TYPE_3__ | num_mc_filters int 
+struct vfpf_acquire_tlv | vfdev_info struct TYPE_4__ | resc_request struct TYPE_3__ | bulletin_addr int 
+struct bnx2x | dummy int 
+function bnx2x_vf_mbx_is_windows_vm int | bp struct bnx2x * | acquire struct vfpf_acquire_tlv *

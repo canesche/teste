@@ -1,2 +1,0 @@
-struct mv88e6xxx_chip | dummy int 
-function mv88e6xxx_g2_device_mapping_write int | chip struct mv88e6xxx_chip * | target int | port int

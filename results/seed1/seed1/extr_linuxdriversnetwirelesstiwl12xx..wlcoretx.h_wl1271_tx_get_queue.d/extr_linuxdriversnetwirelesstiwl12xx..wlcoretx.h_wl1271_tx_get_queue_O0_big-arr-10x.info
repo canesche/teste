@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetwirelesstiwl12xx..wlcoretx.h_wl1271_tx_get_queue.d/extr_linuxdriversnetwirelesstiwl12xx..wlcoretx.h_wl1271_tx_get_queue_O0::wl1271_tx_get_queue(64)"
+  }
+]

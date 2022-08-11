@@ -1,0 +1,2 @@
+struct alx_hw | dummy int 
+function ethadv_to_hw_cfg int | hw struct alx_hw * | ethadv_cfg int

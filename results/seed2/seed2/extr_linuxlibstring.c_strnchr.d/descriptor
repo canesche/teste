@@ -1,0 +1,1 @@
+function strnchr char * | s const char * | count unsigned long | c int

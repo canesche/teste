@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactosdll3rdpartylibtifftif_extension.c_TIFFGetTagListCount.d/extr_reactosdll3rdpartylibtifftif_extension.c_TIFFGetTagListCount_O0::TIFFGetTagListCount(67)"
+  }
+]

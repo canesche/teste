@@ -1,0 +1,2 @@
+struct wmi | ep_id int 
+function ath6kl_wmi_get_control_ep enum htc_endpoint_id | wmi struct wmi *

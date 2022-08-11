@@ -1,2 +1,0 @@
-struct nfs4_client | dummy int 
-function nfsd4_return_all_client_layouts void | clp struct nfs4_client *

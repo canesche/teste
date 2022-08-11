@@ -1,3 +1,0 @@
-struct mic_intr_info | dummy int 
-struct mic_device | intr_info struct mic_intr_info * 
-function mic_x100_hw_intr_init void | mdev struct mic_device *

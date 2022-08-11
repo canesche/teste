@@ -1,0 +1,3 @@
+struct TYPE_5__ | chunk_item struct TYPE_4__ * 
+struct TYPE_4__ | type int 
+function get_chunk_dup_type int | c struct TYPE_5__ *

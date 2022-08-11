@@ -1,2 +1,0 @@
-struct TYPE_3__ | po_last_transmit_secs long | po_n_transmit long 
-function bondport_can_transmit int | p struct TYPE_3__ * | current_secs long | next_secs long *

@@ -1,0 +1,10 @@
+struct obs_context_data | type int 
+struct TYPE_9__ | id const char * 
+struct TYPE_13__ | info struct TYPE_9__ 
+struct TYPE_12__ | id const char * 
+struct TYPE_14__ | info struct TYPE_12__ 
+struct TYPE_10__ | id const char * 
+struct TYPE_15__ | info struct TYPE_10__ 
+struct TYPE_11__ | id const char * 
+struct TYPE_16__ | info struct TYPE_11__ 
+function obs_obj_get_id const char * | obj void *

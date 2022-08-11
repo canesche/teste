@@ -1,0 +1,3 @@
+struct rxe_queue | index_mask int | buf struct TYPE_2__ * 
+struct TYPE_2__ | producer_index int | consumer_index int 
+function queue_empty int | q struct rxe_queue *

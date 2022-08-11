@@ -1,0 +1,2 @@
+struct strbuf | len long | alloc long 
+function strbuf_avail long | sb const struct strbuf *

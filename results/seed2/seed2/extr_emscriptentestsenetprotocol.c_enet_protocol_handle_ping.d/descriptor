@@ -1,0 +1,1 @@
+function enet_protocol_handle_ping int | host int * | peer int * | command const int *

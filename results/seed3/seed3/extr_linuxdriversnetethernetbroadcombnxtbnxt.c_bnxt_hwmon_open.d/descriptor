@@ -1,0 +1,2 @@
+struct bnxt | dummy int 
+function bnxt_hwmon_open void | bp struct bnxt *

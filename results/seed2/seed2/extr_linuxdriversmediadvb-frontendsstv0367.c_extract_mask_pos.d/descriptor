@@ -1,0 +1,1 @@
+function extract_mask_pos void | label int | mask int * | pos int *

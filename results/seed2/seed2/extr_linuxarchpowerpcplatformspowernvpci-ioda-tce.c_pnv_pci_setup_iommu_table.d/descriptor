@@ -1,0 +1,2 @@
+struct iommu_table | it_blocksize int | it_base unsigned long | it_page_shift unsigned int | it_offset int | it_size int | it_type int | it_busno long | it_index long 
+function pnv_pci_setup_iommu_table void | tbl struct iommu_table * | tce_mem void * | tce_size int | dma_offset int | page_shift unsigned int

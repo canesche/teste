@@ -1,3 +1,0 @@
-struct tty_struct | dummy int 
-struct file | dummy int 
-function nci_uart_tty_write int | tty struct tty_struct * | file struct file * | data const unsigned char * | count unsigned long

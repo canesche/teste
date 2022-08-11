@@ -1,0 +1,11 @@
+struct TYPE_13__ | DISPLAY_BLANKED int | SUPPORT_YCBCR420 int | ENABLE_SS long 
+struct pixel_clk_params | requested_pix_clk int | requested_sym_clk int | pixel_encoding long | color_depth int | flags struct TYPE_13__ | controller_id long | signal_type int | encoder_object_id int 
+struct TYPE_12__ | tg struct TYPE_11__ * 
+struct pipe_ctx | stream_res struct TYPE_12__ | stream struct dc_stream_state * 
+struct TYPE_14__ | pix_clk_khz int | pixel_encoding long | display_color_depth int 
+struct dc_stream_state | timing struct TYPE_14__ | signal int | sink struct TYPE_10__ * 
+struct TYPE_11__ | inst long 
+struct TYPE_10__ | link struct TYPE_9__ * 
+struct TYPE_9__ | link_enc struct TYPE_8__ * 
+struct TYPE_8__ | id int 
+function get_pixel_clock_parameters void | pipe_ctx const struct pipe_ctx * | pixel_clk_params struct pixel_clk_params *

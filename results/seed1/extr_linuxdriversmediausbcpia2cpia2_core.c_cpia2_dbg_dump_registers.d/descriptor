@@ -1,2 +1,0 @@
-struct camera_data | dummy int 
-function cpia2_dbg_dump_registers void | cam struct camera_data *

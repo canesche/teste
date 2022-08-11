@@ -1,0 +1,2 @@
+struct TYPE_4__ | wYear long | wMonth long | wDay long 
+function MONTHCAL_IsDateEqual int | first const struct TYPE_4__ * | second const struct TYPE_4__ *

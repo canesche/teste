@@ -1,2 +1,0 @@
-struct dm_verity | dummy int 
-function verity_fec_status_table unsigned int | v struct dm_verity * | sz unsigned int | result char * | maxlen unsigned int

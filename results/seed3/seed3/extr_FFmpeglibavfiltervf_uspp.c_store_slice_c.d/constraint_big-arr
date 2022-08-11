@@ -1,0 +1,1 @@
+value(dst_stride) == 255, value(src_stride) == 255, value(width) == 255, value(height) == 255, value(log2_scale) == 255, length(dst) == 65025, length(src) == 65025

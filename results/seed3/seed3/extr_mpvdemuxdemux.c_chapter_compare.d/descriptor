@@ -1,0 +1,2 @@
+struct demux_chapter | pts long | original_index long 
+function chapter_compare int | p1 const void * | p2 const void *

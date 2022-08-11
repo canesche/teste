@@ -1,2 +1,0 @@
-struct mg_connection | dummy int 
-function mg_null_if_tcp_send int | c struct mg_connection * | buf const void * | len unsigned long

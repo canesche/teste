@@ -1,2 +1,0 @@
-struct automic_entry | attr long 
-function compare_attr int | ap const void * | bp const void *

@@ -1,0 +1,4 @@
+struct intel_uncore_box | pmu struct TYPE_4__ * 
+struct TYPE_4__ | type struct TYPE_3__ * 
+struct TYPE_3__ | perf_ctr int 
+function uncore_pci_perf_ctr unsigned int | box struct intel_uncore_box * | idx int

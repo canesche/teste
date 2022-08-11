@@ -1,0 +1,3 @@
+struct TYPE_5__ | select_data int 
+struct TYPE_6__ | dma_mode long | dn long 
+function tx4939ide_set_dma_mode void | hwif struct TYPE_5__ * | drive struct TYPE_6__ *

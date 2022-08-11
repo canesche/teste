@@ -1,0 +1,2 @@
+struct igb_adapter | dummy int 
+function igb_probe_vfs void | adapter struct igb_adapter *

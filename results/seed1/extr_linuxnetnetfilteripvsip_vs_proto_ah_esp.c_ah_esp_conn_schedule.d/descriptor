@@ -1,6 +1,0 @@
-struct sk_buff | dummy int 
-struct netns_ipvs | dummy int 
-struct ip_vs_proto_data | dummy int 
-struct ip_vs_iphdr | dummy int 
-struct ip_vs_conn | dummy int 
-function ah_esp_conn_schedule int | ipvs struct netns_ipvs * | af int | skb struct sk_buff * | pd struct ip_vs_proto_data * | verdict int * | cpp struct ip_vs_conn ** | iph struct ip_vs_iphdr *

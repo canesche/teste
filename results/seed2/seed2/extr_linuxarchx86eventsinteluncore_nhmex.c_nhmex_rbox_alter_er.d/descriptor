@@ -1,0 +1,5 @@
+struct hw_perf_event_extra | idx int | config int 
+struct hw_perf_event | config int | extra_reg struct hw_perf_event_extra 
+struct perf_event | hw struct hw_perf_event 
+struct intel_uncore_box | dummy int 
+function nhmex_rbox_alter_er void | box struct intel_uncore_box * | event struct perf_event *

@@ -1,0 +1,2 @@
+struct iotlb_entry | mixed int | endian int | elsz int | pgsz long 
+function get_iopte_attr int | e struct iotlb_entry *

@@ -1,2 +1,0 @@
-struct con_driver | dummy int 
-function vt_unbind int | con struct con_driver *

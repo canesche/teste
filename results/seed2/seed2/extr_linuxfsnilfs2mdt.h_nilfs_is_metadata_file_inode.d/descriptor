@@ -1,0 +1,2 @@
+struct inode | i_private int * 
+function nilfs_is_metadata_file_inode int | inode const struct inode *

@@ -1,5 +1,0 @@
-struct TYPE_4__ | num unsigned long | array struct audio_input * 
-struct audio_mix | inputs struct TYPE_4__ 
-struct audio_input | callback long | param void * 
-struct TYPE_5__ | mixes struct audio_mix * 
-function audio_get_input_idx unsigned long | audio const struct TYPE_5__ * | mix_idx unsigned long | callback long | param void *

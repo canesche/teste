@@ -1,0 +1,3 @@
+struct TYPE_2__ | m_bytes char * | m_iLen int 
+struct lsapi_packet_header | m_versionB0 long | m_versionB1 long | m_type char | m_flag int | m_packetLen struct TYPE_2__ 
+function verifyHeader int | pHeader struct lsapi_packet_header * | pktType char

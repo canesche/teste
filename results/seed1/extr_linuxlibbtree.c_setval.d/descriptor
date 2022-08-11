@@ -1,2 +1,0 @@
-struct btree_geo | no_longs int 
-function setval void | geo struct btree_geo * | node unsigned long * | n int | val void *

@@ -1,0 +1,2 @@
+struct ip_vs_conn | protocol int | flags int | state int | control long 
+function is_new_conn_expected int | cp const struct ip_vs_conn * | conn_reuse_mode int

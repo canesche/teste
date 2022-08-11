@@ -1,2 +1,0 @@
-struct atafb_par | screen_base int 
-function ext_get_par void | par struct atafb_par *

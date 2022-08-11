@@ -1,0 +1,2 @@
+struct hso_device | dummy int 
+function add_net_device int | hso_dev struct hso_device *

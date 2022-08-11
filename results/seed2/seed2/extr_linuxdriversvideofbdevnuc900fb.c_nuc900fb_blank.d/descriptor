@@ -1,0 +1,2 @@
+struct fb_info | dummy int 
+function nuc900fb_blank int | blank_mode int | info struct fb_info *

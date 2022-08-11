@@ -1,0 +1,1 @@
+function ngx_http_lua_merge_srv_conf char * | cf int * | parent void * | child void *

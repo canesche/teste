@@ -1,0 +1,2 @@
+struct TYPE_3__ | description const char * 
+function obs_hotkey_get_description const char * | key const struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct priv | delay int 
+function movecb void | addr void * | delta int

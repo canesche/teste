@@ -1,0 +1,2 @@
+struct device_node | dummy int 
+function xive_spapr_match int | node struct device_node *

@@ -1,0 +1,3 @@
+struct smc_ib_device | pattr struct TYPE_2__ * 
+struct TYPE_2__ | state long 
+function smc_ib_port_active int | smcibdev struct smc_ib_device * | ibport int

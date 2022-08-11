@@ -1,0 +1,3 @@
+struct page | dummy int 
+struct mm_struct | dummy int 
+function xen_pte_lock int * | page struct page * | mm struct mm_struct *

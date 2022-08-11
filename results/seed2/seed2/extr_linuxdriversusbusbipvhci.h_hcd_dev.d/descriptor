@@ -1,0 +1,4 @@
+struct TYPE_2__ | controller struct device * 
+struct usb_hcd | self struct TYPE_2__ 
+struct device | dummy int 
+function hcd_dev struct device * | hcd struct usb_hcd *

@@ -1,1 +1,0 @@
-function _RpcWaitForPrinterChange int | hPrinter int | Flags int | pFlags int *

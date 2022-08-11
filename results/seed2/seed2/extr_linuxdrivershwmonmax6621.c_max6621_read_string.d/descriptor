@@ -1,0 +1,2 @@
+struct device | dummy int 
+function max6621_read_string int | dev struct device * | type enum hwmon_sensor_types | attr int | channel int | str const char **

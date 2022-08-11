@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function hisi_sas_mmio_enabled_v3_hw int | pdev struct pci_dev *

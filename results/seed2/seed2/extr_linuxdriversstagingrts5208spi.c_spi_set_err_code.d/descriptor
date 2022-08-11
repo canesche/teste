@@ -1,0 +1,3 @@
+struct spi_info | err_code int 
+struct rtsx_chip | spi struct spi_info 
+function spi_set_err_code void | chip struct rtsx_chip * | err_code int

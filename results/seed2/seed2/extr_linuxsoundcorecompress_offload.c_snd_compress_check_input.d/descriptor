@@ -1,0 +1,4 @@
+struct TYPE_3__ | id long | ch_in long | ch_out long 
+struct TYPE_4__ | fragment_size int | fragments int 
+struct snd_compr_params | codec struct TYPE_3__ | buffer struct TYPE_4__ 
+function snd_compress_check_input int | params struct snd_compr_params *

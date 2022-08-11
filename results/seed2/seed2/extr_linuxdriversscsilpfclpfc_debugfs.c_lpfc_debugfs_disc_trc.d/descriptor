@@ -1,0 +1,2 @@
+struct lpfc_vport | dummy int 
+function lpfc_debugfs_disc_trc void | vport struct lpfc_vport * | mask int | fmt char * | data1 int | data2 int | data3 int

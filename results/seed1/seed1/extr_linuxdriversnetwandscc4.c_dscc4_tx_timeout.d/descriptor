@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function dscc4_tx_timeout void | dev struct net_device *

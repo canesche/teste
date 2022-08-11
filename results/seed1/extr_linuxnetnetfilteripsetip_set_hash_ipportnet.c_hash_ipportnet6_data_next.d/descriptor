@@ -1,2 +1,0 @@
-struct hash_ipportnet6_elem | port int 
-function hash_ipportnet6_data_next void | next struct hash_ipportnet6_elem * | d const struct hash_ipportnet6_elem *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | length int | data int * 
+struct TYPE_6__ | buffer int * | message struct TYPE_5__ 
+function fini_message struct TYPE_5__ * | connection struct TYPE_6__ * | type int | dup int | qos int | retain int

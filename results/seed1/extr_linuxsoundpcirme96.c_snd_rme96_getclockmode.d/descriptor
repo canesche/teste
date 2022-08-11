@@ -1,2 +1,0 @@
-struct rme96 | areg int | wcreg int 
-function snd_rme96_getclockmode int | rme96 struct rme96 *

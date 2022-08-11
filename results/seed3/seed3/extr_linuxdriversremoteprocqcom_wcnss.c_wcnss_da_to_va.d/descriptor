@@ -1,0 +1,3 @@
+struct rproc | priv long 
+struct qcom_wcnss | mem_reloc int | mem_size int | mem_region void * 
+function wcnss_da_to_va void * | rproc struct rproc * | da int | len int

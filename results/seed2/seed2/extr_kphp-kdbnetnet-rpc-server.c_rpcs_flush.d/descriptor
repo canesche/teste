@@ -1,0 +1,2 @@
+struct connection | dummy int 
+function rpcs_flush int | c struct connection *

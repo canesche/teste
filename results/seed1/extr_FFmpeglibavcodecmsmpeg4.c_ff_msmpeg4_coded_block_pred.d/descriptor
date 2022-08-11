@@ -1,2 +1,0 @@
-struct TYPE_3__ | block_index int * | b8_stride int | coded_block int * 
-function ff_msmpeg4_coded_block_pred int | s struct TYPE_3__ * | n int | coded_block_ptr int **

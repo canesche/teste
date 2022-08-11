@@ -1,2 +1,0 @@
-struct i915_vma | active_count int 
-function i915_vma_is_active int | vma struct i915_vma *

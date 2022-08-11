@@ -1,0 +1,3 @@
+struct TYPE_5__ | cursor struct TYPE_4__ * 
+struct TYPE_4__ | shape int | blink int 
+function screen_set_cursor void | self struct TYPE_5__ * | mode unsigned int | secondary int

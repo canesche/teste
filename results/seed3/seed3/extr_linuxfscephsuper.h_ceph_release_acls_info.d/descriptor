@@ -1,0 +1,2 @@
+struct ceph_acls_info | dummy int 
+function ceph_release_acls_info void | info struct ceph_acls_info *

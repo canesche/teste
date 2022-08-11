@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct hw_regs | end long | start long 
+function netdev_get_regs_len int | dev struct net_device *

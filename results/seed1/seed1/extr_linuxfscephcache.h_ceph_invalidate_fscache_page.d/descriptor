@@ -1,0 +1,3 @@
+struct page | dummy int 
+struct inode | dummy int 
+function ceph_invalidate_fscache_page void | inode struct inode * | page struct page *

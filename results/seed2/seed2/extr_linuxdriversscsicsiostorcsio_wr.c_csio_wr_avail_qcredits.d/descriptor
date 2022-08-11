@@ -1,0 +1,2 @@
+struct csio_q | pidx long | cidx long | credits long 
+function csio_wr_avail_qcredits long | q struct csio_q *

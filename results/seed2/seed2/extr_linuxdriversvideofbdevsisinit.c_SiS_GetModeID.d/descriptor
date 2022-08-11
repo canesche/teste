@@ -1,0 +1,1 @@
+function SiS_GetModeID unsigned short | VGAEngine int | VBFlags unsigned int | HDisplay int | VDisplay int | Depth int | FSTN int | LCDwidth int | LCDheight int

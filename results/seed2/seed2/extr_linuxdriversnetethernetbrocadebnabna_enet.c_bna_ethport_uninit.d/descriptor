@@ -1,0 +1,2 @@
+struct bna_ethport | bna int * | flags int 
+function bna_ethport_uninit void | ethport struct bna_ethport *

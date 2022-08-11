@@ -1,4 +1,0 @@
-struct psmouse | packet unsigned char * | private struct elantech_data * 
-struct TYPE_2__ | reports_pressure long 
-struct elantech_data | info struct TYPE_2__ 
-function elantech_packet_check_v2 int | psmouse struct psmouse *

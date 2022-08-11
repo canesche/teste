@@ -1,3 +1,0 @@
-struct uart_port | dummy int 
-struct serial_struct | type long 
-function mcf_verify_port int | port struct uart_port * | ser struct serial_struct *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | attached_to_repl int 
+function uart_attach_to_repl void | self struct TYPE_3__ * | attached int

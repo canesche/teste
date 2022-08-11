@@ -1,0 +1,2 @@
+struct ccw1 | cmd_code int | cda long | count long | flags long 
+function tape_ccw_cmd struct ccw1 * | ccw struct ccw1 * | cmd_code int

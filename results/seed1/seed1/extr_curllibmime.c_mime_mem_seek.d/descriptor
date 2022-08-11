@@ -1,0 +1,3 @@
+struct TYPE_3__ | offset unsigned long 
+struct TYPE_4__ | datasize long | state struct TYPE_3__ 
+function mime_mem_seek int | instream void * | offset long | whence int

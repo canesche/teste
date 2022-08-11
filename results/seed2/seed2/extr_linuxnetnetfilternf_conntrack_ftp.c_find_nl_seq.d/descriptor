@@ -1,0 +1,2 @@
+struct nf_ct_ftp_master | seq_aft_nl_num unsigned int * | seq_aft_nl long ** 
+function find_nl_seq int | seq long | info const struct nf_ct_ftp_master * | dir int

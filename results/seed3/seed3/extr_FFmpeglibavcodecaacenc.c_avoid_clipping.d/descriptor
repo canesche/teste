@@ -1,0 +1,3 @@
+struct TYPE_4__ | clip_avoidance_factor float | num_windows int | max_sfb int | swb_sizes int * 
+struct TYPE_5__ | coeffs float * | ics struct TYPE_4__ 
+function avoid_clipping void | s int * | sce struct TYPE_5__ *

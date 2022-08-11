@@ -1,0 +1,2 @@
+struct hash_entry | key int 
+function urlcache_hash_entry_delete int | pHashEntry struct hash_entry *

@@ -1,0 +1,2 @@
+struct exception_table_entry | dummy int 
+function sort_extable void | start struct exception_table_entry * | finish struct exception_table_entry *

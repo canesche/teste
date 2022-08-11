@@ -1,0 +1,4 @@
+struct ct_timer_instance | need_update long | running long | substream struct TYPE_4__ * | frag_count int 
+struct TYPE_4__ | runtime struct TYPE_3__ * 
+struct TYPE_3__ | period_size int 
+function ct_xfitimer_prepare void | ti struct ct_timer_instance *

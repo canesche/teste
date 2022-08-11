@@ -1,3 +1,0 @@
-struct TYPE_5__ | tkl int 
-struct TYPE_6__ | len unsigned int | p const int * 
-function coap_parseToken int | tokbuf struct TYPE_6__ * | hdr const struct TYPE_5__ * | buf const int * | buflen unsigned long

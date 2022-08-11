@@ -1,0 +1,2 @@
+struct priv | vo_formats int * 
+function vo_supports int | p struct priv * | subfmt int

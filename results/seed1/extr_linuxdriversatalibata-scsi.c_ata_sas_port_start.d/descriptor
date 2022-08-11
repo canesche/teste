@@ -1,3 +1,0 @@
-struct ata_port | pflags int | ops struct TYPE_2__ * 
-struct TYPE_2__ | error_handler int 
-function ata_sas_port_start int | ap struct ata_port *

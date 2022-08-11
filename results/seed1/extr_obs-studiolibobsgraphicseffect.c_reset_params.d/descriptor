@@ -1,4 +1,0 @@
-struct pass_shaderparam | eparam struct TYPE_2__ * 
-struct darray | num unsigned long | array struct pass_shaderparam * 
-struct TYPE_2__ | changed int 
-function reset_params void | shaderparams struct darray *

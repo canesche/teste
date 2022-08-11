@@ -1,3 +1,0 @@
-struct TYPE_2__ | h_length int 
-struct dlm_message | m_header struct TYPE_2__ 
-function receive_extralen int | ms struct dlm_message *

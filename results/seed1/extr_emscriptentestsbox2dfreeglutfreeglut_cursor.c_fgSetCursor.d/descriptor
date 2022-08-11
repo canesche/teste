@@ -1,3 +1,0 @@
-struct TYPE_4__ | Cursor int 
-struct TYPE_5__ | State struct TYPE_4__ 
-function fgSetCursor void | window struct TYPE_5__ * | cursorID int

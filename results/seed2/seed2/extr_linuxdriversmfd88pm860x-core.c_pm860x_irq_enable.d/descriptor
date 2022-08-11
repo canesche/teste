@@ -1,0 +1,3 @@
+struct irq_data | hwirq unsigned long 
+struct TYPE_2__ | offs int | enable int 
+function pm860x_irq_enable void | data struct irq_data *

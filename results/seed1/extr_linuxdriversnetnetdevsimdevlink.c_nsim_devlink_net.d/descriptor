@@ -1,3 +1,0 @@
-struct net | dummy int 
-struct devlink | dummy int 
-function nsim_devlink_net struct net * | devlink struct devlink *

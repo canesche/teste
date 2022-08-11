@@ -1,0 +1,3 @@
+struct nvm_geo | num_chk int | pln_mode int 
+struct nvm_dev | geo struct nvm_geo 
+function nvm_bb_tbl_fold int | dev struct nvm_dev * | blks int * | nr_blks int

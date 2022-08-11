@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_php-srcextopensslxp_ssl.c_php_openssl_compare_timeval.d/extr_php-srcextopensslxp_ssl.c_php_openssl_compare_timeval_O0::php_openssl_compare_timeval(59)"
+  }
+]

@@ -1,2 +1,0 @@
-struct brcms_c_rateset | mcs long * 
-function brcms_c_rateset_mcs_upd void | rs struct brcms_c_rateset * | txstreams int

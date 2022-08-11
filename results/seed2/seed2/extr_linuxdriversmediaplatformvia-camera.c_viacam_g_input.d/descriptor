@@ -1,0 +1,2 @@
+struct file | dummy int 
+function viacam_g_input int | filp struct file * | priv void * | i unsigned int *

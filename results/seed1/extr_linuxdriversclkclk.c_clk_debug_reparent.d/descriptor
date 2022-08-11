@@ -1,2 +1,0 @@
-struct clk_core | dummy int 
-function clk_debug_reparent void | core struct clk_core * | new_parent struct clk_core *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | fast int * | values int * | size int * 
+function stbi__build_fast_ac void | fast_ac long * | h struct TYPE_3__ *

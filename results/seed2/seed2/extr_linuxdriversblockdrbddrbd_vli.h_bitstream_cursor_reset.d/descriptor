@@ -1,0 +1,2 @@
+struct bitstream_cursor | bit long | b void * 
+function bitstream_cursor_reset void | cur struct bitstream_cursor * | s void *

@@ -1,0 +1,2 @@
+struct sfq_sched_data | flags int 
+function sfq_prob_mark int | q const struct sfq_sched_data *

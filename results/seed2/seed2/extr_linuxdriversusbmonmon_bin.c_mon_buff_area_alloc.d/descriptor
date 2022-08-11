@@ -1,0 +1,2 @@
+struct mon_reader_bin | b_cnt long | b_size long | b_in unsigned int 
+function mon_buff_area_alloc unsigned int | rp struct mon_reader_bin * | size unsigned int

@@ -1,2 +1,0 @@
-struct pcpu_chunk | start_offset int | nr_pages int | end_offset void * | base_addr void * 
-function pcpu_addr_in_chunk int | chunk struct pcpu_chunk * | addr void *

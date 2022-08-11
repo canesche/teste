@@ -1,0 +1,2 @@
+struct nvkm_ramht | bits int 
+function nvkm_ramht_hash int | ramht struct nvkm_ramht * | chid int | handle int

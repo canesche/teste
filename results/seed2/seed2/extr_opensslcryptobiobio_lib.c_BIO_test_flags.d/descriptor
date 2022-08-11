@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int 
+function BIO_test_flags int | b const struct TYPE_3__ * | flags int

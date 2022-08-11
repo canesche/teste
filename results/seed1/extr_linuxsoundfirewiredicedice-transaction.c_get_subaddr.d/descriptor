@@ -1,2 +1,0 @@
-struct snd_dice | global_offset int | rsrv_offset int | sync_offset int | rx_offset int | tx_offset int 
-function get_subaddr int | dice struct snd_dice * | type enum snd_dice_addr_type | offset int

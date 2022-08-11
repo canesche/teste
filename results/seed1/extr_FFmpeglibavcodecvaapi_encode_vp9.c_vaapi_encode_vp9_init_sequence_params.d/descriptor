@@ -1,5 +1,0 @@
-struct TYPE_6__ | intra_period int | bits_per_second int | kf_auto long | max_frame_height int | max_frame_width int 
-struct TYPE_7__ | frame_height_dst int | frame_width_dst int | frame_height_src int | frame_width_src int 
-struct TYPE_8__ | va_rc_mode int | gop_size int | va_bit_rate int | codec_picture_params struct TYPE_7__ * | codec_sequence_params struct TYPE_6__ * 
-struct TYPE_9__ | height int | width int | priv_data struct TYPE_8__ * 
-function vaapi_encode_vp9_init_sequence_params int | avctx struct TYPE_9__ *

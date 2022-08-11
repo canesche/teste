@@ -1,0 +1,1 @@
+function arg_type_is_mem_ptr int | type enum bpf_arg_type

@@ -1,2 +1,0 @@
-struct gbe_slave | dummy int 
-function init_slave_ts_ctl void | slave struct gbe_slave *

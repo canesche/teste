@@ -1,0 +1,4 @@
+struct ext4_xattr_ref | OnDiskInode struct TYPE_4__ * | fs struct TYPE_3__ * 
+struct TYPE_4__ | i_extra_isize int 
+struct TYPE_3__ | InodeSize int 
+function ext4_xattr_inode_space int | xattr_ref struct ext4_xattr_ref *

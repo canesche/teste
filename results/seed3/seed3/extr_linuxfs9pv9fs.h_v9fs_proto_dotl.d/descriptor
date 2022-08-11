@@ -1,0 +1,2 @@
+struct v9fs_session_info | flags int 
+function v9fs_proto_dotl int | v9ses struct v9fs_session_info *

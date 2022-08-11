@@ -1,2 +1,0 @@
-struct audit_session_join_args | dummy int 
-function audit_session_join int | p int | uap struct audit_session_join_args * | ret_asid int *

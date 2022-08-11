@@ -1,2 +1,0 @@
-struct fb_var_screeninfo | dummy int 
-function fb_parse_edid int | edid unsigned char * | var struct fb_var_screeninfo *

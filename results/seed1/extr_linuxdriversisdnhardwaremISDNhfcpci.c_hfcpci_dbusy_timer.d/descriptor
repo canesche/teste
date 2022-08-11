@@ -1,2 +1,0 @@
-struct timer_list | dummy int 
-function hfcpci_dbusy_timer void | t struct timer_list *

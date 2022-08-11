@@ -1,0 +1,2 @@
+struct TYPE_4__ | flags long 
+function arrayflags_compare int | self struct TYPE_4__ * | other struct TYPE_4__ *

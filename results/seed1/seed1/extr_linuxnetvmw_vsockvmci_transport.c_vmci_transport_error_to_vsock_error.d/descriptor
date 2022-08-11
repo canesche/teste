@@ -1,0 +1,1 @@
+function vmci_transport_error_to_vsock_error int | vmci_error int

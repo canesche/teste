@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function setup_ksp_vsid void | p struct task_struct * | sp unsigned long

@@ -1,0 +1,3 @@
+struct ubi_volume | dummy int 
+struct ubi_device | dummy int 
+function check_mapping int | ubi struct ubi_device * | vol struct ubi_volume * | lnum int | pnum int *

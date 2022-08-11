@@ -1,2 +1,0 @@
-struct atm_trafprm | pcr int | min_pcr int | max_pcr int 
-function atm_pcr_goal int | tp const struct atm_trafprm *

@@ -1,2 +1,0 @@
-struct expanded_key | l int * | r int * 
-function __des_setkey void | key const unsigned char * | ekey struct expanded_key *

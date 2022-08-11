@@ -1,0 +1,1 @@
+function ui_create_bitmap int | width int | height int | data int *

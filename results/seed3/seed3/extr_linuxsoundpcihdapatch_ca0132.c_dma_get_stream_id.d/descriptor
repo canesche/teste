@@ -1,0 +1,4 @@
+struct dma_engine | codec struct TYPE_2__ * 
+struct ca0132_spec | dsp_stream_id unsigned int 
+struct TYPE_2__ | spec struct ca0132_spec * 
+function dma_get_stream_id unsigned int | dma struct dma_engine *

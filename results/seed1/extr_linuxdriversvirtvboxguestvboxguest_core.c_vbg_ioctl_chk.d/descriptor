@@ -1,2 +1,0 @@
-struct vbg_ioctl_hdr | size_in int | size_out int 
-function vbg_ioctl_chk int | hdr struct vbg_ioctl_hdr * | in_size unsigned long | out_size unsigned long

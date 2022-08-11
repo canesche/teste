@@ -1,0 +1,2 @@
+struct pci_dev | irq unsigned char 
+function divasa_get_pci_irq unsigned long | bus unsigned char | func unsigned char | pci_dev_handle void *

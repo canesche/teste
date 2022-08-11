@@ -1,2 +1,0 @@
-struct timespec | tv_nsec int | tv_sec long 
-function nfs_timespec_to_change_attr int | ts const struct timespec *

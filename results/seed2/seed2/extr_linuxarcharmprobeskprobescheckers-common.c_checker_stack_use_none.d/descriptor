@@ -1,0 +1,3 @@
+struct decode_header | dummy int 
+struct arch_probes_insn | stack_space long 
+function checker_stack_use_none enum probes_insn | insn int | asi struct arch_probes_insn * | h const struct decode_header *

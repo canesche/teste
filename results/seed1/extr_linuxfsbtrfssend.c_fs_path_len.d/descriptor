@@ -1,2 +1,0 @@
-struct fs_path | end int | start int 
-function fs_path_len int | p struct fs_path *

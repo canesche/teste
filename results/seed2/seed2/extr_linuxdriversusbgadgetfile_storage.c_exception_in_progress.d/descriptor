@@ -1,0 +1,2 @@
+struct fsg_dev | state long 
+function exception_in_progress int | fsg struct fsg_dev *

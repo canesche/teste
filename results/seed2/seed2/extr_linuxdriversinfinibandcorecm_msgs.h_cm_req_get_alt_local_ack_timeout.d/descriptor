@@ -1,0 +1,2 @@
+struct cm_req_msg | alt_offset139 int 
+function cm_req_get_alt_local_ack_timeout int | req_msg struct cm_req_msg *

@@ -1,0 +1,6 @@
+struct TYPE_6__ | first struct TYPE_7__ * 
+struct TYPE_7__ | next struct TYPE_7__ * 
+struct TYPE_8__ | areanum unsigned long 
+struct TYPE_9__ | numreachableareas int 
+struct TYPE_10__ | areatraveltimes int *** | areasettings struct TYPE_9__ * | reversedreachability struct TYPE_6__ * | portals struct TYPE_8__ * 
+function AAS_PortalMaxTravelTime int | portalnum int

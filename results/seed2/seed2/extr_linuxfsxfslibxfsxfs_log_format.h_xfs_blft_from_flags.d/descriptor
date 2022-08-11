@@ -1,0 +1,2 @@
+struct xfs_buf_log_format | blf_flags int 
+function xfs_blft_from_flags int | blf struct xfs_buf_log_format *

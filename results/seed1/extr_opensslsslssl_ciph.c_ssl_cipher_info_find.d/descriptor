@@ -1,2 +1,0 @@
-struct TYPE_3__ | mask long 
-function ssl_cipher_info_find int | table const struct TYPE_3__ * | table_cnt unsigned long | mask long

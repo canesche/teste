@@ -1,0 +1,3 @@
+struct TYPE_5__ | Buffer struct TYPE_4__ * 
+struct TYPE_4__ | Xmin long | Xmax long | Ymin long | Ymax long 
+function gl_scissor_pixels unsigned long | ctx struct TYPE_5__ * | n unsigned long | x long const[] | y long const[] | mask int []

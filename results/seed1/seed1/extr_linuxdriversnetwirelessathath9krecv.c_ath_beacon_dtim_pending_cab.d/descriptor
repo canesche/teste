@@ -1,0 +1,6 @@
+struct sk_buff | data int * | len int 
+struct ieee80211_tim_ie | dtim_count long | bitmap_ctrl int 
+struct TYPE_3__ | variable int * 
+struct TYPE_4__ | beacon struct TYPE_3__ 
+struct ieee80211_mgmt | u struct TYPE_4__ 
+function ath_beacon_dtim_pending_cab int | skb struct sk_buff *

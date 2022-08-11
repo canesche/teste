@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxnetipv6addrconf_core.c_eafnosupport_ip6_mtu_from_fib6.d/extr_linuxnetipv6addrconf_core.c_eafnosupport_ip6_mtu_from_fib6_O0::eafnosupport_ip6_mtu_from_fib6(65)"
+  }
+]

@@ -1,0 +1,3 @@
+struct thermal_cooling_device | devdata struct aspeed_cooling_device * 
+struct aspeed_cooling_device | max_state unsigned long 
+function aspeed_pwm_cz_get_max_state int | tcdev struct thermal_cooling_device * | state unsigned long *

@@ -1,0 +1,1 @@
+function seaf_unset_path_permission int | path const char * | recursive int

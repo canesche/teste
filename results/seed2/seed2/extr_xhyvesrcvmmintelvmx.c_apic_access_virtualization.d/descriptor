@@ -1,0 +1,3 @@
+struct vmx | cap struct TYPE_2__ * 
+struct TYPE_2__ | proc_ctls2 int 
+function apic_access_virtualization int | vmx struct vmx * | vcpuid int

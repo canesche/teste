@@ -1,2 +1,0 @@
-struct wl1271 | dummy int 
-function no_write_handler void | wl struct wl1271 * | value unsigned long | param unsigned long

@@ -1,3 +1,0 @@
-struct _Locale_name_hint | dummy int 
-struct _Locale_codecvt | dummy int 
-function _Locale_codecvt_create struct _Locale_codecvt * | nm const char * | hint struct _Locale_name_hint * | __err_code int *

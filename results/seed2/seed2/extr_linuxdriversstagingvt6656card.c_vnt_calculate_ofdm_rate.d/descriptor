@@ -1,0 +1,1 @@
+function vnt_calculate_ofdm_rate void | rate int | bb_type int | tx_rate int * | rsv_time int *

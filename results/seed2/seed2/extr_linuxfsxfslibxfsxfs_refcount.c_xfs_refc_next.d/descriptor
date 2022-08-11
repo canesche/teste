@@ -1,0 +1,2 @@
+struct xfs_refcount_irec | rc_blockcount long | rc_startblock long 
+function xfs_refc_next long | rc struct xfs_refcount_irec *

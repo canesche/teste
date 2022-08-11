@@ -1,0 +1,2 @@
+struct dlm_lkb | lkb_flags int | lkb_nodeid long 
+function is_process_copy int | lkb struct dlm_lkb *

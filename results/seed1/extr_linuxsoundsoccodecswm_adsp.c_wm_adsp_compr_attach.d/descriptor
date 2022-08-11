@@ -1,4 +1,0 @@
-struct wm_adsp_compr | buf struct TYPE_4__ * | dsp struct TYPE_3__ * 
-struct TYPE_4__ | compr struct wm_adsp_compr * 
-struct TYPE_3__ | buffer struct TYPE_4__ * 
-function wm_adsp_compr_attach int | compr struct wm_adsp_compr *

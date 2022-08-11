@@ -1,0 +1,3 @@
+struct TYPE_2__ | sk_rcvbuf int 
+struct caifsock | sk struct TYPE_2__ 
+function sk_rcvbuf_lowwater int | cf_sk struct caifsock *

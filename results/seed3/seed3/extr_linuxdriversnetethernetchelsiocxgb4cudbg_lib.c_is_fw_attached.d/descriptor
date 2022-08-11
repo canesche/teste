@@ -1,0 +1,3 @@
+struct cudbg_init | adap struct adapter * 
+struct adapter | flags int | use_bd long 
+function is_fw_attached int | pdbg_init struct cudbg_init *

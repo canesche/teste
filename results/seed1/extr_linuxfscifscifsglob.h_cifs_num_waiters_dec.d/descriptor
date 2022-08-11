@@ -1,2 +1,0 @@
-struct TCP_Server_Info | dummy int 
-function cifs_num_waiters_dec void | server struct TCP_Server_Info *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 167,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_gitbisect.c_sqrti.d/extr_gitbisect.c_sqrti_O0::sqrti(60)"
+  }
+]

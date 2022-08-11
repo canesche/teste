@@ -1,0 +1,1 @@
+function constant_test_bit int | nr int | addr const void *

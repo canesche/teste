@@ -1,3 +1,0 @@
-struct mmc_data | blksz int 
-struct mmc_command | opcode long 
-function sdio_extblock_cmd int | cmd struct mmc_command * | data struct mmc_data *

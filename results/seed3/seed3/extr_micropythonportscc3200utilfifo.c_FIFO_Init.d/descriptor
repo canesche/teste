@@ -1,0 +1,2 @@
+struct TYPE_3__ | uiLast unsigned int | uiElementsMax unsigned int | pfElementPush void (*)(void *, const void *) | pfElementPop void (*)(void *, void *) | uiElementCount long | uiFirst long 
+function FIFO_Init void | fifo struct TYPE_3__ * | uiElementsMax unsigned int | pfElmentPush void (*)(void *, const void *) | pfElementPop void (*)(void *, void *)

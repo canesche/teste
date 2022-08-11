@@ -1,2 +1,0 @@
-struct mdp4_lcdc_encoder | dummy int 
-function bs_fini void | mdp4_lcdc_encoder struct mdp4_lcdc_encoder *

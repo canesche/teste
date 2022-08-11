@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5624,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_hashcatsrcmpsp.c_mask_ctx_parse_maskfile_find_mask.d/extr_hashcatsrcmpsp.c_mask_ctx_parse_maskfile_find_mask_O0::mask_ctx_parse_maskfile_find_mask(60)"
+  }
+]

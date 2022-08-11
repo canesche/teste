@@ -1,7 +1,0 @@
-struct cmng_vnic | vnic_min_rate struct TYPE_3__ * 
-struct TYPE_4__ | fair_threshold unsigned long 
-struct cmng_struct_per_port | fair_vars struct TYPE_4__ 
-struct cmng_init_input | cos_min_rate long * 
-struct cmng_init | port struct cmng_struct_per_port | vnic struct cmng_vnic 
-struct TYPE_3__ | cos_credit_delta unsigned long * 
-function bnx2x_init_fw_wrr void | input_data const struct cmng_init_input * | r_param unsigned long | ram_data struct cmng_init *

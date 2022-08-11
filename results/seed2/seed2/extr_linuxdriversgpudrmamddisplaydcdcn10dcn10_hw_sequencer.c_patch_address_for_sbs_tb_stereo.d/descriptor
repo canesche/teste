@@ -1,0 +1,8 @@
+struct pipe_ctx | stream struct TYPE_8__ * | plane_state struct dc_plane_state * | top_pipe struct TYPE_6__ * 
+struct TYPE_9__ | left_addr int | right_addr int 
+struct TYPE_10__ | type long | grph_stereo struct TYPE_9__ 
+struct dc_plane_state | address struct TYPE_10__ 
+struct TYPE_7__ | timing_3d_format long 
+struct TYPE_8__ | view_format long | timing struct TYPE_7__ 
+struct TYPE_6__ | plane_state struct dc_plane_state * 
+function patch_address_for_sbs_tb_stereo int | pipe_ctx struct pipe_ctx * | addr int *

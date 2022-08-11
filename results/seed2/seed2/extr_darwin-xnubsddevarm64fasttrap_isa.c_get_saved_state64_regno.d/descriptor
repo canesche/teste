@@ -1,0 +1,2 @@
+struct TYPE_3__ | x int * | sp int | lr int | fp int 
+function get_saved_state64_regno int | regs64 struct TYPE_3__ * | regno int | use_xzr int

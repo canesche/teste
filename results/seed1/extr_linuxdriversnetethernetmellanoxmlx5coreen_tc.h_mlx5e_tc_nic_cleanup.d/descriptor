@@ -1,2 +1,0 @@
-struct mlx5e_priv | dummy int 
-function mlx5e_tc_nic_cleanup void | priv struct mlx5e_priv *

@@ -1,2 +1,0 @@
-struct tmc_drvdata | len long | buf char * 
-function tmc_etb_get_sysfs_trace long | drvdata struct tmc_drvdata * | pos long | len unsigned long | bufpp char **

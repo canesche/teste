@@ -1,0 +1,3 @@
+struct TYPE_4__ | op long | next struct TYPE_4__ * 
+struct TYPE_5__ | first struct TYPE_4__ * 
+function block_has_main int | top struct TYPE_5__

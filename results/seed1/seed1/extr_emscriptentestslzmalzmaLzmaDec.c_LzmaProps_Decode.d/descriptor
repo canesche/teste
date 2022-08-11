@@ -1,0 +1,2 @@
+struct TYPE_3__ | dicSize int | lc int | pb int | lp int 
+function LzmaProps_Decode int | p struct TYPE_3__ * | data const int * | size unsigned int

@@ -1,0 +1,4 @@
+struct qed_sb_sp_info | pi_info_arr struct TYPE_2__ * 
+struct qed_hwfn | p_sp_sb struct qed_sb_sp_info * 
+struct TYPE_2__ | cookie int * | comp_cb int * 
+function qed_int_unregister_cb int | p_hwfn struct qed_hwfn * | pi unsigned long

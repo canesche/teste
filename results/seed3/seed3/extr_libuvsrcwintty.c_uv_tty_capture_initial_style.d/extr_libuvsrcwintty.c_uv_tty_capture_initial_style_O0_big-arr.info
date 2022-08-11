@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 11,
+    exit: true,
+    halt: false,
+    edges: 24,
+    static: {
+      instructions: 54,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 54,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_libuvsrcwintty.c_uv_tty_capture_initial_style.d/extr_libuvsrcwintty.c_uv_tty_capture_initial_style_O0::uv_tty_capture_initial_style(77)"
+  }
+]

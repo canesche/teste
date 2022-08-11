@@ -1,5 +1,0 @@
-struct TYPE_8__ | sival_ptr int 
-struct TYPE_9__ | si_band int | si_value struct TYPE_8__ | si_addr int | si_status int | si_uid int | si_pid int | si_code int | si_errno int | si_signo int 
-struct TYPE_7__ | sival_ptr int 
-struct TYPE_10__ | si_band int | si_value struct TYPE_7__ | si_addr int | si_status int | si_uid int | si_pid int | si_code int | si_errno int | si_signo int 
-function siginfo_user_to_user64 void | in struct TYPE_9__ * | out struct TYPE_10__ *

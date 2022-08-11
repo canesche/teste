@@ -1,0 +1,3 @@
+struct xt_action_param | dummy int 
+struct sk_buff | dummy int 
+function comment_mt int | skb const struct sk_buff * | par struct xt_action_param *

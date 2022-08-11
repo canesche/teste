@@ -1,2 +1,0 @@
-struct lock_impl | locked int 
-function lock_impl_init void | lock struct lock_impl *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | seed unsigned char * 
+function EC_GROUP_get0_seed unsigned char * | group const struct TYPE_3__ *

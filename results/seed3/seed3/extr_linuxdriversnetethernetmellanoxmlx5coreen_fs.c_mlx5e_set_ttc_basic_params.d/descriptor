@@ -1,0 +1,5 @@
+struct ttc_params | inner_ttc int * | any_tt_tirn int 
+struct TYPE_4__ | inner_ttc int 
+struct mlx5e_priv | fs struct TYPE_4__ | direct_tir struct TYPE_3__ * 
+struct TYPE_3__ | tirn int 
+function mlx5e_set_ttc_basic_params void | priv struct mlx5e_priv * | ttc_params struct ttc_params *

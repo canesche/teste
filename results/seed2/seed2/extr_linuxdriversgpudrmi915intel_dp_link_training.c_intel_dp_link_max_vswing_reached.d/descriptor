@@ -1,0 +1,2 @@
+struct intel_dp | lane_count int | train_set int * 
+function intel_dp_link_max_vswing_reached int | intel_dp struct intel_dp *

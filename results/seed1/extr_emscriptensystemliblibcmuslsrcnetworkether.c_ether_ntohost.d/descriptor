@@ -1,2 +1,0 @@
-struct ether_addr | dummy int 
-function ether_ntohost int | hostname char * | e const struct ether_addr *

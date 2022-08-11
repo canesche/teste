@@ -1,2 +1,0 @@
-struct fsi_slave | size int | id long 
-function fsi_slave_calc_addr int | slave struct fsi_slave * | addrp int * | idp int *

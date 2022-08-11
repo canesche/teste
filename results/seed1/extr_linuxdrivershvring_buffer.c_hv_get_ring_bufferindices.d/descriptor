@@ -1,3 +1,0 @@
-struct hv_ring_buffer_info | ring_buffer struct TYPE_2__ * 
-struct TYPE_2__ | write_index long 
-function hv_get_ring_bufferindices int | ring_info struct hv_ring_buffer_info *

@@ -1,0 +1,10 @@
+struct TYPE_15__ | num_types int | funcs int * 
+struct TYPE_14__ | num_types int | funcs int * 
+struct TYPE_12__ | funcs int * | num_types int 
+struct TYPE_13__ | irq struct TYPE_12__ 
+struct TYPE_11__ | num_types int | funcs int * 
+struct TYPE_10__ | num_types int | funcs int * 
+struct TYPE_9__ | funcs int * | num_types int 
+struct TYPE_16__ | sq_irq struct TYPE_15__ | cp_ecc_error_irq struct TYPE_14__ | kiq struct TYPE_13__ | priv_inst_irq struct TYPE_11__ | priv_reg_irq struct TYPE_10__ | eop_irq struct TYPE_9__ 
+struct amdgpu_device | gfx struct TYPE_16__ 
+function gfx_v8_0_set_irq_funcs void | adev struct amdgpu_device *

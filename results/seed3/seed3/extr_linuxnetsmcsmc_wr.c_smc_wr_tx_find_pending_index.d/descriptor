@@ -1,0 +1,3 @@
+struct smc_link | wr_tx_cnt unsigned long | wr_tx_pends struct TYPE_2__ * 
+struct TYPE_2__ | wr_id long 
+function smc_wr_tx_find_pending_index int | link struct smc_link * | wr_id long

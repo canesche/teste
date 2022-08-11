@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_libgit2srcdiff_file.c_diff_file_content_binary_by_size.d/extr_libgit2srcdiff_file.c_diff_file_content_binary_by_size_O0::diff_file_content_binary_by_size(67)"
+  }
+]

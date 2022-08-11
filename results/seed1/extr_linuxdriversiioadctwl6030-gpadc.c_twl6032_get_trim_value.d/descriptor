@@ -1,1 +1,0 @@
-function twl6032_get_trim_value int | trim_regs unsigned int * | reg0 unsigned int | reg1 unsigned int | mask0 unsigned int | mask1 unsigned int | shift0 unsigned int

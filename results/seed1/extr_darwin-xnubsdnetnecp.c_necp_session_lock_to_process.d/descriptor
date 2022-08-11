@@ -1,3 +1,0 @@
-struct necp_session_action_args | dummy int 
-struct necp_session | proc_locked int 
-function necp_session_lock_to_process int | session struct necp_session * | uap struct necp_session_action_args * | retval int *

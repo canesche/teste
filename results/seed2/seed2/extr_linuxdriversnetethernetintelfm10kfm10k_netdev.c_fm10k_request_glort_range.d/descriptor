@@ -1,0 +1,5 @@
+struct TYPE_4__ | total_vfs int 
+struct TYPE_3__ | dglort_map int 
+struct fm10k_hw | iov struct TYPE_4__ | mac struct TYPE_3__ 
+struct fm10k_intfc | glort int | glort_count int | hw struct fm10k_hw 
+function fm10k_request_glort_range void | interface struct fm10k_intfc *

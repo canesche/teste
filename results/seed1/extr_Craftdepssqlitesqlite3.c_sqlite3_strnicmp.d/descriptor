@@ -1,1 +1,0 @@
-function sqlite3_strnicmp int | zLeft const char * | zRight const char * | N int

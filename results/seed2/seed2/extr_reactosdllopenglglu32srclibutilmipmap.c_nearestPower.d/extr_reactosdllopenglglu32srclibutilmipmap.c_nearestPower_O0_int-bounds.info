@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 78,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_reactosdllopenglglu32srclibutilmipmap.c_nearestPower.d/extr_reactosdllopenglglu32srclibutilmipmap.c_nearestPower_O0::nearestPower(61)"
+  }
+]

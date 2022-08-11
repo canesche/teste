@@ -1,0 +1,10 @@
+struct zfcp_fsf_req | qtcb struct fsf_qtcb * 
+struct fcp_resp | fr_flags long | fr_status long 
+struct TYPE_12__ | resp struct fcp_resp 
+struct TYPE_7__ | iu struct TYPE_12__ 
+struct TYPE_8__ | fcp_rsp struct TYPE_7__ 
+struct TYPE_9__ | io struct TYPE_8__ 
+struct TYPE_11__ | qtcb_type long 
+struct TYPE_10__ | fsf_status long 
+struct fsf_qtcb | bottom struct TYPE_9__ | prefix struct TYPE_11__ | header struct TYPE_10__ 
+function zfcp_dbf_hba_fsf_resp_suppress int | req struct zfcp_fsf_req *

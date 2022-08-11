@@ -1,0 +1,2 @@
+struct gds_subvector | length int | key long 
+function sclp_find_gds_subvector struct gds_subvector * | start void * | end void * | key long

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxnetbluetoothl2cap_core.c_l2cap_mode_supported.d/extr_linuxnetbluetoothl2cap_core.c_l2cap_mode_supported_O0::l2cap_mode_supported(69)"
+  }
+]

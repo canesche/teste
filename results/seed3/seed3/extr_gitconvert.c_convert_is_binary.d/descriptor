@@ -1,0 +1,2 @@
+struct text_stat | printable int | nonprintable int | nul long | lonecr long 
+function convert_is_binary int | stats const struct text_stat *

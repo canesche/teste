@@ -1,0 +1,2 @@
+struct TYPE_3__ | bitspersample long | bluecmap int * | greencmap int * | redcmap int * 
+function checkcmap int | img struct TYPE_3__ *

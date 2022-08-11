@@ -1,0 +1,3 @@
+struct gpio_fan_speed | rpm unsigned long 
+struct gpio_fan_data | num_speed int | speed struct gpio_fan_speed * 
+function rpm_to_speed_index int | fan_data struct gpio_fan_data * | rpm unsigned long

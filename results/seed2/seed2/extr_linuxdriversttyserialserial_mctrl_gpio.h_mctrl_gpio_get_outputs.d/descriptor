@@ -1,0 +1,2 @@
+struct mctrl_gpios | dummy int 
+function mctrl_gpio_get_outputs unsigned int | gpios struct mctrl_gpios * | mctrl unsigned int *

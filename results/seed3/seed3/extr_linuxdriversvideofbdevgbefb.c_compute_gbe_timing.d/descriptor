@@ -1,0 +1,4 @@
+struct gbe_timing_info | width int | height int | pll_m int | pll_n int | pll_p int | cfreq int | htotal int | vtotal int | fields_sec int | hblank_start int | vblank_start int | hblank_end int | hsync_start int | hsync_end int | vblank_end int | vsync_start int | vsync_end int 
+struct gbe_pll_info | clock_rate int | fvco_min int | fvco_max int 
+struct fb_var_screeninfo | pixclock int | xres int | yres int | left_margin int | right_margin int | hsync_len int | upper_margin int | lower_margin int | vsync_len int 
+function compute_gbe_timing int | var struct fb_var_screeninfo * | timing struct gbe_timing_info *

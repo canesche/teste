@@ -1,0 +1,2 @@
+struct wl1271 | dummy int 
+function wl18xx_convert_hwaddr int | wl struct wl1271 * | hwaddr int

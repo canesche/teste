@@ -1,2 +1,0 @@
-struct device_node | dummy int 
-function pseries_remove_mem_node int | np struct device_node *

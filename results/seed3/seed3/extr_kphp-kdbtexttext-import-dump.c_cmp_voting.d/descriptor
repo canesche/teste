@@ -1,0 +1,2 @@
+struct TYPE_4__ | owner_id long | topic_id long | voting_id long 
+function cmp_voting int | x struct TYPE_4__ * | y struct TYPE_4__ *

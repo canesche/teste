@@ -1,0 +1,1 @@
+function set_log_data void | logfd int | logsize long long

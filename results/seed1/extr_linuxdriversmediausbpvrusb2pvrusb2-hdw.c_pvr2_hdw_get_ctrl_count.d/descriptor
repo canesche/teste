@@ -1,2 +1,0 @@
-struct pvr2_hdw | control_cnt unsigned int 
-function pvr2_hdw_get_ctrl_count unsigned int | hdw struct pvr2_hdw *

@@ -1,2 +1,0 @@
-struct dso | binary_type long 
-function dso__is_kcore int | dso struct dso *

@@ -1,0 +1,4 @@
+struct TYPE_2__ | h_total int | v_total int | v_addressable int | pix_clk_khz int 
+struct dc_stream_state | timing struct TYPE_2__ 
+struct dc_state | stream_count unsigned long | streams struct dc_stream_state ** 
+function dce110_get_min_vblank_time_us int | context const struct dc_state *

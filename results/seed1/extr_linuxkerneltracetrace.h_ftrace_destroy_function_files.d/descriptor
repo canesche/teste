@@ -1,2 +1,0 @@
-struct trace_array | dummy int 
-function ftrace_destroy_function_files void | tr struct trace_array *

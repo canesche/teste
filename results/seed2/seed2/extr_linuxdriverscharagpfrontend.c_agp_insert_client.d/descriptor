@@ -1,0 +1,4 @@
+struct agp_client | prev struct agp_client * | next struct agp_client * 
+struct TYPE_4__ | current_controller struct TYPE_3__ * 
+struct TYPE_3__ | num_clients int | clients struct agp_client * 
+function agp_insert_client void | client struct agp_client *

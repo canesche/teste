@@ -1,0 +1,5 @@
+struct socket_server | event_index int | event_n int | ev struct event * 
+struct socket_message | id int 
+struct socket | type long | id int 
+struct event | s struct socket * 
+function clear_closed_event void | ss struct socket_server * | result struct socket_message * | type int

@@ -1,0 +1,1 @@
+function sun4i_tmds_calc_divider unsigned long | rate unsigned long | parent_rate unsigned long | div_offset int | div int * | half int *

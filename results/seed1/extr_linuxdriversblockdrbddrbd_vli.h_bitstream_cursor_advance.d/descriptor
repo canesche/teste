@@ -1,2 +1,0 @@
-struct bitstream_cursor | bit unsigned int | b long 
-function bitstream_cursor_advance void | cur struct bitstream_cursor * | bits unsigned int

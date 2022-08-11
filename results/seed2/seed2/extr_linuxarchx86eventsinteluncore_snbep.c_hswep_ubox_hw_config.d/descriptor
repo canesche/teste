@@ -1,0 +1,6 @@
+struct TYPE_4__ | config1 int 
+struct hw_perf_event_extra | config int | idx long | reg int 
+struct TYPE_3__ | extra_reg struct hw_perf_event_extra 
+struct perf_event | attr struct TYPE_4__ | hw struct TYPE_3__ 
+struct intel_uncore_box | dummy int 
+function hswep_ubox_hw_config int | box struct intel_uncore_box * | event struct perf_event *

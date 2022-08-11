@@ -1,0 +1,3 @@
+struct led_classdev | blink_set int | brightness_set_blocking int | brightness_get int 
+struct gb_channel | flags int 
+function gb_lights_led_operations_set void | channel struct gb_channel * | cdev struct led_classdev *

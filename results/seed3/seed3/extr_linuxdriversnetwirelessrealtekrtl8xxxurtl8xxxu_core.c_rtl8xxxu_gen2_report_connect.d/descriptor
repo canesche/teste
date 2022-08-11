@@ -1,0 +1,2 @@
+struct rtl8xxxu_priv | dummy int 
+function rtl8xxxu_gen2_report_connect void | priv struct rtl8xxxu_priv * | macid int | connect int

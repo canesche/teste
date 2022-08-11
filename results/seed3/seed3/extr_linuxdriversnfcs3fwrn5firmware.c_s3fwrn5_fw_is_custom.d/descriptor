@@ -1,0 +1,2 @@
+struct s3fwrn5_fw_cmd_get_bootinfo_rsp | hw_version int * 
+function s3fwrn5_fw_is_custom int | bootinfo struct s3fwrn5_fw_cmd_get_bootinfo_rsp *

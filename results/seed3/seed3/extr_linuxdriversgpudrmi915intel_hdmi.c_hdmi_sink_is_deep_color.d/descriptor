@@ -1,0 +1,4 @@
+struct drm_connector_state | connector struct drm_connector * 
+struct TYPE_2__ | bpc int 
+struct drm_connector | display_info struct TYPE_2__ 
+function hdmi_sink_is_deep_color int | conn_state const struct drm_connector_state *

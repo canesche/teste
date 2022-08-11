@@ -1,0 +1,3 @@
+struct TYPE_2__ | vld_tid unsigned int 
+struct cxgbi_pagepod | hdr struct TYPE_2__ 
+function cxgbi_ppm_ppod_clear void | ppod struct cxgbi_pagepod *

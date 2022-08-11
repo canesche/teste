@@ -1,2 +1,0 @@
-struct mthca_cqe | opcode int | is_send int 
-function is_recv_cqe int | cqe struct mthca_cqe *

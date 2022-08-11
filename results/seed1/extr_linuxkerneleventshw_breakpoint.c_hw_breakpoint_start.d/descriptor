@@ -1,3 +1,0 @@
-struct TYPE_2__ | state long 
-struct perf_event | hw struct TYPE_2__ 
-function hw_breakpoint_start void | bp struct perf_event * | flags int

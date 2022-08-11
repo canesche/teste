@@ -1,5 +1,0 @@
-struct hist_entry_iter | curr int | total int | priv struct branch_info * 
-struct TYPE_2__ | addr int | sym int | map int 
-struct branch_info | to struct TYPE_2__ 
-struct addr_location | addr int | sym int | map int 
-function iter_next_branch_entry int | iter struct hist_entry_iter * | al struct addr_location *

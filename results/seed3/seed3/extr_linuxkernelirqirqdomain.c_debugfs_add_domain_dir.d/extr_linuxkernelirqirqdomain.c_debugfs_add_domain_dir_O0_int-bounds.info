@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxkernelirqirqdomain.c_debugfs_add_domain_dir.d/extr_linuxkernelirqirqdomain.c_debugfs_add_domain_dir_O0::debugfs_add_domain_dir(60)"
+  }
+]

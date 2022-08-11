@@ -1,0 +1,2 @@
+struct xgbe_phy_data | sfp_mod_absent int | sfp_speed int | sfp_cable int | sfp_base int | sfp_tx_fault long | sfp_rx_los long 
+function xgbe_phy_sfp_reset void | phy_data struct xgbe_phy_data *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversi2cbussesi2c-cadence.c_cdns_is_holdquirk.d/extr_linuxdriversi2cbussesi2c-cadence.c_cdns_is_holdquirk_O0::cdns_is_holdquirk(62)"
+  }
+]

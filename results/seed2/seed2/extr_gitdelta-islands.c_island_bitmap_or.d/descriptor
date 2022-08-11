@@ -1,0 +1,2 @@
+struct island_bitmap | bits int * 
+function island_bitmap_or void | a struct island_bitmap * | b const struct island_bitmap *

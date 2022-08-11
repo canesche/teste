@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmradeonradeon_uvd.c_radeon_uvd_calc_upll_post_div.d/extr_linuxdriversgpudrmradeonradeon_uvd.c_radeon_uvd_calc_upll_post_div_O0::radeon_uvd_calc_upll_post_div(63)"
+  }
+]

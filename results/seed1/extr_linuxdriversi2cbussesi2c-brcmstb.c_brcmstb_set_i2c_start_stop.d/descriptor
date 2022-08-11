@@ -1,3 +1,0 @@
-struct brcmstb_i2c_dev | bsc_regmap struct TYPE_2__ * 
-struct TYPE_2__ | iic_enable int 
-function brcmstb_set_i2c_start_stop void | dev struct brcmstb_i2c_dev * | cond_flag int

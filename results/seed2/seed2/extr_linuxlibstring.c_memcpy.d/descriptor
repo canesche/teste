@@ -1,0 +1,1 @@
+function memcpy void * | dest void * | src const void * | count unsigned long

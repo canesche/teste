@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 6,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmvc4vc4_validate_shaders.c_live_reg_is_upper_half.d/extr_linuxdriversgpudrmvc4vc4_validate_shaders.c_live_reg_is_upper_half_O0::live_reg_is_upper_half(62)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_reactossdklib3rdpartyadnssrcinternal.h_ctype_whitespace.d/extr_reactossdklib3rdpartyadnssrcinternal.h_ctype_whitespace_O0::ctype_whitespace(59)"
+  }
+]

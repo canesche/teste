@@ -1,3 +1,0 @@
-struct TYPE_2__ | enc_in_bus_format long | enc_out_bus_format long 
-struct dw_hdmi | hdmi_data struct TYPE_2__ 
-function is_color_space_conversion int | hdmi struct dw_hdmi *

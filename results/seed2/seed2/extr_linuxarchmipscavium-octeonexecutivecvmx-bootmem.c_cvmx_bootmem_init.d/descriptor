@@ -1,0 +1,2 @@
+struct cvmx_bootmem_desc | dummy int 
+function cvmx_bootmem_init int | mem_desc_ptr void *

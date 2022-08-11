@@ -1,0 +1,3 @@
+struct audio_client | session int 
+struct apr_hdr | src_port int | dest_port int | pkt_size int | token int | hdr_field int 
+function q6asm_add_hdr void | ac struct audio_client * | hdr struct apr_hdr * | pkt_size int | cmd_flg int | stream_id int

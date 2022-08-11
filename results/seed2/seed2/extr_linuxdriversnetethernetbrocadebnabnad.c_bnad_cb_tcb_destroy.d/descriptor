@@ -1,0 +1,6 @@
+struct bnad_tx_info | tcb int ** 
+struct bnad | dummy int 
+struct bna_tcb | id unsigned long | priv int * | txq struct TYPE_4__ * 
+struct TYPE_4__ | tx struct TYPE_3__ * 
+struct TYPE_3__ | priv long 
+function bnad_cb_tcb_destroy void | bnad struct bnad * | tcb struct bna_tcb *

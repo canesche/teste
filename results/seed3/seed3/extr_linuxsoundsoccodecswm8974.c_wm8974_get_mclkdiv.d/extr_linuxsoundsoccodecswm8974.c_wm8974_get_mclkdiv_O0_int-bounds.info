@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsoundsoccodecswm8974.c_wm8974_get_mclkdiv.d/extr_linuxsoundsoccodecswm8974.c_wm8974_get_mclkdiv_O0::wm8974_get_mclkdiv(69)"
+  }
+]

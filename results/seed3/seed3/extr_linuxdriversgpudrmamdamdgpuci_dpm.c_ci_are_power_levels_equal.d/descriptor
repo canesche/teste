@@ -1,0 +1,2 @@
+struct ci_pl | mclk long | sclk long | pcie_gen long | pcie_lane long 
+function ci_are_power_levels_equal int | ci_cpl1 const struct ci_pl * | ci_cpl2 const struct ci_pl *

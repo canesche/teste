@@ -1,0 +1,2 @@
+struct ud | inp_end int 
+function ud_input_end int | u const struct ud *

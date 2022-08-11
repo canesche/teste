@@ -1,2 +1,0 @@
-struct mvneta_tx_queue | next_desc_to_proc long | last_desc long 
-function mvneta_txq_desc_put void | txq struct mvneta_tx_queue *

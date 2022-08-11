@@ -1,0 +1,2 @@
+struct drbd_state | i int 
+function apply_mask_val union drbd_state | os union drbd_state | mask union drbd_state | val union drbd_state

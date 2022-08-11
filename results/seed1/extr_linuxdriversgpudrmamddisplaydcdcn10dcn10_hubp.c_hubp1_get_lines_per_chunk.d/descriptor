@@ -1,1 +1,0 @@
-function hubp1_get_lines_per_chunk enum cursor_lines_per_chunk | cur_width unsigned int | format enum dc_cursor_color_format

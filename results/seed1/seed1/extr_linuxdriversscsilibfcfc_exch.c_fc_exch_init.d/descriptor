@@ -1,0 +1,3 @@
+struct TYPE_2__ | exch_mgr_reset long 
+struct fc_lport | tt struct TYPE_2__ 
+function fc_exch_init int | lport struct fc_lport *

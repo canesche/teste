@@ -1,0 +1,4 @@
+struct inode | i_ino int | i_sb struct TYPE_2__ * 
+struct audit_fsnotify_mark | ino int | dev int 
+struct TYPE_2__ | s_dev int 
+function audit_update_mark void | audit_mark struct audit_fsnotify_mark * | inode const struct inode *

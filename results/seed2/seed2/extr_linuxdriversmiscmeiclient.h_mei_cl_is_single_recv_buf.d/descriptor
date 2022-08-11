@@ -1,0 +1,4 @@
+struct mei_cl | me_cl struct TYPE_4__ * 
+struct TYPE_3__ | single_recv_buf int 
+struct TYPE_4__ | props struct TYPE_3__ 
+function mei_cl_is_single_recv_buf int | cl const struct mei_cl *

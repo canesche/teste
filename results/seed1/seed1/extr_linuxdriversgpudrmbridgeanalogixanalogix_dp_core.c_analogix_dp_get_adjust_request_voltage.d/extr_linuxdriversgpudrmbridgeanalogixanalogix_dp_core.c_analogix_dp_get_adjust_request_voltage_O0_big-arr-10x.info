@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmbridgeanalogixanalogix_dp_core.c_analogix_dp_get_adjust_request_voltage.d/extr_linuxdriversgpudrmbridgeanalogixanalogix_dp_core.c_analogix_dp_get_adjust_request_voltage_O0::analogix_dp_get_adjust_request_voltage(62)"
+  }
+]

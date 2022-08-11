@@ -1,3 +1,0 @@
-struct spu_state | dummy int 
-struct spu | dummy int 
-function set_watchdog_timer void | csa struct spu_state * | spu struct spu *

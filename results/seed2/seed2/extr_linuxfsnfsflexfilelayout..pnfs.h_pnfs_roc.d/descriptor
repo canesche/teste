@@ -1,0 +1,5 @@
+struct rpc_cred | dummy int 
+struct nfs4_layoutreturn_res | dummy int 
+struct nfs4_layoutreturn_args | dummy int 
+struct inode | dummy int 
+function pnfs_roc int | ino struct inode * | args struct nfs4_layoutreturn_args * | res struct nfs4_layoutreturn_res * | cred const struct rpc_cred *

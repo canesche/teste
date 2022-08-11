@@ -1,0 +1,1 @@
+function nsim_bpf_setup_tc_block_cb int | type enum tc_setup_type | type_data void * | cb_priv void *

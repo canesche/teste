@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetethernetchelsiocxgb4cudbg_lib.c_cudbg_get_le_type.d/extr_linuxdriversnetethernetchelsiocxgb4cudbg_lib.c_cudbg_get_le_type_O0::cudbg_get_le_type(70)"
+  }
+]

@@ -1,0 +1,2 @@
+struct sock | sk_state int 
+function iucv_sock_in_state int | sk struct sock * | state int | state2 int

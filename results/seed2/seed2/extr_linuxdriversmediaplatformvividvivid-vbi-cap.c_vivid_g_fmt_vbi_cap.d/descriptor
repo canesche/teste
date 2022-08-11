@@ -1,0 +1,3 @@
+struct vivid_dev | std_cap int | vbi_cap_interlaced long 
+struct v4l2_vbi_format | sampling_rate int | offset int | samples_per_line int | count int * | reserved long * | flags int | start long * | sample_format int 
+function vivid_g_fmt_vbi_cap void | dev struct vivid_dev * | vbi struct v4l2_vbi_format *

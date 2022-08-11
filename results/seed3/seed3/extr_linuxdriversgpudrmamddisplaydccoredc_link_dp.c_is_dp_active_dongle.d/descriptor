@@ -1,0 +1,3 @@
+struct TYPE_2__ | dongle_type int 
+struct dc_link | dpcd_caps struct TYPE_2__ 
+function is_dp_active_dongle int | link const struct dc_link *

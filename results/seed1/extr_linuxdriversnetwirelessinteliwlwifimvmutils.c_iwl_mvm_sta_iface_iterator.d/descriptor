@@ -1,4 +1,0 @@
-struct iwl_sta_iter_data | assoc int 
-struct TYPE_2__ | assoc long 
-struct ieee80211_vif | type long | bss_conf struct TYPE_2__ 
-function iwl_mvm_sta_iface_iterator void | _data void * | mac int * | vif struct ieee80211_vif *

@@ -1,0 +1,4 @@
+struct pblk_line | dummy int 
+struct TYPE_2__ | data_next struct pblk_line * 
+struct pblk | l_mg struct TYPE_2__ 
+function pblk_line_get_erase struct pblk_line * | pblk struct pblk *

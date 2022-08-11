@@ -1,0 +1,2 @@
+struct nvkm_therm | dummy int 
+function gm107_fan_pwm_ctrl int | therm struct nvkm_therm * | line int | enable int

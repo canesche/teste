@@ -1,3 +1,0 @@
-struct ci_single_dpm_table | count int | dpm_levels struct TYPE_2__ * 
-struct TYPE_2__ | enabled long 
-function ci_get_dpm_level_enable_mask_value int | dpm_table struct ci_single_dpm_table *

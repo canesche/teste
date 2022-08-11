@@ -1,4 +1,0 @@
-struct comedi_subdevice | range_table struct TYPE_4__ * 
-struct TYPE_4__ | range struct TYPE_3__ * 
-struct TYPE_3__ | flags int 
-function comedi_range_is_external int | s struct comedi_subdevice * | range unsigned int

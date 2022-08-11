@@ -1,0 +1,5 @@
+struct TYPE_4__ | non_gf_sta_present int 
+struct il_priv | ht struct TYPE_4__ 
+struct TYPE_3__ | cap int 
+struct ieee80211_sta | ht_cap struct TYPE_3__ 
+function il4965_rs_use_green int | il struct il_priv * | sta struct ieee80211_sta *

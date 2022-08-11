@@ -1,3 +1,0 @@
-struct TYPE_2__ | timer_mode long 
-struct kvm_lapic | lapic_timer struct TYPE_2__ 
-function apic_lvtt_tscdeadline int | apic struct kvm_lapic *

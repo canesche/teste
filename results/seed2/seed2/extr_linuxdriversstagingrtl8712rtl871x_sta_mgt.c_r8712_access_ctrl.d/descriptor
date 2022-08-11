@@ -1,0 +1,2 @@
+struct wlan_acl_pool | dummy int 
+function r8712_access_ctrl int | pacl_list struct wlan_acl_pool * | mac_addr int *

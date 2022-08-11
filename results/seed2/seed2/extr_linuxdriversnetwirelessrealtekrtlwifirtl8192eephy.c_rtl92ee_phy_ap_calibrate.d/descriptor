@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function rtl92ee_phy_ap_calibrate void | hw struct ieee80211_hw * | delta int

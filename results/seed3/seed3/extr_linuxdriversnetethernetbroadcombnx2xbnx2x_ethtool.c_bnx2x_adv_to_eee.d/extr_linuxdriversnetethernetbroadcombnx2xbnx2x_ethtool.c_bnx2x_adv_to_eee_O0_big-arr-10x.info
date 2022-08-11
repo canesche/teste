@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetethernetbroadcombnx2xbnx2x_ethtool.c_bnx2x_adv_to_eee.d/extr_linuxdriversnetethernetbroadcombnx2xbnx2x_ethtool.c_bnx2x_adv_to_eee_O0::bnx2x_adv_to_eee(67)"
+  }
+]

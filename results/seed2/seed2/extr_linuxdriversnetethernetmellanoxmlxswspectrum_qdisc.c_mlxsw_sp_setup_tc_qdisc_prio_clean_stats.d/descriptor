@@ -1,0 +1,7 @@
+struct rtnl_link_stats64 | tx_bytes int | tx_packets int 
+struct mlxsw_sp_qdisc_stats | backlog long | drops long | tx_bytes int | tx_packets int 
+struct mlxsw_sp_qdisc | stats_base struct mlxsw_sp_qdisc_stats 
+struct mlxsw_sp_port_xstats | wred_drop long * | tail_drop long * 
+struct TYPE_2__ | stats struct rtnl_link_stats64 | xstats struct mlxsw_sp_port_xstats 
+struct mlxsw_sp_port | periodic_hw_stats struct TYPE_2__ 
+function mlxsw_sp_setup_tc_qdisc_prio_clean_stats void | mlxsw_sp_port struct mlxsw_sp_port * | mlxsw_sp_qdisc struct mlxsw_sp_qdisc *

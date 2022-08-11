@@ -1,0 +1,2 @@
+struct TYPE_3__ | stickyMouseButtons int | mouseButtons long * 
+function setStickyMouseButtons void | window struct TYPE_3__ * | enabled int

@@ -1,0 +1,2 @@
+struct nand_device | dummy int 
+function nanddev_bbt_update int | nand struct nand_device *

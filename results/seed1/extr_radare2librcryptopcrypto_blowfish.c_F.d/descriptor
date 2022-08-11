@@ -1,2 +1,0 @@
-struct blowfish_state | s int ** 
-function F int | state struct blowfish_state *const | inbuf const int

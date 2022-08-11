@@ -1,0 +1,2 @@
+struct object_id | dummy int 
+function has_remote int | refname const char * | oid const struct object_id * | flags int | cb_data void *

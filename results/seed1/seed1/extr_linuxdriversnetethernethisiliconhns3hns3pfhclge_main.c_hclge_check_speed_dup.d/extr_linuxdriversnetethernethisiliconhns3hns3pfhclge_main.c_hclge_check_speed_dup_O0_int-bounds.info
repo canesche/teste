@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernethisiliconhns3hns3pfhclge_main.c_hclge_check_speed_dup.d/extr_linuxdriversnetethernethisiliconhns3hns3pfhclge_main.c_hclge_check_speed_dup_O0::hclge_check_speed_dup(68)"
+  }
+]

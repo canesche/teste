@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxarchmipscavium-octeonocteon-irq.c_octeon_irq_ciu3_base_mbox_intsn.d/extr_linuxarchmipscavium-octeonocteon-irq.c_octeon_irq_ciu3_base_mbox_intsn_O0::octeon_irq_ciu3_base_mbox_intsn(61)"
+  }
+]

@@ -1,0 +1,2 @@
+struct input_handle | dummy int 
+function input_leds_event void | handle struct input_handle * | type unsigned int | code unsigned int | value int

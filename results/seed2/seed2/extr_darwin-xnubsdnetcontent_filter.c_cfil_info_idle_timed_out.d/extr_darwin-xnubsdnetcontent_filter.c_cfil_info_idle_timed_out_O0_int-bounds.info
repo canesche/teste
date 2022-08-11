@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_darwin-xnubsdnetcontent_filter.c_cfil_info_idle_timed_out.d/extr_darwin-xnubsdnetcontent_filter.c_cfil_info_idle_timed_out_O0::cfil_info_idle_timed_out(65)"
+  }
+]

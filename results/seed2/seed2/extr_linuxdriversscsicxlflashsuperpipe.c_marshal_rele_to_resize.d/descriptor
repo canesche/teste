@@ -1,0 +1,3 @@
+struct dk_cxlflash_resize | rsrc_handle int | context_id int | hdr int 
+struct dk_cxlflash_release | rsrc_handle int | context_id int | hdr int 
+function marshal_rele_to_resize void | release struct dk_cxlflash_release * | resize struct dk_cxlflash_resize *

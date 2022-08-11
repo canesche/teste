@@ -1,0 +1,4 @@
+struct powerdomain | dummy int 
+struct TYPE_2__ | ptr struct powerdomain * 
+struct clockdomain | pwrdm struct TYPE_2__ 
+function clkdm_get_pwrdm struct powerdomain * | clkdm struct clockdomain *

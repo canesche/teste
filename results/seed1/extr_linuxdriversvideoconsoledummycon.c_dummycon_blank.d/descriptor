@@ -1,2 +1,0 @@
-struct vc_data | dummy int 
-function dummycon_blank int | vc struct vc_data * | blank int | mode_switch int

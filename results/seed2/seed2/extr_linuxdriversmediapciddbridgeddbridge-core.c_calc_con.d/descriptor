@@ -1,0 +1,7 @@
+struct ddb_output | port struct TYPE_6__ * 
+struct ddb | link struct TYPE_8__ * 
+struct TYPE_7__ | regmapid int 
+struct TYPE_8__ | ids struct TYPE_7__ | info struct TYPE_5__ * 
+struct TYPE_6__ | obr int | gap int | nr int | dev struct ddb * 
+struct TYPE_5__ | type long 
+function calc_con void | output struct ddb_output * | con int * | con2 int * | flags int

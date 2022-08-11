@@ -1,0 +1,4 @@
+struct vm_area_struct | vm_start long | vm_mm struct TYPE_4__ * 
+struct TYPE_3__ | vdso long 
+struct TYPE_4__ | context struct TYPE_3__ 
+function arch_vma_name const char * | vma struct vm_area_struct *

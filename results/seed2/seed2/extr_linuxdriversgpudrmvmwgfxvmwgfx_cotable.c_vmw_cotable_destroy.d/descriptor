@@ -1,0 +1,2 @@
+struct vmw_resource | id int 
+function vmw_cotable_destroy int | res struct vmw_resource *

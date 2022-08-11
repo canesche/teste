@@ -1,2 +1,0 @@
-struct connection | dummy int 
-function mcs_store int | c struct connection * | op int | key const char * | key_len int | flags int | delay int | size int

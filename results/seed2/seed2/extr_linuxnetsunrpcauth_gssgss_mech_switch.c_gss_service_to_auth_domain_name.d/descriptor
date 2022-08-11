@@ -1,0 +1,3 @@
+struct gss_api_mech | gm_pf_num int | gm_pfs struct TYPE_2__ * 
+struct TYPE_2__ | service long | auth_domain_name char * 
+function gss_service_to_auth_domain_name char * | gm struct gss_api_mech * | service long

@@ -1,0 +1,2 @@
+struct TYPE_3__ | nb_channels int | fft_offset int | subframe_size int | fft_buffer float ** 
+function add_wave0 void | s struct TYPE_3__ * | offset int | freqs int | stereo_mode int | amp int | phase int

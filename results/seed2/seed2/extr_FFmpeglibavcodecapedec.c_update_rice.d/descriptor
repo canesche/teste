@@ -1,0 +1,2 @@
+struct TYPE_3__ | k int | ksum unsigned int 
+function update_rice void | rice struct TYPE_3__ * | x unsigned int

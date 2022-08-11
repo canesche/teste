@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversbaseregmapregmap-mmio.c_regmap_mmio_regbits_check.d/extr_linuxdriversbaseregmapregmap-mmio.c_regmap_mmio_regbits_check_O0::regmap_mmio_regbits_check(61)"
+  }
+]

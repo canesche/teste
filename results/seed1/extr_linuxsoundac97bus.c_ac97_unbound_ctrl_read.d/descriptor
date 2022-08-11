@@ -1,2 +1,0 @@
-struct ac97_controller | dummy int 
-function ac97_unbound_ctrl_read int | adrv struct ac97_controller * | slot int | reg unsigned short

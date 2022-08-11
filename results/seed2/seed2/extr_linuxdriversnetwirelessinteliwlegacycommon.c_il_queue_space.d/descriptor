@@ -1,0 +1,2 @@
+struct il_queue | read_ptr int | write_ptr int | n_win long | n_bd long 
+function il_queue_space int | q const struct il_queue *

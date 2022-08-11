@@ -1,2 +1,0 @@
-struct git_graph | prev_state int | state int 
-function graph_update_state void | graph struct git_graph * | s enum graph_state

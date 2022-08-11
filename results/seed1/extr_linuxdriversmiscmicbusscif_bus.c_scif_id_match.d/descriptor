@@ -1,4 +1,0 @@
-struct scif_hw_dev_id | device long | vendor long 
-struct TYPE_2__ | device long | vendor long 
-struct scif_hw_dev | id struct TYPE_2__ 
-function scif_id_match int | dev const struct scif_hw_dev * | id const struct scif_hw_dev_id *

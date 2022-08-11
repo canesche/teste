@@ -1,0 +1,3 @@
+struct dma_chan | dummy int 
+struct dma_async_tx_descriptor | chan struct dma_chan * 
+function dma_async_tx_descriptor_init void | tx struct dma_async_tx_descriptor * | chan struct dma_chan *

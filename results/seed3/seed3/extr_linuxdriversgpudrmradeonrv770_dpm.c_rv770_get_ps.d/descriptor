@@ -1,0 +1,3 @@
+struct rv7xx_ps | dummy int 
+struct radeon_ps | ps_priv struct rv7xx_ps * 
+function rv770_get_ps struct rv7xx_ps * | rps struct radeon_ps *

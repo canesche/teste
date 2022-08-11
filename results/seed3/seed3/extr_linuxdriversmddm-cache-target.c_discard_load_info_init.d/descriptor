@@ -1,0 +1,3 @@
+struct discard_load_info | discard_end long | discard_begin long | cache struct cache * 
+struct cache | dummy int 
+function discard_load_info_init void | cache struct cache * | li struct discard_load_info *

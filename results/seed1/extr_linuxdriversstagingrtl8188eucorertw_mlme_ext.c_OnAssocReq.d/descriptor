@@ -1,3 +1,0 @@
-struct recv_frame | dummy int 
-struct adapter | dummy int 
-function OnAssocReq unsigned int | padapter struct adapter * | precv_frame struct recv_frame *

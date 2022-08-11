@@ -1,0 +1,3 @@
+struct TYPE_2__ | tcam_sz long 
+struct niu | clas struct TYPE_2__ 
+function tcam_get_size long | np struct niu *

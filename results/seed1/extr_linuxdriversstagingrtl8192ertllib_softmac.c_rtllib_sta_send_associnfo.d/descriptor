@@ -1,2 +1,0 @@
-struct rtllib_device | dummy int 
-function rtllib_sta_send_associnfo void | ieee struct rtllib_device *

@@ -1,2 +1,0 @@
-struct mxcmci_host | devtype long 
-function is_imx31_mmc int | host struct mxcmci_host *

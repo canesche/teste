@@ -1,0 +1,2 @@
+struct kmem_cache | dummy int 
+function freelist_ptr void * | s const struct kmem_cache * | ptr void * | ptr_addr unsigned long

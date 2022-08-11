@@ -1,0 +1,1 @@
+function sqliterkParseInt64 int | data const unsigned char * | offset int | length int | value int *

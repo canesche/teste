@@ -1,0 +1,2 @@
+struct sas_identify_frame | dev_type int | phy_id long | ssp_tport long | smp_tport long | stp_tport long | ssp_iport long | smp_iport long | stp_iport long 
+function mvs_94xx_make_dev_info int | id struct sas_identify_frame *

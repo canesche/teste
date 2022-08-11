@@ -1,0 +1,2 @@
+struct clk_hw | dummy int 
+function clk_pllv3_round_rate long | hw struct clk_hw * | rate unsigned long | prate unsigned long *

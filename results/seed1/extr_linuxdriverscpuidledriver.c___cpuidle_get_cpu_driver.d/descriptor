@@ -1,2 +1,0 @@
-struct cpuidle_driver | dummy int 
-function __cpuidle_get_cpu_driver struct cpuidle_driver * | cpu int

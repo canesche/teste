@@ -1,2 +1,0 @@
-struct dump_context | dummy int 
-function i386_fetch_minidump_module int | dc struct dump_context * | index unsigned int | flags unsigned int

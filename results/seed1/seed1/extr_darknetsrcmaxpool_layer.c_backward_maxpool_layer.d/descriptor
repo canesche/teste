@@ -1,0 +1,3 @@
+struct TYPE_5__ | delta int * 
+struct TYPE_6__ | out_h int | out_w int | c int | batch int | indexes int * | delta long * 
+function backward_maxpool_layer void | l const struct TYPE_6__ | net struct TYPE_5__

@@ -1,0 +1,2 @@
+struct TYPE_2__ | xtp_func_name const char * | xtp_outval_p void ** | xtp_func int * | xtp_context_p int * 
+function xnupost_register_panic_widget int | funcp int * | funcname const char * | context void * | outval void **

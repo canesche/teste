@@ -1,0 +1,2 @@
+struct qm_ecir | info int 
+function qm_ecir_get_pnum int | p const struct qm_ecir *

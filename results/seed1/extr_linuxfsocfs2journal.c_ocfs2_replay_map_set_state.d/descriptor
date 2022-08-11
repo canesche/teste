@@ -1,3 +1,0 @@
-struct ocfs2_super | replay_map struct TYPE_2__ * 
-struct TYPE_2__ | rm_state int 
-function ocfs2_replay_map_set_state void | osb struct ocfs2_super * | state int

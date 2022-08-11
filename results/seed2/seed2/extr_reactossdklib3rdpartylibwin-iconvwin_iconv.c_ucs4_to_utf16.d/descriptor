@@ -1,0 +1,1 @@
+function ucs4_to_utf16 void | wc int | wbuf int * | wbufsize int *

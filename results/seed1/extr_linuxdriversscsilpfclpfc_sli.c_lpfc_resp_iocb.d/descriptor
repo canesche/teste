@@ -1,5 +1,0 @@
-struct TYPE_3__ | rspidx int | rspringaddr long 
-struct TYPE_4__ | sli3 struct TYPE_3__ 
-struct lpfc_sli_ring | sli struct TYPE_4__ 
-struct lpfc_hba | iocb_rsp_size int 
-function lpfc_resp_iocb int * | phba struct lpfc_hba * | pring struct lpfc_sli_ring *

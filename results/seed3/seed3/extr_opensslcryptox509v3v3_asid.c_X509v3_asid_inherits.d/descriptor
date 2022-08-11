@@ -1,0 +1,4 @@
+struct TYPE_7__ | rdi struct TYPE_6__ * | asnum struct TYPE_5__ * 
+struct TYPE_6__ | type long 
+struct TYPE_5__ | type long 
+function X509v3_asid_inherits int | asid struct TYPE_7__ *

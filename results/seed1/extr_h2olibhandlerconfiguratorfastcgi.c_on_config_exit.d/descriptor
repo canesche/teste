@@ -1,2 +1,0 @@
-struct fastcgi_configurator_t | vars int 
-function on_config_exit int | _self int * | ctx int * | node int *

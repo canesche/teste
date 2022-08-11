@@ -1,2 +1,0 @@
-struct xfs_perag | pagf_flcount long | pagf_freeblks long | pagf_longest long 
-function xfs_alloc_longest_free_extent long | pag struct xfs_perag * | need long | reserved long

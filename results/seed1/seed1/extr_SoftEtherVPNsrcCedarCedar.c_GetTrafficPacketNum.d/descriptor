@@ -1,0 +1,4 @@
+struct TYPE_6__ | UnicastCount long | BroadcastCount long 
+struct TYPE_5__ | UnicastCount long | BroadcastCount long 
+struct TYPE_7__ | Send struct TYPE_6__ | Recv struct TYPE_5__ 
+function GetTrafficPacketNum long | t struct TYPE_7__ *

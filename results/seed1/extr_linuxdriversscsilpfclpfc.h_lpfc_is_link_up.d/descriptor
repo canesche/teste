@@ -1,2 +1,0 @@
-struct lpfc_hba | link_state long 
-function lpfc_is_link_up int | phba struct lpfc_hba *

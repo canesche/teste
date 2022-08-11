@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct batadv_priv | dummy int 
+function batadv_bla_check_bcast_duplist int | bat_priv struct batadv_priv * | skb struct sk_buff *

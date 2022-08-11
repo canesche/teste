@@ -1,0 +1,3 @@
+struct pinctrl_gpio_range | dummy int 
+struct pinctrl_dev | dummy int 
+function abx500_gpio_disable_free void | pctldev struct pinctrl_dev * | range struct pinctrl_gpio_range * | offset unsigned int

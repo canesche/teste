@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversperfarm-ccn.c_arm_ccn_pmu_type_eq.d/extr_linuxdriversperfarm-ccn.c_arm_ccn_pmu_type_eq_O0::arm_ccn_pmu_type_eq(67)"
+  }
+]

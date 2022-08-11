@@ -1,0 +1,3 @@
+struct TYPE_2__ | lpVtbl int * 
+struct saxlexicalhandler | ref int | qi_hr int | ISAXLexicalHandler_iface struct TYPE_2__ 
+function init_saxlexicalhandler void | handler struct saxlexicalhandler * | hr int

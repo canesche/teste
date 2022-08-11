@@ -1,2 +1,0 @@
-struct dm_target | dummy int 
-function io_err_dtr void | tt struct dm_target *

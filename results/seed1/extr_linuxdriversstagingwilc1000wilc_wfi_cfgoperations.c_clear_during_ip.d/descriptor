@@ -1,2 +1,0 @@
-struct timer_list | dummy int 
-function clear_during_ip void | unused struct timer_list *

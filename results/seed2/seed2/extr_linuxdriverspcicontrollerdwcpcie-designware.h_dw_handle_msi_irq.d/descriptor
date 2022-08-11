@@ -1,0 +1,2 @@
+struct pcie_port | dummy int 
+function dw_handle_msi_irq int | pp struct pcie_port *

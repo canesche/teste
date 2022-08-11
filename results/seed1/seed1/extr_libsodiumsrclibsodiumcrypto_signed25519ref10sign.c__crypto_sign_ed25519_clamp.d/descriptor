@@ -1,0 +1,1 @@
+function _crypto_sign_ed25519_clamp void | k unsigned char [32]

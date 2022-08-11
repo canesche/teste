@@ -1,0 +1,2 @@
+struct TYPE_3__ | input long | input_size long 
+function is_in_input int | off long | c struct TYPE_3__ *

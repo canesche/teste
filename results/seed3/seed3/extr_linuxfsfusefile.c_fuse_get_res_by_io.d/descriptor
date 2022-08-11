@@ -1,0 +1,2 @@
+struct fuse_io_priv | err long | bytes long | size long | write long 
+function fuse_get_res_by_io long | io struct fuse_io_priv *

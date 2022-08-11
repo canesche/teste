@@ -1,2 +1,0 @@
-struct nvme_fc_local_port | dummy int 
-function fcloop_create_queue int | localport struct nvme_fc_local_port * | qidx unsigned int | qsize int | handle void **

@@ -1,3 +1,0 @@
-struct cfq_io_cq | dummy int 
-struct bio | dummy int 
-function check_blkcg_changed void | cic struct cfq_io_cq * | bio struct bio *

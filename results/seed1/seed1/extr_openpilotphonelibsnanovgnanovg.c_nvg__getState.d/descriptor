@@ -1,0 +1,2 @@
+struct TYPE_3__ | nstates int | states int * 
+function nvg__getState int * | ctx struct TYPE_3__ *

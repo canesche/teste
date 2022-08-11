@@ -1,0 +1,2 @@
+struct wined3d_texture | target long 
+function is_multisample_location int | texture const struct wined3d_texture * | location long

@@ -1,3 +1,0 @@
-struct TYPE_4__ | lpVtbl int * 
-struct TYPE_5__ | IOleCommandTarget_iface struct TYPE_4__ 
-function HTMLDocument_OleCmd_Init void | This struct TYPE_5__ *

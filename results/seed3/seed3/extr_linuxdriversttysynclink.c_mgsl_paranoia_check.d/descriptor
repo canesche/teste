@@ -1,0 +1,2 @@
+struct mgsl_struct | dummy int 
+function mgsl_paranoia_check int | info struct mgsl_struct * | name char * | routine const char *

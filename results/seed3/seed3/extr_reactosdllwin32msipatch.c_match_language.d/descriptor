@@ -1,0 +1,2 @@
+struct TYPE_3__ | num_langids unsigned long | langids long * 
+function match_language int | package struct TYPE_3__ * | langid long

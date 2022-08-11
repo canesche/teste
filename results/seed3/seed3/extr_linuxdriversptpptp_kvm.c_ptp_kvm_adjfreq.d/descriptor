@@ -1,0 +1,2 @@
+struct ptp_clock_info | dummy int 
+function ptp_kvm_adjfreq int | ptp struct ptp_clock_info * | ppb int

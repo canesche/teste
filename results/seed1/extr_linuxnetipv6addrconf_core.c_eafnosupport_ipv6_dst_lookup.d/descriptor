@@ -1,5 +1,0 @@
-struct sock | dummy int 
-struct net | dummy int 
-struct flowi6 | dummy int 
-struct dst_entry | dummy int 
-function eafnosupport_ipv6_dst_lookup int | net struct net * | u1 struct sock * | u2 struct dst_entry ** | u3 struct flowi6 *

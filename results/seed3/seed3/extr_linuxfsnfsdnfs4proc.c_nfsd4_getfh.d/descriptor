@@ -1,0 +1,4 @@
+struct nfsd4_op_u | getfh int * 
+struct svc_rqst | dummy int 
+struct nfsd4_compound_state | current_fh int 
+function nfsd4_getfh int | rqstp struct svc_rqst * | cstate struct nfsd4_compound_state * | u union nfsd4_op_u *

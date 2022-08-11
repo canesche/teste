@@ -1,0 +1,2 @@
+struct mmc_host | caps int 
+function mmc_host_cmd23 int | host struct mmc_host *

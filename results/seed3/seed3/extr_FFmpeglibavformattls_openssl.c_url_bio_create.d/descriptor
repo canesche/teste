@@ -1,0 +1,2 @@
+struct TYPE_3__ | init int | flags long | ptr int * 
+function url_bio_create int | b struct TYPE_3__ *

@@ -1,0 +1,3 @@
+struct via82xx_modem | ac97 int * 
+struct snd_ac97 | private_data struct via82xx_modem * 
+function snd_via82xx_mixer_free_ac97 void | ac97 struct snd_ac97 *

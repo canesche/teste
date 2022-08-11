@@ -1,0 +1,3 @@
+struct mlx5_ib_mr | parent struct mlx5_ib_mr * 
+struct ib_umem_odp | dying int | private struct mlx5_ib_mr * 
+function check_parent int | odp struct ib_umem_odp * | parent struct mlx5_ib_mr *

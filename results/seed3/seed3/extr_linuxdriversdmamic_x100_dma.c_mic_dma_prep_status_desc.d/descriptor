@@ -1,0 +1,2 @@
+struct mic_dma_desc | qw0 unsigned long long | qw1 unsigned long long 
+function mic_dma_prep_status_desc void | desc struct mic_dma_desc * | data unsigned long long | dst_phys unsigned long long | generate_intr int

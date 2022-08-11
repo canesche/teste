@@ -1,0 +1,2 @@
+struct vhost_virtqueue | last_avail_idx int 
+function vhost_discard_vq_desc void | vq struct vhost_virtqueue * | n int

@@ -1,0 +1,2 @@
+struct pm8001_hba_info | dummy int 
+function pm8001_get_phy_settings_info int | pm8001_ha struct pm8001_hba_info *

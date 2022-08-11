@@ -1,2 +1,0 @@
-struct d3dx_parameter | top_level_param void * 
-function param_set_top_level_param int | top_level_param void * | param struct d3dx_parameter *

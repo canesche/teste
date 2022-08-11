@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_h2odepsssl-conservatoryopensslopenssl_hostname_validation.c_lowercase.d/extr_h2odepsssl-conservatoryopensslopenssl_hostname_validation.c_lowercase_O0::lowercase(59)"
+  }
+]

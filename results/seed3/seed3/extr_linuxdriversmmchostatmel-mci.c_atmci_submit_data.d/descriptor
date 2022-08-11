@@ -1,0 +1,3 @@
+struct mmc_data | dummy int 
+struct atmel_mci | dummy int 
+function atmci_submit_data void | host struct atmel_mci * | data struct mmc_data *

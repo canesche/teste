@@ -1,0 +1,2 @@
+struct ufs_sb_private_info | fs_magic long 
+function ufs_data_ptr_clear void | uspi struct ufs_sb_private_info * | p void *

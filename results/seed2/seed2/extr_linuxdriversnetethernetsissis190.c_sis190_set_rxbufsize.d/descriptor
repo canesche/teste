@@ -1,0 +1,3 @@
+struct sis190_private | rx_buf_sz unsigned int 
+struct net_device | mtu unsigned int 
+function sis190_set_rxbufsize void | tp struct sis190_private * | dev struct net_device *

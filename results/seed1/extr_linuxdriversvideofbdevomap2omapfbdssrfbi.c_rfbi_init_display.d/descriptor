@@ -1,5 +1,0 @@
-struct TYPE_4__ | channel unsigned long 
-struct TYPE_5__ | rfbi struct TYPE_4__ 
-struct omap_dss_device | phy struct TYPE_5__ 
-struct TYPE_6__ | dssdev struct omap_dss_device ** 
-function rfbi_init_display int | dssdev struct omap_dss_device *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmediaplatformomapomap_voutlib.c_omap_vout_default_crop.d/extr_linuxdriversmediaplatformomapomap_voutlib.c_omap_vout_default_crop_O0::omap_vout_default_crop(66)"
+  }
+]

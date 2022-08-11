@@ -1,0 +1,3 @@
+struct TYPE_5__ | client_err_to_unique_count int 
+struct TYPE_4__ | status char * 
+function include_uniq int | logitem struct TYPE_4__ *

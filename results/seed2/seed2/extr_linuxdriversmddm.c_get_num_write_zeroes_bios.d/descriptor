@@ -1,0 +1,2 @@
+struct dm_target | num_write_zeroes_bios int 
+function get_num_write_zeroes_bios unsigned int | ti struct dm_target *

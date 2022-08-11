@@ -1,0 +1,2 @@
+struct waitq | waitq_isvalid long 
+function waitq_is_valid int | waitq struct waitq *

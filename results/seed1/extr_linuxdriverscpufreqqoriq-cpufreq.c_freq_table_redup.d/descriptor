@@ -1,2 +1,0 @@
-struct cpufreq_frequency_table | frequency long 
-function freq_table_redup void | freq_table struct cpufreq_frequency_table * | count int

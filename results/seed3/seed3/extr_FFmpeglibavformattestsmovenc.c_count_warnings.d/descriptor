@@ -1,0 +1,1 @@
+function count_warnings void | avcl void * | level int | fmt const char * | vl int

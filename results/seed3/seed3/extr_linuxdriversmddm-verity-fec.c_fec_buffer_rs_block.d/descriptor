@@ -1,0 +1,4 @@
+struct dm_verity_fec_io | bufs int ** 
+struct dm_verity | fec struct TYPE_2__ * 
+struct TYPE_2__ | rsn unsigned int 
+function fec_buffer_rs_block int * | v struct dm_verity * | fio struct dm_verity_fec_io * | i unsigned int | j unsigned int

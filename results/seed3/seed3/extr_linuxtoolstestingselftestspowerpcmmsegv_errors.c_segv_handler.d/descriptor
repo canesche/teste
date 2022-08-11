@@ -1,0 +1,5 @@
+struct TYPE_5__ | regs struct pt_regs * 
+struct TYPE_6__ | uc_mcontext struct TYPE_5__ 
+struct pt_regs | nip int 
+struct TYPE_7__ | si_code int 
+function segv_handler void | n int | info struct TYPE_7__ * | ctxt_v void *

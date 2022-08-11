@@ -1,0 +1,2 @@
+struct ltr501_samp_table | freq_val int 
+function ltr501_match_samp_freq int | tab const struct ltr501_samp_table * | len int | val int | val2 int

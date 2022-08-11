@@ -1,0 +1,2 @@
+struct pool_features | zero_new_blocks int | discard_enabled int | discard_passdown int | error_if_no_space int | mode int 
+function pool_features_init void | pf struct pool_features *

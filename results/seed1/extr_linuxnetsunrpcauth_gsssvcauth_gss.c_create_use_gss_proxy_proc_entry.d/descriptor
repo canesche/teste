@@ -1,2 +1,0 @@
-struct net | dummy int 
-function create_use_gss_proxy_proc_entry int | net struct net *

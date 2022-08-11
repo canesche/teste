@@ -1,0 +1,2 @@
+struct oprofile_operations | dummy int 
+function op_nmi_timer_init int | ops struct oprofile_operations *

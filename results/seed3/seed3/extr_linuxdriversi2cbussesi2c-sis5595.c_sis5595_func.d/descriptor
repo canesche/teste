@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function sis5595_func int | adapter struct i2c_adapter *

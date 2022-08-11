@@ -1,0 +1,3 @@
+struct ath6kl_sdio | dummy int 
+struct ath6kl | hif_priv struct ath6kl_sdio * 
+function ath6kl_sdio_priv struct ath6kl_sdio * | ar struct ath6kl *

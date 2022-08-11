@@ -1,0 +1,3 @@
+struct log_c | region_size int 
+struct dm_dirty_log | context long 
+function core_get_region_size int | log struct dm_dirty_log *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_darwin-xnubsdnetinettcp_usrreq.c_tcp_in_cksum_stats.d/extr_darwin-xnubsdnetinettcp_usrreq.c_tcp_in_cksum_stats_O0::tcp_in_cksum_stats(65)"
+  }
+]

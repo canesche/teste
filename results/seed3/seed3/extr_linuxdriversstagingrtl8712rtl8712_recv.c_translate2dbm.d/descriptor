@@ -1,0 +1,2 @@
+struct _adapter | dummy int 
+function translate2dbm long | padapter struct _adapter * | signal_strength_idx int

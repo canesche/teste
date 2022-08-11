@@ -1,2 +1,0 @@
-struct amdgpu_device | dummy int 
-function cik_sdma_rlc_resume int | adev struct amdgpu_device *

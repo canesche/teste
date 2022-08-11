@@ -1,0 +1,4 @@
+struct TYPE_5__ | Normal void ** 
+struct TYPE_7__ | VB struct TYPE_6__ * | Current struct TYPE_5__ 
+struct TYPE_6__ | MonoNormal int 
+function gl_Normal3f void | ctx struct TYPE_7__ * | nx void * | ny void * | nz void *

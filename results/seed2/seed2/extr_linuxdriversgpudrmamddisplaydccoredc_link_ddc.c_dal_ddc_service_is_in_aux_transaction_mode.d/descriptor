@@ -1,0 +1,2 @@
+struct ddc_service | transaction_type int 
+function dal_ddc_service_is_in_aux_transaction_mode int | ddc struct ddc_service *

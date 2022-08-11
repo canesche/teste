@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 65,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 65,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_emscriptentestsfreetypesrcbasefttrigon.c_ft_trig_downscale.d/extr_emscriptentestsfreetypesrcbasefttrigon.c_ft_trig_downscale_O0::ft_trig_downscale(64)"
+  }
+]

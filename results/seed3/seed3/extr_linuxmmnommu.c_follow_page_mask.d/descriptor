@@ -1,0 +1,3 @@
+struct vm_area_struct | dummy int 
+struct page | dummy int 
+function follow_page_mask struct page * | vma struct vm_area_struct * | address unsigned long | flags unsigned int | page_mask unsigned int *

@@ -1,2 +1,0 @@
-struct gs_init_data | zsformat int | format int 
-function init_dummy_swap_info void | info struct gs_init_data *

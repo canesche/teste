@@ -1,0 +1,4 @@
+struct inode | i_generation int | i_ino int 
+struct TYPE_2__ | parent_gen int | parent_ino int | gen int | ino int 
+struct fid | i32 struct TYPE_2__ 
+function export_encode_fh int | inode struct inode * | fid struct fid * | max_len int * | parent struct inode *

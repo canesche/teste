@@ -1,0 +1,4 @@
+struct gfs2_bufdata | bd_gl struct TYPE_4__ * 
+struct TYPE_3__ | ln_type long 
+struct TYPE_4__ | gl_name struct TYPE_3__ 
+function buffer_is_rgrp int | bd const struct gfs2_bufdata *

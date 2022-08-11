@@ -1,2 +1,0 @@
-struct sockaddr_vm | svm_family long | svm_zero long * 
-function vsock_addr_validate int | addr const struct sockaddr_vm *

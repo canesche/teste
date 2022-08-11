@@ -1,0 +1,2 @@
+struct TYPE_3__ | outlen long | pwdlen long | saltlen long | secretlen long | adlen long | m_cost int | lanes int | t_cost long | threads long | ad int * | secret int * | salt int * | pwd int * | out int * 
+function validate_inputs int | context const struct TYPE_3__ *

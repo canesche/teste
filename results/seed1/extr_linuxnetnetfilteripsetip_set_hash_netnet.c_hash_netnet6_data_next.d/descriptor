@@ -1,2 +1,0 @@
-struct hash_netnet6_elem | dummy int 
-function hash_netnet6_data_next void | next struct hash_netnet6_elem * | d const struct hash_netnet6_elem *

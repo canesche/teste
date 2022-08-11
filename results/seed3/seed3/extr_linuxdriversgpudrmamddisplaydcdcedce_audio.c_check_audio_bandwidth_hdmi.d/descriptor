@@ -1,0 +1,4 @@
+struct TYPE_2__ | RATE_88_2 long | RATE_96 long | RATE_176_4 long | RATE_192 long 
+struct audio_sample_rates | rate struct TYPE_2__ 
+struct audio_crtc_info | requested_pixel_clock int | v_active int | pixel_repetition int | h_total int | h_active int | refresh_rate int | color_depth int | interlaced long 
+function check_audio_bandwidth_hdmi void | crtc_info const struct audio_crtc_info * | channel_count int | sample_rates union audio_sample_rates *

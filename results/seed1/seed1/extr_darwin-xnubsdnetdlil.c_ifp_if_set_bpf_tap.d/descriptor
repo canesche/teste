@@ -1,0 +1,2 @@
+struct ifnet | dummy int 
+function ifp_if_set_bpf_tap int | ifp struct ifnet * | tm int | f int

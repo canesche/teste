@@ -1,0 +1,3 @@
+struct TYPE_2__ | tx_processed int | tx_last int 
+struct ath_softc | beacon struct TYPE_2__ 
+function ath9k_reset_beacon_status void | sc struct ath_softc *

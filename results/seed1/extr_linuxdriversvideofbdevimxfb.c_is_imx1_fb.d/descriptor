@@ -1,2 +1,0 @@
-struct imxfb_info | devtype long 
-function is_imx1_fb int | fbi struct imxfb_info *

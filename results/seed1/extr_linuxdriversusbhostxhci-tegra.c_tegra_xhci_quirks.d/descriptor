@@ -1,3 +1,0 @@
-struct xhci_hcd | quirks int 
-struct device | dummy int 
-function tegra_xhci_quirks void | dev struct device * | xhci struct xhci_hcd *

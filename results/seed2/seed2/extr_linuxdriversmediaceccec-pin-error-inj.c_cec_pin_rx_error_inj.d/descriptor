@@ -1,0 +1,3 @@
+struct TYPE_2__ | msg unsigned long * 
+struct cec_pin | error_inj int * | rx_bit int | rx_msg struct TYPE_2__ 
+function cec_pin_rx_error_inj unsigned long | pin struct cec_pin *

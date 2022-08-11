@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 82,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 86,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversttyserialsirfsoc_uart.c_sirfsoc_uart_calc_sample_div.d/extr_linuxdriversttyserialsirfsoc_uart.c_sirfsoc_uart_calc_sample_div_O0::sirfsoc_uart_calc_sample_div(68)"
+  }
+]

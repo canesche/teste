@@ -1,0 +1,3 @@
+struct TYPE_4__ | rstate int 
+struct TYPE_5__ | rlayer struct TYPE_4__ 
+function SSL_rstate_string_long const char * | s const struct TYPE_5__ *

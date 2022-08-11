@@ -1,0 +1,5 @@
+struct TYPE_6__ | sie_block struct TYPE_5__ * 
+struct kvm_vcpu | arch struct TYPE_6__ 
+struct TYPE_4__ | mask unsigned long 
+struct TYPE_5__ | gpsw struct TYPE_4__ 
+function kvm_s390_set_psw_cc void | vcpu struct kvm_vcpu * | cc unsigned long

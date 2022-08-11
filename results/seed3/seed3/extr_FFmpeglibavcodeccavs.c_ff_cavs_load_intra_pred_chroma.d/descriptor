@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int | mbx int | top_border_v int * | top_border_u int * | left_border_v int * | left_border_u int * | topleft_border_v int | topleft_border_u int 
+function ff_cavs_load_intra_pred_chroma void | h struct TYPE_3__ *

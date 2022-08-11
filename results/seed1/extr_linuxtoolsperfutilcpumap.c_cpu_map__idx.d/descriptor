@@ -1,2 +1,0 @@
-struct cpu_map | nr int | map int * 
-function cpu_map__idx int | cpus struct cpu_map * | cpu int

@@ -1,2 +1,0 @@
-struct len_pos_t | pos long 
-function RM_listcmp int | a const struct len_pos_t * | b const struct len_pos_t *

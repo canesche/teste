@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct crypto_alg | dummy int 
+function crypto_ablkcipher_report int | skb struct sk_buff * | alg struct crypto_alg *

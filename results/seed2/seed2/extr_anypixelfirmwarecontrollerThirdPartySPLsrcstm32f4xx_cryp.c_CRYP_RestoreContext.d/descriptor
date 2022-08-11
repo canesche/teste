@@ -1,0 +1,3 @@
+struct TYPE_5__ | CR int | IV1RR int | IV1LR int | IV0RR int | IV0LR int | K3RR int | K3LR int | K2RR int | K2LR int | K1RR int | K1LR int | K0RR int | K0LR int 
+struct TYPE_4__ | CRYP_IV1RR int | CRYP_IV1LR int | CRYP_IV0RR int | CRYP_IV0LR int | CRYP_K3RR int | CRYP_K3LR int | CRYP_K2RR int | CRYP_K2LR int | CRYP_K1RR int | CRYP_K1LR int | CRYP_K0RR int | CRYP_K0LR int | CR_bits9to2 int 
+function CRYP_RestoreContext void | CRYP_ContextRestore struct TYPE_4__ *

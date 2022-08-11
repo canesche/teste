@@ -1,0 +1,2 @@
+struct amp_mgr | dummy int 
+function amp_mgr_put int | mgr struct amp_mgr *

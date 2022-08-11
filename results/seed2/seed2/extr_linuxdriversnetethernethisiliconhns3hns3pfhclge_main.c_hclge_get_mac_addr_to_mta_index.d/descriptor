@@ -1,0 +1,3 @@
+struct hclge_vport | back struct hclge_dev * 
+struct hclge_dev | mta_mac_sel_type int 
+function hclge_get_mac_addr_to_mta_index int | vport struct hclge_vport * | addr const int *

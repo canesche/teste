@@ -1,0 +1,2 @@
+struct nfs_fattr | valid int | mode int | nlink int 
+function nfs_fixup_referral_attributes void | fattr struct nfs_fattr *

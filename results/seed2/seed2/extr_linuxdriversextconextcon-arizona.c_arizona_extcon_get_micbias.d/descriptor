@@ -1,0 +1,3 @@
+struct arizona_extcon_info | micd_modes struct TYPE_2__ * 
+struct TYPE_2__ | bias int 
+function arizona_extcon_get_micbias const char * | info struct arizona_extcon_info *

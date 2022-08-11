@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function kvm_mips_hypercall int | vcpu struct kvm_vcpu * | num unsigned long | args const unsigned long * | hret unsigned long *

@@ -1,0 +1,8 @@
+struct TYPE_11__ | length unsigned int | offset unsigned int 
+struct TYPE_10__ | length unsigned int | offset unsigned int 
+struct TYPE_9__ | length unsigned int | offset unsigned int 
+struct TYPE_8__ | length unsigned int 
+struct TYPE_12__ | bits_per_pixel int | blue struct TYPE_11__ | green struct TYPE_10__ | red struct TYPE_9__ | transp struct TYPE_8__ 
+struct TYPE_7__ | len unsigned int 
+struct fb_info | pseudo_palette long | var struct TYPE_12__ | cmap struct TYPE_7__ 
+function xenfb_setcolreg int | regno unsigned int | red unsigned int | green unsigned int | blue unsigned int | transp unsigned int | info struct fb_info *

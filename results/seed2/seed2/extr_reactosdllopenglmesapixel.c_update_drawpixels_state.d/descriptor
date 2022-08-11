@@ -1,0 +1,5 @@
+struct TYPE_8__ | RowLength long | SkipPixels long | SkipRows long | SwapBytes long | LsbFirst long 
+struct TYPE_7__ | RedBias double | RedScale double | GreenBias double | GreenScale double | BlueBias double | BlueScale double | AlphaBias double | AlphaScale double | MapColorFlag long | ZoomX double | ZoomY double 
+struct TYPE_9__ | FastDrawPixels long | Unpack struct TYPE_8__ | Pixel struct TYPE_7__ | Visual struct TYPE_6__ * 
+struct TYPE_6__ | RGBAflag long | EightBitColor long 
+function update_drawpixels_state void | ctx struct TYPE_9__ *

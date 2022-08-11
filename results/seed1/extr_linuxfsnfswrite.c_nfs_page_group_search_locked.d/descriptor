@@ -1,2 +1,0 @@
-struct nfs_page | wb_pgbase unsigned int | wb_bytes unsigned int | wb_this_page struct nfs_page * 
-function nfs_page_group_search_locked struct nfs_page * | head struct nfs_page * | page_offset unsigned int

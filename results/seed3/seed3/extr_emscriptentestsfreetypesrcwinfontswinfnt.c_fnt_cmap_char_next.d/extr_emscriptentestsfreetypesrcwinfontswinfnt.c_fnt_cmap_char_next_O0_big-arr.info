@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_emscriptentestsfreetypesrcwinfontswinfnt.c_fnt_cmap_char_next.d/extr_emscriptentestsfreetypesrcwinfontswinfnt.c_fnt_cmap_char_next_O0::fnt_cmap_char_next(67)"
+  }
+]

@@ -1,0 +1,3 @@
+struct TYPE_5__ | seq long | queue struct TYPE_4__ * 
+struct TYPE_4__ | seq long | next struct TYPE_4__ * 
+function find_missing_packets int | s struct TYPE_5__ * | first_missing long * | missing_mask long *

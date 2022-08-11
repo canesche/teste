@@ -1,0 +1,3 @@
+struct TYPE_4__ | lgblock unsigned long 
+struct TYPE_5__ | params struct TYPE_4__ 
+function InputBlockSize unsigned long | s struct TYPE_5__ *

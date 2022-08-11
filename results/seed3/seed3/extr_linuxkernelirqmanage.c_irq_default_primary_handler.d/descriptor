@@ -1,0 +1,1 @@
+function irq_default_primary_handler int | irq int | dev_id void *

@@ -1,0 +1,2 @@
+struct netent | dummy int 
+function getnetbyname struct netent * | name const char *

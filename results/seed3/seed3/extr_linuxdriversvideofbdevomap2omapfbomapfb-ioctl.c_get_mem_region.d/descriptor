@@ -1,0 +1,4 @@
+struct omapfb_info | id int | fbdev struct omapfb2_device * 
+struct omapfb2_mem_region | dummy int 
+struct omapfb2_device | num_fbs int | regions struct omapfb2_mem_region * 
+function get_mem_region struct omapfb2_mem_region * | ofbi struct omapfb_info * | mem_idx int

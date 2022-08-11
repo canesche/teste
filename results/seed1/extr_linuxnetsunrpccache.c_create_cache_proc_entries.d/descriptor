@@ -1,3 +1,0 @@
-struct net | dummy int 
-struct cache_detail | dummy int 
-function create_cache_proc_entries int | cd struct cache_detail * | net struct net *

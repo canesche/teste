@@ -1,0 +1,2 @@
+struct object_id | hash const unsigned char * 
+function sha1_access const unsigned char * | index unsigned long | table void *

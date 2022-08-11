@@ -1,0 +1,2 @@
+struct IsdnCard | dummy int 
+function setup_sedlbauer_isapnp int | card struct IsdnCard * | bytecnt int *

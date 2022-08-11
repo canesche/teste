@@ -1,0 +1,2 @@
+struct us_data | dummy int 
+function _usb_stor_dbg void | us const struct us_data * | fmt const char *

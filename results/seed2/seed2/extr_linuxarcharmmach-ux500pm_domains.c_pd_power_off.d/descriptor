@@ -1,0 +1,2 @@
+struct generic_pm_domain | dummy int 
+function pd_power_off int | domain struct generic_pm_domain *

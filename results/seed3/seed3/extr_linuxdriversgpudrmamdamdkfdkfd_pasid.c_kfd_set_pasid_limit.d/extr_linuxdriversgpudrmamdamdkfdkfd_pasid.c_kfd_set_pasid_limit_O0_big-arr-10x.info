@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmamdamdkfdkfd_pasid.c_kfd_set_pasid_limit.d/extr_linuxdriversgpudrmamdamdkfdkfd_pasid.c_kfd_set_pasid_limit_O0::kfd_set_pasid_limit(62)"
+  }
+]

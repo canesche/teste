@@ -1,0 +1,2 @@
+struct TYPE_3__ | length_flags unsigned int | ref int 
+function jsstr_init void | str struct TYPE_3__ * | len unsigned int | tag unsigned int

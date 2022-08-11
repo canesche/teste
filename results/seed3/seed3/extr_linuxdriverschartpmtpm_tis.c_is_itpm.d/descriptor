@@ -1,0 +1,2 @@
+struct acpi_device | dummy int 
+function is_itpm int | dev struct acpi_device *

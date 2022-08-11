@@ -1,2 +1,0 @@
-struct pci_dev | dummy int 
-function pcie_aspm_init_link_state void | pdev struct pci_dev *

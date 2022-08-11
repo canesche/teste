@@ -1,0 +1,2 @@
+struct TYPE_3__ | height int | width int | bits_per_coded_sample int 
+function decode_run_p int | avctx struct TYPE_3__ * | ptype int | run int | x int | y int | clr int | dst int * | prev int * | linesize int | plinesize int | bx int * | by int * | backstep int | sx1 int | sx2 int | cx int * | cx1 int *

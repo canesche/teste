@@ -1,1 +1,0 @@
-length(priv) == 100, length(common) == 100, length(rx_non_phy) == 100, length(rx_ofdm) == 100, length(rx_ofdm_ht) == 100, length(rx_cck) == 100, length(tx) == 100, length(bt_activity) == 100

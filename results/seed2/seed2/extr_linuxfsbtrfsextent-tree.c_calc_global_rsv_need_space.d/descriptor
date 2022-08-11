@@ -1,0 +1,2 @@
+struct btrfs_block_rsv | size int 
+function calc_global_rsv_need_space int | global struct btrfs_block_rsv *

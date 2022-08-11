@@ -1,0 +1,5 @@
+struct odm_dm_struct | Adapter struct adapter * 
+struct dm_priv | bDynamicTxPowerEnable int | DynamicTxHighPowerLvl void * | LastDTPLvl void * 
+struct adapter | HalData struct TYPE_2__ * 
+struct TYPE_2__ | dmpriv struct dm_priv 
+function odm_DynamicTxPowerInit void | pDM_Odm struct odm_dm_struct *

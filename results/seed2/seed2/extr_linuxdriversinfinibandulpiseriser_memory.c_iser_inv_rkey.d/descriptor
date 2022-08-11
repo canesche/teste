@@ -1,0 +1,5 @@
+struct TYPE_2__ | invalidate_rkey int 
+struct ib_send_wr | num_sge long | send_flags long | ex struct TYPE_2__ | wr_cqe struct ib_cqe * | opcode int 
+struct ib_mr | rkey int 
+struct ib_cqe | dummy int 
+function iser_inv_rkey void | inv_wr struct ib_send_wr * | mr struct ib_mr * | cqe struct ib_cqe *

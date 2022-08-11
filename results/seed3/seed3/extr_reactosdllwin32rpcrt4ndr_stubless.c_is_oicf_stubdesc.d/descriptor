@@ -1,0 +1,2 @@
+struct TYPE_3__ | Version int 
+function is_oicf_stubdesc int | pStubDesc struct TYPE_3__ *const

@@ -1,0 +1,2 @@
+struct se_cmd | dummy int 
+function sbp_aborted_task void | se_cmd struct se_cmd *

@@ -1,0 +1,2 @@
+struct irq_domain | dummy int 
+function irq_domain_check_hierarchy void | domain struct irq_domain *

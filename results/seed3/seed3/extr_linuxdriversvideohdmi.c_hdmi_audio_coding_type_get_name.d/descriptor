@@ -1,0 +1,1 @@
+function hdmi_audio_coding_type_get_name const char * | coding_type enum hdmi_audio_coding_type

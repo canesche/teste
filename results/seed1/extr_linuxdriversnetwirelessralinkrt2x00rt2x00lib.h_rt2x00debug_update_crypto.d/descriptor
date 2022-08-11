@@ -1,3 +1,0 @@
-struct rxdone_entry_desc | dummy int 
-struct rt2x00_dev | dummy int 
-function rt2x00debug_update_crypto void | rt2x00dev struct rt2x00_dev * | rxdesc struct rxdone_entry_desc *

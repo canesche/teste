@@ -1,4 +1,0 @@
-struct dentry | d_fsdata struct configfs_dirent * 
-struct configfs_dirent | s_element long 
-struct configfs_attribute | dummy int 
-function to_attr struct configfs_attribute * | dentry struct dentry *

@@ -1,3 +1,0 @@
-struct hashmap_iter | next int * | tablepos long | map struct hashmap * 
-struct hashmap | dummy int 
-function hashmap_iter_init void | map struct hashmap * | iter struct hashmap_iter *

@@ -1,2 +1,0 @@
-struct cc_drvdata | dummy int 
-function cc_pm_fini void | drvdata struct cc_drvdata *

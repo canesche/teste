@@ -1,0 +1,1 @@
+function compare_ofs_delta_bases int | offset1 long | offset2 long | type1 enum object_type | type2 enum object_type

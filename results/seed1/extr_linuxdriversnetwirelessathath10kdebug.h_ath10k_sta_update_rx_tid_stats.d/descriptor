@@ -1,2 +1,0 @@
-struct ath10k | dummy int 
-function ath10k_sta_update_rx_tid_stats void | ar struct ath10k * | first_hdr int * | num_msdus unsigned long | err enum ath10k_pkt_rx_err | unchain_cnt unsigned long | drop_cnt unsigned long | drop_cnt_filter unsigned long | queued_msdus unsigned long

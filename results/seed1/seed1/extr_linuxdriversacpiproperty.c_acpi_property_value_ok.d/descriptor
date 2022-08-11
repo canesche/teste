@@ -1,0 +1,4 @@
+struct TYPE_4__ | count int | elements struct TYPE_3__ * 
+struct acpi_object | type int | package struct TYPE_4__ 
+struct TYPE_3__ | type int 
+function acpi_property_value_ok int | value const union acpi_object *

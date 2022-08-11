@@ -1,4 +1,0 @@
-struct TYPE_4__ | req_cons int | sring struct TYPE_3__ * 
-struct xenvif_queue | stalled long | rx struct TYPE_4__ 
-struct TYPE_3__ | req_prod int 
-function xenvif_rx_queue_ready int | queue struct xenvif_queue *

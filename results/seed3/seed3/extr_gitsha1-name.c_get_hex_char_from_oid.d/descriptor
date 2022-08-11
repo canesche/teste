@@ -1,0 +1,2 @@
+struct object_id | hash int * 
+function get_hex_char_from_oid char | oid const struct object_id * | pos unsigned int

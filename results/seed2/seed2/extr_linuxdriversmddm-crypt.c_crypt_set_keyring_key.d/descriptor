@@ -1,0 +1,2 @@
+struct crypt_config | dummy int 
+function crypt_set_keyring_key int | cc struct crypt_config * | key_string const char *

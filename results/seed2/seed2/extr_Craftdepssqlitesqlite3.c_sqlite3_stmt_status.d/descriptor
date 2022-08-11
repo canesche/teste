@@ -1,0 +1,2 @@
+struct TYPE_2__ | aCounter int * 
+function sqlite3_stmt_status int | pStmt int * | op int | resetFlag int

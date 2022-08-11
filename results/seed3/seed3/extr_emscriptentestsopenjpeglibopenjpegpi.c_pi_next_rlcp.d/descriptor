@@ -1,0 +1,5 @@
+struct TYPE_7__ | pw int | ph int 
+struct TYPE_6__ | resno0 unsigned long | resno1 unsigned long | layno0 long | layno1 long | compno0 unsigned long | compno1 unsigned long | precno1 int | precno0 long 
+struct TYPE_8__ | compno unsigned long | resno unsigned long | layno long | precno long | step_l long | step_r long | step_c long | step_p long | include int * | poc struct TYPE_6__ | tp_on int | comps struct TYPE_9__ * | first long 
+struct TYPE_9__ | numresolutions unsigned long | resolutions struct TYPE_7__ * 
+function pi_next_rlcp int | pi struct TYPE_8__ *

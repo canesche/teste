@@ -1,2 +1,0 @@
-struct tempfile | active long 
-function is_tempfile_active int | tempfile struct tempfile *

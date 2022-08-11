@@ -1,0 +1,2 @@
+struct pci_dev | pme_support int | pm_cap int 
+function pci_pme_capable int | dev struct pci_dev * | state int

@@ -1,0 +1,5 @@
+struct stub_entry | dummy int 
+struct TYPE_4__ | section struct TYPE_3__ * 
+struct module | arch struct TYPE_4__ 
+struct TYPE_3__ | stub_entries int 
+function arch_mod_section_prepend unsigned int | mod struct module * | section unsigned int

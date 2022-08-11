@@ -1,0 +1,2 @@
+struct vxge_hw_fifo_txd | host_control long 
+function vxge_hw_fifo_txdl_private_get void * | txdlh void *

@@ -1,0 +1,5 @@
+struct acpi_video_device_attrib | dummy int 
+struct TYPE_2__ | int_val int | attrib struct acpi_video_device_attrib 
+struct acpi_video_enumerated_device | value struct TYPE_2__ 
+struct acpi_video_bus | attached_count int | attached_array struct acpi_video_enumerated_device * 
+function acpi_video_get_device_attr struct acpi_video_device_attrib * | video struct acpi_video_bus * | device_id unsigned long

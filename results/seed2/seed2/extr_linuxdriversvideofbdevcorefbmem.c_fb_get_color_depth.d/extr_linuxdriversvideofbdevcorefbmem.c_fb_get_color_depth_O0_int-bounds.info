@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversvideofbdevcorefbmem.c_fb_get_color_depth.d/extr_linuxdriversvideofbdevcorefbmem.c_fb_get_color_depth_O0::fb_get_color_depth(71)"
+  }
+]

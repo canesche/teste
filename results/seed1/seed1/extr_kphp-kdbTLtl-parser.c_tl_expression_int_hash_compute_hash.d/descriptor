@@ -1,0 +1,3 @@
+struct tl_hashmap | size unsigned int 
+struct tl_expression | magic long 
+function tl_expression_int_hash_compute_hash void | self struct tl_hashmap * | p void * | h1 int * | h2 int *

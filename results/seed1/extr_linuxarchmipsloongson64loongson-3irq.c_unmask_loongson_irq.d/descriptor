@@ -1,2 +1,0 @@
-struct irq_data | dummy int 
-function unmask_loongson_irq void | d struct irq_data *

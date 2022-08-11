@@ -1,0 +1,3 @@
+struct TYPE_3__ | spam int | ham int 
+struct TYPE_4__ | h long | val struct TYPE_3__ 
+function bayes_local_get_count int | b char * | word long | type int

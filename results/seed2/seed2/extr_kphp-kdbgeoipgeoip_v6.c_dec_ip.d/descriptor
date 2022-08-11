@@ -1,0 +1,2 @@
+struct ipv6 | data int * 
+function dec_ip void | a struct ipv6 *

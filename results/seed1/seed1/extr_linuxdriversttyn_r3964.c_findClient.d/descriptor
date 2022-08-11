@@ -1,0 +1,4 @@
+struct r3964_info | firstClient struct r3964_client_info * 
+struct r3964_client_info | pid struct pid * | next struct r3964_client_info * 
+struct pid | dummy int 
+function findClient struct r3964_client_info * | pInfo struct r3964_info * | pid struct pid *

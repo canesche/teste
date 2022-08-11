@@ -1,0 +1,3 @@
+struct sock | dummy int 
+struct packet_sock | dummy int 
+function pkt_sk struct packet_sock * | sk struct sock *

@@ -1,0 +1,2 @@
+struct pcidas64_board | layout long | ao_nchan long 
+function ao_cmd_is_supported int | board const struct pcidas64_board *

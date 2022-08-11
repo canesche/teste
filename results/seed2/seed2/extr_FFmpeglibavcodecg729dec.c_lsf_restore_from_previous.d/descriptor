@@ -1,0 +1,1 @@
+function lsf_restore_from_previous void | lsfq int * | past_quantizer_outputs int *[MA_NP + 1] | ma_predictor_prev int

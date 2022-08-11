@@ -1,0 +1,2 @@
+struct sst_hsw | enabled_modules_rtd3 int 
+function sst_hsw_set_module_disabled_rtd3 void | hsw struct sst_hsw * | module_id int

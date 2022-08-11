@@ -1,0 +1,3 @@
+struct mlx5_ib_dev | dummy int 
+struct mlx5_bfreg_info | dummy int 
+function adjust_bfregn int | dev struct mlx5_ib_dev * | bfregi struct mlx5_bfreg_info * | bfregn int

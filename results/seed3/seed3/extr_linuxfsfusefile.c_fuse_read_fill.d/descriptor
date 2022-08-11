@@ -1,0 +1,12 @@
+struct TYPE_14__ | argvar int | numargs int | args struct TYPE_13__ * 
+struct TYPE_10__ | opcode int | nodeid int 
+struct TYPE_12__ | numargs int | args struct TYPE_11__ * | h struct TYPE_10__ 
+struct fuse_read_in | size unsigned long | flags int | offset int | fh int 
+struct TYPE_8__ | in struct fuse_read_in 
+struct TYPE_9__ | read struct TYPE_8__ 
+struct fuse_req | out struct TYPE_14__ | in struct TYPE_12__ | misc struct TYPE_9__ 
+struct fuse_file | nodeid int | fh int 
+struct file | f_flags int | private_data struct fuse_file * 
+struct TYPE_13__ | size unsigned long 
+struct TYPE_11__ | size int | value struct fuse_read_in * 
+function fuse_read_fill void | req struct fuse_req * | file struct file * | pos int | count unsigned long | opcode int

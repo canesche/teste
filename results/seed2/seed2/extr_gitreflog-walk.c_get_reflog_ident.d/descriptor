@@ -1,0 +1,5 @@
+struct reflog_walk_info | last_commit_reflog struct commit_reflog * 
+struct reflog_info | email const char * 
+struct commit_reflog | recno int | reflogs struct TYPE_2__ * 
+struct TYPE_2__ | items struct reflog_info * 
+function get_reflog_ident const char * | reflog_info struct reflog_walk_info *

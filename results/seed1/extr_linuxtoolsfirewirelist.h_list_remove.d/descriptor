@@ -1,4 +1,0 @@
-struct list | prev struct TYPE_4__ * | next struct TYPE_3__ * 
-struct TYPE_4__ | next struct TYPE_3__ * 
-struct TYPE_3__ | prev struct TYPE_4__ * 
-function list_remove void | link struct list *

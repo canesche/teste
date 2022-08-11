@@ -1,0 +1,2 @@
+struct TYPE_3__ | CurrentTcpQueueSize int 
+function CedarGetCurrentTcpQueueSize int | c struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct super_block | s_blocksize_bits int | s_blocksize int 
+function get_bit_address void | s struct super_block * | block int | bmap_nr unsigned int * | offset unsigned int *

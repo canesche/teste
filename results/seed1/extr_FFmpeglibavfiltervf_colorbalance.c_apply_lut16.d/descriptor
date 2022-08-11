@@ -1,6 +1,0 @@
-struct TYPE_7__ | out struct TYPE_9__ * | in struct TYPE_9__ * 
-struct TYPE_11__ | outputs struct TYPE_10__ ** | priv struct TYPE_8__ * 
-struct TYPE_10__ | w const int 
-struct TYPE_9__ | height int | linesize const int * | data long * 
-struct TYPE_8__ | rgba_map int * | step int | lut unsigned long ** 
-function apply_lut16 int | ctx struct TYPE_11__ * | arg void * | jobnr int | nb_jobs int

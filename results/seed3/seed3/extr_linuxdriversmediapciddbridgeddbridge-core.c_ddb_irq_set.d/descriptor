@@ -1,0 +1,4 @@
+struct ddb_irq | handler void (*)(void *) | data void * 
+struct ddb | link struct TYPE_2__ * 
+struct TYPE_2__ | irq struct ddb_irq * 
+function ddb_irq_set struct ddb_irq * | dev struct ddb * | link unsigned long | nr unsigned long | handler void (*)(void *) | data void *

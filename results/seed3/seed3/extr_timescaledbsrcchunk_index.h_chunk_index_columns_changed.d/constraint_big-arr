@@ -1,0 +1,1 @@
+value(hypertable_natts) == 255, value(hypertable_has_oid) == 255, length(chunkdesc) == 65025

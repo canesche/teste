@@ -1,0 +1,2 @@
+struct fb_videomode | xres long | yres long | pixclock long | hsync_len long | vsync_len long | left_margin long | right_margin long | upper_margin long | lower_margin long | sync long | vmode long 
+function fb_mode_is_equal int | mode1 const struct fb_videomode * | mode2 const struct fb_videomode *

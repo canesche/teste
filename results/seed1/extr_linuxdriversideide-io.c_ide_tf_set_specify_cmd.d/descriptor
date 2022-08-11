@@ -1,3 +1,0 @@
-struct ide_taskfile | lbam int | lbah int | device int | command int | lbal int | nsect int 
-struct TYPE_3__ | cyl int | head int | select int | sect int 
-function ide_tf_set_specify_cmd void | drive struct TYPE_3__ * | tf struct ide_taskfile *

@@ -1,0 +1,2 @@
+struct usb_audio_control | data int * 
+function generic_set_cmd int | con struct usb_audio_control * | cmd unsigned long | value int

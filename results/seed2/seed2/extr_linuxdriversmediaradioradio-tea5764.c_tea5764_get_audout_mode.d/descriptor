@@ -1,0 +1,3 @@
+struct tea5764_regs | tnctrl int 
+struct tea5764_device | regs struct tea5764_regs 
+function tea5764_get_audout_mode int | radio struct tea5764_device *

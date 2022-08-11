@@ -1,2 +1,0 @@
-struct usb_function | dummy int 
-function f_audio_disable void | f struct usb_function *

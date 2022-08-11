@@ -1,0 +1,3 @@
+struct device_attribute | dummy int 
+struct device | dummy int 
+function redirect_show int | device struct device * | attr struct device_attribute * | buf char *

@@ -1,0 +1,5 @@
+struct TYPE_6__ | array struct TYPE_5__ * 
+struct sci_unsolicited_frame_control | buffers struct TYPE_6__ 
+struct TYPE_5__ | header struct TYPE_4__ * 
+struct TYPE_4__ | data int 
+function sci_unsolicited_frame_control_get_header enum sci_status | uf_control struct sci_unsolicited_frame_control * | frame_index unsigned long | frame_header void **

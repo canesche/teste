@@ -1,0 +1,3 @@
+struct mwifiex_private | dummy int 
+struct device_node | dummy int 
+function mwifiex_dnld_dt_cfgdata int | priv struct mwifiex_private * | node struct device_node * | prefix const char *

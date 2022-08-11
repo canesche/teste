@@ -1,0 +1,5 @@
+struct TYPE_7__ | timeOffset long | clampTime long | optimalStageIteratorFunc int | numUnfoggedPasses int | stages int | remappedShader struct TYPE_7__ * 
+struct TYPE_6__ | floatTime long 
+struct TYPE_9__ | refdef struct TYPE_6__ 
+struct TYPE_8__ | fogNum int | shaderTime long | shader struct TYPE_7__ * | currentStageIteratorFunc int | numPasses int | xstages int | dlightBits long | numVertexes long | numIndexes long 
+function RB_BeginSurface void | shader struct TYPE_7__ * | fogNum int

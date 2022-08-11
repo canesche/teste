@@ -1,0 +1,2 @@
+struct TYPE_3__ | DA int * | IA unsigned long * 
+function get_data_global int | LG struct TYPE_3__ * | index int

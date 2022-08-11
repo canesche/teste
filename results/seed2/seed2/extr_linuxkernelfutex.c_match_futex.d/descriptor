@@ -1,0 +1,3 @@
+struct TYPE_2__ | word long | ptr long | offset long 
+struct futex_key | both struct TYPE_2__ 
+function match_futex int | key1 union futex_key * | key2 union futex_key *

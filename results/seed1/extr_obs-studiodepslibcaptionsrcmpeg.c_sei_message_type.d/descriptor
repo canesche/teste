@@ -1,2 +1,0 @@
-struct _sei_message_t | type int 
-function sei_message_type int | msg int *

@@ -1,2 +1,0 @@
-struct device | dummy int 
-function vivid_pdev_release void | dev struct device *

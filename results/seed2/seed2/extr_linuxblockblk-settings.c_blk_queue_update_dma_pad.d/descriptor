@@ -1,0 +1,2 @@
+struct request_queue | dma_pad_mask unsigned int 
+function blk_queue_update_dma_pad void | q struct request_queue * | mask unsigned int

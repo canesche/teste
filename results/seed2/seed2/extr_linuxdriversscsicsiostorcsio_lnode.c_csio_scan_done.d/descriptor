@@ -1,0 +1,2 @@
+struct csio_lnode | tgt_scan_tick unsigned long | last_scan_ntgts long | n_scsi_tgts long 
+function csio_scan_done int | ln struct csio_lnode * | ticks unsigned long | time unsigned long | max_scan_ticks unsigned long | delta_scan_ticks unsigned long

@@ -1,2 +1,0 @@
-struct ntfs_boot_sector | bsZeroed_3 int | bsZeroed_2 int | bsZeroed_1 int | bsZeroed_0 int * | bsResSectors int 
-function ntfs_check_zero_fields int | sb const struct ntfs_boot_sector *

@@ -1,0 +1,2 @@
+struct priv | table_window int * | buf_overlap int * | num_channels long | buf_pre_corr int * | samples_overlap long | frames_search int | buf_queue long 
+function best_overlap_offset_s16 int | s struct priv *

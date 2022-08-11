@@ -1,0 +1,3 @@
+struct panda_inf_priv | dummy int 
+struct panda_dev_priv | interfaces struct panda_inf_priv ** 
+function panda_get_inf_from_bus_id struct panda_inf_priv * | priv_dev struct panda_dev_priv * | bus_id int

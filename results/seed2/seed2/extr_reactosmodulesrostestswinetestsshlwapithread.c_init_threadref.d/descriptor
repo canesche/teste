@@ -1,0 +1,3 @@
+struct TYPE_4__ | lpVtbl int * 
+struct TYPE_5__ | ref int * | IUnknown_iface struct TYPE_4__ 
+function init_threadref void | iface struct TYPE_5__ * | refcount int *

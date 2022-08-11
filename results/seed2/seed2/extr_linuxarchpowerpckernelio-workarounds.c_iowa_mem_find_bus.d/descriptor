@@ -1,0 +1,2 @@
+struct iowa_bus | dummy int 
+function iowa_mem_find_bus struct iowa_bus * | addr const int

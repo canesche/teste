@@ -1,0 +1,2 @@
+struct urb | status int 
+function mt7601u_urb_has_error int | urb struct urb *

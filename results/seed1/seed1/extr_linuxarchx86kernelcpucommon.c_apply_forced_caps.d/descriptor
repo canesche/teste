@@ -1,0 +1,2 @@
+struct cpuinfo_x86 | x86_capability int * 
+function apply_forced_caps void | c struct cpuinfo_x86 *

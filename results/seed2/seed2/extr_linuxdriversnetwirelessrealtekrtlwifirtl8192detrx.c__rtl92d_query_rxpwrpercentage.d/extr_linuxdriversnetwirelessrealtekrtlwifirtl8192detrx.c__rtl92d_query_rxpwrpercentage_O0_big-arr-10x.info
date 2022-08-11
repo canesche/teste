@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessrealtekrtlwifirtl8192detrx.c__rtl92d_query_rxpwrpercentage.d/extr_linuxdriversnetwirelessrealtekrtlwifirtl8192detrx.c__rtl92d_query_rxpwrpercentage_O0::_rtl92d_query_rxpwrpercentage(62)"
+  }
+]

@@ -1,0 +1,2 @@
+struct lib80211_tkip_data | flags unsigned long 
+function lib80211_tkip_get_flags unsigned long | priv void *

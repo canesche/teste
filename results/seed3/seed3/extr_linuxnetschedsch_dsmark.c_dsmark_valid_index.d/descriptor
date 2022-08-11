@@ -1,0 +1,2 @@
+struct dsmark_qdisc_data | indices long 
+function dsmark_valid_index int | p struct dsmark_qdisc_data * | index long

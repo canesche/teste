@@ -1,0 +1,3 @@
+struct qdio_q | nr int | irq_ptr struct TYPE_2__ * 
+struct TYPE_2__ | nr_output_qs int 
+function multicast_outbound int | q struct qdio_q *

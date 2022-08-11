@@ -1,0 +1,1 @@
+value(bytes_per_frame) == 255, length(line6pcm) == 65025, length(urb_out) == 65025

@@ -1,3 +1,0 @@
-struct TYPE_3__ | address long 
-struct TYPE_4__ | gaddr struct TYPE_3__ 
-function lpit_read_residency_count_address int | address long *

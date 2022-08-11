@@ -1,0 +1,2 @@
+struct ieee80211_device | modulation int | freq_band int 
+function ieee80211_is_valid_mode int | ieee struct ieee80211_device * | mode int

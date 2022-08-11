@@ -1,2 +1,0 @@
-struct ad714x_chip | sensor_val int * 
-function ad714x_cal_abs_pos int | ad714x struct ad714x_chip * | start_stage int | end_stage int | highest_stage int | max_coord int

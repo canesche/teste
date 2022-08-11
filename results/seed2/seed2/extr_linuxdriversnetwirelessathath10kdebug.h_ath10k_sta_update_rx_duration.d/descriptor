@@ -1,0 +1,3 @@
+struct ath10k_fw_stats | dummy int 
+struct ath10k | dummy int 
+function ath10k_sta_update_rx_duration void | ar struct ath10k * | stats struct ath10k_fw_stats *

@@ -1,2 +1,0 @@
-struct uart_port | minor int 
-function serial_index int | port struct uart_port *

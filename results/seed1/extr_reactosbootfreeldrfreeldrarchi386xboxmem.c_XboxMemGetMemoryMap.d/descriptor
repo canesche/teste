@@ -1,2 +1,0 @@
-struct TYPE_4__ | BasePage int | PageCount int | MemoryType int 
-function XboxMemGetMemoryMap struct TYPE_4__ * | MemoryMapSize int *

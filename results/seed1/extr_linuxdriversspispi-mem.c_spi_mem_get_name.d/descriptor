@@ -1,2 +1,0 @@
-struct spi_mem | name const char * 
-function spi_mem_get_name const char * | mem struct spi_mem *

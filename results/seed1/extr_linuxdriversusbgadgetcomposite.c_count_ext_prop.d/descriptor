@@ -1,5 +1,0 @@
-struct usb_os_desc | ext_prop_count int | ext_compat_id long 
-struct usb_function | os_desc_n int | os_desc_table struct TYPE_2__ * 
-struct usb_configuration | interface struct usb_function ** 
-struct TYPE_2__ | if_id int | os_desc struct usb_os_desc * 
-function count_ext_prop int | c struct usb_configuration * | interface int

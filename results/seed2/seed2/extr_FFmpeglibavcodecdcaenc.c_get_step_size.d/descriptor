@@ -1,0 +1,2 @@
+struct TYPE_3__ | bitrate_index int | abits unsigned long ** 
+function get_step_size int | c struct TYPE_3__ * | ch int | band int

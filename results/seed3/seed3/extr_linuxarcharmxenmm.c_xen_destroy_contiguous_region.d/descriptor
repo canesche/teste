@@ -1,0 +1,1 @@
+function xen_destroy_contiguous_region void | pstart int | order unsigned int

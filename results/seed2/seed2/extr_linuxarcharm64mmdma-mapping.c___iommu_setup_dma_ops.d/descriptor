@@ -1,0 +1,3 @@
+struct iommu_ops | dummy int 
+struct device | dummy int 
+function __iommu_setup_dma_ops void | dev struct device * | dma_base int | size int | iommu const struct iommu_ops *

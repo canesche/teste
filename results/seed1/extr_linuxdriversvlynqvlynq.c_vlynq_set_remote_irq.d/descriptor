@@ -1,2 +1,0 @@
-struct vlynq_device | irq_start int | irq_end int | local_irq int | remote_irq int | enabled long 
-function vlynq_set_remote_irq int | dev struct vlynq_device * | virq int

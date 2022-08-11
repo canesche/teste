@@ -1,0 +1,3 @@
+struct eni_tx | send int 
+struct eni_dev | tx struct eni_tx * 
+function alloc_tx struct eni_tx * | eni_dev struct eni_dev * | ubr int

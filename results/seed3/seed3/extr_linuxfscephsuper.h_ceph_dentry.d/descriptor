@@ -1,0 +1,3 @@
+struct dentry | d_fsdata long 
+struct ceph_dentry_info | dummy int 
+function ceph_dentry struct ceph_dentry_info * | dentry struct dentry *

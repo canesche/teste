@@ -1,0 +1,2 @@
+struct rtsx_pcr | flags int | card_exist const unsigned int 
+function rtsx_pci_card_exclusive_check int | pcr struct rtsx_pcr * | card int

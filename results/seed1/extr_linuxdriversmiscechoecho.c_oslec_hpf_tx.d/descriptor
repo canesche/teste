@@ -1,2 +1,0 @@
-struct oslec_state | adaption_mode int | tx_1 int | tx_2 int 
-function oslec_hpf_tx int | ec struct oslec_state * | tx int

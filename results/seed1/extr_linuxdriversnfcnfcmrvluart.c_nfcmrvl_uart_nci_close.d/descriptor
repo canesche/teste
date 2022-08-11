@@ -1,2 +1,0 @@
-struct nfcmrvl_private | dummy int 
-function nfcmrvl_uart_nci_close int | priv struct nfcmrvl_private *

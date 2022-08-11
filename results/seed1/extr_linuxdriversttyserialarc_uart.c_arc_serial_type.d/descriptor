@@ -1,2 +1,0 @@
-struct uart_port | type long 
-function arc_serial_type const char * | port struct uart_port *

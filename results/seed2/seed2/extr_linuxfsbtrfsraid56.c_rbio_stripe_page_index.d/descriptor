@@ -1,0 +1,2 @@
+struct btrfs_raid_bio | stripe_npages int 
+function rbio_stripe_page_index int | rbio struct btrfs_raid_bio * | stripe int | index int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | pagecount int | freepagecount int 
+function sqliterkPagerGetValidPageCount int | pager struct TYPE_3__ *

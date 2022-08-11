@@ -1,0 +1,4 @@
+struct usb_stream_kernel | out_phase_peeked int | out_phase int | freqn int | s struct usb_stream * 
+struct TYPE_2__ | frame_size int 
+struct usb_stream | cfg struct TYPE_2__ 
+function usb_stream_next_packet_size unsigned int | sk struct usb_stream_kernel *

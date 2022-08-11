@@ -1,2 +1,0 @@
-struct adapter | dummy int 
-function rtw_get_mgntframe_raid int | adapter struct adapter * | network_type unsigned char

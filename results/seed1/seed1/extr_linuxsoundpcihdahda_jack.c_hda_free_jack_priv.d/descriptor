@@ -1,0 +1,3 @@
+struct snd_jack | private_data struct hda_jack_tbl * 
+struct hda_jack_tbl | jack int * | nid long 
+function hda_free_jack_priv void | jack struct snd_jack *

@@ -1,0 +1,5 @@
+struct drm_plane_state | crtc int | fb struct drm_framebuffer * 
+struct drm_plane | dummy int 
+struct drm_framebuffer | format struct TYPE_2__ * 
+struct TYPE_2__ | format int 
+function fsl_dcu_drm_plane_atomic_check int | plane struct drm_plane * | state struct drm_plane_state *

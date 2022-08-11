@@ -1,0 +1,2 @@
+struct ipw_scan_request_ext | scan_type int * 
+function ipw_get_scan_type int | scan struct ipw_scan_request_ext * | index int

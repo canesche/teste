@@ -1,3 +1,0 @@
-struct initio_host | msg char * | active_tc struct TYPE_2__ * 
-struct TYPE_2__ | flags unsigned long 
-function initio_msgin_sync int | host struct initio_host *

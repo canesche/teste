@@ -1,2 +1,0 @@
-struct dss_debugfs_entry | dummy int 
-function dss_debugfs_remove_file void | entry struct dss_debugfs_entry *

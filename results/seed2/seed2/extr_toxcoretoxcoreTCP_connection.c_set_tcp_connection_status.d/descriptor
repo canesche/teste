@@ -1,0 +1,3 @@
+struct TYPE_5__ | connections struct TYPE_4__ * 
+struct TYPE_4__ | tcp_connection unsigned int | status unsigned int | connection_id int 
+function set_tcp_connection_status int | con_to struct TYPE_5__ * | tcp_connections_number unsigned int | status unsigned int | connection_id int

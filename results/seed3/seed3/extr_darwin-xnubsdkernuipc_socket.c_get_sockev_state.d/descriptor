@@ -1,0 +1,2 @@
+struct socket | so_state int 
+function get_sockev_state void | so struct socket * | statep int *

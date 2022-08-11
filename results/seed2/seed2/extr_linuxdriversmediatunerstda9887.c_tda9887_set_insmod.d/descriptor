@@ -1,0 +1,3 @@
+struct tda9887_priv | data char * 
+struct dvb_frontend | analog_demod_priv struct tda9887_priv * 
+function tda9887_set_insmod int | fe struct dvb_frontend *

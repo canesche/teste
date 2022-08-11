@@ -1,2 +1,0 @@
-struct mal_instance | features unsigned long 
-function mal_has_feature int | dev struct mal_instance * | feature unsigned long

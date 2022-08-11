@@ -1,0 +1,2 @@
+struct rtw_cbuf | write int | read int 
+function rtw_cbuf_full int | cbuf struct rtw_cbuf *

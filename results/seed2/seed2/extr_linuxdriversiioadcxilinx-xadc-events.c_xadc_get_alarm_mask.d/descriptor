@@ -1,0 +1,2 @@
+struct iio_chan_spec | type long | channel int 
+function xadc_get_alarm_mask unsigned int | chan const struct iio_chan_spec *

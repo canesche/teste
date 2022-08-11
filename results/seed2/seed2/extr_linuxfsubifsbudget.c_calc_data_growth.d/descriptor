@@ -1,0 +1,4 @@
+struct TYPE_2__ | inode_budget int | dent_budget long | page_budget long 
+struct ubifs_info | bi struct TYPE_2__ 
+struct ubifs_budget_req | new_ino_d long | new_dent long | new_page long | new_ino long 
+function calc_data_growth int | c const struct ubifs_info * | req const struct ubifs_budget_req *

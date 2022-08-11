@@ -1,0 +1,4 @@
+struct vm_area_struct | vm_private_data struct gntdev_grant_map * 
+struct page | dummy int 
+struct gntdev_grant_map | pages_vm_start unsigned long | pages struct page ** 
+function gntdev_vma_find_special_page struct page * | vma struct vm_area_struct * | addr unsigned long

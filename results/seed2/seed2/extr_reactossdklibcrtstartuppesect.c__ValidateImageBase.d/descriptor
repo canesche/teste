@@ -1,0 +1,4 @@
+struct TYPE_6__ | e_magic long | e_lfanew long 
+struct TYPE_5__ | Signature long | OptionalHeader int 
+struct TYPE_4__ | Magic long 
+function _ValidateImageBase int | pImageBase long

@@ -1,0 +1,2 @@
+struct pkcs7_parse_context | raw_serial_size unsigned long | raw_serial const void * 
+function pkcs7_sig_note_serial int | context void * | hdrlen unsigned long | tag unsigned char | value const void * | vlen unsigned long

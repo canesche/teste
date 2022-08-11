@@ -1,0 +1,2 @@
+struct i740fb_par | has_sgram int 
+function i740_calc_fifo int | par struct i740fb_par * | freq int | bpp int

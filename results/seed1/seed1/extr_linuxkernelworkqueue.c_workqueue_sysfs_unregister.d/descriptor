@@ -1,0 +1,2 @@
+struct workqueue_struct | dummy int 
+function workqueue_sysfs_unregister void | wq struct workqueue_struct *

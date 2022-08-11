@@ -1,2 +1,0 @@
-struct slim_val_inf | num_bytes unsigned long | comp int * | wbuf int * | rbuf int * | start_offset int 
-function slim_fill_msg void | msg struct slim_val_inf * | addr int | count unsigned long | rbuf int * | wbuf int *

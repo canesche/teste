@@ -1,0 +1,2 @@
+struct cfil_queue | q_start int 
+function cfil_queue_offset_first int | cfq struct cfil_queue *

@@ -1,0 +1,2 @@
+struct odm_dm_struct | dummy int 
+function odm_SignalScaleMapping_92CSeries int | dm_odm struct odm_dm_struct * | CurrSig int

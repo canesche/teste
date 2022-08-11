@@ -1,0 +1,1 @@
+function hdmi_audio_sample_size_get_name const char * | sample_size enum hdmi_audio_sample_size

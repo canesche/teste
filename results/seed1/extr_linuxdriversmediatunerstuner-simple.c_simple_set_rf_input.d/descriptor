@@ -1,3 +1,0 @@
-struct tuner_simple_priv | type int 
-struct dvb_frontend | tuner_priv struct tuner_simple_priv * 
-function simple_set_rf_input void | fe struct dvb_frontend * | config int * | cb int * | rf unsigned int

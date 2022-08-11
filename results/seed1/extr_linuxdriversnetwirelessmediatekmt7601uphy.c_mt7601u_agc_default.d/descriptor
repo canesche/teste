@@ -1,3 +1,0 @@
-struct mt7601u_dev | ee struct TYPE_2__ * 
-struct TYPE_2__ | lna_gain int 
-function mt7601u_agc_default int | dev struct mt7601u_dev *

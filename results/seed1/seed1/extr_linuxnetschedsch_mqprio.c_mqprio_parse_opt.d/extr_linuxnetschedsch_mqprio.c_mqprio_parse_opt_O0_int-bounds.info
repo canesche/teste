@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxnetschedsch_mqprio.c_mqprio_parse_opt.d/extr_linuxnetschedsch_mqprio.c_mqprio_parse_opt_O0::mqprio_parse_opt(68)"
+  }
+]

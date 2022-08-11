@@ -1,0 +1,2 @@
+struct agp_memory | dummy int 
+function intel_820_tlbflush void | mem struct agp_memory *

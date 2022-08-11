@@ -1,4 +1,0 @@
-struct sfb_sched_data | bins struct TYPE_2__ * 
-struct sfb_bucket | qlen long 
-struct TYPE_2__ | bins struct sfb_bucket ** 
-function decrement_one_qlen void | sfbhash unsigned long | slot unsigned long | q struct sfb_sched_data *

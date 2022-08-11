@@ -1,0 +1,2 @@
+struct TYPE_2__ | lines int | src char ** 
+function ldbGetSourceLine char * | line int

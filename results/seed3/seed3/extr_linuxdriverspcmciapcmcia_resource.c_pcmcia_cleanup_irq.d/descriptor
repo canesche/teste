@@ -1,0 +1,2 @@
+struct pcmcia_socket | pcmcia_irq long 
+function pcmcia_cleanup_irq void | s struct pcmcia_socket *

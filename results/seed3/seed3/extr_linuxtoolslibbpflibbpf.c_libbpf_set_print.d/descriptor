@@ -1,0 +1,1 @@
+function libbpf_set_print void | warn void * | info void * | debug void *

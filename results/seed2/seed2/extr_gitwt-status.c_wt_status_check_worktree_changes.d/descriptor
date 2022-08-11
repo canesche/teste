@@ -1,0 +1,5 @@
+struct wt_status_change_data | worktree_status long | dirty_submodule long 
+struct TYPE_4__ | nr int | items struct TYPE_3__ * 
+struct wt_status | change struct TYPE_4__ 
+struct TYPE_3__ | util struct wt_status_change_data * 
+function wt_status_check_worktree_changes int | s struct wt_status * | dirty_submodules int *

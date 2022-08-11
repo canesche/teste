@@ -1,0 +1,1 @@
+function _RpcRemoteFindFirstPrinterChangeNotification int | hPrinter int | fdwFlags int | fdwOptions int | pszLocalMachine int * | dwPrinterLocal int | cbBuffer int | pBuffer int *

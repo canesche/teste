@@ -1,0 +1,3 @@
+struct TYPE_4__ | len unsigned long 
+struct TYPE_5__ | args struct TYPE_4__ 
+function ngx_http_lua_ffi_req_get_querystring_len unsigned long | r struct TYPE_5__ *

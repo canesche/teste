@@ -1,0 +1,2 @@
+struct dc_context | dummy int 
+function dm_dtn_log_begin void | ctx struct dc_context *

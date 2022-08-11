@@ -1,5 +1,0 @@
-struct TYPE_10__ | streams struct TYPE_8__ ** 
-struct TYPE_9__ | nb_streams int | streams unsigned long * 
-struct TYPE_8__ | codecpar struct TYPE_7__ * 
-struct TYPE_7__ | sample_rate int 
-function check_matching_sample_rate int | s struct TYPE_10__ * | as struct TYPE_9__ *

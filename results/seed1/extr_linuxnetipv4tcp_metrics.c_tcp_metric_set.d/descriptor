@@ -1,2 +1,0 @@
-struct tcp_metrics_block | tcpm_vals int * 
-function tcp_metric_set void | tm struct tcp_metrics_block * | idx enum tcp_metric_index | val int

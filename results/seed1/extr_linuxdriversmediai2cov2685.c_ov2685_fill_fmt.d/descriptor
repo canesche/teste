@@ -1,3 +1,0 @@
-struct v4l2_mbus_framefmt | field int | height int | width int | code int 
-struct ov2685_mode | height int | width int 
-function ov2685_fill_fmt void | mode const struct ov2685_mode * | fmt struct v4l2_mbus_framefmt *

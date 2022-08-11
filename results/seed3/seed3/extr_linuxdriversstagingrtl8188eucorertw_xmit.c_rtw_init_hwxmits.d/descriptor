@@ -1,0 +1,2 @@
+struct hw_xmit | accnt long 
+function rtw_init_hwxmits void | phwxmit struct hw_xmit * | entry int

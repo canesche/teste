@@ -1,1 +1,0 @@
-function processor_set_stack_usage int | pset int | totalp unsigned int * | spacep int * | residentp int * | maxusagep int * | maxstackp int *

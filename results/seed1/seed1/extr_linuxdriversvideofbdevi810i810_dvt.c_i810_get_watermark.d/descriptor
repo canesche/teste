@@ -1,0 +1,4 @@
+struct mode_registers | bpp24_133 int | bpp16_133 int | bpp8_133 int | bpp24_100 int | bpp16_100 int | bpp8_100 int 
+struct i810fb_par | mem_freq int | regs struct mode_registers 
+struct fb_var_screeninfo | bits_per_pixel int 
+function i810_get_watermark int | var struct fb_var_screeninfo * | par struct i810fb_par *

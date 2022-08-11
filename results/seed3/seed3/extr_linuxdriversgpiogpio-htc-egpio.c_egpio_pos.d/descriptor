@@ -1,0 +1,2 @@
+struct egpio_info | reg_shift int 
+function egpio_pos int | ei struct egpio_info * | bit int

@@ -1,0 +1,2 @@
+struct dma_desc | des3 long | des2 long | des1 long | des0 long 
+function dwxgmac2_clear void | p struct dma_desc *

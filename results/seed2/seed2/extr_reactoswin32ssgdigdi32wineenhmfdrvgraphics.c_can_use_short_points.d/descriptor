@@ -1,0 +1,2 @@
+struct TYPE_3__ | x int | y int 
+function can_use_short_points int | pts const struct TYPE_3__ * | count unsigned long

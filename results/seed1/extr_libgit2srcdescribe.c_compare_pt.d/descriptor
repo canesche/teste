@@ -1,2 +1,0 @@
-struct possible_tag | depth long | found_order long 
-function compare_pt int | a_ const void * | b_ const void *

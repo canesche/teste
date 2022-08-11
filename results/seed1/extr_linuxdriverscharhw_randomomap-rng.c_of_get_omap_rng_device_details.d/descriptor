@@ -1,3 +1,0 @@
-struct platform_device | dummy int 
-struct omap_rng_dev | dummy int 
-function of_get_omap_rng_device_details int | omap_rng struct omap_rng_dev * | pdev struct platform_device *

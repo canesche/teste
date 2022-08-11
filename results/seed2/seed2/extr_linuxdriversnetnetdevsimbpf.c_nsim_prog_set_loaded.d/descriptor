@@ -1,0 +1,5 @@
+struct nsim_bpf_bound_prog | is_loaded int 
+struct bpf_prog | aux struct TYPE_4__ * 
+struct TYPE_4__ | offload struct TYPE_3__ * 
+struct TYPE_3__ | dev_priv struct nsim_bpf_bound_prog * 
+function nsim_prog_set_loaded void | prog struct bpf_prog * | loaded int

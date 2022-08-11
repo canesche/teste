@@ -1,0 +1,2 @@
+struct game_capture | cy int | active long 
+function game_capture_height int | data void *

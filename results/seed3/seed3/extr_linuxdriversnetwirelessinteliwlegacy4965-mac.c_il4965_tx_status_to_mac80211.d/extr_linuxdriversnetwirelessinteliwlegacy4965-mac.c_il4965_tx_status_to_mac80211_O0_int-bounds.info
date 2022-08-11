@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetwirelessinteliwlegacy4965-mac.c_il4965_tx_status_to_mac80211.d/extr_linuxdriversnetwirelessinteliwlegacy4965-mac.c_il4965_tx_status_to_mac80211_O0::il4965_tx_status_to_mac80211(68)"
+  }
+]

@@ -1,0 +1,3 @@
+struct v4l2_tuner | index int 
+struct file | dummy int 
+function vivid_sdr_s_tuner int | file struct file * | fh void * | vt const struct v4l2_tuner *

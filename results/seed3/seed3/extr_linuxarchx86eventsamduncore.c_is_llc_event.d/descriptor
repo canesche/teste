@@ -1,0 +1,4 @@
+struct perf_event | pmu struct TYPE_3__ * 
+struct TYPE_4__ | type long 
+struct TYPE_3__ | type long 
+function is_llc_event int | event struct perf_event *

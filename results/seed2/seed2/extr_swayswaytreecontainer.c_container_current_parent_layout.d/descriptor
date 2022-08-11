@@ -1,0 +1,7 @@
+struct TYPE_10__ | workspace struct TYPE_9__ * | parent struct TYPE_7__ * 
+struct sway_container | current struct TYPE_10__ 
+struct TYPE_8__ | layout int 
+struct TYPE_9__ | current struct TYPE_8__ 
+struct TYPE_6__ | layout int 
+struct TYPE_7__ | current struct TYPE_6__ 
+function container_current_parent_layout enum sway_container_layout | con struct sway_container *

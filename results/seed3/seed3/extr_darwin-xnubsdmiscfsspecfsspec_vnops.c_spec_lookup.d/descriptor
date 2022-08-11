@@ -1,0 +1,2 @@
+struct vnop_lookup_args | a_vpp int ** 
+function spec_lookup int | ap struct vnop_lookup_args *

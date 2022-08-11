@@ -1,1 +1,0 @@
-function rs600_gart_get_page_entry int | addr int | flags int

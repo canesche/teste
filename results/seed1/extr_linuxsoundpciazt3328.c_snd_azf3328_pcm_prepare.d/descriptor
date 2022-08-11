@@ -1,4 +1,0 @@
-struct snd_pcm_substream | runtime struct snd_pcm_runtime * 
-struct snd_pcm_runtime | dma_addr int | private_data struct snd_azf3328_codec_data * 
-struct snd_azf3328_codec_data | dma_base int 
-function snd_azf3328_pcm_prepare int | substream struct snd_pcm_substream *

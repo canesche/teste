@@ -1,0 +1,4 @@
+struct gendisk | private_data long | queue struct TYPE_3__ * 
+struct TYPE_4__ | LogicalDriveInitiallyAccessible int * 
+struct TYPE_3__ | queuedata struct TYPE_4__ * 
+function DAC960_check_events unsigned int | disk struct gendisk * | clearing unsigned int

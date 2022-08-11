@@ -1,0 +1,2 @@
+struct bttv_format | flags int 
+function bttv_get_width_mask_vid_cap void | fmt const struct bttv_format * | width_mask unsigned int * | width_bias unsigned int *

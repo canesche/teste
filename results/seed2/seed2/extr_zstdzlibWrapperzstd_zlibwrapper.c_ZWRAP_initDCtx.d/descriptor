@@ -1,0 +1,3 @@
+struct TYPE_4__ | size long | pos long 
+struct TYPE_5__ | outBuffer struct TYPE_4__ | errorCount long 
+function ZWRAP_initDCtx void | zwd struct TYPE_5__ *

@@ -1,2 +1,0 @@
-struct vnic_intr | ctrl int * 
-function vnic_intr_free void | intr struct vnic_intr *

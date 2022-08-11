@@ -1,0 +1,4 @@
+struct scsi_sgl_task_params | total_buffer_size int 
+struct scsi_dif_task_params | dif_on_network int 
+struct iscsi_task_params | rx_io_size int | tx_io_size int 
+function calc_rw_task_size int | task_params struct iscsi_task_params * | task_type enum iscsi_task_type | sgl_task_params struct scsi_sgl_task_params * | dif_task_params struct scsi_dif_task_params *

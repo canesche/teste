@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 23,
+    phantoms: 20,
+    exit: true,
+    halt: false,
+    edges: 45,
+    static: {
+      instructions: 95,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 95,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetwirelessathath9kdebug.c_ath_debug_stat_interrupt.d/extr_linuxdriversnetwirelessathath9kdebug.c_ath_debug_stat_interrupt_O0::ath_debug_stat_interrupt(95)"
+  }
+]

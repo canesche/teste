@@ -1,2 +1,0 @@
-struct TYPE_3__ | bitshift int | blocksize int 
-function fix_bitshift void | s struct TYPE_3__ * | buffer unsigned int *

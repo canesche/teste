@@ -1,2 +1,0 @@
-struct dst_entry | dummy int 
-function dn_dst_check struct dst_entry * | dst struct dst_entry * | cookie int

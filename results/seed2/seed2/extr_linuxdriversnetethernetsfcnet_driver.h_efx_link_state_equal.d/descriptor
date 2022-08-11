@@ -1,0 +1,2 @@
+struct efx_link_state | up long | fd long | fc long | speed long 
+function efx_link_state_equal int | left const struct efx_link_state * | right const struct efx_link_state *

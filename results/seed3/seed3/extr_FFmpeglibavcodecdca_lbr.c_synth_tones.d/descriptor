@@ -1,0 +1,3 @@
+struct TYPE_5__ | tonal_bounds int *** | tones struct TYPE_4__ * 
+struct TYPE_4__ | amp int * | phs int * | f_delt unsigned long | x_freq int | ph_rot long 
+function synth_tones void | s struct TYPE_5__ * | ch int | values float * | group int | group_sf int | synth_idx int

@@ -1,6 +1,0 @@
-struct tcm_qla2xxx_lport | qla_vha struct scsi_qla_host * 
-struct TYPE_4__ | target_lport_ptr void * 
-struct scsi_qla_host | vha_tgt struct TYPE_4__ | hw struct qla_hw_data * 
-struct TYPE_3__ | tgt_ops int * 
-struct qla_hw_data | tgt struct TYPE_3__ 
-function tcm_qla2xxx_lport_register_cb int | vha struct scsi_qla_host * | target_lport_ptr void * | npiv_wwpn int | npiv_wwnn int

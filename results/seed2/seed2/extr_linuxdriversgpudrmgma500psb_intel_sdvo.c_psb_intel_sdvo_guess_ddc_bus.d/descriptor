@@ -1,0 +1,2 @@
+struct psb_intel_sdvo | ddc_bus int 
+function psb_intel_sdvo_guess_ddc_bus void | sdvo struct psb_intel_sdvo *

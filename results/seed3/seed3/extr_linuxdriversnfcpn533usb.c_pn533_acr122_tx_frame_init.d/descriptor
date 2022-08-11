@@ -1,0 +1,4 @@
+struct TYPE_4__ | class int | p2 long | p1 long | ins long 
+struct TYPE_3__ | datalen int | params long * | seq long | slot long | type int 
+struct pn533_acr122_tx_frame | datalen int | apdu struct TYPE_4__ | data int * | ccid struct TYPE_3__ 
+function pn533_acr122_tx_frame_init void | _frame void * | cmd_code int

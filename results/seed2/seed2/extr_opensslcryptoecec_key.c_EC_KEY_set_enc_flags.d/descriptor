@@ -1,0 +1,2 @@
+struct TYPE_3__ | enc_flag unsigned int 
+function EC_KEY_set_enc_flags void | key struct TYPE_3__ * | flags unsigned int

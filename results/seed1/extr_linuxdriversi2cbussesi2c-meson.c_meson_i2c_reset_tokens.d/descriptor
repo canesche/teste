@@ -1,2 +1,0 @@
-struct meson_i2c | num_tokens long | tokens long * 
-function meson_i2c_reset_tokens void | i2c struct meson_i2c *

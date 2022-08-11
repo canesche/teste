@@ -1,0 +1,2 @@
+struct kprobe | dummy int 
+function arch_check_ftrace_location int | p struct kprobe *

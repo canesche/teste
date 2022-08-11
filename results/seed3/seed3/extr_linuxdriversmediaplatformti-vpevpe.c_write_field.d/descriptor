@@ -1,0 +1,1 @@
+function write_field void | valp int * | field int | mask int | shift int

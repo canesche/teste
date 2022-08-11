@@ -1,0 +1,2 @@
+struct snd_fw_async_midi_port | idling int | error int | on_sysex int | running_status long 
+function snd_fw_async_midi_port_init void | port struct snd_fw_async_midi_port *

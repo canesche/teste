@@ -1,5 +1,0 @@
-struct snd_ac97 | private_data struct ensoniq * 
-struct TYPE_3__ | ac97 int * 
-struct TYPE_4__ | es1371 struct TYPE_3__ 
-struct ensoniq | u struct TYPE_4__ 
-function snd_ensoniq_mixer_free_ac97 void | ac97 struct snd_ac97 *

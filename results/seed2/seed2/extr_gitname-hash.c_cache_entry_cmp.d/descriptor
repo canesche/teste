@@ -1,0 +1,2 @@
+struct cache_entry | dummy int 
+function cache_entry_cmp int | unused_cmp_data const void * | entry const void * | entry_or_key const void * | remove const void *

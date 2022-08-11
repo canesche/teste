@@ -1,2 +1,0 @@
-struct sk_buff | dummy int 
-function __dev_alloc_skb struct sk_buff * | int | int

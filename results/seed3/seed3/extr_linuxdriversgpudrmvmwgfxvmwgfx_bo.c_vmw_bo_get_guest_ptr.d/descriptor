@@ -1,0 +1,4 @@
+struct TYPE_4__ | mem_type long | start int 
+struct ttm_buffer_object | mem struct TYPE_4__ | offset long 
+struct TYPE_5__ | offset long | gmrId int 
+function vmw_bo_get_guest_ptr void | bo const struct ttm_buffer_object * | ptr struct TYPE_5__ *

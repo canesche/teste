@@ -1,0 +1,2 @@
+struct TYPE_3__ | member_1 int | member_2 int | member_3 int | member_4 int | member_5 int | member_6 int | member_7 int | member_8 int | member_9 int | SmallSectors long | member_11 int | member_10 int | member_0 const int 
+function SelectDosBpb const struct TYPE_3__ * | nSectors long

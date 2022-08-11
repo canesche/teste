@@ -1,2 +1,0 @@
-struct TYPE_3__ | matrix float ** | translate float * 
-function RB_CalcTransformTexMatrix void | tmi const struct TYPE_3__ * | matrix float *

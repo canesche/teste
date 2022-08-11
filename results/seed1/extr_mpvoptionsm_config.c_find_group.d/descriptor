@@ -1,7 +1,0 @@
-struct mpv_global | config struct m_config_shadow * 
-struct m_option | dummy int 
-struct m_config_shadow | root struct m_config * 
-struct m_config_group | group struct TYPE_2__ * 
-struct m_config | num_groups int | groups const struct m_config_group * 
-struct TYPE_2__ | opts const struct m_option * 
-function find_group const struct m_config_group * | global struct mpv_global * | cfg const struct m_option *

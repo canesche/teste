@@ -1,0 +1,2 @@
+struct mmc_data | dummy int 
+function mxcmci_swap_buffers void | data struct mmc_data *

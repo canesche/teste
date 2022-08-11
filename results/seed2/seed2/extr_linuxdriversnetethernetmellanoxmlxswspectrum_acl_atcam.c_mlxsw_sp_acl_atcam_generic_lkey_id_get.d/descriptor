@@ -1,0 +1,5 @@
+struct mlxsw_sp_acl_rule_info | dummy int 
+struct mlxsw_sp_acl_atcam_lkey_id | dummy int 
+struct mlxsw_sp_acl_atcam_region_generic | dummy_lkey_id struct mlxsw_sp_acl_atcam_lkey_id 
+struct mlxsw_sp_acl_atcam_region | priv struct mlxsw_sp_acl_atcam_region_generic * 
+function mlxsw_sp_acl_atcam_generic_lkey_id_get struct mlxsw_sp_acl_atcam_lkey_id * | aregion struct mlxsw_sp_acl_atcam_region * | rulei struct mlxsw_sp_acl_rule_info * | erp_id int

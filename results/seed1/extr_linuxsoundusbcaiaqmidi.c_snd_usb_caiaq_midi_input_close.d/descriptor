@@ -1,2 +1,0 @@
-struct snd_rawmidi_substream | dummy int 
-function snd_usb_caiaq_midi_input_close int | substream struct snd_rawmidi_substream *

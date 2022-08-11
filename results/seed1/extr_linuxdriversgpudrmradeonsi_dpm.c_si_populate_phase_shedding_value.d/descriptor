@@ -1,5 +1,0 @@
-struct radeon_phase_shedding_limits_table | count unsigned int | entries struct TYPE_4__ * 
-struct radeon_device | dummy int 
-struct TYPE_5__ | phase_settings long 
-struct TYPE_4__ | voltage long | sclk long | mclk long 
-function si_populate_phase_shedding_value int | rdev struct radeon_device * | limits const struct radeon_phase_shedding_limits_table * | voltage long | sclk long | mclk long | smc_voltage struct TYPE_5__ *

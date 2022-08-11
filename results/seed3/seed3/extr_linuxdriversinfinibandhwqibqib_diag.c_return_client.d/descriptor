@@ -1,0 +1,3 @@
+struct qib_diag_client | next struct qib_diag_client * | pid long | dd struct qib_devdata * | state int 
+struct qib_devdata | diag_client struct qib_diag_client * 
+function return_client void | dc struct qib_diag_client *

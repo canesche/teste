@@ -1,0 +1,1 @@
+function acpi_ut_bound_string_length long | string const char * | count long

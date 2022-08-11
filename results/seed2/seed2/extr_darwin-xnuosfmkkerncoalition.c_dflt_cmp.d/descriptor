@@ -1,0 +1,2 @@
+struct coal_sort_s | usr_order long | bytes long 
+function dflt_cmp int | a const void * | b const void *

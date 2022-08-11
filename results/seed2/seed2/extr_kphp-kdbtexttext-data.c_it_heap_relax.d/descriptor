@@ -1,0 +1,2 @@
+struct iterator | x int 
+function it_heap_relax void | H struct iterator ** | HN int | cur struct iterator *

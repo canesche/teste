@@ -1,0 +1,2 @@
+struct qm_dqrr_entry | dummy int 
+function dqrr_ptr2idx int | e const struct qm_dqrr_entry *

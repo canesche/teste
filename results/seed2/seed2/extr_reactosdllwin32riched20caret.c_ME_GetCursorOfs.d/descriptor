@@ -1,0 +1,8 @@
+struct TYPE_15__ | nOffset int | pRun struct TYPE_14__ * | pPara struct TYPE_11__ * 
+struct TYPE_12__ | nCharOfs int 
+struct TYPE_13__ | run struct TYPE_12__ 
+struct TYPE_14__ | member struct TYPE_13__ 
+struct TYPE_9__ | nCharOfs int 
+struct TYPE_10__ | para struct TYPE_9__ 
+struct TYPE_11__ | member struct TYPE_10__ 
+function ME_GetCursorOfs int | cursor const struct TYPE_15__ *

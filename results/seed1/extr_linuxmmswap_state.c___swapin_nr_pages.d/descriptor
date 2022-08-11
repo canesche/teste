@@ -1,1 +1,0 @@
-function __swapin_nr_pages unsigned int | prev_offset unsigned long | offset unsigned long | hits int | max_pages int | prev_win int

@@ -1,0 +1,2 @@
+struct lev_set_flags | user_id int 
+function want_write int | type int | rec void *

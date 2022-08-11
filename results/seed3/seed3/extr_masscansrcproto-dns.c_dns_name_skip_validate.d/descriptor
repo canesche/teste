@@ -1,0 +1,1 @@
+function dns_name_skip_validate unsigned int | px const unsigned char * | offset unsigned int | length unsigned int | name_length unsigned int

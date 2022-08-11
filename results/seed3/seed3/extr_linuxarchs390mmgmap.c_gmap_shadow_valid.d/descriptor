@@ -1,0 +1,2 @@
+struct gmap | orig_asce unsigned long | edat_level int | removed long 
+function gmap_shadow_valid int | sg struct gmap * | asce unsigned long | edat_level int

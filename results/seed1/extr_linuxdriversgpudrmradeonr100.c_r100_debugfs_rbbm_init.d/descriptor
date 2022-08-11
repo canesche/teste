@@ -1,2 +1,0 @@
-struct radeon_device | dummy int 
-function r100_debugfs_rbbm_init int | rdev struct radeon_device *

@@ -1,0 +1,1 @@
+function choose_random_location void | input unsigned long | input_size unsigned long | output unsigned long * | output_size unsigned long | virt_addr unsigned long *

@@ -1,4 +1,0 @@
-struct TYPE_6__ | Read int 
-struct TYPE_5__ | p int * 
-struct TYPE_7__ | p struct TYPE_6__ | StateCoder struct TYPE_5__ | buf int * 
-function SeqInFilter_Construct void | p struct TYPE_7__ *

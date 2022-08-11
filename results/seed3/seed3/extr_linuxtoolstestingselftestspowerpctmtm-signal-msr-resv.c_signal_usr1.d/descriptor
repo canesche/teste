@@ -1,0 +1,4 @@
+struct TYPE_5__ | uc_regs struct TYPE_4__ * 
+struct TYPE_6__ | uc_mcontext struct TYPE_5__ | uc_link struct TYPE_6__ * 
+struct TYPE_4__ | gregs unsigned long long * 
+function signal_usr1 void | signum int | info int * | uc void *

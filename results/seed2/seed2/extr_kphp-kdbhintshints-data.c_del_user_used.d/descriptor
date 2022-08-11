@@ -1,0 +1,4 @@
+struct TYPE_7__ | next_used struct TYPE_6__ * | prev_used struct TYPE_5__ * 
+struct TYPE_6__ | prev_used struct TYPE_5__ * 
+struct TYPE_5__ | next_used struct TYPE_6__ * 
+function del_user_used void | u struct TYPE_7__ *

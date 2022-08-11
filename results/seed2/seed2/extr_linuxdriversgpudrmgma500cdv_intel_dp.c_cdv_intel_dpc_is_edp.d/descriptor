@@ -1,0 +1,4 @@
+struct drm_psb_private | child_dev_num int | child_dev struct child_device_config * 
+struct drm_device | dev_private struct drm_psb_private * 
+struct child_device_config | dvo_port long | device_type long 
+function cdv_intel_dpc_is_edp int | dev struct drm_device *

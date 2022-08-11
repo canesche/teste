@@ -1,0 +1,1 @@
+function MSSTYLES_GetNextInteger long | lpStringStart char * | lpStringEnd char * | lpValEnd char ** | value int *

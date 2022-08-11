@@ -1,0 +1,2 @@
+struct dma_fence | dummy int 
+function drm_syncobj_null_fence_get_name const char * | fence struct dma_fence *

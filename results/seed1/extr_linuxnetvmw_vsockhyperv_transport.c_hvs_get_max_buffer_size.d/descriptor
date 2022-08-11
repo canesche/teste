@@ -1,2 +1,0 @@
-struct vsock_sock | dummy int 
-function hvs_get_max_buffer_size int | vsk struct vsock_sock *

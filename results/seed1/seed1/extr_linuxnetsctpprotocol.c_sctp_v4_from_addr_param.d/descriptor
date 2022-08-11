@@ -1,0 +1,7 @@
+struct TYPE_7__ | s_addr int 
+struct TYPE_8__ | addr struct TYPE_7__ 
+struct sctp_addr_param | v4 struct TYPE_8__ 
+struct TYPE_5__ | s_addr int 
+struct TYPE_6__ | sin_addr struct TYPE_5__ | sin_port int | sin_family int 
+struct sctp_addr | v4 struct TYPE_6__ 
+function sctp_v4_from_addr_param void | addr union sctp_addr * | param union sctp_addr_param * | port int | iif int

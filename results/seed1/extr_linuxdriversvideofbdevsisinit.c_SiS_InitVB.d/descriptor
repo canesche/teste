@@ -1,2 +1,0 @@
-struct SiS_Private | VirtualRomBase unsigned char * | Init_P4_0E unsigned char | ChipType long | SiS_XGIROM long | SiS_ROMNew long 
-function SiS_InitVB void | SiS_Pr struct SiS_Private *

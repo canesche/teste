@@ -1,0 +1,2 @@
+struct TYPE_2__ | max_events unsigned long | hw_events int * 
+function riscv_map_hw_event int | config unsigned long

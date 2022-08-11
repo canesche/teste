@@ -1,0 +1,3 @@
+struct ath_common | dummy int 
+struct ath_hw | common struct ath_common 
+function ath9k_hw_common struct ath_common * | ah struct ath_hw *

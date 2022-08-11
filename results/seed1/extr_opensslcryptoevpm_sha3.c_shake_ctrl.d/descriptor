@@ -1,3 +1,0 @@
-struct TYPE_5__ | md_data struct TYPE_4__ * 
-struct TYPE_4__ | md_size int 
-function shake_ctrl int | evp_ctx struct TYPE_5__ * | cmd int | p1 int | p2 void *

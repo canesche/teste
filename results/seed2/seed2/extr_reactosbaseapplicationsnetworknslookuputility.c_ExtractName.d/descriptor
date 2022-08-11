@@ -1,0 +1,1 @@
+function ExtractName int | pBuffer int * | pOutput int * | Offset int | Limit int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_kphp-kdbmc-proxymc-proxy-targ-extension.c_targ_use_preget_query.d/extr_kphp-kdbmc-proxymc-proxy-targ-extension.c_targ_use_preget_query_O0::targ_use_preget_query(60)"
+  }
+]

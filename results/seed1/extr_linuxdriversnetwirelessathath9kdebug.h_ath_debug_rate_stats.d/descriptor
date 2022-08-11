@@ -1,4 +1,0 @@
-struct sk_buff | dummy int 
-struct ath_softc | dummy int 
-struct ath_rx_status | dummy int 
-function ath_debug_rate_stats void | sc struct ath_softc * | rs struct ath_rx_status * | skb struct sk_buff *

@@ -1,0 +1,3 @@
+struct drm_file | dummy int 
+struct drm_device | dummy int 
+function g2d_close void | drm_dev struct drm_device * | file struct drm_file *

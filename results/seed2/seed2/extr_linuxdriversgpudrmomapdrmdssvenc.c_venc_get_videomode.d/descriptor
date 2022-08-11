@@ -1,0 +1,4 @@
+struct videomode | flags int | pixelclock long | hactive long | vactive long 
+struct TYPE_4__ | pixelclock long | hactive long | vactive long 
+struct TYPE_3__ | pixelclock long | hactive long | vactive long 
+function venc_get_videomode enum venc_videomode | vm const struct videomode *

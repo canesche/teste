@@ -1,0 +1,3 @@
+struct perf_event | parent struct TYPE_2__ * | id int 
+struct TYPE_2__ | id int 
+function primary_event_id int | event struct perf_event *

@@ -1,0 +1,3 @@
+struct jsonsl_state_st | dummy int 
+struct jsonsl_st | dummy int 
+function jsonsl_get_size unsigned long | nlevels int

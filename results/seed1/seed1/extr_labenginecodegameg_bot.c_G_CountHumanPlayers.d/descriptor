@@ -1,0 +1,8 @@
+struct TYPE_8__ | sessionTeam int 
+struct TYPE_9__ | connected long 
+struct TYPE_11__ | sess struct TYPE_8__ | pers struct TYPE_9__ 
+struct TYPE_10__ | svFlags int 
+struct TYPE_14__ | r struct TYPE_10__ 
+struct TYPE_13__ | integer int 
+struct TYPE_12__ | clients struct TYPE_11__ * 
+function G_CountHumanPlayers int | team int

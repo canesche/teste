@@ -1,0 +1,3 @@
+struct TYPE_4__ | comment int * | genre int * | year int * | album int * | artist int * | title int * 
+struct TYPE_5__ | id3v2 struct TYPE_4__ 
+function null_id3_links void | fr struct TYPE_5__ *

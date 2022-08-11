@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetbroadcombnxtbnxt.c_bnxt_set_tpa_flags.d/extr_linuxdriversnetethernetbroadcombnxtbnxt.c_bnxt_set_tpa_flags_O0::bnxt_set_tpa_flags(69)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | size unsigned int | b_inuse long | b_end long | a_end long | a_start long 
+function bipbuf_init void | me struct TYPE_3__ * | size const unsigned int

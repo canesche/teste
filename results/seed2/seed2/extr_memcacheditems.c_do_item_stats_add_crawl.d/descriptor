@@ -1,0 +1,2 @@
+struct TYPE_2__ | crawler_items_checked int | expired_unfetched int | crawler_reclaimed int 
+function do_item_stats_add_crawl void | i const int | reclaimed const long | unfetched const long | checked const long

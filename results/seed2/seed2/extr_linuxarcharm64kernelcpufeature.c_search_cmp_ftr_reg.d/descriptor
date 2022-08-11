@@ -1,0 +1,2 @@
+struct __ftr_reg_entry | sys_id long 
+function search_cmp_ftr_reg int | id const void * | regp const void *

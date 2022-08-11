@@ -1,2 +1,0 @@
-struct ath10k | dummy int 
-function ath10k_pci_hif_suspend int | ar struct ath10k *

@@ -1,0 +1,2 @@
+struct bna_tx_mod | bna int * 
+function bna_tx_mod_uninit void | tx_mod struct bna_tx_mod *

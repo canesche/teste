@@ -1,0 +1,1 @@
+value(response_code) == 10, value(response_headers) == 10, length(bsc) == 100

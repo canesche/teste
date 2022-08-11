@@ -1,2 +1,0 @@
-struct sk_buff | data int * 
-function nfc_llcp_ptype int | pdu struct sk_buff *

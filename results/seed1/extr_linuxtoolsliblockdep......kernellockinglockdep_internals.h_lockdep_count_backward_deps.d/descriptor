@@ -1,2 +1,0 @@
-struct lock_class | dummy int 
-function lockdep_count_backward_deps unsigned long | class struct lock_class *

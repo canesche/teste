@@ -1,0 +1,2 @@
+struct uvc_clock_sample | host_sof int | dev_sof int 
+function uvc_video_clock_host_sof int | sample const struct uvc_clock_sample *

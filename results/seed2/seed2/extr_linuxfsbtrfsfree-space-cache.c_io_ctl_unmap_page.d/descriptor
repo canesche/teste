@@ -1,0 +1,2 @@
+struct btrfs_io_ctl | orig int * | cur int * 
+function io_ctl_unmap_page void | io_ctl struct btrfs_io_ctl *

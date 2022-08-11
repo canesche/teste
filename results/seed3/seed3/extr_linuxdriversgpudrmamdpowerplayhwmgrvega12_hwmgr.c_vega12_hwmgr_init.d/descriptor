@@ -1,0 +1,2 @@
+struct pp_hwmgr | pptable_func int * | hwmgr_func int * 
+function vega12_hwmgr_init int | hwmgr struct pp_hwmgr *

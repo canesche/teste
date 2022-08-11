@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxarchpowerpcplatformsps3platform.h_ps3_repository_write_highmem_info.d/extr_linuxarchpowerpcplatformsps3platform.h_ps3_repository_write_highmem_info_O0::ps3_repository_write_highmem_info(61)"
+  }
+]

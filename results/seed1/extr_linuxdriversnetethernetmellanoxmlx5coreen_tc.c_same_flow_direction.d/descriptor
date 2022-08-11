@@ -1,2 +1,0 @@
-struct mlx5e_tc_flow | flags int 
-function same_flow_direction int | flow struct mlx5e_tc_flow * | flags int

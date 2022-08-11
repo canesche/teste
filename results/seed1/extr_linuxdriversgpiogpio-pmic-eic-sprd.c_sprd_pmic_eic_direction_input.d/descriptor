@@ -1,2 +1,0 @@
-struct gpio_chip | dummy int 
-function sprd_pmic_eic_direction_input int | chip struct gpio_chip * | offset unsigned int

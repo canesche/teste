@@ -1,0 +1,2 @@
+struct esp | regs long 
+function jazz_esp_read8 volatile int | esp struct esp * | reg unsigned long

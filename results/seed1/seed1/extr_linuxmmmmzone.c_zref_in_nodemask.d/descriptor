@@ -1,0 +1,2 @@
+struct zoneref | dummy int 
+function zref_in_nodemask int | zref struct zoneref * | nodes int *

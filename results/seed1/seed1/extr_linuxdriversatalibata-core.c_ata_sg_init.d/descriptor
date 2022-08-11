@@ -1,0 +1,3 @@
+struct scatterlist | dummy int 
+struct ata_queued_cmd | n_elem unsigned int | sg struct scatterlist * | cursg struct scatterlist * 
+function ata_sg_init void | qc struct ata_queued_cmd * | sg struct scatterlist * | n_elem unsigned int

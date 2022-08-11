@@ -1,0 +1,2 @@
+struct vml_sys | dummy int 
+function crvml_nearest_index int | sys const struct vml_sys * | clock int

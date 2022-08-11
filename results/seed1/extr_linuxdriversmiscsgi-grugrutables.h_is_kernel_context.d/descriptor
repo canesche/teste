@@ -1,2 +1,0 @@
-struct gru_thread_state | ts_mm int 
-function is_kernel_context int | gts struct gru_thread_state *

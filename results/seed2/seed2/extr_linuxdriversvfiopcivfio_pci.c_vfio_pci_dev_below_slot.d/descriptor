@@ -1,0 +1,4 @@
+struct pci_slot | bus struct TYPE_2__ * 
+struct pci_dev | slot struct pci_slot * | bus struct TYPE_2__ * 
+struct TYPE_2__ | self struct pci_dev * 
+function vfio_pci_dev_below_slot int | pdev struct pci_dev * | slot struct pci_slot *

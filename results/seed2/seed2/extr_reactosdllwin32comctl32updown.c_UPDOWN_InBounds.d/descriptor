@@ -1,0 +1,2 @@
+struct TYPE_3__ | MaxVal int | MinVal int 
+function UPDOWN_InBounds int | infoPtr const struct TYPE_3__ * | val int

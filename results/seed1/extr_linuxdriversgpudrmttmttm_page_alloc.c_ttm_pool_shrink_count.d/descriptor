@@ -1,5 +1,0 @@
-struct ttm_page_pool | npages unsigned long | order unsigned long 
-struct shrinker | dummy int 
-struct shrink_control | dummy int 
-struct TYPE_2__ | pools struct ttm_page_pool * 
-function ttm_pool_shrink_count unsigned long | shrink struct shrinker * | sc struct shrink_control *

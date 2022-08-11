@@ -1,0 +1,2 @@
+struct rproc_subdev | dummy int 
+function sysmon_start int | subdev struct rproc_subdev *

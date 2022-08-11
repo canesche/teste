@@ -1,0 +1,1 @@
+function map_table_entry void | pte unsigned long * | va unsigned long | pa unsigned long

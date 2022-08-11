@@ -1,0 +1,2 @@
+struct i2c_client | dummy int 
+function mma8452_set_runtime_pm_state int | client struct i2c_client * | on int

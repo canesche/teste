@@ -1,0 +1,2 @@
+struct TYPE_3__ | used long | sizemask long | size long | table int * 
+function _dictReset void | ht struct TYPE_3__ *

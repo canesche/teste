@@ -1,2 +1,0 @@
-struct spi_device | dummy int 
-function sun6i_spi_max_transfer_size unsigned long | spi struct spi_device *

@@ -1,0 +1,2 @@
+struct tl_query_header | ref_cnt int 
+function tl_query_header_dup struct tl_query_header * | h struct tl_query_header *

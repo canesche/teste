@@ -1,4 +1,0 @@
-struct tm6000_fh | dev struct tm6000_core * 
-struct tm6000_core | norm int 
-struct file | dummy int 
-function vidioc_g_std int | file struct file * | priv void * | norm int *

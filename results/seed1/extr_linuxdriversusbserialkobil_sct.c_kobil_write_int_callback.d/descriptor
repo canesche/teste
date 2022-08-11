@@ -1,2 +1,0 @@
-struct urb | dummy int 
-function kobil_write_int_callback void | urb struct urb *

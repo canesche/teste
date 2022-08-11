@@ -1,5 +1,0 @@
-struct TYPE_3__ | flags int 
-struct bnxt_tc_flow | src_fid int | actions struct TYPE_3__ 
-struct TYPE_4__ | fw_fid int 
-struct bnxt | pf struct TYPE_4__ 
-function bnxt_tc_set_src_fid void | bp struct bnxt * | flow struct bnxt_tc_flow * | src_fid int

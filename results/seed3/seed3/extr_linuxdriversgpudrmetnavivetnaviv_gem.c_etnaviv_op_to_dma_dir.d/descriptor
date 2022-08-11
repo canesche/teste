@@ -1,0 +1,1 @@
+function etnaviv_op_to_dma_dir enum dma_data_direction | op int

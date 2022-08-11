@@ -1,0 +1,3 @@
+struct spu_state | spu_chnldata_RW long * | spu_chnlcnt_RW long * 
+struct spu_context | csa struct spu_state 
+function spufs_event_status_get long | ctx struct spu_context *

@@ -1,0 +1,2 @@
+struct wil_ring | size int 
+function wil_ring_wmark_low int | ring struct wil_ring *

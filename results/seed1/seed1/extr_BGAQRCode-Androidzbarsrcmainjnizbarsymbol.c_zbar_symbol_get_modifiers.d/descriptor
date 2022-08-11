@@ -1,0 +1,2 @@
+struct TYPE_3__ | modifiers unsigned int 
+function zbar_symbol_get_modifiers unsigned int | sym const struct TYPE_3__ *

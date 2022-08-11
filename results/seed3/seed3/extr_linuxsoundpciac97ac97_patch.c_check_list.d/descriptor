@@ -1,0 +1,2 @@
+struct snd_ac97 | subsystem_device int | subsystem_vendor long 
+function check_list int | ac97 struct snd_ac97 * | list const unsigned int *

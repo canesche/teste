@@ -1,0 +1,2 @@
+struct wusbhc | dummy int 
+function wusbhc_rh_get_hub_status int | wusbhc struct wusbhc * | buf long * | wLength int

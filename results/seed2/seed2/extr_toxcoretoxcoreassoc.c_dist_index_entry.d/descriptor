@@ -1,0 +1,4 @@
+struct TYPE_6__ | list struct TYPE_7__ * 
+struct TYPE_8__ | candidates_bucket_count unsigned long | candidates_bucket_size unsigned long | candidates struct TYPE_6__ * 
+struct TYPE_7__ | hash long 
+function dist_index_entry struct TYPE_7__ * | assoc struct TYPE_8__ * | dist_ind unsigned long

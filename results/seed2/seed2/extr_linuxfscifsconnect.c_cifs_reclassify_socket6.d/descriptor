@@ -1,0 +1,2 @@
+struct socket | dummy int 
+function cifs_reclassify_socket6 void | sock struct socket *

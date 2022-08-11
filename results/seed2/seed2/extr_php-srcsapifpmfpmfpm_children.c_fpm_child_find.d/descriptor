@@ -1,0 +1,3 @@
+struct fpm_worker_pool_s | children struct fpm_child_s * | next struct fpm_worker_pool_s * 
+struct fpm_child_s | pid long | next struct fpm_child_s * 
+function fpm_child_find struct fpm_child_s * | pid long

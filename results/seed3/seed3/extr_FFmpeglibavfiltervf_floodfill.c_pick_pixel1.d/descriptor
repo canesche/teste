@@ -1,0 +1,2 @@
+struct TYPE_3__ | data int ** | linesize int * 
+function pick_pixel1 void | frame struct TYPE_3__ * | x int | y int | s0 int * | s1 int * | s2 int * | s3 int *

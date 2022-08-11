@@ -1,0 +1,6 @@
+struct wireless_dev | wiphy struct TYPE_2__ * 
+struct net_device | ieee80211_ptr struct wireless_dev * 
+struct iw_request_info | dummy int 
+struct iw_param | disabled int | fixed int | value int 
+struct TYPE_2__ | rts_threshold int 
+function cfg80211_wext_giwrts int | dev struct net_device * | info struct iw_request_info * | rts struct iw_param * | extra char *

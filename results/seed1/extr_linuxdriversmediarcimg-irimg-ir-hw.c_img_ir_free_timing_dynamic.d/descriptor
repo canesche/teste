@@ -1,2 +1,0 @@
-struct img_ir_filter | minlen int | maxlen int 
-function img_ir_free_timing_dynamic unsigned int | st_ft unsigned int | filter struct img_ir_filter *

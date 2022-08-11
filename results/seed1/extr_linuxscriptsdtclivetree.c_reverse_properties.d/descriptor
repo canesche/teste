@@ -1,2 +1,0 @@
-struct property | next struct property * 
-function reverse_properties struct property * | first struct property *

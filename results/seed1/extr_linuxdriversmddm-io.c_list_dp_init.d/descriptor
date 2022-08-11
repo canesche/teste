@@ -1,3 +1,0 @@
-struct page_list | dummy int 
-struct dpages | context_u unsigned int | context_ptr struct page_list * | next_page int | get_page int 
-function list_dp_init void | dp struct dpages * | pl struct page_list * | offset unsigned int

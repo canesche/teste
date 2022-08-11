@@ -1,0 +1,2 @@
+struct TYPE_3__ | pos const int | size const int | buf int * 
+function dict_get int | dict const struct TYPE_3__ *const | distance const int

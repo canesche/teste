@@ -1,0 +1,4 @@
+struct TYPE_6__ | texinfo unsigned long 
+struct TYPE_7__ | numsides int | firstside int 
+struct TYPE_8__ | flags int 
+function Q2_HintSkipBrush int | brush struct TYPE_7__ *

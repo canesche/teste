@@ -1,0 +1,4 @@
+struct packing_data | objects const struct object_entry * | in_pack struct packed_git ** | in_pack_by_idx struct packed_git ** 
+struct packed_git | dummy int 
+struct object_entry | in_pack_idx unsigned long 
+function oe_in_pack struct packed_git * | pack const struct packing_data * | e const struct object_entry *

@@ -1,3 +1,0 @@
-struct TYPE_3__ | orig_file_size long 
-struct TYPE_4__ | S struct TYPE_3__ 
-function cmp_backups_by_size int | a const void * | b const void *

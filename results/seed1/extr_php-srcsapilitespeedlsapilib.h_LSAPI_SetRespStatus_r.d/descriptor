@@ -1,4 +1,0 @@
-struct TYPE_5__ | m_status int 
-struct TYPE_6__ | m_respInfo struct TYPE_5__ 
-struct TYPE_7__ | m_respHeader struct TYPE_6__ 
-function LSAPI_SetRespStatus_r int | pReq struct TYPE_7__ * | code int

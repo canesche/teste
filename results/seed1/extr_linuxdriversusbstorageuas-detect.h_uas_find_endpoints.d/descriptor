@@ -1,4 +1,0 @@
-struct TYPE_2__ | bNumEndpoints unsigned int 
-struct usb_host_interface | desc struct TYPE_2__ | endpoint struct usb_host_endpoint * 
-struct usb_host_endpoint | extra unsigned char * | extralen int 
-function uas_find_endpoints int | alt struct usb_host_interface * | eps struct usb_host_endpoint *[]

@@ -1,2 +1,0 @@
-struct kmem_cache | dummy int 
-function sysfs_slab_alias int | s struct kmem_cache * | p const char *

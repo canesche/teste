@@ -1,0 +1,4 @@
+struct iwl_firmware_pieces | img struct TYPE_4__ * 
+struct TYPE_4__ | sec struct TYPE_3__ * 
+struct TYPE_3__ | size unsigned long 
+function get_sec_size unsigned long | pieces struct iwl_firmware_pieces * | type enum iwl_ucode_type | sec int

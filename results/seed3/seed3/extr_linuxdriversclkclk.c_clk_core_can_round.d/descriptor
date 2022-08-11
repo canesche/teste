@@ -1,0 +1,3 @@
+struct clk_core | ops struct TYPE_2__ * 
+struct TYPE_2__ | round_rate long | determine_rate long 
+function clk_core_can_round int | core struct clk_core *const

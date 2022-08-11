@@ -1,0 +1,2 @@
+struct TYPE_2__ | soundBufferIn unsigned long | soundBufferOut int | soundBuffer long * 
+function CG_AddBufferedSound void | sfx long

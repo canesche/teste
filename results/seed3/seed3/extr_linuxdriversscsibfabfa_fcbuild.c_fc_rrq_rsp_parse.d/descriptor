@@ -1,0 +1,3 @@
+struct fchs_s | dummy int 
+struct fc_els_cmd_s | els_code long 
+function fc_rrq_rsp_parse enum fc_parse_status | fchs struct fchs_s * | len int

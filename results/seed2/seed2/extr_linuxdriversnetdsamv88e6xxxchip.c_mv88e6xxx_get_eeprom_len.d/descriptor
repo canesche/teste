@@ -1,0 +1,3 @@
+struct mv88e6xxx_chip | eeprom_len int 
+struct dsa_switch | priv struct mv88e6xxx_chip * 
+function mv88e6xxx_get_eeprom_len int | ds struct dsa_switch *

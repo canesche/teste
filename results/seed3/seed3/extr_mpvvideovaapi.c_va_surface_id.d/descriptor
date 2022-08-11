@@ -1,0 +1,2 @@
+struct mp_image | imgfmt long | planes long * 
+function va_surface_id int | mpi struct mp_image *

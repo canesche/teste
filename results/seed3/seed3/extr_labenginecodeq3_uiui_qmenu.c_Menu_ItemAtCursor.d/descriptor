@@ -1,0 +1,2 @@
+struct TYPE_3__ | cursor unsigned long | nitems unsigned long | items void ** 
+function Menu_ItemAtCursor void * | m struct TYPE_3__ *

@@ -1,2 +1,0 @@
-struct sock | dummy int 
-function send_waiting_read int | sk struct sock * | room_needed int

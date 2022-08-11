@@ -1,2 +1,0 @@
-struct rblist | nr_entries long 
-function rblist__empty int | rblist const struct rblist *

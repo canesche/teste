@@ -1,3 +1,0 @@
-struct sk_buff | dummy int 
-struct batadv_priv | dummy int 
-function batadv_dbg_arp void | bat_priv struct batadv_priv * | skb struct sk_buff * | hdr_size int | msg char *

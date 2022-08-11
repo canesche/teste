@@ -1,0 +1,3 @@
+struct TYPE_5__ | memid long 
+struct TYPE_6__ | funcdesc struct TYPE_5__ 
+function TLB_get_funcdesc_by_memberid struct TYPE_6__ * | funcdescs struct TYPE_6__ * | n long | memid long

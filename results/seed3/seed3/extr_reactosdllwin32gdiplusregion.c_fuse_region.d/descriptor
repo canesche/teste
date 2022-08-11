@@ -1,0 +1,5 @@
+struct TYPE_6__ | right int * | left int * 
+struct TYPE_7__ | combine struct TYPE_6__ 
+struct TYPE_8__ | elementdata struct TYPE_7__ | type int 
+struct TYPE_9__ | num_children int | node struct TYPE_8__ 
+function fuse_region void | region struct TYPE_9__ * | left int * | right int * | mode const int

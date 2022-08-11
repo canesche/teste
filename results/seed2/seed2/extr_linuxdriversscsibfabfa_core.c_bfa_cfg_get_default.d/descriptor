@@ -1,0 +1,4 @@
+struct TYPE_4__ | delay_comp void * | ioc_recover void * | path_tov int | num_sboot_luns int | num_sboot_tgts int | num_sgpgs int | num_rspq_elems int | num_reqq_elems int 
+struct TYPE_3__ | num_fwtio_reqs long | num_cqs int | num_uf_bufs int | num_fcxp_reqs int | num_tskim_reqs int | num_ioim_reqs int | num_rports int | num_lports int | num_fabrics int 
+struct bfa_iocfc_cfg_s | drvcfg struct TYPE_4__ | fwcfg struct TYPE_3__ 
+function bfa_cfg_get_default void | cfg struct bfa_iocfc_cfg_s *

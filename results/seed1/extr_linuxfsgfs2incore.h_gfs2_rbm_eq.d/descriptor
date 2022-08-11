@@ -1,2 +1,0 @@
-struct gfs2_rbm | rgd long | bii long | offset long 
-function gfs2_rbm_eq int | rbm1 const struct gfs2_rbm * | rbm2 const struct gfs2_rbm *

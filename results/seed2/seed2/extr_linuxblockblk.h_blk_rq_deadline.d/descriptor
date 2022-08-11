@@ -1,0 +1,2 @@
+struct request | __deadline int 
+function blk_rq_deadline unsigned long | rq struct request *

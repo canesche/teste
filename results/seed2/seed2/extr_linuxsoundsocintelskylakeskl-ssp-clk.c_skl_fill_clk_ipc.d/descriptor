@@ -1,0 +1,14 @@
+struct TYPE_11__ | size int | type int 
+struct TYPE_12__ | hdr struct TYPE_11__ 
+struct TYPE_7__ | size int 
+struct TYPE_10__ | number_of_channels int | valid_bit_depth int | bit_depth int | sampling_frequency int | hdr struct TYPE_7__ 
+struct skl_clk_ctrl_ipc | mclk struct TYPE_12__ | sclk_fs struct TYPE_10__ 
+struct wav_fmt | channels int | bits_per_sample int | samples_per_sec int 
+struct skl_tlv_hdr | dummy int 
+struct skl_dmactrl_sclkfs_cfg | dummy int 
+struct skl_dmactrl_mclk_cfg | dummy int 
+struct skl_clk_rate_cfg_table | config long | dma_ctl_ipc union skl_clk_ctrl_ipc 
+struct TYPE_8__ | valid_bits_per_sample int 
+struct TYPE_9__ | sample struct TYPE_8__ | fmt struct wav_fmt 
+struct nhlt_fmt_cfg | fmt_ext struct TYPE_9__ 
+function skl_fill_clk_ipc void | rcfg struct skl_clk_rate_cfg_table * | clk_type long

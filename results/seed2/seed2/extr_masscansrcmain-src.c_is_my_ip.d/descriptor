@@ -1,0 +1,3 @@
+struct TYPE_2__ | first unsigned int | last unsigned int 
+struct Source | ip struct TYPE_2__ 
+function is_my_ip int | src const struct Source * | ip unsigned int

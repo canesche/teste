@@ -1,0 +1,4 @@
+struct mwifiex_private | mgmt_ie struct mwifiex_ie * | adapter struct mwifiex_adapter * 
+struct mwifiex_ie | ie_length long | mgmt_subtype_mask long 
+struct mwifiex_adapter | priv_num int | priv struct mwifiex_private ** 
+function mwifiex_ie_index_used_by_other_intf int | priv struct mwifiex_private * | idx unsigned long

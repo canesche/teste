@@ -1,0 +1,1 @@
+function t_toxav_receive_audio_frame_cb void | av int * | friend_number int | pcm const int * | sample_count unsigned long | channels int | sampling_rate int | user_data void *

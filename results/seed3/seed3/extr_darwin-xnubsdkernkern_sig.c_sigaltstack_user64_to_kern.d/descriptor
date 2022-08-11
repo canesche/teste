@@ -1,0 +1,3 @@
+struct user64_sigaltstack | ss_sp int | ss_size int | ss_flags int 
+struct kern_sigaltstack | ss_sp int | ss_size int | ss_flags int 
+function sigaltstack_user64_to_kern void | in struct user64_sigaltstack * | out struct kern_sigaltstack *

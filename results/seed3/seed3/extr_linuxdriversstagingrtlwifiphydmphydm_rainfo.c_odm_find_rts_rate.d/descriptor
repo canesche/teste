@@ -1,0 +1,2 @@
+struct phy_dm_struct | band_type int * 
+function odm_find_rts_rate int | dm_void void * | tx_rate int | is_erp_protect int

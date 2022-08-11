@@ -1,0 +1,3 @@
+struct hid_sensor_hub_attribute_info | size int | logical_maximum int | logical_minimum int | unit_expo int | units int | report_id void * | index void * 
+struct hid_field | report_size int | report_count int | logical_maximum int | logical_minimum int | unit_exponent int | unit int 
+function sensor_hub_fill_attr_info void | info struct hid_sensor_hub_attribute_info * | index void * | report_id void * | field struct hid_field *

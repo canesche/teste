@@ -1,2 +1,0 @@
-struct gpio_chip | dummy int 
-function idio_16_gpio_get_direction int | chip struct gpio_chip * | offset unsigned int

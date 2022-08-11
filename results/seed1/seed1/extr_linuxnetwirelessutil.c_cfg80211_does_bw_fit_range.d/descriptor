@@ -1,0 +1,2 @@
+struct ieee80211_freq_range | start_freq_khz int | end_freq_khz int 
+function cfg80211_does_bw_fit_range int | freq_range const struct ieee80211_freq_range * | center_freq_khz int | bw_khz int

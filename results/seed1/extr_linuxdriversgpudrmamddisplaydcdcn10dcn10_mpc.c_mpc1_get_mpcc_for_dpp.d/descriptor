@@ -1,3 +1,0 @@
-struct mpcc | dpp_id int | mpcc_bot struct mpcc * 
-struct mpc_tree | opp_list struct mpcc * 
-function mpc1_get_mpcc_for_dpp struct mpcc * | tree struct mpc_tree * | dpp_id int

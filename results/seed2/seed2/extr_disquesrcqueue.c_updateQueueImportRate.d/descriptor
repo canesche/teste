@@ -1,0 +1,3 @@
+struct TYPE_4__ | current_import_jobs_time int | prev_import_jobs_time int | current_import_jobs_count long | prev_import_jobs_count long 
+struct TYPE_5__ | mstime int 
+function updateQueueImportRate void | q struct TYPE_4__ *

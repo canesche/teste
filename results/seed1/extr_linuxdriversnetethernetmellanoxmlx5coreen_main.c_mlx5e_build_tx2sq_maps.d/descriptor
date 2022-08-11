@@ -1,5 +1,0 @@
-struct mlx5e_txqsq | txq_ix unsigned long 
-struct TYPE_2__ | num int | c struct mlx5e_channel ** 
-struct mlx5e_priv | txq2sq struct mlx5e_txqsq ** | channels struct TYPE_2__ 
-struct mlx5e_channel | num_tc int | sq struct mlx5e_txqsq * 
-function mlx5e_build_tx2sq_maps void | priv struct mlx5e_priv *

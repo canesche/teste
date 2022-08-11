@@ -1,0 +1,2 @@
+struct ilist | head long 
+function l_empty int | l struct ilist *

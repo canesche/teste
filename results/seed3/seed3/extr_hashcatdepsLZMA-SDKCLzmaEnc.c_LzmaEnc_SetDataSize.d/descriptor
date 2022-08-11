@@ -1,0 +1,3 @@
+struct TYPE_3__ | expectedDataSize int 
+struct TYPE_4__ | matchFinderBase struct TYPE_3__ 
+function LzmaEnc_SetDataSize void | pp long | expectedDataSiize int

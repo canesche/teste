@@ -1,0 +1,3 @@
+struct TYPE_5__ | ncci_ring_list unsigned long | adapter struct TYPE_4__ * | nl_req long 
+struct TYPE_4__ | ncci_ch unsigned long * | ch_flow_control int * 
+function plci_nl_busy int | plci struct TYPE_5__ *

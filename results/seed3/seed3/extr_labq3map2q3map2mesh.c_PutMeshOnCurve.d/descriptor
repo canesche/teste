@@ -1,0 +1,3 @@
+struct TYPE_5__ | width int | height int | verts struct TYPE_4__ * 
+struct TYPE_4__ | xyz double * | st double * | lightmap double ** 
+function PutMeshOnCurve void | in struct TYPE_5__

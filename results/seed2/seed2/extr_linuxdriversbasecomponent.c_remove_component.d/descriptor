@@ -1,0 +1,5 @@
+struct master | match struct TYPE_4__ * 
+struct component | dummy int 
+struct TYPE_4__ | num unsigned long | compare struct TYPE_3__ * 
+struct TYPE_3__ | component struct component * 
+function remove_component void | master struct master * | c struct component *

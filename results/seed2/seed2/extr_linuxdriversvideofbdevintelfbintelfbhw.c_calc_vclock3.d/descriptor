@@ -1,0 +1,2 @@
+struct TYPE_2__ | ref_clk int 
+function calc_vclock3 int | index int | m int | n int | p int

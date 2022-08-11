@@ -1,2 +1,0 @@
-struct TYPE_3__ | start long | base long | end long | ralf long | blwf long | pref long 
-function shift_syllable_glyph_indexs void | glyph_index struct TYPE_3__ * | index long | shift long

@@ -1,0 +1,2 @@
+struct ipoib_neigh | dummy int 
+function ipoib_cm_up int | neigh struct ipoib_neigh *

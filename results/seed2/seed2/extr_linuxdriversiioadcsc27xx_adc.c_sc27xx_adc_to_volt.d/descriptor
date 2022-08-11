@@ -1,0 +1,2 @@
+struct sc27xx_adc_linear_graph | volt0 int | volt1 int | adc1 int | adc0 int 
+function sc27xx_adc_to_volt int | graph const struct sc27xx_adc_linear_graph * | raw_adc int

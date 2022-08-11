@@ -1,0 +1,2 @@
+struct gbphy_device | dummy int 
+function gbphy_runtime_put_autosuspend void | gbphy_dev struct gbphy_device *

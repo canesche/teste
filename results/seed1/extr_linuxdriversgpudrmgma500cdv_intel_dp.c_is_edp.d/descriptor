@@ -1,2 +1,0 @@
-struct gma_encoder | type long 
-function is_edp int | encoder struct gma_encoder *

@@ -1,4 +1,0 @@
-struct TYPE_4__ | cam_mode struct TYPE_3__ * 
-struct gspca_dev | alt int | curr_mode long | cam struct TYPE_4__ 
-struct TYPE_3__ | priv unsigned long 
-function ov2640_configure_alt int | gspca_dev struct gspca_dev *

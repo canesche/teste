@@ -1,0 +1,5 @@
+struct qed_hwfn | vf_iov_info struct TYPE_4__ * 
+struct pf_vf_pfdev_info | fw_eng int | fw_rev int | fw_minor int | fw_major int 
+struct TYPE_3__ | pfdev_info struct pf_vf_pfdev_info 
+struct TYPE_4__ | acquire_resp struct TYPE_3__ 
+function qed_vf_get_fw_version void | p_hwfn struct qed_hwfn * | fw_major int * | fw_minor int * | fw_rev int * | fw_eng int *

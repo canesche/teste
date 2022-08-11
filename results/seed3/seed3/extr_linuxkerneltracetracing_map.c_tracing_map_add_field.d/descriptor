@@ -1,0 +1,3 @@
+struct tracing_map | n_fields int | fields struct TYPE_2__ * 
+struct TYPE_2__ | cmp_fn int 
+function tracing_map_add_field int | map struct tracing_map * | cmp_fn int

@@ -1,3 +1,0 @@
-struct TYPE_4__ | size unsigned long 
-struct TYPE_5__ | cached struct TYPE_4__ 
-function git_odb_object_size unsigned long | object struct TYPE_5__ *

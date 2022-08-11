@@ -1,0 +1,2 @@
+struct adau | type int 
+function adau17x1_has_dsp int | adau struct adau *

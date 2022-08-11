@@ -1,0 +1,3 @@
+struct TYPE_2__ | pa int | kva int * 
+struct bfa_port_s | stats_dma struct TYPE_2__ 
+function bfa_port_mem_claim void | port struct bfa_port_s * | dma_kva int * | dma_pa int

@@ -1,0 +1,3 @@
+struct op_x86_model_spec | event_mask int 
+struct op_counter_config | unit_mask int | extra int | kernel long | user long | event int 
+function op_x86_get_ctrl int | model const struct op_x86_model_spec * | counter_config struct op_counter_config *

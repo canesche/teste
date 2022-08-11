@@ -1,0 +1,2 @@
+struct wined3d_context | dummy int 
+function shader_none_free_context_data void | context struct wined3d_context *

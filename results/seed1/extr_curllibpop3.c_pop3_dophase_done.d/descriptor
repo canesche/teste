@@ -1,2 +1,0 @@
-struct connectdata | dummy int 
-function pop3_dophase_done int | conn struct connectdata * | connected int

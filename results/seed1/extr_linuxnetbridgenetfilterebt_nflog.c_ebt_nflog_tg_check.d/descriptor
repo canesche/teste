@@ -1,3 +1,0 @@
-struct xt_tgchk_param | targinfo struct ebt_nflog_info * 
-struct ebt_nflog_info | flags int | prefix char * 
-function ebt_nflog_tg_check int | par const struct xt_tgchk_param *

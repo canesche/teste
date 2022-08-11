@@ -1,0 +1,3 @@
+struct i40iw_sc_dev | cqp_cmd_stats long * 
+struct i40iw_cqp_timeout | compl_cqp_cmds long | count long 
+function i40iw_check_cqp_progress void | cqp_timeout struct i40iw_cqp_timeout * | dev struct i40iw_sc_dev *

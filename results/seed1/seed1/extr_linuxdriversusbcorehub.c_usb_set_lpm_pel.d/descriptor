@@ -1,0 +1,4 @@
+struct usb_hub | dummy int 
+struct usb_device | dummy int 
+struct usb3_lpm_parameters | pel unsigned int 
+function usb_set_lpm_pel void | udev struct usb_device * | udev_lpm_params struct usb3_lpm_parameters * | udev_exit_latency unsigned int | hub struct usb_hub * | hub_lpm_params struct usb3_lpm_parameters * | hub_exit_latency unsigned int | port_to_port_exit_latency unsigned int

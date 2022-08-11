@@ -1,0 +1,3 @@
+struct mlxsw_sp_nexthop_group | neigh_tbl struct TYPE_2__ * 
+struct TYPE_2__ | family int 
+function mlxsw_sp_nexthop_group_type int | nh_grp const struct mlxsw_sp_nexthop_group *

@@ -1,0 +1,3 @@
+struct pvr2_hdw | std_mask_cur int | std_dirty int 
+struct pvr2_ctrl | hdw struct pvr2_hdw * 
+function ctrl_stdcur_set int | cptr struct pvr2_ctrl * | m int | v int

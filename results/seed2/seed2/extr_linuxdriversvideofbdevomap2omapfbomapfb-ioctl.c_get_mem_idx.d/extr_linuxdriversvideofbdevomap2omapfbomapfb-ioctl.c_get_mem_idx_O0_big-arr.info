@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversvideofbdevomap2omapfbomapfb-ioctl.c_get_mem_idx.d/extr_linuxdriversvideofbdevomap2omapfbomapfb-ioctl.c_get_mem_idx_O0::get_mem_idx(65)"
+  }
+]

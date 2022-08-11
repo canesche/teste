@@ -1,0 +1,2 @@
+struct node | is_referenced int 
+function reference_node struct node * | node struct node *

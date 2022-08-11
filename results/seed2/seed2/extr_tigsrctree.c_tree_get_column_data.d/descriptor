@@ -1,0 +1,5 @@
+struct view_column_data | file_name int | mode int * | id int | file_size int * | date int * | author int 
+struct view | dummy int 
+struct tree_entry | name int | mode int | commit int | size int | time int | author int 
+struct line | type long | data struct tree_entry * 
+function tree_get_column_data int | view struct view * | line const struct line * | column_data struct view_column_data *

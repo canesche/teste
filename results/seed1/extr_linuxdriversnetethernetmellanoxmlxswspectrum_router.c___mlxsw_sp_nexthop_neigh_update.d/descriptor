@@ -1,2 +1,0 @@
-struct mlxsw_sp_nexthop | should_offload int | update int 
-function __mlxsw_sp_nexthop_neigh_update void | nh struct mlxsw_sp_nexthop * | removing int

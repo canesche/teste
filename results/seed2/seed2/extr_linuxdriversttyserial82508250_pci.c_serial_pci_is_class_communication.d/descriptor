@@ -1,0 +1,2 @@
+struct pci_dev | class int 
+function serial_pci_is_class_communication int | dev struct pci_dev *

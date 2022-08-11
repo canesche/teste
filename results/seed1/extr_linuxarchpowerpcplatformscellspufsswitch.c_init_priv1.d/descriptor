@@ -1,3 +1,0 @@
-struct TYPE_2__ | mfc_sr1_RW int | int_mask_class0_RW int | int_mask_class1_RW int | int_mask_class2_RW int 
-struct spu_state | priv1 struct TYPE_2__ 
-function init_priv1 void | csa struct spu_state *

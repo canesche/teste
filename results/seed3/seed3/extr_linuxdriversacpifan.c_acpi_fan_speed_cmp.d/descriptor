@@ -1,0 +1,2 @@
+struct acpi_fan_fps | speed int 
+function acpi_fan_speed_cmp int | a const void * | b const void *

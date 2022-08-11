@@ -1,0 +1,1 @@
+length(controller_baudrate) == 100, length(device_baudrate) == 100, length(flow_control) == 100, length(hdev) == 100, length(btrtl_dev) == 100

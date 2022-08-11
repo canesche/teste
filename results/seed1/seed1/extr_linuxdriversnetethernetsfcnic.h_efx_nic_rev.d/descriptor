@@ -1,0 +1,3 @@
+struct efx_nic | type struct TYPE_2__ * 
+struct TYPE_2__ | revision int 
+function efx_nic_rev int | efx struct efx_nic *

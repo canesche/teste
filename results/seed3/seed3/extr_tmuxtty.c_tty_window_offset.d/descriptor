@@ -1,0 +1,2 @@
+struct tty | oflag int | osy int | osx int | ooy int | oox int 
+function tty_window_offset int | tty struct tty * | ox int * | oy int * | sx int * | sy int *

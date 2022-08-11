@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmi915intel_dpll_mgr.c_cnl_wrpll_get_multipliers.d/extr_linuxdriversgpudrmi915intel_dpll_mgr.c_cnl_wrpll_get_multipliers_O0::cnl_wrpll_get_multipliers(61)"
+  }
+]

@@ -1,0 +1,3 @@
+struct platform_device | dummy int 
+struct mfd_cell | dummy int 
+function mfd_acpi_add_device void | cell const struct mfd_cell * | pdev struct platform_device *

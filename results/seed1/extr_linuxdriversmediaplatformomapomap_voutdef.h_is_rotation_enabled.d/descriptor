@@ -1,2 +1,0 @@
-struct omap_vout_device | mirror long | rotation long 
-function is_rotation_enabled int | vout const struct omap_vout_device *

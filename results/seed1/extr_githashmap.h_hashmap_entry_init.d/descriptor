@@ -1,2 +1,0 @@
-struct hashmap_entry | hash unsigned int | next int * 
-function hashmap_entry_init void | entry void * | hash unsigned int

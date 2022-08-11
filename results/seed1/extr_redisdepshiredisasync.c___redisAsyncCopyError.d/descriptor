@@ -1,3 +1,0 @@
-struct TYPE_4__ | errstr int | err int 
-struct TYPE_5__ | errstr int | err int | c struct TYPE_4__ 
-function __redisAsyncCopyError void | ac struct TYPE_5__ *

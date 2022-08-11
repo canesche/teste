@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxarchx86kvmsvm.c_nested_vmcb_checks.d/extr_linuxarchx86kvmsvm.c_nested_vmcb_checks_O0::nested_vmcb_checks(66)"
+  }
+]

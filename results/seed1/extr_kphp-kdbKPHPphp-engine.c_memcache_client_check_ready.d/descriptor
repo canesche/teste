@@ -1,2 +1,0 @@
-struct connection | status long | ready int 
-function memcache_client_check_ready int | c struct connection *

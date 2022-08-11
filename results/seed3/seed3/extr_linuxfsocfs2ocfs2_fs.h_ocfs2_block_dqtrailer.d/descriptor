@@ -1,0 +1,2 @@
+struct ocfs2_disk_dqtrailer | dummy int 
+function ocfs2_block_dqtrailer struct ocfs2_disk_dqtrailer * | blocksize int | buf void *

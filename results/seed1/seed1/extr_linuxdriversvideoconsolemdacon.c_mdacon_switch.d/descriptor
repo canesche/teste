@@ -1,0 +1,2 @@
+struct vc_data | dummy int 
+function mdacon_switch int | c struct vc_data *

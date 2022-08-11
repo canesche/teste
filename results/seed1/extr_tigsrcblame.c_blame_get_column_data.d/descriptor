@@ -1,6 +1,0 @@
-struct view_column_data | text int | commit_title int | date int * | file_name int | author int | id int 
-struct view | dummy int 
-struct line | data struct blame * 
-struct blame | text int | commit struct TYPE_2__ * 
-struct TYPE_2__ | title int | time int | filename int | author int | id int 
-function blame_get_column_data int | view struct view * | line const struct line * | column_data struct view_column_data *

@@ -1,2 +1,0 @@
-struct siox_device | statustype int 
-function siox_device_type_error int | sdevice struct siox_device * | status_clean int

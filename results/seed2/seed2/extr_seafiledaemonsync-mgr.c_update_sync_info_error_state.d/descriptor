@@ -1,0 +1,3 @@
+struct TYPE_5__ | err_cnt long | sync_perm_err_cnt long | in_error int 
+struct TYPE_4__ | error long | info struct TYPE_5__ * 
+function update_sync_info_error_state void | task struct TYPE_4__ * | new_state int

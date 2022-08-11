@@ -1,2 +1,0 @@
-struct desc_struct | limit0 unsigned long | limit1 long 
-function seg_get_limit unsigned long | d struct desc_struct *

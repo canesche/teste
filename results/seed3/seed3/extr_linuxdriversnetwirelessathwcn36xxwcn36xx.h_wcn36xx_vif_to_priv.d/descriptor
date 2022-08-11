@@ -1,0 +1,3 @@
+struct wcn36xx_vif | dummy int 
+struct ieee80211_vif | drv_priv long 
+function wcn36xx_vif_to_priv struct wcn36xx_vif * | vif struct ieee80211_vif *

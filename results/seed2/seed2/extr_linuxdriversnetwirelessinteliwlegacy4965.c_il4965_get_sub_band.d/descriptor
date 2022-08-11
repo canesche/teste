@@ -1,0 +1,4 @@
+struct il_priv | calib_info struct TYPE_3__ * 
+struct TYPE_4__ | ch_from long | ch_to long 
+struct TYPE_3__ | band_info struct TYPE_4__ * 
+function il4965_get_sub_band long | il const struct il_priv * | channel long

@@ -1,0 +1,3 @@
+struct obs_hotkey_internal_find_forward | id long | idx unsigned long | found int 
+struct TYPE_3__ | id long 
+function find_id_helper int | data void * | idx unsigned long | hotkey struct TYPE_3__ *

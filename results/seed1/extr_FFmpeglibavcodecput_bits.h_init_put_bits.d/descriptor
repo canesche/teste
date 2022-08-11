@@ -1,2 +1,0 @@
-struct TYPE_3__ | size_in_bits int | bit_left int | bit_buf long | buf int * | buf_ptr int * | buf_end int * 
-function init_put_bits void | s struct TYPE_3__ * | buffer int * | buffer_size int

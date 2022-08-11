@@ -1,3 +1,0 @@
-struct f2fs_sb_info | nm_info long 
-struct f2fs_nm_info | dummy int 
-function NM_I struct f2fs_nm_info * | sbi struct f2fs_sb_info *

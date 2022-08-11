@@ -1,2 +1,0 @@
-struct TYPE_3__ | poptions unsigned long * | pcert_flags unsigned long * | pvfy_flags unsigned long * 
-function ssl_set_option void | cctx struct TYPE_3__ * | name_flags unsigned int | option_value unsigned long | onoff int

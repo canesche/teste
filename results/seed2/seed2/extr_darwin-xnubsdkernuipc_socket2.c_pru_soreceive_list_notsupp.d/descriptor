@@ -1,0 +1,3 @@
+struct socket | dummy int 
+struct recv_msg_elem | dummy int 
+function pru_soreceive_list_notsupp int | so struct socket * | recv_msg_array struct recv_msg_elem * | uiocnt int | flagsp int *

@@ -1,2 +1,0 @@
-struct extcon_dev | max_supported int | supported_cable const unsigned int * 
-function find_cable_index_by_id int | edev struct extcon_dev * | id const unsigned int

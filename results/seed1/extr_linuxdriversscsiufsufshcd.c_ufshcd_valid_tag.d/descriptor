@@ -1,2 +1,0 @@
-struct ufs_hba | nutrs int 
-function ufshcd_valid_tag int | hba struct ufs_hba * | tag int

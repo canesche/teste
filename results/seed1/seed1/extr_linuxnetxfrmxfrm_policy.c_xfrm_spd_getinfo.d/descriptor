@@ -1,0 +1,4 @@
+struct xfrmk_spdinfo | spdhmcnt int | spdhcnt int | fwdscnt int | outscnt int | inscnt int | fwdcnt int | outcnt int | incnt int 
+struct TYPE_2__ | policy_idx_hmask int | policy_count int * 
+struct net | xfrm struct TYPE_2__ 
+function xfrm_spd_getinfo void | net struct net * | si struct xfrmk_spdinfo *

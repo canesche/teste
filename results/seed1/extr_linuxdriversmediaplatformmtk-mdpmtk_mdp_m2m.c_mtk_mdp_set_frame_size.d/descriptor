@@ -1,3 +1,0 @@
-struct TYPE_2__ | width int | height int | top long | left long 
-struct mtk_mdp_frame | width int | height int | crop struct TYPE_2__ 
-function mtk_mdp_set_frame_size void | frame struct mtk_mdp_frame * | width int | height int

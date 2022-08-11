@@ -1,0 +1,4 @@
+struct qm_dqrr | cursor const struct qm_dqrr_entry * | fill int 
+struct qm_portal | dqrr struct qm_dqrr 
+struct qm_dqrr_entry | dummy int 
+function qm_dqrr_current const struct qm_dqrr_entry * | portal struct qm_portal *

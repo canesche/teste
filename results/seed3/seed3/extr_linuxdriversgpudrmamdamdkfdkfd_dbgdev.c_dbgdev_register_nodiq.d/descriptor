@@ -1,0 +1,2 @@
+struct kfd_dbgdev | kq int * 
+function dbgdev_register_nodiq int | dbgdev struct kfd_dbgdev *

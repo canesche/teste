@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 11,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 21,
+    static: {
+      instructions: 58,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 58,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_gitident.c_crud.d/extr_gitident.c_crud_O0::crud(60)"
+  }
+]

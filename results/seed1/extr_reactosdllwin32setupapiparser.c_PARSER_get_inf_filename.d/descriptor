@@ -1,2 +1,0 @@
-struct inf_file | filename const int * 
-function PARSER_get_inf_filename const int * | hinf struct inf_file *

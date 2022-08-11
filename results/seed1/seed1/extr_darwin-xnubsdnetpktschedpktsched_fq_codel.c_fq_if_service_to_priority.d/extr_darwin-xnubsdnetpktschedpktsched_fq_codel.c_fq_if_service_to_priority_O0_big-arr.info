@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_darwin-xnubsdnetpktschedpktsched_fq_codel.c_fq_if_service_to_priority.d/extr_darwin-xnubsdnetpktschedpktsched_fq_codel.c_fq_if_service_to_priority_O0::fq_if_service_to_priority(89)"
+  }
+]

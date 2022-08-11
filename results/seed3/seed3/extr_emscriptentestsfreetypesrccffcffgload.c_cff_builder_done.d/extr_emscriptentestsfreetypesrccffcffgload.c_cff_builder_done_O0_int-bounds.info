@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_emscriptentestsfreetypesrccffcffgload.c_cff_builder_done.d/extr_emscriptentestsfreetypesrccffcffgload.c_cff_builder_done_O0::cff_builder_done(69)"
+  }
+]

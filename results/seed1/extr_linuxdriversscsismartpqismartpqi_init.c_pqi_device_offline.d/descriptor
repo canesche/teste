@@ -1,2 +1,0 @@
-struct pqi_scsi_dev | device_offline int 
-function pqi_device_offline int | device struct pqi_scsi_dev *

@@ -1,0 +1,2 @@
+struct device_node | dummy int 
+function of_pci_get_max_link_speed int | node struct device_node *

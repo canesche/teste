@@ -1,0 +1,1 @@
+function convert_zstencil_format int | format enum gs_zstencil_format

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxnetbridgebr_mdb.c___mdb_entry_fill_flags.d/extr_linuxnetbridgebr_mdb.c___mdb_entry_fill_flags_O0::__mdb_entry_fill_flags(64)"
+  }
+]

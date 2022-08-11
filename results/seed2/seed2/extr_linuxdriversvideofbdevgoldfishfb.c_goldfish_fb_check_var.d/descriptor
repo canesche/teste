@@ -1,0 +1,4 @@
+struct fb_var_screeninfo | rotate int | xres int | yres int | xres_virtual int | yres_virtual int | xoffset long | bits_per_pixel long | grayscale long 
+struct TYPE_2__ | rotate int | yres int | xres int | xoffset long | bits_per_pixel long | grayscale long 
+struct fb_info | var struct TYPE_2__ 
+function goldfish_fb_check_var int | var struct fb_var_screeninfo * | info struct fb_info *

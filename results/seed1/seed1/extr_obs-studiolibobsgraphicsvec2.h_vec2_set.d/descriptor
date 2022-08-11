@@ -1,0 +1,2 @@
+struct vec2 | x float | y float 
+function vec2_set void | dst struct vec2 * | x float | y float

@@ -1,3 +1,0 @@
-struct mmp_path | overlay_num int | overlays struct mmp_overlay * 
-struct mmp_overlay | dummy int 
-function path_get_overlay struct mmp_overlay * | path struct mmp_path * | overlay_id int

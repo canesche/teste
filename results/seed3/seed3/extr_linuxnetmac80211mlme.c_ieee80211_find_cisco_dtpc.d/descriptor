@@ -1,0 +1,3 @@
+struct ieee80211_sub_if_data | dummy int 
+struct ieee80211_channel | dummy int 
+function ieee80211_find_cisco_dtpc void | sdata struct ieee80211_sub_if_data * | channel struct ieee80211_channel * | cisco_dtpc_ie const long * | pwr_level int *

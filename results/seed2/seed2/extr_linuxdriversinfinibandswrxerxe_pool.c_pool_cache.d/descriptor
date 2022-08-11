@@ -1,0 +1,4 @@
+struct rxe_pool | type unsigned long 
+struct kmem_cache | dummy int 
+struct TYPE_2__ | cache struct kmem_cache * 
+function pool_cache struct kmem_cache * | pool struct rxe_pool *

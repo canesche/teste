@@ -1,2 +1,0 @@
-struct xen_drm_front_shbuf | grefs int * 
-function xen_drm_front_shbuf_get_dir_start int | buf struct xen_drm_front_shbuf *

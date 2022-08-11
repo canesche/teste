@@ -1,0 +1,6 @@
+struct snd_kcontrol | private_value long 
+struct snd_emu10k1_fx8010_ctl | min long | max int | vcount int 
+struct TYPE_3__ | min long | max int 
+struct TYPE_4__ | integer struct TYPE_3__ 
+struct snd_ctl_elem_info | value struct TYPE_4__ | count int | type int 
+function snd_emu10k1_gpr_ctl_info int | kcontrol struct snd_kcontrol * | uinfo struct snd_ctl_elem_info *

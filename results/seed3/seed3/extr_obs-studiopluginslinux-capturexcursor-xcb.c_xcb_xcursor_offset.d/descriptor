@@ -1,0 +1,2 @@
+struct TYPE_3__ | x_org int | y_org int 
+function xcb_xcursor_offset void | data struct TYPE_3__ * | x_org const int | y_org const int

@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function vlan_gvrp_request_leave void | dev const struct net_device *

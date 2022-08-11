@@ -1,0 +1,1 @@
+function nvdec_mjpeg_decode_slice int | avctx int * | buffer const int * | size int

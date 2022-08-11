@@ -1,0 +1,3 @@
+struct pipe_inode_info | dummy int 
+struct pipe_buffer | dummy int 
+function generic_pipe_buf_nosteal int | pipe struct pipe_inode_info * | buf struct pipe_buffer *

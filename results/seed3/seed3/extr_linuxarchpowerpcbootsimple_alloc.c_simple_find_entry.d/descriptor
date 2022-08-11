@@ -1,0 +1,2 @@
+struct alloc_info | flags int | base unsigned long 
+function simple_find_entry struct alloc_info * | ptr void *

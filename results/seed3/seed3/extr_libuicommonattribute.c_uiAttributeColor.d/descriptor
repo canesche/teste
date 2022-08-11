@@ -1,0 +1,4 @@
+struct TYPE_5__ | r double | g double | b double | a double 
+struct TYPE_6__ | color struct TYPE_5__ 
+struct TYPE_7__ | u struct TYPE_6__ 
+function uiAttributeColor void | a const struct TYPE_7__ * | r double * | g double * | b double * | alpha double *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | priv_key int * | pub_key int * 
+function DSA_get0_key void | d const struct TYPE_3__ * | pub_key const int ** | priv_key const int **

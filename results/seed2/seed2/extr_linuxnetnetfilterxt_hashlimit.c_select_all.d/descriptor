@@ -1,0 +1,3 @@
+struct xt_hashlimit_htable | dummy int 
+struct dsthash_ent | dummy int 
+function select_all int | ht const struct xt_hashlimit_htable * | he const struct dsthash_ent *

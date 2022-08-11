@@ -1,0 +1,2 @@
+struct user_namespace | dummy int 
+function setup_userns_sysctls int | ns struct user_namespace *

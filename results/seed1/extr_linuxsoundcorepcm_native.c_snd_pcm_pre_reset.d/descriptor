@@ -1,4 +1,0 @@
-struct snd_pcm_substream | runtime struct snd_pcm_runtime * 
-struct snd_pcm_runtime | status struct TYPE_2__ * 
-struct TYPE_2__ | state int 
-function snd_pcm_pre_reset int | substream struct snd_pcm_substream * | state int

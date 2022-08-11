@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function clear_irqprio int | vcpu struct kvm_vcpu * | priority unsigned int

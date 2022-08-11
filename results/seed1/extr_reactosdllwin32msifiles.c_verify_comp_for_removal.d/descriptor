@@ -1,2 +1,0 @@
-struct TYPE_3__ | Action int | Attributes int 
-function verify_comp_for_removal int | comp struct TYPE_3__ * | install_mode long

@@ -1,2 +1,0 @@
-struct pci_dev | device int 
-function pdev_is_gen1 int | pdev struct pci_dev *

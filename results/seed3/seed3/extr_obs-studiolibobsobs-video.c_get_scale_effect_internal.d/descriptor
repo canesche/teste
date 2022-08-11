@@ -1,0 +1,2 @@
+struct obs_core_video | output_width int | base_width int | output_height int | base_height int | scale_type int | bicubic_effect int * | lanczos_effect int * | default_effect int * | bilinear_lowres_effect int * 
+function get_scale_effect_internal int * | video struct obs_core_video *

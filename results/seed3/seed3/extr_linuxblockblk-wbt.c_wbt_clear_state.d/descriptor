@@ -1,0 +1,2 @@
+struct request | wbt_flags long 
+function wbt_clear_state void | rq struct request *

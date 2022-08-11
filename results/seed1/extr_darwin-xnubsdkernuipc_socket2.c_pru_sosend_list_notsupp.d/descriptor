@@ -1,3 +1,0 @@
-struct uio | dummy int 
-struct socket | dummy int 
-function pru_sosend_list_notsupp int | so struct socket * | uio struct uio ** | uiocnt int | flags int

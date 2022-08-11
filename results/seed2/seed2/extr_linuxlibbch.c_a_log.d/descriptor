@@ -1,0 +1,2 @@
+struct bch_control | a_log_tab int * 
+function a_log int | bch struct bch_control * | x unsigned int

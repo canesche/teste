@@ -1,0 +1,2 @@
+struct TYPE_3__ | si_fd int 
+function handler void | sig int | si struct TYPE_3__ * | data void *

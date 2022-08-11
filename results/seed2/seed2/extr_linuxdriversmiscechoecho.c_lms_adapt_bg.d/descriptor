@@ -1,0 +1,3 @@
+struct TYPE_2__ | history int * 
+struct oslec_state | curr_pos int | taps int | fir_taps16 int ** | fir_state_bg struct TYPE_2__ 
+function lms_adapt_bg void | ec struct oslec_state * | clean int | shift int

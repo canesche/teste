@@ -1,3 +1,0 @@
-struct vpx_image | cs unsigned long | fmt int 
-struct TYPE_3__ | colorspace int | codec_id long | pix_fmt int | profile int 
-function set_pix_fmt int | avctx struct TYPE_3__ * | img struct vpx_image * | has_alpha_channel int

@@ -1,0 +1,2 @@
+struct boot_data | Cryptor int 
+function StartDecryption void | boot struct boot_data *

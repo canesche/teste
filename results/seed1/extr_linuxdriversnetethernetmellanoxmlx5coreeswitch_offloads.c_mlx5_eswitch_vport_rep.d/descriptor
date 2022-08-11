@@ -1,4 +1,0 @@
-struct mlx5_eswitch_rep | dummy int 
-struct TYPE_2__ | vport_reps struct mlx5_eswitch_rep * 
-struct mlx5_eswitch | offloads struct TYPE_2__ 
-function mlx5_eswitch_vport_rep struct mlx5_eswitch_rep * | esw struct mlx5_eswitch * | vport int

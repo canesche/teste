@@ -1,0 +1,2 @@
+struct TYPE_2__ | gentitySize int | num_entities int | gameClientSize int | gameClients int * | gentities int * 
+function SV_LocateGameData void | gEnts int * | numGEntities int | sizeofGEntity_t int | clients int * | sizeofGameClient int

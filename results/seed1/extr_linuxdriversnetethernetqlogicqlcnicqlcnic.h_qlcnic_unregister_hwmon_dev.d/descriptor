@@ -1,2 +1,0 @@
-struct qlcnic_adapter | dummy int 
-function qlcnic_unregister_hwmon_dev void | adapter struct qlcnic_adapter *

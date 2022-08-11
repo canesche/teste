@@ -1,0 +1,2 @@
+struct ti_hecc_priv | tx_head int 
+function get_tx_head_mb int | priv struct ti_hecc_priv *

@@ -1,0 +1,1 @@
+function ngx_strncasecmp char | s1 int * | s2 int * | n unsigned long

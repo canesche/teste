@@ -1,0 +1,3 @@
+struct nvidia_par | paneltweak int | Chipset int 
+struct _riva_hw_state | bpp int 
+function nvidia_panel_tweak int | par struct nvidia_par * | state struct _riva_hw_state *

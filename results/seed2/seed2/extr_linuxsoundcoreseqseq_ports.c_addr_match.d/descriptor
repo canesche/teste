@@ -1,0 +1,2 @@
+struct snd_seq_addr | client long | port long 
+function addr_match int | r struct snd_seq_addr * | s struct snd_seq_addr *

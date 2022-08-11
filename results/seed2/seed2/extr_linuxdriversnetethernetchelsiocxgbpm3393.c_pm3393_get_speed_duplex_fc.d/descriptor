@@ -1,0 +1,3 @@
+struct cmac | instance struct TYPE_2__ * 
+struct TYPE_2__ | fc int 
+function pm3393_get_speed_duplex_fc int | cmac struct cmac * | speed int * | duplex int * | fc int *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | clrBk int 
+function TOOLTIPS_GetTipBkColor int | infoPtr const struct TYPE_3__ *

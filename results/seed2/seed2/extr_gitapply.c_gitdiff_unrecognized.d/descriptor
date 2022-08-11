@@ -1,0 +1,3 @@
+struct patch | dummy int 
+struct apply_state | dummy int 
+function gitdiff_unrecognized int | state struct apply_state * | line const char * | patch struct patch *

@@ -1,2 +1,0 @@
-struct psmouse | dummy int 
-function lifebook_detect int | psmouse struct psmouse * | set_properties int

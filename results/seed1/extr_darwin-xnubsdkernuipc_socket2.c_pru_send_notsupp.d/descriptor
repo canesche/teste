@@ -1,5 +1,0 @@
-struct socket | dummy int 
-struct sockaddr | dummy int 
-struct proc | dummy int 
-struct mbuf | dummy int 
-function pru_send_notsupp int | so struct socket * | flags int | m struct mbuf * | addr struct sockaddr * | control struct mbuf * | p struct proc *

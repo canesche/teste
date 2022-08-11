@@ -1,0 +1,2 @@
+struct dmz_metadata | nr_rnd unsigned int 
+function dmz_nr_rnd_zones unsigned int | zmd struct dmz_metadata *

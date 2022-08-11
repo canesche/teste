@@ -1,1 +1,0 @@
-function dv_write_dif_id int | t enum dv_section_type | chan_num int | seq_num int | dif_num int | buf int *

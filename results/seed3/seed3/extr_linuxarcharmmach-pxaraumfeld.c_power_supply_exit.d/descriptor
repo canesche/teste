@@ -1,0 +1,2 @@
+struct device | dummy int 
+function power_supply_exit void | dev struct device *

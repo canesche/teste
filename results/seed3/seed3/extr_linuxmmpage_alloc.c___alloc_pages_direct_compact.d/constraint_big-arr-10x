@@ -1,0 +1,1 @@
+value(gfp_mask) == 10, value(order) == 10, value(alloc_flags) == 10, length(compact_result) == 100, length(ac) == 100

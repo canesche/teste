@@ -1,3 +1,0 @@
-struct net_device | dummy int 
-struct mpoa_client | next struct mpoa_client * | dev struct net_device * 
-function find_mpc_by_lec struct mpoa_client * | dev struct net_device *

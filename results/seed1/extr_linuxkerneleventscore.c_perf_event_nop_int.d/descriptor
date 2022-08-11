@@ -1,2 +1,0 @@
-struct perf_event | dummy int 
-function perf_event_nop_int int | event struct perf_event * | value int

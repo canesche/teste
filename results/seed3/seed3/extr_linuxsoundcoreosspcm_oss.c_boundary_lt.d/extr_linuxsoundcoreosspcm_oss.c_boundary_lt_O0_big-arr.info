@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsoundcoreosspcm_oss.c_boundary_lt.d/extr_linuxsoundcoreosspcm_oss.c_boundary_lt_O0::boundary_lt(61)"
+  }
+]

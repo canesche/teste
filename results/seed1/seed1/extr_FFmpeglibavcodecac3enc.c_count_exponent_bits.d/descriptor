@@ -1,0 +1,3 @@
+struct TYPE_5__ | end_freq int * | cpl_in_use int 
+struct TYPE_4__ | num_blocks int | channels int | exp_strategy int ** | start_freq int * | blocks struct TYPE_5__ * 
+function count_exponent_bits int | s struct TYPE_4__ *

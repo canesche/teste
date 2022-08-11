@@ -1,0 +1,5 @@
+struct lg_drv_data | dummy int 
+struct hid_usage | dummy int 
+struct hid_field | dummy int 
+struct hid_device | dummy int 
+function lg4ff_adjust_input_event int | hid struct hid_device * | field struct hid_field * | usage struct hid_usage * | value int | drv_data struct lg_drv_data *

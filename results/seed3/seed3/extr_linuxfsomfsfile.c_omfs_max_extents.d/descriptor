@@ -1,0 +1,4 @@
+struct omfs_sb_info | s_sys_blocksize int 
+struct omfs_extent_entry | dummy int 
+struct omfs_extent | dummy int 
+function omfs_max_extents int | sbi struct omfs_sb_info * | offset int

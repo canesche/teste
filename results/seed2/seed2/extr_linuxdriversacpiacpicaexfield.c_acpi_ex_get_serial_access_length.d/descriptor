@@ -1,0 +1,1 @@
+function acpi_ex_get_serial_access_length int | accessor_type int | access_length int

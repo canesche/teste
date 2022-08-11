@@ -1,0 +1,3 @@
+struct lpfc_vport | dummy int 
+struct lpfc_nodelist | dummy int 
+function lpfc_cmpl_logo_unused_node int | vport struct lpfc_vport * | ndlp struct lpfc_nodelist * | arg void * | evt int

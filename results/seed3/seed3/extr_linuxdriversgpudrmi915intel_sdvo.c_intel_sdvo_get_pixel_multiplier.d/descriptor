@@ -1,0 +1,2 @@
+struct drm_display_mode | crtc_clock int 
+function intel_sdvo_get_pixel_multiplier int | adjusted_mode const struct drm_display_mode *

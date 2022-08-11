@@ -1,0 +1,6 @@
+struct hnae3_knic_private_info | prio_tc long * 
+struct TYPE_4__ | kinfo struct hnae3_knic_private_info 
+struct hclge_vport | nic struct TYPE_4__ 
+struct TYPE_3__ | num_tc long | prio_tc long * 
+struct hclge_dev | num_alloc_vport unsigned long | tm_info struct TYPE_3__ | vport struct hclge_vport * 
+function hclge_tm_prio_tc_info_update int | hdev struct hclge_dev * | prio_tc long *

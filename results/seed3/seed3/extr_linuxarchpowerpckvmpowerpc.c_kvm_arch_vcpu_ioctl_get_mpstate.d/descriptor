@@ -1,0 +1,3 @@
+struct kvm_vcpu | dummy int 
+struct kvm_mp_state | dummy int 
+function kvm_arch_vcpu_ioctl_get_mpstate int | vcpu struct kvm_vcpu * | mp_state struct kvm_mp_state *

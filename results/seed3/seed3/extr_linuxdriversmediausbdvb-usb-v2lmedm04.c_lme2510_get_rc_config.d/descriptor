@@ -1,0 +1,3 @@
+struct dvb_usb_rc | allowed_protos int 
+struct dvb_usb_device | dummy int 
+function lme2510_get_rc_config int | d struct dvb_usb_device * | rc struct dvb_usb_rc *

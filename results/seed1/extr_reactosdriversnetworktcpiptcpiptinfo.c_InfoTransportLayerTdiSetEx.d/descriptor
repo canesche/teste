@@ -1,1 +1,0 @@
-function InfoTransportLayerTdiSetEx int | InfoClass int | InfoType int | InfoId int | Context int | id int * | Buffer int | BufferSize int

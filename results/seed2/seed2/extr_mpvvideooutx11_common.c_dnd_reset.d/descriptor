@@ -1,0 +1,3 @@
+struct vo_x11_state | dnd_requested_format long | dnd_src_window long 
+struct vo | x11 struct vo_x11_state * 
+function dnd_reset void | vo struct vo *

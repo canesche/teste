@@ -1,0 +1,1 @@
+function sysfs_set_sched int | smt_mc const char * | val int

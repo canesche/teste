@@ -1,0 +1,2 @@
+struct driver_data | ssp_type long 
+function is_quark_x1000_ssp int | drv_data const struct driver_data *

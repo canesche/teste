@@ -1,6 +1,0 @@
-struct TYPE_8__ | wqe_shift int 
-struct TYPE_6__ | buf void * 
-struct TYPE_7__ | page_list struct TYPE_5__ * | direct struct TYPE_6__ 
-struct mthca_qp | send_wqe_offset int | sq struct TYPE_8__ | queue struct TYPE_7__ | is_direct long 
-struct TYPE_5__ | buf void * 
-function get_send_wqe void * | qp struct mthca_qp * | n int

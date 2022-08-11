@@ -1,2 +1,0 @@
-struct kvm_mtrr_range | mask int 
-function var_mtrr_range_is_valid int | range struct kvm_mtrr_range *

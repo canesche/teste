@@ -1,2 +1,0 @@
-struct dictionary | num_entries int 
-function dictionary_num_entries int | d struct dictionary *

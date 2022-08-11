@@ -1,4 +1,0 @@
-struct wndclass_redirect_data | dummy int 
-struct string_index | data_offset int 
-struct TYPE_3__ | wndclass_section long 
-function get_wndclass_data struct wndclass_redirect_data * | ctxt struct TYPE_3__ * | index struct string_index *

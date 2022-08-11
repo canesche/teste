@@ -1,0 +1,2 @@
+struct adapter | dummy int 
+function hal_btcoex_IQKNotify void | padapter struct adapter * | state int

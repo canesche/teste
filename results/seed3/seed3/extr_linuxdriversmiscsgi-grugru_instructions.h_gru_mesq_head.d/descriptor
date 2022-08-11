@@ -1,0 +1,2 @@
+struct gru_mesqhead | head int | limit int 
+function gru_mesq_head union gru_mesqhead | head int | limit int

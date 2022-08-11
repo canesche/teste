@@ -1,2 +1,0 @@
-struct file | dummy int 
-function f2fs_ioc_setproject int | filp struct file * | projid long

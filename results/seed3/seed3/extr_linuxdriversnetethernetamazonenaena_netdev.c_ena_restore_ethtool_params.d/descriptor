@@ -1,0 +1,2 @@
+struct ena_adapter | tx_frames int | rx_frames int | rx_usecs long | tx_usecs long 
+function ena_restore_ethtool_params void | adapter struct ena_adapter *

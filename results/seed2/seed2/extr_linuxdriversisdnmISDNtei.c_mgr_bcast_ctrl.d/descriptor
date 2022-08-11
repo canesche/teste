@@ -1,0 +1,2 @@
+struct mISDNchannel | dummy int 
+function mgr_bcast_ctrl int | ch struct mISDNchannel * | cmd int | arg void *

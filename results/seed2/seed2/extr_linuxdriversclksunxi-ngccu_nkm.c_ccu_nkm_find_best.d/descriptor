@@ -1,0 +1,2 @@
+struct _ccu_nkm | min_k unsigned long | max_k unsigned long | min_n unsigned long | max_n unsigned long | min_m unsigned long | max_m unsigned long | n unsigned long | k unsigned long | m unsigned long 
+function ccu_nkm_find_best void | parent unsigned long | rate unsigned long | nkm struct _ccu_nkm *

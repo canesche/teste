@@ -1,2 +1,0 @@
-struct bttv_fh | resources int 
-function check_btres int | fh struct bttv_fh * | bit int

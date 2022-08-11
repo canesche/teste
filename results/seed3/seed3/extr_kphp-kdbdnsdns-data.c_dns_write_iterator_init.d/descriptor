@@ -1,0 +1,2 @@
+struct TYPE_3__ | start unsigned char * | wptr unsigned char * | olen int | avail_out int | domain_buff int | domain_wptr int | domains long 
+function dns_write_iterator_init void | B struct TYPE_3__ * | out unsigned char * | olen int

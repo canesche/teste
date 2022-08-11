@@ -1,2 +1,0 @@
-struct Qdisc | flags int 
-function fq_codel_bind unsigned long | sch struct Qdisc * | parent unsigned long | classid int

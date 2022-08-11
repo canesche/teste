@@ -1,2 +1,0 @@
-struct pci_bus | number int 
-function mk_conf_addr int | pbus struct pci_bus * | device_fn unsigned int | where int | pci_addr unsigned long *

@@ -1,0 +1,1 @@
+function omap_wakeup_interrupt int | irq int | dev void *

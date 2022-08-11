@@ -1,0 +1,4 @@
+struct bnad_rx_info | rx_ctrl struct TYPE_2__ * 
+struct bnad | num_rxp_per_rx int | rx_info struct bnad_rx_info * 
+struct TYPE_2__ | bnad struct bnad * 
+function bnad_rx_ctrl_init void | bnad struct bnad * | rx_id unsigned long

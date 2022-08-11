@@ -1,0 +1,3 @@
+struct fb_var_screeninfo | yoffset int | xoffset int | bits_per_pixel int 
+struct fb_fix_screeninfo | line_length int 
+function calc_rotation_offset_dma unsigned int | var const struct fb_var_screeninfo * | fix const struct fb_fix_screeninfo * | rotation int

@@ -1,4 +1,0 @@
-struct fcloop_rport | dummy int 
-struct fcloop_nport | rport struct fcloop_rport * | tport struct TYPE_2__ * 
-struct TYPE_2__ | remoteport int * 
-function __unlink_remote_port struct fcloop_rport * | nport struct fcloop_nport *

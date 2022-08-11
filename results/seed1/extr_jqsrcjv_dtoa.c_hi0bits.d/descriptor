@@ -1,2 +1,0 @@
-struct dtoa_context | dummy int 
-function hi0bits int | C struct dtoa_context * | x int

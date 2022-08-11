@@ -1,0 +1,2 @@
+struct TYPE_3__ | ptr int | type int 
+function xtensa_l32r_op void | anal int * | op struct TYPE_3__ * | addr int | buf const int *

@@ -1,0 +1,2 @@
+struct audio_output_info | samples_per_sec long | speakers long | name long | format long 
+function valid_audio_params int | info const struct audio_output_info *

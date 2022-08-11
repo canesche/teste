@@ -1,3 +1,0 @@
-struct pack_list | all_objects_size long | remaining_objects struct TYPE_2__ * 
-struct TYPE_2__ | size long 
-function cmp_remaining_objects int | a const void * | b const void *

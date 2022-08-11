@@ -1,0 +1,2 @@
+struct TYPE_3__ | num_bytes int 
+function uECC_compress void | public_key const int * | compressed int * | curve struct TYPE_3__ *

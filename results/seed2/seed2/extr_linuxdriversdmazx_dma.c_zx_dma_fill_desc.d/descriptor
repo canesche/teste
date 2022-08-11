@@ -1,0 +1,4 @@
+struct zx_dma_desc_sw | desc_num int | desc_hw struct TYPE_2__ * | desc_hw_lli long 
+struct zx_desc_hw | dummy int 
+struct TYPE_2__ | src_x unsigned long | ctr int | daddr void * | saddr void * | lli long 
+function zx_dma_fill_desc void | ds struct zx_dma_desc_sw * | dst void * | src void * | len unsigned long | num int | ccfg int

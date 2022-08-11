@@ -1,0 +1,3 @@
+struct dentry | dummy int 
+struct da9030_charger | dummy int 
+function da9030_bat_create_debugfs struct dentry * | charger struct da9030_charger *

@@ -1,0 +1,2 @@
+struct inode | i_bytes int | i_blocks long 
+function __inode_add_bytes void | inode struct inode * | bytes int

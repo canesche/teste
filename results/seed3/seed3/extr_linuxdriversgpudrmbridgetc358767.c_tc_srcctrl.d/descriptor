@@ -1,0 +1,4 @@
+struct TYPE_4__ | num_lanes int | rate int 
+struct TYPE_3__ | base struct TYPE_4__ | spread long | coding8b10b long | scrambler_dis long 
+struct tc_data | link struct TYPE_3__ 
+function tc_srcctrl int | tc struct tc_data *

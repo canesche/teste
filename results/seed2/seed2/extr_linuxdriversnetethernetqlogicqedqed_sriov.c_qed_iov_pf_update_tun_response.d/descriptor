@@ -1,0 +1,10 @@
+struct TYPE_14__ | port int 
+struct TYPE_13__ | port int 
+struct TYPE_12__ | tun_cls int | b_mode_enabled int 
+struct TYPE_11__ | tun_cls int | b_mode_enabled int 
+struct TYPE_10__ | tun_cls int 
+struct TYPE_9__ | tun_cls int | b_mode_enabled int 
+struct TYPE_8__ | tun_cls int | b_mode_enabled int 
+struct qed_tunnel_info | vxlan_port struct TYPE_14__ | geneve_port struct TYPE_13__ | ip_geneve struct TYPE_12__ | l2_geneve struct TYPE_11__ | ip_gre struct TYPE_10__ | l2_gre struct TYPE_9__ | vxlan struct TYPE_8__ 
+struct pfvf_update_tunn_param_tlv | vxlan_udp_port int | geneve_udp_port int | ipgeneve_clss int | l2geneve_clss int | ipgre_clss int | l2gre_clss int | vxlan_clss int | ipgre_mode int | l2gre_mode int | ipgeneve_mode int | l2geneve_mode int | vxlan_mode int | tunn_feature_mask int 
+function qed_iov_pf_update_tun_response void | p_resp struct pfvf_update_tunn_param_tlv * | p_tun struct qed_tunnel_info * | tunn_feature_mask int

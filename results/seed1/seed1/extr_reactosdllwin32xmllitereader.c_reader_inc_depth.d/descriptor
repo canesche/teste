@@ -1,0 +1,2 @@
+struct TYPE_3__ | depth long | max_depth long 
+function reader_inc_depth int | reader struct TYPE_3__ *

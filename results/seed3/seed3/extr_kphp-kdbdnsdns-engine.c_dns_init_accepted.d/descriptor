@@ -1,0 +1,3 @@
+struct connection | last_query_time int 
+struct TYPE_2__ | dns_tcp_connections int 
+function dns_init_accepted int | c struct connection *

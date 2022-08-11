@@ -1,0 +1,4 @@
+struct TYPE_9__ | data float ** | linesize int * 
+struct TYPE_8__ | depth int 
+struct TYPE_7__ | re float | im long 
+function get_input void | s struct TYPE_8__ * | fft_hdata struct TYPE_7__ * | in struct TYPE_9__ * | w int | h int | n int | plane int | scale float

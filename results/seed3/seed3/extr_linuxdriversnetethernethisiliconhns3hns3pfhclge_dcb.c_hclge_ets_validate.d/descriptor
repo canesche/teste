@@ -1,0 +1,5 @@
+struct ieee_ets | prio_tc long * | tc_tsa int * | tc_tx_bw int * 
+struct TYPE_4__ | prio_tc long * | num_tc unsigned long | tc_info struct TYPE_3__ * 
+struct hclge_dev | tc_max long | tm_info struct TYPE_4__ 
+struct TYPE_3__ | tc_sch_mode int 
+function hclge_ets_validate int | hdev struct hclge_dev * | ets struct ieee_ets * | tc unsigned long * | changed int *

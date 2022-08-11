@@ -1,0 +1,2 @@
+struct sock | sk_family int 
+function compare_family int | sk struct sock * | family int

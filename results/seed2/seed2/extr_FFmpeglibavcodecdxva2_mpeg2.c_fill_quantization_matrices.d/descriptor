@@ -1,0 +1,4 @@
+struct TYPE_4__ | idct_permutation int * 
+struct MpegEncContext | chroma_inter_matrix int * | chroma_intra_matrix int * | inter_matrix int * | intra_matrix int * | idsp struct TYPE_4__ 
+struct TYPE_5__ | bNewQmatrix int * | Qmatrix int ** 
+function fill_quantization_matrices void | avctx int * | ctx int * | s const struct MpegEncContext * | qm struct TYPE_5__ *

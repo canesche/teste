@@ -1,0 +1,2 @@
+struct TYPE_3__ | stepcount long | result long | step int 
+function base64_init_encodestate void | state_in struct TYPE_3__ *

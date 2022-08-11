@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function jfs_quota_off_umount void | sb struct super_block *

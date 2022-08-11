@@ -1,0 +1,3 @@
+struct TYPE_4__ | salts_cnt long | salts_done long 
+struct TYPE_5__ | hashes struct TYPE_4__ * 
+function status_get_salts_percent double | hashcat_ctx const struct TYPE_5__ *

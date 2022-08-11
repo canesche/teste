@@ -1,0 +1,3 @@
+struct ps3_firmware_version | raw long | rev void * | minor void * | major void * | pad long 
+struct TYPE_2__ | raw long 
+function ps3_compare_firmware_version int | major void * | minor void * | rev void *

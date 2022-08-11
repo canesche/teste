@@ -1,0 +1,2 @@
+struct pnp_dev | dummy int 
+function pci_uses_irq int | pnp struct pnp_dev * | irq unsigned int

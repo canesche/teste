@@ -1,0 +1,2 @@
+struct qe_udc | dummy int 
+function bsy_irq int | udc struct qe_udc *

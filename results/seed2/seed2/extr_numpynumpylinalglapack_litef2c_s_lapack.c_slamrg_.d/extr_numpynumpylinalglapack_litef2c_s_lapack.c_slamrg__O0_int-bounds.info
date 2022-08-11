@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_numpynumpylinalglapack_litef2c_s_lapack.c_slamrg_.d/extr_numpynumpylinalglapack_litef2c_s_lapack.c_slamrg__O0::slamrg_(63)"
+  }
+]

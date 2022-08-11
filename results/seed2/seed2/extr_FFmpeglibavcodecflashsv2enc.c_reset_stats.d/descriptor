@@ -1,0 +1,2 @@
+struct TYPE_3__ | diff_blocks double | tot_blocks int | diff_lines double | tot_lines int | raw_size int | comp_size int | uncomp_size int 
+function reset_stats void | s struct TYPE_3__ *

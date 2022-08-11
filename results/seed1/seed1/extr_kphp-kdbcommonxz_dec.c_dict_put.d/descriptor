@@ -1,0 +1,2 @@
+struct dictionary | pos long | full long | buf int * 
+function dict_put void | dict struct dictionary * | byte int

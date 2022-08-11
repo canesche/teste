@@ -1,0 +1,3 @@
+struct TYPE_3__ | numVerts int | numIndexes int | indexes int * | vertexes int * 
+struct TYPE_4__ | numSurfaces int | vertexCommitSize int | indexCommitSize int | surfaces struct TYPE_3__ * 
+function VaoCache_AddSurface void | verts int * | numVerts int | indexes int * | numIndexes int

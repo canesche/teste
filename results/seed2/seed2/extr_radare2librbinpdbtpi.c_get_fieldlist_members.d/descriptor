@@ -1,0 +1,3 @@
+struct TYPE_4__ | substructs int * 
+struct TYPE_3__ | type_info long 
+function get_fieldlist_members void | type void * | l int **

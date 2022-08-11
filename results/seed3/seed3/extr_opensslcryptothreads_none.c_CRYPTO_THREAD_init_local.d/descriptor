@@ -1,0 +1,1 @@
+function CRYPTO_THREAD_init_local int | key unsigned long * | cleanup void (*)(void *)

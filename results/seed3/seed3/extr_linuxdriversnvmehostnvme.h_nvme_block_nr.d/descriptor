@@ -1,0 +1,2 @@
+struct nvme_ns | lba_shift int 
+function nvme_block_nr int | ns struct nvme_ns * | sector int

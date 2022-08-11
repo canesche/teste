@@ -1,0 +1,2 @@
+struct snd_soc_pcm_stream | stream_name char * | channels_min int | channels_max int | formats int | rates int 
+function stm32_i2s_dai_init void | stream struct snd_soc_pcm_stream * | stream_name char *

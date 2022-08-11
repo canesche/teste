@@ -1,0 +1,1 @@
+function RegpApplyRestrictions int | dwFlags int | dwType int | cbData int | ret long *

@@ -1,0 +1,4 @@
+struct cifs_ses | capabilities int | server struct TYPE_4__ * 
+struct TYPE_4__ | vals struct TYPE_3__ * 
+struct TYPE_3__ | cap_unix int 
+function cap_unix int | ses struct cifs_ses *

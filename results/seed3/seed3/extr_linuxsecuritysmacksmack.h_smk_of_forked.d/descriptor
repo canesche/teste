@@ -1,0 +1,3 @@
+struct task_smack | smk_forked struct smack_known * 
+struct smack_known | dummy int 
+function smk_of_forked struct smack_known * | tsp const struct task_smack *

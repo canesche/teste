@@ -1,0 +1,4 @@
+struct mxl5005s_state | TunerRegs struct TYPE_2__ * | TunerRegs_Num int 
+struct dvb_frontend | tuner_priv struct mxl5005s_state * 
+struct TYPE_2__ | Reg_Num int | Reg_Val int 
+function MXL5005_RegisterInit int | fe struct dvb_frontend *

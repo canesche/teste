@@ -1,0 +1,3 @@
+struct snapshot_record | start char * 
+struct TYPE_2__ | hexsz int 
+function cmp_packed_ref_records int | v1 const void * | v2 const void *

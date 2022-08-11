@@ -1,3 +1,0 @@
-struct module | dummy int 
-struct load_info | dummy int 
-function check_modstruct_version int | info const struct load_info * | mod struct module *

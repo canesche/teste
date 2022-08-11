@@ -1,3 +1,0 @@
-struct TYPE_3__ | tmPitchAndFamily int 
-struct TYPE_4__ | tm struct TYPE_3__ 
-function get_cache_pitch_family int | psc long *

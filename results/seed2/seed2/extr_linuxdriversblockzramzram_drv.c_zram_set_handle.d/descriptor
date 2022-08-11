@@ -1,0 +1,3 @@
+struct zram | table struct TYPE_2__ * 
+struct TYPE_2__ | handle unsigned long 
+function zram_set_handle void | zram struct zram * | index unsigned long | handle unsigned long

@@ -1,3 +1,0 @@
-struct nouveau_cli | dummy int 
-struct drm_file | driver_priv struct nouveau_cli * 
-function nouveau_cli struct nouveau_cli * | fpriv struct drm_file *

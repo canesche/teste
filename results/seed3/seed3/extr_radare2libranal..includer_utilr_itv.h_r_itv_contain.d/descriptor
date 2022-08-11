@@ -1,0 +1,2 @@
+struct TYPE_3__ | addr long | size long 
+function r_itv_contain int | itv struct TYPE_3__ | addr long

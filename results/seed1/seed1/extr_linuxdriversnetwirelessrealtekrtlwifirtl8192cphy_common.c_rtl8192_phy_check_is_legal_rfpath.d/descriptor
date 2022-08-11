@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function rtl8192_phy_check_is_legal_rfpath int | hw struct ieee80211_hw * | rfpath int

@@ -1,5 +1,0 @@
-struct acpi_video_device | device_id int | video struct acpi_video_bus * 
-struct acpi_video_bus | attached_count int | child_count int | attached_array struct TYPE_4__ * 
-struct TYPE_3__ | int_val int 
-struct TYPE_4__ | value struct TYPE_3__ 
-function acpi_video_device_in_dod int | device struct acpi_video_device *

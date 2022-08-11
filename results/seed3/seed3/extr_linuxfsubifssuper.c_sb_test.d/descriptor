@@ -1,0 +1,4 @@
+struct TYPE_2__ | cdev long 
+struct ubifs_info | vi struct TYPE_2__ 
+struct super_block | s_fs_info struct ubifs_info * 
+function sb_test int | sb struct super_block * | data void *

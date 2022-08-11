@@ -1,0 +1,4 @@
+struct unaligned_opaque_data | first_mpa_offset int | tcp_payload_offset int 
+struct qed_iwarp_ll2_buff | data_phys_addr int | data long 
+struct qed_iwarp_fpdu | pkt_hdr int | mpa_frag int | mpa_frag_virt int * | incomplete_bytes int | fpdu_length int | mpa_frag_len int | pkt_hdr_size int | mpa_buf struct qed_iwarp_ll2_buff * 
+function qed_iwarp_init_fpdu void | buf struct qed_iwarp_ll2_buff * | fpdu struct qed_iwarp_fpdu * | pkt_data struct unaligned_opaque_data * | tcp_payload_size int | placement_offset int

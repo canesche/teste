@@ -1,0 +1,2 @@
+struct bna_enet | bna int * | flags long 
+function bna_enet_uninit void | enet struct bna_enet *

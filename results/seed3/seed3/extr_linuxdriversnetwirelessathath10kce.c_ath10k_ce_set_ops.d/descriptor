@@ -1,0 +1,3 @@
+struct ath10k_ce_pipe | ops int * 
+struct ath10k | hw_rev int 
+function ath10k_ce_set_ops void | ar struct ath10k * | ce_state struct ath10k_ce_pipe *

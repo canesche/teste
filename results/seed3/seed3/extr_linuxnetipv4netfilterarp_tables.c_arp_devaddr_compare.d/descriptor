@@ -1,0 +1,2 @@
+struct arpt_devaddr_info | addr const char * | mask const char * 
+function arp_devaddr_compare int | ap const struct arpt_devaddr_info * | hdr_addr const char * | len int

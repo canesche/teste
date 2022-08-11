@@ -1,0 +1,2 @@
+struct parser | line int * 
+function close_current_line void | parser struct parser *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | value int | segment struct TYPE_4__ * 
+struct TYPE_4__ | imageUsed int 
+function HackToSegment void | seg unsigned long

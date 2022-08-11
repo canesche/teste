@@ -1,2 +1,0 @@
-struct ahash_req_ctx | buff_index int | buf_cnt int * 
-function cc_next_buf_cnt int * | state struct ahash_req_ctx *

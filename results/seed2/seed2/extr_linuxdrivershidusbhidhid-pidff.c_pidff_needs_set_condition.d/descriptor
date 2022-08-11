@@ -1,0 +1,4 @@
+struct TYPE_2__ | condition struct ff_condition_effect * 
+struct ff_effect | u struct TYPE_2__ 
+struct ff_condition_effect | center long | right_coeff long | left_coeff long | right_saturation long | left_saturation long | deadband long 
+function pidff_needs_set_condition int | effect struct ff_effect * | old struct ff_effect *

@@ -1,3 +1,0 @@
-struct TYPE_2__ | code int 
-struct nfp_insn_meta | insn struct TYPE_2__ 
-function is_mbpf_load int | meta const struct nfp_insn_meta *

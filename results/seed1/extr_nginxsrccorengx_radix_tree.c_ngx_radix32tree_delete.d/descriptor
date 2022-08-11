@@ -1,3 +1,0 @@
-struct TYPE_4__ | free struct TYPE_5__ * | root struct TYPE_5__ * 
-struct TYPE_5__ | value long | parent struct TYPE_5__ * | left struct TYPE_5__ * | right struct TYPE_5__ * 
-function ngx_radix32tree_delete int | tree struct TYPE_4__ * | key int | mask int

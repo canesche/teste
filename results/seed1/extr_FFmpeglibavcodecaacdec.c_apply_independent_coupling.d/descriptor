@@ -1,8 +1,0 @@
-struct TYPE_17__ | oc struct TYPE_13__ * 
-struct TYPE_14__ | gain float ** 
-struct TYPE_16__ | ch struct TYPE_11__ * | coup struct TYPE_14__ 
-struct TYPE_15__ | ret float * 
-struct TYPE_12__ | sbr int 
-struct TYPE_13__ | m4ac struct TYPE_12__ 
-struct TYPE_11__ | ret float * 
-function apply_independent_coupling void | ac struct TYPE_17__ * | target struct TYPE_15__ * | cce struct TYPE_16__ * | index int

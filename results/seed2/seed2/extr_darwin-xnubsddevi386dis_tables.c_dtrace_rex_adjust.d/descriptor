@@ -1,0 +1,1 @@
+function dtrace_rex_adjust void | rex_prefix int | mode int | reg int * | r_m int *

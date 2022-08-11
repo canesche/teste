@@ -1,0 +1,2 @@
+struct TYPE_2__ | font_extra int 
+function cid_ps_get_font_extra int | face long | afont_extra int *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | nameNr int | nameTab int ** | name int * 
+function namePop const int * | ctxt struct TYPE_3__ *

@@ -1,2 +1,0 @@
-struct TYPE_3__ | n int | x int * | no_repeat_mask int | pitch_lag long 
-function ff_clear_fixed_vector void | out float * | in const struct TYPE_3__ * | size int

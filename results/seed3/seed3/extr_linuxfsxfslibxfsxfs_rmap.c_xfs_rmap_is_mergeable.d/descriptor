@@ -1,0 +1,2 @@
+struct xfs_rmap_irec | rm_owner long | rm_flags unsigned int 
+function xfs_rmap_is_mergeable int | irec struct xfs_rmap_irec * | owner long | flags unsigned int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxsoundpcioxygenoxygen_pcm.c_oxygen_substream_channel.d/extr_linuxsoundpcioxygenoxygen_pcm.c_oxygen_substream_channel_O0::oxygen_substream_channel(64)"
+  }
+]

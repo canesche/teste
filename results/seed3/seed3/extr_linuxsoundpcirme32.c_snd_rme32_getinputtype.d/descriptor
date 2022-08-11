@@ -1,0 +1,2 @@
+struct rme32 | wcreg int 
+function snd_rme32_getinputtype int | rme32 struct rme32 *

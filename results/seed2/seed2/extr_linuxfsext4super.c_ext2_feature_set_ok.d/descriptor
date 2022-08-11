@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function ext2_feature_set_ok int | sb struct super_block *

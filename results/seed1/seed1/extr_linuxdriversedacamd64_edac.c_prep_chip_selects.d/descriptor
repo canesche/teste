@@ -1,0 +1,3 @@
+struct amd64_pvt | fam int | ext_model long | model int | csels struct TYPE_2__ * 
+struct TYPE_2__ | b_cnt int | m_cnt int 
+function prep_chip_selects void | pvt struct amd64_pvt *

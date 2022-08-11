@@ -1,0 +1,2 @@
+struct mmp_clk_mix | mux_table unsigned int * 
+function _get_mux_val unsigned int | mix struct mmp_clk_mix * | mux unsigned int

@@ -1,2 +1,0 @@
-struct clist | c_cc long | c_cf int * | c_cs int * | c_ce int * | c_cl int * | c_cq long * 
-function getc int | clp struct clist *

@@ -1,0 +1,2 @@
+struct type_descriptor | type_kind long 
+function type_is_int int | type struct type_descriptor *

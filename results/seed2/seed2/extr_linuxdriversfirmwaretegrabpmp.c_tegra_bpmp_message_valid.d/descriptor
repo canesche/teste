@@ -1,0 +1,4 @@
+struct TYPE_4__ | size long | data long 
+struct TYPE_3__ | size long | data long 
+struct tegra_bpmp_message | rx struct TYPE_4__ | tx struct TYPE_3__ 
+function tegra_bpmp_message_valid int | msg const struct tegra_bpmp_message *

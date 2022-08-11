@@ -1,0 +1,4 @@
+struct task_struct | signal struct TYPE_2__ * | thread_pid struct pid * 
+struct pid | dummy int 
+struct TYPE_2__ | pids struct pid ** 
+function init_task_pid void | task struct task_struct * | type enum pid_type | pid struct pid *

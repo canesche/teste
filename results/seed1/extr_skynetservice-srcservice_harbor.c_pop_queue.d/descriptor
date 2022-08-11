@@ -1,3 +1,0 @@
-struct harbor_msg_queue | head unsigned long | tail unsigned long | size int | data struct harbor_msg * 
-struct harbor_msg | dummy int 
-function pop_queue struct harbor_msg * | queue struct harbor_msg_queue *

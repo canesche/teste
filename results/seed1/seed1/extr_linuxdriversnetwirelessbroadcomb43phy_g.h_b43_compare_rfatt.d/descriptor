@@ -1,0 +1,2 @@
+struct b43_rfatt | att long | with_padmix long 
+function b43_compare_rfatt int | a const struct b43_rfatt * | b const struct b43_rfatt *

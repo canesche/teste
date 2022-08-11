@@ -1,0 +1,7 @@
+struct TYPE_12__ | lpVtbl int * 
+struct TYPE_11__ | lpVtbl int * 
+struct TYPE_10__ | lpVtbl int * 
+struct TYPE_9__ | lpVtbl int * 
+struct TYPE_8__ | lpVtbl int * 
+struct TYPE_13__ | IPersistHistory_iface struct TYPE_12__ | IPersistStreamInit_iface struct TYPE_11__ | IMonikerProp_iface struct TYPE_10__ | IPersistFile_iface struct TYPE_9__ | IPersistMoniker_iface struct TYPE_8__ 
+function HTMLDocument_Persist_Init void | This struct TYPE_13__ *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | size long | base long 
+struct module | core_layout struct TYPE_2__ 
+function in_core int | mod const struct module * | addr long

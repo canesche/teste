@@ -1,0 +1,2 @@
+struct qed_hwfn | dummy int 
+function qed_vf_hw_prepare int | p_hwfn struct qed_hwfn *

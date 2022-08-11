@@ -1,5 +1,0 @@
-struct TYPE_3__ | u32_val int 
-struct team_gsetter_ctx | data struct TYPE_3__ 
-struct TYPE_4__ | interval int 
-struct team | notify_peers struct TYPE_4__ 
-function team_notify_peers_interval_get int | team struct team * | ctx struct team_gsetter_ctx *

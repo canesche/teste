@@ -1,1 +1,0 @@
-function devm_hwmon_match int | dev struct device * | res void * | data void *

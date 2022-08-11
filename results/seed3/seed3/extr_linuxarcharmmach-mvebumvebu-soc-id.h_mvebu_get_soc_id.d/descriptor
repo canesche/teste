@@ -1,0 +1,1 @@
+function mvebu_get_soc_id int | dev int * | rev int *

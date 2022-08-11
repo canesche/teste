@@ -1,3 +1,0 @@
-struct ocrdma_ucontext | cntxt_pd struct ocrdma_pd * 
-struct ocrdma_pd | dummy int 
-function is_ucontext_pd int | uctx struct ocrdma_ucontext * | pd struct ocrdma_pd *

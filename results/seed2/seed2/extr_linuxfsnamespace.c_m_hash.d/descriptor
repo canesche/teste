@@ -1,0 +1,4 @@
+struct vfsmount | dummy int 
+struct hlist_head | dummy int 
+struct dentry | dummy int 
+function m_hash struct hlist_head * | mnt struct vfsmount * | dentry struct dentry *

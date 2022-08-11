@@ -1,0 +1,3 @@
+struct ifnet | if_baudrate int 
+struct bstp_port | bp_flags int | bp_path_cost int | bp_if_link_state long | bp_protover long | bp_ifp struct ifnet * 
+function bstp_calc_path_cost int | bp struct bstp_port *

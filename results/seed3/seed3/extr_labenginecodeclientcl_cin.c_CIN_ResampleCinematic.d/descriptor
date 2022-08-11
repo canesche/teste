@@ -1,0 +1,2 @@
+struct TYPE_2__ | buf int * | CIN_WIDTH int | CIN_HEIGHT int 
+function CIN_ResampleCinematic void | handle int | buf2 int *

@@ -1,0 +1,2 @@
+struct lev_new_entry | object_id int 
+function upcopy_list_object_id void | E void * | list_id int | object_id int

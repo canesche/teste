@@ -1,0 +1,2 @@
+struct drm_connector | dummy int 
+function vidi_connector_destroy void | connector struct drm_connector *

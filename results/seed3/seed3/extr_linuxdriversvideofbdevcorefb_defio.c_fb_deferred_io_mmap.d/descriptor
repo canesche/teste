@@ -1,0 +1,3 @@
+struct vm_area_struct | vm_flags int | vm_private_data struct fb_info * | vm_ops int * 
+struct fb_info | flags int 
+function fb_deferred_io_mmap int | info struct fb_info * | vma struct vm_area_struct *

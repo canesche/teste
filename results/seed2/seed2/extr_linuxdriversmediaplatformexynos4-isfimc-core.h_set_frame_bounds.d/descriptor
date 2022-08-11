@@ -1,0 +1,2 @@
+struct fimc_frame | f_height void * | f_width void * | o_height void * | o_width void * 
+function set_frame_bounds void | f struct fimc_frame * | width void * | height void *

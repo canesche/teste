@@ -1,3 +1,0 @@
-struct net_device | num_tc unsigned long | tc_to_txq struct TYPE_2__ * 
-struct TYPE_2__ | offset void * | count void * 
-function netdev_set_tc_queue int | dev struct net_device * | tc unsigned long | count void * | offset void *

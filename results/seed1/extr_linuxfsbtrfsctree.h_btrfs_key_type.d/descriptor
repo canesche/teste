@@ -1,2 +1,0 @@
-struct btrfs_key | type int 
-function btrfs_key_type int | key const struct btrfs_key *

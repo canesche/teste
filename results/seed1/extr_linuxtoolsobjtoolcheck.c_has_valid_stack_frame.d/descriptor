@@ -1,4 +1,0 @@
-struct TYPE_3__ | base unsigned long 
-struct insn_state | regs struct TYPE_4__ * | drap long | cfa struct TYPE_3__ 
-struct TYPE_4__ | base unsigned long | offset int 
-function has_valid_stack_frame int | state struct insn_state *

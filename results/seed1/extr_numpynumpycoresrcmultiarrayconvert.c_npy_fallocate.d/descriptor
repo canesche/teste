@@ -1,1 +1,0 @@
-function npy_fallocate int | nbytes int | fp int *

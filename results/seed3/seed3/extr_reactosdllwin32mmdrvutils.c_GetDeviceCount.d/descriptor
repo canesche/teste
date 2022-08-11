@@ -1,0 +1,2 @@
+struct TYPE_3__ | DeviceType long | Next struct TYPE_3__ * 
+function GetDeviceCount int | DeviceType long

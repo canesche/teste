@@ -1,0 +1,2 @@
+struct alloc_stat | bytes_alloc long 
+function bytes_cmp int | a void * | b void *

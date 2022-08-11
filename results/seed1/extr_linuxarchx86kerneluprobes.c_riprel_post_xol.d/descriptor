@@ -1,3 +1,0 @@
-struct pt_regs | dummy int 
-struct arch_uprobe | dummy int 
-function riprel_post_xol void | auprobe struct arch_uprobe * | regs struct pt_regs *

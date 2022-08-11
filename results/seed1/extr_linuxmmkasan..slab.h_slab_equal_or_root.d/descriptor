@@ -1,2 +1,0 @@
-struct kmem_cache | dummy int 
-function slab_equal_or_root int | s struct kmem_cache * | p struct kmem_cache *

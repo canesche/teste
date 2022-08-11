@@ -1,0 +1,2 @@
+struct drm_display_mode | flags int 
+function s3d_structure_from_display_mode enum hdmi_3d_structure | mode const struct drm_display_mode *

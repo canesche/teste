@@ -1,4 +1,0 @@
-struct TYPE_6__ | speed int | address int | Data long * 
-struct TYPE_5__ | errorcount long | pipe_size int | state int 
-struct TYPE_7__ | device struct TYPE_6__ | Control struct TYPE_5__ | Timer long | RequestState int | EnumState int | gState int | Pipes long * 
-function DeInitStateMachine int | phost struct TYPE_7__ *

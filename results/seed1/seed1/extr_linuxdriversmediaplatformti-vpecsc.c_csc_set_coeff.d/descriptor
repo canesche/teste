@@ -1,0 +1,3 @@
+struct csc_data | dummy int 
+struct colorspace_coeffs | sd int * | hd int * 
+function csc_set_coeff void | csc struct csc_data * | csc_reg0 int * | src_colorspace enum v4l2_colorspace | dst_colorspace enum v4l2_colorspace

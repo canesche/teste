@@ -1,0 +1,4 @@
+struct SiS_Private | SiS_VGAINFO unsigned char | SiS_EModeIDTable struct TYPE_4__ * | SiS_SModeIDTable struct TYPE_3__ * 
+struct TYPE_4__ | Ext_ModeID unsigned short 
+struct TYPE_3__ | St_ModeID unsigned short 
+function SiS_SearchModeID int | SiS_Pr struct SiS_Private * | ModeNo unsigned short * | ModeIdIndex unsigned short *

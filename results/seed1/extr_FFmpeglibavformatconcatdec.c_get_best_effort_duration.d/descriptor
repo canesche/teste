@@ -1,3 +1,0 @@
-struct TYPE_6__ | duration long 
-struct TYPE_5__ | user_duration long | outpoint long | file_inpoint long | file_start_time long | next_dts long 
-function get_best_effort_duration long | file struct TYPE_5__ * | avf struct TYPE_6__ *

@@ -1,3 +1,0 @@
-struct TYPE_5__ | TupleDataLen int | TupleData long 
-struct TYPE_6__ | last_idx int | subtuples int | rmask long * | base long 
-function parse_config int | tuple struct TYPE_5__ * | config struct TYPE_6__ *

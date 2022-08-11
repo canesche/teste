@@ -1,0 +1,6 @@
+struct TYPE_9__ | pps struct TYPE_8__ * | sps struct TYPE_10__ * 
+struct TYPE_12__ | ps struct TYPE_9__ 
+struct TYPE_11__ | rpl_tab long * 
+struct TYPE_10__ | log2_ctb_size int | ctb_width int 
+struct TYPE_8__ | ctb_addr_rs_to_ts int * 
+function ff_hevc_get_ref_list int * | s struct TYPE_12__ * | ref struct TYPE_11__ * | x0 int | y0 int

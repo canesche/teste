@@ -1,0 +1,2 @@
+struct dpu_hw_ctl | pending_flush_mask int 
+function dpu_hw_ctl_get_pending_flush int | ctx struct dpu_hw_ctl *

@@ -1,3 +1,0 @@
-struct ssp_data | dummy int 
-struct device | dummy int 
-function ssp_parse_dt struct ssp_data * | pdev struct device *

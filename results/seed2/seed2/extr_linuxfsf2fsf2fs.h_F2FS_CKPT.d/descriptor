@@ -1,0 +1,3 @@
+struct f2fs_sb_info | ckpt long 
+struct f2fs_checkpoint | dummy int 
+function F2FS_CKPT struct f2fs_checkpoint * | sbi struct f2fs_sb_info *

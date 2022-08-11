@@ -1,0 +1,2 @@
+struct TYPE_2__ | KeybdBufferHead long | KeybdBufferTail long 
+function BiosKbdBufferTop int | Data int *

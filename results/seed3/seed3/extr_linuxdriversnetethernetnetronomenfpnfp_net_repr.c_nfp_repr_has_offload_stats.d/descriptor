@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function nfp_repr_has_offload_stats int | dev const struct net_device * | attr_id int

@@ -1,0 +1,2 @@
+struct si476x_core | chip_id long 
+function si476x_core_has_diversity int | core struct si476x_core *

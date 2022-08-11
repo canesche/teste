@@ -1,0 +1,2 @@
+struct vc_data | dummy int 
+function dummycon_cursor void | vc struct vc_data * | mode int

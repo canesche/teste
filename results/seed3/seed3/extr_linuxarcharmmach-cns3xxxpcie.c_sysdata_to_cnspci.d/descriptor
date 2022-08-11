@@ -1,0 +1,3 @@
+struct pci_sys_data | private_data struct cns3xxx_pcie * 
+struct cns3xxx_pcie | dummy int 
+function sysdata_to_cnspci struct cns3xxx_pcie * | sysdata void *

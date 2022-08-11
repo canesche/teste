@@ -1,0 +1,4 @@
+struct TYPE_4__ | enable_paprd long 
+struct TYPE_3__ | hw_caps int 
+struct ath_hw | config struct TYPE_4__ | caps struct TYPE_3__ 
+function ar9003_is_paprd_enabled int | ah struct ath_hw *

@@ -1,0 +1,3 @@
+struct ttm_mem_global | zone_kernel struct TYPE_2__ * 
+struct TYPE_2__ | max_mem int 
+function ttm_get_kernel_zone_memory_size int | glob struct ttm_mem_global *

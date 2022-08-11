@@ -1,0 +1,2 @@
+struct nilfs_btree_node | bn_flags int 
+function nilfs_btree_node_set_flags void | node struct nilfs_btree_node * | flags int

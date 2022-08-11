@@ -1,3 +1,0 @@
-struct object | flags int 
-struct fsck_options | dummy int 
-function mark_used int | obj struct object * | type int | data void * | options struct fsck_options *

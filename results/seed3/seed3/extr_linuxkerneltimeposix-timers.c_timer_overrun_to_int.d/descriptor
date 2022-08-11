@@ -1,0 +1,2 @@
+struct k_itimer | it_overrun_last long 
+function timer_overrun_to_int int | timr struct k_itimer * | baseval int

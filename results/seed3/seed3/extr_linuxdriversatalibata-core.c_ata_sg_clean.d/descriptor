@@ -1,0 +1,2 @@
+struct ata_queued_cmd | dummy int 
+function ata_sg_clean void | qc struct ata_queued_cmd *

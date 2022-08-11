@@ -1,0 +1,4 @@
+struct amt_host_if_resp_header | dummy int 
+struct TYPE_2__ | major long | minor long 
+struct amt_host_if_msg_header | length int | command int | _reserved long | version struct TYPE_2__ 
+function amt_verify_response_header int | command int | resp_hdr const struct amt_host_if_msg_header * | response_size int

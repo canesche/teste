@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 143,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_radare2librbinpbin_bflt.c_search_old_relocation.d/extr_radare2librbinpbin_bflt.c_search_old_relocation_O0::search_old_relocation(62)"
+  }
+]

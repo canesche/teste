@@ -1,0 +1,2 @@
+struct TYPE_3__ | serial_cb_data void * | serial_cb int 
+function TS_RESP_CTX_set_serial_cb void | ctx struct TYPE_3__ * | cb int | data void *

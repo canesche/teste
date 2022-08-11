@@ -1,0 +1,3 @@
+struct eisa_root_device | bus_nr int 
+struct eisa_device | slot int 
+function is_forced_dev int | forced_tab int * | forced_count int | root struct eisa_root_device * | edev struct eisa_device *

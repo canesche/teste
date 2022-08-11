@@ -1,0 +1,2 @@
+struct dw_pcie_ep | dummy int 
+function dw_pcie_ep_linkup void | ep struct dw_pcie_ep *

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function cc_pm_get int | dev struct device *

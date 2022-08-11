@@ -1,1 +1,0 @@
-function vnic_set_nic_cfg void | nic_cfg int * | rss_default_cpu int | rss_hash_type int | rss_hash_bits int | rss_base_cpu int | rss_enable int | tso_ipid_split_en int | ig_vlan_strip_en int

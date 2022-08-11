@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_lua-nginx-modulesrcngx_http_lua_misc.c_ngx_http_lua_ffi_get_resp_status.d/extr_lua-nginx-modulesrcngx_http_lua_misc.c_ngx_http_lua_ffi_get_resp_status_O0::ngx_http_lua_ffi_get_resp_status(71)"
+  }
+]

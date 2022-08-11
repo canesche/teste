@@ -1,0 +1,2 @@
+struct ca_caps | slot_num int | descr_num int | descr_type int | slot_type int 
+function fdtv_ca_get_caps int | arg void *

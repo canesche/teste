@@ -1,0 +1,2 @@
+struct TYPE_2__ | name char * | lineno int 
+function srcpos_set_line void | f char * | l int

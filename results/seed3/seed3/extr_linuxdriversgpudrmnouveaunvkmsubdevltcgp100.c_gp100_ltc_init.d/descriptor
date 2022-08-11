@@ -1,0 +1,2 @@
+struct nvkm_ltc | dummy int 
+function gp100_ltc_init void | ltc struct nvkm_ltc *

@@ -1,0 +1,2 @@
+struct msg | type int 
+function redis_arg1 int | r struct msg *

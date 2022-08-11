@@ -1,6 +1,0 @@
-struct nvif_mmu | type struct TYPE_5__ * 
-struct TYPE_6__ | type_host unsigned long * 
-struct TYPE_4__ | mmu struct nvif_mmu 
-struct nouveau_drm | ttm struct TYPE_6__ | client struct TYPE_4__ 
-struct TYPE_5__ | type int 
-function nouveau_drm_use_coherent_gpu_mapping int | drm struct nouveau_drm *

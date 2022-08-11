@@ -1,2 +1,0 @@
-struct fib6_info | fib6_flags int 
-function rt6_is_gw_or_nonexthop int | rt const struct fib6_info *

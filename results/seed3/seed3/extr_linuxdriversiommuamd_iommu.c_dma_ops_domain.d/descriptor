@@ -1,0 +1,2 @@
+struct protection_domain | flags int 
+function dma_ops_domain int | domain struct protection_domain *

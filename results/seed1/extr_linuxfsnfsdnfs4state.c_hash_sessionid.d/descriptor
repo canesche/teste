@@ -1,3 +1,0 @@
-struct nfsd4_sessionid | sequence int 
-struct nfs4_sessionid | dummy int 
-function hash_sessionid int | sessionid struct nfs4_sessionid *

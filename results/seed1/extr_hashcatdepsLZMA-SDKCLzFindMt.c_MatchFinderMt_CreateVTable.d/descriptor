@@ -1,4 +1,0 @@
-struct TYPE_8__ | MixMatchesFunc void * | MatchFinder struct TYPE_6__ * | GetHeadsFunc int 
-struct TYPE_7__ | Skip void * | GetMatches void * | GetPointerToCurrentPos long | GetNumAvailableBytes long | Init long 
-struct TYPE_6__ | numHashBytes int | bigHash int 
-function MatchFinderMt_CreateVTable void | p struct TYPE_8__ * | vTable struct TYPE_7__ *

@@ -1,2 +1,0 @@
-struct ifnet | dummy int 
-function pflogdelproto int | ifp struct ifnet * | pf int

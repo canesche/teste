@@ -1,2 +1,0 @@
-struct cpts | dummy int 
-function cpts_unregister void | cpts struct cpts *

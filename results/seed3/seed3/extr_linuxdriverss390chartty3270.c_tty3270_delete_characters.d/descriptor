@@ -1,0 +1,3 @@
+struct tty3270_line | len int | cells int * 
+struct tty3270 | cy int | cx int | screen struct tty3270_line * 
+function tty3270_delete_characters void | tp struct tty3270 * | n int

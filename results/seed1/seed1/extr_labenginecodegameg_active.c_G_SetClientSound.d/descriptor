@@ -1,0 +1,5 @@
+struct TYPE_8__ | watertype int | client struct TYPE_7__ * | waterlevel long 
+struct TYPE_9__ | snd_fry long 
+struct TYPE_6__ | loopSound long 
+struct TYPE_7__ | ps struct TYPE_6__ 
+function G_SetClientSound void | ent struct TYPE_8__ *

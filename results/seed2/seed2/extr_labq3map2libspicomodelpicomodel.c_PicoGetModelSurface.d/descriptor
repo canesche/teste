@@ -1,0 +1,2 @@
+struct TYPE_3__ | numSurfaces int | surface int ** 
+function PicoGetModelSurface int * | model struct TYPE_3__ * | num int

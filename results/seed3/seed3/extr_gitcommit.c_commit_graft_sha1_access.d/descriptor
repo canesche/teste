@@ -1,0 +1,3 @@
+struct TYPE_2__ | hash const unsigned char * 
+struct commit_graft | oid struct TYPE_2__ 
+function commit_graft_sha1_access const unsigned char * | index unsigned long | table void *

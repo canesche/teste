@@ -1,0 +1,2 @@
+struct ath10k | dummy int 
+function ath10k_dbg int | ar struct ath10k * | dbg_mask enum ath10k_debug_mask | fmt const char *

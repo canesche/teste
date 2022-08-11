@@ -1,0 +1,2 @@
+struct TYPE_5__ | onClosing int (*)(struct TYPE_5__ *, void *) | onClosingData void * 
+function uiWindowOnClosing void | w struct TYPE_5__ * | f int (*)(struct TYPE_5__ *, void *) | data void *

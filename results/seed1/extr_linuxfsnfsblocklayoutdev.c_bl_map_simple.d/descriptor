@@ -1,3 +1,0 @@
-struct pnfs_block_dev_map | bdev int | disk_offset int | len int | start int 
-struct pnfs_block_dev | bdev int | disk_offset int | len int | start int 
-function bl_map_simple int | dev struct pnfs_block_dev * | offset int | map struct pnfs_block_dev_map *

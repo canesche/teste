@@ -1,0 +1,4 @@
+struct TYPE_3__ | rdma_supported int 
+struct TYPE_4__ | common struct TYPE_3__ 
+struct qede_dev | dev_info struct TYPE_4__ 
+function qede_rdma_supported int | dev struct qede_dev *

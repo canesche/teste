@@ -1,0 +1,7 @@
+struct TYPE_9__ | length int | offset int 
+struct TYPE_8__ | length int | offset int 
+struct TYPE_7__ | length int | offset int 
+struct TYPE_6__ | length int | offset int 
+struct TYPE_10__ | transp struct TYPE_9__ | blue struct TYPE_8__ | green struct TYPE_7__ | red struct TYPE_6__ 
+struct fb_info | pseudo_palette int * | var struct TYPE_10__ 
+function mdpy_fb_setcolreg int | regno int | red int | green int | blue int | transp int | info struct fb_info *

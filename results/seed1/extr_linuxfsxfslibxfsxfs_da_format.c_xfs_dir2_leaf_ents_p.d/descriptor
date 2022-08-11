@@ -1,3 +1,0 @@
-struct xfs_dir2_leaf_entry | dummy int 
-struct xfs_dir2_leaf | __ents struct xfs_dir2_leaf_entry * 
-function xfs_dir2_leaf_ents_p struct xfs_dir2_leaf_entry * | lp struct xfs_dir2_leaf *

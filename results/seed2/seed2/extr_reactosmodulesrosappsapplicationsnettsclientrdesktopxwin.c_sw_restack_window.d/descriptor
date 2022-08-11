@@ -1,0 +1,4 @@
+struct TYPE_7__ | behind unsigned long | id unsigned long | next struct TYPE_7__ * 
+struct TYPE_6__ | seamless_windows struct TYPE_7__ * 
+struct TYPE_8__ | xwin struct TYPE_6__ 
+function sw_restack_window void | This struct TYPE_8__ * | sw struct TYPE_7__ * | behind unsigned long

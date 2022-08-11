@@ -1,0 +1,2 @@
+struct TYPE_3__ | allocsz int | pos long | length long | buffer int * 
+function mbfl_wchar_device_init void | device struct TYPE_3__ *

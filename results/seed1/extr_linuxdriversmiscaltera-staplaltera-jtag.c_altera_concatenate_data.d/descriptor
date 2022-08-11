@@ -1,1 +1,0 @@
-function altera_concatenate_data void | buffer long * | preamble_data long * | preamble_count long | target_data long * | start_index long | target_count long | postamble_data long * | postamble_count long

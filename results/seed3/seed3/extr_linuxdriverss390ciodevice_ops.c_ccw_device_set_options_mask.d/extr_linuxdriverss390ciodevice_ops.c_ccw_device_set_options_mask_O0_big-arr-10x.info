@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 57,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 57,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriverss390ciodevice_ops.c_ccw_device_set_options_mask.d/extr_linuxdriverss390ciodevice_ops.c_ccw_device_set_options_mask_O0::ccw_device_set_options_mask(71)"
+  }
+]

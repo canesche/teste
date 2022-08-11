@@ -1,5 +1,0 @@
-struct TYPE_8__ | nelts unsigned long | elts struct TYPE_10__ * | next struct TYPE_8__ * 
-struct TYPE_10__ | co int * 
-struct TYPE_9__ | user_co_ctx struct TYPE_7__ * | entry_co_ctx struct TYPE_10__ 
-struct TYPE_7__ | part struct TYPE_8__ 
-function ngx_http_lua_get_co_ctx struct TYPE_10__ * | L int * | ctx struct TYPE_9__ *

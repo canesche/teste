@@ -1,0 +1,3 @@
+struct scsi_disk | zoned int | device struct TYPE_2__ * 
+struct TYPE_2__ | type long 
+function sd_is_zoned int | sdkp struct scsi_disk *

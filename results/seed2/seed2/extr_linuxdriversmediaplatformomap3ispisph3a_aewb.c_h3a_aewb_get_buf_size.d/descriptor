@@ -1,0 +1,2 @@
+struct omap3isp_h3a_aewb_config | ver_win_count int | hor_win_count int 
+function h3a_aewb_get_buf_size int | conf struct omap3isp_h3a_aewb_config *

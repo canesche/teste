@@ -1,0 +1,4 @@
+struct hdac_driver | id_table struct hda_device_id * 
+struct hdac_device | vendor_id long | revision_id long 
+struct hda_device_id | vendor_id long | rev_id long 
+function hdac_get_device_id const struct hda_device_id * | hdev struct hdac_device * | drv struct hdac_driver *

@@ -1,0 +1,4 @@
+struct acpi_battery | device struct TYPE_4__ * 
+struct TYPE_3__ | battery_present int 
+struct TYPE_4__ | status struct TYPE_3__ 
+function acpi_battery_present int | battery struct acpi_battery *

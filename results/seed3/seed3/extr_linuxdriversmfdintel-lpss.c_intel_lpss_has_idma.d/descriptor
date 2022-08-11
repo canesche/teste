@@ -1,0 +1,2 @@
+struct intel_lpss | caps int 
+function intel_lpss_has_idma int | lpss const struct intel_lpss *

@@ -1,0 +1,4 @@
+struct TYPE_8__ | linesize int * | data long * 
+struct TYPE_7__ | nb_planes int | fill int * | depth int | planeheight int * | planewidth int * | borders struct TYPE_6__ * 
+struct TYPE_6__ | top int | bottom int | left int | right int 
+function fixed_borders16 void | s struct TYPE_7__ * | frame struct TYPE_8__ *

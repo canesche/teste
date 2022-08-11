@@ -1,2 +1,0 @@
-struct instruction | dummy int 
-function i2u16 int | in struct instruction *

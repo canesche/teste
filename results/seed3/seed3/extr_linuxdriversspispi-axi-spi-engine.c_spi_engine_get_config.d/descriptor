@@ -1,0 +1,2 @@
+struct spi_device | mode int 
+function spi_engine_get_config unsigned int | spi struct spi_device *

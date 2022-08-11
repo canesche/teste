@@ -1,0 +1,2 @@
+struct TYPE_3__ | d int * | e int * | n int * 
+function RSA_get0_key void | rsa const struct TYPE_3__ * | n const int ** | e const int ** | d const int **

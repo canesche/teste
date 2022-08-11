@@ -1,2 +1,0 @@
-struct wt_status_change_data | dirty_submodule int | worktree_status char | new_submodule_commits long 
-function short_submodule_status char | d struct wt_status_change_data *

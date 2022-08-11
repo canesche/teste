@@ -1,1 +1,0 @@
-function grapheme_substr_ascii void | str char * | str_len unsigned long | f unsigned long | l unsigned long | sub_str char ** | sub_str_len unsigned long *

@@ -1,0 +1,2 @@
+struct pmic_table | address int | reg int | bit int 
+function pmic_get_reg_bit int | address int | table struct pmic_table * | count int | reg int * | bit int *

@@ -1,0 +1,2 @@
+struct qedr_qp_hwq_info | gsi_cons int | max_wr int 
+function qedr_inc_sw_gsi_cons void | info struct qedr_qp_hwq_info *

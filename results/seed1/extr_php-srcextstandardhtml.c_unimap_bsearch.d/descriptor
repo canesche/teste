@@ -1,2 +1,0 @@
-struct TYPE_3__ | un_code_point unsigned short | cs_code unsigned char 
-function unimap_bsearch unsigned char | table const struct TYPE_3__ * | code_key_a unsigned int | num unsigned long

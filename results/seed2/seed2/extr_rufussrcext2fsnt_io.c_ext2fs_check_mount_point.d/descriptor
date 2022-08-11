@@ -1,0 +1,1 @@
+function ext2fs_check_mount_point int | file const char * | mount_flags int * | mtpt char * | mtlen int

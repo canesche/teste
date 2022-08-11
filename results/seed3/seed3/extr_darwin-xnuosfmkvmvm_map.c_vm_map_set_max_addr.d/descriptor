@@ -1,0 +1,1 @@
+function vm_map_set_max_addr void | map int | new_max_offset int

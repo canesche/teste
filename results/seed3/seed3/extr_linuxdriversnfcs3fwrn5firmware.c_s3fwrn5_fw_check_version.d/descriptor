@@ -1,0 +1,4 @@
+struct s3fwrn5_fw_version | major long | build1 long | build2 long 
+struct TYPE_2__ | version int 
+struct s3fwrn5_fw_info | fw struct TYPE_2__ 
+function s3fwrn5_fw_check_version int | fw_info struct s3fwrn5_fw_info * | version int

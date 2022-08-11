@@ -1,0 +1,5 @@
+struct respQ_e | GenerationBit long 
+struct respQ | cidx unsigned long | genbit long | entries struct respQ_e * 
+struct adapter | sge struct TYPE_2__ * 
+struct TYPE_2__ | respQ struct respQ 
+function responses_pending int | adapter const struct adapter *

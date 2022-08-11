@@ -1,2 +1,0 @@
-struct regulator_dev | dummy int 
-function wm831x_buckv_list_voltage int | rdev struct regulator_dev * | selector unsigned int

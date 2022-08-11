@@ -1,0 +1,2 @@
+struct pushpull | buf int * | ofs int 
+function pullbit int | pp struct pushpull *

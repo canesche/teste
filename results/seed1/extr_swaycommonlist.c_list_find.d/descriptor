@@ -1,2 +1,0 @@
-struct TYPE_3__ | length int | items const void ** 
-function list_find int | list struct TYPE_3__ * | item const void *

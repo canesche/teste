@@ -1,0 +1,1 @@
+function UI_ClampCvar float | min float | max float | value float

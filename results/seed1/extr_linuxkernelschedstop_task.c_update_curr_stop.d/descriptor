@@ -1,2 +1,0 @@
-struct rq | dummy int 
-function update_curr_stop void | rq struct rq *

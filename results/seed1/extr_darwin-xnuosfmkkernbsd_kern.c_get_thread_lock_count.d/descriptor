@@ -1,2 +1,0 @@
-struct TYPE_3__ | mutex_count int 
-function get_thread_lock_count int | th struct TYPE_3__ *

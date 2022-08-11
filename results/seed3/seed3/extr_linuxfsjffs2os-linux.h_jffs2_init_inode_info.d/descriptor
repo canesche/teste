@@ -1,0 +1,2 @@
+struct jffs2_inode_info | usercompr long | flags long | target int * | dents int * | metadata int * | fragtree int | highest_version long 
+function jffs2_init_inode_info void | f struct jffs2_inode_info *

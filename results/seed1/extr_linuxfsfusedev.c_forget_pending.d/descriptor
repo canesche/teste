@@ -1,3 +1,0 @@
-struct TYPE_2__ | next int * 
-struct fuse_iqueue | forget_list_head struct TYPE_2__ 
-function forget_pending int | fiq struct fuse_iqueue *

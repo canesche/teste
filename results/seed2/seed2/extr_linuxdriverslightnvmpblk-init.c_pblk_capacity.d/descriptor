@@ -1,0 +1,2 @@
+struct pblk | capacity int 
+function pblk_capacity int | private void *

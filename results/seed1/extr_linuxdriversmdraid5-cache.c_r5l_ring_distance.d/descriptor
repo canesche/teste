@@ -1,2 +1,0 @@
-struct r5l_log | device_size long 
-function r5l_ring_distance long | log struct r5l_log * | start long | end long

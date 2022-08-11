@@ -1,0 +1,3 @@
+struct zpodd | zp_ready int 
+struct ata_device | zpodd struct zpodd * 
+function zpodd_zpready int | dev struct ata_device *

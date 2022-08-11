@@ -1,2 +1,0 @@
-struct xfs_getfsmap_dev | dev int 
-function xfs_getfsmap_dev_compare int | p1 const void * | p2 const void *

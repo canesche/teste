@@ -1,2 +1,0 @@
-struct dm_space_map | dummy int 
-function sm_bootstrap_destroy void | sm struct dm_space_map *

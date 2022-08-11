@@ -1,2 +1,0 @@
-struct TYPE_3__ | pos char * 
-function textbuf_append_char void | buf struct TYPE_3__ * | c char

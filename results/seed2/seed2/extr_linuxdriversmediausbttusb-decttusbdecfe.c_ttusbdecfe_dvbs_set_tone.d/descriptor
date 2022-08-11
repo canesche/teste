@@ -1,0 +1,3 @@
+struct ttusbdecfe_state | hi_band int 
+struct dvb_frontend | demodulator_priv long 
+function ttusbdecfe_dvbs_set_tone int | fe struct dvb_frontend * | tone enum fe_sec_tone_mode

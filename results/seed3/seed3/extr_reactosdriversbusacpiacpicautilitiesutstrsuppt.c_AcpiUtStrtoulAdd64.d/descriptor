@@ -1,0 +1,1 @@
+function AcpiUtStrtoulAdd64 int | Addend1 long | Digit long | OutSum long *

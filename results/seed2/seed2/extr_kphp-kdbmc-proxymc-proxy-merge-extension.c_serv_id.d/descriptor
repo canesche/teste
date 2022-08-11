@@ -1,0 +1,3 @@
+struct connection | target long 
+struct TYPE_2__ | tot_buckets int | buckets long * 
+function serv_id int | c struct connection *

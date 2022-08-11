@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversscsilibsas..scsi_priv.h_scsi_dh_add_device.d/extr_linuxdriversscsilibsas..scsi_priv.h_scsi_dh_add_device_O0::scsi_dh_add_device(60)"
+  }
+]

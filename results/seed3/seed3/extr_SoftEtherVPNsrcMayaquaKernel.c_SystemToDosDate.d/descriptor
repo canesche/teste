@@ -1,0 +1,2 @@
+struct TYPE_3__ | wYear int | wDay long | wMonth long 
+function SystemToDosDate int | st struct TYPE_3__ *

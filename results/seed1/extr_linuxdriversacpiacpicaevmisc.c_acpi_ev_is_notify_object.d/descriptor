@@ -1,2 +1,0 @@
-struct acpi_namespace_node | type int 
-function acpi_ev_is_notify_object int | node struct acpi_namespace_node *

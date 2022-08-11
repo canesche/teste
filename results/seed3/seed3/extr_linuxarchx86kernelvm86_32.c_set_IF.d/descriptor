@@ -1,0 +1,2 @@
+struct kernel_vm86_regs | dummy int 
+function set_IF void | regs struct kernel_vm86_regs *

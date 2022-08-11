@@ -1,0 +1,2 @@
+struct t4_srq | pending_pidx long | size long | in_use int | pending_in_use int 
+function t4_srq_produce_pending_wr void | srq struct t4_srq *

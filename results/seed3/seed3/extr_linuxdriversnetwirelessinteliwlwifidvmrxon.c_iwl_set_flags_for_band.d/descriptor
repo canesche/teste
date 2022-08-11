@@ -1,0 +1,6 @@
+struct TYPE_4__ | flags int 
+struct iwl_rxon_context | staging struct TYPE_4__ 
+struct iwl_priv | dummy int 
+struct TYPE_3__ | use_short_slot long 
+struct ieee80211_vif | bss_conf struct TYPE_3__ 
+function iwl_set_flags_for_band void | priv struct iwl_priv * | ctx struct iwl_rxon_context * | band enum nl80211_band | vif struct ieee80211_vif *

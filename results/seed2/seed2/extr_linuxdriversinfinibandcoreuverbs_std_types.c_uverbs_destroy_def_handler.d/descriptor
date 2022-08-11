@@ -1,0 +1,3 @@
+struct uverbs_attr_bundle | dummy int 
+struct ib_uverbs_file | dummy int 
+function uverbs_destroy_def_handler int | file struct ib_uverbs_file * | attrs struct uverbs_attr_bundle *

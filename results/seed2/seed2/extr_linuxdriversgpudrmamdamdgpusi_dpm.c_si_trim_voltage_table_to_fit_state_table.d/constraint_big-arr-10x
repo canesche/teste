@@ -1,0 +1,1 @@
+value(max_voltage_steps) == 10, length(adev) == 100, length(voltage_table) == 100

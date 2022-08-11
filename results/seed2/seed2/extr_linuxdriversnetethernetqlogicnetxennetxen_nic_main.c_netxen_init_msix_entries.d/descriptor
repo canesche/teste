@@ -1,0 +1,3 @@
+struct netxen_adapter | msix_entries struct TYPE_2__ * 
+struct TYPE_2__ | entry int 
+function netxen_init_msix_entries void | adapter struct netxen_adapter * | count int

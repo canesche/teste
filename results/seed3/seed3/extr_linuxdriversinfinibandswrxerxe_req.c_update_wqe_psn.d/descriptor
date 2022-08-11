@@ -1,0 +1,6 @@
+struct TYPE_3__ | resid int 
+struct rxe_send_wqe | first_psn int | last_psn int | dma struct TYPE_3__ 
+struct TYPE_4__ | psn int 
+struct rxe_qp | mtu int | req struct TYPE_4__ 
+struct rxe_pkt_info | mask int 
+function update_wqe_psn void | qp struct rxe_qp * | wqe struct rxe_send_wqe * | pkt struct rxe_pkt_info * | payload int

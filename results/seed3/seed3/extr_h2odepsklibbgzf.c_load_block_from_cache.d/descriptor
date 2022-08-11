@@ -1,0 +1,1 @@
+function load_block_from_cache int | fp int * | block_address int

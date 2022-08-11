@@ -1,0 +1,2 @@
+struct git_hash_algo | rawsz int 
+function hash_to_hex_algop_r char * | buffer char * | hash const unsigned char * | algop const struct git_hash_algo *

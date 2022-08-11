@@ -1,0 +1,3 @@
+struct scsi_cmnd | transfersize int 
+struct NCR5380_hostdata | dummy int 
+function cumanascsi_dma_xfer_len int | hostdata struct NCR5380_hostdata * | cmd struct scsi_cmnd *

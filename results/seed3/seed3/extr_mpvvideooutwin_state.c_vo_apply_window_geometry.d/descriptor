@@ -1,0 +1,4 @@
+struct TYPE_2__ | y0 long | y1 long | x0 long | x1 long 
+struct vo_win_geometry | monitor_par int | win struct TYPE_2__ 
+struct vo | monitor_par int | dheight long | dwidth long 
+function vo_apply_window_geometry void | vo struct vo * | geo const struct vo_win_geometry *

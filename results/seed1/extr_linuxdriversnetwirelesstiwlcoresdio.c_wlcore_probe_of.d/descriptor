@@ -1,3 +1,0 @@
-struct wlcore_platdev_data | dummy int 
-struct device | dummy int 
-function wlcore_probe_of int | dev struct device * | irq int * | pdev_data struct wlcore_platdev_data *

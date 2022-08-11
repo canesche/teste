@@ -1,0 +1,2 @@
+struct bsg_job | dummy int 
+function bfad_im_bsg_timeout int | job struct bsg_job *

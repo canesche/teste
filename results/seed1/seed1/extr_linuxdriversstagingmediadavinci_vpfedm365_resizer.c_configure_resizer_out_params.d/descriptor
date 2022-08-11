@@ -1,0 +1,9 @@
+struct vpfe_rsz_output_spec | user_y_ofst int | user_c_ofst int | h_dscale_ave_sz int | en_down_scale int | h_lpf_int_c int | h_lpf_int_y int | h_typ_c int | h_typ_y int | v_lpf_int_c int | v_lpf_int_y int | v_typ_c int | v_typ_y int | v_flip int | h_flip int | vst_c int | vst_y int | v_dscale_ave_sz int 
+struct TYPE_6__ | output long | formats struct v4l2_mbus_framefmt * 
+struct TYPE_5__ | output long | formats struct v4l2_mbus_framefmt * 
+struct resizer_params | ext_mem_param struct TYPE_8__ * | rsz_rsc_param struct TYPE_7__ * | rsz_en void ** 
+struct vpfe_resizer_device | resizer_b struct TYPE_6__ | resizer_a struct TYPE_5__ | config struct resizer_params 
+struct v4l2_mbus_framefmt | height long | width long 
+struct TYPE_8__ | user_y_ofst int | user_c_ofst int | rsz_sdr_ptr_e_c long | rsz_sdr_ptr_s_c int | rsz_sdr_ptr_e_y long | rsz_sdr_ptr_s_y int 
+struct TYPE_7__ | v_dscale_ave_sz int | h_dscale_ave_sz int | dscale_en int | h_lpf_int_c int | h_lpf_int_y int | h_typ_c int | h_typ_y int | v_lpf_int_c int | v_lpf_int_y int | v_typ_c int | v_typ_y int | v_flip int | h_flip int | o_hsz long | o_vsz long 
+function configure_resizer_out_params void | resizer struct vpfe_resizer_device * | index int | output_spec void * | partial unsigned char | flag unsigned int

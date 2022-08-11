@@ -1,0 +1,2 @@
+struct dstr | array char * 
+function unescape void | str struct dstr *

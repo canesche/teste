@@ -1,2 +1,0 @@
-struct TYPE_3__ | lastErrno int 
-function storeLastErrno void | pFile struct TYPE_3__ * | error int

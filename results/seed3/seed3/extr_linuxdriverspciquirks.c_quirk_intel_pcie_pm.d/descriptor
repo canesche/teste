@@ -1,0 +1,2 @@
+struct pci_dev | no_d1d2 int 
+function quirk_intel_pcie_pm void | dev struct pci_dev *

@@ -1,0 +1,2 @@
+struct b43_wldev | dummy int 
+function b43_nphy_rssi_select_rev19 void | dev struct b43_wldev * | code int | rssi_type enum n_rssi_type

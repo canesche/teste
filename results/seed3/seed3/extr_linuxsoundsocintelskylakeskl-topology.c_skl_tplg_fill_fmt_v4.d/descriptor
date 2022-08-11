@@ -1,0 +1,4 @@
+struct TYPE_2__ | sample_type int | interleaving_style int | ch_map int | ch_cfg int | valid_bit_depth int | bit_depth int | s_freq int | channels int 
+struct skl_module_pin_fmt | fmt struct TYPE_2__ 
+struct skl_dfw_v4_module_fmt | sample_type int | interleaving_style int | ch_map int | ch_cfg int | valid_bit_depth int | bit_depth int | freq int | channels int 
+function skl_tplg_fill_fmt_v4 void | dst_fmt struct skl_module_pin_fmt * | src_fmt struct skl_dfw_v4_module_fmt * | pins int

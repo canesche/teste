@@ -1,0 +1,4 @@
+struct ore_io_state | oc struct TYPE_4__ * 
+struct TYPE_4__ | single_comp unsigned int | comps struct TYPE_3__ * 
+struct TYPE_3__ | cred int * 
+function _ios_cred int * | ios struct ore_io_state * | index unsigned int

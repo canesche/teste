@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_mpvfiltersf_decoder_wrapper.c_is_valid_peak.d/extr_mpvfiltersf_decoder_wrapper.c_is_valid_peak_O0::is_valid_peak(58)"
+  }
+]

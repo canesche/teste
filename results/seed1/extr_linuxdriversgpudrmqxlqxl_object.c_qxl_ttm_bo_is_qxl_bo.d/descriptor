@@ -1,2 +1,0 @@
-struct ttm_buffer_object | destroy int * 
-function qxl_ttm_bo_is_qxl_bo int | bo struct ttm_buffer_object *

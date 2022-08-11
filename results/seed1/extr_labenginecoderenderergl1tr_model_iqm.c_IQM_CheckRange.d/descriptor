@@ -1,2 +1,0 @@
-struct TYPE_3__ | filesize int 
-function IQM_CheckRange int | header struct TYPE_3__ * | offset int | count int | size int

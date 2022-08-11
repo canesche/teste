@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversscsilpfclpfc_hw.h_lpfc_bgs_get_uninit_dif_block.d/extr_linuxdriversscsilpfclpfc_hw.h_lpfc_bgs_get_uninit_dif_block_O0::lpfc_bgs_get_uninit_dif_block(64)"
+  }
+]

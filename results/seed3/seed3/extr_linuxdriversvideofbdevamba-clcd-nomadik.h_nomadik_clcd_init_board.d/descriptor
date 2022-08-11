@@ -1,0 +1,3 @@
+struct clcd_board | dummy int 
+struct amba_device | dummy int 
+function nomadik_clcd_init_board int | adev struct amba_device * | board struct clcd_board *

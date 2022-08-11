@@ -1,0 +1,5 @@
+struct fc_port | chip_reset long | scan_state long | fw_login_state int | logo_ack_needed long | logout_on_delete long | vha struct TYPE_6__ * 
+struct TYPE_6__ | hw struct TYPE_5__ * 
+struct TYPE_5__ | base_qpair struct TYPE_4__ * 
+struct TYPE_4__ | chip_reset long 
+function qla24xx_chk_fcp_state void | sess struct fc_port *

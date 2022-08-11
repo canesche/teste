@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 65,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 1209,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_h2odepspicotlsdepscifrasrccurve25519.naclref.c_squeeze.d/extr_h2odepspicotlsdepscifrasrccurve25519.naclref.c_squeeze_O0::squeeze(60)"
+  }
+]

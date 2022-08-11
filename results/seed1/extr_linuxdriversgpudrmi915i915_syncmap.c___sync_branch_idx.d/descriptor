@@ -1,2 +1,0 @@
-struct i915_syncmap | height unsigned int 
-function __sync_branch_idx unsigned int | p const struct i915_syncmap * | id unsigned int

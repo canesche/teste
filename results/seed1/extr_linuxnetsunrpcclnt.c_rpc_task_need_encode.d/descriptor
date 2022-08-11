@@ -1,4 +1,0 @@
-struct rpc_task | tk_rqstp struct TYPE_4__ * 
-struct TYPE_3__ | len long 
-struct TYPE_4__ | rq_snd_buf struct TYPE_3__ 
-function rpc_task_need_encode int | task struct rpc_task *

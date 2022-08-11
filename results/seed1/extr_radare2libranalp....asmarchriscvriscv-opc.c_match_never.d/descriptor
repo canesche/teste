@@ -1,2 +1,0 @@
-struct riscv_opcode | dummy int 
-function match_never int | op const struct riscv_opcode * | insn int

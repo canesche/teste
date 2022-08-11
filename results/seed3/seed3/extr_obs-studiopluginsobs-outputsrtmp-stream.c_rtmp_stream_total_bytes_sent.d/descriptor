@@ -1,0 +1,2 @@
+struct rtmp_stream | total_bytes_sent int 
+function rtmp_stream_total_bytes_sent int | data void *

@@ -1,2 +1,0 @@
-struct csio_sm | sm_state long 
-function csio_set_state void | smp void * | state void *

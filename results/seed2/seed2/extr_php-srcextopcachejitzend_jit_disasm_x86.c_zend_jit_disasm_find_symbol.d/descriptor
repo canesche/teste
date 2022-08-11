@@ -1,0 +1,2 @@
+struct TYPE_3__ | addr long | end long | name const char * | child struct TYPE_3__ ** 
+function zend_jit_disasm_find_symbol const char * | addr long | offset long *

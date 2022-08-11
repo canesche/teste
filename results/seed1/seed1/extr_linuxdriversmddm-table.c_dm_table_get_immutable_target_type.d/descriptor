@@ -1,0 +1,3 @@
+struct target_type | dummy int 
+struct dm_table | immutable_target_type struct target_type * 
+function dm_table_get_immutable_target_type struct target_type * | t struct dm_table *

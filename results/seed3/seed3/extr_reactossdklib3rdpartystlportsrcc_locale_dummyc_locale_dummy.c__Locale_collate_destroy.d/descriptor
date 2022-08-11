@@ -1,0 +1,2 @@
+struct _Locale_collate | dummy int 
+function _Locale_collate_destroy void | lcol struct _Locale_collate *

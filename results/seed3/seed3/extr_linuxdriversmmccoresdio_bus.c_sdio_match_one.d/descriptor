@@ -1,0 +1,3 @@
+struct sdio_func | class long | vendor long | device long 
+struct sdio_device_id | class long | vendor long | device long 
+function sdio_match_one const struct sdio_device_id * | func struct sdio_func * | id const struct sdio_device_id *

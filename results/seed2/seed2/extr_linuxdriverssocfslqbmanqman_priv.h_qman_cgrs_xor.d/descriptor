@@ -1,0 +1,3 @@
+struct TYPE_2__ | state int * 
+struct qman_cgrs | q struct TYPE_2__ 
+function qman_cgrs_xor void | dest struct qman_cgrs * | a const struct qman_cgrs * | b const struct qman_cgrs *

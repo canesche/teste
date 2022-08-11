@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetwirelessmediatekmt7601umain.c_mt7601u_sta_notify.d/extr_linuxdriversnetwirelessmediatekmt7601umain.c_mt7601u_sta_notify_O0::mt7601u_sta_notify(66)"
+  }
+]

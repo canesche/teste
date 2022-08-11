@@ -1,0 +1,2 @@
+struct TYPE_2__ | lower_shift int | upper_shift int 
+function event_encoding int | event_id int | idx int

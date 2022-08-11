@@ -1,3 +1,0 @@
-struct TYPE_4__ | p_number double 
-struct TYPE_5__ | p_vu struct TYPE_4__ 
-function AMFProp_GetNumber double | prop struct TYPE_5__ *

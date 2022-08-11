@@ -1,2 +1,0 @@
-struct device | release long 
-function ata_is_link int | dev const struct device *

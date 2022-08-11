@@ -1,0 +1,3 @@
+struct locked_reg | reg long | key long 
+struct TYPE_2__ | locked struct locked_reg * 
+function find_locked_reg struct locked_reg * | reg long

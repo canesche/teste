@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_openpilotpandaboardspi_flasher.h_usb_cb_ep3_out.d/extr_openpilotpandaboardspi_flasher.h_usb_cb_ep3_out_O0::usb_cb_ep3_out(60)"
+  }
+]

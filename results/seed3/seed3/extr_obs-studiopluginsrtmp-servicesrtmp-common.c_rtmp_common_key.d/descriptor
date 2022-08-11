@@ -1,0 +1,2 @@
+struct rtmp_common | key const char * 
+function rtmp_common_key const char * | data void *

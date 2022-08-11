@@ -1,0 +1,2 @@
+struct ipw_tty | tx_bytes_queued unsigned int 
+function ipw_write_packet_sent_callback void | callback_data void * | packet_length unsigned int

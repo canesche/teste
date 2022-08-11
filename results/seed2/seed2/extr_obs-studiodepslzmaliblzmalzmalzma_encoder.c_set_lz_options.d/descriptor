@@ -1,0 +1,3 @@
+struct TYPE_5__ | preset_dict_size int | preset_dict int | depth int | mf int | nice_len int | dict_size int 
+struct TYPE_6__ | preset_dict_size int | preset_dict int | depth int | match_finder int | nice_len int | match_len_max int | after_size int | dict_size int | before_size int 
+function set_lz_options void | lz_options struct TYPE_6__ * | options const struct TYPE_5__ *

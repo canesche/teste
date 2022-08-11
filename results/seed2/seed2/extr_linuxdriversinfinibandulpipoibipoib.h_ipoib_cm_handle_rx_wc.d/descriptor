@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct ib_wc | dummy int 
+function ipoib_cm_handle_rx_wc void | dev struct net_device * | wc struct ib_wc *

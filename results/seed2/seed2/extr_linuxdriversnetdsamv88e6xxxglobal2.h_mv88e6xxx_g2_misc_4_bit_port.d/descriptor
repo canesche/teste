@@ -1,0 +1,2 @@
+struct mv88e6xxx_chip | dummy int 
+function mv88e6xxx_g2_misc_4_bit_port int | chip struct mv88e6xxx_chip *

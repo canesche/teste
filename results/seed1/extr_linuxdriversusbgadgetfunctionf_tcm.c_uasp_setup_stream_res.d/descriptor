@@ -1,6 +1,0 @@
-struct uas_stream | req_status struct TYPE_4__ * | req_out struct TYPE_6__ * | req_in struct TYPE_5__ * 
-struct f_uas | stream struct uas_stream * 
-struct TYPE_6__ | stream_id int 
-struct TYPE_5__ | stream_id int 
-struct TYPE_4__ | stream_id int 
-function uasp_setup_stream_res void | fu struct f_uas * | max_streams int

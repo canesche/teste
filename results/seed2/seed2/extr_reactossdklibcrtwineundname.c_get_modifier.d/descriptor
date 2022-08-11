@@ -1,0 +1,2 @@
+struct parsed_symbol | current char * | flags int 
+function get_modifier int | sym struct parsed_symbol * | ret const char ** | ptr_modif const char **

@@ -1,0 +1,2 @@
+struct TYPE_3__ | atapi_flags int | dev_flags int 
+function cdrom_saw_media_change void | drive struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct radeonfb_info | dummy int 
+function radeon_apply_workarounds int | rinfo struct radeonfb_info *

@@ -1,4 +1,0 @@
-struct net_device | dummy int 
-struct mr_table | maxvif int | vif_table struct TYPE_2__ * 
-struct TYPE_2__ | dev struct net_device * 
-function ip6mr_find_vif int | mrt struct mr_table * | dev struct net_device *

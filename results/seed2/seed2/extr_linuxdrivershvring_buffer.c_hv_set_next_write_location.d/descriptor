@@ -1,0 +1,3 @@
+struct hv_ring_buffer_info | ring_buffer struct TYPE_2__ * 
+struct TYPE_2__ | write_index int 
+function hv_set_next_write_location void | ring_info struct hv_ring_buffer_info * | next_write_location int

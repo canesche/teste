@@ -1,0 +1,6 @@
+struct TYPE_9__ | LogicalDeviceInformation struct TYPE_10__ ** 
+struct TYPE_8__ | LogicalDriveInformation struct TYPE_7__ * 
+struct TYPE_11__ | FirmwareType long | LogicalDriveCount int | V2 struct TYPE_9__ | V1 struct TYPE_8__ 
+struct TYPE_10__ | ConfigurableDeviceSize long 
+struct TYPE_7__ | LogicalDriveSize long 
+function disk_size long | p struct TYPE_11__ * | drive_nr int

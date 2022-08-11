@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4006a0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_obs-studiodepsw32-pthreadspthread_attr_setscope.c_pthread_attr_setscope.d/extr_obs-studiodepsw32-pthreadspthread_attr_setscope.c_pthread_attr_setscope_O0::pthread_attr_setscope(63)"
+  }
+]

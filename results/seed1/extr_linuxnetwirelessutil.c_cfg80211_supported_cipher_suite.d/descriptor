@@ -1,2 +1,0 @@
-struct wiphy | n_cipher_suites int | cipher_suites long * 
-function cfg80211_supported_cipher_suite int | wiphy struct wiphy * | cipher long

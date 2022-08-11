@@ -1,0 +1,4 @@
+struct TYPE_4__ | ctl_table struct TYPE_3__ * 
+struct ctl_dir | header struct TYPE_4__ 
+struct TYPE_3__ | child int * 
+function clear_empty_dir void | dir struct ctl_dir *

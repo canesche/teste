@@ -1,0 +1,2 @@
+struct repaper_epd | width int 
+function repaper_odd_pixels void | epd struct repaper_epd * | pp int ** | data const int * | fixed_value int | mask const int * | stage enum repaper_stage

@@ -1,3 +1,0 @@
-struct page | dummy int 
-struct inode | dummy int 
-function v9fs_fscache_wait_on_page_write void | inode struct inode * | page struct page *

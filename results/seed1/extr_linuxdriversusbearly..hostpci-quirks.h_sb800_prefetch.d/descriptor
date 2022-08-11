@@ -1,2 +1,0 @@
-struct device | dummy int 
-function sb800_prefetch void | dev struct device * | on int

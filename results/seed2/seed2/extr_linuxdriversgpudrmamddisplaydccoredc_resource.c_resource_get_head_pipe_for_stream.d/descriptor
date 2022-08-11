@@ -1,0 +1,4 @@
+struct resource_context | pipe_ctx struct pipe_ctx * 
+struct pipe_ctx | top_pipe int | stream struct dc_stream_state * 
+struct dc_stream_state | dummy int 
+function resource_get_head_pipe_for_stream struct pipe_ctx * | res_ctx struct resource_context * | stream struct dc_stream_state *

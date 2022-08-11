@@ -1,0 +1,2 @@
+struct TYPE_4__ | wSecond int | wMinute int | wHour int 
+function MONTHCAL_CopyTime void | from const struct TYPE_4__ * | to struct TYPE_4__ *

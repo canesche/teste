@@ -1,0 +1,4 @@
+struct ovl_priv_data | dummy int 
+struct omap_overlay | id unsigned long 
+struct TYPE_2__ | ovl_priv_data_array struct ovl_priv_data * 
+function get_ovl_priv struct ovl_priv_data * | ovl struct omap_overlay *

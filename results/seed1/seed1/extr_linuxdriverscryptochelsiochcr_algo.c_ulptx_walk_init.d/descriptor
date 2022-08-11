@@ -1,0 +1,3 @@
+struct ulptx_walk | last_sg_len long | last_sg int * | pair int | pair_idx long | nents long | sgl struct ulptx_sgl * 
+struct ulptx_sgl | sge int 
+function ulptx_walk_init void | walk struct ulptx_walk * | ulp struct ulptx_sgl *

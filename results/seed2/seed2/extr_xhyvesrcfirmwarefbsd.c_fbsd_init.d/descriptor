@@ -1,0 +1,2 @@
+struct TYPE_2__ | userboot char * | bootvolume char * | kernelenv char * | cons char * 
+function fbsd_init void | userboot_path char * | bootvolume_path char * | kernelenv char * | cons char *

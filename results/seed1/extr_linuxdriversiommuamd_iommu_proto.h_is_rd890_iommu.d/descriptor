@@ -1,2 +1,0 @@
-struct pci_dev | vendor long | device long 
-function is_rd890_iommu int | pdev struct pci_dev *

@@ -1,0 +1,2 @@
+struct rowcol | col long | row long 
+function rowcolHash int | key long

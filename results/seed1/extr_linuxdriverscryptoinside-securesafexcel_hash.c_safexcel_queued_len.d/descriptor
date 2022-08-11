@@ -1,2 +1,0 @@
-struct safexcel_ahash_req | len long * | processed long * 
-function safexcel_queued_len long | req struct safexcel_ahash_req *

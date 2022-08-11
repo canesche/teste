@@ -1,0 +1,3 @@
+struct _Locale_messages | dummy int 
+struct TYPE_2__ | __names const char ** 
+function _Locale_messages_name const char * | __loc const struct _Locale_messages * | buf char *

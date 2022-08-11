@@ -1,0 +1,1 @@
+function extent_set_compress_type void | bio_flags unsigned long * | compress_type int

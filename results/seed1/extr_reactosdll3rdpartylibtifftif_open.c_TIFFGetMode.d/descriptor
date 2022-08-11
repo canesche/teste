@@ -1,2 +1,0 @@
-struct TYPE_3__ | tif_mode int 
-function TIFFGetMode int | tif struct TYPE_3__ *

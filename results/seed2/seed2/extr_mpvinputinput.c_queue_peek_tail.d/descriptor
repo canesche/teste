@@ -1,0 +1,3 @@
+struct mp_cmd | queue_next struct mp_cmd * 
+struct cmd_queue | first struct mp_cmd * 
+function queue_peek_tail struct mp_cmd * | queue struct cmd_queue *

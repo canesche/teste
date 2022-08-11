@@ -1,0 +1,4 @@
+struct imx_i2c_struct | cur_clk unsigned int | bitrate unsigned int | disable_delay unsigned int | ifdr int | hwdata struct TYPE_2__ * 
+struct imx_i2c_clk_pair | div unsigned int | val int 
+struct TYPE_2__ | ndivs int | clk_div struct imx_i2c_clk_pair * 
+function i2c_imx_set_clk void | i2c_imx struct imx_i2c_struct * | i2c_clk_rate unsigned int

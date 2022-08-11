@@ -1,0 +1,3 @@
+struct thermal_zone_device | devdata struct mlxsw_thermal * 
+struct mlxsw_thermal | mode int 
+function mlxsw_thermal_get_mode int | tzdev struct thermal_zone_device * | mode enum thermal_device_mode *

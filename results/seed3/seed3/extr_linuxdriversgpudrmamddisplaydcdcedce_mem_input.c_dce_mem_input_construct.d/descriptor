@@ -1,0 +1,7 @@
+struct dce_mem_input_shift | dummy int 
+struct dce_mem_input_registers | dummy int 
+struct dce_mem_input_mask | dummy int 
+struct TYPE_2__ | inst int | funcs int * | ctx struct dc_context * 
+struct dce_mem_input | masks const struct dce_mem_input_mask * | shifts const struct dce_mem_input_shift * | regs const struct dce_mem_input_registers * | base struct TYPE_2__ 
+struct dc_context | dummy int 
+function dce_mem_input_construct void | dce_mi struct dce_mem_input * | ctx struct dc_context * | inst int | regs const struct dce_mem_input_registers * | mi_shift const struct dce_mem_input_shift * | mi_mask const struct dce_mem_input_mask *

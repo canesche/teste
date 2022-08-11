@@ -1,0 +1,2 @@
+struct TYPE_3__ | size int 
+function grub_file_size int | file struct TYPE_3__ *const

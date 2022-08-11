@@ -1,0 +1,4 @@
+struct counter | prev_use struct TYPE_4__ * | next_use struct TYPE_3__ * 
+struct TYPE_4__ | next_use struct TYPE_3__ * 
+struct TYPE_3__ | prev_use struct TYPE_4__ * 
+function del_use void | C struct counter *

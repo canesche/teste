@@ -1,0 +1,2 @@
+struct clk_core | rate unsigned long | parent int | num_parents int 
+function clk_core_get_rate_nolock unsigned long | core struct clk_core *

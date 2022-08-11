@@ -1,2 +1,0 @@
-struct dwc2_hsotg | dummy int 
-function dwc2_hsotg_tx_fifo_average_depth int | hsotg struct dwc2_hsotg *

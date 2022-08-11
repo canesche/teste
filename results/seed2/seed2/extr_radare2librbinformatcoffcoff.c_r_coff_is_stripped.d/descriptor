@@ -1,0 +1,3 @@
+struct TYPE_2__ | f_flags int 
+struct r_bin_coff_obj | hdr struct TYPE_2__ 
+function r_coff_is_stripped int | obj struct r_bin_coff_obj *

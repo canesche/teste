@@ -1,0 +1,5 @@
+struct TYPE_4__ | channel int | param int | value int 
+struct TYPE_3__ | control struct TYPE_4__ 
+struct snd_seq_event | data struct TYPE_3__ 
+struct snd_midi_event | buf int * 
+function two_param_ctrl_event void | dev struct snd_midi_event * | ev struct snd_seq_event *

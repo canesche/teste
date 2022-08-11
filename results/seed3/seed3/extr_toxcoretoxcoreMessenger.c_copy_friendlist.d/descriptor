@@ -1,0 +1,3 @@
+struct TYPE_5__ | numfriends long | friendlist struct TYPE_4__ * 
+struct TYPE_4__ | status long 
+function copy_friendlist unsigned long | m const struct TYPE_5__ * | out_list unsigned long * | list_size unsigned long

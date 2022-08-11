@@ -1,0 +1,1 @@
+function text_is_ascii int | _text const unsigned char * | _len int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmamddisplaydccalcsdcn_calcs.c_verify_clock_values.d/extr_linuxdriversgpudrmamddisplaydccalcsdcn_calcs.c_verify_clock_values_O0::verify_clock_values(63)"
+  }
+]

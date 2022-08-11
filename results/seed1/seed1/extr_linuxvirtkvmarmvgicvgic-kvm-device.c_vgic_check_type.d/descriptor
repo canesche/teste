@@ -1,0 +1,4 @@
+struct TYPE_3__ | vgic_model int 
+struct TYPE_4__ | vgic struct TYPE_3__ 
+struct kvm | arch struct TYPE_4__ 
+function vgic_check_type int | kvm struct kvm * | type_needed int

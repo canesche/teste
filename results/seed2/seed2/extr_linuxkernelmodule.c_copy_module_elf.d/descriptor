@@ -1,0 +1,3 @@
+struct module | dummy int 
+struct load_info | dummy int 
+function copy_module_elf int | mod struct module * | info struct load_info *

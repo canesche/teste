@@ -1,0 +1,5 @@
+struct usbip_header_ret_submit | error_count int | number_of_packets int | start_frame int | actual_length int | status int 
+struct TYPE_2__ | ret_submit struct usbip_header_ret_submit 
+struct usbip_header | u struct TYPE_2__ 
+struct urb | error_count int | number_of_packets int | start_frame int | actual_length int | status int 
+function usbip_pack_ret_submit void | pdu struct usbip_header * | urb struct urb * | pack int

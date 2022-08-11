@@ -1,0 +1,1 @@
+function crc32 unsigned int | seed unsigned int | msg unsigned char * | msglen unsigned int

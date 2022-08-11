@@ -1,2 +1,0 @@
-struct ath_hw | dummy int 
-function ar9003_mci_2g5g_switch void | ah struct ath_hw * | wait_done int

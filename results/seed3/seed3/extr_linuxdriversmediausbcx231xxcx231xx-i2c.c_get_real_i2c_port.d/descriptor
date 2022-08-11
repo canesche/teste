@@ -1,0 +1,2 @@
+struct cx231xx | port_3_switch_enabled long 
+function get_real_i2c_port int | dev struct cx231xx * | bus_nr int

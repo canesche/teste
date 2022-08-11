@@ -1,0 +1,2 @@
+struct qfq_group | S unsigned int | slot_shift unsigned int | full_slots unsigned int | front unsigned int 
+function qfq_slot_rotate void | grp struct qfq_group * | roundedS unsigned int

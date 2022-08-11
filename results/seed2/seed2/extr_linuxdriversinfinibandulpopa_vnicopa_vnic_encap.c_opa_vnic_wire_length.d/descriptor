@@ -1,0 +1,2 @@
+struct sk_buff | len int 
+function opa_vnic_wire_length int | skb struct sk_buff *

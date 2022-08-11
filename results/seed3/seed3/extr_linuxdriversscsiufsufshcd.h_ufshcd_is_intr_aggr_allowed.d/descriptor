@@ -1,0 +1,2 @@
+struct ufs_hba | caps int | quirks int 
+function ufshcd_is_intr_aggr_allowed int | hba struct ufs_hba *

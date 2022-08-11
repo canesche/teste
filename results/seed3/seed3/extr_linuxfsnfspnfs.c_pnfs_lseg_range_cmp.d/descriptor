@@ -1,0 +1,2 @@
+struct pnfs_layout_range | offset int | length int | iomode long 
+function pnfs_lseg_range_cmp int | l1 const struct pnfs_layout_range * | l2 const struct pnfs_layout_range *

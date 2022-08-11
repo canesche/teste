@@ -1,0 +1,2 @@
+struct TYPE_3__ | values int * 
+function sqliterkColumnGetValues int * | column struct TYPE_3__ *

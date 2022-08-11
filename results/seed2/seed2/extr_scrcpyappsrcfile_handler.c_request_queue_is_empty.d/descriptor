@@ -1,0 +1,2 @@
+struct request_queue | head long | tail long 
+function request_queue_is_empty int | queue const struct request_queue *

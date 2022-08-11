@@ -1,1 +1,0 @@
-function emscripten_atomic_and_u8 int | addr void * | val int

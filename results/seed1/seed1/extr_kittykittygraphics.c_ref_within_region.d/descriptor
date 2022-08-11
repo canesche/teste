@@ -1,0 +1,2 @@
+struct TYPE_3__ | start_row long | effective_num_rows long 
+function ref_within_region int | ref struct TYPE_3__ * | margin_top long | margin_bottom long

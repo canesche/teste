@@ -1,0 +1,3 @@
+struct TYPE_2__ | wps_hw_pbc_pressed int 
+struct _adapter | securitypriv struct TYPE_2__ 
+function r8712_wpspbc_event_callback void | adapter struct _adapter * | pbuf int *

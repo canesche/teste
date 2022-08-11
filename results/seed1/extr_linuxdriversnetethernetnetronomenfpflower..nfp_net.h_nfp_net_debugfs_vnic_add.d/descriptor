@@ -1,3 +1,0 @@
-struct nfp_net | dummy int 
-struct dentry | dummy int 
-function nfp_net_debugfs_vnic_add void | nn struct nfp_net * | ddir struct dentry *

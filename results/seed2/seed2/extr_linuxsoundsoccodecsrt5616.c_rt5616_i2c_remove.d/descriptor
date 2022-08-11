@@ -1,0 +1,2 @@
+struct i2c_client | dummy int 
+function rt5616_i2c_remove int | i2c struct i2c_client *

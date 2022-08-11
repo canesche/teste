@@ -1,3 +1,0 @@
-struct stack_pos | member_1 int | member_0 int 
-struct TYPE_3__ | curr_frame int | stk_top int 
-function stack_get_pos struct stack_pos | jq struct TYPE_3__ *

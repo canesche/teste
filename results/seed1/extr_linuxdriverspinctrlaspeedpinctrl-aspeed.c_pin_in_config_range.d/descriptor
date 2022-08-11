@@ -1,2 +1,0 @@
-struct aspeed_pin_config | pins unsigned int * 
-function pin_in_config_range int | offset unsigned int | config const struct aspeed_pin_config *

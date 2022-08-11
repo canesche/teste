@@ -1,0 +1,4 @@
+struct TYPE_2__ | saved_tnpc unsigned long 
+struct uprobe_task | xol_vaddr unsigned long | vaddr long | autask struct TYPE_2__ 
+struct pt_regs | tnpc long | tpc long 
+function relbranch_fixup unsigned long | insn int | utask struct uprobe_task * | regs struct pt_regs *

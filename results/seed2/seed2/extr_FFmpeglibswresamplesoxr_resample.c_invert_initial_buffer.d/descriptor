@@ -1,0 +1,2 @@
+struct ResampleContext | dummy int 
+function invert_initial_buffer int | c struct ResampleContext * | dst int * | src const int * | in_count int | out_idx int * | out_sz int *

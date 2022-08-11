@@ -1,0 +1,3 @@
+struct ScsiReqBlk | dummy int 
+struct AdapterCtlBlk | dummy int 
+function nop1 void | acb struct AdapterCtlBlk * | srb struct ScsiReqBlk * | pscsi_status int *

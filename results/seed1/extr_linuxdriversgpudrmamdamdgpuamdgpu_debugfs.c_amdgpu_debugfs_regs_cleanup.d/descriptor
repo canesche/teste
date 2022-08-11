@@ -1,2 +1,0 @@
-struct amdgpu_device | dummy int 
-function amdgpu_debugfs_regs_cleanup void | adev struct amdgpu_device *

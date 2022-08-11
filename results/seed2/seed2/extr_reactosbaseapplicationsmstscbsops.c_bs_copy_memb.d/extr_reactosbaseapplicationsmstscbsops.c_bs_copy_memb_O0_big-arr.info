@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 122,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 2864,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_reactosbaseapplicationsmstscbsops.c_bs_copy_memb.d/extr_reactosbaseapplicationsmstscbsops.c_bs_copy_memb_O0::bs_copy_memb(60)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | dmPelsWidth long | dmPelsHeight long | dmBitsPerPel long | dmDisplayFrequency long 
+function CompareSettings int | Entry struct TYPE_3__ * | dmPelsWidth long | dmPelsHeight long | dmBitsPerPel long | dmDisplayFrequency long

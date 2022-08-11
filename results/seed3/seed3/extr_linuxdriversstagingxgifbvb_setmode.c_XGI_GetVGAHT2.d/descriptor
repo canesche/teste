@@ -1,0 +1,2 @@
+struct vb_device_info | VGAVT int | VGAVDE int | RVBHCMAX int | VT unsigned long | VDE unsigned long | RVBHCFACT unsigned long | HT unsigned long 
+function XGI_GetVGAHT2 unsigned short | pVBInfo struct vb_device_info *

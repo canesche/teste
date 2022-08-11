@@ -1,0 +1,2 @@
+struct squashfs_decompressor | id int 
+function squashfs_lookup_decompressor const struct squashfs_decompressor * | id int

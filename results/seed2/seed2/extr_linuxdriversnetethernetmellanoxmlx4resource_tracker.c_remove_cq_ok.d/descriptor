@@ -1,0 +1,3 @@
+struct TYPE_2__ | state long 
+struct res_cq | com struct TYPE_2__ 
+function remove_cq_ok int | res struct res_cq *

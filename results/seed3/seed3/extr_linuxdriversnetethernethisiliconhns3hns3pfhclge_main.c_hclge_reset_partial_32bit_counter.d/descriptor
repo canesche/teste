@@ -1,0 +1,2 @@
+struct hclge_32_bit_stats | pkt_curr_buf_tc7_cnt long | pkt_curr_buf_tc6_cnt long | pkt_curr_buf_tc5_cnt long | pkt_curr_buf_tc4_cnt long | pkt_curr_buf_tc3_cnt long | pkt_curr_buf_tc2_cnt long | pkt_curr_buf_tc1_cnt long | pkt_curr_buf_tc0_cnt long | pkt_curr_buf_cnt long 
+function hclge_reset_partial_32bit_counter void | stats struct hclge_32_bit_stats *

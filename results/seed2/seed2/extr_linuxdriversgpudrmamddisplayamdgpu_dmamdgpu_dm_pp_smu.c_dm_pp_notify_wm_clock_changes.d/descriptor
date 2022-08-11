@@ -1,0 +1,3 @@
+struct dm_pp_wm_sets_with_clock_ranges | dummy int 
+struct dc_context | dummy int 
+function dm_pp_notify_wm_clock_changes int | ctx const struct dc_context * | wm_with_clock_ranges struct dm_pp_wm_sets_with_clock_ranges *

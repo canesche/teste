@@ -1,5 +1,0 @@
-struct TYPE_9__ | valid int | data int | not_found long | no_cacheable long | len int 
-struct TYPE_10__ | connection struct TYPE_7__ * 
-struct TYPE_8__ | data int | len int 
-struct TYPE_7__ | proxy_protocol_addr struct TYPE_8__ 
-function ngx_stream_variable_proxy_protocol_addr int | s struct TYPE_10__ * | v struct TYPE_9__ * | data unsigned long

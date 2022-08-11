@@ -1,0 +1,2 @@
+struct ath79_pci_irq | dummy int 
+function ath79_pci_set_irq_map void | nr_irqs unsigned int | map const struct ath79_pci_irq *

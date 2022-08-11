@@ -1,0 +1,1 @@
+function advance_line int * | start int * | line int * | stride int | y int * | h int | interleave int

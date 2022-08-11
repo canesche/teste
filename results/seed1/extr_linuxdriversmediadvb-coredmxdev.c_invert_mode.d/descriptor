@@ -1,2 +1,0 @@
-struct dmx_filter | mode int * 
-function invert_mode void | filter struct dmx_filter *

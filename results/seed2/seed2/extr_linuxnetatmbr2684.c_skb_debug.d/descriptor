@@ -1,0 +1,2 @@
+struct sk_buff | dummy int 
+function skb_debug void | skb const struct sk_buff *

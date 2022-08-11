@@ -1,0 +1,2 @@
+struct TYPE_3__ | name char * | keynum int 
+function Key_KeynumToString char * | keynum int

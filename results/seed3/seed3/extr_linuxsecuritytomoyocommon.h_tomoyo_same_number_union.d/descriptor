@@ -1,0 +1,2 @@
+struct tomoyo_number_union | values long * | group long | value_type long * 
+function tomoyo_same_number_union int | a const struct tomoyo_number_union * | b const struct tomoyo_number_union *

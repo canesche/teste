@@ -1,2 +1,0 @@
-struct tb_xdomain | is_unplugged int | route int | link int 
-function update_xdomain void | xd struct tb_xdomain * | route int | link int

@@ -1,0 +1,3 @@
+struct TYPE_2__ | prefix short * | suffix unsigned char * 
+struct lzw_state | next_code short | dict struct TYPE_2__ 
+function lzw_dict_lookup short | state const struct lzw_state * | prefix short | suffix unsigned char

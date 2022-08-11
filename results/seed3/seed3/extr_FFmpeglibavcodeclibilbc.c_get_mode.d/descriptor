@@ -1,0 +1,2 @@
+struct TYPE_3__ | block_align int | bit_rate int 
+function get_mode int | avctx struct TYPE_3__ *

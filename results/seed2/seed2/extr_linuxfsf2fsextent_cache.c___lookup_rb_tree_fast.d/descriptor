@@ -1,0 +1,2 @@
+struct rb_entry | ofs unsigned int | len unsigned int 
+function __lookup_rb_tree_fast struct rb_entry * | cached_re struct rb_entry * | ofs unsigned int

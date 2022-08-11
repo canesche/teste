@@ -1,0 +1,1 @@
+function batadv_ring_buffer_set void | lq_recv unsigned long [] | lq_index unsigned long * | value unsigned long

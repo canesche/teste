@@ -1,2 +1,0 @@
-struct bc_state | dummy int 
-function gigaset_reinitbcshw void | bcs struct bc_state *

@@ -1,0 +1,3 @@
+struct ishtp_hbm_cl_cmd | host_addr long | fw_addr long 
+struct ishtp_cl | host_client_id long | fw_client_id long 
+function ishtp_hbm_cl_addr_equal int | cl struct ishtp_cl * | buf void *

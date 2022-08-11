@@ -1,2 +1,0 @@
-struct musb | port_mode long 
-function musb_has_gadget int | musb struct musb *

@@ -1,0 +1,2 @@
+struct dc_crtc_timing | display_color_depth long 
+function reduce_mode_colour_depth void | timing_out struct dc_crtc_timing *

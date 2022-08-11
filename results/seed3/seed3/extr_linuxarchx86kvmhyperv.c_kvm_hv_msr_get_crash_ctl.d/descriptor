@@ -1,0 +1,5 @@
+struct kvm_vcpu | kvm struct TYPE_4__ * 
+struct kvm_hv | hv_crash_ctl int 
+struct TYPE_3__ | hyperv struct kvm_hv 
+struct TYPE_4__ | arch struct TYPE_3__ 
+function kvm_hv_msr_get_crash_ctl int | vcpu struct kvm_vcpu * | pdata int *

@@ -1,0 +1,6 @@
+struct TYPE_6__ | funcs int * | num_types int 
+struct TYPE_7__ | num_hpd int | num_crtc int 
+struct TYPE_5__ | funcs int * | num_types int 
+struct TYPE_8__ | funcs int * | num_types int 
+struct amdgpu_device | hpd_irq struct TYPE_6__ | mode_info struct TYPE_7__ | pageflip_irq struct TYPE_5__ | crtc_irq struct TYPE_8__ 
+function amdgpu_dm_set_irq_funcs void | adev struct amdgpu_device *

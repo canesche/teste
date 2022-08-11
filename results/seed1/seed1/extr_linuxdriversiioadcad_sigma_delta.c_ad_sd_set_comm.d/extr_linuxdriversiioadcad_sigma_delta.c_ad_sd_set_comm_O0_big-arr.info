@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversiioadcad_sigma_delta.c_ad_sd_set_comm.d/extr_linuxdriversiioadcad_sigma_delta.c_ad_sd_set_comm_O0::ad_sd_set_comm(63)"
+  }
+]

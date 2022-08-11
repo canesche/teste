@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function vmw_get_vblank_counter int | dev struct drm_device * | pipe unsigned int

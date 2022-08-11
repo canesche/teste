@@ -1,0 +1,1 @@
+function bcm63xx_wdt_settimeout int | new_time int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | registerer void * 
+function obs_hotkey_get_registerer void * | key const struct TYPE_3__ *

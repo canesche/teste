@@ -1,0 +1,2 @@
+struct watchdog_device | dummy int 
+function at91_wdt_stop int | wdd struct watchdog_device *

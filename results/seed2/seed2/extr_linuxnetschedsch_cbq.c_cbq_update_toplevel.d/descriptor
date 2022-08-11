@@ -1,0 +1,5 @@
+struct cbq_sched_data | toplevel long 
+struct cbq_class | level long | undertime long | borrow struct cbq_class * | q struct TYPE_4__ * 
+struct TYPE_3__ | qlen int 
+struct TYPE_4__ | q struct TYPE_3__ 
+function cbq_update_toplevel void | q struct cbq_sched_data * | cl struct cbq_class * | borrowed struct cbq_class *

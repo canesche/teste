@@ -1,0 +1,2 @@
+struct mmc_host | hold_retune int | retune_now int 
+function mmc_retune_recheck void | host struct mmc_host *

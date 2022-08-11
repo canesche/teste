@@ -1,2 +1,0 @@
-struct ath_hw | dummy int 
-function ar9003_mci_check_gpm_offset void | ah struct ath_hw *

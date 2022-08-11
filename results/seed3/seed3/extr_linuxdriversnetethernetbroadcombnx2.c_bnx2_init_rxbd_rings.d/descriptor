@@ -1,0 +1,2 @@
+struct bnx2_rx_bd | rx_bd_flags int | rx_bd_haddr_hi int | rx_bd_haddr_lo int | rx_bd_len int 
+function bnx2_init_rxbd_rings void | rx_ring struct bnx2_rx_bd *[] | dma long [] | buf_size int | num_rings int

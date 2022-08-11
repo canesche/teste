@@ -1,2 +1,0 @@
-struct TYPE_3__ | db int * | db_meth int * 
-function X509V3_set_nconf void | ctx struct TYPE_3__ * | conf int *

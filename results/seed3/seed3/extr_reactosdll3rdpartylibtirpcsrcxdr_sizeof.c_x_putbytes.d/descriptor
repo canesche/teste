@@ -1,0 +1,2 @@
+struct TYPE_3__ | x_handy int 
+function x_putbytes int | xdrs struct TYPE_3__ * | bp const char * | len long

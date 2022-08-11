@@ -1,2 +1,0 @@
-struct s5k5baf | error int 
-function s5k5baf_clear_error int | state struct s5k5baf *

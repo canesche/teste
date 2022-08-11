@@ -1,0 +1,2 @@
+struct sock | sk_family int 
+function sock_needs_netstamp int | sk const struct sock *

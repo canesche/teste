@@ -1,0 +1,2 @@
+struct xz_dec | pos int | vli int 
+function dec_vli enum xz_ret | s struct xz_dec * | in const int * | in_pos unsigned long * | in_size unsigned long

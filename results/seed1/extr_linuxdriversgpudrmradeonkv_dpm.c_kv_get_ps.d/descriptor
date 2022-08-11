@@ -1,3 +1,0 @@
-struct radeon_ps | ps_priv struct kv_ps * 
-struct kv_ps | dummy int 
-function kv_get_ps struct kv_ps * | rps struct radeon_ps *

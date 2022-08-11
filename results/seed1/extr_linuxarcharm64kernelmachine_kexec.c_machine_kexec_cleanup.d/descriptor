@@ -1,2 +1,0 @@
-struct kimage | dummy int 
-function machine_kexec_cleanup void | kimage struct kimage *

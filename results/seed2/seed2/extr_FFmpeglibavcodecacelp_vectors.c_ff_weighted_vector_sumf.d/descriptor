@@ -1,0 +1,1 @@
+function ff_weighted_vector_sumf void | out float * | in_a const float * | in_b const float * | weight_coeff_a float | weight_coeff_b float | length int

@@ -1,0 +1,3 @@
+struct wined3d_gl_info | dummy int 
+struct fragment_caps | PrimitiveMiscCaps int | TextureOpCaps int | MaxSimultaneousTextures int | MaxTextureBlendStages int | wined3d_caps int 
+function atifs_get_caps void | gl_info const struct wined3d_gl_info * | caps struct fragment_caps *

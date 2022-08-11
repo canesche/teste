@@ -1,0 +1,2 @@
+struct bcm_sf2_priv | num_cfp_rules unsigned int 
+function bcm_sf2_cfp_rule_size unsigned int | priv struct bcm_sf2_priv *

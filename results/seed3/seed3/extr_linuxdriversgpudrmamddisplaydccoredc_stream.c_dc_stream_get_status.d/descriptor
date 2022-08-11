@@ -1,0 +1,6 @@
+struct dc_stream_status | dummy int 
+struct dc_stream_state | ctx struct TYPE_3__ * 
+struct dc | current_state struct TYPE_4__ * 
+struct TYPE_4__ | stream_count unsigned long | stream_status struct dc_stream_status * | streams struct dc_stream_state ** 
+struct TYPE_3__ | dc struct dc * 
+function dc_stream_get_status struct dc_stream_status * | stream struct dc_stream_state *

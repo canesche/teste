@@ -1,3 +1,0 @@
-struct TYPE_2__ | mmio_attribute int * 
-struct intel_gvt | mmio struct TYPE_2__ 
-function intel_gvt_mmio_set_in_ctx void | gvt struct intel_gvt * | offset unsigned int

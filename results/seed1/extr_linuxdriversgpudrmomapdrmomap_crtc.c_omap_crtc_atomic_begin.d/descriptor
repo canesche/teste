@@ -1,3 +1,0 @@
-struct drm_crtc_state | dummy int 
-struct drm_crtc | dummy int 
-function omap_crtc_atomic_begin void | crtc struct drm_crtc * | old_crtc_state struct drm_crtc_state *

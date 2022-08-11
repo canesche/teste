@@ -1,0 +1,2 @@
+struct TYPE_4__ | rtBaseTime long | rtIntervalTime long | prev struct TYPE_4__ * | next struct TYPE_4__ * 
+function QUARTZ_InsertAviseEntryFromQueue void | This int * | pEntry struct TYPE_4__ * | pQueue struct TYPE_4__ **

@@ -1,0 +1,6 @@
+struct vm_special_mapping | dummy int 
+struct vm_area_struct | vm_end unsigned long | vm_start unsigned long 
+struct TYPE_6__ | mm struct TYPE_5__ * 
+struct TYPE_4__ | vdso unsigned long 
+struct TYPE_5__ | context struct TYPE_4__ 
+function vdso_mremap int | sm const struct vm_special_mapping * | new_vma struct vm_area_struct *

@@ -1,3 +1,0 @@
-struct TYPE_2__ | vram_size int 
-struct cirrus_device | mc struct TYPE_2__ 
-function cirrus_check_framebuffer int | cdev struct cirrus_device * | width int | height int | bpp int | pitch int

@@ -1,0 +1,1 @@
+value(numa_node) == 10, length(iommu) == 100, length(stc) == 100, length(host_controller) == 100, length(sd) == 100, length(op) == 100

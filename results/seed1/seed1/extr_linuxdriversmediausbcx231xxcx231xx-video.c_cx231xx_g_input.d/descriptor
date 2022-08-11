@@ -1,0 +1,4 @@
+struct file | dummy int 
+struct cx231xx_fh | dev struct cx231xx * 
+struct cx231xx | video_input unsigned int 
+function cx231xx_g_input int | file struct file * | priv void * | i unsigned int *

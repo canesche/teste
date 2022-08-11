@@ -1,0 +1,2 @@
+struct pcie_port | dummy int 
+function dw_pcie_host_init int | pp struct pcie_port *

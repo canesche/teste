@@ -1,0 +1,2 @@
+struct ata_eh_info | desc char * | desc_len long 
+function ata_ehi_clear_desc void | ehi struct ata_eh_info *

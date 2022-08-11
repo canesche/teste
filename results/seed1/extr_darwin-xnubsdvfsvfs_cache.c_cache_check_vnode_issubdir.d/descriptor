@@ -1,3 +1,0 @@
-struct TYPE_9__ | mnt_vnodecovered struct TYPE_8__ * 
-struct TYPE_8__ | v_flag int | v_parent struct TYPE_8__ * | v_mount struct TYPE_9__ * 
-function cache_check_vnode_issubdir int | vp struct TYPE_8__ * | dvp struct TYPE_8__ * | is_subdir int * | next_vp struct TYPE_8__ **

@@ -1,0 +1,2 @@
+struct TYPE_2__ | stat int | errno int 
+function nfs4_stat_to_errno int | stat int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxtoolspowerx86turbostatturbostat.c_has_snb_msrs.d/extr_linuxtoolspowerx86turbostatturbostat.c_has_snb_msrs_O0::has_snb_msrs(82)"
+  }
+]

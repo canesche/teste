@@ -1,0 +1,4 @@
+struct dma_channel | chan unsigned int 
+struct TYPE_4__ | channel struct TYPE_3__ * 
+struct TYPE_3__ | chan_enable int | xfer_enable int 
+function g2_enable_dma int | chan struct dma_channel *

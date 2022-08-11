@@ -1,0 +1,2 @@
+struct cs_base64_ctx | user_data void * | b64_putc int | chunk_size long 
+function cs_base64_init void | ctx struct cs_base64_ctx * | b64_putc int | user_data void *

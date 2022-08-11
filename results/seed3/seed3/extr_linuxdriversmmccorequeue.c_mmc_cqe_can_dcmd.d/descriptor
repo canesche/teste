@@ -1,0 +1,2 @@
+struct mmc_host | caps2 int 
+function mmc_cqe_can_dcmd int | host struct mmc_host *

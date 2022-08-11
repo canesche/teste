@@ -1,0 +1,2 @@
+struct drm_encoder | dummy int 
+function dce_v6_0_ext_commit void | encoder struct drm_encoder *

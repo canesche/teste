@@ -1,2 +1,0 @@
-struct drm_device | dummy int 
-function omap_fbdev_fini void | dev struct drm_device *

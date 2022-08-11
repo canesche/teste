@@ -1,0 +1,2 @@
+struct necp_packet_header | message_id int | flags void * | packet_type void * 
+function necp_buffer_write_packet_header void ** | buffer void ** | packet_type void * | flags void * | message_id int

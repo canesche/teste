@@ -1,0 +1,3 @@
+struct wiphy | dummy int 
+struct net_device | dummy int 
+function set_cqm_rssi_config int | wiphy struct wiphy * | dev struct net_device * | rssi_thold int | rssi_hyst int

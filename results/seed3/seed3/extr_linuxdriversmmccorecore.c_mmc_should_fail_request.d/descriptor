@@ -1,0 +1,3 @@
+struct mmc_request | dummy int 
+struct mmc_host | dummy int 
+function mmc_should_fail_request void | host struct mmc_host * | mrq struct mmc_request *

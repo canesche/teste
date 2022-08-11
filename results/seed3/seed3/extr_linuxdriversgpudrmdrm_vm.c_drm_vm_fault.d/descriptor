@@ -1,0 +1,2 @@
+struct vm_fault | dummy int 
+function drm_vm_fault int | vmf struct vm_fault *

@@ -1,3 +1,0 @@
-struct TYPE_2__ | lvb long 
-struct ocfs2_dlm_lksb | lksb_o2dlm struct TYPE_2__ 
-function o2cb_dlm_lvb void * | lksb struct ocfs2_dlm_lksb *

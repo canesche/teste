@@ -1,0 +1,2 @@
+struct firedtv | dummy int 
+function fdtv_unregister_rc void | fdtv struct firedtv *

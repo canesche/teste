@@ -1,2 +1,0 @@
-struct TYPE_3__ | size long | used long | tail int * | current int | head int 
-function BN_POOL_init void | p struct TYPE_3__ *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | num_qry_beacon_pkt long 
+struct phy_dm_struct | phy_dbg_info struct TYPE_2__ 
+function odm_common_info_self_reset void | dm struct phy_dm_struct *

@@ -1,0 +1,2 @@
+struct dma_pending | data long 
+function dp_is_completed int | dp struct dma_pending *

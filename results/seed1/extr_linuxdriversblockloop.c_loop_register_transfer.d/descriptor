@@ -1,2 +1,0 @@
-struct loop_func_table | number unsigned int 
-function loop_register_transfer int | funcs struct loop_func_table *

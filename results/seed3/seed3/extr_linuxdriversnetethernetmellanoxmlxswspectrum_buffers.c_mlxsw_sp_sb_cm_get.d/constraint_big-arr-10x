@@ -1,0 +1,1 @@
+value(local_port) == 10, value(pg_buff) == 10, length(mlxsw_sp) == 100

@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int | hwndEdit long 
+function COMBOEX_HasEditChanged int | infoPtr const struct TYPE_3__ *

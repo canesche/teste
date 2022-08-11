@@ -1,2 +1,0 @@
-struct wlandevice | hostwep int 
-function p80211req_handle_action void | wlandev struct wlandevice * | data int * | isget int | flag int

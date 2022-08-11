@@ -1,0 +1,2 @@
+struct attr_cache_entry | fileid long 
+function attr_cmp int | lhs struct attr_cache_entry * | rhs struct attr_cache_entry *

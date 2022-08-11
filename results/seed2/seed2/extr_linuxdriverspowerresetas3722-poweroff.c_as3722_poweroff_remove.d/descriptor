@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function as3722_poweroff_remove int | pdev struct platform_device *

@@ -1,2 +1,0 @@
-struct timing_generator | dummy int 
-function dce110_timing_generator_v_disable_vga void | tg struct timing_generator *

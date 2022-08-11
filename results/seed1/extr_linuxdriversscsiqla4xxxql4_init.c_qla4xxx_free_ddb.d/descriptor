@@ -1,3 +1,0 @@
-struct scsi_qla_host | tot_ddbs int | fw_ddb_index_map struct ddb_entry ** 
-struct ddb_entry | fw_ddb_index unsigned long 
-function qla4xxx_free_ddb void | ha struct scsi_qla_host * | ddb_entry struct ddb_entry *

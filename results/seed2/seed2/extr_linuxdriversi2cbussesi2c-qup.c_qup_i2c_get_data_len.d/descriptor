@@ -1,0 +1,3 @@
+struct TYPE_2__ | data_len int 
+struct qup_i2c_dev | blk_xfer_limit int | blk struct TYPE_2__ 
+function qup_i2c_get_data_len int | qup struct qup_i2c_dev *

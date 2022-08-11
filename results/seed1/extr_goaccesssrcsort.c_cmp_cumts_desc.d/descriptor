@@ -1,4 +1,0 @@
-struct TYPE_6__ | metrics struct TYPE_5__ * 
-struct TYPE_4__ | nts long 
-struct TYPE_5__ | cumts struct TYPE_4__ 
-function cmp_cumts_desc int | a const void * | b const void *

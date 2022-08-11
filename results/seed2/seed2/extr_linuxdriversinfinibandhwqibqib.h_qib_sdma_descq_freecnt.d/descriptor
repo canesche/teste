@@ -1,0 +1,2 @@
+struct qib_pportdata | sdma_descq_removed long | sdma_descq_added long | sdma_descq_cnt long 
+function qib_sdma_descq_freecnt long | ppd const struct qib_pportdata *

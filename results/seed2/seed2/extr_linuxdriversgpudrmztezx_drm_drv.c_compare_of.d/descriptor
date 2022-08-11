@@ -1,0 +1,2 @@
+struct device | of_node void * 
+function compare_of int | dev struct device * | data void *

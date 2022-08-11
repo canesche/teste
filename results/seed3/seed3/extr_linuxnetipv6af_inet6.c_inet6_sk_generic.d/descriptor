@@ -1,0 +1,4 @@
+struct sock | sk_prot struct TYPE_2__ * 
+struct ipv6_pinfo | dummy int 
+struct TYPE_2__ | obj_size int 
+function inet6_sk_generic struct ipv6_pinfo * | sk struct sock *

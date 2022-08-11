@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function kvm_vcpu_trigger_posted_interrupt int | vcpu struct kvm_vcpu * | nested int

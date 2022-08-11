@@ -1,0 +1,2 @@
+struct TYPE_3__ | stride int | src long ** | ref long ** 
+function init_mv4_ref void | c struct TYPE_3__ *

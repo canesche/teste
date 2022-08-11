@@ -1,0 +1,4 @@
+struct TYPE_3__ | MCS_rate int * 
+struct TYPE_4__ | HT_cap_element struct TYPE_3__ 
+struct HT_caps_element | u struct TYPE_4__ 
+function get_highest_mcs_rate unsigned char | pHT_caps struct HT_caps_element *

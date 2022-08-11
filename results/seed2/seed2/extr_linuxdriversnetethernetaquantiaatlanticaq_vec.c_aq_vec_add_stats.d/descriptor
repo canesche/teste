@@ -1,0 +1,6 @@
+struct aq_vec_s | tx_rings unsigned int | ring struct aq_ring_s ** 
+struct aq_ring_stats_tx_s | queue_restarts long | errors long | bytes long | packets long 
+struct aq_ring_stats_rx_s | lro_packets long | jumbo_packets long | errors long | bytes long | packets long 
+struct TYPE_2__ | rx struct aq_ring_stats_rx_s | tx struct aq_ring_stats_tx_s 
+struct aq_ring_s | stats struct TYPE_2__ 
+function aq_vec_add_stats void | self struct aq_vec_s * | stats_rx struct aq_ring_stats_rx_s * | stats_tx struct aq_ring_stats_tx_s *

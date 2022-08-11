@@ -1,0 +1,3 @@
+struct fb_var_screeninfo | pixclock int | xres unsigned long | left_margin unsigned long | right_margin unsigned long | hsync_len unsigned long | yres unsigned long | upper_margin unsigned long | lower_margin unsigned long | vsync_len unsigned long 
+struct fb_monspecs | vfmin unsigned long | vfmax unsigned long | hfmin unsigned long | hfmax unsigned long 
+function acornfb_validate_timing int | var struct fb_var_screeninfo * | monspecs struct fb_monspecs *

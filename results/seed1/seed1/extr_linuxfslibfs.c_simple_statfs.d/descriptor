@@ -1,0 +1,4 @@
+struct kstatfs | f_namelen int | f_bsize int | f_type int 
+struct dentry | d_sb struct TYPE_2__ * 
+struct TYPE_2__ | s_magic int 
+function simple_statfs int | dentry struct dentry * | buf struct kstatfs *

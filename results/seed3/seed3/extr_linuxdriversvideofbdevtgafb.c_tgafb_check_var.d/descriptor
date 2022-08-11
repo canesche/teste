@@ -1,0 +1,8 @@
+struct tga_par | tga_type long 
+struct TYPE_7__ | length int | offset long 
+struct TYPE_6__ | length int | offset int 
+struct TYPE_5__ | length int | offset int 
+struct fb_var_screeninfo | bits_per_pixel int | xres_virtual int | xres int | yres_virtual int | yres int | pixclock int | vmode int | nonstd long | blue struct TYPE_7__ | green struct TYPE_6__ | red struct TYPE_5__ 
+struct TYPE_8__ | smem_len int 
+struct fb_info | fix struct TYPE_8__ | par long 
+function tgafb_check_var int | var struct fb_var_screeninfo * | info struct fb_info *

@@ -1,4 +1,0 @@
-struct TYPE_3__ | czbfs int 
-struct TYPE_4__ | bf struct TYPE_3__ 
-struct src_rsc_ctrl_blk | dirty struct TYPE_4__ 
-function src_set_clear_zbufs int | blk void * | clear unsigned int

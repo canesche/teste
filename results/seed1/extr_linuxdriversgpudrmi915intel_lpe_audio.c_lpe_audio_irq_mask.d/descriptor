@@ -1,2 +1,0 @@
-struct irq_data | dummy int 
-function lpe_audio_irq_mask void | d struct irq_data *

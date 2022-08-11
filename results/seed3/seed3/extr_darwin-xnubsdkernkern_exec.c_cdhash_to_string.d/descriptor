@@ -1,0 +1,1 @@
+function cdhash_to_string void | str char [CS_CDHASH_STRING_SIZE] | cdhash const int *const

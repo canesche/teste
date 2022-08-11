@@ -1,0 +1,1 @@
+function ui_create_cursor int | x unsigned int | y unsigned int | width int | height int | andmask int * | xormask int *

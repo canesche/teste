@@ -1,0 +1,2 @@
+struct module | dummy int 
+function check_kparam_locked void | mod struct module *

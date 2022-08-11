@@ -1,2 +1,0 @@
-struct timeval | tv_usec long | tv_sec long 
-function sub_times void | a struct timeval | b struct timeval | result struct timeval *

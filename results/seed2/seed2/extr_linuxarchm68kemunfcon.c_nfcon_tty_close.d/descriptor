@@ -1,0 +1,3 @@
+struct tty_struct | dummy int 
+struct file | dummy int 
+function nfcon_tty_close void | tty struct tty_struct * | filp struct file *

@@ -1,0 +1,3 @@
+struct btf_type | dummy int 
+struct btf | nr_types unsigned long | types const struct btf_type ** 
+function btf__type_by_id const struct btf_type * | btf const struct btf * | type_id unsigned long

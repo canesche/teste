@@ -1,0 +1,4 @@
+struct TYPE_7__ | bl_tree struct TYPE_6__ * 
+struct TYPE_8__ | Len int 
+struct TYPE_6__ | Freq long 
+function scan_tree void | s struct TYPE_7__ * | tree struct TYPE_8__ * | max_code int

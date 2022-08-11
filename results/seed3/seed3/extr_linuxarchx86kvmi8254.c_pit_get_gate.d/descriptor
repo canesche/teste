@@ -1,0 +1,4 @@
+struct TYPE_4__ | channels struct TYPE_3__ * 
+struct kvm_pit | pit_state struct TYPE_4__ 
+struct TYPE_3__ | gate int 
+function pit_get_gate int | pit struct kvm_pit * | channel int

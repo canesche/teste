@@ -1,0 +1,2 @@
+struct bman_pool | bpid int 
+function bman_get_bpid int | pool const struct bman_pool *

@@ -1,0 +1,3 @@
+struct acpi_gpe_event_info | dummy int 
+struct acpi_gpe_block_info | block_base_number long | gpe_count long | event_info struct acpi_gpe_event_info * 
+function acpi_ev_low_get_gpe_info struct acpi_gpe_event_info * | gpe_number long | gpe_block struct acpi_gpe_block_info *

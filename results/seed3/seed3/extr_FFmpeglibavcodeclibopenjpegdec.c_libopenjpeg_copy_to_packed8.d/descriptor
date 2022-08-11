@@ -1,0 +1,4 @@
+struct TYPE_7__ | numcomps int | comps struct TYPE_6__ * 
+struct TYPE_8__ | height int | width int | linesize int * | data int ** 
+struct TYPE_6__ | sgnd int | data long * 
+function libopenjpeg_copy_to_packed8 void | picture struct TYPE_8__ * | image struct TYPE_7__ *

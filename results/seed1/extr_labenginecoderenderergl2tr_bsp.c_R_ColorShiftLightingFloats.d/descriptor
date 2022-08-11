@@ -1,3 +1,0 @@
-struct TYPE_4__ | integer int 
-struct TYPE_3__ | overbrightBits int 
-function R_ColorShiftLightingFloats void | in float [4] | out float [4]

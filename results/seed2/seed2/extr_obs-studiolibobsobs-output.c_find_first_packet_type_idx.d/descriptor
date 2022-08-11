@@ -1,0 +1,4 @@
+struct TYPE_2__ | num unsigned long | array struct encoder_packet * 
+struct obs_output | interleaved_packets struct TYPE_2__ 
+struct encoder_packet | type int | track_idx unsigned long 
+function find_first_packet_type_idx int | output struct obs_output * | type enum obs_encoder_type | audio_idx unsigned long

@@ -1,0 +1,3 @@
+struct vc_data | vc_color int 
+struct rgb | r int | g int | b int 
+function rgb_background void | vc struct vc_data * | c const struct rgb *

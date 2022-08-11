@@ -1,0 +1,2 @@
+struct tep_handle | flags int 
+function tep_set_flag void | pevent struct tep_handle * | flag int

@@ -1,0 +1,2 @@
+struct tcpcb | t_pipeack_sample long * 
+function tcp_get_max_pipeack long | tp struct tcpcb *

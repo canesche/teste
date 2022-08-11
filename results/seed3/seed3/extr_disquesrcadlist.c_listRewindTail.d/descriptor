@@ -1,0 +1,3 @@
+struct TYPE_5__ | direction int | next int 
+struct TYPE_6__ | tail int 
+function listRewindTail void | list struct TYPE_6__ * | li struct TYPE_5__ *

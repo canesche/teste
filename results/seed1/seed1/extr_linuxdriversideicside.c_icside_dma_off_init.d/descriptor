@@ -1,0 +1,2 @@
+struct ide_port_info | dummy int 
+function icside_dma_off_init int | hwif int * | d const struct ide_port_info *

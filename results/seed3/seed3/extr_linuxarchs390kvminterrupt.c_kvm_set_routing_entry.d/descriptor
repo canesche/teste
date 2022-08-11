@@ -1,0 +1,7 @@
+struct TYPE_4__ | adapter_id int | ind_offset int | summary_offset int | ind_addr int | summary_addr int 
+struct kvm_kernel_irq_routing_entry | adapter struct TYPE_4__ | set int 
+struct TYPE_5__ | adapter_id int | ind_offset int | summary_offset int | ind_addr int | summary_addr int 
+struct TYPE_6__ | adapter struct TYPE_5__ 
+struct kvm_irq_routing_entry | type int | u struct TYPE_6__ 
+struct kvm | dummy int 
+function kvm_set_routing_entry int | kvm struct kvm * | e struct kvm_kernel_irq_routing_entry * | ue const struct kvm_irq_routing_entry *

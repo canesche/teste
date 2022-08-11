@@ -1,0 +1,2 @@
+struct rtsx_chip | dummy int 
+function ms_parse_err_code int | chip struct rtsx_chip *

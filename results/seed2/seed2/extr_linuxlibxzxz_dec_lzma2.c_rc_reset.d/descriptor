@@ -1,0 +1,2 @@
+struct rc_dec | init_bytes_left int | code long | range long 
+function rc_reset void | rc struct rc_dec *

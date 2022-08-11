@@ -1,0 +1,3 @@
+struct vfe_line | dummy int 
+struct vfe_device | dummy int 
+function vfe_set_realign_cfg void | vfe struct vfe_device * | line struct vfe_line * | enable int

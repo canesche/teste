@@ -1,3 +1,0 @@
-struct vmw_sw_context | dummy int 
-struct vmw_private | dummy int 
-function vmw_cmd_invalid int | dev_priv struct vmw_private * | sw_context struct vmw_sw_context * | header int *

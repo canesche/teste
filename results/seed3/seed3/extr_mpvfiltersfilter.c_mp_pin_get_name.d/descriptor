@@ -1,0 +1,2 @@
+struct mp_pin | name const char * 
+function mp_pin_get_name const char * | p struct mp_pin *

@@ -1,0 +1,3 @@
+struct devfreq | profile struct TYPE_2__ * 
+struct TYPE_2__ | max_state int | freq_table unsigned long * 
+function devfreq_get_freq_level int | devfreq struct devfreq * | freq unsigned long

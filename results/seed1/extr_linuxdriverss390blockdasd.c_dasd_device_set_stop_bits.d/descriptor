@@ -1,2 +1,0 @@
-struct dasd_device | stopped int 
-function dasd_device_set_stop_bits void | device struct dasd_device * | bits int

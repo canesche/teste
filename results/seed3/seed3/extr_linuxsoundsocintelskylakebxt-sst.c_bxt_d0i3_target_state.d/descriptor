@@ -1,0 +1,5 @@
+struct sst_dsp | thread_context struct skl_sst * 
+struct TYPE_2__ | state long * 
+struct skl_d0i3_data | non_streaming long | streaming long | non_d0i3 long 
+struct skl_sst | cores struct TYPE_2__ | d0i3 struct skl_d0i3_data 
+function bxt_d0i3_target_state int | ctx struct sst_dsp *

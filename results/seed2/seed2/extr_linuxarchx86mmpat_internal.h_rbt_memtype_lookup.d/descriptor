@@ -1,0 +1,2 @@
+struct memtype | dummy int 
+function rbt_memtype_lookup struct memtype * | addr int

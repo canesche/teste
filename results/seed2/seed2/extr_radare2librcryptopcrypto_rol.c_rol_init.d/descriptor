@@ -1,0 +1,2 @@
+struct rol_state | key_size int | key int * 
+function rol_init int | state struct rol_state *const | key const int * | keylen int

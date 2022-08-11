@@ -1,0 +1,4 @@
+struct TYPE_3__ | target int 
+struct TYPE_4__ | rspcode long | servparams struct TYPE_3__ 
+struct fc_prli_s | command long | parampage struct TYPE_4__ 
+function fc_prli_rsp_parse enum fc_parse_status | prli struct fc_prli_s * | len int

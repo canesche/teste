@@ -1,0 +1,4 @@
+struct selinux_state | ss struct TYPE_2__ * 
+struct av_decision | auditdeny int | flags long | seqno int | auditallow long | allowed long 
+struct TYPE_2__ | latest_granting int 
+function avd_init void | state struct selinux_state * | avd struct av_decision *

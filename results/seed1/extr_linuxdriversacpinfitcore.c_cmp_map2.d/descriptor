@@ -1,2 +1,0 @@
-struct nfit_set_info_map2 | region_offset long 
-function cmp_map2 int | m0 const void * | m1 const void *

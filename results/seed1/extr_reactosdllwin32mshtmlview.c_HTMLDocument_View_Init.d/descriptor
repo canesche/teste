@@ -1,4 +1,0 @@
-struct TYPE_6__ | lpVtbl int * 
-struct TYPE_5__ | lpVtbl int * 
-struct TYPE_7__ | IViewObjectEx_iface struct TYPE_6__ | IOleDocumentView_iface struct TYPE_5__ 
-function HTMLDocument_View_Init void | This struct TYPE_7__ *

@@ -1,0 +1,3 @@
+struct rx_ring | lbq_curr_idx unsigned long | lbq_len unsigned long | lbq_free_cnt int | lbq struct bq_desc * 
+struct bq_desc | dummy int 
+function ql_get_curr_lbuf struct bq_desc * | rx_ring struct rx_ring *

@@ -1,0 +1,2 @@
+struct dentry | d_fsdata long 
+function vfat_d_version unsigned long | dentry struct dentry *

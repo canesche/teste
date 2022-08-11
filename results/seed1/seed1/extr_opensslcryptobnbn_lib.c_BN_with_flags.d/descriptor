@@ -1,0 +1,2 @@
+struct TYPE_4__ | flags int | neg int | dmax int | top int | d int 
+function BN_with_flags void | dest struct TYPE_4__ * | b const struct TYPE_4__ * | flags int

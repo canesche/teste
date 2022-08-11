@@ -1,0 +1,2 @@
+struct TYPE_3__ | dictEnd const char * | previousDstEnd const char * | vBase const char * | base const void * 
+function ZSTD_decompress_insertDictionary void | ctx struct TYPE_3__ * | dict const void * | dictSize unsigned long

@@ -1,0 +1,2 @@
+struct TYPE_3__ | __attr unsigned int 
+function pthread_mutexattr_getrobust int | a const struct TYPE_3__ *__restrict | robust int *__restrict

@@ -1,2 +1,0 @@
-struct regmap | work_buf unsigned long * 
-function regmap_set_work_buf_flag_mask void | map struct regmap * | max_bytes int | mask unsigned long

@@ -1,0 +1,9 @@
+struct pipe_ctx | top_pipe int | stream const struct dc_stream_state * | plane_state int 
+struct dc_stream_state | dummy int 
+struct TYPE_5__ | pipe_ctx struct pipe_ctx * 
+struct dc_state | res_ctx struct TYPE_5__ 
+struct dc | current_state struct TYPE_7__ * | res_pool struct TYPE_8__ * 
+struct TYPE_8__ | pipe_count int 
+struct TYPE_6__ | pipe_ctx struct pipe_ctx * 
+struct TYPE_7__ | res_ctx struct TYPE_6__ 
+function find_top_pipe_for_stream struct pipe_ctx * | dc struct dc * | context struct dc_state * | stream const struct dc_stream_state *

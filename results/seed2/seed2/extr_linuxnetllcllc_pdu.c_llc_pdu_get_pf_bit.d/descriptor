@@ -1,0 +1,2 @@
+struct llc_pdu_sn | ctrl_1 int | ctrl_2 int 
+function llc_pdu_get_pf_bit int | pdu struct llc_pdu_sn *

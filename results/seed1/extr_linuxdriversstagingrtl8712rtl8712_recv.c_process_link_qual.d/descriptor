@@ -1,8 +1,0 @@
-struct rx_pkt_attrib | signal_qual long 
-struct TYPE_4__ | attrib struct rx_pkt_attrib 
-struct TYPE_5__ | hdr struct TYPE_4__ 
-struct recv_frame | u struct TYPE_5__ 
-struct smooth_rssi_data | total_num unsigned long | elements int * | index unsigned long | total_val int 
-struct TYPE_6__ | signal long | signal_qual_data struct smooth_rssi_data 
-struct _adapter | recvpriv struct TYPE_6__ 
-function process_link_qual void | padapter struct _adapter * | prframe union recv_frame *

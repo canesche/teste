@@ -1,0 +1,2 @@
+struct TYPE_3__ | num int | den int | val long 
+function frac_add void | f struct TYPE_3__ * | incr int

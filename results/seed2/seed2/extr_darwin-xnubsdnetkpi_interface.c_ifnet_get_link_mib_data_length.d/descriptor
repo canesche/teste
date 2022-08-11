@@ -1,0 +1,2 @@
+struct TYPE_3__ | if_linkmiblen int 
+function ifnet_get_link_mib_data_length int | interface struct TYPE_3__ *

@@ -1,3 +1,0 @@
-struct pcmcia_device | priv struct TYPE_2__ * 
-struct TYPE_2__ | stop long 
-function sedlbauer_resume int | link struct pcmcia_device *

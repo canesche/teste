@@ -1,0 +1,2 @@
+struct sockaddr | dummy int 
+function rpc_ntop6 unsigned long | sap const struct sockaddr * | buf char * | buflen const unsigned long

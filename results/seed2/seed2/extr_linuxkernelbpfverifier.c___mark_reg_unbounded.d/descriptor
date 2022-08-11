@@ -1,0 +1,2 @@
+struct bpf_reg_state | umax_value int | umin_value long | smax_value int | smin_value int 
+function __mark_reg_unbounded void | reg struct bpf_reg_state *

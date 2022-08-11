@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function stmmac_ethtool_get_regs_len int | dev struct net_device *

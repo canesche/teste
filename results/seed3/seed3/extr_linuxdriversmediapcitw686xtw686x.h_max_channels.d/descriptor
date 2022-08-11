@@ -1,0 +1,2 @@
+struct tw686x_dev | type unsigned int 
+function max_channels unsigned int | dev struct tw686x_dev *

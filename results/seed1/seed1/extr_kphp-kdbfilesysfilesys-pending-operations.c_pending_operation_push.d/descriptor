@@ -1,0 +1,2 @@
+struct pending_operation | next struct pending_operation * 
+function pending_operation_push void | P struct pending_operation *

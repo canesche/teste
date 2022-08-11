@@ -1,3 +1,0 @@
-struct TYPE_2__ | to_join int | to_roam long 
-struct adapter | mlmepriv struct TYPE_2__ 
-function rtw_set_to_roam void | adapter struct adapter * | to_roam long

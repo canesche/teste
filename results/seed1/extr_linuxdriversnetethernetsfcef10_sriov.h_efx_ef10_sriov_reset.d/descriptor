@@ -1,2 +1,0 @@
-struct efx_nic | dummy int 
-function efx_ef10_sriov_reset void | efx struct efx_nic *

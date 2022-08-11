@@ -1,4 +1,0 @@
-struct qcm_process_device | tma_addr void * | tba_addr void * | cwsr_kaddr long 
-struct device_queue_manager | dev struct TYPE_2__ * 
-struct TYPE_2__ | cwsr_enabled long 
-function set_trap_handler int | dqm struct device_queue_manager * | qpd struct qcm_process_device * | tba_addr void * | tma_addr void *

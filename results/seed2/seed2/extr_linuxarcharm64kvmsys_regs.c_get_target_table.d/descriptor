@@ -1,0 +1,5 @@
+struct sys_reg_desc | dummy int 
+struct TYPE_4__ | num unsigned long | table const struct sys_reg_desc * 
+struct TYPE_3__ | num unsigned long | table const struct sys_reg_desc * 
+struct kvm_sys_reg_target_table | table32 struct TYPE_4__ | table64 struct TYPE_3__ 
+function get_target_table const struct sys_reg_desc * | target unsigned int | mode_is_64 int | num unsigned long *

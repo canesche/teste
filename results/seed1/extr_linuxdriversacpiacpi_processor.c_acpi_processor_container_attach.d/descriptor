@@ -1,3 +1,0 @@
-struct acpi_device_id | dummy int 
-struct acpi_device | dummy int 
-function acpi_processor_container_attach int | dev struct acpi_device * | id const struct acpi_device_id *

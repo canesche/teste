@@ -1,5 +1,0 @@
-struct TYPE_10__ | parent long | next struct TYPE_10__ * | source struct TYPE_9__ * | is_group long 
-struct TYPE_11__ | first_item struct TYPE_10__ * 
-struct TYPE_8__ | data long 
-struct TYPE_9__ | context struct TYPE_8__ 
-function get_sceneitem_parent_group struct TYPE_10__ * | scene struct TYPE_11__ * | group_subitem struct TYPE_10__ *

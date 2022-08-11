@@ -1,0 +1,2 @@
+struct snd_device | dummy int 
+function f_midi_snd_free int | device struct snd_device *

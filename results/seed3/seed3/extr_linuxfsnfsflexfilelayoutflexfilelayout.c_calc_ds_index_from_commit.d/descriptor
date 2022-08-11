@@ -1,0 +1,2 @@
+struct pnfs_layout_segment | dummy int 
+function calc_ds_index_from_commit int | lseg struct pnfs_layout_segment * | i int

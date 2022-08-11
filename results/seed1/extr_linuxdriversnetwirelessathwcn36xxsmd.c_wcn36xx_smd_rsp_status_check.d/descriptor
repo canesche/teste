@@ -1,3 +1,0 @@
-struct wcn36xx_hal_msg_header | dummy int 
-struct wcn36xx_fw_msg_status_rsp | status long 
-function wcn36xx_smd_rsp_status_check int | buf void * | len unsigned long

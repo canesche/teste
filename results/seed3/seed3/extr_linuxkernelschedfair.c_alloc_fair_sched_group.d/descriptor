@@ -1,0 +1,2 @@
+struct task_group | dummy int 
+function alloc_fair_sched_group int | tg struct task_group * | parent struct task_group *

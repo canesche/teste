@@ -1,0 +1,1 @@
+function odbc_handle_quoter int | dbh int * | unquoted const char * | unquotedlen unsigned long | quoted char ** | quotedlen unsigned long * | param_type enum pdo_param_type

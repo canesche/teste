@@ -1,0 +1,2 @@
+struct klp_shadow | obj void * | id unsigned long 
+function klp_shadow_match int | shadow struct klp_shadow * | obj void * | id unsigned long

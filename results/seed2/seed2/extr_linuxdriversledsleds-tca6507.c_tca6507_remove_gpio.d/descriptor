@@ -1,0 +1,2 @@
+struct tca6507_chip | dummy int 
+function tca6507_remove_gpio void | tca struct tca6507_chip *

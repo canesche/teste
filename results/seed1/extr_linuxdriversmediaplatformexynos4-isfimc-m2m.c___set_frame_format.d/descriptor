@@ -1,5 +1,0 @@
-struct v4l2_pix_format_mplane | height int | width int | plane_fmt struct TYPE_2__ * 
-struct fimc_frame | fmt struct fimc_fmt * | offs_v long | offs_h long | height int | width int | o_height int | o_width int | f_height int | f_width int | payload int * | bytesperline int * 
-struct fimc_fmt | memplanes int 
-struct TYPE_2__ | sizeimage int | bytesperline int 
-function __set_frame_format void | frame struct fimc_frame * | fmt struct fimc_fmt * | pixm struct v4l2_pix_format_mplane *

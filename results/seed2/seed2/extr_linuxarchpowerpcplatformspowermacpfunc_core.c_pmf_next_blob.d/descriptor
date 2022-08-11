@@ -1,0 +1,2 @@
+struct pmf_cmd | cmdend int | cmdptr int | error int 
+function pmf_next_blob const void * | cmd struct pmf_cmd * | count int

@@ -1,5 +1,0 @@
-struct ubd | size int 
-struct hd_geometry | heads int | sectors int | cylinders int 
-struct block_device | bd_disk struct TYPE_2__ * 
-struct TYPE_2__ | private_data struct ubd * 
-function ubd_getgeo int | bdev struct block_device * | geo struct hd_geometry *

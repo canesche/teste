@@ -1,3 +1,0 @@
-struct drm_gem_object | dummy int 
-struct drm_file | dummy int 
-function qxl_gem_object_close void | obj struct drm_gem_object * | file_priv struct drm_file *

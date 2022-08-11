@@ -1,1 +1,0 @@
-function ufshcd_upiu_wlun_to_scsi_wlun int | upiu_wlun_id int

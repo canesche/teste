@@ -1,0 +1,1 @@
+value(pmu_flags) == 255, length(xen_regs) == 65025, length(regs) == 65025

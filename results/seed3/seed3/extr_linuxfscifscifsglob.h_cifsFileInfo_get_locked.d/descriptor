@@ -1,0 +1,2 @@
+struct cifsFileInfo | count int 
+function cifsFileInfo_get_locked void | cifs_file struct cifsFileInfo *

@@ -1,0 +1,2 @@
+struct mp_image | pts double 
+function video_set_pts void | data void * | pts double

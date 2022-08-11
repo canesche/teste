@@ -1,0 +1,4 @@
+struct sway_transaction_instruction | node long 
+struct sway_transaction | instructions struct TYPE_2__ * 
+struct TYPE_2__ | length long | items struct sway_transaction_instruction ** 
+function transaction_same_nodes int | a struct sway_transaction * | b struct sway_transaction *

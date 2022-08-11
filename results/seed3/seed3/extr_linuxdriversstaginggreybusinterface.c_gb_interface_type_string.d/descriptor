@@ -1,0 +1,2 @@
+struct gb_interface | type unsigned long 
+function gb_interface_type_string const char * | intf struct gb_interface *

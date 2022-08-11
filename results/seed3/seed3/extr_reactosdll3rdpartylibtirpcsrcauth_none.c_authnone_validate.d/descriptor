@@ -1,0 +1,2 @@
+struct opaque_auth | dummy int 
+function authnone_validate int | client int * | opaque struct opaque_auth * | seq int

@@ -1,0 +1,4 @@
+struct hda_fixup | dummy int 
+struct hda_codec | spec struct alc_spec * 
+struct alc_spec | no_shutup_pins int 
+function alc_fixup_no_shutup void | codec struct hda_codec * | fix const struct hda_fixup * | action int

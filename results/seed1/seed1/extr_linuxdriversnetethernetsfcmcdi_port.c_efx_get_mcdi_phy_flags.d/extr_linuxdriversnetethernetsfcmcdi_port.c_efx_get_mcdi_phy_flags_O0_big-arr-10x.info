@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 63,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 63,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetsfcmcdi_port.c_efx_get_mcdi_phy_flags.d/extr_linuxdriversnetethernetsfcmcdi_port.c_efx_get_mcdi_phy_flags_O0::efx_get_mcdi_phy_flags(73)"
+  }
+]

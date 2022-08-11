@@ -1,4 +1,0 @@
-struct agp_bridge_data | driver struct TYPE_4__ * 
-struct TYPE_4__ | masks struct TYPE_3__ * 
-struct TYPE_3__ | mask unsigned long 
-function agp_generic_mask_memory unsigned long | bridge struct agp_bridge_data * | addr unsigned long | type int

@@ -1,0 +1,3 @@
+struct ifnet_stats_per_flow | srtt int | rttupdated int | rttvar int | connreset long | sack_recovery_episodes long | dsack_recvd long | dsack_sent long | pawsdrop long | reordered_pkts long | rcvoopack long | rxmitpkts long | rxpackets long | txpackets long 
+struct if_tcp_ecn_perf_stat | rtt_avg int | rtt_var int | rst_drop int | sack_episodes int | total_reorderpkts int | total_oopkts int | total_rxmitpkts int | total_rxpkts int | total_txpkts int 
+function tcp_flow_ecn_perf_stats void | ifs struct ifnet_stats_per_flow * | stat struct if_tcp_ecn_perf_stat *

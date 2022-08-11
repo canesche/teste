@@ -1,0 +1,2 @@
+struct acpi_resource | type long 
+function acpi_check_serial_bus_slave int | ares struct acpi_resource * | data void *

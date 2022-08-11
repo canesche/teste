@@ -1,0 +1,3 @@
+struct nfc_target | dummy int 
+struct nfc_hci_dev | dummy int 
+function microread_complete_target_discovered int | hdev struct nfc_hci_dev * | gate int | target struct nfc_target *

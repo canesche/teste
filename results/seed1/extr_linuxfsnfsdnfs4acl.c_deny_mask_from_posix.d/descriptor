@@ -1,1 +1,0 @@
-function deny_mask_from_posix int | perm unsigned short | flags int

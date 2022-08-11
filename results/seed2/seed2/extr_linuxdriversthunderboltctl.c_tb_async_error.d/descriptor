@@ -1,0 +1,4 @@
+struct TYPE_2__ | eof long 
+struct ctl_pkg | frame struct TYPE_2__ 
+struct cfg_error_pkg | error int 
+function tb_async_error int | pkg const struct ctl_pkg *

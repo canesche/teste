@@ -1,2 +1,0 @@
-struct cpuidle_driver | dummy int 
-function cpuidle_coupled_state_verify int | drv struct cpuidle_driver *

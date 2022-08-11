@@ -1,0 +1,2 @@
+struct TYPE_3__ | needle_len unsigned long | address long * | positions_count long * 
+function increment_address int | w struct TYPE_3__ *

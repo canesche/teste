@@ -1,0 +1,2 @@
+struct cm_req_msg | offset50 int 
+function cm_req_get_path_mtu int | req_msg struct cm_req_msg *

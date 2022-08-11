@@ -1,0 +1,2 @@
+struct i2c_child_t | voltage_mask unsigned char 
+function envctrl_i2c_voltage_status unsigned char | pchild struct i2c_child_t * | data unsigned char | bufdata char *

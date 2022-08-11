@@ -1,0 +1,2 @@
+struct mv88e6xxx_chip | dummy int 
+function mv88e6390_g2_irl_init_all int | chip struct mv88e6xxx_chip * | port int

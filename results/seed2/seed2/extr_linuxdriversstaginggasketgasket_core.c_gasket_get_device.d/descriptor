@@ -1,0 +1,3 @@
+struct gasket_dev | dev struct device * 
+struct device | dummy int 
+function gasket_get_device struct device * | dev struct gasket_dev *

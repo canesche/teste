@@ -1,3 +1,0 @@
-struct priv | playing_final int | buffered long 
-struct ao | priv struct priv * 
-function reset void | ao struct ao *

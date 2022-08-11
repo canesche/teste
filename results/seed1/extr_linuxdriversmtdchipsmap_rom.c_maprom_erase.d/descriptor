@@ -1,3 +1,0 @@
-struct mtd_info | dummy int 
-struct erase_info | dummy int 
-function maprom_erase int | mtd struct mtd_info * | info struct erase_info *

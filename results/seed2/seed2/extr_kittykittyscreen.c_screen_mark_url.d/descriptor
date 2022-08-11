@@ -1,0 +1,3 @@
+struct TYPE_4__ | end_scrolled_by int | start_scrolled_by int | end_y void * | start_y void * | end_x void * | start_x void * 
+struct TYPE_5__ | scrolled_by int | url_range struct TYPE_4__ 
+function screen_mark_url void | self struct TYPE_5__ * | start_x void * | start_y void * | end_x void * | end_y void *

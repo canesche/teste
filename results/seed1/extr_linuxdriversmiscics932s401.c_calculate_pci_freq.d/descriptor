@@ -1,2 +1,0 @@
-struct ics932s401_data | regs int * 
-function calculate_pci_freq int | data struct ics932s401_data *

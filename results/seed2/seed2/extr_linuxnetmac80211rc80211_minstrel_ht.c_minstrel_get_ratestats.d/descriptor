@@ -1,0 +1,4 @@
+struct minstrel_rate_stats | dummy int 
+struct minstrel_ht_sta | groups struct TYPE_2__ * 
+struct TYPE_2__ | rates struct minstrel_rate_stats * 
+function minstrel_get_ratestats struct minstrel_rate_stats * | mi struct minstrel_ht_sta * | index int

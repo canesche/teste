@@ -1,0 +1,2 @@
+struct mei_device | pg_event long 
+function mei_me_pg_in_transition int | dev struct mei_device *

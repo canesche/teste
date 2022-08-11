@@ -1,0 +1,2 @@
+struct rtsx_chip | card_ready int | lun2card int * 
+function get_lun_card int | chip struct rtsx_chip * | lun unsigned int

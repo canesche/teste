@@ -1,0 +1,3 @@
+struct skb_seq_state | lower_offset unsigned int | upper_offset unsigned int | frag_data int * | stepped_offset long | frag_idx long | cur_skb struct sk_buff * | root_skb struct sk_buff * 
+struct sk_buff | dummy int 
+function skb_prepare_seq_read void | skb struct sk_buff * | from unsigned int | to unsigned int | st struct skb_seq_state *

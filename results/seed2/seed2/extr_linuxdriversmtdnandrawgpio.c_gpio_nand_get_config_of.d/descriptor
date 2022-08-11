@@ -1,0 +1,3 @@
+struct gpio_nand_platdata | dummy int 
+struct device | dummy int 
+function gpio_nand_get_config_of int | dev const struct device * | plat struct gpio_nand_platdata *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | cputype long | is_final_image long 
+function target_supports_protected_segments int | object const struct TYPE_3__ *

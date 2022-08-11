@@ -1,0 +1,2 @@
+struct twl6030_ideal_code | channel int 
+function twl6030_gpadc_lookup int | ideal const struct twl6030_ideal_code * | channel int | size int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxarchmipslantiqirq.c_ltq_eiu_get_irq.d/extr_linuxarchmipslantiqirq.c_ltq_eiu_get_irq_O0::ltq_eiu_get_irq(62)"
+  }
+]

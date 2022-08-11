@@ -1,0 +1,3 @@
+struct maven_data | primary_head long 
+struct TYPE_2__ | control int 
+function get_ctrl_ptr int * | md struct maven_data * | idx int

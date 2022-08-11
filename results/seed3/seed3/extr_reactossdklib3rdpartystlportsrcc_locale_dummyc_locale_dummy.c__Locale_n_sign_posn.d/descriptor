@@ -1,0 +1,2 @@
+struct _Locale_monetary | dummy int 
+function _Locale_n_sign_posn int | lmon struct _Locale_monetary *

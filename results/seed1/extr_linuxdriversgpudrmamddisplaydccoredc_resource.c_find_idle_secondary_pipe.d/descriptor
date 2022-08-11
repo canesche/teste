@@ -1,4 +1,0 @@
-struct resource_pool | pipe_count int 
-struct resource_context | pipe_ctx struct pipe_ctx * 
-struct pipe_ctx | pipe_idx int | stream int * 
-function find_idle_secondary_pipe struct pipe_ctx * | res_ctx struct resource_context * | pool const struct resource_pool *

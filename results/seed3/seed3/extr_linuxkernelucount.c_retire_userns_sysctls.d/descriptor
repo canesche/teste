@@ -1,0 +1,2 @@
+struct user_namespace | dummy int 
+function retire_userns_sysctls void | ns struct user_namespace *

@@ -1,0 +1,4 @@
+struct TYPE_2__ | comptag int 
+struct rio_pw_msg | em struct TYPE_2__ 
+struct rio_pw_filter | mask int | low int | high int 
+function rio_mport_match_pw int | msg union rio_pw_msg * | filter struct rio_pw_filter *

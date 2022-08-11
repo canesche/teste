@@ -1,2 +1,0 @@
-struct _Locale_monetary | dummy int 
-function _WLocale_mon_decimal_point int | lmon struct _Locale_monetary *

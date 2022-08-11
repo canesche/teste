@@ -1,0 +1,3 @@
+struct pata_macio_timing | mode int 
+struct pata_macio_priv | timings const struct pata_macio_timing * 
+function pata_macio_find_timing const struct pata_macio_timing * | priv struct pata_macio_priv * | mode int

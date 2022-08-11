@@ -1,0 +1,3 @@
+struct uid_gid_extent | lower_first long | first long | count long 
+struct idmap_key | id long | count long | map_up long 
+function cmp_map_id int | k const void * | e const void *

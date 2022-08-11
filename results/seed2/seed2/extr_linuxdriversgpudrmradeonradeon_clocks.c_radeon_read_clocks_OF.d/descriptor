@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function radeon_read_clocks_OF int | dev struct drm_device *

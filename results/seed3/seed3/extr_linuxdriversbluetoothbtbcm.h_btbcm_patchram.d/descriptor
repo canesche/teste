@@ -1,0 +1,3 @@
+struct hci_dev | dummy int 
+struct firmware | dummy int 
+function btbcm_patchram int | hdev struct hci_dev * | fw const struct firmware *

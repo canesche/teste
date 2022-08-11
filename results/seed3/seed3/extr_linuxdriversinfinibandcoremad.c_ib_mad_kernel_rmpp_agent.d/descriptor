@@ -1,0 +1,2 @@
+struct ib_mad_agent | flags int | rmpp_version long 
+function ib_mad_kernel_rmpp_agent int | agent const struct ib_mad_agent *

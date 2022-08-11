@@ -1,0 +1,2 @@
+struct tcp_sock | snd_una long | snd_up long 
+function tcp_urg_mode int | tp const struct tcp_sock *

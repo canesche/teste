@@ -1,2 +1,0 @@
-struct omap_hsmmc_host | dummy int 
-function omap_hsmmc_dbg_report_irq void | host struct omap_hsmmc_host * | status int

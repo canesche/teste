@@ -1,0 +1,2 @@
+struct cyclecounter | mult int | shift int 
+function cc_cyc2ns_backwards int | cc const struct cyclecounter * | cycles int | mask int | frac int

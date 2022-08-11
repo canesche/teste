@@ -1,2 +1,0 @@
-struct TYPE_3__ | num_read int 
-function BIO_number_read int | bio struct TYPE_3__ *

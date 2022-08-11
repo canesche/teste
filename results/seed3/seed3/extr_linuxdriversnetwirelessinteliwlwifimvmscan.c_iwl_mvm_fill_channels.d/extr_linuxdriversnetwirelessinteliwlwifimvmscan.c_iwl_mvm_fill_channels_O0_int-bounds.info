@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetwirelessinteliwlwifimvmscan.c_iwl_mvm_fill_channels.d/extr_linuxdriversnetwirelessinteliwlwifimvmscan.c_iwl_mvm_fill_channels_O0::iwl_mvm_fill_channels(69)"
+  }
+]

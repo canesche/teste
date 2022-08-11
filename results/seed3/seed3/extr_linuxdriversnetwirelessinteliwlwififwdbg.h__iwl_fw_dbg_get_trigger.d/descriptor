@@ -1,0 +1,3 @@
+struct iwl_fw_dbg_trigger_tlv | dummy int 
+struct iwl_fw | dbg_trigger_tlv struct iwl_fw_dbg_trigger_tlv ** 
+function _iwl_fw_dbg_get_trigger struct iwl_fw_dbg_trigger_tlv * | fw const struct iwl_fw * | id enum iwl_fw_dbg_trigger

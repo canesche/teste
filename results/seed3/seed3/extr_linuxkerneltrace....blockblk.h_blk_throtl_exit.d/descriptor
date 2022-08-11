@@ -1,0 +1,2 @@
+struct request_queue | dummy int 
+function blk_throtl_exit void | q struct request_queue *

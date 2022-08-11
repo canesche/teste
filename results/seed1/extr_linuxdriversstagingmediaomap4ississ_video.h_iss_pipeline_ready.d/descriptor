@@ -1,2 +1,0 @@
-struct iss_pipeline | state int 
-function iss_pipeline_ready int | pipe struct iss_pipeline *

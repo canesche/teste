@@ -1,3 +1,0 @@
-struct snd_card | dummy int 
-struct snd_ac97_template | dummy int 
-function olpc_prequirks void | card struct snd_card * | ac97 struct snd_ac97_template *

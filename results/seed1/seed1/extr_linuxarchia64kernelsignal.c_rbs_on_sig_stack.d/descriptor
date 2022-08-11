@@ -1,0 +1,2 @@
+struct TYPE_2__ | sas_ss_sp unsigned long | sas_ss_size unsigned long 
+function rbs_on_sig_stack int | bsp unsigned long

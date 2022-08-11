@@ -1,0 +1,4 @@
+struct TYPE_8__ | priv_data struct TYPE_7__ * 
+struct TYPE_7__ | timestamp long 
+struct TYPE_6__ | last_timestamp long | pts int 
+function get_pts int | s struct TYPE_8__ * | st struct TYPE_6__ *

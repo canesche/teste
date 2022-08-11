@@ -1,1 +1,0 @@
-function jpg_unescape void | src const int * | src_size int | dst int * | dst_size int *

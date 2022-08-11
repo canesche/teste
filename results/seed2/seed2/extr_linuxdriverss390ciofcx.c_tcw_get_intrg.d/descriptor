@@ -1,0 +1,2 @@
+struct tcw | intrg long 
+function tcw_get_intrg struct tcw * | tcw struct tcw *

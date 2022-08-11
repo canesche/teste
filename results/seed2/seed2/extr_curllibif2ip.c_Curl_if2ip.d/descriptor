@@ -1,0 +1,1 @@
+function Curl_if2ip int | af int | remote_scope unsigned int | local_scope_id unsigned int | interf const char * | buf char * | buf_size int

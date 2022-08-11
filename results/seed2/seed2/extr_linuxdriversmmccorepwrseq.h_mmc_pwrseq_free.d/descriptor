@@ -1,0 +1,2 @@
+struct mmc_host | dummy int 
+function mmc_pwrseq_free void | host struct mmc_host *

@@ -1,0 +1,3 @@
+struct mcp4725_platform_data | dummy int 
+struct device | dummy int 
+function mcp4725_probe_dt int | dev struct device * | platform_data struct mcp4725_platform_data *

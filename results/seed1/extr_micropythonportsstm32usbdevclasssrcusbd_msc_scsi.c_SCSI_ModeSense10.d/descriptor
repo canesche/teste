@@ -1,4 +1,0 @@
-struct TYPE_6__ | bot_data_length int | bot_data int * 
-struct TYPE_5__ | MSC_BOT_ClassData struct TYPE_6__ 
-struct TYPE_7__ | pClassData long 
-function SCSI_ModeSense10 int | pdev struct TYPE_7__ * | lun int | params int *

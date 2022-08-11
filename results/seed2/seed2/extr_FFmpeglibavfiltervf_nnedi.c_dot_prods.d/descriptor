@@ -1,0 +1,1 @@
+function dot_prods void | s int * | dataf const float * | weightsf const float * | vals float * | n const int | len const int | scale const float *

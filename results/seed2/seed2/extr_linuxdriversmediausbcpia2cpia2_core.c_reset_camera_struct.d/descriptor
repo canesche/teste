@@ -1,0 +1,10 @@
+struct TYPE_15__ | height int | width int 
+struct TYPE_14__ | sensor_flags long 
+struct TYPE_13__ | frame_rate void * | gpio_data long | gpio_direction long | lowlight_boost long 
+struct TYPE_12__ | device_type long 
+struct TYPE_11__ | quality int 
+struct TYPE_10__ | creep_period int | user_squeeze int | inhibit_htables int | jpeg_options int 
+struct TYPE_9__ | flicker_mode_req int 
+struct TYPE_16__ | roi struct TYPE_15__ | version struct TYPE_14__ | vp_params struct TYPE_13__ | pnp_id struct TYPE_12__ | vc_params struct TYPE_11__ | compression struct TYPE_10__ | flicker_control struct TYPE_9__ 
+struct camera_data | params struct TYPE_16__ | height int | width int | video_size int | sensor_type int 
+function reset_camera_struct void | cam struct camera_data *

@@ -1,0 +1,5 @@
+struct usb_card_rec | port struct TYPE_4__ * 
+struct mwifiex_private | usb_port long | adapter struct TYPE_3__ * 
+struct TYPE_4__ | tx_data_ep long | block_status int 
+struct TYPE_3__ | card struct usb_card_rec * 
+function mwifiex_usb_is_port_ready int | priv struct mwifiex_private *

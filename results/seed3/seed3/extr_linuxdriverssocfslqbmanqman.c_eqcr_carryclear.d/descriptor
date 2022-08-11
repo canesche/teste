@@ -1,0 +1,2 @@
+struct qm_eqcr_entry | dummy int 
+function eqcr_carryclear struct qm_eqcr_entry * | p struct qm_eqcr_entry *

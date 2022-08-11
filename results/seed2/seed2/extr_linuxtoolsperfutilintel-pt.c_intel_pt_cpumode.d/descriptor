@@ -1,0 +1,2 @@
+struct intel_pt | kernel_start long 
+function intel_pt_cpumode int | pt struct intel_pt * | ip long

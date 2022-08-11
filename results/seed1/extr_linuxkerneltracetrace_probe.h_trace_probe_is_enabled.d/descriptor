@@ -1,2 +1,0 @@
-struct trace_probe | flags int 
-function trace_probe_is_enabled int | tp struct trace_probe *

@@ -1,2 +1,0 @@
-struct TYPE_3__ | max_len unsigned long | len unsigned long 
-function rand_pool_bytes_remaining unsigned long | pool struct TYPE_3__ *

@@ -1,3 +1,0 @@
-struct fd_vn_data | fv_buf long | fv_bufdone long | fv_bufsiz long 
-struct direntry | d_reclen long 
-function direntry_done void | fvd struct fd_vn_data *

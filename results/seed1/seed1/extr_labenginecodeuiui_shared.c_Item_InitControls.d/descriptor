@@ -1,0 +1,3 @@
+struct TYPE_4__ | cursorPos long | endPos long | startPos long 
+struct TYPE_5__ | type long | cursorPos long | typeData long 
+function Item_InitControls void | item struct TYPE_5__ *

@@ -1,2 +1,0 @@
-struct sha256_state | count long | state int * 
-function sha256_init int | sctx struct sha256_state *

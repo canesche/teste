@@ -1,0 +1,3 @@
+struct pn533_poll_modulations | dummy int 
+struct pn533 | poll_mod_count unsigned long | poll_mod_active struct pn533_poll_modulations ** 
+function pn533_poll_add_mod void | dev struct pn533 * | mod_index unsigned long

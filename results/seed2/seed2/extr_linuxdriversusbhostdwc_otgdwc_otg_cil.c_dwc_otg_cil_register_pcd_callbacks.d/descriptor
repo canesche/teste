@@ -1,0 +1,3 @@
+struct TYPE_5__ | pcd_cb struct TYPE_6__ * 
+struct TYPE_6__ | p void * 
+function dwc_otg_cil_register_pcd_callbacks void | core_if struct TYPE_5__ * | cb struct TYPE_6__ * | p void *

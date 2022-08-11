@@ -1,3 +1,0 @@
-struct net_device | dummy int 
-struct ixgbe_hw | dummy int 
-function ixgbevf_hv_update_mc_addr_list_vf int | hw struct ixgbe_hw * | netdev struct net_device *

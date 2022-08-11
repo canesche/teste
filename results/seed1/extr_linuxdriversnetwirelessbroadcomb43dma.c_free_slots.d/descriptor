@@ -1,2 +1,0 @@
-struct b43_dmaring | nr_slots int | used_slots int 
-function free_slots int | ring struct b43_dmaring *

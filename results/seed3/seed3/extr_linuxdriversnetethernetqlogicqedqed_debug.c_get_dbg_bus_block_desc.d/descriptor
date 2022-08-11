@@ -1,0 +1,4 @@
+struct dbg_tools_data | chip_id int 
+struct qed_hwfn | dbg_info struct dbg_tools_data 
+struct dbg_bus_block | dummy int 
+function get_dbg_bus_block_desc struct dbg_bus_block * | p_hwfn struct qed_hwfn * | block_id enum block_id

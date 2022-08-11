@@ -1,0 +1,3 @@
+struct vmw_master | dummy int 
+struct drm_master | driver_priv long 
+function vmw_master struct vmw_master * | master struct drm_master *

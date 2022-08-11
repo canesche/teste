@@ -1,0 +1,3 @@
+struct gb_power_supply_prop | prop int 
+struct gb_power_supply | properties_count int | props struct gb_power_supply_prop * 
+function get_psy_prop struct gb_power_supply_prop * | gbpsy struct gb_power_supply * | psp enum power_supply_property

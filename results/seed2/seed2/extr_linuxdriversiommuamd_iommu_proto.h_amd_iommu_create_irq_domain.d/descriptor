@@ -1,0 +1,2 @@
+struct amd_iommu | dummy int 
+function amd_iommu_create_irq_domain int | iommu struct amd_iommu *

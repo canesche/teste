@@ -1,0 +1,3 @@
+struct TYPE_5__ | port_array struct TYPE_4__ ** | statctrl_base long 
+struct TYPE_4__ | ctrlreg_value unsigned char 
+function write_control_reg void | info struct TYPE_5__ *

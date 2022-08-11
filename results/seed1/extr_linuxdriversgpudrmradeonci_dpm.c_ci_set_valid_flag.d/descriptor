@@ -1,3 +1,0 @@
-struct ci_mc_reg_table | last int | num_entries int | valid_flag int | mc_reg_table_entry struct TYPE_2__ * 
-struct TYPE_2__ | mc_data long * 
-function ci_set_valid_flag void | table struct ci_mc_reg_table *

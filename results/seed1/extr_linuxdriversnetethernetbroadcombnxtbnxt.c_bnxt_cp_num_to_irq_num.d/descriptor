@@ -1,5 +1,0 @@
-struct TYPE_2__ | map_idx int 
-struct bnxt_cp_ring_info | cp_ring_struct struct TYPE_2__ 
-struct bnxt_napi | cp_ring struct bnxt_cp_ring_info 
-struct bnxt | bnapi struct bnxt_napi ** 
-function bnxt_cp_num_to_irq_num int | bp struct bnxt * | n int

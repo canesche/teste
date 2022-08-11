@@ -1,0 +1,2 @@
+struct mp_cancel | dummy int 
+function mp_subprocess int | args char ** | cancel struct mp_cancel * | ctx void * | on_stdout int | on_stderr int | error char **

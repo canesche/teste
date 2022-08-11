@@ -1,0 +1,3 @@
+struct TYPE_4__ | fp_regs long * 
+struct TYPE_3__ | uc_mcontext struct TYPE_4__ 
+function signal_fpu_sig void | sig int | info int * | context void *

@@ -1,0 +1,4 @@
+struct TYPE_7__ | n int | fields struct TYPE_6__ * 
+struct TYPE_8__ | type int | types int * 
+struct TYPE_6__ | value int | type int 
+function set_e_fields void | v struct TYPE_7__ * | p const struct TYPE_8__ * | data int

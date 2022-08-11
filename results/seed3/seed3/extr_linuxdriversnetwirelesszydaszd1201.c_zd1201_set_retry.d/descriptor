@@ -1,0 +1,4 @@
+struct net_device | dummy int 
+struct iw_request_info | dummy int 
+struct iw_param | dummy int 
+function zd1201_set_retry int | dev struct net_device * | info struct iw_request_info * | rrq struct iw_param * | extra char *

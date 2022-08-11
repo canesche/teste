@@ -1,0 +1,2 @@
+struct pp_hwmgr | pp_table_version long | pptable_func int * | hwmgr_func int * 
+function smu7_init_function_pointers int | hwmgr struct pp_hwmgr *

@@ -1,0 +1,1 @@
+function cxgb4_best_aligned_mtu unsigned int | mtus const unsigned short * | header_size unsigned short | data_size_max unsigned short | data_size_align unsigned short | mtu_idxp unsigned int *

@@ -1,0 +1,1 @@
+function pkcs_1_v1_5_decode_emsa const char * | msg const unsigned char * | msglen unsigned long | modulus_bitlen unsigned long | outlen unsigned long *

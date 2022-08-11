@@ -1,2 +1,0 @@
-struct ifnet | if_baudrate int 
-function ifnet_baudrate int | ifp struct ifnet *

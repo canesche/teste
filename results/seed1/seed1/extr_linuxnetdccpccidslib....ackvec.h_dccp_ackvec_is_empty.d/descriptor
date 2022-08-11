@@ -1,0 +1,2 @@
+struct dccp_ackvec | av_overflow long | av_buf_head long | av_buf_tail long 
+function dccp_ackvec_is_empty int | av const struct dccp_ackvec *

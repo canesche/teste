@@ -1,3 +1,0 @@
-struct dvb_frontend | demodulator_priv struct dib8000_state * 
-struct dib8000_state | status int 
-function dib8000_get_status int | fe struct dvb_frontend *

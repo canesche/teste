@@ -1,0 +1,1 @@
+function p970_disable_pmc void | pmc unsigned int | mmcr unsigned long []

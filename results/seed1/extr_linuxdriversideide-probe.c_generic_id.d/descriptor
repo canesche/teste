@@ -1,2 +1,0 @@
-struct TYPE_3__ | sect int | head int | cyl int | id int * 
-function generic_id void | drive struct TYPE_3__ *

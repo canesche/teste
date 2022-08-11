@@ -1,0 +1,2 @@
+struct TYPE_3__ | statctrl_base long 
+function read_status_reg unsigned char | info struct TYPE_3__ *

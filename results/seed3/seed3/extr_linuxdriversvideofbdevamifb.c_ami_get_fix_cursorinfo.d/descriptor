@@ -1,0 +1,4 @@
+struct fb_fix_cursorinfo | crsr_color1 int | crsr_color2 int | crsr_ysize int | crsr_height int | crsr_xsize int | crsr_width int 
+struct TYPE_2__ | height int | width int 
+struct amifb_par | crsr struct TYPE_2__ 
+function ami_get_fix_cursorinfo int | fix struct fb_fix_cursorinfo * | par const struct amifb_par *

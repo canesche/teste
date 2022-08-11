@@ -1,0 +1,2 @@
+struct seq_oss_timer | realtime int 
+function snd_seq_oss_timer_is_realtime int | timer struct seq_oss_timer *

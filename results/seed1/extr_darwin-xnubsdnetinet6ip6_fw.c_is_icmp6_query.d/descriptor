@@ -1,3 +1,0 @@
-struct ip6_hdr | dummy int 
-struct icmp6_hdr | icmp6_type int 
-function is_icmp6_query int | ip6 struct ip6_hdr * | off int

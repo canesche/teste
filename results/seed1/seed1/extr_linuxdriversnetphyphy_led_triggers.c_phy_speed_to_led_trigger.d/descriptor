@@ -1,0 +1,3 @@
+struct phy_led_trigger | speed unsigned int 
+struct phy_device | phy_num_led_triggers unsigned int | phy_led_triggers struct phy_led_trigger * 
+function phy_speed_to_led_trigger struct phy_led_trigger * | phy struct phy_device * | speed unsigned int

@@ -1,4 +1,0 @@
-struct pci_dev | devfn int | sriov struct TYPE_4__ * | bus struct TYPE_3__ * | is_physfn int 
-struct TYPE_4__ | offset int | stride int 
-struct TYPE_3__ | number int 
-function pci_iov_virtfn_bus int | dev struct pci_dev * | vf_id int

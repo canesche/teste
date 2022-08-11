@@ -1,0 +1,3 @@
+struct rc_scancode_filter | data int | mask int 
+struct img_ir_filter | data int | mask int 
+function img_ir_sanyo_filter int | in const struct rc_scancode_filter * | out struct img_ir_filter * | protocols int

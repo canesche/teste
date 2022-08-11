@@ -1,0 +1,4 @@
+struct snd_pcm_substream | dummy int 
+struct TYPE_2__ | cs8403_bits int | cs8403_stream_bits int 
+struct snd_ice1712 | spdif struct TYPE_2__ 
+function ews88_open_spdif void | ice struct snd_ice1712 * | substream struct snd_pcm_substream *

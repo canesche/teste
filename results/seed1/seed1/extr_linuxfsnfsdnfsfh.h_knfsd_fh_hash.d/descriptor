@@ -1,0 +1,2 @@
+struct knfsd_fh | dummy int 
+function knfsd_fh_hash int | fh struct knfsd_fh *

@@ -1,0 +1,2 @@
+struct pcap_chip | irq_base int 
+function irq_to_pcap int | pcap struct pcap_chip * | irq int

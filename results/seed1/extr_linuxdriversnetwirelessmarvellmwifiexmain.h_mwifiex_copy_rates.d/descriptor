@@ -1,1 +1,0 @@
-function mwifiex_copy_rates unsigned long | dest long * | pos unsigned long | src long * | len int

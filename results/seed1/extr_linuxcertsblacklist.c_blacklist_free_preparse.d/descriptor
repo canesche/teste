@@ -1,2 +1,0 @@
-struct key_preparsed_payload | dummy int 
-function blacklist_free_preparse void | prep struct key_preparsed_payload *

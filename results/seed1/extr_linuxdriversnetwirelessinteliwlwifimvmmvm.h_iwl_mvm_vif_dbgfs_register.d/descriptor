@@ -1,3 +1,0 @@
-struct iwl_mvm | dummy int 
-struct ieee80211_vif | dummy int 
-function iwl_mvm_vif_dbgfs_register void | mvm struct iwl_mvm * | vif struct ieee80211_vif *

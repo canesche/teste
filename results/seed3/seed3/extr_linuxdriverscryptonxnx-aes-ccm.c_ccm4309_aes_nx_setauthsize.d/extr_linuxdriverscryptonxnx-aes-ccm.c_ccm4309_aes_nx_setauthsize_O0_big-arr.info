@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriverscryptonxnx-aes-ccm.c_ccm4309_aes_nx_setauthsize.d/extr_linuxdriverscryptonxnx-aes-ccm.c_ccm4309_aes_nx_setauthsize_O0::ccm4309_aes_nx_setauthsize(63)"
+  }
+]

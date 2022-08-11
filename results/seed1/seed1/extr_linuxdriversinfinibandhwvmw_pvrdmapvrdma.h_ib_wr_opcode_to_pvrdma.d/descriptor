@@ -1,0 +1,1 @@
+function ib_wr_opcode_to_pvrdma enum pvrdma_wr_opcode | op enum ib_wr_opcode

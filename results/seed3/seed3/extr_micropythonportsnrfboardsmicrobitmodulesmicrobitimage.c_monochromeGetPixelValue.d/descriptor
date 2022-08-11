@@ -1,0 +1,2 @@
+struct TYPE_3__ | pixel44 unsigned int | bits24 unsigned int * 
+function monochromeGetPixelValue unsigned int | p_mono struct TYPE_3__ * | x int | y int

@@ -1,0 +1,2 @@
+struct TYPE_2__ | choice unsigned long * | config unsigned long | size int 
+function nmk_dt_pin_config int | index int | val int | config unsigned long *

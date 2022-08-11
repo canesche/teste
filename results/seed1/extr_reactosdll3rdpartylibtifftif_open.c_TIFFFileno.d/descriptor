@@ -1,2 +1,0 @@
-struct TYPE_3__ | tif_fd int 
-function TIFFFileno int | tif struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct key | dummy int 
+function asymmetric_verify int | keyring struct key * | sig const char * | siglen int | data const char * | datalen int

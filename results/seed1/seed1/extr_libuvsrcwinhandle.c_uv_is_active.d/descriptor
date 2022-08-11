@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int 
+function uv_is_active int | handle const struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct kmem_cache | dummy int 
+function quarantine_remove_cache void | cache struct kmem_cache *

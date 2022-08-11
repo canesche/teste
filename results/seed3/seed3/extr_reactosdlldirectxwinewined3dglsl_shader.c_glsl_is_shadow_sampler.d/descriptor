@@ -1,0 +1,5 @@
+struct wined3d_shader_version | major int | type long 
+struct TYPE_2__ | sampler_comparison_mode unsigned int | shader_version struct wined3d_shader_version 
+struct wined3d_shader | reg_maps struct TYPE_2__ 
+struct ps_compile_args | shadow unsigned int 
+function glsl_is_shadow_sampler unsigned int | shader const struct wined3d_shader * | ps_args const struct ps_compile_args * | resource_idx unsigned int | sampler_idx unsigned int

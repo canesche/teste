@@ -1,0 +1,2 @@
+struct jit_ctx | offsets int * | idx int | prologue_bytes int | target int * 
+function b_imm int | tgt unsigned int | ctx struct jit_ctx *

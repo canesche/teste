@@ -1,2 +1,0 @@
-struct fw_hdr | chip long | fw_ver long | intfver_nic long | intfver_vnic long | intfver_ri long | intfver_iscsi long | intfver_fcoe long 
-function fw_compatible int | hdr1 const struct fw_hdr * | hdr2 const struct fw_hdr *

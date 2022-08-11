@@ -1,0 +1,2 @@
+struct amdgpu_firmware_info | ucode_id int 
+function psp_v10_0_get_fw_type int | ucode struct amdgpu_firmware_info * | type enum psp_gfx_fw_type *

@@ -1,3 +1,0 @@
-struct cifs_sb_info | mnt_dir_mode int | mnt_file_mode int | mnt_cifs_flags int | mnt_gid int | mnt_uid int 
-struct cifs_fattr | cf_cifsattrs int | cf_mode int | cf_eof long | cf_flags int | cf_dtype int | cf_gid int | cf_uid int 
-function cifs_fill_common_info void | fattr struct cifs_fattr * | cifs_sb struct cifs_sb_info *

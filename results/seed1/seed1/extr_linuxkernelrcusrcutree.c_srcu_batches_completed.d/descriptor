@@ -1,0 +1,2 @@
+struct srcu_struct | srcu_idx unsigned long 
+function srcu_batches_completed unsigned long | sp struct srcu_struct *

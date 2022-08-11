@@ -1,0 +1,2 @@
+struct rtllib_device | mode int | rate int | HTCurrentOperaRate int 
+function rtllib_current_rate int | ieee struct rtllib_device *

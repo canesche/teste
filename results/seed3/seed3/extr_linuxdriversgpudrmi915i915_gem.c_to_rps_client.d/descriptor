@@ -1,0 +1,4 @@
+struct intel_rps_client | dummy int 
+struct drm_i915_file_private | rps_client struct intel_rps_client 
+struct drm_file | driver_priv struct drm_i915_file_private * 
+function to_rps_client struct intel_rps_client * | file struct drm_file *

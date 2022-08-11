@@ -1,0 +1,2 @@
+struct TYPE_3__ | name const char * | value int 
+function lookup_value const char * | table const struct TYPE_3__ * | value int

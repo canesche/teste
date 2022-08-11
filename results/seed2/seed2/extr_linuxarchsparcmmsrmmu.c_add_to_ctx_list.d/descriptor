@@ -1,0 +1,2 @@
+struct ctx_list | prev struct ctx_list * | next struct ctx_list * 
+function add_to_ctx_list void | head struct ctx_list * | entry struct ctx_list *

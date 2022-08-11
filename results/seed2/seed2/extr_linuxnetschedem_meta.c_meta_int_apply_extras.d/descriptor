@@ -1,0 +1,4 @@
+struct TYPE_2__ | shift int 
+struct meta_value | val int | hdr struct TYPE_2__ 
+struct meta_obj | value int 
+function meta_int_apply_extras void | v struct meta_value * | dst struct meta_obj *

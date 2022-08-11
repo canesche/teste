@@ -1,0 +1,2 @@
+struct timeval | tv_sec double | tv_usec long 
+function timeval2double double | t struct timeval *

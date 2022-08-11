@@ -1,0 +1,2 @@
+struct log_entry | lba long | old_map long | new_map long | seq long 
+function ent_is_padding int | ent struct log_entry *

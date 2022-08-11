@@ -1,0 +1,2 @@
+struct cpumask | dummy int 
+function lapic_timer_broadcast void | mask const struct cpumask *

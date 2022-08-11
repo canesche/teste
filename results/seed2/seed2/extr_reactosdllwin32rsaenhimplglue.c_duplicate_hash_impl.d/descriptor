@@ -1,0 +1,1 @@
+function duplicate_hash_impl int | aiAlgid int | pSrcHashContext const int * | pDestHashContext int *

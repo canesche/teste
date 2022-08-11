@@ -1,2 +1,0 @@
-struct esp | rev long 
-function esp_dma_length_limit unsigned int | esp struct esp * | dma_addr unsigned int | dma_len unsigned int

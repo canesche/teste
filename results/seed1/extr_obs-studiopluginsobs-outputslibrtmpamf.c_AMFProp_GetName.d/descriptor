@@ -1,2 +1,0 @@
-struct TYPE_3__ | p_name int 
-function AMFProp_GetName void | prop struct TYPE_3__ * | name int *

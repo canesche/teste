@@ -1,0 +1,2 @@
+struct intc_handle_int | irq int 
+function intc_handle_int_cmp int | a const void * | b const void *

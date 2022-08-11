@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_obs-studiopluginsobs-filtersasync-delay-filter.c_is_timestamp_jump.d/extr_obs-studiopluginsobs-filtersasync-delay-filter.c_is_timestamp_jump_O0::is_timestamp_jump(62)"
+  }
+]

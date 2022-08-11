@@ -1,0 +1,3 @@
+struct ad5449 | chip_info struct TYPE_2__ * 
+struct TYPE_2__ | num_channels int 
+function ad5449_vref_name const char * | st struct ad5449 * | n int

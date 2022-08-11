@@ -1,0 +1,2 @@
+struct IsdnCardState | dummy int 
+function avm_pci_setup int | cs struct IsdnCardState *

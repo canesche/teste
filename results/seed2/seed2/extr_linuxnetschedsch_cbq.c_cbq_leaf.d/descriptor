@@ -1,0 +1,3 @@
+struct cbq_class | q struct Qdisc * 
+struct Qdisc | dummy int 
+function cbq_leaf struct Qdisc * | sch struct Qdisc * | arg unsigned long

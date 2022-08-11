@@ -1,0 +1,2 @@
+struct drm_vmw_stream_arg | stream_id int 
+function vmw_stream_set_arg_handle void | data void * | handle int

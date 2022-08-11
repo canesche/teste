@@ -1,0 +1,4 @@
+struct seq_file | private struct adapter * 
+struct mbox_cmd_log | size long 
+struct adapter | mbox_log struct mbox_cmd_log * 
+function mboxlog_get_idx void * | seq struct seq_file * | pos long

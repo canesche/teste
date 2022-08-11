@@ -1,0 +1,1 @@
+function __timespec64_to_jiffies unsigned long | sec unsigned long | nsec long

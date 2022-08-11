@@ -1,4 +1,0 @@
-struct smc_wr_tx_pend_priv | dummy int 
-struct smc_connection | dummy int 
-struct smc_cdc_tx_pend | conn struct smc_connection * 
-function smc_cdc_tx_filter int | tx_pend struct smc_wr_tx_pend_priv * | data unsigned long

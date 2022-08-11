@@ -1,2 +1,0 @@
-struct capi_ctr | dummy int 
-function hycapi_load_firmware int | ctrl struct capi_ctr * | data int *

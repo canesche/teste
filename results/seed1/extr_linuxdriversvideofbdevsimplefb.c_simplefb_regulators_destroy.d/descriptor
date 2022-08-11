@@ -1,2 +1,0 @@
-struct simplefb_par | dummy int 
-function simplefb_regulators_destroy void | par struct simplefb_par *

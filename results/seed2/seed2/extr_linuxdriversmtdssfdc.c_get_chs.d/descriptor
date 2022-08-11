@@ -1,0 +1,2 @@
+struct TYPE_2__ | size unsigned long | cyl unsigned short | head unsigned char | sec unsigned char 
+function get_chs int | size unsigned long | cyl unsigned short * | head unsigned char * | sec unsigned char *

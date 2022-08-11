@@ -1,0 +1,3 @@
+struct zpci_dev | dummy int 
+struct pci_bus | sysdata long 
+function get_zdev_by_bus struct zpci_dev * | bus struct pci_bus *

@@ -1,0 +1,4 @@
+struct TYPE_2__ | ent32_p int * 
+struct fat_entry | u struct TYPE_2__ | entry int | bhs struct buffer_head ** 
+struct buffer_head | b_data int | b_size int 
+function fat32_ent_next int | fatent struct fat_entry *

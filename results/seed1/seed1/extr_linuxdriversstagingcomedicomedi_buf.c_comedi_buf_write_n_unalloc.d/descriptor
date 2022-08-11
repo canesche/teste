@@ -1,0 +1,3 @@
+struct comedi_subdevice | async struct comedi_async * 
+struct comedi_async | buf_read_count unsigned int | prealloc_bufsz unsigned int | buf_write_alloc_count unsigned int 
+function comedi_buf_write_n_unalloc unsigned int | s struct comedi_subdevice *

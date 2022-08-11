@@ -1,0 +1,2 @@
+struct acpiphp_attention_info | dummy int 
+function acpiphp_unregister_attention int | info struct acpiphp_attention_info *

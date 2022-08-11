@@ -1,0 +1,3 @@
+struct ib_qp | dummy int 
+struct ib_device | dummy int 
+function ib_open_shared_qp_security int | qp struct ib_qp * | dev struct ib_device *

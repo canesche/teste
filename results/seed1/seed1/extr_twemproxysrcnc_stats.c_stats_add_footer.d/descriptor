@@ -1,0 +1,3 @@
+struct stats_buffer | len long | size long | data char * 
+struct stats | buf struct stats_buffer 
+function stats_add_footer int | st struct stats *

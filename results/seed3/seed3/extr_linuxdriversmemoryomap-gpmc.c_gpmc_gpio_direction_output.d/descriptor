@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function gpmc_gpio_direction_output int | chip struct gpio_chip * | offset unsigned int | value int

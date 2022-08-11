@@ -1,0 +1,2 @@
+struct snd_trident | ChanMap int * | ChanPCMcnt int 
+function snd_trident_free_pcm_channel void | trident struct snd_trident * | channel int

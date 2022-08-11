@@ -1,0 +1,1 @@
+function hubbub1_dcc_support_swizzle int | swizzle enum swizzle_mode_values | bytes_per_element unsigned int | segment_order_horz enum segment_order * | segment_order_vert enum segment_order *

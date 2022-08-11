@@ -1,3 +1,0 @@
-struct SiS_Private | SiS_RefIndex struct TYPE_2__ * 
-struct TYPE_2__ | Ext_InfoFlag int | Ext_CRT1CRTC_WIDE unsigned short | Ext_CRT1CRTC_NORM unsigned short | Ext_CRT1CRTC unsigned short 
-function SiS_GetRefCRT1CRTC unsigned short | SiS_Pr struct SiS_Private * | Index unsigned short | UseWide int

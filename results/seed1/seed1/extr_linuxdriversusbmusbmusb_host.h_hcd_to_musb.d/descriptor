@@ -1,0 +1,3 @@
+struct usb_hcd | dummy int 
+struct musb | dummy int 
+function hcd_to_musb struct musb * | hcd struct usb_hcd *

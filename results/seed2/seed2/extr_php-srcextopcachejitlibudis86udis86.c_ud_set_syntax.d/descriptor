@@ -1,0 +1,2 @@
+struct ud | translator void (*)(struct ud *) 
+function ud_set_syntax void | u struct ud * | t void (*)(struct ud *)

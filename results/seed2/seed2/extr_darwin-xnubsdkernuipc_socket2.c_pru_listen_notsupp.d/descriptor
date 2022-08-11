@@ -1,0 +1,3 @@
+struct socket | dummy int 
+struct proc | dummy int 
+function pru_listen_notsupp int | so struct socket * | p struct proc *

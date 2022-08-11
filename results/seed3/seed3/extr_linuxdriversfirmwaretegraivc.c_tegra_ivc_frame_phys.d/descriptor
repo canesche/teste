@@ -1,0 +1,3 @@
+struct tegra_ivc_header | dummy int 
+struct tegra_ivc | frame_size unsigned int 
+function tegra_ivc_frame_phys long | ivc struct tegra_ivc * | phys long | frame unsigned int

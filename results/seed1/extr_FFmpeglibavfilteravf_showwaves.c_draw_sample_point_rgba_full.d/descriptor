@@ -1,1 +1,0 @@
-function draw_sample_point_rgba_full void | buf int * | height int | linesize int | prev_y int * | color int const[4] | h int

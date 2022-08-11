@@ -1,2 +1,0 @@
-struct intel_pt_decoder | tx_flags long 
-function intel_pt_clear_tx_flags void | decoder struct intel_pt_decoder *

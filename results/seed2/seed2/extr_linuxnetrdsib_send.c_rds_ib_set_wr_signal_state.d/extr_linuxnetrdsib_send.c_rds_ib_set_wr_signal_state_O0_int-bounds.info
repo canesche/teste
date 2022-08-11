@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxnetrdsib_send.c_rds_ib_set_wr_signal_state.d/extr_linuxnetrdsib_send.c_rds_ib_set_wr_signal_state_O0::rds_ib_set_wr_signal_state(68)"
+  }
+]

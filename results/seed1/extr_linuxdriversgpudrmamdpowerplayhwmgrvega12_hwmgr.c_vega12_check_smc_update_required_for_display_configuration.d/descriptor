@@ -1,6 +1,0 @@
-struct TYPE_5__ | num_existing_displays long | min_clock_in_sr long 
-struct TYPE_4__ | gfx_clk_deep_sleep_support long 
-struct vega12_hwmgr | display_timing struct TYPE_5__ | registry_data struct TYPE_4__ 
-struct pp_hwmgr | display_config struct TYPE_6__ * | backend long 
-struct TYPE_6__ | num_display long | min_core_set_clock_in_sr long 
-function vega12_check_smc_update_required_for_display_configuration int | hwmgr struct pp_hwmgr *

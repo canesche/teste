@@ -1,0 +1,2 @@
+struct gfs2_rgrpd | dummy int 
+function gfs2_bitcount long | rgd struct gfs2_rgrpd * | buffer const int * | buflen unsigned int | state int

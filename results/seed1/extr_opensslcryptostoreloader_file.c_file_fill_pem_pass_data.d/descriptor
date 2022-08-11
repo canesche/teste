@@ -1,2 +1,0 @@
-struct pem_pass_data | prompt_info const char * | data void * | ui_method const int * 
-function file_fill_pem_pass_data int | pass_data struct pem_pass_data * | prompt_info const char * | ui_method const int * | ui_data void *

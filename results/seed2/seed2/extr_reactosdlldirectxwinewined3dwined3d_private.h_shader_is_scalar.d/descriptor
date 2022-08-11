@@ -1,0 +1,3 @@
+struct wined3d_shader_register | type int | immconst_type int | idx struct TYPE_2__ * 
+struct TYPE_2__ | offset int 
+function shader_is_scalar int | reg const struct wined3d_shader_register *

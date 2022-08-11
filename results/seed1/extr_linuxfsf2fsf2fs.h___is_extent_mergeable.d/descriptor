@@ -1,2 +1,0 @@
-struct extent_info | fofs long | len long | blk long 
-function __is_extent_mergeable int | back struct extent_info * | front struct extent_info *

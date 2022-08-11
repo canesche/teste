@@ -1,0 +1,3 @@
+struct TYPE_5__ | priv_data struct TYPE_4__ * 
+struct TYPE_4__ | height int | width int | current int * | processed int * 
+function postprocess_current_frame void | avctx struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct TYPE_4__ | w int | h int | data int * 
+function or_image void | src struct TYPE_4__ | dest struct TYPE_4__ | c int

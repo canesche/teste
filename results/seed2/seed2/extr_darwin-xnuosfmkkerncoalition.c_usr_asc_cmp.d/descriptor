@@ -1,0 +1,2 @@
+struct coal_sort_s | usr_order int 
+function usr_asc_cmp int | a const void * | b const void *

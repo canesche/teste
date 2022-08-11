@@ -1,2 +1,0 @@
-struct mxt_data | dummy int 
-function mxt_debug_init void | data struct mxt_data *

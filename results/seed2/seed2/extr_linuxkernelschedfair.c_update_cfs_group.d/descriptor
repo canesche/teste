@@ -1,0 +1,2 @@
+struct sched_entity | dummy int 
+function update_cfs_group void | se struct sched_entity *

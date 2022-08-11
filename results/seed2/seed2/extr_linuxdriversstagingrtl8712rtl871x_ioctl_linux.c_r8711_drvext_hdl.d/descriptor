@@ -1,0 +1,4 @@
+struct iwreq_data | dummy int 
+struct net_device | dummy int 
+struct iw_request_info | dummy int 
+function r8711_drvext_hdl int | dev struct net_device * | info struct iw_request_info * | wrqu union iwreq_data * | extra char *

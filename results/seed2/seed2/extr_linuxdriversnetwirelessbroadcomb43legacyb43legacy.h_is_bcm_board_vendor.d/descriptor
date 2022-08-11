@@ -1,0 +1,5 @@
+struct b43legacy_wldev | dev struct TYPE_6__ * 
+struct TYPE_6__ | bus struct TYPE_5__ * 
+struct TYPE_4__ | vendor long 
+struct TYPE_5__ | boardinfo struct TYPE_4__ 
+function is_bcm_board_vendor int | dev struct b43legacy_wldev *

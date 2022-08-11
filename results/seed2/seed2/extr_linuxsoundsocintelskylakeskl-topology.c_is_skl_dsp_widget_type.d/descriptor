@@ -1,0 +1,4 @@
+struct snd_soc_dapm_widget | id int | dapm struct TYPE_2__ * 
+struct device | dummy int 
+struct TYPE_2__ | dev struct device * 
+function is_skl_dsp_widget_type int | w struct snd_soc_dapm_widget * | dev struct device *

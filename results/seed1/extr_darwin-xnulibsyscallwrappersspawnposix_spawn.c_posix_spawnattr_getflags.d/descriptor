@@ -1,2 +1,0 @@
-struct TYPE_2__ | psa_flags short 
-function posix_spawnattr_getflags int | attr int *const *__restrict | flagsp short *__restrict

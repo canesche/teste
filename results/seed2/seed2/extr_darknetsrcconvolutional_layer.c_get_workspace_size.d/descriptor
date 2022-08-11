@@ -1,0 +1,2 @@
+struct TYPE_3__ | out_w unsigned long | size unsigned long | c unsigned long | groups unsigned long | out_h long 
+function get_workspace_size unsigned long | l struct TYPE_3__

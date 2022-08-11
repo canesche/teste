@@ -1,0 +1,2 @@
+struct uml_pt_regs | dummy int 
+function arch_examine_signal void | sig int | regs struct uml_pt_regs *

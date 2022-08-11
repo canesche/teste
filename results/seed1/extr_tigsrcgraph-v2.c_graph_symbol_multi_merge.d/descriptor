@@ -1,2 +1,0 @@
-struct graph_symbol | continued_right int | parent_right int | parent_down int 
-function graph_symbol_multi_merge int | symbol const struct graph_symbol *

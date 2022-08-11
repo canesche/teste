@@ -1,0 +1,2 @@
+struct stv | reg int * | ref_freq int 
+function init_state void | state struct stv *

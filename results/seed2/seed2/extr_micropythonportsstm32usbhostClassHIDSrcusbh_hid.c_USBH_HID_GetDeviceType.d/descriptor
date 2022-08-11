@@ -1,0 +1,5 @@
+struct TYPE_8__ | Itf_Desc struct TYPE_6__ * 
+struct TYPE_7__ | current_interface unsigned long | CfgDesc struct TYPE_8__ 
+struct TYPE_9__ | gState long | device struct TYPE_7__ 
+struct TYPE_6__ | bInterfaceProtocol long 
+function USBH_HID_GetDeviceType int | phost struct TYPE_9__ *

@@ -1,0 +1,2 @@
+struct pci_device_id | driver_data long 
+function card_name const char * | id const struct pci_device_id *

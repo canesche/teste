@@ -1,0 +1,1 @@
+value(dst_stride) == 10, value(src_stride) == 10, value(x) == 10, value(y) == 10, value(xoffset) == 10, value(yoffset) == 10, value(width) == 10, value(height) == 10, length(dst) == 100, length(src) == 100

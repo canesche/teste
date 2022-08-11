@@ -1,0 +1,2 @@
+struct attr | start unsigned long | end unsigned long 
+function attrHasPos int | a struct attr * | pos unsigned long

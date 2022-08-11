@@ -1,0 +1,5 @@
+struct TYPE_6__ | default_power_state_index int | power_state struct TYPE_5__ * 
+struct radeon_device | pm struct TYPE_6__ 
+struct TYPE_5__ | misc int | misc2 int | clock_info struct TYPE_4__ * | default_clock_mode struct TYPE_4__ * | type void * | flags int 
+struct TYPE_4__ | flags int 
+function radeon_atombios_parse_misc_flags_1_3 void | rdev struct radeon_device * | state_index int | misc int | misc2 int

@@ -1,0 +1,3 @@
+struct lru_cache | nr_elements unsigned int | lc_slot struct hlist_head * 
+struct hlist_head | dummy int 
+function lc_hash_slot struct hlist_head * | lc struct lru_cache * | enr unsigned int

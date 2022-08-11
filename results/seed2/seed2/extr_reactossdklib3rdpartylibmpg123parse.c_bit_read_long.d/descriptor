@@ -1,0 +1,1 @@
+function bit_read_long unsigned long | buf unsigned char * | offset int *

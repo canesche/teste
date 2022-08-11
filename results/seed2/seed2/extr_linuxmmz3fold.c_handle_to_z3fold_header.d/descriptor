@@ -1,0 +1,2 @@
+struct z3fold_header | dummy int 
+function handle_to_z3fold_header struct z3fold_header * | handle unsigned long

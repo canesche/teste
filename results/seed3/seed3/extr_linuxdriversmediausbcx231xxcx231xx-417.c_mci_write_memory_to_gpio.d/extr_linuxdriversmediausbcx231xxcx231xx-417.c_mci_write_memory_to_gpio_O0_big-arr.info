@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 196,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 253,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmediausbcx231xxcx231xx-417.c_mci_write_memory_to_gpio.d/extr_linuxdriversmediausbcx231xxcx231xx-417.c_mci_write_memory_to_gpio_O0::mci_write_memory_to_gpio(71)"
+  }
+]

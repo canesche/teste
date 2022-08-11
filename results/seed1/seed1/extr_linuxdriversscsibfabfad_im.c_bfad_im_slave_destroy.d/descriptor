@@ -1,0 +1,2 @@
+struct scsi_device | hostdata int * 
+function bfad_im_slave_destroy void | sdev struct scsi_device *

@@ -1,2 +1,0 @@
-struct pinctrl_dev | dummy int 
-function pinctrl_generic_free_groups void | pctldev struct pinctrl_dev *

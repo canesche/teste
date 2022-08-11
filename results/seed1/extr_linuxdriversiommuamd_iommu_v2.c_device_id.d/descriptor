@@ -1,3 +1,0 @@
-struct pci_dev | devfn int | bus struct TYPE_2__ * 
-struct TYPE_2__ | number int 
-function device_id int | pdev struct pci_dev *

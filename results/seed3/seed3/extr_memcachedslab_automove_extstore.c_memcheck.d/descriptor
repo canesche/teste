@@ -1,0 +1,4 @@
+struct TYPE_6__ | total_pages unsigned int | chunks_per_page unsigned int 
+struct TYPE_7__ | last_memcheck_run long | free_ratio unsigned int | free_mem unsigned int * | sam_after struct TYPE_6__ * | settings struct TYPE_5__ * | pool_filled_once long 
+struct TYPE_5__ | ext_free_memchunks unsigned int * 
+function memcheck void | a struct TYPE_7__ *

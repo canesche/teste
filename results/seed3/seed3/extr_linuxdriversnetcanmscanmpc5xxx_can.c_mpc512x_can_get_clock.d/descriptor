@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function mpc512x_can_get_clock int | ofdev struct platform_device * | clock_name const char * | mscan_clksrc int *

@@ -1,0 +1,2 @@
+struct fsi_master_acf | last_addr int 
+function check_same_address int | master struct fsi_master_acf * | id int | addr int

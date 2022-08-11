@@ -1,0 +1,2 @@
+struct kvm_book3e_206_tlb_entry | mas7_3 int 
+function get_tlb_raddr int | tlbe const struct kvm_book3e_206_tlb_entry *

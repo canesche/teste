@@ -1,2 +1,0 @@
-struct device | type int * 
-function scsi_is_target_device int | dev const struct device *

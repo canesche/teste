@@ -1,0 +1,4 @@
+struct TYPE_4__ | str const void * | u64_data int | u32_data int | u16_data int | u8_data int 
+struct TYPE_3__ | str const void * | u64_data const void * | u32_data const void * | u16_data const void * | u8_data const void * 
+struct property_entry | type int | value struct TYPE_4__ | pointer struct TYPE_3__ | is_array int 
+function property_set_pointer void | prop struct property_entry * | pointer const void *

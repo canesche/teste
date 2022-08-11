@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversvideofbdevomap2omapfbdssdisplay.c_omapdss_default_get_resolution.d/extr_linuxdriversvideofbdevomap2omapfbdssdisplay.c_omapdss_default_get_resolution_O0::omapdss_default_get_resolution(67)"
+  }
+]

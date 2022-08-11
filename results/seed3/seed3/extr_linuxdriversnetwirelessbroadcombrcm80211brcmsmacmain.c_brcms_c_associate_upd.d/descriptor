@@ -1,0 +1,3 @@
+struct brcms_c_info | pub struct TYPE_2__ * 
+struct TYPE_2__ | associated int 
+function brcms_c_associate_upd void | wlc struct brcms_c_info * | state int

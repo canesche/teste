@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetchelsiolibcxgblibcxgb_ppm.h_cxgbi_ppm_sw_tag_is_usable.d/extr_linuxdriversnetethernetchelsiolibcxgblibcxgb_ppm.h_cxgbi_ppm_sw_tag_is_usable_O0::cxgbi_ppm_sw_tag_is_usable(63)"
+  }
+]

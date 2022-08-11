@@ -1,2 +1,0 @@
-struct amdgpu_device | dummy int 
-function si_ih_prescreen_iv int | adev struct amdgpu_device *

@@ -1,0 +1,2 @@
+struct vfs_file | dummy int 
+function myfatfs_ferrno int | fd const struct vfs_file *

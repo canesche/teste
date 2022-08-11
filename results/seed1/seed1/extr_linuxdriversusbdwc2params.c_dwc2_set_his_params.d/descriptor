@@ -1,0 +1,3 @@
+struct dwc2_core_params | host_rx_fifo_size int | host_nperio_tx_fifo_size int | host_perio_tx_fifo_size int | max_transfer_size int | max_packet_count int | host_channels int | phy_utmi_width int | i2c_enable int | reload_ctl int | ahbcfg int | change_speed_quirk int | power_down int | phy_type int | speed int | otg_cap int 
+struct dwc2_hsotg | params struct dwc2_core_params 
+function dwc2_set_his_params void | hsotg struct dwc2_hsotg *

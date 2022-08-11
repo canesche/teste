@@ -1,2 +1,0 @@
-struct mg_connection | flags int 
-function is_websocket int | nc const struct mg_connection *

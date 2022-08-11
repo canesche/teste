@@ -1,0 +1,4 @@
+struct usb_interface | num_altsetting int | altsetting struct usb_host_interface * 
+struct TYPE_2__ | bAlternateSetting unsigned int 
+struct usb_host_interface | desc struct TYPE_2__ 
+function usb_altnum_to_altsetting struct usb_host_interface * | intf const struct usb_interface * | altnum unsigned int

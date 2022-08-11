@@ -1,0 +1,4 @@
+struct cpcap_adc_request | channel int | bank_index int | result long | phase_tbl struct cpcap_adc_phasing_tbl * | conv_tbl struct cpcap_adc_conversion_tbl * 
+struct cpcap_adc_phasing_tbl | multiplier long | divider long | min long | max long | offset int 
+struct cpcap_adc_conversion_tbl | align_offset int | cal_offset int 
+function cpcap_adc_phase void | req struct cpcap_adc_request *

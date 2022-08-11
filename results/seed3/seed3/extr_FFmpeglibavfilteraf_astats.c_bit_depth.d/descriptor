@@ -1,0 +1,3 @@
+struct TYPE_6__ | den unsigned int | num long 
+struct TYPE_5__ | maxbitdepth unsigned int 
+function bit_depth void | s struct TYPE_5__ * | mask int | imask int | depth struct TYPE_6__ *

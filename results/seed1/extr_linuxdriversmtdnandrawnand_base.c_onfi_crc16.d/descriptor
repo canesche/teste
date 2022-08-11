@@ -1,1 +1,0 @@
-function onfi_crc16 int | crc int | p const int * | len unsigned long

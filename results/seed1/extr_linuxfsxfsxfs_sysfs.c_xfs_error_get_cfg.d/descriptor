@@ -1,3 +1,0 @@
-struct xfs_mount | m_error_cfg struct xfs_error_cfg ** 
-struct xfs_error_cfg | dummy int 
-function xfs_error_get_cfg struct xfs_error_cfg * | mp struct xfs_mount * | error_class int | error int

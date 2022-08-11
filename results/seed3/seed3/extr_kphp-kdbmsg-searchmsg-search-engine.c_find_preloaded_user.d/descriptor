@@ -1,0 +1,2 @@
+struct TYPE_4__ | user_id int | state long | lru long 
+function find_preloaded_user struct TYPE_4__ * | user_id int

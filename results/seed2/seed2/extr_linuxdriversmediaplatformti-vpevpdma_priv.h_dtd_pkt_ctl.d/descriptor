@@ -1,0 +1,1 @@
+function dtd_pkt_ctl int | mode int | dir int | chan int | pri int | next_chan int

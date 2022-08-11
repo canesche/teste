@@ -1,0 +1,2 @@
+struct IOProcList | fourCC long | pNext struct IOProcList * 
+function MMIO_FindProcNode struct IOProcList * | fccIOProc long

@@ -1,2 +1,0 @@
-struct adv7511 | dummy int 
-function adv7533_patch_registers int | adv struct adv7511 *

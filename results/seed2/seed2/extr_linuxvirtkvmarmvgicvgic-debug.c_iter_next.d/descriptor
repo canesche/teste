@@ -1,0 +1,2 @@
+struct vgic_state_iter | dist_id long | intid long | vcpu_id long | nr_cpus long | nr_spis long | lpi_idx unsigned long | nr_lpis unsigned long | lpi_array long * 
+function iter_next void | iter struct vgic_state_iter *

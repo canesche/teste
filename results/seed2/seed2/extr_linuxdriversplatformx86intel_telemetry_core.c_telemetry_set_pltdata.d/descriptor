@@ -1,0 +1,4 @@
+struct telemetry_plt_config | dummy int 
+struct telemetry_core_ops | dummy int 
+struct TYPE_2__ | plt_config struct telemetry_plt_config * | telem_ops const struct telemetry_core_ops * 
+function telemetry_set_pltdata int | ops const struct telemetry_core_ops * | pltconfig struct telemetry_plt_config *

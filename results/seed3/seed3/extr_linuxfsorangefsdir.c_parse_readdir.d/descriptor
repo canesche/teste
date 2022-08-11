@@ -1,0 +1,6 @@
+struct orangefs_readdir_response_s | dummy int 
+struct TYPE_2__ | trailer_size long | trailer_buf long 
+struct orangefs_kernel_op_s | downcall struct TYPE_2__ 
+struct orangefs_dir_part | next struct orangefs_dir_part * | len long 
+struct orangefs_dir | end unsigned long | part struct orangefs_dir_part * 
+function parse_readdir int | od struct orangefs_dir * | op struct orangefs_kernel_op_s *

@@ -1,0 +1,2 @@
+struct chain_allocator | safe_needed int | gfp_mask int | used_space int | chain int * 
+function chain_init void | ca struct chain_allocator * | gfp_mask int | safe_needed int

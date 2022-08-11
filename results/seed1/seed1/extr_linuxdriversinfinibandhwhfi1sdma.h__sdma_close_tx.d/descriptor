@@ -1,0 +1,4 @@
+struct sdma_txreq | num_desc unsigned long | flags int | descp struct TYPE_2__ * 
+struct hfi1_devdata | default_desc1 int 
+struct TYPE_2__ | qw int * 
+function _sdma_close_tx void | dd struct hfi1_devdata * | tx struct sdma_txreq *

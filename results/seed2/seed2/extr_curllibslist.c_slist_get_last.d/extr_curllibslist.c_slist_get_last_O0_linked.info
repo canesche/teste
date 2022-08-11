@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 70008,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_curllibslist.c_slist_get_last.d/extr_curllibslist.c_slist_get_last_O0::slist_get_last(60)"
+  }
+]

@@ -1,0 +1,2 @@
+struct libipw_device | modulation int | freq_band int 
+function libipw_is_valid_mode int | ieee struct libipw_device * | mode int

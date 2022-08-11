@@ -1,0 +1,2 @@
+struct vivid_dev | output_type long * | output unsigned long 
+function vivid_is_svid_out int | dev const struct vivid_dev *

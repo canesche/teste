@@ -1,0 +1,2 @@
+struct sclp_buffer | char_sum int | current_length long | current_line int * 
+function sclp_chars_in_buffer int | buffer struct sclp_buffer *

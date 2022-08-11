@@ -1,3 +1,0 @@
-struct acpi_hest_generic_status | data_length int | raw_data_offset int | raw_data_length long 
-struct acpi_hest_generic_data | dummy int 
-function cper_estatus_check_header int | estatus const struct acpi_hest_generic_status *

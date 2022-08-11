@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_emscriptentestsfreetypesrcpfrpfrsbit.c_pfr_bitwriter_decode_rle1.d/extr_emscriptentestsfreetypesrcpfrpfrsbit.c_pfr_bitwriter_decode_rle1_O0::pfr_bitwriter_decode_rle1(69)"
+  }
+]

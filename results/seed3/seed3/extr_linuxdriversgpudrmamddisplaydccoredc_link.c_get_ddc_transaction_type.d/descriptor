@@ -1,0 +1,1 @@
+function get_ddc_transaction_type enum ddc_transaction_type | sink_signal enum signal_type

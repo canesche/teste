@@ -1,0 +1,2 @@
+struct xdp_frame | dummy int 
+function ptr_to_xdp struct xdp_frame * | ptr void *

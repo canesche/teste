@@ -1,0 +1,3 @@
+struct gameport | port_data struct a3d * 
+struct a3d | axes int * | buttons int 
+function a3d_adc_cooked_read int | gameport struct gameport * | axes int * | buttons int *

@@ -1,3 +1,0 @@
-struct rcu_head | next struct rcu_head * 
-struct rcu_cblist | head struct rcu_head * | tail struct rcu_head ** | len int 
-function rcu_cblist_dequeue struct rcu_head * | rclp struct rcu_cblist *

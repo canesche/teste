@@ -1,2 +1,0 @@
-struct TYPE_3__ | hres int 
-function set_error void | ctx struct TYPE_3__ * | error int

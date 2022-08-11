@@ -1,0 +1,3 @@
+struct sta_info | dummy int 
+struct ieee80211_key | dummy int 
+function ieee80211_debugfs_key_sta_del void | key struct ieee80211_key * | sta struct sta_info *

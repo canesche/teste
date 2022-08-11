@@ -1,0 +1,3 @@
+struct rxe_sge | length int 
+struct rxe_dma_info | cur_sge unsigned long | sge_offset int | resid int | num_sge unsigned long | sge struct rxe_sge * 
+function advance_dma_data int | dma struct rxe_dma_info * | length unsigned int

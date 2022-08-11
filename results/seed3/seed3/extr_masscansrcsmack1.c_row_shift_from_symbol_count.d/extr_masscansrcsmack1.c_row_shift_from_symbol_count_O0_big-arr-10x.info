@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_masscansrcsmack1.c_row_shift_from_symbol_count.d/extr_masscansrcsmack1.c_row_shift_from_symbol_count_O0::row_shift_from_symbol_count(61)"
+  }
+]

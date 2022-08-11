@@ -1,0 +1,3 @@
+struct magicmouse_sc | ntouches int | tracking_ids int * | touches struct TYPE_2__ * 
+struct TYPE_2__ | size int 
+function magicmouse_firm_touch int | msc struct magicmouse_sc *

@@ -1,0 +1,3 @@
+struct TYPE_6__ | asked_permission int 
+struct TYPE_5__ | c_bytes_used long | c_nextoffset long | c_nextslot long 
+function c_seg_major_compact_ok int | c_seg_dst struct TYPE_5__ * | c_seg_src struct TYPE_5__ *

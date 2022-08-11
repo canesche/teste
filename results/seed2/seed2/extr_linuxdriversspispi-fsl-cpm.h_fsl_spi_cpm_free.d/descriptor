@@ -1,0 +1,2 @@
+struct mpc8xxx_spi | dummy int 
+function fsl_spi_cpm_free void | mspi struct mpc8xxx_spi *

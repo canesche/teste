@@ -1,0 +1,2 @@
+struct inode_defrag | root long | ino long 
+function __compare_inode_defrag int | defrag1 struct inode_defrag * | defrag2 struct inode_defrag *

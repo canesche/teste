@@ -1,0 +1,3 @@
+struct pxa_camera_format_xlate | host_fmt struct TYPE_2__ * | code long 
+struct TYPE_2__ | fourcc unsigned int 
+function pxa_mbus_xlate_by_fourcc const struct pxa_camera_format_xlate * | user_formats struct pxa_camera_format_xlate * | fourcc unsigned int

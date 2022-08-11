@@ -1,2 +1,0 @@
-struct amdgpu_device | dummy int 
-function df_v3_6_init void | adev struct amdgpu_device *

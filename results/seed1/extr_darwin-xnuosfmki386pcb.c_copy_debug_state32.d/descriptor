@@ -1,2 +1,0 @@
-struct TYPE_4__ | dr7 int | dr6 int | dr3 int | dr2 int | dr1 int | dr0 int | dr5 int | dr4 int 
-function copy_debug_state32 void | src struct TYPE_4__ * | target struct TYPE_4__ * | all long

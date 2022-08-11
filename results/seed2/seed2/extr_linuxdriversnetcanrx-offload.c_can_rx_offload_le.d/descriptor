@@ -1,0 +1,2 @@
+struct can_rx_offload | inc long 
+function can_rx_offload_le int | offload struct can_rx_offload * | a unsigned int | b unsigned int

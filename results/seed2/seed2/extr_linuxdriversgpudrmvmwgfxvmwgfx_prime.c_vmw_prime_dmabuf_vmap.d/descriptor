@@ -1,0 +1,2 @@
+struct dma_buf | dummy int 
+function vmw_prime_dmabuf_vmap void * | dma_buf struct dma_buf *

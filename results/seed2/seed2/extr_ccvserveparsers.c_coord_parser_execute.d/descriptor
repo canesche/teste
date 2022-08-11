@@ -1,0 +1,2 @@
+struct TYPE_3__ | state int | x int | y int | division int 
+function coord_parser_execute void | parser struct TYPE_3__ * | buf const char * | len unsigned long

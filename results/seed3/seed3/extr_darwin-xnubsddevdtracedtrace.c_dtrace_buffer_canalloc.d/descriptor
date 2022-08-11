@@ -1,0 +1,1 @@
+function dtrace_buffer_canalloc int | size unsigned long

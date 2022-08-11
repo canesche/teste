@@ -1,0 +1,2 @@
+struct TYPE_3__ | callback int 
+function BIO_set_callback void | b struct TYPE_3__ * | cb int

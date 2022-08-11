@@ -1,0 +1,1 @@
+function left_predict void | s int * | src long * | dst long * | stride unsigned long | width int | height int

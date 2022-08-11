@@ -1,0 +1,5 @@
+struct nested_stream | last_bytes long | id struct TYPE_3__ * 
+struct demuxer | total_unbuffered_read_bytes int | priv struct TYPE_4__ * 
+struct TYPE_4__ | num_nested int | nested struct nested_stream * 
+struct TYPE_3__ | bytes_read long 
+function update_read_stats void | demuxer struct demuxer *

@@ -1,2 +1,0 @@
-struct virtnet_info | curr_queue_pairs int | xdp_queue_pairs int 
-function is_xdp_raw_buffer_queue int | vi struct virtnet_info * | q int

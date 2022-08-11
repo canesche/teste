@@ -1,2 +1,0 @@
-struct bridge_softc | dummy int 
-function bridge_ioctl_sma int | sc struct bridge_softc * | arg void *

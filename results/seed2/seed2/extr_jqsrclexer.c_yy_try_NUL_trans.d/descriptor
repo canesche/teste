@@ -1,0 +1,2 @@
+struct yyguts_t | yy_c_buf_p char * | yy_last_accepting_state unsigned long | yy_last_accepting_cpos char * 
+function yy_try_NUL_trans unsigned long | yy_current_state unsigned long | yyscanner long

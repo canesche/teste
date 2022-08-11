@@ -1,2 +1,0 @@
-struct dock_station | flags int 
-function begin_dock void | ds struct dock_station *

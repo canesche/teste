@@ -1,0 +1,2 @@
+struct ms5611_osr | rate unsigned short 
+function ms5611_find_osr const struct ms5611_osr * | rate int | osr const struct ms5611_osr * | count unsigned long

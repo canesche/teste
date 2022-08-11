@@ -1,0 +1,1 @@
+function uECC_vli_cmp_unsafe int | left const long * | right const long * | num_words unsigned long

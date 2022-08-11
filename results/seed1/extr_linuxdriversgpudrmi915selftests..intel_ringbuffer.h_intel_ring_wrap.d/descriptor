@@ -1,2 +1,0 @@
-struct intel_ring | size int 
-function intel_ring_wrap int | ring const struct intel_ring * | pos int

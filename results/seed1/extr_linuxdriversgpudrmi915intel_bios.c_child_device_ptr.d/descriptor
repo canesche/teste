@@ -1,2 +1,0 @@
-struct bdb_general_definitions | child_dev_size int | devices int * 
-function child_device_ptr const struct child_device_config * | defs const struct bdb_general_definitions * | i int

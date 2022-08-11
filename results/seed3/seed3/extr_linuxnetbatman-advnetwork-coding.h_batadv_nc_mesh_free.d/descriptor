@@ -1,0 +1,2 @@
+struct batadv_priv | dummy int 
+function batadv_nc_mesh_free void | bat_priv struct batadv_priv *

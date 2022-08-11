@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxsoundsynthemuxsoundfont.c_snd_sf_calc_parm_hold.d/extr_linuxsoundsynthemuxsoundfont.c_snd_sf_calc_parm_hold_O0::snd_sf_calc_parm_hold(61)"
+  }
+]

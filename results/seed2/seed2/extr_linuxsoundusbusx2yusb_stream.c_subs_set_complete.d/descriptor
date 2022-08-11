@@ -1,0 +1,2 @@
+struct urb | complete void (*)(struct urb *) 
+function subs_set_complete void | urbs struct urb ** | complete void (*)(struct urb *)

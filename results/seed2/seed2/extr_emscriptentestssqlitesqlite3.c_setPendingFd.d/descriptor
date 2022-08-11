@@ -1,0 +1,4 @@
+struct TYPE_5__ | pUnused struct TYPE_7__ * 
+struct TYPE_6__ | h int | pUnused struct TYPE_7__ * | pInode struct TYPE_5__ * 
+struct TYPE_7__ | pNext struct TYPE_7__ * 
+function setPendingFd void | pFile struct TYPE_6__ *

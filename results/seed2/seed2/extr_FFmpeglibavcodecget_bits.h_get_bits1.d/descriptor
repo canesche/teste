@@ -1,0 +1,2 @@
+struct TYPE_3__ | index unsigned int | buffer unsigned int * | size_in_bits_plus8 unsigned int 
+function get_bits1 unsigned int | s struct TYPE_3__ *

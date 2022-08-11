@@ -1,0 +1,2 @@
+struct mtk_vcodec_dev | dummy int 
+function mtk_vcodec_release_enc_pm void | mtkdev struct mtk_vcodec_dev *

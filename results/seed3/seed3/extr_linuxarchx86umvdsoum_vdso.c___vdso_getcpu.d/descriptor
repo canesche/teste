@@ -1,0 +1,2 @@
+struct getcpu_cache | dummy int 
+function __vdso_getcpu long | cpu unsigned int * | node unsigned int * | unused struct getcpu_cache *

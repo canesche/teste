@@ -1,2 +1,0 @@
-struct mm_struct | dummy int 
-function huge_pmd_unshare int | mm struct mm_struct * | addr unsigned long * | ptep int *

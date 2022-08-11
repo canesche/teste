@@ -1,0 +1,2 @@
+struct ipu_pre | buffer_paddr int 
+function ipu_pre_get_baddr int | pre struct ipu_pre *

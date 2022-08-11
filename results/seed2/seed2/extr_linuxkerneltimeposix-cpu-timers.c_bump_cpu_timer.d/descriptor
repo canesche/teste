@@ -1,0 +1,4 @@
+struct TYPE_3__ | incr long | expires long 
+struct TYPE_4__ | cpu struct TYPE_3__ 
+struct k_itimer | it_overrun long long | it struct TYPE_4__ 
+function bump_cpu_timer void | timer struct k_itimer * | now long

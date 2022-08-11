@@ -1,0 +1,4 @@
+struct xdr_buf | page_base unsigned int | page_len unsigned int | buflen unsigned int | pages struct page ** | tail struct kvec * | head struct kvec * 
+struct page | dummy int 
+struct kvec | iov_base char * | iov_len unsigned int 
+function xdr_inline_pages void | xdr struct xdr_buf * | offset unsigned int | pages struct page ** | base unsigned int | len unsigned int

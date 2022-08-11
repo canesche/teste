@@ -1,0 +1,1 @@
+function altera_read_packed long | buffer long * | bits long | bits_avail long * | in_index long *

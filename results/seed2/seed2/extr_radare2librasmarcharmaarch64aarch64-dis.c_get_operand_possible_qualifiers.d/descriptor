@@ -1,0 +1,1 @@
+function get_operand_possible_qualifiers void | idx int | list int *const * | qualifiers enum aarch64_opnd_qualifier *

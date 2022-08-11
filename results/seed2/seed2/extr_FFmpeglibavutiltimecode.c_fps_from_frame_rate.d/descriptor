@@ -1,0 +1,2 @@
+struct TYPE_3__ | den int | num int 
+function fps_from_frame_rate int | rate struct TYPE_3__

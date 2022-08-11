@@ -1,2 +1,0 @@
-struct gpio_keys_button | gpio unsigned int | desc void * | code long 
-function da850_evm_bb_keys_init void | gpio unsigned int

@@ -1,3 +1,0 @@
-struct TYPE_4__ | call int * 
-struct TYPE_5__ | threshold struct TYPE_4__ | dequeues int 
-function timer_longterm_dequeued_locked void | call int *

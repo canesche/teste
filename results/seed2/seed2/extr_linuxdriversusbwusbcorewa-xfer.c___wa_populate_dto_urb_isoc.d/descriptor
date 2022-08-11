@@ -1,0 +1,7 @@
+struct wa_xfer | urb struct TYPE_8__ * | wa struct TYPE_5__ * 
+struct wa_seg | dto_urb struct TYPE_6__ * | isoc_size int 
+struct TYPE_8__ | iso_frame_desc struct TYPE_7__ * | transfer_dma long 
+struct TYPE_7__ | length int | offset long 
+struct TYPE_6__ | transfer_buffer_length int | transfer_dma long | num_sgs long | sg int * | transfer_flags int 
+struct TYPE_5__ | quirks int 
+function __wa_populate_dto_urb_isoc void | xfer struct wa_xfer * | seg struct wa_seg * | curr_iso_frame int

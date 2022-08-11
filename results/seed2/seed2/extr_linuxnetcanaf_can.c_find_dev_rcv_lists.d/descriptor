@@ -1,0 +1,5 @@
+struct net_device | ml_priv long 
+struct TYPE_2__ | can_rx_alldev_list struct can_dev_rcv_lists * 
+struct net | can struct TYPE_2__ 
+struct can_dev_rcv_lists | dummy int 
+function find_dev_rcv_lists struct can_dev_rcv_lists * | net struct net * | dev struct net_device *

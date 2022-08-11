@@ -1,0 +1,2 @@
+struct TYPE_3__ | path int * | bitcount long 
+function clear_path_counter void | path_counter struct TYPE_3__ *

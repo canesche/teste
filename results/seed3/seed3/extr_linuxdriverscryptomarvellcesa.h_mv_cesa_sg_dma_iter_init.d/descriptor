@@ -1,0 +1,3 @@
+struct scatterlist | dummy int 
+struct mv_cesa_sg_dma_iter | dir int | sg struct scatterlist * | offset long | op_offset long 
+function mv_cesa_sg_dma_iter_init void | iter struct mv_cesa_sg_dma_iter * | sg struct scatterlist * | dir enum dma_data_direction

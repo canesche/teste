@@ -1,0 +1,4 @@
+struct xfs_dir2_data_hdr | dummy int 
+struct xfs_dir2_block_tail | dummy int 
+struct xfs_da_geometry | blksize int 
+function xfs_dir2_block_tail_p struct xfs_dir2_block_tail * | geo struct xfs_da_geometry * | hdr struct xfs_dir2_data_hdr *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | idct_permutation int * 
+struct TYPE_5__ | intra_matrix int * | chroma_intra_matrix int * | inter_matrix int * | chroma_inter_matrix int * | idsp struct TYPE_4__ 
+function mpeg4_load_default_matrices void | s struct TYPE_5__ *

@@ -1,5 +1,0 @@
-struct TYPE_5__ | num_types int | funcs int * 
-struct TYPE_4__ | num_types int | funcs int * 
-struct TYPE_6__ | rcv_irq struct TYPE_5__ | ack_irq struct TYPE_4__ 
-struct amdgpu_device | virt struct TYPE_6__ 
-function xgpu_vi_mailbox_set_irq_funcs void | adev struct amdgpu_device *

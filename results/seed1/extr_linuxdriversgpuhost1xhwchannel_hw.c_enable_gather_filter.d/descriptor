@@ -1,3 +1,0 @@
-struct host1x_channel | dummy int 
-struct host1x | dummy int 
-function enable_gather_filter void | host struct host1x * | ch struct host1x_channel *

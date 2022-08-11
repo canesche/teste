@@ -1,3 +1,0 @@
-struct inode | i_ctime int | i_mtime int | i_atime int | i_gid int | i_uid int | i_mode int 
-struct iattr | ia_ctime int | ia_mtime int | ia_atime int | ia_gid int | ia_uid int | ia_mode int 
-function set_inode_attr void | inode struct inode * | iattr struct iattr *

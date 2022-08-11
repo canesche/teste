@@ -1,3 +1,0 @@
-struct sh_veu_file | dummy int 
-struct sh_veu_dev | output struct sh_veu_file * | capture struct sh_veu_file * 
-function sh_veu_is_streamer int | veu struct sh_veu_dev * | veu_file struct sh_veu_file * | type enum v4l2_buf_type

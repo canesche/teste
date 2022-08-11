@@ -1,0 +1,5 @@
+struct mtk_pinctrl | devdata struct TYPE_2__ * 
+struct mtk_desc_pin | functions struct mtk_desc_function * 
+struct mtk_desc_function | muxval int | name long 
+struct TYPE_2__ | pins struct mtk_desc_pin * 
+function mtk_pctrl_find_function_by_pin const struct mtk_desc_function * | pctl struct mtk_pinctrl * | pin_num int | fnum int

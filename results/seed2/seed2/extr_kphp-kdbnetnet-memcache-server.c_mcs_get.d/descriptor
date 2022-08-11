@@ -1,0 +1,2 @@
+struct connection | dummy int 
+function mcs_get int | c struct connection * | key const char * | key_len int

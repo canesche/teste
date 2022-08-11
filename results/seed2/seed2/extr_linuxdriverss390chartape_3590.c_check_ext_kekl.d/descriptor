@@ -1,0 +1,2 @@
+struct tape390_kekl | type long | type_on_tape long 
+function check_ext_kekl int | kekl struct tape390_kekl *

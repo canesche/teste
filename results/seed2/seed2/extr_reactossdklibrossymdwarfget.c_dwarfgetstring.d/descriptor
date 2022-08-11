@@ -1,0 +1,2 @@
+struct TYPE_3__ | p char * | ep char * 
+function dwarfgetstring char * | b struct TYPE_3__ *

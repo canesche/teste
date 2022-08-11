@@ -1,2 +1,0 @@
-struct TYPE_3__ | detect_coll int 
-function SHA1DCSetUseDetectColl void | ctx struct TYPE_3__ * | detect_coll int

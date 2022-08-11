@@ -1,2 +1,0 @@
-struct se_portal_group | dummy int 
-function vhost_scsi_check_false int | se_tpg struct se_portal_group *

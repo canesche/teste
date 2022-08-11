@@ -1,0 +1,2 @@
+struct ftrace_ops | flags int | func int 
+function ftrace_ops_get_func int | ops struct ftrace_ops *

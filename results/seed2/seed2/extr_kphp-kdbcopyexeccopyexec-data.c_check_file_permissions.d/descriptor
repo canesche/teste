@@ -1,0 +1,2 @@
+struct stat | dummy int 
+function check_file_permissions int | filename char * | st struct stat * | level int

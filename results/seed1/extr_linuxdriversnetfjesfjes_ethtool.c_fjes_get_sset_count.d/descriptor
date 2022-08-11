@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function fjes_get_sset_count int | netdev struct net_device * | sset int

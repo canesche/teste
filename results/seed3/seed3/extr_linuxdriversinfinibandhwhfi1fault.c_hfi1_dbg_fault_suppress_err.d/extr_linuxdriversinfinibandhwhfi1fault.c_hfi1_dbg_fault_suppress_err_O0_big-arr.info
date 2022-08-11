@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversinfinibandhwhfi1fault.c_hfi1_dbg_fault_suppress_err.d/extr_linuxdriversinfinibandhwhfi1fault.c_hfi1_dbg_fault_suppress_err_O0::hfi1_dbg_fault_suppress_err(63)"
+  }
+]

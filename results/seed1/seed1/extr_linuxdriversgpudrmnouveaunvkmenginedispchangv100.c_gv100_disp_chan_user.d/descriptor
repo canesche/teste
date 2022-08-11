@@ -1,0 +1,3 @@
+struct TYPE_2__ | user int 
+struct nv50_disp_chan | chid struct TYPE_2__ 
+function gv100_disp_chan_user int | chan struct nv50_disp_chan * | psize int *

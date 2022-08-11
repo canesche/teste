@@ -1,0 +1,8 @@
+struct wm_adsp_compr | dsp struct TYPE_6__ * 
+struct snd_compr_stream | runtime struct TYPE_5__ * 
+struct snd_compr_caps | num_codecs int | max_fragments int | min_fragments int | max_fragment_size int | min_fragment_size int | direction int | codecs int * 
+struct TYPE_8__ | num_caps int | compr_direction int | caps struct TYPE_7__ * 
+struct TYPE_7__ | id int 
+struct TYPE_6__ | fw int 
+struct TYPE_5__ | private_data struct wm_adsp_compr * 
+function wm_adsp_compr_get_caps int | stream struct snd_compr_stream * | caps struct snd_compr_caps *

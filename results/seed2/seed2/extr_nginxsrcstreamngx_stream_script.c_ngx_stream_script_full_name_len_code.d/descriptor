@@ -1,0 +1,6 @@
+struct TYPE_9__ | conf_prefix long 
+struct TYPE_10__ | ip long 
+struct TYPE_8__ | len unsigned long 
+struct TYPE_7__ | len unsigned long 
+struct TYPE_11__ | prefix struct TYPE_8__ | conf_prefix struct TYPE_7__ 
+function ngx_stream_script_full_name_len_code unsigned long | e struct TYPE_10__ *

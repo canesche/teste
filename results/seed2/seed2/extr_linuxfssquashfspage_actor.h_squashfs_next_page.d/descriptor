@@ -1,0 +1,2 @@
+struct squashfs_page_actor | next_page long | pages long | page void ** 
+function squashfs_next_page void * | actor struct squashfs_page_actor *

@@ -1,0 +1,1 @@
+function prom_get_idprom unsigned char | idbuf char * | num_bytes int

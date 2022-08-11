@@ -1,2 +1,0 @@
-struct timespec | dummy int 
-function mtx_timedlock int | mtx int * | ts const struct timespec *

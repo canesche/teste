@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function svc_pool_stats_stop void | m struct seq_file * | p void *

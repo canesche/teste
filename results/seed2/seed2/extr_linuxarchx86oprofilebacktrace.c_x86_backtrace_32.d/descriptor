@@ -1,0 +1,2 @@
+struct pt_regs | dummy int 
+function x86_backtrace_32 int | regs struct pt_regs *const | depth unsigned int

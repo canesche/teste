@@ -1,2 +1,0 @@
-struct if_tcp_ecn_perf_stat | total_rxmitpkts int | total_txpkts int | rxmit_percent int | total_oopkts int | total_rxpkts int | oo_percent int | total_reorderpkts int | reorder_percent int 
-function nstat_ifnet_compute_percentages void | ifst struct if_tcp_ecn_perf_stat *

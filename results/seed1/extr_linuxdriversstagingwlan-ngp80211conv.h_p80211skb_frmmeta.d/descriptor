@@ -1,3 +1,0 @@
-struct sk_buff | cb long 
-struct p80211_frmmeta | magic long 
-function p80211skb_frmmeta struct p80211_frmmeta * | skb struct sk_buff *

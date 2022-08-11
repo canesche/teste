@@ -1,2 +1,0 @@
-struct kobject | dummy int 
-function sd_default_probe struct kobject * | devt int | partno int * | data void *

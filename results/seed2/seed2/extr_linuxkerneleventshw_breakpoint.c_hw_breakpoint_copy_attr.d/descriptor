@@ -1,0 +1,2 @@
+struct perf_event_attr | disabled int | bp_len int | bp_type int | bp_addr int 
+function hw_breakpoint_copy_attr void | to struct perf_event_attr * | from struct perf_event_attr *

@@ -1,3 +1,0 @@
-struct htt_rx_indication_mpdu_range | dummy int 
-struct ath10k | dummy int 
-function ath10k_sta_update_rx_tid_stats_ampdu void | ar struct ath10k * | peer_id int | tid int | ranges struct htt_rx_indication_mpdu_range * | num_ranges int

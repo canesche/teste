@@ -1,0 +1,2 @@
+struct apple_key_translation | from long 
+function apple_find_translation const struct apple_key_translation * | table const struct apple_key_translation * | from long

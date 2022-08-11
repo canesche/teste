@@ -1,0 +1,5 @@
+struct pata_acpi | mask unsigned long * 
+struct ata_device | devno unsigned long | link struct TYPE_4__ * 
+struct TYPE_4__ | ap struct TYPE_3__ * 
+struct TYPE_3__ | private_data struct pata_acpi * 
+function pacpi_mode_filter unsigned long | adev struct ata_device * | mask unsigned long

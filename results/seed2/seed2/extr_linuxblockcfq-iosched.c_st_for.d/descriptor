@@ -1,0 +1,3 @@
+struct cfq_rb_root | dummy int 
+struct cfq_group | service_trees struct cfq_rb_root ** | service_tree_idle struct cfq_rb_root 
+function st_for struct cfq_rb_root * | cfqg struct cfq_group * | class enum wl_class_t | type enum wl_type_t

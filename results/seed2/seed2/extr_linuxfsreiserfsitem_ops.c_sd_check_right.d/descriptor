@@ -1,0 +1,2 @@
+struct virtual_item | dummy int 
+function sd_check_right int | vi struct virtual_item * | free int

@@ -1,0 +1,3 @@
+struct TYPE_5__ | q_unit_cnt int | channel struct TYPE_4__ * 
+struct TYPE_4__ | coeffs float * | scalefactors int * 
+function apply_scalefactors void | s int * | b struct TYPE_5__ * | stereo const int

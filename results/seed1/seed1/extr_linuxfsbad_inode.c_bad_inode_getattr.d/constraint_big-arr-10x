@@ -1,0 +1,1 @@
+value(request_mask) == 10, value(query_flags) == 10, length(path) == 100, length(stat) == 100

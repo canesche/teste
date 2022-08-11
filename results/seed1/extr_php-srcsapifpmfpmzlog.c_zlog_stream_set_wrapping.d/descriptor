@@ -1,2 +1,0 @@
-struct zlog_stream | wrap int 
-function zlog_stream_set_wrapping void | stream struct zlog_stream * | wrap long

@@ -1,0 +1,2 @@
+struct slookup | reg_value long | value int 
+function table_lookup int | table const struct slookup * | table_size int | reg_value long

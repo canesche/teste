@@ -1,0 +1,4 @@
+struct TYPE_4__ | opcode long | func long 
+struct TYPE_3__ | opcode long 
+struct mips_instruction | r_format struct TYPE_4__ | j_format struct TYPE_3__ 
+function is_jump_ins int | ip union mips_instruction *

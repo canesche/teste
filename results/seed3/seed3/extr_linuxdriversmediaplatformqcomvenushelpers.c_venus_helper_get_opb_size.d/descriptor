@@ -1,0 +1,2 @@
+struct venus_inst | session_type long | output_buf_size unsigned int | opb_buftype long | output2_buf_size unsigned int 
+function venus_helper_get_opb_size unsigned int | inst struct venus_inst *

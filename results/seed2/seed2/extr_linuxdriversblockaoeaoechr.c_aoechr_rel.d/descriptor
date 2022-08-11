@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct file | dummy int 
+function aoechr_rel int | inode struct inode * | filp struct file *

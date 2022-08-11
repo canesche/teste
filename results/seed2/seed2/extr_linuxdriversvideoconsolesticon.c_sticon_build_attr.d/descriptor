@@ -1,0 +1,2 @@
+struct vc_data | dummy int 
+function sticon_build_attr int | conp struct vc_data * | color int | intens int | blink int | underline int | reverse int | italic int

@@ -1,2 +1,0 @@
-struct TYPE_3__ | compress_meth unsigned int 
-function SSL_SESSION_get_compress_id unsigned int | s const struct TYPE_3__ *

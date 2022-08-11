@@ -1,7 +1,0 @@
-struct TYPE_8__ | length int | offset long 
-struct TYPE_7__ | length int | offset int 
-struct TYPE_6__ | length int | offset int 
-struct TYPE_10__ | bits_per_pixel int | blue struct TYPE_8__ | green struct TYPE_7__ | red struct TYPE_6__ 
-struct TYPE_9__ | visual int 
-struct fb_info | var struct TYPE_10__ | fix struct TYPE_9__ 
-function s1d13xxxfb_setup_truecolour void | info struct fb_info *

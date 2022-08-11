@@ -1,0 +1,1 @@
+function make_cube_faces void | data float * | ao float [6][4] | light float [6][4] | left int | right int | top int | bottom int | front int | back int | wleft int | wright int | wtop int | wbottom int | wfront int | wback int | x float | y float | z float | n float

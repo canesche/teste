@@ -1,0 +1,1 @@
+function pthread_mutexattr_setprotocol int | a int * | protocol int

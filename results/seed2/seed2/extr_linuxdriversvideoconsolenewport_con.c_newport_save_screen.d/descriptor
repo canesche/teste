@@ -1,0 +1,2 @@
+struct vc_data | dummy int 
+function newport_save_screen void | vc struct vc_data *

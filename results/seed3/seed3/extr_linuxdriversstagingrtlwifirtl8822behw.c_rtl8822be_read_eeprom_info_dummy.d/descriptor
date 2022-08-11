@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function rtl8822be_read_eeprom_info_dummy void | hw struct ieee80211_hw *

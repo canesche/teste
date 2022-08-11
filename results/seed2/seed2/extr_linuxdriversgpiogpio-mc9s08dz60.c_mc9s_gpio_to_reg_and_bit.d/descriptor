@@ -1,0 +1,1 @@
+function mc9s_gpio_to_reg_and_bit void | offset int | reg int * | bit int *

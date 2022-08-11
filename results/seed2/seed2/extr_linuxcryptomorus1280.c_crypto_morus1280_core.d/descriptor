@@ -1,0 +1,4 @@
+struct morus1280_state | s struct TYPE_2__ * 
+struct morus1280_block | words int * 
+struct TYPE_2__ | words int * 
+function crypto_morus1280_core void | state const struct morus1280_state * | blk struct morus1280_block *

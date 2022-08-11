@@ -1,0 +1,2 @@
+struct ceph_auth_client | dummy int 
+function build_request int | ac struct ceph_auth_client * | buf void * | end void *

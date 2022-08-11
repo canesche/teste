@@ -1,0 +1,2 @@
+struct mtk_jpeg_dec_param | src_color int | dst_fourcc long | dma_mcu int | dma_group int | mcu_w int | dma_last_mcu int 
+function mtk_jpeg_calc_dma_group void | param struct mtk_jpeg_dec_param *

@@ -1,2 +1,0 @@
-struct ide_timing | mode int 
-function ide_timing_find_mode struct ide_timing * | speed int

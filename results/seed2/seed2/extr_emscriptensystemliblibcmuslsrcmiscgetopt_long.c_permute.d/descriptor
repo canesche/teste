@@ -1,0 +1,1 @@
+function permute void | argv char *const * | dest int | src int

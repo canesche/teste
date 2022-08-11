@@ -1,2 +1,0 @@
-struct s3c24xx_i2c | dummy int 
-function s3c24xx_i2c_register_cpufreq int | i2c struct s3c24xx_i2c *

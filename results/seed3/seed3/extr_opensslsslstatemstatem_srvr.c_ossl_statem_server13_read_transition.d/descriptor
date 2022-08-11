@@ -1,0 +1,7 @@
+struct TYPE_13__ | hand_state int 
+struct TYPE_9__ | cert_request int 
+struct TYPE_10__ | tmp struct TYPE_9__ 
+struct TYPE_8__ | early_data int 
+struct TYPE_12__ | post_handshake_auth int | early_data_state int | session struct TYPE_11__ * | s3 struct TYPE_10__ | ext struct TYPE_8__ | hello_retry_request int | statem struct TYPE_13__ 
+struct TYPE_11__ | peer int * 
+function ossl_statem_server13_read_transition int | s struct TYPE_12__ * | mt int

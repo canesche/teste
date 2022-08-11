@@ -1,2 +1,0 @@
-struct qed_hwfn | dummy int 
-function qed_iov_bulletin_set_udp_ports void | p_hwfn struct qed_hwfn * | vfid int | vxlan_port int | geneve_port int

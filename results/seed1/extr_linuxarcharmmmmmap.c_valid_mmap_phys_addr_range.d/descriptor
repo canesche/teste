@@ -1,1 +1,0 @@
-function valid_mmap_phys_addr_range int | pfn unsigned long | size unsigned long

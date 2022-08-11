@@ -1,4 +1,0 @@
-struct TYPE_2__ | width long 
-struct dc_plane_state | format long | src_rect struct TYPE_2__ 
-struct dc_caps | max_video_width long 
-function dcn10_validate_plane enum dc_status | plane_state const struct dc_plane_state * | caps struct dc_caps *

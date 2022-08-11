@@ -1,0 +1,2 @@
+struct buffer_head | dummy int 
+function __ext4_journal_get_create_access int | where const char * | line unsigned int | icb void * | handle int * | bh struct buffer_head *

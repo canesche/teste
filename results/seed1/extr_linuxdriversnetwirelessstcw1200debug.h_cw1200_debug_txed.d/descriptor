@@ -1,3 +1,0 @@
-struct cw1200_common | debug struct TYPE_2__ * 
-struct TYPE_2__ | tx int 
-function cw1200_debug_txed void | priv struct cw1200_common *

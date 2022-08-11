@@ -1,0 +1,2 @@
+struct gb_connection | flags int 
+function gb_connection_flow_control_disabled int | connection struct gb_connection *

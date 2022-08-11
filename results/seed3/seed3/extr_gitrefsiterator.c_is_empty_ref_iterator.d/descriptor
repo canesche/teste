@@ -1,0 +1,2 @@
+struct ref_iterator | vtable int * 
+function is_empty_ref_iterator int | ref_iterator struct ref_iterator *

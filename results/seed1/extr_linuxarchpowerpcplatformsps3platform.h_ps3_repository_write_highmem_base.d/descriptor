@@ -1,1 +1,0 @@
-function ps3_repository_write_highmem_base int | region_index unsigned int | highmem_base int

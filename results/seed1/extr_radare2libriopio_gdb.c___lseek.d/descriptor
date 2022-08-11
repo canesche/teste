@@ -1,2 +1,0 @@
-struct TYPE_3__ | off int 
-function __lseek int | io struct TYPE_3__ * | fd int * | offset int | whence int

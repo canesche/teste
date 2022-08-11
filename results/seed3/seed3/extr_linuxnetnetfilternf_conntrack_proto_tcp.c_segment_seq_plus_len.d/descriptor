@@ -1,0 +1,2 @@
+struct tcphdr | doff int | fin long | syn long 
+function segment_seq_plus_len unsigned long | seq unsigned long | len unsigned long | dataoff unsigned int | tcph const struct tcphdr *

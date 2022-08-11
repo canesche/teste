@@ -1,0 +1,2 @@
+struct tx_desc | dummy int 
+function wr_gen2 void | d struct tx_desc * | gen unsigned int

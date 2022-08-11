@@ -1,0 +1,2 @@
+struct s5h1420_state | symbol_rate int 
+function s5h1420_getsymbolrate int | state struct s5h1420_state *

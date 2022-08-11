@@ -1,0 +1,2 @@
+struct cpufreq_frequency_table | frequency int 
+function invalidate_entry void | powernow_table struct cpufreq_frequency_table * | entry unsigned int

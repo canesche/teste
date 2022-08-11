@@ -1,0 +1,2 @@
+struct wl1271 | tx_queue_count long * 
+function wl1271_tx_total_queue_count int | wl struct wl1271 *

@@ -1,0 +1,3 @@
+struct ts2020_priv | frequency_khz int 
+struct dvb_frontend | tuner_priv struct ts2020_priv * 
+function ts2020_get_frequency int | fe struct dvb_frontend * | frequency int *

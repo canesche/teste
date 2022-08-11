@@ -1,1 +1,0 @@
-function etm_readl_cp14 int | off int | val unsigned int *

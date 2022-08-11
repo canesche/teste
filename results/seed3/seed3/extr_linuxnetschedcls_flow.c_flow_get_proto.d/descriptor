@@ -1,0 +1,4 @@
+struct sk_buff | dummy int 
+struct TYPE_2__ | ip_proto int 
+struct flow_keys | basic struct TYPE_2__ 
+function flow_get_proto int | skb const struct sk_buff * | flow const struct flow_keys *

@@ -1,0 +1,4 @@
+struct isci_host | remote_node_entries unsigned long | device_table struct TYPE_4__ ** 
+struct TYPE_3__ | current_state_id long 
+struct TYPE_4__ | sm struct TYPE_3__ 
+function sci_controller_has_remote_devices_stopping int | ihost struct isci_host *

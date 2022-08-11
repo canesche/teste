@@ -1,3 +1,0 @@
-struct packing_data | objects struct object_entry * 
-struct object_entry | delta_sibling_idx int 
-function oe_delta_sibling struct object_entry * | pack const struct packing_data * | e const struct object_entry *

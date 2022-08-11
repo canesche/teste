@@ -1,0 +1,6 @@
+struct TYPE_8__ | length int | offset long 
+struct TYPE_7__ | length int | offset long 
+struct TYPE_6__ | length int 
+struct TYPE_5__ | length int 
+struct fb_var_screeninfo | bits_per_pixel int | blue struct TYPE_8__ | red struct TYPE_7__ | transp struct TYPE_6__ | green struct TYPE_5__ 
+function determine_best_pix_fmt int | var struct fb_var_screeninfo *

@@ -1,0 +1,2 @@
+struct task_struct | prio int 
+function task_prio int | p const struct task_struct *

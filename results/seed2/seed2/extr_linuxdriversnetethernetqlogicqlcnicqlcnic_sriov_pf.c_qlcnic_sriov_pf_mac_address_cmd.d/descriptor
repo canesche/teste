@@ -1,0 +1,7 @@
+struct qlcnic_vf_info | vp struct TYPE_5__ * 
+struct TYPE_6__ | arg int * 
+struct TYPE_4__ | arg int * 
+struct qlcnic_cmd_args | rsp struct TYPE_6__ | req struct TYPE_4__ 
+struct qlcnic_bc_trans | vf struct qlcnic_vf_info * 
+struct TYPE_5__ | mac int * 
+function qlcnic_sriov_pf_mac_address_cmd int | trans struct qlcnic_bc_trans * | cmd struct qlcnic_cmd_args *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | rtc_obj int * 
+function pyb_sleep_set_rtc_obj void | rtc_obj long

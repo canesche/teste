@@ -1,0 +1,3 @@
+struct TYPE_5__ | num_tablespaces int | tablespaces struct TYPE_4__ * 
+struct TYPE_4__ | tablespace_oid long 
+function ts_tablespaces_contain int | tspcs struct TYPE_5__ * | tspc_oid long

@@ -1,0 +1,2 @@
+struct fc_rport | dev_loss_tmo int 
+function csio_set_rport_loss_tmo void | rport struct fc_rport * | timeout int

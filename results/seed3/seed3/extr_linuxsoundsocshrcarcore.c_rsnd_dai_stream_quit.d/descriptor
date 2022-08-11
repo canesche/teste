@@ -1,0 +1,2 @@
+struct rsnd_dai_stream | substream int * 
+function rsnd_dai_stream_quit void | io struct rsnd_dai_stream *

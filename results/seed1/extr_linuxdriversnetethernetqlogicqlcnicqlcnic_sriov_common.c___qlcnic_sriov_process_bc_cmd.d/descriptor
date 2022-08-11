@@ -1,5 +1,0 @@
-struct TYPE_2__ | arg int * 
-struct qlcnic_cmd_args | rsp struct TYPE_2__ 
-struct qlcnic_bc_trans | dummy int 
-struct qlcnic_adapter | dummy int 
-function __qlcnic_sriov_process_bc_cmd void | adapter struct qlcnic_adapter * | trans struct qlcnic_bc_trans * | cmd struct qlcnic_cmd_args *

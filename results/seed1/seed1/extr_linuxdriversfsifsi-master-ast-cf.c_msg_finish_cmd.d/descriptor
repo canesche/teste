@@ -1,0 +1,2 @@
+struct fsi_msg | msg int | bits int 
+function msg_finish_cmd void | cmd struct fsi_msg *

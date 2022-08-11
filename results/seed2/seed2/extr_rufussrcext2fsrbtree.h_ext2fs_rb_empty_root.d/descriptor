@@ -1,0 +1,2 @@
+struct rb_root | rb_node int * 
+function ext2fs_rb_empty_root int | root struct rb_root *

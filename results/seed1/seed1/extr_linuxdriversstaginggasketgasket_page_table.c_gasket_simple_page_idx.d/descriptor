@@ -1,0 +1,3 @@
+struct TYPE_2__ | total_entries int 
+struct gasket_page_table | config struct TYPE_2__ 
+function gasket_simple_page_idx int | pg_tbl struct gasket_page_table * | dev_addr int

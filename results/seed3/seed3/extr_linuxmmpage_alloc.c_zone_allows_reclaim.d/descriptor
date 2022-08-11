@@ -1,0 +1,2 @@
+struct zone | dummy int 
+function zone_allows_reclaim int | local_zone struct zone * | zone struct zone *

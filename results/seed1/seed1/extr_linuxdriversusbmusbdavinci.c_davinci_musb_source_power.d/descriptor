@@ -1,0 +1,2 @@
+struct musb | dummy int 
+function davinci_musb_source_power void | musb struct musb * | is_on int | immediate int

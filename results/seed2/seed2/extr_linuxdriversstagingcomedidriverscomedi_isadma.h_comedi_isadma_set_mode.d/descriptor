@@ -1,0 +1,2 @@
+struct comedi_isadma_desc | dummy int 
+function comedi_isadma_set_mode void | desc struct comedi_isadma_desc * | dma_dir char

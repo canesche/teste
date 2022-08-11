@@ -1,2 +1,0 @@
-struct Qdisc | dummy int 
-function cake_find unsigned long | sch struct Qdisc * | classid int

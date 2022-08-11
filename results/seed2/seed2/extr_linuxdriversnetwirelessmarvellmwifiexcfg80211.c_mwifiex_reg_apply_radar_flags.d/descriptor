@@ -1,0 +1,4 @@
+struct wiphy | bands struct ieee80211_supported_band ** 
+struct ieee80211_supported_band | n_channels unsigned int | channels struct ieee80211_channel * 
+struct ieee80211_channel | flags int 
+function mwifiex_reg_apply_radar_flags void | wiphy struct wiphy *

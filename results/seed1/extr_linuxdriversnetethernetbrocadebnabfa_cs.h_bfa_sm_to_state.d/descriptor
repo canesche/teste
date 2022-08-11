@@ -1,2 +1,0 @@
-struct bfa_sm_table | sm long | state int 
-function bfa_sm_to_state int | smt const struct bfa_sm_table * | sm long

@@ -1,0 +1,2 @@
+struct cmac | dummy int 
+function mac_intr_enable int | mac struct cmac *

@@ -1,0 +1,5 @@
+struct atl1e_rx_page_desc | rx_using unsigned long | rx_page struct atl1e_rx_page * 
+struct atl1e_rx_page | dummy int 
+struct TYPE_2__ | rx_page_desc long 
+struct atl1e_adapter | rx_ring struct TYPE_2__ 
+function atl1e_get_rx_page struct atl1e_rx_page * | adapter struct atl1e_adapter * | que unsigned long

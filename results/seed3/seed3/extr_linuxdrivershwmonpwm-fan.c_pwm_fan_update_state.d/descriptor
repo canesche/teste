@@ -1,0 +1,2 @@
+struct pwm_fan_ctx | pwm_fan_max_state int | pwm_fan_cooling_levels unsigned long * | pwm_fan_state int 
+function pwm_fan_update_state void | ctx struct pwm_fan_ctx * | pwm unsigned long

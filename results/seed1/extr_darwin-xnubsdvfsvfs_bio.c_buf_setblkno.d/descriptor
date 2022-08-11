@@ -1,2 +1,0 @@
-struct TYPE_3__ | b_blkno int 
-function buf_setblkno void | bp struct TYPE_3__ * | blkno int

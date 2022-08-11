@@ -1,0 +1,2 @@
+struct TYPE_4__ | poc int 
+function add_sorted int | sorted struct TYPE_4__ ** | src struct TYPE_4__ *const * | len int | limit int | dir int

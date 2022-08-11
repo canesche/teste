@@ -1,0 +1,4 @@
+struct hda_fixup | dummy int 
+struct hda_codec | spec struct cs_spec * 
+struct cs_spec | sense_b int 
+function cs421x_fixup_sense_b void | codec struct hda_codec * | fix const struct hda_fixup * | action int

@@ -1,0 +1,5 @@
+struct tty3270_line | len long | cells struct tty3270_cell * 
+struct tty3270_cell | f_color int | highlight int | character int 
+struct TYPE_2__ | ascebc int * 
+struct tty3270 | cy int | cx long | f_color int | highlight int | view struct TYPE_2__ | screen struct tty3270_line * 
+function tty3270_put_character void | tp struct tty3270 * | ch char

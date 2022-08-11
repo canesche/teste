@@ -1,0 +1,2 @@
+struct dm_ioctl | flags int 
+function get_mode int | param struct dm_ioctl *

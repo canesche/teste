@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int 
+function EC_KEY_clear_flags void | key struct TYPE_3__ * | flags int

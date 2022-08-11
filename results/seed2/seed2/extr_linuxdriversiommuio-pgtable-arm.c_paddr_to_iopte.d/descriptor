@@ -1,0 +1,2 @@
+struct arm_lpae_io_pgtable | dummy int 
+function paddr_to_iopte int | paddr int | data struct arm_lpae_io_pgtable *

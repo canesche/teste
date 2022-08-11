@@ -1,4 +1,0 @@
-struct amdgpu_ring | rptr_offs unsigned long | adev struct TYPE_4__ * 
-struct TYPE_3__ | wb int * 
-struct TYPE_4__ | wb struct TYPE_3__ 
-function gfx_v7_0_ring_get_rptr int | ring struct amdgpu_ring *

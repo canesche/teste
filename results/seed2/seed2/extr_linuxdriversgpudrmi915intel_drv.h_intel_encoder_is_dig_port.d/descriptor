@@ -1,0 +1,2 @@
+struct intel_encoder | type int 
+function intel_encoder_is_dig_port int | encoder struct intel_encoder *

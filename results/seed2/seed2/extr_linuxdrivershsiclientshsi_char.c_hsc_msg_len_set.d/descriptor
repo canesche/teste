@@ -1,0 +1,4 @@
+struct TYPE_4__ | sgl struct TYPE_3__ * 
+struct hsi_msg | sgt struct TYPE_4__ 
+struct TYPE_3__ | length unsigned int 
+function hsc_msg_len_set void | msg struct hsi_msg * | len unsigned int

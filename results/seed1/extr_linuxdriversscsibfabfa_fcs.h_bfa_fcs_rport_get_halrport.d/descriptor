@@ -1,3 +1,0 @@
-struct bfa_rport_s | dummy int 
-struct bfa_fcs_rport_s | bfa_rport struct bfa_rport_s * 
-function bfa_fcs_rport_get_halrport struct bfa_rport_s * | rport struct bfa_fcs_rport_s *

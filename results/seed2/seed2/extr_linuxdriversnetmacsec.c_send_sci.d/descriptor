@@ -1,0 +1,3 @@
+struct macsec_tx_sc | scb int | end_station int | send_sci long 
+struct macsec_secy | n_rx_sc int | tx_sc struct macsec_tx_sc 
+function send_sci int | secy const struct macsec_secy *

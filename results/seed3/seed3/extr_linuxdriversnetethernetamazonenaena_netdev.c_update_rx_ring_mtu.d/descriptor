@@ -1,0 +1,3 @@
+struct ena_adapter | num_queues int | rx_ring struct TYPE_2__ * 
+struct TYPE_2__ | mtu int 
+function update_rx_ring_mtu void | adapter struct ena_adapter * | mtu int

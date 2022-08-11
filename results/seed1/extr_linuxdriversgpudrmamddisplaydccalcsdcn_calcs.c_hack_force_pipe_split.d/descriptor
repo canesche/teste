@@ -1,2 +1,0 @@
-struct dcn_bw_internal_vars | max_dppclk float * 
-function hack_force_pipe_split void | v struct dcn_bw_internal_vars * | pixel_rate_khz unsigned int

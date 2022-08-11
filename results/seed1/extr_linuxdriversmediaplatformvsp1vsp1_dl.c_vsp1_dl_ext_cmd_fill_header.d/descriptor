@@ -1,3 +1,0 @@
-struct vsp1_dl_ext_cmd | cmds struct TYPE_2__ * | data_dma int | flags int | opcode int 
-struct TYPE_2__ | reserved long | address_set int | flags int | opcode int 
-function vsp1_dl_ext_cmd_fill_header void | cmd struct vsp1_dl_ext_cmd *

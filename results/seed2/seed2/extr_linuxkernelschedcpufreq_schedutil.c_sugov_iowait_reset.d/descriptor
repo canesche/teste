@@ -1,0 +1,2 @@
+struct sugov_cpu | last_update long | iowait_boost_pending int | min int | iowait_boost int 
+function sugov_iowait_reset int | sg_cpu struct sugov_cpu * | time long | set_iowait_boost int

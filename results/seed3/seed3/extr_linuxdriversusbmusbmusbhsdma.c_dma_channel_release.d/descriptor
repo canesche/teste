@@ -1,0 +1,4 @@
+struct musb_dma_channel | idx int | controller struct TYPE_2__ * | len long | start_addr long 
+struct dma_channel | status int | actual_len long | private_data struct musb_dma_channel * 
+struct TYPE_2__ | used_channels int 
+function dma_channel_release void | channel struct dma_channel *

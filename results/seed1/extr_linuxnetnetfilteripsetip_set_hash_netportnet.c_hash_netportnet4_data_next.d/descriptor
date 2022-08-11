@@ -1,2 +1,0 @@
-struct hash_netportnet4_elem | port int | ipcmp int 
-function hash_netportnet4_data_next void | next struct hash_netportnet4_elem * | d const struct hash_netportnet4_elem *

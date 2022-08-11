@@ -1,2 +1,0 @@
-struct strbuf | alloc unsigned long | len unsigned long 
-function strbuf_avail unsigned long | sb const struct strbuf *

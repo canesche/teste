@@ -1,0 +1,2 @@
+struct gpio | mode int 
+function dal_gpio_get_mode enum gpio_mode | gpio const struct gpio *

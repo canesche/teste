@@ -1,0 +1,4 @@
+struct i915_power_well | id int 
+struct i915_power_domains | power_well_count int | power_wells struct i915_power_well * 
+struct drm_i915_private | power_domains struct i915_power_domains 
+function lookup_power_well struct i915_power_well * | dev_priv struct drm_i915_private * | power_well_id enum i915_power_well_id

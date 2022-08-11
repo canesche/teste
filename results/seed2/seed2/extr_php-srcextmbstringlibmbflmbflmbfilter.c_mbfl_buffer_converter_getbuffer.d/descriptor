@@ -1,0 +1,4 @@
+struct TYPE_8__ | len int | val int * | encoding int 
+struct TYPE_7__ | pos int | buffer int * 
+struct TYPE_9__ | device struct TYPE_7__ | to int 
+function mbfl_buffer_converter_getbuffer struct TYPE_8__ * | convd struct TYPE_9__ * | result struct TYPE_8__ *

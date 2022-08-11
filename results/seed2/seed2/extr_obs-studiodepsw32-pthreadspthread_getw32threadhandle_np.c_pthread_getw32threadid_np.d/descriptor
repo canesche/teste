@@ -1,0 +1,3 @@
+struct TYPE_4__ | thread int 
+struct TYPE_5__ | p long 
+function pthread_getw32threadid_np int | thread struct TYPE_5__

@@ -1,0 +1,2 @@
+struct TYPE_3__ | overall_count int 
+function profiler_snapshot_entry_overall_count int | entry struct TYPE_3__ *

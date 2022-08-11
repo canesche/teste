@@ -1,0 +1,4 @@
+struct socket_server | time int 
+struct TYPE_2__ | write int | wtime int 
+struct socket | stat struct TYPE_2__ 
+function stat_write void | ss struct socket_server * | s struct socket * | n int

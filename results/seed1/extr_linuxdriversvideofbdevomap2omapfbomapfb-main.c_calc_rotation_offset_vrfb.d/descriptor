@@ -1,3 +1,0 @@
-struct fb_var_screeninfo | yres_virtual unsigned int | yres unsigned int | bits_per_pixel int | yoffset int | xoffset int 
-struct fb_fix_screeninfo | line_length unsigned int 
-function calc_rotation_offset_vrfb unsigned int | var const struct fb_var_screeninfo * | fix const struct fb_fix_screeninfo * | rotation int

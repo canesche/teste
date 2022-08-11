@@ -1,7 +1,0 @@
-struct bna_rxq | dummy int 
-struct TYPE_6__ | hdr struct bna_rxq * | data struct bna_rxq * 
-struct TYPE_5__ | small struct bna_rxq * | large struct bna_rxq * 
-struct TYPE_7__ | reserved int * | only struct bna_rxq * 
-struct TYPE_8__ | hds struct TYPE_6__ | slr struct TYPE_5__ | single struct TYPE_7__ 
-struct bna_rxp | type int | rxq struct TYPE_8__ 
-function bna_rxp_add_rxqs void | rxp struct bna_rxp * | q0 struct bna_rxq * | q1 struct bna_rxq *

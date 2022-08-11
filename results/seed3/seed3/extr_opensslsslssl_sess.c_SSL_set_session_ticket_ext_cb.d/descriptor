@@ -1,0 +1,3 @@
+struct TYPE_4__ | session_ticket_cb_arg void * | session_ticket_cb int 
+struct TYPE_5__ | ext struct TYPE_4__ 
+function SSL_set_session_ticket_ext_cb int | s struct TYPE_5__ * | cb int | arg void *

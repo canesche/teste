@@ -1,0 +1,2 @@
+struct hugetlb_cgroup | dummy int 
+function hugetlb_cgroup_is_root int | h_cg struct hugetlb_cgroup *

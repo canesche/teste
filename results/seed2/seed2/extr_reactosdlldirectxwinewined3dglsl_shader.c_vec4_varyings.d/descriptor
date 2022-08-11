@@ -1,0 +1,3 @@
+struct TYPE_2__ | glsl_varyings int 
+struct wined3d_gl_info | quirks int | limits struct TYPE_2__ 
+function vec4_varyings unsigned int | shader_major int | gl_info const struct wined3d_gl_info *

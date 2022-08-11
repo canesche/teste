@@ -1,0 +1,2 @@
+struct stats | hit_threshold unsigned int | misses int | hits int 
+function stats_level_accessed void | s struct stats * | level unsigned int

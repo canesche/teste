@@ -1,2 +1,0 @@
-struct TYPE_5__ | tv_usec long | tv_sec long 
-function timeval_subtract int | result struct TYPE_5__ * | end struct TYPE_5__ * | begin struct TYPE_5__ *

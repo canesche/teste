@@ -1,0 +1,2 @@
+struct device | devt long 
+function match_devt int | dev struct device * | data void *

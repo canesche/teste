@@ -1,0 +1,2 @@
+struct entry | level unsigned int | dirty int | allocated int | sentinel int | pending_work int | prev void * | next void * | hash_next void * 
+function init_entry void | e struct entry *

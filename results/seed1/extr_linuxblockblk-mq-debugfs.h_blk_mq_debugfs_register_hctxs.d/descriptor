@@ -1,2 +1,0 @@
-struct request_queue | dummy int 
-function blk_mq_debugfs_register_hctxs int | q struct request_queue *

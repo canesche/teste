@@ -1,3 +1,0 @@
-struct TYPE_2__ | bits int 
-struct decode_header | type_regs struct TYPE_2__ 
-function coverage_start_registers unsigned int | h const struct decode_header *

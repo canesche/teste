@@ -1,2 +1,0 @@
-struct sahara_dev | dummy int 
-function sahara_aes_data_link_hdr int | dev struct sahara_dev *

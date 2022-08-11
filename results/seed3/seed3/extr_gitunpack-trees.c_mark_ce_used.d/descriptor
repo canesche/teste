@@ -1,0 +1,4 @@
+struct unpack_trees_options | cache_bottom unsigned long | src_index struct TYPE_2__ * 
+struct cache_entry | ce_flags int 
+struct TYPE_2__ | cache_nr unsigned long | cache struct cache_entry ** 
+function mark_ce_used void | ce struct cache_entry * | o struct unpack_trees_options *

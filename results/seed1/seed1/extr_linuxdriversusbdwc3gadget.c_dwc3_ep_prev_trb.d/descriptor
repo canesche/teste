@@ -1,0 +1,3 @@
+struct dwc3_trb | dummy int 
+struct dwc3_ep | trb_pool struct dwc3_trb * 
+function dwc3_ep_prev_trb struct dwc3_trb * | dep struct dwc3_ep * | index int

@@ -1,3 +1,0 @@
-struct device_attribute | dummy int 
-struct device | dummy int 
-function show_cursor int | device struct device * | attr struct device_attribute * | buf char *

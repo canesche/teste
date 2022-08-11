@@ -1,0 +1,2 @@
+struct memory_bitmap | dummy int 
+function prepare_highmem_image int | bm struct memory_bitmap * | nr_highmem_p unsigned int *

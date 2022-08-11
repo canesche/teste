@@ -1,0 +1,2 @@
+struct TYPE_3__ | msb_pts_shift unsigned long long | last_pts int 
+function ff_lsb2full int | stream struct TYPE_3__ * | lsb int

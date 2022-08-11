@@ -1,3 +1,0 @@
-struct mddev | chunk_sectors int | new_chunk_sectors int | layout int | new_layout int | level int | new_level int 
-struct raid_set | md struct mddev 
-function rs_set_cur void | rs struct raid_set *

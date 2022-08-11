@@ -1,0 +1,4 @@
+struct gfs2_glock | gl_ops struct TYPE_2__ * 
+struct address_space | dummy int 
+struct TYPE_2__ | go_flags int 
+function gfs2_glock2aspace struct address_space * | gl struct gfs2_glock *

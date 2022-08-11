@@ -1,4 +1,0 @@
-struct power_supply_propval | intval int 
-struct power_supply | dummy int 
-struct da9150_charger | supply_online struct power_supply * 
-function da9150_charger_supply_online int | charger struct da9150_charger * | psy struct power_supply * | val union power_supply_propval *

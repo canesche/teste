@@ -1,0 +1,1 @@
+function IniExtractSettingName int | SettingName char * | SettingNameLine char * | LineLength unsigned long

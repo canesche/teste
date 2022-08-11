@@ -1,0 +1,2 @@
+struct bnxt_fw_msg | msg_len int | resp_max_len int | timeout int | resp void * | msg void * 
+function bnxt_re_fill_fw_msg void | fw_msg struct bnxt_fw_msg * | msg void * | msg_len int | resp void * | resp_max_len int | timeout int

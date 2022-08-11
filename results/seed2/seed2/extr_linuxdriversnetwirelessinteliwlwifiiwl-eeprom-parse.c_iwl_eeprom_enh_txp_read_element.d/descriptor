@@ -1,0 +1,4 @@
+struct iwl_nvm_data | channels struct ieee80211_channel * 
+struct iwl_eeprom_enhanced_txpwr | flags int | channel long 
+struct ieee80211_channel | hw_value long | band int | max_power long 
+function iwl_eeprom_enh_txp_read_element void | data struct iwl_nvm_data * | txp struct iwl_eeprom_enhanced_txpwr * | n_channels int | max_txpower_avg long

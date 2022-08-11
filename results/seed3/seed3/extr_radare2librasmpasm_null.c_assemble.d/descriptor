@@ -1,0 +1,1 @@
+function assemble int | a int * | op int * | buf const char *

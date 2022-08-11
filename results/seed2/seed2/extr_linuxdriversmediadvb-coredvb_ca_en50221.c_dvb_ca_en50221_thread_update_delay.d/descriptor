@@ -1,0 +1,3 @@
+struct dvb_ca_slot | slot_state int | da_irq_supported int 
+struct dvb_ca_private | slot_count int | flags int | delay int | open int | slot_info struct dvb_ca_slot * 
+function dvb_ca_en50221_thread_update_delay void | ca struct dvb_ca_private *

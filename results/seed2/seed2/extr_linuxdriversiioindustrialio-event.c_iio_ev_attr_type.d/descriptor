@@ -1,0 +1,4 @@
+struct iio_dev_attr | address int | c struct TYPE_4__ * 
+struct TYPE_4__ | event_spec struct TYPE_3__ * 
+struct TYPE_3__ | type int 
+function iio_ev_attr_type enum iio_event_type | attr struct iio_dev_attr *

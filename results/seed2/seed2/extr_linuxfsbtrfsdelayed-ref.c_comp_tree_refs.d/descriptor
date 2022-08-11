@@ -1,0 +1,3 @@
+struct TYPE_2__ | type long 
+struct btrfs_delayed_tree_ref | root long | parent long | node struct TYPE_2__ 
+function comp_tree_refs int | ref1 struct btrfs_delayed_tree_ref * | ref2 struct btrfs_delayed_tree_ref *

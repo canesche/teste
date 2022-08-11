@@ -1,0 +1,3 @@
+struct TYPE_2__ | nr_secs int 
+struct pblk | addrf_len int | rl struct TYPE_2__ 
+function pblk_trans_map_size unsigned long | pblk struct pblk *

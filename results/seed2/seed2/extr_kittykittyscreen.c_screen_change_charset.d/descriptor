@@ -1,0 +1,2 @@
+struct TYPE_3__ | current_charset int | g1_charset int | g_charset int | g0_charset int 
+function screen_change_charset void | self struct TYPE_3__ * | which int

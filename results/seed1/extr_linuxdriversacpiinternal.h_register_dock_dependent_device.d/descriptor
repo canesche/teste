@@ -1,2 +1,0 @@
-struct acpi_device | dummy int 
-function register_dock_dependent_device void | adev struct acpi_device * | dshandle int

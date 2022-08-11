@@ -1,0 +1,2 @@
+struct TYPE_2__ | psa_darwin_role int 
+function posix_spawnattr_set_darwin_role_np int | attr int *const *__restrict | darwin_role int

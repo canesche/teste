@@ -1,2 +1,0 @@
-struct usb_endpoint_descriptor | bEndpointAddress int 
-function RT_usb_endpoint_dir_out int | epd const struct usb_endpoint_descriptor *

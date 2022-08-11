@@ -1,2 +1,0 @@
-struct ceph_file_extent | fe_off long | fe_len long 
-function prune_extents void | img_extents struct ceph_file_extent * | num_img_extents int * | overlap long

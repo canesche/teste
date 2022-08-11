@@ -1,0 +1,2 @@
+struct cache_entry | dummy int 
+function estimate_cache_size_from_compressed unsigned long | entries unsigned int

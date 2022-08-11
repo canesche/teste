@@ -1,0 +1,3 @@
+struct w1_netlink_msg | dummy int 
+struct w1_master | dummy int 
+function w1_netlink_send void | dev struct w1_master * | cn struct w1_netlink_msg *

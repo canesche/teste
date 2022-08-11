@@ -1,0 +1,3 @@
+struct pxa3xx_gcu_priv | running struct pxa3xx_gcu_batch * | free struct pxa3xx_gcu_batch * 
+struct pxa3xx_gcu_batch | next struct pxa3xx_gcu_batch * 
+function flush_running void | priv struct pxa3xx_gcu_priv *

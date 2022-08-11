@@ -1,0 +1,3 @@
+struct qed_ptt | dummy int 
+struct qed_hwfn | dummy int 
+function qed_rdma_dpm_bar void | p_hwfn struct qed_hwfn * | p_ptt struct qed_ptt *

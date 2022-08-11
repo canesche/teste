@@ -1,0 +1,2 @@
+struct nfp_net | rx_coalesce_usecs int | rx_coalesce_max_frames int | tx_coalesce_usecs int | tx_coalesce_max_frames int 
+function nfp_net_irqmod_init void | nn struct nfp_net *

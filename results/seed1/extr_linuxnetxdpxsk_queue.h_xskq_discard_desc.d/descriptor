@@ -1,2 +1,0 @@
-struct xsk_queue | cons_tail int 
-function xskq_discard_desc void | q struct xsk_queue *

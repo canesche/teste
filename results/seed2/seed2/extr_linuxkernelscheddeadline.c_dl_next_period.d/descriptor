@@ -1,0 +1,2 @@
+struct sched_dl_entity | dl_period long | dl_deadline long | deadline long 
+function dl_next_period long | dl_se struct sched_dl_entity *

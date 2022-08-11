@@ -1,0 +1,1 @@
+function csi_set_scale int | compose int * | crop int | flags int

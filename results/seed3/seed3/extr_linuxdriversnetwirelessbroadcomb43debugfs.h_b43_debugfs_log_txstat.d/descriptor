@@ -1,0 +1,3 @@
+struct b43_wldev | dummy int 
+struct b43_txstatus | dummy int 
+function b43_debugfs_log_txstat void | dev struct b43_wldev * | status const struct b43_txstatus *

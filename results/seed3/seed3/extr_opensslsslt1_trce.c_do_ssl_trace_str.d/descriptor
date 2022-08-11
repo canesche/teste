@@ -1,0 +1,2 @@
+struct TYPE_3__ | num int | name const char * 
+function do_ssl_trace_str const char * | val int | tbl const struct TYPE_3__ * | ntbl unsigned long

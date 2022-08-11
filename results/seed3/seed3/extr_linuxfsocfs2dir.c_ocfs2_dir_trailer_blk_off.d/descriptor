@@ -1,0 +1,3 @@
+struct super_block | s_blocksize unsigned int 
+struct ocfs2_dir_block_trailer | dummy int 
+function ocfs2_dir_trailer_blk_off unsigned int | sb struct super_block *

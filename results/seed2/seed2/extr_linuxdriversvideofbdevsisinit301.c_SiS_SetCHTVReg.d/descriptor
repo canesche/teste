@@ -1,0 +1,5 @@
+struct SiS_Private | SiS_TVMode int | SiS_ModeType long | SiS_IF_DEF_CH70xx int | SiS_CHTVReg_OPAL struct SiS_CHTVRegData * | SiS_CHTVReg_SOPAL struct SiS_CHTVRegData * | SiS_CHTVReg_OPALN struct SiS_CHTVRegData * | SiS_CHTVReg_UPALN struct SiS_CHTVRegData * | SiS_CHTVReg_OPALM struct SiS_CHTVRegData * | SiS_CHTVReg_UPALM struct SiS_CHTVRegData * | SiS_CHTVReg_UPAL struct SiS_CHTVRegData * | SiS_CHTVReg_ONTSC struct SiS_CHTVRegData * | SiS_CHTVReg_UNTSC struct SiS_CHTVRegData * | SiS_CHSOverScan long | SiS_RefIndex struct TYPE_4__ * | SiS_SModeIDTable struct TYPE_3__ * 
+struct SiS_CHTVRegData | dummy int 
+struct TYPE_4__ | Ext_CRT2CRTC unsigned short 
+struct TYPE_3__ | St_CRT2CRTC unsigned short 
+function SiS_SetCHTVReg void | SiS_Pr struct SiS_Private * | ModeNo unsigned short | ModeIdIndex unsigned short | RefreshRateTableIndex unsigned short

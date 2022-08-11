@@ -1,0 +1,2 @@
+struct dcn_bw_internal_vars | max_dppclk_vmin0p65 int | max_dispclk int * 
+function hack_disable_optional_pipe_split void | v struct dcn_bw_internal_vars *

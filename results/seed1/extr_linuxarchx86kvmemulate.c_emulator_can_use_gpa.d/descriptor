@@ -1,2 +1,0 @@
-struct x86_emulate_ctxt | d int | rep_prefix long 
-function emulator_can_use_gpa int | ctxt struct x86_emulate_ctxt *

@@ -1,0 +1,2 @@
+struct serdev_controller | dummy int 
+function acpi_serdev_register_devices int | ctrl struct serdev_controller *

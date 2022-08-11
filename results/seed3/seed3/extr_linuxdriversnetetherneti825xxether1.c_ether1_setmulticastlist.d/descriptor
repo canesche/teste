@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function ether1_setmulticastlist void | dev struct net_device *

@@ -1,0 +1,2 @@
+struct musb | dummy int 
+function musb_host_poll_rh_status void | musb struct musb *

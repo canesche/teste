@@ -1,0 +1,3 @@
+struct resource | dummy int 
+struct platform_device | dummy int 
+function gpio_nand_get_io_sync_of struct resource * | pdev struct platform_device *

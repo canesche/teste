@@ -1,0 +1,6 @@
+struct wined3d_state | shader struct TYPE_6__ ** 
+struct wined3d_context | shader_update_mask unsigned int 
+struct TYPE_4__ | major int 
+struct TYPE_5__ | shader_version struct TYPE_4__ 
+struct TYPE_6__ | reg_maps struct TYPE_5__ 
+function glsl_vertex_pipe_pixel_shader void | context struct wined3d_context * | state const struct wined3d_state * | state_id int

@@ -1,6 +1,0 @@
-struct wl1271_station | hlid unsigned long 
-struct wl1271 | links struct TYPE_2__ * 
-struct ieee80211_sta | drv_priv long 
-struct ieee80211_hw | priv struct wl1271 * 
-struct TYPE_2__ | fw_rate_mbps int 
-function wlcore_op_get_expected_throughput int | hw struct ieee80211_hw * | sta struct ieee80211_sta *

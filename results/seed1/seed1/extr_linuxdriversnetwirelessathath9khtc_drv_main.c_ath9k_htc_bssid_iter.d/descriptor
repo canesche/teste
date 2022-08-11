@@ -1,0 +1,3 @@
+struct ieee80211_vif | dummy int 
+struct ath9k_vif_iter_data | hw_macaddr int * | mask int * 
+function ath9k_htc_bssid_iter void | data void * | mac int * | vif struct ieee80211_vif *

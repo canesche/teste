@@ -1,2 +1,0 @@
-struct uart_port | type int 
-function vt8500_config_port void | port struct uart_port * | flags int

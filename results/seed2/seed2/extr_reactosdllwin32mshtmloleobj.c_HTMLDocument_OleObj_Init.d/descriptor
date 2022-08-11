@@ -1,0 +1,8 @@
+struct TYPE_10__ | lpVtbl int * 
+struct TYPE_9__ | lpVtbl int * 
+struct TYPE_14__ | lpVtbl int * 
+struct TYPE_13__ | lpVtbl int * 
+struct TYPE_12__ | lpVtbl int * 
+struct TYPE_11__ | lpVtbl int * 
+struct TYPE_15__ | IObjectSafety_iface struct TYPE_10__ | IOleContainer_iface struct TYPE_9__ | IObjectWithSite_iface struct TYPE_14__ | IOleControl_iface struct TYPE_13__ | IOleDocument_iface struct TYPE_12__ | IOleObject_iface struct TYPE_11__ 
+function HTMLDocument_OleObj_Init void | This struct TYPE_15__ *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxarcharmplat-oriongpio.c_orion_gpio_chip_find.d/extr_linuxarcharmplat-oriongpio.c_orion_gpio_chip_find_O0::orion_gpio_chip_find(64)"
+  }
+]

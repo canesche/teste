@@ -1,0 +1,2 @@
+struct hns3_enet_ring | next_to_clean int | next_to_use int | desc_num int 
+function hns3_desc_unused int | ring struct hns3_enet_ring *

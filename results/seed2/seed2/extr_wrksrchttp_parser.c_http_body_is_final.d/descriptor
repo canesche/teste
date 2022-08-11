@@ -1,0 +1,2 @@
+struct http_parser | state long 
+function http_body_is_final int | parser const struct http_parser *

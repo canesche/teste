@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function pcie_aspm_remove_sysfs_dev_files void | pdev struct pci_dev *

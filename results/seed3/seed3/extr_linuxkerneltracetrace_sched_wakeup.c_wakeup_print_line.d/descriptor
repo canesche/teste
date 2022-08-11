@@ -1,0 +1,2 @@
+struct trace_iterator | dummy int 
+function wakeup_print_line enum print_line_t | iter struct trace_iterator *

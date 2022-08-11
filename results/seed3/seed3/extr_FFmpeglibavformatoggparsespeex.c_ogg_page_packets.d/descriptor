@@ -1,0 +1,2 @@
+struct ogg_stream | nsegs int | segments int * 
+function ogg_page_packets int | os struct ogg_stream *

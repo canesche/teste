@@ -1,3 +1,0 @@
-struct snd_ac97_bus | private_data struct cs4281 * 
-struct cs4281 | ac97_bus int * 
-function snd_cs4281_mixer_free_ac97_bus void | bus struct snd_ac97_bus *

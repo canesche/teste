@@ -1,3 +1,0 @@
-struct TYPE_2__ | netfid long 
-struct cifsFileInfo | fid struct TYPE_2__ 
-function cifs_compare_fids int | ob1 struct cifsFileInfo * | ob2 struct cifsFileInfo *

@@ -1,0 +1,4 @@
+struct TYPE_5__ | tv_usec int | tv_sec int 
+struct TYPE_7__ | p_stats struct TYPE_6__ * | p_start struct TYPE_5__ 
+struct TYPE_6__ | ps_start int 
+function proc_starttime_kdp void | p void * | tv_sec int * | tv_usec int * | abstime int *

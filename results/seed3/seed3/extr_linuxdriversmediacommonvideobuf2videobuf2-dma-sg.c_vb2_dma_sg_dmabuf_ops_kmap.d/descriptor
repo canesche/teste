@@ -1,0 +1,3 @@
+struct vb2_dma_sg_buf | vaddr void * 
+struct dma_buf | priv struct vb2_dma_sg_buf * 
+function vb2_dma_sg_dmabuf_ops_kmap void * | dbuf struct dma_buf * | pgnum unsigned long

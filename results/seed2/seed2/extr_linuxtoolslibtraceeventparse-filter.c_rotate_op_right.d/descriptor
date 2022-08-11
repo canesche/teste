@@ -1,0 +1,3 @@
+struct TYPE_2__ | right struct filter_arg * 
+struct filter_arg | op struct TYPE_2__ 
+function rotate_op_right struct filter_arg * | a struct filter_arg * | b struct filter_arg *

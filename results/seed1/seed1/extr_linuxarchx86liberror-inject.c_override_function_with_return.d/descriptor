@@ -1,0 +1,2 @@
+struct pt_regs | ip unsigned long 
+function override_function_with_return void | regs struct pt_regs *

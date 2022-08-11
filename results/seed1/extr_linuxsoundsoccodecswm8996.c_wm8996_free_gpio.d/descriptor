@@ -1,2 +1,0 @@
-struct wm8996_priv | dummy int 
-function wm8996_free_gpio void | wm8996 struct wm8996_priv *

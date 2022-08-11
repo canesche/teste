@@ -1,0 +1,3 @@
+struct task_struct | closid long 
+struct rdtgroup | type long | closid long 
+function is_closid_match int | t struct task_struct * | r struct rdtgroup *

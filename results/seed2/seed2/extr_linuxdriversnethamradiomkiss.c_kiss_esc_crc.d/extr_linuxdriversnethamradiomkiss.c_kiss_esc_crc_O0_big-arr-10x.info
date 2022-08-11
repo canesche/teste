@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 64,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 316,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnethamradiomkiss.c_kiss_esc_crc.d/extr_linuxdriversnethamradiomkiss.c_kiss_esc_crc_O0::kiss_esc_crc(65)"
+  }
+]

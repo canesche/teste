@@ -1,0 +1,2 @@
+struct uart_port | dummy int 
+function atmel_use_pdc_tx int | port struct uart_port *

@@ -1,3 +1,0 @@
-struct sg_dma_descriptor | next_l int 
-struct sg_dma_desc_info | last_desc_virt struct sg_dma_descriptor * 
-function descriptor_list_interrupt_enable void | desc struct sg_dma_desc_info *

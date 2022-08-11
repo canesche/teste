@@ -1,0 +1,2 @@
+struct usb_interface | dummy int 
+function rtl_usb_suspend int | pusb_intf struct usb_interface * | message int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | pf_playback_volume float | pf_playback_volume_changed int 
+function ffp_set_playback_volume void | ffp struct TYPE_3__ * | volume float

@@ -1,0 +1,5 @@
+struct TYPE_6__ | num_tc unsigned long | prio_tc unsigned long * | pg_info struct TYPE_5__ * | tc_info struct TYPE_4__ * 
+struct hclge_dev | flag int | tm_info struct TYPE_6__ 
+struct TYPE_5__ | bw_limit int 
+struct TYPE_4__ | tc_id unsigned long | bw_limit int | pgid long | tc_sch_mode int 
+function hclge_tm_tc_info_init void | hdev struct hclge_dev *

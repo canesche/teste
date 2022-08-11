@@ -1,0 +1,2 @@
+struct mm_page | bio int * | biotail int ** | headcnt long | cnt long 
+function reset_page void | page struct mm_page *

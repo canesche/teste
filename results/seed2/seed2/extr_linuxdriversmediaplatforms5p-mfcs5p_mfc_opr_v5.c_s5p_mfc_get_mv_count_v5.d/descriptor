@@ -1,0 +1,2 @@
+struct s5p_mfc_dev | dummy int 
+function s5p_mfc_get_mv_count_v5 int | dev struct s5p_mfc_dev *

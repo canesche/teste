@@ -1,2 +1,0 @@
-struct mv88e6xxx_chip | dummy int 
-function mv88e6xxx_g2_set_switch_mac int | chip struct mv88e6xxx_chip * | addr int *

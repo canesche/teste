@@ -1,0 +1,2 @@
+struct scsi_lun | scsi_lun long * 
+function check_lun int | lun struct scsi_lun

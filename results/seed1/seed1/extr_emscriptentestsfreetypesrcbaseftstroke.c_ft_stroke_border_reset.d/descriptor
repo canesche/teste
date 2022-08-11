@@ -1,0 +1,2 @@
+struct TYPE_3__ | start int | valid int | num_points long 
+function ft_stroke_border_reset void | border struct TYPE_3__ *

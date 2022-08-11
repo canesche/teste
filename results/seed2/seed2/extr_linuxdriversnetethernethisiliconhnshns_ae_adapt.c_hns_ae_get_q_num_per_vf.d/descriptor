@@ -1,0 +1,3 @@
+struct dsaf_device | rcb_common struct TYPE_2__ ** 
+struct TYPE_2__ | max_q_per_vf int 
+function hns_ae_get_q_num_per_vf int | dsaf_dev struct dsaf_device * | port int

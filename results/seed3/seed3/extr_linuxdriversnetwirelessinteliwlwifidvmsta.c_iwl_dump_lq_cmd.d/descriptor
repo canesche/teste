@@ -1,0 +1,3 @@
+struct iwl_priv | dummy int 
+struct iwl_link_quality_cmd | dummy int 
+function iwl_dump_lq_cmd void | priv struct iwl_priv * | lq struct iwl_link_quality_cmd *

@@ -1,0 +1,2 @@
+struct iio_dma_buffer_block | state int 
+function iio_dma_block_reusable int | block struct iio_dma_buffer_block *

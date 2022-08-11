@@ -1,0 +1,2 @@
+struct ad193x_priv | type int 
+function ad193x_has_adc int | ad193x const struct ad193x_priv *

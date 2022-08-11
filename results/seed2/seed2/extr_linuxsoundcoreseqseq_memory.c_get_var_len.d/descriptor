@@ -1,0 +1,4 @@
+struct TYPE_3__ | len int 
+struct TYPE_4__ | ext struct TYPE_3__ 
+struct snd_seq_event | flags int | data struct TYPE_4__ 
+function get_var_len int | event const struct snd_seq_event *

@@ -1,0 +1,6 @@
+struct TYPE_9__ | pix_order int 
+struct TYPE_6__ | enable int 
+struct TYPE_7__ | alaw struct TYPE_6__ 
+struct TYPE_8__ | config_params struct TYPE_7__ | pix_fmt int 
+struct TYPE_10__ | if_type long | ycbcr struct TYPE_9__ | bayer struct TYPE_8__ 
+function ccdc_set_pixel_format int | pixfmt long

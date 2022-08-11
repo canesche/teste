@@ -1,3 +1,0 @@
-struct sk_buff | dummy int 
-struct bnxt_tpa_info | dummy int 
-function bnxt_gro_func_5730x struct sk_buff * | tpa_info struct bnxt_tpa_info * | payload_off int | tcp_ts int | skb struct sk_buff *

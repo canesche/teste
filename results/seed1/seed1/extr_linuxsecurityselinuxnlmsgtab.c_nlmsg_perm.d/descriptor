@@ -1,0 +1,2 @@
+struct nlmsg_perm | nlmsg_type long | perm int 
+function nlmsg_perm int | nlmsg_type long | perm int * | tab const struct nlmsg_perm * | tabsize unsigned long

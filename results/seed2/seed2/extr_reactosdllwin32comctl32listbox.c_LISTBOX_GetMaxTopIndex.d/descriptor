@@ -1,0 +1,3 @@
+struct TYPE_5__ | style int | height unsigned long | nb_items int | width unsigned long | column_width unsigned long | page_size int | items struct TYPE_4__ * 
+struct TYPE_4__ | height long 
+function LISTBOX_GetMaxTopIndex unsigned long | descr const struct TYPE_5__ *

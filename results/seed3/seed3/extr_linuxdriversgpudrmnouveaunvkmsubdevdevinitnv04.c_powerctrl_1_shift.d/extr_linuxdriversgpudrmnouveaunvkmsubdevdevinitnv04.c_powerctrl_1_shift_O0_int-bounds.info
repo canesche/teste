@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmnouveaunvkmsubdevdevinitnv04.c_powerctrl_1_shift.d/extr_linuxdriversgpudrmnouveaunvkmsubdevdevinitnv04.c_powerctrl_1_shift_O0::powerctrl_1_shift(61)"
+  }
+]

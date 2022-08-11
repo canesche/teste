@@ -1,0 +1,6 @@
+struct TYPE_10__ | robustMxList struct TYPE_11__ * 
+struct TYPE_11__ | next struct TYPE_11__ * | prev struct TYPE_9__ * 
+struct TYPE_8__ | p struct TYPE_10__ * 
+struct TYPE_12__ | ownerThread struct TYPE_8__ | robustNode struct TYPE_11__ * 
+struct TYPE_9__ | next struct TYPE_11__ * 
+function ptw32_robust_mutex_remove void | mutex struct TYPE_12__ ** | otp struct TYPE_10__ *

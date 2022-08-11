@@ -1,2 +1,0 @@
-struct encode_state | parent int * | rchild int * | lchild int * 
-function delete_node void | sp struct encode_state * | p int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | Access int | NoBridge int | NoRouting int | MonitorPort int | MaxConnection int | TimeOut int | FixPassword int 
+function NormalizeLinkPolicy void | p struct TYPE_3__ *

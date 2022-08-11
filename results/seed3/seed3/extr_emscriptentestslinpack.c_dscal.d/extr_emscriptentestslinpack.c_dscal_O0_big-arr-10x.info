@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 162,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_emscriptentestslinpack.c_dscal.d/extr_emscriptentestslinpack.c_dscal_O0::dscal(66)"
+  }
+]

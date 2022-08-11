@@ -1,0 +1,3 @@
+struct __vxge_hw_ring | stats struct TYPE_2__ * 
+struct TYPE_2__ | rxd_t_code_err_cnt int * 
+function vxge_hw_ring_handle_tcode enum vxge_hw_status | ring struct __vxge_hw_ring * | rxdh void * | t_code unsigned long

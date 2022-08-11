@@ -1,0 +1,4 @@
+struct vega12_hwmgr | smu_features struct TYPE_2__ * 
+struct pp_hwmgr | backend long 
+struct TYPE_2__ | enabled int 
+function vega12_get_fan_control_mode int | hwmgr struct pp_hwmgr *

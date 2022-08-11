@@ -1,0 +1,2 @@
+struct mdp5_smp | blk_size int | pipe_reqprio_fifo_wm0 int * | pipe_reqprio_fifo_wm1 int * | pipe_reqprio_fifo_wm2 int * 
+function set_fifo_thresholds void | smp struct mdp5_smp * | pipe enum mdp5_pipe | nblks int

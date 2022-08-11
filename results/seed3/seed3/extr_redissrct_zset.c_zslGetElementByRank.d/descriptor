@@ -1,0 +1,4 @@
+struct TYPE_7__ | level struct TYPE_6__ * 
+struct TYPE_8__ | level int | header struct TYPE_7__ * 
+struct TYPE_6__ | span unsigned long | forward struct TYPE_7__ * 
+function zslGetElementByRank struct TYPE_7__ * | zsl struct TYPE_8__ * | rank unsigned long

@@ -1,0 +1,3 @@
+struct TYPE_2__ | IOCCapabilities int 
+struct MPT3SAS_ADAPTER | facts struct TYPE_2__ 
+function _ctl_diag_capability int | ioc struct MPT3SAS_ADAPTER * | buffer_type int

@@ -1,2 +1,0 @@
-struct notifier_block | dummy int 
-function panic_happened int | n struct notifier_block * | val unsigned long | v void *

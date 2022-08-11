@@ -1,4 +1,0 @@
-struct fb_cursorstate | mode int | yoffset int | xoffset int 
-struct TYPE_2__ | crsr_y int | crsr_x int 
-struct amifb_par | crsr struct TYPE_2__ 
-function ami_get_cursorstate int | state struct fb_cursorstate * | par const struct amifb_par *

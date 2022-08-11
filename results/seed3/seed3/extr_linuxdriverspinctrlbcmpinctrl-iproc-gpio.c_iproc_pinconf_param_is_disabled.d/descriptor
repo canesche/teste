@@ -1,0 +1,2 @@
+struct iproc_gpio | nr_pinconf_disable unsigned int | pinconf_disable int * 
+function iproc_pinconf_param_is_disabled int | chip struct iproc_gpio * | param enum pin_config_param

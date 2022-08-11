@@ -1,0 +1,2 @@
+struct TYPE_3__ | v_usecount int 
+function vnode_usecount int | vp struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct thread_info | vfpstate int 
+function vfp_state_in_hw int | cpu unsigned int | thread struct thread_info *

@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function int0002_gpio_set void | chip struct gpio_chip * | offset unsigned int | value int

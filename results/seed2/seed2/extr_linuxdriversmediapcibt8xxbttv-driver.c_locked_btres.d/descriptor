@@ -1,0 +1,2 @@
+struct bttv | resources int 
+function locked_btres int | btv struct bttv * | bit int

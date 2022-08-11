@@ -1,0 +1,2 @@
+struct TYPE_2__ | data_toggle int 
+function dwc_otg_hcd_endpoint_reset int | hcd int * | ep_handle void *

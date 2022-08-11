@@ -1,0 +1,4 @@
+struct mdp5_pipeline | intf struct mdp5_interface * 
+struct mdp5_interface | type int | mode int 
+struct mdp5_ctl | encoder_enabled int 
+function start_signal_needed int | ctl struct mdp5_ctl * | pipeline struct mdp5_pipeline *

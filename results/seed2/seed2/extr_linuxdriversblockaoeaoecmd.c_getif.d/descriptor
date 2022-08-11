@@ -1,0 +1,4 @@
+struct net_device | dummy int 
+struct aoetgt | ifs struct aoeif * 
+struct aoeif | nd struct net_device * 
+function getif struct aoeif * | t struct aoetgt * | nd struct net_device *

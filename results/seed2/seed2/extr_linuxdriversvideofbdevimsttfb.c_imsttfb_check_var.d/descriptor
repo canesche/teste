@@ -1,0 +1,8 @@
+struct TYPE_8__ | offset int | length int | msb_right long 
+struct TYPE_7__ | length int | msb_right long | offset int 
+struct TYPE_6__ | offset int | length int | msb_right long 
+struct TYPE_10__ | offset int | length int | msb_right long 
+struct fb_var_screeninfo | bits_per_pixel int | xres_virtual int | xres int | yres_virtual int | yres int | vmode int | height int | width int | left_margin int | right_margin int | upper_margin int | lower_margin int | hsync_len int | vsync_len int | transp struct TYPE_8__ | blue struct TYPE_7__ | green struct TYPE_6__ | red struct TYPE_10__ | nonstd long 
+struct TYPE_9__ | smem_len int 
+struct fb_info | fix struct TYPE_9__ 
+function imsttfb_check_var int | var struct fb_var_screeninfo * | info struct fb_info *

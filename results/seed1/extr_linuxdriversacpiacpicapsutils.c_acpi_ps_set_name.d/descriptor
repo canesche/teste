@@ -1,4 +1,0 @@
-struct TYPE_4__ | name int 
-struct TYPE_3__ | flags int 
-struct acpi_parse_object | named struct TYPE_4__ | common struct TYPE_3__ 
-function acpi_ps_set_name void | op union acpi_parse_object * | name int

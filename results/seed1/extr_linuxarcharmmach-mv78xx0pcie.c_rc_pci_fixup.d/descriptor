@@ -1,4 +1,0 @@
-struct pci_dev | devfn long | resource struct TYPE_4__ * | bus struct TYPE_3__ * 
-struct TYPE_4__ | flags long | end long | start long 
-struct TYPE_3__ | parent int * 
-function rc_pci_fixup void | dev struct pci_dev *

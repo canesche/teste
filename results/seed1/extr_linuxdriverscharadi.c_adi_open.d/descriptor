@@ -1,3 +1,0 @@
-struct inode | dummy int 
-struct file | f_mode int 
-function adi_open int | inode struct inode * | file struct file *

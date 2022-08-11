@@ -1,2 +1,0 @@
-struct module | dummy int 
-function module_arch_cleanup void | mod struct module *

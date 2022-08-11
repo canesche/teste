@@ -1,0 +1,2 @@
+struct Qdisc | dummy int 
+function multiq_unbind void | q struct Qdisc * | cl unsigned long

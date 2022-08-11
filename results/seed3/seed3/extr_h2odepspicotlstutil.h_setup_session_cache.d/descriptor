@@ -1,0 +1,4 @@
+struct TYPE_4__ | cb int 
+struct st_util_session_cache_t | super struct TYPE_4__ 
+struct TYPE_5__ | ticket_lifetime int | max_early_data_size int | encrypt_ticket struct TYPE_4__ * 
+function setup_session_cache void | ctx struct TYPE_5__ *

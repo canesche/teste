@@ -1,3 +1,0 @@
-struct irqaction | flags int 
-struct irq_desc | cond_suspend_depth int | no_suspend_depth int | force_resume_depth int | nr_actions int 
-function irq_pm_remove_action void | desc struct irq_desc * | action struct irqaction *

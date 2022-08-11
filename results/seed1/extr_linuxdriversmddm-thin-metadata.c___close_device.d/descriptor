@@ -1,2 +1,0 @@
-struct dm_thin_device | open_count int 
-function __close_device void | td struct dm_thin_device *

@@ -1,2 +1,0 @@
-struct sci_clk | dev_id long | clk_id long 
-function _cmp_sci_clk int | a const void * | b const void *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | cols int | rows int | vals float ** 
+struct TYPE_5__ | y struct TYPE_4__ 
+function smooth_data void | d struct TYPE_5__

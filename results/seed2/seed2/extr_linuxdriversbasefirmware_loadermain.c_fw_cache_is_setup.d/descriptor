@@ -1,0 +1,2 @@
+struct device | dummy int 
+function fw_cache_is_setup int | dev struct device * | name const char *

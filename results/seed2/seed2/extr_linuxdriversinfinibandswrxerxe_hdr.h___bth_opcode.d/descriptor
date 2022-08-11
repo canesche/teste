@@ -1,0 +1,2 @@
+struct rxe_bth | opcode int 
+function __bth_opcode int | arg void *

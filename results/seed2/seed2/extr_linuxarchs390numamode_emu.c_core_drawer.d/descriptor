@@ -1,0 +1,4 @@
+struct toptree | parent struct TYPE_4__ * 
+struct TYPE_4__ | parent struct TYPE_3__ * 
+struct TYPE_3__ | parent struct toptree * 
+function core_drawer struct toptree * | core struct toptree *

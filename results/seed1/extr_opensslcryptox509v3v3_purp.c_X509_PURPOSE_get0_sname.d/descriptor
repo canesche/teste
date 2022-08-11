@@ -1,2 +1,0 @@
-struct TYPE_3__ | sname char * 
-function X509_PURPOSE_get0_sname char * | xp const struct TYPE_3__ *

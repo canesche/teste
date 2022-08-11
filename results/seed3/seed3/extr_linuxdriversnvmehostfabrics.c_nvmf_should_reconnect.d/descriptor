@@ -1,0 +1,3 @@
+struct nvme_ctrl | nr_reconnects int | opts struct TYPE_2__ * 
+struct TYPE_2__ | max_reconnects int 
+function nvmf_should_reconnect int | ctrl struct nvme_ctrl *

@@ -1,0 +1,7 @@
+struct tb_path | path_length int | hops struct TYPE_10__ * 
+struct TYPE_10__ | out_port struct TYPE_9__ * | in_port struct TYPE_7__ * 
+struct TYPE_9__ | sw struct TYPE_8__ * 
+struct TYPE_8__ | is_unplugged long 
+struct TYPE_7__ | sw struct TYPE_6__ * 
+struct TYPE_6__ | is_unplugged long 
+function tb_path_is_invalid int | path struct tb_path *

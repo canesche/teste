@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function i2c_powermac_func int | adapter struct i2c_adapter *

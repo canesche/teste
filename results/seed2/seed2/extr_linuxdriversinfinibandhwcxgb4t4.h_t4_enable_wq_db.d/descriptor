@@ -1,0 +1,5 @@
+struct TYPE_6__ | size unsigned long | queue struct TYPE_5__ * 
+struct t4_wq | rq struct TYPE_6__ 
+struct TYPE_4__ | db_off long 
+struct TYPE_5__ | status struct TYPE_4__ 
+function t4_enable_wq_db void | wq struct t4_wq *

@@ -1,0 +1,4 @@
+struct TYPE_4__ | frontcluster int | clusterareanum long * 
+struct TYPE_5__ | numportals int | firstportal int | numareas int 
+struct TYPE_6__ | portalindex int * | portals struct TYPE_4__ * | clusters struct TYPE_5__ * 
+function AAS_NumberClusterPortals void | clusternum int

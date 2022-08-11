@@ -1,0 +1,1 @@
+value(CmdTableIdx) == 255, value(CmdTableSz) == 255, value(CmdID) == 255, value(Para1) == 255, value(Para2) == 255, value(msDelay) == 255, length(CmdTable) == 65025

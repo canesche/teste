@@ -1,0 +1,6 @@
+struct usb_serial_endpoints | dummy int 
+struct usb_serial | interface struct TYPE_6__ * 
+struct TYPE_6__ | cur_altsetting struct TYPE_5__ * 
+struct TYPE_4__ | bInterfaceNumber int | bNumEndpoints int 
+struct TYPE_5__ | desc struct TYPE_4__ 
+function sierra_calc_num_ports int | serial struct usb_serial * | epds struct usb_serial_endpoints *

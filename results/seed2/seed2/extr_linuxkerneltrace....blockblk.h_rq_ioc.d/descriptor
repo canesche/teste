@@ -1,0 +1,4 @@
+struct io_context | dummy int 
+struct bio | dummy int 
+struct TYPE_2__ | io_context struct io_context * 
+function rq_ioc struct io_context * | bio struct bio *

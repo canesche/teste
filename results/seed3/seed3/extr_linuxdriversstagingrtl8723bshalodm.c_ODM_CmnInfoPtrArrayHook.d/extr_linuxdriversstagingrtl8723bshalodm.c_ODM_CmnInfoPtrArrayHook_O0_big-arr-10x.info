@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversstagingrtl8723bshalodm.c_ODM_CmnInfoPtrArrayHook.d/extr_linuxdriversstagingrtl8723bshalodm.c_ODM_CmnInfoPtrArrayHook_O0::ODM_CmnInfoPtrArrayHook(72)"
+  }
+]

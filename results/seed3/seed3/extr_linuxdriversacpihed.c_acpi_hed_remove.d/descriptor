@@ -1,0 +1,2 @@
+struct acpi_device | dummy int 
+function acpi_hed_remove int | device struct acpi_device *

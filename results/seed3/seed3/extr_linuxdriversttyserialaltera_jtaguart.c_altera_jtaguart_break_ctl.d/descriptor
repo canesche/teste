@@ -1,0 +1,2 @@
+struct uart_port | dummy int 
+function altera_jtaguart_break_ctl void | port struct uart_port * | break_state int

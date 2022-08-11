@@ -1,0 +1,2 @@
+struct ath10k | dummy int 
+function ath10k_ce_base_address unsigned int | ar struct ath10k * | ce_id unsigned int

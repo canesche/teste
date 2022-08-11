@@ -1,0 +1,1 @@
+function ubi_check_pattern int | buf const void * | patt const long | size int

@@ -1,0 +1,3 @@
+struct vm_fault | dummy int 
+struct iomap_ops | dummy int 
+function dax_iomap_pmd_fault int | vmf struct vm_fault * | pfnp int * | ops const struct iomap_ops *

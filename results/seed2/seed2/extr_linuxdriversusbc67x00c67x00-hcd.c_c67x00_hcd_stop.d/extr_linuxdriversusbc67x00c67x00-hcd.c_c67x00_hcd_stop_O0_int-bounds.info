@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversusbc67x00c67x00-hcd.c_c67x00_hcd_stop.d/extr_linuxdriversusbc67x00c67x00-hcd.c_c67x00_hcd_stop_O0::c67x00_hcd_stop(61)"
+  }
+]

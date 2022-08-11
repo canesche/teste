@@ -1,0 +1,2 @@
+struct tipc_link | bc_sndlink int 
+function link_is_bc_sndlink int | l struct tipc_link *

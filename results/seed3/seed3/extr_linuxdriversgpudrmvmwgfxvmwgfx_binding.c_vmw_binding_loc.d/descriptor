@@ -1,0 +1,4 @@
+struct vmw_ctx_binding_state | dummy int 
+struct vmw_ctx_bindinfo | dummy int 
+struct vmw_binding_info | offsets unsigned long * | size unsigned long 
+function vmw_binding_loc struct vmw_ctx_bindinfo * | cbs struct vmw_ctx_binding_state * | bt enum vmw_ctx_binding_type | shader_slot unsigned long | slot unsigned long

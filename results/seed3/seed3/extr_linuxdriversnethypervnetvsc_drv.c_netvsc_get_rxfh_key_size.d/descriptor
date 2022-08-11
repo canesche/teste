@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function netvsc_get_rxfh_key_size int | dev struct net_device *

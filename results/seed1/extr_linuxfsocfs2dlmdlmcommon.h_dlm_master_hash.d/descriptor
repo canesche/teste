@@ -1,3 +1,0 @@
-struct hlist_head | dummy int 
-struct dlm_ctxt | master_hash struct hlist_head ** 
-function dlm_master_hash struct hlist_head * | dlm struct dlm_ctxt * | i unsigned int

@@ -1,2 +1,0 @@
-struct xgpio_instance | gpio_width int * 
-function xgpio_index int | chip struct xgpio_instance * | gpio int

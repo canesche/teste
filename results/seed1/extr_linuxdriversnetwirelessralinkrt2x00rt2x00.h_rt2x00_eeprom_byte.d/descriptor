@@ -1,2 +1,0 @@
-struct rt2x00_dev | eeprom long 
-function rt2x00_eeprom_byte int | rt2x00dev struct rt2x00_dev * | byte const unsigned int

@@ -1,0 +1,3 @@
+struct btrfs_free_space_ctl | free_extents long | extents_thresh long 
+struct btrfs_free_space | bytes int 
+function use_bitmap int | ctl struct btrfs_free_space_ctl * | info struct btrfs_free_space *

@@ -1,2 +1,0 @@
-struct btrfs_file_extent_item | dummy int 
-function btrfs_file_extent_inline_start unsigned long | e const struct btrfs_file_extent_item *

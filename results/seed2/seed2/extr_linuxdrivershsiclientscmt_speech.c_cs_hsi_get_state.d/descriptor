@@ -1,0 +1,2 @@
+struct cs_hsi_iface | iface_state unsigned int 
+function cs_hsi_get_state unsigned int | hi struct cs_hsi_iface *

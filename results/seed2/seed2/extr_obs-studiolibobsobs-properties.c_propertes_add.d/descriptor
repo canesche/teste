@@ -1,0 +1,3 @@
+struct obs_property | next struct obs_property * 
+struct obs_properties | last struct obs_property ** 
+function propertes_add void | props struct obs_properties * | p struct obs_property *

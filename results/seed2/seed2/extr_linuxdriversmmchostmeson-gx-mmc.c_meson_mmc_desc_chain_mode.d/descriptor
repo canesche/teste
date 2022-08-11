@@ -1,0 +1,2 @@
+struct mmc_data | host_cookie int 
+function meson_mmc_desc_chain_mode int | data const struct mmc_data *

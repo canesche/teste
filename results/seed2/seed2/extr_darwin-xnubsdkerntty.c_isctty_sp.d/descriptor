@@ -1,0 +1,4 @@
+struct tty | t_session struct session * 
+struct session | dummy int 
+struct TYPE_3__ | p_flag int 
+function isctty_sp int | p struct TYPE_3__ * | tp struct tty * | sessp struct session *

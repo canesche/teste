@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxsoundsocpxapxa2xx-i2s.c_pxa2xx_i2s_trigger.d/extr_linuxsoundsocpxapxa2xx-i2s.c_pxa2xx_i2s_trigger_O0::pxa2xx_i2s_trigger(76)"
+  }
+]

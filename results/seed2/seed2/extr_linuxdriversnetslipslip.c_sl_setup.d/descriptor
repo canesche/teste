@@ -1,0 +1,2 @@
+struct net_device | needs_free_netdev int | tx_queue_len int | min_mtu int | max_mtu int | flags int | addr_len long | hard_header_len long | priv_destructor int | netdev_ops int * 
+function sl_setup void | dev struct net_device *

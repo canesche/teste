@@ -1,0 +1,1 @@
+function i40e_virtchnl_link_speed enum virtchnl_link_speed | link_speed enum i40e_aq_link_speed

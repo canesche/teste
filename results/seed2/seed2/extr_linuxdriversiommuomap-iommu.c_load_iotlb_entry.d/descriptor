@@ -1,0 +1,3 @@
+struct omap_iommu | dummy int 
+struct iotlb_entry | dummy int 
+function load_iotlb_entry int | obj struct omap_iommu * | e struct iotlb_entry *

@@ -1,0 +1,5 @@
+struct MR_LD_RAID | dummy int 
+struct TYPE_4__ | ldSpanMap struct TYPE_3__ * 
+struct MR_DRV_RAID_MAP_ALL | raidMap struct TYPE_4__ 
+struct TYPE_3__ | ldRaid struct MR_LD_RAID 
+function MR_LdRaidGet struct MR_LD_RAID * | ld unsigned long | map struct MR_DRV_RAID_MAP_ALL *

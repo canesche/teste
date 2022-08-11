@@ -1,0 +1,2 @@
+struct bfa_plog_rec_s | log_type long | log_num_ints long 
+function plkd_validate_logrec int | pl_rec struct bfa_plog_rec_s *

@@ -1,2 +1,0 @@
-struct snd_soc_component | dummy int 
-function wm8962_init_gpio void | component struct snd_soc_component *

@@ -1,0 +1,5 @@
+struct vm_area_struct | vm_pgoff unsigned long | vm_private_data struct tcmu_dev * 
+struct uio_info | mem struct TYPE_2__ * 
+struct tcmu_dev | uio_info struct uio_info 
+struct TYPE_2__ | size long 
+function tcmu_find_mem_index int | vma struct vm_area_struct *

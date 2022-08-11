@@ -1,3 +1,0 @@
-struct hwspinlock | bank struct TYPE_2__ * 
-struct TYPE_2__ | base_id int | lock struct hwspinlock * 
-function hwlock_to_id int | hwlock struct hwspinlock *

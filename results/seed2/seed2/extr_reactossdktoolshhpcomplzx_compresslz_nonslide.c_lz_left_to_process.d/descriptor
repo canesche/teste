@@ -1,0 +1,2 @@
+struct TYPE_3__ | chars_in_buf int | block_loc int 
+function lz_left_to_process int | lzi struct TYPE_3__ *

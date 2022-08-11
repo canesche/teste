@@ -1,0 +1,2 @@
+struct TYPE_2__ | addresses int * 
+function valid_address_for_chip int | chip_type int | address int

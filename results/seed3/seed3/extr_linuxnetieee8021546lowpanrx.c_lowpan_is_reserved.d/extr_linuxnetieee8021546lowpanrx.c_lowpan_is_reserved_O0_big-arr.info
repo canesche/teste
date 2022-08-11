@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 10,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxnetieee8021546lowpanrx.c_lowpan_is_reserved.d/extr_linuxnetieee8021546lowpanrx.c_lowpan_is_reserved_O0::lowpan_is_reserved(61)"
+  }
+]

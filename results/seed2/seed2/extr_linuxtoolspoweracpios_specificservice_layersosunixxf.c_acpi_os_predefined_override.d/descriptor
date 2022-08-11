@@ -1,0 +1,2 @@
+struct acpi_predefined_names | dummy int 
+function acpi_os_predefined_override int | init_val const struct acpi_predefined_names * | new_val int **

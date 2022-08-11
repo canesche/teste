@@ -1,0 +1,3 @@
+struct TYPE_2__ | unknown int | delay_tx int | dump_tx int | response int | bad_crc32 int | scd_query int | last_sent_bt_kill int | last_sent_try int | last_sent_ttl int | abort int | few_bytes int | bt_prio int | underrun int 
+struct iwl_priv | reply_agg_tx_stats struct TYPE_2__ 
+function iwlagn_count_agg_tx_err_status void | priv struct iwl_priv * | status int

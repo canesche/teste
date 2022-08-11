@@ -1,0 +1,2 @@
+struct obs_context_data | data void * 
+function obs_obj_get_data void * | obj void *

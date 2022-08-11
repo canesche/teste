@@ -1,2 +1,0 @@
-struct device | type int * 
-function tb_is_switch int | dev const struct device *

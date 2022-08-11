@@ -1,0 +1,2 @@
+struct pcpu_chunk | dummy int 
+function pcpu_populate_chunk int | chunk struct pcpu_chunk * | page_start int | page_end int | gfp int

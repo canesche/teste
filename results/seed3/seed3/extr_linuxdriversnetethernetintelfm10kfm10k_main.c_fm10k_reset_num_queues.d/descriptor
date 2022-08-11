@@ -1,0 +1,2 @@
+struct fm10k_intfc | num_q_vectors long | num_rx_queues long | num_tx_queues long 
+function fm10k_reset_num_queues void | interface struct fm10k_intfc *

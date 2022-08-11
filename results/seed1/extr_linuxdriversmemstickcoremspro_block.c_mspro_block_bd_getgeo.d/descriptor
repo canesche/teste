@@ -1,5 +1,0 @@
-struct mspro_block_data | cylinders int | sectors_per_track int | heads int 
-struct hd_geometry | cylinders int | sectors int | heads int 
-struct block_device | bd_disk struct TYPE_2__ * 
-struct TYPE_2__ | private_data struct mspro_block_data * 
-function mspro_block_bd_getgeo int | bdev struct block_device * | geo struct hd_geometry *

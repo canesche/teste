@@ -1,0 +1,5 @@
+struct matrox_pll_limits | vcomin unsigned int 
+struct TYPE_3__ | ref_freq unsigned int 
+struct TYPE_4__ | pll struct TYPE_3__ 
+struct matrox_fb_info | features struct TYPE_4__ 
+function g450_nextpll unsigned int | minfo const struct matrox_fb_info * | pi const struct matrox_pll_limits * | fvco unsigned int * | mnp unsigned int

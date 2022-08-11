@@ -1,0 +1,2 @@
+struct TYPE_3__ | get_by_issuer_serial int 
+function X509_LOOKUP_meth_set_get_by_issuer_serial int | method struct TYPE_3__ * | get_by_issuer_serial int

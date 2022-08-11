@@ -1,0 +1,4 @@
+struct psmouse | packet unsigned char * | private struct elantech_data * 
+struct TYPE_2__ | fw_version int | samples int * | crc_enabled long 
+struct elantech_data | info struct TYPE_2__ | tp_dev long 
+function elantech_packet_check_v4 int | psmouse struct psmouse *

@@ -1,0 +1,4 @@
+struct kobject | dummy int 
+struct TYPE_2__ | kobj struct kobject 
+struct nvdimm | dev struct TYPE_2__ 
+function nvdimm_kobj struct kobject * | nvdimm struct nvdimm *

@@ -1,2 +1,0 @@
-struct stm_fs | ndiv int 
-function clk_fs660c32_vco_get_rate int | input unsigned long | fs struct stm_fs * | rate unsigned long *

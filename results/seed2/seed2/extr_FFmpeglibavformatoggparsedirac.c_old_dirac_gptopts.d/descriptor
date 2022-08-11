@@ -1,0 +1,4 @@
+struct ogg_stream | pflags int 
+struct ogg | streams struct ogg_stream * 
+struct TYPE_3__ | priv_data struct ogg * 
+function old_dirac_gptopts int | s struct TYPE_3__ * | idx int | gp int | dts int *

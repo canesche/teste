@@ -1,0 +1,2 @@
+struct qman_portal | dummy int 
+function qman_get_affine_portal struct qman_portal * | cpu int

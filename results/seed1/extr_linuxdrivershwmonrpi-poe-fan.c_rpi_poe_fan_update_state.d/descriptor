@@ -1,2 +1,0 @@
-struct rpi_poe_fan_ctx | rpi_poe_fan_max_state int | rpi_poe_fan_cooling_levels unsigned long * | rpi_poe_fan_state int 
-function rpi_poe_fan_update_state void | ctx struct rpi_poe_fan_ctx * | pwm unsigned long

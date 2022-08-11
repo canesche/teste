@@ -1,0 +1,1 @@
+function weighted_vector_sumd void | out double * | in_a const double * | in_b const double * | weight_coeff_a double | weight_coeff_b double | length int

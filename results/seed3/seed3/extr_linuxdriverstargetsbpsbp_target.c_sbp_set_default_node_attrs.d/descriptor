@@ -1,0 +1,2 @@
+struct se_node_acl | dummy int 
+function sbp_set_default_node_attrs void | nacl struct se_node_acl *

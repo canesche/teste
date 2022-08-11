@@ -1,0 +1,7 @@
+struct TYPE_6__ | base long | offset long 
+struct insn_state | stack_size long | regs struct TYPE_8__ * | drap long | cfa struct TYPE_6__ 
+struct TYPE_7__ | base long | offset long 
+struct TYPE_10__ | regs struct TYPE_9__ * | cfa struct TYPE_7__ 
+struct TYPE_9__ | base long | offset long 
+struct TYPE_8__ | base long | offset long 
+function has_modified_stack_frame int | state struct insn_state *

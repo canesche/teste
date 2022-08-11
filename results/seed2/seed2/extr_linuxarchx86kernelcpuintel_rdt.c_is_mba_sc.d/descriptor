@@ -1,0 +1,5 @@
+struct TYPE_5__ | mba_sc int 
+struct rdt_resource | membw struct TYPE_5__ 
+struct TYPE_4__ | mba_sc int 
+struct TYPE_6__ | membw struct TYPE_4__ 
+function is_mba_sc int | r struct rdt_resource *

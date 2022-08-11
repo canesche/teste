@@ -1,0 +1,7 @@
+struct TYPE_2__ | iov_len long 
+struct xdr_stream | page_ptr int | scratch struct TYPE_2__ | end long | p long | iov struct kvec * | buf struct xdr_buf * 
+struct xdr_buf | pages int | buflen long | head struct kvec * | len long 
+struct svc_rqst | rq_page_end int | rq_auth_slack long | rq_res struct xdr_buf 
+struct nfsd4_compoundres | xdr struct xdr_stream 
+struct kvec | iov_len long | iov_base long 
+function svcxdr_init_encode void | rqstp struct svc_rqst * | resp struct nfsd4_compoundres *

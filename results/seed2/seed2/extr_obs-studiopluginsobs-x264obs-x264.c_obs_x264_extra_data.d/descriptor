@@ -1,0 +1,2 @@
+struct obs_x264 | extra_data_size unsigned long | extra_data int * | context int 
+function obs_x264_extra_data int | data void * | extra_data int ** | size unsigned long *

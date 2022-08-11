@@ -1,3 +1,0 @@
-struct TYPE_5__ | frame struct TYPE_4__ * 
-struct TYPE_4__ | linesize int * | data int ** 
-function mp_get_yuv_from_rgb int | mp struct TYPE_5__ * | x int | y int

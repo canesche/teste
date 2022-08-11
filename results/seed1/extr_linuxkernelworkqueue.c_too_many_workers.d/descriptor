@@ -1,2 +1,0 @@
-struct worker_pool | flags int | nr_idle int | nr_workers int 
-function too_many_workers int | pool struct worker_pool *

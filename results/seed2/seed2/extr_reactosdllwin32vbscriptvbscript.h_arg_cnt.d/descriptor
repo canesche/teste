@@ -1,0 +1,2 @@
+struct TYPE_3__ | cArgs int | cNamedArgs int 
+function arg_cnt unsigned int | dp const struct TYPE_3__ *

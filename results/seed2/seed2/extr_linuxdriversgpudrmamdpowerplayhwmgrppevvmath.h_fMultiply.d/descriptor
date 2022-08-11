@@ -1,0 +1,3 @@
+struct TYPE_6__ | real long | decimal long 
+struct TYPE_7__ | full long | partial struct TYPE_6__ 
+function fMultiply struct TYPE_7__ | X struct TYPE_7__ | Y struct TYPE_7__

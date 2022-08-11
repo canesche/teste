@@ -1,0 +1,3 @@
+struct vml_info | num_areas unsigned int | vram_start unsigned long | vram struct TYPE_2__ * 
+struct TYPE_2__ | phys unsigned long | size unsigned long 
+function vmlfb_vram_offset int | vinfo struct vml_info * | offset unsigned long

@@ -1,0 +1,2 @@
+struct b53_device | dummy int 
+function is63xx int | dev struct b53_device *

@@ -1,0 +1,4 @@
+struct TYPE_3__ | ci_name long 
+struct TYPE_4__ | cg_item struct TYPE_3__ 
+struct stp_policy_node | group struct TYPE_4__ 
+function stp_policy_node_name char * | policy_node struct stp_policy_node *

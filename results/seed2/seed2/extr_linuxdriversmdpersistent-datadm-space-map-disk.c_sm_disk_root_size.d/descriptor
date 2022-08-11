@@ -1,0 +1,3 @@
+struct dm_space_map | dummy int 
+struct disk_sm_root | dummy int 
+function sm_disk_root_size int | sm struct dm_space_map * | result unsigned long *

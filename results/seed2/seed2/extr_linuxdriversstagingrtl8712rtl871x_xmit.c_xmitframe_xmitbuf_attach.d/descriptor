@@ -1,0 +1,3 @@
+struct xmit_frame | buf_addr int | pxmit_urb int * | pxmitbuf struct xmit_buf * 
+struct xmit_buf | priv_data struct xmit_frame * | pbuf int | pxmit_urb int * 
+function xmitframe_xmitbuf_attach void | pxmitframe struct xmit_frame * | pxmitbuf struct xmit_buf *

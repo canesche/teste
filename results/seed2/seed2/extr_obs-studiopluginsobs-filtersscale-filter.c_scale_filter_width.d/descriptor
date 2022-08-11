@@ -1,0 +1,2 @@
+struct scale_filter_data | cx_out int 
+function scale_filter_width int | data void *

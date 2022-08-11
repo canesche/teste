@@ -1,0 +1,2 @@
+struct clist | c_cf int * | c_cc long | c_ce int * | c_cs int * | c_cq long * 
+function nextc int * | clp struct clist * | cp int * | c int *

@@ -1,2 +1,0 @@
-struct tcpc_dev | pd_transmit int | start_drp_toggling int | set_roles int | set_pd_rx int | set_vbus int | set_vconn int | set_polarity int | get_cc int | set_cc int | get_current_limit int | get_vbus int | init int 
-function init_tcpc_dev void | fusb302_tcpc_dev struct tcpc_dev *

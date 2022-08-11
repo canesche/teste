@@ -1,0 +1,4 @@
+struct ubifs_nnode | nbranch struct TYPE_2__ * 
+struct ubifs_info | lpt_hght int | nroot struct ubifs_nnode * 
+struct TYPE_2__ | nnode struct ubifs_nnode * 
+function first_nnode struct ubifs_nnode * | c struct ubifs_info * | hght int *

@@ -1,0 +1,2 @@
+struct sierra_iface_info | ifaceinfo long * | infolen int 
+function is_blacklisted int | ifnum const long | blacklist const struct sierra_iface_info *

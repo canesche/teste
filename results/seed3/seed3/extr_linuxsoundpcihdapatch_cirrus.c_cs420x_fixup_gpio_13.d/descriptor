@@ -1,0 +1,4 @@
+struct hda_fixup | dummy int 
+struct hda_codec | spec struct cs_spec * 
+struct cs_spec | gpio_eapd_hp int | gpio_eapd_speaker int | gpio_mask int | gpio_dir int 
+function cs420x_fixup_gpio_13 void | codec struct hda_codec * | fix const struct hda_fixup * | action int

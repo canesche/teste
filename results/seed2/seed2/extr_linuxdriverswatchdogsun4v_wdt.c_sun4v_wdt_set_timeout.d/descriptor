@@ -1,0 +1,2 @@
+struct watchdog_device | timeout unsigned int 
+function sun4v_wdt_set_timeout int | wdd struct watchdog_device * | timeout unsigned int

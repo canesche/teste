@@ -1,0 +1,3 @@
+struct mt2266_priv | bandwidth int 
+struct dvb_frontend | tuner_priv struct mt2266_priv * 
+function mt2266_get_bandwidth int | fe struct dvb_frontend * | bandwidth int *

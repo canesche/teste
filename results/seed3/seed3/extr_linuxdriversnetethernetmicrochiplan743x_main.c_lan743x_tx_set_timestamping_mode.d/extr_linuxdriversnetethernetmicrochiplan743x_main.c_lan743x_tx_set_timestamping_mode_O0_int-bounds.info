@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetethernetmicrochiplan743x_main.c_lan743x_tx_set_timestamping_mode.d/extr_linuxdriversnetethernetmicrochiplan743x_main.c_lan743x_tx_set_timestamping_mode_O0::lan743x_tx_set_timestamping_mode(65)"
+  }
+]

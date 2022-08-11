@@ -1,0 +1,6 @@
+struct isci_remote_device | isci_port struct TYPE_6__ * 
+struct device | dummy int 
+struct TYPE_6__ | isci_host struct TYPE_5__ * 
+struct TYPE_5__ | pdev struct TYPE_4__ * 
+struct TYPE_4__ | dev struct device 
+function scirdev_to_dev struct device * | idev struct isci_remote_device *

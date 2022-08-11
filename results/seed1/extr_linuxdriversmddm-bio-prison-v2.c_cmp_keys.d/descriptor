@@ -1,2 +1,0 @@
-struct dm_cell_key_v2 | virtual long | dev long | block_end long | block_begin long 
-function cmp_keys int | lhs struct dm_cell_key_v2 * | rhs struct dm_cell_key_v2 *

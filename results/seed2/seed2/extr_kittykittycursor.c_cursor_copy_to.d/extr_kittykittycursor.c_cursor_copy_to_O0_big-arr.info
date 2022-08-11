@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 58,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 58,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_kittykittycursor.c_cursor_copy_to.d/extr_kittykittycursor.c_cursor_copy_to_O0::cursor_copy_to(62)"
+  }
+]

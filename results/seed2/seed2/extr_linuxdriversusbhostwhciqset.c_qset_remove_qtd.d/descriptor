@@ -1,0 +1,4 @@
+struct whc_qset | td_start unsigned long | ntds int | qtd struct TYPE_2__ * 
+struct whc | dummy int 
+struct TYPE_2__ | status long 
+function qset_remove_qtd void | whc struct whc * | qset struct whc_qset *

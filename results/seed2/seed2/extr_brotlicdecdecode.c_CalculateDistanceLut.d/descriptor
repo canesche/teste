@@ -1,0 +1,5 @@
+struct TYPE_7__ | alphabet_size_limit unsigned int 
+struct TYPE_8__ | dist_offset unsigned int * | dist_extra_bits long * 
+struct TYPE_6__ | body struct TYPE_8__ 
+struct TYPE_9__ | distance_postfix_bits unsigned int | num_direct_distance_codes unsigned int | distance_hgroup struct TYPE_7__ | arena struct TYPE_6__ 
+function CalculateDistanceLut void | s struct TYPE_9__ *

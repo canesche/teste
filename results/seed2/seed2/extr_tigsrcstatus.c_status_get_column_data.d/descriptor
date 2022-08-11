@@ -1,0 +1,9 @@
+struct view_column_data | file_name int | status int * | section struct view_column * 
+struct TYPE_4__ | text const char * | type int 
+struct TYPE_5__ | section struct TYPE_4__ 
+struct view_column | opt struct TYPE_5__ | type int 
+struct view | line const struct line * 
+struct TYPE_6__ | name int 
+struct status | new struct TYPE_6__ | status int 
+struct line | type int | data struct status * 
+function status_get_column_data int | view struct view * | line const struct line * | column_data struct view_column_data *

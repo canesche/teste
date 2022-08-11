@@ -1,0 +1,5 @@
+struct kv_power_info | dummy int 
+struct TYPE_3__ | priv struct kv_power_info * 
+struct TYPE_4__ | dpm struct TYPE_3__ 
+struct amdgpu_device | pm struct TYPE_4__ 
+function kv_get_pi struct kv_power_info * | adev struct amdgpu_device *

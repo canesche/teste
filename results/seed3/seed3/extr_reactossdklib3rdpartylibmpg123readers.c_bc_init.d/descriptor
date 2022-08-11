@@ -1,0 +1,2 @@
+struct bufferchain | fileoff long | firstpos long | pos long | size long | first int * | last int * 
+function bc_init void | bc struct bufferchain *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | name const char * | chip_id int 
+function get_chip_name const char * | chip_id enum chip_type

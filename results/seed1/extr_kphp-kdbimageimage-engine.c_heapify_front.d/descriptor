@@ -1,2 +1,0 @@
-struct forth_request | priority long 
-function heapify_front void | E struct forth_request * | i int

@@ -1,0 +1,1 @@
+function setvbuf int | stream int * | buf char * | mode int | size unsigned long

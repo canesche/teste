@@ -1,0 +1,1 @@
+function _glfwPlatformCreateCursor int | cursor int * | image const int * | xhot int | yhot int | count int

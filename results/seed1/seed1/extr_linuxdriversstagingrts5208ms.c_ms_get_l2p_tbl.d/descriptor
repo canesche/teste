@@ -1,0 +1,4 @@
+struct zone_entry | l2p_table int * 
+struct ms_info | segment struct zone_entry * 
+struct rtsx_chip | ms_card struct ms_info 
+function ms_get_l2p_tbl int | chip struct rtsx_chip * | seg_no int | log_off int

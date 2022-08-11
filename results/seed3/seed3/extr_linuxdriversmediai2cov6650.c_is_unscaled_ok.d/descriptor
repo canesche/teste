@@ -1,0 +1,2 @@
+struct v4l2_rect | width int | height int 
+function is_unscaled_ok int | width int | height int | rect struct v4l2_rect *

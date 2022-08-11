@@ -1,0 +1,3 @@
+struct TYPE_5__ | size int 
+struct TYPE_4__ | type unsigned long 
+function av_hash_get_size int | ctx const struct TYPE_4__ *

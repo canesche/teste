@@ -1,3 +1,0 @@
-struct TYPE_2__ | size int * 
-struct octeon_sg_entry | u struct TYPE_2__ 
-function add_sg_size void | sg_entry struct octeon_sg_entry * | size int | pos int

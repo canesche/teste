@@ -1,0 +1,3 @@
+struct TYPE_5__ | flags int | nb_components int | comp struct TYPE_4__ * 
+struct TYPE_4__ | depth long | offset long | shift long | plane int 
+function is_planar_yuv int | desc const struct TYPE_5__ *

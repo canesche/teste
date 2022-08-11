@@ -1,2 +1,0 @@
-struct TYPE_3__ | dictSize unsigned long 
-function ZSTD_DDictDictSize unsigned long | ddict const struct TYPE_3__ *

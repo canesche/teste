@@ -1,0 +1,2 @@
+struct TYPE_3__ | wFormatTag int | nChannels int | wBitsPerSample int | nSamplesPerSec int | nBlockAlign int | nAvgBytesPerSec int | cbSize long 
+function init_format void | wfx struct TYPE_3__ * | format int | rate int | depth int | channels int

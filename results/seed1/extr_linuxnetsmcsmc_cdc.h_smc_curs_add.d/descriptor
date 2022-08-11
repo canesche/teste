@@ -1,2 +1,0 @@
-struct smc_host_cursor | count int | wrap int 
-function smc_curs_add void | size int | curs union smc_host_cursor * | value int

@@ -1,2 +1,0 @@
-struct fb_info | dummy int 
-function efifb_show_boot_graphics void | info struct fb_info *

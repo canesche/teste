@@ -1,0 +1,4 @@
+struct xhci_td | start_seg struct xhci_segment * 
+struct xhci_segment | next struct xhci_segment * 
+struct xhci_ring | first_seg struct xhci_segment * 
+function td_on_ring int | td struct xhci_td * | ring struct xhci_ring *

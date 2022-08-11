@@ -1,0 +1,3 @@
+struct TYPE_4__ | inst_metric struct TYPE_3__ * 
+struct TYPE_3__ | samples long * 
+function getInstantaneousMetric long long | metric int

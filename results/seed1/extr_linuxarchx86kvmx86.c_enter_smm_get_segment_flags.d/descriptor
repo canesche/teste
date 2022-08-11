@@ -1,2 +1,0 @@
-struct kvm_segment | g int | db int | l int | avl int | present int | dpl int | s int | type int 
-function enter_smm_get_segment_flags int | seg struct kvm_segment *

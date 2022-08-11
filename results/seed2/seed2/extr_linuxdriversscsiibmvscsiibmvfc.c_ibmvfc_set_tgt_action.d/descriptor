@@ -1,0 +1,2 @@
+struct ibmvfc_target | action int | add_rport int 
+function ibmvfc_set_tgt_action void | tgt struct ibmvfc_target * | action enum ibmvfc_target_action

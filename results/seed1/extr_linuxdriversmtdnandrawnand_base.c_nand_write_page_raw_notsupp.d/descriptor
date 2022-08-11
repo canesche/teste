@@ -1,3 +1,0 @@
-struct nand_chip | dummy int 
-struct mtd_info | dummy int 
-function nand_write_page_raw_notsupp int | mtd struct mtd_info * | chip struct nand_chip * | buf const int * | oob_required int | page int

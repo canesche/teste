@@ -1,3 +1,0 @@
-struct rtc_time | tm_isdst long | tm_sec int | tm_min int | tm_hour int | tm_mday int | tm_mon long | tm_year long 
-struct TYPE_3__ | timezone int | daylight int | nanosecond long | second int | minute int | hour int | day int | month long | year long 
-function convert_to_efi_time void | wtime struct rtc_time * | eft struct TYPE_3__ *

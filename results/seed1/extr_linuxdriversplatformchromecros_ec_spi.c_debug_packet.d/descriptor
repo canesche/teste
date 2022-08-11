@@ -1,2 +1,0 @@
-struct device | dummy int 
-function debug_packet void | dev struct device * | name const char * | ptr int * | len int

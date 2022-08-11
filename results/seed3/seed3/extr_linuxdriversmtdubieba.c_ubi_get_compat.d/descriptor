@@ -1,0 +1,2 @@
+struct ubi_device | dummy int 
+function ubi_get_compat int | ubi const struct ubi_device * | vol_id int

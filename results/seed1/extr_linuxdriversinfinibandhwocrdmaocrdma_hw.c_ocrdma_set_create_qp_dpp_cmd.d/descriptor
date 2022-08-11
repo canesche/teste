@@ -1,4 +1,0 @@
-struct ocrdma_qp | dpp_enabled int 
-struct ocrdma_pd | num_dpp_qp int 
-struct ocrdma_create_qp_req | dpp_credits_cqid int | max_sge_recv_flags int 
-function ocrdma_set_create_qp_dpp_cmd void | cmd struct ocrdma_create_qp_req * | pd struct ocrdma_pd * | qp struct ocrdma_qp * | enable_dpp_cq int | dpp_cq_id int

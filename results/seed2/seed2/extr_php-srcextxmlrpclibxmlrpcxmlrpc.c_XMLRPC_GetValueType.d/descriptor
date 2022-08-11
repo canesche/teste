@@ -1,0 +1,2 @@
+struct TYPE_3__ | type int 
+function XMLRPC_GetValueType int | value struct TYPE_3__ *

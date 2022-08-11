@@ -1,0 +1,2 @@
+struct TYPE_2__ | off long | logs long | open_file_cache int * | open_file_cache_min_uses int | open_file_cache_valid int 
+function ngx_stream_log_merge_srv_conf char * | cf int * | parent void * | child void *

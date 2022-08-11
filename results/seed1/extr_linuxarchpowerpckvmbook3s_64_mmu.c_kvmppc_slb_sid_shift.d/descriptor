@@ -1,2 +1,0 @@
-struct kvmppc_slb | tb long 
-function kvmppc_slb_sid_shift int | slbe struct kvmppc_slb *

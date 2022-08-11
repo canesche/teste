@@ -1,0 +1,4 @@
+struct snd_pcm_substream | dummy int 
+struct azx_dev | dummy int 
+struct azx | dummy int 
+function mark_runtime_wc void | chip struct azx * | azx_dev struct azx_dev * | substream struct snd_pcm_substream * | on int

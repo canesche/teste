@@ -1,0 +1,2 @@
+struct irq_entry | fd int | next struct irq_entry * 
+function get_irq_entry_by_fd struct irq_entry * | fd int

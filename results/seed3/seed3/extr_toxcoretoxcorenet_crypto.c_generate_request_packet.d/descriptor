@@ -1,0 +1,2 @@
+struct TYPE_3__ | buffer_start long | buffer_end long | buffer int * 
+function generate_request_packet int | data unsigned long * | length int | recv_array const struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct comedi_subdevice | subdev_flags int 
+function comedi_sample_shift unsigned int | s struct comedi_subdevice *

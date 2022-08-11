@@ -1,0 +1,3 @@
+struct TYPE_5__ | pass long | slice int | index int 
+struct TYPE_6__ | segment_length int | lane_length int 
+function index_alpha int | instance const struct TYPE_6__ * | position const struct TYPE_5__ * | pseudo_rand int | same_lane int

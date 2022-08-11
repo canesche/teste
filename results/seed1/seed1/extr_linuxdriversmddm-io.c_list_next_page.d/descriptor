@@ -1,0 +1,3 @@
+struct page_list | next long 
+struct dpages | context_u long | context_ptr long 
+function list_next_page void | dp struct dpages *

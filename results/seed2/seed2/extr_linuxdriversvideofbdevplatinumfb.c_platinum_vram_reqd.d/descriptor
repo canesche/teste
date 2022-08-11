@@ -1,0 +1,2 @@
+struct TYPE_2__ | hres int | vres int 
+function platinum_vram_reqd int | video_mode int | color_mode int

@@ -1,0 +1,2 @@
+struct dyn_ftrace | dummy int 
+function ftrace_modify_call int | rec struct dyn_ftrace * | old_addr unsigned long | addr unsigned long

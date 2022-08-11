@@ -1,0 +1,2 @@
+struct ata_queued_cmd | dummy int 
+function pdc_old_sata_check_atapi_dma int | qc struct ata_queued_cmd *

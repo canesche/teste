@@ -1,2 +1,0 @@
-struct hashset_int | size unsigned int | h int * 
-function hashset_int_get int | H struct hashset_int * | id int

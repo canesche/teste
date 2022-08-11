@@ -1,0 +1,9 @@
+struct TYPE_12__ | slow_candidates int 
+struct TYPE_13__ | attack_kern long 
+struct TYPE_14__ | kernel_rules_cnt long 
+struct TYPE_15__ | il_pos long | gidvid long 
+struct TYPE_16__ | bfs_cnt long 
+struct TYPE_17__ | innerloop_pos const long | words_off long 
+struct TYPE_18__ | user_options_extra struct TYPE_13__ * | user_options struct TYPE_12__ * | straight_ctx struct TYPE_14__ * | mask_ctx struct TYPE_16__ * | combinator_ctx struct TYPE_19__ * 
+struct TYPE_19__ | combs_cnt long 
+function build_crackpos int | hashcat_ctx struct TYPE_18__ * | device_param struct TYPE_17__ * | plain struct TYPE_15__ * | out_pos long *

@@ -1,0 +1,2 @@
+struct vc_data | dummy int 
+function vgacon_flush_scrollback void | c struct vc_data *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 8,
+    exit: true,
+    halt: false,
+    edges: 22,
+    static: {
+      instructions: 158,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 158,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversttyserialsunzilog.c_sunzilog_convert_to_zs.d/extr_linuxdriversttyserialsunzilog.c_sunzilog_convert_to_zs_O0::sunzilog_convert_to_zs(112)"
+  }
+]

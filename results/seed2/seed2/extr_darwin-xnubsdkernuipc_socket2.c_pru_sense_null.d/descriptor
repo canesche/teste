@@ -1,0 +1,5 @@
+struct stat64 | st_blksize int 
+struct stat | st_blksize int 
+struct TYPE_2__ | sb_hiwat int 
+struct socket | so_snd struct TYPE_2__ 
+function pru_sense_null int | so struct socket * | ub void * | isstat64 int

@@ -1,0 +1,2 @@
+struct wlandevice | dummy int 
+function prism2sta_open int | wlandev struct wlandevice *

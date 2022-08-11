@@ -1,2 +1,0 @@
-struct dasd_profile | dummy int 
-function dasd_profile_on int | profile struct dasd_profile *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 10,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 62,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23138,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_darknetsrcgemm.c_gemm_tn.d/extr_darknetsrcgemm.c_gemm_tn_O0::gemm_tn(63)"
+  }
+]

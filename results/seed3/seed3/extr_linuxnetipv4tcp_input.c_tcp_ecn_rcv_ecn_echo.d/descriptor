@@ -1,0 +1,3 @@
+struct tcphdr | syn int | ece long 
+struct tcp_sock | ecn_flags int 
+function tcp_ecn_rcv_ecn_echo int | tp const struct tcp_sock * | th const struct tcphdr *

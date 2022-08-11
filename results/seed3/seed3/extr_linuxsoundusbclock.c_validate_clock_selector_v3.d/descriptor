@@ -1,0 +1,2 @@
+struct uac3_clock_selector_descriptor | bLength int | bClockID int | bNrInPins int 
+function validate_clock_selector_v3 int | p void * | id int

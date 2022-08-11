@@ -1,0 +1,2 @@
+struct tipc_link | name char * 
+function tipc_link_name char * | l struct tipc_link *

@@ -1,0 +1,2 @@
+struct auditctl_args | dummy int 
+function auditctl int | p int | uap struct auditctl_args * | retval int *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | dwServiceType int 
+struct TYPE_5__ | dwTag int | Status struct TYPE_4__ 
+function ScmGenerateServiceTag int | lpServiceRecord struct TYPE_5__ *

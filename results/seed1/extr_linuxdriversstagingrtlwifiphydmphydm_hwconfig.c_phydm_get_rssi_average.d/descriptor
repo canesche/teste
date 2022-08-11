@@ -1,3 +1,0 @@
-struct phy_dm_struct | rssi_a long | rssi_b long 
-struct dm_phy_status_info | rx_mimo_signal_strength long * 
-function phydm_get_rssi_average int | dm struct phy_dm_struct * | phy_info struct dm_phy_status_info *

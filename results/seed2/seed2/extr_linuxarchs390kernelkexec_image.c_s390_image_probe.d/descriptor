@@ -1,0 +1,1 @@
+function s390_image_probe int | buf const char * | len unsigned long

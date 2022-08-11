@@ -1,2 +1,0 @@
-struct ath10k_hw_ce_regs_addr_map | mask unsigned int | lsb unsigned int 
-function ath10k_get_ring_byte unsigned int | offset unsigned int | addr_map struct ath10k_hw_ce_regs_addr_map *

@@ -1,0 +1,3 @@
+struct rb_root | dummy int 
+struct f2fs_sb_info | dummy int 
+function f2fs_check_rb_tree_consistence int | sbi struct f2fs_sb_info * | root struct rb_root *

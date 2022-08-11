@@ -1,0 +1,4 @@
+struct TYPE_6__ | cc_count int | cc_data struct TYPE_5__ * 
+struct TYPE_7__ | user_data struct TYPE_6__ 
+struct TYPE_5__ | marker_bits int | cc_valid int | cc_data int | cc_type int 
+function cea708_add_cc_data int | cea708 struct TYPE_7__ * | valid int | type int | cc_data int

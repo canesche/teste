@@ -1,0 +1,2 @@
+struct TYPE_3__ | dictEnd int * | vBase int * | base int * | previousDstEnd int * | stage int | expected int 
+function ZSTD_resetDCtx unsigned long | dctx struct TYPE_3__ *

@@ -1,0 +1,1 @@
+value(max_identity_len) == 255, value(max_psk_len) == 255, length(ssl) == 65025, length(hint) == 65025, length(identity) == 65025, length(psk) == 65025

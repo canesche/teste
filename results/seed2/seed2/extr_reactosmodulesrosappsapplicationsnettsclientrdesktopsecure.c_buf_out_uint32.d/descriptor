@@ -1,0 +1,1 @@
+function buf_out_uint32 void | buffer int * | value int

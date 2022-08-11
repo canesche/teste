@@ -1,3 +1,0 @@
-struct radeon_cs_parser | dummy int 
-struct eg_surface | layer_size int | nbx int | nby int | bpe int | nsamples int | base_align int | palign int | halign int 
-function evergreen_surface_check_linear int | p struct radeon_cs_parser * | surf struct eg_surface * | prefix const char *

@@ -1,0 +1,3 @@
+struct agp_bridge_data | dummy int 
+struct _parisc_agp_info | gatt int * 
+function parisc_agp_free_gatt_table int | bridge struct agp_bridge_data *

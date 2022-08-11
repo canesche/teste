@@ -1,2 +1,0 @@
-struct option | value long 
-function ignore_removal_cb int | opt const struct option * | arg const char * | unset int

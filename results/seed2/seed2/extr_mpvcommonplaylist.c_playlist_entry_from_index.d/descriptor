@@ -1,0 +1,3 @@
+struct playlist_entry | next struct playlist_entry * 
+struct playlist | first struct playlist_entry * 
+function playlist_entry_from_index struct playlist_entry * | pl struct playlist * | index int

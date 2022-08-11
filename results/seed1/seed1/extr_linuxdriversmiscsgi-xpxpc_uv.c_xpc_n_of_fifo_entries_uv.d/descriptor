@@ -1,0 +1,2 @@
+struct xpc_fifo_head_uv | n_entries int 
+function xpc_n_of_fifo_entries_uv int | head struct xpc_fifo_head_uv *

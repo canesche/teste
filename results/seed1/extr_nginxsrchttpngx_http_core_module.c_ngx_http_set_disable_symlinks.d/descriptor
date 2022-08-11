@@ -1,1 +1,0 @@
-function ngx_http_set_disable_symlinks int | r int * | clcf int * | path int * | of int *

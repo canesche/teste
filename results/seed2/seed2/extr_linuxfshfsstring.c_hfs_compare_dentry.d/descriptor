@@ -1,0 +1,3 @@
+struct qstr | len unsigned int | name unsigned char * 
+struct dentry | dummy int 
+function hfs_compare_dentry int | dentry const struct dentry * | len unsigned int | str const char * | name const struct qstr *

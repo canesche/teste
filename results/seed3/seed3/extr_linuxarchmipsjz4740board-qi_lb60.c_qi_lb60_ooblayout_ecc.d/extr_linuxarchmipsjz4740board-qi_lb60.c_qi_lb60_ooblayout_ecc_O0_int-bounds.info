@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxarchmipsjz4740board-qi_lb60.c_qi_lb60_ooblayout_ecc.d/extr_linuxarchmipsjz4740board-qi_lb60.c_qi_lb60_ooblayout_ecc_O0::qi_lb60_ooblayout_ecc(64)"
+  }
+]

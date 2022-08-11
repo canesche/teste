@@ -1,0 +1,2 @@
+struct kvm_pmc | type long 
+function pmc_is_gp int | pmc struct kvm_pmc *

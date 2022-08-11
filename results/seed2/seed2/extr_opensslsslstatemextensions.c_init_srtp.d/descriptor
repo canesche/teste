@@ -1,0 +1,2 @@
+struct TYPE_3__ | srtp_profile int * | server long 
+function init_srtp int | s struct TYPE_3__ * | context unsigned int

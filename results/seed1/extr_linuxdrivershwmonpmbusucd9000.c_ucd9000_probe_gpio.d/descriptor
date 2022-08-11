@@ -1,4 +1,0 @@
-struct ucd9000_data | dummy int 
-struct i2c_device_id | dummy int 
-struct i2c_client | dummy int 
-function ucd9000_probe_gpio void | client struct i2c_client * | mid const struct i2c_device_id * | data struct ucd9000_data *

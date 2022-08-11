@@ -1,0 +1,5 @@
+struct TYPE_7__ | Length long 
+struct TYPE_6__ | Length long 
+struct TYPE_9__ | Next struct TYPE_9__ * | Target struct TYPE_7__ | Source struct TYPE_6__ 
+struct TYPE_8__ | Data struct TYPE_9__ * 
+function IntGetAllConsoleAliasesLength int | Header struct TYPE_8__ * | IsUnicode int

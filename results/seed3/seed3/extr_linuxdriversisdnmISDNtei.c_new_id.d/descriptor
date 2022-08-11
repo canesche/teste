@@ -1,0 +1,2 @@
+struct manager | nextid int 
+function new_id int | mgr struct manager *

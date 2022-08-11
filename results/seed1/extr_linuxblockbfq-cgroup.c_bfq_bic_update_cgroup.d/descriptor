@@ -1,3 +1,0 @@
-struct bio | dummy int 
-struct bfq_io_cq | dummy int 
-function bfq_bic_update_cgroup void | bic struct bfq_io_cq * | bio struct bio *

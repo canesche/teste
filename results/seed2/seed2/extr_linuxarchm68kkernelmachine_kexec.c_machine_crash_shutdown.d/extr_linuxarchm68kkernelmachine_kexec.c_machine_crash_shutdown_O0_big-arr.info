@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxarchm68kkernelmachine_kexec.c_machine_crash_shutdown.d/extr_linuxarchm68kkernelmachine_kexec.c_machine_crash_shutdown_O0::machine_crash_shutdown(61)"
+  }
+]

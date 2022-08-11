@@ -1,0 +1,8 @@
+struct TYPE_14__ | delta struct TYPE_13__ * 
+struct TYPE_12__ | file struct TYPE_11__ * 
+struct TYPE_10__ | file struct TYPE_9__ * 
+struct TYPE_15__ | base struct TYPE_14__ | nfile struct TYPE_12__ | ofile struct TYPE_10__ 
+struct TYPE_13__ | flags int 
+struct TYPE_11__ | flags int | size long 
+struct TYPE_9__ | flags int | size long 
+function patch_generated_update_binary void | patch struct TYPE_15__ *

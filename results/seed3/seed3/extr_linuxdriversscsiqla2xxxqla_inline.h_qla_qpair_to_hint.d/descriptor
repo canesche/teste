@@ -1,0 +1,5 @@
+struct qla_tgt | qphints struct qla_qpair_hint * | ha struct TYPE_2__ * 
+struct qla_qpair_hint | qpair struct qla_qpair * 
+struct qla_qpair | dummy int 
+struct TYPE_2__ | max_qpairs unsigned long 
+function qla_qpair_to_hint struct qla_qpair_hint * | tgt struct qla_tgt * | qpair struct qla_qpair *

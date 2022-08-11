@@ -1,0 +1,2 @@
+struct TYPE_3__ | numops long | ops int * 
+function redisOpArrayInit void | oa struct TYPE_3__ *

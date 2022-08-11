@@ -1,0 +1,5 @@
+struct setup_data | len int | next unsigned long | type int 
+struct TYPE_2__ | setup_data unsigned long 
+struct boot_params | hdr struct TYPE_2__ 
+struct boot_e820_entry | dummy int 
+function add_e820ext void | params struct boot_params * | e820ext struct setup_data * | nr_entries int

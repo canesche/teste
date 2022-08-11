@@ -1,2 +1,0 @@
-struct fc_lport | dummy int 
-function fnic_empty_scsi_cleanup void | lp struct fc_lport *

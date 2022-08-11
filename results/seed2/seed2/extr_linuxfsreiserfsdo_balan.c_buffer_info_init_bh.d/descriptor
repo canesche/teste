@@ -1,0 +1,4 @@
+struct tree_balance | dummy int 
+struct buffer_info | bi_position long | bi_parent int * | bi_bh struct buffer_head * | tb struct tree_balance * 
+struct buffer_head | dummy int 
+function buffer_info_init_bh void | tb struct tree_balance * | bi struct buffer_info * | bh struct buffer_head *

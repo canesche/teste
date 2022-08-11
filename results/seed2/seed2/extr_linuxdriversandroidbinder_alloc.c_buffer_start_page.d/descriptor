@@ -1,0 +1,2 @@
+struct binder_buffer | data long 
+function buffer_start_page void * | buffer struct binder_buffer *

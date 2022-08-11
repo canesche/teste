@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxarchpowerpcxmonppc-opc.c_valid_bo_pre_v2.d/extr_linuxarchpowerpcxmonppc-opc.c_valid_bo_pre_v2_O0::valid_bo_pre_v2(61)"
+  }
+]

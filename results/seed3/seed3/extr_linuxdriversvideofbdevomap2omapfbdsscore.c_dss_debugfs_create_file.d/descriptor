@@ -1,0 +1,1 @@
+function dss_debugfs_create_file int | name const char * | write void (*)(struct seq_file *)

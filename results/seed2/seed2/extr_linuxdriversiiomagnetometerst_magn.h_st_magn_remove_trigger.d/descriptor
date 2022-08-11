@@ -1,0 +1,2 @@
+struct iio_dev | dummy int 
+function st_magn_remove_trigger void | indio_dev struct iio_dev * | irq int

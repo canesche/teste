@@ -1,0 +1,4 @@
+struct snd_pcm_runtime | rate int 
+struct esschan | fmt int | frag_size int 
+struct es1968 | dummy int 
+function snd_es1968_calc_bob_rate int | chip struct es1968 * | es struct esschan * | runtime struct snd_pcm_runtime *

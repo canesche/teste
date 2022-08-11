@@ -1,0 +1,4 @@
+struct TYPE_7__ | dword_props struct TYPE_6__ * | str_props struct TYPE_5__ * 
+struct TYPE_6__ | expected long 
+struct TYPE_5__ | expected long | expected2 long | value2 int * 
+function compute_expected_props unsigned long | test struct TYPE_7__ * | mask unsigned long *

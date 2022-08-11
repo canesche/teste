@@ -1,2 +1,0 @@
-struct dwc_otg_hcd_pipe_info | mps int 
-function dwc_otg_hcd_get_mps int | pipe struct dwc_otg_hcd_pipe_info *

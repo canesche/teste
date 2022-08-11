@@ -1,0 +1,4 @@
+struct reiserfs_transaction_handle | dummy int 
+struct reiserfs_security_handle | dummy int 
+struct inode | dummy int 
+function reiserfs_security_write int | th struct reiserfs_transaction_handle * | inode struct inode * | sec struct reiserfs_security_handle *

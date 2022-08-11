@@ -1,0 +1,1 @@
+function residual_filter void | output float * | input const float * | coef const float * | memory float * | length int

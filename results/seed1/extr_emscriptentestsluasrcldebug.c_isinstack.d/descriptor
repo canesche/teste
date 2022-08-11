@@ -1,4 +1,0 @@
-struct TYPE_5__ | base int * 
-struct TYPE_6__ | l struct TYPE_5__ 
-struct TYPE_7__ | top const int * | u struct TYPE_6__ 
-function isinstack int | ci struct TYPE_7__ * | o const int *

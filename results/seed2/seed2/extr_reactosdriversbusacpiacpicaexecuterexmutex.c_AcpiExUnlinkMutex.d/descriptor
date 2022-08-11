@@ -1,0 +1,8 @@
+struct TYPE_13__ | Next struct TYPE_12__ * | OriginalSyncLevel int | Prev struct TYPE_11__ * | OwnerThread struct TYPE_14__ * 
+struct TYPE_15__ | Mutex struct TYPE_13__ 
+struct TYPE_14__ | AcquiredMutexList struct TYPE_12__ * 
+struct TYPE_9__ | Prev struct TYPE_11__ * 
+struct TYPE_12__ | Mutex struct TYPE_9__ 
+struct TYPE_10__ | OriginalSyncLevel int | Next struct TYPE_12__ * 
+struct TYPE_11__ | Mutex struct TYPE_10__ 
+function AcpiExUnlinkMutex void | ObjDesc struct TYPE_15__ *

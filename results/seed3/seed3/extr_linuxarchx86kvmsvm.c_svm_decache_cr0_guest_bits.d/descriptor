@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function svm_decache_cr0_guest_bits void | vcpu struct kvm_vcpu *

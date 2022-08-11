@@ -1,0 +1,2 @@
+struct TYPE_3__ | mem long 
+function mpc_mem_ptr int | i struct TYPE_3__ * | p void *

@@ -1,4 +1,0 @@
-struct scsi_eh_save | eh_eflags int | prot_op int | underflow int | result int | next_rq int | sdb int | data_direction int | cmnd int | cmd_len int 
-struct scsi_cmnd | eh_eflags int | prot_op int | underflow int | result int | request struct TYPE_2__ * | sdb int | sc_data_direction int | cmnd int | cmd_len int 
-struct TYPE_2__ | next_rq int 
-function scsi_eh_restore_cmnd void | scmd struct scsi_cmnd * | ses struct scsi_eh_save *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmamddisplaydcdmldml1_display_rq_dlg_calc.c_get_blk_size_bytes.d/extr_linuxdriversgpudrmamddisplaydcdmldml1_display_rq_dlg_calc.c_get_blk_size_bytes_O0::get_blk_size_bytes(61)"
+  }
+]

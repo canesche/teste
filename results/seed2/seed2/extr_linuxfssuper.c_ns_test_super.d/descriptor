@@ -1,0 +1,2 @@
+struct super_block | s_fs_info void * 
+function ns_test_super int | sb struct super_block * | data void *

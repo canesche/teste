@@ -1,0 +1,2 @@
+struct ssb_device_id | vendor long | coreid long | revision long 
+function ssb_match_devid int | tabid const struct ssb_device_id * | devid const struct ssb_device_id *

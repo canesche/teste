@@ -1,0 +1,4 @@
+struct sk_buff | dummy int 
+struct net_local | out_idx unsigned long | skbs struct sk_buff ** | sk_count int 
+struct TYPE_3__ | netif struct net_local * 
+function hysdn_tx_netget struct sk_buff * | card struct TYPE_3__ *

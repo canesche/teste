@@ -1,0 +1,2 @@
+struct TYPE_3__ | clrText int 
+function TOOLTIPS_SetTipTextColor int | infoPtr struct TYPE_3__ * | clrText int

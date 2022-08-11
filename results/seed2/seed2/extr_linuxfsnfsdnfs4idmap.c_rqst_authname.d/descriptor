@@ -1,0 +1,3 @@
+struct svc_rqst | rq_client struct auth_domain * | rq_gssclient struct auth_domain * 
+struct auth_domain | name char * 
+function rqst_authname char * | rqstp struct svc_rqst *

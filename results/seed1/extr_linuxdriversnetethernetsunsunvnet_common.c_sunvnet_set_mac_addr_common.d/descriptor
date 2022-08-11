@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function sunvnet_set_mac_addr_common int | dev struct net_device * | p void *

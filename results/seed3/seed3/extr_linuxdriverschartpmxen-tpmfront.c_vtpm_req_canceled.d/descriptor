@@ -1,0 +1,2 @@
+struct tpm_chip | dummy int 
+function vtpm_req_canceled int | chip struct tpm_chip * | status int

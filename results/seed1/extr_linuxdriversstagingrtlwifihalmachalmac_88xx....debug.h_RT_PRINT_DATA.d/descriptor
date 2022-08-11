@@ -1,2 +1,0 @@
-struct rtl_priv | dummy int 
-function RT_PRINT_DATA void | rtlpriv struct rtl_priv * | comp int | level int | titlestring const char * | hexdata const void * | hexdatalen unsigned long

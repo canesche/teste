@@ -1,0 +1,2 @@
+struct alsa_fmt | mp_format int 
+function find_alsa_format const struct alsa_fmt * | mp_format int

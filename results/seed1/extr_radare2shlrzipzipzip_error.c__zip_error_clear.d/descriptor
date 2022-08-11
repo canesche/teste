@@ -1,2 +1,0 @@
-struct zip_error | sys_err long | zip_err int 
-function _zip_error_clear void | err struct zip_error *

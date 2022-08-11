@@ -1,2 +1,0 @@
-struct net_device | flags int | netdev_ops int * | addr_len long | hard_header_len long | type int | header_ops int * 
-function vxlan_raw_setup void | dev struct net_device *

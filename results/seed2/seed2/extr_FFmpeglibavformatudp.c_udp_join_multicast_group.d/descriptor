@@ -1,0 +1,2 @@
+struct sockaddr | dummy int 
+function udp_join_multicast_group int | sockfd int | addr struct sockaddr * | local_addr struct sockaddr *

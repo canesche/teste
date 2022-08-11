@@ -1,0 +1,1 @@
+function ZSTD_ldm_getRollingHash int | buf const long * | len unsigned long

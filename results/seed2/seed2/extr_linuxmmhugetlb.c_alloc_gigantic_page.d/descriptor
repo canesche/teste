@@ -1,0 +1,3 @@
+struct page | dummy int 
+struct hstate | dummy int 
+function alloc_gigantic_page struct page * | h struct hstate * | gfp_mask int | nid int | nodemask int *

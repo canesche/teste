@@ -1,2 +1,0 @@
-struct dl_rq | dummy int 
-function dec_dl_deadline void | dl_rq struct dl_rq * | deadline int

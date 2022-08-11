@@ -1,4 +1,0 @@
-struct TYPE_4__ | len int 
-struct TYPE_5__ | dec struct TYPE_4__ 
-struct TYPE_6__ | Decoder struct TYPE_5__ 
-function cmp_iheap_entries int | a const void * | b const void *

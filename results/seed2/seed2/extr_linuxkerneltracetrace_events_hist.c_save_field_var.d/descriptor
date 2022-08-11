@@ -1,0 +1,4 @@
+struct hist_trigger_data | n_field_var_str int | n_field_vars int | field_vars struct field_var ** 
+struct field_var | val struct TYPE_2__ * 
+struct TYPE_2__ | flags int 
+function save_field_var void | hist_data struct hist_trigger_data * | field_var struct field_var *

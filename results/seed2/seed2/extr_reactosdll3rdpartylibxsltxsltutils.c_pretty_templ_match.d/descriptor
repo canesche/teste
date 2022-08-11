@@ -1,0 +1,2 @@
+struct TYPE_3__ | mode long | match long 
+function pretty_templ_match char * | templ struct TYPE_3__ *

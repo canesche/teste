@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 4083,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxkernelcgroupcgroup-v1.c_pidlist_uniq.d/extr_linuxkernelcgroupcgroup-v1.c_pidlist_uniq_O0::pidlist_uniq(61)"
+  }
+]

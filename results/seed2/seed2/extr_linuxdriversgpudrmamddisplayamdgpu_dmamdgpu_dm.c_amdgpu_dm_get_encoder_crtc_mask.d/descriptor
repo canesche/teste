@@ -1,0 +1,3 @@
+struct TYPE_2__ | num_crtc int 
+struct amdgpu_device | mode_info struct TYPE_2__ 
+function amdgpu_dm_get_encoder_crtc_mask int | adev struct amdgpu_device *

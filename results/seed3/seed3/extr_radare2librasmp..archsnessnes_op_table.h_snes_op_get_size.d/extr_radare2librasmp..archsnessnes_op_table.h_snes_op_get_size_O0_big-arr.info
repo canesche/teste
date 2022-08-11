@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_radare2librasmp..archsnessnes_op_table.h_snes_op_get_size.d/extr_radare2librasmp..archsnessnes_op_table.h_snes_op_get_size_O0::snes_op_get_size(66)"
+  }
+]

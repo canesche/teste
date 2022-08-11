@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 8,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversscsibfabfad.c_bfad_update_hal_cfg.d/extr_linuxdriversscsibfabfad.c_bfad_update_hal_cfg_O0::bfad_update_hal_cfg(77)"
+  }
+]

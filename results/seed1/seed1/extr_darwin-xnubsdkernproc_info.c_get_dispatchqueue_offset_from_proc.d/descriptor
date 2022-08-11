@@ -1,0 +1,2 @@
+struct TYPE_2__ | p_dispatchqueue_offset int 
+function get_dispatchqueue_offset_from_proc int | p void *

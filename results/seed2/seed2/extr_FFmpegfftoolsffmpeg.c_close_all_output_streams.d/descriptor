@@ -1,0 +1,2 @@
+struct TYPE_4__ | finished int 
+function close_all_output_streams void | ost struct TYPE_4__ * | this_stream int | others int

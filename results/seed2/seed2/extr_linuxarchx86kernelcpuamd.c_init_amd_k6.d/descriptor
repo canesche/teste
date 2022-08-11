@@ -1,0 +1,2 @@
+struct cpuinfo_x86 | dummy int 
+function init_amd_k6 void | c struct cpuinfo_x86 *

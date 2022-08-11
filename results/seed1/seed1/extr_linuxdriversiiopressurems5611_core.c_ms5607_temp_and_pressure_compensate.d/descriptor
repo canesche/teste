@@ -1,0 +1,2 @@
+struct ms5611_chip_info | prom int * 
+function ms5607_temp_and_pressure_compensate int | chip_info struct ms5611_chip_info * | temp int * | pressure int *

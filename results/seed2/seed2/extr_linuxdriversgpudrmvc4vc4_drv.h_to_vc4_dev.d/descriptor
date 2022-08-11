@@ -1,0 +1,3 @@
+struct vc4_dev | dummy int 
+struct drm_device | dev_private long 
+function to_vc4_dev struct vc4_dev * | dev struct drm_device *

@@ -1,3 +1,0 @@
-struct ehci_shadow | qh struct TYPE_2__ * 
-struct TYPE_2__ | qh_next union ehci_shadow 
-function periodic_next_shadow union ehci_shadow * | periodic union ehci_shadow * | tag int

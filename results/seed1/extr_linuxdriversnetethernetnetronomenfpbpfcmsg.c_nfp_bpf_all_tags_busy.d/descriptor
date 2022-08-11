@@ -1,2 +1,0 @@
-struct nfp_app_bpf | tag_alloc_next long | tag_alloc_last long 
-function nfp_bpf_all_tags_busy int | bpf struct nfp_app_bpf *

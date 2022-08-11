@@ -1,0 +1,2 @@
+struct snd_ps3_card_info | dma_last_transfer_vaddr long * | dma_next_transfer_vaddr long * | dma_start_vaddr long * | dma_buffer_size int 
+function snd_ps3_bump_buffer void | card struct snd_ps3_card_info * | ch enum snd_ps3_ch | byte_count unsigned long | stage int

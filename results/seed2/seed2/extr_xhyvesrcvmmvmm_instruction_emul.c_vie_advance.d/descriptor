@@ -1,0 +1,2 @@
+struct vie | num_processed int 
+function vie_advance void | vie struct vie *

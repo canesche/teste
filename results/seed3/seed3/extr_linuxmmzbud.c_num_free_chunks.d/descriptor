@@ -1,0 +1,2 @@
+struct zbud_header | first_chunks int | last_chunks int 
+function num_free_chunks int | zhdr struct zbud_header *

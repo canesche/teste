@@ -1,0 +1,4 @@
+struct nfs_server | dummy int 
+struct nfs_pathconf | max_namelen int | max_link long 
+struct nfs_fh | dummy int 
+function nfs_proc_pathconf int | server struct nfs_server * | fhandle struct nfs_fh * | info struct nfs_pathconf *

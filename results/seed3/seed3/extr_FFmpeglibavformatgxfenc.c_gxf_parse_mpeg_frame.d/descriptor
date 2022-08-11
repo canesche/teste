@@ -1,0 +1,2 @@
+struct TYPE_3__ | first_gop_closed int 
+function gxf_parse_mpeg_frame int | sc struct TYPE_3__ * | buf const int * | size int

@@ -1,4 +1,0 @@
-struct TYPE_6__ | after_closed int * | has_content long 
-struct TYPE_7__ | resp struct TYPE_6__ | client struct TYPE_5__ * 
-struct TYPE_5__ | buf int ** 
-function peek_content int ** | ctx struct TYPE_7__ * | is_final int *

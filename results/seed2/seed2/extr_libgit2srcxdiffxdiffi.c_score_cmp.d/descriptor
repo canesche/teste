@@ -1,0 +1,2 @@
+struct split_score | effective_indent long | penalty int 
+function score_cmp int | s1 struct split_score * | s2 struct split_score *

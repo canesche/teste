@@ -1,2 +1,0 @@
-struct canfd_frame | data long 
-function get_u64 int | cp const struct canfd_frame * | offset int

@@ -1,0 +1,3 @@
+struct TYPE_5__ | core_params struct TYPE_4__ * 
+struct TYPE_4__ | enable_dynamic_fifo int 
+function dwc_otg_get_param_enable_dynamic_fifo int | core_if struct TYPE_5__ *

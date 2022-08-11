@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function autogroup_init void | init_task struct task_struct *

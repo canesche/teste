@@ -1,0 +1,8 @@
+struct TYPE_10__ | channels struct TYPE_9__ * 
+struct mlx5e_redirect_rqt_param | rss struct TYPE_10__ | rqn int | is_rss int 
+struct TYPE_6__ | rqn int 
+struct mlx5e_priv | drop_rq struct TYPE_6__ 
+struct TYPE_9__ | num int | c struct TYPE_8__ ** 
+struct TYPE_7__ | rqn int 
+struct TYPE_8__ | rq struct TYPE_7__ 
+function mlx5e_get_direct_rqn int | priv struct mlx5e_priv * | ix int | rrp struct mlx5e_redirect_rqt_param

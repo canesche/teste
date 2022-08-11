@@ -1,0 +1,1 @@
+function _mprotect_noaccess int | ptr void * | size unsigned long

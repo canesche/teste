@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function ks_dw_pcie_mask_legacy_irq void | d struct irq_data *

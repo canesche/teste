@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function marvel_irq_noop void | d struct irq_data *

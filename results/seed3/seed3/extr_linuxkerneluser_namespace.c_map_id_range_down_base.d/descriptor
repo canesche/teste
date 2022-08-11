@@ -1,0 +1,3 @@
+struct uid_gid_map | extent struct uid_gid_extent * 
+struct uid_gid_extent | first long | count long 
+function map_id_range_down_base struct uid_gid_extent * | extents unsigned int | map struct uid_gid_map * | id long | count long

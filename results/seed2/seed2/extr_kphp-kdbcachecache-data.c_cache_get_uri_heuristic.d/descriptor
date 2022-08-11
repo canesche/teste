@@ -1,0 +1,3 @@
+struct cache_uri | data int * 
+struct amortization_counter | value double 
+function cache_get_uri_heuristic double | U const struct cache_uri *

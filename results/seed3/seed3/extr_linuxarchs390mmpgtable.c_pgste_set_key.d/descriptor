@@ -1,0 +1,2 @@
+struct mm_struct | dummy int 
+function pgste_set_key void | ptep int * | pgste int | entry int | mm struct mm_struct *

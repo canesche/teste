@@ -1,0 +1,4 @@
+struct dw_dma_slave | dma_dev long 
+struct dma_chan | private struct dw_dma_slave * | device struct TYPE_2__ * 
+struct TYPE_2__ | dev long 
+function lpss_dma_filter int | chan struct dma_chan * | param void *

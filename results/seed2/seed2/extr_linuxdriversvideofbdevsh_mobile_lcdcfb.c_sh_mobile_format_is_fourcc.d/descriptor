@@ -1,0 +1,2 @@
+struct fb_var_screeninfo | grayscale int 
+function sh_mobile_format_is_fourcc int | var const struct fb_var_screeninfo *

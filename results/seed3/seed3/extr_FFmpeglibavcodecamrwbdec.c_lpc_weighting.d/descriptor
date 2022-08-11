@@ -1,0 +1,1 @@
+function lpc_weighting void | out float * | lpc const float * | gamma float | size int

@@ -1,0 +1,2 @@
+struct ath_softc | dummy int 
+function ath9k_p2p_beacon_sync void | sc struct ath_softc *

@@ -1,0 +1,2 @@
+struct si_pub | chip int 
+function ai_get_chip_id int | sih struct si_pub *

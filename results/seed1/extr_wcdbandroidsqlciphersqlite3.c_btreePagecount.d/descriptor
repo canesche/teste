@@ -1,2 +1,0 @@
-struct TYPE_3__ | nPage int 
-function btreePagecount int | pBt struct TYPE_3__ *

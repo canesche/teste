@@ -1,0 +1,3 @@
+struct niu_link_config | advertising int | autoneg int | loopback_mode int | active_duplex int | duplex int | active_speed int | speed int 
+struct niu | link_config struct niu_link_config 
+function niu_link_config_init void | np struct niu *

@@ -1,0 +1,5 @@
+struct vmbuspipe_hdr | dummy int 
+struct icmsg_negotiate | icframe_vercnt int | icmsg_vercnt int | icversion_data struct TYPE_2__ * 
+struct icmsg_hdr | icmsgsize int 
+struct TYPE_2__ | major int | minor int 
+function vmbus_prep_negotiate_resp int | icmsghdrp struct icmsg_hdr * | buf int * | fw_version const int * | fw_vercnt int | srv_version const int * | srv_vercnt int | nego_fw_version int * | nego_srv_version int *

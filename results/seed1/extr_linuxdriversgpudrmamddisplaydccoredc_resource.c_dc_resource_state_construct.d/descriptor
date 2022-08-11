@@ -1,4 +1,0 @@
-struct dc_state | dis_clk int 
-struct dc | res_pool struct TYPE_2__ * 
-struct TYPE_2__ | dccg int 
-function dc_resource_state_construct void | dc const struct dc * | dst_ctx struct dc_state *

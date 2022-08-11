@@ -1,0 +1,3 @@
+struct TYPE_3__ | curvalue int 
+struct TYPE_4__ | tq struct TYPE_3__ 
+function GraphicsOptions_TQEvent void | ptr void * | event int

@@ -1,0 +1,2 @@
+struct lpc32xx_udc | dummy int 
+function create_debug_file void | udc struct lpc32xx_udc *

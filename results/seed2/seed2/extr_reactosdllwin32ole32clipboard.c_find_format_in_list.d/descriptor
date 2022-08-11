@@ -1,0 +1,3 @@
+struct TYPE_5__ | cfFormat long 
+struct TYPE_6__ | fmtetc struct TYPE_5__ 
+function find_format_in_list struct TYPE_6__ * | entries struct TYPE_6__ * | num unsigned long | cf long

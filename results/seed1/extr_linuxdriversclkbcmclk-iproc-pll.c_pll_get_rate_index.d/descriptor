@@ -1,3 +1,0 @@
-struct iproc_pll | num_vco_entries int | vco_param struct TYPE_2__ * 
-struct TYPE_2__ | rate unsigned int 
-function pll_get_rate_index int | pll struct iproc_pll * | target_rate unsigned int

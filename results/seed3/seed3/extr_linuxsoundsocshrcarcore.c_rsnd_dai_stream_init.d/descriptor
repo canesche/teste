@@ -1,0 +1,3 @@
+struct snd_pcm_substream | dummy int 
+struct rsnd_dai_stream | substream struct snd_pcm_substream * 
+function rsnd_dai_stream_init void | io struct rsnd_dai_stream * | substream struct snd_pcm_substream *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | skip_packets int 
+struct TYPE_5__ | duration int | key_frame int | priv_data struct TYPE_4__ * 
+function xma_parse int | s1 struct TYPE_5__ * | avctx int * | poutbuf const int ** | poutbuf_size int * | buf const int * | buf_size int

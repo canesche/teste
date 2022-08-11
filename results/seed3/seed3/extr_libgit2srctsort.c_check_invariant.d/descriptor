@@ -1,0 +1,2 @@
+struct tsort_run | length int 
+function check_invariant int | stack struct tsort_run * | stack_curr int

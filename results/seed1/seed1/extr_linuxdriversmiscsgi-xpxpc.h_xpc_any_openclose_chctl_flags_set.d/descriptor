@@ -1,0 +1,2 @@
+struct xpc_channel_ctl_flags | flags int * 
+function xpc_any_openclose_chctl_flags_set int | chctl union xpc_channel_ctl_flags *

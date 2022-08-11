@@ -1,0 +1,2 @@
+struct ds1307 | dummy int 
+function ds1307_hwmon_register void | ds1307 struct ds1307 *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediaplatformqcomvenushelpers.c_venus_helper_check_codec.d/extr_linuxdriversmediaplatformqcomvenushelpers.c_venus_helper_check_codec_O0::venus_helper_check_codec(86)"
+  }
+]

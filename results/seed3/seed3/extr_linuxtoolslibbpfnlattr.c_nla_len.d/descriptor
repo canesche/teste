@@ -1,0 +1,2 @@
+struct nlattr | nla_len int 
+function nla_len int | nla const struct nlattr *

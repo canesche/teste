@@ -1,0 +1,1 @@
+function memscan void * | addr void * | c int | size unsigned long

@@ -1,2 +1,0 @@
-struct vc4_exec_info | bin_u void * 
-function validate_bin_pos int | exec struct vc4_exec_info * | untrusted void * | pos int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversinfinibandhwhfi1init.c_encode_rcv_header_entry_size.d/extr_linuxdriversinfinibandhwhfi1init.c_encode_rcv_header_entry_size_O0::encode_rcv_header_entry_size(62)"
+  }
+]

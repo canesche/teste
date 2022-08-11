@@ -1,4 +1,0 @@
-struct TYPE_4__ | name char * 
-struct TYPE_3__ | socksproxy long | tunnel_proxy long 
-struct connectdata | ip_addr_str char * | host struct TYPE_4__ | bits struct TYPE_3__ 
-function control_address char * | conn struct connectdata *

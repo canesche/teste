@@ -1,0 +1,2 @@
+struct hist_entry | unfolded int | has_children int 
+function hist_entry__toggle_fold int | he struct hist_entry *

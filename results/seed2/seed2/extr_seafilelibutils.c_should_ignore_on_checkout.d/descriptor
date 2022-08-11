@@ -1,0 +1,1 @@
+function should_ignore_on_checkout int | file_path const char * | ignore_reason int *

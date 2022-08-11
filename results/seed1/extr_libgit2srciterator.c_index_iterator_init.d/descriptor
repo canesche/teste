@@ -1,3 +1,0 @@
-struct TYPE_4__ | flags int 
-struct TYPE_5__ | skip_tree int | next_idx long | base struct TYPE_4__ 
-function index_iterator_init int | iter struct TYPE_5__ *

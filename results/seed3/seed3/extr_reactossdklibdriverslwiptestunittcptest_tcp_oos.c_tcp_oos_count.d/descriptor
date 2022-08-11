@@ -1,0 +1,3 @@
+struct tcp_seg | next struct tcp_seg * 
+struct tcp_pcb | ooseq struct tcp_seg * 
+function tcp_oos_count int | pcb struct tcp_pcb *

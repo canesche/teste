@@ -1,0 +1,5 @@
+struct wined3d_state | viewports struct TYPE_4__ * 
+struct wined3d_context | render_offscreen long | d3d_info struct TYPE_3__ * 
+struct TYPE_4__ | width float | height float 
+struct TYPE_3__ | wined3d_creation_flags int 
+function shader_get_position_fixup void | context const struct wined3d_context * | state const struct wined3d_state * | fixup_count unsigned int | position_fixup float *

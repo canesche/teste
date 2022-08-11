@@ -1,1 +1,0 @@
-function MC_UnCompress void | mat float [3][4] | comp const unsigned char *

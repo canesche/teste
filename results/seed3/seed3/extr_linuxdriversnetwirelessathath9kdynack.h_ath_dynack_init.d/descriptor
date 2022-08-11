@@ -1,0 +1,2 @@
+struct ath_hw | dummy int 
+function ath_dynack_init void | ah struct ath_hw *

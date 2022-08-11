@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function single_stop void | p struct seq_file * | v void *

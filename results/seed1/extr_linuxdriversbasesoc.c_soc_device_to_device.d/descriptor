@@ -1,3 +1,0 @@
-struct device | dummy int 
-struct soc_device | dev struct device 
-function soc_device_to_device struct device * | soc_dev struct soc_device *

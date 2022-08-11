@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxsoundsoccodecstfa9879.c_tfa9879_volatile_reg.d/extr_linuxsoundsoccodecstfa9879.c_tfa9879_volatile_reg_O0::tfa9879_volatile_reg(62)"
+  }
+]

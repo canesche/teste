@@ -1,2 +1,0 @@
-struct mt76_rate_power | all int * 
-function mt76x2_add_rate_power_offset void | r struct mt76_rate_power * | offset int

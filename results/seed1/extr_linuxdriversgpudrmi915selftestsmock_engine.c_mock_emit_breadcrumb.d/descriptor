@@ -1,2 +1,0 @@
-struct i915_request | dummy int 
-function mock_emit_breadcrumb void | request struct i915_request * | flags int *

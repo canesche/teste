@@ -1,0 +1,2 @@
+struct path | flags long | num_keys long | keys int * | len_class long | class int * | num_namespaces long | len_namespaces int * | namespaces int * | len_server long | server int * | len_text long | text int * 
+function init_path void | path struct path *

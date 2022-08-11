@@ -1,0 +1,2 @@
+struct timer_list | dummy int 
+function cw1200_pm_stay_awake_tmo void | unused struct timer_list *

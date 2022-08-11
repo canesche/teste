@@ -1,2 +1,0 @@
-struct cudbg_buffer | size long | offset int 
-function cudbg_update_buff void | pin_buff struct cudbg_buffer * | pout_buff struct cudbg_buffer *

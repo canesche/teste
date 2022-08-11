@@ -1,5 +1,0 @@
-struct file | dummy int 
-struct autofs_sb_info | exp_timeout unsigned long 
-struct TYPE_2__ | timeout unsigned long 
-struct autofs_dev_ioctl | timeout struct TYPE_2__ 
-function autofs_dev_ioctl_timeout int | fp struct file * | sbi struct autofs_sb_info * | param struct autofs_dev_ioctl *

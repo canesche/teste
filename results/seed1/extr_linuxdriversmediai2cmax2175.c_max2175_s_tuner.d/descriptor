@@ -1,3 +1,0 @@
-struct v4l2_tuner | index long 
-struct v4l2_subdev | dummy int 
-function max2175_s_tuner int | sd struct v4l2_subdev * | vt const struct v4l2_tuner *

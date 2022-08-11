@@ -1,0 +1,3 @@
+struct TYPE_5__ | number_of_frames unsigned int | starting_frame_index unsigned int | max_restart_interval unsigned int | one_sample_buffer_size unsigned int | frame_size unsigned int * | avctx struct TYPE_4__ * | inout_buffer int * | sample_buffer int * 
+struct TYPE_4__ | channels unsigned int 
+function input_to_sample_buffer void | ctx struct TYPE_5__ *

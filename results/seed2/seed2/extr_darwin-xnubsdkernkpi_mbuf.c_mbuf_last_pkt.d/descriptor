@@ -1,0 +1,3 @@
+struct TYPE_4__ | pkt_flags int 
+struct TYPE_5__ | m_flags int | m_pkthdr struct TYPE_4__ 
+function mbuf_last_pkt int | m struct TYPE_5__ *const | retval int *

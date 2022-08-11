@@ -1,2 +1,0 @@
-struct mount | mnt_writers unsigned int 
-function mnt_get_writers unsigned int | mnt struct mount *

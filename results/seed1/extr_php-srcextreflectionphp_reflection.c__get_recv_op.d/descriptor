@@ -1,4 +1,0 @@
-struct TYPE_7__ | last int | opcodes struct TYPE_8__ * 
-struct TYPE_6__ | num long 
-struct TYPE_8__ | opcode long | op1 struct TYPE_6__ 
-function _get_recv_op struct TYPE_8__ * | op_array struct TYPE_7__ * | offset long

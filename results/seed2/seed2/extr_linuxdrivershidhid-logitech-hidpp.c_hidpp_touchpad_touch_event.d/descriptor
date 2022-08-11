@@ -1,0 +1,2 @@
+struct hidpp_touchpad_raw_xy_finger | x int | y int | contact_type int | contact_status int | z int | area int | finger_id int 
+function hidpp_touchpad_touch_event void | data int * | finger struct hidpp_touchpad_raw_xy_finger *

@@ -1,0 +1,2 @@
+struct mtd_info | dummy int 
+function spinand_select_chip void | mtd struct mtd_info * | dev int

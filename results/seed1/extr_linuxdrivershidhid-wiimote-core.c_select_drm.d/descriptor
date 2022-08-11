@@ -1,3 +1,0 @@
-struct TYPE_2__ | flags long | devtype long 
-struct wiimote_data | state struct TYPE_2__ 
-function select_drm long | wdata struct wiimote_data *

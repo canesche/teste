@@ -1,0 +1,4 @@
+struct us_data | extra long 
+struct TYPE_2__ | NumberOfLogBlock unsigned long | NumberOfPhyBlock unsigned long | Phy2LogMap unsigned long * | Log2PhyMap unsigned long * 
+struct ene_ub6250_info | MS_Lib struct TYPE_2__ 
+function ms_lib_force_setlogical_pair int | us struct us_data * | logblk unsigned long | phyblk unsigned long

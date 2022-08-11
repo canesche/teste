@@ -1,0 +1,5 @@
+struct nfsd4_compoundres | opcnt int | rqstp struct TYPE_3__ * 
+struct nfsd4_compoundargs | ops struct TYPE_4__ * 
+struct TYPE_4__ | opnum long 
+struct TYPE_3__ | rq_argp struct nfsd4_compoundargs * 
+function nfsd4_is_solo_sequence int | resp struct nfsd4_compoundres *

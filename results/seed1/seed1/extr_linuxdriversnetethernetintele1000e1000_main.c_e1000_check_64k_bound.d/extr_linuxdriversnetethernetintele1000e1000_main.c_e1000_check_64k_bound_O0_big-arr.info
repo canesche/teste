@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetintele1000e1000_main.c_e1000_check_64k_bound.d/extr_linuxdriversnetethernetintele1000e1000_main.c_e1000_check_64k_bound_O0::e1000_check_64k_bound(66)"
+  }
+]

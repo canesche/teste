@@ -1,0 +1,2 @@
+struct drm_encoder | dummy int 
+function mdp5_cmd_encoder_set_split_display int | encoder struct drm_encoder * | slave_encoder struct drm_encoder *

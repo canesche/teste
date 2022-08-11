@@ -1,0 +1,5 @@
+struct regulator_ops | set_voltage_sel long 
+struct regulator_dev | desc struct TYPE_2__ * 
+struct regulator | rdev struct regulator_dev * 
+struct TYPE_2__ | vsel_reg unsigned int | vsel_mask unsigned int | ops struct regulator_ops * 
+function regulator_get_hardware_vsel_register int | regulator struct regulator * | vsel_reg unsigned int * | vsel_mask unsigned int *

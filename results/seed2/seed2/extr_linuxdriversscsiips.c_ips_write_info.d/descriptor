@@ -1,0 +1,2 @@
+struct Scsi_Host | hostdata long 
+function ips_write_info int | host struct Scsi_Host * | buffer char * | length int

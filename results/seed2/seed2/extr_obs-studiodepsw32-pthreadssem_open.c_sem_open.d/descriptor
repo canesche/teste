@@ -1,0 +1,1 @@
+function sem_open int | name const char * | oflag int | mode int | value unsigned int

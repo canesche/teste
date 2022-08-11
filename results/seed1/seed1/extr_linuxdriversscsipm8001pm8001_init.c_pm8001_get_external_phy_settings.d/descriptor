@@ -1,0 +1,3 @@
+struct pm8001_mpi3_phy_pg_trx_config | LaneLosCfg int | LanePgaCfg1 int | LanePisoCfg1 int | LanePisoCfg2 int | LanePisoCfg3 int | LanePisoCfg4 int | LanePisoCfg5 int | LanePisoCfg6 int | LaneBctCtrl int 
+struct pm8001_hba_info | dummy int 
+function pm8001_get_external_phy_settings void | pm8001_ha struct pm8001_hba_info * | phycfg struct pm8001_mpi3_phy_pg_trx_config *

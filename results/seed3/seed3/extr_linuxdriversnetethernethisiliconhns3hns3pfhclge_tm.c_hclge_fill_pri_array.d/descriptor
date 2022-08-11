@@ -1,0 +1,3 @@
+struct TYPE_2__ | prio_tc unsigned long * | num_tc unsigned long 
+struct hclge_dev | tm_info struct TYPE_2__ 
+function hclge_fill_pri_array int | hdev struct hclge_dev * | pri unsigned long * | pri_id unsigned long

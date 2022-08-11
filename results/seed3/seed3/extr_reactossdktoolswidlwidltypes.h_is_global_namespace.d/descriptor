@@ -1,0 +1,2 @@
+struct namespace | name int 
+function is_global_namespace int | namespace const struct namespace *

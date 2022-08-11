@@ -1,0 +1,6 @@
+struct thin_c | pool struct pool * 
+struct queue_limits | discard_granularity int | max_discard_sectors int 
+struct TYPE_2__ | discard_enabled int 
+struct pool | sectors_per_block int | pf struct TYPE_2__ 
+struct dm_target | private struct thin_c * 
+function thin_io_hints void | ti struct dm_target * | limits struct queue_limits *

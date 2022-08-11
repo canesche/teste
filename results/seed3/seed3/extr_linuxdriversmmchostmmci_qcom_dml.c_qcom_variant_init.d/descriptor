@@ -1,0 +1,2 @@
+struct mmci_host | ops int * 
+function qcom_variant_init void | host struct mmci_host *

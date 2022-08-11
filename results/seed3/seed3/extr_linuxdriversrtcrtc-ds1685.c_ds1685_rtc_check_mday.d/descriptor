@@ -1,0 +1,2 @@
+struct ds1685_priv | bcd_mode long 
+function ds1685_rtc_check_mday int | rtc struct ds1685_priv * | mday int

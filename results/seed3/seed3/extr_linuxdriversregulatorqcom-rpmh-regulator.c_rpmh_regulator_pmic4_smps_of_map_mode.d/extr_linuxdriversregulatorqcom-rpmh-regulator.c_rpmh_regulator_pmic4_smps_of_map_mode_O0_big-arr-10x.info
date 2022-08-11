@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversregulatorqcom-rpmh-regulator.c_rpmh_regulator_pmic4_smps_of_map_mode.d/extr_linuxdriversregulatorqcom-rpmh-regulator.c_rpmh_regulator_pmic4_smps_of_map_mode_O0::rpmh_regulator_pmic4_smps_of_map_mode(70)"
+  }
+]

@@ -1,2 +1,0 @@
-struct ps2mouse_softc | delta_y long | delta_x long 
-function movement_reset void | sc struct ps2mouse_softc *

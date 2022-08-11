@@ -1,0 +1,4 @@
+struct crush_choose_arg | ids int * 
+struct TYPE_2__ | items int * 
+struct crush_bucket_straw2 | h struct TYPE_2__ 
+function get_choose_arg_ids int * | bucket const struct crush_bucket_straw2 * | arg const struct crush_choose_arg *

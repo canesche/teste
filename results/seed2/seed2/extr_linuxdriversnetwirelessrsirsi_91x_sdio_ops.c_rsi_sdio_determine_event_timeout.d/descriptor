@@ -1,0 +1,4 @@
+struct rsi_hw | rsi_dev long 
+struct TYPE_2__ | buffer_full long 
+struct rsi_91x_sdiodev | rx_info struct TYPE_2__ 
+function rsi_sdio_determine_event_timeout int | adapter struct rsi_hw *

@@ -1,0 +1,4 @@
+struct ccdrbg_nisthmac_state | dummy int 
+struct ccdrbg_nisthmac_custom | dummy int 
+struct ccdrbg_info | size int | custom const struct ccdrbg_nisthmac_custom * | done int | reseed int | generate int | init int 
+function ccdrbg_factory_nisthmac void | info struct ccdrbg_info * | custom const struct ccdrbg_nisthmac_custom *

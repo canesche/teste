@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function ipoib_cm_max_mtu unsigned int | dev struct net_device *

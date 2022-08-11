@@ -1,0 +1,11 @@
+struct TYPE_12__ | GraphicsBootLevel unsigned long | MemoryBootLevel unsigned long 
+struct vegam_smumgr | smc_state_table struct TYPE_12__ 
+struct TYPE_11__ | sclk_bootup_value long | mclk_bootup_value long 
+struct smu7_hwmgr | vbios_boot_state struct TYPE_11__ 
+struct pp_hwmgr | pptable long | smu_backend long | backend long 
+struct phm_ppt_v1_information | vdd_dep_on_mclk struct TYPE_10__ * | vdd_dep_on_sclk struct TYPE_8__ * 
+struct TYPE_10__ | entries struct TYPE_9__ * | count long 
+struct TYPE_9__ | clk long 
+struct TYPE_8__ | entries struct TYPE_7__ * | count long 
+struct TYPE_7__ | clk long 
+function vegam_populate_smc_initial_state int | hwmgr struct pp_hwmgr *

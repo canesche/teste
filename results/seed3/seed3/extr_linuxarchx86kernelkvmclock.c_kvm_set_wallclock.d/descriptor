@@ -1,0 +1,2 @@
+struct timespec64 | dummy int 
+function kvm_set_wallclock int | now const struct timespec64 *

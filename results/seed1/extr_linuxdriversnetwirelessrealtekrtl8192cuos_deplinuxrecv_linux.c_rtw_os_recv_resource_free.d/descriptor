@@ -1,2 +1,0 @@
-struct recv_priv | dummy int 
-function rtw_os_recv_resource_free void | precvpriv struct recv_priv *

@@ -1,7 +1,0 @@
-struct TYPE_3__ | pixelformat long 
-struct TYPE_4__ | pix struct TYPE_3__ 
-struct v4l2_format | fmt struct TYPE_4__ 
-struct bcm2835_codec_fmt_list | num_entries unsigned int | list struct bcm2835_codec_fmt * 
-struct bcm2835_codec_fmt | fourcc long 
-struct bcm2835_codec_dev | supported_fmts struct bcm2835_codec_fmt_list * 
-function find_format struct bcm2835_codec_fmt * | f struct v4l2_format * | dev struct bcm2835_codec_dev * | capture int

@@ -1,0 +1,2 @@
+struct restart_block | dummy int 
+function do_no_restart_syscall long | param struct restart_block *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | digest_length int 
+function blake2b_param_set_digest_length void | P struct TYPE_3__ * | outlen int

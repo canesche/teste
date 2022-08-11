@@ -1,0 +1,5 @@
+struct qlcnic_vf_info | pci_func int | vp struct TYPE_4__ * 
+struct TYPE_3__ | arg int * 
+struct qlcnic_cmd_args | req struct TYPE_3__ 
+struct TYPE_4__ | handle int 
+function qlcnic_sriov_validate_get_nic_info int | vf struct qlcnic_vf_info * | cmd struct qlcnic_cmd_args *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | its_size void * 
+function ipc_table_fill void | its struct TYPE_3__ * | num unsigned int | min unsigned int | elemsize unsigned int

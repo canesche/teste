@@ -1,0 +1,2 @@
+struct fw_card | dummy int 
+function dummy_enable_phys_dma int | card struct fw_card * | node_id int | generation int

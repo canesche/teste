@@ -1,0 +1,9 @@
+struct cacheinfo | priv int | physical_line_partition long | number_of_sets long | size int | ways_of_associativity long | coherency_line_size long | type int | level int | attributes int | id int 
+struct TYPE_11__ | physical_line_partition long | ways_of_associativity long | coherency_line_size long 
+struct TYPE_12__ | split struct TYPE_11__ 
+struct TYPE_9__ | number_of_sets long 
+struct TYPE_10__ | split struct TYPE_9__ 
+struct TYPE_7__ | type unsigned long | level int 
+struct TYPE_8__ | split struct TYPE_7__ 
+struct _cpuid4_info_regs | nb int | ebx struct TYPE_12__ | ecx struct TYPE_10__ | size int | eax struct TYPE_8__ | id int 
+function ci_leaf_init void | this_leaf struct cacheinfo * | base struct _cpuid4_info_regs *

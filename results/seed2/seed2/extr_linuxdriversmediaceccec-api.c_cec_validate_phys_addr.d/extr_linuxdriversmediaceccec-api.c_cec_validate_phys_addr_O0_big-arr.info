@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 55,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediaceccec-api.c_cec_validate_phys_addr.d/extr_linuxdriversmediaceccec-api.c_cec_validate_phys_addr_O0::cec_validate_phys_addr(63)"
+  }
+]

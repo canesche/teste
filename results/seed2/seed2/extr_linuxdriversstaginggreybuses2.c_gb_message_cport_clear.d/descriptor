@@ -1,0 +1,2 @@
+struct gb_operation_msg_hdr | pad long * 
+function gb_message_cport_clear void | header struct gb_operation_msg_hdr *

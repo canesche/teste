@@ -1,0 +1,2 @@
+struct sunxi_pinctrl_desc | irq_bank_map unsigned long * 
+function sunxi_irq_hw_bank_num unsigned long | desc const struct sunxi_pinctrl_desc * | bank unsigned long

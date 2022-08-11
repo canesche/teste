@@ -1,2 +1,0 @@
-struct smap_psock | apply_bytes int 
-function apply_bytes_dec void | psock struct smap_psock * | i int

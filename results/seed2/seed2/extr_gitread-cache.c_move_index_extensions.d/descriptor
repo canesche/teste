@@ -1,0 +1,2 @@
+struct index_state | cache_tree int * | untracked int * 
+function move_index_extensions void | dst struct index_state * | src struct index_state *

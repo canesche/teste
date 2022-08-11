@@ -1,0 +1,2 @@
+struct wcn36xx | dummy int 
+function wcn36xx_debugfs_init void | wcn struct wcn36xx *

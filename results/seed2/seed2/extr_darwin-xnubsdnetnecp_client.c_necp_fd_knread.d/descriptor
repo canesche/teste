@@ -1,0 +1,2 @@
+struct knote | dummy int 
+function necp_fd_knread int | kn struct knote * | hint long

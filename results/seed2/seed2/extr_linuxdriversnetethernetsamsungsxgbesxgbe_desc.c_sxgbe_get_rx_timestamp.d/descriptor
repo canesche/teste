@@ -1,0 +1,2 @@
+struct sxgbe_rx_ctxt_desc | tstamp_lo int | tstamp_hi long 
+function sxgbe_get_rx_timestamp int | p struct sxgbe_rx_ctxt_desc *

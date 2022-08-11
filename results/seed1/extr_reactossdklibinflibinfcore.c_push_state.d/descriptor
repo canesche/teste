@@ -1,2 +1,0 @@
-struct parser | stack int * | stack_pos int 
-function push_state void | parser struct parser * | state enum parser_state

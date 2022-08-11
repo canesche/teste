@@ -1,0 +1,2 @@
+struct TYPE_3__ | pos int | savings long | length long 
+function ZDICT_initDictItem void | d struct TYPE_3__ *

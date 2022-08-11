@@ -1,3 +1,0 @@
-struct ip6_sf_list | sf_oldin int | sf_count int * | sf_next struct ip6_sf_list * 
-struct ifmcaddr6 | mca_sfcount int * | mca_sources struct ip6_sf_list * 
-function sf_markstate void | pmc struct ifmcaddr6 *

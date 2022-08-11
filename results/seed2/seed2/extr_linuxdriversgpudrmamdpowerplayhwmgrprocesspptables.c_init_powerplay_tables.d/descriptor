@@ -1,0 +1,2 @@
+struct pp_hwmgr | dummy int 
+function init_powerplay_tables int | hwmgr struct pp_hwmgr * | powerplay_table const int *

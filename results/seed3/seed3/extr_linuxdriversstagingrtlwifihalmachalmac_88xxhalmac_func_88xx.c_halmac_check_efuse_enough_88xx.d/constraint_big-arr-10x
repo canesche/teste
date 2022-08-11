@@ -1,0 +1,1 @@
+length(eeprom_mask_updated) == 100, length(halmac_adapter) == 100, length(pg_efuse_info) == 100

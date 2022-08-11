@@ -1,0 +1,2 @@
+struct rsnd_dai | ssi_lane int 
+function rsnd_rdai_ssi_lane_ctrl int | rdai struct rsnd_dai * | ssi_lane int

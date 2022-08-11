@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 17,
+    phantoms: 14,
+    exit: true,
+    halt: false,
+    edges: 32,
+    static: {
+      instructions: 187,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 187,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetethernetsfcef10.c_efx_ef10_filter_match_flags_from_mcdi.d/extr_linuxdriversnetethernetsfcef10.c_efx_ef10_filter_match_flags_from_mcdi_O0::efx_ef10_filter_match_flags_from_mcdi(96)"
+  }
+]

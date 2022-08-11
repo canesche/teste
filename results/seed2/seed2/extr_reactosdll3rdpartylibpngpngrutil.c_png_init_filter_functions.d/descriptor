@@ -1,0 +1,2 @@
+struct TYPE_3__ | pixel_depth int | read_filter int * 
+function png_init_filter_functions void | pp struct TYPE_3__ *

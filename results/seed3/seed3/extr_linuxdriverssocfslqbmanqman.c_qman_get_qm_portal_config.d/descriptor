@@ -1,0 +1,3 @@
+struct qman_portal | config const struct qm_portal_config * 
+struct qm_portal_config | dummy int 
+function qman_get_qm_portal_config const struct qm_portal_config * | portal struct qman_portal *

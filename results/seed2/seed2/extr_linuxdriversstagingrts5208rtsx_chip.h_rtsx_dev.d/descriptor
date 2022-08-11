@@ -1,0 +1,5 @@
+struct rtsx_chip | rtsx struct TYPE_4__ * 
+struct device | dummy int 
+struct TYPE_4__ | pci struct TYPE_3__ * 
+struct TYPE_3__ | dev struct device 
+function rtsx_dev struct device * | chip const struct rtsx_chip *

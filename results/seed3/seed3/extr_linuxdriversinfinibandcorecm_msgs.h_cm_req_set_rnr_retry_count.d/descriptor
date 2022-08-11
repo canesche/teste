@@ -1,0 +1,2 @@
+struct cm_req_msg | offset50 int 
+function cm_req_set_rnr_retry_count void | req_msg struct cm_req_msg * | rnr_retry_count int

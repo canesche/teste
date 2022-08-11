@@ -1,0 +1,3 @@
+struct TYPE_4__ | str const char * 
+struct TYPE_5__ | type long | str struct TYPE_4__ 
+function XMLRPC_GetValueDateTime_ISO8601 const char * | value struct TYPE_5__ *

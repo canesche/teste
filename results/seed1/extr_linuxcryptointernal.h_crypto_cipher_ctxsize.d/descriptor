@@ -1,2 +1,0 @@
-struct crypto_alg | cra_ctxsize unsigned int 
-function crypto_cipher_ctxsize unsigned int | alg struct crypto_alg *

@@ -1,3 +1,0 @@
-struct tty_struct | dummy int 
-struct file | dummy int 
-function con_close void | tty struct tty_struct * | filp struct file *

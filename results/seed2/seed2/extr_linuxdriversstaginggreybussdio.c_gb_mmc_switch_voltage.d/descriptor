@@ -1,0 +1,3 @@
+struct mmc_ios | dummy int 
+struct mmc_host | dummy int 
+function gb_mmc_switch_voltage int | mmc struct mmc_host * | ios struct mmc_ios *

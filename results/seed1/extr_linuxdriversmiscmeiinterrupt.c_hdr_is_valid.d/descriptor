@@ -1,2 +1,0 @@
-struct mei_msg_hdr | reserved long 
-function hdr_is_valid int | msg_hdr int

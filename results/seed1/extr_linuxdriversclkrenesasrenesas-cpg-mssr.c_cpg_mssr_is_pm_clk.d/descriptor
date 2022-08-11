@@ -1,3 +1,0 @@
-struct of_phandle_args | np long | args_count int | args int * 
-struct cpg_mssr_clk_domain | np long | num_core_pm_clks unsigned int | core_pm_clks int * 
-function cpg_mssr_is_pm_clk int | clkspec const struct of_phandle_args * | pd struct cpg_mssr_clk_domain *

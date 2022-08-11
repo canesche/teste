@@ -1,2 +1,0 @@
-struct b43_wldev | dummy int 
-function b43_lpphy_op_pwork_15sec void | dev struct b43_wldev *

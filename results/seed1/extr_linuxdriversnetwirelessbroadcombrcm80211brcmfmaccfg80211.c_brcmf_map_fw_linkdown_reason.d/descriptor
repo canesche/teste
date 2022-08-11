@@ -1,2 +1,0 @@
-struct brcmf_event_msg | event_code int | reason int 
-function brcmf_map_fw_linkdown_reason int | e const struct brcmf_event_msg *

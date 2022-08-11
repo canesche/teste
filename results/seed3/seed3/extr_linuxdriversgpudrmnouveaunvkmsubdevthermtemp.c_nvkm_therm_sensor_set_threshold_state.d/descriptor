@@ -1,0 +1,3 @@
+struct TYPE_2__ | alarm_state int * 
+struct nvkm_therm | sensor struct TYPE_2__ 
+function nvkm_therm_sensor_set_threshold_state void | therm struct nvkm_therm * | thrs enum nvkm_therm_thrs | st enum nvkm_therm_thrs_state

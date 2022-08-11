@@ -1,2 +1,0 @@
-struct TYPE_3__ | lbf char | flags int | buf_size long 
-function setvbuf int | f struct TYPE_3__ *__restrict | buf char *__restrict | type int | size unsigned long

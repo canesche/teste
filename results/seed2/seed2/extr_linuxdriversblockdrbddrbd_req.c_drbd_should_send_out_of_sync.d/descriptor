@@ -1,0 +1,2 @@
+struct drbd_dev_state | conn long 
+function drbd_should_send_out_of_sync int | s union drbd_dev_state

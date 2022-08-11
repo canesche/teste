@@ -1,2 +1,0 @@
-struct dispc_device | core_clk_rate unsigned long 
-function dispc_core_clk_rate unsigned long | dispc struct dispc_device *

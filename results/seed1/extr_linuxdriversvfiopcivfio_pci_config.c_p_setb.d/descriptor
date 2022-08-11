@@ -1,2 +1,0 @@
-struct perm_bits | write void ** | virt void ** 
-function p_setb void | p struct perm_bits * | off int | virt void * | write void *

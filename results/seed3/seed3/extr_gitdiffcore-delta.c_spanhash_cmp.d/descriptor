@@ -1,0 +1,2 @@
+struct spanhash | hashval long | cnt int 
+function spanhash_cmp int | a_ const void * | b_ const void *

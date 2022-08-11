@@ -1,0 +1,3 @@
+struct fsl_ssi_dbg | dummy int 
+struct device | dummy int 
+function fsl_ssi_debugfs_create int | ssi_dbg struct fsl_ssi_dbg * | dev struct device *

@@ -1,0 +1,2 @@
+struct cred | dummy int 
+function alter_cred_subscribers void | _cred const struct cred * | n int

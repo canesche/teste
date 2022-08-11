@@ -1,3 +1,0 @@
-struct TYPE_2__ | ifindex long 
-struct ila_map | xp struct TYPE_2__ 
-function ila_order int | ila struct ila_map *

@@ -1,2 +1,0 @@
-struct kmem_cache_order_objects | x unsigned int 
-function oo_objects unsigned int | x struct kmem_cache_order_objects

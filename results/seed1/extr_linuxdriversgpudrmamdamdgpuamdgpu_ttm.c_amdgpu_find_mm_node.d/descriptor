@@ -1,3 +1,0 @@
-struct ttm_mem_reg | mm_node struct drm_mm_node * 
-struct drm_mm_node | size unsigned long 
-function amdgpu_find_mm_node struct drm_mm_node * | mem struct ttm_mem_reg * | offset unsigned long *

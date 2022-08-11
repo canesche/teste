@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function gma_backlight_disable void | dev struct drm_device *

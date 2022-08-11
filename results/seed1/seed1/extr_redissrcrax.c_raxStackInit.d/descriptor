@@ -1,0 +1,2 @@
+struct TYPE_3__ | oom long | maxitems int | items long | static_items int | stack int 
+function raxStackInit void | ts struct TYPE_3__ *

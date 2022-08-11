@@ -1,0 +1,3 @@
+struct TYPE_2__ | pa int | kva int * 
+struct bfa_ablk_s | dma_addr struct TYPE_2__ 
+function bfa_ablk_memclaim void | ablk struct bfa_ablk_s * | dma_kva int * | dma_pa int

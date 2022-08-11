@@ -1,3 +1,0 @@
-struct saa7146_dev | dummy int 
-struct TYPE_2__ | hps_coeff int | weight_sum int 
-function calculate_h_scale_registers int | dev struct saa7146_dev * | in_x int | out_x int | flip_lr int | hps_ctrl int * | hps_v_gain int * | hps_h_prescale int * | hps_h_scale int *

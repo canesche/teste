@@ -1,2 +1,0 @@
-struct MPT3SAS_ADAPTER | event_masks int * 
-function _base_unmask_events void | ioc struct MPT3SAS_ADAPTER * | event int

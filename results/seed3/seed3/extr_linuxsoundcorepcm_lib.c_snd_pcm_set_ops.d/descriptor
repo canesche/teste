@@ -1,0 +1,5 @@
+struct snd_pcm_substream | ops const struct snd_pcm_ops * | next struct snd_pcm_substream * 
+struct snd_pcm_str | substream struct snd_pcm_substream * 
+struct snd_pcm_ops | dummy int 
+struct snd_pcm | streams struct snd_pcm_str * 
+function snd_pcm_set_ops void | pcm struct snd_pcm * | direction int | ops const struct snd_pcm_ops *

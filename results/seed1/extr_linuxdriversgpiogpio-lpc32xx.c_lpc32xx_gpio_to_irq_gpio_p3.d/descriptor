@@ -1,2 +1,0 @@
-struct gpio_chip | dummy int 
-function lpc32xx_gpio_to_irq_gpio_p3 int | chip struct gpio_chip * | offset unsigned int

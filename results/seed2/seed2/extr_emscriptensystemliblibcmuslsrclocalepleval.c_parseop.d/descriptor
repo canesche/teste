@@ -1,0 +1,2 @@
+struct st | op int 
+function parseop const char * | st struct st * | s const char *

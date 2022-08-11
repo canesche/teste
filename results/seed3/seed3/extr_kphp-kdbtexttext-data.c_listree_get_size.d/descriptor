@@ -1,0 +1,3 @@
+struct TYPE_5__ | N int | root struct TYPE_4__ * 
+struct TYPE_4__ | delta int 
+function listree_get_size int | U struct TYPE_5__ *

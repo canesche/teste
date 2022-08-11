@@ -1,2 +1,0 @@
-struct con_driver | flag int 
-function vtconsole_deinit_device void | con struct con_driver *

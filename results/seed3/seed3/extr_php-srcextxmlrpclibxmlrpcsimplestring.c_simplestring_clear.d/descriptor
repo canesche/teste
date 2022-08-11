@@ -1,0 +1,2 @@
+struct TYPE_3__ | len long | str long * 
+function simplestring_clear void | string struct TYPE_3__ *

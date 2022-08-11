@@ -1,2 +1,0 @@
-struct mt76_dev | rev int 
-function mt76_rev int | dev struct mt76_dev *

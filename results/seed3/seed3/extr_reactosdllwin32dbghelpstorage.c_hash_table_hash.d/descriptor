@@ -1,0 +1,1 @@
+function hash_table_hash unsigned int | name const char * | num_buckets unsigned int

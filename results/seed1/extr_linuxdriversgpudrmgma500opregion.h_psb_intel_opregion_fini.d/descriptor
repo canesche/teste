@@ -1,2 +1,0 @@
-struct drm_device | dummy int 
-function psb_intel_opregion_fini void | dev struct drm_device *

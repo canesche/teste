@@ -1,0 +1,2 @@
+struct TYPE_3__ | expected unsigned long 
+function ZSTDv05_nextSrcSizeToDecompress unsigned long | dctx struct TYPE_3__ *

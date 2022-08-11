@@ -1,0 +1,205 @@
+// ========================================================================= //
+
+// includes
+#include "stdio.h"
+#include "stdlib.h"
+#include "time.h"
+#include "string.h"
+#include "limits.h"
+#include "float.h"
+
+
+
+#define JOTAI_NUM_RANDS_ 25
+
+const unsigned rand_primes[JOTAI_NUM_RANDS_] = {179, 103, 479, 647, 229, 37, 271, 557, 263, 607, 18743, 50359, 21929, 48757, 98179, 12907, 52937, 64579, 49957, 52567, 507163, 149939, 412157, 680861, 757751};
+
+int next_i() {
+  int counter = 0;
+  return rand_primes[(++counter)%JOTAI_NUM_RANDS_];
+}
+
+float next_f() {
+  int counter = 0;
+  return rand_primes[(++counter)%JOTAI_NUM_RANDS_] / 757751.0F;
+} 
+
+
+// Usage menu
+void usage() {
+    printf("%s", "Usage:\n\
+    prog [ARGS]\n\
+\nARGS:\n\
+       0            int-bounds\n\
+       1            big-arr\n\
+       2            big-arr-10x\n\
+\n\
+");
+
+}
+
+
+// ------------------------------------------------------------------------- //
+
+#define NULL ((void*)0)
+typedef unsigned long size_t;  // Customize by platform.
+typedef long intptr_t; typedef unsigned long uintptr_t;
+typedef long scalar_t__;  // Either arithmetic or pointer type.
+/* By default, we understand bool (as a convenience). */
+typedef int bool;
+#define false 0
+#define true 1
+
+/* Forward declarations */
+typedef  struct TYPE_3__   TYPE_1__ ;
+
+/* Type definitions */
+struct TYPE_3__ {double b0; int b1; double b2; int b3; double b4; int a0; int a1; double a2; int a3; double a4; } ;
+typedef  TYPE_1__ FoSection ;
+
+/* Variables and functions */
+
+__attribute__((used)) static void chebyshev2_fo_section(FoSection *S, double a,
+                                  double c, double tetta_b,
+                                  double g, double si, double b,
+                                  double D, double c0)
+{
+    if (c0 == 1 || c0 == -1) {
+        S->b0 = (g*g*tetta_b*tetta_b + 2*tetta_b*g*b*si + b*b + g*g*c*c)/D;
+        S->b1 = 2*c0*(g*g*tetta_b*tetta_b - b*b - g*g*c*c)/D;
+        S->b2 = (g*g*tetta_b*tetta_b - 2*tetta_b*g*b*si + b*b + g*g*c*c)/D;
+        S->b3 = 0;
+        S->b4 = 0;
+
+        S->a0 = 1;
+        S->a1 = 2*c0*(tetta_b*tetta_b - a*a - c*c)/D;
+        S->a2 = (tetta_b*tetta_b - 2*tetta_b*a*si + a*a + c*c)/D;
+        S->a3 = 0;
+        S->a4 = 0;
+    } else {
+        S->b0 = (g*g*tetta_b*tetta_b + 2*g*b*si*tetta_b + b*b + g*g*c*c)/D;
+        S->b1 = -4*c0*(b*b + g*g*c*c + g*b*si*tetta_b)/D;
+        S->b2 = 2*((b*b + g*g*c*c)*(1 + 2*c0*c0) - g*g*tetta_b*tetta_b)/D;
+        S->b3 = -4*c0*(b*b + g*g*c*c - g*b*si*tetta_b)/D;
+        S->b4 = (g*g*tetta_b*tetta_b - 2*g*b*si*tetta_b + b*b + g*g*c*c)/D;
+
+        S->a0 = 1;
+        S->a1 = -4*c0*(a*a + c*c + a*si*tetta_b)/D;
+        S->a2 = 2*((a*a + c*c)*(1 + 2*c0*c0) - tetta_b*tetta_b)/D;
+        S->a3 = -4*c0*(a*a + c*c - a*si*tetta_b)/D;
+        S->a4 = (tetta_b*tetta_b - 2*a*si*tetta_b + a*a + c*c)/D;
+    }
+}
+
+
+// ------------------------------------------------------------------------- //
+
+int main(int argc, char *argv[]) {
+
+    if (argc != 2) {
+        usage();
+        return 1;
+    }
+
+    int opt = atoi(argv[1]);
+    switch(opt) {
+
+    // int-bounds
+    case 0:
+    {
+          double a = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double c = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double tetta_b = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double g = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double si = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double b = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double D = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double c0 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          int _len_S0 = 1;
+          struct TYPE_3__ * S = (struct TYPE_3__ *) malloc(_len_S0*sizeof(struct TYPE_3__));
+          for(int _i0 = 0; _i0 < _len_S0; _i0++) {
+            S[_i0].b0 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+        S[_i0].b1 = ((-2 * (next_i()%2)) + 1) * next_i();
+        S[_i0].b2 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+        S[_i0].b3 = ((-2 * (next_i()%2)) + 1) * next_i();
+        S[_i0].b4 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+        S[_i0].a0 = ((-2 * (next_i()%2)) + 1) * next_i();
+        S[_i0].a1 = ((-2 * (next_i()%2)) + 1) * next_i();
+        S[_i0].a2 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+        S[_i0].a3 = ((-2 * (next_i()%2)) + 1) * next_i();
+        S[_i0].a4 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          }
+          chebyshev2_fo_section(S,a,c,tetta_b,g,si,b,D,c0);
+          free(S);
+        
+        break;
+    }
+    // big-arr
+    case 1:
+    {
+          double a = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double c = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double tetta_b = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double g = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double si = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double b = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double D = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double c0 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          int _len_S0 = 65025;
+          struct TYPE_3__ * S = (struct TYPE_3__ *) malloc(_len_S0*sizeof(struct TYPE_3__));
+          for(int _i0 = 0; _i0 < _len_S0; _i0++) {
+            S[_i0].b0 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+        S[_i0].b1 = ((-2 * (next_i()%2)) + 1) * next_i();
+        S[_i0].b2 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+        S[_i0].b3 = ((-2 * (next_i()%2)) + 1) * next_i();
+        S[_i0].b4 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+        S[_i0].a0 = ((-2 * (next_i()%2)) + 1) * next_i();
+        S[_i0].a1 = ((-2 * (next_i()%2)) + 1) * next_i();
+        S[_i0].a2 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+        S[_i0].a3 = ((-2 * (next_i()%2)) + 1) * next_i();
+        S[_i0].a4 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          }
+          chebyshev2_fo_section(S,a,c,tetta_b,g,si,b,D,c0);
+          free(S);
+        
+        break;
+    }
+    // big-arr-10x
+    case 2:
+    {
+          double a = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double c = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double tetta_b = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double g = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double si = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double b = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double D = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          double c0 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          int _len_S0 = 100;
+          struct TYPE_3__ * S = (struct TYPE_3__ *) malloc(_len_S0*sizeof(struct TYPE_3__));
+          for(int _i0 = 0; _i0 < _len_S0; _i0++) {
+            S[_i0].b0 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+        S[_i0].b1 = ((-2 * (next_i()%2)) + 1) * next_i();
+        S[_i0].b2 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+        S[_i0].b3 = ((-2 * (next_i()%2)) + 1) * next_i();
+        S[_i0].b4 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+        S[_i0].a0 = ((-2 * (next_i()%2)) + 1) * next_i();
+        S[_i0].a1 = ((-2 * (next_i()%2)) + 1) * next_i();
+        S[_i0].a2 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+        S[_i0].a3 = ((-2 * (next_i()%2)) + 1) * next_i();
+        S[_i0].a4 = ((-2.0 * (next_i()%2)) + 1.0) * (-16777216.000000 + (float) next_f() / (((float) 16777215.000000/(16777215.000000 - -16777216.000000))));
+          }
+          chebyshev2_fo_section(S,a,c,tetta_b,g,si,b,D,c0);
+          free(S);
+        
+        break;
+    }
+
+    default:
+        usage();
+        break;
+
+    }
+
+    return 0;
+}

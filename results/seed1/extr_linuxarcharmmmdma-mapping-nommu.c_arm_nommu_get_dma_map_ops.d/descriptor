@@ -1,2 +1,0 @@
-struct dma_map_ops | dummy int 
-function arm_nommu_get_dma_map_ops const struct dma_map_ops * | coherent int

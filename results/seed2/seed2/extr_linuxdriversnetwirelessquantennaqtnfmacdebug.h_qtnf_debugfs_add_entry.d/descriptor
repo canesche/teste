@@ -1,0 +1,2 @@
+struct qtnf_bus | dummy int 
+function qtnf_debugfs_add_entry void | bus struct qtnf_bus * | name const char * | fn int (*)(struct seq_file *, void *)

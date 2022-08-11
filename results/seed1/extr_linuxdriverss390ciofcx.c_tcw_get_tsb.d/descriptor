@@ -1,3 +1,0 @@
-struct tsb | dummy int 
-struct tcw | tsb long 
-function tcw_get_tsb struct tsb * | tcw struct tcw *

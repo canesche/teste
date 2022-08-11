@@ -1,0 +1,4 @@
+struct TYPE_8__ | plane int | step int 
+struct TYPE_7__ | crop_top int | linesize int * | crop_left int | data long * 
+struct TYPE_6__ | log2_chroma_w int | log2_chroma_h int | flags int | nb_components int | comp struct TYPE_8__ * 
+function calc_cropping_offsets int | offsets unsigned long [4] | frame const struct TYPE_7__ * | desc const struct TYPE_6__ *

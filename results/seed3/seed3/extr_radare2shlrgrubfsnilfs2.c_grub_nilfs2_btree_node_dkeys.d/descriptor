@@ -1,0 +1,2 @@
+struct grub_nilfs2_btree_node | bn_flags int 
+function grub_nilfs2_btree_node_dkeys int * | node struct grub_nilfs2_btree_node *

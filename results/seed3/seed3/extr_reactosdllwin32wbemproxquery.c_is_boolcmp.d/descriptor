@@ -1,0 +1,4 @@
+struct complex_expr | left struct TYPE_3__ * | right struct TYPE_4__ * 
+struct TYPE_4__ | type long 
+struct TYPE_3__ | type long 
+function is_boolcmp int | expr const struct complex_expr * | ltype long | rtype long

@@ -1,0 +1,4 @@
+struct agp_bridge_data | dummy int 
+struct _parisc_agp_info | gatt_entries int | gatt unsigned long * 
+struct TYPE_2__ | scratch_page long 
+function parisc_agp_create_gatt_table int | bridge struct agp_bridge_data *

@@ -1,0 +1,2 @@
+struct sk_buff | data unsigned char * 
+function rose_decode int | skb struct sk_buff * | ns int * | nr int * | q int * | d int * | m int *

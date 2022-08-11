@@ -1,0 +1,3 @@
+struct mxl | tuner int 
+struct dvb_frontend | demodulator_priv struct mxl * 
+function set_input int | fe struct dvb_frontend * | input int

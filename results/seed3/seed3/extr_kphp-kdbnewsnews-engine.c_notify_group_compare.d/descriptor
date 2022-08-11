@@ -1,0 +1,2 @@
+struct notify_group | date long | pos long | num long 
+function notify_group_compare int | a const void * | b const void *

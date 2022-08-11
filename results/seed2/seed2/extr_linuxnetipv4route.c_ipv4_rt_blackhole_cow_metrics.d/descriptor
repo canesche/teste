@@ -1,0 +1,2 @@
+struct dst_entry | dummy int 
+function ipv4_rt_blackhole_cow_metrics int * | dst struct dst_entry * | old unsigned long

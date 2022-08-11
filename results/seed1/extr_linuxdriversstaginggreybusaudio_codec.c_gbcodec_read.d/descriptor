@@ -1,2 +1,0 @@
-struct snd_soc_codec | dummy int 
-function gbcodec_read unsigned int | codec struct snd_soc_codec * | reg unsigned int

@@ -1,0 +1,3 @@
+struct TYPE_2__ | num_reg int | reg long * | free int * 
+struct radeon_device | scratch struct TYPE_2__ 
+function radeon_scratch_free void | rdev struct radeon_device * | reg long

@@ -1,0 +1,2 @@
+struct color_fixup_desc | member_0 int | member_1 int | member_2 int | member_3 int | member_4 int | member_5 int | member_6 int | member_7 int 
+function create_color_fixup_desc struct color_fixup_desc | sign0 int | src0 enum fixup_channel_source | sign1 int | src1 enum fixup_channel_source | sign2 int | src2 enum fixup_channel_source | sign3 int | src3 enum fixup_channel_source

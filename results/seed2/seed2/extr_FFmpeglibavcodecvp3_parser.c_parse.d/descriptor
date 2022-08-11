@@ -1,0 +1,3 @@
+struct TYPE_6__ | codec_id long 
+struct TYPE_5__ | pict_type void * 
+function parse int | s struct TYPE_5__ * | avctx struct TYPE_6__ * | poutbuf const int ** | poutbuf_size int * | buf const int * | buf_size int

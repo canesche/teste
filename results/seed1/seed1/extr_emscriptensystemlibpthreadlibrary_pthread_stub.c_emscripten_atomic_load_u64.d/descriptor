@@ -1,0 +1,1 @@
+function emscripten_atomic_load_u64 int | addr const void *

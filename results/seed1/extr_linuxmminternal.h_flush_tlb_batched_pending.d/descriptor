@@ -1,2 +1,0 @@
-struct mm_struct | dummy int 
-function flush_tlb_batched_pending void | mm struct mm_struct *

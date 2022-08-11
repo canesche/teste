@@ -1,2 +1,0 @@
-struct fsl_ssi | dai_fmt int 
-function fsl_ssi_is_i2s_cbm_cfs int | ssi struct fsl_ssi *

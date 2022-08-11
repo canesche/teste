@@ -1,0 +1,4 @@
+struct snd_pcm_substream | runtime struct snd_pcm_runtime * 
+struct TYPE_2__ | fragshift unsigned int | maxfrags unsigned int | params int | subdivision long 
+struct snd_pcm_runtime | oss struct TYPE_2__ 
+function snd_pcm_oss_set_fragment1 int | substream struct snd_pcm_substream * | val unsigned int

@@ -1,0 +1,4 @@
+struct super_block | s_fs_info struct ovl_fs * 
+struct TYPE_2__ | redirect_dir long 
+struct ovl_fs | noxattr int | config struct TYPE_2__ 
+function ovl_redirect_dir int | sb struct super_block *

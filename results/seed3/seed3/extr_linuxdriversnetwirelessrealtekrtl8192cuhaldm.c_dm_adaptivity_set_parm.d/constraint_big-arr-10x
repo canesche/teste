@@ -1,0 +1,1 @@
+value(TH_L2H_ini) == 10, value(TH_EDCCA_HL_diff) == 10, value(IGI_Base) == 10, value(ForceEDCCA) == 10, value(AdapEn_RSSI) == 10, value(IGI_LowerBound) == 10, length(pAdapter) == 100

@@ -1,0 +1,2 @@
+struct ata_taskfile | hob_lbah int | hob_lbam int | hob_lbal int | lbah int | lbam int | lbal int 
+function ata_tf_to_lba48 int | tf const struct ata_taskfile *

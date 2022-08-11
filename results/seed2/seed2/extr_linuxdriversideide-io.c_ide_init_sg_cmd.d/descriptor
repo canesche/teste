@@ -1,0 +1,2 @@
+struct ide_cmd | nbytes unsigned int | nleft unsigned int | cursg int * | cursg_ofs long 
+function ide_init_sg_cmd void | cmd struct ide_cmd * | nr_bytes unsigned int

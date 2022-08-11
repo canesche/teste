@@ -1,3 +1,0 @@
-struct TYPE_4__ | fClusterStart long 
-struct TYPE_5__ | sva struct TYPE_4__ 
-function UpdateClustersFromGlyphProp void | cGlyphs const int | cChars const int | pwLogClust int * | pGlyphProp struct TYPE_5__ *

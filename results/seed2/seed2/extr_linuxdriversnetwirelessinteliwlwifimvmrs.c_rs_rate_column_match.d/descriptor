@@ -1,0 +1,2 @@
+struct rs_rate | ant long | type long | bw long | sgi long | bfer long | stbc long 
+function rs_rate_column_match int | a struct rs_rate * | b struct rs_rate *

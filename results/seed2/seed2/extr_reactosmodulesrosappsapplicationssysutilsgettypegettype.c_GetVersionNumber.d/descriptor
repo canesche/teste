@@ -1,0 +1,3 @@
+struct TYPE_6__ | dwMajorVersion int | dwMinorVersion int 
+struct TYPE_5__ | sv102_version_major int | sv102_version_minor int 
+function GetVersionNumber int | bLocal long | osvi struct TYPE_6__ * | pBuf102 struct TYPE_5__ *

@@ -1,2 +1,0 @@
-struct rb_node | __rb_parent_color int 
-function rb_set_black void | rb struct rb_node *

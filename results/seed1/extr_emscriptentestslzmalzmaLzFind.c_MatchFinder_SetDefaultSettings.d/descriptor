@@ -1,2 +1,0 @@
-struct TYPE_3__ | cutValue int | btMode int | numHashBytes int | bigHash long 
-function MatchFinder_SetDefaultSettings void | p struct TYPE_3__ *

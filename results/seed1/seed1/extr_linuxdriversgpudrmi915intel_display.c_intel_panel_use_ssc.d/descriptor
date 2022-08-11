@@ -1,0 +1,4 @@
+struct TYPE_3__ | lvds_use_ssc long 
+struct drm_i915_private | quirks int | vbt struct TYPE_3__ 
+struct TYPE_4__ | panel_use_ssc long 
+function intel_panel_use_ssc int | dev_priv struct drm_i915_private *

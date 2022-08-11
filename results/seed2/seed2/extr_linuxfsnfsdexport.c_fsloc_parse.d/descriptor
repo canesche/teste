@@ -1,0 +1,2 @@
+struct nfsd4_fs_locations | dummy int 
+function fsloc_parse int | mesg char ** | buf char * | fsloc struct nfsd4_fs_locations *

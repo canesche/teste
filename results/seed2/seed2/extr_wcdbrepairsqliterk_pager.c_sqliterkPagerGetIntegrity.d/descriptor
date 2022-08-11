@@ -1,0 +1,2 @@
+struct TYPE_3__ | integrity unsigned int 
+function sqliterkPagerGetIntegrity unsigned int | pager struct TYPE_3__ *

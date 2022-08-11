@@ -1,0 +1,7 @@
+struct scsi_cmnd | request struct TYPE_4__ * 
+struct fib | callback int * | callback_data int * | type int | hw_fib_va struct TYPE_6__ * 
+struct aac_dev | fibs struct fib * 
+struct TYPE_5__ | XferState long 
+struct TYPE_6__ | header struct TYPE_5__ 
+struct TYPE_4__ | tag unsigned long 
+function aac_fib_alloc_tag struct fib * | dev struct aac_dev * | scmd struct scsi_cmnd *

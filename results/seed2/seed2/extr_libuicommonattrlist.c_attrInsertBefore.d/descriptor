@@ -1,0 +1,3 @@
+struct TYPE_3__ | first struct attr * | last struct attr * 
+struct attr | next struct attr * | prev struct attr * 
+function attrInsertBefore void | alist struct TYPE_3__ * | a struct attr * | before struct attr *

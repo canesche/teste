@@ -1,3 +1,0 @@
-struct TYPE_4__ | filled unsigned long 
-struct TYPE_5__ | targetSectionSize unsigned long | inBuff struct TYPE_4__ 
-function ZSTDMT_nextInputSizeHint unsigned long | mtctx const struct TYPE_5__ *

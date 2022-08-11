@@ -1,4 +1,0 @@
-struct playlist | start_seq_no int | n_segments int | segments struct TYPE_4__ ** 
-struct TYPE_5__ | first_timestamp long 
-struct TYPE_4__ | duration long 
-function find_timestamp_in_playlist int | c struct TYPE_5__ * | pls struct playlist * | timestamp long | seq_no int *

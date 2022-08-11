@@ -1,4 +1,0 @@
-struct qed_hwfn | vf_iov_info struct TYPE_2__ * 
-struct qed_bulletin_content | geneve_udp_port int | vxlan_udp_port int 
-struct TYPE_2__ | bulletin_shadow struct qed_bulletin_content 
-function qed_vf_bulletin_get_udp_ports void | p_hwfn struct qed_hwfn * | p_vxlan_port int * | p_geneve_port int *

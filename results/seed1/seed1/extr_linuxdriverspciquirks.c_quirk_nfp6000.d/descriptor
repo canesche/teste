@@ -1,0 +1,2 @@
+struct pci_dev | cfg_size int 
+function quirk_nfp6000 void | dev struct pci_dev *

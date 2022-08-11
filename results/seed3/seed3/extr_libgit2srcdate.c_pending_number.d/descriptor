@@ -1,0 +1,2 @@
+struct tm | tm_mday int | tm_mon int | tm_year int 
+function pending_number void | tm struct tm * | num int *

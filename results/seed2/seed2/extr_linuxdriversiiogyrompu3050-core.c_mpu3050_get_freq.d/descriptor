@@ -1,0 +1,2 @@
+struct mpu3050 | lpf long | divisor int 
+function mpu3050_get_freq unsigned int | mpu3050 struct mpu3050 *

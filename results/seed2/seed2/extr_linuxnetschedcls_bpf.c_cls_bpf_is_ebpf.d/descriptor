@@ -1,0 +1,2 @@
+struct cls_bpf_prog | bpf_ops int 
+function cls_bpf_is_ebpf int | prog const struct cls_bpf_prog *

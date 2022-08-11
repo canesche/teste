@@ -1,0 +1,2 @@
+struct rsvd_bits_validate | rsvd_bits_mask int ** | bad_mt_xwr unsigned long long 
+function __is_rsvd_bits_set int | rsvd_check struct rsvd_bits_validate * | pte int | level int

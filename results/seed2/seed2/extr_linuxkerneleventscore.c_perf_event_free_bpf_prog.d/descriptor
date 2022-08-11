@@ -1,0 +1,2 @@
+struct perf_event | dummy int 
+function perf_event_free_bpf_prog void | event struct perf_event *

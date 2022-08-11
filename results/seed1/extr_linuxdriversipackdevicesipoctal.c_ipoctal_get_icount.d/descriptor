@@ -1,5 +1,0 @@
-struct tty_struct | driver_data struct ipoctal_channel * 
-struct serial_icounter_struct | brk int | parity int | frame int | tx int | rx int | dcd long | rng long | dsr long | cts long 
-struct TYPE_2__ | rcv_break int | parity_err int | framing_err int | tx int | rx int 
-struct ipoctal_channel | stats struct TYPE_2__ 
-function ipoctal_get_icount int | tty struct tty_struct * | icount struct serial_icounter_struct *

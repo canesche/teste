@@ -1,0 +1,2 @@
+struct snd_ac97 | dummy int 
+function olpc_analog_input void | ac97 struct snd_ac97 * | on int

@@ -1,0 +1,4 @@
+struct btrfs_work | wq struct TYPE_2__ * 
+struct btrfs_fs_info | dummy int 
+struct TYPE_2__ | fs_info struct btrfs_fs_info * 
+function btrfs_work_owner struct btrfs_fs_info * | work const struct btrfs_work *

@@ -1,3 +1,0 @@
-struct TYPE_4__ | IDirectInputDevice8A_iface int 
-struct TYPE_5__ | base struct TYPE_4__ 
-function IDirectInputDevice8A_from_impl int * | This struct TYPE_5__ *

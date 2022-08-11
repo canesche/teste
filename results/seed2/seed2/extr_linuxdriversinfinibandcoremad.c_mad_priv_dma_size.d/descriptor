@@ -1,0 +1,3 @@
+struct ib_mad_private | mad_size unsigned long 
+struct ib_grh | dummy int 
+function mad_priv_dma_size unsigned long | mp const struct ib_mad_private *

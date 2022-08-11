@@ -1,0 +1,2 @@
+struct _Locale_codecvt | dummy int 
+function _Locale_codecvt_destroy void | lcodecvt struct _Locale_codecvt *

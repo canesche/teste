@@ -1,2 +1,0 @@
-struct timeval | dummy int 
-function utimes int | filename const char * | times struct timeval const[2]

@@ -1,0 +1,3 @@
+struct TYPE_3__ | xscale float | bias float | yscale float 
+struct TYPE_4__ | uiDC struct TYPE_3__ 
+function UI_AdjustFrom640 void | x float * | y float * | w float * | h float *

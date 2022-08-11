@@ -1,0 +1,2 @@
+struct pinctrl_dev | dummy int 
+function abx500_pin_config_get int | pctldev struct pinctrl_dev * | pin unsigned int | config unsigned long *

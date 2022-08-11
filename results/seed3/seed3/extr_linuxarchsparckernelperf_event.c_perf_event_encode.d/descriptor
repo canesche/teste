@@ -1,0 +1,2 @@
+struct perf_event_map | pic_mask unsigned long | encoding long 
+function perf_event_encode unsigned long | pmap const struct perf_event_map *

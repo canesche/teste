@@ -1,4 +1,0 @@
-struct TYPE_7__ | format int | dst struct TYPE_5__ * 
-struct TYPE_6__ | hi_pixel_mask int | lo_pixel_mask int | q_hi_pixel_mask int | q_lo_pixel_mask int | bpp int | is_be int 
-struct TYPE_5__ | priv struct TYPE_6__ * 
-function config_input int | inlink struct TYPE_7__ *

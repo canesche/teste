@@ -1,0 +1,2 @@
+struct kobject | dummy int 
+function blk_mq_sysfs_release void | kobj struct kobject *

@@ -1,0 +1,3 @@
+struct pid_stat | fds_size unsigned long | fds struct pid_fd * 
+struct pid_fd | fd int 
+function make_all_pid_fds_negative void | p struct pid_stat *

@@ -1,5 +1,0 @@
-struct rev_info | dummy int 
-struct TYPE_3__ | flags int 
-struct commit | parents struct TYPE_4__ * | object struct TYPE_3__ 
-struct TYPE_4__ | item struct commit * | next long 
-function line_log_rewrite_one enum rewrite_result | rev struct rev_info * | pp struct commit **

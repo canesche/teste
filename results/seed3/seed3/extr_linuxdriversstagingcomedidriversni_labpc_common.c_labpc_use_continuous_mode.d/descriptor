@@ -1,0 +1,2 @@
+struct comedi_cmd | scan_begin_src long 
+function labpc_use_continuous_mode int | cmd const struct comedi_cmd * | mode enum scan_mode

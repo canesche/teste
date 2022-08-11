@@ -1,0 +1,4 @@
+struct nlattr | dummy int 
+struct nft_set_desc | dummy int 
+struct nft_rhash | dummy int 
+function nft_rhash_privsize int | nla const struct nlattr *const[] | desc const struct nft_set_desc *

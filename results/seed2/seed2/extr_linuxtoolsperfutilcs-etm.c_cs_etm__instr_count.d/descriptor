@@ -1,0 +1,2 @@
+struct cs_etm_packet | end_addr int | start_addr int 
+function cs_etm__instr_count int | packet const struct cs_etm_packet *

@@ -1,0 +1,1 @@
+function ff_vc1_h_s_overlap_mmi void | left int * | right int * | left_stride int | right_stride int | flags int

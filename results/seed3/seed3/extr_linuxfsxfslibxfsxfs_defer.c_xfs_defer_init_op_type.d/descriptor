@@ -1,0 +1,2 @@
+struct xfs_defer_op_type | type unsigned long 
+function xfs_defer_init_op_type void | type const struct xfs_defer_op_type *

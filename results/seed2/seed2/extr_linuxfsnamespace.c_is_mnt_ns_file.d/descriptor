@@ -1,0 +1,2 @@
+struct dentry | d_fsdata int * | d_op int * 
+function is_mnt_ns_file int | dentry struct dentry *

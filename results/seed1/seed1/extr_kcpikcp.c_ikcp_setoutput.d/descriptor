@@ -1,0 +1,2 @@
+struct TYPE_5__ | output int (*)(const char *, int, struct TYPE_5__ *, void *) 
+function ikcp_setoutput void | kcp struct TYPE_5__ * | output int (*)(const char *, int, struct TYPE_5__ *, void *)

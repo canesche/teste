@@ -1,0 +1,6 @@
+struct TYPE_8__ | offset int | length int 
+struct TYPE_7__ | length int | offset int 
+struct TYPE_6__ | offset int | length int 
+struct TYPE_5__ | offset int | length int 
+struct fb_var_screeninfo | transp struct TYPE_8__ | blue struct TYPE_7__ | green struct TYPE_6__ | red struct TYPE_5__ 
+function drm_fb_helper_fill_pixel_fmt void | var struct fb_var_screeninfo * | depth int

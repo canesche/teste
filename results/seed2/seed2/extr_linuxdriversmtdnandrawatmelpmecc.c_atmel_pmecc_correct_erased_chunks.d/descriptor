@@ -1,0 +1,4 @@
+struct atmel_pmecc_user | pmecc struct TYPE_4__ * 
+struct TYPE_4__ | caps struct TYPE_3__ * 
+struct TYPE_3__ | correct_erased_chunks int 
+function atmel_pmecc_correct_erased_chunks int | user struct atmel_pmecc_user *

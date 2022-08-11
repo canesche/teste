@@ -1,3 +1,0 @@
-struct tda10071_dev | dvbv3_ber int 
-struct dvb_frontend | demodulator_priv struct tda10071_dev * 
-function tda10071_read_ber int | fe struct dvb_frontend * | ber int *

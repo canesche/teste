@@ -1,2 +1,0 @@
-struct fsl_asoc_card_priv | dai_fmt long 
-function fsl_asoc_card_is_ac97 int | priv struct fsl_asoc_card_priv *

@@ -1,0 +1,5 @@
+struct pt_regs | orig_r28 long | kpc long | ksp long | ior int | isr int | iir int | sar int | iaoq int * | iasq int * | sr int * | fr int * | gr int * 
+struct pdc_hpmc_pim_20 | cr int * | iaoq_back int | iasq_back int | sr int * | fr int * | gr int * 
+struct pdc_hpmc_pim_11 | cr int * | iaoq_back int | iasq_back int | sr int * | fr int * | gr int * 
+struct TYPE_2__ | cpu_type long 
+function transfer_pim_to_trap_frame void | regs struct pt_regs *

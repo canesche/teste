@@ -1,3 +1,0 @@
-struct sd_info | err_code int 
-struct rtsx_chip | sd_card struct sd_info 
-function sd_set_err_code void | chip struct rtsx_chip * | err_code int

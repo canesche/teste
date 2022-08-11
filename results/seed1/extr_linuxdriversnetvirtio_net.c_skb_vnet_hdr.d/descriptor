@@ -1,3 +1,0 @@
-struct virtio_net_hdr_mrg_rxbuf | dummy int 
-struct sk_buff | cb long 
-function skb_vnet_hdr struct virtio_net_hdr_mrg_rxbuf * | skb struct sk_buff *

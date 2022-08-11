@@ -1,2 +1,0 @@
-struct tb_path | egress_fc_enable int | priority int | weight int | nfc_credits long | drop_packages long | ingress_shared_buffer void * | ingress_fc_enable int | egress_shared_buffer void * 
-function tb_pci_init_path void | path struct tb_path *

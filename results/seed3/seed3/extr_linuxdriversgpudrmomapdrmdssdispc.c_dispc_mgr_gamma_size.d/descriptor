@@ -1,0 +1,5 @@
+struct dispc_gamma_desc | len int 
+struct dispc_device | feat struct TYPE_3__ * 
+struct TYPE_4__ | gamma struct dispc_gamma_desc 
+struct TYPE_3__ | has_gamma_table int 
+function dispc_mgr_gamma_size int | dispc struct dispc_device * | channel enum omap_channel

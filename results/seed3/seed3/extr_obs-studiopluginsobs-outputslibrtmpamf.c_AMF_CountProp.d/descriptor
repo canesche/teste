@@ -1,0 +1,2 @@
+struct TYPE_3__ | o_num int 
+function AMF_CountProp int | obj struct TYPE_3__ *

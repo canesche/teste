@@ -1,2 +1,0 @@
-struct tpg_data | pattern int | src_width unsigned int 
-function tpg_get_color enum tpg_color | tpg const struct tpg_data * | pat_line unsigned int | x unsigned int

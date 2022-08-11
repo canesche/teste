@@ -1,0 +1,2 @@
+struct action_fifo | head long | tail long 
+function action_fifo_is_empty int | fifo const struct action_fifo *

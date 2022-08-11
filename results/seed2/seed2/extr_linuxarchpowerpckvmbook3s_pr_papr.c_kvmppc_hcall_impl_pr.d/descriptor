@@ -1,0 +1,1 @@
+function kvmppc_hcall_impl_pr int | cmd unsigned long

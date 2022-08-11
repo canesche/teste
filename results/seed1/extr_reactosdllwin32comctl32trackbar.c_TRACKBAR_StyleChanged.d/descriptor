@@ -1,3 +1,0 @@
-struct TYPE_6__ | styleNew int 
-struct TYPE_5__ | dwStyle int 
-function TRACKBAR_StyleChanged int | infoPtr struct TYPE_5__ * | wStyleType long | lpss const struct TYPE_6__ *

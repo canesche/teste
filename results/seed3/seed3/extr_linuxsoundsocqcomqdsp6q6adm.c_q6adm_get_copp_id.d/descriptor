@@ -1,0 +1,2 @@
+struct q6copp | copp_idx int 
+function q6adm_get_copp_id int | copp struct q6copp *

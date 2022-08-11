@@ -1,3 +1,0 @@
-struct vc_data | vc_uni_pagedir_loc struct uni_pagedir ** 
-struct uni_pagedir | uni_pgdir int *** 
-function conv_uni_to_pc int | conp struct vc_data * | ucs long

@@ -1,0 +1,3 @@
+struct mm_struct | dummy int 
+struct TYPE_2__ | flags int | mm struct mm_struct * 
+function vmacache_valid_mm int | mm struct mm_struct *

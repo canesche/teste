@@ -1,0 +1,6 @@
+struct TYPE_2__ | ch unsigned long | lun unsigned long 
+struct ppa_addr | a struct TYPE_2__ 
+struct nvm_tgt_dev | map struct nvm_dev_map * 
+struct nvm_dev_map | chnls struct nvm_ch_map * 
+struct nvm_ch_map | lun_offs int * | ch_off long 
+function nvm_map_to_dev void | tgt_dev struct nvm_tgt_dev * | p struct ppa_addr *

@@ -1,0 +1,2 @@
+struct tipc_link | state long 
+function tipc_link_is_failingover int | l struct tipc_link *

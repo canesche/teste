@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct netdevsim | dummy int 
+function nsim_ipsec_tx int | ns struct netdevsim * | skb struct sk_buff *

@@ -1,0 +1,1 @@
+function SDL_AMediaCodecDummy_writeInputData unsigned long | acodec int * | idx unsigned long | data const int * | size unsigned long

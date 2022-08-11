@@ -1,0 +1,3 @@
+struct TYPE_4__ | len unsigned long 
+struct TYPE_5__ | v struct TYPE_4__ 
+function r_pvector_len unsigned long | vec const struct TYPE_5__ *

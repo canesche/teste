@@ -1,2 +1,0 @@
-struct dwc2_hsotg | dummy int 
-function dwc2_hcd_start void | hsotg struct dwc2_hsotg *

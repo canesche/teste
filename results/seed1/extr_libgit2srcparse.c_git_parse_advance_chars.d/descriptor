@@ -1,2 +1,0 @@
-struct TYPE_3__ | line unsigned long | remain_len unsigned long | line_len unsigned long 
-function git_parse_advance_chars void | ctx struct TYPE_3__ * | char_cnt unsigned long

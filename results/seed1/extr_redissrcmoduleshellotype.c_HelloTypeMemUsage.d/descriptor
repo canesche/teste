@@ -1,3 +1,0 @@
-struct HelloTypeObject | len int | head struct HelloTypeNode * 
-struct HelloTypeNode | dummy int 
-function HelloTypeMemUsage unsigned long | value const void *

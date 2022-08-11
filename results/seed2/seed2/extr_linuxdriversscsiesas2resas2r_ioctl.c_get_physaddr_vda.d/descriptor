@@ -1,0 +1,3 @@
+struct esas2r_sg_context | cur_offset long | adapter long 
+struct esas2r_adapter | ppvda_buffer long | vda_buffer long 
+function get_physaddr_vda long | sgc struct esas2r_sg_context * | addr long *

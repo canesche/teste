@@ -1,0 +1,1 @@
+function _glfwPlatformSetWindowDecorated void | window int * | enabled int

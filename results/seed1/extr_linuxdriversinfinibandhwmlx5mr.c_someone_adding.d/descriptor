@@ -1,3 +1,0 @@
-struct mlx5_mr_cache | ent struct TYPE_2__ * 
-struct TYPE_2__ | cur long | limit long 
-function someone_adding int | cache struct mlx5_mr_cache *

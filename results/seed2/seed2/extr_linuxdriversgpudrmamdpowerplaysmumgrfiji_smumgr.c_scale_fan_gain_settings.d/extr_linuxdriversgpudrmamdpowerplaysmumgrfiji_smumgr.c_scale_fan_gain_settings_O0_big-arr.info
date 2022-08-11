@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmamdpowerplaysmumgrfiji_smumgr.c_scale_fan_gain_settings.d/extr_linuxdriversgpudrmamdpowerplaysmumgrfiji_smumgr.c_scale_fan_gain_settings_O0::scale_fan_gain_settings(62)"
+  }
+]

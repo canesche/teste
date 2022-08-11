@@ -1,0 +1,2 @@
+struct TransferCharacteristics | alpha int 
+function get_transfer_characteristics const struct TransferCharacteristics * | trc enum AVColorTransferCharacteristic

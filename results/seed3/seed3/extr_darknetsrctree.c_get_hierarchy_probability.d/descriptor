@@ -1,0 +1,2 @@
+struct TYPE_3__ | parent int * 
+function get_hierarchy_probability float | x float * | hier struct TYPE_3__ * | c int | stride int

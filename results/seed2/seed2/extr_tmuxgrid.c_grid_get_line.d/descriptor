@@ -1,0 +1,3 @@
+struct grid_line | dummy int 
+struct grid | linedata struct grid_line * 
+function grid_get_line struct grid_line * | gd struct grid * | line unsigned long

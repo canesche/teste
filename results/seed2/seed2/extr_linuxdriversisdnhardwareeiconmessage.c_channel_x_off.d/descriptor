@@ -1,0 +1,3 @@
+struct TYPE_5__ | ch_flow_control int * | ch_flow_control_pending int | ch_flow_plci int * 
+struct TYPE_4__ | Id int | adapter struct TYPE_5__ * 
+function channel_x_off void | plci struct TYPE_4__ * | ch unsigned long | flag unsigned long

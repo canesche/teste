@@ -1,0 +1,2 @@
+struct sclp_register | dummy int 
+function sclp_quiesce_pm_event void | reg struct sclp_register * | sclp_pm_event enum sclp_pm_event

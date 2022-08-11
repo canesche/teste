@@ -1,0 +1,2 @@
+struct TYPE_3__ | powerups int 
+function EntityHasQuad int | entinfo struct TYPE_3__ *

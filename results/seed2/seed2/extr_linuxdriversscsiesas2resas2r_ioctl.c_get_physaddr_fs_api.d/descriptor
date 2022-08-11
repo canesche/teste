@@ -1,0 +1,4 @@
+struct esas2r_sg_context | cur_offset long | adapter long 
+struct esas2r_ioctl_fs | dummy int 
+struct esas2r_adapter | ppfs_api_buffer int | fs_api_buffer_size int | fs_api_buffer long 
+function get_physaddr_fs_api int | sgc struct esas2r_sg_context * | addr int *

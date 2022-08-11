@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 19,
+    static: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverscharipmiipmi_si_intf.c_current_global_enables.d/extr_linuxdriverscharipmiipmi_si_intf.c_current_global_enables_O0::current_global_enables(68)"
+  }
+]

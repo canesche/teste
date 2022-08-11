@@ -1,0 +1,2 @@
+struct i2c_client | dummy int 
+function ltc3815_read_byte_data int | client struct i2c_client * | page int | reg int

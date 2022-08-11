@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetqlogicqedqed_mcp.c_qed_mcp_get_link_capabilities.d/extr_linuxdriversnetethernetqlogicqedqed_mcp.c_qed_mcp_get_link_capabilities_O0::qed_mcp_get_link_capabilities(65)"
+  }
+]

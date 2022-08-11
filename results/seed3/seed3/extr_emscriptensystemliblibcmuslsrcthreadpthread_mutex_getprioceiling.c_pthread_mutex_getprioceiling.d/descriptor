@@ -1,0 +1,1 @@
+function pthread_mutex_getprioceiling int | m const int *__restrict | ceiling int *__restrict

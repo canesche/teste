@@ -1,0 +1,2 @@
+struct TYPE_3__ | seq int 
+function zbar_image_get_sequence unsigned int | img const struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct flexcop_device | dummy int 
+function flexcop_usb_stream_control int | fc struct flexcop_device * | onoff int

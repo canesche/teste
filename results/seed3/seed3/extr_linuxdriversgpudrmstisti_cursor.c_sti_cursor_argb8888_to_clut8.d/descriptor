@@ -1,0 +1,3 @@
+struct TYPE_2__ | base int * 
+struct sti_cursor | height unsigned int | width unsigned int | pixmap struct TYPE_2__ 
+function sti_cursor_argb8888_to_clut8 void | cursor struct sti_cursor * | src int *

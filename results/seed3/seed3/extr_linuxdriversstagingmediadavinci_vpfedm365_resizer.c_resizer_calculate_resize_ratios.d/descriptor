@@ -1,0 +1,8 @@
+struct TYPE_7__ | formats struct v4l2_mbus_framefmt * 
+struct TYPE_6__ | formats struct v4l2_mbus_framefmt * 
+struct TYPE_5__ | formats struct v4l2_mbus_framefmt * 
+struct resizer_params | rsz_rsc_param struct TYPE_8__ * 
+struct vpfe_resizer_device | resizer_b struct TYPE_7__ | resizer_a struct TYPE_6__ | crop_resizer struct TYPE_5__ | config struct resizer_params 
+struct v4l2_mbus_framefmt | field long | height int | width int 
+struct TYPE_8__ | v_dif int | h_dif int 
+function resizer_calculate_resize_ratios void | resizer struct vpfe_resizer_device * | index int

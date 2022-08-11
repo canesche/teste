@@ -1,0 +1,3 @@
+struct cxgbi_ppod_data | caller_data unsigned long | npods int | color int 
+struct cxgbi_ppm | ppod_data struct cxgbi_ppod_data * 
+function ppm_mark_entries void | ppm struct cxgbi_ppm * | i int | count int | caller_data unsigned long

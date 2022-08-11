@@ -1,0 +1,3 @@
+struct TYPE_4__ | count int | layers struct TYPE_5__ * 
+struct TYPE_5__ | type long 
+function _ccv_convnet_find_scan int | convnet struct TYPE_4__ *

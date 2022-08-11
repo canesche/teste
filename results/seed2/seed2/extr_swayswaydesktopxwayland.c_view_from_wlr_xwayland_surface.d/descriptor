@@ -1,0 +1,3 @@
+struct wlr_xwayland_surface | data struct sway_view * 
+struct sway_view | dummy int 
+function view_from_wlr_xwayland_surface struct sway_view * | xsurface struct wlr_xwayland_surface *

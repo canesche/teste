@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversdmadma-jz4740.c_jz4740_dma_maxburst.d/extr_linuxdriversdmadma-jz4740.c_jz4740_dma_maxburst_O0::jz4740_dma_maxburst(67)"
+  }
+]

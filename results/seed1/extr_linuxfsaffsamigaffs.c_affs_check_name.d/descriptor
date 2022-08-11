@@ -1,1 +1,0 @@
-function affs_check_name int | name const unsigned char * | len int | notruncate int

@@ -1,2 +1,0 @@
-struct riscv_opcode | match int | mask int 
-function match_opcode int | op const struct riscv_opcode * | insn int

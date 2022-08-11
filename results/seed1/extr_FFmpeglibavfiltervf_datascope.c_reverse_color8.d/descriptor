@@ -1,4 +1,0 @@
-struct TYPE_9__ | rgba int * | comp struct TYPE_7__ * 
-struct TYPE_8__ | nb_planes int 
-struct TYPE_7__ | u8 int * 
-function reverse_color8 void | draw struct TYPE_8__ * | color struct TYPE_9__ * | reverse struct TYPE_9__ *

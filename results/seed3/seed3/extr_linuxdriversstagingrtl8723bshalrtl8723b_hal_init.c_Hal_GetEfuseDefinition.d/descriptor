@@ -1,0 +1,2 @@
+struct adapter | dummy int 
+function Hal_GetEfuseDefinition void | padapter struct adapter * | efuseType int | type int | pOut void * | bPseudoTest int

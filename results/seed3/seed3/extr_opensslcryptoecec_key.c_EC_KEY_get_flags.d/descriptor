@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int 
+function EC_KEY_get_flags int | key const struct TYPE_3__ *

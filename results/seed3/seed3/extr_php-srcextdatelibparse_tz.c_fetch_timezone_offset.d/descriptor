@@ -1,0 +1,3 @@
+struct TYPE_4__ | timecnt unsigned long | typecnt int 
+struct TYPE_5__ | trans long * | trans_idx unsigned long * | bit64 struct TYPE_4__ | type int * 
+function fetch_timezone_offset int * | tz struct TYPE_5__ * | ts long | transition_time long *

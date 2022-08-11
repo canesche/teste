@@ -1,0 +1,2 @@
+struct TYPE_3__ | rows int | cols int | mines int 
+function CheckLevel void | p_board struct TYPE_3__ *

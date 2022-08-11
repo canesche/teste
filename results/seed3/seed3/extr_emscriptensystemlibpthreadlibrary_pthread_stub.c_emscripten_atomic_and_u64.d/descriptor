@@ -1,0 +1,1 @@
+function emscripten_atomic_and_u64 int | addr void * | val int

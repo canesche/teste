@@ -1,3 +1,0 @@
-struct vmbus_channel | device_obj struct hv_device * | primary_channel struct vmbus_channel * 
-struct hv_device | dummy int 
-function netvsc_channel_to_device struct hv_device * | channel struct vmbus_channel *

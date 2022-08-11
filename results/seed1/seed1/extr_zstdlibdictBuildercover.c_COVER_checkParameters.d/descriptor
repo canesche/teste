@@ -1,0 +1,2 @@
+struct TYPE_3__ | d unsigned long | k unsigned long | splitPoint int 
+function COVER_checkParameters int | parameters struct TYPE_3__ | maxDictSize unsigned long

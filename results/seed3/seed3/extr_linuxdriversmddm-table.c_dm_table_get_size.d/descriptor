@@ -1,0 +1,2 @@
+struct dm_table | num_targets int | highs long * 
+function dm_table_get_size long | t struct dm_table *

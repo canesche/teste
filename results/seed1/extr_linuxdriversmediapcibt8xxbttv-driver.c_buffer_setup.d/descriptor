@@ -1,4 +1,0 @@
-struct videobuf_queue | priv_data struct bttv_fh * 
-struct bttv_fh | width int | height int | fmt struct TYPE_2__ * 
-struct TYPE_2__ | depth int 
-function buffer_setup int | q struct videobuf_queue * | count unsigned int * | size unsigned int *

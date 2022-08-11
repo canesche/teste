@@ -1,0 +1,6 @@
+struct TYPE_6__ | passthrough int 
+struct resizer_params | rsz_common struct TYPE_6__ | rsz_rsc_param struct TYPE_5__ * | rsz_en void ** | rsz2rgb struct TYPE_4__ * 
+struct vpfe_resizer_device | config struct resizer_params 
+struct TYPE_5__ | v_dif int | h_dif int | i_hps long | i_vps long | dscale_en void * | h_lpf_int_c long | h_lpf_int_y long | h_phs long | v_lpf_int_c long | v_lpf_int_y long | v_phs_c long | v_phs_y long | yen void * | cen void * 
+struct TYPE_4__ | rgb_en void * 
+function resizer_configure_passthru void | resizer struct vpfe_resizer_device * | bypass int

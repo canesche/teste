@@ -1,0 +1,2 @@
+struct tsens_sensor | offset int | slope int 
+function code_to_degc int | adc_code int | s const struct tsens_sensor *

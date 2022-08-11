@@ -1,2 +1,0 @@
-struct hci_dev | dummy int 
-function btintel_set_bdaddr int | hdev struct hci_dev * | bdaddr const int *

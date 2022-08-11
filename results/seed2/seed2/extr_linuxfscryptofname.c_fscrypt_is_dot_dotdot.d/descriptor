@@ -1,0 +1,2 @@
+struct qstr | len int | name char * 
+function fscrypt_is_dot_dotdot int | str const struct qstr *

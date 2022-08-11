@@ -1,2 +1,0 @@
-struct dao_ctrl_blk | spos unsigned int 
-function dao_get_spos int | blk void * | spos unsigned int *

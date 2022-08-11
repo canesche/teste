@@ -1,2 +1,0 @@
-struct yyguts_t | dummy int 
-function yyset_out void | _out_str int * | yyscanner long

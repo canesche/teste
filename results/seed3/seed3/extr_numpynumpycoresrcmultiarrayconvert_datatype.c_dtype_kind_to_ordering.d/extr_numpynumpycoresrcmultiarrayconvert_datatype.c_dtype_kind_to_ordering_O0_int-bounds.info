@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_numpynumpycoresrcmultiarrayconvert_datatype.c_dtype_kind_to_ordering.d/extr_numpynumpycoresrcmultiarrayconvert_datatype.c_dtype_kind_to_ordering_O0::dtype_kind_to_ordering(61)"
+  }
+]

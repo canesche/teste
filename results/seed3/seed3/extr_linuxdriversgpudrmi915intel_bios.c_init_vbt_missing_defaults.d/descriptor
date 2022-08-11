@@ -1,0 +1,4 @@
+struct TYPE_2__ | ddi_port_info struct ddi_vbt_port_info * 
+struct drm_i915_private | vbt struct TYPE_2__ 
+struct ddi_vbt_port_info | supports_dvi int | supports_hdmi int | supports_dp int 
+function init_vbt_missing_defaults void | dev_priv struct drm_i915_private *

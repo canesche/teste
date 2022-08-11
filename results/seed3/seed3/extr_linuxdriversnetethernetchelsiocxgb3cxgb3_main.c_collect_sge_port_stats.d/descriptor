@@ -1,0 +1,5 @@
+struct port_info | first_qset int | nqsets int 
+struct TYPE_4__ | qs struct TYPE_3__ * 
+struct adapter | sge struct TYPE_4__ 
+struct TYPE_3__ | port_stats long * 
+function collect_sge_port_stats unsigned long | adapter struct adapter * | p struct port_info * | idx int

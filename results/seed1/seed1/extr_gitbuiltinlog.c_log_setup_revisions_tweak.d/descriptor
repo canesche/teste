@@ -1,0 +1,6 @@
+struct setup_revision_opt | dummy int 
+struct TYPE_5__ | follow_renames int | default_follow_renames long 
+struct TYPE_6__ | output_format long | flags struct TYPE_5__ 
+struct TYPE_4__ | nr int 
+struct rev_info | ignore_merges long | combine_merges long | diffopt struct TYPE_6__ | prune_data struct TYPE_4__ 
+function log_setup_revisions_tweak void | rev struct rev_info * | opt struct setup_revision_opt *

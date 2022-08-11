@@ -1,0 +1,6 @@
+struct resource | start int | flags int 
+struct pci_dev | sysdata struct pci_controller * 
+struct pci_controller | mem_resource struct TYPE_4__ * | io_resource struct TYPE_3__ * 
+struct TYPE_4__ | start int 
+struct TYPE_3__ | start int 
+function pcibios_align_resource int | data void * | res const struct resource * | size int | align int

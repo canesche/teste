@@ -1,3 +1,0 @@
-struct platform_device | dummy int 
-struct device_node | dummy int 
-function spear_smi_probe_config_dt int | pdev struct platform_device * | np struct device_node *

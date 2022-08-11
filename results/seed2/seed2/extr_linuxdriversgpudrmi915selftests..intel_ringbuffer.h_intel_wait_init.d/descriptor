@@ -1,0 +1,2 @@
+struct intel_wait | request int * | tsk int 
+function intel_wait_init void | wait struct intel_wait *

@@ -1,0 +1,1 @@
+function reg_intersect_dfs_region enum nl80211_dfs_regions | dfs_region1 const enum nl80211_dfs_regions | dfs_region2 const enum nl80211_dfs_regions

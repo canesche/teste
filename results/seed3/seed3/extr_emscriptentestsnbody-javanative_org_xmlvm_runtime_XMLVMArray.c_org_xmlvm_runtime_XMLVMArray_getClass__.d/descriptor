@@ -1,0 +1,4 @@
+struct TYPE_7__ | type_ struct TYPE_9__ * 
+struct TYPE_8__ | org_xmlvm_runtime_XMLVMArray struct TYPE_7__ 
+struct TYPE_9__ | fields struct TYPE_8__ 
+function org_xmlvm_runtime_XMLVMArray_getClass__ struct TYPE_9__ * | me struct TYPE_9__ *

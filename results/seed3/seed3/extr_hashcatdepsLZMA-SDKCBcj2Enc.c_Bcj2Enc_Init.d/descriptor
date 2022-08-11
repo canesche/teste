@@ -1,0 +1,2 @@
+struct TYPE_3__ | range int | cacheSize int | probs int * | flushPos long | tempPos long | relatLimit int | fileSize long | fileIp long | ip long | low long | cache long | prevByte long | finishMode int | state int 
+function Bcj2Enc_Init void | p struct TYPE_3__ *

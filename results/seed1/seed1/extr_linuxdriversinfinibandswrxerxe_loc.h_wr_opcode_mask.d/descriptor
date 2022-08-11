@@ -1,0 +1,4 @@
+struct TYPE_3__ | qp_type unsigned long 
+struct rxe_qp | ibqp struct TYPE_3__ 
+struct TYPE_4__ | mask unsigned int * 
+function wr_opcode_mask unsigned int | opcode int | qp struct rxe_qp *

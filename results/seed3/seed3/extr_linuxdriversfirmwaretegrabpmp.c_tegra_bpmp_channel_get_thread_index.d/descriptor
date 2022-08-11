@@ -1,0 +1,6 @@
+struct tegra_bpmp_channel | bpmp struct tegra_bpmp * 
+struct tegra_bpmp | threaded_channels struct tegra_bpmp_channel * | soc struct TYPE_6__ * 
+struct TYPE_4__ | count unsigned int 
+struct TYPE_5__ | thread struct TYPE_4__ 
+struct TYPE_6__ | channels struct TYPE_5__ 
+function tegra_bpmp_channel_get_thread_index int | channel struct tegra_bpmp_channel *

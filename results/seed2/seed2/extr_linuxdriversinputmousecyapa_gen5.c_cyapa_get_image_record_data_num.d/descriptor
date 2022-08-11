@@ -1,0 +1,3 @@
+struct firmware | data int * | size int 
+struct cyapa_tsg_bin_image_data_record | dummy int 
+function cyapa_get_image_record_data_num struct cyapa_tsg_bin_image_data_record * | fw const struct firmware * | record_num int *

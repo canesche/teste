@@ -1,3 +1,0 @@
-struct batadv_priv | dummy int 
-struct batadv_hard_iface | dummy int 
-function batadv_bla_update_orig_address void | bat_priv struct batadv_priv * | primary_if struct batadv_hard_iface * | oldif struct batadv_hard_iface *

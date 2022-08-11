@@ -1,2 +1,0 @@
-struct TYPE_3__ | doc_id int 
-function get_doc_id int | P struct TYPE_3__ * | O int * | m int

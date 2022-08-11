@@ -1,0 +1,2 @@
+struct pci_dev | d3_delay long 
+function quirk_remove_d3_delay void | dev struct pci_dev *

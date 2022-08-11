@@ -1,0 +1,2 @@
+struct TYPE_3__ | xtr_type char * | libname int * | type int * | machine int * | bits long | arch int * 
+function fill_metadata_info_from_hdr void | meta struct TYPE_3__ * | foo void *

@@ -1,0 +1,2 @@
+struct drm_panel | drm int * | connector int * 
+function drm_panel_detach int | panel struct drm_panel *

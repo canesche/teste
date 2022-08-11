@@ -1,0 +1,3 @@
+struct bfa_ioc_s | dummy int 
+struct bfa_ioc_hwif_s | ioc_get_alt_fwstate int | ioc_set_alt_fwstate int | ioc_get_fwstate int | ioc_set_fwstate int | ioc_sync_complete int | ioc_sync_ack int | ioc_sync_leave int | ioc_sync_join int | ioc_sync_start int | ioc_ownership_reset int | ioc_notify_fail int | ioc_firmware_unlock int | ioc_firmware_lock int 
+function bfa_ioc_set_ctx_hwif void | ioc struct bfa_ioc_s * | hwif struct bfa_ioc_hwif_s *

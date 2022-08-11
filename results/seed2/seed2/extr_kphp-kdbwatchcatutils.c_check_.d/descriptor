@@ -1,0 +1,2 @@
+struct TYPE_4__ | position long | word long 
+function check_ int | begin struct TYPE_4__ * | end struct TYPE_4__ * | needle_begin long * | needle_end long *

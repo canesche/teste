@@ -1,0 +1,3 @@
+struct TYPE_4__ | chip_version int | chip_revision int 
+struct TYPE_5__ | params struct TYPE_4__ 
+function adapter_matches_type int | adapter const struct TYPE_5__ * | version int | revision int

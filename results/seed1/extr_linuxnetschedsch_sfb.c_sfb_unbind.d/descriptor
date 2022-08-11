@@ -1,2 +1,0 @@
-struct Qdisc | dummy int 
-function sfb_unbind void | sch struct Qdisc * | arg unsigned long

@@ -1,0 +1,2 @@
+struct ata_device | id int * 
+function ata_pio_mask_no_iordy int | adev const struct ata_device *

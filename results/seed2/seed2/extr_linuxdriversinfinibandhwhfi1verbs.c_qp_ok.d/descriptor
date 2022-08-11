@@ -1,0 +1,3 @@
+struct hfi1_packet | opcode int | qp struct TYPE_2__ * 
+struct TYPE_2__ | state unsigned long | allowed_ops int 
+function qp_ok int * | packet struct hfi1_packet *

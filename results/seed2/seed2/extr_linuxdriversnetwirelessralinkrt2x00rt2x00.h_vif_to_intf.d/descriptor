@@ -1,0 +1,3 @@
+struct rt2x00_intf | dummy int 
+struct ieee80211_vif | drv_priv long 
+function vif_to_intf struct rt2x00_intf * | vif struct ieee80211_vif *

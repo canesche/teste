@@ -1,0 +1,4 @@
+struct TYPE_4__ | num unsigned long | array struct video_input * 
+struct TYPE_5__ | inputs struct TYPE_4__ 
+struct video_input | callback void (*)(void *, struct video_data *) | param void * 
+function video_get_input_idx unsigned long | video const struct TYPE_5__ * | callback void (*)(void *, struct video_data *) | param void *

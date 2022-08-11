@@ -1,0 +1,2 @@
+struct wm8350_dcdc_efficiency | uA_load_min int | uA_load_max int | mode unsigned int 
+function get_mode unsigned int | uA int | eff const struct wm8350_dcdc_efficiency *

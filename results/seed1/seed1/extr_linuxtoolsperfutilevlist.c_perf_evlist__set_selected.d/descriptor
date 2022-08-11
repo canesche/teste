@@ -1,0 +1,3 @@
+struct perf_evsel | dummy int 
+struct perf_evlist | selected struct perf_evsel * 
+function perf_evlist__set_selected void | evlist struct perf_evlist * | evsel struct perf_evsel *

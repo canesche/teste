@@ -1,4 +1,0 @@
-struct xhci_ring | num_trbs_free unsigned int | type long | dequeue int | deq_seg struct TYPE_2__ * 
-struct xhci_hcd | dummy int 
-struct TYPE_2__ | trbs int 
-function room_on_ring int | xhci struct xhci_hcd * | ring struct xhci_ring * | num_trbs unsigned int

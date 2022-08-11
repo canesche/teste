@@ -1,2 +1,0 @@
-struct brcmf_tlv | len int | id long 
-function brcmf_parse_tlvs const struct brcmf_tlv * | buf const void * | buflen int | key long

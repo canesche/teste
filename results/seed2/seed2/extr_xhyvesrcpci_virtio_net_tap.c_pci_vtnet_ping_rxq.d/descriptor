@@ -1,0 +1,4 @@
+struct vqueue_info | vq_used struct TYPE_2__ * 
+struct pci_vtnet_softc | vsc_rx_ready int 
+struct TYPE_2__ | vu_flags int 
+function pci_vtnet_ping_rxq void | vsc void * | vq struct vqueue_info *

@@ -1,0 +1,1 @@
+value(is_switch) == 10, value(port_num) == 10, value(hop_cnt) == 10, value(direction) == 10, value(dr_dlid_is_permissive) == 10, value(dr_slid_is_permissive) == 10, length(hop_ptr) == 100, length(initial_path) == 100, length(return_path) == 100

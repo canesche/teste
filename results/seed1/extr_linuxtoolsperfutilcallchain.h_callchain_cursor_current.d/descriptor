@@ -1,3 +1,0 @@
-struct callchain_cursor_node | dummy int 
-struct callchain_cursor | pos long | nr long | curr struct callchain_cursor_node * 
-function callchain_cursor_current struct callchain_cursor_node * | cursor struct callchain_cursor *

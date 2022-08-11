@@ -1,0 +1,4 @@
+struct sk_buff | dummy int 
+struct macb_queue | dummy int 
+struct macb_dma_desc | dummy int 
+function gem_ptp_do_txstamp int | queue struct macb_queue * | skb struct sk_buff * | desc struct macb_dma_desc *

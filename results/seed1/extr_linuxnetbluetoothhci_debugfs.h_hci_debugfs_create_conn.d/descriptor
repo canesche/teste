@@ -1,2 +1,0 @@
-struct hci_conn | dummy int 
-function hci_debugfs_create_conn void | conn struct hci_conn *

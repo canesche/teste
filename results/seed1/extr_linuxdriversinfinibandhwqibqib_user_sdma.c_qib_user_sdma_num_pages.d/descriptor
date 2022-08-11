@@ -1,2 +1,0 @@
-struct iovec | iov_len unsigned long | iov_base long 
-function qib_user_sdma_num_pages int | iov const struct iovec *

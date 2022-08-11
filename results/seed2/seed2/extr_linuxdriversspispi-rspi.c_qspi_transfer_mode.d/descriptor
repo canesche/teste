@@ -1,0 +1,2 @@
+struct spi_transfer | tx_nbits int | rx_nbits int | rx_buf long | tx_buf long 
+function qspi_transfer_mode int | xfer const struct spi_transfer *

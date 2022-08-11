@@ -1,2 +1,0 @@
-struct TYPE_3__ | p int * | n long | data void * | reader int | L int * 
-function luaZ_init void | L int * | z struct TYPE_3__ * | reader int | data void *

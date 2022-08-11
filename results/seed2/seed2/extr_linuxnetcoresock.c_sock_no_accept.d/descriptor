@@ -1,0 +1,2 @@
+struct socket | dummy int 
+function sock_no_accept int | sock struct socket * | newsock struct socket * | flags int | kern int

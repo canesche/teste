@@ -1,0 +1,3 @@
+struct fimc_is | config_index unsigned long | config struct chain_config * 
+struct chain_config | dummy int 
+function __get_curr_is_config struct chain_config * | is struct fimc_is *

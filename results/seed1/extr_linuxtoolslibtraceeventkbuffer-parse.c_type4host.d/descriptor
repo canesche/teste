@@ -1,2 +1,0 @@
-struct kbuffer | flags int 
-function type4host unsigned int | kbuf struct kbuffer * | type_len_ts unsigned int

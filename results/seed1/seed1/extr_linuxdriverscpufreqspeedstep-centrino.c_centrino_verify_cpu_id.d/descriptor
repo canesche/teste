@@ -1,0 +1,3 @@
+struct cpuinfo_x86 | x86 long | x86_model long | x86_stepping long 
+struct cpu_id | x86 long | x86_model long | x86_stepping long 
+function centrino_verify_cpu_id int | c const struct cpuinfo_x86 * | x const struct cpu_id *

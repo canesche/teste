@@ -1,0 +1,4 @@
+struct videobuf_queue | priv_data struct cx231xx_fh * 
+struct cx231xx_fh | dev struct cx231xx * 
+struct cx231xx | norm int | width int 
+function vbi_buffer_setup int | vq struct videobuf_queue * | count unsigned int * | size unsigned int *

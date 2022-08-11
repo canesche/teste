@@ -1,3 +1,0 @@
-struct mt_usages | contactid long * 
-struct mt_application | num_received long 
-function cypress_compute_slot int | application struct mt_application * | slot struct mt_usages *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | is_tiny int | zoom int | need_update_dim int | need_set_layout int | can struct TYPE_4__ * | mode int 
+struct TYPE_4__ | sy int 
+function agraph_set_zoom void | g struct TYPE_5__ * | v int

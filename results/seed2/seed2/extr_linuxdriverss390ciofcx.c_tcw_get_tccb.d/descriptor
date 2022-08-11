@@ -1,0 +1,3 @@
+struct tcw | tccb long 
+struct tccb | dummy int 
+function tcw_get_tccb struct tccb * | tcw struct tcw *

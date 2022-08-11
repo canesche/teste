@@ -1,0 +1,4 @@
+struct snd_pcm_substream | runtime struct snd_pcm_runtime * 
+struct TYPE_2__ | subdivision int | params int | fragshift long 
+struct snd_pcm_runtime | oss struct TYPE_2__ 
+function snd_pcm_oss_set_subdivide1 int | substream struct snd_pcm_substream * | subdivide int

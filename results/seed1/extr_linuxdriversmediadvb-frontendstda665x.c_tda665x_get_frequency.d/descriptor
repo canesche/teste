@@ -1,3 +1,0 @@
-struct tda665x_state | frequency int 
-struct dvb_frontend | tuner_priv struct tda665x_state * 
-function tda665x_get_frequency int | fe struct dvb_frontend * | frequency int *

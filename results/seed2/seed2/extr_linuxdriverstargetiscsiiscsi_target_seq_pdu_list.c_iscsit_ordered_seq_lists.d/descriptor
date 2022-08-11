@@ -1,0 +1,3 @@
+struct iscsi_cmd | seq_count unsigned long | seq_list struct TYPE_2__ * 
+struct TYPE_2__ | type long | seq_send_order long 
+function iscsit_ordered_seq_lists void | cmd struct iscsi_cmd * | type int

@@ -1,0 +1,3 @@
+struct packing_data | in_pack_pos unsigned int * | objects const struct object_entry * 
+struct object_entry | dummy int 
+function oe_set_in_pack_pos void | pack const struct packing_data * | e const struct object_entry * | pos unsigned int

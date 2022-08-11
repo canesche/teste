@@ -1,2 +1,0 @@
-struct wined3d_gl_info | dummy int 
-function glsl_fragment_pipe_enable void | gl_info const struct wined3d_gl_info * | enable int

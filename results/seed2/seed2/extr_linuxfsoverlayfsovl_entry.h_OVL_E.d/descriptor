@@ -1,0 +1,3 @@
+struct ovl_entry | dummy int 
+struct dentry | d_fsdata long 
+function OVL_E struct ovl_entry * | dentry struct dentry *

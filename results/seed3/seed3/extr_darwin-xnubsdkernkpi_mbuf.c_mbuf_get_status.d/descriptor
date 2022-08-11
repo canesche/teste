@@ -1,0 +1,3 @@
+struct TYPE_4__ | pkt_flags int | drv_tx_status long 
+struct TYPE_5__ | m_flags int | m_pkthdr struct TYPE_4__ 
+function mbuf_get_status int | m struct TYPE_5__ * | status long *

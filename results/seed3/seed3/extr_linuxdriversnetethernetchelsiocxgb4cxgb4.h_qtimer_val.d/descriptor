@@ -1,0 +1,4 @@
+struct sge_rspq | intr_params int 
+struct TYPE_2__ | timer_val unsigned int * 
+struct adapter | sge struct TYPE_2__ 
+function qtimer_val unsigned int | adap const struct adapter * | q const struct sge_rspq *

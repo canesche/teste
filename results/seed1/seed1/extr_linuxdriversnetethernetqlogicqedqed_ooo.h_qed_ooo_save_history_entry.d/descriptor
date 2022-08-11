@@ -1,0 +1,4 @@
+struct qed_ooo_info | dummy int 
+struct qed_hwfn | dummy int 
+struct ooo_opaque | dummy int 
+function qed_ooo_save_history_entry void | p_hwfn struct qed_hwfn * | p_ooo_info struct qed_ooo_info * | p_cqe struct ooo_opaque *

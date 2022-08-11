@@ -1,0 +1,2 @@
+struct TYPE_3__ | timestamp double | tail long | head long 
+function sei_init void | sei struct TYPE_3__ * | timestamp double

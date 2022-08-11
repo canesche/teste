@@ -1,0 +1,3 @@
+struct rsp_que | length long | ring_ptr struct TYPE_2__ * | status_srb int * | ring_index long | ring struct TYPE_2__ * 
+struct TYPE_2__ | signature int 
+function qla2x00_init_response_q_entries void | rsp struct rsp_que *

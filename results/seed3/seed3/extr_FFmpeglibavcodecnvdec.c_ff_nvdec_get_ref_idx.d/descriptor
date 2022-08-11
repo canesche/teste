@@ -1,0 +1,5 @@
+struct TYPE_9__ | private_ref struct TYPE_6__ * 
+struct TYPE_8__ | hwaccel_priv long 
+struct TYPE_7__ | idx int 
+struct TYPE_6__ | data long 
+function ff_nvdec_get_ref_idx int | frame struct TYPE_9__ *

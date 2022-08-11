@@ -1,0 +1,2 @@
+struct sci_remote_node_table | available_remote_nodes unsigned long * 
+function sci_remote_node_table_get_group_value int | remote_node_table struct sci_remote_node_table * | group_index unsigned long

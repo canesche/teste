@@ -1,0 +1,2 @@
+struct NCR5380_hostdata | dummy int 
+function atari_scsi_dma_residual int | hostdata struct NCR5380_hostdata *

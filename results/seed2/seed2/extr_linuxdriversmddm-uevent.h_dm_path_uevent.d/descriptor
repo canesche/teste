@@ -1,0 +1,2 @@
+struct dm_target | dummy int 
+function dm_path_uevent void | event_type enum dm_uevent_type | ti struct dm_target * | path const char * | nr_valid_paths unsigned int

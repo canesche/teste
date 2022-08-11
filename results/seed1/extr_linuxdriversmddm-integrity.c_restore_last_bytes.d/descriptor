@@ -1,4 +1,0 @@
-struct journal_sector | commit_id int 
-struct journal_entry | last_bytes int * 
-struct dm_integrity_c | sectors_per_block unsigned int 
-function restore_last_bytes void | ic struct dm_integrity_c * | js struct journal_sector * | je struct journal_entry *

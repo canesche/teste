@@ -1,2 +1,0 @@
-struct nf_hook_entries | dummy int 
-function hooks_validate void | hooks const struct nf_hook_entries *

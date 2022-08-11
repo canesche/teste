@@ -1,0 +1,2 @@
+struct fotg210_hcd | rh_state int 
+function rh_state_string const char * | fotg210 struct fotg210_hcd *

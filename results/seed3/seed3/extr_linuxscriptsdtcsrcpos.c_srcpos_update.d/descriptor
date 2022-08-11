@@ -1,0 +1,3 @@
+struct srcpos | first_column int | last_column int | last_line long | first_line long | file struct TYPE_2__ * 
+struct TYPE_2__ | colno int | lineno long 
+function srcpos_update void | pos struct srcpos * | text const char * | len int

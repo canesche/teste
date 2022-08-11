@@ -1,0 +1,2 @@
+struct mp_audio_buffer | num_samples int 
+function mp_audio_buffer_samples int | ab struct mp_audio_buffer *

@@ -1,0 +1,1 @@
+function arch_kprobe_on_func_entry int | offset unsigned long

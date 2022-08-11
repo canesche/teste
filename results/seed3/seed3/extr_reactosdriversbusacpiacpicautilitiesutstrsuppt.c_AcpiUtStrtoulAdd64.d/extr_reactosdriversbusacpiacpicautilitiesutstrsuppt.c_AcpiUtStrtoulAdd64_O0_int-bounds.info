@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_reactosdriversbusacpiacpicautilitiesutstrsuppt.c_AcpiUtStrtoulAdd64.d/extr_reactosdriversbusacpiacpicautilitiesutstrsuppt.c_AcpiUtStrtoulAdd64_O0::AcpiUtStrtoulAdd64(72)"
+  }
+]

@@ -1,0 +1,5 @@
+struct i2c_adapter | dummy int 
+struct dvb_frontend | demodulator_priv struct dib9000_state * 
+struct TYPE_2__ | i2c_adap struct i2c_adapter * 
+struct dib9000_state | i2c struct TYPE_2__ 
+function dib9000_set_i2c_adapter int | fe struct dvb_frontend * | i2c struct i2c_adapter *

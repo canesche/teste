@@ -1,2 +1,0 @@
-struct parport | dummy int 
-function parport_ieee1284_ecp_read_data unsigned long | port struct parport * | buffer void * | len unsigned long | flags int

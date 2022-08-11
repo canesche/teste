@@ -1,0 +1,2 @@
+struct cirrusfb_info | dummy int 
+function WSFR void | cinfo struct cirrusfb_info * | val unsigned char

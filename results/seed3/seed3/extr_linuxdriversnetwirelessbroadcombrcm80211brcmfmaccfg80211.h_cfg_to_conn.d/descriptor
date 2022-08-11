@@ -1,0 +1,3 @@
+struct brcmf_cfg80211_connect_info | dummy int 
+struct brcmf_cfg80211_info | conn_info struct brcmf_cfg80211_connect_info 
+function cfg_to_conn struct brcmf_cfg80211_connect_info * | cfg struct brcmf_cfg80211_info *

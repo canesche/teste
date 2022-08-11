@@ -1,2 +1,0 @@
-struct log_writes_c | sectorshift int 
-function dev_to_bio_sectors int | lc struct log_writes_c * | sectors int

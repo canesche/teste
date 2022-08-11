@@ -1,0 +1,4 @@
+struct process_commit_data | current_commit int 
+struct TYPE_2__ | oid int 
+struct commit | object struct TYPE_2__ 
+function process_commit void | commit struct commit * | data void *

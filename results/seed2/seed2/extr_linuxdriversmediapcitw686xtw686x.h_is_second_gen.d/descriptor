@@ -1,0 +1,2 @@
+struct tw686x_dev | type int 
+function is_second_gen unsigned int | dev struct tw686x_dev *

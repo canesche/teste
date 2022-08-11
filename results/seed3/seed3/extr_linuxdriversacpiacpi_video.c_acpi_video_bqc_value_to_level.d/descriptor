@@ -1,0 +1,4 @@
+struct acpi_video_device | brightness struct TYPE_4__ * 
+struct TYPE_3__ | _BCL_reversed long | _BQC_use_index long 
+struct TYPE_4__ | count int | levels unsigned long long * | flags struct TYPE_3__ 
+function acpi_video_bqc_value_to_level unsigned long long | device struct acpi_video_device * | bqc_value unsigned long long

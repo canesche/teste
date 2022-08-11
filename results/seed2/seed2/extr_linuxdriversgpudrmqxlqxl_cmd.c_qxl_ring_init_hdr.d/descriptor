@@ -1,0 +1,4 @@
+struct qxl_ring | n_elements int | ring struct TYPE_4__ * 
+struct TYPE_3__ | notify_on_prod int 
+struct TYPE_4__ | header struct TYPE_3__ 
+function qxl_ring_init_hdr void | ring struct qxl_ring *

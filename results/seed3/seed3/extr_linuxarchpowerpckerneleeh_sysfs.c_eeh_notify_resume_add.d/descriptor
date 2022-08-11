@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function eeh_notify_resume_add int | pdev struct pci_dev *

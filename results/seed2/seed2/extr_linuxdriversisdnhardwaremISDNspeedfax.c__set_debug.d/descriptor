@@ -1,0 +1,7 @@
+struct TYPE_10__ | ch struct TYPE_9__ * 
+struct TYPE_6__ | debug void * 
+struct TYPE_7__ | dch struct TYPE_6__ 
+struct sfax_hw | isar struct TYPE_10__ | isac struct TYPE_7__ 
+struct TYPE_8__ | debug void * 
+struct TYPE_9__ | bch struct TYPE_8__ 
+function _set_debug void | card struct sfax_hw *

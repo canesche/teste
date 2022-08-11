@@ -1,0 +1,7 @@
+struct special_params | dig_in_fmt unsigned long | dig_out_fmt unsigned long | is1814 int 
+struct snd_bebob | rx_stream_formations struct TYPE_8__ * | tx_stream_formations struct TYPE_7__ * | maudio_special_quirk struct special_params * 
+struct TYPE_8__ | pcm unsigned int | midi int 
+struct TYPE_7__ | pcm unsigned int | midi int 
+struct TYPE_6__ | member_0 int | member_1 int | member_2 int 
+struct TYPE_5__ | member_0 int | member_1 int | member_2 int 
+function special_stream_formation_set void | bebob struct snd_bebob *

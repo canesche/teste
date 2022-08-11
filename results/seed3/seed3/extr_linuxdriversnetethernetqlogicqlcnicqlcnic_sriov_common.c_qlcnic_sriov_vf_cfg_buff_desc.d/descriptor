@@ -1,0 +1,2 @@
+struct qlcnic_adapter | max_rds_rings int | num_txd int | max_jumbo_rxd int | num_jumbo_rxd int | max_rxd int | num_rxd int 
+function qlcnic_sriov_vf_cfg_buff_desc void | adapter struct qlcnic_adapter *

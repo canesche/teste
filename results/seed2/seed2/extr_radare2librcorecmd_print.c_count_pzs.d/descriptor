@@ -1,0 +1,3 @@
+struct count_pz_t | flagspace long | addr long | size long | ret int * 
+struct TYPE_3__ | space long | offset long | size long 
+function count_pzs int | fi struct TYPE_3__ * | u void *

@@ -1,3 +1,0 @@
-struct acpi_einj_trigger | header_size int | table_size int | entry_count int 
-struct acpi_einj_entry | dummy int 
-function einj_check_trigger_header int | trigger_tab struct acpi_einj_trigger *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | elem_size unsigned long 
+function zcache_canary_add void | zone struct TYPE_3__ * | element void *

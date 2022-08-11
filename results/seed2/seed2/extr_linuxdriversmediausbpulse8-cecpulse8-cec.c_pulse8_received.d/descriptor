@@ -1,0 +1,3 @@
+struct cec_msg | dummy int 
+struct cec_adapter | dummy int 
+function pulse8_received int | adap struct cec_adapter * | msg struct cec_msg *

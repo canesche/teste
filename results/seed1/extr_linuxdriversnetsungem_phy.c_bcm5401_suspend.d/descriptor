@@ -1,2 +1,0 @@
-struct mii_phy | dummy int 
-function bcm5401_suspend int | phy struct mii_phy *

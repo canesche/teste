@@ -1,0 +1,2 @@
+struct mac_device | dummy int 
+function adjust_link_void void | mac_dev struct mac_device *

@@ -1,0 +1,3 @@
+struct nfs4_sequence_res | sr_slot int * 
+struct nfs4_sequence_args | sa_cache_this int | sa_privileged int | sa_slot int * 
+function nfs4_init_sequence void | args struct nfs4_sequence_args * | res struct nfs4_sequence_res * | cache_reply int | privileged int

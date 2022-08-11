@@ -1,5 +1,0 @@
-struct tracing_map_elt | private_data struct hist_elt_data * 
-struct ring_buffer_event | dummy int 
-struct hist_field | var_ref_idx unsigned long 
-struct hist_elt_data | var_ref_vals int * 
-function hist_field_var_ref int | hist_field struct hist_field * | elt struct tracing_map_elt * | rbe struct ring_buffer_event * | event void *

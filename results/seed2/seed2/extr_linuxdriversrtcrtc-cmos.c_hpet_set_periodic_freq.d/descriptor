@@ -1,0 +1,1 @@
+function hpet_set_periodic_freq int | freq unsigned long

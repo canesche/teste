@@ -1,0 +1,2 @@
+struct hash_netiface4_elem | nomatch long 
+function hash_netiface4_do_data_match int | elem const struct hash_netiface4_elem *

@@ -1,0 +1,3 @@
+struct user_namespace | dummy int 
+struct cred | user_ns struct user_namespace * | cap_bset void * | cap_ambient void * | cap_effective void * | cap_permitted void * | cap_inheritable void * | securebits int 
+function set_cred_user_ns void | cred struct cred * | user_ns struct user_namespace *

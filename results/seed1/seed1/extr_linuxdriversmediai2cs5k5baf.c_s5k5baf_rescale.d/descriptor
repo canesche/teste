@@ -1,0 +1,2 @@
+struct v4l2_rect | left int | width int | top int | height int 
+function s5k5baf_rescale void | r struct v4l2_rect * | v const struct v4l2_rect * | n const struct v4l2_rect * | d const struct v4l2_rect *

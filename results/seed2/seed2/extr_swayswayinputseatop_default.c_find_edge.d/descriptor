@@ -1,0 +1,4 @@
+struct sway_cursor | cursor struct TYPE_2__ * 
+struct sway_container | border long | border_thickness long | x long | y long | width long | height long | view int 
+struct TYPE_2__ | x long | y long 
+function find_edge enum wlr_edges | cont struct sway_container * | cursor struct sway_cursor *

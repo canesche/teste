@@ -1,0 +1,2 @@
+struct TYPE_3__ | n_uris long | uris int * 
+function uri_table_init void | table struct TYPE_3__ *

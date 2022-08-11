@@ -1,2 +1,0 @@
-struct iwl_rx_cmd_buffer | _offset int 
-function rxb_offset int | r struct iwl_rx_cmd_buffer *

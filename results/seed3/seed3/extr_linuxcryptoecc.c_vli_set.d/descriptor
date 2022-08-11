@@ -1,0 +1,1 @@
+function vli_set void | dest int * | src const int * | ndigits unsigned int

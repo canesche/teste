@@ -1,0 +1,4 @@
+struct TYPE_3__ | id long long 
+struct relative | type int | next struct relative * | node struct TYPE_3__ 
+struct TYPE_4__ | next struct relative * 
+function get_relative_by_id struct relative * | id long long

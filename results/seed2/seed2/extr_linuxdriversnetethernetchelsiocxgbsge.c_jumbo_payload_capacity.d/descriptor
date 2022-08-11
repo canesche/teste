@@ -1,0 +1,4 @@
+struct sge | jumbo_fl unsigned long | freelQ struct TYPE_2__ * 
+struct cpl_rx_data | dummy int 
+struct TYPE_2__ | rx_buffer_size unsigned int | dma_offset unsigned int 
+function jumbo_payload_capacity unsigned int | sge const struct sge *

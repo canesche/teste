@@ -1,0 +1,7 @@
+struct v4l2_fract | numerator int | denominator int 
+struct v4l2_captureparm | timeperframe struct v4l2_fract 
+struct TYPE_2__ | capture struct v4l2_captureparm 
+struct v4l2_streamparm | parm struct TYPE_2__ 
+struct sd | frame_rate int 
+struct gspca_dev | dummy int 
+function sd_get_streamparm void | gspca_dev struct gspca_dev * | parm struct v4l2_streamparm *

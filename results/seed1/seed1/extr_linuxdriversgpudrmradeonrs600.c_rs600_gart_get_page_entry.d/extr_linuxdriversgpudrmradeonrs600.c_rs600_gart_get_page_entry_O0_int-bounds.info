@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmradeonrs600.c_rs600_gart_get_page_entry.d/extr_linuxdriversgpudrmradeonrs600.c_rs600_gart_get_page_entry_O0::rs600_gart_get_page_entry(71)"
+  }
+]

@@ -1,3 +1,0 @@
-struct TYPE_4__ | leader int 
-struct TYPE_5__ | type long | j struct TYPE_4__ 
-function kdp_coalition_get_leader int | coal struct TYPE_5__ *

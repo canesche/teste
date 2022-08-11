@@ -1,0 +1,2 @@
+struct input_keymap_entry | len int | scancode long 
+function input_scancode_to_scalar int | ke const struct input_keymap_entry * | scancode unsigned int *

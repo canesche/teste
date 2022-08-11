@@ -1,0 +1,2 @@
+struct TYPE_2__ | tcps_snd_swcsum_bytes int | tcps_snd_swcsum int 
+function tcp_out_cksum_stats void | len long

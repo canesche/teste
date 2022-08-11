@@ -1,0 +1,4 @@
+struct i2c_peripheral | client struct i2c_client * 
+struct i2c_client | dummy int 
+struct TYPE_2__ | num_i2c_peripherals int | i2c_peripherals struct i2c_peripheral * 
+function chromeos_laptop_detach_i2c_client void | client struct i2c_client *

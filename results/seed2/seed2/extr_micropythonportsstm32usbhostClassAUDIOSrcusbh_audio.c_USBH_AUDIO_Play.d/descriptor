@@ -1,0 +1,5 @@
+struct TYPE_8__ | gState long | pActiveClass struct TYPE_6__ * 
+struct TYPE_7__ | total_length int | buf int * 
+struct TYPE_9__ | play_state long | processing_state int | control_state int | headphone struct TYPE_7__ 
+struct TYPE_6__ | pData struct TYPE_9__ * 
+function USBH_AUDIO_Play int | phost struct TYPE_8__ * | buf int * | length int

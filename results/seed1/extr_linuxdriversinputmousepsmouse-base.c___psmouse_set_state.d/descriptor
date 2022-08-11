@@ -1,3 +1,0 @@
-struct TYPE_2__ | flags long 
-struct psmouse | state int | last int | ps2dev struct TYPE_2__ | out_of_sync_cnt long | pktcnt long 
-function __psmouse_set_state void | psmouse struct psmouse * | new_state enum psmouse_state

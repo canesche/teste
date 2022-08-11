@@ -1,0 +1,2 @@
+struct TYPE_3__ | Length int | Buffer int * 
+function RtlpGetCheckSum int | Name struct TYPE_3__ *

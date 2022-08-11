@@ -1,0 +1,2 @@
+struct mlx5e_priv | dummy int 
+function mlx5e_register_vport_reps void | priv struct mlx5e_priv *

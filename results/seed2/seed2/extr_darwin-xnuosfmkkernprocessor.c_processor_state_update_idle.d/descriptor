@@ -1,0 +1,2 @@
+struct TYPE_3__ | current_perfctl_class int | current_recommended_pset_type int | current_sfi_class int | current_pri int 
+function processor_state_update_idle void | processor struct TYPE_3__ *

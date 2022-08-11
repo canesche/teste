@@ -1,0 +1,2 @@
+struct x86_emulate_ctxt | ad_bytes int 
+function ad_mask unsigned long | ctxt struct x86_emulate_ctxt *

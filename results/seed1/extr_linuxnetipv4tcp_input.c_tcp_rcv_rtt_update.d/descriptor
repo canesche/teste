@@ -1,3 +1,0 @@
-struct TYPE_2__ | rtt_us int 
-struct tcp_sock | rcv_rtt_est struct TYPE_2__ 
-function tcp_rcv_rtt_update void | tp struct tcp_sock * | sample int | win_dep int

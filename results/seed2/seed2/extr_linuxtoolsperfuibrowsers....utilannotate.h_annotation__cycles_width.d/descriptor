@@ -1,0 +1,3 @@
+struct annotation | have_cycles long | options struct TYPE_2__ * 
+struct TYPE_2__ | show_minmax_cycle long 
+function annotation__cycles_width int | notes struct annotation *

@@ -1,2 +1,0 @@
-struct sock_filter | dummy int 
-function bpf_check_basics_ok int | filter const struct sock_filter * | flen unsigned int

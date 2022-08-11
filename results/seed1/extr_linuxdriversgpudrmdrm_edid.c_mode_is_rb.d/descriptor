@@ -1,2 +1,0 @@
-struct drm_display_mode | htotal int | hdisplay int | hsync_end int | hsync_start int | vsync_start int | vdisplay int 
-function mode_is_rb int | mode const struct drm_display_mode *

@@ -1,0 +1,4 @@
+struct sm_ftl | cylinders int | sectors int | heads int 
+struct mtd_blktrans_dev | priv struct sm_ftl * 
+struct hd_geometry | cylinders int | sectors int | heads int 
+function sm_getgeo int | dev struct mtd_blktrans_dev * | geo struct hd_geometry *

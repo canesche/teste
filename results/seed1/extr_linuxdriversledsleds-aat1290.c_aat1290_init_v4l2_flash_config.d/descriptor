@@ -1,4 +1,0 @@
-struct v4l2_flash_config | dummy int 
-struct aat1290_led_config_data | dummy int 
-struct aat1290_led | dummy int 
-function aat1290_init_v4l2_flash_config void | led struct aat1290_led * | led_cfg struct aat1290_led_config_data * | v4l2_sd_cfg struct v4l2_flash_config *

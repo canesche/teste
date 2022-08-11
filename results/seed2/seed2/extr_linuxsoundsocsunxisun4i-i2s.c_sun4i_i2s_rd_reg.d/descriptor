@@ -1,0 +1,2 @@
+struct device | dummy int 
+function sun4i_i2s_rd_reg int | dev struct device * | reg unsigned int

@@ -1,3 +1,0 @@
-struct callchain_cursor | pos int | curr struct TYPE_2__ * 
-struct TYPE_2__ | next struct TYPE_2__ * 
-function callchain_cursor_advance void | cursor struct callchain_cursor *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 163,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_stbtools..stb.h_stb_bitset_eq.d/extr_stbtools..stb.h_stb_bitset_eq_O0::stb_bitset_eq(61)"
+  }
+]

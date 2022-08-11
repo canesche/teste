@@ -1,0 +1,3 @@
+struct client_resource | dummy int 
+struct client | dummy int 
+function release_transaction void | client struct client * | resource struct client_resource *

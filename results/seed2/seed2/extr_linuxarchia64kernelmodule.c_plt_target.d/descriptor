@@ -1,0 +1,2 @@
+struct plt_entry | bundle long * 
+function plt_target unsigned long | plt struct plt_entry *

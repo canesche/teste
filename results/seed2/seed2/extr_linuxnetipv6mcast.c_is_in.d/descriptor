@@ -1,0 +1,3 @@
+struct ip6_sf_list | sf_crcount int | sf_count int * | sf_gsresp int 
+struct ifmcaddr6 | mca_flags int | mca_sfmode unsigned long | mca_sfcount int * 
+function is_in int | pmc struct ifmcaddr6 * | psf struct ip6_sf_list * | type int | gdeleted int | sdeleted int

@@ -1,0 +1,3 @@
+struct ics | dummy int 
+struct device_node | dummy int 
+function ics_opal_host_match int | ics struct ics * | node struct device_node *

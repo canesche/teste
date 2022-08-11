@@ -1,0 +1,3 @@
+struct super_block | s_fs_info long 
+struct ecryptfs_sb_info | wsi_sb struct super_block * 
+function ecryptfs_superblock_to_lower struct super_block * | sb struct super_block *

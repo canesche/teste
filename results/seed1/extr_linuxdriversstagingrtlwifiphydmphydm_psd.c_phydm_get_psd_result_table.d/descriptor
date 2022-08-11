@@ -1,3 +1,0 @@
-struct psd_info | psd_result int * 
-struct phy_dm_struct | dm_psd_table struct psd_info 
-function phydm_get_psd_result_table int | dm_void void * | index int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | sc_delta_timestamp int | sc_buffer long 
+function stackshot_config_set_delta_timestamp int | stackshot_config struct TYPE_3__ * | delta_timestamp int

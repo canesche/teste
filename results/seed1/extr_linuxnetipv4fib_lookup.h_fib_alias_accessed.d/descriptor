@@ -1,2 +1,0 @@
-struct fib_alias | fa_state int 
-function fib_alias_accessed void | fa struct fib_alias *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_hashcatdepsLZMA-SDKCXz.c_Xz_WriteVarInt.d/extr_hashcatdepsLZMA-SDKCXz.c_Xz_WriteVarInt_O0::Xz_WriteVarInt(62)"
+  }
+]

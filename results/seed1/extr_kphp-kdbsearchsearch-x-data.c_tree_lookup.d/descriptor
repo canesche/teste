@@ -1,4 +1,0 @@
-struct TYPE_8__ | word long | right struct TYPE_8__ * | item struct TYPE_7__ * | left struct TYPE_8__ * 
-struct TYPE_9__ | item_id long 
-struct TYPE_7__ | item_id long 
-function tree_lookup struct TYPE_8__ * | T struct TYPE_8__ * | word long | item struct TYPE_9__ *

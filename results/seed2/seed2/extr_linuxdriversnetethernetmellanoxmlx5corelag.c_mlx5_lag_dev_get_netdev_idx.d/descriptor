@@ -1,0 +1,4 @@
+struct net_device | dummy int 
+struct mlx5_lag | pf struct TYPE_2__ * 
+struct TYPE_2__ | netdev struct net_device * 
+function mlx5_lag_dev_get_netdev_idx int | ldev struct mlx5_lag * | ndev struct net_device *

@@ -1,1 +1,0 @@
-function bw_expand void | out int * | in const int * | coef const int * | length int

@@ -1,3 +1,0 @@
-struct TYPE_4__ | value long 
-struct TYPE_5__ | base struct TYPE_4__ 
-function sdbkv_value char * | kv const struct TYPE_5__ *

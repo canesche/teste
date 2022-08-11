@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function cachefiles_histogram_next void * | m struct seq_file * | v void * | pos long *

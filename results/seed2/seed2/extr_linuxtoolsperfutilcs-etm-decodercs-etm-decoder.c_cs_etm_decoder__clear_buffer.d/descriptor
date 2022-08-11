@@ -1,0 +1,3 @@
+struct cs_etm_decoder | packet_buffer struct TYPE_2__ * | packet_count long | tail long | head long 
+struct TYPE_2__ | last_instr_taken_branch int | exc int | exc_ret int | cpu int | end_addr void * | start_addr void * 
+function cs_etm_decoder__clear_buffer void | decoder struct cs_etm_decoder *

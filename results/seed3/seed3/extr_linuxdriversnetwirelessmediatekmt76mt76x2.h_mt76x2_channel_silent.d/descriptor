@@ -1,0 +1,5 @@
+struct TYPE_3__ | chan struct ieee80211_channel * 
+struct TYPE_4__ | chandef struct TYPE_3__ 
+struct mt76x2_dev | mt76 struct TYPE_4__ 
+struct ieee80211_channel | flags int | dfs_state long 
+function mt76x2_channel_silent int | dev struct mt76x2_dev *

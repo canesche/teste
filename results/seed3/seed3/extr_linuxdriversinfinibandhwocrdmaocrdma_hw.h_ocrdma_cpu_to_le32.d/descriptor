@@ -1,0 +1,1 @@
+function ocrdma_cpu_to_le32 void | dst void * | len int

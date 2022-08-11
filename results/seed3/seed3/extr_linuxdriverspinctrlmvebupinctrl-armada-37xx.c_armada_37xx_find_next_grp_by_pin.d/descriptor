@@ -1,0 +1,3 @@
+struct armada_37xx_pinctrl | ngroups int | groups struct armada_37xx_pin_group * 
+struct armada_37xx_pin_group | npins int | extra_npins int | pins int * 
+function armada_37xx_find_next_grp_by_pin struct armada_37xx_pin_group * | info struct armada_37xx_pinctrl * | pin int | grp int *

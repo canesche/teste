@@ -1,0 +1,2 @@
+struct iio_chan_spec | type int 
+function gp2ap020a00f_get_thresh_reg int | chan const struct iio_chan_spec * | event_dir enum iio_event_direction

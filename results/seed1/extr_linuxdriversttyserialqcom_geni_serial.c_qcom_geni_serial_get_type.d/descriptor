@@ -1,2 +1,0 @@
-struct uart_port | dummy int 
-function qcom_geni_serial_get_type const char * | uport struct uart_port *

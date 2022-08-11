@@ -1,2 +1,0 @@
-struct regulator_init_data | dummy int 
-function match_init_data struct regulator_init_data * | index int

@@ -1,2 +1,0 @@
-struct device | dummy int 
-function nop_release void | dev struct device *

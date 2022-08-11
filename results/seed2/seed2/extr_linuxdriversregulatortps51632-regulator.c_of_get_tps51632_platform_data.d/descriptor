@@ -1,0 +1,4 @@
+struct tps51632_regulator_platform_data | dummy int 
+struct regulator_desc | dummy int 
+struct device | dummy int 
+function of_get_tps51632_platform_data struct tps51632_regulator_platform_data * | dev struct device * | desc const struct regulator_desc *

@@ -1,2 +1,0 @@
-struct inode | dummy int 
-function v9fs_cache_inode_put_cookie void | inode struct inode *

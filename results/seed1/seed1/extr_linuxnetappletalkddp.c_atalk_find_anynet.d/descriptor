@@ -1,0 +1,4 @@
+struct net_device | atalk_ptr struct atalk_iface * 
+struct TYPE_2__ | s_node int 
+struct atalk_iface | status int | address struct TYPE_2__ 
+function atalk_find_anynet struct atalk_iface * | node int | dev struct net_device *

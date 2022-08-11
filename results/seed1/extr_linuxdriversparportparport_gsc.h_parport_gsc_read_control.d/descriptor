@@ -1,4 +1,0 @@
-struct parport_gsc_private | ctr const unsigned char 
-struct parport | physport struct TYPE_2__ * 
-struct TYPE_2__ | private_data struct parport_gsc_private * 
-function parport_gsc_read_control unsigned char | p struct parport *

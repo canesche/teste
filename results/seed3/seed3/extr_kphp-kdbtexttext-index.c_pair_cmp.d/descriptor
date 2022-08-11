@@ -1,0 +1,2 @@
+struct pair | key long | local_id int 
+function pair_cmp int | a struct pair * | b struct pair *

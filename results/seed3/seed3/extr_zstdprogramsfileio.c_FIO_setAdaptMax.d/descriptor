@@ -1,0 +1,2 @@
+struct TYPE_3__ | maxAdaptLevel int 
+function FIO_setAdaptMax void | prefs struct TYPE_3__ *const | maxCLevel int

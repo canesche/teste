@@ -1,3 +1,0 @@
-struct RangeList | count unsigned int | list struct TYPE_2__ * 
-struct TYPE_2__ | begin long | end long 
-function rangelist_count long | targets const struct RangeList *

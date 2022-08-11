@@ -1,0 +1,5 @@
+struct v4l2_subdev_pad_config | dummy int 
+struct TYPE_2__ | numerator int | denominator int 
+struct v4l2_subdev_frame_interval_enum | index int | width long | height long | interval struct TYPE_2__ | pad long 
+struct v4l2_subdev | dummy int 
+function ov7740_enum_frame_interval int | sd struct v4l2_subdev * | cfg struct v4l2_subdev_pad_config * | fie struct v4l2_subdev_frame_interval_enum *

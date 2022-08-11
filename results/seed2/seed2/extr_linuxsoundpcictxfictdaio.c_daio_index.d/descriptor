@@ -1,0 +1,2 @@
+struct rsc | conj int 
+function daio_index int | rsc const struct rsc *

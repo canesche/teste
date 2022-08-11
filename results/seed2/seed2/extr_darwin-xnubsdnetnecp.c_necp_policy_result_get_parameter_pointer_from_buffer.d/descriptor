@@ -1,0 +1,1 @@
+function necp_policy_result_get_parameter_pointer_from_buffer int * | buffer int * | length int

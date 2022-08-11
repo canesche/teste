@@ -1,2 +1,0 @@
-struct intel_uc_fw | load_status long 
-function intel_uc_fw_sanitize void | uc_fw struct intel_uc_fw *

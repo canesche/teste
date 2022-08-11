@@ -1,2 +1,0 @@
-struct hists | socket_filter int | symbol_filter_str long | dso_filter long | thread_filter long 
-function hists__has_filter int | hists struct hists *

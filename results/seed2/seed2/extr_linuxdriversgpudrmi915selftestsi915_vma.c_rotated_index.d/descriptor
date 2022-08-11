@@ -1,0 +1,3 @@
+struct intel_rotation_info | plane struct TYPE_2__ * 
+struct TYPE_2__ | stride unsigned int | height unsigned int | offset unsigned long 
+function rotated_index unsigned long | r const struct intel_rotation_info * | n unsigned int | x unsigned int | y unsigned int

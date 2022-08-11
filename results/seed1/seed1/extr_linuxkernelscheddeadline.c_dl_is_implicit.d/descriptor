@@ -1,0 +1,2 @@
+struct sched_dl_entity | dl_deadline long | dl_period long 
+function dl_is_implicit int | dl_se struct sched_dl_entity *

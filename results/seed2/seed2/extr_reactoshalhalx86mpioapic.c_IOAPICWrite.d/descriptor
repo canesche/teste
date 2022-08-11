@@ -1,0 +1,2 @@
+struct TYPE_2__ | ApicAddress long 
+function IOAPICWrite int | Apic unsigned long | Offset unsigned long | Value unsigned long

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function pm_runtime_remove void | dev struct device *

@@ -1,3 +1,0 @@
-struct super_block | dummy int 
-struct seq_file | dummy int 
-function f2fs_show_quota_options void | seq struct seq_file * | sb struct super_block *

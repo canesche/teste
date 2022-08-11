@@ -1,0 +1,1 @@
+function grub_disk_adjust_range int | disk int | sector int * | offset int * | size int

@@ -1,0 +1,2 @@
+struct vc_data | vc_x int | vc_y int 
+function vc_follow_cursor void | vc struct vc_data *

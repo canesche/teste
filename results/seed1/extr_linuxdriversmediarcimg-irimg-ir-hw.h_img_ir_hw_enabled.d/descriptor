@@ -1,2 +1,0 @@
-struct img_ir_priv_hw | dummy int 
-function img_ir_hw_enabled int | hw struct img_ir_priv_hw *

@@ -1,0 +1,2 @@
+struct TCP_Server_Info | negflavor int | sec_mskerberos int | sec_kerberos int | sec_ntlmssp int 
+function cifs_select_sectype enum securityEnum | server struct TCP_Server_Info * | requested enum securityEnum

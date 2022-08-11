@@ -1,5 +1,0 @@
-struct TYPE_3__ | num_existing_displays long 
-struct vega10_hwmgr | need_update_dpm_table int | display_timing struct TYPE_3__ 
-struct pp_hwmgr | display_config struct TYPE_4__ * | backend struct vega10_hwmgr * 
-struct TYPE_4__ | num_display long 
-function vega10_find_dpm_states_clocks_in_dpm_table int | hwmgr struct pp_hwmgr * | input const void *

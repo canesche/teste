@@ -1,0 +1,2 @@
+struct tl_expression | magic long 
+function tl_expression_int_hash_compare int | a const void * | b const void *

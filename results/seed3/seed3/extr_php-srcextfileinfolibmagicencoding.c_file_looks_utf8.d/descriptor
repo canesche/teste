@@ -1,0 +1,1 @@
+function file_looks_utf8 int | buf const unsigned char * | nbytes unsigned long | ubuf int * | ulen unsigned long *

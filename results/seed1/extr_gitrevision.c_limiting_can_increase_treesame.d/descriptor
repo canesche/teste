@@ -1,2 +1,0 @@
-struct rev_info | first_parent_only int | simplify_history int | dense long | prune long 
-function limiting_can_increase_treesame int | revs const struct rev_info *

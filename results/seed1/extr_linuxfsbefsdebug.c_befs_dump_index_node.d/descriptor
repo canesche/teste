@@ -1,2 +1,0 @@
-struct super_block | dummy int 
-function befs_dump_index_node void | sb const struct super_block * | node int *

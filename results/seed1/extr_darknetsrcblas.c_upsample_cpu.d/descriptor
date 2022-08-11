@@ -1,1 +1,0 @@
-function upsample_cpu void | in float * | w int | h int | c int | batch int | stride int | forward int | scale float | out float *

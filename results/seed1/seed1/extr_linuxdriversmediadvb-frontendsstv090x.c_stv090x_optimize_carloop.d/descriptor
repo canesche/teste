@@ -1,0 +1,4 @@
+struct stv090x_state | srate int | internal struct TYPE_2__ * 
+struct stv090x_long_frame_crloop | modcod int | crl_pilots_on_2 int | crl_pilots_on_5 int | crl_pilots_on_10 int | crl_pilots_on_20 int | crl_pilots_on_30 int | crl_pilots_off_2 int | crl_pilots_off_5 int | crl_pilots_off_10 int | crl_pilots_off_20 int | crl_pilots_off_30 int 
+struct TYPE_2__ | dev_ver int 
+function stv090x_optimize_carloop int | state struct stv090x_state * | modcod enum stv090x_modcod | pilots int

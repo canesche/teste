@@ -1,0 +1,2 @@
+struct hash_netnet4_elem | ipcmp long | ccmp long 
+function hash_netnet4_data_equal int | ip1 const struct hash_netnet4_elem * | ip2 const struct hash_netnet4_elem * | multi int *

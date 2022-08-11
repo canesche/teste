@@ -1,0 +1,2 @@
+struct acpi_gtdt_header | type long 
+function is_timer_block int | platform_timer void *

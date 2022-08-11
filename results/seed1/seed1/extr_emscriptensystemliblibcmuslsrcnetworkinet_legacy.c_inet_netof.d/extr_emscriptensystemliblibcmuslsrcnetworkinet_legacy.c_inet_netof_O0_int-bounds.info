@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400610,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_emscriptensystemliblibcmuslsrcnetworkinet_legacy.c_inet_netof.d/extr_emscriptensystemliblibcmuslsrcnetworkinet_legacy.c_inet_netof_O0::inet_netof(61)"
+  }
+]

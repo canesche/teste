@@ -1,2 +1,0 @@
-struct pinctrl_dev | dummy int 
-function atmel_pmx_get_function_name const char * | pctldev struct pinctrl_dev * | selector unsigned int

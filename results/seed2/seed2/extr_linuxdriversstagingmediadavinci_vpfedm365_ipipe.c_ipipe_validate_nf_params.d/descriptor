@@ -1,0 +1,2 @@
+struct vpfe_ipipe_nf | en int | shft_val long | spread_val long | apply_lsc_gain int | edge_det_min_thr long | edge_det_max_thr long | thr long * | str long * 
+function ipipe_validate_nf_params int | nf_param struct vpfe_ipipe_nf *

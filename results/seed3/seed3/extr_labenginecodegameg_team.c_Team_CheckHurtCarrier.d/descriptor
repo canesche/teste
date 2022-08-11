@@ -1,0 +1,8 @@
+struct TYPE_15__ | client struct TYPE_14__ * 
+struct TYPE_16__ | time int 
+struct TYPE_12__ | lasthurtcarrier int 
+struct TYPE_13__ | teamState struct TYPE_12__ 
+struct TYPE_11__ | sessionTeam long 
+struct TYPE_10__ | generic1 long | powerups long * 
+struct TYPE_14__ | pers struct TYPE_13__ | sess struct TYPE_11__ | ps struct TYPE_10__ 
+function Team_CheckHurtCarrier void | targ struct TYPE_15__ * | attacker struct TYPE_15__ *

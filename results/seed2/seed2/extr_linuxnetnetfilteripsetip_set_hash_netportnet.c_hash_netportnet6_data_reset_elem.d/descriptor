@@ -1,0 +1,2 @@
+struct hash_netportnet6_elem | ip int * 
+function hash_netportnet6_data_reset_elem void | elem struct hash_netportnet6_elem * | orig struct hash_netportnet6_elem *

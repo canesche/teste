@@ -1,0 +1,5 @@
+struct mlx5_ib_wq | head unsigned int | tail unsigned int | last_poll int | wqe_cnt int | w_list struct TYPE_2__ * | wrid int * 
+struct mlx5_ib_qp | ibqp int | sq struct mlx5_ib_wq 
+struct ib_wc | qp int * | vendor_err int | status int | wr_id int 
+struct TYPE_2__ | next int 
+function sw_send_comp void | qp struct mlx5_ib_qp * | num_entries int | wc struct ib_wc * | npolled int *

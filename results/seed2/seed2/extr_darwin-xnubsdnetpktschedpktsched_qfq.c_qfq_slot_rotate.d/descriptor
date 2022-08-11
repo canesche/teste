@@ -1,0 +1,3 @@
+struct qfq_if | qif_maxslots int 
+struct qfq_group | qfg_S int | qfg_slot_shift int | qfg_full_slots int | qfg_front int 
+function qfq_slot_rotate void | qif struct qfq_if * | grp struct qfq_group * | roundedS int

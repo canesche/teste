@@ -1,0 +1,2 @@
+struct TYPE_3__ | buf int * | bits long * 
+function cs_md5_init void | ctx struct TYPE_3__ *

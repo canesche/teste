@@ -1,0 +1,2 @@
+struct device | dummy int 
+function __qcom_scm_restore_sec_cfg int | dev struct device * | device_id int | spare int

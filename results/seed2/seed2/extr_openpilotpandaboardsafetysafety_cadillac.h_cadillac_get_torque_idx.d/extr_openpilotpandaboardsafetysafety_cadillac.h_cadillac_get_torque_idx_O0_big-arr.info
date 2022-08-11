@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_openpilotpandaboardsafetysafety_cadillac.h_cadillac_get_torque_idx.d/extr_openpilotpandaboardsafetysafety_cadillac.h_cadillac_get_torque_idx_O0::cadillac_get_torque_idx(60)"
+  }
+]

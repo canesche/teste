@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 46,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 46,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxsoundcoreosspcm_oss.c_boundary_sub.d/extr_linuxsoundcoreosspcm_oss.c_boundary_sub_O0::boundary_sub(62)"
+  }
+]

@@ -1,0 +1,2 @@
+struct ath6kl | ac2ep_map int * | ep2ac_map unsigned long * 
+function set_ac2_ep_map void | ar struct ath6kl * | ac unsigned long | ep enum htc_endpoint_id

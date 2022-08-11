@@ -1,0 +1,4 @@
+struct ftp_conn | state int 
+struct TYPE_2__ | ftpc struct ftp_conn 
+struct connectdata | proto struct TYPE_2__ 
+function _state void | conn struct connectdata * | newstate int

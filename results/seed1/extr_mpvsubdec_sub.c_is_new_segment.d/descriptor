@@ -1,3 +1,0 @@
-struct demux_packet | start long | end long | codec long | segmented long 
-struct dec_sub | start long | end long | codec long 
-function is_new_segment int | sub struct dec_sub * | p struct demux_packet *

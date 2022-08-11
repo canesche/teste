@@ -1,0 +1,2 @@
+struct TYPE_3__ | first_parent int 
+function git_revwalk_simplify_first_parent void | walk struct TYPE_3__ *

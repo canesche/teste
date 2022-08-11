@@ -1,0 +1,2 @@
+struct svga3d_surface_desc | block_desc int 
+function svga3dsurface_is_planar_surface int | desc const struct svga3d_surface_desc *

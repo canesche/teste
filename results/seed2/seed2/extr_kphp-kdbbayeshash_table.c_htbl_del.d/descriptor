@@ -1,0 +1,3 @@
+struct TYPE_5__ | size int | h struct TYPE_6__ ** 
+struct TYPE_6__ | key int | data int | next_entry struct TYPE_6__ * 
+function htbl_del int | table struct TYPE_5__ * | key int

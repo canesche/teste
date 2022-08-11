@@ -1,2 +1,0 @@
-struct swaybar_sni | status char * | icon_pixmap long | icon_name long | attention_icon_pixmap long | attention_icon_name long 
-function sni_ready int | sni struct swaybar_sni *

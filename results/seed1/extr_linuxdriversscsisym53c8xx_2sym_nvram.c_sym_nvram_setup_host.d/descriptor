@@ -1,7 +1,0 @@
-struct TYPE_5__ | host_id int 
-struct TYPE_4__ | flags int | host_id int | flags1 int | flags2 int 
-struct TYPE_6__ | Tekram struct TYPE_5__ | Symbios struct TYPE_4__ 
-struct sym_nvram | type int | data struct TYPE_6__ 
-struct sym_hcb | rv_scntl0 int | myaddr int | verbose int | usrflags int 
-struct Scsi_Host | reverse_ordering int 
-function sym_nvram_setup_host void | shost struct Scsi_Host * | np struct sym_hcb * | nvram struct sym_nvram *

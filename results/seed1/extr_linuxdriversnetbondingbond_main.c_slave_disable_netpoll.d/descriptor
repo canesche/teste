@@ -1,2 +1,0 @@
-struct slave | dummy int 
-function slave_disable_netpoll void | slave struct slave *

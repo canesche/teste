@@ -1,0 +1,2 @@
+struct TYPE_3__ | ssl_version int 
+function SSL_SESSION_get_protocol_version int | s const struct TYPE_3__ *

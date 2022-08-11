@@ -1,0 +1,2 @@
+struct TYPE_3__ | disable_literal_context_modeling int | size_hint long | lgblock long | lgwin int | quality int | mode int 
+function BrotliEncoderInitParams void | params struct TYPE_3__ *

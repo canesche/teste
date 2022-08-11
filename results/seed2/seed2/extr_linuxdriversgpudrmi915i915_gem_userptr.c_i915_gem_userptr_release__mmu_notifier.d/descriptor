@@ -1,0 +1,2 @@
+struct drm_i915_gem_object | dummy int 
+function i915_gem_userptr_release__mmu_notifier void | obj struct drm_i915_gem_object *

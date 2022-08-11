@@ -1,2 +1,0 @@
-struct avc_response_frame | opcode long | operand long * 
-function is_register_rc int | r struct avc_response_frame *

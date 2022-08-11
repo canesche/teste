@@ -1,2 +1,0 @@
-struct pt_regs | dummy int 
-function dump_fpu int | regs struct pt_regs * | fpu int *

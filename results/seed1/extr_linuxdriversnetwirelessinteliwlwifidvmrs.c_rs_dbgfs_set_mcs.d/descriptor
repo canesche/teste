@@ -1,2 +1,0 @@
-struct iwl_lq_sta | dummy int 
-function rs_dbgfs_set_mcs void | lq_sta struct iwl_lq_sta * | rate_n_flags int * | index int

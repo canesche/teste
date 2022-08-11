@@ -1,0 +1,1 @@
+function dtd_desc_write_addr unsigned int | addr unsigned int | write_desc int | drop_data int | use_desc int

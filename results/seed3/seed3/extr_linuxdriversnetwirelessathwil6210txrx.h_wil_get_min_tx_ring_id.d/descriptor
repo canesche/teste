@@ -1,0 +1,2 @@
+struct wil6210_priv | use_enhanced_dma_hw long 
+function wil_get_min_tx_ring_id int | wil struct wil6210_priv *

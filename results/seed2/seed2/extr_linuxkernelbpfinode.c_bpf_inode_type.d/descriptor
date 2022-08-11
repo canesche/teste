@@ -1,0 +1,2 @@
+struct inode | i_op int * 
+function bpf_inode_type int | inode const struct inode * | type enum bpf_type *

@@ -1,0 +1,4 @@
+struct TYPE_5__ | vary int * 
+struct TYPE_6__ | headers_in struct TYPE_5__ 
+struct TYPE_7__ | upstream struct TYPE_6__ * 
+function ngx_http_upstream_process_vary int | r struct TYPE_7__ * | h int * | offset int

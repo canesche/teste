@@ -1,0 +1,3 @@
+struct reg_window | locals unsigned long * | ins unsigned long * 
+struct pt_regs | u_regs unsigned long * | tpc unsigned long | tnpc unsigned long | tstate unsigned long | y unsigned long 
+function pt_regs_to_gdb_regs void | gdb_regs unsigned long * | regs struct pt_regs *

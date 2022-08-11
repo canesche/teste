@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function show_diag_stat_start void * | m struct seq_file * | pos long *

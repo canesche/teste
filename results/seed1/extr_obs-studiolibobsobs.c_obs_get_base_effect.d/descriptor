@@ -1,3 +1,0 @@
-struct TYPE_3__ | premultiplied_alpha_effect int * | bilinear_lowres_effect int * | area_effect int * | lanczos_effect int * | bicubic_effect int * | repeat_effect int * | solid_effect int * | opaque_effect int * | default_rect_effect int * | default_effect int * 
-struct TYPE_4__ | video struct TYPE_3__ 
-function obs_get_base_effect int * | effect enum obs_base_effect

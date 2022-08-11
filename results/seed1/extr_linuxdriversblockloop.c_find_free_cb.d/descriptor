@@ -1,2 +1,0 @@
-struct loop_device | lo_state long 
-function find_free_cb int | id int | ptr void * | data void *

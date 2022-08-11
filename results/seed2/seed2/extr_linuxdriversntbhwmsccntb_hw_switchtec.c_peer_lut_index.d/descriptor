@@ -1,0 +1,2 @@
+struct switchtec_ntb | peer_nr_direct_mw int | nr_rsvd_luts int 
+function peer_lut_index int | sndev struct switchtec_ntb * | mw_idx int

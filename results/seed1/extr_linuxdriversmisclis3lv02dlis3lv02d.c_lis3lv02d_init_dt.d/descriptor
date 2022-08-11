@@ -1,2 +1,0 @@
-struct lis3lv02d | dummy int 
-function lis3lv02d_init_dt int | lis3 struct lis3lv02d *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | cbe_id int 
+function cbe_cpu_to_node int | cpu int

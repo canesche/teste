@@ -1,0 +1,2 @@
+struct qcom_geni_serial_port | tx_wm int | rx_wm int | rx_fifo_depth long | rx_rfr long 
+function set_rfr_wm void | port struct qcom_geni_serial_port *

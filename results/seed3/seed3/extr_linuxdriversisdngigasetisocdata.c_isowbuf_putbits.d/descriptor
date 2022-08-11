@@ -1,0 +1,2 @@
+struct isowbuf_t | write int | wbits int | data int * 
+function isowbuf_putbits void | iwb struct isowbuf_t * | data int | nbits int

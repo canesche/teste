@@ -1,0 +1,7 @@
+struct vd_sneq | dummy int 
+struct TYPE_2__ | identifier int 
+struct dasd_sneq | format int | res1 int | flags struct TYPE_2__ 
+struct dasd_ned | dummy int 
+struct dasd_gneq | dummy int 
+struct dasd_eckd_private | conf_len int | gneq struct dasd_gneq * | vdsneq struct vd_sneq * | sneq struct dasd_sneq * | ned struct dasd_ned * | conf_data long 
+function dasd_eckd_identify_conf_parts int | private struct dasd_eckd_private *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 584,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_FFmpeglibavcodecalphablockdsp_alpha.c_clear_blocks_axp.d/extr_FFmpeglibavcodecalphablockdsp_alpha.c_clear_blocks_axp_O0::clear_blocks_axp(61)"
+  }
+]

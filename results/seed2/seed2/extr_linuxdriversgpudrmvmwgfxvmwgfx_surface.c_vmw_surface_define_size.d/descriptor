@@ -1,0 +1,3 @@
+struct vmw_surface_define | dummy int 
+struct vmw_surface | num_sizes int 
+function vmw_surface_define_size int | srf const struct vmw_surface *

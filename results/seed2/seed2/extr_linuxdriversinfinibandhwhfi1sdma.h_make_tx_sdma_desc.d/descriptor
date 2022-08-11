@@ -1,0 +1,3 @@
+struct sdma_txreq | num_desc unsigned long | descp struct sdma_desc * 
+struct sdma_desc | qw int * 
+function make_tx_sdma_desc void | tx struct sdma_txreq * | type int | addr long | len unsigned long

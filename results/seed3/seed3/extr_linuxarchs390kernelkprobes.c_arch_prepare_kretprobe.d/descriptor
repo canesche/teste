@@ -1,0 +1,3 @@
+struct pt_regs | gprs unsigned long * 
+struct kretprobe_instance | ret_addr int * 
+function arch_prepare_kretprobe void | ri struct kretprobe_instance * | regs struct pt_regs *

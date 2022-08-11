@@ -1,4 +1,0 @@
-struct phy_device | priv struct lan88xx_priv * 
-struct lan88xx_priv | wolopts int 
-struct ethtool_wolinfo | wolopts int 
-function lan88xx_set_wol int | phydev struct phy_device * | wol struct ethtool_wolinfo *

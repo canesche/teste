@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function ixgbe_get_rxfh_key_size int | netdev struct net_device *

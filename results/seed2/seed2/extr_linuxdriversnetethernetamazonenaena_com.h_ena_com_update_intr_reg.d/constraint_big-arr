@@ -1,0 +1,1 @@
+value(rx_delay_interval) == 255, value(tx_delay_interval) == 255, value(unmask) == 255, length(intr_reg) == 65025

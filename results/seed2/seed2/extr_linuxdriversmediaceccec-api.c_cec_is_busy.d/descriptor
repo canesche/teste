@@ -1,0 +1,3 @@
+struct cec_fh | mode_initiator long 
+struct cec_adapter | cec_initiator const struct cec_fh * | cec_follower const struct cec_fh * 
+function cec_is_busy int | adap const struct cec_adapter * | fh const struct cec_fh *

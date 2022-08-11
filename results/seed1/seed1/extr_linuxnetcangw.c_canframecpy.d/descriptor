@@ -1,0 +1,2 @@
+struct can_frame | data long | can_dlc int | can_id int 
+function canframecpy void | dst struct can_frame * | src struct can_frame *

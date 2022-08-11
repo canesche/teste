@@ -1,0 +1,5 @@
+struct TYPE_3__ | value int 
+struct TYPE_4__ | control struct TYPE_3__ 
+struct snd_seq_event | data struct TYPE_4__ 
+struct snd_midi_event | buf long * 
+function songpos_event void | dev struct snd_midi_event * | ev struct snd_seq_event *

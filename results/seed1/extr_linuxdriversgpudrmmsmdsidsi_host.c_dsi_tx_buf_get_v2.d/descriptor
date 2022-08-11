@@ -1,2 +1,0 @@
-struct msm_dsi_host | tx_buf void * 
-function dsi_tx_buf_get_v2 void * | msm_host struct msm_dsi_host *

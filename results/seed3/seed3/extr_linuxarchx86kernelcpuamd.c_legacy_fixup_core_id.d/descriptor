@@ -1,0 +1,2 @@
+struct cpuinfo_x86 | x86 int | x86_max_cores int | cpu_core_id int 
+function legacy_fixup_core_id void | c struct cpuinfo_x86 *

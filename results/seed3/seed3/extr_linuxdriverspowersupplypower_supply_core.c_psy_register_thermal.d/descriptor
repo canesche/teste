@@ -1,0 +1,2 @@
+struct power_supply | dummy int 
+function psy_register_thermal int | psy struct power_supply *

@@ -1,4 +1,0 @@
-struct TYPE_7__ | nb_streams int | streams struct TYPE_6__ ** 
-struct TYPE_6__ | codecpar struct TYPE_5__ * 
-struct TYPE_5__ | codec_type int 
-function get_nth_codec_stream_index int | s struct TYPE_7__ * | codec_type enum AVMediaType | stream_id int

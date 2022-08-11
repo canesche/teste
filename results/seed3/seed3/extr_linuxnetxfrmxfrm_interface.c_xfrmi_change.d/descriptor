@@ -1,0 +1,4 @@
+struct xfrm_if_parms | link long | if_id int 
+struct TYPE_2__ | link long | if_id int 
+struct xfrm_if | p struct TYPE_2__ 
+function xfrmi_change int | xi struct xfrm_if * | p const struct xfrm_if_parms *

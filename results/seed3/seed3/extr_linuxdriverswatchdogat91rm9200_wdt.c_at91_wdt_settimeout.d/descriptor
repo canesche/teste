@@ -1,0 +1,1 @@
+function at91_wdt_settimeout int | new_time int

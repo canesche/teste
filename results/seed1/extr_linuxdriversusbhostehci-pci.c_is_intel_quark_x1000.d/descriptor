@@ -1,2 +1,0 @@
-struct pci_dev | vendor long | device long 
-function is_intel_quark_x1000 int | pdev struct pci_dev *

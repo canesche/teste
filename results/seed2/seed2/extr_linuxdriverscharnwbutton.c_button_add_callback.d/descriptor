@@ -1,0 +1,2 @@
+struct TYPE_2__ | callback void (*)() | count int 
+function button_add_callback int | callback void (*)(void) | count int

@@ -1,0 +1,2 @@
+struct LZXstate | R0 int | R1 int | R2 int | LENGTH_len long * | MAINTREE_len long * | window_posn long | intel_started long | intel_curpos long | block_type int | block_remaining long | frames_read long | header_read long 
+function LZXreset int | pState struct LZXstate *

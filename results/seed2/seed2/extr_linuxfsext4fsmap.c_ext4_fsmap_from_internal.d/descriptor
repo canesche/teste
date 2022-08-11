@@ -1,0 +1,4 @@
+struct super_block | s_blocksize_bits int 
+struct fsmap | fmr_physical int | fmr_length int | fmr_reserved long * | fmr_offset long | fmr_owner int | fmr_flags int | fmr_device int 
+struct ext4_fsmap | fmr_physical int | fmr_length int | fmr_owner int | fmr_flags int | fmr_device int 
+function ext4_fsmap_from_internal void | sb struct super_block * | dest struct fsmap * | src struct ext4_fsmap *

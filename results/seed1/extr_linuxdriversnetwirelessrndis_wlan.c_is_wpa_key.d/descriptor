@@ -1,3 +1,0 @@
-struct rndis_wlan_private | encr_keys struct TYPE_2__ * 
-struct TYPE_2__ | cipher int 
-function is_wpa_key int | priv struct rndis_wlan_private * | idx unsigned long

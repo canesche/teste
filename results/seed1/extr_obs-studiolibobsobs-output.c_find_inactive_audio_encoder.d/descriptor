@@ -1,3 +1,0 @@
-struct obs_encoder | paired_encoder int | active int 
-struct TYPE_3__ | audio_encoders struct obs_encoder ** 
-function find_inactive_audio_encoder struct obs_encoder * | output struct TYPE_3__ * | num_mixes unsigned long

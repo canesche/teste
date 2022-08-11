@@ -1,0 +1,2 @@
+struct tbnet_ring | prod unsigned int | cons unsigned int 
+function tbnet_available_buffers unsigned int | ring const struct tbnet_ring *

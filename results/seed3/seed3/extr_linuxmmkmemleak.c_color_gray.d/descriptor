@@ -1,0 +1,2 @@
+struct kmemleak_object | min_count long | count long 
+function color_gray int | object const struct kmemleak_object *

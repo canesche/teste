@@ -1,2 +1,0 @@
-struct nvidia_par | PDIO0 long | PDIO long | PRAMDAC0 long | PRAMDAC long | PCRTC0 long | PCRTC long | PCIO0 long | PCIO long 
-function NVSelectHeadRegisters void | par struct nvidia_par * | head int

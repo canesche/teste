@@ -1,0 +1,2 @@
+struct TYPE_3__ | clock_precision_digits unsigned int 
+function TS_RESP_CTX_set_clock_precision_digits int | ctx struct TYPE_3__ * | precision unsigned int

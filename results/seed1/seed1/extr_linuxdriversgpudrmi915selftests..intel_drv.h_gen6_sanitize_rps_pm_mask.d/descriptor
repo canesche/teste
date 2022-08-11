@@ -1,0 +1,4 @@
+struct TYPE_3__ | pm_intrmsk_mbz int 
+struct TYPE_4__ | rps struct TYPE_3__ 
+struct drm_i915_private | gt_pm struct TYPE_4__ 
+function gen6_sanitize_rps_pm_mask int | i915 const struct drm_i915_private * | mask int

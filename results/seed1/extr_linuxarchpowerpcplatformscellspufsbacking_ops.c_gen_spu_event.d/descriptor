@@ -1,3 +1,0 @@
-struct TYPE_2__ | spu_chnlcnt_RW long * | spu_chnldata_RW long * 
-struct spu_context | csa struct TYPE_2__ 
-function gen_spu_event void | ctx struct spu_context * | event long

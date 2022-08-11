@@ -1,0 +1,3 @@
+struct dwc_otg_pcd_ep | priv void * 
+struct TYPE_3__ | out_ep struct dwc_otg_pcd_ep * | in_ep struct dwc_otg_pcd_ep * | ep0 struct dwc_otg_pcd_ep 
+function ep_from_handle struct dwc_otg_pcd_ep * | pcd struct TYPE_3__ * | handle void *

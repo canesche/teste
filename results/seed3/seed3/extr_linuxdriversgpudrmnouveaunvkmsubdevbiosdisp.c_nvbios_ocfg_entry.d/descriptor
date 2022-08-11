@@ -1,0 +1,2 @@
+struct nvkm_bios | dummy int 
+function nvbios_ocfg_entry int | bios struct nvkm_bios * | outp int | idx int | ver int * | hdr int * | cnt int * | len int *

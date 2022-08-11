@@ -1,2 +1,0 @@
-struct sxgbe_rx_ctxt_desc | own_bit int 
-function sxgbe_get_rx_ctxt_owner int | p struct sxgbe_rx_ctxt_desc *

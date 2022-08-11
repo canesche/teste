@@ -1,0 +1,3 @@
+struct ttm_place | fpfn long | lpfn long | flags int 
+struct ttm_mem_reg | start long | num_pages long | placement int | mm_node long 
+function ttm_bo_places_compat int | places const struct ttm_place * | num_placement unsigned int | mem struct ttm_mem_reg * | new_flags int *

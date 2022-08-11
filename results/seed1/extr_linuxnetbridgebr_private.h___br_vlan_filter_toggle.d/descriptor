@@ -1,2 +1,0 @@
-struct net_bridge | dummy int 
-function __br_vlan_filter_toggle int | br struct net_bridge * | val unsigned long

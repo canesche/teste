@@ -1,0 +1,2 @@
+struct dvb_frontend | dummy int 
+function get_algo enum dvbfe_algo | fe struct dvb_frontend *

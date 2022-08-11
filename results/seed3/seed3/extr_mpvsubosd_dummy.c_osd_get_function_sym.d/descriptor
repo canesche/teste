@@ -1,0 +1,1 @@
+function osd_get_function_sym void | buffer char * | buffer_size unsigned long | osd_function int

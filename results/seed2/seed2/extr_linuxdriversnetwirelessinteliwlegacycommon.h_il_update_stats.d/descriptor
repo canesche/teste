@@ -1,0 +1,2 @@
+struct il_priv | dummy int 
+function il_update_stats void | il struct il_priv * | is_tx int | fc int | len int

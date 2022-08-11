@@ -1,0 +1,4 @@
+struct zoran_fh | zr struct zoran * 
+struct zoran | input unsigned int 
+struct file | dummy int 
+function zoran_g_input int | file struct file * | __fh void * | input unsigned int *

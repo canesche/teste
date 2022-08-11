@@ -1,0 +1,2 @@
+struct TYPE_4__ | ns_addr long | block_id long 
+function ngx_http_tfs_block_cache_cmp int | left struct TYPE_4__ * | right struct TYPE_4__ *

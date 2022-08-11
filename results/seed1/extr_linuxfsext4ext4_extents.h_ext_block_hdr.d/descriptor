@@ -1,3 +1,0 @@
-struct ext4_extent_header | dummy int 
-struct buffer_head | b_data long 
-function ext_block_hdr struct ext4_extent_header * | bh struct buffer_head *

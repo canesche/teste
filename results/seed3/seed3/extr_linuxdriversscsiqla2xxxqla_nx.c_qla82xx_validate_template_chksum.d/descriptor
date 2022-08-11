@@ -1,0 +1,3 @@
+struct qla_hw_data | md_template_size int | md_tmplt_hdr long 
+struct TYPE_3__ | hw struct qla_hw_data * 
+function qla82xx_validate_template_chksum int | vha struct TYPE_3__ *

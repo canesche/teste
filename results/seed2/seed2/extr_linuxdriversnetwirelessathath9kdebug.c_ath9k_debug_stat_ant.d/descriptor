@@ -1,0 +1,6 @@
+struct TYPE_3__ | ant_stats struct ath_antenna_stats * 
+struct TYPE_4__ | stats struct TYPE_3__ 
+struct ath_softc | debug struct TYPE_4__ 
+struct ath_hw_antcomb_conf | main_lna_conf unsigned long | alt_lna_conf unsigned long 
+struct ath_antenna_stats | rssi_avg int | lna_attempt_cnt int * 
+function ath9k_debug_stat_ant void | sc struct ath_softc * | div_ant_conf struct ath_hw_antcomb_conf * | main_rssi_avg int | alt_rssi_avg int

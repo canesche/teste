@@ -1,0 +1,2 @@
+struct oprofile_cpu_buffer | tracing int 
+function oprofile_begin_trace void | cpu_buf struct oprofile_cpu_buffer *

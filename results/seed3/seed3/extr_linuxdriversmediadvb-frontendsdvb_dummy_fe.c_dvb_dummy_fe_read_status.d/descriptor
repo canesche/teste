@@ -1,0 +1,2 @@
+struct dvb_frontend | dummy int 
+function dvb_dummy_fe_read_status int | fe struct dvb_frontend * | status enum fe_status *

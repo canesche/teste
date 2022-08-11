@@ -1,0 +1,4 @@
+struct iterations | cycles long | nr_loop_iter int 
+struct TYPE_2__ | cycles long 
+struct branch_entry | flags struct TYPE_2__ 
+function save_iterations void | iter struct iterations * | be struct branch_entry * | nr int

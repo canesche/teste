@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsoundisaad1816aad1816a_lib.c_snd_ad1816a_info_double.d/extr_linuxsoundisaad1816aad1816a_lib.c_snd_ad1816a_info_double_O0::snd_ad1816a_info_double(68)"
+  }
+]

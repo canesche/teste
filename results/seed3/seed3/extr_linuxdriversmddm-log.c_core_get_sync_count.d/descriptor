@@ -1,0 +1,3 @@
+struct log_c | sync_count int 
+struct dm_dirty_log | context long 
+function core_get_sync_count int | log struct dm_dirty_log *

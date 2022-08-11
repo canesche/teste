@@ -1,0 +1,2 @@
+struct nci_driver_ops | opcode long 
+function ops_cmd_lookup struct nci_driver_ops * | ops struct nci_driver_ops * | n_ops unsigned long | opcode long

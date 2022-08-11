@@ -1,0 +1,2 @@
+struct iwl_mvm_vif | low_latency int 
+function iwl_mvm_vif_set_low_latency void | mvmvif struct iwl_mvm_vif * | set int | cause enum iwl_mvm_low_latency_cause

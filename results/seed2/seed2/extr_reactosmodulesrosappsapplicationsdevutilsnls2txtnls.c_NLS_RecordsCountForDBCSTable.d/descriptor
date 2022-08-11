@@ -1,0 +1,2 @@
+struct TYPE_3__ | UniDefaultChar long | DBCSOffsets long * 
+function NLS_RecordsCountForDBCSTable int | CodePageTable struct TYPE_3__ * | LeadByte unsigned long

@@ -1,4 +1,0 @@
-struct ubi_volume_desc | vol struct ubi_volume * 
-struct ubi_volume | vol_id int | used_ebs int | usable_leb_size int | vol_type long | last_eb_bytes int | upd_marker long | ubi struct ubi_device * 
-struct ubi_device | vtbl_slots int 
-function leb_read_sanity_check int | desc struct ubi_volume_desc * | lnum int | offset int | len int

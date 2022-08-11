@@ -1,3 +1,0 @@
-struct b43_wldev | dev struct TYPE_2__ * 
-struct TYPE_2__ | core_rev int 
-function pio_txqueue_offset int | dev struct b43_wldev *

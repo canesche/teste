@@ -1,0 +1,6 @@
+struct snd_kcontrol | private_data struct isight * 
+struct TYPE_3__ | max int | min int 
+struct TYPE_4__ | integer struct TYPE_3__ 
+struct snd_ctl_elem_info | count int | value struct TYPE_4__ | type int 
+struct isight | gain_max int | gain_min int 
+function isight_gain_info int | ctl struct snd_kcontrol * | info struct snd_ctl_elem_info *

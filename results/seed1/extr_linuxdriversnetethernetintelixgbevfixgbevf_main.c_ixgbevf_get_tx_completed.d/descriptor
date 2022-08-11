@@ -1,3 +1,0 @@
-struct TYPE_2__ | packets int 
-struct ixgbevf_ring | stats struct TYPE_2__ 
-function ixgbevf_get_tx_completed int | ring struct ixgbevf_ring *

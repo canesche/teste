@@ -1,0 +1,2 @@
+struct xpc_partition | dummy int 
+function xpc_cancel_partition_deactivation_request_uv void | part struct xpc_partition *

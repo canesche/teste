@@ -1,3 +1,0 @@
-struct snd_ice1712 | ac97 int * 
-struct snd_ac97 | private_data struct snd_ice1712 * 
-function snd_ice1712_mixer_free_ac97 void | ac97 struct snd_ac97 *

@@ -1,2 +1,0 @@
-struct TYPE_3__ | is_server int 
-function ptls_is_server int | tls struct TYPE_3__ *

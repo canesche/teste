@@ -1,4 +1,0 @@
-struct TYPE_7__ | IsEnumCompleted int 
-struct TYPE_5__ | NetEvent long 
-struct TYPE_6__ | NetPnPEvent struct TYPE_5__ 
-function SlNdisNetPnPEventProc int | protocol_binding_context long | net_pnp_event struct TYPE_6__ *

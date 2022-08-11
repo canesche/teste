@@ -1,3 +1,0 @@
-struct TYPE_5__ | delta int * 
-struct TYPE_6__ | batch int | c int | h int | w int | delta int * 
-function backward_avgpool_layer void | l const struct TYPE_6__ | net struct TYPE_5__

@@ -1,2 +1,0 @@
-struct drm_bridge | dummy int 
-function sti_hda_bridge_nope void | bridge struct drm_bridge *

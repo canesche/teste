@@ -1,0 +1,5 @@
+struct net_device | ml_priv struct airo_info * 
+struct ifreq | dummy int 
+struct TYPE_2__ | event long 
+struct airo_info | power struct TYPE_2__ 
+function airo_ioctl int | dev struct net_device * | rq struct ifreq * | cmd int

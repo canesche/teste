@@ -1,0 +1,4 @@
+struct TYPE_3__ | crypto_mode31 int | crypto_mode9_8 int | feedback_mode int | sa_rev int | hmac_muting int | extended_seq_num int | seq_num_mask int | mutable_bit_proc int | copy_pad int | copy_payload int | copy_hdr int 
+struct TYPE_4__ | bf struct TYPE_3__ | w long 
+struct dynamic_sa_ctl | sa_command_1 struct TYPE_4__ 
+function set_dynamic_sa_command_1 void | sa struct dynamic_sa_ctl * | cm int | hmac_mc int | cfb int | esn int | sn_mask int | mute int | cp_pad int | cp_pay int | cp_hdr int

@@ -1,0 +1,5 @@
+struct uprobe_dispatch_data | bp_addr unsigned long | tu struct TYPE_5__ * 
+struct TYPE_6__ | utask struct TYPE_4__ * 
+struct TYPE_5__ | offset unsigned long 
+struct TYPE_4__ | vaddr long 
+function translate_user_vaddr unsigned long | file_offset void *

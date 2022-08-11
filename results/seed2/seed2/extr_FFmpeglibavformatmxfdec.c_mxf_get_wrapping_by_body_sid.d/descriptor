@@ -1,0 +1,4 @@
+struct TYPE_7__ | nb_streams int | streams struct TYPE_5__ ** 
+struct TYPE_6__ | body_sid int | wrapping long 
+struct TYPE_5__ | priv_data struct TYPE_6__ * 
+function mxf_get_wrapping_by_body_sid long | s struct TYPE_7__ * | body_sid int

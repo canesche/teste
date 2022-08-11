@@ -1,0 +1,1 @@
+function vprintf_null int | format const char * | ap int

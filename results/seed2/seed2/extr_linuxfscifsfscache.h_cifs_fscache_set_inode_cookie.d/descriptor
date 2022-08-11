@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct file | dummy int 
+function cifs_fscache_set_inode_cookie void | inode struct inode * | filp struct file *

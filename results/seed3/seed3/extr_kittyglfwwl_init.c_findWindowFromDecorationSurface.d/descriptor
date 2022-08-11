@@ -1,0 +1,10 @@
+struct wl_surface | dummy int 
+struct TYPE_13__ | surface struct wl_surface * 
+struct TYPE_12__ | surface struct wl_surface * 
+struct TYPE_11__ | surface struct wl_surface * 
+struct TYPE_10__ | surface struct wl_surface * 
+struct TYPE_14__ | bottom struct TYPE_13__ | right struct TYPE_12__ | left struct TYPE_11__ | top struct TYPE_10__ 
+struct TYPE_15__ | decorations struct TYPE_14__ 
+struct TYPE_16__ | next struct TYPE_16__ * | wl struct TYPE_15__ 
+struct TYPE_17__ | windowListHead struct TYPE_16__ * 
+function findWindowFromDecorationSurface struct TYPE_16__ * | surface struct wl_surface * | which int *

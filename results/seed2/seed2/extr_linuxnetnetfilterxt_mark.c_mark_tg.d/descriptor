@@ -1,0 +1,4 @@
+struct xt_mark_tginfo2 | mask int | mark int 
+struct xt_action_param | targinfo struct xt_mark_tginfo2 * 
+struct sk_buff | mark int 
+function mark_tg unsigned int | skb struct sk_buff * | par const struct xt_action_param *

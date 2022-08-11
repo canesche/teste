@@ -1,0 +1,4 @@
+struct TYPE_7__ | xnum int | gpu_cells struct TYPE_6__ * | cpu_cells struct TYPE_5__ * 
+struct TYPE_6__ | attrs int 
+struct TYPE_5__ | ch long 
+function xlimit_for_line int | line struct TYPE_7__ *

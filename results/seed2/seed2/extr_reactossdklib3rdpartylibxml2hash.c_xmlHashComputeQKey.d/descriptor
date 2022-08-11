@@ -1,0 +1,2 @@
+struct TYPE_3__ | size unsigned long 
+function xmlHashComputeQKey unsigned long | table struct TYPE_3__ * | prefix const int * | name const int * | prefix2 const int * | name2 const int * | prefix3 const int * | name3 const int *

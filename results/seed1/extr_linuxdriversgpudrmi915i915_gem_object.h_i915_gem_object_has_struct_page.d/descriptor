@@ -1,3 +1,0 @@
-struct drm_i915_gem_object | ops struct TYPE_2__ * 
-struct TYPE_2__ | flags int 
-function i915_gem_object_has_struct_page int | obj const struct drm_i915_gem_object *

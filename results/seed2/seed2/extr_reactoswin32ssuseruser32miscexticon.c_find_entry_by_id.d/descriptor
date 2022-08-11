@@ -1,0 +1,3 @@
+struct TYPE_6__ | NumberOfNamedEntries int | NumberOfIdEntries int 
+struct TYPE_5__ | Id long | OffsetToDirectory int 
+function find_entry_by_id const struct TYPE_6__ * | dir const struct TYPE_6__ * | id long | root const void *

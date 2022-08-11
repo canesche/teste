@@ -1,0 +1,3 @@
+struct clk | flags int 
+struct arm_idlect1_clk | no_idle_count long | idlect_shift int 
+function omap1_clk_allow_idle void | clk struct clk *

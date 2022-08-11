@@ -1,2 +1,0 @@
-struct rpc_wait_queue | nr int | owner int 
-function rpc_set_waitqueue_owner void | queue struct rpc_wait_queue * | pid int

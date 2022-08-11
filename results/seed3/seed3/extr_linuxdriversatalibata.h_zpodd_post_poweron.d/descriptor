@@ -1,0 +1,2 @@
+struct ata_device | dummy int 
+function zpodd_post_poweron void | dev struct ata_device *

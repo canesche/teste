@@ -1,2 +1,0 @@
-struct TYPE_4__ | pic_width long | pic_height long | chroma_width long | chroma_height long | tile_width long | tile_height long | luma_bands long | chroma_bands long 
-function ivi_pic_config_cmp int | str1 struct TYPE_4__ * | str2 struct TYPE_4__ *

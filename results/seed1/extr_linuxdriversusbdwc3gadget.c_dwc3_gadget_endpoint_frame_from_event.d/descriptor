@@ -1,3 +1,0 @@
-struct dwc3_event_depevt | parameters int 
-struct dwc3_ep | frame_number int 
-function dwc3_gadget_endpoint_frame_from_event void | dep struct dwc3_ep * | event const struct dwc3_event_depevt *

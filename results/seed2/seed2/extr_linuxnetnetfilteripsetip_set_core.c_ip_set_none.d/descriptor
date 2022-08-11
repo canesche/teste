@@ -1,0 +1,7 @@
+struct sock | dummy int 
+struct sk_buff | dummy int 
+struct nlmsghdr | dummy int 
+struct nlattr | dummy int 
+struct netlink_ext_ack | dummy int 
+struct net | dummy int 
+function ip_set_none int | net struct net * | ctnl struct sock * | skb struct sk_buff * | nlh const struct nlmsghdr * | attr const struct nlattr *const[] | extack struct netlink_ext_ack *

@@ -1,0 +1,2 @@
+struct winedbg_arm_insn | pc int 
+function arm_set_pc void | arminsn struct winedbg_arm_insn * | pc int

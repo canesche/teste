@@ -1,2 +1,0 @@
-struct b53_device | dummy int 
-function is5365 int | dev struct b53_device *

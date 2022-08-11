@@ -1,0 +1,6 @@
+struct TYPE_5__ | oe_off long | oe_len long 
+struct rbd_obj_request | ex struct TYPE_5__ | img_request struct TYPE_4__ * 
+struct TYPE_6__ | object_size long 
+struct rbd_device | layout struct TYPE_6__ 
+struct TYPE_4__ | rbd_dev struct rbd_device * 
+function rbd_obj_is_tail int | obj_req struct rbd_obj_request *

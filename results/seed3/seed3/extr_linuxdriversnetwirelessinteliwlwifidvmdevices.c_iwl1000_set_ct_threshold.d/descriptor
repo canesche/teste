@@ -1,0 +1,3 @@
+struct TYPE_2__ | ct_kill_exit_threshold int | ct_kill_threshold int 
+struct iwl_priv | hw_params struct TYPE_2__ 
+function iwl1000_set_ct_threshold void | priv struct iwl_priv *

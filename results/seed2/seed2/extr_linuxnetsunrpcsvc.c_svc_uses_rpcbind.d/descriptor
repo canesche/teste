@@ -1,0 +1,4 @@
+struct svc_serv | sv_program struct svc_program * 
+struct svc_program | pg_nvers unsigned int | pg_vers struct TYPE_2__ ** | pg_next struct svc_program * 
+struct TYPE_2__ | vs_hidden int 
+function svc_uses_rpcbind int | serv struct svc_serv *

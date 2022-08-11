@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_FFmpeglibavutilhwcontext_opencl.c_opencl_mem_flags_for_mapping.d/extr_FFmpeglibavutilhwcontext_opencl.c_opencl_mem_flags_for_mapping_O0::opencl_mem_flags_for_mapping(66)"
+  }
+]

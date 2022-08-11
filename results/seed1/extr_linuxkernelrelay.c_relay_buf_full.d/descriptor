@@ -1,3 +1,0 @@
-struct rchan_buf | subbufs_produced unsigned long | subbufs_consumed unsigned long | chan struct TYPE_2__ * 
-struct TYPE_2__ | n_subbufs unsigned long 
-function relay_buf_full int | buf struct rchan_buf *

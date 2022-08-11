@@ -1,0 +1,2 @@
+struct TYPE_3__ | codepage int 
+function msi_get_string_table_codepage int | st const struct TYPE_3__ *

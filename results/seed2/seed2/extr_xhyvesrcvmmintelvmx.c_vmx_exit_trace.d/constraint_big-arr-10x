@@ -1,0 +1,1 @@
+value(vcpu) == 10, value(rip) == 10, value(exit_reason) == 10, value(handled) == 10, length(vmx) == 100

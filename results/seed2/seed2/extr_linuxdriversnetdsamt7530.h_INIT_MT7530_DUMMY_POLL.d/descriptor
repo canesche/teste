@@ -1,0 +1,3 @@
+struct mt7530_priv | dummy int 
+struct mt7530_dummy_poll | reg int | priv struct mt7530_priv * 
+function INIT_MT7530_DUMMY_POLL void | p struct mt7530_dummy_poll * | priv struct mt7530_priv * | reg int

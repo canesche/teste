@@ -1,0 +1,4 @@
+struct TYPE_4__ | head int * 
+struct TYPE_3__ | head int * 
+struct socket | low struct TYPE_4__ | high struct TYPE_3__ 
+function send_buffer_empty int | s struct socket *

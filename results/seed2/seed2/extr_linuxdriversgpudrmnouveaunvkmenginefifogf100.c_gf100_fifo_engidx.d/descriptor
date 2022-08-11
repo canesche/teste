@@ -1,0 +1,2 @@
+struct gf100_fifo | dummy int 
+function gf100_fifo_engidx int | fifo struct gf100_fifo * | engn int

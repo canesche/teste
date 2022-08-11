@@ -1,0 +1,2 @@
+struct device | dummy int 
+function snd_gusclassic_match int | dev struct device * | n unsigned int

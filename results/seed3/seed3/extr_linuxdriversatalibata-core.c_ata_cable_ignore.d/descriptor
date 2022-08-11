@@ -1,0 +1,2 @@
+struct ata_port | dummy int 
+function ata_cable_ignore int | ap struct ata_port *

@@ -1,0 +1,2 @@
+struct vmcb_seg | attrib int | limit int | base long | selector long 
+function init_sys_seg void | seg struct vmcb_seg * | type int

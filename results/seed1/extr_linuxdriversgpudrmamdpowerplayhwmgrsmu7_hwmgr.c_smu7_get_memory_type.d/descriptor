@@ -1,5 +1,0 @@
-struct smu7_hwmgr | is_memory_gddr5 int 
-struct pp_hwmgr | adev struct amdgpu_device * | backend long 
-struct TYPE_2__ | vram_type long 
-struct amdgpu_device | gmc struct TYPE_2__ 
-function smu7_get_memory_type int | hwmgr struct pp_hwmgr *

@@ -1,0 +1,2 @@
+struct Scsi_Host | hostdata int 
+function imm_dev int * | host struct Scsi_Host *

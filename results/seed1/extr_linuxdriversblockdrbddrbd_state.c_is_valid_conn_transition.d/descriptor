@@ -1,1 +1,0 @@
-function is_valid_conn_transition enum drbd_state_rv | oc enum drbd_conns | nc enum drbd_conns

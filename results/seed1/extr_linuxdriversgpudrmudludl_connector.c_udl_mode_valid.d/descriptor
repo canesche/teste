@@ -1,5 +1,0 @@
-struct udl_device | sku_pixel_limit int 
-struct drm_display_mode | vdisplay int | hdisplay int 
-struct drm_connector | dev struct TYPE_2__ * 
-struct TYPE_2__ | dev_private struct udl_device * 
-function udl_mode_valid enum drm_mode_status | connector struct drm_connector * | mode struct drm_display_mode *

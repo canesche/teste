@@ -1,0 +1,3 @@
+struct TYPE_4__ | st_mode int 
+struct TYPE_5__ | inode_item struct TYPE_4__ 
+function inherit_mode int | parfcb struct TYPE_5__ * | is_dir int

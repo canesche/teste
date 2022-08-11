@@ -1,3 +1,0 @@
-struct TYPE_6__ | UseSecureDeviceId int 
-struct TYPE_5__ | DeviceId int 
-function CtGetUseSecure int | c struct TYPE_6__ * | sec struct TYPE_5__ *

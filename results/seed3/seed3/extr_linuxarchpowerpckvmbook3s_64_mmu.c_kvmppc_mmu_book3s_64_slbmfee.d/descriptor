@@ -1,0 +1,4 @@
+struct kvmppc_slb | orige unsigned long 
+struct TYPE_2__ | slb_nr unsigned long | slb struct kvmppc_slb * 
+struct kvm_vcpu | arch struct TYPE_2__ 
+function kvmppc_mmu_book3s_64_slbmfee unsigned long | vcpu struct kvm_vcpu * | slb_nr unsigned long

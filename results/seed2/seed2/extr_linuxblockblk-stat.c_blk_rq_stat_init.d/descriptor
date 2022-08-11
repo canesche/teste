@@ -1,0 +1,2 @@
+struct blk_rq_stat | min unsigned long long | batch long | mean long | nr_samples long | max long 
+function blk_rq_stat_init void | stat struct blk_rq_stat *

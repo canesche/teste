@@ -1,2 +1,0 @@
-struct ata_ioports | cmd_addr long | command_addr long | status_addr long | device_addr long | lbah_addr long | lbam_addr long | lbal_addr long | nsect_addr long | feature_addr long | error_addr long | data_addr long 
-function ata_sff_std_ports void | ioaddr struct ata_ioports *

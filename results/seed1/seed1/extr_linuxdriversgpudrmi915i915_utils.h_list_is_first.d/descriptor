@@ -1,0 +1,2 @@
+struct list_head | next const struct list_head * 
+function list_is_first int | list const struct list_head * | head const struct list_head *

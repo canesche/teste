@@ -1,3 +1,0 @@
-struct gf100_gr | tpc_max int | gpc_nr int | tpc_nr int * | sm_nr unsigned long | sm struct TYPE_2__ * 
-struct TYPE_2__ | gpc int | tpc int 
-function gf100_gr_oneinit_sm_id void | gr struct gf100_gr *

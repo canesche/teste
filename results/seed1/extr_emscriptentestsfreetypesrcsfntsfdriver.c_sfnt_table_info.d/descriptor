@@ -1,3 +1,0 @@
-struct TYPE_5__ | num_tables unsigned long | dir_tables struct TYPE_4__ * 
-struct TYPE_4__ | Length int | Offset int | Tag int 
-function sfnt_table_info int | face struct TYPE_5__ * | idx unsigned long | tag int * | offset int * | length int *

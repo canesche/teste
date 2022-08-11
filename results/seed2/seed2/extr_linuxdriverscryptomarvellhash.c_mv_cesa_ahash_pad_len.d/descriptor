@@ -1,0 +1,2 @@
+struct mv_cesa_ahash_req | len unsigned int 
+function mv_cesa_ahash_pad_len int | creq struct mv_cesa_ahash_req *

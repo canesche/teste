@@ -1,0 +1,15 @@
+struct TYPE_25__ | numlayers int 
+struct TYPE_26__ | numresolutions int | resolutions struct TYPE_29__ * 
+struct TYPE_27__ | numcomps int | comps struct TYPE_26__ * 
+struct TYPE_28__ | image struct TYPE_23__ * | tcp struct TYPE_25__ * | tcd_tile struct TYPE_27__ * | cp struct TYPE_20__ * 
+struct TYPE_29__ | numbands int | pw int | ph int | bands struct TYPE_19__ * 
+struct TYPE_21__ | enc struct TYPE_18__ * 
+struct TYPE_16__ | cw int | ch int | cblks struct TYPE_21__ 
+struct TYPE_17__ | numpasses int | data long | len long 
+struct TYPE_18__ | numbps int | numpassesinlayers int | passes struct TYPE_24__ * | data long | layers struct TYPE_17__ * 
+struct TYPE_19__ | precincts struct TYPE_16__ * 
+struct TYPE_20__ | matrice float * 
+struct TYPE_24__ | rate long 
+struct TYPE_23__ | comps struct TYPE_22__ * 
+struct TYPE_22__ | prec double 
+function tcd_makelayer_fixed void | tcd struct TYPE_28__ * | layno int | final int

@@ -1,0 +1,2 @@
+struct extent_status | es_pblk int 
+function ext4_es_store_pblock void | es struct extent_status * | pb int

@@ -1,1 +1,0 @@
-function mock_write unsigned long | conn int * | buf const char * | writelen unsigned long

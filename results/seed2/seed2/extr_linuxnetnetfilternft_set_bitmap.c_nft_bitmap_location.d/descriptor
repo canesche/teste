@@ -1,0 +1,2 @@
+struct nft_set | klen int 
+function nft_bitmap_location void | set const struct nft_set * | key const void * | idx int * | off int *

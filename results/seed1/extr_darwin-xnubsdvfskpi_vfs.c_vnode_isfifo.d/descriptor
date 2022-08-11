@@ -1,2 +1,0 @@
-struct TYPE_3__ | v_type long 
-function vnode_isfifo int | vp struct TYPE_3__ *

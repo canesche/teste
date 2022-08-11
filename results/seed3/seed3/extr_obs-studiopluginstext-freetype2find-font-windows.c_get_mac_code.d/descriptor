@@ -1,0 +1,2 @@
+struct mac_font_mapping | encoding_id long | language_id long | code_page unsigned int 
+function get_mac_code unsigned int | encoding_id long | language_id long

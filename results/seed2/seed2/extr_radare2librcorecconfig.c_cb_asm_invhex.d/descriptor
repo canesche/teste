@@ -1,0 +1,4 @@
+struct TYPE_6__ | i_value int 
+struct TYPE_5__ | assembler struct TYPE_4__ * 
+struct TYPE_4__ | invhex int 
+function cb_asm_invhex int | user void * | data void *

@@ -1,0 +1,3 @@
+struct srp_target_port | dummy int 
+struct Scsi_Host | hostdata long 
+function host_to_target struct srp_target_port * | host struct Scsi_Host *

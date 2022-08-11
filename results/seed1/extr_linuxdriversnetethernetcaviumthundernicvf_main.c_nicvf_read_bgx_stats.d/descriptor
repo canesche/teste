@@ -1,4 +1,0 @@
-struct TYPE_2__ | tx_stats int * | rx_stats int * 
-struct nicvf | bgx_stats struct TYPE_2__ 
-struct bgx_stats_msg | idx unsigned long | stats int | rx long 
-function nicvf_read_bgx_stats void | nic struct nicvf * | bgx struct bgx_stats_msg *

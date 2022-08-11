@@ -1,2 +1,0 @@
-struct amdgpu_device | dummy int 
-function dce_virtual_page_flip void | adev struct amdgpu_device * | crtc_id int | crtc_base int | async int

@@ -1,0 +1,4 @@
+struct ubifs_info | dbg struct TYPE_3__ * 
+struct TYPE_4__ | tst_rcvry long 
+struct TYPE_3__ | tst_rcvry long 
+function dbg_is_tst_rcvry int | c const struct ubifs_info *

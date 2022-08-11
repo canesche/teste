@@ -1,0 +1,3 @@
+struct slgt_info | tbuf_count unsigned int | tbufs struct TYPE_2__ * | tbuf_current long 
+struct TYPE_2__ | count long | status long 
+function reset_tbufs void | info struct slgt_info *

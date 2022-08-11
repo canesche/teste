@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 71,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 71,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_reactossdklib3rdpartyfreetypesrcsmoothftgrays.c_gray_split_conic.d/extr_reactossdklib3rdpartyfreetypesrcsmoothftgrays.c_gray_split_conic_O0::gray_split_conic(65)"
+  }
+]

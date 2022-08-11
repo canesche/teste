@@ -1,0 +1,2 @@
+struct pid_stat | sortlist long 
+function compar_pid int | pid1 const void * | pid2 const void *

@@ -1,3 +1,0 @@
-struct TYPE_2__ | sleep int * 
-struct dvb_frontend_ops | tuner_ops struct TYPE_2__ | sleep int * | set_voltage int * 
-function prevent_sleep void | ops struct dvb_frontend_ops *

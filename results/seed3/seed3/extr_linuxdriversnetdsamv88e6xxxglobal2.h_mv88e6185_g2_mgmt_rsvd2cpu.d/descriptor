@@ -1,0 +1,2 @@
+struct mv88e6xxx_chip | dummy int 
+function mv88e6185_g2_mgmt_rsvd2cpu int | chip struct mv88e6xxx_chip *

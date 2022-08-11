@@ -1,0 +1,2 @@
+struct cache_uri | hnext struct cache_uri * 
+function hlist_reverse struct cache_uri * | L struct cache_uri *

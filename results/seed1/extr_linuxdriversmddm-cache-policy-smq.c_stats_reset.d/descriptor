@@ -1,2 +1,0 @@
-struct stats | hits unsigned int | misses unsigned int 
-function stats_reset void | s struct stats *

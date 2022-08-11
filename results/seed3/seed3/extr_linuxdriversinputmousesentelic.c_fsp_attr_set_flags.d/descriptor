@@ -1,0 +1,3 @@
+struct psmouse | private struct fsp_data * 
+struct fsp_data | flags int 
+function fsp_attr_set_flags unsigned long | psmouse struct psmouse * | data void * | buf const char * | count unsigned long

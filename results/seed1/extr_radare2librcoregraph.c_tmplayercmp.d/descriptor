@@ -1,2 +1,0 @@
-struct tmplayer | layer long 
-function tmplayercmp int | a const void * | b const void *

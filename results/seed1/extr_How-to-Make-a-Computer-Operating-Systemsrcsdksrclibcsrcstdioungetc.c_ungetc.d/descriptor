@@ -1,2 +1,0 @@
-struct TYPE_3__ | has_ungotten int | unget_buffer unsigned char | flags int 
-function ungetc int | c int | stream struct TYPE_3__ *

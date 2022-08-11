@@ -1,0 +1,2 @@
+struct vas_window | dummy int 
+function poll_window_castout void | window struct vas_window *

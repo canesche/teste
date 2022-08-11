@@ -1,0 +1,3 @@
+struct ath10k_sdio | dummy int 
+struct ath10k | drv_priv long 
+function ath10k_sdio_priv struct ath10k_sdio * | ar struct ath10k *

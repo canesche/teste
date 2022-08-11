@@ -1,0 +1,2 @@
+struct TYPE_3__ | BrushAttr int | pBrushAttr int * 
+function PEN_vInit int | ppen struct TYPE_3__ *

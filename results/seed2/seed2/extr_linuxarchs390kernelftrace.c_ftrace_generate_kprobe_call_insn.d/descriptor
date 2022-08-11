@@ -1,0 +1,2 @@
+struct ftrace_insn | dummy int 
+function ftrace_generate_kprobe_call_insn void | insn struct ftrace_insn *

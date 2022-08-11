@@ -1,2 +1,0 @@
-struct il_priv | handlers int * 
-function il_setup_rx_scan_handlers void | il struct il_priv *

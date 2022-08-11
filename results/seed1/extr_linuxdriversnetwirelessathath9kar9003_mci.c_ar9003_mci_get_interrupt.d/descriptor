@@ -1,4 +1,0 @@
-struct ath9k_hw_mci | rx_msg_intr long | raw_intr long 
-struct TYPE_2__ | mci struct ath9k_hw_mci 
-struct ath_hw | btcoex_hw struct TYPE_2__ 
-function ar9003_mci_get_interrupt void | ah struct ath_hw * | raw_intr long * | rx_msg_intr long *

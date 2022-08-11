@@ -1,0 +1,3 @@
+struct ramfuc_reg | force int 
+struct ramfuc | dummy int 
+function ramfuc_nuke void | ram struct ramfuc * | reg struct ramfuc_reg *

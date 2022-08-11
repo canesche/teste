@@ -1,0 +1,2 @@
+struct d3dx_pass | dummy int 
+function get_pass_handle int | pass struct d3dx_pass *

@@ -1,0 +1,3 @@
+struct list_lru_node | nr_items unsigned long 
+struct list_lru | node struct list_lru_node * 
+function list_lru_count_node unsigned long | lru struct list_lru * | nid int

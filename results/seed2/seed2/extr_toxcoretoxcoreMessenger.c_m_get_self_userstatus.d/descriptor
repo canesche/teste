@@ -1,0 +1,2 @@
+struct TYPE_3__ | userstatus int 
+function m_get_self_userstatus int | m const struct TYPE_3__ *

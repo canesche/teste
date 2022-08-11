@@ -1,0 +1,2 @@
+struct TYPE_3__ | num_blocks int | use_frame_exp_strategy int | fbw_channels int | exp_strategy int ** | frame_exp_strategy int * | cpl_on int 
+function ff_eac3_get_frame_exp_strategy void | s struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct gb_spilib | op_timeout long | last_xfer_size long | tx_xfer_offset long | rx_xfer_offset long | last_xfer int * | first_xfer int * 
+function clean_xfer_state void | spi struct gb_spilib *

@@ -1,0 +1,2 @@
+struct comedi_device | dummy int 
+function db2k_adc_stop_dma_transfer void | dev struct comedi_device *

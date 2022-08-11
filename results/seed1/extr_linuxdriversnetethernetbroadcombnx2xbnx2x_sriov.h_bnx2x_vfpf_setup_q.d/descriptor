@@ -1,3 +1,0 @@
-struct bnx2x_fastpath | dummy int 
-struct bnx2x | dummy int 
-function bnx2x_vfpf_setup_q int | bp struct bnx2x * | fp struct bnx2x_fastpath * | is_leading int

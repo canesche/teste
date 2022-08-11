@@ -1,3 +1,0 @@
-struct qede_dev | rss_caps int 
-struct ethtool_rxnfc | data int | flow_type int 
-function qede_get_rss_flags int | edev struct qede_dev * | info struct ethtool_rxnfc *

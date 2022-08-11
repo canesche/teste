@@ -1,0 +1,2 @@
+struct sdhci_host | dummy int 
+function esdhc_readb_fixup int | host struct sdhci_host * | spec_reg int | value int

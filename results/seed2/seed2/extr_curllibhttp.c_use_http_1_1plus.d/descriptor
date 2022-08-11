@@ -1,0 +1,5 @@
+struct connectdata | httpversion int 
+struct TYPE_4__ | httpversion long 
+struct TYPE_3__ | httpversion int 
+struct Curl_easy | set struct TYPE_4__ | state struct TYPE_3__ 
+function use_http_1_1plus int | data const struct Curl_easy * | conn const struct connectdata *

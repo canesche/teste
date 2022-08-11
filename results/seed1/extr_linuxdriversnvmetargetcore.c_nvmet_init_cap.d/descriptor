@@ -1,2 +1,0 @@
-struct nvmet_ctrl | cap unsigned long long 
-function nvmet_init_cap void | ctrl struct nvmet_ctrl *

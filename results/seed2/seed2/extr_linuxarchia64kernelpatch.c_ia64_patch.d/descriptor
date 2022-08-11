@@ -1,0 +1,1 @@
+function ia64_patch void | insn_addr int | mask int | val int

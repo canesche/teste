@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetapmxgenexgene_enet_hw.c_xgene_enet_parse_error.d/extr_linuxdriversnetethernetapmxgenexgene_enet_hw.c_xgene_enet_parse_error_O0::xgene_enet_parse_error(70)"
+  }
+]

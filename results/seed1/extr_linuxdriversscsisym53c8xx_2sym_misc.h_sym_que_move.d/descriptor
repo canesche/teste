@@ -1,2 +1,0 @@
-struct sym_quehead | blink struct sym_quehead * | flink struct sym_quehead * 
-function sym_que_move void | orig struct sym_quehead * | dest struct sym_quehead *

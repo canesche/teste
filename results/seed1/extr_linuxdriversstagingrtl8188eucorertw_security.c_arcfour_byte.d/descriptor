@@ -1,2 +1,0 @@
-struct arc4context | state unsigned long * | x int | y unsigned long 
-function arcfour_byte unsigned long | parc4ctx struct arc4context *

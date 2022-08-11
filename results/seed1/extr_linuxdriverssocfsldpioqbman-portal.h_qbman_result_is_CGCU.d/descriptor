@@ -1,3 +1,0 @@
-struct TYPE_2__ | verb int 
-struct dpaa2_dq | dq struct TYPE_2__ 
-function qbman_result_is_CGCU int | dq const struct dpaa2_dq *

@@ -1,3 +1,0 @@
-struct vm_area_struct | vm_private_data long 
-struct TYPE_2__ | vma_use_count int * 
-function meye_vm_close void | vma struct vm_area_struct *

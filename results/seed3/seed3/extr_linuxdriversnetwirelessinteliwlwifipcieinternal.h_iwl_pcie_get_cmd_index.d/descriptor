@@ -1,0 +1,2 @@
+struct iwl_txq | n_window int 
+function iwl_pcie_get_cmd_index int | q const struct iwl_txq * | index int

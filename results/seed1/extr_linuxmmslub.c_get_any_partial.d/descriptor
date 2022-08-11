@@ -1,3 +1,0 @@
-struct kmem_cache_cpu | dummy int 
-struct kmem_cache | dummy int 
-function get_any_partial void * | s struct kmem_cache * | flags int | c struct kmem_cache_cpu *

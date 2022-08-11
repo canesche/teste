@@ -1,0 +1,3 @@
+struct pci_dev | vendor long | device long | revision long 
+struct cas | cas_flags int | pdev struct pci_dev * 
+function cas_check_pci_invariants void | cp struct cas *

@@ -1,3 +1,0 @@
-struct nvdimm_bus_descriptor | dummy int 
-struct nvdimm_bus | nd_desc struct nvdimm_bus_descriptor * 
-function to_nd_desc struct nvdimm_bus_descriptor * | nvdimm_bus struct nvdimm_bus *

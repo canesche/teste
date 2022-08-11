@@ -1,0 +1,5 @@
+struct TYPE_6__ | port_suspend_change int 
+struct TYPE_7__ | b struct TYPE_6__ 
+struct TYPE_8__ | flags struct TYPE_7__ | core_if struct TYPE_5__ * 
+struct TYPE_5__ | lx_state long 
+function dwc_otg_hcd_rem_wakeup_cb int | p void *

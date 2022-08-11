@@ -1,0 +1,2 @@
+struct wakelock | dummy int 
+function wakelocks_lru_most_recent void | wl struct wakelock *

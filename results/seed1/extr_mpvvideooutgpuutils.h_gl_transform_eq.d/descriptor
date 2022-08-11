@@ -1,2 +1,0 @@
-struct gl_transform | m long ** | t long * 
-function gl_transform_eq int | a struct gl_transform | b struct gl_transform

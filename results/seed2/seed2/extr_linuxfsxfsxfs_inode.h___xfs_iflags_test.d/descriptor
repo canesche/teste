@@ -1,0 +1,2 @@
+struct TYPE_3__ | i_flags unsigned short 
+function __xfs_iflags_test int | ip struct TYPE_3__ * | flags unsigned short

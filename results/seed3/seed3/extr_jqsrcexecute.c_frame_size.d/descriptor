@@ -1,0 +1,4 @@
+struct frame_entry | dummy int 
+struct frame | dummy int 
+struct bytecode | nclosures int | nlocals int 
+function frame_size int | bc struct bytecode *

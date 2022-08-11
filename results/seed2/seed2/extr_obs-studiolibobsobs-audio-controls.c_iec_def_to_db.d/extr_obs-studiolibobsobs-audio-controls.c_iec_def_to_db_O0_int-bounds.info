@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_obs-studiolibobsobs-audio-controls.c_iec_def_to_db.d/extr_obs-studiolibobsobs-audio-controls.c_iec_def_to_db_O0::iec_def_to_db(59)"
+  }
+]

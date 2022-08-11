@@ -1,1 +1,0 @@
-function arch_memremap_wb void * | phys_addr long | size unsigned long

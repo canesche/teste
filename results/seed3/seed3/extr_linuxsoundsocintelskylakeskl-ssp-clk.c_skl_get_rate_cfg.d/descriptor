@@ -1,0 +1,2 @@
+struct skl_clk_rate_cfg_table | rate unsigned long 
+function skl_get_rate_cfg struct skl_clk_rate_cfg_table * | rcfg struct skl_clk_rate_cfg_table * | rate unsigned long

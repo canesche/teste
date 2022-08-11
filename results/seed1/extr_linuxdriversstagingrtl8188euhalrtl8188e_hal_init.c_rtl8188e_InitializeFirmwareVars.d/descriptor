@@ -1,4 +1,0 @@
-struct TYPE_3__ | bFwCurrentInPSMode int 
-struct adapter | HalData struct TYPE_4__ * | pwrctrlpriv struct TYPE_3__ 
-struct TYPE_4__ | LastHMEBoxNum long 
-function rtl8188e_InitializeFirmwareVars void | padapter struct adapter *

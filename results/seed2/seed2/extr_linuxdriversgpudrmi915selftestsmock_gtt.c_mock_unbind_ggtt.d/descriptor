@@ -1,0 +1,2 @@
+struct i915_vma | dummy int 
+function mock_unbind_ggtt void | vma struct i915_vma *

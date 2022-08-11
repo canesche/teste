@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmdrm_dp_mst_topology.c_drm_dp_encode_sideband_reply.d/extr_linuxdriversgpudrmdrm_dp_mst_topology.c_drm_dp_encode_sideband_reply_O0::drm_dp_encode_sideband_reply(64)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | cbSize int 
+function NextItem int | lpList struct TYPE_3__ *

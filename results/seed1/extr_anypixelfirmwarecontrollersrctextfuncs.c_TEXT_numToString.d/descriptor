@@ -1,1 +1,0 @@
-function TEXT_numToString int | buf int * | value int | bufSize int | minLen int | padChar int | padBeforeSign int

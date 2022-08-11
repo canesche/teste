@@ -1,0 +1,6 @@
+struct parport_uss720_private | reg int * 
+struct TYPE_3__ | ecr int | ctr int 
+struct TYPE_4__ | pc struct TYPE_3__ 
+struct parport_state | u struct TYPE_4__ 
+struct parport | private_data struct parport_uss720_private * 
+function parport_uss720_save_state void | pp struct parport * | s struct parport_state *

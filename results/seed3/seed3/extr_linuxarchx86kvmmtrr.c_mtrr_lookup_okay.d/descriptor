@@ -1,0 +1,4 @@
+struct mtrr_iter | mem_type int | index unsigned long | range struct TYPE_4__ * | mtrr_state struct TYPE_3__ * | fixed long 
+struct TYPE_4__ | base int 
+struct TYPE_3__ | fixed_ranges int * 
+function mtrr_lookup_okay int | iter struct mtrr_iter *

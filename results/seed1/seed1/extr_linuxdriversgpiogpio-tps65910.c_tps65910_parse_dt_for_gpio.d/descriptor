@@ -1,0 +1,4 @@
+struct tps65910_board | dummy int 
+struct tps65910 | dummy int 
+struct device | dummy int 
+function tps65910_parse_dt_for_gpio struct tps65910_board * | dev struct device * | tps65910 struct tps65910 * | chip_ngpio int

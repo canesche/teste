@@ -1,3 +1,0 @@
-struct shdma_desc | dummy int 
-struct sh_dmae_desc | shdma_desc struct shdma_desc 
-function sh_dmae_embedded_desc struct shdma_desc * | buf void * | i int

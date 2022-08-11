@@ -1,0 +1,2 @@
+struct TYPE_3__ | L int | base int | p int * | num int | pos int 
+function primegen_init void | pg struct TYPE_3__ *

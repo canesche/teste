@@ -1,0 +1,5 @@
+struct nv_adma_port_priv | flags int 
+struct TYPE_4__ | flags int | protocol long 
+struct ata_queued_cmd | flags int | tf struct TYPE_4__ | ap struct TYPE_3__ * 
+struct TYPE_3__ | private_data struct nv_adma_port_priv * 
+function nv_adma_use_reg_mode int | qc struct ata_queued_cmd *

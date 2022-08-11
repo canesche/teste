@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversrtcrtc-ds1343.c_ds1343_ioctl.d/extr_linuxdriversrtcrtc-ds1343.c_ds1343_ioctl_O0::ds1343_ioctl(62)"
+  }
+]

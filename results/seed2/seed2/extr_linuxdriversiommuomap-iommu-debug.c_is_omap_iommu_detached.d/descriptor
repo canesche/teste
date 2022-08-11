@@ -1,0 +1,2 @@
+struct omap_iommu | domain int 
+function is_omap_iommu_detached int | obj struct omap_iommu *

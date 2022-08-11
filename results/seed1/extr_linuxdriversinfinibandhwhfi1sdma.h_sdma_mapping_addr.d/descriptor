@@ -1,2 +1,0 @@
-struct sdma_desc | qw int * 
-function sdma_mapping_addr int | d struct sdma_desc *

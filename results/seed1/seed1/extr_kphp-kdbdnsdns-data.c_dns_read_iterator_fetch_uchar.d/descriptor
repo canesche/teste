@@ -1,0 +1,2 @@
+struct TYPE_3__ | avail_in int | rptr unsigned char * 
+function dns_read_iterator_fetch_uchar int | B struct TYPE_3__ * | res unsigned char *

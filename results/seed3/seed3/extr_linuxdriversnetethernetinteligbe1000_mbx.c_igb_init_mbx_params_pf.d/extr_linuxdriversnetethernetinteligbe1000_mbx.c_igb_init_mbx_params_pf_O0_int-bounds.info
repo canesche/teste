@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetethernetinteligbe1000_mbx.c_igb_init_mbx_params_pf.d/extr_linuxdriversnetethernetinteligbe1000_mbx.c_igb_init_mbx_params_pf_O0::igb_init_mbx_params_pf(76)"
+  }
+]

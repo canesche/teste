@@ -1,2 +1,0 @@
-struct v4l2_pix_format | pixelformat long | width int | height int | colorspace int | quantization int | ycbcr_enc int | xfer_func int 
-function coda_set_default_colorspace void | fmt struct v4l2_pix_format *

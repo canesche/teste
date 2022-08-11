@@ -1,0 +1,3 @@
+struct screen_write_ctx | s struct screen * 
+struct screen | mode int 
+function screen_write_mode_clear void | ctx struct screen_write_ctx * | mode int

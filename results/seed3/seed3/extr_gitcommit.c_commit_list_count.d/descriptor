@@ -1,0 +1,2 @@
+struct commit_list | next struct commit_list * 
+function commit_list_count unsigned int | l const struct commit_list *

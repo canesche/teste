@@ -1,1 +1,0 @@
-function mminit_validate_memmodel_limits void | start_pfn unsigned long * | end_pfn unsigned long *

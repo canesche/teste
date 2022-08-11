@@ -1,3 +1,0 @@
-struct video_buffer | dummy int 
-struct decoder | video_buffer struct video_buffer * 
-function decoder_init void | decoder struct decoder * | vb struct video_buffer *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxsoundsocstmstm32_sai_sub.c_stm32_sai_sub_readable_reg.d/extr_linuxsoundsocstmstm32_sai_sub.c_stm32_sai_sub_readable_reg_O0::stm32_sai_sub_readable_reg(71)"
+  }
+]

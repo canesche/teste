@@ -1,2 +1,0 @@
-struct net2272 | dummy int 
-function net2272_start_dma void | dev struct net2272 *

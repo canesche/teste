@@ -1,0 +1,4 @@
+struct apei_exec_ins_type | dummy int 
+struct apei_exec_context | entries void * | action_table struct acpi_whea_header * | instructions void * | ins_table struct apei_exec_ins_type * 
+struct acpi_whea_header | dummy int 
+function apei_exec_ctx_init void | ctx struct apei_exec_context * | ins_table struct apei_exec_ins_type * | instructions void * | action_table struct acpi_whea_header * | entries void *

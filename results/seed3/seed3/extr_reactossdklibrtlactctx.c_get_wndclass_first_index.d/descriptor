@@ -1,0 +1,4 @@
+struct string_index | dummy int 
+struct TYPE_5__ | wndclass_section struct TYPE_4__ * 
+struct TYPE_4__ | index_offset int 
+function get_wndclass_first_index struct string_index * | actctx struct TYPE_5__ *

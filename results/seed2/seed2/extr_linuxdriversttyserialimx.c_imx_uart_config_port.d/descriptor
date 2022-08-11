@@ -1,0 +1,4 @@
+struct uart_port | dummy int 
+struct TYPE_2__ | type int 
+struct imx_port | port struct TYPE_2__ 
+function imx_uart_config_port void | port struct uart_port * | flags int

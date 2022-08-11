@@ -1,0 +1,2 @@
+struct TYPE_3__ | length int 
+function ASN1_STRING_length int | x const struct TYPE_3__ *

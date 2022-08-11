@@ -1,4 +1,0 @@
-struct iommu_dev_data | dummy int 
-struct TYPE_2__ | iommu struct iommu_dev_data * 
-struct device | archdata struct TYPE_2__ 
-function get_dev_data struct iommu_dev_data * | dev struct device *

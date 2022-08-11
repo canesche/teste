@@ -1,0 +1,2 @@
+struct hnae3_handle | dummy int 
+function hns3_dcbnl_setup void | handle struct hnae3_handle *

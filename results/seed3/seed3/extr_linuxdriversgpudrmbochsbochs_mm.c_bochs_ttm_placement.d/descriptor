@@ -1,0 +1,4 @@
+struct TYPE_4__ | num_placement unsigned int | num_busy_placement unsigned int | busy_placement struct TYPE_3__ * | placement struct TYPE_3__ * 
+struct bochs_bo | placement struct TYPE_4__ | placements struct TYPE_3__ * 
+struct TYPE_3__ | flags int | lpfn long | fpfn long 
+function bochs_ttm_placement void | bo struct bochs_bo * | domain int

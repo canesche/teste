@@ -1,3 +1,0 @@
-struct TYPE_2__ | spu_chnldata_RW int * 
-struct spu_context | csa struct TYPE_2__ 
-function spu_backing_signal1_read int | ctx struct spu_context *

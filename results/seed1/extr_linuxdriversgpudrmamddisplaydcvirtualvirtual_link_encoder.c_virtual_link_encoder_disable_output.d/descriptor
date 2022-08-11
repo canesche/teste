@@ -1,2 +1,0 @@
-struct link_encoder | dummy int 
-function virtual_link_encoder_disable_output void | link_enc struct link_encoder * | signal enum signal_type

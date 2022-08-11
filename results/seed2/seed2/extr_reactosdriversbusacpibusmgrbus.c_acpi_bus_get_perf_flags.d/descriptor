@@ -1,0 +1,3 @@
+struct TYPE_2__ | state int 
+struct acpi_device | performance struct TYPE_2__ 
+function acpi_bus_get_perf_flags int | device struct acpi_device *

@@ -1,0 +1,2 @@
+struct smb2_transform_hdr | ProtocolId long 
+function smb3_is_transform_hdr int | buf void *

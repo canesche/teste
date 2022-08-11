@@ -1,0 +1,3 @@
+struct gs_vb_data | dummy int 
+struct TYPE_3__ | data struct gs_vb_data * 
+function gs_vertexbuffer_get_data struct gs_vb_data * | vb const struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | line_attrs int * 
+function linebuf_mark_line_dirty void | self struct TYPE_3__ * | y unsigned long

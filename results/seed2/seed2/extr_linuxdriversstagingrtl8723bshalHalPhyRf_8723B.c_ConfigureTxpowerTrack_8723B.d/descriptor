@@ -1,0 +1,2 @@
+struct TYPE_3__ | GetDeltaSwingTable int | PHY_LCCalibrate int | DoIQK int | ODM_TxPwrTrackSetPwr int | ThermalRegAddr int | RfPathCount int | AverageThermalNum int | Threshold_IQK int | SwingTableSize_OFDM int | SwingTableSize_CCK int 
+function ConfigureTxpowerTrack_8723B void | pConfig struct TYPE_3__ *

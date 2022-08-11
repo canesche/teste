@@ -1,0 +1,2 @@
+struct mp_chmap_sel | allow_waveext int 
+function mp_chmap_sel_add_waveext void | s struct mp_chmap_sel *

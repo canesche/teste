@@ -1,0 +1,2 @@
+struct nvkm_pll_vals | M1 int | M2 int | N1 int | N2 int | refclk int | log2P int 
+function nouveau_hw_pllvals_to_clk int | pv struct nvkm_pll_vals *

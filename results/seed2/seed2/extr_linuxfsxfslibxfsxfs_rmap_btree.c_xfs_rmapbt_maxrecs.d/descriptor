@@ -1,0 +1,3 @@
+struct xfs_rmap_rec | dummy int 
+struct xfs_rmap_key | dummy int 
+function xfs_rmapbt_maxrecs int | blocklen int | leaf int

@@ -1,0 +1,3 @@
+struct TYPE_2__ | config1 int 
+struct perf_event | attr struct TYPE_2__ 
+function armv8pmu_event_is_64bit int | event struct perf_event *

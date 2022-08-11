@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxnetipv4inetpeer.c_inet_peer_xrlim_allow.d/extr_linuxnetipv4inetpeer.c_inet_peer_xrlim_allow_O0::inet_peer_xrlim_allow(63)"
+  }
+]

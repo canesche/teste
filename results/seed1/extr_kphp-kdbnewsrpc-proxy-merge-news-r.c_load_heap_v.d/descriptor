@@ -1,3 +1,0 @@
-struct TYPE_4__ | type int | owner int | place int 
-struct TYPE_5__ | cur int * | id struct TYPE_4__ 
-function load_heap_v void | H struct TYPE_5__ *

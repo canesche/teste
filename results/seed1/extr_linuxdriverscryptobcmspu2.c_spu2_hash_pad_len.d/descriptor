@@ -1,1 +1,0 @@
-function spu2_hash_pad_len int | hash_alg enum hash_alg | hash_mode enum hash_mode | chunksize int | hash_block_size int

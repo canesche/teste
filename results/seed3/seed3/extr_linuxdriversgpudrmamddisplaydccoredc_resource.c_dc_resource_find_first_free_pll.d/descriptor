@@ -1,0 +1,4 @@
+struct resource_pool | clk_src_count int | clock_sources struct clock_source ** 
+struct resource_context | clock_source_ref_count long * 
+struct clock_source | dummy int 
+function dc_resource_find_first_free_pll struct clock_source * | res_ctx struct resource_context * | pool const struct resource_pool *

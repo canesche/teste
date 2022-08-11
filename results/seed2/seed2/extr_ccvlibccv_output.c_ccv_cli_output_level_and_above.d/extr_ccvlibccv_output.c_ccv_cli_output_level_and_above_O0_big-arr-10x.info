@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 603,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_ccvlibccv_output.c_ccv_cli_output_level_and_above.d/extr_ccvlibccv_output.c_ccv_cli_output_level_and_above_O0::ccv_cli_output_level_and_above(62)"
+  }
+]

@@ -1,0 +1,2 @@
+struct sk_buff | skb_iif int 
+function flow_get_iif int | skb const struct sk_buff *

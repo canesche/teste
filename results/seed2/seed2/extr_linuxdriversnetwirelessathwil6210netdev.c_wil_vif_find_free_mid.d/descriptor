@@ -1,0 +1,2 @@
+struct wil6210_priv | max_vifs unsigned long | vifs int * 
+function wil_vif_find_free_mid unsigned long | wil struct wil6210_priv *

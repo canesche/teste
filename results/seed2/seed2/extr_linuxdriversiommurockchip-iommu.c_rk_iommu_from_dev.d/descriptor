@@ -1,0 +1,5 @@
+struct rk_iommudata | iommu struct rk_iommu * 
+struct rk_iommu | dummy int 
+struct TYPE_2__ | iommu struct rk_iommudata * 
+struct device | archdata struct TYPE_2__ 
+function rk_iommu_from_dev struct rk_iommu * | dev struct device *

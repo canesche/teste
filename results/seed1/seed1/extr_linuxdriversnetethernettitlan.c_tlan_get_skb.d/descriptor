@@ -1,0 +1,4 @@
+struct tlan_list | buffer struct TYPE_2__ * 
+struct sk_buff | dummy int 
+struct TYPE_2__ | address unsigned long 
+function tlan_get_skb struct sk_buff * | tag const struct tlan_list *

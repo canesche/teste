@@ -1,2 +1,0 @@
-struct TYPE_3__ | mnt_flag int 
-function vfs_isrdonly int | mp struct TYPE_3__ *

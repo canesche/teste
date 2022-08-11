@@ -1,0 +1,4 @@
+struct TYPE_5__ | lockedPointer int * 
+struct TYPE_6__ | pointerLock struct TYPE_5__ 
+struct TYPE_7__ | wl struct TYPE_6__ 
+function isPointerLocked int | window struct TYPE_7__ *

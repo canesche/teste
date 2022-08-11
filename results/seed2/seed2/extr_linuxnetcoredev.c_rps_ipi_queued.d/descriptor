@@ -1,0 +1,2 @@
+struct softnet_data | dummy int 
+function rps_ipi_queued int | sd struct softnet_data *

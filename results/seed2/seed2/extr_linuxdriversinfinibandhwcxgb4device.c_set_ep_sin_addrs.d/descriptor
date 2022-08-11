@@ -1,0 +1,5 @@
+struct sockaddr_in | dummy int 
+struct iw_cm_id | remote_addr int | local_addr int 
+struct TYPE_2__ | remote_addr int | local_addr int | cm_id struct iw_cm_id * 
+struct c4iw_ep | com struct TYPE_2__ 
+function set_ep_sin_addrs void | ep struct c4iw_ep * | lsin struct sockaddr_in ** | rsin struct sockaddr_in ** | m_lsin struct sockaddr_in ** | m_rsin struct sockaddr_in **

@@ -1,0 +1,1 @@
+function encode_base85_guid int | guid int * | str long *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | Type long | LdpcThres int | bUseLdpc int | HighRSSIThresh int | LowRSSIThresh int | RATRState int 
+struct TYPE_5__ | bUseRAMask int | RateAdaptive struct TYPE_4__ 
+function odm_RateAdaptiveMaskInit void | pDM_Odm struct TYPE_5__ *

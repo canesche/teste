@@ -1,0 +1,2 @@
+struct ath_common | dummy int 
+function _ath_dbg void | common struct ath_common * | dbg_mask enum ATH_DEBUG | fmt const char *

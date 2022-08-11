@@ -1,0 +1,3 @@
+struct cpumask | dummy int 
+struct TYPE_2__ | core_mask const struct cpumask 
+function cpu_coregroup_mask const struct cpumask * | cpu int

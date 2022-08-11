@@ -1,0 +1,2 @@
+struct rxe_bth | flags int 
+function __bth_se int | arg void *

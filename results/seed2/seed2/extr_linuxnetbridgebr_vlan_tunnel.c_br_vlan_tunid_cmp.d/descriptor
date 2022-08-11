@@ -1,0 +1,4 @@
+struct rhashtable_compare_arg | key long 
+struct TYPE_2__ | tunnel_id long 
+struct net_bridge_vlan | tinfo struct TYPE_2__ 
+function br_vlan_tunid_cmp int | arg struct rhashtable_compare_arg * | ptr const void *

@@ -1,0 +1,3 @@
+struct hid_device | maxcollection int | collection struct hid_collection * 
+struct hid_collection | type long 
+function sensor_hub_get_physical_device_count int | hdev struct hid_device *

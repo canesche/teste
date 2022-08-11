@@ -1,0 +1,4 @@
+struct TYPE_8__ | cHandleEntries int 
+struct TYPE_7__ | pi int * | flags long | type long | ptr struct TYPE_7__ * 
+struct TYPE_6__ | freelist struct TYPE_7__ * 
+function free_user_entry void * | ht struct TYPE_6__ * | entry struct TYPE_7__ *

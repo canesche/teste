@@ -1,0 +1,2 @@
+struct ata_xfer_ent | shift long | base unsigned long | bits unsigned long 
+function ata_xfer_mode2shift int | xfer_mode unsigned long

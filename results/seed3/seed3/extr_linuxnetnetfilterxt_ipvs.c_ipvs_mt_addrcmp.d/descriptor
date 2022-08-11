@@ -1,0 +1,2 @@
+struct nf_inet_addr | ip int 
+function ipvs_mt_addrcmp int | kaddr const union nf_inet_addr * | uaddr const union nf_inet_addr * | umask const union nf_inet_addr * | l3proto unsigned int

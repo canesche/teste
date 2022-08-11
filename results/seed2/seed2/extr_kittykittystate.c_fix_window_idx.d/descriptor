@@ -1,0 +1,3 @@
+struct TYPE_5__ | num_windows unsigned long | windows struct TYPE_4__ * 
+struct TYPE_4__ | id unsigned long 
+function fix_window_idx int | tab struct TYPE_5__ * | window_id unsigned long | window_idx unsigned int *

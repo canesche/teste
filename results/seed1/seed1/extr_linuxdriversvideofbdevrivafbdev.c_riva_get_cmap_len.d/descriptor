@@ -1,0 +1,3 @@
+struct TYPE_2__ | length int 
+struct fb_var_screeninfo | green struct TYPE_2__ 
+function riva_get_cmap_len int | var const struct fb_var_screeninfo *

@@ -1,0 +1,2 @@
+struct host_to_dev_fis | command int | features int 
+function hisi_sas_get_ata_protocol int | fis struct host_to_dev_fis * | direction int

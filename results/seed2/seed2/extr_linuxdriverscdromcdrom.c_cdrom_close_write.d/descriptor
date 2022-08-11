@@ -1,0 +1,2 @@
+struct cdrom_device_info | dummy int 
+function cdrom_close_write int | cdi struct cdrom_device_info *

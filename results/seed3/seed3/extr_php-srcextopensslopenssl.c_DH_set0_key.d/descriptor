@@ -1,0 +1,2 @@
+struct TYPE_3__ | priv_key int * | pub_key int * 
+function DH_set0_key int | dh struct TYPE_3__ * | pub_key int * | priv_key int *

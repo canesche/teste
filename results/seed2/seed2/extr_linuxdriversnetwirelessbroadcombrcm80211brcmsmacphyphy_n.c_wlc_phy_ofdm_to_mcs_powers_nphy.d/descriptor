@@ -1,0 +1,1 @@
+function wlc_phy_ofdm_to_mcs_powers_nphy void | power int * | rate_mcs_start int | rate_mcs_end int | rate_ofdm_start int

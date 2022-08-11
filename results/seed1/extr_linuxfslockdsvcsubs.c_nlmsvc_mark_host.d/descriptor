@@ -1,2 +1,0 @@
-struct nlm_host | h_inuse int | net int * 
-function nlmsvc_mark_host int | data void * | hint struct nlm_host *

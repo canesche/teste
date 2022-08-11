@@ -1,0 +1,3 @@
+struct integrity_iint_cache | dummy int 
+struct file | dummy int 
+function ima_update_xattr void | iint struct integrity_iint_cache * | file struct file *

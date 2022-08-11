@@ -1,0 +1,2 @@
+struct rc_dec | in_pos long | in_limit long 
+function rc_limit_exceeded int | rc const struct rc_dec *

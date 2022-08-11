@@ -1,2 +1,0 @@
-struct hwtstamp_config | rx_filter long 
-function mlx5e_rx_hw_stamp int | config struct hwtstamp_config *

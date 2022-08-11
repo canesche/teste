@@ -1,0 +1,3 @@
+struct TYPE_5__ | ch_flow_control int * 
+struct TYPE_4__ | adapter struct TYPE_5__ * 
+function channel_request_xon void | plci struct TYPE_4__ * | ch unsigned long

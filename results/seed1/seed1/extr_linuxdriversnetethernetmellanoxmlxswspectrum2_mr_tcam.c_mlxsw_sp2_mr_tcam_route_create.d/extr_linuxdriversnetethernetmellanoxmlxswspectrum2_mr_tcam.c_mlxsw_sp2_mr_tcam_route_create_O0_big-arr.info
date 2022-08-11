@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetmellanoxmlxswspectrum2_mr_tcam.c_mlxsw_sp2_mr_tcam_route_create.d/extr_linuxdriversnetethernetmellanoxmlxswspectrum2_mr_tcam.c_mlxsw_sp2_mr_tcam_route_create_O0::mlxsw_sp2_mr_tcam_route_create(69)"
+  }
+]

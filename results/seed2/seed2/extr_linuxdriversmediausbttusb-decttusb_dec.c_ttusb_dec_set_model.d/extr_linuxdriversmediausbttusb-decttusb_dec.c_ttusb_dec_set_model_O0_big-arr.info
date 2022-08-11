@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediausbttusb-decttusb_dec.c_ttusb_dec_set_model.d/extr_linuxdriversmediausbttusb-decttusb_dec.c_ttusb_dec_set_model_O0::ttusb_dec_set_model(66)"
+  }
+]

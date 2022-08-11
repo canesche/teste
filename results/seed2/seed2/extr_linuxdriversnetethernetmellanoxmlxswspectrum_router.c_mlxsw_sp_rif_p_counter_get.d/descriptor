@@ -1,0 +1,2 @@
+struct mlxsw_sp_rif | counter_egress unsigned int | counter_ingress unsigned int 
+function mlxsw_sp_rif_p_counter_get unsigned int * | rif struct mlxsw_sp_rif * | dir enum mlxsw_sp_rif_counter_dir

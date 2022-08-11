@@ -1,0 +1,2 @@
+struct uac_clock_source_descriptor | bLength int | bClockID int 
+function validate_clock_source_v2 int | p void * | id int

@@ -1,0 +1,4 @@
+struct wl_registry | dummy int 
+struct swaynag | run_display int | output struct TYPE_2__ * 
+struct TYPE_2__ | wl_name long 
+function handle_global_remove void | data void * | registry struct wl_registry * | name long

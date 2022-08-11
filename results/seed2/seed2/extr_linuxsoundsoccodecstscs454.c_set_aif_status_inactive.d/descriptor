@@ -1,0 +1,2 @@
+struct aifs_status | streams int 
+function set_aif_status_inactive void | status struct aifs_status * | aif_id int | playback int

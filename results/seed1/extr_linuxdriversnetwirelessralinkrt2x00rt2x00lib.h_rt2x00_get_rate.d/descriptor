@@ -1,2 +1,0 @@
-struct rt2x00_rate | dummy int 
-function rt2x00_get_rate const struct rt2x00_rate * | hw_value const int

@@ -1,0 +1,1 @@
+function memory_set void | dest int * | val int | len long

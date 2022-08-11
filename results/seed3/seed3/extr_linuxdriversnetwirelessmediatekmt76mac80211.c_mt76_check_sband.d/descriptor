@@ -1,0 +1,6 @@
+struct mt76_dev | hw struct TYPE_6__ * 
+struct ieee80211_supported_band | n_channels int | channels struct TYPE_4__ * 
+struct TYPE_6__ | wiphy struct TYPE_5__ * 
+struct TYPE_5__ | bands struct ieee80211_supported_band ** 
+struct TYPE_4__ | flags int 
+function mt76_check_sband void | dev struct mt76_dev * | band int

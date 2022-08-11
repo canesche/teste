@@ -1,0 +1,4 @@
+struct sge | fl_pg_order int 
+struct rx_sw_desc | dma_addr int 
+struct adapter | sge struct sge 
+function get_buf_size int | adapter const struct adapter * | sdesc const struct rx_sw_desc *

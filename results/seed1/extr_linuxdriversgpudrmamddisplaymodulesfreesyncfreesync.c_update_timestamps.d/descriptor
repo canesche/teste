@@ -1,9 +1,0 @@
-struct TYPE_10__ | btr_active int | program_btr int | frame_counter long 
-struct TYPE_9__ | fixed_active int | frame_counter long | program_fixed int 
-struct TYPE_6__ | render_times unsigned int * | render_times_index unsigned long | max_render_time_in_us unsigned int 
-struct freesync_state | btr struct TYPE_10__ | fixed_refresh struct TYPE_9__ | time struct TYPE_6__ 
-struct dc_stream_state | dummy int 
-struct core_freesync | map struct TYPE_8__ * 
-struct TYPE_8__ | caps struct TYPE_7__ * | state struct freesync_state 
-struct TYPE_7__ | btr_supported long 
-function update_timestamps void | core_freesync struct core_freesync * | stream const struct dc_stream_state * | map_index unsigned int | last_render_time_in_us unsigned int

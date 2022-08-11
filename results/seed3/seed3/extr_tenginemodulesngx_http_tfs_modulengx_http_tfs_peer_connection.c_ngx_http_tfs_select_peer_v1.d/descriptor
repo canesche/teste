@@ -1,0 +1,4 @@
+struct TYPE_5__ | code int 
+struct TYPE_6__ | action struct TYPE_5__ 
+struct TYPE_7__ | tfs_peer_servers int * | input_filter int * | process_request_body void * | create_request void * | retry_handler int * | state int | tfs_peer int * | r_ctx struct TYPE_6__ 
+function ngx_http_tfs_select_peer_v1 int * | t struct TYPE_7__ *

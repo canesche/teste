@@ -1,0 +1,3 @@
+struct TYPE_4__ | mcomp long * 
+struct TYPE_3__ | samplesPerLine long | samplesPerPixel long | xsize int | ysize int | normalBuffer0 long | half int 
+function RoQPrepMcomp void | xoff long | yoff long

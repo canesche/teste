@@ -1,2 +1,0 @@
-struct tm | tm_hour int | tm_sec long | tm_min long 
-function date_pm void | tm struct tm * | now struct tm * | num int *

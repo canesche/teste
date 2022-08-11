@@ -1,0 +1,2 @@
+struct TYPE_3__ | type int 
+function obs_data_item_gettype enum obs_data_type | item struct TYPE_3__ *

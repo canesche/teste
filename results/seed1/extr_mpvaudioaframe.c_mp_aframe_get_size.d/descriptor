@@ -1,3 +1,0 @@
-struct mp_aframe | av_frame struct TYPE_2__ * 
-struct TYPE_2__ | nb_samples int 
-function mp_aframe_get_size int | frame struct mp_aframe *

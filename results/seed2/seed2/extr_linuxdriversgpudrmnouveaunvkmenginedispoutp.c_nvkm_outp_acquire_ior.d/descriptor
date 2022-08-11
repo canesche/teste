@@ -1,0 +1,6 @@
+struct TYPE_5__ | link int 
+struct TYPE_6__ | sorconf struct TYPE_5__ 
+struct nvkm_outp | acquired int | info struct TYPE_6__ | ior struct nvkm_ior * 
+struct TYPE_4__ | link int | outp struct nvkm_outp * 
+struct nvkm_ior | asy struct TYPE_4__ 
+function nvkm_outp_acquire_ior int | outp struct nvkm_outp * | user int | ior struct nvkm_ior *

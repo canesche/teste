@@ -1,0 +1,2 @@
+struct request_queue | dummy int 
+function queue_rq_affinity_store int | q struct request_queue * | page const char * | count unsigned long

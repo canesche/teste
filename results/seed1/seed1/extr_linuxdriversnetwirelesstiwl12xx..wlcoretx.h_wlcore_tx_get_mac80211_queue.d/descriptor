@@ -1,0 +1,2 @@
+struct wl12xx_vif | hw_queue_base int 
+function wlcore_tx_get_mac80211_queue int | wlvif struct wl12xx_vif * | queue int

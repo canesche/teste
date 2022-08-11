@@ -1,0 +1,3 @@
+struct cpcap_battery_state_data | dummy int 
+struct cpcap_battery_ddata | state struct cpcap_battery_state_data * 
+function cpcap_battery_get_state struct cpcap_battery_state_data * | ddata struct cpcap_battery_ddata * | state enum cpcap_battery_state

@@ -1,0 +1,3 @@
+struct TYPE_5__ | num_tests long 
+struct TYPE_4__ | invalid int 
+function uncount_invalid void | glog struct TYPE_4__ *

@@ -1,0 +1,2 @@
+struct ustar_header | chksum long 
+function ustar_header_chksum unsigned int | header const struct ustar_header *

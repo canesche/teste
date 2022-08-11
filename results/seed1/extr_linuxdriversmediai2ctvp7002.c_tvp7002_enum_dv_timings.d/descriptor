@@ -1,4 +1,0 @@
-struct v4l2_subdev | dummy int 
-struct v4l2_enum_dv_timings | pad long | index unsigned long | timings int 
-struct TYPE_2__ | timings int 
-function tvp7002_enum_dv_timings int | sd struct v4l2_subdev * | timings struct v4l2_enum_dv_timings *

@@ -1,0 +1,3 @@
+struct tifm_dev | dummy int 
+struct tifm_adapter | dummy int 
+function tifm_7xx1_dummy_eject void | fm struct tifm_adapter * | sock struct tifm_dev *

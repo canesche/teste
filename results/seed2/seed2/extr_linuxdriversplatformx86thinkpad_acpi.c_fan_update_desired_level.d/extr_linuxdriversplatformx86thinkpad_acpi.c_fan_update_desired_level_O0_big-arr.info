@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversplatformx86thinkpad_acpi.c_fan_update_desired_level.d/extr_linuxdriversplatformx86thinkpad_acpi.c_fan_update_desired_level_O0::fan_update_desired_level(64)"
+  }
+]

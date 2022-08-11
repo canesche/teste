@@ -1,2 +1,0 @@
-struct usb_hcd | dummy int 
-function get_frame_number int | hcd struct usb_hcd *

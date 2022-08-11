@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversresetreset-pistachio.c_pistachio_reset_shift.d/extr_linuxdriversresetreset-pistachio.c_pistachio_reset_shift_O0::pistachio_reset_shift(86)"
+  }
+]

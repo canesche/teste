@@ -1,0 +1,3 @@
+struct gma_encoder | dev_priv struct cdv_intel_dp * 
+struct cdv_intel_dp | dpcd int * 
+function cdv_intel_dp_max_link_bw int | encoder struct gma_encoder *

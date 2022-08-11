@@ -1,0 +1,3 @@
+struct TYPE_4__ | flags int 
+struct TYPE_5__ | generic struct TYPE_4__ 
+function Text_Init void | t struct TYPE_5__ *

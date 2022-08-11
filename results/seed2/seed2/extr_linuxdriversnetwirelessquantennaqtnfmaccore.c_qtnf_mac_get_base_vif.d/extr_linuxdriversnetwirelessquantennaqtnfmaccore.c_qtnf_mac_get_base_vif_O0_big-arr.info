@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessquantennaqtnfmaccore.c_qtnf_mac_get_base_vif.d/extr_linuxdriversnetwirelessquantennaqtnfmaccore.c_qtnf_mac_get_base_vif_O0::qtnf_mac_get_base_vif(66)"
+  }
+]

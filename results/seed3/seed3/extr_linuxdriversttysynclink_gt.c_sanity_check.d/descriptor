@@ -1,0 +1,2 @@
+struct slgt_info | dummy int 
+function sanity_check int | info struct slgt_info * | devname char * | name const char *

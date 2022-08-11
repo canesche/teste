@@ -1,2 +1,0 @@
-struct array | size unsigned long | nalloc int | elem void * | nelem long 
-function array_set void | a struct array * | elem void * | size unsigned long | nalloc int

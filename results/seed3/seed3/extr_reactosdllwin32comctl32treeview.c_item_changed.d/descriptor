@@ -1,0 +1,3 @@
+struct TYPE_7__ | cChildren long | iImage long | iSelectedImage long | iExpandedImage long | pszText long | iIntegral long | state int 
+struct TYPE_6__ | mask int | stateMask int 
+function item_changed int | tiOld const struct TYPE_7__ * | tiNew const struct TYPE_7__ * | tvChange const struct TYPE_6__ *

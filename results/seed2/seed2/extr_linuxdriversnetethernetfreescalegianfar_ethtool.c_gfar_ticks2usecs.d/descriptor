@@ -1,0 +1,4 @@
+struct phy_device | speed int 
+struct net_device | phydev struct phy_device * 
+struct gfar_private | ndev struct net_device * 
+function gfar_ticks2usecs unsigned int | priv struct gfar_private * | ticks unsigned int

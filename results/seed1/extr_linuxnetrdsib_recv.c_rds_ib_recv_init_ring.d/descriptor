@@ -1,8 +1,0 @@
-struct TYPE_5__ | wr_id int | num_sge int | sg_list struct ib_sge * | next int * 
-struct rds_ib_recv_work | r_sge struct ib_sge * | r_wr struct TYPE_5__ | r_frag int * | r_ibinc int * 
-struct TYPE_4__ | w_nr int 
-struct rds_ib_connection | i_pd struct TYPE_6__ * | i_recv_hdrs_dma long | i_recv_ring struct TYPE_4__ | i_recvs struct rds_ib_recv_work * 
-struct rds_header | dummy int 
-struct ib_sge | length int | lkey int | addr long 
-struct TYPE_6__ | local_dma_lkey int 
-function rds_ib_recv_init_ring void | ic struct rds_ib_connection *

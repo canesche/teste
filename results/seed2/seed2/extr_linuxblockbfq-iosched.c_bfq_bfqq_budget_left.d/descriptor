@@ -1,0 +1,3 @@
+struct bfq_entity | budget int | service int 
+struct bfq_queue | entity struct bfq_entity 
+function bfq_bfqq_budget_left int | bfqq struct bfq_queue *

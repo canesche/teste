@@ -1,3 +1,0 @@
-struct qdio_irq | dsci int * 
-struct TYPE_2__ | ind int 
-function references_shared_dsci int | irq_ptr struct qdio_irq *

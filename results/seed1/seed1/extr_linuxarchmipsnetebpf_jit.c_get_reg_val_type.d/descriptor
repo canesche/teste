@@ -1,0 +1,2 @@
+struct jit_ctx | reg_val_types int * 
+function get_reg_val_type enum reg_val_type | ctx const struct jit_ctx * | index int | reg int

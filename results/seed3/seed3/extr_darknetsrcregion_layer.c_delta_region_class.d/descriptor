@@ -1,0 +1,2 @@
+struct TYPE_3__ | group int * | group_offset int * | group_size int * | parent int * 
+function delta_region_class void | output float * | delta float * | index int | class int | classes int | hier struct TYPE_3__ * | scale float | stride int | avg_cat float * | tag int

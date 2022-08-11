@@ -1,0 +1,1 @@
+function hfs_strcmp int | s1 const unsigned char * | len1 unsigned int | s2 const unsigned char * | len2 unsigned int

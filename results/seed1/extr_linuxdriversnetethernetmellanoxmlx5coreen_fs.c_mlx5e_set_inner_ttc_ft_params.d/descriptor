@@ -1,3 +1,0 @@
-struct mlx5_flow_table_attr | prio int | level int | max_fte int 
-struct ttc_params | ft_attr struct mlx5_flow_table_attr 
-function mlx5e_set_inner_ttc_ft_params void | ttc_params struct ttc_params *

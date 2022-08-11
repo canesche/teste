@@ -1,4 +1,0 @@
-struct TYPE_7__ | db struct TYPE_6__ * | disableLookaside int 
-struct TYPE_5__ | bDisable int 
-struct TYPE_6__ | lookaside struct TYPE_5__ 
-function disableLookaside void | pParse struct TYPE_7__ *

@@ -1,0 +1,1 @@
+function looks_ucs16 int | buf const int * | nbytes unsigned long | ubuf int * | ulen unsigned long *

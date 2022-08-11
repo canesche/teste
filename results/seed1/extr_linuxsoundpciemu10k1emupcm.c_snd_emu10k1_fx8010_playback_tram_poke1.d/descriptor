@@ -1,1 +1,0 @@
-function snd_emu10k1_fx8010_playback_tram_poke1 void | dst_left unsigned short * | dst_right unsigned short * | src unsigned short * | count unsigned int | tram_shift unsigned int

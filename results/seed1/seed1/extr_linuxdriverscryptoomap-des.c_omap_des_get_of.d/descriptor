@@ -1,0 +1,3 @@
+struct omap_des_dev | dummy int 
+struct device | dummy int 
+function omap_des_get_of int | dd struct omap_des_dev * | dev struct device *

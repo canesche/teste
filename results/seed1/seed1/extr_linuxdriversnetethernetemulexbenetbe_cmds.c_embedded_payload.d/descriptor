@@ -1,0 +1,3 @@
+struct TYPE_2__ | embedded_payload void * 
+struct be_mcc_wrb | payload struct TYPE_2__ 
+function embedded_payload void * | wrb struct be_mcc_wrb *

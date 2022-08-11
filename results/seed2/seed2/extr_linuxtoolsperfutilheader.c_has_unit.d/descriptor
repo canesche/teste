@@ -1,0 +1,2 @@
+struct perf_evsel | unit long * 
+function has_unit int | counter struct perf_evsel *

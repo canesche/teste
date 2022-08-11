@@ -1,0 +1,3 @@
+struct proxy_dev | state int 
+struct file | private_data struct proxy_dev * 
+function vtpm_proxy_fops_open void | filp struct file *

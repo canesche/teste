@@ -1,4 +1,0 @@
-struct net_device | dummy int 
-struct net | dummy int 
-struct in6_addr | dummy int 
-function dummy_ipv6_chk_addr int | net struct net * | addr const struct in6_addr * | dev const struct net_device * | strict int

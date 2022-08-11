@@ -1,2 +1,0 @@
-struct clk_hw | dummy int 
-function si5351_vxco_unprepare void | hw struct clk_hw *

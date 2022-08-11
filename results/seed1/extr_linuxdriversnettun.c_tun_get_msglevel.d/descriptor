@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function tun_get_msglevel int | dev struct net_device *

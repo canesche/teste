@@ -1,2 +1,0 @@
-struct pvrdma_page_dir | pages void ** 
-function pvrdma_page_dir_get_ptr void * | pdir struct pvrdma_page_dir * | offset unsigned long

@@ -1,0 +1,2 @@
+struct TYPE_3__ | candidates_bucket_size int 
+function hash_collide int | assoc const struct TYPE_3__ * | hash int

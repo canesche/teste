@@ -1,0 +1,2 @@
+struct rq | dummy int 
+function cpu_load_update_active void | this_rq struct rq *

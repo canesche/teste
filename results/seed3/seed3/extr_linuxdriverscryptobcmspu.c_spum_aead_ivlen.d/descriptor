@@ -1,0 +1,1 @@
+function spum_aead_ivlen int | cipher_mode enum spu_cipher_mode | iv_len int

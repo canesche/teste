@@ -1,0 +1,2 @@
+struct stv090x_tab | read int | real int 
+function stv090x_table_lookup int | tab const struct stv090x_tab * | max int | val int

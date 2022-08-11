@@ -1,2 +1,0 @@
-struct netdevsim | dummy int 
-function nsim_devlink_teardown void | ns struct netdevsim *

@@ -1,0 +1,4 @@
+struct omap_overlay_manager | id unsigned long 
+struct mgr_priv_data | dummy int 
+struct TYPE_2__ | mgr_priv_data_array struct mgr_priv_data * 
+function get_mgr_priv struct mgr_priv_data * | mgr struct omap_overlay_manager *

@@ -1,0 +1,4 @@
+struct TYPE_2__ | platform_data struct max8925_power_pdata * 
+struct platform_device | dev struct TYPE_2__ 
+struct max8925_power_pdata | dummy int 
+function max8925_power_dt_init struct max8925_power_pdata * | pdev struct platform_device *

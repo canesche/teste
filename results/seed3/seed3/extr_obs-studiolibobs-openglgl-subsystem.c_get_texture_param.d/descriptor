@@ -1,0 +1,5 @@
+struct gs_shader_param | type long | texture_id int 
+struct TYPE_4__ | num unsigned long | array struct gs_shader_param * 
+struct gs_shader | params struct TYPE_4__ 
+struct TYPE_5__ | cur_pixel_shader struct gs_shader * 
+function get_texture_param struct gs_shader_param * | device struct TYPE_5__ * | unit int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | ctrl int 
+function X509_LOOKUP_meth_get_ctrl int | method const struct TYPE_3__ *

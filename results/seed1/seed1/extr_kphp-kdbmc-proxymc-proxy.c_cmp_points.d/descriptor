@@ -1,0 +1,4 @@
+struct TYPE_8__ | x long | target struct TYPE_6__ * 
+struct TYPE_7__ | s_addr long 
+struct TYPE_6__ | port int | target struct TYPE_7__ 
+function cmp_points int | A struct TYPE_8__ * | B struct TYPE_8__ *

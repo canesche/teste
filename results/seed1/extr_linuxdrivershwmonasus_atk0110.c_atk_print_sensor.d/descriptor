@@ -1,3 +1,0 @@
-struct acpi_object | dummy int 
-struct atk_data | dummy int 
-function atk_print_sensor void | data struct atk_data * | obj union acpi_object *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | T3 int | T2 int | T1 int | near int 
+function ff_jpegls_quantize int | s struct TYPE_3__ * | v int

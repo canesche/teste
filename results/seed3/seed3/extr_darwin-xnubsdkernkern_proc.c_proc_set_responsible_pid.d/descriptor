@@ -1,0 +1,2 @@
+struct TYPE_3__ | p_responsible_pid int 
+function proc_set_responsible_pid void | target_proc struct TYPE_3__ * | responsible_pid int

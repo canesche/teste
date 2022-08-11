@@ -1,0 +1,2 @@
+struct input_ctx | param_len int | param_buf char * | ch char | flags int 
+function input_parameter int | ictx struct input_ctx *

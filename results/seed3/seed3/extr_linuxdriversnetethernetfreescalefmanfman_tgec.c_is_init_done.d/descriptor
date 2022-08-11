@@ -1,0 +1,2 @@
+struct tgec_cfg | dummy int 
+function is_init_done int | cfg struct tgec_cfg *

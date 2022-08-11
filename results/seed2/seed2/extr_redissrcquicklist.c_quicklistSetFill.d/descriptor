@@ -1,0 +1,2 @@
+struct TYPE_3__ | fill int 
+function quicklistSetFill void | quicklist struct TYPE_3__ * | fill int

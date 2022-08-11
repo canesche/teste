@@ -1,0 +1,2 @@
+struct iterator_stack_node | prev struct iterator_stack_node * 
+function free_stack_node void | S struct iterator_stack_node *

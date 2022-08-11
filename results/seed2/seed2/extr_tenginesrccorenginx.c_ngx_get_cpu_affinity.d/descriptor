@@ -1,0 +1,1 @@
+function ngx_get_cpu_affinity int * | n int

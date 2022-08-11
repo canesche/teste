@@ -1,0 +1,2 @@
+struct TYPE_3__ | cipher const int * 
+function SSL_SESSION_set_cipher int | s struct TYPE_3__ * | cipher const int *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | ARPv4Header int * 
+struct TYPE_5__ | TypeL3 int | L3 struct TYPE_4__ 
+function ParsePacketARPv4 int | p struct TYPE_5__ * | buf int * | size int

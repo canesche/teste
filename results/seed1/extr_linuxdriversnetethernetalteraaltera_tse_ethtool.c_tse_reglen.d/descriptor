@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function tse_reglen int | dev struct net_device *

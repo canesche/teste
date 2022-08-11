@@ -1,0 +1,2 @@
+struct hci_uart | init_speed unsigned int | oper_speed unsigned int 
+function hci_uart_set_speeds void | hu struct hci_uart * | init_speed unsigned int | oper_speed unsigned int

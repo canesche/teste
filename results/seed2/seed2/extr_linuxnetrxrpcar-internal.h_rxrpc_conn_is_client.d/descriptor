@@ -1,0 +1,2 @@
+struct rxrpc_connection | out_clientflag int 
+function rxrpc_conn_is_client int | conn const struct rxrpc_connection *

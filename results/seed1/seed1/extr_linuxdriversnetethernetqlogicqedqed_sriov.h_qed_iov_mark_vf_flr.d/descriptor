@@ -1,0 +1,2 @@
+struct qed_hwfn | dummy int 
+function qed_iov_mark_vf_flr int | p_hwfn struct qed_hwfn * | disabled_vfs int *

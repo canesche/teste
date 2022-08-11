@@ -1,0 +1,9 @@
+struct TYPE_12__ | pvr long | slb_nr int | slb_max int | slb struct TYPE_7__ * 
+struct kvm_vcpu | arch struct TYPE_12__ 
+struct TYPE_9__ | slb struct TYPE_8__ * 
+struct TYPE_10__ | ppc64 struct TYPE_9__ 
+struct TYPE_11__ | s struct TYPE_10__ 
+struct kvm_sregs | pvr long | u struct TYPE_11__ 
+struct TYPE_8__ | slbe int | slbv int 
+struct TYPE_7__ | orige int | origv int 
+function kvm_arch_vcpu_ioctl_set_sregs_hv int | vcpu struct kvm_vcpu * | sregs struct kvm_sregs *

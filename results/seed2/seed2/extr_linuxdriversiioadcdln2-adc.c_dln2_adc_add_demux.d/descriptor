@@ -1,0 +1,3 @@
+struct dln2_adc_demux_table | from unsigned int | length unsigned int | to unsigned int 
+struct dln2_adc | demux_count int | demux struct dln2_adc_demux_table * 
+function dln2_adc_add_demux void | dln2 struct dln2_adc * | in_loc unsigned int | out_loc unsigned int | length unsigned int

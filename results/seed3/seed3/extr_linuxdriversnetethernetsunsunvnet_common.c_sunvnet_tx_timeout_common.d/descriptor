@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function sunvnet_tx_timeout_common void | dev struct net_device *

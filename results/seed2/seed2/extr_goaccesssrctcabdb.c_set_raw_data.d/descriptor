@@ -1,0 +1,4 @@
+struct TYPE_7__ | idx unsigned long | type long | items struct TYPE_6__ * 
+struct TYPE_5__ | svalue char * | ivalue int 
+struct TYPE_6__ | key int | value struct TYPE_5__ 
+function set_raw_data void | key void * | value void * | raw_data struct TYPE_7__ *

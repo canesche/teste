@@ -1,2 +1,0 @@
-struct pn533 | poll_mod_curr int | poll_mod_count int 
-function pn533_poll_next_mod void | dev struct pn533 *

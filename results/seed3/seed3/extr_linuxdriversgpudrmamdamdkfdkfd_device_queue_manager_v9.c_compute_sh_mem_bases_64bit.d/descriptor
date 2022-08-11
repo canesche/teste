@@ -1,0 +1,2 @@
+struct kfd_process_device | lds_base int | scratch_base int 
+function compute_sh_mem_bases_64bit int | pdd struct kfd_process_device *

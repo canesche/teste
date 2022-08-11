@@ -1,0 +1,2 @@
+struct scsi_device | id int | channel int | lun int 
+function lun_from_dev int | dev struct scsi_device *

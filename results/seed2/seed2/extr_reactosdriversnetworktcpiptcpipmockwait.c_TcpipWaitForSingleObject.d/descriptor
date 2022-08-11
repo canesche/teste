@@ -1,0 +1,1 @@
+function TcpipWaitForSingleObject int | Object int | Reason int | WaitMode int | Alertable int | Timeout int

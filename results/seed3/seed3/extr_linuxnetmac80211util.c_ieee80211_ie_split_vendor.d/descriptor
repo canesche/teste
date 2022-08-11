@@ -1,0 +1,1 @@
+function ieee80211_ie_split_vendor unsigned long | ies const long * | ielen unsigned long | offset unsigned long

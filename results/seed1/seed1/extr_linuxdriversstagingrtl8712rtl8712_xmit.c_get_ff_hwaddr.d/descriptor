@@ -1,0 +1,5 @@
+struct pkt_attrib | priority int | qsel int 
+struct xmit_frame | frame_tag long | padapter struct _adapter * | attrib struct pkt_attrib 
+struct dvobj_priv | nr_endpoint int 
+struct _adapter | dvobjpriv struct dvobj_priv 
+function get_ff_hwaddr int | pxmitframe struct xmit_frame *

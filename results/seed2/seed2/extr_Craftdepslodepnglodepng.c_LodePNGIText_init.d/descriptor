@@ -1,0 +1,2 @@
+struct TYPE_3__ | itext_strings int * | itext_transkeys int * | itext_langtags int * | itext_keys int * | itext_num long 
+function LodePNGIText_init void | info struct TYPE_3__ *

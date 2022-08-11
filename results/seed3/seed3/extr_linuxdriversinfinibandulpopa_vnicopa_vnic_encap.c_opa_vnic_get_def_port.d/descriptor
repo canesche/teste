@@ -1,0 +1,2 @@
+struct opa_vnic_adapter | flow_tbl int * 
+function opa_vnic_get_def_port int | adapter struct opa_vnic_adapter * | entropy int

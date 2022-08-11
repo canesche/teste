@@ -1,0 +1,2 @@
+struct TYPE_3__ | retry_reason int 
+function BIO_set_retry_reason void | bio struct TYPE_3__ * | reason int

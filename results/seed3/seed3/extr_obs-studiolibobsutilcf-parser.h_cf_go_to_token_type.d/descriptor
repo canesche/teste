@@ -1,0 +1,3 @@
+struct cf_parser | cur_token struct TYPE_2__ * 
+struct TYPE_2__ | type long 
+function cf_go_to_token_type int | p struct cf_parser * | type enum cf_token_type

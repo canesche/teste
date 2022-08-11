@@ -1,0 +1,4 @@
+struct TYPE_6__ | bot_data_length long 
+struct TYPE_5__ | MSC_BOT_ClassData struct TYPE_6__ 
+struct TYPE_7__ | pClassData long 
+function SCSI_SynchronizeCache int | pdev struct TYPE_7__ * | lun int | params int *

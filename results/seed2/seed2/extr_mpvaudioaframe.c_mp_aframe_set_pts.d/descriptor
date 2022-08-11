@@ -1,0 +1,2 @@
+struct mp_aframe | pts double 
+function mp_aframe_set_pts void | frame struct mp_aframe * | pts double

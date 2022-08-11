@@ -1,0 +1,4 @@
+struct radeon_device | dummy int 
+struct ci_single_dpm_table | count unsigned long | dpm_levels struct TYPE_2__ * 
+struct TYPE_2__ | value unsigned long | enabled int 
+function ci_trim_single_dpm_states void | rdev struct radeon_device * | dpm_table struct ci_single_dpm_table * | low_limit unsigned long | high_limit unsigned long

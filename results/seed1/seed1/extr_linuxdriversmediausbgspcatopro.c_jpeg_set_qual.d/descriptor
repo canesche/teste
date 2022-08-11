@@ -1,0 +1,1 @@
+function jpeg_set_qual void | jpeg_hdr int * | quality int

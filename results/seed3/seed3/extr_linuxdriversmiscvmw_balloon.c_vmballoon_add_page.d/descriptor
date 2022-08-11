@@ -1,0 +1,3 @@
+struct vmballoon | page struct page * 
+struct page | dummy int 
+function vmballoon_add_page void | b struct vmballoon * | idx int | p struct page *

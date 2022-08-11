@@ -1,0 +1,3 @@
+struct gcov_node | num_loaded long | unloaded_info struct gcov_info * | loaded_info struct gcov_info ** 
+struct gcov_info | dummy int 
+function get_node_info struct gcov_info * | node struct gcov_node *

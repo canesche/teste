@@ -1,3 +1,0 @@
-struct irq_data | irq int 
-struct TYPE_2__ | imask1 int | cmeimask1 int 
-function enable_local3_irq void | d struct irq_data *

@@ -1,6 +1,0 @@
-struct TYPE_4__ | val int * 
-struct qdio_q | slsb struct TYPE_4__ | sl long | slib long 
-struct qdio_irq | qdr struct TYPE_6__ * 
-struct TYPE_6__ | qdf0 struct TYPE_5__ * 
-struct TYPE_5__ | sliba unsigned long | sla unsigned long | slsba unsigned long | akey int | bkey int | ckey int | dkey int 
-function __qdio_allocate_fill_qdr void | irq_ptr struct qdio_irq * | irq_ptr_qs struct qdio_q ** | i int | nr int

@@ -1,3 +1,0 @@
-struct TYPE_2__ | width long | height long | interlaced long | polarities long | pixelclock unsigned int | hfrontporch long | hsync long | hbackporch long | vfrontporch long | vsync long | vbackporch long | flags int | il_vfrontporch long | il_vsync long | il_vbackporch long 
-struct v4l2_dv_timings | type long | bt struct TYPE_2__ 
-function v4l2_match_dv_timings int | t1 const struct v4l2_dv_timings * | t2 const struct v4l2_dv_timings * | pclock_delta unsigned int | match_reduced_fps int

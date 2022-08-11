@@ -1,0 +1,2 @@
+struct TYPE_3__ | dtms_scratch_base unsigned long | dtms_scratch_ptr unsigned long 
+function dtrace_inscratch int | dest unsigned long | size unsigned long | mstate struct TYPE_3__ *

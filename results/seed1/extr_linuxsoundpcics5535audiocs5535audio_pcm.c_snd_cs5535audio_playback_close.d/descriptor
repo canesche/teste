@@ -1,2 +1,0 @@
-struct snd_pcm_substream | dummy int 
-function snd_cs5535audio_playback_close int | substream struct snd_pcm_substream *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_mpvvideooutd3d11ra_d3d11.c_map_msg_severity.d/extr_mpvvideooutd3d11ra_d3d11.c_map_msg_severity_O0::map_msg_severity(70)"
+  }
+]

@@ -1,2 +1,0 @@
-struct request_queue | dummy int 
-function wbt_update_limits void | q struct request_queue *

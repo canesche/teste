@@ -1,2 +1,0 @@
-struct video_device | dummy int 
-function wl1273_vdev_release void | dev struct video_device *

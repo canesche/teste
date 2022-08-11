@@ -1,0 +1,6 @@
+struct moxart_host | num_sg long | data_remain int | data_len int | cur_sg struct TYPE_6__ * | mrq struct TYPE_5__ * 
+struct mmc_data | bytes_xfered int 
+struct TYPE_6__ | length int 
+struct TYPE_5__ | cmd struct TYPE_4__ * 
+struct TYPE_4__ | data struct mmc_data * 
+function moxart_next_sg int | host struct moxart_host *

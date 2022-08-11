@@ -1,0 +1,3 @@
+struct snd_jack | private_data struct hdmi_pcm * 
+struct hdmi_pcm | jack int * 
+function free_hdmi_jack_priv void | jack struct snd_jack *

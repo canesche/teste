@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversvideofbdevvfb.c_vfb_setcolreg.d/extr_linuxdriversvideofbdevvfb.c_vfb_setcolreg_O0::vfb_setcolreg(79)"
+  }
+]

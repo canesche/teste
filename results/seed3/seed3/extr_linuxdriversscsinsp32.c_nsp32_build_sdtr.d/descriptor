@@ -1,0 +1,5 @@
+struct scsi_cmnd | device struct TYPE_4__ * 
+struct TYPE_6__ | msgout_len int | msgoutbuf unsigned char * 
+struct TYPE_5__ | hostdata long 
+struct TYPE_4__ | host struct TYPE_5__ * 
+function nsp32_build_sdtr void | SCpnt struct scsi_cmnd * | period unsigned char | offset unsigned char

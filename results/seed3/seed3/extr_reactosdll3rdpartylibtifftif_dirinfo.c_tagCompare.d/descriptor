@@ -1,0 +1,2 @@
+struct TYPE_2__ | field_tag long | field_type long 
+function tagCompare int | a const void * | b const void *

@@ -1,3 +1,0 @@
-struct mg_mgr | active_connections struct mg_connection * 
-struct mg_connection | next struct mg_connection * 
-function mg_next struct mg_connection * | s struct mg_mgr * | conn struct mg_connection *

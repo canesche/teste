@@ -1,0 +1,6 @@
+struct perf_mem_data_src | mem_op int | mem_lvl int | mem_snoop int | mem_lock int | mem_remote int 
+struct TYPE_4__ | map int 
+struct TYPE_3__ | addr int | map int 
+struct mem_info | iaddr struct TYPE_4__ | daddr struct TYPE_3__ | data_src union perf_mem_data_src 
+struct c2c_stats | nomap int | noparse int | st_l1miss int | st_l1hit int | st_uncache int | st_noadrs int | store int | ld_miss int | tot_hitm int | rmt_hitm int | rmt_hit int | ld_excl int | ld_shared int | rmt_dram int | lcl_dram int | ld_llchit int | lcl_hitm int | ld_l2hit int | ld_l1hit int | ld_fbhit int | ld_io int | ld_uncache int | ld_noadrs int | load int | locks int | nr_entries int 
+function c2c_decode_stats int | stats struct c2c_stats * | mi struct mem_info *

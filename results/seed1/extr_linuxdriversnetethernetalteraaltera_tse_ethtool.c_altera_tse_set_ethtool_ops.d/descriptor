@@ -1,2 +1,0 @@
-struct net_device | ethtool_ops int * 
-function altera_tse_set_ethtool_ops void | netdev struct net_device *

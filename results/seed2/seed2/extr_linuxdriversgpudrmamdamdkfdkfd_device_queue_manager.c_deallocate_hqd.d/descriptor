@@ -1,0 +1,3 @@
+struct queue | pipe unsigned long | queue int 
+struct device_queue_manager | allocated_queues int * 
+function deallocate_hqd void | dqm struct device_queue_manager * | q struct queue *

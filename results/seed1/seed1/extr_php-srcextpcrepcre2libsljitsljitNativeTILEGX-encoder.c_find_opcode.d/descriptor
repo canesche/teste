@@ -1,0 +1,2 @@
+struct tilegx_opcode | dummy int 
+function find_opcode const struct tilegx_opcode * | bits unsigned short | pipe unsigned long

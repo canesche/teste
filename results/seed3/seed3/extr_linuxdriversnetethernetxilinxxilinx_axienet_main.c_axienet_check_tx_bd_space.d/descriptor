@@ -1,0 +1,3 @@
+struct axienet_local | tx_bd_tail int | tx_bd_v struct axidma_bd * 
+struct axidma_bd | status int 
+function axienet_check_tx_bd_space int | lp struct axienet_local * | num_frag int

@@ -1,3 +1,0 @@
-struct sock | sk_user_data long 
-struct rpc_xprt | dummy int 
-function xprt_from_sock struct rpc_xprt * | sk struct sock *

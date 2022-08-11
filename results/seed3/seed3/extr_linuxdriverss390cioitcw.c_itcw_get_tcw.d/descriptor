@@ -1,0 +1,3 @@
+struct tcw | dummy int 
+struct itcw | tcw struct tcw * 
+function itcw_get_tcw struct tcw * | itcw struct itcw *

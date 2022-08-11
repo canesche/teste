@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function xgbe_dcb_getdcbx int | netdev struct net_device *

@@ -1,0 +1,2 @@
+struct cifs_tcon | max_chunks int | max_bytes_chunk int | max_bytes_copy int 
+function init_copy_chunk_defaults void | tcon struct cifs_tcon *

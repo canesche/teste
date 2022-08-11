@@ -1,0 +1,5 @@
+struct file | dummy int 
+struct autofs_sb_info | version int 
+struct TYPE_2__ | version int 
+struct autofs_dev_ioctl | protover struct TYPE_2__ 
+function autofs_dev_ioctl_protover int | fp struct file * | sbi struct autofs_sb_info * | param struct autofs_dev_ioctl *

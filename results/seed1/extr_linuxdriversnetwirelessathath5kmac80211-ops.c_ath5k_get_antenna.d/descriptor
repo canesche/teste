@@ -1,3 +1,0 @@
-struct ieee80211_hw | priv struct ath5k_hw * 
-struct ath5k_hw | ah_ant_mode int 
-function ath5k_get_antenna int | hw struct ieee80211_hw * | tx_ant int * | rx_ant int *

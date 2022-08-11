@@ -1,0 +1,3 @@
+struct TYPE_4__ | oid const int 
+struct TYPE_5__ | cached struct TYPE_4__ 
+function git_odb_object_id const int * | object struct TYPE_5__ *

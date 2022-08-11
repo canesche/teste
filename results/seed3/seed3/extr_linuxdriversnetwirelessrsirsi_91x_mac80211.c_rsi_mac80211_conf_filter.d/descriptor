@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function rsi_mac80211_conf_filter void | hw struct ieee80211_hw * | changed_flags int | total_flags int * | multicast int

@@ -1,3 +1,0 @@
-struct nvme_ns_head | dummy int 
-struct nvme_ctrl | dummy int 
-function nvme_mpath_alloc_disk int | ctrl struct nvme_ctrl * | head struct nvme_ns_head *

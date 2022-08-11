@@ -1,2 +1,0 @@
-struct ud | inp_ctr unsigned int 
-function ud_insn_len unsigned int | u const struct ud *

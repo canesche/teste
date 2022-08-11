@@ -1,3 +1,0 @@
-struct xfs_refcount_rec | dummy int 
-struct xfs_refcount_key | dummy int 
-function xfs_refcountbt_maxrecs int | blocklen int | leaf int

@@ -1,3 +1,0 @@
-struct pxafb_mach_info | dummy int 
-struct device | dummy int 
-function of_pxafb_of_mach_info struct pxafb_mach_info * | dev struct device *

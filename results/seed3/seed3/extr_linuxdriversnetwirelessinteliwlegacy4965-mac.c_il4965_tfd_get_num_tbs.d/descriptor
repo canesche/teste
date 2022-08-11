@@ -1,0 +1,2 @@
+struct il_tfd | num_tbs int 
+function il4965_tfd_get_num_tbs int | tfd struct il_tfd *

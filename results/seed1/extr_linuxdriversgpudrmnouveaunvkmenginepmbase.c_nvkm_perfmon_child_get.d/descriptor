@@ -1,4 +1,0 @@
-struct TYPE_2__ | maxver long | minver long | oclass int 
-struct nvkm_oclass | ctor int | base struct TYPE_2__ 
-struct nvkm_object | dummy int 
-function nvkm_perfmon_child_get int | object struct nvkm_object * | index int | oclass struct nvkm_oclass *

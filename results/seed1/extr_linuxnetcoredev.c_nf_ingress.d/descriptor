@@ -1,4 +1,0 @@
-struct sk_buff | dummy int 
-struct packet_type | dummy int 
-struct net_device | dummy int 
-function nf_ingress int | skb struct sk_buff * | pt_prev struct packet_type ** | ret int * | orig_dev struct net_device *

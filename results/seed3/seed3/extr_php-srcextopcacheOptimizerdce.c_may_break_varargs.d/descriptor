@@ -1,0 +1,5 @@
+struct TYPE_9__ | op1_def unsigned long | op2_def unsigned long | result_def unsigned long 
+struct TYPE_10__ | vars struct TYPE_8__ * 
+struct TYPE_11__ | num_args long 
+struct TYPE_8__ | var long 
+function may_break_varargs int | op_array const struct TYPE_11__ * | ssa const struct TYPE_10__ * | ssa_op const struct TYPE_9__ *

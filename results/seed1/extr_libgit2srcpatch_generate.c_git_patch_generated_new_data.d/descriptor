@@ -1,4 +1,0 @@
-struct TYPE_5__ | data char * | len unsigned long 
-struct TYPE_6__ | map struct TYPE_5__ 
-struct TYPE_7__ | nfile struct TYPE_6__ 
-function git_patch_generated_new_data void | ptr char ** | len unsigned long * | patch struct TYPE_7__ *

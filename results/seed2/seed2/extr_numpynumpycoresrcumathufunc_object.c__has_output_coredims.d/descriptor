@@ -1,0 +1,2 @@
+struct TYPE_3__ | nin int | nout int | core_num_dims long * 
+function _has_output_coredims int | ufunc struct TYPE_3__ *

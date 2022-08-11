@@ -1,0 +1,2 @@
+struct bsd_db | checkpoint int | ratio long | incomp_count long | in_count long | bytes_out long | n_bits int | max_ent long | clear_count int 
+function bsd_clear void | db struct bsd_db *

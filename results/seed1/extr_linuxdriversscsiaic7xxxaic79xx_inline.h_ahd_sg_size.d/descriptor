@@ -1,4 +1,0 @@
-struct ahd_softc | flags int 
-struct ahd_dma_seg | dummy int 
-struct ahd_dma64_seg | dummy int 
-function ahd_sg_size unsigned long | ahd struct ahd_softc *

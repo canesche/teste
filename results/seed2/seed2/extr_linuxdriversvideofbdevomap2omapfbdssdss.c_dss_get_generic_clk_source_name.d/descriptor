@@ -1,0 +1,1 @@
+function dss_get_generic_clk_source_name const char * | clk_src enum omap_dss_clk_source

@@ -1,0 +1,3 @@
+struct mem_ctl_info | pvt_info struct i5100_priv * 
+struct i5100_priv | dimm_csmap int ** | ranksperchan int 
+function i5100_init_dimm_csmap void | mci struct mem_ctl_info *

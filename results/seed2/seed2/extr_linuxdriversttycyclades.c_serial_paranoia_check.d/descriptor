@@ -1,0 +1,2 @@
+struct cyclades_port | dummy int 
+function serial_paranoia_check int | info struct cyclades_port * | name const char * | routine const char *

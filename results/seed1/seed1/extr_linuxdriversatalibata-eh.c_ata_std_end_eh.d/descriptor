@@ -1,0 +1,3 @@
+struct ata_port | scsi_host struct Scsi_Host * 
+struct Scsi_Host | host_eh_scheduled long 
+function ata_std_end_eh void | ap struct ata_port *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmvirtiovirtgpu_display.c_virtio_gpu_enc_enable.d/extr_linuxdriversgpudrmvirtiovirtgpu_display.c_virtio_gpu_enc_enable_O0::virtio_gpu_enc_enable(61)"
+  }
+]

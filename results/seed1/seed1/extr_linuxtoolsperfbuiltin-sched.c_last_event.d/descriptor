@@ -1,0 +1,3 @@
+struct task_desc | nr_events int | atoms struct sched_atom ** 
+struct sched_atom | dummy int 
+function last_event struct sched_atom * | task struct task_desc *

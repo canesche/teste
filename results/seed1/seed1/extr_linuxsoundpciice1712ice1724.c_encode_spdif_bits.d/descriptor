@@ -1,0 +1,2 @@
+struct snd_aes_iec958 | status int * 
+function encode_spdif_bits unsigned int | diga struct snd_aes_iec958 *

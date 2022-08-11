@@ -1,0 +1,4 @@
+struct TYPE_8__ | next struct TYPE_8__ * | parent struct TYPE_7__ * | prev struct TYPE_6__ * 
+struct TYPE_7__ | vn int 
+struct TYPE_6__ | next struct TYPE_8__ * 
+function watchcat_q_del struct TYPE_8__ * | e struct TYPE_8__ *

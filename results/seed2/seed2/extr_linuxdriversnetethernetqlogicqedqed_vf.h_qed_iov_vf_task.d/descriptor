@@ -1,0 +1,2 @@
+struct work_struct | dummy int 
+function qed_iov_vf_task void | work struct work_struct *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | str char * | size unsigned int | size_max unsigned int | len long 
+function av_bprint_init_for_buffer void | buf struct TYPE_3__ * | buffer char * | size unsigned int

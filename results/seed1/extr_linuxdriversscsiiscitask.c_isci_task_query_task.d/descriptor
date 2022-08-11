@@ -1,2 +1,0 @@
-struct sas_task | task_state_flags int 
-function isci_task_query_task int | task struct sas_task *

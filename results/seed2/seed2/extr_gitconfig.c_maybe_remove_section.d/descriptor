@@ -1,0 +1,3 @@
+struct config_store_data | seen int * | parsed_nr int | seen_nr int | parsed struct TYPE_2__ * 
+struct TYPE_2__ | type int | begin unsigned long | end unsigned long | is_keys_section long 
+function maybe_remove_section void | store struct config_store_data * | begin_offset unsigned long * | end_offset unsigned long * | seen_ptr int *

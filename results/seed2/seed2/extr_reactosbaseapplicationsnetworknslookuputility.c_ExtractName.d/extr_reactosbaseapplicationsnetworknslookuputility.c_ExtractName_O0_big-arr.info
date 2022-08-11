@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 19,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 30,
+    static: {
+      instructions: 95,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8364,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_reactosbaseapplicationsnetworknslookuputility.c_ExtractName.d/extr_reactosbaseapplicationsnetworknslookuputility.c_ExtractName_O0::ExtractName(63)"
+  }
+]

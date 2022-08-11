@@ -1,0 +1,2 @@
+struct pp_atomctrl_voltage_table | count unsigned int | entries int * 
+function phm_trim_voltage_table_to_fit_state_table void | max_vol_steps unsigned int | vol_table struct pp_atomctrl_voltage_table *

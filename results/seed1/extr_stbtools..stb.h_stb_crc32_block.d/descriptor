@@ -1,1 +1,0 @@
-function stb_crc32_block int | crc int | buffer unsigned char * | len int

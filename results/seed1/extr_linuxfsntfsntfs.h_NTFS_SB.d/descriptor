@@ -1,2 +1,0 @@
-struct super_block | s_fs_info int * 
-function NTFS_SB int * | sb struct super_block *

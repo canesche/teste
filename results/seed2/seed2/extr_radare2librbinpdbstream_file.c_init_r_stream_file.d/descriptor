@@ -1,0 +1,2 @@
+struct TYPE_3__ | pages int * | pages_amount int | page_size int | end int | pos long | buf int * | error long 
+function init_r_stream_file int | stream_file struct TYPE_3__ * | buf int * | pages int * | pages_amount int | size int | page_size int

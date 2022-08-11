@@ -1,0 +1,2 @@
+struct TCP_Server_Info | tcpStatus long 
+function cifs_can_echo int | server struct TCP_Server_Info *

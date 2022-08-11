@@ -1,2 +1,0 @@
-struct clk | dummy int 
-function clk_get_parent struct clk * | clk struct clk *

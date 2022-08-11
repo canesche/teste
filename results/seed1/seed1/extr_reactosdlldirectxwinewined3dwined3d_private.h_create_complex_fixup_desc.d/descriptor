@@ -1,0 +1,2 @@
+struct color_fixup_desc | member_0 unsigned int | member_2 unsigned int | member_4 unsigned int | member_6 unsigned int | member_7 int | member_5 int | member_3 int | member_1 int 
+function create_complex_fixup_desc struct color_fixup_desc | complex_fixup enum complex_fixup

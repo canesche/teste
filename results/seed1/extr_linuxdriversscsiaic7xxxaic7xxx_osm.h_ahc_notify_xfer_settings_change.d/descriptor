@@ -1,3 +1,0 @@
-struct ahc_softc | dummy int 
-struct ahc_devinfo | dummy int 
-function ahc_notify_xfer_settings_change void | ahc struct ahc_softc * | devinfo struct ahc_devinfo *

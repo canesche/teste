@@ -1,0 +1,2 @@
+struct abuf | len long | b int * 
+function abInit void | ab struct abuf *

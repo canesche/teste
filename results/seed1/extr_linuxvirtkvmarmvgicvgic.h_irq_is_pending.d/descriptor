@@ -1,2 +1,0 @@
-struct vgic_irq | config long | pending_latch int | line_level long 
-function irq_is_pending int | irq struct vgic_irq *

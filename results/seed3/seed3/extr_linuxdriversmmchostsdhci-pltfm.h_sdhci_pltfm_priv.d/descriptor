@@ -1,0 +1,2 @@
+struct sdhci_pltfm_host | private void * 
+function sdhci_pltfm_priv void * | host struct sdhci_pltfm_host *

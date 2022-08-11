@@ -1,0 +1,4 @@
+struct TYPE_5__ | ImageBase long 
+struct TYPE_7__ | ImageSize int | BasicInfo struct TYPE_5__ 
+struct TYPE_6__ | size int | addr long 
+function kkll_m_modules_first_callback int | szBufferIn int | bufferIn long | outBuffer int | pModule struct TYPE_7__ * | pvArg long | mustContinue int *

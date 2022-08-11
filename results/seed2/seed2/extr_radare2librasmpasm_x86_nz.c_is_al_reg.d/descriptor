@@ -1,0 +1,2 @@
+struct TYPE_3__ | type int | reg long 
+function is_al_reg int | op const struct TYPE_3__ *

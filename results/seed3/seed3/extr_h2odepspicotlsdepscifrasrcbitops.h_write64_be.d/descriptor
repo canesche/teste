@@ -1,0 +1,1 @@
+function write64_be void | v int | buf int [8]

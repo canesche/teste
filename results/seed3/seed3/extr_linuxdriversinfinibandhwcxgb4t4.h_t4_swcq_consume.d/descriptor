@@ -1,0 +1,2 @@
+struct t4_cq | sw_cidx long | size long | sw_in_use int 
+function t4_swcq_consume void | cq struct t4_cq *

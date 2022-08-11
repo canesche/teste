@@ -1,2 +1,0 @@
-struct pcm512x_priv | overclock_dsp int 
-function pcm512x_dsp_max unsigned long | pcm512x struct pcm512x_priv *

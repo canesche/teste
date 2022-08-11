@@ -1,0 +1,3 @@
+struct TYPE_2__ | window_width long | window_height long 
+struct et8ek8_reglist | type long | mode struct TYPE_2__ 
+function et8ek8_reglist_cmp int | a const void * | b const void *

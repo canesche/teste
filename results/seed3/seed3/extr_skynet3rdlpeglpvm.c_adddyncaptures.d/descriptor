@@ -1,0 +1,2 @@
+struct TYPE_3__ | siz int | idx int | s const char * | kind int 
+function adddyncaptures void | s const char * | base struct TYPE_3__ * | n int | fd int

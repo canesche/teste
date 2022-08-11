@@ -1,0 +1,2 @@
+struct cc_hw_desc | word int * 
+function set_xex_data_unit_size void | pdesc struct cc_hw_desc * | size int

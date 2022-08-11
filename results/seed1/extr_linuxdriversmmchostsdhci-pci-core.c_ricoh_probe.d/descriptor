@@ -1,3 +1,0 @@
-struct sdhci_pci_chip | quirks int | pdev struct TYPE_2__ * 
-struct TYPE_2__ | subsystem_vendor long 
-function ricoh_probe int | chip struct sdhci_pci_chip *

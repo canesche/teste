@@ -1,0 +1,2 @@
+struct fw_csr_iterator | p int * | end int 
+function fw_csr_iterator_next int | ci struct fw_csr_iterator * | key int * | value int *

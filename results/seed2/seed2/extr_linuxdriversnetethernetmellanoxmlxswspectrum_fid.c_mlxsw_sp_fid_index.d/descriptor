@@ -1,0 +1,2 @@
+struct mlxsw_sp_fid | fid_index int 
+function mlxsw_sp_fid_index int | fid const struct mlxsw_sp_fid *

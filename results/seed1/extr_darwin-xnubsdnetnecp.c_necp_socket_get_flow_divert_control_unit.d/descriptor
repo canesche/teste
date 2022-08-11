@@ -1,5 +1,0 @@
-struct TYPE_4__ | flow_divert_control_unit int 
-struct TYPE_5__ | result long | result_parameter struct TYPE_4__ 
-struct TYPE_6__ | results struct TYPE_5__ 
-struct inpcb | inp_policyresult struct TYPE_6__ 
-function necp_socket_get_flow_divert_control_unit int | inp struct inpcb *

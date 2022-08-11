@@ -1,4 +1,0 @@
-struct smack_known | dummy int 
-struct inode_smack | smk_inode struct smack_known * 
-struct inode | i_security struct inode_smack * 
-function smk_of_inode struct smack_known * | isp const struct inode *

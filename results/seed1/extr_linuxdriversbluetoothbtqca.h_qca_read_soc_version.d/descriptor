@@ -1,2 +1,0 @@
-struct hci_dev | dummy int 
-function qca_read_soc_version int | hdev struct hci_dev * | soc_version int *

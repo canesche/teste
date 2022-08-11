@@ -1,0 +1,2 @@
+struct d3dx_technique | dummy int 
+function get_technique_handle int | technique struct d3dx_technique *

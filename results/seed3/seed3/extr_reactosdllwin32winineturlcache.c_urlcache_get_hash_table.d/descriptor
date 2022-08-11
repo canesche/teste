@@ -1,0 +1,1 @@
+function urlcache_get_hash_table int * | pHeader const int * | dwOffset long

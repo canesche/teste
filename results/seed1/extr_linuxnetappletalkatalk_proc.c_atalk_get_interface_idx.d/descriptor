@@ -1,2 +1,0 @@
-struct atalk_iface | next struct atalk_iface * 
-function atalk_get_interface_idx struct atalk_iface * | pos long

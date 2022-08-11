@@ -1,0 +1,2 @@
+struct intel_crtc | dummy int 
+function intel_crtc_disable_pipe_crc void | crtc struct intel_crtc *

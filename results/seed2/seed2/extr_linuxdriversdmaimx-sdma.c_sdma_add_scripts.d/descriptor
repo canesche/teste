@@ -1,0 +1,3 @@
+struct sdma_script_start_addrs | dummy int 
+struct sdma_engine | script_number int | script_addrs long 
+function sdma_add_scripts void | sdma struct sdma_engine * | addr const struct sdma_script_start_addrs *

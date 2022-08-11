@@ -1,0 +1,1 @@
+function tda7419_vol_get_value int | val int | mask unsigned int | min int | thresh int | invert unsigned int

@@ -1,0 +1,2 @@
+struct TYPE_2__ | wYear long | wMonth long | wDay long 
+function JapaneseEra_Compare int | e1 const void * | e2 const void *

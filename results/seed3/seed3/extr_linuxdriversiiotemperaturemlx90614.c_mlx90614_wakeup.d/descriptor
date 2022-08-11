@@ -1,0 +1,2 @@
+struct mlx90614_data | dummy int 
+function mlx90614_wakeup int | data struct mlx90614_data *

@@ -1,0 +1,4 @@
+struct qed_mcp_link_capabilities | dummy int 
+struct qed_hwfn | dummy int 
+struct qed_bulletin_content | dummy int 
+function __qed_vf_get_link_caps void | p_hwfn struct qed_hwfn * | p_link_caps struct qed_mcp_link_capabilities * | p_bulletin struct qed_bulletin_content *

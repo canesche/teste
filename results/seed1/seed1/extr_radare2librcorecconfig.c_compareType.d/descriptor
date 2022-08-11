@@ -1,0 +1,3 @@
+struct TYPE_6__ | diff struct TYPE_5__ * 
+struct TYPE_5__ | type long 
+function compareType int | a const struct TYPE_6__ * | b const struct TYPE_6__ *

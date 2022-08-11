@@ -1,2 +1,0 @@
-struct smscore_device_t | dummy int 
-function sms_ir_init int | coredev struct smscore_device_t *

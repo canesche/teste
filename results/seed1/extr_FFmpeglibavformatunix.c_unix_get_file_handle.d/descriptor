@@ -1,3 +1,0 @@
-struct TYPE_4__ | fd int 
-struct TYPE_5__ | priv_data struct TYPE_4__ * 
-function unix_get_file_handle int | h struct TYPE_5__ *

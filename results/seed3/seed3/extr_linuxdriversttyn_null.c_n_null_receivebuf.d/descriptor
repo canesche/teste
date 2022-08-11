@@ -1,0 +1,2 @@
+struct tty_struct | dummy int 
+function n_null_receivebuf void | tty struct tty_struct * | cp const unsigned char * | fp char * | cnt int

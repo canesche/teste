@@ -1,0 +1,2 @@
+struct object_id | dummy int 
+function stash_count_refs int | ooid struct object_id * | noid struct object_id * | email const char * | timestamp int | tz int | message const char * | cb_data void *

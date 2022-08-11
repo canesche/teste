@@ -1,0 +1,1 @@
+function emscripten_atomic_exchange_u64 int | addr void * | newVal int

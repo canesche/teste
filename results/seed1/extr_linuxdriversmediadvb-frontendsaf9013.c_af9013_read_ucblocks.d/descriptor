@@ -1,3 +1,0 @@
-struct dvb_frontend | demodulator_priv struct af9013_state * 
-struct af9013_state | dvbv3_ucblocks int 
-function af9013_read_ucblocks int | fe struct dvb_frontend * | ucblocks int *

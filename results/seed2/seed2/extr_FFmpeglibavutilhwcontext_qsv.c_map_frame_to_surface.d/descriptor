@@ -1,0 +1,4 @@
+struct TYPE_6__ | TimeStamp int | Pitch int | A int | R int | G int | B int | V int | U int | Y int | UV int 
+struct TYPE_7__ | Data struct TYPE_6__ 
+struct TYPE_8__ | format int | pts int | linesize int * | data int * 
+function map_frame_to_surface int | frame const struct TYPE_8__ * | surface struct TYPE_7__ *

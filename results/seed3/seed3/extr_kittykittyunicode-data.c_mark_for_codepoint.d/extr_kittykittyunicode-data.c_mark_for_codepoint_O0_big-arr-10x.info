@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 285,
+    phantoms: 283,
+    exit: true,
+    halt: false,
+    edges: 569,
+    static: {
+      instructions: 1366,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 1366,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_kittykittyunicode-data.c_mark_for_codepoint.d/extr_kittykittyunicode-data.c_mark_for_codepoint_O0::mark_for_codepoint(61)"
+  }
+]

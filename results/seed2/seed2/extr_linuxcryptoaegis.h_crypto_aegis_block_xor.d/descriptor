@@ -1,0 +1,2 @@
+struct aegis_block | words64 int * 
+function crypto_aegis_block_xor void | dst union aegis_block * | src const union aegis_block *

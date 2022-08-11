@@ -1,0 +1,4 @@
+struct TYPE_8__ | kl_idata int | kl_callback int 
+struct TYPE_7__ | ks_flags int | ks_listeners struct TYPE_6__ * 
+struct TYPE_6__ | kll_listenerp struct TYPE_8__ * | kll_idata int | kll_callback int 
+function kauth_add_callback_to_scope int | sp struct TYPE_7__ * | klp struct TYPE_8__ *

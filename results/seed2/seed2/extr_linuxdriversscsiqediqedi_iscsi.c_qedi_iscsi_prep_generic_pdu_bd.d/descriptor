@@ -1,0 +1,5 @@
+struct TYPE_3__ | lo void * | hi void * 
+struct scsi_sge | sge_len long | sge_addr struct TYPE_3__ 
+struct TYPE_4__ | resp_dma_addr long | resp_bd_tbl long | req_buf long | req_wr_ptr long | req_dma_addr long | req_bd_tbl long 
+struct qedi_conn | gen_pdu struct TYPE_4__ 
+function qedi_iscsi_prep_generic_pdu_bd void | qedi_conn struct qedi_conn *

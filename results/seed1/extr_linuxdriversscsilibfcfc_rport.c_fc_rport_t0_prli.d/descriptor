@@ -1,3 +1,0 @@
-struct fc_rport_priv | dummy int 
-struct fc_els_spp | spp_flags int 
-function fc_rport_t0_prli int | rdata struct fc_rport_priv * | spp_len int | rspp const struct fc_els_spp * | spp struct fc_els_spp *

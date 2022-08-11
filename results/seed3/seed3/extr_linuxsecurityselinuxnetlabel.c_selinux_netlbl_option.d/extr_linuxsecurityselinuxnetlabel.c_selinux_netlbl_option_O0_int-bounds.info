@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsecurityselinuxnetlabel.c_selinux_netlbl_option.d/extr_linuxsecurityselinuxnetlabel.c_selinux_netlbl_option_O0::selinux_netlbl_option(64)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_2__ | src_len long 
+function sort_by_src_len int | p1 const void * | p2 const void *

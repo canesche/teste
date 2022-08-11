@@ -1,0 +1,3 @@
+struct ifnet | dummy int 
+struct TYPE_3__ | ifa_ifp struct ifnet * 
+function ifaddr_ifnet struct ifnet * | ifa struct TYPE_3__ *

@@ -1,2 +1,0 @@
-struct TYPE_3__ | level int | dictSize int | reduceSize int | lc int | lp long | pb int | algo int | fb int | btMode int | numHashBytes int | mc int | numThreads int 
-function LzmaEncProps_Normalize void | p struct TYPE_3__ *

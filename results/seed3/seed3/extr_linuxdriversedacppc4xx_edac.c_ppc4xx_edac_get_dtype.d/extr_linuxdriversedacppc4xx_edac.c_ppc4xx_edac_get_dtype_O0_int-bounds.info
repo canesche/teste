@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversedacppc4xx_edac.c_ppc4xx_edac_get_dtype.d/extr_linuxdriversedacppc4xx_edac.c_ppc4xx_edac_get_dtype_O0::ppc4xx_edac_get_dtype(68)"
+  }
+]

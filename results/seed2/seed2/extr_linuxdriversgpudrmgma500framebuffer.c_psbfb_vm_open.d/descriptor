@@ -1,0 +1,2 @@
+struct vm_area_struct | dummy int 
+function psbfb_vm_open void | vma struct vm_area_struct *

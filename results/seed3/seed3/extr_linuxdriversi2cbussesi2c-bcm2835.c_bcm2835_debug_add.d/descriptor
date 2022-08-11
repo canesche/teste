@@ -1,0 +1,3 @@
+struct bcm2835_i2c_dev | debug_num unsigned long | debug struct TYPE_2__ * | msg_buf_remaining int | num_msgs long | debug_num_msgs long | curr_msg int 
+struct TYPE_2__ | status int | remain int | msg_idx long | msg int 
+function bcm2835_debug_add void | i2c_dev struct bcm2835_i2c_dev * | s int

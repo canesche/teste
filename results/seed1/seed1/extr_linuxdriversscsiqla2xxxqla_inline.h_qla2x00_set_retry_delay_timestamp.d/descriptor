@@ -1,0 +1,2 @@
+struct TYPE_3__ | retry_delay_timestamp long 
+function qla2x00_set_retry_delay_timestamp void | fcport struct TYPE_3__ * | retry_delay int

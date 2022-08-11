@@ -1,0 +1,2 @@
+struct ni_gpct_device | variant long 
+function ni_tio_counting_mode_registers_present int | counter_dev const struct ni_gpct_device *

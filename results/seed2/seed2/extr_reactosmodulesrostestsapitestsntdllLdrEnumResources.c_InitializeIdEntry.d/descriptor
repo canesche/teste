@@ -1,0 +1,3 @@
+struct TYPE_6__ | DataIsDirectory int | OffsetToData long | NameIsString long | Name int 
+struct TYPE_5__ | Lang1Entries struct TYPE_6__ * 
+function InitializeIdEntry int | Resource struct TYPE_5__ * | DirEntry struct TYPE_6__ * | Id int | Data long

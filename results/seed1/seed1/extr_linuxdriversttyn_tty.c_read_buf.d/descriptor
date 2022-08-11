@@ -1,0 +1,2 @@
+struct n_tty_data | read_buf unsigned char * 
+function read_buf unsigned char | ldata struct n_tty_data * | i unsigned long

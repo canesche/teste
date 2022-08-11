@@ -1,0 +1,9 @@
+struct bfa_lport_cfg_s | pwwn int | nwwn int 
+struct bfa_ioc_s | attr struct TYPE_5__ * 
+struct TYPE_6__ | port_cfg struct bfa_lport_cfg_s 
+struct bfa_fcs_fabric_s | fcs struct TYPE_8__ * | bport struct TYPE_6__ 
+struct bfa_fcs_s | fabric struct bfa_fcs_fabric_s 
+struct TYPE_8__ | bfa struct TYPE_7__ * 
+struct TYPE_7__ | ioc struct bfa_ioc_s 
+struct TYPE_5__ | pwwn int | nwwn int 
+function bfa_fcs_update_cfg void | fcs struct bfa_fcs_s *

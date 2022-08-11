@@ -1,0 +1,1 @@
+function enable_x2apic_msr_intercepts void | msr_bitmap unsigned long *

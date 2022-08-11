@@ -1,0 +1,8 @@
+struct TYPE_14__ | kids struct TYPE_13__ ** | copy long 
+struct TYPE_15__ | x struct TYPE_14__ | syms struct TYPE_10__ ** 
+struct TYPE_13__ | syms struct TYPE_12__ ** 
+struct TYPE_11__ | name long 
+struct TYPE_12__ | x struct TYPE_11__ 
+struct TYPE_9__ | name long 
+struct TYPE_10__ | x struct TYPE_9__ 
+function moveself int | p struct TYPE_15__ *

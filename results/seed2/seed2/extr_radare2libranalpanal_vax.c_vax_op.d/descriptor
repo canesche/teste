@@ -1,0 +1,2 @@
+struct TYPE_3__ | size int | type void * 
+function vax_op int | anal int * | op struct TYPE_3__ * | addr int | buf const int * | len int | mask int

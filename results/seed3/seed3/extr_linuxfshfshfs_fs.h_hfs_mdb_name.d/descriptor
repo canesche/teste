@@ -1,0 +1,2 @@
+struct super_block | s_id const char * 
+function hfs_mdb_name const char * | sb struct super_block *

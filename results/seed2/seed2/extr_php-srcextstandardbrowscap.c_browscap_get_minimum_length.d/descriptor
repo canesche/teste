@@ -1,0 +1,2 @@
+struct TYPE_3__ | prefix_len unsigned long | contains_len long * 
+function browscap_get_minimum_length unsigned long | entry struct TYPE_3__ *

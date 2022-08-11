@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_h2odepspicohttpparserpicohttpparser.c_phr_decode_chunked_is_in_data.d/extr_h2odepspicohttpparserpicohttpparser.c_phr_decode_chunked_is_in_data_O0::phr_decode_chunked_is_in_data(62)"
+  }
+]

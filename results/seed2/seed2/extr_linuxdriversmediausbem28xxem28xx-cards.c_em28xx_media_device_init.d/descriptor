@@ -1,0 +1,3 @@
+struct usb_device | dummy int 
+struct em28xx | dummy int 
+function em28xx_media_device_init int | dev struct em28xx * | udev struct usb_device *

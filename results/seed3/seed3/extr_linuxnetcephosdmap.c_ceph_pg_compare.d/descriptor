@@ -1,0 +1,2 @@
+struct ceph_pg | pool long | seed long 
+function ceph_pg_compare int | lhs const struct ceph_pg * | rhs const struct ceph_pg *

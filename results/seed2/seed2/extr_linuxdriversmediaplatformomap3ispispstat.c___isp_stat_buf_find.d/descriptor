@@ -1,0 +1,3 @@
+struct ispstat_buffer | frame_number long | empty long 
+struct ispstat | active_buf struct ispstat_buffer * | locked_buf struct ispstat_buffer * | buf struct ispstat_buffer * 
+function __isp_stat_buf_find struct ispstat_buffer * | stat struct ispstat * | look_empty int

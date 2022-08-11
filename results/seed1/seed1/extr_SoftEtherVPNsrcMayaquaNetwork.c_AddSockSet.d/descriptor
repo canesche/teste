@@ -1,0 +1,3 @@
+struct TYPE_6__ | Type long | Connected int 
+struct TYPE_5__ | NumSocket long | Sock struct TYPE_6__ ** 
+function AddSockSet void | set struct TYPE_5__ * | sock struct TYPE_6__ *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | dictIDFlag int 
+function FIO_setDictIDFlag void | prefs struct TYPE_3__ *const | dictIDFlag int

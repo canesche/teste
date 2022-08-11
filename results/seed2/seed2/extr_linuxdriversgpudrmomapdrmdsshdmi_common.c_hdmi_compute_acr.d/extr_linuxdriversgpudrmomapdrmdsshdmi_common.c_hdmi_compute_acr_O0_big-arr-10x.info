@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 21,
+    static: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmomapdrmdsshdmi_common.c_hdmi_compute_acr.d/extr_linuxdriversgpudrmomapdrmdsshdmi_common.c_hdmi_compute_acr_O0::hdmi_compute_acr(62)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | count int | symbols int * 
+function rc_flush void | rc struct TYPE_3__ *

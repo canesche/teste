@@ -1,3 +1,0 @@
-struct TYPE_2__ | nodes unsigned long 
-struct cache_set | gc_stats struct TYPE_2__ 
-function btree_gc_min_nodes unsigned long | c struct cache_set *

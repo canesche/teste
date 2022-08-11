@@ -1,1 +1,0 @@
-value(payload_off) == 255, value(tcp_ts) == 255, length(tpa_info) == 65025, length(skb) == 65025

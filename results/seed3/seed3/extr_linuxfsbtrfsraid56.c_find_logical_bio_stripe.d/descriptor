@@ -1,0 +1,5 @@
+struct btrfs_raid_bio | nr_data int | stripe_len int | bbio struct TYPE_4__ * 
+struct TYPE_3__ | bi_sector int 
+struct bio | bi_iter struct TYPE_3__ 
+struct TYPE_4__ | raid_map int * 
+function find_logical_bio_stripe int | rbio struct btrfs_raid_bio * | bio struct bio *

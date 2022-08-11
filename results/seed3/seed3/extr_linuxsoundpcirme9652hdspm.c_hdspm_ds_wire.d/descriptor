@@ -1,0 +1,2 @@
+struct hdspm | control_register int 
+function hdspm_ds_wire int | hdspm struct hdspm *

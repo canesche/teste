@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int | has_ungotten long 
+function feof int | stream struct TYPE_3__ *

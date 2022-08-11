@@ -1,0 +1,2 @@
+struct alps_bitmap_point | start_bit int | num_bits long 
+function alps_get_bitmap_points void | map unsigned int | low struct alps_bitmap_point * | high struct alps_bitmap_point * | fingers int *

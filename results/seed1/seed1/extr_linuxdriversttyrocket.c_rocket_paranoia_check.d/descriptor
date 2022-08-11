@@ -1,0 +1,2 @@
+struct r_port | dummy int 
+function rocket_paranoia_check int | info struct r_port * | routine const char *

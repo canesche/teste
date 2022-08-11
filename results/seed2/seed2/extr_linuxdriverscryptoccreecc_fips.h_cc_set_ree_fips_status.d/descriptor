@@ -1,0 +1,2 @@
+struct cc_drvdata | dummy int 
+function cc_set_ree_fips_status void | drvdata struct cc_drvdata * | ok int

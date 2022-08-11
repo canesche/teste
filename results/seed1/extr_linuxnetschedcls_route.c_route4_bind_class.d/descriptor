@@ -1,3 +1,0 @@
-struct TYPE_2__ | classid long | class unsigned long 
-struct route4_filter | res struct TYPE_2__ 
-function route4_bind_class void | fh void * | classid long | cl unsigned long

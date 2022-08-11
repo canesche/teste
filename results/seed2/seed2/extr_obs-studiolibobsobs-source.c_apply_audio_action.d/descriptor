@@ -1,0 +1,3 @@
+struct audio_action | type int | set int | vol int 
+struct TYPE_3__ | push_to_mute_pressed int | push_to_talk_pressed int | muted int | volume int 
+function apply_audio_action void | source struct TYPE_3__ * | action const struct audio_action *

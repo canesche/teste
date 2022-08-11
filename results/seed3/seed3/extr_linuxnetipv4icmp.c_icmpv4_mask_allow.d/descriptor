@@ -1,0 +1,3 @@
+struct TYPE_2__ | sysctl_icmp_ratemask int 
+struct net | ipv4 struct TYPE_2__ 
+function icmpv4_mask_allow int | net struct net * | type int | code int

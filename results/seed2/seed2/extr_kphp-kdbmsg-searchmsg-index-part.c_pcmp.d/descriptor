@@ -1,0 +1,2 @@
+struct TYPE_2__ | hash long | order int 
+function pcmp int | a const void * | b const void *

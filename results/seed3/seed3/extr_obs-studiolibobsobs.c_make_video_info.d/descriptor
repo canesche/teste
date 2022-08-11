@@ -1,0 +1,3 @@
+struct video_output_info | name char * | cache_size int | colorspace int | range int | height int | width int | fps_den int | fps_num int | format int 
+struct obs_video_info | colorspace int | range int | output_height int | output_width int | fps_den int | fps_num int | output_format int 
+function make_video_info void | vi struct video_output_info * | ovi struct obs_video_info *

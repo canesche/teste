@@ -1,2 +1,0 @@
-struct tep_handle | cpus int 
-function tep_set_cpus void | pevent struct tep_handle * | cpus int

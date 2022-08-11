@@ -1,0 +1,3 @@
+struct ipr_cmnd | scsi_cmd struct TYPE_2__ * 
+struct TYPE_2__ | device void * 
+function ipr_match_lun int | ipr_cmd struct ipr_cmnd * | device void *

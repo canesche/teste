@@ -1,0 +1,6 @@
+struct TYPE_6__ | m struct TYPE_5__ * 
+struct s_smc | mib struct TYPE_6__ 
+struct fddi_addr | a int * 
+struct TYPE_4__ | a int * 
+struct TYPE_5__ | fddiMACSMTAddress struct TYPE_4__ 
+function is_my_addr int | smc const struct s_smc * | addr const struct fddi_addr *

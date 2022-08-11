@@ -1,0 +1,2 @@
+struct dso | hit int 
+function dso__skip_buildid int | dso struct dso * | with_hits int

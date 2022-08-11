@@ -1,0 +1,3 @@
+struct binding_find_data | id long | idx unsigned long * | found int 
+struct TYPE_3__ | hotkey_id long 
+function binding_finder int | data void * | idx unsigned long | binding struct TYPE_3__ *

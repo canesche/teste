@@ -1,0 +1,4 @@
+struct qp_broker_entry | consume_q struct TYPE_4__ * | produce_q struct TYPE_3__ * 
+struct TYPE_4__ | saved_header int * 
+struct TYPE_3__ | saved_header int * 
+function qp_reset_saved_headers void | entry struct qp_broker_entry *

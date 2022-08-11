@@ -1,2 +1,0 @@
-struct TYPE_3__ | av_sync_type long | audio_st long | video_st long 
-function get_master_sync_type int | is struct TYPE_3__ *

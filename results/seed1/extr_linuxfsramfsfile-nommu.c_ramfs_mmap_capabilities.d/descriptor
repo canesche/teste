@@ -1,2 +1,0 @@
-struct file | dummy int 
-function ramfs_mmap_capabilities unsigned int | file struct file *

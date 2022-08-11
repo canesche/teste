@@ -1,5 +1,0 @@
-struct ra_ctx | swapchain struct TYPE_2__ * 
-struct priv | vk struct mpvk_ctx * 
-struct mpvk_ctx | dummy int 
-struct TYPE_2__ | priv struct priv * | fns int * 
-function ra_vk_ctx_get struct mpvk_ctx * | ctx struct ra_ctx *

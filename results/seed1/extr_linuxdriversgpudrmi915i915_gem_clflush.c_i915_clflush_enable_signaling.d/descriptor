@@ -1,2 +1,0 @@
-struct dma_fence | dummy int 
-function i915_clflush_enable_signaling int | fence struct dma_fence *

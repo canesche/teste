@@ -1,0 +1,4 @@
+struct TYPE_7__ | MaxBuffer int | DataNCCI int * 
+struct TYPE_6__ | ch_ncci int * | Id long 
+struct TYPE_5__ | adapter struct TYPE_6__ * | appl struct TYPE_7__ * 
+function channel_can_xon int | plci struct TYPE_5__ * | ch unsigned long

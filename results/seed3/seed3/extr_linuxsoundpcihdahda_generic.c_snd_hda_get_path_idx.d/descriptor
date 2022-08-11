@@ -1,0 +1,5 @@
+struct nid_path | dummy int 
+struct TYPE_2__ | used int | list struct nid_path * 
+struct hda_gen_spec | paths struct TYPE_2__ 
+struct hda_codec | spec struct hda_gen_spec * 
+function snd_hda_get_path_idx int | codec struct hda_codec * | path struct nid_path *

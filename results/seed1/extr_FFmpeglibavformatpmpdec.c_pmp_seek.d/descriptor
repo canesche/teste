@@ -1,3 +1,0 @@
-struct TYPE_5__ | priv_data struct TYPE_4__ * 
-struct TYPE_4__ | cur_stream long 
-function pmp_seek int | s struct TYPE_5__ * | stream_index int | ts int | flags int

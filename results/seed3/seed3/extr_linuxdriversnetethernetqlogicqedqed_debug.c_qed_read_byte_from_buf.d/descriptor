@@ -1,0 +1,1 @@
+function qed_read_byte_from_buf int | buf void * | offset int *

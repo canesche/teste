@@ -1,0 +1,2 @@
+struct hda_codec | dummy int 
+function hda_exec_init_verbs void | codec struct hda_codec *

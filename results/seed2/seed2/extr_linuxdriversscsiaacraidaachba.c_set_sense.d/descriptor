@@ -1,0 +1,2 @@
+struct sense_data | dummy int 
+function set_sense void | sense_data struct sense_data * | sense_key int | sense_code int | a_sense_code int | bit_pointer int | field_pointer int

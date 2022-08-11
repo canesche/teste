@@ -1,2 +1,0 @@
-struct dentry | dummy int 
-function always_delete_dentry int | dentry const struct dentry *

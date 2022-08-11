@@ -1,0 +1,2 @@
+struct qlcnic_83xx_dump_template_hdr | drv_cap_mask int 
+function qlcnic_83xx_store_cap_mask void | tmpl_hdr void * | mask int

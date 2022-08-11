@@ -1,2 +1,0 @@
-struct i5400_error_info | nrecmemb int 
-function nrec_cas int | info struct i5400_error_info *

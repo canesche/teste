@@ -1,0 +1,3 @@
+struct bq27xxx_dm_reg | subclass_id long | offset int 
+struct bq27xxx_dm_buf | class long | block int | data long 
+function bq27xxx_dm_reg_ptr int * | buf struct bq27xxx_dm_buf * | reg struct bq27xxx_dm_reg *

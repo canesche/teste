@@ -1,0 +1,4 @@
+struct TYPE_8__ | pvfy_flags int * | pcert_flags int * | max_version int * | min_version int * | poptions int * | ssl int * | ctx struct TYPE_7__ * 
+struct TYPE_7__ | verify_mode int | cert struct TYPE_6__ * | max_proto_version int | min_proto_version int | options int 
+struct TYPE_6__ | cert_flags int 
+function SSL_CONF_CTX_set_ssl_ctx void | cctx struct TYPE_8__ * | ctx struct TYPE_7__ *

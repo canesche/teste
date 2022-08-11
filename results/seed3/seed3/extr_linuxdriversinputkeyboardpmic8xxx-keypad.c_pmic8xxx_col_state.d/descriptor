@@ -1,0 +1,2 @@
+struct pmic8xxx_kp | num_cols int 
+function pmic8xxx_col_state int | kp struct pmic8xxx_kp * | col int

@@ -1,0 +1,2 @@
+struct iommu_table | it_base long 
+function tce_free_pSeries void | tbl struct iommu_table * | index long | npages long

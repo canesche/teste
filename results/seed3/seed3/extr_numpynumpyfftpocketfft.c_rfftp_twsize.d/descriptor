@@ -1,0 +1,3 @@
+struct TYPE_5__ | nfct unsigned long | length unsigned long | fct struct TYPE_4__ * 
+struct TYPE_4__ | fct unsigned long 
+function rfftp_twsize unsigned long | plan struct TYPE_5__ *

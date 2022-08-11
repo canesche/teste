@@ -1,2 +1,0 @@
-struct scsi_qla_host | aen_q_count int 
-function qla4xxx_init_local_data void | ha struct scsi_qla_host *

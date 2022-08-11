@@ -1,0 +1,6 @@
+struct soc_mixer_control | max int | min int 
+struct snd_kcontrol | private_value long 
+struct TYPE_4__ | min int | max int 
+struct TYPE_3__ | integer struct TYPE_4__ 
+struct snd_ctl_elem_info | count int | value struct TYPE_3__ | type int 
+function omap_mcbsp_st_info_volsw int | kcontrol struct snd_kcontrol * | uinfo struct snd_ctl_elem_info *

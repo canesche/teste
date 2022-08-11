@@ -1,0 +1,1 @@
+function hidma_txn_is_success int | cookie long | last_success long | last_used long

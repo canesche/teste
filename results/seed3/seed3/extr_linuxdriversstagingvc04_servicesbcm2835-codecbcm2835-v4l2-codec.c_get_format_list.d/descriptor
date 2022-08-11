@@ -1,0 +1,3 @@
+struct bcm2835_codec_fmt_list | dummy int 
+struct bcm2835_codec_dev | supported_fmts struct bcm2835_codec_fmt_list * 
+function get_format_list struct bcm2835_codec_fmt_list * | dev struct bcm2835_codec_dev * | capture int

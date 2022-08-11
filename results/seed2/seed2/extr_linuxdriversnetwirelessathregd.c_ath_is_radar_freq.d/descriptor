@@ -1,0 +1,2 @@
+struct ath_regulatory | country_code long 
+function ath_is_radar_freq int | center_freq int | reg struct ath_regulatory *

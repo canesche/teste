@@ -1,0 +1,2 @@
+struct TYPE_3__ | source int * 
+function obs_scene_get_source int * | scene const struct TYPE_3__ *

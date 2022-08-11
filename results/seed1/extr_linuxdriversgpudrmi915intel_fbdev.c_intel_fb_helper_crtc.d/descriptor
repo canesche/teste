@@ -1,5 +1,0 @@
-struct TYPE_2__ | crtc struct drm_crtc * 
-struct drm_fb_helper_crtc | mode_set struct TYPE_2__ 
-struct drm_fb_helper | crtc_count int | crtc_info struct drm_fb_helper_crtc * 
-struct drm_crtc | dummy int 
-function intel_fb_helper_crtc struct drm_fb_helper_crtc * | fb_helper struct drm_fb_helper * | crtc struct drm_crtc *

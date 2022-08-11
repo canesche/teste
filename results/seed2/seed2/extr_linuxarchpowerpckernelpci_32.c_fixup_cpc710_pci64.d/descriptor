@@ -1,0 +1,3 @@
+struct pci_dev | resource struct TYPE_2__ * 
+struct TYPE_2__ | flags long | end long | start long 
+function fixup_cpc710_pci64 void | dev struct pci_dev *

@@ -1,0 +1,4 @@
+struct TYPE_5__ | BarId int 
+struct TYPE_7__ | hWndClient long | Next struct TYPE_7__ * | DockBar struct TYPE_5__ 
+struct TYPE_6__ | Items struct TYPE_7__ * 
+function TbdDockBarIdFromClientWindow int | TbDocks struct TYPE_6__ * | hWndClient long | Id int *

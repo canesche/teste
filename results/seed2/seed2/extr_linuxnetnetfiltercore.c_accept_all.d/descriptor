@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct nf_hook_state | dummy int 
+function accept_all unsigned int | priv void * | skb struct sk_buff * | state const struct nf_hook_state *

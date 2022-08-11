@@ -1,0 +1,1 @@
+function shadow_leak_ctor int | obj void * | shadow_data void * | ctor_data void *

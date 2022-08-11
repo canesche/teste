@@ -1,0 +1,12 @@
+struct TYPE_19__ | sliceModeData int | sliceMode int 
+struct TYPE_17__ | sliceModeData int | sliceMode int 
+struct TYPE_20__ | hevcConfig struct TYPE_19__ | h264Config struct TYPE_17__ 
+struct TYPE_21__ | encodeCodecConfig struct TYPE_20__ 
+struct TYPE_24__ | encode_config struct TYPE_21__ 
+struct TYPE_22__ | seiPayloadArrayCnt int | seiPayloadArray int * | sliceModeData int | sliceMode int 
+struct TYPE_18__ | seiPayloadArrayCnt int | seiPayloadArray int * | sliceModeData int | sliceMode int 
+struct TYPE_23__ | hevcPicParams struct TYPE_22__ | h264PicParams struct TYPE_18__ 
+struct TYPE_16__ | id int 
+struct TYPE_15__ | codec struct TYPE_16__ * | priv_data struct TYPE_24__ * 
+struct TYPE_14__ | codecPicParams struct TYPE_23__ 
+function nvenc_codec_specific_pic_params void | avctx struct TYPE_15__ * | params struct TYPE_14__ * | sei_data int *

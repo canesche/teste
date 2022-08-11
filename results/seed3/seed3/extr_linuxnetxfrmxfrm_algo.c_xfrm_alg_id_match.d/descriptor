@@ -1,0 +1,3 @@
+struct TYPE_2__ | sadb_alg_id unsigned long 
+struct xfrm_algo_desc | desc struct TYPE_2__ 
+function xfrm_alg_id_match int | entry const struct xfrm_algo_desc * | data const void *

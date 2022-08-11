@@ -1,0 +1,2 @@
+struct ib_sge | length long 
+function ocrdma_sglist_len int | sg_list struct ib_sge * | num_sge int

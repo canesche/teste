@@ -1,0 +1,2 @@
+struct cfg80211_ap_settings | ht_required int | vht_required int 
+function nl80211_check_ap_rate_selectors void | params struct cfg80211_ap_settings * | rates const int *

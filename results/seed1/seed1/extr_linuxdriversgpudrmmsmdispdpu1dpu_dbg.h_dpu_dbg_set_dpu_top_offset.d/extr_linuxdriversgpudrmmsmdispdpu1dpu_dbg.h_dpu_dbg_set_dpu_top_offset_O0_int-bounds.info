@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpudrmmsmdispdpu1dpu_dbg.h_dpu_dbg_set_dpu_top_offset.d/extr_linuxdriversgpudrmmsmdispdpu1dpu_dbg.h_dpu_dbg_set_dpu_top_offset_O0::dpu_dbg_set_dpu_top_offset(61)"
+  }
+]

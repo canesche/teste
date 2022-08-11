@@ -1,0 +1,2 @@
+struct mtd_info | dummy int 
+function mxc_nand_dev_ready int | mtd struct mtd_info *

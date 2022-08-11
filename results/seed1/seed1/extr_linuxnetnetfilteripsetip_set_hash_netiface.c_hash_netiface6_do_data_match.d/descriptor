@@ -1,0 +1,2 @@
+struct hash_netiface6_elem | nomatch long 
+function hash_netiface6_do_data_match int | elem const struct hash_netiface6_elem *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | descriptor const unsigned char | tlb_type int | entries int 
+function intel_tlb_lookup void | desc const unsigned char

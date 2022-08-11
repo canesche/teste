@@ -1,2 +1,0 @@
-struct net_bridge_port | dummy int 
-function br_netpoll_disable void | p struct net_bridge_port *

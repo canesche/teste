@@ -1,0 +1,3 @@
+struct snd_kcontrol | dummy int 
+struct snd_ctl_elem_info | count int | type int 
+function spdif_info int | ctl struct snd_kcontrol * | info struct snd_ctl_elem_info *

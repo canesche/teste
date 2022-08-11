@@ -1,0 +1,2 @@
+struct aq_ring_s | sw_tail long | sw_head long | hw_head long 
+function aq_ring_init int | self struct aq_ring_s *

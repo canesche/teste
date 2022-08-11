@@ -1,0 +1,2 @@
+struct ipr_ioa_cfg | dummy int 
+function ipr_free_dump int | ioa_cfg struct ipr_ioa_cfg *

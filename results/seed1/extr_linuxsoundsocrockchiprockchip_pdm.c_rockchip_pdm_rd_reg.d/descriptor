@@ -1,2 +1,0 @@
-struct device | dummy int 
-function rockchip_pdm_rd_reg int | dev struct device * | reg unsigned int

@@ -1,0 +1,2 @@
+struct pinctrl_dev | dummy int 
+function sirfsoc_pinmux_get_funcs_count int | pmxdev struct pinctrl_dev *

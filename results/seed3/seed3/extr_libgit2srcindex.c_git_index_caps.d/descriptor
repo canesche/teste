@@ -1,0 +1,2 @@
+struct TYPE_3__ | no_symlinks long | distrust_filemode long | ignore_case long 
+function git_index_caps int | index const struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct optimised_sbox | output unsigned long * | input_lookup int * 
+function fn unsigned long | in unsigned long | sboxes const struct optimised_sbox * | key int

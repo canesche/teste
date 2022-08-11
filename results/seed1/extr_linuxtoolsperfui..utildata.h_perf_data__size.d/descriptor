@@ -1,2 +1,0 @@
-struct perf_data | size unsigned long 
-function perf_data__size unsigned long | data struct perf_data *

@@ -1,0 +1,2 @@
+struct m_opt_choice_alternatives | name const char * | value int 
+function m_opt_choice_str const char * | choices const struct m_opt_choice_alternatives * | value int

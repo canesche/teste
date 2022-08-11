@@ -1,0 +1,1 @@
+function restore_rgb_planes_c void | src_r long * | src_g long * | src_b long * | linesize_r int | linesize_g int | linesize_b int | width int | height int

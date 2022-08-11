@@ -1,0 +1,2 @@
+struct fbd | dma_ctrl int 
+function set_dma_ctrl void | fb_desc struct fbd * | ctrl int

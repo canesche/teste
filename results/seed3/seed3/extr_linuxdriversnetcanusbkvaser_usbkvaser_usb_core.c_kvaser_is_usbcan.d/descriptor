@@ -1,0 +1,2 @@
+struct usb_device_id | idProduct long 
+function kvaser_is_usbcan int | id const struct usb_device_id *

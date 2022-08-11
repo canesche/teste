@@ -1,0 +1,1 @@
+function zend_register_extension int | new_extension int * | handle int

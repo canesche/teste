@@ -1,0 +1,2 @@
+struct rtl8169_private | cur_rx long | cur_tx long | dirty_tx long 
+function rtl8169_init_ring_indexes void | tp struct rtl8169_private *

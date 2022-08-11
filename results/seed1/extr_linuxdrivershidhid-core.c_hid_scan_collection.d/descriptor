@@ -1,5 +1,0 @@
-struct TYPE_4__ | usage_page int 
-struct TYPE_3__ | usage_index int | usage long * 
-struct hid_parser | scan_flags int | global struct TYPE_4__ | local struct TYPE_3__ | device struct hid_device * 
-struct hid_device | group long | vendor long | product long 
-function hid_scan_collection void | parser struct hid_parser * | type unsigned int

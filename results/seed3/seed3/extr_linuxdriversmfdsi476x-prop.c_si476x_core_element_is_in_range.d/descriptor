@@ -1,0 +1,2 @@
+struct si476x_property_range | high long | low long 
+function si476x_core_element_is_in_range int | element long | range struct si476x_property_range const[] | size unsigned long

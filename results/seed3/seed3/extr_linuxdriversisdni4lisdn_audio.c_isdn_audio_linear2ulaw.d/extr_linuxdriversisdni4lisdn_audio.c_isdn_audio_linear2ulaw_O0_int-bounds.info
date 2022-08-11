@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversisdni4lisdn_audio.c_isdn_audio_linear2ulaw.d/extr_linuxdriversisdni4lisdn_audio.c_isdn_audio_linear2ulaw_O0::isdn_audio_linear2ulaw(63)"
+  }
+]

@@ -1,0 +1,3 @@
+struct nvkm_fb_tile | zcomp long | pitch long | limit long | addr long 
+struct nvkm_fb | dummy int 
+function nv10_fb_tile_fini void | fb struct nvkm_fb * | i int | tile struct nvkm_fb_tile *

@@ -1,0 +1,2 @@
+struct spu | dummy int 
+function tlb_invalidate void | spu struct spu *

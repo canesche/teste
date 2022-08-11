@@ -1,2 +1,0 @@
-struct bus_type | iommu_ops int * 
-function iommu_present int | bus struct bus_type *

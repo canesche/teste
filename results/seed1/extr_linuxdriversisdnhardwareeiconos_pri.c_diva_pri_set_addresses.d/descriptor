@@ -1,5 +1,0 @@
-struct TYPE_7__ | mem_type_id int * | addr int * | bar int * 
-struct TYPE_8__ | pci struct TYPE_7__ 
-struct TYPE_6__ | prom int | sdram_bar int | cfg int | reset int | ram int | Config int | Control int | Address int 
-struct TYPE_9__ | resources struct TYPE_8__ | xdi_adapter struct TYPE_6__ 
-function diva_pri_set_addresses void | a struct TYPE_9__ *

@@ -1,0 +1,1 @@
+function tpacpi_is_led_restricted int | led const unsigned int

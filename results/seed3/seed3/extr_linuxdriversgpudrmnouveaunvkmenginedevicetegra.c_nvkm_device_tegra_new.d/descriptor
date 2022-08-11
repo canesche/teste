@@ -1,0 +1,4 @@
+struct platform_device | dummy int 
+struct nvkm_device_tegra_func | dummy int 
+struct nvkm_device | dummy int 
+function nvkm_device_tegra_new int | func const struct nvkm_device_tegra_func * | pdev struct platform_device * | cfg const char * | dbg const char * | detect int | mmio int | subdev_mask int | pdevice struct nvkm_device **

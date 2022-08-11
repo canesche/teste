@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function w5100_get_regs_len int | ndev struct net_device *

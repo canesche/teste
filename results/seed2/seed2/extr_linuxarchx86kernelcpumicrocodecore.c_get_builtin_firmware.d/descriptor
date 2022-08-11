@@ -1,0 +1,2 @@
+struct cpio_data | dummy int 
+function get_builtin_firmware int | cd struct cpio_data * | name const char *

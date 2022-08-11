@@ -1,0 +1,6 @@
+struct TYPE_4__ | pkts int * 
+struct iwl_mvm_tcm_mac | tx struct TYPE_4__ 
+struct iwl_mvm_sta | mac_id_n_color int 
+struct TYPE_3__ | data struct iwl_mvm_tcm_mac * 
+struct iwl_mvm | tcm struct TYPE_3__ 
+function iwl_mvm_tx_pkt_queued void | mvm struct iwl_mvm * | mvmsta struct iwl_mvm_sta * | tid int

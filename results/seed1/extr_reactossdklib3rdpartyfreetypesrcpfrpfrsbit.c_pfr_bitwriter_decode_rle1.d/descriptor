@@ -1,2 +1,0 @@
-struct TYPE_3__ | width long | total long | line long * | pitch int 
-function pfr_bitwriter_decode_rle1 void | writer struct TYPE_3__ * | p long * | limit long *

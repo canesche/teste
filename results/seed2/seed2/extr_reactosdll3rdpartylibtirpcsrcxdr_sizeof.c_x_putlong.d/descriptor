@@ -1,0 +1,2 @@
+struct TYPE_3__ | x_handy int 
+function x_putlong int | xdrs struct TYPE_3__ * | longp const long *

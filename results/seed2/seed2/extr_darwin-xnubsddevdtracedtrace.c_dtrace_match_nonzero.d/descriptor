@@ -1,0 +1,1 @@
+function dtrace_match_nonzero int | s const char * | p const char * | depth int

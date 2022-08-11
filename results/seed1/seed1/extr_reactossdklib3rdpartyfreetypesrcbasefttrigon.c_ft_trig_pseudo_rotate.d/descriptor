@@ -1,0 +1,2 @@
+struct TYPE_3__ | x int | y int 
+function ft_trig_pseudo_rotate void | vec struct TYPE_3__ * | theta int

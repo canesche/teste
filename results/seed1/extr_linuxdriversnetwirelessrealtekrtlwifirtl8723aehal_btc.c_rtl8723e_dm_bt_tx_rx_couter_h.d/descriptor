@@ -1,3 +1,0 @@
-struct ieee80211_hw | dummy int 
-struct TYPE_2__ | high_priority_rx long | high_priority_tx long 
-function rtl8723e_dm_bt_tx_rx_couter_h long | hw struct ieee80211_hw *

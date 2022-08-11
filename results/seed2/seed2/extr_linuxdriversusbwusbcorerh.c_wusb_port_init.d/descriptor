@@ -1,0 +1,2 @@
+struct wusb_port | status int 
+function wusb_port_init void | port struct wusb_port *

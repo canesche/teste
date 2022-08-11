@@ -1,0 +1,3 @@
+struct mt76x0_dev | ee struct TYPE_2__ * 
+struct TYPE_2__ | tx_pwr_per_chan int * 
+function mt76x0_set_tx_power_per_chan void | dev struct mt76x0_dev * | eeprom int *

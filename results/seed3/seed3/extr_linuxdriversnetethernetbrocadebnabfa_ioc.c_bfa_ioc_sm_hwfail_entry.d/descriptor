@@ -1,0 +1,2 @@
+struct bfa_ioc | dummy int 
+function bfa_ioc_sm_hwfail_entry void | ioc struct bfa_ioc *

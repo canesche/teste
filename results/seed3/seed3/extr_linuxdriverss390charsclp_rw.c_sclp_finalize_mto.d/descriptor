@@ -1,0 +1,8 @@
+struct sclp_buffer | current_msg struct msg_buf * | current_length long | current_line int * | char_sum int | messages int | sccb struct sccb_header * 
+struct sccb_header | length int 
+struct TYPE_8__ | length long 
+struct TYPE_6__ | length int 
+struct TYPE_5__ | length int 
+struct TYPE_7__ | mto struct TYPE_6__ | header struct TYPE_5__ 
+struct msg_buf | header struct TYPE_8__ | mdb struct TYPE_7__ 
+function sclp_finalize_mto void | buffer struct sclp_buffer *

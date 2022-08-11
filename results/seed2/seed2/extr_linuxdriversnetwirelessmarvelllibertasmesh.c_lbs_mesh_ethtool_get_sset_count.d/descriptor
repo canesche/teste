@@ -1,0 +1,3 @@
+struct net_device | ml_priv struct lbs_private * 
+struct lbs_private | mesh_dev struct net_device * 
+function lbs_mesh_ethtool_get_sset_count int | dev struct net_device * | sset int

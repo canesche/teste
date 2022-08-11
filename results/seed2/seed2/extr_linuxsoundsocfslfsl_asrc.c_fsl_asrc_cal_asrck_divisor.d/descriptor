@@ -1,0 +1,2 @@
+struct fsl_asrc_pair | dummy int 
+function fsl_asrc_cal_asrck_divisor int | pair struct fsl_asrc_pair * | div int

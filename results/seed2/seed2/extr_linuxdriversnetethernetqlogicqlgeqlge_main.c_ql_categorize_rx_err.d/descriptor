@@ -1,0 +1,4 @@
+struct rx_ring | rx_errors int 
+struct nic_stats | rx_crc_err int | rx_frame_len_err int | rx_preamble_err int | rx_undersize_err int | rx_oversize_err int | rx_code_err int | rx_err_count int 
+struct ql_adapter | nic_stats struct nic_stats 
+function ql_categorize_rx_err void | qdev struct ql_adapter * | rx_err int | rx_ring struct rx_ring *

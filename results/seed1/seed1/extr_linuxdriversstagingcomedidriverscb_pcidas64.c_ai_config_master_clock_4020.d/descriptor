@@ -1,0 +1,4 @@
+struct TYPE_2__ | divisor unsigned int | chanspec unsigned int 
+struct pcidas64_private | ext_clock struct TYPE_2__ 
+struct comedi_device | private struct pcidas64_private * 
+function ai_config_master_clock_4020 int | dev struct comedi_device * | data unsigned int *

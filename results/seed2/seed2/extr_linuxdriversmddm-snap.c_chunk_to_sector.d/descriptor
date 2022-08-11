@@ -1,0 +1,2 @@
+struct dm_exception_store | chunk_shift int 
+function chunk_to_sector int | store struct dm_exception_store * | chunk int

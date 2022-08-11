@@ -1,0 +1,3 @@
+struct crypto4xx_ctx | sa_len long | sa_out int * | sa_in int * | dev int 
+struct crypto4xx_alg | dev int 
+function crypto4xx_ctx_init void | amcc_alg struct crypto4xx_alg * | ctx struct crypto4xx_ctx *

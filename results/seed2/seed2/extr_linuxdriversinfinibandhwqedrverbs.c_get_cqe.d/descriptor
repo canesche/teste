@@ -1,0 +1,3 @@
+struct rdma_cqe | dummy int 
+struct qedr_cq | latest_cqe union rdma_cqe * 
+function get_cqe union rdma_cqe * | cq struct qedr_cq *

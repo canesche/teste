@@ -1,2 +1,0 @@
-struct TYPE_3__ | resp_size int 
-function inc_resp_size void | glog struct TYPE_3__ * | resp_size long

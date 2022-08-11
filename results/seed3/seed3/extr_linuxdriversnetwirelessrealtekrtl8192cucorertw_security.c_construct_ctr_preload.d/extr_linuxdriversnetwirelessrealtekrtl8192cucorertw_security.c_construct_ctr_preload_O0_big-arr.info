@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 15,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 23,
+    static: {
+      instructions: 83,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 364,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetwirelessrealtekrtl8192cucorertw_security.c_construct_ctr_preload.d/extr_linuxdriversnetwirelessrealtekrtl8192cucorertw_security.c_construct_ctr_preload_O0::construct_ctr_preload(73)"
+  }
+]

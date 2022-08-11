@@ -1,2 +1,0 @@
-struct xhci_hcd | quirks int 
-function xhci_hub_report_usb3_link_state void | xhci struct xhci_hcd * | status int * | status_reg int

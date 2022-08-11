@@ -1,0 +1,2 @@
+struct nvkm_clk | dummy int 
+function mcp77_clk_tidy void | base struct nvkm_clk *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | glyph_ids long * 
+function get_first_last_from_cmap0 int | ptr void * | first int * | last int *

@@ -1,0 +1,5 @@
+struct TYPE_4__ | rar_entry_count int 
+struct e1000_hw | mac struct TYPE_4__ 
+struct igb_adapter | vfs_allocated_count int | mac_table struct TYPE_3__ * | hw struct e1000_hw 
+struct TYPE_3__ | state int | queue long 
+function igb_available_rars int | adapter struct igb_adapter * | queue long

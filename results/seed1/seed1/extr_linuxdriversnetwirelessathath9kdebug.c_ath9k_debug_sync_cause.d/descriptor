@@ -1,0 +1,5 @@
+struct TYPE_4__ | mac_sleep_access int | mac_asleep int | mac_awake int | pm_access int | local_timeout int | radm_cpl_timeout int | radm_cpl_ecrc_err int | radm_cpl_tlp_abort int | radm_cpl_dllp_abort int | radm_cpl_ep int | trcv_fifo_perr int | host1_perr int | host1_fatal int | pci_mode_conflict int | apb_timeout int | eeprom_illegal_access int | sync_mac_irq int | sync_rtc_irq int | sync_cause_all int 
+struct TYPE_5__ | istats struct TYPE_4__ 
+struct TYPE_6__ | stats struct TYPE_5__ 
+struct ath_softc | debug struct TYPE_6__ 
+function ath9k_debug_sync_cause void | sc struct ath_softc * | sync_cause int

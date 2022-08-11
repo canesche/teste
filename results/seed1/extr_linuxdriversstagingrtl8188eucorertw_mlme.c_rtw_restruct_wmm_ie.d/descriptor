@@ -1,2 +1,0 @@
-struct adapter | dummy int 
-function rtw_restruct_wmm_ie int | adapter struct adapter * | in_ie int * | out_ie int * | in_len unsigned int | initial_out_len unsigned int

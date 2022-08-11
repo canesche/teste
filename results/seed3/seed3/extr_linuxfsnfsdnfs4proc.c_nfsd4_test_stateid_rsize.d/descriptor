@@ -1,0 +1,5 @@
+struct svc_rqst | dummy int 
+struct TYPE_3__ | ts_num_ids int 
+struct TYPE_4__ | test_stateid struct TYPE_3__ 
+struct nfsd4_op | u struct TYPE_4__ 
+function nfsd4_test_stateid_rsize int | rqstp struct svc_rqst * | op struct nfsd4_op *

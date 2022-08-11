@@ -1,0 +1,3 @@
+struct soc_pcmcia_socket | stat struct TYPE_2__ * 
+struct TYPE_2__ | name char * | gpio int 
+function sg2_pcmcia_hw_init int | skt struct soc_pcmcia_socket *

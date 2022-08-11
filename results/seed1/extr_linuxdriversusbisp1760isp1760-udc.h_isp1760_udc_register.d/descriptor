@@ -1,2 +1,0 @@
-struct isp1760_device | dummy int 
-function isp1760_udc_register int | isp struct isp1760_device * | irq int | irqflags unsigned long

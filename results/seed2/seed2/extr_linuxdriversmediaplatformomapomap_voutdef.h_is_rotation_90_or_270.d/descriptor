@@ -1,0 +1,2 @@
+struct omap_vout_device | rotation long 
+function is_rotation_90_or_270 int | vout const struct omap_vout_device *

@@ -1,0 +1,4 @@
+struct TYPE_5__ | offset int | size int 
+struct TYPE_6__ | argument struct TYPE_5__ 
+struct TYPE_7__ | flags int | outputs int * | output_size int | inputs int * | input_size int | case_of struct TYPE_6__ 
+function _ccv_nnc_symbolic_graph_backward_exec_io void | node const struct TYPE_7__ *const | back_input_map int **const | back_output_map int **const | back_input_size int *const | back_output_size int *const

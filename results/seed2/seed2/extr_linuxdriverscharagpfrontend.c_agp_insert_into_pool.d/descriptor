@@ -1,0 +1,4 @@
+struct agp_memory | next struct agp_memory * | prev struct agp_memory * 
+struct TYPE_4__ | current_controller struct TYPE_3__ * 
+struct TYPE_3__ | pool struct agp_memory * 
+function agp_insert_into_pool void | temp struct agp_memory *

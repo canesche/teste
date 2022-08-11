@@ -1,0 +1,3 @@
+struct mvebu_mpp_mode | settings struct mvebu_mpp_ctrl_setting * 
+struct mvebu_mpp_ctrl_setting | variant int | name long 
+function mvebu_pinctrl_assign_variant void | m struct mvebu_mpp_mode * | variant int

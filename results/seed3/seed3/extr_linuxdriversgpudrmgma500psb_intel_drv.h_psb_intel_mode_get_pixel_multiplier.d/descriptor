@@ -1,0 +1,2 @@
+struct drm_display_mode | private_flags int 
+function psb_intel_mode_get_pixel_multiplier int | mode const struct drm_display_mode *

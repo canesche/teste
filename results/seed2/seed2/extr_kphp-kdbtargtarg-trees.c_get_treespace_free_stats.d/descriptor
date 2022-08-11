@@ -1,0 +1,2 @@
+struct TYPE_2__ | free_queue_cnt int | free_queue long * 
+function get_treespace_free_stats int | TS int

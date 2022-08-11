@@ -1,0 +1,2 @@
+struct rtllib_network | rates_ex_len long | rates_len int 
+function rtllib_is_54g short | net struct rtllib_network *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | num int | denom int 
+function _aligned_strided_to_strided_datetime_cast void | dst char * | dst_stride long | src char * | src_stride long | N long | src_itemsize long | data int *

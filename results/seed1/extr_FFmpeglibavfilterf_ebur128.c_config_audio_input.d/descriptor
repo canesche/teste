@@ -1,4 +1,0 @@
-struct TYPE_7__ | priv struct TYPE_5__ * 
-struct TYPE_6__ | min_samples int | max_samples int | partial_buf_size int | sample_rate int | dst struct TYPE_7__ * 
-struct TYPE_5__ | peak_mode int | metadata long 
-function config_audio_input int | inlink struct TYPE_6__ *

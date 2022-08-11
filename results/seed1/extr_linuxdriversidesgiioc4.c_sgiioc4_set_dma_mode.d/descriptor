@@ -1,1 +1,0 @@
-function sgiioc4_set_dma_mode void | hwif int * | drive int *

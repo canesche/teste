@@ -1,0 +1,3 @@
+struct snd_pcm | device unsigned long | private_data struct snd_ali * 
+struct snd_ali | pcm int ** 
+function snd_ali_pcm_free void | pcm struct snd_pcm *

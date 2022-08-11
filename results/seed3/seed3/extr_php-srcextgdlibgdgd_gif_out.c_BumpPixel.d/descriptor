@@ -1,0 +1,2 @@
+struct TYPE_3__ | curx long | Width long | cury int | Pass int | Height int | Interlace int 
+function BumpPixel void | ctx struct TYPE_3__ *

@@ -1,0 +1,3 @@
+struct vo_internal | terminate int 
+struct vo | in struct vo_internal * 
+function terminate_vo void | p void *

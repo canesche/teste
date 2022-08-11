@@ -1,5 +1,0 @@
-struct TYPE_4__ | type long | id long | off long 
-struct TYPE_3__ | off long 
-struct nfp_insn_meta | ptr struct TYPE_4__ | insn struct TYPE_3__ 
-struct bpf_insn | off long 
-function cross_mem_access int | ld struct bpf_insn * | head_ld_meta struct nfp_insn_meta * | head_st_meta struct nfp_insn_meta *

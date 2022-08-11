@@ -1,0 +1,3 @@
+struct engine | ctx struct dc_context * | ddc int * 
+struct dc_context | dummy int 
+function dal_i2caux_construct_engine void | engine struct engine * | ctx struct dc_context *

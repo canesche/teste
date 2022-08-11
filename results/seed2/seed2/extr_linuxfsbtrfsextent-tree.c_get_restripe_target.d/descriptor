@@ -1,0 +1,6 @@
+struct btrfs_fs_info | balance_ctl struct btrfs_balance_control * 
+struct TYPE_6__ | flags int | target int 
+struct TYPE_5__ | flags int | target int 
+struct TYPE_4__ | flags int | target int 
+struct btrfs_balance_control | meta struct TYPE_6__ | sys struct TYPE_5__ | data struct TYPE_4__ 
+function get_restripe_target int | fs_info struct btrfs_fs_info * | flags int

@@ -1,2 +1,0 @@
-struct diag204_x_cpu_info | online_time int 
-function cpu_info__online_time int | type enum diag204_format | hdr void *

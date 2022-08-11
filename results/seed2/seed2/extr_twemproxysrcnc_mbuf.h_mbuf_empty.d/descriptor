@@ -1,0 +1,2 @@
+struct mbuf | pos long | last long 
+function mbuf_empty int | mbuf struct mbuf *

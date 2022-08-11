@@ -1,0 +1,3 @@
+struct rxrpc_call | dummy int 
+struct afs_call | rxcall struct rxrpc_call * 
+function afs_rx_attach void | rxcall struct rxrpc_call * | user_call_ID unsigned long

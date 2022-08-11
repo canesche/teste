@@ -1,0 +1,2 @@
+struct mtd_blktrans_dev | bg_stop int 
+function mtd_blktrans_cease_background int | dev struct mtd_blktrans_dev *

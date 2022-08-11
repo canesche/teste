@@ -1,0 +1,2 @@
+struct dso | symtab_type int | kernel int 
+function dso__is_compatible_symtab_type int | dso struct dso * | kmod int | type enum dso_binary_type

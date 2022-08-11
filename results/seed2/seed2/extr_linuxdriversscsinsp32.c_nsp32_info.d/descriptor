@@ -1,0 +1,3 @@
+struct Scsi_Host | hostdata long 
+struct TYPE_2__ | info_str const char * 
+function nsp32_info const char * | shpnt struct Scsi_Host *

@@ -1,3 +1,0 @@
-struct tipc_msg | dummy int 
-struct sk_buff | data long 
-function buf_msg struct tipc_msg * | skb struct sk_buff *

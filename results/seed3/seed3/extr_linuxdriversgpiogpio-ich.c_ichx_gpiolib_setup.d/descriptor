@@ -1,0 +1,5 @@
+struct gpio_chip | can_sleep int | dbg_show int * | ngpio int | base int | direction_output int | direction_input int | get_direction int | set int | get long | request long | parent int * | label int | owner int 
+struct TYPE_6__ | desc struct TYPE_5__ * | dev struct TYPE_4__ * 
+struct TYPE_5__ | ngpio int | get long | request long 
+struct TYPE_4__ | dev int 
+function ichx_gpiolib_setup void | chip struct gpio_chip *

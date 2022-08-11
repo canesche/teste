@@ -1,3 +1,0 @@
-struct PayloadsUDP | count unsigned int | list struct TYPE_2__ ** 
-struct TYPE_2__ | port unsigned int | buf unsigned char * | length unsigned int | source_port unsigned int | set_cookie int | xsum int 
-function payloads_udp_lookup int | payloads const struct PayloadsUDP * | port unsigned int | px const unsigned char ** | length unsigned int * | source_port unsigned int * | xsum int * | set_cookie int *

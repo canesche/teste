@@ -1,0 +1,3 @@
+struct spu_pdata | dummy int 
+struct spu | pdata struct spu_pdata * 
+function spu_pdata struct spu_pdata * | spu struct spu *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | page_size long | page_starts_count int | page_extras_count int 
+function vm_shared_region_slide_sanity_check_v2 int | s_info struct TYPE_3__ * | slide_info_size int

@@ -1,0 +1,2 @@
+struct ak8974 | drdy_irq int 
+function ak8974_drdy_irq int | irq int | d void *

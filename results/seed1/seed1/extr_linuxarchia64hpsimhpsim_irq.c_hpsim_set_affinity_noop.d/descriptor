@@ -1,0 +1,3 @@
+struct irq_data | dummy int 
+struct cpumask | dummy int 
+function hpsim_set_affinity_noop int | d struct irq_data * | b const struct cpumask * | f int

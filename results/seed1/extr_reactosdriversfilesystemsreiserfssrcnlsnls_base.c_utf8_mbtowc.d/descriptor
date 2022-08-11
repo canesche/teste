@@ -1,2 +1,0 @@
-struct utf8_table | cmask int | cval int | lmask long | lval long 
-function utf8_mbtowc int | p long * | s const int * | n int

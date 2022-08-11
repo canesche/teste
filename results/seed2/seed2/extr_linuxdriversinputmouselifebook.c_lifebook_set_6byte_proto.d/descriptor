@@ -1,0 +1,2 @@
+struct dmi_system_id | dummy int 
+function lifebook_set_6byte_proto int | d const struct dmi_system_id *

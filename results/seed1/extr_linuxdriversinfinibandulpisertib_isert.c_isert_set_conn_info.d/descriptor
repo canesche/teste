@@ -1,8 +1,0 @@
-struct TYPE_4__ | src_addr int | dst_addr int 
-struct rdma_route | addr struct TYPE_4__ 
-struct rdma_cm_id | route struct rdma_route 
-struct isert_conn | cm_id struct rdma_cm_id * 
-struct TYPE_3__ | ss_family int 
-struct iscsi_np | np_sockaddr struct TYPE_3__ 
-struct iscsi_conn | local_sockaddr int | login_sockaddr int | login_family int 
-function isert_set_conn_info void | np struct iscsi_np * | conn struct iscsi_conn * | isert_conn struct isert_conn *

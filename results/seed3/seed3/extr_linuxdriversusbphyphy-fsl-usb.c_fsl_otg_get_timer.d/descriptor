@@ -1,0 +1,2 @@
+struct fsl_otg_timer | dummy int 
+function fsl_otg_get_timer struct fsl_otg_timer * | t enum otg_fsm_timer

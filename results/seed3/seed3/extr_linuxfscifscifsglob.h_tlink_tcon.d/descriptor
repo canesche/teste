@@ -1,0 +1,3 @@
+struct tcon_link | tl_tcon struct cifs_tcon * 
+struct cifs_tcon | dummy int 
+function tlink_tcon struct cifs_tcon * | tlink struct tcon_link *

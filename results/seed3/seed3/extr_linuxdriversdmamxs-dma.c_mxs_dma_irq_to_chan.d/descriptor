@@ -1,0 +1,3 @@
+struct mxs_dma_engine | nr_channels int | mxs_chans struct TYPE_2__ * 
+struct TYPE_2__ | chan_irq int 
+function mxs_dma_irq_to_chan int | mxs_dma struct mxs_dma_engine * | irq int

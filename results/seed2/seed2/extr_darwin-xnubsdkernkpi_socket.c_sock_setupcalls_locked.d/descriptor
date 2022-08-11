@@ -1,0 +1,4 @@
+struct TYPE_6__ | sb_flags int | sb_upcallarg int * | sb_upcall int * 
+struct TYPE_5__ | sb_flags int | sb_upcallarg int * | sb_upcall int * 
+struct TYPE_7__ | so_snd struct TYPE_6__ | so_rcv struct TYPE_5__ 
+function sock_setupcalls_locked void | sock struct TYPE_7__ * | rcallback int * | rcontext void * | wcallback int * | wcontext void * | locked int

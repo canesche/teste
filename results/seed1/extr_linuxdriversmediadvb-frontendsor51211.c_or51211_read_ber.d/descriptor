@@ -1,2 +1,0 @@
-struct dvb_frontend | dummy int 
-function or51211_read_ber int | fe struct dvb_frontend * | ber int *

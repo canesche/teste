@@ -1,0 +1,3 @@
+struct ib_sge | lkey int | length int | addr int 
+struct i40iw_sge | stag int | len int | tag_off int 
+function i40iw_copy_sg_list void | sg_list struct i40iw_sge * | sgl struct ib_sge * | num_sges int

@@ -1,2 +1,0 @@
-struct comedi_device | dummy int 
-function labpc_init_dma_chan void | dev struct comedi_device * | dma_chan unsigned int

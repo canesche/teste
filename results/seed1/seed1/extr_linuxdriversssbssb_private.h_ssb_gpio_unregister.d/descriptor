@@ -1,0 +1,2 @@
+struct ssb_bus | dummy int 
+function ssb_gpio_unregister int | bus struct ssb_bus *

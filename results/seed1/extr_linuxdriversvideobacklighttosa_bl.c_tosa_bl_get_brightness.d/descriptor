@@ -1,3 +1,0 @@
-struct backlight_properties | brightness int 
-struct backlight_device | props struct backlight_properties 
-function tosa_bl_get_brightness int | dev struct backlight_device *

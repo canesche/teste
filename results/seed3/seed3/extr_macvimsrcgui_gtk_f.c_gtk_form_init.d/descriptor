@@ -1,0 +1,2 @@
+struct TYPE_3__ | width int | height int | freeze_count long | visibility int | configure_serial long | bin_window int * | children int * 
+function gtk_form_init void | form struct TYPE_3__ *

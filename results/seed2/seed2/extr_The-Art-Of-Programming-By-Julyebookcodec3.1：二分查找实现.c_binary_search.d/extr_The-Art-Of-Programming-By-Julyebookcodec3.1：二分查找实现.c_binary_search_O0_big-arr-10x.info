@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 116,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_The-Art-Of-Programming-By-Julyebookcodec3.1：二分查找实现.c_binary_search.d/extr_The-Art-Of-Programming-By-Julyebookcodec3.1：二分查找实现.c_binary_search_O0::binary_search(60)"
+  }
+]

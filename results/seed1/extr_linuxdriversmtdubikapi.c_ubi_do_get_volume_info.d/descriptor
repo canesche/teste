@@ -1,5 +1,0 @@
-struct ubi_volume_info | cdev int | name int | name_len int | usable_leb_size int | alignment int | upd_marker int | corrupted int | vol_type int | used_bytes int | size int | ubi_num int | vol_id int 
-struct TYPE_2__ | dev int 
-struct ubi_volume | cdev struct TYPE_2__ | name int | name_len int | usable_leb_size int | alignment int | upd_marker int | corrupted int | vol_type int | used_bytes int | reserved_pebs int | vol_id int 
-struct ubi_device | ubi_num int 
-function ubi_do_get_volume_info void | ubi struct ubi_device * | vol struct ubi_volume * | vi struct ubi_volume_info *

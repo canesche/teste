@@ -1,4 +1,0 @@
-struct brcms_c_info | bandstate struct TYPE_4__ ** | stf struct TYPE_3__ * 
-struct TYPE_4__ | band_stf_stbc_tx void * 
-struct TYPE_3__ | txstreams int 
-function brcms_c_stf_stbc_tx_set int | wlc struct brcms_c_info * | int_val long

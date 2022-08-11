@@ -1,0 +1,1 @@
+function virt_addr_uncached int | kaddr unsigned long

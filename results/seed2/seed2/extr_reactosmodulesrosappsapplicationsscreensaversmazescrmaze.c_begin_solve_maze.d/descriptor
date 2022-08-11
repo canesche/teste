@@ -1,0 +1,2 @@
+struct TYPE_2__ | x unsigned long | y unsigned long | dir int 
+function begin_solve_maze void | hWnd int

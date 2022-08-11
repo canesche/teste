@@ -1,2 +1,0 @@
-struct push_cas_option | nr int | use_tracking_for_rest int 
-function is_empty_cas int | cas const struct push_cas_option *

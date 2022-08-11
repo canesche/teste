@@ -1,0 +1,2 @@
+struct nfc_digital_dev | dummy int 
+function st95hf_abort_cmd void | ddev struct nfc_digital_dev *

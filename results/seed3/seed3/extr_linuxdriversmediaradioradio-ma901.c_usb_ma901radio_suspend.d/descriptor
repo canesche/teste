@@ -1,0 +1,2 @@
+struct usb_interface | dummy int 
+function usb_ma901radio_suspend int | intf struct usb_interface * | message int

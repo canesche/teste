@@ -1,0 +1,2 @@
+struct twl4030_keypad | n_cols int 
+function twl4030_col_xlate int | kp struct twl4030_keypad * | col int

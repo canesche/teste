@@ -1,0 +1,3 @@
+struct drm_i915_gem_object | stolen struct TYPE_2__ * 
+struct TYPE_2__ | start long 
+function obj_rank_by_stolen int | A const void * | B const void *

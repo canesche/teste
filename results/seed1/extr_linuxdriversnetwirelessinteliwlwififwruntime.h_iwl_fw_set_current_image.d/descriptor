@@ -1,2 +1,0 @@
-struct iwl_fw_runtime | cur_fw_img int 
-function iwl_fw_set_current_image void | fwrt struct iwl_fw_runtime * | cur_fw_img enum iwl_ucode_type

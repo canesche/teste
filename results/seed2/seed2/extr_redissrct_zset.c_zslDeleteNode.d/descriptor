@@ -1,0 +1,6 @@
+struct TYPE_12__ | backward int | level struct TYPE_9__ * 
+struct TYPE_13__ | level int | length int | header struct TYPE_11__ * | tail int 
+struct TYPE_11__ | level struct TYPE_10__ * 
+struct TYPE_10__ | forward int * 
+struct TYPE_9__ | span int | forward struct TYPE_12__ * 
+function zslDeleteNode void | zsl struct TYPE_13__ * | x struct TYPE_12__ * | update struct TYPE_12__ **

@@ -1,2 +1,0 @@
-struct drm_device | dummy int 
-function psb_power_up int | dev struct drm_device *

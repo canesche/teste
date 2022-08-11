@@ -1,2 +1,0 @@
-struct ab8500_fg | dummy int 
-function ab8500_fg_battok_calc int | di struct ab8500_fg * | target int

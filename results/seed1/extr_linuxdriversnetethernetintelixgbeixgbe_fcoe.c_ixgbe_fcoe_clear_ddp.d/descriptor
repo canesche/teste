@@ -1,2 +1,0 @@
-struct ixgbe_fcoe_ddp | err int | udp unsigned long | sgc long | sgl int * | udl int * | len long 
-function ixgbe_fcoe_clear_ddp void | ddp struct ixgbe_fcoe_ddp *

@@ -1,0 +1,5 @@
+struct sk_buff | data int * | len int 
+struct TYPE_3__ | variable long 
+struct TYPE_4__ | beacon struct TYPE_3__ 
+struct ieee80211_mgmt | u struct TYPE_4__ 
+function p54_find_ie int * | skb struct sk_buff * | ie int

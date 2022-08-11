@@ -1,2 +1,0 @@
-struct TYPE_2__ | psa_apptype int 
-function posix_spawnattr_setprocesstype_np int | attr int **__restrict | proctype const int

@@ -1,1 +1,0 @@
-function munge_32_to_64_unsigned void | dest volatile int * | src volatile int * | count int

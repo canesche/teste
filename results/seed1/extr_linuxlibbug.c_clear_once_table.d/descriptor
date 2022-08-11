@@ -1,2 +1,0 @@
-struct bug_entry | flags int 
-function clear_once_table void | start struct bug_entry * | end struct bug_entry *

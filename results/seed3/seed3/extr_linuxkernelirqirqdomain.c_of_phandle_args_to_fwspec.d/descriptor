@@ -1,0 +1,4 @@
+struct of_phandle_args | args_count int | args int * | np struct TYPE_2__ * 
+struct irq_fwspec | param_count int | param int * | fwnode int * 
+struct TYPE_2__ | fwnode int 
+function of_phandle_args_to_fwspec void | irq_data struct of_phandle_args * | fwspec struct irq_fwspec *

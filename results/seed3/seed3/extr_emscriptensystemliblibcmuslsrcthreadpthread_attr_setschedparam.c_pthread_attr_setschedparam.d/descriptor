@@ -1,0 +1,3 @@
+struct sched_param | sched_priority int 
+struct TYPE_3__ | _a_prio int 
+function pthread_attr_setschedparam int | a struct TYPE_3__ *__restrict | param const struct sched_param *__restrict

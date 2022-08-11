@@ -1,0 +1,3 @@
+struct vlan_group | vlan_devices_arrays struct net_device **** 
+struct net_device | dummy int 
+function __vlan_group_get_device struct net_device * | vg struct vlan_group * | pidx unsigned int | vlan_id unsigned long

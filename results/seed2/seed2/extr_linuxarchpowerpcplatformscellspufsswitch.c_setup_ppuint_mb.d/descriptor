@@ -1,0 +1,6 @@
+struct TYPE_6__ | puint_mb_R int 
+struct spu_state | priv2 struct TYPE_6__ | lscsa struct TYPE_5__ * 
+struct spu | dummy int 
+struct TYPE_4__ | slot int * 
+struct TYPE_5__ | ppuint_mb struct TYPE_4__ 
+function setup_ppuint_mb void | csa struct spu_state * | spu struct spu *

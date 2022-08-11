@@ -1,0 +1,2 @@
+struct drm_dp_aux_msg | request int | size int 
+function drm_dp_aux_req_duration int | msg const struct drm_dp_aux_msg *

@@ -1,0 +1,2 @@
+struct ptr_ring | queue int * | producer unsigned long 
+function __ptr_ring_full int | r struct ptr_ring *

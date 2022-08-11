@@ -1,2 +1,0 @@
-struct mii_bus | dummy int 
-function gpio_mdio_reset int | bus struct mii_bus *

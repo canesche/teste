@@ -1,0 +1,3 @@
+struct vm_area_struct | vm_start long | vm_end long | vm_next struct vm_area_struct * 
+struct mm_struct | mmap struct vm_area_struct * 
+function mm_total_size unsigned long | mm struct mm_struct *

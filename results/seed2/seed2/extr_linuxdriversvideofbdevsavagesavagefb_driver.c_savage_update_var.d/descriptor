@@ -1,0 +1,3 @@
+struct fb_videomode | yres long | vmode int | sync int | vsync_len int | hsync_len int | lower_margin int | upper_margin int | right_margin int | left_margin int | pixclock int | xres int 
+struct fb_var_screeninfo | yres long | yres_virtual long | vmode int | sync int | vsync_len int | hsync_len int | lower_margin int | upper_margin int | right_margin int | left_margin int | pixclock int | yoffset long | xoffset long | xres_virtual int | xres int 
+function savage_update_var void | var struct fb_var_screeninfo * | modedb const struct fb_videomode *

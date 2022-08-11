@@ -1,2 +1,0 @@
-struct kvm | dummy int 
-function kvm_coalesced_mmio_free void | kvm struct kvm *

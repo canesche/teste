@@ -1,0 +1,3 @@
+struct qib_pportdata | dd struct qib_devdata * 
+struct qib_devdata | dummy int 
+function dd_from_ppd struct qib_devdata * | ppd struct qib_pportdata *

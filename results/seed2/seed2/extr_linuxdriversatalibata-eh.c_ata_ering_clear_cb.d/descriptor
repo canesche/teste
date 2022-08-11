@@ -1,0 +1,2 @@
+struct ata_ering_entry | eflags int 
+function ata_ering_clear_cb int | ent struct ata_ering_entry * | void_arg void *

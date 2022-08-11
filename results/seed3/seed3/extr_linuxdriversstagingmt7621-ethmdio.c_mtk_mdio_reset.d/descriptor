@@ -1,0 +1,2 @@
+struct mii_bus | dummy int 
+function mtk_mdio_reset int | bus struct mii_bus *

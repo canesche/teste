@@ -1,0 +1,2 @@
+struct ath_hw | dummy int 
+function ar9003_mci_init_cal_req void | ah struct ath_hw * | is_reusable int *

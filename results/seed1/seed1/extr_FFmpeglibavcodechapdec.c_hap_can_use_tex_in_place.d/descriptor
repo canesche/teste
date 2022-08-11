@@ -1,0 +1,3 @@
+struct TYPE_5__ | chunk_count int | chunks struct TYPE_4__ * 
+struct TYPE_4__ | compressed_offset unsigned long | compressor long | compressed_size long 
+function hap_can_use_tex_in_place int | ctx struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct adt7462_data | pin_cfg int * 
+function ADT7462_REG_VOLT int | data struct adt7462_data * | which int

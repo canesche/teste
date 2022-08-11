@@ -1,0 +1,2 @@
+struct nfp_cpp | serial int * 
+function nfp_cpp_serial int | cpp struct nfp_cpp * | serial const int **

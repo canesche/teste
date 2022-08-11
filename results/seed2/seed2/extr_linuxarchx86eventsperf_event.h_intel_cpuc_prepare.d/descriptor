@@ -1,0 +1,2 @@
+struct cpu_hw_events | dummy int 
+function intel_cpuc_prepare int | cpuc struct cpu_hw_events * | cpu int

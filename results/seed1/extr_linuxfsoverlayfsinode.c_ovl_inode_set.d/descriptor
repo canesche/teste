@@ -1,2 +1,0 @@
-struct inode | i_private void * 
-function ovl_inode_set int | inode struct inode * | data void *

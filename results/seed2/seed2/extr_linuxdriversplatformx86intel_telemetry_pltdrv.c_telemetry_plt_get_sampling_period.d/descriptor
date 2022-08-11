@@ -1,0 +1,4 @@
+struct TYPE_5__ | max_period int | min_period int 
+struct TYPE_4__ | max_period int | min_period int 
+struct TYPE_6__ | ioss_config struct TYPE_5__ | pss_config struct TYPE_4__ 
+function telemetry_plt_get_sampling_period int | pss_min_period int * | pss_max_period int * | ioss_min_period int * | ioss_max_period int *

@@ -1,0 +1,4 @@
+struct TYPE_4__ | device struct TYPE_3__ * 
+struct nvkm_therm | subdev struct TYPE_4__ 
+struct TYPE_3__ | crystal int 
+function gm107_fan_pwm_clock int | therm struct nvkm_therm * | line int

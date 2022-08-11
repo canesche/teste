@@ -1,0 +1,3 @@
+struct TYPE_2__ | type int | config int 
+struct perf_event | attr struct TYPE_2__ 
+function event_type int | event struct perf_event *

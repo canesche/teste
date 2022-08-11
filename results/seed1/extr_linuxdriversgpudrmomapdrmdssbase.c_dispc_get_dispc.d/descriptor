@@ -1,3 +1,0 @@
-struct dss_device | dispc struct dispc_device * 
-struct dispc_device | dummy int 
-function dispc_get_dispc struct dispc_device * | dss struct dss_device *

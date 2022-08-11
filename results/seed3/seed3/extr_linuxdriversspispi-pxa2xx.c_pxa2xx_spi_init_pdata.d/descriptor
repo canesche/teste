@@ -1,0 +1,3 @@
+struct pxa2xx_spi_master | dummy int 
+struct platform_device | dummy int 
+function pxa2xx_spi_init_pdata struct pxa2xx_spi_master * | pdev struct platform_device *

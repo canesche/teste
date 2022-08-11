@@ -1,0 +1,2 @@
+struct usb_serial_port | dummy int 
+function usb_serial_handle_sysrq_char int | port struct usb_serial_port * | ch unsigned int

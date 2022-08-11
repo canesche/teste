@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmi915selftestshuge_gem_object.h_huge_gem_object_phys_size.d/extr_linuxdriversgpudrmi915selftestshuge_gem_object.h_huge_gem_object_phys_size_O0::huge_gem_object_phys_size(63)"
+  }
+]

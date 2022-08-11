@@ -1,2 +1,0 @@
-struct TYPE_3__ | CRYP_KeySize int | CRYP_DataType int | CRYP_AlgoMode int | CRYP_AlgoDir int 
-function CRYP_StructInit void | CRYP_InitStruct struct TYPE_3__ *

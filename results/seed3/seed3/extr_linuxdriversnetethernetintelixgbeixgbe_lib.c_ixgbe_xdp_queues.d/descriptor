@@ -1,0 +1,2 @@
+struct ixgbe_adapter | xdp_prog long 
+function ixgbe_xdp_queues int | adapter struct ixgbe_adapter *

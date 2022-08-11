@@ -1,0 +1,7 @@
+struct TYPE_10__ | workspace struct TYPE_9__ * | parent struct TYPE_7__ * 
+struct sway_container | current struct TYPE_10__ 
+struct TYPE_8__ | tiling int * 
+struct TYPE_9__ | current struct TYPE_8__ 
+struct TYPE_6__ | children int * 
+struct TYPE_7__ | current struct TYPE_6__ 
+function container_get_current_siblings int * | container struct sway_container *

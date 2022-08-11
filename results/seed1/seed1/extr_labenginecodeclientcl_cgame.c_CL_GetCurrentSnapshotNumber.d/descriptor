@@ -1,0 +1,3 @@
+struct TYPE_3__ | messageNum int | serverTime int 
+struct TYPE_4__ | snap struct TYPE_3__ 
+function CL_GetCurrentSnapshotNumber void | snapshotNumber int * | serverTime int *

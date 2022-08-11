@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function ixgbe_pci_sriov_enable int | dev struct pci_dev * | num_vfs int

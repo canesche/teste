@@ -1,0 +1,3 @@
+struct TYPE_5__ | special_glyph_cache struct TYPE_4__ * 
+struct TYPE_4__ | glyph long | data long | next struct TYPE_4__ * 
+function clear_special_glyph_cache void | font struct TYPE_5__ *

@@ -1,2 +1,0 @@
-struct msm_dsi_pll | dummy int 
-function msm_dsi_pll_set_usecase int | pll struct msm_dsi_pll * | uc enum msm_dsi_phy_usecase

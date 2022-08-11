@@ -1,3 +1,0 @@
-struct sk_buff | dev struct TYPE_2__ * 
-struct TYPE_2__ | hard_header_len long | mtu long 
-function __bpf_skb_max_len long | skb const struct sk_buff *

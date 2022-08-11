@@ -1,2 +1,0 @@
-struct trace_iterator | dummy int 
-function wakeup_trace_open void | iter struct trace_iterator *

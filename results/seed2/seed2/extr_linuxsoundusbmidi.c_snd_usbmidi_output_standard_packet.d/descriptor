@@ -1,0 +1,2 @@
+struct urb | transfer_buffer_length int | transfer_buffer long 
+function snd_usbmidi_output_standard_packet void | urb struct urb * | p0 int | p1 int | p2 int | p3 int

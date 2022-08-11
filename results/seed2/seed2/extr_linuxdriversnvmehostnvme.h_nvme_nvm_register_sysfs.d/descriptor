@@ -1,0 +1,2 @@
+struct nvme_ns | dummy int 
+function nvme_nvm_register_sysfs int | ns struct nvme_ns *

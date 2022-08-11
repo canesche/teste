@@ -1,0 +1,2 @@
+struct aiocb | __err int 
+function aio_error int | cb const struct aiocb *

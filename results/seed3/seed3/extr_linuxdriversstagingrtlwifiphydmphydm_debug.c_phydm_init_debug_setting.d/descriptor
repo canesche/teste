@@ -1,0 +1,2 @@
+struct phy_dm_struct | fw_buff_is_enpty int | pre_c2h_seq long | debug_components long | fw_debug_components long | debug_level int 
+function phydm_init_debug_setting void | dm struct phy_dm_struct *

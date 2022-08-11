@@ -1,0 +1,2 @@
+struct vfio_irq_info | index long | count int | flags int 
+function vfio_ccw_mdev_get_irq_info int | info struct vfio_irq_info *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | fixedHashSize int | hashMask long | hash int * 
+function MatchFinder_Init_HighHash void | p struct TYPE_3__ *

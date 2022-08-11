@@ -1,0 +1,2 @@
+struct stackframe | dummy int 
+function do_kernel_backtrace void | low_addr unsigned long | frame struct stackframe * | depth unsigned int

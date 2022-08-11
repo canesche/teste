@@ -1,0 +1,3 @@
+struct platform_device | dummy int 
+struct dev_archdata | numa_node int | op struct platform_device * | host_controller void * | stc void * | iommu void * 
+function pci_init_dev_archdata void | sd struct dev_archdata * | iommu void * | stc void * | host_controller void * | op struct platform_device * | numa_node int

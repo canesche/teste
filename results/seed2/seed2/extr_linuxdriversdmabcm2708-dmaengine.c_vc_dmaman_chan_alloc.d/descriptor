@@ -1,0 +1,2 @@
+struct vc_dmaman | chan_available int | has_feature int * 
+function vc_dmaman_chan_alloc int | dmaman struct vc_dmaman * | required_feature_set unsigned int

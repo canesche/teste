@@ -1,0 +1,2 @@
+struct timeval | tv_sec int | tv_usec long 
+function timediff long | newer struct timeval | older struct timeval

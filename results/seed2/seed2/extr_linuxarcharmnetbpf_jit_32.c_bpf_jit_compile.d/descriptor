@@ -1,0 +1,2 @@
+struct bpf_prog | dummy int 
+function bpf_jit_compile void | prog struct bpf_prog *

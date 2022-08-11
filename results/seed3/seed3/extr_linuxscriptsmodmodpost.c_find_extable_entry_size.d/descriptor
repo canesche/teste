@@ -1,0 +1,2 @@
+struct TYPE_3__ | r_offset int 
+function find_extable_entry_size void | sec const char *const | r const struct TYPE_3__ *

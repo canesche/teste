@@ -1,0 +1,2 @@
+struct snd_soc_codec | dummy int 
+function gbcodec_write int | codec struct snd_soc_codec * | reg unsigned int | value unsigned int

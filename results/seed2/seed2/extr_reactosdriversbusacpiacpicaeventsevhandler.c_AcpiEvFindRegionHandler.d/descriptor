@@ -1,0 +1,3 @@
+struct TYPE_5__ | SpaceId long | Next struct TYPE_6__ * 
+struct TYPE_6__ | AddressSpace struct TYPE_5__ 
+function AcpiEvFindRegionHandler struct TYPE_6__ * | SpaceId long | HandlerObj struct TYPE_6__ *

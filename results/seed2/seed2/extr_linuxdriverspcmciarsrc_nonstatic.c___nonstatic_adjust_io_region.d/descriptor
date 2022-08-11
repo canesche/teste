@@ -1,0 +1,4 @@
+struct resource_map | base unsigned long | num int | next struct resource_map * 
+struct socket_data | io_db struct resource_map 
+struct pcmcia_socket | resource_data struct socket_data * 
+function __nonstatic_adjust_io_region int | s struct pcmcia_socket * | r_start unsigned long | r_end unsigned long

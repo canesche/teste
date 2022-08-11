@@ -1,6 +1,0 @@
-struct TYPE_4__ | offload_handle long 
-struct xfrm_state | xso struct TYPE_4__ 
-struct sk_buff | sp struct TYPE_3__ * 
-struct net_device | dummy int 
-struct TYPE_3__ | xvec struct xfrm_state ** | len long 
-function mlx5e_ipsec_feature_check int | skb struct sk_buff * | netdev struct net_device * | features int

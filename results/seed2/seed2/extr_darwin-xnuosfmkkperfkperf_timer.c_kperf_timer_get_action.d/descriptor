@@ -1,0 +1,2 @@
+struct TYPE_2__ | actionid int 
+function kperf_timer_get_action int | timerid unsigned int | action int *

@@ -1,0 +1,2 @@
+struct phy_device | adjust_link void (*)(struct net_device *) 
+function phy_prepare_link void | phydev struct phy_device * | handler void (*)(struct net_device *)

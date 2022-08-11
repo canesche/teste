@@ -1,0 +1,3 @@
+struct TYPE_5__ | core_params struct TYPE_4__ * 
+struct TYPE_4__ | ts_dline int 
+function dwc_otg_get_param_ts_dline int | core_if struct TYPE_5__ *

@@ -1,0 +1,6 @@
+struct TYPE_10__ | pActiveClass struct TYPE_7__ * 
+struct TYPE_8__ | n int 
+struct TYPE_9__ | storids struct TYPE_8__ 
+struct TYPE_11__ | is_ready long | info struct TYPE_9__ 
+struct TYPE_7__ | pData struct TYPE_11__ * 
+function USBH_MTP_GetNumStorage int | phost struct TYPE_10__ * | storage_num int *

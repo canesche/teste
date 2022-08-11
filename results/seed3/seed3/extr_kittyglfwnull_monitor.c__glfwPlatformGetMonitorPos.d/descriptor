@@ -1,0 +1,1 @@
+function _glfwPlatformGetMonitorPos void | monitor int * | xpos int * | ypos int *

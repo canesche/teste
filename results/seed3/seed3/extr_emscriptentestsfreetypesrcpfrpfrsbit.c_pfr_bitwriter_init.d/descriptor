@@ -1,0 +1,3 @@
+struct TYPE_6__ | buffer int | pitch int | width int | rows int 
+struct TYPE_5__ | line int | pitch int | width int | rows int | total int 
+function pfr_bitwriter_init void | writer struct TYPE_5__ * | target struct TYPE_6__ * | decreasing int

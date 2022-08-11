@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct TYPE_3__ | rx_skb_pool struct sk_buff ** 
+function pull_skb struct sk_buff * | dev struct TYPE_3__ *

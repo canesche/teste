@@ -1,0 +1,2 @@
+struct psmouse | dummy int 
+function vmmouse_init int | psmouse struct psmouse *

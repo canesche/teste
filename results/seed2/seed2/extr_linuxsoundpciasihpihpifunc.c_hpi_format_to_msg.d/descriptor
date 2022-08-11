@@ -1,0 +1,3 @@
+struct hpi_msg_format | format int | channels int | attributes int | bit_rate int | sample_rate int 
+struct hpi_format | format int | channels int | attributes int | bit_rate int | sample_rate int 
+function hpi_format_to_msg void | pMF struct hpi_msg_format * | pF const struct hpi_format *

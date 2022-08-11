@@ -1,3 +1,0 @@
-struct sas_task | lldd_task struct pm8001_ccb_info * 
-struct pm8001_ccb_info | ccb_tag int 
-function pm8001_find_tag int | task struct sas_task * | tag int *

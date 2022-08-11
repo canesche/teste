@@ -1,0 +1,4 @@
+struct tty_driver | dummy int 
+struct console | index int 
+struct TYPE_2__ | driver struct tty_driver * 
+function uml_console_device struct tty_driver * | c struct console * | index int *

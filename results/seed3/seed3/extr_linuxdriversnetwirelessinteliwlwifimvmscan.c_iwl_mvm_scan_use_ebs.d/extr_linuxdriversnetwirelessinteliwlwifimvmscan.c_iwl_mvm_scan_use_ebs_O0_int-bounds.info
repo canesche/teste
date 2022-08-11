@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetwirelessinteliwlwifimvmscan.c_iwl_mvm_scan_use_ebs.d/extr_linuxdriversnetwirelessinteliwlwifimvmscan.c_iwl_mvm_scan_use_ebs_O0::iwl_mvm_scan_use_ebs(69)"
+  }
+]

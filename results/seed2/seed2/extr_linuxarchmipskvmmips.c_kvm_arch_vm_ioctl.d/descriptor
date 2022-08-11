@@ -1,0 +1,2 @@
+struct file | dummy int 
+function kvm_arch_vm_ioctl long | filp struct file * | ioctl unsigned int | arg unsigned long

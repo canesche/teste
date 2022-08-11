@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetapmxgene......phymdio-xgene.h_xgene_enet_get_field_value.d/extr_linuxdriversnetethernetapmxgene......phymdio-xgene.h_xgene_enet_get_field_value_O0::xgene_enet_get_field_value(61)"
+  }
+]

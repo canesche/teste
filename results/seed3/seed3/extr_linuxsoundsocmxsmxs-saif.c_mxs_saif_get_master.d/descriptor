@@ -1,0 +1,2 @@
+struct mxs_saif | master_id unsigned long 
+function mxs_saif_get_master struct mxs_saif * | saif struct mxs_saif *

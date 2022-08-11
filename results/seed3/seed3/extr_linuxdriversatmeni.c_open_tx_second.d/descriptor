@@ -1,0 +1,2 @@
+struct atm_vcc | dummy int 
+function open_tx_second int | vcc struct atm_vcc *

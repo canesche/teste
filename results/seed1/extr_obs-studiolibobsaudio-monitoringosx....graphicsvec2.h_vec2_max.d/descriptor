@@ -1,2 +1,0 @@
-struct vec2 | x long | y long 
-function vec2_max void | dst struct vec2 * | v const struct vec2 * | max_v const struct vec2 *

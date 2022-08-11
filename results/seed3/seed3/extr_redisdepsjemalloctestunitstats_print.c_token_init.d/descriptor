@@ -1,0 +1,2 @@
+struct TYPE_3__ | pos unsigned long | len unsigned long | line unsigned long | col unsigned long | token_type int | parser int * 
+function token_init void | token struct TYPE_3__ * | parser int * | token_type int | pos unsigned long | len unsigned long | line unsigned long | col unsigned long

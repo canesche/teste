@@ -1,0 +1,2 @@
+struct request | dummy int 
+function blk_throtl_stat_add void | rq struct request * | time int

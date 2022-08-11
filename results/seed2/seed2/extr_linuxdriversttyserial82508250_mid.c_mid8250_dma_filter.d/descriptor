@@ -1,0 +1,4 @@
+struct hsu_dma_slave | dma_dev long | chan_id long 
+struct dma_chan | chan_id long | private struct hsu_dma_slave * | device struct TYPE_2__ * 
+struct TYPE_2__ | dev long 
+function mid8250_dma_filter int | chan struct dma_chan * | param void *

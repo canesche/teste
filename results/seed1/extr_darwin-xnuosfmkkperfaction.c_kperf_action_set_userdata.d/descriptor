@@ -1,2 +1,0 @@
-struct TYPE_2__ | userdata int 
-function kperf_action_set_userdata int | actionid unsigned int | userdata int

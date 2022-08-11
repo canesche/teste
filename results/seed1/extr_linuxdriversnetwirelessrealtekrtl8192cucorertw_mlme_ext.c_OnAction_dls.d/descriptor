@@ -1,2 +1,0 @@
-struct recv_frame | dummy int 
-function OnAction_dls unsigned int | padapter int * | precv_frame union recv_frame *

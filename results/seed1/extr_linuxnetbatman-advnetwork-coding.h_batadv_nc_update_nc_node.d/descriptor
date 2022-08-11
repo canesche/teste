@@ -1,4 +1,0 @@
-struct batadv_priv | dummy int 
-struct batadv_orig_node | dummy int 
-struct batadv_ogm_packet | dummy int 
-function batadv_nc_update_nc_node void | bat_priv struct batadv_priv * | orig_node struct batadv_orig_node * | orig_neigh_node struct batadv_orig_node * | ogm_packet struct batadv_ogm_packet * | is_single_hop_neigh int

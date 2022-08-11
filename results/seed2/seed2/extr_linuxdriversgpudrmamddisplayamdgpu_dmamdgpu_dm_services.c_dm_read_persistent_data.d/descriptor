@@ -1,0 +1,4 @@
+struct persistent_data_flag | dummy int 
+struct dc_sink | dummy int 
+struct dc_context | dummy int 
+function dm_read_persistent_data int | ctx struct dc_context * | sink const struct dc_sink * | module_name const char * | key_name const char * | params void * | size unsigned int | flag struct persistent_data_flag *

@@ -1,0 +1,2 @@
+struct fregs_state | cwd int | swd int | twd int | fos int 
+function fpstate_init_fstate void | fp struct fregs_state *

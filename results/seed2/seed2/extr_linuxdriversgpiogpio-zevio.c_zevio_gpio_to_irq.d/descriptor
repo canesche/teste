@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function zevio_gpio_to_irq int | chip struct gpio_chip * | pin unsigned int

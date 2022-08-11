@@ -1,0 +1,1 @@
+function ngx_http_userid_reset_variable int | r int * | v int * | data unsigned long

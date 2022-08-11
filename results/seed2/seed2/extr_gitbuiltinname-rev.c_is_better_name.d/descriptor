@@ -1,0 +1,2 @@
+struct rev_name | from_tag int | taggerdate long | distance int 
+function is_better_name int | name struct rev_name * | tip_name const char * | taggerdate long | generation int | distance int | from_tag int

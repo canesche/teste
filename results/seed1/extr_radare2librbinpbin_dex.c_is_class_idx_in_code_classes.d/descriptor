@@ -1,4 +1,0 @@
-struct TYPE_5__ | class_size int 
-struct TYPE_7__ | classes struct TYPE_6__ * | header struct TYPE_5__ 
-struct TYPE_6__ | class_id int 
-function is_class_idx_in_code_classes int | bin struct TYPE_7__ * | class_idx int

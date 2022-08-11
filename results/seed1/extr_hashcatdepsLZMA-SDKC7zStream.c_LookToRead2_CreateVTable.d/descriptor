@@ -1,3 +1,0 @@
-struct TYPE_4__ | Seek int | Read int | Skip int | Look int 
-struct TYPE_5__ | vt struct TYPE_4__ 
-function LookToRead2_CreateVTable void | p struct TYPE_5__ * | lookahead int

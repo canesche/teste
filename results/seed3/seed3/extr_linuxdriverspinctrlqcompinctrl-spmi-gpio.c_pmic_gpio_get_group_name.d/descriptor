@@ -1,0 +1,4 @@
+struct pinctrl_dev | desc struct TYPE_4__ * 
+struct TYPE_4__ | pins struct TYPE_3__ * 
+struct TYPE_3__ | name const char * 
+function pmic_gpio_get_group_name const char * | pctldev struct pinctrl_dev * | pin unsigned int

@@ -1,2 +1,0 @@
-struct mlxsw_sp_rif | counter_egress_valid int | counter_ingress_valid int 
-function mlxsw_sp_rif_counter_valid_get int | rif struct mlxsw_sp_rif * | dir enum mlxsw_sp_rif_counter_dir

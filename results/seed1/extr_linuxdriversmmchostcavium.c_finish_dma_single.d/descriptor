@@ -1,3 +1,0 @@
-struct mmc_data | bytes_xfered int | blocks int | blksz int | error long 
-struct cvm_mmc_host | dummy int 
-function finish_dma_single int | host struct cvm_mmc_host * | data struct mmc_data *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsoundpciaw2aw2-saa7146.c_snd_aw2_saa7146_define_it_capture_callback.d/extr_linuxsoundpciaw2aw2-saa7146.c_snd_aw2_saa7146_define_it_capture_callback_O0::snd_aw2_saa7146_define_it_capture_callback(68)"
+  }
+]

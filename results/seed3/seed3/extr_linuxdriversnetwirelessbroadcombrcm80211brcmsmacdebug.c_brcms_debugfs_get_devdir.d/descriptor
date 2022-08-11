@@ -1,0 +1,3 @@
+struct dentry | dummy int 
+struct brcms_pub | dbgfs_dir struct dentry * 
+function brcms_debugfs_get_devdir struct dentry * | drvr struct brcms_pub *

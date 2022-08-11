@@ -1,2 +1,0 @@
-struct dot_command_header | command_size int 
-function get_dot_command_timeout unsigned int | buffer void *

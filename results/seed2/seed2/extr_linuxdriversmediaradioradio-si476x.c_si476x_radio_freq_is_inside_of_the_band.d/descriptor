@@ -1,0 +1,2 @@
+struct TYPE_2__ | rangelow long | rangehigh long 
+function si476x_radio_freq_is_inside_of_the_band int | freq long | band int

@@ -1,0 +1,2 @@
+struct pci_dev | device int 
+function serverworks_is_csb int | pdev struct pci_dev *

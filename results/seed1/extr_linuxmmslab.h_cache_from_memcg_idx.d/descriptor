@@ -1,2 +1,0 @@
-struct kmem_cache | dummy int 
-function cache_from_memcg_idx struct kmem_cache * | s struct kmem_cache * | idx int

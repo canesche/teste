@@ -1,0 +1,3 @@
+struct ubifs_info | max_idx_node_sz int 
+struct ubifs_budget_req | new_ino int | new_page int | new_dent int 
+function calc_idx_growth int | c const struct ubifs_info * | req const struct ubifs_budget_req *

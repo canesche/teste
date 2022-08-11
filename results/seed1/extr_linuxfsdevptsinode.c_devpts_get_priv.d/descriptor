@@ -1,3 +1,0 @@
-struct dentry | d_fsdata void * | d_sb struct TYPE_2__ * 
-struct TYPE_2__ | s_magic long 
-function devpts_get_priv void * | dentry struct dentry *

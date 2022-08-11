@@ -1,0 +1,4 @@
+struct sigmatel_spec | gpio_mask int | gpio_dir int | gpio_data int 
+struct hda_fixup | dummy int 
+struct hda_codec | spec struct sigmatel_spec * 
+function stac922x_fixup_intel_mac_gpio void | codec struct hda_codec * | fix const struct hda_fixup * | action int

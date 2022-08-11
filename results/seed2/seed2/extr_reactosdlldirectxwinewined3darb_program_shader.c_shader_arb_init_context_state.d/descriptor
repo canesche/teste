@@ -1,0 +1,2 @@
+struct wined3d_context | dummy int 
+function shader_arb_init_context_state void | context struct wined3d_context *

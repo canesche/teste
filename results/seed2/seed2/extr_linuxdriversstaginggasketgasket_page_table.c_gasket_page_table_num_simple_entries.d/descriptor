@@ -1,0 +1,2 @@
+struct gasket_page_table | num_simple_entries int 
+function gasket_page_table_num_simple_entries int | pg_tbl struct gasket_page_table *

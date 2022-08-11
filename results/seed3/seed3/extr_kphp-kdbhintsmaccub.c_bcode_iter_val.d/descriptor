@@ -1,0 +1,2 @@
+struct TYPE_3__ | val int 
+function bcode_iter_val int | it struct TYPE_3__ *

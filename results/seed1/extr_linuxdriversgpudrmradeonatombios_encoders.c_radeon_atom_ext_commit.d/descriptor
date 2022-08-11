@@ -1,2 +1,0 @@
-struct drm_encoder | dummy int 
-function radeon_atom_ext_commit void | encoder struct drm_encoder *

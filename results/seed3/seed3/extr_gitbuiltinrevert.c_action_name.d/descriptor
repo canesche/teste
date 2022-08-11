@@ -1,0 +1,2 @@
+struct replay_opts | action long 
+function action_name const char * | opts const struct replay_opts *

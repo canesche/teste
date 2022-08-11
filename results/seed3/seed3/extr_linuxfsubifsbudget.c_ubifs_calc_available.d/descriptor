@@ -1,0 +1,3 @@
+struct TYPE_2__ | total_used long long | idx_lebs int | total_dark long | total_dead long 
+struct ubifs_info | main_bytes long long | jhead_cnt int | leb_size long long | dark_wm int | lst struct TYPE_2__ 
+function ubifs_calc_available long long | c const struct ubifs_info * | min_idx_lebs int

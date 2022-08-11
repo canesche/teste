@@ -1,4 +1,0 @@
-struct TYPE_3__ | next int * 
-struct msc_window | msc struct TYPE_4__ * | entry struct TYPE_3__ 
-struct TYPE_4__ | win_list int 
-function msc_is_last_win int | win struct msc_window *

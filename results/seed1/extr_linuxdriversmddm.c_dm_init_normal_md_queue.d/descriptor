@@ -1,4 +1,0 @@
-struct mapped_device | use_blk_mq int | queue struct TYPE_4__ * 
-struct TYPE_4__ | backing_dev_info struct TYPE_3__ * 
-struct TYPE_3__ | congested_fn int 
-function dm_init_normal_md_queue void | md struct mapped_device *

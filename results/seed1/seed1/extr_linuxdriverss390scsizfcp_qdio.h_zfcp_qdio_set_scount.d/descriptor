@@ -1,0 +1,5 @@
+struct zfcp_qdio_req | sbal_first unsigned long | sbal_number long 
+struct zfcp_qdio | req_q struct TYPE_2__ ** 
+struct qdio_buffer_element | scount long 
+struct TYPE_2__ | element struct qdio_buffer_element * 
+function zfcp_qdio_set_scount void | qdio struct zfcp_qdio * | q_req struct zfcp_qdio_req *

@@ -1,1 +1,0 @@
-function ffp_io_stat_register void | cb void (*)(const char *, int, int)

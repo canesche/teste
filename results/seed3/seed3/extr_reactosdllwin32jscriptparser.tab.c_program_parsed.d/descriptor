@@ -1,0 +1,2 @@
+struct TYPE_3__ | hres int | lexer_error int | source int * 
+function program_parsed void | ctx struct TYPE_3__ * | source int *

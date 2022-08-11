@@ -1,0 +1,3 @@
+struct TYPE_4__ | dtpr_provider struct TYPE_3__ * 
+struct TYPE_3__ | dtpv_name const char * 
+function dtrace_strkey_probe_provider const char * | elm void * | offs unsigned long

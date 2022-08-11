@@ -1,0 +1,1 @@
+function scale_bias void | output float * | scales float * | batch int | n int | size int

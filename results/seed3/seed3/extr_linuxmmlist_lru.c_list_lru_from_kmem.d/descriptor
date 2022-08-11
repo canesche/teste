@@ -1,0 +1,4 @@
+struct mem_cgroup | dummy int 
+struct list_lru_one | dummy int 
+struct list_lru_node | lru struct list_lru_one 
+function list_lru_from_kmem struct list_lru_one * | nlru struct list_lru_node * | ptr void * | memcg_ptr struct mem_cgroup **

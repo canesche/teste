@@ -1,4 +1,0 @@
-struct wined3d_vertex_caps | max_vertex_blend_matrices int | vertex_processing_caps int | fvf_caps int | raster_caps int | max_user_clip_planes int | max_vertex_blend_matrix_index long | max_active_lights int | ffp_generic_attributes void * | xyzrhw void * 
-struct TYPE_2__ | user_clip_distances int | lights int 
-struct wined3d_gl_info | supported long * | limits struct TYPE_2__ 
-function vp_ffp_get_caps void | gl_info const struct wined3d_gl_info * | caps struct wined3d_vertex_caps *

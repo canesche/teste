@@ -1,0 +1,2 @@
+struct TYPE_2__ | psa_binprefs int * 
+function posix_spawnattr_setbinpref_np int | attr int **__restrict | count unsigned long | pref int * | ocount unsigned long *__restrict

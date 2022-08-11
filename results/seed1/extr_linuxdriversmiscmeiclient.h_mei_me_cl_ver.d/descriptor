@@ -1,3 +1,0 @@
-struct TYPE_2__ | protocol_version int 
-struct mei_me_client | props struct TYPE_2__ 
-function mei_me_cl_ver int | me_cl const struct mei_me_client *

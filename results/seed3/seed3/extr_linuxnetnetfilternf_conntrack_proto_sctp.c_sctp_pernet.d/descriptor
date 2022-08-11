@@ -1,0 +1,5 @@
+struct nf_sctp_net | dummy int 
+struct TYPE_3__ | sctp struct nf_sctp_net 
+struct TYPE_4__ | nf_ct_proto struct TYPE_3__ 
+struct net | ct struct TYPE_4__ 
+function sctp_pernet struct nf_sctp_net * | net struct net *

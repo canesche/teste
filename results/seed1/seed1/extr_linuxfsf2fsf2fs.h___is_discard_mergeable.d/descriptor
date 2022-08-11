@@ -1,0 +1,2 @@
+struct discard_info | lstart long | len unsigned int 
+function __is_discard_mergeable int | back struct discard_info * | front struct discard_info * | max_len unsigned int

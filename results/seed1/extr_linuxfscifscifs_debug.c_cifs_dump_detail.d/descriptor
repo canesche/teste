@@ -1,2 +1,0 @@
-struct TCP_Server_Info | dummy int 
-function cifs_dump_detail void | buf void * | server struct TCP_Server_Info *

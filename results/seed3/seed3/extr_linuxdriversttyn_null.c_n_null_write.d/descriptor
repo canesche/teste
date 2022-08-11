@@ -1,0 +1,3 @@
+struct tty_struct | dummy int 
+struct file | dummy int 
+function n_null_write int | tty struct tty_struct * | file struct file * | buf const unsigned char * | nr unsigned long

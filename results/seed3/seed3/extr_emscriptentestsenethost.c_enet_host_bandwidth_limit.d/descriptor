@@ -1,0 +1,2 @@
+struct TYPE_3__ | recalculateBandwidthLimits int | outgoingBandwidth void * | incomingBandwidth void * 
+function enet_host_bandwidth_limit void | host struct TYPE_3__ * | incomingBandwidth void * | outgoingBandwidth void *

@@ -1,0 +1,3 @@
+struct TYPE_7__ | First struct TYPE_6__ * | Last struct TYPE_6__ * 
+struct TYPE_6__ | Next struct TYPE_6__ * | Prev struct TYPE_6__ * 
+function fgListInsert void | list struct TYPE_7__ * | next struct TYPE_6__ * | node struct TYPE_6__ *

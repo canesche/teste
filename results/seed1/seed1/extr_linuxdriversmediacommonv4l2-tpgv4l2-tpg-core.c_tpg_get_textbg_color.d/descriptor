@@ -1,0 +1,2 @@
+struct tpg_data | pattern int 
+function tpg_get_textbg_color enum tpg_color | tpg struct tpg_data *

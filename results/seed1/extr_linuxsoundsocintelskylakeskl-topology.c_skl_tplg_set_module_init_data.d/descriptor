@@ -1,8 +1,0 @@
-struct TYPE_3__ | private long 
-struct soc_bytes_ext | dobj struct TYPE_3__ 
-struct snd_soc_dapm_widget | num_kcontrols int | kcontrol_news struct snd_kcontrol_new * | priv struct skl_module_cfg * 
-struct snd_kcontrol_new | access int | private_value long 
-struct TYPE_4__ | caps_size int | caps int * 
-struct skl_module_cfg | formats_config struct TYPE_4__ 
-struct skl_algo_data | set_params long | size int | params long 
-function skl_tplg_set_module_init_data int | w struct snd_soc_dapm_widget *

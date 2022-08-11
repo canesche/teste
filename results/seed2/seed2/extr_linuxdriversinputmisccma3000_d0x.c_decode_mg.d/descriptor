@@ -1,0 +1,2 @@
+struct cma3000_accl_data | bit_to_mg int 
+function decode_mg void | data struct cma3000_accl_data * | datax int * | datay int * | dataz int *

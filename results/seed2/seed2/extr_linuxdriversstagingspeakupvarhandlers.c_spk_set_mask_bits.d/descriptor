@@ -1,0 +1,2 @@
+struct TYPE_2__ | mask short | value int * 
+function spk_set_mask_bits int | input const char * | which const int | how const int

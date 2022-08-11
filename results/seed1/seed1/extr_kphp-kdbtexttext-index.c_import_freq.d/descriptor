@@ -1,0 +1,3 @@
+struct TYPE_4__ | freq int | next struct TYPE_4__ * 
+struct TYPE_5__ | A struct TYPE_4__ ** 
+function import_freq long | table long long * | Set const struct TYPE_5__ *

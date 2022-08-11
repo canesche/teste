@@ -1,2 +1,0 @@
-struct iwl_fw_runtime | dummy int 
-function iwl_fw_trigger_timestamp void | fwrt struct iwl_fw_runtime * | delay int

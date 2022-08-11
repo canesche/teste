@@ -1,0 +1,1 @@
+function substrncpy int | dest char * | src const char * | count int

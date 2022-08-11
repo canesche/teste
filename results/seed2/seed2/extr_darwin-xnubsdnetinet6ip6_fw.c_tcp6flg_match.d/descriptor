@@ -1,0 +1,3 @@
+struct tcphdr | th_flags int 
+struct ip6_fw | fw_ipflg int | fw_tcpf int | fw_tcpnf int 
+function tcp6flg_match int | tcp6 struct tcphdr * | f struct ip6_fw *

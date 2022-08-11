@@ -1,0 +1,2 @@
+struct module | dummy int 
+function module_remove_modinfo_attrs void | mod struct module *

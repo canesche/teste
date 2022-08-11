@@ -1,0 +1,4 @@
+struct TYPE_8__ | pList struct TYPE_7__ * 
+struct TYPE_6__ | z long 
+struct TYPE_7__ | pNext struct TYPE_7__ * | t struct TYPE_6__ 
+function renameColumnTokenNext struct TYPE_7__ * | pCtx struct TYPE_8__ *

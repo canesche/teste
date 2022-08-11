@@ -1,0 +1,2 @@
+struct s3c2410_wdt | dummy int 
+function s3c2410wdt_cpufreq_register int | wdt struct s3c2410_wdt *

@@ -1,0 +1,4 @@
+struct net_device | ifindex int 
+struct TYPE_2__ | nh_dev struct net_device * 
+struct fib6_info | fib6_nh struct TYPE_2__ 
+function rt6_check_dev int | rt struct fib6_info * | oif int

@@ -1,0 +1,2 @@
+struct drbd_state_change | n_connections int | n_devices int 
+function notifications_for_state_change unsigned int | state_change struct drbd_state_change *

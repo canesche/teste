@@ -1,0 +1,2 @@
+struct usb_hcd | dummy int 
+function c67x00_hcd_stop void | hcd struct usb_hcd *

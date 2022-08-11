@@ -1,0 +1,6 @@
+struct mmu_page_path | idx unsigned int * | parent struct kvm_mmu_page ** 
+struct kvm_mmu_pages | nr int | page struct TYPE_4__ * 
+struct TYPE_3__ | level int 
+struct kvm_mmu_page | role struct TYPE_3__ 
+struct TYPE_4__ | idx unsigned int | sp struct kvm_mmu_page * 
+function mmu_pages_next int | pvec struct kvm_mmu_pages * | parents struct mmu_page_path * | i int

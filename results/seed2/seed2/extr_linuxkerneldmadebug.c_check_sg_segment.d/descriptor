@@ -1,0 +1,3 @@
+struct scatterlist | dummy int 
+struct device | dummy int 
+function check_sg_segment void | dev struct device * | sg struct scatterlist *

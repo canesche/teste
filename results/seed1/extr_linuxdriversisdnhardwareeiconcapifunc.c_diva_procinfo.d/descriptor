@@ -1,2 +1,0 @@
-struct capi_ctr | serial char * 
-function diva_procinfo char * | ctrl struct capi_ctr *

@@ -1,2 +1,0 @@
-struct da9030_charger | dummy int 
-function da9030_bat_remove_debugfs void | charger struct da9030_charger *

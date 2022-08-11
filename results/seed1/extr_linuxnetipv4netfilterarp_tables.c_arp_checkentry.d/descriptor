@@ -1,2 +1,0 @@
-struct arpt_arp | flags int | invflags int 
-function arp_checkentry int | arp const struct arpt_arp *

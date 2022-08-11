@@ -1,2 +1,0 @@
-struct shash_desc | dummy int 
-function null_digest int | desc struct shash_desc * | data const int * | len unsigned int | out int *

@@ -1,0 +1,3 @@
+struct hid_device_id | bus long | group long | vendor long | product long 
+struct hid_device | bus long | group long | vendor long | product long 
+function hid_match_one_id int | hdev const struct hid_device * | id const struct hid_device_id *

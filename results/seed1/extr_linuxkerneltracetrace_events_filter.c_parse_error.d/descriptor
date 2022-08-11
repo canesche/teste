@@ -1,2 +1,0 @@
-struct filter_parse_error | lasterr int | lasterr_pos int 
-function parse_error void | pe struct filter_parse_error * | err int | pos int

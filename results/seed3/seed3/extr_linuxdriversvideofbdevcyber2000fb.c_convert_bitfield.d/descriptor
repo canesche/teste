@@ -1,0 +1,2 @@
+struct fb_bitfield | length int | offset int 
+function convert_bitfield int | val int | bf struct fb_bitfield *

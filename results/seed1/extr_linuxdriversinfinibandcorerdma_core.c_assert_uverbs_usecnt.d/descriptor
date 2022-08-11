@@ -1,2 +1,0 @@
-struct ib_uobject | dummy int 
-function assert_uverbs_usecnt void | uobj struct ib_uobject * | mode enum rdma_lookup_mode

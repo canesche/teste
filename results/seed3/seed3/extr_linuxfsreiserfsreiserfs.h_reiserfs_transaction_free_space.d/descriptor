@@ -1,0 +1,2 @@
+struct reiserfs_transaction_handle | t_blocks_allocated int | t_blocks_logged int 
+function reiserfs_transaction_free_space int | th struct reiserfs_transaction_handle *

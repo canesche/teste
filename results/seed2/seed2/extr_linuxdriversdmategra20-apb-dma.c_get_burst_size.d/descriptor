@@ -1,0 +1,2 @@
+struct tegra_dma_channel | dummy int 
+function get_burst_size int | tdc struct tegra_dma_channel * | burst_size int | slave_bw enum dma_slave_buswidth | len int

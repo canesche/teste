@@ -1,0 +1,3 @@
+struct dc_link | connector_signal long 
+struct dc | link_count int | links struct dc_link ** 
+function get_link_for_edp struct dc_link * | dc struct dc *

@@ -1,0 +1,1 @@
+function mbfilter_conv_map_tbl int | c int | w int * | map unsigned short const[][3] | n int

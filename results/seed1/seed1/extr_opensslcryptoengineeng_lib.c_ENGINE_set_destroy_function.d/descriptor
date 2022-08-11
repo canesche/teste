@@ -1,0 +1,2 @@
+struct TYPE_3__ | destroy int 
+function ENGINE_set_destroy_function int | e struct TYPE_3__ * | destroy_f int

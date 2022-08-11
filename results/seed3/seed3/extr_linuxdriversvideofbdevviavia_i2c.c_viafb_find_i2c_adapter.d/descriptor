@@ -1,0 +1,3 @@
+struct i2c_adapter | dummy int 
+struct via_i2c_stuff | adapter struct i2c_adapter 
+function viafb_find_i2c_adapter struct i2c_adapter * | which enum viafb_i2c_adap

@@ -1,2 +1,0 @@
-struct xmit_buf | dummy int 
-function rtw_os_xmit_resource_alloc int | padapter int * | pxmitbuf struct xmit_buf * | alloc_sz int

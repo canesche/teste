@@ -1,0 +1,2 @@
+struct TYPE_3__ | dma_enable int 
+function dwc_otg_is_dma_enable int | core_if struct TYPE_3__ *

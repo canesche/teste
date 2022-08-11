@@ -1,0 +1,2 @@
+struct rmi_function | dummy int 
+function rmi_f03_overwrite_button int | fn struct rmi_function * | button unsigned int | value int

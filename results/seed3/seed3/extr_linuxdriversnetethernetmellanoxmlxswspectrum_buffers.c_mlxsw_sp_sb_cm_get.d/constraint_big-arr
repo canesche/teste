@@ -1,0 +1,1 @@
+value(local_port) == 255, value(pg_buff) == 255, length(mlxsw_sp) == 65025

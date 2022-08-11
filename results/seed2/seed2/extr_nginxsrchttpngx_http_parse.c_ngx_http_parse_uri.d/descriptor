@@ -1,0 +1,2 @@
+struct TYPE_3__ | uri_start char * | uri_end char * | space_in_uri int | complex_uri int | quoted_uri int | args_start char * | plus_in_uri int | uri_ext char * 
+function ngx_http_parse_uri int | r struct TYPE_3__ *

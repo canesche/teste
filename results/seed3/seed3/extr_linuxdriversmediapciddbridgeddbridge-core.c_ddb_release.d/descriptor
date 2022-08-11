@@ -1,0 +1,4 @@
+struct inode | dummy int 
+struct file | private_data struct ddb * 
+struct ddb | ddb_dev_users int 
+function ddb_release int | inode struct inode * | file struct file *

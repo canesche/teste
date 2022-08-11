@@ -1,2 +1,0 @@
-struct rio_mport | dummy int 
-function rio_device_has_destid int | port struct rio_mport * | src_ops int | dst_ops int

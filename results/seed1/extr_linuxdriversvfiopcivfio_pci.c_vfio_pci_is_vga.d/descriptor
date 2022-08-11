@@ -1,2 +1,0 @@
-struct pci_dev | class int 
-function vfio_pci_is_vga int | pdev struct pci_dev *

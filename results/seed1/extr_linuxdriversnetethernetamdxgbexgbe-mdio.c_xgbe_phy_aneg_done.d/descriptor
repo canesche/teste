@@ -1,2 +1,0 @@
-struct xgbe_prv_data | an_result long 
-function xgbe_phy_aneg_done int | pdata struct xgbe_prv_data *

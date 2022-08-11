@@ -1,0 +1,2 @@
+struct mtk_thermal | o_slope int | adc_ge int | vts int * | degc_cali int 
+function raw_to_mcelsius int | mt struct mtk_thermal * | sensno int | raw int

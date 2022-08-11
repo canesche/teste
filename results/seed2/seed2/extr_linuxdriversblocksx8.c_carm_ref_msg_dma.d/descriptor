@@ -1,0 +1,2 @@
+struct carm_host | msg_dma long 
+function carm_ref_msg_dma long | host struct carm_host * | msg_idx unsigned int

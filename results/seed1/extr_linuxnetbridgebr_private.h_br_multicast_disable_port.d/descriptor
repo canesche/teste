@@ -1,2 +1,0 @@
-struct net_bridge_port | dummy int 
-function br_multicast_disable_port void | port struct net_bridge_port *

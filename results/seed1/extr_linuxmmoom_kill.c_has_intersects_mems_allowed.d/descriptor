@@ -1,2 +1,0 @@
-struct task_struct | dummy int 
-function has_intersects_mems_allowed int | tsk struct task_struct * | mask const int *

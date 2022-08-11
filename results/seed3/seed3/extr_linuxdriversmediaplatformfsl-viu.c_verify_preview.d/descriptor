@@ -1,0 +1,6 @@
+struct TYPE_5__ | width int | height int 
+struct TYPE_4__ | base int * 
+struct viu_dev | crop_current struct TYPE_5__ | ovfmt int * | ovbuf struct TYPE_4__ 
+struct TYPE_6__ | width int | height int 
+struct v4l2_window | field int | w struct TYPE_6__ 
+function verify_preview int | dev struct viu_dev * | win struct v4l2_window *

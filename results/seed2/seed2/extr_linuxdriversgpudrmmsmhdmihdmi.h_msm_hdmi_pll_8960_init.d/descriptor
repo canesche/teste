@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function msm_hdmi_pll_8960_init int | pdev struct platform_device *

@@ -1,0 +1,2 @@
+struct p_compressed_bm | encoding int 
+function dcbp_set_start void | p struct p_compressed_bm * | set int

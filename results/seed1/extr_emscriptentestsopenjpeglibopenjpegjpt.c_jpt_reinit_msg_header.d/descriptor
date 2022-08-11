@@ -1,2 +1,0 @@
-struct TYPE_3__ | Msg_length long | Msg_offset long | last_byte long | Id long 
-function jpt_reinit_msg_header void | header struct TYPE_3__ *

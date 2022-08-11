@@ -1,0 +1,2 @@
+struct scatterlist | offset int | length int 
+function bcm_sg_suitable_for_dma int | sg_ptr struct scatterlist * | sg_len int

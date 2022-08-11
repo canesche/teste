@@ -1,0 +1,6 @@
+struct ebt_table_info | hook_entry struct ebt_entries ** 
+struct ebt_entry | bitmask long 
+struct ebt_entries | dummy int 
+struct TYPE_2__ | n long | chaininfo struct ebt_entries * 
+struct ebt_cl_stack | hookmask long | cs struct TYPE_2__ 
+function ebt_get_udc_positions int | e struct ebt_entry * | newinfo struct ebt_table_info * | n unsigned int * | udc struct ebt_cl_stack *

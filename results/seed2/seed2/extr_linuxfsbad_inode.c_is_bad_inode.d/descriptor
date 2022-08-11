@@ -1,0 +1,2 @@
+struct inode | i_op int * 
+function is_bad_inode int | inode struct inode *

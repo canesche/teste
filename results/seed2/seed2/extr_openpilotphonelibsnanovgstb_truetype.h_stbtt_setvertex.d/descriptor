@@ -1,0 +1,2 @@
+struct TYPE_3__ | cy void * | cx void * | y void * | x void * | type int 
+function stbtt_setvertex void | v struct TYPE_3__ * | type int | x long | y long | cx long | cy long

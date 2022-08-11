@@ -1,0 +1,3 @@
+struct ixgbevf_ring_container | count int | ring struct ixgbevf_ring * 
+struct ixgbevf_ring | next struct ixgbevf_ring * 
+function ixgbevf_add_ring void | ring struct ixgbevf_ring * | head struct ixgbevf_ring_container *

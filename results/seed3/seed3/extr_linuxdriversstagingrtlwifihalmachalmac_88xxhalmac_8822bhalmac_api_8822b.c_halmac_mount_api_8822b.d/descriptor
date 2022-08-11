@@ -1,0 +1,5 @@
+struct halmac_api | halmac_pcie_switch int | halmac_interface_integration_tuning int | halmac_phy_cfg int | halmac_cfg_tx_agg_align int | halmac_mac_power_switch int | halmac_tx_allowed_sdio int | halmac_init_h2c int | halmac_init_protocol_cfg int | halmac_init_trx_cfg int 
+struct TYPE_4__ | rsvd_drv_pg_num int 
+struct TYPE_3__ | page_size_2_power int | tx_align_size int | page_size int | rx_fifo_size int | tx_fifo_size int | rxdesc_size int | txdesc_size int | cam_entry_num int | bt_efuse_size int | eeprom_size int | efuse_size int 
+struct halmac_adapter | halmac_interface long | txff_allocation struct TYPE_4__ | hw_config_info struct TYPE_3__ | chip_id int | halmac_api long 
+function halmac_mount_api_8822b enum halmac_ret_status | halmac_adapter struct halmac_adapter *

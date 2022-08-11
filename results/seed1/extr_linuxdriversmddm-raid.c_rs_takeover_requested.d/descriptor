@@ -1,3 +1,0 @@
-struct TYPE_2__ | new_level long | level long 
-struct raid_set | md struct TYPE_2__ 
-function rs_takeover_requested int | rs struct raid_set *

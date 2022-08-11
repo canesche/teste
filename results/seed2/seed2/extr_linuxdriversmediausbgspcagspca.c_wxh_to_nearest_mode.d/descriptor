@@ -1,0 +1,4 @@
+struct TYPE_4__ | nmodes int | cam_mode struct TYPE_3__ * 
+struct gspca_dev | cam struct TYPE_4__ 
+struct TYPE_3__ | width int | height int 
+function wxh_to_nearest_mode int | gspca_dev struct gspca_dev * | width int | height int

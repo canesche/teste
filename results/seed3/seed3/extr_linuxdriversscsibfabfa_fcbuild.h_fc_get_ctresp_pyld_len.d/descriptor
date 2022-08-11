@@ -1,0 +1,2 @@
+struct ct_hdr_s | dummy int 
+function fc_get_ctresp_pyld_len long | resp_len long

@@ -1,0 +1,2 @@
+struct map_balloon_pages | pfns unsigned long * | idx int 
+function setup_balloon_gfn void | gfn unsigned long | data void *

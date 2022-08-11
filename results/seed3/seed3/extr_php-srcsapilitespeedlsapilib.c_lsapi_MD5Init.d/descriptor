@@ -1,0 +1,2 @@
+struct lsapi_MD5Context | buf int * | bits long * 
+function lsapi_MD5Init void | ctx struct lsapi_MD5Context *

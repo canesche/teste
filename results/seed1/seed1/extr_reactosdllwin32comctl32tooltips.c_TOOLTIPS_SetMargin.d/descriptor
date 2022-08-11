@@ -1,0 +1,2 @@
+struct TYPE_3__ | rcMargin int 
+function TOOLTIPS_SetMargin int | infoPtr struct TYPE_3__ * | rect const int *

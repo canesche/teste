@@ -1,0 +1,5 @@
+struct ocrdma_mqe | dummy int 
+struct TYPE_3__ | head int | va struct ocrdma_mqe * 
+struct TYPE_4__ | sq struct TYPE_3__ 
+struct ocrdma_dev | mq struct TYPE_4__ 
+function ocrdma_get_mqe struct ocrdma_mqe * | dev struct ocrdma_dev *

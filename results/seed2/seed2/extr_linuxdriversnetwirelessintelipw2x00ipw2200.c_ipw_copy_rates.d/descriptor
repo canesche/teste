@@ -1,0 +1,2 @@
+struct ipw_supported_rates | num_rates unsigned long | supported_rates int * 
+function ipw_copy_rates void | dest struct ipw_supported_rates * | src const struct ipw_supported_rates *

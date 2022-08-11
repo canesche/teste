@@ -1,0 +1,2 @@
+struct mcam_camera | dummy int 
+function mcam_alloc_dma_bufs int | cam struct mcam_camera * | loadtime int

@@ -1,0 +1,2 @@
+struct eeh_dev | mode int 
+function __eeh_pe_dev_mode_mark void * | edev struct eeh_dev * | flag void *

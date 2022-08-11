@@ -1,0 +1,2 @@
+struct nvkm_device | dummy int 
+function nvkm_acpi_fini void | device struct nvkm_device *

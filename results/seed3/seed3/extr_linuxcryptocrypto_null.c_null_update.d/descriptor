@@ -1,0 +1,2 @@
+struct shash_desc | dummy int 
+function null_update int | desc struct shash_desc * | data const int * | len unsigned int

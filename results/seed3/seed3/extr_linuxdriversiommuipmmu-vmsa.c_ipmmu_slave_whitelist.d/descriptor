@@ -1,0 +1,2 @@
+struct device | dummy int 
+function ipmmu_slave_whitelist int | dev struct device *

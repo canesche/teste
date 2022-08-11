@@ -1,0 +1,3 @@
+struct regulator_dev | supply struct TYPE_2__ * 
+struct TYPE_2__ | rdev struct regulator_dev * 
+function rdev_get_supply struct regulator_dev * | rdev struct regulator_dev *

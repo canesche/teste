@@ -1,0 +1,3 @@
+struct TYPE_4__ | DebugData int * 
+struct TYPE_5__ | machine struct TYPE_4__ 
+function find_debug_state int * | thread struct TYPE_5__ *

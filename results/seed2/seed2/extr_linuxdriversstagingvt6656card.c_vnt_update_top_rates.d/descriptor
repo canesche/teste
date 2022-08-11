@@ -1,0 +1,2 @@
+struct vnt_private | basic_rates int | top_ofdm_basic_rate int | top_cck_basic_rate int 
+function vnt_update_top_rates void | priv struct vnt_private *

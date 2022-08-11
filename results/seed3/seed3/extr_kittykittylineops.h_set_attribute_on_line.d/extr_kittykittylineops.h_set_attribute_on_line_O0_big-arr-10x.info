@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 179,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_kittykittylineops.h_set_attribute_on_line.d/extr_kittykittylineops.h_set_attribute_on_line_O0::set_attribute_on_line(67)"
+  }
+]

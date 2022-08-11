@@ -1,0 +1,2 @@
+struct qed_hwfn | dummy int 
+function qed_iov_get_next_active_vf int | p_hwfn struct qed_hwfn * | rel_vf_id int

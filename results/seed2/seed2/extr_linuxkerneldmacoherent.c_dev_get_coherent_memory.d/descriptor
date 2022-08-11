@@ -1,0 +1,3 @@
+struct dma_coherent_mem | dummy int 
+struct device | dma_mem struct dma_coherent_mem * 
+function dev_get_coherent_memory struct dma_coherent_mem * | dev struct device *

@@ -1,4 +1,0 @@
-struct TYPE_8__ | USACount long | USAOffset long 
-struct TYPE_6__ | BytesPerSector long 
-struct TYPE_7__ | BootSector struct TYPE_6__ 
-function NtfsFixupRecord int | Volume struct TYPE_7__ * | Record struct TYPE_8__ *

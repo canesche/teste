@@ -1,0 +1,2 @@
+struct Curl_easy | dummy int 
+function Curl_set_dns_local_ip4 int | data struct Curl_easy * | local_ip4 const char *

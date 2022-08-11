@@ -1,0 +1,2 @@
+struct intel_uc_fw | type int | load_status void * | fetch_status void * | path int * 
+function intel_uc_fw_init void | uc_fw struct intel_uc_fw * | type enum intel_uc_fw_type

@@ -1,0 +1,3 @@
+struct rtl_led | ledpin int | ledon int | hw struct ieee80211_hw * 
+struct ieee80211_hw | dummy int 
+function _rtl88ee_init_led void | hw struct ieee80211_hw * | pled struct rtl_led * | ledpin enum rtl_led_pin

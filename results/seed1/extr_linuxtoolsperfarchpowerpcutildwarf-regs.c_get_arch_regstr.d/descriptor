@@ -1,2 +1,0 @@
-struct pt_regs_dwarfnum | name const char * | dwarfnum unsigned int 
-function get_arch_regstr const char * | n unsigned int

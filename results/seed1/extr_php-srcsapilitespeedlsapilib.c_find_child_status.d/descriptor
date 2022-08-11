@@ -1,3 +1,0 @@
-struct TYPE_4__ | m_pid int 
-struct TYPE_5__ | m_pChildrenStatusCur struct TYPE_4__ * | m_pChildrenStatusEnd struct TYPE_4__ * | m_pChildrenStatus struct TYPE_4__ * 
-function find_child_status struct TYPE_4__ * | pid int

@@ -1,0 +1,2 @@
+struct TYPE_4__ | x float | dy float | y float | dx float | dmx float | dmy float 
+function nvg__chooseBevel void | bevel int | p0 struct TYPE_4__ * | p1 struct TYPE_4__ * | w float | x0 float * | y0 float * | x1 float * | y1 float *

@@ -1,0 +1,3 @@
+struct hash_table_entry | hash unsigned int | ptr long 
+struct hash_table | size unsigned int | array struct hash_table_entry * 
+function lookup_hash_entry struct hash_table_entry * | hash unsigned int | table const struct hash_table *

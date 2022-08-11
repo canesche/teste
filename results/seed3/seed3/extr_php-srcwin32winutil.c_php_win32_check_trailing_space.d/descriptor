@@ -1,0 +1,1 @@
+function php_win32_check_trailing_space int | path const char * | path_len const unsigned long

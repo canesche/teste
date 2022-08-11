@@ -1,3 +1,0 @@
-struct sk_buff | next struct sk_buff * 
-struct fq_codel_flow | tail struct sk_buff * | head struct sk_buff * 
-function flow_queue_add void | flow struct fq_codel_flow * | skb struct sk_buff *

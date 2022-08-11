@@ -1,0 +1,4 @@
+struct urb | dummy int 
+struct sk_buff | dummy int 
+struct ieee80211_hw | dummy int 
+function rtl8192c_tx_post_hdl int | hw struct ieee80211_hw * | urb struct urb * | skb struct sk_buff *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 77,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16590,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_openpilotphonelibsnanovgstb_truetype.h_stbrp_pack_rects.d/extr_openpilotphonelibsnanovgstb_truetype.h_stbrp_pack_rects_O0::stbrp_pack_rects(66)"
+  }
+]

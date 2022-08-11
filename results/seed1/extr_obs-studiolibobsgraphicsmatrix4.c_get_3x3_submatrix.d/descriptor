@@ -1,2 +1,0 @@
-struct matrix4 | dummy int 
-function get_3x3_submatrix void | dst float * | m const struct matrix4 * | i int | j int

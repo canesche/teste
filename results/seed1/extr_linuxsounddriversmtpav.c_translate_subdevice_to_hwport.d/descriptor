@@ -1,2 +1,0 @@
-struct mtpav | num_ports int 
-function translate_subdevice_to_hwport int | chip struct mtpav * | subdev int

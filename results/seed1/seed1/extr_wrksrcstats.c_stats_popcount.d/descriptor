@@ -1,0 +1,2 @@
+struct TYPE_3__ | min unsigned long | max unsigned long | data long * 
+function stats_popcount unsigned long | stats struct TYPE_3__ *

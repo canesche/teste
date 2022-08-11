@@ -1,0 +1,3 @@
+struct page | dummy int 
+struct kmem_cache | dummy int 
+function memcg_uncharge_slab void | page struct page * | order int | s struct kmem_cache *

@@ -1,0 +1,2 @@
+struct msp_pci_regs | if_status unsigned int 
+function bpci_interrupt int | irq int | dev_id void *

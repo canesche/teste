@@ -1,0 +1,4 @@
+struct hdac_bus | audio_component struct TYPE_2__ * 
+struct drm_audio_component_audio_ops | dummy int 
+struct TYPE_2__ | audio_ops const struct drm_audio_component_audio_ops * 
+function snd_hdac_acomp_register_notifier int | bus struct hdac_bus * | aops const struct drm_audio_component_audio_ops *

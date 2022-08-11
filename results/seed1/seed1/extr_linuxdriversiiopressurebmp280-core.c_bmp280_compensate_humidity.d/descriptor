@@ -1,0 +1,4 @@
+struct bmp280_calib | H4 int | H5 int | H6 int | H2 int | H1 long | H3 long 
+struct TYPE_2__ | bmp280 struct bmp280_calib 
+struct bmp280_data | t_fine long | calib struct TYPE_2__ 
+function bmp280_compensate_humidity int | data struct bmp280_data * | adc_humidity int

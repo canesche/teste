@@ -1,0 +1,2 @@
+struct fb_var_screeninfo | xres int | left_margin int | right_margin int | hsync_len int | yres int | upper_margin int | lower_margin int | vsync_len int | pixclock int 
+function var_to_refresh int | var const struct fb_var_screeninfo *

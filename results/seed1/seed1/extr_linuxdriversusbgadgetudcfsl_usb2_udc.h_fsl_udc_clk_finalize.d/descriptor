@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function fsl_udc_clk_finalize int | pdev struct platform_device *

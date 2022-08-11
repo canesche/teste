@@ -1,0 +1,6 @@
+struct uniphier_aio_sub | swm struct TYPE_6__ * 
+struct uniphier_aio_chip | num_aios int | aios struct TYPE_4__ * 
+struct TYPE_5__ | hw int 
+struct TYPE_6__ | oport struct TYPE_5__ 
+struct TYPE_4__ | sub struct uniphier_aio_sub * 
+function find_volume struct uniphier_aio_sub * | chip struct uniphier_aio_chip * | oport_hw int

@@ -1,3 +1,0 @@
-struct TYPE_5__ | core_params struct TYPE_4__ * 
-struct TYPE_4__ | speed int 
-function dwc_otg_get_param_speed int | core_if struct TYPE_5__ *

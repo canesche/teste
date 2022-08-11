@@ -1,0 +1,3 @@
+struct qstr | dummy int 
+struct inode | dummy int 
+function ubifs_init_security int | dentry struct inode * | inode struct inode * | qstr const struct qstr *

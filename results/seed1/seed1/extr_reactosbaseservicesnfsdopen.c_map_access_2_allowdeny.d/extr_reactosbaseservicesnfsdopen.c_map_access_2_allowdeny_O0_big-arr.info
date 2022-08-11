@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 7,
+    exit: true,
+    halt: false,
+    edges: 24,
+    static: {
+      instructions: 63,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 63,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_reactosbaseservicesnfsdopen.c_map_access_2_allowdeny.d/extr_reactosbaseservicesnfsdopen.c_map_access_2_allowdeny_O0::map_access_2_allowdeny(83)"
+  }
+]

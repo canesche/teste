@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetmellanoxmlxswspectrum_acl.c_mlxsw_sp_acl_block_disable_inc.d/extr_linuxdriversnetethernetmellanoxmlxswspectrum_acl.c_mlxsw_sp_acl_block_disable_inc_O0::mlxsw_sp_acl_block_disable_inc(61)"
+  }
+]

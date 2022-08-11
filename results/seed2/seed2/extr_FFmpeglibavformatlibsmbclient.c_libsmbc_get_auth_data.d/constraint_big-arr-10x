@@ -1,0 +1,1 @@
+value(workgroup_len) == 10, value(username_len) == 10, value(password_len) == 10, length(c) == 100, length(server) == 100, length(share) == 100, length(workgroup) == 100, length(username) == 100, length(password) == 100

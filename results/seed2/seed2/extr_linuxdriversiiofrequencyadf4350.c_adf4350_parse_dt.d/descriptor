@@ -1,0 +1,3 @@
+struct device | dummy int 
+struct adf4350_platform_data | dummy int 
+function adf4350_parse_dt struct adf4350_platform_data * | dev struct device *

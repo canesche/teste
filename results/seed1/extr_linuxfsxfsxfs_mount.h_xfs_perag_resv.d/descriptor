@@ -1,3 +1,0 @@
-struct xfs_ag_resv | dummy int 
-struct xfs_perag | pag_rmapbt_resv struct xfs_ag_resv | pag_meta_resv struct xfs_ag_resv 
-function xfs_perag_resv struct xfs_ag_resv * | pag struct xfs_perag * | type enum xfs_ag_resv_type

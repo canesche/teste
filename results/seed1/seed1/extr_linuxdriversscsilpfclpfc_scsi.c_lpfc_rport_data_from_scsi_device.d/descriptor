@@ -1,0 +1,7 @@
+struct scsi_device | hostdata long | host struct TYPE_3__ * 
+struct lpfc_vport | phba struct TYPE_4__ * 
+struct lpfc_rport_data | dummy int 
+struct lpfc_device_data | rport_data struct lpfc_rport_data * 
+struct TYPE_4__ | cfg_fof long 
+struct TYPE_3__ | hostdata long 
+function lpfc_rport_data_from_scsi_device struct lpfc_rport_data * | sdev struct scsi_device *

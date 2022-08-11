@@ -1,3 +1,0 @@
-struct wiphy | dummy int 
-struct net_device | dummy int 
-function prism2_leave_ibss int | wiphy struct wiphy * | dev struct net_device *

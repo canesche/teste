@@ -1,0 +1,8 @@
+struct cmng_vnic | vnic_max_rate struct TYPE_6__ * 
+struct TYPE_4__ | rs_periodic_timeout int | rs_threshold int 
+struct cmng_struct_per_port | rs_vars struct TYPE_4__ 
+struct cmng_init_input | vnic_max_rate long * 
+struct cmng_init | port struct cmng_struct_per_port | vnic struct cmng_vnic 
+struct TYPE_5__ | quota int | rate long 
+struct TYPE_6__ | vn_counter struct TYPE_5__ 
+function bnx2x_init_max void | input_data const struct cmng_init_input * | r_param int | ram_data struct cmng_init *

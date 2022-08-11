@@ -1,0 +1,3 @@
+struct knav_pool | region struct TYPE_2__ * 
+struct TYPE_2__ | dma_start int | virt_start void * 
+function knav_pool_desc_virt_to_dma int | ph void * | virt void *

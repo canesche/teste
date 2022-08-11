@@ -1,2 +1,0 @@
-struct TYPE_3__ | iBitmap int | idCommand int | fsStyle int | iString int | fsState int 
-function MakeButton void | p struct TYPE_3__ * | idCommand int | fsStyle int | nString int

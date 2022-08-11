@@ -1,0 +1,2 @@
+struct merge_msg_entry | written int 
+function merge_msg_entry_written int | merge_msg_entry const struct merge_msg_entry *

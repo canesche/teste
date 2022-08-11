@@ -1,0 +1,5 @@
+struct tsb | dummy int 
+struct tidaw | dummy int 
+struct tcw | dummy int 
+struct itcw | dummy int 
+function itcw_calc_size unsigned long | intrg int | max_tidaws int | intrg_max_tidaws int

@@ -1,0 +1,1 @@
+function _alsa_channels_to_obs_speakers enum speaker_layout | channels unsigned int

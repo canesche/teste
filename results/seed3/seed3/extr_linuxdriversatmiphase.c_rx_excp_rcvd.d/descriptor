@@ -1,0 +1,2 @@
+struct atm_dev | dummy int 
+function rx_excp_rcvd void | dev struct atm_dev *

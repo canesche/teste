@@ -1,0 +1,2 @@
+struct TYPE_3__ | path_nodes_index unsigned int | path_nodes int * 
+function onion_backup_nodes unsigned int | onion_c const struct TYPE_3__ * | nodes int * | max_num unsigned int

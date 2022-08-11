@@ -1,0 +1,1 @@
+function eat_at void | key const char * | key_len int | new_key char ** | new_len int *

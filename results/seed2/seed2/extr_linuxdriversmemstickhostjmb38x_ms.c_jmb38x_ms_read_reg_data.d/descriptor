@@ -1,0 +1,2 @@
+struct jmb38x_ms_host | io_pos int | io_word int * 
+function jmb38x_ms_read_reg_data unsigned int | host struct jmb38x_ms_host * | buf unsigned char * | length unsigned int

@@ -1,0 +1,1 @@
+function threeway_diff_dirs int | n int | basedir const char * | dirs int *[] | vdata void * | recurse int *

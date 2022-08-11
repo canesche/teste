@@ -1,4 +1,0 @@
-struct pdc_intc_priv | dummy int 
-struct irq_data | domain struct TYPE_2__ * 
-struct TYPE_2__ | host_data long 
-function irqd_to_priv struct pdc_intc_priv * | data struct irq_data *

@@ -1,0 +1,4 @@
+struct ql_adapter | ndev struct TYPE_2__ * 
+struct ib_mac_iocb_rsp | flags2 int 
+struct TYPE_2__ | features int 
+function ql_update_mac_hdr_len void | qdev struct ql_adapter * | ib_mac_rsp struct ib_mac_iocb_rsp * | page void * | len unsigned long *

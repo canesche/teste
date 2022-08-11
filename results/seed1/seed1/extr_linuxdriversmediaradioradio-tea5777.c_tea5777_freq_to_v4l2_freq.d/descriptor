@@ -1,0 +1,2 @@
+struct radio_tea5777 | band int 
+function tea5777_freq_to_v4l2_freq int | tea struct radio_tea5777 * | freq int

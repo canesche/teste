@@ -1,0 +1,4 @@
+struct TYPE_4__ | cmd struct TYPE_3__ * 
+struct sas_task | ssp_task struct TYPE_4__ 
+struct TYPE_3__ | cmnd long * 
+function check_enc_sas_cmd int | task struct sas_task *

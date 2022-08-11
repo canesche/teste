@@ -1,0 +1,2 @@
+struct st_h2o_http2client_conn_t | dummy int 
+function handle_push_promise_frame int | conn struct st_h2o_http2client_conn_t * | frame int * | err_desc const char **

@@ -1,3 +1,0 @@
-struct TYPE_2__ | header_version_major long | header_version_minor long 
-struct amdgpu_firmware_header | common struct TYPE_2__ 
-function amdgpu_ucode_hdr_version int | hdr union amdgpu_firmware_header * | hdr_major long | hdr_minor long

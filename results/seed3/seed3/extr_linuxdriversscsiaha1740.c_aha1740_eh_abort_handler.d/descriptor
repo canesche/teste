@@ -1,0 +1,2 @@
+struct scsi_cmnd | dummy int 
+function aha1740_eh_abort_handler int | dummy struct scsi_cmnd *

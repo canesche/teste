@@ -1,2 +1,0 @@
-struct perf_event | dummy int 
-function perf_event_set_bpf_prog int | event struct perf_event * | prog_fd int

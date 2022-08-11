@@ -1,3 +1,0 @@
-struct journal_head | b_tprev struct TYPE_2__ * | b_tnext struct journal_head * 
-struct TYPE_2__ | b_tnext struct journal_head * 
-function __blist_del_buffer void | list struct journal_head ** | jh struct journal_head *

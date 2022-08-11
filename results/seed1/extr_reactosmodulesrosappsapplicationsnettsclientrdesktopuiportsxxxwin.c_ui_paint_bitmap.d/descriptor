@@ -1,1 +1,0 @@
-function ui_paint_bitmap void | x int | y int | cx int | cy int | width int | height int | data int *

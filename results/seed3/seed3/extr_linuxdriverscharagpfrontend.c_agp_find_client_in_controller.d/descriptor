@@ -1,0 +1,3 @@
+struct agp_controller | clients struct agp_client * 
+struct agp_client | pid long | next struct agp_client * 
+function agp_find_client_in_controller struct agp_client * | controller struct agp_controller * | id long

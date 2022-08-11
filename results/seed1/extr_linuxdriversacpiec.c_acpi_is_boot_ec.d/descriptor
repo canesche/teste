@@ -1,3 +1,0 @@
-struct acpi_ec | command_addr long | data_addr long 
-struct TYPE_2__ | command_addr long | data_addr long 
-function acpi_is_boot_ec int | ec struct acpi_ec *

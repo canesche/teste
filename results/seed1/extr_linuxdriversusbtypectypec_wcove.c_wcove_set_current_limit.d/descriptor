@@ -1,2 +1,0 @@
-struct tcpc_dev | dummy int 
-function wcove_set_current_limit int | tcpc struct tcpc_dev * | max_ma int | mv int

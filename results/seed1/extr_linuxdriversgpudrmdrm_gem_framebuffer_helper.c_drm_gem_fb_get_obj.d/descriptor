@@ -1,3 +1,0 @@
-struct drm_gem_object | dummy int 
-struct drm_framebuffer | obj struct drm_gem_object ** 
-function drm_gem_fb_get_obj struct drm_gem_object * | fb struct drm_framebuffer * | plane unsigned int

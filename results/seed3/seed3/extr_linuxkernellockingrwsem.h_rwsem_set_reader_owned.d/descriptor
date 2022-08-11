@@ -1,0 +1,2 @@
+struct rw_semaphore | dummy int 
+function rwsem_set_reader_owned void | sem struct rw_semaphore *

@@ -1,0 +1,3 @@
+struct atm_vcc | dummy int 
+struct atm_qos | dummy int 
+function lanai_change_qos int | atmvcc struct atm_vcc * | qos struct atm_qos * | flags int

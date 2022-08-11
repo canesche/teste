@@ -1,0 +1,2 @@
+struct TYPE_2__ | coord_size unsigned int 
+function shader_glsl_get_coord_size void | resource_type enum wined3d_shader_resource_type | coord_size unsigned int * | deriv_size unsigned int *

@@ -1,0 +1,2 @@
+struct intf_timing_params | vsync_pulse_width long | v_front_porch long | v_back_porch long | yres long 
+function get_vertical_total long | timing const struct intf_timing_params *

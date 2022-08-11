@@ -1,0 +1,4 @@
+struct snd_midi_channel | control int * | drum_channel int 
+struct TYPE_2__ | midi_mode int 
+struct snd_emux_port | chset struct TYPE_2__ 
+function get_bank int | port struct snd_emux_port * | chan struct snd_midi_channel *

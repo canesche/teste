@@ -1,0 +1,4 @@
+struct ctx_list | next struct TYPE_4__ * | prev struct TYPE_3__ * 
+struct TYPE_4__ | prev struct TYPE_3__ * 
+struct TYPE_3__ | next struct TYPE_4__ * 
+function remove_from_ctx_list void | entry struct ctx_list *

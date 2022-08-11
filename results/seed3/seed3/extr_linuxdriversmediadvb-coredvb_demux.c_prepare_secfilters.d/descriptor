@@ -1,0 +1,4 @@
+struct dmx_section_filter | filter_mode int * | filter_mask int * 
+struct dvb_demux_filter | maskandmode int * | maskandnotmode int * | doneq int | filter struct dmx_section_filter | next struct dvb_demux_filter * 
+struct dvb_demux_feed | filter struct dvb_demux_filter * 
+function prepare_secfilters void | dvbdmxfeed struct dvb_demux_feed *

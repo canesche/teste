@@ -1,0 +1,3 @@
+struct TYPE_4__ | prefilters struct TYPE_5__ * 
+struct TYPE_5__ | on_setup_ostream long | next struct TYPE_5__ * 
+function prefilter_is_registered int | req struct TYPE_4__ *

@@ -1,0 +1,3 @@
+struct packing_data | tree_depth unsigned int * | objects struct object_entry * 
+struct object_entry | dummy int 
+function oe_tree_depth unsigned int | pack struct packing_data * | e struct object_entry *

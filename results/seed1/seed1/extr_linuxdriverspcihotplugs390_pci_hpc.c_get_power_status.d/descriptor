@@ -1,0 +1,4 @@
+struct slot | zdev struct TYPE_2__ * 
+struct hotplug_slot | private struct slot * 
+struct TYPE_2__ | state int 
+function get_power_status int | hotplug_slot struct hotplug_slot * | value int *

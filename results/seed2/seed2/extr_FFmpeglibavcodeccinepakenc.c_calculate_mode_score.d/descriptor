@@ -1,0 +1,4 @@
+struct TYPE_6__ | v1_size int | v4_size int | mode int 
+struct TYPE_7__ | v1_error int | best_encoding void * | v4_error int | skip_error int 
+struct TYPE_8__ | pix_fmt long | w int | lambda int | mb struct TYPE_7__ * 
+function calculate_mode_score int | s struct TYPE_8__ * | h int | info struct TYPE_6__ * | report int | training_set_v1_shrunk int * | training_set_v4_shrunk int *

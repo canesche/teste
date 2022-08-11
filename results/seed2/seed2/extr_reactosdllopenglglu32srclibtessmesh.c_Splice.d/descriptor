@@ -1,0 +1,3 @@
+struct TYPE_6__ | Onext struct TYPE_6__ * | Sym struct TYPE_5__ * 
+struct TYPE_5__ | Lnext struct TYPE_6__ * 
+function Splice void | a struct TYPE_6__ * | b struct TYPE_6__ *

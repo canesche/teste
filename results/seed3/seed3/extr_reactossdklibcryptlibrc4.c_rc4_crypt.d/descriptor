@@ -1,0 +1,2 @@
+struct TYPE_3__ | state unsigned char * | x unsigned int | y unsigned int 
+function rc4_crypt void | a4i struct TYPE_3__ * | inoutString unsigned char * | length unsigned int

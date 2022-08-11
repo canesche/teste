@@ -1,0 +1,5 @@
+struct snd_kcontrol | dummy int 
+struct TYPE_3__ | status int * 
+struct TYPE_4__ | iec958 struct TYPE_3__ 
+struct snd_ctl_elem_value | value struct TYPE_4__ 
+function pcxhr_iec958_mask_get int | kcontrol struct snd_kcontrol * | ucontrol struct snd_ctl_elem_value *

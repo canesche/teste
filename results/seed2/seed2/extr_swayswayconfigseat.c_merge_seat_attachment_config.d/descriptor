@@ -1,0 +1,2 @@
+struct seat_attachment_config | dummy int 
+function merge_seat_attachment_config void | dest struct seat_attachment_config * | source struct seat_attachment_config *

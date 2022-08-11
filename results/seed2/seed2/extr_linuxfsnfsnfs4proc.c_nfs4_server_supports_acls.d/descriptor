@@ -1,0 +1,2 @@
+struct nfs_server | caps int 
+function nfs4_server_supports_acls int | server struct nfs_server *

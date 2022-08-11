@@ -1,0 +1,4 @@
+struct isdn_ppp_compressor | next struct TYPE_4__ * | prev struct TYPE_3__ * 
+struct TYPE_4__ | prev struct TYPE_3__ * 
+struct TYPE_3__ | next struct TYPE_4__ * 
+function isdn_ppp_unregister_compressor int | ipc struct isdn_ppp_compressor *

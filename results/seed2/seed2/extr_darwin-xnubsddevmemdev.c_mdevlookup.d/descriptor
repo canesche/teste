@@ -1,0 +1,2 @@
+struct TYPE_2__ | mdFlags int | mdBDev int 
+function mdevlookup int | devid int

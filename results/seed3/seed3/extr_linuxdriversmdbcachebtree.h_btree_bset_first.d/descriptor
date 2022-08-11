@@ -1,0 +1,5 @@
+struct TYPE_4__ | set struct TYPE_3__ * 
+struct btree | keys struct TYPE_4__ 
+struct bset | dummy int 
+struct TYPE_3__ | data struct bset * 
+function btree_bset_first struct bset * | b struct btree *

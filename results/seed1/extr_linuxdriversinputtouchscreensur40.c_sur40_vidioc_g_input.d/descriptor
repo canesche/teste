@@ -1,2 +1,0 @@
-struct file | dummy int 
-function sur40_vidioc_g_input int | file struct file * | priv void * | i unsigned int *

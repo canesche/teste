@@ -1,0 +1,3 @@
+struct map | dso struct dso * 
+struct dso | dummy int 
+function match_chain_dso_addresses enum match_result | left_map struct map * | left_ip long | right_map struct map * | right_ip long

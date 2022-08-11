@@ -1,0 +1,1 @@
+function of_bus_sbus_get_flags unsigned long | addr const int * | flags unsigned long

@@ -1,3 +1,0 @@
-struct TYPE_2__ | options int 
-struct aac_dev | adapter_info struct TYPE_2__ 
-function aac_supports_2T int | dev struct aac_dev *

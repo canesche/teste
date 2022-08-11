@@ -1,3 +1,0 @@
-struct TYPE_2__ | clean long 
-struct vmcb | control struct TYPE_2__ 
-function mark_all_dirty void | vmcb struct vmcb *

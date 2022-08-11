@@ -1,0 +1,2 @@
+struct TYPE_3__ | pix_fmt long 
+function get_sub_picture void | s struct TYPE_3__ * | x int | y int | in_data int *[4] | in_linesize int [4] | out_data int *[4] | out_linesize int [4]

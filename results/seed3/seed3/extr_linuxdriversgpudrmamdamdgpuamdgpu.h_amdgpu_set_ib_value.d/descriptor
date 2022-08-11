@@ -1,0 +1,4 @@
+struct amdgpu_cs_parser | job struct TYPE_4__ * 
+struct TYPE_4__ | ibs struct TYPE_3__ * 
+struct TYPE_3__ | ptr unsigned long * 
+function amdgpu_set_ib_value void | p struct amdgpu_cs_parser * | ib_idx unsigned long | idx int | value unsigned long

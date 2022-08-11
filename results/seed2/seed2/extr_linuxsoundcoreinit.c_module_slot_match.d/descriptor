@@ -1,0 +1,2 @@
+struct module | dummy int 
+function module_slot_match int | module struct module * | idx int

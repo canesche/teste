@@ -1,2 +1,0 @@
-struct ata_queued_cmd | dummy int 
-function ns87415_check_atapi_dma int | qc struct ata_queued_cmd *

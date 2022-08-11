@@ -1,0 +1,2 @@
+struct TYPE_3__ | last_edge unsigned int 
+function zbar_scanner_get_edge unsigned int | scn const struct TYPE_3__ * | offset unsigned int | prec int

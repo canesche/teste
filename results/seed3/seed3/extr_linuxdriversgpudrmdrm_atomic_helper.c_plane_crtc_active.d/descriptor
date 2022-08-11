@@ -1,0 +1,4 @@
+struct drm_plane_state | crtc struct TYPE_4__ * 
+struct TYPE_4__ | state struct TYPE_3__ * 
+struct TYPE_3__ | active long 
+function plane_crtc_active int | state const struct drm_plane_state *

@@ -1,7 +1,0 @@
-struct TYPE_4__ | config2 int | config1 int 
-struct hw_perf_event_extra | config int | idx long | reg int 
-struct hw_perf_event | config int | branch_reg struct hw_perf_event_extra | extra_reg struct hw_perf_event_extra 
-struct perf_event | attr struct TYPE_4__ | hw struct hw_perf_event 
-struct intel_uncore_box | pmu struct TYPE_3__ * 
-struct TYPE_3__ | pmu_idx long 
-function nhmex_bbox_hw_config int | box struct intel_uncore_box * | event struct perf_event *

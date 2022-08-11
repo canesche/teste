@@ -1,1 +1,0 @@
-value(MenuHeader) == 255, value(MenuFooter) == 255, value(ShowBootOptions) == 255, value(MenuItemCount) == 255, value(DefaultMenuItem) == 255, value(MenuTimeOut) == 255, value(CanEscape) == 255, value(KeyPressFilter) == 255, length(MenuItemList) == 65025, length(SelectedMenuItem) == 65025

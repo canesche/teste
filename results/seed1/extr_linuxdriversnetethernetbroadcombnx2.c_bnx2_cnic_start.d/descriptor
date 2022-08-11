@@ -1,2 +1,0 @@
-struct bnx2 | dummy int 
-function bnx2_cnic_start void | bp struct bnx2 *

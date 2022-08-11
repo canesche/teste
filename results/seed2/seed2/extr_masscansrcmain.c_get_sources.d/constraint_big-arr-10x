@@ -1,0 +1,1 @@
+value(nic_index) == 10, length(src_ip) == 100, length(src_ip_mask) == 100, length(src_port) == 100, length(src_port_mask) == 100, length(masscan) == 100

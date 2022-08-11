@@ -1,0 +1,2 @@
+struct crypto_tfm | dummy int 
+function null_setkey int | tfm struct crypto_tfm * | key const int * | keylen unsigned int

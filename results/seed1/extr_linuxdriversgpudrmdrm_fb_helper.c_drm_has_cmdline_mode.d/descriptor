@@ -1,4 +1,0 @@
-struct drm_fb_helper_connector | connector struct TYPE_4__ * 
-struct TYPE_3__ | specified int 
-struct TYPE_4__ | cmdline_mode struct TYPE_3__ 
-function drm_has_cmdline_mode int | fb_connector struct drm_fb_helper_connector *

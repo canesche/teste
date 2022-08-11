@@ -1,2 +1,0 @@
-struct stack | mem_end long 
-function stack_block void * | s struct stack * | p long

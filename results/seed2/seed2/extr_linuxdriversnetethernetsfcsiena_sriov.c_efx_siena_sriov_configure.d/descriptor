@@ -1,0 +1,2 @@
+struct efx_nic | dummy int 
+function efx_siena_sriov_configure int | efx struct efx_nic * | num_vfs int

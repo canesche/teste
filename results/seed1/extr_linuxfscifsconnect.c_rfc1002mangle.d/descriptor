@@ -1,1 +1,0 @@
-function rfc1002mangle void | target char * | source char * | length unsigned int

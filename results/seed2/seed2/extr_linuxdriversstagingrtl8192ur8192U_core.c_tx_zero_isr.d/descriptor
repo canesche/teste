@@ -1,0 +1,2 @@
+struct urb | dummy int 
+function tx_zero_isr void | tx_urb struct urb *

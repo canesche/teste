@@ -1,0 +1,5 @@
+struct qed_tid_seg | count long 
+struct qed_hwfn | p_cxt_mngr struct qed_cxt_mngr * 
+struct qed_cxt_mngr | conn_cfg struct TYPE_2__ * 
+struct TYPE_2__ | tid_seg struct qed_tid_seg * 
+function qed_cxt_tid_seg_info struct qed_tid_seg * | p_hwfn struct qed_hwfn * | seg unsigned long

@@ -1,2 +1,0 @@
-struct ath_regulatory | current_rd int 
-function ath_regd_get_eepromRD int | reg struct ath_regulatory *

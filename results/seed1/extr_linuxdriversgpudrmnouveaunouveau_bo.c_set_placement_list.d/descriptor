@@ -1,2 +1,0 @@
-struct ttm_place | flags int 
-function set_placement_list void | pl struct ttm_place * | n unsigned int * | type int | flags int

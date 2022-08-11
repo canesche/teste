@@ -1,0 +1,2 @@
+struct ixgbe_hw | dummy int 
+function ixgbevf_hv_update_xcast_mode int | hw struct ixgbe_hw * | xcast_mode int

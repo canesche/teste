@@ -1,0 +1,1 @@
+function wizchip_bus_writebyte void | AddrSel long | wb int

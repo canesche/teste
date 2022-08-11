@@ -1,3 +1,0 @@
-struct TYPE_2__ | frame int | second int | minute int 
-struct cdrom_addr | lba int | msf struct TYPE_2__ 
-function sanitize_format void | addr union cdrom_addr * | curr long * | requested long

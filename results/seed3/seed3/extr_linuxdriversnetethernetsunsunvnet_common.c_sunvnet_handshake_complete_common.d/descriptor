@@ -1,0 +1,3 @@
+struct vio_driver_state | drings struct vio_dring_state * 
+struct vio_dring_state | rcv_nxt int | snd_nxt int 
+function sunvnet_handshake_complete_common void | vio struct vio_driver_state *

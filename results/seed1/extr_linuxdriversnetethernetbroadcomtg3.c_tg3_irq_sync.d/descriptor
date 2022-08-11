@@ -1,2 +1,0 @@
-struct tg3 | irq_sync int 
-function tg3_irq_sync int | tp struct tg3 *

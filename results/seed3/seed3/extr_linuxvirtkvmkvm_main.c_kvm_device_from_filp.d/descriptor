@@ -1,0 +1,3 @@
+struct kvm_device | dummy int 
+struct file | private_data struct kvm_device * | f_op int * 
+function kvm_device_from_filp struct kvm_device * | filp struct file *

@@ -1,3 +1,0 @@
-struct smbd_connection | dummy int 
-struct msghdr | dummy int 
-function smbd_recv int | info struct smbd_connection * | msg struct msghdr *

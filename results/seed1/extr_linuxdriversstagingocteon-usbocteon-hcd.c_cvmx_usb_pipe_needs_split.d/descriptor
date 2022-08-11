@@ -1,5 +1,0 @@
-struct TYPE_3__ | prtspd long 
-struct TYPE_4__ | s struct TYPE_3__ 
-struct octeon_hcd | usbcx_hprt struct TYPE_4__ 
-struct cvmx_usb_pipe | device_speed long 
-function cvmx_usb_pipe_needs_split int | usb struct octeon_hcd * | pipe struct cvmx_usb_pipe *

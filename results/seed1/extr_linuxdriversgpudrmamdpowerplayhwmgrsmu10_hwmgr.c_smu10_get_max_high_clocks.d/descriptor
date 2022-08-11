@@ -1,3 +1,0 @@
-struct pp_hwmgr | dummy int 
-struct amd_pp_simple_clock_info | engine_max_clock int 
-function smu10_get_max_high_clocks int | hwmgr struct pp_hwmgr * | clocks struct amd_pp_simple_clock_info *

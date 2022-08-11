@@ -1,0 +1,3 @@
+struct TYPE_4__ | head struct TYPE_3__ * 
+struct TYPE_3__ | next struct TYPE_3__ * | entry int * 
+function config_iterator_next int | entry int ** | iter int *

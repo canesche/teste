@@ -1,2 +1,0 @@
-struct dma_slave_config | src_maxburst int | dst_maxburst int | src_addr_width int | dst_addr_width int 
-function sanitize_config int | sconfig struct dma_slave_config * | direction enum dma_transfer_direction

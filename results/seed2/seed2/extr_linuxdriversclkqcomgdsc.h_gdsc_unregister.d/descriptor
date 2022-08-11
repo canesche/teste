@@ -1,0 +1,2 @@
+struct gdsc_desc | dummy int 
+function gdsc_unregister void | desc struct gdsc_desc *

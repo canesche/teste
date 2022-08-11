@@ -1,0 +1,4 @@
+struct dvb_frontend | demodulator_priv struct cinergyt2_fe_state * 
+struct TYPE_2__ | snr int 
+struct cinergyt2_fe_state | status struct TYPE_2__ 
+function cinergyt2_fe_read_snr int | fe struct dvb_frontend * | snr int *

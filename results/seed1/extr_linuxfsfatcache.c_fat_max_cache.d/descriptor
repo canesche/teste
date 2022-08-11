@@ -1,2 +1,0 @@
-struct inode | dummy int 
-function fat_max_cache int | inode struct inode *

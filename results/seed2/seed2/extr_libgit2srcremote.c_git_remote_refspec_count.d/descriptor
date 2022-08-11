@@ -1,0 +1,3 @@
+struct TYPE_4__ | length unsigned long 
+struct TYPE_5__ | refspecs struct TYPE_4__ 
+function git_remote_refspec_count unsigned long | remote const struct TYPE_5__ *

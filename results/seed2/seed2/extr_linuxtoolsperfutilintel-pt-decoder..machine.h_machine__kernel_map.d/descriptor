@@ -1,0 +1,3 @@
+struct map | dummy int 
+struct machine | vmlinux_map struct map * 
+function machine__kernel_map struct map * | machine struct machine *

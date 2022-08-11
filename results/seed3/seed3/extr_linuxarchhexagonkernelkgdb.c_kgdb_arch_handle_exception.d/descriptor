@@ -1,0 +1,2 @@
+struct pt_regs | dummy int 
+function kgdb_arch_handle_exception int | vector int | signo int | err_code int | remcom_in_buffer char * | remcom_out_buffer char * | linux_regs struct pt_regs *

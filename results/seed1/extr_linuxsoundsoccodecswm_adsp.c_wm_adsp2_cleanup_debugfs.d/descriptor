@@ -1,2 +1,0 @@
-struct wm_adsp | dummy int 
-function wm_adsp2_cleanup_debugfs void | dsp struct wm_adsp *

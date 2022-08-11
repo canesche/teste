@@ -1,0 +1,2 @@
+struct TYPE_3__ | mapName char * 
+function PicoGetShaderMapName char * | shader struct TYPE_3__ *

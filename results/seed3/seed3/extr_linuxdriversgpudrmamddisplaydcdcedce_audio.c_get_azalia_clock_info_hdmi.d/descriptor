@@ -1,0 +1,2 @@
+struct azalia_clock_info | audio_dto_phase int | audio_dto_module int 
+function get_azalia_clock_info_hdmi void | crtc_pixel_clock_in_khz int | actual_pixel_clock_in_khz int | azalia_clock_info struct azalia_clock_info *

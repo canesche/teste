@@ -1,0 +1,4 @@
+struct mlxsw_sp_fid | dummy int 
+struct mlxsw_sp | acl struct TYPE_2__ * 
+struct TYPE_2__ | dummy_fid struct mlxsw_sp_fid * 
+function mlxsw_sp_acl_dummy_fid struct mlxsw_sp_fid * | mlxsw_sp struct mlxsw_sp *

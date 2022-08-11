@@ -1,2 +1,0 @@
-struct TYPE_3__ | id long | guid const int 
-function ff_get_codec_guid const int * | id enum AVCodecID | av_guid const struct TYPE_3__ *

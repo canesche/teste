@@ -1,2 +1,0 @@
-struct audio_crtc_info | h_total int | h_active int | pixel_repetition int 
-function calc_max_audio_packets_per_line int | crtc_info const struct audio_crtc_info *

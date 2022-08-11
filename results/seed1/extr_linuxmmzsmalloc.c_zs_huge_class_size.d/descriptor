@@ -1,2 +1,0 @@
-struct zs_pool | dummy int 
-function zs_huge_class_size unsigned long | pool struct zs_pool *

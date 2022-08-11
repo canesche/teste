@@ -1,0 +1,2 @@
+struct qed_rdma_query_qp_out_params | incoming_atomic_en long | incoming_rdma_read_en long | incoming_rdma_write_en long 
+function qedr_to_ib_qp_acc_flags int | params struct qed_rdma_query_qp_out_params *

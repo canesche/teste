@@ -1,2 +1,0 @@
-struct st_var_header | data int 
-function spk_get_var_header struct st_var_header * | var_id enum var_id_t

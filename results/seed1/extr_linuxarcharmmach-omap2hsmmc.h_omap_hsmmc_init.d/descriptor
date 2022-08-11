@@ -1,2 +1,0 @@
-struct omap2_hsmmc_info | dummy int 
-function omap_hsmmc_init void | info struct omap2_hsmmc_info *

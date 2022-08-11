@@ -1,0 +1,6 @@
+struct TYPE_4__ | table struct s_fpmc * 
+struct TYPE_5__ | mc struct TYPE_4__ | os_slots_used long 
+struct TYPE_6__ | fp struct TYPE_5__ 
+struct s_smc | hw struct TYPE_6__ 
+struct s_fpmc | n long | perm int 
+function mac_clear_multicast void | smc struct s_smc *

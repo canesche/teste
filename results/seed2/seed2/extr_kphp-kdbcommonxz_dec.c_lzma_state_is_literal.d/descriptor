@@ -1,0 +1,1 @@
+function lzma_state_is_literal char | state enum lzma_state

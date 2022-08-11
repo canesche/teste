@@ -1,0 +1,4 @@
+struct pp_hwmgr | smu_backend long 
+struct TYPE_2__ | GnbLPML long * 
+struct fiji_smumgr | power_tune_table struct TYPE_2__ 
+function fiji_populate_gnb_lpml int | hwmgr struct pp_hwmgr *

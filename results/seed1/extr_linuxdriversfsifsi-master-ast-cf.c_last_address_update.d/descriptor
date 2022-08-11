@@ -1,2 +1,0 @@
-struct fsi_master_acf | last_addr int 
-function last_address_update void | master struct fsi_master_acf * | id int | valid int | addr int

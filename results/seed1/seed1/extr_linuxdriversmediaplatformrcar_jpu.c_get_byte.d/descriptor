@@ -1,0 +1,2 @@
+struct jpeg_buffer | curr long | end long 
+function get_byte int | buf struct jpeg_buffer *

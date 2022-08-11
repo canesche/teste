@@ -1,0 +1,3 @@
+struct reg_window32 | locals unsigned long * 
+struct pt_regs | u_regs unsigned long * 
+function fetch_reg unsigned long | reg unsigned int | regs struct pt_regs *

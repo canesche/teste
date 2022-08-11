@@ -1,0 +1,2 @@
+struct lev_cache_set_new_local_copy_short | dummy int 
+function cache_delete_local_copy_short int | E struct lev_cache_set_new_local_copy_short *

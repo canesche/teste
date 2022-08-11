@@ -1,0 +1,4 @@
+struct TYPE_3__ | funcs int * | num_types long 
+struct TYPE_4__ | irq struct TYPE_3__ | num_enc_rings long 
+struct amdgpu_device | vcn struct TYPE_4__ 
+function vcn_v1_0_set_irq_funcs void | adev struct amdgpu_device *

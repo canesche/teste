@@ -1,0 +1,2 @@
+struct TYPE_4__ | cSpeed int | cSize double 
+function resultDistLvl double | result1 const struct TYPE_4__ | lvlRes const struct TYPE_4__

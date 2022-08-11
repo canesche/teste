@@ -1,0 +1,4 @@
+struct TYPE_5__ | numpoints int | p long ** 
+struct TYPE_6__ | winding struct TYPE_5__ * 
+struct TYPE_7__ | numsides int | sides struct TYPE_6__ * 
+function BrushOutOfBounds int | brush struct TYPE_7__ * | mins long * | maxs long * | epsilon float

@@ -1,0 +1,4 @@
+struct TYPE_2__ | param_val int * 
+struct dbg_tools_data | grc struct TYPE_2__ 
+struct qed_hwfn | dbg_info struct dbg_tools_data 
+function qed_grc_get_param int | p_hwfn struct qed_hwfn * | grc_param enum dbg_grc_params

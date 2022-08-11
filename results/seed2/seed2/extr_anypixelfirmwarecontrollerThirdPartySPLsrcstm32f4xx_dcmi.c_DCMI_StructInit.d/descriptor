@@ -1,0 +1,2 @@
+struct TYPE_3__ | DCMI_ExtendedDataMode int | DCMI_CaptureRate int | DCMI_HSPolarity int | DCMI_VSPolarity int | DCMI_PCKPolarity int | DCMI_SynchroMode int | DCMI_CaptureMode int 
+function DCMI_StructInit void | DCMI_InitStruct struct TYPE_3__ *

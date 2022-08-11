@@ -1,0 +1,3 @@
+struct TYPE_4__ | gregs long * 
+struct TYPE_5__ | uc_mcontext struct TYPE_4__ 
+function getMcontextEip void * | uc struct TYPE_5__ *

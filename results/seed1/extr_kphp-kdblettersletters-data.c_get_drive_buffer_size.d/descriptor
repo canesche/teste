@@ -1,3 +1,0 @@
-struct TYPE_4__ | data struct TYPE_3__ * 
-struct TYPE_3__ | drive_l long long | drive_r long long | drive_old_mx long long 
-function get_drive_buffer_size long long | priority int

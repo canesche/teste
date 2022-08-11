@@ -1,0 +1,2 @@
+struct batadv_priv | dummy int 
+function batadv_debug_log_cleanup void | bat_priv struct batadv_priv *

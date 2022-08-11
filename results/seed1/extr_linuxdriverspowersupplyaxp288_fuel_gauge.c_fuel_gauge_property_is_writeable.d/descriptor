@@ -1,2 +1,0 @@
-struct power_supply | dummy int 
-function fuel_gauge_property_is_writeable int | psy struct power_supply * | psp enum power_supply_property

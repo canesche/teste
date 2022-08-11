@@ -1,2 +1,0 @@
-struct parser | stack_pos unsigned long | stack int * | state int 
-function pop_state void | parser struct parser *

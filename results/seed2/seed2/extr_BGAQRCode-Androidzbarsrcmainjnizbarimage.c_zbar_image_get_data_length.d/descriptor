@@ -1,0 +1,2 @@
+struct TYPE_3__ | datalen unsigned long 
+function zbar_image_get_data_length unsigned long | img const struct TYPE_3__ *

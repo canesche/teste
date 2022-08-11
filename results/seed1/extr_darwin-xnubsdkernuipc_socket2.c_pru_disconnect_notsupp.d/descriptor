@@ -1,2 +1,0 @@
-struct socket | dummy int 
-function pru_disconnect_notsupp int | so struct socket *

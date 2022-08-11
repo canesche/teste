@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_BGAQRCode-Androidzbarsrcmainjnizbarqrcodeqrdec.c_qr_pack_buf_read.d/extr_BGAQRCode-Androidzbarsrcmainjnizbarqrcodeqrdec.c_qr_pack_buf_read_O0::qr_pack_buf_read(62)"
+  }
+]

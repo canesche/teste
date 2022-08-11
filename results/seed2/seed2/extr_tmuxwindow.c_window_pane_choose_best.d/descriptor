@@ -1,0 +1,2 @@
+struct window_pane | active_point long 
+function window_pane_choose_best struct window_pane * | list struct window_pane ** | size unsigned long

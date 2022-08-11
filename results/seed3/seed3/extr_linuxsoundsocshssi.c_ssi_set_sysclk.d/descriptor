@@ -1,0 +1,3 @@
+struct ssi_priv | sysclk unsigned int 
+struct snd_soc_dai | id unsigned long 
+function ssi_set_sysclk int | cpu_dai struct snd_soc_dai * | clk_id int | freq unsigned int | dir int

@@ -1,0 +1,3 @@
+struct dwc3_gadget_ep_cmd_params | dummy int 
+struct dwc3_ep | dummy int 
+function dwc3_send_gadget_ep_cmd int | dep struct dwc3_ep * | cmd unsigned int | params struct dwc3_gadget_ep_cmd_params *

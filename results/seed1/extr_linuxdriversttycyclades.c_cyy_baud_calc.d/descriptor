@@ -1,2 +1,0 @@
-struct cyclades_port | chip_rev long | tbpr int | tco int | rbpr int | rco int 
-function cyy_baud_calc void | info struct cyclades_port * | baud int

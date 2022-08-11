@@ -1,0 +1,2 @@
+struct phy_dm_struct | dummy int 
+function odm_update_mp_driver_status void | dm struct phy_dm_struct *

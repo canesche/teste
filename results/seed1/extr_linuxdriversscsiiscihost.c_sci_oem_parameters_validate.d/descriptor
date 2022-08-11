@@ -1,6 +1,0 @@
-struct TYPE_8__ | mode_type long | max_concurr_spin_up int | do_enable_ssc int | ssc_sata_tx_spread_level long | ssc_sas_tx_spread_level long | ssc_sas_tx_type int 
-struct sci_oem_params | controller struct TYPE_8__ | ports struct TYPE_7__ * | phys struct TYPE_6__ * 
-struct TYPE_7__ | phy_mask long 
-struct TYPE_5__ | high long | low long 
-struct TYPE_6__ | sas_address struct TYPE_5__ 
-function sci_oem_parameters_validate int | oem struct sci_oem_params * | version long

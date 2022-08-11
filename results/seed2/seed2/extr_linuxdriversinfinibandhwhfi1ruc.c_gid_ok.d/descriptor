@@ -1,0 +1,3 @@
+struct TYPE_2__ | interface_id long | subnet_prefix long 
+struct ib_gid | global struct TYPE_2__ 
+function gid_ok int | gid union ib_gid * | gid_prefix long | id long

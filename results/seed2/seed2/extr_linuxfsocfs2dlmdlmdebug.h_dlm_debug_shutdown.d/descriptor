@@ -1,0 +1,2 @@
+struct dlm_ctxt | dummy int 
+function dlm_debug_shutdown void | dlm struct dlm_ctxt *

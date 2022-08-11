@@ -1,0 +1,5 @@
+struct sge_fl | cidx unsigned long | size unsigned long | avail int | sdesc struct rx_sw_desc * 
+struct rx_sw_desc | dma_addr int | page int 
+struct pkt_gl | frags struct TYPE_2__ * 
+struct TYPE_2__ | page int 
+function restore_rx_bufs void | gl const struct pkt_gl * | fl struct sge_fl * | frags int

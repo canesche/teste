@@ -1,0 +1,2 @@
+struct dma_map_ops | dummy int 
+function set_pci_dma_ops void | dma_ops const struct dma_map_ops *

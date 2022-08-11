@@ -1,0 +1,2 @@
+struct reg_window | ins unsigned long * 
+function kernel_stack_up struct reg_window * | rw struct reg_window *

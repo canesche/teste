@@ -1,0 +1,2 @@
+struct mce | cpuvendor long | status int 
+function mce_is_correctable int | m struct mce *

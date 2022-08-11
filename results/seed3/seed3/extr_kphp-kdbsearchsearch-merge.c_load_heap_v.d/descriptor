@@ -1,0 +1,2 @@
+struct TYPE_3__ | cur int * | x int | value int 
+function load_heap_v void | H struct TYPE_3__ *

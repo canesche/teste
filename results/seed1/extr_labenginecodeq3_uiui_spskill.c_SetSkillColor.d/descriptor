@@ -1,7 +1,0 @@
-struct TYPE_11__ | color void * 
-struct TYPE_10__ | color void * 
-struct TYPE_9__ | color void * 
-struct TYPE_8__ | color void * 
-struct TYPE_7__ | color void * 
-struct TYPE_12__ | item_nightmare struct TYPE_11__ | item_hard struct TYPE_10__ | item_medium struct TYPE_9__ | item_easy struct TYPE_8__ | item_baby struct TYPE_7__ 
-function SetSkillColor void | skill int | color void *

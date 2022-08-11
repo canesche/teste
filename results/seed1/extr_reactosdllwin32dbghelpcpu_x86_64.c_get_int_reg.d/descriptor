@@ -1,2 +1,0 @@
-struct TYPE_3__ | Rax int 
-function get_int_reg int | context struct TYPE_3__ * | reg int

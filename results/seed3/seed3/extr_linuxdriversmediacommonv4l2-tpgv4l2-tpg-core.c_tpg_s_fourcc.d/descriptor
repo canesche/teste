@@ -1,0 +1,2 @@
+struct tpg_data | fourcc int | planes int | buffers int | recalc_colors int | interleaved int | vdownsampling int * | hdownsampling int * | hmask int * | twopixelsize int * | color_enc void * 
+function tpg_s_fourcc int | tpg struct tpg_data * | fourcc int

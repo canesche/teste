@@ -1,0 +1,3 @@
+struct dev_pm_ops | dummy int 
+struct TYPE_3__ | event int 
+function pm_op int * | ops const struct dev_pm_ops * | state struct TYPE_3__

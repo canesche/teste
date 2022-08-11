@@ -1,0 +1,3 @@
+struct data_buf | len long | data int * 
+struct TYPE_2__ | bwi unsigned long | ps int | bufs struct data_buf * 
+function add_byte void | byte int

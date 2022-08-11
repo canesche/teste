@@ -1,0 +1,2 @@
+struct uart_port | mapbase long 
+function ic4_type const char * | the_port struct uart_port *

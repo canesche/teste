@@ -1,3 +1,0 @@
-struct TYPE_2__ | irq_exits int 
-struct kvm_vcpu | stat struct TYPE_2__ 
-function handle_external_interrupt int | vcpu struct kvm_vcpu *

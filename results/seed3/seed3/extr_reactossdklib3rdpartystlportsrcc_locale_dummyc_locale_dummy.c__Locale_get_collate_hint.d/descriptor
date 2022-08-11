@@ -1,0 +1,3 @@
+struct _Locale_name_hint | dummy int 
+struct _Locale_collate | dummy int 
+function _Locale_get_collate_hint struct _Locale_name_hint * | collate struct _Locale_collate *

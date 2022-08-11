@@ -1,0 +1,2 @@
+struct skl_ddb_entry | start long | end long 
+function skl_ddb_entry_size long | entry const struct skl_ddb_entry *

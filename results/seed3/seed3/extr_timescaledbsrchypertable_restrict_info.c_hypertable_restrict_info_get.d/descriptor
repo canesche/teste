@@ -1,0 +1,4 @@
+struct TYPE_8__ | dimension struct TYPE_6__ * 
+struct TYPE_7__ | num_dimensions int | dimension_restriction struct TYPE_8__ ** 
+struct TYPE_6__ | column_attno long 
+function hypertable_restrict_info_get struct TYPE_8__ * | hri struct TYPE_7__ * | attno long

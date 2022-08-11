@@ -1,0 +1,2 @@
+struct bcma_drv_pci | dummy int 
+function bcma_core_pci_hostmode_init void | pc struct bcma_drv_pci *

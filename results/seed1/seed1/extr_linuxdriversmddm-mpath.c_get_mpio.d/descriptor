@@ -1,0 +1,3 @@
+struct map_info | ptr struct dm_mpath_io * 
+struct dm_mpath_io | dummy int 
+function get_mpio struct dm_mpath_io * | info union map_info *

@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function cx25821_functionality int | adap struct i2c_adapter *

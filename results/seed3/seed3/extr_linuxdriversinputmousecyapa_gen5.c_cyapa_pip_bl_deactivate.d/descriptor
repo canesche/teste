@@ -1,0 +1,2 @@
+struct cyapa | dummy int 
+function cyapa_pip_bl_deactivate int | cyapa struct cyapa *

@@ -1,0 +1,1 @@
+function netlbl_bitmap_walk int | bitmap const unsigned char * | bitmap_len int | offset int | state long

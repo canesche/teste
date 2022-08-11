@@ -1,0 +1,2 @@
+struct cyapa | gen long | state long 
+function cyapa_is_pip_app_mode int | cyapa struct cyapa *

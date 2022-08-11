@@ -1,0 +1,2 @@
+struct cpuinfo_mips | isa_level int | options int | fpu_id int 
+function cpu_set_nofpu_id void | c struct cpuinfo_mips *

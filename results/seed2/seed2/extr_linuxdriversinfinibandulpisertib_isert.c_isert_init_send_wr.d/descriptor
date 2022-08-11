@@ -1,0 +1,7 @@
+struct isert_conn | snd_w_inv long 
+struct TYPE_3__ | done int 
+struct iser_tx_desc | num_sge int | tx_sg int * | tx_cqe struct TYPE_3__ 
+struct isert_cmd | tx_desc struct iser_tx_desc | inv_rkey long 
+struct TYPE_4__ | invalidate_rkey long 
+struct ib_send_wr | send_flags int | num_sge int | sg_list int * | opcode int | ex struct TYPE_4__ | wr_cqe struct TYPE_3__ * 
+function isert_init_send_wr void | isert_conn struct isert_conn * | isert_cmd struct isert_cmd * | send_wr struct ib_send_wr *

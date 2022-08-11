@@ -1,0 +1,2 @@
+struct msm_gem_object | gpu int * 
+function is_active int | msm_obj struct msm_gem_object *

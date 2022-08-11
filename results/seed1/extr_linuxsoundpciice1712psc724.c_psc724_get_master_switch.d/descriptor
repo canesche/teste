@@ -1,3 +1,0 @@
-struct snd_ice1712 | spec struct psc724_spec * 
-struct psc724_spec | mute_all int 
-function psc724_get_master_switch int | ice struct snd_ice1712 *

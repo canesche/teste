@@ -1,2 +1,0 @@
-struct ocfs2_alloc_context | ac_bits_wanted int | ac_bits_given int 
-function ocfs2_alloc_context_bits_left int | ac struct ocfs2_alloc_context *

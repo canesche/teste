@@ -1,0 +1,1 @@
+function hns_rcb_get_queue_mode void | dsaf_mode enum dsaf_mode | max_vfn int * | max_q_per_vf int *

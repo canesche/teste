@@ -1,3 +1,0 @@
-struct debug_entry | lineno unsigned int | addr unsigned long 
-struct TYPE_2__ | line_base unsigned int | line_range unsigned int | minimum_instruction_length unsigned long | opcode_base unsigned int 
-function get_special_opcode unsigned long | ent struct debug_entry * | last_line unsigned int | last_vma unsigned long

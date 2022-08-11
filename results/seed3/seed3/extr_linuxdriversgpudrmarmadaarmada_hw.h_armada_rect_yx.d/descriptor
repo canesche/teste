@@ -1,0 +1,2 @@
+struct drm_rect | y1 int | x1 int 
+function armada_rect_yx int | r struct drm_rect *

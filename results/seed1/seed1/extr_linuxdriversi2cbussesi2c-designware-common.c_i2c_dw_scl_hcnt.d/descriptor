@@ -1,0 +1,1 @@
+function i2c_dw_scl_hcnt int | ic_clk int | tSYMBOL int | tf int | cond int | offset int

@@ -1,2 +1,0 @@
-struct i915_sw_fence | dummy int 
-function debug_fence_init_onstack void | fence struct i915_sw_fence *

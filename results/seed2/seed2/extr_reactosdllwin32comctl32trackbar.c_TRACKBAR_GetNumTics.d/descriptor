@@ -1,0 +1,2 @@
+struct TYPE_3__ | dwStyle int | uNumTics long 
+function TRACKBAR_GetNumTics long | infoPtr const struct TYPE_3__ *

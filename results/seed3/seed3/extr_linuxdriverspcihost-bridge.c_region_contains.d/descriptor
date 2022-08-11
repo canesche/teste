@@ -1,0 +1,2 @@
+struct pci_bus_region | start long | end long 
+function region_contains int | region1 struct pci_bus_region * | region2 struct pci_bus_region *

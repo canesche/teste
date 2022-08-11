@@ -1,2 +1,0 @@
-struct mvumi_tag | top long 
-function tag_is_empty int | st struct mvumi_tag *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetmellanoxmlx5coreeswitch_offloads.c_esw_inline_mode_from_devlink.d/extr_linuxdriversnetethernetmellanoxmlx5coreeswitch_offloads.c_esw_inline_mode_from_devlink_O0::esw_inline_mode_from_devlink(70)"
+  }
+]

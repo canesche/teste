@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversisdnhardwareeicondiva_dma.c_diva_init_dma_map_entry.d/extr_linuxdriversisdnhardwareeicondiva_dma.c_diva_init_dma_map_entry_O0::diva_init_dma_map_entry(63)"
+  }
+]

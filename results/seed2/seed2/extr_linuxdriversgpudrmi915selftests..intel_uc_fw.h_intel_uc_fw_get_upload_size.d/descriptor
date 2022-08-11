@@ -1,0 +1,2 @@
+struct intel_uc_fw | fetch_status long | ucode_size long | header_size long 
+function intel_uc_fw_get_upload_size long | uc_fw struct intel_uc_fw *

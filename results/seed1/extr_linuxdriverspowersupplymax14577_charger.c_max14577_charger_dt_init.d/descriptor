@@ -1,3 +1,0 @@
-struct platform_device | dummy int 
-struct max14577_charger_platform_data | dummy int 
-function max14577_charger_dt_init struct max14577_charger_platform_data * | pdev struct platform_device *

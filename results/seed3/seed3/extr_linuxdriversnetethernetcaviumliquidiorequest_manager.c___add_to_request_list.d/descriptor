@@ -1,0 +1,3 @@
+struct octeon_instr_queue | request_list struct TYPE_2__ * 
+struct TYPE_2__ | reqtype int | buf void * 
+function __add_to_request_list void | iq struct octeon_instr_queue * | idx int | buf void * | reqtype int

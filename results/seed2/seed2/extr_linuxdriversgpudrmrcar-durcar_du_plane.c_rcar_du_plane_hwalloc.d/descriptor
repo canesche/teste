@@ -1,0 +1,5 @@
+struct rcar_du_plane_state | source long | format struct TYPE_4__ * 
+struct rcar_du_plane | group struct TYPE_3__ * 
+struct TYPE_4__ | planes unsigned int 
+struct TYPE_3__ | index long 
+function rcar_du_plane_hwalloc int | plane struct rcar_du_plane * | state struct rcar_du_plane_state * | free unsigned int

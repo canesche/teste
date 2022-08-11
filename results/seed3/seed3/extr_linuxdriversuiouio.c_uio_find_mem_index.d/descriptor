@@ -1,0 +1,5 @@
+struct vm_area_struct | vm_pgoff unsigned long | vm_private_data struct uio_device * 
+struct uio_device | info struct TYPE_4__ * 
+struct TYPE_4__ | mem struct TYPE_3__ * 
+struct TYPE_3__ | size long 
+function uio_find_mem_index int | vma struct vm_area_struct *

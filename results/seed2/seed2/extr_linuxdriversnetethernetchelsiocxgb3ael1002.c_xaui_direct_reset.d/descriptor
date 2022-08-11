@@ -1,0 +1,2 @@
+struct cphy | dummy int 
+function xaui_direct_reset int | phy struct cphy * | wait int

@@ -1,0 +1,2 @@
+struct device | release long 
+function scsi_is_srp_rport int | dev const struct device *

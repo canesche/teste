@@ -1,0 +1,2 @@
+struct TYPE_3__ | OffsetHigh long | Offset long 
+function reset_overlapped void | ol struct TYPE_3__ *

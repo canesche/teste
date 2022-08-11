@@ -1,0 +1,3 @@
+struct _Locale_time | dummy int 
+struct _Locale_name_hint | dummy int 
+function _Locale_get_time_hint struct _Locale_name_hint * | time struct _Locale_time *

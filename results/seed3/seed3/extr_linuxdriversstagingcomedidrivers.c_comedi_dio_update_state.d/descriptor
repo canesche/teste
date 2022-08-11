@@ -1,0 +1,2 @@
+struct comedi_subdevice | n_chan int | state unsigned int 
+function comedi_dio_update_state unsigned int | s struct comedi_subdevice * | data unsigned int *

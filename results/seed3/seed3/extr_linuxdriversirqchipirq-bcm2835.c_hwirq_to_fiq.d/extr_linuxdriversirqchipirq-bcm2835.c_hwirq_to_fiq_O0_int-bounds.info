@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversirqchipirq-bcm2835.c_hwirq_to_fiq.d/extr_linuxdriversirqchipirq-bcm2835.c_hwirq_to_fiq_O0::hwirq_to_fiq(61)"
+  }
+]

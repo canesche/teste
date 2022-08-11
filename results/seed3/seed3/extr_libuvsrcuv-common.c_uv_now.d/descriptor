@@ -1,0 +1,2 @@
+struct TYPE_3__ | time int 
+function uv_now int | loop const struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function rtl8822be_gpio_radio_on_off_checking int | hw struct ieee80211_hw * | valid int *

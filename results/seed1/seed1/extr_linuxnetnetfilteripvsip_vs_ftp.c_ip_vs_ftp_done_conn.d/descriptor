@@ -1,0 +1,3 @@
+struct ip_vs_conn | dummy int 
+struct ip_vs_app | dummy int 
+function ip_vs_ftp_done_conn int | app struct ip_vs_app * | cp struct ip_vs_conn *

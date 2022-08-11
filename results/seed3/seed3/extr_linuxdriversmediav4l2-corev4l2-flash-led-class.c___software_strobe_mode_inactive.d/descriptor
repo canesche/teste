@@ -1,0 +1,2 @@
+struct v4l2_ctrl | val long 
+function __software_strobe_mode_inactive int | ctrls struct v4l2_ctrl **

@@ -1,0 +1,2 @@
+struct parport | dummy int 
+function dead_read unsigned long | p struct parport * | b void * | l unsigned long | f int

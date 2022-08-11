@@ -1,2 +1,0 @@
-struct rtsx_chip | capacity int * 
-function get_card_size int | chip struct rtsx_chip * | lun unsigned int

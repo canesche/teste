@@ -1,3 +1,0 @@
-struct TYPE_2__ | channels int 
-struct gaudio | playback struct TYPE_2__ 
-function u_audio_get_playback_channels int | card struct gaudio *

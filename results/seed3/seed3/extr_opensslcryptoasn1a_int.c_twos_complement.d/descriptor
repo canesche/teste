@@ -1,0 +1,1 @@
+function twos_complement void | dst unsigned char * | src const unsigned char * | len unsigned long | pad unsigned char

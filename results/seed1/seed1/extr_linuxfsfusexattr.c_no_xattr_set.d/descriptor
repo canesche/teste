@@ -1,0 +1,4 @@
+struct xattr_handler | dummy int 
+struct inode | dummy int 
+struct dentry | dummy int 
+function no_xattr_set int | handler const struct xattr_handler * | dentry struct dentry * | nodee struct inode * | name const char * | value const void * | size unsigned long | flags int

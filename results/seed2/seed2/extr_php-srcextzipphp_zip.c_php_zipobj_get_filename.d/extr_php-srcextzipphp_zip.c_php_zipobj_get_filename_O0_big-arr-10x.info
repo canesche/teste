@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_php-srcextzipphp_zip.c_php_zipobj_get_filename.d/extr_php-srcextzipphp_zip.c_php_zipobj_get_filename_O0::php_zipobj_get_filename(63)"
+  }
+]

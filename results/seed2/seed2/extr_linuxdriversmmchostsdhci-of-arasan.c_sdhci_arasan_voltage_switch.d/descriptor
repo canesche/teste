@@ -1,0 +1,3 @@
+struct mmc_ios | signal_voltage int 
+struct mmc_host | dummy int 
+function sdhci_arasan_voltage_switch int | mmc struct mmc_host * | ios struct mmc_ios *

@@ -1,0 +1,2 @@
+struct TYPE_4__ | hashLog long | chainLog long | strategy long | searchLength int 
+function ZSTD_equivalentCParams int | cParams1 struct TYPE_4__ | cParams2 struct TYPE_4__

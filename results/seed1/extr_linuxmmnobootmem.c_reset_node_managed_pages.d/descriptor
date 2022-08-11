@@ -1,3 +1,0 @@
-struct zone | managed_pages long 
-struct TYPE_3__ | node_zones struct zone * 
-function reset_node_managed_pages void | pgdat struct TYPE_3__ *

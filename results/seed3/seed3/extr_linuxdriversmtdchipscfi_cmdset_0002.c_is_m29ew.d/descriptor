@@ -1,0 +1,2 @@
+struct cfi_private | mfr long | device_type long | id int 
+function is_m29ew int | cfi struct cfi_private *

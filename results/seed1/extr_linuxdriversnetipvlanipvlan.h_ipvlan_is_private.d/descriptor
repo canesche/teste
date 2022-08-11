@@ -1,2 +1,0 @@
-struct ipvl_port | flags int 
-function ipvlan_is_private int | port const struct ipvl_port *

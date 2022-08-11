@@ -1,4 +1,0 @@
-struct sys_reg_params | regval int | is_32bit long 
-struct TYPE_2__ | flags int 
-struct kvm_vcpu | arch struct TYPE_2__ 
-function reg_to_dbg void | vcpu struct kvm_vcpu * | p struct sys_reg_params * | dbg_reg int *

@@ -1,2 +1,0 @@
-struct timespec64 | tv_nsec int | tv_sec long 
-function posix_get_hrtimer_res int | which_clock int | tp struct timespec64 *

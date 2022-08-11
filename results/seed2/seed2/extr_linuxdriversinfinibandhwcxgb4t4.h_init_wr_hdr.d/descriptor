@@ -1,0 +1,3 @@
+struct TYPE_2__ | len16 void * | r1 long * | wrid int | flags void * | opcode void * 
+struct t4_wr | send struct TYPE_2__ 
+function init_wr_hdr void | wqe union t4_wr * | wrid int | opcode enum fw_wr_opcodes | flags void * | len16 void *

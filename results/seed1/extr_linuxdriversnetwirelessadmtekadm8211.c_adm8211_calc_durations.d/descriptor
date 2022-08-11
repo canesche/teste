@@ -1,1 +1,0 @@
-function adm8211_calc_durations void | dur int * | plcp int * | payload_len unsigned long | len int | plcp_signal int | short_preamble int

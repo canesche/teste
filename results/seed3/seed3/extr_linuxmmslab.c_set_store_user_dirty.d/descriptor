@@ -1,0 +1,2 @@
+struct kmem_cache | dummy int 
+function set_store_user_dirty void | cachep struct kmem_cache *

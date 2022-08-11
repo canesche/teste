@@ -1,3 +1,0 @@
-struct TYPE_2__ | req_id int 
-struct fcpio_tag | u struct TYPE_2__ 
-function fcpio_tag_id_dec void | tag struct fcpio_tag * | id int *

@@ -1,3 +1,0 @@
-struct TYPE_2__ | mode int 
-struct ldc_channel | cfg struct TYPE_2__ 
-function ldc_mode int | lp struct ldc_channel *

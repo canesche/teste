@@ -1,3 +1,0 @@
-struct pt_regs | dummy int 
-struct TYPE_2__ | offset int | name char * 
-function dbg_get_reg char * | regno int | mem void * | regs struct pt_regs *

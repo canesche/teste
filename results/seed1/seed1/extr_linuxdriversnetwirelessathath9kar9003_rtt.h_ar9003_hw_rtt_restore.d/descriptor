@@ -1,0 +1,3 @@
+struct ath_hw | dummy int 
+struct ath9k_channel | dummy int 
+function ar9003_hw_rtt_restore int | ah struct ath_hw * | chan struct ath9k_channel *

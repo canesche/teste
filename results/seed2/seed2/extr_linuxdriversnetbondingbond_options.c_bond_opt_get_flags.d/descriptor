@@ -1,0 +1,3 @@
+struct bond_option | values const struct bond_opt_value * 
+struct bond_opt_value | flags int | string long 
+function bond_opt_get_flags const struct bond_opt_value * | opt const struct bond_option * | flagmask int

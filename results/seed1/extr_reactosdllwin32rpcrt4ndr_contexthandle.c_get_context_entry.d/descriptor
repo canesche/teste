@@ -1,2 +1,0 @@
-struct context_handle_entry | magic long 
-function get_context_entry struct context_handle_entry * | CContext struct context_handle_entry *

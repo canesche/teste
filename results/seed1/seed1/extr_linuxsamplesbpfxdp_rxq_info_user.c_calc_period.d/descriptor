@@ -1,0 +1,2 @@
+struct record | timestamp long 
+function calc_period double | r struct record * | p struct record *

@@ -1,0 +1,2 @@
+struct bpf_map | map_type long | map_flags int 
+function check_map_prealloc int | map struct bpf_map *

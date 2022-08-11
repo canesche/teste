@@ -1,0 +1,4 @@
+struct hda_jack_tbl | tag unsigned char 
+struct TYPE_2__ | used int | list struct hda_jack_tbl * 
+struct hda_codec | jacktbl struct TYPE_2__ 
+function snd_hda_jack_tbl_get_from_tag struct hda_jack_tbl * | codec struct hda_codec * | tag unsigned char

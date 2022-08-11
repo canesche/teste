@@ -1,0 +1,4 @@
+struct stack_frame | empty1 long * 
+struct pt_regs | gprs long * 
+struct kvm_s390_sie_block | dummy int 
+function sie_block struct kvm_s390_sie_block * | regs struct pt_regs *

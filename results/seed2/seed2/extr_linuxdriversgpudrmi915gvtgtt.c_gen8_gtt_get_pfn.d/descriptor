@@ -1,0 +1,2 @@
+struct intel_gvt_gtt_entry | type long | val64 unsigned long 
+function gen8_gtt_get_pfn unsigned long | e struct intel_gvt_gtt_entry *

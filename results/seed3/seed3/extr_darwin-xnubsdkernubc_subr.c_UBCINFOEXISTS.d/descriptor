@@ -1,0 +1,2 @@
+struct vnode | v_type long | v_ubcinfo long 
+function UBCINFOEXISTS int | vp const struct vnode *

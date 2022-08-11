@@ -1,2 +1,0 @@
-struct vec4 | z float | y float | x float | w float 
-function vec4_from_bgra void | dst struct vec4 * | bgra int

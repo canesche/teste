@@ -1,1 +1,0 @@
-function THFloatVector_divs_NEON void | y float * | x const float * | c const float | n const int

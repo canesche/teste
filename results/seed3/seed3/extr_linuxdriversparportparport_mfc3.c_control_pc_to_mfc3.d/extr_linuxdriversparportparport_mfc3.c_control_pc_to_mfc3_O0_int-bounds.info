@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversparportparport_mfc3.c_control_pc_to_mfc3.d/extr_linuxdriversparportparport_mfc3.c_control_pc_to_mfc3_O0::control_pc_to_mfc3(64)"
+  }
+]

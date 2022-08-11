@@ -1,0 +1,1 @@
+function nanotime_to_absolutetime void | secs long | nanosecs long | result int *

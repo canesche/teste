@@ -1,0 +1,2 @@
+struct iio_dev | dummy int 
+function iio_simple_dummy_unconfigure_buffer void | indio_dev struct iio_dev *

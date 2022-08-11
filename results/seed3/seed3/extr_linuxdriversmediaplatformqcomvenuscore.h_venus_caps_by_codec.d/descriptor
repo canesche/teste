@@ -1,0 +1,3 @@
+struct venus_core | codecs_count unsigned int | caps struct venus_caps * 
+struct venus_caps | codec long | domain long 
+function venus_caps_by_codec struct venus_caps * | core struct venus_core * | codec long | domain long

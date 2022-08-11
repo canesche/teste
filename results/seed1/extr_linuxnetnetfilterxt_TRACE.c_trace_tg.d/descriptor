@@ -1,3 +1,0 @@
-struct xt_action_param | dummy int 
-struct sk_buff | nf_trace int 
-function trace_tg unsigned int | skb struct sk_buff * | par const struct xt_action_param *

@@ -1,0 +1,2 @@
+struct query_range | maxr unsigned int | minr unsigned int 
+function cmp_query_range int | a const void * | b const void *

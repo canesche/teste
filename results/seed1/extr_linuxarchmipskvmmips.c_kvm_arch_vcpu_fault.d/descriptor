@@ -1,3 +1,0 @@
-struct vm_fault | dummy int 
-struct kvm_vcpu | dummy int 
-function kvm_arch_vcpu_fault int | vcpu struct kvm_vcpu * | vmf struct vm_fault *

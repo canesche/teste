@@ -1,0 +1,5 @@
+struct icp_qat_uclo_objhandle | uimage_num int | ae_uimage struct icp_qat_uclo_encapme * 
+struct icp_qat_uclo_encapme | page struct TYPE_2__ * | uwords_num long 
+struct icp_qat_fw_loader_handle | obj_handle struct icp_qat_uclo_objhandle * 
+struct TYPE_2__ | micro_words_num long | beg_addr_p long 
+function qat_uclo_init_uword_num void | handle struct icp_qat_fw_loader_handle *

@@ -1,0 +1,2 @@
+struct obs_sceneitem_crop | bottom long | top long | right long | left long 
+function crop_enabled int | crop const struct obs_sceneitem_crop *

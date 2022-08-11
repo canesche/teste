@@ -1,0 +1,3 @@
+struct ipack_device_id | format long | vendor long | device long 
+struct ipack_device | id_format long | id_vendor long | id_device long 
+function ipack_match_one_device const struct ipack_device_id * | id const struct ipack_device_id * | device const struct ipack_device *

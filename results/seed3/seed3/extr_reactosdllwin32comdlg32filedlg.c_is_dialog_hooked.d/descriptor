@@ -1,0 +1,3 @@
+struct TYPE_5__ | ofnInfos struct TYPE_4__ * 
+struct TYPE_4__ | Flags int | lpfnHook long 
+function is_dialog_hooked int | info const struct TYPE_5__ *

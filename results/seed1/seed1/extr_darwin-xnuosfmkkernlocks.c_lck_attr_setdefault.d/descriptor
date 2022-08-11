@@ -1,0 +1,2 @@
+struct TYPE_3__ | lck_attr_val int 
+function lck_attr_setdefault void | attr struct TYPE_3__ *

@@ -1,0 +1,3 @@
+struct tty_driver | dummy int 
+struct console | index int | data long 
+function usb_console_device struct tty_driver * | co struct console * | index int *

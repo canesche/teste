@@ -1,3 +1,0 @@
-struct mtd_oob_region | length int | offset int 
-struct mtd_info | dummy int 
-function oob_sm_ooblayout_ecc int | mtd struct mtd_info * | section int | oobregion struct mtd_oob_region *

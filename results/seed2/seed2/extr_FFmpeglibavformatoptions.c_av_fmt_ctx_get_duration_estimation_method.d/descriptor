@@ -1,0 +1,2 @@
+struct TYPE_3__ | duration_estimation_method int 
+function av_fmt_ctx_get_duration_estimation_method enum AVDurationEstimationMethod | ctx const struct TYPE_3__ *

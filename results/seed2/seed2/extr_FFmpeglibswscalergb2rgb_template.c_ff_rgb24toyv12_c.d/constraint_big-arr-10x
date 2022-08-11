@@ -1,0 +1,1 @@
+value(width) == 10, value(height) == 10, value(lumStride) == 10, value(chromStride) == 10, value(srcStride) == 10, length(src) == 100, length(ydst) == 100, length(udst) == 100, length(vdst) == 100, length(rgb2yuv) == 100

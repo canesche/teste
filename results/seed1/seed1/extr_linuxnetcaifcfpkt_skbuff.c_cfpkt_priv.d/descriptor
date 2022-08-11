@@ -1,0 +1,4 @@
+struct cfpkt_priv_data | dummy int 
+struct TYPE_2__ | cb long 
+struct cfpkt | skb struct TYPE_2__ 
+function cfpkt_priv struct cfpkt_priv_data * | pkt struct cfpkt *

@@ -1,0 +1,2 @@
+struct alg_test_desc | dummy int 
+function alg_test_null int | desc const struct alg_test_desc * | driver const char * | type int | mask int

@@ -1,0 +1,3 @@
+struct memstick_request | dummy int 
+struct memstick_dev | dummy int 
+function h_msb_default_bad int | card struct memstick_dev * | mrq struct memstick_request **

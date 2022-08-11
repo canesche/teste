@@ -1,0 +1,4 @@
+struct rt_adcsmp_string | length int 
+struct rt_adcsmp | adc_smp_buf struct rt_adcsmp_string 
+struct phy_dm_struct | adcsmp struct rt_adcsmp 
+function adc_smp_get_sample_counts int | dm_void void *

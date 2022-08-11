@@ -1,0 +1,2 @@
+struct TYPE_3__ | len long 
+function strbuf_zero void | buf struct TYPE_3__ *

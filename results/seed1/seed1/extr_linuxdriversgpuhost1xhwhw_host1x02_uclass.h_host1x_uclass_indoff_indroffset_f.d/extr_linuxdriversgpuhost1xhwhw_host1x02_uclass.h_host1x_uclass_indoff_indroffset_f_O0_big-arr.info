@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversgpuhost1xhwhw_host1x02_uclass.h_host1x_uclass_indoff_indroffset_f.d/extr_linuxdriversgpuhost1xhwhw_host1x02_uclass.h_host1x_uclass_indoff_indroffset_f_O0::host1x_uclass_indoff_indroffset_f(61)"
+  }
+]

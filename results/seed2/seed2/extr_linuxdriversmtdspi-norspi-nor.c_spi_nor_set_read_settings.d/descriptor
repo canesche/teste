@@ -1,0 +1,2 @@
+struct spi_nor_read_command | proto int | opcode void * | num_wait_states void * | num_mode_clocks void * 
+function spi_nor_set_read_settings void | read struct spi_nor_read_command * | num_mode_clocks void * | num_wait_states void * | opcode void * | proto enum spi_nor_protocol

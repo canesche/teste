@@ -1,0 +1,1 @@
+function GetMatchesSpec1 int * | lenLimit int | curMatch int | pos int | cur const long * | son int * | _cyclicBufferPos int | _cyclicBufferSize int | cutValue int | distances int * | maxLen int

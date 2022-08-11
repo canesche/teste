@@ -1,0 +1,4 @@
+struct qedi_ctx | itt_map struct TYPE_2__ * 
+struct qedi_cmd | task_id unsigned long 
+struct TYPE_2__ | p_cmd struct qedi_cmd * 
+function qedi_get_cmd_from_tid struct qedi_cmd * | qedi struct qedi_ctx * | tid unsigned long

@@ -1,0 +1,2 @@
+struct kbuffer | start int 
+function kbuffer_start_of_data int | kbuf struct kbuffer *

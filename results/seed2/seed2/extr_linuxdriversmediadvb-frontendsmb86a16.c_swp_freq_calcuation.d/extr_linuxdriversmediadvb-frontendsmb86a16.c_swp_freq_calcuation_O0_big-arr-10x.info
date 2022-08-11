@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 13,
+    phantoms: 9,
+    exit: true,
+    halt: false,
+    edges: 25,
+    static: {
+      instructions: 69,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 69,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediadvb-frontendsmb86a16.c_swp_freq_calcuation.d/extr_linuxdriversmediadvb-frontendsmb86a16.c_swp_freq_calcuation_O0::swp_freq_calcuation(62)"
+  }
+]

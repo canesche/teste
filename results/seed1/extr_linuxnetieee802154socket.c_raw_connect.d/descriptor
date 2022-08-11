@@ -1,3 +1,0 @@
-struct sockaddr | dummy int 
-struct sock | dummy int 
-function raw_connect int | sk struct sock * | uaddr struct sockaddr * | addr_len int

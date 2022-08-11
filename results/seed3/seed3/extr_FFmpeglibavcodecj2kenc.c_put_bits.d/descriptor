@@ -1,0 +1,2 @@
+struct TYPE_3__ | bit_index int | buf int * 
+function put_bits void | s struct TYPE_3__ * | val int | n int

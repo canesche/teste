@@ -1,3 +1,0 @@
-struct netvsc_device | recv_completion_cnt long 
-struct multi_recv_comp | next long | first long 
-function recv_comp_slot_avail void | nvdev const struct netvsc_device * | mrc const struct multi_recv_comp * | filled long * | avail long *

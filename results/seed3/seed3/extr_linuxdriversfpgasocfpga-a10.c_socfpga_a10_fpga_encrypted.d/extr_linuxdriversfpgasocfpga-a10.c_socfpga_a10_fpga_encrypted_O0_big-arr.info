@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversfpgasocfpga-a10.c_socfpga_a10_fpga_encrypted.d/extr_linuxdriversfpgasocfpga-a10.c_socfpga_a10_fpga_encrypted_O0::socfpga_a10_fpga_encrypted(63)"
+  }
+]

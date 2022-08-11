@@ -1,2 +1,0 @@
-struct mg_str | p const char * | len int 
-function parse_uri_component void | p const char ** | end const char * | seps const char * | res struct mg_str *

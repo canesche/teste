@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversnetethernetmellanoxmlx4cmd.c_mlx4_CMD_EPERM_wrapper.d/extr_linuxdriversnetethernetmellanoxmlx4cmd.c_mlx4_CMD_EPERM_wrapper_O0::mlx4_CMD_EPERM_wrapper(69)"
+  }
+]

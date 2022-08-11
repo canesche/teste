@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmediausbcx231xxcx231xx-core.c_cx231xx_set_field.d/extr_linuxdriversmediausbcx231xxcx231xx-core.c_cx231xx_set_field_O0::cx231xx_set_field(61)"
+  }
+]

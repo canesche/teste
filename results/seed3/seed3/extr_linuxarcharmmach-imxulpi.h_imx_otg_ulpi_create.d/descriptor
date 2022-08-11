@@ -1,0 +1,2 @@
+struct usb_phy | dummy int 
+function imx_otg_ulpi_create struct usb_phy * | flags unsigned int

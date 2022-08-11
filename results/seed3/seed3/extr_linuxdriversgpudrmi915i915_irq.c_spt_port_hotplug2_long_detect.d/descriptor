@@ -1,0 +1,1 @@
+function spt_port_hotplug2_long_detect int | pin enum hpd_pin | val int

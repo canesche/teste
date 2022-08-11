@@ -1,0 +1,4 @@
+struct sctp_inq | in_progress struct sctp_chunk * 
+struct sctp_chunkhdr | dummy int 
+struct sctp_chunk | chunk_end long | pdiscard long | end_of_packet long | singleton long 
+function sctp_inq_peek struct sctp_chunkhdr * | queue struct sctp_inq *

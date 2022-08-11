@@ -1,3 +1,0 @@
-struct hlist_head | dummy int 
-struct datapath | ports struct hlist_head * 
-function vport_hash_bucket struct hlist_head * | dp const struct datapath * | port_no int

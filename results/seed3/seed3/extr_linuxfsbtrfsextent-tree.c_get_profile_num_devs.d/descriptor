@@ -1,0 +1,3 @@
+struct btrfs_fs_info | fs_devices struct TYPE_2__ * 
+struct TYPE_2__ | rw_devices int 
+function get_profile_num_devs int | fs_info struct btrfs_fs_info * | type int

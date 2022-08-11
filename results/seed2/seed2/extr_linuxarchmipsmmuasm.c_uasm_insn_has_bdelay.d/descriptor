@@ -1,0 +1,2 @@
+struct uasm_reloc | lab long | type long | addr int * 
+function uasm_insn_has_bdelay int | rel struct uasm_reloc * | addr int *

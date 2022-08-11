@@ -1,2 +1,0 @@
-struct l3_process | dummy int 
-function l3ni1_dummy void | pc struct l3_process * | pr int | arg void *

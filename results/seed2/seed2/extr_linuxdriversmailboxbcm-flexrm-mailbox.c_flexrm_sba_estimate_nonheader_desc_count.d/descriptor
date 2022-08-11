@@ -1,0 +1,4 @@
+struct TYPE_4__ | cmds_count unsigned long | cmds struct TYPE_3__ * 
+struct brcm_message | sba struct TYPE_4__ 
+struct TYPE_3__ | flags int 
+function flexrm_sba_estimate_nonheader_desc_count unsigned long | msg struct brcm_message *

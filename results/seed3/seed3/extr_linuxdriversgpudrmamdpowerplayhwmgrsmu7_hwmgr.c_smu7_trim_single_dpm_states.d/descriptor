@@ -1,0 +1,4 @@
+struct smu7_single_dpm_table | count unsigned long | dpm_levels struct TYPE_2__ * 
+struct pp_hwmgr | od_enabled int 
+struct TYPE_2__ | value unsigned long | enabled int 
+function smu7_trim_single_dpm_states int | hwmgr struct pp_hwmgr * | dpm_table struct smu7_single_dpm_table * | low_limit unsigned long | high_limit unsigned long

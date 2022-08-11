@@ -1,0 +1,4 @@
+struct TYPE_4__ | num long | array struct TYPE_3__ * 
+struct ep_struct | vars struct TYPE_4__ 
+struct TYPE_3__ | mapping int * 
+function ep_struct_mapped int | eps struct ep_struct *

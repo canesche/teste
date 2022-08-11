@@ -1,0 +1,1 @@
+function memmove32_col void | dst void * | src void * | mask int | h int | bytes int

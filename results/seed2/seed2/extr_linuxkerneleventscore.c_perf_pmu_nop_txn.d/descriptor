@@ -1,0 +1,2 @@
+struct pmu | dummy int 
+function perf_pmu_nop_txn void | pmu struct pmu * | flags unsigned int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | color_type int | num_trans long | transformations int 
+function png_init_rgb_transformations void | png_ptr struct TYPE_3__ *

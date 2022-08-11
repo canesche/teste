@@ -1,0 +1,2 @@
+struct fsi_gpio_msg | msg int | bits int 
+function msg_push_bits void | msg struct fsi_gpio_msg * | data unsigned long long | bits int

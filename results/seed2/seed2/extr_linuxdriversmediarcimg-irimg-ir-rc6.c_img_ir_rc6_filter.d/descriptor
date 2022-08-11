@@ -1,0 +1,3 @@
+struct rc_scancode_filter | dummy int 
+struct img_ir_filter | dummy int 
+function img_ir_rc6_filter int | in const struct rc_scancode_filter * | out struct img_ir_filter * | protocols int

@@ -1,0 +1,2 @@
+struct fb_info | dummy int 
+function xxxfb_open int | info struct fb_info * | user int

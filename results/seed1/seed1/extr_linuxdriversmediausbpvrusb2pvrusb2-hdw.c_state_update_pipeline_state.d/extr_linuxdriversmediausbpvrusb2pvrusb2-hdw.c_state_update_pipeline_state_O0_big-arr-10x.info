@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversmediausbpvrusb2pvrusb2-hdw.c_state_update_pipeline_state.d/extr_linuxdriversmediausbpvrusb2pvrusb2-hdw.c_state_update_pipeline_state_O0::state_update_pipeline_state(61)"
+  }
+]

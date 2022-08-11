@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 106,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 106,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmamddisplaydcdcn10dcn10_dpp_cm.c_dpp1_cm_get_reg_field.d/extr_linuxdriversgpudrmamddisplaydcdcn10dcn10_dpp_cm.c_dpp1_cm_get_reg_field_O0::dpp1_cm_get_reg_field(72)"
+  }
+]

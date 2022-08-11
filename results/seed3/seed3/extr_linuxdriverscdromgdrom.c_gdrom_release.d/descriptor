@@ -1,0 +1,2 @@
+struct cdrom_device_info | dummy int 
+function gdrom_release void | cd_info struct cdrom_device_info *

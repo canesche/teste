@@ -1,0 +1,7 @@
+struct usb_interface | altsetting struct TYPE_6__ * 
+struct TYPE_4__ | bNumInterfaces int 
+struct usb_host_config | interface struct usb_interface ** | desc struct TYPE_4__ 
+struct usb_device | actconfig struct usb_host_config * 
+struct TYPE_5__ | bInterfaceNumber unsigned int 
+struct TYPE_6__ | desc struct TYPE_5__ 
+function usb_ifnum_to_if struct usb_interface * | dev const struct usb_device * | ifnum unsigned int

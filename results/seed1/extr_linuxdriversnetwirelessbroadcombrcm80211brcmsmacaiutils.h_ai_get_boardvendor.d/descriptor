@@ -1,2 +1,0 @@
-struct si_pub | boardvendor int 
-function ai_get_boardvendor int | sih struct si_pub *

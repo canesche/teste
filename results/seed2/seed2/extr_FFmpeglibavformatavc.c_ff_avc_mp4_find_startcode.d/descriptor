@@ -1,0 +1,1 @@
+function ff_avc_mp4_find_startcode const int * | start const int * | end const int * | nal_length_size int

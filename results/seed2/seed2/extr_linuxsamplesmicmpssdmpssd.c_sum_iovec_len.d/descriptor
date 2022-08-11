@@ -1,0 +1,3 @@
+struct mic_copy_desc | iovcnt unsigned int | iov struct TYPE_2__ * 
+struct TYPE_2__ | iov_len long 
+function sum_iovec_len int | copy struct mic_copy_desc *

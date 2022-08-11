@@ -1,0 +1,2 @@
+struct cardstate | dummy int 
+function gigaset_write_room int | cs struct cardstate *

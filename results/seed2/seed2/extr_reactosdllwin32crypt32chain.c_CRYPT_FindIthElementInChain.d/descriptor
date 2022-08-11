@@ -1,0 +1,3 @@
+struct TYPE_5__ | cChain unsigned long | rgpChain struct TYPE_4__ ** 
+struct TYPE_4__ | cElement unsigned long | rgpElement int ** 
+function CRYPT_FindIthElementInChain int * | chain const struct TYPE_5__ * | i unsigned long

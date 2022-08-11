@@ -1,7 +1,0 @@
-struct TYPE_12__ | pActiveClass struct TYPE_8__ * 
-struct TYPE_10__ | n unsigned long | Storage int * 
-struct TYPE_11__ | storids struct TYPE_10__ 
-struct TYPE_9__ | CurrentStorageId int 
-struct TYPE_13__ | info struct TYPE_11__ | params struct TYPE_9__ | is_ready long 
-struct TYPE_8__ | pData struct TYPE_13__ * 
-function USBH_MTP_SelectStorage int | phost struct TYPE_12__ * | storage_idx unsigned long

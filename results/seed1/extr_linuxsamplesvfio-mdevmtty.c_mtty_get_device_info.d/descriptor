@@ -1,3 +1,0 @@
-struct vfio_device_info | num_irqs int | num_regions int | flags int 
-struct mdev_device | dummy int 
-function mtty_get_device_info int | mdev struct mdev_device * | dev_info struct vfio_device_info *

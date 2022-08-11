@@ -1,0 +1,4 @@
+struct xdr_netobj | len long | data long 
+struct krb5_ctx | flags int | gk5e struct TYPE_2__ * 
+struct TYPE_2__ | cksumlength long 
+function setup_token_v2 void * | ctx struct krb5_ctx * | token struct xdr_netobj *

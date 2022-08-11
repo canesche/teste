@@ -1,0 +1,2 @@
+struct csio_hw | dummy int 
+function csio_t5_flash_cfg_addr unsigned int | hw struct csio_hw *

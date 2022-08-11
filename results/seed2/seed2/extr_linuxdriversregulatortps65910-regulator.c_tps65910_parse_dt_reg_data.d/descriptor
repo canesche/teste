@@ -1,0 +1,4 @@
+struct tps65910_board | dummy int 
+struct platform_device | dummy int 
+struct of_regulator_match | dummy int 
+function tps65910_parse_dt_reg_data struct tps65910_board * | pdev struct platform_device * | tps65910_reg_matches struct of_regulator_match **

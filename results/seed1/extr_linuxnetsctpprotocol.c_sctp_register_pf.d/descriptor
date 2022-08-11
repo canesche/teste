@@ -1,2 +1,0 @@
-struct sctp_pf | dummy int 
-function sctp_register_pf int | pf struct sctp_pf * | family int

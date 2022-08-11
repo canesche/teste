@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct ethtool_ringparam | tx_pending int | tx_max_pending int | rx_pending int | rx_max_pending int 
+function emac_ethtool_get_ringparam void | ndev struct net_device * | rp struct ethtool_ringparam *

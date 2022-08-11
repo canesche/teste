@@ -1,0 +1,2 @@
+struct usb_device | dummy int 
+function usb_unlocked_disable_lpm int | udev struct usb_device *

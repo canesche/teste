@@ -1,0 +1,2 @@
+struct TYPE_3__ | text_len int | next int * | text int * 
+function black_list_init void | bl struct TYPE_3__ *

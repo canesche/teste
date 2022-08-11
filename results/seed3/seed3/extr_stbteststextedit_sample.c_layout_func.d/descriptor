@@ -1,0 +1,3 @@
+struct TYPE_6__ | stringlen int 
+struct TYPE_5__ | num_chars int | x1 int | baseline_y_delta double | ymin int | ymax long | x0 long 
+function layout_func void | row struct TYPE_5__ * | str struct TYPE_6__ * | start_i int

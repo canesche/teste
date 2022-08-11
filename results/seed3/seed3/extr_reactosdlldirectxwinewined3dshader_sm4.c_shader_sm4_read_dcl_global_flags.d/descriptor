@@ -1,0 +1,3 @@
+struct wined3d_sm4_data | dummy int 
+struct wined3d_shader_instruction | flags int 
+function shader_sm4_read_dcl_global_flags void | ins struct wined3d_shader_instruction * | opcode int | opcode_token int | tokens const int * | token_count unsigned int | priv struct wined3d_sm4_data *

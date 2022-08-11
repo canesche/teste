@@ -1,2 +1,0 @@
-struct TYPE_2__ | ntstatus long | dos_code int | dos_class int 
-function ntstatus_to_dos void | ntstatus long | eclass int * | ecode int *

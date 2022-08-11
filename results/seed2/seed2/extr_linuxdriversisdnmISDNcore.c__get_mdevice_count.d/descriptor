@@ -1,0 +1,2 @@
+struct device | dummy int 
+function _get_mdevice_count int | dev struct device * | cnt void *

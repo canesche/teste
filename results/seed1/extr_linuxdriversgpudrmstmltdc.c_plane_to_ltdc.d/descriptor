@@ -1,4 +1,0 @@
-struct ltdc_device | dummy int 
-struct drm_plane | dev struct TYPE_2__ * 
-struct TYPE_2__ | dev_private long 
-function plane_to_ltdc struct ltdc_device * | plane struct drm_plane *

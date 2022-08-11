@@ -1,2 +1,0 @@
-struct fcpio_fw_req | dummy int 
-function fcpio_color_enc void | fw_req struct fcpio_fw_req * | color int

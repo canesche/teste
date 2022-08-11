@@ -1,0 +1,1 @@
+function is_bit_set int | buf const int * | bit int

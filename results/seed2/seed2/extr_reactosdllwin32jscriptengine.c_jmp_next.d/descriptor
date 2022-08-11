@@ -1,0 +1,3 @@
+struct TYPE_5__ | call_ctx struct TYPE_4__ * 
+struct TYPE_4__ | ip int 
+function jmp_next void | ctx struct TYPE_5__ *

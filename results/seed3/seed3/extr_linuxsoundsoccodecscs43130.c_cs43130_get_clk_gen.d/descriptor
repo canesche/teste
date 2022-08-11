@@ -1,0 +1,2 @@
+struct cs43130_clk_gen | mclk_int int | fs int 
+function cs43130_get_clk_gen const struct cs43130_clk_gen * | mclk_int int | fs int | clk_gen_table const struct cs43130_clk_gen * | len_clk_gen_table int

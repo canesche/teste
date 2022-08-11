@@ -1,0 +1,2 @@
+struct TYPE_3__ | n_div int * | length int ** | length_change int * | bits_main_spec_change int * | bits_main_spec int *** | permut unsigned long ** 
+function dequant void | tctx struct TYPE_3__ * | cb_bits const int * | out float * | ftype enum TwinVQFrameType | cb0 const int * | cb1 const int * | cb_len int

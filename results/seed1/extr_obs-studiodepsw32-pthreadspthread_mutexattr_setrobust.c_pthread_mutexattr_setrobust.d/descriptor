@@ -1,2 +1,0 @@
-struct TYPE_3__ | robustness int 
-function pthread_mutexattr_setrobust int | attr struct TYPE_3__ ** | robust int

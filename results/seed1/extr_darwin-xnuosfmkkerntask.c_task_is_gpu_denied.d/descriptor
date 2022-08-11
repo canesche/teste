@@ -1,2 +1,0 @@
-struct TYPE_3__ | t_flags int 
-function task_is_gpu_denied int | task struct TYPE_3__ *

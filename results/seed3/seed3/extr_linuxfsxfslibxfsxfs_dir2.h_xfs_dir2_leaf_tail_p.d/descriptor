@@ -1,0 +1,4 @@
+struct xfs_dir2_leaf_tail | dummy int 
+struct xfs_dir2_leaf | dummy int 
+struct xfs_da_geometry | blksize int 
+function xfs_dir2_leaf_tail_p struct xfs_dir2_leaf_tail * | geo struct xfs_da_geometry * | lp struct xfs_dir2_leaf *

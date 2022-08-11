@@ -1,2 +1,0 @@
-struct atl1c_hw | device_id int | nic_type int 
-function atl1c_set_mac_type void | hw struct atl1c_hw *

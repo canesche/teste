@@ -1,0 +1,5 @@
+struct TYPE_7__ | type int 
+struct TYPE_6__ | status int 
+struct TYPE_8__ | SockAsyncData struct TYPE_7__ | SockTxFailData struct TYPE_6__ 
+struct TYPE_9__ | Event int | socketAsyncEvent struct TYPE_8__ 
+function SimpleLinkSockEventHandler void | pSock struct TYPE_9__ *

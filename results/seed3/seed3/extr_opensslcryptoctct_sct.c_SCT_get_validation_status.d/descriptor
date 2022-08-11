@@ -1,0 +1,2 @@
+struct TYPE_3__ | validation_status int 
+function SCT_get_validation_status int | sct const struct TYPE_3__ *

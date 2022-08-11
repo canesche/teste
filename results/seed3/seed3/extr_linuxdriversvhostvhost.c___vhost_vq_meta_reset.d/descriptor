@@ -1,0 +1,2 @@
+struct vhost_virtqueue | meta_iotlb int ** 
+function __vhost_vq_meta_reset void | vq struct vhost_virtqueue *

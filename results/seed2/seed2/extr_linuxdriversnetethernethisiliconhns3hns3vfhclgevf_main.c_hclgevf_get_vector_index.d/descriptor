@@ -1,0 +1,2 @@
+struct hclgevf_dev | num_msi int | vector_irq int * 
+function hclgevf_get_vector_index int | hdev struct hclgevf_dev * | vector int

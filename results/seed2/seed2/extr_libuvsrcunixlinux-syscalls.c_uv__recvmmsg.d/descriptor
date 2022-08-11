@@ -1,0 +1,3 @@
+struct uv__mmsghdr | dummy int 
+struct timespec | dummy int 
+function uv__recvmmsg int | fd int | mmsg struct uv__mmsghdr * | vlen unsigned int | flags unsigned int | timeout struct timespec *

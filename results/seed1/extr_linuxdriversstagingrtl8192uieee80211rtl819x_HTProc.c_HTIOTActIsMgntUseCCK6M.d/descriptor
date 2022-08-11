@@ -1,2 +1,0 @@
-struct ieee80211_network | broadcom_cap_exist long 
-function HTIOTActIsMgntUseCCK6M int | network struct ieee80211_network *

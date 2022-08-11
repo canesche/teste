@@ -1,0 +1,2 @@
+struct TYPE_3__ | data unsigned char * | allocsize unsigned long | size unsigned long 
+function ucvector_init_buffer void | p struct TYPE_3__ * | buffer unsigned char * | size unsigned long

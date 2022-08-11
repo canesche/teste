@@ -1,0 +1,3 @@
+struct gpio_chip | dummy int 
+struct mtk_pinctrl | chip struct gpio_chip 
+function mtk_xt_get_gpio_n int | data void * | eint_n unsigned long | gpio_n unsigned int * | gpio_chip struct gpio_chip **

@@ -1,0 +1,2 @@
+struct queue | nr_elts int 
+function q_size unsigned int | q struct queue *

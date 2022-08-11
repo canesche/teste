@@ -1,0 +1,2 @@
+struct minix_sb_info | s_dirsize int 
+function minix_next_entry void * | de void * | sbi struct minix_sb_info *

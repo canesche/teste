@@ -1,0 +1,2 @@
+struct libfat_filesystem | rootcluster int | rootdir int | endcluster int | data int | clustshift int 
+function libfat_clustertosector int | fs const struct libfat_filesystem * | cluster int

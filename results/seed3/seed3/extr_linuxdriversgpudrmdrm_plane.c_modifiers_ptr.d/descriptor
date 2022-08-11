@@ -1,0 +1,3 @@
+struct drm_format_modifier_blob | modifiers_offset int 
+struct drm_format_modifier | dummy int 
+function modifiers_ptr struct drm_format_modifier * | blob struct drm_format_modifier_blob *

@@ -1,0 +1,5 @@
+struct pipe_ctx | plane_state const struct dc_plane_state * 
+struct TYPE_2__ | pipe_ctx struct pipe_ctx * 
+struct dc_state | res_ctx struct TYPE_2__ 
+struct dc_plane_state | dummy int 
+function is_surface_in_context int | context const struct dc_state * | plane_state const struct dc_plane_state *

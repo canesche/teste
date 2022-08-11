@@ -1,0 +1,1 @@
+function mg_get_line_len unsigned long | buf const char * | buf_len unsigned long

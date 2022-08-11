@@ -1,0 +1,4 @@
+struct TYPE_5__ | size long | free long | used long | data int * 
+struct TYPE_6__ | free long | size long | used long | data int * 
+struct TYPE_7__ | in struct TYPE_5__ | out struct TYPE_6__ 
+function php_output_context_pass void | context struct TYPE_7__ *

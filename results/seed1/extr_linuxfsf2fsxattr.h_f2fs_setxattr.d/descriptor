@@ -1,3 +1,0 @@
-struct page | dummy int 
-struct inode | dummy int 
-function f2fs_setxattr int | inode struct inode * | index int | name const char * | value const void * | size unsigned long | page struct page * | flags int

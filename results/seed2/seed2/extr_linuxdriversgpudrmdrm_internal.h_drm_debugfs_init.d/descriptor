@@ -1,0 +1,3 @@
+struct drm_minor | dummy int 
+struct dentry | dummy int 
+function drm_debugfs_init int | minor struct drm_minor * | minor_id int | root struct dentry *

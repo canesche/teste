@@ -1,0 +1,1 @@
+function ccv_float_to_half_precision void | f float * | h long * | len unsigned long

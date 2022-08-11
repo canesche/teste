@@ -1,0 +1,3 @@
+struct ak4613_formats | fmt unsigned int | width unsigned int 
+struct ak4613_interface | capture struct ak4613_formats | playback struct ak4613_formats 
+function ak4613_dai_fmt_matching int | iface const struct ak4613_interface * | is_play int | fmt unsigned int | width unsigned int

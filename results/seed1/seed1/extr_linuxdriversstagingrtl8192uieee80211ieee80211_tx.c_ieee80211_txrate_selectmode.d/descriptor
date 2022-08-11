@@ -1,0 +1,3 @@
+struct ieee80211_device | iw_mode long | bTxUseDriverAssingedRate long | bTxDisableRateFallBack long 
+struct cb_desc | bTxDisableRateFallBack int | bTxUseDriverAssingedRate int | RATRIndex long 
+function ieee80211_txrate_selectmode void | ieee struct ieee80211_device * | tcb_desc struct cb_desc *

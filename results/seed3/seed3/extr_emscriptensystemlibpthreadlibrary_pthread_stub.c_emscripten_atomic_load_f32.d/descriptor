@@ -1,0 +1,1 @@
+function emscripten_atomic_load_f32 float | addr const void *

@@ -1,2 +1,0 @@
-struct kxcjk1013_data | dummy int 
-function kxcjk1013_set_power_state int | data struct kxcjk1013_data * | on int

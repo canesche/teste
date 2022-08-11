@@ -1,4 +1,0 @@
-struct t3_wq | queue struct TYPE_4__ * 
-struct TYPE_3__ | err int 
-struct TYPE_4__ | wq_in_err struct TYPE_3__ 
-function cxio_enable_wq_db void | wq struct t3_wq *

@@ -1,0 +1,2 @@
+struct cxd2880_tnrdmd | rf_lvl_cmpstn int (*)(struct cxd2880_tnrdmd *, int *) 
+function cxd2880_tnrdmd_set_rf_lvl_cmpstn int | tnr_dmd struct cxd2880_tnrdmd * | rf_lvl_cmpstn int (*)(struct cxd2880_tnrdmd *, int *)

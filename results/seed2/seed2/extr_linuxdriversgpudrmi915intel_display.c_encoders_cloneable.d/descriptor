@@ -1,0 +1,2 @@
+struct intel_encoder | cloneable int | type int 
+function encoders_cloneable int | a const struct intel_encoder * | b const struct intel_encoder *

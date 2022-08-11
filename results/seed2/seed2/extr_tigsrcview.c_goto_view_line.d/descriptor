@@ -1,0 +1,3 @@
+struct TYPE_2__ | offset unsigned long | lineno unsigned long 
+struct view | lines unsigned long | height unsigned long | pos struct TYPE_2__ 
+function goto_view_line int | view struct view * | offset unsigned long | lineno unsigned long

@@ -1,2 +1,0 @@
-struct ieee80211_hw | dummy int 
-function _rtl92de_translate_todbm long | hw struct ieee80211_hw * | signal_strength_index int

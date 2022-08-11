@@ -1,0 +1,1 @@
+function get_dflt_num_of_fifo_bufs int | major int | type enum fman_port_type | speed int

@@ -1,3 +1,0 @@
-struct kstatfs | f_namelen int | f_ffree int | f_files int | f_bavail int | f_bfree int | f_blocks int | f_frsize int | f_bsize int | f_type int 
-struct fuse_kstatfs | namelen int | ffree int | files int | bavail int | bfree int | blocks int | frsize int | bsize int 
-function convert_fuse_statfs void | stbuf struct kstatfs * | attr struct fuse_kstatfs *

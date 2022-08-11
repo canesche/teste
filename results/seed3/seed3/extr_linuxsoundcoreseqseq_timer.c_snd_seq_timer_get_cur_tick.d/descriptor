@@ -1,0 +1,3 @@
+struct TYPE_2__ | cur_tick int 
+struct snd_seq_timer | tick struct TYPE_2__ 
+function snd_seq_timer_get_cur_tick int | tmr struct snd_seq_timer *

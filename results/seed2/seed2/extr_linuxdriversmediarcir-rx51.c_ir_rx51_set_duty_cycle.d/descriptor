@@ -1,0 +1,3 @@
+struct rc_dev | priv struct ir_rx51 * 
+struct ir_rx51 | duty_cycle int 
+function ir_rx51_set_duty_cycle int | dev struct rc_dev * | duty int

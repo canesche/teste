@@ -1,0 +1,2 @@
+struct regulator_dev | dummy int 
+function as3722_ldo3_get_current_limit int | rdev struct regulator_dev *

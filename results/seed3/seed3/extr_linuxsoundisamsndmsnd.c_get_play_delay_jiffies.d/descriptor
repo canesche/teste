@@ -1,0 +1,2 @@
+struct snd_msnd | play_sample_size long | play_sample_rate long | play_channels long 
+function get_play_delay_jiffies long | chip struct snd_msnd * | size long

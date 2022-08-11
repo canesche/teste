@@ -1,0 +1,3 @@
+struct TYPE_4__ | soc struct TYPE_3__ * 
+struct TYPE_3__ | powergates long * 
+function tegra_powergate_is_valid int | id int

@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function apollo_irq_eoi void | data struct irq_data *

@@ -1,0 +1,4 @@
+struct htc_target | dev struct TYPE_4__ * 
+struct TYPE_4__ | ar struct TYPE_3__ * 
+struct TYPE_3__ | ctrl_ep int 
+function htc_valid_rx_frame_len int | target struct htc_target * | eid enum htc_endpoint_id | len int

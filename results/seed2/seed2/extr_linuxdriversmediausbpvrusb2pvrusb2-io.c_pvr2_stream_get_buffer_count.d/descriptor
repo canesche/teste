@@ -1,0 +1,2 @@
+struct pvr2_stream | buffer_target_count int 
+function pvr2_stream_get_buffer_count int | sp struct pvr2_stream *

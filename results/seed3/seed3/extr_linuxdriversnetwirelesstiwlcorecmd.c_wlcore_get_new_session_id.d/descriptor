@@ -1,0 +1,2 @@
+struct wl1271 | session_ids long * 
+function wlcore_get_new_session_id int | wl struct wl1271 * | hlid unsigned long

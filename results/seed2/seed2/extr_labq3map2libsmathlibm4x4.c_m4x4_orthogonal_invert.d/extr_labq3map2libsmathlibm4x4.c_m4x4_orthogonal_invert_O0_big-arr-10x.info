@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_labq3map2libsmathlibm4x4.c_m4x4_orthogonal_invert.d/extr_labq3map2libsmathlibm4x4.c_m4x4_orthogonal_invert_O0::m4x4_orthogonal_invert(60)"
+  }
+]

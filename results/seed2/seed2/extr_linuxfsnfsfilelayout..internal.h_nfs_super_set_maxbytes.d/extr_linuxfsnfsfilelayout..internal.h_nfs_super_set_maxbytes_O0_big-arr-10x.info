@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxfsnfsfilelayout..internal.h_nfs_super_set_maxbytes.d/extr_linuxfsnfsfilelayout..internal.h_nfs_super_set_maxbytes_O0::nfs_super_set_maxbytes(65)"
+  }
+]

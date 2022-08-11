@@ -1,0 +1,3 @@
+struct f2fs_sm_info | dummy int 
+struct f2fs_sb_info | sm_info long 
+function SM_I struct f2fs_sm_info * | sbi struct f2fs_sb_info *

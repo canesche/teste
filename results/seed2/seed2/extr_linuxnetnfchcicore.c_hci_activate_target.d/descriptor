@@ -1,0 +1,3 @@
+struct nfc_target | dummy int 
+struct nfc_dev | dummy int 
+function hci_activate_target int | nfc_dev struct nfc_dev * | target struct nfc_target * | protocol int

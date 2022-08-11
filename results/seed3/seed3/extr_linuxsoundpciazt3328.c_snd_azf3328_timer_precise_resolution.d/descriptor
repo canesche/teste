@@ -1,0 +1,2 @@
+struct snd_timer | dummy int 
+function snd_azf3328_timer_precise_resolution int | timer struct snd_timer * | num unsigned long * | den unsigned long *

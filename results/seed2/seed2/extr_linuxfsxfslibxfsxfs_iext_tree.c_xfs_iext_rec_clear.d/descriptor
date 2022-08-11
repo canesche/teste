@@ -1,0 +1,2 @@
+struct xfs_iext_rec | hi long | lo long 
+function xfs_iext_rec_clear void | rec struct xfs_iext_rec *

@@ -1,0 +1,2 @@
+struct agp_bridge_data | dummy int 
+function parisc_agp_mask_memory unsigned long | bridge struct agp_bridge_data * | addr unsigned long | type int

@@ -1,0 +1,2 @@
+struct ishtp_msg_hdr | length unsigned long | msg_complete int | reserved long | fw_addr int | host_addr long 
+function fix_cl_hdr void | hdr struct ishtp_msg_hdr * | length unsigned long | cl_addr int

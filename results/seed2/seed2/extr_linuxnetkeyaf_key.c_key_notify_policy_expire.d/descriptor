@@ -1,0 +1,3 @@
+struct xfrm_policy | dummy int 
+struct km_event | dummy int 
+function key_notify_policy_expire int | xp struct xfrm_policy * | c const struct km_event *

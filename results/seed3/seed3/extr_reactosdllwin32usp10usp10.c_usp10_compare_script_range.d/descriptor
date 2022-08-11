@@ -1,0 +1,2 @@
+struct usp10_script_range | rangeFirst const long | rangeLast const long 
+function usp10_compare_script_range int | key const void * | value const void *

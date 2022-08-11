@@ -1,0 +1,3 @@
+struct TYPE_2__ | cid_q_prod_idx int | cid_que unsigned long * | cid_q_max_idx int | conn_cid_tbl int ** | cid_free_cnt int 
+struct bnx2i_hba | cid_que struct TYPE_2__ 
+function bnx2i_free_iscsi_cid void | hba struct bnx2i_hba * | iscsi_cid unsigned long

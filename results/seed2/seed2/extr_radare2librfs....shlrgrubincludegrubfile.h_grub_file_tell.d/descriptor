@@ -1,0 +1,2 @@
+struct TYPE_3__ | offset int 
+function grub_file_tell int | file struct TYPE_3__ *const

@@ -1,0 +1,2 @@
+struct nvkm_memory | dummy int 
+function gk20a_instobj_target enum nvkm_memory_target | memory struct nvkm_memory *

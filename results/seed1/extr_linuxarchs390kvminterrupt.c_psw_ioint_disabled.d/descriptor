@@ -1,5 +1,0 @@
-struct TYPE_6__ | sie_block struct TYPE_5__ * 
-struct kvm_vcpu | arch struct TYPE_6__ 
-struct TYPE_4__ | mask int 
-struct TYPE_5__ | gpsw struct TYPE_4__ 
-function psw_ioint_disabled int | vcpu struct kvm_vcpu *

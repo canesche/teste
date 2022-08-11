@@ -1,2 +1,0 @@
-struct mg_connection | user_data long 
-function connect_fail_cb void | nc struct mg_connection * | ev int | p void *

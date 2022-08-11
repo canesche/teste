@@ -1,0 +1,3 @@
+struct xt_l2tp_info | flags int | type long | version int | tid long | sid long 
+struct l2tp_data | type long | version int | tid long | sid long 
+function l2tp_match int | info const struct xt_l2tp_info * | data struct l2tp_data *

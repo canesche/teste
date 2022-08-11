@@ -1,4 +1,0 @@
-struct v4l2_fmtdesc | index int | pixelformat int 
-struct file | dummy int 
-struct TYPE_2__ | fourcc int 
-function vidioc_enum_fmt int | file struct file * | priv void * | f struct v4l2_fmtdesc *

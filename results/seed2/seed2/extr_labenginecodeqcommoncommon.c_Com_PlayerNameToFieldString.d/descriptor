@@ -1,0 +1,1 @@
+function Com_PlayerNameToFieldString int | str char * | length int | name const char *

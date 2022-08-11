@@ -1,0 +1,4 @@
+struct TYPE_7__ | icache struct TYPE_6__ * 
+struct TYPE_6__ | cache_size unsigned int | buffer_blk long | cache struct TYPE_5__ * 
+struct TYPE_5__ | ino long 
+function ext2fs_flush_icache int | fs struct TYPE_7__ *

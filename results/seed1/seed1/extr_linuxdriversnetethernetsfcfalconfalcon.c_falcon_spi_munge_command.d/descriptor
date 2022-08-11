@@ -1,0 +1,2 @@
+struct falcon_spi_device | munge_address const unsigned int 
+function falcon_spi_munge_command unsigned int | spi const struct falcon_spi_device * | command const unsigned int | address const unsigned int

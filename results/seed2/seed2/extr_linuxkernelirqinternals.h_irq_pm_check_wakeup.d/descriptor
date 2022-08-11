@@ -1,0 +1,2 @@
+struct irq_desc | dummy int 
+function irq_pm_check_wakeup int | desc struct irq_desc *

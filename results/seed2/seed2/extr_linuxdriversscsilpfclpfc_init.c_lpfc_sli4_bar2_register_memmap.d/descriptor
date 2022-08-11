@@ -1,0 +1,3 @@
+struct TYPE_2__ | drbl_regs_memmap_p long | BMBXregaddr long | MQDBregaddr long | CQDBregaddr long | EQDBregaddr long | WQDBregaddr long | RQDBregaddr long 
+struct lpfc_hba | sli4_hba struct TYPE_2__ 
+function lpfc_sli4_bar2_register_memmap int | phba struct lpfc_hba * | vf int

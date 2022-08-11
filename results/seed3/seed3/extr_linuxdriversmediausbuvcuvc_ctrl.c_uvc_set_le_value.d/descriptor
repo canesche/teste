@@ -1,0 +1,2 @@
+struct uvc_control_mapping | size int | offset int | v4l2_type long 
+function uvc_set_le_value void | mapping struct uvc_control_mapping * | value int | data int *

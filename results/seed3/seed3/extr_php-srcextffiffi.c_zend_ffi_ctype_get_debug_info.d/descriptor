@@ -1,0 +1,1 @@
+function zend_ffi_ctype_get_debug_info int * | obj int * | is_temp int *

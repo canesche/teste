@@ -1,0 +1,3 @@
+struct TYPE_6__ | BackBufferHeight int | BackBufferWidth int 
+struct TYPE_5__ | dwHeight int | dwWidth int 
+function Direct3DSwapChain9_SetDisplayMode int | pThisSwapChain struct TYPE_5__ * | pPresentationParameters struct TYPE_6__ *

@@ -1,3 +1,0 @@
-struct trace_array | clock_id unsigned long 
-struct TYPE_2__ | in_ns long 
-function trace_clock_in_ns int | tr struct trace_array *

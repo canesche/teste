@@ -1,3 +1,0 @@
-struct TYPE_2__ | comm int 
-struct perf_event | attr struct TYPE_2__ 
-function perf_event_comm_match int | event struct perf_event *

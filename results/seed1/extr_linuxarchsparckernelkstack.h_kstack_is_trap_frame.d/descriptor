@@ -1,3 +1,0 @@
-struct thread_info | cpu unsigned long 
-struct pt_regs | magic int 
-function kstack_is_trap_frame int | tp struct thread_info * | regs struct pt_regs *

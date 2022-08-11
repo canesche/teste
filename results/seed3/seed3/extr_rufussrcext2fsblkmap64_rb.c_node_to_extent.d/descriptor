@@ -1,0 +1,3 @@
+struct rb_node | dummy int 
+struct bmap_rb_extent | dummy int 
+function node_to_extent struct bmap_rb_extent * | node struct rb_node *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | handshake_mode int 
+function post_handshake_op int | test_ctx const struct TYPE_3__ *

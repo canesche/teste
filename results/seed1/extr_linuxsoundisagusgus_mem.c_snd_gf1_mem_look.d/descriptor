@@ -1,3 +1,0 @@
-struct snd_gf1_mem_block | ptr unsigned int | next struct snd_gf1_mem_block * 
-struct snd_gf1_mem | first struct snd_gf1_mem_block * 
-function snd_gf1_mem_look struct snd_gf1_mem_block * | alloc struct snd_gf1_mem * | address unsigned int

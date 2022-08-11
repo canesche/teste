@@ -1,4 +1,0 @@
-struct TYPE_3__ | cclk unsigned int 
-struct TYPE_4__ | vpd struct TYPE_3__ 
-struct adapter | params struct TYPE_4__ 
-function chan_rate int | adap struct adapter * | bytes256 unsigned int

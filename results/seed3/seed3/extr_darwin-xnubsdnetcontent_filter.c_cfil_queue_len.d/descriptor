@@ -1,0 +1,2 @@
+struct cfil_queue | q_start long | q_end long 
+function cfil_queue_len long | cfq struct cfil_queue *

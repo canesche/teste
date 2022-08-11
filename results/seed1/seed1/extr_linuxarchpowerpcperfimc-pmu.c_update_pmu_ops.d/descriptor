@@ -1,0 +1,3 @@
+struct TYPE_2__ | commit_txn int | cancel_txn int | start_txn int | del void * | add int | event_init int | attr_groups int ** | read int | stop void * | start int | task_ctx_nr int 
+struct imc_pmu | domain int | pmu struct TYPE_2__ | attr_groups int ** 
+function update_pmu_ops int | pmu struct imc_pmu *

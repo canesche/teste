@@ -1,2 +1,0 @@
-struct rbd_client_id | gid long | handle long 
-function rbd_cid_equal int | lhs const struct rbd_client_id * | rhs const struct rbd_client_id *

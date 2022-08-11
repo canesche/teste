@@ -1,0 +1,5 @@
+struct pp_hwmgr | adev struct amdgpu_device * | smu_backend long 
+struct ci_smumgr | power_tune_defaults int * 
+struct amdgpu_device | pdev struct TYPE_2__ * 
+struct TYPE_2__ | device int 
+function ci_initialize_power_tune_defaults void | hwmgr struct pp_hwmgr *

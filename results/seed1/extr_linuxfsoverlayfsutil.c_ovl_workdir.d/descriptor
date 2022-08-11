@@ -1,4 +1,0 @@
-struct ovl_fs | workdir struct dentry * 
-struct dentry | d_sb struct TYPE_2__ * 
-struct TYPE_2__ | s_fs_info struct ovl_fs * 
-function ovl_workdir struct dentry * | dentry struct dentry *

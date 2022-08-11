@@ -1,2 +1,0 @@
-struct rtc_device | dummy int 
-function rtc_dev_prepare void | rtc struct rtc_device *

@@ -1,4 +1,0 @@
-struct TYPE_4__ | regs struct TYPE_3__ * 
-struct task_struct | thread struct TYPE_4__ 
-struct TYPE_3__ | msr unsigned long 
-function set_user_msr int | task struct task_struct * | msr unsigned long

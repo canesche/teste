@@ -1,0 +1,2 @@
+struct console | dummy int 
+function q40_mem_console_write void | co struct console * | s const char * | count unsigned int

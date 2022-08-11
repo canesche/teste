@@ -1,0 +1,2 @@
+struct hw_perf_event | config int 
+function amd_get_event_code unsigned int | hwc struct hw_perf_event *

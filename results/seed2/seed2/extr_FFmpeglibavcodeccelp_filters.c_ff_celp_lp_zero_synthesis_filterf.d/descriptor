@@ -1,0 +1,1 @@
+function ff_celp_lp_zero_synthesis_filterf void | out float * | filter_coeffs const float * | in const float * | buffer_length int | filter_length int

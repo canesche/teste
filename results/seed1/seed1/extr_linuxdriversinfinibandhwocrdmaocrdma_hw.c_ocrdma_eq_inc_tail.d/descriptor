@@ -1,0 +1,3 @@
+struct TYPE_2__ | tail int 
+struct ocrdma_eq | q struct TYPE_2__ 
+function ocrdma_eq_inc_tail void | eq struct ocrdma_eq *

@@ -1,4 +1,0 @@
-struct TYPE_5__ | s_b1 int | s_b2 int | s_b3 int | s_b4 int 
-struct TYPE_6__ | S_addr int | S_un_b struct TYPE_5__ 
-struct TYPE_7__ | S_un struct TYPE_6__ 
-function init_ip4 void | addr struct TYPE_7__ * | src int const[4]

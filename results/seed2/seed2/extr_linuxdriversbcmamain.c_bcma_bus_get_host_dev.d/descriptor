@@ -1,0 +1,6 @@
+struct device | dummy int 
+struct bcma_bus | hosttype int | host_sdio struct TYPE_6__ * | host_pdev struct TYPE_5__ * | host_pci struct TYPE_4__ * 
+struct TYPE_6__ | dev struct device 
+struct TYPE_5__ | dev struct device 
+struct TYPE_4__ | dev struct device 
+function bcma_bus_get_host_dev struct device * | bus struct bcma_bus *

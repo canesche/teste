@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversnetethernetinteli40ei40e_ethtool.c_i40e_flow_str.d/extr_linuxdriversnetethernetinteli40ei40e_ethtool.c_i40e_flow_str_O0::i40e_flow_str(66)"
+  }
+]

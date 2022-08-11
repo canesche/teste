@@ -1,0 +1,2 @@
+struct mxc_nand_host | dummy int 
+function mxcnd_probe_dt int | host struct mxc_nand_host *

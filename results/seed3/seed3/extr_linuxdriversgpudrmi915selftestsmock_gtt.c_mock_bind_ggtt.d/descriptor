@@ -1,0 +1,2 @@
+struct i915_vma | flags int 
+function mock_bind_ggtt int | vma struct i915_vma * | cache_level enum i915_cache_level | flags int

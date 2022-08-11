@@ -1,0 +1,2 @@
+struct ref | next void * 
+function ref_list_get_next void * | a const void *

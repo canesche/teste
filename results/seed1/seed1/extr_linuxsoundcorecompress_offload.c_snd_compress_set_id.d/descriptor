@@ -1,0 +1,2 @@
+struct snd_compr | dummy int 
+function snd_compress_set_id void | compr struct snd_compr * | id const char *

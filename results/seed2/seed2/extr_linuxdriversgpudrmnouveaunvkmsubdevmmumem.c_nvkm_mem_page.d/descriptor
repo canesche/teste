@@ -1,0 +1,2 @@
+struct nvkm_memory | dummy int 
+function nvkm_mem_page int | memory struct nvkm_memory *

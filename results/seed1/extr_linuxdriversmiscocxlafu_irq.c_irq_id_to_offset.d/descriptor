@@ -1,3 +1,0 @@
-struct ocxl_context | afu struct TYPE_2__ * 
-struct TYPE_2__ | irq_base_offset long 
-function irq_id_to_offset long | ctx struct ocxl_context * | id int

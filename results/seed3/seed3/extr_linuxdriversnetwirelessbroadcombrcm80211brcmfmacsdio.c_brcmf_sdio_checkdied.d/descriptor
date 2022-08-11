@@ -1,0 +1,2 @@
+struct brcmf_sdio | dummy int 
+function brcmf_sdio_checkdied int | bus struct brcmf_sdio *

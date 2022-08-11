@@ -1,0 +1,2 @@
+struct saa7134_dev | dummy int 
+function saa7134_vbi_fini int | dev struct saa7134_dev *

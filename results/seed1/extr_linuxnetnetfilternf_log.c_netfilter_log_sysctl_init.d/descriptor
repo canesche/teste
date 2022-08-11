@@ -1,2 +1,0 @@
-struct net | dummy int 
-function netfilter_log_sysctl_init int | net struct net *

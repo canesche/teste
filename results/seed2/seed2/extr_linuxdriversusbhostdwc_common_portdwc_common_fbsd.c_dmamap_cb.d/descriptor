@@ -1,0 +1,2 @@
+struct TYPE_3__ | ds_addr int 
+function dmamap_cb void | arg void * | segs struct TYPE_3__ * | nseg int | error int

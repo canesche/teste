@@ -1,0 +1,3 @@
+struct TYPE_4__ | cur_mode unsigned long 
+struct TYPE_5__ | mir struct TYPE_4__ | modes int * 
+function _glfwPlatformGetVideoMode void | monitor struct TYPE_5__ * | mode int *

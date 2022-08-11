@@ -1,4 +1,0 @@
-struct TYPE_6__ | typeinfos struct TYPE_7__ * 
-struct TYPE_7__ | var_data long * | func_data long * | typeinfo struct TYPE_5__ * | next_typeinfo struct TYPE_7__ * 
-struct TYPE_5__ | memoffset int | cElement int 
-function ctl2_finalize_typeinfos void | typelib struct TYPE_6__ * | filesize int

@@ -1,2 +1,0 @@
-struct pcmcia_socket | dummy int 
-function omap_cf_ss_init int | s struct pcmcia_socket *

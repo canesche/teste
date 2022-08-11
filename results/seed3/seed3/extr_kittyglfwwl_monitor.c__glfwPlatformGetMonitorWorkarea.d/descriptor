@@ -1,0 +1,4 @@
+struct TYPE_5__ | x int | y int | currentMode unsigned long 
+struct TYPE_7__ | wl struct TYPE_5__ | modes struct TYPE_6__ * 
+struct TYPE_6__ | width int | height int 
+function _glfwPlatformGetMonitorWorkarea void | monitor struct TYPE_7__ * | xpos int * | ypos int * | width int * | height int *

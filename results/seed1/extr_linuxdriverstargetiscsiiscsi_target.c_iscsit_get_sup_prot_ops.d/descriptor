@@ -1,2 +1,0 @@
-struct iscsi_conn | dummy int 
-function iscsit_get_sup_prot_ops enum target_prot_op | conn struct iscsi_conn *

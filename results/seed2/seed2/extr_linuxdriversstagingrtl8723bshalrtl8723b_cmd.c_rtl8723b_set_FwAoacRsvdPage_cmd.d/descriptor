@@ -1,0 +1,2 @@
+struct adapter | dummy int 
+function rtl8723b_set_FwAoacRsvdPage_cmd void | padapter struct adapter * | rsvdpageloc int

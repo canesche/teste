@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function __ext4_handle_dirty_super int | where const char * | line unsigned int | handle int * | sb struct super_block *

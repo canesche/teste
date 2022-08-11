@@ -1,2 +1,0 @@
-struct imx_dma_data | dma_request int | peripheral_type int | priority int 
-function imx_pcm_dma_params_init_data void | dma_data struct imx_dma_data * | dma int | peripheral_type enum sdma_peripheral_type

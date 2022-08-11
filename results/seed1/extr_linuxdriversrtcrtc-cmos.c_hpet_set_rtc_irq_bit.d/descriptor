@@ -1,1 +1,0 @@
-function hpet_set_rtc_irq_bit int | mask unsigned long

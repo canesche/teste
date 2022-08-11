@@ -1,0 +1,3 @@
+struct iceland_mc_reg_table | last int | num_entries int | validflag int | mc_reg_table_entry struct TYPE_2__ * 
+struct TYPE_2__ | mc_data long * 
+function iceland_set_valid_flag int | table struct iceland_mc_reg_table *

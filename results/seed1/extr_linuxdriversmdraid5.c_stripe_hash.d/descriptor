@@ -1,3 +1,0 @@
-struct r5conf | stripe_hashtbl struct hlist_head * 
-struct hlist_head | dummy int 
-function stripe_hash struct hlist_head * | conf struct r5conf * | sect int

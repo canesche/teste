@@ -1,0 +1,1 @@
+function locate_and_init_vga void | sel_func void *(*)(void *, void *)

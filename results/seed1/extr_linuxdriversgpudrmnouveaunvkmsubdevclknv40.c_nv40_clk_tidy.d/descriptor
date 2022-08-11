@@ -1,2 +1,0 @@
-struct nvkm_clk | dummy int 
-function nv40_clk_tidy void | obj struct nvkm_clk *

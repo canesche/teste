@@ -1,0 +1,2 @@
+struct link_encoder | dummy int 
+function virtual_link_encoder_enable_tmds_output void | enc struct link_encoder * | clock_source enum clock_source_id | color_depth enum dc_color_depth | signal enum signal_type | pixel_clock int

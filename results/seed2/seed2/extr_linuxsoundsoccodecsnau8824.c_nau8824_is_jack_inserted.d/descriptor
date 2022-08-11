@@ -1,0 +1,3 @@
+struct snd_soc_jack | status int 
+struct nau8824 | irq long | jack struct snd_soc_jack * 
+function nau8824_is_jack_inserted int | nau8824 struct nau8824 *

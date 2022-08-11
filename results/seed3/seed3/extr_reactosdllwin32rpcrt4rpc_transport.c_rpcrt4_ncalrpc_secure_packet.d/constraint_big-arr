@@ -1,0 +1,1 @@
+value(hdr_size) == 255, value(stub_data_size) == 255, value(auth_value_size) == 255, length(conn) == 65025, length(hdr) == 65025, length(stub_data) == 65025, length(auth_hdr) == 65025, length(auth_value) == 65025

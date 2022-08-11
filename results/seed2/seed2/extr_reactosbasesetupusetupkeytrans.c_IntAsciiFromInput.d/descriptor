@@ -1,0 +1,3 @@
+struct TYPE_5__ | ScanCode long | Enhanced int | Normal long | Shift long | bCAPS long | NumLock long 
+struct TYPE_4__ | MakeCode long 
+function IntAsciiFromInput long | InputData struct TYPE_4__ * | KeyState int

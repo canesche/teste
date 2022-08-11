@@ -1,0 +1,3 @@
+struct ahc_syncrate | sxfr_u2 unsigned long | period unsigned long | sxfr unsigned long | rate int * 
+struct ahc_softc | features int 
+function ahc_find_period unsigned long | ahc struct ahc_softc * | scsirate unsigned long | maxsync unsigned long

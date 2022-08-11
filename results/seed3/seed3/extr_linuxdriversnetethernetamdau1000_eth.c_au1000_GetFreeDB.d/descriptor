@@ -1,0 +1,3 @@
+struct db_dest | pnext struct db_dest * 
+struct au1000_private | pDBfree struct db_dest * 
+function au1000_GetFreeDB struct db_dest * | aup struct au1000_private *

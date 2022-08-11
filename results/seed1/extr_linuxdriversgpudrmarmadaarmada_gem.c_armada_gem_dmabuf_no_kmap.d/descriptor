@@ -1,2 +1,0 @@
-struct dma_buf | dummy int 
-function armada_gem_dmabuf_no_kmap void * | buf struct dma_buf * | n unsigned long

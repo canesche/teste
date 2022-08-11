@@ -1,0 +1,2 @@
+struct qlcnic_82xx_dump_template_hdr | sys_info int * 
+function qlcnic_82xx_set_sys_info void | t_hdr void * | idx int | value int

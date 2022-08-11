@@ -1,1 +1,0 @@
-function BZ2_hbCreateDecodeTables void | limit unsigned long * | base unsigned long * | perm unsigned long * | length unsigned long * | minLen unsigned long | maxLen unsigned long | alphaSize unsigned long

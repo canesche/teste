@@ -1,0 +1,2 @@
+struct ufs_qcom_host | caps int 
+function ufs_qcom_cap_qunipro int | host struct ufs_qcom_host *

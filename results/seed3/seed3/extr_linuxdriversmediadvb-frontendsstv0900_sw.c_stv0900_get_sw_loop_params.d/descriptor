@@ -1,0 +1,2 @@
+struct stv0900_internal | symbol_rate int * | srch_range int * | srch_standard int * | mclk int 
+function stv0900_get_sw_loop_params void | intp struct stv0900_internal * | frequency_inc int * | sw_timeout int * | steps int * | demod enum fe_stv0900_demod_num

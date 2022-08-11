@@ -1,0 +1,2 @@
+struct curltime | tv_sec int | tv_usec int 
+function Curl_timediff_us int | newer struct curltime | older struct curltime

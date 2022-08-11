@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function batadv_debugfs_rename_meshif void | dev struct net_device *

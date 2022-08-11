@@ -1,0 +1,2 @@
+struct FFBufQueue | available long 
+function ff_bufqueue_is_full int | queue struct FFBufQueue *

@@ -1,2 +1,0 @@
-struct radeon_ring | wptr_old int | wptr int 
-function radeon_ring_undo void | ring struct radeon_ring *

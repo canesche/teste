@@ -1,3 +1,0 @@
-struct TYPE_2__ | mta_reg_count int | mc_filter_type int 
-struct e1000_hw | mac struct TYPE_2__ 
-function e1000_hash_mc_addr int | hw struct e1000_hw * | mc_addr int *

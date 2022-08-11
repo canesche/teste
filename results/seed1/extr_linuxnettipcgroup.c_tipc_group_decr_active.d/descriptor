@@ -1,3 +1,0 @@
-struct tipc_member | state long 
-struct tipc_group | active_cnt int 
-function tipc_group_decr_active void | grp struct tipc_group * | m struct tipc_member *

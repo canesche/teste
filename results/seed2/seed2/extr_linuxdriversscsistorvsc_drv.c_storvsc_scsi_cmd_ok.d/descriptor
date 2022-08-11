@@ -1,0 +1,2 @@
+struct scsi_cmnd | cmnd int * | result int 
+function storvsc_scsi_cmd_ok int | scmnd struct scsi_cmnd *

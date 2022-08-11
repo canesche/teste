@@ -1,3 +1,0 @@
-struct TYPE_2__ | num_l1_ents unsigned long 
-struct arm_smmu_device | features int | strtab_cfg struct TYPE_2__ 
-function arm_smmu_sid_in_range int | smmu struct arm_smmu_device * | sid unsigned long

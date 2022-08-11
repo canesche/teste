@@ -1,0 +1,1 @@
+function libsmbc_get_auth_data void | c int * | server const char * | share const char * | workgroup char * | workgroup_len int | username char * | username_len int | password char * | password_len int

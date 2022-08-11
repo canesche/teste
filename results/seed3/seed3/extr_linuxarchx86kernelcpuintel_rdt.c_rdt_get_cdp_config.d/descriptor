@@ -1,0 +1,3 @@
+struct TYPE_2__ | cbm_len int | shareable_bits int 
+struct rdt_resource | num_closid int | data_width int | alloc_capable int | alloc_enabled int | cache struct TYPE_2__ | default_ctrl int 
+function rdt_get_cdp_config void | level int | type int

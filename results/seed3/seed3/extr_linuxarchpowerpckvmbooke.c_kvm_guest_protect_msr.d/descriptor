@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function kvm_guest_protect_msr void | vcpu struct kvm_vcpu * | prot_bitmap int | set int

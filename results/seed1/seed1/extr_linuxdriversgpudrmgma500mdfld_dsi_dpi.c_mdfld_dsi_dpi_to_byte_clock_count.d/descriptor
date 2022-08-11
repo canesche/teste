@@ -1,0 +1,1 @@
+function mdfld_dsi_dpi_to_byte_clock_count int | pixel_clock_count int | num_lane int | bpp int

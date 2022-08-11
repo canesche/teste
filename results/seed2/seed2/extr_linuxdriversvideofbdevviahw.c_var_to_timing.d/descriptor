@@ -1,0 +1,3 @@
+struct via_display_timing | hor_addr int | hor_sync_start int | hor_sync_end int | hor_total int | hor_blank_start int | hor_blank_end int | ver_addr int | ver_sync_start int | ver_sync_end int | ver_total int | ver_blank_start int | ver_blank_end int 
+struct fb_var_screeninfo | xres int | yres int | right_margin int | hsync_len int | left_margin int | lower_margin int | vsync_len int | upper_margin int 
+function var_to_timing struct via_display_timing | var const struct fb_var_screeninfo * | cxres int | cyres int

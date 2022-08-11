@@ -1,6 +1,0 @@
-struct TYPE_4__ | attr struct TYPE_3__ * 
-struct match_attr | u struct TYPE_4__ | is_macro long 
-struct attr_stack | num_matches int | attrs struct match_attr ** | prev struct attr_stack * 
-struct all_attrs_item | macro const struct match_attr * 
-struct TYPE_3__ | attr_nr int 
-function determine_macros void | all_attrs struct all_attrs_item * | stack const struct attr_stack *

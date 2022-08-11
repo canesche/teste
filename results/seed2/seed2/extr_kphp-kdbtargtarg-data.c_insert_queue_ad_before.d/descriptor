@@ -1,0 +1,2 @@
+struct advert | prev struct advert * | next struct advert * 
+function insert_queue_ad_before void | W struct advert * | A struct advert *

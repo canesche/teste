@@ -1,0 +1,2 @@
+struct net | dummy int 
+function nf_conntrack_tstamp_fini_sysctl void | net struct net *

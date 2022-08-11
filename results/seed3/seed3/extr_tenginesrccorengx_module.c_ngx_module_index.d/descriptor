@@ -1,0 +1,4 @@
+struct TYPE_6__ | index unsigned long 
+struct TYPE_7__ | old_cycle struct TYPE_5__ * | modules struct TYPE_6__ ** 
+struct TYPE_5__ | modules struct TYPE_6__ ** 
+function ngx_module_index unsigned long | cycle struct TYPE_7__ *

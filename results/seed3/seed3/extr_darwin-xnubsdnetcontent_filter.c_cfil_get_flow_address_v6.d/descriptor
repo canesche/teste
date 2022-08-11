@@ -1,0 +1,6 @@
+struct in6_addr | dummy int 
+struct inpcb | inp_fport int | inp_lport int | in6p_faddr struct in6_addr | in6p_laddr struct in6_addr 
+struct TYPE_4__ | addr6 struct in6_addr 
+struct TYPE_3__ | addr6 struct in6_addr 
+struct cfil_hash_entry | cfentry_fport int | cfentry_lport int | cfentry_faddr struct TYPE_4__ | cfentry_laddr struct TYPE_3__ 
+function cfil_get_flow_address_v6 void | entry struct cfil_hash_entry * | inp struct inpcb * | laddr struct in6_addr ** | faddr struct in6_addr ** | lport int * | fport int *

@@ -1,0 +1,4 @@
+struct intel_engine_hangcheck | wedged int | stalled int | action int | seqno int | acthd int 
+struct TYPE_2__ | wedged int | stalled int | action int | seqno int | acthd int 
+struct intel_engine_cs | hangcheck struct TYPE_2__ 
+function hangcheck_store_sample void | engine struct intel_engine_cs * | hc const struct intel_engine_hangcheck *

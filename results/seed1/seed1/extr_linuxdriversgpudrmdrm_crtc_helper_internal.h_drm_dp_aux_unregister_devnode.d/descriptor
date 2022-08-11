@@ -1,0 +1,2 @@
+struct drm_dp_aux | dummy int 
+function drm_dp_aux_unregister_devnode void | aux struct drm_dp_aux *

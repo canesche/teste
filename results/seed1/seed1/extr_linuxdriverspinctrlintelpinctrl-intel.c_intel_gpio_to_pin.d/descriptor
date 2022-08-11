@@ -1,0 +1,4 @@
+struct intel_pinctrl | ncommunities int | communities struct intel_community * 
+struct intel_padgroup | gpio_base long | size unsigned int | base unsigned int 
+struct intel_community | ngpps int | gpps struct intel_padgroup * 
+function intel_gpio_to_pin int | pctrl struct intel_pinctrl * | offset unsigned int | community const struct intel_community ** | padgrp const struct intel_padgroup **

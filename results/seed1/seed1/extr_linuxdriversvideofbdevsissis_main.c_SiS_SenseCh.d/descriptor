@@ -1,0 +1,2 @@
+struct sis_video_info | chip long 
+function SiS_SenseCh void | ivideo struct sis_video_info *

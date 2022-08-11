@@ -1,5 +1,0 @@
-struct hda_fixup | dummy int 
-struct hda_codec | force_pin_prefix int | spec struct alc_spec * 
-struct TYPE_2__ | suppress_vmaster int | suppress_auto_mute int | suppress_auto_mic int | mixer_nid long 
-struct alc_spec | gen struct TYPE_2__ 
-function alc_fixup_dual_codecs void | codec struct hda_codec * | fix const struct hda_fixup * | action int

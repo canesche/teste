@@ -1,0 +1,2 @@
+struct i40e_pf | dummy int 
+function i40e_dbg_pf_exit void | pf struct i40e_pf *

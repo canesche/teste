@@ -1,0 +1,8 @@
+struct TYPE_6__ | formats struct v4l2_mbus_framefmt * 
+struct TYPE_5__ | formats struct v4l2_mbus_framefmt * 
+struct resizer_params | ext_mem_param struct TYPE_8__ * | rsz_rsc_param struct TYPE_7__ * 
+struct vpfe_resizer_device | resizer_b struct TYPE_6__ | resizer_a struct TYPE_5__ | config struct resizer_params 
+struct v4l2_mbus_framefmt | height int | width int | code long 
+struct TYPE_8__ | c_offset int | flip_ofst_y int | flip_ofst_c int | rsz_sdr_oft_y int | rsz_sdr_oft_c int 
+struct TYPE_7__ | v_flip long | h_flip long 
+function resizer_calculate_sdram_offsets int | resizer struct vpfe_resizer_device * | index int

@@ -1,0 +1,4 @@
+struct git_graph | num_new_columns int | new_columns struct column * 
+struct commit | dummy int 
+struct column | commit struct commit * 
+function find_new_column_by_commit struct column * | graph struct git_graph * | commit struct commit *

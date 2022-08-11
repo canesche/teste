@@ -1,0 +1,3 @@
+struct wined3d_gl_info | dummy int 
+struct shader_caps | ps_1x_max_value float | wined3d_caps long | varying_count long | ps_uniform_count long | vs_uniform_count long | cs_version long | ps_version long | gs_version long | ds_version long | hs_version long | vs_version long 
+function shader_none_get_caps void | gl_info const struct wined3d_gl_info * | caps struct shader_caps *

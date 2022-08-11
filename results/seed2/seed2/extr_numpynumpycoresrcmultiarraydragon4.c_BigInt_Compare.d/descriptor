@@ -1,0 +1,2 @@
+struct TYPE_4__ | length long | blocks long * 
+function BigInt_Compare long | lhs const struct TYPE_4__ * | rhs const struct TYPE_4__ *

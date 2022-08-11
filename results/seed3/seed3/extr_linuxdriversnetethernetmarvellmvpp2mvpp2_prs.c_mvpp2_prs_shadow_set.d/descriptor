@@ -1,0 +1,3 @@
+struct mvpp2 | prs_shadow struct TYPE_2__ * 
+struct TYPE_2__ | valid int | lu int 
+function mvpp2_prs_shadow_set void | priv struct mvpp2 * | index int | lu int

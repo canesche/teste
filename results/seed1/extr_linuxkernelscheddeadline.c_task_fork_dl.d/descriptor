@@ -1,2 +1,0 @@
-struct task_struct | dummy int 
-function task_fork_dl void | p struct task_struct *

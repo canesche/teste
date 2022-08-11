@@ -1,0 +1,2 @@
+struct _getopt_data | __first_nonopt int | __last_nonopt int | optind int 
+function exchange void | argv char ** | d struct _getopt_data *

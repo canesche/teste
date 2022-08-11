@@ -1,0 +1,5 @@
+struct TYPE_7__ | pszTemplate long 
+struct TYPE_9__ | u struct TYPE_7__ 
+struct TYPE_8__ | nPages unsigned long | proppage struct TYPE_6__ * 
+struct TYPE_6__ | hpage int 
+function PROPSHEET_FindPageByResId unsigned long | psInfo const struct TYPE_8__ * | resId long

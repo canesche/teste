@@ -1,2 +1,0 @@
-struct fsi_priv | spdif int 
-function fsi_is_spdif int | fsi struct fsi_priv *

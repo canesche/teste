@@ -1,0 +1,2 @@
+struct seqbuf | size unsigned long | pos long | buf void * 
+function seqbuf_init void | seqbuf struct seqbuf * | buf void * | size unsigned long

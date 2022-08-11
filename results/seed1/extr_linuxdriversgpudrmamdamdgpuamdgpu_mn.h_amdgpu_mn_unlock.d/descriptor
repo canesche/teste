@@ -1,2 +1,0 @@
-struct amdgpu_mn | dummy int 
-function amdgpu_mn_unlock void | mn struct amdgpu_mn *

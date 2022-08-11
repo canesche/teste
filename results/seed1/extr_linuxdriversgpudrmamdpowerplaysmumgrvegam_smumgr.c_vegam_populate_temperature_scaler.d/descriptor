@@ -1,4 +1,0 @@
-struct TYPE_2__ | LPMLTemperatureScaler long * 
-struct vegam_smumgr | power_tune_table struct TYPE_2__ 
-struct pp_hwmgr | smu_backend long 
-function vegam_populate_temperature_scaler int | hwmgr struct pp_hwmgr *

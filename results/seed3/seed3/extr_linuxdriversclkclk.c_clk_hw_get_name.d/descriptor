@@ -1,0 +1,3 @@
+struct clk_hw | core struct TYPE_2__ * 
+struct TYPE_2__ | name const char * 
+function clk_hw_get_name const char * | hw const struct clk_hw *

@@ -1,0 +1,6 @@
+struct TYPE_4__ | ivpr int | decar int | mcsrr1 int | mcsrr0 int 
+struct kvm_vcpu | vcpu_id long | arch struct TYPE_4__ 
+struct TYPE_6__ | features int | pir long | ivpr int | decar int | mcsrr1 int | mcsrr0 int 
+struct TYPE_5__ | e struct TYPE_6__ 
+struct kvm_sregs | u struct TYPE_5__ 
+function set_sregs_arch206 int | vcpu struct kvm_vcpu * | sregs struct kvm_sregs *

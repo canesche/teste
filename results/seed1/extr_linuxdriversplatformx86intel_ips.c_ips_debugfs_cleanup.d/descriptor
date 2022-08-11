@@ -1,2 +1,0 @@
-struct ips_driver | dummy int 
-function ips_debugfs_cleanup void | ips struct ips_driver *

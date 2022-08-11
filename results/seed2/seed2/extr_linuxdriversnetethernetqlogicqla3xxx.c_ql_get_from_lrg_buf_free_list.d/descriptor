@@ -1,0 +1,3 @@
+struct ql_rcv_buf_cb | next struct ql_rcv_buf_cb * 
+struct ql3_adapter | lrg_buf_free_count int | lrg_buf_free_tail int * | lrg_buf_free_head struct ql_rcv_buf_cb * 
+function ql_get_from_lrg_buf_free_list struct ql_rcv_buf_cb * | qdev struct ql3_adapter *

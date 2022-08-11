@@ -1,0 +1,2 @@
+struct nfs_lock_context | lockowner long 
+function nfs_match_lock_context int | l1 const struct nfs_lock_context * | l2 const struct nfs_lock_context *

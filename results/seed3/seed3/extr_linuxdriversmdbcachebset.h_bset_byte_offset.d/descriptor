@@ -1,0 +1,4 @@
+struct btree_keys | set struct TYPE_2__ * 
+struct bset | dummy int 
+struct TYPE_2__ | data long 
+function bset_byte_offset unsigned int | b struct btree_keys * | i struct bset *

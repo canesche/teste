@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriverss390scsizfcp_dbf.c_zfcp_dbf_plen.d/extr_linuxdriverss390scsizfcp_dbf.c_zfcp_dbf_plen_O0::zfcp_dbf_plen(62)"
+  }
+]

@@ -1,2 +1,0 @@
-struct platform_device | dummy int 
-function st_get_plat_device struct platform_device * | id int

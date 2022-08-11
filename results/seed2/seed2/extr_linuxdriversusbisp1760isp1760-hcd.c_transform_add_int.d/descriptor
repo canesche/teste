@@ -1,0 +1,6 @@
+struct ptd | dw5 int | dw2 int | dw4 int 
+struct isp1760_qtd | urb struct TYPE_4__ * 
+struct isp1760_qh | dummy int 
+struct TYPE_4__ | interval int | dev struct TYPE_3__ * 
+struct TYPE_3__ | speed long 
+function transform_add_int void | qh struct isp1760_qh * | qtd struct isp1760_qtd * | ptd struct ptd *

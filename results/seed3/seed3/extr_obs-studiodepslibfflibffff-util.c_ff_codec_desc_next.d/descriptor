@@ -1,0 +1,2 @@
+struct ff_codec_desc | next const struct ff_codec_desc * 
+function ff_codec_desc_next const struct ff_codec_desc * | codec_desc const struct ff_codec_desc *

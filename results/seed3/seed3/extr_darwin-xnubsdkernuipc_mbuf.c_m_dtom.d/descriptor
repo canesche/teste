@@ -1,0 +1,2 @@
+struct mbuf | dummy int 
+function m_dtom struct mbuf * | x void *

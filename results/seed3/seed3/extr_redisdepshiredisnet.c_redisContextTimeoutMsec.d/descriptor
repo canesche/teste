@@ -1,0 +1,3 @@
+struct timeval | tv_usec int | tv_sec int 
+struct TYPE_3__ | timeout struct timeval * 
+function redisContextTimeoutMsec int | c struct TYPE_3__ * | result long *

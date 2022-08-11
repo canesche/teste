@@ -1,4 +1,0 @@
-struct TYPE_2__ | ctx struct dc_context * 
-struct pp_smu_funcs_rv | set_pme_wa_enable int | set_wm_ranges int | set_display_requirement int | pp_smu struct TYPE_2__ 
-struct dc_context | dummy int 
-function dm_pp_get_funcs_rv void | ctx struct dc_context * | funcs struct pp_smu_funcs_rv *

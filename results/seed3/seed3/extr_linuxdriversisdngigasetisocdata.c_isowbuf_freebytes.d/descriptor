@@ -1,0 +1,2 @@
+struct isowbuf_t | read int | write int 
+function isowbuf_freebytes int | iwb struct isowbuf_t *

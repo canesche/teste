@@ -1,0 +1,2 @@
+struct color_fixup_desc | w_sign_fixup long | z_sign_fixup long | y_sign_fixup long | x_sign_fixup long 
+function is_scaling_fixup int | fixup struct color_fixup_desc

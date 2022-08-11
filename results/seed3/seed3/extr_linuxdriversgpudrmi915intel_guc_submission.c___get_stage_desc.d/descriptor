@@ -1,0 +1,4 @@
+struct intel_guc_client | stage_id unsigned long | guc struct TYPE_2__ * 
+struct guc_stage_desc | dummy int 
+struct TYPE_2__ | stage_desc_pool_vaddr struct guc_stage_desc * 
+function __get_stage_desc struct guc_stage_desc * | client struct intel_guc_client *

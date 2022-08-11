@@ -1,0 +1,2 @@
+struct TYPE_3__ | id int 
+function make_file_id int | r struct TYPE_3__ * | inode int

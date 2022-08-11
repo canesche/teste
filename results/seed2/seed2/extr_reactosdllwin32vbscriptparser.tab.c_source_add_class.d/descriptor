@@ -1,0 +1,3 @@
+struct TYPE_5__ | class_decls struct TYPE_6__ * 
+struct TYPE_6__ | next struct TYPE_6__ * 
+function source_add_class void | ctx struct TYPE_5__ * | class_decl struct TYPE_6__ *

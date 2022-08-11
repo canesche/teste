@@ -1,0 +1,2 @@
+struct TYPE_3__ | width int | height int | linesize int * | data int ** 
+function extend_edges void | buf struct TYPE_3__ * | tile_size int

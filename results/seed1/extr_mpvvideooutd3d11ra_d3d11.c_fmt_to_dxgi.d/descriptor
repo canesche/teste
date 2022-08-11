@@ -1,3 +1,0 @@
-struct ra_format | priv struct d3d_fmt * 
-struct d3d_fmt | fmt int 
-function fmt_to_dxgi int | fmt const struct ra_format *

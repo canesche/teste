@@ -1,0 +1,5 @@
+struct b43_dmaring | descbase struct b43_dmadesc32 * | meta struct b43_dmadesc_meta * 
+struct b43_dmadesc_meta | dummy int 
+struct b43_dmadesc_generic | dummy int 
+struct b43_dmadesc32 | dummy int 
+function op32_idx2desc struct b43_dmadesc_generic * | ring struct b43_dmaring * | slot int | meta struct b43_dmadesc_meta **

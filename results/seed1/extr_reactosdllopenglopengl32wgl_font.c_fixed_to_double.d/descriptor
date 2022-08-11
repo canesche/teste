@@ -1,4 +1,0 @@
-struct TYPE_5__ | value int | fract long 
-struct TYPE_6__ | value int | fract long 
-struct TYPE_7__ | y struct TYPE_5__ | x struct TYPE_6__ 
-function fixed_to_double void | fixed struct TYPE_7__ | em_size int | vertex int [3]

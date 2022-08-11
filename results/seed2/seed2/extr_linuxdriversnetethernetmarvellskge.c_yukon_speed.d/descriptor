@@ -1,0 +1,2 @@
+struct skge_hw | dummy int 
+function yukon_speed int | hw const struct skge_hw * | aux int

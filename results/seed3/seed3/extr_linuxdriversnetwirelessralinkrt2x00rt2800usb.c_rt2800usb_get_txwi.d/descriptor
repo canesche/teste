@@ -1,0 +1,4 @@
+struct queue_entry | skb struct TYPE_4__ * | queue struct TYPE_3__ * 
+struct TYPE_4__ | data long 
+struct TYPE_3__ | qid long 
+function rt2800usb_get_txwi int * | entry struct queue_entry *

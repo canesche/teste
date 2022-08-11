@@ -1,0 +1,6 @@
+struct platform_device | dummy int 
+struct TYPE_6__ | consume_shift int | consume_mask int | consume_reg int | produce_shift int | produce_mask int | produce_reg int 
+struct TYPE_5__ | mask int 
+struct TYPE_4__ | intr int | irq struct TYPE_5__ * | consume_shift int | consume_mask int | consume_reg int | process_shft int | process_mask int | process_reg void * | produce_shift int | produce_mask int | produce_reg void * | netdev int 
+struct emac_adapter | tx_q struct TYPE_6__ | irq struct TYPE_5__ | rx_q struct TYPE_4__ | netdev int 
+function emac_mac_rx_tx_ring_init_all void | pdev struct platform_device * | adpt struct emac_adapter *

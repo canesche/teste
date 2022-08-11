@@ -1,0 +1,5 @@
+struct vpbe_display | vpbe_dev struct vpbe_device * 
+struct TYPE_2__ | xres long | yres long | interlaced long 
+struct vpbe_device | current_timings struct TYPE_2__ 
+struct v4l2_rect | width long | left long | height long | top long 
+function vpbe_disp_check_window_params void | disp_dev struct vpbe_display * | c struct v4l2_rect *

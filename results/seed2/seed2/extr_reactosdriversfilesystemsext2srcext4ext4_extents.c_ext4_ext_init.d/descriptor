@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function ext4_ext_init void | sb struct super_block *

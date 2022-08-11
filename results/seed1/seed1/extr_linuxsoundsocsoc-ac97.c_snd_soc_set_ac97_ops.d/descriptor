@@ -1,0 +1,3 @@
+struct snd_ac97_bus_ops | dummy int 
+struct TYPE_2__ | ops struct snd_ac97_bus_ops * 
+function snd_soc_set_ac97_ops int | ops struct snd_ac97_bus_ops *

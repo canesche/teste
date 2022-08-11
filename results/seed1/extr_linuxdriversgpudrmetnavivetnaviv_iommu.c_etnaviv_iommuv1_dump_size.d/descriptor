@@ -1,2 +1,0 @@
-struct etnaviv_iommu_domain | dummy int 
-function etnaviv_iommuv1_dump_size unsigned long | domain struct etnaviv_iommu_domain *

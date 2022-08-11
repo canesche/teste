@@ -1,0 +1,1 @@
+function rpm_from_cnt unsigned int | cnt int | clk_freq int | p int | clk_div int | gear_mult int

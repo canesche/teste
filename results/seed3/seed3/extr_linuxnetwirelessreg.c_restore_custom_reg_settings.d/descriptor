@@ -1,0 +1,4 @@
+struct wiphy | bands struct ieee80211_supported_band ** 
+struct ieee80211_supported_band | n_channels int | channels struct ieee80211_channel * 
+struct ieee80211_channel | beacon_found int | orig_mpwr int | max_power int | orig_mag int | max_antenna_gain int | orig_flags int | flags int 
+function restore_custom_reg_settings void | wiphy struct wiphy *

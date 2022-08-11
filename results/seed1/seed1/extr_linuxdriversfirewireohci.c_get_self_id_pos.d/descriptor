@@ -1,0 +1,2 @@
+struct fw_ohci | self_id_buffer int * 
+function get_self_id_pos int | ohci struct fw_ohci * | self_id int | self_id_count int

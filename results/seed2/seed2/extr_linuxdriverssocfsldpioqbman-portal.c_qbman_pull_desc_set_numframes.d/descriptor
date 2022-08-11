@@ -1,0 +1,2 @@
+struct qbman_pull_desc | numf long 
+function qbman_pull_desc_set_numframes void | d struct qbman_pull_desc * | numframes long

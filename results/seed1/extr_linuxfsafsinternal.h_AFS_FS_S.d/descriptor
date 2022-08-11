@@ -1,3 +1,0 @@
-struct super_block | s_fs_info struct afs_super_info * 
-struct afs_super_info | dummy int 
-function AFS_FS_S struct afs_super_info * | sb struct super_block *

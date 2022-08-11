@@ -1,0 +1,2 @@
+struct sp_device | dummy int 
+function psp_dev_destroy void | sp struct sp_device *

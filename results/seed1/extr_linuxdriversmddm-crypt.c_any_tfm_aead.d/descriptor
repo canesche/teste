@@ -1,4 +1,0 @@
-struct crypto_aead | dummy int 
-struct TYPE_2__ | tfms_aead struct crypto_aead ** 
-struct crypt_config | cipher_tfm struct TYPE_2__ 
-function any_tfm_aead struct crypto_aead * | cc struct crypt_config *

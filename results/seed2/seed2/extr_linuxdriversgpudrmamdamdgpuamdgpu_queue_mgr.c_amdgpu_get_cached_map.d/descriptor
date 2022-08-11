@@ -1,0 +1,3 @@
+struct amdgpu_ring | dummy int 
+struct amdgpu_queue_mapper | queue_map struct amdgpu_ring ** 
+function amdgpu_get_cached_map struct amdgpu_ring * | mapper struct amdgpu_queue_mapper * | ring int

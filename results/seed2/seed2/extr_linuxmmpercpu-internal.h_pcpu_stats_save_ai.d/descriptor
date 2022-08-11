@@ -1,0 +1,2 @@
+struct pcpu_alloc_info | dummy int 
+function pcpu_stats_save_ai void | ai const struct pcpu_alloc_info *

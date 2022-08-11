@@ -1,0 +1,8 @@
+struct TYPE_15__ | anEdge struct TYPE_14__ * | next struct TYPE_15__ * 
+struct TYPE_14__ | winding long | Lnext struct TYPE_14__ * | Dst struct TYPE_11__ * | Org struct TYPE_10__ * 
+struct TYPE_13__ | tUnit int * | mesh struct TYPE_9__ * 
+struct TYPE_12__ | t int | next struct TYPE_12__ * 
+struct TYPE_11__ | s int | t int 
+struct TYPE_10__ | s int | t int 
+struct TYPE_9__ | vHead struct TYPE_12__ | fHead struct TYPE_15__ 
+function CheckOrientation void | tess struct TYPE_13__ *

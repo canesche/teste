@@ -1,2 +1,0 @@
-struct pt_regs | dummy int 
-function get_reg_val int | fp struct pt_regs * | reg int

@@ -1,0 +1,5 @@
+struct TYPE_5__ | size int 
+struct TYPE_6__ | str_data struct TYPE_5__ 
+struct TYPE_8__ | val struct TYPE_6__ 
+struct TYPE_7__ | type_info long 
+function get_onemethod_name_len void | type void * | res_len int *

@@ -1,0 +1,2 @@
+struct cm_lap_msg | offset62 int 
+function cm_lap_set_sl void | lap_msg struct cm_lap_msg * | sl int

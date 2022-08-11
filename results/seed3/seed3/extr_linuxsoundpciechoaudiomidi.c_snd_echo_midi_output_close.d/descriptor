@@ -1,0 +1,4 @@
+struct snd_rawmidi_substream | rmidi struct TYPE_2__ * 
+struct echoaudio | midi_out int * 
+struct TYPE_2__ | private_data struct echoaudio * 
+function snd_echo_midi_output_close int | substream struct snd_rawmidi_substream *

@@ -1,0 +1,1 @@
+value(syslog) == 10, value(size) == 10, length(buf) == 100, length(msg) == 100

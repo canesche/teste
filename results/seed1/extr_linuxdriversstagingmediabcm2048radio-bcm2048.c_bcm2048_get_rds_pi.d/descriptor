@@ -1,3 +1,0 @@
-struct TYPE_2__ | rds_pi int 
-struct bcm2048_device | rds_info struct TYPE_2__ 
-function bcm2048_get_rds_pi int | bdev struct bcm2048_device *

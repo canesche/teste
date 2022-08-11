@@ -1,2 +1,0 @@
-struct phy_dm_struct | adaptivity_igi_upper int | dc_backoff int 
-function phydm_re_search_condition int | dm_void void *

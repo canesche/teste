@@ -1,0 +1,2 @@
+struct TYPE_3__ | view_proj int * 
+function gs_effect_get_viewproj_matrix int * | effect const struct TYPE_3__ *

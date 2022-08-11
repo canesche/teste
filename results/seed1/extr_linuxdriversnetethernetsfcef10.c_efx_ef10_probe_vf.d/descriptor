@@ -1,2 +1,0 @@
-struct efx_nic | dummy int 
-function efx_ef10_probe_vf int | efx struct efx_nic *

@@ -1,0 +1,1 @@
+function bitset_mask void | dest int * | src int *const

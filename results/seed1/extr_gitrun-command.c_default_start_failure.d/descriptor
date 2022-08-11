@@ -1,2 +1,0 @@
-struct strbuf | dummy int 
-function default_start_failure int | out struct strbuf * | pp_cb void * | pp_task_cb void *

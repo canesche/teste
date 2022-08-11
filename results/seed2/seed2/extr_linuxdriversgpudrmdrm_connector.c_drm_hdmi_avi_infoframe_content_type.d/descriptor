@@ -1,0 +1,3 @@
+struct hdmi_avi_infoframe | itc int | content_type void * 
+struct drm_connector_state | content_type int 
+function drm_hdmi_avi_infoframe_content_type void | frame struct hdmi_avi_infoframe * | conn_state const struct drm_connector_state *

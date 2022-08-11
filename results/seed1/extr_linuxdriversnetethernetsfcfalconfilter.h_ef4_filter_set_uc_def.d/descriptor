@@ -1,2 +1,0 @@
-struct ef4_filter_spec | match_flags int 
-function ef4_filter_set_uc_def int | spec struct ef4_filter_spec *

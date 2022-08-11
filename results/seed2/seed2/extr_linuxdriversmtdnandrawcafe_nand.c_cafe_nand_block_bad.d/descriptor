@@ -1,0 +1,2 @@
+struct mtd_info | dummy int 
+function cafe_nand_block_bad int | mtd struct mtd_info * | ofs int

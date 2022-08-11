@@ -1,2 +1,0 @@
-struct jffs2_compressor | compr int 
-function jffs2_is_best_compression int | this struct jffs2_compressor * | best struct jffs2_compressor * | size int | bestsize int

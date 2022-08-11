@@ -1,0 +1,4 @@
+struct zd_mac | hw struct TYPE_4__ * 
+struct TYPE_4__ | wiphy struct TYPE_3__ * 
+struct TYPE_3__ | perm_addr int * 
+function zd_mac_get_perm_addr int * | mac struct zd_mac *

@@ -1,3 +1,0 @@
-struct sock | sk_sndtimeo long 
-struct l2cap_chan | data struct sock * 
-function l2cap_sock_get_sndtimeo_cb long | chan struct l2cap_chan *

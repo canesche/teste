@@ -1,2 +1,0 @@
-struct mount | mnt_count unsigned int 
-function mnt_get_count unsigned int | mnt struct mount *

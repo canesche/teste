@@ -1,0 +1,4 @@
+struct TYPE_2__ | type int 
+struct e1000_hw | mac struct TYPE_2__ 
+struct igb_adapter | rss_queues const int | flags int | hw struct e1000_hw 
+function igb_set_flag_queue_pairs void | adapter struct igb_adapter * | max_rss_queues const int

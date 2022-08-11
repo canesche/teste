@@ -1,2 +1,0 @@
-struct module | dummy int 
-function free_module_elf void | mod struct module *

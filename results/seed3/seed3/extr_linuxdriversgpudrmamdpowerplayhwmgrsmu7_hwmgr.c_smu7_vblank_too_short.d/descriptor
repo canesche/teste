@@ -1,0 +1,3 @@
+struct smu7_hwmgr | is_memory_gddr5 int 
+struct pp_hwmgr | chip_id int | backend long 
+function smu7_vblank_too_short int | hwmgr struct pp_hwmgr * | vblank_time_us long

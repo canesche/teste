@@ -1,0 +1,2 @@
+struct qede_dev | vxlan_dst_port long | geneve_dst_port long 
+function qede_udp_ports_update void | dev void * | vxlan_port long | geneve_port long

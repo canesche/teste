@@ -1,0 +1,4 @@
+struct par_info | clock_mult int | clock_div int 
+struct fb_var_screeninfo | pixclock int 
+struct cfb_info | ref_ps int | divisors int * 
+function cyber2000fb_decode_clock int | hw struct par_info * | cfb struct cfb_info * | var struct fb_var_screeninfo *

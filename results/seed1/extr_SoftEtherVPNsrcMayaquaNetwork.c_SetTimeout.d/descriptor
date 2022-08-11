@@ -1,2 +1,0 @@
-struct TYPE_3__ | Type long | TimeOut long 
-function SetTimeout void | sock struct TYPE_3__ * | timeout long

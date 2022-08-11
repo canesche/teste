@@ -1,0 +1,4 @@
+struct TYPE_4__ | readpos long | bytesused int | buf int 
+struct TYPE_3__ | inserted_frame int | sliced_mpeg_buf struct TYPE_4__ | sliced_mpeg_size int * | sliced_mpeg_data int * 
+struct ivtv | vbi struct TYPE_3__ 
+function ivtv_setup_sliced_vbi_buf void | itv struct ivtv *

@@ -1,0 +1,2 @@
+struct xdp_rxq_info | reg_state int 
+function xdp_rxq_info_unused void | xdp_rxq struct xdp_rxq_info *

@@ -1,2 +1,0 @@
-struct TYPE_3__ | key_len unsigned long 
-function raxIteratorDelChars void | it struct TYPE_3__ * | count unsigned long

@@ -1,0 +1,2 @@
+struct psp_context | funcs int * 
+function psp_v10_0_set_psp_funcs void | psp struct psp_context *

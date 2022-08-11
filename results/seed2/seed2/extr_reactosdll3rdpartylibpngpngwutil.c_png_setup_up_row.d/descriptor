@@ -1,0 +1,2 @@
+struct TYPE_3__ | try_row unsigned int * | row_buf unsigned int * | prev_row unsigned int * 
+function png_setup_up_row unsigned long | png_ptr struct TYPE_3__ * | row_bytes unsigned long | lmins unsigned long

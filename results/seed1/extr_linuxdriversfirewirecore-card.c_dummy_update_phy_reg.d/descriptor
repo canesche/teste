@@ -1,2 +1,0 @@
-struct fw_card | dummy int 
-function dummy_update_phy_reg int | card struct fw_card * | address int | clear_bits int | set_bits int

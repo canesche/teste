@@ -1,0 +1,1 @@
+function sirfsoc_usp_calc_sample_div unsigned int | set_rate unsigned long | ioclk_rate unsigned long | sample_reg unsigned long *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | run_main_level1 int | run_main_level2 int | run_main_level3 int | run_thread_level1 int | run_thread_level2 int | devices_status int 
+struct TYPE_5__ | status_ctx struct TYPE_4__ * 
+function mycracked int | hashcat_ctx struct TYPE_5__ *

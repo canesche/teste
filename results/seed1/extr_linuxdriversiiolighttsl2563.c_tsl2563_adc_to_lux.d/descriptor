@@ -1,2 +1,0 @@
-struct tsl2563_lux_coeff | ch_ratio unsigned long | ch0_coeff unsigned long | ch1_coeff unsigned long 
-function tsl2563_adc_to_lux unsigned int | adc0 unsigned long | adc1 unsigned long

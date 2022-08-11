@@ -1,0 +1,2 @@
+struct trace_array | dummy int 
+function trace_branch_enable int | tr struct trace_array *

@@ -1,2 +1,0 @@
-struct pqi_io_request | raid_bypass int | error_info int * | status long | scmd int * 
-function pqi_reinit_io_request void | io_request struct pqi_io_request *

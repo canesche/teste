@@ -1,0 +1,3 @@
+struct jffs2_sb_info | inocache_hashsize int | inocache_list struct jffs2_inode_cache ** 
+struct jffs2_inode_cache | dummy int 
+function first_inode_chain struct jffs2_inode_cache * | i int * | c struct jffs2_sb_info *

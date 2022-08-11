@@ -1,2 +1,0 @@
-struct csio_sm | sm_state int 
-function csio_get_state int | smp void *

@@ -1,2 +1,0 @@
-struct rx_drvinfo_819x_usb | RxRate int | RxHT long 
-function rx_hal_is_cck_rate int | pdrvinfo struct rx_drvinfo_819x_usb *

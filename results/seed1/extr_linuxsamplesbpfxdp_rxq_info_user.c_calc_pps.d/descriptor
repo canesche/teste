@@ -1,2 +1,0 @@
-struct datarec | processed double 
-function calc_pps double | r struct datarec * | p struct datarec * | period_ double

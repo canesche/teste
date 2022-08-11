@@ -1,0 +1,5 @@
+struct snd_pcm_substream | runtime struct snd_pcm_runtime * 
+struct TYPE_2__ | fifo_size int | buffer_bytes_max int | periods_max int | periods_min int | period_bytes_max int | period_bytes_min int | formats int | info int 
+struct snd_pcm_runtime | hw struct TYPE_2__ 
+struct snd_pcm_hardware | fifo_size int | buffer_bytes_max int | periods_max int | periods_min int | period_bytes_max int | period_bytes_min int | formats int | info int 
+function snd_soc_set_runtime_hwparams int | substream struct snd_pcm_substream * | hw const struct snd_pcm_hardware *

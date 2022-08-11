@@ -1,0 +1,3 @@
+struct xt_mtchk_param | matchinfo struct ip6t_mh * 
+struct ip6t_mh | invflags int 
+function mh_mt6_check int | par const struct xt_mtchk_param *

@@ -1,0 +1,2 @@
+struct tcp_sock | nonagle int 
+function corked int | tp const struct tcp_sock * | flags int

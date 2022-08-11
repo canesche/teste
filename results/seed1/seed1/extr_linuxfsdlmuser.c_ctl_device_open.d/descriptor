@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct file | private_data int * 
+function ctl_device_open int | inode struct inode * | file struct file *

@@ -1,0 +1,1 @@
+function crc32c_partial_four_tables unsigned int | data const void * | len int | crc unsigned int

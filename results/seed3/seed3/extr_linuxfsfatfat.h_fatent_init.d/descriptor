@@ -1,0 +1,3 @@
+struct TYPE_2__ | ent32_p int * 
+struct fat_entry | fat_inode int * | bhs int ** | u struct TYPE_2__ | entry long | nr_bhs long 
+function fatent_init void | fatent struct fat_entry *

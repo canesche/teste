@@ -1,3 +1,0 @@
-struct nf_proto_net | dummy int 
-struct nf_icmp_net | dummy int 
-function icmp_kmemdup_sysctl_table int | pn struct nf_proto_net * | in struct nf_icmp_net *

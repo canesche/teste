@@ -1,0 +1,2 @@
+struct inode | i_ino long 
+function is_subvolume_inode int | inode struct inode *

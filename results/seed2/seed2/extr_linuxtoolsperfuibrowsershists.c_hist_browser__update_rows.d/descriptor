@@ -1,0 +1,5 @@
+struct ui_browser | rows long | extra_title_lines long | index long | top_idx long 
+struct perf_hpp_list | nr_header_lines long 
+struct hists | hpp_list struct perf_hpp_list * 
+struct hist_browser | show_headers int | hists struct hists * | b struct ui_browser 
+function hist_browser__update_rows void | hb struct hist_browser *

@@ -1,2 +1,0 @@
-struct hda_codec | dummy int 
-function codec_bind_module void | codec struct hda_codec *

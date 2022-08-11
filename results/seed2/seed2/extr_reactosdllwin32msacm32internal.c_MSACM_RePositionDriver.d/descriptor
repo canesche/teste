@@ -1,0 +1,2 @@
+struct TYPE_5__ | fdwSupport int | pPrevACMDriverID struct TYPE_5__ * | pNextACMDriverID struct TYPE_5__ * 
+function MSACM_RePositionDriver void | padid struct TYPE_5__ * | dwPriority int

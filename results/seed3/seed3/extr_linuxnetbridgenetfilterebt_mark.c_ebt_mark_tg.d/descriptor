@@ -1,0 +1,4 @@
+struct xt_action_param | targinfo struct ebt_mark_t_info * 
+struct sk_buff | mark int 
+struct ebt_mark_t_info | target int | mark int 
+function ebt_mark_tg unsigned int | skb struct sk_buff * | par const struct xt_action_param *

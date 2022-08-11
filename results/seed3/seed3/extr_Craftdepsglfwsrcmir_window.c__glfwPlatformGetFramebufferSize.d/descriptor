@@ -1,0 +1,3 @@
+struct TYPE_4__ | width int | height int 
+struct TYPE_5__ | mir struct TYPE_4__ 
+function _glfwPlatformGetFramebufferSize void | window struct TYPE_5__ * | width int * | height int *

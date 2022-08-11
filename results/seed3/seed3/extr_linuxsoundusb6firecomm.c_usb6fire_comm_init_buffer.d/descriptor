@@ -1,0 +1,1 @@
+function usb6fire_comm_init_buffer void | buffer int * | id int | request int | reg int | vl int | vh int

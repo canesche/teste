@@ -1,0 +1,2 @@
+struct pool | pool_limit int 
+function pool_sethardlimit void | pp struct pool * | n int | warnmess const char * | ratecap int

@@ -1,2 +1,0 @@
-struct ps3_private | dummy int 
-function dump_bmp void | pd struct ps3_private *

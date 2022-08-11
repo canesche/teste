@@ -1,0 +1,3 @@
+struct TYPE_4__ | cursor unsigned long | nitems unsigned long | cursor_prev int | wrapAround long | items long * 
+struct TYPE_5__ | flags int 
+function Menu_AdjustCursor void | m struct TYPE_4__ * | dir int

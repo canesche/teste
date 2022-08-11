@@ -1,0 +1,2 @@
+struct dma_chan | dummy int 
+function mpc_dma_issue_pending void | chan struct dma_chan *

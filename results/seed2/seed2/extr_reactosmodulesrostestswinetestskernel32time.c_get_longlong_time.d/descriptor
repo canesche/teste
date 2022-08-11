@@ -1,0 +1,4 @@
+struct TYPE_5__ | HighPart int | LowPart int 
+struct TYPE_6__ | QuadPart int | u struct TYPE_5__ 
+struct TYPE_7__ | dwHighDateTime int | dwLowDateTime int 
+function get_longlong_time int | time struct TYPE_7__ *

@@ -1,0 +1,3 @@
+struct nlm_host | h_nsmhandle struct TYPE_2__ * | h_server long 
+struct TYPE_2__ | sm_sticky int 
+function nlmsvc_is_client int | data void * | dummy struct nlm_host *

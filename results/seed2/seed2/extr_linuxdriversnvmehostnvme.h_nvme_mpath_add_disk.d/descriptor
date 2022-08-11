@@ -1,0 +1,3 @@
+struct nvme_ns | dummy int 
+struct nvme_id_ns | dummy int 
+function nvme_mpath_add_disk void | ns struct nvme_ns * | id struct nvme_id_ns *

@@ -1,3 +1,0 @@
-struct nand_bbt_descr | options int | veroffs int 
-struct mtd_info | writesize long 
-function bbt_get_ver_offs int | mtd struct mtd_info * | td struct nand_bbt_descr *

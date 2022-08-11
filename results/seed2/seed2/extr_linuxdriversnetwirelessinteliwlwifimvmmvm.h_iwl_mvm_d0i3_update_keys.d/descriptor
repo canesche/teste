@@ -1,0 +1,4 @@
+struct iwl_wowlan_status | dummy int 
+struct iwl_mvm | dummy int 
+struct ieee80211_vif | dummy int 
+function iwl_mvm_d0i3_update_keys void | mvm struct iwl_mvm * | vif struct ieee80211_vif * | status struct iwl_wowlan_status *

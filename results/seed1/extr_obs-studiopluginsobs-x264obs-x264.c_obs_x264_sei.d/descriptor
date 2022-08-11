@@ -1,2 +1,0 @@
-struct obs_x264 | sei_size unsigned long | sei int * | context int 
-function obs_x264_sei int | data void * | sei int ** | size unsigned long *

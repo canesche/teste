@@ -1,0 +1,2 @@
+struct TYPE_3__ | len int 
+function grub_partition_get_len int | p struct TYPE_3__ *const

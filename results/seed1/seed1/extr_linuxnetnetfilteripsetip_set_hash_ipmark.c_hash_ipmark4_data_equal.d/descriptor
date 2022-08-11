@@ -1,0 +1,2 @@
+struct hash_ipmark4_elem | ip long | mark long 
+function hash_ipmark4_data_equal int | ip1 const struct hash_ipmark4_elem * | ip2 const struct hash_ipmark4_elem * | multi int *

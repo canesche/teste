@@ -1,0 +1,1 @@
+function amdgpu_virt_fw_reserve_get_checksum int | obj void * | obj_size unsigned long | key unsigned int | chksum unsigned int

@@ -1,0 +1,2 @@
+struct afs_sysnames | dummy int 
+function afs_put_sysnames void | sysnames struct afs_sysnames *

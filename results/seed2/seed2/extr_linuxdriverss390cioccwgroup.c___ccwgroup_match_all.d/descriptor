@@ -1,0 +1,2 @@
+struct device | dummy int 
+function __ccwgroup_match_all int | dev struct device * | data void *

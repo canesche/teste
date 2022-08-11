@@ -1,0 +1,4 @@
+struct perf_evsel | dummy int 
+struct hists | dummy int 
+struct hists_evsel | hists struct hists 
+function evsel__hists struct hists * | evsel struct perf_evsel *

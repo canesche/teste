@@ -1,0 +1,3 @@
+struct TYPE_2__ | hash const unsigned char * 
+struct tip_table_entry | oid struct TYPE_2__ 
+function nth_tip_table_ent const unsigned char * | ix unsigned long | table_ void *

@@ -1,0 +1,4 @@
+struct regulator_dev | desc struct TYPE_2__ * 
+struct regulator | rdev struct regulator_dev * 
+struct TYPE_2__ | uV_step unsigned int 
+function regulator_get_linear_step unsigned int | regulator struct regulator *

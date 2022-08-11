@@ -1,0 +1,4 @@
+struct reiserfs_transaction_handle | dummy int 
+struct inode | dummy int 
+struct dentry | dummy int 
+function reiserfs_inherit_default_acl int | th struct reiserfs_transaction_handle * | dir const struct inode * | dentry struct dentry * | inode struct inode *

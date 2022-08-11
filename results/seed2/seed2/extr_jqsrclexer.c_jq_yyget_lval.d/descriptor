@@ -1,0 +1,2 @@
+struct yyguts_t | dummy int 
+function yyget_lval int * | yyscanner long

@@ -1,3 +1,0 @@
-struct TYPE_2__ | buffer long * 
-struct collector_strpos_data | output long | start long | needle_pos unsigned long | found_pos long | needle_len unsigned long | matched_pos long | needle struct TYPE_2__ 
-function collector_strpos int | c int | data void *

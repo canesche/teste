@@ -1,0 +1,2 @@
+struct TYPE_3__ | Font int 
+function PROGRESS_SetFont int | infoPtr struct TYPE_3__ * | hFont int | bRedraw int

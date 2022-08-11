@@ -1,0 +1,3 @@
+struct TYPE_2__ | speed int 
+struct fw_request | response struct TYPE_2__ 
+function fw_get_request_speed int | request struct fw_request *

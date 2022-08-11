@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxfsbtrfsdev-replace.c_btrfs_dev_replace_is_ongoing.d/extr_linuxfsbtrfsdev-replace.c_btrfs_dev_replace_is_ongoing_O0::btrfs_dev_replace_is_ongoing(66)"
+  }
+]

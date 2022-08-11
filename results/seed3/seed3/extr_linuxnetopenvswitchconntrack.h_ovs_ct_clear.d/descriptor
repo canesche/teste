@@ -1,0 +1,3 @@
+struct sw_flow_key | dummy int 
+struct sk_buff | dummy int 
+function ovs_ct_clear int | skb struct sk_buff * | key struct sw_flow_key *

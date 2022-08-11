@@ -1,0 +1,2 @@
+struct smp_ltk | type int | authenticated int 
+function mgmt_ltk_type int | ltk struct smp_ltk *

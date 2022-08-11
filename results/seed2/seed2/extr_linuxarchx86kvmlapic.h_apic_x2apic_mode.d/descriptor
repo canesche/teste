@@ -1,0 +1,4 @@
+struct kvm_lapic | vcpu struct TYPE_4__ * 
+struct TYPE_3__ | apic_base int 
+struct TYPE_4__ | arch struct TYPE_3__ 
+function apic_x2apic_mode int | apic struct kvm_lapic *

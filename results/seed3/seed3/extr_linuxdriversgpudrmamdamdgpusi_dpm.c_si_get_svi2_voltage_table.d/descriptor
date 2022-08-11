@@ -1,0 +1,6 @@
+struct atom_voltage_table | count unsigned long | entries struct TYPE_4__ * | phase_delay long | mask_low long 
+struct amdgpu_device | dummy int 
+struct amdgpu_clock_voltage_dependency_table | count unsigned long | entries struct TYPE_3__ * 
+struct TYPE_4__ | smio_low long | value int 
+struct TYPE_3__ | v int 
+function si_get_svi2_voltage_table int | adev struct amdgpu_device * | voltage_dependency_table struct amdgpu_clock_voltage_dependency_table * | voltage_table struct atom_voltage_table *

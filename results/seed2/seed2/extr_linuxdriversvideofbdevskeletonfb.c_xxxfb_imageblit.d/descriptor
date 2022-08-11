@@ -1,0 +1,3 @@
+struct fb_info | dummy int 
+struct fb_image | dummy int 
+function xxxfb_imageblit void | p struct fb_info * | image const struct fb_image *

@@ -1,2 +1,0 @@
-struct ivtv_stream | dma long | type long 
-function ivtv_might_use_pio int | s struct ivtv_stream *

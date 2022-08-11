@@ -1,0 +1,5 @@
+struct TYPE_4__ | qidlestart int | qavg int 
+struct gred_sched_data | vars struct TYPE_4__ 
+struct TYPE_3__ | qidlestart int | qavg int 
+struct gred_sched | wred_set struct TYPE_3__ 
+function gred_store_wred_set void | table struct gred_sched * | q struct gred_sched_data *

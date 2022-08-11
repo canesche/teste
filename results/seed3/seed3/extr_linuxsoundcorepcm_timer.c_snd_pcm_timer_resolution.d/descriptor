@@ -1,0 +1,4 @@
+struct snd_timer | private_data struct snd_pcm_substream * 
+struct snd_pcm_substream | runtime struct TYPE_2__ * 
+struct TYPE_2__ | timer_resolution unsigned long 
+function snd_pcm_timer_resolution unsigned long | timer struct snd_timer *

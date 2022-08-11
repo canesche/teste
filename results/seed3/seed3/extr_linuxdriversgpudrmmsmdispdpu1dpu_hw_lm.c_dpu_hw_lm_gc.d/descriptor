@@ -1,0 +1,2 @@
+struct dpu_hw_mixer | dummy int 
+function dpu_hw_lm_gc void | mixer struct dpu_hw_mixer * | cfg void *

@@ -1,0 +1,2 @@
+struct nubus_rsrc | dr_sw int | dr_hw const int 
+function mac8390_ident enum mac8390_type | fres struct nubus_rsrc *

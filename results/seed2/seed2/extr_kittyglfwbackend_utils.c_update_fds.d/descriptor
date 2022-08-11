@@ -1,0 +1,4 @@
+struct TYPE_6__ | events int | enabled long | fd int 
+struct TYPE_7__ | watches_count long | fds struct TYPE_5__ * | watches struct TYPE_6__ * 
+struct TYPE_5__ | events int | fd int 
+function update_fds void | eld struct TYPE_7__ *

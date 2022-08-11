@@ -1,0 +1,3 @@
+struct TYPE_4__ | flags int 
+struct TYPE_5__ | window struct TYPE_4__ 
+function ItemParse_horizontalscroll int | item struct TYPE_5__ * | handle int

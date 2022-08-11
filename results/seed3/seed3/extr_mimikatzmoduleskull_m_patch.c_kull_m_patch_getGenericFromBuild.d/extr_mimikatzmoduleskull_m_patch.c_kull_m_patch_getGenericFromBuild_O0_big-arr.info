@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 4858,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_mimikatzmoduleskull_m_patch.c_kull_m_patch_getGenericFromBuild.d/extr_mimikatzmoduleskull_m_patch.c_kull_m_patch_getGenericFromBuild_O0::kull_m_patch_getGenericFromBuild(65)"
+  }
+]

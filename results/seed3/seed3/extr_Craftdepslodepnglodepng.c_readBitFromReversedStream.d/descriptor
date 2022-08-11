@@ -1,0 +1,1 @@
+function readBitFromReversedStream unsigned char | bitpointer unsigned long * | bitstream const unsigned char *

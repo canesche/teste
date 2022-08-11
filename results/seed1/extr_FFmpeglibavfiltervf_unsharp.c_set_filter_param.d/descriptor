@@ -1,2 +1,0 @@
-struct TYPE_3__ | msize_x int | msize_y int | amount float | steps_x int | steps_y int | scalebits int | halfscale int 
-function set_filter_param void | fp struct TYPE_3__ * | msize_x int | msize_y int | amount float

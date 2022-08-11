@@ -1,0 +1,1 @@
+function rgb24tobgr15_c void | src const int * | dst int * | src_size int

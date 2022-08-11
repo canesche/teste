@@ -1,0 +1,2 @@
+struct ieee80211_channel | flags int | center_freq long | dfs_state long | dfs_state_entered int 
+function reg_copy_dfs_chan_state void | dst_chan struct ieee80211_channel * | src_chan struct ieee80211_channel *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | configs unsigned int 
+function zbar_symbol_get_configs unsigned int | sym const struct TYPE_3__ *

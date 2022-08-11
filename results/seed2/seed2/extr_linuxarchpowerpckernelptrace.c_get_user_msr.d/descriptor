@@ -1,0 +1,4 @@
+struct TYPE_4__ | fpexc_mode unsigned long | regs struct TYPE_3__ * 
+struct task_struct | thread struct TYPE_4__ 
+struct TYPE_3__ | msr unsigned long 
+function get_user_msr unsigned long | task struct task_struct *

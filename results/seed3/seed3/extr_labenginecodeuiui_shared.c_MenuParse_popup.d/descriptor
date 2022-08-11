@@ -1,0 +1,3 @@
+struct TYPE_3__ | flags int 
+struct TYPE_4__ | window struct TYPE_3__ 
+function MenuParse_popup int | item int * | handle int

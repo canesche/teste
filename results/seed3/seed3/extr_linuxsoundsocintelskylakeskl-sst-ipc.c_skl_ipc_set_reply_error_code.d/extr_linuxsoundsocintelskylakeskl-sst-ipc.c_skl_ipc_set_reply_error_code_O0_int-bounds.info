@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxsoundsocintelskylakeskl-sst-ipc.c_skl_ipc_set_reply_error_code.d/extr_linuxsoundsocintelskylakeskl-sst-ipc.c_skl_ipc_set_reply_error_code_O0::skl_ipc_set_reply_error_code(66)"
+  }
+]

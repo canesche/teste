@@ -1,0 +1,2 @@
+struct list | prev struct list * | next struct list * 
+function list_add void | l struct list * | n struct list *

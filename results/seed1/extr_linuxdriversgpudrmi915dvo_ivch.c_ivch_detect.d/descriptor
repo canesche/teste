@@ -1,2 +1,0 @@
-struct intel_dvo_device | dummy int 
-function ivch_detect enum drm_connector_status | dvo struct intel_dvo_device *

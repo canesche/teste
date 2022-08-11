@@ -1,0 +1,4 @@
+struct pci_dev | dummy int 
+struct controller | pcie struct TYPE_2__ * 
+struct TYPE_2__ | port struct pci_dev * 
+function ctrl_dev struct pci_dev * | ctrl struct controller *

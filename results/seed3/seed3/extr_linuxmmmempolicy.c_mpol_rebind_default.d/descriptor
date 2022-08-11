@@ -1,0 +1,2 @@
+struct mempolicy | dummy int 
+function mpol_rebind_default void | pol struct mempolicy * | nodes const int *

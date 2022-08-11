@@ -1,0 +1,4 @@
+struct TYPE_5__ | action_desc const char * 
+struct TYPE_6__ | boolean_data struct TYPE_5__ 
+struct TYPE_7__ | type int | _ struct TYPE_6__ 
+function UI_get0_action_string const char * | uis struct TYPE_7__ *

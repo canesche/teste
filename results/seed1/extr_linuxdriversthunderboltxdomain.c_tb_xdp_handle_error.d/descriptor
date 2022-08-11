@@ -1,3 +1,0 @@
-struct tb_xdp_header | type long 
-struct tb_xdp_error_response | error int 
-function tb_xdp_handle_error int | hdr const struct tb_xdp_header *

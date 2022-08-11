@@ -1,0 +1,3 @@
+struct scmi_handle | clk_priv struct clock_info * 
+struct clock_info | num_clocks int 
+function scmi_clock_count_get int | handle const struct scmi_handle *

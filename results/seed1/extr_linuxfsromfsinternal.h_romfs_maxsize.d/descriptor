@@ -1,2 +1,0 @@
-struct super_block | s_fs_info long 
-function romfs_maxsize unsigned long | sb struct super_block *

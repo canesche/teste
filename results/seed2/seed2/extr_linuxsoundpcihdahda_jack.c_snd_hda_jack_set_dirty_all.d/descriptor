@@ -1,0 +1,4 @@
+struct hda_jack_tbl | jack_dirty int | nid long 
+struct TYPE_2__ | used int | list struct hda_jack_tbl * 
+struct hda_codec | jacktbl struct TYPE_2__ 
+function snd_hda_jack_set_dirty_all void | codec struct hda_codec *

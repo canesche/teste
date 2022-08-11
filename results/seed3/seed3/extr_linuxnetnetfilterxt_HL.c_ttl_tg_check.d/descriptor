@@ -1,0 +1,3 @@
+struct xt_tgchk_param | targinfo struct ipt_TTL_info * 
+struct ipt_TTL_info | mode long | ttl long 
+function ttl_tg_check int | par const struct xt_tgchk_param *

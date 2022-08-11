@@ -1,0 +1,1 @@
+function TransactedSharedImpl_LockTransaction int | base int * | write int

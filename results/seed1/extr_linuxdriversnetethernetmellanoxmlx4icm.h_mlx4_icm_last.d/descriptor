@@ -1,2 +1,0 @@
-struct mlx4_icm_iter | chunk int 
-function mlx4_icm_last int | iter struct mlx4_icm_iter *

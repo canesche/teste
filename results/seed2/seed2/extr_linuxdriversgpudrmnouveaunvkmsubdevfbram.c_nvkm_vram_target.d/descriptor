@@ -1,0 +1,2 @@
+struct nvkm_memory | dummy int 
+function nvkm_vram_target enum nvkm_memory_target | memory struct nvkm_memory *

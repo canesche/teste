@@ -1,0 +1,2 @@
+struct nvkm_pci | dummy int 
+function g84_pcie_version_supported int | pci struct nvkm_pci *

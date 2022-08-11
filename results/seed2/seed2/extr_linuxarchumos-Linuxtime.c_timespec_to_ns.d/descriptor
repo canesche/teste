@@ -1,0 +1,2 @@
+struct timespec | tv_nsec long long | tv_sec long 
+function timespec_to_ns long long | ts const struct timespec *

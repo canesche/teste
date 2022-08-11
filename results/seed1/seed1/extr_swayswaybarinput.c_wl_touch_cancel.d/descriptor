@@ -1,0 +1,5 @@
+struct wl_touch | dummy int 
+struct swaybar_touch | slots struct TYPE_2__ * 
+struct swaybar_seat | touch struct swaybar_touch 
+struct TYPE_2__ | output int * 
+function wl_touch_cancel void | data void * | wl_touch struct wl_touch *

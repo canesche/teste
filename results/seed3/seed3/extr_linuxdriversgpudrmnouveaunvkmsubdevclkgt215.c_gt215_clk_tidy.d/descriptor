@@ -1,0 +1,2 @@
+struct nvkm_clk | dummy int 
+function gt215_clk_tidy void | base struct nvkm_clk *

@@ -1,0 +1,4 @@
+struct qlcnic_bc_trans | curr_rsp_frag long | curr_req_frag long | trans_state void * | req_hdr struct TYPE_3__ * | rsp_hdr struct TYPE_4__ * 
+struct TYPE_4__ | num_frags long 
+struct TYPE_3__ | num_frags long 
+function qlcnic_sriov_handle_multi_frags void | trans struct qlcnic_bc_trans * | type long

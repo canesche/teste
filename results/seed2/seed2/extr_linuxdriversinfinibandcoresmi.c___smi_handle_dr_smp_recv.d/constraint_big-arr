@@ -1,0 +1,1 @@
+value(is_switch) == 255, value(port_num) == 255, value(phys_port_cnt) == 255, value(hop_cnt) == 255, value(direction) == 255, value(dr_dlid_is_permissive) == 255, value(dr_slid_is_permissive) == 255, length(hop_ptr) == 65025, length(initial_path) == 65025, length(return_path) == 65025

@@ -1,0 +1,2 @@
+struct hvsi_struct | state long 
+function is_open int | hp struct hvsi_struct *

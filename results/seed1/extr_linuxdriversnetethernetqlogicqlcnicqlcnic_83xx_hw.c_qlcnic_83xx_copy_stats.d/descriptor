@@ -1,3 +1,0 @@
-struct TYPE_2__ | arg long * 
-struct qlcnic_cmd_args | rsp struct TYPE_2__ 
-function qlcnic_83xx_copy_stats int * | cmd struct qlcnic_cmd_args * | data int * | index int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | x int * | y int * | n int 
+function decode_fixed_sparse void | fixed_sparse struct TYPE_3__ * | pulses const int * | mode int | low_gain int

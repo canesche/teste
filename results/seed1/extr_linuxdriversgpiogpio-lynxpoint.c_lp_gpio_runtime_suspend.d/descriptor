@@ -1,2 +1,0 @@
-struct device | dummy int 
-function lp_gpio_runtime_suspend int | dev struct device *

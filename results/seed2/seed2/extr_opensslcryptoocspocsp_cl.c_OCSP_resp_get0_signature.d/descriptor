@@ -1,0 +1,2 @@
+struct TYPE_3__ | signature const int * 
+function OCSP_resp_get0_signature const int * | bs const struct TYPE_3__ *

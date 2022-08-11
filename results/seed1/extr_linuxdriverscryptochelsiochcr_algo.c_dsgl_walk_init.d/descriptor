@@ -1,4 +1,0 @@
-struct phys_sge_pairs | dummy int 
-struct dsgl_walk | to struct phys_sge_pairs * | nents long | dsgl struct cpl_rx_phys_dsgl * 
-struct cpl_rx_phys_dsgl | dummy int 
-function dsgl_walk_init void | walk struct dsgl_walk * | dsgl struct cpl_rx_phys_dsgl *

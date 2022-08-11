@@ -1,0 +1,3 @@
+struct vmw_private | dummy int 
+struct drm_device | dev_private long 
+function vmw_priv struct vmw_private * | dev struct drm_device *

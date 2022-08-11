@@ -1,0 +1,4 @@
+struct vgic_dist | vgic_dist_base long 
+struct TYPE_2__ | vgic struct vgic_dist 
+struct kvm | arch struct TYPE_2__ 
+function vgic_dist_overlap int | kvm struct kvm * | base long | size unsigned long

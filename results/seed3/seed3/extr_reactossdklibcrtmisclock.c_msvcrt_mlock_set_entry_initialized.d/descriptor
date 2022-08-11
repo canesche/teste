@@ -1,0 +1,2 @@
+struct TYPE_2__ | bInit int 
+function msvcrt_mlock_set_entry_initialized void | locknum int | initialized int

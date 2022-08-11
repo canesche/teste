@@ -1,2 +1,0 @@
-struct ata_port | port_no unsigned long 
-function sil24_port_offset unsigned long | ap struct ata_port *

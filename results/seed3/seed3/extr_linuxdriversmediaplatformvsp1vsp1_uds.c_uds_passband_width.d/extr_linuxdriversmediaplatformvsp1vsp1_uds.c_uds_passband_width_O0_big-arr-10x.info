@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversmediaplatformvsp1vsp1_uds.c_uds_passband_width.d/extr_linuxdriversmediaplatformvsp1vsp1_uds.c_uds_passband_width_O0::uds_passband_width(60)"
+  }
+]

@@ -1,0 +1,3 @@
+struct repository | parsed_objects struct TYPE_2__ * 
+struct TYPE_2__ | commit_count int 
+function alloc_commit_index unsigned int | r struct repository *

@@ -1,0 +1,2 @@
+struct TYPE_4__ | right int | left int 
+function mirror_rect void | window_rect const struct TYPE_4__ * | rect struct TYPE_4__ *

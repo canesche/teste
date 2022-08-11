@@ -1,0 +1,7 @@
+struct sx150x_pinctrl | data struct sx150x_device_data * 
+struct TYPE_7__ | reg_advanced unsigned int 
+struct TYPE_6__ | reg_advanced unsigned int 
+struct TYPE_5__ | reg_misc unsigned int | reg_clock unsigned int | reg_reset unsigned int 
+struct TYPE_8__ | x456 struct TYPE_7__ | x123 struct TYPE_6__ | x789 struct TYPE_5__ 
+struct sx150x_device_data | reg_sense unsigned int | ngpios int | model long | pri struct TYPE_8__ 
+function sx150x_regmap_reg_width int | pctl struct sx150x_pinctrl * | reg unsigned int

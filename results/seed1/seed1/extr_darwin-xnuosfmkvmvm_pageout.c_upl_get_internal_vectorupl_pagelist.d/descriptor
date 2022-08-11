@@ -1,0 +1,3 @@
+struct TYPE_5__ | vector_upl long 
+struct TYPE_4__ | pagelist int * 
+function upl_get_internal_vectorupl_pagelist int * | upl struct TYPE_5__ *

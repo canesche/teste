@@ -1,2 +1,0 @@
-struct brcmf_p2psd_gas_pub_act_frame | category long | action long 
-function brcmf_p2p_is_gas_action int | frame void * | frame_len int

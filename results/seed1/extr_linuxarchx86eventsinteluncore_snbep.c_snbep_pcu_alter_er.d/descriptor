@@ -1,4 +1,0 @@
-struct hw_perf_event_extra | config int | idx int 
-struct hw_perf_event | config int | extra_reg struct hw_perf_event_extra 
-struct perf_event | hw struct hw_perf_event 
-function snbep_pcu_alter_er int | event struct perf_event * | new_idx int | modify int

@@ -1,0 +1,2 @@
+struct xc2028_data | state int 
+function check_device_status int | priv struct xc2028_data *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | enable_sdio_irq int | execute_tuning int | init_card int | start_signal_voltage_switch int | set_ios int 
+struct sdhci_host | mmc_host_ops struct TYPE_2__ 
+function xenon_replace_mmc_host_ops void | host struct sdhci_host *

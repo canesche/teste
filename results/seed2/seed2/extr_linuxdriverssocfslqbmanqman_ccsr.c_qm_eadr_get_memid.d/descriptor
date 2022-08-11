@@ -1,0 +1,2 @@
+struct qm_eadr | info int 
+function qm_eadr_get_memid int | p const struct qm_eadr *

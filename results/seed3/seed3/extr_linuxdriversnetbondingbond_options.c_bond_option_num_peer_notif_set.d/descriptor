@@ -1,0 +1,4 @@
+struct TYPE_2__ | num_peer_notif int 
+struct bonding | params struct TYPE_2__ 
+struct bond_opt_value | value int 
+function bond_option_num_peer_notif_set int | bond struct bonding * | newval const struct bond_opt_value *

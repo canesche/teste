@@ -1,2 +1,0 @@
-struct TYPE_3__ | _active_count int | hdcd_detected int | peak_extend long | max_gain_adjustment long 
-function hdcd_detect_end void | detect struct TYPE_3__ * | channels int

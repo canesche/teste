@@ -1,4 +1,0 @@
-struct kvmppc_slb | orige int | origv int 
-struct TYPE_2__ | slb_nr int | slb struct kvmppc_slb * 
-struct kvm_vcpu | arch struct TYPE_2__ 
-function kvmppc_mmu_book3s_hv_find_slbe struct kvmppc_slb * | vcpu struct kvm_vcpu * | eaddr int

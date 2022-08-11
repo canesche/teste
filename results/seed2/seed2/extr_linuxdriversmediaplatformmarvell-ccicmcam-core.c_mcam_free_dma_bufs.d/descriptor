@@ -1,0 +1,2 @@
+struct mcam_camera | dummy int 
+function mcam_free_dma_bufs void | cam struct mcam_camera *

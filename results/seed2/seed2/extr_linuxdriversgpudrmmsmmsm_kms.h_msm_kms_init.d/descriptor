@@ -1,0 +1,3 @@
+struct msm_kms_funcs | dummy int 
+struct msm_kms | funcs const struct msm_kms_funcs * 
+function msm_kms_init void | kms struct msm_kms * | funcs const struct msm_kms_funcs *

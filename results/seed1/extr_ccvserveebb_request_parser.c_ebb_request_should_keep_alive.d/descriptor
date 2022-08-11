@@ -1,2 +1,0 @@
-struct TYPE_3__ | keep_alive int | version_major int | version_minor long 
-function ebb_request_should_keep_alive int | request struct TYPE_3__ *

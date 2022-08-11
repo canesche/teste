@@ -1,0 +1,1 @@
+value(initrd_load_addr) == 255, value(initrd_len) == 255, length(params) == 65025

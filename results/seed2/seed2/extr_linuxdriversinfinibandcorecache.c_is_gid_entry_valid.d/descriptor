@@ -1,0 +1,2 @@
+struct ib_gid_table_entry | state long 
+function is_gid_entry_valid int | entry const struct ib_gid_table_entry *

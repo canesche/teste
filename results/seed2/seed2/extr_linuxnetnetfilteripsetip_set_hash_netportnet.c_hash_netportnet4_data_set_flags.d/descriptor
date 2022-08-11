@@ -1,0 +1,2 @@
+struct hash_netportnet4_elem | nomatch int 
+function hash_netportnet4_data_set_flags void | elem struct hash_netportnet4_elem * | flags int

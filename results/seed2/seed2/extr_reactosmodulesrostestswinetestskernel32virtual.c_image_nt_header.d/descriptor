@@ -1,0 +1,3 @@
+struct TYPE_6__ | e_magic long | e_lfanew int 
+struct TYPE_5__ | Signature long 
+function image_nt_header struct TYPE_5__ * | module long

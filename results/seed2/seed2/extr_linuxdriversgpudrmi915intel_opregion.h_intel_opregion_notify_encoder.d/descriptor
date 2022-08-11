@@ -1,0 +1,2 @@
+struct intel_encoder | dummy int 
+function intel_opregion_notify_encoder int | intel_encoder struct intel_encoder * | enable int

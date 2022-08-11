@@ -1,2 +1,0 @@
-struct rnd_state | s1 unsigned int | s2 unsigned int | s3 unsigned int | s4 unsigned int 
-function prandom_u32_state int | state struct rnd_state *

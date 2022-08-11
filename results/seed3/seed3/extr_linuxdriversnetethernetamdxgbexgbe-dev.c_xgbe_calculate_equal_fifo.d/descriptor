@@ -1,0 +1,1 @@
+function xgbe_calculate_equal_fifo void | fifo_size unsigned int | queue_count unsigned int | fifo unsigned int *

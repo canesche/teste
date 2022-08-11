@@ -1,0 +1,2 @@
+struct seq_oss_timer | cur_tick int 
+function snd_seq_oss_timer_cur_tick int | timer struct seq_oss_timer *

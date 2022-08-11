@@ -1,4 +1,0 @@
-struct TYPE_6__ | UnicastBytes long | BroadcastBytes long 
-struct TYPE_5__ | UnicastBytes long | BroadcastBytes long 
-struct TYPE_7__ | Send struct TYPE_6__ | Recv struct TYPE_5__ 
-function GetTrafficPacketSize long | t struct TYPE_7__ *

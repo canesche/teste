@@ -1,0 +1,1 @@
+function vector_fmac_scalar_c void | dst float * | src const float * | mul float | len int

@@ -1,0 +1,2 @@
+struct tty_struct | dummy int 
+function check_tty_count int | tty struct tty_struct * | routine const char *

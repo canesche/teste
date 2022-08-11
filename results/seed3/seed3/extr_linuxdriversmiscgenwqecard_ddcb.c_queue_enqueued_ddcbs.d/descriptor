@@ -1,0 +1,2 @@
+struct ddcb_queue | ddcb_next long | ddcb_act long | ddcb_max int 
+function queue_enqueued_ddcbs int | queue struct ddcb_queue *

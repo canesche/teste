@@ -1,0 +1,2 @@
+struct pcmcia_device | dummy int 
+function fmvj18x_ioprobe int | p_dev struct pcmcia_device * | priv_data void *

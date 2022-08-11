@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 64,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 85,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_h2odepshiredissds.c_sdsll2str.d/extr_h2odepshiredissds.c_sdsll2str_O0::sdsll2str(59)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | bits_written int | bit_rate int | samples_written int | sample_rate int | frame_size int | frame_size_min int | num_blocks int 
+function ff_ac3_adjust_frame_size void | s struct TYPE_3__ *

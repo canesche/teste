@@ -1,0 +1,2 @@
+struct TYPE_3__ | ifb_flags int 
+function ifbond_flags_lladdr int | ifb struct TYPE_3__ *

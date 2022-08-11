@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversscsismartpqismartpqi_init.c_pqi_set_bus_target_lun.d/extr_linuxdriversscsismartpqismartpqi_init.c_pqi_set_bus_target_lun_O0::pqi_set_bus_target_lun(62)"
+  }
+]

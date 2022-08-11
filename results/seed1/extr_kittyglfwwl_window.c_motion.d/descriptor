@@ -1,2 +1,0 @@
-struct wl_data_device | dummy int 
-function motion void | data void * | wl_data_device struct wl_data_device * | time int | x int | y int

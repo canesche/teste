@@ -1,0 +1,2 @@
+struct gl_transform | m float ** | t float * 
+function gl_transform_ortho void | t struct gl_transform * | x0 float | x1 float | y0 float | y1 float

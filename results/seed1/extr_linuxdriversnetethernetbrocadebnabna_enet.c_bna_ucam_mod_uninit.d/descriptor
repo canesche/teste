@@ -1,2 +1,0 @@
-struct bna_ucam_mod | bna int * 
-function bna_ucam_mod_uninit void | ucam_mod struct bna_ucam_mod *

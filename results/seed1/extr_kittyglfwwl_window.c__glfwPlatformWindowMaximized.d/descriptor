@@ -1,3 +1,0 @@
-struct TYPE_4__ | maximized int 
-struct TYPE_5__ | wl struct TYPE_4__ 
-function _glfwPlatformWindowMaximized int | window struct TYPE_5__ *

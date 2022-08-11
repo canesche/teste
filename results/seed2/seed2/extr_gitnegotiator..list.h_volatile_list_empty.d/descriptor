@@ -1,0 +1,2 @@
+struct volatile_list_head | next volatile struct volatile_list_head * 
+function volatile_list_empty int | head volatile struct volatile_list_head *

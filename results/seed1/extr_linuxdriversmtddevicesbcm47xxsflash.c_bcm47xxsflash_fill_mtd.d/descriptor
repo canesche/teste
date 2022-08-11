@@ -1,5 +1,0 @@
-struct TYPE_2__ | parent struct device * 
-struct mtd_info | name char * | writesize int | writebufsize int | _write int | _read int | _erase int | erasesize int | size int | flags int | type int | dev struct TYPE_2__ | priv struct bcm47xxsflash * 
-struct device | dummy int 
-struct bcm47xxsflash | blocksize int | size int | mtd struct mtd_info 
-function bcm47xxsflash_fill_mtd void | b47s struct bcm47xxsflash * | dev struct device *

@@ -1,0 +1,4 @@
+struct gelic_card | dev struct TYPE_2__ * 
+struct device | dummy int 
+struct TYPE_2__ | core struct device 
+function ctodev struct device * | card struct gelic_card *

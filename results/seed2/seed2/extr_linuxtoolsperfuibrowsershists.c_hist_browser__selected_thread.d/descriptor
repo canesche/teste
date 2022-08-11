@@ -1,0 +1,4 @@
+struct thread | dummy int 
+struct hist_browser | he_selection struct TYPE_2__ * 
+struct TYPE_2__ | thread struct thread * 
+function hist_browser__selected_thread struct thread * | browser struct hist_browser *

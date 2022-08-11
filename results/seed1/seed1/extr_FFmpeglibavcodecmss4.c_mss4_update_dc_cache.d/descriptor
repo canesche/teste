@@ -1,0 +1,2 @@
+struct TYPE_3__ | prev_dc long ** | dc_cache long ** 
+function mss4_update_dc_cache void | c struct TYPE_3__ * | mb_x int

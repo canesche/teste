@@ -1,0 +1,2 @@
+struct vie | reg unsigned long | rex_present int 
+function vie_calc_bytereg void | vie struct vie * | reg enum vm_reg_name * | lhbr int *

@@ -1,0 +1,2 @@
+struct batadv_priv | dummy int 
+function batadv_mcast_init int | bat_priv struct batadv_priv *

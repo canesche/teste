@@ -1,0 +1,5 @@
+struct TYPE_2__ | shared_ch_mapping int * | data_format int | num_channels int | bit_width int | sample_rate int | sb_cfg_minor_version int 
+struct afe_port_config | slim_cfg struct TYPE_2__ 
+struct q6afe_slim_cfg | ch_mapping int * | data_format int | num_channels int | bit_width int | sample_rate int 
+struct q6afe_port | port_cfg union afe_port_config 
+function q6afe_slim_port_prepare void | port struct q6afe_port * | cfg struct q6afe_slim_cfg *

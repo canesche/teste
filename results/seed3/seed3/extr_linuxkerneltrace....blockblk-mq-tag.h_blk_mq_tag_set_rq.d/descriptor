@@ -1,0 +1,4 @@
+struct request | dummy int 
+struct blk_mq_hw_ctx | tags struct TYPE_2__ * 
+struct TYPE_2__ | rqs struct request ** 
+function blk_mq_tag_set_rq void | hctx struct blk_mq_hw_ctx * | tag unsigned int | rq struct request *

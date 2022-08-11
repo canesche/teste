@@ -1,0 +1,6 @@
+struct TYPE_4__ | spu_status_R int 
+struct spu_state | lscsa struct TYPE_6__ * | prob struct TYPE_4__ 
+struct spu | dummy int 
+struct TYPE_5__ | slot int * 
+struct TYPE_6__ | stopped_status struct TYPE_5__ 
+function setup_spu_status_part2 void | csa struct spu_state * | spu struct spu *

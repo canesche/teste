@@ -1,0 +1,2 @@
+struct nlm_host | dummy int 
+function nlmsvc_same_host int | data void * | other struct nlm_host *

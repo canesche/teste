@@ -1,0 +1,1 @@
+function gdImageStringFT char * | im int * | brect int * | fg int | fontlist char * | ptsize double | angle double | x int | y int | string char *

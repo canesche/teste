@@ -1,0 +1,2 @@
+struct b43legacy_wl | dummy int 
+function b43legacy_rng_exit void | wl struct b43legacy_wl *

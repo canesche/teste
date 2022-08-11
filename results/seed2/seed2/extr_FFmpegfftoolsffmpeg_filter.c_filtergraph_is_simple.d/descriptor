@@ -1,0 +1,2 @@
+struct TYPE_3__ | graph_desc int 
+function filtergraph_is_simple int | fg struct TYPE_3__ *

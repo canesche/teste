@@ -1,0 +1,2 @@
+struct irq_desc | status_use_accessors int 
+function irq_settings_has_no_balance_set int | desc struct irq_desc *

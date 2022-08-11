@@ -1,0 +1,2 @@
+struct TYPE_3__ | version int 
+function iso9660_get_pvd_version int | pvd const struct TYPE_3__ *

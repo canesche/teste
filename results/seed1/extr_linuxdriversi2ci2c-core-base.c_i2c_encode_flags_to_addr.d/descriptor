@@ -1,2 +1,0 @@
-struct i2c_client | addr unsigned short | flags int 
-function i2c_encode_flags_to_addr unsigned short | client struct i2c_client *

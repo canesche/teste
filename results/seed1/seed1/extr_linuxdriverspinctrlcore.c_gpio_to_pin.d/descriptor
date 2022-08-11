@@ -1,0 +1,2 @@
+struct pinctrl_gpio_range | base unsigned int | pins int * | pin_base int 
+function gpio_to_pin int | range struct pinctrl_gpio_range * | gpio unsigned int

@@ -1,0 +1,5 @@
+struct TYPE_9__ | nb_decoded_frames int | internal struct TYPE_8__ * | info int | codecpar struct TYPE_6__ * 
+struct TYPE_8__ | avctx struct TYPE_7__ * 
+struct TYPE_7__ | has_b_frames int 
+struct TYPE_6__ | codec_id long 
+function has_decode_delay_been_guessed int | st struct TYPE_9__ *

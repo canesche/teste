@@ -1,0 +1,2 @@
+struct TYPE_3__ | nbSlices unsigned long | capacities long * 
+function sliceCollection_totalCapacity unsigned long | sc struct TYPE_3__

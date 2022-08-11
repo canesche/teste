@@ -1,0 +1,3 @@
+struct obs_output | received_video int | received_audio int 
+struct encoder_packet | type long 
+function check_received void | output struct obs_output * | out struct encoder_packet *

@@ -1,3 +1,0 @@
-struct wiphy | bands struct TYPE_2__ ** 
-struct TYPE_2__ | n_channels long 
-function ieee80211_get_num_supported_channels unsigned int | wiphy struct wiphy *

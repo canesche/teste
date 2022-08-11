@@ -1,0 +1,2 @@
+struct tg3 | phy_flags int 
+function tg3_aux_stat_to_speed_duplex void | tp struct tg3 * | val int | speed int * | duplex int *

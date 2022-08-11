@@ -1,0 +1,2 @@
+struct sctp_sched_ops | dummy int 
+function sctp_sched_ops_register void | sched enum sctp_sched_type | sched_ops struct sctp_sched_ops *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmfdwm8994-core.c_wm8994_set_pdata_from_of.d/extr_linuxdriversmfdwm8994-core.c_wm8994_set_pdata_from_of_O0::wm8994_set_pdata_from_of(61)"
+  }
+]

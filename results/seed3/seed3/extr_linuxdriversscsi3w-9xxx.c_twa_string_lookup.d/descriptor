@@ -1,0 +1,2 @@
+struct TYPE_3__ | code unsigned int | text char * 
+function twa_string_lookup char * | table struct TYPE_3__ * | code unsigned int

@@ -1,8 +1,0 @@
-struct image_section_map | sidx unsigned long | fmap struct TYPE_12__ * 
-struct TYPE_7__ | e_shnum unsigned long 
-struct TYPE_10__ | sect struct TYPE_9__ * | elfhdr struct TYPE_7__ 
-struct TYPE_11__ | elf struct TYPE_10__ 
-struct TYPE_12__ | u struct TYPE_11__ 
-struct TYPE_8__ | sh_size int 
-struct TYPE_9__ | shdr struct TYPE_8__ 
-function elf_get_map_size unsigned int | ism const struct image_section_map *

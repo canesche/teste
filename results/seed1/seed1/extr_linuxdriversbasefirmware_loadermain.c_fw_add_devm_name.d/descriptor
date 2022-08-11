@@ -1,0 +1,2 @@
+struct device | dummy int 
+function fw_add_devm_name int | dev struct device * | name const char *

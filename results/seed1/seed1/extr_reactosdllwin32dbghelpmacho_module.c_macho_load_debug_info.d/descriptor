@@ -1,0 +1,2 @@
+struct module | dummy int 
+function macho_load_debug_info int | module struct module *

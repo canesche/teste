@@ -1,0 +1,4 @@
+struct U2 | dummy int 
+struct U1 | dummy int 
+struct U0 | dummy int 
+function func_2 const int * | p_3 int | p_4 union U2 | p_5 int * | p_6 union U0 | p_7 const union U1

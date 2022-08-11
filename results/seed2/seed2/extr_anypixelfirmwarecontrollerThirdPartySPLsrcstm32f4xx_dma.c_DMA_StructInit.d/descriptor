@@ -1,0 +1,2 @@
+struct TYPE_3__ | DMA_PeripheralBurst int | DMA_MemoryBurst int | DMA_FIFOThreshold int | DMA_FIFOMode int | DMA_Priority int | DMA_Mode int | DMA_MemoryDataSize int | DMA_PeripheralDataSize int | DMA_MemoryInc int | DMA_PeripheralInc int | DMA_BufferSize long | DMA_DIR int | DMA_Memory0BaseAddr long | DMA_PeripheralBaseAddr long | DMA_Channel long 
+function DMA_StructInit void | DMA_InitStruct struct TYPE_3__ *

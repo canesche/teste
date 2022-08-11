@@ -1,0 +1,3 @@
+struct hfi1_devdata | hfi1_id unsigned long | asic_data struct hfi1_asic_data * 
+struct hfi1_asic_data | dds int ** 
+function release_asic_data struct hfi1_asic_data * | dd struct hfi1_devdata *

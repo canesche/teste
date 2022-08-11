@@ -1,0 +1,2 @@
+struct bfa_fcs_lport_s | dummy int 
+function bfa_fcs_lport_n2n_init void | port struct bfa_fcs_lport_s *

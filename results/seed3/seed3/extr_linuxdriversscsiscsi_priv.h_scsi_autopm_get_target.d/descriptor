@@ -1,0 +1,2 @@
+struct scsi_target | dummy int 
+function scsi_autopm_get_target void | t struct scsi_target *

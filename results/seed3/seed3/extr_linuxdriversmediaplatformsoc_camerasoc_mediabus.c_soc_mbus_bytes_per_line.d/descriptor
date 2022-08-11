@@ -1,0 +1,2 @@
+struct soc_mbus_pixelfmt | layout long | bits_per_sample int | packing int 
+function soc_mbus_bytes_per_line int | width int | mf const struct soc_mbus_pixelfmt *

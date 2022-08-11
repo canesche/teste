@@ -1,2 +1,0 @@
-struct dentry | dummy int 
-function nfp_net_debugfs_dir_clean void | dir struct dentry **

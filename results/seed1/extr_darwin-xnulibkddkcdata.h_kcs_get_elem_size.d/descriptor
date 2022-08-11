@@ -1,2 +1,0 @@
-struct TYPE_3__ | kcs_flags int | kcs_elem_size int 
-function kcs_get_elem_size int | d struct TYPE_3__ *

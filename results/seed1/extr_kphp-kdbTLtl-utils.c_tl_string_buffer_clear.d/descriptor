@@ -1,2 +1,0 @@
-struct tl_buffer | pos long 
-function tl_string_buffer_clear void | b struct tl_buffer *

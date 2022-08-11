@@ -1,2 +1,0 @@
-struct i5000_pvt | b0_mtr int * | b1_mtr int * 
-function determine_mtr int | pvt struct i5000_pvt * | slot int | channel int

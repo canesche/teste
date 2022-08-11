@@ -1,2 +1,0 @@
-struct kvmppc_slb | base_page_size int 
-function decode_pagesize int | slbe struct kvmppc_slb * | r int

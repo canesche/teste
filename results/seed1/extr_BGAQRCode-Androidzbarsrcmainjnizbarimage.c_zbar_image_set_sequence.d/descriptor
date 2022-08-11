@@ -1,2 +1,0 @@
-struct TYPE_3__ | seq unsigned int 
-function zbar_image_set_sequence void | img struct TYPE_3__ * | seq unsigned int

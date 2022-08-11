@@ -1,0 +1,2 @@
+struct x86_emulate_ctxt | d int 
+function x86_page_table_writing_insn int | ctxt struct x86_emulate_ctxt *

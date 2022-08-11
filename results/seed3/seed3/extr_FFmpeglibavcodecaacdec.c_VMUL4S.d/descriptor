@@ -1,0 +1,2 @@
+struct av_intfloat32 | f const float | i unsigned int 
+function VMUL4S float * | dst float * | v const float * | idx unsigned int | sign unsigned int | scale const float *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | qtail int 
+struct ks_wlan_private | rx_dev struct TYPE_2__ 
+function inc_rxqtail void | priv struct ks_wlan_private *

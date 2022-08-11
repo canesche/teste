@@ -1,0 +1,3 @@
+struct bpf_program | idx int 
+struct bpf_object | nr_programs unsigned long | programs struct bpf_program * 
+function bpf_object__find_prog_by_idx struct bpf_program * | obj struct bpf_object * | idx int

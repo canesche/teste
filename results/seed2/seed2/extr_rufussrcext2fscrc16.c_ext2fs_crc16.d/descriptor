@@ -1,0 +1,1 @@
+function ext2fs_crc16 int | crc int | buffer const void * | len unsigned int

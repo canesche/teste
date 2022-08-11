@@ -1,2 +1,0 @@
-struct scsi_device | use_10_for_rw int | use_10_for_ms int | no_write_same int | max_device_blocked int 
-function ata_scsi_sdev_config void | sdev struct scsi_device *

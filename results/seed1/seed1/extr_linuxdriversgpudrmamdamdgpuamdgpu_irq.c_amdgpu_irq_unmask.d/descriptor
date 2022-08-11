@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function amdgpu_irq_unmask void | irqd struct irq_data *

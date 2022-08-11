@@ -1,0 +1,1 @@
+function default_generate_preget_query int | buff char * | key const char * | key_len int | E void * | n int

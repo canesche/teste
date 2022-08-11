@@ -1,4 +1,0 @@
-struct TYPE_5__ | intra_period int | bits_per_second int | kf_auto long | error_resilient long | frame_height_scale long | frame_width_scale long | frame_height int | frame_width int 
-struct TYPE_6__ | va_rc_mode int | gop_size int | va_bit_rate int | codec_sequence_params struct TYPE_5__ * 
-struct TYPE_7__ | height int | width int | priv_data struct TYPE_6__ * 
-function vaapi_encode_vp8_init_sequence_params int | avctx struct TYPE_7__ *

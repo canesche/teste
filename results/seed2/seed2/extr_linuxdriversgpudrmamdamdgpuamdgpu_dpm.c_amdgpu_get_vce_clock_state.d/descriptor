@@ -1,0 +1,5 @@
+struct TYPE_3__ | num_of_vce_states unsigned long | vce_states struct amd_vce_state * 
+struct TYPE_4__ | dpm struct TYPE_3__ 
+struct amdgpu_device | pm struct TYPE_4__ 
+struct amd_vce_state | dummy int 
+function amdgpu_get_vce_clock_state struct amd_vce_state * | handle void * | idx unsigned long

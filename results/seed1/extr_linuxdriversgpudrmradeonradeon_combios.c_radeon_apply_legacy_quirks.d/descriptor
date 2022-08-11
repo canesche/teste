@@ -1,5 +1,0 @@
-struct radeon_i2c_bus_rec | mask_clk_reg long 
-struct radeon_hpd | dummy int 
-struct drm_device | pdev struct TYPE_2__ * 
-struct TYPE_2__ | device int | subsystem_vendor int | subsystem_device int 
-function radeon_apply_legacy_quirks int | dev struct drm_device * | bios_index int | legacy_connector enum radeon_combios_connector * | ddc_i2c struct radeon_i2c_bus_rec * | hpd struct radeon_hpd *

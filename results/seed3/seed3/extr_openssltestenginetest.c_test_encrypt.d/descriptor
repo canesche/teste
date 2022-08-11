@@ -1,0 +1,1 @@
+function test_encrypt int | ctx int * | sig unsigned char * | siglen unsigned long * | tbs const unsigned char * | tbslen unsigned long

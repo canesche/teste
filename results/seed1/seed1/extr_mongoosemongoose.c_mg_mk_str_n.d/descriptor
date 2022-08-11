@@ -1,0 +1,2 @@
+struct mg_str | member_0 const char * | member_1 unsigned long 
+function mg_mk_str_n struct mg_str | s const char * | len unsigned long

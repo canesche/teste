@@ -1,0 +1,1 @@
+value(dirfd) == 255, value(flags) == 255, value(mask) == 255, length(path) == 65025, length(statxbuf) == 65025

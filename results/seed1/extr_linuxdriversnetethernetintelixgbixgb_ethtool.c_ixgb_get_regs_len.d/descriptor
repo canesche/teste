@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function ixgb_get_regs_len int | netdev struct net_device *

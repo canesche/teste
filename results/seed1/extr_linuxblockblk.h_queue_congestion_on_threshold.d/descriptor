@@ -1,2 +1,0 @@
-struct request_queue | nr_congestion_on int 
-function queue_congestion_on_threshold int | q struct request_queue *

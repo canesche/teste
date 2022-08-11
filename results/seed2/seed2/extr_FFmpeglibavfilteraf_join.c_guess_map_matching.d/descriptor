@@ -1,0 +1,4 @@
+struct TYPE_8__ | nb_inputs int | inputs struct TYPE_7__ ** 
+struct TYPE_7__ | channel_layout int 
+struct TYPE_6__ | out_channel int | input int | in_channel int 
+function guess_map_matching void | ctx struct TYPE_8__ * | ch struct TYPE_6__ * | inputs int *

@@ -1,0 +1,2 @@
+struct ext4_buddy | dummy int 
+function mb_cmp_bitmaps void | e4b struct ext4_buddy * | bitmap void *

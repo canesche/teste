@@ -1,4 +1,0 @@
-struct oid_par_priv | type_of_oid long | information_buf_len int | bytes_rw int * | information_buf long | adapter_context int 
-struct TYPE_3__ | rx_drop long | rx_pkts long 
-struct TYPE_4__ | recvpriv struct TYPE_3__ 
-function oid_rt_get_rx_total_packet_hdl int | poid_par_priv struct oid_par_priv *

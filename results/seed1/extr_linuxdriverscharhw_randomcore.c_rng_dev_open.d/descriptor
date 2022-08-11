@@ -1,3 +1,0 @@
-struct inode | dummy int 
-struct file | f_mode int 
-function rng_dev_open int | inode struct inode * | filp struct file *

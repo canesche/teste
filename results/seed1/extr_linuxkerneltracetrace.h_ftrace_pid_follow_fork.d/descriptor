@@ -1,2 +1,0 @@
-struct trace_array | dummy int 
-function ftrace_pid_follow_fork void | tr struct trace_array * | enable int

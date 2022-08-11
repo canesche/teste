@@ -1,0 +1,3 @@
+struct xfs_da_node_entry | dummy int 
+struct xfs_da_intnode | __btree struct xfs_da_node_entry * 
+function xfs_da2_node_tree_p struct xfs_da_node_entry * | dap struct xfs_da_intnode *

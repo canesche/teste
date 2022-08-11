@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdrivershidusbhidhid-pidff.c_pidff_needs_set_envelope.d/extr_linuxdrivershidusbhidhid-pidff.c_pidff_needs_set_envelope_O0::pidff_needs_set_envelope(62)"
+  }
+]

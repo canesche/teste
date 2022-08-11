@@ -1,0 +1,2 @@
+struct fb_cvt_data | f_refresh int | flags int | yres int | interlace int | v_margin int 
+function fb_cvt_hperiod int | cvt struct fb_cvt_data *

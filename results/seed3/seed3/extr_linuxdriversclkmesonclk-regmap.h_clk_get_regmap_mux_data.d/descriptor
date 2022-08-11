@@ -1,0 +1,3 @@
+struct clk_regmap_mux_data | dummy int 
+struct clk_regmap | data long 
+function clk_get_regmap_mux_data struct clk_regmap_mux_data * | clk struct clk_regmap *

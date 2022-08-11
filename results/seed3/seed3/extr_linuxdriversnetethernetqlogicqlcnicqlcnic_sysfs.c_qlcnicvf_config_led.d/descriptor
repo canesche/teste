@@ -1,0 +1,2 @@
+struct qlcnic_adapter | dummy int 
+function qlcnicvf_config_led int | adapter struct qlcnic_adapter * | state int | rate int

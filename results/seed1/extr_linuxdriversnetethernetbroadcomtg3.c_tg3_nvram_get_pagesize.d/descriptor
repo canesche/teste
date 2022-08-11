@@ -1,2 +1,0 @@
-struct tg3 | nvram_pagesize int 
-function tg3_nvram_get_pagesize void | tp struct tg3 * | nvmcfg1 int

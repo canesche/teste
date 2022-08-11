@@ -1,0 +1,3 @@
+struct sst_hsw | dsp struct sst_dsp * 
+struct sst_dsp | dummy int 
+function sst_hsw_get_dsp struct sst_dsp * | hsw struct sst_hsw *

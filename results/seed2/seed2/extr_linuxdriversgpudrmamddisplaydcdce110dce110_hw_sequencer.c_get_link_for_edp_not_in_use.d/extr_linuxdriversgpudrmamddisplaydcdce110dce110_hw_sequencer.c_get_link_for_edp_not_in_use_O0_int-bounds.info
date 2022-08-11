@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversgpudrmamddisplaydcdce110dce110_hw_sequencer.c_get_link_for_edp_not_in_use.d/extr_linuxdriversgpudrmamddisplaydcdce110dce110_hw_sequencer.c_get_link_for_edp_not_in_use_O0::get_link_for_edp_not_in_use(70)"
+  }
+]

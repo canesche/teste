@@ -1,0 +1,2 @@
+struct TYPE_4__ | media_type int | sample_rate int | media_info char | track_type int | sample_size int | fields int | lines_index int | frame_rate_index int 
+function gxf_init_timecode_track void | sc struct TYPE_4__ * | vsc struct TYPE_4__ *

@@ -1,0 +1,2 @@
+struct request_sock | dummy int 
+function dccp_syn_ack_timeout void | req const struct request_sock *

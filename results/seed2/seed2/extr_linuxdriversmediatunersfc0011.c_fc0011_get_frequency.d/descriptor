@@ -1,0 +1,3 @@
+struct fc0011_priv | frequency int 
+struct dvb_frontend | tuner_priv struct fc0011_priv * 
+function fc0011_get_frequency int | fe struct dvb_frontend * | frequency int *

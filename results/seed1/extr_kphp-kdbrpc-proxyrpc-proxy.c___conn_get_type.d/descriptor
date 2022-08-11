@@ -1,2 +1,0 @@
-struct rpc_cluster_bucket | dummy int 
-function __conn_get_type enum tl_type | B struct rpc_cluster_bucket *

@@ -1,0 +1,4 @@
+struct TYPE_7__ | fileinfo struct TYPE_6__ * | rdpdr_device struct TYPE_5__ * 
+struct TYPE_6__ | device_id int 
+struct TYPE_5__ | device_type int | handle int 
+function rdpdr_handle_ok int | This struct TYPE_7__ * | device int | handle int

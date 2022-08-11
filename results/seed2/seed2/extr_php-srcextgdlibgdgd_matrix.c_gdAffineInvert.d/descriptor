@@ -1,0 +1,1 @@
+function gdAffineInvert int | dst double [6] | src double const[6]

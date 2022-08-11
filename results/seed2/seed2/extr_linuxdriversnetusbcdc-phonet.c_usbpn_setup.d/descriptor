@@ -1,0 +1,2 @@
+struct net_device | flags int | hard_header_len int | addr_len int | tx_queue_len int | needs_free_netdev int | dev_addr int * | max_mtu void * | min_mtu int | mtu void * | type int | header_ops int * | netdev_ops int * | features long 
+function usbpn_setup void | dev struct net_device *

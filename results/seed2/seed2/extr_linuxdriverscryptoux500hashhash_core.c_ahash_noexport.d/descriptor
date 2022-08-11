@@ -1,0 +1,2 @@
+struct ahash_request | dummy int 
+function ahash_noexport int | req struct ahash_request * | out void *

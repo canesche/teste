@@ -1,0 +1,1 @@
+function wizchip_bus_readbyte volatile int | AddrSel long

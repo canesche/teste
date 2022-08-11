@@ -1,0 +1,4 @@
+struct cifs_tcon | share_flags int | ses struct TYPE_4__ * | seal long 
+struct TYPE_4__ | session_flags int | server struct TYPE_3__ * 
+struct TYPE_3__ | capabilities int 
+function smb3_encryption_required int | tcon const struct cifs_tcon *

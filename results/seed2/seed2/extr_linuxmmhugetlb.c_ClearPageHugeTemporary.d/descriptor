@@ -1,0 +1,2 @@
+struct page | mapping int * 
+function ClearPageHugeTemporary void | page struct page *

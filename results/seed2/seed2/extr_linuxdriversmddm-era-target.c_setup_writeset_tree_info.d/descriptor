@@ -1,0 +1,5 @@
+struct writeset_disk | dummy int 
+struct dm_btree_value_type | size int | equal int | dec int | inc int | context struct era_metadata * 
+struct TYPE_2__ | levels int | tm int | value_type struct dm_btree_value_type 
+struct era_metadata | writeset_tree_info struct TYPE_2__ | tm int 
+function setup_writeset_tree_info void | md struct era_metadata *

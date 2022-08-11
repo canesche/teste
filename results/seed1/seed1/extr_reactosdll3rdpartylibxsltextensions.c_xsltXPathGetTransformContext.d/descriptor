@@ -1,0 +1,3 @@
+struct TYPE_5__ | context struct TYPE_4__ * 
+struct TYPE_4__ | extra int * 
+function xsltXPathGetTransformContext int * | ctxt struct TYPE_5__ *

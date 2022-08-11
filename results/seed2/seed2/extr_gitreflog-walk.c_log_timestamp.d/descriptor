@@ -1,0 +1,4 @@
+struct commit_reflog | recno unsigned long | reflogs struct TYPE_4__ * 
+struct TYPE_4__ | items struct TYPE_3__ * 
+struct TYPE_3__ | timestamp int 
+function log_timestamp int | log struct commit_reflog *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | map struct TYPE_4__ * 
+struct TYPE_4__ | pmap int 
+function get_task_pmap int | t struct TYPE_5__ *

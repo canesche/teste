@@ -1,0 +1,3 @@
+struct TYPE_4__ | op1_use int | op2_use int | result_use int 
+struct TYPE_5__ | ops struct TYPE_4__ * 
+function is_used_by_op int | ssa struct TYPE_5__ * | op int | check int

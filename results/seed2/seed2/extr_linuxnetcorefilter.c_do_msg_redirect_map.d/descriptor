@@ -1,0 +1,3 @@
+struct sock | dummy int 
+struct sk_msg_buff | sk_redir struct sock * 
+function do_msg_redirect_map struct sock * | msg struct sk_msg_buff *

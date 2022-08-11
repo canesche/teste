@@ -1,0 +1,5 @@
+struct TYPE_11__ | buf_ptr unsigned short | buf_base unsigned char 
+struct TYPE_10__ | virt_addr long 
+struct TYPE_9__ | port_array struct TYPE_8__ ** | memory_base long 
+struct TYPE_8__ | last_mem_alloc unsigned long 
+function alloc_frame_bufs int | info struct TYPE_9__ * | buf_list struct TYPE_11__ * | buf_list_ex struct TYPE_10__ * | count int

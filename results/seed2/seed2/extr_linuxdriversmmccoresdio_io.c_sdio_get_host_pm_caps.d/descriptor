@@ -1,0 +1,4 @@
+struct sdio_func | card struct TYPE_4__ * 
+struct TYPE_4__ | host struct TYPE_3__ * 
+struct TYPE_3__ | pm_caps int 
+function sdio_get_host_pm_caps int | func struct sdio_func *

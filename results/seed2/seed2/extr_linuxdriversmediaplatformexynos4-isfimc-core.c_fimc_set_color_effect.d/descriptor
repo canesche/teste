@@ -1,0 +1,5 @@
+struct fimc_effect | pat_cb int | pat_cr int | type void * 
+struct TYPE_4__ | colorfx_cbcr struct TYPE_3__ * 
+struct fimc_ctx | ctrls struct TYPE_4__ | effect struct fimc_effect 
+struct TYPE_3__ | val int 
+function fimc_set_color_effect int | ctx struct fimc_ctx * | colorfx enum v4l2_colorfx

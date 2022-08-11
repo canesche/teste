@@ -1,2 +1,0 @@
-struct pp_hwmgr | fan_ctrl_enabled long 
-function smu7_get_fan_control_mode int | hwmgr struct pp_hwmgr *

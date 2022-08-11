@@ -1,0 +1,2 @@
+struct mpc52xx_gpt_priv | dummy int 
+function mpc52xx_gpt_wdt_setup int | gpt struct mpc52xx_gpt_priv * | period const int *

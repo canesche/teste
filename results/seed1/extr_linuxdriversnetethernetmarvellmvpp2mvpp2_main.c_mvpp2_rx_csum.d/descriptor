@@ -1,3 +1,0 @@
-struct sk_buff | ip_summed int | csum long 
-struct mvpp2_port | dummy int 
-function mvpp2_rx_csum void | port struct mvpp2_port * | status int | skb struct sk_buff *

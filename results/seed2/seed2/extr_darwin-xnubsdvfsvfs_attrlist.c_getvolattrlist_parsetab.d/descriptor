@@ -1,0 +1,5 @@
+struct vfs_attr | f_active int 
+struct user64_timespec | dummy int 
+struct user32_timespec | dummy int 
+struct getvolattrlist_attrtab | attr long | size long | bits int 
+function getvolattrlist_parsetab int | tab struct getvolattrlist_attrtab * | attrs int | vsp struct vfs_attr * | sizep int * | is_64bit int | maxiter unsigned int

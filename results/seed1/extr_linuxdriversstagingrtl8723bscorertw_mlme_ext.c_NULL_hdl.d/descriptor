@@ -1,2 +1,0 @@
-struct adapter | dummy int 
-function NULL_hdl int | padapter struct adapter * | pbuf int *

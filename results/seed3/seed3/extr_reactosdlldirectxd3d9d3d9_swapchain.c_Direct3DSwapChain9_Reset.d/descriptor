@@ -1,0 +1,1 @@
+function Direct3DSwapChain9_Reset int | pThisSwapChain int * | pPresentationParameters int *

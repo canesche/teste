@@ -1,0 +1,2 @@
+struct ecryptfs_crypt_stat | flags int | metadata_size unsigned long 
+function ecryptfs_lower_header_size unsigned long | crypt_stat struct ecryptfs_crypt_stat *

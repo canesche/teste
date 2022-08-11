@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 1521,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriverss390netqeth_l3_main.c_qeth_l3_convert_addr_to_bits.d/extr_linuxdriverss390netqeth_l3_main.c_qeth_l3_convert_addr_to_bits_O0::qeth_l3_convert_addr_to_bits(61)"
+  }
+]

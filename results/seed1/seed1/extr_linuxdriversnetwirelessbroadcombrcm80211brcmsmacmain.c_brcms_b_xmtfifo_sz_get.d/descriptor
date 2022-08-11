@@ -1,0 +1,2 @@
+struct brcms_hardware | xmtfifo_sz unsigned long * 
+function brcms_b_xmtfifo_sz_get int | wlc_hw struct brcms_hardware * | fifo unsigned long | blocks unsigned long *

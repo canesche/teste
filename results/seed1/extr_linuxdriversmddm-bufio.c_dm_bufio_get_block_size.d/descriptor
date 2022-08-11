@@ -1,2 +1,0 @@
-struct dm_bufio_client | block_size int 
-function dm_bufio_get_block_size unsigned int | c struct dm_bufio_client *

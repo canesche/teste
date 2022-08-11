@@ -1,0 +1,5 @@
+struct TYPE_9__ | page struct TYPE_8__ * | wininfo struct TYPE_6__ * 
+struct TYPE_8__ | file struct TYPE_7__ * 
+struct TYPE_7__ | lpszTitle char * 
+struct TYPE_6__ | caption char * 
+function WINHELP_GetCaption char * | wpage struct TYPE_9__ *

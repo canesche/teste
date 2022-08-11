@@ -1,0 +1,1 @@
+function rgb24ToY_c void | _dst int * | src const int * | unused1 const int * | unused2 const int * | width int | rgb2yuv int *

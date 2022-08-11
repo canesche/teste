@@ -1,3 +1,0 @@
-struct tcs_group | dummy int 
-struct rsc_drv | tcs struct tcs_group * 
-function get_tcs_of_type struct tcs_group * | drv struct rsc_drv * | type int

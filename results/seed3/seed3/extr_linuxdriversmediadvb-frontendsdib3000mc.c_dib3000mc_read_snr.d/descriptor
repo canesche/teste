@@ -1,0 +1,2 @@
+struct dvb_frontend | dummy int 
+function dib3000mc_read_snr int | fe struct dvb_frontend * | snr int *

@@ -1,0 +1,2 @@
+struct addrinfo | ai_family long | ai_next struct addrinfo * 
+function interleave_addrinfo void | base struct addrinfo *

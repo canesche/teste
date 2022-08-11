@@ -1,0 +1,3 @@
+struct TYPE_4__ | nstat_sysinfo_scalar int 
+struct TYPE_5__ | nstat_sysinfo_key int | nstat_sysinfo_valsize int | u struct TYPE_4__ | nstat_sysinfo_flags int 
+function nstat_set_keyval_scalar void | kv struct TYPE_5__ * | key int | val int

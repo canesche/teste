@@ -1,5 +1,0 @@
-struct qed_vf_queue_cid | b_is_tx int | p_cid int 
-struct qed_vf_info | vf_queues struct TYPE_2__ * 
-struct qed_hwfn | dummy int 
-struct TYPE_2__ | cids struct qed_vf_queue_cid * 
-function qed_iov_validate_queue_mode int | p_hwfn struct qed_hwfn * | p_vf struct qed_vf_info * | qid unsigned long | mode enum qed_iov_validate_q_mode | b_is_tx int

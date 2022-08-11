@@ -1,0 +1,2 @@
+struct device | dummy int 
+function fsg_lun_release void | dev struct device *

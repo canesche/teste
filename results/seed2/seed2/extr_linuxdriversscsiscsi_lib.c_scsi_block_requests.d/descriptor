@@ -1,0 +1,2 @@
+struct Scsi_Host | host_self_blocked int 
+function scsi_block_requests void | shost struct Scsi_Host *

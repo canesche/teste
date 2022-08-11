@@ -1,0 +1,2 @@
+struct percpu_ref | dummy int 
+function no_op void | r struct percpu_ref *

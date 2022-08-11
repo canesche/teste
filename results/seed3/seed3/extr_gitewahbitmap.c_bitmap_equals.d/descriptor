@@ -1,0 +1,2 @@
+struct bitmap | word_alloc long | words long * 
+function bitmap_equals int | self struct bitmap * | other struct bitmap *

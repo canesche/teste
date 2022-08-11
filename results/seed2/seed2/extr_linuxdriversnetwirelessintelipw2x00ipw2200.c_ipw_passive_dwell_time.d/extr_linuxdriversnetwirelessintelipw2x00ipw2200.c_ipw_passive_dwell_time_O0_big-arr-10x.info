@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetwirelessintelipw2x00ipw2200.c_ipw_passive_dwell_time.d/extr_linuxdriversnetwirelessintelipw2x00ipw2200.c_ipw_passive_dwell_time_O0::ipw_passive_dwell_time(64)"
+  }
+]

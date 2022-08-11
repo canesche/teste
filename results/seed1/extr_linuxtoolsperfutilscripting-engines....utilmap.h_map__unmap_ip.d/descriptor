@@ -1,2 +1,0 @@
-struct map | pgoff long | start long 
-function map__unmap_ip long | map struct map * | ip long

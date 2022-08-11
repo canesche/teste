@@ -1,8 +1,0 @@
-struct TYPE_10__ | lpVtbl int * 
-struct TYPE_9__ | lpVtbl int * 
-struct TYPE_14__ | lpVtbl int * 
-struct TYPE_13__ | lpVtbl int * 
-struct TYPE_12__ | lpVtbl int * 
-struct TYPE_11__ | lpVtbl int * 
-struct TYPE_15__ | IServiceProvider_iface struct TYPE_10__ | IDispatch_iface struct TYPE_9__ | IOleControlSite_iface struct TYPE_14__ | IOleDocumentSite_iface struct TYPE_13__ | IOleInPlaceSiteEx_iface struct TYPE_12__ | IOleClientSite_iface struct TYPE_11__ 
-function DocHost_ClientSite_Init void | This struct TYPE_15__ *

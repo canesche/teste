@@ -1,2 +1,0 @@
-struct nouveau_drm | dummy int 
-function nouveau_debugfs_init int | drm struct nouveau_drm *

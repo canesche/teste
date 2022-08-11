@@ -1,0 +1,4 @@
+struct elf_info | elfoffset int | memsize int | loadsize int 
+struct TYPE_4__ | e_ident long * | e_type long | e_machine long | e_phnum unsigned int | e_phoff long 
+struct TYPE_3__ | p_type long | p_offset int | p_memsz int | p_filesz int 
+function parse_elf32 int | hdr void * | info struct elf_info *

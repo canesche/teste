@@ -1,0 +1,2 @@
+struct i2c_client | dummy int 
+function w83781d_alias_detect int | client struct i2c_client * | chipid int

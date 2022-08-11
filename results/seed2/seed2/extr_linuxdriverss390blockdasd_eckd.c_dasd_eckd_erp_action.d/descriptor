@@ -1,0 +1,5 @@
+struct dasd_device | cdev struct ccw_device * 
+struct dasd_ccw_req | startdev long 
+struct TYPE_2__ | cu_type int 
+struct ccw_device | id struct TYPE_2__ 
+function dasd_eckd_erp_action int | cqr struct dasd_ccw_req *

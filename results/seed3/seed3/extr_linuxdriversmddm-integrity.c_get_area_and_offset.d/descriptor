@@ -1,0 +1,3 @@
+struct dm_integrity_c | sb struct TYPE_2__ * | meta_dev int 
+struct TYPE_2__ | log2_interleave_sectors unsigned int 
+function get_area_and_offset void | ic struct dm_integrity_c * | data_sector unsigned int | area unsigned int * | offset unsigned int *

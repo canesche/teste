@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriverscryptoqatqat_commonqat_asym_algs.c_qat_dh_fn_id.d/extr_linuxdriverscryptoqatqat_commonqat_asym_algs.c_qat_dh_fn_id_O0::qat_dh_fn_id(68)"
+  }
+]

@@ -1,2 +1,0 @@
-struct rt_rq | rt_throttled int 
-function rt_rq_throttled int | rt_rq struct rt_rq *

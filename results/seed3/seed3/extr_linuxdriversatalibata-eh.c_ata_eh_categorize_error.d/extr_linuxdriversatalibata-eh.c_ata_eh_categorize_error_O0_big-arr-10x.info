@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversatalibata-eh.c_ata_eh_categorize_error.d/extr_linuxdriversatalibata-eh.c_ata_eh_categorize_error_O0::ata_eh_categorize_error(73)"
+  }
+]

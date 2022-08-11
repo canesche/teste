@@ -1,2 +1,0 @@
-struct ahd_phase_table_entry | phase int 
-function ahd_lookup_phase_entry const struct ahd_phase_table_entry * | phase int

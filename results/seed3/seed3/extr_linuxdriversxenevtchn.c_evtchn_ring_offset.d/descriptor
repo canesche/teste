@@ -1,0 +1,2 @@
+struct per_user_data | ring_size int 
+function evtchn_ring_offset unsigned int | u struct per_user_data * | idx unsigned int

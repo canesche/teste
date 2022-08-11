@@ -1,0 +1,2 @@
+struct linux_prom64_registers | phys_addr long | reg_size long 
+function jbusmc_dimm_group_size long | base long | mem_regs const struct linux_prom64_registers * | num_mem_regs int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversi2cbussesi2c-imx.c_i2c_imx_set_clk.d/extr_linuxdriversi2cbussesi2c-imx.c_i2c_imx_set_clk_O0::i2c_imx_set_clk(65)"
+  }
+]

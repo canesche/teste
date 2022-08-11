@@ -1,0 +1,2 @@
+struct il_channel_info | flags int 
+function il_is_channel_valid int | ch_info const struct il_channel_info *

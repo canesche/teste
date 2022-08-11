@@ -1,0 +1,2 @@
+struct arc_emac_priv | txbd_dirty int | txbd_curr int 
+function arc_emac_tx_avail int | priv struct arc_emac_priv *

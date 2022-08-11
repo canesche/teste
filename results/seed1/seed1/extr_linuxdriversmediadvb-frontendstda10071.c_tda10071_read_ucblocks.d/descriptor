@@ -1,0 +1,5 @@
+struct TYPE_4__ | stat struct TYPE_3__ * 
+struct dtv_frontend_properties | block_error struct TYPE_4__ 
+struct dvb_frontend | dtv_property_cache struct dtv_frontend_properties 
+struct TYPE_3__ | scale long | uvalue int 
+function tda10071_read_ucblocks int | fe struct dvb_frontend * | ucblocks int *

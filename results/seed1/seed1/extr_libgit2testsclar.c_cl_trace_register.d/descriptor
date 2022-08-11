@@ -1,0 +1,2 @@
+struct TYPE_2__ | trace_payload void * | pfn_trace_cb int * 
+function cl_trace_register void | cb int * | payload void *

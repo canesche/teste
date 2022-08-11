@@ -1,0 +1,2 @@
+struct qib_devdata | dummy int 
+function qib_7220_initvl15_bufs void | dd struct qib_devdata *

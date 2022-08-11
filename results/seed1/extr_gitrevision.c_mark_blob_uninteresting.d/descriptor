@@ -1,3 +1,0 @@
-struct TYPE_2__ | flags int 
-struct blob | object struct TYPE_2__ 
-function mark_blob_uninteresting void | blob struct blob *

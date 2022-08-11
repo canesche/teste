@@ -1,0 +1,3 @@
+struct resource | end int | start long | flags int 
+struct pci_dev | resource struct resource * 
+function quirk_dunord void | dev struct pci_dev *

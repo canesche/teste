@@ -1,0 +1,2 @@
+struct hnae3_handle | dummy int 
+function hclgevf_get_rss_key_size int | handle struct hnae3_handle *

@@ -1,0 +1,6 @@
+struct sctp_subtype | dummy int 
+struct sctp_endpoint | dummy int 
+struct sctp_cmd_seq | dummy int 
+struct sctp_association | dummy int 
+struct net | dummy int 
+function sctp_sf_bug enum sctp_disposition | net struct net * | ep const struct sctp_endpoint * | asoc const struct sctp_association * | type const union sctp_subtype | arg void * | commands struct sctp_cmd_seq *

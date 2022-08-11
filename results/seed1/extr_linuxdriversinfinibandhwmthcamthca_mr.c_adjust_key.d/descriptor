@@ -1,2 +1,0 @@
-struct mthca_dev | mthca_flags int 
-function adjust_key int | dev struct mthca_dev * | key int

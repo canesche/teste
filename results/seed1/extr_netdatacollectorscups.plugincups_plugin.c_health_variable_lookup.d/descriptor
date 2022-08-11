@@ -1,2 +1,0 @@
-struct rrdcalc | dummy int 
-function health_variable_lookup int | variable const char * | hash int | rc struct rrdcalc * | result int *

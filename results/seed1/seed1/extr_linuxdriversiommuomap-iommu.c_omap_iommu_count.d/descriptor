@@ -1,0 +1,4 @@
+struct omap_iommu_arch_data | iommu_dev long 
+struct TYPE_2__ | iommu struct omap_iommu_arch_data * 
+struct device | archdata struct TYPE_2__ 
+function omap_iommu_count int | dev struct device *

@@ -1,0 +1,2 @@
+struct isp_pipeline | state int 
+function isp_pipeline_ready int | pipe struct isp_pipeline *

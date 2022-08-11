@@ -1,7 +1,0 @@
-struct TYPE_7__ | procamp int 
-struct TYPE_5__ | cos int | sin int 
-struct TYPE_6__ | sat struct TYPE_5__ 
-struct nv50_head_atom | set struct TYPE_7__ | procamp struct TYPE_6__ 
-struct TYPE_8__ | color_vibrance int | vibrant_hue int 
-struct nouveau_conn_atom | procamp struct TYPE_8__ 
-function nv50_head_atomic_check_procamp void | armh struct nv50_head_atom * | asyh struct nv50_head_atom * | asyc struct nouveau_conn_atom *

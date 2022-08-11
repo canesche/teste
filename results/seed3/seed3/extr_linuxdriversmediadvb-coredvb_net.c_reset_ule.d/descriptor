@@ -1,0 +1,2 @@
+struct dvb_net_priv | ule_dbit int | ule_bridged long | ule_sndu_remain long | ule_sndu_type_1 long | ule_sndu_type long | ule_sndu_len long | ule_next_hdr int * | ule_skb int * 
+function reset_ule void | p struct dvb_net_priv *

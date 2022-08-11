@@ -1,0 +1,3 @@
+struct i40e_vsi | back struct TYPE_2__ * 
+struct TYPE_2__ | flags int 
+function i40e_max_xdp_frame_size int | vsi struct i40e_vsi *

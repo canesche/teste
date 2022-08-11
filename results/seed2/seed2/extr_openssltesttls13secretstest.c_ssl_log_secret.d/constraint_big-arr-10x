@@ -1,0 +1,1 @@
+value(secret_len) == 10, length(ssl) == 100, length(label) == 100, length(secret) == 100

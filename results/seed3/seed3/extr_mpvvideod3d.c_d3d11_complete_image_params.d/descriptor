@@ -1,0 +1,5 @@
+struct TYPE_5__ | hw_flags int 
+struct mp_image | params struct TYPE_5__ | hwctx struct TYPE_4__ * 
+struct TYPE_6__ | sw_format long 
+struct TYPE_4__ | data long 
+function d3d11_complete_image_params void | img struct mp_image *

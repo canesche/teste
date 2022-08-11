@@ -1,4 +1,0 @@
-struct TYPE_3__ | necp_policy_id long 
-struct TYPE_4__ | necp_mtag struct TYPE_3__ 
-struct mbuf | m_flags int | m_pkthdr struct TYPE_4__ 
-function necp_mark_packet_from_ip int | packet struct mbuf * | policy_id long

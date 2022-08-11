@@ -1,0 +1,1 @@
+value(spi) == 255, value(is_ipv6) == 255, length(saddr) == 65025, length(daddr) == 65025, length(mdev) == 65025, length(xfrm) == 65025

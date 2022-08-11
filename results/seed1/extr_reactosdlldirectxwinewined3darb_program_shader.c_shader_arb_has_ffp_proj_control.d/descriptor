@@ -1,2 +1,0 @@
-struct shader_arb_priv | ffp_proj_control int 
-function shader_arb_has_ffp_proj_control int | shader_priv void *

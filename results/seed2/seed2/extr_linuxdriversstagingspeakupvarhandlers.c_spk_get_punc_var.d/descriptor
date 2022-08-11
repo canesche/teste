@@ -1,0 +1,2 @@
+struct punc_var_t | var_id int 
+function spk_get_punc_var struct punc_var_t * | var_id enum var_id_t

@@ -1,0 +1,3 @@
+struct device | dummy int 
+struct nfp_cpp | dev struct device 
+function nfp_cpp_device struct device * | cpp struct nfp_cpp *

@@ -1,0 +1,2 @@
+struct dev_pm_ops | complete int | resume int | resume_early int | resume_noirq int | suspend_noirq int | suspend_late int | suspend int | prepare int 
+function pm_ops_is_empty int | ops const struct dev_pm_ops *

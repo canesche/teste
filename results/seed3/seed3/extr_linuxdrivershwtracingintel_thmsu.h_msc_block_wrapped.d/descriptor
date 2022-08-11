@@ -1,0 +1,2 @@
+struct msc_block_desc | hw_tag int 
+function msc_block_wrapped int | bdesc struct msc_block_desc *

@@ -1,0 +1,5 @@
+struct v4l2_pix_format | width int | height int | bytesperline int | sizeimage int | priv long | colorspace int | field int | pixelformat int 
+struct TYPE_3__ | width int | height int | interlaced long 
+struct TYPE_4__ | bt struct TYPE_3__ 
+struct skeleton | input long | std int | timings struct TYPE_4__ 
+function skeleton_fill_pix_format void | skel struct skeleton * | pix struct v4l2_pix_format *

@@ -1,2 +1,0 @@
-struct strref | array int * | len int 
-function strref_is_empty int | str const struct strref *

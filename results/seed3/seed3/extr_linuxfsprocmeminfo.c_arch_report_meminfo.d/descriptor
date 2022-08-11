@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function arch_report_meminfo void | m struct seq_file *

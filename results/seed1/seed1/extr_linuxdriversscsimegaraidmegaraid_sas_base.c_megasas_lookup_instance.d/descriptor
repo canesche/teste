@@ -1,0 +1,4 @@
+struct megasas_instance | host struct TYPE_3__ * 
+struct TYPE_4__ | max_index int | instance struct megasas_instance ** 
+struct TYPE_3__ | host_no long 
+function megasas_lookup_instance struct megasas_instance * | host_no long

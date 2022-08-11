@@ -1,0 +1,6 @@
+struct TYPE_10__ | pActiveClass struct TYPE_7__ * 
+struct TYPE_8__ | n unsigned long 
+struct TYPE_9__ | storinfo int * | storids struct TYPE_8__ 
+struct TYPE_11__ | info struct TYPE_9__ | is_ready long 
+struct TYPE_7__ | pData struct TYPE_11__ * 
+function USBH_MTP_GetStorageInfo int | phost struct TYPE_10__ * | storage_idx unsigned long | info int *

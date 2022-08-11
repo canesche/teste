@@ -1,0 +1,3 @@
+struct mii_bus | dummy int 
+struct mdio_device | dummy int 
+function of_mdiobus_link_mdiodev void | mdio struct mii_bus * | mdiodev struct mdio_device *

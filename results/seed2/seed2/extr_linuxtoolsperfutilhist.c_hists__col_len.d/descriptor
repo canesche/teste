@@ -1,0 +1,2 @@
+struct hists | col_len int * 
+function hists__col_len int | hists struct hists * | col enum hist_column

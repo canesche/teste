@@ -1,0 +1,3 @@
+struct TYPE_5__ | metadatahdr struct TYPE_4__ * 
+struct TYPE_4__ | Version int 
+function assembly_get_runtime_version int | assembly struct TYPE_5__ * | version int *

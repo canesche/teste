@@ -1,0 +1,1 @@
+function msm_iommu_capable int | cap enum iommu_cap

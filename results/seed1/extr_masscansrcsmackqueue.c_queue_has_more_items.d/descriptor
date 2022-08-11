@@ -1,2 +1,0 @@
-struct Queue | m_head int * 
-function queue_has_more_items unsigned int | queue struct Queue *

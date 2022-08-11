@@ -1,2 +1,0 @@
-struct usb_interface | dummy int 
-function skel_resume int | intf struct usb_interface *

@@ -1,2 +1,0 @@
-struct drm_crtc | dummy int 
-function drm_debugfs_crtc_remove void | crtc struct drm_crtc *

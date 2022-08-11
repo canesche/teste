@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxtoolstestingradix-treelinux........includelinuxradix-tree.h_radix_tree_is_internal_node.d/extr_linuxtoolstestingradix-treelinux........includelinuxradix-tree.h_radix_tree_is_internal_node_O0::radix_tree_is_internal_node(62)"
+  }
+]

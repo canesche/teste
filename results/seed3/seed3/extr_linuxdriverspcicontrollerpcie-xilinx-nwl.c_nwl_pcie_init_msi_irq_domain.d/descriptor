@@ -1,0 +1,2 @@
+struct nwl_pcie | dummy int 
+function nwl_pcie_init_msi_irq_domain int | pcie struct nwl_pcie *

@@ -1,0 +1,2 @@
+struct pt_regs | gpr unsigned long * | ccr int 
+function emulate_isel int | regs struct pt_regs * | instword int

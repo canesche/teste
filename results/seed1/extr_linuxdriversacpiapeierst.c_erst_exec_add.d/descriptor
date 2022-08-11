@@ -1,3 +1,0 @@
-struct apei_exec_context | var2 long | var1 int 
-struct acpi_whea_header | dummy int 
-function erst_exec_add int | ctx struct apei_exec_context * | entry struct acpi_whea_header *

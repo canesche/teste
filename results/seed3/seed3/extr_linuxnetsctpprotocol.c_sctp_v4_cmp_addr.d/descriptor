@@ -1,0 +1,5 @@
+struct TYPE_5__ | s_addr long 
+struct TYPE_6__ | sin_port long | sin_addr struct TYPE_5__ 
+struct TYPE_4__ | sa_family long 
+struct sctp_addr | v4 struct TYPE_6__ | sa struct TYPE_4__ 
+function sctp_v4_cmp_addr int | addr1 const union sctp_addr * | addr2 const union sctp_addr *

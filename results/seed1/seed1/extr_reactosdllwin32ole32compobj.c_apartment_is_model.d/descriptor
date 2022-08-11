@@ -1,0 +1,2 @@
+struct TYPE_3__ | multi_threaded int 
+function apartment_is_model int | apt const struct TYPE_3__ * | model int

@@ -1,0 +1,1 @@
+value(srcWidth) == 255, value(srcHeight) == 255, value(srcStride) == 255, value(dstStride) == 255, length(src) == 65025, length(dst) == 65025

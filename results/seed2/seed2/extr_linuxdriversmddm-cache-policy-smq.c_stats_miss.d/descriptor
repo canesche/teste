@@ -1,0 +1,2 @@
+struct stats | misses int 
+function stats_miss void | s struct stats *

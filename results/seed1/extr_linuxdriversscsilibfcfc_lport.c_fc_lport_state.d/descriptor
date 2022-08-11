@@ -1,2 +1,0 @@
-struct fc_lport | state unsigned long 
-function fc_lport_state const char * | lport struct fc_lport *

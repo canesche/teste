@@ -1,3 +1,0 @@
-struct TYPE_4__ | lpVtbl int * 
-struct TYPE_5__ | data int * | outer int * | IDispatchEx_iface struct TYPE_4__ 
-function init_dispex void | dispex struct TYPE_5__ * | outer int * | data int *

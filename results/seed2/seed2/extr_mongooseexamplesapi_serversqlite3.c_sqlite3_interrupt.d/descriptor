@@ -1,0 +1,3 @@
+struct TYPE_4__ | isInterrupted int 
+struct TYPE_5__ | u1 struct TYPE_4__ 
+function sqlite3_interrupt void | db struct TYPE_5__ *

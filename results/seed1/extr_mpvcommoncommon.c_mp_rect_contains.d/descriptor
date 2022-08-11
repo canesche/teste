@@ -1,2 +1,0 @@
-struct mp_rect | x0 int | x1 int | y0 int | y1 int 
-function mp_rect_contains int | rc struct mp_rect * | x int | y int

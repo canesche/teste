@@ -1,0 +1,1 @@
+function add_wav void | dest unsigned int * | n int | skip_first int | m int * | s1 const unsigned int * | s2 const int * | s3 const int *

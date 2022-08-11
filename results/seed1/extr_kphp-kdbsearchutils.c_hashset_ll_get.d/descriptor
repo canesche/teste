@@ -1,2 +1,0 @@
-struct hashset_ll | size unsigned int | h long long * 
-function hashset_ll_get int | H struct hashset_ll * | id long long

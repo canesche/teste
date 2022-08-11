@@ -1,0 +1,2 @@
+struct mlx5_ib_qp | dummy int 
+function is_atomic_response int | qp struct mlx5_ib_qp * | idx int

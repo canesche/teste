@@ -1,0 +1,2 @@
+struct TYPE_3__ | data char * | len int 
+function ngx_parse_time char | line struct TYPE_3__ * | is_sec int

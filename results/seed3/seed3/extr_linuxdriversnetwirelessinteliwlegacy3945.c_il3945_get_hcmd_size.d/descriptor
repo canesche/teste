@@ -1,0 +1,3 @@
+struct il3945_rxon_cmd | dummy int 
+struct il3945_powertable_cmd | dummy int 
+function il3945_get_hcmd_size int | cmd_id int | len int

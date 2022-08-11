@@ -1,0 +1,2 @@
+struct pci_bus | cur_bus_speed int 
+function pcie_update_link_speed void | bus struct pci_bus * | linksta unsigned long

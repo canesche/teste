@@ -1,0 +1,2 @@
+struct atm_dev | dummy int 
+function atm_proc_dev_deregister void | dev struct atm_dev *

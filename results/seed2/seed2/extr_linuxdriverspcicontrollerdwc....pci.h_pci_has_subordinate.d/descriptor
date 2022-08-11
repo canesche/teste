@@ -1,0 +1,2 @@
+struct pci_dev | subordinate int 
+function pci_has_subordinate int | pci_dev struct pci_dev *

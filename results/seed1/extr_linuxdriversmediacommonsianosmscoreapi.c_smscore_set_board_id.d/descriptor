@@ -1,2 +1,0 @@
-struct smscore_device_t | board_id int 
-function smscore_set_board_id void | core struct smscore_device_t * | id int

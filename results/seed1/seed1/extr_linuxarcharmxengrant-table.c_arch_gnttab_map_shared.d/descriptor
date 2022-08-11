@@ -1,0 +1,1 @@
+function arch_gnttab_map_shared int | frames int * | nr_gframes unsigned long | max_nr_gframes unsigned long | __shared void **

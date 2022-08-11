@@ -1,2 +1,0 @@
-struct pp_hwmgr | dummy int 
-function phm_get_lowest_enabled_level int | hwmgr struct pp_hwmgr * | mask int

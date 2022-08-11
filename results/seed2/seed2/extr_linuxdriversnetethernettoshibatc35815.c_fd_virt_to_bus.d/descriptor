@@ -1,0 +1,2 @@
+struct tc35815_local | fd_buf long | fd_buf_dma long 
+function fd_virt_to_bus long | lp struct tc35815_local * | virt void *

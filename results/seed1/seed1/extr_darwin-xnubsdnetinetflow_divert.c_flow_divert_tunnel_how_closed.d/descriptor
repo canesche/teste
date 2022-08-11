@@ -1,0 +1,2 @@
+struct flow_divert_pcb | flags int 
+function flow_divert_tunnel_how_closed int | fd_cb struct flow_divert_pcb *

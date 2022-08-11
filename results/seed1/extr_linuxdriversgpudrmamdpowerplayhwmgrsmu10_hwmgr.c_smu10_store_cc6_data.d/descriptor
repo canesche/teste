@@ -1,3 +1,0 @@
-struct smu10_hwmgr | separation_time long | cc6_disable int | pstate_disable int | cc6_setting_changed int 
-struct pp_hwmgr | backend long 
-function smu10_store_cc6_data int | hwmgr struct pp_hwmgr * | separation_time long | cc6_disable int | pstate_disable int | pstate_switch_disable int

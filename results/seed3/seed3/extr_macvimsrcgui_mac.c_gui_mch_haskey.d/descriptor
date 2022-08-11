@@ -1,0 +1,2 @@
+struct TYPE_2__ | key_sym long | vim_code0 long | vim_code1 long 
+function gui_mch_haskey int | name long *

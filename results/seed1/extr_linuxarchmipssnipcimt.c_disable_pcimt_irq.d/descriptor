@@ -1,2 +1,0 @@
-struct irq_data | irq int 
-function disable_pcimt_irq void | d struct irq_data *

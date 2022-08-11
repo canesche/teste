@@ -1,0 +1,2 @@
+struct mag3110_data | ctrl_reg1 int 
+function mag3110_calculate_sleep int | data struct mag3110_data *

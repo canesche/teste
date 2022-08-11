@@ -1,0 +1,6 @@
+struct usb_interface | altsetting struct usb_host_interface * 
+struct TYPE_3__ | bNumEndpoints int 
+struct usb_host_interface | endpoint struct TYPE_4__ * | desc struct TYPE_3__ 
+struct usb_endpoint_descriptor | bEndpointAddress int 
+struct TYPE_4__ | desc struct usb_endpoint_descriptor 
+function pcan_usb_probe int | intf struct usb_interface *

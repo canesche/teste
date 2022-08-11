@@ -1,0 +1,5 @@
+struct videobuf_queue | last void * | field void * | priv_data struct cx18_stream * 
+struct cx18_stream | cx struct cx18 * 
+struct TYPE_2__ | width int | height int 
+struct cx18 | cxhdl struct TYPE_2__ 
+function buffer_setup int | q struct videobuf_queue * | count unsigned int * | size unsigned int *

@@ -1,0 +1,1 @@
+function only_spaces_and_periods int | path const char * | len unsigned long | skip unsigned long

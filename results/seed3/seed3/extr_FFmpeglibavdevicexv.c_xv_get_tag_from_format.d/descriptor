@@ -1,0 +1,2 @@
+struct TYPE_3__ | tag int | format int 
+function xv_get_tag_from_format int | format enum AVPixelFormat

@@ -1,0 +1,5 @@
+struct nf_dccp_net | dummy int 
+struct TYPE_3__ | dccp struct nf_dccp_net 
+struct TYPE_4__ | nf_ct_proto struct TYPE_3__ 
+struct net | ct struct TYPE_4__ 
+function dccp_pernet struct nf_dccp_net * | net struct net *

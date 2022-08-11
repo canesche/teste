@@ -1,2 +1,0 @@
-struct uart_port | fifosize unsigned int | timeout unsigned int 
-function uart_update_timeout void | port struct uart_port * | cflag unsigned int | baud unsigned int

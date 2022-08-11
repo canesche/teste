@@ -1,0 +1,2 @@
+struct TYPE_3__ | tei_entity long 
+function isIpEntity int | tcpFile int | ent struct TYPE_3__ *

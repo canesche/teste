@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversstagingmt7621-ethmdio_mt7620.c_mtk_speed_str.d/extr_linuxdriversstagingmt7621-ethmdio_mt7620.c_mtk_speed_str_O0::mtk_speed_str(63)"
+  }
+]

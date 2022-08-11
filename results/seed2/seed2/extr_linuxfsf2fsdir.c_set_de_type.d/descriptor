@@ -1,0 +1,2 @@
+struct f2fs_dir_entry | file_type int 
+function set_de_type void | de struct f2fs_dir_entry * | mode unsigned long

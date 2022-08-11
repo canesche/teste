@@ -1,2 +1,0 @@
-struct drm_device | dummy int 
-function gma_backlight_init int | dev struct drm_device *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversnetethernetbroadcombnx2.c_bnx2_get_sset_count.d/extr_linuxdriversnetethernetbroadcombnx2.c_bnx2_get_sset_count_O0::bnx2_get_sset_count(67)"
+  }
+]

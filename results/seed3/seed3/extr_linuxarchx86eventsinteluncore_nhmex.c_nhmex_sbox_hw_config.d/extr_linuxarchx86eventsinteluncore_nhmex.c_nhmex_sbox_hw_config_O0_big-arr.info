@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxarchx86eventsinteluncore_nhmex.c_nhmex_sbox_hw_config.d/extr_linuxarchx86eventsinteluncore_nhmex.c_nhmex_sbox_hw_config_O0::nhmex_sbox_hw_config(72)"
+  }
+]

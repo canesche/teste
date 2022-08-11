@@ -1,0 +1,3 @@
+struct ioat_raw_descriptor | field long * 
+struct ioat_pq_descriptor | coef int * 
+function pq_set_src void | descs struct ioat_raw_descriptor *[2] | addr long | offset long | coef int | idx int

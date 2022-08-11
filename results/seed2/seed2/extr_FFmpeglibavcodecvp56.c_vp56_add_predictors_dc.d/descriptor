@@ -1,0 +1,5 @@
+struct TYPE_8__ | ref_frame long | dc_coeff int 
+struct TYPE_9__ | idct_scantable int * | above_block_idx unsigned long * | prev_dc int ** | block_coeff int ** | dequant_dc int | avctx struct TYPE_7__ * | left_block struct TYPE_8__ * | above_blocks struct TYPE_8__ * 
+struct TYPE_7__ | codec struct TYPE_6__ * 
+struct TYPE_6__ | id long 
+function vp56_add_predictors_dc void | s struct TYPE_9__ * | ref_frame long

@@ -1,0 +1,3 @@
+struct smu10_hwmgr | gfx_max_freq_limit int | gfx_min_freq_limit int 
+struct pp_hwmgr | backend long 
+function smu10_dpm_get_sclk int | hwmgr struct pp_hwmgr * | low int

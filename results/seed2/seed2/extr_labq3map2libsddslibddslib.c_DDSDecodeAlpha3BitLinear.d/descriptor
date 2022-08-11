@@ -1,0 +1,3 @@
+struct TYPE_4__ | a unsigned char | b long | g long | r long 
+struct TYPE_5__ | alpha0 unsigned short | alpha1 unsigned short | stuff int * 
+function DDSDecodeAlpha3BitLinear void | pixel unsigned int * | alphaBlock struct TYPE_5__ * | width int | alphaZero unsigned int

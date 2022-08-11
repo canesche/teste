@@ -1,3 +1,0 @@
-struct intel_version | dummy int 
-struct hci_dev | dummy int 
-function btintel_version_info void | hdev struct hci_dev * | ver struct intel_version *

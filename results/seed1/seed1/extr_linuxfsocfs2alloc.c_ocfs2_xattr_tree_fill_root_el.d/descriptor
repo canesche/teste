@@ -1,0 +1,5 @@
+struct TYPE_3__ | xt_list int 
+struct TYPE_4__ | xb_root struct TYPE_3__ 
+struct ocfs2_xattr_block | xb_attrs struct TYPE_4__ 
+struct ocfs2_extent_tree | et_root_el int * | et_object struct ocfs2_xattr_block * 
+function ocfs2_xattr_tree_fill_root_el void | et struct ocfs2_extent_tree *

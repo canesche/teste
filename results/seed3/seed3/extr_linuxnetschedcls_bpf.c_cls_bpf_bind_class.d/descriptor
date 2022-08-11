@@ -1,0 +1,3 @@
+struct TYPE_2__ | classid long | class unsigned long 
+struct cls_bpf_prog | res struct TYPE_2__ 
+function cls_bpf_bind_class void | fh void * | classid long | cl unsigned long

@@ -1,2 +1,0 @@
-struct davinci_spi | tx const int * 
-function davinci_spi_tx_buf_u8 int | dspi struct davinci_spi *

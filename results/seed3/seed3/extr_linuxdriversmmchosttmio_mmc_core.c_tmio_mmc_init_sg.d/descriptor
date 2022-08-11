@@ -1,0 +1,3 @@
+struct tmio_mmc_host | sg_off long | sg_orig int | sg_ptr int | sg_len int 
+struct mmc_data | sg int | sg_len int 
+function tmio_mmc_init_sg void | host struct tmio_mmc_host * | data struct mmc_data *

@@ -1,0 +1,2 @@
+struct kern_ipc_perm | security int * 
+function smack_ipc_free_security void | isp struct kern_ipc_perm *

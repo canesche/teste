@@ -1,0 +1,4 @@
+struct TYPE_3__ | session_key_encryption_key int * 
+struct TYPE_4__ | password struct TYPE_3__ 
+struct ecryptfs_auth_tok | token struct TYPE_4__ 
+function ecryptfs_get_auth_tok_key int * | auth_tok struct ecryptfs_auth_tok *

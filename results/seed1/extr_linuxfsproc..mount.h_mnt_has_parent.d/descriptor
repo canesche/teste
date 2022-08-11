@@ -1,2 +1,0 @@
-struct mount | mnt_parent struct mount * 
-function mnt_has_parent int | mnt struct mount *

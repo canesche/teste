@@ -1,0 +1,1 @@
+function findchar_fast const char * | buf const char * | buf_end const char * | ranges const char * | ranges_size unsigned long | found int *

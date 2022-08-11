@@ -1,0 +1,6 @@
+struct iscsi_tcp_conn | dd_data struct iscsi_sw_tcp_conn * 
+struct iscsi_segment | total_copied int | total_size int 
+struct TYPE_2__ | segment struct iscsi_segment 
+struct iscsi_sw_tcp_conn | out struct TYPE_2__ 
+struct iscsi_conn | dd_data struct iscsi_tcp_conn * 
+function iscsi_sw_tcp_xmit_qlen int | conn struct iscsi_conn *

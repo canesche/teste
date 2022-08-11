@@ -1,0 +1,2 @@
+struct dma_pte | val long 
+function dma_clear_pte void | pte struct dma_pte *

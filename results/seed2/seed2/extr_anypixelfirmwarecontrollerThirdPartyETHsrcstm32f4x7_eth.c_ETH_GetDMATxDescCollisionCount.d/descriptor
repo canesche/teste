@@ -1,0 +1,2 @@
+struct TYPE_3__ | Status int 
+function ETH_GetDMATxDescCollisionCount int | DMATxDesc struct TYPE_3__ *

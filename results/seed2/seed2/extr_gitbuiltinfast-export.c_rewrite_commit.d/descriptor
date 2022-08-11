@@ -1,0 +1,4 @@
+struct TYPE_3__ | flags int 
+struct commit | parents struct TYPE_4__ * | object struct TYPE_3__ 
+struct TYPE_4__ | item struct commit * | next long 
+function rewrite_commit struct commit * | p struct commit *

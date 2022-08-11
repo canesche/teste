@@ -1,0 +1,3 @@
+struct pci_dev | devfn int | bus struct TYPE_2__ * 
+struct TYPE_2__ | number int 
+function dcaid_from_pcidev int | pci struct pci_dev *

@@ -1,0 +1,1 @@
+function _swab void | src char * | dst char * | sizeToCopy int

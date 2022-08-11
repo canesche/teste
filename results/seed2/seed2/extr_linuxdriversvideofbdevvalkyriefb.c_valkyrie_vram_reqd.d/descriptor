@@ -1,0 +1,2 @@
+struct valkyrie_regvals | pitch int * | vres int 
+function valkyrie_vram_reqd int | video_mode int | color_mode int

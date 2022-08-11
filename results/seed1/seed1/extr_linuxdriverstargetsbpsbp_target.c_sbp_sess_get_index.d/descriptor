@@ -1,0 +1,2 @@
+struct se_session | dummy int 
+function sbp_sess_get_index int | se_sess struct se_session *

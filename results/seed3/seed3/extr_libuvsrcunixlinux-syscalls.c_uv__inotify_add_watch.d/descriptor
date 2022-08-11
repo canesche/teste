@@ -1,0 +1,1 @@
+function uv__inotify_add_watch int | fd int | path const char * | mask int

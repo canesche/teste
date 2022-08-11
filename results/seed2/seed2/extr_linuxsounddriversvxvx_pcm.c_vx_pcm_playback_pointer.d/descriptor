@@ -1,0 +1,4 @@
+struct vx_pipe | position int 
+struct snd_pcm_substream | runtime struct snd_pcm_runtime * 
+struct snd_pcm_runtime | private_data struct vx_pipe * 
+function vx_pcm_playback_pointer int | subs struct snd_pcm_substream *

@@ -1,0 +1,2 @@
+struct kvm_userspace_memory_region | flags int 
+function check_memory_region_flags int | mem const struct kvm_userspace_memory_region *

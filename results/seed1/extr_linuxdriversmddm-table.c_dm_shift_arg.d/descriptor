@@ -1,2 +1,0 @@
-struct dm_arg_set | argv char ** | argc long 
-function dm_shift_arg const char * | as struct dm_arg_set *

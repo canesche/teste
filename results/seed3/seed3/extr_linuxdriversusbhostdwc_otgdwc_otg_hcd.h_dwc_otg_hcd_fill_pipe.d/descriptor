@@ -1,0 +1,2 @@
+struct dwc_otg_hcd_pipe_info | mps int | pipe_dir void * | pipe_type void * | ep_num void * | dev_addr void * 
+function dwc_otg_hcd_fill_pipe void | pipe struct dwc_otg_hcd_pipe_info * | devaddr void * | ep_num void * | pipe_type void * | pipe_dir void * | mps int

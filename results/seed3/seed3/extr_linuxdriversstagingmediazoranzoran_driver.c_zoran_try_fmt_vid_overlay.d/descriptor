@@ -1,0 +1,8 @@
+struct zoran_fh | zr struct zoran * 
+struct zoran | dummy int 
+struct TYPE_4__ | width long | height long 
+struct TYPE_5__ | w struct TYPE_4__ 
+struct TYPE_6__ | win struct TYPE_5__ 
+struct v4l2_format | fmt struct TYPE_6__ 
+struct file | dummy int 
+function zoran_try_fmt_vid_overlay int | file struct file * | __fh void * | fmt struct v4l2_format *

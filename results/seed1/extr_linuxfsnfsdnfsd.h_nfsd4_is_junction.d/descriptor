@@ -1,2 +1,0 @@
-struct dentry | dummy int 
-function nfsd4_is_junction int | dentry struct dentry *

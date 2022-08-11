@@ -1,0 +1,5 @@
+struct ov2680_mode_info | dummy int 
+struct TYPE_3__ | numerator int | denominator int 
+struct TYPE_4__ | width int | height int | colorspace int | field int | code int 
+struct ov2680_dev | mode_pending_changes int | current_mode const struct ov2680_mode_info * | frame_interval struct TYPE_3__ | fmt struct TYPE_4__ 
+function ov2680_mode_init int | sensor struct ov2680_dev *

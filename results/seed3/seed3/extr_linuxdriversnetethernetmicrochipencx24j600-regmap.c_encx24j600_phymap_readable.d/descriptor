@@ -1,0 +1,2 @@
+struct device | dummy int 
+function encx24j600_phymap_readable int | dev struct device * | reg unsigned int

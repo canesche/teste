@@ -1,0 +1,2 @@
+struct TYPE_3__ | log_id unsigned char * | log_id_len unsigned long 
+function SCT_get0_log_id unsigned long | sct const struct TYPE_3__ * | log_id unsigned char **

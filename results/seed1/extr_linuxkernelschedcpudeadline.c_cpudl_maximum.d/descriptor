@@ -1,3 +1,0 @@
-struct cpudl | elements struct TYPE_2__ * 
-struct TYPE_2__ | cpu int 
-function cpudl_maximum int | cp struct cpudl *

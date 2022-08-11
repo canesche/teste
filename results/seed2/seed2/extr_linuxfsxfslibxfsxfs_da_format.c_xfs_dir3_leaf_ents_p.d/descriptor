@@ -1,0 +1,4 @@
+struct xfs_dir3_leaf | __ents struct xfs_dir2_leaf_entry * 
+struct xfs_dir2_leaf_entry | dummy int 
+struct xfs_dir2_leaf | dummy int 
+function xfs_dir3_leaf_ents_p struct xfs_dir2_leaf_entry * | lp struct xfs_dir2_leaf *

@@ -1,0 +1,7 @@
+struct TYPE_6__ | psi1_enable long | psi0_enable long 
+struct TYPE_4__ | UlvPhaseSheddingPsi1 void * | UlvPhaseSheddingPsi0 void * | UlvGfxclkBypass void * | UlvMp1clkDid void * | UlvSmnclkDid void * | UlvOffsetVid void * 
+struct TYPE_5__ | pp_table struct TYPE_4__ 
+struct vega10_hwmgr | vddc_voltage_table struct TYPE_6__ | smc_state_table struct TYPE_5__ 
+struct pp_hwmgr | pptable long | backend struct vega10_hwmgr * 
+struct phm_ppt_v2_information | us_ulv_gfxclk_bypass long | us_ulv_mp1clk_did long | us_ulv_smnclk_did long | us_ulv_voltage_offset long 
+function vega10_populate_ulv_state int | hwmgr struct pp_hwmgr *

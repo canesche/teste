@@ -1,0 +1,2 @@
+struct dma_pub | txnobuf long | rxnobuf long | rxgiants long 
+function dma_counterreset void | pub struct dma_pub *

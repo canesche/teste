@@ -1,0 +1,2 @@
+struct work_struct | dummy int 
+function scif_mmu_notif_handler void | work struct work_struct *

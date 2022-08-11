@@ -1,1 +1,0 @@
-value(channel) == 255, length(pwr_level_ofdm) == 65025, length(pwr_level_bw20) == 65025, length(pwr_level_bw40) == 65025, length(ofdmbase) == 65025, length(mcs_base) == 65025, length(adapt) == 65025

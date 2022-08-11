@@ -1,0 +1,2 @@
+struct AVCodecContext | dummy int 
+function get_hwaccel_format enum AVPixelFormat | s struct AVCodecContext * | fmt const enum AVPixelFormat *

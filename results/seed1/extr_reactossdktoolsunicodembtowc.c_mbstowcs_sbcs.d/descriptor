@@ -1,2 +1,0 @@
-struct sbcs_table | cp2uni int * | cp2uni_glyphs int * 
-function mbstowcs_sbcs int | table const struct sbcs_table * | flags int | src const unsigned char * | srclen unsigned int | dst int * | dstlen unsigned int

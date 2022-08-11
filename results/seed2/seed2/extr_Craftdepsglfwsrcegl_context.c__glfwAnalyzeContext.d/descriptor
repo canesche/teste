@@ -1,0 +1,1 @@
+function _glfwAnalyzeContext int | window const int * | ctxconfig const int * | fbconfig const int *

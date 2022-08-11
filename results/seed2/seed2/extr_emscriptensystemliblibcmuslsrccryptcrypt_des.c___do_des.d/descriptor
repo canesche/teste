@@ -1,0 +1,2 @@
+struct expanded_key | l int * | r int * 
+function __do_des void | l_in int | r_in int | l_out int * | r_out int * | count int | saltbits int | ekey const struct expanded_key *

@@ -1,0 +1,2 @@
+struct module | dummy int 
+function del_usage_links void | mod struct module *

@@ -1,0 +1,9 @@
+struct tcpcb | t_maxopd long | t_maxseg long | t_cached_maxopd long 
+struct ifnet | if_link_status struct TYPE_9__ * 
+struct if_cellular_status_v1 | valid_bitmask int | mss_recommended long 
+struct TYPE_10__ | tcps_mss_to_low int | tcps_mss_to_medium int | tcps_mss_to_default int 
+struct TYPE_6__ | if_status_v1 struct if_cellular_status_v1 
+struct TYPE_7__ | if_cell_u struct TYPE_6__ 
+struct TYPE_8__ | ifsr_cell struct TYPE_7__ 
+struct TYPE_9__ | ifsr_u struct TYPE_8__ 
+function tcp_update_mss_core void | tp struct tcpcb * | ifp struct ifnet *

@@ -1,0 +1,1 @@
+function armpmu_map_hw_event int | event_map unsigned int const (*)[PERF_COUNT_HW_MAX] | config unsigned long

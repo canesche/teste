@@ -1,2 +1,0 @@
-struct cmtp_session | msgnum int 
-function cmtp_msgnum_get int | session struct cmtp_session *

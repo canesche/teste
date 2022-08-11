@@ -1,3 +1,0 @@
-struct dss_device | feat struct TYPE_2__ * 
-struct TYPE_2__ | outputs int * 
-function dss_get_supported_outputs enum omap_dss_output_id | dss struct dss_device * | channel enum omap_channel

@@ -1,0 +1,3 @@
+struct tps65217_bl_pdata | dummy int 
+struct platform_device | dummy int 
+function tps65217_bl_parse_dt struct tps65217_bl_pdata * | pdev struct platform_device *

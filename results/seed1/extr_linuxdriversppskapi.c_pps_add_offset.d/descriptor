@@ -1,2 +1,0 @@
-struct pps_ktime | nsec long | sec long 
-function pps_add_offset void | ts struct pps_ktime * | offset struct pps_ktime *

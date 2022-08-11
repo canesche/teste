@@ -1,2 +1,0 @@
-struct TYPE_3__ | sc_size int | sc_buffer long 
-function stackshot_config_set_size_hint int | stackshot_config struct TYPE_3__ * | suggested_size int

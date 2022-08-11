@@ -1,3 +1,0 @@
-struct TYPE_4__ | QuadFunc void * 
-struct TYPE_5__ | RenderMode long | Driver struct TYPE_4__ | NoRaster long 
-function gl_set_quad_function void | ctx struct TYPE_5__ *

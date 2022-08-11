@@ -1,0 +1,2 @@
+struct isc_format | isc_support int | sd_support long 
+function sensor_is_preferred int | isc_fmt const struct isc_format *

@@ -1,0 +1,2 @@
+struct phy_device | dummy int 
+function genphy_write_mmd_unsupported int | phdev struct phy_device * | devnum int | regnum int | val int

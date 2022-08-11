@@ -1,0 +1,4 @@
+struct kvm_mmu_pages | nr int | page struct TYPE_2__ * 
+struct kvm_mmu_page | unsync long 
+struct TYPE_2__ | idx int | sp struct kvm_mmu_page * 
+function mmu_pages_add int | pvec struct kvm_mmu_pages * | sp struct kvm_mmu_page * | idx int

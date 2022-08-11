@@ -1,1 +1,0 @@
-function drm_get_connector_status_name const char * | status enum drm_connector_status

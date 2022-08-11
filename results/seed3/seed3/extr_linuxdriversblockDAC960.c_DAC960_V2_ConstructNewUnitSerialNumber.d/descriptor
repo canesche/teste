@@ -1,0 +1,9 @@
+struct TYPE_13__ | NewInquiryUnitSerialNumberDMA int 
+struct TYPE_18__ | V2 struct TYPE_13__ 
+struct TYPE_15__ | ScatterGatherSegments struct TYPE_14__ * 
+struct TYPE_12__ | LogicalUnit int | TargetID int | Channel int 
+struct TYPE_11__ | DataTransferControllerToHost int | NoAutoRequestSense int 
+struct TYPE_16__ | DataTransferSize int | CDBLength int | SCSI_CDB int * | DataTransferMemoryAddress struct TYPE_15__ | PhysicalDevice struct TYPE_12__ | CommandControlBits struct TYPE_11__ | CommandOpcode int 
+struct TYPE_17__ | SCSI_10 struct TYPE_16__ 
+struct TYPE_14__ | SegmentByteCount int | SegmentDataPointer int 
+function DAC960_V2_ConstructNewUnitSerialNumber void | Controller struct TYPE_18__ * | CommandMailbox struct TYPE_17__ * | Channel int | TargetID int | LogicalUnit int

@@ -1,2 +1,0 @@
-struct platform_device | dummy int 
-function da850_pupd_remove int | pdev struct platform_device *

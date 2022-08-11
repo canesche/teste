@@ -1,0 +1,4 @@
+struct TYPE_6__ | tableLen unsigned int | entries struct TYPE_5__ * 
+struct TYPE_7__ | seekTable struct TYPE_6__ 
+struct TYPE_5__ | cOffset unsigned long long 
+function ZSTD_seekable_getFrameCompressedOffset unsigned long long | zs struct TYPE_7__ *const | frameIndex unsigned int

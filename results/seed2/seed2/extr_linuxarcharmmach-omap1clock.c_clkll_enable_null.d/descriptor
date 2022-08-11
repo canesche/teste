@@ -1,0 +1,2 @@
+struct clk | dummy int 
+function clkll_enable_null int | clk struct clk *

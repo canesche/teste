@@ -1,0 +1,4 @@
+struct tcphdr | doff int 
+struct sk_buff | data long 
+struct ip_vs_iphdr | len int 
+function ip_vs_ftp_data_ptr char * | skb struct sk_buff * | ipvsh struct ip_vs_iphdr *

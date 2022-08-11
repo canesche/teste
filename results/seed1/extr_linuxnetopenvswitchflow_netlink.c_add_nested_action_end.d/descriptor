@@ -1,3 +1,0 @@
-struct sw_flow_actions | actions_len long | actions long 
-struct nlattr | nla_len long 
-function add_nested_action_end void | sfa struct sw_flow_actions * | st_offset int

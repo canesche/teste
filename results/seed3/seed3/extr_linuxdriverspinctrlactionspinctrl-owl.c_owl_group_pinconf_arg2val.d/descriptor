@@ -1,0 +1,2 @@
+struct owl_pingroup | dummy int 
+function owl_group_pinconf_arg2val int | g const struct owl_pingroup * | param unsigned int | arg int *

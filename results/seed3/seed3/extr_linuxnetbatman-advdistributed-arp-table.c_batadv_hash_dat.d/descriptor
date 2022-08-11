@@ -1,0 +1,2 @@
+struct batadv_dat_entry | vid int | ip int 
+function batadv_hash_dat int | data const void * | size int

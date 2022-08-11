@@ -1,3 +1,0 @@
-struct usb_request | dummy int 
-struct usb_ep | dummy int 
-function nop_completion void | ep struct usb_ep * | r struct usb_request *

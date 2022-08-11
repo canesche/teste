@@ -1,0 +1,1 @@
+function get_cos float | idx int | part int | cos_tab const float * | size int

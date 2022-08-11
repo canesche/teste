@@ -1,2 +1,0 @@
-struct nfp_eth_table_port | fec_modes_supported int 
-function nfp_eth_can_support_fec int | eth_port struct nfp_eth_table_port *

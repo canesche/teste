@@ -1,0 +1,2 @@
+struct tps62360_chip | lru_index int * | curr_vset_vsel int * 
+function find_voltage_set_register int | tps struct tps62360_chip * | req_vsel int | vset_reg_id int *

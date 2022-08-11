@@ -1,2 +1,0 @@
-struct radeon_bo | dummy int 
-function radeon_mn_register int | bo struct radeon_bo * | addr unsigned long

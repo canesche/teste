@@ -1,3 +1,0 @@
-struct TYPE_5__ | style int | line_count int | selection_end int | first_line_def struct TYPE_4__ * 
-struct TYPE_4__ | length int | next struct TYPE_4__ * 
-function EDIT_EM_LineIndex int | es const struct TYPE_5__ * | line int

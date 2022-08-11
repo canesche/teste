@@ -1,0 +1,2 @@
+struct clock_event_device | dummy int 
+function mtk_syst_clkevt_oneshot int | clkevt struct clock_event_device *

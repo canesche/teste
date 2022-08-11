@@ -1,2 +1,0 @@
-struct crypto_shash | dummy int 
-function null_hash_setkey int | tfm struct crypto_shash * | key const int * | keylen unsigned int

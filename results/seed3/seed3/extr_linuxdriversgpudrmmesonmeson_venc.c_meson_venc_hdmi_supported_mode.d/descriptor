@@ -1,0 +1,2 @@
+struct drm_display_mode | flags int | hdisplay int | vdisplay int 
+function meson_venc_hdmi_supported_mode enum drm_mode_status | mode const struct drm_display_mode *

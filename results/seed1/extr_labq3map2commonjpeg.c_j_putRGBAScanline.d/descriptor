@@ -1,1 +1,0 @@
-function j_putRGBAScanline void | jpegline unsigned char * | widthPix int | outBuf unsigned char * | row int

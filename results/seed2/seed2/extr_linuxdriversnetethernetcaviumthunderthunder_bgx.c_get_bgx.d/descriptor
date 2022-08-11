@@ -1,0 +1,2 @@
+struct bgx | dummy int 
+function get_bgx struct bgx * | node int | bgx_idx int

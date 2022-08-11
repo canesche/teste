@@ -1,0 +1,2 @@
+struct DbgHelpStringTab | Table const char *** 
+function DbgHelpGetString const char * | tab struct DbgHelpStringTab * | id int

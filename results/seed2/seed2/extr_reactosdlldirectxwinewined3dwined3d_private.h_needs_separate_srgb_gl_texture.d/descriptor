@@ -1,0 +1,6 @@
+struct TYPE_4__ | format_flags unsigned int 
+struct wined3d_texture | resource struct TYPE_4__ 
+struct wined3d_context | d3d_info struct TYPE_6__ * | gl_info struct TYPE_5__ * 
+struct TYPE_6__ | wined3d_creation_flags int 
+struct TYPE_5__ | supported int * 
+function needs_separate_srgb_gl_texture int | context const struct wined3d_context * | texture const struct wined3d_texture *

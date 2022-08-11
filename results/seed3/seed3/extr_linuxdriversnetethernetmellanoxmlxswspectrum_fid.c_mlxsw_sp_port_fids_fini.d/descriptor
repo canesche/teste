@@ -1,0 +1,4 @@
+struct mlxsw_sp_port | local_port unsigned long | mlxsw_sp struct mlxsw_sp * 
+struct mlxsw_sp | fid_core struct TYPE_2__ * 
+struct TYPE_2__ | port_fid_mappings long * 
+function mlxsw_sp_port_fids_fini void | mlxsw_sp_port struct mlxsw_sp_port *

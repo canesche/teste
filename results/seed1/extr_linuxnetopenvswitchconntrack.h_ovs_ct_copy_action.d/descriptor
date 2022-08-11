@@ -1,5 +1,0 @@
-struct sw_flow_key | dummy int 
-struct sw_flow_actions | dummy int 
-struct nlattr | dummy int 
-struct net | dummy int 
-function ovs_ct_copy_action int | net struct net * | nla const struct nlattr * | key const struct sw_flow_key * | acts struct sw_flow_actions ** | log int

@@ -1,0 +1,4 @@
+struct TYPE_4__ | array struct TYPE_3__ * 
+struct sci_unsolicited_frame_control | buffers struct TYPE_4__ 
+struct TYPE_3__ | buffer void * 
+function sci_unsolicited_frame_control_get_buffer enum sci_status | uf_control struct sci_unsolicited_frame_control * | frame_index unsigned long | frame_buffer void **

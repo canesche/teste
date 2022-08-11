@@ -1,0 +1,3 @@
+struct media_pad | dummy int 
+struct media_entity | dummy int 
+function fimc_is_link_setup int | entity struct media_entity * | local const struct media_pad * | remote const struct media_pad * | flags int

@@ -1,2 +1,0 @@
-struct uasm_reloc | lab long | addr int * 
-function uasm_move_relocs void | rel struct uasm_reloc * | first int * | end int * | off long

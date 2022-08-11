@@ -1,0 +1,3 @@
+struct TYPE_2__ | di_projid_lo int | di_projid_hi long 
+struct xfs_inode | i_d struct TYPE_2__ 
+function xfs_get_projid int | ip struct xfs_inode *

@@ -1,2 +1,0 @@
-struct reset_controller_dev | dummy int 
-function gemini_reset_deassert int | rcdev struct reset_controller_dev * | id unsigned long

@@ -1,0 +1,2 @@
+struct zone | dummy int 
+function saveable_highmem_page void * | z struct zone * | p unsigned long

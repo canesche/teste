@@ -1,0 +1,3 @@
+struct TYPE_4__ | tmds_setting_info struct TYPE_3__ * 
+struct TYPE_3__ | h_active int | v_active int | iga_path long 
+function viafb_update_device_setting void | hres int | vres int | bpp int | flag int

@@ -1,0 +1,3 @@
+struct TYPE_3__ | apicaddr unsigned int 
+struct TYPE_4__ | mp_config struct TYPE_3__ 
+function mpc_ioapic_addr unsigned int | ioapic_idx int

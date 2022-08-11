@@ -1,0 +1,4 @@
+struct TYPE_8__ | rebase_info struct TYPE_6__ * 
+struct TYPE_7__ | address int 
+struct TYPE_6__ | kernel_base int 
+function r_parse_pointer int | ptr struct TYPE_7__ * | decorated_addr int | obj struct TYPE_8__ *

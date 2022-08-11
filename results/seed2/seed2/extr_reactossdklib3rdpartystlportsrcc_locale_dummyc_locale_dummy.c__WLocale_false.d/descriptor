@@ -1,0 +1,2 @@
+struct _Locale_numeric | dummy int 
+function _WLocale_false const char * | lnum struct _Locale_numeric * | buf char * | bufSize unsigned long

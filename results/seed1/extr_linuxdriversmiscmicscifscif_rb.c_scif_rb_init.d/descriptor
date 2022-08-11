@@ -1,2 +1,0 @@
-struct scif_rb | size int | read_ptr void ** | write_ptr void ** | current_write_offset void * | current_read_offset void * | rb_base void * 
-function scif_rb_init void | rb struct scif_rb * | read_ptr void ** | write_ptr void ** | rb_base void * | size int

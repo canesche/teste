@@ -1,0 +1,4 @@
+struct sk_buff | dummy int 
+struct ath_tx_control | dummy int 
+struct ath_softc | dummy int 
+function ath9k_tx99_send int | sc struct ath_softc * | skb struct sk_buff * | txctl struct ath_tx_control *

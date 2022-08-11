@@ -1,0 +1,2 @@
+struct noise_level | valid_cnt int * | sum int * 
+function phydm_set_noise_data_sum void | noise_data struct noise_level * | max_rf_path unsigned long

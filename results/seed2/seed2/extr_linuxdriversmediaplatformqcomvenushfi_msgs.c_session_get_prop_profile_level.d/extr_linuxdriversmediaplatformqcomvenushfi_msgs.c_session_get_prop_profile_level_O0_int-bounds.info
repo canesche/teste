@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversmediaplatformqcomvenushfi_msgs.c_session_get_prop_profile_level.d/extr_linuxdriversmediaplatformqcomvenushfi_msgs.c_session_get_prop_profile_level_O0::session_get_prop_profile_level(71)"
+  }
+]

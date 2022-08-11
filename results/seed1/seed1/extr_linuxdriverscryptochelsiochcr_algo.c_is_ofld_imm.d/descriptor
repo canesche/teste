@@ -1,0 +1,2 @@
+struct sk_buff | len long 
+function is_ofld_imm int | skb const struct sk_buff *

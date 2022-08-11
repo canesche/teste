@@ -1,0 +1,2 @@
+struct klist_node | n_klist int * 
+function klist_node_attached int | n struct klist_node *

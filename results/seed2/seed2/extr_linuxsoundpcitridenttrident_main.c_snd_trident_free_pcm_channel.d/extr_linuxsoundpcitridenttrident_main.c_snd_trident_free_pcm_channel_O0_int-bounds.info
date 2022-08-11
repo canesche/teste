@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxsoundpcitridenttrident_main.c_snd_trident_free_pcm_channel.d/extr_linuxsoundpcitridenttrident_main.c_snd_trident_free_pcm_channel_O0::snd_trident_free_pcm_channel(62)"
+  }
+]

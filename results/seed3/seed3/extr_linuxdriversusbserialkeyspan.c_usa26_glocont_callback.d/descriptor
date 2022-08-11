@@ -1,0 +1,2 @@
+struct urb | dummy int 
+function usa26_glocont_callback void | urb struct urb *

@@ -1,0 +1,9 @@
+struct TYPE_16__ | ctx struct TYPE_15__ * 
+struct TYPE_11__ | half_closed long 
+struct TYPE_10__ | half_closed long 
+struct TYPE_12__ | push struct TYPE_11__ | pull struct TYPE_10__ 
+struct TYPE_17__ | super struct TYPE_16__ | num_streams struct TYPE_12__ 
+struct TYPE_15__ | globalconf struct TYPE_14__ * 
+struct TYPE_13__ | max_concurrent_requests_per_connection long 
+struct TYPE_14__ | http2 struct TYPE_13__ 
+function can_run_requests int | conn struct TYPE_17__ *

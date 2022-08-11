@@ -1,0 +1,1 @@
+function avfilter_add_matrix void | m1 const float * | m2 const float * | result float *

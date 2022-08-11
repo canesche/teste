@@ -1,0 +1,3 @@
+struct TYPE_2__ | high_precision long | blocking_io long 
+struct sht3x_data | mode long | wait_time long | command int | setup struct TYPE_2__ 
+function sht3x_select_command void | data struct sht3x_data *

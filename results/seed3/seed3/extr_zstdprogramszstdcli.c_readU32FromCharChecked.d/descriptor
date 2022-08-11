@@ -1,0 +1,1 @@
+function readU32FromCharChecked int | stringPtr const char ** | value unsigned int *

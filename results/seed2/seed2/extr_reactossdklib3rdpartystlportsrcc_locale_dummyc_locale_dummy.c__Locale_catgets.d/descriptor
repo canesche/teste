@@ -1,0 +1,2 @@
+struct _Locale_messages | dummy int 
+function _Locale_catgets const char * | lmes struct _Locale_messages * | cat int | setid int | msgid int | dfault const char *

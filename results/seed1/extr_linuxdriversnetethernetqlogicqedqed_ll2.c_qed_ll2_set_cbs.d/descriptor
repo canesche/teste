@@ -1,4 +1,0 @@
-struct TYPE_2__ | cookie long | slowpath_cb int | tx_release_cb long | tx_comp_cb long | rx_release_cb long | rx_comp_cb long 
-struct qed_ll2_info | cbs struct TYPE_2__ 
-struct qed_ll2_cbs | cookie long | slowpath_cb int | tx_release_cb long | tx_comp_cb long | rx_release_cb long | rx_comp_cb long 
-function qed_ll2_set_cbs int | p_ll2_info struct qed_ll2_info * | cbs const struct qed_ll2_cbs *

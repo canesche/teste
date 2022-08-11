@@ -1,5 +1,0 @@
-struct TYPE_6__ | length int 
-struct TYPE_5__ | length int 
-struct TYPE_4__ | length int 
-struct fb_var_screeninfo | bits_per_pixel int | blue struct TYPE_6__ | green struct TYPE_5__ | red struct TYPE_4__ 
-function pm3fb_depth int | var const struct fb_var_screeninfo *

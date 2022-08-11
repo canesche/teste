@@ -1,0 +1,2 @@
+struct encrypted_key_payload | dummy int 
+function dump_encrypted_data void | epayload struct encrypted_key_payload * | encrypted_datalen unsigned int

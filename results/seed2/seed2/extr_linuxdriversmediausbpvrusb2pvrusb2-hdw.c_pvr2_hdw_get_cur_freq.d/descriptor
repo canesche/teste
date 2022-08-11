@@ -1,0 +1,2 @@
+struct pvr2_hdw | freqValTelevision unsigned long | freqValRadio unsigned long | freqSelector long 
+function pvr2_hdw_get_cur_freq unsigned long | hdw struct pvr2_hdw *

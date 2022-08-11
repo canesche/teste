@@ -1,0 +1,5 @@
+struct pqi_scsi_dev | raid_bypass_enabled int | aio_enabled int 
+struct pqi_io_request | scmd struct TYPE_4__ * 
+struct TYPE_4__ | device struct TYPE_3__ * 
+struct TYPE_3__ | hostdata struct pqi_scsi_dev * 
+function pqi_aio_path_disabled void | io_request struct pqi_io_request *

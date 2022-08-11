@@ -1,2 +1,0 @@
-struct media_gobj | dummy int 
-function dev_dbg_obj void | event_name const char * | gobj struct media_gobj *

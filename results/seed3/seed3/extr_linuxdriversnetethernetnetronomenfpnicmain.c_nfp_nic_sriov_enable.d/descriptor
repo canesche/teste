@@ -1,0 +1,2 @@
+struct nfp_app | dummy int 
+function nfp_nic_sriov_enable int | app struct nfp_app * | num_vfs int

@@ -1,3 +1,0 @@
-struct TYPE_4__ | accepted_fd int | queued_fds struct TYPE_5__ * | ipc int 
-struct TYPE_5__ | offset int 
-function uv_pipe_pending_count int | handle struct TYPE_4__ *

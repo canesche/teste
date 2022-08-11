@@ -1,0 +1,2 @@
+struct irq_matrix | global_reserved unsigned int 
+function irq_matrix_reserved unsigned int | m struct irq_matrix *

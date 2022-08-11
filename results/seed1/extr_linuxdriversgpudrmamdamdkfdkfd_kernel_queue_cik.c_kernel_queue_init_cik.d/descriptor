@@ -1,2 +1,0 @@
-struct kernel_queue_ops | submit_packet int | uninitialize int | initialize int 
-function kernel_queue_init_cik void | ops struct kernel_queue_ops *

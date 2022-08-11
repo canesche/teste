@@ -1,0 +1,3 @@
+struct neofb_par | MiscOutReg int | Sequencer int * | CRTC int * | Graphics int * | Attribute int * 
+struct fb_var_screeninfo | xres int | right_margin int | hsync_len int | left_margin int | yres int | lower_margin int | vsync_len int | upper_margin int | sync int | vmode int | xres_virtual int 
+function vgaHWInit int | var const struct fb_var_screeninfo * | par struct neofb_par *

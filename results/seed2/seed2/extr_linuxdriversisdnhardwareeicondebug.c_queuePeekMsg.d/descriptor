@@ -1,0 +1,3 @@
+struct TYPE_5__ | Size int 
+struct TYPE_4__ | Wrap int | Tail int * | Head long 
+function queuePeekMsg int * | Q struct TYPE_4__ * | size int *

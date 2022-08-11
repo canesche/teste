@@ -1,0 +1,4 @@
+struct sk_buff | dummy int 
+struct ath_vif | dummy int 
+struct ath_softc | dummy int 
+function ath9k_beacon_add_noa void | sc struct ath_softc * | avp struct ath_vif * | skb struct sk_buff *

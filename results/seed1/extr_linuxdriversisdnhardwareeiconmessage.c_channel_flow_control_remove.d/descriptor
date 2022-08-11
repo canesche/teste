@@ -1,3 +1,0 @@
-struct TYPE_5__ | ch_flow_plci long * | ch_flow_control long * 
-struct TYPE_4__ | Id long | adapter struct TYPE_5__ * 
-function channel_flow_control_remove void | plci struct TYPE_4__ *

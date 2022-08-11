@@ -1,0 +1,3 @@
+struct TYPE_3__ | btdmAntNum long | pgAntNum long 
+struct TYPE_4__ | boardInfo struct TYPE_3__ 
+function EXhalbtcoutsrc_SetAntNum void | type long | antNum long

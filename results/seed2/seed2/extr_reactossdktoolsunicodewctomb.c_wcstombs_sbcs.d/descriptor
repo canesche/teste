@@ -1,0 +1,2 @@
+struct sbcs_table | uni2cp_low unsigned char * | uni2cp_high unsigned short * 
+function wcstombs_sbcs int | table const struct sbcs_table * | src const int * | srclen unsigned int | dst char * | dstlen unsigned int

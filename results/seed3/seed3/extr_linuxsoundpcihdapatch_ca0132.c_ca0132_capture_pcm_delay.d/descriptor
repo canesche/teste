@@ -1,0 +1,6 @@
+struct snd_pcm_substream | runtime struct snd_pcm_runtime * 
+struct snd_pcm_runtime | rate unsigned int 
+struct hda_pcm_stream | dummy int 
+struct hda_codec | spec struct ca0132_spec * 
+struct ca0132_spec | dsp_state long | effects_switch long * 
+function ca0132_capture_pcm_delay unsigned int | info struct hda_pcm_stream * | codec struct hda_codec * | substream struct snd_pcm_substream *

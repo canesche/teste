@@ -1,0 +1,2 @@
+struct page | mapping long 
+function __page_rmapping void * | page struct page *

@@ -1,5 +1,0 @@
-struct xdp_attachment_info | flags int | prog struct TYPE_4__ * 
-struct netdev_bpf | prog_flags int | prog_id int 
-struct TYPE_4__ | aux struct TYPE_3__ * 
-struct TYPE_3__ | id int 
-function xdp_attachment_query int | info struct xdp_attachment_info * | bpf struct netdev_bpf *

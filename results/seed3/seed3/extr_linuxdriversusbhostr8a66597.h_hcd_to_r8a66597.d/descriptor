@@ -1,0 +1,3 @@
+struct usb_hcd | hcd_priv long 
+struct r8a66597 | dummy int 
+function hcd_to_r8a66597 struct r8a66597 * | hcd struct usb_hcd *

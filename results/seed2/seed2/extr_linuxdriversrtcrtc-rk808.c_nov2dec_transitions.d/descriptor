@@ -1,0 +1,2 @@
+struct rtc_time | tm_year int | tm_mon int 
+function nov2dec_transitions int | tm struct rtc_time *

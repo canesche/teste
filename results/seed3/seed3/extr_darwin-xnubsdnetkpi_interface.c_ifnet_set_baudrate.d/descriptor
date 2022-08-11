@@ -1,0 +1,4 @@
+struct TYPE_4__ | max_bw int | eff_bw int 
+struct TYPE_3__ | max_bw int | eff_bw int 
+struct ifnet | if_baudrate int | if_input_bw struct TYPE_4__ | if_output_bw struct TYPE_3__ 
+function ifnet_set_baudrate int | ifp struct ifnet * | baudrate int

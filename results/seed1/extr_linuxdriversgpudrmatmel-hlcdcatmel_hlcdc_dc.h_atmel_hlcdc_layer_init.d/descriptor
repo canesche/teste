@@ -1,4 +1,0 @@
-struct regmap | dummy int 
-struct atmel_hlcdc_layer_desc | dummy int 
-struct atmel_hlcdc_layer | regmap struct regmap * | desc const struct atmel_hlcdc_layer_desc * 
-function atmel_hlcdc_layer_init void | layer struct atmel_hlcdc_layer * | desc const struct atmel_hlcdc_layer_desc * | regmap struct regmap *

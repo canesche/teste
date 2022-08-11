@@ -1,0 +1,2 @@
+struct TYPE_2__ | dwLocalAddr int | dwLocalPort int 
+function compareUdpRow int | a const void * | b const void *

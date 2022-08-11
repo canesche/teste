@@ -1,2 +1,0 @@
-struct TYPE_3__ | cr_posix int 
-function posix_cred_label void | cred struct TYPE_3__ * | pcred int *

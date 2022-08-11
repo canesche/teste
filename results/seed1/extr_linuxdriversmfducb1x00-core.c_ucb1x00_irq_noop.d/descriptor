@@ -1,2 +1,0 @@
-struct irq_data | dummy int 
-function ucb1x00_irq_noop void | data struct irq_data *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | typestring_offset unsigned int | tfswrite int 
+function update_tfsoff void | type struct TYPE_3__ * | offset unsigned int | file int *

@@ -1,0 +1,2 @@
+struct device_queue_manager_asic_ops | init_sdma_vm int | update_qpd int | set_cache_memory_policy int 
+function device_queue_manager_init_cik void | asic_ops struct device_queue_manager_asic_ops *

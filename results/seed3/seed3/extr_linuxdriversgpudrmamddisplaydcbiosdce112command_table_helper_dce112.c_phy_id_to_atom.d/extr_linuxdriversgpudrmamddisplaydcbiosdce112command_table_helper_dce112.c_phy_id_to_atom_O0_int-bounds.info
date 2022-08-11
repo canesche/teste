@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmamddisplaydcbiosdce112command_table_helper_dce112.c_phy_id_to_atom.d/extr_linuxdriversgpudrmamddisplaydcbiosdce112command_table_helper_dce112.c_phy_id_to_atom_O0::phy_id_to_atom(74)"
+  }
+]

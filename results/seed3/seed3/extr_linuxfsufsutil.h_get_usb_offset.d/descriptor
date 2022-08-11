@@ -1,0 +1,4 @@
+struct TYPE_4__ | bh struct TYPE_3__ ** 
+struct ufs_sb_private_info | s_fshift unsigned int | s_fmask unsigned int | s_ubh struct TYPE_4__ 
+struct TYPE_3__ | b_data void * 
+function get_usb_offset void * | uspi struct ufs_sb_private_info * | offset unsigned int

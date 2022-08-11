@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct rtllib_device | mgmt_queue_head int | mgmt_queue_ring struct sk_buff ** 
+function enqueue_mgmt void | ieee struct rtllib_device * | skb struct sk_buff *

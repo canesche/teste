@@ -1,0 +1,3 @@
+struct TYPE_2__ | dsiclk_sel int | vco_measure_time int | kvco_measure_time int | bandgap_timer int | pll_wakeup_timer int | plllock_cnt int | ssc_en int | ssc_spread int | ssc_freq int | ssc_adj_period int | pll_ie_trim int | pll_ip_trim int | pll_cpcset_cur int | pll_cpmset_cur int | pll_icpmset int | pll_icpcset int | pll_lpf_res1 int | pll_lpf_cap1 int | pll_lpf_cap2 int | pll_iptat_trim int | pll_c3ctrl int | pll_r3ctrl int | pll_icpcset_m long | pll_icpcset_p long | pll_icpmset_m long | pll_icpmset_p long | ssc_center long | plllock_rng long | refclk_dbler_en long | ldo_en long | fdata long | fref int 
+struct dsi_pll_14nm | in struct TYPE_2__ | vco_ref_clk_rate int 
+function dsi_pll_14nm_input_init void | pll struct dsi_pll_14nm *

@@ -1,0 +1,2 @@
+struct sock_xprt | tcp_offset long | tcp_reclen long | tcp_flags int | tcp_copied long 
+function xs_tcp_check_fraghdr void | transport struct sock_xprt *

@@ -1,0 +1,3 @@
+struct msg | dummy int 
+struct conn | dummy int 
+function memcache_swallow_msg void | conn struct conn * | pmsg struct msg * | msg struct msg *

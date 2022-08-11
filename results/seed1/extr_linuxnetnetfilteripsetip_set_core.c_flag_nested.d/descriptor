@@ -1,2 +1,0 @@
-struct nlattr | nla_type int 
-function flag_nested int | nla const struct nlattr *

@@ -1,0 +1,2 @@
+struct ath_desc | ds_link int 
+function ar9002_hw_set_desc_link void | ds void * | ds_link int

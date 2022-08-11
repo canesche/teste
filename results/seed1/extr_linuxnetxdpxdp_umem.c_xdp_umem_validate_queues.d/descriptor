@@ -1,2 +1,0 @@
-struct xdp_umem | cq long | fq long 
-function xdp_umem_validate_queues int | umem struct xdp_umem *

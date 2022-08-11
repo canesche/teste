@@ -1,2 +1,0 @@
-struct TYPE_3__ | mnt_maxsymlinklen int 
-function vfs_setmaxsymlen void | mp struct TYPE_3__ * | symlen int

@@ -1,2 +1,0 @@
-struct fimc_isp | dummy int 
-function fimc_isp_video_device_unregister void | isp struct fimc_isp * | type enum v4l2_buf_type

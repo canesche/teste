@@ -1,0 +1,1 @@
+function vpd_decode_len int | max_len const int | in const int * | length int * | decoded_len int *

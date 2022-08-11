@@ -1,2 +1,0 @@
-struct davinci_spi | rx long * 
-function davinci_spi_rx_buf_u16 void | data long | dspi struct davinci_spi *

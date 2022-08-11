@@ -1,0 +1,4 @@
+struct TYPE_3__ | camera_port int * 
+struct bm2835_mmal_dev | component struct TYPE_4__ ** | capture struct TYPE_3__ 
+struct TYPE_4__ | output int * 
+function is_capturing int | dev struct bm2835_mmal_dev *

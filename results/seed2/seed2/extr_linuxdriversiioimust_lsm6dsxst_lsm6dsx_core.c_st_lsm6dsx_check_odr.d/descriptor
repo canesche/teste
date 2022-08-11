@@ -1,0 +1,4 @@
+struct st_lsm6dsx_sensor | id unsigned long 
+struct TYPE_4__ | odr_avl struct TYPE_3__ * 
+struct TYPE_3__ | hz long | val int 
+function st_lsm6dsx_check_odr int | sensor struct st_lsm6dsx_sensor * | odr long | val int *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | element_id long 
+struct ieee_types_vendor_specific | vend_hdr struct TYPE_2__ 
+function has_vendor_hdr int | ie struct ieee_types_vendor_specific * | key long

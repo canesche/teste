@@ -1,0 +1,2 @@
+struct TYPE_2__ | hexsz int 
+function cmp_record_to_refname int | rec const char * | refname const char *

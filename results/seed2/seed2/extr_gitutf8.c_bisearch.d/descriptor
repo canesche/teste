@@ -1,0 +1,2 @@
+struct interval | first long | last long 
+function bisearch int | ucs long | table const struct interval * | max int

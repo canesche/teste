@@ -1,0 +1,2 @@
+struct qm_dqrr_entry | dummy int 
+function dqrr_carryclear const struct qm_dqrr_entry * | p const struct qm_dqrr_entry *

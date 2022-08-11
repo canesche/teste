@@ -1,0 +1,4 @@
+struct snd_soundfont | type int 
+struct snd_sf_zone | counter long 
+struct snd_sf_list | zone_counter long | zone_locked long 
+function set_zone_counter void | sflist struct snd_sf_list * | sf struct snd_soundfont * | zp struct snd_sf_zone *

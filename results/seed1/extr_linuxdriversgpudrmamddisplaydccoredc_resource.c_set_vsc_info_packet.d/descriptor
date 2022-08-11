@@ -1,3 +1,0 @@
-struct dc_stream_state | psr_version long 
-struct dc_info_packet | hb0 int | hb1 int | hb2 int | hb3 int | valid int | sb long * 
-function set_vsc_info_packet void | info_packet struct dc_info_packet * | stream struct dc_stream_state *

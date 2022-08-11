@@ -1,0 +1,2 @@
+struct bpf_map | offset int 
+function compare_bpf_map int | _a const void * | _b const void *

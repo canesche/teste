@@ -1,0 +1,2 @@
+struct ll_disk | dummy int 
+function disk_ll_max_entries unsigned long long | ll struct ll_disk *

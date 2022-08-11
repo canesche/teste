@@ -1,0 +1,2 @@
+struct device | release long 
+function scsi_is_sas_port int | dev const struct device *

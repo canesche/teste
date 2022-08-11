@@ -1,0 +1,2 @@
+struct _Locale_time | dummy int 
+function _Locale_full_dayofweek const char * | ltime struct _Locale_time * | n int

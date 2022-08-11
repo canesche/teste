@@ -1,0 +1,3 @@
+struct set_msi_sid_data | alias int | pdev struct pci_dev * 
+struct pci_dev | dummy int 
+function set_msi_sid_cb int | pdev struct pci_dev * | alias int | opaque void *

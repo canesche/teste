@@ -1,1 +1,0 @@
-function encode_residual_fixed void | res int * | smp const int * | n int | order int

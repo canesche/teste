@@ -1,0 +1,2 @@
+struct ib_uverbs_flow_spec_hdr | size int 
+function kern_spec_filter_sz unsigned long | spec const struct ib_uverbs_flow_spec_hdr *

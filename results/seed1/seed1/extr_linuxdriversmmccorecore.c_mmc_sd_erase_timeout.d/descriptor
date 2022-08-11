@@ -1,0 +1,3 @@
+struct TYPE_2__ | erase_timeout int | erase_offset unsigned int 
+struct mmc_card | ssr struct TYPE_2__ 
+function mmc_sd_erase_timeout unsigned int | card struct mmc_card * | arg unsigned int | qty unsigned int

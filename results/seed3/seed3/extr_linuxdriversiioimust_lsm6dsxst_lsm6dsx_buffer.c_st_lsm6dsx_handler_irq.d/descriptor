@@ -1,0 +1,2 @@
+struct st_lsm6dsx_hw | sip long 
+function st_lsm6dsx_handler_irq int | irq int | private void *

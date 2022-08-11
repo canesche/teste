@@ -1,0 +1,4 @@
+struct TYPE_7__ | kv int * 
+struct TYPE_6__ | o struct TYPE_5__ * 
+struct TYPE_5__ | bin_obj struct TYPE_7__ * 
+function get_sdb int * | bf struct TYPE_6__ *

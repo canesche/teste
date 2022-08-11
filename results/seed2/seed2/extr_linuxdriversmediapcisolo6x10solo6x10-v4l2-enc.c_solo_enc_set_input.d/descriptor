@@ -1,0 +1,2 @@
+struct file | dummy int 
+function solo_enc_set_input int | file struct file * | priv void * | index unsigned int

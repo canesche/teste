@@ -1,0 +1,3 @@
+struct proc_data | dummy int 
+struct TYPE_2__ | pdata struct proc_data * 
+function get_proc_status struct proc_data * | pid int

@@ -1,2 +1,0 @@
-struct pt_regs | dummy int 
-function is_errata100 int | regs struct pt_regs * | address unsigned long

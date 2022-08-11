@@ -1,0 +1,9 @@
+struct icp_qat_uof_uword_block | uword_offset long 
+struct icp_qat_uof_objtable | entry_num int 
+struct icp_qat_uof_image | dummy int 
+struct icp_qat_uof_encap_obj | beg_uof int 
+struct icp_qat_uof_code_page | code_area_offset int | beg_addr_p int | beg_addr_v int | page_region int | def_page int 
+struct icp_qat_uof_code_area | uword_block_tab long | micro_words_num int 
+struct icp_qat_uclo_encap_uwblock | micro_words long 
+struct icp_qat_uclo_encap_page | uwblock_num int | uwblock struct icp_qat_uclo_encap_uwblock * | micro_words_num int | beg_addr_p int | beg_addr_v int | page_region int | def_page int 
+function qat_uclo_map_image_page void | encap_uof_obj struct icp_qat_uof_encap_obj * | img struct icp_qat_uof_image * | page struct icp_qat_uclo_encap_page *

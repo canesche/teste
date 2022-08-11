@@ -1,0 +1,1 @@
+function handle_push_promise_frame int | conn int * | frame int * | err_desc const char **

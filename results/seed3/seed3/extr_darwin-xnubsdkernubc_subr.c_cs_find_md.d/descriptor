@@ -1,0 +1,2 @@
+struct cs_hash | dummy int 
+function cs_find_md const struct cs_hash * | type long

@@ -1,0 +1,6 @@
+struct TYPE_8__ | bulgeSpeed double | bulgeWidth const float | bulgeHeight float 
+struct TYPE_7__ | time double 
+struct TYPE_11__ | refdef struct TYPE_7__ 
+struct TYPE_10__ | numVertexes int | normal long | xyz long | texCoords long * 
+struct TYPE_9__ | sinTable float * 
+function RB_CalcBulgeVertexes void | ds struct TYPE_8__ *

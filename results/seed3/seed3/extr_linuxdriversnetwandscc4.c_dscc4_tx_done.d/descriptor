@@ -1,0 +1,2 @@
+struct dscc4_dev_priv | tx_current long | tx_dirty long 
+function dscc4_tx_done unsigned int | dpriv struct dscc4_dev_priv *

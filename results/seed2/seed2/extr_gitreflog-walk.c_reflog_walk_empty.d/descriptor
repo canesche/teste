@@ -1,0 +1,2 @@
+struct reflog_walk_info | nr int 
+function reflog_walk_empty int | info struct reflog_walk_info *

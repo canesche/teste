@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversinfinibandhwmlx5cong.c_mlx5_ib_param_to_node.d/extr_linuxdriversinfinibandhwmlx5cong.c_mlx5_ib_param_to_node_O0::mlx5_ib_param_to_node(65)"
+  }
+]

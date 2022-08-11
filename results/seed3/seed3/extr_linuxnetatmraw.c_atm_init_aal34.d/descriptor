@@ -1,0 +1,4 @@
+struct atm_vcc | dev struct TYPE_4__ * | send int | push_oam int * | pop int | push int 
+struct TYPE_4__ | ops struct TYPE_3__ * 
+struct TYPE_3__ | send int 
+function atm_init_aal34 int | vcc struct atm_vcc *

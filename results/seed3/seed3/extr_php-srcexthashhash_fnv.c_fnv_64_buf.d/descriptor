@@ -1,0 +1,1 @@
+function fnv_64_buf int | buf void * | len unsigned long | hval int | alternate int

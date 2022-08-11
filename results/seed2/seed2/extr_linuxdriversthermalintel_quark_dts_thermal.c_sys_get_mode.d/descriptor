@@ -1,0 +1,3 @@
+struct thermal_zone_device | devdata struct soc_sensor_entry * 
+struct soc_sensor_entry | mode int 
+function sys_get_mode int | tzd struct thermal_zone_device * | mode enum thermal_device_mode *

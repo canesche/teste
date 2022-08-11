@@ -1,0 +1,2 @@
+struct videomode | flags int 
+function tfp410_fix_timings void | vm struct videomode *

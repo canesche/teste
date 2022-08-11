@@ -1,0 +1,3 @@
+struct thermal_cooling_device | devdata struct gpio_fan_data * 
+struct gpio_fan_data | num_speed int 
+function gpio_fan_get_max_state int | cdev struct thermal_cooling_device * | state unsigned long *

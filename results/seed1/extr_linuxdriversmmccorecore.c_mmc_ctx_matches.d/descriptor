@@ -1,4 +1,0 @@
-struct task_struct | dummy int 
-struct mmc_host | claimer struct mmc_ctx * 
-struct mmc_ctx | task struct task_struct * 
-function mmc_ctx_matches int | host struct mmc_host * | ctx struct mmc_ctx * | task struct task_struct *

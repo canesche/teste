@@ -1,2 +1,0 @@
-struct pmu | dummy int 
-function perf_pmu_nop_void void | pmu struct pmu *

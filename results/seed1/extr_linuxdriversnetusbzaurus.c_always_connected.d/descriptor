@@ -1,2 +1,0 @@
-struct usbnet | dummy int 
-function always_connected int | dev struct usbnet *

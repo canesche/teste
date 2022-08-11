@@ -1,0 +1,2 @@
+struct nft_set_type | features int 
+function nft_set_ops_candidate int | type const struct nft_set_type * | flags int

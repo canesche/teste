@@ -1,0 +1,2 @@
+struct wm8994 | dummy int 
+function wm8994_set_pdata_from_of int | wm8994 struct wm8994 *

@@ -1,0 +1,2 @@
+struct bcm2835_pinctrl | irq_type unsigned int * 
+function __bcm2835_gpio_irq_set_type_disabled int | pc struct bcm2835_pinctrl * | offset unsigned int | type unsigned int

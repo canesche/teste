@@ -1,0 +1,1 @@
+function vector_fmul_add_c void | dst float * | src0 const float * | src1 const float * | src2 const float * | len int

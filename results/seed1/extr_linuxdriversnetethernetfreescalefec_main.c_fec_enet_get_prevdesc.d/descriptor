@@ -1,3 +1,0 @@
-struct bufdesc_prop | dsize void * | last struct bufdesc * | base struct bufdesc * 
-struct bufdesc | dummy int 
-function fec_enet_get_prevdesc struct bufdesc * | bdp struct bufdesc * | bd struct bufdesc_prop *

@@ -1,0 +1,1 @@
+function resolveLines int | pszInput long * | pbrk const long * | cch int

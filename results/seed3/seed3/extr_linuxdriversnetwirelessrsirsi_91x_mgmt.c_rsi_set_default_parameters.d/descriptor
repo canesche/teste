@@ -1,0 +1,2 @@
+struct rsi_common | channel int | min_rate int | iface_down int | driver_mode int | ulp_ps_handshake_mode int | obm_ant_sel_val int | dtim_cnt int | beacon_interval int | wlan_rf_power_mode long | rf_power_val long | lp_ps_handshake_mode long | endpoint int | fsm_state int | rts_threshold int | channel_width int | band int 
+function rsi_set_default_parameters void | common struct rsi_common *

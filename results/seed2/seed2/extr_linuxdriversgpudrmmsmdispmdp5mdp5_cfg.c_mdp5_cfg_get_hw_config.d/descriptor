@@ -1,0 +1,4 @@
+struct mdp5_cfg_hw | dummy int 
+struct TYPE_2__ | hw const struct mdp5_cfg_hw * 
+struct mdp5_cfg_handler | config struct TYPE_2__ 
+function mdp5_cfg_get_hw_config const struct mdp5_cfg_hw * | cfg_handler struct mdp5_cfg_handler *

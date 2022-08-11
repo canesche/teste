@@ -1,2 +1,0 @@
-struct cyclic_views_entry | dummy int 
-function subtract_CV int | CV_start struct cyclic_views_entry * | CV_end struct cyclic_views_entry *

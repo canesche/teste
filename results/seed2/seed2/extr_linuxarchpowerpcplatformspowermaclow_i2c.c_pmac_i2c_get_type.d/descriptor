@@ -1,0 +1,2 @@
+struct pmac_i2c_bus | type int 
+function pmac_i2c_get_type int | bus struct pmac_i2c_bus *

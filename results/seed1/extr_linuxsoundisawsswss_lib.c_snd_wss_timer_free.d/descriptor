@@ -1,3 +1,0 @@
-struct snd_wss | timer int * 
-struct snd_timer | private_data struct snd_wss * 
-function snd_wss_timer_free void | timer struct snd_timer *

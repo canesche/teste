@@ -1,0 +1,2 @@
+struct TYPE_3__ | inh_flags int 
+function X509_VERIFY_PARAM_set_inh_flags int | param struct TYPE_3__ * | flags int

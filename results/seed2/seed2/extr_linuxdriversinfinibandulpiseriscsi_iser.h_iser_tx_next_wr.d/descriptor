@@ -1,0 +1,4 @@
+struct iser_tx_desc | wr_idx unsigned long | wrs struct TYPE_2__ * 
+struct ib_send_wr | next struct ib_send_wr * 
+struct TYPE_2__ | send struct ib_send_wr 
+function iser_tx_next_wr struct ib_send_wr * | tx_desc struct iser_tx_desc *

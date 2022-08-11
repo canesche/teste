@@ -1,0 +1,2 @@
+struct lp55xx_predef_pattern | size_r long | size_g long | size_b long 
+function _is_pc_overflow int | ptn struct lp55xx_predef_pattern *

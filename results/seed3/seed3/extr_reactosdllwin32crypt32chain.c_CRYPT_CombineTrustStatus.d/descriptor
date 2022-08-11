@@ -1,0 +1,2 @@
+struct TYPE_4__ | dwInfoStatus int | dwErrorStatus int 
+function CRYPT_CombineTrustStatus void | chainStatus struct TYPE_4__ * | elementStatus const struct TYPE_4__ *

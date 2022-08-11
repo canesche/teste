@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_BGAQRCode-Androidzbarsrcmainjnilibiconv-1.15libiso2022_cnext.h_iso2022_cn_ext_reset.d/extr_BGAQRCode-Androidzbarsrcmainjnilibiconv-1.15libiso2022_cnext.h_iso2022_cn_ext_reset_O0::iso2022_cn_ext_reset(73)"
+  }
+]

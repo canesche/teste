@@ -1,0 +1,2 @@
+struct TYPE_3__ | len unsigned long 
+function vstr_cut_tail_bytes void | vstr struct TYPE_3__ * | len unsigned long

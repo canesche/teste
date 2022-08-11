@@ -1,0 +1,4 @@
+struct pp_hwmgr | dummy int 
+struct phm_ppt_v1_clock_voltage_dependency_table | count long | entries struct TYPE_2__ * 
+struct TYPE_2__ | clk long 
+function vega10_get_uclk_index unsigned long | hwmgr struct pp_hwmgr * | mclk_table struct phm_ppt_v1_clock_voltage_dependency_table * | frequency long

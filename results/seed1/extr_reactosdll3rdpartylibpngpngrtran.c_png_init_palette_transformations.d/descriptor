@@ -1,2 +1,0 @@
-struct TYPE_3__ | num_trans long | trans_alpha int * | transformations int | flags int 
-function png_init_palette_transformations void | png_ptr struct TYPE_3__ *

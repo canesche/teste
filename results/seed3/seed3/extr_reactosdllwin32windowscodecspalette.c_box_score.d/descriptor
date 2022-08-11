@@ -1,0 +1,2 @@
+struct box | r_max unsigned int | r_min unsigned int | g_max unsigned int | g_min unsigned int | b_max unsigned int | b_min unsigned int 
+function box_score unsigned int | b struct box *

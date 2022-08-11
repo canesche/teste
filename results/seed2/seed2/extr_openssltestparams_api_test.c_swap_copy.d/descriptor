@@ -1,0 +1,1 @@
+function swap_copy void | out unsigned char * | in const void * | len unsigned long

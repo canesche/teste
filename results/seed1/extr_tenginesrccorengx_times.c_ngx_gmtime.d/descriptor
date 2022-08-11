@@ -1,2 +1,0 @@
-struct TYPE_3__ | ngx_tm_wday long | ngx_tm_year long | ngx_tm_mon long | ngx_tm_mday long | ngx_tm_hour long | ngx_tm_min long | ngx_tm_sec long 
-function ngx_gmtime void | t int | tp struct TYPE_3__ *

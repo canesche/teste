@@ -1,0 +1,5 @@
+struct hists | dso_filter int * 
+struct TYPE_4__ | map struct TYPE_3__ * 
+struct hist_entry | filtered int | ms struct TYPE_4__ 
+struct TYPE_3__ | dso int * 
+function hists__filter_entry_by_dso int | hists struct hists * | he struct hist_entry *

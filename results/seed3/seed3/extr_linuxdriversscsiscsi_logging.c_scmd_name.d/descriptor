@@ -1,0 +1,4 @@
+struct scsi_cmnd | request struct TYPE_4__ * 
+struct TYPE_4__ | rq_disk struct TYPE_3__ * 
+struct TYPE_3__ | disk_name const char * 
+function scmd_name const char * | scmd const struct scsi_cmnd *

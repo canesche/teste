@@ -1,0 +1,2 @@
+struct batadv_priv_debug_log | log_end long | log_start long 
+function batadv_log_empty int | debug_log struct batadv_priv_debug_log *

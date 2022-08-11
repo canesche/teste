@@ -1,0 +1,2 @@
+struct nfs_fattr | valid int 
+function nfs_attr_use_mounted_on_fileid int | fattr struct nfs_fattr *

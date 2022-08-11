@@ -1,0 +1,4 @@
+struct TYPE_2__ | upstream_port_number unsigned long 
+struct tb_switch | config struct TYPE_2__ | ports struct tb_port * 
+struct tb_port | dummy int 
+function tb_upstream_port struct tb_port * | sw struct tb_switch *

@@ -1,0 +1,2 @@
+struct pnp_option | flags int 
+function pnp_option_is_dependent int | option struct pnp_option *

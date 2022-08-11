@@ -1,0 +1,2 @@
+struct whc_std | ntds_remaining int 
+function whc_std_last int | std struct whc_std *

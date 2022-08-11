@@ -1,0 +1,1 @@
+function dump_bytes void | level enum debuglevel | tag const char * | bytes unsigned char * | count int

@@ -1,0 +1,3 @@
+struct TYPE_2__ | type int | sequence long 
+struct drm_wait_vblank | request struct TYPE_2__ 
+function drm_wait_vblank_is_query int | vblwait union drm_wait_vblank *

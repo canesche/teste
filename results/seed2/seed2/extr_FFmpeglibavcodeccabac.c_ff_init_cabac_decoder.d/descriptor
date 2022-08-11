@@ -1,0 +1,2 @@
+struct TYPE_3__ | low int | range int | bytestream const int * | bytestream_end const int * | bytestream_start const int * 
+function ff_init_cabac_decoder int | c struct TYPE_3__ * | buf const int * | buf_size int

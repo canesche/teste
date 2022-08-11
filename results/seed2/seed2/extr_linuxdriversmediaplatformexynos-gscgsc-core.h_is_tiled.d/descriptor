@@ -1,0 +1,2 @@
+struct gsc_fmt | pixelformat long 
+function is_tiled int | fmt const struct gsc_fmt *

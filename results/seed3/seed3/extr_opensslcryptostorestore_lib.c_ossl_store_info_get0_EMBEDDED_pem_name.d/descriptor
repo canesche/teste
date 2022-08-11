@@ -1,0 +1,4 @@
+struct TYPE_5__ | pem_name char * 
+struct TYPE_6__ | embedded struct TYPE_5__ 
+struct TYPE_7__ | type long | _ struct TYPE_6__ 
+function ossl_store_info_get0_EMBEDDED_pem_name char * | info struct TYPE_7__ *

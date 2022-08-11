@@ -1,0 +1,2 @@
+struct object_id | dummy int 
+function combine_notes_ignore int | cur_oid struct object_id * | new_oid const struct object_id *

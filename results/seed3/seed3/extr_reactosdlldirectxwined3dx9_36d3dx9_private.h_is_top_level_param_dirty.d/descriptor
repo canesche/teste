@@ -1,0 +1,3 @@
+struct d3dx_top_level_parameter | update_version long | shared_data struct d3dx_shared_data * 
+struct d3dx_shared_data | update_version long 
+function is_top_level_param_dirty int | param struct d3dx_top_level_parameter * | update_version long

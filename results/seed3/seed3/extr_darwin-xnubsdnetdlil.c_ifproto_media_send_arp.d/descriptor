@@ -1,0 +1,4 @@
+struct sockaddr_dl | dummy int 
+struct sockaddr | dummy int 
+struct ifnet | dummy int 
+function ifproto_media_send_arp int | ifp struct ifnet * | arpop int | sender_hw const struct sockaddr_dl * | sender_proto const struct sockaddr * | target_hw const struct sockaddr_dl * | target_proto const struct sockaddr *

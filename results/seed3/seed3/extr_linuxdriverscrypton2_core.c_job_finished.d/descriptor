@@ -1,0 +1,2 @@
+struct spu_queue | dummy int 
+function job_finished int | q struct spu_queue * | offset unsigned int | old_head unsigned long | new_head unsigned long

@@ -1,0 +1,2 @@
+struct curl_pushheaders | dummy int 
+function curl_pushheader_bynum char * | h struct curl_pushheaders * | num unsigned long

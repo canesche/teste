@@ -1,0 +1,2 @@
+struct axisang | x float | y float | z float | w float 
+function axisang_set void | dst struct axisang * | x float | y float | z float | w float

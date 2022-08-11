@@ -1,0 +1,3 @@
+struct usbnet | data int 
+struct mcs7830_data | dummy int 
+function mcs7830_get_data struct mcs7830_data * | dev struct usbnet *

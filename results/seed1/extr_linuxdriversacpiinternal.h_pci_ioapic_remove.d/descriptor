@@ -1,2 +1,0 @@
-struct acpi_pci_root | dummy int 
-function pci_ioapic_remove void | root struct acpi_pci_root *

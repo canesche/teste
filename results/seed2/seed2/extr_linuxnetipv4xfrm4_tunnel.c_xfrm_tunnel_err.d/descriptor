@@ -1,0 +1,2 @@
+struct sk_buff | dummy int 
+function xfrm_tunnel_err int | skb struct sk_buff * | info int

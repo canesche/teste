@@ -1,0 +1,2 @@
+struct mtd_info | dummy int 
+function lpc32xx_nand_ecc_calculate int | mtd struct mtd_info * | buf const unsigned char * | code unsigned char *

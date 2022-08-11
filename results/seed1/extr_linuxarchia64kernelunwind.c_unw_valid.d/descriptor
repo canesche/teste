@@ -1,4 +1,0 @@
-struct TYPE_4__ | top unsigned long | limit unsigned long 
-struct TYPE_3__ | limit unsigned long | top unsigned long 
-struct unw_frame_info | memstk struct TYPE_4__ | regstk struct TYPE_3__ 
-function unw_valid int | info const struct unw_frame_info * | p unsigned long *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | diff_blocks double | tot_blocks double | diff_lines double | tot_lines double | uncomp_size double | raw_size double | comp_size double | avctx struct TYPE_4__ * 
+struct TYPE_4__ | gop_size long 
+function recommend_keyframe void | s struct TYPE_5__ * | keyframe int *

@@ -1,0 +1,2 @@
+struct mlx5_rate_limit | rate long | max_burst_sz long | typical_pkt_sz long 
+function mlx5_rl_are_equal int | rl_0 struct mlx5_rate_limit * | rl_1 struct mlx5_rate_limit *

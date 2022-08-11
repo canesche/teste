@@ -1,0 +1,4 @@
+struct TYPE_3__ | minimum int 
+struct TYPE_4__ | io struct TYPE_3__ 
+struct acpi_resource | type int | data struct TYPE_4__ 
+function pvpanic_walk_resources int | res struct acpi_resource * | context void *

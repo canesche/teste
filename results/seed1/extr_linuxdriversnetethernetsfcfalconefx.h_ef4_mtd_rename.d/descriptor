@@ -1,2 +1,0 @@
-struct ef4_nic | dummy int 
-function ef4_mtd_rename void | efx struct ef4_nic *

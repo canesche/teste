@@ -1,0 +1,2 @@
+struct nvkm_memory | dummy int 
+function nv04_instobj_release void | memory struct nvkm_memory *

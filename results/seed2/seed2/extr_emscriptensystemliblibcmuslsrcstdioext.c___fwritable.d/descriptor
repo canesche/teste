@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int 
+function __fwritable int | f struct TYPE_3__ *

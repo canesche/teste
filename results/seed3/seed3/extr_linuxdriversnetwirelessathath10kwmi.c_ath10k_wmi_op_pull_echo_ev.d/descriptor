@@ -1,0 +1,5 @@
+struct wmi_echo_event | value int 
+struct wmi_echo_ev_arg | value int 
+struct sk_buff | data long 
+struct ath10k | dummy int 
+function ath10k_wmi_op_pull_echo_ev int | ar struct ath10k * | skb struct sk_buff * | arg struct wmi_echo_ev_arg *

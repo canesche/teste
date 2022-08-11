@@ -1,0 +1,2 @@
+struct xgbe_phy_data | sfp_base int 
+function xgbe_phy_an_sfp_mode enum xgbe_an_mode | phy_data struct xgbe_phy_data *

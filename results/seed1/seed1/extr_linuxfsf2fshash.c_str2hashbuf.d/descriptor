@@ -1,0 +1,1 @@
+function str2hashbuf void | msg const unsigned char * | len unsigned long | buf unsigned int * | num int

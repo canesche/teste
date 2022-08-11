@@ -1,2 +1,0 @@
-struct amdgpu_device | dummy int 
-function kv_convert_8bit_index_to_voltage int | adev struct amdgpu_device * | voltage int

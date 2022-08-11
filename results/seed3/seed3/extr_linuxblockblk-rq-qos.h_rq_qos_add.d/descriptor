@@ -1,0 +1,3 @@
+struct rq_qos | next struct rq_qos * 
+struct request_queue | rq_qos struct rq_qos * 
+function rq_qos_add void | q struct request_queue * | rqos struct rq_qos *

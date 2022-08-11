@@ -1,0 +1,4 @@
+struct scsi_cmnd | dummy int 
+struct pvscsi_ctx | cmd struct scsi_cmnd * 
+struct pvscsi_adapter | req_depth unsigned long | cmd_map struct pvscsi_ctx * 
+function pvscsi_find_context struct pvscsi_ctx * | adapter const struct pvscsi_adapter * | cmd struct scsi_cmnd *

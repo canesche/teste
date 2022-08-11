@@ -1,0 +1,2 @@
+struct nfp_nsp | modified int 
+function nfp_nsp_config_modified int | state struct nfp_nsp *

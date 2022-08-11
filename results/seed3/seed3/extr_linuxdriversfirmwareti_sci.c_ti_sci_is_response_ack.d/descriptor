@@ -1,0 +1,2 @@
+struct ti_sci_msg_hdr | flags int 
+function ti_sci_is_response_ack int | r void *

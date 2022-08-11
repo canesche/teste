@@ -1,0 +1,2 @@
+struct TYPE_3__ | request_channel_layout int | channel_layout int | channels int 
+function ff_dca_set_channel_layout int | avctx struct TYPE_3__ * | ch_remap int * | dca_mask int

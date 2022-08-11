@@ -1,0 +1,1 @@
+function sqlite3_keyword_name int | i int | pzName const char ** | pnName int *

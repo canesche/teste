@@ -1,0 +1,6 @@
+struct TYPE_4__ | stat struct TYPE_3__ * 
+struct dtv_frontend_properties | block_error struct TYPE_4__ 
+struct dvb_frontend | dtv_property_cache struct dtv_frontend_properties | demodulator_priv struct cx24120_state * 
+struct cx24120_state | ucb_offset long 
+struct TYPE_3__ | scale long | uvalue long 
+function cx24120_read_ucblocks int | fe struct dvb_frontend * | ucblocks long *

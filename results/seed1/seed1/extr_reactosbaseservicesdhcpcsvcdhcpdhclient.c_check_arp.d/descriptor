@@ -1,0 +1,3 @@
+struct interface_info | dummy int 
+struct client_lease | dummy int 
+function check_arp int | ip struct interface_info * | lp struct client_lease *

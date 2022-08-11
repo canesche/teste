@@ -1,0 +1,2 @@
+struct stm_pll | idf unsigned long | ndiv unsigned long 
+function clk_pll4600c28_get_params int | input unsigned long | output unsigned long | pll struct stm_pll *

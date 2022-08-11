@@ -1,1 +1,0 @@
-function no_sub_motion_search int | s int * | mx_ptr int * | my_ptr int * | dmin int | src_index int | ref_index int | size int | h int

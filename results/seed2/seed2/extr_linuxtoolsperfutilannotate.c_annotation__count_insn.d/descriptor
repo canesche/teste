@@ -1,0 +1,2 @@
+struct annotation | offsets long * 
+function annotation__count_insn unsigned int | notes struct annotation * | start unsigned long | end unsigned long

@@ -1,3 +1,0 @@
-struct aac_dev | scan_counter long | hba_map struct TYPE_2__ ** 
-struct TYPE_2__ | scan_counter long 
-function aac_is_safw_scan_count_equal int | dev struct aac_dev * | bus int | target int

@@ -1,3 +1,0 @@
-struct smb_vol | dummy int 
-struct cifs_ses | dummy int 
-function cifs_set_cifscreds int | vol struct smb_vol * | ses struct cifs_ses *

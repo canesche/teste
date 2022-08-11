@@ -1,0 +1,4 @@
+struct TYPE_4__ | num unsigned long | array long * 
+struct keycode_list | list struct TYPE_4__ 
+struct TYPE_5__ | keycodes struct keycode_list * 
+function key_from_keycode int | context struct TYPE_5__ * | code long

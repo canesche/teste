@@ -1,0 +1,3 @@
+struct drm_encoder | dummy int 
+struct drm_display_mode | dummy int 
+function mtk_dsi_encoder_mode_fixup int | encoder struct drm_encoder * | mode const struct drm_display_mode * | adjusted_mode struct drm_display_mode *

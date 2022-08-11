@@ -1,0 +1,4 @@
+struct TYPE_2__ | bootup_uma_clock int 
+struct smu8_hwmgr | sys_info struct TYPE_2__ 
+struct pp_hwmgr | backend struct smu8_hwmgr * 
+function smu8_dpm_get_mclk int | hwmgr struct pp_hwmgr * | low int

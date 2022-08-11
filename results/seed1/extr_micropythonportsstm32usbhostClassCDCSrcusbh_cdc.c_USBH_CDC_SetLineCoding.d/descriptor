@@ -1,4 +1,0 @@
-struct TYPE_6__ | gState long | pActiveClass struct TYPE_5__ * 
-struct TYPE_7__ | pUserLineCoding int * | state int 
-struct TYPE_5__ | pData struct TYPE_7__ * 
-function USBH_CDC_SetLineCoding int | phost struct TYPE_6__ * | linecodin int *

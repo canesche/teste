@@ -1,0 +1,1 @@
+function validate_ascii_string int | var_name int * | match int | buffer int * | len unsigned long

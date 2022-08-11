@@ -1,2 +1,0 @@
-struct TYPE_3__ | ostate int 
-function euc_jisx0213_reset int | conv struct TYPE_3__ * | r unsigned char * | n unsigned long

@@ -1,0 +1,2 @@
+struct spi_device | dummy int 
+function spidev_probe_acpi void | spi struct spi_device *

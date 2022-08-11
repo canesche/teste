@@ -1,2 +1,0 @@
-struct txx9dmac_chan | dummy int 
-function txx9dmac_chan_set_INTENT void | dc struct txx9dmac_chan *

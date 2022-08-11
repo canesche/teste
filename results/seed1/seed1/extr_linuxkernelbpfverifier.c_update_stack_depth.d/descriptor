@@ -1,0 +1,4 @@
+struct bpf_verifier_env | subprog_info struct TYPE_2__ * 
+struct bpf_func_state | subprogno unsigned long 
+struct TYPE_2__ | stack_depth int 
+function update_stack_depth int | env struct bpf_verifier_env * | func const struct bpf_func_state * | off int

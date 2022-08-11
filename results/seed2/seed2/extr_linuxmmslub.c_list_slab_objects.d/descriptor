@@ -1,0 +1,3 @@
+struct page | dummy int 
+struct kmem_cache | dummy int 
+function list_slab_objects void | s struct kmem_cache * | page struct page * | text const char *

@@ -1,2 +1,0 @@
-struct TYPE_3__ | avail_out int | wptr int 
-function dns_write_iterator_advance int | B struct TYPE_3__ * | len int

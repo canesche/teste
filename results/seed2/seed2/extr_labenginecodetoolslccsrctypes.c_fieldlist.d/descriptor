@@ -1,0 +1,6 @@
+struct TYPE_10__ | sym struct TYPE_9__ * 
+struct TYPE_11__ | u struct TYPE_10__ 
+struct TYPE_7__ | flist int 
+struct TYPE_8__ | s struct TYPE_7__ 
+struct TYPE_9__ | u struct TYPE_8__ 
+function fieldlist int | ty struct TYPE_11__ *

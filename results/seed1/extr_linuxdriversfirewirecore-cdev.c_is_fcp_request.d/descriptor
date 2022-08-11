@@ -1,2 +1,0 @@
-struct fw_request | dummy int 
-function is_fcp_request int | request struct fw_request *

@@ -1,0 +1,3 @@
+struct grep_pat | token long | next struct grep_pat * 
+struct grep_opt | pattern_list struct grep_pat * | invert long | extended long 
+function should_lookahead int | opt struct grep_opt *

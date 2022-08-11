@@ -1,3 +1,0 @@
-struct device_node | dummy int 
-struct TYPE_2__ | board_flags int 
-function generic_dev_can_wake long | node struct device_node * | param long | value long

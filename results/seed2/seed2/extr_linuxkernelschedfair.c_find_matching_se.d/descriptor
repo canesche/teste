@@ -1,0 +1,2 @@
+struct sched_entity | dummy int 
+function find_matching_se void | se struct sched_entity ** | pse struct sched_entity **

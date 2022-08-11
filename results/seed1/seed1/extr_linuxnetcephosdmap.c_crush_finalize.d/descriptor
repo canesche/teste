@@ -1,0 +1,5 @@
+struct crush_work_bucket | dummy int 
+struct crush_work | dummy int 
+struct crush_map | working_size int | max_buckets int | buckets struct TYPE_2__ ** 
+struct TYPE_2__ | alg int | size int 
+function crush_finalize void | c struct crush_map *

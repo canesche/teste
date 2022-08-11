@@ -1,0 +1,4 @@
+struct TYPE_3__ | fd int | target_copy int * | alternate int * | shstrtab int 
+struct TYPE_4__ | elf struct TYPE_3__ 
+struct image_file_map | u struct TYPE_4__ 
+function elf_reset_file_map void | fmap struct image_file_map *

@@ -1,0 +1,2 @@
+struct priv | vol unsigned int 
+function volcb void | addr void * | newvol unsigned int

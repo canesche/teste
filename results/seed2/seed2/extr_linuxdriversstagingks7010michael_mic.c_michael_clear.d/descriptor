@@ -1,0 +1,2 @@
+struct michael_mic | m_bytes long | k1 int | r int | k0 int | l int 
+function michael_clear void | mic struct michael_mic *

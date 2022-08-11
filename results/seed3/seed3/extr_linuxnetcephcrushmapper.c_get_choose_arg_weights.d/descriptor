@@ -1,0 +1,4 @@
+struct crush_choose_arg | weight_set_size int | weight_set struct TYPE_2__ * 
+struct crush_bucket_straw2 | item_weights int * 
+struct TYPE_2__ | weights int * 
+function get_choose_arg_weights int * | bucket const struct crush_bucket_straw2 * | arg const struct crush_choose_arg * | position int

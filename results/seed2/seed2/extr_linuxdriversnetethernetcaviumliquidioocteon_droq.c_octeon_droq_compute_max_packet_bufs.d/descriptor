@@ -1,0 +1,2 @@
+struct octeon_droq | max_empty_descs long | max_count long | buffer_size long 
+function octeon_droq_compute_max_packet_bufs void | droq struct octeon_droq *

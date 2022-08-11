@@ -1,0 +1,3 @@
+struct emac_instance | rx_slot unsigned long | rx_desc struct TYPE_2__ * 
+struct TYPE_2__ | ctrl int 
+function emac_peek_rx int | param void *

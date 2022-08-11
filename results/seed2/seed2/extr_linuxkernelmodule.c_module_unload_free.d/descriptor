@@ -1,0 +1,2 @@
+struct module | dummy int 
+function module_unload_free void | mod struct module *

@@ -1,0 +1,2 @@
+struct mm_struct | total_vm unsigned long 
+function task_vsize unsigned long | mm struct mm_struct *

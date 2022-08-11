@@ -1,2 +1,0 @@
-struct TYPE_2__ | ptr_priority int | ptr_arg void * | ptr_event_cb int 
-function console_ptr_register void | event_cb int | arg void * | pri int

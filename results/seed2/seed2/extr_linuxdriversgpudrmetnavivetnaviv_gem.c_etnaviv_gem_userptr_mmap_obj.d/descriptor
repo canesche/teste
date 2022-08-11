@@ -1,0 +1,3 @@
+struct vm_area_struct | dummy int 
+struct etnaviv_gem_object | dummy int 
+function etnaviv_gem_userptr_mmap_obj int | etnaviv_obj struct etnaviv_gem_object * | vma struct vm_area_struct *

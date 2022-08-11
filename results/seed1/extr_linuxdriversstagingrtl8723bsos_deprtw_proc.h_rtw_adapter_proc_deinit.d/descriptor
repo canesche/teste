@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function rtw_adapter_proc_deinit void | dev struct net_device *

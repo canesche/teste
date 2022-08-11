@@ -1,0 +1,4 @@
+struct TYPE_7__ | nb_streams int | streams struct TYPE_6__ ** | internal struct TYPE_5__ * 
+struct TYPE_6__ | inject_global_side_data int 
+struct TYPE_5__ | inject_global_side_data int 
+function av_format_inject_global_side_data void | s struct TYPE_7__ *

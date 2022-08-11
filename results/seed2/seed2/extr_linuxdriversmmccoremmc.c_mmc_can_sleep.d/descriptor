@@ -1,0 +1,3 @@
+struct TYPE_2__ | rev int 
+struct mmc_card | ext_csd struct TYPE_2__ 
+function mmc_can_sleep int | card struct mmc_card *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | nb_words int | words int * 
+function ff_big_div void | b struct TYPE_3__ * | a int | r int *

@@ -1,0 +1,7 @@
+struct TYPE_9__ | lpVtbl int * 
+struct TYPE_8__ | lpVtbl int * 
+struct TYPE_12__ | lpVtbl int * 
+struct TYPE_11__ | lpVtbl int * 
+struct TYPE_10__ | lpVtbl int * 
+struct TYPE_13__ | doc_host int * | outer int * | IWebBrowserPriv2IE9_iface struct TYPE_9__ | ITargetFramePriv2_iface struct TYPE_8__ | ITargetFrame2_iface struct TYPE_12__ | ITargetFrame_iface struct TYPE_11__ | IHlinkFrame_iface struct TYPE_10__ 
+function HlinkFrame_Init void | This struct TYPE_13__ * | outer int * | doc_host int *

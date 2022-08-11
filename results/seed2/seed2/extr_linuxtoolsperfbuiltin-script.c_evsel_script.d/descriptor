@@ -1,0 +1,3 @@
+struct perf_evsel_script | dummy int 
+struct perf_evsel | priv long 
+function evsel_script struct perf_evsel_script * | evsel struct perf_evsel *

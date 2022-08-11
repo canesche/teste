@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 11,
+    exit: true,
+    halt: false,
+    edges: 24,
+    static: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_FFmpeglibavcodecaacdec_template.c_sample_rate_idx.d/extr_FFmpeglibavcodecaacdec_template.c_sample_rate_idx_O0::sample_rate_idx(60)"
+  }
+]

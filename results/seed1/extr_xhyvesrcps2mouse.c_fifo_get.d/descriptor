@@ -1,3 +1,0 @@
-struct fifo | num long | rindex unsigned long | size int | buf int * 
-struct ps2mouse_softc | fifo struct fifo 
-function fifo_get int | sc struct ps2mouse_softc * | val int *

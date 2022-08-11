@@ -1,2 +1,0 @@
-struct fusb300_ep | wedged long | stall long | epnum long 
-function fusb300_ep_release int | ep struct fusb300_ep *

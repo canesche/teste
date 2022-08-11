@@ -1,1 +1,0 @@
-function ata_pack_xfermask unsigned long | pio_mask unsigned long | mwdma_mask unsigned long | udma_mask unsigned long

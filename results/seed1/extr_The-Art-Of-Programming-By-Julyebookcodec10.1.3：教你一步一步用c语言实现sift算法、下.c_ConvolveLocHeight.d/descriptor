@@ -1,3 +1,0 @@
-struct TYPE_4__ | fl long 
-struct TYPE_5__ | rows int | step int | data struct TYPE_4__ 
-function ConvolveLocHeight float | kernel float * | dim int | src struct TYPE_5__ * | x int | y int

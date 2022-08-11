@@ -1,3 +1,0 @@
-struct TYPE_5__ | dwStyle int | items struct TYPE_4__ * 
-struct TYPE_4__ | fmt int 
-function HEADER_IsItemFixed int | infoPtr const struct TYPE_5__ * | iItem unsigned long

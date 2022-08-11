@@ -1,0 +1,4 @@
+struct coh901318_params | dummy int 
+struct coh901318_chan | id unsigned long 
+struct TYPE_2__ | param const struct coh901318_params 
+function cohc_chan_param const struct coh901318_params * | cohc struct coh901318_chan *

@@ -1,0 +1,4 @@
+struct TYPE_3__ | pos long | len long | buf int * 
+struct TYPE_4__ | buf struct TYPE_3__ 
+struct config_source | u struct TYPE_4__ 
+function config_buf_fgetc int | conf struct config_source *

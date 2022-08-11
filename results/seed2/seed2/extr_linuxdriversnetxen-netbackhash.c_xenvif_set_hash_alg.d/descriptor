@@ -1,0 +1,3 @@
+struct TYPE_2__ | alg int 
+struct xenvif | hash struct TYPE_2__ 
+function xenvif_set_hash_alg int | vif struct xenvif * | alg int

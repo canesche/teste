@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400610,
+    invoked: 2,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_emscriptensystemliblibcmuslsrcexitatexit.c___cxa_finalize.d/extr_emscriptensystemliblibcmuslsrcexitatexit.c___cxa_finalize_O0::__cxa_finalize(60)"
+  }
+]

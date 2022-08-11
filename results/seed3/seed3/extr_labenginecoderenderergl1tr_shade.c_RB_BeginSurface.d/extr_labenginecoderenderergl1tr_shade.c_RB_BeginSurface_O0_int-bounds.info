@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_labenginecoderenderergl1tr_shade.c_RB_BeginSurface.d/extr_labenginecoderenderergl1tr_shade.c_RB_BeginSurface_O0::RB_BeginSurface(69)"
+  }
+]

@@ -1,0 +1,2 @@
+struct ftgmac100 | tx_q_entries int 
+function ftgmac100_next_tx_pointer unsigned int | priv struct ftgmac100 * | pointer unsigned int

@@ -1,0 +1,2 @@
+struct enic | priv_flags int 
+function enic_sriov_enabled int | enic struct enic *

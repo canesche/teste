@@ -1,0 +1,3 @@
+struct crypto_alg | cra_blocksize int | cra_flags int | cra_type int * 
+struct skcipher_alg | ivsize int | chunksize int | walksize int | base struct crypto_alg 
+function skcipher_prepare_alg int | alg struct skcipher_alg *

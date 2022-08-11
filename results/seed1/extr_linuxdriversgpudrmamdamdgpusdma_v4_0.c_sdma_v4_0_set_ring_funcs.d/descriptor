@@ -1,5 +1,0 @@
-struct TYPE_6__ | num_instances int | instance struct TYPE_5__ * 
-struct amdgpu_device | sdma struct TYPE_6__ 
-struct TYPE_4__ | me int | funcs int * 
-struct TYPE_5__ | ring struct TYPE_4__ 
-function sdma_v4_0_set_ring_funcs void | adev struct amdgpu_device *

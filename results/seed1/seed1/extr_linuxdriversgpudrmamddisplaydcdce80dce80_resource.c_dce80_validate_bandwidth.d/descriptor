@@ -1,0 +1,5 @@
+struct TYPE_3__ | dispclk_khz int | yclk_khz int 
+struct TYPE_4__ | dce struct TYPE_3__ 
+struct dc_state | bw struct TYPE_4__ 
+struct dc | dummy int 
+function dce80_validate_bandwidth int | dc struct dc * | context struct dc_state *

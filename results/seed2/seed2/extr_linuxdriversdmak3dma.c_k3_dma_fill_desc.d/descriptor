@@ -1,0 +1,4 @@
+struct k3_dma_desc_sw | desc_num int | desc_hw struct TYPE_2__ * | desc_hw_lli long 
+struct k3_desc_hw | dummy int 
+struct TYPE_2__ | count unsigned long | config int | daddr void * | saddr void * | lli long 
+function k3_dma_fill_desc void | ds struct k3_dma_desc_sw * | dst void * | src void * | len unsigned long | num int | ccfg int

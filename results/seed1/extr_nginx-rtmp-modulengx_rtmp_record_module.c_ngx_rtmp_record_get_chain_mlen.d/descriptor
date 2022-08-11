@@ -1,3 +1,0 @@
-struct TYPE_5__ | buf struct TYPE_4__ * | next struct TYPE_5__ * 
-struct TYPE_4__ | pos long | last long 
-function ngx_rtmp_record_get_chain_mlen unsigned long | in struct TYPE_5__ *

@@ -1,0 +1,5 @@
+struct task_smack | smk_forked int | smk_task int 
+struct inode_smack | smk_inode int 
+struct inode | i_security struct inode_smack * 
+struct cred | security struct task_smack * 
+function smack_kernel_create_files_as int | new struct cred * | inode struct inode *

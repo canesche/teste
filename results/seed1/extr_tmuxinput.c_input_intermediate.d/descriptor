@@ -1,2 +1,0 @@
-struct input_ctx | interm_len int | interm_buf char * | ch char | flags int 
-function input_intermediate int | ictx struct input_ctx *

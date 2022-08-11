@@ -1,2 +1,0 @@
-struct net_device | dummy int 
-function rtl819xusb_beacon_tx void | dev struct net_device * | tx_rate int

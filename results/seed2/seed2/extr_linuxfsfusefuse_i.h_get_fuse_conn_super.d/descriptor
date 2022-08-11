@@ -1,0 +1,3 @@
+struct super_block | s_fs_info struct fuse_conn * 
+struct fuse_conn | dummy int 
+function get_fuse_conn_super struct fuse_conn * | sb struct super_block *

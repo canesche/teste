@@ -1,2 +1,0 @@
-struct usb_configuration | dummy int 
-function can_support_rndis int | c struct usb_configuration *

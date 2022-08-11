@@ -1,3 +1,0 @@
-struct grub_nilfs2_inode | i_bmap int * 
-struct grub_nilfs2_btree_node | dummy int 
-function grub_nilfs2_btree_get_root struct grub_nilfs2_btree_node * | inode struct grub_nilfs2_inode *

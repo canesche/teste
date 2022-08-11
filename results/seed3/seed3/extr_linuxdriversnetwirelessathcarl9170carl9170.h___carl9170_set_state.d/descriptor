@@ -1,0 +1,2 @@
+struct ar9170 | state int 
+function __carl9170_set_state void | ar struct ar9170 * | newstate enum carl9170_device_state

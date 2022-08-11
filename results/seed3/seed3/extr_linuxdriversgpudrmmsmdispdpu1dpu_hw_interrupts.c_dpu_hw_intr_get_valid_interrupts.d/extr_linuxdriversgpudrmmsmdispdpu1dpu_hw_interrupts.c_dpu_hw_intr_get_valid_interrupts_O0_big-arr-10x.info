@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_linuxdriversgpudrmmsmdispdpu1dpu_hw_interrupts.c_dpu_hw_intr_get_valid_interrupts.d/extr_linuxdriversgpudrmmsmdispdpu1dpu_hw_interrupts.c_dpu_hw_intr_get_valid_interrupts_O0::dpu_hw_intr_get_valid_interrupts(69)"
+  }
+]

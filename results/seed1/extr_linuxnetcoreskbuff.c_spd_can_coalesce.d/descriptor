@@ -1,4 +1,0 @@
-struct splice_pipe_desc | nr_pages int | partial struct TYPE_2__ * | pages struct page ** 
-struct page | dummy int 
-struct TYPE_2__ | offset unsigned int | len unsigned int 
-function spd_can_coalesce int | spd const struct splice_pipe_desc * | page struct page * | offset unsigned int

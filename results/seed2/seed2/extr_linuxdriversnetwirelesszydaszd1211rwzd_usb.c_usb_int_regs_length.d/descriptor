@@ -1,0 +1,3 @@
+struct usb_int_regs | dummy int 
+struct reg_data | dummy int 
+function usb_int_regs_length int | count unsigned int

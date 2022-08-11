@@ -1,0 +1,1 @@
+function g729d_voice_decision int | onset int | prev_voice_decision int | past_gain_pitch const int *

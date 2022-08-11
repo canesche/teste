@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_linuxdriversspispi-ep93xx.c_ep93xx_dma_data_to_trans_dir.d/extr_linuxdriversspispi-ep93xx.c_ep93xx_dma_data_to_trans_dir_O0::ep93xx_dma_data_to_trans_dir(66)"
+  }
+]

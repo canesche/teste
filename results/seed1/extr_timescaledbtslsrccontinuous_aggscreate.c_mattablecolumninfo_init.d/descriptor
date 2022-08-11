@@ -1,2 +1,0 @@
-struct TYPE_3__ | matpartcolno int | matpartcolname int * | mat_groupcolname_list int | partial_grouplist int * | partial_seltlist int * | matcollist int * 
-function mattablecolumninfo_init void | matcolinfo struct TYPE_3__ * | collist int * | tlist int * | grouplist int *

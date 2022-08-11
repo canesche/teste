@@ -1,4 +1,0 @@
-struct iscsi_tcp_task | dummy int 
-struct iscsi_task | hdr_max long | dd_data struct iscsi_tcp_task * | hdr struct iscsi_tcp_task * 
-struct iscsi_sw_tcp_hdrbuf | dummy int 
-function iscsi_sw_tcp_pdu_alloc int | task struct iscsi_task * | opcode int

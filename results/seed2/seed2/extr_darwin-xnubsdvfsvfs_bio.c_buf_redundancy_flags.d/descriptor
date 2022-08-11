@@ -1,0 +1,2 @@
+struct TYPE_3__ | b_redundancy_flags int 
+function buf_redundancy_flags int | bp struct TYPE_3__ *

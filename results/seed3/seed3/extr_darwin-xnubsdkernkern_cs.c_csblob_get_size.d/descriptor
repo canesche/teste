@@ -1,0 +1,2 @@
+struct cs_blob | csb_mem_size int 
+function csblob_get_size int | blob struct cs_blob *

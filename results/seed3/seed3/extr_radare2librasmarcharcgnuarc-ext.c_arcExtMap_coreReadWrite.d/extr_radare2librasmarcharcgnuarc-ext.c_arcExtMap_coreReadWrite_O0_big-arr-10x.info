@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed3/extr_radare2librasmarcharcgnuarc-ext.c_arcExtMap_coreReadWrite.d/extr_radare2librasmarcharcgnuarc-ext.c_arcExtMap_coreReadWrite_O0::arcExtMap_coreReadWrite(70)"
+  }
+]

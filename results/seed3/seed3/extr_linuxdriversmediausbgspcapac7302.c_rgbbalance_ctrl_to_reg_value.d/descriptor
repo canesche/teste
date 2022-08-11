@@ -1,0 +1,1 @@
+function rgbbalance_ctrl_to_reg_value int | rgb_ctrl_val const unsigned int

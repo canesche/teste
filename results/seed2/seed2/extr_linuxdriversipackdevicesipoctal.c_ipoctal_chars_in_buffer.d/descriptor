@@ -1,0 +1,3 @@
+struct tty_struct | driver_data struct ipoctal_channel * 
+struct ipoctal_channel | nb_bytes int 
+function ipoctal_chars_in_buffer int | tty struct tty_struct *

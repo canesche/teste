@@ -1,0 +1,2 @@
+struct inpcb | dummy int 
+function inp_update_policy int | inp struct inpcb *

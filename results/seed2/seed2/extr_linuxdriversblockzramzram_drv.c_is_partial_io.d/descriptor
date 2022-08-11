@@ -1,0 +1,2 @@
+struct bio_vec | bv_len long 
+function is_partial_io int | bvec struct bio_vec *

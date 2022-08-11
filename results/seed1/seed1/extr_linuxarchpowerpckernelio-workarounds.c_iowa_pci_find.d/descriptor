@@ -1,0 +1,4 @@
+struct resource | start unsigned long | end unsigned long 
+struct pci_controller | pci_io_size unsigned long | mem_resources struct resource * | io_base_virt long 
+struct iowa_bus | phb struct pci_controller * 
+function iowa_pci_find struct iowa_bus * | vaddr unsigned long | paddr unsigned long

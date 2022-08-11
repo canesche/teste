@@ -1,2 +1,0 @@
-struct wm8994_pdata | dummy int 
-function wm8994_ldo_in_use int | pdata struct wm8994_pdata * | ldo int

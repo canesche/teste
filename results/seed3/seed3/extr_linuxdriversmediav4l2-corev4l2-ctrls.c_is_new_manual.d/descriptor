@@ -1,0 +1,2 @@
+struct v4l2_ctrl | val long | manual_mode_value long | is_auto long 
+function is_new_manual int | master const struct v4l2_ctrl *

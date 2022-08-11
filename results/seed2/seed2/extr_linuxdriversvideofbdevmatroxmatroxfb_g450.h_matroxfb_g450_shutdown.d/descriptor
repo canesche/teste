@@ -1,0 +1,2 @@
+struct matrox_fb_info | dummy int 
+function matroxfb_g450_shutdown void | minfo struct matrox_fb_info *

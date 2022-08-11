@@ -1,0 +1,5 @@
+struct gendisk | queue struct TYPE_4__ * 
+struct bcache_device | ioctl int | cache_miss int | disk struct gendisk * 
+struct TYPE_4__ | backing_dev_info struct TYPE_3__ * | make_request_fn int 
+struct TYPE_3__ | congested_fn int 
+function bch_flash_dev_request_init void | d struct bcache_device *

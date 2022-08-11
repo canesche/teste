@@ -1,1 +1,0 @@
-function posix_spawnattr_getschedpolicy int | attr const int *__restrict | policy int *__restrict

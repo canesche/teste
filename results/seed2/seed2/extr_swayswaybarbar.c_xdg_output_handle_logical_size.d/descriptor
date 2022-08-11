@@ -1,0 +1,3 @@
+struct zxdg_output_v1 | dummy int 
+struct swaybar_output | output_width void * | output_height void * 
+function xdg_output_handle_logical_size void | data void * | xdg_output struct zxdg_output_v1 * | width void * | height void *

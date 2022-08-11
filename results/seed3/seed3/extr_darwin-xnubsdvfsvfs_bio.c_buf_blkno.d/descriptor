@@ -1,0 +1,2 @@
+struct TYPE_3__ | b_blkno int 
+function buf_blkno int | bp struct TYPE_3__ *

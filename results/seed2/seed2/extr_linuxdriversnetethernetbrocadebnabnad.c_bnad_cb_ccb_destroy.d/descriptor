@@ -1,0 +1,7 @@
+struct bnad_rx_info | rx_ctrl struct TYPE_6__ * 
+struct bnad | dummy int 
+struct bna_ccb | id unsigned long | cq struct TYPE_5__ * 
+struct TYPE_6__ | ccb int * 
+struct TYPE_5__ | rx struct TYPE_4__ * 
+struct TYPE_4__ | priv long 
+function bnad_cb_ccb_destroy void | bnad struct bnad * | ccb struct bna_ccb *

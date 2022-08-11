@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 35,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 53,
+    static: {
+      instructions: 125,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 125,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_linuxdriversstagingfbtftfbtft-core.c_fbtft_merge_fbtftops.d/extr_linuxdriversstagingfbtftfbtft-core.c_fbtft_merge_fbtftops_O0::fbtft_merge_fbtftops(61)"
+  }
+]

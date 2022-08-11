@@ -1,0 +1,4 @@
+struct sk_buff | dummy int 
+struct nf_nat_l3proto | dummy int 
+struct nf_conntrack_tuple | dummy int 
+function unknown_manip_pkt int | skb struct sk_buff * | l3proto const struct nf_nat_l3proto * | iphdroff unsigned int | hdroff unsigned int | tuple const struct nf_conntrack_tuple * | maniptype enum nf_nat_manip_type

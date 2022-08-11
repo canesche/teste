@@ -1,0 +1,4 @@
+struct timer_list | dummy int 
+struct TYPE_4__ | aud struct TYPE_3__ * | dmacon int 
+struct TYPE_3__ | audper int 
+function nosound void | unused struct timer_list *

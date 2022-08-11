@@ -1,2 +1,0 @@
-struct inode | dummy int 
-function pnfs_ld_layoutret_on_setattr int | inode struct inode *

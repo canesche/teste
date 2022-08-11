@@ -1,0 +1,3 @@
+struct TYPE_2__ | CR_DONE_0 int 
+struct lane_status | bits struct TYPE_2__ 
+function is_cr_done int | ln_count enum dc_lane_count | dpcd_lane_status union lane_status *

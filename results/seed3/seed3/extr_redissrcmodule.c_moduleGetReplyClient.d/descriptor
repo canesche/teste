@@ -1,0 +1,3 @@
+struct TYPE_5__ | flags int | client int * | blocked_client struct TYPE_4__ * 
+struct TYPE_4__ | reply_client int * 
+function moduleGetReplyClient int * | ctx struct TYPE_5__ *

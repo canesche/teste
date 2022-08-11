@@ -1,0 +1,2 @@
+struct gelic_port | priv void * 
+function port_priv void * | port struct gelic_port *

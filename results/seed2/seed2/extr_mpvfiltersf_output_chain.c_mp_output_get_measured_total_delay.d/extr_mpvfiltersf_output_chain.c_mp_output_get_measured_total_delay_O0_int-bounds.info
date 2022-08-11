@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed2/extr_mpvfiltersf_output_chain.c_mp_output_get_measured_total_delay.d/extr_mpvfiltersf_output_chain.c_mp_output_get_measured_total_delay_O0::mp_output_get_measured_total_delay(66)"
+  }
+]

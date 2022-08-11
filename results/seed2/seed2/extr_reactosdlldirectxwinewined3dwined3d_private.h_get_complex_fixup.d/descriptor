@@ -1,0 +1,2 @@
+struct color_fixup_desc | x_source long | y_source long | z_source long | w_source long 
+function get_complex_fixup enum complex_fixup | fixup struct color_fixup_desc

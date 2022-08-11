@@ -1,3 +1,0 @@
-struct imx_port | devdata struct TYPE_2__ * 
-struct TYPE_2__ | devtype long 
-function imx_uart_is_imx21 int | sport struct imx_port *

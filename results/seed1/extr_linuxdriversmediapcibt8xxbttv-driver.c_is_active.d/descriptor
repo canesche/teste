@@ -1,2 +1,0 @@
-struct btcx_riscmem | dma long | size long 
-function is_active int | risc struct btcx_riscmem * | rc long

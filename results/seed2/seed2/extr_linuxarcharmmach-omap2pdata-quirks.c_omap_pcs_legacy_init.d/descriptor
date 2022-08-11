@@ -1,0 +1,2 @@
+struct TYPE_2__ | irq int | rearm void (*)() 
+function omap_pcs_legacy_init void | irq int | rearm void (*)(void)

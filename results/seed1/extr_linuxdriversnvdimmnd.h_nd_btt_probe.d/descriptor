@@ -1,3 +1,0 @@
-struct nd_namespace_common | dummy int 
-struct device | dummy int 
-function nd_btt_probe int | dev struct device * | ndns struct nd_namespace_common *

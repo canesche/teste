@@ -1,0 +1,2 @@
+struct loopback_pcm | buf_pos unsigned int | pcm_buffer_size unsigned int 
+function bytepos_finish void | dpcm struct loopback_pcm * | delta unsigned int

@@ -1,2 +1,0 @@
-struct orc_host | allocation_map int ** 
-function init_alloc_map void | host struct orc_host *

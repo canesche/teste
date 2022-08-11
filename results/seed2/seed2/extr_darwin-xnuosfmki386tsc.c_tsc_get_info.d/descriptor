@@ -1,0 +1,2 @@
+struct TYPE_3__ | flex_ratio_max int | flex_ratio_min int | flex_ratio int | busFreq int | bus2tsc int | tscGranularity int | tscFCvtn2t int | tscFCvtt2n int | tscFreq int | busFCvtn2t int | busFCvtt2n int 
+function tsc_get_info void | info struct TYPE_3__ *

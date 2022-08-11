@@ -1,2 +1,0 @@
-struct net | dummy int 
-function nfs4_state_start_net int | net struct net *

@@ -1,0 +1,2 @@
+struct ufs_hba | ufs_version long 
+function ufshcd_get_local_unipro_ver int | hba struct ufs_hba *

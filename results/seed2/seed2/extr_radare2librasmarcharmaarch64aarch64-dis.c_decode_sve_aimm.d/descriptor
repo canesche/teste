@@ -1,0 +1,4 @@
+struct TYPE_5__ | value int 
+struct TYPE_6__ | amount int | operator_present int | amount_present int | kind int 
+struct TYPE_7__ | imm struct TYPE_5__ | shifter struct TYPE_6__ 
+function decode_sve_aimm int | info struct TYPE_7__ * | value int

@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function functionality int | adapter struct i2c_adapter *

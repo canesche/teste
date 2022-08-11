@@ -1,2 +1,0 @@
-struct qfq_if | qif_bitmaps int * 
-function qfq_move_groups void | qif struct qfq_if * | mask int | src int | dst int

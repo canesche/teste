@@ -1,0 +1,2 @@
+struct sproto_type | name const char * 
+function sproto_name const char * | st struct sproto_type *

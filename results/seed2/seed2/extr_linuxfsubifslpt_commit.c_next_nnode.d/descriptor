@@ -1,0 +1,4 @@
+struct ubifs_nnode | iip int | nbranch struct TYPE_2__ * | parent struct ubifs_nnode * 
+struct ubifs_info | lpt_hght int 
+struct TYPE_2__ | nnode struct ubifs_nnode * 
+function next_nnode struct ubifs_nnode * | c struct ubifs_info * | nnode struct ubifs_nnode * | hght int *

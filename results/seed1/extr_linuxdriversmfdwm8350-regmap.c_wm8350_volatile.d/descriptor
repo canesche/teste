@@ -1,3 +1,0 @@
-struct device | dummy int 
-struct TYPE_2__ | vol int 
-function wm8350_volatile int | dev struct device * | reg unsigned int

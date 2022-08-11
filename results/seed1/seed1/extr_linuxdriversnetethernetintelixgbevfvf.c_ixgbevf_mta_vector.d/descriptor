@@ -1,0 +1,3 @@
+struct TYPE_2__ | mc_filter_type int 
+struct ixgbe_hw | mac struct TYPE_2__ 
+function ixgbevf_mta_vector int | hw struct ixgbe_hw * | mc_addr int *

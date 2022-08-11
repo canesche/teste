@@ -1,0 +1,2 @@
+struct ccw_device | dummy int 
+function ccw_device_nop void | cdev struct ccw_device * | dev_event enum dev_event

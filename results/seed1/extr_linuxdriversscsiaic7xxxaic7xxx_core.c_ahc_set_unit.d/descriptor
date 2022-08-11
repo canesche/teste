@@ -1,2 +1,0 @@
-struct ahc_softc | unit int 
-function ahc_set_unit void | ahc struct ahc_softc * | unit int

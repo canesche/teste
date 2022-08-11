@@ -1,0 +1,2 @@
+struct pcs_conf_vals | param int | val unsigned int | enable unsigned int | disable unsigned int | mask unsigned int 
+function add_config void | conf struct pcs_conf_vals ** | param enum pin_config_param | value unsigned int | enable unsigned int | disable unsigned int | mask unsigned int

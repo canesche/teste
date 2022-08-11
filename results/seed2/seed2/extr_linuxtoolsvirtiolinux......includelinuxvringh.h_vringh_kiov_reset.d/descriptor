@@ -1,0 +1,3 @@
+struct vringh_kiov | i unsigned long | consumed long | iov struct TYPE_2__ * 
+struct TYPE_2__ | iov_base int | iov_len int 
+function vringh_kiov_reset void | kiov struct vringh_kiov *

@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function sh_cmt_remove int | pdev struct platform_device *

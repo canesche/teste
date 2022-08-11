@@ -1,2 +1,0 @@
-struct TYPE_3__ | err_cb_data void * | err_cb int * 
-function jq_set_error_cb void | jq struct TYPE_3__ * | cb int * | data void *

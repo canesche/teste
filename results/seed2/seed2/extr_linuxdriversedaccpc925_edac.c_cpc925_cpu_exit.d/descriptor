@@ -1,0 +1,2 @@
+struct cpc925_dev_info | dummy int 
+function cpc925_cpu_exit void | dev_info struct cpc925_dev_info *

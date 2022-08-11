@@ -1,0 +1,3 @@
+struct TYPE_4__ | bytes void ** 
+struct TYPE_5__ | count int | data struct TYPE_4__ 
+function vncSetColourMapEntry void | m struct TYPE_5__ * | i int | r void * | g void * | b void *

@@ -1,3 +1,0 @@
-struct thermal_cooling_device | devdata struct clock_cooling_device * 
-struct clock_cooling_device | clock_state unsigned long 
-function clock_cooling_get_cur_state int | cdev struct thermal_cooling_device * | state unsigned long *

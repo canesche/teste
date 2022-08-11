@@ -1,2 +1,0 @@
-struct menelaus_chip | dummy int 
-function menelaus_rtc_init void | m struct menelaus_chip *

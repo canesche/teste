@@ -1,0 +1,2 @@
+struct hinic_cmdq | errcode int ** 
+function cmdq_update_errcode void | cmdq struct hinic_cmdq * | prod_idx unsigned long | errcode int

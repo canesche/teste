@@ -1,0 +1,2 @@
+struct net | dummy int 
+function xt_proto_fini void | net struct net * | af int

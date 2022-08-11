@@ -1,2 +1,0 @@
-struct msg_queue | q_cbytes long | q_qbytes long | q_qnum long 
-function msg_fits_inqueue int | msq struct msg_queue * | msgsz unsigned long

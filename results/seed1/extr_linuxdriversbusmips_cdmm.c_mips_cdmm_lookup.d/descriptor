@@ -1,3 +1,0 @@
-struct mips_cdmm_device_id | type long 
-struct mips_cdmm_device | type long 
-function mips_cdmm_lookup const struct mips_cdmm_device_id * | table const struct mips_cdmm_device_id * | dev struct mips_cdmm_device *

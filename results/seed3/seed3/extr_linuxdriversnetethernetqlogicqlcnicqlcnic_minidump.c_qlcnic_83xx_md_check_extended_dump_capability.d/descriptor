@@ -1,0 +1,4 @@
+struct qlcnic_adapter | ahw struct TYPE_4__ * | pdev struct TYPE_3__ * 
+struct TYPE_4__ | extra_capability int * 
+struct TYPE_3__ | device long 
+function qlcnic_83xx_md_check_extended_dump_capability int | adapter struct qlcnic_adapter *

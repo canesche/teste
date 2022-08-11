@@ -1,4 +1,0 @@
-struct spmi_voltage_range | set_point_min_uV unsigned int | min_uV unsigned int | step_uV unsigned int | set_point_max_uV unsigned int | n_voltages long 
-struct spmi_regulator | set_points struct TYPE_2__ * 
-struct TYPE_2__ | count int | range struct spmi_voltage_range * 
-function spmi_hw_selector_to_sw int | vreg struct spmi_regulator * | hw_sel unsigned int | range const struct spmi_voltage_range *

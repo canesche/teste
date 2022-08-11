@@ -1,0 +1,5 @@
+struct TYPE_7__ | kernel_addr int 
+struct TYPE_9__ | bi struct TYPE_7__ 
+struct TYPE_8__ | o struct TYPE_6__ * 
+struct TYPE_6__ | bin_obj struct TYPE_9__ * 
+function baddr int | bf struct TYPE_8__ *

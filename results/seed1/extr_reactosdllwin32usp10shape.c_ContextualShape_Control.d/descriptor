@@ -1,3 +1,0 @@
-struct TYPE_4__ | wgBlank int | wgDefault int 
-struct TYPE_5__ | sfp struct TYPE_4__ 
-function ContextualShape_Control void | hdc int | psc struct TYPE_5__ * | psa int * | pwcChars int * | cChars int | pwOutGlyphs int * | pcGlyphs int * | cMaxGlyphs int | pwLogClust int *

@@ -1,3 +1,0 @@
-struct resync_pages | dummy int 
-struct bio | bi_private struct resync_pages * 
-function get_resync_pages struct resync_pages * | bio struct bio *

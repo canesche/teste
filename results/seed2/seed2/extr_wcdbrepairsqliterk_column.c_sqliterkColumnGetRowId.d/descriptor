@@ -1,0 +1,2 @@
+struct TYPE_3__ | rowid int 
+function sqliterkColumnGetRowId int | column struct TYPE_3__ *

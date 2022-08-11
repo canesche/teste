@@ -1,0 +1,1 @@
+function em28xx_hash_mem unsigned long | buf char * | length int | bits int

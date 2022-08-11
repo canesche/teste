@@ -1,0 +1,5 @@
+struct tc_configuration | dcb_pfc long | path struct TYPE_2__ * 
+struct ixgbe_dcb_config | bw_percentage long ** | pfc_mode_enable long | tc_config struct tc_configuration * 
+struct ixgbe_adapter | dcb_cfg struct ixgbe_dcb_config | temp_dcb_cfg struct ixgbe_dcb_config 
+struct TYPE_2__ | prio_type long | bwg_id long | bwg_percent long | up_to_tc_bitmap long 
+function ixgbe_copy_dcb_cfg int | adapter struct ixgbe_adapter * | tc_max int

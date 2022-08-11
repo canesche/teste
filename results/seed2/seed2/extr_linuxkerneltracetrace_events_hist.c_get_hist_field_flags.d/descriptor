@@ -1,0 +1,2 @@
+struct hist_field | flags int 
+function get_hist_field_flags const char * | hist_field struct hist_field *

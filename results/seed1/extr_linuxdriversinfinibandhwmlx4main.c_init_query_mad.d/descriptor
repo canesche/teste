@@ -1,2 +1,0 @@
-struct ib_smp | base_version int | class_version int | method int | mgmt_class int 
-function init_query_mad void | mad struct ib_smp *

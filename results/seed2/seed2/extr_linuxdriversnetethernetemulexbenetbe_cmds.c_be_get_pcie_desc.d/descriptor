@@ -1,0 +1,3 @@
+struct be_res_desc_hdr | desc_type long | desc_len int 
+struct be_pcie_res_desc | pf_num long 
+function be_get_pcie_desc struct be_pcie_res_desc * | buf long * | desc_count int | pf_num long

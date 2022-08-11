@@ -1,0 +1,5 @@
+struct sk_buff | len int 
+struct fw_ulptx_wr | dummy int 
+struct cpl_tx_pkt | dummy int 
+struct chcr_ipsec_req | dummy int 
+function is_eth_imm int | skb const struct sk_buff * | kctx_len unsigned int

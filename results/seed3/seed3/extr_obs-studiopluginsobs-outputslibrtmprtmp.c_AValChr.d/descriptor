@@ -1,0 +1,2 @@
+struct TYPE_3__ | av_len int | av_val char * 
+function AValChr char * | av struct TYPE_3__ * | c char

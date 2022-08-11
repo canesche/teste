@@ -1,0 +1,4 @@
+struct TYPE_3__ | max_freq int | turbo_freq int 
+struct cpudata | pstate struct TYPE_3__ 
+struct TYPE_4__ | no_turbo long | turbo_disabled long 
+function intel_pstate_get_max_freq int | cpu struct cpudata *

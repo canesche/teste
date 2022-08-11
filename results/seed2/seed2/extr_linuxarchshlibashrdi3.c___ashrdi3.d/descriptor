@@ -1,0 +1,3 @@
+struct TYPE_3__ | high int | low int 
+struct TYPE_4__ | ll long long | s struct TYPE_3__ 
+function __ashrdi3 long long | u long long | b int

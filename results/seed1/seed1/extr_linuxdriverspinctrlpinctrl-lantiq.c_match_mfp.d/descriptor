@@ -1,0 +1,3 @@
+struct ltq_pinmux_info | num_mfp int | mfp struct TYPE_2__ * 
+struct TYPE_2__ | pin int 
+function match_mfp int | info const struct ltq_pinmux_info * | pin int

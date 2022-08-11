@@ -1,0 +1,2 @@
+struct sk_buff | len long 
+function immediate int | skb const struct sk_buff *

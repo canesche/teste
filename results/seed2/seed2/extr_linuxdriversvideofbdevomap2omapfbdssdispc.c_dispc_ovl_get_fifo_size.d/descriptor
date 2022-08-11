@@ -1,0 +1,3 @@
+struct TYPE_4__ | fifo_assignment int * | fifo_size long * | feat struct TYPE_3__ * 
+struct TYPE_3__ | num_fifos int 
+function dispc_ovl_get_fifo_size int | plane enum omap_plane

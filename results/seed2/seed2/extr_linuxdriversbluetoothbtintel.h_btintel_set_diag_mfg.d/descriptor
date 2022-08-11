@@ -1,0 +1,2 @@
+struct hci_dev | dummy int 
+function btintel_set_diag_mfg int | hdev struct hci_dev * | enable int

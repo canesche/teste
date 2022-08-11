@@ -1,2 +1,0 @@
-struct mm_struct | dummy int 
-function verify_mm_writelocked void | mm struct mm_struct *

@@ -1,0 +1,3 @@
+struct merge_msg_entry | written long | merge_head struct TYPE_2__ * 
+struct TYPE_2__ | remote_url int * | ref_name int * 
+function msg_entry_is_oid int | merge_msg_entry const struct merge_msg_entry *

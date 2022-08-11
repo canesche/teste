@@ -1,0 +1,2 @@
+struct amdgpu_device | dummy int 
+function amdgpu_debugfs_pm_init int | adev struct amdgpu_device *

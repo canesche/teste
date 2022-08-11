@@ -1,0 +1,3 @@
+struct TYPE_5__ | free_waiter struct TYPE_6__ * 
+struct TYPE_6__ | next struct TYPE_6__ * 
+function proc_waiter_release void | proc struct TYPE_5__ * | waiter struct TYPE_6__ *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | dtor long | convert_op long 
+struct TYPE_5__ | eos long | ustat long | urem_nbits long | urem long | _super struct TYPE_4__ 
+function php_conv_base64_decode_ctor int | inst struct TYPE_5__ *

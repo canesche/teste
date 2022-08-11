@@ -1,0 +1,5 @@
+struct TYPE_2__ | lo int | hi int 
+struct l5cm_specific_data | phy_address struct TYPE_2__ 
+struct cnic_local | ctx_tbl struct cnic_context * 
+struct cnic_context | kwqe_data void * | kwqe_data_mapping long 
+function cnic_get_kwqe_16_data void * | cp struct cnic_local * | l5_cid unsigned long | l5_data union l5cm_specific_data *

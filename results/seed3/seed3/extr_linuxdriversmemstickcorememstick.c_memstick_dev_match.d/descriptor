@@ -1,0 +1,4 @@
+struct memstick_device_id | match_flags int | type long | category long | class long 
+struct TYPE_2__ | type long | category long | class long 
+struct memstick_dev | id struct TYPE_2__ 
+function memstick_dev_match int | card struct memstick_dev * | id struct memstick_device_id *

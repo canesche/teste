@@ -1,2 +1,0 @@
-struct v4l2_fract | denominator int | numerator int 
-function avg_fps int | t const struct v4l2_fract *

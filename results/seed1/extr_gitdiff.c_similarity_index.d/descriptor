@@ -1,2 +1,0 @@
-struct diff_filepair | score int 
-function similarity_index int | p struct diff_filepair *

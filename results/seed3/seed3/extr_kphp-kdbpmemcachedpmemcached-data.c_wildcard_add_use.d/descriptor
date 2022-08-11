@@ -1,0 +1,2 @@
+struct wildcard_entry | prev_use struct wildcard_entry * | next_use struct wildcard_entry * 
+function wildcard_add_use void | entry struct wildcard_entry *

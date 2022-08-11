@@ -1,0 +1,1 @@
+function ff_rgb24toyv12_c void | src const unsigned int * | ydst unsigned int * | udst unsigned int * | vdst unsigned int * | width int | height int | lumStride int | chromStride int | srcStride int | rgb2yuv unsigned int *

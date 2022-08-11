@@ -1,0 +1,2 @@
+struct dsa_switch | dummy int 
+function mv88e6xxx_get_regs_len int | ds struct dsa_switch * | port int

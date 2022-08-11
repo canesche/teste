@@ -1,0 +1,2 @@
+struct reg_pair_t | reg long | val long 
+function copy_reg_bits void | reg_pair1 struct reg_pair_t * | reg_pair2 struct reg_pair_t *

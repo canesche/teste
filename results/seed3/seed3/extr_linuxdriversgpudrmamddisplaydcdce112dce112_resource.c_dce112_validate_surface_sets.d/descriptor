@@ -1,0 +1,4 @@
+struct dc_state | stream_count int | stream_status struct TYPE_4__ * 
+struct TYPE_4__ | plane_count int | plane_states struct TYPE_3__ ** 
+struct TYPE_3__ | format long 
+function dce112_validate_surface_sets int | context struct dc_state *

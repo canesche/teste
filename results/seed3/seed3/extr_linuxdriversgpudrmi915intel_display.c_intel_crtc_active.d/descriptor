@@ -1,0 +1,8 @@
+struct TYPE_9__ | primary struct TYPE_8__ * 
+struct intel_crtc | config struct TYPE_12__ * | base struct TYPE_9__ | active long 
+struct TYPE_10__ | crtc_clock long 
+struct TYPE_11__ | adjusted_mode struct TYPE_10__ 
+struct TYPE_12__ | base struct TYPE_11__ 
+struct TYPE_8__ | state struct TYPE_7__ * 
+struct TYPE_7__ | fb long 
+function intel_crtc_active int | crtc struct intel_crtc *

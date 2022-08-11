@@ -1,3 +1,0 @@
-struct kvm_dirty_log | dummy int 
-struct kvm | dummy int 
-function kvm_vm_ioctl_get_dirty_log int | kvm struct kvm * | log struct kvm_dirty_log *

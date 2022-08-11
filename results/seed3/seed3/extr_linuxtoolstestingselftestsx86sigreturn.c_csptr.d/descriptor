@@ -1,0 +1,4 @@
+struct TYPE_4__ | gregs int * 
+struct TYPE_5__ | uc_mcontext struct TYPE_4__ 
+struct selectors | cs unsigned short 
+function csptr unsigned short * | ctx struct TYPE_5__ *

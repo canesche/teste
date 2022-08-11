@@ -1,2 +1,0 @@
-struct peak_canfd_priv | cmd_len long 
-function pucan_init_cmd struct peak_canfd_priv * | priv struct peak_canfd_priv *

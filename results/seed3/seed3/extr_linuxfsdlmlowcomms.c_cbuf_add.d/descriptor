@@ -1,0 +1,2 @@
+struct cbuf | len int 
+function cbuf_add void | cb struct cbuf * | n int

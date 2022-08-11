@@ -1,2 +1,0 @@
-struct f2fs_sb_info | dummy int 
-function f2fs_build_stats int | sbi struct f2fs_sb_info *

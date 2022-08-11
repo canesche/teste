@@ -1,0 +1,2 @@
+struct usb_hcd | dummy int 
+function hub_status_data int | hcd struct usb_hcd * | buf char *

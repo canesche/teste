@@ -1,3 +1,0 @@
-struct mlxsw_sp1_mr_tcam_region | dummy int 
-struct mlxsw_sp1_mr_tcam | tcam_regions struct mlxsw_sp1_mr_tcam_region * 
-function mlxsw_sp1_mr_tcam_protocol_region struct mlxsw_sp1_mr_tcam_region * | mr_tcam struct mlxsw_sp1_mr_tcam * | proto enum mlxsw_sp_l3proto

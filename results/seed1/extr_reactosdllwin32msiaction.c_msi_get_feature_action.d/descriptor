@@ -1,3 +1,0 @@
-struct TYPE_6__ | ActionRequest int | Installed int 
-struct TYPE_5__ | need_rollback long 
-function msi_get_feature_action int | package struct TYPE_5__ * | feature struct TYPE_6__ *

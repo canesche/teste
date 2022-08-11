@@ -1,2 +1,0 @@
-struct sbridge_pvt | dummy int 
-function knl_get_width enum dev_type | pvt struct sbridge_pvt * | mtr int

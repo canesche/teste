@@ -1,2 +1,0 @@
-struct cpu_map | nr int | map int * 
-function cpu_map__get_max int | map struct cpu_map *

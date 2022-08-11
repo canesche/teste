@@ -1,0 +1,3 @@
+struct graph_row | size int | columns struct TYPE_2__ * 
+struct TYPE_2__ | id const char * 
+function graph_row_clear_commit void | row struct graph_row * | id const char *

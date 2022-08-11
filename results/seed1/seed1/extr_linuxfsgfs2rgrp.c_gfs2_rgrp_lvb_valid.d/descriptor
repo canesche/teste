@@ -1,0 +1,6 @@
+struct gfs2_rgrpd | rd_bits struct TYPE_4__ * | rd_rgl struct gfs2_rgrp_lvb * 
+struct gfs2_rgrp_lvb | rl_flags long | rl_free long | rl_dinodes long | rl_igeneration long 
+struct gfs2_rgrp | rg_flags long | rg_free long | rg_dinodes long | rg_igeneration long 
+struct TYPE_4__ | bi_bh struct TYPE_3__ * 
+struct TYPE_3__ | b_data long 
+function gfs2_rgrp_lvb_valid int | rgd struct gfs2_rgrpd *

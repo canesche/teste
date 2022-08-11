@@ -1,0 +1,1 @@
+function ngx_iocp_del_connection int | c int * | flags int

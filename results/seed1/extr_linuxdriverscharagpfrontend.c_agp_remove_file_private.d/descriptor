@@ -1,3 +1,0 @@
-struct agp_file_private | prev struct agp_file_private * | next struct agp_file_private * 
-struct TYPE_2__ | file_priv_list struct agp_file_private * 
-function agp_remove_file_private void | priv struct agp_file_private *

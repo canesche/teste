@@ -1,0 +1,2 @@
+struct msm_dsi | external_bridge long | panel long 
+function msm_dsi_device_connected int | msm_dsi struct msm_dsi *

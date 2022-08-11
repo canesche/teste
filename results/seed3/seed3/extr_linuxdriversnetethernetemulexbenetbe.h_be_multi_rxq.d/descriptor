@@ -1,0 +1,2 @@
+struct be_adapter | num_rx_qs int 
+function be_multi_rxq int | adapter const struct be_adapter *

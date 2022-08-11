@@ -1,3 +1,0 @@
-struct rza1_bidir_pin | pin unsigned int | func unsigned int 
-struct rza1_bidir_entry | npins unsigned int | pins struct rza1_bidir_pin * 
-function rza1_pinmux_get_bidir int | port unsigned int | pin unsigned int | func unsigned int | table const struct rza1_bidir_entry *

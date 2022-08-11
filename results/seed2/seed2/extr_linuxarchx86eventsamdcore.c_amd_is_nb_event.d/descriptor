@@ -1,0 +1,2 @@
+struct hw_perf_event | config int 
+function amd_is_nb_event int | hwc struct hw_perf_event *

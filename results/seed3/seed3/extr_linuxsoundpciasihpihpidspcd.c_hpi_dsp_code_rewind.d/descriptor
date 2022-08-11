@@ -1,0 +1,3 @@
+struct dsp_code | word_count int 
+struct code_header | dummy int 
+function hpi_dsp_code_rewind void | dsp_code struct dsp_code *

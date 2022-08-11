@@ -1,0 +1,2 @@
+struct clk_hw | dummy int 
+function si5351_vxco_set_rate int | hw struct clk_hw * | rate unsigned long | parent unsigned long

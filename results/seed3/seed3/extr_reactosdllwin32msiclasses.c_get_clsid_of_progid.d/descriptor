@@ -1,0 +1,3 @@
+struct TYPE_5__ | Parent const struct TYPE_5__ * | Class struct TYPE_4__ * 
+struct TYPE_4__ | clsid int * 
+function get_clsid_of_progid int * | progid const struct TYPE_5__ *

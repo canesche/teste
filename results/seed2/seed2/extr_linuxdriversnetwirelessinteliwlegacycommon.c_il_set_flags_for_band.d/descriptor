@@ -1,0 +1,5 @@
+struct TYPE_4__ | flags int 
+struct il_priv | staging struct TYPE_4__ 
+struct TYPE_3__ | use_short_slot long 
+struct ieee80211_vif | bss_conf struct TYPE_3__ 
+function il_set_flags_for_band void | il struct il_priv * | band enum nl80211_band | vif struct ieee80211_vif *

@@ -1,0 +1,3 @@
+struct rpc_task | tk_rqstp struct TYPE_2__ * | tk_timeout int 
+struct TYPE_2__ | rq_timeout int 
+function xprt_set_retrans_timeout_def void | task struct rpc_task *

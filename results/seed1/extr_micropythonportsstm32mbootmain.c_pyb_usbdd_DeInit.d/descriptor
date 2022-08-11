@@ -1,2 +1,0 @@
-struct TYPE_3__ | pClassData long 
-function pyb_usbdd_DeInit int | pdev struct TYPE_3__ * | cfgidx int

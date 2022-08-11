@@ -1,3 +1,0 @@
-struct ifreq | dummy int 
-struct dsa_switch | dummy int 
-function mv88e6xxx_port_hwtstamp_set int | ds struct dsa_switch * | port int | ifr struct ifreq *

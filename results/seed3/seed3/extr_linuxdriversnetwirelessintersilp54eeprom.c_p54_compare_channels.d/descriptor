@@ -1,0 +1,2 @@
+struct p54_channel_entry | freq int 
+function p54_compare_channels int | _a const void * | _b const void *

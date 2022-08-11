@@ -1,0 +1,6 @@
+struct TYPE_5__ | flags unsigned long 
+struct kernel_vm86_regs | pt struct TYPE_5__ 
+struct TYPE_7__ | vm86 struct TYPE_6__ * 
+struct TYPE_8__ | thread struct TYPE_7__ 
+struct TYPE_6__ | veflags_mask int 
+function get_vflags unsigned long | regs struct kernel_vm86_regs *

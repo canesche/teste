@@ -1,0 +1,4 @@
+struct object | type long | flags unsigned int 
+struct TYPE_4__ | parsed_objects struct TYPE_3__ * 
+struct TYPE_3__ | obj_hash_size int | obj_hash struct object ** 
+function clear_commit_marks_all void | flags unsigned int

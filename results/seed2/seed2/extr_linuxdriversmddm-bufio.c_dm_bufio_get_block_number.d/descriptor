@@ -1,0 +1,2 @@
+struct dm_buffer | block int 
+function dm_bufio_get_block_number int | b struct dm_buffer *

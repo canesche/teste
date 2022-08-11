@@ -1,2 +1,0 @@
-struct skcipher_walk | flags int 
-function skcipher_walk_gfp int | walk struct skcipher_walk *

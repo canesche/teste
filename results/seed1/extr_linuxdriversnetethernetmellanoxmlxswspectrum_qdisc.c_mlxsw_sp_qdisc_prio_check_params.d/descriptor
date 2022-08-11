@@ -1,4 +1,0 @@
-struct tc_prio_qopt_offload_params | bands long 
-struct mlxsw_sp_qdisc | dummy int 
-struct mlxsw_sp_port | dummy int 
-function mlxsw_sp_qdisc_prio_check_params int | mlxsw_sp_port struct mlxsw_sp_port * | mlxsw_sp_qdisc struct mlxsw_sp_qdisc * | params void *

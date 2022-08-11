@@ -1,0 +1,2 @@
+struct TYPE_3__ | read_pos long | write_pos long 
+function mf_avail long | mf const struct TYPE_3__ *

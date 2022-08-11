@@ -1,0 +1,3 @@
+struct ocrdma_fw_conf_rsp | fn_mode int | max_eq int | base_eqid int 
+struct ocrdma_dev | max_eq int | base_eqid int 
+function ocrdma_check_fw_config int | dev struct ocrdma_dev * | conf struct ocrdma_fw_conf_rsp *

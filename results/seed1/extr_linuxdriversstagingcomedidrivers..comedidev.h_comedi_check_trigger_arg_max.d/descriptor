@@ -1,1 +1,0 @@
-function comedi_check_trigger_arg_max int | arg unsigned int * | val unsigned int

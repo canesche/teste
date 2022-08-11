@@ -1,3 +1,0 @@
-struct TYPE_4__ | items struct TYPE_5__ * 
-struct TYPE_5__ | next struct TYPE_5__ * 
-function pqueue_size unsigned long | pq struct TYPE_4__ *

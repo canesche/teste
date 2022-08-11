@@ -1,0 +1,3 @@
+struct timer_node | next struct timer_node * 
+struct link_list | tail struct timer_node * 
+function link void | list struct link_list * | node struct timer_node *

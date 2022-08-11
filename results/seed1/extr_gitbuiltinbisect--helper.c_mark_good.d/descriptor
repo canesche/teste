@@ -1,2 +1,0 @@
-struct object_id | dummy int 
-function mark_good int | refname const char * | oid const struct object_id * | flag int | cb_data void *

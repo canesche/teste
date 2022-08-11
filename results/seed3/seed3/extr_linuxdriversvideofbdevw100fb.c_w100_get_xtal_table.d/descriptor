@@ -1,0 +1,3 @@
+struct w100_pll_info | dummy int 
+struct pll_entries | xtal_freq int | pll_table struct w100_pll_info * 
+function w100_get_xtal_table struct w100_pll_info * | freq unsigned int

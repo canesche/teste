@@ -1,0 +1,2 @@
+struct diff_flags | dummy int 
+function diff_flags_or void | a struct diff_flags * | b const struct diff_flags *

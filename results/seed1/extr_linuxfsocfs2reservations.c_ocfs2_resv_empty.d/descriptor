@@ -1,2 +1,0 @@
-struct ocfs2_alloc_reservation | r_len long 
-function ocfs2_resv_empty int | resv struct ocfs2_alloc_reservation *

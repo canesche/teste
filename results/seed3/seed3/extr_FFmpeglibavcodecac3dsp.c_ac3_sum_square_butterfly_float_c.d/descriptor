@@ -1,0 +1,1 @@
+function ac3_sum_square_butterfly_float_c void | sum float [4] | coef0 const float * | coef1 const float * | len int

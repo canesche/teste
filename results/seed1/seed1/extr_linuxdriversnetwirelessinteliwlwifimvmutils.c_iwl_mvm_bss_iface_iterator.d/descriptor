@@ -1,0 +1,3 @@
+struct iwl_bss_iter_data | error int | vif struct ieee80211_vif * 
+struct ieee80211_vif | type long | p2p long 
+function iwl_mvm_bss_iface_iterator void | _data void * | mac int * | vif struct ieee80211_vif *

@@ -1,0 +1,5 @@
+struct of_phandle_args | args unsigned int * 
+struct max9485_driver_data | hw struct TYPE_2__ * 
+struct clk_hw | dummy int 
+struct TYPE_2__ | hw struct clk_hw 
+function max9485_of_clk_get struct clk_hw * | clkspec struct of_phandle_args * | data void *

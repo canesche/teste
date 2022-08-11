@@ -1,0 +1,3 @@
+struct mutex | magic struct mutex * 
+struct lock_class_key | dummy int 
+function debug_mutex_init void | lock struct mutex * | name const char * | key struct lock_class_key *

@@ -1,0 +1,4 @@
+struct hist_trigger_data | dummy int 
+struct TYPE_2__ | idx unsigned int | hist_data struct hist_trigger_data * 
+struct hist_field | flags int | var struct TYPE_2__ 
+function check_field_for_var_ref struct hist_field * | hist_field struct hist_field * | var_data struct hist_trigger_data * | var_idx unsigned int

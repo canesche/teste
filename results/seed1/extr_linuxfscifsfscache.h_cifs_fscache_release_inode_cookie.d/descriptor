@@ -1,2 +1,0 @@
-struct inode | dummy int 
-function cifs_fscache_release_inode_cookie void | inode struct inode *

@@ -1,0 +1,1 @@
+function extractsrccolors void | srcpixels int [4][4][4] | srcaddr const int * | srcRowStride int | numxpixels int | numypixels int | comps int

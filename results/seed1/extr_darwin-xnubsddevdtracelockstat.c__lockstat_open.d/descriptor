@@ -1,2 +1,0 @@
-struct proc | dummy int 
-function _lockstat_open int | dev int | flags int | devtype int | p struct proc *

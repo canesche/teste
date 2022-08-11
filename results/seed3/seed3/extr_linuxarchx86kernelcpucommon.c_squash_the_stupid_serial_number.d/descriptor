@@ -1,0 +1,2 @@
+struct cpuinfo_x86 | dummy int 
+function squash_the_stupid_serial_number void | c struct cpuinfo_x86 *

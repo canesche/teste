@@ -1,0 +1,6 @@
+struct TYPE_13__ | rgba int * | comp struct TYPE_11__ * 
+struct TYPE_12__ | nb_planes int | desc struct TYPE_10__ * 
+struct TYPE_11__ | u16 unsigned int * 
+struct TYPE_10__ | comp struct TYPE_9__ * 
+struct TYPE_9__ | depth int 
+function reverse_color16 void | draw struct TYPE_12__ * | color struct TYPE_13__ * | reverse struct TYPE_13__ *

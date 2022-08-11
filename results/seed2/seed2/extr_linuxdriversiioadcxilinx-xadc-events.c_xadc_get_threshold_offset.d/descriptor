@@ -1,0 +1,2 @@
+struct iio_chan_spec | type long | channel int 
+function xadc_get_threshold_offset unsigned int | chan const struct iio_chan_spec * | dir enum iio_event_direction

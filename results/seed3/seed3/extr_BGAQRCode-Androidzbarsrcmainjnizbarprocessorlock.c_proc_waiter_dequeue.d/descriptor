@@ -1,0 +1,3 @@
+struct TYPE_5__ | lock_level int | lock_owner int | wait_tail struct TYPE_6__ * | wait_head struct TYPE_6__ * | wait_next struct TYPE_6__ * 
+struct TYPE_6__ | events int | requester int | next struct TYPE_6__ * 
+function proc_waiter_dequeue struct TYPE_6__ * | proc struct TYPE_5__ *

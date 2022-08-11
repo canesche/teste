@@ -1,0 +1,2 @@
+struct TYPE_3__ | pvScan0 int * | lDelta int 
+function DIB_4BPP_VLine int | SurfObj struct TYPE_3__ * | x int | y1 int | y2 int | c int

@@ -1,0 +1,2 @@
+struct memtype | dummy int 
+function rbt_memtype_erase struct memtype * | start int | end int

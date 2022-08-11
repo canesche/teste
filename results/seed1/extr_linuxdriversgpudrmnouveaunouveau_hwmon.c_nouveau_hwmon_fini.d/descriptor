@@ -1,2 +1,0 @@
-struct drm_device | dummy int 
-function nouveau_hwmon_fini void | dev struct drm_device *

@@ -1,0 +1,2 @@
+struct ata_port | dummy int 
+function ata_eh_handle_port_suspend void | ap struct ata_port *

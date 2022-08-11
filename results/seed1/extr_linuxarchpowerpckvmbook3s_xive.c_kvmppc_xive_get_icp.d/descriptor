@@ -1,4 +1,0 @@
-struct kvmppc_xive_vcpu | mfrr long | cppr long 
-struct TYPE_2__ | xive_vcpu struct kvmppc_xive_vcpu * 
-struct kvm_vcpu | arch struct TYPE_2__ 
-function kvmppc_xive_get_icp int | vcpu struct kvm_vcpu *

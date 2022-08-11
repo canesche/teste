@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/seed1/extr_radare2librasmarcharmaarch64aarch64-opc.c_aarch64_shift_operator_p.d/extr_radare2librasmarcharmaarch64aarch64-opc.c_aarch64_shift_operator_p_O0::aarch64_shift_operator_p(65)"
+  }
+]

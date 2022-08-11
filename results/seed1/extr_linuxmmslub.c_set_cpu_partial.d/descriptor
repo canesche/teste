@@ -1,2 +1,0 @@
-struct kmem_cache | dummy int 
-function set_cpu_partial void | s struct kmem_cache *

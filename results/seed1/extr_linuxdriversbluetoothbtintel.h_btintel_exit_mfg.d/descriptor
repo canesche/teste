@@ -1,2 +1,0 @@
-struct hci_dev | dummy int 
-function btintel_exit_mfg int | hdev struct hci_dev * | reset int | patched int

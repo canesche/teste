@@ -1,3 +1,0 @@
-struct nfs_server | attr_bitmask int * 
-struct nfs4_label | dummy int 
-function nfs4_bitmask int * | server struct nfs_server * | label struct nfs4_label *

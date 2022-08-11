@@ -1,0 +1,2 @@
+struct tg3 | phy_id int 
+function tg3_phy_string char * | tp struct tg3 *

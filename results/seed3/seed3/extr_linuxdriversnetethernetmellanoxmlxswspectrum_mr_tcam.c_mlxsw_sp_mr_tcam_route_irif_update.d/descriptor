@@ -1,0 +1,3 @@
+struct mlxsw_sp_mr_tcam_route | action long | irif_index int 
+struct mlxsw_sp | dummy int 
+function mlxsw_sp_mr_tcam_route_irif_update int | mlxsw_sp struct mlxsw_sp * | route_priv void * | irif_index int

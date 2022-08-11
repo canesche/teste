@@ -1,0 +1,4 @@
+struct TYPE_6__ | modesCount int | modes struct TYPE_5__ * 
+struct TYPE_7__ | wl struct TYPE_6__ 
+struct TYPE_5__ | flags int | base int 
+function _glfwPlatformGetVideoMode void | monitor struct TYPE_7__ * | mode int *

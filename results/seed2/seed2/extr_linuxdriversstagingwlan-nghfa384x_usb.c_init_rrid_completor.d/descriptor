@@ -1,0 +1,4 @@
+struct usbctlx_completor | complete int 
+struct usbctlx_rrid_completor | riddatalen unsigned int | head struct usbctlx_completor | riddata void * | rridresp const struct hfa384x_usb_rridresp * 
+struct hfa384x_usb_rridresp | dummy int 
+function init_rrid_completor struct usbctlx_completor * | completor struct usbctlx_rrid_completor * | rridresp const struct hfa384x_usb_rridresp * | riddata void * | riddatalen unsigned int

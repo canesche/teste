@@ -1,2 +1,0 @@
-struct xfs_sb | sb_versionnum int | sb_features2 int 
-function xfs_sb_good_v4_features int | sbp struct xfs_sb *

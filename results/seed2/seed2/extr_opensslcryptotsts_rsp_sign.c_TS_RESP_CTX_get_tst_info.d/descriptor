@@ -1,0 +1,2 @@
+struct TYPE_3__ | tst_info int * 
+function TS_RESP_CTX_get_tst_info int * | ctx struct TYPE_3__ *

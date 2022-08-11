@@ -1,4 +1,0 @@
-struct thermal_zone_device | devdata struct __thermal_zone * 
-struct thermal_trip | dummy int 
-struct __thermal_zone | trips const struct thermal_trip * 
-function of_thermal_get_trip_points const struct thermal_trip * | tz struct thermal_zone_device *

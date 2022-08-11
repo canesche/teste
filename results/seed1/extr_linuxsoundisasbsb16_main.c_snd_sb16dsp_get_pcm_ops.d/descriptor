@@ -1,2 +1,0 @@
-struct snd_pcm_ops | dummy int 
-function snd_sb16dsp_get_pcm_ops const struct snd_pcm_ops * | direction int

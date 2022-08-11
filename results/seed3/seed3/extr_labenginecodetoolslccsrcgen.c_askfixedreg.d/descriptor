@@ -1,0 +1,4 @@
+struct TYPE_8__ | set int | mask int 
+struct TYPE_6__ | regnode struct TYPE_8__ * 
+struct TYPE_7__ | x struct TYPE_6__ 
+function askfixedreg struct TYPE_7__ * | s struct TYPE_7__ *

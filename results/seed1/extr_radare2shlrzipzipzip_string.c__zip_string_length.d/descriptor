@@ -1,2 +1,0 @@
-struct zip_string | length int 
-function _zip_string_length int | s const struct zip_string *
