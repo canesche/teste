@@ -1,0 +1,2 @@
+struct sym_hcb | dummy int 
+function sym_regtest int | np struct sym_hcb *

@@ -1,0 +1,2 @@
+struct dm_dirty_log | dummy int 
+function core_flush int | log struct dm_dirty_log *

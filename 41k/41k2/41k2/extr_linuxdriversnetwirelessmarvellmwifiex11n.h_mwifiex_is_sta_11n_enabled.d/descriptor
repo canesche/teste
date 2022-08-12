@@ -1,0 +1,4 @@
+struct mwifiex_sta_node | is_11n_enabled int 
+struct mwifiex_private | bss_role long | bss_mode long | adapter struct TYPE_2__ * | ap_11n_enabled int 
+struct TYPE_2__ | adhoc_11n_enabled int 
+function mwifiex_is_sta_11n_enabled int | priv struct mwifiex_private * | node struct mwifiex_sta_node *

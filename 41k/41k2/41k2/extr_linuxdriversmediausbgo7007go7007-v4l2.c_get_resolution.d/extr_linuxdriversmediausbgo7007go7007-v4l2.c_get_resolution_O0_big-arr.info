@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediausbgo7007go7007-v4l2.c_get_resolution.d/extr_linuxdriversmediausbgo7007go7007-v4l2.c_get_resolution_O0::get_resolution(66)"
+  }
+]

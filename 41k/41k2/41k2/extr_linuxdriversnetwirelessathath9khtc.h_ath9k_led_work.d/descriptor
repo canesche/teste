@@ -1,0 +1,2 @@
+struct work_struct | dummy int 
+function ath9k_led_work void | work struct work_struct *

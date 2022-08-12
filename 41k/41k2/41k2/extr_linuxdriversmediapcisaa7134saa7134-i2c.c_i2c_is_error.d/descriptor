@@ -1,0 +1,1 @@
+function i2c_is_error int | status enum i2c_status

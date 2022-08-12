@@ -1,0 +1,4 @@
+struct mmc_data | flags int 
+struct jz4740_mmc_host | dma_tx struct dma_chan * | dma_rx struct dma_chan * 
+struct dma_chan | dummy int 
+function jz4740_mmc_get_dma_chan struct dma_chan * | host struct jz4740_mmc_host * | data struct mmc_data *

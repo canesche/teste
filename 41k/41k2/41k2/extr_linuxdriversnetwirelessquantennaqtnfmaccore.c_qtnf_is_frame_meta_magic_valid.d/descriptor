@@ -1,0 +1,2 @@
+struct qtnf_frame_meta_info | magic_s int | magic_e int 
+function qtnf_is_frame_meta_magic_valid int | m struct qtnf_frame_meta_info *

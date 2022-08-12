@@ -1,0 +1,4 @@
+struct TYPE_3__ | duplex int | speed int 
+struct TYPE_4__ | mac struct TYPE_3__ 
+struct hclgevf_dev | hw struct TYPE_4__ 
+function hclgevf_update_speed_duplex void | hdev struct hclgevf_dev * | speed int | duplex int

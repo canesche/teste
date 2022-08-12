@@ -1,0 +1,2 @@
+struct dwc3 | dummy int 
+function dwc3_otg_init void | dwc struct dwc3 *

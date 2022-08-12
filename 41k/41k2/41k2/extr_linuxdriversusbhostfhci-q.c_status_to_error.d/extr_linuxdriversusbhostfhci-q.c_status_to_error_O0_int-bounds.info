@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 11,
+    exit: true,
+    halt: false,
+    edges: 24,
+    static: {
+      instructions: 54,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 54,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversusbhostfhci-q.c_status_to_error.d/extr_linuxdriversusbhostfhci-q.c_status_to_error_O0::status_to_error(82)"
+  }
+]

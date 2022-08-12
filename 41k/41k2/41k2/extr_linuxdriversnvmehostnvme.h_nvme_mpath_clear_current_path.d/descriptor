@@ -1,0 +1,2 @@
+struct nvme_ns | dummy int 
+function nvme_mpath_clear_current_path void | ns struct nvme_ns *

@@ -1,0 +1,2 @@
+struct mlx5_core_dev | dummy int 
+function mlx5_fpga_event void | mdev struct mlx5_core_dev * | event int | data void *

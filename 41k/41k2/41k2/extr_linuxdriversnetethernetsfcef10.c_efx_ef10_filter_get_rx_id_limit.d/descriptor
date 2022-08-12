@@ -1,0 +1,3 @@
+struct efx_nic | filter_state struct efx_ef10_filter_table * 
+struct efx_ef10_filter_table | rx_match_count int 
+function efx_ef10_filter_get_rx_id_limit int | efx struct efx_nic *

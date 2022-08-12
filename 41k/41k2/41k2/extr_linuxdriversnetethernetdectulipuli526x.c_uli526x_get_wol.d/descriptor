@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct ethtool_wolinfo | supported int | wolopts long 
+function uli526x_get_wol void | dev struct net_device * | wol struct ethtool_wolinfo *

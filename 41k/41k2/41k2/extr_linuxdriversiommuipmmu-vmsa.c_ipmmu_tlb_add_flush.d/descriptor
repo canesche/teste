@@ -1,0 +1,1 @@
+function ipmmu_tlb_add_flush void | iova unsigned long | size unsigned long | granule unsigned long | leaf int | cookie void *

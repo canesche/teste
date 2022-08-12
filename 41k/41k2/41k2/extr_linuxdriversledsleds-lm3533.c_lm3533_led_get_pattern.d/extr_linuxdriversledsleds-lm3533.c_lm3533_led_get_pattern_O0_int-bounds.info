@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversledsleds-lm3533.c_lm3533_led_get_pattern.d/extr_linuxdriversledsleds-lm3533.c_lm3533_led_get_pattern_O0::lm3533_led_get_pattern(62)"
+  }
+]

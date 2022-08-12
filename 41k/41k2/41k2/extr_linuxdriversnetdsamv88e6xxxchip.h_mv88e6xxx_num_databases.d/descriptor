@@ -1,0 +1,3 @@
+struct mv88e6xxx_chip | info struct TYPE_2__ * 
+struct TYPE_2__ | num_databases unsigned int 
+function mv88e6xxx_num_databases unsigned int | chip struct mv88e6xxx_chip *

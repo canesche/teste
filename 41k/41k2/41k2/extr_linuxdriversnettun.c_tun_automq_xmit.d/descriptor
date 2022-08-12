@@ -1,0 +1,3 @@
+struct tun_struct | dummy int 
+struct sk_buff | dummy int 
+function tun_automq_xmit void | tun struct tun_struct * | skb struct sk_buff *

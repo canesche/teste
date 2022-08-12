@@ -1,0 +1,2 @@
+struct iwl_scale_tbl_info | lq_type long | ant_type long | is_SGI long 
+function table_type_matches int | a struct iwl_scale_tbl_info * | b struct iwl_scale_tbl_info *

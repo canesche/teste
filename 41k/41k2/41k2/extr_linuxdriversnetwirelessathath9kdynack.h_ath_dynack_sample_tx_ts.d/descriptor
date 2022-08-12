@@ -1,0 +1,5 @@
+struct sk_buff | dummy int 
+struct ieee80211_sta | dummy int 
+struct ath_tx_status | dummy int 
+struct ath_hw | dummy int 
+function ath_dynack_sample_tx_ts void | ah struct ath_hw * | skb struct sk_buff * | ts struct ath_tx_status * | sta struct ieee80211_sta *

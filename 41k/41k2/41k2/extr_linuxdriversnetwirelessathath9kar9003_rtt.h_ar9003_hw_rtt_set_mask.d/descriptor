@@ -1,0 +1,2 @@
+struct ath_hw | dummy int 
+function ar9003_hw_rtt_set_mask void | ah struct ath_hw * | rtt_mask int

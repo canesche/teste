@@ -1,0 +1,2 @@
+struct net_device_stats | rx_errors int | rx_frame_errors int | rx_length_errors int | rx_over_errors int | rx_crc_errors int 
+function sis190_rx_pkt_err int | status int | stats struct net_device_stats *

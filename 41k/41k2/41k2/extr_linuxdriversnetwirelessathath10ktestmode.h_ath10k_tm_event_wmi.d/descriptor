@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct ath10k | dummy int 
+function ath10k_tm_event_wmi int | ar struct ath10k * | cmd_id int | skb struct sk_buff *

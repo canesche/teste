@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingdgncdgnc_tty.c_dgnc_set_custom_speed.d/extr_linuxdriversstagingdgncdgnc_tty.c_dgnc_set_custom_speed_O0::dgnc_set_custom_speed(64)"
+  }
+]

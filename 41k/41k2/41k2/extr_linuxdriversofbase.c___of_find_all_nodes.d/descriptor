@@ -1,0 +1,2 @@
+struct device_node | sibling struct device_node * | parent struct device_node * | child struct device_node * 
+function __of_find_all_nodes struct device_node * | prev struct device_node *

@@ -1,0 +1,3 @@
+struct platform_device | dummy int 
+struct davinci_spi | dummy int 
+function spi_davinci_get_pdata int | pdev struct platform_device * | dspi struct davinci_spi *

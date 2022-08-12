@@ -1,0 +1,2 @@
+struct nd_blk_region | dummy int 
+function nd_blk_memremap_flags unsigned long | ndbr struct nd_blk_region *

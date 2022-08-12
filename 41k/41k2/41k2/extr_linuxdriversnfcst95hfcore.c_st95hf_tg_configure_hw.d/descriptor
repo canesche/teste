@@ -1,0 +1,2 @@
+struct nfc_digital_dev | dummy int 
+function st95hf_tg_configure_hw int | ddev struct nfc_digital_dev * | type int | param int

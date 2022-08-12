@@ -1,0 +1,2 @@
+struct v4l2_subdev_fh | dummy int 
+function subdev_fh_free void | fh struct v4l2_subdev_fh *

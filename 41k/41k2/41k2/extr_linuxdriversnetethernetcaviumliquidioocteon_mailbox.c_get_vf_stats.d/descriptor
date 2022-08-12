@@ -1,0 +1,7 @@
+struct octeon_device | num_iqs int | num_oqs int | droq struct TYPE_8__ ** | instr_queue struct TYPE_6__ ** 
+struct oct_vf_stats | rx_bytes int | rx_packets int | tx_bytes int | tx_packets int 
+struct TYPE_7__ | rx_bytes_received long | rx_pkts_received long 
+struct TYPE_8__ | stats struct TYPE_7__ 
+struct TYPE_5__ | tx_tot_bytes long | tx_done long 
+struct TYPE_6__ | stats struct TYPE_5__ 
+function get_vf_stats void | oct struct octeon_device * | stats struct oct_vf_stats *

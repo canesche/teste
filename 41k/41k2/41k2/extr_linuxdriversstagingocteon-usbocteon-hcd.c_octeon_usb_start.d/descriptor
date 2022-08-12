@@ -1,0 +1,2 @@
+struct usb_hcd | state int 
+function octeon_usb_start int | hcd struct usb_hcd *

@@ -1,0 +1,2 @@
+struct uart_port | dummy int 
+function stm32_release_port void | port struct uart_port *

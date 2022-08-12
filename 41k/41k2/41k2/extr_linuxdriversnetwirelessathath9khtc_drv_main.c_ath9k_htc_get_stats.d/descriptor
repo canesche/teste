@@ -1,0 +1,6 @@
+struct ieee80211_low_level_stats | dot11RTSSuccessCount int | dot11FCSErrorCount int | dot11RTSFailureCount int | dot11ACKFailureCount int 
+struct ieee80211_hw | priv struct ath9k_htc_priv * 
+struct ath9k_mib_stats | rts_good int | fcs_bad int | rts_bad int | ackrcv_bad int 
+struct ath_hw | ah_mibStats struct ath9k_mib_stats 
+struct ath9k_htc_priv | ah struct ath_hw * 
+function ath9k_htc_get_stats int | hw struct ieee80211_hw * | stats struct ieee80211_low_level_stats *

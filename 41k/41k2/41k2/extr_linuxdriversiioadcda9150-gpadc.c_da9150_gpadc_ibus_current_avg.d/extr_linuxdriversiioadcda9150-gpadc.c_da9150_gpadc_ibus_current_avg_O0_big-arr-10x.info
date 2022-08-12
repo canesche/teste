@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversiioadcda9150-gpadc.c_da9150_gpadc_ibus_current_avg.d/extr_linuxdriversiioadcda9150-gpadc.c_da9150_gpadc_ibus_current_avg_O0::da9150_gpadc_ibus_current_avg(60)"
+  }
+]

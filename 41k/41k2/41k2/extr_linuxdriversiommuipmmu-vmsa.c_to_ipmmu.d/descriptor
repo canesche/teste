@@ -1,0 +1,4 @@
+struct ipmmu_vmsa_device | dummy int 
+struct device | iommu_fwspec struct TYPE_2__ * 
+struct TYPE_2__ | iommu_priv struct ipmmu_vmsa_device * 
+function to_ipmmu struct ipmmu_vmsa_device * | dev struct device *

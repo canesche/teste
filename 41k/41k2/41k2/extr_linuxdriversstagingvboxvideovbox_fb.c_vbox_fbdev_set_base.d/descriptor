@@ -1,0 +1,8 @@
+struct vbox_private | available_vram_size long | fbdev struct TYPE_7__ * 
+struct TYPE_10__ | smem_len long | smem_start long 
+struct fb_info | fix struct TYPE_10__ | apertures struct TYPE_9__ * 
+struct TYPE_9__ | ranges struct TYPE_8__ * 
+struct TYPE_8__ | base long 
+struct TYPE_6__ | fbdev struct fb_info * 
+struct TYPE_7__ | helper struct TYPE_6__ 
+function vbox_fbdev_set_base void | vbox struct vbox_private * | gpu_addr unsigned long

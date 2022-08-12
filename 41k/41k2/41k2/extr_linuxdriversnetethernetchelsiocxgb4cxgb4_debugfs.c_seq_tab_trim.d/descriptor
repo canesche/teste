@@ -1,0 +1,2 @@
+struct seq_tab | rows unsigned int 
+function seq_tab_trim int | p struct seq_tab * | new_rows unsigned int

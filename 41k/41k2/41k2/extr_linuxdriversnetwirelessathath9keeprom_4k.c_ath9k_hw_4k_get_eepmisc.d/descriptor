@@ -1,0 +1,5 @@
+struct TYPE_4__ | eepMisc int 
+struct TYPE_5__ | baseEepHeader struct TYPE_4__ 
+struct TYPE_6__ | map4k struct TYPE_5__ 
+struct ath_hw | eeprom struct TYPE_6__ 
+function ath9k_hw_4k_get_eepmisc int | ah struct ath_hw *

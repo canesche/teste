@@ -1,0 +1,2 @@
+struct ixgbe_hw | dummy int 
+function ixgbe_get_media_type_X540 enum ixgbe_media_type | hw struct ixgbe_hw *

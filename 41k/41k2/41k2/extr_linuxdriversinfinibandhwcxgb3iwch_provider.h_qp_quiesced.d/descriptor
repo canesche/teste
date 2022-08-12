@@ -1,0 +1,2 @@
+struct iwch_qp | flags int 
+function qp_quiesced int | qhp struct iwch_qp *

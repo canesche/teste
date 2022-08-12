@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmiscmicscifscif_dma.c_scif_mmu_notif_handler.d/extr_linuxdriversmiscmicscifscif_dma.c_scif_mmu_notif_handler_O0::scif_mmu_notif_handler(61)"
+  }
+]

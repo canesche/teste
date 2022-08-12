@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessrealtekrtlwifirtl8192cetrx.c__rtl92ce_signal_scale_mapping.d/extr_linuxdriversnetwirelessrealtekrtlwifirtl8192cetrx.c__rtl92ce_signal_scale_mapping_O0::_rtl92ce_signal_scale_mapping(62)"
+  }
+]

@@ -1,0 +1,3 @@
+struct s5p_jpeg_q_data | dummy int 
+struct s5p_jpeg_ctx | cap_q struct s5p_jpeg_q_data | out_q struct s5p_jpeg_q_data 
+function get_q_data struct s5p_jpeg_q_data * | ctx struct s5p_jpeg_ctx * | type enum v4l2_buf_type

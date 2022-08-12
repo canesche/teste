@@ -1,0 +1,2 @@
+struct dm_verity_io | dummy int 
+function verity_fec_finish_io void | io struct dm_verity_io *

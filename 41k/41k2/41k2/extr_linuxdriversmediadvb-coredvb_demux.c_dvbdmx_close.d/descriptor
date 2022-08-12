@@ -1,0 +1,3 @@
+struct dvb_demux | users long 
+struct dmx_demux | dummy int 
+function dvbdmx_close int | demux struct dmx_demux *

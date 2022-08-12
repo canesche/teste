@@ -1,0 +1,2 @@
+struct context_entry | hi int 
+function context_domain_id int | c struct context_entry *

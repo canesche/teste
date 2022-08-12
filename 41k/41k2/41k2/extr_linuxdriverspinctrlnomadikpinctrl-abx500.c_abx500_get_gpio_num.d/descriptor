@@ -1,0 +1,3 @@
+struct abx500_pinrange | offset unsigned int | npins int 
+struct abx500_pinctrl_soc_data | gpio_num_ranges int | gpio_ranges struct abx500_pinrange * 
+function abx500_get_gpio_num int | soc struct abx500_pinctrl_soc_data *

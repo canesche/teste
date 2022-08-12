@@ -1,0 +1,3 @@
+struct bnx2x_queue_sp_obj | state int 
+struct bnx2x | dummy int 
+function bnx2x_get_q_logical_state int | bp struct bnx2x * | obj struct bnx2x_queue_sp_obj *

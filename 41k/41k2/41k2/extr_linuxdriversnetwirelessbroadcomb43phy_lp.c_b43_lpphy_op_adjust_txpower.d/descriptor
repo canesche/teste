@@ -1,0 +1,2 @@
+struct b43_wldev | dummy int 
+function b43_lpphy_op_adjust_txpower void | dev struct b43_wldev *

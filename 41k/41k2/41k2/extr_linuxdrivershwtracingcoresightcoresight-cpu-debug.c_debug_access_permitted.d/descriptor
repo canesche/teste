@@ -1,0 +1,2 @@
+struct debug_drvdata | edprsr int 
+function debug_access_permitted int | drvdata struct debug_drvdata *

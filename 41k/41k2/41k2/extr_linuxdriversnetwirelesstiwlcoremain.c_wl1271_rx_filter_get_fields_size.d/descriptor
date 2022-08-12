@@ -1,0 +1,4 @@
+struct wl12xx_rx_filter_field | dummy int 
+struct wl12xx_rx_filter | num_fields int | fields struct TYPE_2__ * 
+struct TYPE_2__ | len int 
+function wl1271_rx_filter_get_fields_size int | filter struct wl12xx_rx_filter *

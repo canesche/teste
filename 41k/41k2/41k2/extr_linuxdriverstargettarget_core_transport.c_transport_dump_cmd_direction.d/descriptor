@@ -1,0 +1,2 @@
+struct se_cmd | data_direction int 
+function transport_dump_cmd_direction unsigned char * | cmd struct se_cmd *

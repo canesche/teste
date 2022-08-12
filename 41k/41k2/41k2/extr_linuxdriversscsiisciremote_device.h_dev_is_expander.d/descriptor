@@ -1,0 +1,2 @@
+struct domain_device | dev_type long 
+function dev_is_expander int | dev struct domain_device *

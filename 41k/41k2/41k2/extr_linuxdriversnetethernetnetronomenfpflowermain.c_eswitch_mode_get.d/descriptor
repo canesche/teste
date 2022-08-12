@@ -1,0 +1,2 @@
+struct nfp_app | dummy int 
+function eswitch_mode_get enum devlink_eswitch_mode | app struct nfp_app *

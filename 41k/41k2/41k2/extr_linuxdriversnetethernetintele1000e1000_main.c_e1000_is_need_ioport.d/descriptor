@@ -1,0 +1,2 @@
+struct pci_dev | device int 
+function e1000_is_need_ioport int | pdev struct pci_dev *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmiscmeiclient.c_mei_cl_notify_fop2req.d/extr_linuxdriversmiscmeiclient.c_mei_cl_notify_fop2req_O0::mei_cl_notify_fop2req(63)"
+  }
+]

@@ -1,0 +1,2 @@
+struct mlx5e_priv | dummy int 
+function mlx5e_add_sqs_fwd_rules int | priv struct mlx5e_priv *

@@ -1,0 +1,2 @@
+struct ehci_hcd | dummy int 
+function dbg_hcc_params void | ehci struct ehci_hcd * | label char *

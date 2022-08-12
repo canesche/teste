@@ -1,0 +1,2 @@
+struct i40iw_pble_info | cnt long | addr long 
+function i40iw_next_pbl_addr int * | pbl int * | pinfo struct i40iw_pble_info ** | idx long *

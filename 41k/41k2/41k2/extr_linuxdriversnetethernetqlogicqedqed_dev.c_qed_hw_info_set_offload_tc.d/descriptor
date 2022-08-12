@@ -1,0 +1,2 @@
+struct qed_hw_info | offload_tc_set int | offload_tc int 
+function qed_hw_info_set_offload_tc void | p_info struct qed_hw_info * | tc int

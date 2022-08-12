@@ -1,0 +1,2 @@
+struct mtd_info | dummy int 
+function fsl_elbc_select_chip void | mtd struct mtd_info * | chip int

@@ -1,0 +1,2 @@
+struct device_node | dummy int 
+function irq_trans_init void | dp struct device_node *

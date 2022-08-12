@@ -1,0 +1,4 @@
+struct TYPE_3__ | last_desc int | int_on_com int 
+struct TYPE_4__ | tx_rd_des23 struct TYPE_3__ 
+struct sxgbe_tx_norm_desc | tdes23 struct TYPE_4__ 
+function sxgbe_close_tx_desc void | p struct sxgbe_tx_norm_desc *

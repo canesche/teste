@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmdraid5-cache.c_r5l_ring_distance.d/extr_linuxdriversmdraid5-cache.c_r5l_ring_distance_O0::r5l_ring_distance(63)"
+  }
+]

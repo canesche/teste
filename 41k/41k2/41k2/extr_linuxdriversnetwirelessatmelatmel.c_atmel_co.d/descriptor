@@ -1,0 +1,3 @@
+struct TYPE_2__ | command_pos long 
+struct atmel_private | host_info struct TYPE_2__ 
+function atmel_co long | priv struct atmel_private * | offset long

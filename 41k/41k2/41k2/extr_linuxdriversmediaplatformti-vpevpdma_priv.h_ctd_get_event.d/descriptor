@@ -1,0 +1,2 @@
+struct vpdma_ctd | event int 
+function ctd_get_event int | ctd struct vpdma_ctd *

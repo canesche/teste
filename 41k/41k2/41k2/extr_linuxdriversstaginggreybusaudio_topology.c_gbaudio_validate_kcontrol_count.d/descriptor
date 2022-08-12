@@ -1,0 +1,2 @@
+struct gb_audio_widget | type int | ncontrols int 
+function gbaudio_validate_kcontrol_count int | w struct gb_audio_widget *

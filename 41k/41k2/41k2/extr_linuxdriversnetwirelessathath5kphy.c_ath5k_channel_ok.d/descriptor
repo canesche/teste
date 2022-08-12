@@ -1,0 +1,5 @@
+struct ieee80211_channel | center_freq long | band long 
+struct TYPE_3__ | range_2ghz_min long | range_2ghz_max long | range_5ghz_min long | range_5ghz_max long 
+struct TYPE_4__ | cap_range struct TYPE_3__ 
+struct ath5k_hw | ah_capabilities struct TYPE_4__ 
+function ath5k_channel_ok int | ah struct ath5k_hw * | channel struct ieee80211_channel *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetchelsiocxgb3xgmac.c_t3_mac_set_num_ucast.d/extr_linuxdriversnetethernetchelsiocxgb3xgmac.c_t3_mac_set_num_ucast_O0::t3_mac_set_num_ucast(63)"
+  }
+]

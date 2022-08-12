@@ -1,0 +1,2 @@
+struct rt2x00_dev | dummy int 
+function rt2x00lib_free_firmware void | rt2x00dev struct rt2x00_dev *

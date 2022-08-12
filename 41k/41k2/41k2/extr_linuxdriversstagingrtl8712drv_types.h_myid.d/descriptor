@@ -1,0 +1,2 @@
+struct eeprom_priv | mac_addr int * 
+function myid int * | peepriv struct eeprom_priv *

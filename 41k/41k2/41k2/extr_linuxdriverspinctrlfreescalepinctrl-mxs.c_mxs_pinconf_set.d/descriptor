@@ -1,0 +1,2 @@
+struct pinctrl_dev | dummy int 
+function mxs_pinconf_set int | pctldev struct pinctrl_dev * | pin unsigned int | configs unsigned long * | num_configs unsigned int

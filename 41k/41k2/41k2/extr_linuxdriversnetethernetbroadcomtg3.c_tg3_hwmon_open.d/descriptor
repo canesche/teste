@@ -1,0 +1,2 @@
+struct tg3 | dummy int 
+function tg3_hwmon_open void | tp struct tg3 *

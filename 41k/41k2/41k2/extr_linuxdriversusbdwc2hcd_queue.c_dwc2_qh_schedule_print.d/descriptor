@@ -1,0 +1,3 @@
+struct dwc2_qh | dummy int 
+struct dwc2_hsotg | dummy int 
+function dwc2_qh_schedule_print void | hsotg struct dwc2_hsotg * | qh struct dwc2_qh *

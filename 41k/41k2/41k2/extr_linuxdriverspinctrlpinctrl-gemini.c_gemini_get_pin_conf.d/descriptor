@@ -1,0 +1,3 @@
+struct gemini_pmx | nconfs int | confs struct gemini_pin_conf * 
+struct gemini_pin_conf | pin unsigned int 
+function gemini_get_pin_conf const struct gemini_pin_conf * | pmx struct gemini_pmx * | pin unsigned int

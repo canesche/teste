@@ -1,0 +1,3 @@
+struct net_device | ml_priv struct adapter * 
+struct adapter | msg_enable int 
+function get_msglevel int | dev struct net_device *

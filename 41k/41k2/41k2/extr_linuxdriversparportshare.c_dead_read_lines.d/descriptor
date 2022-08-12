@@ -1,0 +1,2 @@
+struct parport | dummy int 
+function dead_read_lines unsigned char | p struct parport *

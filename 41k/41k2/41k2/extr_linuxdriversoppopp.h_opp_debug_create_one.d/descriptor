@@ -1,0 +1,3 @@
+struct opp_table | dummy int 
+struct dev_pm_opp | dummy int 
+function opp_debug_create_one int | opp struct dev_pm_opp * | opp_table struct opp_table *

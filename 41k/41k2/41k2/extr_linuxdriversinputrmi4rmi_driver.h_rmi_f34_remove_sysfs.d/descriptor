@@ -1,0 +1,2 @@
+struct rmi_device | dummy int 
+function rmi_f34_remove_sysfs void | rmi_dev struct rmi_device *

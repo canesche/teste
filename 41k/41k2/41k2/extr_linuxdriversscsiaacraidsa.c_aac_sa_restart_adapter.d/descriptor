@@ -1,0 +1,2 @@
+struct aac_dev | dummy int 
+function aac_sa_restart_adapter int | dev struct aac_dev * | bled int | reset_type int

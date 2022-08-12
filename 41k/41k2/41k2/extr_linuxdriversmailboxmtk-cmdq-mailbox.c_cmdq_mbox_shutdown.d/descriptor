@@ -1,0 +1,2 @@
+struct mbox_chan | dummy int 
+function cmdq_mbox_shutdown void | chan struct mbox_chan *

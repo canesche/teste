@@ -1,0 +1,2 @@
+struct scsi_cmnd | dummy int 
+function sd_zbc_setup_report_cmnd int | cmd struct scsi_cmnd *

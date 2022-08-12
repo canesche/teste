@@ -1,0 +1,2 @@
+struct phy_dm_struct | dummy int 
+function phydm_watchdog_mp void | dm struct phy_dm_struct *

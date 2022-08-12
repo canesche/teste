@@ -1,0 +1,4 @@
+struct mlx5_flow_table | dummy int 
+struct mlx5_core_dev | dummy int 
+struct fs_fte | dummy int 
+function mlx5_cmd_stub_update_fte int | dev struct mlx5_core_dev * | ft struct mlx5_flow_table * | group_id unsigned int | modify_mask int | fte struct fs_fte *

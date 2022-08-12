@@ -1,0 +1,2 @@
+struct txpwrtrack_cfg | get_delta_swing_table int | phy_lc_calibrate int | do_iqk int | odm_tx_pwr_track_set_pwr int | thermal_reg_addr int | rf_path_count int | average_thermal_num int | threshold_dpk int | threshold_iqk int | swing_table_size_ofdm void * | swing_table_size_cck void * 
+function configure_txpower_track_8822b void | config struct txpwrtrack_cfg *

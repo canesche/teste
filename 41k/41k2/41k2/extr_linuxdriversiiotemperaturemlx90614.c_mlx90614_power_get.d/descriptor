@@ -1,0 +1,2 @@
+struct mlx90614_data | dummy int 
+function mlx90614_power_get int | data struct mlx90614_data * | startup int

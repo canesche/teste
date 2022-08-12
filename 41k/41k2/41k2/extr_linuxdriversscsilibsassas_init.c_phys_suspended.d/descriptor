@@ -1,0 +1,3 @@
+struct sas_ha_struct | num_phys int | sas_phy struct asd_sas_phy ** 
+struct asd_sas_phy | suspended long 
+function phys_suspended int | ha struct sas_ha_struct *

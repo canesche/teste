@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmtdnandrawsm_common.c_oob_sm_small_ooblayout_free.d/extr_linuxdriversmtdnandrawsm_common.c_oob_sm_small_ooblayout_free_O0::oob_sm_small_ooblayout_free(64)"
+  }
+]

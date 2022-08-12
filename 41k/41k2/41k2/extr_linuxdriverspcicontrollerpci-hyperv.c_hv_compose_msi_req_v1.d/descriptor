@@ -1,0 +1,6 @@
+struct TYPE_6__ | vector_count int | cpu_mask int | delivery_mode int | vector int 
+struct TYPE_5__ | slot int 
+struct TYPE_4__ | type int 
+struct pci_create_interrupt | int_desc struct TYPE_6__ | wslot struct TYPE_5__ | message_type struct TYPE_4__ 
+struct cpumask | dummy int 
+function hv_compose_msi_req_v1 int | int_pkt struct pci_create_interrupt * | affinity struct cpumask * | slot int | vector int

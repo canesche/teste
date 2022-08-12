@@ -1,0 +1,4 @@
+struct falcon_board | dummy int 
+struct falcon_nic_data | board struct falcon_board 
+struct ef4_nic | nic_data struct falcon_nic_data * 
+function falcon_board struct falcon_board * | efx struct ef4_nic *

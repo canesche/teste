@@ -1,0 +1,2 @@
+struct drm_gem_object | dummy int 
+function xen_drm_front_dbuf_to_cookie unsigned long | gem_obj struct drm_gem_object *

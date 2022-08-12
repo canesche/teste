@@ -1,0 +1,2 @@
+struct netxen_adapter | dummy int 
+function netxen_free_ip_list void | adapter struct netxen_adapter * | master int

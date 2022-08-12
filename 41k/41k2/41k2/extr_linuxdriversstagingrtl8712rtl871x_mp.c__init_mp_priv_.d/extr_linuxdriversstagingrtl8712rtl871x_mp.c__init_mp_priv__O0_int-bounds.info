@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingrtl8712rtl871x_mp.c__init_mp_priv_.d/extr_linuxdriversstagingrtl8712rtl871x_mp.c__init_mp_priv__O0::_init_mp_priv_(65)"
+  }
+]

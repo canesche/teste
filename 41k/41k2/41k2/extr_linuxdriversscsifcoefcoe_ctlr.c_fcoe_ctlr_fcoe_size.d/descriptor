@@ -1,0 +1,6 @@
+struct fcoe_hdr | dummy int 
+struct fcoe_ctlr | lp struct TYPE_2__ * 
+struct fcoe_crc_eof | dummy int 
+struct fc_frame_header | dummy int 
+struct TYPE_2__ | mfs long 
+function fcoe_ctlr_fcoe_size long | fip struct fcoe_ctlr *

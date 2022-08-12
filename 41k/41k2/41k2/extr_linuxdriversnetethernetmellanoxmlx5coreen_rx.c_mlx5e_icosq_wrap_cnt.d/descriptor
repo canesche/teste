@@ -1,0 +1,2 @@
+struct mlx5e_icosq | pc int 
+function mlx5e_icosq_wrap_cnt int | sq struct mlx5e_icosq *

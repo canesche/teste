@@ -1,0 +1,2 @@
+struct mtd_info | dummy int 
+function mapram_nop void | mtd struct mtd_info *

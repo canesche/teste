@@ -1,0 +1,5 @@
+struct me4000_private | ai_init_ticks int | ai_scan_ticks int | ai_chan_ticks int 
+struct comedi_subdevice | dummy int 
+struct comedi_device | private struct me4000_private * 
+struct comedi_cmd | start_arg int | flags int | scan_begin_arg int | convert_arg int 
+function me4000_ai_round_cmd_args void | dev struct comedi_device * | s struct comedi_subdevice * | cmd struct comedi_cmd *

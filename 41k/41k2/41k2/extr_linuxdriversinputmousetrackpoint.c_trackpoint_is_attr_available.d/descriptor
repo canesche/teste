@@ -1,0 +1,8 @@
+struct trackpoint_data | variant_id long 
+struct psmouse | private struct trackpoint_data * 
+struct attribute | dummy int 
+struct TYPE_6__ | attr struct attribute 
+struct TYPE_8__ | dattr struct TYPE_6__ 
+struct TYPE_5__ | attr struct attribute 
+struct TYPE_7__ | dattr struct TYPE_5__ 
+function trackpoint_is_attr_available int | psmouse struct psmouse * | attr struct attribute *

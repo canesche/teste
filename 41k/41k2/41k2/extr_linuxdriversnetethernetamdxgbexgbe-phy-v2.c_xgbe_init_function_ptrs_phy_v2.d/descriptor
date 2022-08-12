@@ -1,0 +1,3 @@
+struct xgbe_phy_impl_if | module_eeprom int | module_info int | kr_training_post int | kr_training_pre int | an_post int | an_pre int | an_outcome int | an_advertising int | an_config int | an_mode int | cur_mode int | switch_mode int | get_mode int | set_mode int | use_mode int | valid_speed int | link_status int | stop int | start int | reset int | exit int | init int 
+struct xgbe_phy_if | phy_impl struct xgbe_phy_impl_if 
+function xgbe_init_function_ptrs_phy_v2 void | phy_if struct xgbe_phy_if *

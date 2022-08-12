@@ -1,0 +1,2 @@
+struct fhci_hcd | dummy int 
+function fhci_dfs_create void | fhci struct fhci_hcd *

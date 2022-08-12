@@ -1,0 +1,3 @@
+struct mddev | changed int 
+struct gendisk | private_data struct mddev * 
+function md_media_changed int | disk struct gendisk *

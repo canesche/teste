@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetsfcfalconnet_driver.h_ef4_channel_has_tx_queues.d/extr_linuxdriversnetethernetsfcfalconnet_driver.h_ef4_channel_has_tx_queues_O0::ef4_channel_has_tx_queues(63)"
+  }
+]

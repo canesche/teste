@@ -1,0 +1,2 @@
+struct st_data_s | dummy int 
+function st_ll_deinit long | ll struct st_data_s *

@@ -1,0 +1,2 @@
+struct comedi_8254 | busy int * 
+function comedi_8254_set_busy void | i8254 struct comedi_8254 * | counter unsigned int | busy int

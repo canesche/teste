@@ -1,0 +1,2 @@
+struct isp1760_qtd | length unsigned long | data_buffer void * 
+function qtd_fill int | qtd struct isp1760_qtd * | databuffer void * | len unsigned long

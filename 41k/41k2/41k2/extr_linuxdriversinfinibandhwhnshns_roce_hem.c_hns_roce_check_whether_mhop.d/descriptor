@@ -1,0 +1,3 @@
+struct TYPE_2__ | mtt_hop_num long | cqe_hop_num long | srqc_hop_num long | cqc_hop_num long | mpt_hop_num long | qpc_hop_num long 
+struct hns_roce_dev | caps struct TYPE_2__ 
+function hns_roce_check_whether_mhop int | hr_dev struct hns_roce_dev * | type long

@@ -1,0 +1,2 @@
+struct iwl_rate_scale_data | stamp long | average_tpt void * | counter long | success_ratio void * | success_counter long | data long 
+function rs_rate_scale_clear_window void | window struct iwl_rate_scale_data *

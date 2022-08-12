@@ -1,0 +1,2 @@
+struct btc_coexist | dummy int 
+function halbtc_leave_low_power void | btcoexist struct btc_coexist *

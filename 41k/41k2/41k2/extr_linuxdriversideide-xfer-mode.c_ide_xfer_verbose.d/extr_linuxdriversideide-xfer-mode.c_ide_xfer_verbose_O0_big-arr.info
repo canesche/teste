@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversideide-xfer-mode.c_ide_xfer_verbose.d/extr_linuxdriversideide-xfer-mode.c_ide_xfer_verbose_O0::ide_xfer_verbose(74)"
+  }
+]

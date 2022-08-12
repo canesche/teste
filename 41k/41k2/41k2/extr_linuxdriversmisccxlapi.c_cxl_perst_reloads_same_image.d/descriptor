@@ -1,0 +1,3 @@
+struct cxl_afu | adapter struct TYPE_2__ * 
+struct TYPE_2__ | perst_same_image int 
+function cxl_perst_reloads_same_image void | afu struct cxl_afu * | perst_reloads_same_image int

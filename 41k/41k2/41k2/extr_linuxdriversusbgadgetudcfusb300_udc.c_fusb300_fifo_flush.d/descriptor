@@ -1,0 +1,2 @@
+struct usb_ep | dummy int 
+function fusb300_fifo_flush void | _ep struct usb_ep *

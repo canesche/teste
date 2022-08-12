@@ -1,0 +1,4 @@
+struct mt76x2_dev | txpower_cur int 
+struct ieee80211_vif | dummy int 
+struct ieee80211_hw | priv struct mt76x2_dev * 
+function mt76x2_get_txpower int | hw struct ieee80211_hw * | vif struct ieee80211_vif * | dbm int *

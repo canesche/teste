@@ -1,0 +1,2 @@
+struct t4_srq | ooo_count int | in_use int 
+function t4_srq_produce_ooo void | srq struct t4_srq *

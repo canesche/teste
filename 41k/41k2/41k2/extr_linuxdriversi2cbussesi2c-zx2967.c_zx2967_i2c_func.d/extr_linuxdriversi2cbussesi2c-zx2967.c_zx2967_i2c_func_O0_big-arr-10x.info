@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversi2cbussesi2c-zx2967.c_zx2967_i2c_func.d/extr_linuxdriversi2cbussesi2c-zx2967.c_zx2967_i2c_func_O0::zx2967_i2c_func(70)"
+  }
+]

@@ -1,0 +1,7 @@
+struct ipu_image_tile | height int | width int | size int | stride int | rot_stride int 
+struct TYPE_4__ | height int | width int 
+struct TYPE_5__ | pix struct TYPE_4__ 
+struct ipu_image_convert_image | num_rows int | num_cols int | fmt struct TYPE_6__ * | base struct TYPE_5__ | tile struct ipu_image_tile * 
+struct ipu_image_convert_ctx | num_tiles int 
+struct TYPE_6__ | bpp int | planar long 
+function calc_tile_dimensions void | ctx struct ipu_image_convert_ctx * | image struct ipu_image_convert_image *

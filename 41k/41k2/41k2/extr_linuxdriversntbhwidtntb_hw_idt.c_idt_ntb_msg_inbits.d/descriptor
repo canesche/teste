@@ -1,0 +1,2 @@
+struct ntb_dev | dummy int 
+function idt_ntb_msg_inbits int | ntb struct ntb_dev *

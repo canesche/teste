@@ -1,0 +1,1 @@
+function __smi_check_forward_dr_smp enum smi_forward_action | hop_ptr int | hop_cnt int | direction int | dr_dlid_is_permissive int | dr_slid_is_permissive int

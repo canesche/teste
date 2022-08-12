@@ -1,0 +1,2 @@
+struct antsel_info | antsel_type long 
+function brcms_c_antsel_id2antcfg int | asi struct antsel_info * | id int

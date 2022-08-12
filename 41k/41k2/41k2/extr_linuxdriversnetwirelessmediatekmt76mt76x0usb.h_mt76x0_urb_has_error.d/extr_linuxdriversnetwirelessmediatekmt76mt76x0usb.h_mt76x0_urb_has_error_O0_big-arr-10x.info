@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessmediatekmt76mt76x0usb.h_mt76x0_urb_has_error.d/extr_linuxdriversnetwirelessmediatekmt76mt76x0usb.h_mt76x0_urb_has_error_O0::mt76x0_urb_has_error(64)"
+  }
+]

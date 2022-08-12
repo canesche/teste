@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingmt7621-pcipci-mt7621.c_mt7621_pci_get_cfgaddr.d/extr_linuxdriversstagingmt7621-pcipci-mt7621.c_mt7621_pci_get_cfgaddr_O0::mt7621_pci_get_cfgaddr(62)"
+  }
+]

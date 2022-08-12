@@ -1,0 +1,6 @@
+struct cdrom_info | toc struct atapi_toc * 
+struct atapi_toc_entry | dummy int 
+struct TYPE_4__ | last_track int | first_track int 
+struct atapi_toc | hdr struct TYPE_4__ | ent struct atapi_toc_entry * 
+struct TYPE_5__ | atapi_flags int | driver_data struct cdrom_info * 
+function ide_cd_get_toc_entry int | drive struct TYPE_5__ * | track int | ent struct atapi_toc_entry **

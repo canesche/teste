@@ -1,0 +1,2 @@
+struct iowait | starved_cnt long 
+function iowait_starve_find_max void | w struct iowait * | max long * | idx int | max_idx int *

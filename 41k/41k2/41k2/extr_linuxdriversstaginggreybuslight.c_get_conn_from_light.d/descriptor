@@ -1,0 +1,4 @@
+struct gb_light | glights struct TYPE_2__ * 
+struct gb_connection | dummy int 
+struct TYPE_2__ | connection struct gb_connection * 
+function get_conn_from_light struct gb_connection * | light struct gb_light *

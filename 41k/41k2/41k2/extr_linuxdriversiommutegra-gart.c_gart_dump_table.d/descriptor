@@ -1,0 +1,2 @@
+struct gart_device | dummy int 
+function gart_dump_table void | gart struct gart_device *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinfinibandhwmlx4qp.c_ib_wq2qp_state.d/extr_linuxdriversinfinibandhwmlx4qp.c_ib_wq2qp_state_O0::ib_wq2qp_state(64)"
+  }
+]

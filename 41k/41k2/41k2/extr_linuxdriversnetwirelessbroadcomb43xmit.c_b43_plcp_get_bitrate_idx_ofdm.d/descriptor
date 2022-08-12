@@ -1,0 +1,2 @@
+struct b43_plcp_hdr6 | raw int * 
+function b43_plcp_get_bitrate_idx_ofdm int | plcp struct b43_plcp_hdr6 * | ghz5 int

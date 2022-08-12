@@ -1,0 +1,2 @@
+struct usb_hcd | dummy int 
+function oxu_bus_resume int | hcd struct usb_hcd *

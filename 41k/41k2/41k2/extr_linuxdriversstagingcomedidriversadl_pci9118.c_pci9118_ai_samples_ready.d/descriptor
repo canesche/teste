@@ -1,0 +1,6 @@
+struct pci9118_private | ai_add_front unsigned int | ai_add_back unsigned int | ai_act_dmapos unsigned int 
+struct comedi_subdevice | async struct TYPE_2__ * 
+struct comedi_device | private struct pci9118_private * 
+struct comedi_cmd | chanlist_len unsigned int 
+struct TYPE_2__ | cmd struct comedi_cmd 
+function pci9118_ai_samples_ready unsigned int | dev struct comedi_device * | s struct comedi_subdevice * | n_raw_samples unsigned int

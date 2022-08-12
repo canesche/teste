@@ -1,0 +1,2 @@
+struct sxgbe_tx_ctxt_desc | vltag_valid int | vlan_tag int 
+function sxgbe_tx_ctxt_desc_set_vlantag void | p struct sxgbe_tx_ctxt_desc * | is_vlanvalid int | vlan_tag int

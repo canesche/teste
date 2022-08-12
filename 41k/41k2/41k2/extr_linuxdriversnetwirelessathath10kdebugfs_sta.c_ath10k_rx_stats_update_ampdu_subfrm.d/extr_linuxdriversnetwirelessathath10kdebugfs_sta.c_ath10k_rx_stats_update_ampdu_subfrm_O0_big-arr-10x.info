@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessathath10kdebugfs_sta.c_ath10k_rx_stats_update_ampdu_subfrm.d/extr_linuxdriversnetwirelessathath10kdebugfs_sta.c_ath10k_rx_stats_update_ampdu_subfrm_O0::ath10k_rx_stats_update_ampdu_subfrm(72)"
+  }
+]

@@ -1,0 +1,4 @@
+struct dib8000_state | fe struct TYPE_4__ ** 
+struct TYPE_3__ | transmission_mode int 
+struct TYPE_4__ | dtv_property_cache struct TYPE_3__ 
+function fft_to_mode int | state struct dib8000_state *

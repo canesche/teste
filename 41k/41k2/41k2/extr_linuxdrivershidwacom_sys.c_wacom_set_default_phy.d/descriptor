@@ -1,0 +1,2 @@
+struct wacom_features | x_resolution int | x_phy int | x_max int | y_phy int | y_max int | y_resolution int 
+function wacom_set_default_phy void | features struct wacom_features *

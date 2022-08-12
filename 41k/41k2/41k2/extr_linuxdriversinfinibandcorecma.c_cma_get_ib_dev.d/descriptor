@@ -1,0 +1,3 @@
+struct ib_device | dummy int 
+struct cma_device | device struct ib_device * 
+function cma_get_ib_dev struct ib_device * | cma_dev struct cma_device *

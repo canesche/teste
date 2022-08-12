@@ -1,0 +1,3 @@
+struct ieee80211_hw | priv struct ath_softc * 
+struct ath_softc | ant_rx int | ant_tx int 
+function ath9k_get_antenna int | hw struct ieee80211_hw * | tx_ant int * | rx_ant int *

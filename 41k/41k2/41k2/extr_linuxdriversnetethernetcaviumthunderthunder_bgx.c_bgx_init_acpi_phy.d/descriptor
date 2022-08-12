@@ -1,0 +1,2 @@
+struct bgx | dummy int 
+function bgx_init_acpi_phy int | bgx struct bgx *

@@ -1,0 +1,2 @@
+struct iwl_mvm_time_event_data | uid int 
+function iwl_mvm_te_scheduled int | te_data struct iwl_mvm_time_event_data *

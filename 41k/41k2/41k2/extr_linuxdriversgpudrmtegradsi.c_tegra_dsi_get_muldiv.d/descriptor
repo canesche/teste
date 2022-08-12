@@ -1,0 +1,1 @@
+function tegra_dsi_get_muldiv int | format enum mipi_dsi_pixel_format | mulp unsigned int * | divp unsigned int *

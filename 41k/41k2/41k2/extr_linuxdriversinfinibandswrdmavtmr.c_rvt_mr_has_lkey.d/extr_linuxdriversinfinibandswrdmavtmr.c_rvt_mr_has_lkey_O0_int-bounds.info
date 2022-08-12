@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinfinibandswrdmavtmr.c_rvt_mr_has_lkey.d/extr_linuxdriversinfinibandswrdmavtmr.c_rvt_mr_has_lkey_O0::rvt_mr_has_lkey(62)"
+  }
+]

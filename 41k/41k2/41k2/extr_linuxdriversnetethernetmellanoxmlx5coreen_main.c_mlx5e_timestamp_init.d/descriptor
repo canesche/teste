@@ -1,0 +1,3 @@
+struct TYPE_2__ | rx_filter int | tx_type int 
+struct mlx5e_priv | tstamp struct TYPE_2__ 
+function mlx5e_timestamp_init void | priv struct mlx5e_priv *

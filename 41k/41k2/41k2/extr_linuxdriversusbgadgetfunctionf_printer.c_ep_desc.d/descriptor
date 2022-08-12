@@ -1,0 +1,3 @@
+struct usb_gadget | speed int 
+struct usb_endpoint_descriptor | dummy int 
+function ep_desc struct usb_endpoint_descriptor * | gadget struct usb_gadget * | fs struct usb_endpoint_descriptor * | hs struct usb_endpoint_descriptor * | ss struct usb_endpoint_descriptor *

@@ -1,0 +1,2 @@
+struct uhci_hcd | dummy int 
+function uhci_sprint_schedule int | uhci struct uhci_hcd * | buf char * | len int

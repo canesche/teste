@@ -1,0 +1,3 @@
+struct wacom_wac | shared struct TYPE_2__ * 
+struct TYPE_2__ | stylus_in_proximity int 
+function report_touch_events int | wacom struct wacom_wac *

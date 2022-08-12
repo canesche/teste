@@ -1,0 +1,4 @@
+struct team_port | dummy int 
+struct team | dummy int 
+struct sk_buff | dummy int 
+function team_dummy_receive int | team struct team * | port struct team_port * | skb struct sk_buff *

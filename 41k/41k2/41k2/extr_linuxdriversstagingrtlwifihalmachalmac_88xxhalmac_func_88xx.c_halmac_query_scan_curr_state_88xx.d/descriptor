@@ -1,0 +1,4 @@
+struct TYPE_3__ | scan_cmd_construct_state int 
+struct TYPE_4__ | scan_state_set struct TYPE_3__ 
+struct halmac_adapter | halmac_state struct TYPE_4__ 
+function halmac_query_scan_curr_state_88xx enum halmac_scan_cmd_construct_state | halmac_adapter struct halmac_adapter *

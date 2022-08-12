@@ -1,0 +1,3 @@
+struct vnic_rq | to_use struct TYPE_2__ * 
+struct TYPE_2__ | index unsigned int 
+function vnic_rq_next_index unsigned int | rq struct vnic_rq *

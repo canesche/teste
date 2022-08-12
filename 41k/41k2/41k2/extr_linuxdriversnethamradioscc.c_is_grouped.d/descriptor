@@ -1,0 +1,3 @@
+struct TYPE_2__ | group unsigned char 
+struct scc_channel | wreg int * | dcd long | dev long | kiss struct TYPE_2__ 
+function is_grouped int | scc struct scc_channel *

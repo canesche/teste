@@ -1,0 +1,1 @@
+value(bits_per_word) == 255, value(msb_first) == 255, length(rx_shift) == 65025, length(tx_shift) == 65025

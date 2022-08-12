@@ -1,0 +1,2 @@
+struct qdio_irq | nr_input_qs int 
+function has_multiple_inq_on_dsci int | irq_ptr struct qdio_irq *

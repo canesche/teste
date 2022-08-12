@@ -1,0 +1,4 @@
+struct fsg_dev | bulk_out_maxpacket unsigned int 
+struct fsg_buffhd | bulk_out_intended_length unsigned int | outreq struct TYPE_2__ * 
+struct TYPE_2__ | length unsigned int 
+function set_bulk_out_req_length void | fsg struct fsg_dev * | bh struct fsg_buffhd * | length unsigned int

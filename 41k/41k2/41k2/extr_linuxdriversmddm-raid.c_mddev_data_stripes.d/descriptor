@@ -1,0 +1,4 @@
+struct TYPE_3__ | raid_disks unsigned int 
+struct raid_set | raid_type struct TYPE_4__ * | md struct TYPE_3__ 
+struct TYPE_4__ | parity_devs unsigned int 
+function mddev_data_stripes unsigned int | rs struct raid_set *

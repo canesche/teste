@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetqlogicqedeqede_fp.c_qede_check_tunn_csum.d/extr_linuxdriversnetethernetqlogicqedeqede_fp.c_qede_check_tunn_csum_O0::qede_check_tunn_csum(77)"
+  }
+]

@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function qlcnic_restore_indev_addr void | dev struct net_device * | event unsigned long

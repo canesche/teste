@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessrealtekrtl818xrtl8180sa2400.c_sa2400_rf_calc_rssi.d/extr_linuxdriversnetwirelessrealtekrtl818xrtl8180sa2400.c_sa2400_rf_calc_rssi_O0::sa2400_rf_calc_rssi(62)"
+  }
+]

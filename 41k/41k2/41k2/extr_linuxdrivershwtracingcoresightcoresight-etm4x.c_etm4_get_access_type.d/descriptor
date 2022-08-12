@@ -1,0 +1,2 @@
+struct etmv4_config | mode int 
+function etm4_get_access_type int | config struct etmv4_config *

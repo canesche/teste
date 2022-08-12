@@ -1,0 +1,3 @@
+struct TYPE_2__ | addr int 
+struct vpdma_desc_list | buf struct TYPE_2__ | next int 
+function vpdma_reset_desc_list void | list struct vpdma_desc_list *

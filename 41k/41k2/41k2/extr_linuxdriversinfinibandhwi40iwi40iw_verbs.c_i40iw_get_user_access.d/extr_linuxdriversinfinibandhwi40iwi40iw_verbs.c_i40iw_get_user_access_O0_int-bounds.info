@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinfinibandhwi40iwi40iw_verbs.c_i40iw_get_user_access.d/extr_linuxdriversinfinibandhwi40iwi40iw_verbs.c_i40iw_get_user_access_O0::i40iw_get_user_access(69)"
+  }
+]

@@ -1,0 +1,2 @@
+struct cxio_rdev | flags int 
+function cxio_fatal_error int | rdev_p struct cxio_rdev *

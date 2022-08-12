@@ -1,0 +1,2 @@
+struct capi_ctr | name char * 
+function gigaset_procinfo char * | ctr struct capi_ctr *

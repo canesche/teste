@@ -1,0 +1,2 @@
+struct comedi_isadma_desc | dummy int 
+function comedi_isadma_program void | desc struct comedi_isadma_desc *

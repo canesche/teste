@@ -1,0 +1,2 @@
+struct xgbe_sfp_eeprom | base long * 
+function xgbe_phy_sfp_bit_rate int | sfp_eeprom struct xgbe_sfp_eeprom * | sfp_speed enum xgbe_sfp_speed

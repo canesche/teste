@@ -1,0 +1,3 @@
+struct dwc2_core_params | host_rx_fifo_size int | host_nperio_tx_fifo_size int | host_perio_tx_fifo_size int | ahbcfg int | otg_cap int 
+struct dwc2_hsotg | params struct dwc2_core_params 
+function dwc2_set_rk_params void | hsotg struct dwc2_hsotg *

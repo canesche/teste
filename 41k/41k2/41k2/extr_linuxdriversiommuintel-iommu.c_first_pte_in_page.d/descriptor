@@ -1,0 +1,2 @@
+struct dma_pte | dummy int 
+function first_pte_in_page int | pte struct dma_pte *

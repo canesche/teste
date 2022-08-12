@@ -1,0 +1,2 @@
+struct cardstate | dummy int 
+function gigaset_set_line_ctrl int | cs struct cardstate * | cflag unsigned int

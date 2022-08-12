@@ -1,0 +1,3 @@
+struct kbd_state | level long | mode_bit long 
+struct TYPE_2__ | levels long 
+function kbd_set_level int | state struct kbd_state * | level long

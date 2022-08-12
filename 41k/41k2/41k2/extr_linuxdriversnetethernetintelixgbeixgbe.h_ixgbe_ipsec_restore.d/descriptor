@@ -1,0 +1,2 @@
+struct ixgbe_adapter | dummy int 
+function ixgbe_ipsec_restore void | adapter struct ixgbe_adapter *

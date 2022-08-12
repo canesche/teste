@@ -1,0 +1,3 @@
+struct bnx2fc_rport | rq_prod_idx int | conn_db struct TYPE_2__ * 
+struct TYPE_2__ | rq_prod int 
+function bnx2fc_return_rqe void | tgt struct bnx2fc_rport * | num_items int

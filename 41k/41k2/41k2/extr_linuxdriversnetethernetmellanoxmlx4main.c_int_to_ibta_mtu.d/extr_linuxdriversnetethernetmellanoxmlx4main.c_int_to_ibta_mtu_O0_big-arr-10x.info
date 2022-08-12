@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetmellanoxmlx4main.c_int_to_ibta_mtu.d/extr_linuxdriversnetethernetmellanoxmlx4main.c_int_to_ibta_mtu_O0::int_to_ibta_mtu(65)"
+  }
+]

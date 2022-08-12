@@ -1,0 +1,2 @@
+struct sh_eth_cpu_data | fcftr_value int | trscer_err_mask long | eesr_err_check long | tx_check long | fdr_value long | ecsipr_value long | ecsr_value long 
+function sh_eth_set_default_cpu_data void | cd struct sh_eth_cpu_data *

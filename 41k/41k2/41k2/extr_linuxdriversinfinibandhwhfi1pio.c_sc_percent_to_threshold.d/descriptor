@@ -1,0 +1,2 @@
+struct send_context | credits int 
+function sc_percent_to_threshold int | sc struct send_context * | percent int

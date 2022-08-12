@@ -1,0 +1,2 @@
+struct soc_camera_host | dummy int 
+function scan_of_host void | ici struct soc_camera_host *

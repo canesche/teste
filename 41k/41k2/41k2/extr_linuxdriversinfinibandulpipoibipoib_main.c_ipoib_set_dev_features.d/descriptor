@@ -1,0 +1,5 @@
+struct ipoib_dev_priv | hca_caps int | dev struct TYPE_6__ * | ca struct TYPE_5__ * 
+struct TYPE_6__ | hw_features int | features int 
+struct TYPE_4__ | device_cap_flags int 
+struct TYPE_5__ | attrs struct TYPE_4__ 
+function ipoib_set_dev_features void | priv struct ipoib_dev_priv *

@@ -1,0 +1,2 @@
+struct array_block | dummy int 
+function calc_max_entries unsigned long | value_size unsigned long | size_of_block unsigned long

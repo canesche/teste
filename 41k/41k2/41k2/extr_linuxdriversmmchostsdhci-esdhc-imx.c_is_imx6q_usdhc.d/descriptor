@@ -1,0 +1,2 @@
+struct pltfm_imx_data | socdata int * 
+function is_imx6q_usdhc int | data struct pltfm_imx_data *

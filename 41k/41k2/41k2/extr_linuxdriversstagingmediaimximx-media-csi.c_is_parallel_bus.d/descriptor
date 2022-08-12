@@ -1,0 +1,2 @@
+struct v4l2_fwnode_endpoint | bus_type long 
+function is_parallel_bus int | ep struct v4l2_fwnode_endpoint *

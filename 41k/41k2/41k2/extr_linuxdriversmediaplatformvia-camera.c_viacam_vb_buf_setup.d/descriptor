@@ -1,0 +1,4 @@
+struct videobuf_queue | priv_data struct via_camera * 
+struct TYPE_2__ | sizeimage unsigned int 
+struct via_camera | user_format struct TYPE_2__ 
+function viacam_vb_buf_setup int | q struct videobuf_queue * | count unsigned int * | size unsigned int *

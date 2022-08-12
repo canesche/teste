@@ -1,0 +1,3 @@
+struct dvb_frontend | demodulator_priv struct af9033_dev * 
+struct af9033_dev | error_block_count int 
+function af9033_read_ucblocks int | fe struct dvb_frontend * | ucblocks int *

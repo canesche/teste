@@ -1,0 +1,4 @@
+struct TYPE_2__ | buf_used int 
+struct uvc_video | fid int | queue struct TYPE_2__ 
+struct uvc_buffer | bytesused int 
+function uvc_video_encode_header int | video struct uvc_video * | buf struct uvc_buffer * | data int * | len int

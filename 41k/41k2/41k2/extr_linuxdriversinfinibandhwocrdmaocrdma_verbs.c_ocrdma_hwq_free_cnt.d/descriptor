@@ -1,0 +1,2 @@
+struct ocrdma_qp_hwq_info | max_wqe_idx int | head int | tail int | max_cnt int 
+function ocrdma_hwq_free_cnt int | q struct ocrdma_qp_hwq_info *

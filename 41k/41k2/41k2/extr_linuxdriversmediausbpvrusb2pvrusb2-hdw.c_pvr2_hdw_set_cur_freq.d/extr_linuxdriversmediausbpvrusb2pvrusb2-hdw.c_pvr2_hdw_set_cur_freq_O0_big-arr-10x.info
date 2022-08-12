@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediausbpvrusb2pvrusb2-hdw.c_pvr2_hdw_set_cur_freq.d/extr_linuxdriversmediausbpvrusb2pvrusb2-hdw.c_pvr2_hdw_set_cur_freq_O0::pvr2_hdw_set_cur_freq(62)"
+  }
+]

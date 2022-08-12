@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetsunsunvnet_common.c_sunvnet_tx_timeout_common.d/extr_linuxdriversnetethernetsunsunvnet_common.c_sunvnet_tx_timeout_common_O0::sunvnet_tx_timeout_common(61)"
+  }
+]

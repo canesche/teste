@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 84,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 84,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediapcibt8xxbtcx-risc.c_btcx_screen_clips.d/extr_linuxdriversmediapcibt8xxbtcx-risc.c_btcx_screen_clips_O0::btcx_screen_clips(66)"
+  }
+]

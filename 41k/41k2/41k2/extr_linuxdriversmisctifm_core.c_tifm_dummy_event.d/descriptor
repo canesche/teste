@@ -1,0 +1,2 @@
+struct tifm_dev | dummy int 
+function tifm_dummy_event void | sock struct tifm_dev *

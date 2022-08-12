@@ -1,0 +1,2 @@
+struct memstick_host | dummy int 
+function jmb38x_ms_dummy_submit void | msh struct memstick_host *

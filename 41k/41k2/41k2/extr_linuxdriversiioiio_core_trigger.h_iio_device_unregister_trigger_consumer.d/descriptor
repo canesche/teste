@@ -1,0 +1,2 @@
+struct iio_dev | dummy int 
+function iio_device_unregister_trigger_consumer void | indio_dev struct iio_dev *

@@ -1,0 +1,2 @@
+struct radeon_device | dummy int 
+function cik_sdma_rlc_stop void | rdev struct radeon_device *

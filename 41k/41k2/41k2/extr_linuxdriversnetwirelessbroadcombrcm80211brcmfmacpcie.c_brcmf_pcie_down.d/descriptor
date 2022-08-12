@@ -1,0 +1,2 @@
+struct device | dummy int 
+function brcmf_pcie_down void | dev struct device *

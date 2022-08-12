@@ -1,0 +1,2 @@
+struct cardstate | dummy int 
+function gigaset_set_modem_ctrl int | cs struct cardstate * | old_state unsigned int | new_state unsigned int

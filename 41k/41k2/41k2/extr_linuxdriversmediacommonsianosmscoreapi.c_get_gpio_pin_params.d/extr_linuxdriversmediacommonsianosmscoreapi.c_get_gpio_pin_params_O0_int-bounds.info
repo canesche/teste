@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 18,
+    phantoms: 11,
+    exit: true,
+    halt: false,
+    edges: 35,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediacommonsianosmscoreapi.c_get_gpio_pin_params.d/extr_linuxdriversmediacommonsianosmscoreapi.c_get_gpio_pin_params_O0::get_gpio_pin_params(61)"
+  }
+]

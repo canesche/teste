@@ -1,0 +1,1 @@
+function telemetry_def_add_events int | num_pss_evts int | num_ioss_evts int | pss_evtmap int * | ioss_evtmap int *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | bus struct TYPE_4__ * 
+struct TYPE_4__ | number int 
+function ahd_get_pci_bus int | pci struct TYPE_5__ *

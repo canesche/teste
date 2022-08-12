@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessrealtekrtl8xxxurtl8xxxu_core.c_rtl8xxxu_gen2_channel_to_group.d/extr_linuxdriversnetwirelessrealtekrtl8xxxurtl8xxxu_core.c_rtl8xxxu_gen2_channel_to_group_O0::rtl8xxxu_gen2_channel_to_group(60)"
+  }
+]

@@ -1,0 +1,2 @@
+struct fec_enet_private | work_rx int | work_tx int 
+function fec_enet_collect_events int | fep struct fec_enet_private * | int_events int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingmediadavinci_vpfedm365_isif.c_isif_set_frame_format.d/extr_linuxdriversstagingmediadavinci_vpfedm365_isif.c_isif_set_frame_format_O0::isif_set_frame_format(74)"
+  }
+]

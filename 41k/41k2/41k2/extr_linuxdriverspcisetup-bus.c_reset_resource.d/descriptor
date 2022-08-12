@@ -1,0 +1,2 @@
+struct resource | flags long | end long | start long 
+function reset_resource void | res struct resource *

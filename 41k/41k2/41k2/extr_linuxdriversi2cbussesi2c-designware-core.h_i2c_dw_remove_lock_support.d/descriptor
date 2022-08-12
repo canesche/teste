@@ -1,0 +1,2 @@
+struct dw_i2c_dev | dummy int 
+function i2c_dw_remove_lock_support void | dev struct dw_i2c_dev *

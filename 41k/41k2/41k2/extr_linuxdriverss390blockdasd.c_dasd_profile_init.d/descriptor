@@ -1,0 +1,3 @@
+struct dentry | dummy int 
+struct dasd_profile | dummy int 
+function dasd_profile_init void | profile struct dasd_profile * | base_dentry struct dentry *

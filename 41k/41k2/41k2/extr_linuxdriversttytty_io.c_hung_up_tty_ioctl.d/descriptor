@@ -1,0 +1,2 @@
+struct file | dummy int 
+function hung_up_tty_ioctl long | file struct file * | cmd unsigned int | arg unsigned long

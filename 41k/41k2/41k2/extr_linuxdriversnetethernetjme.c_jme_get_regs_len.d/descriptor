@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function jme_get_regs_len int | netdev struct net_device *

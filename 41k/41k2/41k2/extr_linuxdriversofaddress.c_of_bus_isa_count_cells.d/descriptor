@@ -1,0 +1,2 @@
+struct device_node | dummy int 
+function of_bus_isa_count_cells void | child struct device_node * | addrc int * | sizec int *

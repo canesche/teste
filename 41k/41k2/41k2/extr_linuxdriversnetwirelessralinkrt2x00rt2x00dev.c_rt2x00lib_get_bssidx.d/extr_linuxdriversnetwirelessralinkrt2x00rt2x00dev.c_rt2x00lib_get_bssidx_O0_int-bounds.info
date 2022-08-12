@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessralinkrt2x00rt2x00dev.c_rt2x00lib_get_bssidx.d/extr_linuxdriversnetwirelessralinkrt2x00rt2x00dev.c_rt2x00lib_get_bssidx_O0::rt2x00lib_get_bssidx(66)"
+  }
+]

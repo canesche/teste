@@ -1,0 +1,2 @@
+struct pl022 | dummy int 
+function pl022_dma_remove void | pl022 struct pl022 *

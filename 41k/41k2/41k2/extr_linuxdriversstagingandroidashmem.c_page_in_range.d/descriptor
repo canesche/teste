@@ -1,0 +1,2 @@
+struct ashmem_range | pgstart unsigned long | pgend unsigned long 
+function page_in_range int | range struct ashmem_range * | page unsigned long

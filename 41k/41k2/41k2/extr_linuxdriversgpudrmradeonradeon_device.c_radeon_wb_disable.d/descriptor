@@ -1,0 +1,3 @@
+struct TYPE_2__ | enabled int 
+struct radeon_device | wb struct TYPE_2__ 
+function radeon_wb_disable void | rdev struct radeon_device *

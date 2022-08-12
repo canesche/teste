@@ -1,0 +1,3 @@
+struct mctrl_gpios | gpio struct gpio_desc ** 
+struct gpio_desc | dummy int 
+function mctrl_gpio_to_gpiod struct gpio_desc * | gpios struct mctrl_gpios * | gidx enum mctrl_gpio_idx

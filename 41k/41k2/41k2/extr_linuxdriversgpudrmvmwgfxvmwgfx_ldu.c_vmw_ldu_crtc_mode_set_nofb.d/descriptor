@@ -1,0 +1,2 @@
+struct drm_crtc | dummy int 
+function vmw_ldu_crtc_mode_set_nofb void | crtc struct drm_crtc *

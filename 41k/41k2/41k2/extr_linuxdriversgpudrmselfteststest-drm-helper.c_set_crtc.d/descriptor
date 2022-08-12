@@ -1,0 +1,2 @@
+struct drm_plane_state | crtc_x int | crtc_y int | crtc_w unsigned int | crtc_h unsigned int 
+function set_crtc void | plane_state struct drm_plane_state * | crtc_x int | crtc_y int | crtc_w unsigned int | crtc_h unsigned int

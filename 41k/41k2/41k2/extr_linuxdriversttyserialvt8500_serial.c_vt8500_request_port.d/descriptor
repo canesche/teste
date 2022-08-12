@@ -1,0 +1,2 @@
+struct uart_port | dummy int 
+function vt8500_request_port int | port struct uart_port *

@@ -1,0 +1,3 @@
+struct sxgbe_priv_data | dummy int 
+struct ethtool_rxnfc | data int | flow_type int 
+function sxgbe_get_rss_hash_opts int | priv struct sxgbe_priv_data * | cmd struct ethtool_rxnfc *

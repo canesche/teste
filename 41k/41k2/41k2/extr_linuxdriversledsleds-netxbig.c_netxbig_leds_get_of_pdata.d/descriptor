@@ -1,0 +1,3 @@
+struct netxbig_led_platform_data | dummy int 
+struct device | dummy int 
+function netxbig_leds_get_of_pdata int | dev struct device * | pdata struct netxbig_led_platform_data *

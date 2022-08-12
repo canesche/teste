@@ -1,0 +1,5 @@
+struct TYPE_6__ | cu_type long | cu_model long | dev_type long | dev_model long 
+struct ccw_device | private struct TYPE_5__ * | id struct TYPE_6__ 
+struct TYPE_4__ | cu_type long | cu_model long | dev_type long | dev_model long 
+struct TYPE_5__ | senseid struct TYPE_4__ 
+function ccw_device_test_sense_data int | cdev struct ccw_device *

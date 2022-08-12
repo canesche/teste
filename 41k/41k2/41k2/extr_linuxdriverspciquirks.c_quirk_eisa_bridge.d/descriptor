@@ -1,0 +1,2 @@
+struct pci_dev | class int 
+function quirk_eisa_bridge void | dev struct pci_dev *

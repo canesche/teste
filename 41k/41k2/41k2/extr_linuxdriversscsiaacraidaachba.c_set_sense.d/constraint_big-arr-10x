@@ -1,0 +1,1 @@
+value(sense_key) == 10, value(sense_code) == 10, value(a_sense_code) == 10, value(bit_pointer) == 10, value(field_pointer) == 10, length(sense_data) == 100

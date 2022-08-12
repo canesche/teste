@@ -1,0 +1,3 @@
+struct microtune_priv | frequency int 
+struct dvb_frontend | tuner_priv struct microtune_priv * 
+function microtune_get_frequency int | fe struct dvb_frontend * | frequency int *

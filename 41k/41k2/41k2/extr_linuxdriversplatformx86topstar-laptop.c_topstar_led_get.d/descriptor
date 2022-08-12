@@ -1,0 +1,2 @@
+struct led_classdev | brightness int 
+function topstar_led_get enum led_brightness | led struct led_classdev *

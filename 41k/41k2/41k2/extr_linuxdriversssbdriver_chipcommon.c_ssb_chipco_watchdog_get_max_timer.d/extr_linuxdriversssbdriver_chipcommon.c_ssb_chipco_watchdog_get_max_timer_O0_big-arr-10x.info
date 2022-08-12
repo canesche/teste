@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversssbdriver_chipcommon.c_ssb_chipco_watchdog_get_max_timer.d/extr_linuxdriversssbdriver_chipcommon.c_ssb_chipco_watchdog_get_max_timer_O0::ssb_chipco_watchdog_get_max_timer(67)"
+  }
+]

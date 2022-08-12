@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversps3ps3-lpm.c_pm_translate_signal_group_number_on_island2.d/extr_linuxdriversps3ps3-lpm.c_pm_translate_signal_group_number_on_island2_O0::pm_translate_signal_group_number_on_island2(64)"
+  }
+]

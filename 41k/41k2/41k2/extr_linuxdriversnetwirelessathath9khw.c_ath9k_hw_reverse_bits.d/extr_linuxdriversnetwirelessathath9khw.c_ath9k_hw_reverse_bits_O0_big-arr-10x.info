@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 172,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessathath9khw.c_ath9k_hw_reverse_bits.d/extr_linuxdriversnetwirelessathath9khw.c_ath9k_hw_reverse_bits_O0::ath9k_hw_reverse_bits(61)"
+  }
+]

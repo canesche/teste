@@ -1,0 +1,2 @@
+struct atl1e_adapter | dummy int 
+function atl1e_alloc_queues int | adapter struct atl1e_adapter *

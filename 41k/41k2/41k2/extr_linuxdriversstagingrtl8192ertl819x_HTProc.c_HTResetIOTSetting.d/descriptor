@@ -1,0 +1,2 @@
+struct rt_hi_throughput | IOTRaFunc long | IOTPeer int | IOTAction long 
+function HTResetIOTSetting void | pHTInfo struct rt_hi_throughput *

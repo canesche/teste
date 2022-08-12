@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingrtlwifiphydmphydm_dynamicbbpowersaving.c_phydm_update_rf_state.d/extr_linuxdriversstagingrtlwifiphydmphydm_dynamicbbpowersaving.c_phydm_update_rf_state_O0::phydm_update_rf_state(69)"
+  }
+]

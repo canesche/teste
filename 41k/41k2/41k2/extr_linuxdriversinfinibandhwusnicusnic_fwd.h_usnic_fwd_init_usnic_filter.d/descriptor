@@ -1,0 +1,4 @@
+struct TYPE_4__ | flags int | proto_version int | usnic_id int | ethtype int 
+struct TYPE_3__ | usnic struct TYPE_4__ 
+struct filter | u struct TYPE_3__ | type int 
+function usnic_fwd_init_usnic_filter void | filter struct filter * | usnic_id int

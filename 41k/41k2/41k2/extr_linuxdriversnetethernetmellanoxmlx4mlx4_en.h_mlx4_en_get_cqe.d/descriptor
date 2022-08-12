@@ -1,0 +1,1 @@
+function mlx4_en_get_cqe struct mlx4_cqe * | buf void * | idx int | cqe_sz int

@@ -1,0 +1,2 @@
+struct xlgmac_desc_ops | rx_desc_init int | tx_desc_init int | unmap_desc_data int | map_rx_buffer int | map_tx_skb int | free_channels_and_rings int | alloc_channles_and_rings int 
+function xlgmac_init_desc_ops void | desc_ops struct xlgmac_desc_ops *

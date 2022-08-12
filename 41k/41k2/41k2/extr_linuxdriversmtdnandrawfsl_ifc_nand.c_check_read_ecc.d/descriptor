@@ -1,0 +1,3 @@
+struct mtd_info | dummy int 
+struct fsl_ifc_ctrl | dummy int 
+function check_read_ecc int | mtd struct mtd_info * | ctrl struct fsl_ifc_ctrl * | eccstat int | bufnum unsigned int

@@ -1,0 +1,2 @@
+struct mv_otg | dummy int 
+function mv_otg_start_host void | mvotg struct mv_otg * | on int

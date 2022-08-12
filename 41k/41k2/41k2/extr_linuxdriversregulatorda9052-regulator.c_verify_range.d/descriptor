@@ -1,0 +1,2 @@
+struct da9052_regulator_info | max_uV int | min_uV int 
+function verify_range int | info struct da9052_regulator_info * | min_uV int | max_uV int

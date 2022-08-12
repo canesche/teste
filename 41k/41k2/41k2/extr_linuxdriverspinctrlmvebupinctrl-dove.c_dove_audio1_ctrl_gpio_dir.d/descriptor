@@ -1,0 +1,2 @@
+struct mvebu_mpp_ctrl_data | dummy int 
+function dove_audio1_ctrl_gpio_dir int | data struct mvebu_mpp_ctrl_data * | pid unsigned int | input int

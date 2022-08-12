@@ -1,0 +1,3 @@
+struct scsi_cmnd | dummy int 
+struct NCR5380_hostdata | dummy int 
+function NCR5380_dma_xfer_none int | hostdata struct NCR5380_hostdata * | cmd struct scsi_cmnd *

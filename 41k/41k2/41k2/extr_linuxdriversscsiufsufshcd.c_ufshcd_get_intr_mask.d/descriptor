@@ -1,0 +1,2 @@
+struct ufs_hba | ufs_version int 
+function ufshcd_get_intr_mask int | hba struct ufs_hba *

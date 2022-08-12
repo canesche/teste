@@ -1,0 +1,3 @@
+struct rc_dev | priv struct IR_i2c * 
+struct IR_i2c | duty_cycle int 
+function zilog_tx_duty_cycle int | dev struct rc_dev * | duty_cycle int

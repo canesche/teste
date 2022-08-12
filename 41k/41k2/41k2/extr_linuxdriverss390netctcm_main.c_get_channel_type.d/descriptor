@@ -1,0 +1,2 @@
+struct ccw_device_id | driver_info long 
+function get_channel_type enum ctcm_channel_types | id struct ccw_device_id *

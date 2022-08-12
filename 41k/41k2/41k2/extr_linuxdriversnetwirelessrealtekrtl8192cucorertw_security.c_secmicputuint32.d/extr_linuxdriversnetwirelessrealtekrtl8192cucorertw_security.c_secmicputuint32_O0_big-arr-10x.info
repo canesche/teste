@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 77,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessrealtekrtl8192cucorertw_security.c_secmicputuint32.d/extr_linuxdriversnetwirelessrealtekrtl8192cucorertw_security.c_secmicputuint32_O0::secmicputuint32(65)"
+  }
+]

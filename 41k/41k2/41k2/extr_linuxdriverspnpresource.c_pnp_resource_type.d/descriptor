@@ -1,0 +1,2 @@
+struct resource | flags unsigned long 
+function pnp_resource_type unsigned long | res struct resource *

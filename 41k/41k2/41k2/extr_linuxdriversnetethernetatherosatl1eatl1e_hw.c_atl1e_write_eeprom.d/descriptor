@@ -1,0 +1,2 @@
+struct atl1e_hw | dummy int 
+function atl1e_write_eeprom int | hw struct atl1e_hw * | offset int | value int

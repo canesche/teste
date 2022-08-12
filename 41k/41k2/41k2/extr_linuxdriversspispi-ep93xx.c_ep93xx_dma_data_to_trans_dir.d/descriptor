@@ -1,0 +1,1 @@
+function ep93xx_dma_data_to_trans_dir enum dma_transfer_direction | dir enum dma_data_direction

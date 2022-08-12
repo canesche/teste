@@ -1,0 +1,2 @@
+struct dma_buf | dummy int 
+function ion_dma_buf_kunmap void | dmabuf struct dma_buf * | offset unsigned long | ptr void *

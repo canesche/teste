@@ -1,0 +1,4 @@
+struct regmap_irq | reg_offset unsigned int | mask unsigned int 
+struct cpcap_ddata | regmap_conf struct TYPE_2__ * 
+struct TYPE_2__ | val_bits unsigned int | reg_stride unsigned int 
+function cpcap_init_one_regmap_irq void | cpcap struct cpcap_ddata * | rirq struct regmap_irq * | irq_base int | irq int

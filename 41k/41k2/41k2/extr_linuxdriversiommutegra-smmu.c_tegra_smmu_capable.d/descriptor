@@ -1,0 +1,1 @@
+function tegra_smmu_capable int | cap enum iommu_cap

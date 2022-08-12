@@ -1,0 +1,3 @@
+struct TYPE_2__ | core_index long 
+struct efx_channel | rx_queue struct TYPE_2__ 
+function efx_channel_has_rx_queue int | channel struct efx_channel *

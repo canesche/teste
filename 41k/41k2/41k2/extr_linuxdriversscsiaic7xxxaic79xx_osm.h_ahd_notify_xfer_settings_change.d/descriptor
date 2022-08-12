@@ -1,0 +1,3 @@
+struct ahd_softc | dummy int 
+struct ahd_devinfo | dummy int 
+function ahd_notify_xfer_settings_change void | ahd struct ahd_softc * | devinfo struct ahd_devinfo *

@@ -1,0 +1,3 @@
+struct comedi_device | read_subdev struct TYPE_2__ * 
+struct TYPE_2__ | maxdata int 
+function fake_flatline unsigned short | dev struct comedi_device * | range_index unsigned int | current_time unsigned int

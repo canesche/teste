@@ -1,0 +1,2 @@
+struct ipw_hardware | initializing long | to_setup long 
+function get_current_packet_priority int | hw struct ipw_hardware *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 20,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 31,
+    static: {
+      instructions: 138,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 138,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetfreescalefmanfman_sp.c_fman_sp_build_buffer_struct.d/extr_linuxdriversnetethernetfreescalefmanfman_sp.c_fman_sp_build_buffer_struct_O0::fman_sp_build_buffer_struct(76)"
+  }
+]

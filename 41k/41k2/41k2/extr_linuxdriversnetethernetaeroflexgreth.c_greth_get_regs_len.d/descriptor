@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct greth_regs | dummy int 
+function greth_get_regs_len int | dev struct net_device *

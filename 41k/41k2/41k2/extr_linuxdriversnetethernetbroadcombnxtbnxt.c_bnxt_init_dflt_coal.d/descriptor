@@ -1,0 +1,3 @@
+struct bnxt_coal | coal_ticks int | coal_bufs int | coal_ticks_irq int | coal_bufs_irq int | idle_thresh int | bufs_per_record int | budget int 
+struct bnxt | stats_coal_ticks int | tx_coal struct bnxt_coal | rx_coal struct bnxt_coal 
+function bnxt_init_dflt_coal void | bp struct bnxt *

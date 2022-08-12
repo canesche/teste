@@ -1,0 +1,3 @@
+struct fcoe_rport | dummy int 
+struct fc_rport_priv | dummy int 
+function fcoe_ctlr_rport struct fcoe_rport * | rdata struct fc_rport_priv *

@@ -1,0 +1,2 @@
+struct alps_data | mask0 unsigned char | byte0 unsigned char 
+function alps_is_valid_first_byte int | priv struct alps_data * | data unsigned char

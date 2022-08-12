@@ -1,0 +1,3 @@
+struct qlcnic_hardware_context | port_type long 
+struct qlcnic_adapter | max_rds_rings int | num_txd int | max_rxd int | max_jumbo_rxd void * | num_jumbo_rxd void * | num_rxd int | ahw struct qlcnic_hardware_context * 
+function qlcnic_83xx_config_vnic_buff_descriptors void | adapter struct qlcnic_adapter *

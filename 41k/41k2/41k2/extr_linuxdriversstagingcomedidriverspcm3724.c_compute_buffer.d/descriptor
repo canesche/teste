@@ -1,0 +1,2 @@
+struct comedi_subdevice | io_bits int 
+function compute_buffer int | config int | devno int | s struct comedi_subdevice *

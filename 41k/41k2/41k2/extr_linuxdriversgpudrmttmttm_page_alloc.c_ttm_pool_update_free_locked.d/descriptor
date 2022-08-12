@@ -1,0 +1,2 @@
+struct ttm_page_pool | nfrees int | npages int 
+function ttm_pool_update_free_locked void | pool struct ttm_page_pool * | freed_pages unsigned int

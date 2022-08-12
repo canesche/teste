@@ -1,0 +1,2 @@
+struct lm3533_led | id int 
+function lm3533_led_get_pattern int | led struct lm3533_led *

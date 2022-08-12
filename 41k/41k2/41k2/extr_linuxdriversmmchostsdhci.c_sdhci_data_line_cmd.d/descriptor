@@ -1,0 +1,2 @@
+struct mmc_command | flags int | data long 
+function sdhci_data_line_cmd int | cmd struct mmc_command *

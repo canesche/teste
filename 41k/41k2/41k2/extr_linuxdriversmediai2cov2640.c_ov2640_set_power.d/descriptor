@@ -1,0 +1,2 @@
+struct ov2640_priv | dummy int 
+function ov2640_set_power void | priv struct ov2640_priv * | on int

@@ -1,0 +1,2 @@
+struct cphy | dummy int 
+function ael1002_intr_noop int | phy struct cphy *

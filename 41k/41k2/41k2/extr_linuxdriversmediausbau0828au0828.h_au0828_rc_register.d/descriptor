@@ -1,0 +1,2 @@
+struct au0828_dev | dummy int 
+function au0828_rc_register int | dev struct au0828_dev *

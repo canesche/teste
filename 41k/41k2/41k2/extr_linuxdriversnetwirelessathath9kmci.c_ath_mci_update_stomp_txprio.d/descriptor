@@ -1,0 +1,1 @@
+function ath_mci_update_stomp_txprio void | cur_txprio long | stomp_prio long *

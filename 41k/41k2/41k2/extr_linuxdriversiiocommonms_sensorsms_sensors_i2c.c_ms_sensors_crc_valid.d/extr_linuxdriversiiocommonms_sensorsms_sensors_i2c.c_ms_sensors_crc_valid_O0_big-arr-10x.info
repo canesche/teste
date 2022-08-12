@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 277,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversiiocommonms_sensorsms_sensors_i2c.c_ms_sensors_crc_valid.d/extr_linuxdriversiiocommonms_sensorsms_sensors_i2c.c_ms_sensors_crc_valid_O0::ms_sensors_crc_valid(62)"
+  }
+]

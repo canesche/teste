@@ -1,0 +1,2 @@
+struct device_node | dummy int 
+function armada_370_xp_msi_init int | node struct device_node * | main_int_phys_base int

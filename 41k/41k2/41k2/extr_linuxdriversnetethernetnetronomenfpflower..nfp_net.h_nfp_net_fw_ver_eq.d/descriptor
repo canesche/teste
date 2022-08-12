@@ -1,0 +1,2 @@
+struct nfp_net_fw_version | resv long | class long | major long | minor long 
+function nfp_net_fw_ver_eq int | fw_ver struct nfp_net_fw_version * | resv long | class long | major long | minor long

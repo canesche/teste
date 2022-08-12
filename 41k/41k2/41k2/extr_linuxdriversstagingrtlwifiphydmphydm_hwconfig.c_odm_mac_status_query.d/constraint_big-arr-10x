@@ -1,0 +1,1 @@
+value(mac_id) == 10, value(is_packet_match_bssid) == 10, value(is_packet_to_self) == 10, value(is_packet_beacon) == 10, length(mac_status) == 100, length(dm) == 100

@@ -1,0 +1,2 @@
+struct dma_mapping | size long 
+function dma_mapping_used int | m struct dma_mapping *

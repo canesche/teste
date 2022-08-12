@@ -1,0 +1,2 @@
+struct nfp_nsp | idx unsigned int 
+function nfp_nsp_config_idx unsigned int | state struct nfp_nsp *

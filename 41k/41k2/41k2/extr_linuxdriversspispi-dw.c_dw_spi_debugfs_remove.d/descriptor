@@ -1,0 +1,2 @@
+struct dw_spi | dummy int 
+function dw_spi_debugfs_remove void | dws struct dw_spi *

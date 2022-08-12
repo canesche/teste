@@ -1,0 +1,4 @@
+struct net_device | mtu int 
+struct ipvl_dev | dev struct TYPE_2__ * 
+struct TYPE_2__ | mtu int 
+function ipvlan_adjust_mtu void | ipvlan struct ipvl_dev * | dev struct net_device *

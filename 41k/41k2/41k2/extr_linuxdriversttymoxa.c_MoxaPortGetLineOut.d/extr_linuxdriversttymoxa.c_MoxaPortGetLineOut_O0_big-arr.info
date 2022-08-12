@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversttymoxa.c_MoxaPortGetLineOut.d/extr_linuxdriversttymoxa.c_MoxaPortGetLineOut_O0::MoxaPortGetLineOut(64)"
+  }
+]

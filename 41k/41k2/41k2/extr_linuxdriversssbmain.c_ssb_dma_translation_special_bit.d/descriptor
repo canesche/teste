@@ -1,0 +1,4 @@
+struct TYPE_4__ | coreid long 
+struct ssb_device | id struct TYPE_4__ | bus struct TYPE_3__ * 
+struct TYPE_3__ | chip_id int 
+function ssb_dma_translation_special_bit int | dev struct ssb_device *

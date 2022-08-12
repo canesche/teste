@@ -1,0 +1,3 @@
+struct scsi_qla_host | pdev struct TYPE_2__ * 
+struct TYPE_2__ | device long 
+function is_qla8042 int | ha struct scsi_qla_host *

@@ -1,0 +1,2 @@
+struct bnx2x | dummy int 
+function bnx2x_sample_bulletin enum sample_bulletin_result | bp struct bnx2x *

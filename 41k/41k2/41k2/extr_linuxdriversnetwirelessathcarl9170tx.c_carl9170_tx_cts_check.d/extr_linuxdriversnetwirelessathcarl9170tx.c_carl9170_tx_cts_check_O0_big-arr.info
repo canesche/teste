@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessathcarl9170tx.c_carl9170_tx_cts_check.d/extr_linuxdriversnetwirelessathcarl9170tx.c_carl9170_tx_cts_check_O0::carl9170_tx_cts_check(67)"
+  }
+]

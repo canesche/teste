@@ -1,0 +1,1 @@
+function mcp320x_channel_to_tx_data int | device_index int | channel const unsigned int | differential int

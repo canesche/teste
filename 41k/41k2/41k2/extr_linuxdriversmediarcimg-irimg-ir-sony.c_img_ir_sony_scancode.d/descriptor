@@ -1,0 +1,2 @@
+struct img_ir_scancode_req | scancode unsigned int | protocol int 
+function img_ir_sony_scancode int | len int | raw int | enabled_protocols int | request struct img_ir_scancode_req *

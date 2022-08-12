@@ -1,0 +1,2 @@
+struct mlx5_cache_ent | dummy int 
+function mlx5_odp_init_mr_cache_entry void | ent struct mlx5_cache_ent *

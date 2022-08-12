@@ -1,0 +1,2 @@
+struct vpdma_ctd | pixel_line_count int 
+function ctd_get_pixel_count int | ctd struct vpdma_ctd *

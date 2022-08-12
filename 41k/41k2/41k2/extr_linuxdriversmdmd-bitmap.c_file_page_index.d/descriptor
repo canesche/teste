@@ -1,0 +1,2 @@
+struct bitmap_storage | sb_page long 
+function file_page_index unsigned long | store struct bitmap_storage * | chunk unsigned long

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmtdchipscfi_cmdset_0001.c_is_LH28F640BF.d/extr_linuxdriversmtdchipscfi_cmdset_0001.c_is_LH28F640BF_O0::is_LH28F640BF(66)"
+  }
+]

@@ -1,0 +1,3 @@
+struct device | dummy int 
+struct brcmf_mp_device | dummy int 
+function brcmf_of_probe void | dev struct device * | bus_type enum brcmf_bus_type | settings struct brcmf_mp_device *

@@ -1,0 +1,2 @@
+struct xpc_partition | dummy int 
+function xpc_teardown_ch_structures_uv void | part struct xpc_partition *

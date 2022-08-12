@@ -1,0 +1,2 @@
+struct t4_wq | qp_errp int * 
+function t4_wq_in_error int | wq struct t4_wq *

@@ -1,0 +1,2 @@
+struct thermal_cooling_device | dummy int 
+function mlxreg_fan_get_max_state int | cdev struct thermal_cooling_device * | state unsigned long *

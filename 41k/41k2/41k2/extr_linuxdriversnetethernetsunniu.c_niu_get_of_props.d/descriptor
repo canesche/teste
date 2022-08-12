@@ -1,0 +1,2 @@
+struct niu | dummy int 
+function niu_get_of_props int | np struct niu *

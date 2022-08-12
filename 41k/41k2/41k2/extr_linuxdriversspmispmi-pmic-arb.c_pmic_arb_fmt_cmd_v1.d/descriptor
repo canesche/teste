@@ -1,0 +1,1 @@
+function pmic_arb_fmt_cmd_v1 int | opc int | sid int | addr int | bc int

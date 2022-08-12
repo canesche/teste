@@ -1,0 +1,2 @@
+struct mcast_group | members int * 
+function adjust_membership void | group struct mcast_group * | join_state int | inc int

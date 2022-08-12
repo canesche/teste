@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelesstiwl18xxmain.c_wl18xx_get_spare_blocks.d/extr_linuxdriversnetwirelesstiwl18xxmain.c_wl18xx_get_spare_blocks_O0::wl18xx_get_spare_blocks(64)"
+  }
+]

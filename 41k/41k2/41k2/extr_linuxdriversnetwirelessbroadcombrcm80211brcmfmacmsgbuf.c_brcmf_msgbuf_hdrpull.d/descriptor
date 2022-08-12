@@ -1,0 +1,4 @@
+struct sk_buff | dummy int 
+struct brcmf_pub | dummy int 
+struct brcmf_if | dummy int 
+function brcmf_msgbuf_hdrpull int | drvr struct brcmf_pub * | do_fws int | skb struct sk_buff * | ifp struct brcmf_if **

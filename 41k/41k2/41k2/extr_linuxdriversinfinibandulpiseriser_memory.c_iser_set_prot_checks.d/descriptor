@@ -1,0 +1,2 @@
+struct scsi_cmnd | prot_flags int 
+function iser_set_prot_checks void | sc struct scsi_cmnd * | mask int *

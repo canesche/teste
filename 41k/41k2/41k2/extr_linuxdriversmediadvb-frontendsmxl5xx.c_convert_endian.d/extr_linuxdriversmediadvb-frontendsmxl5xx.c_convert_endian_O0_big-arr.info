@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 131,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 4786,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediadvb-frontendsmxl5xx.c_convert_endian.d/extr_linuxdriversmediadvb-frontendsmxl5xx.c_convert_endian_O0::convert_endian(62)"
+  }
+]

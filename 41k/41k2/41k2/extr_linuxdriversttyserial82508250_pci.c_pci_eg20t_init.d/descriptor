@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function pci_eg20t_init int | dev struct pci_dev *

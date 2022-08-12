@@ -1,0 +1,3 @@
+struct led_pwm_priv | dummy int 
+struct led_pwm_data | dummy int 
+function sizeof_pwm_leds_priv unsigned long | num_leds int

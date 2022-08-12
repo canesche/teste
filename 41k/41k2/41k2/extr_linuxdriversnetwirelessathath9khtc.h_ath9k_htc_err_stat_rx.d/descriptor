@@ -1,0 +1,3 @@
+struct ath_rx_status | dummy int 
+struct ath9k_htc_priv | dummy int 
+function ath9k_htc_err_stat_rx void | priv struct ath9k_htc_priv * | rs struct ath_rx_status *

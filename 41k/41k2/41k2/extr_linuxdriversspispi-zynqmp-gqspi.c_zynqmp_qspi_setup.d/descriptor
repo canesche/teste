@@ -1,0 +1,3 @@
+struct spi_device | master struct TYPE_2__ * 
+struct TYPE_2__ | busy long 
+function zynqmp_qspi_setup int | qspi struct spi_device *

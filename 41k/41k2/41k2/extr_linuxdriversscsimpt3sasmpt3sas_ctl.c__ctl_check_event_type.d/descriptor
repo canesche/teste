@@ -1,0 +1,2 @@
+struct MPT3SAS_ADAPTER | event_type int * | event_log int 
+function _ctl_check_event_type int | ioc struct MPT3SAS_ADAPTER * | event int

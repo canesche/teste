@@ -1,0 +1,2 @@
+struct iio_dev_attr | address int 
+function iio_ev_attr_info enum iio_event_info | attr struct iio_dev_attr *

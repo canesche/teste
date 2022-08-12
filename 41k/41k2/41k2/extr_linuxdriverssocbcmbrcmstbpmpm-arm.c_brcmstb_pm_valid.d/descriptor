@@ -1,0 +1,2 @@
+struct TYPE_2__ | support_warm_boot int 
+function brcmstb_pm_valid int | state int

@@ -1,0 +1,2 @@
+struct spi_qup | n_words unsigned int | w_size unsigned int 
+function spi_qup_len unsigned int | controller struct spi_qup *

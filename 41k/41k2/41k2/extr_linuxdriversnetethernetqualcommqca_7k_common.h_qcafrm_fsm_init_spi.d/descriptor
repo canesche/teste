@@ -1,0 +1,2 @@
+struct qcafrm_handle | init int | state int 
+function qcafrm_fsm_init_spi void | handle struct qcafrm_handle *

@@ -1,0 +1,2 @@
+struct smscore_device_t | dummy int 
+function sms_ir_exit void | coredev struct smscore_device_t *

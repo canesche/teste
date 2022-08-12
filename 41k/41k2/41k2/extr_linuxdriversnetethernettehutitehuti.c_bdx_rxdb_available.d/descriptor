@@ -1,0 +1,2 @@
+struct rxdb | top int 
+function bdx_rxdb_available int | db struct rxdb *

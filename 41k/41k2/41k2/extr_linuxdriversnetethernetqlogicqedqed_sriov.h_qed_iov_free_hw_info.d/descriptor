@@ -1,0 +1,2 @@
+struct qed_dev | dummy int 
+function qed_iov_free_hw_info void | cdev struct qed_dev *

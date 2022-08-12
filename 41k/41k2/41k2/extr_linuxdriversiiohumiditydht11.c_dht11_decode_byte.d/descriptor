@@ -1,0 +1,1 @@
+function dht11_decode_byte unsigned char | bits char *

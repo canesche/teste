@@ -1,0 +1,6 @@
+struct qlcnic_resources | max_local_ipv6_addrs int | max_remote_ipv6_addrs int | num_rx_status_rings int | num_rx_buf_rings int | num_destip int | num_lro_flows_supported int | num_tx_queues int | num_rx_queues int | num_txvlan_keys int | num_rx_mcast_mac_filters int | num_rx_ucast_mac_filters int | num_tx_mac_filters int 
+struct qlcnic_info | max_local_ipv6_addrs int | max_remote_ipv6_addrs int | max_rx_status_rings int | max_rx_buf_rings int | max_rx_ip_addr int | max_rx_lro_flow int | max_tx_ques int | max_rx_ques int | max_tx_vlan_keys int | max_rx_mcast_mac_filters int | max_rx_ucast_mac_filters int | max_tx_mac_filters int 
+struct qlcnic_adapter | ahw struct TYPE_4__ * 
+struct TYPE_4__ | sriov struct TYPE_3__ * 
+struct TYPE_3__ | ff_max struct qlcnic_resources 
+function qlcnic_sriov_pf_set_ff_max_res void | adapter struct qlcnic_adapter * | info struct qlcnic_info *

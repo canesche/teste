@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct ethtool_wolinfo | wolopts long | supported long 
+function bnad_get_wol void | netdev struct net_device * | wolinfo struct ethtool_wolinfo *

@@ -1,0 +1,4 @@
+struct i2c_adapter | dummy int 
+struct dvb_frontend | demodulator_priv struct dib8000_state * 
+struct dib8000_state | dib8096p_tuner_adap struct i2c_adapter 
+function dib8096p_get_i2c_tuner struct i2c_adapter * | fe struct dvb_frontend *

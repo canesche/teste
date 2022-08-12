@@ -1,0 +1,2 @@
+struct t4_sq | flags int 
+function t4_sq_onchip int | sq struct t4_sq *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversusbserialkobil_sct.c_kobil_init_termios.d/extr_linuxdriversusbserialkobil_sct.c_kobil_init_termios_O0::kobil_init_termios(72)"
+  }
+]

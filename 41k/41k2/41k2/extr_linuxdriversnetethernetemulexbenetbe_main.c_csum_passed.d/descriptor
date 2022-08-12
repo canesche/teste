@@ -1,0 +1,2 @@
+struct be_rx_compl_info | err int | ipv6 long | ip_csum long | l4_csum long | udpf long | tcpf long 
+function csum_passed int | rxcp struct be_rx_compl_info *

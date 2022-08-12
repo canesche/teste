@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingfbtftfb_ssd1325.c_rgb565_to_g16.d/extr_linuxdriversstagingfbtftfb_ssd1325.c_rgb565_to_g16_O0::rgb565_to_g16(62)"
+  }
+]

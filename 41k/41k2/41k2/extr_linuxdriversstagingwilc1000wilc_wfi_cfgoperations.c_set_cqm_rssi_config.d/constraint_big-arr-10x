@@ -1,0 +1,1 @@
+value(rssi_thold) == 10, value(rssi_hyst) == 10, length(wiphy) == 100, length(dev) == 100

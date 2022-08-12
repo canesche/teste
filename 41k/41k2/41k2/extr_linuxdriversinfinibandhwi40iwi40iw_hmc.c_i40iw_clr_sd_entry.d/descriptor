@@ -1,0 +1,2 @@
+struct update_sd_entry | data int | cmd int 
+function i40iw_clr_sd_entry void | idx int | type enum i40iw_sd_entry_type | entry struct update_sd_entry *

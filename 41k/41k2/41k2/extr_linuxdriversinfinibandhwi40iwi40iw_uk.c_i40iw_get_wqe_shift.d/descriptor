@@ -1,0 +1,1 @@
+function i40iw_get_wqe_shift void | sge int | inline_data int | shift int *

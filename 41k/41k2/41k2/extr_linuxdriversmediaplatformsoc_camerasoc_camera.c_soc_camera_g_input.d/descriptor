@@ -1,0 +1,2 @@
+struct file | dummy int 
+function soc_camera_g_input int | file struct file * | priv void * | i unsigned int *

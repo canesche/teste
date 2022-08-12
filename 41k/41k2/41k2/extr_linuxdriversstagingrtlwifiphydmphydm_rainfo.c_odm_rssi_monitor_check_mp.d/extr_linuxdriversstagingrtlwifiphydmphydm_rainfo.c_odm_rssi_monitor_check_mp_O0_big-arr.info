@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingrtlwifiphydmphydm_rainfo.c_odm_rssi_monitor_check_mp.d/extr_linuxdriversstagingrtlwifiphydmphydm_rainfo.c_odm_rssi_monitor_check_mp_O0::odm_rssi_monitor_check_mp(59)"
+  }
+]

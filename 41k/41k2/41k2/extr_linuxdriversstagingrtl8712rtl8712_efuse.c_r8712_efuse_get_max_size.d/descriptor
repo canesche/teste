@@ -1,0 +1,2 @@
+struct _adapter | dummy int 
+function r8712_efuse_get_max_size int | padapter struct _adapter *

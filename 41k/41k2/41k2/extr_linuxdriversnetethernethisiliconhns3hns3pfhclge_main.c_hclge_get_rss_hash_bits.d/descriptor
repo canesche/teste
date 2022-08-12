@@ -1,0 +1,2 @@
+struct ethtool_rxnfc | data int | flow_type long 
+function hclge_get_rss_hash_bits int | nfc struct ethtool_rxnfc *

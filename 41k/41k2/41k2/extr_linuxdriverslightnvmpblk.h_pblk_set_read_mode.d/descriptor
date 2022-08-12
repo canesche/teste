@@ -1,0 +1,4 @@
+struct pblk | dev struct nvm_tgt_dev * 
+struct nvm_geo | version long | pln_mode int 
+struct nvm_tgt_dev | geo struct nvm_geo 
+function pblk_set_read_mode int | pblk struct pblk * | type int

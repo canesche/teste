@@ -1,0 +1,2 @@
+struct class | dummy int 
+function mISDN_class_release void | cls struct class *

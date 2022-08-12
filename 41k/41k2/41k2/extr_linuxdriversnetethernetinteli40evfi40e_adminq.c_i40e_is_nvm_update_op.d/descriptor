@@ -1,0 +1,2 @@
+struct i40e_aq_desc | opcode long 
+function i40e_is_nvm_update_op int | desc struct i40e_aq_desc *

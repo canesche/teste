@@ -1,0 +1,2 @@
+struct btree_keys | dummy int 
+function btree_keys_expensive_checks int | b struct btree_keys *

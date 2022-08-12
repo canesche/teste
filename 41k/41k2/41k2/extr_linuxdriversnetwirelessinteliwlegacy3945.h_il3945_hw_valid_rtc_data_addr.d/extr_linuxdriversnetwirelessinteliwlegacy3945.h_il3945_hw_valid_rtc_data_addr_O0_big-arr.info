@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessinteliwlegacy3945.h_il3945_hw_valid_rtc_data_addr.d/extr_linuxdriversnetwirelessinteliwlegacy3945.h_il3945_hw_valid_rtc_data_addr_O0::il3945_hw_valid_rtc_data_addr(64)"
+  }
+]

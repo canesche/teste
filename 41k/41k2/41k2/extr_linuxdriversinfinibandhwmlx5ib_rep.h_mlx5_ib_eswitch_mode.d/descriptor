@@ -1,0 +1,2 @@
+struct mlx5_eswitch | dummy int 
+function mlx5_ib_eswitch_mode int | esw struct mlx5_eswitch *

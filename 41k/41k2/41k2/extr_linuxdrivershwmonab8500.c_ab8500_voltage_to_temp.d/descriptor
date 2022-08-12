@@ -1,0 +1,3 @@
+struct abx500_res_to_temp | resist int | temp int 
+struct ab8500_gpadc_cfg | tbl_sz int | vcc int | r_up int | temp_tbl struct abx500_res_to_temp * 
+function ab8500_voltage_to_temp int | cfg struct ab8500_gpadc_cfg * | v_ntc int | temp int *

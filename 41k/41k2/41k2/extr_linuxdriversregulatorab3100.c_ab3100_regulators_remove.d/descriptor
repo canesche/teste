@@ -1,0 +1,3 @@
+struct platform_device | dummy int 
+struct ab3100_regulator | rdev int * 
+function ab3100_regulators_remove int | pdev struct platform_device *

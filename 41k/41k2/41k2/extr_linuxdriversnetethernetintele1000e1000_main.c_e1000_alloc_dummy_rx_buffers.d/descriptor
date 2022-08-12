@@ -1,0 +1,3 @@
+struct e1000_rx_ring | dummy int 
+struct e1000_adapter | dummy int 
+function e1000_alloc_dummy_rx_buffers void | adapter struct e1000_adapter * | rx_ring struct e1000_rx_ring * | cleaned_count int

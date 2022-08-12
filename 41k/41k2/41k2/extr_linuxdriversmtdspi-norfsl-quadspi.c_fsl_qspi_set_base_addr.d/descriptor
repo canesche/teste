@@ -1,0 +1,3 @@
+struct spi_nor | dummy int 
+struct fsl_qspi | chip_base_addr int | nor_size int | nor struct spi_nor * 
+function fsl_qspi_set_base_addr void | q struct fsl_qspi * | nor struct spi_nor *

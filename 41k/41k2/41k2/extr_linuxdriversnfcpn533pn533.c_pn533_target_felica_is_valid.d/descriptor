@@ -1,0 +1,2 @@
+struct pn533_target_felica | opcode long 
+function pn533_target_felica_is_valid int | felica struct pn533_target_felica * | target_data_len int

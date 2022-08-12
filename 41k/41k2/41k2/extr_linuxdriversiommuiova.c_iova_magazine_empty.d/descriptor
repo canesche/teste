@@ -1,0 +1,2 @@
+struct iova_magazine | size long 
+function iova_magazine_empty int | mag struct iova_magazine *

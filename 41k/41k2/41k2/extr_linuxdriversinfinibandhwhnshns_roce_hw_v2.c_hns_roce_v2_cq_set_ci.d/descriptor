@@ -1,0 +1,2 @@
+struct hns_roce_cq | set_ci_db int * 
+function hns_roce_v2_cq_set_ci void | hr_cq struct hns_roce_cq * | cons_index int

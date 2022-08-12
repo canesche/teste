@@ -1,0 +1,2 @@
+struct gasket_page_table_entry | status long 
+function gasket_is_pte_range_free int | ptes struct gasket_page_table_entry * | num_entries int

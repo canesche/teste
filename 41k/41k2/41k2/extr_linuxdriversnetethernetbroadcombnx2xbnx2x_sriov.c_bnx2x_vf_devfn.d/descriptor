@@ -1,0 +1,5 @@
+struct pci_dev | devfn int 
+struct bnx2x_sriov | offset int | stride int 
+struct bnx2x | vfdb struct TYPE_2__ * | pdev struct pci_dev * 
+struct TYPE_2__ | sriov struct bnx2x_sriov 
+function bnx2x_vf_devfn int | bp struct bnx2x * | vfid int

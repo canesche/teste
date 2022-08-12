@@ -1,0 +1,2 @@
+struct TYPE_2__ | mask int | supported int 
+function mlxsw_sx_from_ptys_supported_link int | ptys_eth_proto int

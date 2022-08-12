@@ -1,0 +1,3 @@
+struct tegra_sor_hdmi_settings | frequency unsigned long 
+struct tegra_sor | num_settings unsigned int | settings struct tegra_sor_hdmi_settings * 
+function tegra_sor_hdmi_find_settings struct tegra_sor_hdmi_settings * | sor struct tegra_sor * | frequency unsigned long

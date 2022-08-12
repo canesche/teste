@@ -1,0 +1,2 @@
+struct qed_tunn_update_type | tun_cls int 
+function __qed_set_ramrod_tunnel_param void | p_tunn_cls int * | tun_type struct qed_tunn_update_type *

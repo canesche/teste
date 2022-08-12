@@ -1,0 +1,2 @@
+struct rndis_wlan_private | param_power_output int 
+function get_bcm4320_power_dbm int | priv struct rndis_wlan_private *

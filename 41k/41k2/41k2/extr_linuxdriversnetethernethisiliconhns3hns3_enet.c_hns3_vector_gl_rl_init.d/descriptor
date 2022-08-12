@@ -1,0 +1,9 @@
+struct hns3_nic_priv | ae_handle struct hnae3_handle * 
+struct TYPE_9__ | gl_adapt_enable int | flow_level void * | int_gl void * 
+struct TYPE_10__ | coal struct TYPE_9__ 
+struct TYPE_7__ | gl_adapt_enable int | flow_level void * | int_gl void * 
+struct TYPE_8__ | coal struct TYPE_7__ 
+struct hns3_enet_tqp_vector | tx_group struct TYPE_10__ | rx_group struct TYPE_8__ | int_adapt_down int 
+struct TYPE_6__ | int_rl_setting long 
+struct hnae3_handle | kinfo struct TYPE_6__ 
+function hns3_vector_gl_rl_init void | tqp_vector struct hns3_enet_tqp_vector * | priv struct hns3_nic_priv *

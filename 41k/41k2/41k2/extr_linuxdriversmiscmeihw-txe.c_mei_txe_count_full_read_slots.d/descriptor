@@ -1,0 +1,2 @@
+struct mei_device | dummy int 
+function mei_txe_count_full_read_slots int | dev struct mei_device *

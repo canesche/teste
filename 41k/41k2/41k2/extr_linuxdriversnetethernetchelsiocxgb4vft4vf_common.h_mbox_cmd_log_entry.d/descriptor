@@ -1,0 +1,3 @@
+struct mbox_cmd_log | dummy int 
+struct mbox_cmd | dummy int 
+function mbox_cmd_log_entry struct mbox_cmd * | log struct mbox_cmd_log * | entry_idx unsigned int

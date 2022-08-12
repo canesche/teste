@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 7,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetrenesassh_eth.c_sh_eth_set_default_cpu_data.d/extr_linuxdriversnetethernetrenesassh_eth.c_sh_eth_set_default_cpu_data_O0::sh_eth_set_default_cpu_data(69)"
+  }
+]

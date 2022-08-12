@@ -1,0 +1,2 @@
+struct ef4_nic | dummy int 
+function ef4_check_lm87 int | efx struct ef4_nic * | mask unsigned int

@@ -1,0 +1,2 @@
+struct ubi_volume_info | dummy int 
+function ubiblock_remove int | vi struct ubi_volume_info *

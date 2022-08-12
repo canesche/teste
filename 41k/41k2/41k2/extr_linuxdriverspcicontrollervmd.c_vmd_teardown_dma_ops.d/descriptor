@@ -1,0 +1,2 @@
+struct vmd_dev | dummy int 
+function vmd_teardown_dma_ops void | vmd struct vmd_dev *

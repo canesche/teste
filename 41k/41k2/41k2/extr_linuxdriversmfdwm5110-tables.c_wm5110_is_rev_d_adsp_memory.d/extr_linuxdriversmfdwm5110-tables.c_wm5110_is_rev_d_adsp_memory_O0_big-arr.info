@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 17,
+    phantoms: 16,
+    exit: true,
+    halt: false,
+    edges: 34,
+    static: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmfdwm5110-tables.c_wm5110_is_rev_d_adsp_memory.d/extr_linuxdriversmfdwm5110-tables.c_wm5110_is_rev_d_adsp_memory_O0::wm5110_is_rev_d_adsp_memory(60)"
+  }
+]

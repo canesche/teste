@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriverspcicontrollerpci-hyperv.c_hv_msi_domain_ops_get_hwirq.d/extr_linuxdriverspcicontrollerpci-hyperv.c_hv_msi_domain_ops_get_hwirq_O0::hv_msi_domain_ops_get_hwirq(66)"
+  }
+]

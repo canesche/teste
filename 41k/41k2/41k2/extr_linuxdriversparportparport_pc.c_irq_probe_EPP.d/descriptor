@@ -1,0 +1,2 @@
+struct parport | dummy int 
+function irq_probe_EPP int | pb struct parport *

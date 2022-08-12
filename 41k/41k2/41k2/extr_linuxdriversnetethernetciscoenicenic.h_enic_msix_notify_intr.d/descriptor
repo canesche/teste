@@ -1,0 +1,2 @@
+struct enic | rq_count unsigned int | wq_count unsigned int 
+function enic_msix_notify_intr unsigned int | enic struct enic *

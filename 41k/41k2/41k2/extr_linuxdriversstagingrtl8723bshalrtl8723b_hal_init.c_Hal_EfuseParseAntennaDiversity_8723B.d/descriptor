@@ -1,0 +1,2 @@
+struct adapter | dummy int 
+function Hal_EfuseParseAntennaDiversity_8723B void | padapter struct adapter * | hwinfo int * | AutoLoadFail int

@@ -1,0 +1,6 @@
+struct TYPE_5__ | mode long 
+struct TYPE_4__ | number_of_assembled_ant2_4 int 
+struct TYPE_6__ | ht struct TYPE_5__ | phy struct TYPE_4__ 
+struct wl18xx_priv | conf struct TYPE_6__ 
+struct wl1271 | priv struct wl18xx_priv * 
+function wl18xx_is_mimo_supported int | wl struct wl1271 *

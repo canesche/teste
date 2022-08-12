@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversgpudrmradeonr100.c_r100_track_compress_size.d/extr_linuxdriversgpudrmradeonr100.c_r100_track_compress_size_O0::r100_track_compress_size(62)"
+  }
+]

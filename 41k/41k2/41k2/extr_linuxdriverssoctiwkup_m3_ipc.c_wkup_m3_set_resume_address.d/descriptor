@@ -1,0 +1,2 @@
+struct wkup_m3_ipc | resume_addr unsigned long 
+function wkup_m3_set_resume_address void | m3_ipc struct wkup_m3_ipc * | addr void *

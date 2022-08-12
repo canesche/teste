@@ -1,0 +1,2 @@
+struct rtsx_chip | dummy int 
+function rtsx_manage_sd_lock void | chip struct rtsx_chip *

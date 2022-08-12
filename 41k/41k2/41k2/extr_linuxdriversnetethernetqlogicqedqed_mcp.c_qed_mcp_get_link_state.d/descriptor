@@ -1,0 +1,4 @@
+struct qed_mcp_link_state | dummy int 
+struct qed_hwfn | mcp_info struct TYPE_2__ * 
+struct TYPE_2__ | link_output struct qed_mcp_link_state 
+function qed_mcp_get_link_state struct qed_mcp_link_state * | p_hwfn struct qed_hwfn *

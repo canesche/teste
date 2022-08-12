@@ -1,0 +1,2 @@
+struct NCR5380_hostdata | dummy int 
+function NCR5380_dma_setup_none int | hostdata struct NCR5380_hostdata * | data unsigned char * | count int

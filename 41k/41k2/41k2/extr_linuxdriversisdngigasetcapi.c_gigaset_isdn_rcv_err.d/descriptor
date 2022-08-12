@@ -1,0 +1,2 @@
+struct bc_state | corrupted int | ignore long 
+function gigaset_isdn_rcv_err void | bcs struct bc_state *

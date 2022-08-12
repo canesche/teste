@@ -1,0 +1,1 @@
+function cable_present int | stat enum musb_vbus_id_status

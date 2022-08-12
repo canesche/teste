@@ -1,0 +1,3 @@
+struct TYPE_2__ | engine_for_debug int 
+struct qed_dev | dbg_params struct TYPE_2__ 
+function qed_get_debug_engine int | cdev struct qed_dev *

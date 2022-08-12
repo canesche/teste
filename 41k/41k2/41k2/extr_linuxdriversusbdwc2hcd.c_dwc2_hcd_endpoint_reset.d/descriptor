@@ -1,0 +1,4 @@
+struct usb_host_endpoint | hcpriv struct dwc2_qh * 
+struct dwc2_qh | data_toggle int 
+struct dwc2_hsotg | dummy int 
+function dwc2_hcd_endpoint_reset int | hsotg struct dwc2_hsotg * | ep struct usb_host_endpoint *

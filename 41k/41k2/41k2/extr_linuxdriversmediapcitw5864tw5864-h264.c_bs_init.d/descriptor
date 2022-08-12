@@ -1,0 +1,2 @@
+struct bs | bits_left int | ptr void * | buf_end void * | buf void * 
+function bs_init void | s struct bs * | buf void * | size int

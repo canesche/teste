@@ -1,0 +1,2 @@
+struct mtk_tx_ring | tx_phys int | tx_dma void * 
+function mtk_qdma_phys_to_virt void * | ring struct mtk_tx_ring * | desc int

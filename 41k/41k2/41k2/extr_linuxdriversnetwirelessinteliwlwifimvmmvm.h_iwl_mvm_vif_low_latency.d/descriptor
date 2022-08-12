@@ -1,0 +1,2 @@
+struct iwl_mvm_vif | low_latency int 
+function iwl_mvm_vif_low_latency int | mvmvif struct iwl_mvm_vif *

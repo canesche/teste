@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function rtl8723e_dm_pwdb_monitor void | hw struct ieee80211_hw *

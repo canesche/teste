@@ -1,0 +1,4 @@
+struct TYPE_4__ | nominal int | min int | max int 
+struct TYPE_3__ | nominal int | min int | max int 
+struct ath_hw | nf_5g struct TYPE_4__ | nf_2g struct TYPE_3__ 
+function ar5008_hw_set_nf_limits void | ah struct ath_hw *

@@ -1,0 +1,1 @@
+function hp_sdc_rtc_isr void | irq int | dev_id void * | status int | data int

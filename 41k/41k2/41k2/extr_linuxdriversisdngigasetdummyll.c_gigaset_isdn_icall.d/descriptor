@@ -1,0 +1,2 @@
+struct at_state_t | dummy int 
+function gigaset_isdn_icall int | at_state struct at_state_t *

@@ -1,0 +1,2 @@
+struct ixgbe_hw | dummy int 
+function ixgbevf_setup_mac_link_vf int | hw struct ixgbe_hw * | speed int | autoneg int | autoneg_wait_to_complete int

@@ -1,0 +1,3 @@
+struct qlcnic_vf_info | sriov_vlans long * | num_vlan int 
+struct qlcnic_sriov | num_allowed_vlans int 
+function qlcnic_sriov_del_vlan_id void | sriov struct qlcnic_sriov * | vf struct qlcnic_vf_info * | vlan_id long

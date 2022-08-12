@@ -1,0 +1,2 @@
+struct ptp_clock | index int 
+function ptp_clock_index int | ptp struct ptp_clock *

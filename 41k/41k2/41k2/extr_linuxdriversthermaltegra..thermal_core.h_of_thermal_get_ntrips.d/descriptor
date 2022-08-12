@@ -1,0 +1,2 @@
+struct thermal_zone_device | dummy int 
+function of_thermal_get_ntrips int | tz struct thermal_zone_device *

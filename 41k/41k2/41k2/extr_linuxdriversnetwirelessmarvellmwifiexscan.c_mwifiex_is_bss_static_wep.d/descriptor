@@ -1,0 +1,4 @@
+struct TYPE_2__ | wpa2_enabled int | wpa_enabled int | wep_enabled long 
+struct mwifiex_private | sec_info struct TYPE_2__ 
+struct mwifiex_bssdescriptor | privacy long 
+function mwifiex_is_bss_static_wep int | priv struct mwifiex_private * | bss_desc struct mwifiex_bssdescriptor *

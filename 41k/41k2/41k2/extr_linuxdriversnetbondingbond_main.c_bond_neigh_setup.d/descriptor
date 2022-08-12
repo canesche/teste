@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct neigh_parms | neigh_setup int | dev struct net_device * 
+function bond_neigh_setup int | dev struct net_device * | parms struct neigh_parms *

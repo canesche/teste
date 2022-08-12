@@ -1,0 +1,4 @@
+struct phy_status_rpt_8812 | r_RFMOD int | sub_chnl int 
+struct dm_phy_status_info | band_width int 
+struct dm_per_pkt_info | data_rate long 
+function odm_rx_phy_bw_jaguar_series_parsing void | phy_info struct dm_phy_status_info * | pktinfo struct dm_per_pkt_info * | phy_sta_rpt struct phy_status_rpt_8812 *

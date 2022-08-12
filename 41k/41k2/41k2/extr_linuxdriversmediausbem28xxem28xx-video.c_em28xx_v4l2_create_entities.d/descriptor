@@ -1,0 +1,2 @@
+struct em28xx | dummy int 
+function em28xx_v4l2_create_entities void | dev struct em28xx *

@@ -1,0 +1,2 @@
+struct octeon_device | octeon_id int 
+function lio_get_device_id int | dev void *

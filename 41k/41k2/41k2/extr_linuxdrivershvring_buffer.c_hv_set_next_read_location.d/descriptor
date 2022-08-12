@@ -1,0 +1,3 @@
+struct hv_ring_buffer_info | priv_read_index void * | ring_buffer struct TYPE_2__ * 
+struct TYPE_2__ | read_index void * 
+function hv_set_next_read_location void | ring_info struct hv_ring_buffer_info * | next_read_location void *

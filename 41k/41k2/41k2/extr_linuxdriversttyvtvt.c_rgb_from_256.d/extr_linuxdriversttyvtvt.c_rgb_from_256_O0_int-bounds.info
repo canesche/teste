@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 54,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 54,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversttyvtvt.c_rgb_from_256.d/extr_linuxdriversttyvtvt.c_rgb_from_256_O0::rgb_from_256(61)"
+  }
+]

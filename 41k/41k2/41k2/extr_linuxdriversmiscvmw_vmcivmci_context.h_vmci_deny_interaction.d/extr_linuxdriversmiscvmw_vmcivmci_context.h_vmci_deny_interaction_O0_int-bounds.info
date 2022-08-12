@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmiscvmw_vmcivmci_context.h_vmci_deny_interaction.d/extr_linuxdriversmiscvmw_vmcivmci_context.h_vmci_deny_interaction_O0::vmci_deny_interaction(63)"
+  }
+]

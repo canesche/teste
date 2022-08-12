@@ -1,0 +1,2 @@
+struct btc_coexist | dummy int 
+function btc8192e2ant_decide_ra_mask int | btcoexist struct btc_coexist * | ss_type int | ra_mask_type int

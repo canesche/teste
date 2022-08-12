@@ -1,0 +1,2 @@
+struct b43legacy_wldev | dummy int 
+function b43legacy_dma_free void | dev struct b43legacy_wldev *

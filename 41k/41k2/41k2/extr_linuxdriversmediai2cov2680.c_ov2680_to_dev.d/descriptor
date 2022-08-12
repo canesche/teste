@@ -1,0 +1,4 @@
+struct ov2680_dev | i2c_client struct TYPE_2__ * 
+struct device | dummy int 
+struct TYPE_2__ | dev struct device 
+function ov2680_to_dev struct device * | sensor struct ov2680_dev *

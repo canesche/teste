@@ -1,0 +1,2 @@
+struct spi_device | dummy int 
+function fsl_espi_max_message_size unsigned long | spi struct spi_device *

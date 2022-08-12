@@ -1,0 +1,3 @@
+struct rc_dev | dummy int 
+struct ir_raw_event | dummy int 
+function ir_lirc_raw_event void | dev struct rc_dev * | ev struct ir_raw_event

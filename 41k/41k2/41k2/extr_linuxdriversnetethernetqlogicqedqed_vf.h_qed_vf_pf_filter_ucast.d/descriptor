@@ -1,0 +1,3 @@
+struct qed_hwfn | dummy int 
+struct qed_filter_ucast | dummy int 
+function qed_vf_pf_filter_ucast int | p_hwfn struct qed_hwfn * | p_param struct qed_filter_ucast *

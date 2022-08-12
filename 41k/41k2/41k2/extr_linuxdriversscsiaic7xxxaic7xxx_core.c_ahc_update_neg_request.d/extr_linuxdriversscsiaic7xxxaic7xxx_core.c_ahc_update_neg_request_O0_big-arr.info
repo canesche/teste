@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsiaic7xxxaic7xxx_core.c_ahc_update_neg_request.d/extr_linuxdriversscsiaic7xxxaic7xxx_core.c_ahc_update_neg_request_O0::ahc_update_neg_request(80)"
+  }
+]

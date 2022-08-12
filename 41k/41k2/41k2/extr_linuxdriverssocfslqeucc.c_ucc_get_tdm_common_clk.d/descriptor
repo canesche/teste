@@ -1,0 +1,1 @@
+function ucc_get_tdm_common_clk int | tdm_num int | clock enum qe_clock

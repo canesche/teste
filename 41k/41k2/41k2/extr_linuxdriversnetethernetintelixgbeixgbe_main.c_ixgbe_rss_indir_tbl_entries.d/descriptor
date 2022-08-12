@@ -1,0 +1,4 @@
+struct TYPE_3__ | type long 
+struct TYPE_4__ | mac struct TYPE_3__ 
+struct ixgbe_adapter | flags int | hw struct TYPE_4__ 
+function ixgbe_rss_indir_tbl_entries int | adapter struct ixgbe_adapter *

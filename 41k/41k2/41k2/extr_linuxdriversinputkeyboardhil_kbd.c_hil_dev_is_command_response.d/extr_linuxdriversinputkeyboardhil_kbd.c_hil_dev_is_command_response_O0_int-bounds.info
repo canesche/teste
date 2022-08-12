@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinputkeyboardhil_kbd.c_hil_dev_is_command_response.d/extr_linuxdriversinputkeyboardhil_kbd.c_hil_dev_is_command_response_O0::hil_dev_is_command_response(67)"
+  }
+]

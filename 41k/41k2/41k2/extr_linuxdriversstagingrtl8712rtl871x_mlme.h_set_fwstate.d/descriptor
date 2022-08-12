@@ -1,0 +1,2 @@
+struct mlme_priv | fw_state int 
+function set_fwstate void | pmlmepriv struct mlme_priv * | state int

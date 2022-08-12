@@ -1,0 +1,2 @@
+struct rvt_mregion | lkey long 
+function rvt_mr_has_lkey int | mr struct rvt_mregion * | lkey long

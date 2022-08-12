@@ -1,0 +1,2 @@
+struct koneplus_device | actual_profile int 
+function koneplus_profile_activated void | koneplus struct koneplus_device * | new_profile int

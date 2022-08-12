@@ -1,0 +1,3 @@
+struct mlxsw_sp_nexthop | neigh_entry struct TYPE_2__ * | offloaded int 
+struct TYPE_2__ | ha unsigned char * 
+function mlxsw_sp_nexthop_ha unsigned char * | nh struct mlxsw_sp_nexthop *

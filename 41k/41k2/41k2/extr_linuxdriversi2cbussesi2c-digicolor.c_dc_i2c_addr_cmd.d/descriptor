@@ -1,0 +1,2 @@
+struct i2c_msg | addr int | flags int 
+function dc_i2c_addr_cmd int | msg struct i2c_msg *

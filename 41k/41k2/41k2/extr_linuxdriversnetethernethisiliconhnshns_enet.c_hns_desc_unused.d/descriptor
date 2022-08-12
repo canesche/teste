@@ -1,0 +1,2 @@
+struct hnae_ring | next_to_clean int | next_to_use int | desc_num int 
+function hns_desc_unused int | ring struct hnae_ring *

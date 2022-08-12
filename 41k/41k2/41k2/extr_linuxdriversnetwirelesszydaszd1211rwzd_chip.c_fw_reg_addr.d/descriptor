@@ -1,0 +1,2 @@
+struct zd_chip | fw_regs_base long 
+function fw_reg_addr int | chip struct zd_chip * | offset long

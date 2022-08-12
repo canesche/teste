@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsiqla4xxxql4_def.h_is_aer_supported.d/extr_linuxdriversscsiqla4xxxql4_def.h_is_aer_supported_O0::is_aer_supported(66)"
+  }
+]

@@ -1,0 +1,4 @@
+struct gb_power_supply | supplies struct TYPE_2__ * 
+struct gb_connection | dummy int 
+struct TYPE_2__ | connection struct gb_connection * 
+function get_conn_from_psy struct gb_connection * | gbpsy struct gb_power_supply *

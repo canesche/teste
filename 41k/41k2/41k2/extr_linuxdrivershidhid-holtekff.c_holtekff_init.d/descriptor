@@ -1,0 +1,2 @@
+struct hid_device | dummy int 
+function holtekff_init int | hid struct hid_device *

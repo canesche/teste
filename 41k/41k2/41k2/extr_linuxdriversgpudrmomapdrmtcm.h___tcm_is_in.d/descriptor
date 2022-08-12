@@ -1,0 +1,6 @@
+struct tcm_pt | x long | y int 
+struct TYPE_5__ | x long | y int 
+struct TYPE_4__ | x long | y int 
+struct tcm_area | tcm struct TYPE_6__ * | p1 struct TYPE_5__ | p0 struct TYPE_4__ | is2d long 
+struct TYPE_6__ | width int 
+function __tcm_is_in int | p struct tcm_pt * | a struct tcm_area *

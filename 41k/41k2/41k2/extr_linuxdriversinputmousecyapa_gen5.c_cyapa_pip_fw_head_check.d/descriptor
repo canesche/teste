@@ -1,0 +1,3 @@
+struct cyapa_tsg_bin_image_head | head_size int | family_id int | silicon_id_hi int 
+struct cyapa | gen int | platform_ver int 
+function cyapa_pip_fw_head_check int | cyapa struct cyapa * | image_head struct cyapa_tsg_bin_image_head *

@@ -1,0 +1,2 @@
+struct efx_filter_spec | match_flags int 
+function efx_filter_set_uc_def int | spec struct efx_filter_spec *

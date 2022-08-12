@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetteamteam.c_team_queue_override_port_has_gt_prio_than.d/extr_linuxdriversnetteamteam.c_team_queue_override_port_has_gt_prio_than_O0::team_queue_override_port_has_gt_prio_than(62)"
+  }
+]

@@ -1,0 +1,2 @@
+struct mvpp2_prs_entry | tcam int * 
+function mvpp2_prs_tcam_port_map_get unsigned int | pe struct mvpp2_prs_entry *

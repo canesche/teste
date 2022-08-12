@@ -1,0 +1,2 @@
+struct c4iw_rdev | flags int 
+function c4iw_fatal_error int | rdev struct c4iw_rdev *

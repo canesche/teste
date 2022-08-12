@@ -1,0 +1,2 @@
+struct map_pci_info | dummy int 
+function intel_dc21285_translate unsigned long | map struct map_pci_info * | ofs unsigned long

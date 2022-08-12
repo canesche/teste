@@ -1,0 +1,2 @@
+struct s3c24xx_i2c | dummy int 
+function s3c24xx_i2c_dt_gpio_free void | i2c struct s3c24xx_i2c *

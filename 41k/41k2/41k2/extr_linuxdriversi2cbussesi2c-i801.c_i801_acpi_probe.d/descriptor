@@ -1,0 +1,2 @@
+struct i801_priv | dummy int 
+function i801_acpi_probe int | priv struct i801_priv *

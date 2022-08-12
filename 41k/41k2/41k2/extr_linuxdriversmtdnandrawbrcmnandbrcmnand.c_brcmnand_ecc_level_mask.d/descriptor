@@ -1,0 +1,2 @@
+struct brcmnand_controller | nand_version int 
+function brcmnand_ecc_level_mask int | ctrl struct brcmnand_controller *

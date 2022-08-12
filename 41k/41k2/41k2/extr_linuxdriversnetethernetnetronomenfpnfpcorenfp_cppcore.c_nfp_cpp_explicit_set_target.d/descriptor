@@ -1,0 +1,3 @@
+struct TYPE_2__ | byte_mask void * | len void * | cpp_id int 
+struct nfp_cpp_explicit | cmd struct TYPE_2__ 
+function nfp_cpp_explicit_set_target int | expl struct nfp_cpp_explicit * | cpp_id int | len void * | mask void *

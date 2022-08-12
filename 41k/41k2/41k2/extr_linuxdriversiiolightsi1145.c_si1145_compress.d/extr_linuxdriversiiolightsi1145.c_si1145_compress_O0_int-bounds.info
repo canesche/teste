@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 87,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversiiolightsi1145.c_si1145_compress.d/extr_linuxdriversiiolightsi1145.c_si1145_compress_O0::si1145_compress(63)"
+  }
+]

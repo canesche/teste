@@ -1,0 +1,2 @@
+struct fsl_udc | vbus_active long | softconnect long | driver long 
+function can_pullup int | udc struct fsl_udc *

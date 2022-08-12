@@ -1,0 +1,4 @@
+struct vnt_private | current_tsf int 
+struct ieee80211_vif | dummy int 
+struct ieee80211_hw | priv struct vnt_private * 
+function vnt_get_tsf int | hw struct ieee80211_hw * | vif struct ieee80211_vif *

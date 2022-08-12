@@ -1,0 +1,4 @@
+struct irqc_priv | dummy int 
+struct irq_data | domain struct TYPE_2__ * 
+struct TYPE_2__ | host_data struct irqc_priv * 
+function irq_data_to_priv struct irqc_priv * | data struct irq_data *

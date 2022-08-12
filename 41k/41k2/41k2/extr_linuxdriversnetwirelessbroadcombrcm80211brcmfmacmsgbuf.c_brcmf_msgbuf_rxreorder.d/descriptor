@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct brcmf_if | dummy int 
+function brcmf_msgbuf_rxreorder void | ifp struct brcmf_if * | skb struct sk_buff *

@@ -1,0 +1,3 @@
+struct rvt_qpn_table | map struct rvt_qpn_map * 
+struct rvt_qpn_map | dummy int 
+function mk_qpn unsigned int | qpt struct rvt_qpn_table * | map struct rvt_qpn_map * | off unsigned int

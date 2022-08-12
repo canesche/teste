@@ -1,0 +1,2 @@
+struct sh_veu_dev | is_2h long 
+function sh_veu_calc_scale void | veu struct sh_veu_dev * | size_in int | size_out int | crop_out int | mant int * | frac int * | rep int *

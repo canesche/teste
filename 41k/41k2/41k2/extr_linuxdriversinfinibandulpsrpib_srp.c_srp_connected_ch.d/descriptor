@@ -1,0 +1,3 @@
+struct srp_target_port | ch_count int | ch struct TYPE_2__ * 
+struct TYPE_2__ | connected long 
+function srp_connected_ch int | target struct srp_target_port *

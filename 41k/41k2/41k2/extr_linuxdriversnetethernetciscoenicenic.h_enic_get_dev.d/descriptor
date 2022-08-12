@@ -1,0 +1,4 @@
+struct enic | pdev struct TYPE_2__ * 
+struct device | dummy int 
+struct TYPE_2__ | dev struct device 
+function enic_get_dev struct device * | enic struct enic *

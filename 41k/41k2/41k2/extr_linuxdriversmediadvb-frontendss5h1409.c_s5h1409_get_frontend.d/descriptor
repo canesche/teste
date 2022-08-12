@@ -1,0 +1,4 @@
+struct s5h1409_state | current_modulation int | current_frequency int 
+struct dvb_frontend | demodulator_priv struct s5h1409_state * 
+struct dtv_frontend_properties | modulation int | frequency int 
+function s5h1409_get_frontend int | fe struct dvb_frontend * | p struct dtv_frontend_properties *

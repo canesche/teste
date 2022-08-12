@@ -1,0 +1,2 @@
+struct fsg_common | state long 
+function exception_in_progress int | common struct fsg_common *

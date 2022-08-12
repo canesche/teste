@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetbroadcombnxtbnxt_ethtool.c_bnxt_fw_to_ethtool_speed.d/extr_linuxdriversnetethernetbroadcombnxtbnxt_ethtool.c_bnxt_fw_to_ethtool_speed_O0::bnxt_fw_to_ethtool_speed(81)"
+  }
+]

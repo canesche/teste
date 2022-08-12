@@ -1,0 +1,4 @@
+struct TYPE_2__ | demod int 
+struct sx8 | mci struct TYPE_2__ 
+struct mci | dummy int 
+function init int | mci struct mci *

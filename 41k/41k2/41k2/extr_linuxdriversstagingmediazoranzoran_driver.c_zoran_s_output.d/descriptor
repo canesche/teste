@@ -1,0 +1,2 @@
+struct file | dummy int 
+function zoran_s_output int | file struct file * | __fh void * | output unsigned int

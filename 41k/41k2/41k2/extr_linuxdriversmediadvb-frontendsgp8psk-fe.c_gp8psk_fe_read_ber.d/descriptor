@@ -1,0 +1,2 @@
+struct dvb_frontend | dummy int 
+function gp8psk_fe_read_ber int | fe struct dvb_frontend * | ber long *

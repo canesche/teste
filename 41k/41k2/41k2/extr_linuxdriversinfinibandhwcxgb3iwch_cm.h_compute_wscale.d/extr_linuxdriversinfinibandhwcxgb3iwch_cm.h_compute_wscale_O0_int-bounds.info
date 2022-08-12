@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinfinibandhwcxgb3iwch_cm.h_compute_wscale.d/extr_linuxdriversinfinibandhwcxgb3iwch_cm.h_compute_wscale_O0::compute_wscale(60)"
+  }
+]

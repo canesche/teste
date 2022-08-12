@@ -1,0 +1,2 @@
+struct brcms_band | bandtype long 
+function get_sifs int | band struct brcms_band *

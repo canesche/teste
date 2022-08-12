@@ -1,0 +1,1 @@
+function construct_mic_header1 void | mic_header1 int * | header_length int | mpdu int * | frtype int

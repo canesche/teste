@@ -1,0 +1,4 @@
+struct lpddr2_timings | dummy int 
+struct device_node | dummy int 
+struct device | dummy int 
+function of_get_ddr_timings const struct lpddr2_timings * | np_ddr struct device_node * | dev struct device * | device_type int | nr_frequencies int *

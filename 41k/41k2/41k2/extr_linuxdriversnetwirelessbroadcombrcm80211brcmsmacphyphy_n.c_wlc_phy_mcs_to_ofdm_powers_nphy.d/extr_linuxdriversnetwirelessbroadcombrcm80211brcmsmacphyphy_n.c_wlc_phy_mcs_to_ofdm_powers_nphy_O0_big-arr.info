@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 6,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessbroadcombrcm80211brcmsmacphyphy_n.c_wlc_phy_mcs_to_ofdm_powers_nphy.d/extr_linuxdriversnetwirelessbroadcombrcm80211brcmsmacphyphy_n.c_wlc_phy_mcs_to_ofdm_powers_nphy_O0::wlc_phy_mcs_to_ofdm_powers_nphy(63)"
+  }
+]

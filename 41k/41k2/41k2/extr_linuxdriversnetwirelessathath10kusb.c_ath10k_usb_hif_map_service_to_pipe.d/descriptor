@@ -1,0 +1,2 @@
+struct ath10k | dummy int 
+function ath10k_usb_hif_map_service_to_pipe int | ar struct ath10k * | svc_id int | ul_pipe int * | dl_pipe int *

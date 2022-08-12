@@ -1,0 +1,2 @@
+struct nvme_ctrl | dummy int 
+function nvme_ctrl_use_ana int | ctrl struct nvme_ctrl *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriverss390cioccwreq.c_lpm_adjust.d/extr_linuxdriverss390cioccwreq.c_lpm_adjust_O0::lpm_adjust(60)"
+  }
+]

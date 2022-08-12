@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessmediatekmt76tx.c_mt76_txq_get_qid.d/extr_linuxdriversnetwirelessmediatekmt76tx.c_mt76_txq_get_qid_O0::mt76_txq_get_qid(63)"
+  }
+]

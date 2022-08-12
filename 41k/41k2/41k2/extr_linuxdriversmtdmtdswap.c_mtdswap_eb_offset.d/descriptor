@@ -1,0 +1,4 @@
+struct swap_eb | dummy int 
+struct mtdswap_dev | mtd struct TYPE_2__ * | eb_data struct swap_eb * 
+struct TYPE_2__ | erasesize int 
+function mtdswap_eb_offset int | d struct mtdswap_dev * | eb struct swap_eb *

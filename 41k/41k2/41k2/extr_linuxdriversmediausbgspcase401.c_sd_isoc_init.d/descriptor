@@ -1,0 +1,2 @@
+struct gspca_dev | alt int | usb_err int 
+function sd_isoc_init int | gspca_dev struct gspca_dev *

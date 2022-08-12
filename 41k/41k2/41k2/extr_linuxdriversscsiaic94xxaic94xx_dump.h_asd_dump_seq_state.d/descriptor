@@ -1,0 +1,2 @@
+struct asd_ha_struct | dummy int 
+function asd_dump_seq_state void | asd_ha struct asd_ha_struct * | lseq_mask int

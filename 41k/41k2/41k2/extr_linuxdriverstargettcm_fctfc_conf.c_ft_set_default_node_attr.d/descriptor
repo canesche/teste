@@ -1,0 +1,2 @@
+struct se_node_acl | dummy int 
+function ft_set_default_node_attr void | se_nacl struct se_node_acl *

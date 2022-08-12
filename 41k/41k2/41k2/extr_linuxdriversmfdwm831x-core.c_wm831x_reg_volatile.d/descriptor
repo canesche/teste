@@ -1,0 +1,2 @@
+struct device | dummy int 
+function wm831x_reg_volatile int | dev struct device * | reg unsigned int

@@ -1,0 +1,2 @@
+struct snd_soc_component | dummy int 
+function tda1997x_codec_probe int | component struct snd_soc_component *

@@ -1,0 +1,2 @@
+struct dvb_usb_device | dummy int 
+function af9005_power_ctrl int | d struct dvb_usb_device * | onoff int

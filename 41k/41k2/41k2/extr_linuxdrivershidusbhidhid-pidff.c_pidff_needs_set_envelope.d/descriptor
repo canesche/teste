@@ -1,0 +1,2 @@
+struct ff_envelope | attack_level long | fade_level long | attack_length long | fade_length long 
+function pidff_needs_set_envelope int | envelope struct ff_envelope * | old struct ff_envelope *

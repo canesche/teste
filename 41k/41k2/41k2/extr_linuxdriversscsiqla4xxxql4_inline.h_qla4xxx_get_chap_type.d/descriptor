@@ -1,0 +1,2 @@
+struct ql4_chap_table | flags int 
+function qla4xxx_get_chap_type int | chap_entry struct ql4_chap_table *

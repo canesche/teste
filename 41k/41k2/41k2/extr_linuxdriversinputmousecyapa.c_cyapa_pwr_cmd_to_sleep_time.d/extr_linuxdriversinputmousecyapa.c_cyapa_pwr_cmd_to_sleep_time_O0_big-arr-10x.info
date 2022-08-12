@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinputmousecyapa.c_cyapa_pwr_cmd_to_sleep_time.d/extr_linuxdriversinputmousecyapa.c_cyapa_pwr_cmd_to_sleep_time_O0::cyapa_pwr_cmd_to_sleep_time(62)"
+  }
+]

@@ -1,0 +1,2 @@
+struct wl1271 | dummy int 
+function wl18xx_get_rx_buf_align enum wl_rx_buf_align | wl struct wl1271 * | rx_desc int

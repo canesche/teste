@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 19,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 30,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinputkeyboardlkkbd.c_volume_to_hw.d/extr_linuxdriversinputkeyboardlkkbd.c_volume_to_hw_O0::volume_to_hw(60)"
+  }
+]

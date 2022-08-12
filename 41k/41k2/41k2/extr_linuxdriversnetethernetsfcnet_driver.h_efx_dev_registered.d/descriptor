@@ -1,0 +1,3 @@
+struct efx_nic | net_dev struct TYPE_2__ * 
+struct TYPE_2__ | reg_state long 
+function efx_dev_registered int | efx struct efx_nic *

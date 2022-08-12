@@ -1,0 +1,3 @@
+struct scb | dummy int 
+struct ahd_softc | flags int 
+function ahd_platform_scb_free void | ahd struct ahd_softc * | scb struct scb *

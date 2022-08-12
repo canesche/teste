@@ -1,0 +1,4 @@
+struct TYPE_4__ | path_mtu int 
+struct TYPE_3__ | qp_type long 
+struct rxe_qp | attr struct TYPE_4__ | ibqp struct TYPE_3__ 
+function qp_mtu int | qp struct rxe_qp *

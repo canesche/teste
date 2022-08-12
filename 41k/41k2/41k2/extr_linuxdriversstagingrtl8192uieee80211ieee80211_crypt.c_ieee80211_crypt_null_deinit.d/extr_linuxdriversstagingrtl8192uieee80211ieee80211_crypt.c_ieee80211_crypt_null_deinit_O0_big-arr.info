@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingrtl8192uieee80211ieee80211_crypt.c_ieee80211_crypt_null_deinit.d/extr_linuxdriversstagingrtl8192uieee80211ieee80211_crypt.c_ieee80211_crypt_null_deinit_O0::ieee80211_crypt_null_deinit(59)"
+  }
+]

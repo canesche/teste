@@ -1,0 +1,3 @@
+struct fman_ext_pools | num_of_pools_used int | ext_buf_pool struct TYPE_2__ * 
+struct TYPE_2__ | size long | id unsigned long 
+function fman_sp_set_buf_pools_in_asc_order_of_buf_sizes void | fm_ext_pools struct fman_ext_pools * | ordered_array unsigned long * | sizes_array long *

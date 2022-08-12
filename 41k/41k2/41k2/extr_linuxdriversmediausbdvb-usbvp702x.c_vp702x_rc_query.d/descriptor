@@ -1,0 +1,2 @@
+struct dvb_usb_device | dummy int 
+function vp702x_rc_query int | d struct dvb_usb_device * | event int * | state int *

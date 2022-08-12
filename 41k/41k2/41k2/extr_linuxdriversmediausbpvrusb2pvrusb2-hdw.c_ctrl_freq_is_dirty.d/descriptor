@@ -1,0 +1,3 @@
+struct pvr2_ctrl | hdw struct TYPE_2__ * 
+struct TYPE_2__ | freqDirty long 
+function ctrl_freq_is_dirty int | cptr struct pvr2_ctrl *

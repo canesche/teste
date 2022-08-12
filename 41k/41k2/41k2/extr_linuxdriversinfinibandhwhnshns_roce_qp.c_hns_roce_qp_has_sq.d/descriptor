@@ -1,0 +1,2 @@
+struct ib_qp_init_attr | qp_type long 
+function hns_roce_qp_has_sq int | attr struct ib_qp_init_attr *

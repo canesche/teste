@@ -1,0 +1,3 @@
+struct hd_geometry | cylinders unsigned long | heads int | sectors int | start int 
+struct block_device | dummy int 
+function xpram_getgeo int | bdev struct block_device * | geo struct hd_geometry *

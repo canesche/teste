@@ -1,0 +1,2 @@
+struct zd_rf | update_channel_int int 
+function zd_rf_should_update_pwr_int int | rf struct zd_rf *

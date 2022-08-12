@@ -1,0 +1,3 @@
+struct mv88e6xxx_chip | dummy int 
+struct ethtool_eeprom | dummy int 
+function mv88e6xxx_g2_get_eeprom16 int | chip struct mv88e6xxx_chip * | eeprom struct ethtool_eeprom * | data int *

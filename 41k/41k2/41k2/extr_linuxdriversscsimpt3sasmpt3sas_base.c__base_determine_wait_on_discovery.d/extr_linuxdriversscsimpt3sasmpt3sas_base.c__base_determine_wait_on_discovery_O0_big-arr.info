@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsimpt3sasmpt3sas_base.c__base_determine_wait_on_discovery.d/extr_linuxdriversscsimpt3sasmpt3sas_base.c__base_determine_wait_on_discovery_O0::_base_determine_wait_on_discovery(68)"
+  }
+]

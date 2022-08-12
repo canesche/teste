@@ -1,0 +1,4 @@
+struct TYPE_2__ | hdr_format int 
+struct b43_wldev | fw struct TYPE_2__ 
+struct b43_plcp_hdr6 | dummy int 
+function b43_txhdr_size unsigned long | dev struct b43_wldev *

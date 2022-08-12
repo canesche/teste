@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 70,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 70,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriverss390ciodevice_ops.c_ccw_device_set_options.d/extr_linuxdriverss390ciodevice_ops.c_ccw_device_set_options_O0::ccw_device_set_options(71)"
+  }
+]

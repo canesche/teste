@@ -1,0 +1,2 @@
+struct dw_i2c_dev | flags int 
+function get_sem_addr int | dev struct dw_i2c_dev *

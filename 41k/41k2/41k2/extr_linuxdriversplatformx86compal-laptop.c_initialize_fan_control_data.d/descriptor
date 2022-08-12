@@ -1,0 +1,2 @@
+struct compal_data | pwm_enable int | curr_pwm int 
+function initialize_fan_control_data void | data struct compal_data *

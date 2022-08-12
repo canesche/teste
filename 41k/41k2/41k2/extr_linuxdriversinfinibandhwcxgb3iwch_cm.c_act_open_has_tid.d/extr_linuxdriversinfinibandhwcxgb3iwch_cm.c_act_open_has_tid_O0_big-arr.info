@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinfinibandhwcxgb3iwch_cm.c_act_open_has_tid.d/extr_linuxdriversinfinibandhwcxgb3iwch_cm.c_act_open_has_tid_O0::act_open_has_tid(63)"
+  }
+]

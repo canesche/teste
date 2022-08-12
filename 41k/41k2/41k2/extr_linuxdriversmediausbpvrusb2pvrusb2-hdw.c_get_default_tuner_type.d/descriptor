@@ -1,0 +1,2 @@
+struct pvr2_hdw | unit_number int | tuner_type int | tuner_updated int 
+function get_default_tuner_type int | hdw struct pvr2_hdw *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | advertising int | active_duplex void * | active_speed void * | autoneg int | duplex void * | speed void * 
+struct tg3 | phy_flags int | old_link int | link_config struct TYPE_2__ 
+function tg3_phy_init_link_config void | tp struct tg3 *

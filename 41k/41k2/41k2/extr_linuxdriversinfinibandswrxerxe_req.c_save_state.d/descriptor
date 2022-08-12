@@ -1,0 +1,4 @@
+struct rxe_send_wqe | last_psn int | first_psn int | state int 
+struct TYPE_2__ | psn int 
+struct rxe_qp | req struct TYPE_2__ 
+function save_state void | wqe struct rxe_send_wqe * | qp struct rxe_qp * | rollback_wqe struct rxe_send_wqe * | rollback_psn int *

@@ -1,0 +1,2 @@
+struct atom_memory_info | mem_type long 
+function cypress_get_mclk_split_point int | memory_info struct atom_memory_info *

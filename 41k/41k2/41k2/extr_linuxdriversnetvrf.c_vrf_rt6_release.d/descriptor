@@ -1,0 +1,3 @@
+struct net_vrf | dummy int 
+struct net_device | dummy int 
+function vrf_rt6_release void | dev struct net_device * | vrf struct net_vrf *

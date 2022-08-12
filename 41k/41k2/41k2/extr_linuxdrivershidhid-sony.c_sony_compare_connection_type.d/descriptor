@@ -1,0 +1,2 @@
+struct sony_sc | quirks int 
+function sony_compare_connection_type int | sc0 struct sony_sc * | sc1 struct sony_sc *

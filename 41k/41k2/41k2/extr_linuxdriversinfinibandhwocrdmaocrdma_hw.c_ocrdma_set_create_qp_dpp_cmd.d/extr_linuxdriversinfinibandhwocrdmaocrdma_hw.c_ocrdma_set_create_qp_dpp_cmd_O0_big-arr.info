@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinfinibandhwocrdmaocrdma_hw.c_ocrdma_set_create_qp_dpp_cmd.d/extr_linuxdriversinfinibandhwocrdmaocrdma_hw.c_ocrdma_set_create_qp_dpp_cmd_O0::ocrdma_set_create_qp_dpp_cmd(71)"
+  }
+]

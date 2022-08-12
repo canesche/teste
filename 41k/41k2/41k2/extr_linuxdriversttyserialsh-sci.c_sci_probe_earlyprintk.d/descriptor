@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function sci_probe_earlyprintk int | pdev struct platform_device *

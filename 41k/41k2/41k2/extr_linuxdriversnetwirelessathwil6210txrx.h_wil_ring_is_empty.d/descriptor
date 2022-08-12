@@ -1,0 +1,2 @@
+struct wil_ring | swhead long | swtail long 
+function wil_ring_is_empty int | ring struct wil_ring *

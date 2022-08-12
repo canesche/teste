@@ -1,0 +1,2 @@
+struct iwl_mvm | dummy int 
+function iwl_mvm_read_d3_sram void | mvm struct iwl_mvm *

@@ -1,0 +1,3 @@
+struct sci_user_parameters | max_concurr_spinup int | no_outbound_task_timeout int | ssp_max_occupancy_timeout int | stp_max_occupancy_timeout int | ssp_inactivity_timeout int | stp_inactivity_timeout int | phys struct sci_phy_user_params * 
+struct sci_phy_user_params | align_insertion_frequency int | in_connection_align_insertion_frequency int | notify_enable_spin_up_insertion_frequency int | max_speed_generation int 
+function isci_user_parameters_get void | u struct sci_user_parameters *

@@ -1,0 +1,4 @@
+struct vpfe_subdev_info | num_inputs int 
+struct vpfe_device | cfg struct vpfe_config * 
+struct vpfe_config | num_subdevs int | sub_devs struct vpfe_subdev_info * 
+function vpfe_get_subdev_input_index int | vpfe_dev struct vpfe_device * | subdev_index int * | subdev_input_index int * | app_input_index int

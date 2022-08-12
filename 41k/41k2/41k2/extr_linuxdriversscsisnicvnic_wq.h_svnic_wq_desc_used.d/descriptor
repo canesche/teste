@@ -1,0 +1,3 @@
+struct TYPE_2__ | desc_count unsigned int | desc_avail unsigned int 
+struct vnic_wq | ring struct TYPE_2__ 
+function svnic_wq_desc_used unsigned int | wq struct vnic_wq *

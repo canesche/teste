@@ -1,0 +1,4 @@
+struct sas_port | dummy int 
+struct mptsas_phyinfo | port_details struct TYPE_2__ * 
+struct TYPE_2__ | port struct sas_port * 
+function mptsas_get_port struct sas_port * | phy_info struct mptsas_phyinfo *

@@ -1,0 +1,2 @@
+struct bq2415x_device | reported_mode int 
+function bq2415x_update_reported_mode int | bq struct bq2415x_device * | mA int

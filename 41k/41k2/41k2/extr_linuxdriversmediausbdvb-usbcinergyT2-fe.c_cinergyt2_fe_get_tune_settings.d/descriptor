@@ -1,0 +1,3 @@
+struct dvb_frontend_tune_settings | min_delay_ms int 
+struct dvb_frontend | dummy int 
+function cinergyt2_fe_get_tune_settings int | fe struct dvb_frontend * | tune struct dvb_frontend_tune_settings *

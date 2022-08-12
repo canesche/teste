@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct ifreq | dummy int 
+function meth_ioctl int | dev struct net_device * | rq struct ifreq * | cmd int

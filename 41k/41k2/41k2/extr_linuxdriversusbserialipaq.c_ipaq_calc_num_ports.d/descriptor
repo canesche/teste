@@ -1,0 +1,3 @@
+struct usb_serial_endpoints | num_bulk_in int | num_bulk_out int | bulk_out int * | bulk_in int * 
+struct usb_serial | dummy int 
+function ipaq_calc_num_ports int | serial struct usb_serial * | epds struct usb_serial_endpoints *

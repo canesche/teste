@@ -1,0 +1,3 @@
+struct spi_device | controller_data struct butterfly * 
+struct butterfly | dummy int 
+function spidev_to_pp struct butterfly * | spi struct spi_device *

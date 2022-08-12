@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function rtl8812ae_phy_iq_calibrate void | hw struct ieee80211_hw * | b_recovery int

@@ -1,0 +1,3 @@
+struct ieee80211_channel | hw_value int 
+struct ath5k_hw | ah_bwmode int | ah_short_slot int | ah_current_channel struct ieee80211_channel * 
+function ath5k_hw_get_default_slottime unsigned int | ah struct ath5k_hw *

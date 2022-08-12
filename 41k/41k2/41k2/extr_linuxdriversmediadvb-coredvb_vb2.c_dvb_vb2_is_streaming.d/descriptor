@@ -1,0 +1,2 @@
+struct dvb_vb2_ctx | state int 
+function dvb_vb2_is_streaming int | ctx struct dvb_vb2_ctx *

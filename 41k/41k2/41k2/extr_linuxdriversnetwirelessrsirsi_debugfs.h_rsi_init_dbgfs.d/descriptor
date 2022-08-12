@@ -1,0 +1,2 @@
+struct rsi_hw | dummy int 
+function rsi_init_dbgfs int | adapter struct rsi_hw *

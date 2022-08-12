@@ -1,0 +1,2 @@
+struct ssb_bus | bustype long | sdio_sbaddr int 
+function ssb_sdio_init int | bus struct ssb_bus *

@@ -1,0 +1,2 @@
+struct cxl_afu | dummy int 
+function guest_afu_cr_write16 int | afu struct cxl_afu * | cr int | off int | in int

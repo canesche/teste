@@ -1,0 +1,2 @@
+struct rt2x00_dev | dummy int 
+function rt2800soc_hwcrypt_disabled int | rt2x00dev struct rt2x00_dev *

@@ -1,0 +1,2 @@
+struct rsi_hw | dummy int 
+function rsi_remove_dbgfs void | adapter struct rsi_hw *

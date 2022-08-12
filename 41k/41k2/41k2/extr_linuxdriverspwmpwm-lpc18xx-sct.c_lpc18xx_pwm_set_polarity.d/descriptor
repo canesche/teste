@@ -1,0 +1,3 @@
+struct pwm_device | dummy int 
+struct pwm_chip | dummy int 
+function lpc18xx_pwm_set_polarity int | chip struct pwm_chip * | pwm struct pwm_device * | polarity enum pwm_polarity

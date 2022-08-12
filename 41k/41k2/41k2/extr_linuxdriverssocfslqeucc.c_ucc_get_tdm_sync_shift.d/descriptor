@@ -1,0 +1,1 @@
+function ucc_get_tdm_sync_shift int | mode enum comm_dir | tdm_num int

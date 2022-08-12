@@ -1,0 +1,2 @@
+struct at91_udc | dummy int 
+function create_debug_file void | udc struct at91_udc *

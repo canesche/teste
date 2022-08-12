@@ -1,0 +1,2 @@
+struct acpi_resource | type long 
+function count_registers_cb int | ares struct acpi_resource * | context void *

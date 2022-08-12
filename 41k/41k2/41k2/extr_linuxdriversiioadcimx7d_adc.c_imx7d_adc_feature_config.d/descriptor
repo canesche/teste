@@ -1,0 +1,3 @@
+struct TYPE_2__ | core_time_unit int | average_en int | avg_num int | clk_pre_div int 
+struct imx7d_adc | adc_feature struct TYPE_2__ 
+function imx7d_adc_feature_config void | info struct imx7d_adc *

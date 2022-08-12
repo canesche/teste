@@ -1,0 +1,2 @@
+struct isci_host | dummy int 
+function sci_controller_get_suggested_start_timeout long | ihost struct isci_host *

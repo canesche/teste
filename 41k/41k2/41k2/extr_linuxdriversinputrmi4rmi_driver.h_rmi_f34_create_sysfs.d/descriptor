@@ -1,0 +1,2 @@
+struct rmi_device | dummy int 
+function rmi_f34_create_sysfs int | rmi_dev struct rmi_device *

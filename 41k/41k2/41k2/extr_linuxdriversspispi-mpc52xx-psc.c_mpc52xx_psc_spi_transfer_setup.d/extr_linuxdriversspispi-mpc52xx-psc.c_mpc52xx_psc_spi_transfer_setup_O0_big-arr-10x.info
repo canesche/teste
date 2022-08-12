@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversspispi-mpc52xx-psc.c_mpc52xx_psc_spi_transfer_setup.d/extr_linuxdriversspispi-mpc52xx-psc.c_mpc52xx_psc_spi_transfer_setup_O0::mpc52xx_psc_spi_transfer_setup(64)"
+  }
+]

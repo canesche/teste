@@ -1,0 +1,2 @@
+struct stripe_head | qd_idx int | disks int | ddf_layout long 
+function raid6_d0 int | sh struct stripe_head *

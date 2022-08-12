@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingvc04_servicesbcm2835-audiobcm2835-ctl.c_snd_bcm2835_ctl_info.d/extr_linuxdriversstagingvc04_servicesbcm2835-audiobcm2835-ctl.c_snd_bcm2835_ctl_info_O0::snd_bcm2835_ctl_info(75)"
+  }
+]

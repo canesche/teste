@@ -1,0 +1,2 @@
+struct ef4_channel | dummy int 
+function ef4_filter_rfs_expire void | channel struct ef4_channel *

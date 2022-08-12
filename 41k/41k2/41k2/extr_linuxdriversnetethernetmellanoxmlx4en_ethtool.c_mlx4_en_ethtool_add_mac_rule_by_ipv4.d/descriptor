@@ -1,0 +1,5 @@
+struct mlx4_spec_list | dummy int 
+struct mlx4_en_priv | dummy int 
+struct list_head | dummy int 
+struct ethtool_rxnfc | dummy int 
+function mlx4_en_ethtool_add_mac_rule_by_ipv4 int | priv struct mlx4_en_priv * | cmd struct ethtool_rxnfc * | rule_list_h struct list_head * | spec_l2 struct mlx4_spec_list * | ipv4_dst int

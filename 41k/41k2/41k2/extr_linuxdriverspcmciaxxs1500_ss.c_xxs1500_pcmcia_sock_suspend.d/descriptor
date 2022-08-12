@@ -1,0 +1,2 @@
+struct pcmcia_socket | dummy int 
+function xxs1500_pcmcia_sock_suspend int | skt struct pcmcia_socket *

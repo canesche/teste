@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsiipr.c_strip_and_pad_whitespace.d/extr_linuxdriversscsiipr.c_strip_and_pad_whitespace_O0::strip_and_pad_whitespace(60)"
+  }
+]

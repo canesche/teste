@@ -1,0 +1,2 @@
+struct cxgbi_sock | state long 
+function cxgbi_sock_is_established int | csk struct cxgbi_sock *

@@ -1,0 +1,3 @@
+struct wl1251 | tx_frames struct sk_buff ** 
+struct sk_buff | dummy int 
+function wl1251_tx_id int | wl struct wl1251 * | skb struct sk_buff *

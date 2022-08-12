@@ -1,0 +1,2 @@
+struct sk_buff | priority int 
+function wme_downgrade_ac int | skb struct sk_buff *

@@ -1,0 +1,3 @@
+struct picolcd_data | dummy int 
+struct hid_report | dummy int 
+function picolcd_init_devfs void | data struct picolcd_data * | eeprom_r struct hid_report * | eeprom_w struct hid_report * | flash_r struct hid_report * | flash_w struct hid_report * | reset struct hid_report *

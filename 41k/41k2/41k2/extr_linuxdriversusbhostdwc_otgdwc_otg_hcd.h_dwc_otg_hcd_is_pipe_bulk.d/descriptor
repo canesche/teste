@@ -1,0 +1,2 @@
+struct dwc_otg_hcd_pipe_info | pipe_type long 
+function dwc_otg_hcd_is_pipe_bulk int | pipe struct dwc_otg_hcd_pipe_info *

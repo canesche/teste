@@ -1,0 +1,2 @@
+struct ll_disk | dummy int 
+function disk_ll_commit int | ll struct ll_disk *

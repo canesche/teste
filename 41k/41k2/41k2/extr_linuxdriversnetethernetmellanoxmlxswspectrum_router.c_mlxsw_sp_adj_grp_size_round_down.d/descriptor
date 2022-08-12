@@ -1,0 +1,1 @@
+function mlxsw_sp_adj_grp_size_round_down void | p_adj_grp_size int * | alloc_size unsigned int

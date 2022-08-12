@@ -1,0 +1,2 @@
+struct qed_dev | dummy int 
+function qed_iov_wq_stop void | cdev struct qed_dev * | schedule_first int

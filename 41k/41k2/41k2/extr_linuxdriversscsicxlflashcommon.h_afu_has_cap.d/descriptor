@@ -1,0 +1,2 @@
+struct afu | interface_version int 
+function afu_has_cap int | afu struct afu * | cap int

@@ -1,0 +1,2 @@
+struct gspca_dev | dummy int 
+function gspca_input_connect int | dev struct gspca_dev *

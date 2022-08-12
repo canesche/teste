@@ -1,0 +1,4 @@
+struct TYPE_3__ | start_level long | end_level long 
+struct TYPE_4__ | ramp struct TYPE_3__ 
+struct ff_effect | u struct TYPE_4__ 
+function pidff_needs_set_ramp int | effect struct ff_effect * | old struct ff_effect *

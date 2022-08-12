@@ -1,0 +1,2 @@
+struct mts_desc | dummy int 
+function mts_debug_dump void | dummy struct mts_desc *

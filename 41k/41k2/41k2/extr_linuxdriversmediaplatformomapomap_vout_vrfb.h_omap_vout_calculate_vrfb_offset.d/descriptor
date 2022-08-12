@@ -1,0 +1,2 @@
+struct omap_vout_device | dummy int 
+function omap_vout_calculate_vrfb_offset void | vout struct omap_vout_device *

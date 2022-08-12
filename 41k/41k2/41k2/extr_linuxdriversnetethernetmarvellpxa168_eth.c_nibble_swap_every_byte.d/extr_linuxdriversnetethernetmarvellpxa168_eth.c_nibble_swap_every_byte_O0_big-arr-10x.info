@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetmarvellpxa168_eth.c_nibble_swap_every_byte.d/extr_linuxdriversnetethernetmarvellpxa168_eth.c_nibble_swap_every_byte_O0::nibble_swap_every_byte(61)"
+  }
+]

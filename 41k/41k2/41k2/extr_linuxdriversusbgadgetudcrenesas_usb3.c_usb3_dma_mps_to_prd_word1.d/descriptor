@@ -1,0 +1,3 @@
+struct TYPE_2__ | maxpacket int 
+struct renesas_usb3_ep | ep struct TYPE_2__ 
+function usb3_dma_mps_to_prd_word1 int | usb3_ep struct renesas_usb3_ep *

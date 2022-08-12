@@ -1,0 +1,2 @@
+struct usb_phy | dummy int 
+function ab8500_usb_set_suspend int | x struct usb_phy * | suspend int

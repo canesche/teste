@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingrtl8188euhalrtl8188e_dm.c_rtw_hal_antdiv_rssi_compared.d/extr_linuxdriversstagingrtl8188euhalrtl8188e_dm.c_rtw_hal_antdiv_rssi_compared_O0::rtw_hal_antdiv_rssi_compared(66)"
+  }
+]

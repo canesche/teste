@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 3072,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediacommonb2c2flexcop-eeprom.c_calc_lrc.d/extr_linuxdriversmediacommonb2c2flexcop-eeprom.c_calc_lrc_O0::calc_lrc(61)"
+  }
+]

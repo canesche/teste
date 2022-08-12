@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 23,
+    phantoms: 22,
+    exit: true,
+    halt: false,
+    edges: 46,
+    static: {
+      instructions: 250,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 250,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstaginggreybussdio.c__gb_sdio_set_host_caps.d/extr_linuxdriversstaginggreybussdio.c__gb_sdio_set_host_caps_O0::_gb_sdio_set_host_caps(107)"
+  }
+]

@@ -1,0 +1,2 @@
+struct vmxnet3_cmd_ring | next2comp long | next2fill long | size int 
+function vmxnet3_cmd_ring_desc_avail int | ring struct vmxnet3_cmd_ring *

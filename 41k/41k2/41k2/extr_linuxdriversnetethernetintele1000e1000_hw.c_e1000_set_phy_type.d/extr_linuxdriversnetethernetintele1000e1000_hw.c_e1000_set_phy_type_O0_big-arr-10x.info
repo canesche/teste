@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetintele1000e1000_hw.c_e1000_set_phy_type.d/extr_linuxdriversnetethernetintele1000e1000_hw.c_e1000_set_phy_type_O0::e1000_set_phy_type(82)"
+  }
+]

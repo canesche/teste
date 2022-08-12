@@ -1,0 +1,3 @@
+struct TYPE_2__ | numtc int | ena_tc int 
+struct ice_vsi | tc_cfg struct TYPE_2__ 
+function ice_vsi_set_tc_cfg void | vsi struct ice_vsi *

@@ -1,0 +1,2 @@
+struct brcmnand_controller | reg_spacing int | cs_offsets long * | cs0_offsets long * | reg_offsets long * 
+function brcmnand_cs_offset long | ctrl struct brcmnand_controller * | cs int | reg enum brcmnand_cs_reg

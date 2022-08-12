@@ -1,0 +1,2 @@
+struct mlxsw_sp | dummy int 
+function mlxsw_sp2_kvdl_alloc_size_query int | mlxsw_sp struct mlxsw_sp * | priv void * | type enum mlxsw_sp_kvdl_entry_type | entry_count unsigned int | p_alloc_count unsigned int *

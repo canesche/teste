@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function _rtl92cu_sw_led_control void | hw struct ieee80211_hw * | ledaction enum led_ctl_mode

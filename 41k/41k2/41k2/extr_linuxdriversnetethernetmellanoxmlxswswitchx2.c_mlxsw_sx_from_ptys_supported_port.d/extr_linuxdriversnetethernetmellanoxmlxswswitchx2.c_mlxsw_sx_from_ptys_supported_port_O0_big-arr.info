@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetmellanoxmlxswswitchx2.c_mlxsw_sx_from_ptys_supported_port.d/extr_linuxdriversnetethernetmellanoxmlxswswitchx2.c_mlxsw_sx_from_ptys_supported_port_O0::mlxsw_sx_from_ptys_supported_port(74)"
+  }
+]

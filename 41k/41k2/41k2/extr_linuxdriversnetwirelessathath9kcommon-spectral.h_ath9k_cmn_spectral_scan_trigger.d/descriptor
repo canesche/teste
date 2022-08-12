@@ -1,0 +1,3 @@
+struct ath_spec_scan_priv | dummy int 
+struct ath_common | dummy int 
+function ath9k_cmn_spectral_scan_trigger void | common struct ath_common * | spec_priv struct ath_spec_scan_priv *

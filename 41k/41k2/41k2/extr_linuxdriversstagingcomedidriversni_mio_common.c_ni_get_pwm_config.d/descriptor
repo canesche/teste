@@ -1,0 +1,3 @@
+struct ni_private | pwm_up_count unsigned int | clock_ns unsigned int | pwm_down_count unsigned int 
+struct comedi_device | private struct ni_private * 
+function ni_get_pwm_config int | dev struct comedi_device * | data unsigned int *

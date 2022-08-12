@@ -1,0 +1,2 @@
+struct mtd_info | type int 
+function mtd_mmap_capabilities unsigned int | mtd struct mtd_info *

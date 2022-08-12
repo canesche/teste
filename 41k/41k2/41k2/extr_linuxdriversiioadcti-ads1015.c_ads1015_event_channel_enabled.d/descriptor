@@ -1,0 +1,2 @@
+struct ads1015_data | event_channel long 
+function ads1015_event_channel_enabled int | data struct ads1015_data *

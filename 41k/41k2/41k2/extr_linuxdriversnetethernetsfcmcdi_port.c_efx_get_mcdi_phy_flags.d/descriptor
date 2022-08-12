@@ -1,0 +1,3 @@
+struct efx_nic | phy_mode int | phy_data struct efx_mcdi_phy_data * 
+struct efx_mcdi_phy_data | flags int 
+function efx_get_mcdi_phy_flags int | efx struct efx_nic *

@@ -1,0 +1,2 @@
+struct dst_state | modulation int 
+function dst_get_modulation enum fe_modulation | state struct dst_state *

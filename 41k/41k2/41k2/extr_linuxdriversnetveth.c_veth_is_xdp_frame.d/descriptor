@@ -1,0 +1,1 @@
+function veth_is_xdp_frame int | ptr void *

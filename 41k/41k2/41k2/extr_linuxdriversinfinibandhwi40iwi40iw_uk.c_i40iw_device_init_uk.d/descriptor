@@ -1,0 +1,2 @@
+struct i40iw_dev_uk | ops_uk int 
+function i40iw_device_init_uk void | dev struct i40iw_dev_uk *

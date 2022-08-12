@@ -1,0 +1,2 @@
+struct mlx5e_priv | drop_rq_q_counter long | q_counter long 
+function mlx5e_grp_q_get_num_stats int | priv struct mlx5e_priv *

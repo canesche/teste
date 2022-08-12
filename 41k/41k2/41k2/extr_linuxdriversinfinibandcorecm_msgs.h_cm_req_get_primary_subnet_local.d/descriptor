@@ -1,0 +1,2 @@
+struct cm_req_msg | primary_offset94 int 
+function cm_req_get_primary_subnet_local int | req_msg struct cm_req_msg *

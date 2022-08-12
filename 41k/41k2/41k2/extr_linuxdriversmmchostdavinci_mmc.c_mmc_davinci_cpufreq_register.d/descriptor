@@ -1,0 +1,2 @@
+struct mmc_davinci_host | dummy int 
+function mmc_davinci_cpufreq_register int | host struct mmc_davinci_host *

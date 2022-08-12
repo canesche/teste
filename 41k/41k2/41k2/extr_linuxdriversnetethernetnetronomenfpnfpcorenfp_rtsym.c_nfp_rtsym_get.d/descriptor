@@ -1,0 +1,3 @@
+struct nfp_rtsym_table | num int | symtab const struct nfp_rtsym * 
+struct nfp_rtsym | dummy int 
+function nfp_rtsym_get const struct nfp_rtsym * | rtbl struct nfp_rtsym_table * | idx int

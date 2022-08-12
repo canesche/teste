@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversttyipwirelesshardware.c_end_write_timing.d/extr_linuxdriversttyipwirelesshardware.c_end_write_timing_O0::end_write_timing(59)"
+  }
+]

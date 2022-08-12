@@ -1,0 +1,2 @@
+struct nvme_ctrl | dummy int 
+function nvme_mpath_uninit void | ctrl struct nvme_ctrl *

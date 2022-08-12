@@ -1,0 +1,3 @@
+struct phy_dm_struct | rssi_min int 
+struct dyn_pwr_saving | pre_rf_state long | cur_rf_state void * 
+function phydm_update_rf_state void | dm struct phy_dm_struct * | dm_ps_table struct dyn_pwr_saving * | _rssi_up_bound int | _rssi_low_bound int | _is_force_in_normal int

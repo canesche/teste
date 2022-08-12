@@ -1,0 +1,4 @@
+struct ib_cm_req_param | qp_type long | private_data_len long | primary_path struct TYPE_4__ * | alternate_path struct TYPE_3__ * | private_data long | peer_to_peer long 
+struct TYPE_4__ | pkey long | mtu long 
+struct TYPE_3__ | pkey long | mtu long 
+function cm_validate_req_param int | param struct ib_cm_req_param *

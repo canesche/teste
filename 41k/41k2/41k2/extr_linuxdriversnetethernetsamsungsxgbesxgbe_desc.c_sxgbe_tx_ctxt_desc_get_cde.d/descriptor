@@ -1,0 +1,2 @@
+struct sxgbe_tx_ctxt_desc | ctxt_desc_err int 
+function sxgbe_tx_ctxt_desc_get_cde int | p struct sxgbe_tx_ctxt_desc *

@@ -1,0 +1,1 @@
+function i2c_dw_scl_lcnt int | ic_clk int | tLOW int | tf int | offset int

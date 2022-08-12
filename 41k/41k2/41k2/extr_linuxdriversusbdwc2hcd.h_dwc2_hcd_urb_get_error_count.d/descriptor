@@ -1,0 +1,2 @@
+struct dwc2_hcd_urb | error_count int 
+function dwc2_hcd_urb_get_error_count int | dwc2_urb struct dwc2_hcd_urb *

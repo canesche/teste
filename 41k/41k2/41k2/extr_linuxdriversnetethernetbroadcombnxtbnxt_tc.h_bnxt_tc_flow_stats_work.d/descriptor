@@ -1,0 +1,2 @@
+struct bnxt | dummy int 
+function bnxt_tc_flow_stats_work void | bp struct bnxt *

@@ -1,0 +1,1 @@
+value(header_length) == 255, length(mic_header1) == 65025, length(mpdu) == 65025

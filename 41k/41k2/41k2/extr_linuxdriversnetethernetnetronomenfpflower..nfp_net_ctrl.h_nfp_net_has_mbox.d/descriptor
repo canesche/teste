@@ -1,0 +1,2 @@
+struct nfp_net_tlv_caps | mbox_len long 
+function nfp_net_has_mbox int | caps struct nfp_net_tlv_caps *

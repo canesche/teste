@@ -1,0 +1,3 @@
+struct ath_hw_radar_conf | fir_power int | pulse_height int | pulse_rssi int | pulse_inband int | pulse_maxlen int | pulse_inband_step int | radar_inband int | radar_rssi long 
+struct ath_hw | radar_conf struct ath_hw_radar_conf 
+function ar9003_hw_set_radar_conf void | ah struct ath_hw *

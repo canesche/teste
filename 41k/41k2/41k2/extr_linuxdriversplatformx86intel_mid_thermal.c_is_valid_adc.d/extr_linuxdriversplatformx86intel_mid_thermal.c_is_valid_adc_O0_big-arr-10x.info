@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversplatformx86intel_mid_thermal.c_is_valid_adc.d/extr_linuxdriversplatformx86intel_mid_thermal.c_is_valid_adc_O0::is_valid_adc(61)"
+  }
+]

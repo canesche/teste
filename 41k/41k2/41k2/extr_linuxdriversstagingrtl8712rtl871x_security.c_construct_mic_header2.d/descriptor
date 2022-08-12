@@ -1,0 +1,1 @@
+function construct_mic_header2 void | mic_header2 int * | mpdu int * | a4_exists int | qc_exists int

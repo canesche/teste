@@ -1,0 +1,3 @@
+struct gb_sdio_host | card_present int | mmc struct TYPE_2__ * 
+struct TYPE_2__ | caps int | caps2 int 
+function _gb_sdio_set_host_caps void | host struct gb_sdio_host * | r int

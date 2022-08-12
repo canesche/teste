@@ -1,0 +1,2 @@
+struct ptp_clock_info | dummy int 
+function mv88e6352_ptp_verify int | ptp struct ptp_clock_info * | pin unsigned int | func enum ptp_pin_function | chan unsigned int

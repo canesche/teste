@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversspispi-mt65xx.c_mtk_spi_can_dma.d/extr_linuxdriversspispi-mt65xx.c_mtk_spi_can_dma_O0::mtk_spi_can_dma(66)"
+  }
+]

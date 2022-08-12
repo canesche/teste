@@ -1,0 +1,2 @@
+struct mmc_host | dummy int 
+function omap_hsmmc_debugfs void | mmc struct mmc_host *

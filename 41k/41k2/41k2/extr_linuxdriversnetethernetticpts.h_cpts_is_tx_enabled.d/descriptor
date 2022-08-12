@@ -1,0 +1,2 @@
+struct cpts | dummy int 
+function cpts_is_tx_enabled int | cpts struct cpts *

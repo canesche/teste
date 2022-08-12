@@ -1,0 +1,2 @@
+struct dwc2_hsotg | dummy int 
+function dwc2_gadget_init_lpm void | hsotg struct dwc2_hsotg *

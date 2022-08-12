@@ -1,0 +1,2 @@
+struct dwc2_host_chan | ep_type long 
+function dbg_hc int | hc struct dwc2_host_chan *

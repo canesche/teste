@@ -1,0 +1,2 @@
+struct au0828_dev | dummy int 
+function au0828_usb_v4l2_media_release void | dev struct au0828_dev *

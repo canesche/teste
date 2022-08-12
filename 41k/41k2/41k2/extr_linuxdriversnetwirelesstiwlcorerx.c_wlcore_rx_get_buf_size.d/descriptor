@@ -1,0 +1,2 @@
+struct wl1271 | quirks int 
+function wlcore_rx_get_buf_size int | wl struct wl1271 * | rx_pkt_desc int

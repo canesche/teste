@@ -1,0 +1,2 @@
+struct rsi_hw | dummy int 
+function rsi_usb_event_timeout int | adapter struct rsi_hw *

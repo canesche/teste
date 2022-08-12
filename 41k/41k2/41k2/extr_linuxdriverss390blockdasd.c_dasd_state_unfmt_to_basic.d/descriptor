@@ -1,0 +1,2 @@
+struct dasd_device | state int 
+function dasd_state_unfmt_to_basic int | device struct dasd_device *

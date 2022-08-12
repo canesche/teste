@@ -1,0 +1,2 @@
+struct sym_hcb | rv_ctest4 int | rv_dmode int | rv_ctest5 int 
+function sym_init_burst void | np struct sym_hcb * | bc int

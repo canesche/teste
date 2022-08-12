@@ -1,0 +1,3 @@
+struct shrinker | dummy int 
+struct shrink_control | dummy int 
+function ashmem_shrink_count unsigned long | shrink struct shrinker * | sc struct shrink_control *

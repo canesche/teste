@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriverssocversatilesoc-realview.c_realview_arch_str.d/extr_linuxdriverssocversatilesoc-realview.c_realview_arch_str_O0::realview_arch_str(61)"
+  }
+]

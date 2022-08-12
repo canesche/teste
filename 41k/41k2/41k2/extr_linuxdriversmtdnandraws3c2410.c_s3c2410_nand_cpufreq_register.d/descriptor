@@ -1,0 +1,2 @@
+struct s3c2410_nand_info | dummy int 
+function s3c2410_nand_cpufreq_register int | info struct s3c2410_nand_info *

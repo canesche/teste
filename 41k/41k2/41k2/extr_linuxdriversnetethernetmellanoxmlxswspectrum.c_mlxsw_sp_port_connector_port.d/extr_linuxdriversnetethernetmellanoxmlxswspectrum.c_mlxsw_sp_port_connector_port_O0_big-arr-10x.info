@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetmellanoxmlxswspectrum.c_mlxsw_sp_port_connector_port.d/extr_linuxdriversnetethernetmellanoxmlxswspectrum.c_mlxsw_sp_port_connector_port_O0::mlxsw_sp_port_connector_port(77)"
+  }
+]

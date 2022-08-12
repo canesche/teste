@@ -1,0 +1,3 @@
+struct qib_ibport | dummy int 
+struct ib_cc_mad | dummy int 
+function check_cc_key int | ibp struct qib_ibport * | ccp struct ib_cc_mad * | mad_flags int

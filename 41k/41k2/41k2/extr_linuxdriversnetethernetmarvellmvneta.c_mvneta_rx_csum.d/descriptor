@@ -1,0 +1,4 @@
+struct sk_buff | ip_summed int | csum long 
+struct mvneta_port | dev struct TYPE_2__ * 
+struct TYPE_2__ | features int 
+function mvneta_rx_csum void | pp struct mvneta_port * | status int | skb struct sk_buff *

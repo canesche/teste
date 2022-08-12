@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinfinibandhwi40iwi40iw_puda.c_i40iw_ieq_check_first_buf.d/extr_linuxdriversinfinibandhwi40iwi40iw_puda.c_i40iw_ieq_check_first_buf_O0::i40iw_ieq_check_first_buf(63)"
+  }
+]

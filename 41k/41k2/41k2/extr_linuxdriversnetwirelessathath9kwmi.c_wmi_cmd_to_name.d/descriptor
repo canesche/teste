@@ -1,0 +1,1 @@
+function wmi_cmd_to_name const char * | wmi_cmd enum wmi_cmd_id

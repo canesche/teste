@@ -1,0 +1,2 @@
+struct ssb_extif | dummy int 
+function ssb_extif_init void | extif struct ssb_extif *

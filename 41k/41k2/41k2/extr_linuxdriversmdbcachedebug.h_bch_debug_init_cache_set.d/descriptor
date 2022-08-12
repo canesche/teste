@@ -1,0 +1,2 @@
+struct cache_set | dummy int 
+function bch_debug_init_cache_set void | c struct cache_set *

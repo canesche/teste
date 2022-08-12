@@ -1,0 +1,1 @@
+function ucc_get_tdm_sync_source int | tdm_num int | clock enum qe_clock | mode enum comm_dir

@@ -1,0 +1,1 @@
+function ib_prio_to_core_prio int | priority unsigned int | dont_trap int

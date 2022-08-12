@@ -1,0 +1,2 @@
+struct channel_data | rxsize int | rxdata char * 
+function chrdev_setup_rx char * | chan struct channel_data * | size int

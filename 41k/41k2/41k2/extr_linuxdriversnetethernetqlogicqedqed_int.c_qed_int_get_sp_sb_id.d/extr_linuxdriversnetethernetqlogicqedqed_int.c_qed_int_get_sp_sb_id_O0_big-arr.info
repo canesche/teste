@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetqlogicqedqed_int.c_qed_int_get_sp_sb_id.d/extr_linuxdriversnetethernetqlogicqedqed_int.c_qed_int_get_sp_sb_id_O0::qed_int_get_sp_sb_id(66)"
+  }
+]

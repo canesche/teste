@@ -1,0 +1,3 @@
+struct ipu_vdi | dummy int 
+struct ipu_soc | vdi_priv struct ipu_vdi * 
+function ipu_vdi_get struct ipu_vdi * | ipu struct ipu_soc *

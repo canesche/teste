@@ -1,0 +1,3 @@
+struct usb_device | dummy int 
+struct pvr2_hdw | usb_dev struct usb_device * 
+function pvr2_hdw_get_dev struct usb_device * | hdw struct pvr2_hdw *

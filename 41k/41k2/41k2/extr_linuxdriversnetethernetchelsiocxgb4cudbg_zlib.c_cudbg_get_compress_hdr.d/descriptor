@@ -1,0 +1,3 @@
+struct cudbg_compress_hdr | dummy int 
+struct cudbg_buffer | offset long | size long | data char * 
+function cudbg_get_compress_hdr int | pdbg_buff struct cudbg_buffer * | pin_buff struct cudbg_buffer *

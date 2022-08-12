@@ -1,0 +1,2 @@
+struct tmc_drvdata | etr_caps int 
+function tmc_etr_set_cap void | drvdata struct tmc_drvdata * | cap int

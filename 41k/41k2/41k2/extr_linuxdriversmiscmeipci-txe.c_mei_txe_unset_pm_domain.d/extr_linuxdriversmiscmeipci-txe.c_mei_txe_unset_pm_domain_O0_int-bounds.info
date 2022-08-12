@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmiscmeipci-txe.c_mei_txe_unset_pm_domain.d/extr_linuxdriversmiscmeipci-txe.c_mei_txe_unset_pm_domain_O0::mei_txe_unset_pm_domain(60)"
+  }
+]

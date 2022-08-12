@@ -1,0 +1,2 @@
+struct bnx2x | dummy int 
+function bnx2x_vf_headroom int | bp struct bnx2x *

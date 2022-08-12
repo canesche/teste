@@ -1,0 +1,3 @@
+struct netdevsim | dummy int 
+struct net | dummy int 
+function nsim_to_net struct net * | ns struct netdevsim *

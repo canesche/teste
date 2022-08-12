@@ -1,0 +1,2 @@
+struct in_addr | dummy int 
+function sierra_net_is_valid_addrlen int | len int

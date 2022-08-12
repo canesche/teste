@@ -1,0 +1,3 @@
+struct TYPE_2__ | input int | output int | sync int | sync_after_ai int | sync_out_after_pci int 
+struct qdio_irq | siga_flag struct TYPE_2__ 
+function process_ac_flags void | irq_ptr struct qdio_irq * | qdioac unsigned char

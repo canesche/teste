@@ -1,0 +1,2 @@
+struct v4l2_rect | left long | top long | width long | height long 
+function is_rectangle_enclosed int | a struct v4l2_rect * | b struct v4l2_rect *

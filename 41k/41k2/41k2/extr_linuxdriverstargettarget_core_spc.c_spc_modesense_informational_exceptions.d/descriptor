@@ -1,0 +1,2 @@
+struct se_cmd | dummy int 
+function spc_modesense_informational_exceptions int | cmd struct se_cmd * | pc int | p unsigned char *

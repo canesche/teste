@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 7,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetfreescalefec_main.c_fec_enet_collect_events.d/extr_linuxdriversnetethernetfreescalefec_main.c_fec_enet_collect_events_O0::fec_enet_collect_events(69)"
+  }
+]

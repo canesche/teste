@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediausbgo7007go7007-v4l2.c_valid_pixelformat.d/extr_linuxdriversmediausbgo7007go7007-v4l2.c_valid_pixelformat_O0::valid_pixelformat(65)"
+  }
+]

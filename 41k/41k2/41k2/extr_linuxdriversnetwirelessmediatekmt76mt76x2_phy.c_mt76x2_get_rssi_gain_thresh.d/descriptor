@@ -1,0 +1,4 @@
+struct TYPE_3__ | width int 
+struct TYPE_4__ | chandef struct TYPE_3__ 
+struct mt76x2_dev | mt76 struct TYPE_4__ 
+function mt76x2_get_rssi_gain_thresh int | dev struct mt76x2_dev *

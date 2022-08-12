@@ -1,0 +1,2 @@
+struct em28xx | dummy int 
+function em28xx_enable_analog_tuner int | dev struct em28xx *

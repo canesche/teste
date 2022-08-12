@@ -1,0 +1,3 @@
+struct rt2x00_dev | dummy int 
+struct queue_entry | dummy int 
+function rt2x00debug_dump_frame void | rt2x00dev struct rt2x00_dev * | type enum rt2x00_dump_type | entry struct queue_entry *

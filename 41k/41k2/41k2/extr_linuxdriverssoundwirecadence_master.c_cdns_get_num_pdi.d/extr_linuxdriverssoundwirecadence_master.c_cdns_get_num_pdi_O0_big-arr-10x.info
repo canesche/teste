@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 368,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriverssoundwirecadence_master.c_cdns_get_num_pdi.d/extr_linuxdriverssoundwirecadence_master.c_cdns_get_num_pdi_O0::cdns_get_num_pdi(65)"
+  }
+]

@@ -1,0 +1,2 @@
+struct mceusb_dev | dummy int 
+function mceusb_dev_printdata void | ir struct mceusb_dev * | buf int * | buf_len int | offset int | len int | out int

@@ -1,0 +1,2 @@
+struct xlgmac_pdata | sysclk_rate unsigned long 
+function xlgmac_usec_to_riwt unsigned int | pdata struct xlgmac_pdata * | usec unsigned int

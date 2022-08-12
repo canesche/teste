@@ -1,0 +1,2 @@
+struct bna_enet | mtu int 
+function bna_enet_mtu_get int | enet struct bna_enet *

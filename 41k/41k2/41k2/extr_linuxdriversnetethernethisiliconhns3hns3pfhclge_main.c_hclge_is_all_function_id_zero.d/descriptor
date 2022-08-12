@@ -1,0 +1,2 @@
+struct hclge_desc | data long * 
+function hclge_is_all_function_id_zero int | desc struct hclge_desc *

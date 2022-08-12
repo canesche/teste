@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function vmw_disable_vblank void | dev struct drm_device * | pipe unsigned int

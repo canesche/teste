@@ -1,0 +1,2 @@
+struct context_entry | lo unsigned long 
+function context_set_address_root void | context struct context_entry * | value unsigned long

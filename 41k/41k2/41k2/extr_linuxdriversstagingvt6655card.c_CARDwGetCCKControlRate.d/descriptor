@@ -1,0 +1,2 @@
+struct vnt_private | basic_rates unsigned int 
+function CARDwGetCCKControlRate unsigned short | priv struct vnt_private * | wRateIdx unsigned short

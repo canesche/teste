@@ -1,0 +1,3 @@
+struct TYPE_2__ | tx_buff_size long | tx_buff_pos long 
+struct atmel_private | tx_buff_tail long | tx_desc_free int | tx_free_mem long | host_info struct TYPE_2__ 
+function find_tx_buff long | priv struct atmel_private * | len long

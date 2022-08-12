@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetintelixgbeixgbe_x550.c_ixgbe_get_media_type_X550em.d/extr_linuxdriversnetethernetintelixgbeixgbe_x550.c_ixgbe_get_media_type_X550em_O0::ixgbe_get_media_type_X550em(84)"
+  }
+]

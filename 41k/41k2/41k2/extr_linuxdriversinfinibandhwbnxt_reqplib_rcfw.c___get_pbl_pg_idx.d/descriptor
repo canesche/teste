@@ -1,0 +1,2 @@
+struct bnxt_qplib_pbl | pg_size long 
+function __get_pbl_pg_idx int | pbl struct bnxt_qplib_pbl *

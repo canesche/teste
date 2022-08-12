@@ -1,0 +1,2 @@
+struct qtnf_bus | dummy int 
+function qtnf_debugfs_remove void | bus struct qtnf_bus *

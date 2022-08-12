@@ -1,0 +1,2 @@
+struct mxs_auart_port | devtype long 
+function is_asm9260_auart int | s struct mxs_auart_port *

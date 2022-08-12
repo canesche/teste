@@ -1,0 +1,2 @@
+struct ttm_buffer_object | destroy int * 
+function vbox_ttm_bo_is_vbox_bo int | bo struct ttm_buffer_object *

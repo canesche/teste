@@ -1,0 +1,2 @@
+struct device | dummy int 
+function rs5c_sysfs_register int | dev struct device *

@@ -1,0 +1,5 @@
+struct TYPE_6__ | l int | ioc int | sp int | bytes unsigned int | bs void * | sts long 
+struct TYPE_7__ | b struct TYPE_6__ 
+struct TYPE_8__ | buf unsigned int | status struct TYPE_7__ 
+struct TYPE_9__ | type long | maxpacket int | xfer_len unsigned int | maxxfer unsigned int | total_len unsigned int | desc_cnt unsigned int | dma_addr unsigned int | sent_zlp long | is_in long | desc_addr struct TYPE_8__ * 
+function init_dma_desc_chain void | core_if int * | ep struct TYPE_9__ *

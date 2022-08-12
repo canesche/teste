@@ -1,0 +1,2 @@
+struct ica_rsa_modexpo_crt | inputdatalength int 
+function get_rsa_crt_fc unsigned int | crt struct ica_rsa_modexpo_crt * | fcode int *

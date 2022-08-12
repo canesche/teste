@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function usbmisc_imx_remove int | pdev struct platform_device *

@@ -1,0 +1,2 @@
+struct drm_mm_node | size void * | start void * 
+function set_node struct drm_mm_node * | node struct drm_mm_node * | start void * | size void *

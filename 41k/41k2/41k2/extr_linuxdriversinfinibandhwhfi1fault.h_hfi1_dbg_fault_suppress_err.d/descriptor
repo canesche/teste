@@ -1,0 +1,2 @@
+struct hfi1_ibdev | dummy int 
+function hfi1_dbg_fault_suppress_err int | ibd struct hfi1_ibdev *

@@ -1,0 +1,2 @@
+struct vpdma_dtd | type_ctl_stride int 
+function dtd_get_notify int | dtd struct vpdma_dtd *

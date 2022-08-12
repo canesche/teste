@@ -1,0 +1,2 @@
+struct dvb_frontend | dummy int 
+function cxd2880_read_ber int | fe struct dvb_frontend * | ber long *

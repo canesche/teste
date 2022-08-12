@@ -1,0 +1,2 @@
+struct power_supply | dummy int 
+function power_supply_create_triggers int | psy struct power_supply *

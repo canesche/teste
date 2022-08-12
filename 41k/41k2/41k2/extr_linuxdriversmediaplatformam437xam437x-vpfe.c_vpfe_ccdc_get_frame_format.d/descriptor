@@ -1,0 +1,5 @@
+struct TYPE_5__ | frm_fmt int 
+struct TYPE_4__ | frm_fmt int 
+struct TYPE_6__ | if_type long | ycbcr struct TYPE_5__ | bayer struct TYPE_4__ 
+struct vpfe_ccdc | ccdc_cfg struct TYPE_6__ 
+function vpfe_ccdc_get_frame_format enum ccdc_frmfmt | ccdc struct vpfe_ccdc *

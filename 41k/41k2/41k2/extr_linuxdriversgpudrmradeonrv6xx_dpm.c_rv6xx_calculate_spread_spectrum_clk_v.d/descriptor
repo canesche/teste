@@ -1,0 +1,1 @@
+function rv6xx_calculate_spread_spectrum_clk_v int | vco_freq int | ref_freq int | ss_rate int | ss_percent int | fb_divider_scale int

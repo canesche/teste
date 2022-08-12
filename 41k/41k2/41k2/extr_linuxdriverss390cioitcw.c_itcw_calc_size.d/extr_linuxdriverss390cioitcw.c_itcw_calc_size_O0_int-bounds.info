@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 56,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 56,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriverss390cioitcw.c_itcw_calc_size.d/extr_linuxdriverss390cioitcw.c_itcw_calc_size_O0::itcw_calc_size(66)"
+  }
+]

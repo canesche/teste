@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversttyserial82508250_fintek.c_fintek_8250_get_ldn_range.d/extr_linuxdriversttyserial82508250_fintek.c_fintek_8250_get_ldn_range_O0::fintek_8250_get_ldn_range(72)"
+  }
+]

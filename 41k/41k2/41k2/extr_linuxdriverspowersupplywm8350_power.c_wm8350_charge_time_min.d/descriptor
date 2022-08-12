@@ -1,0 +1,3 @@
+struct TYPE_2__ | rev_g_coeff int 
+struct wm8350 | power struct TYPE_2__ 
+function wm8350_charge_time_min int | wm8350 struct wm8350 * | min int

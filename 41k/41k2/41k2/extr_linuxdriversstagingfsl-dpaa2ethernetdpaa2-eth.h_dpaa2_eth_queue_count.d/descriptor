@@ -1,0 +1,3 @@
+struct TYPE_2__ | num_queues int 
+struct dpaa2_eth_priv | dpni_attrs struct TYPE_2__ 
+function dpaa2_eth_queue_count int | priv struct dpaa2_eth_priv *

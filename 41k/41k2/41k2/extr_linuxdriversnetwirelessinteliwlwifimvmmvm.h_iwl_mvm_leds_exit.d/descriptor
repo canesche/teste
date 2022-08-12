@@ -1,0 +1,2 @@
+struct iwl_mvm | dummy int 
+function iwl_mvm_leds_exit void | mvm struct iwl_mvm *

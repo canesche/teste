@@ -1,0 +1,2 @@
+struct lg4ff_compat_mode_switch | dummy int 
+function lg4ff_get_mode_switch_command const struct lg4ff_compat_mode_switch * | real_product_id const int | target_product_id const int

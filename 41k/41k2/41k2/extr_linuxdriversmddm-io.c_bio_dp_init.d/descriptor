@@ -1,0 +1,3 @@
+struct dpages | context_bi int | context_ptr int | next_page int | get_page int 
+struct bio | bi_iter int | bi_io_vec int 
+function bio_dp_init void | dp struct dpages * | bio struct bio *

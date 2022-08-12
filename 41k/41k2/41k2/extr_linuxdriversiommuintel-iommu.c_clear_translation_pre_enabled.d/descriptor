@@ -1,0 +1,2 @@
+struct intel_iommu | flags int 
+function clear_translation_pre_enabled void | iommu struct intel_iommu *

@@ -1,0 +1,2 @@
+struct mxs_phy | data int * 
+function is_imx6q_phy int | mxs_phy struct mxs_phy *

@@ -1,0 +1,3 @@
+struct ath_mci_profile | aggr_limit int 
+struct ath_btcoex | btcoex_period int | duty_cycle int | mci struct ath_mci_profile 
+function ath_mci_adjust_aggr_limit void | btcoex struct ath_btcoex *

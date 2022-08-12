@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversparportparport_mfc3.c_control_mfc3_to_pc.d/extr_linuxdriversparportparport_mfc3.c_control_mfc3_to_pc_O0::control_mfc3_to_pc(64)"
+  }
+]

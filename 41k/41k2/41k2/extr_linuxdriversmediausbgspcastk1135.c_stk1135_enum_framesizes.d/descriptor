@@ -1,0 +1,4 @@
+struct TYPE_2__ | min_width int | min_height int | max_width int | max_height int | step_width int | step_height int 
+struct v4l2_frmsizeenum | index long | pixel_format long | stepwise struct TYPE_2__ | type int 
+struct gspca_dev | dummy int 
+function stk1135_enum_framesizes int | gspca_dev struct gspca_dev * | fsize struct v4l2_frmsizeenum *

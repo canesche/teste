@@ -1,0 +1,4 @@
+struct temac_local | dummy int 
+struct platform_device | dummy int 
+struct device_node | dummy int 
+function temac_dcr_setup int | lp struct temac_local * | op struct platform_device * | np struct device_node *

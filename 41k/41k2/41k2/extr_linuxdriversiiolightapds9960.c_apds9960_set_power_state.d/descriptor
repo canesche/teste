@@ -1,0 +1,2 @@
+struct apds9960_data | dummy int 
+function apds9960_set_power_state int | data struct apds9960_data * | on int

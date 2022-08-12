@@ -1,0 +1,2 @@
+struct ib_mad_hdr | mgmt_class long | status int | method int 
+function reply int | smp struct ib_mad_hdr *

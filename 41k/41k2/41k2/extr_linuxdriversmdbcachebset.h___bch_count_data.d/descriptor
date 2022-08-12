@@ -1,0 +1,2 @@
+struct btree_keys | dummy int 
+function __bch_count_data int | b struct btree_keys *

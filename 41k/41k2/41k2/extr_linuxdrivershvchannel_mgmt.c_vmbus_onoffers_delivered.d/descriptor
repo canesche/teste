@@ -1,0 +1,2 @@
+struct vmbus_channel_message_header | dummy int 
+function vmbus_onoffers_delivered void | hdr struct vmbus_channel_message_header *

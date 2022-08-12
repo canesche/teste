@@ -1,0 +1,4 @@
+struct device | dummy int 
+struct TYPE_3__ | config_params int 
+struct TYPE_4__ | bayer struct TYPE_3__ 
+function isif_close int | device struct device *

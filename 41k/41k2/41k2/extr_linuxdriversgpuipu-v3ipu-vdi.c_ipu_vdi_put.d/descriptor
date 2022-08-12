@@ -1,0 +1,2 @@
+struct ipu_vdi | dummy int 
+function ipu_vdi_put void | vdi struct ipu_vdi *

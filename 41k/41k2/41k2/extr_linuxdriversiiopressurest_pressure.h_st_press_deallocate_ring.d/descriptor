@@ -1,0 +1,2 @@
+struct iio_dev | dummy int 
+function st_press_deallocate_ring void | indio_dev struct iio_dev *

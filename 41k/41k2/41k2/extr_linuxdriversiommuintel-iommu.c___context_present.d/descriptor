@@ -1,0 +1,2 @@
+struct context_entry | lo int 
+function __context_present int | context struct context_entry *

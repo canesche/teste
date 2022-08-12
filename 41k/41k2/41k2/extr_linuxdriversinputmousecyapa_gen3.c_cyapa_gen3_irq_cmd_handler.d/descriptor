@@ -1,0 +1,2 @@
+struct cyapa | gen long | operational long 
+function cyapa_gen3_irq_cmd_handler int | cyapa struct cyapa *

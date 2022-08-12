@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessrealtekrtlwifiregd.c_channel_plan_to_country_code.d/extr_linuxdriversnetwirelessrealtekrtlwifiregd.c_channel_plan_to_country_code_O0::channel_plan_to_country_code(68)"
+  }
+]

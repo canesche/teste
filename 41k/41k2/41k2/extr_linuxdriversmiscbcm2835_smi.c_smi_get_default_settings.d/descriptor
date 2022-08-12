@@ -1,0 +1,3 @@
+struct smi_settings | pack_data int | read_setup_time int | read_hold_time int | read_pace_time int | read_strobe_time int | write_setup_time int | write_hold_time int | write_pace_time int | write_strobe_time int | dma_enable int | dma_passthrough_enable int | dma_read_thresh int | dma_write_thresh int | dma_panic_read_thresh int | dma_panic_write_thresh int | data_width int 
+struct bcm2835_smi_instance | settings struct smi_settings 
+function smi_get_default_settings void | inst struct bcm2835_smi_instance *

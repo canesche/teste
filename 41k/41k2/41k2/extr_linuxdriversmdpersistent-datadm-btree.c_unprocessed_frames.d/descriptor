@@ -1,0 +1,2 @@
+struct del_stack | top long 
+function unprocessed_frames int | s struct del_stack *

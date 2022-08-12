@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 7,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversplatformx86intel_punit_ipc.c_ipc_err_string.d/extr_linuxdriversplatformx86intel_punit_ipc.c_ipc_err_string_O0::ipc_err_string(67)"
+  }
+]

@@ -1,0 +1,2 @@
+struct w8001 | max_pen_x unsigned int | max_touch_x unsigned int | max_pen_y unsigned int | max_touch_y unsigned int 
+function scale_touch_coordinates void | w8001 struct w8001 * | x unsigned int * | y unsigned int *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetchelsiocxgb4cxgb4_ethtool.c_speed_to_fw_caps.d/extr_linuxdriversnetethernetchelsiocxgb4cxgb4_ethtool.c_speed_to_fw_caps_O0::speed_to_fw_caps(69)"
+  }
+]

@@ -1,0 +1,2 @@
+struct vc_data | vc_x unsigned char | vc_y unsigned char 
+function getconsxy void | vc struct vc_data * | p unsigned char *

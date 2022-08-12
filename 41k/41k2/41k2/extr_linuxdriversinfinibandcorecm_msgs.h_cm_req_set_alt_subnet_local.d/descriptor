@@ -1,0 +1,2 @@
+struct cm_req_msg | alt_offset138 int 
+function cm_req_set_alt_subnet_local void | req_msg struct cm_req_msg * | subnet_local int

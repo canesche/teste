@@ -1,0 +1,4 @@
+struct sk_buff | queue_mapping unsigned int 
+struct igb_ring | dummy int 
+struct igb_adapter | num_tx_queues unsigned int | tx_ring struct igb_ring ** 
+function igb_tx_queue_mapping struct igb_ring * | adapter struct igb_adapter * | skb struct sk_buff *

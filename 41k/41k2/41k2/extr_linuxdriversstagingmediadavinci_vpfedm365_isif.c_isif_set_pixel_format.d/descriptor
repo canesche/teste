@@ -1,0 +1,6 @@
+struct TYPE_7__ | v4l2_pix_fmt unsigned int | pix_order int 
+struct TYPE_6__ | v4l2_pix_fmt unsigned int | pix_fmt int 
+struct TYPE_8__ | ycbcr struct TYPE_7__ | data_pack void * | bayer struct TYPE_6__ 
+struct vpfe_isif_device | isif_cfg struct TYPE_8__ | formats struct TYPE_5__ * 
+struct TYPE_5__ | code long 
+function isif_set_pixel_format int | isif struct vpfe_isif_device * | pixfmt unsigned int

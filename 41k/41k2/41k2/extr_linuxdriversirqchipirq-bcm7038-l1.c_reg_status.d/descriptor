@@ -1,0 +1,2 @@
+struct bcm7038_l1_chip | n_words unsigned int 
+function reg_status unsigned int | intc struct bcm7038_l1_chip * | word unsigned int

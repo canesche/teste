@@ -1,0 +1,3 @@
+struct bm_rcr | available int 
+struct bm_portal | rcr struct bm_rcr 
+function bm_rcr_get_fill int | portal struct bm_portal *

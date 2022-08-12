@@ -1,0 +1,2 @@
+struct vmci_ctx | user_version long 
+function vmci_ctx_supports_host_qp int | context struct vmci_ctx *

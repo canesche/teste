@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct ifmap | dummy int 
+function fjn_config int | dev struct net_device * | map struct ifmap *

@@ -1,0 +1,2 @@
+struct bfa_msgq_cmdq | dummy int 
+function cmdq_sm_ready_entry void | cmdq struct bfa_msgq_cmdq *

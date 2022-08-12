@@ -1,0 +1,14 @@
+struct bna_txq | dummy int 
+struct bna_tx | dummy int 
+struct bna_rxq | dummy int 
+struct bna_rxp | dummy int 
+struct bna_rx | dummy int 
+struct TYPE_5__ | num int | len int | mem_type void * 
+struct TYPE_6__ | mem_info struct TYPE_5__ 
+struct bna_res_info | res_u struct TYPE_6__ | res_type void * 
+struct bna_mcam_handle | dummy int 
+struct bna_mac | dummy int 
+struct bna_attr | num_txq int | num_rxp int | num_ucmac int | num_mcmac int 
+struct TYPE_4__ | attr struct bna_attr 
+struct bna | ioceth struct TYPE_4__ 
+function bna_mod_res_req void | bna struct bna * | res_info struct bna_res_info *

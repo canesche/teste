@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetmellanoxmlx5corewq.h_mlx5_wq_cyc_missing.d/extr_linuxdriversnetethernetmellanoxmlx5corewq.h_mlx5_wq_cyc_missing_O0::mlx5_wq_cyc_missing(61)"
+  }
+]

@@ -1,0 +1,4 @@
+struct sm501_devdata | irq int | io_res struct TYPE_2__ * | regs long 
+struct plat_serial8250_port | flags int | regshift int | uartclk int | irq int | iotype int | mapbase long | membase long 
+struct TYPE_2__ | start long 
+function sm501_setup_uart_data void | sm struct sm501_devdata * | uart_data struct plat_serial8250_port * | offset unsigned int

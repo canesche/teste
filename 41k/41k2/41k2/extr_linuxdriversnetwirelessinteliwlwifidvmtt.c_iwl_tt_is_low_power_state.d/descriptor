@@ -1,0 +1,3 @@
+struct iwl_tt_mgmt | state long 
+struct iwl_priv | thermal_throttle struct iwl_tt_mgmt 
+function iwl_tt_is_low_power_state int | priv struct iwl_priv *

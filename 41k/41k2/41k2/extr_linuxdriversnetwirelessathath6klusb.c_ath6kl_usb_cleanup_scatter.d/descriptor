@@ -1,0 +1,2 @@
+struct ath6kl | dummy int 
+function ath6kl_usb_cleanup_scatter void | ar struct ath6kl *

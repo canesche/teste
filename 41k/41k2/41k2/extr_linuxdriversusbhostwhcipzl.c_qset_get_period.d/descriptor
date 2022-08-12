@@ -1,0 +1,5 @@
+struct whc_qset | ep struct TYPE_4__ * 
+struct whc | dummy int 
+struct TYPE_3__ | bInterval int 
+struct TYPE_4__ | desc struct TYPE_3__ 
+function qset_get_period int | whc struct whc * | qset struct whc_qset *

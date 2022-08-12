@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversttyserialserial_ks8695.c_ks8695uart_verify_port.d/extr_linuxdriversttyserialserial_ks8695.c_ks8695uart_verify_port_O0::ks8695uart_verify_port(65)"
+  }
+]

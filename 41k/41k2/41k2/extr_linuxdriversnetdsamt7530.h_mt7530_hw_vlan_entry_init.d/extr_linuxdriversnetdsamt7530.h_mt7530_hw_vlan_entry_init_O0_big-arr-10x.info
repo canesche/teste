@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetdsamt7530.h_mt7530_hw_vlan_entry_init.d/extr_linuxdriversnetdsamt7530.h_mt7530_hw_vlan_entry_init_O0::mt7530_hw_vlan_entry_init(62)"
+  }
+]

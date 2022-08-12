@@ -1,0 +1,2 @@
+struct device | dummy int 
+function ccdc_close int | dev struct device *

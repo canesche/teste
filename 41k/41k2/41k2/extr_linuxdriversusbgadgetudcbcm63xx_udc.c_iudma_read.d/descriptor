@@ -1,0 +1,4 @@
+struct iudma_ch | n_bds_used int | read_bd struct bcm_enet_desc * | bd_ring struct bcm_enet_desc * | end_bd struct bcm_enet_desc * 
+struct bcm_enet_desc | len_stat int 
+struct bcm63xx_udc | dummy int 
+function iudma_read int | udc struct bcm63xx_udc * | iudma struct iudma_ch *

@@ -1,0 +1,1 @@
+function s390_iommu_capable int | cap enum iommu_cap

@@ -1,0 +1,1 @@
+function bnx2x_set_fw_mac_addr void | fw_hi int * | fw_mid int * | fw_lo int * | mac int *

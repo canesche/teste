@@ -1,0 +1,3 @@
+struct go7007 | standard int | board_info struct TYPE_2__ * 
+struct TYPE_2__ | sensor_width int | sensor_height int 
+function get_resolution void | go struct go7007 * | width int * | height int *

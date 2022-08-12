@@ -1,0 +1,2 @@
+struct spinand_device | dummy int 
+function mt29f2g01abagd_ecc_get_status int | spinand struct spinand_device * | status int

@@ -1,0 +1,3 @@
+struct dwc2_core_params | host_rx_fifo_size int | max_transfer_size int | max_packet_count int | ahbcfg int 
+struct dwc2_hsotg | params struct dwc2_core_params 
+function dwc2_set_bcm_params void | hsotg struct dwc2_hsotg *

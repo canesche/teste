@@ -1,0 +1,2 @@
+struct pcmcia_socket | dummy int 
+function db1x_pcmcia_sock_init int | skt struct pcmcia_socket *

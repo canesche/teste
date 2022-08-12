@@ -1,0 +1,3 @@
+struct spi_master | dummy int 
+struct device | dummy int 
+function rspi_parse_dt int | dev struct device * | master struct spi_master *

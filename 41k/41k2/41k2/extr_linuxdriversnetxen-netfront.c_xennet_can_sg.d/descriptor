@@ -1,0 +1,2 @@
+struct net_device | features int 
+function xennet_can_sg int | dev struct net_device *

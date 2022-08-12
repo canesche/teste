@@ -1,0 +1,2 @@
+struct phy_dm_struct | dummy int 
+function phydm_rate_to_num_ss long | dm struct phy_dm_struct * | data_rate long

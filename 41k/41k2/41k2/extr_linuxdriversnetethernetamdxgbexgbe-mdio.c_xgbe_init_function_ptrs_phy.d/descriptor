@@ -1,0 +1,2 @@
+struct xgbe_phy_if | module_eeprom int | module_info int | an_isr int | phy_valid_speed int | phy_config_aneg int | phy_status int | phy_stop int | phy_start int | phy_reset int | phy_exit int | phy_init int 
+function xgbe_init_function_ptrs_phy void | phy_if struct xgbe_phy_if *

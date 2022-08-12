@@ -1,0 +1,5 @@
+struct iwl_priv | hw struct TYPE_4__ * 
+struct ieee80211_supported_band | dummy int 
+struct TYPE_4__ | wiphy struct TYPE_3__ * 
+struct TYPE_3__ | bands const struct ieee80211_supported_band ** 
+function iwl_get_hw_mode const struct ieee80211_supported_band * | priv struct iwl_priv * | band enum nl80211_band

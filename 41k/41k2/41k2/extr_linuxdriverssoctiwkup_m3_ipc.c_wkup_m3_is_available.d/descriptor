@@ -1,0 +1,2 @@
+struct wkup_m3_ipc | state long 
+function wkup_m3_is_available int | m3_ipc struct wkup_m3_ipc *

@@ -1,0 +1,2 @@
+struct i40e_pf | dummy int 
+function i40e_fill_rss_lut void | pf struct i40e_pf * | lut unsigned long * | rss_table_size unsigned long | rss_size unsigned long

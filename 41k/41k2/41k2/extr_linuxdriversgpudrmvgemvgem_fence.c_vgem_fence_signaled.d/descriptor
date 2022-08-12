@@ -1,0 +1,2 @@
+struct dma_fence | dummy int 
+function vgem_fence_signaled int | fence struct dma_fence *

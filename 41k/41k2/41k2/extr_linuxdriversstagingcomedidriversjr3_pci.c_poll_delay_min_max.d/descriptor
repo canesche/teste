@@ -1,0 +1,2 @@
+struct jr3_pci_poll_delay | min int | max int 
+function poll_delay_min_max struct jr3_pci_poll_delay | min int | max int

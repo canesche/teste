@@ -1,0 +1,2 @@
+struct gb_power_supply | update_interval int 
+function next_interval void | gbpsy struct gb_power_supply *

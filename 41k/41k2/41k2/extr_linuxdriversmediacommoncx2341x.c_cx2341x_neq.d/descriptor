@@ -1,0 +1,3 @@
+struct TYPE_2__ | val long 
+struct v4l2_ctrl | val long | cur struct TYPE_2__ 
+function cx2341x_neq int | ctrl struct v4l2_ctrl *

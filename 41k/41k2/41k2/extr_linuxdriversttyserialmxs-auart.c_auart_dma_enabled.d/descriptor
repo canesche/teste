@@ -1,0 +1,2 @@
+struct mxs_auart_port | flags int 
+function auart_dma_enabled int | s struct mxs_auart_port *

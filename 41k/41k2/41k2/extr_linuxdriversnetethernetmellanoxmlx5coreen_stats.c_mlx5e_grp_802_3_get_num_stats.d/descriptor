@@ -1,0 +1,2 @@
+struct mlx5e_priv | dummy int 
+function mlx5e_grp_802_3_get_num_stats int | priv struct mlx5e_priv *

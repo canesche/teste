@@ -1,0 +1,3 @@
+struct nfcmrvl_private | drv_data struct nfcmrvl_i2c_drv_data * 
+struct nfcmrvl_i2c_drv_data | dummy int 
+function nfcmrvl_i2c_nci_open int | priv struct nfcmrvl_private *

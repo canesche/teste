@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetbrocadebnabna_tx_rx.c_bna_rx_res_check.d/extr_linuxdriversnetethernetbrocadebnabna_tx_rx.c_bna_rx_res_check_O0::bna_rx_res_check(64)"
+  }
+]

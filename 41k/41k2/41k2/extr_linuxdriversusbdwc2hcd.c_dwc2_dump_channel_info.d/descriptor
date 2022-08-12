@@ -1,0 +1,3 @@
+struct dwc2_hsotg | dummy int 
+struct dwc2_host_chan | dummy int 
+function dwc2_dump_channel_info void | hsotg struct dwc2_hsotg * | chan struct dwc2_host_chan *

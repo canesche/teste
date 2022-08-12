@@ -1,0 +1,4 @@
+struct rt2x00_dev | ops struct TYPE_2__ * | intf_sta_count long 
+struct ieee80211_vif | addr int * 
+struct TYPE_2__ | max_ap_intf int 
+function rt2x00lib_get_bssidx int | rt2x00dev struct rt2x00_dev * | vif struct ieee80211_vif *

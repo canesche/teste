@@ -1,0 +1,2 @@
+struct uart_port | uartclk unsigned int 
+function calculate_baud_abs_diff int | port struct uart_port * | baud unsigned int | mode unsigned int

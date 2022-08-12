@@ -1,0 +1,3 @@
+struct TYPE_2__ | fddiSMTCF_State long 
+struct s_smc | mib struct TYPE_2__ 
+function cfm_get_mac_input int | smc struct s_smc *

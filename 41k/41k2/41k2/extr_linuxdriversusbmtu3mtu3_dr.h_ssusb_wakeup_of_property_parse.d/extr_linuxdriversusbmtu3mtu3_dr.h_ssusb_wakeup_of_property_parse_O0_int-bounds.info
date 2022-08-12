@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversusbmtu3mtu3_dr.h_ssusb_wakeup_of_property_parse.d/extr_linuxdriversusbmtu3mtu3_dr.h_ssusb_wakeup_of_property_parse_O0::ssusb_wakeup_of_property_parse(63)"
+  }
+]

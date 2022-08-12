@@ -1,0 +1,2 @@
+struct ssusb_mtk | dummy int 
+function ssusb_host_disable int | ssusb struct ssusb_mtk * | suspend int

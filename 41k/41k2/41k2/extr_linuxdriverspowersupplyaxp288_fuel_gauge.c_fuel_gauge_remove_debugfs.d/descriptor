@@ -1,0 +1,2 @@
+struct axp288_fg_info | dummy int 
+function fuel_gauge_remove_debugfs void | info struct axp288_fg_info *

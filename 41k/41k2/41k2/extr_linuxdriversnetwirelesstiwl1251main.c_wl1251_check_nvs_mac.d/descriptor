@@ -1,0 +1,2 @@
+struct wl1251 | nvs_len int | nvs int * 
+function wl1251_check_nvs_mac int | wl struct wl1251 *

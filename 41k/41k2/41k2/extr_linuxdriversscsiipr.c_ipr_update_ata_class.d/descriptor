@@ -1,0 +1,2 @@
+struct ipr_resource_entry | ata_class int 
+function ipr_update_ata_class void | res struct ipr_resource_entry * | proto unsigned int

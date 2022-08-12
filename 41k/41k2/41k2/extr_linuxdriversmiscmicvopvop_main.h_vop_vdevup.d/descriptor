@@ -1,0 +1,3 @@
+struct vop_vdev | dd struct TYPE_2__ * 
+struct TYPE_2__ | status int 
+function vop_vdevup int | vdev struct vop_vdev *

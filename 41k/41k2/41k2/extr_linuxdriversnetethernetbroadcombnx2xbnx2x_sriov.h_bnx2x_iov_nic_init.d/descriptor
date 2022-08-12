@@ -1,0 +1,2 @@
+struct bnx2x | dummy int 
+function bnx2x_iov_nic_init int | bp struct bnx2x *

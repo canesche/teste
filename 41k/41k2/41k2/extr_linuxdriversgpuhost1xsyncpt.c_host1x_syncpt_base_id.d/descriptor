@@ -1,0 +1,2 @@
+struct host1x_syncpt_base | id int 
+function host1x_syncpt_base_id int | base struct host1x_syncpt_base *

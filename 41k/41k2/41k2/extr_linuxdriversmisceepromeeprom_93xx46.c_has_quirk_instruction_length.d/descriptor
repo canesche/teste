@@ -1,0 +1,3 @@
+struct eeprom_93xx46_dev | pdata struct TYPE_2__ * 
+struct TYPE_2__ | quirks int 
+function has_quirk_instruction_length int | edev struct eeprom_93xx46_dev *

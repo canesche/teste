@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessquantennaqtnfmacqlink_util.c_qlink_chanwidth_nl_to_qlink.d/extr_linuxdriversnetwirelessquantennaqtnfmacqlink_util.c_qlink_chanwidth_nl_to_qlink_O0::qlink_chanwidth_nl_to_qlink(76)"
+  }
+]

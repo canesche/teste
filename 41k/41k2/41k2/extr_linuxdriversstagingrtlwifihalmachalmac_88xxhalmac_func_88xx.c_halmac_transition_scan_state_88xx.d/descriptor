@@ -1,0 +1,4 @@
+struct halmac_scan_state_set | scan_cmd_construct_state long 
+struct TYPE_2__ | scan_state_set struct halmac_scan_state_set 
+struct halmac_adapter | halmac_state struct TYPE_2__ 
+function halmac_transition_scan_state_88xx enum halmac_ret_status | halmac_adapter struct halmac_adapter * | dest_state enum halmac_scan_cmd_construct_state

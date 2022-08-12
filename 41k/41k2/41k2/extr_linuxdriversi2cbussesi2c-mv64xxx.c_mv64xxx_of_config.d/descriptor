@@ -1,0 +1,3 @@
+struct mv64xxx_i2c_data | dummy int 
+struct device | dummy int 
+function mv64xxx_of_config int | drv_data struct mv64xxx_i2c_data * | dev struct device *

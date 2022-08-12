@@ -1,0 +1,2 @@
+struct icade_key | dummy int 
+function icade_find_translation const struct icade_key * | from unsigned long

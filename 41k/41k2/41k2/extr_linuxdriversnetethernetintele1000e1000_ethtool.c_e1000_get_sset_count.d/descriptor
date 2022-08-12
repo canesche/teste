@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function e1000_get_sset_count int | netdev struct net_device * | sset int

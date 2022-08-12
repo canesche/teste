@@ -1,0 +1,2 @@
+struct rtl_led | dummy int 
+function _rtl92cu_deInit_led void | pled struct rtl_led *

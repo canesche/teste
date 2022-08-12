@@ -1,0 +1,1 @@
+function bcm2835_thermal_adc2temp int | adc int | offset int | slope int

@@ -1,0 +1,3 @@
+struct vm_area_struct | vm_flags unsigned long 
+struct page_req_dsc | wr_req long | rd_req long | exe_req long 
+function access_error int | vma struct vm_area_struct * | req struct page_req_dsc *

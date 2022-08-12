@@ -1,0 +1,2 @@
+struct ufs_hisi_dev_params | desired_working_mode int | hs_rate int | tx_pwr_hs int | rx_pwr_hs int | tx_pwr_pwm int | rx_pwr_pwm int | pwm_tx_gear int | pwm_rx_gear int | hs_tx_gear int | hs_rx_gear int | tx_lanes int | rx_lanes int 
+function ufs_hisi_set_dev_cap void | hisi_param struct ufs_hisi_dev_params *

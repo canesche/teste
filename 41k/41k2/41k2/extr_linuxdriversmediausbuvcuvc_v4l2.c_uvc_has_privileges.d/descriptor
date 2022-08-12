@@ -1,0 +1,2 @@
+struct uvc_fh | state long 
+function uvc_has_privileges int | handle struct uvc_fh *

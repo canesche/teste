@@ -1,0 +1,2 @@
+struct qed_ptt | idx int 
+function qed_ptt_get_bar_addr long | p_ptt struct qed_ptt *

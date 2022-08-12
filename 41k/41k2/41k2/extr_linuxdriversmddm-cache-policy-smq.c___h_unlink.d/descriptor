@@ -1,0 +1,3 @@
+struct smq_hash_table | buckets int * 
+struct entry | hash_next int 
+function __h_unlink void | ht struct smq_hash_table * | h unsigned int | e struct entry * | prev struct entry *

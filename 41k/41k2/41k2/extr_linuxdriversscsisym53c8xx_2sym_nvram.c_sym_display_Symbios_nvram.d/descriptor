@@ -1,0 +1,2 @@
+struct sym_device | dummy int 
+function sym_display_Symbios_nvram void | np struct sym_device * | nvram int *

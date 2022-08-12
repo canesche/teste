@@ -1,0 +1,4 @@
+struct device | dummy int 
+struct arena_info | nd_btt struct TYPE_2__ * 
+struct TYPE_2__ | dev struct device 
+function to_dev struct device * | arena struct arena_info *

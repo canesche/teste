@@ -1,0 +1,1 @@
+function ath5k_is_standard_channel int | chan short | band enum nl80211_band

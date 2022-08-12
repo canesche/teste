@@ -1,0 +1,3 @@
+struct fusb300_ep_info | type int | epnum int 
+struct fusb300_ep | type int | epnum int 
+function fusb300_ep_setting void | ep struct fusb300_ep * | info struct fusb300_ep_info

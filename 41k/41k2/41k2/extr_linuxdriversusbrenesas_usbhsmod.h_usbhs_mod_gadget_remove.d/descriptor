@@ -1,0 +1,2 @@
+struct usbhs_priv | dummy int 
+function usbhs_mod_gadget_remove void | priv struct usbhs_priv *

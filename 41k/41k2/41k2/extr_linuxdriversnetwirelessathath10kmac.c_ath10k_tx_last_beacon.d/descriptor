@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function ath10k_tx_last_beacon int | hw struct ieee80211_hw *

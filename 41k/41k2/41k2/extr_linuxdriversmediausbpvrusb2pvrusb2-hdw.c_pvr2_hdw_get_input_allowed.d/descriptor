@@ -1,0 +1,2 @@
+struct pvr2_hdw | input_allowed_mask unsigned int 
+function pvr2_hdw_get_input_allowed unsigned int | hdw struct pvr2_hdw *

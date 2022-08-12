@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 73,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 73,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetamdxgbexgbe-phy-v2.c_xgbe_init_function_ptrs_phy_v2.d/extr_linuxdriversnetethernetamdxgbexgbe-phy-v2.c_xgbe_init_function_ptrs_phy_v2_O0::xgbe_init_function_ptrs_phy_v2(84)"
+  }
+]

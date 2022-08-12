@@ -1,0 +1,3 @@
+struct vfio_region_info | index int | size int | flags int | offset int 
+struct ccw_io_region | dummy int 
+function vfio_ccw_mdev_get_region_info int | info struct vfio_region_info * | cap_type_id int * | cap_type void **

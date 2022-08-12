@@ -1,0 +1,2 @@
+struct gbphy_device | dummy int 
+function gbphy_runtime_get_sync int | gbphy_dev struct gbphy_device *

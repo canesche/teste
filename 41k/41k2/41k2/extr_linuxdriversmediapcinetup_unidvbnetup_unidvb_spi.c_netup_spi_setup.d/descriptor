@@ -1,0 +1,2 @@
+struct spi_device | dummy int 
+function netup_spi_setup int | spi struct spi_device *

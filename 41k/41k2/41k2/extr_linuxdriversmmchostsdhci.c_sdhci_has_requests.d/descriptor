@@ -1,0 +1,2 @@
+struct sdhci_host | data_cmd long | cmd long 
+function sdhci_has_requests int | host struct sdhci_host *

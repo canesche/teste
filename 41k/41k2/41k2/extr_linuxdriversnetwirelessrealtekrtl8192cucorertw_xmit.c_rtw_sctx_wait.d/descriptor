@@ -1,0 +1,2 @@
+struct submit_ctx | dummy int 
+function rtw_sctx_wait int | sctx struct submit_ctx *

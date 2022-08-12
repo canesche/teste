@@ -1,0 +1,2 @@
+struct scb | dummy int 
+function ahc_scb_timer_reset void | scb struct scb * | usec int

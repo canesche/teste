@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsiiscirequest.c_sci_request_ssp_completion_status_is_tx_suspend.d/extr_linuxdriversscsiiscirequest.c_sci_request_ssp_completion_status_is_tx_suspend_O0::sci_request_ssp_completion_status_is_tx_suspend(72)"
+  }
+]

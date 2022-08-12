@@ -1,0 +1,3 @@
+struct dk_cxlflash_release | context_id int | hdr int 
+struct dk_cxlflash_clone | context_id_dst int | hdr int 
+function marshal_clone_to_rele void | clone struct dk_cxlflash_clone * | release struct dk_cxlflash_release *

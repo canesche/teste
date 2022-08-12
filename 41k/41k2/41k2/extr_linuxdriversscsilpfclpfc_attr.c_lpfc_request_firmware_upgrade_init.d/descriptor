@@ -1,0 +1,2 @@
+struct lpfc_hba | cfg_request_firmware_upgrade int 
+function lpfc_request_firmware_upgrade_init int | phba struct lpfc_hba * | val int

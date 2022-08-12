@@ -1,0 +1,2 @@
+struct cyapa | dummy int 
+function cyapa_prepare_wakeup_controls int | cyapa struct cyapa *

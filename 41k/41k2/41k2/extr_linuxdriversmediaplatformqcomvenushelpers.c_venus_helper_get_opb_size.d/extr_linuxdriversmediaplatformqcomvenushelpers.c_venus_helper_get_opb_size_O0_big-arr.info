@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediaplatformqcomvenushelpers.c_venus_helper_get_opb_size.d/extr_linuxdriversmediaplatformqcomvenushelpers.c_venus_helper_get_opb_size_O0::venus_helper_get_opb_size(64)"
+  }
+]

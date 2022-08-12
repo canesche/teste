@@ -1,0 +1,2 @@
+struct phy_dm_struct | dummy int 
+function odm_mac_status_query void | dm struct phy_dm_struct * | mac_status int * | mac_id int | is_packet_match_bssid int | is_packet_to_self int | is_packet_beacon int

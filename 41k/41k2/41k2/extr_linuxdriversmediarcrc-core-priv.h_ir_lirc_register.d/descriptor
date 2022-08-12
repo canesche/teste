@@ -1,0 +1,2 @@
+struct rc_dev | dummy int 
+function ir_lirc_register int | dev struct rc_dev *

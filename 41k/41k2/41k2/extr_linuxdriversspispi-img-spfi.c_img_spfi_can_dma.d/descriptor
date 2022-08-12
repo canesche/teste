@@ -1,0 +1,4 @@
+struct spi_transfer | len long 
+struct spi_master | dummy int 
+struct spi_device | dummy int 
+function img_spfi_can_dma int | master struct spi_master * | spi struct spi_device * | xfer struct spi_transfer *

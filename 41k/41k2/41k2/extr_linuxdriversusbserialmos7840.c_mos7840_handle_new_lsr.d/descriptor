@@ -1,0 +1,4 @@
+struct moschip_port | port struct TYPE_2__ * 
+struct async_icount | frame int | parity int | overrun int | brk int 
+struct TYPE_2__ | icount struct async_icount 
+function mos7840_handle_new_lsr void | port struct moschip_port * | new_lsr int

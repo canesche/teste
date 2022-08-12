@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function _rtl8822be_phy_txpwr_idx_to_dbm long | hw struct ieee80211_hw * | wirelessmode enum wireless_mode | txpwridx int

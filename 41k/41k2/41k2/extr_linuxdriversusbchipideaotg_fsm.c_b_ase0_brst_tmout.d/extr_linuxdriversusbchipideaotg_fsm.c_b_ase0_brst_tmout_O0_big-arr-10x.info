@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversusbchipideaotg_fsm.c_b_ase0_brst_tmout.d/extr_linuxdriversusbchipideaotg_fsm.c_b_ase0_brst_tmout_O0::b_ase0_brst_tmout(63)"
+  }
+]

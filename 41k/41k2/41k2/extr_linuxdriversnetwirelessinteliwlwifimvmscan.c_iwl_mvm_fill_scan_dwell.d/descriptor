@@ -1,0 +1,3 @@
+struct iwl_scan_dwell | extended int | fragmented int | passive int | active int 
+struct iwl_mvm | dummy int 
+function iwl_mvm_fill_scan_dwell void | mvm struct iwl_mvm * | dwell struct iwl_scan_dwell *

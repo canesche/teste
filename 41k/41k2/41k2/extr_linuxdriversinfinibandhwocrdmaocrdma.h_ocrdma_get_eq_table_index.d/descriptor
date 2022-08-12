@@ -1,0 +1,4 @@
+struct ocrdma_dev | eq_cnt int | eq_tbl struct TYPE_4__ * 
+struct TYPE_3__ | id int 
+struct TYPE_4__ | q struct TYPE_3__ 
+function ocrdma_get_eq_table_index int | dev struct ocrdma_dev * | eqid int

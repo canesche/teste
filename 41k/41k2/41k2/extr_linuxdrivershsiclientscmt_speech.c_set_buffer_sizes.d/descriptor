@@ -1,0 +1,3 @@
+struct cs_hsi_iface | rx_bufs int | tx_bufs int | flags int | rx_ptr_boundary int | mmap_cfg struct TYPE_2__ * 
+struct TYPE_2__ | rx_bufs int | tx_bufs int | rx_ptr_boundary int 
+function set_buffer_sizes void | hi struct cs_hsi_iface * | rx_bufs int | tx_bufs int

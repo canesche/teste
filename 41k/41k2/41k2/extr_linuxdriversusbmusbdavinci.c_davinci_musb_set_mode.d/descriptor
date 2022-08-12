@@ -1,0 +1,2 @@
+struct musb | dummy int 
+function davinci_musb_set_mode int | musb struct musb * | mode int

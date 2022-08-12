@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingcomedidriversamplc_dio200_common.c_clk_gat_sce.d/extr_linuxdriversstagingcomedidriversamplc_dio200_common.c_clk_gat_sce_O0::clk_gat_sce(61)"
+  }
+]

@@ -1,0 +1,3 @@
+struct TYPE_5__ | core_if struct TYPE_4__ * 
+struct TYPE_4__ | op_state long 
+function dwc_otg_hcd_is_b_host int | hcd struct TYPE_5__ *

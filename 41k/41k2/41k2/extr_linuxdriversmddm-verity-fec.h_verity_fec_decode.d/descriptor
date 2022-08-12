@@ -1,0 +1,4 @@
+struct dm_verity_io | dummy int 
+struct dm_verity | dummy int 
+struct bvec_iter | dummy int 
+function verity_fec_decode int | v struct dm_verity * | io struct dm_verity_io * | type enum verity_block_type | block int | dest int * | iter struct bvec_iter *

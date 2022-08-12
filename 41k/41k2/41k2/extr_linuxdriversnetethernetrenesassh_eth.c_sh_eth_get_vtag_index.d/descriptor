@@ -1,0 +1,2 @@
+struct sh_eth_private | port int 
+function sh_eth_get_vtag_index int | mdp struct sh_eth_private *

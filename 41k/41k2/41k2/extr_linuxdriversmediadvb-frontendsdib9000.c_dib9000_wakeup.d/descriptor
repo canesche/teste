@@ -1,0 +1,2 @@
+struct dvb_frontend | dummy int 
+function dib9000_wakeup int | fe struct dvb_frontend *

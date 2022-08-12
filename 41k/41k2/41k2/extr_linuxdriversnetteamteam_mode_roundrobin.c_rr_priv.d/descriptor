@@ -1,0 +1,3 @@
+struct team | mode_priv int 
+struct rr_priv | dummy int 
+function rr_priv struct rr_priv * | team struct team *

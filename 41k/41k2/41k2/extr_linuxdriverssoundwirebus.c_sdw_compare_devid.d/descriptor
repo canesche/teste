@@ -1,0 +1,4 @@
+struct sdw_slave_id | unique_id long | mfg_id long | part_id long | class_id long 
+struct TYPE_2__ | unique_id long | mfg_id long | part_id long | class_id long 
+struct sdw_slave | id struct TYPE_2__ 
+function sdw_compare_devid int | slave struct sdw_slave * | id struct sdw_slave_id

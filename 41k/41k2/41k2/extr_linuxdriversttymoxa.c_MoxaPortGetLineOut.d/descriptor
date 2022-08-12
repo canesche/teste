@@ -1,0 +1,2 @@
+struct moxa_port | lineCtrl int 
+function MoxaPortGetLineOut int | port struct moxa_port * | dtrState int * | rtsState int *

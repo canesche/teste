@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetmellanoxmlx5corerl.c_mlx5_rl_are_equal.d/extr_linuxdriversnetethernetmellanoxmlx5corerl.c_mlx5_rl_are_equal_O0::mlx5_rl_are_equal(62)"
+  }
+]

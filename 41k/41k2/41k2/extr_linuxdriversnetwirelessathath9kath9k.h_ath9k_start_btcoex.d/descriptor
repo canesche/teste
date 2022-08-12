@@ -1,0 +1,2 @@
+struct ath_softc | dummy int 
+function ath9k_start_btcoex void | sc struct ath_softc *

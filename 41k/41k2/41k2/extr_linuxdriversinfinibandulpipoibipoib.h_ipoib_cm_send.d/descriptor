@@ -1,0 +1,4 @@
+struct sk_buff | dummy int 
+struct net_device | dummy int 
+struct ipoib_cm_tx | dummy int 
+function ipoib_cm_send void | dev struct net_device * | skb struct sk_buff * | tx struct ipoib_cm_tx *

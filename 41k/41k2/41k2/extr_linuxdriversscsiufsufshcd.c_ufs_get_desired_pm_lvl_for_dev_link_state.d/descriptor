@@ -1,0 +1,2 @@
+struct TYPE_2__ | dev_state int | link_state int 
+function ufs_get_desired_pm_lvl_for_dev_link_state enum ufs_pm_level | dev_state enum ufs_dev_pwr_mode | link_state enum uic_link_state

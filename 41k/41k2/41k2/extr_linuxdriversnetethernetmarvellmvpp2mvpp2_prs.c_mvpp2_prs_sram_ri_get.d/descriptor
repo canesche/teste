@@ -1,0 +1,2 @@
+struct mvpp2_prs_entry | sram int * 
+function mvpp2_prs_sram_ri_get int | pe struct mvpp2_prs_entry *

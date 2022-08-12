@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessathcarl9170tx.c_carl9170_tx_fill_rateinfo.d/extr_linuxdriversnetwirelessathcarl9170tx.c_carl9170_tx_fill_rateinfo_O0::carl9170_tx_fill_rateinfo(68)"
+  }
+]

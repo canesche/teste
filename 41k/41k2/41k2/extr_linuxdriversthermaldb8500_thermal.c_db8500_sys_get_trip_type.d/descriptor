@@ -1,0 +1,5 @@
+struct thermal_zone_device | devdata struct db8500_thermal_zone * 
+struct db8500_thsens_platform_data | num_trips int | trip_points struct TYPE_2__ * 
+struct db8500_thermal_zone | trip_tab struct db8500_thsens_platform_data * 
+struct TYPE_2__ | type int 
+function db8500_sys_get_trip_type int | thermal struct thermal_zone_device * | trip int | type enum thermal_trip_type *

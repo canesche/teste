@@ -1,0 +1,4 @@
+struct TYPE_3__ | mdr2init int | mdr3init int 
+struct TYPE_4__ | fp struct TYPE_3__ 
+struct s_smc | hw struct TYPE_4__ 
+function init_driver_fplus void | smc struct s_smc *

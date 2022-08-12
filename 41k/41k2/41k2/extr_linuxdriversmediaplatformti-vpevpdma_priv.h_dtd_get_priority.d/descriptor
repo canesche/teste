@@ -1,0 +1,2 @@
+struct vpdma_dtd | pkt_ctl int 
+function dtd_get_priority int | dtd struct vpdma_dtd *

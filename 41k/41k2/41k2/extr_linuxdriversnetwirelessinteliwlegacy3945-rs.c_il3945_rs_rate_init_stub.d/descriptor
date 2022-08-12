@@ -1,0 +1,4 @@
+struct ieee80211_supported_band | dummy int 
+struct ieee80211_sta | dummy int 
+struct cfg80211_chan_def | dummy int 
+function il3945_rs_rate_init_stub void | il_r void * | sband struct ieee80211_supported_band * | chandef struct cfg80211_chan_def * | sta struct ieee80211_sta * | il_sta void *

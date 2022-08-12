@@ -1,0 +1,3 @@
+struct TYPE_2__ | curr long | filled long | dirty long 
+struct velocity_info | rx struct TYPE_2__ 
+function velocity_init_rx_ring_indexes void | vptr struct velocity_info *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversresetreset-a10sr.c_a10sr_reset_shift.d/extr_linuxdriversresetreset-a10sr.c_a10sr_reset_shift_O0::a10sr_reset_shift(66)"
+  }
+]

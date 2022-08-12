@@ -1,0 +1,3 @@
+struct recv_buf | pdata long | pend long | pbuf long | ptail long | phead long | ref_cnt long | len long | transfer_len long 
+struct _adapter | dummy int 
+function r8712_init_recvbuf int | padapter struct _adapter * | precvbuf struct recv_buf *

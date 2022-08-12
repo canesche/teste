@@ -1,0 +1,2 @@
+struct net_device | netdev_ops int * 
+function nfp_netdev_is_nfp_net int | netdev struct net_device *

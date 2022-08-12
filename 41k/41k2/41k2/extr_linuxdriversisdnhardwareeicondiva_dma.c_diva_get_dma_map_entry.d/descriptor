@@ -1,0 +1,2 @@
+struct _diva_dma_map_entry | local_ram_addr void * | phys_bus_addr int 
+function diva_get_dma_map_entry void | pmap struct _diva_dma_map_entry * | nr int | pvirt void ** | pphys int *

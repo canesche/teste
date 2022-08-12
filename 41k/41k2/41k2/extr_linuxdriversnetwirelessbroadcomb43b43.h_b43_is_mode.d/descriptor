@@ -1,0 +1,2 @@
+struct b43_wl | if_type int | operating long 
+function b43_is_mode int | wl struct b43_wl * | type int

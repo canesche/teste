@@ -1,0 +1,3 @@
+struct scb | sg_list_phys long | sg_list struct ahc_dma_seg * 
+struct ahc_dma_seg | dummy int 
+function ahc_sg_virt_to_bus long | scb struct scb * | sg struct ahc_dma_seg *

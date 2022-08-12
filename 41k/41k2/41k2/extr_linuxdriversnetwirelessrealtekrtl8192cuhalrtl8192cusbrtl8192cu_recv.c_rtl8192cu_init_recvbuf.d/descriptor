@@ -1,0 +1,2 @@
+struct recv_buf | pdata long | pend long | pbuf long | ptail long | phead long | ref_cnt long | len long | transfer_len long 
+function rtl8192cu_init_recvbuf void | padapter int * | precvbuf struct recv_buf *

@@ -1,0 +1,4 @@
+struct ccw_driver | int_class long 
+struct ccw_device | private struct TYPE_2__ * | drv struct ccw_driver * 
+struct TYPE_2__ | int_class long 
+function ccw_device_set_int_class void | cdev struct ccw_device *

@@ -1,0 +1,6 @@
+struct TYPE_6__ | ui_firmware long | ui_config long | dp_config long | guest_code long 
+struct TYPE_7__ | phyaddr struct TYPE_6__ 
+struct TYPE_5__ | ui_firmware long | ui_config long | dp_config long | guest_code long 
+struct TYPE_8__ | new_partition_table int | img struct TYPE_7__ | phyaddr struct TYPE_5__ | has_guest_code long | has_display_cfg long 
+struct f34_data | v7 struct TYPE_8__ 
+function rmi_f34v7_compare_partition_tables void | f34 struct f34_data *

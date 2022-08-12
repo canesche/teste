@@ -1,0 +1,2 @@
+struct hclge_dev | num_msi int | vector_irq int * 
+function hclge_get_vector_index int | hdev struct hclge_dev * | vector int

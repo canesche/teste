@@ -1,0 +1,3 @@
+struct usb_hcd | dummy int 
+struct urb | dummy int 
+function max3421_unmap_urb_for_dma void | hcd struct usb_hcd * | urb struct urb *

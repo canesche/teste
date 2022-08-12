@@ -1,0 +1,4 @@
+struct usb_host_endpoint | dummy int 
+struct usb_hcd | dummy int 
+struct usb_device | dummy int 
+function xhci_mtk_add_ep_quirk int | hcd struct usb_hcd * | udev struct usb_device * | ep struct usb_host_endpoint *

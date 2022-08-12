@@ -1,0 +1,2 @@
+struct img_ir_timing_range | max long | min long 
+function img_ir_timing_defaults void | range struct img_ir_timing_range * | defaults struct img_ir_timing_range *

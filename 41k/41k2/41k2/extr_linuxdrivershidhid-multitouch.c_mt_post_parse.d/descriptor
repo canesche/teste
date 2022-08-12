@@ -1,0 +1,3 @@
+struct mt_device | dummy int 
+struct mt_application | quirks int | have_contact_count int 
+function mt_post_parse void | td struct mt_device * | app struct mt_application *

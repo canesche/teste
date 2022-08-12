@@ -1,0 +1,2 @@
+struct si_pub | boardtype int 
+function ai_get_boardtype int | sih struct si_pub *

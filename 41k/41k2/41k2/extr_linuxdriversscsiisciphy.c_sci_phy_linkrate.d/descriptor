@@ -1,0 +1,2 @@
+struct isci_phy | max_negotiated_speed int 
+function sci_phy_linkrate enum sas_linkrate | iphy struct isci_phy *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 17,
+    phantoms: 16,
+    exit: true,
+    halt: false,
+    edges: 34,
+    static: {
+      instructions: 102,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 102,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetchelsiocxgb4t4_hw.c_fwcaps16_to_caps32.d/extr_linuxdriversnetethernetchelsiocxgb4t4_hw.c_fwcaps16_to_caps32_O0::fwcaps16_to_caps32(94)"
+  }
+]

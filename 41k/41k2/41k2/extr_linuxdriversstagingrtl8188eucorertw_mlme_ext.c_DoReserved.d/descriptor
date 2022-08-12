@@ -1,0 +1,3 @@
+struct recv_frame | dummy int 
+struct adapter | dummy int 
+function DoReserved unsigned int | padapter struct adapter * | precv_frame struct recv_frame *

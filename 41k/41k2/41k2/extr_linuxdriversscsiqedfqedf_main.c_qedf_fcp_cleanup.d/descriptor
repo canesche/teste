@@ -1,0 +1,2 @@
+struct fc_lport | dummy int 
+function qedf_fcp_cleanup void | lport struct fc_lport *

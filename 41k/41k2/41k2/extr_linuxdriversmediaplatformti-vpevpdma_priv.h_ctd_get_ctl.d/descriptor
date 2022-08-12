@@ -1,0 +1,2 @@
+struct vpdma_ctd | type_source_ctl int 
+function ctd_get_ctl int | ctd struct vpdma_ctd *

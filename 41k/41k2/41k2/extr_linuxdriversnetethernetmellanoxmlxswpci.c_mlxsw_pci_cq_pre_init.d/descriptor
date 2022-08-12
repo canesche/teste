@@ -1,0 +1,5 @@
+struct TYPE_3__ | v long 
+struct TYPE_4__ | cq struct TYPE_3__ 
+struct mlxsw_pci_queue | num long | u struct TYPE_4__ 
+struct mlxsw_pci | max_cqe_ver long | num_sdq_cqs long 
+function mlxsw_pci_cq_pre_init void | mlxsw_pci struct mlxsw_pci * | q struct mlxsw_pci_queue *

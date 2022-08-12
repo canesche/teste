@@ -1,0 +1,2 @@
+struct qed_tunn_update_type | b_update_mode int | b_mode_enabled int 
+function qed_pf_validate_tunn_mode void | tun struct qed_tunn_update_type * | rc int *

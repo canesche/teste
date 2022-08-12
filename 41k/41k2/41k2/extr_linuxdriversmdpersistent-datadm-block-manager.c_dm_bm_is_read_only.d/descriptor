@@ -1,0 +1,2 @@
+struct dm_block_manager | read_only int 
+function dm_bm_is_read_only int | bm struct dm_block_manager *

@@ -1,0 +1,2 @@
+struct sge_txq | processed unsigned int | cleaned unsigned int | in_use unsigned int 
+function reclaim_completed_tx_imm void | q struct sge_txq *

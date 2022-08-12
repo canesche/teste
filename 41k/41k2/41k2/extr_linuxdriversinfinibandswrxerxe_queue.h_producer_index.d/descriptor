@@ -1,0 +1,3 @@
+struct rxe_queue | buf struct TYPE_2__ * 
+struct TYPE_2__ | producer_index unsigned int 
+function producer_index unsigned int | q struct rxe_queue *

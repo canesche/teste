@@ -1,0 +1,1 @@
+value(msg_len) == 255, value(resp_max_len) == 255, value(timeout) == 255, length(msg) == 65025, length(resp) == 65025, length(fw_msg) == 65025

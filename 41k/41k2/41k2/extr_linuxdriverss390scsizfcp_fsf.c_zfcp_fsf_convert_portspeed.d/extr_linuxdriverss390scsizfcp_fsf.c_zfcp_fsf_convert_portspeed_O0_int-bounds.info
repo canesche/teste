@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 10,
+    exit: true,
+    halt: false,
+    edges: 22,
+    static: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriverss390scsizfcp_fsf.c_zfcp_fsf_convert_portspeed.d/extr_linuxdriverss390scsizfcp_fsf.c_zfcp_fsf_convert_portspeed_O0::zfcp_fsf_convert_portspeed(81)"
+  }
+]

@@ -1,0 +1,1 @@
+function ipu_mbus_code_to_colorspace enum ipu_color_space | mbus_code int

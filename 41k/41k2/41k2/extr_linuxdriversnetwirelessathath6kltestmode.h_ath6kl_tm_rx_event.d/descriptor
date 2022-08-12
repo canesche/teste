@@ -1,0 +1,2 @@
+struct ath6kl | dummy int 
+function ath6kl_tm_rx_event void | ar struct ath6kl * | buf void * | buf_len unsigned long

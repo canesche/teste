@@ -1,0 +1,2 @@
+struct gbe_priv | host_port long 
+function gbe_get_slave_port int | priv struct gbe_priv * | slave_num int

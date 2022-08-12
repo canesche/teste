@@ -1,0 +1,2 @@
+struct sis190_private | features int 
+function sis190_set_rgmii void | tp struct sis190_private * | reg int

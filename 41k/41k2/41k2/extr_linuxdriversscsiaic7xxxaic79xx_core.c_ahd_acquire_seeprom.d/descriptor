@@ -1,0 +1,2 @@
+struct ahd_softc | dummy int 
+function ahd_acquire_seeprom int | ahd struct ahd_softc *

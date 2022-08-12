@@ -1,0 +1,2 @@
+struct fm10k_mbx_fifo | tail int | head int 
+function fm10k_fifo_drop_all void | fifo struct fm10k_mbx_fifo *

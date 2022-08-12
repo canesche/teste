@@ -1,0 +1,5 @@
+struct sd | do_ctrl long 
+struct TYPE_4__ | width int | height int 
+struct TYPE_3__ | bulk_nurbs int | bulk_size int 
+struct gspca_dev | pixfmt struct TYPE_4__ | cam struct TYPE_3__ 
+function sd_isoc_init int | gspca_dev struct gspca_dev *

@@ -1,0 +1,1 @@
+function qed_grc_dump_reg_entry_hdr int | dump_buf int * | dump int | addr int | len int

@@ -1,0 +1,4 @@
+struct ieee80211_supported_band | dummy int 
+struct ieee80211_sta | dummy int 
+struct cfg80211_chan_def | dummy int 
+function rtl_rate_update void | ppriv void * | sband struct ieee80211_supported_band * | chandef struct cfg80211_chan_def * | sta struct ieee80211_sta * | priv_sta void * | changed int

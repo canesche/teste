@@ -1,0 +1,2 @@
+struct brcmf_sdio_dev | dummy int 
+function brcmf_sdiod_freezer_count void | sdiodev struct brcmf_sdio_dev *

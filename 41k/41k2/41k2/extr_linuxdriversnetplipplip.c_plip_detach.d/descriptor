@@ -1,0 +1,2 @@
+struct parport | dummy int 
+function plip_detach void | port struct parport *

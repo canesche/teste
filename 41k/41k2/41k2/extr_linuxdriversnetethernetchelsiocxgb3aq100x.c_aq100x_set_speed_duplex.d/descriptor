@@ -1,0 +1,2 @@
+struct cphy | dummy int 
+function aq100x_set_speed_duplex int | phy struct cphy * | speed int | duplex int

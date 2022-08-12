@@ -1,0 +1,3 @@
+struct serial_info | multi int 
+struct pcmcia_device | priv struct serial_info * 
+function quirk_config_nokia void | link struct pcmcia_device *

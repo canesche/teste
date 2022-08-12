@@ -1,0 +1,2 @@
+struct ena_com_dev | intr_moder_tx_interval unsigned int 
+function ena_com_get_nonadaptive_moderation_interval_tx unsigned int | ena_dev struct ena_com_dev *

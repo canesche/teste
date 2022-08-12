@@ -1,0 +1,2 @@
+struct TYPE_3__ | acpidata long 
+function ide_port_acpi int | hwif struct TYPE_3__ *

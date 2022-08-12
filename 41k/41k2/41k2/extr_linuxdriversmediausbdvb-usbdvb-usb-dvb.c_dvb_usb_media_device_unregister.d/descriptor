@@ -1,0 +1,2 @@
+struct dvb_usb_adapter | dummy int 
+function dvb_usb_media_device_unregister void | adap struct dvb_usb_adapter *

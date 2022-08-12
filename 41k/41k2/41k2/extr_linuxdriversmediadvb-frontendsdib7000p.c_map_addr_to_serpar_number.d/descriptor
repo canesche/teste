@@ -1,0 +1,2 @@
+struct i2c_msg | buf int * 
+function map_addr_to_serpar_number int | msg struct i2c_msg *

@@ -1,0 +1,4 @@
+struct spi_controller | dummy int 
+struct sg_table | dummy int 
+struct device | dummy int 
+function spi_map_buf int | ctlr struct spi_controller * | dev struct device * | sgt struct sg_table * | buf void * | len unsigned long | dir enum dma_data_direction

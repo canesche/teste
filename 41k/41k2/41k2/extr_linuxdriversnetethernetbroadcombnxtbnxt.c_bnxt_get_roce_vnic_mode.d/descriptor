@@ -1,0 +1,2 @@
+struct bnxt | flags int 
+function bnxt_get_roce_vnic_mode int | bp struct bnxt *

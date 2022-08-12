@@ -1,0 +1,4 @@
+struct oid_par_priv | type_of_oid long | information_buf long | adapter_context long 
+struct TYPE_2__ | curr_modem int 
+struct _adapter | mppriv struct TYPE_2__ 
+function oid_rt_pro_set_modulation_hdl int | poid_par_priv struct oid_par_priv *

@@ -1,0 +1,4 @@
+struct TYPE_3__ | num_bins_set int 
+struct TYPE_4__ | aprox_match struct TYPE_3__ 
+struct bnx2x_mcast_obj | registry struct TYPE_4__ 
+function bnx2x_mcast_set_registry_size_aprox void | o struct bnx2x_mcast_obj * | n int

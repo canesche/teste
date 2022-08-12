@@ -1,0 +1,6 @@
+struct TYPE_7__ | frm_fmt int 
+struct TYPE_6__ | frm_fmt int 
+struct TYPE_8__ | ycbcr struct TYPE_7__ | bayer struct TYPE_6__ 
+struct vpfe_isif_device | isif_cfg struct TYPE_8__ | formats struct TYPE_5__ * 
+struct TYPE_5__ | code long 
+function isif_set_frame_format int | isif struct vpfe_isif_device * | frm_fmt enum isif_frmfmt

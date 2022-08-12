@@ -1,0 +1,4 @@
+struct inode | dummy int 
+struct file | f_flags int | private_data struct dvb_device * 
+struct dvb_device | users int | writers int | readers int 
+function dvb_generic_release int | inode struct inode * | file struct file *

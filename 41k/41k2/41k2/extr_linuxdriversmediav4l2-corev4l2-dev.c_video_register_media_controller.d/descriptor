@@ -1,0 +1,2 @@
+struct video_device | dummy int 
+function video_register_media_controller int | vdev struct video_device *

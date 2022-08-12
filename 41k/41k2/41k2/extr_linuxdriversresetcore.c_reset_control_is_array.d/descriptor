@@ -1,0 +1,2 @@
+struct reset_control | array int 
+function reset_control_is_array int | rstc struct reset_control *

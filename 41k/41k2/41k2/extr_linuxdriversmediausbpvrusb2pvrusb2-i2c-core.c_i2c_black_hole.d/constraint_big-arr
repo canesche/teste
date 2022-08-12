@@ -1,0 +1,1 @@
+value(i2c_addr) == 255, value(wlen) == 255, value(rlen) == 255, length(wdata) == 65025, length(rdata) == 65025, length(hdw) == 65025

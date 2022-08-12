@@ -1,0 +1,2 @@
+struct sm501_devdata | dummy int 
+function sm501_gpio_isregistered int | sm struct sm501_devdata *

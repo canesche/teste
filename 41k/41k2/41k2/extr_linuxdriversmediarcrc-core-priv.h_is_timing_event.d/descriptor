@@ -1,0 +1,2 @@
+struct ir_raw_event | reset int | carrier_report int 
+function is_timing_event int | ev struct ir_raw_event

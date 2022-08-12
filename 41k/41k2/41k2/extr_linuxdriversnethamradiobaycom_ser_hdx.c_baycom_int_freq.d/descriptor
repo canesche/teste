@@ -1,0 +1,2 @@
+struct baycom_state | dummy int 
+function baycom_int_freq void | bc struct baycom_state *

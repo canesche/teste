@@ -1,0 +1,2 @@
+struct adt7462_data | fan_enabled int 
+function fan_enabled int | data struct adt7462_data * | fan int

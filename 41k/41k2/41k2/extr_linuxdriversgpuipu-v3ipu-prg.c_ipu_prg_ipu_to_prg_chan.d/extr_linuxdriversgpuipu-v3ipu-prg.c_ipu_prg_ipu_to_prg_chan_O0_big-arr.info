@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversgpuipu-v3ipu-prg.c_ipu_prg_ipu_to_prg_chan.d/extr_linuxdriversgpuipu-v3ipu-prg.c_ipu_prg_ipu_to_prg_chan_O0::ipu_prg_ipu_to_prg_chan(64)"
+  }
+]

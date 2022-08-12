@@ -1,0 +1,3 @@
+struct TYPE_2__ | watermark unsigned long 
+struct iio_cb_buffer | buffer struct TYPE_2__ 
+function iio_channel_cb_set_buffer_watermark int | cb_buff struct iio_cb_buffer * | watermark unsigned long

@@ -1,0 +1,4 @@
+struct nvme_ns_head | dummy int 
+struct nvme_ns | dummy int 
+struct gendisk | private_data struct nvme_ns * 
+function nvme_get_ns_from_disk struct nvme_ns * | disk struct gendisk * | head struct nvme_ns_head ** | srcu_idx int *

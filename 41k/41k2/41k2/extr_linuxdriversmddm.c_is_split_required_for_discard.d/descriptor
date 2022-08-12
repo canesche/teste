@@ -1,0 +1,2 @@
+struct dm_target | split_discard_bios int 
+function is_split_required_for_discard int | ti struct dm_target *

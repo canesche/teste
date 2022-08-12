@@ -1,0 +1,2 @@
+struct ip_tunnel_parm | i_flags int 
+function mlxsw_sp_ipip_parms4_has_ikey int | parms struct ip_tunnel_parm

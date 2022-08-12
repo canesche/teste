@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessralinkrt2x00rt2800lib.c_rt2800_get_txwi_rxwi_size.d/extr_linuxdriversnetwirelessralinkrt2x00rt2800lib.c_rt2800_get_txwi_rxwi_size_O0::rt2800_get_txwi_rxwi_size(73)"
+  }
+]

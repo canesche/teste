@@ -1,0 +1,2 @@
+struct platform_device | dev int 
+function ab8500_sysctrl_probe int | pdev struct platform_device *

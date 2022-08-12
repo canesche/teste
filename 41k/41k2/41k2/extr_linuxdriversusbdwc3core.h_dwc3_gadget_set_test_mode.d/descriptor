@@ -1,0 +1,2 @@
+struct dwc3 | dummy int 
+function dwc3_gadget_set_test_mode int | dwc struct dwc3 * | mode int

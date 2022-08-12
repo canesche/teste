@@ -1,0 +1,3 @@
+struct TYPE_2__ | num_dev_in_eps int | num_dev_perio_in_ep int | en_multiple_tx_fifo long 
+struct dwc2_hsotg | hw_params struct TYPE_2__ 
+function dwc2_hsotg_tx_fifo_count int | hsotg struct dwc2_hsotg *

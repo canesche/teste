@@ -1,0 +1,2 @@
+struct cxl_afu | dummy int 
+function init_implementation_afu_regs_psl9 int | afu struct cxl_afu *

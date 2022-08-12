@@ -1,0 +1,2 @@
+struct ioc | res_map long 
+function ptr_to_pide unsigned long | ioc struct ioc * | res_ptr unsigned long * | bitshiftcnt unsigned int

@@ -1,0 +1,2 @@
+struct gb_connection | intf int 
+function gb_connection_is_static int | connection struct gb_connection *

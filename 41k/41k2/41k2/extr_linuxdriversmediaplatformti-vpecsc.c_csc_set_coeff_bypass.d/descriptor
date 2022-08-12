@@ -1,0 +1,2 @@
+struct csc_data | dummy int 
+function csc_set_coeff_bypass void | csc struct csc_data * | csc_reg5 int *

@@ -1,0 +1,2 @@
+struct b43_wldev | dummy int 
+function b43_nphy_gain_ctl_workarounds_rev19 void | dev struct b43_wldev *

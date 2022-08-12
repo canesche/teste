@@ -1,0 +1,2 @@
+struct vmw_private | dummy int 
+function vmw_dma_masks int | dev_priv struct vmw_private *

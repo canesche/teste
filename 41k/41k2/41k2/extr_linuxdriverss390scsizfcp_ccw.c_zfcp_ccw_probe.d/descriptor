@@ -1,0 +1,2 @@
+struct ccw_device | dummy int 
+function zfcp_ccw_probe int | cdev struct ccw_device *

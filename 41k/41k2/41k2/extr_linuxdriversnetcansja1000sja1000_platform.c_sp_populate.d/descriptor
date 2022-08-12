@@ -1,0 +1,5 @@
+struct TYPE_3__ | freq int 
+struct TYPE_4__ | clock struct TYPE_3__ 
+struct sja1000_priv | write_reg int | read_reg int | cdr int | ocr int | can struct TYPE_4__ 
+struct sja1000_platform_data | osc_freq int | cdr int | ocr int 
+function sp_populate void | priv struct sja1000_priv * | pdata struct sja1000_platform_data * | resource_mem_flags unsigned long

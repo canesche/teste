@@ -1,0 +1,6 @@
+struct fimc_is | is_p_region struct TYPE_8__ * 
+struct TYPE_5__ | cmd int 
+struct TYPE_6__ | control struct TYPE_5__ 
+struct TYPE_7__ | isp struct TYPE_6__ 
+struct TYPE_8__ | parameter struct TYPE_7__ 
+function fimc_is_set_param_ctrl_cmd void | is struct fimc_is * | cmd int

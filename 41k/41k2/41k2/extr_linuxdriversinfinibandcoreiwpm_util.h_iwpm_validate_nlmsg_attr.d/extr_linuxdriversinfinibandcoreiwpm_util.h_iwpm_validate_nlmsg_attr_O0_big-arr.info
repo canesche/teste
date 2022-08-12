@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 3060,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinfinibandcoreiwpm_util.h_iwpm_validate_nlmsg_attr.d/extr_linuxdriversinfinibandcoreiwpm_util.h_iwpm_validate_nlmsg_attr_O0::iwpm_validate_nlmsg_attr(63)"
+  }
+]

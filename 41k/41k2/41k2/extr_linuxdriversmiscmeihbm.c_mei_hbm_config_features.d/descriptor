@@ -1,0 +1,3 @@
+struct TYPE_2__ | major_version long | minor_version long 
+struct mei_device | hbm_f_pg_supported int | hbm_f_dc_supported int | hbm_f_ie_supported int | hbm_f_dot_supported int | hbm_f_ev_supported int | hbm_f_fa_supported int | hbm_f_os_supported int | hbm_f_dr_supported int | version struct TYPE_2__ 
+function mei_hbm_config_features void | dev struct mei_device *

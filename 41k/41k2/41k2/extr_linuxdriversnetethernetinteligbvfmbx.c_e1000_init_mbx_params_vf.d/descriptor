@@ -1,0 +1,5 @@
+struct TYPE_4__ | rsts long | acks long | reqs long | msgs_rx long | msgs_tx long 
+struct TYPE_3__ | check_for_rst int | check_for_ack int | check_for_msg int | write_posted int | read_posted int | write int | read int 
+struct e1000_mbx_info | stats struct TYPE_4__ | ops struct TYPE_3__ | size int | usec_delay int | timeout long 
+struct e1000_hw | mbx struct e1000_mbx_info 
+function e1000_init_mbx_params_vf int | hw struct e1000_hw *

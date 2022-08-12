@@ -1,0 +1,3 @@
+struct dvb_frontend | dummy int 
+struct dvb_diseqc_master_cmd | dummy int 
+function send_master_cmd int | fe struct dvb_frontend * | cmd struct dvb_diseqc_master_cmd *

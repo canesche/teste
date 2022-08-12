@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingcomedicomedidev.h_comedi_check_trigger_arg_max.d/extr_linuxdriversstagingcomedicomedidev.h_comedi_check_trigger_arg_max_O0::comedi_check_trigger_arg_max(62)"
+  }
+]

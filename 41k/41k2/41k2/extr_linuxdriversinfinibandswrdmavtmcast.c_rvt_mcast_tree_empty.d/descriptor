@@ -1,0 +1,5 @@
+struct TYPE_4__ | nports int 
+struct rvt_dev_info | ports struct TYPE_6__ ** | dparms struct TYPE_4__ 
+struct TYPE_5__ | rb_node long 
+struct TYPE_6__ | mcast_tree struct TYPE_5__ 
+function rvt_mcast_tree_empty int | rdi struct rvt_dev_info *

@@ -1,0 +1,2 @@
+struct uart_port | iotype int | mapbase int | hub6 int | iobase int 
+function uart_match_port int | port1 struct uart_port * | port2 struct uart_port *

@@ -1,0 +1,2 @@
+struct kxtj9_data | dummy int 
+function kxtj9_setup_polled_device int | tj9 struct kxtj9_data *

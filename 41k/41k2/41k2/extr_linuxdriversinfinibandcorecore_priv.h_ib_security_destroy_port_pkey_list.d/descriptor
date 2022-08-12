@@ -1,0 +1,2 @@
+struct ib_device | dummy int 
+function ib_security_destroy_port_pkey_list void | device struct ib_device *

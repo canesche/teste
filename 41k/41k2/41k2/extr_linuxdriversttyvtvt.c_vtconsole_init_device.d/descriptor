@@ -1,0 +1,2 @@
+struct con_driver | flag int 
+function vtconsole_init_device int | con struct con_driver *

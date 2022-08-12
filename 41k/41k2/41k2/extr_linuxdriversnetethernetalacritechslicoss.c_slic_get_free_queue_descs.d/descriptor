@@ -1,0 +1,1 @@
+function slic_get_free_queue_descs int | put_idx unsigned int | done_idx unsigned int | qlen unsigned int

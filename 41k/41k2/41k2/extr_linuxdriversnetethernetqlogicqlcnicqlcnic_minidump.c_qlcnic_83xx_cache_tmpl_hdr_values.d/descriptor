@@ -1,0 +1,3 @@
+struct qlcnic_fw_dump | version int | use_pex_dma int | cap_mask int | offset int | num_entries int | tmpl_hdr_size int | tmpl_hdr struct qlcnic_83xx_dump_template_hdr * 
+struct qlcnic_83xx_dump_template_hdr | version int | cap_mask int | drv_cap_mask int | offset int | num_entries int | size int 
+function qlcnic_83xx_cache_tmpl_hdr_values void | fw_dump struct qlcnic_fw_dump *

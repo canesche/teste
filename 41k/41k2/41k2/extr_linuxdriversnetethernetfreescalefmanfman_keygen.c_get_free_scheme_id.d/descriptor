@@ -1,0 +1,3 @@
+struct fman_keygen | schemes struct TYPE_2__ * 
+struct TYPE_2__ | used int 
+function get_free_scheme_id int | keygen struct fman_keygen * | scheme_id unsigned long *

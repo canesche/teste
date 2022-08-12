@@ -1,0 +1,2 @@
+struct pxa25x_udc | ep0state int 
+function ep0_idle void | dev struct pxa25x_udc *

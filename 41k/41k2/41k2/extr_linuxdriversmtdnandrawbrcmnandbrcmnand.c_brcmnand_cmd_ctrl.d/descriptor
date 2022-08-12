@@ -1,0 +1,2 @@
+struct mtd_info | dummy int 
+function brcmnand_cmd_ctrl void | mtd struct mtd_info * | dat int | ctrl unsigned int

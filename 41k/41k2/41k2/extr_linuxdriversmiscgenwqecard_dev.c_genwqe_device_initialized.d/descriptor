@@ -1,0 +1,2 @@
+struct genwqe_dev | dev int * 
+function genwqe_device_initialized int | cd struct genwqe_dev *

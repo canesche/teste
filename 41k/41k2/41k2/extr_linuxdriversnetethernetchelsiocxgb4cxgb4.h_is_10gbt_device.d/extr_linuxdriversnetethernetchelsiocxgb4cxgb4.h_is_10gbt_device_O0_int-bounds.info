@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetchelsiocxgb4cxgb4.h_is_10gbt_device.d/extr_linuxdriversnetethernetchelsiocxgb4cxgb4.h_is_10gbt_device_O0::is_10gbt_device(60)"
+  }
+]

@@ -1,0 +1,2 @@
+struct dwc2_hsotg | op_state long 
+function dwc2_hcd_is_b_host int | hsotg struct dwc2_hsotg *

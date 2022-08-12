@@ -1,0 +1,2 @@
+struct qxl_head | height long | width long 
+function qxl_head_enabled int | head struct qxl_head *

@@ -1,0 +1,3 @@
+struct thermal_cooling_device | devdata struct int3406_thermal_data * 
+struct int3406_thermal_data | upper_limit unsigned long | lower_limit unsigned long 
+function int3406_thermal_get_max_state int | cooling_dev struct thermal_cooling_device * | state unsigned long *

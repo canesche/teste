@@ -1,0 +1,2 @@
+struct mtd_info | _read_fact_prot_reg void * | _read_user_prot_reg void * 
+function fixup_use_secsi void | mtd struct mtd_info *

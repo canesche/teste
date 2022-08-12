@@ -1,0 +1,3 @@
+struct usb_host_endpoint | dummy int 
+struct usb_device | ep_out struct usb_host_endpoint ** | ep_in struct usb_host_endpoint ** 
+function ep_to_host_endpoint struct usb_host_endpoint * | dev struct usb_device * | ep unsigned char

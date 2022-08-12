@@ -1,0 +1,2 @@
+struct cardstate | flags long 
+function free_cs void | cs struct cardstate *

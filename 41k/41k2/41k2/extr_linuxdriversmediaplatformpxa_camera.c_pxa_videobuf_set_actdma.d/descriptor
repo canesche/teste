@@ -1,0 +1,3 @@
+struct pxa_camera_dev | dummy int 
+struct pxa_buffer | active_dma int | nb_planes int 
+function pxa_videobuf_set_actdma void | pcdev struct pxa_camera_dev * | buf struct pxa_buffer *

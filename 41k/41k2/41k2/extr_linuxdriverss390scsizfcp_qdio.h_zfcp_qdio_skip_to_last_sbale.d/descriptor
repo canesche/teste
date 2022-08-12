@@ -1,0 +1,3 @@
+struct zfcp_qdio_req | sbale_curr long 
+struct zfcp_qdio | max_sbale_per_sbal long 
+function zfcp_qdio_skip_to_last_sbale void | qdio struct zfcp_qdio * | q_req struct zfcp_qdio_req *

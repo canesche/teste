@@ -1,0 +1,3 @@
+struct sfi_table_header | dummy int 
+struct acpi_table_header | dummy int 
+function sfi_to_acpi_th struct acpi_table_header * | th struct sfi_table_header *

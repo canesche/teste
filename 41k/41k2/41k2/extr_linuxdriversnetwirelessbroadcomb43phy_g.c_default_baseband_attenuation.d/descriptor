@@ -1,0 +1,4 @@
+struct b43_phy | radio_ver int | radio_rev int 
+struct b43_wldev | phy struct b43_phy 
+struct b43_bbatt | att int 
+function default_baseband_attenuation void | dev struct b43_wldev * | bb struct b43_bbatt *

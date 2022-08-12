@@ -1,0 +1,1 @@
+function add_dword long | p_buffer long ** | value long | used long * | avail long *

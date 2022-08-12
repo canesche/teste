@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingrtlwifiphydmphydm_rainfo.c_phydm_trans_platform_bw.d/extr_linuxdriversstagingrtlwifiphydmphydm_rainfo.c_phydm_trans_platform_bw_O0::phydm_trans_platform_bw(67)"
+  }
+]

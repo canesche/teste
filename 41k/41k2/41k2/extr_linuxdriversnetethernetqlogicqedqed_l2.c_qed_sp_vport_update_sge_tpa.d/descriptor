@@ -1,0 +1,6 @@
+struct TYPE_2__ | update_tpa_param_flg long | update_tpa_en_flg long 
+struct eth_vport_tpa_param | tpa_min_size_to_cont int | tpa_min_size_to_start int | tpa_max_size int | tpa_max_aggs_num int | tpa_gro_consistent_flg int | tpa_hdr_data_split_flg int | tpa_pkt_split_flg int | max_buff_num int | tpa_ipv6_tunn_en_flg int | tpa_ipv4_tunn_en_flg int | tpa_ipv6_en_flg int | tpa_ipv4_en_flg int 
+struct vport_update_ramrod_data | common struct TYPE_2__ | tpa_param struct eth_vport_tpa_param 
+struct qed_sge_tpa_params | tpa_min_size_to_cont int | tpa_min_size_to_start int | tpa_max_size int | tpa_max_aggs_num int | tpa_gro_consistent_flg int | tpa_hdr_data_split_flg int | tpa_pkt_split_flg int | max_buffers_per_cqe int | update_tpa_param_flg long | tpa_ipv6_tunn_en_flg int | tpa_ipv4_tunn_en_flg int | tpa_ipv6_en_flg int | tpa_ipv4_en_flg int | update_tpa_en_flg long 
+struct qed_hwfn | dummy int 
+function qed_sp_vport_update_sge_tpa void | p_hwfn struct qed_hwfn * | p_ramrod struct vport_update_ramrod_data * | p_params struct qed_sge_tpa_params *

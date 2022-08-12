@@ -1,0 +1,2 @@
+struct sk_buff | dummy int 
+function ctcmpc_dump_skb void | skb struct sk_buff * | offset int

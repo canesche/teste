@@ -1,0 +1,4 @@
+struct sas_rphy | dummy int 
+struct mptsas_phyinfo | port_details struct TYPE_2__ * 
+struct TYPE_2__ | rphy struct sas_rphy * 
+function mptsas_get_rphy struct sas_rphy * | phy_info struct mptsas_phyinfo *

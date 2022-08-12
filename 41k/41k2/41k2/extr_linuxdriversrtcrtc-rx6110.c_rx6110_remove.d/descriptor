@@ -1,0 +1,2 @@
+struct spi_device | dummy int 
+function rx6110_remove int | spi struct spi_device *

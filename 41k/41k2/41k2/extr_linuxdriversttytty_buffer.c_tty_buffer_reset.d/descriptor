@@ -1,0 +1,2 @@
+struct tty_buffer | size unsigned long | flags long | read long | commit long | next int * | used long 
+function tty_buffer_reset void | p struct tty_buffer * | size unsigned long

@@ -1,0 +1,2 @@
+struct usb_device | portnum int | parent struct usb_device * 
+function get_root_port int | dev struct usb_device *

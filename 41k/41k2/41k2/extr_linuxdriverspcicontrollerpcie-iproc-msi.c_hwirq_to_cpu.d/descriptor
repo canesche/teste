@@ -1,0 +1,2 @@
+struct iproc_msi | nr_cpus unsigned long 
+function hwirq_to_cpu int | msi struct iproc_msi * | hwirq unsigned long

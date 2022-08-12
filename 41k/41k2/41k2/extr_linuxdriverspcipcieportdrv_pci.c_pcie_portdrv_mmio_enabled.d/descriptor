@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function pcie_portdrv_mmio_enabled int | dev struct pci_dev *

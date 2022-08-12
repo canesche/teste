@@ -1,0 +1,2 @@
+struct dvb_frontend | dummy int 
+function mb86a16_sleep int | fe struct dvb_frontend *

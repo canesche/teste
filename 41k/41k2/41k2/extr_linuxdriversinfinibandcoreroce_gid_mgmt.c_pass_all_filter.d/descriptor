@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct ib_device | dummy int 
+function pass_all_filter int | ib_dev struct ib_device * | port int | rdma_ndev struct net_device * | cookie void *

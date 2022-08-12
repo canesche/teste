@@ -1,0 +1,2 @@
+struct device | dummy int 
+function da9055_register_writeable int | dev struct device * | reg unsigned int

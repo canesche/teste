@@ -1,0 +1,3 @@
+struct channel_t | ch_custom_speed int | ch_bd struct TYPE_2__ * 
+struct TYPE_2__ | bd_dividend int 
+function dgnc_set_custom_speed void | ch struct channel_t * | newrate int

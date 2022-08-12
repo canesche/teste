@@ -1,0 +1,1 @@
+value(qc_exists) == 10, value(a4_exists) == 10, value(payload_length) == 10, length(mic_iv) == 100, length(mpdu) == 100, length(pn_vector) == 100

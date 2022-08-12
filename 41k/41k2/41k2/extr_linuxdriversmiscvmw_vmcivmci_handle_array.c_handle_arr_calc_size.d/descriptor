@@ -1,0 +1,3 @@
+struct vmci_handle_arr | dummy int 
+struct vmci_handle | dummy int 
+function handle_arr_calc_size unsigned long | capacity unsigned long

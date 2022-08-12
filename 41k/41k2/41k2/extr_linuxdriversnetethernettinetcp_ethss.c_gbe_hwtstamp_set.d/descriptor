@@ -1,0 +1,3 @@
+struct ifreq | dummy int 
+struct gbe_intf | dummy int 
+function gbe_hwtstamp_set int | gbe_intf struct gbe_intf * | req struct ifreq *

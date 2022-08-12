@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 10,
+    exit: true,
+    halt: false,
+    edges: 22,
+    static: {
+      instructions: 61,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 61,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmiscmeihbm.c_mei_hbm_config_features.d/extr_linuxdriversmiscmeihbm.c_mei_hbm_config_features_O0::mei_hbm_config_features(73)"
+  }
+]

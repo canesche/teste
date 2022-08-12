@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdrivershidhid-microsoft.c_ms_surface_dial_quirk.d/extr_linuxdrivershidhid-microsoft.c_ms_surface_dial_quirk_O0::ms_surface_dial_quirk(70)"
+  }
+]

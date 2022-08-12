@@ -1,0 +1,3 @@
+struct sfp_upstream_ops | dummy int 
+struct sfp_bus | upstream_ops const struct sfp_upstream_ops * | registered long 
+function sfp_get_upstream_ops const struct sfp_upstream_ops * | bus struct sfp_bus *

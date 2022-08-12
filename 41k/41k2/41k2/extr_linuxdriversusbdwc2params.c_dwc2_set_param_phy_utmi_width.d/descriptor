@@ -1,0 +1,4 @@
+struct TYPE_4__ | phy_utmi_width int 
+struct TYPE_3__ | utmi_phy_data_width long 
+struct dwc2_hsotg | params struct TYPE_4__ | hw_params struct TYPE_3__ 
+function dwc2_set_param_phy_utmi_width void | hsotg struct dwc2_hsotg *

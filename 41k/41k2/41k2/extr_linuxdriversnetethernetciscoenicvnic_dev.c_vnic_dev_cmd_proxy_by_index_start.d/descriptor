@@ -1,0 +1,2 @@
+struct vnic_dev | proxy_index int | proxy int 
+function vnic_dev_cmd_proxy_by_index_start void | vdev struct vnic_dev * | index int

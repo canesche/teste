@@ -1,0 +1,2 @@
+struct isl29501_private | shadow_coeffs unsigned int * 
+function isl29501_set_shadow_coeff int | isl29501 struct isl29501_private * | reg enum isl29501_register_name | val unsigned int

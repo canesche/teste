@@ -1,0 +1,4 @@
+struct ssb_bus | host_sdio struct TYPE_2__ * 
+struct device | dummy int 
+struct TYPE_2__ | dev struct device 
+function ssb_sdio_dev struct device * | bus struct ssb_bus *

@@ -1,0 +1,3 @@
+struct stb6000_priv | frequency int 
+struct dvb_frontend | tuner_priv struct stb6000_priv * 
+function stb6000_get_frequency int | fe struct dvb_frontend * | frequency int *

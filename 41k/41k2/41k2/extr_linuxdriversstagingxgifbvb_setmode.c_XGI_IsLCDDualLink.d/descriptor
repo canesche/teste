@@ -1,0 +1,2 @@
+struct vb_device_info | VBInfo int | LCDInfo int 
+function XGI_IsLCDDualLink unsigned char | pVBInfo struct vb_device_info *

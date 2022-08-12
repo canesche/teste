@@ -1,0 +1,3 @@
+struct trinity_ps | dummy int 
+struct radeon_ps | ps_priv struct trinity_ps * 
+function trinity_get_ps struct trinity_ps * | rps struct radeon_ps *

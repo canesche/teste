@@ -1,0 +1,2 @@
+struct radeon_device | family long 
+function cypress_get_mclk_frequency_ratio int | rdev struct radeon_device * | memory_clock int | strobe_mode int

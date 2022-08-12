@@ -1,0 +1,2 @@
+struct ubi_work | func long 
+function ubi_is_erase_work int | wrk struct ubi_work *

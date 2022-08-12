@@ -1,0 +1,1 @@
+value(opcode) == 10, value(subsys) == 10, value(cmd_len) == 10, length(cmd_hdr) == 100

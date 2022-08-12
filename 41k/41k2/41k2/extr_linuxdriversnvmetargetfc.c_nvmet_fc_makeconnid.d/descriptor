@@ -1,0 +1,2 @@
+struct nvmet_fc_tgt_assoc | association_id int 
+function nvmet_fc_makeconnid int | assoc struct nvmet_fc_tgt_assoc * | qid int

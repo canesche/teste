@@ -1,0 +1,2 @@
+struct iio_buffer | bytes_per_datum unsigned long 
+function iio_dma_buffer_set_bytes_per_datum int | buffer struct iio_buffer * | bpd unsigned long

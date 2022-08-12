@@ -1,0 +1,2 @@
+struct htc_target | dummy int 
+function ath6kl_htc_pipe_activity_changed void | target struct htc_target * | ep enum htc_endpoint_id | active int

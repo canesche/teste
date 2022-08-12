@@ -1,0 +1,3 @@
+struct wkup_m3_ipc | dummy int 
+struct TYPE_2__ | is_rtc_only int 
+function wkup_m3_set_rtc_only void | m3_ipc struct wkup_m3_ipc *

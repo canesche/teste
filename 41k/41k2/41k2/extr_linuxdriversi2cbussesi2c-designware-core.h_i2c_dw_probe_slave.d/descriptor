@@ -1,0 +1,2 @@
+struct dw_i2c_dev | dummy int 
+function i2c_dw_probe_slave int | dev struct dw_i2c_dev *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediai2cadv748xadv748x-csi2.c_adv748x_csi2_s_ctrl.d/extr_linuxdriversmediai2cadv748xadv748x-csi2.c_adv748x_csi2_s_ctrl_O0::adv748x_csi2_s_ctrl(63)"
+  }
+]

@@ -1,0 +1,2 @@
+struct mp_priv | curr_ch int | curr_txpoweridx int | rx_crcerrpktcount long | rx_pktcount long | tx_pktcount long | check_mp_pkt long | antenna_rx int | antenna_tx int | curr_rateidx long | curr_modem int | mode int 
+function _init_mp_priv_ void | pmp_priv struct mp_priv *

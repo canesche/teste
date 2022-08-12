@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 119,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediaplatformexynos4-isfimc-core.c_fimc_get_scaler_factor.d/extr_linuxdriversmediaplatformexynos4-isfimc-core.c_fimc_get_scaler_factor_O0::fimc_get_scaler_factor(62)"
+  }
+]

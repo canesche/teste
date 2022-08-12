@@ -1,0 +1,4 @@
+struct ieee80211_hw | priv struct ath5k_hw * 
+struct ath5k_hw | txqs struct TYPE_2__ * 
+struct TYPE_2__ | txq_max int 
+function ath5k_get_ringparam void | hw struct ieee80211_hw * | tx int * | tx_max int * | rx int * | rx_max int *

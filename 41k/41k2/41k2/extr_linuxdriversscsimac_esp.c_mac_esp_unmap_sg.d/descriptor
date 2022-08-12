@@ -1,0 +1,3 @@
+struct scatterlist | dummy int 
+struct esp | dummy int 
+function mac_esp_unmap_sg void | esp struct esp * | sg struct scatterlist * | num_sg int | dir int

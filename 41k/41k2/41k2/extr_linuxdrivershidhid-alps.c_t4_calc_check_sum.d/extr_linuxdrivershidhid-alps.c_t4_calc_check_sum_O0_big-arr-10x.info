@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 75,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 239,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdrivershidhid-alps.c_t4_calc_check_sum.d/extr_linuxdrivershidhid-alps.c_t4_calc_check_sum_O0::t4_calc_check_sum(64)"
+  }
+]

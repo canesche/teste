@@ -1,0 +1,2 @@
+struct arena_info | dataoff int | internal_lbasize int 
+function to_namespace_offset int | arena struct arena_info * | lba int

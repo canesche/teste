@@ -1,0 +1,7 @@
+struct cpc_sja1000_params | acc_code0 int | acc_code1 int | acc_code2 int | acc_code3 int | acc_mask0 int | acc_mask1 int | acc_mask2 int | acc_mask3 int | mode int | outp_contr int | btr1 long | btr0 long 
+struct TYPE_4__ | sja1000 struct cpc_sja1000_params 
+struct TYPE_5__ | cc_type int | cc_params struct TYPE_4__ 
+struct TYPE_6__ | can_params struct TYPE_5__ 
+struct ems_cpc_msg | length int | msg struct TYPE_6__ | msgid long | type int 
+struct cpc_can_params | dummy int 
+function init_params_sja1000 void | msg struct ems_cpc_msg *

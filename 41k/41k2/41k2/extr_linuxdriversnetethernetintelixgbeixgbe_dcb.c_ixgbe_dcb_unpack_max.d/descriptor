@@ -1,0 +1,3 @@
+struct tc_configuration | desc_credits_max int 
+struct ixgbe_dcb_config | tc_config struct tc_configuration * 
+function ixgbe_dcb_unpack_max void | cfg struct ixgbe_dcb_config * | max int *

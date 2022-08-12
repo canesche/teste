@@ -1,0 +1,5 @@
+struct TYPE_4__ | g_low int | g_high int | g_state void * | g_step_idx int 
+struct ath5k_hw | ah_radio int | ah_gain struct TYPE_4__ 
+struct TYPE_6__ | go_default int 
+struct TYPE_5__ | go_default int 
+function ath5k_hw_rfgain_opt_init int | ah struct ath5k_hw *

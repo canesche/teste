@@ -1,0 +1,4 @@
+struct stv090x_dev | next_dev struct stv090x_dev * | internal struct TYPE_2__ * 
+struct i2c_adapter | dummy int 
+struct TYPE_2__ | i2c_addr long | i2c_adap struct i2c_adapter * 
+function find_dev struct stv090x_dev * | i2c_adap struct i2c_adapter * | i2c_addr long

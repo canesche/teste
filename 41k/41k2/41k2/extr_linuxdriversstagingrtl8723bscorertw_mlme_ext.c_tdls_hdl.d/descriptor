@@ -1,0 +1,2 @@
+struct adapter | dummy int 
+function tdls_hdl int | padapter struct adapter * | pbuf unsigned char *

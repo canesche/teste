@@ -1,0 +1,4 @@
+struct TYPE_4__ | CurrentBootDeviceForm int | ReqBootDeviceForm int | ReqAltBootDeviceForm int 
+struct TYPE_3__ | BiosVersion int 
+struct MPT3SAS_ADAPTER | bios_pg2 struct TYPE_4__ | bios_pg3 struct TYPE_3__ | ir_firmware long 
+function _base_determine_wait_on_discovery int | ioc struct MPT3SAS_ADAPTER *

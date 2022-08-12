@@ -1,0 +1,4 @@
+struct qed_hwfn | p_sp_sb struct TYPE_4__ * 
+struct TYPE_3__ | igu_sb_id int 
+struct TYPE_4__ | sb_info struct TYPE_3__ 
+function qed_int_get_sp_sb_id int | p_hwfn struct qed_hwfn *

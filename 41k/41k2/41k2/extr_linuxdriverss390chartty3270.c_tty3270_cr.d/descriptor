@@ -1,0 +1,2 @@
+struct tty3270 | cx long 
+function tty3270_cr void | tp struct tty3270 *

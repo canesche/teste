@@ -1,0 +1,2 @@
+struct tmc_sg_table | dummy int 
+function catu_dump_table void | catu_table struct tmc_sg_table *

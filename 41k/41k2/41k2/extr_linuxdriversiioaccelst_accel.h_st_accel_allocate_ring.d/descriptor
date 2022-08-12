@@ -1,0 +1,2 @@
+struct iio_dev | dummy int 
+function st_accel_allocate_ring int | indio_dev struct iio_dev *

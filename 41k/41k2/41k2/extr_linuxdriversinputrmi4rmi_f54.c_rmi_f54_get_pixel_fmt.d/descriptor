@@ -1,0 +1,1 @@
+function rmi_f54_get_pixel_fmt int | reptype enum rmi_f54_report_type | pixfmt int *

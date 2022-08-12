@@ -1,0 +1,2 @@
+struct pvr2_hdw | flag_ok long 
+function pvr2_hdw_dev_ok int | hdw struct pvr2_hdw *

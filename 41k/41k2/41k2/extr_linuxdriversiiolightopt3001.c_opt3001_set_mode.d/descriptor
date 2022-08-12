@@ -1,0 +1,2 @@
+struct opt3001 | mode int 
+function opt3001_set_mode void | opt struct opt3001 * | reg int * | mode int

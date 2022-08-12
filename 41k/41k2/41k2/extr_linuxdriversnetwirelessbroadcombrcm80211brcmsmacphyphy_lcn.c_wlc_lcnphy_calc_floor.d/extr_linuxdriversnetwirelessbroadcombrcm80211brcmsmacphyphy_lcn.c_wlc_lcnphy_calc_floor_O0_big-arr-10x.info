@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessbroadcombrcm80211brcmsmacphyphy_lcn.c_wlc_lcnphy_calc_floor.d/extr_linuxdriversnetwirelessbroadcombrcm80211brcmsmacphyphy_lcn.c_wlc_lcnphy_calc_floor_O0::wlc_lcnphy_calc_floor(61)"
+  }
+]

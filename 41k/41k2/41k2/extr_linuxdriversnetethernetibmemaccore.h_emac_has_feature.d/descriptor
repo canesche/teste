@@ -1,0 +1,2 @@
+struct emac_instance | features unsigned long 
+function emac_has_feature int | dev struct emac_instance * | feature unsigned long

@@ -1,0 +1,2 @@
+struct b43_rfatt | att int | with_padmix int 
+function b43_lo_fixup_rfatt void | rf struct b43_rfatt *

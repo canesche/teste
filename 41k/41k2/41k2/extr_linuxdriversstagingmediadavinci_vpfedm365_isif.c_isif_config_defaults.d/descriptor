@@ -1,0 +1,5 @@
+struct TYPE_5__ | data_msb int | cfa_pat int | hd_pol void * | vd_pol void * | fid_pol void * | frm_fmt int | pix_fmt int | v4l2_pix_fmt int 
+struct TYPE_4__ | buf_type int | pix_order int | hd_pol void * | vd_pol void * | fid_pol void * | frm_fmt int | pix_fmt int | v4l2_pix_fmt int 
+struct TYPE_6__ | data_pack int | bayer struct TYPE_5__ | ycbcr struct TYPE_4__ 
+struct vpfe_isif_device | isif_cfg struct TYPE_6__ 
+function isif_config_defaults void | isif struct vpfe_isif_device *

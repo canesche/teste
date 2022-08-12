@@ -1,0 +1,3 @@
+struct vc4_crtc | dummy int 
+struct drm_crtc | dummy int 
+function to_vc4_crtc struct vc4_crtc * | crtc struct drm_crtc *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 968,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsich.c_ch_check_voltag.d/extr_linuxdriversscsich.c_ch_check_voltag_O0::ch_check_voltag(61)"
+  }
+]

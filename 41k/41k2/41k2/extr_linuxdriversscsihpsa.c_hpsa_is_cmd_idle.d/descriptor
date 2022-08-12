@@ -1,0 +1,2 @@
+struct CommandList | scsi_cmd long 
+function hpsa_is_cmd_idle int | c struct CommandList *

@@ -1,0 +1,2 @@
+struct qlcnic_adapter | dummy int 
+function qlcnic_pf_set_interface_id_macaddr void | adapter struct qlcnic_adapter * | int_id int *

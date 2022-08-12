@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetqlogicqedqed_sriov.c_qed_vf_calculate_legacy.d/extr_linuxdriversnetethernetqlogicqedqed_sriov.c_qed_vf_calculate_legacy_O0::qed_vf_calculate_legacy(70)"
+  }
+]

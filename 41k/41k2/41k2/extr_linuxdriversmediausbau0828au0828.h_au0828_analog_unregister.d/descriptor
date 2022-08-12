@@ -1,0 +1,2 @@
+struct au0828_dev | dummy int 
+function au0828_analog_unregister int | dev struct au0828_dev *

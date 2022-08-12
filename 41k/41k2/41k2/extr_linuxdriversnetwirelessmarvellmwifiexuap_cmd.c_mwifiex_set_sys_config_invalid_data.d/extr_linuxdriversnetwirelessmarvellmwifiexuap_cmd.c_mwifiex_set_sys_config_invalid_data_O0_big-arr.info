@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessmarvellmwifiexuap_cmd.c_mwifiex_set_sys_config_invalid_data.d/extr_linuxdriversnetwirelessmarvellmwifiexuap_cmd.c_mwifiex_set_sys_config_invalid_data_O0::mwifiex_set_sys_config_invalid_data(61)"
+  }
+]

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function iio_trigger_sysfs_release void | dev struct device *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 10,
+    exit: true,
+    halt: false,
+    edges: 23,
+    static: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinfinibandhwhfi1chip.c_encoded_size.d/extr_linuxdriversinfinibandhwhfi1chip.c_encoded_size_O0::encoded_size(61)"
+  }
+]

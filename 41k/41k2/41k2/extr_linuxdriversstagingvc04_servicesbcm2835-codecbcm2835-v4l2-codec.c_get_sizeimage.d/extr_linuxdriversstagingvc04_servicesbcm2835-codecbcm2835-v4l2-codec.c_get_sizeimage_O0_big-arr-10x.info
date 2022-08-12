@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingvc04_servicesbcm2835-codecbcm2835-v4l2-codec.c_get_sizeimage.d/extr_linuxdriversstagingvc04_servicesbcm2835-codecbcm2835-v4l2-codec.c_get_sizeimage_O0::get_sizeimage(65)"
+  }
+]

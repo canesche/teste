@@ -1,0 +1,2 @@
+struct timestamp_event_queue | tail int | head int 
+function queue_cnt int | q struct timestamp_event_queue *

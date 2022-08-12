@@ -1,0 +1,2 @@
+struct c67x00_device | dummy int 
+function c67x00_ll_release void | dev struct c67x00_device *

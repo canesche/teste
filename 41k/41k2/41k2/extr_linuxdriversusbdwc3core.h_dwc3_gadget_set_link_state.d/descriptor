@@ -1,0 +1,2 @@
+struct dwc3 | dummy int 
+function dwc3_gadget_set_link_state int | dwc struct dwc3 * | state enum dwc3_link_state

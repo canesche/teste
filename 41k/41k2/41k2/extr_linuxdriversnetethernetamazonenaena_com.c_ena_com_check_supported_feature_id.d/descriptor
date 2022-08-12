@@ -1,0 +1,2 @@
+struct ena_com_dev | supported_features int 
+function ena_com_check_supported_feature_id int | ena_dev struct ena_com_dev * | feature_id enum ena_admin_aq_feature_id

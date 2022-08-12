@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediaplatformdavincivpfe_capture.c_vpfe_get_subdev_input_index.d/extr_linuxdriversmediaplatformdavincivpfe_capture.c_vpfe_get_subdev_input_index_O0::vpfe_get_subdev_input_index(67)"
+  }
+]

@@ -1,0 +1,2 @@
+struct dw_mci_slot | dummy int 
+function dw_mci_hi6220_execute_tuning int | slot struct dw_mci_slot * | opcode int

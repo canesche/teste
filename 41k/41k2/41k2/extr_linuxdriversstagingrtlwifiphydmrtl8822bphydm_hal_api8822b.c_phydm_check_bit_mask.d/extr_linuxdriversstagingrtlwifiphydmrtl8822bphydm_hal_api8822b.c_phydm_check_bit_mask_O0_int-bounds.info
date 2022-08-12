@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 57,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingrtlwifiphydmrtl8822bphydm_hal_api8822b.c_phydm_check_bit_mask.d/extr_linuxdriversstagingrtlwifiphydmrtl8822bphydm_hal_api8822b.c_phydm_check_bit_mask_O0::phydm_check_bit_mask(64)"
+  }
+]

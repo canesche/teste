@@ -1,0 +1,1 @@
+function set_flags void | cur_flags int * | new_flags int | flags int

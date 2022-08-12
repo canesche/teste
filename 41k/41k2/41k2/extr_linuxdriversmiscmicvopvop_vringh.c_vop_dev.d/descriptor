@@ -1,0 +1,5 @@
+struct vop_vdev | vpdev struct TYPE_4__ * 
+struct device | dummy int 
+struct TYPE_3__ | parent struct device * 
+struct TYPE_4__ | dev struct TYPE_3__ 
+function vop_dev struct device * | vdev struct vop_vdev *

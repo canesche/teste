@@ -1,0 +1,4 @@
+struct TYPE_2__ | seq_end int 
+struct scsi_qla_host | reset_tmplt struct TYPE_2__ 
+struct qla4_83xx_reset_entry_hdr | dummy int 
+function qla4_83xx_seq_end void | ha struct scsi_qla_host * | p_hdr struct qla4_83xx_reset_entry_hdr *

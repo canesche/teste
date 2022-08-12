@@ -1,0 +1,2 @@
+struct uart_port | unused int * 
+function ms_enabled int | port struct uart_port *

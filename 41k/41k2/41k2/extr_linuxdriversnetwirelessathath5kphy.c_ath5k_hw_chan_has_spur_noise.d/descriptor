@@ -1,0 +1,3 @@
+struct ieee80211_channel | center_freq int 
+struct ath5k_hw | ah_radio long | ah_mac_version int 
+function ath5k_hw_chan_has_spur_noise int | ah struct ath5k_hw * | channel struct ieee80211_channel *

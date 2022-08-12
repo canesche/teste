@@ -1,0 +1,3 @@
+struct vmxnet3_tx_queue | stopped int 
+struct vmxnet3_adapter | dummy int 
+function vmxnet3_tq_stopped int | tq struct vmxnet3_tx_queue * | adapter struct vmxnet3_adapter *

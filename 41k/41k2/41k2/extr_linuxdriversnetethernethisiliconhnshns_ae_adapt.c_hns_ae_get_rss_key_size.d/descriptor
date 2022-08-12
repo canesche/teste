@@ -1,0 +1,2 @@
+struct hnae_handle | dummy int 
+function hns_ae_get_rss_key_size int | handle struct hnae_handle *

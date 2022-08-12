@@ -1,0 +1,6 @@
+struct i40e_vsi | back struct i40e_pf * 
+struct TYPE_4__ | link_speed int 
+struct TYPE_5__ | link_info struct TYPE_4__ 
+struct TYPE_6__ | phy struct TYPE_5__ 
+struct i40e_pf | hw struct TYPE_6__ 
+function i40e_get_link_speed int | vsi struct i40e_vsi *

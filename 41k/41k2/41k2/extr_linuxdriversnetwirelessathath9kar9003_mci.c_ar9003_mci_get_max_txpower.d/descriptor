@@ -1,0 +1,4 @@
+struct TYPE_3__ | concur_tx int 
+struct TYPE_4__ | mci struct TYPE_3__ 
+struct ath_hw | btcoex_hw struct TYPE_4__ 
+function ar9003_mci_get_max_txpower int | ah struct ath_hw * | ctlmode long

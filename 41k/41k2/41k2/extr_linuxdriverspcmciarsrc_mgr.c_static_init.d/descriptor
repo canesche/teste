@@ -1,0 +1,2 @@
+struct pcmcia_socket | resource_setup_done int 
+function static_init int | s struct pcmcia_socket *

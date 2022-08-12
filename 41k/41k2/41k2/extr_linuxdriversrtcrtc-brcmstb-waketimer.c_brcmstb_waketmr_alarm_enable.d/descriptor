@@ -1,0 +1,2 @@
+struct device | dummy int 
+function brcmstb_waketmr_alarm_enable int | dev struct device * | enabled unsigned int

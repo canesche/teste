@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsiqla4xxxql4_os.c_qla4xxx_verify_boot_idx.d/extr_linuxdriversscsiqla4xxxql4_os.c_qla4xxx_verify_boot_idx_O0::qla4xxx_verify_boot_idx(65)"
+  }
+]

@@ -1,0 +1,2 @@
+struct qeth_ipa_info | supported_funcs int | enabled_funcs int 
+function qeth_is_ipa_enabled int | ipa struct qeth_ipa_info * | func enum qeth_ipa_funcs

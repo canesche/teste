@@ -1,0 +1,2 @@
+struct phy_dm_struct | dummy int 
+function odm_sq_process_patch_rt_cid_819x_lenovo int | dm struct phy_dm_struct * | is_cck_rate int | pwdb_all int | path int | RSSI int

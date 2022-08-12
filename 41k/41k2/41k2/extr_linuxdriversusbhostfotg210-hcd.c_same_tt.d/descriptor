@@ -1,0 +1,3 @@
+struct usb_device | ttport long | tt struct TYPE_2__ * 
+struct TYPE_2__ | multi long 
+function same_tt int | dev1 struct usb_device * | dev2 struct usb_device *

@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct bnxt | dummy int 
+function bnxt_vf_rep_rx void | bp struct bnxt * | skb struct sk_buff *

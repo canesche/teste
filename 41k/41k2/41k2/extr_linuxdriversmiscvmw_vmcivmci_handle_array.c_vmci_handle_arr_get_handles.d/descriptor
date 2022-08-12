@@ -1,0 +1,3 @@
+struct vmci_handle_arr | entries struct vmci_handle * | size long 
+struct vmci_handle | dummy int 
+function vmci_handle_arr_get_handles struct vmci_handle * | array struct vmci_handle_arr *

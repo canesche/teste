@@ -1,0 +1,2 @@
+struct cm_mra_msg | offset8 int 
+function cm_mra_get_msg_mraed int | mra_msg struct cm_mra_msg *

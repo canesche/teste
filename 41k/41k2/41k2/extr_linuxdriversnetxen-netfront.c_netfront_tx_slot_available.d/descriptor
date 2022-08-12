@@ -1,0 +1,3 @@
+struct TYPE_2__ | req_prod_pvt int | rsp_cons int 
+struct netfront_queue | tx struct TYPE_2__ 
+function netfront_tx_slot_available int | queue struct netfront_queue *

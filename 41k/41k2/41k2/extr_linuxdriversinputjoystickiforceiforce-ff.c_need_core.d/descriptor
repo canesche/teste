@@ -1,0 +1,4 @@
+struct TYPE_3__ | length long | delay long 
+struct TYPE_4__ | button long | interval long 
+struct ff_effect | direction long | replay struct TYPE_3__ | trigger struct TYPE_4__ 
+function need_core int | old struct ff_effect * | new struct ff_effect *

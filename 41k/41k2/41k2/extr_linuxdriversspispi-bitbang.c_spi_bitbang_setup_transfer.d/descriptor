@@ -1,0 +1,4 @@
+struct spi_transfer | bits_per_word int | speed_hz int 
+struct spi_device | bits_per_word int | max_speed_hz int | controller_state struct spi_bitbang_cs * 
+struct spi_bitbang_cs | nsecs int | txrx_bufs int 
+function spi_bitbang_setup_transfer int | spi struct spi_device * | t struct spi_transfer *

@@ -1,0 +1,4 @@
+struct pkt_attrib | qsel unsigned int | priority long 
+struct dvobj_priv | nr_endpoint int 
+struct _adapter | dvobjpriv struct dvobj_priv 
+function r8712_do_queue_select void | padapter struct _adapter * | pattrib struct pkt_attrib *

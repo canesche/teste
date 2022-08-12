@@ -1,0 +1,3 @@
+struct bna_rx_mod | rx_free_count long | rxp_free_count long | rxq_free_count int 
+struct bna_rx_config | rxp_type long | num_paths long 
+function bna_rx_res_check int | rx_mod struct bna_rx_mod * | rx_cfg struct bna_rx_config *

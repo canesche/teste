@@ -1,0 +1,3 @@
+struct TYPE_2__ | interface_type int | cable_type int 
+struct be_adapter | phy struct TYPE_2__ 
+function be_get_port_type int | adapter struct be_adapter *

@@ -1,0 +1,2 @@
+struct saa7164_port | std int 
+function saa7164_g_std int | port struct saa7164_port * | id int *

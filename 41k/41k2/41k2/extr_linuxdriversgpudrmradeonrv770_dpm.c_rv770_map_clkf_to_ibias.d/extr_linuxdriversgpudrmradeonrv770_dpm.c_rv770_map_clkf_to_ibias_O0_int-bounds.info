@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversgpudrmradeonrv770_dpm.c_rv770_map_clkf_to_ibias.d/extr_linuxdriversgpudrmradeonrv770_dpm.c_rv770_map_clkf_to_ibias_O0::rv770_map_clkf_to_ibias(62)"
+  }
+]

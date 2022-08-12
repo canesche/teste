@@ -1,0 +1,2 @@
+struct usb_device | dummy int 
+function usb_enable_lpm void | udev struct usb_device *

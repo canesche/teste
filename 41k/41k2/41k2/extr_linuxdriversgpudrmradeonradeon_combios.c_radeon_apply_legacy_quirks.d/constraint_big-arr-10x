@@ -1,0 +1,1 @@
+value(bios_index) == 10, length(legacy_connector) == 100, length(dev) == 100, length(ddc_i2c) == 100, length(hpd) == 100

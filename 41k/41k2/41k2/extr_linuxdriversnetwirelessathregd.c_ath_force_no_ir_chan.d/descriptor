@@ -1,0 +1,2 @@
+struct ieee80211_channel | flags int 
+function ath_force_no_ir_chan void | ch struct ieee80211_channel *

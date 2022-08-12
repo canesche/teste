@@ -1,0 +1,3 @@
+struct sk_buff | len long 
+struct rtl8169_private | mac_version long 
+function rtl_test_hw_pad_bug int | tp struct rtl8169_private * | skb struct sk_buff *

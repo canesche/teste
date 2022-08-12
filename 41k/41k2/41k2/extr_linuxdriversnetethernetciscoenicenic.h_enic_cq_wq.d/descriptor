@@ -1,0 +1,2 @@
+struct enic | rq_count unsigned int 
+function enic_cq_wq unsigned int | enic struct enic * | wq unsigned int

@@ -1,0 +1,2 @@
+struct sd | dummy int 
+function ov7660_start int | sd struct sd *

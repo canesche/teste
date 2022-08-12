@@ -1,0 +1,2 @@
+struct mlxsw_sp | dummy int 
+function mlxsw_sp_router_neigh_ent_ipv6_process void | mlxsw_sp struct mlxsw_sp * | rauhtd_pl char * | rec_index int

@@ -1,0 +1,2 @@
+struct biquad2_state | z2 long | z1 long | b2 void * | b1 void * | a2 void * | a1 void * | gain void * 
+function biquad2_init void | bq struct biquad2_state * | gain void * | a1 void * | a2 void * | b1 void * | b2 void *

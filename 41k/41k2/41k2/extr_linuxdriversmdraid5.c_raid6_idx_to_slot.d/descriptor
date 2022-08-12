@@ -1,0 +1,2 @@
+struct stripe_head | pd_idx int | qd_idx int | ddf_layout long 
+function raid6_idx_to_slot int | idx int | sh struct stripe_head * | count int * | syndrome_disks int

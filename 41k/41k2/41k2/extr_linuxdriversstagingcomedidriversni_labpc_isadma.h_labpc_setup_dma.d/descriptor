@@ -1,0 +1,3 @@
+struct comedi_subdevice | dummy int 
+struct comedi_device | dummy int 
+function labpc_setup_dma void | dev struct comedi_device * | s struct comedi_subdevice *

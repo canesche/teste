@@ -1,0 +1,2 @@
+struct gfar_private | errata int 
+function gfar_has_errata int | priv struct gfar_private * | err enum gfar_errata

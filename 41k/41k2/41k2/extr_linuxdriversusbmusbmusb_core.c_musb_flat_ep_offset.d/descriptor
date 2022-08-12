@@ -1,0 +1,1 @@
+function musb_flat_ep_offset long | epnum int | offset long

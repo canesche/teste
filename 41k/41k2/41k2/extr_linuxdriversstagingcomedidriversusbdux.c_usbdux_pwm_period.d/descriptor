@@ -1,0 +1,4 @@
+struct usbdux_private | pwm_delay int | pwm_period unsigned int 
+struct comedi_subdevice | dummy int 
+struct comedi_device | private struct usbdux_private * 
+function usbdux_pwm_period int | dev struct comedi_device * | s struct comedi_subdevice * | period unsigned int

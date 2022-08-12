@@ -1,0 +1,2 @@
+struct fsl_usb2_platform_data | dummy int 
+function fsl_set_accessors void | pdata struct fsl_usb2_platform_data *

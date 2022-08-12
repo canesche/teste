@@ -1,0 +1,3 @@
+struct pci_dev | device int 
+struct dw_pci_controller | bus_num int | bus_cfg int 
+function mfld_setup int | pdev struct pci_dev * | c struct dw_pci_controller *

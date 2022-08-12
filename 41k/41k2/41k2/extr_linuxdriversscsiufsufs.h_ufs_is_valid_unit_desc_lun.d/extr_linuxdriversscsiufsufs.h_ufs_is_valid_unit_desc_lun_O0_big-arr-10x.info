@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsiufsufs.h_ufs_is_valid_unit_desc_lun.d/extr_linuxdriversscsiufsufs.h_ufs_is_valid_unit_desc_lun_O0::ufs_is_valid_unit_desc_lun(63)"
+  }
+]

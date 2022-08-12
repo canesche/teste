@@ -1,0 +1,4 @@
+struct mlx4_ib_dev | dev struct TYPE_4__ * 
+struct TYPE_3__ | base_proxy_sqpn int 
+struct TYPE_4__ | phys_caps struct TYPE_3__ 
+function is_proxy_qp0 int | dev struct mlx4_ib_dev * | qpn int | slave int

@@ -1,0 +1,3 @@
+struct dwc2_hsotg_ep | target_frame long | frame_overrun int | parent struct dwc2_hsotg * 
+struct dwc2_hsotg | frame_number long 
+function dwc2_gadget_target_frame_elapsed int | hs_ep struct dwc2_hsotg_ep *

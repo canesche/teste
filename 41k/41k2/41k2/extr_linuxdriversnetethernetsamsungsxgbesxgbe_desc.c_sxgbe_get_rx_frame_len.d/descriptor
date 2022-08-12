@@ -1,0 +1,4 @@
+struct TYPE_3__ | pkt_len int 
+struct TYPE_4__ | rx_wb_des23 struct TYPE_3__ 
+struct sxgbe_rx_norm_desc | rdes23 struct TYPE_4__ 
+function sxgbe_get_rx_frame_len int | p struct sxgbe_rx_norm_desc *

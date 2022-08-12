@@ -1,0 +1,2 @@
+struct drm_framebuffer | dummy int 
+function xen_drm_front_fb_to_cookie unsigned long | fb struct drm_framebuffer *

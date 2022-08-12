@@ -1,0 +1,2 @@
+struct usb_hcd | speed long 
+function hcd_index unsigned int | hcd struct usb_hcd *

@@ -1,0 +1,3 @@
+struct event_reader | next_serial_number long 
+struct event_buffer | next_serial_number long 
+function event_available int | b struct event_buffer * | r struct event_reader *

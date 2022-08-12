@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversusbmusbux500_dma.c_ux500_dma_is_compatible.d/extr_linuxdriversusbmusbux500_dma.c_ux500_dma_is_compatible_O0::ux500_dma_is_compatible(64)"
+  }
+]

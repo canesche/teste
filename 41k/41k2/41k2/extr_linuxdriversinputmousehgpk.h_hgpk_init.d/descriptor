@@ -1,0 +1,2 @@
+struct psmouse | dummy int 
+function hgpk_init int | psmouse struct psmouse *

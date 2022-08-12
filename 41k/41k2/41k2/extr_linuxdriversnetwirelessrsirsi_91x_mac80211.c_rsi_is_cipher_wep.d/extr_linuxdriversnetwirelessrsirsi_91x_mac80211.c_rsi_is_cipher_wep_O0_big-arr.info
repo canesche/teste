@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessrsirsi_91x_mac80211.c_rsi_is_cipher_wep.d/extr_linuxdriversnetwirelessrsirsi_91x_mac80211.c_rsi_is_cipher_wep_O0::rsi_is_cipher_wep(65)"
+  }
+]

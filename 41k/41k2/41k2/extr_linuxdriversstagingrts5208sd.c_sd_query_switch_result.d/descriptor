@@ -1,0 +1,2 @@
+struct rtsx_chip | dummy int 
+function sd_query_switch_result int | chip struct rtsx_chip * | func_group long | func_to_switch long | buf long * | buf_len int

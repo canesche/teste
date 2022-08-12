@@ -1,0 +1,2 @@
+struct pci_bus | dummy int 
+function cxl_pci_window_alignment int | bus struct pci_bus * | type unsigned long

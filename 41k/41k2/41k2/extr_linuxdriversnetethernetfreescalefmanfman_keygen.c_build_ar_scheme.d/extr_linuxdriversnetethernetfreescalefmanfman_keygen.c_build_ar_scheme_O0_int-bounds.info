@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetfreescalefmanfman_keygen.c_build_ar_scheme.d/extr_linuxdriversnetethernetfreescalefmanfman_keygen.c_build_ar_scheme_O0::build_ar_scheme(69)"
+  }
+]

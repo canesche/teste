@@ -1,0 +1,2 @@
+struct of_changeset_entry | dummy int 
+function __of_changeset_entry_dump void | ce struct of_changeset_entry *

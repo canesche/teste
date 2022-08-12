@@ -1,0 +1,1 @@
+function ath10k_usb_get_logical_pipe_num int | ep_address int | urb_count int *

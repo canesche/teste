@@ -1,0 +1,4 @@
+struct TYPE_3__ | initiator int 
+struct TYPE_4__ | type long | servparams struct TYPE_3__ | imagepair int 
+struct fc_prli_s | parampage struct TYPE_4__ 
+function fc_prli_parse enum fc_parse_status | prli struct fc_prli_s *

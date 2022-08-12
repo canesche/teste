@@ -1,0 +1,5 @@
+struct TYPE_5__ | length int 
+struct TYPE_6__ | bits_per_pixel int | green struct TYPE_5__ 
+struct TYPE_4__ | len unsigned int 
+struct fb_info | pseudo_palette unsigned int * | var struct TYPE_6__ | cmap struct TYPE_4__ 
+function vivid_fb_setcolreg int | regno unsigned int | red unsigned int | green unsigned int | blue unsigned int | transp unsigned int | info struct fb_info *

@@ -1,0 +1,4 @@
+struct v4l2_rect | left int | height int | width int | top int 
+struct TYPE_2__ | left int | top int | width int | height int 
+struct v4l2_clip | c struct TYPE_2__ 
+function btcx_screen_clips int | swidth int | sheight int | win struct v4l2_rect * | clips struct v4l2_clip * | n unsigned int

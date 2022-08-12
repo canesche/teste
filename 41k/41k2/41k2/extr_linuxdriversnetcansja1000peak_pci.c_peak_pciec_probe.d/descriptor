@@ -1,0 +1,3 @@
+struct pci_dev | dummy int 
+struct net_device | dummy int 
+function peak_pciec_probe int | pdev struct pci_dev * | dev struct net_device *

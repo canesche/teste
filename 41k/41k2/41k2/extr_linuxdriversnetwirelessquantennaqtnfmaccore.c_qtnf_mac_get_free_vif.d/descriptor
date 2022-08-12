@@ -1,0 +1,4 @@
+struct qtnf_wmac | iflist struct qtnf_vif * 
+struct TYPE_2__ | iftype long 
+struct qtnf_vif | wdev struct TYPE_2__ 
+function qtnf_mac_get_free_vif struct qtnf_vif * | mac struct qtnf_wmac *

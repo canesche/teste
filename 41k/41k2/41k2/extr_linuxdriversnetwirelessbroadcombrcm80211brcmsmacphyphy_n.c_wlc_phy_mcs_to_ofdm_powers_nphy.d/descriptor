@@ -1,0 +1,1 @@
+function wlc_phy_mcs_to_ofdm_powers_nphy void | power unsigned long * | rate_ofdm_start unsigned long | rate_ofdm_end unsigned long | rate_mcs_start unsigned long

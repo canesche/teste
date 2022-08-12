@@ -1,0 +1,2 @@
+struct synquacer_i2c | msg_idx int | msg_num int 
+function is_lastmsg int | i2c struct synquacer_i2c *

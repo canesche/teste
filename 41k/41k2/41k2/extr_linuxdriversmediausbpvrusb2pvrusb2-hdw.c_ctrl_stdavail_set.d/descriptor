@@ -1,0 +1,6 @@
+struct TYPE_6__ | valid_bits int 
+struct TYPE_4__ | type_bitmask struct TYPE_6__ 
+struct TYPE_5__ | def struct TYPE_4__ 
+struct pvr2_hdw | std_mask_avail int | std_info_cur struct TYPE_5__ 
+struct pvr2_ctrl | hdw struct pvr2_hdw * 
+function ctrl_stdavail_set int | cptr struct pvr2_ctrl * | m int | v int

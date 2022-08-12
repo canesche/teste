@@ -1,0 +1,2 @@
+struct davinci_i2c_dev | dummy int 
+function i2c_davinci_cpufreq_deregister void | dev struct davinci_i2c_dev *

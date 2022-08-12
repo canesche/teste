@@ -1,0 +1,2 @@
+struct mtd_info | priv void * 
+function phram_point int | mtd struct mtd_info * | from int | len unsigned long | retlen unsigned long * | virt void ** | phys int *

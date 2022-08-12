@@ -1,0 +1,3 @@
+struct TYPE_5__ | xmit_size int 
+struct TYPE_6__ | mdmreg int * 
+function isdn_tty_check_ats int | mreg int | mval int | info struct TYPE_5__ * | m struct TYPE_6__ *

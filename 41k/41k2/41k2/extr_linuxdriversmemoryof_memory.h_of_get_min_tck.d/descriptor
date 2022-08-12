@@ -1,0 +1,4 @@
+struct lpddr2_min_tck | dummy int 
+struct device_node | dummy int 
+struct device | dummy int 
+function of_get_min_tck const struct lpddr2_min_tck * | np struct device_node * | dev struct device *

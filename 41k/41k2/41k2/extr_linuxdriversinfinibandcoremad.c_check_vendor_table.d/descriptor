@@ -1,0 +1,2 @@
+struct ib_mad_mgmt_vendor_class_table | vendor_class long * 
+function check_vendor_table int | vendor struct ib_mad_mgmt_vendor_class_table *

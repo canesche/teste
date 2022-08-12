@@ -1,0 +1,2 @@
+struct ir_raw_event | pulse long 
+function is_transition int | x struct ir_raw_event * | y struct ir_raw_event *

@@ -1,0 +1,3 @@
+struct se_cmd | prot_checks int 
+struct qla_tgt_cmd | se_cmd struct se_cmd 
+function tcm_qla2xxx_dif_tags int | cmd struct qla_tgt_cmd * | pfw_prot_opts int *

@@ -1,0 +1,4 @@
+struct mic_device | smpt struct TYPE_4__ * 
+struct TYPE_3__ | num_reg int | page_size int 
+struct TYPE_4__ | info struct TYPE_3__ 
+function mic_max_system_memory int | mdev struct mic_device *

@@ -1,0 +1,4 @@
+struct TYPE_2__ | sgi int | ch_offset int | bwmode int | ht_option int 
+struct sta_info | htpriv struct TYPE_2__ | raid int | qos_option int 
+struct pkt_attrib | retry_ctrl void * | ampdu_en void * | sgi int | ch_offset int | bwmode int | raid int | ht_en int | qos_en int | triggered long | eosp long | mdata long 
+function update_attrib_phy_info void | pattrib struct pkt_attrib * | psta struct sta_info *

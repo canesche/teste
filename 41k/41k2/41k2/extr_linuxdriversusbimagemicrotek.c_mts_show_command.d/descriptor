@@ -1,0 +1,2 @@
+struct scsi_cmnd | dummy int 
+function mts_show_command void | dummy struct scsi_cmnd *

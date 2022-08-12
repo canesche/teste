@@ -1,0 +1,2 @@
+struct il_priv | dummy int 
+function il_get_debug_level int | il struct il_priv *

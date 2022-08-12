@@ -1,0 +1,2 @@
+struct s5p_jpeg_buffer | curr long | size long | data long 
+function get_byte int | buf struct s5p_jpeg_buffer *

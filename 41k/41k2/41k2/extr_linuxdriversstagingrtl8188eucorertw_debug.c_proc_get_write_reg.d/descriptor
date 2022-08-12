@@ -1,0 +1,1 @@
+function proc_get_write_reg int | page char * | start char ** | offset int | count int | eof int * | data void *

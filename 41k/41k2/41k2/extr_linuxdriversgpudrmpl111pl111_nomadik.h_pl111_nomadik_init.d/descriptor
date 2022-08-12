@@ -1,0 +1,2 @@
+struct device | dummy int 
+function pl111_nomadik_init void | dev struct device *

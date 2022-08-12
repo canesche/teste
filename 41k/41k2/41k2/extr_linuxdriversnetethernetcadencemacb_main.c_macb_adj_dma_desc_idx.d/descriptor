@@ -1,0 +1,2 @@
+struct macb | dummy int 
+function macb_adj_dma_desc_idx unsigned int | bp struct macb * | desc_idx unsigned int

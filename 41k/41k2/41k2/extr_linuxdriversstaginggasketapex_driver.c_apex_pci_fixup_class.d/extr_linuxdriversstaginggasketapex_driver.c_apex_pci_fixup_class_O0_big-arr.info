@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstaginggasketapex_driver.c_apex_pci_fixup_class.d/extr_linuxdriversstaginggasketapex_driver.c_apex_pci_fixup_class_O0::apex_pci_fixup_class(62)"
+  }
+]

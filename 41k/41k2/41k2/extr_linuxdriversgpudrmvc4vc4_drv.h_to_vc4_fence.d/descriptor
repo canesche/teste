@@ -1,0 +1,3 @@
+struct vc4_fence | dummy int 
+struct dma_fence | dummy int 
+function to_vc4_fence struct vc4_fence * | fence struct dma_fence *

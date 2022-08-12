@@ -1,0 +1,2 @@
+struct brcmf_pub | dummy int 
+function brcmf_proto_msgbuf_detach void | drvr struct brcmf_pub *

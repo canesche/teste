@@ -1,0 +1,4 @@
+struct ath_softc | sc_ah struct TYPE_4__ * | ps_enabled long 
+struct TYPE_3__ | hw_caps int 
+struct TYPE_4__ | caps struct TYPE_3__ 
+function ath9k_check_auto_sleep int | sc struct ath_softc *

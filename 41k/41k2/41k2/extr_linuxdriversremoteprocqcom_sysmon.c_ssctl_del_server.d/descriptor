@@ -1,0 +1,4 @@
+struct qmi_service | priv struct qcom_sysmon * 
+struct qmi_handle | dummy int 
+struct qcom_sysmon | ssctl_version long 
+function ssctl_del_server void | qmi struct qmi_handle * | svc struct qmi_service *

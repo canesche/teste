@@ -1,0 +1,2 @@
+struct ftgmac100 | tx_clean_pointer int | tx_pointer int | tx_q_entries int 
+function ftgmac100_tx_buf_avail int | priv struct ftgmac100 *

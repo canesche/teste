@@ -1,0 +1,2 @@
+struct mii_phy | dummy int 
+function bcm5400_suspend int | phy struct mii_phy *

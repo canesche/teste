@@ -1,0 +1,2 @@
+struct pstore | exceptions_per_area int 
+function area_location int | ps struct pstore * | area int

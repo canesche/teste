@@ -1,0 +1,2 @@
+struct comedi_cmd | stop_src long | stop_arg long 
+function use_hw_sample_counter int | cmd struct comedi_cmd *

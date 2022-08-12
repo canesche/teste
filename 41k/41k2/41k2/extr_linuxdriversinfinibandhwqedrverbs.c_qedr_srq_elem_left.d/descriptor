@@ -1,0 +1,2 @@
+struct qedr_srq_hwq_info | max_wr long | wr_cons_cnt long | wr_prod_cnt long 
+function qedr_srq_elem_left long | hw_srq struct qedr_srq_hwq_info *

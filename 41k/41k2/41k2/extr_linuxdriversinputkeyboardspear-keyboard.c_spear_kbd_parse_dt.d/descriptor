@@ -1,0 +1,3 @@
+struct spear_kbd | dummy int 
+struct platform_device | dummy int 
+function spear_kbd_parse_dt int | pdev struct platform_device * | kbd struct spear_kbd *

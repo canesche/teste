@@ -1,0 +1,7 @@
+struct ahc_tmode_tstate | auto_negotiate int 
+struct ahc_softc | features int 
+struct TYPE_4__ | period long | width long | offset long | ppr_options long 
+struct TYPE_3__ | width long | period long | offset long | ppr_options long 
+struct ahc_initiator_tinfo | goal struct TYPE_4__ | curr struct TYPE_3__ 
+struct ahc_devinfo | target_mask int 
+function ahc_update_neg_request int | ahc struct ahc_softc * | devinfo struct ahc_devinfo * | tstate struct ahc_tmode_tstate * | tinfo struct ahc_initiator_tinfo * | neg_type long

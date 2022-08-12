@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsimpt3sasmpt3sas_ctl.c__ctl_check_event_type.d/extr_linuxdriversscsimpt3sasmpt3sas_ctl.c__ctl_check_event_type_O0::_ctl_check_event_type(64)"
+  }
+]

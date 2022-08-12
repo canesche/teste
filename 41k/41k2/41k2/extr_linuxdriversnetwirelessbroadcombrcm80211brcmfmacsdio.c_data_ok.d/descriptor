@@ -1,0 +1,2 @@
+struct brcmf_sdio | tx_seq long | tx_max long 
+function data_ok int | bus struct brcmf_sdio *

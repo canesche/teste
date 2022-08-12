@@ -1,0 +1,1 @@
+function pqi_is_external_raid_addr int | scsi3addr long *

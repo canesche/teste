@@ -1,0 +1,4 @@
+struct TYPE_3__ | pix_order long 
+struct TYPE_4__ | if_type long | ycbcr struct TYPE_3__ 
+struct vpfe_ccdc | ccdc_cfg struct TYPE_4__ 
+function vpfe_ccdc_get_pixel_format int | ccdc struct vpfe_ccdc *

@@ -1,0 +1,3 @@
+struct sec_platform_data | dummy int 
+struct platform_device | dummy int 
+function s5m8767_pmic_dt_parse_pdata int | pdev struct platform_device * | pdata struct sec_platform_data *

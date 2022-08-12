@@ -1,0 +1,2 @@
+struct hid_device | product long 
+function sensor_hub_report_fixup int * | hdev struct hid_device * | rdesc int * | rsize unsigned int *

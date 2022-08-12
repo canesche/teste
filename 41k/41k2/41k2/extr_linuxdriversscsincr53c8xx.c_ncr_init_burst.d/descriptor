@@ -1,0 +1,2 @@
+struct ncb | rv_ctest0 int | rv_dmode int | rv_ctest5 int 
+function ncr_init_burst void | np struct ncb * | bc int

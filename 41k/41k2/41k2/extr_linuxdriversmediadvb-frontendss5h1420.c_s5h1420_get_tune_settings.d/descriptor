@@ -1,0 +1,4 @@
+struct dvb_frontend_tune_settings | min_delay_ms int | step_size int | max_drift int 
+struct dtv_frontend_properties | symbol_rate int 
+struct dvb_frontend | dtv_property_cache struct dtv_frontend_properties 
+function s5h1420_get_tune_settings int | fe struct dvb_frontend * | fesettings struct dvb_frontend_tune_settings *

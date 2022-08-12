@@ -1,0 +1,2 @@
+struct efx_nic | dummy int 
+function siena_mem_bar unsigned int | efx struct efx_nic *

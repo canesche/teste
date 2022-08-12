@@ -1,0 +1,3 @@
+struct qlcnic_esw_func_cfg | vlan_id long | discard_tagged long 
+struct qlcnic_adapter | tx_pvid long | rx_pvid long | flags int 
+function qlcnic_set_vlan_config void | adapter struct qlcnic_adapter * | esw_cfg struct qlcnic_esw_func_cfg *

@@ -1,0 +1,2 @@
+struct dm_target | num_write_same_bios int 
+function get_num_write_same_bios unsigned int | ti struct dm_target *

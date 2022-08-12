@@ -1,0 +1,2 @@
+struct imx_media_fim | dummy int 
+function fim_request_input_capture int | fim struct imx_media_fim *

@@ -1,0 +1,3 @@
+struct spmi_voltage_set_points | count int | n_voltages unsigned int | range struct spmi_voltage_range * 
+struct spmi_voltage_range | set_point_max_uV unsigned int | set_point_min_uV unsigned int | step_uV unsigned int | n_voltages unsigned int 
+function spmi_calculate_num_voltages void | points struct spmi_voltage_set_points *

@@ -1,0 +1,2 @@
+struct dwc2_hsotg | dummy int 
+function dwc2_hcd_get_future_frame_number int | hsotg struct dwc2_hsotg * | us int

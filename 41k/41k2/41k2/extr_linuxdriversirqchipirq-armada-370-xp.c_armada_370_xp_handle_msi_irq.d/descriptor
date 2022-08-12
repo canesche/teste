@@ -1,0 +1,2 @@
+struct pt_regs | dummy int 
+function armada_370_xp_handle_msi_irq void | r struct pt_regs * | b int

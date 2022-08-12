@@ -1,0 +1,1 @@
+function pwm_freq_from_reg unsigned int | reg int | clkin int

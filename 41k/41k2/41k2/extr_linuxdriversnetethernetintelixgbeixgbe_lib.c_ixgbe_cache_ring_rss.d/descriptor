@@ -1,0 +1,5 @@
+struct ixgbe_adapter | num_rx_queues int | num_tx_queues int | num_xdp_queues int | xdp_ring struct TYPE_6__ ** | tx_ring struct TYPE_5__ ** | netdev int | rx_ring struct TYPE_4__ ** 
+struct TYPE_6__ | reg_idx int 
+struct TYPE_5__ | reg_idx int 
+struct TYPE_4__ | reg_idx int | netdev int 
+function ixgbe_cache_ring_rss int | adapter struct ixgbe_adapter *

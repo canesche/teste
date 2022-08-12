@@ -1,0 +1,3 @@
+struct platform_device | dummy int 
+struct dbx500_regulator_info | dummy int 
+function ux500_regulator_debug_init int | pdev struct platform_device * | regulator_info struct dbx500_regulator_info * | num_regulators int

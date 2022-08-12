@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function bnx2x_vfpf_set_mcast int | dev struct net_device *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmemoryti-aemif.c_aemif_cycles_to_nsec.d/extr_linuxdriversmemoryti-aemif.c_aemif_cycles_to_nsec_O0::aemif_cycles_to_nsec(61)"
+  }
+]

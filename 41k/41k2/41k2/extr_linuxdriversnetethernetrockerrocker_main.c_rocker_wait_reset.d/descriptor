@@ -1,0 +1,2 @@
+struct rocker_wait | done int | nowait int 
+function rocker_wait_reset void | wait struct rocker_wait *

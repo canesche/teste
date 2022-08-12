@@ -1,0 +1,2 @@
+struct vpfe_ipipe_cfa | hpf_thr_2dir long | hpf_slp_2dir long | hp_mix_thr_2dir long | hp_mix_slope_2dir long | dir_thr_2dir long | dir_slope_2dir long | nd_wt_2dir long | hue_fract_daa long | edge_thr_daa long | thr_min_daa long | thr_slope_daa long | slope_min_daa long | slope_slope_daa long | lp_wt_daa long 
+function ipipe_validate_cfa_params int | cfa struct vpfe_ipipe_cfa *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 85,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 85,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetamazonenaena_com.c_ena_com_config_default_interrupt_moderation_table.d/extr_linuxdriversnetethernetamazonenaena_com.c_ena_com_config_default_interrupt_moderation_table_O0::ena_com_config_default_interrupt_moderation_table(82)"
+  }
+]

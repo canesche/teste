@@ -1,0 +1,3 @@
+struct regmux | dummy int 
+struct platform_device | dummy int 
+function i2c_mux_reg_probe_dt int | mux struct regmux * | pdev struct platform_device *

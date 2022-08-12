@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function rtl8xxxu_set_rts_threshold int | hw struct ieee80211_hw * | rts int

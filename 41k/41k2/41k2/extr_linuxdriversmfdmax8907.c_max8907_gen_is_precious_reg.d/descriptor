@@ -1,0 +1,2 @@
+struct device | dummy int 
+function max8907_gen_is_precious_reg int | dev struct device * | reg unsigned int

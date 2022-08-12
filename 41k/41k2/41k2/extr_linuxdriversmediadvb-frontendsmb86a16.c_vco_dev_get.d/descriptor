@@ -1,0 +1,2 @@
+struct mb86a16_state | dummy int 
+function vco_dev_get unsigned char | state struct mb86a16_state * | smrt int

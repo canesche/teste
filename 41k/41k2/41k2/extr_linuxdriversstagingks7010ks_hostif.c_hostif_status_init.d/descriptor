@@ -1,0 +1,2 @@
+struct ks_wlan_private | current_rate int | connect_status int | infra_status long 
+function hostif_status_init void | priv struct ks_wlan_private *

@@ -1,0 +1,2 @@
+struct spi_controller | dummy int 
+function of_register_spi_devices void | ctlr struct spi_controller *

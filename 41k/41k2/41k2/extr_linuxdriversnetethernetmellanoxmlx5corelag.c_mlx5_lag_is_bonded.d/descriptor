@@ -1,0 +1,2 @@
+struct mlx5_lag | flags int 
+function mlx5_lag_is_bonded int | ldev struct mlx5_lag *

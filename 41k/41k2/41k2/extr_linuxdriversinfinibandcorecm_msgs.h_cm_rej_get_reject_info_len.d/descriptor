@@ -1,0 +1,2 @@
+struct cm_rej_msg | offset9 int 
+function cm_rej_get_reject_info_len int | rej_msg struct cm_rej_msg *

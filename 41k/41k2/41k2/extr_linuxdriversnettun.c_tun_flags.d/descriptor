@@ -1,0 +1,2 @@
+struct tun_struct | flags int 
+function tun_flags int | tun struct tun_struct *

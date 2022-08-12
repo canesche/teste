@@ -1,0 +1,3 @@
+struct uvc_clock | last_sof int | sof_offset int | count long | head long 
+struct uvc_streaming | clock struct uvc_clock 
+function uvc_video_clock_reset void | stream struct uvc_streaming *

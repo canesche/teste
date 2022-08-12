@@ -1,0 +1,3 @@
+struct aq_stats_s | dummy int 
+struct aq_hw_s | curr_stats struct aq_stats_s 
+function hw_atl_utils_get_hw_stats struct aq_stats_s * | self struct aq_hw_s *

@@ -1,0 +1,2 @@
+struct sti_mixer | id int 
+function sti_mixer_to_str const char * | mixer struct sti_mixer *

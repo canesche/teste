@@ -1,0 +1,1 @@
+function bmi160_to_sensor enum bmi160_sensor_type | iio_type enum iio_chan_type

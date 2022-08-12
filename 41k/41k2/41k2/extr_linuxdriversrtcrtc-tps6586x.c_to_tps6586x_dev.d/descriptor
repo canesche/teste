@@ -1,0 +1,2 @@
+struct device | parent struct device * 
+function to_tps6586x_dev struct device * | dev struct device *

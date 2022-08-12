@@ -1,0 +1,3 @@
+struct platform_device | dummy int 
+struct arm_smmu_device | dummy int 
+function arm_smmu_device_acpi_probe int | pdev struct platform_device * | smmu struct arm_smmu_device *

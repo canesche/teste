@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function _driver_stats_names_seq_stop void | s struct seq_file * | v void *

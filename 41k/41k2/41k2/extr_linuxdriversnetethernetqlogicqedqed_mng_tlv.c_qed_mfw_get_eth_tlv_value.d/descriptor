@@ -1,0 +1,4 @@
+struct qed_tlv_parsed_buf | p_val int * 
+struct qed_mfw_tlv_eth | num_rxqs_full int | num_rxqs_full_set int | num_txqs_full int | num_txqs_full_set int | rxqs_empty int | rxqs_empty_set int | txqs_empty int | txqs_empty_set int | iov_offload int | iov_offload_set int | rx_descr_qdepth int | rx_descr_qdepth_set int | tx_descr_qdepth int | tx_descr_qdepth_set int | tcp6_offloads int | tcp6_offloads_set int | tcp4_offloads int | tcp4_offloads_set int | netq_count int | netq_count_set int | rx_descr_size int | rx_descr_size_set int | tx_descr_size int | tx_descr_size_set int | prom_mode int | prom_mode_set int | lso_minseg_size int | lso_minseg_size_set int | lso_maxoff_size int | lso_maxoff_size_set int 
+struct qed_drv_tlv_hdr | tlv_type int 
+function qed_mfw_get_eth_tlv_value int | p_tlv struct qed_drv_tlv_hdr * | p_drv_buf struct qed_mfw_tlv_eth * | p_buf struct qed_tlv_parsed_buf *

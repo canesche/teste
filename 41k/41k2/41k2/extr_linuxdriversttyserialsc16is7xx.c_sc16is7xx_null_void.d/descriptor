@@ -1,0 +1,2 @@
+struct uart_port | dummy int 
+function sc16is7xx_null_void void | port struct uart_port *

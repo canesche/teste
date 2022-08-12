@@ -1,0 +1,4 @@
+struct TYPE_3__ | psxmitwait int | psrcvpkts int | psxmitpkts int | psrcvdata int | psxmitdata int 
+struct TYPE_4__ | counter_cache struct TYPE_3__ 
+struct qib_pportdata | cong_stats struct TYPE_4__ 
+function get_cache_hw_sample_counters int | ppd struct qib_pportdata * | sel int

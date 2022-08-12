@@ -1,0 +1,2 @@
+struct usb_hub | dummy int 
+function hub_handle_remote_wakeup int | hub struct usb_hub * | port unsigned int | portstatus int | portchange int

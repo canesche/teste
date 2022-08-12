@@ -1,0 +1,2 @@
+struct sdw_bus | dummy int 
+function sdw_acpi_find_slaves int | bus struct sdw_bus *

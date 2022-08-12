@@ -1,0 +1,2 @@
+struct mac_device_info | dummy int 
+function dwmac100_pmt void | hw struct mac_device_info * | mode unsigned long

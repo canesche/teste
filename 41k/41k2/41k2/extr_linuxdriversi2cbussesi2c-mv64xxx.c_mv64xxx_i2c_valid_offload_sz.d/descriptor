@@ -1,0 +1,2 @@
+struct i2c_msg | len int 
+function mv64xxx_i2c_valid_offload_sz int | msg struct i2c_msg *

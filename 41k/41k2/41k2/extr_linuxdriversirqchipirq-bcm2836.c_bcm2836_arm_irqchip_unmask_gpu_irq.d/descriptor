@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function bcm2836_arm_irqchip_unmask_gpu_irq void | d struct irq_data *

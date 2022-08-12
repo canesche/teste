@@ -1,0 +1,3 @@
+struct TYPE_2__ | q_len int 
+struct snd_queue | dmem struct TYPE_2__ 
+function nicvf_get_nxt_sqentry int | sq struct snd_queue * | qentry int

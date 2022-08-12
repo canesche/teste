@@ -1,0 +1,2 @@
+struct nfp_cpp_area | dummy int 
+function nfp6000_area_cleanup void | area struct nfp_cpp_area *

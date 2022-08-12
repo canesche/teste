@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetintelixgbeixgbe_common.c_ixgbe_convert_bus_speed.d/extr_linuxdriversnetethernetintelixgbeixgbe_common.c_ixgbe_convert_bus_speed_O0::ixgbe_convert_bus_speed(70)"
+  }
+]

@@ -1,0 +1,2 @@
+struct ipoctal_stats | parity_err long | overrun_err long | framing_err long | rcv_break long | rx long | tx long 
+function ipoctal_reset_stats void | stats struct ipoctal_stats *

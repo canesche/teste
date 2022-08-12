@@ -1,0 +1,3 @@
+struct ena_intr_moder_entry | intr_moder_interval int | bytes_per_interval int | pkts_per_interval int 
+struct ena_com_dev | intr_delay_resolution int | intr_moder_tbl struct ena_intr_moder_entry * 
+function ena_com_get_intr_moderation_entry void | ena_dev struct ena_com_dev * | level enum ena_intr_moder_level | entry struct ena_intr_moder_entry *

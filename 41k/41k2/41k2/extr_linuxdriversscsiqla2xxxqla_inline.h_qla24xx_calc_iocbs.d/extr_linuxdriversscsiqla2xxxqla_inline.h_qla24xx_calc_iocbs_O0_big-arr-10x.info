@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsiqla2xxxqla_inline.h_qla24xx_calc_iocbs.d/extr_linuxdriversscsiqla2xxxqla_inline.h_qla24xx_calc_iocbs_O0::qla24xx_calc_iocbs(63)"
+  }
+]

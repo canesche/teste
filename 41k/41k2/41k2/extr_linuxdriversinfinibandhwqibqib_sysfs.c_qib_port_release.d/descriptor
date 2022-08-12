@@ -1,0 +1,2 @@
+struct kobject | dummy int 
+function qib_port_release void | kobj struct kobject *

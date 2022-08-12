@@ -1,0 +1,2 @@
+struct led_classdev | dummy int 
+function global_led_get enum led_brightness | led_cdev struct led_classdev *

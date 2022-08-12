@@ -1,0 +1,4 @@
+struct TYPE_2__ | pri_margin int | min_pri int | max_pri int 
+struct mt76x2_dfs_pattern_detector | region int | sw_dpd_params struct TYPE_2__ 
+struct mt76x2_dev | dfs_pd struct mt76x2_dfs_pattern_detector 
+function mt76x2_dfs_init_sw_detector void | dev struct mt76x2_dev *

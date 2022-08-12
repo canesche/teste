@@ -1,0 +1,2 @@
+struct device | dummy int 
+function ses_remove int | dev struct device *

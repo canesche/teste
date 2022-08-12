@@ -1,0 +1,2 @@
+struct rockchip_pin_ctrl | type int 
+function rockchip_pinconf_pull_valid int | ctrl struct rockchip_pin_ctrl * | pull enum pin_config_param

@@ -1,0 +1,2 @@
+struct dwc2_qh | ep_type long 
+function dbg_qh int | qh struct dwc2_qh *

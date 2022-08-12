@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct file | dummy int 
+function ec_device_release int | inode struct inode * | filp struct file *

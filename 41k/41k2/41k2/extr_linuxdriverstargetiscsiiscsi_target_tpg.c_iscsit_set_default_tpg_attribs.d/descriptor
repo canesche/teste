@@ -1,0 +1,3 @@
+struct iscsi_tpg_attrib | login_keys_workaround int | tpg_enabled_sendtargets int | fabric_prot_type int | t10_pi int | default_erl int | demo_mode_discovery int | prod_mode_write_protect int | demo_mode_write_protect int | cache_dynamic_acls int | generate_node_acls int | default_cmdsn_depth int | netif_timeout int | login_timeout int | authentication int 
+struct iscsi_portal_group | tpg_attrib struct iscsi_tpg_attrib 
+function iscsit_set_default_tpg_attribs void | tpg struct iscsi_portal_group *

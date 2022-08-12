@@ -1,0 +1,2 @@
+struct pcmcia_align_data | mask int | offset int 
+function pcmcia_common_align int | align_data struct pcmcia_align_data * | start int

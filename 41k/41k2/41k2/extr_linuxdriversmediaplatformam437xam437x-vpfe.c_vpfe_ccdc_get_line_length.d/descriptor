@@ -1,0 +1,5 @@
+struct TYPE_5__ | bytesperline unsigned int 
+struct TYPE_4__ | bytesperline unsigned int 
+struct TYPE_6__ | if_type long | ycbcr struct TYPE_5__ | bayer struct TYPE_4__ 
+struct vpfe_ccdc | ccdc_cfg struct TYPE_6__ 
+function vpfe_ccdc_get_line_length unsigned int | ccdc struct vpfe_ccdc *

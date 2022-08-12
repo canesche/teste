@@ -1,0 +1,2 @@
+struct TYPE_3__ | ep_type long | dev_speed long 
+function max_desc_num int | qh struct TYPE_3__ *

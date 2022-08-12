@@ -1,0 +1,4 @@
+struct TYPE_4__ | rnr_retry int | retry_cnt int 
+struct TYPE_3__ | rnr_retry int | retry_cnt int 
+struct rxe_qp | attr struct TYPE_4__ | comp struct TYPE_3__ 
+function reset_retry_counters void | qp struct rxe_qp *

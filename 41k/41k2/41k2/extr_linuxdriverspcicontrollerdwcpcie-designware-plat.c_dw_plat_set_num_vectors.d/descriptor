@@ -1,0 +1,2 @@
+struct pcie_port | num_vectors int 
+function dw_plat_set_num_vectors void | pp struct pcie_port *

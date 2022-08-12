@@ -1,0 +1,3 @@
+struct via82cxxx_dev | via_80w int | via_config struct TYPE_2__ * 
+struct TYPE_2__ | udma_mask int 
+function via_cable_detect void | vdev struct via82cxxx_dev * | u int

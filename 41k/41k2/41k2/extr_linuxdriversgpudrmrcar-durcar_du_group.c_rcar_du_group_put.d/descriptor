@@ -1,0 +1,2 @@
+struct rcar_du_group | use_count int 
+function rcar_du_group_put void | rgrp struct rcar_du_group *

@@ -1,0 +1,2 @@
+struct dmar_domain | flags int 
+function domain_type_is_vm int | domain struct dmar_domain *

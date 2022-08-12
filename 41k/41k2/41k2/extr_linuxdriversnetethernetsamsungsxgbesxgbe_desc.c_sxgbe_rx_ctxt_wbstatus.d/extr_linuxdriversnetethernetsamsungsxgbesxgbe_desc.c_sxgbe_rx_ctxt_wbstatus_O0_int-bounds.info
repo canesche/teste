@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 15,
+    phantoms: 12,
+    exit: true,
+    halt: false,
+    edges: 29,
+    static: {
+      instructions: 72,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 72,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetsamsungsxgbesxgbe_desc.c_sxgbe_rx_ctxt_wbstatus.d/extr_linuxdriversnetethernetsamsungsxgbesxgbe_desc.c_sxgbe_rx_ctxt_wbstatus_O0::sxgbe_rx_ctxt_wbstatus(75)"
+  }
+]

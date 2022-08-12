@@ -1,0 +1,4 @@
+struct dsa_switch | priv struct b53_device * 
+struct bcm_sf2_priv | dummy int 
+struct b53_device | priv struct bcm_sf2_priv * 
+function bcm_sf2_to_priv struct bcm_sf2_priv * | ds struct dsa_switch *

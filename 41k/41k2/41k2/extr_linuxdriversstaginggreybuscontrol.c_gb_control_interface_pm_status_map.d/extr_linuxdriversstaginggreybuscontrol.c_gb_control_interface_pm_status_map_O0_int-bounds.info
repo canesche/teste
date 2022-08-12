@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstaginggreybuscontrol.c_gb_control_interface_pm_status_map.d/extr_linuxdriversstaginggreybuscontrol.c_gb_control_interface_pm_status_map_O0::gb_control_interface_pm_status_map(66)"
+  }
+]

@@ -1,0 +1,2 @@
+struct efx_nic | dummy int 
+function efx_ef10_sriov_flr void | efx struct efx_nic * | vf_i unsigned int

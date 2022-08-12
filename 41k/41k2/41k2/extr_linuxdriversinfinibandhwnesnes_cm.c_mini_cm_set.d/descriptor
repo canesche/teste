@@ -1,0 +1,2 @@
+struct nes_cm_core | mtu int | free_tx_pkt_max int 
+function mini_cm_set int | cm_core struct nes_cm_core * | type int | value int

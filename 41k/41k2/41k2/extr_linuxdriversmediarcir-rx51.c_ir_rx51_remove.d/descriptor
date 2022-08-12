@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function ir_rx51_remove int | dev struct platform_device *

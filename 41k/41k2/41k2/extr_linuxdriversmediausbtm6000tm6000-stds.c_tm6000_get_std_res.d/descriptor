@@ -1,0 +1,2 @@
+struct tm6000_core | norm int | height int | width int 
+function tm6000_get_std_res void | dev struct tm6000_core *

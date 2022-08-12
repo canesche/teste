@@ -1,0 +1,2 @@
+struct snic_tgt | state long 
+function snic_tgt_chkready int | tgt struct snic_tgt *

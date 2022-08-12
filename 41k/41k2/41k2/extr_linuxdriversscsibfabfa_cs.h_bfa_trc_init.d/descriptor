@@ -1,0 +1,2 @@
+struct bfa_trc_mod_s | ntrc int | stopped long | tail long | head long 
+function bfa_trc_init void | trcm struct bfa_trc_mod_s *

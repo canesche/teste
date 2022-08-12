@@ -1,0 +1,4 @@
+struct radeon_semaphore | dummy int 
+struct radeon_ring | dummy int 
+struct radeon_device | dummy int 
+function uvd_v1_0_semaphore_emit int | rdev struct radeon_device * | ring struct radeon_ring * | semaphore struct radeon_semaphore * | emit_wait int

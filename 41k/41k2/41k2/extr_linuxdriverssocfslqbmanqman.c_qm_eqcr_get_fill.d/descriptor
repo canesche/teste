@@ -1,0 +1,3 @@
+struct qm_eqcr | available int 
+struct qm_portal | eqcr struct qm_eqcr 
+function qm_eqcr_get_fill int | portal struct qm_portal *

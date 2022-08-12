@@ -1,0 +1,2 @@
+struct ltr501_gain | scale int | uscale int 
+function ltr501_get_gain_index int | gain struct ltr501_gain * | size int | val int | val2 int

@@ -1,0 +1,2 @@
+struct fbtft_par | dummy int 
+function fbtft_register_backlight void | par struct fbtft_par *

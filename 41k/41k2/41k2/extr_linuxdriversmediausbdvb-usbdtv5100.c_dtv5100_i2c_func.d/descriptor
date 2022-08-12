@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function dtv5100_i2c_func int | adapter struct i2c_adapter *

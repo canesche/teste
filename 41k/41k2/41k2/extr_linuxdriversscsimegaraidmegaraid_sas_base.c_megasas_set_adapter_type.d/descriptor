@@ -1,0 +1,3 @@
+struct megasas_instance | adapter_type void * | pdev struct TYPE_2__ * 
+struct TYPE_2__ | vendor long | device int 
+function megasas_set_adapter_type void | instance struct megasas_instance *

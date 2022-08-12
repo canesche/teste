@@ -1,0 +1,1 @@
+function get_module_event int | module enum fman_event_modules | mod_id int | intr_type enum fman_intr_type

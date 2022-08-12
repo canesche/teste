@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingrtl8192ertl8192ertl_core.c_rtl92e_evm_db_to_percent.d/extr_linuxdriversstagingrtl8192ertl8192ertl_core.c_rtl92e_evm_db_to_percent_O0::rtl92e_evm_db_to_percent(62)"
+  }
+]

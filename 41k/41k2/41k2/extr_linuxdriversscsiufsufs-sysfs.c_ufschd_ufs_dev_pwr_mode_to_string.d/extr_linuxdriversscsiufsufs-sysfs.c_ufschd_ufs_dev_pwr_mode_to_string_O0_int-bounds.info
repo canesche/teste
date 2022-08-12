@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsiufsufs-sysfs.c_ufschd_ufs_dev_pwr_mode_to_string.d/extr_linuxdriversscsiufsufs-sysfs.c_ufschd_ufs_dev_pwr_mode_to_string_O0::ufschd_ufs_dev_pwr_mode_to_string(63)"
+  }
+]

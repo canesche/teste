@@ -1,0 +1,3 @@
+struct TYPE_2__ | max_usec int 
+struct vnic_dev | intr_coal_timer_info struct TYPE_2__ 
+function vnic_dev_get_intr_coal_timer_max int | vdev struct vnic_dev *

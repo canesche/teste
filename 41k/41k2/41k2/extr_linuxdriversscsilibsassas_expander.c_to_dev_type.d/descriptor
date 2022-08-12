@@ -1,0 +1,2 @@
+struct discover_resp | attached_dev_type long | linkrate long | attached_sata_dev long 
+function to_dev_type enum sas_device_type | dr struct discover_resp *

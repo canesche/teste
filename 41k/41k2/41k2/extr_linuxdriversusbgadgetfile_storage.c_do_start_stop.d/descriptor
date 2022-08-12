@@ -1,0 +1,4 @@
+struct fsg_lun | sense_data int 
+struct fsg_dev | cmnd int * | curlun struct fsg_lun * 
+struct TYPE_2__ | removable int 
+function do_start_stop int | fsg struct fsg_dev *

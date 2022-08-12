@@ -1,0 +1,2 @@
+struct stm_data | dummy int 
+function dummy_stm_link int | data struct stm_data * | master unsigned int | channel unsigned int

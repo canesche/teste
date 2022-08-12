@@ -1,0 +1,6 @@
+struct comedi_subdevice | async struct TYPE_2__ * 
+struct comedi_device | pacer struct comedi_8254 * 
+struct comedi_cmd | convert_src long 
+struct comedi_8254 | osc_base unsigned int 
+struct TYPE_2__ | cmd struct comedi_cmd 
+function pci9118_calc_divisors void | dev struct comedi_device * | s struct comedi_subdevice * | tim1 unsigned int * | tim2 unsigned int * | flags unsigned int | chans int | div1 unsigned int * | div2 unsigned int * | chnsshfront unsigned int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediaplatformomap3ispispstat.c_isp_stat_buf_clear.d/extr_linuxdriversmediaplatformomap3ispispstat.c_isp_stat_buf_clear_O0::isp_stat_buf_clear(64)"
+  }
+]

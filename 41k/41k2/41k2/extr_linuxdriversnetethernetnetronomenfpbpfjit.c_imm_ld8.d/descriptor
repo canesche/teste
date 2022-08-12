@@ -1,0 +1,3 @@
+struct nfp_prog | dummy int 
+struct nfp_insn_meta | double_cb int 
+function imm_ld8 int | nfp_prog struct nfp_prog * | meta struct nfp_insn_meta *

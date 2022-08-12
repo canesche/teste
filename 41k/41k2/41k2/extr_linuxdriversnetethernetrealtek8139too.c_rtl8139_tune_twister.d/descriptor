@@ -1,0 +1,3 @@
+struct rtl8139_private | dummy int 
+struct net_device | dummy int 
+function rtl8139_tune_twister void | dev struct net_device * | tp struct rtl8139_private *

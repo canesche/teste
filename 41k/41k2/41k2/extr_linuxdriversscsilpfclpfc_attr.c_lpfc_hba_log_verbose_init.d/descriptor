@@ -1,0 +1,2 @@
+struct lpfc_hba | cfg_log_verbose int 
+function lpfc_hba_log_verbose_init void | phba struct lpfc_hba * | verbose int

@@ -1,0 +1,3 @@
+struct spi_message | dummy int 
+struct spi_master | dummy int 
+function pic32_spi_unprepare_message int | master struct spi_master * | msg struct spi_message *

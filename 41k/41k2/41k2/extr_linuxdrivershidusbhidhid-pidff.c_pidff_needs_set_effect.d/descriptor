@@ -1,0 +1,4 @@
+struct TYPE_3__ | length long | delay long 
+struct TYPE_4__ | interval long | button long 
+struct ff_effect | direction long | replay struct TYPE_3__ | trigger struct TYPE_4__ 
+function pidff_needs_set_effect int | effect struct ff_effect * | old struct ff_effect *

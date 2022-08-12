@@ -1,0 +1,2 @@
+struct mlx5_core_dev | dummy int 
+function mlx5e_get_rep_max_num_channels int | mdev struct mlx5_core_dev *

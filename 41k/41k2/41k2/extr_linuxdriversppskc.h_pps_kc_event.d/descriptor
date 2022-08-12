@@ -1,0 +1,3 @@
+struct pps_event_time | dummy int 
+struct pps_device | dummy int 
+function pps_kc_event void | pps struct pps_device * | ts struct pps_event_time * | event int

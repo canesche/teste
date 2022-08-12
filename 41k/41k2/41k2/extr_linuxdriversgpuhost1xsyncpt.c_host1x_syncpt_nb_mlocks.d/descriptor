@@ -1,0 +1,3 @@
+struct host1x | info struct TYPE_2__ * 
+struct TYPE_2__ | nb_mlocks unsigned int 
+function host1x_syncpt_nb_mlocks unsigned int | host struct host1x *

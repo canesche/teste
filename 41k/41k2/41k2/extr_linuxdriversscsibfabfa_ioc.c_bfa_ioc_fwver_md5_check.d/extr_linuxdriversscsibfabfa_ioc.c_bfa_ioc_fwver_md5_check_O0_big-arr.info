@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsibfabfa_ioc.c_bfa_ioc_fwver_md5_check.d/extr_linuxdriversscsibfabfa_ioc.c_bfa_ioc_fwver_md5_check_O0::bfa_ioc_fwver_md5_check(67)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversiioadcat91-sama5d2_adc.c_at91_adc_get_sample_freq.d/extr_linuxdriversiioadcat91-sama5d2_adc.c_at91_adc_get_sample_freq_O0::at91_adc_get_sample_freq(61)"
+  }
+]

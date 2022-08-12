@@ -1,0 +1,1 @@
+function xhci_is_async_ep int | ep_type unsigned int

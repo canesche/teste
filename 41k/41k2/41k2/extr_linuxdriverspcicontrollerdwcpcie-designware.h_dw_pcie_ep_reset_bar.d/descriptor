@@ -1,0 +1,2 @@
+struct dw_pcie | dummy int 
+function dw_pcie_ep_reset_bar void | pci struct dw_pcie * | bar enum pci_barno

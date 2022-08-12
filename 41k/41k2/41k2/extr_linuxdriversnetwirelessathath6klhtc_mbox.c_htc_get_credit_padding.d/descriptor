@@ -1,0 +1,2 @@
+struct htc_endpoint | conn_flags int 
+function htc_get_credit_padding int | cred_sz unsigned int | len int * | ep struct htc_endpoint *

@@ -1,0 +1,2 @@
+struct netxen_adapter | flags int 
+function netxen_sysfs_validate_mem int | adapter struct netxen_adapter * | offset int | size unsigned long

@@ -1,0 +1,2 @@
+struct sdma_engine | descq_tail long | descq_head long 
+function sdma_empty int | sde struct sdma_engine *

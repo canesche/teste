@@ -1,0 +1,3 @@
+struct cfg80211_wowlan | n_patterns long | magic_pkt long | disconnect long 
+struct ath_softc | dummy int 
+function ath9k_wow_map_triggers int | sc struct ath_softc * | wowlan struct cfg80211_wowlan *

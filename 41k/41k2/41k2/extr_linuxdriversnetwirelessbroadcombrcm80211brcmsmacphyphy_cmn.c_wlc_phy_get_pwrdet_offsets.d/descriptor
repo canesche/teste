@@ -1,0 +1,2 @@
+struct brcms_phy | dummy int 
+function wlc_phy_get_pwrdet_offsets void | pi struct brcms_phy * | cckoffset long * | ofdmoffset long *

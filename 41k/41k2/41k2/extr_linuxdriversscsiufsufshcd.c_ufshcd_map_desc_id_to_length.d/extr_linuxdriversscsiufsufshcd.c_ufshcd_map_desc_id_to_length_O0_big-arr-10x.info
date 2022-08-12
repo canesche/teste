@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsiufsufshcd.c_ufshcd_map_desc_id_to_length.d/extr_linuxdriversscsiufsufshcd.c_ufshcd_map_desc_id_to_length_O0::ufshcd_map_desc_id_to_length(77)"
+  }
+]

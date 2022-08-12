@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessrealtekrtlwifirtl8723behw.c__rtl8723be_get_chnl_group.d/extr_linuxdriversnetwirelessrealtekrtlwifirtl8723behw.c__rtl8723be_get_chnl_group_O0::_rtl8723be_get_chnl_group(61)"
+  }
+]

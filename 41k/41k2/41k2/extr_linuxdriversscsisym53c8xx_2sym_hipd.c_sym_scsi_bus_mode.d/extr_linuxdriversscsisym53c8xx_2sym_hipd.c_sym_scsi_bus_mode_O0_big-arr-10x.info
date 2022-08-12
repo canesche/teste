@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsisym53c8xx_2sym_hipd.c_sym_scsi_bus_mode.d/extr_linuxdriversscsisym53c8xx_2sym_hipd.c_sym_scsi_bus_mode_O0::sym_scsi_bus_mode(63)"
+  }
+]

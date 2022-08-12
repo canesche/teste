@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function usb_disable_xhci_ports void | xhci_pdev struct pci_dev *

@@ -1,0 +1,2 @@
+struct bnxt | dummy int 
+function bnxt_cfg_ntp_filters void | bp struct bnxt *

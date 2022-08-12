@@ -1,0 +1,2 @@
+struct usba_udc | int_enb_cache int 
+function usba_int_enb_get int | udc struct usba_udc *

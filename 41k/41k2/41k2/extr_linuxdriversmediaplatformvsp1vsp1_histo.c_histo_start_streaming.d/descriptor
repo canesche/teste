@@ -1,0 +1,2 @@
+struct vb2_queue | dummy int 
+function histo_start_streaming int | vq struct vb2_queue * | count unsigned int

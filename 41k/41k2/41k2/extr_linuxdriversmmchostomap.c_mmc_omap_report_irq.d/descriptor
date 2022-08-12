@@ -1,0 +1,2 @@
+struct mmc_omap_host | dummy int 
+function mmc_omap_report_irq void | host struct mmc_omap_host * | status int

@@ -1,0 +1,2 @@
+struct ks_net | cmd_reg_cache int | cmd_reg_cache_int int 
+function ks_save_cmd_reg void | ks struct ks_net *

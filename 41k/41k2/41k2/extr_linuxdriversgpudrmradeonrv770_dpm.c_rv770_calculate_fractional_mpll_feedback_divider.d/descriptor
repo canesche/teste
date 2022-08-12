@@ -1,0 +1,2 @@
+struct atom_clock_dividers | post_div int | ref_div int 
+function rv770_calculate_fractional_mpll_feedback_divider void | memory_clock int | reference_clock int | gddr5 int | dividers struct atom_clock_dividers * | clkf int * | clkfrac int *

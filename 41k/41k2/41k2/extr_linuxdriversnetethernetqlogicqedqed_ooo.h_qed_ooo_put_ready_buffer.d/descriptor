@@ -1,0 +1,4 @@
+struct qed_ooo_info | dummy int 
+struct qed_ooo_buffer | dummy int 
+struct qed_hwfn | dummy int 
+function qed_ooo_put_ready_buffer void | p_hwfn struct qed_hwfn * | p_ooo_info struct qed_ooo_info * | p_buffer struct qed_ooo_buffer * | on_tail int

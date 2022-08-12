@@ -1,0 +1,3 @@
+struct TYPE_3__ | btChipType int 
+struct TYPE_4__ | boardInfo struct TYPE_3__ 
+function EXhalbtcoutsrc_SetChipType void | chipType int

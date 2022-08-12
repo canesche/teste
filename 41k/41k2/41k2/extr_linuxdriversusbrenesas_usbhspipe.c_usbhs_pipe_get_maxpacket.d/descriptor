@@ -1,0 +1,2 @@
+struct usbhs_pipe | maxp int 
+function usbhs_pipe_get_maxpacket int | pipe struct usbhs_pipe *

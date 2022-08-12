@@ -1,0 +1,2 @@
+struct mv88e6xxx_chip | dummy int 
+function mv88e6xxx_g2_pvt_write int | chip struct mv88e6xxx_chip * | src_dev int | src_port int | data int

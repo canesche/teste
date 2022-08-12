@@ -1,0 +1,2 @@
+struct cyapa | dummy int 
+function cyapa_start_runtime int | cyapa struct cyapa *

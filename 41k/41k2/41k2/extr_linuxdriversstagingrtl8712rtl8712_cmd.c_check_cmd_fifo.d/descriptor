@@ -1,0 +1,2 @@
+struct _adapter | dummy int 
+function check_cmd_fifo int | padapter struct _adapter * | sz int

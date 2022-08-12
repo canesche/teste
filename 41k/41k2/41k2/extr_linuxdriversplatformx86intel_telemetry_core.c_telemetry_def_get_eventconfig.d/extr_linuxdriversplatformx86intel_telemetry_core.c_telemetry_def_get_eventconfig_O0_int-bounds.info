@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversplatformx86intel_telemetry_core.c_telemetry_def_get_eventconfig.d/extr_linuxdriversplatformx86intel_telemetry_core.c_telemetry_def_get_eventconfig_O0::telemetry_def_get_eventconfig(64)"
+  }
+]

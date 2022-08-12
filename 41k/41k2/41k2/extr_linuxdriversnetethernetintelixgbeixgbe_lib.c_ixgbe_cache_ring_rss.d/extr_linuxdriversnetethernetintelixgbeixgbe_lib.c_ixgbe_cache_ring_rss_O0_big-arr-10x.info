@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetintelixgbeixgbe_lib.c_ixgbe_cache_ring_rss.d/extr_linuxdriversnetethernetintelixgbeixgbe_lib.c_ixgbe_cache_ring_rss_O0::ixgbe_cache_ring_rss(67)"
+  }
+]

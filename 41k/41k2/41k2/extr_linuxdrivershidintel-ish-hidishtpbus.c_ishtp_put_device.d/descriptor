@@ -1,0 +1,2 @@
+struct ishtp_cl_device | reference_count int 
+function ishtp_put_device void | cl_device struct ishtp_cl_device *

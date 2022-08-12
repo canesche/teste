@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdrivershidusbhidhid-pidff.c_pidff_needs_set_ramp.d/extr_linuxdrivershidusbhidhid-pidff.c_pidff_needs_set_ramp_O0::pidff_needs_set_ramp(65)"
+  }
+]

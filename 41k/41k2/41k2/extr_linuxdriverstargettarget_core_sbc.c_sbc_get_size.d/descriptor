@@ -1,0 +1,4 @@
+struct se_cmd | se_dev struct TYPE_4__ * 
+struct TYPE_3__ | block_size int 
+struct TYPE_4__ | dev_attrib struct TYPE_3__ 
+function sbc_get_size int | cmd struct se_cmd * | sectors int

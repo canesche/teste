@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function cxgb_fix_features int | dev struct net_device * | features int

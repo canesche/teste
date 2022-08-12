@@ -1,0 +1,4 @@
+struct mthca_uar | index int 
+struct TYPE_2__ | uarc_size int | uarc_base long 
+struct mthca_dev | uar_table struct TYPE_2__ 
+function mthca_uarc_virt long | dev struct mthca_dev * | uar struct mthca_uar * | page int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetnetronomenfpabm..nfp_app.h_nfp_app_needs_ctrl_vnic.d/extr_linuxdriversnetethernetnetronomenfpabm..nfp_app.h_nfp_app_needs_ctrl_vnic_O0::nfp_app_needs_ctrl_vnic(63)"
+  }
+]

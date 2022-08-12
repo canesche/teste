@@ -1,0 +1,3 @@
+struct iwl_time_quota_cmd | dummy int 
+struct iwl_mvm | dummy int 
+function iwl_mvm_adjust_quota_for_noa void | mvm struct iwl_mvm * | cmd struct iwl_time_quota_cmd *

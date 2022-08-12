@@ -1,0 +1,2 @@
+struct ath_softc | dummy int 
+function ath9k_rng_stop void | sc struct ath_softc *

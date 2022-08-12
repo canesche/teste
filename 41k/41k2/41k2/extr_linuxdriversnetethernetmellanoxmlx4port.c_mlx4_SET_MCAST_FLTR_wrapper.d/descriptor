@@ -1,0 +1,5 @@
+struct mlx4_vhcr | dummy int 
+struct mlx4_dev | dummy int 
+struct mlx4_cmd_mailbox | dummy int 
+struct mlx4_cmd_info | dummy int 
+function mlx4_SET_MCAST_FLTR_wrapper int | dev struct mlx4_dev * | slave int | vhcr struct mlx4_vhcr * | inbox struct mlx4_cmd_mailbox * | outbox struct mlx4_cmd_mailbox * | cmd struct mlx4_cmd_info *

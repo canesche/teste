@@ -1,0 +1,2 @@
+struct lpss8250 | dummy int 
+function qrk_serial_exit_dma void | lpss struct lpss8250 *

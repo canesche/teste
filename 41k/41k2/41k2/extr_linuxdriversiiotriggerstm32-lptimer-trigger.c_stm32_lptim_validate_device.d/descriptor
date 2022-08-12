@@ -1,0 +1,3 @@
+struct iio_trigger | dummy int 
+struct iio_dev | modes int 
+function stm32_lptim_validate_device int | trig struct iio_trigger * | indio_dev struct iio_dev *

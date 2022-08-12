@@ -1,0 +1,2 @@
+struct sdio_func | dummy int 
+function brcmf_sdiod_dummy_irqhandler void | func struct sdio_func *

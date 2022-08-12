@@ -1,0 +1,2 @@
+struct wl3501_card | net_type long 
+function wl3501_fw_cap_info int | this struct wl3501_card *

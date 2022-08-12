@@ -1,0 +1,10 @@
+struct TYPE_10__ | frm_fmt int | stdid int 
+struct TYPE_9__ | storage_mode int | hpitch int | stdid int 
+struct vpif_params | std_info struct TYPE_10__ | video_params struct TYPE_9__ 
+struct video_obj | buf_field long 
+struct TYPE_6__ | field int | sizeimage unsigned int | bytesperline unsigned int 
+struct TYPE_7__ | pix struct TYPE_6__ 
+struct TYPE_8__ | fmt struct TYPE_7__ 
+struct common_obj | ytop_off unsigned int | ybtm_off unsigned int | ctop_off unsigned int | cbtm_off unsigned int | fmt struct TYPE_8__ 
+struct channel_obj | vpifparams struct vpif_params | video struct video_obj | common struct common_obj * 
+function vpif_calculate_offsets void | ch struct channel_obj *

@@ -1,0 +1,2 @@
+struct spi_device | dummy int 
+function gb_spi_setup int | spi struct spi_device *

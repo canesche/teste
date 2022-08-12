@@ -1,0 +1,2 @@
+struct dtv_frontend_properties | code_rate_HP int | code_rate_LP int | modulation int | transmission_mode int | guard_interval int | hierarchy int 
+function compute_tps int | op struct dtv_frontend_properties *

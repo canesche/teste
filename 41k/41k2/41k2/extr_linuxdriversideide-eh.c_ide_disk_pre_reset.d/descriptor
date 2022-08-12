@@ -1,0 +1,2 @@
+struct TYPE_3__ | id int * | special_flags int | mult_count long | dev_flags int | mult_req long 
+function ide_disk_pre_reset void | drive struct TYPE_3__ *

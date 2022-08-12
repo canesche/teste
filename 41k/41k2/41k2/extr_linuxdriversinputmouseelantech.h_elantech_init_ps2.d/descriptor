@@ -1,0 +1,2 @@
+struct psmouse | dummy int 
+function elantech_init_ps2 int | psmouse struct psmouse *

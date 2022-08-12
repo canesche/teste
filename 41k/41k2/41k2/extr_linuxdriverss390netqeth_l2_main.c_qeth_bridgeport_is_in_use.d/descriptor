@@ -1,0 +1,4 @@
+struct TYPE_3__ | hostnotification long | reflect_promisc long | role long 
+struct TYPE_4__ | sbp struct TYPE_3__ 
+struct qeth_card | options struct TYPE_4__ 
+function qeth_bridgeport_is_in_use int | card struct qeth_card *

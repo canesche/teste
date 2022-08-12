@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function asix_get_eeprom_len int | net struct net_device *

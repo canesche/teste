@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function snic_trc_seq_stop void | sfp struct seq_file * | data void *

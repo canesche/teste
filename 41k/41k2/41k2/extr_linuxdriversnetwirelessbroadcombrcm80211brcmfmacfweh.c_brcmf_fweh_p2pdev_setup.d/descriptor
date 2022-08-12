@@ -1,0 +1,4 @@
+struct brcmf_if | drvr struct TYPE_4__ * 
+struct TYPE_3__ | p2pdev_setup_ongoing int 
+struct TYPE_4__ | fweh struct TYPE_3__ 
+function brcmf_fweh_p2pdev_setup void | ifp struct brcmf_if * | ongoing int

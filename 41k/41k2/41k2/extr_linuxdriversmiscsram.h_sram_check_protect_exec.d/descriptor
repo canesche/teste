@@ -1,0 +1,4 @@
+struct sram_reserve | dummy int 
+struct sram_partition | dummy int 
+struct sram_dev | dummy int 
+function sram_check_protect_exec int | sram struct sram_dev * | block struct sram_reserve * | part struct sram_partition *

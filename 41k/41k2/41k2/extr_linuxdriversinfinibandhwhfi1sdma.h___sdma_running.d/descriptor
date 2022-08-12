@@ -1,0 +1,3 @@
+struct TYPE_2__ | current_state long 
+struct sdma_engine | state struct TYPE_2__ 
+function __sdma_running int | engine struct sdma_engine *

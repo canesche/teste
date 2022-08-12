@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversregulatormax77802-regulator.c_max77802_get_opmode_shift.d/extr_linuxdriversregulatormax77802-regulator.c_max77802_get_opmode_shift_O0::max77802_get_opmode_shift(70)"
+  }
+]

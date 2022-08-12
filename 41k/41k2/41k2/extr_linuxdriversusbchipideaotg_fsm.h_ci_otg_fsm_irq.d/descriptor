@@ -1,0 +1,2 @@
+struct ci_hdrc | dummy int 
+function ci_otg_fsm_irq int | ci struct ci_hdrc *

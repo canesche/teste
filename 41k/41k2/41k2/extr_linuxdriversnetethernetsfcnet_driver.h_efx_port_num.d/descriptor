@@ -1,0 +1,2 @@
+struct efx_nic | port_num unsigned int 
+function efx_port_num unsigned int | efx struct efx_nic *

@@ -1,0 +1,6 @@
+struct TYPE_6__ | size int | num int 
+struct TYPE_5__ | size int | num int 
+struct TYPE_4__ | alignment int | size int | num int 
+struct vchiq_mmal_port | current_buffer struct TYPE_6__ | recommended_buffer struct TYPE_5__ | minimum_buffer struct TYPE_4__ | enabled int | index int | type int 
+struct mmal_port | userdata long | buffer_size int | buffer_num int | buffer_size_recommended int | buffer_num_recommended int | buffer_alignment_min int | buffer_size_min int | buffer_num_min int | is_enabled int | index_all long | index int | type int 
+function port_to_mmal_msg void | port struct vchiq_mmal_port * | p struct mmal_port *

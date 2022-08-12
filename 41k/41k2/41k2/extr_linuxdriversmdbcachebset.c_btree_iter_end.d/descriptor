@@ -1,0 +1,2 @@
+struct btree_iter | used int 
+function btree_iter_end int | iter struct btree_iter *

@@ -1,0 +1,4 @@
+struct scsi_device | handler_data struct clariion_dh_data * 
+struct request | rq_flags int 
+struct clariion_dh_data | lun_state long 
+function clariion_prep_fn int | sdev struct scsi_device * | req struct request *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediausbdvb-usb-v2dvb_usb_core.c_dvb_usbv2_media_device_init.d/extr_linuxdriversmediausbdvb-usb-v2dvb_usb_core.c_dvb_usbv2_media_device_init_O0::dvb_usbv2_media_device_init(61)"
+  }
+]

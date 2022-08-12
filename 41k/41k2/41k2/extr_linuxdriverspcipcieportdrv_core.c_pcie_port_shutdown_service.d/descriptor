@@ -1,0 +1,2 @@
+struct device | dummy int 
+function pcie_port_shutdown_service void | dev struct device *

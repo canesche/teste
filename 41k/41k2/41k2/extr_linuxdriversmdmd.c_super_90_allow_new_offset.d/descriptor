@@ -1,0 +1,2 @@
+struct md_rdev | dummy int 
+function super_90_allow_new_offset int | rdev struct md_rdev * | new_offset unsigned long long

@@ -1,0 +1,2 @@
+struct hid_device | dummy int 
+function lg3ff_init int | hdev struct hid_device *

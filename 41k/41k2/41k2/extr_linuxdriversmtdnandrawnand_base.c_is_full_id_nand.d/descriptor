@@ -1,0 +1,2 @@
+struct nand_flash_dev | id_len int 
+function is_full_id_nand int | type struct nand_flash_dev *

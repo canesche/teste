@@ -1,0 +1,2 @@
+struct mlx5_core_dev | dummy int 
+function mlx5_fpga_ipsec_device_caps int | mdev struct mlx5_core_dev *

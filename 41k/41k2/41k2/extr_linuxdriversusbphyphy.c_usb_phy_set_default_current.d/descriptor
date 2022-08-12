@@ -1,0 +1,3 @@
+struct TYPE_2__ | aca_max int | aca_min int | cdp_max int | cdp_min int | dcp_max int | dcp_min int | sdp_max int | sdp_min int 
+struct usb_phy | chg_cur struct TYPE_2__ 
+function usb_phy_set_default_current void | usb_phy struct usb_phy *

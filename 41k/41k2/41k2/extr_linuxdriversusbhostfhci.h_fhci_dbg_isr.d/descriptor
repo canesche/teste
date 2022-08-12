@@ -1,0 +1,2 @@
+struct fhci_hcd | dummy int 
+function fhci_dbg_isr void | fhci struct fhci_hcd * | usb_er int

@@ -1,0 +1,3 @@
+struct thermal_zone_device | tzp struct TYPE_2__ * 
+struct TYPE_2__ | slope int 
+function thermal_zone_get_slope int | tz struct thermal_zone_device *

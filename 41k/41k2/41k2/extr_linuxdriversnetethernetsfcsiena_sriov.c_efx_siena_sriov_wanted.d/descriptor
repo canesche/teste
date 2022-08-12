@@ -1,0 +1,2 @@
+struct efx_nic | vf_count long 
+function efx_siena_sriov_wanted int | efx struct efx_nic *

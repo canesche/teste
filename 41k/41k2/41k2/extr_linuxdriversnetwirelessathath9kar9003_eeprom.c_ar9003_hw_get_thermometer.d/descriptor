@@ -1,0 +1,5 @@
+struct ar9300_base_eep_hdr | miscConfiguration int 
+struct ar9300_eeprom | baseEepHeader struct ar9300_base_eep_hdr 
+struct TYPE_2__ | ar9300_eep struct ar9300_eeprom 
+struct ath_hw | eeprom struct TYPE_2__ 
+function ar9003_hw_get_thermometer int | ah struct ath_hw *

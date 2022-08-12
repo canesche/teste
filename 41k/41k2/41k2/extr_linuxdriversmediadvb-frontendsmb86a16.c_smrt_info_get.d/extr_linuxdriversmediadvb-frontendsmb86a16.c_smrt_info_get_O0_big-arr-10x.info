@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 25,
+    phantoms: 24,
+    exit: true,
+    halt: false,
+    edges: 50,
+    static: {
+      instructions: 85,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 85,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediadvb-frontendsmb86a16.c_smrt_info_get.d/extr_linuxdriversmediadvb-frontendsmb86a16.c_smrt_info_get_O0::smrt_info_get(61)"
+  }
+]

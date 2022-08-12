@@ -1,0 +1,2 @@
+struct if_spi_card | prev_xfer_time int 
+function spu_transaction_finish void | card struct if_spi_card *

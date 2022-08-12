@@ -1,0 +1,2 @@
+struct mlx5_accel_esp_xfrm | dummy int 
+function mlx5_fpga_esp_destroy_xfrm void | xfrm struct mlx5_accel_esp_xfrm *

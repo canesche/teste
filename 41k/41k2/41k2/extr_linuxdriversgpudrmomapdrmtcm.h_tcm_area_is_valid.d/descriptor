@@ -1,0 +1,5 @@
+struct TYPE_6__ | x int | y int 
+struct TYPE_5__ | y int | x int 
+struct tcm_area | p1 struct TYPE_6__ | p0 struct TYPE_5__ | is2d long | tcm struct TYPE_4__ * 
+struct TYPE_4__ | width int | height int 
+function tcm_area_is_valid int | area struct tcm_area *

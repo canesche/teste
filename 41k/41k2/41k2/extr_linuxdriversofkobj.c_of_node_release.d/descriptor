@@ -1,0 +1,2 @@
+struct kobject | dummy int 
+function of_node_release void | kobj struct kobject *

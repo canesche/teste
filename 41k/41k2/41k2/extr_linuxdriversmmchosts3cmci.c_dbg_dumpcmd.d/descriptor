@@ -1,0 +1,3 @@
+struct s3cmci_host | dummy int 
+struct mmc_command | dummy int 
+function dbg_dumpcmd void | host struct s3cmci_host * | cmd struct mmc_command * | fail int

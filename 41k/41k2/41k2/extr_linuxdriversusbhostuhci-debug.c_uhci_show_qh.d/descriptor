@@ -1,0 +1,3 @@
+struct uhci_qh | dummy int 
+struct uhci_hcd | dummy int 
+function uhci_show_qh int | uhci struct uhci_hcd * | qh struct uhci_qh * | buf char * | len int | space int

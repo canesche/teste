@@ -1,0 +1,2 @@
+struct mapped_device | interface_ptr void * 
+function dm_get_mdptr void * | md struct mapped_device *

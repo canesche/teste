@@ -1,0 +1,2 @@
+struct usb_device | speed int 
+function xhci_get_block_size unsigned int | udev struct usb_device *

@@ -1,0 +1,2 @@
+struct i2c_client | dummy int 
+function max31785_write_byte int | client struct i2c_client * | page int | value int

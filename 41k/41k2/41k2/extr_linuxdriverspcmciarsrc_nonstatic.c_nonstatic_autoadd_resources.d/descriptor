@@ -1,0 +1,2 @@
+struct pcmcia_socket | dummy int 
+function nonstatic_autoadd_resources int | s struct pcmcia_socket *

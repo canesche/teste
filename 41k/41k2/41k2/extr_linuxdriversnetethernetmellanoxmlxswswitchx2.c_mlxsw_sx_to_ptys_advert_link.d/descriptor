@@ -1,0 +1,2 @@
+struct TYPE_2__ | advertised int | mask int 
+function mlxsw_sx_to_ptys_advert_link int | advertising int

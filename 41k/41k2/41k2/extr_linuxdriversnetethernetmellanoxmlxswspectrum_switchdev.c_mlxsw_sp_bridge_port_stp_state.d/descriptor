@@ -1,0 +1,2 @@
+struct mlxsw_sp_bridge_port | stp_state int 
+function mlxsw_sp_bridge_port_stp_state int | bridge_port struct mlxsw_sp_bridge_port *

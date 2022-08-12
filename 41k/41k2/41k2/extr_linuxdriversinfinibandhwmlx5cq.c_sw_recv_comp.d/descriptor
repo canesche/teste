@@ -1,0 +1,4 @@
+struct mlx5_ib_wq | head unsigned int | tail int | wqe_cnt int | wrid int * 
+struct mlx5_ib_qp | ibqp int | rq struct mlx5_ib_wq 
+struct ib_wc | qp int * | vendor_err int | status int | wr_id int 
+function sw_recv_comp void | qp struct mlx5_ib_qp * | num_entries int | wc struct ib_wc * | npolled int *

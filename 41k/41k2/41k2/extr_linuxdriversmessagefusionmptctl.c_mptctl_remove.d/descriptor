@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function mptctl_remove void | pdev struct pci_dev *

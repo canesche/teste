@@ -1,0 +1,1 @@
+function i2c_is_idle int | status enum i2c_status

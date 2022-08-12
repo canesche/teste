@@ -1,0 +1,2 @@
+struct asd_phy_desc | max_sas_lrate int | min_sas_lrate int | max_sata_lrate int | min_sata_lrate int 
+function set_speed_mask void | speed_mask int * | pd struct asd_phy_desc *

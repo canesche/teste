@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriverspowersupplytwl4030_charger.c_twl4030_bci_state_to_status.d/extr_linuxdriverspowersupplytwl4030_charger.c_twl4030_bci_state_to_status_O0::twl4030_bci_state_to_status(68)"
+  }
+]

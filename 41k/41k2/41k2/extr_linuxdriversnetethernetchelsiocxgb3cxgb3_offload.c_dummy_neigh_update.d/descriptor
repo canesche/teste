@@ -1,0 +1,3 @@
+struct t3cdev | dummy int 
+struct neighbour | dummy int 
+function dummy_neigh_update void | dev struct t3cdev * | neigh struct neighbour *

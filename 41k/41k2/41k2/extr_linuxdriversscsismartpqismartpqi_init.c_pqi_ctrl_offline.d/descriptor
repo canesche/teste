@@ -1,0 +1,2 @@
+struct pqi_ctrl_info | controller_online int 
+function pqi_ctrl_offline int | ctrl_info struct pqi_ctrl_info *

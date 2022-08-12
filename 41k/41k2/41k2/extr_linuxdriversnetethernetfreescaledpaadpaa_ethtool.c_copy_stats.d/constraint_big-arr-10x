@@ -1,0 +1,1 @@
+value(num_cpus) == 10, value(crr_cpu) == 10, length(bp_count) == 100, length(data) == 100, length(percpu_priv) == 100

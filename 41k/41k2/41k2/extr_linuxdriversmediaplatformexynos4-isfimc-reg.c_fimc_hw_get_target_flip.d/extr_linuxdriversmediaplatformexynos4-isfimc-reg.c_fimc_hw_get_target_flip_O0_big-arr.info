@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediaplatformexynos4-isfimc-reg.c_fimc_hw_get_target_flip.d/extr_linuxdriversmediaplatformexynos4-isfimc-reg.c_fimc_hw_get_target_flip_O0::fimc_hw_get_target_flip(66)"
+  }
+]

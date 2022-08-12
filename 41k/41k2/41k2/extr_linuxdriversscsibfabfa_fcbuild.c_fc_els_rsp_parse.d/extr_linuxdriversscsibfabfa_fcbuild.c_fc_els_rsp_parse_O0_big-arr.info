@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsibfabfa_fcbuild.c_fc_els_rsp_parse.d/extr_linuxdriversscsibfabfa_fcbuild.c_fc_els_rsp_parse_O0::fc_els_rsp_parse(71)"
+  }
+]

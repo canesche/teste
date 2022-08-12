@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 7,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversgpudrmtegrahdmi.c_tegra_hdmi_get_audio_config.d/extr_linuxdriversgpudrmtegrahdmi.c_tegra_hdmi_get_audio_config_O0::tegra_hdmi_get_audio_config(69)"
+  }
+]

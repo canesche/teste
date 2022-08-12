@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetqlogicqlcnicqlcnic_init.c_qlcnic_get_next_fwtype.d/extr_linuxdriversnetethernetqlogicqlcnicqlcnic_init.c_qlcnic_get_next_fwtype_O0::qlcnic_get_next_fwtype(68)"
+  }
+]

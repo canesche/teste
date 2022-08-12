@@ -1,0 +1,3 @@
+struct rsi_ps_info | enabled int | deep_sleep_wakeup_period int | num_dtims_per_sleep long | dtim_interval_duration long | num_bcns_per_lis_int long | listen_interval int | monitor_interval long | rx_hysterisis long | tx_hysterisis long | rx_threshold long | tx_threshold long | sleep_type int 
+struct rsi_hw | ps_info struct rsi_ps_info 
+function rsi_default_ps_params void | adapter struct rsi_hw *

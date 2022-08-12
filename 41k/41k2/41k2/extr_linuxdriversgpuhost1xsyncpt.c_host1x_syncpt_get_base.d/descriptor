@@ -1,0 +1,3 @@
+struct host1x_syncpt_base | dummy int 
+struct host1x_syncpt | base struct host1x_syncpt_base * 
+function host1x_syncpt_get_base struct host1x_syncpt_base * | sp struct host1x_syncpt *

@@ -1,0 +1,2 @@
+struct sxgbe_tx_ctxt_desc | ostc long 
+function sxgbe_tx_ctxt_desc_reset_ostc void | p struct sxgbe_tx_ctxt_desc *

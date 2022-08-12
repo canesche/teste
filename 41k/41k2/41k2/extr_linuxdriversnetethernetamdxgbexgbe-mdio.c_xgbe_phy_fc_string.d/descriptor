@@ -1,0 +1,2 @@
+struct xgbe_prv_data | tx_pause long | rx_pause long 
+function xgbe_phy_fc_string const char * | pdata struct xgbe_prv_data *

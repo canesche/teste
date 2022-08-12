@@ -1,0 +1,2 @@
+struct dwc2_hsotg | op_state int 
+function dwc2_op_state_str const char * | hsotg struct dwc2_hsotg *

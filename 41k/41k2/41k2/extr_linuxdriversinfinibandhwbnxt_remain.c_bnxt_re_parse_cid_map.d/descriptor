@@ -1,0 +1,1 @@
+function bnxt_re_parse_cid_map void | prio_map int | cid_map int * | cosq int *

@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function vbox_mode_fini void | dev struct drm_device *

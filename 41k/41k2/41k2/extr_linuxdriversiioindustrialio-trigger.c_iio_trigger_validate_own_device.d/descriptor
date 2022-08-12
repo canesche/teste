@@ -1,0 +1,5 @@
+struct TYPE_4__ | parent long 
+struct iio_trigger | dev struct TYPE_4__ 
+struct TYPE_3__ | parent long 
+struct iio_dev | dev struct TYPE_3__ 
+function iio_trigger_validate_own_device int | trig struct iio_trigger * | indio_dev struct iio_dev *

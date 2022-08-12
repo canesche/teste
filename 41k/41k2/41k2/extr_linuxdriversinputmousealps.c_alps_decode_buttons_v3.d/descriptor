@@ -1,0 +1,2 @@
+struct alps_fields | left int | right int | middle int | ts_left int | ts_right int | ts_middle int 
+function alps_decode_buttons_v3 void | f struct alps_fields * | p unsigned char *

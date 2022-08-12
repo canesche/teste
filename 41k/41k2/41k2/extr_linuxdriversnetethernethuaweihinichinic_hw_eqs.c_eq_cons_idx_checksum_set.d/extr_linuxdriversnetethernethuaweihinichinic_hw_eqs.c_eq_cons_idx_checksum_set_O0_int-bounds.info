@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 107,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernethuaweihinichinic_hw_eqs.c_eq_cons_idx_checksum_set.d/extr_linuxdriversnetethernethuaweihinichinic_hw_eqs.c_eq_cons_idx_checksum_set_O0::eq_cons_idx_checksum_set(62)"
+  }
+]

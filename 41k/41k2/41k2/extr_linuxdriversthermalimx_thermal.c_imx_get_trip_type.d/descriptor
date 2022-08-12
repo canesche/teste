@@ -1,0 +1,2 @@
+struct thermal_zone_device | dummy int 
+function imx_get_trip_type int | tz struct thermal_zone_device * | trip int | type enum thermal_trip_type *

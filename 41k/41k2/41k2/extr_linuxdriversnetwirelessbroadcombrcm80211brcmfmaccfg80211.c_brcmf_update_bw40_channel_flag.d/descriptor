@@ -1,0 +1,3 @@
+struct ieee80211_channel | flags int 
+struct brcmu_chan | sb long 
+function brcmf_update_bw40_channel_flag void | channel struct ieee80211_channel * | ch struct brcmu_chan *

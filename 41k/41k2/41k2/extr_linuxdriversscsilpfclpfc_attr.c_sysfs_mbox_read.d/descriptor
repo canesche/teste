@@ -1,0 +1,4 @@
+struct kobject | dummy int 
+struct file | dummy int 
+struct bin_attribute | dummy int 
+function sysfs_mbox_read int | filp struct file * | kobj struct kobject * | bin_attr struct bin_attribute * | buf char * | off int | count unsigned long

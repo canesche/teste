@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetqlogicqlcnicqlcnic.h_qlcnic_83xx_check.d/extr_linuxdriversnetethernetqlogicqlcnicqlcnic.h_qlcnic_83xx_check_O0::qlcnic_83xx_check(69)"
+  }
+]

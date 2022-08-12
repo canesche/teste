@@ -1,0 +1,2 @@
+struct fc_lport | dummy int 
+function qedf_abort_io void | lport struct fc_lport *

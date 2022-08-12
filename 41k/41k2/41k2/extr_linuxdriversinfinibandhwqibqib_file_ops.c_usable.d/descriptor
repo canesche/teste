@@ -1,0 +1,3 @@
+struct qib_pportdata | lflags int | lid long | dd struct qib_devdata * 
+struct qib_devdata | flags int | kregbase long 
+function usable int | ppd struct qib_pportdata *

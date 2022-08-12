@@ -1,0 +1,2 @@
+struct bnxt | dummy int 
+function bnxt_can_reserve_rings int | bp struct bnxt *

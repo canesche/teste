@@ -1,0 +1,3 @@
+struct lgdt330x_state | ucblocks int 
+struct dvb_frontend | demodulator_priv struct lgdt330x_state * 
+function lgdt330x_read_ucblocks int | fe struct dvb_frontend * | ucblocks int *

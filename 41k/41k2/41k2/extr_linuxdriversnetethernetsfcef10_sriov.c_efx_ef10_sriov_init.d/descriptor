@@ -1,0 +1,2 @@
+struct efx_nic | dummy int 
+function efx_ef10_sriov_init int | efx struct efx_nic *

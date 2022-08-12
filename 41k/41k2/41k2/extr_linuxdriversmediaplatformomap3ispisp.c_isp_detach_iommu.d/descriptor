@@ -1,0 +1,2 @@
+struct isp_device | dummy int 
+function isp_detach_iommu void | isp struct isp_device *

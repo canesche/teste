@@ -1,0 +1,6 @@
+struct TYPE_6__ | get int 
+struct TYPE_5__ | put int 
+struct TYPE_7__ | w_local_GP struct TYPE_6__ | w_remote_GP struct TYPE_5__ 
+struct TYPE_8__ | sn2 struct TYPE_7__ 
+struct xpc_channel | sn struct TYPE_8__ 
+function xpc_n_of_deliverable_payloads_sn2 int | ch struct xpc_channel *

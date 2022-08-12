@@ -1,0 +1,6 @@
+struct TYPE_8__ | return_code int 
+struct TYPE_5__ | return_code int 
+struct TYPE_6__ | hdr struct TYPE_5__ 
+struct TYPE_7__ | setadapterparms struct TYPE_6__ 
+struct qeth_ipa_cmd | hdr struct TYPE_8__ | data struct TYPE_7__ 
+function qeth_setadpparms_inspect_rc int | cmd struct qeth_ipa_cmd *

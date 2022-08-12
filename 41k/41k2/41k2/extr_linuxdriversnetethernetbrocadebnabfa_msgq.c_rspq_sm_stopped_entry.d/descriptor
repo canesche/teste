@@ -1,0 +1,2 @@
+struct bfa_msgq_rspq | flags long | consumer_index long | producer_index long 
+function rspq_sm_stopped_entry void | rspq struct bfa_msgq_rspq *

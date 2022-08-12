@@ -1,0 +1,2 @@
+struct bfa_fcport_s | fec_state int | topology int | speed int 
+function bfa_fcport_reset_linkinfo void | fcport struct bfa_fcport_s *

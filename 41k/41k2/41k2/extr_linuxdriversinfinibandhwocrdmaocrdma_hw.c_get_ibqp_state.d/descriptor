@@ -1,0 +1,1 @@
+function get_ibqp_state enum ib_qp_state | qps enum ocrdma_qp_state

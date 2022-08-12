@@ -1,0 +1,2 @@
+struct radeon_device | dummy int 
+function ci_get_sleep_divider_id_from_clock int | rdev struct radeon_device * | sclk long | min_sclk_in_sr long

@@ -1,0 +1,3 @@
+struct fjes_hw | max_epid int | my_epid unsigned long | ep_shm_info struct TYPE_2__ * 
+struct TYPE_2__ | es_status long | zone long 
+function fjes_hw_epid_is_same_zone int | hw struct fjes_hw * | epid int

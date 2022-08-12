@@ -1,0 +1,2 @@
+struct drm_connector | dummy int 
+function vmw_du_connector_dpms int | connector struct drm_connector * | mode int

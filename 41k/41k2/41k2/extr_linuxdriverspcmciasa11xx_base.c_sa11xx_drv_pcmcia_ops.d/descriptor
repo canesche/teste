@@ -1,0 +1,2 @@
+struct pcmcia_low_level | show_timing int | set_timing int | get_timing long 
+function sa11xx_drv_pcmcia_ops void | ops struct pcmcia_low_level *

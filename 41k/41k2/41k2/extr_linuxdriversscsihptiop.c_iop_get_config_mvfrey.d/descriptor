@@ -1,0 +1,6 @@
+struct TYPE_4__ | config struct hpt_iop_request_get_config * 
+struct TYPE_5__ | mvfrey struct TYPE_4__ 
+struct hptiop_hba | u struct TYPE_5__ 
+struct TYPE_6__ | size int | type long 
+struct hpt_iop_request_get_config | sdram_size int | max_devices int | alignment_mask int | data_transfer_length int | max_sg_count int | request_size int | max_requests int | firmware_version int | interface_version int | header struct TYPE_6__ 
+function iop_get_config_mvfrey int | hba struct hptiop_hba * | config struct hpt_iop_request_get_config *

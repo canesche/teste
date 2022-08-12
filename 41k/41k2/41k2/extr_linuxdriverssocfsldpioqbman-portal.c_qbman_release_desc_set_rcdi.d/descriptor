@@ -1,0 +1,2 @@
+struct qbman_release_desc | verb int 
+function qbman_release_desc_set_rcdi void | d struct qbman_release_desc * | enable int

@@ -1,0 +1,3 @@
+struct ipr_ioa_cfg | sdt_state long | dump_timeout int 
+struct ipr_cmnd | job_step int | ioa_cfg struct ipr_ioa_cfg * 
+function ipr_reset_wait_for_dump int | ipr_cmd struct ipr_cmnd *

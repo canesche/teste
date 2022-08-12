@@ -1,0 +1,2 @@
+struct scsi_cmnd | result int 
+function ahd_cmd_set_transaction_status void | cmd struct scsi_cmnd * | status int

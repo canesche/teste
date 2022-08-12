@@ -1,0 +1,3 @@
+struct qed_hwfn | dp_module unsigned long | dp_level void * 
+struct qed_dev | dp_module unsigned long | hwfns struct qed_hwfn * | dp_level void * 
+function qed_init_dp void | cdev struct qed_dev * | dp_module unsigned long | dp_level void *

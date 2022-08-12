@@ -1,0 +1,3 @@
+struct pci_vpd | valid int | len unsigned long 
+struct pci_dev | vpd struct pci_vpd * 
+function pci_vpd_set_size int | dev struct pci_dev * | len unsigned long

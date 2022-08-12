@@ -1,0 +1,2 @@
+struct xen_drm_front_shbuf | dummy int 
+function xen_drm_front_shbuf_flush void | buf struct xen_drm_front_shbuf *

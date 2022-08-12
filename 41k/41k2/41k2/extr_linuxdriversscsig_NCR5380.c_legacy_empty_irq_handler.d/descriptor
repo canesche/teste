@@ -1,0 +1,1 @@
+function legacy_empty_irq_handler int | irq int | dev_id void *

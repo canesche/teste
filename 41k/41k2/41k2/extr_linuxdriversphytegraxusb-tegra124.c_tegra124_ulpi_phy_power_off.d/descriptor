@@ -1,0 +1,2 @@
+struct phy | dummy int 
+function tegra124_ulpi_phy_power_off int | phy struct phy *

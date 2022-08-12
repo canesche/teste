@@ -1,0 +1,1 @@
+function hns3_adjust_tqps_num int | num_tc int | new_tqp_num int

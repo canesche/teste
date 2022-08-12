@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsiaic7xxxaic79xx_core.c_ahd_verify_cksum.d/extr_linuxdriversscsiaic7xxxaic79xx_core.c_ahd_verify_cksum_O0::ahd_verify_cksum(64)"
+  }
+]

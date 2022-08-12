@@ -1,0 +1,4 @@
+struct mic_smpt_hw_info | num_reg int | page_shift int | page_size unsigned long long | base int 
+struct mic_device | smpt struct TYPE_2__ * 
+struct TYPE_2__ | info struct mic_smpt_hw_info 
+function mic_x100_smpt_hw_init void | mdev struct mic_device *

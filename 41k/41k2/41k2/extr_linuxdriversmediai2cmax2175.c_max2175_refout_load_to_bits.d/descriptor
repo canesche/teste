@@ -1,0 +1,2 @@
+struct i2c_client | dummy int 
+function max2175_refout_load_to_bits int | client struct i2c_client * | load int | bits int *

@@ -1,0 +1,3 @@
+struct gb_svc | watchdog struct TYPE_2__ * 
+struct TYPE_2__ | enabled int 
+function gb_svc_watchdog_enabled int | svc struct gb_svc *

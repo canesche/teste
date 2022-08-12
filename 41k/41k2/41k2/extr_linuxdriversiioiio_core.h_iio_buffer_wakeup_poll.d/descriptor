@@ -1,0 +1,2 @@
+struct iio_dev | dummy int 
+function iio_buffer_wakeup_poll void | indio_dev struct iio_dev *

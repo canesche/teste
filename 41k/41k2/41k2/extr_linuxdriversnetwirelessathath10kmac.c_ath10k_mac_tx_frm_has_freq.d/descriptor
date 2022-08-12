@@ -1,0 +1,5 @@
+struct TYPE_4__ | target_version_major int | target_version_minor int 
+struct ath10k | running_fw struct TYPE_6__ * | htt struct TYPE_4__ 
+struct TYPE_5__ | htt_op_version long 
+struct TYPE_6__ | fw_file struct TYPE_5__ 
+function ath10k_mac_tx_frm_has_freq int | ar struct ath10k *

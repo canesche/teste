@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct ieee80211_hw | dummy int 
+function rtl8192c_tx_cleanup void | hw struct ieee80211_hw * | skb struct sk_buff *

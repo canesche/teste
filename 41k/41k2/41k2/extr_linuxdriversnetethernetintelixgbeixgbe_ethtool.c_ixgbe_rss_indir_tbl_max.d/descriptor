@@ -1,0 +1,4 @@
+struct TYPE_3__ | type long 
+struct TYPE_4__ | mac struct TYPE_3__ 
+struct ixgbe_adapter | hw struct TYPE_4__ 
+function ixgbe_rss_indir_tbl_max int | adapter struct ixgbe_adapter *

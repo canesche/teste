@@ -1,0 +1,2 @@
+struct notifier_block | dummy int 
+function module_load_notify int | self struct notifier_block * | val unsigned long | data void *

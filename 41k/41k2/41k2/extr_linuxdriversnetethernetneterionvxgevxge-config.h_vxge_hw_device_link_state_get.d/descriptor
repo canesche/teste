@@ -1,0 +1,2 @@
+struct __vxge_hw_device | link_state int 
+function vxge_hw_device_link_state_get enum vxge_hw_device_link_state | devh struct __vxge_hw_device *

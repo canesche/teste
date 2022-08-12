@@ -1,0 +1,3 @@
+struct macb_dma_desc | dummy int 
+struct macb | dummy int 
+function macb_dma_desc_get_size unsigned int | bp struct macb *

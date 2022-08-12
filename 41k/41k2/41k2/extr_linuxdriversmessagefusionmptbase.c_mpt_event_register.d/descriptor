@@ -1,0 +1,1 @@
+function mpt_event_register int | cb_idx unsigned long | ev_cbfunc int

@@ -1,0 +1,4 @@
+struct resource | dummy int 
+struct fman | state struct TYPE_2__ * 
+struct TYPE_2__ | res struct resource * 
+function fman_get_mem_region struct resource * | fman struct fman *

@@ -1,0 +1,2 @@
+struct bonding | dummy int 
+function bond_debug_reregister void | bond struct bonding *

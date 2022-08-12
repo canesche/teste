@@ -1,0 +1,2 @@
+struct v4l2_ctrl | priv long 
+function m5mols_get_ctrl_mode unsigned int | ctrl struct v4l2_ctrl *

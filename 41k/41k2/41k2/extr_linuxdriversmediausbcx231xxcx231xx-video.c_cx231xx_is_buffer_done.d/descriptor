@@ -1,0 +1,3 @@
+struct cx231xx_dmaqueue | current_field int | lines_completed long | lines_per_field long | field1_done long 
+struct cx231xx | dummy int 
+function cx231xx_is_buffer_done int | dev struct cx231xx * | dma_q struct cx231xx_dmaqueue *

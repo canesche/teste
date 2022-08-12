@@ -1,0 +1,1 @@
+function pl2303_encode_baud_rate_divisor unsigned int | buf unsigned char [4] | baud unsigned int

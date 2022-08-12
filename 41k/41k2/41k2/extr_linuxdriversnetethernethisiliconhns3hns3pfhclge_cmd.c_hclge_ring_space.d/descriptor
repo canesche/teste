@@ -1,0 +1,2 @@
+struct hclge_cmq_ring | next_to_use int | next_to_clean int | desc_num int 
+function hclge_ring_space int | ring struct hclge_cmq_ring *

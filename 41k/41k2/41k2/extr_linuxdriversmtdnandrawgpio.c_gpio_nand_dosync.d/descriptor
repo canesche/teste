@@ -1,0 +1,2 @@
+struct gpiomtd | dummy int 
+function gpio_nand_dosync void | gpiomtd struct gpiomtd *

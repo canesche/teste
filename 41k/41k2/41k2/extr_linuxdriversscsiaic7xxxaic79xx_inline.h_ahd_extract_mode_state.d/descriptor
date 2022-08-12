@@ -1,0 +1,2 @@
+struct ahd_softc | dummy int 
+function ahd_extract_mode_state void | ahd struct ahd_softc * | state int | src int * | dst int *

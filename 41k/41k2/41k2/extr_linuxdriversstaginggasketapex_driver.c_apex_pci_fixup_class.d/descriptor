@@ -1,0 +1,2 @@
+struct pci_dev | class int 
+function apex_pci_fixup_class void | pdev struct pci_dev *

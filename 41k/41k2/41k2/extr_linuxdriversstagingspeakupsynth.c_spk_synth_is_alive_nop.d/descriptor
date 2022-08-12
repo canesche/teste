@@ -1,0 +1,2 @@
+struct spk_synth | alive int 
+function spk_synth_is_alive_nop int | synth struct spk_synth *

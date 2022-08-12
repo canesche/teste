@@ -1,0 +1,2 @@
+struct device | dummy int 
+function mrf24j40_short_reg_volatile int | dev struct device * | reg unsigned int

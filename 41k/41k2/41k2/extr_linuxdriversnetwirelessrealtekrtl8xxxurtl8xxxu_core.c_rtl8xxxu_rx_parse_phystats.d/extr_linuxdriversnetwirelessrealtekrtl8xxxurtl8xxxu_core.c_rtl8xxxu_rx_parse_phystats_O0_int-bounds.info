@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessrealtekrtl8xxxurtl8xxxu_core.c_rtl8xxxu_rx_parse_phystats.d/extr_linuxdriversnetwirelessrealtekrtl8xxxurtl8xxxu_core.c_rtl8xxxu_rx_parse_phystats_O0::rtl8xxxu_rx_parse_phystats(70)"
+  }
+]

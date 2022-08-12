@@ -1,0 +1,4 @@
+struct TYPE_2__ | type int 
+struct uart_pxa_port | port struct TYPE_2__ 
+struct uart_port | dummy int 
+function serial_pxa_config_port void | port struct uart_port * | flags int

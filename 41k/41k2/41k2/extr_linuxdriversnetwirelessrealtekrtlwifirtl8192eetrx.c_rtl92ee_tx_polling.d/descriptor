@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function rtl92ee_tx_polling void | hw struct ieee80211_hw * | hw_queue int

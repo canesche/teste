@@ -1,0 +1,2 @@
+struct cx8802_dev | dummy int 
+function vp3054_i2c_remove void | dev struct cx8802_dev *

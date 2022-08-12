@@ -1,0 +1,2 @@
+struct st_data_s | ll_state int 
+function st_ll_init long | ll struct st_data_s *

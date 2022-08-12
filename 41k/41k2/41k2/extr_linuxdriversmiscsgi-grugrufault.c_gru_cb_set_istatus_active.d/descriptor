@@ -1,0 +1,2 @@
+struct gru_instruction_bits | istatus int 
+function gru_cb_set_istatus_active void | cbk struct gru_instruction_bits *

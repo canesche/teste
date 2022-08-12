@@ -1,0 +1,2 @@
+struct hermes | dummy int 
+function ezusb_allocate int | hw struct hermes * | size int | fid int *

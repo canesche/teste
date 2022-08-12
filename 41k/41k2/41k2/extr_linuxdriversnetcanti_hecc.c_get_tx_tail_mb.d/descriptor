@@ -1,0 +1,2 @@
+struct ti_hecc_priv | tx_tail int 
+function get_tx_tail_mb int | priv struct ti_hecc_priv *

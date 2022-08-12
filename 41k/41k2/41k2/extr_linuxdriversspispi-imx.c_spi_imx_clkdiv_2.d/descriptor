@@ -1,0 +1,1 @@
+function spi_imx_clkdiv_2 unsigned int | fin unsigned int | fspi unsigned int | fres unsigned int *

@@ -1,0 +1,2 @@
+struct madera_pin_private | dummy int 
+function madera_pin_unmake_drv_str unsigned int | priv struct madera_pin_private * | regval int

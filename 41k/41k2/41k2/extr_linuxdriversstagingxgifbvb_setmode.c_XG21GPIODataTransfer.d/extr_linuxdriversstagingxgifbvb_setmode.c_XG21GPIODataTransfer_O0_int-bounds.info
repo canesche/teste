@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 157,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingxgifbvb_setmode.c_XG21GPIODataTransfer.d/extr_linuxdriversstagingxgifbvb_setmode.c_XG21GPIODataTransfer_O0::XG21GPIODataTransfer(60)"
+  }
+]

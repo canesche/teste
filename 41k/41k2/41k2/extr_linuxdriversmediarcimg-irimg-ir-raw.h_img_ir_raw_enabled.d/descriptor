@@ -1,0 +1,2 @@
+struct img_ir_priv_raw | dummy int 
+function img_ir_raw_enabled int | raw struct img_ir_priv_raw *

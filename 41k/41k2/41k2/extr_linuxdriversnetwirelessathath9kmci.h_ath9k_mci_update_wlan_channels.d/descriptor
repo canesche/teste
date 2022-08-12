@@ -1,0 +1,2 @@
+struct ath_softc | dummy int 
+function ath9k_mci_update_wlan_channels void | sc struct ath_softc * | allow_all int

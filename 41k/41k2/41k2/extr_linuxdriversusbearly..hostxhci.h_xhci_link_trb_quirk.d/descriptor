@@ -1,0 +1,2 @@
+struct xhci_hcd | quirks int 
+function xhci_link_trb_quirk int | xhci struct xhci_hcd *

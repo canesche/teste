@@ -1,0 +1,2 @@
+struct mport_dev | dummy int 
+function mport_cdev_terminate_dma void | md struct mport_dev *

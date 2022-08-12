@@ -1,0 +1,2 @@
+struct comedi_device | dummy int 
+function handle_gpct_interrupt void | dev struct comedi_device * | counter_index unsigned short

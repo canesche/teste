@@ -1,0 +1,2 @@
+struct ahc_softc | name char * 
+function ahc_name char * | ahc struct ahc_softc *

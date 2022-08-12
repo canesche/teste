@@ -1,0 +1,2 @@
+struct adi | idx int | ret int | data int * 
+function adi_get_bits int | adi struct adi * | count int

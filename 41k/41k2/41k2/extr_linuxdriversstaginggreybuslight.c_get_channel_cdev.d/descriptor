@@ -1,0 +1,3 @@
+struct led_classdev | dummy int 
+struct gb_channel | cled struct led_classdev 
+function get_channel_cdev struct led_classdev * | channel struct gb_channel *

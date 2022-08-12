@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriverssocfslqeucc.c_ucc_get_tdm_clk_shift.d/extr_linuxdriverssocfslqeucc.c_ucc_get_tdm_clk_shift_O0::ucc_get_tdm_clk_shift(65)"
+  }
+]

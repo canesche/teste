@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function i2c_acpi_register_devices void | adap struct i2c_adapter *

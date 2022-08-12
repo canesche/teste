@@ -1,0 +1,1 @@
+function create_adc_command void | chan unsigned int | muxsg0 int * | muxsg1 int *

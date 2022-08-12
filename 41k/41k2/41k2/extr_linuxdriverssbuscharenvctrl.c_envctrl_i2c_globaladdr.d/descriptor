@@ -1,0 +1,2 @@
+struct i2c_child_t | dummy int 
+function envctrl_i2c_globaladdr int | pchild struct i2c_child_t * | data unsigned char | bufdata char *

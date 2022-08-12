@@ -1,0 +1,2 @@
+struct bitmap_iterator | count unsigned int 
+function bitmap_iterator_count unsigned int | h struct bitmap_iterator *

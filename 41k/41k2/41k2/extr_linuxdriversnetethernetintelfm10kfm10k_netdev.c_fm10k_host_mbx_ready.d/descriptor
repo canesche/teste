@@ -1,0 +1,4 @@
+struct TYPE_2__ | type long 
+struct fm10k_hw | mac struct TYPE_2__ 
+struct fm10k_intfc | host_ready long | hw struct fm10k_hw 
+function fm10k_host_mbx_ready int | interface struct fm10k_intfc *

@@ -1,0 +1,4 @@
+struct mlxsw_sp_rif_params | system_port int | lag_id int | lag int | vid int 
+struct mlxsw_sp_port_vlan | vid int | mlxsw_sp_port struct mlxsw_sp_port * 
+struct mlxsw_sp_port | local_port int | lag_id int | lagged int 
+function mlxsw_sp_rif_subport_params_init void | params struct mlxsw_sp_rif_params * | mlxsw_sp_port_vlan struct mlxsw_sp_port_vlan *

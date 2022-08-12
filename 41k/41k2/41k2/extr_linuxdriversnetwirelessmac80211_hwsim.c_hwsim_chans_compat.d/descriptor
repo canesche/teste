@@ -1,0 +1,2 @@
+struct ieee80211_channel | center_freq long 
+function hwsim_chans_compat int | c1 struct ieee80211_channel * | c2 struct ieee80211_channel *

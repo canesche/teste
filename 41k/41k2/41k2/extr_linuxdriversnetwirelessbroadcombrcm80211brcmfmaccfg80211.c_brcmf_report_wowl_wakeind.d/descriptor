@@ -1,0 +1,3 @@
+struct wiphy | dummy int 
+struct brcmf_if | dummy int 
+function brcmf_report_wowl_wakeind void | wiphy struct wiphy * | ifp struct brcmf_if *

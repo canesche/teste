@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversspispi-fsl-spi.c_fsl_spi_qe_cpu_set_shifts.d/extr_linuxdriversspispi-fsl-spi.c_fsl_spi_qe_cpu_set_shifts_O0::fsl_spi_qe_cpu_set_shifts(62)"
+  }
+]

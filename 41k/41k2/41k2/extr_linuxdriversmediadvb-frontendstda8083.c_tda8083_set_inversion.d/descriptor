@@ -1,0 +1,2 @@
+struct tda8083_state | dummy int 
+function tda8083_set_inversion int | state struct tda8083_state * | inversion enum fe_spectral_inversion

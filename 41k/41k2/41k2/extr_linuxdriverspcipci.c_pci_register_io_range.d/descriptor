@@ -1,0 +1,2 @@
+struct fwnode_handle | dummy int 
+function pci_register_io_range int | fwnode struct fwnode_handle * | addr int | size int

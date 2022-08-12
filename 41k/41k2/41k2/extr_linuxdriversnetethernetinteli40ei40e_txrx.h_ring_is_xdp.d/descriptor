@@ -1,0 +1,2 @@
+struct i40e_ring | flags int 
+function ring_is_xdp int | ring struct i40e_ring *

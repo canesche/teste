@@ -1,0 +1,2 @@
+struct cfspi | rx_cpck_len int 
+function forward_to_spi_cmd int | cfspi struct cfspi *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 9,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 56,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 56,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsivmw_pvscsi.c_scsi_is_rw.d/extr_linuxdriversscsivmw_pvscsi.c_scsi_is_rw_O0::scsi_is_rw(68)"
+  }
+]

@@ -1,0 +1,3 @@
+struct vm_area_struct | dummy int 
+struct drm_gem_object | dummy int 
+function virtgpu_gem_prime_mmap int | obj struct drm_gem_object * | area struct vm_area_struct *

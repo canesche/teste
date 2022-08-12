@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversgpudrmvmwgfxvmwgfx_so.h_vmw_so_cmd_to_type.d/extr_linuxdriversgpudrmvmwgfxvmwgfx_so.h_vmw_so_cmd_to_type_O0::vmw_so_cmd_to_type(81)"
+  }
+]

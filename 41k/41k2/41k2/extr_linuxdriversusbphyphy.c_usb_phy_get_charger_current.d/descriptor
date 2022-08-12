@@ -1,0 +1,3 @@
+struct TYPE_2__ | sdp_min unsigned int | sdp_max unsigned int | dcp_min unsigned int | dcp_max unsigned int | cdp_min unsigned int | cdp_max unsigned int | aca_min unsigned int | aca_max unsigned int 
+struct usb_phy | chg_type int | chg_cur struct TYPE_2__ 
+function usb_phy_get_charger_current void | usb_phy struct usb_phy * | min unsigned int * | max unsigned int *

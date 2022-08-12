@@ -1,0 +1,1 @@
+function radeon_compute_pll_gain int | ref_freq unsigned int | ref_div unsigned int | fb_div unsigned int

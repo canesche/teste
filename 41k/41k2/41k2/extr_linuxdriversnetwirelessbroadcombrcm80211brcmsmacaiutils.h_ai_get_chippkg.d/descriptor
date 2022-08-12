@@ -1,0 +1,2 @@
+struct si_pub | chippkg int 
+function ai_get_chippkg int | sih struct si_pub *

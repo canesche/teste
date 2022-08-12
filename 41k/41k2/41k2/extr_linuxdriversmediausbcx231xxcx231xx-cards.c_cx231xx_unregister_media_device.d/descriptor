@@ -1,0 +1,2 @@
+struct cx231xx | dummy int 
+function cx231xx_unregister_media_device void | dev struct cx231xx *

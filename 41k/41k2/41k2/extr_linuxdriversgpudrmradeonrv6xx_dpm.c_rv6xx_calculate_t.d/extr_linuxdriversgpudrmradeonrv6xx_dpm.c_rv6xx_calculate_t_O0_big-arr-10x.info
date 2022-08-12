@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversgpudrmradeonrv6xx_dpm.c_rv6xx_calculate_t.d/extr_linuxdriversgpudrmradeonrv6xx_dpm.c_rv6xx_calculate_t_O0::rv6xx_calculate_t(63)"
+  }
+]

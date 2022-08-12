@@ -1,0 +1,2 @@
+struct bmc150_accel_data | dummy int 
+function bmc150_accel_set_power_state int | data struct bmc150_accel_data * | on int

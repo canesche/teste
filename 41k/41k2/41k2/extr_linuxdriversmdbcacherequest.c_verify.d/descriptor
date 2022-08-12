@@ -1,0 +1,2 @@
+struct cached_dev | verify int 
+function verify int | dc struct cached_dev *

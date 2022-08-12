@@ -1,0 +1,2 @@
+struct hisi_pmu | dummy int 
+function hisi_ddrc_pmu_write_evtype void | hha_pmu struct hisi_pmu * | idx int | type int

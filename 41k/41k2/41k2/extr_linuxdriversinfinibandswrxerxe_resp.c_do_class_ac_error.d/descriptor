@@ -1,0 +1,3 @@
+struct TYPE_2__ | status int | goto_error int | aeth_syndrome int 
+struct rxe_qp | resp struct TYPE_2__ 
+function do_class_ac_error void | qp struct rxe_qp * | syndrome int | status enum ib_wc_status

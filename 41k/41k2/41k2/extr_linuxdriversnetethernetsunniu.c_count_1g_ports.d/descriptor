@@ -1,0 +1,2 @@
+struct phy_probe_info | cur int * | phy_port int ** 
+function count_1g_ports int | p struct phy_probe_info * | lowest int *

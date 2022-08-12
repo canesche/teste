@@ -1,0 +1,2 @@
+struct atusb | err int 
+function atusb_get_and_clear_error int | atusb struct atusb *

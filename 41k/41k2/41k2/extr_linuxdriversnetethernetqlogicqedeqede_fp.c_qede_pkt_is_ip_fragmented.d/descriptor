@@ -1,0 +1,3 @@
+struct TYPE_2__ | flags int 
+struct eth_fast_path_rx_reg_cqe | tunnel_pars_flags struct TYPE_2__ 
+function qede_pkt_is_ip_fragmented int | cqe struct eth_fast_path_rx_reg_cqe * | flag int

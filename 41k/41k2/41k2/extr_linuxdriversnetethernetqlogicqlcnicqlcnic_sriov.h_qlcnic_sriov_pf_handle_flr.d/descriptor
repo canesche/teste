@@ -1,0 +1,3 @@
+struct qlcnic_vf_info | dummy int 
+struct qlcnic_sriov | dummy int 
+function qlcnic_sriov_pf_handle_flr void | sriov struct qlcnic_sriov * | vf struct qlcnic_vf_info *

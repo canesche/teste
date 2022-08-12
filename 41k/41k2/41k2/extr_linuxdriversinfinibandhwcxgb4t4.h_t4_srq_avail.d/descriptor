@@ -1,0 +1,2 @@
+struct t4_srq | size int | in_use int 
+function t4_srq_avail int | srq struct t4_srq *

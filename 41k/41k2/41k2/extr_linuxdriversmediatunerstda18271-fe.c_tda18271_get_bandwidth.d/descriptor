@@ -1,0 +1,3 @@
+struct tda18271_priv | bandwidth int 
+struct dvb_frontend | tuner_priv struct tda18271_priv * 
+function tda18271_get_bandwidth int | fe struct dvb_frontend * | bandwidth int *

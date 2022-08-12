@@ -1,0 +1,2 @@
+struct bnx2x | dummy int 
+function bnx2x_vfpf_close_vf void | bp struct bnx2x *

@@ -1,0 +1,3 @@
+struct t10_pi_tuple | dummy int 
+struct nvme_ns | ms int | pi_type long 
+function nvme_ns_has_pi int | ns struct nvme_ns *

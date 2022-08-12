@@ -1,0 +1,3 @@
+struct TYPE_2__ | elsct_send long 
+struct fc_lport | tt struct TYPE_2__ 
+function fc_elsct_init int | lport struct fc_lport *

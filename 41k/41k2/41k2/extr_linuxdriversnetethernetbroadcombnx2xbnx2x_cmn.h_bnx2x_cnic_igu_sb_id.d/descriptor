@@ -1,0 +1,2 @@
+struct bnx2x | igu_base_sb int 
+function bnx2x_cnic_igu_sb_id int | bp struct bnx2x *

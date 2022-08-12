@@ -1,0 +1,1 @@
+value(ram_addr) == 255, value(ram_sz) == 255, length(ram_data) == 65025, length(sdiodev) == 65025

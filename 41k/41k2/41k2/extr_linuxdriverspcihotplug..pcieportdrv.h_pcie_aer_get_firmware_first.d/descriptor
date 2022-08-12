@@ -1,0 +1,2 @@
+struct pci_dev | __aer_firmware_first int | __aer_firmware_first_valid long 
+function pcie_aer_get_firmware_first int | pci_dev struct pci_dev *

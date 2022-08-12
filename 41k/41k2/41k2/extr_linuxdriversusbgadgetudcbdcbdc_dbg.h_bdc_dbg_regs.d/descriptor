@@ -1,0 +1,2 @@
+struct bdc | dummy int 
+function bdc_dbg_regs void | bdc struct bdc *

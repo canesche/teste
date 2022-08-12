@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct ethtool_wolinfo | dummy int 
+function igbvf_set_wol int | netdev struct net_device * | wol struct ethtool_wolinfo *

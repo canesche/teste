@@ -1,0 +1,2 @@
+struct htc_target | dummy int 
+function dump_cred_dist_stats void | target struct htc_target *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 19,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdrivershwmonw83627ehf.c_is_word_sized.d/extr_linuxdrivershwmonw83627ehf.c_is_word_sized_O0::is_word_sized(61)"
+  }
+]

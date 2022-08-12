@@ -1,0 +1,2 @@
+struct mvs_info | dummy int 
+function mvs_64xx_spi_buildcmd int | mvi struct mvs_info * | dwCmd int * | cmd long | read long | length long | addr int

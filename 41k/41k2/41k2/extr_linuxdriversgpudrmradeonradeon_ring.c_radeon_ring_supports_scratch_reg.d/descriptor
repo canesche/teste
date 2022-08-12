@@ -1,0 +1,3 @@
+struct radeon_ring | idx int 
+struct radeon_device | dummy int 
+function radeon_ring_supports_scratch_reg int | rdev struct radeon_device * | ring struct radeon_ring *

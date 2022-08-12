@@ -1,0 +1,2 @@
+struct sxgbe_tx_ctxt_desc | ivlan_tag int 
+function sxgbe_tx_ctxt_desc_get_ivlantag int | p struct sxgbe_tx_ctxt_desc *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | num_pools int 
+struct fm10k_hw | iov struct TYPE_2__ 
+function fm10k_vectors_per_pool int | hw struct fm10k_hw *

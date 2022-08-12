@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function ali1563_func int | a struct i2c_adapter *

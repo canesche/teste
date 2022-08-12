@@ -1,0 +1,2 @@
+struct bfa_port_s | dport_enabled int 
+function bfa_port_set_dportenabled void | port struct bfa_port_s * | enabled int

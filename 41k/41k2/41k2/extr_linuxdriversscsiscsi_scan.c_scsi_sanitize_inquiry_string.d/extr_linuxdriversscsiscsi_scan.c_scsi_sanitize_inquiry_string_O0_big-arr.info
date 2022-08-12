@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6639,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsiscsi_scan.c_scsi_sanitize_inquiry_string.d/extr_linuxdriversscsiscsi_scan.c_scsi_sanitize_inquiry_string_O0::scsi_sanitize_inquiry_string(60)"
+  }
+]

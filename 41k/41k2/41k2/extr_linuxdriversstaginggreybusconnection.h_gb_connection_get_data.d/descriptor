@@ -1,0 +1,2 @@
+struct gb_connection | private void * 
+function gb_connection_get_data void * | connection struct gb_connection *

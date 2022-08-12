@@ -1,0 +1,3 @@
+struct rockchip_pcie | root_bus_nr long 
+struct pci_bus | number long | primary long 
+function rockchip_pcie_valid_device int | rockchip struct rockchip_pcie * | bus struct pci_bus * | dev int

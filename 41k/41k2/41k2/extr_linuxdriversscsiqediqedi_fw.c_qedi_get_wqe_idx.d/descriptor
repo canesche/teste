@@ -1,0 +1,3 @@
+struct qedi_endpoint | sq_prod_idx long | fw_sq_prod_idx int 
+struct qedi_conn | ep struct qedi_endpoint * 
+function qedi_get_wqe_idx long | qedi_conn struct qedi_conn *

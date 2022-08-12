@@ -1,0 +1,2 @@
+struct mlx5e_priv | dummy int 
+function mlx5i_pkey_cleanup void | priv struct mlx5e_priv *

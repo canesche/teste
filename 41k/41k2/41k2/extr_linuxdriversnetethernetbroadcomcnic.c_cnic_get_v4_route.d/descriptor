@@ -1,0 +1,3 @@
+struct sockaddr_in | dummy int 
+struct dst_entry | dummy int 
+function cnic_get_v4_route int | dst_addr struct sockaddr_in * | dst struct dst_entry **

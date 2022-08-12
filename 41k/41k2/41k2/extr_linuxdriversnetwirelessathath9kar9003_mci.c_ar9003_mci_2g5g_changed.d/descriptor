@@ -1,0 +1,4 @@
+struct ath9k_hw_mci | update_2g5g int | is_2g int 
+struct TYPE_2__ | mci struct ath9k_hw_mci 
+struct ath_hw | btcoex_hw struct TYPE_2__ 
+function ar9003_mci_2g5g_changed void | ah struct ath_hw * | is_2g int

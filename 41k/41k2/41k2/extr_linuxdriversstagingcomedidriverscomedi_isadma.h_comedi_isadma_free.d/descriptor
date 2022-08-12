@@ -1,0 +1,2 @@
+struct comedi_isadma | dummy int 
+function comedi_isadma_free void | dma struct comedi_isadma *

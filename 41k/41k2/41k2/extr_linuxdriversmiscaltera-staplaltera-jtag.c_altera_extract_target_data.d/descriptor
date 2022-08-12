@@ -1,0 +1,1 @@
+function altera_extract_target_data void | buffer int * | target_data int * | start_index int | preamble_count int | target_count int

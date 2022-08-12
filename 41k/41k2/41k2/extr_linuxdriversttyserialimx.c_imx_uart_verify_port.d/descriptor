@@ -1,0 +1,5 @@
+struct uart_port | dummy int 
+struct serial_struct | type long | irq long | io_type long | baud_base int | port long | hub6 long | iomem_base long 
+struct TYPE_2__ | irq long | uartclk int | mapbase unsigned long | iobase long 
+struct imx_port | port struct TYPE_2__ 
+function imx_uart_verify_port int | port struct uart_port * | ser struct serial_struct *

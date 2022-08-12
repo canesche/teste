@@ -1,0 +1,2 @@
+struct domain_device | dummy int 
+function isci_task_clear_task_set int | d_device struct domain_device * | lun int *

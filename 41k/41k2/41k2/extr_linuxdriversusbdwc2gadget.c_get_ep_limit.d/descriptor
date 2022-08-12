@@ -1,0 +1,3 @@
+struct TYPE_2__ | maxpacket unsigned int 
+struct dwc2_hsotg_ep | index int | ep struct TYPE_2__ | dir_in long 
+function get_ep_limit unsigned int | hs_ep struct dwc2_hsotg_ep *

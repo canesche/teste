@@ -1,0 +1,2 @@
+struct usb_gadget | dummy int 
+function lpc32xx_wakeup int | gadget struct usb_gadget *

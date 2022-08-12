@@ -1,0 +1,2 @@
+struct mmc_host | dummy int 
+function mmc_pwrseq_power_off void | host struct mmc_host *

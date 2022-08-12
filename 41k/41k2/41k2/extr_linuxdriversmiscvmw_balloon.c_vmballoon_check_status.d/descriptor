@@ -1,0 +1,2 @@
+struct vmballoon | reset_required int 
+function vmballoon_check_status int | b struct vmballoon * | status unsigned long

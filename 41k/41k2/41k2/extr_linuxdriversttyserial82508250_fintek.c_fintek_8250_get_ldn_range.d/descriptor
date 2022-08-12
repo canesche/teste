@@ -1,0 +1,2 @@
+struct fintek_8250 | pid int 
+function fintek_8250_get_ldn_range int | pdata struct fintek_8250 * | min int * | max int *

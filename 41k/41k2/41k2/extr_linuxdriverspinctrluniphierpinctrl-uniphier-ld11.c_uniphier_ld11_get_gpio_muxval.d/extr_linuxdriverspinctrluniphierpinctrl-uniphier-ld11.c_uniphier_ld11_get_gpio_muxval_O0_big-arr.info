@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriverspinctrluniphierpinctrl-uniphier-ld11.c_uniphier_ld11_get_gpio_muxval.d/extr_linuxdriverspinctrluniphierpinctrl-uniphier-ld11.c_uniphier_ld11_get_gpio_muxval_O0::uniphier_ld11_get_gpio_muxval(61)"
+  }
+]

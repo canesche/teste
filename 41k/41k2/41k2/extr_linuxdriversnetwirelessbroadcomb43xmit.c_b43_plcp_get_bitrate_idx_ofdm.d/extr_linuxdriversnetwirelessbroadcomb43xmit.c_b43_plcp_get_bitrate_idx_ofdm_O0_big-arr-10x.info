@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessbroadcomb43xmit.c_b43_plcp_get_bitrate_idx_ofdm.d/extr_linuxdriversnetwirelessbroadcomb43xmit.c_b43_plcp_get_bitrate_idx_ofdm_O0::b43_plcp_get_bitrate_idx_ofdm(61)"
+  }
+]

@@ -1,0 +1,2 @@
+struct pqi_scsi_dev | bus int | target int | lun int 
+function pqi_set_bus_target_lun void | device struct pqi_scsi_dev * | bus int | target int | lun int

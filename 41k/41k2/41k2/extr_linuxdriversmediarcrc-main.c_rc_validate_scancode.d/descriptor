@@ -1,0 +1,1 @@
+function rc_validate_scancode int | proto enum rc_proto | scancode int

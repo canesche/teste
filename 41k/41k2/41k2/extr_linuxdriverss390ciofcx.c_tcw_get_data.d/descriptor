@@ -1,0 +1,2 @@
+struct tcw | output long | w long | input long | r long 
+function tcw_get_data void * | tcw struct tcw *

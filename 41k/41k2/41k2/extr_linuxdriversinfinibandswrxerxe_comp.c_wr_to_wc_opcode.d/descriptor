@@ -1,0 +1,1 @@
+function wr_to_wc_opcode enum ib_wc_opcode | opcode enum ib_wr_opcode

@@ -1,0 +1,3 @@
+struct scb | sense_busaddr int 
+struct ahd_softc | dummy int 
+function ahd_get_sense_bufaddr int | ahd struct ahd_softc * | scb struct scb *

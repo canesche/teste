@@ -1,0 +1,2 @@
+struct se_node_acl | dummy int 
+function tcm_qla2xxx_set_default_node_attrs void | nacl struct se_node_acl *

@@ -1,0 +1,3 @@
+struct platform_device | dummy int 
+struct imx_port | dummy int 
+function imx_uart_probe_dt int | sport struct imx_port * | pdev struct platform_device *

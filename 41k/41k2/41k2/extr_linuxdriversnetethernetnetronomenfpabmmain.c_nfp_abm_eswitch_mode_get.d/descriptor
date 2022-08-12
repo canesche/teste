@@ -1,0 +1,3 @@
+struct nfp_app | priv struct nfp_abm * 
+struct nfp_abm | eswitch_mode int 
+function nfp_abm_eswitch_mode_get enum devlink_eswitch_mode | app struct nfp_app *

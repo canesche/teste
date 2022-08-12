@@ -1,0 +1,2 @@
+struct usb_ep | dummy int 
+function gs_console_disconnect void | ep struct usb_ep *

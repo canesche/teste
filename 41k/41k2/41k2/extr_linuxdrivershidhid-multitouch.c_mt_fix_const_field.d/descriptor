@@ -1,0 +1,3 @@
+struct hid_field | flags int | usage struct TYPE_2__ * 
+struct TYPE_2__ | hid unsigned int 
+function mt_fix_const_field void | field struct hid_field * | usage unsigned int

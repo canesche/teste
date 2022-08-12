@@ -1,0 +1,3 @@
+struct ubi_vid_io_buf | hdr struct ubi_vid_hdr * 
+struct ubi_vid_hdr | dummy int 
+function ubi_get_vid_hdr struct ubi_vid_hdr * | vidb struct ubi_vid_io_buf *

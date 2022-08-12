@@ -1,0 +1,2 @@
+struct bcm6345_l1_chip | n_words int 
+function reg_status unsigned int | intc struct bcm6345_l1_chip * | word unsigned int

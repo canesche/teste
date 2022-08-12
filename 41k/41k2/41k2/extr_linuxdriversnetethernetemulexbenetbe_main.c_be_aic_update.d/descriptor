@@ -1,0 +1,2 @@
+struct be_aic_obj | jiffies int | tx_reqs_prev void * | rx_pkts_prev void * 
+function be_aic_update void | aic struct be_aic_obj * | rx_pkts void * | tx_pkts void * | now int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 60,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 60,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriverstargettarget_core_transport.c_target_check_max_data_sg_nents.d/extr_linuxdriverstargettarget_core_transport.c_target_check_max_data_sg_nents_O0::target_check_max_data_sg_nents(74)"
+  }
+]

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function s5m8763_volatile int | dev struct device * | reg unsigned int

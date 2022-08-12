@@ -1,0 +1,6 @@
+struct wl1251 | noise int 
+struct survey_info | noise int | filled int | channel int 
+struct TYPE_2__ | chan int 
+struct ieee80211_conf | chandef struct TYPE_2__ 
+struct ieee80211_hw | conf struct ieee80211_conf | priv struct wl1251 * 
+function wl1251_op_get_survey int | hw struct ieee80211_hw * | idx int | survey struct survey_info *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 156,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessbroadcomb43phy_lp.c_lpphy_qdiv_roundup.d/extr_linuxdriversnetwirelessbroadcomb43phy_lp.c_lpphy_qdiv_roundup_O0::lpphy_qdiv_roundup(62)"
+  }
+]

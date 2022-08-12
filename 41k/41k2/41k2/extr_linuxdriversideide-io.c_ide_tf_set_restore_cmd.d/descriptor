@@ -1,0 +1,3 @@
+struct ide_taskfile | command int | nsect int 
+struct TYPE_3__ | sect int 
+function ide_tf_set_restore_cmd void | drive struct TYPE_3__ * | tf struct ide_taskfile *

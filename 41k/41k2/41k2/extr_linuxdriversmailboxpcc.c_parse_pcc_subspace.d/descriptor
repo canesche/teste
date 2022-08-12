@@ -1,0 +1,4 @@
+struct acpi_subtable_header | dummy int 
+struct TYPE_2__ | type long 
+struct acpi_pcct_subspace | header struct TYPE_2__ 
+function parse_pcc_subspace int | header struct acpi_subtable_header * | end const unsigned long

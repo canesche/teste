@@ -1,0 +1,2 @@
+struct thermal_zone_device | dummy int 
+function thermal_add_hwmon_sysfs int | tz struct thermal_zone_device *

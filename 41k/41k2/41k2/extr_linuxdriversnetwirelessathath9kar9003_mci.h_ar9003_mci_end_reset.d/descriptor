@@ -1,0 +1,4 @@
+struct ath_hw | dummy int 
+struct ath9k_hw_cal_data | dummy int 
+struct ath9k_channel | dummy int 
+function ar9003_mci_end_reset int | ah struct ath_hw * | chan struct ath9k_channel * | caldata struct ath9k_hw_cal_data *

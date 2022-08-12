@@ -1,0 +1,4 @@
+struct emac_regs | dummy int 
+struct emac_instance | dummy int 
+struct emac_ethtool_regs_subhdr | dummy int 
+function emac_get_regs_len int | dev struct emac_instance *

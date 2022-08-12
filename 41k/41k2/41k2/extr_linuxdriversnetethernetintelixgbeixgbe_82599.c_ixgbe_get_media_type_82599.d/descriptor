@@ -1,0 +1,3 @@
+struct TYPE_2__ | type int 
+struct ixgbe_hw | device_id int | phy struct TYPE_2__ 
+function ixgbe_get_media_type_82599 enum ixgbe_media_type | hw struct ixgbe_hw *

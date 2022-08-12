@@ -1,0 +1,2 @@
+struct mmci_host | dummy int 
+function mmci_dma_data_error void | host struct mmci_host *

@@ -1,0 +1,6 @@
+struct qed_rdma_start_in_params | events struct TYPE_4__ * 
+struct qed_rdma_events | context int | affiliated_event int | unaffiliated_event int 
+struct qed_hwfn | p_rdma_info struct TYPE_3__ * 
+struct TYPE_4__ | context int | affiliated_event int | unaffiliated_event int 
+struct TYPE_3__ | events struct qed_rdma_events 
+function qed_rdma_init_events void | p_hwfn struct qed_hwfn * | params struct qed_rdma_start_in_params *

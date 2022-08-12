@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversideide-cd_ioctl.c_ide_cdrom_release_real.d/extr_linuxdriversideide-cd_ioctl.c_ide_cdrom_release_real_O0::ide_cdrom_release_real(65)"
+  }
+]

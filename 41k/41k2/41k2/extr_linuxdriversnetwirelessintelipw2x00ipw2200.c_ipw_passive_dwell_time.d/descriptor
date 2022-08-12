@@ -1,0 +1,3 @@
+struct ipw_priv | status int | assoc_network struct TYPE_2__ * 
+struct TYPE_2__ | beacon_interval int 
+function ipw_passive_dwell_time int | priv struct ipw_priv *

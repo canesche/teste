@@ -1,0 +1,2 @@
+struct s3c24xx_spi | dummy int 
+function s3c24xx_spi_tryfiq void | s struct s3c24xx_spi *

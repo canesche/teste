@@ -1,0 +1,2 @@
+struct psxpad | dummy int 
+function psxpad_set_motor_level void | pad struct psxpad * | motor1level int | motor2level int

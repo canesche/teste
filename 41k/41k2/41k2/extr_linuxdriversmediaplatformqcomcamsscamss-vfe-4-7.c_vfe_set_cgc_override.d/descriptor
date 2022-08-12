@@ -1,0 +1,2 @@
+struct vfe_device | dummy int 
+function vfe_set_cgc_override void | vfe struct vfe_device * | wm int | enable int

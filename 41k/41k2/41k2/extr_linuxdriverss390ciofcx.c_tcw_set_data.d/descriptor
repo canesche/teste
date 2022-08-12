@@ -1,0 +1,2 @@
+struct tcw | flags int | output void * | w long | input void * | r long 
+function tcw_set_data void | tcw struct tcw * | data void * | use_tidal int

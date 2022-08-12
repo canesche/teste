@@ -1,0 +1,2 @@
+struct usb_device | dummy int 
+function announce_device void | udev struct usb_device *

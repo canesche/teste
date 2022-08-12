@@ -1,0 +1,2 @@
+struct tegra_hdmi_audio_config | pclk int 
+function tegra_hdmi_get_audio_config const struct tegra_hdmi_audio_config * | sample_rate unsigned int | pclk unsigned int

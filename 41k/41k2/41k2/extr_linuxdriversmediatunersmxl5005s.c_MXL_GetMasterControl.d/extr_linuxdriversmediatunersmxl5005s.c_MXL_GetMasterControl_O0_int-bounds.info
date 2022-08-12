@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediatunersmxl5005s.c_MXL_GetMasterControl.d/extr_linuxdriversmediatunersmxl5005s.c_MXL_GetMasterControl_O0::MXL_GetMasterControl(62)"
+  }
+]

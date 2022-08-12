@@ -1,0 +1,3 @@
+struct platform_device | dummy int 
+struct mmc_host | dummy int 
+function pxamci_of_init int | pdev struct platform_device * | mmc struct mmc_host *

@@ -1,0 +1,3 @@
+struct its_node | phys_base long 
+struct its_device | its struct its_node * 
+function its_irq_get_msi_base long | its_dev struct its_device *

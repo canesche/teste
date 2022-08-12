@@ -1,0 +1,2 @@
+struct se_cmd | dummy int 
+function xcopy_pt_queue_data_in int | se_cmd struct se_cmd *

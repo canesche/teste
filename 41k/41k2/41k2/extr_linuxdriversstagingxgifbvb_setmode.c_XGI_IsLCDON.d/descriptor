@@ -1,0 +1,2 @@
+struct vb_device_info | VBInfo unsigned short 
+function XGI_IsLCDON unsigned char | pVBInfo struct vb_device_info *

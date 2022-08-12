@@ -1,0 +1,5 @@
+struct bnx2_tx_ring_info | hw_tx_cons long | tx_cons long 
+struct bnx2_rx_ring_info | rx_pg_cons long | rx_pg_prod long | rx_cons long | rx_prod long | rx_prod_bseq long 
+struct bnx2_napi | rx_ring struct bnx2_rx_ring_info | tx_ring struct bnx2_tx_ring_info 
+struct bnx2 | bnx2_napi struct bnx2_napi * 
+function bnx2_clear_ring_states void | bp struct bnx2 *

@@ -1,0 +1,3 @@
+struct saa7146_standard | dummy int 
+struct saa7146_dev | dummy int 
+function std_callback int | dev struct saa7146_dev * | std struct saa7146_standard *

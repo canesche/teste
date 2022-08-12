@@ -1,0 +1,3 @@
+struct snd_pcm_substream | private_data struct channel * 
+struct channel | buffer_pos int 
+function pcm_pointer int | substream struct snd_pcm_substream *

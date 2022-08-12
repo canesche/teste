@@ -1,0 +1,2 @@
+struct bitmap_iterator | iterator int 
+function bitmap_iterator_inc int | h struct bitmap_iterator *

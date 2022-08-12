@@ -1,0 +1,4 @@
+struct bna_ethport | flags int | bna struct TYPE_4__ * 
+struct TYPE_3__ | type long 
+struct TYPE_4__ | enet struct TYPE_3__ 
+function ethport_can_be_up int | ethport struct bna_ethport *

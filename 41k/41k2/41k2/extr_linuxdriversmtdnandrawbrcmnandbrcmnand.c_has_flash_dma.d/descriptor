@@ -1,0 +1,2 @@
+struct brcmnand_controller | flash_dma_base int 
+function has_flash_dma int | ctrl struct brcmnand_controller *

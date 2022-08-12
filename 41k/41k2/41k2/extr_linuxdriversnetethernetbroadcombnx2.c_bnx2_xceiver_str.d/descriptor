@@ -1,0 +1,2 @@
+struct bnx2 | phy_port long | phy_flags int 
+function bnx2_xceiver_str char * | bp struct bnx2 *

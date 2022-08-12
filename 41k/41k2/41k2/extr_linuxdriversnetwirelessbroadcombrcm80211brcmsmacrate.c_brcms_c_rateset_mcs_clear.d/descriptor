@@ -1,0 +1,2 @@
+struct brcms_c_rateset | mcs long * 
+function brcms_c_rateset_mcs_clear void | rateset struct brcms_c_rateset *

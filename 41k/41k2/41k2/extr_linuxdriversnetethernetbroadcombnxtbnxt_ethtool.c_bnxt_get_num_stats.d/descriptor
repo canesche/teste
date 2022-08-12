@@ -1,0 +1,2 @@
+struct bnxt | cp_nr_rings int | flags int 
+function bnxt_get_num_stats int | bp struct bnxt *

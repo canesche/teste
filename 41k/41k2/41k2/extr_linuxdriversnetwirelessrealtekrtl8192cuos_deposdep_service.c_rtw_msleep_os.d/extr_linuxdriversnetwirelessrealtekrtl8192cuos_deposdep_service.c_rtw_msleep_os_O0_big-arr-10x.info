@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessrealtekrtl8192cuos_deposdep_service.c_rtw_msleep_os.d/extr_linuxdriversnetwirelessrealtekrtl8192cuos_deposdep_service.c_rtw_msleep_os_O0::rtw_msleep_os(60)"
+  }
+]

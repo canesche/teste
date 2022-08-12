@@ -1,0 +1,4 @@
+struct partition | cylinders int 
+struct mtd_blktrans_dev | dummy int 
+struct hd_geometry | heads int | cylinders int | sectors int 
+function rfd_ftl_getgeo int | dev struct mtd_blktrans_dev * | geo struct hd_geometry *

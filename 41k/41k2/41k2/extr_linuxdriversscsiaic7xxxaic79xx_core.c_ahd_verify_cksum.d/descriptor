@@ -1,0 +1,2 @@
+struct seeprom_config | checksum int 
+function ahd_verify_cksum int | sc struct seeprom_config *

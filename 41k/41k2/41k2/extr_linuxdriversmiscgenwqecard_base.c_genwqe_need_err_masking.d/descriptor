@@ -1,0 +1,2 @@
+struct genwqe_dev | slu_unitcfg int 
+function genwqe_need_err_masking int | cd struct genwqe_dev *

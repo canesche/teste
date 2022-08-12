@@ -1,0 +1,2 @@
+struct cmac | nucast int 
+function t3_mac_set_num_ucast int | mac struct cmac * | n int

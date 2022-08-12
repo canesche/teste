@@ -1,0 +1,5 @@
+struct TYPE_3__ | bforced_tx20Mhz int 
+struct ieee80211_device | bandwidth_auto_switch struct TYPE_3__ | pHTInfo struct TYPE_4__ * 
+struct cb_desc | bPacketBW int | data_rate int | bBroadcast long | bMulticast long 
+struct TYPE_4__ | bCurTxBW40MHz long | bCurBW40MHz long | bEnableHT int | bCurrentHTSupport int 
+function ieee80211_query_BandwidthMode void | ieee struct ieee80211_device * | tcb_desc struct cb_desc *

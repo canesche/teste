@@ -1,0 +1,3 @@
+struct wl1271_rx_descriptor | dummy int 
+struct wl1271 | dummy int 
+function wl18xx_get_rx_packet_len int | wl struct wl1271 * | rx_data void * | data_len int

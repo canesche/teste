@@ -1,0 +1,2 @@
+struct mmc_host | dummy int 
+function cqhci_resume int | mmc struct mmc_host *

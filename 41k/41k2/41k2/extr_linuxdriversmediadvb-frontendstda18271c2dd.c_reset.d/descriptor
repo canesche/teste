@@ -1,0 +1,2 @@
+struct tda_state | m_SettlingTime int | m_IFLevelAnalog int | m_IFLevelDigital int | m_IFLevelDVBC int | m_IFLevelDVBT int | m_EP4 int | m_EP3_Standby int | m_bMaster int | m_bFMInput int | m_Frequency long 
+function reset void | state struct tda_state *

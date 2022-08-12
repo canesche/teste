@@ -1,0 +1,2 @@
+struct ocrdma_mbx_hdr | subsys_op int | timeout int | cmd_len long 
+function ocrdma_init_mch void | cmd_hdr struct ocrdma_mbx_hdr * | opcode int | subsys int | cmd_len long

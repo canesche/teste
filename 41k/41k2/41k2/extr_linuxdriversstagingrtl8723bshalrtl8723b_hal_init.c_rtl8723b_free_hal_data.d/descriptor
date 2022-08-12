@@ -1,0 +1,2 @@
+struct adapter | dummy int 
+function rtl8723b_free_hal_data void | padapter struct adapter *

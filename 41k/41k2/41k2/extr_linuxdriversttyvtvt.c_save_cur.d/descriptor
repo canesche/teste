@@ -1,0 +1,2 @@
+struct vc_data | vc_G1_charset int | vc_saved_G1 int | vc_G0_charset int | vc_saved_G0 int | vc_color int | vc_s_color int | vc_charset int | vc_s_charset int | vc_reverse int | vc_s_reverse int | vc_blink int | vc_s_blink int | vc_underline int | vc_s_underline int | vc_italic int | vc_s_italic int | vc_intensity int | vc_s_intensity int | vc_y int | vc_saved_y int | vc_x int | vc_saved_x int 
+function save_cur void | vc struct vc_data *

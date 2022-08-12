@@ -1,0 +1,3 @@
+struct hfi1_pportdata | dd struct hfi1_devdata * 
+struct hfi1_devdata | dummy int 
+function dd_from_ppd struct hfi1_devdata * | ppd struct hfi1_pportdata *

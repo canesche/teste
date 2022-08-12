@@ -1,0 +1,2 @@
+struct ice_hw | vendor_id long | mac_type int 
+function ice_set_mac_type enum ice_status | hw struct ice_hw *

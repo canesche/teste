@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetmediatekmtk_eth_soc.c_mtk_hwlro_get_ip_cnt.d/extr_linuxdriversnetethernetmediatekmtk_eth_soc.c_mtk_hwlro_get_ip_cnt_O0::mtk_hwlro_get_ip_cnt(62)"
+  }
+]

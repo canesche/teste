@@ -1,0 +1,5 @@
+struct mlx4_en_page_cache | index unsigned long | buf struct TYPE_2__ * 
+struct mlx4_en_rx_ring | page_cache struct mlx4_en_page_cache 
+struct mlx4_en_rx_alloc | dma int | page int 
+struct TYPE_2__ | dma int | page int 
+function mlx4_en_rx_recycle int | ring struct mlx4_en_rx_ring * | frame struct mlx4_en_rx_alloc *

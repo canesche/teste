@@ -1,0 +1,2 @@
+struct op_entry | size int 
+function op_cpu_buffer_get_size int | entry struct op_entry *

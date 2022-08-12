@@ -1,0 +1,2 @@
+struct rtc_plat_data | devtype long 
+function is_imx1_rtc int | data struct rtc_plat_data *

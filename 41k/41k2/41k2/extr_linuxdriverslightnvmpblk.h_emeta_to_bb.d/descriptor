@@ -1,0 +1,2 @@
+struct line_emeta | bb_bitmap void * 
+function emeta_to_bb void * | emeta struct line_emeta *

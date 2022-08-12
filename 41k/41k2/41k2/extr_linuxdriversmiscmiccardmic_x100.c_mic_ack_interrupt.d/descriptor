@@ -1,0 +1,2 @@
+struct mic_device | dummy int 
+function mic_ack_interrupt int | mdev struct mic_device *

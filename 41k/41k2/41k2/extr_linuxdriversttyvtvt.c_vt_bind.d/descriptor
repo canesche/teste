@@ -1,0 +1,2 @@
+struct con_driver | dummy int 
+function vt_bind int | con struct con_driver *

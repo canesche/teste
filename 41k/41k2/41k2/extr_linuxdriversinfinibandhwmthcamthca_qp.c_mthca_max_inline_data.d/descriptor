@@ -1,0 +1,3 @@
+struct TYPE_2__ | uobject long 
+struct mthca_pd | ibpd struct TYPE_2__ 
+function mthca_max_inline_data int | pd struct mthca_pd * | max_data_size int

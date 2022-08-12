@@ -1,0 +1,3 @@
+struct spk_synth | dummy int 
+struct TYPE_2__ | alive long 
+function softsynth_is_alive int | synth struct spk_synth *

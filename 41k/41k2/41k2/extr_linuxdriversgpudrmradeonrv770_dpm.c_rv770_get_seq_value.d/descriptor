@@ -1,0 +1,3 @@
+struct rv7xx_pl | flags int 
+struct radeon_device | dummy int 
+function rv770_get_seq_value int | rdev struct radeon_device * | pl struct rv7xx_pl *

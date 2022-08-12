@@ -1,0 +1,2 @@
+struct gspca_dev | usb_err int 
+function sd_init int | gspca_dev struct gspca_dev *

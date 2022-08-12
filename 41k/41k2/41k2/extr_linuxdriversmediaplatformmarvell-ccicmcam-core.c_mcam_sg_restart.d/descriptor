@@ -1,0 +1,2 @@
+struct mcam_camera | dummy int 
+function mcam_sg_restart void | cam struct mcam_camera *

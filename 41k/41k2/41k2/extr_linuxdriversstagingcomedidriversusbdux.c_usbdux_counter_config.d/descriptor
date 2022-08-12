@@ -1,0 +1,4 @@
+struct comedi_subdevice | dummy int 
+struct comedi_insn | dummy int 
+struct comedi_device | dummy int 
+function usbdux_counter_config int | dev struct comedi_device * | s struct comedi_subdevice * | insn struct comedi_insn * | data unsigned int *

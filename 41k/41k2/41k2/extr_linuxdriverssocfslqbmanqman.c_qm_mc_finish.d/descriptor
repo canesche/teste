@@ -1,0 +1,2 @@
+struct qm_portal | dummy int 
+function qm_mc_finish void | portal struct qm_portal *

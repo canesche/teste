@@ -1,0 +1,2 @@
+struct nd_btt | initial_offset long 
+function adjust_initial_offset long | nd_btt struct nd_btt * | offset long

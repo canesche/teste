@@ -1,0 +1,2 @@
+struct ibmveth_buff_pool | size int | index int | buff_size int | threshold int | active int 
+function ibmveth_init_buffer_pool void | pool struct ibmveth_buff_pool * | pool_index int | pool_size int | buff_size int | pool_active int

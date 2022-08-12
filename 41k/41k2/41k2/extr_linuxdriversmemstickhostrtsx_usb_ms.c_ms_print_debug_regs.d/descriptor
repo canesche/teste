@@ -1,0 +1,2 @@
+struct rtsx_usb_ms | dummy int 
+function ms_print_debug_regs void | host struct rtsx_usb_ms *

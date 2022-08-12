@@ -1,0 +1,2 @@
+struct dma_fifo | open long | open_limit long 
+function dma_fifo_busy int | fifo struct dma_fifo *

@@ -1,0 +1,5 @@
+struct mlx5_flow_table | dummy int 
+struct mlx5_flow_group | dummy int 
+struct mlx5_core_dev | dummy int 
+struct fs_fte | dummy int 
+function mlx5_cmd_stub_create_fte int | dev struct mlx5_core_dev * | ft struct mlx5_flow_table * | group struct mlx5_flow_group * | fte struct fs_fte *

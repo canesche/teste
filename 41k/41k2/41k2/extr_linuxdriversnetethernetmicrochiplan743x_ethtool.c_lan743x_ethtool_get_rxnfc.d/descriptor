@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct ethtool_rxnfc | cmd int | data int | flow_type int 
+function lan743x_ethtool_get_rxnfc int | netdev struct net_device * | rxnfc struct ethtool_rxnfc * | rule_locs int *

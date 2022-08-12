@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmfdmax77686.c_max77802_pmic_is_accessible_reg.d/extr_linuxdriversmfdmax77686.c_max77802_pmic_is_accessible_reg_O0::max77802_pmic_is_accessible_reg(63)"
+  }
+]

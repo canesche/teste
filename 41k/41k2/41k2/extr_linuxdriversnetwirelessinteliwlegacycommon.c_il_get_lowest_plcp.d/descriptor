@@ -1,0 +1,3 @@
+struct TYPE_2__ | flags int 
+struct il_priv | staging struct TYPE_2__ 
+function il_get_lowest_plcp int | il struct il_priv *

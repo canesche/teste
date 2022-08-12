@@ -1,0 +1,3 @@
+struct tegra_slink_data | bytes_per_word int 
+struct spi_transfer | dummy int 
+function tegra_slink_get_packed_size int | tspi struct tegra_slink_data * | t struct spi_transfer *

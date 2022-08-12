@@ -1,0 +1,3 @@
+struct sas_phy_linkrates | dummy int 
+struct sas_phy | dummy int 
+function pqi_sas_phy_speed int | phy struct sas_phy * | rates struct sas_phy_linkrates *

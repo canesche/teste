@@ -1,0 +1,3 @@
+struct ptp_clock_request | dummy int 
+struct ptp_clock_info | dummy int 
+function ptp_dte_enable int | ptp struct ptp_clock_info * | rq struct ptp_clock_request * | on int

@@ -1,0 +1,2 @@
+struct radeon_device | dummy int 
+function r600_get_pcie_gen_support enum radeon_pcie_gen | rdev struct radeon_device * | sys_mask int | asic_gen enum radeon_pcie_gen | default_gen enum radeon_pcie_gen

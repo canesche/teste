@@ -1,0 +1,3 @@
+struct nand_chip | dummy int 
+struct mtd_info | dummy int 
+function lpc32xx_write_oob int | mtd struct mtd_info * | chip struct nand_chip * | page int

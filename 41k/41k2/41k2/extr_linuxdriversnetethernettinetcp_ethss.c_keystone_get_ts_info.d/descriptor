@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct ethtool_ts_info | so_timestamping int | phc_index int | rx_filters long | tx_types long 
+function keystone_get_ts_info int | ndev struct net_device * | info struct ethtool_ts_info *

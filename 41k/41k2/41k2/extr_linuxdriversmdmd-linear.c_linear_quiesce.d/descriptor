@@ -1,0 +1,2 @@
+struct mddev | dummy int 
+function linear_quiesce void | mddev struct mddev * | state int

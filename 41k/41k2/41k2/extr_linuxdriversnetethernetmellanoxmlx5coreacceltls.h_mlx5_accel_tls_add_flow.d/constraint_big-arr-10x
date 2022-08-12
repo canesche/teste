@@ -1,0 +1,1 @@
+value(start_offload_tcp_sn) == 10, value(direction_sx) == 10, length(flow) == 100, length(p_swid) == 100, length(mdev) == 100, length(crypto_info) == 100

@@ -1,0 +1,3 @@
+struct scsi_sense_hdr | dummy int 
+struct scsi_cmnd | dummy int 
+function sd_zbc_complete void | cmd struct scsi_cmnd * | good_bytes unsigned int | sshdr struct scsi_sense_hdr *

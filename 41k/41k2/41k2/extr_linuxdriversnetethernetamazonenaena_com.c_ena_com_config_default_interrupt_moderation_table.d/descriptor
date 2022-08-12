@@ -1,0 +1,3 @@
+struct ena_intr_moder_entry | bytes_per_interval int | pkts_per_interval int | intr_moder_interval int 
+struct ena_com_dev | intr_moder_tbl struct ena_intr_moder_entry * 
+function ena_com_config_default_interrupt_moderation_table void | ena_dev struct ena_com_dev *

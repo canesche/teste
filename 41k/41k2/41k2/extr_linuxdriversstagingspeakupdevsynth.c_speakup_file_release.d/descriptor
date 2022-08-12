@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct file | dummy int 
+function speakup_file_release int | ip struct inode * | fp struct file *

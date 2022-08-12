@@ -1,0 +1,2 @@
+struct brcms_c_info | dummy int 
+function brcms_c_stf_detach void | wlc struct brcms_c_info *

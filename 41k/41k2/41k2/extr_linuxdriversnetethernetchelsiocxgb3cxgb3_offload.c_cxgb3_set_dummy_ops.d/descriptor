@@ -1,0 +1,2 @@
+struct t3cdev | neigh_update int | recv int 
+function cxgb3_set_dummy_ops void | dev struct t3cdev *

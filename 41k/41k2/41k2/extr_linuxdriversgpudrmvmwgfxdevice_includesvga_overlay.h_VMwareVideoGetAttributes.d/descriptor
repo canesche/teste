@@ -1,0 +1,1 @@
+function VMwareVideoGetAttributes int | format const int | width int * | height int * | size int * | pitches int * | offsets int *

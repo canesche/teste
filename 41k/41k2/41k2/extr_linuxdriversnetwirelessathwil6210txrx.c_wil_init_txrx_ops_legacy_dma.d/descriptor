@@ -1,0 +1,3 @@
+struct TYPE_2__ | rx_fini int | is_rx_idle int | rx_error_check int | rx_crypto_check int | get_netif_rx_params int | get_reorder_params int | wmi_addba_rx_resp int | rx_init int | tx_fini int | tx_init int | ring_init_bcast int | ring_fini_tx int | ring_init_tx int | tx_ring_tso int | tx_desc_unmap int | tx_desc_map int | configure_interrupt_moderation int 
+struct wil6210_priv | txrx_ops struct TYPE_2__ 
+function wil_init_txrx_ops_legacy_dma void | wil struct wil6210_priv *

@@ -1,0 +1,2 @@
+struct moxa_board_conf | boardType int 
+function moxa_check_fw_model int | brd struct moxa_board_conf * | model int

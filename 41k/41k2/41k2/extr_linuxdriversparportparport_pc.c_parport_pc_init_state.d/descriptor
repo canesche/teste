@@ -1,0 +1,6 @@
+struct TYPE_5__ | ctr int | ecr int 
+struct TYPE_6__ | pc struct TYPE_5__ 
+struct parport_state | u struct TYPE_6__ 
+struct pardevice | port struct TYPE_4__ * | irq_func long 
+struct TYPE_4__ | irq long 
+function parport_pc_init_state void | dev struct pardevice * | s struct parport_state *

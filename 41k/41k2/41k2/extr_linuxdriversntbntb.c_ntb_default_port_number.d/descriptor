@@ -1,0 +1,2 @@
+struct ntb_dev | topo int 
+function ntb_default_port_number int | ntb struct ntb_dev *

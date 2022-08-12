@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function _rtl92ce_signal_scale_mapping long | hw struct ieee80211_hw * | currsig long

@@ -1,0 +1,2 @@
+struct acpi_gpio_info | dummy int 
+function acpi_gpio_update_gpiod_flags int | flags enum gpiod_flags * | info struct acpi_gpio_info *

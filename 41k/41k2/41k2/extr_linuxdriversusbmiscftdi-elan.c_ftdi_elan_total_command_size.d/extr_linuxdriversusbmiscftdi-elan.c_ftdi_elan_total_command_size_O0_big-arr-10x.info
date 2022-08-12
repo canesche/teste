@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 269,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversusbmiscftdi-elan.c_ftdi_elan_total_command_size.d/extr_linuxdriversusbmiscftdi-elan.c_ftdi_elan_total_command_size_O0::ftdi_elan_total_command_size(63)"
+  }
+]

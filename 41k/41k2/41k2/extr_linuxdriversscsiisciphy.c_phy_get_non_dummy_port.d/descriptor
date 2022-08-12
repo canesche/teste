@@ -1,0 +1,3 @@
+struct isci_port | physical_port_index long 
+struct isci_phy | owning_port struct isci_port * 
+function phy_get_non_dummy_port struct isci_port * | iphy struct isci_phy *

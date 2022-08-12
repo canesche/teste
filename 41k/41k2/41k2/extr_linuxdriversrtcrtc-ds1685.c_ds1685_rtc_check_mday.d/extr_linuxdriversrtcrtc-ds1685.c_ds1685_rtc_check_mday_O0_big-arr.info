@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversrtcrtc-ds1685.c_ds1685_rtc_check_mday.d/extr_linuxdriversrtcrtc-ds1685.c_ds1685_rtc_check_mday_O0::ds1685_rtc_check_mday(64)"
+  }
+]

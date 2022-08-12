@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversiioadctwl6030-gpadc.c_twl6032_get_trim_value.d/extr_linuxdriversiioadctwl6030-gpadc.c_twl6032_get_trim_value_O0::twl6032_get_trim_value(63)"
+  }
+]

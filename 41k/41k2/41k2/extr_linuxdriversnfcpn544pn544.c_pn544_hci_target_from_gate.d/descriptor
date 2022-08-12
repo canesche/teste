@@ -1,0 +1,3 @@
+struct nfc_target | sens_res int | supported_protocols int 
+struct nfc_hci_dev | dummy int 
+function pn544_hci_target_from_gate int | hdev struct nfc_hci_dev * | gate int | target struct nfc_target *

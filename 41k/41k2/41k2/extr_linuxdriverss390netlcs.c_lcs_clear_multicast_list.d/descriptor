@@ -1,0 +1,2 @@
+struct lcs_card | dummy int 
+function lcs_clear_multicast_list void | card struct lcs_card *

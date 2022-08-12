@@ -1,0 +1,3 @@
+struct xgbe_prv_data | phy_data struct xgbe_phy_data * 
+struct xgbe_phy_data | speed_set int 
+function xgbe_phy_valid_speed int | pdata struct xgbe_prv_data * | speed int

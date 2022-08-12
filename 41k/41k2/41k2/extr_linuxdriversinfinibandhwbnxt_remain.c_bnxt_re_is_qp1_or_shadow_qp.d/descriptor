@@ -1,0 +1,4 @@
+struct TYPE_2__ | qp_type long 
+struct bnxt_re_qp | ib_qp struct TYPE_2__ 
+struct bnxt_re_dev | qp1_sqp struct bnxt_re_qp * 
+function bnxt_re_is_qp1_or_shadow_qp int | rdev struct bnxt_re_dev * | qp struct bnxt_re_qp *

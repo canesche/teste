@@ -1,0 +1,2 @@
+struct pinctrl_dev | dummy int 
+function pinctrl_init_device_debugfs void | pctldev struct pinctrl_dev *

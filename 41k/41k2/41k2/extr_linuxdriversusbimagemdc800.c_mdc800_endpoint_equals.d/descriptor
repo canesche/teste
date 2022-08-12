@@ -1,0 +1,2 @@
+struct usb_endpoint_descriptor | bEndpointAddress long | bmAttributes long | wMaxPacketSize long 
+function mdc800_endpoint_equals int | a struct usb_endpoint_descriptor * | b struct usb_endpoint_descriptor *

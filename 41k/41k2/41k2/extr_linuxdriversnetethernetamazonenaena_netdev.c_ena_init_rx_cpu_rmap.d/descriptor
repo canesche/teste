@@ -1,0 +1,2 @@
+struct ena_adapter | dummy int 
+function ena_init_rx_cpu_rmap int | adapter struct ena_adapter *

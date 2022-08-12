@@ -1,0 +1,2 @@
+struct dma_desc | dummy int 
+function dwxgmac2_get_tx_timestamp_status int | p struct dma_desc *

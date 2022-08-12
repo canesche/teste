@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessathath9kar9003_phy.c_ar9003_hw_init_txpower_ht.d/extr_linuxdriversnetwirelessathath9kar9003_phy.c_ar9003_hw_init_txpower_ht_O0::ar9003_hw_init_txpower_ht(69)"
+  }
+]

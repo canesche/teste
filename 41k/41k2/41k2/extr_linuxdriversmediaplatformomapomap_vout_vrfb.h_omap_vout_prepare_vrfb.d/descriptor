@@ -1,0 +1,3 @@
+struct videobuf_buffer | dummy int 
+struct omap_vout_device | dummy int 
+function omap_vout_prepare_vrfb int | vout struct omap_vout_device * | vb struct videobuf_buffer *

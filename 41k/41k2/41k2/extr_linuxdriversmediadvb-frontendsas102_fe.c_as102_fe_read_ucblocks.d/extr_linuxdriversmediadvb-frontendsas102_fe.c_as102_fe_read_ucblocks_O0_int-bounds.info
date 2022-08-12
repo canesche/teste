@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediadvb-frontendsas102_fe.c_as102_fe_read_ucblocks.d/extr_linuxdriversmediadvb-frontendsas102_fe.c_as102_fe_read_ucblocks_O0::as102_fe_read_ucblocks(65)"
+  }
+]

@@ -1,0 +1,4 @@
+struct TYPE_3__ | f1 unsigned long | f2 unsigned long | dfifosize int | send int * 
+struct TYPE_4__ | hfcD struct TYPE_3__ 
+struct IsdnCardState | hw struct TYPE_4__ 
+function GetFreeFifoBytes_D int | cs struct IsdnCardState *

@@ -1,0 +1,2 @@
+struct bq24190_dev_info | dummy int 
+function bq24190_register_vbus_regulator int | bdi struct bq24190_dev_info *

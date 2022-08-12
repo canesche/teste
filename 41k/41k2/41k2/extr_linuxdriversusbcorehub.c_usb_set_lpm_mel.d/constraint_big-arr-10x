@@ -1,0 +1,1 @@
+value(udev_exit_latency) == 10, value(hub_exit_latency) == 10, length(udev) == 100, length(udev_lpm_params) == 100, length(hub) == 100, length(hub_lpm_params) == 100

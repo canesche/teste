@@ -1,0 +1,3 @@
+struct tee_shm | dummy int 
+struct tee_context | dummy int 
+function optee_shm_unregister_supp int | ctx struct tee_context * | shm struct tee_shm *

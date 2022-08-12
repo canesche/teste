@@ -1,0 +1,2 @@
+struct cm_mra_msg | offset9 int 
+function cm_mra_set_service_timeout void | mra_msg struct cm_mra_msg * | service_timeout int

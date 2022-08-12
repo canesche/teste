@@ -1,0 +1,2 @@
+struct mlme_priv | dummy int 
+function rtw_free_mlme_priv_ie_data void | pmlmepriv struct mlme_priv *

@@ -1,0 +1,2 @@
+struct zd_rf | patch_cck_gain int 
+function zd_rf_should_patch_cck_gain int | rf struct zd_rf *

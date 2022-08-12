@@ -1,0 +1,3 @@
+struct mc44s803_priv | frequency int 
+struct dvb_frontend | tuner_priv struct mc44s803_priv * 
+function mc44s803_get_frequency int | fe struct dvb_frontend * | frequency int *

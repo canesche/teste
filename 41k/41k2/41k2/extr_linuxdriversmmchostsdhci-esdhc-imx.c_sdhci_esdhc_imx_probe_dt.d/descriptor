@@ -1,0 +1,4 @@
+struct sdhci_host | dummy int 
+struct pltfm_imx_data | dummy int 
+struct platform_device | dummy int 
+function sdhci_esdhc_imx_probe_dt int | pdev struct platform_device * | host struct sdhci_host * | imx_data struct pltfm_imx_data *

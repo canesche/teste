@@ -1,0 +1,3 @@
+struct dvb_demux_filter | state long 
+struct dvb_demux | filternum int | filter struct dvb_demux_filter * 
+function dvb_dmx_filter_alloc struct dvb_demux_filter * | demux struct dvb_demux *

@@ -1,0 +1,2 @@
+struct list_head | prev struct list_head * | next struct list_head * 
+function INIT_LIST_HEAD void | list struct list_head *

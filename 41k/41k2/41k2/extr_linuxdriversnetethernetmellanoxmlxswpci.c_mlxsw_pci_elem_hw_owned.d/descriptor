@@ -1,0 +1,2 @@
+struct mlxsw_pci_queue | consumer_counter int | count int 
+function mlxsw_pci_elem_hw_owned int | q struct mlxsw_pci_queue * | owner_bit int

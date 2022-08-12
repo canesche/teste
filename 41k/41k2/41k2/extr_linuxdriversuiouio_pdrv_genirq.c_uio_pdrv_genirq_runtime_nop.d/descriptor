@@ -1,0 +1,2 @@
+struct device | dummy int 
+function uio_pdrv_genirq_runtime_nop int | dev struct device *

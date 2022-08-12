@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnethypervnetvsc_drv.c___netvsc_get_ringparam.d/extr_linuxdriversnethypervnetvsc_drv.c___netvsc_get_ringparam_O0::__netvsc_get_ringparam(68)"
+  }
+]

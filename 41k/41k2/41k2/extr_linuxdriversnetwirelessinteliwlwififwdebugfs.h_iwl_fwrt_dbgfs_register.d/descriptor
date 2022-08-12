@@ -1,0 +1,3 @@
+struct iwl_fw_runtime | dummy int 
+struct dentry | dummy int 
+function iwl_fwrt_dbgfs_register int | fwrt struct iwl_fw_runtime * | dbgfs_dir struct dentry *

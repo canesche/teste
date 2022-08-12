@@ -1,0 +1,2 @@
+struct urb | dummy int 
+function get_buf_nr int | urbs struct urb *[] | urb struct urb *

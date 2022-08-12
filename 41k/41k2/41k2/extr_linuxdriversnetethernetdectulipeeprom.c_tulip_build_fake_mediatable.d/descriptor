@@ -1,0 +1,2 @@
+struct tulip_private | dummy int 
+function tulip_build_fake_mediatable void | tp struct tulip_private *

@@ -1,0 +1,2 @@
+struct sdhci_host | flags int 
+function sdhci_sdio_irq_enabled int | host struct sdhci_host *

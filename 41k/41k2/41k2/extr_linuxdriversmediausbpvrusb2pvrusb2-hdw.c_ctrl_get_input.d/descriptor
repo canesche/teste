@@ -1,0 +1,3 @@
+struct pvr2_ctrl | hdw struct TYPE_2__ * 
+struct TYPE_2__ | input_val int 
+function ctrl_get_input int | cptr struct pvr2_ctrl * | vp int *

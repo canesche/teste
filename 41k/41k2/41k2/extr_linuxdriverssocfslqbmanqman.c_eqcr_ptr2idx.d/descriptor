@@ -1,0 +1,2 @@
+struct qm_eqcr_entry | dummy int 
+function eqcr_ptr2idx int | e struct qm_eqcr_entry *

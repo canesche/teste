@@ -1,0 +1,2 @@
+struct s3c24xx_uart_port | dummy int 
+function s3c24xx_serial_cpufreq_deregister void | port struct s3c24xx_uart_port *

@@ -1,0 +1,4 @@
+struct TYPE_3__ | sensor_num int 
+struct TYPE_4__ | info struct TYPE_3__ 
+struct cros_ec_sensors_core_state | type long | param struct TYPE_4__ 
+function cros_ec_sensors_idx_to_reg unsigned int | st struct cros_ec_sensors_core_state * | idx unsigned int

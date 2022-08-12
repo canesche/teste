@@ -1,0 +1,2 @@
+struct xlgmac_ring | cur unsigned int | dirty unsigned int 
+function xlgmac_rx_dirty_desc unsigned int | ring struct xlgmac_ring *

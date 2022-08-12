@@ -1,0 +1,3 @@
+struct usbnet | intf struct TYPE_2__ * 
+struct TYPE_2__ | needs_remote_wakeup int 
+function usbnet_manage_power int | dev struct usbnet * | on int

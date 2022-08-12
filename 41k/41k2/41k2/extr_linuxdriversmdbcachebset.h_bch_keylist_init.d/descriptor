@@ -1,0 +1,2 @@
+struct keylist | inline_keys int | keys_p int | top_p int 
+function bch_keylist_init void | l struct keylist *

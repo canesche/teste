@@ -1,0 +1,2 @@
+struct gspca_dev | dummy int 
+function gspca_input_create_urb void | gspca_dev struct gspca_dev *

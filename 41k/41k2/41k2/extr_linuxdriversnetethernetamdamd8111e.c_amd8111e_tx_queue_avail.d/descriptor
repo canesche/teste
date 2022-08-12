@@ -1,0 +1,2 @@
+struct amd8111e_priv | tx_idx int | tx_skbuff long * 
+function amd8111e_tx_queue_avail int | lp struct amd8111e_priv *

@@ -1,0 +1,2 @@
+struct ocrdma_qp | cap_flags int 
+function ocrdma_set_create_qp_mbx_access_flags int | qp struct ocrdma_qp *

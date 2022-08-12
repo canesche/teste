@@ -1,0 +1,2 @@
+struct rtl_hal | state long 
+function is_hal_stop int | rtlhal struct rtl_hal *

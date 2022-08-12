@@ -1,0 +1,2 @@
+struct hvsi_struct | dummy int 
+function print_state void | hp struct hvsi_struct *

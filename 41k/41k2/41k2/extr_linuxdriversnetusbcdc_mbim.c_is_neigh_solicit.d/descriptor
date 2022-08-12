@@ -1,0 +1,4 @@
+struct TYPE_2__ | icmp6_code long | icmp6_type long 
+struct nd_msg | icmph struct TYPE_2__ 
+struct ipv6hdr | nexthdr long 
+function is_neigh_solicit int | buf int * | len unsigned long

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdrivershwmonpmbuspmbus_core.c_pmbus_reg2data_linear.d/extr_linuxdrivershwmonpmbuspmbus_core.c_pmbus_reg2data_linear_O0::pmbus_reg2data_linear(69)"
+  }
+]

@@ -1,0 +1,4 @@
+struct TYPE_2__ | pts long 
+struct v4l2_decoder_cmd | cmd long | flags int | stop struct TYPE_2__ 
+struct file | dummy int 
+function coda_try_decoder_cmd int | file struct file * | fh void * | dc struct v4l2_decoder_cmd *

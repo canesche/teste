@@ -1,0 +1,4 @@
+struct TYPE_3__ | ieee_mode long 
+struct ipw_priv | rates_mask int | ieee struct TYPE_4__ * | assoc_request struct TYPE_3__ 
+struct TYPE_4__ | mode long 
+function ipw_get_max_rate int | priv struct ipw_priv *

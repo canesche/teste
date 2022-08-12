@@ -1,0 +1,2 @@
+struct halmac_adapter | gen_info_valid int | h2c_buf_free_space long | h2c_packet_seq long 
+function halmac_init_adapter_dynamic_para_88xx void | halmac_adapter struct halmac_adapter *

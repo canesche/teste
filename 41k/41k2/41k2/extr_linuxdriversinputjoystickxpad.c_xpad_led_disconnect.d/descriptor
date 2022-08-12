@@ -1,0 +1,2 @@
+struct usb_xpad | dummy int 
+function xpad_led_disconnect void | xpad struct usb_xpad *

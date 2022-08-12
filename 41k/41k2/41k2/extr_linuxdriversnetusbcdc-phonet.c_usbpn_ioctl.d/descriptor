@@ -1,0 +1,5 @@
+struct net_device | dummy int 
+struct ifreq | dummy int 
+struct TYPE_2__ | device int 
+struct if_phonet_req | ifr_phonet_autoconf struct TYPE_2__ 
+function usbpn_ioctl int | dev struct net_device * | ifr struct ifreq * | cmd int

@@ -1,0 +1,3 @@
+struct comedi_subdevice | lock void * | busy long 
+struct comedi_device | n_subdevices unsigned long | subdevices struct comedi_subdevice * 
+function do_unlock_ioctl int | dev struct comedi_device * | arg unsigned long | file void *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinfinibandcorecore_priv.h_ib_security_destroy_port_pkey_list.d/extr_linuxdriversinfinibandcorecore_priv.h_ib_security_destroy_port_pkey_list_O0::ib_security_destroy_port_pkey_list(61)"
+  }
+]

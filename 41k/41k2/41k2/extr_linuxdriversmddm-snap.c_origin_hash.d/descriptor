@@ -1,0 +1,2 @@
+struct block_device | bd_dev int 
+function origin_hash unsigned int | bdev struct block_device *

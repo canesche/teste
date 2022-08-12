@@ -1,0 +1,3 @@
+struct ieee80211_hw | priv void * 
+struct dentry | dummy int 
+function rs_alloc void * | hw struct ieee80211_hw * | debugfsdir struct dentry *

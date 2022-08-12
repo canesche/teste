@@ -1,0 +1,3 @@
+struct parport | dummy int 
+struct TYPE_2__ | par_dt_reg int 
+function parport_atari_read_status unsigned char | p struct parport *

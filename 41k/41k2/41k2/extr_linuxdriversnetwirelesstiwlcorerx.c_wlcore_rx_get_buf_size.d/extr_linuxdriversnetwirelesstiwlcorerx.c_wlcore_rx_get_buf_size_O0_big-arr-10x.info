@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelesstiwlcorerx.c_wlcore_rx_get_buf_size.d/extr_linuxdriversnetwirelesstiwlcorerx.c_wlcore_rx_get_buf_size_O0::wlcore_rx_get_buf_size(68)"
+  }
+]

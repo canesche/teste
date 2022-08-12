@@ -1,0 +1,3 @@
+struct TYPE_2__ | l3l2 int 
+struct PStack | l3 struct TYPE_2__ 
+function setstack_transl2 void | st struct PStack *

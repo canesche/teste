@@ -1,0 +1,3 @@
+struct iwl_mvm | trans struct TYPE_2__ * 
+struct TYPE_2__ | system_pm_mode long | runtime_pm_mode long 
+function iwl_mvm_enter_d0i3_on_suspend int | mvm struct iwl_mvm *

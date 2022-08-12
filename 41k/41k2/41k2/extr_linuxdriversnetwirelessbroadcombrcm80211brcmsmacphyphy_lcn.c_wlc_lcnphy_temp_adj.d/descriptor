@@ -1,0 +1,2 @@
+struct brcms_phy | dummy int 
+function wlc_lcnphy_temp_adj void | pi struct brcms_phy *

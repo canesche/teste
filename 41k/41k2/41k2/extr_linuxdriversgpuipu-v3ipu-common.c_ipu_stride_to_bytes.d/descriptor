@@ -1,0 +1,1 @@
+function ipu_stride_to_bytes int | pixel_stride int | pixelformat int

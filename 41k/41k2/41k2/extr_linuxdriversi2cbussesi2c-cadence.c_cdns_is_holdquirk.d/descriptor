@@ -1,0 +1,2 @@
+struct cdns_i2c | curr_recv_count long 
+function cdns_is_holdquirk int | id struct cdns_i2c * | hold_wrkaround int

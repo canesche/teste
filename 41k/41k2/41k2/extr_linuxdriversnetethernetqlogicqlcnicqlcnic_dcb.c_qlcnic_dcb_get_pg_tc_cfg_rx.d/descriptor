@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function qlcnic_dcb_get_pg_tc_cfg_rx void | netdev struct net_device * | prio int | prio_type long * | pgid long * | bw_pct long * | up_map long *

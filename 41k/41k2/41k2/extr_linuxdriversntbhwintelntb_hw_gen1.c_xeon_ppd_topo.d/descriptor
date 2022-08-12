@@ -1,0 +1,2 @@
+struct intel_ntb_dev | dummy int 
+function xeon_ppd_topo enum ntb_topo | ndev struct intel_ntb_dev * | ppd int

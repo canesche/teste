@@ -1,0 +1,5 @@
+struct TYPE_3__ | diagmon int | sff8472_compliance long 
+struct TYPE_4__ | ext struct TYPE_3__ 
+struct sfp | id struct TYPE_4__ 
+struct ethtool_modinfo | eeprom_len int | type int 
+function sfp_module_info int | sfp struct sfp * | modinfo struct ethtool_modinfo *

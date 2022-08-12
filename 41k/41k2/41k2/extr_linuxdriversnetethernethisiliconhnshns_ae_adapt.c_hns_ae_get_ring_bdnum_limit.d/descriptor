@@ -1,0 +1,2 @@
+struct hnae_queue | dummy int 
+function hns_ae_get_ring_bdnum_limit void | queue struct hnae_queue * | uplimit int *

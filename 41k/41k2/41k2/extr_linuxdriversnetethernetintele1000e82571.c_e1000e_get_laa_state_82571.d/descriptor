@@ -1,0 +1,5 @@
+struct TYPE_5__ | laa_is_present int 
+struct TYPE_6__ | e82571 struct TYPE_5__ 
+struct TYPE_4__ | type long 
+struct e1000_hw | dev_spec struct TYPE_6__ | mac struct TYPE_4__ 
+function e1000e_get_laa_state_82571 int | hw struct e1000_hw *

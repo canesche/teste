@@ -1,0 +1,2 @@
+struct pf_vf_bulletin_content | dummy int 
+function bnx2x_vf_bulletin_finalize void | bulletin struct pf_vf_bulletin_content * | support_long int

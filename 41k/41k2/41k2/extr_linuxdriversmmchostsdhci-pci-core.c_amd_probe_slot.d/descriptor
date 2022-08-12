@@ -1,0 +1,4 @@
+struct sdhci_pci_slot | host struct TYPE_2__ * 
+struct mmc_host_ops | execute_tuning int 
+struct TYPE_2__ | mmc_host_ops struct mmc_host_ops 
+function amd_probe_slot int | slot struct sdhci_pci_slot *

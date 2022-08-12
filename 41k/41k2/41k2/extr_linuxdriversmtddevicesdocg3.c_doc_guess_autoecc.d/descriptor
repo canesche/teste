@@ -1,0 +1,2 @@
+struct mtd_oob_ops | mode int 
+function doc_guess_autoecc int | ops struct mtd_oob_ops *

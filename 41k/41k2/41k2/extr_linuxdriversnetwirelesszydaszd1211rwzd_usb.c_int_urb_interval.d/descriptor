@@ -1,0 +1,2 @@
+struct usb_device | speed int 
+function int_urb_interval int | udev struct usb_device *

@@ -1,0 +1,2 @@
+struct drm_crtc | dummy int 
+function tilcdc_crtc_disable_vblank void | crtc struct drm_crtc *

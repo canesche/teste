@@ -1,0 +1,1 @@
+function cmos_read_bank2 unsigned char | addr unsigned char

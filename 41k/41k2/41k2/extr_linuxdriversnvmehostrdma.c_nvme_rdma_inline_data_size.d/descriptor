@@ -1,0 +1,3 @@
+struct nvme_rdma_queue | cmnd_capsule_len unsigned long 
+struct nvme_command | dummy int 
+function nvme_rdma_inline_data_size unsigned long | queue struct nvme_rdma_queue *

@@ -1,0 +1,3 @@
+struct ath_hw_antcomb_conf | main_lna_conf long | alt_lna_conf long 
+struct ath_ant_comb | rssi_second long | rssi_third long | first_quick_scan_conf long | second_quick_scan_conf long | main_conf long | second_ratio long | first_ratio long 
+function ath_ant_set_alt_ratio void | antcomb struct ath_ant_comb * | conf struct ath_hw_antcomb_conf *

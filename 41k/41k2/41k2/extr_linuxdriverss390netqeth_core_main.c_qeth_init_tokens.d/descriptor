@@ -1,0 +1,3 @@
+struct TYPE_2__ | issuer_rm_w int | cm_filter_w int | cm_connection_w int | ulp_filter_w int | ulp_connection_w int 
+struct qeth_card | token struct TYPE_2__ 
+function qeth_init_tokens void | card struct qeth_card *

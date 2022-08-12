@@ -1,0 +1,6 @@
+struct TYPE_7__ | buf_type int 
+struct TYPE_6__ | buf_type int 
+struct TYPE_8__ | ycbcr struct TYPE_7__ | bayer struct TYPE_6__ 
+struct vpfe_isif_device | isif_cfg struct TYPE_8__ | formats struct TYPE_5__ * 
+struct TYPE_5__ | code long 
+function isif_set_buftype int | isif struct vpfe_isif_device * | buf_type enum isif_buftype

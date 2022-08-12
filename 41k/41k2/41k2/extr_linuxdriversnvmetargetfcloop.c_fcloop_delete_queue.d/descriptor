@@ -1,0 +1,2 @@
+struct nvme_fc_local_port | dummy int 
+function fcloop_delete_queue void | localport struct nvme_fc_local_port * | idx unsigned int | handle void *

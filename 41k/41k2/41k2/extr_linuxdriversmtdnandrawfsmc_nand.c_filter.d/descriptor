@@ -1,0 +1,2 @@
+struct dma_chan | private void * 
+function filter int | chan struct dma_chan * | slave void *

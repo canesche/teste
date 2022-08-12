@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessathath9kantenna.c_ath_is_alt_ant_ratio_better.d/extr_linuxdriversnetwirelessathath9kantenna.c_ath_is_alt_ant_ratio_better_O0::ath_is_alt_ant_ratio_better(64)"
+  }
+]

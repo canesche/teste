@@ -1,0 +1,3 @@
+struct rcar_du_device | info struct TYPE_2__ * 
+struct TYPE_2__ | features unsigned int 
+function rcar_du_has int | rcdu struct rcar_du_device * | feature unsigned int

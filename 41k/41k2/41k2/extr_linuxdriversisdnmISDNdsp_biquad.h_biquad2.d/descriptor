@@ -1,0 +1,2 @@
+struct biquad2_state | gain int | z1 int | a1 int | z2 int | a2 int | b1 int | b2 int 
+function biquad2 int | bq struct biquad2_state * | sample int

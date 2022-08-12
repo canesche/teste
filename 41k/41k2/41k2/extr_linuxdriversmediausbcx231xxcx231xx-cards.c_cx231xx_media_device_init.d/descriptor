@@ -1,0 +1,3 @@
+struct usb_device | dummy int 
+struct cx231xx | dummy int 
+function cx231xx_media_device_init int | dev struct cx231xx * | udev struct usb_device *

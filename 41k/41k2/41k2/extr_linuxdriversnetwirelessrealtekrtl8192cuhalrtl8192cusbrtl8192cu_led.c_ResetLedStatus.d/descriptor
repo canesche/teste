@@ -1,0 +1,2 @@
+struct TYPE_3__ | BlinkingLedState int | BlinkTimes long | bLedWPSBlinkInProgress void * | bLedScanBlinkInProgress void * | bLedStartToLinkBlinkInProgress void * | bLedLinkBlinkInProgress void * | bLedNoLinkBlinkInProgress void * | bLedBlinkInProgress void * | bLedOn void * | CurrLedState int 
+function ResetLedStatus void | pLed struct TYPE_3__ *

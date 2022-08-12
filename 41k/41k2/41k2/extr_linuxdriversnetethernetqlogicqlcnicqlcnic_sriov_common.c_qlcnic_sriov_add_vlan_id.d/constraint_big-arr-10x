@@ -1,0 +1,1 @@
+value(vlan_id) == 10, length(sriov) == 100, length(vf) == 100

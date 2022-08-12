@@ -1,0 +1,5 @@
+struct ena_stats | stat_offset long 
+struct ena_adapter | ena_dev struct TYPE_3__ * 
+struct TYPE_4__ | stats int 
+struct TYPE_3__ | admin_queue struct TYPE_4__ 
+function ena_dev_admin_queue_stats void | adapter struct ena_adapter * | data int **

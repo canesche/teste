@@ -1,0 +1,2 @@
+struct btree | dummy int 
+function bch_btree_verify void | b struct btree *

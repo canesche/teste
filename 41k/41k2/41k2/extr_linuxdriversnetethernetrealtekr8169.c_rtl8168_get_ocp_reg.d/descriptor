@@ -1,0 +1,2 @@
+struct rtl8169_private | mac_version long 
+function rtl8168_get_ocp_reg int | tp struct rtl8169_private *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversi2cbussesi2c-pxa.c_i2c_pxa_addr_byte.d/extr_linuxdriversi2cbussesi2c-pxa.c_i2c_pxa_addr_byte_O0::i2c_pxa_addr_byte(62)"
+  }
+]

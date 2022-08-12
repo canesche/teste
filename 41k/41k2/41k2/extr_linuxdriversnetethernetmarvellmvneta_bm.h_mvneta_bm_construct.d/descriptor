@@ -1,0 +1,2 @@
+struct hwbm_pool | dummy int 
+function mvneta_bm_construct int | hwbm_pool struct hwbm_pool * | buf void *

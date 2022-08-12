@@ -1,0 +1,2 @@
+struct lpfc_iocbq | iocb int 
+function lpfc_get_iocb_from_iocbq int * | iocbq struct lpfc_iocbq *

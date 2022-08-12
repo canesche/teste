@@ -1,0 +1,2 @@
+struct psmouse | dummy int 
+function elantech_init_smbus int | psmouse struct psmouse *

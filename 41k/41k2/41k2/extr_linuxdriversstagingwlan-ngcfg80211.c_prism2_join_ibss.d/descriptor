@@ -1,0 +1,4 @@
+struct wiphy | dummy int 
+struct net_device | dummy int 
+struct cfg80211_ibss_params | dummy int 
+function prism2_join_ibss int | wiphy struct wiphy * | dev struct net_device * | params struct cfg80211_ibss_params *

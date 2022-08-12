@@ -1,0 +1,5 @@
+struct TYPE_4__ | intparm long | mbi long | isc long | ena long | mme long | mp long | csense long | mbfc long | mba long 
+struct subchannel | config struct TYPE_4__ 
+struct TYPE_3__ | intparm long | mbi long | isc long | ena long | mme long | mp long | csense long | mbfc long 
+struct schib | mba long | pmcw struct TYPE_3__ 
+function cio_check_config int | sch struct subchannel * | schib struct schib *

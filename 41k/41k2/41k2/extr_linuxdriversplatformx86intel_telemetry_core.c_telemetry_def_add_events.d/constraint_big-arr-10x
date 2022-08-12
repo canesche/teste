@@ -1,0 +1,1 @@
+value(num_pss_evts) == 10, value(num_ioss_evts) == 10, length(pss_evtmap) == 100, length(ioss_evtmap) == 100

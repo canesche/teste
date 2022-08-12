@@ -1,0 +1,2 @@
+struct ath_softc | dummy int 
+function ath9k_btcoex_aggr_limit int | sc struct ath_softc * | max_4ms_framelen int

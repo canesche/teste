@@ -1,0 +1,2 @@
+struct file | dummy int 
+function uctrl_ioctl long | file struct file * | cmd unsigned int | arg unsigned long

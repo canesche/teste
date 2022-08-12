@@ -1,0 +1,3 @@
+struct pps_device | dummy int 
+struct pps_bind_args | dummy int 
+function pps_kc_bind int | pps struct pps_device * | bind_args struct pps_bind_args *

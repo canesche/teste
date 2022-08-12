@@ -1,0 +1,2 @@
+struct halmac_ver | minor_ver void * | prototype_ver void * | major_ver void * 
+function halmac_get_version enum halmac_ret_status | version struct halmac_ver *

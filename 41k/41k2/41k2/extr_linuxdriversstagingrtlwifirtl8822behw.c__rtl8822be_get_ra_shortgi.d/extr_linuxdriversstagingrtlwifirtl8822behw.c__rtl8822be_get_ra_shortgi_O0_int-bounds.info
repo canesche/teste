@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingrtlwifirtl8822behw.c__rtl8822be_get_ra_shortgi.d/extr_linuxdriversstagingrtlwifirtl8822behw.c__rtl8822be_get_ra_shortgi_O0::_rtl8822be_get_ra_shortgi(71)"
+  }
+]

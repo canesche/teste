@@ -1,0 +1,5 @@
+struct TYPE_4__ | rx_errors int 
+struct TYPE_3__ | link_type int 
+struct qeth_card | stats struct TYPE_4__ | info struct TYPE_3__ 
+struct net_device | dev_addr int * | ml_priv struct qeth_card * 
+function qeth_mdio_read int | dev struct net_device * | phy_id int | regnum int

@@ -1,0 +1,2 @@
+struct mvpp2_cls_flow_entry | data int * 
+function mvpp2_cls_flow_port_id_sel void | fe struct mvpp2_cls_flow_entry * | from_packet int

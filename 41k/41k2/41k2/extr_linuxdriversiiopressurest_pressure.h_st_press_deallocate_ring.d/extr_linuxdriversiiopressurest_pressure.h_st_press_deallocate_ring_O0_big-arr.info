@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversiiopressurest_pressure.h_st_press_deallocate_ring.d/extr_linuxdriversiiopressurest_pressure.h_st_press_deallocate_ring_O0::st_press_deallocate_ring(61)"
+  }
+]

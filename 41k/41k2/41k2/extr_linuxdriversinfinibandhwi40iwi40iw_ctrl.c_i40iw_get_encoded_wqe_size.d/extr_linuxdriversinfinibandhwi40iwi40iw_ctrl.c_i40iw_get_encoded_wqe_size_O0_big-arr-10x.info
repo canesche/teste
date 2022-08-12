@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 6,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinfinibandhwi40iwi40iw_ctrl.c_i40iw_get_encoded_wqe_size.d/extr_linuxdriversinfinibandhwi40iwi40iw_ctrl.c_i40iw_get_encoded_wqe_size_O0::i40iw_get_encoded_wqe_size(62)"
+  }
+]

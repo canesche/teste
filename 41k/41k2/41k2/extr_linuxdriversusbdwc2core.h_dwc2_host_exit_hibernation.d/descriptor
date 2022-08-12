@@ -1,0 +1,2 @@
+struct dwc2_hsotg | dummy int 
+function dwc2_host_exit_hibernation int | hsotg struct dwc2_hsotg * | rem_wakeup int | reset int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 13,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 21,
+    static: {
+      instructions: 61,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 61,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediaplatformvividvivid-vid-common.c_vivid_vid_adjust_sel.d/extr_linuxdriversmediaplatformvividvivid-vid-common.c_vivid_vid_adjust_sel_O0::vivid_vid_adjust_sel(66)"
+  }
+]

@@ -1,0 +1,2 @@
+struct ahd_devinfo | target_offset int | channel char | target_mask int | role int | lun void * | target void * | our_scsiid void * 
+function ahd_compile_devinfo void | devinfo struct ahd_devinfo * | our_id void * | target void * | lun void * | channel char | role int

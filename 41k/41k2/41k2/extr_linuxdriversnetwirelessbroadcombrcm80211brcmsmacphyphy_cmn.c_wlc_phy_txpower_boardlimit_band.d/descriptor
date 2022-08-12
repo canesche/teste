@@ -1,0 +1,2 @@
+struct brcms_phy_pub | dummy int 
+function wlc_phy_txpower_boardlimit_band void | ppi struct brcms_phy_pub * | bandunit int | max_pwr int * | min_pwr int * | step_pwr int *

@@ -1,0 +1,1 @@
+function get_gpio_pin_params int | pin_num int | p_translatedpin_num int * | p_group_num int * | p_group_cfg int *

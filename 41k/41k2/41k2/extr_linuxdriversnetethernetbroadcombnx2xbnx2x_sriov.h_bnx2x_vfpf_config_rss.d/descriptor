@@ -1,0 +1,3 @@
+struct bnx2x_config_rss_params | dummy int 
+struct bnx2x | dummy int 
+function bnx2x_vfpf_config_rss int | bp struct bnx2x * | params struct bnx2x_config_rss_params *

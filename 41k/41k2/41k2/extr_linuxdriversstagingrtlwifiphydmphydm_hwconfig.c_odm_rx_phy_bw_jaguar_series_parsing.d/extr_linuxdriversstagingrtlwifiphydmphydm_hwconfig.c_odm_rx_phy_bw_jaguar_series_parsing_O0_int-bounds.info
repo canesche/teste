@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingrtlwifiphydmphydm_hwconfig.c_odm_rx_phy_bw_jaguar_series_parsing.d/extr_linuxdriversstagingrtlwifiphydmphydm_hwconfig.c_odm_rx_phy_bw_jaguar_series_parsing_O0::odm_rx_phy_bw_jaguar_series_parsing(67)"
+  }
+]

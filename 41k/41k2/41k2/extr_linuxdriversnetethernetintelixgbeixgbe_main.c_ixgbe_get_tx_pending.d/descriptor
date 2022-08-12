@@ -1,0 +1,2 @@
+struct ixgbe_ring | next_to_clean unsigned int | next_to_use unsigned int | count unsigned int 
+function ixgbe_get_tx_pending unsigned int | ring struct ixgbe_ring *

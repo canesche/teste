@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediaplatformam437xam437x-vpfe.c_enclosed_rectangle.d/extr_linuxdriversmediaplatformam437xam437x-vpfe.c_enclosed_rectangle_O0::enclosed_rectangle(61)"
+  }
+]

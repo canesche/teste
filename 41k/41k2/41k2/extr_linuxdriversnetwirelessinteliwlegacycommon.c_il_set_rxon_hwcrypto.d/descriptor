@@ -1,0 +1,3 @@
+struct il_rxon_cmd | filter_flags int 
+struct il_priv | staging struct il_rxon_cmd 
+function il_set_rxon_hwcrypto void | il struct il_priv * | hw_decrypt int

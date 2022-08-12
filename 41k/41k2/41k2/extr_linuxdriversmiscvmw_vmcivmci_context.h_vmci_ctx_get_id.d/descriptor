@@ -1,0 +1,2 @@
+struct vmci_ctx | cid int 
+function vmci_ctx_get_id int | context struct vmci_ctx *

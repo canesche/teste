@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversregulatorab3100.c_ab3100_regulators_remove.d/extr_linuxdriversregulatorab3100.c_ab3100_regulators_remove_O0::ab3100_regulators_remove(64)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsiqlogicpti.c_qlogicpti_set_hostdev_defaults.d/extr_linuxdriversscsiqlogicpti.c_qlogicpti_set_hostdev_defaults_O0::qlogicpti_set_hostdev_defaults(66)"
+  }
+]

@@ -1,0 +1,2 @@
+struct nvt_dev | chip_ver long 
+function is_w83667hg int | nvt struct nvt_dev *

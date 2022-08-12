@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 20,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 31,
+    static: {
+      instructions: 86,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 86,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsiaic94xxaic94xx_scb.c_set_speed_mask.d/extr_linuxdriversscsiaic94xxaic94xx_scb.c_set_speed_mask_O0::set_speed_mask(70)"
+  }
+]

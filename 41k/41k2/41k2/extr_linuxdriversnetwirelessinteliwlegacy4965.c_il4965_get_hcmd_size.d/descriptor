@@ -1,0 +1,2 @@
+struct il4965_rxon_cmd | dummy int 
+function il4965_get_hcmd_size int | cmd_id int | len int

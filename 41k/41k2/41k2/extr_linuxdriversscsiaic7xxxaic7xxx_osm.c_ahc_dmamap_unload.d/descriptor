@@ -1,0 +1,2 @@
+struct ahc_softc | dummy int 
+function ahc_dmamap_unload int | ahc struct ahc_softc * | dmat int | map int

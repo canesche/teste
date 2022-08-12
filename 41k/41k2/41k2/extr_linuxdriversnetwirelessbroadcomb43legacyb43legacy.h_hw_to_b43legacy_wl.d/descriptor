@@ -1,0 +1,3 @@
+struct ieee80211_hw | priv struct b43legacy_wl * 
+struct b43legacy_wl | dummy int 
+function hw_to_b43legacy_wl struct b43legacy_wl * | hw struct ieee80211_hw *

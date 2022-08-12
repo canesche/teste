@@ -1,0 +1,2 @@
+struct psmouse | dummy int 
+function psmouse_smbus_cleanup void | psmouse struct psmouse *

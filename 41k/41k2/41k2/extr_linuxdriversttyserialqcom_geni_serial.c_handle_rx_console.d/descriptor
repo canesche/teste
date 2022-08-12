@@ -1,0 +1,2 @@
+struct uart_port | dummy int 
+function handle_rx_console int | uport struct uart_port * | bytes int | drop int

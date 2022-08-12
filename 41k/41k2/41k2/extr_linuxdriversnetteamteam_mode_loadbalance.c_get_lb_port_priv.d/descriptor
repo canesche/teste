@@ -1,0 +1,3 @@
+struct team_port | mode_priv int 
+struct lb_port_priv | dummy int 
+function get_lb_port_priv struct lb_port_priv * | port struct team_port *

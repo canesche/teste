@@ -1,0 +1,2 @@
+struct sas_ha_struct | notify_phy_event int | notify_port_event int 
+function sas_init_events int | sas_ha struct sas_ha_struct *

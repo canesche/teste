@@ -1,0 +1,4 @@
+struct wl1251_sdio | func struct sdio_func * 
+struct wl1251 | if_priv struct wl1251_sdio * 
+struct sdio_func | dummy int 
+function wl_to_func struct sdio_func * | wl struct wl1251 *

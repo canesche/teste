@@ -1,0 +1,2 @@
+struct rcb_common_cb | max_q_per_vf int | max_vfn int 
+function hns_rcb_get_port_in_comm int | rcb_common struct rcb_common_cb * | ring_idx int

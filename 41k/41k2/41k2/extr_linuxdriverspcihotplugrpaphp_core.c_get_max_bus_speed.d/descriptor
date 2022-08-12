@@ -1,0 +1,2 @@
+struct slot | type int 
+function get_max_bus_speed enum pci_bus_speed | slot struct slot *

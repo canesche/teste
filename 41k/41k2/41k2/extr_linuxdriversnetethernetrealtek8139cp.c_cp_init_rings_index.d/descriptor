@@ -1,0 +1,2 @@
+struct cp_private | tx_tail long | tx_head long | rx_tail long 
+function cp_init_rings_index void | cp struct cp_private *

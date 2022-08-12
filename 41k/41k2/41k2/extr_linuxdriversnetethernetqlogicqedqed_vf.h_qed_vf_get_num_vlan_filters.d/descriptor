@@ -1,0 +1,2 @@
+struct qed_hwfn | dummy int 
+function qed_vf_get_num_vlan_filters void | p_hwfn struct qed_hwfn * | num_vlan_filters int *

@@ -1,0 +1,5 @@
+struct TYPE_5__ | mask long 
+struct TYPE_4__ | pfxlen long 
+struct TYPE_6__ | a4 struct TYPE_5__ | a6 struct TYPE_4__ 
+struct qeth_ipaddr | type long | proto long | u struct TYPE_6__ 
+function qeth_l3_addr_match_all int | a1 struct qeth_ipaddr * | a2 struct qeth_ipaddr *

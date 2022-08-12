@@ -1,0 +1,2 @@
+struct bdc | dummy int 
+function bdc_dbg_srr void | bdc struct bdc * | srr_num int

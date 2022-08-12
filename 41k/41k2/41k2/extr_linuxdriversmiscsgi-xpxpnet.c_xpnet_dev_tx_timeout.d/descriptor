@@ -1,0 +1,3 @@
+struct TYPE_2__ | tx_errors int 
+struct net_device | stats struct TYPE_2__ 
+function xpnet_dev_tx_timeout void | dev struct net_device *

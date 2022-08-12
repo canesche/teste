@@ -1,0 +1,1 @@
+function sdio_is_io_busy int | opcode int | arg int

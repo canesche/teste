@@ -1,0 +1,2 @@
+struct wifi_only_cfg | dummy int 
+function exhalbtc_init_hw_config_wifi_only void | wifionly_cfg struct wifi_only_cfg *

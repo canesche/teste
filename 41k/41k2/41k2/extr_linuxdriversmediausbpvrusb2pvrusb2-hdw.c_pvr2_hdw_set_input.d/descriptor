@@ -1,0 +1,2 @@
+struct pvr2_hdw | input_val int | input_dirty int | freqSelector int | freqDirty int 
+function pvr2_hdw_set_input int | hdw struct pvr2_hdw * | v int

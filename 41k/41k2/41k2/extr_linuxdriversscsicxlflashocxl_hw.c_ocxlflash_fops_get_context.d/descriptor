@@ -1,0 +1,2 @@
+struct file | private_data void * 
+function ocxlflash_fops_get_context void * | file struct file *

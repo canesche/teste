@@ -1,0 +1,2 @@
+struct work_struct | dummy int 
+function _brcmf_update_ndtable void | work struct work_struct *

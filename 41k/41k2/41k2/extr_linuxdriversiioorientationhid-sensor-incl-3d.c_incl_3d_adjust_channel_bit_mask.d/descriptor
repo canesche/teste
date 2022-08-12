@@ -1,0 +1,3 @@
+struct TYPE_2__ | sign char | realbits int | storagebits int 
+struct iio_chan_spec | scan_type struct TYPE_2__ 
+function incl_3d_adjust_channel_bit_mask void | chan struct iio_chan_spec * | size int

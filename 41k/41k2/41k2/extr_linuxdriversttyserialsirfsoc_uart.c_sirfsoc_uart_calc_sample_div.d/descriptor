@@ -1,0 +1,1 @@
+function sirfsoc_uart_calc_sample_div unsigned int | baud_rate unsigned long | ioclk_rate unsigned long | set_baud unsigned long *

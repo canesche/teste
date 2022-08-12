@@ -1,0 +1,2 @@
+struct stmpe | dummy int 
+function stmpe811_get_altfunc int | stmpe struct stmpe * | block enum stmpe_block

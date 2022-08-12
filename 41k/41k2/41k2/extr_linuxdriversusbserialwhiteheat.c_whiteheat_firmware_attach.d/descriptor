@@ -1,0 +1,2 @@
+struct usb_serial | dummy int 
+function whiteheat_firmware_attach int | serial struct usb_serial *

@@ -1,0 +1,3 @@
+struct stmmac_rx_queue | dirty_rx long | cur_rx long 
+struct stmmac_priv | rx_queue struct stmmac_rx_queue * 
+function stmmac_rx_dirty unsigned long | priv struct stmmac_priv * | queue unsigned long

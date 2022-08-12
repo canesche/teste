@@ -1,0 +1,3 @@
+struct TYPE_2__ | sz_m1 long 
+struct mlx5_wq_ll | cur_sz long | fbc struct TYPE_2__ 
+function mlx5_wq_ll_is_full int | wq struct mlx5_wq_ll *

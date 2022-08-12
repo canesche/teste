@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetintelixgbeixgbe_x550.c_ixgbe_get_link_capabilities_X550em.d/extr_linuxdriversnetethernetintelixgbeixgbe_x550.c_ixgbe_get_link_capabilities_X550em_O0::ixgbe_get_link_capabilities_X550em(86)"
+  }
+]

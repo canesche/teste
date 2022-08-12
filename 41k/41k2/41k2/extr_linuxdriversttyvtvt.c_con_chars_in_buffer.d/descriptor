@@ -1,0 +1,2 @@
+struct tty_struct | dummy int 
+function con_chars_in_buffer int | tty struct tty_struct *

@@ -1,0 +1,2 @@
+struct sdhci_pci_chip | num_slots int 
+function mrst_hc_probe int | chip struct sdhci_pci_chip *

@@ -1,0 +1,2 @@
+struct device | type int * 
+function is_nd_dax int | dev struct device *

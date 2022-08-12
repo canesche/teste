@@ -1,0 +1,4 @@
+struct oid_par_priv | type_of_oid long | adapter_context long 
+struct TYPE_2__ | tx_pktcount long 
+struct _adapter | mppriv struct TYPE_2__ 
+function oid_rt_pro_reset_tx_packet_sent_hdl int | poid_par_priv struct oid_par_priv *

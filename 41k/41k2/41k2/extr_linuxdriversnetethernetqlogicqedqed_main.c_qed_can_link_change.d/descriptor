@@ -1,0 +1,2 @@
+struct qed_dev | dummy int 
+function qed_can_link_change int | cdev struct qed_dev *

@@ -1,0 +1,1 @@
+function calc_sync_msg void | period unsigned int | offset unsigned int | fast unsigned int | msg unsigned int [2]

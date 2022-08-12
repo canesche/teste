@@ -1,0 +1,1 @@
+function reg_to_pwm_enable enum pwm_enable | pwm int | mode int

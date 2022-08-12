@@ -1,0 +1,2 @@
+struct f54_data | inputs int * 
+function rmi_f54_get_reptype enum rmi_f54_report_type | f54 struct f54_data * | i unsigned int

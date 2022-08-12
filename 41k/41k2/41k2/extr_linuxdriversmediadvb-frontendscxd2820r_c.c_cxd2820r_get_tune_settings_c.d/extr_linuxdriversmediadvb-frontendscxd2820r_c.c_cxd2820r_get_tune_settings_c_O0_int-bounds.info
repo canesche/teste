@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediadvb-frontendscxd2820r_c.c_cxd2820r_get_tune_settings_c.d/extr_linuxdriversmediadvb-frontendscxd2820r_c.c_cxd2820r_get_tune_settings_c_O0::cxd2820r_get_tune_settings_c(63)"
+  }
+]

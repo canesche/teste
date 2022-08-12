@@ -1,0 +1,1 @@
+function mwifiex_chan_type_to_sec_chan_offset int | chan_type enum nl80211_channel_type

@@ -1,0 +1,2 @@
+struct ufs_qcom_phy | dummy int 
+function ufs_qcom_phy_qmp_14nm_set_tx_lane_enable void | phy struct ufs_qcom_phy * | val int

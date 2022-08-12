@@ -1,0 +1,2 @@
+struct comedi_subdevice | maxdata unsigned int 
+function comedi_offset_munge unsigned int | s struct comedi_subdevice * | val unsigned int

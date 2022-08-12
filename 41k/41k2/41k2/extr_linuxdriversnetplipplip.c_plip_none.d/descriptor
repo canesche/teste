@@ -1,0 +1,4 @@
+struct plip_local | dummy int 
+struct net_local | dummy int 
+struct net_device | dummy int 
+function plip_none int | dev struct net_device * | nl struct net_local * | snd struct plip_local * | rcv struct plip_local *

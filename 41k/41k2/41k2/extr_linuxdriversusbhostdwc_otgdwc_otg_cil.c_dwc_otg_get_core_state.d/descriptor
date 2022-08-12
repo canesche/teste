@@ -1,0 +1,2 @@
+struct TYPE_3__ | hibernation_suspend int 
+function dwc_otg_get_core_state int | core_if struct TYPE_3__ *

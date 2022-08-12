@@ -1,0 +1,4 @@
+struct TYPE_4__ | magnitude long | offset long | phase long | period long 
+struct TYPE_3__ | periodic struct TYPE_4__ 
+struct ff_effect | u struct TYPE_3__ 
+function pidff_needs_set_periodic int | effect struct ff_effect * | old struct ff_effect *

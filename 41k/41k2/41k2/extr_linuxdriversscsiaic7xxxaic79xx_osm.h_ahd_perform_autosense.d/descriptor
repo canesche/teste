@@ -1,0 +1,2 @@
+struct scb | dummy int 
+function ahd_perform_autosense int | scb struct scb *

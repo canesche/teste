@@ -1,0 +1,2 @@
+struct i40e_ring | flags int 
+function clear_ring_build_skb_enabled void | ring struct i40e_ring *

@@ -1,0 +1,2 @@
+struct work_struct | dummy int 
+function efx_filter_rfs_expire void | data struct work_struct *

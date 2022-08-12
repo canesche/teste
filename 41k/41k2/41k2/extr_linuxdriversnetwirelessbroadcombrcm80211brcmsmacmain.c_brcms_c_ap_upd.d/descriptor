@@ -1,0 +1,2 @@
+struct brcms_c_info | PLCPHdr_override int 
+function brcms_c_ap_upd void | wlc struct brcms_c_info *

@@ -1,0 +1,2 @@
+struct wifi_only_cfg | dummy int 
+function exhalbtc_switch_band_notify_wifi_only void | wifionly_cfg struct wifi_only_cfg * | is_5g int

@@ -1,0 +1,4 @@
+struct vf_pf_resc_request | num_sbs int | num_mc_filters long | num_vlan_filters int | num_mac_filters int | num_txqs long | num_rxqs long 
+struct bnx2x_virtf | sb_count int | alloc_resc struct vf_pf_resc_request 
+struct bnx2x | dummy int 
+function bnx2x_iov_static_resc void | bp struct bnx2x * | vf struct bnx2x_virtf *

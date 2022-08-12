@@ -1,0 +1,2 @@
+struct wm831x | locked int 
+function wm831x_reg_locked int | wm831x struct wm831x * | reg unsigned short

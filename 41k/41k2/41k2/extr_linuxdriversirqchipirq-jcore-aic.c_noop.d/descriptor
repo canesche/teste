@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function noop void | data struct irq_data *

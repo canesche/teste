@@ -1,0 +1,3 @@
+struct pcifront_sd | pdev struct pcifront_device * 
+struct pcifront_device | dummy int 
+function pcifront_get_pdev struct pcifront_device * | sd struct pcifront_sd *

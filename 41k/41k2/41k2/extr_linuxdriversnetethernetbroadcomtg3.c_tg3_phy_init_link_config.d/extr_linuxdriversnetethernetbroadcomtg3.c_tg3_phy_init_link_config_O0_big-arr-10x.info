@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 56,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 56,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetbroadcomtg3.c_tg3_phy_init_link_config.d/extr_linuxdriversnetethernetbroadcomtg3.c_tg3_phy_init_link_config_O0::tg3_phy_init_link_config(79)"
+  }
+]

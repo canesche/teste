@@ -1,0 +1,2 @@
+struct nfcmrvl_private | dummy int 
+function nfcmrvl_i2c_nci_close int | priv struct nfcmrvl_private *

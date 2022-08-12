@@ -1,0 +1,2 @@
+struct brcms_phy | dummy int 
+function wlc_user_txpwr_antport_to_rfport int | pi struct brcms_phy * | chan int | band int | rate int

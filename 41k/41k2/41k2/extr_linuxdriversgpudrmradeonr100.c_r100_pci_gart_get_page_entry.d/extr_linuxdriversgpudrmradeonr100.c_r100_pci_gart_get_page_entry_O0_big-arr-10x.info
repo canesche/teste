@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversgpudrmradeonr100.c_r100_pci_gart_get_page_entry.d/extr_linuxdriversgpudrmradeonr100.c_r100_pci_gart_get_page_entry_O0::r100_pci_gart_get_page_entry(62)"
+  }
+]

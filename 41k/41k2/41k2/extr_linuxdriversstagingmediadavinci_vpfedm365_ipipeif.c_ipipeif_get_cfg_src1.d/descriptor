@@ -1,0 +1,3 @@
+struct vpfe_ipipeif_device | input long | formats struct v4l2_mbus_framefmt * 
+struct v4l2_mbus_framefmt | code long 
+function ipipeif_get_cfg_src1 int | ipipeif struct vpfe_ipipeif_device *

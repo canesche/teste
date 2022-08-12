@@ -1,0 +1,4 @@
+struct visorhba_devdata | pending struct TYPE_2__ * 
+struct uiscmdrsp | dummy int 
+struct TYPE_2__ | cmdrsp struct uiscmdrsp | sent long 
+function get_scsipending_cmdrsp struct uiscmdrsp * | ddata struct visorhba_devdata * | ent int

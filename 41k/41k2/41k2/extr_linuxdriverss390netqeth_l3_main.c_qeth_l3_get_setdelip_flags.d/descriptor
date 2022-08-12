@@ -1,0 +1,2 @@
+struct qeth_ipaddr | type int | ipato int 
+function qeth_l3_get_setdelip_flags int | addr struct qeth_ipaddr * | set int

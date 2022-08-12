@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversplatformx86dell-rbtn.c_rbtn_rfkill_set_block.d/extr_linuxdriversplatformx86dell-rbtn.c_rbtn_rfkill_set_block_O0::rbtn_rfkill_set_block(61)"
+  }
+]

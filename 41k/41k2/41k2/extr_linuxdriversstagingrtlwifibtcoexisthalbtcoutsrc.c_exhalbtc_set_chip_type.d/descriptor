@@ -1,0 +1,3 @@
+struct TYPE_2__ | bt_chip_type int 
+struct btc_coexist | board_info struct TYPE_2__ 
+function exhalbtc_set_chip_type void | btcoexist struct btc_coexist * | chip_type int

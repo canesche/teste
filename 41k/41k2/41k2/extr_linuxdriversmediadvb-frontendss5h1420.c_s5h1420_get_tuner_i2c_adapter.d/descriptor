@@ -1,0 +1,4 @@
+struct i2c_adapter | dummy int 
+struct s5h1420_state | tuner_i2c_adapter struct i2c_adapter 
+struct dvb_frontend | demodulator_priv struct s5h1420_state * 
+function s5h1420_get_tuner_i2c_adapter struct i2c_adapter * | fe struct dvb_frontend *

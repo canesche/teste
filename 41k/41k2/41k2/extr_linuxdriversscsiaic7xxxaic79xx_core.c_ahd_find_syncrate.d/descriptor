@@ -1,0 +1,2 @@
+struct ahd_softc | dummy int 
+function ahd_find_syncrate void | ahd struct ahd_softc * | period long * | ppr_options long * | maxsync long

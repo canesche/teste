@@ -1,0 +1,3 @@
+struct ScsiReqBlk | msg_count int | state int | msgout_buf int * 
+struct AdapterCtlBlk | dummy int 
+function enable_msgout_abort void | acb struct AdapterCtlBlk * | srb struct ScsiReqBlk *

@@ -1,0 +1,3 @@
+struct rmi_register_descriptor | num_registers int | registers struct rmi_register_desc_item * 
+struct rmi_register_desc_item | reg_size long 
+function rmi_register_desc_calc_size unsigned long | rdesc struct rmi_register_descriptor *

@@ -1,0 +1,2 @@
+struct scsi_cmnd | dummy int 
+function scsi_reset_provider_done_command void | scmd struct scsi_cmnd *

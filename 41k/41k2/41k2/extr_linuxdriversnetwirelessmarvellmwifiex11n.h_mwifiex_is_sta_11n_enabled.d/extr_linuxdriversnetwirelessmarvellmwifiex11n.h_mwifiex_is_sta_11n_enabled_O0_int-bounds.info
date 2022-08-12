@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessmarvellmwifiex11n.h_mwifiex_is_sta_11n_enabled.d/extr_linuxdriversnetwirelessmarvellmwifiex11n.h_mwifiex_is_sta_11n_enabled_O0::mwifiex_is_sta_11n_enabled(67)"
+  }
+]

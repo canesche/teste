@@ -1,0 +1,2 @@
+struct efx_channel | dummy int 
+function efx_channel_dummy_op_void void | channel struct efx_channel *

@@ -1,0 +1,4 @@
+struct TYPE_2__ | bMaxPower unsigned int 
+struct usb_host_config | desc struct TYPE_2__ 
+struct usb_device | speed long 
+function usb_get_max_power unsigned int | udev struct usb_device * | c struct usb_host_config *

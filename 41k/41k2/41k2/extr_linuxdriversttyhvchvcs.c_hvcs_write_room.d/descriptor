@@ -1,0 +1,4 @@
+struct tty_struct | driver_data struct hvcs_struct * 
+struct TYPE_2__ | count long 
+struct hvcs_struct | chars_in_buffer int | port struct TYPE_2__ 
+function hvcs_write_room int | tty struct tty_struct *

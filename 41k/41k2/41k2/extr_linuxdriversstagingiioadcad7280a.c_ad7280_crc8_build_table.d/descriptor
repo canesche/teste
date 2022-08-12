@@ -1,0 +1,1 @@
+function ad7280_crc8_build_table void | crc_tab unsigned char *

@@ -1,0 +1,3 @@
+struct parport | private_data struct ax_drvdata * 
+struct ax_drvdata | dummy int 
+function pp_to_drv struct ax_drvdata * | p struct parport *

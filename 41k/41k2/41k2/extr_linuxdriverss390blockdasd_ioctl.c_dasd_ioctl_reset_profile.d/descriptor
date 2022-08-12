@@ -1,0 +1,2 @@
+struct dasd_block | dummy int 
+function dasd_ioctl_reset_profile int | block struct dasd_block *

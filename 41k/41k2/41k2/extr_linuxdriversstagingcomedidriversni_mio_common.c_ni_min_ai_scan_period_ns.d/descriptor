@@ -1,0 +1,4 @@
+struct ni_private | is_6143 long | is_611x long 
+struct ni_board_struct | ai_speed unsigned int 
+struct comedi_device | private struct ni_private * | board_ptr struct ni_board_struct * 
+function ni_min_ai_scan_period_ns unsigned int | dev struct comedi_device * | num_channels unsigned int

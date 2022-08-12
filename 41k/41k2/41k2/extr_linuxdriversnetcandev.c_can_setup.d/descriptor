@@ -1,0 +1,2 @@
+struct net_device | tx_queue_len int | features int | flags int | addr_len long | hard_header_len long | mtu int | type int 
+function can_setup void | dev struct net_device *

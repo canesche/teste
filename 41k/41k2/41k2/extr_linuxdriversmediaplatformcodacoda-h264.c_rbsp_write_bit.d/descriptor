@@ -1,0 +1,2 @@
+struct rbsp | pos int | size int | buf int * 
+function rbsp_write_bit int | rbsp struct rbsp * | bit int

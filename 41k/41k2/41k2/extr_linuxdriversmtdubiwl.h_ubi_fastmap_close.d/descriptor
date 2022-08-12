@@ -1,0 +1,2 @@
+struct ubi_device | dummy int 
+function ubi_fastmap_close void | ubi struct ubi_device *

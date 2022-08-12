@@ -1,0 +1,2 @@
+struct e1000_hw | device_id int | mac_type int | asf_firmware_present int | bad_tx_carr_stats_fd int | has_smbus int | revision_id int 
+function e1000_set_mac_type int | hw struct e1000_hw *

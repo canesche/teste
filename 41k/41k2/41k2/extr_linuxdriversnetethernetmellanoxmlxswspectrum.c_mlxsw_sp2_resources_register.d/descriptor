@@ -1,0 +1,2 @@
+struct mlxsw_core | dummy int 
+function mlxsw_sp2_resources_register int | mlxsw_core struct mlxsw_core *

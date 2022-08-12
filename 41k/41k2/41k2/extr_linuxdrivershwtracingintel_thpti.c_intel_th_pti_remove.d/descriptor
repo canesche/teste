@@ -1,0 +1,2 @@
+struct intel_th_device | dummy int 
+function intel_th_pti_remove void | thdev struct intel_th_device *

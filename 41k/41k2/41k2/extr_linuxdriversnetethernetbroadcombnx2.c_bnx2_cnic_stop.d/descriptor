@@ -1,0 +1,2 @@
+struct bnx2 | dummy int 
+function bnx2_cnic_stop void | bp struct bnx2 *

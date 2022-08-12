@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessinteliwlwifimvmutils.c_iwl_mvm_legacy_rate_to_mac80211_idx.d/extr_linuxdriversnetwirelessinteliwlwifimvmutils.c_iwl_mvm_legacy_rate_to_mac80211_idx_O0::iwl_mvm_legacy_rate_to_mac80211_idx(68)"
+  }
+]

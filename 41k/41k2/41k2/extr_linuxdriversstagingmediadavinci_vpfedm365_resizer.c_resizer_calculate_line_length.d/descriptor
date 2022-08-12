@@ -1,0 +1,1 @@
+function resizer_calculate_line_length void | pix long | width int | height int | line_len int * | line_len_c int *

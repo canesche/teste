@@ -1,0 +1,2 @@
+struct mb86a16_state | deci int | csel int | rsel int | master_clk int 
+function smrt_info_get void | state struct mb86a16_state * | rate int

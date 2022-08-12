@@ -1,0 +1,2 @@
+struct zoran | dummy int 
+function zoran_proc_cleanup void | zr struct zoran *

@@ -1,0 +1,3 @@
+struct lp8788_charger | num_irqs int | irqs struct TYPE_2__ * 
+struct TYPE_2__ | virq int | which int 
+function lp8788_find_irq_id int | pchg struct lp8788_charger * | virq int | id int *

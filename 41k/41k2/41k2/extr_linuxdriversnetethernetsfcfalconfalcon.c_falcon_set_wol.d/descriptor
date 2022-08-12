@@ -1,0 +1,2 @@
+struct ef4_nic | dummy int 
+function falcon_set_wol int | efx struct ef4_nic * | type long

@@ -1,0 +1,2 @@
+struct dsa_switch | dummy int 
+function b53_possible_cpu_port int | ds struct dsa_switch * | port int

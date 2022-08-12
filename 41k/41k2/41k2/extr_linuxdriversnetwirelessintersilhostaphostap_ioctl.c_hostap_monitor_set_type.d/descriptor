@@ -1,0 +1,3 @@
+struct net_device | type int 
+struct TYPE_3__ | monitor_type long | ddev struct net_device * 
+function hostap_monitor_set_type void | local struct TYPE_3__ *

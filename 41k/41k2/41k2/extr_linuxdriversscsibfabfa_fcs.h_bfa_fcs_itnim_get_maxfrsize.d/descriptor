@@ -1,0 +1,3 @@
+struct bfa_fcs_itnim_s | rport struct TYPE_2__ * 
+struct TYPE_2__ | maxfrsize int 
+function bfa_fcs_itnim_get_maxfrsize int | itnim struct bfa_fcs_itnim_s *

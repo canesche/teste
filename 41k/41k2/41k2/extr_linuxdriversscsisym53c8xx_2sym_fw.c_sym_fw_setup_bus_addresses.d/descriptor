@@ -1,0 +1,3 @@
+struct sym_hcb | scriptz_ba long | fwz_bas int | scriptb_ba long | fwb_bas int | scripta_ba long | fwa_bas int 
+struct sym_fw | z_ofs long | b_ofs long | a_ofs long 
+function sym_fw_setup_bus_addresses void | np struct sym_hcb * | fw struct sym_fw *

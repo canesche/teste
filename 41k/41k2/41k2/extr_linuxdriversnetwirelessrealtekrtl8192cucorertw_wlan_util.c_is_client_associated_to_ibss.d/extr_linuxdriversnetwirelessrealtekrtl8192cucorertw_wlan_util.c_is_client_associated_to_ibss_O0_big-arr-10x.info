@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessrealtekrtl8192cucorertw_wlan_util.c_is_client_associated_to_ibss.d/extr_linuxdriversnetwirelessrealtekrtl8192cucorertw_wlan_util.c_is_client_associated_to_ibss_O0::is_client_associated_to_ibss(69)"
+  }
+]

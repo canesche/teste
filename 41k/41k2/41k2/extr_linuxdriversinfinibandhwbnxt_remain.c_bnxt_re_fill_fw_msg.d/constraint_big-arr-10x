@@ -1,0 +1,1 @@
+value(msg_len) == 10, value(resp_max_len) == 10, value(timeout) == 10, length(msg) == 100, length(resp) == 100, length(fw_msg) == 100

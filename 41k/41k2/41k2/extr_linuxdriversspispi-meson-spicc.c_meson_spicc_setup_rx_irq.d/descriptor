@@ -1,0 +1,2 @@
+struct meson_spicc_device | rx_remain long 
+function meson_spicc_setup_rx_irq int | spicc struct meson_spicc_device * | irq_ctrl int

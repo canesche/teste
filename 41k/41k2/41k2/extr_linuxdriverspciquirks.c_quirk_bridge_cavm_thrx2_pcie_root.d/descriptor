@@ -1,0 +1,2 @@
+struct pci_dev | dev_flags int 
+function quirk_bridge_cavm_thrx2_pcie_root void | pdev struct pci_dev *

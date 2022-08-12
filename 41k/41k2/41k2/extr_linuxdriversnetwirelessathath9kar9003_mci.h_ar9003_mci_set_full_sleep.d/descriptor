@@ -1,0 +1,2 @@
+struct ath_hw | dummy int 
+function ar9003_mci_set_full_sleep void | ah struct ath_hw *

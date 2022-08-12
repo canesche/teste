@@ -1,0 +1,3 @@
+struct qlcnic_adapter | ahw struct TYPE_2__ * 
+struct TYPE_2__ | op_mode long 
+function qlcnic_sriov_pf_check int | adapter struct qlcnic_adapter *

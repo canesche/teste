@@ -1,0 +1,2 @@
+struct r8192_priv | dummy int 
+function _rtl92e_signal_scale_mapping long | priv struct r8192_priv * | currsig long

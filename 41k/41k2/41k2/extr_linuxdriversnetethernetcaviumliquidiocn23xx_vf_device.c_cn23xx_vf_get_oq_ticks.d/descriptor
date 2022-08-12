@@ -1,0 +1,3 @@
+struct TYPE_2__ | coproc_tics_per_us int 
+struct octeon_device | pfvf_hsword struct TYPE_2__ 
+function cn23xx_vf_get_oq_ticks int | oct struct octeon_device * | time_intr_in_us int

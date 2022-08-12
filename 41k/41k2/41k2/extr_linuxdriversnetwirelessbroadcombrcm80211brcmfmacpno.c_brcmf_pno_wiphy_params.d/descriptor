@@ -1,0 +1,2 @@
+struct wiphy | max_sched_scan_reqs int | max_sched_scan_plan_interval int | max_sched_scan_ie_len int | max_match_sets void * | max_sched_scan_ssids void * 
+function brcmf_pno_wiphy_params void | wiphy struct wiphy * | gscan int

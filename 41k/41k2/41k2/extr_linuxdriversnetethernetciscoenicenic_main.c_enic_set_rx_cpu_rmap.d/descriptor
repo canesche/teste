@@ -1,0 +1,2 @@
+struct enic | dummy int 
+function enic_set_rx_cpu_rmap void | enic struct enic *

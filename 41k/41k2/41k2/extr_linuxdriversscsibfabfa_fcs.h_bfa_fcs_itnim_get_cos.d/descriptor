@@ -1,0 +1,3 @@
+struct bfa_fcs_itnim_s | rport struct TYPE_2__ * 
+struct TYPE_2__ | fc_cos int 
+function bfa_fcs_itnim_get_cos enum fc_cos | itnim struct bfa_fcs_itnim_s *

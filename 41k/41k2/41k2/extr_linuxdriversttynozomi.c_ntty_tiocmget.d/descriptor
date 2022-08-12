@@ -1,0 +1,5 @@
+struct tty_struct | driver_data struct port * 
+struct ctrl_ul | DTR long | RTS long 
+struct ctrl_dl | CTS long | DSR long | RI long | DCD long 
+struct port | ctrl_ul struct ctrl_ul | ctrl_dl struct ctrl_dl 
+function ntty_tiocmget int | tty struct tty_struct *

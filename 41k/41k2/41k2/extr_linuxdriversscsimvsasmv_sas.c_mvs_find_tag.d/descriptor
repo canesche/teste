@@ -1,0 +1,4 @@
+struct sas_task | lldd_task struct mvs_slot_info * 
+struct mvs_slot_info | slot_tag int 
+struct mvs_info | dummy int 
+function mvs_find_tag int | mvi struct mvs_info * | task struct sas_task * | tag int *

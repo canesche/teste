@@ -1,0 +1,2 @@
+struct work_struct | dummy int 
+function musb_host_finish_resume void | work struct work_struct *

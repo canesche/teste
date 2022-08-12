@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function qlcnic_dcb_get_pg_bwg_cfg_rx void | netdev struct net_device * | pgid int | bw_pct long *

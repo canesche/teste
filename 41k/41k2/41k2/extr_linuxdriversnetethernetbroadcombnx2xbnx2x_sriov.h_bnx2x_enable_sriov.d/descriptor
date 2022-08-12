@@ -1,0 +1,2 @@
+struct bnx2x | dummy int 
+function bnx2x_enable_sriov int | bp struct bnx2x *

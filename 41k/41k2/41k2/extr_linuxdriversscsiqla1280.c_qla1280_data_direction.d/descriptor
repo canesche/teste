@@ -1,0 +1,2 @@
+struct scsi_cmnd | sc_data_direction int 
+function qla1280_data_direction int | cmnd struct scsi_cmnd *

@@ -1,0 +1,2 @@
+struct fbtft_par | dummy int 
+function set_addr_win void | par struct fbtft_par * | xs int | ys int | xe int | ye int

@@ -1,0 +1,2 @@
+struct IsdnCardState | dummy int 
+function init_tei void | cs struct IsdnCardState * | protocol int

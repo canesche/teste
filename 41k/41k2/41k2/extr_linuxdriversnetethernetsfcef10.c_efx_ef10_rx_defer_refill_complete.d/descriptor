@@ -1,0 +1,2 @@
+struct efx_nic | dummy int 
+function efx_ef10_rx_defer_refill_complete void | efx struct efx_nic * | cookie unsigned long | rc int | outbuf int * | outlen_actual unsigned long

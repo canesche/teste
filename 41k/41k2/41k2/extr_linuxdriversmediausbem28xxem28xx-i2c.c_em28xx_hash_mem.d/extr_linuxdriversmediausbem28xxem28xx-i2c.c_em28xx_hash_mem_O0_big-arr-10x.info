@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 8,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 294,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediausbem28xxem28xx-i2c.c_em28xx_hash_mem.d/extr_linuxdriversmediausbem28xxem28xx-i2c.c_em28xx_hash_mem_O0::em28xx_hash_mem(60)"
+  }
+]

@@ -1,0 +1,2 @@
+struct hnae3_handle | dummy int 
+function hclgevf_get_rss_indir_size int | handle struct hnae3_handle *

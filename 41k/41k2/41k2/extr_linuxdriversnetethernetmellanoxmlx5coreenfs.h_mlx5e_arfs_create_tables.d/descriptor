@@ -1,0 +1,2 @@
+struct mlx5e_priv | dummy int 
+function mlx5e_arfs_create_tables int | priv struct mlx5e_priv *

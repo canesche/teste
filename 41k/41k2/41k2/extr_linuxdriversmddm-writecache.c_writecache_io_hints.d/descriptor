@@ -1,0 +1,4 @@
+struct queue_limits | logical_block_size long | physical_block_size long | io_min long 
+struct dm_writecache | block_size long 
+struct dm_target | private struct dm_writecache * 
+function writecache_io_hints void | ti struct dm_target * | limits struct queue_limits *

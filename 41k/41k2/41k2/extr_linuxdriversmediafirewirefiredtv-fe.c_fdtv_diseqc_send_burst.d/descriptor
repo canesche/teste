@@ -1,0 +1,2 @@
+struct dvb_frontend | dummy int 
+function fdtv_diseqc_send_burst int | fe struct dvb_frontend * | minicmd enum fe_sec_mini_cmd

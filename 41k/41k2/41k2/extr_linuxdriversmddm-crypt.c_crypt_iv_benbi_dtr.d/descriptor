@@ -1,0 +1,2 @@
+struct crypt_config | dummy int 
+function crypt_iv_benbi_dtr void | cc struct crypt_config *

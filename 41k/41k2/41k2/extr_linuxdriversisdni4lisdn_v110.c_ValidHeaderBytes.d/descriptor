@@ -1,0 +1,2 @@
+struct TYPE_3__ | decodelen int | nbytes int | decodebuf int * | key int 
+function ValidHeaderBytes int | v struct TYPE_3__ *

@@ -1,0 +1,4 @@
+struct TYPE_2__ | l1hw int 
+struct PStack | l1 struct TYPE_2__ 
+struct IsdnCardState | dummy int 
+function setstack_hfcpci void | st struct PStack * | cs struct IsdnCardState *

@@ -1,0 +1,4 @@
+struct request | special struct ide_pm_state * 
+struct ide_pm_state | pm_step int | pm_state int 
+struct TYPE_3__ | media long 
+function ide_complete_power_step void | drive struct TYPE_3__ * | rq struct request *

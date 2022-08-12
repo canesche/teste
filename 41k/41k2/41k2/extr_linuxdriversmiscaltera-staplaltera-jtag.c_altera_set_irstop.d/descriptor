@@ -1,0 +1,2 @@
+struct altera_jtag | irstop_state int 
+function altera_set_irstop int | js struct altera_jtag * | state enum altera_jtag_state

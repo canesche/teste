@@ -1,0 +1,3 @@
+struct dsaf_device | rcb_common struct TYPE_2__ ** 
+struct TYPE_2__ | max_vfn int 
+function hns_ae_get_vf_num_per_port int | dsaf_dev struct dsaf_device * | port int

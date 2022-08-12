@@ -1,0 +1,3 @@
+struct device_driver | dummy int 
+struct device | dummy int 
+function pseudo_lld_bus_match int | dev struct device * | dev_driver struct device_driver *

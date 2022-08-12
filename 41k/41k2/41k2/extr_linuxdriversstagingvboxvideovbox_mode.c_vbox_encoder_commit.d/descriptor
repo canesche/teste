@@ -1,0 +1,2 @@
+struct drm_encoder | dummy int 
+function vbox_encoder_commit void | encoder struct drm_encoder *

@@ -1,0 +1,4 @@
+struct TYPE_6__ | port_over_current_change long | port_suspend_change long | port_enable_change long | port_reset_change long | port_connect_status_change long 
+struct TYPE_5__ | b struct TYPE_6__ 
+struct TYPE_7__ | flags struct TYPE_5__ 
+function dwc_otg_hcd_is_status_changed int | hcd struct TYPE_7__ * | port int

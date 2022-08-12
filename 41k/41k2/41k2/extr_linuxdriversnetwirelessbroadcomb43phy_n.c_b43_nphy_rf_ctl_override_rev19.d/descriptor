@@ -1,0 +1,2 @@
+struct b43_wldev | dummy int 
+function b43_nphy_rf_ctl_override_rev19 void | dev struct b43_wldev * | field int | value int | core int | off int | override_id int

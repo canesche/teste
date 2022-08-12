@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetmicrochipencx24j600-regmap.c_encx24j600_regmap_readable.d/extr_linuxdriversnetethernetmicrochipencx24j600-regmap.c_encx24j600_regmap_readable_O0::encx24j600_regmap_readable(61)"
+  }
+]

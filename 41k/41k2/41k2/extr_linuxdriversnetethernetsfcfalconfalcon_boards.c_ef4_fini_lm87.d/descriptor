@@ -1,0 +1,2 @@
+struct ef4_nic | dummy int 
+function ef4_fini_lm87 void | efx struct ef4_nic *

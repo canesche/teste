@@ -1,0 +1,2 @@
+struct dwc2_qh | dev_speed long 
+function dwc2_frame_to_desc_idx int | qh struct dwc2_qh * | frame_idx int

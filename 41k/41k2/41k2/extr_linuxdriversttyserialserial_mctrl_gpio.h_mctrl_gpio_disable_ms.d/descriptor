@@ -1,0 +1,2 @@
+struct mctrl_gpios | dummy int 
+function mctrl_gpio_disable_ms void | gpios struct mctrl_gpios *

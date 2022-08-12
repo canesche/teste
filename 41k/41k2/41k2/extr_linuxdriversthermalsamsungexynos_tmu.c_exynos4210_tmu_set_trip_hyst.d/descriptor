@@ -1,0 +1,2 @@
+struct exynos_tmu_data | dummy int 
+function exynos4210_tmu_set_trip_hyst void | data struct exynos_tmu_data * | trip int | temp int | hyst int

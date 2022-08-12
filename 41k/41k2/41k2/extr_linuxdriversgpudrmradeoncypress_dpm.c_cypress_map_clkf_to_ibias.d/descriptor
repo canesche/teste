@@ -1,0 +1,4 @@
+struct TYPE_3__ | reference_freq int 
+struct TYPE_4__ | mpll struct TYPE_3__ 
+struct radeon_device | clock struct TYPE_4__ 
+function cypress_map_clkf_to_ibias int | rdev struct radeon_device * | clkf int

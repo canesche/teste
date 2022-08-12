@@ -1,0 +1,3 @@
+struct TYPE_2__ | iommu long 
+struct device | archdata struct TYPE_2__ 
+function iommu_dummy int | dev struct device *

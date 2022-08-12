@@ -1,0 +1,2 @@
+struct gb_operation | private void * 
+function gb_operation_set_data void | operation struct gb_operation * | data void *

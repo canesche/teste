@@ -1,0 +1,2 @@
+struct nvme_dev | db_stride unsigned int 
+function db_bar_size unsigned long | dev struct nvme_dev * | nr_io_queues unsigned int

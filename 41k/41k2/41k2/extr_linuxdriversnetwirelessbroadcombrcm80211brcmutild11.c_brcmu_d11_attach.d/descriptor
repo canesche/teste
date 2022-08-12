@@ -1,0 +1,2 @@
+struct brcmu_d11inf | io_type long | decchspec int | encchspec int 
+function brcmu_d11_attach void | d11inf struct brcmu_d11inf *

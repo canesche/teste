@@ -1,0 +1,2 @@
+struct fsg_common | sysfs int 
+function fsg_common_set_sysfs void | common struct fsg_common * | sysfs int

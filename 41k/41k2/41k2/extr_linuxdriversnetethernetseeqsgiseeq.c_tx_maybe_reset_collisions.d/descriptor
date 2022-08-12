@@ -1,0 +1,5 @@
+struct TYPE_3__ | control int 
+struct TYPE_4__ | wregs struct TYPE_3__ 
+struct sgiseeq_regs | rw struct TYPE_4__ 
+struct sgiseeq_private | control int | is_edlc long 
+function tx_maybe_reset_collisions void | sp struct sgiseeq_private * | sregs struct sgiseeq_regs *

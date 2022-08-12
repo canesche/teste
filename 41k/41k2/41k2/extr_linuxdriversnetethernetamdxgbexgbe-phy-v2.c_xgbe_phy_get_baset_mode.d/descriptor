@@ -1,0 +1,2 @@
+struct xgbe_phy_data | dummy int 
+function xgbe_phy_get_baset_mode enum xgbe_mode | phy_data struct xgbe_phy_data * | speed int

@@ -1,0 +1,2 @@
+struct hns3_enet_ring | desc_num int 
+function ring_dist int | ring struct hns3_enet_ring * | begin int | end int

@@ -1,0 +1,2 @@
+struct mvebu_pcie_port | io_target int | io_attr int 
+function mvebu_has_ioport int | port struct mvebu_pcie_port *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversi2cmuxesi2c-mux-pca954x.c_pca954x_irq_set_type.d/extr_linuxdriversi2cmuxesi2c-mux-pca954x.c_pca954x_irq_set_type_O0::pca954x_irq_set_type(64)"
+  }
+]

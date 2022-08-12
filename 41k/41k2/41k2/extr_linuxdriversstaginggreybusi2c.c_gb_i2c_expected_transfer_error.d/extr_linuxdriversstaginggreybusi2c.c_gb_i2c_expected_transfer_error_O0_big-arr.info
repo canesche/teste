@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstaginggreybusi2c.c_gb_i2c_expected_transfer_error.d/extr_linuxdriversstaginggreybusi2c.c_gb_i2c_expected_transfer_error_O0::gb_i2c_expected_transfer_error(62)"
+  }
+]

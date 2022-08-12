@@ -1,0 +1,2 @@
+struct ntb_dev | dummy int 
+function ntb_default_peer_port_count int | ntb struct ntb_dev *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinfinibandhwi40iwi40iw_puda.c_i40iw_ieq_get_fpdu_length.d/extr_linuxdriversinfinibandhwi40iwi40iw_puda.c_i40iw_ieq_get_fpdu_length_O0::i40iw_ieq_get_fpdu_length(62)"
+  }
+]

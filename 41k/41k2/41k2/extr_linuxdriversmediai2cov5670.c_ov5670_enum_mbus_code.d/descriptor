@@ -1,0 +1,4 @@
+struct v4l2_subdev_pad_config | dummy int 
+struct v4l2_subdev_mbus_code_enum | index long | code int 
+struct v4l2_subdev | dummy int 
+function ov5670_enum_mbus_code int | sd struct v4l2_subdev * | cfg struct v4l2_subdev_pad_config * | code struct v4l2_subdev_mbus_code_enum *

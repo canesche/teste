@@ -1,0 +1,2 @@
+struct gendisk | dummy int 
+function nd_integrity_init int | disk struct gendisk * | meta_size unsigned long

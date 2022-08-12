@@ -1,0 +1,2 @@
+struct hns3_enet_ring | next_to_use long | next_to_clean long 
+function is_ring_empty int | ring struct hns3_enet_ring *

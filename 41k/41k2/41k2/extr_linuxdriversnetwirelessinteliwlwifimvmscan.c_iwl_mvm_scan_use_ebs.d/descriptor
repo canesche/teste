@@ -1,0 +1,5 @@
+struct iwl_ucode_capabilities | flags int 
+struct iwl_mvm | last_ebs_successful long | fw struct TYPE_2__ * 
+struct ieee80211_vif | type long 
+struct TYPE_2__ | ucode_capa struct iwl_ucode_capabilities 
+function iwl_mvm_scan_use_ebs int | mvm struct iwl_mvm * | vif struct ieee80211_vif *

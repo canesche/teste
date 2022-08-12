@@ -1,0 +1,3 @@
+struct wireless_dev | dummy int 
+struct wiphy | dummy int 
+function del_virtual_intf int | wiphy struct wiphy * | wdev struct wireless_dev *

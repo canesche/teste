@@ -1,0 +1,2 @@
+struct net_device | mtu int 
+function rmnet_vnd_change_mtu int | rmnet_dev struct net_device * | new_mtu int

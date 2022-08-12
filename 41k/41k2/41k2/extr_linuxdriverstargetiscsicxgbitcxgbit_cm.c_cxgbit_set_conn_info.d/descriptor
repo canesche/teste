@@ -1,0 +1,6 @@
+struct TYPE_3__ | ss_family int 
+struct iscsi_np | np_sockaddr struct TYPE_3__ 
+struct iscsi_conn | local_sockaddr int | login_sockaddr int | login_family int 
+struct TYPE_4__ | local_addr int | remote_addr int 
+struct cxgbit_sock | com struct TYPE_4__ 
+function cxgbit_set_conn_info void | np struct iscsi_np * | conn struct iscsi_conn * | csk struct cxgbit_sock *

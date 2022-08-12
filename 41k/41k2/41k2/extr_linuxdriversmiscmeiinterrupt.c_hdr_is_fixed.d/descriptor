@@ -1,0 +1,2 @@
+struct mei_msg_hdr | host_addr long | me_addr long 
+function hdr_is_fixed int | mei_hdr struct mei_msg_hdr *

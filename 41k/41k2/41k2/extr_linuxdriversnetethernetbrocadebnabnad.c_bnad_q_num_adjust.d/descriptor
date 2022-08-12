@@ -1,0 +1,2 @@
+struct bnad | num_txq_per_tx int | num_tx int | cfg_flags int | num_rxp_per_rx int 
+function bnad_q_num_adjust void | bnad struct bnad * | msix_vectors int | temp int

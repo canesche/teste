@@ -1,0 +1,9 @@
+struct pkt_attrib | nr_frags int | last_txcmdsz long | ampdu_en int | vcs_mode void * | ht_en long | cts2self long | rtsen long 
+struct xmit_frame | attrib struct pkt_attrib 
+struct mlme_ext_info | assoc_AP_vendor long | HT_protection int 
+struct mlme_ext_priv | cur_wireless_mode long | cur_bwmode long | mlmext_info struct mlme_ext_info 
+struct TYPE_6__ | rts_thresh long | wifi_spec long 
+struct TYPE_5__ | dot11PrivacyAlgrthm long 
+struct TYPE_4__ | frag_len long 
+struct adapter | driver_vcs_en int | driver_vcs_type void * | registrypriv struct TYPE_6__ | securitypriv struct TYPE_5__ | xmitpriv struct TYPE_4__ | mlmeextpriv struct mlme_ext_priv 
+function update_attrib_vcs_info void | padapter struct adapter * | pxmitframe struct xmit_frame *

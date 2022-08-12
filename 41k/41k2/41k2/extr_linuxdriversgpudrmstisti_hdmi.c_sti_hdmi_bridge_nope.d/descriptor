@@ -1,0 +1,2 @@
+struct drm_bridge | dummy int 
+function sti_hdmi_bridge_nope void | bridge struct drm_bridge *

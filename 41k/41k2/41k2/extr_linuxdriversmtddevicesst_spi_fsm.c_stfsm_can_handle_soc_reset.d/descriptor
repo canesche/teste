@@ -1,0 +1,3 @@
+struct stfsm | reset_por long | info struct TYPE_2__ * | reset_signal long 
+struct TYPE_2__ | flags int 
+function stfsm_can_handle_soc_reset int | fsm struct stfsm *

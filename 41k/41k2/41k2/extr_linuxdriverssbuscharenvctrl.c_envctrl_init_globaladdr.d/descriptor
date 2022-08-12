@@ -1,0 +1,3 @@
+struct i2c_child_t | total_chnls int | mon_type int * | voltage_mask int | chnl_array struct TYPE_2__ * 
+struct TYPE_2__ | type long 
+function envctrl_init_globaladdr void | pchild struct i2c_child_t *

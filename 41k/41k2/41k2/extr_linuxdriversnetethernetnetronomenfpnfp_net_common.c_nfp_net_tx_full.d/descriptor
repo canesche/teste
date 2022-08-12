@@ -1,0 +1,2 @@
+struct nfp_net_tx_ring | wr_p int | rd_p int | cnt int 
+function nfp_net_tx_full int | tx_ring struct nfp_net_tx_ring * | dcnt int

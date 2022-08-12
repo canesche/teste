@@ -1,0 +1,2 @@
+struct dm_verity | dummy int 
+function verity_fec_ctr_alloc int | v struct dm_verity *

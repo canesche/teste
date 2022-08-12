@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 36616,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingiioadcad7280a.c_ad7280_crc8_build_table.d/extr_linuxdriversstagingiioadcad7280a.c_ad7280_crc8_build_table_O0::ad7280_crc8_build_table(62)"
+  }
+]

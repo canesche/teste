@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 126,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingcomedidriversdt2814.c_dt2814_ns_to_timer.d/extr_linuxdriversstagingcomedidriversdt2814.c_dt2814_ns_to_timer_O0::dt2814_ns_to_timer(60)"
+  }
+]

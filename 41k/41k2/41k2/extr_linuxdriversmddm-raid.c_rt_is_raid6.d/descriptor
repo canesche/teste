@@ -1,0 +1,2 @@
+struct raid_type | level int 
+function rt_is_raid6 int | rt struct raid_type *

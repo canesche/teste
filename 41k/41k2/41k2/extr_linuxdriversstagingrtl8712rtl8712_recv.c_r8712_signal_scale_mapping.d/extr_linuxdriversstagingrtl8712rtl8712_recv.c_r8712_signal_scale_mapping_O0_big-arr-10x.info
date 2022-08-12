@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingrtl8712rtl8712_recv.c_r8712_signal_scale_mapping.d/extr_linuxdriversstagingrtl8712rtl8712_recv.c_r8712_signal_scale_mapping_O0::r8712_signal_scale_mapping(61)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetqlogicqlcnicqlcnic_main.c_qlcnic_set_vlan_config.d/extr_linuxdriversnetethernetqlogicqlcnicqlcnic_main.c_qlcnic_set_vlan_config_O0::qlcnic_set_vlan_config(64)"
+  }
+]

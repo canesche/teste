@@ -1,0 +1,2 @@
+struct usb_hcd | dummy int 
+function oxu_bus_suspend int | hcd struct usb_hcd *

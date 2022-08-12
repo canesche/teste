@@ -1,0 +1,2 @@
+struct sk_buff | dummy int 
+function ipvlan_process_v6_outbound int | skb struct sk_buff *

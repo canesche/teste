@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function parport_pc_platform_probe int | pdev struct platform_device *

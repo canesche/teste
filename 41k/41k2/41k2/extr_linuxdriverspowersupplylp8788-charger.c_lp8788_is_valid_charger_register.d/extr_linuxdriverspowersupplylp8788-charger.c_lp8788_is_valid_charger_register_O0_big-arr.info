@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriverspowersupplylp8788-charger.c_lp8788_is_valid_charger_register.d/extr_linuxdriverspowersupplylp8788-charger.c_lp8788_is_valid_charger_register_O0::lp8788_is_valid_charger_register(63)"
+  }
+]

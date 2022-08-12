@@ -1,0 +1,2 @@
+struct imx_port | dummy int 
+function imx_uart_rts_auto void | sport struct imx_port * | ucr2 int *

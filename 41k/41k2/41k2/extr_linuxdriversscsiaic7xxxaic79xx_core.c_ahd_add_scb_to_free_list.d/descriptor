@@ -1,0 +1,2 @@
+struct ahd_softc | dummy int 
+function ahd_add_scb_to_free_list void | ahd struct ahd_softc * | scbid int

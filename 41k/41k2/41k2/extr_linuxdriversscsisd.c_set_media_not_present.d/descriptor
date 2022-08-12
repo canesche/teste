@@ -1,0 +1,3 @@
+struct scsi_disk | capacity long | media_present long | device struct TYPE_2__ * 
+struct TYPE_2__ | changed int | removable long 
+function set_media_not_present void | sdkp struct scsi_disk *

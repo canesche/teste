@@ -1,0 +1,2 @@
+struct msi_domain_info | dummy int 
+function vmd_get_hwirq int | info struct msi_domain_info * | arg int *

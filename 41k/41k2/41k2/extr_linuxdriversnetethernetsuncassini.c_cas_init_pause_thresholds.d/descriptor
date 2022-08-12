@@ -1,0 +1,3 @@
+struct cas | rx_fifo_size int | rx_pause_off int | rx_pause_on int | dev struct TYPE_2__ * 
+struct TYPE_2__ | mtu int 
+function cas_init_pause_thresholds void | cp struct cas *

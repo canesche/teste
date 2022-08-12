@@ -1,0 +1,3 @@
+struct TYPE_2__ | fw_query_complete int | max_rit_size int | num_mcmac int | num_ucmac int | num_rxp int | num_txq int 
+struct bna_ioceth | attr struct TYPE_2__ 
+function bna_attr_init void | ioceth struct bna_ioceth *

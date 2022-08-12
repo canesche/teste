@@ -1,0 +1,3 @@
+struct mcast_group | func struct TYPE_2__ * 
+struct TYPE_2__ | state long | join_state int 
+function check_leave int | group struct mcast_group * | slave int | leave_mask int

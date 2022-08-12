@@ -1,0 +1,2 @@
+struct f54_data | capabilities int 
+function is_f54_report_type_valid int | f54 struct f54_data * | reptype enum rmi_f54_report_type

@@ -1,0 +1,2 @@
+struct mISDNchannel | addr int 
+function set_channel_address void | ch struct mISDNchannel * | sapi int | tei int

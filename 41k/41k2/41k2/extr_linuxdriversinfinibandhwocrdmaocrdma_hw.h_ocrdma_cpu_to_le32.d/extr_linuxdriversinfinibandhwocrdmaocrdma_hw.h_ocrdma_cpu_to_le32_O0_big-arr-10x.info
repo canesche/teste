@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinfinibandhwocrdmaocrdma_hw.h_ocrdma_cpu_to_le32.d/extr_linuxdriversinfinibandhwocrdmaocrdma_hw.h_ocrdma_cpu_to_le32_O0::ocrdma_cpu_to_le32(61)"
+  }
+]

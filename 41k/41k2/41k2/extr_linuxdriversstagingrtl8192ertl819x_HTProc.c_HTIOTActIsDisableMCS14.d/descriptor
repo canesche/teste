@@ -1,0 +1,2 @@
+struct rtllib_device | dummy int 
+function HTIOTActIsDisableMCS14 int | ieee struct rtllib_device * | PeerMacAddr int *

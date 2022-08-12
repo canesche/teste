@@ -1,0 +1,2 @@
+struct orinoco_private | dummy int 
+function airport_hard_reset int | priv struct orinoco_private *

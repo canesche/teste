@@ -1,0 +1,2 @@
+struct gsm_mux | io_error int | state int 
+function gsm_error void | gsm struct gsm_mux * | data unsigned char | flag unsigned char

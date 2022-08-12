@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsiqla2xxxqla_iocb.c_qla2x00_calc_iocbs_32.d/extr_linuxdriversscsiqla2xxxqla_iocb.c_qla2x00_calc_iocbs_32_O0::qla2x00_calc_iocbs_32(62)"
+  }
+]

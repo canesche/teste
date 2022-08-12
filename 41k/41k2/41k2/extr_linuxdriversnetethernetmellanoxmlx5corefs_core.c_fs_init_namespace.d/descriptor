@@ -1,0 +1,3 @@
+struct TYPE_2__ | type int 
+struct mlx5_flow_namespace | node struct TYPE_2__ 
+function fs_init_namespace struct mlx5_flow_namespace * | ns struct mlx5_flow_namespace *

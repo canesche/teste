@@ -1,0 +1,3 @@
+struct thermal_cooling_device | devdata struct npcm7xx_cooling_device * 
+struct npcm7xx_cooling_device | cur_state unsigned long 
+function npcm7xx_pwm_cz_get_cur_state int | tcdev struct thermal_cooling_device * | state unsigned long *

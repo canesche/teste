@@ -1,0 +1,3 @@
+struct qed_hwfn | p_spq struct TYPE_2__ * 
+struct TYPE_2__ | cid int 
+function qed_spq_get_cid int | p_hwfn struct qed_hwfn *

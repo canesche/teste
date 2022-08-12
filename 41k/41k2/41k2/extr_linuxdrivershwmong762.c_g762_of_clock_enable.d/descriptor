@@ -1,0 +1,2 @@
+struct i2c_client | dummy int 
+function g762_of_clock_enable int | client struct i2c_client *

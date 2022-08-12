@@ -1,0 +1,3 @@
+struct mwifiex_private | dummy int 
+struct host_cmd_ds_command | dummy int 
+function mwifiex_ret_mac_multicast_adr int | priv struct mwifiex_private * | resp struct host_cmd_ds_command *

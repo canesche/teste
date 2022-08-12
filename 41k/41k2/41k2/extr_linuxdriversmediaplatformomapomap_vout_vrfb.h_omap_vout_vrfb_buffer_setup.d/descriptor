@@ -1,0 +1,2 @@
+struct omap_vout_device | dummy int 
+function omap_vout_vrfb_buffer_setup int | vout struct omap_vout_device * | count unsigned int * | startindex unsigned int

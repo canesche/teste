@@ -1,0 +1,4 @@
+struct TYPE_2__ | flags int 
+struct qlcnic_dump_entry | hdr struct TYPE_2__ 
+struct qlcnic_adapter | dummy int 
+function qlcnic_dump_nop int | adapter struct qlcnic_adapter * | entry struct qlcnic_dump_entry * | buffer int *

@@ -1,0 +1,3 @@
+struct tty_struct | disc_data struct n_tty_data * 
+struct n_tty_data | read_tail long | canon_head long | commit_head long | icanon int 
+function chars_in_buffer long | tty struct tty_struct *

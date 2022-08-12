@@ -1,0 +1,2 @@
+struct ica_rsa_modexpo | inputdatalength int 
+function get_rsa_modex_fc unsigned int | mex struct ica_rsa_modexpo * | fcode int *

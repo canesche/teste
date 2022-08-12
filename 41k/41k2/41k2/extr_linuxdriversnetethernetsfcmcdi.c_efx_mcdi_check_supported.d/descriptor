@@ -1,0 +1,3 @@
+struct efx_nic | type struct TYPE_2__ * 
+struct TYPE_2__ | mcdi_max_ver int 
+function efx_mcdi_check_supported int | efx struct efx_nic * | cmd unsigned int | inlen unsigned long

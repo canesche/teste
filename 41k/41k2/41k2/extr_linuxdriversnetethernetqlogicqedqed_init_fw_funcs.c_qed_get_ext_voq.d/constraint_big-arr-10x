@@ -1,0 +1,1 @@
+value(port_id) == 10, value(tc) == 10, value(max_phys_tcs_per_port) == 10, length(p_hwfn) == 100

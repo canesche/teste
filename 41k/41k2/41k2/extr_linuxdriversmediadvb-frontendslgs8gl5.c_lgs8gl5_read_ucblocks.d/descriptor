@@ -1,0 +1,2 @@
+struct dvb_frontend | dummy int 
+function lgs8gl5_read_ucblocks int | fe struct dvb_frontend * | ucblocks long *

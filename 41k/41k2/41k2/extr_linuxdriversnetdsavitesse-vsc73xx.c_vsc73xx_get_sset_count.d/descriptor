@@ -1,0 +1,2 @@
+struct dsa_switch | dummy int 
+function vsc73xx_get_sset_count int | ds struct dsa_switch * | port int | sset int

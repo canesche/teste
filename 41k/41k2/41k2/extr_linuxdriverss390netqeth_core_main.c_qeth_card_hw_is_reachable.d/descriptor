@@ -1,0 +1,2 @@
+struct qeth_card | state long 
+function qeth_card_hw_is_reachable int | card struct qeth_card *

@@ -1,0 +1,6 @@
+struct xhci_hcd | hci_version int 
+struct urb | ep struct TYPE_6__ * | dev struct TYPE_4__ * 
+struct TYPE_5__ | bMaxBurst unsigned int 
+struct TYPE_6__ | ss_ep_comp struct TYPE_5__ 
+struct TYPE_4__ | speed long 
+function xhci_get_last_burst_packet_count unsigned int | xhci struct xhci_hcd * | urb struct urb * | total_packet_count unsigned int

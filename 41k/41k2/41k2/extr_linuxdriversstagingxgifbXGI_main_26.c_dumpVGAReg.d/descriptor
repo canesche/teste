@@ -1,0 +1,2 @@
+struct xgifb_video_info | dummy int 
+function dumpVGAReg void | xgifb_info struct xgifb_video_info *

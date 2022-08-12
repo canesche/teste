@@ -1,0 +1,1 @@
+function hdmi_infoframe_checksum long | ptr long * | size unsigned long

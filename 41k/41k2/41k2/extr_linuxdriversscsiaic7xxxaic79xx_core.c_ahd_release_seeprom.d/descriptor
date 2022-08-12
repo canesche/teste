@@ -1,0 +1,2 @@
+struct ahd_softc | dummy int 
+function ahd_release_seeprom void | ahd struct ahd_softc *

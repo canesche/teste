@@ -1,0 +1,4 @@
+struct TYPE_2__ | seq_num int 
+struct wil_rx_status_extended | ext struct TYPE_2__ 
+struct wil6210_priv | use_compressed_rx_status long 
+function wil_rx_status_get_seq int | wil struct wil6210_priv * | msg void *

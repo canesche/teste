@@ -1,0 +1,2 @@
+struct au0828_dev | dummy int 
+function au0828_unregister_media_device void | dev struct au0828_dev *

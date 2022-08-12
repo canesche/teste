@@ -1,0 +1,4 @@
+struct scsi_cmnd | cmnd int * | device struct TYPE_4__ * 
+struct TYPE_5__ | this_id int | boot_ldrv int | read_ldidmap long | support_random_del long | boot_ldrv_enabled long 
+struct TYPE_4__ | id int 
+function mega_get_ldrv_num int | adapter struct TYPE_5__ * | cmd struct scsi_cmnd * | channel int

@@ -1,0 +1,3 @@
+struct iser_fr_desc | dummy int 
+struct ib_conn | dummy int 
+function iser_reg_desc_put_fmr void | ib_conn struct ib_conn * | desc struct iser_fr_desc *

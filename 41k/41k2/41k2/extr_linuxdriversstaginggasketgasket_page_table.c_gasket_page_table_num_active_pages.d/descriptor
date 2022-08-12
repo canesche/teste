@@ -1,0 +1,2 @@
+struct gasket_page_table | num_active_pages int 
+function gasket_page_table_num_active_pages int | pg_tbl struct gasket_page_table *

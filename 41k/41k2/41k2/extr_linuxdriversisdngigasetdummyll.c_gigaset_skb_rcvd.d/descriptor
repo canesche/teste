@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct bc_state | dummy int 
+function gigaset_skb_rcvd void | bcs struct bc_state * | skb struct sk_buff *

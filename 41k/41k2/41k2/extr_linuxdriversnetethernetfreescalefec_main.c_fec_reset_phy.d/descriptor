@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function fec_reset_phy int | pdev struct platform_device *

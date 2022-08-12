@@ -1,0 +1,3 @@
+struct TYPE_2__ | eqp_bdi int | num_bds_table int | max_bdi int 
+struct bdc_ep | bd_list struct TYPE_2__ 
+function ep_bdlist_eqp_adv void | ep struct bdc_ep *

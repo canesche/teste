@@ -1,0 +1,2 @@
+struct qla_hw_data | beacon_color_state long 
+function qla24xx_flip_colors void | ha struct qla_hw_data * | pflags int *

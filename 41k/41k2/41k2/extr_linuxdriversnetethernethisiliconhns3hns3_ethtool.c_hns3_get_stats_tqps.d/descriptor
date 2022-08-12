@@ -1,0 +1,8 @@
+struct hns3_nic_priv | ring_data struct TYPE_4__ * 
+struct hns3_enet_ring | dummy int 
+struct hnae3_knic_private_info | num_tqps int 
+struct hnae3_handle | kinfo struct hnae3_knic_private_info | priv long 
+struct TYPE_6__ | stats_offset int 
+struct TYPE_5__ | stats_offset int 
+struct TYPE_4__ | ring struct hns3_enet_ring * 
+function hns3_get_stats_tqps void ** | handle struct hnae3_handle * | data void **

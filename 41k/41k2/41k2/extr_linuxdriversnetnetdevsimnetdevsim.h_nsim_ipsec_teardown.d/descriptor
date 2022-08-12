@@ -1,0 +1,2 @@
+struct netdevsim | dummy int 
+function nsim_ipsec_teardown void | ns struct netdevsim *

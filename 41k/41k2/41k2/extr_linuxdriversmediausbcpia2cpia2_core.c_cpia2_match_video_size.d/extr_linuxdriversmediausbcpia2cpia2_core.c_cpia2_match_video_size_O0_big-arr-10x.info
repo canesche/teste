@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediausbcpia2cpia2_core.c_cpia2_match_video_size.d/extr_linuxdriversmediausbcpia2cpia2_core.c_cpia2_match_video_size_O0::cpia2_match_video_size(76)"
+  }
+]

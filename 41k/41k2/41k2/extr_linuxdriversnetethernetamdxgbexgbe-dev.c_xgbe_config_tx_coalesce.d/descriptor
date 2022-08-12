@@ -1,0 +1,2 @@
+struct xgbe_prv_data | dummy int 
+function xgbe_config_tx_coalesce int | pdata struct xgbe_prv_data *

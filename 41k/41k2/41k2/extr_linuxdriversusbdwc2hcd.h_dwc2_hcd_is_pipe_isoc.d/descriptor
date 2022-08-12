@@ -1,0 +1,2 @@
+struct dwc2_hcd_pipe_info | pipe_type long 
+function dwc2_hcd_is_pipe_isoc int | pipe struct dwc2_hcd_pipe_info *

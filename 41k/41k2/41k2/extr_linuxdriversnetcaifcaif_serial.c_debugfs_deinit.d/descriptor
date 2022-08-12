@@ -1,0 +1,2 @@
+struct ser_device | dummy int 
+function debugfs_deinit void | ser struct ser_device *

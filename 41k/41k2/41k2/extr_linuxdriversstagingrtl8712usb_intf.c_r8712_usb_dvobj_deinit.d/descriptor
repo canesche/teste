@@ -1,0 +1,2 @@
+struct _adapter | dummy int 
+function r8712_usb_dvobj_deinit void | padapter struct _adapter *

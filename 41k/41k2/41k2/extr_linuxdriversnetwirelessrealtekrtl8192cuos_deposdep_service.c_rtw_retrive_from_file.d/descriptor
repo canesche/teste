@@ -1,0 +1,1 @@
+function rtw_retrive_from_file int | path char * | buf int * | sz int

@@ -1,0 +1,4 @@
+struct scsi_target | dummy int 
+struct mptsas_phyinfo | port_details struct TYPE_2__ * 
+struct TYPE_2__ | starget struct scsi_target * 
+function mptsas_get_starget struct scsi_target * | phy_info struct mptsas_phyinfo *

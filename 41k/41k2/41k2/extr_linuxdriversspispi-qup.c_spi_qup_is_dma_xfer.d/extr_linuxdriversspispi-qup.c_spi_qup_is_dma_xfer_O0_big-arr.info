@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversspispi-qup.c_spi_qup_is_dma_xfer.d/extr_linuxdriversspispi-qup.c_spi_qup_is_dma_xfer_O0::spi_qup_is_dma_xfer(62)"
+  }
+]

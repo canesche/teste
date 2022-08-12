@@ -1,0 +1,1 @@
+function qeth_l3_fill_netmask void | netmask int * | len unsigned int

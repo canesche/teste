@@ -1,0 +1,2 @@
+struct asic3 | irq_base int 
+function asic3_irq_to_bank int | asic struct asic3 * | irq int

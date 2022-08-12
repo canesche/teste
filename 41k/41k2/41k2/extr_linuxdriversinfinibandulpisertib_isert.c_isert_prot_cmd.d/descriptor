@@ -1,0 +1,3 @@
+struct se_cmd | prot_op long 
+struct isert_conn | pi_support long 
+function isert_prot_cmd int | conn struct isert_conn * | cmd struct se_cmd *

@@ -1,0 +1,2 @@
+struct MPT3SAS_ADAPTER | sense long 
+function mpt3sas_base_get_sense_buffer void * | ioc struct MPT3SAS_ADAPTER * | smid int

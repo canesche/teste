@@ -1,0 +1,2 @@
+struct pool | out_of_data_space long 
+function get_pool_io_error_code int | pool struct pool *

@@ -1,0 +1,2 @@
+struct brcms_phy | dummy int 
+function wlc_phy_upd_rssi_offset int | pi struct brcms_phy * | rssi int | chanspec int

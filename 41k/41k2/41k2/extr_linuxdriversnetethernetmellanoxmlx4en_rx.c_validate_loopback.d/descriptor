@@ -1,0 +1,2 @@
+struct mlx4_en_priv | loopback_ok int 
+function validate_loopback void | priv struct mlx4_en_priv * | va void *

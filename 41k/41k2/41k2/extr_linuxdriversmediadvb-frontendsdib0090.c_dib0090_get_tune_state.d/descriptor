@@ -1,0 +1,3 @@
+struct dvb_frontend | tuner_priv struct dib0090_state * 
+struct dib0090_state | tune_state int 
+function dib0090_get_tune_state enum frontend_tune_state | fe struct dvb_frontend *

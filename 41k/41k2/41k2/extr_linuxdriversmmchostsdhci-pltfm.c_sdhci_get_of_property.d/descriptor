@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function sdhci_get_of_property void | pdev struct platform_device *

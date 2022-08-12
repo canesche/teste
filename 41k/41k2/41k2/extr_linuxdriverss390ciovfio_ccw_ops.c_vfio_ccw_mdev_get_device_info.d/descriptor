@@ -1,0 +1,2 @@
+struct vfio_device_info | flags int | num_irqs int | num_regions int 
+function vfio_ccw_mdev_get_device_info int | info struct vfio_device_info *

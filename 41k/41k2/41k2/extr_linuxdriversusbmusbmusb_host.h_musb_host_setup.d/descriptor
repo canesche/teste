@@ -1,0 +1,2 @@
+struct musb | dummy int 
+function musb_host_setup int | musb struct musb * | power_budget int

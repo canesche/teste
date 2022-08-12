@@ -1,0 +1,3 @@
+struct comedi_subdevice | dummy int 
+struct comedi_device | dummy int 
+function apci3xxx_ai_cancel int | dev struct comedi_device * | s struct comedi_subdevice *

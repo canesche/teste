@@ -1,0 +1,2 @@
+struct pwm_device | chip_data void * 
+function pwm_get_chip_data void * | pwm struct pwm_device *

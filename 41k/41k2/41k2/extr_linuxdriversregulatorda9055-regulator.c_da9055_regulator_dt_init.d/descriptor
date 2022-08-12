@@ -1,0 +1,4 @@
+struct regulator_config | dummy int 
+struct platform_device | dummy int 
+struct da9055_regulator | dummy int 
+function da9055_regulator_dt_init int | pdev struct platform_device * | regulator struct da9055_regulator * | config struct regulator_config * | regid int

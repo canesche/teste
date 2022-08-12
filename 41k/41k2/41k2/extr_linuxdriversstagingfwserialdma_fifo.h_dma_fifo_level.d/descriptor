@@ -1,0 +1,2 @@
+struct dma_fifo | size int | avail int 
+function dma_fifo_level int | fifo struct dma_fifo *

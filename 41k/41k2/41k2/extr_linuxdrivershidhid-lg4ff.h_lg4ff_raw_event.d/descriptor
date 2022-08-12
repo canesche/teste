@@ -1,0 +1,4 @@
+struct lg_drv_data | dummy int 
+struct hid_report | dummy int 
+struct hid_device | dummy int 
+function lg4ff_raw_event int | hdev struct hid_device * | report struct hid_report * | rd int * | size int | drv_data struct lg_drv_data *

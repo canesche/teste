@@ -1,0 +1,3 @@
+struct pvr2_hdw | freqSlotRadio int | freqSlotTelevision int | freqSelector long 
+struct pvr2_ctrl | hdw struct pvr2_hdw * 
+function ctrl_channel_get int | cptr struct pvr2_ctrl * | vp int *

@@ -1,0 +1,2 @@
+struct cm_req_msg | alt_offset138 int 
+function cm_req_get_alt_sl int | req_msg struct cm_req_msg *

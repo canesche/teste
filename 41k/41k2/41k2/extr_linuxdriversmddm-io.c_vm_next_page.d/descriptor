@@ -1,0 +1,2 @@
+struct dpages | context_u long | context_ptr int 
+function vm_next_page void | dp struct dpages *

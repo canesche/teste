@@ -1,0 +1,2 @@
+struct xgbe_prv_data | dummy int 
+function xgbe_phy_switch_bp_2500_mode enum xgbe_mode | pdata struct xgbe_prv_data *

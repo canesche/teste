@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinputtouchscreenwacom_w8001.c_scale_touch_coordinates.d/extr_linuxdriversinputtouchscreenwacom_w8001.c_scale_touch_coordinates_O0::scale_touch_coordinates(62)"
+  }
+]

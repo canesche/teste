@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function atl1e_fix_features int | netdev struct net_device * | features int

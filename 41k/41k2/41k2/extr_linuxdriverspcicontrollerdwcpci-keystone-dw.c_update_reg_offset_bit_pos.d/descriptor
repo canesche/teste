@@ -1,0 +1,1 @@
+function update_reg_offset_bit_pos void | offset int | reg_offset int * | bit_pos int *

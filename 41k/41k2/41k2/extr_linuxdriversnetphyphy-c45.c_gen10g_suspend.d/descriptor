@@ -1,0 +1,2 @@
+struct phy_device | dummy int 
+function gen10g_suspend int | phydev struct phy_device *

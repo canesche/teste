@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversusbgadgetfile_storage.c_set_bulk_out_req_length.d/extr_linuxdriversusbgadgetfile_storage.c_set_bulk_out_req_length_O0::set_bulk_out_req_length(65)"
+  }
+]

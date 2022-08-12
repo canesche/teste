@@ -1,0 +1,2 @@
+struct ibmvfc_host | action int 
+function ibmvfc_set_host_action void | vhost struct ibmvfc_host * | action enum ibmvfc_host_action

@@ -1,0 +1,2 @@
+struct nfp_cpp_area | size unsigned long 
+function nfp_cpp_area_size unsigned long | cpp_area struct nfp_cpp_area *

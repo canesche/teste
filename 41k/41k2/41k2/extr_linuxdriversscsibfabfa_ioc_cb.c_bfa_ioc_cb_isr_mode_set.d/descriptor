@@ -1,0 +1,2 @@
+struct bfa_ioc_s | dummy int 
+function bfa_ioc_cb_isr_mode_set void | ioc struct bfa_ioc_s * | msix int

@@ -1,0 +1,3 @@
+struct qed_hwfn | p_cxt_mngr struct qed_cxt_mngr * 
+struct qed_cxt_mngr | srq_count int 
+function qed_cxt_get_srq_count int | p_hwfn struct qed_hwfn *

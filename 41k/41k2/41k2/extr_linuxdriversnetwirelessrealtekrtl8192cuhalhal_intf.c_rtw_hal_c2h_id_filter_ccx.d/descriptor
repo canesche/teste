@@ -1,0 +1,3 @@
+struct TYPE_4__ | c2h_id_filter_ccx int 
+struct TYPE_5__ | HalFunc struct TYPE_4__ 
+function rtw_hal_c2h_id_filter_ccx int | adapter struct TYPE_5__ *

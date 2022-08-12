@@ -1,0 +1,1 @@
+function dma_info_to_prot int | dir enum dma_data_direction | coherent int | attrs unsigned long

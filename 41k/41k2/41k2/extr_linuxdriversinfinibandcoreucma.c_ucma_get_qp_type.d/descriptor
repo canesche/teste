@@ -1,0 +1,2 @@
+struct rdma_ucm_create_id | ps int | qp_type int 
+function ucma_get_qp_type int | cmd struct rdma_ucm_create_id * | qp_type enum ib_qp_type *

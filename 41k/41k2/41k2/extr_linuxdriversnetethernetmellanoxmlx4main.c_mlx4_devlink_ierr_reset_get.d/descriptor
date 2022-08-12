@@ -1,0 +1,4 @@
+struct TYPE_2__ | vbool int 
+struct devlink_param_gset_ctx | val struct TYPE_2__ 
+struct devlink | dummy int 
+function mlx4_devlink_ierr_reset_get int | devlink struct devlink * | id int | ctx struct devlink_param_gset_ctx *

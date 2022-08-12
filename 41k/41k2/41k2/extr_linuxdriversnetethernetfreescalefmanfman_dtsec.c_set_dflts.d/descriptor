@@ -1,0 +1,2 @@
+struct dtsec_cfg | tx_pad_crc int | ptp_tsu_en int | ptp_exception_en int | maximum_frame int | back_to_back_ipg int | min_ifg_enforcement int | non_back_to_back_ipg2 int | non_back_to_back_ipg1 int | tx_pause_time_extd int | preamble_len int | rx_prepend int | tx_pause_time int | halfdup_coll_window int | halfdup_retransmit int 
+function set_dflts void | cfg struct dtsec_cfg *

@@ -1,0 +1,2 @@
+struct ath5k_ani_state | listen_time long | cck_errors long | ofdm_errors long | last_listen long | last_cck_errors long | last_ofdm_errors long 
+function ath5k_ani_period_restart void | as struct ath5k_ani_state *

@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct device | dummy int 
+function brcmf_pcie_tx int | dev struct device * | skb struct sk_buff *

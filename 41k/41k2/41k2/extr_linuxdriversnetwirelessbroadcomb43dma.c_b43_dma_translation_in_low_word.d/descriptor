@@ -1,0 +1,2 @@
+struct b43_wldev | dummy int 
+function b43_dma_translation_in_low_word int | dev struct b43_wldev * | type enum b43_dmatype

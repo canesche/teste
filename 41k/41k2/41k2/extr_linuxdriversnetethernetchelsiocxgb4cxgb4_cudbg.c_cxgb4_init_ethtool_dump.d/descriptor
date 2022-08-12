@@ -1,0 +1,4 @@
+struct TYPE_4__ | len long | version int | flag int 
+struct TYPE_3__ | fw_vers int 
+struct adapter | eth_dump struct TYPE_4__ | params struct TYPE_3__ 
+function cxgb4_init_ethtool_dump void | adapter struct adapter *

@@ -1,0 +1,3 @@
+struct ath_softc | dummy int 
+struct ath_chanctx | dummy int 
+function ath_chanctx_check_active void | sc struct ath_softc * | ctx struct ath_chanctx *

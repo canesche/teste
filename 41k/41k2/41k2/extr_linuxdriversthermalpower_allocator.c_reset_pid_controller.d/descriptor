@@ -1,0 +1,2 @@
+struct power_allocator_params | prev_err long | err_integral long 
+function reset_pid_controller void | params struct power_allocator_params *

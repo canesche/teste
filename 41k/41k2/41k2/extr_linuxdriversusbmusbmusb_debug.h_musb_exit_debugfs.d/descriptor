@@ -1,0 +1,2 @@
+struct musb | dummy int 
+function musb_exit_debugfs void | musb struct musb *

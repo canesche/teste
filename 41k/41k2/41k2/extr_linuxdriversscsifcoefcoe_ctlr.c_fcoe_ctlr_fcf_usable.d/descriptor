@@ -1,0 +1,2 @@
+struct fcoe_fcf | flags int 
+function fcoe_ctlr_fcf_usable int | fcf struct fcoe_fcf *

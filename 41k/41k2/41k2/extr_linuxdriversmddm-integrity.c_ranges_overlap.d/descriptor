@@ -1,0 +1,2 @@
+struct dm_integrity_range | logical_sector long | n_sectors long 
+function ranges_overlap int | range1 struct dm_integrity_range * | range2 struct dm_integrity_range *

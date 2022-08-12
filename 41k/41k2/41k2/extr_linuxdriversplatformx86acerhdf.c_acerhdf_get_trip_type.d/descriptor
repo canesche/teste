@@ -1,0 +1,2 @@
+struct thermal_zone_device | dummy int 
+function acerhdf_get_trip_type int | thermal struct thermal_zone_device * | trip int | type enum thermal_trip_type *

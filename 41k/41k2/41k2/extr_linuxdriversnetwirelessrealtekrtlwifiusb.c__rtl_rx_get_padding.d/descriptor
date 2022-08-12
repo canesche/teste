@@ -1,0 +1,2 @@
+struct ieee80211_hdr | dummy int 
+function _rtl_rx_get_padding unsigned int | hdr struct ieee80211_hdr * | len unsigned int

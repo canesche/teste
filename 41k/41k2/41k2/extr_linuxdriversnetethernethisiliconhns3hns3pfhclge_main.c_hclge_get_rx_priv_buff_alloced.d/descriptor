@@ -1,0 +1,3 @@
+struct hclge_priv_buf | buf_size long | enable long 
+struct hclge_pkt_buf_alloc | priv_buf struct hclge_priv_buf * 
+function hclge_get_rx_priv_buff_alloced int | buf_alloc struct hclge_pkt_buf_alloc *

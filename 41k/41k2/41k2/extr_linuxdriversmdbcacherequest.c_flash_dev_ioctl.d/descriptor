@@ -1,0 +1,2 @@
+struct bcache_device | dummy int 
+function flash_dev_ioctl int | d struct bcache_device * | mode int | cmd unsigned int | arg unsigned long

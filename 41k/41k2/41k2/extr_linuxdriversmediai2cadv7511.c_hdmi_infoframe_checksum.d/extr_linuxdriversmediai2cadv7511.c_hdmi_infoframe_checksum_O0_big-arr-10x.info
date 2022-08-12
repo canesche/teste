@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 133,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediai2cadv7511.c_hdmi_infoframe_checksum.d/extr_linuxdriversmediai2cadv7511.c_hdmi_infoframe_checksum_O0::hdmi_infoframe_checksum(61)"
+  }
+]

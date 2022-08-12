@@ -1,0 +1,3 @@
+struct TYPE_2__ | xmit_policy int 
+struct bonding | params struct TYPE_2__ 
+function bond_lag_hash_type enum netdev_lag_hash | bond struct bonding * | type enum netdev_lag_tx_type

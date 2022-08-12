@@ -1,0 +1,2 @@
+struct IsdnCardState | dummy int 
+function avm_pnp_setup int | cs struct IsdnCardState *

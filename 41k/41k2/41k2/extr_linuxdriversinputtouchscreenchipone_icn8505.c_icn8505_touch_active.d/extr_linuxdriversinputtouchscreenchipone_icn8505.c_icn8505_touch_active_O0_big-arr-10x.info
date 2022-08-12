@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinputtouchscreenchipone_icn8505.c_icn8505_touch_active.d/extr_linuxdriversinputtouchscreenchipone_icn8505.c_icn8505_touch_active_O0::icn8505_touch_active(63)"
+  }
+]

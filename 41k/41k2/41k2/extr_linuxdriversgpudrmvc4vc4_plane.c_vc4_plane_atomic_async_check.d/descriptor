@@ -1,0 +1,4 @@
+struct drm_plane_state | crtc_w long | crtc_h long | src_w long | src_h long 
+struct drm_plane | state struct TYPE_2__ * 
+struct TYPE_2__ | crtc_w long | crtc_h long | src_w long | src_h long 
+function vc4_plane_atomic_async_check int | plane struct drm_plane * | state struct drm_plane_state *

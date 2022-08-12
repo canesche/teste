@@ -1,0 +1,2 @@
+struct phy_device | dummy int 
+function gen10g_no_soft_reset int | phydev struct phy_device *

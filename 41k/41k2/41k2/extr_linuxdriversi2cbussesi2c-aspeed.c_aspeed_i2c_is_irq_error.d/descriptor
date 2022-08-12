@@ -1,0 +1,1 @@
+function aspeed_i2c_is_irq_error int | irq_status int

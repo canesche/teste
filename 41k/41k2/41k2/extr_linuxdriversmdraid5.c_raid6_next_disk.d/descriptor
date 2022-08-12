@@ -1,0 +1,1 @@
+function raid6_next_disk int | disk int | raid_disks int

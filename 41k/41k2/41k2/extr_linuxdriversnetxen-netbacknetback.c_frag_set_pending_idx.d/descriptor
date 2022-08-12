@@ -1,0 +1,2 @@
+struct TYPE_3__ | page_offset int 
+function frag_set_pending_idx void | frag struct TYPE_3__ * | pending_idx int

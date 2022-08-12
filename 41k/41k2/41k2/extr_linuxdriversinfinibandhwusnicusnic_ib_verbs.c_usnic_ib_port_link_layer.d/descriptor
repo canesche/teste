@@ -1,0 +1,2 @@
+struct ib_device | dummy int 
+function usnic_ib_port_link_layer enum rdma_link_layer | device struct ib_device * | port_num int

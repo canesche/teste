@@ -1,0 +1,2 @@
+struct mtd_info | dummy int 
+function otp_setup char * | device struct mtd_info * | revision char

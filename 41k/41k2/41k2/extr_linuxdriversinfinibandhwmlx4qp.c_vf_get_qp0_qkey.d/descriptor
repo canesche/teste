@@ -1,0 +1,4 @@
+struct TYPE_3__ | num_ports int | spec_qps struct TYPE_4__ * 
+struct mlx4_dev | caps struct TYPE_3__ 
+struct TYPE_4__ | qp0_proxy int | qp0_tunnel int | qp0_qkey int 
+function vf_get_qp0_qkey int | dev struct mlx4_dev * | qpn int | qkey int *

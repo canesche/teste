@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediarcimg-irimg-ir-hw.c_img_ir_free_timing_dynamic.d/extr_linuxdriversmediarcimg-irimg-ir-hw.c_img_ir_free_timing_dynamic_O0::img_ir_free_timing_dynamic(66)"
+  }
+]

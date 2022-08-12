@@ -1,0 +1,2 @@
+struct ib_device | dummy int 
+function translate_max_vl_num int | ibdev struct ib_device * | vl_hw_cap int | max_vl_num int *

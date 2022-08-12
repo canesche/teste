@@ -1,0 +1,2 @@
+struct ath5k_eeprom_info | ee_version long 
+function ath5k_eeprom_bin2freq int | ee struct ath5k_eeprom_info * | bin int | mode unsigned int

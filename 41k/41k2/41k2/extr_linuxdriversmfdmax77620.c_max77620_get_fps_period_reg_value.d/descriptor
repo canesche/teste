@@ -1,0 +1,2 @@
+struct max77620_chip | chip_id int 
+function max77620_get_fps_period_reg_value int | chip struct max77620_chip * | tperiod int

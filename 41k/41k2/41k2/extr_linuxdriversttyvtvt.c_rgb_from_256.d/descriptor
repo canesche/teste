@@ -1,0 +1,2 @@
+struct rgb | r int | g int | b int 
+function rgb_from_256 void | i int | c struct rgb *

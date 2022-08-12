@@ -1,0 +1,4 @@
+struct yuv_frame_info | src_x long | src_y long | src_w int | dst_w int | src_h int | dst_h int | interlaced_y int | pan_y int | dst_y int | vis_h int | pan_x int | dst_x int | vis_w int | lace_mode long | interlaced_uv long 
+struct TYPE_2__ | osd_x_offset int | osd_y_offset int | track_osd long | old_frame_info struct yuv_frame_info 
+struct ivtv | yuv_info struct TYPE_2__ 
+function ivtv_yuv_window_setup int | itv struct ivtv * | f struct yuv_frame_info *

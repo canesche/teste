@@ -1,0 +1,3 @@
+struct gb_spi_transfer_request | dummy int 
+struct gb_spi_transfer | dummy int 
+function calc_tx_xfer_size unsigned long | tx_size int | count int | len unsigned long | data_max unsigned long

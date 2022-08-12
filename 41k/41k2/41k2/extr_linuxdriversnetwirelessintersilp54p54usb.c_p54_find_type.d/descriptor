@@ -1,0 +1,3 @@
+struct p54u_priv | hw_type long 
+struct TYPE_2__ | type long 
+function p54_find_type int | priv struct p54u_priv *

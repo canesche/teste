@@ -1,0 +1,2 @@
+struct net_device | mtu long 
+function gmac_fix_features int | netdev struct net_device * | features int

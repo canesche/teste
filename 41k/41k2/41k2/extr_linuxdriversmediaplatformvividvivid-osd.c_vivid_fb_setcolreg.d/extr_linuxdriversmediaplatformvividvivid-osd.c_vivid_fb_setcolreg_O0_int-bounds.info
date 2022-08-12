@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediaplatformvividvivid-osd.c_vivid_fb_setcolreg.d/extr_linuxdriversmediaplatformvividvivid-osd.c_vivid_fb_setcolreg_O0::vivid_fb_setcolreg(71)"
+  }
+]

@@ -1,0 +1,2 @@
+struct b43_wldev | dummy int 
+function b43_gphy_op_get_default_chan unsigned int | dev struct b43_wldev *

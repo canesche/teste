@@ -1,0 +1,2 @@
+struct drm_display_mode | hsync_start long | htotal long 
+function sti_vtg_get_pixel_number long | mode struct drm_display_mode | x int

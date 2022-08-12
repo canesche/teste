@@ -1,0 +1,2 @@
+struct ptp_clock_info | dummy int 
+function hv_ptp_adjfreq int | ptp struct ptp_clock_info * | delta int

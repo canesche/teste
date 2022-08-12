@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversgpuhost1xsyncpt.c_host1x_syncpt_get_base.d/extr_linuxdriversgpuhost1xsyncpt.c_host1x_syncpt_get_base_O0::host1x_syncpt_get_base(63)"
+  }
+]

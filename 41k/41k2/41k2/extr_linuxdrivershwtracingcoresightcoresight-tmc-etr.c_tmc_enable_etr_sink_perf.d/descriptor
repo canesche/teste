@@ -1,0 +1,2 @@
+struct coresight_device | dummy int 
+function tmc_enable_etr_sink_perf int | csdev struct coresight_device *

@@ -1,0 +1,3 @@
+struct bfa_fcxp_s | fcxp_mod struct bfa_fcxp_mod_s * 
+struct bfa_fcxp_mod_s | req_pld_sz int 
+function bfa_fcxp_get_reqbufsz int | fcxp struct bfa_fcxp_s *

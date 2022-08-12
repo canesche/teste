@@ -1,0 +1,3 @@
+struct TYPE_2__ | iftype int 
+struct brcmf_cfg80211_vif | wdev struct TYPE_2__ 
+function brcmf_is_apmode int | vif struct brcmf_cfg80211_vif *

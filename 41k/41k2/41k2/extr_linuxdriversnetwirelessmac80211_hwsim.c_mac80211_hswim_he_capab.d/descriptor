@@ -1,0 +1,3 @@
+struct ieee80211_supported_band | band long | n_iftype_data int | iftype_data struct ieee80211_sband_iftype_data * 
+struct ieee80211_sband_iftype_data | dummy int 
+function mac80211_hswim_he_capab void | sband struct ieee80211_supported_band *

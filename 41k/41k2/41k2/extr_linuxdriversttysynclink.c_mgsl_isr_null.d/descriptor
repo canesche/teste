@@ -1,0 +1,2 @@
+struct mgsl_struct | dummy int 
+function mgsl_isr_null void | info struct mgsl_struct *

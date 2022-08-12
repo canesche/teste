@@ -1,0 +1,2 @@
+struct TYPE_3__ | debugfs_node int 
+function vchiq_instance_get_debugfs_node int * | instance struct TYPE_3__ *

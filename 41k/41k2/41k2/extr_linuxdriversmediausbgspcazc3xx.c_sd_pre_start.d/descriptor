@@ -1,0 +1,4 @@
+struct sd | reg08 int 
+struct TYPE_2__ | needs_full_bandwidth int 
+struct gspca_dev | cam struct TYPE_2__ 
+function sd_pre_start int | gspca_dev struct gspca_dev *

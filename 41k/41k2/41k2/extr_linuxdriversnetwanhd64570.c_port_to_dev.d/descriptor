@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct TYPE_3__ | dev struct net_device * 
+function port_to_dev struct net_device * | port struct TYPE_3__ *

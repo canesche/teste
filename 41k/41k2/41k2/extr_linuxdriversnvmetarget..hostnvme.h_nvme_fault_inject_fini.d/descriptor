@@ -1,0 +1,2 @@
+struct nvme_ns | dummy int 
+function nvme_fault_inject_fini void | ns struct nvme_ns *

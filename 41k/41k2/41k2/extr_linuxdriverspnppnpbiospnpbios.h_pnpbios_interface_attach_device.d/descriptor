@@ -1,0 +1,2 @@
+struct pnp_bios_node | dummy int 
+function pnpbios_interface_attach_device int | node struct pnp_bios_node *

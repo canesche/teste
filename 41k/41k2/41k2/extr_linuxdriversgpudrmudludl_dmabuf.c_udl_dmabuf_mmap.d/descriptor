@@ -1,0 +1,3 @@
+struct vm_area_struct | dummy int 
+struct dma_buf | dummy int 
+function udl_dmabuf_mmap int | dma_buf struct dma_buf * | vma struct vm_area_struct *

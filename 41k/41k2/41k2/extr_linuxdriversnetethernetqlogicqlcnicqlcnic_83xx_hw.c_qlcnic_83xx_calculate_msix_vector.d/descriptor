@@ -1,0 +1,2 @@
+struct qlcnic_adapter | drv_sds_rings int | flags int | drv_tx_rings long 
+function qlcnic_83xx_calculate_msix_vector int | adapter struct qlcnic_adapter *

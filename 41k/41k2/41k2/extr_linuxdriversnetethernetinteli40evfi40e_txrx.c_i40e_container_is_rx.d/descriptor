@@ -1,0 +1,3 @@
+struct i40e_ring_container | dummy int 
+struct i40e_q_vector | rx struct i40e_ring_container 
+function i40e_container_is_rx int | q_vector struct i40e_q_vector * | rc struct i40e_ring_container *

@@ -1,0 +1,4 @@
+struct TYPE_4__ | latest long 
+struct TYPE_3__ | latest long 
+struct hfi1_pportdata | remote_link_down_reason void * | neigh_link_down_reason struct TYPE_4__ | local_link_down_reason struct TYPE_3__ 
+function set_link_down_reason void | ppd struct hfi1_pportdata * | lcl_reason void * | neigh_reason void * | rem_reason void *

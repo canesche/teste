@@ -1,0 +1,2 @@
+struct hisi_pmu | num_counters int 
+function hisi_uncore_pmu_counter_valid int | hisi_pmu struct hisi_pmu * | idx int

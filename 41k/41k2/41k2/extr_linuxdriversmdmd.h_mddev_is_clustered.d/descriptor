@@ -1,0 +1,3 @@
+struct TYPE_2__ | nodes int 
+struct mddev | bitmap_info struct TYPE_2__ | cluster_info long 
+function mddev_is_clustered int | mddev struct mddev *

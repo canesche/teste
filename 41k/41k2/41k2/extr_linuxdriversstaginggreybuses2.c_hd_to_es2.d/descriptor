@@ -1,0 +1,3 @@
+struct gb_host_device | hd_priv int 
+struct es2_ap_dev | dummy int 
+function hd_to_es2 struct es2_ap_dev * | hd struct gb_host_device *

@@ -1,0 +1,2 @@
+struct ufs_hba | dummy int 
+function ufshcd_runtime_idle int | hba struct ufs_hba *

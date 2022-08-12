@@ -1,0 +1,1 @@
+function ifx_spi_decode_spi_header int | buffer unsigned char * | length int * | more unsigned char * | received_cts unsigned char *

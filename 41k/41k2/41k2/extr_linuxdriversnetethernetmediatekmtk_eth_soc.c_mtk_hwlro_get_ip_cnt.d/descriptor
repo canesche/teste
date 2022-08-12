@@ -1,0 +1,2 @@
+struct mtk_mac | hwlro_ip long * 
+function mtk_hwlro_get_ip_cnt int | mac struct mtk_mac *

@@ -1,0 +1,2 @@
+struct i2c_client | dummy int 
+function elan_smbus_get_pressure_adjustment int | client struct i2c_client * | adjustment int *

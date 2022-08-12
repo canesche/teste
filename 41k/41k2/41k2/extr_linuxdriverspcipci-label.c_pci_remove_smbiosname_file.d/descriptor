@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function pci_remove_smbiosname_file void | pdev struct pci_dev *

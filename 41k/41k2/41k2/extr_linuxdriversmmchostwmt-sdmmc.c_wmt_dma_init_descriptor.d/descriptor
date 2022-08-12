@@ -1,0 +1,2 @@
+struct wmt_dma_descriptor | flags int | branch_addr void * | data_buffer_addr void * 
+function wmt_dma_init_descriptor void | desc struct wmt_dma_descriptor * | req_count int | buffer_addr void * | branch_addr void * | end int

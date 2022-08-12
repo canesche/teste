@@ -1,0 +1,2 @@
+struct sta_info | dummy int 
+function issue_asocrsp void | padapter int * | status unsigned short | pstat struct sta_info * | pkt_type int

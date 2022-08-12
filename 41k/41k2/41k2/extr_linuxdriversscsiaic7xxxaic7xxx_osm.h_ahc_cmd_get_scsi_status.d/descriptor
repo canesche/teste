@@ -1,0 +1,2 @@
+struct scsi_cmnd | result int 
+function ahc_cmd_get_scsi_status int | cmd struct scsi_cmnd *

@@ -1,0 +1,5 @@
+struct TYPE_3__ | func long 
+struct TYPE_4__ | type long 
+struct ixgbe_hw | bus struct TYPE_3__ | mac struct TYPE_4__ 
+struct ixgbe_adapter | eeprom_cap long | hw struct ixgbe_hw 
+function ixgbe_wol_supported int | adapter struct ixgbe_adapter * | device_id long | subdevice_id long

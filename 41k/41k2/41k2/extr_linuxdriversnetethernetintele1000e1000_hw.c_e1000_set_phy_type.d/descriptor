@@ -1,0 +1,2 @@
+struct e1000_hw | mac_type long | phy_id int | phy_type int 
+function e1000_set_phy_type int | hw struct e1000_hw *

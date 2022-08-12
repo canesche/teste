@@ -1,0 +1,2 @@
+struct ksz_desc_info | next long | last long | alloc int | avail int | ring int | cur int 
+function hw_reset_pkts void | info struct ksz_desc_info *

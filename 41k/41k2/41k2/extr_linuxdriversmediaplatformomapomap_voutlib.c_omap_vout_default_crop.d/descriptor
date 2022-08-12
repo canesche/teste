@@ -1,0 +1,5 @@
+struct v4l2_rect | width int | height int | left int | top int 
+struct v4l2_pix_format | width int | height int 
+struct TYPE_2__ | width int | height int 
+struct v4l2_framebuffer | fmt struct TYPE_2__ 
+function omap_vout_default_crop void | pix struct v4l2_pix_format * | fbuf struct v4l2_framebuffer * | crop struct v4l2_rect *

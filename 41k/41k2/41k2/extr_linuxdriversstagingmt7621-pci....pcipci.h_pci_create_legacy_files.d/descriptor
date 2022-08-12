@@ -1,0 +1,2 @@
+struct pci_bus | dummy int 
+function pci_create_legacy_files void | bus struct pci_bus *

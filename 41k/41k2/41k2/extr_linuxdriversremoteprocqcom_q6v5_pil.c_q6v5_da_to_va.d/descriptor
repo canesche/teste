@@ -1,0 +1,3 @@
+struct rproc | priv struct q6v5 * 
+struct q6v5 | mpss_reloc int | mpss_size int | mpss_region void * 
+function q6v5_da_to_va void * | rproc struct rproc * | da int | len int

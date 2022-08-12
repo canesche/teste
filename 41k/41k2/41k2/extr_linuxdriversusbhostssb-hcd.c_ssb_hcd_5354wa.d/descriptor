@@ -1,0 +1,2 @@
+struct ssb_device | dummy int 
+function ssb_hcd_5354wa void | dev struct ssb_device *

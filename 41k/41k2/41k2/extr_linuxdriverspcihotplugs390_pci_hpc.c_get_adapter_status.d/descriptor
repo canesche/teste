@@ -1,0 +1,2 @@
+struct hotplug_slot | dummy int 
+function get_adapter_status int | hotplug_slot struct hotplug_slot * | value int *

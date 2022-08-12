@@ -1,0 +1,3 @@
+struct opp_table | dummy int 
+struct device | dummy int 
+function _of_init_opp_table void | opp_table struct opp_table * | dev struct device *

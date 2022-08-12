@@ -1,0 +1,2 @@
+struct rtl_priv | dummy int 
+function rtl_halmac_get_drv_info_sz int | rtlpriv struct rtl_priv * | sz int *

@@ -1,0 +1,2 @@
+struct IsdnCard | dummy int 
+function setup_diva_pci int | card struct IsdnCard *

@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function pci_restore_ats_state void | dev struct pci_dev *

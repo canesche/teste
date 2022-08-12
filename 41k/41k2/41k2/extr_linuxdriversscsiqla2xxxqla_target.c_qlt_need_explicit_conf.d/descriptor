@@ -1,0 +1,3 @@
+struct qla_tgt_cmd | conf_compl_supported int | qpair struct TYPE_2__ * 
+struct TYPE_2__ | enable_explicit_conf long | enable_class_2 long 
+function qlt_need_explicit_conf int | cmd struct qla_tgt_cmd * | sending_sense int

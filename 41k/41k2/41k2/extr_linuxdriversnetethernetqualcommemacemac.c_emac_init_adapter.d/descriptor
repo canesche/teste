@@ -1,0 +1,2 @@
+struct emac_adapter | irq_mod int | automatic int | single_pause_mode int | preamble int | rfd_burst int | tpd_burst int | dmaw_dly_cnt int | dmar_dly_cnt int | dmaw_block int | dmar_block int | dma_order int | rx_desc_cnt int | tx_desc_cnt int | rfd_size int | tpd_size int | rrd_size int 
+function emac_init_adapter void | adpt struct emac_adapter *

@@ -1,0 +1,2 @@
+struct ld9040 | error int 
+function ld9040_clear_error int | ctx struct ld9040 *

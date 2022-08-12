@@ -1,0 +1,3 @@
+struct sdw_cdns_pdi | assigned int | ch_count long 
+struct sdw_cdns | dummy int 
+function cdns_get_num_pdi int | cdns struct sdw_cdns * | pdi struct sdw_cdns_pdi * | num unsigned int | ch_count long

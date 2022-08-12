@@ -1,0 +1,3 @@
+struct ethtool_modinfo | eeprom_len int | type int 
+struct ef4_nic | dummy int 
+function qt202x_phy_get_module_info int | efx struct ef4_nic * | modinfo struct ethtool_modinfo *

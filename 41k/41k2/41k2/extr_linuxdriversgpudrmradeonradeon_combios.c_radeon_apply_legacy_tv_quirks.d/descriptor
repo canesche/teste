@@ -1,0 +1,3 @@
+struct drm_device | pdev struct TYPE_2__ * 
+struct TYPE_2__ | device int | subsystem_vendor int | subsystem_device int 
+function radeon_apply_legacy_tv_quirks int | dev struct drm_device *

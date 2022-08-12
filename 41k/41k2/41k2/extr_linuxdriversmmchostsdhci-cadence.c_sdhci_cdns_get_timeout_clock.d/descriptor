@@ -1,0 +1,2 @@
+struct sdhci_host | max_clk unsigned int 
+function sdhci_cdns_get_timeout_clock unsigned int | host struct sdhci_host *

@@ -1,0 +1,3 @@
+struct pcmcia_socket | dummy int 
+struct pccard_io_map | dummy int 
+function bcm63xx_pcmcia_set_io_map int | sock struct pcmcia_socket * | map struct pccard_io_map *

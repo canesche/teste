@@ -1,0 +1,2 @@
+struct mlx5_ib_dev | dummy int 
+function mlx5_ib_odp_init_one int | ibdev struct mlx5_ib_dev *

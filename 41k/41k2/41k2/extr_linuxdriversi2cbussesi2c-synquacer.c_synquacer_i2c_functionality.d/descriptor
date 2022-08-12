@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function synquacer_i2c_functionality int | adap struct i2c_adapter *

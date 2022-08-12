@@ -1,0 +1,2 @@
+struct ixgbe_hw | adapter_stopped int 
+function ixgbevf_start_hw_vf int | hw struct ixgbe_hw *

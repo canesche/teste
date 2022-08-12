@@ -1,0 +1,3 @@
+struct spi_device | dummy int 
+struct rmi_device_platform_data | dummy int 
+function rmi_spi_of_probe int | spi struct spi_device * | pdata struct rmi_device_platform_data *

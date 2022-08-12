@@ -1,0 +1,2 @@
+struct mei_msg_hdr | length unsigned long | msg_complete int | internal long | reserved long | dma_ring long | me_addr long | host_addr long 
+function mei_hbm_hdr void | hdr struct mei_msg_hdr * | length unsigned long

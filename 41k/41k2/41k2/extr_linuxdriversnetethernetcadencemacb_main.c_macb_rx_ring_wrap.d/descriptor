@@ -1,0 +1,2 @@
+struct macb | rx_ring_size int 
+function macb_rx_ring_wrap unsigned int | bp struct macb * | index unsigned int

@@ -1,0 +1,1 @@
+length(data) == 100, length(eeprom_r) == 100, length(eeprom_w) == 100, length(flash_r) == 100, length(flash_w) == 100, length(reset) == 100

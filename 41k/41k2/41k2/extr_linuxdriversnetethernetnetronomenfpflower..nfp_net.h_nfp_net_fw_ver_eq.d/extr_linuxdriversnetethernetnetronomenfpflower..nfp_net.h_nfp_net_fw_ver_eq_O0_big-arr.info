@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetnetronomenfpflower..nfp_net.h_nfp_net_fw_ver_eq.d/extr_linuxdriversnetethernetnetronomenfpflower..nfp_net.h_nfp_net_fw_ver_eq_O0::nfp_net_fw_ver_eq(63)"
+  }
+]

@@ -1,0 +1,2 @@
+struct ieee80211_sta | supp_rates int * 
+function ath10k_mac_sta_has_ofdm_only int | sta struct ieee80211_sta *

@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function diolan_usb_func int | a struct i2c_adapter *

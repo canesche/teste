@@ -1,0 +1,2 @@
+struct pci_dev | shpc_managed int 
+function shpchp_is_native int | bridge struct pci_dev *

@@ -1,0 +1,5 @@
+struct b43_phy | radio_ver int | type int | radio_rev int 
+struct b43_wldev | dev struct b43_bus_dev * | phy struct b43_phy 
+struct b43_rfatt | with_padmix int | att int 
+struct b43_bus_dev | board_vendor long | board_type long | board_rev int | chip_id int 
+function default_radio_attenuation void | dev struct b43_wldev * | rf struct b43_rfatt *

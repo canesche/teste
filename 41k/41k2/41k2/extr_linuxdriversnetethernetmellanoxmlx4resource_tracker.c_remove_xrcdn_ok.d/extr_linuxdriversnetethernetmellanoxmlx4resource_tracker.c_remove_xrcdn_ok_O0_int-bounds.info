@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetmellanoxmlx4resource_tracker.c_remove_xrcdn_ok.d/extr_linuxdriversnetethernetmellanoxmlx4resource_tracker.c_remove_xrcdn_ok_O0::remove_xrcdn_ok(67)"
+  }
+]

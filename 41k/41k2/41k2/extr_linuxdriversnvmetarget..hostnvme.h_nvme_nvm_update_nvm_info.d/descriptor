@@ -1,0 +1,2 @@
+struct nvme_ns | dummy int 
+function nvme_nvm_update_nvm_info void | ns struct nvme_ns *

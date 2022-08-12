@@ -1,0 +1,2 @@
+struct se_cmd | prot_op int 
+function qlt_hba_err_chk_enabled int | se_cmd struct se_cmd *

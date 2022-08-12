@@ -1,0 +1,2 @@
+struct isp1301 | dummy int 
+function enable_vbus_draw void | isp struct isp1301 * | mA unsigned int

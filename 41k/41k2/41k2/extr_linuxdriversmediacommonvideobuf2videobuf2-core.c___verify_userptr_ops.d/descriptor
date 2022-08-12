@@ -1,0 +1,3 @@
+struct vb2_queue | io_modes int | mem_ops struct TYPE_2__ * 
+struct TYPE_2__ | put_userptr int | get_userptr int 
+function __verify_userptr_ops int | q struct vb2_queue *

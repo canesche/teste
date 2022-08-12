@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct ifreq | dummy int 
+function spider_net_do_ioctl int | netdev struct net_device * | ifr struct ifreq * | cmd int

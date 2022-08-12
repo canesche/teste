@@ -1,0 +1,2 @@
+struct dasd_ccw_req | dummy int 
+function dasd_eckd_erp_postaction int | cqr struct dasd_ccw_req *

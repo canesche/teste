@@ -1,0 +1,2 @@
+struct aat2870_data | dummy int 
+function aat2870_uninit_debugfs void | aat2870 struct aat2870_data *

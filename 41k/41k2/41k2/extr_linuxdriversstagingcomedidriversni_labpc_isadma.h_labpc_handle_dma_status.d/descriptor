@@ -1,0 +1,2 @@
+struct comedi_device | dummy int 
+function labpc_handle_dma_status void | dev struct comedi_device *

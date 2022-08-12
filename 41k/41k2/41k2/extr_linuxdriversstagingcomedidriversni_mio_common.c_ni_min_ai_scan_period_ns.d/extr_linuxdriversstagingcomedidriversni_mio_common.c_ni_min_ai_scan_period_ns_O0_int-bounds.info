@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingcomedidriversni_mio_common.c_ni_min_ai_scan_period_ns.d/extr_linuxdriversstagingcomedidriversni_mio_common.c_ni_min_ai_scan_period_ns_O0::ni_min_ai_scan_period_ns(64)"
+  }
+]

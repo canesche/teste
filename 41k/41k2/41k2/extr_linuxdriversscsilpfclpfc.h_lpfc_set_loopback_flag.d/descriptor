@@ -1,0 +1,2 @@
+struct lpfc_hba | cfg_topology long | link_flag int 
+function lpfc_set_loopback_flag void | phba struct lpfc_hba *

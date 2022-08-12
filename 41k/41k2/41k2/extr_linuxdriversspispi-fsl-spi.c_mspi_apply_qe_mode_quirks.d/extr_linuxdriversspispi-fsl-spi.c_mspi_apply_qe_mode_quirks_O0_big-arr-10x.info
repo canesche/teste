@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversspispi-fsl-spi.c_mspi_apply_qe_mode_quirks.d/extr_linuxdriversspispi-fsl-spi.c_mspi_apply_qe_mode_quirks_O0::mspi_apply_qe_mode_quirks(66)"
+  }
+]

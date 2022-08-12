@@ -1,0 +1,2 @@
+struct rvt_qp | s_flags int | s_hdrwords long 
+function qib_send_ok int | qp struct rvt_qp *

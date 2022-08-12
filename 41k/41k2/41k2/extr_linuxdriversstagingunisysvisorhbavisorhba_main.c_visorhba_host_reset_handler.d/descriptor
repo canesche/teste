@@ -1,0 +1,2 @@
+struct scsi_cmnd | dummy int 
+function visorhba_host_reset_handler int | scsicmd struct scsi_cmnd *

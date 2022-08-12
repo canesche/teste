@@ -1,0 +1,2 @@
+struct ixgbe_hw | dummy int 
+function ixgbevf_hv_set_uc_addr_vf int | hw struct ixgbe_hw * | index int | addr int *

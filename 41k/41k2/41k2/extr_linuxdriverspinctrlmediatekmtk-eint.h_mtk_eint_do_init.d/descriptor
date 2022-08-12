@@ -1,0 +1,2 @@
+struct mtk_eint | dummy int 
+function mtk_eint_do_init int | eint struct mtk_eint *

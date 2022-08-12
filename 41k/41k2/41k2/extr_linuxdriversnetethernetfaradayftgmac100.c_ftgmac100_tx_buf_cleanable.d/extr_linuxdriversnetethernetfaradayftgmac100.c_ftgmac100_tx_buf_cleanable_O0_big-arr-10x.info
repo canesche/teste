@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetfaradayftgmac100.c_ftgmac100_tx_buf_cleanable.d/extr_linuxdriversnetethernetfaradayftgmac100.c_ftgmac100_tx_buf_cleanable_O0::ftgmac100_tx_buf_cleanable(61)"
+  }
+]

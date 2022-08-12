@@ -1,0 +1,4 @@
+struct odm_dm_struct | BoardType int | SupportPlatform int | SupportInterface int 
+struct adapter | HalData struct TYPE_2__ * 
+struct TYPE_2__ | odmpriv struct odm_dm_struct 
+function check_condition int | adapt struct adapter * | condition const int

@@ -1,0 +1,2 @@
+struct tuner | mode_mask int 
+function check_mode int | t struct tuner * | mode enum v4l2_tuner_type

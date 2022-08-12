@@ -1,0 +1,3 @@
+struct netvsc_device | nvsp_version long | recv_section_size int | send_section_size int | send_section_cnt int | recv_section_cnt int 
+struct ethtool_ringparam | rx_max_pending int | tx_max_pending int | tx_pending int | rx_pending int 
+function __netvsc_get_ringparam void | nvdev struct netvsc_device * | ring struct ethtool_ringparam *

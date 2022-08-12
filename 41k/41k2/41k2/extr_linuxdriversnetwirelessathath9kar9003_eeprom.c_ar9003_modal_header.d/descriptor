@@ -1,0 +1,5 @@
+struct ar9300_modal_eep_header | dummy int 
+struct ar9300_eeprom | modalHeader5G struct ar9300_modal_eep_header | modalHeader2G struct ar9300_modal_eep_header 
+struct TYPE_2__ | ar9300_eep struct ar9300_eeprom 
+struct ath_hw | eeprom struct TYPE_2__ 
+function ar9003_modal_header struct ar9300_modal_eep_header * | ah struct ath_hw * | is2ghz int

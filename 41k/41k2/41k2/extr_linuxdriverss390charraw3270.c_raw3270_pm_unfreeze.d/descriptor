@@ -1,0 +1,2 @@
+struct raw3270_view | dummy int 
+function raw3270_pm_unfreeze void | view struct raw3270_view *

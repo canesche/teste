@@ -1,0 +1,3 @@
+struct usbnet | dummy int 
+struct urb | dummy int 
+function ax88172a_status void | dev struct usbnet * | urb struct urb *

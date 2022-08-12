@@ -1,0 +1,4 @@
+struct bfa_itnim_s | dummy int 
+struct TYPE_2__ | num_rports int 
+struct bfa_iocfc_cfg_s | fwcfg struct TYPE_2__ 
+function bfa_itnim_meminfo void | cfg struct bfa_iocfc_cfg_s * | km_len int *

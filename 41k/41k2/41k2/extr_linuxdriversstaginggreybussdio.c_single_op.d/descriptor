@@ -1,0 +1,2 @@
+struct mmc_command | opcode long 
+function single_op int | cmd struct mmc_command *

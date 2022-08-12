@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function cp2112_gpio_irq_type int | d struct irq_data * | type unsigned int

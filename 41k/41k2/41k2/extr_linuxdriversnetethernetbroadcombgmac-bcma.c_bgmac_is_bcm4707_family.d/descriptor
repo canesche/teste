@@ -1,0 +1,4 @@
+struct bcma_device | bus struct TYPE_4__ * 
+struct TYPE_3__ | id int 
+struct TYPE_4__ | chipinfo struct TYPE_3__ 
+function bgmac_is_bcm4707_family int | core struct bcma_device *

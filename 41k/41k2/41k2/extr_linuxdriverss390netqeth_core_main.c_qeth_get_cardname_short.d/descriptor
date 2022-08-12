@@ -1,0 +1,3 @@
+struct TYPE_2__ | type int | link_type int | guestlan long 
+struct qeth_card | info struct TYPE_2__ 
+function qeth_get_cardname_short const char * | card struct qeth_card *

@@ -1,0 +1,4 @@
+struct hfi1_ibport | dummy int 
+struct hfi1_ctxtdata | ppd struct TYPE_2__ * 
+struct TYPE_2__ | ibport_data struct hfi1_ibport 
+function rcd_to_iport struct hfi1_ibport * | rcd struct hfi1_ctxtdata *

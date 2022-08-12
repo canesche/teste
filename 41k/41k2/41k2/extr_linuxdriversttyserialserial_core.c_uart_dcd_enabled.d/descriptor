@@ -1,0 +1,2 @@
+struct uart_port | status int 
+function uart_dcd_enabled int | uport struct uart_port *

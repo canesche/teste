@@ -1,0 +1,2 @@
+struct dw_pcie | dummy int 
+function dw_plat_pcie_establish_link int | pci struct dw_pcie *

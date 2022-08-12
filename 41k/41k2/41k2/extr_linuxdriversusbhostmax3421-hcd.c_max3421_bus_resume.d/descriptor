@@ -1,0 +1,2 @@
+struct usb_hcd | dummy int 
+function max3421_bus_resume int | hcd struct usb_hcd *

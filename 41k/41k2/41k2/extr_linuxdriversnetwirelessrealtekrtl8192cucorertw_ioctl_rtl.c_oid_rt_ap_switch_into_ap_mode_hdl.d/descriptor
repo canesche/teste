@@ -1,0 +1,2 @@
+struct oid_par_priv | adapter_context int 
+function oid_rt_ap_switch_into_ap_mode_hdl int | poid_par_priv struct oid_par_priv *

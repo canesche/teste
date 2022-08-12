@@ -1,0 +1,3 @@
+struct wl18xx_priv | extra_spare_key_count long 
+struct wl1271 | priv struct wl18xx_priv * 
+function wl18xx_get_spare_blocks int | wl struct wl1271 * | is_gem int

@@ -1,0 +1,2 @@
+struct perf_event | dummy int 
+function arm_spe_pmu_read void | event struct perf_event *

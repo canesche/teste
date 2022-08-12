@@ -1,0 +1,2 @@
+struct bnxt | dummy int 
+function bnxt_debug_dev_init void | bp struct bnxt *

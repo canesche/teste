@@ -1,0 +1,2 @@
+struct b43legacy_pioqueue | dummy int 
+function b43legacy_pio_tx_suspend void | queue struct b43legacy_pioqueue *

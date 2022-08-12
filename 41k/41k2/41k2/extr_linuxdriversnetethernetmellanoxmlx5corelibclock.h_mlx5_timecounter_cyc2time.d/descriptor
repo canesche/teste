@@ -1,0 +1,2 @@
+struct mlx5_clock | dummy int 
+function mlx5_timecounter_cyc2time int | clock struct mlx5_clock * | timestamp int

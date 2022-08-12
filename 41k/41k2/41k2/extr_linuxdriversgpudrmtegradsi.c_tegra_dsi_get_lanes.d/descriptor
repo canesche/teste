@@ -1,0 +1,4 @@
+struct tegra_dsi | lanes unsigned int | slave struct TYPE_4__ * | master struct TYPE_3__ * 
+struct TYPE_4__ | lanes unsigned int 
+struct TYPE_3__ | lanes unsigned int 
+function tegra_dsi_get_lanes unsigned int | dsi struct tegra_dsi *

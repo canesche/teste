@@ -1,0 +1,2 @@
+struct mmc_data | flags int 
+function get_dma_dir int | data struct mmc_data *

@@ -1,0 +1,1 @@
+function get_psp_from_gb_prop int | gb_prop int | psp enum power_supply_property *

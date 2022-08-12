@@ -1,0 +1,2 @@
+struct posix_clock | dummy int 
+function ptp_open int | pc struct posix_clock * | fmode int

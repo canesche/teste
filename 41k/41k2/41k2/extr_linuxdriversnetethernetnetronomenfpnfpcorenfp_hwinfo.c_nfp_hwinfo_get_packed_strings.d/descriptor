@@ -1,0 +1,2 @@
+struct nfp_hwinfo | data char * 
+function nfp_hwinfo_get_packed_strings char * | hwinfo struct nfp_hwinfo *

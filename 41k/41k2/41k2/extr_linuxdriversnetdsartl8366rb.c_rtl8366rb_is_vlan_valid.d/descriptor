@@ -1,0 +1,2 @@
+struct realtek_smi | vlan4k_enabled long 
+function rtl8366rb_is_vlan_valid int | smi struct realtek_smi * | vlan unsigned int

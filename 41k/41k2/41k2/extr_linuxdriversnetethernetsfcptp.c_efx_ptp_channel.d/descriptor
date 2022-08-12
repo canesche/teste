@@ -1,0 +1,4 @@
+struct efx_nic | ptp_data struct TYPE_2__ * 
+struct efx_channel | dummy int 
+struct TYPE_2__ | channel struct efx_channel * 
+function efx_ptp_channel struct efx_channel * | efx struct efx_nic *

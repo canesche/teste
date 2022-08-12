@@ -1,0 +1,2 @@
+struct irte | svt unsigned int | sq unsigned int | sid unsigned int 
+function set_irte_sid void | irte struct irte * | svt unsigned int | sq unsigned int | sid unsigned int

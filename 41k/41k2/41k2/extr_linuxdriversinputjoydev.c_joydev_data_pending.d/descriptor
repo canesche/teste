@@ -1,0 +1,3 @@
+struct joydev_client | startup long | head long | tail long | joydev struct joydev * 
+struct joydev | nabs long | nkey long 
+function joydev_data_pending int | client struct joydev_client *

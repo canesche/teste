@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessathath10kmac.c_ath10k_mac_update_channel_list.d/extr_linuxdriversnetwirelessathath10kmac.c_ath10k_mac_update_channel_list_O0::ath10k_mac_update_channel_list(66)"
+  }
+]

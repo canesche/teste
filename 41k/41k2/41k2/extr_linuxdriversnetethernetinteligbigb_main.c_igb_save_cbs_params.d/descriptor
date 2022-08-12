@@ -1,0 +1,3 @@
+struct igb_ring | cbs_enable int | idleslope int | sendslope int | hicredit int | locredit int 
+struct igb_adapter | num_tx_queues int | tx_ring struct igb_ring ** 
+function igb_save_cbs_params int | adapter struct igb_adapter * | queue int | enable int | idleslope int | sendslope int | hicredit int | locredit int

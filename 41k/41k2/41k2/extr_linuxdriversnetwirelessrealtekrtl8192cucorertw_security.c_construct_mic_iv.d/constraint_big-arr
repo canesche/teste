@@ -1,0 +1,1 @@
+value(qc_exists) == 255, value(a4_exists) == 255, value(payload_length) == 255, value(frtype) == 255, length(mic_iv) == 65025, length(mpdu) == 65025, length(pn_vector) == 65025

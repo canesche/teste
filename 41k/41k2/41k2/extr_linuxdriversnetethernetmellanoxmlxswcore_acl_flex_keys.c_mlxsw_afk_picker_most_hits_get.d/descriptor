@@ -1,0 +1,4 @@
+struct mlxsw_afk_picker | hits struct TYPE_2__ * 
+struct mlxsw_afk | blocks_count int 
+struct TYPE_2__ | total int 
+function mlxsw_afk_picker_most_hits_get int | mlxsw_afk struct mlxsw_afk * | picker struct mlxsw_afk_picker *

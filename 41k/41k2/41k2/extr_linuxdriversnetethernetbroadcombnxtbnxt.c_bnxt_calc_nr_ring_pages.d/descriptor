@@ -1,0 +1,1 @@
+function bnxt_calc_nr_ring_pages int | ring_size int | desc_per_pg int

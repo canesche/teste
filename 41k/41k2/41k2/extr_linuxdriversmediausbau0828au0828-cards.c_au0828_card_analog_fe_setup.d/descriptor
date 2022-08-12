@@ -1,0 +1,2 @@
+struct au0828_dev | dummy int 
+function au0828_card_analog_fe_setup void | dev struct au0828_dev *

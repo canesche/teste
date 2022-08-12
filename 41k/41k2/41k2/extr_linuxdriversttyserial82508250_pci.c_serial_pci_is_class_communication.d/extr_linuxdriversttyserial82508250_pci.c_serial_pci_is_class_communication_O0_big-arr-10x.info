@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversttyserial82508250_pci.c_serial_pci_is_class_communication.d/extr_linuxdriversttyserial82508250_pci.c_serial_pci_is_class_communication_O0::serial_pci_is_class_communication(65)"
+  }
+]

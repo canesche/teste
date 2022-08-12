@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmmchostsdhci-pic32.c_pic32_sdhci_get_ro.d/extr_linuxdriversmmchostsdhci-pic32.c_pic32_sdhci_get_ro_O0::pic32_sdhci_get_ro(61)"
+  }
+]

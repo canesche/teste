@@ -1,0 +1,2 @@
+struct ieee80211_key_conf | dummy int 
+function rt2x00crypto_key_to_cipher enum cipher | key struct ieee80211_key_conf *

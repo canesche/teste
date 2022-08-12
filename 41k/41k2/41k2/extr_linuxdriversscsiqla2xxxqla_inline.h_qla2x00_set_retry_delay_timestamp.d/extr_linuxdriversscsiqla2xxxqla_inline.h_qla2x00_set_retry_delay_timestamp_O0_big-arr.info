@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsiqla2xxxqla_inline.h_qla2x00_set_retry_delay_timestamp.d/extr_linuxdriversscsiqla2xxxqla_inline.h_qla2x00_set_retry_delay_timestamp_O0::qla2x00_set_retry_delay_timestamp(67)"
+  }
+]

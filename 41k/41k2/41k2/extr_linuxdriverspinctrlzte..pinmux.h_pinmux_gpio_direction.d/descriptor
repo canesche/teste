@@ -1,0 +1,3 @@
+struct pinctrl_gpio_range | dummy int 
+struct pinctrl_dev | dummy int 
+function pinmux_gpio_direction int | pctldev struct pinctrl_dev * | range struct pinctrl_gpio_range * | pin unsigned int | input int

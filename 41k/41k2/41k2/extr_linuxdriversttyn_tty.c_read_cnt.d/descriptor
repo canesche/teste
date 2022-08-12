@@ -1,0 +1,2 @@
+struct n_tty_data | read_head unsigned long | read_tail unsigned long 
+function read_cnt unsigned long | ldata struct n_tty_data *

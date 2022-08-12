@@ -1,0 +1,3 @@
+struct ocrdma_cqe | flags_status_srcqpn long 
+struct ocrdma_cq | phase int | phase_change long 
+function ocrdma_change_cq_phase void | cq struct ocrdma_cq * | cqe struct ocrdma_cqe * | cur_getp long

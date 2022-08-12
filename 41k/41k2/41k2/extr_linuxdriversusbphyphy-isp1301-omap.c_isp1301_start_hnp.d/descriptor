@@ -1,0 +1,2 @@
+struct usb_otg | dummy int 
+function isp1301_start_hnp int | otg struct usb_otg *

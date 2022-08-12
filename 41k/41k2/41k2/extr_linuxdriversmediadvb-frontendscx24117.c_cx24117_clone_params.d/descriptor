@@ -1,0 +1,3 @@
+struct dvb_frontend | demodulator_priv struct cx24117_state * 
+struct cx24117_state | dnxt int | dcur int 
+function cx24117_clone_params void | fe struct dvb_frontend *

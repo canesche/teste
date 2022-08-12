@@ -1,0 +1,6 @@
+struct mlxsw_sp_nexthop_group | count int | nexthops struct mlxsw_sp_nexthop * 
+struct TYPE_4__ | fib_nh struct TYPE_3__ * 
+struct mlxsw_sp_nexthop | key struct TYPE_4__ | offloaded long 
+struct mlxsw_sp_fib_entry | type long | nh_group struct mlxsw_sp_nexthop_group * 
+struct TYPE_3__ | nh_flags int 
+function mlxsw_sp_fib4_entry_offload_set void | fib_entry struct mlxsw_sp_fib_entry *

@@ -1,0 +1,2 @@
+struct mthca_cqe | owner int 
+function cqe_sw struct mthca_cqe * | cqe struct mthca_cqe *

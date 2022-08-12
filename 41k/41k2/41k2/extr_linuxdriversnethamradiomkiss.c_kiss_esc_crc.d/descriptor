@@ -1,0 +1,1 @@
+function kiss_esc_crc int | s unsigned char * | d unsigned char * | crc unsigned short | len int

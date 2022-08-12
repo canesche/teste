@@ -1,0 +1,2 @@
+struct ep11_target_dev | ap_id unsigned int 
+function is_desired_ep11_card int | dev_id unsigned int | target_num unsigned short | targets struct ep11_target_dev *

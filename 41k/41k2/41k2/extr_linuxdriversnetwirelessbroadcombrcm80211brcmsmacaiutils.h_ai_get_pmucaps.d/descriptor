@@ -1,0 +1,2 @@
+struct si_pub | pmucaps int 
+function ai_get_pmucaps int | sih struct si_pub *

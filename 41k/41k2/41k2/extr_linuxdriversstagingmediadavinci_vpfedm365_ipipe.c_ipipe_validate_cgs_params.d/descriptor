@@ -1,0 +1,2 @@
+struct vpfe_ipipe_cgs | en int | h_shft long 
+function ipipe_validate_cgs_params int | cgs struct vpfe_ipipe_cgs *

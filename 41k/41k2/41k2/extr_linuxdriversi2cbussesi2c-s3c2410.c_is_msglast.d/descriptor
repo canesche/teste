@@ -1,0 +1,3 @@
+struct s3c24xx_i2c | msg_ptr int | msg struct TYPE_2__ * 
+struct TYPE_2__ | flags int | len int 
+function is_msglast int | i2c struct s3c24xx_i2c *

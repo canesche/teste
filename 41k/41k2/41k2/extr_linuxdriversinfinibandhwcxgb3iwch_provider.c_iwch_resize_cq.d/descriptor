@@ -1,0 +1,3 @@
+struct ib_udata | dummy int 
+struct ib_cq | dummy int 
+function iwch_resize_cq int | cq struct ib_cq * | cqe int | udata struct ib_udata *

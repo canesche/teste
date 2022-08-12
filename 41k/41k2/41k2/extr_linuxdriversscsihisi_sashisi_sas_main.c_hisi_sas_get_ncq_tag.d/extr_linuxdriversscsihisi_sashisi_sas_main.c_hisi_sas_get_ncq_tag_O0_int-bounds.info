@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsihisi_sashisi_sas_main.c_hisi_sas_get_ncq_tag.d/extr_linuxdriversscsihisi_sashisi_sas_main.c_hisi_sas_get_ncq_tag_O0::hisi_sas_get_ncq_tag(67)"
+  }
+]

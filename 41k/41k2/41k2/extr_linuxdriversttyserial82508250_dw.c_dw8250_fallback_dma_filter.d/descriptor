@@ -1,0 +1,2 @@
+struct dma_chan | dummy int 
+function dw8250_fallback_dma_filter int | chan struct dma_chan * | param void *

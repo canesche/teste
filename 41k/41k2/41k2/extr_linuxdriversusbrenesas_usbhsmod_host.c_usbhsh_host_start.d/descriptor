@@ -1,0 +1,2 @@
+struct usb_hcd | dummy int 
+function usbhsh_host_start int | hcd struct usb_hcd *

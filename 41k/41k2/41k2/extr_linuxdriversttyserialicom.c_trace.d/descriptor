@@ -1,0 +1,2 @@
+struct icom_port | dummy int 
+function trace void | icom_port struct icom_port * | trace_pt char * | trace_data unsigned long

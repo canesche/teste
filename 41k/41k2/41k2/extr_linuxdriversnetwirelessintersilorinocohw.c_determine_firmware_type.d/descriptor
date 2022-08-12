@@ -1,0 +1,2 @@
+struct comp_id | id int | major long 
+function determine_firmware_type enum fwtype | nic_id struct comp_id *

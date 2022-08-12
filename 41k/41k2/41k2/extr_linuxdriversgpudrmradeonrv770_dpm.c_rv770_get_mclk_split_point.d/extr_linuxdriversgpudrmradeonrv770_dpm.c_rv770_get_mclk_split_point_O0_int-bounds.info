@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversgpudrmradeonrv770_dpm.c_rv770_get_mclk_split_point.d/extr_linuxdriversgpudrmradeonrv770_dpm.c_rv770_get_mclk_split_point_O0::rv770_get_mclk_split_point(63)"
+  }
+]

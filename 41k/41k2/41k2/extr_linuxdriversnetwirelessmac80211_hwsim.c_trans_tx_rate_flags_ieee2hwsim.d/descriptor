@@ -1,0 +1,2 @@
+struct ieee80211_tx_rate | flags int 
+function trans_tx_rate_flags_ieee2hwsim int | rate struct ieee80211_tx_rate *

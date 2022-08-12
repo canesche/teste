@@ -1,0 +1,3 @@
+struct hal_data_8188e | CurrentBW4024GTxPwrIdx void * | CurrentBW2024GTxPwrIdx void * | CurrentOfdm24GTxPwrIdx void * | CurrentCckTxPwrIdx void * 
+struct adapter | HalData struct hal_data_8188e * 
+function phy_power_index_check void | adapt struct adapter * | channel void * | cck_pwr void ** | ofdm_pwr void ** | bw20_pwr void ** | bw40_pwr void **

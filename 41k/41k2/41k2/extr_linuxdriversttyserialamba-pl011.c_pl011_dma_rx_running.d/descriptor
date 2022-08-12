@@ -1,0 +1,2 @@
+struct uart_amba_port | dummy int 
+function pl011_dma_rx_running int | uap struct uart_amba_port *

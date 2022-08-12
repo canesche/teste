@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 7,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsibfabfa_fcpim.h_bfa_ioim_get_index.d/extr_linuxdriversscsibfabfa_fcpim.h_bfa_ioim_get_index_O0::bfa_ioim_get_index(62)"
+  }
+]

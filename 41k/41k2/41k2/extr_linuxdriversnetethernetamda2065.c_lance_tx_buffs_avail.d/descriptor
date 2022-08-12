@@ -1,0 +1,2 @@
+struct lance_private | tx_old long | tx_new long | tx_ring_mod_mask int 
+function lance_tx_buffs_avail int | lp struct lance_private *

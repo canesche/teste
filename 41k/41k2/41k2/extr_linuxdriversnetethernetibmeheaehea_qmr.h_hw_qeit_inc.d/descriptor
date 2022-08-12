@@ -1,0 +1,2 @@
+struct hw_queue | current_q_offset long | qe_size long | queue_length long | toggle_state int 
+function hw_qeit_inc void | queue struct hw_queue *

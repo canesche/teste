@@ -1,0 +1,2 @@
+struct muram_info | vbase long 
+function fman_muram_vbase_to_offset unsigned long | muram struct muram_info * | vaddr unsigned long

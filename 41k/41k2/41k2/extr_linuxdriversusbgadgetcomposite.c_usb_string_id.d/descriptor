@@ -1,0 +1,2 @@
+struct usb_composite_dev | next_string_id int 
+function usb_string_id int | cdev struct usb_composite_dev *

@@ -1,0 +1,4 @@
+struct ssb_bus | host_pci struct TYPE_2__ * 
+struct ssb_boardinfo | type int | vendor int 
+struct TYPE_2__ | subsystem_device int | subsystem_vendor int 
+function ssb_pci_get_boardinfo void | bus struct ssb_bus * | bi struct ssb_boardinfo *

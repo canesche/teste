@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function can_rx_state_to_frame int | dev struct net_device * | state enum can_state

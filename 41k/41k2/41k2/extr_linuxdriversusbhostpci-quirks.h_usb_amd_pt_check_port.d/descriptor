@@ -1,0 +1,2 @@
+struct device | dummy int 
+function usb_amd_pt_check_port int | device struct device * | port int

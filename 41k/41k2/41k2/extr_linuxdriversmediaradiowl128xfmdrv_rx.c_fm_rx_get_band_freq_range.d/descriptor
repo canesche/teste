@@ -1,0 +1,4 @@
+struct TYPE_3__ | top_freq int | bot_freq int 
+struct TYPE_4__ | region struct TYPE_3__ 
+struct fmdev | rx struct TYPE_4__ 
+function fm_rx_get_band_freq_range int | fmdev struct fmdev * | bot_freq int * | top_freq int *

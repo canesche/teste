@@ -1,0 +1,4 @@
+struct halmac_pg_efuse_info | efuse_map_size int 
+struct TYPE_2__ | efuse_size int 
+struct halmac_adapter | efuse_end int | hw_config_info struct TYPE_2__ 
+function halmac_check_efuse_enough_88xx enum halmac_ret_status | halmac_adapter struct halmac_adapter * | pg_efuse_info struct halmac_pg_efuse_info * | eeprom_mask_updated int *

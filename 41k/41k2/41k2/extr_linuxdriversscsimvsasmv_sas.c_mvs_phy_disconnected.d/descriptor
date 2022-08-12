@@ -1,0 +1,2 @@
+struct mvs_phy | att_dev_sas_addr long | att_dev_info long | phy_attached long 
+function mvs_phy_disconnected void | phy struct mvs_phy *

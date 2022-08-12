@@ -1,0 +1,8 @@
+struct TYPE_12__ | reference int | use_pre_saw int | standard void * 
+struct TYPE_11__ | max_output_level int | speed int | top int | cut_off_current int | min_output_level long | ctrl_mode void * | standard void * 
+struct TYPE_10__ | reference int | use_pre_saw int | standard void * 
+struct TYPE_9__ | max_output_level int | speed int | top int | cut_off_current int | min_output_level long | ctrl_mode void * | standard void * 
+struct TYPE_8__ | max_output_level int | speed int | top int | min_output_level long | ctrl_mode void * | standard void * 
+struct TYPE_7__ | max_output_level int | speed int | top int | min_output_level long | ctrl_mode void * | standard void * 
+struct drxj_data | qam_pga_cfg int | vsb_pga_cfg int | vsb_pre_saw_cfg struct TYPE_12__ | vsb_rf_agc_cfg struct TYPE_11__ | qam_pre_saw_cfg struct TYPE_10__ | qam_rf_agc_cfg struct TYPE_9__ | vsb_if_agc_cfg struct TYPE_8__ | qam_if_agc_cfg struct TYPE_7__ | has_lna long 
+function drxj_reset_mode void | ext_attr struct drxj_data *

@@ -1,0 +1,2 @@
+struct cw1200_common | hw_bufs_used int 
+function wsm_alloc_tx_buffer void | priv struct cw1200_common *

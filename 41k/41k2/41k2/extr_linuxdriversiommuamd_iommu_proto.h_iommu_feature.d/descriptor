@@ -1,0 +1,2 @@
+struct amd_iommu | cap int | features int 
+function iommu_feature int | iommu struct amd_iommu * | f int

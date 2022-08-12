@@ -1,0 +1,2 @@
+struct mapped_device | type int 
+function dm_get_md_type enum dm_queue_mode | md struct mapped_device *

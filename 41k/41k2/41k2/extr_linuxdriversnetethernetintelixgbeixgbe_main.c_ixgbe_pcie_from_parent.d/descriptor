@@ -1,0 +1,2 @@
+struct ixgbe_hw | device_id int 
+function ixgbe_pcie_from_parent int | hw struct ixgbe_hw *

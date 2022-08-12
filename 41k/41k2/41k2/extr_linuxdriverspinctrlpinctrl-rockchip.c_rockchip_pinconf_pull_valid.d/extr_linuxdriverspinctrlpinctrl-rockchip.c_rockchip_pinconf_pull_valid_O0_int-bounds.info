@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriverspinctrlpinctrl-rockchip.c_rockchip_pinconf_pull_valid.d/extr_linuxdriverspinctrlpinctrl-rockchip.c_rockchip_pinconf_pull_valid_O0::rockchip_pinconf_pull_valid(74)"
+  }
+]

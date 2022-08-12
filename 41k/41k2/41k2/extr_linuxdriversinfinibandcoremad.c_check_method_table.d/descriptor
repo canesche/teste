@@ -1,0 +1,2 @@
+struct ib_mad_mgmt_method_table | agent long * 
+function check_method_table int | method struct ib_mad_mgmt_method_table *

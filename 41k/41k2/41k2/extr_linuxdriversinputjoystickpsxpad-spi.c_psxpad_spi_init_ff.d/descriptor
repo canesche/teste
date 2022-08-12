@@ -1,0 +1,2 @@
+struct psxpad | dummy int 
+function psxpad_spi_init_ff int | pad struct psxpad *

@@ -1,0 +1,4 @@
+struct dentry | dummy int 
+struct brcmf_pub | wiphy struct TYPE_2__ * 
+struct TYPE_2__ | debugfsdir struct dentry * 
+function brcmf_debugfs_get_devdir struct dentry * | drvr struct brcmf_pub *

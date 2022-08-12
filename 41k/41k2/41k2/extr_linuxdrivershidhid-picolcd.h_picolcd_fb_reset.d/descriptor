@@ -1,0 +1,2 @@
+struct picolcd_data | dummy int 
+function picolcd_fb_reset int | data struct picolcd_data * | clear int

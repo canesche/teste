@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversgpuipu-v3ipu-common.c_ipu_drm_fourcc_to_colorspace.d/extr_linuxdriversgpuipu-v3ipu-common.c_ipu_drm_fourcc_to_colorspace_O0::ipu_drm_fourcc_to_colorspace(100)"
+  }
+]

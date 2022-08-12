@@ -1,0 +1,2 @@
+struct qman_fq | fqid int 
+function qman_fq_fqid int | fq struct qman_fq *

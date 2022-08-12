@@ -1,0 +1,2 @@
+struct fchs_s | cat_info long 
+function fc_abts_rsp_parse enum fc_parse_status | fchs struct fchs_s * | len int

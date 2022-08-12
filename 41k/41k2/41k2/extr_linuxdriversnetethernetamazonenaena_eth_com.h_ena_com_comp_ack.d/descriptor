@@ -1,0 +1,2 @@
+struct ena_com_io_sq | next_to_comp int 
+function ena_com_comp_ack void | io_sq struct ena_com_io_sq * | elem long

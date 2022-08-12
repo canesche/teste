@@ -1,0 +1,3 @@
+struct device | dummy int 
+struct cec_notifier | dummy int 
+function cros_ec_cec_get_notifier int | dev struct device * | notify struct cec_notifier **

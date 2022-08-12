@@ -1,0 +1,2 @@
+struct dma_fence | dummy int 
+function vc4_fence_get_timeline_name const char * | fence struct dma_fence *

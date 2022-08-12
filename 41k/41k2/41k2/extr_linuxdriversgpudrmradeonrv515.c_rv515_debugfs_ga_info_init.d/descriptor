@@ -1,0 +1,2 @@
+struct radeon_device | dummy int 
+function rv515_debugfs_ga_info_init int | rdev struct radeon_device *

@@ -1,0 +1,2 @@
+struct hpsa_scsi_dev_t | bus int | target int | lun int 
+function hpsa_set_bus_target_lun void | device struct hpsa_scsi_dev_t * | bus int | target int | lun int

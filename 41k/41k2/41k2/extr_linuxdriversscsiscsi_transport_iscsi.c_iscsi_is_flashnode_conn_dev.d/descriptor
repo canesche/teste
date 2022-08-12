@@ -1,0 +1,2 @@
+struct device | bus int * 
+function iscsi_is_flashnode_conn_dev int | dev struct device * | data void *

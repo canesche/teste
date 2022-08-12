@@ -1,0 +1,3 @@
+struct scsi_device | dummy int 
+struct block_device | dummy int 
+function atp870u_biosparam int | disk struct scsi_device * | dev struct block_device * | capacity long | ip int *

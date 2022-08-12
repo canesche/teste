@@ -1,0 +1,2 @@
+struct ice_res_tracker | num_entries long | list long * 
+function ice_free_res int | res struct ice_res_tracker * | index long | id long

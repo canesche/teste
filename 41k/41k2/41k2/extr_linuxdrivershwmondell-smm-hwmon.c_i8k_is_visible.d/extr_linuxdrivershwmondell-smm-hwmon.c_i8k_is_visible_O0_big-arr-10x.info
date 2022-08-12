@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 15,
+    phantoms: 7,
+    exit: true,
+    halt: false,
+    edges: 29,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdrivershwmondell-smm-hwmon.c_i8k_is_visible.d/extr_linuxdrivershwmondell-smm-hwmon.c_i8k_is_visible_O0::i8k_is_visible(74)"
+  }
+]

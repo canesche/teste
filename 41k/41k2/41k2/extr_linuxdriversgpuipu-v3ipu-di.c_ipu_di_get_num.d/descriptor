@@ -1,0 +1,2 @@
+struct ipu_di | id int 
+function ipu_di_get_num int | di struct ipu_di *

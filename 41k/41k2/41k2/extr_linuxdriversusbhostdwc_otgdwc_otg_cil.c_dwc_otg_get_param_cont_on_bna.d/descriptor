@@ -1,0 +1,3 @@
+struct TYPE_5__ | core_params struct TYPE_4__ * 
+struct TYPE_4__ | cont_on_bna int 
+function dwc_otg_get_param_cont_on_bna int | core_if struct TYPE_5__ *

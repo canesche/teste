@@ -1,0 +1,3 @@
+struct serial_info | multi long 
+struct pcmcia_device | config_flags int | priv struct serial_info * 
+function quirk_config_socket void | link struct pcmcia_device *

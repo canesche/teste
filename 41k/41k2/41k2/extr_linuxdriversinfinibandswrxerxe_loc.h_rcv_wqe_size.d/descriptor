@@ -1,0 +1,3 @@
+struct rxe_recv_wqe | dummy int 
+struct ib_sge | dummy int 
+function rcv_wqe_size int | max_sge int

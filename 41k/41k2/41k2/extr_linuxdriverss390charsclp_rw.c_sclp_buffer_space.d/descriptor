@@ -1,0 +1,4 @@
+struct sclp_buffer | current_length long | current_line int * | sccb struct sccb_header * 
+struct sccb_header | length int 
+struct msg_buf | dummy int 
+function sclp_buffer_space int | buffer struct sclp_buffer *

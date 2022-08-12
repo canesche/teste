@@ -1,0 +1,2 @@
+struct kxtj9_data | dummy int 
+function kxtj9_teardown_polled_device void | tj9 struct kxtj9_data *

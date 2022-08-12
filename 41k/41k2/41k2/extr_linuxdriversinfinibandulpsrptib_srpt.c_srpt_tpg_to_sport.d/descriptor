@@ -1,0 +1,4 @@
+struct srpt_port | dummy int 
+struct se_portal_group | se_tpg_wwn struct TYPE_2__ * 
+struct TYPE_2__ | priv struct srpt_port * 
+function srpt_tpg_to_sport struct srpt_port * | tpg struct se_portal_group *

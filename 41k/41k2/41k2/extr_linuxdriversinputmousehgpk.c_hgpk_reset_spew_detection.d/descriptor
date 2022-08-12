@@ -1,0 +1,2 @@
+struct hgpk_data | spew_flag int | y_tally long | x_tally long | dupe_count long | spew_count long 
+function hgpk_reset_spew_detection void | priv struct hgpk_data *

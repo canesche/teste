@@ -1,0 +1,2 @@
+struct vnet_port | dummy int 
+function vnet_nack int | port struct vnet_port * | msgbuf void *

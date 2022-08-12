@@ -1,0 +1,2 @@
+struct hdc100x_data | config int 
+function hdc100x_get_heater_status int | data struct hdc100x_data *

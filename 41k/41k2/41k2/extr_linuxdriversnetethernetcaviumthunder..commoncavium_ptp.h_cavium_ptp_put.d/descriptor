@@ -1,0 +1,2 @@
+struct cavium_ptp | dummy int 
+function cavium_ptp_put void | ptp struct cavium_ptp *

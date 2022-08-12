@@ -1,0 +1,2 @@
+struct mthca_wq | tail long | head long | max long | last_comp long | next_ind long 
+function mthca_wq_reset void | wq struct mthca_wq *

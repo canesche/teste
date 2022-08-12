@@ -1,0 +1,2 @@
+struct bfa_msgq_rspq | dummy int 
+function rspq_sm_ready_entry void | rspq struct bfa_msgq_rspq *

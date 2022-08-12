@@ -1,0 +1,2 @@
+struct pci_dev | subsystem_device int 
+function pci_hp_diva_init int | dev struct pci_dev *

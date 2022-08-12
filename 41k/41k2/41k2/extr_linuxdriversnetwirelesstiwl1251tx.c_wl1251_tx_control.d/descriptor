@@ -1,0 +1,4 @@
+struct TYPE_2__ | rate_policy int | ack_policy int | tx_complete int | qos int | packet_type long 
+struct tx_double_buffer_desc | control struct TYPE_2__ 
+struct ieee80211_tx_info | flags int 
+function wl1251_tx_control void | tx_hdr struct tx_double_buffer_desc * | control struct ieee80211_tx_info * | fc int

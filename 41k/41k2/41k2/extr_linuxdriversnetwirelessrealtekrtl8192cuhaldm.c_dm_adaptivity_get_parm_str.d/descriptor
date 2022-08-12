@@ -1,0 +1,1 @@
+function dm_adaptivity_get_parm_str int | pAdapter int * | buf char * | len int

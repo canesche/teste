@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriverss390netqeth_core_main.c_qeth_get_mtu_outof_framesize.d/extr_linuxdriverss390netqeth_core_main.c_qeth_get_mtu_outof_framesize_O0::qeth_get_mtu_outof_framesize(60)"
+  }
+]

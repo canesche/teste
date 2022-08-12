@@ -1,0 +1,4 @@
+struct TYPE_4__ | cmdclass int 
+struct mmc_card | quirks int | erase_size long | csd struct TYPE_4__ | host struct TYPE_3__ * 
+struct TYPE_3__ | caps int 
+function mmc_can_erase int | card struct mmc_card *

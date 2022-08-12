@@ -1,0 +1,2 @@
+struct mlxsw_sp_acl_block | disable_count int 
+function mlxsw_sp_acl_block_disabled int | block struct mlxsw_sp_acl_block *

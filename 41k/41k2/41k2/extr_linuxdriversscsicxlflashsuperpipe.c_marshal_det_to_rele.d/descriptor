@@ -1,0 +1,3 @@
+struct dk_cxlflash_release | context_id int | hdr int 
+struct dk_cxlflash_detach | context_id int | hdr int 
+function marshal_det_to_rele void | detach struct dk_cxlflash_detach * | release struct dk_cxlflash_release *

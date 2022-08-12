@@ -1,0 +1,2 @@
+struct usb_host_endpoint | dummy int 
+function endpoint_update void | edi int | in struct usb_host_endpoint ** | out struct usb_host_endpoint ** | e struct usb_host_endpoint *

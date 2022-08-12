@@ -1,0 +1,4 @@
+struct ieee80211_hdr | dummy int 
+struct ath_spec_scan_priv | dummy int 
+struct ath_rx_status | dummy int 
+function ath_cmn_process_fft int | spec_priv struct ath_spec_scan_priv * | hdr struct ieee80211_hdr * | rs struct ath_rx_status * | tsf int

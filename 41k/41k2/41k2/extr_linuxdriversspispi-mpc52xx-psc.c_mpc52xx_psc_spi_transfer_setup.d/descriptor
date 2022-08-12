@@ -1,0 +1,4 @@
+struct spi_transfer | bits_per_word int | speed_hz long 
+struct spi_device | bits_per_word int | max_speed_hz long | controller_state struct mpc52xx_psc_spi_cs * 
+struct mpc52xx_psc_spi_cs | bits_per_word int | speed_hz long 
+function mpc52xx_psc_spi_transfer_setup int | spi struct spi_device * | t struct spi_transfer *

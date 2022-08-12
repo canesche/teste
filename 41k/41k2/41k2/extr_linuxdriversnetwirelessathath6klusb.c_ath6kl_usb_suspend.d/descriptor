@@ -1,0 +1,3 @@
+struct cfg80211_wowlan | dummy int 
+struct ath6kl | dummy int 
+function ath6kl_usb_suspend int | ar struct ath6kl * | wow struct cfg80211_wowlan *

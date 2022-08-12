@@ -1,0 +1,2 @@
+struct xadc | external_mux_mode long 
+function xadc_get_seq_mode int | xadc struct xadc * | scan_mode unsigned long

@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function nforce2_set_reference void | adap struct i2c_adapter *

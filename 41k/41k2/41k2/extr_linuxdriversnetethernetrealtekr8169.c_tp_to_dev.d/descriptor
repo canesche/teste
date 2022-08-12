@@ -1,0 +1,4 @@
+struct rtl8169_private | pci_dev struct TYPE_2__ * 
+struct device | dummy int 
+struct TYPE_2__ | dev struct device 
+function tp_to_dev struct device * | tp struct rtl8169_private *

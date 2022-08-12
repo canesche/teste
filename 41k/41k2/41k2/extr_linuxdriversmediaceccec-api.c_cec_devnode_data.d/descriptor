@@ -1,0 +1,5 @@
+struct file | private_data struct cec_fh * 
+struct cec_fh | adap struct TYPE_2__ * 
+struct cec_devnode | dummy int 
+struct TYPE_2__ | devnode struct cec_devnode 
+function cec_devnode_data struct cec_devnode * | filp struct file *

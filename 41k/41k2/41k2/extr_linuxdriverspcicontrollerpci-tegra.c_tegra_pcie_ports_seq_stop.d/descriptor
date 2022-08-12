@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function tegra_pcie_ports_seq_stop void | s struct seq_file * | v void *

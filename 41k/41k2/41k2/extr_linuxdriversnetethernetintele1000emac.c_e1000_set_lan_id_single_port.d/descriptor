@@ -1,0 +1,3 @@
+struct e1000_bus_info | func long 
+struct e1000_hw | bus struct e1000_bus_info 
+function e1000_set_lan_id_single_port void | hw struct e1000_hw *

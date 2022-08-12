@@ -1,0 +1,2 @@
+struct ncb | inst_name char * 
+function ncr_name char * | np struct ncb *

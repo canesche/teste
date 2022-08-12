@@ -1,0 +1,2 @@
+struct int34x_thermal_zone | priv_data void * 
+function int340x_thermal_zone_get_priv_data void * | tzone struct int34x_thermal_zone *

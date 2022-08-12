@@ -1,0 +1,2 @@
+struct wkup_m3_ipc | mem_type int 
+function wkup_m3_set_mem_type void | m3_ipc struct wkup_m3_ipc * | mem_type int

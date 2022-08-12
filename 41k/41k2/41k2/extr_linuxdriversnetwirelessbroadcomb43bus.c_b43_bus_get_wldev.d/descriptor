@@ -1,0 +1,2 @@
+struct b43_bus_dev | bus_type int 
+function b43_bus_get_wldev void * | dev struct b43_bus_dev *

@@ -1,0 +1,2 @@
+struct clk | parent struct clk * 
+function lookup_root_clock struct clk * | clk struct clk *

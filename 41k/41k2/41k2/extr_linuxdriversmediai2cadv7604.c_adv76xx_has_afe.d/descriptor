@@ -1,0 +1,3 @@
+struct adv76xx_state | info struct TYPE_2__ * 
+struct TYPE_2__ | has_afe int 
+function adv76xx_has_afe int | state struct adv76xx_state *

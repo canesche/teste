@@ -1,0 +1,2 @@
+struct lm90_data | flags int 
+function temp_to_u16_adt7461 int | data struct lm90_data * | val long

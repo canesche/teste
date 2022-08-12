@@ -1,0 +1,3 @@
+struct dm_verity | fec struct TYPE_2__ * 
+struct TYPE_2__ | dev long 
+function verity_fec_is_enabled int | v struct dm_verity *

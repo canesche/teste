@@ -1,0 +1,3 @@
+struct vpfe_ipipe_3d_lut | table struct TYPE_2__ * | en int 
+struct TYPE_2__ | r long | g long | b long 
+function ipipe_validate_3d_lut_params int | lut struct vpfe_ipipe_3d_lut *

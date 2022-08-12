@@ -1,0 +1,1 @@
+function phydm_get_rx_pwr int | LNA_idx int | VGA_idx int | cck_highpwr int

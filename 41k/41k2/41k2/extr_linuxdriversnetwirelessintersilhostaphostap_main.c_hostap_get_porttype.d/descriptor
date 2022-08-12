@@ -1,0 +1,2 @@
+struct TYPE_3__ | iw_mode long | pseudo_adhoc long 
+function hostap_get_porttype int | local struct TYPE_3__ *

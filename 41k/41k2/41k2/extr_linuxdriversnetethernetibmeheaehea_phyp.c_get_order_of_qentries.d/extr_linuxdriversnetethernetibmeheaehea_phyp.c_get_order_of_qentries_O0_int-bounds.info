@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 74,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetibmeheaehea_phyp.c_get_order_of_qentries.d/extr_linuxdriversnetethernetibmeheaehea_phyp.c_get_order_of_qentries_O0::get_order_of_qentries(62)"
+  }
+]

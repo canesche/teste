@@ -1,0 +1,3 @@
+struct rapl_domain | rpl struct TYPE_2__ * 
+struct TYPE_2__ | name long 
+function find_nr_power_limit int | rd struct rapl_domain *

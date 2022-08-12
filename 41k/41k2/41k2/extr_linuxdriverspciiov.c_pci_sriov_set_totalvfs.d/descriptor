@@ -1,0 +1,3 @@
+struct pci_dev | sriov struct TYPE_2__ * | is_physfn int 
+struct TYPE_2__ | total_VFs long | ctrl int | driver_max_VFs long 
+function pci_sriov_set_totalvfs int | dev struct pci_dev * | numvfs long

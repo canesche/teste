@@ -1,0 +1,2 @@
+struct z_erofs_vle_workgroup | flags unsigned int 
+function z_erofs_vle_set_workgrp_fmt void | grp struct z_erofs_vle_workgroup * | fmt unsigned int

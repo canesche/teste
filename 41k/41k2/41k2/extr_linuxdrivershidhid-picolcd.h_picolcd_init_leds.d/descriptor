@@ -1,0 +1,3 @@
+struct picolcd_data | dummy int 
+struct hid_report | dummy int 
+function picolcd_init_leds int | data struct picolcd_data * | report struct hid_report *

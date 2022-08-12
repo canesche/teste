@@ -1,0 +1,2 @@
+struct device | dummy int 
+function cmos_wake_setup void | dev struct device *

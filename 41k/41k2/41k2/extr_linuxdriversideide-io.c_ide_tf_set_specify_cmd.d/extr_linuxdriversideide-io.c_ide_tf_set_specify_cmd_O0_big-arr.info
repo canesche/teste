@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversideide-io.c_ide_tf_set_specify_cmd.d/extr_linuxdriversideide-io.c_ide_tf_set_specify_cmd_O0::ide_tf_set_specify_cmd(65)"
+  }
+]

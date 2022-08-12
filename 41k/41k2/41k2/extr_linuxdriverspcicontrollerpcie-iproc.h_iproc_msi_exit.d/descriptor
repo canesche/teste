@@ -1,0 +1,2 @@
+struct iproc_pcie | dummy int 
+function iproc_msi_exit void | pcie struct iproc_pcie *

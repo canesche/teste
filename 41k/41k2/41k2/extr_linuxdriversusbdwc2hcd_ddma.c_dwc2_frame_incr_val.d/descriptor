@@ -1,0 +1,2 @@
+struct dwc2_qh | dev_speed long | host_interval int 
+function dwc2_frame_incr_val int | qh struct dwc2_qh *

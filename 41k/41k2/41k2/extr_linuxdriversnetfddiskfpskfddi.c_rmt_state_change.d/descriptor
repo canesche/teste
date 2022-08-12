@@ -1,0 +1,2 @@
+struct s_smc | dummy int 
+function rmt_state_change void | smc struct s_smc * | r_state int

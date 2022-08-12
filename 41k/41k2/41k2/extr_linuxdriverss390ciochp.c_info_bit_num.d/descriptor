@@ -1,0 +1,2 @@
+struct chp_id | id int | cssid int 
+function info_bit_num int | id struct chp_id

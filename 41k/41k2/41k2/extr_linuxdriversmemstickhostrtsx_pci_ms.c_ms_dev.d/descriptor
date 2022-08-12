@@ -1,0 +1,4 @@
+struct realtek_pci_ms | pdev struct TYPE_2__ * 
+struct device | dummy int 
+struct TYPE_2__ | dev struct device 
+function ms_dev struct device * | host struct realtek_pci_ms *

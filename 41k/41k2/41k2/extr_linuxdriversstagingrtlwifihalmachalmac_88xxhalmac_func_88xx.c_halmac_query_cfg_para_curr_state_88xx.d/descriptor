@@ -1,0 +1,4 @@
+struct TYPE_3__ | cfg_para_cmd_construct_state int 
+struct TYPE_4__ | cfg_para_state_set struct TYPE_3__ 
+struct halmac_adapter | halmac_state struct TYPE_4__ 
+function halmac_query_cfg_para_curr_state_88xx enum halmac_cfg_para_cmd_construct_state | halmac_adapter struct halmac_adapter *

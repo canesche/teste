@@ -1,0 +1,4 @@
+struct TYPE_2__ | sequence int | cmd long 
+struct il_rx_pkt | hdr struct TYPE_2__ 
+struct il_priv | dummy int 
+function il_need_reclaim int | il struct il_priv * | pkt struct il_rx_pkt *

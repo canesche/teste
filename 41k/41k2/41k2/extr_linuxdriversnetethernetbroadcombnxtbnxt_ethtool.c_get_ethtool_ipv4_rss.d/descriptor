@@ -1,0 +1,2 @@
+struct bnxt | rss_hash_cfg int 
+function get_ethtool_ipv4_rss int | bp struct bnxt *

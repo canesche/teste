@@ -1,0 +1,2 @@
+struct enic | dummy int 
+function enic_rfs_timer_stop void | enic struct enic *

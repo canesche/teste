@@ -1,0 +1,2 @@
+struct bnx2x | dummy int 
+function bnx2x_vfpf_config_mac int | bp struct bnx2x * | addr int * | vf_qid int | set int

@@ -1,0 +1,3 @@
+struct se_session | fabric_sess_ptr struct iscsi_session * 
+struct iscsi_session | session_index int 
+function lio_sess_get_index int | se_sess struct se_session *

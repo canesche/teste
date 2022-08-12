@@ -1,0 +1,2 @@
+struct dw_pcie | dummy int 
+function dra7xx_pcie_cpu_addr_fixup int | pci struct dw_pcie * | pci_addr int

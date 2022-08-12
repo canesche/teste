@@ -1,0 +1,3 @@
+struct mlxsw_sp_acl_rule_info | dummy int 
+struct mlxsw_sp_acl_rule | rulei struct mlxsw_sp_acl_rule_info * 
+function mlxsw_sp_acl_rule_rulei struct mlxsw_sp_acl_rule_info * | rule struct mlxsw_sp_acl_rule *

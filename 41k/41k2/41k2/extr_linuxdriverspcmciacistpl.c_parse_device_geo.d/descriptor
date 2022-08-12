@@ -1,0 +1,4 @@
+struct TYPE_7__ | TupleDataLen int | TupleData long 
+struct TYPE_8__ | ngeo int | geo struct TYPE_6__ * 
+struct TYPE_6__ | buswidth int | erase_block int | read_block int | write_block int | partition int | interleave int 
+function parse_device_geo int | tuple struct TYPE_7__ * | geo struct TYPE_8__ *

@@ -1,0 +1,5 @@
+struct qed_hwfn | vf_iov_info struct TYPE_6__ * 
+struct TYPE_4__ | bar_size int 
+struct TYPE_5__ | pfdev_info struct TYPE_4__ 
+struct TYPE_6__ | acquire_resp struct TYPE_5__ 
+function qed_vf_hw_bar_size int | p_hwfn struct qed_hwfn * | bar_id enum BAR_ID

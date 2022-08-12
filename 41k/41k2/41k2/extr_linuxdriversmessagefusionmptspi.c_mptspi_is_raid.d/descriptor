@@ -1,0 +1,6 @@
+struct _MPT_SCSI_HOST | ioc struct TYPE_8__ * 
+struct TYPE_7__ | pIocPg2 struct TYPE_6__ * 
+struct TYPE_8__ | raid_data struct TYPE_7__ 
+struct TYPE_6__ | NumActiveVolumes int | RaidVolume struct TYPE_5__ * 
+struct TYPE_5__ | VolumeID long 
+function mptspi_is_raid int | hd struct _MPT_SCSI_HOST * | id long

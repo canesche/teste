@@ -1,0 +1,4 @@
+struct wireless_dev | iftype int 
+struct brcmf_if | vif struct TYPE_2__ * 
+struct TYPE_2__ | wdev struct wireless_dev 
+function brcmf_cfg80211_get_iftype enum nl80211_iftype | ifp struct brcmf_if *

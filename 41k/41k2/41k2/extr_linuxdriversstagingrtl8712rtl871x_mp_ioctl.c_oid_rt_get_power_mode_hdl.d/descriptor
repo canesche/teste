@@ -1,0 +1,4 @@
+struct oid_par_priv | type_of_oid long | information_buf_len int | bytes_rw int * | information_buf long | adapter_context long 
+struct TYPE_2__ | low_power long 
+struct _adapter | registrypriv struct TYPE_2__ 
+function oid_rt_get_power_mode_hdl int | poid_par_priv struct oid_par_priv *

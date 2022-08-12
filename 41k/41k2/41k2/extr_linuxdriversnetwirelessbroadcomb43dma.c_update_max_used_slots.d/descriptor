@@ -1,0 +1,2 @@
+struct b43_dmaring | dummy int 
+function update_max_used_slots void | ring struct b43_dmaring * | current_used_slots int

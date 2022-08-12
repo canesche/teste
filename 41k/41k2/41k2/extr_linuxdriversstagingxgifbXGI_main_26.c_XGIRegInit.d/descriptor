@@ -1,0 +1,2 @@
+struct vb_device_info | P3c4 unsigned long | P3d4 unsigned long | P3c0 unsigned long | P3ce unsigned long | P3c2 unsigned long | P3cc unsigned long | P3ca unsigned long | P3c6 unsigned long | P3c7 unsigned long | P3c8 unsigned long | P3c9 unsigned long | P3da unsigned long | Part5Port void * | Part4Port void * | Part3Port long | Part2Port long | Part1Port long | Part0Port long 
+function XGIRegInit void | XGI_Pr struct vb_device_info * | BaseAddr unsigned long

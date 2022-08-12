@@ -1,0 +1,2 @@
+struct uart_port | dummy int 
+function atmel_is_console_port int | port struct uart_port *

@@ -1,0 +1,4 @@
+struct rtsx_usb_sdmmc | pdev struct TYPE_2__ * 
+struct device | dummy int 
+struct TYPE_2__ | dev struct device 
+function sdmmc_dev struct device * | host struct rtsx_usb_sdmmc *

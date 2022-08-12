@@ -1,0 +1,2 @@
+struct mei_cl_device | dummy int 
+function mei_wd void | cldev struct mei_cl_device *

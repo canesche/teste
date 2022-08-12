@@ -1,0 +1,2 @@
+struct xgbe_i2c_if | i2c_isr int | i2c_xfer int | i2c_stop int | i2c_start int | i2c_init int 
+function xgbe_init_function_ptrs_i2c void | i2c_if struct xgbe_i2c_if *

@@ -1,0 +1,2 @@
+struct efx_nic | dummy int 
+function efx_ef10_filter_update_rx_scatter void | efx struct efx_nic *

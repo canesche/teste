@@ -1,0 +1,6 @@
+struct TYPE_4__ | genbit int 
+struct TYPE_5__ | iq struct TYPE_4__ 
+struct csio_q | un struct TYPE_5__ 
+struct TYPE_6__ | type_gen int 
+struct csio_iqwr_footer | u struct TYPE_6__ 
+function csio_is_new_iqwr int | q struct csio_q * | ftr struct csio_iqwr_footer *

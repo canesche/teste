@@ -1,0 +1,2 @@
+struct ieee80211_sta | dummy int 
+function rs_use_green int | sta struct ieee80211_sta *

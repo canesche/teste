@@ -1,0 +1,4 @@
+struct scsi_sense_data | dummy int 
+struct scb | dummy int 
+struct ahd_softc | dummy int 
+function ahd_get_sense_bufsize int | ahd struct ahd_softc * | scb struct scb *

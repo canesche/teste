@@ -1,0 +1,2 @@
+struct sxgbe_tx_ctxt_desc | maxseg_size int 
+function sxgbe_tx_ctxt_desc_set_mss void | p struct sxgbe_tx_ctxt_desc * | mss int

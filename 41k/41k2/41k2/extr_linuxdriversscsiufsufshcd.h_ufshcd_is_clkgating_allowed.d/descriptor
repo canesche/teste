@@ -1,0 +1,2 @@
+struct ufs_hba | caps int 
+function ufshcd_is_clkgating_allowed int | hba struct ufs_hba *

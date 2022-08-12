@@ -1,0 +1,2 @@
+struct pci_dev | is_hotplug_bridge int 
+function quirk_hotplug_bridge void | dev struct pci_dev *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | swdma_mask long | mwdma_mask long | ultra_mask long | dma_base int 
+function init_hwif_piix void | hwif struct TYPE_3__ *

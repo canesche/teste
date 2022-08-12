@@ -1,0 +1,2 @@
+struct vxge_hw_ring_rxd_1 | dummy int 
+function vxge_hw_ring_rxds_per_block_get int | buf_mode int

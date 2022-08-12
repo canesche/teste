@@ -1,0 +1,4 @@
+struct vm_area_struct | vm_private_data struct stk_sio_buffer * 
+struct TYPE_2__ | flags int 
+struct stk_sio_buffer | mapcount long | v4lbuf struct TYPE_2__ 
+function stk_v4l_vm_close void | vma struct vm_area_struct *

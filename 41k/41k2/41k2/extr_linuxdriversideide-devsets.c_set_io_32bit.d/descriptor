@@ -1,0 +1,2 @@
+struct TYPE_3__ | dev_flags int | io_32bit int 
+function set_io_32bit int | drive struct TYPE_3__ * | arg int

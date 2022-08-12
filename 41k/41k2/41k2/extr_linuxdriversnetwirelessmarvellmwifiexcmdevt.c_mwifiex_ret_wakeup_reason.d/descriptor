@@ -1,0 +1,6 @@
+struct mwifiex_private | dummy int 
+struct host_cmd_ds_wakeup_reason | wakeup_reason int 
+struct TYPE_3__ | wakeup_reason int 
+struct TYPE_4__ | hs_wakeup_reason struct TYPE_3__ 
+struct host_cmd_ds_command | params struct TYPE_4__ 
+function mwifiex_ret_wakeup_reason int | priv struct mwifiex_private * | resp struct host_cmd_ds_command * | wakeup_reason struct host_cmd_ds_wakeup_reason *

@@ -1,0 +1,3 @@
+struct mmc_card | dummy int 
+struct mmc_blk_data | dummy int 
+function mmc_blk_add_debugfs int | card struct mmc_card * | md struct mmc_blk_data *

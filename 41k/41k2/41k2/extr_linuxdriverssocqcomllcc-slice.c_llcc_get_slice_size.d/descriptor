@@ -1,0 +1,2 @@
+struct llcc_slice_desc | slice_size unsigned long 
+function llcc_get_slice_size unsigned long | desc struct llcc_slice_desc *

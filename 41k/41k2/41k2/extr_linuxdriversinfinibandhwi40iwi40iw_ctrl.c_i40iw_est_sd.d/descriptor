@@ -1,0 +1,4 @@
+struct i40iw_sc_dev | is_pf long 
+struct i40iw_hmc_info | hmc_obj struct TYPE_2__ * 
+struct TYPE_2__ | cnt int | size int 
+function i40iw_est_sd int | dev struct i40iw_sc_dev * | hmc_info struct i40iw_hmc_info *

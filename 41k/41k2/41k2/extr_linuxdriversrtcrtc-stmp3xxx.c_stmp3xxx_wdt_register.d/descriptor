@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function stmp3xxx_wdt_register void | rtc_pdev struct platform_device *

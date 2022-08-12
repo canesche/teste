@@ -1,0 +1,2 @@
+struct pkt_attrib | encrypt int | bswenc int 
+function fill_txdesc_sectype int | pattrib struct pkt_attrib *

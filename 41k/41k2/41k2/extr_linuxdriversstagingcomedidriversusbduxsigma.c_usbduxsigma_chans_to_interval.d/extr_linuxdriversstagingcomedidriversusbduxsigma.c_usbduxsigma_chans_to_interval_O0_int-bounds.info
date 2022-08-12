@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingcomedidriversusbduxsigma.c_usbduxsigma_chans_to_interval.d/extr_linuxdriversstagingcomedidriversusbduxsigma.c_usbduxsigma_chans_to_interval_O0::usbduxsigma_chans_to_interval(60)"
+  }
+]

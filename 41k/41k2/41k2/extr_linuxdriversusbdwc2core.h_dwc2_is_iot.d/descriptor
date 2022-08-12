@@ -1,0 +1,3 @@
+struct TYPE_2__ | snpsid int 
+struct dwc2_hsotg | hw_params struct TYPE_2__ 
+function dwc2_is_iot int | hsotg struct dwc2_hsotg *

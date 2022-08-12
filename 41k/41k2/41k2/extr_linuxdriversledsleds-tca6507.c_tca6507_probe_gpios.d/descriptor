@@ -1,0 +1,4 @@
+struct tca6507_platform_data | dummy int 
+struct tca6507_chip | dummy int 
+struct i2c_client | dummy int 
+function tca6507_probe_gpios int | client struct i2c_client * | tca struct tca6507_chip * | pdata struct tca6507_platform_data *

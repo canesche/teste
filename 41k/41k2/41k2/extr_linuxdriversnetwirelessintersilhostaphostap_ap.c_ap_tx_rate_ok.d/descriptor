@@ -1,0 +1,3 @@
+struct sta_info | tx_max_rate int | tx_supp_rates int 
+struct TYPE_3__ | tx_rate_control int 
+function ap_tx_rate_ok int | rateidx int | sta struct sta_info * | local struct TYPE_3__ *

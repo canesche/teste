@@ -1,0 +1,4 @@
+struct TYPE_2__ | addr int 
+struct phy_device | mdio struct TYPE_2__ 
+struct dp83640_clock | chosen int 
+function choose_this_phy int | clock struct dp83640_clock * | phydev struct phy_device *

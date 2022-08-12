@@ -1,0 +1,4 @@
+struct v4l2_subdev_pad_config | dummy int 
+struct v4l2_subdev_frame_size_enum | index long | max_height int | min_height int | max_width int | min_width int | pad long 
+struct v4l2_subdev | dummy int 
+function ov7740_enum_frame_size int | sd struct v4l2_subdev * | cfg struct v4l2_subdev_pad_config * | fse struct v4l2_subdev_frame_size_enum *

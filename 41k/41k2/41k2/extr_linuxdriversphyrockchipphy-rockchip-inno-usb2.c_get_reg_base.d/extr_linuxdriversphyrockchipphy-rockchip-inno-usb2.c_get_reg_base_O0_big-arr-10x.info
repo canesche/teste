@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversphyrockchipphy-rockchip-inno-usb2.c_get_reg_base.d/extr_linuxdriversphyrockchipphy-rockchip-inno-usb2.c_get_reg_base_O0::get_reg_base(62)"
+  }
+]

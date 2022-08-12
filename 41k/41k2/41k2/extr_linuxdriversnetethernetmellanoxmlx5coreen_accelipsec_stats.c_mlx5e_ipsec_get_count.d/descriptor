@@ -1,0 +1,2 @@
+struct mlx5e_priv | ipsec int 
+function mlx5e_ipsec_get_count int | priv struct mlx5e_priv *

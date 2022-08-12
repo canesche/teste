@@ -1,0 +1,3 @@
+struct TYPE_2__ | opcode int 
+struct rxe_qp | req struct TYPE_2__ 
+function next_opcode_uc int | qp struct rxe_qp * | opcode int | fits int

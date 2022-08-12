@@ -1,0 +1,3 @@
+struct vf_pf_event_data | dummy int 
+struct bnx2x | dummy int 
+function bnx2x_vf_mbx_schedule void | bp struct bnx2x * | vfpf_event struct vf_pf_event_data *

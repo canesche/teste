@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct ifreq | dummy int 
+function cpsw_hwtstamp_get int | dev struct net_device * | ifr struct ifreq *

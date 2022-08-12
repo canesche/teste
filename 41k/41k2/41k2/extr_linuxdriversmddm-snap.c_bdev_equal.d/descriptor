@@ -1,0 +1,2 @@
+struct block_device | dummy int 
+function bdev_equal int | lhs struct block_device * | rhs struct block_device *

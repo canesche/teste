@@ -1,0 +1,2 @@
+struct mwifiex_adapter | dummy int 
+function mwifiex_pm_wakeup_card_complete int | adapter struct mwifiex_adapter *

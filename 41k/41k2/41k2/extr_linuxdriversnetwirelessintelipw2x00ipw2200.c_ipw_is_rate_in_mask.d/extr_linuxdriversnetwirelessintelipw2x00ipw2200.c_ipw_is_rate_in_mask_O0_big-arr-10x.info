@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessintelipw2x00ipw2200.c_ipw_is_rate_in_mask.d/extr_linuxdriversnetwirelessintelipw2x00ipw2200.c_ipw_is_rate_in_mask_O0::ipw_is_rate_in_mask(89)"
+  }
+]

@@ -1,0 +1,3 @@
+struct usb251xb_data | dummy int 
+struct usb251xb | dummy int 
+function usb251xb_get_ofdata int | hub struct usb251xb * | data struct usb251xb_data *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetsunniu.c_niu_compute_rbr_cfig_b.d/extr_linuxdriversnetethernetsunniu.c_niu_compute_rbr_cfig_b_O0::niu_compute_rbr_cfig_b(86)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversgpudrmradeonradeon_legacy_crtc.c_radeon_compute_pll_gain.d/extr_linuxdriversgpudrmradeonradeon_legacy_crtc.c_radeon_compute_pll_gain_O0::radeon_compute_pll_gain(63)"
+  }
+]

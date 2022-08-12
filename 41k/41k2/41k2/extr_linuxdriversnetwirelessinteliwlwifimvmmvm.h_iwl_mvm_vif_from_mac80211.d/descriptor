@@ -1,0 +1,2 @@
+struct ieee80211_vif | drv_priv long 
+function iwl_mvm_vif_from_mac80211 struct iwl_mvm_vif * | vif struct ieee80211_vif *

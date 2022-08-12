@@ -1,0 +1,2 @@
+struct dma_controller | dummy int 
+function sunxi_musb_dma_controller_destroy void | c struct dma_controller *

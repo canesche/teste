@@ -1,0 +1,4 @@
+struct TYPE_7__ | TupleDataLen int | TupleData long 
+struct TYPE_8__ | nid int | id struct TYPE_6__ * 
+struct TYPE_6__ | info void * | mfr void * 
+function parse_jedec int | tuple struct TYPE_7__ * | jedec struct TYPE_8__ *

@@ -1,0 +1,4 @@
+struct sgiseeq_regs | rstat int 
+struct sgiseeq_private | mode int 
+struct hpc3_ethregs | rx_ctrl int 
+function seeq_go void | sp struct sgiseeq_private * | hregs struct hpc3_ethregs * | sregs struct sgiseeq_regs *

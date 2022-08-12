@@ -1,0 +1,1 @@
+value(req_status) == 10, value(rsp_len) == 10, value(resid_len) == 10, length(bfad_fcxp) == 100, length(cbarg) == 100, length(fcxp) == 100, length(rsp_fchs) == 100

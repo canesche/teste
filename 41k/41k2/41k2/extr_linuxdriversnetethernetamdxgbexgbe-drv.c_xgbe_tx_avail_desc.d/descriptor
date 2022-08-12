@@ -1,0 +1,2 @@
+struct xgbe_ring | rdesc_count unsigned int | cur unsigned int | dirty unsigned int 
+function xgbe_tx_avail_desc unsigned int | ring struct xgbe_ring *

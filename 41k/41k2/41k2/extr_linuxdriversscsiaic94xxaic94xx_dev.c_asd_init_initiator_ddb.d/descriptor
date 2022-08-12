@@ -1,0 +1,2 @@
+struct domain_device | dummy int 
+function asd_init_initiator_ddb int | dev struct domain_device *

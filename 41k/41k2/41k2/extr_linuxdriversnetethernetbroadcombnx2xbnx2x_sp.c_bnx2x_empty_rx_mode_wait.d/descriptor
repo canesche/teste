@@ -1,0 +1,3 @@
+struct bnx2x_rx_mode_ramrod_params | dummy int 
+struct bnx2x | dummy int 
+function bnx2x_empty_rx_mode_wait int | bp struct bnx2x * | p struct bnx2x_rx_mode_ramrod_params *

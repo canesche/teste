@@ -1,0 +1,4 @@
+struct stv0900_inode | next_inode struct stv0900_inode * | internal struct TYPE_2__ * 
+struct i2c_adapter | dummy int 
+struct TYPE_2__ | i2c_addr long | i2c_adap struct i2c_adapter * 
+function find_inode struct stv0900_inode * | i2c_adap struct i2c_adapter * | i2c_addr long

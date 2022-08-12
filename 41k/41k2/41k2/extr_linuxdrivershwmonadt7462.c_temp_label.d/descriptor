@@ -1,0 +1,2 @@
+struct adt7462_data | pin_cfg int * 
+function temp_label const char * | data struct adt7462_data * | which int

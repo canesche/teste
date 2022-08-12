@@ -1,0 +1,3 @@
+struct pinctrl_map | dummy int 
+struct pinctrl_dev | dummy int 
+function at91_dt_free_map void | pctldev struct pinctrl_dev * | map struct pinctrl_map * | num_maps unsigned int

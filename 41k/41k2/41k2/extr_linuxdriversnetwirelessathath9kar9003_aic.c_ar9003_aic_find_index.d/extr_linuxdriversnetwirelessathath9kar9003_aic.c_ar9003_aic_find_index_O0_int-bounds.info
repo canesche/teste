@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessathath9kar9003_aic.c_ar9003_aic_find_index.d/extr_linuxdriversnetwirelessathath9kar9003_aic.c_ar9003_aic_find_index_O0::ar9003_aic_find_index(66)"
+  }
+]

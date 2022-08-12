@@ -1,0 +1,2 @@
+struct iwl_mvm | dummy int 
+function iwl_mvm_configure_bcast_filter int | mvm struct iwl_mvm *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | rmmsg int 
+struct mon_msg | msg struct TYPE_2__ 
+function mon_mca_start unsigned long | monmsg struct mon_msg *

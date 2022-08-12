@@ -1,0 +1,2 @@
+struct hns_roce_v2_cmq_ring | next_to_use int | next_to_clean int | desc_num int 
+function hns_roce_cmq_space int | ring struct hns_roce_v2_cmq_ring *

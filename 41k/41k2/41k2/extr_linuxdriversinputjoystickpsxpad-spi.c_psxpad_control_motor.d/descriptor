@@ -1,0 +1,2 @@
+struct psxpad | dummy int 
+function psxpad_control_motor void | pad struct psxpad * | motor1enable int | motor2enable int

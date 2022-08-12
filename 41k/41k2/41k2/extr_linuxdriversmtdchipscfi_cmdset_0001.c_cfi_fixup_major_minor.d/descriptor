@@ -1,0 +1,3 @@
+struct cfi_private | mfr long | id long 
+struct cfi_pri_intelext | MinorVersion char 
+function cfi_fixup_major_minor void | cfi struct cfi_private * | extp struct cfi_pri_intelext *

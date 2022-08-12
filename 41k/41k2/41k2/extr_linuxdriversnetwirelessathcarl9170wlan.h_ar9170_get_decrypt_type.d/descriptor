@@ -1,0 +1,2 @@
+struct ar9170_rx_macstatus | SAidx int | DAidx int 
+function ar9170_get_decrypt_type int | t struct ar9170_rx_macstatus *

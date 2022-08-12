@@ -1,0 +1,2 @@
+struct hc_index_data | flags int 
+function bnx2x_map_sb_state_machines void | index_data struct hc_index_data *

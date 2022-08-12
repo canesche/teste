@@ -1,0 +1,4 @@
+struct ccw_device | private struct TYPE_4__ * 
+struct TYPE_3__ | fast int | repall int | pgroup int | force int | mpath int 
+struct TYPE_4__ | options struct TYPE_3__ 
+function ccw_device_set_options_mask int | cdev struct ccw_device * | flags unsigned long

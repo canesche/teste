@@ -1,0 +1,2 @@
+struct pci_dev | dev_flags int 
+function quirk_no_bus_reset void | dev struct pci_dev *

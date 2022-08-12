@@ -1,0 +1,2 @@
+struct nfp_fl_lag | pkt_num unsigned int 
+function nfp_fl_get_next_pkt_number unsigned int | lag struct nfp_fl_lag *

@@ -1,0 +1,2 @@
+struct req_que | ring_index long | length long | ring_ptr long | ring long 
+function qlt_get_req_pkt void * | req struct req_que *

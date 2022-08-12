@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetintele1000ephy.c_e1000e_get_phy_type_from_id.d/extr_linuxdriversnetethernetintele1000ephy.c_e1000e_get_phy_type_from_id_O0::e1000e_get_phy_type_from_id(89)"
+  }
+]

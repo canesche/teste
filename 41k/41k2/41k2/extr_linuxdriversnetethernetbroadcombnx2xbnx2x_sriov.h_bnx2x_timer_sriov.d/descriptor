@@ -1,0 +1,2 @@
+struct bnx2x | dummy int 
+function bnx2x_timer_sriov void | bp struct bnx2x *

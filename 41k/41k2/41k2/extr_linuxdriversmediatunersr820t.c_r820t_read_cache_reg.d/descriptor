@@ -1,0 +1,2 @@
+struct r820t_priv | regs int * 
+function r820t_read_cache_reg int | priv struct r820t_priv * | reg int

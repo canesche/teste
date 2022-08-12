@@ -1,0 +1,4 @@
+struct qlcnic_adapter | pdev struct pci_dev * 
+struct pci_dev | subsystem_vendor unsigned short | device long | subsystem_device long 
+struct TYPE_2__ | sub_vendor unsigned short | sub_device long 
+function qlcnic_validate_subsystem_id int | adapter struct qlcnic_adapter * | index int

@@ -1,0 +1,2 @@
+struct btc_coexist | adapter int * | binded int 
+function halbtc_is_bt_coexist_available int | btcoexist struct btc_coexist *

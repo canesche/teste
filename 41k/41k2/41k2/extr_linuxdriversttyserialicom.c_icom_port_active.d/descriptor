@@ -1,0 +1,3 @@
+struct icom_port | port int | int_reg long | global_reg long 
+struct icom_adapter | version long | base_addr long 
+function icom_port_active void | icom_port struct icom_port * | icom_adapter struct icom_adapter * | port_num int

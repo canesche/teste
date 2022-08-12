@@ -1,0 +1,2 @@
+struct dvb_usb_device | dummy int 
+function az6027_rc_query int | d struct dvb_usb_device * | event int * | state int *

@@ -1,0 +1,2 @@
+struct list_head | dummy int 
+function end_of_queue_search int | head struct list_head * | plist struct list_head *

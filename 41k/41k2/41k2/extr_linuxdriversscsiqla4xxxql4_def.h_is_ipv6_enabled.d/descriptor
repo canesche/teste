@@ -1,0 +1,3 @@
+struct TYPE_2__ | ipv6_options int 
+struct scsi_qla_host | ip_config struct TYPE_2__ 
+function is_ipv6_enabled int | ha struct scsi_qla_host *

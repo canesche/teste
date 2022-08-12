@@ -1,0 +1,3 @@
+struct resource | start int | end int | flags int 
+struct pci_dev | resource struct resource * 
+function quirk_tc86c001_ide void | dev struct pci_dev *

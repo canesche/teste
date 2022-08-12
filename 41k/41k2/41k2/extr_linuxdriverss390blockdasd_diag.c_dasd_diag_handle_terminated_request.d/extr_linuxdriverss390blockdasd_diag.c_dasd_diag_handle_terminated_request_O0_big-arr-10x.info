@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriverss390blockdasd_diag.c_dasd_diag_handle_terminated_request.d/extr_linuxdriverss390blockdasd_diag.c_dasd_diag_handle_terminated_request_O0::dasd_diag_handle_terminated_request(63)"
+  }
+]

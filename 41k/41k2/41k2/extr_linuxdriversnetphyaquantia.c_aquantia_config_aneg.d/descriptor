@@ -1,0 +1,2 @@
+struct phy_device | supported int | advertising int 
+function aquantia_config_aneg int | phydev struct phy_device *

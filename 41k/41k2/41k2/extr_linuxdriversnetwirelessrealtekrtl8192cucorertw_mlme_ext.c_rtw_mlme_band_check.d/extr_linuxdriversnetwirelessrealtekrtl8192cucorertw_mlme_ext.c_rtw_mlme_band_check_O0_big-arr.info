@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessrealtekrtl8192cucorertw_mlme_ext.c_rtw_mlme_band_check.d/extr_linuxdriversnetwirelessrealtekrtl8192cucorertw_mlme_ext.c_rtw_mlme_band_check_O0::rtw_mlme_band_check(69)"
+  }
+]

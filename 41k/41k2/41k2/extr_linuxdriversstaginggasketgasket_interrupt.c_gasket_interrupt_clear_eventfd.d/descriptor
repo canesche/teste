@@ -1,0 +1,2 @@
+struct gasket_interrupt_data | num_interrupts int | eventfd_ctxs int ** 
+function gasket_interrupt_clear_eventfd int | interrupt_data struct gasket_interrupt_data * | interrupt int

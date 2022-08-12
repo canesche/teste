@@ -1,0 +1,2 @@
+struct si_pub | pmurev int 
+function ai_get_pmurev int | sih struct si_pub *

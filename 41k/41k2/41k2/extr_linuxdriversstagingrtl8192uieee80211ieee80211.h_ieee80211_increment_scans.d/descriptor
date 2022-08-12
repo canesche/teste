@@ -1,0 +1,2 @@
+struct ieee80211_device | scans int 
+function ieee80211_increment_scans void | ieee struct ieee80211_device *

@@ -1,0 +1,2 @@
+struct i2c_client | dummy int 
+function dm355evm_msp_remove int | client struct i2c_client *

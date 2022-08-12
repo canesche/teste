@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function brcmf_msgbuf_stats_read int | seq struct seq_file * | data void *

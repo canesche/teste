@@ -1,0 +1,2 @@
+struct octeon_device | rev_id int 
+function OCTEON_MINOR_REV int | oct struct octeon_device *

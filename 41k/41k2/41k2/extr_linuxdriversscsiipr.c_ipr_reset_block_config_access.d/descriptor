@@ -1,0 +1,4 @@
+struct TYPE_4__ | time_left int 
+struct ipr_cmnd | u struct TYPE_4__ | job_step int | ioa_cfg struct TYPE_3__ * 
+struct TYPE_3__ | cfg_locked long 
+function ipr_reset_block_config_access int | ipr_cmd struct ipr_cmnd *

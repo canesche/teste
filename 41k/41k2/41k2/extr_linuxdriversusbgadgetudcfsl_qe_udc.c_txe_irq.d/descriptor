@@ -1,0 +1,2 @@
+struct qe_udc | dummy int 
+function txe_irq int | udc struct qe_udc *

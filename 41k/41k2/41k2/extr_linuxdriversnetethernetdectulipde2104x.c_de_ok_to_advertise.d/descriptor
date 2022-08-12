@@ -1,0 +1,2 @@
+struct de_private | media_advertise int 
+function de_ok_to_advertise unsigned int | de struct de_private * | new_media int

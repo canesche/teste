@@ -1,0 +1,2 @@
+struct thermal_zone_device | passive int 
+function update_passive_instance void | tz struct thermal_zone_device * | type enum thermal_trip_type | value int

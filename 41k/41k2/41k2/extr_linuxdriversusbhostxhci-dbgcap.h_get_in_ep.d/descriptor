@@ -1,0 +1,4 @@
+struct xhci_hcd | dbc struct xhci_dbc * 
+struct xhci_dbc | eps struct dbc_ep * 
+struct dbc_ep | dummy int 
+function get_in_ep struct dbc_ep * | xhci struct xhci_hcd *

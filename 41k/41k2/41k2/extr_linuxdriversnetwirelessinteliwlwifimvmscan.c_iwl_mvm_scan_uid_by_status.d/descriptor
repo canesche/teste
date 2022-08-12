@@ -1,0 +1,2 @@
+struct iwl_mvm | max_scans int | scan_uid_status int * 
+function iwl_mvm_scan_uid_by_status int | mvm struct iwl_mvm * | status int

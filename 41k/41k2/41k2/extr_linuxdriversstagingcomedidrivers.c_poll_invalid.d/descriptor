@@ -1,0 +1,3 @@
+struct comedi_subdevice | dummy int 
+struct comedi_device | dummy int 
+function poll_invalid int | dev struct comedi_device * | s struct comedi_subdevice *

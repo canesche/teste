@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct dsa_switch | dummy int 
+function mv88e6xxx_port_rxtstamp int | ds struct dsa_switch * | port int | clone struct sk_buff * | type unsigned int

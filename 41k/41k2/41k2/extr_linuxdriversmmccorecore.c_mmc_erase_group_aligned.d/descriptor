@@ -1,0 +1,2 @@
+struct mmc_card | erase_size unsigned int 
+function mmc_erase_group_aligned int | card struct mmc_card * | from unsigned int | nr unsigned int

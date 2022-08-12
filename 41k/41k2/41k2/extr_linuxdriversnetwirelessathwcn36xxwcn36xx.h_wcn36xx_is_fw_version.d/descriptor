@@ -1,0 +1,2 @@
+struct wcn36xx | fw_major long | fw_minor long | fw_version long | fw_revision long 
+function wcn36xx_is_fw_version int | wcn struct wcn36xx * | major long | minor long | version long | revision long

@@ -1,0 +1,3 @@
+struct TYPE_2__ | cclk int 
+struct csio_hw | vpd struct TYPE_2__ 
+function csio_core_ticks_to_us int | hw struct csio_hw * | ticks int

@@ -1,0 +1,2 @@
+struct bm_rcr_entry | dummy int 
+function rcr_carryclear struct bm_rcr_entry * | p struct bm_rcr_entry *

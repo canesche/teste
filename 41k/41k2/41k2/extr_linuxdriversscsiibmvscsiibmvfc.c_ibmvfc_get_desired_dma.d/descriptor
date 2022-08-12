@@ -1,0 +1,4 @@
+struct ibmvfc_iu | dummy int 
+struct vio_dev | dummy int 
+struct TYPE_2__ | cmd_per_lun int 
+function ibmvfc_get_desired_dma unsigned long | vdev struct vio_dev *

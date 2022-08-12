@@ -1,0 +1,2 @@
+struct radeon_device | dummy int 
+function rv770_map_clkf_to_ibias int | rdev struct radeon_device * | clkf int

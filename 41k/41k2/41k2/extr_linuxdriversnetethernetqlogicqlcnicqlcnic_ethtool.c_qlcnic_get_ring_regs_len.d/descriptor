@@ -1,0 +1,2 @@
+struct qlcnic_adapter | drv_tx_rings int | max_rds_rings int | drv_sds_rings int 
+function qlcnic_get_ring_regs_len int | adapter struct qlcnic_adapter *

@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function kvaser_usb_hydra_set_mode int | netdev struct net_device * | mode enum can_mode

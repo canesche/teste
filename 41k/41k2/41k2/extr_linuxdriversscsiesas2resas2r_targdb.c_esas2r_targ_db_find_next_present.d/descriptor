@@ -1,0 +1,3 @@
+struct esas2r_target | target_state long 
+struct esas2r_adapter | targetdb struct esas2r_target * 
+function esas2r_targ_db_find_next_present long | a struct esas2r_adapter * | target_id long

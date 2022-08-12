@@ -1,0 +1,4 @@
+struct link_ant | rssi_history int 
+struct TYPE_2__ | ant struct link_ant 
+struct rt2x00_dev | link struct TYPE_2__ 
+function rt2x00link_antenna_get_rssi_history int | rt2x00dev struct rt2x00_dev *

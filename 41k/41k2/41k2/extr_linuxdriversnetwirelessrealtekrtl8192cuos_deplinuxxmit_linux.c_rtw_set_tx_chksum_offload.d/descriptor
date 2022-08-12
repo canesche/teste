@@ -1,0 +1,2 @@
+struct pkt_attrib | dummy int 
+function rtw_set_tx_chksum_offload void | pkt int * | pattrib struct pkt_attrib *

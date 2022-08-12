@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsilpfclpfc_init.c_lpfc_sli4_bar2_register_memmap.d/extr_linuxdriversscsilpfclpfc_init.c_lpfc_sli4_bar2_register_memmap_O0::lpfc_sli4_bar2_register_memmap(73)"
+  }
+]

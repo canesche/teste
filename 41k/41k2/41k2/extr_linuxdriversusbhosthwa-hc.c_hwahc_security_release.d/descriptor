@@ -1,0 +1,2 @@
+struct hwahc | dummy int 
+function hwahc_security_release void | hwahc struct hwahc *

@@ -1,0 +1,2 @@
+struct asd_sas_port | dummy int 
+function isci_task_clear_nexus_port int | port struct asd_sas_port *

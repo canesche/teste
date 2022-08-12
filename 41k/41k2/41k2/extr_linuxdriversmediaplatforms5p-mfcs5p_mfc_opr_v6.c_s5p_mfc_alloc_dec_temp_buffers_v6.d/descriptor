@@ -1,0 +1,2 @@
+struct s5p_mfc_ctx | dummy int 
+function s5p_mfc_alloc_dec_temp_buffers_v6 int | ctx struct s5p_mfc_ctx *

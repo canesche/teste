@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetbroadcombnx2xbnx2x_sriov.h_bnx2x_vfpf_config_mac.d/extr_linuxdriversnetethernetbroadcombnx2xbnx2x_sriov.h_bnx2x_vfpf_config_mac_O0::bnx2x_vfpf_config_mac(62)"
+  }
+]

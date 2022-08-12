@@ -1,0 +1,2 @@
+struct device_node | dummy int 
+function mips_cpu_register_ipi_domain void | of_node struct device_node *

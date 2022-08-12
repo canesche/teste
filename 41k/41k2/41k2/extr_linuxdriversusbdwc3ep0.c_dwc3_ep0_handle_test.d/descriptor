@@ -1,0 +1,2 @@
+struct dwc3 | test_mode_nr int | test_mode int 
+function dwc3_ep0_handle_test int | dwc struct dwc3 * | state enum usb_device_state | wIndex int | set int

@@ -1,0 +1,2 @@
+struct uart_8250_port | bugs int | fifo_bug int 
+function serial8250_compute_lcr unsigned char | up struct uart_8250_port * | c_cflag int

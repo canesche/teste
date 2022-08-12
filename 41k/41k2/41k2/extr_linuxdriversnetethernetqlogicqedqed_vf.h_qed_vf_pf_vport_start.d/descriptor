@@ -1,0 +1,2 @@
+struct qed_hwfn | dummy int 
+function qed_vf_pf_vport_start int | p_hwfn struct qed_hwfn * | vport_id int | mtu int | inner_vlan_removal int | tpa_mode enum qed_tpa_mode | max_buffers_per_cqe int | only_untagged int

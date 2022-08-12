@@ -1,0 +1,2 @@
+struct drm_selftest | enabled int 
+function set_default_test_all void | st struct drm_selftest * | count unsigned long

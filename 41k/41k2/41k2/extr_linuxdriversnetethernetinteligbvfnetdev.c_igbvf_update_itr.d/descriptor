@@ -1,0 +1,2 @@
+struct igbvf_adapter | dummy int 
+function igbvf_update_itr enum latency_range | adapter struct igbvf_adapter * | itr_setting enum latency_range | packets int | bytes int

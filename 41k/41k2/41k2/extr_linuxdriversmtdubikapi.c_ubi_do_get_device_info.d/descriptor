@@ -1,0 +1,4 @@
+struct ubi_device_info | cdev int | ro_mode int | max_write_size int | min_io_size int | leb_start int | leb_size int | ubi_num int 
+struct TYPE_2__ | dev int 
+struct ubi_device | cdev struct TYPE_2__ | ro_mode int | max_write_size int | min_io_size int | leb_start int | leb_size int | ubi_num int 
+function ubi_do_get_device_info void | ubi struct ubi_device * | di struct ubi_device_info *

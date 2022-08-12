@@ -1,0 +1,3 @@
+struct TYPE_2__ | produce_idx long | consume_idx long | count long 
+struct emac_tx_queue | tpd struct TYPE_2__ 
+function emac_tpd_num_free_descs unsigned int | tx_q struct emac_tx_queue *

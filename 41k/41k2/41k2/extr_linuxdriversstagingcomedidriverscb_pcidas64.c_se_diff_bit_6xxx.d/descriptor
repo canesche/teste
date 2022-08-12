@@ -1,0 +1,3 @@
+struct pcidas64_board | layout long 
+struct comedi_device | board_ptr struct pcidas64_board * 
+function se_diff_bit_6xxx unsigned short | dev struct comedi_device * | use_differential int

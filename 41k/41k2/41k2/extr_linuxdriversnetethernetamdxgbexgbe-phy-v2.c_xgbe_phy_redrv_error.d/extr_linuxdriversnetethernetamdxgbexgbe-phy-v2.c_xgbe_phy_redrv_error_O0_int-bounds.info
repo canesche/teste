@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetamdxgbexgbe-phy-v2.c_xgbe_phy_redrv_error.d/extr_linuxdriversnetethernetamdxgbexgbe-phy-v2.c_xgbe_phy_redrv_error_O0::xgbe_phy_redrv_error(64)"
+  }
+]

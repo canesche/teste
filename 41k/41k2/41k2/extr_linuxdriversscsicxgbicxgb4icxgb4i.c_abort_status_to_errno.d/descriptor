@@ -1,0 +1,2 @@
+struct cxgbi_sock | state int 
+function abort_status_to_errno int | csk struct cxgbi_sock * | abort_reason int | need_rst int *

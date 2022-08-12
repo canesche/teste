@@ -1,0 +1,2 @@
+struct gb_connection | mode_switch int 
+function gb_connection_mode_switch_prepare void | connection struct gb_connection *

@@ -1,0 +1,3 @@
+struct usb_iso_packet_descriptor | status long | actual_length unsigned int | offset int 
+struct urb | status long | number_of_packets unsigned long | transfer_buffer unsigned char * | iso_frame_desc struct usb_iso_packet_descriptor * 
+function st5481_isoc_flatten int | urb struct urb *

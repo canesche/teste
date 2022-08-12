@@ -1,0 +1,2 @@
+struct node_header | dummy int 
+function calc_max_entries int | value_size unsigned long | block_size unsigned long

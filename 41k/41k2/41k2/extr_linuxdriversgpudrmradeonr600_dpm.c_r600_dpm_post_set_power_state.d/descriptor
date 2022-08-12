@@ -1,0 +1,2 @@
+struct radeon_device | dummy int 
+function r600_dpm_post_set_power_state void | rdev struct radeon_device *

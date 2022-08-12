@@ -1,0 +1,4 @@
+struct TYPE_3__ | own_bit int | int_on_com int 
+struct TYPE_4__ | rx_rd_des23 struct TYPE_3__ 
+struct sxgbe_rx_norm_desc | rdes23 struct TYPE_4__ 
+function sxgbe_init_rx_desc void | p struct sxgbe_rx_norm_desc * | disable_rx_ic int | mode int | end int

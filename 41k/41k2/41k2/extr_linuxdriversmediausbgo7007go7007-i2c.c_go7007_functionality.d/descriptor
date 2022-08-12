@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function go7007_functionality int | adapter struct i2c_adapter *

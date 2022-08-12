@@ -1,0 +1,3 @@
+struct mtd_info | dummy int 
+struct erase_info | dummy int 
+function map_absent_erase int | mtd struct mtd_info * | instr struct erase_info *

@@ -1,0 +1,1 @@
+function ir_nec_scancode_to_raw int | protocol enum rc_proto | scancode int

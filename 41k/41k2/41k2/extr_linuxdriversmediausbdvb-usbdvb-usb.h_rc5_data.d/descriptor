@@ -1,0 +1,2 @@
+struct rc_map_table | scancode int 
+function rc5_data int | key struct rc_map_table *

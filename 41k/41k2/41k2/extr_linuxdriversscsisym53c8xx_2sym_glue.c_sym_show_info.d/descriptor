@@ -1,0 +1,3 @@
+struct seq_file | dummy int 
+struct Scsi_Host | dummy int 
+function sym_show_info int | m struct seq_file * | shost struct Scsi_Host *

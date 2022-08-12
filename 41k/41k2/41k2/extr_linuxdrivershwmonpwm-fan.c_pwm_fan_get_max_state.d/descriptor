@@ -1,0 +1,3 @@
+struct thermal_cooling_device | devdata struct pwm_fan_ctx * 
+struct pwm_fan_ctx | pwm_fan_max_state unsigned long 
+function pwm_fan_get_max_state int | cdev struct thermal_cooling_device * | state unsigned long *

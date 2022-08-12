@@ -1,0 +1,2 @@
+struct mt76x0_dev | dummy int 
+function is_mt7610e int | dev struct mt76x0_dev *

@@ -1,0 +1,2 @@
+struct CommandList | reset_pending int 
+function hpsa_is_pending_event int | c struct CommandList *

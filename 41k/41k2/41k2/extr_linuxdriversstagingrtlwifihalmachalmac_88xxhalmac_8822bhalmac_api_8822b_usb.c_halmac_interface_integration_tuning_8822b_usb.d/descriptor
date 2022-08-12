@@ -1,0 +1,2 @@
+struct halmac_adapter | dummy int 
+function halmac_interface_integration_tuning_8822b_usb enum halmac_ret_status | halmac_adapter struct halmac_adapter *

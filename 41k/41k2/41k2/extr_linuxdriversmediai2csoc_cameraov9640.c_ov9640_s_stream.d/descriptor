@@ -1,0 +1,2 @@
+struct v4l2_subdev | dummy int 
+function ov9640_s_stream int | sd struct v4l2_subdev * | enable int

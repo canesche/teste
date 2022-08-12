@@ -1,0 +1,2 @@
+struct si476x_core | power_state long 
+function si476x_core_is_powered_up int | core struct si476x_core *

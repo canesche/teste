@@ -1,0 +1,1 @@
+function e1000_update_itr unsigned int | itr_setting unsigned int | packets int | bytes int

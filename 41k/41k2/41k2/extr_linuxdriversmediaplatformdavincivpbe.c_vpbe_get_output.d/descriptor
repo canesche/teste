@@ -1,0 +1,2 @@
+struct vpbe_device | current_out_index unsigned int 
+function vpbe_get_output unsigned int | vpbe_dev struct vpbe_device *

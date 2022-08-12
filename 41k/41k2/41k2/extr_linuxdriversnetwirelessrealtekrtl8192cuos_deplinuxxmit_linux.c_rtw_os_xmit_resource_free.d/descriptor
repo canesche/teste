@@ -1,0 +1,2 @@
+struct xmit_buf | dummy int 
+function rtw_os_xmit_resource_free void | padapter int * | pxmitbuf struct xmit_buf * | free_sz int

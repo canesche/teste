@@ -1,0 +1,3 @@
+struct ieee80211_tx_rate | flags int 
+struct ar9170 | erp_mode int 
+function carl9170_tx_cts_check int | ar struct ar9170 * | rate struct ieee80211_tx_rate *

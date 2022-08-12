@@ -1,0 +1,2 @@
+struct vfpf_update_tunn_param_tlv | update_vxlan_port long | update_geneve_port long | update_tun_cls long | tun_mode_update_mask long 
+function qed_iov_pf_validate_tunn_param int | p_req struct vfpf_update_tunn_param_tlv *

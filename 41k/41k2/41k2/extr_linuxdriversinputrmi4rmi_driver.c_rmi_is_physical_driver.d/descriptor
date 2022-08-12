@@ -1,0 +1,3 @@
+struct device_driver | dummy int 
+struct TYPE_2__ | driver struct device_driver 
+function rmi_is_physical_driver int | drv struct device_driver *

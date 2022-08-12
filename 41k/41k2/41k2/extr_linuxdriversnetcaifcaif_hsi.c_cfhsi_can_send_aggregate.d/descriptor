@@ -1,0 +1,4 @@
+struct TYPE_3__ | aggregation_timeout long 
+struct cfhsi | qhead struct TYPE_4__ * | cfg struct TYPE_3__ 
+struct TYPE_4__ | qlen long 
+function cfhsi_can_send_aggregate int | cfhsi struct cfhsi *

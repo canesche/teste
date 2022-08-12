@@ -1,0 +1,2 @@
+struct mapped_device | use_blk_mq int 
+function dm_use_blk_mq int | md struct mapped_device *

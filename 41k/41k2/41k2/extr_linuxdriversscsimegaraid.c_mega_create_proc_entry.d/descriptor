@@ -1,0 +1,2 @@
+struct proc_dir_entry | dummy int 
+function mega_create_proc_entry void | index int | parent struct proc_dir_entry *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 8,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediai2cadv748xadv748x-afe.c_adv748x_afe_std.d/extr_linuxdriversmediai2cadv748xadv748x-afe.c_adv748x_afe_std_O0::adv748x_afe_std(78)"
+  }
+]

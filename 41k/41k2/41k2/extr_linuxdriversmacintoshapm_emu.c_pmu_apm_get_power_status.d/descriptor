@@ -1,0 +1,3 @@
+struct apm_power_info | battery_life int | time int | battery_flag int | battery_status int | ac_line_status void * | units int 
+struct TYPE_2__ | flags int | charge int | max_charge int | amperage long 
+function pmu_apm_get_power_status void | info struct apm_power_info *

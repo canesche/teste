@@ -1,0 +1,2 @@
+struct CommandList | cmd_type long 
+function is_accelerated_cmd int | c struct CommandList *

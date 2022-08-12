@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 8,
+    exit: true,
+    halt: false,
+    edges: 19,
+    static: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinfinibandhwhfi1driver.c_mtu_to_enum.d/extr_linuxdriversinfinibandhwhfi1driver.c_mtu_to_enum_O0::mtu_to_enum(69)"
+  }
+]

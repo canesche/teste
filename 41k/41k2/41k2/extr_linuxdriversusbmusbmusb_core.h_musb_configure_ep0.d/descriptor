@@ -1,0 +1,3 @@
+struct musb | endpoints struct TYPE_2__ * 
+struct TYPE_2__ | is_shared_fifo int | max_packet_sz_rx void * | max_packet_sz_tx void * 
+function musb_configure_ep0 void | musb struct musb *

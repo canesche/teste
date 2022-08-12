@@ -1,0 +1,2 @@
+struct pinctrl_dev | dummy int 
+function falcon_pinconf_group_get int | pctrldev struct pinctrl_dev * | group unsigned int | config unsigned long *

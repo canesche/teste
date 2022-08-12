@@ -1,0 +1,2 @@
+struct mxc_nand_host | devtype_data int * 
+function is_imx21_nfc int | host struct mxc_nand_host *

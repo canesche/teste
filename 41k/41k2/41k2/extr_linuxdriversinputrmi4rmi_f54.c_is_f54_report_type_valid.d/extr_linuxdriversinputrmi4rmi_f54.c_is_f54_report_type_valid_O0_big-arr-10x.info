@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversinputrmi4rmi_f54.c_is_f54_report_type_valid.d/extr_linuxdriversinputrmi4rmi_f54.c_is_f54_report_type_valid_O0::is_f54_report_type_valid(71)"
+  }
+]

@@ -1,0 +1,2 @@
+struct comedi_device | dummy int 
+function labpc_free_dma_chan void | dev struct comedi_device *

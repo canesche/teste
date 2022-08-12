@@ -1,0 +1,2 @@
+struct amd_iommu | flags int 
+function translation_pre_enabled int | iommu struct amd_iommu *

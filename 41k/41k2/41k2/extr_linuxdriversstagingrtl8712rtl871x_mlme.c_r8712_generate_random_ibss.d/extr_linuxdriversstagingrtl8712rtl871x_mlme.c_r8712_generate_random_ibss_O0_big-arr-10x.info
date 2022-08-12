@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingrtl8712rtl871x_mlme.c_r8712_generate_random_ibss.d/extr_linuxdriversstagingrtl8712rtl871x_mlme.c_r8712_generate_random_ibss_O0::r8712_generate_random_ibss(63)"
+  }
+]

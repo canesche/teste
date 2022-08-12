@@ -1,0 +1,3 @@
+struct TYPE_2__ | min_uV int 
+struct da903x_regulator_info | max_uV int | desc struct TYPE_2__ 
+function check_range int | info struct da903x_regulator_info * | min_uV int | max_uV int

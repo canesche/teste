@@ -1,0 +1,5 @@
+struct mlx5e_priv | mdev struct TYPE_4__ * 
+struct mlx5_core_health | sick long 
+struct TYPE_3__ | health struct mlx5_core_health 
+struct TYPE_4__ | priv struct TYPE_3__ 
+function mlx5e_test_health_info int | priv struct mlx5e_priv *

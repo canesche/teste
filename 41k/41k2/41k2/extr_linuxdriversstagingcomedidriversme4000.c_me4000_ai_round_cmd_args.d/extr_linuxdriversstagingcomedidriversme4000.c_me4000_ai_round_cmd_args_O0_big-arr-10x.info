@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 16,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 26,
+    static: {
+      instructions: 94,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 94,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingcomedidriversme4000.c_me4000_ai_round_cmd_args.d/extr_linuxdriversstagingcomedidriversme4000.c_me4000_ai_round_cmd_args_O0::me4000_ai_round_cmd_args(69)"
+  }
+]

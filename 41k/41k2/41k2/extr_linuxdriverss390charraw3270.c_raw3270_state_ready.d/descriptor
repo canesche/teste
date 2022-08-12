@@ -1,0 +1,2 @@
+struct raw3270 | state long 
+function raw3270_state_ready int | rp struct raw3270 *

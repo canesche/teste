@@ -1,0 +1,2 @@
+struct tb | dummy int 
+function icm_fr_is_supported int | tb struct tb *

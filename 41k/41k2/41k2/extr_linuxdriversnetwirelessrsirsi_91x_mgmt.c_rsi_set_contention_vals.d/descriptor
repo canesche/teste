@@ -1,0 +1,4 @@
+struct rsi_common | tx_qinfo struct TYPE_4__ * | edca_params struct TYPE_3__ * 
+struct TYPE_4__ | pkt_contended long | wme_params long | weight long 
+struct TYPE_3__ | cw_min int | aifs int 
+function rsi_set_contention_vals void | common struct rsi_common *

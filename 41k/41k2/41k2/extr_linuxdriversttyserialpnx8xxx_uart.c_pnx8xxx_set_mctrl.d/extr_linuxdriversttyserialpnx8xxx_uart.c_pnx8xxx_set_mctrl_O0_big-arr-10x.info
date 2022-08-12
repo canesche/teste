@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversttyserialpnx8xxx_uart.c_pnx8xxx_set_mctrl.d/extr_linuxdriversttyserialpnx8xxx_uart.c_pnx8xxx_set_mctrl_O0::pnx8xxx_set_mctrl(61)"
+  }
+]

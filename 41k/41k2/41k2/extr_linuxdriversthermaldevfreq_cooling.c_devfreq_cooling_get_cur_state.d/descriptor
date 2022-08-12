@@ -1,0 +1,3 @@
+struct thermal_cooling_device | devdata struct devfreq_cooling_device * 
+struct devfreq_cooling_device | cooling_state unsigned long 
+function devfreq_cooling_get_cur_state int | cdev struct thermal_cooling_device * | state unsigned long *

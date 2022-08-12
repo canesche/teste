@@ -1,0 +1,3 @@
+struct fsg_dev | dummy int 
+struct fsg_buffhd | dummy int 
+function received_cbi_adsc void | fsg struct fsg_dev * | bh struct fsg_buffhd *

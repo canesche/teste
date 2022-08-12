@@ -1,0 +1,2 @@
+struct ocrdma_srq | idx_bit_fields unsigned int * 
+function ocrdma_srq_toggle_bit void | srq struct ocrdma_srq * | idx unsigned int

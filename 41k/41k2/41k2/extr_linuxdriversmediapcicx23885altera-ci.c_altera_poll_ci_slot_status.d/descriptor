@@ -1,0 +1,3 @@
+struct dvb_ca_en50221 | data struct altera_ci_state * 
+struct altera_ci_state | status int 
+function altera_poll_ci_slot_status int | en50221 struct dvb_ca_en50221 * | slot int | open int

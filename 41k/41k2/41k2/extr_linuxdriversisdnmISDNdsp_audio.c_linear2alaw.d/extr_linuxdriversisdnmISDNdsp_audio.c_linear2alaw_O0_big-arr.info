@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversisdnmISDNdsp_audio.c_linear2alaw.d/extr_linuxdriversisdnmISDNdsp_audio.c_linear2alaw_O0::linear2alaw(61)"
+  }
+]

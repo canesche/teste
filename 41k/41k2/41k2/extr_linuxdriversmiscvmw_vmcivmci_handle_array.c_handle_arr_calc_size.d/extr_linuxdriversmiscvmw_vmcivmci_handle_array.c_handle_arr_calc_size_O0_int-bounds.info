@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmiscvmw_vmcivmci_handle_array.c_handle_arr_calc_size.d/extr_linuxdriversmiscvmw_vmcivmci_handle_array.c_handle_arr_calc_size_O0::handle_arr_calc_size(62)"
+  }
+]

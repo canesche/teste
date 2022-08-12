@@ -1,0 +1,6 @@
+struct usb_device_descriptor | bDeviceClass int | bNumConfigurations int 
+struct TYPE_3__ | of_node int 
+struct usb_device | config struct TYPE_4__ * | dev struct TYPE_3__ | descriptor struct usb_device_descriptor 
+struct usb_config_descriptor | bNumInterfaces int 
+struct TYPE_4__ | desc struct usb_config_descriptor 
+function usb_of_has_combined_node int | udev struct usb_device *

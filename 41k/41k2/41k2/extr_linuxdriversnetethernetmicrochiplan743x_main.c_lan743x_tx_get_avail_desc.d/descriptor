@@ -1,0 +1,2 @@
+struct lan743x_tx | last_head int | last_tail int | ring_size int 
+function lan743x_tx_get_avail_desc int | tx struct lan743x_tx *

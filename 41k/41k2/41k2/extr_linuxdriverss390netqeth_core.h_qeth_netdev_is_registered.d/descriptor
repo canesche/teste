@@ -1,0 +1,2 @@
+struct net_device | netdev_ops int * 
+function qeth_netdev_is_registered int | dev struct net_device *

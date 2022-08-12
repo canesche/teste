@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversusbgadgetudclpc32xx_udc.c_lpc32xx_usbd_susp_chg.d/extr_linuxdriversusbgadgetudclpc32xx_udc.c_lpc32xx_usbd_susp_chg_O0::lpc32xx_usbd_susp_chg(60)"
+  }
+]

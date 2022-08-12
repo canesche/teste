@@ -1,0 +1,2 @@
+struct edc | timestart int 
+function edc_init void | edc struct edc *

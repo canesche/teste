@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetfreescalefmanfman_port.c_get_dflt_extra_num_of_tasks.d/extr_linuxdriversnetethernetfreescalefmanfman_port.c_get_dflt_extra_num_of_tasks_O0::get_dflt_extra_num_of_tasks(66)"
+  }
+]

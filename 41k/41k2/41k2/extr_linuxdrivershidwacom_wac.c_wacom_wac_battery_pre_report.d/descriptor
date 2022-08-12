@@ -1,0 +1,3 @@
+struct hid_report | dummy int 
+struct hid_device | dummy int 
+function wacom_wac_battery_pre_report void | hdev struct hid_device * | report struct hid_report *

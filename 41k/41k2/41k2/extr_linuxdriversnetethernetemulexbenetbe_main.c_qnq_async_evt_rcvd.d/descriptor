@@ -1,0 +1,2 @@
+struct be_adapter | flags int 
+function qnq_async_evt_rcvd int | adapter struct be_adapter *

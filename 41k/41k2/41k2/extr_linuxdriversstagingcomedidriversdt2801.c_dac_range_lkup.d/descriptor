@@ -1,0 +1,2 @@
+struct comedi_lrange | dummy int 
+function dac_range_lkup const struct comedi_lrange * | opt int

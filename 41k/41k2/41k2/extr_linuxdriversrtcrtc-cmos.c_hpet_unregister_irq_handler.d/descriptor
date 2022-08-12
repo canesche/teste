@@ -1,0 +1,1 @@
+function hpet_unregister_irq_handler int | handler int

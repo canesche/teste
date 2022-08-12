@@ -1,0 +1,2 @@
+struct ieee80211_sta | bandwidth int 
+function rs_fw_bw_from_sta_bw int | sta struct ieee80211_sta *

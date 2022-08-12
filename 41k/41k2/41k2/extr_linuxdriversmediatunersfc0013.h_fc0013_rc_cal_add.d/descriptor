@@ -1,0 +1,2 @@
+struct dvb_frontend | dummy int 
+function fc0013_rc_cal_add int | fe struct dvb_frontend * | rc_val int

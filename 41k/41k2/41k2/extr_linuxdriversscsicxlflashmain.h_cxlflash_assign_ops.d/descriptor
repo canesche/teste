@@ -1,0 +1,3 @@
+struct dev_dependent_vals | dummy int 
+struct cxlflash_backend_ops | dummy int 
+function cxlflash_assign_ops const struct cxlflash_backend_ops * | ddv struct dev_dependent_vals *

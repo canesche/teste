@@ -1,0 +1,2 @@
+struct file | dummy int 
+function cx25821_vidioc_g_output int | file struct file * | priv void * | o unsigned int *

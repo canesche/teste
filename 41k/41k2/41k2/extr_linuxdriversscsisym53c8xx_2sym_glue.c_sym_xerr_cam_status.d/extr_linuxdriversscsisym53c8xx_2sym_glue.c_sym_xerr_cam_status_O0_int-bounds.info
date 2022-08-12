@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversscsisym53c8xx_2sym_glue.c_sym_xerr_cam_status.d/extr_linuxdriversscsisym53c8xx_2sym_glue.c_sym_xerr_cam_status_O0::sym_xerr_cam_status(67)"
+  }
+]

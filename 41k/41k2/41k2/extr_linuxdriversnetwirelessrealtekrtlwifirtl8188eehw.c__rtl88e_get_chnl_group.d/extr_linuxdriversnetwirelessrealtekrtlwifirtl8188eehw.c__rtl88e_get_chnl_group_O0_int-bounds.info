@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetwirelessrealtekrtlwifirtl8188eehw.c__rtl88e_get_chnl_group.d/extr_linuxdriversnetwirelessrealtekrtlwifirtl8188eehw.c__rtl88e_get_chnl_group_O0::_rtl88e_get_chnl_group(61)"
+  }
+]

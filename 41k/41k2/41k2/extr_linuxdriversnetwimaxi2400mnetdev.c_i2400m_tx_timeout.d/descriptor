@@ -1,0 +1,3 @@
+struct TYPE_2__ | tx_errors int 
+struct net_device | stats struct TYPE_2__ 
+function i2400m_tx_timeout void | net_dev struct net_device *

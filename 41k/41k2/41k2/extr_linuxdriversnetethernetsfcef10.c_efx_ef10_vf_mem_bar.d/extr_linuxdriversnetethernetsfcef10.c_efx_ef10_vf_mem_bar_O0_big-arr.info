@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetsfcef10.c_efx_ef10_vf_mem_bar.d/extr_linuxdriversnetethernetsfcef10.c_efx_ef10_vf_mem_bar_O0::efx_ef10_vf_mem_bar(61)"
+  }
+]

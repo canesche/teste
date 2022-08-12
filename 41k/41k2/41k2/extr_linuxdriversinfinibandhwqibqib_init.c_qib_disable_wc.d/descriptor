@@ -1,0 +1,2 @@
+struct qib_devdata | dummy int 
+function qib_disable_wc void | dd struct qib_devdata *

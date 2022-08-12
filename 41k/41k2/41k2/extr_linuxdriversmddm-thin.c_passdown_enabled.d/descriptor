@@ -1,0 +1,3 @@
+struct TYPE_2__ | discard_passdown int 
+struct pool_c | adjusted_pf struct TYPE_2__ 
+function passdown_enabled int | pt struct pool_c *

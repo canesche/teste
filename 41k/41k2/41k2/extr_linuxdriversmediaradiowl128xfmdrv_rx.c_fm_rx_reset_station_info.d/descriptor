@@ -1,0 +1,4 @@
+struct TYPE_3__ | af_list_max long | afcache_size long | picode int 
+struct TYPE_4__ | stat_info struct TYPE_3__ 
+struct fmdev | rx struct TYPE_4__ 
+function fm_rx_reset_station_info void | fmdev struct fmdev *

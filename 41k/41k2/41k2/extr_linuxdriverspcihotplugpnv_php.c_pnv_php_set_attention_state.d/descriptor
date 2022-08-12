@@ -1,0 +1,3 @@
+struct hotplug_slot | info struct TYPE_2__ * 
+struct TYPE_2__ | attention_status int 
+function pnv_php_set_attention_state int | slot struct hotplug_slot * | state int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 22,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmiscocxlconfig.c_char_allowed.d/extr_linuxdriversmiscocxlconfig.c_char_allowed_O0::char_allowed(60)"
+  }
+]

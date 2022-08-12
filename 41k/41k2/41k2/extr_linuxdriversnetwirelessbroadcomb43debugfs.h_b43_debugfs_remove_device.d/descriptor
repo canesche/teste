@@ -1,0 +1,2 @@
+struct b43_wldev | dummy int 
+function b43_debugfs_remove_device void | dev struct b43_wldev *

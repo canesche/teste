@@ -1,0 +1,2 @@
+struct comedi_subdevice | index int 
+function pcmuio_subdevice_to_asic int | s struct comedi_subdevice *

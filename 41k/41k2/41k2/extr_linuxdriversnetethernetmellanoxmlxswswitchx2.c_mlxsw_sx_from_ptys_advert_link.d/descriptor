@@ -1,0 +1,2 @@
+struct TYPE_2__ | mask int | advertised int 
+function mlxsw_sx_from_ptys_advert_link int | ptys_eth_proto int

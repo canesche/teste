@@ -1,0 +1,3 @@
+struct iio_dev | num_channels int | channels struct TYPE_2__ * 
+struct TYPE_2__ | num_event_specs long 
+function iio_check_for_dynamic_events int | indio_dev struct iio_dev *

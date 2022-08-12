@@ -1,0 +1,2 @@
+struct ispstat | state long 
+function omap3isp_stat_resume void | stat struct ispstat *

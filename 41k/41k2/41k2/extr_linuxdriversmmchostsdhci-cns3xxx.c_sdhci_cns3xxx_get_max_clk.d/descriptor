@@ -1,0 +1,2 @@
+struct sdhci_host | dummy int 
+function sdhci_cns3xxx_get_max_clk unsigned int | host struct sdhci_host *

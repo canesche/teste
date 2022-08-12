@@ -1,0 +1,4 @@
+struct TYPE_3__ | dst_port long | flags int | dst_addr long | protocol int 
+struct TYPE_4__ | ipv4 struct TYPE_3__ 
+struct filter | u struct TYPE_4__ | type int 
+function usnic_fwd_init_udp_filter void | filter struct filter * | daddr long | dport long

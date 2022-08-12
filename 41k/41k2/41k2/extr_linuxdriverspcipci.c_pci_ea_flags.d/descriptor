@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function pci_ea_flags unsigned long | dev struct pci_dev * | prop int

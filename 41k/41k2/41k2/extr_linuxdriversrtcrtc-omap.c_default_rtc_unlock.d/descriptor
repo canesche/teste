@@ -1,0 +1,2 @@
+struct omap_rtc | dummy int 
+function default_rtc_unlock void | rtc struct omap_rtc *

@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function omap_vout_setup_vrfb_bufs int | pdev struct platform_device * | vid_num int | static_vrfb_allocation int

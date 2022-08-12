@@ -1,0 +1,3 @@
+struct tty_struct | driver_data struct mxser_port * 
+struct mxser_port | xmit_cnt int 
+function mxser_write_room int | tty struct tty_struct *

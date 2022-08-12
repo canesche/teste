@@ -1,0 +1,2 @@
+struct nicpf | num_sqs_en int | sqs_used int * | num_vf_en int 
+function nic_nxt_avail_sqs int | nic struct nicpf *

@@ -1,0 +1,7 @@
+struct TYPE_9__ | b_update_mode int | b_mode_enabled long 
+struct TYPE_8__ | b_update_mode int | b_mode_enabled long 
+struct TYPE_7__ | b_update_mode int | b_mode_enabled long 
+struct TYPE_6__ | b_update_mode int | b_mode_enabled long 
+struct TYPE_10__ | b_update_mode int | b_mode_enabled long 
+struct qed_tunnel_info | b_update_rx_cls int | b_update_tx_cls int | ip_gre struct TYPE_9__ | l2_gre struct TYPE_8__ | ip_geneve struct TYPE_7__ | l2_geneve struct TYPE_6__ | vxlan struct TYPE_10__ 
+function qed_vf_set_vf_start_tunn_update_param void | p_tun struct qed_tunnel_info *

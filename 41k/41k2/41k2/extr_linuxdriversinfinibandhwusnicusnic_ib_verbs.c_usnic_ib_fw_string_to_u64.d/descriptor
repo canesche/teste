@@ -1,0 +1,1 @@
+function usnic_ib_fw_string_to_u64 void | fw_ver_str char * | fw_ver int *

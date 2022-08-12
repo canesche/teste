@@ -1,0 +1,3 @@
+struct subdev_8255_private | regbase unsigned long 
+struct comedi_subdevice | private struct subdev_8255_private * 
+function subdev_8255_regbase unsigned long | s struct comedi_subdevice *

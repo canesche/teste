@@ -1,0 +1,2 @@
+struct gsc_variant | sc_down_max int | local_sc_down int | sc_up_max int 
+function gsc_check_scaler_ratio int | var struct gsc_variant * | sw int | sh int | dw int | dh int | rot int | out_path int

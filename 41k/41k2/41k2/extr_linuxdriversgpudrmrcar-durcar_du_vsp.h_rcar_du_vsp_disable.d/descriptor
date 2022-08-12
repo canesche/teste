@@ -1,0 +1,2 @@
+struct rcar_du_crtc | dummy int 
+function rcar_du_vsp_disable void | crtc struct rcar_du_crtc *

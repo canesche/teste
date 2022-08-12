@@ -1,0 +1,2 @@
+struct usb_serial | dummy int 
+function cp210x_gpio_remove void | serial struct usb_serial *

@@ -1,0 +1,2 @@
+struct sxgbe_tx_ctxt_desc | ctxt_bit int 
+function sxgbe_tx_ctxt_desc_set_ctxt void | p struct sxgbe_tx_ctxt_desc *

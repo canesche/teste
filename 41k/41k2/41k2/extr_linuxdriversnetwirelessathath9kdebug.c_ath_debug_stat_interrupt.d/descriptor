@@ -1,0 +1,7 @@
+struct TYPE_8__ | gen_timer int | mci int | tsfoor int | dtim int | dtimsync int | cabend int | tim int | gtt int | cst int | bnr int | bmiss int | swba int | rx_keycache_miss int | rxphyerr int | txurn int | txok int | rxorn int | rxeol int | rxok int | bb_watchdog int | rxhp int | rxlp int | total int 
+struct TYPE_9__ | istats struct TYPE_8__ 
+struct TYPE_10__ | stats struct TYPE_9__ 
+struct ath_softc | debug struct TYPE_10__ | sc_ah struct TYPE_7__ * 
+struct TYPE_6__ | hw_caps int 
+struct TYPE_7__ | caps struct TYPE_6__ 
+function ath_debug_stat_interrupt void | sc struct ath_softc * | status enum ath9k_int

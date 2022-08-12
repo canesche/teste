@@ -1,0 +1,1 @@
+function dm_adaptivity_set_parm void | pAdapter int * | TH_L2H_ini int | TH_EDCCA_HL_diff int | IGI_Base int | ForceEDCCA int | AdapEn_RSSI int | IGI_LowerBound int

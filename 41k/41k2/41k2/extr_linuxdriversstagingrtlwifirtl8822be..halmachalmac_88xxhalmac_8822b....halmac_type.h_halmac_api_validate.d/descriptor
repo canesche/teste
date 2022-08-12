@@ -1,0 +1,3 @@
+struct TYPE_2__ | api_state long 
+struct halmac_adapter | halmac_state struct TYPE_2__ 
+function halmac_api_validate enum halmac_ret_status | halmac_adapter struct halmac_adapter *

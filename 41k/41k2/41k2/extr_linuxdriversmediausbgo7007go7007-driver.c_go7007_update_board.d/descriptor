@@ -1,0 +1,3 @@
+struct go7007_board_info | sensor_flags int | sensor_width int | sensor_height int | sensor_framerate int | sensor_h_offset int | sensor_v_offset int 
+struct go7007 | width int | height int | sensor_framerate int | encoder_h_offset int | encoder_v_offset int | standard int | std int | board_info struct go7007_board_info * 
+function go7007_update_board void | go struct go7007 *

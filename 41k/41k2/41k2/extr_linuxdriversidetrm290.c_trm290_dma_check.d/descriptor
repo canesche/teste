@@ -1,0 +1,2 @@
+struct ide_cmd | tf_flags int 
+function trm290_dma_check int | drive int * | cmd struct ide_cmd *

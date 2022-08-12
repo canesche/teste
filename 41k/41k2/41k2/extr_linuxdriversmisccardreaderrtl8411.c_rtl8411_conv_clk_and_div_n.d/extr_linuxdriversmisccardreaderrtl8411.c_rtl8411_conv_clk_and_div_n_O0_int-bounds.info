@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmisccardreaderrtl8411.c_rtl8411_conv_clk_and_div_n.d/extr_linuxdriversmisccardreaderrtl8411.c_rtl8411_conv_clk_and_div_n_O0::rtl8411_conv_clk_and_div_n(61)"
+  }
+]

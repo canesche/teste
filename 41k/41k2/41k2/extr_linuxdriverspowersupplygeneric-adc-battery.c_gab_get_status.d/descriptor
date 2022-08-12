@@ -1,0 +1,4 @@
+struct power_supply_info | charge_full_design long 
+struct gab_platform_data | battery_info struct power_supply_info 
+struct gab | level long | status int | pdata struct gab_platform_data * 
+function gab_get_status int | adc_bat struct gab *

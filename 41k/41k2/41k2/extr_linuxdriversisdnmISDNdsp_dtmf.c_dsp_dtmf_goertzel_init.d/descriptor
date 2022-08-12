@@ -1,0 +1,3 @@
+struct TYPE_2__ | lastwhat char | lastdigit char | count long | size long 
+struct dsp | dtmf struct TYPE_2__ 
+function dsp_dtmf_goertzel_init void | dsp struct dsp *

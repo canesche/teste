@@ -1,0 +1,2 @@
+struct ieee80211_hw | dummy int 
+function rtl8723be_dm_dynamic_txpower void | hw struct ieee80211_hw *

@@ -1,0 +1,4 @@
+struct TYPE_3__ | width int | height int | sizeimage int | priv long | field int | colorspace int | bytesperline long | pixelformat int 
+struct TYPE_4__ | pix struct TYPE_3__ 
+struct v4l2_format | fmt struct TYPE_4__ 
+function comp_set_format_struct void | f struct v4l2_format *

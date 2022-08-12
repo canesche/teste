@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 9,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 1544,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetethernetbroadcomtg3.c_calc_crc.d/extr_linuxdriversnetethernetbroadcomtg3.c_calc_crc_O0::calc_crc(62)"
+  }
+]

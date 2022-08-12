@@ -1,0 +1,2 @@
+struct TYPE_2__ | gain int | gain_pulse int 
+function hx711_get_gain_to_pulse int | gain int

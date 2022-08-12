@@ -1,0 +1,2 @@
+struct rc_dev | dummy int 
+function lirc_bpf_free void | dev struct rc_dev *

@@ -1,0 +1,4 @@
+struct unstripe_c | chunk_size int 
+struct queue_limits | chunk_sectors int 
+struct dm_target | private struct unstripe_c * 
+function unstripe_io_hints void | ti struct dm_target * | limits struct queue_limits *

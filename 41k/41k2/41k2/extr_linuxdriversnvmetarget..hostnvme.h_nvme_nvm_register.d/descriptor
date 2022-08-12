@@ -1,0 +1,2 @@
+struct nvme_ns | dummy int 
+function nvme_nvm_register int | ns struct nvme_ns * | disk_name char * | node int

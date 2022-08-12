@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversnetteamteam.c_team_mcast_rejoin_interval_set.d/extr_linuxdriversnetteamteam.c_team_mcast_rejoin_interval_set_O0::team_mcast_rejoin_interval_set(67)"
+  }
+]

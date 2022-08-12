@@ -1,0 +1,2 @@
+struct gpio_chip | ngpio unsigned int 
+function htcpld_direction_input int | chip struct gpio_chip * | offset unsigned int

@@ -1,0 +1,2 @@
+struct vnt_private | current_tsf int 
+function vnt_get_current_tsf int | priv struct vnt_private * | current_tsf int *

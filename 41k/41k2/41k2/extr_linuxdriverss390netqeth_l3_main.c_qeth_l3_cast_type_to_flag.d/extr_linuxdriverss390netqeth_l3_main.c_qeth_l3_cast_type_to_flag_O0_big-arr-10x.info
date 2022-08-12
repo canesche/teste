@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriverss390netqeth_l3_main.c_qeth_l3_cast_type_to_flag.d/extr_linuxdriverss390netqeth_l3_main.c_qeth_l3_cast_type_to_flag_O0::qeth_l3_cast_type_to_flag(68)"
+  }
+]

@@ -1,0 +1,2 @@
+struct intel_ntb_dev | unsafe_flags unsigned long | unsafe_flags_ignore unsigned long 
+function ndev_is_unsafe int | ndev struct intel_ntb_dev * | flag unsigned long

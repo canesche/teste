@@ -1,0 +1,2 @@
+struct vdoa_ctx | dummy int 
+function vdoa_wait_for_completion int | ctx struct vdoa_ctx *

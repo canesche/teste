@@ -1,0 +1,2 @@
+struct ssc_device | dummy int 
+function ssc_sound_dai_remove void | ssc struct ssc_device *

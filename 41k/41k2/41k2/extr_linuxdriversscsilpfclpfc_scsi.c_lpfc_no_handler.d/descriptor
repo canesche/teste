@@ -1,0 +1,2 @@
+struct scsi_cmnd | dummy int 
+function lpfc_no_handler int | cmnd struct scsi_cmnd *

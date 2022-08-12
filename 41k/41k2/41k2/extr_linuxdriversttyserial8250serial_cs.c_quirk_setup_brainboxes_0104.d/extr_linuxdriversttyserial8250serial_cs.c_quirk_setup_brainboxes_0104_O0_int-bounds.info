@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversttyserial8250serial_cs.c_quirk_setup_brainboxes_0104.d/extr_linuxdriversttyserial8250serial_cs.c_quirk_setup_brainboxes_0104_O0::quirk_setup_brainboxes_0104(64)"
+  }
+]

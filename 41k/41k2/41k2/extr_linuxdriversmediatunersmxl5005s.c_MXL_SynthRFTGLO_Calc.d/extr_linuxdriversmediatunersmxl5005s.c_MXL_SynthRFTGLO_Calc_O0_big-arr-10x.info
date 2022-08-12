@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversmediatunersmxl5005s.c_MXL_SynthRFTGLO_Calc.d/extr_linuxdriversmediatunersmxl5005s.c_MXL_SynthRFTGLO_Calc_O0::MXL_SynthRFTGLO_Calc(62)"
+  }
+]

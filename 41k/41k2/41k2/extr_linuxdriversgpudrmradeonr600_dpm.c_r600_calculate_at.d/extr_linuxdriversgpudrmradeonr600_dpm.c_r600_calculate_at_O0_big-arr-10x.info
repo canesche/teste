@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 66,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 66,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversgpudrmradeonr600_dpm.c_r600_calculate_at.d/extr_linuxdriversgpudrmradeonr600_dpm.c_r600_calculate_at_O0::r600_calculate_at(62)"
+  }
+]

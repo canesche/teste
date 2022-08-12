@@ -1,0 +1,2 @@
+struct ttusb_dec | model int | model_name char * | firmware_name char * 
+function ttusb_dec_set_model void | dec struct ttusb_dec * | model enum ttusb_dec_model

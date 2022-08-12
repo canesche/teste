@@ -1,0 +1,2 @@
+struct device | dummy int 
+function find_anything int | dev struct device * | data void *

@@ -1,0 +1,3 @@
+struct TYPE_2__ | max_mah_design int 
+struct ab8500_fg | bat_cap struct TYPE_2__ 
+function ab8500_fg_convert_mah_to_permille int | di struct ab8500_fg * | cap_mah int

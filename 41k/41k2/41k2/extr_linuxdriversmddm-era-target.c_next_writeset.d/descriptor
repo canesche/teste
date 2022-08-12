@@ -1,0 +1,3 @@
+struct writeset | dummy int 
+struct era_metadata | writesets struct writeset * | current_writeset struct writeset * 
+function next_writeset struct writeset * | md struct era_metadata *

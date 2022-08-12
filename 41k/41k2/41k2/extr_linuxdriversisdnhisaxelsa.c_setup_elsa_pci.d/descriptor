@@ -1,0 +1,2 @@
+struct IsdnCard | dummy int 
+function setup_elsa_pci int | card struct IsdnCard *

@@ -1,0 +1,2 @@
+struct txbd8 | dummy int 
+function skip_txbd struct txbd8 * | bdp struct txbd8 * | stride int | base struct txbd8 * | ring_size int

@@ -1,0 +1,2 @@
+struct ib_mad_agent_private | dummy int 
+function ib_mad_enforce_security int | map struct ib_mad_agent_private * | pkey_index int

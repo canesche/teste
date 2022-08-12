@@ -1,0 +1,2 @@
+struct nfp_cpp | model int 
+function nfp_cpp_model int | cpp struct nfp_cpp *

@@ -1,0 +1,2 @@
+struct device | release long 
+function is_snic_target int | dev struct device *

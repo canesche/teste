@@ -1,0 +1,2 @@
+struct sdhci_host | dummy int 
+function pic32_sdhci_get_ro unsigned int | host struct sdhci_host *

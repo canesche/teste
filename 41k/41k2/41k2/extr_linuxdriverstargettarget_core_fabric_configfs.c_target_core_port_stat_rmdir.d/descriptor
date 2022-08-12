@@ -1,0 +1,3 @@
+struct config_item | dummy int 
+struct config_group | dummy int 
+function target_core_port_stat_rmdir void | group struct config_group * | item struct config_item *

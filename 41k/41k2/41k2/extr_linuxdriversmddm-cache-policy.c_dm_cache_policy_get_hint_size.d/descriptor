@@ -1,0 +1,3 @@
+struct dm_cache_policy_type | hint_size unsigned long 
+struct dm_cache_policy | private struct dm_cache_policy_type * 
+function dm_cache_policy_get_hint_size unsigned long | p struct dm_cache_policy *

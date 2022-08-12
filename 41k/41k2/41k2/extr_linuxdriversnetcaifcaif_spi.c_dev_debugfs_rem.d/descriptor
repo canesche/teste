@@ -1,0 +1,2 @@
+struct cfspi | dummy int 
+function dev_debugfs_rem void | cfspi struct cfspi *

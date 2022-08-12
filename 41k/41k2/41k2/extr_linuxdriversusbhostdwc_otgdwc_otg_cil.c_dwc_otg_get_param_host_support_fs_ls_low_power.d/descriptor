@@ -1,0 +1,3 @@
+struct TYPE_5__ | core_params struct TYPE_4__ * 
+struct TYPE_4__ | host_support_fs_ls_low_power int 
+function dwc_otg_get_param_host_support_fs_ls_low_power int | core_if struct TYPE_5__ *

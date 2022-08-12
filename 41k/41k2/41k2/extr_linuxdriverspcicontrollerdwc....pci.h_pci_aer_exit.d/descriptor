@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function pci_aer_exit void | d struct pci_dev *

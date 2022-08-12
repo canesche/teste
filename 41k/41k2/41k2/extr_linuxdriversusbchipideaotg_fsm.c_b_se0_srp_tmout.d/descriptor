@@ -1,0 +1,3 @@
+struct TYPE_2__ | b_se0_srp int 
+struct ci_hdrc | fsm struct TYPE_2__ 
+function b_se0_srp_tmout int | ci struct ci_hdrc *

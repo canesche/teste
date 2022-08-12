@@ -1,0 +1,2 @@
+struct mddev | flags unsigned long 
+function mddev_clear_unsupported_flags void | mddev struct mddev * | unsupported_flags unsigned long

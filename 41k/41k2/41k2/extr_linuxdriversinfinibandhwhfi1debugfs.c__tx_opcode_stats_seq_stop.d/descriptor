@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function _tx_opcode_stats_seq_stop void | s struct seq_file * | v void *

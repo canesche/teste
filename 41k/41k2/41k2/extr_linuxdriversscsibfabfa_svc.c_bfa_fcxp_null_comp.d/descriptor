@@ -1,0 +1,3 @@
+struct fchs_s | dummy int 
+struct bfa_fcxp_s | dummy int 
+function bfa_fcxp_null_comp void | bfad_fcxp void * | fcxp struct bfa_fcxp_s * | cbarg void * | req_status int | rsp_len int | resid_len int | rsp_fchs struct fchs_s *

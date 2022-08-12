@@ -1,0 +1,2 @@
+struct tda18271_config | rf_cal_on_startup long 
+function tda18271_need_cal_on_startup int | cfg struct tda18271_config *

@@ -1,0 +1,2 @@
+struct usb_serial_port | dummy int 
+function qt2_process_flush void | port struct usb_serial_port * | ch unsigned char *

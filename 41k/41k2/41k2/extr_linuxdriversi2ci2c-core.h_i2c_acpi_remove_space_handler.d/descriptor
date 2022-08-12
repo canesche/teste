@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function i2c_acpi_remove_space_handler void | adapter struct i2c_adapter *

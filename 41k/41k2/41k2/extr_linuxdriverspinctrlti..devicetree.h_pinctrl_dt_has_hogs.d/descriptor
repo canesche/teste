@@ -1,0 +1,2 @@
+struct pinctrl_dev | dummy int 
+function pinctrl_dt_has_hogs int | pctldev struct pinctrl_dev *

@@ -1,0 +1,2 @@
+struct mlxsw_sp | dummy int 
+function mlxsw_sp_dpipe_fini void | mlxsw_sp struct mlxsw_sp *

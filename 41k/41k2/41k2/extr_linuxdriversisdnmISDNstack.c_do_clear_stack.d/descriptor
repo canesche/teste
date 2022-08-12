@@ -1,0 +1,2 @@
+struct mISDNstack | dummy int 
+function do_clear_stack void | st struct mISDNstack *

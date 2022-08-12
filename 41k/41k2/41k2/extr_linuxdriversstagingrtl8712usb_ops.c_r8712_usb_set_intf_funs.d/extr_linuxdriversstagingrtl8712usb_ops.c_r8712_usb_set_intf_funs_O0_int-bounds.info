@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversstagingrtl8712usb_ops.c_r8712_usb_set_intf_funs.d/extr_linuxdriversstagingrtl8712usb_ops.c_r8712_usb_set_intf_funs_O0::r8712_usb_set_intf_funs(65)"
+  }
+]

@@ -1,0 +1,2 @@
+struct uart_port | dummy int 
+function tegra_uart_release_port void | u struct uart_port *

@@ -1,0 +1,2 @@
+struct ath10k_vif | dummy int 
+function ath10k_spectral_vif_stop int | arvif struct ath10k_vif *

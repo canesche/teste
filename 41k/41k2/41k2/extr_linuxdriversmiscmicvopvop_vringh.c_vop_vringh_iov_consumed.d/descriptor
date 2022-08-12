@@ -1,0 +1,3 @@
+struct vringh_kiov | i int | iov struct TYPE_2__ * | consumed int 
+struct TYPE_2__ | iov_len long 
+function vop_vringh_iov_consumed int | iov struct vringh_kiov *

@@ -1,0 +1,4 @@
+struct sas_task | uldd_task struct ata_queued_cmd * 
+struct TYPE_2__ | command long 
+struct ata_queued_cmd | tag int | tf struct TYPE_2__ 
+function mvs_get_ncq_tag int | task struct sas_task * | tag int *

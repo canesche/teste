@@ -1,0 +1,2 @@
+struct ath_softc | dummy int 
+function ath9k_enable_dynack void | sc struct ath_softc *

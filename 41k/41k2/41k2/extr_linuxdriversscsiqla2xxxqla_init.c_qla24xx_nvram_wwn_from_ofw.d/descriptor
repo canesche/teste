@@ -1,0 +1,2 @@
+struct nvram_24xx | dummy int 
+function qla24xx_nvram_wwn_from_ofw void | vha int * | nv struct nvram_24xx *

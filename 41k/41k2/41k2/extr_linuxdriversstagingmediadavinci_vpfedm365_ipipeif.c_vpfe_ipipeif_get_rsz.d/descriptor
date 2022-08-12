@@ -1,0 +1,4 @@
+struct TYPE_2__ | rsz int 
+struct vpfe_ipipeif_device | config struct TYPE_2__ 
+struct vpfe_device | vpfe_ipipeif struct vpfe_ipipeif_device 
+function vpfe_ipipeif_get_rsz int | vpfe_dev struct vpfe_device *

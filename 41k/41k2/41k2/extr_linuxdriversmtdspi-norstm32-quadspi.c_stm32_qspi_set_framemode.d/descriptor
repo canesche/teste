@@ -1,0 +1,3 @@
+struct stm32_qspi_cmd | addr_width long | framemode int | tx_data long 
+struct spi_nor | read_proto int 
+function stm32_qspi_set_framemode void | nor struct spi_nor * | cmd struct stm32_qspi_cmd * | read int

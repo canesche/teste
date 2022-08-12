@@ -1,0 +1,7 @@
+struct TYPE_6__ | f1 unsigned long | f2 unsigned long | send int * 
+struct TYPE_7__ | hfc struct TYPE_6__ 
+struct BCState | cs struct TYPE_10__ * | hw struct TYPE_7__ 
+struct TYPE_8__ | bfifosize int 
+struct TYPE_9__ | hfcD struct TYPE_8__ 
+struct TYPE_10__ | hw struct TYPE_9__ 
+function GetFreeFifoBytes_B int | bcs struct BCState *

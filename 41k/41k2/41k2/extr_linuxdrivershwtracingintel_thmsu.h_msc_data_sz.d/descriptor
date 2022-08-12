@@ -1,0 +1,2 @@
+struct msc_block_desc | valid_dw int 
+function msc_data_sz unsigned long | bdesc struct msc_block_desc *

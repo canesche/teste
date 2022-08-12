@@ -1,0 +1,2 @@
+struct mmc_card | dummy int 
+function mmc_test_shutdown void | card struct mmc_card *

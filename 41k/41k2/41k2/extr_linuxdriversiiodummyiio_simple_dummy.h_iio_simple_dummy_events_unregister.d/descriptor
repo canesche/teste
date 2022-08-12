@@ -1,0 +1,2 @@
+struct iio_dev | dummy int 
+function iio_simple_dummy_events_unregister void | indio_dev struct iio_dev *

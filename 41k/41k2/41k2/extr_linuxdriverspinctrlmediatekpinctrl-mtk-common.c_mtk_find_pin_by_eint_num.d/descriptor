@@ -1,0 +1,5 @@
+struct mtk_pinctrl | devdata struct TYPE_3__ * 
+struct TYPE_4__ | eintnum unsigned int 
+struct mtk_desc_pin | eint struct TYPE_4__ 
+struct TYPE_3__ | npins int | pins struct mtk_desc_pin * 
+function mtk_find_pin_by_eint_num const struct mtk_desc_pin * | pctl struct mtk_pinctrl * | eint_num unsigned int

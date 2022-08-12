@@ -1,0 +1,2 @@
+struct scsi_device | dummy int 
+function hpsa_slave_destroy void | sdev struct scsi_device *

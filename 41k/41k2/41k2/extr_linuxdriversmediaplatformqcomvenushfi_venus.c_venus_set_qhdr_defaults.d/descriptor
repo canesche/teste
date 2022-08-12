@@ -1,0 +1,2 @@
+struct hfi_queue_header | status int | q_size int | rx_wm int | tx_wm int | rx_req int | write_idx long | read_idx long | tx_irq_status long | rx_irq_status long | tx_req long | pkt_size long | type int 
+function venus_set_qhdr_defaults void | qhdr struct hfi_queue_header *

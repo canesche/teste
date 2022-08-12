@@ -1,0 +1,2 @@
+struct picolcd_data | addr_sz int 
+function _picolcd_flash_setaddr int | data struct picolcd_data * | buf long * | off long

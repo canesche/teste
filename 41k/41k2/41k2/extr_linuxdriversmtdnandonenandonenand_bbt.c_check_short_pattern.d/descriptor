@@ -1,0 +1,2 @@
+struct nand_bbt_descr | len int | pattern long * 
+function check_short_pattern int | buf long * | len int | paglen int | td struct nand_bbt_descr *

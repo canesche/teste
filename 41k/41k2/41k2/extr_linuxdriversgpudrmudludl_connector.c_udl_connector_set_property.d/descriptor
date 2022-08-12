@@ -1,0 +1,3 @@
+struct drm_property | dummy int 
+struct drm_connector | dummy int 
+function udl_connector_set_property int | connector struct drm_connector * | property struct drm_property * | val int

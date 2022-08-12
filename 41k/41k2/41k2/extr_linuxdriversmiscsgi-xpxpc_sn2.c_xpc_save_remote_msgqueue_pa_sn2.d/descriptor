@@ -1,0 +1,4 @@
+struct TYPE_3__ | remote_msgqueue_pa unsigned long 
+struct TYPE_4__ | sn2 struct TYPE_3__ 
+struct xpc_channel | sn struct TYPE_4__ 
+function xpc_save_remote_msgqueue_pa_sn2 enum xp_retval | ch struct xpc_channel * | msgqueue_pa unsigned long

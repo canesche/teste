@@ -1,0 +1,2 @@
+struct ahd_softc | unit int 
+function ahd_set_unit void | ahd struct ahd_softc * | unit int

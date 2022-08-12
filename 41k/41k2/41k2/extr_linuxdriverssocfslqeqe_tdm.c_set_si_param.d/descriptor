@@ -1,0 +1,4 @@
+struct si_mode_info | simr_crt int | simr_rfsd long 
+struct ucc_tdm_info | si_info struct si_mode_info 
+struct ucc_tdm | tdm_mode long 
+function set_si_param void | utdm struct ucc_tdm * | ut_info struct ucc_tdm_info *

@@ -1,0 +1,1 @@
+function i40iw_get_ib_wc enum ib_wc_status | opcode enum i40iw_flush_opcode

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k2/extr_linuxdriversntbhwidtntb_hw_idt.c_idt_get_mw_count.d/extr_linuxdriversntbhwidtntb_hw_idt.c_idt_get_mw_count_O0::idt_get_mw_count(62)"
+  }
+]

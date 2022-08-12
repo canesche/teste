@@ -1,0 +1,3 @@
+struct mlx5_eswitch_rep | vport long | vlan long | vlan_refcount long 
+struct mlx5_esw_flow_attr | vlan_vid long * | out_rep struct mlx5_eswitch_rep ** | in_rep struct mlx5_eswitch_rep * 
+function esw_add_vlan_action_check int | attr struct mlx5_esw_flow_attr * | push int | pop int | fwd int

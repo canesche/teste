@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct file | dummy int 
+function remote_settings_file_close int | inode struct inode * | file struct file *

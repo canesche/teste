@@ -1,0 +1,3 @@
+struct ccw_device | private struct TYPE_2__ * 
+struct TYPE_2__ | pgid_reset_mask long | path_new_mask long | path_gone_mask long 
+function ccw_device_reset_path_events void | cdev struct ccw_device *

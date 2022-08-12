@@ -1,0 +1,2 @@
+struct dma_channel | dummy int 
+function ux500_dma_is_compatible int | channel struct dma_channel * | maxpacket int | buf void * | length int

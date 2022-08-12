@@ -1,0 +1,2 @@
+struct omap_dss_device | type int 
+function get_connector_type int | dssdev struct omap_dss_device *

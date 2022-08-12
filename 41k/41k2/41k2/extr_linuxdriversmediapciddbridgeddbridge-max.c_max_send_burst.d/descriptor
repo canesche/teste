@@ -1,0 +1,2 @@
+struct dvb_frontend | dummy int 
+function max_send_burst int | fe struct dvb_frontend * | burst enum fe_sec_mini_cmd

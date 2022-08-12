@@ -1,0 +1,1 @@
+function i40iw_fragcnt_to_wqesize_sq enum i40iw_status_code | frag_cnt int | wqe_size int *

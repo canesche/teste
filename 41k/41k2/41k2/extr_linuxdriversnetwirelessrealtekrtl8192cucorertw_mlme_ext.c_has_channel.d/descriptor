@@ -1,0 +1,2 @@
+struct TYPE_3__ | ChannelNum int 
+function has_channel int | channel_set struct TYPE_3__ * | chanset_size int | chan int

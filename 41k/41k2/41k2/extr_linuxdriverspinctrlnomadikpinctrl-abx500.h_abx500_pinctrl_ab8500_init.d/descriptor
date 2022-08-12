@@ -1,0 +1,2 @@
+struct abx500_pinctrl_soc_data | dummy int 
+function abx500_pinctrl_ab8500_init void | soc struct abx500_pinctrl_soc_data **

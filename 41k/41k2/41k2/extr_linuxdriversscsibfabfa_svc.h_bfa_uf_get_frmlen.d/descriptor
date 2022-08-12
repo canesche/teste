@@ -1,0 +1,2 @@
+struct bfa_uf_s | data_len int 
+function bfa_uf_get_frmlen int | uf struct bfa_uf_s *

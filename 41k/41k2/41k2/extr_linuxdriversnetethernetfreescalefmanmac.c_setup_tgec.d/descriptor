@@ -1,0 +1,3 @@
+struct mac_device | priv struct TYPE_2__ * | adjust_link int | stop int | start int | set_multi int | set_tstamp int | set_allmulti int | set_exception int | set_rx_pause int | set_tx_pause int | remove_hash_mac_addr int | add_hash_mac_addr int | change_addr int | set_promisc int | init int 
+struct TYPE_2__ | disable int | enable int 
+function setup_tgec void | mac_dev struct mac_device *

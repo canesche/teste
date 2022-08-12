@@ -1,0 +1,3 @@
+struct firedtv | voltage int 
+struct dvb_frontend | sec_priv struct firedtv * 
+function fdtv_set_voltage int | fe struct dvb_frontend * | voltage enum fe_sec_voltage

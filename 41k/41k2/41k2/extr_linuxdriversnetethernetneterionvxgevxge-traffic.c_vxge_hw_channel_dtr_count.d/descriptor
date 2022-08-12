@@ -1,0 +1,2 @@
+struct __vxge_hw_channel | reserve_ptr int | reserve_top int | length int | free_ptr int 
+function vxge_hw_channel_dtr_count int | channel struct __vxge_hw_channel *

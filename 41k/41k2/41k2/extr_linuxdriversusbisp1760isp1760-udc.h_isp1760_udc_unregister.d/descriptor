@@ -1,0 +1,2 @@
+struct isp1760_device | dummy int 
+function isp1760_udc_unregister void | isp struct isp1760_device *

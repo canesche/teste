@@ -1,0 +1,2 @@
+struct jz4780_nemc | clk_period int 
+function jz4780_nemc_ns_to_cycles int | nemc struct jz4780_nemc * | ns int

@@ -1,0 +1,2 @@
+struct fm10k_intfc | dummy int 
+function fm10k_dbg_intfc_init void | interface struct fm10k_intfc *
