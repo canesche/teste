@@ -1,0 +1,3 @@
+struct ata_link | dummy int 
+struct ata_device | dummy int 
+function pcmcia_set_mode_8bit int | link struct ata_link * | r_failed_dev struct ata_device **

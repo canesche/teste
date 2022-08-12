@@ -1,0 +1,1 @@
+function __disable_intr void | mask unsigned int * | intr unsigned int

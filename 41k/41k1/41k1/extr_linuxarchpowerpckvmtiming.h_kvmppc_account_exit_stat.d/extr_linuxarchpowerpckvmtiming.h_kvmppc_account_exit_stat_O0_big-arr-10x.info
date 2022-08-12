@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchpowerpckvmtiming.h_kvmppc_account_exit_stat.d/extr_linuxarchpowerpckvmtiming.h_kvmppc_account_exit_stat_O0::kvmppc_account_exit_stat(77)"
+  }
+]

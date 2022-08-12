@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 202,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriverscharhw_randomn2-drv.c_advance_polynomial.d/extr_linuxdriverscharhw_randomn2-drv.c_advance_polynomial_O0::advance_polynomial(62)"
+  }
+]

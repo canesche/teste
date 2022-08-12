@@ -1,0 +1,2 @@
+struct kgd_dev | dummy int 
+function kgd_address_watch_disable int | kgd struct kgd_dev *

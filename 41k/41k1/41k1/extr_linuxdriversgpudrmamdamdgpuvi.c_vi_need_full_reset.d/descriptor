@@ -1,0 +1,2 @@
+struct amdgpu_device | asic_type int 
+function vi_need_full_reset int | adev struct amdgpu_device *

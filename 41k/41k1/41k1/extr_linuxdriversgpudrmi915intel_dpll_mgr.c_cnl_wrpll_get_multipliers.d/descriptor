@@ -1,0 +1,1 @@
+function cnl_wrpll_get_multipliers void | bestdiv int | pdiv int * | qdiv int * | kdiv int *

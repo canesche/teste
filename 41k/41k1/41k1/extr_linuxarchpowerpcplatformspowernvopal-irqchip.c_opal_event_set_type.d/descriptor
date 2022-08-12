@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function opal_event_set_type int | d struct irq_data * | flow_type unsigned int

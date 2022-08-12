@@ -1,0 +1,3 @@
+struct TYPE_2__ | pending_external_vector int 
+struct kvm_vcpu | arch struct TYPE_2__ 
+function pending_userspace_extint int | v struct kvm_vcpu *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | b_dirtyend int 
+function buf_dirtyend int | bp struct TYPE_3__ *

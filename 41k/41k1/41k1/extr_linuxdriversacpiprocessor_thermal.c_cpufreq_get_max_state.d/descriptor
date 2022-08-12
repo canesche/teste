@@ -1,0 +1,1 @@
+function cpufreq_get_max_state int | cpu unsigned int

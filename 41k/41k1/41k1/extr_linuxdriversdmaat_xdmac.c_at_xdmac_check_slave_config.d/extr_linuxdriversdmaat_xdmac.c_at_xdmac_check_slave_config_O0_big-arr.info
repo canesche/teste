@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversdmaat_xdmac.c_at_xdmac_check_slave_config.d/extr_linuxdriversdmaat_xdmac.c_at_xdmac_check_slave_config_O0::at_xdmac_check_slave_config(64)"
+  }
+]

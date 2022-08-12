@@ -1,0 +1,1 @@
+function add_dc void | dst int * | dc int | stride int | obmc_weight int * | xblen int | yblen int

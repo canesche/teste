@@ -1,0 +1,2 @@
+struct tty_struct | dummy int 
+function __serial_clock_off void | tty struct tty_struct *

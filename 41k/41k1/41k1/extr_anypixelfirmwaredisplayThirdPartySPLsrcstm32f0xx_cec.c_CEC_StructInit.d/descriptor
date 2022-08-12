@@ -1,0 +1,2 @@
+struct TYPE_3__ | CEC_SFTOption int | CEC_BRDNoGen int | CEC_LongBitPeriodError int | CEC_BitRisingError int | CEC_StopReception int | CEC_RxTolerance int | CEC_SignalFreeTime int 
+function CEC_StructInit void | CEC_InitStruct struct TYPE_3__ *

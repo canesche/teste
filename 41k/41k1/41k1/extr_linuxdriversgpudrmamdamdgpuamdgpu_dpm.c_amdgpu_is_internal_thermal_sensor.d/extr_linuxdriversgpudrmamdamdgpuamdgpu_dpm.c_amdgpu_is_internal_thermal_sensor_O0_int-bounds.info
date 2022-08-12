@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 19,
+    static: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmamdamdgpuamdgpu_dpm.c_amdgpu_is_internal_thermal_sensor.d/extr_linuxdriversgpudrmamdamdgpuamdgpu_dpm.c_amdgpu_is_internal_thermal_sensor_O0::amdgpu_is_internal_thermal_sensor(74)"
+  }
+]

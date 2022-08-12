@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmamddisplaydcbiosbios_parser.c_get_support_mask_for_device_id.d/extr_linuxdriversgpudrmamddisplaydcbiosbios_parser.c_get_support_mask_for_device_id_O0::get_support_mask_for_device_id(78)"
+  }
+]

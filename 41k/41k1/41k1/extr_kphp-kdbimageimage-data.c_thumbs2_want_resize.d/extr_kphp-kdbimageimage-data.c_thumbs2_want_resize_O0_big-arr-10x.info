@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_kphp-kdbimageimage-data.c_thumbs2_want_resize.d/extr_kphp-kdbimageimage-data.c_thumbs2_want_resize_O0::thumbs2_want_resize(60)"
+  }
+]

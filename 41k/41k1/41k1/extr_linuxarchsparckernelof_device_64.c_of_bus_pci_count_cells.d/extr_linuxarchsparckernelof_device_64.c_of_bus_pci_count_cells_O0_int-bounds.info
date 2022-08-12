@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchsparckernelof_device_64.c_of_bus_pci_count_cells.d/extr_linuxarchsparckernelof_device_64.c_of_bus_pci_count_cells_O0::of_bus_pci_count_cells(62)"
+  }
+]

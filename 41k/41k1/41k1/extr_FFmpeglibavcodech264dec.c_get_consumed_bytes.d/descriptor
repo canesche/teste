@@ -1,0 +1,1 @@
+function get_consumed_bytes int | pos int | buf_size int

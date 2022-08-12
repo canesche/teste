@@ -1,0 +1,2 @@
+struct bcma_device | dummy int 
+function bcma_core_mips_irq unsigned int | dev struct bcma_device *

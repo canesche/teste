@@ -1,0 +1,1 @@
+function uv_ntstatus_to_winsock_error int | status int

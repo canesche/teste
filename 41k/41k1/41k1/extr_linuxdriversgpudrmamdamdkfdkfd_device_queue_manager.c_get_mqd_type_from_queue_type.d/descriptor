@@ -1,0 +1,1 @@
+function get_mqd_type_from_queue_type enum KFD_MQD_TYPE | type enum kfd_queue_type

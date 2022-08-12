@@ -1,0 +1,1 @@
+function deemphasis_c float | y float * | x float * | coeff float | len int

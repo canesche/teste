@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_SoftEtherVPNsrcCedarClient.c_CnConnectErrorDlg.d/extr_SoftEtherVPNsrcCedarClient.c_CnConnectErrorDlg_O0::CnConnectErrorDlg(62)"
+  }
+]

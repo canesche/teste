@@ -1,0 +1,2 @@
+struct TYPE_3__ | nTotalChange int 
+function sqlite3_total_changes int | db struct TYPE_3__ *

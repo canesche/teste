@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnuosfmkkernenergy_perf.c_gpu_fceiling_cb_register.d/extr_darwin-xnuosfmkkernenergy_perf.c_gpu_fceiling_cb_register_O0::gpu_fceiling_cb_register(62)"
+  }
+]

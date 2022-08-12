@@ -1,0 +1,1 @@
+value(TIM_ICPolarity) == 10, value(TIM_ICSelection) == 10, value(TIM_ICFilter) == 10, length(TIMx) == 100

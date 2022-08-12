@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 1544,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_kittykittyscreen.c_screen_scroll.d/extr_kittykittyscreen.c_screen_scroll_O0::screen_scroll(64)"
+  }
+]

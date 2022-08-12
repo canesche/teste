@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchmipsalchemydevboardsdb1300.c_db1300_movinand_readonly.d/extr_linuxarchmipsalchemydevboardsdb1300.c_db1300_movinand_readonly_O0::db1300_movinand_readonly(60)"
+  }
+]

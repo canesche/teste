@@ -1,0 +1,2 @@
+struct arch_optimized_insn | insn int * 
+function arch_prepared_optinsn int | optinsn struct arch_optimized_insn *

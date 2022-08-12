@@ -1,0 +1,6 @@
+struct TYPE_9__ | meshBounds long ** | dlightBits int 
+struct TYPE_10__ | origin long * | radius long 
+struct TYPE_8__ | c_dlightSurfacesCulled int 
+struct TYPE_7__ | num_dlights int | dlights struct TYPE_10__ * 
+struct TYPE_11__ | pc struct TYPE_8__ | refdef struct TYPE_7__ 
+function R_DlightGrid int | grid struct TYPE_9__ * | dlightBits int

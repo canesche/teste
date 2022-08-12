@@ -1,0 +1,3 @@
+struct TYPE_2__ | has_changes long | quick long 
+struct diff_options | flags struct TYPE_2__ | filter int 
+function diff_can_quit_early int | opt struct diff_options *

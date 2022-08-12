@@ -1,0 +1,2 @@
+struct intel_gvt_gtt_entry | type long | val64 int 
+function gen8_gtt_test_present int | e struct intel_gvt_gtt_entry *

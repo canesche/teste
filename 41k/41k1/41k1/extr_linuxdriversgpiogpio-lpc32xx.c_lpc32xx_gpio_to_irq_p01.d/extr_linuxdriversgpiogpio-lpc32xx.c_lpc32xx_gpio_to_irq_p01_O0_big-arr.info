@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpiogpio-lpc32xx.c_lpc32xx_gpio_to_irq_p01.d/extr_linuxdriversgpiogpio-lpc32xx.c_lpc32xx_gpio_to_irq_p01_O0::lpc32xx_gpio_to_irq_p01(62)"
+  }
+]

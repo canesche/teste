@@ -1,0 +1,3 @@
+struct amdgpu_irq_src | dummy int 
+struct amdgpu_device | dummy int 
+function uvd_v5_0_set_interrupt_state int | adev struct amdgpu_device * | source struct amdgpu_irq_src * | type unsigned int | state enum amdgpu_interrupt_state

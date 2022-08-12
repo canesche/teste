@@ -1,0 +1,2 @@
+struct zcc_magazine | zcc_magazine_index long 
+function zcache_mag_has_elements int | mag struct zcc_magazine *

@@ -1,0 +1,1 @@
+function nouveau_acpi_get_bios_chunk int | bios int * | offset int | len int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | rusage_cpu_flags int 
+function task_cpu_usage_monitor_ctl int | task struct TYPE_3__ * | flags int *

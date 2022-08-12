@@ -1,0 +1,4 @@
+struct TYPE_7__ | num_os_windows unsigned long | os_windows struct TYPE_5__ * 
+struct TYPE_6__ | id long 
+struct TYPE_5__ | temp_font_group_id long 
+function font_group_is_unused int | fg struct TYPE_6__ *

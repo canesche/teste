@@ -1,0 +1,2 @@
+struct TYPE_3__ | RTC_Seconds long | RTC_Minutes long | RTC_Hours long | RTC_H12 int 
+function RTC_TimeStructInit void | RTC_TimeStruct struct TYPE_3__ *

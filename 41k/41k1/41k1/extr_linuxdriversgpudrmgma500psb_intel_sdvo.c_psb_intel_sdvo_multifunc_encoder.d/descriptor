@@ -1,0 +1,3 @@
+struct TYPE_2__ | output_flags int 
+struct psb_intel_sdvo | caps struct TYPE_2__ 
+function psb_intel_sdvo_multifunc_encoder int | psb_intel_sdvo struct psb_intel_sdvo *

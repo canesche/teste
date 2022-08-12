@@ -1,0 +1,2 @@
+struct TYPE_3__ | hostName char * | mapName char * | ping int | game char * | g_needpass long | g_humanplayers long | punkbuster long | netType long | gameType long | minPing long | maxPing long | maxClients long | clients long | adr int 
+function CL_InitServerInfo void | server struct TYPE_3__ * | address int *

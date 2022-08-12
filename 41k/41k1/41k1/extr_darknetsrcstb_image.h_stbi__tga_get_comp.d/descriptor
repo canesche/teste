@@ -1,0 +1,1 @@
+function stbi__tga_get_comp int | bits_per_pixel int | is_grey int | is_rgb16 int *

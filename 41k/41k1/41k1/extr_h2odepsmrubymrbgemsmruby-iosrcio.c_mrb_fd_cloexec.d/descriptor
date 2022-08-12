@@ -1,0 +1,1 @@
+function mrb_fd_cloexec void | mrb int * | fd int

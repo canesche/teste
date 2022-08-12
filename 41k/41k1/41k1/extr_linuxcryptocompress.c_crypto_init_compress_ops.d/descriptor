@@ -1,0 +1,3 @@
+struct compress_tfm | cot_decompress int | cot_compress int 
+struct crypto_tfm | crt_compress struct compress_tfm 
+function crypto_init_compress_ops int | tfm struct crypto_tfm *

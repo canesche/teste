@@ -1,0 +1,6 @@
+struct TYPE_8__ | fd int 
+struct TYPE_9__ | io_watcher struct TYPE_8__ 
+struct TYPE_7__ | fd int 
+struct TYPE_10__ | io_watcher struct TYPE_7__ 
+struct TYPE_11__ | type int 
+function uv__handle_fd int | handle struct TYPE_11__ *

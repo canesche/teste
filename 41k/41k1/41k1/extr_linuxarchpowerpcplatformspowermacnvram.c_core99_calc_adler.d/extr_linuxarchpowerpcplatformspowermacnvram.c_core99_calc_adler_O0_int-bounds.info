@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchpowerpcplatformspowermacnvram.c_core99_calc_adler.d/extr_linuxarchpowerpcplatformspowermacnvram.c_core99_calc_adler_O0::core99_calc_adler(64)"
+  }
+]

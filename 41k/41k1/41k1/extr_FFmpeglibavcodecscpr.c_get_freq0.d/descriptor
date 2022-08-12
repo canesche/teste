@@ -1,0 +1,2 @@
+struct TYPE_3__ | range int | code1 long | code long 
+function get_freq0 int | rc struct TYPE_3__ * | total_freq int | freq int *

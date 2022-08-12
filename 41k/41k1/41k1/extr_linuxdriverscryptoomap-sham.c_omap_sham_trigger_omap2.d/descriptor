@@ -1,0 +1,2 @@
+struct omap_sham_dev | dummy int 
+function omap_sham_trigger_omap2 void | dd struct omap_sham_dev * | length unsigned long

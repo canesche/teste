@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 54,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 54,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_labenginecodeqcommoncm_patch.c_CM_ComparePoints.d/extr_labenginecodeqcommoncm_patch.c_CM_ComparePoints_O0::CM_ComparePoints(63)"
+  }
+]

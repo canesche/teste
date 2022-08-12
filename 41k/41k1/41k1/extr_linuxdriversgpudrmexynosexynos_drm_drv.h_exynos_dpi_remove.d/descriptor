@@ -1,0 +1,2 @@
+struct drm_encoder | dummy int 
+function exynos_dpi_remove int | encoder struct drm_encoder *

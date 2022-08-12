@@ -1,0 +1,2 @@
+struct drbd_request | rq_state int 
+function is_pending_write_protocol_A int | req struct drbd_request *

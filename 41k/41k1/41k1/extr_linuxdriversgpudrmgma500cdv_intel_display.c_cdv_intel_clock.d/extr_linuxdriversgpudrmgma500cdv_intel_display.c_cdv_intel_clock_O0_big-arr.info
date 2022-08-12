@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmgma500cdv_intel_display.c_cdv_intel_clock.d/extr_linuxdriversgpudrmgma500cdv_intel_display.c_cdv_intel_clock_O0::cdv_intel_clock(61)"
+  }
+]

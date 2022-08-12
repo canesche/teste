@@ -1,0 +1,1 @@
+function dce_v10_0_set_powergating_state int | handle void * | state enum amd_powergating_state

@@ -1,0 +1,2 @@
+struct regmap | max_register int 
+function regmap_get_max_register int | map struct regmap *

@@ -1,0 +1,2 @@
+struct seqbuf | pos long | size long 
+function seqbuf_eof int | seqbuf struct seqbuf *

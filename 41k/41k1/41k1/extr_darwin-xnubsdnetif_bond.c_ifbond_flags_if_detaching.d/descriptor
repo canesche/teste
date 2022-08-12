@@ -1,0 +1,2 @@
+struct TYPE_3__ | ifb_flags int 
+function ifbond_flags_if_detaching int | ifb struct TYPE_3__ *

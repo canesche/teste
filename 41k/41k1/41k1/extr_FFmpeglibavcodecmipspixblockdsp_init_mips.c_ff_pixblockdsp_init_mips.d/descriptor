@@ -1,0 +1,1 @@
+function ff_pixblockdsp_init_mips void | c int * | avctx int * | high_bit_depth unsigned int

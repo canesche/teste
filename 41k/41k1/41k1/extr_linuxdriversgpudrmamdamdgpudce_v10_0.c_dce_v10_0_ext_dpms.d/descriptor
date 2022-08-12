@@ -1,0 +1,2 @@
+struct drm_encoder | dummy int 
+function dce_v10_0_ext_dpms void | encoder struct drm_encoder * | mode int

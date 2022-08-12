@@ -1,0 +1,1 @@
+function machvec_timer_interrupt void | irq int | dev_id void *

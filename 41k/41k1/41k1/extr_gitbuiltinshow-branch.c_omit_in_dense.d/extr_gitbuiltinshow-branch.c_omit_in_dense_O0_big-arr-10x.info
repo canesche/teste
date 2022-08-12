@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 341,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_gitbuiltinshow-branch.c_omit_in_dense.d/extr_gitbuiltinshow-branch.c_omit_in_dense_O0::omit_in_dense(64)"
+  }
+]

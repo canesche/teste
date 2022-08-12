@@ -1,0 +1,2 @@
+struct TYPE_3__ | xt_retval int | xt_test_actions int | xt_end_time long | xt_begin_time long 
+function xnupost_reset_tests int | test_list struct TYPE_3__ * | test_count unsigned long

@@ -1,0 +1,2 @@
+struct perfcontrol_cpu_counters | cycles long | instructions long 
+function machine_switch_populate_perfcontrol_cpu_counters void | cpu_counters struct perfcontrol_cpu_counters *

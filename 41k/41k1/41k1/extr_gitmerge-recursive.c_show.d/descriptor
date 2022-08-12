@@ -1,0 +1,2 @@
+struct merge_options | verbosity int | call_depth int 
+function show int | o struct merge_options * | v int

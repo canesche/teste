@@ -1,0 +1,2 @@
+struct stream_filter | dummy int 
+function is_null_stream_filter int | filter struct stream_filter *

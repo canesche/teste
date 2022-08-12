@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 149,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnubsdnetinetip_icmp.c_ip_next_mtu.d/extr_darwin-xnubsdnetinetip_icmp.c_ip_next_mtu_O0::ip_next_mtu(61)"
+  }
+]

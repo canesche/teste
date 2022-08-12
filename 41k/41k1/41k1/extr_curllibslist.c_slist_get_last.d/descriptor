@@ -1,0 +1,2 @@
+struct curl_slist | next struct curl_slist * 
+function slist_get_last struct curl_slist * | list struct curl_slist *

@@ -1,0 +1,2 @@
+struct clk_zx_audio_divider | dummy int 
+function audio_calc_rate unsigned long | audio_div struct clk_zx_audio_divider * | reg_frac int | reg_int int | parent_rate unsigned long

@@ -1,0 +1,2 @@
+struct sii9234 | i2c_error int 
+function sii9234_clear_error int | ctx struct sii9234 *

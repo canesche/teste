@@ -1,0 +1,7 @@
+struct TYPE_4__ | config1 int 
+struct hw_perf_event_extra | config int | reg long | idx int 
+struct TYPE_5__ | extra_reg struct hw_perf_event_extra 
+struct perf_event | attr struct TYPE_4__ | hw struct TYPE_5__ 
+struct extra_reg | event int | config_mask int | valid_mask int | msr long | idx int | extra_msr_access int 
+struct TYPE_6__ | extra_regs struct extra_reg * 
+function x86_pmu_extra_regs int | config int | event struct perf_event *

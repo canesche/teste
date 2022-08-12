@@ -1,0 +1,2 @@
+struct acpi_device | dummy int 
+function acpi_dock_add void | adev struct acpi_device *

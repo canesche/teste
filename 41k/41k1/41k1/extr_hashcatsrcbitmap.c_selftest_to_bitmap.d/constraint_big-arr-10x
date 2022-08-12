@@ -1,0 +1,1 @@
+value(dgst_shifts) == 10, value(dgst_pos0) == 10, value(dgst_pos1) == 10, value(dgst_pos2) == 10, value(dgst_pos3) == 10, value(bitmap_mask) == 10, length(digests_buf_ptr) == 100, length(bitmap_a) == 100, length(bitmap_b) == 100, length(bitmap_c) == 100, length(bitmap_d) == 100

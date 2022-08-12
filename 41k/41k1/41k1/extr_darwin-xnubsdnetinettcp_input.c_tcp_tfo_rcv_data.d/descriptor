@@ -1,0 +1,2 @@
+struct tcpcb | t_tfo_probe_state long 
+function tcp_tfo_rcv_data void | tp struct tcpcb *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 14,
+    phantoms: 12,
+    exit: true,
+    halt: false,
+    edges: 27,
+    static: {
+      instructions: 56,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 56,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversbluetoothhci_intel.c_intel_convert_speed.d/extr_linuxdriversbluetoothhci_intel.c_intel_convert_speed_O0::intel_convert_speed(61)"
+  }
+]

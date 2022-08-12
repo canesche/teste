@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_The-Art-Of-Programming-By-Julyebookcodec4.2：格子取数问题.c_isValid.d/extr_The-Art-Of-Programming-By-Julyebookcodec4.2：格子取数问题.c_isValid_O0::isValid(60)"
+  }
+]

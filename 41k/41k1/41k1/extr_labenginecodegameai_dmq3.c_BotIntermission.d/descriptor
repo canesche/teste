@@ -1,0 +1,4 @@
+struct TYPE_5__ | pm_type long 
+struct TYPE_6__ | cur_ps struct TYPE_5__ 
+struct TYPE_7__ | intermissiontime long 
+function BotIntermission int | bs struct TYPE_6__ *

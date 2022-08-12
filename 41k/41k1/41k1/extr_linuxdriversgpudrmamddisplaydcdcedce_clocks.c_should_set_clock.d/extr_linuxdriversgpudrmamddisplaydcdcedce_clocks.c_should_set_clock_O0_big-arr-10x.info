@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmamddisplaydcdcedce_clocks.c_should_set_clock.d/extr_linuxdriversgpudrmamddisplaydcdcedce_clocks.c_should_set_clock_O0::should_set_clock(60)"
+  }
+]

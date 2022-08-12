@@ -1,0 +1,2 @@
+struct TYPE_3__ | pts double | last_updated double | pts_drift double | serial int 
+function set_clock_at void | c struct TYPE_3__ * | pts double | serial int | time double

@@ -1,0 +1,2 @@
+struct adv7511 | dummy int 
+function adv7533_attach_dsi int | adv struct adv7511 *

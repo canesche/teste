@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 11,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchx86eventsinteluncore_snbep.c_ivbep_cbox_filter_mask.d/extr_linuxarchx86eventsinteluncore_snbep.c_ivbep_cbox_filter_mask_O0::ivbep_cbox_filter_mask(69)"
+  }
+]

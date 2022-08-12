@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchalphakernelperf_event.c_ev67_raw_event_valid.d/extr_linuxarchalphakernelperf_event.c_ev67_raw_event_valid_O0::ev67_raw_event_valid(63)"
+  }
+]

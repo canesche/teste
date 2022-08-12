@@ -1,0 +1,2 @@
+struct TYPE_3__ | b_resid int 
+function buf_setresid void | bp struct TYPE_3__ * | resid int

@@ -1,0 +1,2 @@
+struct resource | dummy int 
+function acpi_iospace_resource_valid int | res struct resource *

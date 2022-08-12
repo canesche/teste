@@ -1,0 +1,2 @@
+struct TYPE_3__ | tile int | resno0 int | layno1 int | resno1 int | compno1 int | prg1 void * | compno0 long 
+function initialise_4K_poc int | POC struct TYPE_3__ * | numres int

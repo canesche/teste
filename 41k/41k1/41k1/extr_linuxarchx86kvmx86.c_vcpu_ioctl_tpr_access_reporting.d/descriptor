@@ -1,0 +1,4 @@
+struct TYPE_2__ | tpr_access_reporting int 
+struct kvm_vcpu | arch struct TYPE_2__ 
+struct kvm_tpr_access_ctl | enabled int | flags long 
+function vcpu_ioctl_tpr_access_reporting int | vcpu struct kvm_vcpu * | tac struct kvm_tpr_access_ctl *

@@ -1,0 +1,1 @@
+function fsl_edma_get_tcd_attr unsigned int | addr_width enum dma_slave_buswidth

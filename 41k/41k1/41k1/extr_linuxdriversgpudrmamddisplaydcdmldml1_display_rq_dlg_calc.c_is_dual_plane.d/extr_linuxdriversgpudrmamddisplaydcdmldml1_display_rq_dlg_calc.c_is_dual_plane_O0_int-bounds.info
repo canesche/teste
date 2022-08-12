@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmamddisplaydcdmldml1_display_rq_dlg_calc.c_is_dual_plane.d/extr_linuxdriversgpudrmamddisplaydcdmldml1_display_rq_dlg_calc.c_is_dual_plane_O0::is_dual_plane(61)"
+  }
+]

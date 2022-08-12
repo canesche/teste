@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriverscryptobcmspu.c_spum_ns2_ctx_max_payload.d/extr_linuxdriverscryptobcmspu.c_spum_ns2_ctx_max_payload_O0::spum_ns2_ctx_max_payload(68)"
+  }
+]

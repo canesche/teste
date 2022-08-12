@@ -1,0 +1,2 @@
+struct debug_reg | dbcr0 int | dac2 void * | dac1 void * 
+function kvmppc_booke_add_watchpoint int | dbg_reg struct debug_reg * | addr void * | type int | index int

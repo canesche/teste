@@ -1,0 +1,1 @@
+function convert_write_rgb void | dstp int * | p int | bpp int

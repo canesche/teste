@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function vector_net_set_multicast_list void | dev struct net_device *

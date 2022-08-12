@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriverscryptocaviumzipzip_crypto.c_zip_static_init_zip_ops.d/extr_linuxdriverscryptocaviumzipzip_crypto.c_zip_static_init_zip_ops_O0::zip_static_init_zip_ops(65)"
+  }
+]

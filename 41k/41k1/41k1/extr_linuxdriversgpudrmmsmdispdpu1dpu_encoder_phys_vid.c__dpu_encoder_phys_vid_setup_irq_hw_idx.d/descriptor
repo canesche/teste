@@ -1,0 +1,3 @@
+struct dpu_encoder_phys | intf_idx int | irq struct dpu_encoder_irq * 
+struct dpu_encoder_irq | irq_idx long | hw_idx int 
+function _dpu_encoder_phys_vid_setup_irq_hw_idx void | phys_enc struct dpu_encoder_phys *

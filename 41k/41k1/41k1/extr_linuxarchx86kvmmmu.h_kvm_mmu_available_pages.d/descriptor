@@ -1,0 +1,3 @@
+struct TYPE_2__ | n_max_mmu_pages long | n_used_mmu_pages long 
+struct kvm | arch struct TYPE_2__ 
+function kvm_mmu_available_pages unsigned int | kvm struct kvm *

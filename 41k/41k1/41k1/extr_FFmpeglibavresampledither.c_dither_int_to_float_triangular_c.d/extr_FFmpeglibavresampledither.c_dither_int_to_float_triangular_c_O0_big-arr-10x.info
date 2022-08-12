@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 256,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_FFmpeglibavresampledither.c_dither_int_to_float_triangular_c.d/extr_FFmpeglibavresampledither.c_dither_int_to_float_triangular_c_O0::dither_int_to_float_triangular_c(61)"
+  }
+]

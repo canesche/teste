@@ -1,0 +1,3 @@
+struct ddc_service | ddc_pin struct ddc * 
+struct ddc | dummy int 
+function dal_ddc_service_get_ddc_pin struct ddc * | ddc_service struct ddc_service *

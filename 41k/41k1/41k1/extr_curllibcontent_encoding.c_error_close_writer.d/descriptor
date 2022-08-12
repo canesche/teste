@@ -1,0 +1,2 @@
+struct connectdata | dummy int 
+function error_close_writer void | conn struct connectdata * | writer int *

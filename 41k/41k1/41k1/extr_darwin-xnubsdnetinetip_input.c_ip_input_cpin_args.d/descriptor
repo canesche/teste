@@ -1,0 +1,3 @@
+struct ip_fw_in_args | fwai_divert_rule int | fwai_pf_rule int | fwai_ipfw_rule int | fwai_next_hop int 
+struct ip_fw_args | fwa_divert_rule int | fwa_pf_rule int | fwa_ipfw_rule int | fwa_next_hop int 
+function ip_input_cpin_args void | args1 struct ip_fw_args * | args struct ip_fw_in_args *

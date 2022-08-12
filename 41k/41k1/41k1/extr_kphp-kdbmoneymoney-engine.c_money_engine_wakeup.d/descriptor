@@ -1,0 +1,2 @@
+struct connection | dummy int 
+function money_engine_wakeup int | c struct connection *

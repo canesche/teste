@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnubsdkernkern_event.c_filt_usertouch.d/extr_darwin-xnubsdkernkern_event.c_filt_usertouch_O0::filt_usertouch(72)"
+  }
+]

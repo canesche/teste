@@ -1,0 +1,2 @@
+struct TYPE_3__ | b_datap unsigned long 
+function buf_dataptr unsigned long | bp struct TYPE_3__ *

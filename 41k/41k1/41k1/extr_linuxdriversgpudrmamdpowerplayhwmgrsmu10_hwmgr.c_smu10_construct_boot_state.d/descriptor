@@ -1,0 +1,2 @@
+struct pp_hwmgr | dummy int 
+function smu10_construct_boot_state int | hwmgr struct pp_hwmgr *

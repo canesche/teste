@@ -1,0 +1,4 @@
+struct ci_single_dpm_table | count unsigned long | dpm_levels struct TYPE_2__ * 
+struct amdgpu_device | dummy int 
+struct TYPE_2__ | enabled int 
+function ci_reset_single_dpm_table void | adev struct amdgpu_device * | dpm_table struct ci_single_dpm_table * | count unsigned long

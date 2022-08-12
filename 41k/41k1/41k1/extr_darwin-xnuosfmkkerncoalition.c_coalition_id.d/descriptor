@@ -1,0 +1,2 @@
+struct TYPE_3__ | id int 
+function coalition_id int | coal struct TYPE_3__ *

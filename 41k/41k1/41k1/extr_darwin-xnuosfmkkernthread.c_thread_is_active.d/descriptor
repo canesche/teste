@@ -1,0 +1,2 @@
+struct TYPE_3__ | active int 
+function thread_is_active int | thread struct TYPE_3__ *

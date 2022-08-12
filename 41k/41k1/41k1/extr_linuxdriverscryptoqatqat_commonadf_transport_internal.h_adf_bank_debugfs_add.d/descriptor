@@ -1,0 +1,2 @@
+struct adf_etr_bank_data | dummy int 
+function adf_bank_debugfs_add int | bank struct adf_etr_bank_data *

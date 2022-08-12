@@ -1,0 +1,4 @@
+struct chcr_context | crypto_ctx struct TYPE_2__ * 
+struct chcr_aead_ctx | dummy int 
+struct TYPE_2__ | aeadctx struct chcr_aead_ctx * 
+function AEAD_CTX struct chcr_aead_ctx * | ctx struct chcr_context *

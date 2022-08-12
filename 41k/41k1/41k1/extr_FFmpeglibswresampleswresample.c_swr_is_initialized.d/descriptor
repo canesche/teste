@@ -1,0 +1,3 @@
+struct TYPE_2__ | ch_count int 
+struct SwrContext | in_buffer struct TYPE_2__ 
+function swr_is_initialized int | s struct SwrContext *

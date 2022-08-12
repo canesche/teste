@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnubsdnetpf.c_pf_state_compare_id.d/extr_darwin-xnubsdnetpf.c_pf_state_compare_id_O0::pf_state_compare_id(62)"
+  }
+]

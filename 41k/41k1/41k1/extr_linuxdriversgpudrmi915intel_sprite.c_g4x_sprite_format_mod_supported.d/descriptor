@@ -1,0 +1,2 @@
+struct drm_plane | dummy int 
+function g4x_sprite_format_mod_supported int | _plane struct drm_plane * | format int | modifier int

@@ -1,0 +1,2 @@
+struct intel_guc_ct_channel | next_fence int 
+function ctch_get_next_fence int | ctch struct intel_guc_ct_channel *

@@ -1,0 +1,2 @@
+struct fsi_master_gpio | last_addr int 
+function last_address_update void | master struct fsi_master_gpio * | id int | valid int | addr int

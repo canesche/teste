@@ -1,0 +1,3 @@
+struct ssif_info | dummy int 
+struct device | dummy int 
+function check_acpi int | ssif_info struct ssif_info * | dev struct device *

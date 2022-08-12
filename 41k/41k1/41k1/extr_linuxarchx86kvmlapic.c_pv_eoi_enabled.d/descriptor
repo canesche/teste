@@ -1,0 +1,4 @@
+struct TYPE_3__ | msr_val int 
+struct TYPE_4__ | pv_eoi struct TYPE_3__ 
+struct kvm_vcpu | arch struct TYPE_4__ 
+function pv_eoi_enabled int | vcpu struct kvm_vcpu *

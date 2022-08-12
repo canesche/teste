@@ -1,0 +1,2 @@
+struct kvm | dummy int 
+function kvm_test_age_hva int | kvm struct kvm * | hva unsigned long

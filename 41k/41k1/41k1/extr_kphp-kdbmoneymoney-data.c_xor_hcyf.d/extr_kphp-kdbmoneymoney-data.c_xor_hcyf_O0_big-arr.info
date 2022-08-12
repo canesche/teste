@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_kphp-kdbmoneymoney-data.c_xor_hcyf.d/extr_kphp-kdbmoneymoney-data.c_xor_hcyf_O0::xor_hcyf(59)"
+  }
+]

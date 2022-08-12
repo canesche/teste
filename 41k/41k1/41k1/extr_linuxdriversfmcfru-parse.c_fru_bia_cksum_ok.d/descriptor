@@ -1,0 +1,2 @@
+struct fru_board_info_area | area_len int 
+function fru_bia_cksum_ok int | bia struct fru_board_info_area *

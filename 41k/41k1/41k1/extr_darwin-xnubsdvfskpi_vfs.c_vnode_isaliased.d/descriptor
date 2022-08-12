@@ -1,0 +1,2 @@
+struct TYPE_3__ | v_type int | v_specflags int 
+function vnode_isaliased int | vp struct TYPE_3__ *

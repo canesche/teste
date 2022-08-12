@@ -1,0 +1,3 @@
+struct TYPE_4__ | size unsigned long 
+struct TYPE_5__ | keys struct TYPE_4__ 
+function h2o_http2_casper_num_entries unsigned long | casper struct TYPE_5__ *

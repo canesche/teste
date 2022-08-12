@@ -1,0 +1,1 @@
+function pt_fake_zone_info void | count int * | cur_size int * | max_size int * | elem_size int * | alloc_size int * | sum_size int * | collectable int * | exhaustable int * | caller_acct int *

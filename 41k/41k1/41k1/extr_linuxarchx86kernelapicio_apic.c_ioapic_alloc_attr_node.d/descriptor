@@ -1,0 +1,2 @@
+struct irq_alloc_info | ioapic_node int | ioapic_valid long 
+function ioapic_alloc_attr_node int | info struct irq_alloc_info *

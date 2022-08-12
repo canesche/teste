@@ -1,0 +1,2 @@
+struct TYPE_3__ | level int | lc int | lp int | pb int | algo int | fb int | btMode int | numHashBytes int | numThreads int | writeEndMark long | reduceSize long | mc long | dictSize long 
+function LzmaEncProps_Init void | p struct TYPE_3__ *

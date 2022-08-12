@@ -1,0 +1,3 @@
+struct TYPE_2__ | mmio_gva int 
+struct kvm_vcpu | arch struct TYPE_2__ 
+function vcpu_clear_mmio_info void | vcpu struct kvm_vcpu * | gva int

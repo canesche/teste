@@ -1,0 +1,1 @@
+function _glfwPlatformGetPhysicalDevicePresentationSupport int | instance int | device int | queuefamily int

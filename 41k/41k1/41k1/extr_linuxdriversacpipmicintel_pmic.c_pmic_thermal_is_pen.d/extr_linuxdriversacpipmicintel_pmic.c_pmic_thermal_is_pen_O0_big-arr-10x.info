@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversacpipmicintel_pmic.c_pmic_thermal_is_pen.d/extr_linuxdriversacpipmicintel_pmic.c_pmic_thermal_is_pen_O0::pmic_thermal_is_pen(60)"
+  }
+]

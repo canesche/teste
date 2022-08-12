@@ -1,0 +1,3 @@
+struct related_binlog | flags int | targets int | client struct TYPE_2__ ** 
+struct TYPE_2__ | flags int 
+function classify_slave int | R struct related_binlog *

@@ -1,0 +1,2 @@
+struct list_head | dummy int 
+function crash_register_spus void | list struct list_head *

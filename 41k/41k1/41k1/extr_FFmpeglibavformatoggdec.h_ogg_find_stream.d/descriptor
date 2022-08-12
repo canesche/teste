@@ -1,0 +1,3 @@
+struct ogg | nstreams int | streams struct TYPE_2__ * 
+struct TYPE_2__ | serial int 
+function ogg_find_stream int | ogg struct ogg * | serial int

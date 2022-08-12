@@ -1,0 +1,1 @@
+function mult64 void | x unsigned long long | y unsigned long long | highp unsigned long long * | lowp unsigned long long *

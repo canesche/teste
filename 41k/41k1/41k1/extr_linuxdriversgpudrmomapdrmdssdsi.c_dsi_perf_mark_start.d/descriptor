@@ -1,0 +1,2 @@
+struct dsi_data | dummy int 
+function dsi_perf_mark_start void | dsi struct dsi_data *

@@ -1,0 +1,2 @@
+struct vcpu_svm | dummy int 
+function mc_interception int | svm struct vcpu_svm *

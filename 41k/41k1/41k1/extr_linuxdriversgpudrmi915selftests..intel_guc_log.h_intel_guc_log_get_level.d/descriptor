@@ -1,0 +1,2 @@
+struct intel_guc_log | level int 
+function intel_guc_log_get_level int | log struct intel_guc_log *

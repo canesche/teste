@@ -1,0 +1,1 @@
+function dprc_irq0_handler int | irq_num int | arg void *

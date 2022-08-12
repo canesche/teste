@@ -1,0 +1,2 @@
+struct command | skip_update int | error_string int 
+function should_process_cmd int | cmd struct command *

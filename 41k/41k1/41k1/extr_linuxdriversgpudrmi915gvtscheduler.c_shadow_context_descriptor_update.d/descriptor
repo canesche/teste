@@ -1,0 +1,3 @@
+struct intel_context | lrc_desc int | gem_context struct TYPE_2__ * 
+struct TYPE_2__ | desc_template unsigned long long 
+function shadow_context_descriptor_update void | ce struct intel_context *

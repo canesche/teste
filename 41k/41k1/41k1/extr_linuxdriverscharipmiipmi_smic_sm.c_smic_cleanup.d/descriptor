@@ -1,0 +1,2 @@
+struct si_sm_data | dummy int 
+function smic_cleanup void | kcs struct si_sm_data *

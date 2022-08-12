@@ -1,0 +1,2 @@
+struct mce | bank long | status long | addr long | misc long 
+function mce_cmp int | m1 struct mce * | m2 struct mce *

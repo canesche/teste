@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 23,
+    phantoms: 12,
+    exit: true,
+    halt: false,
+    edges: 40,
+    static: {
+      instructions: 169,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 383,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchalphaoprofileop_model_ev5.c_common_reg_setup.d/extr_linuxarchalphaoprofileop_model_ev5.c_common_reg_setup_O0::common_reg_setup(67)"
+  }
+]

@@ -1,0 +1,3 @@
+struct kiocb | dummy int 
+struct iov_iter | dummy int 
+function read_iter_null int | iocb struct kiocb * | to struct iov_iter *

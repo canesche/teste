@@ -1,0 +1,2 @@
+struct AVFormatContext | dummy int 
+function img_read_close int | s1 struct AVFormatContext *

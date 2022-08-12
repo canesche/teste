@@ -1,0 +1,1 @@
+function kvm_exception_is_soft int | nr unsigned int

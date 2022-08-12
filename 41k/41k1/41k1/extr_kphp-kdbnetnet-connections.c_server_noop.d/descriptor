@@ -1,0 +1,2 @@
+struct connection | dummy int 
+function server_noop int | c struct connection *

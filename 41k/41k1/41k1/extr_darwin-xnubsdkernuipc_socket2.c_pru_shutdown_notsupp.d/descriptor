@@ -1,0 +1,2 @@
+struct socket | dummy int 
+function pru_shutdown_notsupp int | so struct socket *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmamdamdgpugmc_v8_0.c_gmc_v8_0_get_vm_pte_flags.d/extr_linuxdriversgpudrmamdamdgpugmc_v8_0.c_gmc_v8_0_get_vm_pte_flags_O0::gmc_v8_0_get_vm_pte_flags(72)"
+  }
+]

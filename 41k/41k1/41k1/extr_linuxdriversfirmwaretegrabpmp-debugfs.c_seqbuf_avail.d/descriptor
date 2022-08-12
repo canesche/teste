@@ -1,0 +1,2 @@
+struct seqbuf | pos long | size long 
+function seqbuf_avail unsigned long | seqbuf struct seqbuf *

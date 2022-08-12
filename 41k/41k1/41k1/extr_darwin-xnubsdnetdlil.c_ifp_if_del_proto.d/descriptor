@@ -1,0 +1,2 @@
+struct ifnet | dummy int 
+function ifp_if_del_proto int | ifp struct ifnet * | pf int

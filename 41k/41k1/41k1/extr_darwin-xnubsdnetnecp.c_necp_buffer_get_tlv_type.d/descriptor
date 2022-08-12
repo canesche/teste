@@ -1,0 +1,1 @@
+function necp_buffer_get_tlv_type int | buffer int * | tlv_offset int

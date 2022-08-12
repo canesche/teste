@@ -1,0 +1,1 @@
+value(vector) == 255, value(signo) == 255, value(err_code) == 255, length(remcom_in_buffer) == 65025, length(remcom_out_buffer) == 65025, length(linux_regs) == 65025

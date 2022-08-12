@@ -1,0 +1,1 @@
+function kvm_vcpu_check_hw_bp int | addr unsigned long | type int | dr7 int | db unsigned long *

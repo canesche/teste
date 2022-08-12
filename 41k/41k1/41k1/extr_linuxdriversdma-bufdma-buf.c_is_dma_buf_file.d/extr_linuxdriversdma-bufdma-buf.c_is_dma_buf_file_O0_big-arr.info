@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversdma-bufdma-buf.c_is_dma_buf_file.d/extr_linuxdriversdma-bufdma-buf.c_is_dma_buf_file_O0::is_dma_buf_file(62)"
+  }
+]

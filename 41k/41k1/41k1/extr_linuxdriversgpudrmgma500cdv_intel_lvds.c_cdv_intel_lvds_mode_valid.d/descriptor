@@ -1,0 +1,6 @@
+struct TYPE_2__ | panel_fixed_mode struct drm_display_mode * 
+struct drm_psb_private | mode_dev struct TYPE_2__ 
+struct drm_display_mode | flags int | hdisplay long | vdisplay long 
+struct drm_device | dev_private struct drm_psb_private * 
+struct drm_connector | dev struct drm_device * 
+function cdv_intel_lvds_mode_valid enum drm_mode_status | connector struct drm_connector * | mode struct drm_display_mode *

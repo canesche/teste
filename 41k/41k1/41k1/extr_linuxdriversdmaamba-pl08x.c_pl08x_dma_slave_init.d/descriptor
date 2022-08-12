@@ -1,0 +1,4 @@
+struct TYPE_3__ | dst_addr int | src_addr int 
+struct pl08x_dma_chan | slave int | cd struct TYPE_4__ * | cfg struct TYPE_3__ | name int 
+struct TYPE_4__ | addr int | bus_id int 
+function pl08x_dma_slave_init void | chan struct pl08x_dma_chan *

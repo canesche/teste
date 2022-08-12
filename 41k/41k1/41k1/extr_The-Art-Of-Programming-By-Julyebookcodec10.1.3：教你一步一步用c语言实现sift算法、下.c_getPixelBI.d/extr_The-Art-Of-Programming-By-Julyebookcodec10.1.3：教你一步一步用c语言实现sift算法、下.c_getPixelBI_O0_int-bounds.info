@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_The-Art-Of-Programming-By-Julyebookcodec10.1.3：教你一步一步用c语言实现sift算法、下.c_getPixelBI.d/extr_The-Art-Of-Programming-By-Julyebookcodec10.1.3：教你一步一步用c语言实现sift算法、下.c_getPixelBI_O0::getPixelBI(65)"
+  }
+]

@@ -1,0 +1,2 @@
+struct kvm_vcpu | valid_wakeup int 
+function kvm_arch_vcpu_block_finish void | vcpu struct kvm_vcpu *

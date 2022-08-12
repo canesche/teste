@@ -1,0 +1,2 @@
+struct TYPE_3__ | transit long | jitter long | received_prior long | expected_prior long | received long | bad_seq long | base_seq void * | cycles long | max_seq void * 
+function rtp_init_sequence void | s struct TYPE_3__ * | seq void *

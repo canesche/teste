@@ -1,0 +1,2 @@
+struct TYPE_3__ | mnt_fsgroup int | mnt_fsowner int 
+function vfs_setowner void | mp struct TYPE_3__ * | uid int | gid int

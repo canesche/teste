@@ -1,0 +1,2 @@
+struct pp_hwmgr | dummy int 
+function vega10_apply_dal_minimum_voltage_request void | hwmgr struct pp_hwmgr *

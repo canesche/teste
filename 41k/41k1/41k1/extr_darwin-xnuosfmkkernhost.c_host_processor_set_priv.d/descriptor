@@ -1,0 +1,1 @@
+function host_processor_set_priv int | host_priv long | pset_name long | pset long *

@@ -1,0 +1,2 @@
+struct engine | dummy int 
+function dal_i2caux_destruct_engine void | engine struct engine *

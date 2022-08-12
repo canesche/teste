@@ -1,0 +1,3 @@
+struct playlist | n_segments int | target_duration int | segments struct TYPE_2__ ** 
+struct TYPE_2__ | duration int 
+function default_reload_interval int | pls struct playlist *

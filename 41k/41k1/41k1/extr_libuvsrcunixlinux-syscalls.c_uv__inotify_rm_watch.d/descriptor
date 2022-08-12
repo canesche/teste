@@ -1,0 +1,1 @@
+function uv__inotify_rm_watch int | fd int | wd int

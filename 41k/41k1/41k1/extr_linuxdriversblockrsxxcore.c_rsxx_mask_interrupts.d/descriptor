@@ -1,0 +1,2 @@
+struct rsxx_cardinfo | ier_mask long | isr_mask long 
+function rsxx_mask_interrupts void | card struct rsxx_cardinfo *

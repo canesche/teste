@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnubsddevdtracedtrace_glue.c__dtrace_register_anon_DOF.d/extr_darwin-xnubsddevdtracedtrace_glue.c__dtrace_register_anon_DOF_O0::_dtrace_register_anon_DOF(62)"
+  }
+]

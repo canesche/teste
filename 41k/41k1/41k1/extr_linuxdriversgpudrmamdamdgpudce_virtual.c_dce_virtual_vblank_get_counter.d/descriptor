@@ -1,0 +1,2 @@
+struct amdgpu_device | dummy int 
+function dce_virtual_vblank_get_counter int | adev struct amdgpu_device * | crtc int

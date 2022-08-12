@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_FFmpeglibavcodecacelp_pitch_delay.c_ff_acelp_decode_8bit_to_1st_delay3.d/extr_FFmpeglibavcodecacelp_pitch_delay.c_ff_acelp_decode_8bit_to_1st_delay3_O0::ff_acelp_decode_8bit_to_1st_delay3(60)"
+  }
+]

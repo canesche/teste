@@ -1,0 +1,1 @@
+function stm32_dma_fifo_threshold_is_allowed int | burst int | threshold int | width enum dma_slave_buswidth

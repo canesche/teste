@@ -1,0 +1,1 @@
+function write32_le void | value const int | buffer unsigned char *

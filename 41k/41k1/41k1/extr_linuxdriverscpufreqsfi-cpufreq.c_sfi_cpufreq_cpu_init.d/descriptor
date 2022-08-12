@@ -1,0 +1,3 @@
+struct TYPE_2__ | transition_latency int 
+struct cpufreq_policy | freq_table int | cpuinfo struct TYPE_2__ | shared_type int 
+function sfi_cpufreq_cpu_init int | policy struct cpufreq_policy *

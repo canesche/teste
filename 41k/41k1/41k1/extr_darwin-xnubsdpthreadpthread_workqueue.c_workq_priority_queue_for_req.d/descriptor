@@ -1,0 +1,4 @@
+struct priority_queue | dummy int 
+struct workqueue | wq_constrained_queue struct priority_queue | wq_overcommit_queue struct priority_queue | wq_special_queue struct priority_queue 
+struct TYPE_3__ | tr_flags int 
+function workq_priority_queue_for_req struct priority_queue * | wq struct workqueue * | req struct TYPE_3__ *

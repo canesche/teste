@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7672,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmdrm_lease.c_validate_lease.d/extr_linuxdriversgpudrmdrm_lease.c_validate_lease_O0::validate_lease(70)"
+  }
+]

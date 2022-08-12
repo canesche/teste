@@ -1,0 +1,3 @@
+struct safexcel_desc_ring | write long | read long | base long | base_end long | offset long 
+struct safexcel_crypto_priv | dummy int 
+function safexcel_ring_rollback_wptr void | priv struct safexcel_crypto_priv * | ring struct safexcel_desc_ring *

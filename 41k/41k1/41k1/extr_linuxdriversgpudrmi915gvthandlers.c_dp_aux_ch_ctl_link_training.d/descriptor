@@ -1,0 +1,2 @@
+struct intel_vgpu_dpcd_data | data int * 
+function dp_aux_ch_ctl_link_training void | dpcd struct intel_vgpu_dpcd_data * | t int

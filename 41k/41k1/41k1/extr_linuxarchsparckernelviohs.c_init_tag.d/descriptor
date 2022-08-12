@@ -1,0 +1,2 @@
+struct vio_msg_tag | stype_env int | stype void * | type void * 
+function init_tag void | tag struct vio_msg_tag * | type void * | stype void * | stype_env int

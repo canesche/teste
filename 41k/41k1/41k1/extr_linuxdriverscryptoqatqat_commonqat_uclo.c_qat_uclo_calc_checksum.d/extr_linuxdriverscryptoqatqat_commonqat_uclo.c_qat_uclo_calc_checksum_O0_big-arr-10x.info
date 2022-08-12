@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 136,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriverscryptoqatqat_commonqat_uclo.c_qat_uclo_calc_checksum.d/extr_linuxdriverscryptoqatqat_commonqat_uclo.c_qat_uclo_calc_checksum_O0::qat_uclo_calc_checksum(60)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | overlay_format int 
+function SDL_VoutSetOverlayFormat int | vout struct TYPE_3__ * | overlay_format int

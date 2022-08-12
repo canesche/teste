@@ -1,0 +1,2 @@
+struct range | end long | start long 
+function ranges_overlap int | a struct range * | b struct range *

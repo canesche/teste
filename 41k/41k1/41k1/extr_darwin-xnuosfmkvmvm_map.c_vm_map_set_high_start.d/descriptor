@@ -1,0 +1,2 @@
+struct TYPE_3__ | vmmap_high_start int 
+function vm_map_set_high_start void | map struct TYPE_3__ * | high_start int

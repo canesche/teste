@@ -1,0 +1,1 @@
+function vm_compressor_compute_elapsed_msecs int | end_sec int | end_nsec int | start_sec int | start_nsec int

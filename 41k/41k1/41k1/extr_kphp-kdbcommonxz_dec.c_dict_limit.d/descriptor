@@ -1,0 +1,2 @@
+struct dictionary | end unsigned long | pos unsigned long | limit unsigned long 
+function dict_limit void | dict struct dictionary * | out_max unsigned long

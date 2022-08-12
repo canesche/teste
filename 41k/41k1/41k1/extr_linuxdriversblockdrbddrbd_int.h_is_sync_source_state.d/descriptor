@@ -1,0 +1,1 @@
+function is_sync_source_state int | connection_state enum drbd_conns

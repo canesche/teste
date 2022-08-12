@@ -1,0 +1,1 @@
+function spum_hash_pad_len unsigned int | hash_alg enum hash_alg | hash_mode enum hash_mode | chunksize unsigned int | hash_block_size unsigned int

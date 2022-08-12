@@ -1,0 +1,2 @@
+struct drm_plane | dummy int 
+function _dpu_plane_init_debugfs int | plane struct drm_plane *

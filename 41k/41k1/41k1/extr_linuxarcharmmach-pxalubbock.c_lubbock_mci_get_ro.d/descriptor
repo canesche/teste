@@ -1,0 +1,2 @@
+struct device | dummy int 
+function lubbock_mci_get_ro int | dev struct device *

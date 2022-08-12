@@ -1,0 +1,1 @@
+value(nodelay) == 255, value(interval) == 255, value(resend) == 255, value(nc) == 255, length(kcp) == 65025

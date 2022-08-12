@@ -1,0 +1,2 @@
+struct vector | count long 
+function dal_vector_clear void | vector struct vector *

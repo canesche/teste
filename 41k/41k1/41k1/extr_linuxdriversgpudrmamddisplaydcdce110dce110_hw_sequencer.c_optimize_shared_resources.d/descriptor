@@ -1,0 +1,2 @@
+struct dc | dummy int 
+function optimize_shared_resources void | dc struct dc *

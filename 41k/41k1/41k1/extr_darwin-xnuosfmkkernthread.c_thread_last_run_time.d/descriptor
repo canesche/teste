@@ -1,0 +1,2 @@
+struct TYPE_3__ | last_run_time int 
+function thread_last_run_time int | th struct TYPE_3__ *

@@ -1,0 +1,1 @@
+function _glfwPlatformSetWindowAspectRatio void | window int * | n int | d int

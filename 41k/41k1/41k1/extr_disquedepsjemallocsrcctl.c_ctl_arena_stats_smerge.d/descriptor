@@ -1,0 +1,6 @@
+struct TYPE_9__ | ndalloc_huge long | nmalloc_huge long | allocated_huge long | nrequests_large long | ndalloc_large long | nmalloc_large long | allocated_large long | metadata_allocated long | metadata_mapped long | purged long | nmadvise long | npurge long | mapped long 
+struct TYPE_12__ | hstats struct TYPE_8__ * | lstats struct TYPE_11__ * | bstats struct TYPE_10__ * | astats struct TYPE_9__ | nrequests_small long | ndalloc_small long | nmalloc_small long | allocated_small long | pdirty long | pactive long 
+struct TYPE_11__ | curruns long | nrequests long | ndalloc long | nmalloc long 
+struct TYPE_10__ | curruns long | reruns long | nruns long | nflushes long | nfills long | curregs long | nrequests long | ndalloc long | nmalloc long 
+struct TYPE_8__ | curhchunks long | ndalloc long | nmalloc long 
+function ctl_arena_stats_smerge void | sstats struct TYPE_12__ * | astats struct TYPE_12__ *

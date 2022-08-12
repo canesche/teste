@@ -1,0 +1,3 @@
+struct proc | dummy int 
+struct TYPE_2__ | handler_proc struct proc * 
+function nspace_is_special_process int | proc struct proc *

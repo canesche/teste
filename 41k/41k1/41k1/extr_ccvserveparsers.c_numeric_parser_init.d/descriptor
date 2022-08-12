@@ -1,0 +1,2 @@
+struct TYPE_3__ | division double | result long | state int 
+function numeric_parser_init void | parser struct TYPE_3__ *

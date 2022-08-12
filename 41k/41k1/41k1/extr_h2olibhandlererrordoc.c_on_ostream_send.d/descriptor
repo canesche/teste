@@ -1,0 +1,1 @@
+function on_ostream_send void | self int * | req int * | inbufs int * | inbufcnt unsigned long | state int

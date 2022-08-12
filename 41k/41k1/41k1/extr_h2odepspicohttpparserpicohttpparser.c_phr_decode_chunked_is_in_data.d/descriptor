@@ -1,0 +1,2 @@
+struct phr_chunked_decoder | _state long 
+function phr_decode_chunked_is_in_data int | decoder struct phr_chunked_decoder *

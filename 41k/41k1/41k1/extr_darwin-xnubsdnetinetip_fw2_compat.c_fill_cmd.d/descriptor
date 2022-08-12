@@ -1,0 +1,2 @@
+struct TYPE_3__ | opcode int | len int | arg1 int 
+function fill_cmd void | cmd struct TYPE_3__ * | opcode enum ipfw_opcodes | arg int

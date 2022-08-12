@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchpowerpcplatformspowermacpfunc_core.c_pmf_next_blob.d/extr_linuxarchpowerpcplatformspowermacpfunc_core.c_pmf_next_blob_O0::pmf_next_blob(61)"
+  }
+]

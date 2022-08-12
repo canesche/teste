@@ -1,0 +1,2 @@
+struct gendisk | dummy int 
+function mtip_block_release void | disk struct gendisk * | mode int

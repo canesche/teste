@@ -1,0 +1,2 @@
+struct inpcb | inp_flags2 int 
+function inp_get_awdl_unrestricted int | inp struct inpcb *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 90,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 90,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_Craftsrcmatrix.c_mat_frustum.d/extr_Craftsrcmatrix.c_mat_frustum_O0::mat_frustum(62)"
+  }
+]

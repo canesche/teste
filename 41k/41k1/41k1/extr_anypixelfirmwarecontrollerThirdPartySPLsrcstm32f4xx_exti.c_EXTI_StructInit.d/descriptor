@@ -1,0 +1,2 @@
+struct TYPE_3__ | EXTI_LineCmd int | EXTI_Trigger int | EXTI_Mode int | EXTI_Line int 
+function EXTI_StructInit void | EXTI_InitStruct struct TYPE_3__ *

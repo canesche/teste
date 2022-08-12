@@ -1,0 +1,1 @@
+function fill_block void | pdest int * | color int | block_size int | pitch int

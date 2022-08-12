@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 13,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 504,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_labq3map2libsmathlibm4x4.c_m4_submat.d/extr_labq3map2libsmathlibm4x4.c_m4_submat_O0::m4_submat(61)"
+  }
+]

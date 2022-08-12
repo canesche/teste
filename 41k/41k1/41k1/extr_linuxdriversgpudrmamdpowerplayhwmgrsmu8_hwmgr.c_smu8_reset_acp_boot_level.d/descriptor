@@ -1,0 +1,3 @@
+struct smu8_hwmgr | acp_boot_level int 
+struct pp_hwmgr | backend struct smu8_hwmgr * 
+function smu8_reset_acp_boot_level void | hwmgr struct pp_hwmgr *

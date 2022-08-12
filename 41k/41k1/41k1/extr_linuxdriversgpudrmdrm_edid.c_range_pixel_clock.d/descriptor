@@ -1,0 +1,2 @@
+struct edid | revision int 
+function range_pixel_clock int | edid struct edid * | t int *

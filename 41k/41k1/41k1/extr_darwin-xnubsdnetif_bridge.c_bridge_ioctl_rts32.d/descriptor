@@ -1,0 +1,4 @@
+struct ifbareq32 | dummy int 
+struct ifbaconf32 | dummy int 
+struct bridge_softc | dummy int 
+function bridge_ioctl_rts32 int | sc struct bridge_softc * | arg void *

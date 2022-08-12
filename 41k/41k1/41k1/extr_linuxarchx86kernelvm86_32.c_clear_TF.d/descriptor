@@ -1,0 +1,3 @@
+struct TYPE_2__ | flags int 
+struct kernel_vm86_regs | pt struct TYPE_2__ 
+function clear_TF void | regs struct kernel_vm86_regs *

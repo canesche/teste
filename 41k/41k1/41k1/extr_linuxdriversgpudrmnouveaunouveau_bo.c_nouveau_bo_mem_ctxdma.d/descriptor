@@ -1,0 +1,5 @@
+struct ttm_mem_reg | mem_type long 
+struct ttm_buffer_object | dummy int 
+struct TYPE_2__ | handle int 
+struct nouveau_channel | vram struct TYPE_2__ 
+function nouveau_bo_mem_ctxdma int | bo struct ttm_buffer_object * | chan struct nouveau_channel * | reg struct ttm_mem_reg *

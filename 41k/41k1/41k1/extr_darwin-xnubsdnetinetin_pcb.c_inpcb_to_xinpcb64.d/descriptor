@@ -1,0 +1,11 @@
+struct TYPE_15__ | inp6_hops int | inp6_ifindex long | inp6_cksum int | inp6_hlim long 
+struct TYPE_13__ | inp4_ip_tos int 
+struct TYPE_11__ | inp6_local int 
+struct TYPE_9__ | inp6_foreign int 
+struct xinpcb64 | inp_depend6 struct TYPE_15__ | inp_depend4 struct TYPE_13__ | inp_dependladdr struct TYPE_11__ | inp_dependfaddr struct TYPE_9__ | inp_ip_p int | inp_ip_ttl int | inp_vflag int | inp_flow int | inp_flags int | inp_gencnt int | inp_lport int | inp_fport int 
+struct TYPE_16__ | inp6_hops int | inp6_cksum int 
+struct TYPE_14__ | inp4_ip_tos int 
+struct TYPE_12__ | inp6_local int 
+struct TYPE_10__ | inp6_foreign int 
+struct inpcb | inp_depend6 struct TYPE_16__ | inp_depend4 struct TYPE_14__ | inp_dependladdr struct TYPE_12__ | inp_dependfaddr struct TYPE_10__ | inp_ip_p int | inp_ip_ttl int | inp_vflag int | inp_flow int | inp_flags int | inp_gencnt int | inp_lport int | inp_fport int 
+function inpcb_to_xinpcb64 void | inp struct inpcb * | xinp struct xinpcb64 *

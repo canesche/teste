@@ -1,0 +1,3 @@
+struct drm_device | dummy int 
+struct drm_connector | dummy int 
+function nouveau_acpi_edid void * | dev struct drm_device * | connector struct drm_connector *

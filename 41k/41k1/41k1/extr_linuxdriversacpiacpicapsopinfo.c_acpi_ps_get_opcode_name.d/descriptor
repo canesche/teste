@@ -1,0 +1,1 @@
+function acpi_ps_get_opcode_name const char * | opcode int

@@ -1,0 +1,4 @@
+struct scmi_driver | id_table struct scmi_device_id * 
+struct scmi_device_id | protocol_id long 
+struct scmi_device | protocol_id long 
+function scmi_dev_match_id const struct scmi_device_id * | scmi_dev struct scmi_device * | scmi_drv struct scmi_driver *

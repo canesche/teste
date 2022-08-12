@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function get_user_dscr int | task struct task_struct * | data unsigned long *

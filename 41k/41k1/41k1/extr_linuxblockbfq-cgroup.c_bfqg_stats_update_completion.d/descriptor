@@ -1,0 +1,2 @@
+struct bfq_group | dummy int 
+function bfqg_stats_update_completion void | bfqg struct bfq_group * | start_time_ns int | io_start_time_ns int | op unsigned int

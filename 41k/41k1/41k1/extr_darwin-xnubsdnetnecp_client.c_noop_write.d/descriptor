@@ -1,0 +1,3 @@
+struct uio | dummy int 
+struct fileproc | dummy int 
+function noop_write int | fp struct fileproc * | uio struct uio * | flags int | ctx int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 10,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 65,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19415,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_The-Art-Of-Programming-By-Julyebookcodec10.1.3：教你一步一步用c语言实现sift算法、下.c_AverageWeakBins.d/extr_The-Art-Of-Programming-By-Julyebookcodec10.1.3：教你一步一步用c语言实现sift算法、下.c_AverageWeakBins_O0::AverageWeakBins(60)"
+  }
+]

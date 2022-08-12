@@ -1,0 +1,1 @@
+value(len) == 255, value(hmac_key_len) == 255, value(enc_type) == 255, value(auth_type) == 255, value(hash_len) == 255, value(sfas) == 255, value(sob) == 255, value(eob) == 255, value(encrypt) == 255, value(opcode) == 255

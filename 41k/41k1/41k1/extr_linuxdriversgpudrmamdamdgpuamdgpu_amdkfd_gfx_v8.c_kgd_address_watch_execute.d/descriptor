@@ -1,0 +1,2 @@
+struct kgd_dev | dummy int 
+function kgd_address_watch_execute int | kgd struct kgd_dev * | watch_point_id unsigned int | cntl_val int | addr_hi int | addr_lo int

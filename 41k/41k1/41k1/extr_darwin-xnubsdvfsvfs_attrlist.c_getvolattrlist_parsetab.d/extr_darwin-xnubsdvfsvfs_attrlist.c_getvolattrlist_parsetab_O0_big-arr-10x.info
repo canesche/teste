@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 66,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 471,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnubsdvfsvfs_attrlist.c_getvolattrlist_parsetab.d/extr_darwin-xnubsdvfsvfs_attrlist.c_getvolattrlist_parsetab_O0::getvolattrlist_parsetab(70)"
+  }
+]

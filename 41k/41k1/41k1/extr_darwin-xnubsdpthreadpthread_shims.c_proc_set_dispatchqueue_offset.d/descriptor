@@ -1,0 +1,2 @@
+struct proc | p_dispatchqueue_offset int 
+function proc_set_dispatchqueue_offset void | p struct proc * | offset int

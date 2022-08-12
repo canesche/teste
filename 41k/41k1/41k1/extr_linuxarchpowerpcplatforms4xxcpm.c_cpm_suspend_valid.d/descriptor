@@ -1,0 +1,2 @@
+struct TYPE_2__ | suspend int | standby int 
+function cpm_suspend_valid int | state int

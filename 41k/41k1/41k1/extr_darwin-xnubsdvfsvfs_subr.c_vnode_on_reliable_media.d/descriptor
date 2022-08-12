@@ -1,0 +1,3 @@
+struct TYPE_5__ | v_mount struct TYPE_4__ * 
+struct TYPE_4__ | mnt_kern_flag int | mnt_flag int 
+function vnode_on_reliable_media int | vp struct TYPE_5__ *

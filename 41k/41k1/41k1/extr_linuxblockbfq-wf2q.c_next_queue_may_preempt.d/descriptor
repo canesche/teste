@@ -1,0 +1,4 @@
+struct bfq_sched_data | next_in_service long | in_service_entity long 
+struct bfq_data | root_group struct TYPE_2__ * 
+struct TYPE_2__ | sched_data struct bfq_sched_data 
+function next_queue_may_preempt int | bfqd struct bfq_data *

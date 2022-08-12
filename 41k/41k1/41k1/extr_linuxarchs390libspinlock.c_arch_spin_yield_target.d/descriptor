@@ -1,0 +1,2 @@
+struct spin_wait | node_id int | prev struct spin_wait * 
+function arch_spin_yield_target int | lock int | node struct spin_wait *

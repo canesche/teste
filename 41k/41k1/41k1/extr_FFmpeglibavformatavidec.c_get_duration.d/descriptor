@@ -1,0 +1,2 @@
+struct TYPE_3__ | dshow_block_align int | sample_size long 
+function get_duration int | ast struct TYPE_3__ * | len int

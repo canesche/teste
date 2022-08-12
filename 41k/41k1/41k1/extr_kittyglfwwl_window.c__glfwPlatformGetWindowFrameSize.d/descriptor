@@ -1,0 +1,4 @@
+struct TYPE_5__ | serverSide int 
+struct TYPE_6__ | decorations struct TYPE_5__ 
+struct TYPE_7__ | wl struct TYPE_6__ | monitor int | decorated long 
+function _glfwPlatformGetWindowFrameSize void | window struct TYPE_7__ * | left int * | top int * | right int * | bottom int *

@@ -1,0 +1,3 @@
+struct pt_regs | cs int | ip int 
+struct mce | mcgstatus int | status int | cs int | ip int 
+function quirk_sandybridge_ifu void | bank int | m struct mce * | regs struct pt_regs *

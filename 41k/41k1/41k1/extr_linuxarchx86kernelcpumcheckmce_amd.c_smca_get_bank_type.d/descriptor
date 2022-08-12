@@ -1,0 +1,3 @@
+struct smca_bank | hwid struct TYPE_2__ * 
+struct TYPE_2__ | bank_type int 
+function smca_get_bank_type enum smca_bank_types | bank unsigned int

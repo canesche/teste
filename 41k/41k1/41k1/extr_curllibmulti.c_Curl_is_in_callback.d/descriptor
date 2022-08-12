@@ -1,0 +1,4 @@
+struct Curl_easy | multi_easy struct TYPE_4__ * | multi struct TYPE_3__ * 
+struct TYPE_4__ | in_callback long 
+struct TYPE_3__ | in_callback long 
+function Curl_is_in_callback int | easy struct Curl_easy *

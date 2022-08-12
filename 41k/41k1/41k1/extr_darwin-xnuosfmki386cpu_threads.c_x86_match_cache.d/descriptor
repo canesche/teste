@@ -1,0 +1,2 @@
+struct TYPE_5__ | maxcpus long | type long | level long | partitions long | line_size long | cache_size long | next struct TYPE_5__ * 
+function x86_match_cache struct TYPE_5__ * | list struct TYPE_5__ * | matcher struct TYPE_5__ *

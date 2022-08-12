@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function up_boot_secondary int | cpu int | idle struct task_struct *

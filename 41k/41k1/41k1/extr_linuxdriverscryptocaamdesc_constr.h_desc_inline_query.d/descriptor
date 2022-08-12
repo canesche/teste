@@ -1,0 +1,1 @@
+function desc_inline_query int | sd_base_len unsigned int | jd_len unsigned int | data_len unsigned int * | inl_mask int * | count unsigned int

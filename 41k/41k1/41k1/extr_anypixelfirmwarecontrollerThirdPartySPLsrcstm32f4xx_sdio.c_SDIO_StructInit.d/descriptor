@@ -1,0 +1,2 @@
+struct TYPE_3__ | SDIO_ClockDiv int | SDIO_HardwareFlowControl int | SDIO_BusWide int | SDIO_ClockPowerSave int | SDIO_ClockBypass int | SDIO_ClockEdge int 
+function SDIO_StructInit void | SDIO_InitStruct struct TYPE_3__ *

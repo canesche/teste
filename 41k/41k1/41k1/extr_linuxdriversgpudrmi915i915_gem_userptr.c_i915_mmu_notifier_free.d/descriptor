@@ -1,0 +1,3 @@
+struct mm_struct | dummy int 
+struct i915_mmu_notifier | dummy int 
+function i915_mmu_notifier_free void | mn struct i915_mmu_notifier * | mm struct mm_struct *

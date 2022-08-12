@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversfmcfru-parse.c_fru_bia_cksum_ok.d/extr_linuxdriversfmcfru-parse.c_fru_bia_cksum_ok_O0::fru_bia_cksum_ok(62)"
+  }
+]

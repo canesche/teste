@@ -1,0 +1,2 @@
+struct dfl_feature_platform_data | dummy int 
+function afu_ioctl_check_extension long | pdata struct dfl_feature_platform_data * | arg unsigned long

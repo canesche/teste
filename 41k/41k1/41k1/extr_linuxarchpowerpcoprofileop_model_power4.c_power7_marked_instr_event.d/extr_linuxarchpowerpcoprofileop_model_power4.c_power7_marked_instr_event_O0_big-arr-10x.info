@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 61,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 222,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchpowerpcoprofileop_model_power4.c_power7_marked_instr_event.d/extr_linuxarchpowerpcoprofileop_model_power4.c_power7_marked_instr_event_O0::power7_marked_instr_event(66)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | autoCommit int 
+function sqlite3_get_autocommit int | db struct TYPE_3__ *

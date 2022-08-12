@@ -1,0 +1,2 @@
+struct omap_sg | en unsigned long | fn unsigned long 
+function omap_dma_sg_size unsigned long | sg struct omap_sg *

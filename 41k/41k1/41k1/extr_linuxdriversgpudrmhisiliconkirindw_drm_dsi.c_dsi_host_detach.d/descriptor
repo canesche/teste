@@ -1,0 +1,3 @@
+struct mipi_dsi_host | dummy int 
+struct mipi_dsi_device | dummy int 
+function dsi_host_detach int | host struct mipi_dsi_host * | mdsi struct mipi_dsi_device *

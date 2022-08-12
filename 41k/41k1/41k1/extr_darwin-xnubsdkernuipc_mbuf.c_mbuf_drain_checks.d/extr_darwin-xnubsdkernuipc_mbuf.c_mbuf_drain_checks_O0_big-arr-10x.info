@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnubsdkernuipc_mbuf.c_mbuf_drain_checks.d/extr_darwin-xnubsdkernuipc_mbuf.c_mbuf_drain_checks_O0::mbuf_drain_checks(64)"
+  }
+]

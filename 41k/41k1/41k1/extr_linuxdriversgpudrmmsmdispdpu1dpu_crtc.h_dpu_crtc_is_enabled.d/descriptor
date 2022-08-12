@@ -1,0 +1,2 @@
+struct drm_crtc | enabled int 
+function dpu_crtc_is_enabled int | crtc struct drm_crtc *

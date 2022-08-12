@@ -1,0 +1,2 @@
+struct i915_address_space | dummy int 
+function nop_clear_range void | vm struct i915_address_space * | start int | length int

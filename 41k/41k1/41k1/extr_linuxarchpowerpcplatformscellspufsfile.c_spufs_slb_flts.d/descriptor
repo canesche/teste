@@ -1,0 +1,5 @@
+struct TYPE_6__ | slb_flt unsigned long long | slb_flt_base long 
+struct spu_context | state long | stats struct TYPE_6__ | spu struct TYPE_5__ * 
+struct TYPE_4__ | slb_flt long 
+struct TYPE_5__ | stats struct TYPE_4__ 
+function spufs_slb_flts unsigned long long | ctx struct spu_context *

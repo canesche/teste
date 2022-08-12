@@ -1,0 +1,2 @@
+struct msm_fence_context | completed_fence long 
+function fence_completed int | fctx struct msm_fence_context * | fence long

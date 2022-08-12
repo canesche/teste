@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function drm_pci_agp_destroy void | dev struct drm_device *

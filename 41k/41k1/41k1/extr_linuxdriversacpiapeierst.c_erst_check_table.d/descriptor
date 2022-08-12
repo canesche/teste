@@ -1,0 +1,4 @@
+struct TYPE_2__ | length int 
+struct acpi_table_erst | header_length int | entries int | header struct TYPE_2__ 
+struct acpi_erst_entry | dummy int 
+function erst_check_table int | erst_tab struct acpi_table_erst *

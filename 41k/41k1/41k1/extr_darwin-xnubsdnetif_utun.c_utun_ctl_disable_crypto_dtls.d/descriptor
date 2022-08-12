@@ -1,0 +1,2 @@
+struct utun_pcb | dummy int 
+function utun_ctl_disable_crypto_dtls void | pcb struct utun_pcb *

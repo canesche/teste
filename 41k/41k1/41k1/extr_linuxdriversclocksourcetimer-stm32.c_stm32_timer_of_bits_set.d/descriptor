@@ -1,0 +1,3 @@
+struct timer_of | private_data struct stm32_timer_private * 
+struct stm32_timer_private | bits int 
+function stm32_timer_of_bits_set void | to struct timer_of * | bits int

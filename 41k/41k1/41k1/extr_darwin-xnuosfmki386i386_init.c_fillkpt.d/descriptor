@@ -1,0 +1,1 @@
+function fillkpt void | base unsigned long * | prot int | src unsigned long | index int | count int

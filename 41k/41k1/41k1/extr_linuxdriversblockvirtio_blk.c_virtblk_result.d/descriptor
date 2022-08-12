@@ -1,0 +1,2 @@
+struct virtblk_req | status int 
+function virtblk_result int | vbr struct virtblk_req *

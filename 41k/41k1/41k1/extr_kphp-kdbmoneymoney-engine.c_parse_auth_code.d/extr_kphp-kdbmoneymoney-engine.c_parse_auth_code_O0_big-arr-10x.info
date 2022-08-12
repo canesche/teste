@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_kphp-kdbmoneymoney-engine.c_parse_auth_code.d/extr_kphp-kdbmoneymoney-engine.c_parse_auth_code_O0::parse_auth_code(59)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | fbw_channels int | start_freq int * | end_freq int * | fixed_coeffs long ** | bap int ** | channel_in_cpl long * | dither_flag int * 
+function remove_dithering void | s struct TYPE_3__ *

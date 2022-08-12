@@ -1,0 +1,2 @@
+struct TYPE_4__ | refcount long 
+function resetRefCount struct TYPE_4__ * | obj struct TYPE_4__ *

@@ -1,0 +1,3 @@
+struct rockchip_pll_rate_table | rate unsigned long 
+struct rockchip_clk_pll | rate_count int | rate_table struct rockchip_pll_rate_table * 
+function rockchip_get_pll_settings const struct rockchip_pll_rate_table * | pll struct rockchip_clk_pll * | rate unsigned long

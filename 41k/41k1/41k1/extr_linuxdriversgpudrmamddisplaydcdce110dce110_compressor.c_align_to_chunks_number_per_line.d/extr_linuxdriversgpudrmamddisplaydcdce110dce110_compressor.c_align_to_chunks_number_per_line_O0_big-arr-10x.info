@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmamddisplaydcdce110dce110_compressor.c_align_to_chunks_number_per_line.d/extr_linuxdriversgpudrmamddisplaydcdce110dce110_compressor.c_align_to_chunks_number_per_line_O0::align_to_chunks_number_per_line(61)"
+  }
+]

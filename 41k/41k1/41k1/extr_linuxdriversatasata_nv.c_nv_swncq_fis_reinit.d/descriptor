@@ -1,0 +1,3 @@
+struct nv_swncq_port_priv | ncq_flags long | sdbfis_bits long | dmafis_bits long | dhfis_bits long 
+struct ata_port | private_data struct nv_swncq_port_priv * 
+function nv_swncq_fis_reinit void | ap struct ata_port *

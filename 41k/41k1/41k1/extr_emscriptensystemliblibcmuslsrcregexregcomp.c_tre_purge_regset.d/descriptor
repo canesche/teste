@@ -1,0 +1,3 @@
+struct TYPE_5__ | submatch_data struct TYPE_4__ * 
+struct TYPE_4__ | so_tag int | eo_tag int 
+function tre_purge_regset void | regset int * | tnfa struct TYPE_5__ * | tag int

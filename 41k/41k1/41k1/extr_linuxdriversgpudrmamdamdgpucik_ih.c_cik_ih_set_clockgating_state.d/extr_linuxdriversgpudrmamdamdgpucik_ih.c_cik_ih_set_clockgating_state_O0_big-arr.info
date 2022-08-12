@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmamdamdgpucik_ih.c_cik_ih_set_clockgating_state.d/extr_linuxdriversgpudrmamdamdgpucik_ih.c_cik_ih_set_clockgating_state_O0::cik_ih_set_clockgating_state(62)"
+  }
+]

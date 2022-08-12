@@ -1,0 +1,2 @@
+struct drm_encoder | dummy int 
+function cirrus_encoder_commit void | encoder struct drm_encoder *

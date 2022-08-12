@@ -1,0 +1,1 @@
+function acpi_ut_strtoul_add64 int | addend1 long | digit long | out_sum long *

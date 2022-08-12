@@ -1,0 +1,3 @@
+struct hdmi_audio_param | aud_input_chan_type int | aud_mclk int | aud_i2s_fmt int | aud_input_type int | aud_sampe_size int | aud_codec int 
+struct mtk_hdmi | csp int | aud_param struct hdmi_audio_param 
+function mtk_hdmi_output_init int | hdmi struct mtk_hdmi *

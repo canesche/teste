@@ -1,0 +1,2 @@
+struct query_nodes_list | next struct query_nodes_list * 
+function merge_query_nodes_lists void | p struct query_nodes_list * | q struct query_nodes_list *

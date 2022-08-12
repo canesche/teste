@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 6,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 110,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchs390bootals.c_u16_to_hex.d/extr_linuxarchs390bootals.c_u16_to_hex_O0::u16_to_hex(61)"
+  }
+]

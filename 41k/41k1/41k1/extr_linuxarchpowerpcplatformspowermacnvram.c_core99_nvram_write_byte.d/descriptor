@@ -1,0 +1,1 @@
+function core99_nvram_write_byte void | addr int | val unsigned char

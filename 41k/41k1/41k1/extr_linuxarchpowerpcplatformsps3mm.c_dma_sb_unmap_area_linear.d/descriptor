@@ -1,0 +1,2 @@
+struct ps3_dma_region | dummy int 
+function dma_sb_unmap_area_linear int | r struct ps3_dma_region * | bus_addr int | len unsigned long

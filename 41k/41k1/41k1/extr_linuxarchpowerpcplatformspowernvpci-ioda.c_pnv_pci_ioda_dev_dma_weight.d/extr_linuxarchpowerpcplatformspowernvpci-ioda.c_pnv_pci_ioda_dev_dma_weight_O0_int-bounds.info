@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchpowerpcplatformspowernvpci-ioda.c_pnv_pci_ioda_dev_dma_weight.d/extr_linuxarchpowerpcplatformspowernvpci-ioda.c_pnv_pci_ioda_dev_dma_weight_O0::pnv_pci_ioda_dev_dma_weight(66)"
+  }
+]

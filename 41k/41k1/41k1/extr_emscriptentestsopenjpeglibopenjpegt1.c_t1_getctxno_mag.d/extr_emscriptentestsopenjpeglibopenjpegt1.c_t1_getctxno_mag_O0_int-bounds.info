@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_emscriptentestsopenjpeglibopenjpegt1.c_t1_getctxno_mag.d/extr_emscriptentestsopenjpeglibopenjpegt1.c_t1_getctxno_mag_O0::t1_getctxno_mag(62)"
+  }
+]

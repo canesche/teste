@@ -1,0 +1,2 @@
+struct amdgpu_device | dummy int 
+function amdgpu_get_pcie_gen_support enum amdgpu_pcie_gen | adev struct amdgpu_device * | sys_mask int | asic_gen enum amdgpu_pcie_gen | default_gen enum amdgpu_pcie_gen

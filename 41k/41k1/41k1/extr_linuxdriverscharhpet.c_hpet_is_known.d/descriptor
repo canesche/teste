@@ -1,0 +1,3 @@
+struct hpets | hp_hpet_phys long | hp_next struct hpets * 
+struct hpet_data | hd_phys_address long 
+function hpet_is_known int | hdp struct hpet_data *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | refcnt int 
+function mrb_irep_incref void | mrb int * | irep struct TYPE_3__ *

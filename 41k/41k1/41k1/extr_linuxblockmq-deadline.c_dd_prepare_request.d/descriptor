@@ -1,0 +1,3 @@
+struct request | dummy int 
+struct bio | dummy int 
+function dd_prepare_request void | rq struct request * | bio struct bio *

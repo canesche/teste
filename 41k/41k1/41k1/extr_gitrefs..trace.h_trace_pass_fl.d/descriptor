@@ -1,0 +1,2 @@
+struct trace_key | initialized int | fd long 
+function trace_pass_fl int | key struct trace_key *

@@ -1,0 +1,4 @@
+struct kvm_vcpu | vcpu_id long | kvm struct TYPE_4__ * 
+struct TYPE_3__ | bsp_vcpu_id long 
+struct TYPE_4__ | arch struct TYPE_3__ 
+function kvm_vcpu_is_reset_bsp int | vcpu struct kvm_vcpu *

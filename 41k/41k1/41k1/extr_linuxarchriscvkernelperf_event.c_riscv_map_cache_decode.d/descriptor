@@ -1,0 +1,1 @@
+function riscv_map_cache_decode int | config int | type unsigned int * | op unsigned int * | result unsigned int *

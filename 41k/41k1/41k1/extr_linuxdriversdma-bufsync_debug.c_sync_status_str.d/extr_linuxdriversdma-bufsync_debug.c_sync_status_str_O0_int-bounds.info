@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversdma-bufsync_debug.c_sync_status_str.d/extr_linuxdriversdma-bufsync_debug.c_sync_status_str_O0::sync_status_str(60)"
+  }
+]

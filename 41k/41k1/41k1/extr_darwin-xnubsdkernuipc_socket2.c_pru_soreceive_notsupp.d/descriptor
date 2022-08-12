@@ -1,0 +1,5 @@
+struct uio | dummy int 
+struct socket | dummy int 
+struct sockaddr | dummy int 
+struct mbuf | dummy int 
+function pru_soreceive_notsupp int | so struct socket * | paddr struct sockaddr ** | uio struct uio * | mp0 struct mbuf ** | controlp struct mbuf ** | flagsp int *

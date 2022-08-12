@@ -1,0 +1,4 @@
+struct TYPE_7__ | bUseThread int | mxSz long | pTask struct TYPE_6__ * 
+struct TYPE_5__ | iEof int 
+struct TYPE_6__ | file2 struct TYPE_5__ 
+function vdbeIncrMergerSetThreads void | pIncr struct TYPE_7__ *

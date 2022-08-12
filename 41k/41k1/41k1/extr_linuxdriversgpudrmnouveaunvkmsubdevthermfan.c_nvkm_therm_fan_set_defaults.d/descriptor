@@ -1,0 +1,4 @@
+struct nvkm_therm | fan struct TYPE_4__ * 
+struct TYPE_3__ | max_duty int | bump_period int | slow_down_period int | linear_min_temp int | linear_max_temp int | min_duty long | pwm_freq long 
+struct TYPE_4__ | bios struct TYPE_3__ 
+function nvkm_therm_fan_set_defaults void | therm struct nvkm_therm *

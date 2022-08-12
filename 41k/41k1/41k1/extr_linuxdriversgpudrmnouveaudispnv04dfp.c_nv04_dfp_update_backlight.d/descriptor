@@ -1,0 +1,2 @@
+struct drm_encoder | dummy int 
+function nv04_dfp_update_backlight void | encoder struct drm_encoder * | mode int

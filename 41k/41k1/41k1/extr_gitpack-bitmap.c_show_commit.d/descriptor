@@ -1,0 +1,2 @@
+struct commit | dummy int 
+function show_commit void | commit struct commit * | data void *

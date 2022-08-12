@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnuosfmkkernthread_call.c_thread_call_get_flavor.d/extr_darwin-xnuosfmkkernthread_call.c_thread_call_get_flavor_O0::thread_call_get_flavor(68)"
+  }
+]

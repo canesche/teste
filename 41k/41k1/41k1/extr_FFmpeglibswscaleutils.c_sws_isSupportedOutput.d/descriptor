@@ -1,0 +1,2 @@
+struct TYPE_2__ | is_supported_out int 
+function sws_isSupportedOutput int | pix_fmt enum AVPixelFormat

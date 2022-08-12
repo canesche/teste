@@ -1,0 +1,2 @@
+struct TYPE_4__ | next struct TYPE_4__ * | prev struct TYPE_4__ * 
+function swaplist void | node1 struct TYPE_4__ * | node2 struct TYPE_4__ *

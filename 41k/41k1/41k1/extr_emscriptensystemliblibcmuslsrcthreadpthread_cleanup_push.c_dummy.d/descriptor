@@ -1,0 +1,2 @@
+struct __ptcb | dummy int 
+function dummy void | cb struct __ptcb *

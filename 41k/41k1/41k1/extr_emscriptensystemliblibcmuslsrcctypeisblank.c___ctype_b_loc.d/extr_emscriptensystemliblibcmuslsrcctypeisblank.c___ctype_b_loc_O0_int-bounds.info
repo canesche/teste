@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400600,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_emscriptensystemliblibcmuslsrcctypeisblank.c___ctype_b_loc.d/extr_emscriptensystemliblibcmuslsrcctypeisblank.c___ctype_b_loc_O0::isblank(60)"
+  }
+]

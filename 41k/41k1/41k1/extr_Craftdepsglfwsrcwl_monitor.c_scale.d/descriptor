@@ -1,0 +1,2 @@
+struct wl_output | dummy int 
+function scale void | data void * | output struct wl_output * | factor int

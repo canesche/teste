@@ -1,0 +1,2 @@
+struct TYPE_3__ | p_name long * | p_comm char * 
+function proc_best_name char * | p struct TYPE_3__ *

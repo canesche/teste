@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_labenginecoderenderergl2tr_cmds.c_R_SetColorMode.d/extr_labenginecoderenderergl2tr_cmds.c_R_SetColorMode_O0::R_SetColorMode(70)"
+  }
+]

@@ -1,0 +1,2 @@
+struct zram | disksize int 
+function init_done int | zram struct zram *

@@ -1,0 +1,2 @@
+struct socket | dummy int 
+function pru_connect2_notsupp int | so1 struct socket * | so2 struct socket *

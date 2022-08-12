@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmamdpowerplayhwmgrsmu7_hwmgr.c_smu7_get_fan_control_mode.d/extr_linuxdriversgpudrmamdpowerplayhwmgrsmu7_hwmgr.c_smu7_get_fan_control_mode_O0::smu7_get_fan_control_mode(64)"
+  }
+]

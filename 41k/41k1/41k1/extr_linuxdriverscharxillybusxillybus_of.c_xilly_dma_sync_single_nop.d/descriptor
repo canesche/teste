@@ -1,0 +1,2 @@
+struct xilly_endpoint | dummy int 
+function xilly_dma_sync_single_nop void | ep struct xilly_endpoint * | dma_handle int | size unsigned long | direction int

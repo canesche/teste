@@ -1,0 +1,2 @@
+struct shdma_chan | dummy int 
+function sudmac_setup_xfer void | schan struct shdma_chan * | slave_id int

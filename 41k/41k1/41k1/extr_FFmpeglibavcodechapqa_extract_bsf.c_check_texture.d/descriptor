@@ -1,0 +1,2 @@
+struct TYPE_3__ | texture int 
+function check_texture int | ctx struct TYPE_3__ * | section_type int

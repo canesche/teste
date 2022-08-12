@@ -1,0 +1,2 @@
+struct TYPE_3__ | reg int 
+function i915_mmio_reg_offset int | reg struct TYPE_3__

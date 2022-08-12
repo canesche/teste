@@ -1,0 +1,1 @@
+function update_cpu_capacity void | cpuid unsigned int

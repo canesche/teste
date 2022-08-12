@@ -1,0 +1,3 @@
+struct TYPE_2__ | max_hw_discard_sectors unsigned int | max_discard_sectors unsigned int 
+struct request_queue | limits struct TYPE_2__ 
+function blk_queue_max_discard_sectors void | q struct request_queue * | max_discard_sectors unsigned int

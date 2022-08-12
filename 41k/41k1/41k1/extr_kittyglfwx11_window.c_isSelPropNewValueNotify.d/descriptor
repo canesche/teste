@@ -1,0 +1,4 @@
+struct TYPE_5__ | requestor long | property long 
+struct TYPE_6__ | state long | window long | atom long 
+struct TYPE_7__ | type long | xselection struct TYPE_5__ | xproperty struct TYPE_6__ 
+function isSelPropNewValueNotify int | display int * | event struct TYPE_7__ * | pointer long

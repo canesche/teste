@@ -1,0 +1,2 @@
+struct kvm_book3e_206_tlb_entry | mas7_3 int 
+function tlbe_is_writable int | tlbe struct kvm_book3e_206_tlb_entry *

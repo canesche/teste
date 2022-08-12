@@ -1,0 +1,2 @@
+struct cache_info | alias_mask int | n_aliases int 
+function compute_alias void | c struct cache_info *

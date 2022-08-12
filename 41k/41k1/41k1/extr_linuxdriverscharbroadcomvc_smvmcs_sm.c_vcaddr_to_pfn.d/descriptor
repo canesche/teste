@@ -1,0 +1,1 @@
+function vcaddr_to_pfn unsigned int | vc_addr unsigned long

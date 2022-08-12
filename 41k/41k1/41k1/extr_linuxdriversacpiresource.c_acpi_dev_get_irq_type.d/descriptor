@@ -1,0 +1,1 @@
+function acpi_dev_get_irq_type unsigned int | triggering int | polarity int

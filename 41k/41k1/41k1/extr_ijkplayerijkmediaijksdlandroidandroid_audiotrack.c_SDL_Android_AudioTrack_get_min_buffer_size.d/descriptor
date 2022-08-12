@@ -1,0 +1,2 @@
+struct TYPE_3__ | min_buffer_size int 
+function SDL_Android_AudioTrack_get_min_buffer_size int | atrack struct TYPE_3__ *

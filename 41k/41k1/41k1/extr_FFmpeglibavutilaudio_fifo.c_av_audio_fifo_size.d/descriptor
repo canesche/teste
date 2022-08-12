@@ -1,0 +1,2 @@
+struct TYPE_3__ | nb_samples int 
+function av_audio_fifo_size int | af struct TYPE_3__ *

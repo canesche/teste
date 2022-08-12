@@ -1,0 +1,3 @@
+struct tcphdr | th_flags int 
+struct tcpcb | t_flags int | t_unacksegs int 
+function tcp_ledbat_delay_ack int | tp struct tcpcb * | th struct tcphdr *

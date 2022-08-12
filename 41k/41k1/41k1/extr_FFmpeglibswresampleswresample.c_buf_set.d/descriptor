@@ -1,0 +1,2 @@
+struct TYPE_4__ | ch_count int | bps int | ch long * | planar long 
+function buf_set void | out struct TYPE_4__ * | in struct TYPE_4__ * | count int

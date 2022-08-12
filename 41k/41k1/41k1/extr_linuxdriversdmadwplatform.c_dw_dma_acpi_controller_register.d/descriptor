@@ -1,0 +1,2 @@
+struct dw_dma | dummy int 
+function dw_dma_acpi_controller_register void | dw struct dw_dma *

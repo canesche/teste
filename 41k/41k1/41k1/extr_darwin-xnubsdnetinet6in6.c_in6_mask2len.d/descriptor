@@ -1,0 +1,2 @@
+struct in6_addr | dummy int 
+function in6_mask2len int | mask struct in6_addr * | lim0 int *

@@ -1,0 +1,3 @@
+struct TYPE_3__ | count_mode int 
+struct TYPE_4__ | pm_cntrl struct TYPE_3__ 
+function set_count_mode void | kernel long | user long

@@ -1,0 +1,2 @@
+struct axi_dmac_chan | src_type long 
+function axi_dmac_src_is_mem int | chan struct axi_dmac_chan *

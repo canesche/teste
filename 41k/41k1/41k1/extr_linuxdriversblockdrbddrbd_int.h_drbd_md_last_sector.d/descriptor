@@ -1,0 +1,3 @@
+struct TYPE_2__ | meta_dev_idx int | md_size_sect long | md_offset long 
+struct drbd_backing_dev | md struct TYPE_2__ 
+function drbd_md_last_sector int | bdev struct drbd_backing_dev *

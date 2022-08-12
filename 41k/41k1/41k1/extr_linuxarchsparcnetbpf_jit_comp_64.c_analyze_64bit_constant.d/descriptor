@@ -1,0 +1,1 @@
+function analyze_64bit_constant void | high_bits int | low_bits int | hbsp int * | lbsp int * | abbasp int *

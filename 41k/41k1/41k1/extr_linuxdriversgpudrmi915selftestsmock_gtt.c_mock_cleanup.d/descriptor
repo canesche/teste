@@ -1,0 +1,2 @@
+struct i915_address_space | dummy int 
+function mock_cleanup void | vm struct i915_address_space *

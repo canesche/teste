@@ -1,0 +1,3 @@
+struct TYPE_4__ | message_type long 
+struct TYPE_5__ | type long | xclient struct TYPE_4__ 
+function match_events int | dpy int * | xev struct TYPE_5__ * | arg char *

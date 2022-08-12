@@ -1,0 +1,4 @@
+struct device_queue_manager | dev struct TYPE_4__ * 
+struct TYPE_3__ | num_queue_per_pipe unsigned int 
+struct TYPE_4__ | shared_resources struct TYPE_3__ 
+function get_queues_per_pipe unsigned int | dqm struct device_queue_manager *

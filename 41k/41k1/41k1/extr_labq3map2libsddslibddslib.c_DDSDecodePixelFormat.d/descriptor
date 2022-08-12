@@ -1,0 +1,3 @@
+struct TYPE_4__ | fourCC unsigned int 
+struct TYPE_5__ | pixelFormat struct TYPE_4__ 
+function DDSDecodePixelFormat void | dds struct TYPE_5__ * | pf int *

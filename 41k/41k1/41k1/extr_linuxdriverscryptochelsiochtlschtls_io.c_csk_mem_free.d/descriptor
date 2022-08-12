@@ -1,0 +1,3 @@
+struct sock | sk_wmem_queued int 
+struct chtls_dev | max_host_sndbuf int 
+function csk_mem_free int | cdev struct chtls_dev * | sk struct sock *

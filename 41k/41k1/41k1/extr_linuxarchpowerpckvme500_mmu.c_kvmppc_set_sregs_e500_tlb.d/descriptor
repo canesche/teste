@@ -1,0 +1,7 @@
+struct TYPE_6__ | shared struct TYPE_5__ * 
+struct kvm_vcpu | arch struct TYPE_6__ 
+struct TYPE_7__ | features int | mas6 int | mas4 int | mas7_3 int | mas2 int | mas1 int | mas0 int 
+struct TYPE_8__ | e struct TYPE_7__ 
+struct kvm_sregs | u struct TYPE_8__ 
+struct TYPE_5__ | mas6 int | mas4 int | mas7_3 int | mas2 int | mas1 int | mas0 int 
+function kvmppc_set_sregs_e500_tlb int | vcpu struct kvm_vcpu * | sregs struct kvm_sregs *

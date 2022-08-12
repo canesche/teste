@@ -1,0 +1,3 @@
+struct list_head | dummy int 
+struct efivar_entry | scanning int | list struct list_head 
+function efi_pstore_scan_sysfs_enter void | pos struct efivar_entry * | next struct efivar_entry * | head struct list_head *

@@ -1,0 +1,3 @@
+struct etnaviv_cmdbuf | suballoc_offset long | suballoc struct TYPE_2__ * 
+struct TYPE_2__ | paddr long 
+function etnaviv_cmdbuf_get_pa long | buf struct etnaviv_cmdbuf *

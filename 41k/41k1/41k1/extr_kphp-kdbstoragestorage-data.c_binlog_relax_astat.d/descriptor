@@ -1,0 +1,4 @@
+struct TYPE_6__ | fails long 
+struct TYPE_5__ | counter double | old_value long 
+struct TYPE_7__ | st_read struct TYPE_6__ | as_read struct TYPE_5__ 
+function binlog_relax_astat void | B struct TYPE_7__ * | e double

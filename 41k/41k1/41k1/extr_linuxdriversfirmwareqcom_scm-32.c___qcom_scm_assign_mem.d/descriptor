@@ -1,0 +1,2 @@
+struct device | dummy int 
+function __qcom_scm_assign_mem int | dev struct device * | mem_region int | mem_sz unsigned long | src int | src_sz unsigned long | dest int | dest_sz unsigned long

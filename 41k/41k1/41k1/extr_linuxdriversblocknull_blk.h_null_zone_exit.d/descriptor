@@ -1,0 +1,2 @@
+struct nullb_device | dummy int 
+function null_zone_exit void | dev struct nullb_device *

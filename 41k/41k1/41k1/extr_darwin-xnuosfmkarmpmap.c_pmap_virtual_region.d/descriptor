@@ -1,0 +1,1 @@
+function pmap_virtual_region int | region_select unsigned int | startp int * | size int *

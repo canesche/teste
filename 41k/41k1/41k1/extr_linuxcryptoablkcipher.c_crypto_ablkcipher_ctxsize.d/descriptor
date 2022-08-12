@@ -1,0 +1,2 @@
+struct crypto_alg | cra_ctxsize unsigned int 
+function crypto_ablkcipher_ctxsize unsigned int | alg struct crypto_alg * | type int | mask int

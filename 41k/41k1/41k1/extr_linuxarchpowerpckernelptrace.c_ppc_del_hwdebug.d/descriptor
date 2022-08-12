@@ -1,0 +1,4 @@
+struct TYPE_3__ | address long | type long 
+struct TYPE_4__ | hw_brk struct TYPE_3__ 
+struct task_struct | thread struct TYPE_4__ 
+function ppc_del_hwdebug long | child struct task_struct * | data long

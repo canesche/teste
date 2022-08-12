@@ -1,0 +1,4 @@
+struct TYPE_3__ | spu_cfg_RW int 
+struct TYPE_4__ | priv2 struct TYPE_3__ 
+struct spu_context | csa struct TYPE_4__ 
+function spu_backing_signal2_type_get int | ctx struct spu_context *

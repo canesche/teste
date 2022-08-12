@@ -1,0 +1,2 @@
+struct TYPE_3__ | ADC_TwoSamplingDelay int | ADC_DMAAccessMode int | ADC_Prescaler int | ADC_Mode int 
+function ADC_CommonStructInit void | ADC_CommonInitStruct struct TYPE_3__ *

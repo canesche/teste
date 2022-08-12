@@ -1,0 +1,3 @@
+struct index_item | mask long | rates_len long | rates long 
+struct TYPE_3__ | mask long | rates_len long | rates long 
+function move_item_rates void | dst struct TYPE_3__ * | src struct index_item *

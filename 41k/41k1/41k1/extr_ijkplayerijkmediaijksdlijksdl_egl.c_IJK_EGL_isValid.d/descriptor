@@ -1,0 +1,2 @@
+struct TYPE_3__ | context long | surface long | display long | window long 
+function IJK_EGL_isValid int | egl struct TYPE_3__ *

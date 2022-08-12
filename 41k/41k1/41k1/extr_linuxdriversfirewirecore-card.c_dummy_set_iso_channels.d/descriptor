@@ -1,0 +1,2 @@
+struct fw_iso_context | dummy int 
+function dummy_set_iso_channels int | ctx struct fw_iso_context * | channels int *

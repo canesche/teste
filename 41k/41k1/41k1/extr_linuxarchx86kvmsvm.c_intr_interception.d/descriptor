@@ -1,0 +1,4 @@
+struct TYPE_3__ | irq_exits int 
+struct TYPE_4__ | stat struct TYPE_3__ 
+struct vcpu_svm | vcpu struct TYPE_4__ 
+function intr_interception int | svm struct vcpu_svm *

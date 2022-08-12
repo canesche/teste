@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 24,
+    phantoms: 17,
+    exit: true,
+    halt: false,
+    edges: 45,
+    static: {
+      instructions: 96,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 96,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnubsdnfsnfs4_subs.c_nfs4_ace_nfsmask_to_vfsrights.d/extr_darwin-xnubsdnfsnfs4_subs.c_nfs4_ace_nfsmask_to_vfsrights_O0::nfs4_ace_nfsmask_to_vfsrights(102)"
+  }
+]

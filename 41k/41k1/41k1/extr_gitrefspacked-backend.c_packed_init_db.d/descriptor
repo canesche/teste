@@ -1,0 +1,3 @@
+struct strbuf | dummy int 
+struct ref_store | dummy int 
+function packed_init_db int | ref_store struct ref_store * | err struct strbuf *

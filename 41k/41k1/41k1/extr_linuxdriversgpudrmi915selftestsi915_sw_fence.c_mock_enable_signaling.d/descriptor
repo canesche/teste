@@ -1,0 +1,2 @@
+struct dma_fence | dummy int 
+function mock_enable_signaling int | fence struct dma_fence *

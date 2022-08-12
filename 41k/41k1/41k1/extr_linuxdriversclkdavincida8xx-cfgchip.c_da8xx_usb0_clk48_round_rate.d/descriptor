@@ -1,0 +1,2 @@
+struct clk_hw | dummy int 
+function da8xx_usb0_clk48_round_rate long | hw struct clk_hw * | rate unsigned long | parent_rate unsigned long *

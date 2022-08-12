@@ -1,0 +1,2 @@
+struct TYPE_3__ | if_hwassist int | if_tso_v6_mtu int | if_tso_v4_mtu int 
+function ifnet_get_tso_mtu int | interface struct TYPE_3__ * | family int | mtuLen int *

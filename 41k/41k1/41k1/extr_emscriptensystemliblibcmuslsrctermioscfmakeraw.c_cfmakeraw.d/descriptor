@@ -1,0 +1,2 @@
+struct termios | c_iflag int | c_lflag int | c_cflag int | c_cc int * | c_oflag int 
+function cfmakeraw void | t struct termios *

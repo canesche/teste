@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4006b0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnulibsyscallwrappersspawnposix_spawn.c_posix_spawnattr_setflags.d/extr_darwin-xnulibsyscallwrappersspawnposix_spawn.c_posix_spawnattr_setflags_O0::posix_spawnattr_setflags(66)"
+  }
+]

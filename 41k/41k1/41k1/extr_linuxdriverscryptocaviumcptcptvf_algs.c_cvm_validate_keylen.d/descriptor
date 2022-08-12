@@ -1,0 +1,2 @@
+struct cvm_enc_ctx | key_len int | cipher_type long | key_type long 
+function cvm_validate_keylen int | ctx struct cvm_enc_ctx * | keylen int

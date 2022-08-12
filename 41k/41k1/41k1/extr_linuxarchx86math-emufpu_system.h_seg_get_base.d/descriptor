@@ -1,0 +1,2 @@
+struct desc_struct | base0 unsigned long | base1 long | base2 long 
+function seg_get_base unsigned long | d struct desc_struct *

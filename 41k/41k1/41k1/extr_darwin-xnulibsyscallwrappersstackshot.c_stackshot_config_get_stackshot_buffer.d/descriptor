@@ -1,0 +1,2 @@
+struct TYPE_3__ | sc_buffer long 
+function stackshot_config_get_stackshot_buffer void * | stackshot_config struct TYPE_3__ *

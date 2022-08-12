@@ -1,0 +1,2 @@
+struct timeval | tv_sec int | tv_usec int 
+function _convert_timeout_to_ts struct timeval | t double

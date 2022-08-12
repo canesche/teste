@@ -1,0 +1,1 @@
+function pl330_dma_slave_map_dir enum dma_data_direction | dir enum dma_transfer_direction

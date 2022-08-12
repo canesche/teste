@@ -1,0 +1,2 @@
+struct device | dummy int 
+function arch_teardown_dma_ops void | dev struct device *

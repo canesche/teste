@@ -1,0 +1,2 @@
+struct active_request_slot | dummy int 
+function start_active_slot int | slot struct active_request_slot *

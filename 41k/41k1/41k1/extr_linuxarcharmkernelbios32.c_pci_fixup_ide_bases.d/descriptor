@@ -1,0 +1,3 @@
+struct resource | start int | end int 
+struct pci_dev | class int | resource struct resource * 
+function pci_fixup_ide_bases void | dev struct pci_dev *

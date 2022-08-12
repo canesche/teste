@@ -1,0 +1,1 @@
+function is_io_mapping_possible int | base int | size unsigned long

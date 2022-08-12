@@ -1,0 +1,2 @@
+struct TYPE_3__ | last_titlebar_color int | handle long 
+function set_titlebar_color void | w struct TYPE_3__ * | color int

@@ -1,0 +1,2 @@
+struct devfreq | min_freq unsigned long 
+function devfreq_powersave_func int | df struct devfreq * | freq unsigned long *

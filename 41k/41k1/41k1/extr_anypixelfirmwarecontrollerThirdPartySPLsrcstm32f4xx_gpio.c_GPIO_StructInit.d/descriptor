@@ -1,0 +1,2 @@
+struct TYPE_3__ | GPIO_PuPd int | GPIO_OType int | GPIO_Speed int | GPIO_Mode int | GPIO_Pin int 
+function GPIO_StructInit void | GPIO_InitStruct struct TYPE_3__ *

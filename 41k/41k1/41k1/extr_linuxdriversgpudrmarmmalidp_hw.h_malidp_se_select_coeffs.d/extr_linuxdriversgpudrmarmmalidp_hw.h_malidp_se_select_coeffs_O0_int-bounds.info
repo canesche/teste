@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmarmmalidp_hw.h_malidp_se_select_coeffs.d/extr_linuxdriversgpudrmarmmalidp_hw.h_malidp_se_select_coeffs_O0::malidp_se_select_coeffs(72)"
+  }
+]

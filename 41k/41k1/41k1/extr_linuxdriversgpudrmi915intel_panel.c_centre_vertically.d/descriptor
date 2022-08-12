@@ -1,0 +1,2 @@
+struct drm_display_mode | crtc_vsync_end int | crtc_vsync_start int | crtc_vblank_end int | crtc_vblank_start int | crtc_vdisplay int 
+function centre_vertically void | adjusted_mode struct drm_display_mode * | height int

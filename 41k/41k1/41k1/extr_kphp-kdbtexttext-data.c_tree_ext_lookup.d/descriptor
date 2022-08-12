@@ -1,0 +1,2 @@
+struct TYPE_5__ | x int | right struct TYPE_5__ * | left struct TYPE_5__ * 
+function tree_ext_lookup struct TYPE_5__ * | T struct TYPE_5__ * | x int

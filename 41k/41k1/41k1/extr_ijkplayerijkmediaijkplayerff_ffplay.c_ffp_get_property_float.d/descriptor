@@ -1,0 +1,3 @@
+struct TYPE_4__ | vdps float | vfps float | avdelay float | avdiff float | drop_frame_rate float 
+struct TYPE_5__ | pf_playback_rate float | pf_playback_volume float | stat struct TYPE_4__ 
+function ffp_get_property_float float | ffp struct TYPE_5__ * | id int | default_value float

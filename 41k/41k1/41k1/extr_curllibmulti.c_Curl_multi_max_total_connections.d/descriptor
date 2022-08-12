@@ -1,0 +1,2 @@
+struct Curl_multi | max_total_connections unsigned long 
+function Curl_multi_max_total_connections unsigned long | multi struct Curl_multi *

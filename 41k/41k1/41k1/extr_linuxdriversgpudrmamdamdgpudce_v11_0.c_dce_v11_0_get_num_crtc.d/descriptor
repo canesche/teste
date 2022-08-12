@@ -1,0 +1,2 @@
+struct amdgpu_device | asic_type int 
+function dce_v11_0_get_num_crtc int | adev struct amdgpu_device *

@@ -1,0 +1,2 @@
+struct lev_news_set_recommend_rate | action int | type int | rate int 
+function set_recommend_rate int | E struct lev_news_set_recommend_rate *

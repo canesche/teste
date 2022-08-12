@@ -1,0 +1,1 @@
+function mmap_address_hint_valid int | addr unsigned long | len unsigned long

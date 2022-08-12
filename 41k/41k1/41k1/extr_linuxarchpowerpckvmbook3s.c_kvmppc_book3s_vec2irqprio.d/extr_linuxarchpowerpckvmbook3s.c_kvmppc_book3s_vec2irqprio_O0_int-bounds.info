@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 19,
+    phantoms: 17,
+    exit: true,
+    halt: false,
+    edges: 37,
+    static: {
+      instructions: 77,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 77,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchpowerpckvmbook3s.c_kvmppc_book3s_vec2irqprio.d/extr_linuxarchpowerpckvmbook3s.c_kvmppc_book3s_vec2irqprio_O0::kvmppc_book3s_vec2irqprio(78)"
+  }
+]

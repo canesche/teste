@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function arch_uprobe_xol_was_trapped int | t struct task_struct *

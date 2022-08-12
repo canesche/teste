@@ -1,0 +1,3 @@
+struct TYPE_6__ | lines int 
+struct TYPE_5__ | start_scrolled_by long | end_scrolled_by long | start_x long | end_x long | start_y long | end_y long 
+function index_selection void | self struct TYPE_6__ * | s struct TYPE_5__ * | up int

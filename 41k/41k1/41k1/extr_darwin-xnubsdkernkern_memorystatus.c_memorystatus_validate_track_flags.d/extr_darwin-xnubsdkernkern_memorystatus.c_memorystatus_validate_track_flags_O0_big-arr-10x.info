@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnubsdkernkern_memorystatus.c_memorystatus_validate_track_flags.d/extr_darwin-xnubsdkernkern_memorystatus.c_memorystatus_validate_track_flags_O0::memorystatus_validate_track_flags(71)"
+  }
+]

@@ -1,0 +1,1 @@
+function dump_status_reg void | status unsigned long *

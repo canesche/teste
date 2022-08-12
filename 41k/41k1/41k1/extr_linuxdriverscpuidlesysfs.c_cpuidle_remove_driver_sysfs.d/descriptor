@@ -1,0 +1,2 @@
+struct cpuidle_device | dummy int 
+function cpuidle_remove_driver_sysfs void | dev struct cpuidle_device *

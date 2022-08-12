@@ -1,0 +1,2 @@
+struct acpi_hest_header | dummy int 
+function arch_apei_enable_cmcff int | hest_hdr struct acpi_hest_header * | data void *

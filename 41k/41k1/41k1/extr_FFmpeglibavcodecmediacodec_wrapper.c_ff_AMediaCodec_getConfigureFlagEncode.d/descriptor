@@ -1,0 +1,2 @@
+struct TYPE_3__ | CONFIGURE_FLAG_ENCODE int 
+function ff_AMediaCodec_getConfigureFlagEncode int | codec struct TYPE_3__ *

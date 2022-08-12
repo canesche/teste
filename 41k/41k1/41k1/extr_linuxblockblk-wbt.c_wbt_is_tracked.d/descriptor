@@ -1,0 +1,2 @@
+struct request | wbt_flags int 
+function wbt_is_tracked int | rq struct request *

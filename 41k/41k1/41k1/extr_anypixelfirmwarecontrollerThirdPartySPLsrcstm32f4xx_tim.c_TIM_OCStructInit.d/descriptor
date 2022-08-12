@@ -1,0 +1,2 @@
+struct TYPE_3__ | TIM_Pulse int | TIM_OCNIdleState int | TIM_OCIdleState int | TIM_OCNPolarity void * | TIM_OCPolarity void * | TIM_OutputNState int | TIM_OutputState int | TIM_OCMode int 
+function TIM_OCStructInit void | TIM_OCInitStruct struct TYPE_3__ *

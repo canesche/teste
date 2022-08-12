@@ -1,0 +1,2 @@
+struct crypto_alg | cra_flags int 
+function crypto_is_dead int | alg struct crypto_alg *

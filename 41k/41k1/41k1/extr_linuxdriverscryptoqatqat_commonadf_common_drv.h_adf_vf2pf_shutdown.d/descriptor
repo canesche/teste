@@ -1,0 +1,2 @@
+struct adf_accel_dev | dummy int 
+function adf_vf2pf_shutdown void | accel_dev struct adf_accel_dev *

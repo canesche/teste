@@ -1,0 +1,2 @@
+struct av_intfloat32 | i unsigned int 
+function exr_half2float union av_intfloat32 | hf int

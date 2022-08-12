@@ -1,0 +1,2 @@
+struct cbe_iic_pending_bits | source int | class int | flags int | prio int 
+function iic_pending_to_hwnum int | bits struct cbe_iic_pending_bits

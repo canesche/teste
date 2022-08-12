@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function is_la57_mode int | vcpu struct kvm_vcpu *

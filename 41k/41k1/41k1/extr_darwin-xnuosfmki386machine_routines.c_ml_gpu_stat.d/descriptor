@@ -1,0 +1,3 @@
+struct TYPE_4__ | thread_gpu_ns int 
+struct TYPE_5__ | machine struct TYPE_4__ 
+function ml_gpu_stat int | t struct TYPE_5__ *

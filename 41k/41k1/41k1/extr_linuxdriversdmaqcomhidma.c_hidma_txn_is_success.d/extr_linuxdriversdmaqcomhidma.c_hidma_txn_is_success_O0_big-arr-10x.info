@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversdmaqcomhidma.c_hidma_txn_is_success.d/extr_linuxdriversdmaqcomhidma.c_hidma_txn_is_success_O0::hidma_txn_is_success(62)"
+  }
+]

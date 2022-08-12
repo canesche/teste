@@ -1,0 +1,2 @@
+struct TYPE_3__ | output float * | outputs int | h int | w int | n int | classes int 
+function avg_flipped_yolo void | l struct TYPE_3__

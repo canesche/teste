@@ -1,0 +1,3 @@
+struct todo_list | nr int | items struct TYPE_2__ * 
+struct TYPE_2__ | command long 
+function count_commands int | todo_list struct todo_list *

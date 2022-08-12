@@ -1,0 +1,2 @@
+struct pt_regs | gpr unsigned long * 
+function emulate_popcntb_inst int | regs struct pt_regs * | instword int

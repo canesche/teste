@@ -1,0 +1,2 @@
+struct vnode | v_iocount long | v_lflag int 
+function vnode_get_locked int | vp struct vnode *

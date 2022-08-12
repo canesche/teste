@@ -1,0 +1,2 @@
+struct device | dummy int 
+function dummy_sysfs_dev_release void | dev struct device *

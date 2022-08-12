@@ -1,0 +1,2 @@
+struct TYPE_3__ | b_dirtyoff int 
+function buf_dirtyoff int | bp struct TYPE_3__ *

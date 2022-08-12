@@ -1,0 +1,2 @@
+struct task_struct | mm long 
+function release_thread void | dead_task struct task_struct *

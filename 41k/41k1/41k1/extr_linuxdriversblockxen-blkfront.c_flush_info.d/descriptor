@@ -1,0 +1,2 @@
+struct blkfront_info | feature_flush long | feature_fua long 
+function flush_info const char * | info struct blkfront_info *

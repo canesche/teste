@@ -1,0 +1,2 @@
+struct intel_digital_port | dummy int 
+function intel_dp_hdcp_toggle_signalling int | intel_dig_port struct intel_digital_port * | enable int

@@ -1,0 +1,4 @@
+struct vcpu_svm | vmcb struct TYPE_4__ * 
+struct TYPE_3__ | int_ctl int 
+struct TYPE_4__ | control struct TYPE_3__ 
+function vgif_enabled int | svm struct vcpu_svm *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | gfree int | gmallocarray int | greallocarray int | grealloc int | gsubstrdup int | gstrndup int | gstrdup int | gcalloc int | gmalloc int 
+function git_stdalloc_init_allocator int | allocator struct TYPE_3__ *

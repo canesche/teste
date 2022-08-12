@@ -1,0 +1,2 @@
+struct ate_resource | num_ate int | ate int * 
+function find_free_ate int | ate_resource struct ate_resource * | start int | count int

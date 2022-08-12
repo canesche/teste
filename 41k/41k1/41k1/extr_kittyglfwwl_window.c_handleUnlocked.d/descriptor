@@ -1,0 +1,2 @@
+struct zwp_locked_pointer_v1 | dummy int 
+function handleUnlocked void | data void * | lockedPointer struct zwp_locked_pointer_v1 *

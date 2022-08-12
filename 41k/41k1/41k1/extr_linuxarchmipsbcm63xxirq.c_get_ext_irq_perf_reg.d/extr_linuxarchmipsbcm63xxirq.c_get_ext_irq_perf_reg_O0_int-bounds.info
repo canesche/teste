@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchmipsbcm63xxirq.c_get_ext_irq_perf_reg.d/extr_linuxarchmipsbcm63xxirq.c_get_ext_irq_perf_reg_O0::get_ext_irq_perf_reg(63)"
+  }
+]

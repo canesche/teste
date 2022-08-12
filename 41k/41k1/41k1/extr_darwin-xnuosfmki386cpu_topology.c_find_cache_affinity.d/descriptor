@@ -1,0 +1,2 @@
+struct TYPE_4__ | cache int * | next struct TYPE_4__ * 
+function find_cache_affinity struct TYPE_4__ * | l2_cachep int *

@@ -1,0 +1,2 @@
+struct ddc_service | dummy int 
+function dal_ddc_service_get_type enum ddc_service_type | ddc struct ddc_service *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | line int 
+struct TYPE_5__ | qrf struct TYPE_4__ 
+function _zbar_decoder_get_qr_finder_line int * | dcode struct TYPE_5__ *

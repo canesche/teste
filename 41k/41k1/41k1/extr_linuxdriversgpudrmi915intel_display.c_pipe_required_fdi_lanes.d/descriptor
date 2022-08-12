@@ -1,0 +1,3 @@
+struct TYPE_2__ | enable long 
+struct intel_crtc_state | fdi_lanes int | has_pch_encoder long | base struct TYPE_2__ 
+function pipe_required_fdi_lanes int | crtc_state struct intel_crtc_state *

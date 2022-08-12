@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchalphakerneltraps.c_s_mem_to_reg.d/extr_linuxarchalphakerneltraps.c_s_mem_to_reg_O0::s_mem_to_reg(61)"
+  }
+]

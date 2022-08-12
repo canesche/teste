@@ -1,0 +1,2 @@
+struct talitos_ptr | eptr int | len int | len1 int | ptr int 
+function copy_talitos_ptr void | dst_ptr struct talitos_ptr * | src_ptr struct talitos_ptr * | is_sec1 int

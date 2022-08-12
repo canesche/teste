@@ -1,0 +1,1 @@
+function SetThreadName void | thread_id int | name char * | param void *

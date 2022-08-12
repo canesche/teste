@@ -1,0 +1,3 @@
+struct module | dummy int 
+struct m68k_fixup_info | dummy int 
+function module_fixup void | mod struct module * | start struct m68k_fixup_info * | end struct m68k_fixup_info *

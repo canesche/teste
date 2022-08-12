@@ -1,0 +1,2 @@
+struct fsi_master_gpio | last_addr int 
+function check_relative_address int | master struct fsi_master_gpio * | id int | addr int | rel_addrp int *

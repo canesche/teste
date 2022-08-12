@@ -1,0 +1,2 @@
+struct kvm | dummy int 
+function kvmppc_core_destroy_vm_e500 void | kvm struct kvm *

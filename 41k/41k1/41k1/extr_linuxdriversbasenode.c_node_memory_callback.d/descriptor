@@ -1,0 +1,2 @@
+struct notifier_block | dummy int 
+function node_memory_callback int | self struct notifier_block * | action unsigned long | arg void *

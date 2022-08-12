@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_emscriptensystemliblibcmuslsrcstdlibqsort.c_shr.d/extr_emscriptensystemliblibcmuslsrcstdlibqsort.c_shr_O0::shr(60)"
+  }
+]

@@ -1,0 +1,2 @@
+struct vio_dev | dummy int 
+function vio_cmo_set_dev_desired void | viodev struct vio_dev * | desired unsigned long

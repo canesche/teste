@@ -1,0 +1,2 @@
+struct TYPE_3__ | x int * | i int | val int 
+function blist_iter_next void | it struct TYPE_3__ *

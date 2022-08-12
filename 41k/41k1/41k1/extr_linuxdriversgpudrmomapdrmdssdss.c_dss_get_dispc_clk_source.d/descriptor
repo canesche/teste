@@ -1,0 +1,2 @@
+struct dss_device | dispc_clk_source int 
+function dss_get_dispc_clk_source enum dss_clk_source | dss struct dss_device *

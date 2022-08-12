@@ -1,0 +1,2 @@
+struct phy_device | dev_flags int 
+function dns323c_phy_fixup int | phy struct phy_device *

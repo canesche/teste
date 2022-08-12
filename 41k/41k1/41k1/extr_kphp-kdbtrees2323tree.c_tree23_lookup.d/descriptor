@@ -1,0 +1,2 @@
+struct TYPE_3__ | x1 int | x2 int | middle struct TYPE_3__ * | left struct TYPE_3__ * | right struct TYPE_3__ * 
+function tree23_lookup int | T struct TYPE_3__ * | x int

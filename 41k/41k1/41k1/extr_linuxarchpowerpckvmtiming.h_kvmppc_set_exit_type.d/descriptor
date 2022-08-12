@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function kvmppc_set_exit_type void | vcpu struct kvm_vcpu * | type int

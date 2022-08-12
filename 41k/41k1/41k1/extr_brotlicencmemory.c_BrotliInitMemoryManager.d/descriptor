@@ -1,0 +1,2 @@
+struct TYPE_3__ | new_freed long | new_allocated long | perm_allocated long | is_oom int | opaque void * | free_func int | alloc_func long 
+function BrotliInitMemoryManager void | m struct TYPE_3__ * | alloc_func long | free_func int | opaque void *

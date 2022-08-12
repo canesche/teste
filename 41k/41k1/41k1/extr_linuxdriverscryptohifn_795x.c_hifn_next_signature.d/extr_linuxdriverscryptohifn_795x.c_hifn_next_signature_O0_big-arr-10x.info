@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 371,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriverscryptohifn_795x.c_hifn_next_signature.d/extr_linuxdriverscryptohifn_795x.c_hifn_next_signature_O0::hifn_next_signature(62)"
+  }
+]

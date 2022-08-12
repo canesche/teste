@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmamddisplaydccoredc_surface.c_enable_surface_flip_reporting.d/extr_linuxdriversgpudrmamddisplaydccoredc_surface.c_enable_surface_flip_reporting_O0::enable_surface_flip_reporting(64)"
+  }
+]

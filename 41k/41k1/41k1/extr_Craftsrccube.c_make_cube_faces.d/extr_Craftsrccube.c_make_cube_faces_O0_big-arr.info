@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 19,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 28,
+    static: {
+      instructions: 284,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6256,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_Craftsrccube.c_make_cube_faces.d/extr_Craftsrccube.c_make_cube_faces_O0::make_cube_faces(64)"
+  }
+]

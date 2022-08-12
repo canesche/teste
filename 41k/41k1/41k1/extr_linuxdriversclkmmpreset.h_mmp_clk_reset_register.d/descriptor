@@ -1,0 +1,3 @@
+struct mmp_clk_reset_cell | dummy int 
+struct device_node | dummy int 
+function mmp_clk_reset_register void | np struct device_node * | cells struct mmp_clk_reset_cell * | nr_resets int

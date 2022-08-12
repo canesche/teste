@@ -1,0 +1,3 @@
+struct sigcontext | dummy int 
+struct pt_regs | dummy int 
+function save_fpu_state void | sc struct sigcontext * | regs struct pt_regs *

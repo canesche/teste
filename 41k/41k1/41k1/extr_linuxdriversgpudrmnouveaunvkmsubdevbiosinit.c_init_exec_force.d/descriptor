@@ -1,0 +1,2 @@
+struct nvbios_init | execute int 
+function init_exec_force void | init struct nvbios_init * | exec int

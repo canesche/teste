@@ -1,0 +1,2 @@
+struct acpi_device | dummy int 
+function acpi_nfit_remove int | adev struct acpi_device *

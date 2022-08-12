@@ -1,0 +1,2 @@
+struct ata_port | dummy int 
+function ata_eh_handle_port_resume void | ap struct ata_port *

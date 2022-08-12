@@ -1,0 +1,2 @@
+struct memory_block | state long 
+function is_memblock_offlined int | mem struct memory_block *

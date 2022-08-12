@@ -1,0 +1,5 @@
+struct parisc_driver | id_table struct parisc_device_id * 
+struct parisc_device_id | sversion long | hw_type long | hversion long 
+struct TYPE_2__ | sversion long | hw_type long | hversion long 
+struct parisc_device | id struct TYPE_2__ 
+function match_device int | driver struct parisc_driver * | dev struct parisc_device *

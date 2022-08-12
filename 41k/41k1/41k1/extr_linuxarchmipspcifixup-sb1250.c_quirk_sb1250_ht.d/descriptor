@@ -1,0 +1,2 @@
+struct pci_dev | class int 
+function quirk_sb1250_ht void | dev struct pci_dev *

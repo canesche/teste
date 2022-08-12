@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 8,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 58,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 168,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_hashcatdepsLZMA-SDKCUtil7z7zMain.c_UIntToStr.d/extr_hashcatdepsLZMA-SDKCUtil7z7zMain.c_UIntToStr_O0::UIntToStr(60)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | num_points long | tags int * | valid int | points int * 
+function ft_stroke_border_get_counts int | border struct TYPE_3__ * | anum_points long * | anum_contours long *

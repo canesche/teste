@@ -1,0 +1,3 @@
+struct scsi_device | dummy int 
+struct block_device | dummy int 
+function simscsi_biosparam int | sdev struct scsi_device * | n struct block_device * | capacity int | ip int []

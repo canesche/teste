@@ -1,0 +1,2 @@
+struct ddc_service | transaction_type int 
+function dal_ddc_service_set_transaction_type void | ddc struct ddc_service * | type enum ddc_transaction_type

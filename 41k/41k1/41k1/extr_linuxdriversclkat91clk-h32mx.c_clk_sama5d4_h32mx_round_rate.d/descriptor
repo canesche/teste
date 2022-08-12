@@ -1,0 +1,2 @@
+struct clk_hw | dummy int 
+function clk_sama5d4_h32mx_round_rate long | hw struct clk_hw * | rate unsigned long | parent_rate unsigned long *

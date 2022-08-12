@@ -1,0 +1,2 @@
+struct TYPE_3__ | chunk_hooks int 
+function chunk_hooks_get_locked int | arena struct TYPE_3__ *

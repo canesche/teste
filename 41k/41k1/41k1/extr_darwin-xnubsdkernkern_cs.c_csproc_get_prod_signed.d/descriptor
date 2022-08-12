@@ -1,0 +1,2 @@
+struct proc | p_csflags int 
+function csproc_get_prod_signed int | p struct proc *

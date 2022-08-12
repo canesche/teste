@@ -1,0 +1,2 @@
+struct TYPE_3__ | halting int 
+function task_is_halting int | task struct TYPE_3__ *

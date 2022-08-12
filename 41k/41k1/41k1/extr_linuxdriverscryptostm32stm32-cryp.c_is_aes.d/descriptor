@@ -1,0 +1,2 @@
+struct stm32_cryp | flags int 
+function is_aes int | cryp struct stm32_cryp *

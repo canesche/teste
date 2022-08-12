@@ -1,0 +1,2 @@
+struct proc | user_stack int 
+function proc_get_user_stack int | p struct proc *

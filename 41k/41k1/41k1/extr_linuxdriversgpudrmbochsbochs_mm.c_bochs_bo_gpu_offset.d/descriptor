@@ -1,0 +1,3 @@
+struct TYPE_2__ | offset int 
+struct bochs_bo | bo struct TYPE_2__ 
+function bochs_bo_gpu_offset int | bo struct bochs_bo *

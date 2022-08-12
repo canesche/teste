@@ -1,0 +1,2 @@
+struct TYPE_3__ | num_channels int | channel_residues int ** | is_channel_coded long * 
+function revert_inter_ch_decorr void | s struct TYPE_3__ * | tile_size int

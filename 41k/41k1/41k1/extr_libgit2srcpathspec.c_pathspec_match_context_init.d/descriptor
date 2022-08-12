@@ -1,0 +1,2 @@
+struct pathspec_match_context | fnmatch_flags int | strncomp int | strcomp int 
+function pathspec_match_context_init void | ctxt struct pathspec_match_context * | disable_fnmatch int | casefold int

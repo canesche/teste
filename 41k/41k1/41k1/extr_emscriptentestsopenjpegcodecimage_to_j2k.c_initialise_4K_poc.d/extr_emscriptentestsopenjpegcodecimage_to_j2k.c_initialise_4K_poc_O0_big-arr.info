@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_emscriptentestsopenjpegcodecimage_to_j2k.c_initialise_4K_poc.d/extr_emscriptentestsopenjpegcodecimage_to_j2k.c_initialise_4K_poc_O0::initialise_4K_poc(63)"
+  }
+]

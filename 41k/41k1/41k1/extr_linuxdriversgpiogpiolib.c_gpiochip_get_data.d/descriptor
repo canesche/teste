@@ -1,0 +1,3 @@
+struct gpio_chip | gpiodev struct TYPE_2__ * 
+struct TYPE_2__ | data void * 
+function gpiochip_get_data void * | chip struct gpio_chip *

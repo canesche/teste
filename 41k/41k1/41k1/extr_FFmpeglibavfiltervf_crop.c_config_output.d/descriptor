@@ -1,0 +1,4 @@
+struct TYPE_7__ | sample_aspect_ratio int | h int | w int | src struct TYPE_5__ * 
+struct TYPE_6__ | out_sar int | h int | w int 
+struct TYPE_5__ | priv struct TYPE_6__ * 
+function config_output int | link struct TYPE_7__ *

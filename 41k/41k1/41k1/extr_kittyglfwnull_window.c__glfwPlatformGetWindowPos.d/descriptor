@@ -1,0 +1,1 @@
+function _glfwPlatformGetWindowPos void | window int * | xpos int * | ypos int *

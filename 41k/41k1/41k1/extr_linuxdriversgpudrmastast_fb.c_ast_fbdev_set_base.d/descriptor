@@ -1,0 +1,8 @@
+struct ast_private | vram_size long | fbdev struct TYPE_12__ * 
+struct TYPE_10__ | fbdev struct TYPE_11__ * 
+struct TYPE_12__ | helper struct TYPE_10__ 
+struct TYPE_7__ | smem_len long | smem_start long 
+struct TYPE_11__ | fix struct TYPE_7__ | apertures struct TYPE_9__ * 
+struct TYPE_9__ | ranges struct TYPE_8__ * 
+struct TYPE_8__ | base long 
+function ast_fbdev_set_base void | ast struct ast_private * | gpu_addr unsigned long

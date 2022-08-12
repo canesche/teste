@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 60,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 51125,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversclksunxi-ngccu_mp.c_ccu_mp_find_best.d/extr_linuxdriversclksunxi-ngccu_mp.c_ccu_mp_find_best_O0::ccu_mp_find_best(62)"
+  }
+]

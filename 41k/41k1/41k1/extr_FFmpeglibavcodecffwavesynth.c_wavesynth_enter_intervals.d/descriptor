@@ -1,0 +1,3 @@
+struct ws_interval | next int | ts_start long | ts_end long | amp0 int | amp int | dphi0 int | dphi int | phi0 int | phi int 
+struct wavesynth_context | cur_inter int | next_inter int | nb_inter int | next_ts long | inter struct ws_interval * 
+function wavesynth_enter_intervals void | ws struct wavesynth_context * | ts long

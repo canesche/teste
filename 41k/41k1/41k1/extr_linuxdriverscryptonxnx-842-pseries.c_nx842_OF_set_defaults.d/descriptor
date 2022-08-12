@@ -1,0 +1,2 @@
+struct nx842_devdata | max_sg_len long | max_sync_sg long | max_sync_size long 
+function nx842_OF_set_defaults int | devdata struct nx842_devdata *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | mnt_flag int 
+function vfs_flags int | mp struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct arm_smccc_res | a0 int 
+function sdei_is_err int | res struct arm_smccc_res *

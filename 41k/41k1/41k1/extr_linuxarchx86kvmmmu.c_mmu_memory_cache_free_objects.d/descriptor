@@ -1,0 +1,2 @@
+struct kvm_mmu_memory_cache | nobjs int 
+function mmu_memory_cache_free_objects int | cache struct kvm_mmu_memory_cache *

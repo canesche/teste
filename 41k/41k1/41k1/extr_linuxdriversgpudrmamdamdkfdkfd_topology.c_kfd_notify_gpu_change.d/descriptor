@@ -1,0 +1,1 @@
+function kfd_notify_gpu_change void | gpu_id int | arrival int

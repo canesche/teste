@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchm68k68000timers.c_m68328_hwclk.d/extr_linuxarchm68k68000timers.c_m68328_hwclk_O0::m68328_hwclk(62)"
+  }
+]

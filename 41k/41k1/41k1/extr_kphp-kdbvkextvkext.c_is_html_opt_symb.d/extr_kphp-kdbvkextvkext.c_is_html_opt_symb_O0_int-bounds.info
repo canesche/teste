@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 12,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 23,
+    static: {
+      instructions: 63,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 63,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_kphp-kdbvkextvkext.c_is_html_opt_symb.d/extr_kphp-kdbvkextvkext.c_is_html_opt_symb_O0::is_html_opt_symb(59)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_FFmpeglibavcodecmlpenc.c_copy_matrix_params.d/extr_FFmpeglibavcodecmlpenc.c_copy_matrix_params_O0::copy_matrix_params(65)"
+  }
+]

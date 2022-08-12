@@ -1,0 +1,2 @@
+struct device | dummy int 
+function dss_set_min_bus_tput int | dev struct device * | tput unsigned long

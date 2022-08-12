@@ -1,0 +1,2 @@
+struct vnop_searchfs_args | a_nummatches long * 
+function nop_searchfs int | ap struct vnop_searchfs_args *

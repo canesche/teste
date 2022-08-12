@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 66,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_labenginecoderenderergl2tr_extramath.c_NextPowerOfTwo.d/extr_labenginecoderenderergl2tr_extramath.c_NextPowerOfTwo_O0::NextPowerOfTwo(60)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | b_rcred int 
+function buf_rcred int | bp struct TYPE_3__ *

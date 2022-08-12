@@ -1,0 +1,2 @@
+struct stm_fs | ndiv unsigned long 
+function clk_fs660c32_vco_get_params int | input unsigned long | output unsigned long | fs struct stm_fs *

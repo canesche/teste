@@ -1,0 +1,3 @@
+struct packet_info | dummy int 
+struct drbd_connection | dummy int 
+function got_skip int | connection struct drbd_connection * | pi struct packet_info *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | cursor long | state int 
+function bool_parser_init void | parser struct TYPE_3__ *

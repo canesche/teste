@@ -1,0 +1,1 @@
+function necp_buffer_compare_with_bit_prefix int | p1 int * | p2 int * | bits int

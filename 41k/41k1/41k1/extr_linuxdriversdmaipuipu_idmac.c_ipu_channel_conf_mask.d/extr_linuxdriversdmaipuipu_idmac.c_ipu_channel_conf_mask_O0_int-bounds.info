@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversdmaipuipu_idmac.c_ipu_channel_conf_mask.d/extr_linuxdriversdmaipuipu_idmac.c_ipu_channel_conf_mask_O0::ipu_channel_conf_mask(68)"
+  }
+]

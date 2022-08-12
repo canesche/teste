@@ -1,0 +1,2 @@
+struct mem_ctl_info | dummy int 
+function cpc925_mc_exit void | mci struct mem_ctl_info *

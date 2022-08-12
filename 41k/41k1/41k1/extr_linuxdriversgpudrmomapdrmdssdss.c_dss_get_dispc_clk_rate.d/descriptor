@@ -1,0 +1,2 @@
+struct dss_device | dss_clk_rate unsigned long 
+function dss_get_dispc_clk_rate unsigned long | dss struct dss_device *

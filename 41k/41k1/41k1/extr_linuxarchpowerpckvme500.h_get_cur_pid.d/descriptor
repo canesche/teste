@@ -1,0 +1,3 @@
+struct TYPE_2__ | pid int 
+struct kvm_vcpu | arch struct TYPE_2__ 
+function get_cur_pid unsigned int | vcpu struct kvm_vcpu *

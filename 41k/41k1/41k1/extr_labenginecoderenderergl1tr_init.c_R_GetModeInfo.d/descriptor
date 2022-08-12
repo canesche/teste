@@ -1,0 +1,7 @@
+struct TYPE_8__ | width int | height int | pixelAspect float 
+struct TYPE_13__ | integer int 
+struct TYPE_12__ | integer int 
+struct TYPE_11__ | value float 
+struct TYPE_10__ | integer int 
+struct TYPE_9__ | integer int 
+function R_GetModeInfo int | width int * | height int * | buff_width int * | buff_height int * | windowAspect float * | mode int

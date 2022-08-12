@@ -1,0 +1,3 @@
+struct TYPE_4__ | mapCount int | mapList struct TYPE_3__ * 
+struct TYPE_3__ | mapName const char * | active long 
+function UI_SelectedMap const char * | index int | actual int *

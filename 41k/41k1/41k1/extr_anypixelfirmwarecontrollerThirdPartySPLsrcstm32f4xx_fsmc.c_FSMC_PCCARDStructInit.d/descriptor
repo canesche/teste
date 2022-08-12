@@ -1,0 +1,5 @@
+struct TYPE_9__ | FSMC_TCLRSetupTime int | FSMC_TARSetupTime int | FSMC_IOSpaceTimingStruct struct TYPE_8__ * | FSMC_AttributeSpaceTimingStruct struct TYPE_7__ * | FSMC_CommonSpaceTimingStruct struct TYPE_6__ * | FSMC_Waitfeature int 
+struct TYPE_8__ | FSMC_SetupTime int | FSMC_WaitSetupTime int | FSMC_HoldSetupTime int | FSMC_HiZSetupTime int 
+struct TYPE_7__ | FSMC_SetupTime int | FSMC_WaitSetupTime int | FSMC_HoldSetupTime int | FSMC_HiZSetupTime int 
+struct TYPE_6__ | FSMC_SetupTime int | FSMC_WaitSetupTime int | FSMC_HoldSetupTime int | FSMC_HiZSetupTime int 
+function FSMC_PCCARDStructInit void | FSMC_PCCARDInitStruct struct TYPE_9__ *

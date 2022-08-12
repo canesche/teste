@@ -1,0 +1,2 @@
+struct TYPE_3__ | weaponnum long | inventory int * 
+function BotFeelingBad float | bs struct TYPE_3__ *

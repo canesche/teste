@@ -1,0 +1,2 @@
+struct device | dummy int 
+function regmap_ac97_default_volatile int | dev struct device * | reg unsigned int

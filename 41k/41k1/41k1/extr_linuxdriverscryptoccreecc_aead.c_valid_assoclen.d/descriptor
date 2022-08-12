@@ -1,0 +1,2 @@
+struct aead_request | assoclen int 
+function valid_assoclen int | req struct aead_request *

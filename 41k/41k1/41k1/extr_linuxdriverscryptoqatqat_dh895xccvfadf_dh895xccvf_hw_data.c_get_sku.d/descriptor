@@ -1,0 +1,2 @@
+struct adf_hw_device_data | dummy int 
+function get_sku enum dev_sku_info | self struct adf_hw_device_data *

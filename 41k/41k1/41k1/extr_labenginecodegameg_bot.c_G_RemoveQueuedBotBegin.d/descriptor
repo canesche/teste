@@ -1,0 +1,2 @@
+struct TYPE_2__ | clientNum int | spawnTime long 
+function G_RemoveQueuedBotBegin void | clientNum int

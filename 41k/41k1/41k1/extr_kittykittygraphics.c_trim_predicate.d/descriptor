@@ -1,0 +1,2 @@
+struct TYPE_3__ | refcnt int | data_loaded int 
+function trim_predicate int | img struct TYPE_3__ *

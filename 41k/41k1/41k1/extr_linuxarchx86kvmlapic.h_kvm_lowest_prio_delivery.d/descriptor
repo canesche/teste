@@ -1,0 +1,2 @@
+struct kvm_lapic_irq | delivery_mode long | msi_redir_hint long 
+function kvm_lowest_prio_delivery int | irq struct kvm_lapic_irq *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | RTC_Date int | RTC_Year long | RTC_Month int | RTC_WeekDay int 
+function RTC_DateStructInit void | RTC_DateStruct struct TYPE_3__ *

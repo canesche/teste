@@ -1,0 +1,1 @@
+value(vector) == 10, value(signo) == 10, value(err_code) == 10, length(remcom_in_buffer) == 100, length(remcom_out_buffer) == 100, length(linux_regs) == 100

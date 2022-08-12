@@ -1,0 +1,3 @@
+struct TYPE_2__ | dr6 int 
+struct kvm_vcpu | arch struct TYPE_2__ 
+function vmx_get_dr6 int | vcpu struct kvm_vcpu *

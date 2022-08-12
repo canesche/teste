@@ -1,0 +1,2 @@
+struct TYPE_3__ | bpnum int 
+function mrb_debug_get_breaknum int | mrb int * | dbg struct TYPE_3__ *

@@ -1,0 +1,11 @@
+struct TYPE_13__ | IS_TPS4_CAPABLE long | IS_TPS3_CAPABLE long 
+struct TYPE_14__ | bits struct TYPE_13__ 
+struct encoder_feature_support | flags struct TYPE_14__ 
+struct TYPE_10__ | TPS3_SUPPORTED long 
+struct TYPE_11__ | bits struct TYPE_10__ 
+struct TYPE_8__ | TPS4_SUPPORTED long 
+struct TYPE_9__ | bits struct TYPE_8__ 
+struct dpcd_caps | max_ln_count struct TYPE_11__ | max_down_spread struct TYPE_9__ 
+struct dc_link | dpcd_caps struct dpcd_caps | link_enc struct TYPE_12__ * 
+struct TYPE_12__ | features struct encoder_feature_support 
+function get_supported_tp enum hw_dp_training_pattern | link struct dc_link *

@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function ioapic_irqd_mask int | data struct irq_data *

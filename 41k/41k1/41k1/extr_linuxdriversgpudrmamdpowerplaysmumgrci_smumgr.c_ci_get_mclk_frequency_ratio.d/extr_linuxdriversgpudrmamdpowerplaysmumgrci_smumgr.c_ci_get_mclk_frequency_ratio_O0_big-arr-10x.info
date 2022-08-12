@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmamdpowerplaysmumgrci_smumgr.c_ci_get_mclk_frequency_ratio.d/extr_linuxdriversgpudrmamdpowerplaysmumgrci_smumgr.c_ci_get_mclk_frequency_ratio_O0::ci_get_mclk_frequency_ratio(63)"
+  }
+]

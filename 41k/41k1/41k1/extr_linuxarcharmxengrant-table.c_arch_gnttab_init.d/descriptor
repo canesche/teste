@@ -1,0 +1,1 @@
+function arch_gnttab_init int | nr_shared unsigned long | nr_status unsigned long

@@ -1,0 +1,2 @@
+struct TYPE_3__ | size int | rindex_shown int 
+function frame_queue_nb_remaining int | f struct TYPE_3__ *

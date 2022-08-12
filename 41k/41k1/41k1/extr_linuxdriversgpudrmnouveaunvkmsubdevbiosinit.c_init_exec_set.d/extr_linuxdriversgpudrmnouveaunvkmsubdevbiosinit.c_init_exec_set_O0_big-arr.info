@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmnouveaunvkmsubdevbiosinit.c_init_exec_set.d/extr_linuxdriversgpudrmnouveaunvkmsubdevbiosinit.c_init_exec_set_O0::init_exec_set(62)"
+  }
+]

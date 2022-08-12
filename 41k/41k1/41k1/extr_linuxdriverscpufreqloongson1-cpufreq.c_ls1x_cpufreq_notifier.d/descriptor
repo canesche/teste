@@ -1,0 +1,3 @@
+struct notifier_block | dummy int 
+struct TYPE_2__ | udelay_val int 
+function ls1x_cpufreq_notifier int | nb struct notifier_block * | val unsigned long | data void *

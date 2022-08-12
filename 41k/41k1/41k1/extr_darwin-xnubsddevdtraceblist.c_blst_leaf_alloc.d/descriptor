@@ -1,0 +1,3 @@
+struct TYPE_4__ | bmu_bitmap int 
+struct TYPE_5__ | bm_bighint int | u struct TYPE_4__ 
+function blst_leaf_alloc long | scan struct TYPE_5__ * | blk long | count int

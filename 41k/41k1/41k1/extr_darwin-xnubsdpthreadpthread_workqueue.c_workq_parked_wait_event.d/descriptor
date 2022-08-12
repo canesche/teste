@@ -1,0 +1,2 @@
+struct uthread | uu_workq_stackaddr int 
+function workq_parked_wait_event int | uth struct uthread *

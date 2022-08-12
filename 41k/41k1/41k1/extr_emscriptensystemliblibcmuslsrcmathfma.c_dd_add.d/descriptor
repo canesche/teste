@@ -1,0 +1,2 @@
+struct dd | hi double | lo double 
+function dd_add struct dd | a double | b double

@@ -1,0 +1,2 @@
+struct amdgpu_device | dummy int 
+function soc15_vga_set_state void | adev struct amdgpu_device * | state int

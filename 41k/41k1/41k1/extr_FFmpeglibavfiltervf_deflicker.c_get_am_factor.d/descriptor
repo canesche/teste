@@ -1,0 +1,3 @@
+struct TYPE_5__ | priv struct TYPE_4__ * 
+struct TYPE_4__ | size int | luminance float * 
+function get_am_factor void | ctx struct TYPE_5__ * | f float *

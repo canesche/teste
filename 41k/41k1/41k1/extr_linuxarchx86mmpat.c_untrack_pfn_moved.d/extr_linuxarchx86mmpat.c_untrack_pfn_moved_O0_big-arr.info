@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchx86mmpat.c_untrack_pfn_moved.d/extr_linuxarchx86mmpat.c_untrack_pfn_moved_O0::untrack_pfn_moved(62)"
+  }
+]

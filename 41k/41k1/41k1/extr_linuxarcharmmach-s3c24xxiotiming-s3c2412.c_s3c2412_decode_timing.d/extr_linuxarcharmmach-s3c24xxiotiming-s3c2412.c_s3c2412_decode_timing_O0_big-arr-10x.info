@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarcharmmach-s3c24xxiotiming-s3c2412.c_s3c2412_decode_timing.d/extr_linuxarcharmmach-s3c24xxiotiming-s3c2412.c_s3c2412_decode_timing_O0::s3c2412_decode_timing(61)"
+  }
+]

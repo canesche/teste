@@ -1,0 +1,3 @@
+struct bp_external_encoder_control | dummy int 
+struct bios_parser | dummy int 
+function external_encoder_control_v3 enum bp_result | bp struct bios_parser * | cntl struct bp_external_encoder_control *

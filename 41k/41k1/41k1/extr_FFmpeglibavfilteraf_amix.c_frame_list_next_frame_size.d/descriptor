@@ -1,0 +1,3 @@
+struct TYPE_5__ | list struct TYPE_4__ * 
+struct TYPE_4__ | nb_samples int 
+function frame_list_next_frame_size int | frame_list struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct drm_encoder | dummy int 
+function mga_encoder_dpms void | encoder struct drm_encoder * | state int

@@ -1,0 +1,2 @@
+struct fileproc | dummy int 
+function noop_select int | fp struct fileproc * | which int | wql void * | ctx int

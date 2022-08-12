@@ -1,0 +1,2 @@
+struct TYPE_4__ | partitioned_frame int | progressive_frame int | frame_pred_frame_dct int | gop_picture_number int | picture_in_gop_number int | lambda2 int | lambda int | qscale int | b_code int | f_code int | current_picture int | pict_type int 
+function update_duplicate_context_after_me void | dst struct TYPE_4__ * | src struct TYPE_4__ *

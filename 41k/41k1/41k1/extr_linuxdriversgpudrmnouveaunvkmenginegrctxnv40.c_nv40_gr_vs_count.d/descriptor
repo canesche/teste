@@ -1,0 +1,2 @@
+struct nvkm_device | chipset int 
+function nv40_gr_vs_count int | device struct nvkm_device *

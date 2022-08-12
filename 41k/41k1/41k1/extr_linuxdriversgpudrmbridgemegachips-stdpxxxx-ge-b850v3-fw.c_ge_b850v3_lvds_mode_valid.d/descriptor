@@ -1,0 +1,3 @@
+struct drm_display_mode | dummy int 
+struct drm_connector | dummy int 
+function ge_b850v3_lvds_mode_valid enum drm_mode_status | connector struct drm_connector * | mode struct drm_display_mode *

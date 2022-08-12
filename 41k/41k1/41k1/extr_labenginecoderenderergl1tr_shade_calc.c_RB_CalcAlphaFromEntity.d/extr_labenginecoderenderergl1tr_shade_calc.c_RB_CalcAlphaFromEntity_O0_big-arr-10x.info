@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_labenginecoderenderergl1tr_shade_calc.c_RB_CalcAlphaFromEntity.d/extr_labenginecoderenderergl1tr_shade_calc.c_RB_CalcAlphaFromEntity_O0::RB_CalcAlphaFromEntity(70)"
+  }
+]

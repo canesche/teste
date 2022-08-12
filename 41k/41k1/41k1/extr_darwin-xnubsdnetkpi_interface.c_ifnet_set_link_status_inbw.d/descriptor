@@ -1,0 +1,8 @@
+struct TYPE_10__ | eff_bw long | max_bw long 
+struct ifnet | if_input_bw struct TYPE_10__ | if_link_status struct TYPE_9__ * 
+struct if_wifi_status_v1 | dl_effective_bandwidth long | dl_max_bandwidth long | valid_bitmask int 
+struct TYPE_6__ | if_status_v1 struct if_wifi_status_v1 
+struct TYPE_7__ | if_wifi_u struct TYPE_6__ 
+struct TYPE_8__ | ifsr_wifi struct TYPE_7__ 
+struct TYPE_9__ | ifsr_u struct TYPE_8__ 
+function ifnet_set_link_status_inbw void | ifp struct ifnet *

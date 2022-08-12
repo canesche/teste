@@ -1,0 +1,2 @@
+struct TYPE_3__ | modeCount int | modes int * 
+function _glfwPlatformGetVideoModes int * | monitor struct TYPE_3__ * | found int *

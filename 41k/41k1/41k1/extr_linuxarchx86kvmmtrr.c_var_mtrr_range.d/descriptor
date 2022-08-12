@@ -1,0 +1,2 @@
+struct kvm_mtrr_range | base int | mask int 
+function var_mtrr_range void | range struct kvm_mtrr_range * | start int * | end int *

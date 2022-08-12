@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_emscriptentestsnbody-javanative_org_xmlvm_runtime_XMLVMArray.c_XMLVMArray_getTypeInfo.d/extr_emscriptentestsnbody-javanative_org_xmlvm_runtime_XMLVMArray.c_XMLVMArray_getTypeInfo_O0::XMLVMArray_getTypeInfo(78)"
+  }
+]

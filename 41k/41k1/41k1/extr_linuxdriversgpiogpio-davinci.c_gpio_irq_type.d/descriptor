@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function gpio_irq_type int | d struct irq_data * | trigger unsigned int

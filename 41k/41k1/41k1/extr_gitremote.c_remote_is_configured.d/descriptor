@@ -1,0 +1,2 @@
+struct remote | configured_in_repo int | origin int 
+function remote_is_configured int | remote struct remote * | in_repo int

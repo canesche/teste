@@ -1,0 +1,1 @@
+function drbd_set_st_err_str const char * | err enum drbd_state_rv

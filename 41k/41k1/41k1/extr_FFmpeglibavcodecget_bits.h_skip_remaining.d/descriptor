@@ -1,0 +1,2 @@
+struct TYPE_3__ | cache unsigned int | bits_left unsigned int 
+function skip_remaining void | s struct TYPE_3__ * | n unsigned int

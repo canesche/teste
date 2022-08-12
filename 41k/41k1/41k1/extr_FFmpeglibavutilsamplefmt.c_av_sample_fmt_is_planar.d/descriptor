@@ -1,0 +1,2 @@
+struct TYPE_2__ | planar int 
+function av_sample_fmt_is_planar int | sample_fmt enum AVSampleFormat

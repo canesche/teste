@@ -1,0 +1,2 @@
+struct mce | dummy int 
+function apei_read_mce int | m struct mce * | record_id int *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | dtb_drops int 
+function dtrace_buffer_drop void | buf struct TYPE_3__ *

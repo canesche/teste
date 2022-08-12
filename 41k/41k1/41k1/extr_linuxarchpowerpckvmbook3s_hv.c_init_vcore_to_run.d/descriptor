@@ -1,0 +1,2 @@
+struct kvmppc_vcore | tb_offset_applied long | conferring_threads long | napping_threads long | in_guest long | entry_exit_map long 
+function init_vcore_to_run void | vc struct kvmppc_vcore *

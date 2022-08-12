@@ -1,0 +1,2 @@
+struct TYPE_3__ | uio_resid_64 int 
+function uio_setresid void | a_uio struct TYPE_3__ * | a_value int

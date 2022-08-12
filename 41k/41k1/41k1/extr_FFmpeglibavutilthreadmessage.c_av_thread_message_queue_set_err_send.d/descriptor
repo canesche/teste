@@ -1,0 +1,1 @@
+function av_thread_message_queue_set_err_send void | mq int * | err int

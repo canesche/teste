@@ -1,0 +1,2 @@
+struct nvkm_ior | id int 
+function nv50_ior_base int | ior struct nvkm_ior *

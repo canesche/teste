@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_gitbuiltinindex-pack.c_compare_ofs_delta_bases.d/extr_gitbuiltinindex-pack.c_compare_ofs_delta_bases_O0::compare_ofs_delta_bases(64)"
+  }
+]

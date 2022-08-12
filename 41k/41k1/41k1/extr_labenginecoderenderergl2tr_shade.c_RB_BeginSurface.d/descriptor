@@ -1,0 +1,6 @@
+struct TYPE_9__ | timeOffset long | clampTime long | optimalStageIteratorFunc int | numUnfoggedPasses int | stages int | remappedShader struct TYPE_9__ * 
+struct TYPE_8__ | flags int 
+struct TYPE_7__ | floatTime long 
+struct TYPE_11__ | viewParms struct TYPE_8__ | refdef struct TYPE_7__ 
+struct TYPE_10__ | fogNum int | cubemapIndex int | shaderTime long | currentStageIteratorFunc int | shader struct TYPE_9__ * | useCacheVao int | useInternalVao int | numPasses int | xstages int | pshadowBits long | dlightBits long | numVertexes long | firstIndex long | numIndexes long 
+function RB_BeginSurface void | shader struct TYPE_9__ * | fogNum int | cubemapIndex int

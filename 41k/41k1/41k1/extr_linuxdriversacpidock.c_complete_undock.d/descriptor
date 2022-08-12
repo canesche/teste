@@ -1,0 +1,2 @@
+struct dock_station | flags int 
+function complete_undock void | ds struct dock_station *

@@ -1,0 +1,2 @@
+struct ifqueue | dummy int 
+function pf_check_congestion int | ifq struct ifqueue *

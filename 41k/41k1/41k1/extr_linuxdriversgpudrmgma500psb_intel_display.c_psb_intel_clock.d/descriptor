@@ -1,0 +1,2 @@
+struct gma_clock_t | m int | m1 int | m2 int | p int | p1 int | p2 int | vco int | n int | dot int 
+function psb_intel_clock void | refclk int | clock struct gma_clock_t *

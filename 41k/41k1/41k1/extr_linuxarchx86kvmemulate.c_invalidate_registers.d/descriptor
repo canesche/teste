@@ -1,0 +1,2 @@
+struct x86_emulate_ctxt | regs_valid long | regs_dirty long 
+function invalidate_registers void | ctxt struct x86_emulate_ctxt *

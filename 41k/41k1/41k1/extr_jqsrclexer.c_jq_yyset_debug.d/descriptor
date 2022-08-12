@@ -1,0 +1,2 @@
+struct yyguts_t | dummy int 
+function yyset_debug void | _bdebug int | yyscanner long

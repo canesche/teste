@@ -1,0 +1,2 @@
+struct drm_i915_private | dummy int 
+function display_pipe_crc_irq_handler void | dev_priv struct drm_i915_private * | pipe enum pipe | crc0 int | crc1 int | crc2 int | crc3 int | crc4 int

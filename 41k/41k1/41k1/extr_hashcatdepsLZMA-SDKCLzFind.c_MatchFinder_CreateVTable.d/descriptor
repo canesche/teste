@@ -1,0 +1,3 @@
+struct TYPE_6__ | numHashBytes int | btMode int 
+struct TYPE_5__ | Skip void * | GetMatches void * | GetPointerToCurrentPos long | GetNumAvailableBytes long | Init long 
+function MatchFinder_CreateVTable void | p struct TYPE_6__ * | vTable struct TYPE_5__ *

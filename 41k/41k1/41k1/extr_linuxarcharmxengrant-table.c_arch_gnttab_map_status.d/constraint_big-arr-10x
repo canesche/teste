@@ -1,0 +1,1 @@
+value(nr_gframes) == 10, value(max_nr_gframes) == 10, length(frames) == 100, length(__shared) == 100

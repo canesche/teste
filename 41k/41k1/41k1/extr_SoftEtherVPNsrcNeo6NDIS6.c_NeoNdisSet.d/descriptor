@@ -1,0 +1,2 @@
+struct TYPE_2__ | CurrentPacketFilter int 
+function NeoNdisSet int | MiniportAdapterContext int | Oid int | InformationBuffer void * | InformationBufferLength int | BytesRead int * | BytesNeeded int *

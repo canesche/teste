@@ -1,0 +1,2 @@
+struct fpga_manager | dummy int 
+function fme_mgr_state enum fpga_mgr_states | mgr struct fpga_manager *

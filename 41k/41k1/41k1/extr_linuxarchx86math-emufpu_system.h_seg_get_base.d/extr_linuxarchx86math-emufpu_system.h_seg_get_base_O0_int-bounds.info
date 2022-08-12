@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchx86math-emufpu_system.h_seg_get_base.d/extr_linuxarchx86math-emufpu_system.h_seg_get_base_O0::seg_get_base(61)"
+  }
+]

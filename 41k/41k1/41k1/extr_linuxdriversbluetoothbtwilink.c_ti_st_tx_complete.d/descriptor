@@ -1,0 +1,4 @@
+struct ti_st | hdev struct hci_dev * 
+struct TYPE_2__ | sco_tx int | acl_tx int | cmd_tx int 
+struct hci_dev | stat struct TYPE_2__ 
+function ti_st_tx_complete void | hst struct ti_st * | pkt_type int

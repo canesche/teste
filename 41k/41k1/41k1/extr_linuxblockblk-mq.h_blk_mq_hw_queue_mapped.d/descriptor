@@ -1,0 +1,2 @@
+struct blk_mq_hw_ctx | tags long | nr_ctx long 
+function blk_mq_hw_queue_mapped int | hctx struct blk_mq_hw_ctx *

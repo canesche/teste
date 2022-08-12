@@ -1,0 +1,1 @@
+function legacy_pic_irq_pending_noop int | irq unsigned int

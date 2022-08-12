@@ -1,0 +1,3 @@
+struct TYPE_4__ | surf int | contents void * | texinfo long 
+struct TYPE_5__ | numsides int | original_sides struct TYPE_4__ * | contents void * 
+function MakeAreaPortalBrush void | brush struct TYPE_5__ *

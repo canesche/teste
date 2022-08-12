@@ -1,0 +1,3 @@
+struct ip6_fw | fw_flg int | fw_icmp6types unsigned int * 
+struct icmp6_hdr | icmp6_type int 
+function icmp6type_match int | icmp6 struct icmp6_hdr * | f struct ip6_fw *

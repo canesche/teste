@@ -1,0 +1,2 @@
+struct file | dummy int 
+function mmapper_ioctl long | file struct file * | cmd unsigned int | arg unsigned long

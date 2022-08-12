@@ -1,0 +1,2 @@
+struct fw_address_handler | offset unsigned long long | length unsigned long long 
+function is_enclosing_handler int | handler struct fw_address_handler * | offset unsigned long long | length unsigned long

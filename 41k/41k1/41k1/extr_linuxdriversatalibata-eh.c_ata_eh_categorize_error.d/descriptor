@@ -1,0 +1,1 @@
+function ata_eh_categorize_error int | eflags unsigned int | err_mask unsigned int | xfer_ok int *

@@ -1,0 +1,5 @@
+struct cpuidle_state_usage | disable long 
+struct cpuidle_state | exit_latency unsigned int | flags unsigned int | enter_s2idle int | disabled long 
+struct cpuidle_driver | state_count int | states struct cpuidle_state * 
+struct cpuidle_device | states_usage struct cpuidle_state_usage * 
+function find_deepest_state int | drv struct cpuidle_driver * | dev struct cpuidle_device * | max_latency unsigned int | forbidden_flags unsigned int | s2idle int

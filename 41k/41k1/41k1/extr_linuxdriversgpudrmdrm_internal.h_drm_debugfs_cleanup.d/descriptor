@@ -1,0 +1,2 @@
+struct drm_minor | dummy int 
+function drm_debugfs_cleanup int | minor struct drm_minor *

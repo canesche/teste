@@ -1,0 +1,4 @@
+struct drbd_device | al_tr_number unsigned int | ldev struct TYPE_3__ * 
+struct TYPE_4__ | al_stripes unsigned int | al_stripe_size_4k unsigned int | al_size_4k unsigned int | al_offset long | md_offset long 
+struct TYPE_3__ | md struct TYPE_4__ 
+function al_tr_number_to_on_disk_sector long | device struct drbd_device *

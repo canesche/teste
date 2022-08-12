@@ -1,0 +1,2 @@
+struct zram | dummy int 
+function zram_wb_enabled int | zram struct zram *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmamdpowerplayhwmgrvega10_hwmgr.c_vega10_get_clock_by_type_with_voltage.d/extr_linuxdriversgpudrmamdpowerplayhwmgrvega10_hwmgr.c_vega10_get_clock_by_type_with_voltage_O0::vega10_get_clock_by_type_with_voltage(81)"
+  }
+]

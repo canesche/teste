@@ -1,0 +1,2 @@
+struct usb_bus | dummy int 
+function pxa310_start_otg_hc int | host struct usb_bus *

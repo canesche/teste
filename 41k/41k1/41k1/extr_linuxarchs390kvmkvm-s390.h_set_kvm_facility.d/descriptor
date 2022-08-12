@@ -1,0 +1,1 @@
+function set_kvm_facility int | fac_list int * | nr unsigned long

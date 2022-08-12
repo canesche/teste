@@ -1,0 +1,2 @@
+struct dpu_hw_cdm_ops | disable int | enable int | setup_cdwn int | setup_csc_data int 
+function _setup_cdm_ops void | ops struct dpu_hw_cdm_ops * | features unsigned long

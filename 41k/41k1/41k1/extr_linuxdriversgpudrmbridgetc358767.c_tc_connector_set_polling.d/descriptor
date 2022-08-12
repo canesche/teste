@@ -1,0 +1,3 @@
+struct tc_data | dummy int 
+struct drm_connector | polled int 
+function tc_connector_set_polling void | tc struct tc_data * | connector struct drm_connector *

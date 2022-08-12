@@ -1,0 +1,3 @@
+struct pf_rule | match_tag int | match_tag_not long 
+struct pf_mtag | pftag_tag int 
+function pf_match_tag int | r struct pf_rule * | pf_mtag struct pf_mtag * | tag int *

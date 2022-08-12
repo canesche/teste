@@ -1,0 +1,4 @@
+struct rbd_obj_request | img_request struct TYPE_2__ * | osd_req struct ceph_osd_request * 
+struct ceph_osd_request | r_snapid int | r_flags int 
+struct TYPE_2__ | snap_id int 
+function rbd_osd_req_format_read void | obj_request struct rbd_obj_request *

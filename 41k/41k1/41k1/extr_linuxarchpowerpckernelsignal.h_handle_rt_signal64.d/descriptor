@@ -1,0 +1,3 @@
+struct task_struct | dummy int 
+struct ksignal | dummy int 
+function handle_rt_signal64 int | ksig struct ksignal * | set int * | tsk struct task_struct *

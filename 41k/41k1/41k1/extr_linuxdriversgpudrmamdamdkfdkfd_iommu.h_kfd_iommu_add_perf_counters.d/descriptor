@@ -1,0 +1,2 @@
+struct kfd_topology_device | dummy int 
+function kfd_iommu_add_perf_counters int | kdev struct kfd_topology_device *

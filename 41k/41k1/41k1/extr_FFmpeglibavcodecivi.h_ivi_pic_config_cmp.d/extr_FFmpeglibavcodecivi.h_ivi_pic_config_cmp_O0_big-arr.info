@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 9,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 64,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 64,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_FFmpeglibavcodecivi.h_ivi_pic_config_cmp.d/extr_FFmpeglibavcodecivi.h_ivi_pic_config_cmp_O0::ivi_pic_config_cmp(63)"
+  }
+]

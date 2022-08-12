@@ -1,0 +1,1 @@
+function pthread_condattr_destroy int | a int *

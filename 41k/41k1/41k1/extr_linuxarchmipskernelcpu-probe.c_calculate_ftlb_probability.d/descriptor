@@ -1,0 +1,2 @@
+struct cpuinfo_mips | tlbsize unsigned int | tlbsizevtlb unsigned int 
+function calculate_ftlb_probability unsigned int | c struct cpuinfo_mips *

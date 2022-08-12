@@ -1,0 +1,2 @@
+struct cpuinfo_x86 | dummy int 
+function intel_workarounds void | c struct cpuinfo_x86 *

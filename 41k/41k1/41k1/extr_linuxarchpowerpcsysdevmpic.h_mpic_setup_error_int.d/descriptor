@@ -1,0 +1,2 @@
+struct mpic | dummy int 
+function mpic_setup_error_int int | mpic struct mpic * | intvec int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnutestskqueue_file_tests.c_get_action_name.d/extr_darwin-xnutestskqueue_file_tests.c_get_action_name_O0::get_action_name(89)"
+  }
+]

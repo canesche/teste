@@ -1,0 +1,3 @@
+struct drm_device | pdev struct TYPE_2__ * 
+struct TYPE_2__ | device unsigned int | subsystem_vendor unsigned int | subsystem_device unsigned int 
+function nv_match_device int | dev struct drm_device * | device unsigned int | sub_vendor unsigned int | sub_device unsigned int

@@ -1,0 +1,3 @@
+struct nfit_set_info_map | dummy int 
+struct nfit_set_info | dummy int 
+function sizeof_nfit_set_info unsigned long | num_mappings int

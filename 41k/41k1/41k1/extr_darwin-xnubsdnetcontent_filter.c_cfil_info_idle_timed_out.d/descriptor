@@ -1,0 +1,3 @@
+struct cfil_info | cfi_hash_entry struct TYPE_2__ * 
+struct TYPE_2__ | cfentry_lastused long 
+function cfil_info_idle_timed_out int | cfil_info struct cfil_info * | timeout int | current_time long

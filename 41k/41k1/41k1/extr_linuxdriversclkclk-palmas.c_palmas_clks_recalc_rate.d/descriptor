@@ -1,0 +1,2 @@
+struct clk_hw | dummy int 
+function palmas_clks_recalc_rate unsigned long | hw struct clk_hw * | parent_rate unsigned long

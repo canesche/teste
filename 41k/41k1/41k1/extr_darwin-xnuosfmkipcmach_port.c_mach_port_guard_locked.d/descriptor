@@ -1,0 +1,2 @@
+struct TYPE_3__ | ip_guarded int | ip_strict_guard int | ip_context long 
+function mach_port_guard_locked int | port struct TYPE_3__ * | guard long | strict long

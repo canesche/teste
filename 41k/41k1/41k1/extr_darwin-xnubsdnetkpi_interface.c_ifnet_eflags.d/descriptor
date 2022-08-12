@@ -1,0 +1,2 @@
+struct TYPE_3__ | if_eflags int 
+function ifnet_eflags int | interface struct TYPE_3__ *

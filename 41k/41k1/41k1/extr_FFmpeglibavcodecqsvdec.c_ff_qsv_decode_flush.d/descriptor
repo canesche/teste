@@ -1,0 +1,2 @@
+struct TYPE_3__ | orig_pix_fmt int 
+function ff_qsv_decode_flush void | avctx int * | q struct TYPE_3__ *

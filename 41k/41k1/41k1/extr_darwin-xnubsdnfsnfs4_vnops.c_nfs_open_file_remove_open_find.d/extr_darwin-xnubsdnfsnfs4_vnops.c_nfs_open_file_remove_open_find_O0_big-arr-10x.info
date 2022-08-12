@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 9,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 55,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 55,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnubsdnfsnfs4_vnops.c_nfs_open_file_remove_open_find.d/extr_darwin-xnubsdnfsnfs4_vnops.c_nfs_open_file_remove_open_find_O0::nfs_open_file_remove_open_find(75)"
+  }
+]

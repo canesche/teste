@@ -1,0 +1,1 @@
+function s390_classify_syscall int | syscall unsigned int

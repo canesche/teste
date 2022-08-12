@@ -1,0 +1,2 @@
+struct intel_dp | max_link_lane_count int 
+function intel_dp_max_lane_count int | intel_dp struct intel_dp *

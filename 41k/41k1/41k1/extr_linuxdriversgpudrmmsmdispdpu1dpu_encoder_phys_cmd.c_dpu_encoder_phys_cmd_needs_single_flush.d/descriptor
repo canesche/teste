@@ -1,0 +1,2 @@
+struct dpu_encoder_phys | dummy int 
+function dpu_encoder_phys_cmd_needs_single_flush int | phys_enc struct dpu_encoder_phys *

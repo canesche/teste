@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_h2odepsklibbgzf.c_bgzf_set_cache_size.d/extr_h2odepsklibbgzf.c_bgzf_set_cache_size_O0::bgzf_set_cache_size(63)"
+  }
+]

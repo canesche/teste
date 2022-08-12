@@ -1,0 +1,2 @@
+struct counter | valid_until int | mask_subcnt unsigned long long | subcnt int * 
+function serialize_subcnt_list_raw int * | ptr int * | C struct counter *

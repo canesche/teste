@@ -1,0 +1,2 @@
+struct TYPE_3__ | progress_cb_payload void * | progress_cb int 
+function git_packbuilder_set_callbacks int | pb struct TYPE_3__ * | progress_cb int | progress_cb_payload void *

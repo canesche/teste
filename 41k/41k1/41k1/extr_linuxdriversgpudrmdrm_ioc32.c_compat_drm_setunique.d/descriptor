@@ -1,0 +1,2 @@
+struct file | dummy int 
+function compat_drm_setunique int | file struct file * | cmd unsigned int | arg unsigned long

@@ -1,0 +1,1 @@
+function spu2_gcm_ccm_pad_len int | cipher_mode enum spu_cipher_mode | data_size unsigned int

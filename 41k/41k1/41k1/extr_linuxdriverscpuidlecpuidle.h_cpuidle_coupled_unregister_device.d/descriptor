@@ -1,0 +1,2 @@
+struct cpuidle_device | dummy int 
+function cpuidle_coupled_unregister_device void | dev struct cpuidle_device *

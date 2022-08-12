@@ -1,0 +1,2 @@
+struct fw_descriptor | length unsigned long | immediate long 
+function required_space unsigned long | desc struct fw_descriptor *

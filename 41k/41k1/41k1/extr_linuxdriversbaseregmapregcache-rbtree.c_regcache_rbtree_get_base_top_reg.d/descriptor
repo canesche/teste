@@ -1,0 +1,3 @@
+struct regmap | reg_stride int 
+struct regcache_rbtree_node | base_reg unsigned int | blklen int 
+function regcache_rbtree_get_base_top_reg void | map struct regmap * | rbnode struct regcache_rbtree_node * | base unsigned int * | top unsigned int *

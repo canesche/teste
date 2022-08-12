@@ -1,0 +1,2 @@
+struct sii8620 | mode long 
+function sii8620_is_mhl3 int | ctx struct sii8620 *

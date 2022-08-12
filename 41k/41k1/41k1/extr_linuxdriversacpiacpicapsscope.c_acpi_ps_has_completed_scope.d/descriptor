@@ -1,0 +1,4 @@
+struct acpi_parse_state | aml long | scope struct TYPE_4__ * 
+struct TYPE_3__ | arg_end long | arg_count int 
+struct TYPE_4__ | parse_scope struct TYPE_3__ 
+function acpi_ps_has_completed_scope int | parser_state struct acpi_parse_state *

@@ -1,0 +1,2 @@
+struct kvm | dummy int 
+function kvm_age_hva_pr int | kvm struct kvm * | start unsigned long | end unsigned long

@@ -1,0 +1,3 @@
+struct TYPE_2__ | alignment_offset unsigned int | physical_block_size int | misaligned long 
+struct request_queue | limits struct TYPE_2__ 
+function blk_queue_alignment_offset void | q struct request_queue * | offset unsigned int

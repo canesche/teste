@@ -1,0 +1,2 @@
+struct kgd_dev | dummy int 
+function set_scratch_backing_va void | kgd struct kgd_dev * | va int | vmid int

@@ -1,0 +1,3 @@
+struct zx_pll_config | rate unsigned long 
+struct clk_zx_pll | count int | lookup_table struct zx_pll_config * 
+function rate_to_idx int | zx_pll struct clk_zx_pll * | rate unsigned long

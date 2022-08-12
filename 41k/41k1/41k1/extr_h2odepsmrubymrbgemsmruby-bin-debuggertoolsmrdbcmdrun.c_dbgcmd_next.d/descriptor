@@ -1,0 +1,5 @@
+struct TYPE_9__ | dbg struct TYPE_7__ * 
+struct TYPE_10__ | c struct TYPE_8__ * 
+struct TYPE_8__ | ci int 
+struct TYPE_7__ | prvci int | xm int 
+function dbgcmd_next int | mrb struct TYPE_10__ * | mrdb struct TYPE_9__ *

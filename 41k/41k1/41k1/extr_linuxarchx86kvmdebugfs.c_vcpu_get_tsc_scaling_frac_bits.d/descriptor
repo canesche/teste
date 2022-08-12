@@ -1,0 +1,1 @@
+function vcpu_get_tsc_scaling_frac_bits int | data void * | val int *

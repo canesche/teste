@@ -1,0 +1,3 @@
+struct metafile_header_old | key_len int 
+struct metafile_header | crc32 long | key_len int 
+function upgrade_header void | x struct metafile_header *

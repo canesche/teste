@@ -1,0 +1,2 @@
+struct apm_queue | event_head long | event_tail long 
+function queue_empty int | q struct apm_queue *

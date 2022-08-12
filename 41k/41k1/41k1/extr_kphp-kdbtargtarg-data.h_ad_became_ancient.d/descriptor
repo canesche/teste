@@ -1,0 +1,2 @@
+struct advert | flags int | disabled_since long 
+function ad_became_ancient int | A struct advert *

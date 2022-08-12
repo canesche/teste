@@ -1,0 +1,2 @@
+struct TYPE_3__ | validJD int | Y int | M int | D int | h int | m int | s int | tz int | validTZ long | validHMS long | validYMD long | iJD long 
+function computeJD void | p struct TYPE_3__ *

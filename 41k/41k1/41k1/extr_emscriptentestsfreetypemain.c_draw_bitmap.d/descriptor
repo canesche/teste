@@ -1,0 +1,2 @@
+struct TYPE_3__ | width unsigned long | rows unsigned long | buffer int * 
+function draw_bitmap void | bitmap struct TYPE_3__ * | x unsigned long | y unsigned long

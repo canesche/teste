@@ -1,0 +1,1 @@
+function encode_length_of_pair char * | p char * | len unsigned long

@@ -1,0 +1,3 @@
+struct smu8_hwmgr | disp_clk_bypass_pending int | disp_clk_bypass int 
+struct pp_hwmgr | backend struct smu8_hwmgr * 
+function smu8_power_up_display_clock_sys_pll void | hwmgr struct pp_hwmgr *

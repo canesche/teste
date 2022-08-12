@@ -1,0 +1,2 @@
+struct drm_encoder | dummy int 
+function exynos_dp_nop void | encoder struct drm_encoder *

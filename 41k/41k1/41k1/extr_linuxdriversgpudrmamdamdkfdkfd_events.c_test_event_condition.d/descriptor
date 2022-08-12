@@ -1,0 +1,2 @@
+struct kfd_event_waiter | activated long | event int 
+function test_event_condition unsigned long | all int | num_events unsigned long | event_waiters struct kfd_event_waiter *

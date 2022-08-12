@@ -1,0 +1,2 @@
+struct TYPE_3__ | frame_type long 
+function is_nonnull_frame int | ctx struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct ata_host | dummy int 
+function ata_acpi_dissociate void | host struct ata_host *

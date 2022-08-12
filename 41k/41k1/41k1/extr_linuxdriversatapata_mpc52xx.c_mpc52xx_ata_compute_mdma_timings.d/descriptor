@@ -1,0 +1,4 @@
+struct mpc52xx_ata_timings | mdma1 int | mdma2 int | using_udma long 
+struct mpc52xx_ata_priv | mdmaspec struct mdmaspec * | timings struct mpc52xx_ata_timings * 
+struct mdmaspec | tm int | tn long | tj long | th long | tkw long | td long | t0M long 
+function mpc52xx_ata_compute_mdma_timings int | priv struct mpc52xx_ata_priv * | dev int | speed int

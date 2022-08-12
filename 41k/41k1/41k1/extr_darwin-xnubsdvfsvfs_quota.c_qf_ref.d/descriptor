@@ -1,0 +1,2 @@
+struct quotafile | qf_qflags int | qf_vp long | qf_refcnt int 
+function qf_ref int | qfp struct quotafile *

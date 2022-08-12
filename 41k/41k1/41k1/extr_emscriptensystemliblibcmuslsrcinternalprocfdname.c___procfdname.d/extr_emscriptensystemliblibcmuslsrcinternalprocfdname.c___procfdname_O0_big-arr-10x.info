@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 57,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 255,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_emscriptensystemliblibcmuslsrcinternalprocfdname.c___procfdname.d/extr_emscriptensystemliblibcmuslsrcinternalprocfdname.c___procfdname_O0::__procfdname(60)"
+  }
+]

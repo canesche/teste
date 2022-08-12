@@ -1,0 +1,2 @@
+struct TYPE_3__ | frame_wanted_out int 
+function ff_outlink_frame_wanted int | link struct TYPE_3__ *

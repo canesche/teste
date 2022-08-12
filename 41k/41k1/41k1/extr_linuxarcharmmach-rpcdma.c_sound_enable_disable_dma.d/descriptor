@@ -1,0 +1,1 @@
+function sound_enable_disable_dma void | chan unsigned int | dma int *

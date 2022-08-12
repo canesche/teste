@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversbluetoothbt3c_cs.c_bt3c_hci_open.d/extr_linuxdriversbluetoothbt3c_cs.c_bt3c_hci_open_O0::bt3c_hci_open(61)"
+  }
+]

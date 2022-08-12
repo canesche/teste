@@ -1,0 +1,4 @@
+struct TYPE_2__ | mode int | output_mode int | range long | size long 
+struct nv50_head_atom | olut struct TYPE_2__ 
+struct nv50_head | dummy int 
+function headc37d_olut void | head struct nv50_head * | asyh struct nv50_head_atom *

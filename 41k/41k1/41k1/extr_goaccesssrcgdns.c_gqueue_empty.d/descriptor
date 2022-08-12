@@ -1,0 +1,2 @@
+struct TYPE_3__ | size long 
+function gqueue_empty int | q struct TYPE_3__ *

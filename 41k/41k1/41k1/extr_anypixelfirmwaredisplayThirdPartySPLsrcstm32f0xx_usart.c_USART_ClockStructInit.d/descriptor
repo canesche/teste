@@ -1,0 +1,2 @@
+struct TYPE_3__ | USART_LastBit int | USART_CPHA int | USART_CPOL int | USART_Clock int 
+function USART_ClockStructInit void | USART_ClockInitStruct struct TYPE_3__ *

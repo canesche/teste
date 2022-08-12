@@ -1,0 +1,2 @@
+struct nbpf_channel | dmarq_cfg int | flags long | terminal long 
+function nbpf_chan_prepare_default void | chan struct nbpf_channel *

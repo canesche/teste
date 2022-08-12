@@ -1,0 +1,2 @@
+struct TYPE_3__ | coeff double | count double 
+function predict_size double | p struct TYPE_3__ * | q double | var double

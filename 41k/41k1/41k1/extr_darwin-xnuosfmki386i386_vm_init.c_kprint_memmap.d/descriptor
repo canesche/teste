@@ -1,0 +1,1 @@
+function kprint_memmap void | maddr int | msize unsigned int | mcount unsigned int

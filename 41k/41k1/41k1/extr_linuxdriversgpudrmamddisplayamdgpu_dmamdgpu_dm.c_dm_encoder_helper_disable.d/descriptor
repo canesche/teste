@@ -1,0 +1,2 @@
+struct drm_encoder | dummy int 
+function dm_encoder_helper_disable void | encoder struct drm_encoder *

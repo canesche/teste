@@ -1,0 +1,2 @@
+struct connection | dummy int 
+function htc_default_becomes_ready int | c struct connection *

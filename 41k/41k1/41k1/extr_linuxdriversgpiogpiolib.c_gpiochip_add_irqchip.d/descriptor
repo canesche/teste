@@ -1,0 +1,3 @@
+struct lock_class_key | dummy int 
+struct gpio_chip | dummy int 
+function gpiochip_add_irqchip int | gpiochip struct gpio_chip * | lock_key struct lock_class_key * | request_key struct lock_class_key *

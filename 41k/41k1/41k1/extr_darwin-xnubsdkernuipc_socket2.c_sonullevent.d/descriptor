@@ -1,0 +1,2 @@
+struct socket | dummy int 
+function sonullevent void | so struct socket * | arg void * | hint int

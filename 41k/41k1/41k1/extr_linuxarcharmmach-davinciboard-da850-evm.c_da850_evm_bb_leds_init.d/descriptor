@@ -1,0 +1,2 @@
+struct gpio_led | gpio unsigned int | name int 
+function da850_evm_bb_leds_init void | gpio unsigned int

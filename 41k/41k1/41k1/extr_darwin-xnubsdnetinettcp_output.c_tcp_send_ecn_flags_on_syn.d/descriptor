@@ -1,0 +1,3 @@
+struct tcpcb | ecn_flags int | t_flagsext int 
+struct socket | so_flags int 
+function tcp_send_ecn_flags_on_syn int | tp struct tcpcb * | so struct socket *

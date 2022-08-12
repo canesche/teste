@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarcharmmach-omap2prminst44xx.c_omap4_prminst_set_prm_dev_inst.d/extr_linuxarcharmmach-omap2prminst44xx.c_omap4_prminst_set_prm_dev_inst_O0::omap4_prminst_set_prm_dev_inst(62)"
+  }
+]

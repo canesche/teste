@@ -1,0 +1,3 @@
+struct vmcb_control_area | virt_ext int | nested_cr3 int | event_inj_err int | event_inj int | nested_ctl int | exit_int_info_err int | exit_int_info int | exit_info_2 int | exit_info_1 int | exit_code_hi int | exit_code int | int_state int | int_vector int | int_ctl int | tlb_ctl int | asid int | tsc_offset int | msrpm_base_pa int | iopm_base_pa int | intercept int | intercept_exceptions int | intercept_dr int | intercept_cr int 
+struct vmcb | control struct vmcb_control_area 
+function copy_vmcb_control_area void | dst_vmcb struct vmcb * | from_vmcb struct vmcb *

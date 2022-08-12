@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnubsdmiscfsdevfsdevfs_fdesc_support.c_fdesc_pathconf.d/extr_darwin-xnubsdmiscfsdevfsdevfs_fdesc_support.c_fdesc_pathconf_O0::fdesc_pathconf(74)"
+  }
+]

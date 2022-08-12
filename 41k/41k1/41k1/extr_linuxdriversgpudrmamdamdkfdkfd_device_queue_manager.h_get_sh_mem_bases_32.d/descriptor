@@ -1,0 +1,2 @@
+struct kfd_process_device | lds_base int 
+function get_sh_mem_bases_32 unsigned int | pdd struct kfd_process_device *

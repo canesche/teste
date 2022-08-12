@@ -1,0 +1,4 @@
+struct sockaddr_in6 | dummy int 
+struct sockaddr_in | dummy int 
+struct sockaddr | sa_family long | sa_len int 
+function necp_address_is_valid int | address struct sockaddr *

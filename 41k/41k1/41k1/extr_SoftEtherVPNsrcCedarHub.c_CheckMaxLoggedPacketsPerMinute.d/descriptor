@@ -1,0 +1,3 @@
+struct TYPE_5__ | MaxLoggedPacketsPerMinuteStartTick long | CurrentNumPackets long | L3SwitchMode long | LinkModeClient long | LinkModeServer long | BridgeMode long | SecureNATMode long | Policy struct TYPE_4__ * 
+struct TYPE_4__ | NoBroadcastLimiter long 
+function CheckMaxLoggedPacketsPerMinute int | s struct TYPE_5__ * | max_packets long | now long

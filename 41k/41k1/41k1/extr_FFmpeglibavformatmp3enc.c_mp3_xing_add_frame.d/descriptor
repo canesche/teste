@@ -1,0 +1,3 @@
+struct TYPE_6__ | size long 
+struct TYPE_5__ | seen int | want int | pos unsigned long | bag int * | size int | frames int 
+function mp3_xing_add_frame void | mp3 struct TYPE_5__ * | pkt struct TYPE_6__ *

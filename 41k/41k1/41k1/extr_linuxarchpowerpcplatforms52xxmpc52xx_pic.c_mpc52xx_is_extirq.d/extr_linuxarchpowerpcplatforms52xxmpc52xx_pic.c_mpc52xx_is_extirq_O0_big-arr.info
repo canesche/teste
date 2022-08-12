@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchpowerpcplatforms52xxmpc52xx_pic.c_mpc52xx_is_extirq.d/extr_linuxarchpowerpcplatforms52xxmpc52xx_pic.c_mpc52xx_is_extirq_O0::mpc52xx_is_extirq(60)"
+  }
+]

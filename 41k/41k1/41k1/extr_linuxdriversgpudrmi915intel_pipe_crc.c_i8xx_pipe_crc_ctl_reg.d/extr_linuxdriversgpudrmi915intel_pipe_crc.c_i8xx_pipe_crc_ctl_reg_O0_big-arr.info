@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmi915intel_pipe_crc.c_i8xx_pipe_crc_ctl_reg.d/extr_linuxdriversgpudrmi915intel_pipe_crc.c_i8xx_pipe_crc_ctl_reg_O0::i8xx_pipe_crc_ctl_reg(69)"
+  }
+]

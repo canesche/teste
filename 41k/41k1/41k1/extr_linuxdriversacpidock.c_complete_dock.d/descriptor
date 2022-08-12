@@ -1,0 +1,2 @@
+struct dock_station | last_dock_time int | flags int 
+function complete_dock void | ds struct dock_station *

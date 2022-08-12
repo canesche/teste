@@ -1,0 +1,2 @@
+struct device_id | device_type int | enum_id int 
+function get_support_mask_for_device_id int | device_id struct device_id

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 63,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22338,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darknetsrcgemm.c_gemm_bin.d/extr_darknetsrcgemm.c_gemm_bin_O0::gemm_bin(63)"
+  }
+]

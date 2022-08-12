@@ -1,0 +1,2 @@
+struct blk_rq_stat | nr_samples int 
+function stat_sample_valid int | stat struct blk_rq_stat *

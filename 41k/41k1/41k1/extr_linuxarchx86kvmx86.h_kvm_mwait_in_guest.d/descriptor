@@ -1,0 +1,3 @@
+struct TYPE_2__ | mwait_in_guest int 
+struct kvm | arch struct TYPE_2__ 
+function kvm_mwait_in_guest int | kvm struct kvm *

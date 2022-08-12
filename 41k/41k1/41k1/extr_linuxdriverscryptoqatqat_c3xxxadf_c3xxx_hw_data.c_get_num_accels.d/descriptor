@@ -1,0 +1,2 @@
+struct adf_hw_device_data | accel_mask int 
+function get_num_accels int | self struct adf_hw_device_data *

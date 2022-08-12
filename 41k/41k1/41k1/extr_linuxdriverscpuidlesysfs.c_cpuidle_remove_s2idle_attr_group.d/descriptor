@@ -1,0 +1,2 @@
+struct cpuidle_state_kobj | dummy int 
+function cpuidle_remove_s2idle_attr_group void | kobj struct cpuidle_state_kobj *

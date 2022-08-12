@@ -1,0 +1,3 @@
+struct TYPE_5__ | columns unsigned long | tabstops int * | cursor struct TYPE_4__ * 
+struct TYPE_4__ | x unsigned long 
+function screen_set_tab_stop void | self struct TYPE_5__ *

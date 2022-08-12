@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function ptrace_disable void | child struct task_struct *

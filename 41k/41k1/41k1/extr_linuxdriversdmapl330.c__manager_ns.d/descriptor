@@ -1,0 +1,4 @@
+struct pl330_thread | dmac struct TYPE_4__ * 
+struct TYPE_3__ | mode int 
+struct TYPE_4__ | pcfg struct TYPE_3__ 
+function _manager_ns int | thrd struct pl330_thread *

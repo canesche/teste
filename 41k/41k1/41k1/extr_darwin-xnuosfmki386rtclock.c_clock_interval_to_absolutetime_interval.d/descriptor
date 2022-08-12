@@ -1,0 +1,1 @@
+function clock_interval_to_absolutetime_interval void | interval int | scale_factor int | result int *

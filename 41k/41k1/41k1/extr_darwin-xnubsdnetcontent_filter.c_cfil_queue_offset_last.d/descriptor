@@ -1,0 +1,2 @@
+struct cfil_queue | q_end int 
+function cfil_queue_offset_last int | cfq struct cfil_queue *

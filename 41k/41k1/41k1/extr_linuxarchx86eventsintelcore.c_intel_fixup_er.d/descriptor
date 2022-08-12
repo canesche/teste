@@ -1,0 +1,6 @@
+struct TYPE_6__ | idx int | reg int 
+struct TYPE_7__ | extra_reg struct TYPE_6__ | config int 
+struct perf_event | hw struct TYPE_7__ 
+struct TYPE_8__ | extra_regs struct TYPE_5__ * 
+struct TYPE_5__ | event int 
+function intel_fixup_er void | event struct perf_event * | idx int

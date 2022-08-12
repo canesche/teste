@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 98,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14324,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_FFmpeglibavfilteraf_aiir.c_multiply.d/extr_FFmpeglibavfilteraf_aiir.c_multiply_O0::multiply(60)"
+  }
+]

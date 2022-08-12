@@ -1,0 +1,5 @@
+struct TYPE_6__ | id long 
+struct bcma_device | id struct TYPE_6__ | bus struct TYPE_5__ * 
+struct TYPE_4__ | id long | pkg int 
+struct TYPE_5__ | chipinfo struct TYPE_4__ 
+function bcma_core_mips_bcm5357b0_quirk int | dev struct bcma_device *

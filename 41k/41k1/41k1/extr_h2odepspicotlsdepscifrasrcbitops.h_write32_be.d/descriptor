@@ -1,0 +1,1 @@
+function write32_be void | v int | buf int [4]

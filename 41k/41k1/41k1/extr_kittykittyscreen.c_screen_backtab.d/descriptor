@@ -1,0 +1,3 @@
+struct TYPE_5__ | cursor struct TYPE_4__ * | tabstops long * 
+struct TYPE_4__ | x int 
+function screen_backtab void | self struct TYPE_5__ * | count unsigned int

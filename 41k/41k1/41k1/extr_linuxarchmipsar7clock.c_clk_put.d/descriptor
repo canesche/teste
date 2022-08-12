@@ -1,0 +1,2 @@
+struct clk | dummy int 
+function clk_put void | clk struct clk *

@@ -1,0 +1,1 @@
+function sanity_check_fault void | is_write int | error_code unsigned long

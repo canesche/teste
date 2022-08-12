@@ -1,0 +1,2 @@
+struct nvkm_therm | dummy int 
+function nvkm_fannil_set int | therm struct nvkm_therm * | percent int

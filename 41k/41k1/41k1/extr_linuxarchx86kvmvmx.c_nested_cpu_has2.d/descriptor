@@ -1,0 +1,2 @@
+struct vmcs12 | cpu_based_vm_exec_control int | secondary_vm_exec_control int 
+function nested_cpu_has2 int | vmcs12 struct vmcs12 * | bit int

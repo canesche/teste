@@ -1,0 +1,1 @@
+function spu2_cipher_mode_xlate int | cipher_mode enum spu_cipher_mode | spu2_mode enum spu2_cipher_mode *

@@ -1,0 +1,2 @@
+struct resource | flags int | start int | end int 
+function resource_is_pcicfg_ioport int | res struct resource *

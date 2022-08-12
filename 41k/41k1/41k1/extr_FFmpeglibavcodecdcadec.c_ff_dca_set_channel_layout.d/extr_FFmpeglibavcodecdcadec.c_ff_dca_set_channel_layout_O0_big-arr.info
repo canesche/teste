@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 16,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 25,
+    static: {
+      instructions: 91,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 965,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_FFmpeglibavcodecdcadec.c_ff_dca_set_channel_layout.d/extr_FFmpeglibavcodecdcadec.c_ff_dca_set_channel_layout_O0::ff_dca_set_channel_layout(68)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | orientation int 
+function fix_angle_using_orientation void | image struct TYPE_3__ * | angle int *

@@ -1,0 +1,2 @@
+struct value_buffer | dummy int 
+function value_buffer_output_char_noop void | B struct value_buffer * | ch char

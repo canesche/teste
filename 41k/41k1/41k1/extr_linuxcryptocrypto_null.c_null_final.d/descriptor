@@ -1,0 +1,2 @@
+struct shash_desc | dummy int 
+function null_final int | desc struct shash_desc * | out int *

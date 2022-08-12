@@ -1,0 +1,1 @@
+function ata_unpack_xfermask void | xfer_mask unsigned long | pio_mask unsigned long * | mwdma_mask unsigned long * | udma_mask unsigned long *

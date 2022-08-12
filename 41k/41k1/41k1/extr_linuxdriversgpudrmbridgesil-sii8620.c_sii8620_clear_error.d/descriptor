@@ -1,0 +1,2 @@
+struct sii8620 | error int 
+function sii8620_clear_error int | ctx struct sii8620 *

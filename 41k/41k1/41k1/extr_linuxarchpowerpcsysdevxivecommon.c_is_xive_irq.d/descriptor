@@ -1,0 +1,2 @@
+struct irq_chip | dummy int 
+function is_xive_irq int | chip struct irq_chip *

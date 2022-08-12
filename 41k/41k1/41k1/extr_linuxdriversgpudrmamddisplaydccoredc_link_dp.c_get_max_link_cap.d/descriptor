@@ -1,0 +1,8 @@
+struct dc_link_settings | link_rate long | lane_count long | link_spread long | member_2 int | member_1 int | member_0 int 
+struct TYPE_10__ | lane_count long | link_rate long | link_spread long 
+struct dc_link | reported_link_cap struct TYPE_10__ | link_enc struct TYPE_9__ * 
+struct TYPE_6__ | IS_HBR3_CAPABLE long | IS_HBR2_CAPABLE long 
+struct TYPE_7__ | bits struct TYPE_6__ 
+struct TYPE_8__ | flags struct TYPE_7__ 
+struct TYPE_9__ | features struct TYPE_8__ 
+function get_max_link_cap struct dc_link_settings | link struct dc_link *

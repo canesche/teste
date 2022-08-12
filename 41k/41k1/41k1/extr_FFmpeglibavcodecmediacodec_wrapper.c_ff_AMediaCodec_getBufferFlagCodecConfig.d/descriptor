@@ -1,0 +1,2 @@
+struct TYPE_3__ | BUFFER_FLAG_CODEC_CONFIG int 
+function ff_AMediaCodec_getBufferFlagCodecConfig int | codec struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function drm_legacy_vma_flush void | d struct drm_device *

@@ -1,0 +1,1 @@
+function fwrite_null unsigned long | ptr char * | eltsize unsigned long | nmemb unsigned long | strbuf void *

@@ -1,0 +1,2 @@
+struct drm_connector | dummy int 
+function mdfld_dsi_connector_restore void | connector struct drm_connector *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | fatLightmapCols int | fatLightmapRows int | worldDeluxeMapping long 
+function FatPackU float | input float | lightmapnum int

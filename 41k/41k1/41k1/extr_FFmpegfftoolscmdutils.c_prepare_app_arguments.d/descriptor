@@ -1,0 +1,1 @@
+function prepare_app_arguments void | argc_ptr int * | argv_ptr char ***

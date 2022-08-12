@@ -1,0 +1,3 @@
+struct mock_dmabuf | dummy int 
+struct dma_buf | priv struct mock_dmabuf * 
+function to_mock struct mock_dmabuf * | buf struct dma_buf *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_anypixelfirmwarecontrollerThirdPartySPLsrcstm32f4xx_adc.c_ADC_StructInit.d/extr_anypixelfirmwarecontrollerThirdPartySPLsrcstm32f4xx_adc.c_ADC_StructInit_O0::ADC_StructInit(68)"
+  }
+]

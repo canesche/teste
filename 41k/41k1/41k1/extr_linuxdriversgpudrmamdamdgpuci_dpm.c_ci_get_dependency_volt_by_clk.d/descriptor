@@ -1,0 +1,4 @@
+struct amdgpu_device | dummy int 
+struct amdgpu_clock_voltage_dependency_table | count long | entries struct TYPE_2__ * 
+struct TYPE_2__ | clk unsigned long | v unsigned long 
+function ci_get_dependency_volt_by_clk int | adev struct amdgpu_device * | allowed_clock_voltage_table struct amdgpu_clock_voltage_dependency_table * | clock unsigned long | voltage unsigned long *

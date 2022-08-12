@@ -1,0 +1,2 @@
+struct agp_bridge_data | dummy int 
+function sgi_tioca_free_gatt_table int | bridge struct agp_bridge_data *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmomapdrmdssdispc.c__dispc_lcd_timings_ok.d/extr_linuxdriversgpudrmomapdrmdssdispc.c__dispc_lcd_timings_ok_O0::_dispc_lcd_timings_ok(65)"
+  }
+]

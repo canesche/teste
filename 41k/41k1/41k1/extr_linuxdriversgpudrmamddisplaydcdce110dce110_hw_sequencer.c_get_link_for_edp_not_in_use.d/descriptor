@@ -1,0 +1,6 @@
+struct dc_state | stream_count int | streams struct TYPE_3__ ** 
+struct dc_link | local_sink struct TYPE_4__ * 
+struct dc | link_count int | links struct dc_link ** 
+struct TYPE_4__ | sink_signal long 
+struct TYPE_3__ | signal long 
+function get_link_for_edp_not_in_use struct dc_link * | dc struct dc * | context struct dc_state *

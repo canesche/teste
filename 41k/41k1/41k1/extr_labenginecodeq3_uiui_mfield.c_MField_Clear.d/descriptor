@@ -1,0 +1,2 @@
+struct TYPE_3__ | scroll long | cursor long | buffer long * 
+function MField_Clear void | edit struct TYPE_3__ *

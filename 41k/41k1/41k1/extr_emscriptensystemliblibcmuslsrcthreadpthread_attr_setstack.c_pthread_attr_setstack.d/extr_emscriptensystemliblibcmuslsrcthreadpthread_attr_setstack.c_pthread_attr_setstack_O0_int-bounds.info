@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_emscriptensystemliblibcmuslsrcthreadpthread_attr_setstack.c_pthread_attr_setstack.d/extr_emscriptensystemliblibcmuslsrcthreadpthread_attr_setstack.c_pthread_attr_setstack_O0::pthread_attr_setstack(67)"
+  }
+]

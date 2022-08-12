@@ -1,0 +1,4 @@
+struct TYPE_3__ | num_placement int 
+struct amdgpu_bo | placements struct TYPE_4__ * | placement struct TYPE_3__ 
+struct TYPE_4__ | fpfn int | lpfn int 
+function amdgpu_uvd_force_into_uvd_segment void | abo struct amdgpu_bo *

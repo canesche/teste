@@ -1,0 +1,2 @@
+struct fw_iso_context | dummy int 
+function dummy_flush_iso_completions int | ctx struct fw_iso_context *

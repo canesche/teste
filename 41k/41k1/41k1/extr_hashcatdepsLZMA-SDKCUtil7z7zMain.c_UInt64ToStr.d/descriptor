@@ -1,0 +1,1 @@
+function UInt64ToStr void | value int | s char * | numDigits int

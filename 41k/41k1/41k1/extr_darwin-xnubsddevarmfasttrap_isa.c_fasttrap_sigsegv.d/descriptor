@@ -1,0 +1,2 @@
+struct TYPE_3__ | pc long 
+function fasttrap_sigsegv void | p int * | t int | addr int | regs struct TYPE_3__ *

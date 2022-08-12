@@ -1,0 +1,2 @@
+struct dc_context | dummy int 
+function dm_get_elapse_time_in_ns unsigned long long | ctx struct dc_context * | current_time_stamp unsigned long long | last_time_stamp unsigned long long

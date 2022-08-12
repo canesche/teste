@@ -1,0 +1,2 @@
+struct binder_alloc | dummy int 
+function binder_selftest_alloc void | alloc struct binder_alloc *

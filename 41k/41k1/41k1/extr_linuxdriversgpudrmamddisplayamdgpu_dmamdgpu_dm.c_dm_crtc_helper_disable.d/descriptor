@@ -1,0 +1,2 @@
+struct drm_crtc | dummy int 
+function dm_crtc_helper_disable void | crtc struct drm_crtc *

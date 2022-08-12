@@ -1,0 +1,3 @@
+struct TYPE_4__ | flags int | texinfo long 
+struct TYPE_5__ | contents int | numsides int | original_sides struct TYPE_4__ * 
+function AAS_SetTexinfo void | brush struct TYPE_5__ *

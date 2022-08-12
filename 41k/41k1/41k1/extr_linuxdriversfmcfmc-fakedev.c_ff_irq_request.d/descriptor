@@ -1,0 +1,2 @@
+struct fmc_device | dummy int 
+function ff_irq_request int | fmc struct fmc_device * | handler int | name char * | flags int

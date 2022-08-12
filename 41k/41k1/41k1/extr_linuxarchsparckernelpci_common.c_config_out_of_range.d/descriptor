@@ -1,0 +1,2 @@
+struct pci_pbm_info | pci_first_busno unsigned long | pci_last_busno unsigned long 
+function config_out_of_range int | pbm struct pci_pbm_info * | bus unsigned long | devfn unsigned long | reg unsigned long

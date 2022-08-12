@@ -1,0 +1,5 @@
+struct kvm_vcpu_hv_synic | dummy int 
+struct TYPE_3__ | synic struct kvm_vcpu_hv_synic 
+struct TYPE_4__ | hyperv struct TYPE_3__ 
+struct kvm_vcpu | arch struct TYPE_4__ 
+function vcpu_to_synic struct kvm_vcpu_hv_synic * | vcpu struct kvm_vcpu *

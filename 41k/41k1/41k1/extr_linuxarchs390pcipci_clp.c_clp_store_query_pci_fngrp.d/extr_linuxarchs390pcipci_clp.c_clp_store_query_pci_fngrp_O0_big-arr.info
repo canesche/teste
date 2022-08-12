@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchs390pcipci_clp.c_clp_store_query_pci_fngrp.d/extr_linuxarchs390pcipci_clp.c_clp_store_query_pci_fngrp_O0::clp_store_query_pci_fngrp(65)"
+  }
+]

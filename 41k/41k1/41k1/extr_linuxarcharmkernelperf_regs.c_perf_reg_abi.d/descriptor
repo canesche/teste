@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function perf_reg_abi int | task struct task_struct *

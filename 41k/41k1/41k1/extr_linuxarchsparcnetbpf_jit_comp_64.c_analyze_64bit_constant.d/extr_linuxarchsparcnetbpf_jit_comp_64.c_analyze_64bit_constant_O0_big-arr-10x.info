@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 22,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 34,
+    static: {
+      instructions: 91,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 922,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchsparcnetbpf_jit_comp_64.c_analyze_64bit_constant.d/extr_linuxarchsparcnetbpf_jit_comp_64.c_analyze_64bit_constant_O0::analyze_64bit_constant(62)"
+  }
+]

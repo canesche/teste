@@ -1,0 +1,2 @@
+struct pthread | threadStatus int 
+function _pthread_isduecanceled int | pthread_ptr struct pthread *

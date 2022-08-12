@@ -1,0 +1,4 @@
+struct TYPE_3__ | spu_npc_RW int 
+struct TYPE_4__ | prob struct TYPE_3__ 
+struct spu_context | csa struct TYPE_4__ 
+function spu_backing_npc_read int | ctx struct spu_context *

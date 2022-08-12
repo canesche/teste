@@ -1,0 +1,2 @@
+struct vnop_readdirattr_args | a_eofflag long * | a_actualcount long * 
+function nop_readdirattr int | ap struct vnop_readdirattr_args *

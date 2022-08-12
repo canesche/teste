@@ -1,0 +1,4 @@
+struct TYPE_7__ | v_mount struct TYPE_6__ * 
+struct TYPE_5__ | f_iosize long 
+struct TYPE_6__ | mnt_vfsstat struct TYPE_5__ 
+function vm_swapfile_get_transfer_size int | vp struct TYPE_7__ *

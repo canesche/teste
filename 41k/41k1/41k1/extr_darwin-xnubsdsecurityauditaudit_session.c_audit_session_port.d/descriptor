@@ -1,0 +1,2 @@
+struct audit_session_port_args | dummy int 
+function audit_session_port int | p int | uap struct audit_session_port_args * | retval int *

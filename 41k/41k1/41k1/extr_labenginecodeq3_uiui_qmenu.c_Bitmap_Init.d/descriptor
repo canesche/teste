@@ -1,0 +1,3 @@
+struct TYPE_4__ | x int | y int | flags int | left int | right int | top int | bottom int 
+struct TYPE_5__ | width int | height int | focusshader long | shader long | generic struct TYPE_4__ 
+function Bitmap_Init void | b struct TYPE_5__ *

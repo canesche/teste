@@ -1,0 +1,3 @@
+struct TYPE_5__ | duration long 
+struct TYPE_6__ | at long 
+function get_timeleft long | cache struct TYPE_5__ * | ref struct TYPE_6__ * | now long

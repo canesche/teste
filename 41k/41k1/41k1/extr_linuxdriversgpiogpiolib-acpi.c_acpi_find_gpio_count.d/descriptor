@@ -1,0 +1,4 @@
+struct TYPE_3__ | pin_table_length long 
+struct TYPE_4__ | gpio struct TYPE_3__ 
+struct acpi_resource | type long | data struct TYPE_4__ 
+function acpi_find_gpio_count int | ares struct acpi_resource * | data void *

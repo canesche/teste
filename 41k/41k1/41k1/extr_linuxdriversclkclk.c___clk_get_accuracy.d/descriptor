@@ -1,0 +1,2 @@
+struct clk_core | accuracy unsigned long 
+function __clk_get_accuracy unsigned long | core struct clk_core *

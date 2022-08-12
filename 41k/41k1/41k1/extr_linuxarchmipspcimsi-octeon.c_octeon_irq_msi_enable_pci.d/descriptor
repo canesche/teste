@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function octeon_irq_msi_enable_pci void | data struct irq_data *

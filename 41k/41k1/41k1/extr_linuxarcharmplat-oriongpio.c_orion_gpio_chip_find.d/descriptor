@@ -1,0 +1,3 @@
+struct gpio_chip | base int | ngpio int 
+struct orion_gpio_chip | chip struct gpio_chip 
+function orion_gpio_chip_find struct orion_gpio_chip * | pin int

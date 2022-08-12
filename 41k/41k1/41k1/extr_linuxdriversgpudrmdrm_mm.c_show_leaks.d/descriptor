@@ -1,0 +1,2 @@
+struct drm_mm | dummy int 
+function show_leaks void | mm struct drm_mm *

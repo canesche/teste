@@ -1,0 +1,2 @@
+struct TYPE_3__ | specularColor int * 
+function PicoGetShaderSpecularColor int * | shader struct TYPE_3__ *

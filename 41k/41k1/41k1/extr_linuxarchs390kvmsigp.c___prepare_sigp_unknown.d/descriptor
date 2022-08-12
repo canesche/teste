@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function __prepare_sigp_unknown int | vcpu struct kvm_vcpu * | dst_vcpu struct kvm_vcpu *

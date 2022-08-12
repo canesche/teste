@@ -1,0 +1,2 @@
+struct TYPE_3__ | R double | G double | B double | A double | Type int 
+function setSolidBrush void | brush struct TYPE_3__ * | color int | alpha double

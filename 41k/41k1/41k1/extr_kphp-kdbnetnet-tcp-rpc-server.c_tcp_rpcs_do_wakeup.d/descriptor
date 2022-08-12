@@ -1,0 +1,2 @@
+struct connection | dummy int 
+function tcp_rpcs_do_wakeup int | c struct connection *

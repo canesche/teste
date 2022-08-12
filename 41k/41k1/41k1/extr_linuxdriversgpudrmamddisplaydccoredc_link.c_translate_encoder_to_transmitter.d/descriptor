@@ -1,0 +1,2 @@
+struct graphics_object_id | id int | enum_id int 
+function translate_encoder_to_transmitter enum transmitter | encoder struct graphics_object_id

@@ -1,0 +1,1 @@
+function dhcp_macaddr_load long long | s unsigned char *

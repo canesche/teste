@@ -1,0 +1,2 @@
+struct kvm | dummy int 
+function kvm_arch_intc_initialized int | kvm struct kvm *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | output long 
+struct TYPE_6__ | wl struct TYPE_5__ 
+function _glfwPlatformIsSameMonitor int | first struct TYPE_6__ * | second struct TYPE_6__ *

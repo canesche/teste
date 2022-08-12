@@ -1,0 +1,2 @@
+struct TYPE_3__ | ADC_ScanDirection int | ADC_DataAlign int | ADC_ExternalTrigConv int | ADC_ExternalTrigConvEdge int | ADC_ContinuousConvMode int | ADC_Resolution int 
+function ADC_StructInit void | ADC_InitStruct struct TYPE_3__ *

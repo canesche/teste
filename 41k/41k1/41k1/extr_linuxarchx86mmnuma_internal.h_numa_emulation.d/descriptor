@@ -1,0 +1,2 @@
+struct numa_meminfo | dummy int 
+function numa_emulation void | numa_meminfo struct numa_meminfo * | numa_dist_cnt int

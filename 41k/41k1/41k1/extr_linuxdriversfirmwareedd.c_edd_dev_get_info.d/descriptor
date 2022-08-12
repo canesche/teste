@@ -1,0 +1,3 @@
+struct edd_info | dummy int 
+struct edd_device | info struct edd_info * 
+function edd_dev_get_info struct edd_info * | edev struct edd_device *

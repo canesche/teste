@@ -1,0 +1,3 @@
+struct dispc_device | feat struct TYPE_2__ * 
+struct TYPE_2__ | has_writeback int 
+function dispc_has_writeback int | dispc struct dispc_device *

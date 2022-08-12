@@ -1,0 +1,2 @@
+struct TYPE_3__ | backgroundColumn int 
+function uiTableSetRowBackgroundColorModelColumn void | t struct TYPE_3__ * | modelColumn int

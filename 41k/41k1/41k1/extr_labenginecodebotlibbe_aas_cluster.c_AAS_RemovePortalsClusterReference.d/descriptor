@@ -1,0 +1,3 @@
+struct TYPE_4__ | numportals int | portals struct TYPE_3__ * 
+struct TYPE_3__ | frontcluster int | backcluster int 
+function AAS_RemovePortalsClusterReference void | clusternum int

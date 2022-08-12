@@ -1,0 +1,2 @@
+struct mpic | dummy int 
+function mpic_err_int_init void | mpic struct mpic * | irqnum int

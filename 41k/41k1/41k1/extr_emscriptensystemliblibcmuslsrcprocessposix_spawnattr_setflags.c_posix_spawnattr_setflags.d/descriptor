@@ -1,0 +1,2 @@
+struct TYPE_3__ | __flags short 
+function posix_spawnattr_setflags int | attr struct TYPE_3__ * | flags short

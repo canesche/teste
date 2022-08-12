@@ -1,0 +1,2 @@
+struct message_short | dummy int 
+function compute_max_uid int | min_uid int | threshold double

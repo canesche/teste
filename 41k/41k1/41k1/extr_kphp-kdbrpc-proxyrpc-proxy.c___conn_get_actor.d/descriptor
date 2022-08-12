@@ -1,0 +1,2 @@
+struct rpc_cluster_bucket | A long long 
+function __conn_get_actor long long | B struct rpc_cluster_bucket *

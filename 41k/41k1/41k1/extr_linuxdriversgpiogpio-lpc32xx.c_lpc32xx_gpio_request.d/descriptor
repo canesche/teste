@@ -1,0 +1,2 @@
+struct gpio_chip | ngpio unsigned int 
+function lpc32xx_gpio_request int | chip struct gpio_chip * | pin unsigned int

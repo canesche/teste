@@ -1,0 +1,2 @@
+struct drm_crtc | dummy int 
+function drm_crtc_crc_init int | crtc struct drm_crtc *

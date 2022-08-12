@@ -1,0 +1,1 @@
+function addr_to_vsyscall_nr int | addr unsigned long

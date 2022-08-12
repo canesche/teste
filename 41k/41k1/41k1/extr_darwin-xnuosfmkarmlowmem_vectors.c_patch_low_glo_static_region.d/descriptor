@@ -1,0 +1,2 @@
+struct TYPE_2__ | lgStaticSize void * | lgStaticAddr void * 
+function patch_low_glo_static_region void | address void * | size void *

@@ -1,0 +1,2 @@
+struct kfd_signal_page | kernel_address int * 
+function page_slots int * | page struct kfd_signal_page *

@@ -1,0 +1,2 @@
+struct connection | dummy int 
+function mcc_execute int | c struct connection * | op int

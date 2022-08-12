@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 7,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnubsdnfsnfs4_subs.c_nfs4_ace_nfsflags_to_vfsflags.d/extr_darwin-xnubsdnfsnfs4_subs.c_nfs4_ace_nfsflags_to_vfsflags_O0::nfs4_ace_nfsflags_to_vfsflags(76)"
+  }
+]

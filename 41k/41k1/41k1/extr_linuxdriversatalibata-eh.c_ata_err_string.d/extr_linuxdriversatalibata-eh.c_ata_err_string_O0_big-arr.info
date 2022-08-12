@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 10,
+    exit: true,
+    halt: false,
+    edges: 22,
+    static: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversatalibata-eh.c_ata_err_string.d/extr_linuxdriversatalibata-eh.c_ata_err_string_O0::ata_err_string(70)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | width int | rows unsigned long | buf int * | stride unsigned long | start_x unsigned long 
+function trim_borders void | ans struct TYPE_3__ * | extra unsigned long

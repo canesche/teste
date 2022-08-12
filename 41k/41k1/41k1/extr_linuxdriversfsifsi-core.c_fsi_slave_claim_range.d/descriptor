@@ -1,0 +1,2 @@
+struct fsi_slave | size long 
+function fsi_slave_claim_range int | slave struct fsi_slave * | addr long | size long

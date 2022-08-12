@@ -1,0 +1,4 @@
+struct apm_power_info | battery_status int | battery_flag int | battery_life int | ac_line_status int 
+struct TYPE_3__ | mainbat_status int | mainbat_percent int | ac_status int 
+struct TYPE_4__ | charge_mode long | battstat struct TYPE_3__ 
+function sharpsl_apm_get_power_status void | info struct apm_power_info *

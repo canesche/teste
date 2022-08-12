@@ -1,0 +1,2 @@
+struct request_queue | dummy int 
+function blk_iolatency_init int | q struct request_queue *

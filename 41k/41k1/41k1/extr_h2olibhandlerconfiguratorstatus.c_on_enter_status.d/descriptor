@@ -1,0 +1,2 @@
+struct st_status_configurator | stack int 
+function on_enter_status int | _conf int * | ctx int * | node int *

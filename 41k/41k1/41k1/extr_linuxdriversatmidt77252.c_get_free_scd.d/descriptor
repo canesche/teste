@@ -1,0 +1,3 @@
+struct vc_map | scd_index int 
+struct idt77252_dev | scd_size int | scd_base unsigned long | scd2vc struct vc_map ** 
+function get_free_scd unsigned long | card struct idt77252_dev * | vc struct vc_map *

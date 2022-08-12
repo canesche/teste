@@ -1,0 +1,18 @@
+struct amdgpu_device | reg_offset unsigned long *** 
+struct TYPE_32__ | instance int * 
+struct TYPE_31__ | instance int * 
+struct TYPE_30__ | instance int * 
+struct TYPE_29__ | instance int * 
+struct TYPE_28__ | instance int * 
+struct TYPE_27__ | instance int * 
+struct TYPE_26__ | instance int * 
+struct TYPE_25__ | instance int * 
+struct TYPE_24__ | instance int * 
+struct TYPE_23__ | instance int * 
+struct TYPE_22__ | instance int * 
+struct TYPE_21__ | instance int * 
+struct TYPE_20__ | instance int * 
+struct TYPE_19__ | instance int * 
+struct TYPE_18__ | instance int * 
+struct TYPE_17__ | instance int * 
+function vega20_reg_base_init int | adev struct amdgpu_device *

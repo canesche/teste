@@ -1,0 +1,3 @@
+struct drm_framebuffer | dummy int 
+struct drm_crtc | dummy int 
+function dce_virtual_crtc_set_base int | crtc struct drm_crtc * | x int | y int | old_fb struct drm_framebuffer *

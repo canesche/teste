@@ -1,0 +1,2 @@
+struct TYPE_3__ | kcs_elem_size int 
+function kcs_set_elem_size int | d struct TYPE_3__ * | size int | count int

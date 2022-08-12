@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400610,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_How-to-Make-a-Computer-Operating-Systemsrcsdksrclibcsrcctypeisxdigit.c___ctype_b_loc.d/extr_How-to-Make-a-Computer-Operating-Systemsrcsdksrclibcsrcctypeisxdigit.c___ctype_b_loc_O0::isxdigit(59)"
+  }
+]

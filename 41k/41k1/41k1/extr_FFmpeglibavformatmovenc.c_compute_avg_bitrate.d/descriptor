@@ -1,0 +1,3 @@
+struct TYPE_5__ | track_duration int | entry int | timescale int | cluster struct TYPE_4__ * 
+struct TYPE_4__ | size long 
+function compute_avg_bitrate unsigned int | track struct TYPE_5__ *

@@ -1,0 +1,3 @@
+struct TYPE_6__ | current_pri long | processor_primary struct TYPE_6__ * 
+struct TYPE_5__ | sched_pri long 
+function sched_multiq_thread_avoid_processor int | processor struct TYPE_6__ * | thread struct TYPE_5__ *

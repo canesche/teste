@@ -1,0 +1,3 @@
+struct TYPE_2__ | apic_arb_prio int 
+struct kvm_vcpu | arch struct TYPE_2__ 
+function kvm_apic_compare_prio int | vcpu1 struct kvm_vcpu * | vcpu2 struct kvm_vcpu *

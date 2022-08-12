@@ -1,0 +1,3 @@
+struct scsi_cmnd | dummy int 
+struct ata_port | dummy int 
+function ata_scsi_dump_cdb void | ap struct ata_port * | cmd struct scsi_cmnd *

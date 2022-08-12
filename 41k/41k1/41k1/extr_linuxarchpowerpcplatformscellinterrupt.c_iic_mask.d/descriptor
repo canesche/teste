@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function iic_mask void | d struct irq_data *

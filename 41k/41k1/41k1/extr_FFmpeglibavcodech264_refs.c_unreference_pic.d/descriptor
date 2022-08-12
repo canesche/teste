@@ -1,0 +1,3 @@
+struct TYPE_6__ | delayed_pic struct TYPE_5__ ** 
+struct TYPE_5__ | reference int 
+function unreference_pic int | h struct TYPE_6__ * | pic struct TYPE_5__ * | refmask int

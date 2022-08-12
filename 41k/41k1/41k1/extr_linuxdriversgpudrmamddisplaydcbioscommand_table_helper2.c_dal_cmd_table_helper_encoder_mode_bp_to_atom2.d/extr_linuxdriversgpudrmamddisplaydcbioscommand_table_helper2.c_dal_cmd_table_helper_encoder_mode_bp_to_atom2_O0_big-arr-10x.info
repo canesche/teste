@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmamddisplaydcbioscommand_table_helper2.c_dal_cmd_table_helper_encoder_mode_bp_to_atom2.d/extr_linuxdriversgpudrmamddisplaydcbioscommand_table_helper2.c_dal_cmd_table_helper_encoder_mode_bp_to_atom2_O0::dal_cmd_table_helper_encoder_mode_bp_to_atom2(79)"
+  }
+]

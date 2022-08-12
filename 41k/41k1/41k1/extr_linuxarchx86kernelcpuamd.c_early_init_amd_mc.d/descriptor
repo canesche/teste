@@ -1,0 +1,2 @@
+struct cpuinfo_x86 | dummy int 
+function early_init_amd_mc void | c struct cpuinfo_x86 *

@@ -1,0 +1,5 @@
+struct TYPE_9__ | nb_streams int | streams struct TYPE_6__ ** | priv_data struct TYPE_8__ * 
+struct TYPE_8__ | is_dvd long 
+struct TYPE_7__ | id int 
+struct TYPE_6__ | priv_data struct TYPE_7__ * 
+function get_system_header_size int | ctx struct TYPE_9__ *

@@ -1,0 +1,2 @@
+struct resource | end long | start long 
+function resource_clip void | res struct resource * | start long | end long

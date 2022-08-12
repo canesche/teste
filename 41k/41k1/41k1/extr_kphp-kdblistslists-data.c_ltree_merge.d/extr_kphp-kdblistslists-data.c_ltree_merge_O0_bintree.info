@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 278,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_kphp-kdblistslists-data.c_ltree_merge.d/extr_kphp-kdblistslists-data.c_ltree_merge_O0::ltree_merge(63)"
+  }
+]

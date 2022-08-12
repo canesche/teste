@@ -1,0 +1,9 @@
+struct TYPE_7__ | s_addr int 
+struct TYPE_8__ | v4addr struct TYPE_7__ 
+struct TYPE_10__ | s_addr int 
+struct TYPE_11__ | v4addr struct TYPE_10__ 
+struct pf_fragment | fr_dstx struct TYPE_8__ | fr_srcx struct TYPE_11__ | fr_af int | fr_id int | fr_p int 
+struct TYPE_9__ | s_addr int 
+struct TYPE_12__ | s_addr int 
+struct ip | ip_dst struct TYPE_9__ | ip_src struct TYPE_12__ | ip_id int | ip_p int 
+function pf_ip2key void | key struct pf_fragment * | ip struct ip *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400600,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_How-to-Make-a-Computer-Operating-Systemsrcsdksrclibcsrcctypeisprint.c___ctype_b_loc.d/extr_How-to-Make-a-Computer-Operating-Systemsrcsdksrclibcsrcctypeisprint.c___ctype_b_loc_O0::isprint(59)"
+  }
+]

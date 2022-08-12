@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 13,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 70,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 70,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriverscrypton2_core.c_control_word_base.d/extr_linuxdriverscrypton2_core.c_control_word_base_O0::control_word_base(75)"
+  }
+]

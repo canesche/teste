@@ -1,0 +1,2 @@
+struct module | dummy int 
+function apply_r_riscv_pcrel_lo12_s_rela int | me struct module * | location int * | v int

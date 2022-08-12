@@ -1,0 +1,2 @@
+struct TYPE_3__ | setsize int 
+function aeGetSetSize int | eventLoop struct TYPE_3__ *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchmipsmmhugetlbpage.c_is_aligned_hugepage_range.d/extr_linuxarchmipsmmhugetlbpage.c_is_aligned_hugepage_range_O0::is_aligned_hugepage_range(62)"
+  }
+]

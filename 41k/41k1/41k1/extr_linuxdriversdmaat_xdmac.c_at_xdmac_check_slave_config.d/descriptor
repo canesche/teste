@@ -1,0 +1,2 @@
+struct dma_slave_config | src_maxburst long | dst_maxburst long | src_addr_width long | dst_addr_width long 
+function at_xdmac_check_slave_config int | sconfig struct dma_slave_config *

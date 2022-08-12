@@ -1,0 +1,3 @@
+struct segment | dummy int 
+struct playlist | cur_seq_no unsigned long | start_seq_no unsigned long | segments struct segment ** 
+function current_segment struct segment * | pls struct playlist *

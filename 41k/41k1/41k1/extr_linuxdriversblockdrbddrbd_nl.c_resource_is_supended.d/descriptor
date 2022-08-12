@@ -1,0 +1,2 @@
+struct drbd_resource | susp_nod long | susp_fen long | susp long 
+function resource_is_supended int | resource struct drbd_resource *

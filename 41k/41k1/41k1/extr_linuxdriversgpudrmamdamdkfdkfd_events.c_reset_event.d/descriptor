@@ -1,0 +1,2 @@
+struct kfd_event | signaled int 
+function reset_event void | ev struct kfd_event *

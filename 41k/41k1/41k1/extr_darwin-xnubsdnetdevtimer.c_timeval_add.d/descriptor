@@ -1,0 +1,2 @@
+struct timeval | tv_usec long | tv_sec long 
+function timeval_add void | tv1 struct timeval | tv2 struct timeval | result struct timeval *

@@ -1,0 +1,1 @@
+function convert_and_clamp int | wm_ns int | refclk_mhz int | clamp_value int

@@ -1,0 +1,3 @@
+struct kvm_kernel_irq_routing_entry | dummy int 
+struct kvm | dummy int 
+function kvm_set_msi int | e struct kvm_kernel_irq_routing_entry * | kvm struct kvm * | irq_source_id int | level int | line_status int

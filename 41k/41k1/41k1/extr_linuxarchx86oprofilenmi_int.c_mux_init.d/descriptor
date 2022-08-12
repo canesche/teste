@@ -1,0 +1,2 @@
+struct oprofile_operations | dummy int 
+function mux_init void | ops struct oprofile_operations *

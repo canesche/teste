@@ -1,0 +1,2 @@
+struct TYPE_3__ | vmp_offset int 
+function vm_page_get_offset int | page struct TYPE_3__ *

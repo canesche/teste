@@ -1,0 +1,3 @@
+struct global_pstate_info | last_gpstate_idx long | last_lpstate_idx long | last_sampled_time long | elapsed_time long | highest_lpstate_idx long 
+struct cpufreq_policy | driver_data struct global_pstate_info * 
+function reset_gpstates void | policy struct cpufreq_policy *

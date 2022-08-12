@@ -1,0 +1,2 @@
+struct TYPE_4__ | decoration_fg int | bg int | fg int | decoration int | reverse int | dim int | strikethrough int | italic int | bold int | blink int | shape int | y int | x int 
+function cursor_copy_to void | src struct TYPE_4__ * | dest struct TYPE_4__ *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | width unsigned int | crop_w unsigned int | height unsigned int | crop_h unsigned int | crop_y long | crop_x long 
+function zbar_image_set_size void | img struct TYPE_3__ * | w unsigned int | h unsigned int

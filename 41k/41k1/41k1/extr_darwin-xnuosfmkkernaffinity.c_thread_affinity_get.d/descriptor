@@ -1,0 +1,3 @@
+struct TYPE_5__ | affinity_set struct TYPE_4__ * 
+struct TYPE_4__ | aset_tag int 
+function thread_affinity_get int | thread struct TYPE_5__ *

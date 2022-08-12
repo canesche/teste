@@ -1,0 +1,3 @@
+struct request_queue | tag_set struct TYPE_2__ * | mq_ops long 
+struct TYPE_2__ | flags int 
+function elv_support_iosched int | q struct request_queue *

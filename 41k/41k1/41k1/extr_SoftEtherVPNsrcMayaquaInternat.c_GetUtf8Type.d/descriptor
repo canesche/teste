@@ -1,0 +1,1 @@
+function GetUtf8Type int | s int * | size int | offset int

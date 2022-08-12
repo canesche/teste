@@ -1,0 +1,2 @@
+struct TYPE_3__ | margin_top unsigned int | margin_bottom unsigned int 
+function screen_scroll void | self struct TYPE_3__ * | count unsigned int

@@ -1,0 +1,2 @@
+struct drm_display_mode | crtc_hsync_end int | crtc_hsync_start int | crtc_hblank_end int | crtc_hblank_start int | crtc_hdisplay int 
+function centre_horizontally void | adjusted_mode struct drm_display_mode * | width int

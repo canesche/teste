@@ -1,0 +1,3 @@
+struct sdma_engine | drvdata struct TYPE_2__ * 
+struct TYPE_2__ | chnenbl0 long 
+function chnenbl_ofs long | sdma struct sdma_engine * | event unsigned int

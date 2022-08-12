@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriverscryptoqatqat_dh895xccadf_dh895xcc_hw_data.c_get_sku.d/extr_linuxdriverscryptoqatqat_dh895xccadf_dh895xcc_hw_data.c_get_sku_O0::get_sku(73)"
+  }
+]

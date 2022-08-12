@@ -1,0 +1,2 @@
+struct connectdata | ip_version long 
+function Curl_ipvalid int | conn struct connectdata *

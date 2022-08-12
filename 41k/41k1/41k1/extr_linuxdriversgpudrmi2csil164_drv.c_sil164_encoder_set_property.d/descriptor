@@ -1,0 +1,4 @@
+struct drm_property | dummy int 
+struct drm_encoder | dummy int 
+struct drm_connector | dummy int 
+function sil164_encoder_set_property int | encoder struct drm_encoder * | connector struct drm_connector * | property struct drm_property * | val int

@@ -1,0 +1,1 @@
+function tegra_gpio_compose unsigned int | bank unsigned int | port unsigned int | bit unsigned int

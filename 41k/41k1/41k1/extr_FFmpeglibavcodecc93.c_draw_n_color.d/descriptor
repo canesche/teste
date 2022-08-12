@@ -1,0 +1,1 @@
+function draw_n_color void | out int * | stride int | width int | height int | bpp int | cols int [4] | grps int [4] | col int

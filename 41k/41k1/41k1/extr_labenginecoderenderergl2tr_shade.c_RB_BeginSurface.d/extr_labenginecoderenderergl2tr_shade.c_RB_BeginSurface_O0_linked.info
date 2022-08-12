@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 58,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 58,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_labenginecoderenderergl2tr_shade.c_RB_BeginSurface.d/extr_labenginecoderenderergl2tr_shade.c_RB_BeginSurface_O0::RB_BeginSurface(75)"
+  }
+]

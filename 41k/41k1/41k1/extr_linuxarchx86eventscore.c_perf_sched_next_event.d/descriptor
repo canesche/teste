@@ -1,0 +1,4 @@
+struct TYPE_2__ | weight long | event unsigned long | counter long | unassigned int 
+struct perf_sched | max_events unsigned long | max_weight long | state struct TYPE_2__ | constraints struct event_constraint ** 
+struct event_constraint | weight long 
+function perf_sched_next_event int | sched struct perf_sched *

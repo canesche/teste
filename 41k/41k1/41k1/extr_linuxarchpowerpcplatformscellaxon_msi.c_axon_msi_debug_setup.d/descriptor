@@ -1,0 +1,3 @@
+struct device_node | dummy int 
+struct axon_msic | dummy int 
+function axon_msi_debug_setup void | dn struct device_node * | msic struct axon_msic *

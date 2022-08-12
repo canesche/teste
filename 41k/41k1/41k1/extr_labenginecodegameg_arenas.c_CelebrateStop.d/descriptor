@@ -1,0 +1,3 @@
+struct TYPE_4__ | weapon long | torsoAnim int 
+struct TYPE_5__ | s struct TYPE_4__ 
+function CelebrateStop void | player struct TYPE_5__ *

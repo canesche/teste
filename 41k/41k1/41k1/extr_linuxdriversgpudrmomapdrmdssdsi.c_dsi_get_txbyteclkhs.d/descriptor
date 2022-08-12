@@ -1,0 +1,4 @@
+struct TYPE_3__ | clkdco int 
+struct TYPE_4__ | cinfo struct TYPE_3__ 
+struct dsi_data | pll struct TYPE_4__ 
+function dsi_get_txbyteclkhs unsigned long | dsi struct dsi_data *

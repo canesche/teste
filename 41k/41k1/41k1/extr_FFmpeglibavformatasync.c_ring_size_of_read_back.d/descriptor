@@ -1,0 +1,2 @@
+struct TYPE_3__ | read_pos int 
+function ring_size_of_read_back int | ring struct TYPE_3__ *

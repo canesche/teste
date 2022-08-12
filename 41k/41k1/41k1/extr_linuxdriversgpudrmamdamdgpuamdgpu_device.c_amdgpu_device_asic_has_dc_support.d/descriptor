@@ -1,0 +1,1 @@
+function amdgpu_device_asic_has_dc_support int | asic_type enum amd_asic_type

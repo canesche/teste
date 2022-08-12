@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function max3191x_direction_output int | gpio struct gpio_chip * | offset unsigned int | value int

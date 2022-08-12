@@ -1,0 +1,2 @@
+struct mpic | dummy int 
+function mpic_pasemi_msi_init int | mpic struct mpic *

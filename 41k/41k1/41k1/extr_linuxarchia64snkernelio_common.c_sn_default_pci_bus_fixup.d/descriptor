@@ -1,0 +1,3 @@
+struct pcibus_bussoft | dummy int 
+struct pci_controller | dummy int 
+function sn_default_pci_bus_fixup void * | soft struct pcibus_bussoft * | controller struct pci_controller *

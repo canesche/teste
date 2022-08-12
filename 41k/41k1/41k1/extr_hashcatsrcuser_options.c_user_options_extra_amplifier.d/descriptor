@@ -1,0 +1,7 @@
+struct TYPE_8__ | slow_candidates int 
+struct TYPE_9__ | attack_kern long 
+struct TYPE_10__ | kernel_rules_cnt int 
+struct TYPE_11__ | bfs_cnt int 
+struct TYPE_12__ | user_options_extra struct TYPE_9__ * | user_options struct TYPE_8__ * | straight_ctx struct TYPE_10__ * | mask_ctx struct TYPE_11__ * | combinator_ctx struct TYPE_13__ * 
+struct TYPE_13__ | combs_cnt int 
+function user_options_extra_amplifier int | hashcat_ctx struct TYPE_12__ *

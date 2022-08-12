@@ -1,0 +1,3 @@
+struct throtl_grp | dummy int 
+struct bio | dummy int 
+function blk_throtl_assoc_bio void | tg struct throtl_grp * | bio struct bio *

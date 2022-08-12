@@ -1,0 +1,2 @@
+struct ccp_cmd_queue | total_ops long | total_aes_ops long | total_xts_aes_ops long | total_3des_ops long | total_sha_ops long | total_rsa_ops long | total_pt_ops long | total_ecc_ops long 
+function ccp5_debugfs_reset_queue_stats void | cmd_q struct ccp_cmd_queue *

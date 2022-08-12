@@ -1,0 +1,1 @@
+function Curl_gethostname int | name char * | namelen int

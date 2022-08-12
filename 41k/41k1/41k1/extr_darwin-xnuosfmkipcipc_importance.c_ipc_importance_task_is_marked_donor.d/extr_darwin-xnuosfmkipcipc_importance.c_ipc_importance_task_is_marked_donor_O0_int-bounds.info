@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnuosfmkipcipc_importance.c_ipc_importance_task_is_marked_donor.d/extr_darwin-xnuosfmkipcipc_importance.c_ipc_importance_task_is_marked_donor_O0::ipc_importance_task_is_marked_donor(67)"
+  }
+]

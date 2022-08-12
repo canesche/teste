@@ -1,0 +1,2 @@
+struct smi_info | msg_flags int 
+function oem_data_avail_to_receive_msg_avail int | smi_info struct smi_info *

@@ -1,0 +1,4 @@
+struct TYPE_7__ | idct_algo long | pix_fmt long | priv_data struct TYPE_6__ * | hwaccel long 
+struct TYPE_5__ | pack_pblocks int 
+struct TYPE_6__ | mpeg_enc_ctx struct TYPE_5__ 
+function setup_hwaccel_for_pixfmt void | avctx struct TYPE_7__ *

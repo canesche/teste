@@ -1,0 +1,2 @@
+struct kvm_s390_sie_block | ecd int | epdx int | epoch long 
+function kvm_clock_sync_scb void | scb struct kvm_s390_sie_block * | delta long

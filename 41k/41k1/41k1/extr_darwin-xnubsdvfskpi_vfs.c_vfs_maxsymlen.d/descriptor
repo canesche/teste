@@ -1,0 +1,2 @@
+struct TYPE_3__ | mnt_maxsymlinklen int 
+function vfs_maxsymlen int | mp struct TYPE_3__ *

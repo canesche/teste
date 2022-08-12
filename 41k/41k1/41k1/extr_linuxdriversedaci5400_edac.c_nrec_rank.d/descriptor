@@ -1,0 +1,2 @@
+struct i5400_error_info | nrecmema int 
+function nrec_rank int | info struct i5400_error_info *

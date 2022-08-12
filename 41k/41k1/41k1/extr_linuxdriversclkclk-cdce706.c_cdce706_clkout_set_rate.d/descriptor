@@ -1,0 +1,2 @@
+struct clk_hw | dummy int 
+function cdce706_clkout_set_rate int | hw struct clk_hw * | rate unsigned long | parent_rate unsigned long

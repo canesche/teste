@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchx86mmpat_rbtree.c_is_node_overlap.d/extr_linuxarchx86mmpat_rbtree.c_is_node_overlap_O0::is_node_overlap(62)"
+  }
+]

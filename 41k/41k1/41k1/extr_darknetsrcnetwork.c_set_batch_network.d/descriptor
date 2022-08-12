@@ -1,0 +1,3 @@
+struct TYPE_5__ | batch int | n int | layers struct TYPE_4__ * 
+struct TYPE_4__ | batch int 
+function set_batch_network void | net struct TYPE_5__ * | b int

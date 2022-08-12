@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarcharmmach-sa1100jornada720.c_jornada720_set_vpp.d/extr_linuxarcharmmach-sa1100jornada720.c_jornada720_set_vpp_O0::jornada720_set_vpp(63)"
+  }
+]

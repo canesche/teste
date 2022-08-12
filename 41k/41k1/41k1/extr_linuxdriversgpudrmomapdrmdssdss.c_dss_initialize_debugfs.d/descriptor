@@ -1,0 +1,2 @@
+struct dss_device | dummy int 
+function dss_initialize_debugfs int | dss struct dss_device *

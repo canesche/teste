@@ -1,0 +1,4 @@
+struct TYPE_7__ | type long | snum int | link int | next struct TYPE_7__ * 
+struct TYPE_6__ | frame int 
+struct TYPE_8__ | currentState struct TYPE_6__ 
+function CG_SnowLink void | cent struct TYPE_8__ * | particleOn long

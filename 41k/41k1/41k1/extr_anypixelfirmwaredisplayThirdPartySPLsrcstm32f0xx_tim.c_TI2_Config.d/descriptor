@@ -1,0 +1,2 @@
+struct TYPE_3__ | CCER int | CCMR1 int 
+function TI2_Config void | TIMx struct TYPE_3__ * | TIM_ICPolarity int | TIM_ICSelection int | TIM_ICFilter int

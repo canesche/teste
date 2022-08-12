@@ -1,0 +1,4 @@
+struct TYPE_3__ | save_hash_state int | save_iv int | load_hash_state int | load_iv int | hdr_proc int | hash_alg int | cipher_alg int | pad_type int | extend_pad int | op_group int | opcode int | dir int 
+struct TYPE_4__ | bf struct TYPE_3__ | w long 
+struct dynamic_sa_ctl | sa_command_0 struct TYPE_4__ 
+function set_dynamic_sa_command_0 void | sa struct dynamic_sa_ctl * | save_h int | save_iv int | ld_h int | ld_iv int | hdr_proc int | h int | c int | pad_type int | op_grp int | op int | dir int

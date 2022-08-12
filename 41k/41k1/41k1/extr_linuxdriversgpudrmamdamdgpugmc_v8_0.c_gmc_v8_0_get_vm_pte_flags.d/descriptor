@@ -1,0 +1,2 @@
+struct amdgpu_device | dummy int 
+function gmc_v8_0_get_vm_pte_flags int | adev struct amdgpu_device * | flags int

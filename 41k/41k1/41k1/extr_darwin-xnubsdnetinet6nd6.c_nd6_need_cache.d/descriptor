@@ -1,0 +1,2 @@
+struct ifnet | if_type int 
+function nd6_need_cache int | ifp struct ifnet *

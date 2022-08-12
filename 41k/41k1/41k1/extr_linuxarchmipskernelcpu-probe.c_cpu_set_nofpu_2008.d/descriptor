@@ -1,0 +1,2 @@
+struct cpuinfo_mips | options int | fpu_csr31 int | fpu_msk31 int | isa_level int 
+function cpu_set_nofpu_2008 void | c struct cpuinfo_mips *

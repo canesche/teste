@@ -1,0 +1,3 @@
+struct gmap | dummy int 
+struct TYPE_2__ | gmap unsigned long 
+function gmap_enable void | gmap struct gmap *

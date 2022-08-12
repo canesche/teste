@@ -1,0 +1,2 @@
+struct intel_dp | dpcd int * | downstream_ports int * 
+function downstream_hpd_needs_d0 int | intel_dp struct intel_dp *

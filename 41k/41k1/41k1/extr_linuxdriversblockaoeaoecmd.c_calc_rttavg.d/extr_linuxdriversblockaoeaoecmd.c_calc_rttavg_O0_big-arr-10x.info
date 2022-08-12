@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversblockaoeaoecmd.c_calc_rttavg.d/extr_linuxdriversblockaoeaoecmd.c_calc_rttavg_O0::calc_rttavg(65)"
+  }
+]

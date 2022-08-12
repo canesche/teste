@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversbluetoothhci_qca.c_qca_get_speed.d/extr_linuxdriversbluetoothhci_qca.c_qca_get_speed_O0::qca_get_speed(66)"
+  }
+]

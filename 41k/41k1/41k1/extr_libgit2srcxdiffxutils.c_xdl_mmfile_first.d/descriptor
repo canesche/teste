@@ -1,0 +1,2 @@
+struct TYPE_3__ | size long | ptr void * 
+function xdl_mmfile_first void * | mmf struct TYPE_3__ * | size long *

@@ -1,0 +1,2 @@
+struct dmaengine_desc_callback | callback long 
+function dmaengine_desc_callback_valid int | cb struct dmaengine_desc_callback *

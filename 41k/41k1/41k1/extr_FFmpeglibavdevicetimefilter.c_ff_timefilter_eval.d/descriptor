@@ -1,0 +1,2 @@
+struct TYPE_3__ | cycle_time double | clock_period double 
+function ff_timefilter_eval double | self struct TYPE_3__ * | delta double

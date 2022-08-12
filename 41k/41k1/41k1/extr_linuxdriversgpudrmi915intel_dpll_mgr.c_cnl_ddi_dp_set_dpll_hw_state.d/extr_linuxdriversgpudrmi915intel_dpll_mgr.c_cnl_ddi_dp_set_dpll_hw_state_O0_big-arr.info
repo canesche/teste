@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 8,
+    exit: true,
+    halt: false,
+    edges: 19,
+    static: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmi915intel_dpll_mgr.c_cnl_ddi_dp_set_dpll_hw_state.d/extr_linuxdriversgpudrmi915intel_dpll_mgr.c_cnl_ddi_dp_set_dpll_hw_state_O0::cnl_ddi_dp_set_dpll_hw_state(73)"
+  }
+]

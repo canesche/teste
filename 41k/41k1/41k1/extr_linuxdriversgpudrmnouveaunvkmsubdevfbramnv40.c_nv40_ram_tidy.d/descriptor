@@ -1,0 +1,2 @@
+struct nvkm_ram | dummy int 
+function nv40_ram_tidy void | base struct nvkm_ram *

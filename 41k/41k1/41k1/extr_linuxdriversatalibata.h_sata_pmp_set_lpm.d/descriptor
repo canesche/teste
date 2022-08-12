@@ -1,0 +1,2 @@
+struct ata_link | dummy int 
+function sata_pmp_set_lpm int | link struct ata_link * | policy enum ata_lpm_policy | hints unsigned int

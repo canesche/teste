@@ -1,0 +1,2 @@
+struct TYPE_3__ | data int * | h int | w int | c int 
+function load_rle void | im struct TYPE_3__ | rle int * | n int

@@ -1,0 +1,2 @@
+struct kvm_vcpu | dummy int 
+function kvmppc_mmu_msr_notify void | vcpu struct kvm_vcpu * | old_msr int

@@ -1,0 +1,4 @@
+struct node | right struct TYPE_4__ * | left struct TYPE_3__ * 
+struct TYPE_4__ | height int 
+struct TYPE_3__ | height int 
+function delta int | n struct node *

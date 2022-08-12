@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmbridgeadv7511adv7511_audio.c_adv7511_calc_cts_n.d/extr_linuxdriversgpudrmbridgeadv7511adv7511_audio.c_adv7511_calc_cts_n_O0::adv7511_calc_cts_n(61)"
+  }
+]

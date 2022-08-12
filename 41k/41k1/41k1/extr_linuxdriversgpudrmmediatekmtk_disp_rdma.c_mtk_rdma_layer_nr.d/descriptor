@@ -1,0 +1,2 @@
+struct mtk_ddp_comp | dummy int 
+function mtk_rdma_layer_nr unsigned int | comp struct mtk_ddp_comp *

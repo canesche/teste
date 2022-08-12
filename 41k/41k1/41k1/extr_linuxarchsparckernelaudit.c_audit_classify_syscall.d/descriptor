@@ -1,0 +1,1 @@
+function audit_classify_syscall int | abi int | syscall unsigned int

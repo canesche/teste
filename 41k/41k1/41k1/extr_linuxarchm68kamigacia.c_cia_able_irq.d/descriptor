@@ -1,0 +1,4 @@
+struct ciabase | icr_mask unsigned char | icr_data int | int_mask int | cia struct TYPE_3__ * 
+struct TYPE_4__ | intreq int 
+struct TYPE_3__ | icr int 
+function cia_able_irq unsigned char | base struct ciabase * | mask unsigned char

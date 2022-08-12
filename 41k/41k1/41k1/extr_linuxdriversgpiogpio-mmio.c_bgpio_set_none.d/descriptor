@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function bgpio_set_none void | gc struct gpio_chip * | gpio unsigned int | val int

@@ -1,0 +1,3 @@
+struct TYPE_4__ | csum_flags long 
+struct TYPE_5__ | m_pkthdr struct TYPE_4__ 
+function mbuf_inbound_modified void | mbuf struct TYPE_5__ *

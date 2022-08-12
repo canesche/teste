@@ -1,0 +1,2 @@
+struct drm_bridge | dummy int 
+function mic_disable void | bridge struct drm_bridge *

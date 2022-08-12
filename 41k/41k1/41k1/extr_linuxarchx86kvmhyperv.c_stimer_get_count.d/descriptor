@@ -1,0 +1,2 @@
+struct kvm_vcpu_hv_stimer | count int 
+function stimer_get_count int | stimer struct kvm_vcpu_hv_stimer * | pcount int *

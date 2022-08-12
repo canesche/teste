@@ -1,0 +1,2 @@
+struct TYPE_3__ | mnt_mntlabel long 
+function vfs_mntlabel void * | mp struct TYPE_3__ *

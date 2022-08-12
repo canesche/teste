@@ -1,0 +1,3 @@
+struct TYPE_5__ | priv_data struct TYPE_4__ * 
+struct TYPE_4__ | extradata_pic_init_qp int | current_pic_init_qp int 
+function h264_redundant_pps_flush void | bsf struct TYPE_5__ *

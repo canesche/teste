@@ -1,0 +1,2 @@
+struct tc | dummy int 
+function cleanup_tc void | tc struct tc *

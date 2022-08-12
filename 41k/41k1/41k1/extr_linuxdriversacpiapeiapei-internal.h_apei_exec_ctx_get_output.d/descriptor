@@ -1,0 +1,2 @@
+struct apei_exec_context | value int 
+function apei_exec_ctx_get_output int | ctx struct apei_exec_context *

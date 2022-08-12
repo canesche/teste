@@ -1,0 +1,2 @@
+struct cper_sec_mem_err | dummy int 
+function arch_apei_report_mem_error void | sev int | mem_err struct cper_sec_mem_err *

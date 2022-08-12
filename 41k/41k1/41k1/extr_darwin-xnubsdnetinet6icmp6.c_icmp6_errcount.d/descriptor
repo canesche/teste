@@ -1,0 +1,2 @@
+struct icmp6errstat | icp6errs_unknown int | icp6errs_redirect int | icp6errs_paramprob_option int | icp6errs_paramprob_nextheader int | icp6errs_paramprob_header int | icp6errs_time_exceed_reassembly int | icp6errs_time_exceed_transit int | icp6errs_packet_too_big int | icp6errs_dst_unreach_noport int | icp6errs_dst_unreach_addr int | icp6errs_dst_unreach_beyondscope int | icp6errs_dst_unreach_admin int | icp6errs_dst_unreach_noroute int 
+function icmp6_errcount void | stat struct icmp6errstat * | type int | code int

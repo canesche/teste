@@ -1,0 +1,3 @@
+struct pmac_i2c_bus | controller struct device_node * 
+struct device_node | dummy int 
+function pmac_i2c_get_controller struct device_node * | bus struct pmac_i2c_bus *

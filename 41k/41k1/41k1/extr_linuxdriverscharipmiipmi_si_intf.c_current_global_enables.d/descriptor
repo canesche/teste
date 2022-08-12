@@ -1,0 +1,3 @@
+struct TYPE_2__ | irq long 
+struct smi_info | irq_enable_broken int | interrupt_disabled int | io struct TYPE_2__ | supports_event_msg_buff long | cannot_disable_irq long 
+function current_global_enables int | smi_info struct smi_info * | base int | irq_on int *

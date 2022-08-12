@@ -1,0 +1,3 @@
+struct nfs_open_owner | noo_seqid int 
+struct nfs_lock_owner | nlo_seqid int 
+function nfs_owner_seqid_increment void | noop struct nfs_open_owner * | nlop struct nfs_lock_owner * | error int

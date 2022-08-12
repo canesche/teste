@@ -1,0 +1,2 @@
+struct cpuinfo_mips | dummy int 
+function cpu_set_nan_2008 void | c struct cpuinfo_mips *

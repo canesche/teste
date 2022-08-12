@@ -1,0 +1,4 @@
+struct mem_ctl_info | edac_ctl_cap int 
+struct amd64_pvt | umc struct TYPE_2__ * 
+struct TYPE_2__ | sdp_ctrl int | umc_cap_hi int 
+function f17h_determine_edac_ctl_cap void | mci struct mem_ctl_info * | pvt struct amd64_pvt *

@@ -1,0 +1,2 @@
+struct drmem_lmb | flags int 
+function drmem_lmb_flags int | lmb struct drmem_lmb *

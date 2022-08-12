@@ -1,0 +1,3 @@
+struct drm_framebuffer | dummy int 
+struct drm_crtc | dummy int 
+function dce_virtual_crtc_set_base_atomic int | crtc struct drm_crtc * | fb struct drm_framebuffer * | x int | y int | state enum mode_set_atomic

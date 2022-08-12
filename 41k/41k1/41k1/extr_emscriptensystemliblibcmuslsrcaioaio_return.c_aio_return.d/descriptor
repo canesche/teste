@@ -1,0 +1,2 @@
+struct aiocb | __ret int 
+function aio_return int | cb struct aiocb *

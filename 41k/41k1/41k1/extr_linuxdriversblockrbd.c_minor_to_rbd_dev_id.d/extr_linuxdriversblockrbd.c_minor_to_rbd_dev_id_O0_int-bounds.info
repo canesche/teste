@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversblockrbd.c_minor_to_rbd_dev_id.d/extr_linuxdriversblockrbd.c_minor_to_rbd_dev_id_O0::minor_to_rbd_dev_id(61)"
+  }
+]

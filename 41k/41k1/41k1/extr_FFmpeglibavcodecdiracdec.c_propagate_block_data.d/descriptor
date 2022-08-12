@@ -1,0 +1,1 @@
+function propagate_block_data void | block int * | stride int | size int

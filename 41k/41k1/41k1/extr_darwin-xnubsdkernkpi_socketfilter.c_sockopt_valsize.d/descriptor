@@ -1,0 +1,2 @@
+struct TYPE_3__ | sopt_valsize unsigned long 
+function sockopt_valsize unsigned long | sopt struct TYPE_3__ *

@@ -1,0 +1,4 @@
+struct xfrm_state | aead struct TYPE_2__ * 
+struct ipsec_sa_entry | authsize int 
+struct TYPE_2__ | alg_icv_len int 
+function chcr_ipsec_setauthsize int | x struct xfrm_state * | sa_entry struct ipsec_sa_entry *

@@ -1,0 +1,3 @@
+struct dsi_pll_config | output_div int | dec_bits int | frac_bits int | lock_timer int | ssc_freq int | ssc_offset int | ssc_adj_per int | thresh_cycles int | refclk_cycles int | div_override int | ignore_frac int | disable_prescaler int | enable_ssc int | ssc_center long | ref_freq int 
+struct dsi_pll_10nm | vco_ref_clk_rate int | pll_configuration struct dsi_pll_config 
+function dsi_pll_setup_config void | pll struct dsi_pll_10nm *

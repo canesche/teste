@@ -1,0 +1,2 @@
+struct TYPE_3__ | len int 
+function dl_perm_list_len int | p struct TYPE_3__ *

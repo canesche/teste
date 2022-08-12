@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function ks8695_gpio_to_irq int | gc struct gpio_chip * | pin unsigned int

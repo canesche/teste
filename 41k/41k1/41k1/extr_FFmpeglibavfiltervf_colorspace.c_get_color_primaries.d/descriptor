@@ -1,0 +1,3 @@
+struct TYPE_2__ | xr int 
+struct ColorPrimaries | coeff struct TYPE_2__ 
+function get_color_primaries const struct ColorPrimaries * | prm enum AVColorPrimaries

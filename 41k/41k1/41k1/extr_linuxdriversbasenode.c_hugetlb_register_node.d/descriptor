@@ -1,0 +1,2 @@
+struct node | dummy int 
+function hugetlb_register_node void | node struct node *

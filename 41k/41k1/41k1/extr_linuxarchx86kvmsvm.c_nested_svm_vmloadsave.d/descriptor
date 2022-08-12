@@ -1,0 +1,3 @@
+struct TYPE_2__ | sysenter_eip int | sysenter_esp int | sysenter_cs int | sfmask int | cstar int | lstar int | star int | kernel_gs_base int | ldtr int | tr int | gs int | fs int 
+struct vmcb | save struct TYPE_2__ 
+function nested_svm_vmloadsave void | from_vmcb struct vmcb * | to_vmcb struct vmcb *

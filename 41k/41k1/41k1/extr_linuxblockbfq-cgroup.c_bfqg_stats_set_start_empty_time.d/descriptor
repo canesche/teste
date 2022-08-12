@@ -1,0 +1,2 @@
+struct bfq_group | dummy int 
+function bfqg_stats_set_start_empty_time void | bfqg struct bfq_group *

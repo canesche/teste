@@ -1,0 +1,2 @@
+struct perf_event | dummy int 
+function free_slot int | slot struct perf_event ** | n unsigned long | bp struct perf_event *

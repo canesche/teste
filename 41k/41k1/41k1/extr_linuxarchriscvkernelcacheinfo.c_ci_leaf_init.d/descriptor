@@ -1,0 +1,3 @@
+struct device_node | dummy int 
+struct cacheinfo | level unsigned int | type int | physical_line_partition int | attributes int 
+function ci_leaf_init void | this_leaf struct cacheinfo * | node struct device_node * | type enum cache_type | level unsigned int

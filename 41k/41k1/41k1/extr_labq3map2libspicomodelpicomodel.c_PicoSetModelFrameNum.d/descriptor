@@ -1,0 +1,2 @@
+struct TYPE_3__ | frameNum int 
+function PicoSetModelFrameNum void | model struct TYPE_3__ * | frameNum int

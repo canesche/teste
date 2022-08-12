@@ -1,0 +1,2 @@
+struct device | dummy int 
+function floppy_device_release void | dev struct device *

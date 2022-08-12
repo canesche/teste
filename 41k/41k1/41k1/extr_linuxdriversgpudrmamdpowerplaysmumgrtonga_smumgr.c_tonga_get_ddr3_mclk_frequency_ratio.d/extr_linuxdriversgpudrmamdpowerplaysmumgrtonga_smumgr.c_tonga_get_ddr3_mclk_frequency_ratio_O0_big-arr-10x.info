@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmamdpowerplaysmumgrtonga_smumgr.c_tonga_get_ddr3_mclk_frequency_ratio.d/extr_linuxdriversgpudrmamdpowerplaysmumgrtonga_smumgr.c_tonga_get_ddr3_mclk_frequency_ratio_O0::tonga_get_ddr3_mclk_frequency_ratio(62)"
+  }
+]

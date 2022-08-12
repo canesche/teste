@@ -1,0 +1,4 @@
+struct untracked_cache_dir | dirs_nr int | dirs struct TYPE_2__ ** | untracked_nr long | valid long 
+struct untracked_cache | dir_invalidated int 
+struct TYPE_2__ | recurse long 
+function invalidate_directory void | uc struct untracked_cache * | dir struct untracked_cache_dir *

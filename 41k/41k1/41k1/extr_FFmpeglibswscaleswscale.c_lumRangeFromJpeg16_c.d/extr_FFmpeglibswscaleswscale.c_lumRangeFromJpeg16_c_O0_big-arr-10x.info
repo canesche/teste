@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 162,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_FFmpeglibswscaleswscale.c_lumRangeFromJpeg16_c.d/extr_FFmpeglibswscaleswscale.c_lumRangeFromJpeg16_c_O0::lumRangeFromJpeg16_c(62)"
+  }
+]

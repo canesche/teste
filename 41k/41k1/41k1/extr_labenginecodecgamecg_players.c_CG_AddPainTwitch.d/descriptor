@@ -1,0 +1,4 @@
+struct TYPE_5__ | painTime int | painDirection long 
+struct TYPE_6__ | pe struct TYPE_5__ 
+struct TYPE_7__ | time int 
+function CG_AddPainTwitch void | cent struct TYPE_6__ * | torsoAngles int *

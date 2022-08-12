@@ -1,0 +1,1 @@
+function get_host_info_data_index int | is_stat64 int | flavor int | count int * | ret int *

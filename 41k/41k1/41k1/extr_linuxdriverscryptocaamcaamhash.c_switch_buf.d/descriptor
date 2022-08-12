@@ -1,0 +1,2 @@
+struct caam_hash_state | current_buf int 
+function switch_buf void | state struct caam_hash_state *

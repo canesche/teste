@@ -1,0 +1,2 @@
+struct intel_vgpu_cursor_plane_format | x_hot long | width long | y_hot long | height long 
+function validate_hotspot int | c struct intel_vgpu_cursor_plane_format *

@@ -1,0 +1,2 @@
+struct drm_gem_object | dummy int 
+function etnaviv_gem_prime_vunmap void | obj struct drm_gem_object * | vaddr void *

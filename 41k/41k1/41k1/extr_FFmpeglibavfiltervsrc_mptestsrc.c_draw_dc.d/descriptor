@@ -1,0 +1,1 @@
+function draw_dc void | dst int * | dst_linesize int | color int | w int | h int

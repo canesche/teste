@@ -1,0 +1,3 @@
+struct TYPE_2__ | config int 
+struct perf_event | attr struct TYPE_2__ 
+function is_freerunning_event int | event struct perf_event *

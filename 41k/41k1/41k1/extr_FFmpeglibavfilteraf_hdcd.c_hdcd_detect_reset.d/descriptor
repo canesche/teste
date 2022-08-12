@@ -1,0 +1,2 @@
+struct TYPE_3__ | max_gain_adjustment double | cdt_expirations int | _active_count long | uses_transient_filter long | peak_extend int | errors long | total_packets long | packet_type int | hdcd_detected int 
+function hdcd_detect_reset void | detect struct TYPE_3__ *

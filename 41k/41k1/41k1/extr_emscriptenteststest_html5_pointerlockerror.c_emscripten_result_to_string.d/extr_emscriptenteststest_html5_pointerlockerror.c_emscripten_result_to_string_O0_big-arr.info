@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 9,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_emscriptenteststest_html5_pointerlockerror.c_emscripten_result_to_string.d/extr_emscriptenteststest_html5_pointerlockerror.c_emscripten_result_to_string_O0::emscripten_result_to_string(69)"
+  }
+]

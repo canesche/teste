@@ -1,0 +1,2 @@
+struct device | dummy int 
+function dpm_sysfs_remove void | dev struct device *

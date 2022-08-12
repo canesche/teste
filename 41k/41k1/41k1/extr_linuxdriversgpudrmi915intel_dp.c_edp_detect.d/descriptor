@@ -1,0 +1,2 @@
+struct intel_dp | dummy int 
+function edp_detect enum drm_connector_status | intel_dp struct intel_dp *

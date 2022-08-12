@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function check_if_tm_restore_required void | tsk struct task_struct *

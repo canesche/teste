@@ -1,0 +1,2 @@
+struct clk | dummy int 
+function clk_gpio27_disable void | clk struct clk *

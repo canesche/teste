@@ -1,0 +1,2 @@
+struct omap_sham_reqctx | flags int 
+function get_block_size int | ctx struct omap_sham_reqctx *

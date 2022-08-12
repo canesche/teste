@@ -1,0 +1,2 @@
+struct TYPE_3__ | pts_correction_num_faulty_dts long | pts_correction_last_dts long | pts_correction_num_faulty_pts long | pts_correction_last_pts long 
+function guess_correct_pts long | ctx struct TYPE_3__ * | reordered_pts long | dts long

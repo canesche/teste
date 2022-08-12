@@ -1,0 +1,4 @@
+struct vinfo_stat | vst_dev long | vst_ino long 
+struct TYPE_4__ | st_dev long | st_ino long 
+struct TYPE_5__ | flags int | match_stat struct TYPE_4__ 
+function check_file int | info struct TYPE_5__ * | sb struct vinfo_stat *

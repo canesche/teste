@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversatapata_hpt37x.c_hpt37x_clock_slot.d/extr_linuxdriversatapata_hpt37x.c_hpt37x_clock_slot_O0::hpt37x_clock_slot(60)"
+  }
+]

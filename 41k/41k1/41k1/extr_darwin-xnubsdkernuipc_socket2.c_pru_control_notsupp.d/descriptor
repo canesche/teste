@@ -1,0 +1,4 @@
+struct socket | dummy int 
+struct proc | dummy int 
+struct ifnet | dummy int 
+function pru_control_notsupp int | so struct socket * | cmd int | data int | ifp struct ifnet * | p struct proc *

@@ -1,0 +1,2 @@
+struct hci_dev | dummy int 
+function btbcm_initialize int | hdev struct hci_dev * | fw_name char * | len unsigned long | reinit int

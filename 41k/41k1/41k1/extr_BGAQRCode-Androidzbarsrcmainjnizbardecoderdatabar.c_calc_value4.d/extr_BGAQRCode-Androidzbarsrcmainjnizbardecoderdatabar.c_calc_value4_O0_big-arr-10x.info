@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 55,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 55,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_BGAQRCode-Androidzbarsrcmainjnizbardecoderdatabar.c_calc_value4.d/extr_BGAQRCode-Androidzbarsrcmainjnizbardecoderdatabar.c_calc_value4_O0::calc_value4(64)"
+  }
+]

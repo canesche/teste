@@ -1,0 +1,3 @@
+struct ether_header | dummy int 
+struct TYPE_3__ | m_data void * 
+function packet_buffer_byteptr void * | buf struct TYPE_3__ *

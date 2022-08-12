@@ -1,0 +1,2 @@
+struct TYPE_2__ | echomode int 
+function ws_set_config_echomode void | echomode int

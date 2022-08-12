@@ -1,0 +1,3 @@
+struct TYPE_4__ | visible int 
+struct TYPE_5__ | wl struct TYPE_4__ 
+function _glfwPlatformWindowVisible int | window struct TYPE_5__ *

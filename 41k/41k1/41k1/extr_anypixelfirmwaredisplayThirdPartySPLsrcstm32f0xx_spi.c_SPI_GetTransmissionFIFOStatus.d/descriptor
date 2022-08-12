@@ -1,0 +1,2 @@
+struct TYPE_3__ | SR int 
+function SPI_GetTransmissionFIFOStatus int | SPIx struct TYPE_3__ *

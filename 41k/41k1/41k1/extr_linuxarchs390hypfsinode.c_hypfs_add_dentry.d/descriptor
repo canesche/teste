@@ -1,0 +1,2 @@
+struct dentry | d_fsdata struct dentry * 
+function hypfs_add_dentry void | dentry struct dentry *

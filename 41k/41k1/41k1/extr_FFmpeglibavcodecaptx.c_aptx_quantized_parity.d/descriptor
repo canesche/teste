@@ -1,0 +1,3 @@
+struct TYPE_5__ | dither_parity int | quantize struct TYPE_4__ * 
+struct TYPE_4__ | quantized_sample int 
+function aptx_quantized_parity int | channel struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct st_ptls_handshake_properties_t | dummy int 
+function collect_test_extension int | tls int * | properties struct st_ptls_handshake_properties_t * | type long

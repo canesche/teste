@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_FFmpeglibavcodeccodec2utils.h_avpriv_codec2_make_extradata.d/extr_FFmpeglibavcodeccodec2utils.h_avpriv_codec2_make_extradata_O0::avpriv_codec2_make_extradata(60)"
+  }
+]

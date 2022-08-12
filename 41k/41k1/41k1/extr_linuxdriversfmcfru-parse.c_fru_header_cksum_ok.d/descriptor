@@ -1,0 +1,2 @@
+struct fru_common_header | dummy int 
+function fru_header_cksum_ok int | header struct fru_common_header *

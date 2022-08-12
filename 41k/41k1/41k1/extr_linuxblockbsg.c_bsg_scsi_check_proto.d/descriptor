@@ -1,0 +1,2 @@
+struct sg_io_v4 | protocol long | subprotocol long 
+function bsg_scsi_check_proto int | hdr struct sg_io_v4 *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | ipDefined int | ip long | delta long | id long 
+function XzFilterProps_Init void | p struct TYPE_3__ *

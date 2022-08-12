@@ -1,0 +1,2 @@
+struct block_device | dummy int 
+function null_open int | bdev struct block_device * | mode int

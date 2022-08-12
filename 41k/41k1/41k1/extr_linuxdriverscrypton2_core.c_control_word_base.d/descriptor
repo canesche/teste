@@ -1,0 +1,1 @@
+function control_word_base int | len unsigned int | hmac_key_len unsigned int | enc_type int | auth_type int | hash_len unsigned int | sfas int | sob int | eob int | encrypt int | opcode int

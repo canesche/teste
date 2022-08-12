@@ -1,0 +1,2 @@
+struct TYPE_3__ | in_buffer int | read_in_ptr int | remaining_in_len long 
+function clear_stream_buffers void | mms struct TYPE_3__ *

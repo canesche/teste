@@ -1,0 +1,3 @@
+struct i2c_adapter | dummy int 
+struct pmac_i2c_bus | adapter struct i2c_adapter 
+function pmac_i2c_get_adapter struct i2c_adapter * | bus struct pmac_i2c_bus *

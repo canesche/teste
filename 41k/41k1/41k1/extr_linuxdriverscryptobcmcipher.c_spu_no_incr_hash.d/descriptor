@@ -1,0 +1,5 @@
+struct spu_hw | spu_type long 
+struct TYPE_3__ | alg long | mode long 
+struct iproc_ctx_s | auth struct TYPE_3__ 
+struct TYPE_4__ | spu struct spu_hw 
+function spu_no_incr_hash int | ctx struct iproc_ctx_s *

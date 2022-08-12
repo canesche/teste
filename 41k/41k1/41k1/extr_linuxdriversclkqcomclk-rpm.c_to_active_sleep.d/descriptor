@@ -1,0 +1,2 @@
+struct clk_rpm | active_only long 
+function to_active_sleep void | r struct clk_rpm * | rate unsigned long | active unsigned long * | sleep unsigned long *

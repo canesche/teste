@@ -1,0 +1,2 @@
+struct serial_console_data | dummy int 
+function opal_console_init int | devp void * | scdp struct serial_console_data *

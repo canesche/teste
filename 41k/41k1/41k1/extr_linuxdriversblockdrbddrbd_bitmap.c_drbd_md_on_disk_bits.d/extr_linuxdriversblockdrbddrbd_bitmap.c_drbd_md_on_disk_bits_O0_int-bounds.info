@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversblockdrbddrbd_bitmap.c_drbd_md_on_disk_bits.d/extr_linuxdriversblockdrbddrbd_bitmap.c_drbd_md_on_disk_bits_O0::drbd_md_on_disk_bits(64)"
+  }
+]

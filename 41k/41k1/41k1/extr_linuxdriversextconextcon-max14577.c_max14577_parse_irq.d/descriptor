@@ -1,0 +1,2 @@
+struct max14577_muic_info | irq_adc int | irq_chg int 
+function max14577_parse_irq int | info struct max14577_muic_info * | irq_type int

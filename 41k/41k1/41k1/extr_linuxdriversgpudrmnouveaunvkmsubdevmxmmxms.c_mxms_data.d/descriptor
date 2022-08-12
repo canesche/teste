@@ -1,0 +1,2 @@
+struct nvkm_mxm | mxms int * 
+function mxms_data int * | mxm struct nvkm_mxm *

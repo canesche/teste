@@ -1,0 +1,1 @@
+function generate_raw_frame int | frame_data int * | i int | sample_rate int | channels int | frame_size int

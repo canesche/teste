@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_BGAQRCode-Androidzbarsrcmainjnilibiconv-1.15libshift_jisx0213.h_shift_jisx0213_reset.d/extr_BGAQRCode-Androidzbarsrcmainjnilibiconv-1.15libshift_jisx0213.h_shift_jisx0213_reset_O0::shift_jisx0213_reset(66)"
+  }
+]

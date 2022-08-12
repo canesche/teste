@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 66,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darknetsrcstb_image_write.h_stbiw__jpg_calcBits.d/extr_darknetsrcstb_image_write.h_stbiw__jpg_calcBits_O0::stbiw__jpg_calcBits(59)"
+  }
+]

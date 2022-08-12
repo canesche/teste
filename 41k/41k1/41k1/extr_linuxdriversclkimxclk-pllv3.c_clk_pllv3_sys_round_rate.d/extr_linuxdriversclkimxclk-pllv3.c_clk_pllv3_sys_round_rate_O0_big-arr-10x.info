@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversclkimxclk-pllv3.c_clk_pllv3_sys_round_rate.d/extr_linuxdriversclkimxclk-pllv3.c_clk_pllv3_sys_round_rate_O0::clk_pllv3_sys_round_rate(63)"
+  }
+]

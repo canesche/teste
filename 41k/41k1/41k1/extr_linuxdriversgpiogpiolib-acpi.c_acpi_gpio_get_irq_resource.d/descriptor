@@ -1,0 +1,4 @@
+struct acpi_resource_gpio | connection_type long 
+struct TYPE_2__ | gpio struct acpi_resource_gpio 
+struct acpi_resource | type long | data struct TYPE_2__ 
+function acpi_gpio_get_irq_resource int | ares struct acpi_resource * | agpio struct acpi_resource_gpio **

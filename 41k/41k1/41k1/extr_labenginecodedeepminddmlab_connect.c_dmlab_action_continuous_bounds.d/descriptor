@@ -1,0 +1,1 @@
+function dmlab_action_continuous_bounds void | context void * | continuous_idx int | min_value_out double * | max_value_out double *

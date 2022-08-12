@@ -1,0 +1,2 @@
+struct i915_sw_fence | dummy int 
+function i915_sw_fence_fini void | fence struct i915_sw_fence *

@@ -1,0 +1,2 @@
+struct intel_vgpu | dummy int 
+function intel_vgpu_set_intx_unmask int | vgpu struct intel_vgpu * | index unsigned int | start unsigned int | count unsigned int | flags int | data void *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | ostate int 
+function utf32_wctomb int | conv struct TYPE_3__ * | r unsigned char * | wc int | n unsigned long

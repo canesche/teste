@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversclkclk-si5351.c_si5351_msynth_params_address.d/extr_linuxdriversclkclk-si5351.c_si5351_msynth_params_address_O0::si5351_msynth_params_address(64)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 80007,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_emscriptensystemliblibcmuslldsodynlink.c_make_global.d/extr_emscriptensystemliblibcmuslldsodynlink.c_make_global_O0::make_global(60)"
+  }
+]

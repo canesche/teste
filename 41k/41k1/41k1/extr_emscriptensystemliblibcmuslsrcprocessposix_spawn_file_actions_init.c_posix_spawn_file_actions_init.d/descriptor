@@ -1,0 +1,2 @@
+struct TYPE_3__ | __actions long 
+function posix_spawn_file_actions_init int | fa struct TYPE_3__ *

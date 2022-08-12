@@ -1,0 +1,4 @@
+struct setup_revision_opt | dummy int 
+struct TYPE_2__ | output_format long 
+struct rev_info | diffopt struct TYPE_2__ | dense_combined_merges long 
+function diff_tree_tweak_rev void | rev struct rev_info * | opt struct setup_revision_opt *

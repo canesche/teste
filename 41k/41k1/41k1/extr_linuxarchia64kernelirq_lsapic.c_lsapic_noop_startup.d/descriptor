@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function lsapic_noop_startup unsigned int | data struct irq_data *

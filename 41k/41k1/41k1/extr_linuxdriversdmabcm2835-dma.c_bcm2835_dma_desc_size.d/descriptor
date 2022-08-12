@@ -1,0 +1,2 @@
+struct bcm2835_desc | size unsigned long 
+function bcm2835_dma_desc_size unsigned long | d struct bcm2835_desc *

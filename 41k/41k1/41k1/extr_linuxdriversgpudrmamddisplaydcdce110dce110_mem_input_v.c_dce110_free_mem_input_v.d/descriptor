@@ -1,0 +1,2 @@
+struct mem_input | dummy int 
+function dce110_free_mem_input_v void | mi struct mem_input * | total_stream_num int

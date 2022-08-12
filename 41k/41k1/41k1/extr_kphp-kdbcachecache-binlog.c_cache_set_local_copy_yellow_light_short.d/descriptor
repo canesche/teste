@@ -1,0 +1,2 @@
+struct lev_cache_set_local_copy_yellow_light_short | dummy int 
+function cache_set_local_copy_yellow_light_short int | E struct lev_cache_set_local_copy_yellow_light_short *

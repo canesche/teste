@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function sh_mtu2_remove int | pdev struct platform_device *

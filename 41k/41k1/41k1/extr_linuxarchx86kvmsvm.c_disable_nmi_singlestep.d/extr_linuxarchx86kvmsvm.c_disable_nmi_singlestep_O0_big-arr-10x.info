@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchx86kvmsvm.c_disable_nmi_singlestep.d/extr_linuxarchx86kvmsvm.c_disable_nmi_singlestep_O0::disable_nmi_singlestep(70)"
+  }
+]

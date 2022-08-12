@@ -1,0 +1,2 @@
+struct ata_queued_cmd | flags int | err_mask int 
+function sata_fsl_post_internal_cmd void | qc struct ata_queued_cmd *

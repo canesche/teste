@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmamdpowerplayhwmgrvega12_hwmgr.c_vega12_find_lowest_dpm_level.d/extr_linuxdriversgpudrmamdpowerplayhwmgrvega12_hwmgr.c_vega12_find_lowest_dpm_level_O0::vega12_find_lowest_dpm_level(65)"
+  }
+]

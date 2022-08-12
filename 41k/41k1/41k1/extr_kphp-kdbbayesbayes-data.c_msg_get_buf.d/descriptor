@@ -1,0 +1,2 @@
+struct TYPE_3__ | text char * 
+function msg_get_buf char * | msg struct TYPE_3__ *

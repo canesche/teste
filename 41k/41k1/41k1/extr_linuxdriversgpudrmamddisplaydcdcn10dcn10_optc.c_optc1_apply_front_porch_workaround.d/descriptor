@@ -1,0 +1,4 @@
+struct timing_generator | dummy int 
+struct TYPE_2__ | INTERLACE int 
+struct dc_crtc_timing | v_front_porch int | flags struct TYPE_2__ 
+function optc1_apply_front_porch_workaround void | optc struct timing_generator * | timing struct dc_crtc_timing *

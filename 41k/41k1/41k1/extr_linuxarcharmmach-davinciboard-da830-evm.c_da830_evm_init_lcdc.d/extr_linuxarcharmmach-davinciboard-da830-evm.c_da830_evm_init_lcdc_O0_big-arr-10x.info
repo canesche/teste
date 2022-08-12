@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarcharmmach-davinciboard-da830-evm.c_da830_evm_init_lcdc.d/extr_linuxarcharmmach-davinciboard-da830-evm.c_da830_evm_init_lcdc_O0::da830_evm_init_lcdc(59)"
+  }
+]

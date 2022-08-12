@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int 
+function get_sample_flags int | track int * | entry struct TYPE_3__ *

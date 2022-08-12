@@ -1,0 +1,2 @@
+struct TYPE_2__ | thread_count int | task_count int | load_average int | mach_factor int 
+function processor_set_statistics int | pset int * | flavor int | info long | count long *

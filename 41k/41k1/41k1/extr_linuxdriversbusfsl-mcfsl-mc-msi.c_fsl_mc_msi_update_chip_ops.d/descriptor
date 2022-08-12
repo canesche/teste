@@ -1,0 +1,3 @@
+struct msi_domain_info | chip struct irq_chip * 
+struct irq_chip | irq_write_msi_msg long 
+function fsl_mc_msi_update_chip_ops void | info struct msi_domain_info *

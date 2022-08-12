@@ -1,0 +1,2 @@
+struct intel_guc_ct_channel | vma int * 
+function ctch_is_open int | ctch struct intel_guc_ct_channel *

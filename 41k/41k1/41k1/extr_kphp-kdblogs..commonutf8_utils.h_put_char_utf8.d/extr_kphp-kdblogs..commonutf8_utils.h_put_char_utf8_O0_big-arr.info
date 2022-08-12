@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_kphp-kdblogs..commonutf8_utils.h_put_char_utf8.d/extr_kphp-kdblogs..commonutf8_utils.h_put_char_utf8_O0::put_char_utf8(59)"
+  }
+]

@@ -1,0 +1,3 @@
+struct insn | dummy int 
+struct arch_uprobe | dummy int 
+function riprel_analyze void | auprobe struct arch_uprobe * | insn struct insn *

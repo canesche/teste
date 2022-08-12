@@ -1,0 +1,3 @@
+struct drm_crtc | dummy int 
+struct nouveau_crtc | base struct drm_crtc 
+function to_drm_crtc struct drm_crtc * | crtc struct nouveau_crtc *

@@ -1,0 +1,3 @@
+struct cpu_hw_events | amd_nb struct amd_nb * 
+struct amd_nb | nb_id int 
+function amd_has_nb int | cpuc struct cpu_hw_events *

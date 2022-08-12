@@ -1,0 +1,2 @@
+struct TYPE_3__ | freqs int 
+function evaluate_freq_sqr_sums void | Q struct TYPE_3__ * | n int | sum_sqr_freq_title unsigned int * | sum_freq_title_freq_text unsigned int * | sum_sqr_freq_text unsigned int *

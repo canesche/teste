@@ -1,0 +1,1 @@
+function BotSayVoiceTeamOrder void | bs int * | toclient int | voicechat char *

@@ -1,0 +1,3 @@
+struct TYPE_3__ | count_sum unsigned long long 
+struct TYPE_4__ | runq_stats struct TYPE_3__ 
+function sched_proto_processor_runq_stats_count_sum unsigned long long | processor long

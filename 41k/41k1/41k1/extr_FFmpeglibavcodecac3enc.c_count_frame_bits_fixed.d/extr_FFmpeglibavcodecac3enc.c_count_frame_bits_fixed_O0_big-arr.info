@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 15,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 24,
+    static: {
+      instructions: 76,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 76,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_FFmpeglibavcodecac3enc.c_count_frame_bits_fixed.d/extr_FFmpeglibavcodecac3enc.c_count_frame_bits_fixed_O0::count_frame_bits_fixed(63)"
+  }
+]

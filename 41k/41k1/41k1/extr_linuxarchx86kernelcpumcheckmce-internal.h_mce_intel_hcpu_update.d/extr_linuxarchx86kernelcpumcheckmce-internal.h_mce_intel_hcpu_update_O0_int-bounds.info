@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchx86kernelcpumcheckmce-internal.h_mce_intel_hcpu_update.d/extr_linuxarchx86kernelcpumcheckmce-internal.h_mce_intel_hcpu_update_O0::mce_intel_hcpu_update(59)"
+  }
+]

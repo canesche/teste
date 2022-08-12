@@ -1,0 +1,2 @@
+struct connection | dummy int 
+function onload_metafile int | c struct connection * | read_bytes int

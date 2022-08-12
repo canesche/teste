@@ -1,0 +1,1 @@
+function kpc_get_all_cpus_counters int | classes int | curcpu int * | buf int *

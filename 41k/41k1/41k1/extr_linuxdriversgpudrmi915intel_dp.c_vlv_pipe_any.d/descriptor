@@ -1,0 +1,2 @@
+struct drm_i915_private | dummy int 
+function vlv_pipe_any int | dev_priv struct drm_i915_private * | pipe enum pipe

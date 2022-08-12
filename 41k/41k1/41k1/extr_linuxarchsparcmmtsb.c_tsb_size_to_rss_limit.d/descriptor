@@ -1,0 +1,2 @@
+struct tsb | dummy int 
+function tsb_size_to_rss_limit unsigned long | new_size unsigned long

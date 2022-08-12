@@ -1,0 +1,2 @@
+struct acpi_processor_px | dummy int 
+function amd_fixup_frequency void | px struct acpi_processor_px * | i int

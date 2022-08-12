@@ -1,0 +1,3 @@
+struct TYPE_2__ | running_len unsigned long | literal_words unsigned long 
+struct rlw_iterator | rlw struct TYPE_2__ 
+function rlwit_word_size unsigned long | it struct rlw_iterator *

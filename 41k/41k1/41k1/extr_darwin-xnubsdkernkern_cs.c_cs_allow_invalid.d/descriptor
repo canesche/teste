@@ -1,0 +1,2 @@
+struct proc | p_csflags int 
+function cs_allow_invalid int | p struct proc *

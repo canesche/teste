@@ -1,0 +1,3 @@
+struct TYPE_4__ | trp_apptype long 
+struct TYPE_5__ | requested_policy struct TYPE_4__ 
+function proc_task_is_tal int | task struct TYPE_5__ *

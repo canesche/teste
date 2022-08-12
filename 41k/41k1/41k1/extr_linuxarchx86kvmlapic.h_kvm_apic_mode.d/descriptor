@@ -1,0 +1,1 @@
+function kvm_apic_mode enum lapic_mode | apic_base int

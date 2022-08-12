@@ -1,0 +1,2 @@
+struct s3c_adc_client | dummy int 
+function s3c_adc_default_select void | client struct s3c_adc_client * | select unsigned int

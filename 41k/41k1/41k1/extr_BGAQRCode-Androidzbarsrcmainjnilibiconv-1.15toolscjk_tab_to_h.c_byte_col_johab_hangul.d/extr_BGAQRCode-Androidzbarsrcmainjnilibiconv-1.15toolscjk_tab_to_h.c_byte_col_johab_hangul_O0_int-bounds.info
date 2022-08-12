@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_BGAQRCode-Androidzbarsrcmainjnilibiconv-1.15toolscjk_tab_to_h.c_byte_col_johab_hangul.d/extr_BGAQRCode-Androidzbarsrcmainjnilibiconv-1.15toolscjk_tab_to_h.c_byte_col_johab_hangul_O0::byte_col_johab_hangul(59)"
+  }
+]

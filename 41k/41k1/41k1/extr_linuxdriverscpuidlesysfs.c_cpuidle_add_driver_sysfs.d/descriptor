@@ -1,0 +1,2 @@
+struct cpuidle_device | dummy int 
+function cpuidle_add_driver_sysfs int | dev struct cpuidle_device *

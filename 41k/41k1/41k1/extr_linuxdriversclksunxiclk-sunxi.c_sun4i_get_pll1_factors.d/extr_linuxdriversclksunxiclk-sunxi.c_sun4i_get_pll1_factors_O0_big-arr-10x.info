@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversclksunxiclk-sunxi.c_sun4i_get_pll1_factors.d/extr_linuxdriversclksunxiclk-sunxi.c_sun4i_get_pll1_factors_O0::sun4i_get_pll1_factors(62)"
+  }
+]

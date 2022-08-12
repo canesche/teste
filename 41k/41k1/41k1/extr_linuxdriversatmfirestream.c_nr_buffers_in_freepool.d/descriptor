@@ -1,0 +1,3 @@
+struct fs_dev | dummy int 
+struct freepool | n int 
+function nr_buffers_in_freepool int | dev struct fs_dev * | fp struct freepool *

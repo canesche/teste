@@ -1,0 +1,4 @@
+struct TYPE_3__ | num_pipe_per_mec int | num_queue_per_pipe int 
+struct TYPE_4__ | mec struct TYPE_3__ 
+struct amdgpu_device | gfx struct TYPE_4__ 
+function amdgpu_gfx_queue_to_bit int | adev struct amdgpu_device * | mec int | pipe int | queue int

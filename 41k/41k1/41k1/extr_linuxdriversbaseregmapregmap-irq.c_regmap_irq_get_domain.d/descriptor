@@ -1,0 +1,3 @@
+struct regmap_irq_chip_data | domain struct irq_domain * 
+struct irq_domain | dummy int 
+function regmap_irq_get_domain struct irq_domain * | data struct regmap_irq_chip_data *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | range int | cacheSize int | res int | processed long | bufBase int | buf int | cache long | low long 
+function RangeEnc_Init void | p struct TYPE_3__ *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnubsdkernkern_memorystatus.c_memorystatus_get_proccnt_upto_priority.d/extr_darwin-xnubsdkernkern_memorystatus.c_memorystatus_get_proccnt_upto_priority_O0::memorystatus_get_proccnt_upto_priority(67)"
+  }
+]

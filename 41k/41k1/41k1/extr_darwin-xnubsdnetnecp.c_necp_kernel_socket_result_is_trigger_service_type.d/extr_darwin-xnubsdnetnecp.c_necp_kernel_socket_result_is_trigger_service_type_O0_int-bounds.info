@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnubsdnetnecp.c_necp_kernel_socket_result_is_trigger_service_type.d/extr_darwin-xnubsdnetnecp.c_necp_kernel_socket_result_is_trigger_service_type_O0::necp_kernel_socket_result_is_trigger_service_type(64)"
+  }
+]

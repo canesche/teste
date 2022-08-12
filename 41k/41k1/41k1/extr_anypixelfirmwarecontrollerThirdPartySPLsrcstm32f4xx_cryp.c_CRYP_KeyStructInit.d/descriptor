@@ -1,0 +1,2 @@
+struct TYPE_3__ | CRYP_Key3Right long | CRYP_Key3Left long | CRYP_Key2Right long | CRYP_Key2Left long | CRYP_Key1Right long | CRYP_Key1Left long | CRYP_Key0Right long | CRYP_Key0Left long 
+function CRYP_KeyStructInit void | CRYP_KeyInitStruct struct TYPE_3__ *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 134,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 134,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_FFmpeglibavcodecmipsh264dsp_mmi.c_ff_h264_chroma422_dc_dequant_idct_8_mmi.d/extr_FFmpeglibavcodecmipsh264dsp_mmi.c_ff_h264_chroma422_dc_dequant_idct_8_mmi_O0::ff_h264_chroma422_dc_dequant_idct_8_mmi(61)"
+  }
+]

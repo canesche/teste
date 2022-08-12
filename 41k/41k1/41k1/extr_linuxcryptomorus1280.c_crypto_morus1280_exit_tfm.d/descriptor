@@ -1,0 +1,2 @@
+struct crypto_aead | dummy int 
+function crypto_morus1280_exit_tfm void | tfm struct crypto_aead *

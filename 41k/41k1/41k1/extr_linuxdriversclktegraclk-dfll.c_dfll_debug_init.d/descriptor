@@ -1,0 +1,2 @@
+struct tegra_dfll | dummy int 
+function dfll_debug_init void | td struct tegra_dfll *

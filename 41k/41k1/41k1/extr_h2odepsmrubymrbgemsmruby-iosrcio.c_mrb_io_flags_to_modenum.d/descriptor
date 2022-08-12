@@ -1,0 +1,1 @@
+function mrb_io_flags_to_modenum int | mrb int * | flags int

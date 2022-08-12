@@ -1,0 +1,3 @@
+struct mtd_oob_region | offset int | length int 
+struct mtd_info | oobsize int 
+function qi_lb60_ooblayout_free int | mtd struct mtd_info * | section int | oobregion struct mtd_oob_region *

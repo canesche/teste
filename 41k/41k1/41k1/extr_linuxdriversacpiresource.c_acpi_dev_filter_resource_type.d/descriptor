@@ -1,0 +1,4 @@
+struct TYPE_3__ | resource_type int 
+struct TYPE_4__ | address struct TYPE_3__ 
+struct acpi_resource | type int | data struct TYPE_4__ 
+function acpi_dev_filter_resource_type int | ares struct acpi_resource * | types unsigned long

@@ -1,0 +1,2 @@
+struct stream_encoder | dummy int 
+function virtual_stream_encoder_set_avmute void | enc struct stream_encoder * | enable int

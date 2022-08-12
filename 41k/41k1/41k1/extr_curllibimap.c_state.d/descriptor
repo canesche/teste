@@ -1,0 +1,4 @@
+struct imap_conn | state int 
+struct TYPE_2__ | imapc struct imap_conn 
+struct connectdata | proto struct TYPE_2__ 
+function state void | conn struct connectdata * | newstate int

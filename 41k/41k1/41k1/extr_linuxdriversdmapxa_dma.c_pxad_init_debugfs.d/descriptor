@@ -1,0 +1,2 @@
+struct pxad_device | dummy int 
+function pxad_init_debugfs void | pdev struct pxad_device *

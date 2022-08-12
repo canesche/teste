@@ -1,0 +1,2 @@
+struct i2c_engine | dummy int 
+function dal_i2c_sw_engine_get_channel_status enum i2c_channel_operation_result | engine struct i2c_engine * | returned_bytes int *

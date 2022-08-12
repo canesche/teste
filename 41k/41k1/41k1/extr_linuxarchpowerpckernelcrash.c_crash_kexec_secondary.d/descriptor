@@ -1,0 +1,2 @@
+struct pt_regs | dummy int 
+function crash_kexec_secondary void | regs struct pt_regs *

@@ -1,0 +1,4 @@
+struct TYPE_7__ | base int * | glyph struct TYPE_6__ * 
+struct TYPE_5__ | outline int 
+struct TYPE_6__ | root struct TYPE_5__ 
+function cff_builder_done void | builder struct TYPE_7__ *

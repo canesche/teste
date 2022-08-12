@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 61,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_brotlicencentropy_encode.c_BrotliReverseBits.d/extr_brotlicencentropy_encode.c_BrotliReverseBits_O0::BrotliReverseBits(60)"
+  }
+]

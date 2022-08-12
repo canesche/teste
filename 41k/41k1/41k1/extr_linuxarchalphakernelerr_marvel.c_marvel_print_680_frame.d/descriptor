@@ -1,0 +1,2 @@
+struct ev7_lf_subpackets | dummy int 
+function marvel_print_680_frame void | lf_subpackets struct ev7_lf_subpackets *

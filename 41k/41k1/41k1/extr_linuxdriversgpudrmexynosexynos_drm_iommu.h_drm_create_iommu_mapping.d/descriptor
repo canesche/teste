@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function drm_create_iommu_mapping int | drm_dev struct drm_device *

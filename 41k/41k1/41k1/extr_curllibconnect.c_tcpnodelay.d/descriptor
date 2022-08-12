@@ -1,0 +1,2 @@
+struct connectdata | dummy int 
+function tcpnodelay void | conn struct connectdata * | sockfd int

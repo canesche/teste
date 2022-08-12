@@ -1,0 +1,3 @@
+struct drm_dp_sideband_msg_tx | msg int * | cur_len int 
+struct drm_dp_sideband_msg_reply_body | reply_type int | req_type int 
+function drm_dp_encode_sideband_reply void | rep struct drm_dp_sideband_msg_reply_body * | raw struct drm_dp_sideband_msg_tx *

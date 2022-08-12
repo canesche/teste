@@ -1,0 +1,2 @@
+struct pf_state | id long | creatorid long 
+function pf_state_compare_id int | a struct pf_state * | b struct pf_state *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 51,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriverscryptoamcccrypto4xx_alg.c_set_dynamic_sa_command_1.d/extr_linuxdriverscryptoamcccrypto4xx_alg.c_set_dynamic_sa_command_1_O0::set_dynamic_sa_command_1(69)"
+  }
+]

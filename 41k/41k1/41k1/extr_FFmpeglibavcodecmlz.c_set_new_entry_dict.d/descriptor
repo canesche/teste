@@ -1,0 +1,2 @@
+struct TYPE_3__ | parent_code int | string_code int | char_code int | match_len int 
+function set_new_entry_dict void | dict struct TYPE_3__ * | string_code int | parent_code int | char_code int

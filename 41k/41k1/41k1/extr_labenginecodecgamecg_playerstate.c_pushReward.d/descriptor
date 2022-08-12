@@ -1,0 +1,2 @@
+struct TYPE_2__ | rewardStack int | rewardCount int * | rewardShader int * | rewardSound int * 
+function pushReward void | sfx int | shader int | rewardCount int

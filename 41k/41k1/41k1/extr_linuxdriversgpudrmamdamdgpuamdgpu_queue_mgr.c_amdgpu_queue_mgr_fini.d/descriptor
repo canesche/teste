@@ -1,0 +1,3 @@
+struct amdgpu_queue_mgr | dummy int 
+struct amdgpu_device | dummy int 
+function amdgpu_queue_mgr_fini int | adev struct amdgpu_device * | mgr struct amdgpu_queue_mgr *

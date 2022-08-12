@@ -1,0 +1,2 @@
+struct amdgpu_device | dummy int 
+function sumo_take_smu_control void | adev struct amdgpu_device * | enable int

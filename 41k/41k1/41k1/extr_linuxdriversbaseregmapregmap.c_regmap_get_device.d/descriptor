@@ -1,0 +1,3 @@
+struct regmap | dev struct device * 
+struct device | dummy int 
+function regmap_get_device struct device * | map struct regmap *

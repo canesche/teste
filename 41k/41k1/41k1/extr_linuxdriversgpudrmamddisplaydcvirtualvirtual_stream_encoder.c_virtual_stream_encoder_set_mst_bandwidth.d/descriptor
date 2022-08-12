@@ -1,0 +1,3 @@
+struct stream_encoder | dummy int 
+struct fixed31_32 | dummy int 
+function virtual_stream_encoder_set_mst_bandwidth void | enc struct stream_encoder * | avg_time_slots_per_mtp struct fixed31_32

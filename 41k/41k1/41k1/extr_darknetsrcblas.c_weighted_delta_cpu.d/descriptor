@@ -1,0 +1,1 @@
+function weighted_delta_cpu void | a float * | b float * | s float * | da float * | db float * | ds float * | n int | dc float *

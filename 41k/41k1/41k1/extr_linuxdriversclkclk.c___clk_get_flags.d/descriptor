@@ -1,0 +1,3 @@
+struct clk | core struct TYPE_2__ * 
+struct TYPE_2__ | flags unsigned long 
+function __clk_get_flags unsigned long | clk struct clk *

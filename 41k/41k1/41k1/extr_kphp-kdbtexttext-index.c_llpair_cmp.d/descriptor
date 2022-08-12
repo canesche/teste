@@ -1,0 +1,2 @@
+struct llpair | key long | local_id int 
+function llpair_cmp int | a struct llpair * | b struct llpair *

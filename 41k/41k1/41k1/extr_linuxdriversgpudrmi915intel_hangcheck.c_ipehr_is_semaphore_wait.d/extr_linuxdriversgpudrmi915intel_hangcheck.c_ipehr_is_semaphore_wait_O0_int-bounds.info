@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmi915intel_hangcheck.c_ipehr_is_semaphore_wait.d/extr_linuxdriversgpudrmi915intel_hangcheck.c_ipehr_is_semaphore_wait_O0::ipehr_is_semaphore_wait(67)"
+  }
+]

@@ -1,0 +1,1 @@
+function NeoNdisSetOptions int | NdisDriverHandle int | DriverContext int

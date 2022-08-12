@@ -1,0 +1,2 @@
+struct clockdomain | _flags int 
+function clkdm_in_hwsup int | clkdm struct clockdomain *

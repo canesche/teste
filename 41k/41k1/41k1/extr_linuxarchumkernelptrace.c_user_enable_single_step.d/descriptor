@@ -1,0 +1,3 @@
+struct TYPE_2__ | singlestep_syscall long 
+struct task_struct | thread struct TYPE_2__ | ptrace int 
+function user_enable_single_step void | child struct task_struct *

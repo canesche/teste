@@ -1,0 +1,4 @@
+struct chcr_gcm_ctx | dummy int 
+struct chcr_aead_ctx | ctx struct TYPE_2__ * 
+struct TYPE_2__ | gcm struct chcr_gcm_ctx * 
+function GCM_CTX struct chcr_gcm_ctx * | gctx struct chcr_aead_ctx *

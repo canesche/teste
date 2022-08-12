@@ -1,0 +1,3 @@
+struct smu8_hwmgr | low_sclk_interrupt_threshold long 
+struct pp_hwmgr | backend struct smu8_hwmgr * 
+function smu8_init_sclk_threshold void | hwmgr struct pp_hwmgr *

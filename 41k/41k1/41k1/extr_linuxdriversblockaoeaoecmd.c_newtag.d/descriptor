@@ -1,0 +1,2 @@
+struct aoedev | lasttag int 
+function newtag int | d struct aoedev *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | user_wire_limit int 
+function vm_map_set_user_wire_limit void | map struct TYPE_3__ * | limit int

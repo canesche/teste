@@ -1,0 +1,2 @@
+struct drm_mm_node | dummy int 
+function save_stack void | node struct drm_mm_node *

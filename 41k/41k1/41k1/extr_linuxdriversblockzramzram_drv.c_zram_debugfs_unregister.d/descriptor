@@ -1,0 +1,2 @@
+struct zram | dummy int 
+function zram_debugfs_unregister void | zram struct zram *

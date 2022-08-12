@@ -1,0 +1,1 @@
+function atmel_hlcdc_plane_phiscaler_get_factor int | srcsize int | dstsize int | phidef int

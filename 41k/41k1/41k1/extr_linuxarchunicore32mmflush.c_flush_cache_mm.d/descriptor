@@ -1,0 +1,2 @@
+struct mm_struct | dummy int 
+function flush_cache_mm void | mm struct mm_struct *

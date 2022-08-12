@@ -1,0 +1,1 @@
+value(auth_key_len) == 255, value(enc_key_len) == 255, value(is_hash) == 255

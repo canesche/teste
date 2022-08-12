@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8179,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_kphp-kdbsearchsearch-common.c_evaluate_freq_sqr_sums.d/extr_kphp-kdbsearchsearch-common.c_evaluate_freq_sqr_sums_O0::evaluate_freq_sqr_sums(62)"
+  }
+]

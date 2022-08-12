@@ -1,0 +1,2 @@
+struct talitos_private | dummy int 
+function has_ftr_sec1 int | priv struct talitos_private *

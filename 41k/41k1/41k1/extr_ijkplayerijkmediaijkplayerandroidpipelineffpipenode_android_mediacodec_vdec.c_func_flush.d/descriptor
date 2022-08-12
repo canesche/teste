@@ -1,0 +1,3 @@
+struct TYPE_5__ | opaque struct TYPE_4__ * 
+struct TYPE_4__ | acodec_flush_request int 
+function func_flush int | node struct TYPE_5__ *

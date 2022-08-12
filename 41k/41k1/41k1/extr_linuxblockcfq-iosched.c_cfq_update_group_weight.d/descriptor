@@ -1,0 +1,2 @@
+struct cfq_group | new_weight long | weight long 
+function cfq_update_group_weight void | cfqg struct cfq_group *

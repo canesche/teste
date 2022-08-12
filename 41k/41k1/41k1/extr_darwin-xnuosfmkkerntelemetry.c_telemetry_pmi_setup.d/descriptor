@@ -1,0 +1,1 @@
+function telemetry_pmi_setup int | pmi_ctr enum telemetry_pmi | period int

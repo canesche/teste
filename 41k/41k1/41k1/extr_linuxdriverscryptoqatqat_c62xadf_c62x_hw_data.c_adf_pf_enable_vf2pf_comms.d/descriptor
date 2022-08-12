@@ -1,0 +1,2 @@
+struct adf_accel_dev | dummy int 
+function adf_pf_enable_vf2pf_comms int | accel_dev struct adf_accel_dev *

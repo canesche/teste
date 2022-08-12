@@ -1,0 +1,2 @@
+struct pnv_phb | dummy int 
+function pnv_pci_init_ioda_msis void | phb struct pnv_phb *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | cpsr int 
+function arm_clear_u32_syscall_error void | regs struct TYPE_3__ *

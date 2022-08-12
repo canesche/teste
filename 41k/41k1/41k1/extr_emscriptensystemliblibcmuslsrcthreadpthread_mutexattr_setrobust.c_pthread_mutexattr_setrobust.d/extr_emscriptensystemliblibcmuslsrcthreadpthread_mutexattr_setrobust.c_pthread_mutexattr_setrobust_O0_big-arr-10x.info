@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_emscriptensystemliblibcmuslsrcthreadpthread_mutexattr_setrobust.c_pthread_mutexattr_setrobust.d/extr_emscriptensystemliblibcmuslsrcthreadpthread_mutexattr_setrobust.c_pthread_mutexattr_setrobust_O0::pthread_mutexattr_setrobust(64)"
+  }
+]

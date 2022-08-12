@@ -1,0 +1,6 @@
+struct TYPE_3__ | w int 
+struct nv50_wndw_atom | image struct TYPE_3__ 
+struct TYPE_4__ | layout int 
+struct nv50_head_atom | curs struct TYPE_4__ 
+struct nv50_head | dummy int 
+function head507d_curs_layout int | head struct nv50_head * | asyw struct nv50_wndw_atom * | asyh struct nv50_head_atom *

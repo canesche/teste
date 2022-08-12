@@ -1,0 +1,4 @@
+struct tegra_adma_chan | tdma struct TYPE_2__ * 
+struct device | dummy int 
+struct TYPE_2__ | dev struct device * 
+function tdc2dev struct device * | tdc struct tegra_adma_chan *

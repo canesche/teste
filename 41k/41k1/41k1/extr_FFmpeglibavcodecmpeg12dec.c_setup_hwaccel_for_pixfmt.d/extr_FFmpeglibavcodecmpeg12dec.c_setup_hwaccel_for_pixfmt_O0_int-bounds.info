@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_FFmpeglibavcodecmpeg12dec.c_setup_hwaccel_for_pixfmt.d/extr_FFmpeglibavcodecmpeg12dec.c_setup_hwaccel_for_pixfmt_O0::setup_hwaccel_for_pixfmt(72)"
+  }
+]

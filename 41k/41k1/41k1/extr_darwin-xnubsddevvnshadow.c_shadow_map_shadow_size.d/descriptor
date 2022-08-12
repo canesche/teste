@@ -1,0 +1,2 @@
+struct TYPE_3__ | shadow_size_bands int | blocks_per_band int 
+function shadow_map_shadow_size int | map struct TYPE_3__ *

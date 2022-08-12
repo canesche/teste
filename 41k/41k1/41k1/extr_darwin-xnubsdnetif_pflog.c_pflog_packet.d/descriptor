@@ -1,0 +1,5 @@
+struct pfi_kif | dummy int 
+struct pf_ruleset | dummy int 
+struct pf_rule | dummy int 
+struct pf_pdesc | dummy int 
+function pflog_packet int | kif struct pfi_kif * | pbuf int * | af int | dir int | reason int | rm struct pf_rule * | am struct pf_rule * | ruleset struct pf_ruleset * | pd struct pf_pdesc *

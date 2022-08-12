@@ -1,0 +1,2 @@
+struct TYPE_3__ | iter_parent int | iter_nth_child int | iter_n_children int | iter_has_child int | iter_children int | iter_previous int | iter_next int | get_value int | get_path int | get_iter int | get_column_type int | get_n_columns int | get_flags int 
+function uiTableModel_gtk_tree_model_interface_init void | iface struct TYPE_3__ *

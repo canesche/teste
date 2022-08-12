@@ -1,0 +1,3 @@
+struct TYPE_5__ | point int 
+struct TYPE_6__ | reinit int | last_size int | size int | prev_size int | last_mscr_area int | mscr_area int | prev_chi long | chi long | step_now long | rank long | max_point int | min_point int 
+function _ccv_mscr_init_root void | root struct TYPE_6__ * | node struct TYPE_5__ *

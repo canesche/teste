@@ -1,0 +1,2 @@
+struct attr_check | nr long 
+function attr_check_reset void | check struct attr_check *

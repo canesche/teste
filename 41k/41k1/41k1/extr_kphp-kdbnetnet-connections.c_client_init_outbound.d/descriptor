@@ -1,0 +1,2 @@
+struct connection | dummy int 
+function client_init_outbound int | c struct connection *

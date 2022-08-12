@@ -1,0 +1,2 @@
+struct crlf_attrs | auto_crlf long | core_eol long 
+function text_eol_is_crlf int | ca struct crlf_attrs *

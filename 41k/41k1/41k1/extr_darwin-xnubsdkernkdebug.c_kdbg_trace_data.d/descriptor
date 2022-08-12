@@ -1,0 +1,2 @@
+struct proc | p_pid long | p_uniqueid long 
+function kdbg_trace_data void | proc struct proc * | arg_pid long * | arg_uniqueid long *

@@ -1,0 +1,3 @@
+struct ttyprintk_port | dummy int 
+struct tty_struct | driver_data struct ttyprintk_port * 
+function tpk_ioctl int | tty struct tty_struct * | cmd unsigned int | arg unsigned long

@@ -1,0 +1,4 @@
+struct TYPE_3__ | has_reset_engine long 
+struct drm_i915_private | info struct TYPE_3__ 
+struct TYPE_4__ | reset int 
+function intel_has_reset_engine int | dev_priv struct drm_i915_private *

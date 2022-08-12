@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnubsddevarmdtrace_isa.c_dtrace_arm_condition_true.d/extr_darwin-xnubsddevarmdtrace_isa.c_dtrace_arm_condition_true_O0::dtrace_arm_condition_true(65)"
+  }
+]

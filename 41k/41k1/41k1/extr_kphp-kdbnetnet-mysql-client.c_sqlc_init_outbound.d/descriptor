@@ -1,0 +1,2 @@
+struct connection | last_query_sent_time int 
+function sqlc_init_outbound int | c struct connection *

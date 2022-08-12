@@ -1,0 +1,2 @@
+struct TYPE_3__ | inventory int * 
+function BotHasPersistantPowerupAndWeapon int | bs struct TYPE_3__ *

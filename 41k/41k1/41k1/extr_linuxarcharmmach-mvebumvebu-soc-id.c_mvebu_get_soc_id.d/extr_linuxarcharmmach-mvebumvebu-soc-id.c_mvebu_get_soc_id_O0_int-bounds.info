@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarcharmmach-mvebumvebu-soc-id.c_mvebu_get_soc_id.d/extr_linuxarcharmmach-mvebumvebu-soc-id.c_mvebu_get_soc_id_O0::mvebu_get_soc_id(65)"
+  }
+]

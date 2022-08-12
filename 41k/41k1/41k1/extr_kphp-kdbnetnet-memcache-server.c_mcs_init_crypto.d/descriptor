@@ -1,0 +1,2 @@
+struct connection | dummy int 
+function mcs_init_crypto int | c struct connection * | auth_key char * | auth_len int

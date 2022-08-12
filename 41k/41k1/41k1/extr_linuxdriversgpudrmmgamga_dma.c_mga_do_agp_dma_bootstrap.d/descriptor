@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function mga_do_agp_dma_bootstrap int | dev struct drm_device * | dma_bs int *

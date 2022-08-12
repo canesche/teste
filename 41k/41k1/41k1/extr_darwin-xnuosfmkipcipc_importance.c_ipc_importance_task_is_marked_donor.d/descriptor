@@ -1,0 +1,2 @@
+struct TYPE_4__ | iit_donor long 
+function ipc_importance_task_is_marked_donor int | task_imp struct TYPE_4__ *

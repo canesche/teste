@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarcharmmach-omap2powerdomain.c_pwrdm_register_platform_funcs.d/extr_linuxarcharmmach-omap2powerdomain.c_pwrdm_register_platform_funcs_O0::pwrdm_register_platform_funcs(64)"
+  }
+]

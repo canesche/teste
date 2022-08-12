@@ -1,0 +1,2 @@
+struct secasvar | dummy int 
+function ah_sumsiz_zero int | sav struct secasvar *

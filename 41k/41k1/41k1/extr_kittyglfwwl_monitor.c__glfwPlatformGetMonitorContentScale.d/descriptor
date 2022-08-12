@@ -1,0 +1,3 @@
+struct TYPE_4__ | scale long 
+struct TYPE_5__ | wl struct TYPE_4__ 
+function _glfwPlatformGetMonitorContentScale void | monitor struct TYPE_5__ * | xscale float * | yscale float *

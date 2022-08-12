@@ -1,0 +1,4 @@
+struct exynos_drm_private | dma_dev struct device * 
+struct drm_device | dev_private struct exynos_drm_private * 
+struct device | dummy int 
+function to_dma_dev struct device * | dev struct drm_device *

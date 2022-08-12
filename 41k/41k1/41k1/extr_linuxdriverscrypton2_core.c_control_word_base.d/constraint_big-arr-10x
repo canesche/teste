@@ -1,0 +1,1 @@
+value(len) == 10, value(hmac_key_len) == 10, value(enc_type) == 10, value(auth_type) == 10, value(hash_len) == 10, value(sfas) == 10, value(sob) == 10, value(eob) == 10, value(encrypt) == 10, value(opcode) == 10

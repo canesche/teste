@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_libuvsrcwinwinsock.c_uv_ntstatus_to_winsock_error.d/extr_libuvsrcwinwinsock.c_uv_ntstatus_to_winsock_error_O0::uv_ntstatus_to_winsock_error(144)"
+  }
+]

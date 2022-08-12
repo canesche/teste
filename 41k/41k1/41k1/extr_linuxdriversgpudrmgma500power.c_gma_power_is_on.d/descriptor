@@ -1,0 +1,3 @@
+struct drm_psb_private | display_power int 
+struct drm_device | dev_private struct drm_psb_private * 
+function gma_power_is_on int | dev struct drm_device *

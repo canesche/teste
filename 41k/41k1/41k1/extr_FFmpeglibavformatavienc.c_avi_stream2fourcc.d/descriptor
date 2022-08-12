@@ -1,0 +1,1 @@
+function avi_stream2fourcc char * | tag char * | index int | type enum AVMediaType

@@ -1,0 +1,1 @@
+function spu2_hash_mode_xlate int | hash_mode enum hash_mode | spu2_mode enum spu2_hash_mode *

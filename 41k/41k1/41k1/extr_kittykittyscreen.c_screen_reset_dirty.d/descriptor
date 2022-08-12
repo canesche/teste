@@ -1,0 +1,2 @@
+struct TYPE_3__ | is_dirty int | history_line_added_count long 
+function screen_reset_dirty void | self struct TYPE_3__ *

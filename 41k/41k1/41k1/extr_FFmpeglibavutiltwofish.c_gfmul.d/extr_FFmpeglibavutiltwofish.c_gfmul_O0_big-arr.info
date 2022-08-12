@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 11,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 257,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_FFmpeglibavutiltwofish.c_gfmul.d/extr_FFmpeglibavutiltwofish.c_gfmul_O0::gfmul(61)"
+  }
+]

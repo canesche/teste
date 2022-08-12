@@ -1,0 +1,1 @@
+function _glfwPlatformGetGammaRamp int | monitor int * | ramp int *

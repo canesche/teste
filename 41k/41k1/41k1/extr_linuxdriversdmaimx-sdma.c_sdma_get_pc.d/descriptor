@@ -1,0 +1,4 @@
+struct sdma_engine | script_addrs struct TYPE_2__ * 
+struct sdma_channel | pc_from_device int | pc_to_device int | device_to_device int | pc_to_pc int | sdma struct sdma_engine * 
+struct TYPE_2__ | ap_2_ap_addr int | bp_2_ap_addr int | ap_2_bp_addr int | firi_2_mcu_addr int | mcu_2_firi_addr int | uart_2_mcu_addr int | mcu_2_app_addr int | uartsh_2_mcu_addr int | mcu_2_shp_addr int | ata_2_mcu_addr int | mcu_2_ata_addr int | app_2_mcu_addr int | ssish_2_mcu_addr int | mcu_2_ssish_addr int | shp_2_mcu_addr int | asrc_2_mcu_addr int | per_2_per_addr int | mshc_2_mcu_addr int | mcu_2_mshc_addr int | dptc_dvfs_addr int | spdif_2_mcu_addr int | mcu_2_spdif_addr int | ext_mem_2_ipu_addr int 
+function sdma_get_pc void | sdmac struct sdma_channel * | peripheral_type enum sdma_peripheral_type

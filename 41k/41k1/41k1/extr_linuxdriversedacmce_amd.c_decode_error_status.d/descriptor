@@ -1,0 +1,2 @@
+struct mce | status int | mcgstatus int 
+function decode_error_status const char * | m struct mce *

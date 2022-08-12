@@ -1,0 +1,3 @@
+struct TYPE_2__ | ad_disabled int 
+struct kvm_mmu_page | role struct TYPE_2__ 
+function sp_ad_disabled int | sp struct kvm_mmu_page *

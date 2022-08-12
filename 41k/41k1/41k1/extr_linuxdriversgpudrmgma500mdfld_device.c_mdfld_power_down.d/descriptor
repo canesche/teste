@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function mdfld_power_down int | dev struct drm_device *

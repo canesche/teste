@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchshkernelcpush2afpu.c_denormal_mulf.d/extr_linuxarchshkernelcpush2afpu.c_denormal_mulf_O0::denormal_mulf(60)"
+  }
+]

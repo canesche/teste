@@ -1,0 +1,2 @@
+struct Curl_multi | recheckstate int 
+function multi_ischanged int | multi struct Curl_multi * | clear int

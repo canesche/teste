@@ -1,0 +1,2 @@
+struct TYPE_2__ | lgPmapMemFirstppnum void * | lgPmapMemEndAddr void * | lgPmapMemStartAddr void * 
+function patch_low_glo_vm_page_info void | start_addr void * | end_addr void * | first_ppnum void *

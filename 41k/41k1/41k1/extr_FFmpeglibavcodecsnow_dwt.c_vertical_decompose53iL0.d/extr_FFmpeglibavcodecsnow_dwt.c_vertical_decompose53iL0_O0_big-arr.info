@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 4857,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_FFmpeglibavcodecsnow_dwt.c_vertical_decompose53iL0.d/extr_FFmpeglibavcodecsnow_dwt.c_vertical_decompose53iL0_O0::vertical_decompose53iL0(62)"
+  }
+]

@@ -1,0 +1,2 @@
+struct pci_dev | hdr_type long | class int 
+function pnv_pci_ioda_dev_dma_weight int | dev struct pci_dev * | data void *

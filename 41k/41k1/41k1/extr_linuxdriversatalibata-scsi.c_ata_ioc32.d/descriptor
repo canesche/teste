@@ -1,0 +1,2 @@
+struct ata_port | flags int | pflags int 
+function ata_ioc32 int | ap struct ata_port *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | capacity unsigned long 
+function h2o_cache_get_capacity unsigned long | cache struct TYPE_3__ *

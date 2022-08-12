@@ -1,0 +1,2 @@
+struct intel_guc_client | priority long 
+function is_high_priority int | client struct intel_guc_client *

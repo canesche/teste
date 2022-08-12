@@ -1,0 +1,3 @@
+struct dc_context | dummy int 
+struct dc_clocks | dummy int 
+function dm_set_dcn_clocks void | ctx struct dc_context * | clks struct dc_clocks *

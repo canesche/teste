@@ -1,0 +1,2 @@
+struct request | __deadline unsigned long 
+function blk_rq_set_deadline void | rq struct request * | time unsigned long

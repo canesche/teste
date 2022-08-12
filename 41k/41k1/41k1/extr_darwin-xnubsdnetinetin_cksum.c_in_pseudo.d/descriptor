@@ -1,0 +1,3 @@
+struct q_util | dummy int 
+struct l_util | dummy int 
+function in_pseudo long | a long | b long | c long

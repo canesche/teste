@@ -1,0 +1,1 @@
+function glfwGetVersion void | major int * | minor int * | rev int *

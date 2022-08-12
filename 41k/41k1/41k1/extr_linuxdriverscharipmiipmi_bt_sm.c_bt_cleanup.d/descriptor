@@ -1,0 +1,2 @@
+struct si_sm_data | dummy int 
+function bt_cleanup void | bt struct si_sm_data *

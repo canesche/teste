@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_BGAQRCode-Androidzbarsrcmainjnizbarerror.c_zbar_version.d/extr_BGAQRCode-Androidzbarsrcmainjnizbarerror.c_zbar_version_O0::zbar_version(63)"
+  }
+]

@@ -1,0 +1,3 @@
+struct TYPE_3__ | numDisplayServers int | displayServers int * 
+struct TYPE_4__ | serverStatus struct TYPE_3__ 
+function UI_RemoveServerFromDisplayList void | num int

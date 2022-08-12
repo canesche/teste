@@ -1,0 +1,4 @@
+struct drm_display_mode | hdisplay int 
+struct dpu_crtc_state | dummy int 
+struct dpu_crtc | num_mixers int 
+function dpu_crtc_get_mixer_width int | dpu_crtc struct dpu_crtc * | cstate struct dpu_crtc_state * | mode struct drm_display_mode *

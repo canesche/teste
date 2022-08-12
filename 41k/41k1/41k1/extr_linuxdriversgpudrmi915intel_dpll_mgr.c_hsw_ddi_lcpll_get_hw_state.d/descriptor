@@ -1,0 +1,4 @@
+struct intel_shared_dpll | dummy int 
+struct intel_dpll_hw_state | dummy int 
+struct drm_i915_private | dummy int 
+function hsw_ddi_lcpll_get_hw_state int | dev_priv struct drm_i915_private * | pll struct intel_shared_dpll * | hw_state struct intel_dpll_hw_state *

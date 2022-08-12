@@ -1,0 +1,2 @@
+struct TYPE_3__ | r0 float | r1 float | k1 float | cor0 float | cor1 float | var0 float | var1 float | x_est float 
+function reset_predict_state void | ps struct TYPE_3__ *

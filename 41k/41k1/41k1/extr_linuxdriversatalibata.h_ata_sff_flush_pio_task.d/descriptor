@@ -1,0 +1,2 @@
+struct ata_port | dummy int 
+function ata_sff_flush_pio_task void | ap struct ata_port *

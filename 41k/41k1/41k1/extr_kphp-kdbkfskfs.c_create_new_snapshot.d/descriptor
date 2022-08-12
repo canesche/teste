@@ -1,0 +1,1 @@
+function create_new_snapshot int | Replica int | log_pos long long

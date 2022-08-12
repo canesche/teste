@@ -1,0 +1,2 @@
+struct request_queue | dummy int 
+function blk_mq_debugfs_unregister_hctxs void | q struct request_queue *

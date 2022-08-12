@@ -1,0 +1,2 @@
+struct msm_drm_private | dummy int 
+function msm_rd_debugfs_cleanup void | priv struct msm_drm_private *

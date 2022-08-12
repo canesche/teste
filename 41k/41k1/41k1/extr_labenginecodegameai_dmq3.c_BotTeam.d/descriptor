@@ -1,0 +1,5 @@
+struct TYPE_8__ | client unsigned long 
+struct TYPE_9__ | clients struct TYPE_7__ * 
+struct TYPE_6__ | sessionTeam long 
+struct TYPE_7__ | sess struct TYPE_6__ 
+function BotTeam int | bs struct TYPE_8__ *

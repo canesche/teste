@@ -1,0 +1,3 @@
+struct spread_spectrum_data | freq_range_khz long 
+struct dce110_clk_src | dvi_ss_params_cnt long | hdmi_ss_params_cnt long | dp_ss_params_cnt long | dp_ss_params const struct spread_spectrum_data * | hdmi_ss_params const struct spread_spectrum_data * | dvi_ss_params const struct spread_spectrum_data * 
+function get_ss_data_entry const struct spread_spectrum_data * | clk_src struct dce110_clk_src * | signal enum signal_type | pix_clk_khz long

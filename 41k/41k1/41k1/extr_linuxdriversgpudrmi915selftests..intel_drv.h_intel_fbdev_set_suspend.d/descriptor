@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function intel_fbdev_set_suspend void | dev struct drm_device * | state int | synchronous int

@@ -1,0 +1,2 @@
+struct connection | rdbuf_pos int | rdbuf int * 
+function can_consume int | conn struct connection * | ptr int * | amount int

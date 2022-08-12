@@ -1,0 +1,1 @@
+function armv8pmu_has_overflowed int | pmovsr int

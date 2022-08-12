@@ -1,0 +1,3 @@
+struct smu8_hwmgr | uvd_power_gated int | vce_power_gated int | samu_power_gated int | acp_power_gated int | pgacpinit int 
+struct pp_hwmgr | backend struct smu8_hwmgr * 
+function smu8_init_power_gate_state void | hwmgr struct pp_hwmgr *

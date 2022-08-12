@@ -1,0 +1,2 @@
+struct cc_drvdata | dummy int 
+function fips_handler void | drvdata struct cc_drvdata *

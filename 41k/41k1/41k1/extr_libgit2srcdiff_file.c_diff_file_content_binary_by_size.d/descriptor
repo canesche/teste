@@ -1,0 +1,3 @@
+struct TYPE_5__ | opts_max_size long | file struct TYPE_4__ * 
+struct TYPE_4__ | flags int | size long 
+function diff_file_content_binary_by_size int | fc struct TYPE_5__ *

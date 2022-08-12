@@ -1,0 +1,2 @@
+struct acpi_interface_info | flags int | next struct acpi_interface_info * 
+function acpi_ut_update_interfaces int | action int

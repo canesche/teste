@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_h2odepspicohttpparserpicohttpparser.c_decode_hex.d/extr_h2odepspicohttpparserpicohttpparser.c_decode_hex_O0::decode_hex(60)"
+  }
+]

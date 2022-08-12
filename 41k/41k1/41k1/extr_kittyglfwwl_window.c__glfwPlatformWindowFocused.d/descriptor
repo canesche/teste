@@ -1,0 +1,3 @@
+struct TYPE_3__ | keyboardFocus int * 
+struct TYPE_4__ | wl struct TYPE_3__ 
+function _glfwPlatformWindowFocused int | window int *

@@ -1,0 +1,2 @@
+struct binlog_wait_query | wait_pos long | num long long 
+function binlog_wait_query_cmp long long | a struct binlog_wait_query * | b struct binlog_wait_query *

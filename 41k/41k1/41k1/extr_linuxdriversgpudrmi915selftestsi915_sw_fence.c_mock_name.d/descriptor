@@ -1,0 +1,2 @@
+struct dma_fence | dummy int 
+function mock_name const char * | fence struct dma_fence *

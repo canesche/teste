@@ -1,0 +1,4 @@
+struct TYPE_3__ | lro_npkts int 
+struct mbuf | m_pkthdr struct TYPE_3__ 
+struct TYPE_4__ | tcps_lro_largepack int | tcps_lro_multpack int | tcps_lro_twopack int 
+function lro_update_stats void | m struct mbuf *

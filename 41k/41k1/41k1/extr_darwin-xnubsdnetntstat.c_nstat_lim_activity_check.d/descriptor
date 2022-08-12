@@ -1,0 +1,2 @@
+struct if_lim_perf_stat | lim_total_txpkts long | lim_total_rxpkts int | lim_conn_attempts int | lim_packet_loss_percent int | lim_total_retxpkts int | lim_packet_ooo_percent int | lim_total_oopkts int | lim_conn_timeout_percent int | lim_conn_timeouts int | lim_dl_max_bandwidth long | lim_dl_detected int | lim_ul_max_bandwidth long | lim_rtt_min long | lim_ul_detected int | lim_bk_txpkts long 
+function nstat_lim_activity_check int | st struct if_lim_perf_stat *

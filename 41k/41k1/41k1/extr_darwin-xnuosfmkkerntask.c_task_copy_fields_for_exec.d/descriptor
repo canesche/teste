@@ -1,0 +1,2 @@
+struct TYPE_4__ | vtimers int 
+function task_copy_fields_for_exec void | dst_task struct TYPE_4__ * | src_task struct TYPE_4__ *

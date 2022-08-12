@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_labenginecoderenderergl1tr_world.c_R_DlightGrid.d/extr_labenginecoderenderergl1tr_world.c_R_DlightGrid_O0::R_DlightGrid(72)"
+  }
+]

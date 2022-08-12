@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_SoftEtherVPNsrcMayaquaStr.c_HexTo4Bit.d/extr_SoftEtherVPNsrcMayaquaStr.c_HexTo4Bit_O0::HexTo4Bit(61)"
+  }
+]

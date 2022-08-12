@@ -1,0 +1,2 @@
+struct mrst_clock_t | dot int | m int | p1 int 
+function mdfld_clock void | refclk int | clock struct mrst_clock_t *

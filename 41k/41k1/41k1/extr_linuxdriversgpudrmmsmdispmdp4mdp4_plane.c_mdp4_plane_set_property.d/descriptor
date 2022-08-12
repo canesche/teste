@@ -1,0 +1,3 @@
+struct drm_property | dummy int 
+struct drm_plane | dummy int 
+function mdp4_plane_set_property int | plane struct drm_plane * | property struct drm_property * | val int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | dispatchqueue_offset int 
+function get_task_dispatchqueue_offset int | task struct TYPE_3__ *

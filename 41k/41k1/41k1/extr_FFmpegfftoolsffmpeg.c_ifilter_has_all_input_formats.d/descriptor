@@ -1,0 +1,3 @@
+struct TYPE_5__ | nb_inputs int | inputs struct TYPE_4__ ** 
+struct TYPE_4__ | format long | type long 
+function ifilter_has_all_input_formats int | fg struct TYPE_5__ *

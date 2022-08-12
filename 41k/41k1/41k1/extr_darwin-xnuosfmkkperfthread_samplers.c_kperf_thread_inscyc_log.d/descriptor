@@ -1,0 +1,2 @@
+struct kperf_context | dummy int 
+function kperf_thread_inscyc_log void | context struct kperf_context *

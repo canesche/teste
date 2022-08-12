@@ -1,0 +1,2 @@
+struct fpga_irq | base int | mask int | mraddr int | sraddr int 
+function get_fpga_irq struct fpga_irq | irq unsigned int

@@ -1,0 +1,4 @@
+struct ata_taskfile | command int | protocol int | flags int 
+struct ata_queued_cmd | flags int | dev struct TYPE_2__ * | tf struct ata_taskfile 
+struct TYPE_2__ | flags int 
+function ata_scsi_flush_xlat unsigned int | qc struct ata_queued_cmd *

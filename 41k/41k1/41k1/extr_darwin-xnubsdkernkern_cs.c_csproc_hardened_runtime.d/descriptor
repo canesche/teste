@@ -1,0 +1,2 @@
+struct proc | p_csflags int 
+function csproc_hardened_runtime int | p struct proc *

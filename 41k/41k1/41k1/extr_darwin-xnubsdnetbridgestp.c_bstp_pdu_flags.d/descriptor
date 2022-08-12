@@ -1,0 +1,3 @@
+struct TYPE_2__ | active long 
+struct bstp_port | bp_state int | bp_role int | bp_protover int | bp_tc_ack long | bp_tc_timer struct TYPE_2__ | bp_agree long | bp_proposing long 
+function bstp_pdu_flags int | bp struct bstp_port *

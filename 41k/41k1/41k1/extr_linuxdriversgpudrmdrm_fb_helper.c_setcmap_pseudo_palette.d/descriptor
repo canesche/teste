@@ -1,0 +1,8 @@
+struct TYPE_9__ | length int | offset int 
+struct TYPE_8__ | length int | offset int 
+struct TYPE_7__ | length int | offset int 
+struct TYPE_6__ | length int | offset int 
+struct TYPE_10__ | transp struct TYPE_9__ | blue struct TYPE_8__ | green struct TYPE_7__ | red struct TYPE_6__ 
+struct fb_info | var struct TYPE_10__ | pseudo_palette long 
+struct fb_cmap | start int | len int | red int * | green int * | blue int * 
+function setcmap_pseudo_palette int | cmap struct fb_cmap * | info struct fb_info *

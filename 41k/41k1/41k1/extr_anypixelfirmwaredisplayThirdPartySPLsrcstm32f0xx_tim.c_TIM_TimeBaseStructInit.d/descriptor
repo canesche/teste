@@ -1,0 +1,2 @@
+struct TYPE_3__ | TIM_Period int | TIM_Prescaler int | TIM_RepetitionCounter int | TIM_CounterMode int | TIM_ClockDivision int 
+function TIM_TimeBaseStructInit void | TIM_TimeBaseInitStruct struct TYPE_3__ *

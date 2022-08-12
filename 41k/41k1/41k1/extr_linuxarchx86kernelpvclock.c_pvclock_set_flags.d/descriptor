@@ -1,0 +1,1 @@
+function pvclock_set_flags void | flags int

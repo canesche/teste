@@ -1,0 +1,1 @@
+function copy_color_mask void | dst int * | width int | mask int | color int

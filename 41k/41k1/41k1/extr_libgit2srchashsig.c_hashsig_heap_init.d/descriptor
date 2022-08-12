@@ -1,0 +1,2 @@
+struct TYPE_3__ | cmp int | asize int | size long 
+function hashsig_heap_init void | h struct TYPE_3__ * | cmp int

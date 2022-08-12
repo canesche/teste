@@ -1,0 +1,2 @@
+struct zram | dummy int 
+function reset_bdev void | zram struct zram *

@@ -1,0 +1,6 @@
+struct sockaddr_in6 | sin6_addr int 
+struct TYPE_5__ | s_addr int 
+struct sockaddr_in | sin_addr struct TYPE_5__ 
+struct TYPE_6__ | type long | ip int * | ip6 int * 
+struct TYPE_7__ | type long | netmask int | addr int 
+function Sys_IsLANAddress int | adr struct TYPE_6__

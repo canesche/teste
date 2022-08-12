@@ -1,0 +1,3 @@
+struct gendisk | private_data struct floppy_state * 
+struct floppy_state | ejected long 
+function floppy_check_events unsigned int | disk struct gendisk * | clearing unsigned int

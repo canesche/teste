@@ -1,0 +1,2 @@
+struct ifnet | dummy int 
+function ifp_if_ctl int | ifp struct ifnet * | cmd int | arglen int | arg void *

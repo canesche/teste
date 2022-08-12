@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 55,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_ccvlib3rdpartykissfftkissf_fft.c_kissf_fft_next_fast_size.d/extr_ccvlib3rdpartykissfftkissf_fft.c_kissf_fft_next_fast_size_O0::kissf_fft_next_fast_size(60)"
+  }
+]

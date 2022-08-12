@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmamdamdkfdkfd_device_queue_manager_vi.c_device_queue_manager_init_vi_tonga.d/extr_linuxdriversgpudrmamdamdkfdkfd_device_queue_manager_vi.c_device_queue_manager_init_vi_tonga_O0::device_queue_manager_init_vi_tonga(65)"
+  }
+]

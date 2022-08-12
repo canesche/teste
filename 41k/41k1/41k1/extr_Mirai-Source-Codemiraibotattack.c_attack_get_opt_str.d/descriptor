@@ -1,0 +1,2 @@
+struct attack_option | key int | val char * 
+function attack_get_opt_str char * | opts_len int | opts struct attack_option * | opt int | def char *

@@ -1,0 +1,3 @@
+struct thermal_cooling_device | devdata struct etnaviv_gpu * 
+struct etnaviv_gpu | freq_scale unsigned long 
+function etnaviv_gpu_cooling_get_cur_state int | cdev struct thermal_cooling_device * | state unsigned long *

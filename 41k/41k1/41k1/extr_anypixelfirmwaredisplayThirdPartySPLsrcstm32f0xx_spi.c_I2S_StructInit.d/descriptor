@@ -1,0 +1,2 @@
+struct TYPE_3__ | I2S_CPOL int | I2S_AudioFreq int | I2S_MCLKOutput int | I2S_DataFormat int | I2S_Standard int | I2S_Mode int 
+function I2S_StructInit void | I2S_InitStruct struct TYPE_3__ *

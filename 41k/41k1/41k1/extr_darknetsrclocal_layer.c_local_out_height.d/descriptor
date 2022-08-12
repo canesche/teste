@@ -1,0 +1,2 @@
+struct TYPE_3__ | h int | stride int | size long | pad int 
+function local_out_height int | l struct TYPE_3__

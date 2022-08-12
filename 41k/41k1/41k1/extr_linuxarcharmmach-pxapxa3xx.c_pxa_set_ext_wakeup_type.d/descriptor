@@ -1,0 +1,2 @@
+struct irq_data | irq int 
+function pxa_set_ext_wakeup_type int | d struct irq_data * | flow_type unsigned int

@@ -1,0 +1,1 @@
+function imc_decode_level_coefficients2 void | q int * | levlCoeffBuf int * | old_floor float * | flcoeffs1 float * | flcoeffs2 float *

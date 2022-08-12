@@ -1,0 +1,2 @@
+struct TYPE_3__ | _a_policy int 
+function pthread_attr_setschedpolicy int | a struct TYPE_3__ * | policy int

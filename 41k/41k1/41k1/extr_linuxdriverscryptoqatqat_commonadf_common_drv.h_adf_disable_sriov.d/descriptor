@@ -1,0 +1,2 @@
+struct adf_accel_dev | dummy int 
+function adf_disable_sriov void | accel_dev struct adf_accel_dev *

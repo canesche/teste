@@ -1,0 +1,2 @@
+struct TYPE_3__ | zero_weight int | total_weight int | zero_freq int | total_freq int | upd_val int | till_rescale int 
+function model2_reset void | m struct TYPE_3__ *

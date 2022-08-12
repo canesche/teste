@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function xtensa_impwire_get_direction int | gc struct gpio_chip * | offset unsigned int

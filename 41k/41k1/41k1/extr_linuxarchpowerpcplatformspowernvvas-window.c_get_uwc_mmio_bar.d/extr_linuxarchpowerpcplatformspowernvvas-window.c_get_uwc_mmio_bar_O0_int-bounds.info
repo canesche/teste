@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchpowerpcplatformspowernvvas-window.c_get_uwc_mmio_bar.d/extr_linuxarchpowerpcplatformspowernvvas-window.c_get_uwc_mmio_bar_O0::get_uwc_mmio_bar(66)"
+  }
+]

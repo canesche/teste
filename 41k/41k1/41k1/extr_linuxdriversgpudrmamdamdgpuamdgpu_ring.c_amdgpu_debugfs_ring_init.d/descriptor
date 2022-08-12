@@ -1,0 +1,3 @@
+struct amdgpu_ring | dummy int 
+struct amdgpu_device | dummy int 
+function amdgpu_debugfs_ring_init int | adev struct amdgpu_device * | ring struct amdgpu_ring *

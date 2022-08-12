@@ -1,0 +1,2 @@
+struct ata_queued_cmd | dummy int 
+function octeon_cf_check_atapi_dma int | qc struct ata_queued_cmd *

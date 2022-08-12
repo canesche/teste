@@ -1,0 +1,2 @@
+struct bookmark | next long | value long | y long 
+function cmp_bookmark int | x struct bookmark * | y struct bookmark *

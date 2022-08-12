@@ -1,0 +1,3 @@
+struct uml_pt_regs | gp int * 
+struct TYPE_3__ | gregs int * 
+function get_regs_from_mc void | regs struct uml_pt_regs * | mc struct TYPE_3__ *

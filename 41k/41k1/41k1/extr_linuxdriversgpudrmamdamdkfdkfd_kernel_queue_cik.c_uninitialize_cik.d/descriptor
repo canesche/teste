@@ -1,0 +1,2 @@
+struct kernel_queue | dummy int 
+function uninitialize_cik void | kq struct kernel_queue *

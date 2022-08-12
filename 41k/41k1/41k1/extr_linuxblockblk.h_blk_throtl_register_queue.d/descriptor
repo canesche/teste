@@ -1,0 +1,2 @@
+struct request_queue | dummy int 
+function blk_throtl_register_queue void | q struct request_queue *

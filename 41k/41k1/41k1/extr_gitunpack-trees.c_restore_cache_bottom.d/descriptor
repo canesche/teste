@@ -1,0 +1,3 @@
+struct unpack_trees_options | cache_bottom int | diff_index_cached long 
+struct traverse_info | data struct unpack_trees_options * 
+function restore_cache_bottom void | info struct traverse_info * | bottom int

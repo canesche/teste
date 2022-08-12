@@ -1,0 +1,2 @@
+struct adp5588_gpio | dummy int 
+function adp5588_irq_teardown void | dev struct adp5588_gpio *

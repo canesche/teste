@@ -1,0 +1,2 @@
+struct TYPE_3__ | if_index int 
+function ifnet_index int | interface struct TYPE_3__ *

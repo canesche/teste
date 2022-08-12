@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function pcie_aspm_exit_link_state void | pdev struct pci_dev *

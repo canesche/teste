@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6913,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchumdriversslip_common.h_slip_esc.d/extr_linuxarchumdriversslip_common.h_slip_esc_O0::slip_esc(64)"
+  }
+]

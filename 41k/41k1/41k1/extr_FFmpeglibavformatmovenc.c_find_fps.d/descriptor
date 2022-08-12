@@ -1,0 +1,2 @@
+struct TYPE_3__ | avg_frame_rate int 
+function find_fps int | s int * | st struct TYPE_3__ *

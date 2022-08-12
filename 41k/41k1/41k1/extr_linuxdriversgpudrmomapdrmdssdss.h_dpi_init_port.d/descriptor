@@ -1,0 +1,4 @@
+struct platform_device | dummy int 
+struct dss_device | dummy int 
+struct device_node | dummy int 
+function dpi_init_port int | dss struct dss_device * | pdev struct platform_device * | port struct device_node * | dss_model enum dss_model

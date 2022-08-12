@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_libui_wipattrstr_metricsunix_OLD__old_drawtext.c_uiDrawFontFamiliesNumFamilies.d/extr_libui_wipattrstr_metricsunix_OLD__old_drawtext.c_uiDrawFontFamiliesNumFamilies_O0::uiDrawFontFamiliesNumFamilies(63)"
+  }
+]

@@ -1,0 +1,2 @@
+struct mpic | dummy int 
+function mpic_map_error_int int | mpic struct mpic * | virq unsigned int | hw int

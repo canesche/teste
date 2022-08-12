@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function release_thread void | t struct task_struct *

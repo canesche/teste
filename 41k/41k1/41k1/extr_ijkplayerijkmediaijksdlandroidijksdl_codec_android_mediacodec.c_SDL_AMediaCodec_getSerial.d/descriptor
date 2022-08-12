@@ -1,0 +1,2 @@
+struct TYPE_3__ | object_serial int 
+function SDL_AMediaCodec_getSerial int | acodec struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | count long | prevTime long | rectY1 long | rectX1 long | rectY0 long | rectX0 long | curButton long 
+function uiprivClickCounterReset void | c struct TYPE_3__ *

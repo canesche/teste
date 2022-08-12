@@ -1,0 +1,2 @@
+struct TYPE_3__ | buf_size long | buf long | rend long | rpos long 
+function fftoread int | f struct TYPE_3__ *

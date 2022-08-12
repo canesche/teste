@@ -1,0 +1,2 @@
+struct clk | dummy int 
+function clk_round_rate long | clk struct clk * | rate unsigned long

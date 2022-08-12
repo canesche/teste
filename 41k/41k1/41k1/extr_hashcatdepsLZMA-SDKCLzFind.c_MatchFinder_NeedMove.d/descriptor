@@ -1,0 +1,2 @@
+struct TYPE_3__ | keepSizeAfter unsigned long | buffer long | blockSize long | bufferBase long | directInput long 
+function MatchFinder_NeedMove int | p struct TYPE_3__ *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4006b0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_emscriptensystemliblibcmuslsrcthreadpthread_attr_setdetachstate.c_pthread_attr_setdetachstate.d/extr_emscriptensystemliblibcmuslsrcthreadpthread_attr_setdetachstate.c_pthread_attr_setdetachstate_O0::pthread_attr_setdetachstate(64)"
+  }
+]

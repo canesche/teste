@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 72,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 84,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversclksunxi-ngccu_nkm.c_ccu_nkm_find_best.d/extr_linuxdriversclksunxi-ngccu_nkm.c_ccu_nkm_find_best_O0::ccu_nkm_find_best(62)"
+  }
+]

@@ -1,0 +1,3 @@
+struct mca_config | monarch_timeout long 
+struct cpuinfo_x86 | x86 int | x86_model int | x86_stepping int 
+function mce_centaur_feature_init void | c struct cpuinfo_x86 *

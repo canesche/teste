@@ -1,0 +1,4 @@
+struct klist | dummy int 
+struct bus_type | p struct TYPE_2__ * 
+struct TYPE_2__ | klist_devices struct klist 
+function bus_get_device_klist struct klist * | bus struct bus_type *

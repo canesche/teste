@@ -1,0 +1,2 @@
+struct cs_blob | csb_signer_type unsigned int 
+function csblob_get_signer_type unsigned int | csblob struct cs_blob *

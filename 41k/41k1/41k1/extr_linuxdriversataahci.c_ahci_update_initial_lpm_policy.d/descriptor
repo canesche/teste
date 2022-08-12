@@ -1,0 +1,3 @@
+struct ata_port | target_lpm_policy int 
+struct ahci_host_priv | flags int 
+function ahci_update_initial_lpm_policy void | ap struct ata_port * | hpriv struct ahci_host_priv *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | bold int | italic int | reverse int | strikethrough int | dim int | decoration long | decoration_fg long | fg long | bg long 
+function cursor_reset_display_attrs void | self struct TYPE_3__ *

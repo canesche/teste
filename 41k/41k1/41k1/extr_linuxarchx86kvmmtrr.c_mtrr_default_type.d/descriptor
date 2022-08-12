@@ -1,0 +1,2 @@
+struct kvm_mtrr | deftype int 
+function mtrr_default_type int | mtrr_state struct kvm_mtrr *

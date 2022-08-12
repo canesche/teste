@@ -1,0 +1,2 @@
+struct socket_filter | sf_refcount int 
+function sflt_retain_locked void | filter struct socket_filter *

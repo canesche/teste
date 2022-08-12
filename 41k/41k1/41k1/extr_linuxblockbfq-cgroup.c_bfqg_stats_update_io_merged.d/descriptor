@@ -1,0 +1,2 @@
+struct bfq_group | dummy int 
+function bfqg_stats_update_io_merged void | bfqg struct bfq_group * | op unsigned int

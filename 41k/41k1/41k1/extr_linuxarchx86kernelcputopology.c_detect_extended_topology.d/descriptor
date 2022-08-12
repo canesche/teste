@@ -1,0 +1,2 @@
+struct cpuinfo_x86 | dummy int 
+function detect_extended_topology int | c struct cpuinfo_x86 *

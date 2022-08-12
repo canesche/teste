@@ -1,0 +1,2 @@
+struct inpcb | inp_flags2 int 
+function inp_get_intcoproc_allowed int | inp struct inpcb *

@@ -1,0 +1,2 @@
+struct cfq_data | hw_tag long | cfq_slice_idle int 
+function iops_mode int | cfqd struct cfq_data *

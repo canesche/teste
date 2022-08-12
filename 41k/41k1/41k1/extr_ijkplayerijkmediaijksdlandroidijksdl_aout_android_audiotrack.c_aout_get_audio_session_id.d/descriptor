@@ -1,0 +1,3 @@
+struct TYPE_5__ | opaque struct TYPE_4__ * 
+struct TYPE_4__ | audio_session_id int 
+function aout_get_audio_session_id int | aout struct TYPE_5__ *

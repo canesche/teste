@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversacpiacpicautascii.c_acpi_ut_valid_name_char.d/extr_linuxdriversacpiacpicautascii.c_acpi_ut_valid_name_char_O0::acpi_ut_valid_name_char(64)"
+  }
+]

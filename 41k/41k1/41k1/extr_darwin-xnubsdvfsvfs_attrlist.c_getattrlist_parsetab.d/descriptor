@@ -1,0 +1,5 @@
+struct vnode_attr | va_active int 
+struct user64_timespec | dummy int 
+struct user32_timespec | dummy int 
+struct getattrlist_attrtab | attr long | size long | action int | bits int 
+function getattrlist_parsetab int | tab struct getattrlist_attrtab * | attrs int | vap struct vnode_attr * | sizep int * | actionp int * | is_64bit int | maxiter unsigned int

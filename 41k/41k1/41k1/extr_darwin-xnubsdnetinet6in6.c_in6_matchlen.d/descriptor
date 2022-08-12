@@ -1,0 +1,2 @@
+struct in6_addr | dummy int 
+function in6_matchlen int | src struct in6_addr * | dst struct in6_addr *

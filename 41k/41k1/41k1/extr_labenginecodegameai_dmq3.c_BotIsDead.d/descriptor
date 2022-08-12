@@ -1,0 +1,3 @@
+struct TYPE_4__ | pm_type long 
+struct TYPE_5__ | cur_ps struct TYPE_4__ 
+function BotIsDead int | bs struct TYPE_5__ *

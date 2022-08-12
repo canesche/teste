@@ -1,0 +1,2 @@
+struct omap_usb_config | dummy int 
+function omap_otg_init void | config struct omap_usb_config *

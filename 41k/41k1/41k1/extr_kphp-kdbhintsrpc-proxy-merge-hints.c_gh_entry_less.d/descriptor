@@ -1,0 +1,2 @@
+struct TYPE_4__ | rating int | type long | object_id long 
+function gh_entry_less int | lhs struct TYPE_4__ * | rhs struct TYPE_4__ *

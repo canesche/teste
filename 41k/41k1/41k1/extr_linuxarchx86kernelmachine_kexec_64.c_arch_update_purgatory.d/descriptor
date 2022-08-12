@@ -1,0 +1,2 @@
+struct kimage | dummy int 
+function arch_update_purgatory int | image struct kimage *

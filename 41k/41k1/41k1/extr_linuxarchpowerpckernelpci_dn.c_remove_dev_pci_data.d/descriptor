@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function remove_dev_pci_data void | pdev struct pci_dev *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | last_fail_time int | sequential_fails long | fails int | success int 
+function update_read_stat void | S struct TYPE_3__ * | success int

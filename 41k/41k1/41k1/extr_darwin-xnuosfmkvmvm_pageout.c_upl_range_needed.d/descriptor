@@ -1,0 +1,4 @@
+struct TYPE_5__ | needed int 
+struct upl | dummy int 
+struct TYPE_4__ | flags int | size int 
+function upl_range_needed void | upl struct TYPE_4__ * | index int | count int

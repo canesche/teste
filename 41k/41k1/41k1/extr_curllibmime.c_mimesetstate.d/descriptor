@@ -1,0 +1,2 @@
+struct TYPE_3__ | state int | offset long | ptr void * 
+function mimesetstate void | state struct TYPE_3__ * | tok enum mimestate | ptr void *

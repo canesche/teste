@@ -1,0 +1,3 @@
+struct TYPE_5__ | xnum long | cpu_cells struct TYPE_4__ * 
+struct TYPE_4__ | ch long 
+function line_length unsigned int | self struct TYPE_5__ *

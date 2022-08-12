@@ -1,0 +1,2 @@
+struct request_queue | dma_alignment int 
+function blk_queue_dma_alignment void | q struct request_queue * | mask int

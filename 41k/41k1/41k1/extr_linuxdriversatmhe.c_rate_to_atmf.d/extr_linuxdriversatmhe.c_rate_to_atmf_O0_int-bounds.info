@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 75,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversatmhe.c_rate_to_atmf.d/extr_linuxdriversatmhe.c_rate_to_atmf_O0::rate_to_atmf(61)"
+  }
+]

@@ -1,0 +1,3 @@
+struct TYPE_4__ | pkt_flags int | pkt_timestamp long 
+struct TYPE_5__ | m_flags int | m_pkthdr struct TYPE_4__ 
+function mbuf_get_timestamp int | m struct TYPE_5__ * | ts long * | valid int *

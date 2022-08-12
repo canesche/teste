@@ -1,0 +1,2 @@
+struct TYPE_3__ | last_run_time long | last_made_runnable_time long 
+function thread_get_last_wait_duration long | thread struct TYPE_3__ *

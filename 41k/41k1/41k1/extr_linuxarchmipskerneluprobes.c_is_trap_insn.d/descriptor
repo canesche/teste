@@ -1,0 +1,5 @@
+struct TYPE_6__ | rt int 
+struct TYPE_5__ | func int 
+struct TYPE_4__ | opcode int 
+struct mips_instruction | u_format struct TYPE_6__ | r_format struct TYPE_5__ | i_format struct TYPE_4__ | word int 
+function is_trap_insn int | insn int *

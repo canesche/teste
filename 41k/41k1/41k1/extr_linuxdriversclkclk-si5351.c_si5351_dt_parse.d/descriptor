@@ -1,0 +1,2 @@
+struct i2c_client | dummy int 
+function si5351_dt_parse int | client struct i2c_client * | variant enum si5351_variant

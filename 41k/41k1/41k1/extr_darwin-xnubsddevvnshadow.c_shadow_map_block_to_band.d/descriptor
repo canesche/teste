@@ -1,0 +1,2 @@
+struct TYPE_3__ | blocks_per_band int 
+function shadow_map_block_to_band int | map struct TYPE_3__ * | block int

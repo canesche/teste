@@ -1,0 +1,2 @@
+struct tl_type | flags int 
+function tl_type_finalize void | t struct tl_type *

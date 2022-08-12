@@ -1,0 +1,1 @@
+function hubbub1_get_blk256_size void | blk256_width unsigned int * | blk256_height unsigned int * | bytes_per_element unsigned int

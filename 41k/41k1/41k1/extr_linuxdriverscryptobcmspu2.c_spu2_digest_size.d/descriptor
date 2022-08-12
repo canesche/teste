@@ -1,0 +1,1 @@
+function spu2_digest_size int | alg_digest_size int | alg enum hash_alg | htype enum hash_type

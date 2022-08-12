@@ -1,0 +1,2 @@
+struct strbuf | len int | buf char * 
+function strbuf_trim_trailing_newline void | sb struct strbuf *

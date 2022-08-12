@@ -1,0 +1,6 @@
+struct TYPE_8__ | strdup_strings int 
+struct TYPE_7__ | strdup_strings int 
+struct TYPE_6__ | strdup_strings int 
+struct TYPE_5__ | strdup_strings int 
+struct src_data | generic struct TYPE_8__ | r_branch struct TYPE_7__ | tag struct TYPE_6__ | branch struct TYPE_5__ 
+function init_src_data void | data struct src_data *

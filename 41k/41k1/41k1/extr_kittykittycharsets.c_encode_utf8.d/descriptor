@@ -1,0 +1,1 @@
+function encode_utf8 unsigned int | ch int | dest char *

@@ -1,0 +1,4 @@
+struct TYPE_8__ | priv struct TYPE_6__ * 
+struct TYPE_7__ | data int ** | linesize int * 
+struct TYPE_6__ | generation int | h int | buf_row_idx int | buf int * | w int | scroll long 
+function fill_picture void | ctx struct TYPE_8__ * | picref struct TYPE_7__ *

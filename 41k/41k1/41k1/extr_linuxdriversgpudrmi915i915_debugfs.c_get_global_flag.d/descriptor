@@ -1,0 +1,2 @@
+struct drm_i915_gem_object | userfault_count long 
+function get_global_flag char | obj struct drm_i915_gem_object *

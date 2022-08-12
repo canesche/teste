@@ -1,0 +1,2 @@
+struct TYPE_3__ | tc_flags int 
+function thread_call_get_flavor int | call struct TYPE_3__ *

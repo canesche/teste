@@ -1,0 +1,2 @@
+struct pp_hwmgr | dummy int 
+function make_classification_flags int | hwmgr struct pp_hwmgr * | classification int | classification2 int

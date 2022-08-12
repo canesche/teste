@@ -1,0 +1,2 @@
+struct amdgpu_device | reg_offset long *** 
+function sdma_v4_0_get_reg_offset long | adev struct amdgpu_device * | instance long | offset long

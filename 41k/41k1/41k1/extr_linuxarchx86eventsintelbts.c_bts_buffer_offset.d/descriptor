@@ -1,0 +1,3 @@
+struct bts_buffer | buf struct TYPE_2__ * 
+struct TYPE_2__ | offset unsigned long | displacement unsigned long 
+function bts_buffer_offset unsigned long | buf struct bts_buffer * | idx unsigned int

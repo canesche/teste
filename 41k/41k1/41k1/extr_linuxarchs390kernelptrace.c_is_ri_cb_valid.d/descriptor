@@ -1,0 +1,2 @@
+struct runtime_instr_cb | rca int | roa int | rla int | s int | k int | h long | reserved1 long | ps int | qs long | pc int | qc long | reserved2 long | key long | reserved3 long | reserved4 long | reserved5 long | reserved6 long | reserved7 long | reserved8 long | m int 
+function is_ri_cb_valid int | cb struct runtime_instr_cb *

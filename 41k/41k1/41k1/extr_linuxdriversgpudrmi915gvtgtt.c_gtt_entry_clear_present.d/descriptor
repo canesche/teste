@@ -1,0 +1,2 @@
+struct intel_gvt_gtt_entry | val64 int 
+function gtt_entry_clear_present void | e struct intel_gvt_gtt_entry *

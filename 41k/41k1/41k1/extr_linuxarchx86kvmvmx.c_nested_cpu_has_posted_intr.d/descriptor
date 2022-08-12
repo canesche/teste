@@ -1,0 +1,2 @@
+struct vmcs12 | pin_based_vm_exec_control int 
+function nested_cpu_has_posted_intr int | vmcs12 struct vmcs12 *

@@ -1,0 +1,3 @@
+struct TYPE_4__ | reachabilitysize int | reachability struct TYPE_3__ * 
+struct TYPE_3__ | traveltype int | facenum int 
+function AAS_NextModelReachability int | num int | modelnum int

@@ -1,0 +1,2 @@
+struct gpio_bank | dummy int 
+function omap_gpio_init_context void | p struct gpio_bank *

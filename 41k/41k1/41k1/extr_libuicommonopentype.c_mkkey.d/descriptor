@@ -1,0 +1,2 @@
+struct feature | a char | b char | c char | d char 
+function mkkey struct feature | a char | b char | c char | d char

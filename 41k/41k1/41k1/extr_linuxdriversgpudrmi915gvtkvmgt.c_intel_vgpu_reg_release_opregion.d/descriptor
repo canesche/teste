@@ -1,0 +1,3 @@
+struct vfio_region | dummy int 
+struct intel_vgpu | dummy int 
+function intel_vgpu_reg_release_opregion void | vgpu struct intel_vgpu * | region struct vfio_region *

@@ -1,0 +1,2 @@
+struct exynos_drm_crtc | dummy int 
+function vidi_disable_vblank void | crtc struct exynos_drm_crtc *

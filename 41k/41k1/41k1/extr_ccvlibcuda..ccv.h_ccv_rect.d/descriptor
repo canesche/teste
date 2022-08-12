@@ -1,0 +1,2 @@
+struct TYPE_3__ | x int | y int | width int | height int 
+function ccv_rect struct TYPE_3__ | x int | y int | width int | height int

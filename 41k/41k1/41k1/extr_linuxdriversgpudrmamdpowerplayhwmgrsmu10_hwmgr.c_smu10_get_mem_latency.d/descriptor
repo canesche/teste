@@ -1,0 +1,2 @@
+struct pp_hwmgr | dummy int 
+function smu10_get_mem_latency long | hwmgr struct pp_hwmgr * | clock long

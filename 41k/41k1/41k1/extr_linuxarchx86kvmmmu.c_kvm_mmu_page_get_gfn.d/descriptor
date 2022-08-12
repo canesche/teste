@@ -1,0 +1,3 @@
+struct TYPE_2__ | level int | direct int 
+struct kvm_mmu_page | role struct TYPE_2__ | gfn long | gfns long * 
+function kvm_mmu_page_get_gfn long | sp struct kvm_mmu_page * | index int

@@ -1,0 +1,4 @@
+struct drm_mode_object | type long 
+struct drm_file | universal_planes long 
+struct drm_device | dummy int 
+function validate_lease int | dev struct drm_device * | lessor_priv struct drm_file * | object_count int | objects struct drm_mode_object **

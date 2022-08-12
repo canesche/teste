@@ -1,0 +1,2 @@
+struct connection | status long | ready int 
+function server_check_ready int | c struct connection *

@@ -1,0 +1,3 @@
+struct socket | so_flags int | so_cfil struct TYPE_2__ * 
+struct TYPE_2__ | cfi_sock_id int 
+function cfil_sock_id_from_socket int | so struct socket *

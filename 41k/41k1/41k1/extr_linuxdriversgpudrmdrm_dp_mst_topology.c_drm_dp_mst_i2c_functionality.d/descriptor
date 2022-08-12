@@ -1,0 +1,2 @@
+struct i2c_adapter | dummy int 
+function drm_dp_mst_i2c_functionality int | adapter struct i2c_adapter *

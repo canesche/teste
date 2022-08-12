@@ -1,0 +1,2 @@
+struct TYPE_3__ | custom_context long | custom_inflate long | custom_zlib long | ignore_adler32 long 
+function lodepng_decompress_settings_init void | settings struct TYPE_3__ *

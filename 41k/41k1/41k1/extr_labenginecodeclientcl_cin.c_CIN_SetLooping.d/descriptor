@@ -1,0 +1,2 @@
+struct TYPE_2__ | status long | looping int 
+function CIN_SetLooping void | handle int | loop int

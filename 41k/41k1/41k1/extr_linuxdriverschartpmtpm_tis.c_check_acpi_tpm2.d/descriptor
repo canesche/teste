@@ -1,0 +1,2 @@
+struct device | dummy int 
+function check_acpi_tpm2 int | dev struct device *

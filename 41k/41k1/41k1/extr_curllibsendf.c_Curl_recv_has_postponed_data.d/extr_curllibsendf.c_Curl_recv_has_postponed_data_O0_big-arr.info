@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_curllibsendf.c_Curl_recv_has_postponed_data.d/extr_curllibsendf.c_Curl_recv_has_postponed_data_O0::Curl_recv_has_postponed_data(61)"
+  }
+]

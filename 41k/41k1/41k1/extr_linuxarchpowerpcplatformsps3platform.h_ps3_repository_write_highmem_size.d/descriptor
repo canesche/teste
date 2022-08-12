@@ -1,0 +1,1 @@
+function ps3_repository_write_highmem_size int | region_index unsigned int | highmem_size int

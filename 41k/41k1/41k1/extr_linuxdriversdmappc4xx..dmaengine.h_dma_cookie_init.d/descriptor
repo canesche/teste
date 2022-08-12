@@ -1,0 +1,2 @@
+struct dma_chan | completed_cookie void * | cookie void * 
+function dma_cookie_init void | chan struct dma_chan *

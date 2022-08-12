@@ -1,0 +1,2 @@
+struct lanai_dev | magicno int | serialno long 
+function eeprom_validate int | lanai struct lanai_dev *

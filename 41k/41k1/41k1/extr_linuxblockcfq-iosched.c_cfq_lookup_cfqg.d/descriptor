@@ -1,0 +1,4 @@
+struct cfq_group | dummy int 
+struct cfq_data | root_group struct cfq_group * 
+struct blkcg | dummy int 
+function cfq_lookup_cfqg struct cfq_group * | cfqd struct cfq_data * | blkcg struct blkcg *

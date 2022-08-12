@@ -1,0 +1,2 @@
+struct TYPE_3__ | len long | str long * 
+function av_bprint_clear void | buf struct TYPE_3__ *

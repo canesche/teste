@@ -1,0 +1,6 @@
+struct vega10_single_dpm_table | count int | dpm_levels struct TYPE_4__ * 
+struct pp_hwmgr | dummy int 
+struct phm_ppt_v1_clock_voltage_dependency_table | count int | entries struct TYPE_3__ * 
+struct TYPE_4__ | value long | enabled int 
+struct TYPE_3__ | clk long 
+function vega10_setup_default_single_dpm_table void | hwmgr struct pp_hwmgr * | dpm_table struct vega10_single_dpm_table * | dep_table struct phm_ppt_v1_clock_voltage_dependency_table *

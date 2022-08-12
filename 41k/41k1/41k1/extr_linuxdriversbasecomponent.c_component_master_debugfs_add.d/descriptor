@@ -1,0 +1,2 @@
+struct master | dummy int 
+function component_master_debugfs_add void | m struct master *

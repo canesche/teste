@@ -1,0 +1,3 @@
+struct TYPE_4__ | aio_fildes int 
+struct TYPE_5__ | uaiocbp long | aiocb struct TYPE_4__ 
+function should_cancel int | entryp struct TYPE_5__ * | aiocbp long | fd int

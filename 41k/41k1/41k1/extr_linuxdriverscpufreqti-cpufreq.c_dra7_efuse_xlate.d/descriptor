@@ -1,0 +1,2 @@
+struct ti_cpufreq_data | dummy int 
+function dra7_efuse_xlate unsigned long | opp_data struct ti_cpufreq_data * | efuse unsigned long

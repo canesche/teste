@@ -1,0 +1,3 @@
+struct fw_packet | dummy int 
+struct fw_card | dummy int 
+function dummy_cancel_packet int | card struct fw_card * | packet struct fw_packet *

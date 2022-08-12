@@ -1,0 +1,3 @@
+struct TYPE_6__ | ch long 
+struct TYPE_5__ | attrs int 
+function clear_chars_in_line void | cpu_cells struct TYPE_6__ * | gpu_cells struct TYPE_5__ * | xnum unsigned long | ch long

@@ -1,0 +1,1 @@
+function daxpy void | n int | da double | dx double [] | incx int | dy double [] | incy int

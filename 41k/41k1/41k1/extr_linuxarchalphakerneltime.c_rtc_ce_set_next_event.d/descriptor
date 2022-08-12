@@ -1,0 +1,2 @@
+struct clock_event_device | dummy int 
+function rtc_ce_set_next_event int | evt unsigned long | ce struct clock_event_device *

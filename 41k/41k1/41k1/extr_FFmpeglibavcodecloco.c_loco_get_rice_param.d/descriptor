@@ -1,0 +1,2 @@
+struct TYPE_3__ | count int | sum int 
+function loco_get_rice_param int | r struct TYPE_3__ *

@@ -1,0 +1,1 @@
+function kvmppc_check_passthru int | xisr int | xirr int | again int *

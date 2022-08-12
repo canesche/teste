@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchriscvkernelperf_event.c_riscv_base_pmu_handle_irq.d/extr_linuxarchriscvkernelperf_event.c_riscv_base_pmu_handle_irq_O0::riscv_base_pmu_handle_irq(62)"
+  }
+]

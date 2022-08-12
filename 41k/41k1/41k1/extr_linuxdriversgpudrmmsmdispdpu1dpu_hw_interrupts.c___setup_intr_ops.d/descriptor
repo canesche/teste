@@ -1,0 +1,2 @@
+struct dpu_hw_intr_ops | get_interrupt_status int | clear_intr_status_nolock int | clear_interrupt_status int | get_interrupt_statuses int | get_valid_interrupts int | disable_all_irqs int | clear_all_irqs int | dispatch_irqs int | disable_irq int | enable_irq int | irq_idx_lookup int | set_mask int 
+function __setup_intr_ops void | ops struct dpu_hw_intr_ops *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 20,
+    phantoms: 7,
+    exit: true,
+    halt: false,
+    edges: 33,
+    static: {
+      instructions: 69,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 69,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnubsdnetbridgestp.c_bstp_pdu_flags.d/extr_darwin-xnubsdnetbridgestp.c_bstp_pdu_flags_O0::bstp_pdu_flags(84)"
+  }
+]

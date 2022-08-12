@@ -1,0 +1,2 @@
+struct drm_crtc | dummy int 
+function drm_debugfs_crtc_crc_add int | crtc struct drm_crtc *

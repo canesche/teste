@@ -1,0 +1,2 @@
+struct TYPE_4__ | c int | h int | w int | data float * 
+function smooth void | recon struct TYPE_4__ | update struct TYPE_4__ | lambda float | num int

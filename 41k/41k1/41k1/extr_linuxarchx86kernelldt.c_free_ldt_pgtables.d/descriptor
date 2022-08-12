@@ -1,0 +1,2 @@
+struct mm_struct | dummy int 
+function free_ldt_pgtables void | mm struct mm_struct *

@@ -1,0 +1,2 @@
+struct sline | flag unsigned long 
+function adjust_hunk_tail unsigned long | sline struct sline * | all_mask unsigned long | hunk_begin unsigned long | i unsigned long

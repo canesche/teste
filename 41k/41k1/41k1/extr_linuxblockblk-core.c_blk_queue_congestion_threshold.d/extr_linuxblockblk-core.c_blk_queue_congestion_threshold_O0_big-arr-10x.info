@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 56,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 56,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxblockblk-core.c_blk_queue_congestion_threshold.d/extr_linuxblockblk-core.c_blk_queue_congestion_threshold_O0::blk_queue_congestion_threshold(61)"
+  }
+]

@@ -1,0 +1,2 @@
+struct branch | merge int 
+function branch_has_merge_config int | branch struct branch *

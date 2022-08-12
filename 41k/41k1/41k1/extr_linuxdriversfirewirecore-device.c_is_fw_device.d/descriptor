@@ -1,0 +1,2 @@
+struct device | type int * 
+function is_fw_device int | dev struct device *

@@ -1,0 +1,2 @@
+struct list_decoder | k long | K long 
+function degenerate_decode_int int | dec struct list_decoder *

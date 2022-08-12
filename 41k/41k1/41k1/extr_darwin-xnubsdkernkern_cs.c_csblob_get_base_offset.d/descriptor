@@ -1,0 +1,2 @@
+struct cs_blob | csb_base_offset int 
+function csblob_get_base_offset int | blob struct cs_blob *

@@ -1,0 +1,2 @@
+struct dax_device | dummy int 
+function dax_flush void | dax_dev struct dax_device * | addr void * | size unsigned long

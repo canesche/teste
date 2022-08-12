@@ -1,0 +1,4 @@
+struct TYPE_6__ | shader struct TYPE_5__ * 
+struct TYPE_7__ | vertexAnimation long 
+struct TYPE_5__ | vertexAttribs unsigned int 
+function RB_CalcShaderVertexAttribs unsigned int | input struct TYPE_6__ *

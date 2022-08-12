@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnubsdnfsnfs4_vnops.c_nfs_owner_seqid_increment.d/extr_darwin-xnubsdnfsnfs4_vnops.c_nfs_owner_seqid_increment_O0::nfs_owner_seqid_increment(71)"
+  }
+]

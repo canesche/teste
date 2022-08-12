@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 905,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darknetsrcstb_image.h_stbi__jpeg_dequantize.d/extr_darknetsrcstb_image.h_stbi__jpeg_dequantize_O0::stbi__jpeg_dequantize(61)"
+  }
+]

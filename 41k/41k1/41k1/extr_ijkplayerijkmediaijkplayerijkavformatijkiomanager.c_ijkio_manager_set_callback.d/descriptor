@@ -1,0 +1,3 @@
+struct TYPE_5__ | ijkio_app_ctx struct TYPE_4__ * 
+struct TYPE_4__ | func_ijkio_on_app_event void * 
+function ijkio_manager_set_callback int | h struct TYPE_5__ * | callback void *

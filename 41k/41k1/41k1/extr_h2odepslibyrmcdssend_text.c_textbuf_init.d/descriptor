@@ -1,0 +1,2 @@
+struct TYPE_3__ | buffer int | pos int 
+function textbuf_init void | buf struct TYPE_3__ *

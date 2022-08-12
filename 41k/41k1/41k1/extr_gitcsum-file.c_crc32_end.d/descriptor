@@ -1,0 +1,2 @@
+struct hashfile | crc32 int | do_crc long 
+function crc32_end int | f struct hashfile *

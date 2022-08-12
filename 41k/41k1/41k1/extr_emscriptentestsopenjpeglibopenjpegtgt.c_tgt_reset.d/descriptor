@@ -1,0 +1,3 @@
+struct TYPE_5__ | numnodes int | nodes struct TYPE_4__ * 
+struct TYPE_4__ | value int | known long | low long 
+function tgt_reset void | tree struct TYPE_5__ *

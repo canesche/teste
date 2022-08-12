@@ -1,0 +1,2 @@
+struct drm_connector | dummy int 
+function drm_debugfs_connector_remove void | connector struct drm_connector *

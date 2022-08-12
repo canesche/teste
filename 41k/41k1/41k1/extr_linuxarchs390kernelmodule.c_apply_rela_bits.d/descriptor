@@ -1,0 +1,1 @@
+function apply_rela_bits int | loc unsigned long | val unsigned long | sign int | bits int | shift int

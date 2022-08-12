@@ -1,0 +1,1 @@
+function cpu_info_count int | flavor int | count unsigned int *

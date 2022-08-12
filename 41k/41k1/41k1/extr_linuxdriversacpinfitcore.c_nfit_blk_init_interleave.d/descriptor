@@ -1,0 +1,3 @@
+struct nfit_blk_mmio | num_lines int | line_size int | table_size int 
+struct acpi_nfit_interleave | line_count int | line_size int 
+function nfit_blk_init_interleave int | mmio struct nfit_blk_mmio * | idt struct acpi_nfit_interleave * | interleave_ways int

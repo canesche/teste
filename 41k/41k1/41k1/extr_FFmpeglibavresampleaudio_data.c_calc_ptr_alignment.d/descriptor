@@ -1,0 +1,2 @@
+struct TYPE_3__ | planes int | ptr_align int | data long * 
+function calc_ptr_alignment void | a struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | count long 
+function jvp_refcnt_dec int | c struct TYPE_3__ *

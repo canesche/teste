@@ -1,0 +1,2 @@
+struct drm_i915_gem_object | scratch int 
+function huge_gem_object_phys_size int | obj struct drm_i915_gem_object *

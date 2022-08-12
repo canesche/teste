@@ -1,0 +1,2 @@
+struct bridge_softc | dummy int 
+function bridge_ioctl_sfd int | sc struct bridge_softc * | arg void *

@@ -1,0 +1,2 @@
+struct amdgpu_device | dummy int 
+function si_set_uvd_clocks int | adev struct amdgpu_device * | vclk int | dclk int

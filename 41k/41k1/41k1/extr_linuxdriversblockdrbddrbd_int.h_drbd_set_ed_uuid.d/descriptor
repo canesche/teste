@@ -1,0 +1,2 @@
+struct drbd_device | ed_uuid long 
+function drbd_set_ed_uuid int | device struct drbd_device * | val long

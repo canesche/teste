@@ -1,0 +1,2 @@
+struct drm_psb_private | dummy int 
+function intel_i2c_quirk_set void | dev_priv struct drm_psb_private * | enable int

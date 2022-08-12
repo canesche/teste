@@ -1,0 +1,1 @@
+function dtrace_arm_condition_true int | cond int | cpsr int

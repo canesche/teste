@@ -1,0 +1,2 @@
+struct TYPE_3__ | t_procflags int 
+function task_set_did_exec_flag void | task struct TYPE_3__ *

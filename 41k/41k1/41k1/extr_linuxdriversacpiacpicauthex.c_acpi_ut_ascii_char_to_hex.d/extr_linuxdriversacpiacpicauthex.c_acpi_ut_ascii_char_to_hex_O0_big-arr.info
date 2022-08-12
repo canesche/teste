@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversacpiacpicauthex.c_acpi_ut_ascii_char_to_hex.d/extr_linuxdriversacpiacpicauthex.c_acpi_ut_ascii_char_to_hex_O0::acpi_ut_ascii_char_to_hex(61)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmmsmadrenoa6xx.xml.h_REG_A6XX_SP_FS_MRT_REG.d/extr_linuxdriversgpudrmmsmadrenoa6xx.xml.h_REG_A6XX_SP_FS_MRT_REG_O0::REG_A6XX_SP_FS_MRT_REG(60)"
+  }
+]

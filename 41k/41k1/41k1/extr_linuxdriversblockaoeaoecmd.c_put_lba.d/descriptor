@@ -1,0 +1,2 @@
+struct aoe_atahdr | lba0 int | lba1 int | lba2 int | lba3 int | lba4 int | lba5 int 
+function put_lba void | ah struct aoe_atahdr * | lba int

@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function idi_48_irq_ack void | data struct irq_data *

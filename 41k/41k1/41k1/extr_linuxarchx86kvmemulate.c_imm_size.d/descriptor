@@ -1,0 +1,2 @@
+struct x86_emulate_ctxt | d int | op_bytes int 
+function imm_size unsigned int | ctxt struct x86_emulate_ctxt *

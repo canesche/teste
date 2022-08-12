@@ -1,0 +1,3 @@
+struct object_array_entry | item struct TYPE_2__ * 
+struct TYPE_2__ | flags int 
+function entry_unshown int | entry struct object_array_entry * | cb_data_unused void *

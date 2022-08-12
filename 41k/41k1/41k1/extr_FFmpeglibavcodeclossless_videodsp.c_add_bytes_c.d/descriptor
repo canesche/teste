@@ -1,0 +1,1 @@
+function add_bytes_c void | dst long * | src long * | w int

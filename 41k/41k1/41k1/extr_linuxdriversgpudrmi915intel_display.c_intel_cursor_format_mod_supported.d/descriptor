@@ -1,0 +1,2 @@
+struct drm_plane | dummy int 
+function intel_cursor_format_mod_supported int | _plane struct drm_plane * | format long | modifier long

@@ -1,0 +1,2 @@
+struct TYPE_3__ | tail int | capacity int | size long | head long 
+function gqueue_init void | q struct TYPE_3__ * | capacity int

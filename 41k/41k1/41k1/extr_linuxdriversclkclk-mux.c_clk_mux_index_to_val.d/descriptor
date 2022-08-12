@@ -1,0 +1,1 @@
+function clk_mux_index_to_val unsigned int | table unsigned int * | flags unsigned int | index unsigned long

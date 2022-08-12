@@ -1,0 +1,2 @@
+struct tegra_gpio_info | dummy int 
+function tegra_gpio_debuginit void | tgi struct tegra_gpio_info *

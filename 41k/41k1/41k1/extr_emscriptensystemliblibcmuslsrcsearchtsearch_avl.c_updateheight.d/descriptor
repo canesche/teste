@@ -1,0 +1,4 @@
+struct node | height long | right struct TYPE_3__ * | left struct TYPE_4__ * 
+struct TYPE_4__ | height long 
+struct TYPE_3__ | height long 
+function updateheight void | n struct node *

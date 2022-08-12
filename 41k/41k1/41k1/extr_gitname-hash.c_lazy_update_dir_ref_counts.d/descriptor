@@ -1,0 +1,4 @@
+struct lazy_entry | dir struct TYPE_2__ * 
+struct index_state | cache_nr int 
+struct TYPE_2__ | nr int 
+function lazy_update_dir_ref_counts void | istate struct index_state * | lazy_entries struct lazy_entry *

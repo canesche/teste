@@ -1,0 +1,2 @@
+struct TYPE_3__ | inBufSize_ST int | outStep_ST int | numThreads int | inBufSize_MT int | memUseMax int | ignoreErrors int 
+function XzDecMtProps_Init void | p struct TYPE_3__ *

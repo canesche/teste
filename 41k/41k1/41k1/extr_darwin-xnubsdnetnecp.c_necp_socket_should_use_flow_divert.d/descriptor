@@ -1,0 +1,4 @@
+struct TYPE_3__ | result long 
+struct TYPE_4__ | results struct TYPE_3__ 
+struct inpcb | inp_policyresult struct TYPE_4__ 
+function necp_socket_should_use_flow_divert int | inp struct inpcb *

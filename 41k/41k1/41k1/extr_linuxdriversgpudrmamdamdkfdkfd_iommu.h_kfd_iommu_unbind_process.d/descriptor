@@ -1,0 +1,2 @@
+struct kfd_process | dummy int 
+function kfd_iommu_unbind_process void | p struct kfd_process *

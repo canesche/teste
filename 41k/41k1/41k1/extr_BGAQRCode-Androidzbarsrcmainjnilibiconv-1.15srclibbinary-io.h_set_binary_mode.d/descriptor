@@ -1,0 +1,1 @@
+function set_binary_mode int | fd int | mode int

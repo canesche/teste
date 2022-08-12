@@ -1,0 +1,2 @@
+struct link_encoder | dummy int 
+function virtual_link_encoder_setup void | enc struct link_encoder * | signal enum signal_type

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function sun8i_r40_ccu_regmap_accessible_reg int | dev struct device * | reg unsigned int

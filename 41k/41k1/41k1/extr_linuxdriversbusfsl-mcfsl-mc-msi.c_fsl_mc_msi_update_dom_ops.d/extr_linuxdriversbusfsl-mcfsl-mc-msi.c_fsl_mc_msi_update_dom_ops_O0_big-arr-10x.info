@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversbusfsl-mcfsl-mc-msi.c_fsl_mc_msi_update_dom_ops.d/extr_linuxdriversbusfsl-mcfsl-mc-msi.c_fsl_mc_msi_update_dom_ops_O0::fsl_mc_msi_update_dom_ops(63)"
+  }
+]

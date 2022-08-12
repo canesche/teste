@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmmsmdsiplldsi_pll_28nm_8960.c_get_vco_mul_factor.d/extr_linuxdriversgpudrmmsmdsiplldsi_pll_28nm_8960.c_get_vco_mul_factor_O0::get_vco_mul_factor(60)"
+  }
+]

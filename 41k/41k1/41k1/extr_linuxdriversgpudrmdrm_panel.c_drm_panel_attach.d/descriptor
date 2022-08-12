@@ -1,0 +1,3 @@
+struct drm_panel | drm int | connector struct drm_connector * 
+struct drm_connector | dev int 
+function drm_panel_attach int | panel struct drm_panel * | connector struct drm_connector *

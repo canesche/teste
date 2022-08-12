@@ -1,0 +1,2 @@
+struct backlight_device | dummy int 
+function get_brightness void | bd struct backlight_device *

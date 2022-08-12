@@ -1,0 +1,4 @@
+struct fw_iso_packet | dummy int 
+struct fw_iso_context | dummy int 
+struct fw_iso_buffer | dummy int 
+function dummy_queue_iso int | ctx struct fw_iso_context * | p struct fw_iso_packet * | buffer struct fw_iso_buffer * | payload unsigned long

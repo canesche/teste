@@ -1,0 +1,2 @@
+struct cdrom_device_info | dummy int 
+function pcd_release void | cdi struct cdrom_device_info *

@@ -1,0 +1,2 @@
+struct vc_dmaman | chan_available int 
+function vc_dmaman_chan_free int | dmaman struct vc_dmaman * | chan int

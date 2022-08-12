@@ -1,0 +1,1 @@
+function GLimp_SetGamma void | red unsigned char [256] | green unsigned char [256] | blue unsigned char [256]

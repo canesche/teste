@@ -1,0 +1,5 @@
+struct TYPE_4__ | allowGnbSlow int | vce_wm long | display_wm long | numSIMDToPowerDown long | hysteresis_up long | forceNBPstate long | ssDividerIndex long | dsDividerIndex long | vddcIndex long | engineClock int 
+struct TYPE_3__ | bootup_nb_voltage_index long | bootup_engine_clock int 
+struct smu8_hwmgr | boot_power_level struct TYPE_4__ | sys_info struct TYPE_3__ 
+struct pp_hwmgr | backend struct smu8_hwmgr * 
+function smu8_construct_boot_state int | hwmgr struct pp_hwmgr *

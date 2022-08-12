@@ -1,0 +1,3 @@
+struct TYPE_4__ | mapCount int | mapList struct TYPE_3__ * 
+struct TYPE_3__ | active long 
+function UI_GetIndexFromSelection int | actual int

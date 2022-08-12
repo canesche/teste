@@ -1,0 +1,4 @@
+struct drm_plane_state | crtc_x long | crtc_y long | crtc_w long | crtc_h long 
+struct TYPE_2__ | hdisplay long | vdisplay long 
+struct drm_crtc_state | mode struct TYPE_2__ 
+function is_fullscreen int | cstate struct drm_crtc_state * | pstate struct drm_plane_state *

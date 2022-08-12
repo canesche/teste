@@ -1,0 +1,2 @@
+struct TYPE_3__ | v_id long 
+function vnode_vid int | vp struct TYPE_3__ *

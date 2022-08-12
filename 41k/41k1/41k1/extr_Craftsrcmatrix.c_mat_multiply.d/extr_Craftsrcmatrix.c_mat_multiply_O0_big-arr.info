@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 13,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 66,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 1925,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_Craftsrcmatrix.c_mat_multiply.d/extr_Craftsrcmatrix.c_mat_multiply_O0::mat_multiply(59)"
+  }
+]

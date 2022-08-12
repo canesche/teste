@@ -1,0 +1,2 @@
+struct i2s_pll_cfg | dummy int 
+function i2s_pll_get_cfg const struct i2s_pll_cfg * | prate unsigned long

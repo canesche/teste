@@ -1,0 +1,2 @@
+struct gpio_chip | ngpio unsigned int 
+function vr41xx_gpio_to_irq int | chip struct gpio_chip * | offset unsigned int

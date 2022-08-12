@@ -1,0 +1,2 @@
+struct rnd_state | dummy int 
+function one unsigned int | n unsigned long | count unsigned long | rnd struct rnd_state *

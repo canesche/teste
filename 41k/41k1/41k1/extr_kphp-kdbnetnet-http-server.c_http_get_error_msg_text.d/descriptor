@@ -1,0 +1,1 @@
+function http_get_error_msg_text char * | code int *

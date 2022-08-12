@@ -1,0 +1,1 @@
+function get_thumbs_dimensions int | orig_width int | orig_height int | desired_width int | desired_height int | new_width int * | new_height int *

@@ -1,0 +1,5 @@
+struct ipmi_smi | local_sel_device int | local_event_generator int 
+struct TYPE_4__ | netfn long | cmd long | data int * 
+struct TYPE_3__ | addr_type long 
+struct ipmi_recv_msg | msg struct TYPE_4__ | addr struct TYPE_3__ 
+function device_id_fetcher void | intf struct ipmi_smi * | msg struct ipmi_recv_msg *

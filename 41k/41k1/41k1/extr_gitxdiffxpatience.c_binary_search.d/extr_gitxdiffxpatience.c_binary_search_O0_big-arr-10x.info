@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 115,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_gitxdiffxpatience.c_binary_search.d/extr_gitxdiffxpatience.c_binary_search_O0::binary_search(62)"
+  }
+]

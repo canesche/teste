@@ -1,0 +1,2 @@
+struct memtype | dummy int 
+function rbt_memtype_copy_nth_element int | out struct memtype * | pos int

@@ -1,0 +1,9 @@
+struct pp_hwmgr | pptable long 
+struct pp_clock_levels_with_voltage | num_levels int | data struct TYPE_5__ * 
+struct phm_ppt_v2_information | vddc_lookup_table struct TYPE_7__ * | vdd_dep_on_phyclk struct phm_ppt_v1_clock_voltage_dependency_table * | vdd_dep_on_pixclk struct phm_ppt_v1_clock_voltage_dependency_table * | vdd_dep_on_dispclk struct phm_ppt_v1_clock_voltage_dependency_table * | vdd_dep_on_dcefclk struct phm_ppt_v1_clock_voltage_dependency_table * | vdd_dep_on_mclk struct phm_ppt_v1_clock_voltage_dependency_table * 
+struct phm_ppt_v1_clock_voltage_dependency_table | count unsigned long | entries struct TYPE_8__ * 
+struct TYPE_8__ | clk int | vddInd unsigned long 
+struct TYPE_7__ | entries struct TYPE_6__ * 
+struct TYPE_6__ | us_vdd long 
+struct TYPE_5__ | clocks_in_khz int | voltage_in_mv unsigned long 
+function vega10_get_clock_by_type_with_voltage int | hwmgr struct pp_hwmgr * | type enum amd_pp_clock_type | clocks struct pp_clock_levels_with_voltage *

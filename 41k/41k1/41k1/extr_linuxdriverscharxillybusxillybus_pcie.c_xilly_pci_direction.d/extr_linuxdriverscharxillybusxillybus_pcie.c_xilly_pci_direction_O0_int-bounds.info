@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriverscharxillybusxillybus_pcie.c_xilly_pci_direction.d/extr_linuxdriverscharxillybusxillybus_pcie.c_xilly_pci_direction_O0::xilly_pci_direction(65)"
+  }
+]

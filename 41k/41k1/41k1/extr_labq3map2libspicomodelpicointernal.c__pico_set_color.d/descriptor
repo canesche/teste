@@ -1,0 +1,1 @@
+function _pico_set_color void | c int * | r int | g int | b int | a int

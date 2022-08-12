@@ -1,0 +1,2 @@
+struct cache_local_copy | flags int | yellow_light_start long 
+function cache_local_copy_get_yellow_light_time void | L struct cache_local_copy * | remaining_time int * | elapsed_time int *

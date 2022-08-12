@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function lp873x_gpio_direction_input int | chip struct gpio_chip * | offset unsigned int

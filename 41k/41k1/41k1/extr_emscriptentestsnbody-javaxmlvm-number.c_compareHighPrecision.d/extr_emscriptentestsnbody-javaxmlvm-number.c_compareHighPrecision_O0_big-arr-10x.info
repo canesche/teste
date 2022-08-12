@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_emscriptentestsnbody-javaxmlvm-number.c_compareHighPrecision.d/extr_emscriptentestsnbody-javaxmlvm-number.c_compareHighPrecision_O0::compareHighPrecision(63)"
+  }
+]

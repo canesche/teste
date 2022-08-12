@@ -1,0 +1,2 @@
+struct dpu_core_perf | dummy int 
+function dpu_core_perf_debugfs_destroy void | perf struct dpu_core_perf *

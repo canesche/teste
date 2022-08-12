@@ -1,0 +1,1 @@
+function kvm_enable_efer_bits void | mask int

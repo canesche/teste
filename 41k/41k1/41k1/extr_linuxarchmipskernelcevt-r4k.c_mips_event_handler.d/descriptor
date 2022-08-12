@@ -1,0 +1,2 @@
+struct clock_event_device | dummy int 
+function mips_event_handler void | dev struct clock_event_device *

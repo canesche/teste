@@ -1,0 +1,3 @@
+struct drm_file | dummy int 
+struct drm_device | dummy int 
+function psb_gem_get_aperture int | dev struct drm_device * | data void * | file struct drm_file *

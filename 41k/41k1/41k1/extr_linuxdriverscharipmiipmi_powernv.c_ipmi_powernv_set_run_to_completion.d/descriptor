@@ -1,0 +1,1 @@
+function ipmi_powernv_set_run_to_completion void | send_info void * | run_to_completion int

@@ -1,0 +1,2 @@
+struct bfq_entity | dummy int 
+function bfq_update_parent_budget int | next_in_service struct bfq_entity *

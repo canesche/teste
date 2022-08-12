@@ -1,0 +1,2 @@
+struct mv_cesa_req | dummy int 
+function mv_cesa_dma_process int | dreq struct mv_cesa_req * | status int

@@ -1,0 +1,2 @@
+struct msm_gem_object | vmap_count long | vaddr long 
+function is_vunmapable int | msm_obj struct msm_gem_object *

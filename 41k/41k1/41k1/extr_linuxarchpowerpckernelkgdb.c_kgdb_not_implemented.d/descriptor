@@ -1,0 +1,2 @@
+struct pt_regs | dummy int 
+function kgdb_not_implemented int | regs struct pt_regs *

@@ -1,0 +1,2 @@
+struct vmcs_config | dummy int 
+function evmcs_sanitize_exec_ctrls void | vmcs_conf struct vmcs_config *

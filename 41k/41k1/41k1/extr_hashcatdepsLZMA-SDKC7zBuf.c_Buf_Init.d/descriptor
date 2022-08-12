@@ -1,0 +1,2 @@
+struct TYPE_3__ | size long | data long 
+function Buf_Init void | p struct TYPE_3__ *

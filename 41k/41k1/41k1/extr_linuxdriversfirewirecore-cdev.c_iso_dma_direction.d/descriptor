@@ -1,0 +1,2 @@
+struct fw_iso_context | type long 
+function iso_dma_direction enum dma_data_direction | context struct fw_iso_context *

@@ -1,0 +1,1 @@
+function _glfwPlatformGetVideoMode void | monitor int * | mode int *

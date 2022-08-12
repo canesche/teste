@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 3845,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_hashcatsrcwordlist.c_get_next_word_std.d/extr_hashcatsrcwordlist.c_get_next_word_std_O0::get_next_word_std(61)"
+  }
+]

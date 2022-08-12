@@ -1,0 +1,2 @@
+struct TYPE_3__ | shininess float 
+function PicoSetShaderShininess void | shader struct TYPE_3__ * | value float

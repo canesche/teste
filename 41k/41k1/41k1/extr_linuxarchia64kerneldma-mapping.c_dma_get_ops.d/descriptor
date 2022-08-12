@@ -1,0 +1,3 @@
+struct dma_map_ops | dummy int 
+struct device | dummy int 
+function dma_get_ops const struct dma_map_ops * | dev struct device *

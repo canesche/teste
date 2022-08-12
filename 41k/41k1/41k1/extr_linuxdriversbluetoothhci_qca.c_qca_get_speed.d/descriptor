@@ -1,0 +1,3 @@
+struct hci_uart | init_speed int | oper_speed int | proto struct TYPE_2__ * 
+struct TYPE_2__ | init_speed int | oper_speed int 
+function qca_get_speed unsigned int | hu struct hci_uart * | speed_type enum qca_speed_type

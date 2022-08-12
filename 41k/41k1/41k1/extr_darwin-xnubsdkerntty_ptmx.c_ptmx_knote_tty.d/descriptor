@@ -1,0 +1,4 @@
+struct tty | dummy int 
+struct ptmx_ioctl | pt_tty struct tty * 
+struct knote | kn_hook struct ptmx_ioctl * 
+function ptmx_knote_tty struct tty * | kn struct knote *

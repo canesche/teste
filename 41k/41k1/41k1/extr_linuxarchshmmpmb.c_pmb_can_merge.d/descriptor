@@ -1,0 +1,2 @@
+struct pmb_entry | vpn long | size long | ppn long | flags long 
+function pmb_can_merge int | a struct pmb_entry * | b struct pmb_entry *

@@ -1,0 +1,2 @@
+struct nfs_open_file | nof_access int | nof_deny int | nof_r int | nof_d_r int | nof_rw int | nof_d_rw int | nof_r_dw int | nof_d_r_dw int | nof_rw_dw int | nof_d_rw_dw int | nof_r_drw int | nof_d_r_drw int | nof_w int | nof_d_w int | nof_w_dw int | nof_d_w_dw int | nof_w_drw int | nof_d_w_drw int | nof_rw_drw int | nof_d_rw_drw int 
+function nfs_open_file_remove_open_find void | nofp struct nfs_open_file * | accessMode int | denyMode int | newAccessMode int * | newDenyMode int * | delegated int *

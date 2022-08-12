@@ -1,0 +1,2 @@
+struct TYPE_3__ | shader int * 
+function PicoGetSurfaceShader int * | surface struct TYPE_3__ *

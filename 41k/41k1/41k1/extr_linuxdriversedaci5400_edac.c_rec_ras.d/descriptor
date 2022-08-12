@@ -1,0 +1,2 @@
+struct i5400_error_info | recmemb int 
+function rec_ras int | info struct i5400_error_info *

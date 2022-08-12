@@ -1,0 +1,2 @@
+struct vio_dev | dummy int 
+function ds_remove int | vdev struct vio_dev *

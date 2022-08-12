@@ -1,0 +1,2 @@
+struct mptcp_mpcapable_opt_common | mmco_flags int 
+function mptcp_valid_mpcapable_common_opt int | cp int *

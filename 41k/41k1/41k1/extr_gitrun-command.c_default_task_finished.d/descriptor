@@ -1,0 +1,2 @@
+struct strbuf | dummy int 
+function default_task_finished int | result int | out struct strbuf * | pp_cb void * | pp_task_cb void *

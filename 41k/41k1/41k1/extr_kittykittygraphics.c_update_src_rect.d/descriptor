@@ -1,0 +1,4 @@
+struct TYPE_8__ | height long | width long 
+struct TYPE_6__ | left float | right float | top float | bottom float 
+struct TYPE_7__ | src_height long | src_y long | src_rect struct TYPE_6__ | src_width long | src_x long 
+function update_src_rect void | ref struct TYPE_7__ * | img struct TYPE_8__ *

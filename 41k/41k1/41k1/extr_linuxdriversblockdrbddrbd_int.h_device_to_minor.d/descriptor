@@ -1,0 +1,2 @@
+struct drbd_device | minor unsigned int 
+function device_to_minor unsigned int | device struct drbd_device *

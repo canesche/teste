@@ -1,0 +1,3 @@
+struct i2c_request_transaction_data | dummy int 
+struct i2c_engine | dummy int 
+function dal_i2c_engine_submit_channel_request void | engine struct i2c_engine * | request struct i2c_request_transaction_data *

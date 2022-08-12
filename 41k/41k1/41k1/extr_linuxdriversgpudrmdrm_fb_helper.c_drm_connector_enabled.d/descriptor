@@ -1,0 +1,3 @@
+struct TYPE_2__ | non_desktop long 
+struct drm_connector | status long | display_info struct TYPE_2__ 
+function drm_connector_enabled int | connector struct drm_connector * | strict int

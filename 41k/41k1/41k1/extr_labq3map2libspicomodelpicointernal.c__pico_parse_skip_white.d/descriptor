@@ -1,0 +1,2 @@
+struct TYPE_3__ | cursor int * | buffer int * | max int * | curLine int 
+function _pico_parse_skip_white void | p struct TYPE_3__ * | hasLFs int *

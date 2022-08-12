@@ -1,0 +1,2 @@
+struct TYPE_3__ | size int | rev long long * 
+function ltbl_get_rev long long | table struct TYPE_3__ * | val int

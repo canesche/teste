@@ -1,0 +1,6 @@
+struct TYPE_4__ | v6addr int 
+struct TYPE_3__ | v6addr int 
+struct pf_fragment | fr_dstx struct TYPE_4__ | fr_srcx struct TYPE_3__ | fr_af int | fr_id6 int | fr_p int 
+struct ip6_hdr | ip6_dst int | ip6_src int 
+struct ip6_frag | ip6f_ident int | ip6f_nxt int 
+function pf_ip6hdr2key void | key struct pf_fragment * | ip6 struct ip6_hdr * | fh struct ip6_frag *

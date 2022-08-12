@@ -1,0 +1,1 @@
+function octeon_flush_data_cache_page void | addr unsigned long

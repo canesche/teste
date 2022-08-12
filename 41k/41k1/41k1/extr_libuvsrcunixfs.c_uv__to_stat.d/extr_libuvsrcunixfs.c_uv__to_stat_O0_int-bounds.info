@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 74,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 74,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_libuvsrcunixfs.c_uv__to_stat.d/extr_libuvsrcunixfs.c_uv__to_stat_O0::uv__to_stat(71)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | ynum int | line_map int * | line_attrs int * 
+function linebuf_reverse_index void | self struct TYPE_3__ * | top int | bottom int

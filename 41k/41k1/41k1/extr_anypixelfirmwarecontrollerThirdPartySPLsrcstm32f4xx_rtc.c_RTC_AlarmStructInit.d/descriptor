@@ -1,0 +1,3 @@
+struct TYPE_4__ | RTC_Seconds long | RTC_Minutes long | RTC_Hours long | RTC_H12 int 
+struct TYPE_5__ | RTC_AlarmDateWeekDay int | RTC_AlarmMask int | RTC_AlarmDateWeekDaySel int | RTC_AlarmTime struct TYPE_4__ 
+function RTC_AlarmStructInit void | RTC_AlarmStruct struct TYPE_5__ *

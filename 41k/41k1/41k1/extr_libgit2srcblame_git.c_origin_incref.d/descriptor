@@ -1,0 +1,2 @@
+struct TYPE_4__ | refcnt int 
+function origin_incref struct TYPE_4__ * | o struct TYPE_4__ *

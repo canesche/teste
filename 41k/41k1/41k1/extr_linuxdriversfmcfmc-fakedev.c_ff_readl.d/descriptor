@@ -1,0 +1,2 @@
+struct fmc_device | dummy int 
+function ff_readl int | fmc struct fmc_device * | offset int

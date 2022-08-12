@@ -1,0 +1,3 @@
+struct drm_display_mode | dummy int 
+struct adv7511 | dummy int 
+function adv7533_mode_set void | adv struct adv7511 * | mode struct drm_display_mode *

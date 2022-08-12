@@ -1,0 +1,2 @@
+struct kvmppc_vpa | next_gpa long | pinned_addr int * | update_pending long 
+function vpa_is_registered int | vpap struct kvmppc_vpa *

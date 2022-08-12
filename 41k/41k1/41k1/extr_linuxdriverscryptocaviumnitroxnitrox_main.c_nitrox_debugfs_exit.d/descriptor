@@ -1,0 +1,2 @@
+struct nitrox_device | dummy int 
+function nitrox_debugfs_exit void | ndev struct nitrox_device *

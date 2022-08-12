@@ -1,0 +1,4 @@
+struct request_queue | dummy int 
+struct request | dummy int 
+struct bfq_queue | dummy int 
+function bfq_update_dispatch_stats void | q struct request_queue * | rq struct request * | in_serv_queue struct bfq_queue * | idle_timer_disabled int

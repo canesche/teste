@@ -1,0 +1,5 @@
+struct TYPE_4__ | address_hi int 
+struct kvm_kernel_irq_routing_entry | msi struct TYPE_4__ 
+struct TYPE_3__ | x2apic_format long 
+struct kvm | arch struct TYPE_3__ 
+function kvm_msi_route_invalid int | kvm struct kvm * | e struct kvm_kernel_irq_routing_entry *

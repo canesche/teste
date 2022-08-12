@@ -1,0 +1,2 @@
+struct vcpu_svm | dummy int 
+function nop_on_interception int | svm struct vcpu_svm *

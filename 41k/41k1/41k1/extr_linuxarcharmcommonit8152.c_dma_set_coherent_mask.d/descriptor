@@ -1,0 +1,2 @@
+struct device | dummy int 
+function dma_set_coherent_mask int | dev struct device * | mask int

@@ -1,0 +1,2 @@
+struct TYPE_4__ | ba_holder long | ba_merchant long | ba_bill int 
+function bank_get_bank_account_ledger int | bank_account struct TYPE_4__ *

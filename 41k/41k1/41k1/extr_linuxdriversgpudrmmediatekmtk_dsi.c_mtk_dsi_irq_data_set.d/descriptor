@@ -1,0 +1,2 @@
+struct mtk_dsi | irq_data int 
+function mtk_dsi_irq_data_set void | dsi struct mtk_dsi * | irq_bit int

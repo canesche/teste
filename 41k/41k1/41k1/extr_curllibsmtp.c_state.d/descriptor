@@ -1,0 +1,4 @@
+struct smtp_conn | state int 
+struct TYPE_2__ | smtpc struct smtp_conn 
+struct connectdata | proto struct TYPE_2__ 
+function state void | conn struct connectdata * | newstate int

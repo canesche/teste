@@ -1,0 +1,2 @@
+struct TYPE_3__ | seen unsigned long * | batch unsigned long | subdivisions unsigned long 
+function get_current_batch unsigned long | net struct TYPE_3__ *

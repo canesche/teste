@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_labenginecodedeepminddmlab_connect.c_dmlab_action_continuous_count.d/extr_labenginecodedeepminddmlab_connect.c_dmlab_action_continuous_count_O0::dmlab_action_continuous_count(59)"
+  }
+]

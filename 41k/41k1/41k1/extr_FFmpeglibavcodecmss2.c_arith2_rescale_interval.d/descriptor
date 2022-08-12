@@ -1,0 +1,2 @@
+struct TYPE_3__ | high int | low int 
+function arith2_rescale_interval void | c struct TYPE_3__ * | range int | low int | high int | n int

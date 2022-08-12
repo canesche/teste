@@ -1,0 +1,4 @@
+struct bfq_queue | bfqd struct TYPE_2__ * 
+struct bfq_group | dummy int 
+struct TYPE_2__ | root_group struct bfq_group * 
+function bfq_bfqq_to_bfqg struct bfq_group * | bfqq struct bfq_queue *

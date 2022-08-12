@@ -1,0 +1,2 @@
+struct ppc440spe_adma_desc_slot | idx int 
+function ppc440spe_desc_is_aligned int | desc struct ppc440spe_adma_desc_slot * | num_slots int

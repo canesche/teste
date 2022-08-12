@@ -1,0 +1,2 @@
+struct TYPE_3__ | nx_enabled long 
+function pmap_disable_NX void | pmap struct TYPE_3__ *

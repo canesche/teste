@@ -1,0 +1,3 @@
+struct stream_encoder | dummy int 
+struct dc_crtc_timing | dummy int 
+function virtual_stream_encoder_dvi_set_stream_attribute void | enc struct stream_encoder * | crtc_timing struct dc_crtc_timing * | is_dual_link int

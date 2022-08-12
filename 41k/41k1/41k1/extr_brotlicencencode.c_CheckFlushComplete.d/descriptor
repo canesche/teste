@@ -1,0 +1,2 @@
+struct TYPE_3__ | stream_state_ long | available_out_ long | next_out_ long 
+function CheckFlushComplete void | s struct TYPE_3__ *

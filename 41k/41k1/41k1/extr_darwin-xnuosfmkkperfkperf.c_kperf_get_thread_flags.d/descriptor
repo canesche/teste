@@ -1,0 +1,2 @@
+struct TYPE_3__ | kperf_flags int 
+function kperf_get_thread_flags int | thread struct TYPE_3__ *

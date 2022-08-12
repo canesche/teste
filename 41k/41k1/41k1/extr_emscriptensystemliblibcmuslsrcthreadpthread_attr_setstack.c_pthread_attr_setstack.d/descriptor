@@ -1,0 +1,2 @@
+struct TYPE_3__ | _a_stackaddr unsigned long | _a_stacksize long 
+function pthread_attr_setstack int | a struct TYPE_3__ * | addr void * | size unsigned long

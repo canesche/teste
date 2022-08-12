@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 23,
+    phantoms: 20,
+    exit: true,
+    halt: false,
+    edges: 45,
+    static: {
+      instructions: 115,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 115,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchpowerpcmath-emumath.c_record_exception.d/extr_linuxarchpowerpcmath-emumath.c_record_exception_O0::record_exception(99)"
+  }
+]

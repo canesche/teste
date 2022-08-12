@@ -1,0 +1,2 @@
+struct cache | next_local struct cache * 
+function link_cache_lists void | smaller struct cache * | bigger struct cache *

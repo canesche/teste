@@ -1,0 +1,3 @@
+struct tcpcb | t_ccstate struct TYPE_2__ * 
+struct TYPE_2__ | cub_target_win long | cub_epoch_period long | cub_tcp_bytes_acked long | cub_tcp_win long | cub_origin_point long | cub_epoch_start long | cub_last_max long 
+function tcp_cubic_clear_state void | tp struct tcpcb *

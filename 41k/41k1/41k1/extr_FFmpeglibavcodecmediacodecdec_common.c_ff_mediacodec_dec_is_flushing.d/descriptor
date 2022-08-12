@@ -1,0 +1,2 @@
+struct TYPE_3__ | flushing int 
+function ff_mediacodec_dec_is_flushing int | avctx int * | s struct TYPE_3__ *

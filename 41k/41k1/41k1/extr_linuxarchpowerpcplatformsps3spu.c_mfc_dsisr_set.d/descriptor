@@ -1,0 +1,2 @@
+struct spu | dummy int 
+function mfc_dsisr_set void | spu struct spu * | dsisr int

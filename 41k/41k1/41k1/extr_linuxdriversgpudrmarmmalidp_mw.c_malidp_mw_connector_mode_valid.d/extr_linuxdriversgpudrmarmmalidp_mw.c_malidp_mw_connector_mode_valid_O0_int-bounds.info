@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmarmmalidp_mw.c_malidp_mw_connector_mode_valid.d/extr_linuxdriversgpudrmarmmalidp_mw.c_malidp_mw_connector_mode_valid_O0::malidp_mw_connector_mode_valid(70)"
+  }
+]

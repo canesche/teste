@@ -1,0 +1,2 @@
+struct ata_port | dummy int 
+function pxa_irq_clear void | ap struct ata_port *

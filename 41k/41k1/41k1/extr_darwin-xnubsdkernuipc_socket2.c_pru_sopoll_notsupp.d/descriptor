@@ -1,0 +1,2 @@
+struct socket | dummy int 
+function pru_sopoll_notsupp int | so struct socket * | events int | cred int | wql void *

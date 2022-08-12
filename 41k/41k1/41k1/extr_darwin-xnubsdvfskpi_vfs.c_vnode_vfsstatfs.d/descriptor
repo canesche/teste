@@ -1,0 +1,4 @@
+struct vfsstatfs | dummy int 
+struct TYPE_5__ | v_mount struct TYPE_4__ * 
+struct TYPE_4__ | mnt_vfsstat struct vfsstatfs 
+function vnode_vfsstatfs struct vfsstatfs * | vp struct TYPE_5__ *

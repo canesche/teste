@@ -1,0 +1,2 @@
+struct aio_context | dummy int 
+function submit_aio_26 int | type enum aio_type | io_fd int | buf char * | len int | offset unsigned long long | aio struct aio_context *

@@ -1,0 +1,2 @@
+struct resource | dummy int 
+function found int | res struct resource * | data void *

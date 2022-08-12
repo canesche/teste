@@ -1,0 +1,2 @@
+struct nfsbuf | nb_refs int 
+function nfs_buf_refget void | bp struct nfsbuf *

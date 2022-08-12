@@ -1,0 +1,2 @@
+struct omap_usb_config | dummy int 
+function udc_device_init void | pdata struct omap_usb_config *

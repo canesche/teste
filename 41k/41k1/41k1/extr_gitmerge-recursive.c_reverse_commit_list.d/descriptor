@@ -1,0 +1,2 @@
+struct commit_list | next struct commit_list * 
+function reverse_commit_list struct commit_list * | list struct commit_list *

@@ -1,0 +1,1 @@
+function GetProxyServerNameAndPortFromIeProxyRegStr int | name char * | name_size int | port int * | str char * | server_type char *

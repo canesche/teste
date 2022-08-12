@@ -1,0 +1,2 @@
+struct TYPE_3__ | numer int | denom int 
+function clock_timebase_info void | info struct TYPE_3__ *

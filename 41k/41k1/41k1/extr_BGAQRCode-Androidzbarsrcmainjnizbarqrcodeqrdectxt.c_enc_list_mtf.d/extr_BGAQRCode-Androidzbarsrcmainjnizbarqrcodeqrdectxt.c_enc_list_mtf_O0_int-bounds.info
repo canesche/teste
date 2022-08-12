@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_BGAQRCode-Androidzbarsrcmainjnizbarqrcodeqrdectxt.c_enc_list_mtf.d/extr_BGAQRCode-Androidzbarsrcmainjnizbarqrcodeqrdectxt.c_enc_list_mtf_O0::enc_list_mtf(60)"
+  }
+]

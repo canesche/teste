@@ -1,0 +1,2 @@
+struct gendisk | dummy int 
+function null_release void | disk struct gendisk * | mode int

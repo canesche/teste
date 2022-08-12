@@ -1,0 +1,4 @@
+struct TYPE_3__ | spu_lslr_RW int 
+struct TYPE_4__ | priv2 struct TYPE_3__ 
+struct spu_context | csa struct TYPE_4__ 
+function spufs_lslr_get int | ctx struct spu_context *

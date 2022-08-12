@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmnouveaunvkmsubdevpcig84.c_g84_pcie_version_supported.d/extr_linuxdriversgpudrmnouveaunvkmsubdevpcig84.c_g84_pcie_version_supported_O0::g84_pcie_version_supported(62)"
+  }
+]

@@ -1,0 +1,3 @@
+struct i915_vma | dummy int 
+struct i915_address_space | dummy int 
+function mock_insert_entries void | vm struct i915_address_space * | vma struct i915_vma * | level enum i915_cache_level | flags int

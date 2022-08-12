@@ -1,0 +1,3 @@
+struct TYPE_5__ | npasses int | passes struct TYPE_4__ * 
+struct TYPE_4__ | rate int | disto int 
+function getcut int | cblk struct TYPE_5__ * | lambda int | dwt_norm int

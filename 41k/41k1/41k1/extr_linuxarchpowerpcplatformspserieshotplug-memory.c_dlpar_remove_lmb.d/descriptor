@@ -1,0 +1,2 @@
+struct drmem_lmb | dummy int 
+function dlpar_remove_lmb int | lmb struct drmem_lmb *

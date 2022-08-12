@@ -1,0 +1,2 @@
+struct TYPE_3__ | numVertexes int | smoothingGroup int * 
+function PicoGetSurfaceSmoothingGroup int | surface struct TYPE_3__ * | num int

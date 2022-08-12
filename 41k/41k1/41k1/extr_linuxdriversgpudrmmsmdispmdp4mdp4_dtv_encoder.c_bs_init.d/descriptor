@@ -1,0 +1,2 @@
+struct mdp4_dtv_encoder | dummy int 
+function bs_init void | mdp4_dtv_encoder struct mdp4_dtv_encoder *

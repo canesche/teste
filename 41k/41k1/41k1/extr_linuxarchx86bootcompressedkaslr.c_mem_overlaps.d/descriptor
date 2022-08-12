@@ -1,0 +1,2 @@
+struct mem_vector | start long | size long 
+function mem_overlaps int | one struct mem_vector * | two struct mem_vector *

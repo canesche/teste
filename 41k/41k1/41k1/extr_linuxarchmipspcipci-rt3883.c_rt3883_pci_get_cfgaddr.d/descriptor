@@ -1,0 +1,1 @@
+function rt3883_pci_get_cfgaddr unsigned int | bus unsigned int | slot unsigned int | func unsigned int | where unsigned int

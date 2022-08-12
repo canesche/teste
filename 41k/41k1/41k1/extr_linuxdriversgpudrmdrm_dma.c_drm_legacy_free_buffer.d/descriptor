@@ -1,0 +1,3 @@
+struct drm_device | dummy int 
+struct drm_buf | used long | file_priv int * | pending long | waiting long 
+function drm_legacy_free_buffer void | dev struct drm_device * | buf struct drm_buf *

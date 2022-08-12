@@ -1,0 +1,2 @@
+struct pt_regs | gprs unsigned long * 
+function regs_get_register unsigned long | regs struct pt_regs * | offset unsigned int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | addr int * 
+function IsHubIpAddress int | ip struct TYPE_3__ *

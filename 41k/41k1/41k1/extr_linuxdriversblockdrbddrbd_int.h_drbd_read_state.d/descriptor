@@ -1,0 +1,5 @@
+struct drbd_state | susp_fen int | susp_nod int | susp int | i int 
+struct drbd_resource | susp_fen int | susp_nod int | susp int 
+struct TYPE_2__ | i int 
+struct drbd_device | state struct TYPE_2__ | resource struct drbd_resource * 
+function drbd_read_state union drbd_state | device struct drbd_device *

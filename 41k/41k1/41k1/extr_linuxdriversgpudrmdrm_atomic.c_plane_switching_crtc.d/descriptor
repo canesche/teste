@@ -1,0 +1,5 @@
+struct drm_plane_state | crtc long 
+struct drm_plane | state struct TYPE_2__ * 
+struct drm_atomic_state | dummy int 
+struct TYPE_2__ | crtc long 
+function plane_switching_crtc int | state struct drm_atomic_state * | plane struct drm_plane * | plane_state struct drm_plane_state *

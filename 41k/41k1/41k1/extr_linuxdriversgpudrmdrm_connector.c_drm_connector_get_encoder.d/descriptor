@@ -1,0 +1,4 @@
+struct drm_encoder | dummy int 
+struct drm_connector | encoder struct drm_encoder * | state struct TYPE_2__ * 
+struct TYPE_2__ | best_encoder struct drm_encoder * 
+function drm_connector_get_encoder struct drm_encoder * | connector struct drm_connector *

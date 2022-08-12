@@ -1,0 +1,2 @@
+struct msm_dsi_pll | dummy int 
+function msm_dsi_pll_restore_state int | pll struct msm_dsi_pll *

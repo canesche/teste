@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function intel_fbdev_output_poll_changed void | dev struct drm_device *

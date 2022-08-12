@@ -1,0 +1,2 @@
+struct connection | flags int 
+function compute_conn_events int | c struct connection *

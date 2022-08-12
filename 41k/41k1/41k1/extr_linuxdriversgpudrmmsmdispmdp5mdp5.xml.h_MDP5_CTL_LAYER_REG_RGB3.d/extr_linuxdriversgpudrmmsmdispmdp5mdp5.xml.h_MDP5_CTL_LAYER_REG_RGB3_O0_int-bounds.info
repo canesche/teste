@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmmsmdispmdp5mdp5.xml.h_MDP5_CTL_LAYER_REG_RGB3.d/extr_linuxdriversgpudrmmsmdispmdp5mdp5.xml.h_MDP5_CTL_LAYER_REG_RGB3_O0::MDP5_CTL_LAYER_REG_RGB3(63)"
+  }
+]

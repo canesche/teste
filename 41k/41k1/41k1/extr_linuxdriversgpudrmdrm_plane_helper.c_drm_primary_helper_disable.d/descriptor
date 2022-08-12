@@ -1,0 +1,3 @@
+struct drm_plane | dummy int 
+struct drm_modeset_acquire_ctx | dummy int 
+function drm_primary_helper_disable int | plane struct drm_plane * | ctx struct drm_modeset_acquire_ctx *

@@ -1,0 +1,3 @@
+struct pp_hwmgr | dummy int 
+struct pp_hw_power_state | dummy int 
+function smu10_dpm_patch_boot_state int | hwmgr struct pp_hwmgr * | hw_ps struct pp_hw_power_state *

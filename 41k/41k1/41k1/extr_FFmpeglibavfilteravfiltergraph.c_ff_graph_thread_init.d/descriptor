@@ -1,0 +1,2 @@
+struct TYPE_3__ | nb_threads int | thread_type long 
+function ff_graph_thread_init int | graph struct TYPE_3__ *

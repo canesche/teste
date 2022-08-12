@@ -1,0 +1,3 @@
+struct smu8_hwmgr | is_nb_dpm_enabled int 
+struct pp_hwmgr | backend struct smu8_hwmgr * 
+function smu8_clear_nb_dpm_flag void | hwmgr struct pp_hwmgr *

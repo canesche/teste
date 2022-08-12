@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 11,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 2922205,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnuteststurnstile_multihop.c_do_work.d/extr_darwin-xnuteststurnstile_multihop.c_do_work_O0::do_work(60)"
+  }
+]

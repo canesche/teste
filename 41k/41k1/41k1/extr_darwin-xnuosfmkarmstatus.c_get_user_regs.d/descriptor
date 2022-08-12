@@ -1,0 +1,4 @@
+struct arm_saved_state | dummy int 
+struct TYPE_4__ | PcbData struct arm_saved_state 
+struct TYPE_5__ | machine struct TYPE_4__ 
+function get_user_regs struct arm_saved_state * | thread struct TYPE_5__ *

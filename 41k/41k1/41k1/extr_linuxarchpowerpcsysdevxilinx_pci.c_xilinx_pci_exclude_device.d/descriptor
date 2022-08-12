@@ -1,0 +1,2 @@
+struct pci_controller | dummy int 
+function xilinx_pci_exclude_device int | hose struct pci_controller * | bus long | devfn int

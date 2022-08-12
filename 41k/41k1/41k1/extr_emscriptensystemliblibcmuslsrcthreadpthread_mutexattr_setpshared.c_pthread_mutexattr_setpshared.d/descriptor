@@ -1,0 +1,2 @@
+struct TYPE_3__ | __attr unsigned int 
+function pthread_mutexattr_setpshared int | a struct TYPE_3__ * | pshared int

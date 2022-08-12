@@ -1,0 +1,4 @@
+struct TYPE_5__ | timestamp int | binlog_position int 
+struct TYPE_4__ | id int 
+struct TYPE_6__ | extra struct TYPE_5__ | node struct TYPE_4__ 
+function update_nodes_stats void | use_crc32 int | crc32 int

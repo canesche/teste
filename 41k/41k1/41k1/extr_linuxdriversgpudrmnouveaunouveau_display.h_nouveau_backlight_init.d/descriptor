@@ -1,0 +1,2 @@
+struct drm_device | dummy int 
+function nouveau_backlight_init int | dev struct drm_device *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmnouveaunvkmenginegrgf100.c_gf100_gr_oneinit_sm_id.d/extr_linuxdriversgpudrmnouveaunvkmenginegrgf100.c_gf100_gr_oneinit_sm_id_O0::gf100_gr_oneinit_sm_id(64)"
+  }
+]

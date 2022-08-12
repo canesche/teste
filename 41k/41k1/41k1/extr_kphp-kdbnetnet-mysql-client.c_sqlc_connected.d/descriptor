@@ -1,0 +1,2 @@
+struct connection | status int 
+function sqlc_connected int | c struct connection *

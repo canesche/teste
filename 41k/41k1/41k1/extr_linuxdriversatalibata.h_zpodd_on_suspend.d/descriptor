@@ -1,0 +1,2 @@
+struct ata_device | dummy int 
+function zpodd_on_suspend void | dev struct ata_device *

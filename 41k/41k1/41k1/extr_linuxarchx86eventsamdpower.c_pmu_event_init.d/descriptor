@@ -1,0 +1,4 @@
+struct TYPE_3__ | config long | type long | sample_period long | exclude_guest long | exclude_host long | exclude_idle long | exclude_hv long | exclude_kernel long | exclude_user long 
+struct perf_event | attr struct TYPE_3__ 
+struct TYPE_4__ | type long 
+function pmu_event_init int | event struct perf_event *

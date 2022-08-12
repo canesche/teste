@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchmipscavium-octeonexecutivecvmx-bootmem.c_cvmx_bootmem_init.d/extr_linuxarchmipscavium-octeonexecutivecvmx-bootmem.c_cvmx_bootmem_init_O0::cvmx_bootmem_init(62)"
+  }
+]

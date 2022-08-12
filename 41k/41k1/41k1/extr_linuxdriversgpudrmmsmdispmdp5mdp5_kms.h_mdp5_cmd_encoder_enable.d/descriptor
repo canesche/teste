@@ -1,0 +1,2 @@
+struct drm_encoder | dummy int 
+function mdp5_cmd_encoder_enable void | encoder struct drm_encoder *

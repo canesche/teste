@@ -1,0 +1,2 @@
+struct TYPE_3__ | if_mtu int 
+function ifnet_mtu int | interface struct TYPE_3__ *

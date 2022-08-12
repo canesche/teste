@@ -1,0 +1,4 @@
+struct debug_store | pebs_interrupt_threshold long | pebs_buffer_base long | pebs_absolute_maximum long 
+struct cpu_hw_events | n_pebs long | n_large_pebs long | ds struct debug_store * 
+struct TYPE_2__ | flags int | max_pebs_events int | num_counters_fixed int | pebs_record_size int 
+function pebs_update_threshold void | cpuc struct cpu_hw_events *

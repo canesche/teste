@@ -1,0 +1,2 @@
+struct intel_uncore_box | dummy int 
+function snb_uncore_imc_disable_box void | box struct intel_uncore_box *

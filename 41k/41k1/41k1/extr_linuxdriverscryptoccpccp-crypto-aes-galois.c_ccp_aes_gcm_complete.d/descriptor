@@ -1,0 +1,2 @@
+struct crypto_async_request | dummy int 
+function ccp_aes_gcm_complete int | async_req struct crypto_async_request * | ret int

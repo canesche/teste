@@ -1,0 +1,2 @@
+struct ftp_parselist_data | error int 
+function Curl_ftp_parselist_geterror int | pl_data struct ftp_parselist_data *

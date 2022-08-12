@@ -1,0 +1,2 @@
+struct timer_list | dummy int 
+function uml_net_user_timer_expire void | t struct timer_list *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | PublicPort void * | PublicIp void * | DestPort void * | DestIp void * | SrcPort void * | SrcIp void * | Protocol void * 
+function SetNat void | n struct TYPE_3__ * | protocol void * | src_ip void * | src_port void * | dest_ip void * | dest_port void * | public_ip void * | public_port void *

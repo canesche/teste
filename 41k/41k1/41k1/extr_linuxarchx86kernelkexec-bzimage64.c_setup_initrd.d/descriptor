@@ -1,0 +1,3 @@
+struct TYPE_2__ | ramdisk_image unsigned long | ramdisk_size unsigned long 
+struct boot_params | ext_ramdisk_image unsigned long | ext_ramdisk_size unsigned long | hdr struct TYPE_2__ 
+function setup_initrd int | params struct boot_params * | initrd_load_addr unsigned long | initrd_len unsigned long

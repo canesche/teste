@@ -1,0 +1,2 @@
+struct TYPE_3__ | M11 int | M22 int | M32 long | M31 long | M21 long | M12 long 
+function uiDrawMatrixSetIdentity void | m struct TYPE_3__ *

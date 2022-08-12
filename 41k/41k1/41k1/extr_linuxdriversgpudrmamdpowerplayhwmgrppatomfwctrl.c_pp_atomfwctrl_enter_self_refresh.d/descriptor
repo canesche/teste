@@ -1,0 +1,2 @@
+struct pp_hwmgr | dummy int 
+function pp_atomfwctrl_enter_self_refresh int | hwmgr struct pp_hwmgr *

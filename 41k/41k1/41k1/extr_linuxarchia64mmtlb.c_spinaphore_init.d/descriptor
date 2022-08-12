@@ -1,0 +1,2 @@
+struct spinaphore | serve int | ticket long 
+function spinaphore_init void | ss struct spinaphore * | val int

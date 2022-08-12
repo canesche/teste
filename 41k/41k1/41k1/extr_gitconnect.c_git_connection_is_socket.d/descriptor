@@ -1,0 +1,2 @@
+struct child_process | dummy int 
+function git_connection_is_socket int | conn struct child_process *

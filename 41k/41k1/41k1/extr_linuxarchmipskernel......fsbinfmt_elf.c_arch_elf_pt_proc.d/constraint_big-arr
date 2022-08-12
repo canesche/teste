@@ -1,0 +1,1 @@
+value(is_interp) == 255, length(ehdr) == 65025, length(phdr) == 65025, length(elf) == 65025, length(state) == 65025

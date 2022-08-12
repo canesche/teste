@@ -1,0 +1,2 @@
+struct TYPE_3__ | p_memstat_effectivepriority int | p_memstat_requestedpriority int 
+function proc_get_memstat_priority int | p struct TYPE_3__ * | effective_priority long

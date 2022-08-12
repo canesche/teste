@@ -1,0 +1,2 @@
+struct bstp_pri_vector | pv_root_id long | pv_cost long | pv_dbridge_id long | pv_dport_id long 
+function bstp_info_cmp int | pv struct bstp_pri_vector * | cpv struct bstp_pri_vector *

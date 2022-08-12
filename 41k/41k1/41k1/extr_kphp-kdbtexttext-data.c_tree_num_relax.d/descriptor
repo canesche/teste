@@ -1,0 +1,4 @@
+struct TYPE_7__ | right struct TYPE_6__ * | left struct TYPE_5__ * | N long 
+struct TYPE_6__ | N long 
+struct TYPE_5__ | N long 
+function tree_num_relax void | T struct TYPE_7__ *

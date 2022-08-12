@@ -1,0 +1,2 @@
+struct kvm | dummy int 
+function svm_set_identity_map_addr int | kvm struct kvm * | ident_addr int

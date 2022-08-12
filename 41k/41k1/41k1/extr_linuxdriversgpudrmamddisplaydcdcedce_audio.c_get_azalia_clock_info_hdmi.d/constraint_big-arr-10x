@@ -1,0 +1,1 @@
+value(crtc_pixel_clock_in_khz) == 10, value(actual_pixel_clock_in_khz) == 10, length(azalia_clock_info) == 100

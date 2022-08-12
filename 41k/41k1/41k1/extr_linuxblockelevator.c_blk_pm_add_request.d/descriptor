@@ -1,0 +1,3 @@
+struct request_queue | dummy int 
+struct request | dummy int 
+function blk_pm_add_request void | q struct request_queue * | rq struct request *

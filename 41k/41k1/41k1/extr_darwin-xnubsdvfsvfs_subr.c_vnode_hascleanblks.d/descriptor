@@ -1,0 +1,3 @@
+struct TYPE_4__ | lh_first long 
+struct TYPE_5__ | v_cleanblkhd struct TYPE_4__ 
+function vnode_hascleanblks int | vp struct TYPE_5__ *

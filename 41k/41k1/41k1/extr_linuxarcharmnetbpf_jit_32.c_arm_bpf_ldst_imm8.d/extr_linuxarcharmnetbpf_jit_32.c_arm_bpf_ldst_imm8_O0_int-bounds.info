@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarcharmnetbpf_jit_32.c_arm_bpf_ldst_imm8.d/extr_linuxarcharmnetbpf_jit_32.c_arm_bpf_ldst_imm8_O0::arm_bpf_ldst_imm8(64)"
+  }
+]

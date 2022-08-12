@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_ccvlibnnccmdsoftmaxccv_nnc_softmax.c__ccv_nnc_allow_graident_inplace.d/extr_ccvlibnnccmdsoftmaxccv_nnc_softmax.c__ccv_nnc_allow_graident_inplace_O0::_ccv_nnc_allow_graident_inplace(60)"
+  }
+]

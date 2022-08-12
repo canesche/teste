@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchpowerpckernelhw_breakpoint.c_arch_bp_generic_fields.d/extr_linuxarchpowerpckernelhw_breakpoint.c_arch_bp_generic_fields_O0::arch_bp_generic_fields(65)"
+  }
+]

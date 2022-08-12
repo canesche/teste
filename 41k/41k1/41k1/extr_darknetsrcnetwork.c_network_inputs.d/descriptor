@@ -1,0 +1,3 @@
+struct TYPE_5__ | layers struct TYPE_4__ * 
+struct TYPE_4__ | inputs int 
+function network_inputs int | net struct TYPE_5__ *

@@ -1,0 +1,2 @@
+struct clk_hw | dummy int 
+function dummy_clk_set_parent int | hw struct clk_hw * | index int

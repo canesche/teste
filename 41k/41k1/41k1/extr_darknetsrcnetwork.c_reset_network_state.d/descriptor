@@ -1,0 +1,2 @@
+struct TYPE_3__ | n int 
+function reset_network_state void | net struct TYPE_3__ * | b int

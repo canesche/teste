@@ -1,0 +1,4 @@
+struct TYPE_3__ | reference_freq int 
+struct TYPE_4__ | spll struct TYPE_3__ 
+struct amdgpu_device | clock struct TYPE_4__ 
+function soc15_get_xclk int | adev struct amdgpu_device *

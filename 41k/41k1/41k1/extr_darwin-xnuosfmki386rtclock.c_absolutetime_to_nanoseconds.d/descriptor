@@ -1,0 +1,1 @@
+function absolutetime_to_nanoseconds void | abstime int | result int *

@@ -1,0 +1,2 @@
+struct pt_regs | dummy int 
+function notify_page_fault int | regs struct pt_regs * | esr unsigned int

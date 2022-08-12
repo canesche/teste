@@ -1,0 +1,1 @@
+function set_cpu_current_state void | cpu int | state enum cpu_state_vals

@@ -1,0 +1,2 @@
+struct gather_entry | res_read int | data int * 
+function gather_sum_res void | GE struct gather_entry * | limit int

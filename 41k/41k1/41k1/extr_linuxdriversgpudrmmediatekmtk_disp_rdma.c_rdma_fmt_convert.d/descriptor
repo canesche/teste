@@ -1,0 +1,2 @@
+struct mtk_disp_rdma | dummy int 
+function rdma_fmt_convert unsigned int | rdma struct mtk_disp_rdma * | fmt unsigned int

@@ -1,0 +1,2 @@
+struct ftrace_insn | dummy int 
+function is_kprobe_on_ftrace int | insn struct ftrace_insn *

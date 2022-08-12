@@ -1,0 +1,2 @@
+struct TYPE_3__ | p_pid int 
+function proc_pid int | p struct TYPE_3__ *

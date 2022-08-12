@@ -1,0 +1,1 @@
+value(tce_size) == 10, value(dma_offset) == 10, value(page_shift) == 10, length(tce_mem) == 100, length(tbl) == 100

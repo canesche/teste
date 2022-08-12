@@ -1,0 +1,2 @@
+struct curl_llist | size unsigned long 
+function Curl_llist_count unsigned long | list struct curl_llist *

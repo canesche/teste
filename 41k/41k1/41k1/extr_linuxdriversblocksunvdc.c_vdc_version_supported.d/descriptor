@@ -1,0 +1,4 @@
+struct TYPE_3__ | major long | minor long 
+struct TYPE_4__ | ver struct TYPE_3__ 
+struct vdc_port | vio struct TYPE_4__ 
+function vdc_version_supported int | port struct vdc_port * | major long | minor long

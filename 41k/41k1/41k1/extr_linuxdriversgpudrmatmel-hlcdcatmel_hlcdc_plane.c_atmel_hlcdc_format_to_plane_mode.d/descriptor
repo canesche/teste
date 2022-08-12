@@ -1,0 +1,1 @@
+function atmel_hlcdc_format_to_plane_mode int | format int | mode int *

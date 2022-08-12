@@ -1,0 +1,2 @@
+struct line | head int | tail int | buffer int * 
+function write_room int | line struct line *

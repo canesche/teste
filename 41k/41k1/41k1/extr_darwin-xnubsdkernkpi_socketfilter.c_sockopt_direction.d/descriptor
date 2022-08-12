@@ -1,0 +1,2 @@
+struct TYPE_3__ | sopt_dir long 
+function sockopt_direction int | sopt struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct TYPE_4__ | stamp int 
+function uiTableModel_iter_parent int | mb int * | iter struct TYPE_4__ * | child struct TYPE_4__ *

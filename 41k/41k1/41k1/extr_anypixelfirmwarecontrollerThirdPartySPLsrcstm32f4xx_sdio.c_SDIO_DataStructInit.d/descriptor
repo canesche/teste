@@ -1,0 +1,2 @@
+struct TYPE_3__ | SDIO_DataTimeOut int | SDIO_DataLength int | SDIO_DPSM int | SDIO_TransferMode int | SDIO_TransferDir int | SDIO_DataBlockSize int 
+function SDIO_DataStructInit void | SDIO_DataInitStruct struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct cppi41_channel | dummy int 
+function get_host_pd1 long | c struct cppi41_channel *

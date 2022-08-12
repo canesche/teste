@@ -1,0 +1,2 @@
+struct connection | ready int 
+function mcp_check_ready int | c struct connection *

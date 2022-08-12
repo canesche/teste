@@ -1,0 +1,2 @@
+struct dma_buf | dummy int 
+function drm_gem_dmabuf_kunmap void | dma_buf struct dma_buf * | page_num unsigned long | addr void *

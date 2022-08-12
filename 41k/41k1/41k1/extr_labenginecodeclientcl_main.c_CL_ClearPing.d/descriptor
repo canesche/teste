@@ -1,0 +1,3 @@
+struct TYPE_3__ | port long 
+struct TYPE_4__ | adr struct TYPE_3__ 
+function CL_ClearPing void | n int

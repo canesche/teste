@@ -1,0 +1,2 @@
+struct gpio_chip | dummy int 
+function twl6040gpo_direction_out int | chip struct gpio_chip * | offset unsigned int | value int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | num_bytes int 
+function uECC_curve_public_key_size int | curve struct TYPE_3__ *

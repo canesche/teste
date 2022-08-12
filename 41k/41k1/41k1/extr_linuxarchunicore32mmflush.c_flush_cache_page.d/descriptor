@@ -1,0 +1,2 @@
+struct vm_area_struct | dummy int 
+function flush_cache_page void | vma struct vm_area_struct * | user_addr unsigned long | pfn unsigned long

@@ -1,0 +1,4 @@
+struct TYPE_5__ | status int 
+struct TYPE_6__ | wordlist_mode long 
+struct TYPE_7__ | user_options_extra struct TYPE_6__ * | user_options struct TYPE_5__ * 
+function user_options_postprocess void | hashcat_ctx struct TYPE_7__ *

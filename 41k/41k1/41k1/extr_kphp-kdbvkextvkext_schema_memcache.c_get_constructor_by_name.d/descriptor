@@ -1,0 +1,3 @@
+struct tl_type | constructors_num int | constructors struct TYPE_2__ ** 
+struct TYPE_2__ | name int 
+function get_constructor_by_name int | t struct tl_type * | name int

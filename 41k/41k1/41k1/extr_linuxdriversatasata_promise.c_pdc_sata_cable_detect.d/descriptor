@@ -1,0 +1,2 @@
+struct ata_port | dummy int 
+function pdc_sata_cable_detect int | ap struct ata_port *

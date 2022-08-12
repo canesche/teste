@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnuosfmkvmvm_phantom_cache.c_is_thrashing.d/extr_darwin-xnuosfmkvmvm_phantom_cache.c_is_thrashing_O0::is_thrashing(65)"
+  }
+]

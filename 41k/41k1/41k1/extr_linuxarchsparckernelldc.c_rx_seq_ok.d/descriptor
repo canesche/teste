@@ -1,0 +1,2 @@
+struct ldc_channel | rcv_nxt long 
+function rx_seq_ok int | lp struct ldc_channel * | seqid long

@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function sn_default_pci_unmap void | pdev struct pci_dev * | addr int | direction int

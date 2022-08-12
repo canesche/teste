@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchpowerpcplatformspowermacnvram.c_core99_nvram_write_byte.d/extr_linuxarchpowerpcplatformspowermacnvram.c_core99_nvram_write_byte_O0::core99_nvram_write_byte(61)"
+  }
+]

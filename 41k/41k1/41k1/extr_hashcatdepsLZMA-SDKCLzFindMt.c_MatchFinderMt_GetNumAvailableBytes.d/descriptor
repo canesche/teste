@@ -1,0 +1,2 @@
+struct TYPE_3__ | btNumAvailBytes int 
+function MatchFinderMt_GetNumAvailableBytes int | p struct TYPE_3__ *

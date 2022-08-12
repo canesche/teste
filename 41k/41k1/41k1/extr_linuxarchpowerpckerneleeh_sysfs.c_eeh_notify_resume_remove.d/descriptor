@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function eeh_notify_resume_remove void | pdev struct pci_dev *

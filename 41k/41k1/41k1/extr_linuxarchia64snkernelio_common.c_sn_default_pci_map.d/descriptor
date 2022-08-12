@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function sn_default_pci_map int | pdev struct pci_dev * | paddr unsigned long | size unsigned long | type int

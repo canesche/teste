@@ -1,0 +1,2 @@
+struct gather | dummy int 
+function empty_send int | G struct gather * | n int

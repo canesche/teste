@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function c_start void * | m struct seq_file * | pos long *

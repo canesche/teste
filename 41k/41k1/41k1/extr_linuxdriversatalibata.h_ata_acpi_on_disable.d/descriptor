@@ -1,0 +1,2 @@
+struct ata_device | dummy int 
+function ata_acpi_on_disable void | dev struct ata_device *

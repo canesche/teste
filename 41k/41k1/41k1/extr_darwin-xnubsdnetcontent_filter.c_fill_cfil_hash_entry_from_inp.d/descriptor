@@ -1,0 +1,11 @@
+struct TYPE_14__ | s_addr int 
+struct TYPE_11__ | s_addr int 
+struct inpcb | inp_vflag int | in6p_faddr int | inp_fport int | in6p_laddr int | inp_lport int | inp_faddr struct TYPE_14__ | inp_laddr struct TYPE_11__ 
+struct TYPE_12__ | s_addr int 
+struct TYPE_13__ | ia46_addr4 struct TYPE_12__ 
+struct TYPE_16__ | addr6 int | addr46 struct TYPE_13__ 
+struct TYPE_9__ | s_addr int 
+struct TYPE_10__ | ia46_addr4 struct TYPE_9__ 
+struct TYPE_15__ | addr6 int | addr46 struct TYPE_10__ 
+struct cfil_hash_entry | cfentry_family int | cfentry_faddr struct TYPE_16__ | cfentry_fport int | cfentry_laddr struct TYPE_15__ | cfentry_lport int 
+function fill_cfil_hash_entry_from_inp int | entry struct cfil_hash_entry * | isLocal int | inp struct inpcb *

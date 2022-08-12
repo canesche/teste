@@ -1,0 +1,2 @@
+struct nx842_crypto_param | iremain unsigned int | oremain unsigned int | in unsigned int | out unsigned int | ototal unsigned int 
+function update_param int | p struct nx842_crypto_param * | slen unsigned int | dlen unsigned int

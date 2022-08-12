@@ -1,0 +1,2 @@
+struct TYPE_3__ | if_capabilities int 
+function ifnet_capabilities_supported int | ifp struct TYPE_3__ *

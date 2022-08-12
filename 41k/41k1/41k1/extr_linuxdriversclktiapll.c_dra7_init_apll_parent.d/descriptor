@@ -1,0 +1,2 @@
+struct clk_hw | dummy int 
+function dra7_init_apll_parent int | hw struct clk_hw *

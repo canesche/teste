@@ -1,0 +1,2 @@
+struct qfq_if | dummy int 
+function qfq_style const char * | qif struct qfq_if *

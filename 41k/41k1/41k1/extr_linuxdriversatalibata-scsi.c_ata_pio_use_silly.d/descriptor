@@ -1,0 +1,2 @@
+struct ata_port | flags int 
+function ata_pio_use_silly int | ap struct ata_port *

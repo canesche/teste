@@ -1,0 +1,2 @@
+struct hci_dev | dummy int 
+function btbcm_setup_patchram int | hdev struct hci_dev *

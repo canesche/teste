@@ -1,0 +1,2 @@
+struct pt_regs | dummy int 
+function hdec_interrupt void | regs struct pt_regs *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_darwin-xnubsdmiscfsdevfsdevfs_vnops.c_dn_mark_for_delayed_times_update.d/extr_darwin-xnubsdmiscfsdevfsdevfs_vnops.c_dn_mark_for_delayed_times_update_O0::dn_mark_for_delayed_times_update(68)"
+  }
+]

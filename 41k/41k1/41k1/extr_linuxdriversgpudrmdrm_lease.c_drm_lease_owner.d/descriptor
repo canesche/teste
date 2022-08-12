@@ -1,0 +1,2 @@
+struct drm_master | lessor struct drm_master * 
+function drm_lease_owner struct drm_master * | master struct drm_master *

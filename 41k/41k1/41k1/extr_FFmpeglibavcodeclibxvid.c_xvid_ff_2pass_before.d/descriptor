@@ -1,0 +1,4 @@
+struct TYPE_5__ | quant int | vop_flags int | motion_flags int | vol_flags int | zone struct TYPE_4__ * 
+struct xvid_context | dummy int 
+struct TYPE_4__ | mode long 
+function xvid_ff_2pass_before int | ref struct xvid_context * | param struct TYPE_5__ *

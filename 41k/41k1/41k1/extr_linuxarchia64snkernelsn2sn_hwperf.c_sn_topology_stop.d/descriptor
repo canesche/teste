@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function sn_topology_stop void | m struct seq_file * | v void *

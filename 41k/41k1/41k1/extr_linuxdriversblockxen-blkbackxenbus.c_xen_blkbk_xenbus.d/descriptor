@@ -1,0 +1,3 @@
+struct xenbus_device | dummy int 
+struct backend_info | dev struct xenbus_device * 
+function xen_blkbk_xenbus struct xenbus_device * | be struct backend_info *

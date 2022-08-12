@@ -1,0 +1,2 @@
+struct mdp5_cfg_handler | revision int 
+function mdp5_cfg_get_hw_rev int | cfg_handler struct mdp5_cfg_handler *

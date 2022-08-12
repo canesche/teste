@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversdmappc4xx..dmaengine.h_dmaengine_desc_get_callback.d/extr_linuxdriversdmappc4xx..dmaengine.h_dmaengine_desc_get_callback_O0::dmaengine_desc_get_callback(64)"
+  }
+]

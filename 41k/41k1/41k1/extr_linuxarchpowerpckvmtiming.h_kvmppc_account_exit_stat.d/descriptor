@@ -1,0 +1,3 @@
+struct TYPE_2__ | gdbell_exits int | dbell_exits int | signal_exits int | itlb_virt_miss_exits int | itlb_real_miss_exits int | mmio_exits int | dtlb_virt_miss_exits int | dtlb_real_miss_exits int | syscall_exits int | isi_exits int | dsi_exits int | emulated_inst_exits int | dec_exits int | ext_intr_exits int 
+struct kvm_vcpu | stat struct TYPE_2__ 
+function kvmppc_account_exit_stat void | vcpu struct kvm_vcpu * | type int

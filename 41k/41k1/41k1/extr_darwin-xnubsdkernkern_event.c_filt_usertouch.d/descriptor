@@ -1,0 +1,3 @@
+struct knote | kn_sfflags int | kn_hookid long | kn_sdata int 
+struct kevent_internal_s | fflags int | data int 
+function filt_usertouch int | kn struct knote * | kev struct kevent_internal_s *

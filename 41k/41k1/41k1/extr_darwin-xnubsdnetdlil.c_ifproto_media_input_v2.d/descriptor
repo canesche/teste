@@ -1,0 +1,3 @@
+struct mbuf | dummy int 
+struct ifnet | dummy int 
+function ifproto_media_input_v2 int | ifp struct ifnet * | protocol int | packet struct mbuf *

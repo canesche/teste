@@ -1,0 +1,2 @@
+struct card_info | dummy int 
+function cail_mc_read int | info struct card_info * | reg int

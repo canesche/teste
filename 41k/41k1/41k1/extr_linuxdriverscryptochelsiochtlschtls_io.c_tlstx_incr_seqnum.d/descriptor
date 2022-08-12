@@ -1,0 +1,2 @@
+struct chtls_hws | tx_seq_no int 
+function tlstx_incr_seqnum int | hws struct chtls_hws *

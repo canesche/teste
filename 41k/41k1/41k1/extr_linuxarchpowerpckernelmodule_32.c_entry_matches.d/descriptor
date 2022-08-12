@@ -1,0 +1,2 @@
+struct ppc_plt_entry | jump int * 
+function entry_matches int | entry struct ppc_plt_entry * | val int

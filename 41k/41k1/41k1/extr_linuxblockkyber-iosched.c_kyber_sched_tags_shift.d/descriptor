@@ -1,0 +1,7 @@
+struct kyber_queue_data | q struct TYPE_10__ * 
+struct TYPE_10__ | queue_hw_ctx struct TYPE_9__ ** 
+struct TYPE_9__ | sched_tags struct TYPE_8__ * 
+struct TYPE_6__ | shift unsigned int 
+struct TYPE_7__ | sb struct TYPE_6__ 
+struct TYPE_8__ | bitmap_tags struct TYPE_7__ 
+function kyber_sched_tags_shift unsigned int | kqd struct kyber_queue_data *

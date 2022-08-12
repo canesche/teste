@@ -1,0 +1,2 @@
+struct TYPE_3__ | use_crc32 int | crc32_complement int 
+function dl_zout_set_crc32_flag void | f struct TYPE_3__ * | flag int

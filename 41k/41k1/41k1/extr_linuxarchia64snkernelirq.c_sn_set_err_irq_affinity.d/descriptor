@@ -1,0 +1,1 @@
+function sn_set_err_irq_affinity void | irq unsigned int

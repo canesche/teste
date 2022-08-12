@@ -1,0 +1,2 @@
+struct hostname | dummy int 
+function free_idnconverted_hostname void | host struct hostname *

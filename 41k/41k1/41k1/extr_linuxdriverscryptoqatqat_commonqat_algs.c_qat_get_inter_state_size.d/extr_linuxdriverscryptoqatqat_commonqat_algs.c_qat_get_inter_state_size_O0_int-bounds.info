@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriverscryptoqatqat_commonqat_algs.c_qat_get_inter_state_size.d/extr_linuxdriverscryptoqatqat_commonqat_algs.c_qat_get_inter_state_size_O0::qat_get_inter_state_size(66)"
+  }
+]

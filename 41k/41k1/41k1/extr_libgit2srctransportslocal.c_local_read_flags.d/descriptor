@@ -1,0 +1,2 @@
+struct TYPE_2__ | flags int 
+function local_read_flags int | transport int * | flags int *

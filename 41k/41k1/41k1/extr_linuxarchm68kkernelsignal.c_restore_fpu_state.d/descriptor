@@ -1,0 +1,2 @@
+struct sigcontext | dummy int 
+function restore_fpu_state int | sc struct sigcontext *

@@ -1,0 +1,2 @@
+struct pci_dev | dummy int 
+function pci_dev_specific_acs_enabled int | dev struct pci_dev * | acs_flags int

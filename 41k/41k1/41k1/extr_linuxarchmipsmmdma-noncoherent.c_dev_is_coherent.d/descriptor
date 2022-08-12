@@ -1,0 +1,2 @@
+struct device | dummy int 
+function dev_is_coherent int | dev struct device *

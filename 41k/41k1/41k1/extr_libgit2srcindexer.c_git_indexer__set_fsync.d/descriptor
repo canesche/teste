@@ -1,0 +1,2 @@
+struct TYPE_3__ | do_fsync int 
+function git_indexer__set_fsync void | idx struct TYPE_3__ * | do_fsync int

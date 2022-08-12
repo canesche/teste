@@ -1,0 +1,2 @@
+struct TYPE_2__ | numlocalservers int | numglobalservers int | numfavoriteservers int 
+function LAN_GetServerCount int | source int

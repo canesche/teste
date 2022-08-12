@@ -1,0 +1,3 @@
+struct request_queue | mq_ops int 
+struct request | special long | q struct request_queue * 
+function req_no_special_merge int | req struct request *

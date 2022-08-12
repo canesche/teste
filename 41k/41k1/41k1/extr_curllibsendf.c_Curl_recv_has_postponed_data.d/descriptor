@@ -1,0 +1,2 @@
+struct connectdata | dummy int 
+function Curl_recv_has_postponed_data int | conn struct connectdata * | sockindex int

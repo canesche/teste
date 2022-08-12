@@ -1,0 +1,2 @@
+struct perf_event | dummy int 
+function i915_pmu_event_event_idx int | event struct perf_event *

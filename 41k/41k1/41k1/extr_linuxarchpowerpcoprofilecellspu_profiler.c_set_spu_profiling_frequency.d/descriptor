@@ -1,0 +1,1 @@
+function set_spu_profiling_frequency void | freq_khz unsigned int | cycles_reset unsigned int

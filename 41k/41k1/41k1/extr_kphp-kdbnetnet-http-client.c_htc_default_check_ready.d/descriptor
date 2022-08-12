@@ -1,0 +1,2 @@
+struct connection | ready int 
+function htc_default_check_ready int | c struct connection *

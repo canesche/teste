@@ -1,0 +1,4 @@
+struct drm_mode_set | x int | y int 
+struct drm_fb_helper | crtc_count int | crtc_info struct TYPE_2__ * 
+struct TYPE_2__ | mode_set struct drm_mode_set 
+function pan_set void | fb_helper struct drm_fb_helper * | x int | y int

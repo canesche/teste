@@ -1,0 +1,1 @@
+function set_reg_val_type void | rvt unsigned long long * | reg int | type enum reg_val_type

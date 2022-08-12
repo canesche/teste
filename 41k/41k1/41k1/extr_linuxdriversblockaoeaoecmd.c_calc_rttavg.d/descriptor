@@ -1,0 +1,3 @@
+struct aoetgt | maxout long | nframes long | ssthresh long | nout long | next_cwnd long 
+struct aoedev | rttavg long | rttdev long 
+function calc_rttavg void | d struct aoedev * | t struct aoetgt * | rtt int

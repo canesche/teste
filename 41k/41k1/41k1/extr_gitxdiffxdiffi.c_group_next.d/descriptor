@@ -1,0 +1,3 @@
+struct TYPE_3__ | nrec int | rchg long * 
+struct xdlgroup | end int | start int 
+function group_next int | xdf struct TYPE_3__ * | g struct xdlgroup *

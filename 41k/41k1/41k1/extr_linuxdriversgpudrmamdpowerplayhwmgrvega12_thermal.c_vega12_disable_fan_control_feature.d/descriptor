@@ -1,0 +1,2 @@
+struct pp_hwmgr | dummy int 
+function vega12_disable_fan_control_feature int | hwmgr struct pp_hwmgr *

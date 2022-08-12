@@ -1,0 +1,2 @@
+struct notifier_block | dummy int 
+function hw_breakpoint_exceptions_notify int | unused struct notifier_block * | val unsigned long | data void *

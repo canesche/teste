@@ -1,0 +1,2 @@
+struct crypto4xx_device | gdr_head int | gdr_tail int 
+function crypto4xx_get_n_gd int | dev struct crypto4xx_device * | n int

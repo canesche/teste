@@ -1,0 +1,2 @@
+struct count | y long | x int 
+function compare int | a struct count * | b struct count *

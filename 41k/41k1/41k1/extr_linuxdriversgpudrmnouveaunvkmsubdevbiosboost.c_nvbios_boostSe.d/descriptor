@@ -1,0 +1,2 @@
+struct nvkm_bios | dummy int 
+function nvbios_boostSe long | bios struct nvkm_bios * | idx int | data long | ver int * | hdr int * | cnt int | len int

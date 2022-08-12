@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmmsmdispmdp4mdp4_plane.c_mdp4_get_frame_format.d/extr_linuxdriversgpudrmmsmdispmdp4mdp4_plane.c_mdp4_get_frame_format_O0::mdp4_get_frame_format(69)"
+  }
+]

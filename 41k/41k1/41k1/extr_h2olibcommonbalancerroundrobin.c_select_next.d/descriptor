@@ -1,0 +1,3 @@
+struct round_robin_t | pos long | consumed_weight long 
+struct TYPE_3__ | size long 
+function select_next void | self struct round_robin_t * | targets struct TYPE_3__ *

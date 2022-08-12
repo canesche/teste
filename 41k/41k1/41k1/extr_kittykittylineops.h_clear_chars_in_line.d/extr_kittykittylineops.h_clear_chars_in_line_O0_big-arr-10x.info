@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 6,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 155,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_kittykittylineops.h_clear_chars_in_line.d/extr_kittykittylineops.h_clear_chars_in_line_O0::clear_chars_in_line(68)"
+  }
+]

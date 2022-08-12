@@ -1,0 +1,2 @@
+struct coproc_params | is_64bit int | CRn int | CRm int | Op1 int | Op2 int 
+function index_to_params int | id int | params struct coproc_params *

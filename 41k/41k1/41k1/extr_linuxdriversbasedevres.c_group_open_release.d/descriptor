@@ -1,0 +1,2 @@
+struct device | dummy int 
+function group_open_release void | dev struct device * | res void *

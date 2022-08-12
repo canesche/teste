@@ -1,0 +1,3 @@
+struct mcryptd_hash_request_ctx | flag int 
+struct ahash_request | dummy int 
+function req_ctx_init void | rctx struct mcryptd_hash_request_ctx * | areq struct ahash_request *

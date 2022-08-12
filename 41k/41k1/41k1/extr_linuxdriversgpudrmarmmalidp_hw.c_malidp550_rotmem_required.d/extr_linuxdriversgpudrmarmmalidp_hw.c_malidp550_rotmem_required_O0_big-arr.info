@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxdriversgpudrmarmmalidp_hw.c_malidp550_rotmem_required.d/extr_linuxdriversgpudrmarmmalidp_hw.c_malidp550_rotmem_required_O0::malidp550_rotmem_required(86)"
+  }
+]

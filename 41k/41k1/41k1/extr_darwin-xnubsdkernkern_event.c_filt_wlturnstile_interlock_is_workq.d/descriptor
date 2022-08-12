@@ -1,0 +1,3 @@
+struct kqrequest | kqr_state int | kqr_thread long 
+struct kqworkloop | kqwl_request struct kqrequest 
+function filt_wlturnstile_interlock_is_workq int | kqwl struct kqworkloop *

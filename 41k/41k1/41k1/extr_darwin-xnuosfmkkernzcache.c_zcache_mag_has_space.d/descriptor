@@ -1,0 +1,2 @@
+struct zcc_magazine | zcc_magazine_index long | zcc_magazine_capacity long 
+function zcache_mag_has_space int | mag struct zcc_magazine *

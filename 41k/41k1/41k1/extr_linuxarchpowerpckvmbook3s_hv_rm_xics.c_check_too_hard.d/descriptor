@@ -1,0 +1,3 @@
+struct kvmppc_xics | real_mode_dbg long 
+struct kvmppc_icp | rm_action long 
+function check_too_hard int | xics struct kvmppc_xics * | icp struct kvmppc_icp *

@@ -1,0 +1,2 @@
+struct nvkm_bios | dummy int 
+function nvbios_perfSe int | bios struct nvkm_bios * | perfE int | idx int | ver int * | hdr int * | cnt int | len int

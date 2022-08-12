@@ -1,0 +1,1 @@
+function selftest_to_bitmap void | dgst_shifts const unsigned long | digests_buf_ptr char * | dgst_pos0 const unsigned long | dgst_pos1 const unsigned long | dgst_pos2 const unsigned long | dgst_pos3 const unsigned long | bitmap_mask const unsigned long | bitmap_a unsigned long * | bitmap_b unsigned long * | bitmap_c unsigned long * | bitmap_d unsigned long *

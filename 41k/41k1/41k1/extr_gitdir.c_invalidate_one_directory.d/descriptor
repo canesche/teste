@@ -1,0 +1,3 @@
+struct untracked_cache_dir | untracked_nr long | valid long 
+struct untracked_cache | dir_invalidated int 
+function invalidate_one_directory void | uc struct untracked_cache * | ucd struct untracked_cache_dir *

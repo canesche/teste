@@ -1,0 +1,3 @@
+struct drm_crtc_state | active_changed long | mode_changed long 
+struct dc_stream_state | mode_changed int 
+function amdgpu_dm_crtc_copy_transient_flags void | crtc_state struct drm_crtc_state * | stream_state struct dc_stream_state *

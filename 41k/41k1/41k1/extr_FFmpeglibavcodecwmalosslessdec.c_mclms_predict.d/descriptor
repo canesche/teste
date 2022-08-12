@@ -1,0 +1,2 @@
+struct TYPE_3__ | mclms_order int | num_channels int | mclms_recent int | mclms_coeffs int * | mclms_coeffs_cur int * | mclms_scaling int | channel_residues long ** | mclms_prevvalues long * | is_channel_coded int * 
+function mclms_predict void | s struct TYPE_3__ * | icoef int | pred int *

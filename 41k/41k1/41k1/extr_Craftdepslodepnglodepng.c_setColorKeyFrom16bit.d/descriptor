@@ -1,0 +1,2 @@
+struct TYPE_3__ | key_defined int | key_r unsigned int | key_g unsigned int | key_b unsigned int 
+function setColorKeyFrom16bit void | mode_out struct TYPE_3__ * | r unsigned int | g unsigned int | b unsigned int | bitdepth unsigned int

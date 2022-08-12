@@ -1,0 +1,1 @@
+function _cpuid void | cpu_info unsigned int [4] | cpu_info_type const unsigned int

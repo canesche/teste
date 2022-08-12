@@ -1,0 +1,2 @@
+struct pseries_hp_errorlog | dummy int 
+function dlpar_memory int | hp_elog struct pseries_hp_errorlog *

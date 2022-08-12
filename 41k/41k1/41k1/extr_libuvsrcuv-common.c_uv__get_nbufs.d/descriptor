@@ -1,0 +1,2 @@
+struct TYPE_3__ | nbufs unsigned int 
+function uv__get_nbufs unsigned int * | req struct TYPE_3__ *

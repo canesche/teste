@@ -1,0 +1,2 @@
+struct vnop_blktooff_args | a_offset long * 
+function nop_blktooff int | ap struct vnop_blktooff_args *

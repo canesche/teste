@@ -1,0 +1,2 @@
+struct amdgpu_device | dummy int 
+function amdgpu_acpi_fini void | adev struct amdgpu_device *

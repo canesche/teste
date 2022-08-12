@@ -1,0 +1,2 @@
+struct sline | flag unsigned long | lost long 
+function interesting int | sline struct sline * | all_mask unsigned long

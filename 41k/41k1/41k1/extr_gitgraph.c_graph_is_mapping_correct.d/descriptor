@@ -1,0 +1,2 @@
+struct git_graph | mapping_size int | mapping int * 
+function graph_is_mapping_correct int | graph struct git_graph *

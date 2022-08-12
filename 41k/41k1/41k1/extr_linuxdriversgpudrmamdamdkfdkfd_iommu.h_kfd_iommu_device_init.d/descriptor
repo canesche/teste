@@ -1,0 +1,2 @@
+struct kfd_dev | dummy int 
+function kfd_iommu_device_init int | kfd struct kfd_dev *

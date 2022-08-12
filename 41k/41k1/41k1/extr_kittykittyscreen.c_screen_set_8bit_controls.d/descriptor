@@ -1,0 +1,3 @@
+struct TYPE_4__ | eight_bit_controls int 
+struct TYPE_5__ | modes struct TYPE_4__ 
+function screen_set_8bit_controls void | self struct TYPE_5__ * | yes int

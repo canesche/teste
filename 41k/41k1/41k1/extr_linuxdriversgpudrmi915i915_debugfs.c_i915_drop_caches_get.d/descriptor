@@ -1,0 +1,1 @@
+function i915_drop_caches_get int | data void * | val int *

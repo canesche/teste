@@ -1,0 +1,4 @@
+struct TYPE_7__ | FSMC_WriteTimingStruct struct TYPE_6__ * | FSMC_ReadWriteTimingStruct struct TYPE_5__ * | FSMC_WriteBurst int | FSMC_ExtendedMode int | FSMC_WaitSignal int | FSMC_WriteOperation int | FSMC_WaitSignalActive int | FSMC_WrapMode int | FSMC_WaitSignalPolarity int | FSMC_AsynchronousWait int | FSMC_BurstAccessMode int | FSMC_MemoryDataWidth int | FSMC_MemoryType int | FSMC_DataAddressMux int | FSMC_Bank int 
+struct TYPE_6__ | FSMC_AddressSetupTime int | FSMC_AddressHoldTime int | FSMC_DataSetupTime int | FSMC_BusTurnAroundDuration int | FSMC_CLKDivision int | FSMC_DataLatency int | FSMC_AccessMode void * 
+struct TYPE_5__ | FSMC_AddressSetupTime int | FSMC_AddressHoldTime int | FSMC_DataSetupTime int | FSMC_BusTurnAroundDuration int | FSMC_CLKDivision int | FSMC_DataLatency int | FSMC_AccessMode void * 
+function FSMC_NORSRAMStructInit void | FSMC_NORSRAMInitStruct struct TYPE_7__ *

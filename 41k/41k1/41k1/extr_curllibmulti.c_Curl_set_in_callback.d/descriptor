@@ -1,0 +1,4 @@
+struct Curl_easy | multi struct TYPE_4__ * | multi_easy struct TYPE_3__ * 
+struct TYPE_4__ | in_callback int 
+struct TYPE_3__ | in_callback int 
+function Curl_set_in_callback void | data struct Curl_easy * | value int

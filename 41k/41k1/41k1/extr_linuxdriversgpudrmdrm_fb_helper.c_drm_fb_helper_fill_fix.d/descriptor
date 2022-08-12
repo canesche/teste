@@ -1,0 +1,3 @@
+struct TYPE_2__ | xpanstep int | ypanstep int | line_length int | accel int | ywrapstep long | type_aux long | mmio_len long | mmio_start long | visual int | type int 
+struct fb_info | fix struct TYPE_2__ 
+function drm_fb_helper_fill_fix void | info struct fb_info * | pitch int | depth int

@@ -1,0 +1,6 @@
+struct TYPE_10__ | flags int 
+struct TYPE_12__ | opts struct TYPE_10__ 
+struct TYPE_9__ | mode long 
+struct TYPE_11__ | mode long 
+struct TYPE_13__ | status long | new_file struct TYPE_9__ | old_file struct TYPE_11__ 
+function status_is_included int | status struct TYPE_12__ * | head2idx struct TYPE_13__ * | idx2wd struct TYPE_13__ *

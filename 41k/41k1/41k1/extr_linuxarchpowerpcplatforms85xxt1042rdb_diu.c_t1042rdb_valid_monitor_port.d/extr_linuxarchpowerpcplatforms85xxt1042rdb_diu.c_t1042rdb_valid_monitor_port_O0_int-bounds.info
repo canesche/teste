@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k1/extr_linuxarchpowerpcplatforms85xxt1042rdb_diu.c_t1042rdb_valid_monitor_port.d/extr_linuxarchpowerpcplatforms85xxt1042rdb_diu.c_t1042rdb_valid_monitor_port_O0::t1042rdb_valid_monitor_port(62)"
+  }
+]

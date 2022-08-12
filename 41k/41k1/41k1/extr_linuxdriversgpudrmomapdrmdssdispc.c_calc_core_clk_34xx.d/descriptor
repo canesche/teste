@@ -1,0 +1,1 @@
+function calc_core_clk_34xx unsigned long | pclk unsigned long | width int | height int | out_width int | out_height int | mem_to_mem int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | gcount int | bscale double | data_max_found long | data_min_found long | bzero long | image_extension long | rgb long | groups long | pcount long | blank_found long | naxis_index long | state int 
+function avpriv_fits_header_init int | header struct TYPE_3__ * | state int

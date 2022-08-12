@@ -1,0 +1,2 @@
+struct cpu_hw_events | n_pebs long | n_large_pebs long 
+function pebs_needs_sched_cb int | cpuc struct cpu_hw_events *

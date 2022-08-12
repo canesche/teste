@@ -1,0 +1,2 @@
+struct dax_device | private void * 
+function dax_get_private void * | dax_dev struct dax_device *

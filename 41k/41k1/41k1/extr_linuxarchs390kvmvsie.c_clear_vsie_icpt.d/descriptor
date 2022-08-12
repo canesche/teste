@@ -1,0 +1,3 @@
+struct TYPE_2__ | icptcode long 
+struct vsie_page | scb_s struct TYPE_2__ 
+function clear_vsie_icpt void | vsie_page struct vsie_page *

@@ -1,0 +1,3 @@
+struct pci_pbm_info | index int 
+struct pci_bus | sysdata struct pci_pbm_info * 
+function pci_domain_nr int | pbus struct pci_bus *

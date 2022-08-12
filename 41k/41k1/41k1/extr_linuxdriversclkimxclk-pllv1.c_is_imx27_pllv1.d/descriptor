@@ -1,0 +1,2 @@
+struct clk_pllv1 | type long 
+function is_imx27_pllv1 int | pll struct clk_pllv1 *

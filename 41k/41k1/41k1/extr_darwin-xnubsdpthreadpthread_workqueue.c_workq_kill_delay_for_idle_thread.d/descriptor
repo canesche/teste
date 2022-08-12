@@ -1,0 +1,3 @@
+struct workqueue | wq_thidlecount long 
+struct TYPE_2__ | abstime long 
+function workq_kill_delay_for_idle_thread long | wq struct workqueue *

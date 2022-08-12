@@ -1,0 +1,3 @@
+struct sockaddr_in | dummy int 
+struct sockaddr | sa_family int | sa_len int 
+function flow_divert_is_sockaddr_valid int | addr struct sockaddr *

@@ -1,0 +1,2 @@
+struct httprequest | upgrade_request long | upgrade long | done_processing long | connect_port long | callcount long | prot_version long | rcmd int | writedelay long | skip long | ntlm void * | digest void * | cl long | auth void * | auth_req void * | open int | connect_request void * | partno long | testno int | offset long | checkindex long 
+function init_httprequest void | req struct httprequest *
