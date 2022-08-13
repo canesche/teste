@@ -1,0 +1,3 @@
+struct __stripe_pages_2d | pages_in_unit int | _1p_stripes struct __1_page_stripe * 
+struct __1_page_stripe | write_count long 
+function _sp2d_max_pg unsigned int | sp2d struct __stripe_pages_2d *

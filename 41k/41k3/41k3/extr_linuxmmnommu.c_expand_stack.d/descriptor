@@ -1,0 +1,2 @@
+struct vm_area_struct | dummy int 
+function expand_stack int | vma struct vm_area_struct * | address unsigned long

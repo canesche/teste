@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsf2fsdata.c_f2fs_bio_post_read_required.d/extr_linuxfsf2fsdata.c_f2fs_bio_post_read_required_O0::f2fs_bio_post_read_required(61)"
+  }
+]

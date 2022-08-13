@@ -1,0 +1,2 @@
+struct vmem_altmap | reserve unsigned long | free unsigned long 
+function vmem_altmap_offset unsigned long | altmap struct vmem_altmap *

@@ -1,0 +1,2 @@
+struct nfs_server | dummy int 
+function nfs4_session_limit_rwsize void | server struct nfs_server *

@@ -1,0 +1,3 @@
+struct page | dummy int 
+struct nfs_inode | dummy int 
+function nfs_fscache_wait_on_page_write void | nfsi struct nfs_inode * | page struct page *

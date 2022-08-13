@@ -1,0 +1,2 @@
+struct dso | long_name char * | kernel long 
+function dso__is_kallsyms int | dso struct dso *

@@ -1,0 +1,1 @@
+function ngx_rstrncasecmp char | s1 char * | s2 char * | n unsigned long

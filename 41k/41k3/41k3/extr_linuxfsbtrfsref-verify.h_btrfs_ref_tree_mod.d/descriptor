@@ -1,0 +1,2 @@
+struct btrfs_root | dummy int 
+function btrfs_ref_tree_mod int | root struct btrfs_root * | bytenr int | num_bytes int | parent int | ref_root int | owner int | offset int | action int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsbtrfstests..extent_map.h_extent_map_block_end.d/extr_linuxfsbtrfstests..extent_map.h_extent_map_block_end_O0::extent_map_block_end(62)"
+  }
+]

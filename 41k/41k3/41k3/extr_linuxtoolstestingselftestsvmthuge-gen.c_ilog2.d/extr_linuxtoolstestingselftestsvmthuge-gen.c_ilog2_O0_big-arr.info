@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 93,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxtoolstestingselftestsvmthuge-gen.c_ilog2.d/extr_linuxtoolstestingselftestsvmthuge-gen.c_ilog2_O0::ilog2(60)"
+  }
+]

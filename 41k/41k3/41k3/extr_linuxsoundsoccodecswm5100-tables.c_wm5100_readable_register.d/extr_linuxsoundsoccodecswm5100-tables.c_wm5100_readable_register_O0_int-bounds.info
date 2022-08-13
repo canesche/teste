@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 20,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 40,
+    static: {
+      instructions: 66,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 66,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundsoccodecswm5100-tables.c_wm5100_readable_register.d/extr_linuxsoundsoccodecswm5100-tables.c_wm5100_readable_register_O0::wm5100_readable_register(827)"
+  }
+]

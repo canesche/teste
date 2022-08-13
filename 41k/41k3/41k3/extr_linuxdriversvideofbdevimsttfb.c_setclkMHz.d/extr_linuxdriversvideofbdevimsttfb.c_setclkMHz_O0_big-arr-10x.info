@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 125,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversvideofbdevimsttfb.c_setclkMHz.d/extr_linuxdriversvideofbdevimsttfb.c_setclkMHz_O0::setclkMHz(65)"
+  }
+]

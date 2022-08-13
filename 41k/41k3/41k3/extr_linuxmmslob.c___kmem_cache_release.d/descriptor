@@ -1,0 +1,2 @@
+struct kmem_cache | dummy int 
+function __kmem_cache_release void | c struct kmem_cache *

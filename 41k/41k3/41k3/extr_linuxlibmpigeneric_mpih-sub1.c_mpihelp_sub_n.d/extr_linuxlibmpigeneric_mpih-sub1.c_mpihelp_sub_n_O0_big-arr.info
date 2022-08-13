@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 75,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9727,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxlibmpigeneric_mpih-sub1.c_mpihelp_sub_n.d/extr_linuxlibmpigeneric_mpih-sub1.c_mpihelp_sub_n_O0::mpihelp_sub_n(65)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosbootfreeldrfreeldrlibinffileinffile.c_InfGetDataField.d/extr_reactosbootfreeldrfreeldrlibinffileinffile.c_InfGetDataField_O0::InfGetDataField(78)"
+  }
+]

@@ -1,0 +1,4 @@
+struct snd_device | device_data struct azx * 
+struct TYPE_2__ | shutdown int 
+struct azx | bus struct TYPE_2__ 
+function hda_tegra_dev_disconnect int | device struct snd_device *

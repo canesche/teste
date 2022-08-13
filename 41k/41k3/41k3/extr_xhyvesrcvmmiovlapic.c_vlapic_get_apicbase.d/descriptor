@@ -1,0 +1,2 @@
+struct vlapic | msr_apicbase int 
+function vlapic_get_apicbase int | vlapic struct vlapic *

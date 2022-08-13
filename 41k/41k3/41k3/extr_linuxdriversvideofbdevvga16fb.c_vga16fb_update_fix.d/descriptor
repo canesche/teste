@@ -1,0 +1,4 @@
+struct TYPE_4__ | bits_per_pixel int | xres_virtual int | nonstd long 
+struct TYPE_3__ | line_length int | type void * | type_aux int 
+struct fb_info | var struct TYPE_4__ | fix struct TYPE_3__ 
+function vga16fb_update_fix void | info struct fb_info *

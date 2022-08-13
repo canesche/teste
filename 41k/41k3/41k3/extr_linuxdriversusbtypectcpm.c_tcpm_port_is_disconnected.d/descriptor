@@ -1,0 +1,2 @@
+struct tcpm_port | cc1 long | cc2 long | polarity long | attached long 
+function tcpm_port_is_disconnected int | port struct tcpm_port *

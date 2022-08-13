@@ -1,0 +1,2 @@
+struct TYPE_3__ | is_args int | ip int 
+function ngx_http_script_mark_args_code unsigned long | e struct TYPE_3__ *

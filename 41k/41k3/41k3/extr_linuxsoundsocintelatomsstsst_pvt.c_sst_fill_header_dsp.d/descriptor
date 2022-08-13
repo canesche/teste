@@ -1,0 +1,2 @@
+struct ipc_dsp_hdr | cmd_id int | mod_index_id int | pipe_id int | length int | mod_id long 
+function sst_fill_header_dsp void | dsp struct ipc_dsp_hdr * | msg int | pipe_id int | len int

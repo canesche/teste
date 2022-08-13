@@ -1,0 +1,2 @@
+struct virtual_item | dummy int 
+function indirect_part_size int | vi struct virtual_item * | first int | units int

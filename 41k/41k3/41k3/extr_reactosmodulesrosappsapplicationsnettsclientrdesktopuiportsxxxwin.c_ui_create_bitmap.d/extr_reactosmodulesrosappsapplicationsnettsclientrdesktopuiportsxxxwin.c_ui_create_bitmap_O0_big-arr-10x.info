@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosmodulesrosappsapplicationsnettsclientrdesktopuiportsxxxwin.c_ui_create_bitmap.d/extr_reactosmodulesrosappsapplicationsnettsclientrdesktopuiportsxxxwin.c_ui_create_bitmap_O0::ui_create_bitmap(62)"
+  }
+]

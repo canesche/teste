@@ -1,0 +1,3 @@
+struct TYPE_4__ | HighPart int | LowPart int 
+struct TYPE_5__ | DriverVersion struct TYPE_4__ | Revision int | SubSysId int | DeviceId int | VendorId int | DeviceIdentifier int 
+function GenerateDeviceIdentifier void | pIdentifier struct TYPE_5__ *

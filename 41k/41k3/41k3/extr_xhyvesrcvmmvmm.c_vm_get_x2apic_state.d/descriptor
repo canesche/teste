@@ -1,0 +1,3 @@
+struct vm | vcpu struct TYPE_2__ * 
+struct TYPE_2__ | x2apic_state int 
+function vm_get_x2apic_state int | vm struct vm * | vcpuid int | state enum x2apic_state *

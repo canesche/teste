@@ -1,0 +1,3 @@
+struct device_node | dummy int 
+struct at91wdt | dummy int 
+function of_at91wdt_init int | np struct device_node * | wdt struct at91wdt *

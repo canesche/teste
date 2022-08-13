@@ -1,0 +1,2 @@
+struct nfsd4_compoundargs | minorversion long 
+function nfsd4_decode_putpubfh int | argp struct nfsd4_compoundargs * | p void *

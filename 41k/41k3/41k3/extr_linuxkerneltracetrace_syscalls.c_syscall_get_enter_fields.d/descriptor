@@ -1,0 +1,4 @@
+struct trace_event_call | data struct syscall_metadata * 
+struct list_head | dummy int 
+struct syscall_metadata | enter_fields struct list_head 
+function syscall_get_enter_fields struct list_head * | call struct trace_event_call *

@@ -1,0 +1,2 @@
+struct ieee80211_sub_if_data | dummy int 
+function mesh_path_sel_is_hwmp int | sdata struct ieee80211_sub_if_data *

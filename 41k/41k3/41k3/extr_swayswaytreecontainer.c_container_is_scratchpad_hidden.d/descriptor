@@ -1,0 +1,2 @@
+struct sway_container | workspace int | scratchpad long 
+function container_is_scratchpad_hidden int | con struct sway_container *

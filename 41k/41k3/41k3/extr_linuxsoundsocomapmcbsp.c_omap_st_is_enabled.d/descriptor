@@ -1,0 +1,3 @@
+struct omap_mcbsp_st_data | enabled int 
+struct omap_mcbsp | st_data struct omap_mcbsp_st_data * 
+function omap_st_is_enabled int | mcbsp struct omap_mcbsp *

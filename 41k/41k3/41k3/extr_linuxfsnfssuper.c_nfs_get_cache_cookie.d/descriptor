@@ -1,0 +1,4 @@
+struct super_block | dummy int 
+struct nfs_parsed_mount_data | dummy int 
+struct nfs_clone_mount | dummy int 
+function nfs_get_cache_cookie void | sb struct super_block * | parsed struct nfs_parsed_mount_data * | cloned struct nfs_clone_mount *

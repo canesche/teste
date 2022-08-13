@@ -1,0 +1,2 @@
+struct TYPE_3__ | buffer int | cursor int 
+function buffer_reset void | b struct TYPE_3__ *

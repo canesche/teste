@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdlldirectxwined3dcompiler_43utils.c_debug_print_shift.d/extr_reactosdlldirectxwined3dcompiler_43utils.c_debug_print_shift_O0::debug_print_shift(61)"
+  }
+]

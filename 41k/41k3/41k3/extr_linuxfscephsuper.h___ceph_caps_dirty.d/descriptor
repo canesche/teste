@@ -1,0 +1,2 @@
+struct ceph_inode_info | i_dirty_caps int | i_flushing_caps int 
+function __ceph_caps_dirty int | ci struct ceph_inode_info *

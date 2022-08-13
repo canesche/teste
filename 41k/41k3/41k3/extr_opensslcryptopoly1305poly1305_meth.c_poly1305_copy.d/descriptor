@@ -1,0 +1,2 @@
+struct TYPE_4__ | ctx int * 
+function poly1305_copy int | dst struct TYPE_4__ * | src struct TYPE_4__ *

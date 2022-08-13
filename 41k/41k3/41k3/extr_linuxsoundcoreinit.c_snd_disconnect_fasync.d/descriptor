@@ -1,0 +1,2 @@
+struct file | dummy int 
+function snd_disconnect_fasync int | fd int | file struct file * | on int

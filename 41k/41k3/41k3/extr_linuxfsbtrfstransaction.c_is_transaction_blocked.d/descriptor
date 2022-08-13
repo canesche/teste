@@ -1,0 +1,2 @@
+struct btrfs_transaction | state long | aborted int 
+function is_transaction_blocked int | trans struct btrfs_transaction *

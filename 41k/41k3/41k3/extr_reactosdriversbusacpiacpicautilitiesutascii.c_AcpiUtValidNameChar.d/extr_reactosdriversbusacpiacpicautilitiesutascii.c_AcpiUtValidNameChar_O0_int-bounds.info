@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdriversbusacpiacpicautilitiesutascii.c_AcpiUtValidNameChar.d/extr_reactosdriversbusacpiacpicautilitiesutascii.c_AcpiUtValidNameChar_O0::AcpiUtValidNameChar(67)"
+  }
+]

@@ -1,0 +1,2 @@
+struct tty_struct | dummy int 
+function v253_wakeup void | tty struct tty_struct *

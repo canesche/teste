@@ -1,0 +1,1 @@
+function stb_quadratic_controller float | target_pos float | curpos float | maxvel float | maxacc float | dt float | curvel float *

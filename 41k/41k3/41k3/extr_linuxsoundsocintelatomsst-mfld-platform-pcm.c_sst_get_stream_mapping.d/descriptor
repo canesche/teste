@@ -1,0 +1,2 @@
+struct sst_dev_stream_map | dev_num int | direction int 
+function sst_get_stream_mapping int | dev int | sdev int | dir int | map struct sst_dev_stream_map * | size int

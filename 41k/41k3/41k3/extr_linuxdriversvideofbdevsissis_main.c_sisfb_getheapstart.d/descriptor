@@ -1,0 +1,2 @@
+struct sis_video_info | sisfb_parm_mem int | video_size int | hwcursor_size int | cmdQueueSize int | sisvga_engine long | cardnumber long | LFBsize long | UMAsize long 
+function sisfb_getheapstart int | ivideo struct sis_video_info *

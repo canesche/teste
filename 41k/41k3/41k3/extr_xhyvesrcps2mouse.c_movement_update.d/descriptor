@@ -1,0 +1,2 @@
+struct ps2mouse_softc | cur_x int | cur_y int | delta_y int | delta_x int 
+function movement_update void | sc struct ps2mouse_softc * | x int | y int

@@ -1,0 +1,2 @@
+struct symbol | flags int 
+function sym_is_optional int | sym struct symbol *

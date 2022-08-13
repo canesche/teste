@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 146,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosmodulesrostestswinetestsdplayxdplayx.c_dpid2char.d/extr_reactosmodulesrostestswinetestsdplayxdplayx.c_dpid2char_O0::dpid2char(64)"
+  }
+]

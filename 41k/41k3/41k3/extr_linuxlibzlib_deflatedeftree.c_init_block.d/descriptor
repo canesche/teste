@@ -1,0 +1,5 @@
+struct TYPE_9__ | opt_len long | static_len long | matches long | last_lit long | dyn_ltree struct TYPE_8__ * | bl_tree struct TYPE_7__ * | dyn_dtree struct TYPE_6__ * 
+struct TYPE_8__ | Freq int 
+struct TYPE_7__ | Freq long 
+struct TYPE_6__ | Freq long 
+function init_block void | s struct TYPE_9__ *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 57,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 57,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxkernelrelay.c_relay_file_read_start_pos.d/extr_linuxkernelrelay.c_relay_file_read_start_pos_O0::relay_file_read_start_pos(64)"
+  }
+]

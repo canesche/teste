@@ -1,0 +1,2 @@
+struct TYPE_3__ | alloc long 
+function xmlBufferSetAllocationScheme void | buf struct TYPE_3__ * | scheme long

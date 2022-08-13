@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct net | dummy int 
+function udp6_lib_exact_dif_match int | net struct net * | skb struct sk_buff *

@@ -1,0 +1,2 @@
+struct sk_security_struct | nlbl_state int 
+function selinux_netlbl_sk_security_reset void | sksec struct sk_security_struct *

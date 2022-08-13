@@ -1,0 +1,2 @@
+struct cbuf | mask int | len long | base long 
+function cbuf_init void | cb struct cbuf * | size int

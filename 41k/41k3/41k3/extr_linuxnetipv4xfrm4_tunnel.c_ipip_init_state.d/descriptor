@@ -1,0 +1,4 @@
+struct TYPE_2__ | mode long | header_len int 
+struct xfrm_state | props struct TYPE_2__ | encap long 
+struct iphdr | dummy int 
+function ipip_init_state int | x struct xfrm_state *

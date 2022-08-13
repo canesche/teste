@@ -1,0 +1,2 @@
+struct message | flags int | stage long | id int | lParam int | wParam int | message int 
+function init_test_message void | message int | wParam int | lParam int | msg struct message *

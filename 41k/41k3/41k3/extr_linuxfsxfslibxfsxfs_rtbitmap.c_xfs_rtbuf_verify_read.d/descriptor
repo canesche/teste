@@ -1,0 +1,2 @@
+struct xfs_buf | dummy int 
+function xfs_rtbuf_verify_read void | bp struct xfs_buf *

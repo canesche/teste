@@ -1,0 +1,5 @@
+struct TYPE_8__ | num_masks long 
+struct TYPE_7__ | num_masks long 
+struct TYPE_6__ | num_hints long 
+struct TYPE_9__ | counters struct TYPE_8__ | masks struct TYPE_7__ | hints struct TYPE_6__ 
+function ps_dimension_init void | dimension struct TYPE_9__ *

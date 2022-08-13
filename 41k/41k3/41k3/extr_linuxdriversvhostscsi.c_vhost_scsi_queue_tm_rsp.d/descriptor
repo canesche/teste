@@ -1,0 +1,2 @@
+struct se_cmd | dummy int 
+function vhost_scsi_queue_tm_rsp void | se_cmd struct se_cmd *

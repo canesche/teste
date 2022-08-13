@@ -1,0 +1,2 @@
+struct skynet_context | session_id int 
+function skynet_context_newsession int | ctx struct skynet_context *

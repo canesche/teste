@@ -1,0 +1,2 @@
+struct TYPE_3__ | buf_len long | buf_pos long | pos long 
+function stream_tell long | s struct TYPE_3__ *

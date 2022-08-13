@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_obs-studiolibobsobs-source.c_conv_time_to_frames.d/extr_obs-studiolibobsobs-source.c_conv_time_to_frames_O0::conv_time_to_frames(62)"
+  }
+]

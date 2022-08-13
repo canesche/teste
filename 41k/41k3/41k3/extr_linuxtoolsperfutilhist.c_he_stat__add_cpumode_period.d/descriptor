@@ -1,0 +1,2 @@
+struct he_stat | period_guest_us int | period_guest_sys int | period_us int | period_sys int 
+function he_stat__add_cpumode_period void | he_stat struct he_stat * | cpumode unsigned int | period int

@@ -1,0 +1,1 @@
+function bs_set_pixel_on void | data char * | x int | y int | width int | bpp int | pixel int

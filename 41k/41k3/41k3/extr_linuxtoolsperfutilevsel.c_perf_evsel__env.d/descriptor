@@ -1,0 +1,4 @@
+struct perf_evsel | evlist struct TYPE_2__ * 
+struct perf_env | dummy int 
+struct TYPE_2__ | env struct perf_env * 
+function perf_evsel__env struct perf_env * | evsel struct perf_evsel *

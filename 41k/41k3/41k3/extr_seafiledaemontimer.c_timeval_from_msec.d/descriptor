@@ -1,0 +1,2 @@
+struct timeval | tv_sec int | tv_usec int 
+function timeval_from_msec struct timeval | milliseconds int

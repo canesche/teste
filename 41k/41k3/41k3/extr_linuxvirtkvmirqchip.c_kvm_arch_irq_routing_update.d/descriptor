@@ -1,0 +1,2 @@
+struct kvm | dummy int 
+function kvm_arch_irq_routing_update void | kvm struct kvm *

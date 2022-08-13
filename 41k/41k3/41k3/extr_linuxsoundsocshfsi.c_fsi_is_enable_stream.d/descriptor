@@ -1,0 +1,2 @@
+struct fsi_priv | enable_stream int 
+function fsi_is_enable_stream int | fsi struct fsi_priv *

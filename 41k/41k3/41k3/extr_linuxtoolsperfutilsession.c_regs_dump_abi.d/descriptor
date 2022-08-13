@@ -1,0 +1,2 @@
+struct regs_dump | abi unsigned long 
+function regs_dump_abi const char * | d struct regs_dump *

@@ -1,0 +1,2 @@
+struct zlog_stream | msg_quote int | decorate long 
+function zlog_stream_set_msg_quoting void | stream struct zlog_stream * | quote long

@@ -1,0 +1,2 @@
+struct snd_midi_event | nostat int 
+function snd_midi_event_no_status void | dev struct snd_midi_event * | on int

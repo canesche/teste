@@ -1,0 +1,3 @@
+struct TYPE_2__ | nr_entries int 
+struct pyrf_evlist | evlist struct TYPE_2__ 
+function pyrf_evlist__length int | obj int *

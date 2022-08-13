@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function probe_wakeup_migrate_task void | ignore void * | task struct task_struct * | cpu int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetcoredev.c_net_rps_send_ipi.d/extr_linuxnetcoredev.c_net_rps_send_ipi_O0::net_rps_send_ipi(61)"
+  }
+]

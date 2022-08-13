@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_nodemcu-firmwareappsjsonjsonsl.c_is_simple_char.d/extr_nodemcu-firmwareappsjsonjsonsl.c_is_simple_char_O0::is_simple_char(59)"
+  }
+]

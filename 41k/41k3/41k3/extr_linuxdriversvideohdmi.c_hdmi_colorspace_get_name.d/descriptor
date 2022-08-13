@@ -1,0 +1,1 @@
+function hdmi_colorspace_get_name const char * | colorspace enum hdmi_colorspace

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function cs35l33_writeable_register int | dev struct device * | reg unsigned int

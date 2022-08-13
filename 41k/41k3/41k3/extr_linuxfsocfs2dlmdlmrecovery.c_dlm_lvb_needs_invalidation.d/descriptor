@@ -1,0 +1,3 @@
+struct TYPE_2__ | type long 
+struct dlm_lock | ml struct TYPE_2__ 
+function dlm_lvb_needs_invalidation int | lock struct dlm_lock * | local int

@@ -1,0 +1,2 @@
+struct ra_imgfmt_desc | num_planes int | components int ** 
+function find_comp int | desc struct ra_imgfmt_desc * | component int

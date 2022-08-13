@@ -1,0 +1,2 @@
+struct snd_soc_card | dummy int 
+function soc_init_card_debugfs void | card struct snd_soc_card *

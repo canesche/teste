@@ -1,0 +1,1 @@
+function nix_lseek int | fd int | offset int | whence int

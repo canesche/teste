@@ -1,0 +1,2 @@
+struct wusbhc | dummy int 
+function wusbhc_rh_clear_hub_feat int | wusbhc struct wusbhc * | feature int

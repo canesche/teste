@@ -1,0 +1,1 @@
+function hpi_adapter_enumerate_property int | adapter_index int | index int | what_to_enumerate int | property_index int | psetting int *

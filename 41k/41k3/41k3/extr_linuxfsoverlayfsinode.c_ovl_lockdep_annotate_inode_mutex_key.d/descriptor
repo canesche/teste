@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function ovl_lockdep_annotate_inode_mutex_key void | inode struct inode *

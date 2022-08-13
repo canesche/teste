@@ -1,0 +1,4 @@
+struct TYPE_2__ | start_col int | safe_mas_per_col int | unsafe_mas_per_col int | interval long 
+struct uwb_rsv_col_info | csi struct TYPE_2__ 
+struct uwb_rsv_alloc_info | bm unsigned char * | ci struct uwb_rsv_col_info * 
+function uwb_rsv_fill_column_alloc void | ai struct uwb_rsv_alloc_info *

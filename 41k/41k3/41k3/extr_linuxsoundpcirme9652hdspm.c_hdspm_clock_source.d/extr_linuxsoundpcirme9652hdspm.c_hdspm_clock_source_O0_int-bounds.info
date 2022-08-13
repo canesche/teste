@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 9,
+    exit: true,
+    halt: false,
+    edges: 21,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundpcirme9652hdspm.c_hdspm_clock_source.d/extr_linuxsoundpcirme9652hdspm.c_hdspm_clock_source_O0::hdspm_clock_source(61)"
+  }
+]

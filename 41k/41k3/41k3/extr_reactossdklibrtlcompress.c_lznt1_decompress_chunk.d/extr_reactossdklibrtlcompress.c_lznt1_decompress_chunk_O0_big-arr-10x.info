@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 19,
+    phantoms: 7,
+    exit: true,
+    halt: false,
+    edges: 31,
+    static: {
+      instructions: 136,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 453,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactossdklibrtlcompress.c_lznt1_decompress_chunk.d/extr_reactossdklibrtlcompress.c_lznt1_decompress_chunk_O0::lznt1_decompress_chunk(64)"
+  }
+]

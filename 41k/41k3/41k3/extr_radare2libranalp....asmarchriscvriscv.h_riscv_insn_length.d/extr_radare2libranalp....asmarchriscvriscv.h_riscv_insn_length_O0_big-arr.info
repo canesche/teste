@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_radare2libranalp....asmarchriscvriscv.h_riscv_insn_length.d/extr_radare2libranalp....asmarchriscvriscv.h_riscv_insn_length_O0::riscv_insn_length(61)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_2__ | width int | height int 
+function vncwinClipRect int | x int * | y int * | cx int * | cy int *

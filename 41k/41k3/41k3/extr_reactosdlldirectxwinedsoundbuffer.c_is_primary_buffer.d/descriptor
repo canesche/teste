@@ -1,0 +1,3 @@
+struct TYPE_4__ | dwFlags int 
+struct TYPE_5__ | dsbd struct TYPE_4__ 
+function is_primary_buffer int | This struct TYPE_5__ *

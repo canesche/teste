@@ -1,0 +1,5 @@
+struct TYPE_6__ | dwMask int | wEffects int 
+struct TYPE_7__ | nFlags int | fmt struct TYPE_6__ | pCell long 
+struct TYPE_8__ | para struct TYPE_7__ 
+struct TYPE_9__ | member struct TYPE_8__ 
+function ME_UpdateTableFlags void | para struct TYPE_9__ *

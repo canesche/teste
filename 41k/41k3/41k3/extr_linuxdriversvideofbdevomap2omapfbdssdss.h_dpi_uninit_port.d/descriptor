@@ -1,0 +1,2 @@
+struct device_node | dummy int 
+function dpi_uninit_port void | port struct device_node *

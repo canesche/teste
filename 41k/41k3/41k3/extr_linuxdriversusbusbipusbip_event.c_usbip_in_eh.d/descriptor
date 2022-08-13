@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function usbip_in_eh int | task struct task_struct *

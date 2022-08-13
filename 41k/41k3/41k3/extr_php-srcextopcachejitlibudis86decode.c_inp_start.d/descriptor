@@ -1,0 +1,2 @@
+struct ud | inp_ctr long 
+function inp_start void | u struct ud *

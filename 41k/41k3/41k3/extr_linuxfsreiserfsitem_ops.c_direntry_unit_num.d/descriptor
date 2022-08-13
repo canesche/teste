@@ -1,0 +1,3 @@
+struct virtual_item | vi_uarea struct direntry_uarea * 
+struct direntry_uarea | entry_count int 
+function direntry_unit_num int | vi struct virtual_item *

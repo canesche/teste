@@ -1,0 +1,2 @@
+struct notifier_block | dummy int 
+function nuc900fb_cpufreq_transition int | nb struct notifier_block * | val unsigned long | data void *

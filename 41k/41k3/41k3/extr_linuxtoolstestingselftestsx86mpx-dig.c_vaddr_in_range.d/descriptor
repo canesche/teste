@@ -1,0 +1,2 @@
+struct vaddr_range | start unsigned long | end unsigned long 
+function vaddr_in_range int | vaddr unsigned long | r struct vaddr_range *

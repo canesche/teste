@@ -1,0 +1,2 @@
+struct work_atoms | max_lat long 
+function max_cmp int | l struct work_atoms * | r struct work_atoms *

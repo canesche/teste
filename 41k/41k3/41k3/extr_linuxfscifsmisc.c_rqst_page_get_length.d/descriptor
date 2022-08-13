@@ -1,0 +1,2 @@
+struct smb_rqst | rq_pagesz unsigned int | rq_offset unsigned int | rq_npages int | rq_tailsz unsigned int 
+function rqst_page_get_length void | rqst struct smb_rqst * | page unsigned int | len unsigned int * | offset unsigned int *

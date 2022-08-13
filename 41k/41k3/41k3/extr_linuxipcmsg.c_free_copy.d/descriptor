@@ -1,0 +1,2 @@
+struct msg_msg | dummy int 
+function free_copy void | copy struct msg_msg *

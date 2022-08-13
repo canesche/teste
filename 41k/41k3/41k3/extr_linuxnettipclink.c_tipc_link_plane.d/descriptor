@@ -1,0 +1,2 @@
+struct tipc_link | net_plane char 
+function tipc_link_plane char | l struct tipc_link *

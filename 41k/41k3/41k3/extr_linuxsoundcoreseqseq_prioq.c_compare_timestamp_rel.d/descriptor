@@ -1,0 +1,4 @@
+struct TYPE_3__ | tv_sec long | tv_nsec long 
+struct TYPE_4__ | tick long | time struct TYPE_3__ 
+struct snd_seq_event | flags int | time struct TYPE_4__ 
+function compare_timestamp_rel int | a struct snd_seq_event * | b struct snd_seq_event *

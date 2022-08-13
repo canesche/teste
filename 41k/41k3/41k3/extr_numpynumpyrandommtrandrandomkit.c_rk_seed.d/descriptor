@@ -1,0 +1,2 @@
+struct TYPE_3__ | key unsigned long * | pos int | has_binomial long | has_gauss long | gauss long 
+function rk_seed void | seed unsigned long | state struct TYPE_3__ *

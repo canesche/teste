@@ -1,0 +1,2 @@
+struct hda_beep | dummy int 
+function beep_standard_tone int | beep struct hda_beep * | hz int

@@ -1,0 +1,3 @@
+struct TYPE_5__ | ptr long 
+struct TYPE_4__ | info_callback int * 
+function conn_callback_ctrl long | b struct TYPE_5__ * | cmd int | fp int *

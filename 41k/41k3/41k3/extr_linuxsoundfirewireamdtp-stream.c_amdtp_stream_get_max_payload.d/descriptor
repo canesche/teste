@@ -1,0 +1,2 @@
+struct amdtp_stream | flags int | syt_interval int | data_block_quadlets int 
+function amdtp_stream_get_max_payload unsigned int | s struct amdtp_stream *

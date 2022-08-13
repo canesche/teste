@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_mimikatzmimikatzmodulescryptokuhl_m_crypto_extractor.c_kuhl_m_crypto_extractor_GetKeySizeForEncryptMemory.d/extr_mimikatzmimikatzmodulescryptokuhl_m_crypto_extractor.c_kuhl_m_crypto_extractor_GetKeySizeForEncryptMemory_O0::kuhl_m_crypto_extractor_GetKeySizeForEncryptMemory(62)"
+  }
+]

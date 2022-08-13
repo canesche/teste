@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 59,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 80,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactossdktoolshhpcompchmcencint.h_chmc_encint.d/extr_reactossdktoolshhpcompchmcencint.h_chmc_encint_O0::chmc_encint(61)"
+  }
+]

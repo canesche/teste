@@ -1,0 +1,2 @@
+struct thread_trace | nr_events unsigned long 
+function thread__nr_events unsigned long | ttrace struct thread_trace *

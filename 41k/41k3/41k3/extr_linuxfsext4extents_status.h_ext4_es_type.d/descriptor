@@ -1,0 +1,2 @@
+struct extent_status | es_pblk unsigned int 
+function ext4_es_type unsigned int | es struct extent_status *

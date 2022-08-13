@@ -1,0 +1,2 @@
+struct swap_cluster_info | flags unsigned int 
+function cluster_set_flag void | info struct swap_cluster_info * | flag unsigned int

@@ -1,0 +1,1 @@
+function read_bounds_table_into_buf void * | table_vaddr unsigned long

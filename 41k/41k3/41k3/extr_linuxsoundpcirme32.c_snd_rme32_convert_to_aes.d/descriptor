@@ -1,0 +1,2 @@
+struct snd_aes_iec958 | status int * 
+function snd_rme32_convert_to_aes void | aes struct snd_aes_iec958 * | val int

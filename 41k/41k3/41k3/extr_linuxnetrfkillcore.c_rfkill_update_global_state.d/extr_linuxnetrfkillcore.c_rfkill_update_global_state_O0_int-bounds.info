@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetrfkillcore.c_rfkill_update_global_state.d/extr_linuxnetrfkillcore.c_rfkill_update_global_state_O0::rfkill_update_global_state(66)"
+  }
+]

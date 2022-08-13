@@ -1,0 +1,2 @@
+struct power_supply | dummy int 
+function tcpm_psy_prop_writeable int | psy struct power_supply * | psp enum power_supply_property

@@ -1,0 +1,1 @@
+function sapi_cli_send_headers int | sapi_headers int *

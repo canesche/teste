@@ -1,0 +1,2 @@
+struct snd_opl4 | dummy int 
+function snd_opl4_free_proc void | opl4 struct snd_opl4 *

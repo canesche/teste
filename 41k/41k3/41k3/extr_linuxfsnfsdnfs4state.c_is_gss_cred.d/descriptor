@@ -1,0 +1,2 @@
+struct svc_cred | cr_flavor long 
+function is_gss_cred int | cr struct svc_cred *

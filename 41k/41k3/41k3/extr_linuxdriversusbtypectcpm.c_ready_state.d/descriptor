@@ -1,0 +1,2 @@
+struct tcpm_port | pwr_role long 
+function ready_state enum tcpm_state | port struct tcpm_port *

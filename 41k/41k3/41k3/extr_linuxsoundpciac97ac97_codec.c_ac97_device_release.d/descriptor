@@ -1,0 +1,2 @@
+struct device | dummy int 
+function ac97_device_release void | dev struct device *

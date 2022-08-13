@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundusbusx2yusb_stream.c_usb_stream_next_packet_size.d/extr_linuxsoundusbusx2yusb_stream.c_usb_stream_next_packet_size_O0::usb_stream_next_packet_size(64)"
+  }
+]

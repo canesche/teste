@@ -1,0 +1,3 @@
+struct TYPE_2__ | enabled int 
+struct pci_devinst | pi_msi struct TYPE_2__ 
+function pci_msi_enabled int | pi struct pci_devinst *

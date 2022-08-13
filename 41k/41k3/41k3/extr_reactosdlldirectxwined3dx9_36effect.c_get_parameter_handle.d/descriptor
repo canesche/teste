@@ -1,0 +1,2 @@
+struct d3dx_parameter | dummy int 
+function get_parameter_handle int | parameter struct d3dx_parameter *

@@ -1,0 +1,2 @@
+struct lapb_cb | va unsigned short | mode int | vs unsigned short 
+function lapb_validate_nr int | lapb struct lapb_cb * | nr unsigned short

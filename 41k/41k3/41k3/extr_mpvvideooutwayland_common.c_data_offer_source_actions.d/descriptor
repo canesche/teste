@@ -1,0 +1,2 @@
+struct wl_data_offer | dummy int 
+function data_offer_source_actions void | data void * | offer struct wl_data_offer * | source_actions int

@@ -1,0 +1,2 @@
+struct sock | dummy int 
+function tcp_diag_get_aux_size unsigned long | sk struct sock * | net_admin int

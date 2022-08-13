@@ -1,0 +1,3 @@
+struct TYPE_4__ | last int | opcodes struct TYPE_5__ * 
+struct TYPE_5__ | opcode long | lineno int 
+function zend_update_extended_stmts void | op_array struct TYPE_4__ *

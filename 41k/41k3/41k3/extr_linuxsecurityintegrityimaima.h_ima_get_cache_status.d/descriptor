@@ -1,0 +1,2 @@
+struct integrity_iint_cache | dummy int 
+function ima_get_cache_status enum integrity_status | iint struct integrity_iint_cache * | func enum ima_hooks

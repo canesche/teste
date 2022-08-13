@@ -1,0 +1,2 @@
+struct TYPE_3__ | a int | b int | c int | d int | hi long | lo long 
+function MD5_Init void | ctx struct TYPE_3__ *

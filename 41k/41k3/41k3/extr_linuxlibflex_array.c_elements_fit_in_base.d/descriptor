@@ -1,0 +1,2 @@
+struct flex_array | element_size int | total_nr_elements int 
+function elements_fit_in_base int | fa struct flex_array *

@@ -1,0 +1,3 @@
+struct hist_entry | dummy int 
+struct hist_browser | he_selection struct hist_entry * 
+function hist_browser__selected_entry struct hist_entry * | browser struct hist_browser *

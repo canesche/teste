@@ -1,0 +1,2 @@
+struct file | dummy int 
+function kvm_no_compat_ioctl long | file struct file * | ioctl unsigned int | arg unsigned long

@@ -1,0 +1,1 @@
+function cfg80211_get_end_freq int | center_freq int | bandwidth int

@@ -1,0 +1,2 @@
+struct p9_fcall | size long | offset long 
+function p9pdu_reset void | pdu struct p9_fcall *

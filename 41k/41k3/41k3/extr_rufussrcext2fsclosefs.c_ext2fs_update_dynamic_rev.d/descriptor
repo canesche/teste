@@ -1,0 +1,3 @@
+struct ext2_super_block | s_rev_level long | s_inode_size int | s_first_ino int 
+struct TYPE_3__ | super struct ext2_super_block * 
+function ext2fs_update_dynamic_rev void | fs struct TYPE_3__ *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 10,
+    exit: true,
+    halt: false,
+    edges: 23,
+    static: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_mpvaudiooutao_alsa.c_map_iec958_srate.d/extr_mpvaudiooutao_alsa.c_map_iec958_srate_O0::map_iec958_srate(71)"
+  }
+]

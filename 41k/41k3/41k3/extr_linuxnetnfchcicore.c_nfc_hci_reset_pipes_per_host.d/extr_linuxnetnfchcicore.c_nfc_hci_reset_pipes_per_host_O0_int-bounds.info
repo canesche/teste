@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetnfchcicore.c_nfc_hci_reset_pipes_per_host.d/extr_linuxnetnfchcicore.c_nfc_hci_reset_pipes_per_host_O0::nfc_hci_reset_pipes_per_host(67)"
+  }
+]

@@ -1,0 +1,2 @@
+struct inet6_protocol | dummy int 
+function netproto const struct inet6_protocol * | protocol unsigned char

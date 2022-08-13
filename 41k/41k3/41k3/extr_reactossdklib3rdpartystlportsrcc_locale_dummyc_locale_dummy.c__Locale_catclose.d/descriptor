@@ -1,0 +1,2 @@
+struct _Locale_messages | dummy int 
+function _Locale_catclose void | lmes struct _Locale_messages * | cat int

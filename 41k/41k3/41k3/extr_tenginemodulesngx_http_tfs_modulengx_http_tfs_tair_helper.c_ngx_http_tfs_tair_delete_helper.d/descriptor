@@ -1,0 +1,1 @@
+function ngx_http_tfs_tair_delete_helper int | instance int * | pool int * | log int * | keys int * | callback int | data void *

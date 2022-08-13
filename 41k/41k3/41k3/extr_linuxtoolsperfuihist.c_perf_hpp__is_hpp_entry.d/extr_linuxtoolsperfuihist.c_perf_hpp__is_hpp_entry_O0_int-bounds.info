@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxtoolsperfuihist.c_perf_hpp__is_hpp_entry.d/extr_linuxtoolsperfuihist.c_perf_hpp__is_hpp_entry_O0::perf_hpp__is_hpp_entry(62)"
+  }
+]

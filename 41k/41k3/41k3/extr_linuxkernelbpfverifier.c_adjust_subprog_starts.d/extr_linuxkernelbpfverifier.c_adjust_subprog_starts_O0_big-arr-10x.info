@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxkernelbpfverifier.c_adjust_subprog_starts.d/extr_linuxkernelbpfverifier.c_adjust_subprog_starts_O0::adjust_subprog_starts(64)"
+  }
+]

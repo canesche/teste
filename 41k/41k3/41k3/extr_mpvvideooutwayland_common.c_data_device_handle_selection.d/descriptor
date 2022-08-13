@@ -1,0 +1,3 @@
+struct wl_data_offer | dummy int 
+struct wl_data_device | dummy int 
+function data_device_handle_selection void | data void * | wl_ddev struct wl_data_device * | id struct wl_data_offer *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 8,
+    exit: true,
+    halt: false,
+    edges: 19,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_radare2librmagicapprentice.c_get_op.d/extr_radare2librmagicapprentice.c_get_op_O0::get_op(67)"
+  }
+]

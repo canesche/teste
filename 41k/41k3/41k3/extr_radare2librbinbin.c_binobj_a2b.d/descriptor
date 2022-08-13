@@ -1,0 +1,2 @@
+struct TYPE_3__ | baddr_shift long 
+function binobj_a2b long | o struct TYPE_3__ * | addr long

@@ -1,0 +1,1 @@
+function ngx_http_tfs_tair_put_helper int | instance int * | pool int * | log int * | key int * | value int * | expire int | version int | callback int | data void *

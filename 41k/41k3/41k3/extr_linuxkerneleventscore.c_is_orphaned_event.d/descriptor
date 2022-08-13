@@ -1,0 +1,2 @@
+struct perf_event | state long 
+function is_orphaned_event int | event struct perf_event *

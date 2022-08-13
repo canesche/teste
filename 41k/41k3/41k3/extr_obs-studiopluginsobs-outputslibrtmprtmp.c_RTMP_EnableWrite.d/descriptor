@@ -1,0 +1,3 @@
+struct TYPE_4__ | protocol int 
+struct TYPE_5__ | Link struct TYPE_4__ 
+function RTMP_EnableWrite void | r struct TYPE_5__ *

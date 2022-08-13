@@ -1,0 +1,3 @@
+struct nfs_open_context | dummy int 
+struct nfs4_opendata | dummy int 
+function pnfs_lgopen_prepare void | data struct nfs4_opendata * | ctx struct nfs_open_context *

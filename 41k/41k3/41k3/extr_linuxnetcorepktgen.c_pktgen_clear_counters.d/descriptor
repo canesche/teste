@@ -1,0 +1,2 @@
+struct pktgen_dev | seq_num int | errors long | tx_bytes long | sofar long | idle_acc long 
+function pktgen_clear_counters void | pkt_dev struct pktgen_dev *

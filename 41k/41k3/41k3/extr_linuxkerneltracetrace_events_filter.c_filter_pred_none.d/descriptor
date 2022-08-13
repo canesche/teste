@@ -1,0 +1,2 @@
+struct filter_pred | dummy int 
+function filter_pred_none int | pred struct filter_pred * | event void *

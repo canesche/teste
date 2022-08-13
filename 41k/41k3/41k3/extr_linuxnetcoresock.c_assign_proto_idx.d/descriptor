@@ -1,0 +1,2 @@
+struct proto | dummy int 
+function assign_proto_idx void | prot struct proto *

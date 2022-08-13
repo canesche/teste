@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundisacs423xcs4236_lib.c_snd_cs4235_mixer_output_accu_set_volume.d/extr_linuxsoundisacs423xcs4236_lib.c_snd_cs4235_mixer_output_accu_set_volume_O0::snd_cs4235_mixer_output_accu_set_volume(60)"
+  }
+]

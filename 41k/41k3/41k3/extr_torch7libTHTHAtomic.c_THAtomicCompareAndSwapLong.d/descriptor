@@ -1,0 +1,1 @@
+function THAtomicCompareAndSwapLong long | a volatile long * | oldvalue long | newvalue long

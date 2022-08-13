@@ -1,0 +1,2 @@
+struct rt_mutex_waiter | dummy int 
+function debug_rt_mutex_detect_deadlock int | w struct rt_mutex_waiter * | walk enum rtmutex_chainwalk

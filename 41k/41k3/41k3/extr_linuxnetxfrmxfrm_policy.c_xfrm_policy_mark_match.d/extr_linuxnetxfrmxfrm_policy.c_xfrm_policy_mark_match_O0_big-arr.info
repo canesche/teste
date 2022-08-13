@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetxfrmxfrm_policy.c_xfrm_policy_mark_match.d/extr_linuxnetxfrmxfrm_policy.c_xfrm_policy_mark_match_O0::xfrm_policy_mark_match(65)"
+  }
+]

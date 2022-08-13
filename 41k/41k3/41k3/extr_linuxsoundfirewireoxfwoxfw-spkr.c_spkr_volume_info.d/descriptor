@@ -1,0 +1,7 @@
+struct snd_oxfw | spec struct fw_spkr * 
+struct snd_kcontrol | private_data struct snd_oxfw * 
+struct TYPE_4__ | max int | min int 
+struct TYPE_3__ | integer struct TYPE_4__ 
+struct snd_ctl_elem_info | value struct TYPE_3__ | count int | type int 
+struct fw_spkr | volume_max int | volume_min int | mixer_channels int 
+function spkr_volume_info int | control struct snd_kcontrol * | info struct snd_ctl_elem_info *

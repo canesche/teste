@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundcoreseqseq_timer.c_snd_seq_timer_get_cur_tick.d/extr_linuxsoundcoreseqseq_timer.c_snd_seq_timer_get_cur_tick_O0::snd_seq_timer_get_cur_tick(64)"
+  }
+]

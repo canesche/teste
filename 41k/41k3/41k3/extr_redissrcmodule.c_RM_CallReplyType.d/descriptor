@@ -1,0 +1,2 @@
+struct TYPE_3__ | type int 
+function RM_CallReplyType int | reply struct TYPE_3__ *

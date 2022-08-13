@@ -1,0 +1,2 @@
+struct TYPE_3__ | count int 
+function spl_ptr_llist_count int | llist struct TYPE_3__ *

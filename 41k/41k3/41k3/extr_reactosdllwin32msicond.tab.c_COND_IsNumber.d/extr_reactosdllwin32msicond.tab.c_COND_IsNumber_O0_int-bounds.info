@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdllwin32msicond.tab.c_COND_IsNumber.d/extr_reactosdllwin32msicond.tab.c_COND_IsNumber_O0::COND_IsNumber(61)"
+  }
+]

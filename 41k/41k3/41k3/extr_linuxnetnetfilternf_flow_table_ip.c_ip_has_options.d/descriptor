@@ -1,0 +1,2 @@
+struct iphdr | dummy int 
+function ip_has_options int | thoff unsigned int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_toxcoretoxcoreassoc.c_odd_min9_is_prime.d/extr_toxcoretoxcoreassoc.c_odd_min9_is_prime_O0::odd_min9_is_prime(61)"
+  }
+]

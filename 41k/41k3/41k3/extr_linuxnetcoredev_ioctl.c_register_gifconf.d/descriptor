@@ -1,0 +1,1 @@
+function register_gifconf int | family unsigned int | gifconf int *

@@ -1,0 +1,2 @@
+struct sis_video_info | dummy int 
+function sisfb_save_pdc_emi void | ivideo struct sis_video_info *

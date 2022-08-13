@@ -1,0 +1,1 @@
+function POOL_create_advanced int * | numThreads unsigned long | queueSize unsigned long | customMem int

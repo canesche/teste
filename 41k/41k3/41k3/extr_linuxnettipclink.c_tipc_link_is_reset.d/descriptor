@@ -1,0 +1,2 @@
+struct tipc_link | state int 
+function tipc_link_is_reset int | l struct tipc_link *

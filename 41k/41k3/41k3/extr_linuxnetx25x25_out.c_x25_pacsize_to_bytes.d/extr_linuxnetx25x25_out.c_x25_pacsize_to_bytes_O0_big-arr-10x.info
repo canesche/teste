@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 118,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetx25x25_out.c_x25_pacsize_to_bytes.d/extr_linuxnetx25x25_out.c_x25_pacsize_to_bytes_O0::x25_pacsize_to_bytes(60)"
+  }
+]

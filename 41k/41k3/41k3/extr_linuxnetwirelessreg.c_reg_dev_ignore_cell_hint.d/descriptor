@@ -1,0 +1,2 @@
+struct wiphy | dummy int 
+function reg_dev_ignore_cell_hint int | wiphy struct wiphy *

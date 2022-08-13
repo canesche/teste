@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_php-srcextstandardhtml.c_unicode_cp_is_allowed.d/extr_php-srcextstandardhtml.c_unicode_cp_is_allowed_O0::unicode_cp_is_allowed(64)"
+  }
+]

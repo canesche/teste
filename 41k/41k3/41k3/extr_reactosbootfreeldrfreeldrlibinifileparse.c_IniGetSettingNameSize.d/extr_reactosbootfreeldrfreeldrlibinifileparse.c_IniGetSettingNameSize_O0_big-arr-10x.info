@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 46,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 229,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosbootfreeldrfreeldrlibinifileparse.c_IniGetSettingNameSize.d/extr_reactosbootfreeldrfreeldrlibinifileparse.c_IniGetSettingNameSize_O0::IniGetSettingNameSize(62)"
+  }
+]

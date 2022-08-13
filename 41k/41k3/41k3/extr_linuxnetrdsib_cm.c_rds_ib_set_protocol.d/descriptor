@@ -1,0 +1,2 @@
+struct rds_connection | c_version unsigned int 
+function rds_ib_set_protocol void | conn struct rds_connection * | version unsigned int

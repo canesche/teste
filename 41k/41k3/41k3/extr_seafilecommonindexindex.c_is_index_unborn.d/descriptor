@@ -1,0 +1,3 @@
+struct TYPE_2__ | sec int 
+struct index_state | timestamp struct TYPE_2__ | alloc int | cache_nr int 
+function is_index_unborn int | istate struct index_state *

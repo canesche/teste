@@ -1,0 +1,1 @@
+function pattern_set_bit void | x int | y int | pitch int | pat char *

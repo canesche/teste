@@ -1,0 +1,3 @@
+struct TYPE_2__ | type int 
+struct intel_pt_decoder | period_type int | timestamp int | timestamp_insn_cnt int | period_mask int | last_masked_timestamp int | state struct TYPE_2__ | period_insn_cnt int 
+function intel_pt_sample_insn void | decoder struct intel_pt_decoder *

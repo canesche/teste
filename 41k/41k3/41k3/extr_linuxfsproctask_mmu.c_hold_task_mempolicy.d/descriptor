@@ -1,0 +1,2 @@
+struct proc_maps_private | dummy int 
+function hold_task_mempolicy void | priv struct proc_maps_private *

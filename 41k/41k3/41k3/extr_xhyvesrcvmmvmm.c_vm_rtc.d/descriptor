@@ -1,0 +1,3 @@
+struct vrtc | dummy int 
+struct vm | vrtc struct vrtc * 
+function vm_rtc struct vrtc * | vm struct vm *

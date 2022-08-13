@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsnfsdnfs4acl.c_mask_from_posix.d/extr_linuxfsnfsdnfs4acl.c_mask_from_posix_O0::mask_from_posix(73)"
+  }
+]

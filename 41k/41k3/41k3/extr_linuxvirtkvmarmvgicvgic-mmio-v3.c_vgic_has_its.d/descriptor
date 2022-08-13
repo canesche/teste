@@ -1,0 +1,4 @@
+struct vgic_dist | vgic_model long | has_its int 
+struct TYPE_2__ | vgic struct vgic_dist 
+struct kvm | arch struct TYPE_2__ 
+function vgic_has_its int | kvm struct kvm *

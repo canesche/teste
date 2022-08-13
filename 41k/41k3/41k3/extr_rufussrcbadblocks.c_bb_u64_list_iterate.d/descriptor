@@ -1,0 +1,3 @@
+struct TYPE_5__ | magic long | ptr long | bb struct TYPE_4__ * 
+struct TYPE_4__ | magic long | num long | list int * 
+function bb_u64_list_iterate int | iter struct TYPE_5__ * | blk int *

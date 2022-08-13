@@ -1,0 +1,2 @@
+struct the_nilfs | ns_blocks_per_segment int | ns_first_data_block int 
+function nilfs_get_segment_range void | nilfs struct the_nilfs * | segnum int | seg_start int * | seg_end int *

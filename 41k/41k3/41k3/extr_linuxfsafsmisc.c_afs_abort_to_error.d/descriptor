@@ -1,0 +1,1 @@
+function afs_abort_to_error int | abort_code int

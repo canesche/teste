@@ -1,0 +1,3 @@
+struct fb_var_screeninfo | xres int | yres int | xres_virtual int | yres_virtual int | bits_per_pixel int | vmode int | nonstd long 
+struct fb_info | dummy int 
+function chipsfb_check_var int | var struct fb_var_screeninfo * | info struct fb_info *

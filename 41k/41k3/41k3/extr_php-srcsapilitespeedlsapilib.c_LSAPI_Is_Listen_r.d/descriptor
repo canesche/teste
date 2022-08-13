@@ -1,0 +1,2 @@
+struct TYPE_3__ | m_fdListen int 
+function LSAPI_Is_Listen_r int | pReq struct TYPE_3__ *

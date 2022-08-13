@@ -1,0 +1,2 @@
+struct vfio_pci_device | dummy int 
+function vfio_pci_igd_init int | vdev struct vfio_pci_device *

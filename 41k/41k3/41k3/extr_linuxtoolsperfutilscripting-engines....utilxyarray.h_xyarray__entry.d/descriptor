@@ -1,0 +1,2 @@
+struct xyarray | contents void * | row_size int | entry_size int 
+function xyarray__entry void * | xy struct xyarray * | x int | y int

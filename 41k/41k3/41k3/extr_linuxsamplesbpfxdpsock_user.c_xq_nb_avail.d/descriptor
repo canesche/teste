@@ -1,0 +1,2 @@
+struct xdp_uqueue | cached_prod long | cached_cons long | producer long * 
+function xq_nb_avail long | q struct xdp_uqueue * | ndescs long

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_micropythonportsstm32usbhostClassHIDSrcusbh_hid.c_fifo_read.d/extr_micropythonportsstm32usbhostClassHIDSrcusbh_hid.c_fifo_read_O0::fifo_read(65)"
+  }
+]

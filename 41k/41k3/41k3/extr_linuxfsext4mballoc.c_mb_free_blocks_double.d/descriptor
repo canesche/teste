@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct ext4_buddy | dummy int 
+function mb_free_blocks_double void | inode struct inode * | e4b struct ext4_buddy * | first int | count int

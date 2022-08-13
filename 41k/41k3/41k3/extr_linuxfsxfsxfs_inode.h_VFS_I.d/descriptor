@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct xfs_inode | i_vnode struct inode 
+function VFS_I struct inode * | ip struct xfs_inode *

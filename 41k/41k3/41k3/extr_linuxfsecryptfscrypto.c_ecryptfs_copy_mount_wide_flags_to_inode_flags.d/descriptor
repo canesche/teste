@@ -1,0 +1,3 @@
+struct ecryptfs_mount_crypt_stat | flags int 
+struct ecryptfs_crypt_stat | flags int 
+function ecryptfs_copy_mount_wide_flags_to_inode_flags void | crypt_stat struct ecryptfs_crypt_stat * | mount_crypt_stat struct ecryptfs_mount_crypt_stat *

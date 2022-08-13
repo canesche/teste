@@ -1,0 +1,3 @@
+struct TYPE_4__ | width int | height int 
+struct TYPE_5__ | params struct TYPE_4__ 
+function fonsGetAtlasSize void | stash struct TYPE_5__ * | width int * | height int *

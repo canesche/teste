@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_opensslcryptoasyncasync_wait.c_ASYNC_WAIT_CTX_set_callback.d/extr_opensslcryptoasyncasync_wait.c_ASYNC_WAIT_CTX_set_callback_O0::ASYNC_WAIT_CTX_set_callback(66)"
+  }
+]

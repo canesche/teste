@@ -1,0 +1,2 @@
+struct linux_binprm | dummy int 
+function acct_arg_size void | bprm struct linux_binprm * | pages unsigned long

@@ -1,0 +1,2 @@
+struct spi_device | dummy int 
+function rt5677_spi_probe int | spi struct spi_device *

@@ -1,0 +1,4 @@
+struct station_parameters | dummy int 
+struct sta_info | dummy int 
+struct ieee80211_local | dummy int 
+function sta_apply_mesh_params void | local struct ieee80211_local * | sta struct sta_info * | params struct station_parameters *

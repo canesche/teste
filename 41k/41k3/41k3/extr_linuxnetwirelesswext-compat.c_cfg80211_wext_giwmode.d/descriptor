@@ -1,0 +1,4 @@
+struct wireless_dev | iftype int 
+struct net_device | ieee80211_ptr struct wireless_dev * 
+struct iw_request_info | dummy int 
+function cfg80211_wext_giwmode int | dev struct net_device * | info struct iw_request_info * | mode int * | extra char *

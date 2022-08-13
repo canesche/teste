@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_rufussrcext2fsinode.c_ext2fs_inode_scan_flags.d/extr_rufussrcext2fsinode.c_ext2fs_inode_scan_flags_O0::ext2fs_inode_scan_flags(65)"
+  }
+]

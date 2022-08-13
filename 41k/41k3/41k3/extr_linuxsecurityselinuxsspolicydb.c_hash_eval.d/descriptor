@@ -1,0 +1,2 @@
+struct hashtab | dummy int 
+function hash_eval void | h struct hashtab * | hash_name char *

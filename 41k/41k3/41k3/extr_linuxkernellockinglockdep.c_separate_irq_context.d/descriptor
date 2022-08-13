@@ -1,0 +1,3 @@
+struct task_struct | dummy int 
+struct held_lock | dummy int 
+function separate_irq_context int | curr struct task_struct * | hlock struct held_lock *

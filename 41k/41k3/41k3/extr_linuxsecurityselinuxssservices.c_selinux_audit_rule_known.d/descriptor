@@ -1,0 +1,3 @@
+struct audit_krule | field_count int | fields struct audit_field * 
+struct audit_field | type int 
+function selinux_audit_rule_known int | rule struct audit_krule *

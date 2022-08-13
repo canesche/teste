@@ -1,0 +1,5 @@
+struct ceph_entity_addr | dummy int 
+struct TYPE_3__ | addr struct ceph_entity_addr 
+struct TYPE_4__ | inst struct TYPE_3__ 
+struct ceph_client | msgr struct TYPE_4__ 
+function ceph_client_addr struct ceph_entity_addr * | client struct ceph_client *

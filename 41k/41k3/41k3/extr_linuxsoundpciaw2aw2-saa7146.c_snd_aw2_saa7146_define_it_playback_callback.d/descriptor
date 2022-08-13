@@ -1,0 +1,2 @@
+struct TYPE_2__ | p_callback_param void * | p_it_callback long 
+function snd_aw2_saa7146_define_it_playback_callback void | stream_number unsigned int | p_it_callback long | p_callback_param void *

@@ -1,0 +1,3 @@
+struct hda_codec | spec struct ca0132_spec * 
+struct ca0132_spec | shared_out_nid int | shared_mic_nid int 
+function ca0132_is_vnode_effective int | codec struct hda_codec * | vnid int | shared_nid int *

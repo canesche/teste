@@ -1,0 +1,2 @@
+struct cfs_rq | dummy int 
+function check_cfs_rq_runtime int | cfs_rq struct cfs_rq *

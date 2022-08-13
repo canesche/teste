@@ -1,0 +1,1 @@
+value(local_rcv) == 10, value(local_orig) == 10, length(mdst) == 100, length(skb) == 100

@@ -1,0 +1,2 @@
+struct hdmi_spec | num_cvts int | cvt_nids long * 
+function intel_cvt_id_to_mux_idx int | spec struct hdmi_spec * | cvt_nid long

@@ -1,0 +1,4 @@
+struct nfs_writeverf | dummy int 
+struct nfs_direct_req | verf struct nfs_writeverf 
+struct nfs_client | dummy int 
+function nfs_direct_select_verf struct nfs_writeverf * | dreq struct nfs_direct_req * | ds_clp struct nfs_client * | commit_idx int

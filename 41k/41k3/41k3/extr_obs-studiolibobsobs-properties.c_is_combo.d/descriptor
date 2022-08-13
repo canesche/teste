@@ -1,0 +1,2 @@
+struct obs_property | type long 
+function is_combo int | p struct obs_property *

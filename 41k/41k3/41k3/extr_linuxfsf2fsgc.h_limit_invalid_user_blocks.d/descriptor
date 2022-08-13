@@ -1,0 +1,2 @@
+struct f2fs_sb_info | user_block_count int 
+function limit_invalid_user_blocks long | sbi struct f2fs_sb_info *

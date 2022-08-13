@@ -1,0 +1,3 @@
+struct ra_hwdec_mapper | priv struct priv * 
+struct priv | mapped int | vdp_surface int 
+function mark_vdpau_objects_uninitialized void | mapper struct ra_hwdec_mapper *

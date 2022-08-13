@@ -1,0 +1,2 @@
+struct net_device | ieee80211_ptr long 
+function batadv_is_cfg80211_netdev int | net_device struct net_device *

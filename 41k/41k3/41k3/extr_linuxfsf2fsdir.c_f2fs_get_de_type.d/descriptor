@@ -1,0 +1,2 @@
+struct f2fs_dir_entry | file_type unsigned long 
+function f2fs_get_de_type unsigned char | de struct f2fs_dir_entry *

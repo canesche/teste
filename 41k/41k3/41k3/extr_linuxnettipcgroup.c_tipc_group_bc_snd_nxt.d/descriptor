@@ -1,0 +1,2 @@
+struct tipc_group | bc_snd_nxt int 
+function tipc_group_bc_snd_nxt int | grp struct tipc_group *

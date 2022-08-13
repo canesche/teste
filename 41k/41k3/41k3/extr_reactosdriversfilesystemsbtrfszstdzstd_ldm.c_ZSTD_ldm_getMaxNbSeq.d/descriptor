@@ -1,0 +1,2 @@
+struct TYPE_3__ | minMatchLength unsigned long | enableLdm long 
+function ZSTD_ldm_getMaxNbSeq unsigned long | params struct TYPE_3__ | maxChunkSize unsigned long

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_obs-studiolibobsobs-source-transition.c_calc_min_ts.d/extr_obs-studiolibobsobs-source-transition.c_calc_min_ts_O0::calc_min_ts(64)"
+  }
+]

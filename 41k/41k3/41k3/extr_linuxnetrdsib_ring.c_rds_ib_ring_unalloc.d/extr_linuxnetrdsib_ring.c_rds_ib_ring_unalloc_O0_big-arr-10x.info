@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetrdsib_ring.c_rds_ib_ring_unalloc.d/extr_linuxnetrdsib_ring.c_rds_ib_ring_unalloc_O0::rds_ib_ring_unalloc(62)"
+  }
+]

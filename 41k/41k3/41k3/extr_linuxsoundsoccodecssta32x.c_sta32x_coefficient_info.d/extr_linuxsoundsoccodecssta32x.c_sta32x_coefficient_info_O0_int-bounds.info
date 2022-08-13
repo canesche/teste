@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundsoccodecssta32x.c_sta32x_coefficient_info.d/extr_linuxsoundsoccodecssta32x.c_sta32x_coefficient_info_O0::sta32x_coefficient_info(64)"
+  }
+]

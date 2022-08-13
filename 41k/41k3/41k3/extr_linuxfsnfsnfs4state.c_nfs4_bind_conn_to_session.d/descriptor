@@ -1,0 +1,2 @@
+struct nfs_client | dummy int 
+function nfs4_bind_conn_to_session int | clp struct nfs_client *

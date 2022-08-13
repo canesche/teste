@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 3326,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_os-tutorial20-interrupts-timerkernelutil.c_memory_copy.d/extr_os-tutorial20-interrupts-timerkernelutil.c_memory_copy_O0::memory_copy(59)"
+  }
+]

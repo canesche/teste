@@ -1,0 +1,2 @@
+struct intel_pt_decoder | timestamp int | timestamp_insn_cnt int | period_mask int | continuous_period int | last_masked_timestamp int | period_ticks int 
+function intel_pt_next_period int | decoder struct intel_pt_decoder *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversvideofbdevchipsfb.c_chipsfb_check_var.d/extr_linuxdriversvideofbdevchipsfb.c_chipsfb_check_var_O0::chipsfb_check_var(66)"
+  }
+]

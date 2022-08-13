@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundsoccodecstda7419.c_tda7419_vol_is_stereo.d/extr_linuxsoundsoccodecstda7419.c_tda7419_vol_is_stereo_O0::tda7419_vol_is_stereo(61)"
+  }
+]

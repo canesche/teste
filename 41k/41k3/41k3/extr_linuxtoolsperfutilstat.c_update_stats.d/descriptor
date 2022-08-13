@@ -1,0 +1,2 @@
+struct stats | n double | mean double | M2 double | max double | min double 
+function update_stats void | stats struct stats * | val double

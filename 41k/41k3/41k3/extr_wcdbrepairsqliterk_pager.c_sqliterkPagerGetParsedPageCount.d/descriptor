@@ -1,0 +1,2 @@
+struct TYPE_3__ | pagesStatus long * | pagecount int 
+function sqliterkPagerGetParsedPageCount int | pager struct TYPE_3__ *

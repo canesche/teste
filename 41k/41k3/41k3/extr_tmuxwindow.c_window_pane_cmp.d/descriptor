@@ -1,0 +1,2 @@
+struct window_pane | id int 
+function window_pane_cmp int | wp1 struct window_pane * | wp2 struct window_pane *

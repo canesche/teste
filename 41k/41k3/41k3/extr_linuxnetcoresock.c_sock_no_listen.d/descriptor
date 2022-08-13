@@ -1,0 +1,2 @@
+struct socket | dummy int 
+function sock_no_listen int | sock struct socket * | backlog int

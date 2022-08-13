@@ -1,0 +1,2 @@
+struct hda_codec | dummy int 
+function hda_call_check_power_status int | codec struct hda_codec * | nid int

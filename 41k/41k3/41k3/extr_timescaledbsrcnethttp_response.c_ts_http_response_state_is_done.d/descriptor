@@ -1,0 +1,2 @@
+struct TYPE_3__ | state long 
+function ts_http_response_state_is_done int | state struct TYPE_3__ *

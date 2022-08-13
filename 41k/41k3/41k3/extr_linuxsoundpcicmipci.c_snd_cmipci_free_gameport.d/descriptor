@@ -1,0 +1,2 @@
+struct cmipci | dummy int 
+function snd_cmipci_free_gameport void | cm struct cmipci *

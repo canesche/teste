@@ -1,0 +1,3 @@
+struct socket | dummy int 
+struct sockaddr | dummy int 
+function sock_no_connect int | sock struct socket * | saddr struct sockaddr * | len int | flags int

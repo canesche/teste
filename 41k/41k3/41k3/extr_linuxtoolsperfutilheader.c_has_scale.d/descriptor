@@ -1,0 +1,2 @@
+struct perf_evsel | scale int 
+function has_scale int | counter struct perf_evsel *

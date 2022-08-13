@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_php-srcextgdlibgdgd_interpolation.c_filter_catmullrom.d/extr_php-srcextgdlibgdgd_interpolation.c_filter_catmullrom_O0::filter_catmullrom(58)"
+  }
+]

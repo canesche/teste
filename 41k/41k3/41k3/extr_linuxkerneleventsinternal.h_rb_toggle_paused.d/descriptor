@@ -1,0 +1,2 @@
+struct ring_buffer | paused int | nr_pages long 
+function rb_toggle_paused void | rb struct ring_buffer * | pause int

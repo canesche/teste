@@ -1,0 +1,3 @@
+struct TYPE_5__ | panels_root struct TYPE_4__ * 
+struct TYPE_4__ | n_panels int | cur_panels int 
+function handle_tab_next int | core struct TYPE_5__ *

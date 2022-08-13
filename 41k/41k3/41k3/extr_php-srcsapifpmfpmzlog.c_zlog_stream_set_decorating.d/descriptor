@@ -1,0 +1,2 @@
+struct zlog_stream | decorate int | prefix_buffer long | msg_quote long 
+function zlog_stream_set_decorating void | stream struct zlog_stream * | decorate long

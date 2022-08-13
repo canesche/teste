@@ -1,0 +1,2 @@
+struct kernfs_node | mode int 
+function dt_type unsigned char | kn struct kernfs_node *

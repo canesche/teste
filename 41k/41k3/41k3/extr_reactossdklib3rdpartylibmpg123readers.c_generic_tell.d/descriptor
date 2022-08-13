@@ -1,0 +1,4 @@
+struct TYPE_5__ | pos long | fileoff long 
+struct TYPE_6__ | flags int | filepos long | buffer struct TYPE_5__ 
+struct TYPE_7__ | rdat struct TYPE_6__ 
+function generic_tell long | fr struct TYPE_7__ *

@@ -1,0 +1,2 @@
+struct svc_export | dummy int 
+function secinfo_parse int | mesg char ** | buf char * | exp struct svc_export *

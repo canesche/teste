@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosmodulesrosappsapplicationsscreensaversmatrixmessage.c_crc_msgrand.d/extr_reactosmodulesrosappsapplicationsscreensaversmatrixmessage.c_crc_msgrand_O0::crc_msgrand(61)"
+  }
+]

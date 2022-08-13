@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int 
+function RM_AutoMemory void | ctx struct TYPE_3__ *

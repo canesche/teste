@@ -1,0 +1,2 @@
+struct TCP_Server_Info | dummy int 
+function smb2_dump_detail void | buf void * | server struct TCP_Server_Info *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundpciac97ac97_codec.c_snd_ac97_info_volsw.d/extr_linuxsoundpciac97ac97_codec.c_snd_ac97_info_volsw_O0::snd_ac97_info_volsw(69)"
+  }
+]

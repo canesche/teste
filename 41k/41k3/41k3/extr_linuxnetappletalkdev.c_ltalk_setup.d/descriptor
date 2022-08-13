@@ -1,0 +1,2 @@
+struct net_device | tx_queue_len int | broadcast int * | flags int | addr_len int | mtu int | hard_header_len int | type int 
+function ltalk_setup void | dev struct net_device *

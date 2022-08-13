@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsocfs2dlmdlmcommon.h_dlm_get_lock_cookie_seq.d/extr_linuxfsocfs2dlmdlmcommon.h_dlm_get_lock_cookie_seq_O0::dlm_get_lock_cookie_seq(61)"
+  }
+]

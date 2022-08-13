@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_opensslcryptoececp_nistputil.c_ec_GFp_nistp_recode_scalar_bits.d/extr_opensslcryptoececp_nistputil.c_ec_GFp_nistp_recode_scalar_bits_O0::ec_GFp_nistp_recode_scalar_bits(61)"
+  }
+]

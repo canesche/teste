@@ -1,0 +1,2 @@
+struct pushpull | ofs int | buflen int | reserve int | buf int * 
+function pushbit int | pp struct pushpull * | bit int | use_reserved int

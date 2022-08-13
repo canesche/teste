@@ -1,0 +1,2 @@
+struct typec_port | orientation int 
+function typec_get_orientation enum typec_orientation | port struct typec_port *

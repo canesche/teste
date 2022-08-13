@@ -1,0 +1,2 @@
+struct worker_pool | nr_idle int 
+function may_start_working int | pool struct worker_pool *

@@ -1,0 +1,2 @@
+struct tcpc_dev | dummy int 
+function tcpm_set_polarity int | dev struct tcpc_dev * | polarity enum typec_cc_polarity

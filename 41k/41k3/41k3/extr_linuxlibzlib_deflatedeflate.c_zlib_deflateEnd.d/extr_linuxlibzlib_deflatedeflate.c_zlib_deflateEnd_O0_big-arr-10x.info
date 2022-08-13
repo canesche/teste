@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxlibzlib_deflatedeflate.c_zlib_deflateEnd.d/extr_linuxlibzlib_deflatedeflate.c_zlib_deflateEnd_O0::zlib_deflateEnd(74)"
+  }
+]

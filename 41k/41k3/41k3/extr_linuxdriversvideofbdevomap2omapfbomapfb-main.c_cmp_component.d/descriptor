@@ -1,0 +1,2 @@
+struct fb_bitfield | length long | offset long | msb_right long 
+function cmp_component int | f1 struct fb_bitfield * | f2 struct fb_bitfield *

@@ -1,0 +1,2 @@
+struct buffer_head | dummy int 
+function __lock_buffer void | bh struct buffer_head *

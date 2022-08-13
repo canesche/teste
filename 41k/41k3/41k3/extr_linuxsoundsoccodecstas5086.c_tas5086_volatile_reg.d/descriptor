@@ -1,0 +1,2 @@
+struct device | dummy int 
+function tas5086_volatile_reg int | dev struct device * | reg unsigned int

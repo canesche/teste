@@ -1,0 +1,2 @@
+struct TYPE_3__ | mutex int * 
+function sqlite3_db_mutex int * | db struct TYPE_3__ *

@@ -1,0 +1,4 @@
+struct xfs_dir3_data_hdr | dummy int 
+struct xfs_dir2_data_unused | dummy int 
+struct xfs_dir2_data_hdr | dummy int 
+function xfs_dir3_data_unused_p struct xfs_dir2_data_unused * | hdr struct xfs_dir2_data_hdr *

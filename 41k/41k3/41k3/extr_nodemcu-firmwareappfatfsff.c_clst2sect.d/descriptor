@@ -1,0 +1,2 @@
+struct TYPE_3__ | n_fatent int | database int | csize int 
+function clst2sect int | fs struct TYPE_3__ * | clst int

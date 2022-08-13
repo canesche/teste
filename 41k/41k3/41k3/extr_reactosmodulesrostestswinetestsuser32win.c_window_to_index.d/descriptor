@@ -1,0 +1,1 @@
+function window_to_index int | hwnd long | window long * | size int

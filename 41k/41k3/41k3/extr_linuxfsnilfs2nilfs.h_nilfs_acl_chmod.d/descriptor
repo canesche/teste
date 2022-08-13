@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function nilfs_acl_chmod int | inode struct inode *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | memid long 
+struct TYPE_6__ | vardesc struct TYPE_5__ 
+function TLB_get_vardesc_by_memberid struct TYPE_6__ * | vardescs struct TYPE_6__ * | n long | memid long

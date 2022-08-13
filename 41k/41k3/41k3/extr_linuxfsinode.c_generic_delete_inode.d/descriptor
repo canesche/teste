@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function generic_delete_inode int | inode struct inode *

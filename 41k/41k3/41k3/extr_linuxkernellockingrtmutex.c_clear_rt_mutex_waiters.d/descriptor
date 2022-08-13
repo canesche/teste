@@ -1,0 +1,3 @@
+struct task_struct | dummy int 
+struct rt_mutex | owner struct task_struct * 
+function clear_rt_mutex_waiters void | lock struct rt_mutex *

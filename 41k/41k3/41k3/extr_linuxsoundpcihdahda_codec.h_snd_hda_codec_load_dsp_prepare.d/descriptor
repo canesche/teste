@@ -1,0 +1,3 @@
+struct snd_dma_buffer | dummy int 
+struct hda_codec | dummy int 
+function snd_hda_codec_load_dsp_prepare int | codec struct hda_codec * | format unsigned int | size unsigned int | bufp struct snd_dma_buffer *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | tinfo struct TYPE_4__ * 
+struct TYPE_4__ | tuple int 
+function ts_scan_iterator_tuple int | iterator struct TYPE_5__ *

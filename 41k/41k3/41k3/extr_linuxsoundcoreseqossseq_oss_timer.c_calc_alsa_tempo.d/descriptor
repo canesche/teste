@@ -1,0 +1,2 @@
+struct seq_oss_timer | tempo int | oss_tempo int | oss_timebase int | ppq int 
+function calc_alsa_tempo void | timer struct seq_oss_timer *

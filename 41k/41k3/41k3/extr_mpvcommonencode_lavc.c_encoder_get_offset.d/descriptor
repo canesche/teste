@@ -1,0 +1,4 @@
+struct encoder_context | options struct TYPE_4__ * | encoder struct TYPE_3__ * 
+struct TYPE_4__ | voffset double | aoffset double 
+struct TYPE_3__ | codec_type int 
+function encoder_get_offset double | p struct encoder_context *

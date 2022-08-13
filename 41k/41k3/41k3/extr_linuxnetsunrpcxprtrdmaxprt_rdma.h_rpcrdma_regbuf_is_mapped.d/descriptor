@@ -1,0 +1,2 @@
+struct rpcrdma_regbuf | rg_device int * 
+function rpcrdma_regbuf_is_mapped int | rb struct rpcrdma_regbuf *

@@ -1,0 +1,2 @@
+struct sctp_association | need_ecne int | last_ecne_tsn int 
+function sctp_do_ecn_ce_work void | asoc struct sctp_association * | lowest_tsn int

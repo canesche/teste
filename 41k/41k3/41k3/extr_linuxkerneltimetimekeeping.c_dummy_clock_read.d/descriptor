@@ -1,0 +1,2 @@
+struct clocksource | dummy int 
+function dummy_clock_read int | cs struct clocksource *

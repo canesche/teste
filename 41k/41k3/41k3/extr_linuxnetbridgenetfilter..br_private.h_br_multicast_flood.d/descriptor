@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct net_bridge_mdb_entry | dummy int 
+function br_multicast_flood void | mdst struct net_bridge_mdb_entry * | skb struct sk_buff * | local_rcv int | local_orig int

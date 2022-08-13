@@ -1,0 +1,2 @@
+struct usb_stream | dummy int 
+function loop_back void | s struct usb_stream *

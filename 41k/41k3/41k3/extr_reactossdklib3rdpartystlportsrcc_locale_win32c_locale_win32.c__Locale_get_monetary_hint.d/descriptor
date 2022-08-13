@@ -1,0 +1,2 @@
+struct TYPE_3__ | lc int 
+function _Locale_get_monetary_hint int * | lmonetary struct TYPE_3__ *

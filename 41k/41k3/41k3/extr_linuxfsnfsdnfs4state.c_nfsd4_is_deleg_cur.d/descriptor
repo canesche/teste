@@ -1,0 +1,2 @@
+struct nfsd4_open | op_claim_type long 
+function nfsd4_is_deleg_cur int | open struct nfsd4_open *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 27,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 44,
+    static: {
+      instructions: 107,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 107,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdllopenglmesacontext.c_update_rasterflags.d/extr_reactosdllopenglmesacontext.c_update_rasterflags_O0::update_rasterflags(93)"
+  }
+]

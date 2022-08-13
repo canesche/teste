@@ -1,0 +1,4 @@
+struct TYPE_6__ | flags int 
+struct TYPE_8__ | params struct TYPE_6__ 
+struct TYPE_7__ | ascender float | descender float 
+function fons__getVertAlign float | stash struct TYPE_8__ * | font struct TYPE_7__ * | align int | isize short

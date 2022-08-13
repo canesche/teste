@@ -1,0 +1,1 @@
+function AcpiDsDumpMethodStack void | Status int | WalkState int * | Op int *

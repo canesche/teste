@@ -1,0 +1,3 @@
+struct fb_var_screeninfo | pixclock int 
+struct atyfb_par | dummy int 
+function atyfb_get_pixclock int | var struct fb_var_screeninfo * | par struct atyfb_par *

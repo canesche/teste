@@ -1,0 +1,2 @@
+struct ceph_mds_client | oldest_tid int 
+function __get_oldest_tid int | mdsc struct ceph_mds_client *

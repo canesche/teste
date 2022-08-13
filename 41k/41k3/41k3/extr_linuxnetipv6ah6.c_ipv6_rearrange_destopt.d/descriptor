@@ -1,0 +1,3 @@
+struct ipv6hdr | dummy int 
+struct ipv6_opt_hdr | dummy int 
+function ipv6_rearrange_destopt void | iph struct ipv6hdr * | destopt struct ipv6_opt_hdr *

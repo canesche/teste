@@ -1,0 +1,2 @@
+struct TYPE_3__ | version int | es int | mpgl_caps int 
+function gl_format_feature_flags int | gl struct TYPE_3__ *

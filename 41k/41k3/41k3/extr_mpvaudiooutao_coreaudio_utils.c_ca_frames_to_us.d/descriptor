@@ -1,0 +1,2 @@
+struct ao | samplerate long 
+function ca_frames_to_us float | ao struct ao * | frames float

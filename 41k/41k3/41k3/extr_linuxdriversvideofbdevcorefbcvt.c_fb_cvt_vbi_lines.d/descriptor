@@ -1,0 +1,2 @@
+struct fb_cvt_data | flags int | hperiod int | vsync int 
+function fb_cvt_vbi_lines int | cvt struct fb_cvt_data *

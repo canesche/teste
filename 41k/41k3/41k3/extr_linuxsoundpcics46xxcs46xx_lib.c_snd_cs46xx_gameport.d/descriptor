@@ -1,0 +1,2 @@
+struct snd_cs46xx | dummy int 
+function snd_cs46xx_gameport int | chip struct snd_cs46xx *

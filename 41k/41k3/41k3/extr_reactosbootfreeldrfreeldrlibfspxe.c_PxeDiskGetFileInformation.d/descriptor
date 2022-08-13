@@ -1,0 +1,1 @@
+function PxeDiskGetFileInformation int | FileId int | Information int *

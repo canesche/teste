@@ -1,0 +1,1 @@
+function devlink_param_type_to_nla_type int | param_type enum devlink_param_type

@@ -1,0 +1,1 @@
+function set_fpu_control_word void | fpucw int

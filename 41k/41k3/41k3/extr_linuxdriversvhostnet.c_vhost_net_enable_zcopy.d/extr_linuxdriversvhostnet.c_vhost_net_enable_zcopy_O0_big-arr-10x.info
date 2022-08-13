@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversvhostnet.c_vhost_net_enable_zcopy.d/extr_linuxdriversvhostnet.c_vhost_net_enable_zcopy_O0::vhost_net_enable_zcopy(61)"
+  }
+]

@@ -1,0 +1,1 @@
+value(is_kallsyms) == 255, value(is_vdso) == 255, value(is_debug) == 255

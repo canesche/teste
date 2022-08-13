@@ -1,0 +1,3 @@
+struct TYPE_2__ | tv_sec int 
+struct inode | i_atime struct TYPE_2__ 
+function ext4_xattr_inode_get_hash int | ea_inode struct inode *

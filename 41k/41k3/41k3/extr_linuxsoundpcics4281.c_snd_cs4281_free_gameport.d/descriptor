@@ -1,0 +1,2 @@
+struct cs4281 | dummy int 
+function snd_cs4281_free_gameport void | chip struct cs4281 *

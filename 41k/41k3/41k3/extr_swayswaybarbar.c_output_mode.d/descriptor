@@ -1,0 +1,2 @@
+struct wl_output | dummy int 
+function output_mode void | data void * | wl_output struct wl_output * | flags int | width int | height int | refresh int

@@ -1,0 +1,3 @@
+struct fb_var_screeninfo | xres int | left_margin int | right_margin int | hsync_len int | yres int | upper_margin int | lower_margin int | vsync_len int 
+struct SiS_Private | dummy int 
+function SiS_Generic_ConvertCRData void | SiS_Pr struct SiS_Private * | crdata unsigned char * | xres int | yres int | var struct fb_var_screeninfo * | writeres int

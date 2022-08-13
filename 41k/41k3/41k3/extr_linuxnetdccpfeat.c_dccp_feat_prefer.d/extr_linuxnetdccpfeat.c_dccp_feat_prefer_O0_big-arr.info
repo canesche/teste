@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 3333,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetdccpfeat.c_dccp_feat_prefer.d/extr_linuxnetdccpfeat.c_dccp_feat_prefer_O0::dccp_feat_prefer(61)"
+  }
+]

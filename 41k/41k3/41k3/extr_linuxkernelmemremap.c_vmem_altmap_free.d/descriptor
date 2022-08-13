@@ -1,0 +1,2 @@
+struct vmem_altmap | alloc unsigned long 
+function vmem_altmap_free void | altmap struct vmem_altmap * | nr_pfns unsigned long

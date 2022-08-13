@@ -1,0 +1,1 @@
+function arccompact_dump_fields void | addr int | words int [2] | f int *

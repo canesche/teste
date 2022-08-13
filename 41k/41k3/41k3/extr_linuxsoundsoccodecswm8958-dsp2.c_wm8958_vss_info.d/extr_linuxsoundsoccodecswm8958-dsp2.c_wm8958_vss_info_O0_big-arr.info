@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundsoccodecswm8958-dsp2.c_wm8958_vss_info.d/extr_linuxsoundsoccodecswm8958-dsp2.c_wm8958_vss_info_O0::wm8958_vss_info(68)"
+  }
+]

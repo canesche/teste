@@ -1,0 +1,5 @@
+struct trace | base_time long | full_time int 
+struct perf_sample | time long 
+struct TYPE_2__ | sample_type int 
+struct perf_evsel | attr struct TYPE_2__ 
+function trace__set_base_time void | trace struct trace * | evsel struct perf_evsel * | sample struct perf_sample *

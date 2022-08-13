@@ -1,0 +1,2 @@
+struct TCP_Server_Info | maxBuf long 
+function cifs_need_neg int | server struct TCP_Server_Info *

@@ -1,0 +1,1 @@
+function xmlGcMemSetup int | freeFunc int * | mallocFunc int * | mallocAtomicFunc int * | reallocFunc int * | strdupFunc int *

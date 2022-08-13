@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_mpvvideooutwin_state.c_calc_monitor_aspect.d/extr_mpvvideooutwin_state.c_calc_monitor_aspect_O0::calc_monitor_aspect(62)"
+  }
+]

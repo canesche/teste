@@ -1,0 +1,2 @@
+struct aif | id unsigned int 
+function aif_init void | aif struct aif * | id unsigned int

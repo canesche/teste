@@ -1,0 +1,3 @@
+struct sctp_chunk | msg struct TYPE_2__ * 
+struct TYPE_2__ | send_failed int | send_error int 
+function sctp_chunk_fail void | chunk struct sctp_chunk * | error int

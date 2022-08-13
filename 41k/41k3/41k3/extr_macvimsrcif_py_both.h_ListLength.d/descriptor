@@ -1,0 +1,3 @@
+struct TYPE_5__ | list struct TYPE_4__ * 
+struct TYPE_4__ | lv_len long 
+function ListLength int | self struct TYPE_5__ *

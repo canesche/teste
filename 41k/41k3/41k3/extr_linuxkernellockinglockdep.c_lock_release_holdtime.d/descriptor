@@ -1,0 +1,2 @@
+struct held_lock | dummy int 
+function lock_release_holdtime void | hlock struct held_lock *

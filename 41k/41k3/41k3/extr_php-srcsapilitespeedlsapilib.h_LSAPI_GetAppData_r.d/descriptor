@@ -1,0 +1,2 @@
+struct TYPE_3__ | m_pAppData void * 
+function LSAPI_GetAppData_r void * | pReq struct TYPE_3__ *

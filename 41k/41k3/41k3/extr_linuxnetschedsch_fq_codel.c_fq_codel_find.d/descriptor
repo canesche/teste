@@ -1,0 +1,2 @@
+struct Qdisc | dummy int 
+function fq_codel_find unsigned long | sch struct Qdisc * | classid int

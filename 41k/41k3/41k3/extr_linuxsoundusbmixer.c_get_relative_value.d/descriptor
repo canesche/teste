@@ -1,0 +1,2 @@
+struct usb_mixer_elem_info | res int | min int | max int 
+function get_relative_value int | cval struct usb_mixer_elem_info * | val int

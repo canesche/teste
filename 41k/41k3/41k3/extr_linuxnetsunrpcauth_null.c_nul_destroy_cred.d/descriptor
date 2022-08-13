@@ -1,0 +1,2 @@
+struct rpc_cred | dummy int 
+function nul_destroy_cred void | cred struct rpc_cred *

@@ -1,0 +1,2 @@
+struct f2fs_gc_kthread | min_sleep_time unsigned int | no_gc_sleep_time unsigned int | max_sleep_time unsigned int 
+function decrease_sleep_time void | gc_th struct f2fs_gc_kthread * | wait unsigned int *

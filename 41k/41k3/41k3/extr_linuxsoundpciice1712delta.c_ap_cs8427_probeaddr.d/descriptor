@@ -1,0 +1,2 @@
+struct snd_i2c_bus | dummy int 
+function ap_cs8427_probeaddr int | bus struct snd_i2c_bus * | addr unsigned short

@@ -1,0 +1,2 @@
+struct datarec | dropped double 
+function calc_drop_pps double | r struct datarec * | p struct datarec * | period_ double

@@ -1,0 +1,2 @@
+struct gfs2_jdesc | jd_blocks unsigned int 
+function gfs2_replay_incr_blk void | jd struct gfs2_jdesc * | blk unsigned int *

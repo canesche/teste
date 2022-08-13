@@ -1,0 +1,2 @@
+struct TYPE_3__ | natts int | tdhasoid int 
+function chunk_index_columns_changed int | hypertable_natts int | hypertable_has_oid int | chunkdesc struct TYPE_3__ *

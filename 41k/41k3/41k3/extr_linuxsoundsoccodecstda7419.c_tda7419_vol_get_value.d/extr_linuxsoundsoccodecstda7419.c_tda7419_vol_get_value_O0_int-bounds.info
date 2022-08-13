@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundsoccodecstda7419.c_tda7419_vol_get_value.d/extr_linuxsoundsoccodecstda7419.c_tda7419_vol_get_value_O0::tda7419_vol_get_value(62)"
+  }
+]

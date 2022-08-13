@@ -1,0 +1,3 @@
+struct trace_array | ops struct TYPE_2__ * 
+struct TYPE_2__ | func int 
+function ftrace_reset_array_ops void | tr struct trace_array *

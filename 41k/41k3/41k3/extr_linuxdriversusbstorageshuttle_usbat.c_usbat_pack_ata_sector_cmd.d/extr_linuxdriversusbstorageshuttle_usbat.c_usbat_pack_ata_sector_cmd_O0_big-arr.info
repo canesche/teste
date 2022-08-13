@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversusbstorageshuttle_usbat.c_usbat_pack_ata_sector_cmd.d/extr_linuxdriversusbstorageshuttle_usbat.c_usbat_pack_ata_sector_cmd_O0::usbat_pack_ata_sector_cmd(63)"
+  }
+]

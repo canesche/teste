@@ -1,0 +1,2 @@
+struct TYPE_3__ | RDTR int | RIR int 
+function elm327_tx_hook int | to_send struct TYPE_3__ *

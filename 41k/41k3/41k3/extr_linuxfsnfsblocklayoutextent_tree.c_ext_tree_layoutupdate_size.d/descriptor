@@ -1,0 +1,2 @@
+struct pnfs_block_layout | bl_scsi_layout long 
+function ext_tree_layoutupdate_size unsigned long | bl struct pnfs_block_layout * | count unsigned long

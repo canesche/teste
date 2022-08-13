@@ -1,0 +1,2 @@
+struct sltg_tail | funcs_off int | vars_off int | impls_off int | funcs_bytes int | vars_bytes int | impls_bytes int | tdescalias_vt int | res16 int | cbAlignment int | res24 int | res26 int | res2a int | res2c int | res2e int | res30 int | type_bytes long | res32 long | cbSizeVft long | cbSizeInstance long | res1e long | simple_alias long | res1a long | res18 long | res06 long | cImplTypes long | cVars long | cFuncs long 
+function init_sltg_tail void | tail struct sltg_tail *

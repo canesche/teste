@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_nginxsrccorengx_parse.c_ngx_parse_time.d/extr_nginxsrccorengx_parse.c_ngx_parse_time_O0::ngx_parse_time(69)"
+  }
+]

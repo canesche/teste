@@ -1,0 +1,2 @@
+struct cptable | dummy int 
+function wine_cp_enum_table const union cptable * | index unsigned int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxtoolslibtraceeventevent-parse.c_tep_cmdline_pid.d/extr_linuxtoolslibtraceeventevent-parse.c_tep_cmdline_pid_O0::tep_cmdline_pid(63)"
+  }
+]

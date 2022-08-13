@@ -1,0 +1,2 @@
+struct irq_desc | dummy int 
+function irq_setup_affinity int | desc struct irq_desc *

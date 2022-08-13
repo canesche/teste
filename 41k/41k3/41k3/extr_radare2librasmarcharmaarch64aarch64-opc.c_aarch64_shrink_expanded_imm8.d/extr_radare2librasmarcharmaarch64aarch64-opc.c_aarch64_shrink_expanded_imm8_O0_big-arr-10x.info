@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_radare2librasmarcharmaarch64aarch64-opc.c_aarch64_shrink_expanded_imm8.d/extr_radare2librasmarcharmaarch64aarch64-opc.c_aarch64_shrink_expanded_imm8_O0::aarch64_shrink_expanded_imm8(63)"
+  }
+]

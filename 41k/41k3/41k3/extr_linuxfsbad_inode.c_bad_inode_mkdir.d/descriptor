@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct dentry | dummy int 
+function bad_inode_mkdir int | dir struct inode * | dentry struct dentry * | mode int

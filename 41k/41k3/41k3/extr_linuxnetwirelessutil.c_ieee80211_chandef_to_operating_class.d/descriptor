@@ -1,0 +1,3 @@
+struct cfg80211_chan_def | center_freq1 int | width int | chan struct TYPE_2__ * 
+struct TYPE_2__ | center_freq int 
+function ieee80211_chandef_to_operating_class int | chandef struct cfg80211_chan_def * | op_class int *

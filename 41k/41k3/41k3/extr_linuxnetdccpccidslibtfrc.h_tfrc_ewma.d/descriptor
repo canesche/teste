@@ -1,0 +1,1 @@
+function tfrc_ewma int | avg const int | newval const int | weight const int

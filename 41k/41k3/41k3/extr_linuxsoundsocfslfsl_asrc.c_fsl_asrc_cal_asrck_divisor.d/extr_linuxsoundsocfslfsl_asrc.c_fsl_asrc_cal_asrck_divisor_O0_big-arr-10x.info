@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundsocfslfsl_asrc.c_fsl_asrc_cal_asrck_divisor.d/extr_linuxsoundsocfslfsl_asrc.c_fsl_asrc_cal_asrck_divisor_O0::fsl_asrc_cal_asrck_divisor(63)"
+  }
+]

@@ -1,0 +1,2 @@
+struct page | dummy int 
+function v9fs_fscache_invalidate_page void | page struct page *

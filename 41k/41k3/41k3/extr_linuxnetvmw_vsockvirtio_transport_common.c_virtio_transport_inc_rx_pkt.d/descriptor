@@ -1,0 +1,3 @@
+struct virtio_vsock_sock | rx_bytes int 
+struct virtio_vsock_pkt | len long 
+function virtio_transport_inc_rx_pkt void | vvs struct virtio_vsock_sock * | pkt struct virtio_vsock_pkt *

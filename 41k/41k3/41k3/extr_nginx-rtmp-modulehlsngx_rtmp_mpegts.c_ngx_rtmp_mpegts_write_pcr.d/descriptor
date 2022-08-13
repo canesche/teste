@@ -1,0 +1,1 @@
+function ngx_rtmp_mpegts_write_pcr void ** | p void ** | pcr int

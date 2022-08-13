@@ -1,0 +1,1 @@
+function do_range_limit void | start int | end int | adj int | a int * | b int *

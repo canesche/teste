@@ -1,0 +1,3 @@
+struct TYPE_5__ | nBlockAlign int | nChannels int | wBitsPerSample int | nAvgBytesPerSec int | nSamplesPerSec int 
+struct TYPE_4__ | Format struct TYPE_5__ 
+function update_waveformat_datarate void | wformat struct TYPE_4__ *

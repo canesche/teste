@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_radare2librasmarchtms320c55x_plusins.c_get_ins_len.d/extr_radare2librasmarchtms320c55x_plusins.c_get_ins_len_O0::get_ins_len(61)"
+  }
+]

@@ -1,0 +1,2 @@
+struct smp_ltk | type int 
+function smp_ltk_is_sc int | key struct smp_ltk *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundpcirme9652hdspm.c_hdspm_round_frequency.d/extr_linuxsoundpcirme9652hdspm.c_hdspm_round_frequency_O0::hdspm_round_frequency(60)"
+  }
+]

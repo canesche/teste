@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 21,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversvideofbdevpxa168fb.c_determine_best_pix_fmt.d/extr_linuxdriversvideofbdevpxa168fb.c_determine_best_pix_fmt_O0::determine_best_pix_fmt(81)"
+  }
+]

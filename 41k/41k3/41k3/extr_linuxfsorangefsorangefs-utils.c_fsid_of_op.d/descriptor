@@ -1,0 +1,40 @@
+struct TYPE_66__ | fs_id int 
+struct TYPE_67__ | refn struct TYPE_66__ 
+struct TYPE_64__ | fs_id int 
+struct TYPE_65__ | refn struct TYPE_64__ 
+struct TYPE_62__ | fs_id int 
+struct TYPE_63__ | refn struct TYPE_62__ 
+struct TYPE_59__ | fs_id int 
+struct TYPE_61__ | refn struct TYPE_59__ 
+struct TYPE_57__ | fs_id int 
+struct TYPE_58__ | refn struct TYPE_57__ 
+struct TYPE_56__ | fs_id int 
+struct TYPE_54__ | fs_id int 
+struct TYPE_55__ | refn struct TYPE_54__ 
+struct TYPE_52__ | fs_id int 
+struct TYPE_53__ | refn struct TYPE_52__ 
+struct TYPE_51__ | fs_id int 
+struct TYPE_48__ | fs_id int 
+struct TYPE_50__ | old_parent_refn struct TYPE_48__ 
+struct TYPE_46__ | fs_id int 
+struct TYPE_47__ | parent_refn struct TYPE_46__ 
+struct TYPE_44__ | fs_id int 
+struct TYPE_45__ | refn struct TYPE_44__ 
+struct TYPE_42__ | fs_id int 
+struct TYPE_43__ | refn struct TYPE_42__ 
+struct TYPE_40__ | fs_id int 
+struct TYPE_41__ | parent_refn struct TYPE_40__ 
+struct TYPE_76__ | fs_id int 
+struct TYPE_39__ | parent_refn struct TYPE_76__ 
+struct TYPE_74__ | fs_id int 
+struct TYPE_75__ | refn struct TYPE_74__ 
+struct TYPE_72__ | fs_id int 
+struct TYPE_73__ | parent_refn struct TYPE_72__ 
+struct TYPE_70__ | fs_id int 
+struct TYPE_71__ | parent_refn struct TYPE_70__ 
+struct TYPE_49__ | fs_id int 
+struct TYPE_60__ | refn struct TYPE_49__ 
+struct TYPE_68__ | fsync struct TYPE_67__ | removexattr struct TYPE_65__ | listxattr struct TYPE_63__ | setxattr struct TYPE_61__ | getxattr struct TYPE_58__ | fs_umount struct TYPE_56__ | ra_cache_flush struct TYPE_55__ | truncate struct TYPE_53__ | statfs struct TYPE_51__ | rename struct TYPE_50__ | sym struct TYPE_47__ | setattr struct TYPE_45__ | readdir struct TYPE_43__ | mkdir struct TYPE_41__ | remove struct TYPE_39__ | getattr struct TYPE_75__ | create struct TYPE_73__ | lookup struct TYPE_71__ | io struct TYPE_60__ 
+struct TYPE_69__ | type int | req struct TYPE_68__ 
+struct orangefs_kernel_op_s | upcall struct TYPE_69__ 
+function fsid_of_op int | op struct orangefs_kernel_op_s *

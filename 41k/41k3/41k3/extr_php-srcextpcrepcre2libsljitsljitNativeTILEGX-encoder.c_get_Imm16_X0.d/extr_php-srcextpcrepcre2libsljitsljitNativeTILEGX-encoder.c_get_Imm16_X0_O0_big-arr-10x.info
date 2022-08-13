@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_php-srcextpcrepcre2libsljitsljitNativeTILEGX-encoder.c_get_Imm16_X0.d/extr_php-srcextpcrepcre2libsljitsljitNativeTILEGX-encoder.c_get_Imm16_X0_O0::get_Imm16_X0(62)"
+  }
+]

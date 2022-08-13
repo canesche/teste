@@ -1,0 +1,3 @@
+struct TYPE_2__ | nr_events int | weight int 
+struct hist_entry | stat struct TYPE_2__ 
+function he_weight int | he struct hist_entry *

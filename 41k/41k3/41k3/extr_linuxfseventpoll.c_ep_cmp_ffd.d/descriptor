@@ -1,0 +1,2 @@
+struct epoll_filefd | file long | fd int 
+function ep_cmp_ffd int | p1 struct epoll_filefd * | p2 struct epoll_filefd *

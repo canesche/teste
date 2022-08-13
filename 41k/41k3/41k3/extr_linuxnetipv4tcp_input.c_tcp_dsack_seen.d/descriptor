@@ -1,0 +1,4 @@
+struct TYPE_4__ | dsack_seen int 
+struct TYPE_3__ | sack_ok int 
+struct tcp_sock | dsack_dups int | rack struct TYPE_4__ | rx_opt struct TYPE_3__ 
+function tcp_dsack_seen void | tp struct tcp_sock *

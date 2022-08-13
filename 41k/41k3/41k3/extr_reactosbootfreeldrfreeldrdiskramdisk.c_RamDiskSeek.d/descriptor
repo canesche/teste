@@ -1,0 +1,2 @@
+struct TYPE_3__ | HighPart long | LowPart long 
+function RamDiskSeek int | FileId int | Position struct TYPE_3__ * | SeekMode long

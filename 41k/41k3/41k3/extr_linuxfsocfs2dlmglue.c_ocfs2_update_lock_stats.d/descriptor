@@ -1,0 +1,3 @@
+struct ocfs2_mask_waiter | dummy int 
+struct ocfs2_lock_res | dummy int 
+function ocfs2_update_lock_stats void | res struct ocfs2_lock_res * | level int | mw struct ocfs2_mask_waiter * | ret int

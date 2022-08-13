@@ -1,0 +1,1 @@
+function mktime64 int | year0 const unsigned int | mon0 const unsigned int | day const unsigned int | hour const unsigned int | min const unsigned int | sec const unsigned int

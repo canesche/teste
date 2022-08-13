@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetipv6icmp.c_icmpv6_mask_allow.d/extr_linuxnetipv6icmp.c_icmpv6_mask_allow_O0::icmpv6_mask_allow(62)"
+  }
+]

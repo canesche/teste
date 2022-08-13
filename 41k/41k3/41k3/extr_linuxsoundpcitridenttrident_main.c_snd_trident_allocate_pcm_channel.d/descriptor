@@ -1,0 +1,2 @@
+struct snd_trident | ChanPCMcnt long | ChanPCM long | ChanMap int * 
+function snd_trident_allocate_pcm_channel int | trident struct snd_trident *

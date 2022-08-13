@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 70002,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsjffs2nodelist.h_jffs2_raw_ref_to_ic.d/extr_linuxfsjffs2nodelist.h_jffs2_raw_ref_to_ic_O0::jffs2_raw_ref_to_ic(61)"
+  }
+]

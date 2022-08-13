@@ -1,0 +1,4 @@
+struct snd_pcm_substream | runtime struct TYPE_2__ * 
+struct azx_dev | dummy int 
+struct TYPE_2__ | private_data struct azx_dev * 
+function get_azx_dev struct azx_dev * | substream struct snd_pcm_substream *

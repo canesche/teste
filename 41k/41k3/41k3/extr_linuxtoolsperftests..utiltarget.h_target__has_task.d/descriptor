@@ -1,0 +1,2 @@
+struct target | uid_str long | pid long | tid long 
+function target__has_task int | target struct target *

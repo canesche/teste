@@ -1,0 +1,3 @@
+struct TYPE_2__ | fd int 
+struct perf_data | file struct TYPE_2__ 
+function perf_data__fd int | data struct perf_data *

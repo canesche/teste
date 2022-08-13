@@ -1,0 +1,2 @@
+struct net_device | features int 
+function __ethtool_get_flags int | dev struct net_device *

@@ -1,0 +1,4 @@
+struct grouping_ses | dummy int 
+struct TYPE_4__ | points_wanted int 
+struct TYPE_5__ | group int | internal struct TYPE_4__ 
+function window int | r struct TYPE_5__ * | g struct grouping_ses *

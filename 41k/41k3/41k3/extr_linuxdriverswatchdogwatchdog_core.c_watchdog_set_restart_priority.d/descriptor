@@ -1,0 +1,3 @@
+struct TYPE_2__ | priority int 
+struct watchdog_device | restart_nb struct TYPE_2__ 
+function watchdog_set_restart_priority void | wdd struct watchdog_device * | priority int

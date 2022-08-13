@@ -1,0 +1,1 @@
+function sapi_cli_server_discard_headers int | sapi_headers int *

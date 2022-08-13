@@ -1,0 +1,3 @@
+struct nfs_inode | fileid long 
+struct nfs_fattr | valid int | fileid long | mounted_on_fileid long 
+function nfs_fileid_valid int | nfsi struct nfs_inode * | fattr struct nfs_fattr *

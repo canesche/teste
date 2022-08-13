@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct afs_vnode | vfs_inode struct inode 
+function AFS_VNODE_TO_I struct inode * | vnode struct afs_vnode *

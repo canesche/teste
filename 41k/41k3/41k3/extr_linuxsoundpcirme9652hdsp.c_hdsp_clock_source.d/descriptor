@@ -1,0 +1,2 @@
+struct hdsp | control_register int | system_sample_rate int 
+function hdsp_clock_source int | hdsp struct hdsp *

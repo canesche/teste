@@ -1,0 +1,3 @@
+struct TYPE_5__ | error long | alloc long | content int | contentIO int | buffer struct TYPE_4__ * 
+struct TYPE_4__ | alloc long 
+function xmlBufSetAllocationScheme int | buf struct TYPE_5__ * | scheme long

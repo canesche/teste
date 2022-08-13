@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsamplesvfio-mdevmtty.c_mtty_get_irq_info.d/extr_linuxsamplesvfio-mdevmtty.c_mtty_get_irq_info_O0::mtty_get_irq_info(70)"
+  }
+]

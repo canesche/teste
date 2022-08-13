@@ -1,0 +1,3 @@
+struct TYPE_5__ | nb_section long | sections struct TYPE_4__ ** 
+struct TYPE_4__ | bits int 
+function r_bin_omf_get_bits int | obj struct TYPE_5__ *

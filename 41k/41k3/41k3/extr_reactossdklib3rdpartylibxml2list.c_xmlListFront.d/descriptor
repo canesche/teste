@@ -1,0 +1,3 @@
+struct TYPE_5__ | sentinel struct TYPE_4__ * 
+struct TYPE_4__ | next int * 
+function xmlListFront int * | l struct TYPE_5__ *

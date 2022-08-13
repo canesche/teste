@@ -1,0 +1,4 @@
+struct mdev_device | parent struct TYPE_2__ * 
+struct device | dummy int 
+struct TYPE_2__ | dev struct device * 
+function mdev_parent_dev struct device * | mdev struct mdev_device *

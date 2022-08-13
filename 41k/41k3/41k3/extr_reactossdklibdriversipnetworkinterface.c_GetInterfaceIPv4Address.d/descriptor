@@ -1,0 +1,10 @@
+struct TYPE_17__ | IPv4Address int 
+struct TYPE_18__ | Address struct TYPE_17__ 
+struct TYPE_15__ | IPv4Address int 
+struct TYPE_16__ | Address struct TYPE_15__ 
+struct TYPE_13__ | IPv4Address int 
+struct TYPE_14__ | Address struct TYPE_13__ 
+struct TYPE_11__ | IPv4Address int 
+struct TYPE_12__ | Address struct TYPE_11__ 
+struct TYPE_19__ | PointToPoint struct TYPE_18__ | Broadcast struct TYPE_16__ | Netmask struct TYPE_14__ | Unicast struct TYPE_12__ 
+function GetInterfaceIPv4Address int | Interface struct TYPE_19__ * | TargetType int | Address int *

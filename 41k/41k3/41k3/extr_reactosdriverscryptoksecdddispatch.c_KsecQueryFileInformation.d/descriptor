@@ -1,0 +1,4 @@
+struct TYPE_5__ | QuadPart long 
+struct TYPE_4__ | QuadPart long 
+struct TYPE_6__ | NumberOfLinks int | Directory void * | DeletePending void * | EndOfFile struct TYPE_5__ | AllocationSize struct TYPE_4__ 
+function KsecQueryFileInformation int | InfoBuffer long | FileInformationClass long | BufferLength int *

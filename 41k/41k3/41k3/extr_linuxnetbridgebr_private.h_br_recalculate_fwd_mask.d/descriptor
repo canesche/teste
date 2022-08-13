@@ -1,0 +1,2 @@
+struct net_bridge | dummy int 
+function br_recalculate_fwd_mask void | br struct net_bridge *

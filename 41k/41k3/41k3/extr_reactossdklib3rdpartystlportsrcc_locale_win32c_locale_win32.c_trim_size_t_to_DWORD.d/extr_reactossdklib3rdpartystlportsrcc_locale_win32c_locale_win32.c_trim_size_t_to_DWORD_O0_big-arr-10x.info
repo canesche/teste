@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactossdklib3rdpartystlportsrcc_locale_win32c_locale_win32.c_trim_size_t_to_DWORD.d/extr_reactossdklib3rdpartystlportsrcc_locale_win32c_locale_win32.c_trim_size_t_to_DWORD_O0::trim_size_t_to_DWORD(61)"
+  }
+]

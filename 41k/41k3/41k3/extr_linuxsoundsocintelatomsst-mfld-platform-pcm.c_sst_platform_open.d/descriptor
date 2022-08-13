@@ -1,0 +1,4 @@
+struct snd_pcm_substream | runtime struct snd_pcm_runtime * | pcm struct TYPE_2__ * 
+struct snd_pcm_runtime | hw int 
+struct TYPE_2__ | internal long 
+function sst_platform_open int | substream struct snd_pcm_substream *

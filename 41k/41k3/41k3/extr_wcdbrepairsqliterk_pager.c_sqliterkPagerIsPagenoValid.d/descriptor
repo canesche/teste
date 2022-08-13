@@ -1,0 +1,2 @@
+struct TYPE_3__ | pagecount int 
+function sqliterkPagerIsPagenoValid int | pager struct TYPE_3__ * | pageno int

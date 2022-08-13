@@ -1,0 +1,2 @@
+struct TYPE_3__ | old_flags int | flags int | is_modified long 
+function phar_decompress_filter char * | entry struct TYPE_3__ * | return_unknown int

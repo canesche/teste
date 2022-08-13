@@ -1,0 +1,1 @@
+function PxeDiskOpen int | Path int * | OpenMode int | FileId int *

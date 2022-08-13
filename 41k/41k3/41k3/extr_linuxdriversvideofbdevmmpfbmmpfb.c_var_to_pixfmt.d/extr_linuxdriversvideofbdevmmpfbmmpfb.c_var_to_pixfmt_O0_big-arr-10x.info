@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 14,
+    phantoms: 9,
+    exit: true,
+    halt: false,
+    edges: 27,
+    static: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversvideofbdevmmpfbmmpfb.c_var_to_pixfmt.d/extr_linuxdriversvideofbdevmmpfbmmpfb.c_var_to_pixfmt_O0::var_to_pixfmt(86)"
+  }
+]

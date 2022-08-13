@@ -1,0 +1,1 @@
+function hdmi_active_aspect_get_name const char * | active_aspect enum hdmi_active_aspect

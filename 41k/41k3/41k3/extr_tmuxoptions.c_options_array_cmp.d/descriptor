@@ -1,0 +1,2 @@
+struct options_array_item | index long 
+function options_array_cmp int | a1 struct options_array_item * | a2 struct options_array_item *

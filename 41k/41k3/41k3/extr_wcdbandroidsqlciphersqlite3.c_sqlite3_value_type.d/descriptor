@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags unsigned long 
+function sqlite3_value_type int | pVal struct TYPE_3__ *

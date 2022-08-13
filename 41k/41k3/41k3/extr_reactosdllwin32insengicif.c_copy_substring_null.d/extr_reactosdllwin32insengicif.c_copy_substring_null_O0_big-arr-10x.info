@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 279,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdllwin32insengicif.c_copy_substring_null.d/extr_reactosdllwin32insengicif.c_copy_substring_null_O0::copy_substring_null(63)"
+  }
+]

@@ -1,0 +1,4 @@
+struct grid_cell | fg int | bg int 
+struct TYPE_2__ | cell struct grid_cell 
+struct input_ctx | cell struct TYPE_2__ 
+function input_csi_dispatch_sgr_256_do int | ictx struct input_ctx * | fgbg int | c int

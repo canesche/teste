@@ -1,0 +1,2 @@
+struct sk_buff | dummy int 
+function digital_skb_check_crc_none int | skb struct sk_buff *

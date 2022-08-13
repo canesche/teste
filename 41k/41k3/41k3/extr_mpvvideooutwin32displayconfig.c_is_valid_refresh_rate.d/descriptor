@@ -1,0 +1,2 @@
+struct TYPE_3__ | Denominator int | Numerator int 
+function is_valid_refresh_rate int | rr struct TYPE_3__

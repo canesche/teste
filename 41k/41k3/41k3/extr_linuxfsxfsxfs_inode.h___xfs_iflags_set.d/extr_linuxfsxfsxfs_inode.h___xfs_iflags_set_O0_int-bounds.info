@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsxfsxfs_inode.h___xfs_iflags_set.d/extr_linuxfsxfsxfs_inode.h___xfs_iflags_set_O0::__xfs_iflags_set(64)"
+  }
+]

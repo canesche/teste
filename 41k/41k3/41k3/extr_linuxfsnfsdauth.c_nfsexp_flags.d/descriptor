@@ -1,0 +1,5 @@
+struct TYPE_2__ | cr_flavor long 
+struct svc_rqst | rq_cred struct TYPE_2__ 
+struct svc_export | ex_nflavors int | ex_flags int | ex_flavors struct exp_flavor_info * 
+struct exp_flavor_info | pseudoflavor long | flags int 
+function nfsexp_flags int | rqstp struct svc_rqst * | exp struct svc_export *

@@ -1,0 +1,2 @@
+struct ubifs_zbranch | lnum int | offs int 
+function matches_position int | zbr struct ubifs_zbranch * | lnum int | offs int

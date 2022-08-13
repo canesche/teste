@@ -1,0 +1,3 @@
+struct xfs_inode | i_cowfp struct TYPE_2__ * 
+struct TYPE_2__ | if_bytes long 
+function xfs_inode_has_cow_data int | ip struct xfs_inode *

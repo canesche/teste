@@ -1,0 +1,3 @@
+struct TYPE_4__ | p_aval int 
+struct TYPE_5__ | p_type long | p_vu struct TYPE_4__ 
+function AMFProp_GetString void | prop struct TYPE_5__ * | str int *

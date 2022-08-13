@@ -1,0 +1,2 @@
+struct scsiback_tport | tport_proto_id int 
+function scsiback_dump_proto_id char * | tport struct scsiback_tport *

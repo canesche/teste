@@ -1,0 +1,4 @@
+struct key | dummy int 
+struct file | private_data struct afs_file * 
+struct afs_file | key struct key * 
+function afs_file_key struct key * | file struct file *

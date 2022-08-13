@@ -1,0 +1,2 @@
+struct fsnotify_group | priority long 
+function fsnotify_compare_groups int | a struct fsnotify_group * | b struct fsnotify_group *

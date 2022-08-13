@@ -1,0 +1,2 @@
+struct parse_events_term | type_term long 
+function parse_events__is_name_term int | term struct parse_events_term *

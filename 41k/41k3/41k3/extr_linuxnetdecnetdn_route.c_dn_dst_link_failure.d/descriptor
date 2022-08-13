@@ -1,0 +1,2 @@
+struct sk_buff | dummy int 
+function dn_dst_link_failure void | skb struct sk_buff *

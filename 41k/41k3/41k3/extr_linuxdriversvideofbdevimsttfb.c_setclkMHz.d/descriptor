@@ -1,0 +1,3 @@
+struct TYPE_2__ | pclk_m int | pclk_n int | pclk_p long 
+struct imstt_par | init struct TYPE_2__ 
+function setclkMHz void | par struct imstt_par * | MHz int

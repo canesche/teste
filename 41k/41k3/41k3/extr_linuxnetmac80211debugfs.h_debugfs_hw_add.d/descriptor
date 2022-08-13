@@ -1,0 +1,2 @@
+struct ieee80211_local | dummy int 
+function debugfs_hw_add void | local struct ieee80211_local *

@@ -1,0 +1,2 @@
+struct ocfs2_super | local_alloc_state long 
+function ocfs2_la_state_enabled int | osb struct ocfs2_super *

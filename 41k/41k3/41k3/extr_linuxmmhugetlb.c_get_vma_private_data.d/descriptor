@@ -1,0 +1,2 @@
+struct vm_area_struct | vm_private_data long 
+function get_vma_private_data unsigned long | vma struct vm_area_struct *

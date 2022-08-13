@@ -1,0 +1,3 @@
+struct TYPE_5__ | f unsigned int | accel unsigned int | zParams int | splitPoint int | nbThreads int | steps int | d int | k int 
+struct TYPE_6__ | zParams int | splitPoint int | nbThreads int | steps int | d int | k int 
+function FASTCOVER_convertToFastCoverParams void | coverParams struct TYPE_6__ | fastCoverParams struct TYPE_5__ * | f unsigned int | accel unsigned int

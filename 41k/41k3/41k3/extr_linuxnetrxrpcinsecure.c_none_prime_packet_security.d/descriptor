@@ -1,0 +1,2 @@
+struct rxrpc_connection | dummy int 
+function none_prime_packet_security int | conn struct rxrpc_connection *

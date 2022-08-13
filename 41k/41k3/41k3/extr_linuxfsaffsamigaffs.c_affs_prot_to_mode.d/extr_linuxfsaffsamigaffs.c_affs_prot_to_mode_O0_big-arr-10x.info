@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 13,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 23,
+    static: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsaffsamigaffs.c_affs_prot_to_mode.d/extr_linuxfsaffsamigaffs.c_affs_prot_to_mode_O0::affs_prot_to_mode(72)"
+  }
+]

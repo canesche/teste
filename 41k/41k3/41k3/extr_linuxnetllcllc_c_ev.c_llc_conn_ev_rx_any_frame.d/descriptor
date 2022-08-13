@@ -1,0 +1,3 @@
+struct sock | dummy int 
+struct sk_buff | dummy int 
+function llc_conn_ev_rx_any_frame int | sk struct sock * | skb struct sk_buff *

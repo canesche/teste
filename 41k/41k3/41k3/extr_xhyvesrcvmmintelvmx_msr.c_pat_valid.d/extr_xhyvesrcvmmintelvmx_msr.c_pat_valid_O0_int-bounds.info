@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_xhyvesrcvmmintelvmx_msr.c_pat_valid.d/extr_xhyvesrcvmmintelvmx_msr.c_pat_valid_O0::pat_valid(62)"
+  }
+]

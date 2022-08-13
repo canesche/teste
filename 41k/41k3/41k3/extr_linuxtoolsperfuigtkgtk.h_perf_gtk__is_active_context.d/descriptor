@@ -1,0 +1,2 @@
+struct perf_gtk_context | main_window long 
+function perf_gtk__is_active_context int | ctx struct perf_gtk_context *

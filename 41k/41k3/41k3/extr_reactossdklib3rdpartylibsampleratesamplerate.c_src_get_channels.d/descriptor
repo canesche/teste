@@ -1,0 +1,2 @@
+struct TYPE_2__ | channels int | const_process int * | vari_process int * 
+function src_get_channels int | state int *

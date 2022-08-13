@@ -1,0 +1,2 @@
+struct sk_msg_buff | sk_redir long 
+function bpf_map_msg_verdict int | _rc int | md struct sk_msg_buff *

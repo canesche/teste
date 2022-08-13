@@ -1,0 +1,3 @@
+struct TYPE_5__ | ip int | request struct TYPE_4__ * 
+struct TYPE_4__ | uri_changed long 
+function ngx_http_script_break_code void | e struct TYPE_5__ *

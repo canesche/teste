@@ -1,0 +1,2 @@
+struct ocfs2_extent_map_item | ei_flags int | ei_clusters int | ei_phys int | ei_cpos int 
+function ocfs2_copy_emi_fields void | dest struct ocfs2_extent_map_item * | src struct ocfs2_extent_map_item *

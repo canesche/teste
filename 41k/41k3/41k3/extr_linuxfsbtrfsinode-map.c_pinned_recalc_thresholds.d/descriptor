@@ -1,0 +1,2 @@
+struct btrfs_free_space_ctl | dummy int 
+function pinned_recalc_thresholds void | ctl struct btrfs_free_space_ctl *

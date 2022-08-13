@@ -1,0 +1,2 @@
+struct fb_info | dummy int 
+function i810_probe_i2c_connector int | info struct fb_info * | out_edid int ** | conn int

@@ -1,0 +1,2 @@
+struct reiserfs_journal_list | j_refcount int 
+function get_journal_list void | jl struct reiserfs_journal_list *

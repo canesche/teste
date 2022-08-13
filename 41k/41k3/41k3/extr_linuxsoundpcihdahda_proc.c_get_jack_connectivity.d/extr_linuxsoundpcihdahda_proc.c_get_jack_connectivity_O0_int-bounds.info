@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundpcihdahda_proc.c_get_jack_connectivity.d/extr_linuxsoundpcihdahda_proc.c_get_jack_connectivity_O0::get_jack_connectivity(62)"
+  }
+]

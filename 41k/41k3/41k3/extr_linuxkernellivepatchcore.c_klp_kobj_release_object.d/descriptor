@@ -1,0 +1,2 @@
+struct kobject | dummy int 
+function klp_kobj_release_object void | kobj struct kobject *

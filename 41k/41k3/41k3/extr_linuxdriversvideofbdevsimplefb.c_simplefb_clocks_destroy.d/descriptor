@@ -1,0 +1,2 @@
+struct simplefb_par | dummy int 
+function simplefb_clocks_destroy void | par struct simplefb_par *

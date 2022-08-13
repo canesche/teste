@@ -1,0 +1,2 @@
+struct l2cap_chan | dummy int 
+function l2cap_resegment int | chan struct l2cap_chan *

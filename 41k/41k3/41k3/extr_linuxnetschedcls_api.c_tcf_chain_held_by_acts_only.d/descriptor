@@ -1,0 +1,2 @@
+struct tcf_chain | refcnt long | action_refcnt long 
+function tcf_chain_held_by_acts_only int | chain struct tcf_chain *

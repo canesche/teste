@@ -1,0 +1,2 @@
+struct MPContext | cache_buffer int | demuxer long 
+function get_cache_buffering_percentage int | mpctx struct MPContext *

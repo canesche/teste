@@ -1,0 +1,2 @@
+struct kern_ipc_perm | deleted int 
+function ipc_valid_object int | perm struct kern_ipc_perm *

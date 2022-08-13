@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function net_rx_queue_update_kobjects int | dev struct net_device * | old_num int | new_num int

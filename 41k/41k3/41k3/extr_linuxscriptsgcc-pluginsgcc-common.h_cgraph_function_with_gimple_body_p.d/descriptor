@@ -1,0 +1,3 @@
+struct TYPE_2__ | thunk_p int 
+struct cgraph_node | alias int | thunk struct TYPE_2__ | analyzed long 
+function cgraph_function_with_gimple_body_p int | node struct cgraph_node *

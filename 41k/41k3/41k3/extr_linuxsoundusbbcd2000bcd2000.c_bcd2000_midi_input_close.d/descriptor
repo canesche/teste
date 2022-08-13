@@ -1,0 +1,2 @@
+struct snd_rawmidi_substream | dummy int 
+function bcd2000_midi_input_close int | substream struct snd_rawmidi_substream *

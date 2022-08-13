@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function bnep_net_set_mc_list void | dev struct net_device *

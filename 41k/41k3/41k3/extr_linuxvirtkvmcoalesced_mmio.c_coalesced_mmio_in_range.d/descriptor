@@ -1,0 +1,3 @@
+struct TYPE_2__ | addr long | size long 
+struct kvm_coalesced_mmio_dev | zone struct TYPE_2__ 
+function coalesced_mmio_in_range int | dev struct kvm_coalesced_mmio_dev * | addr long | len int

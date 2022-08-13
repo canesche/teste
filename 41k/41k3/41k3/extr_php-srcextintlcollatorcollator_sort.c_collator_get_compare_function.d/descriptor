@@ -1,0 +1,1 @@
+function collator_get_compare_function int | sort_flags const int

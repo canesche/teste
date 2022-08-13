@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_tenginesrcstreamngx_stream_variables.c_ngx_stream_variable_remote_addr.d/extr_tenginesrcstreamngx_stream_variables.c_ngx_stream_variable_remote_addr_O0::ngx_stream_variable_remote_addr(74)"
+  }
+]

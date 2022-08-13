@@ -1,0 +1,2 @@
+struct vc_data | dummy int 
+function dummycon_scroll int | vc struct vc_data * | top unsigned int | bottom unsigned int | dir enum con_scroll | lines unsigned int

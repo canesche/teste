@@ -1,0 +1,3 @@
+struct TYPE_4__ | num unsigned long 
+struct TYPE_5__ | objects struct TYPE_4__ 
+function obs_data_array_count unsigned long | array struct TYPE_5__ *

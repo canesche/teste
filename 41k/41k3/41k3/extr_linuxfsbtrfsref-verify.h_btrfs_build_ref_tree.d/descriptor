@@ -1,0 +1,2 @@
+struct btrfs_fs_info | dummy int 
+function btrfs_build_ref_tree int | fs_info struct btrfs_fs_info *

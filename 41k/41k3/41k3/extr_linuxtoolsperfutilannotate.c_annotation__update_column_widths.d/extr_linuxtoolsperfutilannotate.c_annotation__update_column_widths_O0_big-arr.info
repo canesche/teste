@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxtoolsperfutilannotate.c_annotation__update_column_widths.d/extr_linuxtoolsperfutilannotate.c_annotation__update_column_widths_O0::annotation__update_column_widths(65)"
+  }
+]

@@ -1,0 +1,2 @@
+struct rt_rq | dummy int 
+function inc_rt_prio_smp void | rt_rq struct rt_rq * | prio int | prev_prio int

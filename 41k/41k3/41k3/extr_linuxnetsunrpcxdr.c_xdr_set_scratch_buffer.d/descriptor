@@ -1,0 +1,3 @@
+struct TYPE_2__ | iov_len unsigned long | iov_base void * 
+struct xdr_stream | scratch struct TYPE_2__ 
+function xdr_set_scratch_buffer void | xdr struct xdr_stream * | buf void * | buflen unsigned long

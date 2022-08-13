@@ -1,0 +1,3 @@
+struct TYPE_5__ | addr long | proc long 
+struct TYPE_6__ | next struct TYPE_6__ * 
+function freepage void | PagePtr struct TYPE_5__ *

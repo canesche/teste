@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 90,
+    phantoms: 89,
+    exit: true,
+    halt: false,
+    edges: 180,
+    static: {
+      instructions: 364,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 364,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_openpilotselfdrivevisiondclutil.c_cl_get_error_string.d/extr_openpilotselfdrivevisiondclutil.c_cl_get_error_string_O0::cl_get_error_string(59)"
+  }
+]

@@ -1,0 +1,5 @@
+struct inode | dummy int 
+struct file | f_mapping struct TYPE_2__ * 
+struct fb_info | dummy int 
+struct TYPE_2__ | a_ops int * 
+function fb_deferred_io_open void | info struct fb_info * | inode struct inode * | file struct file *

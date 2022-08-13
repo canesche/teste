@@ -1,0 +1,2 @@
+struct TYPE_4__ | min int | max int 
+function geohashGetCoordRange void | long_range struct TYPE_4__ * | lat_range struct TYPE_4__ *

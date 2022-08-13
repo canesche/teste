@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function nfs_fscache_clear_inode void | inode struct inode *

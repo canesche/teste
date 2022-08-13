@@ -1,0 +1,2 @@
+struct TYPE_4__ | cl_boot long | cl_id long 
+function same_clid int | cl1 struct TYPE_4__ * | cl2 struct TYPE_4__ *

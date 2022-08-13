@@ -1,0 +1,2 @@
+struct tracer_stat | dummy int 
+function annotated_branch_stat_start void * | trace struct tracer_stat *

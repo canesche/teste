@@ -1,0 +1,2 @@
+struct sched_dl_entity | runtime long 
+function dl_runtime_exceeded int | dl_se struct sched_dl_entity *

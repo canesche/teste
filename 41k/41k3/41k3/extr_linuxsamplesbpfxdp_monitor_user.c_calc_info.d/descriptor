@@ -1,0 +1,2 @@
+struct datarec | info double 
+function calc_info double | r struct datarec * | p struct datarec * | period double

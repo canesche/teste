@@ -1,0 +1,2 @@
+struct xfs_owner_info | oi_flags int | oi_offset int | oi_owner int 
+function xfs_owner_info_unpack void | oinfo struct xfs_owner_info * | owner int * | offset int * | flags unsigned int *

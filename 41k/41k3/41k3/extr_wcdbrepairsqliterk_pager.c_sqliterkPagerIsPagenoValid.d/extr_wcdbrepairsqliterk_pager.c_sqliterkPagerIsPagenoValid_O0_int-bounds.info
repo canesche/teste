@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_wcdbrepairsqliterk_pager.c_sqliterkPagerIsPagenoValid.d/extr_wcdbrepairsqliterk_pager.c_sqliterkPagerIsPagenoValid_O0::sqliterkPagerIsPagenoValid(65)"
+  }
+]

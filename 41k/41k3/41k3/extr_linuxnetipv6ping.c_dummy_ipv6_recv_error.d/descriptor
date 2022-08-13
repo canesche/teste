@@ -1,0 +1,3 @@
+struct sock | dummy int 
+struct msghdr | dummy int 
+function dummy_ipv6_recv_error int | sk struct sock * | msg struct msghdr * | len int | addr_len int *

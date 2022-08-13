@@ -1,0 +1,2 @@
+struct gred_sched | red_flags int 
+function gred_use_ecn int | t struct gred_sched *

@@ -1,0 +1,2 @@
+struct hist_entry | socket long 
+function sort__socket_cmp long | left struct hist_entry * | right struct hist_entry *

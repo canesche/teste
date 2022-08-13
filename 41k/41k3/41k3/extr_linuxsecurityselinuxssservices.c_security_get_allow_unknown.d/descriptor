@@ -1,0 +1,4 @@
+struct selinux_state | ss struct TYPE_4__ * 
+struct TYPE_3__ | allow_unknown int 
+struct TYPE_4__ | policydb struct TYPE_3__ 
+function security_get_allow_unknown int | state struct selinux_state *

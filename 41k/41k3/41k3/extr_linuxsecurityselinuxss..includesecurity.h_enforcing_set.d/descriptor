@@ -1,0 +1,2 @@
+struct selinux_state | dummy int 
+function enforcing_set void | state struct selinux_state * | value int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_rufussrcext2fsext_attr.c_posix_acl_xattr_count.d/extr_rufussrcext2fsext_attr.c_posix_acl_xattr_count_O0::posix_acl_xattr_count(63)"
+  }
+]

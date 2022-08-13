@@ -1,0 +1,2 @@
+struct ensoniq | dummy int 
+function snd_ensoniq_create_gameport int | ensoniq struct ensoniq * | port long

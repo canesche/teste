@@ -1,0 +1,2 @@
+struct dlm_ctxt | dummy int 
+function dlm_debug_init int | dlm struct dlm_ctxt *

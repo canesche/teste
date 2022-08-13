@@ -1,0 +1,2 @@
+struct nfsd4_compoundres | dummy int 
+function nfsd4_encode_noop int | resp struct nfsd4_compoundres * | nfserr int | p void *

@@ -1,0 +1,2 @@
+struct tp_field | offset int | integer int 
+function __tp_field__init_uint int | field struct tp_field * | size int | offset int | needs_swap int

@@ -1,0 +1,6 @@
+struct tracefs_mount_opts | gid int | uid int | mode int 
+struct tracefs_fs_info | mount_opts struct tracefs_mount_opts 
+struct super_block | s_root struct TYPE_2__ * | s_fs_info struct tracefs_fs_info * 
+struct inode | i_gid int | i_uid int | i_mode int 
+struct TYPE_2__ | d_inode struct inode * 
+function tracefs_apply_options int | sb struct super_block *

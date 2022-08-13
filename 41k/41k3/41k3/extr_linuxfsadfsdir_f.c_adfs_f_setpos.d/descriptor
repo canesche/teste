@@ -1,0 +1,2 @@
+struct adfs_dir | pos int 
+function adfs_f_setpos int | dir struct adfs_dir * | fpos unsigned int

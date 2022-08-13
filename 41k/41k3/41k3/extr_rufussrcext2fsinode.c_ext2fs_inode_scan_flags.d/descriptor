@@ -1,0 +1,2 @@
+struct TYPE_3__ | magic long | scan_flags int 
+function ext2fs_inode_scan_flags int | scan struct TYPE_3__ * | set_flags int | clear_flags int

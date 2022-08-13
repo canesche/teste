@@ -1,0 +1,2 @@
+struct dlm_lkb | lkb_grmode long | lkb_rqmode long 
+function middle_conversion int | lkb struct dlm_lkb *

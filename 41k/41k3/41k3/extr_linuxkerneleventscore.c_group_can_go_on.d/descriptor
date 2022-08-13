@@ -1,0 +1,4 @@
+struct TYPE_2__ | exclusive long 
+struct perf_event | group_caps int | attr struct TYPE_2__ 
+struct perf_cpu_context | active_oncpu long | exclusive long 
+function group_can_go_on int | event struct perf_event * | cpuctx struct perf_cpu_context * | can_add_hw int

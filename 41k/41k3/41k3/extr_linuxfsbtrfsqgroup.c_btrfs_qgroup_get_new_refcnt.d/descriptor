@@ -1,0 +1,2 @@
+struct btrfs_qgroup | new_refcnt long 
+function btrfs_qgroup_get_new_refcnt long | qg struct btrfs_qgroup * | seq long

@@ -1,0 +1,2 @@
+struct wl_touch | dummy int 
+function wl_touch_shape void | data void * | wl_touch struct wl_touch * | id int | major int | minor int

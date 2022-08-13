@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 49,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 108,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_numpynumpycoresrcnpymathhalffloat.c_npy_halfbits_to_floatbits.d/extr_numpynumpycoresrcnpymathhalffloat.c_npy_halfbits_to_floatbits_O0::npy_halfbits_to_floatbits(62)"
+  }
+]

@@ -1,0 +1,2 @@
+struct dirty_throttle_control | dummy int 
+function mdtc_valid int | dtc struct dirty_throttle_control *

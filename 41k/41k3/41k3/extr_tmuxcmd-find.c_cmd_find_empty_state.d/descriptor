@@ -1,0 +1,2 @@
+struct cmd_find_state | wp int * | w int * | wl int * | s int * 
+function cmd_find_empty_state int | fs struct cmd_find_state *

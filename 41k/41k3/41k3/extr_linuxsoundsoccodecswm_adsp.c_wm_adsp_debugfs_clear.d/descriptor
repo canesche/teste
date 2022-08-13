@@ -1,0 +1,2 @@
+struct wm_adsp | dummy int 
+function wm_adsp_debugfs_clear void | dsp struct wm_adsp *

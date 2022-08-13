@@ -1,0 +1,4 @@
+struct snd_soc_dapm_widget | dummy int 
+struct skl_module_cfg | dummy int 
+struct skl_debug | dummy int 
+function skl_debug_init_module void | d struct skl_debug * | w struct snd_soc_dapm_widget * | mconfig struct skl_module_cfg *

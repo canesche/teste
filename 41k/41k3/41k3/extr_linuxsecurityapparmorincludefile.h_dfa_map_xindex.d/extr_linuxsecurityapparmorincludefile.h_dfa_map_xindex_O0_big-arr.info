@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsecurityapparmorincludefile.h_dfa_map_xindex.d/extr_linuxsecurityapparmorincludefile.h_dfa_map_xindex_O0::dfa_map_xindex(67)"
+  }
+]

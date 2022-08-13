@@ -1,0 +1,3 @@
+struct wb_domain | dummy int 
+struct dirty_throttle_control | dummy int 
+function dtc_dom struct wb_domain * | dtc struct dirty_throttle_control *

@@ -1,0 +1,4 @@
+struct TYPE_4__ | enabled int 
+struct TYPE_3__ | enabled long 
+struct pci_devinst | pi_msi struct TYPE_4__ | pi_msix struct TYPE_3__ 
+function pci_msix_enabled int | pi struct pci_devinst *

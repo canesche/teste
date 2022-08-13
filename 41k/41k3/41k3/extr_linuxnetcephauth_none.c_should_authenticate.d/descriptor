@@ -1,0 +1,3 @@
+struct ceph_auth_none_info | starting int 
+struct ceph_auth_client | private struct ceph_auth_none_info * 
+function should_authenticate int | ac struct ceph_auth_client *

@@ -1,0 +1,3 @@
+struct ocfs2_reservation_map | m_osb struct TYPE_2__ * 
+struct TYPE_2__ | osb_resv_level long 
+function ocfs2_resmap_disabled int | resmap struct ocfs2_reservation_map *

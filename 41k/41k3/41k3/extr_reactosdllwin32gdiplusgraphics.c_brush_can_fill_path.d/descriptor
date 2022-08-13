@@ -1,0 +1,4 @@
+struct TYPE_7__ | bt int 
+struct TYPE_6__ | forecol int | backcol int 
+struct TYPE_5__ | color int 
+function brush_can_fill_path int | brush struct TYPE_7__ * | is_fill int

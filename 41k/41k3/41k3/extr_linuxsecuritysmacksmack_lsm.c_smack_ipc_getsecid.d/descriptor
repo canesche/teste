@@ -1,0 +1,3 @@
+struct smack_known | smk_secid int 
+struct kern_ipc_perm | security struct smack_known * 
+function smack_ipc_getsecid void | ipp struct kern_ipc_perm * | secid int *

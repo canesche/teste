@@ -1,0 +1,2 @@
+struct tep_handle | file_bigendian int 
+function tep_set_file_bigendian void | pevent struct tep_handle * | endian int

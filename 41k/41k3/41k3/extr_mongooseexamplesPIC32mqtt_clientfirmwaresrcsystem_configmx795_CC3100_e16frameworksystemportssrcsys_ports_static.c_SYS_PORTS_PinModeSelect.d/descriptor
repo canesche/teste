@@ -1,0 +1,1 @@
+function SYS_PORTS_PinModeSelect void | index int | pin int | mode int

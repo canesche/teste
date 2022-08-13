@@ -1,0 +1,3 @@
+struct TYPE_4__ | coreRegisters struct TYPE_3__ * 
+struct TYPE_3__ | rw int 
+function arcExtMap_coreReadWrite enum ExtReadWrite | regnum int

@@ -1,0 +1,2 @@
+struct fb_info | dummy int 
+function vmlfb_release int | info struct fb_info * | user int

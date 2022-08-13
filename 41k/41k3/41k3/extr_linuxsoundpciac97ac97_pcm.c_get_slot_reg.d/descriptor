@@ -1,0 +1,3 @@
+struct ac97_pcm | stream long | r struct TYPE_2__ * | spdif long 
+struct TYPE_2__ | rate_table unsigned long * 
+function get_slot_reg unsigned char | pcm struct ac97_pcm * | cidx unsigned short | slot unsigned short | dbl int

@@ -1,0 +1,2 @@
+struct fb_info | pseudo_palette long 
+function ps3fb_setcolreg int | regno unsigned int | red unsigned int | green unsigned int | blue unsigned int | transp unsigned int | info struct fb_info *

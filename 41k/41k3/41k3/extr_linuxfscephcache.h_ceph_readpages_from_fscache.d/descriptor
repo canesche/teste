@@ -1,0 +1,4 @@
+struct list_head | dummy int 
+struct inode | dummy int 
+struct address_space | dummy int 
+function ceph_readpages_from_fscache int | inode struct inode * | mapping struct address_space * | pages struct list_head * | nr_pages unsigned int *

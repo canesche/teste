@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxkernelscheddebug.c_proc_sched_set_task.d/extr_linuxkernelscheddebug.c_proc_sched_set_task_O0::proc_sched_set_task(61)"
+  }
+]

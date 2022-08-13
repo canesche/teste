@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetlapblapb_subr.c_lapb_validate_nr.d/extr_linuxnetlapblapb_subr.c_lapb_validate_nr_O0::lapb_validate_nr(64)"
+  }
+]

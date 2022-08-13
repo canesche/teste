@@ -1,0 +1,2 @@
+struct TYPE_3__ | buf long | avail long | used long 
+function adns__vbuf_init void | vb struct TYPE_3__ *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 229,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetopenvswitchflow_netlink.c_validate_masked.d/extr_linuxnetopenvswitchflow_netlink.c_validate_masked_O0::validate_masked(61)"
+  }
+]

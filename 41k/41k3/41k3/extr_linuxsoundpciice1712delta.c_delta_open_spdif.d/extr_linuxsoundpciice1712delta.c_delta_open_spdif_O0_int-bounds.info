@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundpciice1712delta.c_delta_open_spdif.d/extr_linuxsoundpciice1712delta.c_delta_open_spdif_O0::delta_open_spdif(64)"
+  }
+]

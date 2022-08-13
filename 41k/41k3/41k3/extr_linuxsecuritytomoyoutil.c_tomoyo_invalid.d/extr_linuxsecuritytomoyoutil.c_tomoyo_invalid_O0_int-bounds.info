@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsecuritytomoyoutil.c_tomoyo_invalid.d/extr_linuxsecuritytomoyoutil.c_tomoyo_invalid_O0::tomoyo_invalid(60)"
+  }
+]

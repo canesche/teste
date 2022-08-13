@@ -1,0 +1,2 @@
+struct pm_qos_request | pm_qos_class long 
+function pm_qos_request_active int | req struct pm_qos_request *

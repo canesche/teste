@@ -1,0 +1,2 @@
+struct TYPE_3__ | key unsigned long * | pos int 
+function init_genrand void | self struct TYPE_3__ * | s unsigned long

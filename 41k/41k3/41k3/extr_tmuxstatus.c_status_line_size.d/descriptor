@@ -1,0 +1,3 @@
+struct session | statuslines int 
+struct client | flags int | session struct session * 
+function status_line_size int | c struct client *

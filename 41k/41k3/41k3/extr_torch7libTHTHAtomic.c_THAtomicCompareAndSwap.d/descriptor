@@ -1,0 +1,1 @@
+function THAtomicCompareAndSwap int | a volatile int * | oldvalue int | newvalue int

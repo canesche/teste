@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_php-srcextstandardhtml.c_php_utf32_utf8.d/extr_php-srcextstandardhtml.c_php_utf32_utf8_O0::php_utf32_utf8(60)"
+  }
+]

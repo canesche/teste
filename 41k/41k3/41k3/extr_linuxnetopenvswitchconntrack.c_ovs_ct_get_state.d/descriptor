@@ -1,0 +1,1 @@
+function ovs_ct_get_state int | ctinfo enum ip_conntrack_info

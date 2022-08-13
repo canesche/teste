@@ -1,0 +1,2 @@
+struct lavfi | dummy int 
+function dump_graph void | c struct lavfi *

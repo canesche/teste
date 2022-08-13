@@ -1,0 +1,3 @@
+struct ssp_device | phys_base long 
+struct snd_dmaengine_dai_dma_data | maxburst int | addr long | addr_width int 
+function pxa_ssp_set_dma_params void | ssp struct ssp_device * | width4 int | out int | dma struct snd_dmaengine_dai_dma_data *

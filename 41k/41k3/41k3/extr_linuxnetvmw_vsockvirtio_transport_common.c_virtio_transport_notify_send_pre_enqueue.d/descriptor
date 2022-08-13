@@ -1,0 +1,3 @@
+struct vsock_transport_send_notify_data | dummy int 
+struct vsock_sock | dummy int 
+function virtio_transport_notify_send_pre_enqueue int | vsk struct vsock_sock * | data struct vsock_transport_send_notify_data *

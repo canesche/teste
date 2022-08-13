@@ -1,0 +1,3 @@
+struct slob_rcu | dummy int 
+struct kmem_cache | size int | flags int 
+function __kmem_cache_create int | c struct kmem_cache * | flags int

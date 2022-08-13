@@ -1,0 +1,2 @@
+struct TYPE_3__ | succ_count unsigned int | fail_count unsigned int 
+function mm_recover_statistics void | ctx struct TYPE_3__ * | succeed unsigned int * | failed unsigned int *

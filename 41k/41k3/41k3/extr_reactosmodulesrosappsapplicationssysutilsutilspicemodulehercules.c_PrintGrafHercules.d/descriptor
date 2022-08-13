@@ -1,0 +1,4 @@
+struct TYPE_4__ | bkcol long | fgcol long 
+struct TYPE_5__ | bits struct TYPE_4__ 
+struct TYPE_6__ | u struct TYPE_5__ 
+function PrintGrafHercules void | x int | y int | c long

@@ -1,0 +1,2 @@
+struct TYPE_3__ | u_joliet_level int 
+function iso9660_ifs_get_joliet_level int | p_iso struct TYPE_3__ *

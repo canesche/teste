@@ -1,0 +1,2 @@
+struct tipc_mon_domain | members int 
+function dom_rec_len int | dom struct tipc_mon_domain * | mcnt int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | Rax int 
+function set_int_reg void | context struct TYPE_3__ * | reg int | val int

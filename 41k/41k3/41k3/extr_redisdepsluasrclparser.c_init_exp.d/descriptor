@@ -1,0 +1,4 @@
+struct TYPE_5__ | info int 
+struct TYPE_6__ | s struct TYPE_5__ 
+struct TYPE_7__ | u struct TYPE_6__ | k int | t int | f int 
+function init_exp void | e struct TYPE_7__ * | k int | i int

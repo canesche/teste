@@ -1,0 +1,5 @@
+struct snd_pcm_substream | pstr struct TYPE_2__ * 
+struct psc_dma_stream | dummy int 
+struct psc_dma | playback struct psc_dma_stream | capture struct psc_dma_stream 
+struct TYPE_2__ | stream long 
+function to_psc_dma_stream struct psc_dma_stream * | substream struct snd_pcm_substream * | psc_dma struct psc_dma *

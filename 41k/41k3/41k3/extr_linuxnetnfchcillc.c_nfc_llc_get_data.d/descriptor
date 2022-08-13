@@ -1,0 +1,2 @@
+struct nfc_llc | data void * 
+function nfc_llc_get_data void * | llc struct nfc_llc *

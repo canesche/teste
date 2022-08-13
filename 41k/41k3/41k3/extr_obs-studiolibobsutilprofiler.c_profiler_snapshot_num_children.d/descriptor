@@ -1,0 +1,3 @@
+struct TYPE_4__ | num unsigned long 
+struct TYPE_5__ | children struct TYPE_4__ 
+function profiler_snapshot_num_children unsigned long | entry struct TYPE_5__ *

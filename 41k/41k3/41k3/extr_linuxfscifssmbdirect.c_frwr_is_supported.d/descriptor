@@ -1,0 +1,2 @@
+struct ib_device_attr | device_cap_flags int | max_fast_reg_page_list_len long 
+function frwr_is_supported int | attrs struct ib_device_attr *

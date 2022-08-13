@@ -1,0 +1,2 @@
+struct TYPE_3__ | bucket_width long | htpartcol_interval_len int | htpartcoltype void * | htpartcolno int | htoid void * | htid int 
+function caggtimebucketinfo_init void | src struct TYPE_3__ * | hypertable_id int | hypertable_oid void * | hypertable_partition_colno int | hypertable_partition_coltype void * | hypertable_partition_col_interval int

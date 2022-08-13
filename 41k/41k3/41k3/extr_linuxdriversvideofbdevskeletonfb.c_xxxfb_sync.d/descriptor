@@ -1,0 +1,2 @@
+struct fb_info | dummy int 
+function xxxfb_sync int | info struct fb_info *

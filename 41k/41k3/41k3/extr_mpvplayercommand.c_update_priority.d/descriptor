@@ -1,0 +1,2 @@
+struct MPContext | dummy int 
+function update_priority void | mpctx struct MPContext *

@@ -1,0 +1,5 @@
+struct TYPE_4__ | wpa_versions int 
+struct TYPE_5__ | crypto struct TYPE_4__ 
+struct TYPE_6__ | connect struct TYPE_5__ 
+struct wireless_dev | wext struct TYPE_6__ 
+function cfg80211_set_wpa_version int | wdev struct wireless_dev * | wpa_versions int

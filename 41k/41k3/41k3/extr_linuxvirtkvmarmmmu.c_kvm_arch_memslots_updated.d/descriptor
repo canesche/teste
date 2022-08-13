@@ -1,0 +1,2 @@
+struct kvm | dummy int 
+function kvm_arch_memslots_updated void | kvm struct kvm * | gen int

@@ -1,0 +1,2 @@
+struct kobject | dummy int 
+function hugepage_exit_sysfs void | hugepage_kobj struct kobject *

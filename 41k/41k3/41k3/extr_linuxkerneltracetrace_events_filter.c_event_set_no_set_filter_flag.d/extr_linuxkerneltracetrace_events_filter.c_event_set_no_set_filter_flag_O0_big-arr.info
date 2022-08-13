@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxkerneltracetrace_events_filter.c_event_set_no_set_filter_flag.d/extr_linuxkerneltracetrace_events_filter.c_event_set_no_set_filter_flag_O0::event_set_no_set_filter_flag(63)"
+  }
+]

@@ -1,0 +1,2 @@
+struct nd_cmd_get_config_size | max_xfer int | config_size int | status long 
+function nfit_test_cmd_get_config_size int | nd_cmd struct nd_cmd_get_config_size * | buf_len unsigned int

@@ -1,0 +1,2 @@
+struct winlink | idx int 
+function winlink_cmp int | wl1 struct winlink * | wl2 struct winlink *

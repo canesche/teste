@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_radare2librasmarchz80z80.c_z80_op_24_branch_index_res.d/extr_radare2librasmarchz80z80.c_z80_op_24_branch_index_res_O0::z80_op_24_branch_index_res(60)"
+  }
+]

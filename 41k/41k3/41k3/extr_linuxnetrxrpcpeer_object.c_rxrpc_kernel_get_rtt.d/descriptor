@@ -1,0 +1,4 @@
+struct socket | dummy int 
+struct rxrpc_call | peer struct TYPE_2__ * 
+struct TYPE_2__ | rtt int 
+function rxrpc_kernel_get_rtt int | sock struct socket * | call struct rxrpc_call *

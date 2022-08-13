@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsounddriversvxvx_cmd.h_vx_set_pipe_cmd_params.d/extr_linuxsounddriversvxvx_cmd.h_vx_set_pipe_cmd_params_O0::vx_set_pipe_cmd_params(67)"
+  }
+]

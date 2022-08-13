@@ -1,0 +1,7 @@
+struct TYPE_6__ | adapter_type long | adapter_index int 
+struct TYPE_7__ | s struct TYPE_6__ 
+struct hpi_response | error int | u struct TYPE_7__ 
+struct hpi_message | obj_index int 
+struct TYPE_8__ | adapter struct TYPE_5__ * 
+struct TYPE_5__ | type long | index int 
+function subsys_get_adapter void | phm struct hpi_message * | phr struct hpi_response *

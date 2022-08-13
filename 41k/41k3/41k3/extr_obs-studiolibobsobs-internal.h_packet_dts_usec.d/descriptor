@@ -1,0 +1,2 @@
+struct encoder_packet | dts int | timebase_den int 
+function packet_dts_usec int | packet struct encoder_packet *

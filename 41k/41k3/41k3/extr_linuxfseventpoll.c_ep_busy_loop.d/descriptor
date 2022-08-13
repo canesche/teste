@@ -1,0 +1,2 @@
+struct eventpoll | dummy int 
+function ep_busy_loop void | ep struct eventpoll * | nonblock int

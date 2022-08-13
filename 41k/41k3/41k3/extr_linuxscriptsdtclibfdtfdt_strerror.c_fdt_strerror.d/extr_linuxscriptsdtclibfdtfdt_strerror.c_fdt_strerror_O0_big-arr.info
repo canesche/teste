@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxscriptsdtclibfdtfdt_strerror.c_fdt_strerror.d/extr_linuxscriptsdtclibfdtfdt_strerror.c_fdt_strerror_O0::fdt_strerror(64)"
+  }
+]

@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function get_default_free_blocks_flags int | inode struct inode *

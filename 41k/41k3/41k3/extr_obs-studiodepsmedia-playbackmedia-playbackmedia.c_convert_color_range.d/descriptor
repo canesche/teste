@@ -1,0 +1,1 @@
+function convert_color_range enum video_range_type | r enum AVColorRange

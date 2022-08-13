@@ -1,0 +1,2 @@
+struct sock | sk_type long 
+function connection_based int | sk struct sock *

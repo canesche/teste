@@ -1,0 +1,2 @@
+struct read_block | len int | ptr int | buffer void * 
+function rb_read void * | rb struct read_block * | sz int

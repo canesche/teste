@@ -1,0 +1,2 @@
+struct hist_entry | cpu long 
+function sort__cpu_cmp long | left struct hist_entry * | right struct hist_entry *

@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function reiserfs_proc_info_init int | sb struct super_block *

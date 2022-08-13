@@ -1,0 +1,2 @@
+struct TYPE_3__ | background_color int 
+function obs_display_set_background_color void | display struct TYPE_3__ * | color int

@@ -1,0 +1,3 @@
+struct ctl_table_header | ctl_table struct TYPE_2__ * 
+struct TYPE_2__ | child long 
+function is_empty_dir int | head struct ctl_table_header *

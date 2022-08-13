@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdll3rdpartylibtifftif_dirread.c_TIFFReadDirEntryCheckRangeSbyteSlong8.d/extr_reactosdll3rdpartylibtifftif_dirread.c_TIFFReadDirEntryCheckRangeSbyteSlong8_O0::TIFFReadDirEntryCheckRangeSbyteSlong8(64)"
+  }
+]

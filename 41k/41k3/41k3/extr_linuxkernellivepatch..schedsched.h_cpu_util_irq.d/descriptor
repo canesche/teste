@@ -1,0 +1,2 @@
+struct rq | dummy int 
+function cpu_util_irq unsigned long | rq struct rq *

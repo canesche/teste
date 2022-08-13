@@ -1,0 +1,2 @@
+struct perf_top | guest_us_samples long | guest_kernel_samples long | exact_samples long | kernel_samples long | us_samples long | samples long 
+function perf_top__reset_sample_counters void | top struct perf_top *

@@ -1,0 +1,2 @@
+struct snd_akm4xxx | dummy int 
+function juli_akm_unlock void | ak struct snd_akm4xxx * | chip int

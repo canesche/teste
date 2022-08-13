@@ -1,0 +1,2 @@
+struct page | dummy int 
+function __kernel_map_pages void | page struct page * | numpages int | enable int

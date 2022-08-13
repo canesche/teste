@@ -1,0 +1,2 @@
+struct nvidia_par | dummy int 
+function nvidia_bl_exit void | par struct nvidia_par *

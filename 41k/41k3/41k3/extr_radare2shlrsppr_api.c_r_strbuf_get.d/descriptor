@@ -1,0 +1,2 @@
+struct TYPE_3__ | ptr char * | buf char * 
+function r_strbuf_get char * | sb struct TYPE_3__ *

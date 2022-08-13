@@ -1,0 +1,2 @@
+struct hist_entry | unfolded long | leaf long 
+function can_goto_child int | he struct hist_entry * | hmd enum hierarchy_move_dir

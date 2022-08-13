@@ -1,0 +1,2 @@
+struct kbuffer | lost_events int | curr long 
+function kbuffer_missed_events int | kbuf struct kbuffer *

@@ -1,0 +1,3 @@
+struct sockaddr_in | dummy int 
+struct rpc_xprt | addr int 
+function xs_addr_in struct sockaddr_in * | xprt struct rpc_xprt *

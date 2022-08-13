@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int 
+function phar_compress_filter char * | entry struct TYPE_3__ * | return_unknown int

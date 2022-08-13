@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function ext4_mb_seq_groups_stop void | seq struct seq_file * | v void *

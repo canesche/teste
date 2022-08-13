@@ -1,0 +1,4 @@
+struct omap_dss_device | dummy int 
+struct TYPE_3__ | y_res void * | x_res void * 
+struct TYPE_4__ | timings struct TYPE_3__ 
+function rfbi_set_size void | dssdev struct omap_dss_device * | w void * | h void *

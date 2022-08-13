@@ -1,0 +1,2 @@
+struct web_client | dummy int 
+function web_client_crock_socket int | w struct web_client *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsocfs2xattr.c_ocfs2_xa_check_space_helper.d/extr_linuxfsocfs2xattr.c_ocfs2_xa_check_space_helper_O0::ocfs2_xa_check_space_helper(66)"
+  }
+]

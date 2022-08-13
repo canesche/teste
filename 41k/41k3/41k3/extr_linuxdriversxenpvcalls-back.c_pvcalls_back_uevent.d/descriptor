@@ -1,0 +1,3 @@
+struct xenbus_device | dummy int 
+struct kobj_uevent_env | dummy int 
+function pvcalls_back_uevent int | xdev struct xenbus_device * | env struct kobj_uevent_env *

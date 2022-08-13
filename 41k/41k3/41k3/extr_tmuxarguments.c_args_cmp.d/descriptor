@@ -1,0 +1,2 @@
+struct args_entry | flag int 
+function args_cmp int | a1 struct args_entry * | a2 struct args_entry *

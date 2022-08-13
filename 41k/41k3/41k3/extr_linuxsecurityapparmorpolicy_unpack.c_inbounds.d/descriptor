@@ -1,0 +1,2 @@
+struct aa_ext | end unsigned long | pos unsigned long 
+function inbounds int | e struct aa_ext * | size unsigned long

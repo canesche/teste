@@ -1,0 +1,2 @@
+struct net_device | netdev_ops int * 
+function dsa_slave_dev_check int | dev struct net_device *

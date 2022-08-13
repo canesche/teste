@@ -1,0 +1,2 @@
+struct virtqueue | dummy int 
+function vq_callback void | vq struct virtqueue *

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function snd_miro_isa_match int | devptr struct device * | n unsigned int

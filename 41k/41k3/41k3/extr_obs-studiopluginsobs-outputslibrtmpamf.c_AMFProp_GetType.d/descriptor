@@ -1,0 +1,2 @@
+struct TYPE_3__ | p_type int 
+function AMFProp_GetType int | prop struct TYPE_3__ *

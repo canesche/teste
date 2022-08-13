@@ -1,0 +1,2 @@
+struct TYPE_3__ | lock int | tail unsigned long | head unsigned long | size unsigned long | buf int * 
+function fifo_read long | f struct TYPE_3__ * | buf void * | nbytes long

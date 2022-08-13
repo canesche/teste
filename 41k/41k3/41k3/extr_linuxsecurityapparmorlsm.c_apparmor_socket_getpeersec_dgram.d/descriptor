@@ -1,0 +1,3 @@
+struct socket | dummy int 
+struct sk_buff | dummy int 
+function apparmor_socket_getpeersec_dgram int | sock struct socket * | skb struct sk_buff * | secid int *

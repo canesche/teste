@@ -1,0 +1,1 @@
+function rd_write_file int | fd int | ptr void * | len int

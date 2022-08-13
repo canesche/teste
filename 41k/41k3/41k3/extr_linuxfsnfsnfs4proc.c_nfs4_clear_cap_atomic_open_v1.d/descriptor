@@ -1,0 +1,3 @@
+struct nfs_server | caps int 
+struct nfs4_exception | retry int 
+function nfs4_clear_cap_atomic_open_v1 int | server struct nfs_server * | err int | exception struct nfs4_exception *

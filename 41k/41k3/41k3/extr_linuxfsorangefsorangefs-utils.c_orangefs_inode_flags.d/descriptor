@@ -1,0 +1,2 @@
+struct ORANGEFS_sys_attr_s | flags int 
+function orangefs_inode_flags int | attrs struct ORANGEFS_sys_attr_s *

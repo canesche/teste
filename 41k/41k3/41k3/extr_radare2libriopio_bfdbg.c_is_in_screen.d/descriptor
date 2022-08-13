@@ -1,0 +1,2 @@
+struct TYPE_3__ | screen long | screen_size long 
+function is_in_screen int | off long | c struct TYPE_3__ *

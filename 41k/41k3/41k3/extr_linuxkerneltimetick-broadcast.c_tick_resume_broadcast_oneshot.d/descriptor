@@ -1,0 +1,2 @@
+struct clock_event_device | dummy int 
+function tick_resume_broadcast_oneshot void | bc struct clock_event_device *

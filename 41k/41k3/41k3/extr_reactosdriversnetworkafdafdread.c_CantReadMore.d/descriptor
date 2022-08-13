@@ -1,0 +1,3 @@
+struct TYPE_4__ | BytesUsed long | Content long 
+struct TYPE_5__ | TdiReceiveClosed long | Recv struct TYPE_4__ 
+function CantReadMore int | FCB struct TYPE_5__ *

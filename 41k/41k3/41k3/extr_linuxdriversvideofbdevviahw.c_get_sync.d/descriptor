@@ -1,0 +1,2 @@
+struct fb_var_screeninfo | sync int 
+function get_sync int | var struct fb_var_screeninfo *

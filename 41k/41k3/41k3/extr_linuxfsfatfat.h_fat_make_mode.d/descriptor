@@ -1,0 +1,3 @@
+struct TYPE_2__ | fs_dmask int | fs_fmask int | rodir int 
+struct msdos_sb_info | options struct TYPE_2__ 
+function fat_make_mode int | sbi struct msdos_sb_info * | attrs int | mode int

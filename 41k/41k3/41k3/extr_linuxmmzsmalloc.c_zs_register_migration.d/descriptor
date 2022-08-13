@@ -1,0 +1,2 @@
+struct zs_pool | dummy int 
+function zs_register_migration int | pool struct zs_pool *

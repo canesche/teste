@@ -1,0 +1,2 @@
+struct proto | dummy int 
+function release_proto_idx void | prot struct proto *

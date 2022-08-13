@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_opensslcryptoasn1a_int.c_asn1_put_uint64.d/extr_opensslcryptoasn1a_int.c_asn1_put_uint64_O0::asn1_put_uint64(61)"
+  }
+]

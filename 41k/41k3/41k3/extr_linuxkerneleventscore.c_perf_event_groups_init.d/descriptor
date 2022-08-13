@@ -1,0 +1,2 @@
+struct perf_event_groups | index long | tree int 
+function perf_event_groups_init void | groups struct perf_event_groups *

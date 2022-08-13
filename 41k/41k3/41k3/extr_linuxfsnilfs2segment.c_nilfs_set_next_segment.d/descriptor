@@ -1,0 +1,4 @@
+struct the_nilfs | ns_ctime int | ns_seg_seq int | ns_pseg_offset long | ns_nextnum int | ns_segnum int 
+struct TYPE_2__ | ctime int | seg_seq int | nblocks long 
+struct nilfs_segment_buffer | sb_sum struct TYPE_2__ | sb_fseg_start long | sb_pseg_start long | sb_nextnum int | sb_segnum int 
+function nilfs_set_next_segment void | nilfs struct the_nilfs * | segbuf struct nilfs_segment_buffer *

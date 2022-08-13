@@ -1,0 +1,2 @@
+struct callchain_param | mode int | sort int 
+function callchain_register_param int | param struct callchain_param *

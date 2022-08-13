@@ -1,0 +1,2 @@
+struct xdp_uqueue | cached_cons long | cached_prod long | consumer long * | size long 
+function xq_nb_free long | q struct xdp_uqueue * | ndescs long

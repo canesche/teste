@@ -1,0 +1,3 @@
+struct mp_subtitle_opts | sub_delay double 
+struct dec_sub | sub_speed double | opts struct mp_subtitle_opts * 
+function pts_from_subtitle double | sub struct dec_sub * | pts double

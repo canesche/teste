@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_stbtests..stb_c_lexer.h_stb__clex_iswhite.d/extr_stbtests..stb_c_lexer.h_stb__clex_iswhite_O0::stb__clex_iswhite(60)"
+  }
+]

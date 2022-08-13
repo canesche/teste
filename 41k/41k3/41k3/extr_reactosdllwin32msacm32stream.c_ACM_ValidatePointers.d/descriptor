@@ -1,0 +1,2 @@
+struct TYPE_3__ | pbPreparedSrc long | pbSrc long | cbPreparedSrcLength long | cbSrcLength long | pbPreparedDst long | pbDst long | cbPreparedDstLength long | cbDstLength long 
+function ACM_ValidatePointers int | padsh struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct swap_cluster_info | flags int 
+function cluster_is_null int | info struct swap_cluster_info *

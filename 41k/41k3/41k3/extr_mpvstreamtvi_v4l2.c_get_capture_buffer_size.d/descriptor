@@ -1,0 +1,6 @@
+struct TYPE_8__ | sizeimage int 
+struct TYPE_10__ | pix struct TYPE_8__ 
+struct TYPE_9__ | fmt struct TYPE_10__ 
+struct TYPE_11__ | format struct TYPE_9__ | tv_param struct TYPE_7__ * 
+struct TYPE_7__ | buffer_size int 
+function get_capture_buffer_size int | priv struct TYPE_11__ *

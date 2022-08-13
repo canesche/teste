@@ -1,0 +1,2 @@
+struct cstate | id int 
+function amd_fam14h_get_pci_info int | state struct cstate * | pci_offset unsigned int * | enable_bit unsigned int * | cpu unsigned int

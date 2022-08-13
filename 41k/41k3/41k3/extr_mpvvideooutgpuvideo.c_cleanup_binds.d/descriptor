@@ -1,0 +1,2 @@
+struct gl_video | num_pass_imgs long 
+function cleanup_binds void | p struct gl_video *

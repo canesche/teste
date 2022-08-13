@@ -1,0 +1,2 @@
+struct the_nilfs | ns_pseg_offset long 
+function nilfs_terminate_segment void | nilfs struct the_nilfs * | seg_start long | seg_end long

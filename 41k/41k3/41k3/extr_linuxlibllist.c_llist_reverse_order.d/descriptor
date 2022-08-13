@@ -1,0 +1,2 @@
+struct llist_node | next struct llist_node * 
+function llist_reverse_order struct llist_node * | head struct llist_node *

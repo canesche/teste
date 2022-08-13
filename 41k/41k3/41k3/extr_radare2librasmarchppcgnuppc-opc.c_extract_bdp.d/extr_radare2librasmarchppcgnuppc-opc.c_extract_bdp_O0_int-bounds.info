@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_radare2librasmarchppcgnuppc-opc.c_extract_bdp.d/extr_radare2librasmarchppcgnuppc-opc.c_extract_bdp_O0::extract_bdp(65)"
+  }
+]

@@ -1,0 +1,3 @@
+struct TYPE_4__ | npn_seen long 
+struct TYPE_5__ | s3 struct TYPE_4__ 
+function init_npn int | s struct TYPE_5__ * | context unsigned int

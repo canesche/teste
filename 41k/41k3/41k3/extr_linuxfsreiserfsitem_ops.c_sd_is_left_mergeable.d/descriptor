@@ -1,0 +1,2 @@
+struct reiserfs_key | dummy int 
+function sd_is_left_mergeable int | key struct reiserfs_key * | bsize unsigned long

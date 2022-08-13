@@ -1,0 +1,2 @@
+struct pnfs_layout_range | iomode int | offset long | length long 
+function pnfs_sanity_check_layout_range int | range struct pnfs_layout_range *

@@ -1,0 +1,2 @@
+struct input_ctx | dummy int 
+function terminal_setup_getch void | ictx struct input_ctx *

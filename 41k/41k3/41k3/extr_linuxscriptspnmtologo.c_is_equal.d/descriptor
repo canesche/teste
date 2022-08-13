@@ -1,0 +1,2 @@
+struct color | red long | green long | blue long 
+function is_equal int | c1 struct color | c2 struct color

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 34,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosbootfreeldrfreeldrlibinifileparse.c_IniIsLineEmpty.d/extr_reactosbootfreeldrfreeldrlibinifileparse.c_IniIsLineEmpty_O0::IniIsLineEmpty(65)"
+  }
+]

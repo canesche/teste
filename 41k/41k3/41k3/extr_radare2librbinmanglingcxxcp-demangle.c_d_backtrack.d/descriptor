@@ -1,0 +1,3 @@
+struct d_info_checkpoint | expansion int | next_sub int | next_comp int | n int 
+struct d_info | expansion int | next_sub int | next_comp int | n int 
+function d_backtrack void | di struct d_info * | checkpoint struct d_info_checkpoint *

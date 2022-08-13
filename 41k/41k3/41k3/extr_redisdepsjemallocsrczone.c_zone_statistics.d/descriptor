@@ -1,0 +1,2 @@
+struct TYPE_3__ | size_allocated long | max_size_in_use long | size_in_use long | blocks_in_use long 
+function zone_statistics void | zone int * | stats struct TYPE_3__ *

@@ -1,0 +1,3 @@
+struct gl_video | output_tex_valid int | frames_drawn long | surface_now long | surface_idx long | surfaces struct TYPE_2__ * 
+struct TYPE_2__ | pts int | id long 
+function gl_video_reset_surfaces void | p struct gl_video *

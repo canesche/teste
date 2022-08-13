@@ -1,0 +1,1 @@
+function disk_ioctl int | pdrv int | cmd int | buff void *

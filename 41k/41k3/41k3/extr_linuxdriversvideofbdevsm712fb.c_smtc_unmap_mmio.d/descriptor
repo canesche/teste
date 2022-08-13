@@ -1,0 +1,2 @@
+struct smtcfb_info | dummy int 
+function smtc_unmap_mmio void | sfb struct smtcfb_info *

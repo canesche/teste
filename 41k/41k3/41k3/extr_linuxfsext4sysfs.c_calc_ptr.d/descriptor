@@ -1,0 +1,4 @@
+struct ext4_sb_info | s_es long 
+struct TYPE_2__ | explicit_ptr void * | offset int 
+struct ext4_attr | attr_ptr int | u struct TYPE_2__ 
+function calc_ptr void * | a struct ext4_attr * | sbi struct ext4_sb_info *

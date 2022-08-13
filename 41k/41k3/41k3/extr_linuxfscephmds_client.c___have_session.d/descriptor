@@ -1,0 +1,2 @@
+struct ceph_mds_client | max_sessions int | sessions int * 
+function __have_session int | mdsc struct ceph_mds_client * | mds int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_obs-studiolibobs-openglgl-x11.c_get_depth_format_bits.d/extr_obs-studiolibobs-openglgl-x11.c_get_depth_format_bits_O0::get_depth_format_bits(62)"
+  }
+]

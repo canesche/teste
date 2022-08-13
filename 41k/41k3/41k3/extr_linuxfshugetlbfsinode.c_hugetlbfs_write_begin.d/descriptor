@@ -1,0 +1,4 @@
+struct page | dummy int 
+struct file | dummy int 
+struct address_space | dummy int 
+function hugetlbfs_write_begin int | file struct file * | mapping struct address_space * | pos int | len unsigned int | flags unsigned int | pagep struct page ** | fsdata void **

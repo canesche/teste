@@ -1,0 +1,2 @@
+struct grub_sun_pc_block | dummy int 
+function grub_sun_is_valid int | label struct grub_sun_pc_block *

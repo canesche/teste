@@ -1,0 +1,2 @@
+struct Qdisc | dummy int 
+function sfb_delete int | sch struct Qdisc * | cl unsigned long

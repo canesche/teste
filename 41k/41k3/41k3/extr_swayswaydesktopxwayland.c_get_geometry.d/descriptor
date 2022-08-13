@@ -1,0 +1,5 @@
+struct wlr_box | height long | width long | y long | x long 
+struct sway_view | surface struct TYPE_4__ * 
+struct TYPE_3__ | height long | width long 
+struct TYPE_4__ | current struct TYPE_3__ 
+function get_geometry void | view struct sway_view * | box struct wlr_box *

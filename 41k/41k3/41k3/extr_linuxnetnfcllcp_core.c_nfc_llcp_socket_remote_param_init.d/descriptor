@@ -1,0 +1,2 @@
+struct nfc_llcp_sock | remote_miu long | remote_rw int 
+function nfc_llcp_socket_remote_param_init void | sock struct nfc_llcp_sock *

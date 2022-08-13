@@ -1,0 +1,5 @@
+struct TYPE_8__ | cx long | cy long 
+struct TYPE_9__ | szMin struct TYPE_8__ | lpBrowseInfo struct TYPE_7__ * 
+struct TYPE_10__ | flags int | cx long | cy long 
+struct TYPE_7__ | ulFlags int 
+function BrsFolder_OnWindowPosChanging int | info struct TYPE_9__ * | pos struct TYPE_10__ *

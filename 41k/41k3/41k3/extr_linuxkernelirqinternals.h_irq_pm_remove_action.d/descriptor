@@ -1,0 +1,3 @@
+struct irqaction | dummy int 
+struct irq_desc | dummy int 
+function irq_pm_remove_action void | desc struct irq_desc * | action struct irqaction *

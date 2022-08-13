@@ -1,0 +1,2 @@
+struct TYPE_3__ | name_len int 
+function ondisk_dirent_size int | dirent struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct rme96 | wcreg int 
+function snd_rme96_getmontracks int | rme96 struct rme96 *

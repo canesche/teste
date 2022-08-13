@@ -1,0 +1,2 @@
+struct rtnl_link_stats64 | dummy int 
+function rtnl_get_offload_stats_attr_size int | attr_id int

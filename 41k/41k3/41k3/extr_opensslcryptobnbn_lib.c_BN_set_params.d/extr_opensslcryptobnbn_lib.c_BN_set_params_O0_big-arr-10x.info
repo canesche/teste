@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 13,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 22,
+    static: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 48,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_opensslcryptobnbn_lib.c_BN_set_params.d/extr_opensslcryptobnbn_lib.c_BN_set_params_O0::BN_set_params(68)"
+  }
+]

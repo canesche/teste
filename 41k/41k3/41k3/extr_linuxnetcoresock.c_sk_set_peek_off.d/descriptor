@@ -1,0 +1,2 @@
+struct sock | sk_peek_off int 
+function sk_set_peek_off int | sk struct sock * | val int

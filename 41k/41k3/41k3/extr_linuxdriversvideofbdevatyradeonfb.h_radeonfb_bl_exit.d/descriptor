@@ -1,0 +1,2 @@
+struct radeonfb_info | dummy int 
+function radeonfb_bl_exit void | rinfo struct radeonfb_info *

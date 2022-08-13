@@ -1,0 +1,2 @@
+struct btrfs_space_info | flags int 
+function btrfs_mixed_space_info int | space_info struct btrfs_space_info *

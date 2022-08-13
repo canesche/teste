@@ -1,0 +1,2 @@
+struct timeval | tv_sec int | tv_usec long 
+function timeval_delta long | prev struct timeval * | now struct timeval *

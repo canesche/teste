@@ -1,0 +1,2 @@
+struct TYPE_3__ | status int | flag int 
+function mbfl_filt_ident_eucjp_win int | c int | filter struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct f2fs_sb_info | discard_blks int 
+function discard_blocks int | sbi struct f2fs_sb_info *

@@ -1,0 +1,3 @@
+struct fb_info | dummy int 
+struct backlight_device | dummy int 
+function aat2870_bl_check_fb int | bd struct backlight_device * | fi struct fb_info *

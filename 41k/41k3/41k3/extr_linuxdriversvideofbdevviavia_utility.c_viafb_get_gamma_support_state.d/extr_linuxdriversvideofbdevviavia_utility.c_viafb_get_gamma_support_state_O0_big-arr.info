@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversvideofbdevviavia_utility.c_viafb_get_gamma_support_state.d/extr_linuxdriversvideofbdevviavia_utility.c_viafb_get_gamma_support_state_O0::viafb_get_gamma_support_state(64)"
+  }
+]

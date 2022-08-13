@@ -1,0 +1,2 @@
+struct _malloc_zone_t | dummy int 
+function zone_pressure_relief unsigned long | zone struct _malloc_zone_t * | goal unsigned long

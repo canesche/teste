@@ -1,0 +1,2 @@
+struct mm_struct | dummy int 
+function mm_init_uprobes_state void | mm struct mm_struct *

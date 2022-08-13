@@ -1,0 +1,2 @@
+struct kmemleak_object | min_count int | flags int 
+function __paint_it void | object struct kmemleak_object * | color int

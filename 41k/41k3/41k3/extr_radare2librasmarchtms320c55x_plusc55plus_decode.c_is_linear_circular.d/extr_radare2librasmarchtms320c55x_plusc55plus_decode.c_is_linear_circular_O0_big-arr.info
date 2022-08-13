@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 6,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_radare2librasmarchtms320c55x_plusc55plus_decode.c_is_linear_circular.d/extr_radare2librasmarchtms320c55x_plusc55plus_decode.c_is_linear_circular_O0::is_linear_circular(61)"
+  }
+]

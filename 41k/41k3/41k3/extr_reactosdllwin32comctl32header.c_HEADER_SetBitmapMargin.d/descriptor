@@ -1,0 +1,2 @@
+struct TYPE_3__ | iMargin int 
+function HEADER_SetBitmapMargin int | infoPtr struct TYPE_3__ * | iMargin int

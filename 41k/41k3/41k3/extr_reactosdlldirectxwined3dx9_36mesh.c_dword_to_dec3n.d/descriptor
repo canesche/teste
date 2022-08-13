@@ -1,0 +1,2 @@
+struct dec3n | x int | y int | z int | w int 
+function dword_to_dec3n struct dec3n | d int

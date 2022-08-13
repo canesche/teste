@@ -1,0 +1,2 @@
+struct seq_oss_readq | qlen long | head int | maxlen int 
+function snd_seq_oss_readq_free void | q struct seq_oss_readq *

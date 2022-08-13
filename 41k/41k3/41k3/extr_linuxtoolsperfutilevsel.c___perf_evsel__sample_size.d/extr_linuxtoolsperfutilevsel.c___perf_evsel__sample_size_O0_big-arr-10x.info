@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 976,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxtoolsperfutilevsel.c___perf_evsel__sample_size.d/extr_linuxtoolsperfutilevsel.c___perf_evsel__sample_size_O0::__perf_evsel__sample_size(62)"
+  }
+]

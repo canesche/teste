@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 60,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 60,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosmodulesrosappsapplicationsnettsclientrdesktopuiportsnanoxwin.c_warp_coords.d/extr_reactosmodulesrosappsapplicationsnettsclientrdesktopuiportsnanoxwin.c_warp_coords_O0::warp_coords(64)"
+  }
+]

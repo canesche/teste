@@ -1,0 +1,4 @@
+struct f2fs_sb_info | meta_inode struct TYPE_2__ * 
+struct address_space | dummy int 
+struct TYPE_2__ | i_mapping struct address_space * 
+function META_MAPPING struct address_space * | sbi struct f2fs_sb_info *

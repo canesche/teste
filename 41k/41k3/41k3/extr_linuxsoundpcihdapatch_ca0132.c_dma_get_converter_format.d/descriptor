@@ -1,0 +1,2 @@
+struct dma_engine | m_converter_format unsigned short 
+function dma_get_converter_format void | dma struct dma_engine * | format unsigned short *

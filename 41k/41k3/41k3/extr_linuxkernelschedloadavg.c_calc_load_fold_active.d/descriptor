@@ -1,0 +1,2 @@
+struct rq | nr_running long | calc_load_active long | nr_uninterruptible long 
+function calc_load_fold_active long | this_rq struct rq * | adjust long

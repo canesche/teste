@@ -1,0 +1,3 @@
+struct vringh_range | offset long | start long | end_incl long 
+struct vringh | dummy int 
+function getrange_slow int | vrh struct vringh * | addr long | r struct vringh_range *

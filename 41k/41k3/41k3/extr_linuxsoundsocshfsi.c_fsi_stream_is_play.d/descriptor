@@ -1,0 +1,3 @@
+struct fsi_stream | dummy int 
+struct fsi_priv | playback struct fsi_stream 
+function fsi_stream_is_play int | fsi struct fsi_priv * | io struct fsi_stream *

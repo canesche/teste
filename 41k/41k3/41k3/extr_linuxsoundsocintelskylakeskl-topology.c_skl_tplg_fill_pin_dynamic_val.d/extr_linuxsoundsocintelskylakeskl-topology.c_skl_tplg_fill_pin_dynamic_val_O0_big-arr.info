@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 2816,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundsocintelskylakeskl-topology.c_skl_tplg_fill_pin_dynamic_val.d/extr_linuxsoundsocintelskylakeskl-topology.c_skl_tplg_fill_pin_dynamic_val_O0::skl_tplg_fill_pin_dynamic_val(63)"
+  }
+]

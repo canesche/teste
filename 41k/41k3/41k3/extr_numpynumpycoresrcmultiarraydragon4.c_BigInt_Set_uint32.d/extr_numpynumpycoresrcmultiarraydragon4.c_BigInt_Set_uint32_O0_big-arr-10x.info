@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_numpynumpycoresrcmultiarraydragon4.c_BigInt_Set_uint32.d/extr_numpynumpycoresrcmultiarraydragon4.c_BigInt_Set_uint32_O0::BigInt_Set_uint32(65)"
+  }
+]

@@ -1,0 +1,6 @@
+struct TYPE_8__ | length int 
+struct TYPE_7__ | length int 
+struct TYPE_6__ | length int 
+struct TYPE_5__ | length int 
+struct fb_var_screeninfo | transp struct TYPE_8__ | blue struct TYPE_7__ | green struct TYPE_6__ | red struct TYPE_5__ 
+function var_to_depth int | var struct fb_var_screeninfo *

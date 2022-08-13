@@ -1,0 +1,2 @@
+struct font_desc | pref int | height int | width int 
+function get_default_font const struct font_desc * | xres int | yres int | font_w int | font_h int

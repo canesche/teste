@@ -1,0 +1,2 @@
+struct sctp_stream | dummy int 
+function sctp_sched_fcfs_free void | stream struct sctp_stream *

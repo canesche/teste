@@ -1,0 +1,1 @@
+function IniGetNextLineSize unsigned long | IniFileData char * | IniFileSize unsigned long | CurrentOffset unsigned long

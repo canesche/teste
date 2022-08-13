@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct ceph_acls_info | dummy int 
+function ceph_pre_init_acls int | dir struct inode * | mode int * | info struct ceph_acls_info *

@@ -1,0 +1,2 @@
+struct ocfs2_dx_root_block | dr_flags int 
+function ocfs2_dx_root_inline int | dx_root struct ocfs2_dx_root_block *

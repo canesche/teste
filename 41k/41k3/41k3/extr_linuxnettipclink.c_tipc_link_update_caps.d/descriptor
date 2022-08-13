@@ -1,0 +1,2 @@
+struct tipc_link | peer_caps int 
+function tipc_link_update_caps void | l struct tipc_link * | capabilities int

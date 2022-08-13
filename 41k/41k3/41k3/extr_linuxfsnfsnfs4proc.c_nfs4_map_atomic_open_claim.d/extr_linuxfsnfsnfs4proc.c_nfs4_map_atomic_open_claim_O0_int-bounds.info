@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsnfsnfs4proc.c_nfs4_map_atomic_open_claim.d/extr_linuxfsnfsnfs4proc.c_nfs4_map_atomic_open_claim_O0::nfs4_map_atomic_open_claim(71)"
+  }
+]

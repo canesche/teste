@@ -1,0 +1,2 @@
+struct buffer_head | dummy int 
+function buffer_migrate_lock_buffers int | head struct buffer_head * | mode enum migrate_mode

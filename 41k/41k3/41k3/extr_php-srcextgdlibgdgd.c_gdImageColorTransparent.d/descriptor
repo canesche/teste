@@ -1,0 +1,2 @@
+struct TYPE_3__ | colorsTotal int | transparent int | alpha int * | trueColor int 
+function gdImageColorTransparent void | im struct TYPE_3__ * | color int

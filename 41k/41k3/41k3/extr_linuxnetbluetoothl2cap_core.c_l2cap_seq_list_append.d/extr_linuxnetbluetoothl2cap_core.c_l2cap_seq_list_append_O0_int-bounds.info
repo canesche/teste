@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetbluetoothl2cap_core.c_l2cap_seq_list_append.d/extr_linuxnetbluetoothl2cap_core.c_l2cap_seq_list_append_O0::l2cap_seq_list_append(64)"
+  }
+]

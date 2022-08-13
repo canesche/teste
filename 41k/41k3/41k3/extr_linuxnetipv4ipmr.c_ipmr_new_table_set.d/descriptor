@@ -1,0 +1,3 @@
+struct net | dummy int 
+struct mr_table | dummy int 
+function ipmr_new_table_set void | mrt struct mr_table * | net struct net *

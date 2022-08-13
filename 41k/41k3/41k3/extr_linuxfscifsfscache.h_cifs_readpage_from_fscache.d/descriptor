@@ -1,0 +1,3 @@
+struct page | dummy int 
+struct inode | dummy int 
+function cifs_readpage_from_fscache int | inode struct inode * | page struct page *

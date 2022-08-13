@@ -1,0 +1,1 @@
+function hlsl_get_error_level_name const char * | level enum hlsl_error_level

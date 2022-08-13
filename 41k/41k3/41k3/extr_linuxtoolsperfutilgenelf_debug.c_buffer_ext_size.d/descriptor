@@ -1,0 +1,2 @@
+struct buffer_ext | cur_pos unsigned long 
+function buffer_ext_size unsigned long | be struct buffer_ext *

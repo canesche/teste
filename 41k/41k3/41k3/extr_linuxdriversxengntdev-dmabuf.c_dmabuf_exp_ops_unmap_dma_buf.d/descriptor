@@ -1,0 +1,3 @@
+struct sg_table | dummy int 
+struct dma_buf_attachment | dummy int 
+function dmabuf_exp_ops_unmap_dma_buf void | attach struct dma_buf_attachment * | sgt struct sg_table * | dir enum dma_data_direction

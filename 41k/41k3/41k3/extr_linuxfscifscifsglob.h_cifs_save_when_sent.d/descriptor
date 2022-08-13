@@ -1,0 +1,2 @@
+struct mid_q_entry | dummy int 
+function cifs_save_when_sent void | mid struct mid_q_entry *

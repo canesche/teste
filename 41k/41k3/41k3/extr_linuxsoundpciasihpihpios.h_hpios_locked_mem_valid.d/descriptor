@@ -1,0 +1,2 @@
+struct consistent_dma_area | size long 
+function hpios_locked_mem_valid int | locked_mem_handle struct consistent_dma_area *

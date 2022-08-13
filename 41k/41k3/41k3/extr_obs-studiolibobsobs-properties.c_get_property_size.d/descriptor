@@ -1,0 +1,10 @@
+struct text_data | dummy int 
+struct path_data | dummy int 
+struct list_data | dummy int 
+struct int_data | dummy int 
+struct group_data | dummy int 
+struct frame_rate_data | dummy int 
+struct float_data | dummy int 
+struct editable_list_data | dummy int 
+struct button_data | dummy int 
+function get_property_size unsigned long | type enum obs_property_type

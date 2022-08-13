@@ -1,0 +1,3 @@
+struct qdisc_walker | dummy int 
+struct Qdisc | dummy int 
+function ingress_walk void | sch struct Qdisc * | walker struct qdisc_walker *

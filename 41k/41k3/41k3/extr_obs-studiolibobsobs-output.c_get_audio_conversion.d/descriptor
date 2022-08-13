@@ -1,0 +1,3 @@
+struct audio_convert_info | dummy int 
+struct obs_output | audio_conversion struct audio_convert_info | audio_conversion_set long 
+function get_audio_conversion struct audio_convert_info * | output struct obs_output *

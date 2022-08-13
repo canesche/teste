@@ -1,0 +1,4 @@
+struct TYPE_4__ | pin_mask int | gpio struct TYPE_5__ * 
+struct TYPE_6__ | led_pin struct TYPE_4__ * 
+struct TYPE_5__ | PDOR int | PCOR int | PSOR int 
+function led_toggle void | led int

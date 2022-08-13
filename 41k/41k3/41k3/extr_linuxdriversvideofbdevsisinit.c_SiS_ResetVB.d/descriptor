@@ -1,0 +1,2 @@
+struct SiS_Private | dummy int 
+function SiS_ResetVB void | SiS_Pr struct SiS_Private *

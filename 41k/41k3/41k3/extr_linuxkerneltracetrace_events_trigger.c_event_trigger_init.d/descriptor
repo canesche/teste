@@ -1,0 +1,3 @@
+struct event_trigger_ops | dummy int 
+struct event_trigger_data | ref int 
+function event_trigger_init int | ops struct event_trigger_ops * | data struct event_trigger_data *

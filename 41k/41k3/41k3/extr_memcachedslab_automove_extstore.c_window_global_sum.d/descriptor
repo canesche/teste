@@ -1,0 +1,2 @@
+struct window_global | pool_low long | pool_high long 
+function window_global_sum void | wg struct window_global * | w struct window_global * | size int

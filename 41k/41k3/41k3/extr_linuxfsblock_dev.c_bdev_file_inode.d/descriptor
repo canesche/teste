@@ -1,0 +1,4 @@
+struct inode | dummy int 
+struct file | f_mapping struct TYPE_2__ * 
+struct TYPE_2__ | host struct inode * 
+function bdev_file_inode struct inode * | file struct file *

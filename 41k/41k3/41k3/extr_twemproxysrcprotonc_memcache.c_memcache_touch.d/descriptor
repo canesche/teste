@@ -1,0 +1,2 @@
+struct msg | type long 
+function memcache_touch int | r struct msg *

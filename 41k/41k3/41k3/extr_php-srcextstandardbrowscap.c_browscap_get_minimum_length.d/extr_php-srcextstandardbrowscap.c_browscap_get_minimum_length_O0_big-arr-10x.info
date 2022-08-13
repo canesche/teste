@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_php-srcextstandardbrowscap.c_browscap_get_minimum_length.d/extr_php-srcextstandardbrowscap.c_browscap_get_minimum_length_O0::browscap_get_minimum_length(63)"
+  }
+]

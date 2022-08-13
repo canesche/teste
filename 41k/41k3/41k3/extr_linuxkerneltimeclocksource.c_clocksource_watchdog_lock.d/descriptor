@@ -1,0 +1,1 @@
+function clocksource_watchdog_lock void | flags unsigned long *

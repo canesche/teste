@@ -1,0 +1,2 @@
+struct TYPE_3__ | peek_len int | secure long 
+function netconn_query_data_available int | conn struct TYPE_3__ *

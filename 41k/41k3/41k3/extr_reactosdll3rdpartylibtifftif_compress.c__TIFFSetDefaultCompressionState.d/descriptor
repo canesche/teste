@@ -1,0 +1,2 @@
+struct TYPE_3__ | tif_flags int | tif_deftilesize int | tif_defstripsize int | tif_cleanup void * | tif_seek int | tif_close void * | tif_encodetile int | tif_encodestrip int | tif_encoderow int | tif_postencode void * | tif_preencode void * | tif_setupencode void * | tif_encodestatus void * | tif_decodetile int | tif_decodestrip int | tif_decoderow int | tif_predecode void * | tif_setupdecode void * | tif_decodestatus void * | tif_fixuptags int 
+function _TIFFSetDefaultCompressionState void | tif struct TYPE_3__ *

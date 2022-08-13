@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsnilfs2the_nilfs.h_nilfs_sb_will_flip.d/extr_linuxfsnilfs2the_nilfs.h_nilfs_sb_will_flip_O0::nilfs_sb_will_flip(61)"
+  }
+]

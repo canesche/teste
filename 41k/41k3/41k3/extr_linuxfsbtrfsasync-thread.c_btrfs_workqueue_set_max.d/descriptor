@@ -1,0 +1,4 @@
+struct btrfs_workqueue | high struct TYPE_4__ * | normal struct TYPE_3__ * 
+struct TYPE_4__ | limit_active int 
+struct TYPE_3__ | limit_active int 
+function btrfs_workqueue_set_max void | wq struct btrfs_workqueue * | limit_active int

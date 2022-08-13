@@ -1,0 +1,1 @@
+function _RpcEnumPrinterData int | hPrinter int | dwIndex int | pValueName int * | cbValueName int | pcbValueName int * | pType int * | pData int * | cbData int | pcbData int *

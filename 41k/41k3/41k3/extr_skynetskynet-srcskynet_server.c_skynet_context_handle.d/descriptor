@@ -1,0 +1,2 @@
+struct skynet_context | handle int 
+function skynet_context_handle int | ctx struct skynet_context *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | DBCSCodePage int 
+function NLS_IsDBCSCodePage int | CodePageTable struct TYPE_3__ *

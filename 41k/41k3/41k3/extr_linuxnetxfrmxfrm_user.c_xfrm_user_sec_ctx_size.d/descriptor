@@ -1,0 +1,3 @@
+struct xfrm_user_sec_ctx | dummy int 
+struct xfrm_sec_ctx | ctx_len long 
+function xfrm_user_sec_ctx_size unsigned int | xfrm_ctx struct xfrm_sec_ctx *

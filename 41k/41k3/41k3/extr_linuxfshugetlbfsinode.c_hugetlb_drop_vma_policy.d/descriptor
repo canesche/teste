@@ -1,0 +1,2 @@
+struct vm_area_struct | dummy int 
+function hugetlb_drop_vma_policy void | vma struct vm_area_struct *

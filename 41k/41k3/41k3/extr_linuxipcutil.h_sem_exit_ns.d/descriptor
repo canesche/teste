@@ -1,0 +1,2 @@
+struct ipc_namespace | dummy int 
+function sem_exit_ns void | ns struct ipc_namespace *

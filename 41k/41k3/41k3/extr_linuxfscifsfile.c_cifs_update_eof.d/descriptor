@@ -1,0 +1,2 @@
+struct cifsInodeInfo | server_eof long 
+function cifs_update_eof void | cifsi struct cifsInodeInfo * | offset long | bytes_written unsigned int

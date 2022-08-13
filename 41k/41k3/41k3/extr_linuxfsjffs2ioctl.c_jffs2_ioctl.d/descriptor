@@ -1,0 +1,2 @@
+struct file | dummy int 
+function jffs2_ioctl long | filp struct file * | cmd unsigned int | arg unsigned long

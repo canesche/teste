@@ -1,0 +1,2 @@
+struct softnet_data | dummy int 
+function rps_lock void | sd struct softnet_data *

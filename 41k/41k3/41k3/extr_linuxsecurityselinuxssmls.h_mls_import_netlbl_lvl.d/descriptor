@@ -1,0 +1,4 @@
+struct policydb | dummy int 
+struct netlbl_lsm_secattr | dummy int 
+struct context | dummy int 
+function mls_import_netlbl_lvl void | p struct policydb * | context struct context * | secattr struct netlbl_lsm_secattr *

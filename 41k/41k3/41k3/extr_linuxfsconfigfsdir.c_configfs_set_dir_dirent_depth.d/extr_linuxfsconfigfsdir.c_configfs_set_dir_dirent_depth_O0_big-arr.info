@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsconfigfsdir.c_configfs_set_dir_dirent_depth.d/extr_linuxfsconfigfsdir.c_configfs_set_dir_dirent_depth_O0::configfs_set_dir_dirent_depth(62)"
+  }
+]

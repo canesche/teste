@@ -1,0 +1,2 @@
+struct event_trigger_ops | dummy int 
+function event_hist_get_trigger_ops struct event_trigger_ops * | cmd char * | param char *

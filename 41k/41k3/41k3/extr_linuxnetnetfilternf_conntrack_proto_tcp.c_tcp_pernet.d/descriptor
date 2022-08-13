@@ -1,0 +1,5 @@
+struct nf_tcp_net | dummy int 
+struct TYPE_3__ | tcp struct nf_tcp_net 
+struct TYPE_4__ | nf_ct_proto struct TYPE_3__ 
+struct net | ct struct TYPE_4__ 
+function tcp_pernet struct nf_tcp_net * | net struct net *

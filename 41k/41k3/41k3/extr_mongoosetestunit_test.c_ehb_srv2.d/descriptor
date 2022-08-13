@@ -1,0 +1,4 @@
+struct TYPE_3__ | size int 
+struct mg_connection | mgr struct TYPE_4__ * | recv_mbuf struct TYPE_3__ 
+struct TYPE_4__ | user_data long 
+function ehb_srv2 void | c struct mg_connection * | ev int | p void *

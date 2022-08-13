@@ -1,0 +1,3 @@
+struct nfs4_layoutreturn_res | dummy int 
+struct nfs4_layoutreturn_args | dummy int 
+function pnfs_roc_release void | args struct nfs4_layoutreturn_args * | res struct nfs4_layoutreturn_res * | ret int

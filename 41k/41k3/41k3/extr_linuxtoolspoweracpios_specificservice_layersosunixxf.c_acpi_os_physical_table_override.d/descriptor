@@ -1,0 +1,2 @@
+struct acpi_table_header | dummy int 
+function acpi_os_physical_table_override int | existing_table struct acpi_table_header * | new_address int * | new_table_length int *

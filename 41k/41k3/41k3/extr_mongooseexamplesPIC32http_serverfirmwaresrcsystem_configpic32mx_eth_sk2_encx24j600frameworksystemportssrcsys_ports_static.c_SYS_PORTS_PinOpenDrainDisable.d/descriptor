@@ -1,0 +1,1 @@
+function SYS_PORTS_PinOpenDrainDisable void | index int | channel int | bitPos int

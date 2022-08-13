@@ -1,0 +1,2 @@
+struct hci_conn | pin_length int | key_type int | pending_sec_level void * 
+function conn_set_key void | conn struct hci_conn * | key_type int | pin_len int

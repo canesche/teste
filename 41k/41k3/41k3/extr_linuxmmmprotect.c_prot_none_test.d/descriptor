@@ -1,0 +1,2 @@
+struct mm_walk | dummy int 
+function prot_none_test int | addr unsigned long | next unsigned long | walk struct mm_walk *

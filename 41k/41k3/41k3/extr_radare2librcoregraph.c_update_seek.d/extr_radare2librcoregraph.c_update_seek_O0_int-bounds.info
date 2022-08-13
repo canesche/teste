@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 77,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 77,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_radare2librcoregraph.c_update_seek.d/extr_radare2librcoregraph.c_update_seek_O0::update_seek(65)"
+  }
+]

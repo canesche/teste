@@ -1,0 +1,2 @@
+struct TYPE_3__ | Flags int | Next struct TYPE_3__ * 
+function AcpiUtUpdateInterfaces int | Action int

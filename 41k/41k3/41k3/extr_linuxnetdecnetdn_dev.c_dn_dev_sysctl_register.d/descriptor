@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct dn_dev_parms | dummy int 
+function dn_dev_sysctl_register void | dev struct net_device * | parms struct dn_dev_parms *

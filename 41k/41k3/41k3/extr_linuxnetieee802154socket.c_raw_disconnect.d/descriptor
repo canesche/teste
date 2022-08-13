@@ -1,0 +1,2 @@
+struct sock | dummy int 
+function raw_disconnect int | sk struct sock * | flags int

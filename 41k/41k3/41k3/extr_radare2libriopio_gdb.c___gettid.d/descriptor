@@ -1,0 +1,2 @@
+struct TYPE_2__ | tid int 
+function __gettid int | fd int *

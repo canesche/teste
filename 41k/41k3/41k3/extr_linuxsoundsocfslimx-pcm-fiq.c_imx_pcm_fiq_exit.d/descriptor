@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function imx_pcm_fiq_exit void | pdev struct platform_device *

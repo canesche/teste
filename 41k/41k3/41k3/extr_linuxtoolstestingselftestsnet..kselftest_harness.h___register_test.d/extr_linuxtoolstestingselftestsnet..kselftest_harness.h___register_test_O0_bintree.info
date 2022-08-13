@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxtoolstestingselftestsnet..kselftest_harness.h___register_test.d/extr_linuxtoolstestingselftestsnet..kselftest_harness.h___register_test_O0::__register_test(66)"
+  }
+]

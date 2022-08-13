@@ -1,0 +1,1 @@
+function viafb_get_gamma_support_state void | bpp int | support_state unsigned int *

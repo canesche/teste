@@ -1,0 +1,2 @@
+struct nfs4_sequence_res | sr_status int | sr_status_flags long | sr_timestamp int 
+function nfs41_sequence_res_init void | res struct nfs4_sequence_res *

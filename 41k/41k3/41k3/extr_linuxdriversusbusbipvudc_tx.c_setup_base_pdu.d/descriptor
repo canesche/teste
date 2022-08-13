@@ -1,0 +1,2 @@
+struct usbip_header_basic | direction long | ep long | devid long | seqnum void * | command void * 
+function setup_base_pdu void | base struct usbip_header_basic * | command void * | seqnum void *

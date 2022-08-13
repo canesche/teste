@@ -1,0 +1,2 @@
+struct irq_data | dummy int 
+function noop_ret unsigned int | data struct irq_data *

@@ -1,0 +1,2 @@
+struct bpf_map | dummy int 
+function sock_map_lookup void * | map struct bpf_map * | key void *

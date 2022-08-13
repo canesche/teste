@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function check_acl int | inode struct inode * | mask int

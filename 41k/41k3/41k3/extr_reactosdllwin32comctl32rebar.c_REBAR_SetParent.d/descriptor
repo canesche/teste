@@ -1,0 +1,2 @@
+struct TYPE_3__ | hwndNotify int 
+function REBAR_SetParent int | infoPtr struct TYPE_3__ * | parent int

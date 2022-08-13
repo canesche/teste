@@ -1,0 +1,2 @@
+struct tipc_group | portid int | loopback int 
+function tipc_group_exclude int | grp struct tipc_group *

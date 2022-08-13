@@ -1,0 +1,2 @@
+struct snd_compr_stream | direction long 
+function snd_compr_get_poll int | stream struct snd_compr_stream *

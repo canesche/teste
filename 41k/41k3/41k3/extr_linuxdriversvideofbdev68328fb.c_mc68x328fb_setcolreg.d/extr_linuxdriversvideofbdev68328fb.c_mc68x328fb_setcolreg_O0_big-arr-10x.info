@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversvideofbdev68328fb.c_mc68x328fb_setcolreg.d/extr_linuxdriversvideofbdev68328fb.c_mc68x328fb_setcolreg_O0::mc68x328fb_setcolreg(79)"
+  }
+]

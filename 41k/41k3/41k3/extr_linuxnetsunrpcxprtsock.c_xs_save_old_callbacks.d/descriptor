@@ -1,0 +1,3 @@
+struct sock_xprt | old_error_report int | old_write_space int | old_state_change int | old_data_ready int 
+struct sock | sk_error_report int | sk_write_space int | sk_state_change int | sk_data_ready int 
+function xs_save_old_callbacks void | transport struct sock_xprt * | sk struct sock *

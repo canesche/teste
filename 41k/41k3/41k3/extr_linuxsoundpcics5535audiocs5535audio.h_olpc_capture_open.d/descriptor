@@ -1,0 +1,2 @@
+struct snd_ac97 | dummy int 
+function olpc_capture_open void | ac97 struct snd_ac97 *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_obs-studiopluginsobs-x264obs-x264.c_get_x264_colorspace_name.d/extr_obs-studiopluginsobs-x264obs-x264.c_get_x264_colorspace_name_O0::get_x264_colorspace_name(62)"
+  }
+]

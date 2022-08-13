@@ -1,0 +1,3 @@
+struct TYPE_2__ | size unsigned int | watermark unsigned int 
+struct rte_ring | prod struct TYPE_2__ 
+function rte_ring_set_water_mark int | r struct rte_ring * | count unsigned int

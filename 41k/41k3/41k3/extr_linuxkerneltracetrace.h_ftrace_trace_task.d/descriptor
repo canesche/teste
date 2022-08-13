@@ -1,0 +1,2 @@
+struct trace_array | dummy int 
+function ftrace_trace_task int | tr struct trace_array *

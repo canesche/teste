@@ -1,0 +1,2 @@
+struct smbd_request | packet long 
+function smbd_request_payload void * | request struct smbd_request *

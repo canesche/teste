@@ -1,0 +1,4 @@
+struct TYPE_5__ | tiff_magic long 
+struct TYPE_6__ | common struct TYPE_5__ 
+struct TYPE_7__ | tif_header struct TYPE_6__ 
+function TIFFIsBigEndian int | tif struct TYPE_7__ *

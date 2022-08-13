@@ -1,0 +1,2 @@
+struct pnfs_block_extent | be_length long | be_f_offset long 
+function ext_f_end long | be struct pnfs_block_extent *

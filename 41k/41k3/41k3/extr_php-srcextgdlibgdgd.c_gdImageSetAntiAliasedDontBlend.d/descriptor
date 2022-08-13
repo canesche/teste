@@ -1,0 +1,2 @@
+struct TYPE_3__ | AA int | AA_color int | AA_dont_blend int 
+function gdImageSetAntiAliasedDontBlend void | im struct TYPE_3__ * | c int | dont_blend int

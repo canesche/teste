@@ -1,0 +1,2 @@
+struct cred | dummy int 
+function set_cred_subscribers void | cred struct cred * | n int

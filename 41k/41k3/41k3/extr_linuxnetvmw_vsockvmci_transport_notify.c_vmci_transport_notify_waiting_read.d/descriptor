@@ -1,0 +1,2 @@
+struct vsock_sock | dummy int 
+function vmci_transport_notify_waiting_read int | vsk struct vsock_sock *

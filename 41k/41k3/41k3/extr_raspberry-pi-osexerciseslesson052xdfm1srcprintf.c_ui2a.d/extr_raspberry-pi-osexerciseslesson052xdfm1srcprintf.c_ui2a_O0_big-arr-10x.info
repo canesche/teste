@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 62,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 107,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_raspberry-pi-osexerciseslesson052xdfm1srcprintf.c_ui2a.d/extr_raspberry-pi-osexerciseslesson052xdfm1srcprintf.c_ui2a_O0::ui2a(60)"
+  }
+]

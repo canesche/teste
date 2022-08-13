@@ -1,0 +1,2 @@
+struct sfire_chip | dummy int 
+function usb6fire_control_abort void | chip struct sfire_chip *

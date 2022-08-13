@@ -1,0 +1,2 @@
+struct dss_lcd_mgr_config | video_port_width int 
+function dss_ovl_use_replication int | config struct dss_lcd_mgr_config | mode enum omap_color_mode

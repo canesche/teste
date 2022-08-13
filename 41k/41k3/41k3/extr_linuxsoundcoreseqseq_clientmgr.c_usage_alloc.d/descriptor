@@ -1,0 +1,2 @@
+struct snd_seq_usage | cur long | peak long 
+function usage_alloc void | res struct snd_seq_usage * | num int

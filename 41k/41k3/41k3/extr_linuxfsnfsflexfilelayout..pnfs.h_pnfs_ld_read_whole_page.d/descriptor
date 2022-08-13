@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function pnfs_ld_read_whole_page int | inode struct inode *

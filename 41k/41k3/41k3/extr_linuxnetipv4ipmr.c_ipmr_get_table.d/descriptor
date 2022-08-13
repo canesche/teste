@@ -1,0 +1,4 @@
+struct TYPE_2__ | mrt struct mr_table * 
+struct net | ipv4 struct TYPE_2__ 
+struct mr_table | dummy int 
+function ipmr_get_table struct mr_table * | net struct net * | id int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | type int | result_len int 
+function UI_get_result_string_length int | uis struct TYPE_3__ *

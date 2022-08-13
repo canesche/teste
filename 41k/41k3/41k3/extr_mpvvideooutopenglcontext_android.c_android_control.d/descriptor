@@ -1,0 +1,2 @@
+struct ra_ctx | dummy int 
+function android_control int | ctx struct ra_ctx * | events int * | request int | arg void *

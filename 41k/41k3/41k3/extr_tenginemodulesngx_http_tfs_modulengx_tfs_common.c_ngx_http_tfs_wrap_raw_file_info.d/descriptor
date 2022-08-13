@@ -1,0 +1,3 @@
+struct TYPE_5__ | crc int | flag int | create_time int | modify_time int | u_size int | size int | offset int | id int 
+struct TYPE_6__ | crc int | flag int | create_time int | modify_time int | u_size int | size int | offset int | id int 
+function ngx_http_tfs_wrap_raw_file_info void | file_info struct TYPE_6__ * | file_stat struct TYPE_5__ *

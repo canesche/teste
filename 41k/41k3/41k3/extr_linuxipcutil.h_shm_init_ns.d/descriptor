@@ -1,0 +1,2 @@
+struct ipc_namespace | dummy int 
+function shm_init_ns void | ns struct ipc_namespace *

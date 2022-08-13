@@ -1,0 +1,2 @@
+struct vm_fault | dummy int 
+function wp_huge_pud int | vmf struct vm_fault * | orig_pud int

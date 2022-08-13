@@ -1,0 +1,2 @@
+struct wined3d_device | dummy int 
+function none_free void | device struct wined3d_device *

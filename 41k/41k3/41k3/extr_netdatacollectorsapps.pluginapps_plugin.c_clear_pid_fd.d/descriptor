@@ -1,0 +1,2 @@
+struct pid_fd | cache_iterations_reset long | cache_iterations_counter long | inode long | link_hash long | fd long 
+function clear_pid_fd void | pfd struct pid_fd *

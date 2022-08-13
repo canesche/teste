@@ -1,0 +1,2 @@
+struct wiphy | regulatory_flags int 
+function wiphy_strict_alpha2_regd int | wiphy struct wiphy *

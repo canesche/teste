@@ -1,0 +1,2 @@
+struct timeval | tv_sec int | tv_usec int 
+function php_tvtoto int | timeouttv struct timeval *

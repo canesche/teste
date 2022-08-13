@@ -1,0 +1,2 @@
+struct nfs_server | caps int 
+function nfs4_map_atomic_open_claim enum open_claim_type4 | server struct nfs_server * | claim enum open_claim_type4

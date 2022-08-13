@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int 
+function getClientType int | c struct TYPE_3__ *

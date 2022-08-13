@@ -1,0 +1,2 @@
+struct TYPE_3__ | current_loc int | current_loc_valid long 
+function stb_vorbis_get_sample_offset int | f struct TYPE_3__ *

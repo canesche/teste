@@ -1,0 +1,2 @@
+struct aperture | base long | size long 
+function apertures_overlap int | gen struct aperture * | hw struct aperture *

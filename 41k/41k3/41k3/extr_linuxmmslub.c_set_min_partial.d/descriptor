@@ -1,0 +1,2 @@
+struct kmem_cache | min_partial unsigned long 
+function set_min_partial void | s struct kmem_cache * | min unsigned long

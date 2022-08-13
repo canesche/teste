@@ -1,0 +1,2 @@
+struct device | dummy int 
+function tscs454_volatile int | dev struct device * | reg unsigned int

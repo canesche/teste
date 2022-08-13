@@ -1,0 +1,2 @@
+struct TYPE_3__ | num_write int 
+function BIO_number_written int | bio struct TYPE_3__ *

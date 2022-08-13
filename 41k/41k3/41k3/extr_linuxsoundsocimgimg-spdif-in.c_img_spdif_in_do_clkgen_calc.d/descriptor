@@ -1,0 +1,1 @@
+function img_spdif_in_do_clkgen_calc int | rate unsigned int | pnom unsigned int * | phld unsigned int * | clk_rate unsigned long

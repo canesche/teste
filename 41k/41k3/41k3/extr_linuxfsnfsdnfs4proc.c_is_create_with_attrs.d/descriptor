@@ -1,0 +1,2 @@
+struct nfsd4_open | op_create long | op_createmode long 
+function is_create_with_attrs int | open struct nfsd4_open *

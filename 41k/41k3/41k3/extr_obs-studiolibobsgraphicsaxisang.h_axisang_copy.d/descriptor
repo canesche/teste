@@ -1,0 +1,2 @@
+struct axisang | w int | z int | y int | x int 
+function axisang_copy void | dst struct axisang * | aa struct axisang *

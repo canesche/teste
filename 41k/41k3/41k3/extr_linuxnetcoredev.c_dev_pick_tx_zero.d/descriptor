@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct net_device | dummy int 
+function dev_pick_tx_zero int | dev struct net_device * | skb struct sk_buff * | sb_dev struct net_device * | fallback int

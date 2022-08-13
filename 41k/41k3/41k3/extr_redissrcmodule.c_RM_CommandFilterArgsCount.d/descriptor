@@ -1,0 +1,2 @@
+struct TYPE_3__ | argc int 
+function RM_CommandFilterArgsCount int | fctx struct TYPE_3__ *

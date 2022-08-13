@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_tmuxscreen-redraw.c_screen_redraw_cell_border1.d/extr_tmuxscreen-redraw.c_screen_redraw_cell_border1_O0::screen_redraw_cell_border1(63)"
+  }
+]

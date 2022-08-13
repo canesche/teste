@@ -1,0 +1,3 @@
+struct TYPE_2__ | protocol int 
+struct nfs_parsed_mount_data | nfs_server struct TYPE_2__ 
+function nfs_validate_transport_protocol void | mnt struct nfs_parsed_mount_data *

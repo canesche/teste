@@ -1,0 +1,2 @@
+struct us_data | subclass int | protocol_name char * | proto_handler void * | max_lun int 
+function get_protocol void | us struct us_data *

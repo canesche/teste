@@ -1,0 +1,2 @@
+struct media_frames_per_second | numerator double | denominator long 
+function media_frames_per_second_to_frame_interval double | fps struct media_frames_per_second

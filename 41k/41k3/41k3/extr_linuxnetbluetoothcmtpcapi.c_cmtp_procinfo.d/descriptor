@@ -1,0 +1,2 @@
+struct capi_ctr | dummy int 
+function cmtp_procinfo char * | ctrl struct capi_ctr *

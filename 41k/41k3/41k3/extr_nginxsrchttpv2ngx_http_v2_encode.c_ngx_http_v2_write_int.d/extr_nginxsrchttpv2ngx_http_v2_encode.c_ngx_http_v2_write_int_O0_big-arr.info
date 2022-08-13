@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_nginxsrchttpv2ngx_http_v2_encode.c_ngx_http_v2_write_int.d/extr_nginxsrchttpv2ngx_http_v2_encode.c_ngx_http_v2_write_int_O0::ngx_http_v2_write_int(63)"
+  }
+]

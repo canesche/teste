@@ -1,0 +1,3 @@
+struct super_block | s_blocksize int 
+struct ocfs2_local_disk_dqblk | dummy int 
+function ol_quota_entries_per_block unsigned int | sb struct super_block *

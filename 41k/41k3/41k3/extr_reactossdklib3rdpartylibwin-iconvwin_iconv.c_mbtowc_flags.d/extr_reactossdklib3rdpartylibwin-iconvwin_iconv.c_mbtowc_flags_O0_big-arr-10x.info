@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 24,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactossdklib3rdpartylibwin-iconvwin_iconv.c_mbtowc_flags.d/extr_reactossdklib3rdpartylibwin-iconvwin_iconv.c_mbtowc_flags_O0::mbtowc_flags(62)"
+  }
+]

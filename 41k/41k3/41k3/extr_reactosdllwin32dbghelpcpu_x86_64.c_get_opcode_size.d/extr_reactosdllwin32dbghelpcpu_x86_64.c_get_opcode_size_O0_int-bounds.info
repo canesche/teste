@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdllwin32dbghelpcpu_x86_64.c_get_opcode_size.d/extr_reactosdllwin32dbghelpcpu_x86_64.c_get_opcode_size_O0::get_opcode_size(68)"
+  }
+]

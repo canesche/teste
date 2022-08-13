@@ -1,0 +1,3 @@
+struct file | private_data struct ceph_file_info * 
+struct ceph_file_info | flags int 
+function ceph_ioctl_syncio long | file struct file *

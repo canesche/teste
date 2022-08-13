@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 50,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsnfsclient.c_nfs_server_copy_userdata.d/extr_linuxfsnfsclient.c_nfs_server_copy_userdata_O0::nfs_server_copy_userdata(61)"
+  }
+]

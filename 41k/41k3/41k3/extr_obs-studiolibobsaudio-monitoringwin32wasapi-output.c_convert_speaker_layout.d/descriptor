@@ -1,0 +1,1 @@
+function convert_speaker_layout enum speaker_layout | layout int | channels int

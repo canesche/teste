@@ -1,0 +1,1 @@
+function get_ioinfo_nolock int * | fd int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 94,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundsocshrcaradg.c_rsnd_adg_calculate_rbgx.d/extr_linuxsoundsocshrcaradg.c_rsnd_adg_calculate_rbgx_O0::rsnd_adg_calculate_rbgx(61)"
+  }
+]

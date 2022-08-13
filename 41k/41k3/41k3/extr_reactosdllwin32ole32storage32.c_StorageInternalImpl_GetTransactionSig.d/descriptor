@@ -1,0 +1,1 @@
+function StorageInternalImpl_GetTransactionSig int | base int * | result int * | refresh int

@@ -1,0 +1,3 @@
+struct TYPE_4__ | sb_timedout int 
+struct TYPE_5__ | m_sb struct TYPE_4__ 
+function RTMP_IsTimedout int | r struct TYPE_5__ *

@@ -1,0 +1,3 @@
+struct TYPE_5__ | status int 
+struct TYPE_4__ | state int * 
+function zlib_deflateEnd int | strm struct TYPE_4__ *

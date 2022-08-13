@@ -1,0 +1,3 @@
+struct TYPE_6__ | member_1 int | member_0 int 
+struct TYPE_5__ | l int | s int 
+function mnd_str2c const struct TYPE_6__ | str const struct TYPE_5__

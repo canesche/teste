@@ -1,0 +1,2 @@
+struct ceph_vino | ino int 
+function ceph_vino_to_ino int | vino struct ceph_vino

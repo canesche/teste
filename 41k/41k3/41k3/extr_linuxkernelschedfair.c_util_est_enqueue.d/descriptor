@@ -1,0 +1,3 @@
+struct task_struct | dummy int 
+struct cfs_rq | dummy int 
+function util_est_enqueue void | cfs_rq struct cfs_rq * | p struct task_struct *

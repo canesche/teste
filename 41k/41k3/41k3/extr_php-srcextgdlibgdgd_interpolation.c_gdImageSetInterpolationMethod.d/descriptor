@@ -1,0 +1,2 @@
+struct TYPE_3__ | interpolation_id int | interpolation int * 
+function gdImageSetInterpolationMethod int | im struct TYPE_3__ * | id int

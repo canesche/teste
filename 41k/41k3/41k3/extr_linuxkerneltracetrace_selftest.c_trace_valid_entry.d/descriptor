@@ -1,0 +1,2 @@
+struct trace_entry | type int 
+function trace_valid_entry int | entry struct trace_entry *

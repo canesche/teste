@@ -1,0 +1,4 @@
+struct TYPE_4__ | crtc_mode_ctrl int 
+struct TYPE_3__ | seq_clock_mode int | seq_reset int 
+struct vga_softc | vga_crtc struct TYPE_4__ | vga_seq struct TYPE_3__ 
+function vga_in_reset int | sc struct vga_softc *

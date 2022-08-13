@@ -1,0 +1,1 @@
+function mpihelp_add_n long | res_ptr long * | s1_ptr long * | s2_ptr long * | size int

@@ -1,0 +1,2 @@
+struct sched_entity | dummy int 
+function post_init_entity_util_avg void | se struct sched_entity *

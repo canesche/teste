@@ -1,0 +1,2 @@
+struct buffer_ext | data void * 
+function buffer_ext_addr void * | be struct buffer_ext *

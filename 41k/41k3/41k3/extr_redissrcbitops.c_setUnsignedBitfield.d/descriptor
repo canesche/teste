@@ -1,0 +1,1 @@
+function setUnsignedBitfield void | p unsigned char * | offset long | bits long | value long

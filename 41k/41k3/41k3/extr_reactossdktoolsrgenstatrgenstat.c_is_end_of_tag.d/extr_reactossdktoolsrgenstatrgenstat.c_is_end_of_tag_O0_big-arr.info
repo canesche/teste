@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactossdktoolsrgenstatrgenstat.c_is_end_of_tag.d/extr_reactossdktoolsrgenstatrgenstat.c_is_end_of_tag_O0::is_end_of_tag(61)"
+  }
+]

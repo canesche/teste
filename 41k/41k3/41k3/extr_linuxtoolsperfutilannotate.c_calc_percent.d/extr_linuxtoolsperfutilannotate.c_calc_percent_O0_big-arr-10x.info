@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 73,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 73,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxtoolsperfutilannotate.c_calc_percent.d/extr_linuxtoolsperfutilannotate.c_calc_percent_O0::calc_percent(78)"
+  }
+]

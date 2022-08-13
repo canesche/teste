@@ -1,0 +1,2 @@
+struct intel_pt_pkt | type int 
+function intel_pt_get_tracestop int | packet struct intel_pt_pkt *

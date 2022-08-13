@@ -1,0 +1,2 @@
+struct perf_event_attr | exclude_host int | exclude_guest int | size int 
+function event_attr_init void | attr struct perf_event_attr *

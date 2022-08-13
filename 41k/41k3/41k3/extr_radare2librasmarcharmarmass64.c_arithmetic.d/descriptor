@@ -1,0 +1,3 @@
+struct TYPE_5__ | operands_count int | operands struct TYPE_4__ * 
+struct TYPE_4__ | type int | reg int | reg_type int 
+function arithmetic int | op struct TYPE_5__ * | k int

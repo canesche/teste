@@ -1,0 +1,2 @@
+struct mem_section | section_mem_map int 
+function sparse_early_nid int | section struct mem_section *

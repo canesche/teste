@@ -1,0 +1,1 @@
+function THAtomicCompareAndSwapPtrdiff volatile int | a volatile int * | oldvalue volatile int | newvalue volatile int

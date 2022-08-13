@@ -1,0 +1,2 @@
+struct ceph_fs_client | dummy int 
+function ceph_fs_debugfs_cleanup void | fsc struct ceph_fs_client *

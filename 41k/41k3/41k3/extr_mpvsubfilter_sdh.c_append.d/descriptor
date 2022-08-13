@@ -1,0 +1,3 @@
+struct sd | dummy int 
+struct buffer | pos long | length int | string char * 
+function append int | sd struct sd * | buf struct buffer * | c char

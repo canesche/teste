@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function ocfs2_calc_group_alloc_credits int | sb struct super_block * | cpg unsigned int

@@ -1,0 +1,3 @@
+struct TYPE_5__ | op long | pLeft struct TYPE_4__ * 
+struct TYPE_4__ | op long 
+function sqlite3StringToId void | p struct TYPE_5__ *

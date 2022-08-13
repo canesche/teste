@@ -1,0 +1,2 @@
+struct TCP_Server_Info | dummy int 
+function cifs_wait_mtu_credits int | server struct TCP_Server_Info * | size unsigned int | num unsigned int * | credits unsigned int *

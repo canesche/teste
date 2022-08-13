@@ -1,0 +1,3 @@
+struct in6_addr | dummy int 
+struct fib6_info | dummy int 
+function eafnosupport_ip6_mtu_from_fib6 int | f6i struct fib6_info * | daddr struct in6_addr * | saddr struct in6_addr *

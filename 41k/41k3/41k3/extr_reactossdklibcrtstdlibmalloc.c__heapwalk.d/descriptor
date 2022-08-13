@@ -1,0 +1,2 @@
+struct _heapinfo | dummy int 
+function _heapwalk int | entry struct _heapinfo *

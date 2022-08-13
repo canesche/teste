@@ -1,0 +1,3 @@
+struct posix_acl | dummy int 
+struct inode | dummy int 
+function v9fs_acl_mode int | dir struct inode * | modep int * | dpacl struct posix_acl ** | pacl struct posix_acl **

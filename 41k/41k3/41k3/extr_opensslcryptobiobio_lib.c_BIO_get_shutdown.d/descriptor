@@ -1,0 +1,2 @@
+struct TYPE_3__ | shutdown int 
+function BIO_get_shutdown int | a struct TYPE_3__ *

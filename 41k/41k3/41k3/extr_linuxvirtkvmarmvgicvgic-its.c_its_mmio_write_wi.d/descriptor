@@ -1,0 +1,3 @@
+struct vgic_its | dummy int 
+struct kvm | dummy int 
+function its_mmio_write_wi void | kvm struct kvm * | its struct vgic_its * | addr int | len unsigned int | val unsigned long

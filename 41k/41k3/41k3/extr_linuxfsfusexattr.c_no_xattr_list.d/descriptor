@@ -1,0 +1,2 @@
+struct dentry | dummy int 
+function no_xattr_list int | dentry struct dentry *

@@ -1,0 +1,2 @@
+struct hda_gen_spec | aamix_out_paths long * 
+function has_aamix_out_paths int | spec struct hda_gen_spec *

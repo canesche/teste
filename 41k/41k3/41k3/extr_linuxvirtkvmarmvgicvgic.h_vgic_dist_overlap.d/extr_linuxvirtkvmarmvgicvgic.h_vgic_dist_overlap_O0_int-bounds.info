@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxvirtkvmarmvgicvgic.h_vgic_dist_overlap.d/extr_linuxvirtkvmarmvgicvgic.h_vgic_dist_overlap_O0::vgic_dist_overlap(66)"
+  }
+]

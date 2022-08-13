@@ -1,0 +1,2 @@
+struct usbip_usb_interface | dummy int 
+function usbip_net_pack_usb_interface void | pack int | udev struct usbip_usb_interface *

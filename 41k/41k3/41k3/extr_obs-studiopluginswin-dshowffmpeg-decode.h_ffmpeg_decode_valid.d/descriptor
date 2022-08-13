@@ -1,0 +1,2 @@
+struct ffmpeg_decode | decoder int * 
+function ffmpeg_decode_valid int | decode struct ffmpeg_decode *

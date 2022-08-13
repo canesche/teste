@@ -1,0 +1,3 @@
+struct request_queue | last_merge struct request * 
+struct request | cmd_flags int 
+function req_set_nomerge void | q struct request_queue * | req struct request *

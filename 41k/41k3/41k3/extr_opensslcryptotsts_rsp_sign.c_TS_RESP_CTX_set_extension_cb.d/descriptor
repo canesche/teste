@@ -1,0 +1,2 @@
+struct TYPE_3__ | extension_cb_data void * | extension_cb int 
+function TS_RESP_CTX_set_extension_cb void | ctx struct TYPE_3__ * | cb int | data void *

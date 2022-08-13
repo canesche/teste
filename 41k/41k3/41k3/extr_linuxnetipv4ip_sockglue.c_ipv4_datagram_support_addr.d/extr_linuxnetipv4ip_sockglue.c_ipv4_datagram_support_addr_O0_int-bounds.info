@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetipv4ip_sockglue.c_ipv4_datagram_support_addr.d/extr_linuxnetipv4ip_sockglue.c_ipv4_datagram_support_addr_O0::ipv4_datagram_support_addr(65)"
+  }
+]

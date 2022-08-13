@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 14,
+    phantoms: 11,
+    exit: true,
+    halt: false,
+    edges: 27,
+    static: {
+      instructions: 68,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 68,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactossdklib3rdpartylibxml2xpath.c_xmlXPathCmpNodesExt.d/extr_reactossdklib3rdpartylibxml2xpath.c_xmlXPathCmpNodesExt_O0::xmlXPathCmpNodesExt(70)"
+  }
+]

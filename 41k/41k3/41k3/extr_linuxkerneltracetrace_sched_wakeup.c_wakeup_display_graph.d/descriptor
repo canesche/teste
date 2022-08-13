@@ -1,0 +1,2 @@
+struct trace_array | dummy int 
+function wakeup_display_graph int | tr struct trace_array * | set int

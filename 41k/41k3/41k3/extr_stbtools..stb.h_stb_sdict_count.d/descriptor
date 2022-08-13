@@ -1,0 +1,2 @@
+struct TYPE_3__ | count int 
+function stb_sdict_count int | a struct TYPE_3__ *

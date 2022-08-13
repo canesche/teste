@@ -1,0 +1,4 @@
+struct mp_filter | priv struct chain * 
+struct TYPE_2__ | ao_needs_update int | got_output_eof int 
+struct chain | public struct TYPE_2__ 
+function reset void | f struct mp_filter *

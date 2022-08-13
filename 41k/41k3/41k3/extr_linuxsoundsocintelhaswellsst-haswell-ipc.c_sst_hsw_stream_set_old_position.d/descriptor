@@ -1,0 +1,3 @@
+struct sst_hsw_stream | old_position int 
+struct sst_hsw | dummy int 
+function sst_hsw_stream_set_old_position void | hsw struct sst_hsw * | stream struct sst_hsw_stream * | val int

@@ -1,0 +1,2 @@
+struct TYPE_4__ | natts long | tdhasoid long 
+function tuple_conversion_needed int | indesc struct TYPE_4__ * | outdesc struct TYPE_4__ *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | pledgedSrcSizePlusOne long | streamStage int 
+function ZSTD_CCtx_reset void | cctx struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | size long | head long | data long | sentinel long 
+function ngx_http_lua_log_ringbuf_next_header void * | rb struct TYPE_3__ *

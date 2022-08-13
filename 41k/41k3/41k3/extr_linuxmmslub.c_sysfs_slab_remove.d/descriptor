@@ -1,0 +1,2 @@
+struct kmem_cache | dummy int 
+function sysfs_slab_remove void | s struct kmem_cache *

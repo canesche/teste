@@ -1,0 +1,3 @@
+struct sock | dummy int 
+struct sk_buff | dummy int 
+function apparmor_socket_sock_rcv_skb int | sk struct sock * | skb struct sk_buff *

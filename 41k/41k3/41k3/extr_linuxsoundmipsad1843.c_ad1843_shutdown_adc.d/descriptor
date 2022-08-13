@@ -1,0 +1,2 @@
+struct snd_ad1843 | dummy int 
+function ad1843_shutdown_adc void | ad1843 struct snd_ad1843 *

@@ -1,0 +1,2 @@
+struct vhost_virtqueue | acked_backend_features unsigned long long 
+function vhost_backend_has_feature int | vq struct vhost_virtqueue * | bit int

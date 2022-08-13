@@ -1,0 +1,2 @@
+struct aa_perms | deny int | allow int | audit int | quiet int | kill int | stop int | complain int | cond int | hide int | prompt int 
+function aa_perms_accum_raw void | accum struct aa_perms * | addend struct aa_perms *

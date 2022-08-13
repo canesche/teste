@@ -1,0 +1,2 @@
+struct wined3d_shader | dummy int 
+function shader_arb_precompile void | shader_priv void * | shader struct wined3d_shader *

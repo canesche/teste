@@ -1,0 +1,2 @@
+struct smbd_connection | dummy int 
+function smbd_destroy void | info struct smbd_connection *

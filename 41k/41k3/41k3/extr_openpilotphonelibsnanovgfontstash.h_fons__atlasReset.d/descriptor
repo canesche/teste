@@ -1,0 +1,3 @@
+struct TYPE_5__ | width int | height int | nnodes long | nodes struct TYPE_4__ * 
+struct TYPE_4__ | width short | y long | x long 
+function fons__atlasReset void | atlas struct TYPE_5__ * | w int | h int

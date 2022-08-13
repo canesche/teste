@@ -1,0 +1,3 @@
+struct smc_wr_tx_pend_priv | dummy int 
+struct smc_cdc_tx_pend | conn int * 
+function smc_cdc_tx_dismisser void | tx_pend struct smc_wr_tx_pend_priv *

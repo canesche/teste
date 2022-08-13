@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxkerneltracetrace_kprobe_selftest.c_kprobe_trace_selftest_target.d/extr_linuxkerneltracetrace_kprobe_selftest.c_kprobe_trace_selftest_target_O0::kprobe_trace_selftest_target(60)"
+  }
+]

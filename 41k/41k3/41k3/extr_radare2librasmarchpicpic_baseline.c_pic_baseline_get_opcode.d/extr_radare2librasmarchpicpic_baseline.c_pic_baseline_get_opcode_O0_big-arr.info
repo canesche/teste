@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_radare2librasmarchpicpic_baseline.c_pic_baseline_get_opcode.d/extr_radare2librasmarchpicpic_baseline.c_pic_baseline_get_opcode_O0::pic_baseline_get_opcode(98)"
+  }
+]

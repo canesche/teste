@@ -1,0 +1,2 @@
+struct spinlock | dummy int 
+function spinlock_destroy void | lock struct spinlock *

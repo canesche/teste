@@ -1,0 +1,2 @@
+struct snd_pcm_runtime | rate int | period_size int 
+function period_to_usecs int | runtime struct snd_pcm_runtime *

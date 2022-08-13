@@ -1,0 +1,4 @@
+struct TYPE_4__ | size long 
+struct TYPE_3__ | size long 
+struct graph_v2 | position long | row struct TYPE_4__ | parents struct TYPE_3__ 
+function graph_needs_expansion int | graph struct graph_v2 *

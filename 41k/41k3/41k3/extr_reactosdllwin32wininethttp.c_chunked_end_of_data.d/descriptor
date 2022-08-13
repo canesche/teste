@@ -1,0 +1,2 @@
+struct TYPE_2__ | state int 
+function chunked_end_of_data int | stream int * | req int *

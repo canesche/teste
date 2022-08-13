@@ -1,0 +1,2 @@
+struct sway_switch_binding | type long | state long 
+function binding_switch_compare int | binding_a struct sway_switch_binding * | binding_b struct sway_switch_binding *

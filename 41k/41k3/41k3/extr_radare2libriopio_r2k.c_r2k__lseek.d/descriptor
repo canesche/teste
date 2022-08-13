@@ -1,0 +1,2 @@
+struct TYPE_3__ | off long 
+function r2k__lseek long | io struct TYPE_3__ * | fd int * | offset long | whence int

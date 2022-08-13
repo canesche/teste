@@ -1,0 +1,2 @@
+struct snd_timer_id | card int | device int | subdevice int | dev_sclass int | dev_class int 
+function snd_timer_user_zero_id void | id struct snd_timer_id *

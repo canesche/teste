@@ -1,0 +1,1 @@
+function extract_scp_header void | header unsigned int | target_id unsigned int * | source_id unsigned int * | get_flag unsigned int * | req unsigned int * | device_flag unsigned int * | resp_flag unsigned int * | error_flag unsigned int * | data_size unsigned int *

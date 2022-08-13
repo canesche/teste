@@ -1,0 +1,4 @@
+struct sway_view | executed_criteria struct TYPE_2__ * 
+struct criteria | dummy int 
+struct TYPE_2__ | length int | items struct criteria ** 
+function view_has_executed_criteria int | view struct sway_view * | criteria struct criteria *

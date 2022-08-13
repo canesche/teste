@@ -1,0 +1,2 @@
+struct proc_dir_entry | size int 
+function proc_set_size void | de struct proc_dir_entry * | size int

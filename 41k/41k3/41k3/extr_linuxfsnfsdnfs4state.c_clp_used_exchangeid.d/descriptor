@@ -1,0 +1,2 @@
+struct nfs4_client | cl_exchange_flags long 
+function clp_used_exchangeid int | clp struct nfs4_client *

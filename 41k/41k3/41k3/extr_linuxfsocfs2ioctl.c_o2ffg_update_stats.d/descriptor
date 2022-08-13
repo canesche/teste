@@ -1,0 +1,2 @@
+struct ocfs2_info_freefrag_stats | ffs_max unsigned int | ffs_min unsigned int | ffs_avg unsigned int | ffs_free_chunks_real int 
+function o2ffg_update_stats void | stats struct ocfs2_info_freefrag_stats * | chunksize unsigned int

@@ -1,0 +1,3 @@
+struct rpc_task | dummy int 
+struct inode | dummy int 
+function pnfs_wait_on_layoutreturn int | ino struct inode * | task struct rpc_task *

@@ -1,0 +1,2 @@
+struct msdos_sb_info | max_cluster int 
+function fat_valid_entry int | sbi struct msdos_sb_info * | entry int

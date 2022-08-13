@@ -1,0 +1,2 @@
+struct TYPE_3__ | comp long | sorted long 
+function OPENSSL_sk_set_cmp_func long | sk struct TYPE_3__ * | c long

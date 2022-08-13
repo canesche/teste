@@ -1,0 +1,3 @@
+struct TYPE_2__ | type long 
+struct orangefs_kernel_op_s | upcall struct TYPE_2__ 
+function get_opname_string char * | new_op struct orangefs_kernel_op_s *

@@ -1,0 +1,4 @@
+struct efs_sb_info | fs_start long 
+struct TYPE_4__ | ex_bn long | ex_length long | ex_offset long 
+struct TYPE_5__ | cooked struct TYPE_4__ 
+function efs_extent_check long | ptr struct TYPE_5__ * | block long | sb struct efs_sb_info *

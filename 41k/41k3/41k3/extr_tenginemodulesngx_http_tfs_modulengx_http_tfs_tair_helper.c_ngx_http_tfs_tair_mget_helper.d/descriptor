@@ -1,0 +1,1 @@
+function ngx_http_tfs_tair_mget_helper int | instance int * | pool int * | log int * | kvs int * | callback int | data void *

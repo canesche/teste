@@ -1,0 +1,2 @@
+struct BannerOutput | protocol unsigned int | next struct BannerOutput * 
+function banout_find_proto struct BannerOutput * | banout struct BannerOutput * | proto unsigned int

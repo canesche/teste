@@ -1,0 +1,2 @@
+struct TYPE_3__ | curve_name int 
+function EC_GROUP_set_curve_name void | group struct TYPE_3__ * | nid int

@@ -1,0 +1,3 @@
+struct device_node | dummy int 
+struct clcd_fb | dummy int 
+function versatile_clcd_init_panel int | fb struct clcd_fb * | panel struct device_node *

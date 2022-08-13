@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct batadv_orig_node | dummy int 
+function batadv_bla_is_backbone_gw int | skb struct sk_buff * | orig_node struct batadv_orig_node * | hdr_size int

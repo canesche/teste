@@ -1,0 +1,2 @@
+struct perf_event | dummy int 
+function perf_event_idx_default int | event struct perf_event *

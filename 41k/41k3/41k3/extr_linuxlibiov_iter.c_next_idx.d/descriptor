@@ -1,0 +1,2 @@
+struct pipe_inode_info | buffers int 
+function next_idx int | idx int | pipe struct pipe_inode_info *

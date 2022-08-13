@@ -1,0 +1,2 @@
+struct cfs_rq | dummy int 
+function check_enqueue_throttle void | cfs_rq struct cfs_rq *

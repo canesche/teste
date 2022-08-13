@@ -1,0 +1,2 @@
+struct skl_module_pin | is_dynamic int 
+function skl_tplg_fill_pin_dynamic_val void | mpin struct skl_module_pin * | pin_count int | value int

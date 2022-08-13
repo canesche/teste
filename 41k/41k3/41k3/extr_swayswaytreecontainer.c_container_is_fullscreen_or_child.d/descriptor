@@ -1,0 +1,2 @@
+struct sway_container | parent struct sway_container * | fullscreen_mode long 
+function container_is_fullscreen_or_child int | container struct sway_container *

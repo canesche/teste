@@ -1,0 +1,2 @@
+struct TYPE_3__ | x float | y float 
+function stbtt__add_point void | points struct TYPE_3__ * | n int | x float | y float

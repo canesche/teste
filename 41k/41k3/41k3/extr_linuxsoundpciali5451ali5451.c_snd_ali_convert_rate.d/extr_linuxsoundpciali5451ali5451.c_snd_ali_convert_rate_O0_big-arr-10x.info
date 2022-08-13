@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundpciali5451ali5451.c_snd_ali_convert_rate.d/extr_linuxsoundpciali5451ali5451.c_snd_ali_convert_rate_O0::snd_ali_convert_rate(60)"
+  }
+]

@@ -1,0 +1,2 @@
+struct scsi_device | sector_size unsigned int 
+function logical_to_bytes unsigned int | sdev struct scsi_device * | blocks unsigned int

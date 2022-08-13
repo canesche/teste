@@ -1,0 +1,2 @@
+struct net | dummy int 
+function exp_proc_init int | net struct net *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdllwin32msitable.c_utf2mime.d/extr_reactosdllwin32msitable.c_utf2mime_O0::utf2mime(60)"
+  }
+]

@@ -1,0 +1,2 @@
+struct snd_sh_dac | wakeups_per_second int | rate int 
+function dac_audio_set_rate void | chip struct snd_sh_dac *

@@ -1,0 +1,3 @@
+struct snd_dma_buffer | dummy int 
+struct hda_codec | dummy int 
+function snd_hda_codec_load_dsp_cleanup void | codec struct hda_codec * | dmab struct snd_dma_buffer *

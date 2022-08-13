@@ -1,0 +1,3 @@
+struct file_lock | dummy int 
+struct file | dummy int 
+function simple_nosetlease int | filp struct file * | arg long | flp struct file_lock ** | priv void **

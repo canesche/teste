@@ -1,0 +1,2 @@
+struct TYPE_4__ | p long | x long 
+function pthread_equal int | t1 struct TYPE_4__ | t2 struct TYPE_4__

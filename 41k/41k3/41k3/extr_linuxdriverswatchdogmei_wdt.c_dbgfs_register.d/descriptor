@@ -1,0 +1,2 @@
+struct mei_wdt | dummy int 
+function dbgfs_register int | wdt struct mei_wdt *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags unsigned long 
+function CONF_imodule_set_flags void | md struct TYPE_3__ * | flags unsigned long

@@ -1,0 +1,2 @@
+struct dummy_statfs_t | f_blocks int | f_bfree int | f_bsize int | f_namelen int | f_namemax int 
+function dummy_statfs int | buf struct dummy_statfs_t *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundsocsoc-utils.c_snd_soc_dai_is_dummy.d/extr_linuxsoundsocsoc-utils.c_snd_soc_dai_is_dummy_O0::snd_soc_dai_is_dummy(62)"
+  }
+]

@@ -1,0 +1,2 @@
+struct zspage | class unsigned int | fullness int 
+function set_zspage_mapping void | zspage struct zspage * | class_idx unsigned int | fullness enum fullness_group

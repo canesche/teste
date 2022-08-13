@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function br_sysfs_addbr int | dev struct net_device *

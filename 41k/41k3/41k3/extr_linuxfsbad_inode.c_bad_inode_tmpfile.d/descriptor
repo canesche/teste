@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct dentry | dummy int 
+function bad_inode_tmpfile int | inode struct inode * | dentry struct dentry * | mode int

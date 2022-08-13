@@ -1,0 +1,2 @@
+struct inet6_dev | mc_qrv unsigned long | mc_qi unsigned long | mc_qri unsigned long | mc_v1_seen long 
+function mld_set_v1_mode void | idev struct inet6_dev *

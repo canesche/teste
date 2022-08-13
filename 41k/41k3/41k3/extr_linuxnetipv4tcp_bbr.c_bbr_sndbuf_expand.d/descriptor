@@ -1,0 +1,2 @@
+struct sock | dummy int 
+function bbr_sndbuf_expand int | sk struct sock *

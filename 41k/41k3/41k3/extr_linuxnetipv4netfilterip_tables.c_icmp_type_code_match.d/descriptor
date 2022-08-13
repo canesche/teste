@@ -1,0 +1,1 @@
+function icmp_type_code_match int | test_type int | min_code int | max_code int | type int | code int | invert int

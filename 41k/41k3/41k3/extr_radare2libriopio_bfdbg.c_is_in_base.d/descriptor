@@ -1,0 +1,2 @@
+struct TYPE_3__ | base long | size long 
+function is_in_base int | off long | c struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct rb_node | __rb_parent_color int 
+function is_red int | rb struct rb_node *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | op_arrays_count int 
+function zend_op_array_calc int | call_graph struct TYPE_3__ * | op_array int *

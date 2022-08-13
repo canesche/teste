@@ -1,0 +1,4 @@
+struct snd_soc_tplg_link_config | num_hw_configs int | default_hw_config_id long | hw_config struct snd_soc_tplg_hw_config * 
+struct snd_soc_tplg_hw_config | id long | fmt int | clock_gated int | invert_bclk unsigned char | invert_fsync unsigned char | bclk_master long | fsync_master long 
+struct snd_soc_dai_link | dai_fmt int 
+function set_link_hw_format void | link struct snd_soc_dai_link * | cfg struct snd_soc_tplg_link_config *

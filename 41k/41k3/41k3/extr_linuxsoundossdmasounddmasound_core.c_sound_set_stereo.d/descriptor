@@ -1,0 +1,4 @@
+struct TYPE_5__ | stereo int 
+struct TYPE_4__ | stereo int 
+struct TYPE_6__ | minDev long | dsp struct TYPE_5__ | soft struct TYPE_4__ 
+function sound_set_stereo int | stereo int

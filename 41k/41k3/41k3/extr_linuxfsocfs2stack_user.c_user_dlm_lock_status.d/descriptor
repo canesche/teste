@@ -1,0 +1,3 @@
+struct TYPE_2__ | sb_status int 
+struct ocfs2_dlm_lksb | lksb_fsdlm struct TYPE_2__ 
+function user_dlm_lock_status int | lksb struct ocfs2_dlm_lksb *

@@ -1,0 +1,2 @@
+struct pnfs_block_extent | be_state long | be_device long | be_f_offset long | be_length long | be_v_offset long | be_tag long 
+function ext_can_merge int | be1 struct pnfs_block_extent * | be2 struct pnfs_block_extent *

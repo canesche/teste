@@ -1,0 +1,2 @@
+struct trace_seq | dummy int 
+function process_is_writable_pte unsigned long long | s struct trace_seq * | args unsigned long long *

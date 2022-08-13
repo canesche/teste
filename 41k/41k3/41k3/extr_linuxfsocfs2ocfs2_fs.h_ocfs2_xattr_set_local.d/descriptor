@@ -1,0 +1,2 @@
+struct ocfs2_xattr_entry | xe_type int 
+function ocfs2_xattr_set_local void | xe struct ocfs2_xattr_entry * | local int

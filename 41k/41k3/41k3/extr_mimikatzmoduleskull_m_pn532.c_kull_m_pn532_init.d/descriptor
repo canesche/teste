@@ -1,0 +1,2 @@
+struct TYPE_3__ | descr int | suppdata int | communicator int 
+function kull_m_pn532_init void | communicator int | suppdata int | descr int | comm struct TYPE_3__ *

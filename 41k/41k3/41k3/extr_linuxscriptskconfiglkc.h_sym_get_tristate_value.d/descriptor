@@ -1,0 +1,3 @@
+struct TYPE_2__ | tri int 
+struct symbol | curr struct TYPE_2__ 
+function sym_get_tristate_value int | sym struct symbol *

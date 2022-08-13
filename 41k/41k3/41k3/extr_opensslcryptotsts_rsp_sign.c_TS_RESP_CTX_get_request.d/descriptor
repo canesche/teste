@@ -1,0 +1,2 @@
+struct TYPE_3__ | request int * 
+function TS_RESP_CTX_get_request int * | ctx struct TYPE_3__ *

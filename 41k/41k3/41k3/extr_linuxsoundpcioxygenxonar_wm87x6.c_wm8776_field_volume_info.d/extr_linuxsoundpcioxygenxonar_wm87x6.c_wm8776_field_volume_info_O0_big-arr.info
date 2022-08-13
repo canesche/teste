@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundpcioxygenxonar_wm87x6.c_wm8776_field_volume_info.d/extr_linuxsoundpcioxygenxonar_wm87x6.c_wm8776_field_volume_info_O0::wm8776_field_volume_info(68)"
+  }
+]

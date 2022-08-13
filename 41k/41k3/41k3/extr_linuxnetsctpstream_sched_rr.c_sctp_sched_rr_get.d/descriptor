@@ -1,0 +1,2 @@
+struct sctp_stream | dummy int 
+function sctp_sched_rr_get int | stream struct sctp_stream * | sid int | value int *

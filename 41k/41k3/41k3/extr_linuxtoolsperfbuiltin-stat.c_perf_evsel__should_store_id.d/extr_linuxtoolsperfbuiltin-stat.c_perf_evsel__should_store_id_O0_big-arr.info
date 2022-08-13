@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxtoolsperfbuiltin-stat.c_perf_evsel__should_store_id.d/extr_linuxtoolsperfbuiltin-stat.c_perf_evsel__should_store_id_O0::perf_evsel__should_store_id(65)"
+  }
+]

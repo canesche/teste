@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetdccpfeat.c_dccp_feat_is_valid_sp_val.d/extr_linuxnetdccpfeat.c_dccp_feat_is_valid_sp_val_O0::dccp_feat_is_valid_sp_val(71)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 16,
+    phantoms: 7,
+    exit: true,
+    halt: false,
+    edges: 28,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversvideofbdevi810i810_main.c_i810_init_monspecs.d/extr_linuxdriversvideofbdevi810i810_main.c_i810_init_monspecs_O0::i810_init_monspecs(72)"
+  }
+]

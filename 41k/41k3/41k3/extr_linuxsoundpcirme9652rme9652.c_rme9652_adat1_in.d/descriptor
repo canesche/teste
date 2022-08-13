@@ -1,0 +1,2 @@
+struct snd_rme9652 | control_register int 
+function rme9652_adat1_in unsigned int | rme9652 struct snd_rme9652 *

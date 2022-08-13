@@ -1,0 +1,3 @@
+struct hws_trailer_entry | bsdes unsigned short | dsdes unsigned short 
+struct hws_basic_entry | def int 
+function s390_cpumsf_validate int | machine_type int | buf unsigned char * | len unsigned long | bsdes unsigned short * | dsdes unsigned short *

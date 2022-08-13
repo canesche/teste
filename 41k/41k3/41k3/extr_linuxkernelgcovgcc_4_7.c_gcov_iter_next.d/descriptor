@@ -1,0 +1,2 @@
+struct gcov_iterator | pos long | size long 
+function gcov_iter_next int | iter struct gcov_iterator *

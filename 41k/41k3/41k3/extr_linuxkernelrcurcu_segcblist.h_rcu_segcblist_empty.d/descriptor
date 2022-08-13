@@ -1,0 +1,2 @@
+struct rcu_segcblist | head int 
+function rcu_segcblist_empty int | rsclp struct rcu_segcblist *

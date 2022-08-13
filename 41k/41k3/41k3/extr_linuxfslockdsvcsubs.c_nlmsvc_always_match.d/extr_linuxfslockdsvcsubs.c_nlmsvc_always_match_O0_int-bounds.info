@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfslockdsvcsubs.c_nlmsvc_always_match.d/extr_linuxfslockdsvcsubs.c_nlmsvc_always_match_O0::nlmsvc_always_match(62)"
+  }
+]

@@ -1,0 +1,1 @@
+function _sys_read int | hFile int | pBuffer unsigned char * | NumBytes unsigned int | Mode int

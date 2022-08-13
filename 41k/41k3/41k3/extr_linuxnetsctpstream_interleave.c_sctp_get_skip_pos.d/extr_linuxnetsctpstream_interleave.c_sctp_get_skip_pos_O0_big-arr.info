@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 3840,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetsctpstream_interleave.c_sctp_get_skip_pos.d/extr_linuxnetsctpstream_interleave.c_sctp_get_skip_pos_O0::sctp_get_skip_pos(64)"
+  }
+]

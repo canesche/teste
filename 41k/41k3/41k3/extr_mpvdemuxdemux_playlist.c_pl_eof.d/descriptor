@@ -1,0 +1,3 @@
+struct pl_parser | s struct TYPE_2__ * | error long 
+struct TYPE_2__ | eof long 
+function pl_eof int | p struct pl_parser *

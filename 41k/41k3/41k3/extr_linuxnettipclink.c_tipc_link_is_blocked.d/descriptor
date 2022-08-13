@@ -1,0 +1,2 @@
+struct tipc_link | state int 
+function tipc_link_is_blocked int | l struct tipc_link *

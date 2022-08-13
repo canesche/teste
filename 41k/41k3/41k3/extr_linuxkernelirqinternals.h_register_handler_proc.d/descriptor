@@ -1,0 +1,2 @@
+struct irqaction | dummy int 
+function register_handler_proc void | irq unsigned int | action struct irqaction *

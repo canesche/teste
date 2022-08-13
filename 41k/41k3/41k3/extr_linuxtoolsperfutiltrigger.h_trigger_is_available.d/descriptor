@@ -1,0 +1,2 @@
+struct trigger | state long 
+function trigger_is_available int | t struct trigger *

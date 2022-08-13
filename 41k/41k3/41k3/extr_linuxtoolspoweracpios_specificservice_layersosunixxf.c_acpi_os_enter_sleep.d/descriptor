@@ -1,0 +1,1 @@
+function acpi_os_enter_sleep int | sleep_state int | rega_value int | regb_value int

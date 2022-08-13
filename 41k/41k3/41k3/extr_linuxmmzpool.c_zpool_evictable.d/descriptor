@@ -1,0 +1,2 @@
+struct zpool | evictable int 
+function zpool_evictable int | zpool struct zpool *

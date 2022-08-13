@@ -1,0 +1,3 @@
+struct snd_soc_dai | dummy int 
+struct snd_pcm_substream | stream int 
+function pxa2xx_i2s_trigger int | substream struct snd_pcm_substream * | cmd int | dai struct snd_soc_dai *

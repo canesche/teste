@@ -1,0 +1,3 @@
+struct perf_evsel | cpus struct cpu_map * 
+struct cpu_map | dummy int 
+function perf_evsel__cpus struct cpu_map * | evsel struct perf_evsel *

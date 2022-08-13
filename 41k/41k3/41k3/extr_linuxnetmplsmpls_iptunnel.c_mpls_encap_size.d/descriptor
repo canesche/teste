@@ -1,0 +1,3 @@
+struct mpls_shim_hdr | dummy int 
+struct mpls_iptunnel_encap | labels int 
+function mpls_encap_size unsigned int | en struct mpls_iptunnel_encap *

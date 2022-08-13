@@ -1,0 +1,2 @@
+struct clocksource | flags int 
+function clocksource_enqueue_watchdog void | cs struct clocksource *

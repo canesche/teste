@@ -1,0 +1,2 @@
+struct ocfs2_protocol_version | pv_major long | pv_minor long 
+function fs_protocol_compare int | existing struct ocfs2_protocol_version * | request struct ocfs2_protocol_version *

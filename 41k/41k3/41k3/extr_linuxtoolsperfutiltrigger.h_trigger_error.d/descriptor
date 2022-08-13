@@ -1,0 +1,2 @@
+struct trigger | state int 
+function trigger_error void | t struct trigger *

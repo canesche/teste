@@ -1,0 +1,2 @@
+struct smb_hdr | WordCount int 
+function BCC void * | smb struct smb_hdr *

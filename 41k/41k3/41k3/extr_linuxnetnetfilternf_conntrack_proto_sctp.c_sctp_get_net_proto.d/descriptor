@@ -1,0 +1,6 @@
+struct nf_proto_net | dummy int 
+struct TYPE_4__ | pn struct nf_proto_net 
+struct TYPE_5__ | sctp struct TYPE_4__ 
+struct TYPE_6__ | nf_ct_proto struct TYPE_5__ 
+struct net | ct struct TYPE_6__ 
+function sctp_get_net_proto struct nf_proto_net * | net struct net *

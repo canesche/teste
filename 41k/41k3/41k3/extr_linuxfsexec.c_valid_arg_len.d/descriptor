@@ -1,0 +1,2 @@
+struct linux_binprm | p long 
+function valid_arg_len int | bprm struct linux_binprm * | len long

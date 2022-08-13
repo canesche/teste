@@ -1,0 +1,2 @@
+struct TYPE_3__ | type int | method long | flags long | upgrade long | nread long | state int 
+function php_http_parser_init void | parser struct TYPE_3__ * | t enum php_http_parser_type

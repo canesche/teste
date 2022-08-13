@@ -1,0 +1,5 @@
+struct mp_user_filter | last_in_pts long | last_out_pts long 
+struct mp_output_chain | f struct TYPE_2__ * 
+struct chain | num_all_filters int | all_filters struct mp_user_filter ** 
+struct TYPE_2__ | priv struct chain * 
+function mp_output_get_measured_total_delay double | c struct mp_output_chain *

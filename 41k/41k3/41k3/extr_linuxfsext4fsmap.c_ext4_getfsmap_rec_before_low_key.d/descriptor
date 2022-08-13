@@ -1,0 +1,4 @@
+struct TYPE_2__ | fmr_physical long 
+struct ext4_getfsmap_info | gfi_low struct TYPE_2__ 
+struct ext4_fsmap | fmr_physical long 
+function ext4_getfsmap_rec_before_low_key int | info struct ext4_getfsmap_info * | rec struct ext4_fsmap *

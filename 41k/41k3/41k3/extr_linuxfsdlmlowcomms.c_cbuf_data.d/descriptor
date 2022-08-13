@@ -1,0 +1,2 @@
+struct cbuf | base int | len int | mask int 
+function cbuf_data int | cb struct cbuf *

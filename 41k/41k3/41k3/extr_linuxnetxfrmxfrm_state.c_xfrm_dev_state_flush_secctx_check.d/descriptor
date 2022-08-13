@@ -1,0 +1,3 @@
+struct net_device | dummy int 
+struct net | dummy int 
+function xfrm_dev_state_flush_secctx_check int | net struct net * | dev struct net_device * | task_valid int

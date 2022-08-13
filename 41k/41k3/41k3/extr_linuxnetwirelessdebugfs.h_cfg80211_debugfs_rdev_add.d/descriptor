@@ -1,0 +1,2 @@
+struct cfg80211_registered_device | dummy int 
+function cfg80211_debugfs_rdev_add void | rdev struct cfg80211_registered_device *

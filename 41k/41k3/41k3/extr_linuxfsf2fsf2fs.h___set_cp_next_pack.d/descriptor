@@ -1,0 +1,2 @@
+struct f2fs_sb_info | cur_cp_pack int 
+function __set_cp_next_pack void | sbi struct f2fs_sb_info *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | free_with_arg_f int | alloc_with_arg_f int | alloc_arg int | del_f int | eq_f int | hash_f int 
+function htab_set_functions_ex void | htab struct TYPE_3__ * | hash_f int | eq_f int | del_f int | alloc_arg int | alloc_f int | free_f int

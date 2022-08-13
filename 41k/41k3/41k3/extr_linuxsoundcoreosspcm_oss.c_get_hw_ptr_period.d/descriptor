@@ -1,0 +1,2 @@
+struct snd_pcm_runtime | hw_ptr_interrupt int 
+function get_hw_ptr_period int | runtime struct snd_pcm_runtime *

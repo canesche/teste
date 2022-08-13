@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsnfsnfs4xdr.c_decode_layoutget.d/extr_linuxfsnfsnfs4xdr.c_decode_layoutget_O0::decode_layoutget(64)"
+  }
+]

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function max9860_precious int | dev struct device * | reg unsigned int

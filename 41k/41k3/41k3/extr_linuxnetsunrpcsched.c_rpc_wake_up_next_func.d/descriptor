@@ -1,0 +1,2 @@
+struct rpc_task | dummy int 
+function rpc_wake_up_next_func int | task struct rpc_task * | data void *

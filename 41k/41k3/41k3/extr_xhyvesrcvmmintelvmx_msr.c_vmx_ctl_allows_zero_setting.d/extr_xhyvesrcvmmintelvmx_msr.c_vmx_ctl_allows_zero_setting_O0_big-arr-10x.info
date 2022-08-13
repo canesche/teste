@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_xhyvesrcvmmintelvmx_msr.c_vmx_ctl_allows_zero_setting.d/extr_xhyvesrcvmmintelvmx_msr.c_vmx_ctl_allows_zero_setting_O0::vmx_ctl_allows_zero_setting(64)"
+  }
+]

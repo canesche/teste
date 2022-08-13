@@ -1,0 +1,2 @@
+struct dlm_rsb | res_nodeid int 
+function is_master int | r struct dlm_rsb *

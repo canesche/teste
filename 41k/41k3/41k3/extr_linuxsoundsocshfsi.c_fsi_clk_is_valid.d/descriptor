@@ -1,0 +1,3 @@
+struct TYPE_2__ | rate long | set_rate long 
+struct fsi_priv | clock struct TYPE_2__ 
+function fsi_clk_is_valid int | fsi struct fsi_priv *

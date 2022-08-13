@@ -1,0 +1,2 @@
+struct ip_vs_conn | flags int | control struct ip_vs_conn * 
+function in_persistence int | cp struct ip_vs_conn *

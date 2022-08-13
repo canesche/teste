@@ -1,0 +1,2 @@
+struct tipc_link | window int 
+function tipc_link_window int | l struct tipc_link *

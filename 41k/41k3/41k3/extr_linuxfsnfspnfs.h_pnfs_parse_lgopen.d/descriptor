@@ -1,0 +1,4 @@
+struct nfs_open_context | dummy int 
+struct nfs4_layoutget | dummy int 
+struct inode | dummy int 
+function pnfs_parse_lgopen void | ino struct inode * | lgp struct nfs4_layoutget * | ctx struct nfs_open_context *

@@ -1,0 +1,2 @@
+struct fscache_operation | dummy int 
+function fscache_operation_dummy_cancel void | op struct fscache_operation *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 99,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_mpvdemuxdemux_mkv.c_aac_get_sample_rate_index.d/extr_mpvdemuxdemux_mkv.c_aac_get_sample_rate_index_O0::aac_get_sample_rate_index(61)"
+  }
+]

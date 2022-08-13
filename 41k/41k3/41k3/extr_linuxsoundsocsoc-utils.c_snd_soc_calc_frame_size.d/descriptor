@@ -1,0 +1,1 @@
+function snd_soc_calc_frame_size int | sample_size int | channels int | tdm_slots int

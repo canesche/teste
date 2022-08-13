@@ -1,0 +1,3 @@
+struct TYPE_4__ | szPage int 
+struct TYPE_5__ | hdr struct TYPE_4__ 
+function walPagesize int | pWal struct TYPE_5__ *

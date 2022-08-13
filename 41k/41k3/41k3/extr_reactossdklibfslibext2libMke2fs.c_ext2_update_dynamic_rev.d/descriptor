@@ -1,0 +1,3 @@
+struct TYPE_5__ | ext2_sb struct TYPE_4__ * 
+struct TYPE_4__ | s_rev_level long | s_inode_size int | s_first_ino int 
+function ext2_update_dynamic_rev void | fs struct TYPE_5__ *

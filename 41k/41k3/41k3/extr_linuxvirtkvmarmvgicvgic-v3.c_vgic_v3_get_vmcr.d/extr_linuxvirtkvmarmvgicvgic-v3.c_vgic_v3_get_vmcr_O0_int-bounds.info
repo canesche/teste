@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 72,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 72,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxvirtkvmarmvgicvgic-v3.c_vgic_v3_get_vmcr.d/extr_linuxvirtkvmarmvgicvgic-v3.c_vgic_v3_get_vmcr_O0::vgic_v3_get_vmcr(93)"
+  }
+]

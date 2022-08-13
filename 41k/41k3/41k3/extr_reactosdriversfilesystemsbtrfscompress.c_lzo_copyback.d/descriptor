@@ -1,0 +1,2 @@
+struct TYPE_3__ | outpos unsigned long | outlen int | out int * | error void * 
+function lzo_copyback void | stream struct TYPE_3__ * | back unsigned long | len int

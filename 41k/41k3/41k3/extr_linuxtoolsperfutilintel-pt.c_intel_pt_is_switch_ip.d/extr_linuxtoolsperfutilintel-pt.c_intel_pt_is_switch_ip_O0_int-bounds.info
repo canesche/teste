@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxtoolsperfutilintel-pt.c_intel_pt_is_switch_ip.d/extr_linuxtoolsperfutilintel-pt.c_intel_pt_is_switch_ip_O0::intel_pt_is_switch_ip(68)"
+  }
+]

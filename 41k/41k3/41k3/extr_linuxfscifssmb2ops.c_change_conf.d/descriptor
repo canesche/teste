@@ -1,0 +1,2 @@
+struct TCP_Server_Info | credits int | echo_credits int | oplock_credits int | echoes int | oplocks int 
+function change_conf int | server struct TCP_Server_Info *

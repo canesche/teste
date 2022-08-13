@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function squashfs_xattr_lookup int | sb struct super_block * | index unsigned int | count int * | size unsigned int * | xattr unsigned long long *

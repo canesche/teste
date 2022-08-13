@@ -1,0 +1,2 @@
+struct kbuffer | flags int 
+function do_swap int | kbuf struct kbuffer *

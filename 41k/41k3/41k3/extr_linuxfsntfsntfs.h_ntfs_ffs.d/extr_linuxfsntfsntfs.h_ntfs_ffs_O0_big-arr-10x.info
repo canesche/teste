@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsntfsntfs.h_ntfs_ffs.d/extr_linuxfsntfsntfs.h_ntfs_ffs_O0::ntfs_ffs(60)"
+  }
+]

@@ -1,0 +1,3 @@
+struct TYPE_5__ | comment int | nid int 
+struct TYPE_4__ | comment int | nid int 
+function EC_get_builtin_curves unsigned long | r struct TYPE_4__ * | nitems unsigned long

@@ -1,0 +1,2 @@
+struct ac97_controller | dummy int 
+function ac97_unbound_ctrl_write int | adrv struct ac97_controller * | slot int | reg unsigned short | val unsigned short

@@ -1,0 +1,3 @@
+struct TYPE_2__ | policy_idx_hmask unsigned int 
+struct net | xfrm struct TYPE_2__ 
+function xfrm_byidx_should_resize int | net struct net * | total int

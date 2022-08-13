@@ -1,0 +1,2 @@
+struct kmem_cache | dummy int 
+function cache_random_seq_create int | cachep struct kmem_cache * | count unsigned int | gfp int

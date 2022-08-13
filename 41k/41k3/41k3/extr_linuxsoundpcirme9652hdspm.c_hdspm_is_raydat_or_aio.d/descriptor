@@ -1,0 +1,2 @@
+struct hdspm | io_type long 
+function hdspm_is_raydat_or_aio int | hdspm struct hdspm *

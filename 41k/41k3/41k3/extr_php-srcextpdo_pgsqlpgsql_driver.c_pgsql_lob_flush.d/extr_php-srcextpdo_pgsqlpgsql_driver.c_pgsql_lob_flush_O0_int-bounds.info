@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_php-srcextpdo_pgsqlpgsql_driver.c_pgsql_lob_flush.d/extr_php-srcextpdo_pgsqlpgsql_driver.c_pgsql_lob_flush_O0::pgsql_lob_flush(61)"
+  }
+]

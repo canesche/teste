@@ -1,0 +1,1 @@
+function check_choice void | dir int | val int | found int * | best int * | choice int

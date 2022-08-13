@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 4602,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundisawavefrontwavefront_synth.c_munge_int32.d/extr_linuxsoundisawavefrontwavefront_synth.c_munge_int32_O0::munge_int32(63)"
+  }
+]

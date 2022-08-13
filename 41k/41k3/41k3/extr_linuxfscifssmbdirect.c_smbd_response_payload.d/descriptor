@@ -1,0 +1,2 @@
+struct smbd_response | packet long 
+function smbd_response_payload void * | response struct smbd_response *

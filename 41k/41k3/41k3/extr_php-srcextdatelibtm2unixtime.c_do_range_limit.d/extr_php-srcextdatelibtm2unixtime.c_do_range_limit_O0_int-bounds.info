@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 61,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 61,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_php-srcextdatelibtm2unixtime.c_do_range_limit.d/extr_php-srcextdatelibtm2unixtime.c_do_range_limit_O0::do_range_limit(61)"
+  }
+]

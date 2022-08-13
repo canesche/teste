@@ -1,0 +1,2 @@
+struct kbuffer | curr int | start int 
+function kbuffer_curr_offset int | kbuf struct kbuffer *

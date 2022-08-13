@@ -1,0 +1,2 @@
+struct backlight_device | dummy int 
+function kb3886bl_get_intensity int | bd struct backlight_device *

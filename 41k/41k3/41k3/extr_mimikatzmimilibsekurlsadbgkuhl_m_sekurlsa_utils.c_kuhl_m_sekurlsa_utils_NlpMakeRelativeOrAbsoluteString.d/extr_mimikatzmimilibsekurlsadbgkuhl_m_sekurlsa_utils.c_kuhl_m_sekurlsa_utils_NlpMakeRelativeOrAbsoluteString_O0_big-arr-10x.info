@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_mimikatzmimilibsekurlsadbgkuhl_m_sekurlsa_utils.c_kuhl_m_sekurlsa_utils_NlpMakeRelativeOrAbsoluteString.d/extr_mimikatzmimilibsekurlsadbgkuhl_m_sekurlsa_utils.c_kuhl_m_sekurlsa_utils_NlpMakeRelativeOrAbsoluteString_O0::kuhl_m_sekurlsa_utils_NlpMakeRelativeOrAbsoluteString(67)"
+  }
+]

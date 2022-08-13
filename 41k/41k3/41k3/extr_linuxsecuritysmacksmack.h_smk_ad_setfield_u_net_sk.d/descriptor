@@ -1,0 +1,3 @@
+struct sock | dummy int 
+struct smk_audit_info | dummy int 
+function smk_ad_setfield_u_net_sk void | a struct smk_audit_info * | sk struct sock *

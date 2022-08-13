@@ -1,0 +1,2 @@
+struct wm_adsp_compr | buf int * 
+function wm_adsp_compr_attached int | compr struct wm_adsp_compr *

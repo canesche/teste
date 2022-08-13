@@ -1,0 +1,2 @@
+struct SiS_Private | ChipType long 
+function SiSInitPtr int | SiS_Pr struct SiS_Private *

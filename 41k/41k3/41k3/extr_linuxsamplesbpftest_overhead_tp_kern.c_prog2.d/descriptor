@@ -1,0 +1,2 @@
+struct urandom_read | dummy int 
+function prog2 int | ctx struct urandom_read *

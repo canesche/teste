@@ -1,0 +1,3 @@
+struct sock | dummy int 
+struct rxrpc_call | dummy int 
+function rxrpc_dummy_notify_rx void | sk struct sock * | rxcall struct rxrpc_call * | call_user_ID unsigned long

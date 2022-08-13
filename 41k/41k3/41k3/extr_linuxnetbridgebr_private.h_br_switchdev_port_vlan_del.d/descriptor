@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function br_switchdev_port_vlan_del int | dev struct net_device * | vid int

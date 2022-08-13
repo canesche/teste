@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsubifslpt_commit.c_alloc_lpt_leb.d/extr_linuxfsubifslpt_commit.c_alloc_lpt_leb_O0::alloc_lpt_leb(64)"
+  }
+]

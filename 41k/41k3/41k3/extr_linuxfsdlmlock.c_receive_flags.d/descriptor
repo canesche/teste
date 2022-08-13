@@ -1,0 +1,3 @@
+struct dlm_message | m_flags int | m_sbflags int | m_exflags int 
+struct dlm_lkb | lkb_flags int | lkb_sbflags int | lkb_exflags int 
+function receive_flags void | lkb struct dlm_lkb * | ms struct dlm_message *

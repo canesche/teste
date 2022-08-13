@@ -1,0 +1,2 @@
+struct padata_instance | flags int 
+function __padata_start void | pinst struct padata_instance *

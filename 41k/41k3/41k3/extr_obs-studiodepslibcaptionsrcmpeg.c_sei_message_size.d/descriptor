@@ -1,0 +1,2 @@
+struct _sei_message_t | size unsigned long 
+function sei_message_size unsigned long | msg int *

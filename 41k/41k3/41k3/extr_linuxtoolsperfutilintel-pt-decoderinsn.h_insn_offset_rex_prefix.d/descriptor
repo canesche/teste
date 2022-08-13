@@ -1,0 +1,3 @@
+struct TYPE_2__ | nbytes int 
+struct insn | prefixes struct TYPE_2__ 
+function insn_offset_rex_prefix int | insn struct insn *

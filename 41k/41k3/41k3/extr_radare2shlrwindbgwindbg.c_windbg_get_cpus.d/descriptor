@@ -1,0 +1,2 @@
+struct TYPE_3__ | cpu_count int 
+function windbg_get_cpus int | ctx struct TYPE_3__ *

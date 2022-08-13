@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 8,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_swayswayinputseat.c_seatop_allows_set_cursor.d/extr_swayswayinputseat.c_seatop_allows_set_cursor_O0::seatop_allows_set_cursor(62)"
+  }
+]

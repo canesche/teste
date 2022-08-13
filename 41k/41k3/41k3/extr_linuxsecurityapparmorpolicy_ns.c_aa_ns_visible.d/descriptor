@@ -1,0 +1,2 @@
+struct aa_ns | parent struct aa_ns * 
+function aa_ns_visible int | curr struct aa_ns * | view struct aa_ns * | subns int

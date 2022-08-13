@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 6,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 56,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 95,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_redissrcsds.c_sdsull2str.d/extr_redissrcsds.c_sdsull2str_O0::sdsull2str(59)"
+  }
+]

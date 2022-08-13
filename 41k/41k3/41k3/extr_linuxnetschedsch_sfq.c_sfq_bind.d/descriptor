@@ -1,0 +1,2 @@
+struct Qdisc | flags int 
+function sfq_bind unsigned long | sch struct Qdisc * | parent unsigned long | classid int

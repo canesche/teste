@@ -1,0 +1,2 @@
+struct xfrm_sec_ctx | ctx_doi long | ctx_alg long 
+function selinux_authorizable_ctx int | ctx struct xfrm_sec_ctx *

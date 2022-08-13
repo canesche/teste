@@ -1,0 +1,4 @@
+struct TYPE_2__ | s_addr int 
+struct sockaddr_in | sin_addr struct TYPE_2__ 
+struct sockaddr | dummy int 
+function sk_extract_addr int | addr struct sockaddr *

@@ -1,0 +1,3 @@
+struct vlapic | esr_pending long | apic_page struct LAPIC * 
+struct LAPIC | esr long 
+function vlapic_esr_write_handler void | vlapic struct vlapic *

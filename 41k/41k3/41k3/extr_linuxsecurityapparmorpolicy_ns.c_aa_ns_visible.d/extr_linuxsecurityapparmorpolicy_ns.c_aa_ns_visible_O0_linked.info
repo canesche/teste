@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 110017,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsecurityapparmorpolicy_ns.c_aa_ns_visible.d/extr_linuxsecurityapparmorpolicy_ns.c_aa_ns_visible_O0::aa_ns_visible(60)"
+  }
+]

@@ -1,0 +1,2 @@
+struct mg_connection | flags int | sock int 
+function mg_null_if_add_conn void | c struct mg_connection *

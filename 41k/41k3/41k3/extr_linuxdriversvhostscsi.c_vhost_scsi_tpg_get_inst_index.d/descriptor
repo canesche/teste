@@ -1,0 +1,2 @@
+struct se_portal_group | dummy int 
+function vhost_scsi_tpg_get_inst_index int | se_tpg struct se_portal_group *

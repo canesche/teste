@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function check_chain_key void | curr struct task_struct *

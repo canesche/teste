@@ -1,0 +1,2 @@
+struct visorchannel | nbytes int 
+function visorchannel_get_nbytes int | channel struct visorchannel *

@@ -1,0 +1,2 @@
+struct mem_cgroup | dummy int 
+function mem_cgroup_select_victim_node int | memcg struct mem_cgroup *

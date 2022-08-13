@@ -1,0 +1,3 @@
+struct TYPE_2__ | endOfSearch int 
+struct cifsFileInfo | invalidHandle int | srch_inf struct TYPE_2__ 
+function cifs_dir_needs_close int | cfile struct cifsFileInfo *

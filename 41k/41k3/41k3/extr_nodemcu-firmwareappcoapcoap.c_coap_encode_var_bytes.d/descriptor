@@ -1,0 +1,1 @@
+function coap_encode_var_bytes unsigned int | buf unsigned char * | val unsigned int

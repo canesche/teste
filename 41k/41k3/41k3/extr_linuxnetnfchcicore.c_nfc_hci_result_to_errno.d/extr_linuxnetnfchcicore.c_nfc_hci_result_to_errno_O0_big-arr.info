@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetnfchcicore.c_nfc_hci_result_to_errno.d/extr_linuxnetnfchcicore.c_nfc_hci_result_to_errno_O0::nfc_hci_result_to_errno(66)"
+  }
+]

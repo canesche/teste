@@ -1,0 +1,2 @@
+struct Qdisc | dummy int 
+function sfb_bind unsigned long | sch struct Qdisc * | parent unsigned long | classid int

@@ -1,0 +1,2 @@
+struct sway_view | type int 
+function view_get_shell const char * | view struct sway_view *

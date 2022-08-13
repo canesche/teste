@@ -1,0 +1,2 @@
+struct page | dummy int 
+function destroy_compound_gigantic_page void | page struct page * | order unsigned int

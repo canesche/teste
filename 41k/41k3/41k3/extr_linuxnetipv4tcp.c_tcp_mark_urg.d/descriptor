@@ -1,0 +1,2 @@
+struct tcp_sock | write_seq int | snd_up int 
+function tcp_mark_urg void | tp struct tcp_sock * | flags int

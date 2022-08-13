@@ -1,0 +1,2 @@
+struct btrfs_bio | map_type int | num_stripes long 
+function scrub_nr_raid_mirrors int | bbio struct btrfs_bio *

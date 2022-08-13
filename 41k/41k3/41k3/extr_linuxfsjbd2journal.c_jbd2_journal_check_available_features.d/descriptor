@@ -1,0 +1,2 @@
+struct TYPE_3__ | j_format_version int 
+function jbd2_journal_check_available_features int | journal struct TYPE_3__ * | compat unsigned long | ro unsigned long | incompat unsigned long

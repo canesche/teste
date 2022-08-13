@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function finish_task void | prev struct task_struct *

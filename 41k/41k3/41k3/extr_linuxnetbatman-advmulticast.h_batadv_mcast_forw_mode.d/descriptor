@@ -1,0 +1,4 @@
+struct sk_buff | dummy int 
+struct batadv_priv | dummy int 
+struct batadv_orig_node | dummy int 
+function batadv_mcast_forw_mode enum batadv_forw_mode | bat_priv struct batadv_priv * | skb struct sk_buff * | mcast_single_orig struct batadv_orig_node **

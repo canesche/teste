@@ -1,0 +1,2 @@
+struct ext4_fsmap | fmr_device long | fmr_physical long | fmr_owner long 
+function ext4_getfsmap_check_keys int | low_key struct ext4_fsmap * | high_key struct ext4_fsmap *

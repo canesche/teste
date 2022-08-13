@@ -1,0 +1,2 @@
+struct array_cache | limit int | batchcount int | touched long | avail long 
+function init_arraycache void | ac struct array_cache * | limit int | batch int

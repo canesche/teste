@@ -1,0 +1,2 @@
+struct mid_q_entry | dummy int 
+function cifs_get_credits unsigned int | mid struct mid_q_entry *

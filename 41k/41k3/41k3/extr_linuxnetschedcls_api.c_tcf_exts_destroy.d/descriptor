@@ -1,0 +1,2 @@
+struct tcf_exts | dummy int 
+function tcf_exts_destroy void | exts struct tcf_exts *

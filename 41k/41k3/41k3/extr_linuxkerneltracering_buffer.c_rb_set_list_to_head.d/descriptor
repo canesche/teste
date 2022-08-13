@@ -1,0 +1,3 @@
+struct ring_buffer_per_cpu | dummy int 
+struct list_head | next int 
+function rb_set_list_to_head void | cpu_buffer struct ring_buffer_per_cpu * | list struct list_head *

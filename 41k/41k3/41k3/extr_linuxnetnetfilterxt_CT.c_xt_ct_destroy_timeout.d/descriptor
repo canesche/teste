@@ -1,0 +1,2 @@
+struct nf_conn | dummy int 
+function xt_ct_destroy_timeout void | ct struct nf_conn *

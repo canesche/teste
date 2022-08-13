@@ -1,0 +1,2 @@
+struct target | per_thread long | system_wide long 
+function target__has_per_thread int | target struct target *

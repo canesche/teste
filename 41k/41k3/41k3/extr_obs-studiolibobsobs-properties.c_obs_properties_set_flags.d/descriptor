@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int 
+function obs_properties_set_flags void | props struct TYPE_3__ * | flags int

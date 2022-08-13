@@ -1,0 +1,3 @@
+struct sway_node | type long | sway_container struct TYPE_2__ * 
+struct TYPE_2__ | view long 
+function node_is_view int | node struct sway_node *

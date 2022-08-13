@@ -1,0 +1,2 @@
+struct ORANGEFS_sys_attr_s | perms int 
+function orangefs_inode_perms int | attrs struct ORANGEFS_sys_attr_s *

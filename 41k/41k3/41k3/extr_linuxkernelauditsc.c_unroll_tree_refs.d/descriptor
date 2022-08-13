@@ -1,0 +1,3 @@
+struct audit_tree_refs | dummy int 
+struct audit_context | dummy int 
+function unroll_tree_refs void | ctx struct audit_context * | p struct audit_tree_refs * | count int

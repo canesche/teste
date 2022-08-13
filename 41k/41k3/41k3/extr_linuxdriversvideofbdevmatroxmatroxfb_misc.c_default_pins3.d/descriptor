@@ -1,0 +1,9 @@
+struct TYPE_8__ | ref_freq int 
+struct TYPE_9__ | pll struct TYPE_8__ 
+struct TYPE_13__ | mctlwtst int | memrdbk int | opt int | opt2 int 
+struct TYPE_14__ | reg struct TYPE_13__ 
+struct TYPE_11__ | vcomax int 
+struct TYPE_10__ | vcomax int 
+struct TYPE_12__ | system struct TYPE_11__ | pixel struct TYPE_10__ 
+struct matrox_fb_info | features struct TYPE_9__ | values struct TYPE_14__ | limits struct TYPE_12__ 
+function default_pins3 void | minfo struct matrox_fb_info *

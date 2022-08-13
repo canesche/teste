@@ -1,0 +1,7 @@
+struct TYPE_11__ | flags int 
+struct TYPE_9__ | Flags2 int 
+struct TYPE_13__ | Vcb struct TYPE_10__ * | inode_item struct TYPE_11__ | Header struct TYPE_9__ | subvol struct TYPE_8__ * 
+struct TYPE_12__ | compress long | compress_force long 
+struct TYPE_10__ | options struct TYPE_12__ 
+struct TYPE_8__ | id long 
+function write_fcb_compressed int | fcb struct TYPE_13__ *

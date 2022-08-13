@@ -1,0 +1,2 @@
+struct action_fifo | tail long | head long 
+function action_fifo_init void | fifo struct action_fifo *

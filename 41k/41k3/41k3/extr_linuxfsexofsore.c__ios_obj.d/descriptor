@@ -1,0 +1,5 @@
+struct osd_obj_id | dummy int 
+struct ore_io_state | oc struct TYPE_4__ * 
+struct TYPE_4__ | single_comp unsigned int | comps struct TYPE_3__ * 
+struct TYPE_3__ | obj struct osd_obj_id 
+function _ios_obj struct osd_obj_id * | ios struct ore_io_state * | index unsigned int

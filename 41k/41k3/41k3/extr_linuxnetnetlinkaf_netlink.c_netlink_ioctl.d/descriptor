@@ -1,0 +1,2 @@
+struct socket | dummy int 
+function netlink_ioctl int | sock struct socket * | cmd unsigned int | arg unsigned long

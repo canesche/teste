@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundsocpxapxa2xx-i2s.c_pxa2xx_i2s_set_dai_fmt.d/extr_linuxsoundsocpxapxa2xx-i2s.c_pxa2xx_i2s_set_dai_fmt_O0::pxa2xx_i2s_set_dai_fmt(72)"
+  }
+]

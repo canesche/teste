@@ -1,0 +1,3 @@
+struct snd_kcontrol | dummy int 
+struct hda_codec | dummy int 
+function check_slave_present int | codec struct hda_codec * | data void * | sctl struct snd_kcontrol *

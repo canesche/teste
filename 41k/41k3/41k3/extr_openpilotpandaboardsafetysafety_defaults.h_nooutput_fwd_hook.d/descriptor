@@ -1,0 +1,1 @@
+function nooutput_fwd_hook int | bus_num int | to_fwd int *

@@ -1,0 +1,2 @@
+struct mm_walk | dummy int 
+function walk_hugetlb_range int | addr unsigned long | end unsigned long | walk struct mm_walk *

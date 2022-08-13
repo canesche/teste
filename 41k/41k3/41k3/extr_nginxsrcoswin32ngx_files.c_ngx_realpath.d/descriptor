@@ -1,0 +1,1 @@
+function ngx_realpath int * | path int * | resolved int *

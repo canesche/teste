@@ -1,0 +1,2 @@
+struct list_lru | dummy int 
+function memcg_destroy_list_lru void | lru struct list_lru *

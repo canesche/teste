@@ -1,0 +1,3 @@
+struct pt_regs | dummy int 
+struct kprobe | dummy int 
+function fei_post_handler void | kp struct kprobe * | regs struct pt_regs * | flags unsigned long

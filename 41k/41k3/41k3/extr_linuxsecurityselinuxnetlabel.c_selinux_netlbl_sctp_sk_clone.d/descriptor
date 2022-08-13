@@ -1,0 +1,3 @@
+struct sock | sk_security struct sk_security_struct * 
+struct sk_security_struct | nlbl_state int 
+function selinux_netlbl_sctp_sk_clone void | sk struct sock * | newsk struct sock *

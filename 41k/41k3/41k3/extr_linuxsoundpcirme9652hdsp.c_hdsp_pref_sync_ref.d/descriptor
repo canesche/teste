@@ -1,0 +1,2 @@
+struct hdsp | control_register int 
+function hdsp_pref_sync_ref int | hdsp struct hdsp *

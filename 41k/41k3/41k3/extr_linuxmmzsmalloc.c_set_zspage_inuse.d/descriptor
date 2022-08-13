@@ -1,0 +1,2 @@
+struct zspage | inuse int 
+function set_zspage_inuse void | zspage struct zspage * | val int

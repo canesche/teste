@@ -1,0 +1,2 @@
+struct kbuffer | timestamp unsigned long long 
+function kbuffer_timestamp unsigned long long | kbuf struct kbuffer *

@@ -1,0 +1,2 @@
+struct ocfs2_info_request | ir_flags int 
+function o2info_coherent int | req struct ocfs2_info_request *

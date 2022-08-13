@@ -1,0 +1,2 @@
+struct riva_par | dummy int 
+function riva_bl_init void | par struct riva_par *

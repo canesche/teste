@@ -1,0 +1,2 @@
+struct page | dummy int 
+function noop_invalidatepage void | page struct page * | offset unsigned int | length unsigned int

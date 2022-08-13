@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function print_statistics void | s struct super_block *

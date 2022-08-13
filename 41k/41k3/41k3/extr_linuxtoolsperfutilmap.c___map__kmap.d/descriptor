@@ -1,0 +1,4 @@
+struct map | dso struct TYPE_2__ * 
+struct kmap | dummy int 
+struct TYPE_2__ | kernel int 
+function __map__kmap struct kmap * | map struct map *

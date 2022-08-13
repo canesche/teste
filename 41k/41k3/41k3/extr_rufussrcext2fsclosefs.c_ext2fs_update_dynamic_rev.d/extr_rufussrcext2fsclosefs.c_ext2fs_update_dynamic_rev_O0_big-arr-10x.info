@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_rufussrcext2fsclosefs.c_ext2fs_update_dynamic_rev.d/extr_rufussrcext2fsclosefs.c_ext2fs_update_dynamic_rev_O0::ext2fs_update_dynamic_rev(68)"
+  }
+]

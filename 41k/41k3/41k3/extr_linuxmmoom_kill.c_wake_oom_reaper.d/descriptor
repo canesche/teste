@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function wake_oom_reaper void | tsk struct task_struct *

@@ -1,0 +1,3 @@
+struct super_block | s_fs_info struct qnx6_sb_info * 
+struct qnx6_sb_info | dummy int 
+function QNX6_SB struct qnx6_sb_info * | sb struct super_block *

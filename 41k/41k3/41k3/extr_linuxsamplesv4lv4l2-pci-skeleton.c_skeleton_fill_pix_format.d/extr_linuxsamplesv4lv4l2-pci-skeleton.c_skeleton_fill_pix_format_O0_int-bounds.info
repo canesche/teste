@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 52,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsamplesv4lv4l2-pci-skeleton.c_skeleton_fill_pix_format.d/extr_linuxsamplesv4lv4l2-pci-skeleton.c_skeleton_fill_pix_format_O0::skeleton_fill_pix_format(74)"
+  }
+]

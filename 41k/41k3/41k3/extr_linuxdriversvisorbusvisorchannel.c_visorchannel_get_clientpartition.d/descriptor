@@ -1,0 +1,3 @@
+struct TYPE_2__ | partition_handle int 
+struct visorchannel | chan_hdr struct TYPE_2__ 
+function visorchannel_get_clientpartition int | channel struct visorchannel *

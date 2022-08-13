@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_numpynumpycoresrcmultiarraybuffer.c__pep3118_letter_to_type.d/extr_numpynumpycoresrcmultiarraybuffer.c__pep3118_letter_to_type_O0::_pep3118_letter_to_type(85)"
+  }
+]

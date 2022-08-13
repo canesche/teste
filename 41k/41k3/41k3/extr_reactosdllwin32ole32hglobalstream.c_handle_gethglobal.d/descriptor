@@ -1,0 +1,2 @@
+struct handle_wrapper | hglobal int 
+function handle_gethglobal int | handle struct handle_wrapper *

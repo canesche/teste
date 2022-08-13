@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_obs-studiopluginswin-capturecursor-capture.c_bit_to_alpha.d/extr_obs-studiopluginswin-capturecursor-capture.c_bit_to_alpha_O0::bit_to_alpha(61)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | left long | offset long 
+function SSL3_BUFFER_clear void | b struct TYPE_3__ *

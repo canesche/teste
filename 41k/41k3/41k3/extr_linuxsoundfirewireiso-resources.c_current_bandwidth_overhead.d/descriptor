@@ -1,0 +1,2 @@
+struct fw_card | gap_count int 
+function current_bandwidth_overhead int | card struct fw_card *

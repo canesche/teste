@@ -1,0 +1,3 @@
+struct zone | present_pages long 
+struct TYPE_3__ | node_present_pages long | node_zones struct zone * 
+function reset_node_present_pages void | pgdat struct TYPE_3__ *

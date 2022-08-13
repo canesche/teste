@@ -1,0 +1,2 @@
+struct machine | current_tid int * 
+function machine__get_current_tid int | machine struct machine * | cpu int

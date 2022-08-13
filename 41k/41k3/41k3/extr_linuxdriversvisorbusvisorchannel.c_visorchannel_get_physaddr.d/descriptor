@@ -1,0 +1,2 @@
+struct visorchannel | physaddr int 
+function visorchannel_get_physaddr int | channel struct visorchannel *

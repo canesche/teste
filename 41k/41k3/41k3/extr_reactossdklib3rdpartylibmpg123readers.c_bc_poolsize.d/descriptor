@@ -1,0 +1,2 @@
+struct bufferchain | pool_size unsigned long | bufblock unsigned long 
+function bc_poolsize void | bc struct bufferchain * | pool_size unsigned long | bufblock unsigned long

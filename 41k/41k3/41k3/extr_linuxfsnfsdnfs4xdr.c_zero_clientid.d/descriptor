@@ -1,0 +1,2 @@
+struct TYPE_3__ | cl_boot long | cl_id long 
+function zero_clientid int | clid struct TYPE_3__ *

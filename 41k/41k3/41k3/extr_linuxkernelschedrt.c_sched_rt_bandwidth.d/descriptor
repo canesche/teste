@@ -1,0 +1,3 @@
+struct rt_rq | dummy int 
+struct rt_bandwidth | dummy int 
+function sched_rt_bandwidth struct rt_bandwidth * | rt_rq struct rt_rq *

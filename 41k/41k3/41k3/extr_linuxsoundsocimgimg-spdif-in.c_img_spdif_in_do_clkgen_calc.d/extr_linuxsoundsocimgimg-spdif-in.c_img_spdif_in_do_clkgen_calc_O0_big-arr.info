@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundsocimgimg-spdif-in.c_img_spdif_in_do_clkgen_calc.d/extr_linuxsoundsocimgimg-spdif-in.c_img_spdif_in_do_clkgen_calc_O0::img_spdif_in_do_clkgen_calc(62)"
+  }
+]

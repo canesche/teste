@@ -1,0 +1,2 @@
+struct c2c_stats | lcl_hitm long | ld_llchit long | ld_l2hit long | ld_l1hit long | ld_fbhit long | rmt_hit long | rmt_hitm long | rmt_dram long | lcl_dram long 
+function total_loads long | stats struct c2c_stats *

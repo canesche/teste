@@ -1,0 +1,2 @@
+struct TYPE_2__ | m_iMaxIdleChildren int 
+function LSAPI_Set_Max_Idle_Children void | maxIdleChld int

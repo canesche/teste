@@ -1,0 +1,2 @@
+struct net_bridge_port | group_fwd_mask unsigned long 
+function store_group_fwd_mask int | p struct net_bridge_port * | v unsigned long

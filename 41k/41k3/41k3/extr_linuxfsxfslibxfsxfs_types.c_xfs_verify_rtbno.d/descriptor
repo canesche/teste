@@ -1,0 +1,3 @@
+struct TYPE_2__ | sb_rblocks long 
+struct xfs_mount | m_sb struct TYPE_2__ 
+function xfs_verify_rtbno int | mp struct xfs_mount * | rtbno long

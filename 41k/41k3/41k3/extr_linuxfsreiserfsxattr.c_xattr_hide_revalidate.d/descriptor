@@ -1,0 +1,2 @@
+struct dentry | dummy int 
+function xattr_hide_revalidate int | dentry struct dentry * | flags unsigned int

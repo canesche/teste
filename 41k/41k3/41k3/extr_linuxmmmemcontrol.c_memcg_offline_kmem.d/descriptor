@@ -1,0 +1,2 @@
+struct mem_cgroup | dummy int 
+function memcg_offline_kmem void | memcg struct mem_cgroup *

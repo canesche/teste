@@ -1,0 +1,3 @@
+struct ext4_xattr_ref | iter_arg int * 
+struct ext4_xattr_item | name_len int | data_size int 
+function Ext2IterateAllEa int | xattr_ref struct ext4_xattr_ref * | item struct ext4_xattr_item * | is_last int

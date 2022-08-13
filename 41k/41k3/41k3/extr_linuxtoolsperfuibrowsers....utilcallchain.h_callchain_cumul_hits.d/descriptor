@@ -1,0 +1,2 @@
+struct callchain_node | children_hit long | hit long 
+function callchain_cumul_hits long | node struct callchain_node *

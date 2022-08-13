@@ -1,0 +1,2 @@
+struct fps_counter | started int 
+function fps_counter_stop void | counter struct fps_counter *

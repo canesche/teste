@@ -1,0 +1,2 @@
+struct tcf_exts | dummy int 
+function tc_exts_setup_cb_egdev_call int | exts struct tcf_exts * | type enum tc_setup_type | type_data void * | err_stop int

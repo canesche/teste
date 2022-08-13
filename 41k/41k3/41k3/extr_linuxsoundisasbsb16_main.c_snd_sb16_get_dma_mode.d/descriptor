@@ -1,0 +1,2 @@
+struct snd_sb | dma8 long | dma16 long | force_mode16 int 
+function snd_sb16_get_dma_mode int | chip struct snd_sb *

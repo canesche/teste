@@ -1,0 +1,2 @@
+struct smc_link | state int 
+function smc_llc_link_deleting void | link struct smc_link *

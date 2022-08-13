@@ -1,0 +1,2 @@
+struct fb_cmap | dummy int 
+function fb_default_cmap const struct fb_cmap * | len int

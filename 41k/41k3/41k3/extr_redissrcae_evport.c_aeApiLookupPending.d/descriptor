@@ -1,0 +1,2 @@
+struct TYPE_3__ | npending int | pending_fds int * 
+function aeApiLookupPending int | state struct TYPE_3__ * | fd int

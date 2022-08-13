@@ -1,0 +1,1 @@
+function IniGetNextLine long | IniFileData char * | IniFileSize long | Buffer char * | BufferSize long | CurrentOffset long

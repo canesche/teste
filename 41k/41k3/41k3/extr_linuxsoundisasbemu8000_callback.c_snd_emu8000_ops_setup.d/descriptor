@@ -1,0 +1,3 @@
+struct snd_emu8000 | emu struct TYPE_2__ * 
+struct TYPE_2__ | ops int 
+function snd_emu8000_ops_setup void | hw struct snd_emu8000 *

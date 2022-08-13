@@ -1,0 +1,2 @@
+struct svc_export | ex_flags int 
+function nfsd4_setup_layout_type void | exp struct svc_export *

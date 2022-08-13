@@ -1,0 +1,2 @@
+struct ipc_ids | in_use long | max_idx int 
+function ipc_get_maxidx int | ids struct ipc_ids *

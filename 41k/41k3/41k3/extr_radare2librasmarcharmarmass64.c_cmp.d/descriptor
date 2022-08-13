@@ -1,0 +1,3 @@
+struct TYPE_5__ | operands struct TYPE_4__ * 
+struct TYPE_4__ | reg_type int | shift_amount int | reg int | shift int 
+function cmp int | op struct TYPE_5__ *

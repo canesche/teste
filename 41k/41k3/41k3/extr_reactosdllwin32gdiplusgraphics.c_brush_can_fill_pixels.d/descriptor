@@ -1,0 +1,2 @@
+struct TYPE_3__ | bt int 
+function brush_can_fill_pixels int | brush struct TYPE_3__ *

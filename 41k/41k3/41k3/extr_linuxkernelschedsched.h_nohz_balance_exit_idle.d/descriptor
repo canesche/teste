@@ -1,0 +1,2 @@
+struct rq | dummy int 
+function nohz_balance_exit_idle void | rq struct rq *

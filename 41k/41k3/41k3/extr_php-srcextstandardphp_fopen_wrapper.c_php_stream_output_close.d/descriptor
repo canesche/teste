@@ -1,0 +1,1 @@
+function php_stream_output_close int | stream int * | close_handle int

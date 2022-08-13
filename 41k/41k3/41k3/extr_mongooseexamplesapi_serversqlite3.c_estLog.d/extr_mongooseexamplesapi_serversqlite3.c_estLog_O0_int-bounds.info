@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 83,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_mongooseexamplesapi_serversqlite3.c_estLog.d/extr_mongooseexamplesapi_serversqlite3.c_estLog_O0::estLog(57)"
+  }
+]

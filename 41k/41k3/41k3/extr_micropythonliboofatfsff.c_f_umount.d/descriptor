@@ -1,0 +1,2 @@
+struct TYPE_3__ | fs_type long 
+function f_umount int | fs struct TYPE_3__ *

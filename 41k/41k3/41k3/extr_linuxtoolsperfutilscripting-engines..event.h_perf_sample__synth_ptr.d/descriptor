@@ -1,0 +1,2 @@
+struct perf_sample | raw_data void * 
+function perf_sample__synth_ptr void * | sample struct perf_sample *

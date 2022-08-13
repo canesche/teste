@@ -1,0 +1,2 @@
+struct rchan_buf | subbufs_consumed long | subbufs_produced long 
+function relay_buf_empty int | buf struct rchan_buf *

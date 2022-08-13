@@ -1,0 +1,2 @@
+struct TYPE_3__ | pos int | end long 
+function stream_file_seek void | stream_file struct TYPE_3__ * | offset int | whence int

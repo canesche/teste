@@ -1,0 +1,2 @@
+struct dlm_ctxt | dummy int 
+function dlm_destroy_debugfs_subroot void | dlm struct dlm_ctxt *

@@ -1,0 +1,3 @@
+struct intel_pt_insn | branch long | length long 
+struct intel_pt_decoder | flags int | ip long 
+function intel_pt_fup_with_nlip int | decoder struct intel_pt_decoder * | intel_pt_insn struct intel_pt_insn * | ip long | err int

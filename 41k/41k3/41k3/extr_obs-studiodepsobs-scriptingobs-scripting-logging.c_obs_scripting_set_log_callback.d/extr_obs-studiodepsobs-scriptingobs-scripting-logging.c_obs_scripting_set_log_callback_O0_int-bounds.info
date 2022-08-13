@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_obs-studiodepsobs-scriptingobs-scripting-logging.c_obs_scripting_set_log_callback.d/extr_obs-studiodepsobs-scriptingobs-scripting-logging.c_obs_scripting_set_log_callback_O0::obs_scripting_set_log_callback(64)"
+  }
+]

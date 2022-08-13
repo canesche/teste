@@ -1,0 +1,5 @@
+struct sk_buff | dummy int 
+struct TYPE_2__ | flags int | header_len unsigned int 
+struct rt6_info | dst struct TYPE_2__ 
+struct frag_hdr | dummy int 
+function ip6_append_data_mtu void | mtu unsigned int * | maxfraglen int * | fragheaderlen unsigned int | skb struct sk_buff * | rt struct rt6_info * | orig_mtu unsigned int

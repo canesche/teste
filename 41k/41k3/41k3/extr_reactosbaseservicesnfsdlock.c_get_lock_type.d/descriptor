@@ -1,0 +1,1 @@
+function get_lock_type int | exclusive long | blocking long

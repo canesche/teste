@@ -1,0 +1,2 @@
+struct TYPE_3__ | token int 
+function stb__clex_eof int | lexer struct TYPE_3__ *

@@ -1,0 +1,3 @@
+struct vo | dummy int 
+struct mp_image_params | dummy int 
+function reconfig int | vo struct vo * | params struct mp_image_params *

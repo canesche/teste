@@ -1,0 +1,2 @@
+struct TYPE_2__ | num_cpus int 
+function count_cpus int | cpu int

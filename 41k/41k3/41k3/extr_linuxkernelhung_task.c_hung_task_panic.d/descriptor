@@ -1,0 +1,2 @@
+struct notifier_block | dummy int 
+function hung_task_panic int | this struct notifier_block * | event unsigned long | ptr void *

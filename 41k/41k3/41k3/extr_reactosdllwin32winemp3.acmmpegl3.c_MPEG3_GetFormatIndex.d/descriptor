@@ -1,0 +1,3 @@
+struct TYPE_7__ | nChannels long | rate long | nBits long 
+struct TYPE_6__ | wFormatTag int | nChannels long | nSamplesPerSec long | wBitsPerSample long 
+function MPEG3_GetFormatIndex int | wfx struct TYPE_6__ *

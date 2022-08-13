@@ -1,0 +1,2 @@
+struct sis_video_info | video_size int | hwcursor_size int | cmdQueueSize int | UMAsize int | sisfb_parm_mem int | video_offset int | sisfb_mem int | heapstart int | LFBsize long 
+function sisfb_getheapsize int | ivideo struct sis_video_info *

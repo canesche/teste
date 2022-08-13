@@ -1,0 +1,3 @@
+struct TYPE_5__ | nchars int | chars char * | nranges int | exclude long | ranges struct TYPE_4__ * 
+struct TYPE_4__ | start char | end char 
+function CharInSet int | cset struct TYPE_5__ * | c int

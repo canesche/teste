@@ -1,0 +1,2 @@
+struct ceph_fs_client | dummy int 
+function ceph_fscache_register_fs int | fsc struct ceph_fs_client *

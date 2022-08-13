@@ -1,0 +1,1 @@
+function cris_get_disassembler int | abfd int *

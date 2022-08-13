@@ -1,0 +1,2 @@
+struct list_lru | dummy int 
+function lru_shrinker_id int | lru struct list_lru *

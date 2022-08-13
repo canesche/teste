@@ -1,0 +1,2 @@
+struct btrfs_qgroup | new_refcnt long 
+function btrfs_qgroup_update_new_refcnt void | qg struct btrfs_qgroup * | seq long | mod int

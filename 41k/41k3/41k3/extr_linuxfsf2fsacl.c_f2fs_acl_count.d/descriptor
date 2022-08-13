@@ -1,0 +1,4 @@
+struct f2fs_acl_header | dummy int 
+struct f2fs_acl_entry_short | dummy int 
+struct f2fs_acl_entry | dummy int 
+function f2fs_acl_count int | size unsigned long

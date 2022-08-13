@@ -1,0 +1,3 @@
+struct TYPE_4__ | mask int 
+struct TYPE_5__ | setsize int | events struct TYPE_4__ * 
+function aeGetFileEvents int | eventLoop struct TYPE_5__ * | fd int

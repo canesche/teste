@@ -1,0 +1,2 @@
+struct vm | active_cpus int 
+function vm_active_cpus int | vm struct vm *

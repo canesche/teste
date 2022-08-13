@@ -1,0 +1,3 @@
+struct mpv_handle | mpctx struct MPContext * 
+struct MPContext | dummy int 
+function mp_client_get_core struct MPContext * | ctx struct mpv_handle *

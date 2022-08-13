@@ -1,0 +1,2 @@
+struct nfs_inode | dummy int 
+function nfs_zap_label_cache_locked void | nfsi struct nfs_inode *

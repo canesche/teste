@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsbtrfsref-verify.h_btrfs_build_ref_tree.d/extr_linuxfsbtrfsref-verify.h_btrfs_build_ref_tree_O0::btrfs_build_ref_tree(61)"
+  }
+]

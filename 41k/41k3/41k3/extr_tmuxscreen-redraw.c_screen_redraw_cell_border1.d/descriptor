@@ -1,0 +1,2 @@
+struct window_pane | xoff long | sx long | yoff long | sy long 
+function screen_redraw_cell_border1 int | wp struct window_pane * | px long | py long

@@ -1,0 +1,2 @@
+struct cdb | loop long 
+function cdb_findstart void | c struct cdb *

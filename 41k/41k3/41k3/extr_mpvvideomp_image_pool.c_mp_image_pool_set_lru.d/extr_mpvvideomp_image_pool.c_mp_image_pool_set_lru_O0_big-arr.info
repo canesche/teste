@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_mpvvideomp_image_pool.c_mp_image_pool_set_lru.d/extr_mpvvideomp_image_pool.c_mp_image_pool_set_lru_O0::mp_image_pool_set_lru(61)"
+  }
+]

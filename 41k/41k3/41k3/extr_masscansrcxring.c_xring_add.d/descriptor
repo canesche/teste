@@ -1,0 +1,2 @@
+struct XRing | ring long * | head int | tail int 
+function xring_add int | xring struct XRing * | value long

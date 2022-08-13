@@ -1,0 +1,2 @@
+struct radix_tree_root | gfp_mask int 
+function root_tag_clear_all void | root struct radix_tree_root *

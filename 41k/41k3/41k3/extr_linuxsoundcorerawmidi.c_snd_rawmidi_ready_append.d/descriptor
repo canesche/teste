@@ -1,0 +1,3 @@
+struct snd_rawmidi_substream | append int | runtime struct snd_rawmidi_runtime * 
+struct snd_rawmidi_runtime | avail unsigned long | avail_min unsigned long 
+function snd_rawmidi_ready_append int | substream struct snd_rawmidi_substream * | count unsigned long

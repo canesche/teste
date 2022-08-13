@@ -1,0 +1,2 @@
+struct snd_pcm_substream | dummy int 
+function snd_line6_playback_close int | substream struct snd_pcm_substream *

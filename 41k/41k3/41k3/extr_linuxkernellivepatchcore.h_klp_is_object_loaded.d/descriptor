@@ -1,0 +1,2 @@
+struct klp_object | mod long | name int 
+function klp_is_object_loaded int | obj struct klp_object *

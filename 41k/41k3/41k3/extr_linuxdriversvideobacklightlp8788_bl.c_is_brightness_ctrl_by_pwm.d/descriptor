@@ -1,0 +1,1 @@
+function is_brightness_ctrl_by_pwm int | mode enum lp8788_bl_ctrl_mode

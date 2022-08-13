@@ -1,0 +1,2 @@
+struct buffer | buffer int | ptr int | cap int | size long 
+function buffer_create void | b struct buffer *

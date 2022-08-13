@@ -1,0 +1,3 @@
+struct TYPE_4__ | type int 
+struct TYPE_5__ | num_children long | node struct TYPE_4__ 
+function init_region int | region struct TYPE_5__ * | type const int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsxfslibxfsxfs_rmap.c_xfs_rmap_is_mergeable.d/extr_linuxfsxfslibxfsxfs_rmap.c_xfs_rmap_is_mergeable_O0::xfs_rmap_is_mergeable(70)"
+  }
+]

@@ -1,0 +1,2 @@
+struct window_pane | palette int * 
+function window_pane_get_palette int | wp struct window_pane * | c int

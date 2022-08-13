@@ -1,0 +1,2 @@
+struct TYPE_3__ | buffer char * | line int | position long | column long | state int | buffer_pos long | data void * | get int 
+function stream_init void | stream struct TYPE_3__ * | get int | data void *

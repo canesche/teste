@@ -1,0 +1,5 @@
+struct inode | i_sb struct TYPE_2__ * 
+struct ext4_extent_header | dummy int 
+struct ext4_extent | dummy int 
+struct TYPE_2__ | s_blocksize int 
+function ext4_ext_space_block int | inode struct inode * | check int

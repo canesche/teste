@@ -1,0 +1,3 @@
+struct TYPE_5__ | w long | h long | x long | y long | was_packed int 
+struct TYPE_6__ | x long | width long | y long | bottom_y long | height long 
+function stbrp_pack_rects void | con struct TYPE_6__ * | rects struct TYPE_5__ * | num_rects int

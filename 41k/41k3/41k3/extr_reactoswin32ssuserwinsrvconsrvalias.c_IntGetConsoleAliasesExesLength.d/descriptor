@@ -1,0 +1,3 @@
+struct TYPE_4__ | Length long 
+struct TYPE_5__ | Next struct TYPE_5__ * | ExeName struct TYPE_4__ 
+function IntGetConsoleAliasesExesLength int | RootHeader struct TYPE_5__ * | IsUnicode int

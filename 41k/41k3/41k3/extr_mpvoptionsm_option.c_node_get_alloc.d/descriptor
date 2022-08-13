@@ -1,0 +1,3 @@
+struct TYPE_2__ | string void * | list void * 
+struct mpv_node | format int | u struct TYPE_2__ 
+function node_get_alloc void * | node struct mpv_node *

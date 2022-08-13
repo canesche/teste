@@ -1,0 +1,3 @@
+struct xfs_rmap_irec | rm_flags int 
+struct xfs_fsmap | fmr_flags int 
+function xfs_getfsmap_set_irec_flags void | irec struct xfs_rmap_irec * | fmr struct xfs_fsmap *

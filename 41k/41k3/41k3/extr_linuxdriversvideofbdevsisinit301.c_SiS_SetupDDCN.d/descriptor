@@ -1,0 +1,2 @@
+struct SiS_Private | SiS_DDC_NData int | SiS_DDC_Data int | SiS_DDC_NClk int | SiS_DDC_Clk int | SiS_DDC_Index int | SiS_SensibleSR11 long 
+function SiS_SetupDDCN void | SiS_Pr struct SiS_Private *

@@ -1,0 +1,2 @@
+struct ubifs_info | orph_lebs int | ohead_lnum int | orph_first int | leb_size int | ohead_offs int 
+function avail_orphs int | c struct ubifs_info *

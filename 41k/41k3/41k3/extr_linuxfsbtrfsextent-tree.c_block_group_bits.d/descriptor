@@ -1,0 +1,2 @@
+struct btrfs_block_group_cache | flags int 
+function block_group_bits int | cache struct btrfs_block_group_cache * | bits int

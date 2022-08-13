@@ -1,0 +1,2 @@
+struct reloc_struct_t | data_offset long 
+function search_old_relocation int | reloc_table struct reloc_struct_t * | addr_to_patch long | n_reloc int

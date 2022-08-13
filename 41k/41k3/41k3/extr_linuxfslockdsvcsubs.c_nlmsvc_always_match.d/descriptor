@@ -1,0 +1,2 @@
+struct nlm_host | dummy int 
+function nlmsvc_always_match int | dummy1 void * | dummy2 struct nlm_host *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversusbstoragesddr09.c_nand_flash_manufacturer.d/extr_linuxdriversusbstoragesddr09.c_nand_flash_manufacturer_O0::nand_flash_manufacturer(63)"
+  }
+]

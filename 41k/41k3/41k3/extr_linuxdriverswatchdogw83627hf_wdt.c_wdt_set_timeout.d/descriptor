@@ -1,0 +1,2 @@
+struct watchdog_device | timeout unsigned int 
+function wdt_set_timeout int | wdog struct watchdog_device * | timeout unsigned int

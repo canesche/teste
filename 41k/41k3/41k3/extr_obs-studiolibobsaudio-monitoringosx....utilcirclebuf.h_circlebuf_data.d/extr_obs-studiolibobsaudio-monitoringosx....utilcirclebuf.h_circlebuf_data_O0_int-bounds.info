@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 30,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_obs-studiolibobsaudio-monitoringosx....utilcirclebuf.h_circlebuf_data.d/extr_obs-studiolibobsaudio-monitoringosx....utilcirclebuf.h_circlebuf_data_O0::circlebuf_data(62)"
+  }
+]

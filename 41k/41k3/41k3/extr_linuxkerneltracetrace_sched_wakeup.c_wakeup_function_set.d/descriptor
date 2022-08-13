@@ -1,0 +1,2 @@
+struct trace_array | dummy int 
+function wakeup_function_set int | tr struct trace_array * | mask int | set int

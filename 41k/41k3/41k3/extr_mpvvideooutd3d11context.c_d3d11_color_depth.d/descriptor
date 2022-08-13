@@ -1,0 +1,2 @@
+struct ra_swapchain | dummy int 
+function d3d11_color_depth int | sw struct ra_swapchain *

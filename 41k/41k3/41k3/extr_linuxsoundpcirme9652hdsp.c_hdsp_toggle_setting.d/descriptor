@@ -1,0 +1,2 @@
+struct hdsp | control_register int 
+function hdsp_toggle_setting int | hdsp struct hdsp * | regmask int

@@ -1,0 +1,2 @@
+struct sk_buff | dummy int 
+function ipcomp4_rcv_cb int | skb struct sk_buff * | err int

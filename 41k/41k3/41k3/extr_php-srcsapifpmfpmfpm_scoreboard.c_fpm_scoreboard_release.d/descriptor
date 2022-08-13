@@ -1,0 +1,2 @@
+struct fpm_scoreboard_s | lock long 
+function fpm_scoreboard_release void | scoreboard struct fpm_scoreboard_s *

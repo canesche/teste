@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetllcllc_pdu.c_llc_pdu_get_pf_bit.d/extr_linuxnetllcllc_pdu.c_llc_pdu_get_pf_bit_O0::llc_pdu_get_pf_bit(67)"
+  }
+]

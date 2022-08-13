@@ -1,0 +1,2 @@
+struct xlog | l_logBBsize long 
+function xlog_verify_bp int | log struct xlog * | blk_no long | bbcount int

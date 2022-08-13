@@ -1,0 +1,2 @@
+struct htcp | last_cong int | old_maxB int | undo_old_maxB int | maxRTT int | undo_maxRTT int | undo_last_cong int 
+function htcp_reset void | ca struct htcp *

@@ -1,0 +1,2 @@
+struct gfs2_holder | gh_gl int 
+function gfs2_holder_initialized int | gh struct gfs2_holder *

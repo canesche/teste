@@ -1,0 +1,4 @@
+struct fb_var_screeninfo | bits_per_pixel int 
+struct fb_info | dummy int 
+struct fb_blit_caps | x int | y int | len int 
+function svga_get_caps void | info struct fb_info * | caps struct fb_blit_caps * | var struct fb_var_screeninfo *

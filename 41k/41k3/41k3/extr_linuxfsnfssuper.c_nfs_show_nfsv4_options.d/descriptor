@@ -1,0 +1,3 @@
+struct seq_file | dummy int 
+struct nfs_server | dummy int 
+function nfs_show_nfsv4_options void | m struct seq_file * | nfss struct nfs_server * | showdefaults int

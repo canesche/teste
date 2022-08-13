@@ -1,0 +1,2 @@
+struct net_device | group int 
+function dev_set_group void | dev struct net_device * | new_group int

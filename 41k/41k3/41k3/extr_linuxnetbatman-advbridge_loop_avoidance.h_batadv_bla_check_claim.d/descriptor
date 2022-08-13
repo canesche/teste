@@ -1,0 +1,2 @@
+struct batadv_priv | dummy int 
+function batadv_bla_check_claim int | bat_priv struct batadv_priv * | addr int * | vid unsigned short

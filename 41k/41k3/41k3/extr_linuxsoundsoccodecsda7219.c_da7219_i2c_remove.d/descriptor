@@ -1,0 +1,2 @@
+struct i2c_client | dummy int 
+function da7219_i2c_remove int | client struct i2c_client *

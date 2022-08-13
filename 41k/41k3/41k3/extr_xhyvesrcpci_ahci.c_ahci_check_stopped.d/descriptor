@@ -1,0 +1,2 @@
+struct ahci_port | cmd int | pending long | waitforclear long | sact long | ci long | ccs long 
+function ahci_check_stopped void | p struct ahci_port *

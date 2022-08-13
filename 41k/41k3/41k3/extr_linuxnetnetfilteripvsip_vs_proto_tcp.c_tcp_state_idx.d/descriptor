@@ -1,0 +1,2 @@
+struct tcphdr | ack long | fin long | syn long | rst long 
+function tcp_state_idx int | th struct tcphdr *

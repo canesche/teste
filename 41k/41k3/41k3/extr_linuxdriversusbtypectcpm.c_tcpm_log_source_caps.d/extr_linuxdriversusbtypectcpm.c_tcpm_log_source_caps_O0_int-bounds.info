@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversusbtypectcpm.c_tcpm_log_source_caps.d/extr_linuxdriversusbtypectcpm.c_tcpm_log_source_caps_O0::tcpm_log_source_caps(60)"
+  }
+]

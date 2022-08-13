@@ -1,0 +1,3 @@
+struct xdp_sock | dummy int 
+struct sock | dummy int 
+function xdp_sk struct xdp_sock * | sk struct sock *

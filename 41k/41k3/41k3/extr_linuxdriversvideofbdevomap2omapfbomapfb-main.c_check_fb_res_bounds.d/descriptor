@@ -1,0 +1,2 @@
+struct fb_var_screeninfo | xres_virtual int | xres int | yres_virtual int | yres int 
+function check_fb_res_bounds int | var struct fb_var_screeninfo *

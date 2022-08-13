@@ -1,0 +1,1 @@
+function ngx_rtmp_cmd_seek int | s int * | v int *

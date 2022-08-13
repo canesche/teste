@@ -1,0 +1,1 @@
+function kgdb_nmicallback int | cpu int | regs void *

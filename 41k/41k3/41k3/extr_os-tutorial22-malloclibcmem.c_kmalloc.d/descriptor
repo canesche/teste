@@ -1,0 +1,1 @@
+function kmalloc int | size int | align int | phys_addr int *

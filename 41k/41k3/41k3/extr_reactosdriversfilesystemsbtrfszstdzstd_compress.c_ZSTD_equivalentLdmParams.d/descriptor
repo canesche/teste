@@ -1,0 +1,2 @@
+struct TYPE_4__ | enableLdm long | hashLog long | bucketSizeLog long | minMatchLength long | hashEveryLog long 
+function ZSTD_equivalentLdmParams int | ldmParams1 struct TYPE_4__ | ldmParams2 struct TYPE_4__

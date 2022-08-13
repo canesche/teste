@@ -1,0 +1,7 @@
+struct TYPE_9__ | length int | offset unsigned int 
+struct TYPE_8__ | length int | offset unsigned int 
+struct TYPE_7__ | length int | offset unsigned int 
+struct TYPE_10__ | blue struct TYPE_9__ | green struct TYPE_8__ | red struct TYPE_7__ 
+struct TYPE_6__ | len unsigned int 
+struct fb_info | var struct TYPE_10__ | pseudo_palette long | cmap struct TYPE_6__ 
+function efifb_setcolreg int | regno unsigned int | red unsigned int | green unsigned int | blue unsigned int | transp unsigned int | info struct fb_info *

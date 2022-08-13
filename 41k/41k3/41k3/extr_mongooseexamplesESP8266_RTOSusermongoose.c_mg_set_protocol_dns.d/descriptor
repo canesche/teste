@@ -1,0 +1,2 @@
+struct mg_connection | proto_handler int 
+function mg_set_protocol_dns void | nc struct mg_connection *

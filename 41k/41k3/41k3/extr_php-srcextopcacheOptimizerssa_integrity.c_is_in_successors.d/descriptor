@@ -1,0 +1,2 @@
+struct TYPE_3__ | successors_count int | successors int * 
+function is_in_successors int | block struct TYPE_3__ * | check int

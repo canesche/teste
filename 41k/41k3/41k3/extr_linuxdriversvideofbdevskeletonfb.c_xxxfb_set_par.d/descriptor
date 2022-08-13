@@ -1,0 +1,3 @@
+struct xxx_par | dummy int 
+struct fb_info | par struct xxx_par * 
+function xxxfb_set_par int | info struct fb_info *

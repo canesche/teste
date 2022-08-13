@@ -1,0 +1,2 @@
+struct menu | dummy int 
+function menu_get_root_menu struct menu * | menu struct menu *

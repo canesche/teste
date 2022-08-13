@@ -1,0 +1,2 @@
+struct TYPE_3__ | flags int 
+function RSA_meth_set_flags int | meth struct TYPE_3__ * | flags int

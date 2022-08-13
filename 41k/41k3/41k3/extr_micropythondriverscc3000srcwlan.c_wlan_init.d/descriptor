@@ -1,0 +1,2 @@
+struct TYPE_2__ | InformHostOnTxComplete int | sWlanCB int | WriteWlanPin int | WlanInterruptDisable int | WlanInterruptEnable int | ReadWlanInterruptPin int | sBootLoaderPatches int | sDriverPatches int | sFWPatches int 
+function wlan_init void | sWlanCB int | sFWPatches int | sDriverPatches int | sBootLoaderPatches int | sReadWlanInterruptPin int | sWlanInterruptEnable int | sWlanInterruptDisable int | sWriteWlanPin int

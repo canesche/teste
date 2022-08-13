@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundsoctegrategra20_i2s.c_tegra20_i2s_wr_rd_reg.d/extr_linuxsoundsoctegrategra20_i2s.c_tegra20_i2s_wr_rd_reg_O0::tegra20_i2s_wr_rd_reg(71)"
+  }
+]

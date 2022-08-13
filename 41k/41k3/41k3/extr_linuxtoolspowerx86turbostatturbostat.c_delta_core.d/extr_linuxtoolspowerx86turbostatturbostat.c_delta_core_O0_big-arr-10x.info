@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxtoolspowerx86turbostatturbostat.c_delta_core.d/extr_linuxtoolspowerx86turbostatturbostat.c_delta_core_O0::delta_core(67)"
+  }
+]

@@ -1,0 +1,1 @@
+function ngx_http_lua_ngx_escape_sql_str unsigned long | dst int * | src int * | size unsigned long

@@ -1,0 +1,2 @@
+struct mount | mnt_group_id long 
+function peers int | m1 struct mount * | m2 struct mount *

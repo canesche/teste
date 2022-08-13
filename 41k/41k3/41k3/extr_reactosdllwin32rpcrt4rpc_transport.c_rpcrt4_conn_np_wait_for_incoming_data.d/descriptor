@@ -1,0 +1,1 @@
+function rpcrt4_conn_np_wait_for_incoming_data int | Connection int *

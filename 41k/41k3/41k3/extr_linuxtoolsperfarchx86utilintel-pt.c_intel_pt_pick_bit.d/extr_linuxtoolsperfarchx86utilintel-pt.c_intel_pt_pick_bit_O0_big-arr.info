@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 195,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxtoolsperfarchx86utilintel-pt.c_intel_pt_pick_bit.d/extr_linuxtoolsperfarchx86utilintel-pt.c_intel_pt_pick_bit_O0::intel_pt_pick_bit(60)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 24,
+    phantoms: 18,
+    exit: true,
+    halt: false,
+    edges: 47,
+    static: {
+      instructions: 87,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 87,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdllwin32xmllitereader.c_is_ncnamechar.d/extr_reactosdllwin32xmllitereader.c_is_ncnamechar_O0::is_ncnamechar(62)"
+  }
+]

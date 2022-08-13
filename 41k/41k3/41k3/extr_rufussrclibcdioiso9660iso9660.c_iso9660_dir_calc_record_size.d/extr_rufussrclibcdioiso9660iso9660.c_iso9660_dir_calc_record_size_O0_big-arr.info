@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 5,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_rufussrclibcdioiso9660iso9660.c_iso9660_dir_calc_record_size.d/extr_rufussrclibcdioiso9660iso9660.c_iso9660_dir_calc_record_size_O0::iso9660_dir_calc_record_size(62)"
+  }
+]

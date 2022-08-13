@@ -1,0 +1,3 @@
+struct mpv_handle | log struct mp_log * 
+struct mp_log | dummy int 
+function mp_client_get_log struct mp_log * | ctx struct mpv_handle *

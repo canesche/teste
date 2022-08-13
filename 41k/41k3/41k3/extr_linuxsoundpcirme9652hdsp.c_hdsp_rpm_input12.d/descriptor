@@ -1,0 +1,2 @@
+struct hdsp | control_register int 
+function hdsp_rpm_input12 int | hdsp struct hdsp *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 11,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosmodulesrostestswinetestsurlmonuri.c_add_default_flags.d/extr_reactosmodulesrostestswinetestsurlmonuri.c_add_default_flags_O0::add_default_flags(70)"
+  }
+]

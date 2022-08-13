@@ -1,0 +1,1 @@
+function bitmapClearBit void | bitmap unsigned char * | pos int

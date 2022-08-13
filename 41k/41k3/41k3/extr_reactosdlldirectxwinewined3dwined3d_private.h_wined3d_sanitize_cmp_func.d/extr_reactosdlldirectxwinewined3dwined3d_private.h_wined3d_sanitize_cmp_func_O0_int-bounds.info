@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdlldirectxwinewined3dwined3d_private.h_wined3d_sanitize_cmp_func.d/extr_reactosdlldirectxwinewined3dwined3d_private.h_wined3d_sanitize_cmp_func_O0::wined3d_sanitize_cmp_func(61)"
+  }
+]

@@ -1,0 +1,3 @@
+struct TYPE_5__ | FieldCount int 
+struct TYPE_4__ | Line int * 
+function InfGetFieldCount int | Context struct TYPE_4__ *

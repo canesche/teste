@@ -1,0 +1,2 @@
+struct perf_guest_info_callbacks | dummy int 
+function perf_register_guest_info_callbacks int | cbs struct perf_guest_info_callbacks *

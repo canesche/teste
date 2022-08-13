@@ -1,0 +1,3 @@
+struct TYPE_5__ | input struct TYPE_4__ * 
+struct TYPE_4__ | pending int 
+function is_reader_pending int | reader struct TYPE_5__ *

@@ -1,0 +1,1 @@
+function aarch64_get_operand_modifier_from_value enum aarch64_modifier_kind | value int | extend_p long

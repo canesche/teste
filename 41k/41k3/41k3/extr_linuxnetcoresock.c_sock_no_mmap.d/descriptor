@@ -1,0 +1,4 @@
+struct vm_area_struct | dummy int 
+struct socket | dummy int 
+struct file | dummy int 
+function sock_no_mmap int | file struct file * | sock struct socket * | vma struct vm_area_struct *

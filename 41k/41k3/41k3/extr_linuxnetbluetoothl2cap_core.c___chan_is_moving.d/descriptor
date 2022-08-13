@@ -1,0 +1,2 @@
+struct l2cap_chan | move_state long 
+function __chan_is_moving int | chan struct l2cap_chan *

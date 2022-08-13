@@ -1,0 +1,2 @@
+struct zbud_header | last_chunks int 
+function encode_handle unsigned long | zhdr struct zbud_header * | bud enum buddy

@@ -1,0 +1,2 @@
+struct fb_info | dummy int 
+function hga_show_logo void | info struct fb_info *

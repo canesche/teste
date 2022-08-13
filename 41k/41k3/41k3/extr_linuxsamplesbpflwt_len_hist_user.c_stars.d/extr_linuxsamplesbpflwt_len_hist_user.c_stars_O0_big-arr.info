@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 8,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 43,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6888,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsamplesbpflwt_len_hist_user.c_stars.d/extr_linuxsamplesbpflwt_len_hist_user.c_stars_O0::stars(60)"
+  }
+]

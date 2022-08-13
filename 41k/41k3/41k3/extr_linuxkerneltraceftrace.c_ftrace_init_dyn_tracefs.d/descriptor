@@ -1,0 +1,2 @@
+struct dentry | dummy int 
+function ftrace_init_dyn_tracefs int | d_tracer struct dentry *

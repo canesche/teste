@@ -1,0 +1,2 @@
+struct TYPE_3__ | depth int 
+function X509_VERIFY_PARAM_set_depth void | param struct TYPE_3__ * | depth int

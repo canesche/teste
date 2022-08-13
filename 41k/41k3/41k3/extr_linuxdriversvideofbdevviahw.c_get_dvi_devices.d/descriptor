@@ -1,0 +1,3 @@
+struct TYPE_4__ | chip_info struct TYPE_3__ * 
+struct TYPE_3__ | gfx_chip_name int 
+function get_dvi_devices int | output_interface int

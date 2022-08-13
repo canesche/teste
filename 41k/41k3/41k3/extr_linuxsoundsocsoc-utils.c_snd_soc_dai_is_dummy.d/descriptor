@@ -1,0 +1,2 @@
+struct snd_soc_dai | driver int * 
+function snd_soc_dai_is_dummy int | dai struct snd_soc_dai *

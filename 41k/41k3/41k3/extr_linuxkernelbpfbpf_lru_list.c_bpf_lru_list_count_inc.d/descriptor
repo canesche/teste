@@ -1,0 +1,2 @@
+struct bpf_lru_list | counts int * 
+function bpf_lru_list_count_inc void | l struct bpf_lru_list * | type enum bpf_lru_list_type

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 13,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 71,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 71,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetdccpoptions.c_dccp_encode_value_var.d/extr_linuxnetdccpoptions.c_dccp_encode_value_var_O0::dccp_encode_value_var(63)"
+  }
+]

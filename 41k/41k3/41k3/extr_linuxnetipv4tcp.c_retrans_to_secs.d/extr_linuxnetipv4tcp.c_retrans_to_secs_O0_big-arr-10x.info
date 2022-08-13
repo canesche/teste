@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 8,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 172,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetipv4tcp.c_retrans_to_secs.d/extr_linuxnetipv4tcp.c_retrans_to_secs_O0::retrans_to_secs(61)"
+  }
+]

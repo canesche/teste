@@ -1,0 +1,2 @@
+struct ubifs_dent_node | padding1 long 
+function zero_dent_node_unused void | dent struct ubifs_dent_node *

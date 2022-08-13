@@ -1,0 +1,2 @@
+struct xfs_dir2_sf_entry | dummy int 
+function xfs_dir2_sfe_get_ftype int | sfep struct xfs_dir2_sf_entry *

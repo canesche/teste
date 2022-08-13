@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function romfs_kill_sb void | sb struct super_block *

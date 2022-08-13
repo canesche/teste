@@ -1,0 +1,2 @@
+struct clock_event_device | event_handler int 
+function tick_set_periodic_handler void | dev struct clock_event_device * | broadcast int

@@ -1,0 +1,2 @@
+struct sched_rt_entity | on_rq int 
+function on_rt_rq int | rt_se struct sched_rt_entity *

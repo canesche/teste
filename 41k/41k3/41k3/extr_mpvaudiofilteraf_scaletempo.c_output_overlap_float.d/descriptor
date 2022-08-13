@@ -1,0 +1,2 @@
+struct priv | table_blend float * | buf_overlap float * | samples_overlap int | buf_queue long 
+function output_overlap_float void | s struct priv * | buf_out void * | bytes_off int

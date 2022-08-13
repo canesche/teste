@@ -1,0 +1,2 @@
+struct batadv_hard_iface | wifi_flags int 
+function batadv_is_cfg80211_hardif int | hard_iface struct batadv_hard_iface *

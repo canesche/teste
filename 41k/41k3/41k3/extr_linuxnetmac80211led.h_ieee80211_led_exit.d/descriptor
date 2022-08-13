@@ -1,0 +1,2 @@
+struct ieee80211_local | dummy int 
+function ieee80211_led_exit void | local struct ieee80211_local *

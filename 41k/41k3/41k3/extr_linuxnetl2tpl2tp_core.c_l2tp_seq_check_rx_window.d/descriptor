@@ -1,0 +1,2 @@
+struct l2tp_session | nr long | nr_max long | nr_window_size long 
+function l2tp_seq_check_rx_window int | session struct l2tp_session * | nr long

@@ -1,0 +1,2 @@
+struct dentry | d_fsdata long 
+function cifs_get_time unsigned long | dentry struct dentry *

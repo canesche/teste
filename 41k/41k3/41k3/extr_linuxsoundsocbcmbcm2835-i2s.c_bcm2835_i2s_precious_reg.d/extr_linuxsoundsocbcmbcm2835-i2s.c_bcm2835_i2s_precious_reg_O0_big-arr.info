@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundsocbcmbcm2835-i2s.c_bcm2835_i2s_precious_reg.d/extr_linuxsoundsocbcmbcm2835-i2s.c_bcm2835_i2s_precious_reg_O0::bcm2835_i2s_precious_reg(62)"
+  }
+]

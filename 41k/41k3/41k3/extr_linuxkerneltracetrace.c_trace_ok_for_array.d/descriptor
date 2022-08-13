@@ -1,0 +1,3 @@
+struct tracer | allow_instances long 
+struct trace_array | flags int 
+function trace_ok_for_array int | t struct tracer * | tr struct trace_array *

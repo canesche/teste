@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_mongooseexamplesPIC32mqtt_clientfirmwaresrcsystem_configmx795_CC3100_e16frameworksystemconsolesrcsys_console_static.c_SYS_CONSOLE_Flush.d/extr_mongooseexamplesPIC32mqtt_clientfirmwaresrcsystem_configmx795_CC3100_e16frameworksystemconsolesrcsys_console_static.c_SYS_CONSOLE_Flush_O0::SYS_CONSOLE_Flush(61)"
+  }
+]

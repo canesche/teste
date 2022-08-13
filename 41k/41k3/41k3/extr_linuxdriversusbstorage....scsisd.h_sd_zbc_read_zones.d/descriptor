@@ -1,0 +1,2 @@
+struct scsi_disk | dummy int 
+function sd_zbc_read_zones int | sdkp struct scsi_disk * | buf unsigned char *

@@ -1,0 +1,2 @@
+struct fb_var_screeninfo | xres int | bits_per_pixel int 
+function d_pitch int | var struct fb_var_screeninfo *

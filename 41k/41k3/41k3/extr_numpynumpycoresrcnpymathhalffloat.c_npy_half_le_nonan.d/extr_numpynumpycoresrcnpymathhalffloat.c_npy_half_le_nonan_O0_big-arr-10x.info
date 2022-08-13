@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_numpynumpycoresrcnpymathhalffloat.c_npy_half_le_nonan.d/extr_numpynumpycoresrcnpymathhalffloat.c_npy_half_le_nonan_O0::npy_half_le_nonan(61)"
+  }
+]

@@ -1,0 +1,2 @@
+struct color_fixup_desc | dummy int 
+function shader_none_color_fixup_supported int | fixup struct color_fixup_desc

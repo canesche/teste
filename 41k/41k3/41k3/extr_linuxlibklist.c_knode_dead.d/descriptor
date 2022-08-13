@@ -1,0 +1,2 @@
+struct klist_node | n_klist long 
+function knode_dead int | knode struct klist_node *

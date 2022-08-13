@@ -1,0 +1,2 @@
+struct hdspm | system_sample_rate int 
+function hdspm_clock_source int | hdspm struct hdspm *

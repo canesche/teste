@@ -1,0 +1,2 @@
+struct flowidn | daddr int | saddr int | flowidn_mark int | flowidn_scope int | flowidn_oif int | flowidn_iif int 
+function compare_keys int | fl1 struct flowidn * | fl2 struct flowidn *

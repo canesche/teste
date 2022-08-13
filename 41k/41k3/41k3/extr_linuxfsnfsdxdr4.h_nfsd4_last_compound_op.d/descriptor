@@ -1,0 +1,4 @@
+struct svc_rqst | rq_argp struct nfsd4_compoundargs * | rq_resp struct nfsd4_compoundres * 
+struct nfsd4_compoundres | opcnt long 
+struct nfsd4_compoundargs | opcnt long 
+function nfsd4_last_compound_op int | rqstp struct svc_rqst *

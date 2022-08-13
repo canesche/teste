@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function ext4_init_acl int | handle int * | inode struct inode * | dir struct inode *

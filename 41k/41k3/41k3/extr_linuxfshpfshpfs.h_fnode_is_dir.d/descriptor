@@ -1,0 +1,2 @@
+struct fnode | flags int 
+function fnode_is_dir int | p struct fnode *

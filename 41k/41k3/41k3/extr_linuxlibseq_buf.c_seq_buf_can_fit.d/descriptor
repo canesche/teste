@@ -1,0 +1,2 @@
+struct seq_buf | len long | size long 
+function seq_buf_can_fit int | s struct seq_buf * | len unsigned long

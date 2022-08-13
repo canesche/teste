@@ -1,0 +1,3 @@
+struct ext4_xattr_ref | fs struct TYPE_2__ * 
+struct TYPE_2__ | BlockSize int 
+function ext4_xattr_block_space int | xattr_ref struct ext4_xattr_ref *

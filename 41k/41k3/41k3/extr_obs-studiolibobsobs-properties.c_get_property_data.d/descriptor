@@ -1,0 +1,2 @@
+struct obs_property | dummy int 
+function get_property_data void * | prop struct obs_property *

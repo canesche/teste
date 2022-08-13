@@ -1,0 +1,2 @@
+struct selinux_avc | avc_cache_threshold unsigned int 
+function avc_set_cache_threshold void | avc struct selinux_avc * | cache_threshold unsigned int

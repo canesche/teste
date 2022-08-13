@@ -1,0 +1,2 @@
+struct cflayer | up struct cflayer * 
+function cffrml_set_uplayer void | this struct cflayer * | up struct cflayer *

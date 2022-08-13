@@ -1,0 +1,2 @@
+struct inbuf | base void * | ptr void * | limit void * 
+function inbuf_init void | inb struct inbuf * | base void * | limit void *

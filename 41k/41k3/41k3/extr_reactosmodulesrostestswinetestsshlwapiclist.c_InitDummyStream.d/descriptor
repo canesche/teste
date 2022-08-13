@@ -1,0 +1,4 @@
+struct TYPE_4__ | QuadPart long 
+struct TYPE_3__ | lpVtbl int * 
+struct dummystream | ref int | pos struct TYPE_4__ | item int | failstatcall void * | statcalls long | seekcalls long | failwritesize void * | failwritecall void * | writecalls long | readreturnlarge void * | readbeyondend void * | failreadsize void * | failreadcall void * | readcalls long | IStream_iface struct TYPE_3__ 
+function InitDummyStream void | obj struct dummystream *

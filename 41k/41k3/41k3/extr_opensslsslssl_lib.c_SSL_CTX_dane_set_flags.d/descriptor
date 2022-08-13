@@ -1,0 +1,3 @@
+struct TYPE_4__ | flags unsigned long 
+struct TYPE_5__ | dane struct TYPE_4__ 
+function SSL_CTX_dane_set_flags unsigned long | ctx struct TYPE_5__ * | flags unsigned long

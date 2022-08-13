@@ -1,0 +1,3 @@
+struct seq_file | dummy int 
+struct irq_desc | dummy int 
+function irq_debug_show_masks void | m struct seq_file * | desc struct irq_desc *

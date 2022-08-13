@@ -1,0 +1,2 @@
+struct kmem_cache | dummy int 
+function ____cache_alloc_node void * | cachep struct kmem_cache * | flags int | nodeid int

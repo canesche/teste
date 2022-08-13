@@ -1,0 +1,2 @@
+struct seg6_local_lwt | iif long 
+function cmp_nla_iif int | a struct seg6_local_lwt * | b struct seg6_local_lwt *

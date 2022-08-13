@@ -1,0 +1,2 @@
+struct file | dummy int 
+function arch_get_unmapped_area unsigned long | file struct file * | addr unsigned long | len unsigned long | pgoff unsigned long | flags unsigned long

@@ -1,0 +1,2 @@
+struct range | end long | start long 
+function add_range int | range struct range * | az int | nr_range int | start long | end long

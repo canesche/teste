@@ -1,0 +1,4 @@
+struct TYPE_2__ | client int | port int 
+struct snd_seq_event | dest struct TYPE_2__ | source int | queue int 
+struct seq_oss_devinfo | addr int | queue int 
+function snd_seq_oss_fill_addr void | dp struct seq_oss_devinfo * | ev struct snd_seq_event * | dest_client int | dest_port int

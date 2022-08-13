@@ -1,0 +1,2 @@
+struct TYPE_3__ | seeded int | left long | next long 
+function THGenerator_isValid int | _generator struct TYPE_3__ *

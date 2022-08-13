@@ -1,0 +1,2 @@
+struct rpc_task | dummy int 
+function gss_refresh_null int | task struct rpc_task *

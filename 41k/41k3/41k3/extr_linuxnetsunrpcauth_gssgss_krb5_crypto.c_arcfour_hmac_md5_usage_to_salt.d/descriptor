@@ -1,0 +1,1 @@
+function arcfour_hmac_md5_usage_to_salt int | usage unsigned int | salt unsigned int [4]

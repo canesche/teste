@@ -1,0 +1,4 @@
+struct TYPE_6__ | next_pts long 
+struct TYPE_5__ | next_pts long 
+struct TYPE_7__ | a struct TYPE_6__ | has_audio long | v struct TYPE_5__ | has_video long 
+function mp_media_get_base_pts long | m struct TYPE_7__ *

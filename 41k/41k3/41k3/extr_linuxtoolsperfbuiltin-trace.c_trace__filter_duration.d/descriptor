@@ -1,0 +1,2 @@
+struct trace | duration_filter double 
+function trace__filter_duration int | trace struct trace * | t double

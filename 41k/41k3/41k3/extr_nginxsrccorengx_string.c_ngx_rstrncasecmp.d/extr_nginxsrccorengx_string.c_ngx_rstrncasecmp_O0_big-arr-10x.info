@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 39,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 251,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_nginxsrccorengx_string.c_ngx_rstrncasecmp.d/extr_nginxsrccorengx_string.c_ngx_rstrncasecmp_O0::ngx_rstrncasecmp(63)"
+  }
+]

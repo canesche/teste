@@ -1,0 +1,2 @@
+struct spinlock | lock long 
+function spinlock_init void | lock struct spinlock *

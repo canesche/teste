@@ -1,0 +1,2 @@
+struct timer_base | dummy int 
+function forward_timer_base void | base struct timer_base *

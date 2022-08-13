@@ -1,0 +1,2 @@
+struct page | dummy int 
+function put_arg_page void | page struct page *

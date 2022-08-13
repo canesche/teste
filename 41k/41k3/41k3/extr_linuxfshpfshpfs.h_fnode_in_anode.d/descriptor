@@ -1,0 +1,2 @@
+struct fnode | flags int 
+function fnode_in_anode int | p struct fnode *

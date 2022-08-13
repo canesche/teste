@@ -1,0 +1,2 @@
+struct hal2_codec | master int | inc int | mod unsigned short 
+function hal2_compute_rate int | codec struct hal2_codec * | rate unsigned int

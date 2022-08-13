@@ -1,0 +1,3 @@
+struct fifo | num int 
+struct uart_softc | rxfifo struct fifo 
+function rxfifo_numchars int | sc struct uart_softc *

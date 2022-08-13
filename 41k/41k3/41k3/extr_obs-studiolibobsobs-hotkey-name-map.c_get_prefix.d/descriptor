@@ -1,0 +1,2 @@
+struct TYPE_3__ | prefix_len long | prefix char * | compressed_prefix char * 
+function get_prefix char * | e struct TYPE_3__ *

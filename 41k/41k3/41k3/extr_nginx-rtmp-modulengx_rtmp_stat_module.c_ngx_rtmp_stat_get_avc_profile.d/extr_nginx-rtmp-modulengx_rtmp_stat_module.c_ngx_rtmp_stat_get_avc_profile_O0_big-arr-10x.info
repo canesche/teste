@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_nginx-rtmp-modulengx_rtmp_stat_module.c_ngx_rtmp_stat_get_avc_profile.d/extr_nginx-rtmp-modulengx_rtmp_stat_module.c_ngx_rtmp_stat_get_avc_profile_O0::ngx_rtmp_stat_get_avc_profile(61)"
+  }
+]

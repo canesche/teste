@@ -1,0 +1,2 @@
+struct InteractiveData | is_closing int 
+function tcp_close void | more struct InteractiveData *

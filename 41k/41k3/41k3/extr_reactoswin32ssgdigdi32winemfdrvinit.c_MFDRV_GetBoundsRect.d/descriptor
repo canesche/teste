@@ -1,0 +1,1 @@
+function MFDRV_GetBoundsRect int | dev int | rect int * | flags int

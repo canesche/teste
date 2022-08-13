@@ -1,0 +1,2 @@
+struct softnet_data | dummy int 
+function net_rps_send_ipi void | remsd struct softnet_data *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | current_read_buffer long | current_write_buffer long 
+function usbd_hid_rx_num int | hid struct TYPE_3__ *

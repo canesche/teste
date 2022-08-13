@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriverswatchdogdw_wdt.c_dw_wdt_top_in_seconds.d/extr_linuxdriverswatchdogdw_wdt.c_dw_wdt_top_in_seconds_O0::dw_wdt_top_in_seconds(61)"
+  }
+]

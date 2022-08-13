@@ -1,0 +1,2 @@
+struct TYPE_2__ | m_iMaxReqProcessTime int 
+function LSAPI_Set_Max_Process_Time void | secs int

@@ -1,0 +1,2 @@
+struct xfs_bmalloca | dummy int 
+function xfs_bmap_rtalloc int | ap struct xfs_bmalloca *

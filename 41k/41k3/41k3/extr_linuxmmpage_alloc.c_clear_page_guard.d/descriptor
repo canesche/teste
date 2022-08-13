@@ -1,0 +1,3 @@
+struct zone | dummy int 
+struct page | dummy int 
+function clear_page_guard void | zone struct zone * | page struct page * | order unsigned int | migratetype int

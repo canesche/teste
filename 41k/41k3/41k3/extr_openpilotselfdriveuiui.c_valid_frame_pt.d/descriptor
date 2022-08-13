@@ -1,0 +1,2 @@
+struct TYPE_3__ | rgb_width float | rgb_height float 
+function valid_frame_pt int | s struct TYPE_3__ * | x float | y float

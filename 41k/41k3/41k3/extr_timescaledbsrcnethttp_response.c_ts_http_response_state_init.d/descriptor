@@ -1,0 +1,2 @@
+struct TYPE_3__ | status_code int | state int 
+function ts_http_response_state_init void | state struct TYPE_3__ *

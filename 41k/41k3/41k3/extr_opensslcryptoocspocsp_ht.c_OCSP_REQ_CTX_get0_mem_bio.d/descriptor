@@ -1,0 +1,2 @@
+struct TYPE_3__ | mem int * 
+function OCSP_REQ_CTX_get0_mem_bio int * | rctx struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct stats | n double | mean double | M2 double | max long | min long 
+function init_stats void | stats struct stats *

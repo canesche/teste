@@ -1,0 +1,3 @@
+struct transfer_info | dummy int 
+struct codec_info_item | dummy int 
+function toonie_usable int | cii struct codec_info_item * | ti struct transfer_info * | out struct transfer_info *

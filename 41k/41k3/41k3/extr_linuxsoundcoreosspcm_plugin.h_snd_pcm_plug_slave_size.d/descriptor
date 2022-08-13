@@ -1,0 +1,2 @@
+struct snd_pcm_substream | dummy int 
+function snd_pcm_plug_slave_size int | handle struct snd_pcm_substream * | clt_size int

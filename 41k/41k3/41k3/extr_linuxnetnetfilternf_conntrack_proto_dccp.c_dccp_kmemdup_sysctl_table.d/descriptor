@@ -1,0 +1,4 @@
+struct nf_proto_net | dummy int 
+struct nf_dccp_net | dummy int 
+struct net | dummy int 
+function dccp_kmemdup_sysctl_table int | net struct net * | pn struct nf_proto_net * | dn struct nf_dccp_net *

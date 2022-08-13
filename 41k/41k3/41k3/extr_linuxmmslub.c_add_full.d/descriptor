@@ -1,0 +1,4 @@
+struct page | dummy int 
+struct kmem_cache_node | dummy int 
+struct kmem_cache | dummy int 
+function add_full void | s struct kmem_cache * | n struct kmem_cache_node * | page struct page *

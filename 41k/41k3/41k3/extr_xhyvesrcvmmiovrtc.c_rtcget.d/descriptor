@@ -1,0 +1,2 @@
+struct rtcdev | reg_b int 
+function rtcget int | rtc struct rtcdev * | val int | retval int *

@@ -1,0 +1,2 @@
+struct lx_rmh | dummy int 
+function lx_message_dump void | rmh struct lx_rmh *

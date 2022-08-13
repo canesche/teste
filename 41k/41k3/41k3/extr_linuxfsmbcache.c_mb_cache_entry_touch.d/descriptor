@@ -1,0 +1,3 @@
+struct mb_cache_entry | e_referenced int 
+struct mb_cache | dummy int 
+function mb_cache_entry_touch void | cache struct mb_cache * | entry struct mb_cache_entry *

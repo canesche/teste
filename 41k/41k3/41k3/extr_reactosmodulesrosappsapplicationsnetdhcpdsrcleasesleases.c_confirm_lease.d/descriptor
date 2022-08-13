@@ -1,0 +1,4 @@
+struct TYPE_8__ | siaddr int | lease int | mask int | router int | ip int 
+struct TYPE_6__ | lease int | siaddr int | mask int | router int | ip int 
+struct TYPE_7__ | xid long | data struct TYPE_6__ | ltime int | available int | next struct TYPE_7__ * 
+function confirm_lease int | dhcpl struct TYPE_8__ * | xid long

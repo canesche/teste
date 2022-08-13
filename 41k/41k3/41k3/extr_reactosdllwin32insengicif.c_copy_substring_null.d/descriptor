@@ -1,0 +1,1 @@
+function copy_substring_null int | dest char * | max_len int | src char *

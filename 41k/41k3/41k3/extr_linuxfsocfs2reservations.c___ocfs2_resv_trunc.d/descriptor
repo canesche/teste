@@ -1,0 +1,2 @@
+struct ocfs2_alloc_reservation | r_start long | r_len long 
+function __ocfs2_resv_trunc void | resv struct ocfs2_alloc_reservation *

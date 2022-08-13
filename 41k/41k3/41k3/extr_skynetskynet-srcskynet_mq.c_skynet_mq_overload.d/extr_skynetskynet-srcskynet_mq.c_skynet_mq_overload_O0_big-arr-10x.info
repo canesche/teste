@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_skynetskynet-srcskynet_mq.c_skynet_mq_overload.d/extr_skynetskynet-srcskynet_mq.c_skynet_mq_overload_O0::skynet_mq_overload(61)"
+  }
+]

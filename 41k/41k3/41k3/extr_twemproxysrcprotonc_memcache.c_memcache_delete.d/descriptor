@@ -1,0 +1,2 @@
+struct msg | type long 
+function memcache_delete int | r struct msg *

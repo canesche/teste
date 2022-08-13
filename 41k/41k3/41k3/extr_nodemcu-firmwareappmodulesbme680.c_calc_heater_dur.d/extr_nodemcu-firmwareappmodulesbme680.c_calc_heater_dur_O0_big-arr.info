@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_nodemcu-firmwareappmodulesbme680.c_calc_heater_dur.d/extr_nodemcu-firmwareappmodulesbme680.c_calc_heater_dur_O0::calc_heater_dur(62)"
+  }
+]

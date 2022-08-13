@@ -1,0 +1,3 @@
+struct vsock_transport_recv_notify_data | dummy int 
+struct vsock_sock | dummy int 
+function hvs_notify_recv_post_dequeue int | vsk struct vsock_sock * | target unsigned long | copied int | data_read int | d struct vsock_transport_recv_notify_data *

@@ -1,0 +1,2 @@
+struct pci_dev | device int 
+function xen_pcibk_read_device int | dev struct pci_dev * | offset int | value int * | data void *

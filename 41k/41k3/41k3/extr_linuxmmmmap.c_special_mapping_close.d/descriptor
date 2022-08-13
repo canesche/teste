@@ -1,0 +1,2 @@
+struct vm_area_struct | dummy int 
+function special_mapping_close void | vma struct vm_area_struct *

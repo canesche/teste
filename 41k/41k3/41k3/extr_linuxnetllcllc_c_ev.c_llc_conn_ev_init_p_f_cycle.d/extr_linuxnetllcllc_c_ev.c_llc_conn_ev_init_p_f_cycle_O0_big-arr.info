@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetllcllc_c_ev.c_llc_conn_ev_init_p_f_cycle.d/extr_linuxnetllcllc_c_ev.c_llc_conn_ev_init_p_f_cycle_O0::llc_conn_ev_init_p_f_cycle(62)"
+  }
+]

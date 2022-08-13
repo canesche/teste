@@ -1,0 +1,2 @@
+struct file | dummy int 
+function no_llseek int | file struct file * | offset int | whence int

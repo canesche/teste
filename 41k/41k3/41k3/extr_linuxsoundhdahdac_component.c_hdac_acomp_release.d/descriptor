@@ -1,0 +1,2 @@
+struct device | dummy int 
+function hdac_acomp_release void | dev struct device * | res void *

@@ -1,0 +1,2 @@
+struct nfc_hci_dev | clientdata void * 
+function nfc_hci_get_clientdata void * | hdev struct nfc_hci_dev *

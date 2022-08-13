@@ -1,0 +1,4 @@
+struct nilfs_sc_info | sc_segbuf_nblocks unsigned long | sc_nblk_this_inc unsigned long | sc_curseg struct TYPE_4__ * 
+struct TYPE_3__ | nblocks unsigned long 
+struct TYPE_4__ | sb_sum struct TYPE_3__ 
+function nilfs_segctor_buffer_rest unsigned long | sci struct nilfs_sc_info *

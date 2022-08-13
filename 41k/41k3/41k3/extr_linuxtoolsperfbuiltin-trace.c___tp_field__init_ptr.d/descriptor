@@ -1,0 +1,2 @@
+struct tp_field | offset int | pointer int 
+function __tp_field__init_ptr int | field struct tp_field * | offset int

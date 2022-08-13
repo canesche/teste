@@ -1,0 +1,2 @@
+struct hci_dev | dummy int 
+function hci_debugfs_create_le void | hdev struct hci_dev *

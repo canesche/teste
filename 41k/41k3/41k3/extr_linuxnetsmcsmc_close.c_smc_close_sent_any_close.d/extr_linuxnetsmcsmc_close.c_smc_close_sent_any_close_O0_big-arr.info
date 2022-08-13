@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetsmcsmc_close.c_smc_close_sent_any_close.d/extr_linuxnetsmcsmc_close.c_smc_close_sent_any_close_O0::smc_close_sent_any_close(65)"
+  }
+]

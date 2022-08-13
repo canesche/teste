@@ -1,0 +1,6 @@
+struct TYPE_5__ | f_nscns int 
+struct r_bin_coff_obj | scn_hdrs struct TYPE_6__ * | hdr struct TYPE_5__ 
+struct coff_symbol | n_scnum int | n_value long 
+struct TYPE_7__ | paddr long 
+struct TYPE_6__ | s_scnptr long 
+function r_coff_rebase_sym int | obj struct r_bin_coff_obj * | addr struct TYPE_7__ * | sym struct coff_symbol *

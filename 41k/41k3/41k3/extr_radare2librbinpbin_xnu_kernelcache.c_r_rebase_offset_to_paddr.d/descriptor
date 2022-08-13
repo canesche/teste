@@ -1,0 +1,4 @@
+struct section_t | addr long | vsize long | offset long | last int 
+struct TYPE_5__ | rebase_info struct TYPE_4__ * 
+struct TYPE_4__ | kernel_base long 
+function r_rebase_offset_to_paddr long | obj struct TYPE_5__ * | sections struct section_t * | offset long

@@ -1,0 +1,5 @@
+struct TYPE_3__ | flags int 
+struct batadv_tt_local_entry | common struct TYPE_3__ 
+struct TYPE_4__ | flags int 
+struct batadv_tt_global_entry | common struct TYPE_4__ 
+function _batadv_is_ap_isolated int | tt_local_entry struct batadv_tt_local_entry * | tt_global_entry struct batadv_tt_global_entry *

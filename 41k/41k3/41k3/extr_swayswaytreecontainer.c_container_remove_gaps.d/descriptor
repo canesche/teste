@@ -1,0 +1,3 @@
+struct TYPE_2__ | top long | right long | bottom long | left long 
+struct sway_container | current_gaps struct TYPE_2__ | y int | x int | height int | width int 
+function container_remove_gaps void | c struct sway_container *

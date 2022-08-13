@@ -1,0 +1,2 @@
+struct kiocb | ki_flags int 
+function dio_bio_write_op unsigned int | iocb struct kiocb *

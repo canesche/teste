@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsnfsdnfs4state.c_nfsd4_is_deleg_cur.d/extr_linuxfsnfsdnfs4state.c_nfsd4_is_deleg_cur_O0::nfsd4_is_deleg_cur(63)"
+  }
+]

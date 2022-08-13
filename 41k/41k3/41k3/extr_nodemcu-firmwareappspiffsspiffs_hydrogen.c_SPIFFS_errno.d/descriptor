@@ -1,0 +1,2 @@
+struct TYPE_3__ | err_code int 
+function SPIFFS_errno int | fs struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct ocfs2_blockcheck_stats | dummy int 
+function ocfs2_blockcheck_debug_remove void | stats struct ocfs2_blockcheck_stats *

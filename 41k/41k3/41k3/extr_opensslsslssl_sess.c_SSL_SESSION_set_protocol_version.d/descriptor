@@ -1,0 +1,2 @@
+struct TYPE_3__ | ssl_version int 
+function SSL_SESSION_set_protocol_version int | s struct TYPE_3__ * | version int

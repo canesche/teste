@@ -1,0 +1,2 @@
+struct TYPE_3__ | sy int | tpixels int ** | sx int | pixels unsigned char ** | trueColor long 
+function gdImageFlipHorizontal void | im struct TYPE_3__ *

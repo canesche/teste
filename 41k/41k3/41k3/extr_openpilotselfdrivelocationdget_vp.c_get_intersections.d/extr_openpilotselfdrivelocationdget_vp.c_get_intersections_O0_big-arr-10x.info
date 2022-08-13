@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 10,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 15,
+    static: {
+      instructions: 75,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5733,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_openpilotselfdrivelocationdget_vp.c_get_intersections.d/extr_openpilotselfdrivelocationdget_vp.c_get_intersections_O0::get_intersections(61)"
+  }
+]

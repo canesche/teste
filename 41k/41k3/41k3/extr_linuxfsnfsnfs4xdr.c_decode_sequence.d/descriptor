@@ -1,0 +1,4 @@
+struct xdr_stream | dummy int 
+struct rpc_rqst | dummy int 
+struct nfs4_sequence_res | dummy int 
+function decode_sequence int | xdr struct xdr_stream * | res struct nfs4_sequence_res * | rqstp struct rpc_rqst *

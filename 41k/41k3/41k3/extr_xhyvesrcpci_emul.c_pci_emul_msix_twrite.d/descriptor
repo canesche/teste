@@ -1,0 +1,3 @@
+struct TYPE_2__ | table_count int | table long 
+struct pci_devinst | pi_msix struct TYPE_2__ 
+function pci_emul_msix_twrite int | pi struct pci_devinst * | offset int | size int | value int

@@ -1,0 +1,2 @@
+struct snd_korg1212 | playback_pid long | capture_pid long 
+function snd_korg1212_use_is_exclusive int | korg1212 struct snd_korg1212 *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 35,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 54,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_os-tutorial17-video-scrollkernelutil.c_int_to_ascii.d/extr_os-tutorial17-video-scrollkernelutil.c_int_to_ascii_O0::int_to_ascii(59)"
+  }
+]

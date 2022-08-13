@@ -1,0 +1,2 @@
+struct d3d9_texture | usage int | flags int 
+function d3d9_texture_flag_auto_gen_mipmap void | texture struct d3d9_texture *

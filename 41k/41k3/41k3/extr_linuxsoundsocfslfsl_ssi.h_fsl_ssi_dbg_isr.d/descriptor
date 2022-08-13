@@ -1,0 +1,2 @@
+struct fsl_ssi_dbg | dummy int 
+function fsl_ssi_dbg_isr void | stats struct fsl_ssi_dbg * | sisr int

@@ -1,0 +1,5 @@
+struct rds_info_rdma_connection | rdma_mr_size int | rdma_mr_max int 
+struct TYPE_2__ | max_pages int 
+struct rds_ib_mr_pool | fmr_attr struct TYPE_2__ | max_items int 
+struct rds_ib_device | mr_1m_pool struct rds_ib_mr_pool * 
+function rds_ib_get_mr_info void | rds_ibdev struct rds_ib_device * | iinfo struct rds_info_rdma_connection *

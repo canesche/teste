@@ -1,0 +1,2 @@
+struct TYPE_3__ | ns int 
+function nstime_init2 void | time struct TYPE_3__ * | sec int | nsec int

@@ -1,0 +1,2 @@
+struct mp_aframe | speed double 
+function mp_aframe_mul_speed void | frame struct mp_aframe * | factor double

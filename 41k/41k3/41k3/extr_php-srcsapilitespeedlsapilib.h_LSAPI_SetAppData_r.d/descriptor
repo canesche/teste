@@ -1,0 +1,2 @@
+struct TYPE_3__ | m_pAppData void * 
+function LSAPI_SetAppData_r int | pReq struct TYPE_3__ * | data void *

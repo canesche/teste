@@ -1,0 +1,2 @@
+struct vm_area_struct | vm_start unsigned long | vm_pgoff long 
+function vaddr_to_offset unsigned long | vma struct vm_area_struct * | vaddr unsigned long

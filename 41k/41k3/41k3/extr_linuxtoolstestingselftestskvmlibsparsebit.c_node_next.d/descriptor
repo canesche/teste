@@ -1,0 +1,3 @@
+struct sparsebit | dummy int 
+struct node | parent struct node * | right struct node * | left struct node * 
+function node_next struct node * | s struct sparsebit * | np struct node *

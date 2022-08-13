@@ -1,0 +1,4 @@
+struct TYPE_6__ | count long 
+struct TYPE_8__ | tinfo struct TYPE_6__ 
+struct TYPE_7__ | limit long 
+function ts_scanner_limit_reached int | ctx struct TYPE_7__ * | ictx struct TYPE_8__ *

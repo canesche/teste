@@ -1,0 +1,2 @@
+struct snd_soc_dai | dummy int 
+function ad1836_set_dai_fmt int | codec_dai struct snd_soc_dai * | fmt unsigned int

@@ -1,0 +1,5 @@
+struct rpcrdma_ia | ri_max_inline_read long 
+struct rpcrdma_xprt | rx_ia struct rpcrdma_ia 
+struct TYPE_2__ | buflen long 
+struct rpc_rqst | rq_rcv_buf struct TYPE_2__ 
+function rpcrdma_results_inline int | r_xprt struct rpcrdma_xprt * | rqst struct rpc_rqst *

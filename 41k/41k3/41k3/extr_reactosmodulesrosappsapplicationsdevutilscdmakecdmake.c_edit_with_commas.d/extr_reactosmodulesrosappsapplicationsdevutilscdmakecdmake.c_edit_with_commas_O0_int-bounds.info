@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 163,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosmodulesrosappsapplicationsdevutilscdmakecdmake.c_edit_with_commas.d/extr_reactosmodulesrosappsapplicationsdevutilscdmakecdmake.c_edit_with_commas_O0::edit_with_commas(62)"
+  }
+]

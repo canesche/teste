@@ -1,0 +1,2 @@
+struct fb_info | dummy int 
+function matroxfb_dh_blank int | blank int | info struct fb_info *

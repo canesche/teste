@@ -1,0 +1,3 @@
+struct omapfb_colormode | transp int | blue int | green int | red int | nonstd int | bits_per_pixel int 
+struct fb_var_screeninfo | transp int | blue int | green int | red int | nonstd int | bits_per_pixel int 
+function assign_colormode_to_var void | var struct fb_var_screeninfo * | color struct omapfb_colormode *

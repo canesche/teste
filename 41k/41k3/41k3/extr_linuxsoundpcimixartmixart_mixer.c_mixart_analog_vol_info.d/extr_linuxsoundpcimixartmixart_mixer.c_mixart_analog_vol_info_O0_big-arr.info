@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundpcimixartmixart_mixer.c_mixart_analog_vol_info.d/extr_linuxsoundpcimixartmixart_mixer.c_mixart_analog_vol_info_O0::mixart_analog_vol_info(71)"
+  }
+]

@@ -1,0 +1,2 @@
+struct rfkill | dummy int 
+function rfkill_led_trigger_event void | rfkill struct rfkill *

@@ -1,0 +1,2 @@
+struct rt5677_priv | dummy int 
+function rt5677_gpio_config void | rt5677 struct rt5677_priv * | offset unsigned int | value int

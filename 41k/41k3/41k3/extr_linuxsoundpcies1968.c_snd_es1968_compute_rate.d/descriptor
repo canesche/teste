@@ -1,0 +1,2 @@
+struct es1968 | clock int 
+function snd_es1968_compute_rate int | chip struct es1968 * | freq int

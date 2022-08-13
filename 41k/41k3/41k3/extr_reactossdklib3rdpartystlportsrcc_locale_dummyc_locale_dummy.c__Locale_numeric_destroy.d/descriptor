@@ -1,0 +1,2 @@
+struct _Locale_numeric | dummy int 
+function _Locale_numeric_destroy void | lnum struct _Locale_numeric *

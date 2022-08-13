@@ -1,0 +1,2 @@
+struct batadv_icmp_header | dummy int 
+function batadv_socket_receive_packet void | icmph struct batadv_icmp_header * | icmp_len unsigned long

@@ -1,0 +1,3 @@
+struct TYPE_2__ | enable_blend int | blend_src_rgb int | blend_dst_rgb int | blend_src_alpha int | blend_dst_alpha int 
+struct gl_shader_cache | params struct TYPE_2__ 
+function gl_sc_blend void | sc struct gl_shader_cache * | blend_src_rgb enum ra_blend | blend_dst_rgb enum ra_blend | blend_src_alpha enum ra_blend | blend_dst_alpha enum ra_blend

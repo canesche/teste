@@ -1,0 +1,2 @@
+struct socket | dummy int 
+function sock_no_shutdown int | sock struct socket * | how int

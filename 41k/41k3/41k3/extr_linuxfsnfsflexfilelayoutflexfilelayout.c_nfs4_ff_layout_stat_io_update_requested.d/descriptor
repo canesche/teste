@@ -1,0 +1,3 @@
+struct nfs4_ff_io_stat | bytes_requested int | ops_requested int 
+struct nfs4_ff_layoutstat | io_stat struct nfs4_ff_io_stat 
+function nfs4_ff_layout_stat_io_update_requested void | layoutstat struct nfs4_ff_layoutstat * | requested long

@@ -1,0 +1,2 @@
+struct hdmi_config | hdmi_dvi_mode long 
+function hdmi_mode_has_audio int | cfg struct hdmi_config *

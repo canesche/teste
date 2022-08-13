@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxtoolstestingselftestsvmuserfaultfd.c_hugetlb_alias_mapping.d/extr_linuxtoolstestingselftestsvmuserfaultfd.c_hugetlb_alias_mapping_O0::hugetlb_alias_mapping(63)"
+  }
+]

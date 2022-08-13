@@ -1,0 +1,2 @@
+struct TYPE_2__ | tid int | pid int 
+function r_debug_findthread void * | pid int | tid int

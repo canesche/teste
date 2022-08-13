@@ -1,0 +1,2 @@
+struct TYPE_3__ | nColorTblLen int | colortbl long * 
+function add_color_to_colortbl void | stream struct TYPE_3__ * | color long

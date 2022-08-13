@@ -1,0 +1,2 @@
+struct echoaudio | dummy int 
+function free_firmware_cache void | chip struct echoaudio *

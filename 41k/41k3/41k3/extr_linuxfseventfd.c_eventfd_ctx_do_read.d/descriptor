@@ -1,0 +1,2 @@
+struct eventfd_ctx | flags int | count int 
+function eventfd_ctx_do_read void | ctx struct eventfd_ctx * | cnt int *

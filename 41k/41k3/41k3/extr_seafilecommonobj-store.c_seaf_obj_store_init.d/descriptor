@@ -1,0 +1,1 @@
+function seaf_obj_store_init int | obj_store int * | enable_async int | ev_mgr int *

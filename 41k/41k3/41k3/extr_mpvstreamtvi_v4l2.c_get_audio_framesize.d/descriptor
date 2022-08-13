@@ -1,0 +1,3 @@
+struct TYPE_4__ | blocksize int 
+struct TYPE_5__ | audio_in struct TYPE_4__ 
+function get_audio_framesize int | priv struct TYPE_5__ *

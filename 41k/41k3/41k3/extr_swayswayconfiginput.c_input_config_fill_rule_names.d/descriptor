@@ -1,0 +1,3 @@
+struct xkb_rule_names | variant int | rules int | options int | model int | layout int 
+struct input_config | xkb_variant int | xkb_rules int | xkb_options int | xkb_model int | xkb_layout int 
+function input_config_fill_rule_names void | ic struct input_config * | rules struct xkb_rule_names *

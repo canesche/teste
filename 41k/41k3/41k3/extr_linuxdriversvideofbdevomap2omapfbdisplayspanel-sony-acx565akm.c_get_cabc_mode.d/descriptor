@@ -1,0 +1,2 @@
+struct panel_drv_data | cabc_mode int 
+function get_cabc_mode unsigned int | ddata struct panel_drv_data *

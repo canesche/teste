@@ -1,0 +1,1 @@
+function calc_cksum long | start int | end int | mem long *

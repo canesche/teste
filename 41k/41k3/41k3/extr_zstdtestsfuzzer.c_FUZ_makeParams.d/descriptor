@@ -1,0 +1,2 @@
+struct TYPE_3__ | fParams int | cParams int 
+function FUZ_makeParams struct TYPE_3__ | cParams int | fParams int

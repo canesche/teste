@@ -1,0 +1,2 @@
+struct sched_dl_entity | dummy int 
+function dl_entity_is_special int | dl_se struct sched_dl_entity *

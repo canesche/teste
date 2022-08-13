@@ -1,0 +1,1 @@
+function checkUnsignedBitfieldOverflow int | value int | incr long | bits int | owtype int | limit int *

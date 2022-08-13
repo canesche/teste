@@ -1,0 +1,2 @@
+struct btrfs_raid_bio | nr_data int 
+function is_data_stripe int | rbio struct btrfs_raid_bio * | stripe int

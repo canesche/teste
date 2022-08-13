@@ -1,0 +1,3 @@
+struct omap_mcbsp | phys_dma_base int | pdata struct TYPE_2__ * 
+struct TYPE_2__ | reg_size int | reg_step int 
+function omap_mcbsp_dma_reg_params int | mcbsp struct omap_mcbsp * | stream unsigned int

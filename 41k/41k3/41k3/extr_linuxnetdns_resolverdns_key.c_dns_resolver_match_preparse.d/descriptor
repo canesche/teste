@@ -1,0 +1,2 @@
+struct key_match_data | cmp int | lookup_type int 
+function dns_resolver_match_preparse int | match_data struct key_match_data *

@@ -1,0 +1,2 @@
+struct segment | num_stream_map int | stream_map int * 
+function target_stream_used int | seg struct segment * | target_index int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_toxcoretoxcoreTCP_connection.c_rm_tcp_connection_from_conn.d/extr_toxcoretoxcoreTCP_connection.c_rm_tcp_connection_from_conn_O0::rm_tcp_connection_from_conn(67)"
+  }
+]

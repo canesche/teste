@@ -1,0 +1,2 @@
+struct TYPE_3__ | version int 
+function ts_http_request_set_version void | req struct TYPE_3__ * | version int

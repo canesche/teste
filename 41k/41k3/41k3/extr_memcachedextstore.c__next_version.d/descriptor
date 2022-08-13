@@ -1,0 +1,2 @@
+struct TYPE_3__ | version int 
+function _next_version int | e struct TYPE_3__ *

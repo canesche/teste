@@ -1,0 +1,2 @@
+struct trusted_key_options | dummy int 
+function dump_options void | o struct trusted_key_options *

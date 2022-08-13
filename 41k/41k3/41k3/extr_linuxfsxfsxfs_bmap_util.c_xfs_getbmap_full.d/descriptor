@@ -1,0 +1,2 @@
+struct getbmapx | bmv_length long | bmv_entries int | bmv_count int 
+function xfs_getbmap_full int | bmv struct getbmapx *

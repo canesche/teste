@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 9,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_opensslcryptosiphashsiphash_ameth.c_siphash_pkey_ctrl.d/extr_opensslcryptosiphashsiphash_ameth.c_siphash_pkey_ctrl_O0::siphash_pkey_ctrl(61)"
+  }
+]

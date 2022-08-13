@@ -1,0 +1,2 @@
+struct TYPE_3__ | value char * | length long 
+function strbuffer_clear void | strbuff struct TYPE_3__ *

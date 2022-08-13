@@ -1,0 +1,2 @@
+struct TYPE_3__ | sorted int | size long | head int | cursor int | tail int * 
+function Q_Init int | q struct TYPE_3__ *

@@ -1,0 +1,1 @@
+value(response_code) == 100, value(response_headers) == 100

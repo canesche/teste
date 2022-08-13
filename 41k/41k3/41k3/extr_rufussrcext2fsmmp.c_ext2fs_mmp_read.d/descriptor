@@ -1,0 +1,1 @@
+function ext2fs_mmp_read int | fs int | mmp_blk int | buf void *

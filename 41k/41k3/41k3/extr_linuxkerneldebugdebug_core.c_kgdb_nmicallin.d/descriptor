@@ -1,0 +1,1 @@
+function kgdb_nmicallin int | cpu int | trapnr int | regs void * | err_code int | send_ready int *

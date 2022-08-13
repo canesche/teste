@@ -1,0 +1,2 @@
+struct TYPE_4__ | tv_sec long | tv_nsec long 
+function snd_seq_compare_real_time int | a struct TYPE_4__ * | b struct TYPE_4__ *

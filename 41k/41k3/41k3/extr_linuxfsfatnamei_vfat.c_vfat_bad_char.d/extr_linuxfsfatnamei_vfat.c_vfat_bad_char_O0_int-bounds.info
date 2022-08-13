@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 11,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 21,
+    static: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsfatnamei_vfat.c_vfat_bad_char.d/extr_linuxfsfatnamei_vfat.c_vfat_bad_char_O0::vfat_bad_char(61)"
+  }
+]

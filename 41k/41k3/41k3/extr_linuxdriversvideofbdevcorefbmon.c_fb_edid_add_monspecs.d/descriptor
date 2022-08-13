@@ -1,0 +1,2 @@
+struct fb_monspecs | dummy int 
+function fb_edid_add_monspecs void | edid unsigned char * | specs struct fb_monspecs *

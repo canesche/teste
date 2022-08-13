@@ -1,0 +1,2 @@
+struct rme96 | wcreg int | playback_frlog int | capture_frlog int 
+function snd_rme96_setframelog void | rme96 struct rme96 * | n_channels int | is_playback int

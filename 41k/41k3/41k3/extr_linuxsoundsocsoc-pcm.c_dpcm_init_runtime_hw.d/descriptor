@@ -1,0 +1,4 @@
+struct snd_soc_pcm_stream | formats int | rates int | channels_max int | channels_min int | rate_max int | rate_min int 
+struct TYPE_2__ | formats int | rates int | channels_max int | channels_min int | rate_max int | rate_min int 
+struct snd_pcm_runtime | hw struct TYPE_2__ 
+function dpcm_init_runtime_hw void | runtime struct snd_pcm_runtime * | stream struct snd_soc_pcm_stream *

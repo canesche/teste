@@ -1,0 +1,2 @@
+struct TYPE_2__ | count int | list unsigned int * 
+function snd_pcm_rate_range_to_bits unsigned int | rate_min unsigned int | rate_max unsigned int

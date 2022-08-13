@@ -1,0 +1,2 @@
+struct TYPE_3__ | max_time int 
+function profiler_snapshot_entry_max_time int | entry struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct sway_shortcut_state | npressed unsigned long | pressed_keys long * | current_key long | pressed_keycodes long * 
+function state_add_key void | state struct sway_shortcut_state * | keycode long | key_id long

@@ -1,0 +1,5 @@
+struct smcd_cdc_msg | conn_state_flags int | prod_flags int | cons_count int | cons_wrap int | prod_count int | prod_wrap int 
+struct TYPE_4__ | count int | wrap int 
+struct TYPE_3__ | count int | wrap int 
+struct smc_host_cdc_msg | conn_state_flags int | prod_flags int | cons struct TYPE_4__ | prod struct TYPE_3__ 
+function smcd_cdc_msg_to_host void | local struct smc_host_cdc_msg * | peer struct smcd_cdc_msg *

@@ -1,0 +1,2 @@
+struct device | dummy int 
+function cygnus_soc_platform_unregister int | dev struct device *

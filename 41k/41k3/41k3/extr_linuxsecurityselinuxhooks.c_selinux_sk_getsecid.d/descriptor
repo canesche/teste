@@ -1,0 +1,3 @@
+struct sock | sk_security struct sk_security_struct * 
+struct sk_security_struct | sid int 
+function selinux_sk_getsecid void | sk struct sock * | secid int *

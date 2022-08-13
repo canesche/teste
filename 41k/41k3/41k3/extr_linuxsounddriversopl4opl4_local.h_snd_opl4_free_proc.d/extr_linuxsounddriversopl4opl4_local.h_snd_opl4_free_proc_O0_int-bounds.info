@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsounddriversopl4opl4_local.h_snd_opl4_free_proc.d/extr_linuxsounddriversopl4opl4_local.h_snd_opl4_free_proc_O0::snd_opl4_free_proc(60)"
+  }
+]

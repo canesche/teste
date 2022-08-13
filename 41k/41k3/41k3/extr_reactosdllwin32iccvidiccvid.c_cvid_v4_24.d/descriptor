@@ -1,0 +1,2 @@
+struct TYPE_6__ | r int * | g int * | b int * 
+function cvid_v4_24 void | vptr unsigned char * | limit unsigned char * | stride int | inverted int | cb0 struct TYPE_6__ * | cb1 struct TYPE_6__ * | cb2 struct TYPE_6__ * | cb3 struct TYPE_6__ *

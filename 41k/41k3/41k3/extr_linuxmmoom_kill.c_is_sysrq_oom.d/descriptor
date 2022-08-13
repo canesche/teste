@@ -1,0 +1,2 @@
+struct oom_control | order int 
+function is_sysrq_oom int | oc struct oom_control *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | ex_pcpathlen long 
+function X509_set_proxy_pathlen void | x struct TYPE_3__ * | l long

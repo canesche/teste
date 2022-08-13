@@ -1,0 +1,2 @@
+struct perf_event | pmu long | cpu int 
+function exclusive_event_match int | e1 struct perf_event * | e2 struct perf_event *

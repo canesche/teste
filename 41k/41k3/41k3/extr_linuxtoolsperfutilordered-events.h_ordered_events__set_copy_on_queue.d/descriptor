@@ -1,0 +1,2 @@
+struct ordered_events | copy_on_queue int 
+function ordered_events__set_copy_on_queue void | oe struct ordered_events * | copy int

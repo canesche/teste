@@ -1,0 +1,4 @@
+struct audit_field | type int | val int | op int 
+struct TYPE_2__ | listnr int 
+struct audit_entry | rule struct TYPE_2__ 
+function audit_field_valid int | entry struct audit_entry * | f struct audit_field *

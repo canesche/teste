@@ -1,0 +1,2 @@
+struct us_data | dummy int 
+function sddr55_reset int | us struct us_data *

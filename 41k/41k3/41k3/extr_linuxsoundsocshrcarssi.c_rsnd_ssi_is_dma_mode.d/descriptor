@@ -1,0 +1,2 @@
+struct rsnd_mod | ops int * 
+function rsnd_ssi_is_dma_mode int | mod struct rsnd_mod *

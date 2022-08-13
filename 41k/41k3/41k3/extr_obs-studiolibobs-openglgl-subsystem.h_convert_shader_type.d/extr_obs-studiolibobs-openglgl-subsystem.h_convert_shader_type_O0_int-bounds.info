@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_obs-studiolibobs-openglgl-subsystem.h_convert_shader_type.d/extr_obs-studiolibobs-openglgl-subsystem.h_convert_shader_type_O0::convert_shader_type(64)"
+  }
+]

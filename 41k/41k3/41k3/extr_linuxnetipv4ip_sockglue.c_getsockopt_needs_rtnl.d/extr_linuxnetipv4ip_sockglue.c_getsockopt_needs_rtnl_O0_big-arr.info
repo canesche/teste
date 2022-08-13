@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetipv4ip_sockglue.c_getsockopt_needs_rtnl.d/extr_linuxnetipv4ip_sockglue.c_getsockopt_needs_rtnl_O0::getsockopt_needs_rtnl(62)"
+  }
+]

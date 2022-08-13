@@ -1,0 +1,1 @@
+function adau1977_check_sysclk int | mclk unsigned int | base_freq unsigned int

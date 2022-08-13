@@ -1,0 +1,4 @@
+struct maps | dummy int 
+struct TYPE_2__ | maps struct maps 
+struct machine | kmaps struct TYPE_2__ 
+function machine__kernel_maps struct maps * | machine struct machine *

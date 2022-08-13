@@ -1,0 +1,3 @@
+struct wlr_box | height int | width int | y int | x int 
+struct sway_output | height int | width int | ly int | lx int 
+function output_get_box void | output struct sway_output * | box struct wlr_box *

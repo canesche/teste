@@ -1,0 +1,7 @@
+struct TYPE_4__ | type long | reg long | offset long 
+struct TYPE_3__ | type long | reg long 
+struct stack_op | src struct TYPE_4__ | dest struct TYPE_3__ 
+struct instruction | stack_op struct stack_op 
+struct cfi_reg | base long | offset int 
+struct insn_state | cfa struct cfi_reg 
+function update_insn_state_regs int | insn struct instruction * | state struct insn_state *

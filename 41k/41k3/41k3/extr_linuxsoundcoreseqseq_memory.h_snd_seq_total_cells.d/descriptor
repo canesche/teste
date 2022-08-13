@@ -1,0 +1,2 @@
+struct snd_seq_pool | total_elements int 
+function snd_seq_total_cells int | pool struct snd_seq_pool *

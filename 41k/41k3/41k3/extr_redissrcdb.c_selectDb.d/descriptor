@@ -1,0 +1,3 @@
+struct TYPE_4__ | db int * 
+struct TYPE_5__ | dbnum int | db int * 
+function selectDb int | c struct TYPE_4__ * | id int

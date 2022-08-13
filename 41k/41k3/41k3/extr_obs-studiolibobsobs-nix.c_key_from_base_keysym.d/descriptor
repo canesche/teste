@@ -1,0 +1,2 @@
+struct TYPE_3__ | base_keysyms long * 
+function key_from_base_keysym int | context struct TYPE_3__ * | code long

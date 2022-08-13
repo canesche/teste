@@ -1,0 +1,2 @@
+struct list_lru | dummy int 
+function list_lru_memcg_aware int | lru struct list_lru *

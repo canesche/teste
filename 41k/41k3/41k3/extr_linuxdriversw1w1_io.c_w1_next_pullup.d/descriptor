@@ -1,0 +1,2 @@
+struct w1_master | pullup_duration int 
+function w1_next_pullup void | dev struct w1_master * | delay int

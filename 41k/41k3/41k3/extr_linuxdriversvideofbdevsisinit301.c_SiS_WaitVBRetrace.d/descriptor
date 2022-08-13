@@ -1,0 +1,2 @@
+struct SiS_Private | ChipType long 
+function SiS_WaitVBRetrace void | SiS_Pr struct SiS_Private *

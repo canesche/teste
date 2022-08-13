@@ -1,0 +1,2 @@
+struct tmuxproc | exit int 
+function proc_exit void | tp struct tmuxproc *

@@ -1,0 +1,2 @@
+struct sparsebit | num_set int 
+function sparsebit_num_set int | s struct sparsebit *

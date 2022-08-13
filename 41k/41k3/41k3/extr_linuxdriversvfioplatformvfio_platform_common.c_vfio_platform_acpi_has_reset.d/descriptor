@@ -1,0 +1,2 @@
+struct vfio_platform_device | dummy int 
+function vfio_platform_acpi_has_reset int | vdev struct vfio_platform_device *

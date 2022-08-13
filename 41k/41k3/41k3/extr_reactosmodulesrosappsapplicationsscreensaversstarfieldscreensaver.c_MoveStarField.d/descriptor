@@ -1,0 +1,2 @@
+struct TYPE_2__ | m_nXPos int | m_nYPos int | m_nZPos int 
+function MoveStarField void | nXofs int | nYofs int | nZofs int

@@ -1,0 +1,2 @@
+struct TYPE_3__ | nColorTblLen int | colortbl long * | nFontTblLen int 
+function find_color_in_colortbl int | stream struct TYPE_3__ * | color long | idx unsigned int *

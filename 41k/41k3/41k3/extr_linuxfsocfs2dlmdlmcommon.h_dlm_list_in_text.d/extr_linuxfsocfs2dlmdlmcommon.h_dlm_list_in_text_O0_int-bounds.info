@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsocfs2dlmdlmcommon.h_dlm_list_in_text.d/extr_linuxfsocfs2dlmdlmcommon.h_dlm_list_in_text_O0::dlm_list_in_text(62)"
+  }
+]

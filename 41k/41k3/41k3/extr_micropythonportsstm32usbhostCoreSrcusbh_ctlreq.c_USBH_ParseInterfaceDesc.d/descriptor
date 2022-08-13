@@ -1,0 +1,2 @@
+struct TYPE_3__ | iInterface void * | bInterfaceProtocol void * | bInterfaceSubClass void * | bInterfaceClass void * | bNumEndpoints void * | bAlternateSetting void * | bInterfaceNumber void * | bDescriptorType void * | bLength void * 
+function USBH_ParseInterfaceDesc void | if_descriptor struct TYPE_3__ * | buf void **

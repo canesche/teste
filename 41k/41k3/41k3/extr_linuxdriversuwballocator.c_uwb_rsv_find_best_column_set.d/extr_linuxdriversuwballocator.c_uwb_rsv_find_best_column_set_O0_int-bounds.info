@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 110,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 117,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversuwballocator.c_uwb_rsv_find_best_column_set.d/extr_linuxdriversuwballocator.c_uwb_rsv_find_best_column_set_O0::uwb_rsv_find_best_column_set(68)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 143,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_opensslcryptoeccurve25519.c_fe51_cswap.d/extr_opensslcryptoeccurve25519.c_fe51_cswap_O0::fe51_cswap(63)"
+  }
+]

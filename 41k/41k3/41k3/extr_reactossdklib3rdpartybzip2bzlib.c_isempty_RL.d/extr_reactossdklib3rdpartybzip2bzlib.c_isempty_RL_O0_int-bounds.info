@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactossdklib3rdpartybzip2bzlib.c_isempty_RL.d/extr_reactossdklib3rdpartybzip2bzlib.c_isempty_RL_O0::isempty_RL(67)"
+  }
+]

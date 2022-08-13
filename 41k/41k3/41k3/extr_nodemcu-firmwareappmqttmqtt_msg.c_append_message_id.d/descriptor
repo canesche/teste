@@ -1,0 +1,3 @@
+struct TYPE_4__ | length long 
+struct TYPE_5__ | message_id int | buffer_length long | buffer int * | message struct TYPE_4__ 
+function append_message_id int | connection struct TYPE_5__ * | message_id int

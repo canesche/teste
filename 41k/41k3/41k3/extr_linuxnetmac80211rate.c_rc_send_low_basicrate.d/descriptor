@@ -1,0 +1,2 @@
+struct ieee80211_supported_band | n_bitrates int 
+function rc_send_low_basicrate void | idx int * | basic_rates int | sband struct ieee80211_supported_band *

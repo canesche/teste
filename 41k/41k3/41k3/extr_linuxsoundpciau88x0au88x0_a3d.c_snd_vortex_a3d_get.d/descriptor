@@ -1,0 +1,3 @@
+struct snd_kcontrol | dummy int 
+struct snd_ctl_elem_value | dummy int 
+function snd_vortex_a3d_get int | kcontrol struct snd_kcontrol * | ucontrol struct snd_ctl_elem_value *

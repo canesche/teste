@@ -1,0 +1,3 @@
+struct TYPE_5__ | num_dimensions int | dimensions struct TYPE_4__ * 
+struct TYPE_4__ | type long 
+function hyperspace_get_num_dimensions_by_type int | hs struct TYPE_5__ * | type long

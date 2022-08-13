@@ -1,0 +1,1 @@
+function ngx_cpystrn char * | dst char * | src char * | n unsigned long

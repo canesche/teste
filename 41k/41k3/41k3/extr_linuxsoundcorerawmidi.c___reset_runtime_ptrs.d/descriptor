@@ -1,0 +1,2 @@
+struct snd_rawmidi_runtime | buffer_size int | avail int | hw_ptr long | appl_ptr long | drain long 
+function __reset_runtime_ptrs void | runtime struct snd_rawmidi_runtime * | is_input int

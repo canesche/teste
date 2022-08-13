@@ -1,0 +1,3 @@
+struct TYPE_2__ | slot_width int | slots int | mask unsigned int 
+struct uniperif | tdm_slot struct TYPE_2__ 
+function sti_uniperiph_get_tdm_word_pos int | uni struct uniperif * | word_pos unsigned int *

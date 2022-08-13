@@ -1,0 +1,2 @@
+struct memory_buffer | size long | pos long | buffer void * 
+function buffer_read const void * | mbuf struct memory_buffer * | size long

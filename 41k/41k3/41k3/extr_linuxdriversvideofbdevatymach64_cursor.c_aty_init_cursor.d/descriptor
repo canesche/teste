@@ -1,0 +1,5 @@
+struct TYPE_4__ | scan_align int | buf_align int | flags int | size long | addr int * 
+struct TYPE_6__ | smem_len unsigned long 
+struct fb_info | fbops struct TYPE_5__ * | sprite struct TYPE_4__ | fix struct TYPE_6__ | screen_base long 
+struct TYPE_5__ | fb_cursor int 
+function aty_init_cursor int | info struct fb_info *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | max_char_size int 
+function _WLocale_is_stateless int | lcodecvt struct TYPE_3__ *

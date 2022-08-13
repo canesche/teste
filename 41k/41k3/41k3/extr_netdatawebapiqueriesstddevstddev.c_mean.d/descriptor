@@ -1,0 +1,2 @@
+struct grouping_stddev | count long | m_newM double 
+function mean double | g struct grouping_stddev *

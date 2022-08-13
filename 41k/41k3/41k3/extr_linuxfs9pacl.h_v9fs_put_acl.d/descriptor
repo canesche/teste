@@ -1,0 +1,2 @@
+struct posix_acl | dummy int 
+function v9fs_put_acl void | dacl struct posix_acl * | acl struct posix_acl *

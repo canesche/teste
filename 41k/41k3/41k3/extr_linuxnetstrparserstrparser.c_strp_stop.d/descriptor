@@ -1,0 +1,2 @@
+struct strparser | stopped int 
+function strp_stop void | strp struct strparser *

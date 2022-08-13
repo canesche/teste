@@ -1,0 +1,3 @@
+struct tas571x_private | chip struct TYPE_2__ * 
+struct TYPE_2__ | vol_reg_size int 
+function tas571x_register_size int | priv struct tas571x_private * | reg unsigned int

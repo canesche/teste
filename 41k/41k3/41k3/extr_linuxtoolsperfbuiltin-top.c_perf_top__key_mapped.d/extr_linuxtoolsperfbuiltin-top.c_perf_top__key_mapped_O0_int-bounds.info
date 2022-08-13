@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 17,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxtoolsperfbuiltin-top.c_perf_top__key_mapped.d/extr_linuxtoolsperfbuiltin-top.c_perf_top__key_mapped_O0::perf_top__key_mapped(63)"
+  }
+]

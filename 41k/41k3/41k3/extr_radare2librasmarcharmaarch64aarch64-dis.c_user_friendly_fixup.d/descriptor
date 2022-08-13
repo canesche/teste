@@ -1,0 +1,5 @@
+struct TYPE_9__ | operands struct TYPE_8__ * | opcode struct TYPE_6__ * 
+struct TYPE_7__ | value int 
+struct TYPE_8__ | qualifier int | imm struct TYPE_7__ 
+struct TYPE_6__ | iclass int 
+function user_friendly_fixup void | inst struct TYPE_9__ *

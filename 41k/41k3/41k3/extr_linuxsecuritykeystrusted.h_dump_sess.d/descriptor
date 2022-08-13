@@ -1,0 +1,2 @@
+struct osapsess | dummy int 
+function dump_sess void | s struct osapsess *

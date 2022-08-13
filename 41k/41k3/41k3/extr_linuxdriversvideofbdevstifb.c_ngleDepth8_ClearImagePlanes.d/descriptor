@@ -1,0 +1,2 @@
+struct stifb_info | dummy int 
+function ngleDepth8_ClearImagePlanes void | fb struct stifb_info *

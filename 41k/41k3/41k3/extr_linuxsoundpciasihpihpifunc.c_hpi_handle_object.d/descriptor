@@ -1,0 +1,3 @@
+struct TYPE_2__ | obj_type long 
+struct handle_word | h struct TYPE_2__ | w int 
+function hpi_handle_object char | handle const int

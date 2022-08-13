@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function ceph_fscache_register_inode_cookie void | inode struct inode *

@@ -1,0 +1,3 @@
+struct vfsmount | dummy int 
+struct smk_audit_info | dummy int 
+function smk_ad_setfield_u_fs_path_mnt void | a struct smk_audit_info * | m struct vfsmount *

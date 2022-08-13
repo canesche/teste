@@ -1,0 +1,3 @@
+struct TYPE_2__ | obj_index long | adapter_index long 
+struct handle_word | h struct TYPE_2__ | w long 
+function hpi_handle_indexes long | h const long | p1 long * | p2 long *

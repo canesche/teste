@@ -1,0 +1,3 @@
+struct TYPE_4__ | e_type long 
+struct TYPE_5__ | ehdr struct TYPE_4__ 
+function is_bin_etrel int | bin struct TYPE_5__ *

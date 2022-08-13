@@ -1,0 +1,3 @@
+struct sock | dummy int 
+struct rds_sock | rs_sk struct sock 
+function rds_rs_to_sk struct sock * | rs struct rds_sock *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundpcipcxhrpcxhr.c_pcxhr_stream_scheduled_get_pipe.d/extr_linuxsoundpcipcxhrpcxhr.c_pcxhr_stream_scheduled_get_pipe_O0::pcxhr_stream_scheduled_get_pipe(64)"
+  }
+]

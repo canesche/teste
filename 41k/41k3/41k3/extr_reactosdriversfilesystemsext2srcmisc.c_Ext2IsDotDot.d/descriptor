@@ -1,0 +1,2 @@
+struct TYPE_3__ | Length int | Buffer int * 
+function Ext2IsDotDot int | name struct TYPE_3__ *

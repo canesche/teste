@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 47,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 115,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_opensslcryptoideai_skey.c_inverse.d/extr_opensslcryptoideai_skey.c_inverse_O0::inverse(61)"
+  }
+]

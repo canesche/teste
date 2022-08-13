@@ -1,0 +1,2 @@
+struct bpf_lru_node | ref int 
+function bpf_lru_node_set_ref void | node struct bpf_lru_node *

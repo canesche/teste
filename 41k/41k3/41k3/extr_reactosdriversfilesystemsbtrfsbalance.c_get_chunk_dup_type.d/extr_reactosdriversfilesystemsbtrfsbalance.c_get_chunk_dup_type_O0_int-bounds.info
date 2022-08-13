@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 14,
+    static: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 44,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdriversfilesystemsbtrfsbalance.c_get_chunk_dup_type.d/extr_reactosdriversfilesystemsbtrfsbalance.c_get_chunk_dup_type_O0::get_chunk_dup_type(72)"
+  }
+]

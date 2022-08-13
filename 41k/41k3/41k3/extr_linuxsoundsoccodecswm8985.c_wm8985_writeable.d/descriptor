@@ -1,0 +1,2 @@
+struct device | dummy int 
+function wm8985_writeable int | dev struct device * | reg unsigned int

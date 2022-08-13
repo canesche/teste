@@ -1,0 +1,2 @@
+struct consistent_dma_area | dma_handle int 
+function hpios_locked_mem_get_phys_addr int | locked_mem_handle struct consistent_dma_area * | p_physical_addr int *

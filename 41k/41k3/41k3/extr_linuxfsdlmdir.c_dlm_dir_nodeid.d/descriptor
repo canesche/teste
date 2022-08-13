@@ -1,0 +1,2 @@
+struct dlm_rsb | res_dir_nodeid int 
+function dlm_dir_nodeid int | r struct dlm_rsb *

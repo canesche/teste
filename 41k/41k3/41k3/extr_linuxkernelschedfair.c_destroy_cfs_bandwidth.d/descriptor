@@ -1,0 +1,2 @@
+struct cfs_bandwidth | dummy int 
+function destroy_cfs_bandwidth void | cfs_b struct cfs_bandwidth *

@@ -1,0 +1,3 @@
+struct hci_dev | dummy int 
+struct hci_conn | type long | auth_type int | remote_auth int 
+function hci_persistent_key int | hdev struct hci_dev * | conn struct hci_conn * | key_type int | old_key_type int

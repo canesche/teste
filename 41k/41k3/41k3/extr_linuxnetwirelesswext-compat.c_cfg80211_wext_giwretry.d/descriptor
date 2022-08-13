@@ -1,0 +1,6 @@
+struct wireless_dev | wiphy struct TYPE_2__ * 
+struct net_device | ieee80211_ptr struct wireless_dev * 
+struct iw_request_info | dummy int 
+struct iw_param | flags int | value long | disabled long 
+struct TYPE_2__ | retry_short long | retry_long long 
+function cfg80211_wext_giwretry int | dev struct net_device * | info struct iw_request_info * | retry struct iw_param * | extra char *

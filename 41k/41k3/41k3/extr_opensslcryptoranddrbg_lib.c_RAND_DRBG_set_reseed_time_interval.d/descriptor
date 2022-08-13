@@ -1,0 +1,2 @@
+struct TYPE_3__ | reseed_time_interval long 
+function RAND_DRBG_set_reseed_time_interval int | drbg struct TYPE_3__ * | interval long

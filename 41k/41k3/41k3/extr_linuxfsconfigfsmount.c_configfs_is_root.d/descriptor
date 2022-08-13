@@ -1,0 +1,3 @@
+struct config_item | dummy int 
+struct TYPE_2__ | cg_item struct config_item 
+function configfs_is_root int | item struct config_item *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | y int | x int 
+function swap_point void | pt struct TYPE_3__ *

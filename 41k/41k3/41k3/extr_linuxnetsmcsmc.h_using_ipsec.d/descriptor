@@ -1,0 +1,2 @@
+struct smc_sock | dummy int 
+function using_ipsec int | smc struct smc_sock *

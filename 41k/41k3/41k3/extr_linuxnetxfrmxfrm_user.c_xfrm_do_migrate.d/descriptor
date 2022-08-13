@@ -1,0 +1,4 @@
+struct sk_buff | dummy int 
+struct nlmsghdr | dummy int 
+struct nlattr | dummy int 
+function xfrm_do_migrate int | skb struct sk_buff * | nlh struct nlmsghdr * | attrs struct nlattr **

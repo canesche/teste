@@ -1,0 +1,2 @@
+struct z3fold_header | first_num int | last_chunks unsigned long 
+function encode_handle unsigned long | zhdr struct z3fold_header * | bud enum buddy

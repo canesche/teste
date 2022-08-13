@@ -1,0 +1,2 @@
+struct TYPE_2__ | gpio_lpds_wake_cb int 
+function pyb_sleep_set_gpio_lpds_callback void | cb_obj int

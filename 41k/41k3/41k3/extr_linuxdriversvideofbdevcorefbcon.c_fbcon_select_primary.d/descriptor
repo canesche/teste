@@ -1,0 +1,2 @@
+struct fb_info | dummy int 
+function fbcon_select_primary void | info struct fb_info *

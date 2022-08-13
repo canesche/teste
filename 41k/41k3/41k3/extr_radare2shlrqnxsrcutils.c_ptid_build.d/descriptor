@@ -1,0 +1,2 @@
+struct TYPE_3__ | tid int | pid int 
+function ptid_build struct TYPE_3__ | pid int | tid int

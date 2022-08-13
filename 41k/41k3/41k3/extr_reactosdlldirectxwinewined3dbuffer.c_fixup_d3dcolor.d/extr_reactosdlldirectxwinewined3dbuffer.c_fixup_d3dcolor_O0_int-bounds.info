@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdlldirectxwinewined3dbuffer.c_fixup_d3dcolor.d/extr_reactosdlldirectxwinewined3dbuffer.c_fixup_d3dcolor_O0::fixup_d3dcolor(61)"
+  }
+]

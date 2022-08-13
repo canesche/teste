@@ -1,0 +1,2 @@
+struct TYPE_3__ | rem_bytes int | buffer int 
+function rewind_bytes void | buf struct TYPE_3__ * | size long

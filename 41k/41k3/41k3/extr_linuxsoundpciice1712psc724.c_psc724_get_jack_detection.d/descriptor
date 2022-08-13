@@ -1,0 +1,3 @@
+struct snd_ice1712 | spec struct psc724_spec * 
+struct psc724_spec | jack_detect int 
+function psc724_get_jack_detection int | ice struct snd_ice1712 *

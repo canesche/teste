@@ -1,0 +1,2 @@
+struct TYPE_3__ | tessTol float | distTol float | fringeWidth float | devicePxRatio float 
+function nvg__setDevicePixelRatio void | ctx struct TYPE_3__ * | ratio float

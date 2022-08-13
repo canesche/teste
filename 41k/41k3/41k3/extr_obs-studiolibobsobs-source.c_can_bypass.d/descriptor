@@ -1,0 +1,1 @@
+function can_bypass int | target int * | parent int * | parent_flags int | allow_direct enum obs_allow_direct_render

@@ -1,0 +1,2 @@
+struct timer_list | flags unsigned int 
+function timer_get_idx unsigned int | timer struct timer_list *

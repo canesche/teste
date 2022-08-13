@@ -1,0 +1,5 @@
+struct snd_kcontrol | private_value long 
+struct TYPE_4__ | max int | min long 
+struct TYPE_3__ | integer struct TYPE_4__ 
+struct snd_ctl_elem_info | count int | value struct TYPE_3__ | type int 
+function snd_cs4215_info_volume int | kcontrol struct snd_kcontrol * | uinfo struct snd_ctl_elem_info *

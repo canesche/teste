@@ -1,0 +1,2 @@
+struct TYPE_3__ | month int | day int | time long 
+function ts_get_interval_period_approx long | interval struct TYPE_3__ *

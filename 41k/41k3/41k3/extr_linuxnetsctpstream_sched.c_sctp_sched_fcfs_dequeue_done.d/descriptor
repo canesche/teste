@@ -1,0 +1,3 @@
+struct sctp_outq | dummy int 
+struct sctp_chunk | dummy int 
+function sctp_sched_fcfs_dequeue_done void | q struct sctp_outq * | chunk struct sctp_chunk *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 41,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundfirewiredigi00xamdtp-dot.c_dot_scrt.d/extr_linuxsoundfirewiredigi00xamdtp-dot.c_dot_scrt_O0::dot_scrt(61)"
+  }
+]

@@ -1,0 +1,2 @@
+struct xfs_owner_info | oi_flags int | oi_offset long | oi_owner int 
+function xfs_rmap_ino_bmbt_owner void | oi struct xfs_owner_info * | ino int | whichfork int

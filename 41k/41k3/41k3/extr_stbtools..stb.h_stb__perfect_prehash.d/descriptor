@@ -1,0 +1,2 @@
+struct TYPE_3__ | multiplicand int | b_mask int | table_mask int 
+function stb__perfect_prehash void | p struct TYPE_3__ * | x int | a int * | b int *

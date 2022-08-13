@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 31,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 56,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_mpvaudiochmap.c_mp_chmap_from_lavc.d/extr_mpvaudiochmap.c_mp_chmap_from_lavc_O0::mp_chmap_from_lavc(63)"
+  }
+]

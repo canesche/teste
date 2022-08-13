@@ -1,0 +1,2 @@
+struct rq | dummy int 
+function sched_update_tick_dependency void | rq struct rq *

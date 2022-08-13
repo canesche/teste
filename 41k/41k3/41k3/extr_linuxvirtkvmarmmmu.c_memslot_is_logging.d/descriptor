@@ -1,0 +1,2 @@
+struct kvm_memory_slot | flags int | dirty_bitmap long 
+function memslot_is_logging int | memslot struct kvm_memory_slot *

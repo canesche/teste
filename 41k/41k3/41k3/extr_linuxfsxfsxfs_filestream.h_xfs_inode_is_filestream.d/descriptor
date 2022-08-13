@@ -1,0 +1,4 @@
+struct TYPE_4__ | di_flags int 
+struct xfs_inode | i_d struct TYPE_4__ | i_mount struct TYPE_3__ * 
+struct TYPE_3__ | m_flags int 
+function xfs_inode_is_filestream int | ip struct xfs_inode *

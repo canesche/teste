@@ -1,0 +1,2 @@
+struct SiS_Private | SiS_IF_DEF_DSTN int 
+function SiS_SetEnableDstn void | SiS_Pr struct SiS_Private * | enable int

@@ -1,0 +1,2 @@
+struct perf_mmap | mask unsigned long 
+function perf_mmap__mmap_len unsigned long | map struct perf_mmap *

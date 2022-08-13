@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function fire_sched_in_preempt_notifiers void | curr struct task_struct *

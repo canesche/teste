@@ -1,0 +1,3 @@
+struct TYPE_4__ | hcxt int 
+struct TYPE_5__ | hctl struct TYPE_4__ 
+function ts_cache_memory_ctx int | cache struct TYPE_5__ *

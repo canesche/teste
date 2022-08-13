@@ -1,0 +1,1 @@
+function uart_tx_char void | uart_obj int * | c int

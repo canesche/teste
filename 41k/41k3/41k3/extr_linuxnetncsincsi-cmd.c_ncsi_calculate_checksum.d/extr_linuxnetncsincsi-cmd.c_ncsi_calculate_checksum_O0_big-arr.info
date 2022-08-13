@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 32,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 2448,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetncsincsi-cmd.c_ncsi_calculate_checksum.d/extr_linuxnetncsincsi-cmd.c_ncsi_calculate_checksum_O0::ncsi_calculate_checksum(61)"
+  }
+]

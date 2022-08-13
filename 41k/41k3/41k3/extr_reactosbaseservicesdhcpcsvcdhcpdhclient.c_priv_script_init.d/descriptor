@@ -1,0 +1,2 @@
+struct interface_info | dummy int 
+function priv_script_init void | ip struct interface_info * | reason char * | medium char *

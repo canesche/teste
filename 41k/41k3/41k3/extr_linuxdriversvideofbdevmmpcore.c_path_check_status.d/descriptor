@@ -1,0 +1,3 @@
+struct mmp_path | overlay_num int | overlays struct TYPE_2__ * 
+struct TYPE_2__ | status long 
+function path_check_status int | path struct mmp_path *

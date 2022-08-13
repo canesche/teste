@@ -1,0 +1,2 @@
+struct vfio_device | device_data void * 
+function vfio_device_data void * | device struct vfio_device *

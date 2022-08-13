@@ -1,0 +1,2 @@
+struct TYPE_3__ | lPageSize int 
+function TRACKBAR_SetPageSize int | infoPtr struct TYPE_3__ * | lPageSize int

@@ -1,0 +1,2 @@
+struct configfs_dirent | dummy int 
+function configfs_set_dir_dirent_depth void | parent_sd struct configfs_dirent * | sd struct configfs_dirent *

@@ -1,0 +1,2 @@
+struct rme96 | areg int | wcreg int 
+function snd_rme96_getinputtype int | rme96 struct rme96 *

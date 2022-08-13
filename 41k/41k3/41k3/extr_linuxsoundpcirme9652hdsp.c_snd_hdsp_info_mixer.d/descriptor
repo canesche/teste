@@ -1,0 +1,5 @@
+struct snd_kcontrol | dummy int 
+struct TYPE_3__ | max int | step int | min long 
+struct TYPE_4__ | integer struct TYPE_3__ 
+struct snd_ctl_elem_info | count int | value struct TYPE_4__ | type int 
+function snd_hdsp_info_mixer int | kcontrol struct snd_kcontrol * | uinfo struct snd_ctl_elem_info *

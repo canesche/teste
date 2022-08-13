@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct Qdisc | dummy int 
+function atm_tc_dump int | sch struct Qdisc * | skb struct sk_buff *

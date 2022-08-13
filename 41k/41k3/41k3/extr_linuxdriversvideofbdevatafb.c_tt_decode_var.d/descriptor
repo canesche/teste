@@ -1,0 +1,5 @@
+struct fb_var_screeninfo | xres int | yres int | bits_per_pixel int | yres_virtual int | sync int | yoffset int 
+struct TYPE_3__ | sync int | mode int 
+struct TYPE_4__ | tt struct TYPE_3__ 
+struct atafb_par | yres_virtual int | next_line int | screen_base long | hw struct TYPE_4__ 
+function tt_decode_var int | var struct fb_var_screeninfo * | par struct atafb_par *

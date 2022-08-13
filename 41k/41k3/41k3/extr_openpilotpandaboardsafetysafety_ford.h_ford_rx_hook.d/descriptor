@@ -1,0 +1,2 @@
+struct TYPE_3__ | RIR int | RDLR int | RDHR int 
+function ford_rx_hook void | to_push struct TYPE_3__ *

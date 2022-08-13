@@ -1,0 +1,2 @@
+struct TYPE_4__ | x long | y long | cx long | cy long 
+function is_contained_by int | r1 struct TYPE_4__ * | r2 struct TYPE_4__ *

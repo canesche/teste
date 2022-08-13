@@ -1,0 +1,3 @@
+struct TYPE_4__ | num unsigned long 
+struct TYPE_5__ | roots struct TYPE_4__ 
+function profiler_snapshot_num_roots unsigned long | snap struct TYPE_5__ *

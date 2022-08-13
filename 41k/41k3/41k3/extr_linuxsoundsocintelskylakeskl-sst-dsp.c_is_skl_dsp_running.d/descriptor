@@ -1,0 +1,2 @@
+struct sst_dsp | sst_state long 
+function is_skl_dsp_running int | ctx struct sst_dsp *

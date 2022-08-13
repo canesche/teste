@@ -1,0 +1,2 @@
+struct fsi_priv | chan_num int 
+function fsi_frame2sample int | fsi struct fsi_priv * | frames int

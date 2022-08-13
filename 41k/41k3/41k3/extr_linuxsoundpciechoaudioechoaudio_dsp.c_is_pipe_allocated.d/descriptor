@@ -1,0 +1,2 @@
+struct echoaudio | pipe_alloc_mask int 
+function is_pipe_allocated int | chip struct echoaudio * | pipe_index int

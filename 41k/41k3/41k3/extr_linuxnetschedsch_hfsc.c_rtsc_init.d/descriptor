@@ -1,0 +1,3 @@
+struct runtime_sc | ism2 int | sm2 int | dy int | dx int | ism1 int | sm1 int | y void * | x void * 
+struct internal_sc | ism2 int | sm2 int | dy int | dx int | ism1 int | sm1 int 
+function rtsc_init void | rtsc struct runtime_sc * | isc struct internal_sc * | x void * | y void *

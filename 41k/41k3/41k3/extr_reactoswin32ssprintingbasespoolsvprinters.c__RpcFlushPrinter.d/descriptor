@@ -1,0 +1,1 @@
+function _RpcFlushPrinter int | hPrinter int | pBuf int * | cbBuf int | pcWritten int * | cSleep int

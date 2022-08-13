@@ -1,0 +1,5 @@
+struct TYPE_6__ | code int 
+struct TYPE_8__ | size int | offset int | file_type int | file_path_s int | file_path_d int | action struct TYPE_6__ | file_suffix int 
+struct TYPE_7__ | left_length int | file_offset int 
+struct TYPE_9__ | last_file_pid int | r_ctx struct TYPE_8__ | file struct TYPE_7__ | last_file_type int | last_file_path int | file_name int 
+function ngx_http_tfs_set_custom_initial_parameters void | t struct TYPE_9__ *

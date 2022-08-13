@@ -1,0 +1,3 @@
+struct TYPE_4__ | x long 
+struct TYPE_5__ | rc4 struct TYPE_4__ 
+function rc4_start int | prng struct TYPE_5__ *

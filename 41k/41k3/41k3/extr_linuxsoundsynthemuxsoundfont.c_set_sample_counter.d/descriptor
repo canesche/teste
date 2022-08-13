@@ -1,0 +1,4 @@
+struct snd_soundfont | type int 
+struct snd_sf_sample | counter long 
+struct snd_sf_list | sample_counter long | sample_locked long 
+function set_sample_counter void | sflist struct snd_sf_list * | sf struct snd_soundfont * | sp struct snd_sf_sample *

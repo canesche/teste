@@ -1,0 +1,3 @@
+struct fsi_priv | master struct fsi_master * 
+struct fsi_master | dummy int 
+function fsi_get_master struct fsi_master * | fsi struct fsi_priv *

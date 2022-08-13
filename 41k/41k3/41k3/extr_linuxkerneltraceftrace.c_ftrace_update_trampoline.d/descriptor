@@ -1,0 +1,2 @@
+struct ftrace_ops | dummy int 
+function ftrace_update_trampoline void | ops struct ftrace_ops *

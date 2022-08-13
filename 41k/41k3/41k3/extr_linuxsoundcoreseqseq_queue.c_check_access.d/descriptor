@@ -1,0 +1,2 @@
+struct snd_seq_queue | owner int | klocked int | locked int 
+function check_access int | q struct snd_seq_queue * | client int

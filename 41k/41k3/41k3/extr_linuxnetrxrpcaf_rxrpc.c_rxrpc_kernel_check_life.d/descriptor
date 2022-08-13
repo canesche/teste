@@ -1,0 +1,3 @@
+struct socket | dummy int 
+struct rxrpc_call | acks_latest int 
+function rxrpc_kernel_check_life int | sock struct socket * | call struct rxrpc_call *

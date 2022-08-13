@@ -1,0 +1,3 @@
+struct vm_area_struct | dummy int 
+struct page | dummy int 
+function __page_check_anon_rmap void | page struct page * | vma struct vm_area_struct * | address unsigned long

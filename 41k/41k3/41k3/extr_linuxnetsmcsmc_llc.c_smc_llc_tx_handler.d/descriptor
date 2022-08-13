@@ -1,0 +1,3 @@
+struct smc_wr_tx_pend_priv | dummy int 
+struct smc_link | dummy int 
+function smc_llc_tx_handler void | pend struct smc_wr_tx_pend_priv * | link struct smc_link * | wc_status enum ib_wc_status

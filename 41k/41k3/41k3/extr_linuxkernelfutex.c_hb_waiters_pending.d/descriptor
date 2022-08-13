@@ -1,0 +1,2 @@
+struct futex_hash_bucket | dummy int 
+function hb_waiters_pending int | hb struct futex_hash_bucket *

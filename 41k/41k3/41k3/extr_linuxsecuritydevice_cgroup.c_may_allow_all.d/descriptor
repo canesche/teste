@@ -1,0 +1,2 @@
+struct dev_cgroup | behavior long 
+function may_allow_all int | parent struct dev_cgroup *

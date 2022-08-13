@@ -1,0 +1,2 @@
+struct TYPE_2__ | fb_arg void * | fb_render_cb int 
+function console_fb_register void | render_cb int | arg void *

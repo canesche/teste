@@ -1,0 +1,3 @@
+struct nfc_target | dummy int 
+struct nfc_dev | dummy int 
+function hci_deactivate_target void | nfc_dev struct nfc_dev * | target struct nfc_target * | mode int

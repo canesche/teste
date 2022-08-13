@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 3,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsocfs2ocfs2_fs.h_ocfs2_system_inode_is_global.d/extr_linuxfsocfs2ocfs2_fs.h_ocfs2_system_inode_is_global_O0::ocfs2_system_inode_is_global(61)"
+  }
+]

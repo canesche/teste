@@ -1,0 +1,2 @@
+struct ring_buffer | aux_nr_pages unsigned long 
+function perf_aux_size unsigned long | rb struct ring_buffer *

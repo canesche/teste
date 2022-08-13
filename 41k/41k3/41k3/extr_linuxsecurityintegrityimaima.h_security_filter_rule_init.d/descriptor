@@ -1,0 +1,1 @@
+function security_filter_rule_init int | field int | op int | rulestr char * | lsmrule void **

@@ -1,0 +1,6 @@
+struct TYPE_6__ | length int | offset long 
+struct TYPE_5__ | length int | offset long 
+struct TYPE_4__ | length int | offset long 
+struct fb_var_screeninfo | blue struct TYPE_6__ | red struct TYPE_5__ | green struct TYPE_4__ 
+struct fb_fix_screeninfo | visual long 
+function fb_get_color_depth int | var struct fb_var_screeninfo * | fix struct fb_fix_screeninfo *

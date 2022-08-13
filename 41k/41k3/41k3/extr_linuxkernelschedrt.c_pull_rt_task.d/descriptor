@@ -1,0 +1,2 @@
+struct rq | dummy int 
+function pull_rt_task void | this_rq struct rq *

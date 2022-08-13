@@ -1,0 +1,2 @@
+struct i2s_dai | pri_dai long 
+function is_secondary int | i2s struct i2s_dai *

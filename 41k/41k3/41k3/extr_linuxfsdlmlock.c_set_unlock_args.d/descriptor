@@ -1,0 +1,2 @@
+struct dlm_args | flags int | astparam void * 
+function set_unlock_args int | flags int | astarg void * | args struct dlm_args *

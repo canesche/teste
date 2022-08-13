@@ -1,0 +1,1 @@
+length(userboot_path) == 100, length(bootvolume_path) == 100, length(kernelenv) == 100, length(cons) == 100

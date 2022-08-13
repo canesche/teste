@@ -1,0 +1,2 @@
+struct seq_file | dummy int 
+function xensyms_stop void | m struct seq_file * | p void *

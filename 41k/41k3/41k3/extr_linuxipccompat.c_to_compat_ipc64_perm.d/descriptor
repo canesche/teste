@@ -1,0 +1,3 @@
+struct ipc64_perm | seq int | mode int | cgid int | cuid int | gid int | uid int | key int 
+struct compat_ipc64_perm | seq int | mode int | cgid int | cuid int | gid int | uid int | key int 
+function to_compat_ipc64_perm void | to struct compat_ipc64_perm * | from struct ipc64_perm *

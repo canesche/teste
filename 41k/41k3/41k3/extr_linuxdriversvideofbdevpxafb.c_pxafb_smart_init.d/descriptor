@@ -1,0 +1,2 @@
+struct pxafb_info | dummy int 
+function pxafb_smart_init int | fbi struct pxafb_info *

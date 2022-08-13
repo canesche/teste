@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 27,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_numpynumpycoresrcmultiarraycalculation.c_power_of_ten.d/extr_numpynumpycoresrcmultiarraycalculation.c_power_of_ten_O0::power_of_ten(61)"
+  }
+]

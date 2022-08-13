@@ -1,0 +1,2 @@
+struct task_struct | dummy int 
+function copy_io int | clone_flags unsigned long | tsk struct task_struct *

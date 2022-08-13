@@ -1,0 +1,2 @@
+struct rcu_head | dummy int 
+function debug_rcu_head_queue int | head struct rcu_head *

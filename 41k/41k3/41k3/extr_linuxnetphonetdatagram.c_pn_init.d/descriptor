@@ -1,0 +1,2 @@
+struct sock | sk_destruct int 
+function pn_init int | sk struct sock *

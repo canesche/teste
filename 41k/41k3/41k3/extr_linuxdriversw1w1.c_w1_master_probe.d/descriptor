@@ -1,0 +1,2 @@
+struct device | dummy int 
+function w1_master_probe int | dev struct device *

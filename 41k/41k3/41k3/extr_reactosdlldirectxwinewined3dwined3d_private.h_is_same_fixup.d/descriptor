@@ -1,0 +1,2 @@
+struct color_fixup_desc | x_sign_fixup long | x_source long | y_sign_fixup long | y_source long | z_sign_fixup long | z_source long | w_sign_fixup long | w_source long 
+function is_same_fixup int | f1 struct color_fixup_desc | f2 struct color_fixup_desc

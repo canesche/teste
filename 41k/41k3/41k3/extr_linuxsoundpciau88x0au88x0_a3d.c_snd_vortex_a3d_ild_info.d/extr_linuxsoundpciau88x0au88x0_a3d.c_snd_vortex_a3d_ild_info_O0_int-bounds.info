@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 16,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundpciau88x0au88x0_a3d.c_snd_vortex_a3d_ild_info.d/extr_linuxsoundpciau88x0au88x0_a3d.c_snd_vortex_a3d_ild_info_O0::snd_vortex_a3d_ild_info(68)"
+  }
+]

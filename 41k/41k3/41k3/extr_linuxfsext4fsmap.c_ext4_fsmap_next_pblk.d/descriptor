@@ -1,0 +1,2 @@
+struct ext4_fsmap | fmr_length long | fmr_physical long 
+function ext4_fsmap_next_pblk long | fmr struct ext4_fsmap *

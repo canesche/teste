@@ -1,0 +1,2 @@
+struct mdev_device | uuid int 
+function mdev_uuid int | mdev struct mdev_device *

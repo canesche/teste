@@ -1,0 +1,1 @@
+function rdbEncodeInteger int | value long long | enc unsigned char *

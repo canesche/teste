@@ -1,0 +1,2 @@
+struct vm_area_struct | dummy int 
+function change_prot_numa unsigned long | vma struct vm_area_struct * | addr unsigned long | end unsigned long

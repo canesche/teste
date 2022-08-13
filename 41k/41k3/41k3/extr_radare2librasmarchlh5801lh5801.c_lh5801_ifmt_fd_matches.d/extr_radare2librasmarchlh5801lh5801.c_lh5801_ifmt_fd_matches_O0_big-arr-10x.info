@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 23,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_radare2librasmarchlh5801lh5801.c_lh5801_ifmt_fd_matches.d/extr_radare2librasmarchlh5801lh5801.c_lh5801_ifmt_fd_matches_O0::lh5801_ifmt_fd_matches(64)"
+  }
+]

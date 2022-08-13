@@ -1,0 +1,1 @@
+function set_clock_source_common int | source enum via_clksrc | use_pll int

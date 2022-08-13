@@ -1,0 +1,3 @@
+struct wlr_box | y int | height int | x int | width int 
+function apply_exclusive void | usable_area struct wlr_box * | anchor int | exclusive long | margin_top long | margin_right long | margin_bottom long | margin_left long
+struct  | anchors int | positive_axis int * | negative_axis int * | margin int 

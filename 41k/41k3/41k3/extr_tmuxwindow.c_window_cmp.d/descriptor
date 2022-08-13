@@ -1,0 +1,2 @@
+struct window | id int 
+function window_cmp int | w1 struct window * | w2 struct window *

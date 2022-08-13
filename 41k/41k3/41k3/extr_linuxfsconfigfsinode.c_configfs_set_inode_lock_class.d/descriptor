@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct configfs_dirent | dummy int 
+function configfs_set_inode_lock_class void | sd struct configfs_dirent * | inode struct inode *

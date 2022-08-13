@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct netlink_callback | dummy int 
+function seg6_genl_dumphmac int | skb struct sk_buff * | cb struct netlink_callback *

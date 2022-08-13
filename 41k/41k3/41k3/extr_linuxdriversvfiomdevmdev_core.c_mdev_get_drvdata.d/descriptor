@@ -1,0 +1,2 @@
+struct mdev_device | driver_data void * 
+function mdev_get_drvdata void * | mdev struct mdev_device *

@@ -1,0 +1,2 @@
+struct php_crypt_extended_data | old_salt int | saltbits int 
+function setup_salt void | salt int | data struct php_crypt_extended_data *

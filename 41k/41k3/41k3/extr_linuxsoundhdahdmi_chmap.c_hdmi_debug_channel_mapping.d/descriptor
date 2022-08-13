@@ -1,0 +1,2 @@
+struct hdac_chmap | dummy int 
+function hdmi_debug_channel_mapping void | chmap struct hdac_chmap * | pin_nid int

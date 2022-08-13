@@ -1,0 +1,3 @@
+struct priv | eof_returned int 
+struct mp_filter | priv struct priv * 
+function reset void | f struct mp_filter *

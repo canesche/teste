@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 6,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdlldirectxwined3dx9_36effect.c_get_pass_handle.d/extr_reactosdlldirectxwined3dx9_36effect.c_get_pass_handle_O0::get_pass_handle(62)"
+  }
+]

@@ -1,0 +1,3 @@
+struct selinux_state | dummy int 
+struct netlbl_lsm_secattr | dummy int 
+function security_netlbl_secattr_to_sid int | state struct selinux_state * | secattr struct netlbl_lsm_secattr * | sid int *

@@ -1,0 +1,1 @@
+function get_pixel2 int | x int | y int | data int * | width int | bpp int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 85,
+    phantoms: 83,
+    exit: true,
+    halt: false,
+    edges: 169,
+    static: {
+      instructions: 342,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 342,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsafsmisc.c_afs_abort_to_error.d/extr_linuxfsafsmisc.c_afs_abort_to_error_O0::afs_abort_to_error(149)"
+  }
+]

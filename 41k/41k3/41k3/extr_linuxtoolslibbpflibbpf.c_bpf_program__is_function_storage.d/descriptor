@@ -1,0 +1,4 @@
+struct bpf_program | idx long 
+struct TYPE_2__ | text_shndx long 
+struct bpf_object | has_pseudo_calls long | efile struct TYPE_2__ 
+function bpf_program__is_function_storage int | prog struct bpf_program * | obj struct bpf_object *

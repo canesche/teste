@@ -1,0 +1,3 @@
+struct TYPE_2__ | type long | config long 
+struct perf_evsel | attr struct TYPE_2__ 
+function perf_evsel__match2 int | e1 struct perf_evsel * | e2 struct perf_evsel *

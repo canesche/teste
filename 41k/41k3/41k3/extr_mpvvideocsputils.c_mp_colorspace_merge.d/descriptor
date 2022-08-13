@@ -1,0 +1,2 @@
+struct mp_colorspace | light long | sig_peak long | gamma long | primaries long | levels long | space long 
+function mp_colorspace_merge void | orig struct mp_colorspace * | new struct mp_colorspace *

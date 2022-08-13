@@ -1,0 +1,3 @@
+struct TYPE_5__ | max_frame_size int | temp_memory_required int | setup_temp_memory_required int | setup_memory_required int | sample_rate int | channels int 
+struct TYPE_6__ | blocksize_1 int | temp_memory_required int | setup_temp_memory_required int | setup_memory_required int | sample_rate int | channels int 
+function stb_vorbis_get_info struct TYPE_5__ | f struct TYPE_6__ *

@@ -1,0 +1,2 @@
+struct ocfs2_caching_info | ci_flags int | ci_num_cached long 
+function ocfs2_insert_can_use_array int | ci struct ocfs2_caching_info *

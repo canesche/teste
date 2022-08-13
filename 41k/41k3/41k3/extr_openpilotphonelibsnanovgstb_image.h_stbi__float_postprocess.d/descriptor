@@ -1,0 +1,1 @@
+function stbi__float_postprocess void | result float * | x int * | y int * | comp int * | req_comp int

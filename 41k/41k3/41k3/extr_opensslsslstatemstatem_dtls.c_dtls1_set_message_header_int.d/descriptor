@@ -1,0 +1,4 @@
+struct hm_header_st | type unsigned char | msg_len unsigned long | seq unsigned short | frag_off unsigned long | frag_len unsigned long 
+struct TYPE_5__ | d1 struct TYPE_4__ * 
+struct TYPE_4__ | w_msg_hdr struct hm_header_st 
+function dtls1_set_message_header_int void | s struct TYPE_5__ * | mt unsigned char | len unsigned long | seq_num unsigned short | frag_off unsigned long | frag_len unsigned long

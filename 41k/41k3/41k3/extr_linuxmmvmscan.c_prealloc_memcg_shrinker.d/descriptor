@@ -1,0 +1,2 @@
+struct shrinker | dummy int 
+function prealloc_memcg_shrinker int | shrinker struct shrinker *

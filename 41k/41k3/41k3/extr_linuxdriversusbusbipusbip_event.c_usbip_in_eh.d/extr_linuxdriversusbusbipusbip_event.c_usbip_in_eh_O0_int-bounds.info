@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversusbusbipusbip_event.c_usbip_in_eh.d/extr_linuxdriversusbusbipusbip_event.c_usbip_in_eh_O0::usbip_in_eh(62)"
+  }
+]

@@ -1,0 +1,3 @@
+struct kmem_cache_cpu | dummy int 
+struct kmem_cache | dummy int 
+function unfreeze_partials void | s struct kmem_cache * | c struct kmem_cache_cpu *

@@ -1,0 +1,3 @@
+struct vm | num_mem_segs int | mem_segs struct TYPE_2__ * 
+struct TYPE_2__ | gpa long | len unsigned long | object void * 
+function vm_get_memobj int | vm struct vm * | gpa long | len unsigned long | offset long * | object void **

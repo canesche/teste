@@ -1,0 +1,3 @@
+struct TYPE_2__ | tv_nsec long | tv_sec long 
+struct sway_view | urgent struct TYPE_2__ 
+function view_is_urgent int | view struct sway_view *

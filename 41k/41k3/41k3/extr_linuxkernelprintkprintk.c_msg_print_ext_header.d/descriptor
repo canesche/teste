@@ -1,0 +1,2 @@
+struct printk_log | dummy int 
+function msg_print_ext_header int | buf char * | size unsigned long | msg struct printk_log * | seq int

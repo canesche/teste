@@ -1,0 +1,2 @@
+struct osd_state | dummy int 
+function osd_get_text_size void | osd struct osd_state * | out_screen_h int * | out_font_h int *

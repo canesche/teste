@@ -1,0 +1,2 @@
+struct gl_material | ShineTable float * 
+function gl_compute_material_shine_table void | m struct gl_material *

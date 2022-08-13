@@ -1,0 +1,2 @@
+struct flex_array_part | elements long * 
+function part_is_free int | part struct flex_array_part *

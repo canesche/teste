@@ -1,0 +1,7 @@
+struct TYPE_9__ | type long 
+struct TYPE_10__ | dev struct TYPE_9__ 
+struct snd_pcm_substream | dma_buffer struct TYPE_10__ | ops struct TYPE_8__ * | runtime struct TYPE_7__ * 
+struct TYPE_8__ | mmap int 
+struct TYPE_6__ | info int 
+struct TYPE_7__ | hw struct TYPE_6__ 
+function hw_support_mmap int | substream struct snd_pcm_substream *

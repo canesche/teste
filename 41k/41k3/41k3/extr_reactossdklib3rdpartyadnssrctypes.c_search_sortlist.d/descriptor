@@ -1,0 +1,6 @@
+struct TYPE_6__ | s_addr int 
+struct TYPE_5__ | s_addr int 
+struct sortlist | base struct TYPE_6__ | mask struct TYPE_5__ 
+struct in_addr | s_addr int 
+struct TYPE_7__ | nsortlist int | sortlist struct sortlist * 
+function search_sortlist int | ads struct TYPE_7__ * | ad struct in_addr

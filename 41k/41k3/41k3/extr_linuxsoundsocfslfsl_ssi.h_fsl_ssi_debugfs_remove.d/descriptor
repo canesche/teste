@@ -1,0 +1,2 @@
+struct fsl_ssi_dbg | dummy int 
+function fsl_ssi_debugfs_remove void | ssi_dbg struct fsl_ssi_dbg *

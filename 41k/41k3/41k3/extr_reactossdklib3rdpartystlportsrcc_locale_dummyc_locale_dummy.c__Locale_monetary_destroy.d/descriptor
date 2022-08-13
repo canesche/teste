@@ -1,0 +1,2 @@
+struct _Locale_monetary | dummy int 
+function _Locale_monetary_destroy void | lmon struct _Locale_monetary *

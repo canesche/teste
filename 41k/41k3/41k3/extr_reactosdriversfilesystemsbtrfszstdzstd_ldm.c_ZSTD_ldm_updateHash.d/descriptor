@@ -1,0 +1,1 @@
+function ZSTD_ldm_updateHash int | hash int | toRemove int | toAdd int | hashPower int

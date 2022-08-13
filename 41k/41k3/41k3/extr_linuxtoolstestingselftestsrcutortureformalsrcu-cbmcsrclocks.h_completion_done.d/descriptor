@@ -1,0 +1,2 @@
+struct completion | count int 
+function completion_done int | c struct completion *

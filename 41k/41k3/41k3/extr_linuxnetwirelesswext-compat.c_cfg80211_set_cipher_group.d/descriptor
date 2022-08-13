@@ -1,0 +1,5 @@
+struct TYPE_6__ | cipher_group long 
+struct TYPE_4__ | crypto struct TYPE_6__ 
+struct TYPE_5__ | connect struct TYPE_4__ 
+struct wireless_dev | wext struct TYPE_5__ 
+function cfg80211_set_cipher_group int | wdev struct wireless_dev * | cipher int

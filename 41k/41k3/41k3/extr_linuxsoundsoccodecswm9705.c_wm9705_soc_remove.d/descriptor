@@ -1,0 +1,2 @@
+struct snd_soc_component | dummy int 
+function wm9705_soc_remove void | component struct snd_soc_component *

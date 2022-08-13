@@ -1,0 +1,2 @@
+struct node_info | version int | blk_addr int | ino int | nid int 
+function copy_node_info void | dst struct node_info * | src struct node_info *

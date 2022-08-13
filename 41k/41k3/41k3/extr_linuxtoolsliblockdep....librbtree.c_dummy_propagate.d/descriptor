@@ -1,0 +1,2 @@
+struct rb_node | dummy int 
+function dummy_propagate void | node struct rb_node * | stop struct rb_node *

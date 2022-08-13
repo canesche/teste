@@ -1,0 +1,5 @@
+struct perf_event_groups | dummy int 
+struct perf_event_context | flexible_groups struct perf_event_groups | pinned_groups struct perf_event_groups 
+struct TYPE_2__ | pinned long 
+struct perf_event | attr struct TYPE_2__ 
+function get_event_groups struct perf_event_groups * | event struct perf_event * | ctx struct perf_event_context *

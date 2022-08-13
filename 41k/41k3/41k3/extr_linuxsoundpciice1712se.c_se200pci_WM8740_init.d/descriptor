@@ -1,0 +1,2 @@
+struct snd_ice1712 | dummy int 
+function se200pci_WM8740_init void | ice struct snd_ice1712 *

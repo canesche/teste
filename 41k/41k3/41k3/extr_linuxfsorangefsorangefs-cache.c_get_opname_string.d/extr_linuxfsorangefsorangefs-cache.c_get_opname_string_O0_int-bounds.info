@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 29,
+    phantoms: 26,
+    exit: true,
+    halt: false,
+    edges: 57,
+    static: {
+      instructions: 117,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 117,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsorangefsorangefs-cache.c_get_opname_string.d/extr_linuxfsorangefsorangefs-cache.c_get_opname_string_O0::get_opname_string(90)"
+  }
+]

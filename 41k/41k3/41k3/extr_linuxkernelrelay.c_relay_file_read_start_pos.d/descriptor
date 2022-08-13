@@ -1,0 +1,3 @@
+struct rchan_buf | subbufs_consumed unsigned long | bytes_consumed unsigned long | padding unsigned long * | chan struct TYPE_2__ * 
+struct TYPE_2__ | subbuf_size unsigned long | n_subbufs unsigned long 
+function relay_file_read_start_pos unsigned long | read_pos unsigned long | buf struct rchan_buf *

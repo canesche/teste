@@ -1,0 +1,2 @@
+struct Scsi_Host | dummy int 
+function write_info int | host struct Scsi_Host * | buffer char * | length int

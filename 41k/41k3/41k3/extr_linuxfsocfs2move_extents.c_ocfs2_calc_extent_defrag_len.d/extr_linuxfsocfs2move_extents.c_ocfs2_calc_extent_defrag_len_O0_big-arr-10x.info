@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsocfs2move_extents.c_ocfs2_calc_extent_defrag_len.d/extr_linuxfsocfs2move_extents.c_ocfs2_calc_extent_defrag_len_O0::ocfs2_calc_extent_defrag_len(62)"
+  }
+]

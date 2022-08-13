@@ -1,0 +1,4 @@
+struct TYPE_7__ | data int | len int 
+struct TYPE_6__ | data int | len int 
+struct TYPE_8__ | valid_unparsed_uri long | args struct TYPE_6__ 
+function ngx_http_variable_set_args void | r struct TYPE_8__ * | v struct TYPE_7__ * | data unsigned long

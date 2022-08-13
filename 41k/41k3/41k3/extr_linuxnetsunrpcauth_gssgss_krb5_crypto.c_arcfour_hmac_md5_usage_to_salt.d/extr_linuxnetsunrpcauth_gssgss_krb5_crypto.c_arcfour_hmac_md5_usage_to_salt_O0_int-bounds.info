@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetsunrpcauth_gssgss_krb5_crypto.c_arcfour_hmac_md5_usage_to_salt.d/extr_linuxnetsunrpcauth_gssgss_krb5_crypto.c_arcfour_hmac_md5_usage_to_salt_O0::arcfour_hmac_md5_usage_to_salt(65)"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 21,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_opensslsslrecordrec_layer_d1.c_dtls1_get_bitmap.d/extr_opensslsslrecordrec_layer_d1.c_dtls1_get_bitmap_O0::dtls1_get_bitmap(76)"
+  }
+]

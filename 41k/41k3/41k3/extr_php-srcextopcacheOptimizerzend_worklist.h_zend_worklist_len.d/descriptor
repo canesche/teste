@@ -1,0 +1,3 @@
+struct TYPE_4__ | len int 
+struct TYPE_5__ | stack struct TYPE_4__ 
+function zend_worklist_len int | worklist struct TYPE_5__ *

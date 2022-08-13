@@ -1,0 +1,2 @@
+struct TYPE_3__ | cursor long | head long 
+function Q_AtHead int | q struct TYPE_3__ *

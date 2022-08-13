@@ -1,0 +1,2 @@
+struct TYPE_3__ | pshared int 
+function pthread_barrierattr_setpshared int | attr struct TYPE_3__ ** | pshared int

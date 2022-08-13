@@ -1,0 +1,2 @@
+struct tipc_link | state long 
+function tipc_link_peer_is_down int | l struct tipc_link *

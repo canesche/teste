@@ -1,0 +1,3 @@
+struct priv | aframesize int | framecount int 
+struct ao | priv struct priv * 
+function get_space int | ao struct ao *

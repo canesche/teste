@@ -1,0 +1,2 @@
+struct afs_net | dummy int 
+function afs_proc_cleanup void | net struct afs_net *

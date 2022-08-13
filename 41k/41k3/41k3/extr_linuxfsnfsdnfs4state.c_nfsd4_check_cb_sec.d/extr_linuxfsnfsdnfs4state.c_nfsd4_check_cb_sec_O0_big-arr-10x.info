@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsnfsdnfs4state.c_nfsd4_check_cb_sec.d/extr_linuxfsnfsdnfs4state.c_nfsd4_check_cb_sec_O0::nfsd4_check_cb_sec(66)"
+  }
+]

@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct batadv_priv | dummy int 
+function batadv_mcast_mesh_info_put int | msg struct sk_buff * | bat_priv struct batadv_priv *

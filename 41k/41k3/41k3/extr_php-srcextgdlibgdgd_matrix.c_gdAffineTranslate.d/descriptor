@@ -1,0 +1,1 @@
+function gdAffineTranslate int | dst double [6] | offset_x const double | offset_y const double

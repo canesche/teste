@@ -1,0 +1,2 @@
+struct bictcp | delayed_ack int | epoch_start long | last_time long | last_cwnd long | last_max_cwnd long | cnt long 
+function bictcp_reset void | ca struct bictcp *

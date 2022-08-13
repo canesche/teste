@@ -1,0 +1,2 @@
+struct ceph_connection | dummy int 
+function con_get struct ceph_connection * | con struct ceph_connection *

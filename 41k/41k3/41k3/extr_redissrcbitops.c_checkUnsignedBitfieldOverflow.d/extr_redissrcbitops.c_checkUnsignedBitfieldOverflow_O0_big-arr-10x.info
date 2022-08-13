@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 40,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_redissrcbitops.c_checkUnsignedBitfieldOverflow.d/extr_redissrcbitops.c_checkUnsignedBitfieldOverflow_O0::checkUnsignedBitfieldOverflow(64)"
+  }
+]

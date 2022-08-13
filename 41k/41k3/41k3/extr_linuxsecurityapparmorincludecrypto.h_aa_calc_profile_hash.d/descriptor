@@ -1,0 +1,2 @@
+struct aa_profile | dummy int 
+function aa_calc_profile_hash int | profile struct aa_profile * | version int | start void * | len unsigned long

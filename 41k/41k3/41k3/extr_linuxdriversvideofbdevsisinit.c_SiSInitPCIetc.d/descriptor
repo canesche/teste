@@ -1,0 +1,2 @@
+struct SiS_Private | ChipType int 
+function SiSInitPCIetc void | SiS_Pr struct SiS_Private *

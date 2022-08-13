@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 45,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversvideoconsolevgacon.c_vgacon_build_attr.d/extr_linuxdriversvideoconsolevgacon.c_vgacon_build_attr_O0::vgacon_build_attr(65)"
+  }
+]

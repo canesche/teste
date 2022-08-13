@@ -1,0 +1,2 @@
+struct timer_list | dummy int 
+function rose_ftimer_expiry void | t struct timer_list *

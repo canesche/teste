@@ -1,0 +1,2 @@
+struct us_data | protocol int | transport_name char * | max_lun int | transport_reset void * | transport void * 
+function get_transport void | us struct us_data *

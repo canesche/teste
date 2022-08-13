@@ -1,0 +1,2 @@
+struct zspage | isolated int 
+function is_zspage_isolated int | zspage struct zspage *

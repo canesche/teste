@@ -1,0 +1,2 @@
+struct ocfs2_dlm_lksb | dummy int 
+function o2cb_dlm_lvb_valid int | lksb struct ocfs2_dlm_lksb *

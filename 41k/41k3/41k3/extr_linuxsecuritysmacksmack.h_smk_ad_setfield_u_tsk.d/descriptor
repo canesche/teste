@@ -1,0 +1,3 @@
+struct task_struct | dummy int 
+struct smk_audit_info | dummy int 
+function smk_ad_setfield_u_tsk void | a struct smk_audit_info * | t struct task_struct *

@@ -1,0 +1,3 @@
+struct TYPE_6__ | inh int | relkind long 
+struct TYPE_5__ | reloptkind long | rtekind long 
+function is_append_child int | rel struct TYPE_5__ * | rte struct TYPE_6__ *

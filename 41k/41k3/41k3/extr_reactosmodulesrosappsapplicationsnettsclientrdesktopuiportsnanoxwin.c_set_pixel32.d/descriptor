@@ -1,0 +1,1 @@
+function set_pixel32 void | data int * | x int | y int | width int | height int | pixel int

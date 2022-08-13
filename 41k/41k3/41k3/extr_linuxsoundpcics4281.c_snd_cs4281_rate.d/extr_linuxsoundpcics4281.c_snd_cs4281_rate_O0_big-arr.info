@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 6,
+    exit: true,
+    halt: false,
+    edges: 21,
+    static: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 53,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundpcics4281.c_snd_cs4281_rate.d/extr_linuxsoundpcics4281.c_snd_cs4281_rate_O0::snd_cs4281_rate(60)"
+  }
+]

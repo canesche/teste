@@ -1,0 +1,2 @@
+struct sis_video_info | sisvga_engine long 
+function sisfb_syncaccel void | ivideo struct sis_video_info *

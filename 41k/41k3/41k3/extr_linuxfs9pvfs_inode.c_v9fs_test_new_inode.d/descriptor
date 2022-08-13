@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function v9fs_test_new_inode int | inode struct inode * | data void *

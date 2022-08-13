@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_radare2librcorepcore_java.c_r_cmd_java_is_valid_java_mcf.d/extr_radare2librcorepcore_java.c_r_cmd_java_is_valid_java_mcf_O0::r_cmd_java_is_valid_java_mcf(59)"
+  }
+]

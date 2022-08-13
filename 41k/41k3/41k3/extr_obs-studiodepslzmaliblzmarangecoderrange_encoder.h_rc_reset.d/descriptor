@@ -1,0 +1,2 @@
+struct TYPE_3__ | cache_size int | pos long | count long | cache long | range int | low long 
+function rc_reset void | rc struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct SiS_Private | dummy int 
+function SiS_IsDualLink int | SiS_Pr struct SiS_Private *

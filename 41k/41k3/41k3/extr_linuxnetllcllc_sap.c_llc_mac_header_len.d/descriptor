@@ -1,0 +1,2 @@
+struct ethhdr | dummy int 
+function llc_mac_header_len int | devtype unsigned short

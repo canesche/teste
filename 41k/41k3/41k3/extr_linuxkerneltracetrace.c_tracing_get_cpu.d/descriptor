@@ -1,0 +1,2 @@
+struct inode | i_cdev long 
+function tracing_get_cpu int | inode struct inode *

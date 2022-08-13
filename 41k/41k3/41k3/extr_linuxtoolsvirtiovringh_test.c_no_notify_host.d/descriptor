@@ -1,0 +1,2 @@
+struct virtqueue | dummy int 
+function no_notify_host int | vq struct virtqueue *

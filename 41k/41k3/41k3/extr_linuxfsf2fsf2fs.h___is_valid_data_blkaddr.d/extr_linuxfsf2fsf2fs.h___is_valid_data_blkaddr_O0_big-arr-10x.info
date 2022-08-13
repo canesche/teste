@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsf2fsf2fs.h___is_valid_data_blkaddr.d/extr_linuxfsf2fsf2fs.h___is_valid_data_blkaddr_O0::__is_valid_data_blkaddr(63)"
+  }
+]

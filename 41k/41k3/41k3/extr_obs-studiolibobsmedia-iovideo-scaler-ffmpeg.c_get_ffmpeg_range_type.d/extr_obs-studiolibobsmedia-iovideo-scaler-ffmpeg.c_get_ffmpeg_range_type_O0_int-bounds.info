@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_obs-studiolibobsmedia-iovideo-scaler-ffmpeg.c_get_ffmpeg_range_type.d/extr_obs-studiolibobsmedia-iovideo-scaler-ffmpeg.c_get_ffmpeg_range_type_O0::get_ffmpeg_range_type(62)"
+  }
+]

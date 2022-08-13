@@ -1,0 +1,2 @@
+struct nuc900fb_info | dummy int 
+function nuc900fb_cpufreq_register int | fbi struct nuc900fb_info *

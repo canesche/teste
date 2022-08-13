@@ -1,0 +1,3 @@
+struct vatpic | atpic struct atpic * 
+struct atpic | dummy int 
+function master_atpic int | vatpic struct vatpic * | atpic struct atpic *

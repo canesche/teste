@@ -1,0 +1,3 @@
+struct fsi_stream | priv struct fsi_priv * 
+struct fsi_priv | dummy int 
+function fsi_stream_to_priv struct fsi_priv * | io struct fsi_stream *

@@ -1,0 +1,2 @@
+struct chmcLzxcResetTable | version int | entry_size int | block_len int | compressed_len long | uncompressed_len long | table_offset int | block_count long 
+function chmc_reset_table_init void | reset_table struct chmcLzxcResetTable *

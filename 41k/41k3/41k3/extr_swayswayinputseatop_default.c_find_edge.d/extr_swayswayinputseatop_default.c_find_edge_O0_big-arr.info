@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 70,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 70,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_swayswayinputseatop_default.c_find_edge.d/extr_swayswayinputseatop_default.c_find_edge_O0::find_edge(72)"
+  }
+]

@@ -1,0 +1,2 @@
+struct TYPE_3__ | accError int 
+function sqlite3_str_errcode int | p struct TYPE_3__ *

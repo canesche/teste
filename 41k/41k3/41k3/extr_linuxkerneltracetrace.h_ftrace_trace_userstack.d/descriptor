@@ -1,0 +1,2 @@
+struct ring_buffer | dummy int 
+function ftrace_trace_userstack void | buffer struct ring_buffer * | flags unsigned long | pc int

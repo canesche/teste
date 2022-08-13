@@ -1,0 +1,2 @@
+struct f2fs_sb_info | gc_mode int 
+function select_gc_type int | sbi struct f2fs_sb_info * | gc_type int

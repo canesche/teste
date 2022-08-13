@@ -1,0 +1,5 @@
+struct wireless_dev | ps int 
+struct net_device | ieee80211_ptr struct wireless_dev * 
+struct iw_request_info | dummy int 
+struct iw_param | disabled int 
+function cfg80211_wext_giwpower int | dev struct net_device * | info struct iw_request_info * | wrq struct iw_param * | extra char *

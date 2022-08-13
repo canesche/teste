@@ -1,0 +1,2 @@
+struct snd_ice1712 | dummy int 
+function se200pci_WM8776_set_pro_rate void | ice struct snd_ice1712 * | rate unsigned int

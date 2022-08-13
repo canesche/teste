@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_radare2librbinformatomfomf.c_r_bin_omf_get_bits.d/extr_radare2librbinformatomfomf.c_r_bin_omf_get_bits_O0::r_bin_omf_get_bits(65)"
+  }
+]

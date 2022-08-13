@@ -1,0 +1,2 @@
+struct watchdog_device | dummy int 
+function bcm47xx_wdt_hard_start int | wdd struct watchdog_device *

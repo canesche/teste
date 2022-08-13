@@ -1,0 +1,3 @@
+struct demangle_component | dummy int 
+struct d_info | next_sub unsigned long | num_subs unsigned long | subs struct demangle_component ** 
+function d_add_substitution int | di struct d_info * | dc struct demangle_component *

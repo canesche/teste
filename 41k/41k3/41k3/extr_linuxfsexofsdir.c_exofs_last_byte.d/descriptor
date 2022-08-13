@@ -1,0 +1,2 @@
+struct inode | i_size long 
+function exofs_last_byte unsigned int | inode struct inode * | page_nr unsigned long

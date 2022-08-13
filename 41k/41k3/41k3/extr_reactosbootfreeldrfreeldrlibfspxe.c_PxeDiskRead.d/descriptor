@@ -1,0 +1,1 @@
+function PxeDiskRead int | FileId int | Buffer int * | N int | Count int *

@@ -1,0 +1,2 @@
+struct hci_conn | remote_auth int | auth_type int | remote_cap long | io_capability long 
+function hci_get_auth_req int | conn struct hci_conn *

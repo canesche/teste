@@ -1,0 +1,4 @@
+struct TYPE_3__ | tv_sec long | tv_usec long 
+struct TYPE_4__ | tv_sec long | tv_usec long 
+struct bcm_msg_head | ival2 struct TYPE_3__ | ival1 struct TYPE_4__ 
+function bcm_is_invalid_tv int | msg_head struct bcm_msg_head *

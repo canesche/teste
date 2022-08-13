@@ -1,0 +1,2 @@
+struct pm_qos_constraints | target_value int 
+function pm_qos_set_value void | c struct pm_qos_constraints * | value int

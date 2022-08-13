@@ -1,0 +1,2 @@
+struct wl_touch | dummy int 
+function touch_handle_frame void | data void * | wl_touch struct wl_touch *

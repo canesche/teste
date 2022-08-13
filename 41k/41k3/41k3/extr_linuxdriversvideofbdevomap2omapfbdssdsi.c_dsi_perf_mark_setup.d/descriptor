@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function dsi_perf_mark_setup void | dsidev struct platform_device *

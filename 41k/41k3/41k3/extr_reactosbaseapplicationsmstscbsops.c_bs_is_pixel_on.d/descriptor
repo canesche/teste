@@ -1,0 +1,1 @@
+function bs_is_pixel_on int | data char * | x int | y int | width int | bpp int

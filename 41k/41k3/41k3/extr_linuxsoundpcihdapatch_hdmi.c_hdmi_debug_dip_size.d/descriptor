@@ -1,0 +1,2 @@
+struct hda_codec | dummy int 
+function hdmi_debug_dip_size void | codec struct hda_codec * | pin_nid int

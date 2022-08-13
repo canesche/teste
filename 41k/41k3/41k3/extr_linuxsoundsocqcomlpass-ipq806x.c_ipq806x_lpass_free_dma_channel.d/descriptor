@@ -1,0 +1,2 @@
+struct lpass_data | dummy int 
+function ipq806x_lpass_free_dma_channel int | drvdata struct lpass_data * | chan int

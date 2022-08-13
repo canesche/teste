@@ -1,0 +1,2 @@
+struct Qdisc | dummy int 
+function cake_bind unsigned long | sch struct Qdisc * | parent unsigned long | classid int

@@ -1,0 +1,2 @@
+struct cfg80211_registered_device | dummy int 
+function cfg80211_validate_beacon_int int | rdev struct cfg80211_registered_device * | iftype enum nl80211_iftype | beacon_int int

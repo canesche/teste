@@ -1,0 +1,2 @@
+struct seq_oss_devinfo | max_mididev int 
+function snd_seq_oss_midi_setup void | dp struct seq_oss_devinfo *

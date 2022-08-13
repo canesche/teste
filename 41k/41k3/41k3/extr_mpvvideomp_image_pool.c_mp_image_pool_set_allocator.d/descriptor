@@ -1,0 +1,2 @@
+struct mp_image_pool | allocator_ctx void * | allocator int 
+function mp_image_pool_set_allocator void | pool struct mp_image_pool * | cb int | cb_data void *

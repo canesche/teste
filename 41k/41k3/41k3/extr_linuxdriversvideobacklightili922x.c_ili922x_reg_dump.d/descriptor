@@ -1,0 +1,2 @@
+struct spi_device | dummy int 
+function ili922x_reg_dump void | spi struct spi_device *

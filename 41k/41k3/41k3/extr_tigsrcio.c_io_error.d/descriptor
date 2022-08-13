@@ -1,0 +1,2 @@
+struct io | error int 
+function io_error int | io struct io *

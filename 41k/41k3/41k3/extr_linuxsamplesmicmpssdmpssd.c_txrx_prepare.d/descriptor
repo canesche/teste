@@ -1,0 +1,5 @@
+struct virtio_net_hdr | dummy int 
+struct mic_vring | dummy int 
+struct mic_copy_desc | vr_idx int | update_used int | iov struct TYPE_2__ * 
+struct TYPE_2__ | iov_len void * 
+function txrx_prepare void | type int | tx int | vr struct mic_vring * | copy struct mic_copy_desc * | len void *

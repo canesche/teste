@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 13,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 20,
+    static: {
+      instructions: 64,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 154,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_nodemcu-firmwareappfatfsffunicode.c_ff_wtoupper.d/extr_nodemcu-firmwareappfatfsffunicode.c_ff_wtoupper_O0::ff_wtoupper(64)"
+  }
+]

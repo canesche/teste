@@ -1,0 +1,2 @@
+struct mp_chmap_sel | allow_any int 
+function mp_chmap_sel_add_any void | s struct mp_chmap_sel *

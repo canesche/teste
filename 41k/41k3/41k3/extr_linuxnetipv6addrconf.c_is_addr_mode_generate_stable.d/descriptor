@@ -1,0 +1,3 @@
+struct TYPE_2__ | addr_gen_mode long 
+struct inet6_dev | cnf struct TYPE_2__ 
+function is_addr_mode_generate_stable int | idev struct inet6_dev *

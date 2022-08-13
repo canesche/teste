@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 100010,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_radare2librbinformatomfomf.c_get_next_omf_record_type.d/extr_radare2librbinformatomfomf.c_get_next_omf_record_type_O0::get_next_omf_record_type(65)"
+  }
+]

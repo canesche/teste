@@ -1,0 +1,3 @@
+struct tc_cbq_lssopt | change int | flags int | offtime int | maxidle int | minidle long | avpkt int | ewma_log int 
+struct cbq_class | minidle long | offtime int | avgidle int | maxidle int | avpkt int | ewma_log int | tparent int * | borrow int * | share int * 
+function cbq_set_lss int | cl struct cbq_class * | lss struct tc_cbq_lssopt *

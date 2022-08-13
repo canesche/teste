@@ -1,0 +1,3 @@
+struct netns_ipvs | dummy int 
+struct ip_vs_dest | dummy int 
+function expire_quiescent_template int | ipvs struct netns_ipvs * | dest struct ip_vs_dest *

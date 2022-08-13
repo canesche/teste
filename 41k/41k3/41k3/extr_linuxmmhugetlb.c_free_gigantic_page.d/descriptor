@@ -1,0 +1,2 @@
+struct page | dummy int 
+function free_gigantic_page void | page struct page * | order unsigned int

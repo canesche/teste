@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdriversfilesystemsext2srcjbdreplay.c_journal_check_available_features.d/extr_reactosdriversfilesystemsext2srcjbdreplay.c_journal_check_available_features_O0::journal_check_available_features(68)"
+  }
+]

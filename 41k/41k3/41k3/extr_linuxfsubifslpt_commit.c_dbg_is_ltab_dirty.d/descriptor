@@ -1,0 +1,2 @@
+struct ubifs_info | ltab_lnum int | ltab_offs int | lpt_drty_flgs int 
+function dbg_is_ltab_dirty int | c struct ubifs_info * | lnum int | offs int

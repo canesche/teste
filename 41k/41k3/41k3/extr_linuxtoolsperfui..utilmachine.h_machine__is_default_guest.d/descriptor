@@ -1,0 +1,2 @@
+struct machine | pid long 
+function machine__is_default_guest int | machine struct machine *

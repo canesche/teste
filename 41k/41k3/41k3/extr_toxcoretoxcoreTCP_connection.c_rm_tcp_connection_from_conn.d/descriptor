@@ -1,0 +1,3 @@
+struct TYPE_5__ | connections struct TYPE_4__ * 
+struct TYPE_4__ | tcp_connection unsigned int | connection_id long | status int 
+function rm_tcp_connection_from_conn int | con_to struct TYPE_5__ * | tcp_connections_number unsigned int

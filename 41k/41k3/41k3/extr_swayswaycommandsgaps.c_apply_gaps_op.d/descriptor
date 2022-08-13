@@ -1,0 +1,1 @@
+function apply_gaps_op void | prop int * | op enum gaps_op | amount int

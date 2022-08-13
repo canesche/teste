@@ -1,0 +1,4 @@
+struct TYPE_7__ | dict struct TYPE_6__ * 
+struct TYPE_5__ | ht_used long 
+struct TYPE_6__ | dv_hashtab struct TYPE_5__ 
+function DictionaryLength int | self struct TYPE_7__ *

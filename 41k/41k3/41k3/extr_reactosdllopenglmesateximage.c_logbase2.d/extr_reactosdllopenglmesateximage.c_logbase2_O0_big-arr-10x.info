@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 26,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 59,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdllopenglmesateximage.c_logbase2.d/extr_reactosdllopenglmesateximage.c_logbase2_O0::logbase2(61)"
+  }
+]

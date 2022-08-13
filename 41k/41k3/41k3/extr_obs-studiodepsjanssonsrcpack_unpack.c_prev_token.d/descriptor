@@ -1,0 +1,2 @@
+struct TYPE_3__ | prev_token int | token int | next_token int 
+function prev_token void | s struct TYPE_3__ *

@@ -1,0 +1,1 @@
+function ngx_ssl_verify_callback int | ok int | x509_store int *

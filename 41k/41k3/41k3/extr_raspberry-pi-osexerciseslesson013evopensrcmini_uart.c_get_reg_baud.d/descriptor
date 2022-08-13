@@ -1,0 +1,1 @@
+function get_reg_baud unsigned int | core_freq unsigned int | baud unsigned int

@@ -1,0 +1,3 @@
+struct TYPE_2__ | bInterfaceClass long | bInterfaceSubClass long | bInterfaceProtocol long 
+struct usb_host_interface | desc struct TYPE_2__ 
+function uas_is_interface int | intf struct usb_host_interface *

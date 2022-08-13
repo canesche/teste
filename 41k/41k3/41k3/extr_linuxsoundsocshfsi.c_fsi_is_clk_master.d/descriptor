@@ -1,0 +1,2 @@
+struct fsi_priv | clk_master int 
+function fsi_is_clk_master int | fsi struct fsi_priv *

@@ -1,0 +1,1 @@
+function hwa742_setup_plane int | plane int | channel_out int | offset unsigned long | screen_width int | pos_x int | pos_y int | width int | height int | color_mode int

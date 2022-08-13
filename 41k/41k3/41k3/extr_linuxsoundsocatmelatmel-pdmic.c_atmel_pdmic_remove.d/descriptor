@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function atmel_pdmic_remove int | pdev struct platform_device *

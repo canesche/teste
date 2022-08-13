@@ -1,0 +1,2 @@
+struct watchdog_device | timeout unsigned int 
+function moxart_wdt_set_timeout int | wdt_dev struct watchdog_device * | timeout unsigned int

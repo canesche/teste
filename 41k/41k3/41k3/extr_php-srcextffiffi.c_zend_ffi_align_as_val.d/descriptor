@@ -1,0 +1,8 @@
+struct TYPE_10__ | kind int 
+struct TYPE_11__ | align int 
+struct TYPE_16__ | align int 
+struct TYPE_15__ | align int 
+struct TYPE_14__ | align int 
+struct TYPE_13__ | align int 
+struct TYPE_12__ | align int 
+function zend_ffi_align_as_val void | dcl struct TYPE_11__ * | align_val struct TYPE_10__ *

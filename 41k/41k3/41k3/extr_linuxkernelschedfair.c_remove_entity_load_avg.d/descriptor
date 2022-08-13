@@ -1,0 +1,2 @@
+struct sched_entity | dummy int 
+function remove_entity_load_avg void | se struct sched_entity *

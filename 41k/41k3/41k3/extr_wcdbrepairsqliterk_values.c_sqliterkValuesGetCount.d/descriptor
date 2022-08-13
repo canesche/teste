@@ -1,0 +1,2 @@
+struct TYPE_3__ | count int 
+function sqliterkValuesGetCount int | values struct TYPE_3__ *

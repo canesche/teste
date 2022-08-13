@@ -1,0 +1,2 @@
+struct net_device | dummy int 
+function call_commit_handler int | dev struct net_device *

@@ -1,0 +1,2 @@
+struct sock | sk_state int 
+function tipc_set_sk_state int | sk struct sock * | state int

@@ -1,0 +1,2 @@
+struct mem_cgroup | dummy int 
+function shrink_slab_memcg unsigned long | gfp_mask int | nid int | memcg struct mem_cgroup * | priority int

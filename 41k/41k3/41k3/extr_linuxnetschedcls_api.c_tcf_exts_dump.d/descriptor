@@ -1,0 +1,3 @@
+struct tcf_exts | dummy int 
+struct sk_buff | dummy int 
+function tcf_exts_dump int | skb struct sk_buff * | exts struct tcf_exts *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 24,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_mimikatzmimikatzmoduleskerberoskuhl_m_kerberos_ticket.c_kuhl_m_kerberos_ticket_isLongFilename.d/extr_mimikatzmimikatzmoduleskerberoskuhl_m_kerberos_ticket.c_kuhl_m_kerberos_ticket_isLongFilename_O0::kuhl_m_kerberos_ticket_isLongFilename(70)"
+  }
+]

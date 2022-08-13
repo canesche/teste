@@ -1,0 +1,3 @@
+struct snd_pcm_substream | runtime struct TYPE_2__ * 
+struct TYPE_2__ | private_data long 
+function oxygen_substream_channel unsigned int | substream struct snd_pcm_substream *

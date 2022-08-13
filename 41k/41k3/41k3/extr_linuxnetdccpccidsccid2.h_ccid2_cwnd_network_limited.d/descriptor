@@ -1,0 +1,2 @@
+struct ccid2_hc_tx_sock | tx_pipe long | tx_cwnd long 
+function ccid2_cwnd_network_limited int | hc struct ccid2_hc_tx_sock *

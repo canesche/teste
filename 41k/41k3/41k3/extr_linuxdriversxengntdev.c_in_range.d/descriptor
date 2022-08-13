@@ -1,0 +1,3 @@
+struct gntdev_grant_map | vma struct TYPE_2__ * 
+struct TYPE_2__ | vm_start unsigned long | vm_end unsigned long 
+function in_range int | map struct gntdev_grant_map * | start unsigned long | end unsigned long

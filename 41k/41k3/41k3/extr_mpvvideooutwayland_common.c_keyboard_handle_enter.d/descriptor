@@ -1,0 +1,4 @@
+struct wl_surface | dummy int 
+struct wl_keyboard | dummy int 
+struct wl_array | dummy int 
+function keyboard_handle_enter void | data void * | wl_keyboard struct wl_keyboard * | serial int | surface struct wl_surface * | keys struct wl_array *

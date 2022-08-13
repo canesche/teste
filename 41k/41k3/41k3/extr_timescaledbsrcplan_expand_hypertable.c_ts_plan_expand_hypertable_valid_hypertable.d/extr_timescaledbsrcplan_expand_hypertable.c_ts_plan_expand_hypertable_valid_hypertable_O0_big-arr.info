@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_timescaledbsrcplan_expand_hypertable.c_ts_plan_expand_hypertable_valid_hypertable.d/extr_timescaledbsrcplan_expand_hypertable.c_ts_plan_expand_hypertable_valid_hypertable_O0::ts_plan_expand_hypertable_valid_hypertable(71)"
+  }
+]

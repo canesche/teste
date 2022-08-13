@@ -1,0 +1,2 @@
+struct fb_var_screeninfo | yres int | upper_margin int | lower_margin int | vsync_len int 
+function v_total int | var struct fb_var_screeninfo *

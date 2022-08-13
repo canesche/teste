@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosbaseapplicationscalcfun_ieee.c_validate_rad2angle.d/extr_reactosbaseapplicationscalcfun_ieee.c_validate_rad2angle_O0::validate_rad2angle(65)"
+  }
+]

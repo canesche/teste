@@ -1,0 +1,3 @@
+struct umh_info | pid int 
+struct subprocess_info | pid int | data struct umh_info * 
+function umh_save_pid void | info struct subprocess_info *

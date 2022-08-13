@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsnfsdnfs4xdr.c_nfsd4_decode_putpubfh.d/extr_linuxfsnfsdnfs4xdr.c_nfsd4_decode_putpubfh_O0::nfsd4_decode_putpubfh(65)"
+  }
+]

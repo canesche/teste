@@ -1,0 +1,2 @@
+struct work_struct | dummy int 
+function debug_work_activate void | work struct work_struct *

@@ -1,0 +1,3 @@
+struct ubifs_info | lpt_first int | lpt_lebs int | leb_size long | ltab struct TYPE_2__ * 
+struct TYPE_2__ | cmt int | free long | tgc long 
+function alloc_lpt_leb int | c struct ubifs_info * | lnum int *

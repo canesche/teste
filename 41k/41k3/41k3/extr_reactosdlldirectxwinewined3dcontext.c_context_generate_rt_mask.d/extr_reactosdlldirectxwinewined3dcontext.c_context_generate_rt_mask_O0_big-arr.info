@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 12,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdlldirectxwinewined3dcontext.c_context_generate_rt_mask.d/extr_reactosdlldirectxwinewined3dcontext.c_context_generate_rt_mask_O0::context_generate_rt_mask(62)"
+  }
+]

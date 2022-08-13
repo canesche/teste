@@ -1,0 +1,2 @@
+struct wpan_phy | lifs_period int | symbol_duration int | sifs_period int 
+function ieee802154_setup_wpan_phy_pib void | wpan_phy struct wpan_phy *

@@ -1,0 +1,4 @@
+struct TYPE_4__ | reg_idr8 int | reg_idr2 int | reg_idr1 int | reg_idr0 int | reg_traceidr int | reg_configr int 
+struct cs_etm_trace_params | etmv4 struct TYPE_4__ 
+struct TYPE_5__ | core_prof int | arch_ver int | reg_idr13 long | reg_idr12 long | reg_idr11 long | reg_idr10 long | reg_idr9 long | reg_idr8 int | reg_idr2 int | reg_idr1 int | reg_idr0 int | reg_traceidr int | reg_configr int 
+function cs_etm_decoder__gen_etmv4_config void | params struct cs_etm_trace_params * | config struct TYPE_5__ *

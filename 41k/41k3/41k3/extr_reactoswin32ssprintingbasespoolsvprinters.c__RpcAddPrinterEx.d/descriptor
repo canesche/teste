@@ -1,0 +1,1 @@
+function _RpcAddPrinterEx int | pName int | pPrinterContainer int * | pDevModeContainer int * | pSecurityContainer int * | pClientInfo int * | pHandle int *

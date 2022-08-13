@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_radare2librasmarchtms320c55x_plushashtable.c_get_hashfunc_59.d/extr_radare2librasmarchtms320c55x_plushashtable.c_get_hashfunc_59_O0::get_hashfunc_59(61)"
+  }
+]

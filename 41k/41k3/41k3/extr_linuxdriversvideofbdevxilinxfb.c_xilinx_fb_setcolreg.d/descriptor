@@ -1,0 +1,3 @@
+struct TYPE_2__ | grayscale long 
+struct fb_info | pseudo_palette unsigned int * | var struct TYPE_2__ 
+function xilinx_fb_setcolreg int | regno unsigned int | red unsigned int | green unsigned int | blue unsigned int | transp unsigned int | fbi struct fb_info *

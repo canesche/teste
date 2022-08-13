@@ -1,0 +1,2 @@
+struct xfs_da_geometry | blksize int 
+function xfs_dir2_byte_to_off int | geo struct xfs_da_geometry * | by int

@@ -1,0 +1,3 @@
+struct dma_engine | dmab struct TYPE_2__ * 
+struct TYPE_2__ | area unsigned char * 
+function dma_get_buffer_addr unsigned char * | dma struct dma_engine *

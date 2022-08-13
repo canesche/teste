@@ -1,0 +1,2 @@
+struct snd_ac97 | res_table int 
+function patch_lm4550 int | ac97 struct snd_ac97 *

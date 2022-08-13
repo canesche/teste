@@ -1,0 +1,2 @@
+struct disassemble_info | dummy int 
+function get_sym_code_type int | info struct disassemble_info * | n int | map_type enum map_type *

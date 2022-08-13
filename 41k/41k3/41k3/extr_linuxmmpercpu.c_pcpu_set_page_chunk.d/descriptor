@@ -1,0 +1,3 @@
+struct pcpu_chunk | dummy int 
+struct page | index unsigned long 
+function pcpu_set_page_chunk void | page struct page * | pcpu struct pcpu_chunk *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 29,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_obs-studiodepslibcaptionsrceia608.c_eia608_parse_control.d/extr_obs-studiodepslibcaptionsrceia608.c_eia608_parse_control_O0::eia608_parse_control(62)"
+  }
+]

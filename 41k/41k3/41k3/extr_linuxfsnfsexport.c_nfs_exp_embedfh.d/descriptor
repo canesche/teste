@@ -1,0 +1,2 @@
+struct nfs_fh | dummy int 
+function nfs_exp_embedfh struct nfs_fh * | p int *

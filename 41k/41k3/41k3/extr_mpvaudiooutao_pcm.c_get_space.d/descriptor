@@ -1,0 +1,2 @@
+struct ao | dummy int 
+function get_space int | ao struct ao *

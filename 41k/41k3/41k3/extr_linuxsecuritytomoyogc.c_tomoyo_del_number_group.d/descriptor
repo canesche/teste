@@ -1,0 +1,2 @@
+struct list_head | dummy int 
+function tomoyo_del_number_group void | element struct list_head *

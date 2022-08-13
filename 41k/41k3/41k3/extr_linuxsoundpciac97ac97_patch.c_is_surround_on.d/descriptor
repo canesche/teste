@@ -1,0 +1,2 @@
+struct snd_ac97 | channel_mode int 
+function is_surround_on int | ac97 struct snd_ac97 *

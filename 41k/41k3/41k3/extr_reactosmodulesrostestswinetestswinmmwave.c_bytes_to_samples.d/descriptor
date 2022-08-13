@@ -1,0 +1,2 @@
+struct TYPE_3__ | nBlockAlign int 
+function bytes_to_samples int | bytes int | pwfx struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | bp_type int 
+function kdb_bptype char * | bp struct TYPE_3__ *

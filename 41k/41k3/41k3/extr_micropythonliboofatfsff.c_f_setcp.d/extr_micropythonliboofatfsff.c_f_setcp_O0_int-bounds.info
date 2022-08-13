@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 9,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 13,
+    static: {
+      instructions: 33,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 383,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_micropythonliboofatfsff.c_f_setcp.d/extr_micropythonliboofatfsff.c_f_setcp_O0::f_setcp(91)"
+  }
+]

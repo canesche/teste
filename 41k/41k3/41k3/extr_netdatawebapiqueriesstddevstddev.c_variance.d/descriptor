@@ -1,0 +1,2 @@
+struct grouping_stddev | count int | m_newS int 
+function variance int | g struct grouping_stddev *

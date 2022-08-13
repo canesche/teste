@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 124,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 146,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosmodulesrosappsapplicationsnettsclientrdesktopuiportssvgawin.c_copy_memb.d/extr_reactosmodulesrosappsapplicationsnettsclientrdesktopuiportssvgawin.c_copy_memb_O0::copy_memb(61)"
+  }
+]

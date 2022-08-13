@@ -1,0 +1,2 @@
+struct PcapFile | bytes_read int | file_size int | fp int * 
+function pcapfile_percentdone unsigned int | capfile struct PcapFile * | r_bytes_read int *

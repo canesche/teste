@@ -1,0 +1,4 @@
+struct pyrf_event | evsel struct TYPE_4__ * 
+struct TYPE_3__ | type long 
+struct TYPE_4__ | attr struct TYPE_3__ 
+function is_tracepoint int | pevent struct pyrf_event *

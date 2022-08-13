@@ -1,0 +1,3 @@
+struct TYPE_5__ | testTime int | rttAvg int | rttMax int | rttMin int | numSuccsessPings int | numSendsPings int 
+struct TYPE_6__ | TestTime int | AvgRoundTime int | MaxRoundTime int | MinRoundTime int | PacketsReceived int | PacketsSent int 
+function CopyPingResultsToReport void | pResults struct TYPE_5__ * | pReport struct TYPE_6__ *

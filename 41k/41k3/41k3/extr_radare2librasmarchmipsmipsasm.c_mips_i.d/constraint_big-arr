@@ -1,0 +1,1 @@
+value(op) == 255, value(rs) == 255, value(rt) == 255, value(imm) == 255, value(is_branch) == 255, length(b) == 65025

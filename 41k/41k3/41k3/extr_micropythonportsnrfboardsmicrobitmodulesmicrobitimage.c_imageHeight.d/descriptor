@@ -1,0 +1,4 @@
+struct TYPE_6__ | height int 
+struct TYPE_5__ | five long 
+struct TYPE_7__ | greyscale struct TYPE_6__ | base struct TYPE_5__ 
+function imageHeight int | p_image struct TYPE_7__ *

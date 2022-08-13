@@ -1,0 +1,2 @@
+struct sk_buff | dummy int 
+function dn_dev_init_pkt void | skb struct sk_buff *

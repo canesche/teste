@@ -1,0 +1,3 @@
+struct seq_file | dummy int 
+struct kmem_cache | dummy int 
+function slabinfo_show_stats void | m struct seq_file * | cachep struct kmem_cache *

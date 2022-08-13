@@ -1,0 +1,3 @@
+struct xdr_stream | end void * | p long | buf struct xdr_buf * 
+struct xdr_buf | len int | buflen int 
+function xdr_restrict_buflen int | xdr struct xdr_stream * | newbuflen int

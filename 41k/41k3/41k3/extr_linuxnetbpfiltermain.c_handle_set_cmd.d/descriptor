@@ -1,0 +1,2 @@
+struct mbox_request | dummy int 
+function handle_set_cmd int | cmd struct mbox_request *

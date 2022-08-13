@@ -1,0 +1,2 @@
+struct perf_hpp_fmt | header long 
+function perf_hpp__is_hpp_entry int | a struct perf_hpp_fmt *

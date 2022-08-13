@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdriversfilesystemsext2srcext3htree.c_ext3_release_dir.d/extr_reactosdriversfilesystemsext2srcext3htree.c_ext3_release_dir_O0::ext3_release_dir(62)"
+  }
+]

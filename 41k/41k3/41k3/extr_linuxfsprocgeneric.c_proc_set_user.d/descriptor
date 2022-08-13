@@ -1,0 +1,2 @@
+struct proc_dir_entry | gid int | uid int 
+function proc_set_user void | de struct proc_dir_entry * | uid int | gid int

@@ -1,0 +1,2 @@
+struct mp_rect | x0 int | y0 int | x1 int | y1 int 
+function test_rect int | rc struct mp_rect * | x int | y int

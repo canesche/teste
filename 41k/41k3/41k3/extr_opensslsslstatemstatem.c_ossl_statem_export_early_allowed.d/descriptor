@@ -1,0 +1,3 @@
+struct TYPE_4__ | early_data long 
+struct TYPE_5__ | ext struct TYPE_4__ | server int 
+function ossl_statem_export_early_allowed int | s struct TYPE_5__ *

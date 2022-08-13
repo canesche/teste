@@ -1,0 +1,2 @@
+struct TYPE_3__ | state int | content_length int | parse_offset long | raw_buffer long | body_start int 
+function http_parse_almost_done void | state struct TYPE_3__ * | next const char

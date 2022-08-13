@@ -1,0 +1,2 @@
+struct wl_pointer | dummy int 
+function wl_pointer_axis_source void | data void * | wl_pointer struct wl_pointer * | axis_source int

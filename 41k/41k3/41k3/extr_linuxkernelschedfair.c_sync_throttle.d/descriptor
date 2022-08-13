@@ -1,0 +1,2 @@
+struct task_group | dummy int 
+function sync_throttle void | tg struct task_group * | cpu int

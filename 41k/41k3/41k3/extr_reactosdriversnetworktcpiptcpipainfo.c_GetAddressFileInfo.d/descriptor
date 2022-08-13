@@ -1,0 +1,1 @@
+function GetAddressFileInfo int | ID int * | AddrFile int | Buffer int | BufferSize int

@@ -1,0 +1,2 @@
+struct xfs_buf | b_page_count int | b_offset int 
+function xfs_buf_vmap_len int | bp struct xfs_buf *

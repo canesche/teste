@@ -1,0 +1,3 @@
+struct TYPE_4__ | imm int 
+struct TYPE_5__ | type long | op struct TYPE_4__ 
+function hex_op_extend void | op struct TYPE_5__ *

@@ -1,0 +1,3 @@
+struct intelfb_info | dummy int 
+struct intelfb_hwstate | dummy int 
+function intelfbhw_print_hw_state void | dinfo struct intelfb_info * | hw struct intelfb_hwstate *

@@ -1,0 +1,2 @@
+struct w1_slave | dummy int 
+function w1_f23_remove_slave void | sl struct w1_slave *

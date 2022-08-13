@@ -1,0 +1,2 @@
+struct dlm_ls | dummy int 
+function dlm_create_debug_file int | ls struct dlm_ls *

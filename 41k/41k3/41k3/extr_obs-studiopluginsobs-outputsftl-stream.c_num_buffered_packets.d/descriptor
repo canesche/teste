@@ -1,0 +1,4 @@
+struct TYPE_2__ | size int 
+struct ftl_stream | packets struct TYPE_2__ 
+struct encoder_packet | dummy int 
+function num_buffered_packets unsigned long | stream struct ftl_stream *

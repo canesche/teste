@@ -1,0 +1,2 @@
+struct TYPE_3__ | read_size int | read_pos long 
+function remove_data void | req struct TYPE_3__ * | count int

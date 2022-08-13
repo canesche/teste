@@ -1,0 +1,2 @@
+struct cond_bool_datum | state int 
+function bool_isvalid int | b struct cond_bool_datum *

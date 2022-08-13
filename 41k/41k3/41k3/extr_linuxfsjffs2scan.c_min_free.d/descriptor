@@ -1,0 +1,3 @@
+struct jffs2_sb_info | dummy int 
+struct jffs2_raw_inode | dummy int 
+function min_free int | c struct jffs2_sb_info *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | kernel char * | initrd char * | cmdline char * 
+function kexec_init void | kernel_path char * | initrd_path char * | cmdline char *

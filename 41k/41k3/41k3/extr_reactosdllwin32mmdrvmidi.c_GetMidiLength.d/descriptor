@@ -1,0 +1,2 @@
+struct TYPE_3__ | l int 
+function GetMidiLength int | pClient struct TYPE_3__ * | b int

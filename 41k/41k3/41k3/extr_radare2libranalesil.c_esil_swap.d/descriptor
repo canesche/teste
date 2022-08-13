@@ -1,0 +1,2 @@
+struct TYPE_3__ | stack char ** | stackptr int 
+function esil_swap int | esil struct TYPE_3__ *

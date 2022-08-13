@@ -1,0 +1,3 @@
+struct simplefb_par | dummy int 
+struct platform_device | dummy int 
+function simplefb_regulators_enable void | par struct simplefb_par * | pdev struct platform_device *

@@ -1,0 +1,2 @@
+struct afs_cell | dummy int 
+function afs_proc_cell_remove void | cell struct afs_cell *

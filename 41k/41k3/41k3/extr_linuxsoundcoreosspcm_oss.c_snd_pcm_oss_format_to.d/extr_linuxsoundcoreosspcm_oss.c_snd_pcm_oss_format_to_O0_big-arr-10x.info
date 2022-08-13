@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundcoreosspcm_oss.c_snd_pcm_oss_format_to.d/extr_linuxsoundcoreosspcm_oss.c_snd_pcm_oss_format_to_O0::snd_pcm_oss_format_to(96)"
+  }
+]

@@ -1,0 +1,2 @@
+struct strparser | dummy int 
+function default_read_sock_done int | strp struct strparser * | err int

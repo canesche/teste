@@ -1,0 +1,1 @@
+function inotify_mask_to_arg int | mask int

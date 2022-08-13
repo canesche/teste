@@ -1,0 +1,3 @@
+struct subtitle_list | dummy int 
+struct TYPE_2__ | subtitles struct subtitle_list * 
+function set_dialog_subtitles void | subtitles struct subtitle_list *

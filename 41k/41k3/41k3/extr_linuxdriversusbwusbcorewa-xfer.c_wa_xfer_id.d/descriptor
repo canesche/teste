@@ -1,0 +1,2 @@
+struct wa_xfer | id int 
+function wa_xfer_id int | xfer struct wa_xfer *

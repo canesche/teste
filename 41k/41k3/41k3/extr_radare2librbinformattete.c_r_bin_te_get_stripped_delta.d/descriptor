@@ -1,0 +1,3 @@
+struct r_bin_te_obj_t | header struct TYPE_2__ * 
+struct TYPE_2__ | StrippedSize long long 
+function r_bin_te_get_stripped_delta long long | bin struct r_bin_te_obj_t *

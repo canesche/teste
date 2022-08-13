@@ -1,0 +1,2 @@
+struct xattr_handler | dummy int 
+function xprefix_to_handler const struct xattr_handler * | xprefix int

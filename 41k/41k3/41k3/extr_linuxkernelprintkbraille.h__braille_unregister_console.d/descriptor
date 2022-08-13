@@ -1,0 +1,2 @@
+struct console | dummy int 
+function _braille_unregister_console int | console struct console *

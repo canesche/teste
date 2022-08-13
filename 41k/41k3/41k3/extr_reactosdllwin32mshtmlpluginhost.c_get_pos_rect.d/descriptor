@@ -1,0 +1,4 @@
+struct TYPE_6__ | left long | right long | top long | bottom long 
+struct TYPE_8__ | rect struct TYPE_6__ 
+struct TYPE_7__ | right long | bottom long | left long | top long 
+function get_pos_rect void | host struct TYPE_8__ * | ret struct TYPE_7__ *

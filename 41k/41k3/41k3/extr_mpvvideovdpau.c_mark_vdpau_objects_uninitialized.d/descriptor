@@ -1,0 +1,3 @@
+struct mp_vdpau_ctx | preemption_obj void * | vdp_device void * | video_surfaces struct TYPE_2__ * 
+struct TYPE_2__ | allocated int | osurface void * | surface void * 
+function mark_vdpau_objects_uninitialized void | ctx struct mp_vdpau_ctx *

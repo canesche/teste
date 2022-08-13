@@ -1,0 +1,4 @@
+struct tracing_map_elt | dummy int 
+struct ring_buffer_event | dummy int 
+struct hist_field | dummy int 
+function hist_field_counter int | field struct hist_field * | elt struct tracing_map_elt * | rbe struct ring_buffer_event * | event void *

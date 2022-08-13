@@ -1,0 +1,2 @@
+struct TYPE_3__ | Signature1 int | BytesPerSector int | FATCount int | Media int | SectorsPerCluster int 
+function CheckAgainstFAT int | Sector struct TYPE_3__ *

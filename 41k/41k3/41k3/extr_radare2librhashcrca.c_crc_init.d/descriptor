@@ -1,0 +1,2 @@
+struct TYPE_3__ | reflect int | xout void * | poly void * | size int | crc void * 
+function crc_init void | ctx struct TYPE_3__ * | crc void * | size int | reflect int | poly void * | xout void *

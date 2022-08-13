@@ -1,0 +1,3 @@
+struct platform_pwm_backlight_data | dummy int 
+struct device | dummy int 
+function pwm_backlight_brightness_default int | dev struct device * | data struct platform_pwm_backlight_data * | period unsigned int

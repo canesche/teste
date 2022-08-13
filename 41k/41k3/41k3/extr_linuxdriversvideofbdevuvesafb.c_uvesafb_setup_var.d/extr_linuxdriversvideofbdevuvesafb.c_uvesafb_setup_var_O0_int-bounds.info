@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 71,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 71,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversvideofbdevuvesafb.c_uvesafb_setup_var.d/extr_linuxdriversvideofbdevuvesafb.c_uvesafb_setup_var_O0::uvesafb_setup_var(77)"
+  }
+]

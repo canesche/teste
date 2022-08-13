@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 7,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_radare2librasmarcharcgnuarc-opc.c_ac_get_load_sdasym_insn_type.d/extr_radare2librasmarcharcgnuarc-opc.c_ac_get_load_sdasym_insn_type_O0::ac_get_load_sdasym_insn_type(62)"
+  }
+]

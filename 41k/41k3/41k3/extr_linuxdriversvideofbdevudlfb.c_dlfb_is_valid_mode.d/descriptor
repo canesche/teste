@@ -1,0 +1,3 @@
+struct fb_videomode | xres int | yres int 
+struct dlfb_data | sku_pixel_limit int 
+function dlfb_is_valid_mode int | mode struct fb_videomode * | dlfb struct dlfb_data *

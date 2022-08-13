@@ -1,0 +1,4 @@
+struct sock | dummy int 
+struct sk_buff | dummy int 
+struct msghdr | dummy int 
+function dummy_ip6_datagram_recv_ctl void | sk struct sock * | msg struct msghdr * | skb struct sk_buff *

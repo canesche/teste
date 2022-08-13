@@ -1,0 +1,2 @@
+struct dentry | dummy int 
+function afs_dynroot_d_revalidate int | dentry struct dentry * | flags unsigned int

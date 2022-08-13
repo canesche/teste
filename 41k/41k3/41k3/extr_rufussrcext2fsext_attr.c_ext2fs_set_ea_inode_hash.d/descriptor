@@ -1,0 +1,2 @@
+struct ext2_inode | i_atime int 
+function ext2fs_set_ea_inode_hash void | inode struct ext2_inode * | hash int

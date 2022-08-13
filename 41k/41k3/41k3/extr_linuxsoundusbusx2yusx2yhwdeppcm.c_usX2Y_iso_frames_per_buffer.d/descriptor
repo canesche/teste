@@ -1,0 +1,3 @@
+struct usX2Ydev | rate int 
+struct snd_pcm_runtime | buffer_size int 
+function usX2Y_iso_frames_per_buffer int | runtime struct snd_pcm_runtime * | usX2Y struct usX2Ydev *

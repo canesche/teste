@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 19,
+    static: {
+      instructions: 98,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 214,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundcoreseqseq_midi_event.c_extra_decode_xrpn.d/extr_linuxsoundcoreseqseq_midi_event.c_extra_decode_xrpn_O0::extra_decode_xrpn(76)"
+  }
+]

@@ -1,0 +1,3 @@
+struct TYPE_5__ | zParams int | splitPoint int | nbThreads int | steps int | d int | k int 
+struct TYPE_6__ | zParams int | splitPoint int | nbThreads int | steps int | d int | k int 
+function FASTCOVER_convertToCoverParams void | fastCoverParams struct TYPE_5__ | coverParams struct TYPE_6__ *

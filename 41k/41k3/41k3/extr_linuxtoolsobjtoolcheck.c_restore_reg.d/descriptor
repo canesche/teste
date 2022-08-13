@@ -1,0 +1,3 @@
+struct insn_state | regs struct TYPE_2__ * 
+struct TYPE_2__ | offset long | base int 
+function restore_reg void | state struct insn_state * | reg unsigned char

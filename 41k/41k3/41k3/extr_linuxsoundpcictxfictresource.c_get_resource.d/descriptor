@@ -1,0 +1,1 @@
+function get_resource int | rscs int * | amount unsigned int | multi unsigned int | ridx unsigned int *

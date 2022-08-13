@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 4,
+    exit: true,
+    halt: false,
+    edges: 10,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_openpilotpandaboardsafetysafety_ford.h_ford_rx_hook.d/extr_openpilotpandaboardsafetysafety_ford.h_ford_rx_hook_O0::ford_rx_hook(66)"
+  }
+]

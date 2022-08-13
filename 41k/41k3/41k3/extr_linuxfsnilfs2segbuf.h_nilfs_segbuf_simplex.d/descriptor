@@ -1,0 +1,3 @@
+struct TYPE_2__ | flags unsigned int 
+struct nilfs_segment_buffer | sb_sum struct TYPE_2__ 
+function nilfs_segbuf_simplex int | segbuf struct nilfs_segment_buffer *

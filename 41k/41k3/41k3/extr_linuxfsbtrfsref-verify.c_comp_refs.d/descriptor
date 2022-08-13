@@ -1,0 +1,2 @@
+struct ref_entry | root_objectid long | parent long | owner long | offset long 
+function comp_refs int | ref1 struct ref_entry * | ref2 struct ref_entry *

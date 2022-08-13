@@ -1,0 +1,4 @@
+struct snd_pcm_substream | stream long 
+struct rsnd_dai_stream | dummy int 
+struct rsnd_dai | capture struct rsnd_dai_stream | playback struct rsnd_dai_stream 
+function rsnd_rdai_to_io struct rsnd_dai_stream * | rdai struct rsnd_dai * | substream struct snd_pcm_substream *

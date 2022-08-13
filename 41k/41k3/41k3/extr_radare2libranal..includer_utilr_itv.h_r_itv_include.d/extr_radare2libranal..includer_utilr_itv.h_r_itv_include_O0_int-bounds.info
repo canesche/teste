@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 38,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_radare2libranal..includer_utilr_itv.h_r_itv_include.d/extr_radare2libranal..includer_utilr_itv.h_r_itv_include_O0::r_itv_include(61)"
+  }
+]

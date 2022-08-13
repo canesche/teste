@@ -1,0 +1,2 @@
+struct super_block | dummy int 
+function f2fs_quota_off_umount void | sb struct super_block *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | toksuper int | toknext long | pos long 
+function jsmn_init void | parser struct TYPE_3__ *

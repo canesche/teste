@@ -1,0 +1,7 @@
+struct snd_kcontrol | private_data struct oxygen * 
+struct TYPE_4__ | max int | min int 
+struct TYPE_5__ | integer struct TYPE_4__ 
+struct snd_ctl_elem_info | value struct TYPE_5__ | count int | type int 
+struct TYPE_6__ | dac_volume_max int | dac_volume_min int | dac_channels_mixer int 
+struct oxygen | model struct TYPE_6__ 
+function dac_volume_info int | ctl struct snd_kcontrol * | info struct snd_ctl_elem_info *

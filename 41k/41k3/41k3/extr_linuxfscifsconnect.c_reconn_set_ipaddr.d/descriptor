@@ -1,0 +1,2 @@
+struct TCP_Server_Info | dummy int 
+function reconn_set_ipaddr int | server struct TCP_Server_Info *

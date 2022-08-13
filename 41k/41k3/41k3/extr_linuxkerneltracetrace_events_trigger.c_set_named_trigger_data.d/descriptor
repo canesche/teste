@@ -1,0 +1,2 @@
+struct event_trigger_data | named_data struct event_trigger_data * 
+function set_named_trigger_data void | data struct event_trigger_data * | named_data struct event_trigger_data *

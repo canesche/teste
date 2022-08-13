@@ -1,0 +1,2 @@
+struct ref_action | dummy int 
+function __save_stack_trace void | ra struct ref_action *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 13,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 18,
+    static: {
+      instructions: 69,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 344294,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosbaseapplicationsmstscorders.c_process_compressed_8x8_brush_data.d/extr_reactosbaseapplicationsmstscorders.c_process_compressed_8x8_brush_data_O0::process_compressed_8x8_brush_data(62)"
+  }
+]

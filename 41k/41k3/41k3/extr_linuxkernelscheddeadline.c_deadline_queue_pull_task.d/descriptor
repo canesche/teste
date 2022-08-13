@@ -1,0 +1,2 @@
+struct rq | dummy int 
+function deadline_queue_pull_task void | rq struct rq *

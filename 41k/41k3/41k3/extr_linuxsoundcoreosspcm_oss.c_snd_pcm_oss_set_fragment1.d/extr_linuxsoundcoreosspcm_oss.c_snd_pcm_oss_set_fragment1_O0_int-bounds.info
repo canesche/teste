@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 17,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundcoreosspcm_oss.c_snd_pcm_oss_set_fragment1.d/extr_linuxsoundcoreosspcm_oss.c_snd_pcm_oss_set_fragment1_O0::snd_pcm_oss_set_fragment1(65)"
+  }
+]

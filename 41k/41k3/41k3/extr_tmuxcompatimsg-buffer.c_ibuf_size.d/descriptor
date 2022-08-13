@@ -1,0 +1,2 @@
+struct ibuf | wpos unsigned long 
+function ibuf_size unsigned long | buf struct ibuf *

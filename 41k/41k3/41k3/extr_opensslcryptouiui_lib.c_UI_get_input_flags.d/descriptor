@@ -1,0 +1,2 @@
+struct TYPE_3__ | input_flags int 
+function UI_get_input_flags int | uis struct TYPE_3__ *

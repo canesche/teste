@@ -1,0 +1,2 @@
+struct video_buffer | rendering_frame int * | decoding_frame int * 
+function video_buffer_swap_frames void | vb struct video_buffer *

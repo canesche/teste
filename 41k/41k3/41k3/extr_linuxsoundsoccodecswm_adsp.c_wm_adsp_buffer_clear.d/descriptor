@@ -1,0 +1,2 @@
+struct wm_adsp_compr_buf | irq_count int | read_index int | avail long 
+function wm_adsp_buffer_clear void | buf struct wm_adsp_compr_buf *

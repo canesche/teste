@@ -1,0 +1,2 @@
+struct xfs_iext_rec | hi long 
+function xfs_iext_rec_is_empty int | rec struct xfs_iext_rec *

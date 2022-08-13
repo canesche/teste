@@ -1,0 +1,2 @@
+struct memory_bitmap | dummy int 
+function alloc_highmem_pages unsigned int | bm struct memory_bitmap * | n unsigned int

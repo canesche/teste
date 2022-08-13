@@ -1,0 +1,2 @@
+struct kbuffer | next int | curr int 
+function kbuffer_curr_size int | kbuf struct kbuffer *

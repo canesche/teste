@@ -1,0 +1,2 @@
+struct TYPE_3__ | connect_state long 
+function usbd_cdc_is_connected int | cdc struct TYPE_3__ *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | tif_tagmethods int 
+function TIFFAccessTagMethods int * | tif struct TYPE_3__ *

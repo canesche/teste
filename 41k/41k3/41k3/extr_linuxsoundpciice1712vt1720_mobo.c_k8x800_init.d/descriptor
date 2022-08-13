@@ -1,0 +1,2 @@
+struct snd_ice1712 | vt1720 int | num_total_dacs int | num_total_adcs int 
+function k8x800_init int | ice struct snd_ice1712 *

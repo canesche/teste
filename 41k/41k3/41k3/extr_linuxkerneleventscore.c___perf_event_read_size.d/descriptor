@@ -1,0 +1,3 @@
+struct TYPE_2__ | read_format int 
+struct perf_event | read_size int | attr struct TYPE_2__ 
+function __perf_event_read_size void | event struct perf_event * | nr_siblings int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_nodemcu-firmwareappplatformplatform.h_platform_sigma_delta_exists.d/extr_nodemcu-firmwareappplatformplatform.h_platform_sigma_delta_exists_O0::platform_sigma_delta_exists(60)"
+  }
+]

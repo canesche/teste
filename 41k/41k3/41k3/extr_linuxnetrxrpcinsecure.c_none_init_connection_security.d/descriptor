@@ -1,0 +1,2 @@
+struct rxrpc_connection | dummy int 
+function none_init_connection_security int | conn struct rxrpc_connection *

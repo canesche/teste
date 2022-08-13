@@ -1,0 +1,2 @@
+struct rpc_task | dummy int 
+function rpc_default_callback void | task struct rpc_task * | data void *

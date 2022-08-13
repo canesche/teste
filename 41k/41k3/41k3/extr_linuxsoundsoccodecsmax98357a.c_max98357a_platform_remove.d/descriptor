@@ -1,0 +1,2 @@
+struct platform_device | dummy int 
+function max98357a_platform_remove int | pdev struct platform_device *

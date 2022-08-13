@@ -1,0 +1,2 @@
+struct cirrusfb_info | dummy int 
+function switch_monitor void | cinfo struct cirrusfb_info * | on int

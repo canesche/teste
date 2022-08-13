@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 66,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_mpvaudiooutao_sdl.c_ceil_power_of_two.d/extr_mpvaudiooutao_sdl.c_ceil_power_of_two_O0::ceil_power_of_two(60)"
+  }
+]

@@ -1,0 +1,2 @@
+struct virtio_pci_device | dummy int 
+function virtio_pci_legacy_probe int | vp_dev struct virtio_pci_device *

@@ -1,0 +1,1 @@
+value(hypertable_natts) == 10, value(hypertable_has_oid) == 10, length(chunkdesc) == 100

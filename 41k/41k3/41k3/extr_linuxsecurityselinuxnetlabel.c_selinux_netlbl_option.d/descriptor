@@ -1,0 +1,1 @@
+function selinux_netlbl_option int | level int | optname int

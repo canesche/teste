@@ -1,0 +1,1 @@
+function smp_prepare_cpus void | maxcpus unsigned int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 5,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 9,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxnetipv4tcp_input.c_tcp_rcv_rtt_update.d/extr_linuxnetipv4tcp_input.c_tcp_rcv_rtt_update_O0::tcp_rcv_rtt_update(64)"
+  }
+]

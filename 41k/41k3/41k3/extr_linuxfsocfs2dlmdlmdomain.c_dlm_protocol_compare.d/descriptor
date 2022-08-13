@@ -1,0 +1,2 @@
+struct dlm_protocol_version | pv_major long | pv_minor long 
+function dlm_protocol_compare int | existing struct dlm_protocol_version * | request struct dlm_protocol_version *

@@ -1,0 +1,2 @@
+struct TYPE_3__ | line2 int | line1 int 
+function init_range_cmd void | eap struct TYPE_3__ *

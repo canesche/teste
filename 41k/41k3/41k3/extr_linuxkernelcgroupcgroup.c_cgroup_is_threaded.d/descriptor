@@ -1,0 +1,2 @@
+struct cgroup | dom_cgrp struct cgroup * 
+function cgroup_is_threaded int | cgrp struct cgroup *

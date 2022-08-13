@@ -1,0 +1,2 @@
+struct bpf_reg_state | umin_value long | umax_value long | smin_value long | smax_value long 
+function range_within int | old struct bpf_reg_state * | cur struct bpf_reg_state *

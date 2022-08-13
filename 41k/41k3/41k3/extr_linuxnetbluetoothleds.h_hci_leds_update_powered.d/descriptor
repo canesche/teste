@@ -1,0 +1,2 @@
+struct hci_dev | dummy int 
+function hci_leds_update_powered void | hdev struct hci_dev * | enabled int

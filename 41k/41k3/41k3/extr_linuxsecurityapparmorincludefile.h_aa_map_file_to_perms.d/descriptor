@@ -1,0 +1,2 @@
+struct file | f_flags int | f_mode int 
+function aa_map_file_to_perms int | file struct file *

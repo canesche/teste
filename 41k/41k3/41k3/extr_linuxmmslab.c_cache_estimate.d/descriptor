@@ -1,0 +1,1 @@
+function cache_estimate unsigned int | gfporder unsigned long | buffer_size unsigned long | flags int | left_over unsigned long *

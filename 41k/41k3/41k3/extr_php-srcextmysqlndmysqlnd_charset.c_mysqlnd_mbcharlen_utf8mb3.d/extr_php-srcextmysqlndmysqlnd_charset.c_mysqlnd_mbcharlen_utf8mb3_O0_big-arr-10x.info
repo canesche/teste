@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_php-srcextmysqlndmysqlnd_charset.c_mysqlnd_mbcharlen_utf8mb3.d/extr_php-srcextmysqlndmysqlnd_charset.c_mysqlnd_mbcharlen_utf8mb3_O0::mysqlnd_mbcharlen_utf8mb3(60)"
+  }
+]

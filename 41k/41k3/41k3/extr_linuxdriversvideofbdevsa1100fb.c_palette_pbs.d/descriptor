@@ -1,0 +1,2 @@
+struct fb_var_screeninfo | bits_per_pixel int 
+function palette_pbs int | var struct fb_var_screeninfo *

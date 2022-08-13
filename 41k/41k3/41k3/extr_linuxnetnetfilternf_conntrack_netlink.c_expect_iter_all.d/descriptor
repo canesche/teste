@@ -1,0 +1,2 @@
+struct nf_conntrack_expect | dummy int 
+function expect_iter_all int | exp struct nf_conntrack_expect * | data void *

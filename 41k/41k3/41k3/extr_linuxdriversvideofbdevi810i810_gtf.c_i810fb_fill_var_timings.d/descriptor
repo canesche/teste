@@ -1,0 +1,2 @@
+struct fb_var_screeninfo | dummy int 
+function i810fb_fill_var_timings void | var struct fb_var_screeninfo *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversvideobacklightlp8788_bl.c_is_brightness_ctrl_by_register.d/extr_linuxdriversvideobacklightlp8788_bl.c_is_brightness_ctrl_by_register_O0::is_brightness_ctrl_by_register(61)"
+  }
+]

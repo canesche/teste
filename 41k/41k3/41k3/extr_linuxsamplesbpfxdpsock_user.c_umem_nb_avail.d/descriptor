@@ -1,0 +1,2 @@
+struct xdp_umem_uqueue | cached_prod long | cached_cons long | producer long * 
+function umem_nb_avail long | q struct xdp_umem_uqueue * | nb long

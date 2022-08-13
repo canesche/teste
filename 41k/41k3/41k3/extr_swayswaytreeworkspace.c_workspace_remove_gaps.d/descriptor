@@ -1,0 +1,3 @@
+struct TYPE_2__ | top long | right long | bottom long | left long 
+struct sway_workspace | current_gaps struct TYPE_2__ | y int | x int | height int | width int 
+function workspace_remove_gaps void | ws struct sway_workspace *

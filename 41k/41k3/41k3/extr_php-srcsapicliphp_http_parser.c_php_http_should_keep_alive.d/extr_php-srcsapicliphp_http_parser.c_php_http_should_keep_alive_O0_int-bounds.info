@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 15,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_php-srcsapicliphp_http_parser.c_php_http_should_keep_alive.d/extr_php-srcsapicliphp_http_parser.c_php_http_should_keep_alive_O0::php_http_should_keep_alive(66)"
+  }
+]

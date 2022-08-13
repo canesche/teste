@@ -1,0 +1,4 @@
+struct selinux_state | ss struct TYPE_2__ * 
+struct policydb | mls_enabled int 
+struct TYPE_2__ | policydb struct policydb 
+function security_mls_enabled int | state struct selinux_state *

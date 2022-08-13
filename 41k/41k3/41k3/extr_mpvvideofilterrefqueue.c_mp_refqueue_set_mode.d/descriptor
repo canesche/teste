@@ -1,0 +1,2 @@
+struct mp_refqueue | flags int 
+function mp_refqueue_set_mode void | q struct mp_refqueue * | flags int

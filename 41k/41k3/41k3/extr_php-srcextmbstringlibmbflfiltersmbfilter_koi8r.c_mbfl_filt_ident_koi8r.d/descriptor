@@ -1,0 +1,2 @@
+struct TYPE_3__ | flag int 
+function mbfl_filt_ident_koi8r int | c int | filter struct TYPE_3__ *

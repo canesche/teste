@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 3581,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_php-srcZendzend_bitset.h_zend_bitset_union.d/extr_php-srcZendzend_bitset.h_zend_bitset_union_O0::zend_bitset_union(62)"
+  }
+]

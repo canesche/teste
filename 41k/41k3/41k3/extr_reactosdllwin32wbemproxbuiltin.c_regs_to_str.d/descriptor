@@ -1,0 +1,1 @@
+function regs_to_str void | regs unsigned int * | len unsigned int | buffer int *

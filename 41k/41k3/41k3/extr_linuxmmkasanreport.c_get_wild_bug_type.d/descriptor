@@ -1,0 +1,2 @@
+struct kasan_access_info | access_addr long 
+function get_wild_bug_type const char * | info struct kasan_access_info *

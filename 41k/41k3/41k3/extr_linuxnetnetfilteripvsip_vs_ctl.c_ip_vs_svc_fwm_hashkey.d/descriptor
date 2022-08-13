@@ -1,0 +1,2 @@
+struct netns_ipvs | dummy int 
+function ip_vs_svc_fwm_hashkey unsigned int | ipvs struct netns_ipvs * | fwmark unsigned long

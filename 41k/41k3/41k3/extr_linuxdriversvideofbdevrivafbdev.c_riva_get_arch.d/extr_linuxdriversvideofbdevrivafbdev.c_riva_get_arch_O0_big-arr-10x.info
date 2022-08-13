@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 19,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 37,
+    static: {
+      instructions: 79,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 79,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversvideofbdevrivafbdev.c_riva_get_arch.d/extr_linuxdriversvideofbdevrivafbdev.c_riva_get_arch_O0::riva_get_arch(67)"
+  }
+]

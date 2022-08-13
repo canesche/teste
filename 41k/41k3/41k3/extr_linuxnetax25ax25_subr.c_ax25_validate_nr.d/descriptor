@@ -1,0 +1,2 @@
+struct TYPE_3__ | va unsigned short | vs unsigned short | modulus unsigned short 
+function ax25_validate_nr int | ax25 struct TYPE_3__ * | nr unsigned short

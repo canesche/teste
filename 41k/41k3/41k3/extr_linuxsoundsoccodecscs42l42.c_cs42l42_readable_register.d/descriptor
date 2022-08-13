@@ -1,0 +1,2 @@
+struct device | dummy int 
+function cs42l42_readable_register int | dev struct device * | reg unsigned int

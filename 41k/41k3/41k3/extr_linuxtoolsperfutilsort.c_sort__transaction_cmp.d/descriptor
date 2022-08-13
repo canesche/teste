@@ -1,0 +1,2 @@
+struct hist_entry | transaction long 
+function sort__transaction_cmp long | left struct hist_entry * | right struct hist_entry *

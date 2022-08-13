@@ -1,0 +1,2 @@
+struct share_check | share_count int 
+function extent_is_shared int | sc struct share_check *

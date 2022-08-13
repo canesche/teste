@@ -1,0 +1,3 @@
+struct TYPE_6__ | ReadTimeout int * 
+struct TYPE_5__ | TimeOut int 
+function MsfsSetMailslotInformation int | Fcb struct TYPE_5__ * | Buffer struct TYPE_6__ * | BufferLength int *

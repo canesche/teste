@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 11,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 16,
+    static: {
+      instructions: 36,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 57660,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_radare2librasmarcharmarmass.c_findyz.d/extr_radare2librasmarcharmarmass.c_findyz_O0::findyz(59)"
+  }
+]

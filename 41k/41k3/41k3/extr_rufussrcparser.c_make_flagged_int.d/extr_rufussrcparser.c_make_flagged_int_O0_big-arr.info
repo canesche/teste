@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 7,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 11,
+    static: {
+      instructions: 56,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 106,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_rufussrcparser.c_make_flagged_int.d/extr_rufussrcparser.c_make_flagged_int_O0::make_flagged_int(64)"
+  }
+]

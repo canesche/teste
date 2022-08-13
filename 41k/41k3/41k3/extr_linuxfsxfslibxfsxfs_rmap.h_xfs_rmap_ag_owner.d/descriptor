@@ -1,0 +1,2 @@
+struct xfs_owner_info | oi_flags long | oi_offset long | oi_owner int 
+function xfs_rmap_ag_owner void | oi struct xfs_owner_info * | owner int

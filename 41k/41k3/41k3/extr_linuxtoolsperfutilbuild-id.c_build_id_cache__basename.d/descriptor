@@ -1,0 +1,1 @@
+function build_id_cache__basename const char * | is_kallsyms int | is_vdso int | is_debug int

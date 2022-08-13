@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 20,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsecurityselinuxssavtab.c_avtab_search_node_next.d/extr_linuxsecurityselinuxssavtab.c_avtab_search_node_next_O0::avtab_search_node_next(65)"
+  }
+]

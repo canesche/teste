@@ -1,0 +1,3 @@
+struct sk_buff | dummy int 
+struct genl_info | dummy int 
+function seg6_genl_sethmac int | skb struct sk_buff * | info struct genl_info *

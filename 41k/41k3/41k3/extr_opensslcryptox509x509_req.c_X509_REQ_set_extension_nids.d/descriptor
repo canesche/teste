@@ -1,0 +1,1 @@
+function X509_REQ_set_extension_nids void | nids int *

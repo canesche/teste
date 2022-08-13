@@ -1,0 +1,3 @@
+struct xfs_rmap_irec | rm_owner int 
+struct xfs_fsmap | fmr_flags int | fmr_owner int 
+function xfs_fsmap_owner_to_rmap int | dest struct xfs_rmap_irec * | src struct xfs_fsmap *

@@ -1,0 +1,2 @@
+struct vie | num_processed unsigned long | num_valid unsigned long | inst int * 
+function vie_peek int | vie struct vie * | x int *

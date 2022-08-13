@@ -1,0 +1,1 @@
+function CRYPTO_secure_malloc_init int | size unsigned long | minsize int

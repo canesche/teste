@@ -1,0 +1,2 @@
+struct vx_core | dummy int 
+function snd_vx_free_firmware void | chip struct vx_core *

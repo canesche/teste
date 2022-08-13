@@ -1,0 +1,2 @@
+struct file | dummy int 
+function f_getowner_uids int | filp struct file * | arg unsigned long

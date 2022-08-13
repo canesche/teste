@@ -1,0 +1,6 @@
+struct TYPE_10__ | PointsFunc long 
+struct TYPE_9__ | Size double | SmoothFlag long 
+struct TYPE_8__ | Enabled long 
+struct TYPE_11__ | RenderMode long | Driver struct TYPE_10__ | Point struct TYPE_9__ | Texture struct TYPE_8__ | NoRaster long | Visual struct TYPE_7__ * 
+struct TYPE_7__ | RGBAflag long 
+function gl_set_point_function void | ctx struct TYPE_11__ *

@@ -1,0 +1,2 @@
+struct xfs_refcount_irec | rc_startblock long 
+function xfs_refc_valid int | rc struct xfs_refcount_irec *

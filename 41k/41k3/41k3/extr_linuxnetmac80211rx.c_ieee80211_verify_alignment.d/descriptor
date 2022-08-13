@@ -1,0 +1,2 @@
+struct ieee80211_rx_data | dummy int 
+function ieee80211_verify_alignment void | rx struct ieee80211_rx_data *

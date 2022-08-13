@@ -1,0 +1,3 @@
+struct perf_evsel | idx int | leader struct TYPE_2__ * 
+struct TYPE_2__ | idx int 
+function perf_evsel__group_idx int | evsel struct perf_evsel *

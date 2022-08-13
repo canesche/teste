@@ -1,0 +1,2 @@
+struct extended_attribute | valuelen_lo int | valuelen_hi int 
+function ea_valuelen unsigned int | ea struct extended_attribute *

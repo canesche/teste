@@ -1,0 +1,4 @@
+struct mpv_handle | mpctx struct TYPE_2__ * 
+struct mpv_global | dummy int 
+struct TYPE_2__ | global struct mpv_global * 
+function mp_client_get_global struct mpv_global * | ctx struct mpv_handle *

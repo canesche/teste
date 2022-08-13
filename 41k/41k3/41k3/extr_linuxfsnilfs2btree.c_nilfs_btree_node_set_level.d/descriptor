@@ -1,0 +1,2 @@
+struct nilfs_btree_node | bn_level int 
+function nilfs_btree_node_set_level void | node struct nilfs_btree_node * | level int

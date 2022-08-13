@@ -1,0 +1,2 @@
+struct cpu_map | nr int | map int * 
+function cpu_map__socket int | sock struct cpu_map * | s int

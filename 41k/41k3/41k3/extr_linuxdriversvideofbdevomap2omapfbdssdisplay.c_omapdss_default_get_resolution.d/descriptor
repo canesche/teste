@@ -1,0 +1,4 @@
+struct TYPE_3__ | y_res int | x_res int 
+struct TYPE_4__ | timings struct TYPE_3__ 
+struct omap_dss_device | panel struct TYPE_4__ 
+function omapdss_default_get_resolution void | dssdev struct omap_dss_device * | xres int * | yres int *

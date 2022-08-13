@@ -1,0 +1,2 @@
+struct lowpan_nhc | idmask int * | id int * 
+function udp_nhid_setup void | nhc struct lowpan_nhc *

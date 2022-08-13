@@ -1,0 +1,7 @@
+struct TYPE_12__ | pActiveClass struct TYPE_9__ * 
+struct TYPE_10__ | param5 int | param4 int | param3 int | param2 int | param1 int | trans_id int | code int 
+struct TYPE_11__ | resp_container struct TYPE_10__ | session_id int 
+struct TYPE_14__ | ptp struct TYPE_11__ 
+struct TYPE_13__ | Param5 int | Param4 int | Param3 int | Param2 int | Param1 int | Transaction_ID int | SessionID int | Code int 
+struct TYPE_9__ | pData struct TYPE_14__ * 
+function USBH_PTP_GetResponse int | phost struct TYPE_12__ * | resp struct TYPE_13__ *

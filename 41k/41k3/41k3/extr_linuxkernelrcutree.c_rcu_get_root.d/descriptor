@@ -1,0 +1,3 @@
+struct rcu_state | node struct rcu_node * 
+struct rcu_node | dummy int 
+function rcu_get_root struct rcu_node * | rsp struct rcu_state *

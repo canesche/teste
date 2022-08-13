@@ -1,0 +1,3 @@
+struct zspage | dummy int 
+struct zs_pool | dummy int 
+function SetZsPageMovable void | pool struct zs_pool * | zspage struct zspage *

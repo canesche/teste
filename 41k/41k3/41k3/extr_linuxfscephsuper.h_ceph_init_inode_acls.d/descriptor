@@ -1,0 +1,3 @@
+struct inode | dummy int 
+struct ceph_acls_info | dummy int 
+function ceph_init_inode_acls void | inode struct inode * | info struct ceph_acls_info *

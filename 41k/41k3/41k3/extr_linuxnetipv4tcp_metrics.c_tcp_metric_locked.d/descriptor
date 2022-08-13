@@ -1,0 +1,2 @@
+struct tcp_metrics_block | tcpm_lock int 
+function tcp_metric_locked int | tm struct tcp_metrics_block * | idx enum tcp_metric_index

@@ -1,0 +1,1 @@
+function Opcode_xsr_icountlevel_Slot_inst_encode void | slotbuf int *

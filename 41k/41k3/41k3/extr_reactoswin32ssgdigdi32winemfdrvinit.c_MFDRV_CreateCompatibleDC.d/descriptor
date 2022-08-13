@@ -1,0 +1,1 @@
+function MFDRV_CreateCompatibleDC int | orig int | pdev int *

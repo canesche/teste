@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function pnfs_report_layoutstat int | inode struct inode * | gfp_flags int

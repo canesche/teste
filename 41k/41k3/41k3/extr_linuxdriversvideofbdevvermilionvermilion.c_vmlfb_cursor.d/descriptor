@@ -1,0 +1,3 @@
+struct fb_info | dummy int 
+struct fb_cursor | dummy int 
+function vmlfb_cursor int | info struct fb_info * | cursor struct fb_cursor *

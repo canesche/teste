@@ -1,0 +1,2 @@
+struct rxrpc_call | nr_jumbo_bad int 
+function rxrpc_input_dup_data void | call struct rxrpc_call * | seq int | annotation long | _jumbo_bad int *

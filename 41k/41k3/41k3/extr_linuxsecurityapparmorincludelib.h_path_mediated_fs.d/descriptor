@@ -1,0 +1,3 @@
+struct dentry | d_sb struct TYPE_2__ * 
+struct TYPE_2__ | s_flags int 
+function path_mediated_fs int | dentry struct dentry *

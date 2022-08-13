@@ -1,0 +1,3 @@
+struct tipc_name_seq | upper int | lower int | type int 
+struct tipc_group | scope int | instance int | type int 
+function tipc_group_self void | grp struct tipc_group * | seq struct tipc_name_seq * | scope int *

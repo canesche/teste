@@ -1,0 +1,6 @@
+struct TYPE_8__ | offset int | length int | msb_right long 
+struct TYPE_7__ | offset int | length int | msb_right long 
+struct TYPE_6__ | offset int | length int | msb_right long 
+struct TYPE_5__ | length int | msb_right long | offset int 
+struct fb_var_screeninfo | bits_per_pixel int | transp struct TYPE_8__ | red struct TYPE_7__ | green struct TYPE_6__ | blue struct TYPE_5__ 
+function vmlfb_set_pref_pixel_format void | var struct fb_var_screeninfo *

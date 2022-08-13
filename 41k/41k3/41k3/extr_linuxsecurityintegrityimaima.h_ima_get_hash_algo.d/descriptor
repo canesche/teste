@@ -1,0 +1,2 @@
+struct evm_ima_xattr_data | dummy int 
+function ima_get_hash_algo enum hash_algo | xattr_value struct evm_ima_xattr_data * | xattr_len int

@@ -1,0 +1,2 @@
+struct sugov_policy | next_freq unsigned int | last_freq_update_time int 
+function sugov_update_next_freq int | sg_policy struct sugov_policy * | time int | next_freq unsigned int

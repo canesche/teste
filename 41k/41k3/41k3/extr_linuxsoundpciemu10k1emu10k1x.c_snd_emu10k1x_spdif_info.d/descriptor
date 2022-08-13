@@ -1,0 +1,3 @@
+struct snd_kcontrol | dummy int 
+struct snd_ctl_elem_info | count int | type int 
+function snd_emu10k1x_spdif_info int | kcontrol struct snd_kcontrol * | uinfo struct snd_ctl_elem_info *

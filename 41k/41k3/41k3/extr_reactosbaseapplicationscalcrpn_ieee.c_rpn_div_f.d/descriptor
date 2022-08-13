@@ -1,0 +1,3 @@
+struct TYPE_6__ | f int 
+struct TYPE_7__ | is_nan int 
+function rpn_div_f void | r struct TYPE_6__ * | a struct TYPE_6__ * | b struct TYPE_6__ *

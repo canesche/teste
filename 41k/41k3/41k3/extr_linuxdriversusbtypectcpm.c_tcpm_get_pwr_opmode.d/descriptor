@@ -1,0 +1,1 @@
+function tcpm_get_pwr_opmode enum typec_pwr_opmode | cc enum typec_cc_status

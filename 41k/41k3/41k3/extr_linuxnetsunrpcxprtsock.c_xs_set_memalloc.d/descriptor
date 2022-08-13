@@ -1,0 +1,2 @@
+struct rpc_xprt | dummy int 
+function xs_set_memalloc void | xprt struct rpc_xprt *

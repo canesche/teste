@@ -1,0 +1,2 @@
+struct xdp_md | dummy int 
+function __is_valid_xdp_access int | off int | size int

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 14,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundisasc6000.c_sc6000_mpu_irq_to_softcfg.d/extr_linuxsoundisasc6000.c_sc6000_mpu_irq_to_softcfg_O0::sc6000_mpu_irq_to_softcfg(60)"
+  }
+]

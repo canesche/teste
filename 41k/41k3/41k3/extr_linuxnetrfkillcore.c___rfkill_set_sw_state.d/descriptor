@@ -1,0 +1,2 @@
+struct rfkill | state int 
+function __rfkill_set_sw_state void | rfkill struct rfkill * | blocked int

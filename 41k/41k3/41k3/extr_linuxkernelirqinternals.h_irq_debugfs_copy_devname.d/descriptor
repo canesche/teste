@@ -1,0 +1,2 @@
+struct device | dummy int 
+function irq_debugfs_copy_devname void | irq int | dev struct device *

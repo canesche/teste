@@ -1,0 +1,3 @@
+struct TYPE_5__ | capacity int | seq int 
+struct TYPE_6__ | capacity int | start int 
+function seqToBuffer struct TYPE_6__ | seq struct TYPE_5__

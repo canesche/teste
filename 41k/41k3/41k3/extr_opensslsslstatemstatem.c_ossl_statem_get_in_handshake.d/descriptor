@@ -1,0 +1,3 @@
+struct TYPE_4__ | in_handshake int 
+struct TYPE_5__ | statem struct TYPE_4__ 
+function ossl_statem_get_in_handshake int | s struct TYPE_5__ *

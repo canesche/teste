@@ -1,0 +1,2 @@
+struct TYPE_3__ | ptr char * | end char * | nl long 
+function allow_auto_semicolon int | ctx struct TYPE_3__ *

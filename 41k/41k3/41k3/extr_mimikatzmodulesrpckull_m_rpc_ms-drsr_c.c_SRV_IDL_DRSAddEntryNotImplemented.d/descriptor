@@ -1,0 +1,1 @@
+function SRV_IDL_DRSAddEntryNotImplemented int | hDrs int | dwInVersion int | pmsgIn int * | pdwOutVersion int * | pmsgOut int *

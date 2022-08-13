@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactossdklib3rdpartystlportsrcc_locale_win32c_wlocale_win32.c__WLocale_mb_cur_max.d/extr_reactossdklib3rdpartystlportsrcc_locale_win32c_wlocale_win32.c__WLocale_mb_cur_max_O0::_WLocale_mb_cur_max(63)"
+  }
+]

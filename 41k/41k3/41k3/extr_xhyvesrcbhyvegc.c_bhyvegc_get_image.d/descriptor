@@ -1,0 +1,3 @@
+struct bhyvegc_image | dummy int 
+struct bhyvegc | gc_image struct bhyvegc_image * 
+function bhyvegc_get_image struct bhyvegc_image * | gc struct bhyvegc *

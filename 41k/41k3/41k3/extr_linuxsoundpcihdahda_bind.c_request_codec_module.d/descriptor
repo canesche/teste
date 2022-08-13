@@ -1,0 +1,2 @@
+struct hda_codec | dummy int 
+function request_codec_module void | codec struct hda_codec *

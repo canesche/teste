@@ -1,0 +1,3 @@
+struct reuseport_array | dummy int 
+struct bpf_map | dummy int 
+function reuseport_array struct reuseport_array * | map struct bpf_map *

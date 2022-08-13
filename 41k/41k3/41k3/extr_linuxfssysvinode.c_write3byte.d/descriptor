@@ -1,0 +1,2 @@
+struct sysv_sb_info | s_bytesex long 
+function write3byte void | sbi struct sysv_sb_info * | from unsigned char * | to unsigned char *

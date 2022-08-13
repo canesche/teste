@@ -1,0 +1,3 @@
+struct TYPE_2__ | p_w long | p_h long 
+struct mp_image | imgfmt long | w long | nominal_fps long | params struct TYPE_2__ | h long 
+function is_vformat_ok int | a struct mp_image * | b struct mp_image *

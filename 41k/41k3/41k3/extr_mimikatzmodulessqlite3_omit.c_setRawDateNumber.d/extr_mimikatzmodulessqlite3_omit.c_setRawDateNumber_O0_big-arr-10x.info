@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_mimikatzmodulessqlite3_omit.c_setRawDateNumber.d/extr_mimikatzmodulessqlite3_omit.c_setRawDateNumber_O0::setRawDateNumber(63)"
+  }
+]

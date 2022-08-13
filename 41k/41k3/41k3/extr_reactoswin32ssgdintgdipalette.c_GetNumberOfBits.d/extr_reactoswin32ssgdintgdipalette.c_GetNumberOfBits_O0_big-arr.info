@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 18,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 97,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactoswin32ssgdintgdipalette.c_GetNumberOfBits.d/extr_reactoswin32ssgdintgdipalette.c_GetNumberOfBits_O0::GetNumberOfBits(60)"
+  }
+]

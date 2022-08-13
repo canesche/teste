@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function pnfs_layoutcommit_outstanding int | inode struct inode *

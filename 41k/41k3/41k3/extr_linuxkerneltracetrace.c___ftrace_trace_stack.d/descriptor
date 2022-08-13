@@ -1,0 +1,3 @@
+struct ring_buffer | dummy int 
+struct pt_regs | dummy int 
+function __ftrace_trace_stack void | buffer struct ring_buffer * | flags unsigned long | skip int | pc int | regs struct pt_regs *

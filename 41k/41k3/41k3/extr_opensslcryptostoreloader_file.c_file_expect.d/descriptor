@@ -1,0 +1,2 @@
+struct TYPE_3__ | expected_type int 
+function file_expect int | ctx struct TYPE_3__ * | expected int

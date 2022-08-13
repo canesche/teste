@@ -1,0 +1,4 @@
+struct TYPE_2__ | afg long 
+struct hda_codec | core struct TYPE_2__ | spec struct alc_spec * 
+struct alc_spec | gpio_data long 
+function gpio_led_power_filter unsigned int | codec struct hda_codec * | nid long | power_state unsigned int

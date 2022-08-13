@@ -1,0 +1,2 @@
+struct ud | dis_mode int 
+function ud_set_mode void | u struct ud * | m int

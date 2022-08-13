@@ -1,0 +1,3 @@
+struct TYPE_3__ | pEntry int * | pValue void * 
+struct TYPE_4__ | SpawnEntries struct TYPE_3__ * 
+function _SlNonOsSpawn int | pEntry int * | pValue void * | flags int

@@ -1,0 +1,2 @@
+struct hdspm | settings_register int 
+function hdspm_tristate int | hdspm struct hdspm * | regmask int

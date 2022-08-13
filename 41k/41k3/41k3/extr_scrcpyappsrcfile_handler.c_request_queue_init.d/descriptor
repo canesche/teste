@@ -1,0 +1,2 @@
+struct request_queue | tail long | head long 
+function request_queue_init int | queue struct request_queue *

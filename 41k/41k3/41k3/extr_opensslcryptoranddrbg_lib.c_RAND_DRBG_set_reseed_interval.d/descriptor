@@ -1,0 +1,2 @@
+struct TYPE_3__ | reseed_interval unsigned int 
+function RAND_DRBG_set_reseed_interval int | drbg struct TYPE_3__ * | interval unsigned int

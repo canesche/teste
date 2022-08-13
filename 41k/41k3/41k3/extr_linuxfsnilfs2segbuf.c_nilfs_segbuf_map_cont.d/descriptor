@@ -1,0 +1,3 @@
+struct TYPE_2__ | nblocks long 
+struct nilfs_segment_buffer | sb_pseg_start long | sb_fseg_end long | sb_rest_blocks long | sb_sum struct TYPE_2__ | sb_fseg_start int | sb_segnum int 
+function nilfs_segbuf_map_cont void | segbuf struct nilfs_segment_buffer * | prev struct nilfs_segment_buffer *

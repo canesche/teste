@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_opensslcryptotsts_rsp_utils.c_TS_TST_INFO_get_policy_id.d/extr_opensslcryptotsts_rsp_utils.c_TS_TST_INFO_get_policy_id_O0::TS_TST_INFO_get_policy_id(64)"
+  }
+]

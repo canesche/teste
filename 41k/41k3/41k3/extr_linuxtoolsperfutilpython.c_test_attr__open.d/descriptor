@@ -1,0 +1,2 @@
+struct perf_event_attr | dummy int 
+function test_attr__open void | attr struct perf_event_attr * | pid int | cpu int | fd int | group_fd int | flags unsigned long

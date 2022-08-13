@@ -1,0 +1,2 @@
+struct rq | dummy int 
+function cpufreq_update_util void | rq struct rq * | flags unsigned int

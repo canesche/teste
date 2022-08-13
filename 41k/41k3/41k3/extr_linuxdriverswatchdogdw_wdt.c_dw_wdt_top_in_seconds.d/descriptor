@@ -1,0 +1,2 @@
+struct dw_wdt | rate unsigned int 
+function dw_wdt_top_in_seconds int | dw_wdt struct dw_wdt * | top unsigned int

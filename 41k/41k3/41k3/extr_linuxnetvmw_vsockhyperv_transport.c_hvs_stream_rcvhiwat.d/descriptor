@@ -1,0 +1,2 @@
+struct vsock_sock | dummy int 
+function hvs_stream_rcvhiwat long | vsk struct vsock_sock *

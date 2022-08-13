@@ -1,0 +1,2 @@
+struct TYPE_3__ | spaceNr int | space int * | spaceTab int * 
+function spacePop int | ctxt struct TYPE_3__ *

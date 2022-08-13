@@ -1,0 +1,1 @@
+function shader_glsl_write_mask_to_str void | write_mask int | str char *

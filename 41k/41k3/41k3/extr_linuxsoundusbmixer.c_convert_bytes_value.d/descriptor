@@ -1,0 +1,2 @@
+struct usb_mixer_elem_info | val_type int 
+function convert_bytes_value int | cval struct usb_mixer_elem_info * | val int

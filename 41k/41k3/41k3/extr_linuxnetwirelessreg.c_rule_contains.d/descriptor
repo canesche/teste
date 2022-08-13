@@ -1,0 +1,4 @@
+struct TYPE_3__ | start_freq_khz long | end_freq_khz long | max_bandwidth_khz long 
+struct TYPE_4__ | max_antenna_gain long | max_eirp long 
+struct ieee80211_reg_rule | flags long | freq_range struct TYPE_3__ | power_rule struct TYPE_4__ 
+function rule_contains int | r1 struct ieee80211_reg_rule * | r2 struct ieee80211_reg_rule *

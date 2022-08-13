@@ -1,0 +1,3 @@
+struct vsock_transport_recv_notify_data | dummy int 
+struct vsock_sock | dummy int 
+function virtio_transport_notify_recv_pre_block int | vsk struct vsock_sock * | target unsigned long | data struct vsock_transport_recv_notify_data *

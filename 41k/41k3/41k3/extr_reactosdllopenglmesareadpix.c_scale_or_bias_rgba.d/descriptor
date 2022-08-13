@@ -1,0 +1,3 @@
+struct TYPE_4__ | RedScale float | RedBias float | GreenScale float | GreenBias float | BlueScale float | BlueBias float | AlphaScale float | AlphaBias float 
+struct TYPE_5__ | Pixel struct TYPE_4__ 
+function scale_or_bias_rgba int | ctx struct TYPE_5__ *

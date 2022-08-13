@@ -1,0 +1,3 @@
+struct TYPE_2__ | flag unsigned char 
+struct nat_entry | ni struct TYPE_2__ 
+function set_nat_flag void | ne struct nat_entry * | type unsigned int | set int

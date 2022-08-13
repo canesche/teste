@@ -1,0 +1,4 @@
+struct input_manager | screen struct TYPE_4__ * 
+struct TYPE_3__ | width int | height int 
+struct TYPE_4__ | frame_size struct TYPE_3__ 
+function is_outside_device_screen int | input_manager struct input_manager * | x int | y int

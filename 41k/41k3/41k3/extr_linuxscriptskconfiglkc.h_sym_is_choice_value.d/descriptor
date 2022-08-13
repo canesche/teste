@@ -1,0 +1,2 @@
+struct symbol | flags int 
+function sym_is_choice_value int | sym struct symbol *

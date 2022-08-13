@@ -1,0 +1,2 @@
+struct trace_iterator | dummy int 
+function print_graph_function_flags enum print_line_t | iter struct trace_iterator * | flags int

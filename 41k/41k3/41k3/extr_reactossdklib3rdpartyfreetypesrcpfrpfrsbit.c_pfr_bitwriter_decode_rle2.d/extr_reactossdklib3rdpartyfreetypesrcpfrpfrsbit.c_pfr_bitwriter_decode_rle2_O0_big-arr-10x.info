@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 25,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactossdklib3rdpartyfreetypesrcpfrpfrsbit.c_pfr_bitwriter_decode_rle2.d/extr_reactossdklib3rdpartyfreetypesrcpfrpfrsbit.c_pfr_bitwriter_decode_rle2_O0::pfr_bitwriter_decode_rle2(69)"
+  }
+]

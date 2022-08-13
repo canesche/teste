@@ -1,0 +1,3 @@
+struct sst_dsp | dummy int 
+struct sst_byt | dsp struct sst_dsp * 
+function sst_byt_get_dsp struct sst_dsp * | byt struct sst_byt *

@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 36,
+    phantoms: 17,
+    exit: true,
+    halt: false,
+    edges: 71,
+    static: {
+      instructions: 148,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 148,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdllwin32usp10shape.c_combining_lexical_Syriac.d/extr_reactosdllwin32usp10shape.c_combining_lexical_Syriac_O0::combining_lexical_Syriac(61)"
+  }
+]

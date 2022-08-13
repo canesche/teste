@@ -1,0 +1,2 @@
+struct nfs_server | dummy int 
+function nfs_server_fscache_state const char * | server struct nfs_server *

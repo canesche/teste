@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_zstdzlibWrapperzstd_zlibwrapper.c_ZWRAP_setDecompressionType.d/extr_zstdzlibWrapperzstd_zlibwrapper.c_ZWRAP_setDecompressionType_O0::ZWRAP_setDecompressionType(61)"
+  }
+]

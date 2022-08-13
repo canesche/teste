@@ -1,0 +1,8 @@
+struct falcon_hw | sync int | vid_mode int | vid_control int | line_offset int | line_width int | xoffset int | f_shift long | st_shift long | ste_mode long | vss int | vde int | vdb int | vbe int | vbb int | vft int | hss int | hde int | hdb int | hbe int | hbb int | hht int 
+struct TYPE_7__ | line_offset int | xoffset int 
+struct TYPE_8__ | falcon struct TYPE_7__ 
+struct TYPE_12__ | hw struct TYPE_8__ 
+struct TYPE_11__ | syncmode int 
+struct TYPE_10__ | off_next int | scn_width int 
+struct TYPE_9__ | xoffset int | mode int | control int | f_shift long | st_shift long | vss int | vde int | vdb int | vbe int | vbb int | vft int | hss int | hde int | hdb int | hbe int | hbb int | hht int 
+function falcon_vbl_switcher int | irq int | dummy void *

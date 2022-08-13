@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 3,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 5,
+    static: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 11,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactossdklib3rdpartystlportsrcc_locale_win32c_locale_win32.c__Locale_get_monetary_hint.d/extr_reactossdklib3rdpartystlportsrcc_locale_win32c_locale_win32.c__Locale_get_monetary_hint_O0::_Locale_get_monetary_hint(64)"
+  }
+]

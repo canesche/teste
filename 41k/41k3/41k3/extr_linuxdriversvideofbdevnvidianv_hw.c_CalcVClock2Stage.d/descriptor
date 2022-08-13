@@ -1,0 +1,2 @@
+struct nvidia_par | CrystalFreqKHz int 
+function CalcVClock2Stage void | clockIn int | clockOut int * | pllOut int * | pllBOut int * | par struct nvidia_par *

@@ -1,0 +1,3 @@
+struct mem_cgroup | dummy int 
+struct kmem_cache | dummy int 
+function init_memcg_params int | s struct kmem_cache * | memcg struct mem_cgroup * | root_cache struct kmem_cache *

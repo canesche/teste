@@ -1,0 +1,3 @@
+struct netlbl_lsm_catmap | dummy int 
+struct ebitmap | dummy int 
+function ebitmap_netlbl_import int | ebmap struct ebitmap * | catmap struct netlbl_lsm_catmap *

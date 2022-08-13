@@ -1,0 +1,3 @@
+struct TYPE_4__ | BytesPerCluster int | BytesPerSector int 
+struct TYPE_5__ | NtfsInfo struct TYPE_4__ 
+function GetAllocationOffsetFromVCN int | DeviceExt struct TYPE_5__ * | IndexBufferSize int | Vcn int

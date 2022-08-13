@@ -1,0 +1,3 @@
+struct TYPE_4__ | output_flags int 
+struct TYPE_5__ | info struct TYPE_4__ 
+function source_has_audio int | source struct TYPE_5__ *

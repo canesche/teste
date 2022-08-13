@@ -1,0 +1,1 @@
+function vmx_ctl_allows_zero_setting int | msr_val unsigned long | bitpos int

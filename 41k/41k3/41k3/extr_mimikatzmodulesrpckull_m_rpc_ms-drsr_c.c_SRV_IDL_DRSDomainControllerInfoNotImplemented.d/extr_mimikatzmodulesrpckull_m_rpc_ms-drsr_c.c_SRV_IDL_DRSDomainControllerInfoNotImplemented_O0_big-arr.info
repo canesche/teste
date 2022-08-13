@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 10,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_mimikatzmodulesrpckull_m_rpc_ms-drsr_c.c_SRV_IDL_DRSDomainControllerInfoNotImplemented.d/extr_mimikatzmodulesrpckull_m_rpc_ms-drsr_c.c_SRV_IDL_DRSDomainControllerInfoNotImplemented_O0::SRV_IDL_DRSDomainControllerInfoNotImplemented(66)"
+  }
+]

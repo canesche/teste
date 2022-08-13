@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 13,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosbaseapplicationsmstscwin32.c_get_scan_code_from_ascii.d/extr_reactosbaseapplicationsmstscwin32.c_get_scan_code_from_ascii_O0::get_scan_code_from_ascii(61)"
+  }
+]

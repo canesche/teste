@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxdriversw1slavesw1_ds28e04.c_w1_f1C_fix_count.d/extr_linuxdriversw1slavesw1_ds28e04.c_w1_f1C_fix_count_O0::w1_f1C_fix_count(61)"
+  }
+]

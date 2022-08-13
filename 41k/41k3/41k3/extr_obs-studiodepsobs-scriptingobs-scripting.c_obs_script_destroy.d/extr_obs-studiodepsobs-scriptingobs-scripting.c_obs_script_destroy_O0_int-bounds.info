@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 2,
+    phantoms: 1,
+    exit: true,
+    halt: false,
+    edges: 4,
+    static: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 7,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_obs-studiodepsobs-scriptingobs-scripting.c_obs_script_destroy.d/extr_obs-studiodepsobs-scriptingobs-scripting.c_obs_script_destroy_O0::obs_script_destroy(61)"
+  }
+]

@@ -1,0 +1,2 @@
+struct aa_rlimit | dummy int 
+function aa_free_rlimit_rules void | rlims struct aa_rlimit *

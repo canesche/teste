@@ -1,0 +1,2 @@
+struct nfs4_client | cl_time long 
+function is_client_expired int | clp struct nfs4_client *

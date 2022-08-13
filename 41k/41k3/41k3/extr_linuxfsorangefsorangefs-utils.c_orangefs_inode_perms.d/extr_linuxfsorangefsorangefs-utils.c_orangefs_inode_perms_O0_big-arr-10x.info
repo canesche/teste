@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 12,
+    phantoms: 11,
+    exit: true,
+    halt: false,
+    edges: 24,
+    static: {
+      instructions: 62,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 62,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsorangefsorangefs-utils.c_orangefs_inode_perms.d/extr_linuxfsorangefsorangefs-utils.c_orangefs_inode_perms_O0::orangefs_inode_perms(83)"
+  }
+]

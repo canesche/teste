@@ -1,0 +1,2 @@
+struct zspage | inuse int 
+function get_zspage_inuse int | zspage struct zspage *

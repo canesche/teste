@@ -1,0 +1,3 @@
+struct TYPE_5__ | len long 
+struct TYPE_6__ | offset int | res08 int | res0c int | length long 
+function tmp_fill_segdir_seg void | segdir struct TYPE_6__ * | contents struct TYPE_5__ * | running_offset int *

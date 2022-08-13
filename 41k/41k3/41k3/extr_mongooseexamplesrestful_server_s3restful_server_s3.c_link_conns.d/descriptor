@@ -1,0 +1,2 @@
+struct mg_connection | user_data struct mg_connection * 
+function link_conns void | nc1 struct mg_connection * | nc2 struct mg_connection *

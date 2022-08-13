@@ -1,0 +1,2 @@
+struct TYPE_3__ | cursor long | tail long 
+function Q_AtTail int | q struct TYPE_3__ *

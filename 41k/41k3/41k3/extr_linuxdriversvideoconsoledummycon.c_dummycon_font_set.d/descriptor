@@ -1,0 +1,3 @@
+struct vc_data | dummy int 
+struct console_font | dummy int 
+function dummycon_font_set int | vc struct vc_data * | font struct console_font * | flags unsigned int

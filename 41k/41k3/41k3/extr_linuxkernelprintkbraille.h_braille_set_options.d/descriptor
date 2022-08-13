@@ -1,0 +1,2 @@
+struct console_cmdline | dummy int 
+function braille_set_options void | c struct console_cmdline * | brl_options char *

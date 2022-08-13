@@ -1,0 +1,2 @@
+struct TYPE_3__ | undo_text char * | undo_insert_count long 
+function EDIT_EM_EmptyUndoBuffer void | es struct TYPE_3__ *

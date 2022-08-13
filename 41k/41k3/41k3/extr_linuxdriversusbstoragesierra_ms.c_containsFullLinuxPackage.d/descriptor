@@ -1,0 +1,2 @@
+struct swoc_info | LinuxSKU int 
+function containsFullLinuxPackage int | swocInfo struct swoc_info *

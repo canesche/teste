@@ -1,0 +1,1 @@
+function saproxy_object_cast int | readobj int * | writeobj int * | type int

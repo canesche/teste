@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 3,
+    exit: true,
+    halt: false,
+    edges: 8,
+    static: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 22,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundsocintelskylakeskl-ssp-clk.c_skl_get_vbus_id.d/extr_linuxsoundsocintelskylakeskl-ssp-clk.c_skl_get_vbus_id_O0::skl_get_vbus_id(68)"
+  }
+]

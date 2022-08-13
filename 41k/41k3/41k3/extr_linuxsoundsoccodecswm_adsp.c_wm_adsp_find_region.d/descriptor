@@ -1,0 +1,3 @@
+struct wm_adsp_region | type int 
+struct wm_adsp | num_mems int | mem const struct wm_adsp_region * 
+function wm_adsp_find_region const struct wm_adsp_region * | dsp struct wm_adsp * | type int

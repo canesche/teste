@@ -1,0 +1,2 @@
+struct ext4_buddy | dummy int 
+function mb_mark_used_double void | e4b struct ext4_buddy * | first int | count int

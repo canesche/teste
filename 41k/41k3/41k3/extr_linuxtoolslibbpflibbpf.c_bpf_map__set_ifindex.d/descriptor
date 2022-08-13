@@ -1,0 +1,2 @@
+struct bpf_map | map_ifindex int 
+function bpf_map__set_ifindex void | map struct bpf_map * | ifindex int

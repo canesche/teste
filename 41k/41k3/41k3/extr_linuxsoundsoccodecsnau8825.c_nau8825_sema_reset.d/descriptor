@@ -1,0 +1,3 @@
+struct TYPE_2__ | count int 
+struct nau8825 | xtalk_sem struct TYPE_2__ 
+function nau8825_sema_reset void | nau8825 struct nau8825 *

@@ -1,0 +1,2 @@
+struct net_device | flags int 
+function is_admin_up int | dev struct net_device *

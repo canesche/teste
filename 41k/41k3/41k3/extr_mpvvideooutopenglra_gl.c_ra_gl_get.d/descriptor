@@ -1,0 +1,3 @@
+struct ra_gl | gl int * 
+struct ra | priv struct ra_gl * 
+function ra_gl_get int * | ra struct ra *

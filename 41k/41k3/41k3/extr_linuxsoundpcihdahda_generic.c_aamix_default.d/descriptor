@@ -1,0 +1,2 @@
+struct hda_gen_spec | aamix_mode long | have_aamix_ctl int 
+function aamix_default int | spec struct hda_gen_spec *

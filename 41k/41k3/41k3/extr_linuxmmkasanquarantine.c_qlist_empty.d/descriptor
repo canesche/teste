@@ -1,0 +1,2 @@
+struct qlist_head | head int 
+function qlist_empty int | q struct qlist_head *

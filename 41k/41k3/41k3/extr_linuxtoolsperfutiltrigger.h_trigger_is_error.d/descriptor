@@ -1,0 +1,2 @@
+struct trigger | state long 
+function trigger_is_error int | t struct trigger *

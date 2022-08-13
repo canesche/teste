@@ -1,0 +1,2 @@
+struct sk_buff | dummy int 
+function mip6_addr_swap void | skb struct sk_buff *

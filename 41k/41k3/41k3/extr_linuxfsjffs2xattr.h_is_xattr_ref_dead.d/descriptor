@@ -1,0 +1,2 @@
+struct jffs2_xattr_ref | xseqno int 
+function is_xattr_ref_dead int | ref struct jffs2_xattr_ref *

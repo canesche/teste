@@ -1,0 +1,6 @@
+struct ipv6hdr | dummy int 
+struct iphdr | dummy int 
+struct icmphdr | dummy int 
+struct icmp6hdr | dummy int 
+struct eth_hdr | dummy int 
+function calc_offset int | is_ipv6 int | is_icmp int

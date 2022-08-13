@@ -1,0 +1,3 @@
+struct TYPE_4__ | length int 
+struct TYPE_5__ | message struct TYPE_4__ 
+function init_message int | connection struct TYPE_5__ *

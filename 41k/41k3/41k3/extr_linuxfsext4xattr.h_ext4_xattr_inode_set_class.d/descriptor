@@ -1,0 +1,2 @@
+struct inode | dummy int 
+function ext4_xattr_inode_set_class void | ea_inode struct inode *

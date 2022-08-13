@@ -1,0 +1,6 @@
+struct TYPE_6__ | externalsr int 
+struct TYPE_5__ | sfreq int 
+struct TYPE_7__ | aac_params struct TYPE_6__ | pcm_params struct TYPE_5__ 
+struct TYPE_8__ | uc struct TYPE_7__ 
+struct snd_sst_params | codec int | sparams struct TYPE_8__ 
+function sst_get_sfreq int | str_param struct snd_sst_params *

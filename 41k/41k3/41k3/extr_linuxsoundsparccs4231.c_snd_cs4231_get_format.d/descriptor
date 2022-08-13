@@ -1,0 +1,2 @@
+struct snd_cs4231 | dummy int 
+function snd_cs4231_get_format unsigned char | chip struct snd_cs4231 * | format int | channels int

@@ -1,0 +1,2 @@
+struct bpf_insn_pos | pos long | end long 
+function check_pos int | pos struct bpf_insn_pos *

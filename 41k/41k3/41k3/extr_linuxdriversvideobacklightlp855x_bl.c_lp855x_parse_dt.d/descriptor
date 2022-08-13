@@ -1,0 +1,2 @@
+struct lp855x | dummy int 
+function lp855x_parse_dt int | lp struct lp855x *

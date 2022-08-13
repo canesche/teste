@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 6,
+    phantoms: 5,
+    exit: true,
+    halt: false,
+    edges: 12,
+    static: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 37,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_openpilotphonelibsnanovgfontstash.h_fons__getVertAlign.d/extr_openpilotphonelibsnanovgfontstash.h_fons__getVertAlign_O0::fons__getVertAlign(73)"
+  }
+]

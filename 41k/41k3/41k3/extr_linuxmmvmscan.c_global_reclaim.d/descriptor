@@ -1,0 +1,2 @@
+struct scan_control | dummy int 
+function global_reclaim int | sc struct scan_control *

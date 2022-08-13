@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 1,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 2,
+    static: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 5,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxfsnfsclient.c_nfs_cleanup_cb_ident_idr.d/extr_linuxfsnfsclient.c_nfs_cleanup_cb_ident_idr_O0::nfs_cleanup_cb_ident_idr(61)"
+  }
+]

@@ -1,0 +1,2 @@
+struct parser | state int 
+function set_state enum parser_state | parser struct parser * | state enum parser_state

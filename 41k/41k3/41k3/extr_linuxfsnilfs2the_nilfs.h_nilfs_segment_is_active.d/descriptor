@@ -1,0 +1,2 @@
+struct the_nilfs | ns_segnum long | ns_nextnum long 
+function nilfs_segment_is_active int | nilfs struct the_nilfs * | n long

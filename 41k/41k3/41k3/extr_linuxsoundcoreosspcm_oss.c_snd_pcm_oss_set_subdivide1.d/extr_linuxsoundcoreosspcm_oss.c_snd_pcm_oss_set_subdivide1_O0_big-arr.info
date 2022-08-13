@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: false,
+    blocks: 4,
+    phantoms: 2,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 19,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundcoreosspcm_oss.c_snd_pcm_oss_set_subdivide1.d/extr_linuxsoundcoreosspcm_oss.c_snd_pcm_oss_set_subdivide1_O0::snd_pcm_oss_set_subdivide1(65)"
+  }
+]

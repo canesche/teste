@@ -1,0 +1,4 @@
+struct TYPE_7__ | view struct TYPE_6__ * 
+struct TYPE_5__ | h int 
+struct TYPE_6__ | pos struct TYPE_5__ 
+function cursorThreshold int | panel struct TYPE_7__ *

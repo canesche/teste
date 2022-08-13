@@ -1,0 +1,2 @@
+struct file | f_op int * 
+function is_file_epoll int | f struct file *

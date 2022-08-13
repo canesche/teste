@@ -1,0 +1,2 @@
+struct ctf_stream | count long 
+function is_flush_needed int | cs struct ctf_stream *

@@ -1,0 +1,2 @@
+struct TYPE_2__ | kbd_priority int | kbd_arg void * | kbd_event_cb int 
+function console_kbd_register void | event_cb int | arg void * | pri int

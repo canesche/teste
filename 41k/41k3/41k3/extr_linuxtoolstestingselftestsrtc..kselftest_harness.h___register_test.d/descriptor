@@ -1,0 +1,2 @@
+struct __test_metadata | prev struct __test_metadata * | next struct __test_metadata * 
+function __register_test void | t struct __test_metadata *

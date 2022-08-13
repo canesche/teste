@@ -1,0 +1,1 @@
+function PxeDiskSeek int | FileId int | Position int * | SeekMode int

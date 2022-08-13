@@ -1,0 +1,2 @@
+struct handle_wrapper | size int 
+function handle_getsize int | handle struct handle_wrapper *

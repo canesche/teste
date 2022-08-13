@@ -1,0 +1,2 @@
+struct cfs_rq | min_vruntime long | min_vruntime_copy long | tasks_timeline int 
+function init_cfs_rq void | cfs_rq struct cfs_rq *

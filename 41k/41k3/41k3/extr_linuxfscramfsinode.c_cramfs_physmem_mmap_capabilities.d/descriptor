@@ -1,0 +1,2 @@
+struct file | dummy int 
+function cramfs_physmem_mmap_capabilities unsigned int | file struct file *

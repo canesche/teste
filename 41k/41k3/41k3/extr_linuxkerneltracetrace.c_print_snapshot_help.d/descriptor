@@ -1,0 +1,3 @@
+struct trace_iterator | dummy int 
+struct seq_file | dummy int 
+function print_snapshot_help void | m struct seq_file * | iter struct trace_iterator *

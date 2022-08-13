@@ -1,0 +1,1 @@
+function mp_hal_gpio_clock_enable void | gpio int *

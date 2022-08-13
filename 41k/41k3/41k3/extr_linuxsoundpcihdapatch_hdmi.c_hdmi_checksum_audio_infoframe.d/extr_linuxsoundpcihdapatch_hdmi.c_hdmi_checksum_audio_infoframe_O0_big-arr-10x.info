@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 6,
+    static: {
+      instructions: 28,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 115,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_linuxsoundpcihdapatch_hdmi.c_hdmi_checksum_audio_infoframe.d/extr_linuxsoundpcihdapatch_hdmi.c_hdmi_checksum_audio_infoframe_O0::hdmi_checksum_audio_infoframe(62)"
+  }
+]

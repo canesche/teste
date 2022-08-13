@@ -1,0 +1,2 @@
+struct net_bridge_port | dummy int 
+function nbp_vlan_delete int | port struct net_bridge_port * | vid int

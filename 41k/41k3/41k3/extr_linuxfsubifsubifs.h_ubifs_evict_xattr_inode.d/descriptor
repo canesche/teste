@@ -1,0 +1,2 @@
+struct ubifs_info | dummy int 
+function ubifs_evict_xattr_inode void | c struct ubifs_info * | xattr_inum int

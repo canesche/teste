@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x400670,
+    invoked: 1,
+    complete: true,
+    blocks: 4,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 7,
+    static: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 42,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_tenginemodulesngx_http_tfs_modulengx_tfs_common.c_ngx_http_tfs_wrap_raw_file_info.d/extr_tenginemodulesngx_http_tfs_modulengx_tfs_common.c_ngx_http_tfs_wrap_raw_file_info_O0::ngx_http_tfs_wrap_raw_file_info(68)"
+  }
+]

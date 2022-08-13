@@ -1,0 +1,23 @@
+[
+  {
+    cfg: 0x4005e0,
+    invoked: 1,
+    complete: true,
+    blocks: 33,
+    phantoms: 0,
+    exit: true,
+    halt: false,
+    edges: 50,
+    static: {
+      instructions: 119,
+      calls: 0,
+      signals: 0
+    },
+    dynamic: {
+      instructions: 119,
+      calls: 0,
+      signals: 0
+    },
+    name: "/home/41k3/extr_reactosdlldirectxwined3dcompiler_43bytecodewriter.c_d3d9_swizzle.d/extr_reactosdlldirectxwined3dcompiler_43bytecodewriter.c_d3d9_swizzle_O0::d3d9_swizzle(93)"
+  }
+]
