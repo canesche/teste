@@ -1,0 +1,64 @@
+program_25.c:8:1: error: If main has parameters, the type of the second parameter must be equivalent to char**.
+
+    Undefined behavior (UB-FD7):
+        see C11 section 5.1.2.2.1:1 http://rvdoc.org/C11/5.1.2.2.1
+        see C11 section J.2:1 item 4 http://rvdoc.org/C11/J.2
+        see CERT-C section MSC15-C http://rvdoc.org/CERT-C/MSC15-C
+        see MISRA-C section 8.1:3 http://rvdoc.org/MISRA-C/8.1
+
+program_25.c:33:1: error: Incompatible pointer types in initializer or function call arguments.
+
+    Constraint violation (CV-TSE2):
+        see C11 section 6.7.9:11 http://rvdoc.org/C11/6.7.9
+        see C11 section 6.5.16.1:1 http://rvdoc.org/C11/6.5.16.1
+        see CERT-C section MSC40-C http://rvdoc.org/CERT-C/MSC40-C
+        see MISRA-C section 8.1:1 http://rvdoc.org/MISRA-C/8.1
+
+program_25.c:34:1: error: Incompatible pointer types in initializer or function call arguments.
+
+    Constraint violation (CV-TSE2):
+        see C11 section 6.7.9:11 http://rvdoc.org/C11/6.7.9
+        see C11 section 6.5.16.1:1 http://rvdoc.org/C11/6.5.16.1
+        see CERT-C section MSC40-C http://rvdoc.org/CERT-C/MSC40-C
+        see MISRA-C section 8.1:1 http://rvdoc.org/MISRA-C/8.1
+
+program_25.c:35:1: error: Incompatible pointer types in initializer or function call arguments.
+
+    Constraint violation (CV-TSE2):
+        see C11 section 6.7.9:11 http://rvdoc.org/C11/6.7.9
+        see C11 section 6.5.16.1:1 http://rvdoc.org/C11/6.5.16.1
+        see CERT-C section MSC40-C http://rvdoc.org/CERT-C/MSC40-C
+        see MISRA-C section 8.1:1 http://rvdoc.org/MISRA-C/8.1
+
+program_25.c: In function 'main':
+program_25.c:33:21: warning: passing argument 1 of 'deallocate_3d_array' from incompatible pointer type [-Wincompatible-pointer-types]
+ deallocate_3d_array(A, 64, 64, 64);
+                     ^
+In file included from program_25.c:4:0:
+./init_dyn_array.h:26:6: note: expected 'int ***' but argument is of type 'float ***'
+ void deallocate_3d_array(int*** a,int l,int m, int k); //TODO: change signature!  we don't need last dimension
+      ^
+program_25.c:34:21: warning: passing argument 1 of 'deallocate_3d_array' from incompatible pointer type [-Wincompatible-pointer-types]
+ deallocate_3d_array(B, 64, 64, 64);
+                     ^
+In file included from program_25.c:4:0:
+./init_dyn_array.h:26:6: note: expected 'int ***' but argument is of type 'float ***'
+ void deallocate_3d_array(int*** a,int l,int m, int k); //TODO: change signature!  we don't need last dimension
+      ^
+program_25.c:35:21: warning: passing argument 1 of 'deallocate_3d_array' from incompatible pointer type [-Wincompatible-pointer-types]
+ deallocate_3d_array(C, 64, 64, 64);
+                     ^
+In file included from program_25.c:4:0:
+./init_dyn_array.h:26:6: note: expected 'int ***' but argument is of type 'float ***'
+ void deallocate_3d_array(int*** a,int l,int m, int k); //TODO: change signature!  we don't need last dimension
+      ^
+./pips_runtime.h:32:1: error: No definition for symbol with external linkage: pips_max_4.
+
+    Undefined behavior (UB-TDR2):
+        see C11 section 6.9:5 http://rvdoc.org/C11/6.9
+        see C11 section J.2:1 item 84 http://rvdoc.org/C11/J.2
+        see CERT-C section MSC15-C http://rvdoc.org/CERT-C/MSC15-C
+        see MISRA-C section 8.1:3 http://rvdoc.org/MISRA-C/8.1
+
+Translation failed. To repeat, run this command in directory programs:
+kcc -d program_25.c init_dyn_array.c -I.
